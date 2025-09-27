@@ -4,7 +4,7 @@
   <channel>
     <title>Columns</title>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>27 Sep 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>27 Sep 25 13:21 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -25,6 +25,37 @@
         <p>Further event details, including <a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements</a> such as image galleries, can be added to the body of this page.</p>]]>
       </description>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>September 26, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/september-26-2025-748</link>
+      <enclosure url="https://api.substack.com/feed/podcast/174704606/3a7a9815c6eb88ac0733ccf1db7e37d9.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/september-26-2025-748</guid>
+    </item>    <item>
+      <link>https://arstechnica.com/ai/2025/09/why-la-comic-con-thought-making-an-ai-powered-stan-lee-hologram-was-a-good-idea/</link>
+      <description>
+        <![CDATA[<p>Why LA Comic Con thought making an AI-powered Stan Lee hologram was a good idea.</p>]]>
+      </description>
+      <source:markdown>Why LA Comic Con thought making an AI-powered Stan Lee hologram was a good idea.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/09/27/1261/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/27.html#a160228</link>
+      <description>
+        <![CDATA[I'm writing <a href="https://daveverse.org/2025/09/27/wordland-synchronization-issue/">reports</a> about problems with WordLand using WordLand and I'm liking it. That's a good sign btw. And also I think it looks pretty great viewed in <a href="https://daveverse.org/2025/09/27/wordland-synchronization-issue/">WordPress</a> and in <a href="https://mastodon.social/@scripting@daveverse.org/115277099316805872">Mastodon</a>.]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/27.html#a160228</guid>
+    </item>    <item>
+      <title>Where the rubber meets the road…</title>
+      <link>https://statusq.org/archives/2025/09/27/13334/</link>
+      <description>
+        <![CDATA[I have a theory, which I&#8217;d like to expound, and my clever readers can tell me whether it&#8217;s right or wrong. It came to me in the mid-1980s, this theory, when I got my first car: a Hillman Imp, which I purchased for £90. It had no manuals, and, actually, no ignition key: you had <a class="more-link excerpt-link" href="https://statusq.org/archives/2025/09/27/13334/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a>]]>
+      </description>
+      <guid>cid://https://statusq.org/?p=13334</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/27.html#a145200</link>
+      <description>
+        <![CDATA[Automattic shipped a new product called <a href="https://wordpress.com/blog/2025/09/23/telex-turns-everyone-into-a-wordpress-block-developer/">Telex</a> that's a ChatGPT for designing blocks in WordPress designs. Blocks are a simple result of design and programming that define the behavior of a part of a WordPress page. Having seen a demo, it looks really useful and is a nice small programming space, where a lot of users could actually control the process, and get something useful quickly. I've gotten pretty adept at teasing images out of ChatGPT, and at some point I'm probably going to need a commerce site, to allocate subdomains for people's feeds in WordLand. Still have to figure out how that works.]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/27.html#a145200</guid>
     </item>    <item>
       <title>Humanity’s Toxic Wreckage Is Teeming With Life, Scientists Discover</title>
       <link>https://www.404media.co/humanitys-toxic-wreckage-is-teeming-with-life-scientists-discover/</link>
@@ -72,7 +103,7 @@
       <description>
         <![CDATA[With Katie Milne, Vishal Shankar, Michael Lahanas-Calder&#243;n, and yours truly, Robert Reich]]>
       </description>
-      <enclosure url="https://substack-video.s3.amazonaws.com/video_upload/post/174656376/cefc433a-7923-444a-8324-e06c1f68b11a/transcoded-1758930292.png" length="0" type="image/jpeg" />
+      <enclosure url="https://substack-video.s3.amazonaws.com/video_upload/post/174656376/cefc433a-7923-444a-8324-e06c1f68b11a/transcoded-00000.png" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/the-dictators-demise-the-coffee-klatch</guid>
     </item>    <item>
       <title>September 26, 2025</title>
@@ -3572,6 +3603,13 @@
       </description>
       <guid>cid://https://heathercoxrichardson.substack.com/p/september-19-2025</guid>
     </item>    <item>
+      <title>Science Notes / Borehole Oscillator</title>
+      <link>https://www.gregegan.net/SCIENCE/Borehole/Borehole.html</link>
+      <description>
+        <![CDATA[The page "Science Notes / Borehole Oscillator" has been updated]]>
+      </description>
+      <guid>cid://0000000226</guid>
+    </item>    <item>
       <title>Weeknotes: Sept. 13-19, 2025</title>
       <link>https://tracydurnell.com/2025/09/19/weeknotes-sept-13-19-2025/</link>
       <description>
@@ -6924,6 +6962,13 @@
       </description>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!o1T4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0aecde59-c3e6-490e-a644-70ce60205830_800x450.png" length="0" type="image/jpeg" />
       <guid>cid://https://paulkrugman.substack.com/p/money-isnt-everything</guid>
+    </item>    <item>
+      <title>Bibliography</title>
+      <link>https://www.gregegan.net/BIBLIOGRAPHY/Bibliography.html</link>
+      <description>
+        <![CDATA[The page "Bibliography" has been updated]]>
+      </description>
+      <guid>cid://0000000225</guid>
     </item>    <item>
       <link>https://truthout.org/articles/new-bill-would-allow-rubio-to-strip-us-citizens-passports-over-political-speech/</link>
       <description>
