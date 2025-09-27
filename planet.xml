@@ -4,10 +4,17 @@
   <channel>
     <title>Planet</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>27 Sep 25 13:21 -0700</lastBuildDate>
+    <lastBuildDate>27 Sep 25 15:10 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Bodies of man and young child found at house in Dublin</title>
+      <link>https://www.rte.ie/news/2025/0927/1535682-finglas/</link>
+      <description>
+        <![CDATA[Gardaí are investigating after two bodies were discovered at a house in Finglas in Dublin tonight.]]>
+      </description>
+      <guid>cid://https://www.rte.ie/news/2025/0927/1535682-finglas/</guid>
+    </item>    <item>
       <title>Dozens killed in stampede at political rally in India</title>
       <link>https://www.rte.ie/news/world/2025/0927/1535677-india-rally/</link>
       <description>
@@ -222,7 +229,7 @@
       <title>Body found in search for missing fisherman in Donegal Bay</title>
       <link>https://www.rte.ie/news/connacht/2025/0927/1535596-sligo-search/</link>
       <description>
-        <![CDATA[A body has been recovered in the search for a missing fisherman off the northeast coast.]]>
+        <![CDATA[A body has been recovered in the search for a missing fisherman off the northwest coast.]]>
       </description>
       <guid>cid://https://www.rte.ie/news/connacht/2025/0927/1535596-sligo-search/</guid>
     </item>    <item>
@@ -8165,6 +8172,13 @@
       </description>
       <guid>cid://https://www.rte.ie/news/regional/2025/0912/1533030-dublin-fire-brigade-wrc/</guid>
     </item>    <item>
+      <title>Brazil&#38;#8217;s former President Jair Bolsonaro convicted of attempted coup</title>
+      <description>
+        <![CDATA[The former president of Brazil, Jair Bolsonaro, was sentenced to over 27 years in prison after he was found guilty of attempting to use military force to overturn an election and plotting to assassinate current President Luiz Inacio Lula da Silva. Brian Winter of the Americas Society and Council of the Americas joins Nick Schifrin to discuss the ruling and the Trump administration's response. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy]]>
+      </description>
+      <enclosure url="https://flex2.acast.com/s/pbs-newshour-world/u/d3i6fh83elv35t.cloudfront.net/static/2025/09/verdictinbrazil.mp3" length="8630856" type="audio/mpeg" />
+      <guid>cid://https://www.pbs.org/newshour/show/brazils-former-president-jair-bolsonaro-convicted-of-attempted-coup</guid>
+    </item>    <item>
       <title>Cardinal Parolin: From Europe to Middle East, there&#39;s risk of endless escalation</title>
       <link>https://www.vaticannews.va/en/vatican-city/news/2025-09/parolin-from-europe-to-middle-east-risk-of-endless-escalation.html</link>
       <description>
@@ -8744,13 +8758,6 @@
         <![CDATA[Two in five small and medium-sized enterprises reported growth during the second quarter of the year, the highest level in over two years.]]>
       </description>
       <guid>cid://https://www.rte.ie/news/ireland/2025/0911/1532877-sme-report/</guid>
-    </item>    <item>
-      <title>&#38;#8216;Putin is mocking&#38;#8217; Trump, Polish foreign minister says after Russian drone incursion</title>
-      <description>
-        <![CDATA[It was an ominous series of firsts for the world&rsquo;s largest military alliance. For the first time in NATO history, alliance airplanes engaged enemy targets in allied airspace, and for the first time since Russia&rsquo;s full-scale war in Ukraine, NATO opened fire on Russian drones. Nick Schifrin discussed more with Poland's foreign minister. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy]]>
-      </description>
-      <enclosure url="https://flex2.acast.com/s/pbs-newshour-world/u/d3i6fh83elv35t.cloudfront.net/static/2025/09/russianincursion.mp3" length="7949000" type="audio/mpeg" />
-      <guid>cid://https://www.pbs.org/newshour/show/putin-is-mocking-trump-polish-foreign-minister-says-after-russian-drone-incursion</guid>
     </item>    <item>
       <title>Who was Trump ally and right-wing activist Charlie Kirk?</title>
       <link>https://www.rte.ie/news/us/2025/0910/1532873-charlie-kirk/</link>

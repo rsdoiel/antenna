@@ -4,10 +4,17 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>27 Sep 25 13:21 -0700</lastBuildDate>
+    <lastBuildDate>27 Sep 25 15:10 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>UNIX99: UNIX for the TI-99/4A</title>
+      <link>https://www.osnews.com/story/143436/unix99-unix-for-the-ti-99-4a/</link>
+      <description>
+        <![CDATA[I’ve been working on developing an operating system for the TI-99 for the last 18 months or so. I didn’t intend this—my original plan was to develop enough of the standard C libraries to help with writing cartridge-based and EA5 programs. But that trek led me quickly towards developing an OS. As Unix is by far my preferred OS, this OS is an approximation. Developing an OS within the resources available, particularly the RAM, has been challenging, but also surprisingly doable. ↫ UNIX99 forum announcement post We&#8217;re looking at a quite capable UNIX for the TI-99, with support for its sound, speech, sprites, and legacy 9918A display modes, GPU-accelerated scrolling, stdio (for text and binary files) and stdin/out/err support, a shell (of course), multiple user support, cooperative tasks support, and a ton more. And remember &#8211; all of this is running on a machine with a 16-bit processor running at 16MHz and a mere 16KB of RAM. Absolutely wild.]]>
+      </description>
+      <guid>cid://https://www.osnews.com/?p=143436</guid>
+    </item>    <item>
       <title>Hunt for RedNovember: Beijing hacked critical orgs in year-long snooping campaign</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/27/rednovember_chinese_espionage/</link>
       <description>

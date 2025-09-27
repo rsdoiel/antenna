@@ -4,7 +4,7 @@
   <channel>
     <title>Going Electric</title>
     <link>https://rsdoiel.github.io/antenna/going_electric.xml</link>
-    <lastBuildDate>27 Sep 25 13:21 -0700</lastBuildDate>
+    <lastBuildDate>27 Sep 25 15:10 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -168,6 +168,10 @@
         
         
         <p><em>Today’s episode is brought to you by Climate XChange, a nonpartisan nonprofit working to help states pass effective, equitable climate policies. The nonprofit just kicked off its 10th annual EV raffle, where participants have multiple opportunities to win their dream model. Visit <a href="http://carbonraffle.org/Electrek" target="_blank" rel="noreferrer noopener">CarbonRaffle.org/Electrek</a> to learn more.</em></p>
+        
+        
+        
+        <figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/09/Electrek_404.mp3"></audio></figure>
         
         
         
