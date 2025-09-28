@@ -4,10 +4,24 @@
   <channel>
     <title>socal_north.md</title>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>28 Sep 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>28 Sep 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Cal State system targeted for antisemitism probe by the Trump administration</title>
+      <link>https://laist.com/news/education/cal-state-system-targeted-for-antisemitism-probe-by-the-trump-administration</link>
+      <description>
+        <![CDATA[The 22-campus system is the latest higher education institution in California under investigation for alleged antisemitism.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-90cb-d788-abdf-d5fbd3f10000</guid>
+    </item>    <item>
+      <title>LA nonprofit repairs depleted park lands, one ‘test plot&#39; at a time</title>
+      <link>https://laist.com/news/los-angeles-activities/test-plot-urban-park-restoration</link>
+      <description>
+        <![CDATA[The nonprofit Test Plot harnesses community and volunteer power to test out how best to preserve and replenish degraded lands.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-59ba-dc59-addd-5bfad7680000</guid>
+    </item>    <item>
       <title>When Yue Wa Market closes this week, Chinatown will lose a neighborhood anchor</title>
       <link>https://laist.com/news/los-angeles-activities/yue-wa-market-closes-this-week-chinatown</link>
       <description>
@@ -21,13 +35,6 @@
         <![CDATA[The South Pasadena-based artist is having his first solo show in Los Angeles, featuring his beautiful, whimsical piñata pieces.]]>
       </description>
       <guid>cid://urn:uuid:00000199-81af-dcb9-a9bb-f1ff9ee40000</guid>
-    </item>    <item>
-      <title>Repairing depleted park lands in LA, one ‘test plot&#39; at a time</title>
-      <link>https://laist.com/news/los-angeles-activities/test-plot-urban-park-restoration</link>
-      <description>
-        <![CDATA[The nonprofit Test Plot harnesses community and volunteer power to test out how best to preserve and replenish degraded lands.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-59ba-dc59-addd-5bfad7680000</guid>
     </item>    <item>
       <title>California shrank prisons with sentencing changes. A new study shows how that’s working</title>
       <link>https://laist.com/news/california-prisons-sentencing-changes-report</link>

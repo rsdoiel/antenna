@@ -4,7 +4,7 @@
   <channel>
     <title>Libraries</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>28 Sep 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>28 Sep 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -29,7 +29,7 @@
       <description>
         <![CDATA[An aging knight returns home after years of service only to learn of his friend’s tragic death.]]>
       </description>
-      <enclosure url="https://standardebooks.org/ebooks/clara-reeve/the-old-english-baron/downloads/clara-reeve_the-old-english-baron.epub?source=feed" length="386078" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/clara-reeve/the-old-english-baron/downloads/clara-reeve_the-old-english-baron.epub?source=feed" length="386099" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/clara-reeve/the-old-english-baron</guid>
     </item>    <item>
       <title>The Cherry Orchard, by Anton Chekhov</title>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[A heavily indebted landowner and her family return to Russia in an attempt to save her estate from being auctioned off.]]>
       </description>
-      <enclosure url="https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett/downloads/anton-chekhov_the-cherry-orchard_constance-garnett.epub?source=feed" length="681750" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett/downloads/anton-chekhov_the-cherry-orchard_constance-garnett.epub?source=feed" length="681818" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett</guid>
     </item>    <item>
       <title>More Than a Major</title>

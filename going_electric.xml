@@ -4,10 +4,18 @@
   <channel>
     <title>Going Electric</title>
     <link>https://rsdoiel.github.io/antenna/going_electric.xml</link>
-    <lastBuildDate>28 Sep 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>28 Sep 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Why The Volvo EX60 Will Take Volvo&#39;s Battery Game To The Next Level</title>
+      <link>https://insideevs.com/news/773884/volvo-ex60-two-battery-chemistry-prismatic-cells/</link>
+      <description>
+        <![CDATA[The Volvo EX60 could be a game-changer for the brand when it goes on sale next year. It will offer cutting-edge battery technology.]]>
+      </description>
+      <enclosure url="https://cdn.motor1.com/images/mgl/VARWG/s3/volvo-concept-recharge-side-view.jpg" length="1" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/773884/volvo-ex60-two-battery-chemistry-prismatic-cells/</guid>
+    </item>    <item>
       <title>Volvo’s New Electric Bus Has A Gigantic Battery Pack</title>
       <link>https://insideevs.com/news/773795/volvo-buses-bzr-electric-coach-chassis-battery-power-specs/</link>
       <description>

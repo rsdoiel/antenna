@@ -4,16 +4,93 @@
   <channel>
     <title>Planet</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>28 Sep 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>28 Sep 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>NFL: Minnesota Vikings v Pittsburgh Steelers updates</title>
+      <title>New York City Mayor Adams drops reelection bid</title>
+      <link>https://www.rte.ie/news/world/2025/0928/1535776-eric-adams-newyork/</link>
+      <description>
+        <![CDATA[Embattled New York City Mayor Eric Adams, who has faced a federal bribery indictment and stunningly low approval ratings as the leader of the nation's largest city has dropped his reelection bid.]]>
+      </description>
+      <guid>cid://https://www.rte.ie/news/world/2025/0928/1535776-eric-adams-newyork/</guid>
+    </item>    <item>
+      <title>Spain&#39;s Valencia region on red alert for heavy rains</title>
+      <link>https://www.rte.ie/news/europe/2025/0928/1535772-valencia-rain/</link>
+      <description>
+        <![CDATA[Spain's meteorological agency has put the eastern Valencia region under red alert for heavy rains, amid fears of a repeat of floods that killed 235 people last October in the area.]]>
+      </description>
+      <guid>cid://https://www.rte.ie/news/europe/2025/0928/1535772-valencia-rain/</guid>
+    </item>    <item>
+      <title>Denmark reports new drone sightings at military locations</title>
+      <link>https://www.rte.ie/news/2025/0928/1535761-denmark-drone/</link>
+      <description>
+        <![CDATA[The Danish defence ministry has said it again observed drones at several of its armed forces locations overnight, a day after NATO announced it would enhance its vigilance in the Baltic Sea region.]]>
+      </description>
+      <guid>cid://https://www.rte.ie/news/2025/0928/1535761-denmark-drone/</guid>
+    </item>    <item>
+      <title>Two dead, nine injured in US Mormon church shooting</title>
+      <link>https://www.rte.ie/news/2025/0928/1535757-michigan-shooting/</link>
+      <description>
+        <![CDATA[A gunman opened fire inside a Michigan church during Sunday services before apparently setting the building ablaze, killing at least two people and injuring nine before police shot him, authorities said.]]>
+      </description>
+      <guid>cid://https://www.rte.ie/news/2025/0928/1535757-michigan-shooting/</guid>
+    </item>    <item>
+      <title>China sentences former agricultural minister to death</title>
+      <link>https://www.rte.ie/news/world/2025/0928/1535756-china-minister-death/</link>
+      <description>
+        <![CDATA[China's former minister for agriculture has been sentenced to death on corruption charges, with a two-year reprieve, a court statement said.]]>
+      </description>
+      <guid>cid://https://www.rte.ie/news/world/2025/0928/1535756-china-minister-death/</guid>
+    </item>    <item>
+      <title>2025 Ryder Cup Day 3: Lowry retains Cup for Europe</title>
+      <link>https://www.rte.ie/sport/golf/2025/0928/1535713-2025-ryder-cup-day-3-singles/</link>
+      <description>
+        <![CDATA[Live updates from the final day of the Ryder Cup at Bethpage Black, with Europe on the cusp of victory]]>
+      </description>
+      <guid>cid://https://www.rte.ie/sport/golf/2025/0928/1535713-2025-ryder-cup-day-3-singles/</guid>
+    </item>    <item>
+      <title>Israeli attacks kill 21 as Gaza death toll reaches 66,000</title>
+      <link>https://www.rte.ie/news/middle-east/2025/0928/1535751-gaza-israel/</link>
+      <description>
+        <![CDATA[Israeli attacks have killed at least 21 people across Gaza today as health authorities in the enclave said the death toll from Israeli attacks had climbed to over 66,000 since October 2023.]]>
+      </description>
+      <guid>cid://https://www.rte.ie/news/middle-east/2025/0928/1535751-gaza-israel/</guid>
+    </item>    <item>
+      <title>Steelers confirm player involved in &#39;incident&#39; in Dublin</title>
+      <link>https://www.rte.ie/news/ireland/2025/0928/1535744-pittsburgh-steelers-nfl-dublin-skylar-thompson/</link>
+      <description>
+        <![CDATA[A spokesman for American football team the Pittsburgh Steelers has confirmed that one of its players was involved in an incident in Dublin.]]>
+      </description>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/0928/1535744-pittsburgh-steelers-nfl-dublin-skylar-thompson/</guid>
+    </item>    <item>
+      <title>&#39;Supplementary&#39; €250m needed for health service - Gloster</title>
+      <link>https://www.rte.ie/news/health/2025/0928/1535750-hse-health-budget/</link>
+      <description>
+        <![CDATA[The Chief Executive of the HSE has said that "supplementary" funding will be required for the health service this year "probably in the order of about €250 million".]]>
+      </description>
+      <guid>cid://https://www.rte.ie/news/health/2025/0928/1535750-hse-health-budget/</guid>
+    </item>    <item>
+      <title>Ryder Cup announcer steps down over McIlroy chant</title>
+      <link>https://www.rte.ie/sport/golf/2025/0928/1535748-crowd-announcer-steps-down-over-mcilroy-fyou-chant/</link>
+      <description>
+        <![CDATA[A crowd announcer at the Ryder Cup has stood down after leading an expletive-filled chant about Rory McIlroy.]]>
+      </description>
+      <guid>cid://https://www.rte.ie/sport/golf/2025/0928/1535748-crowd-announcer-steps-down-over-mcilroy-fyou-chant/</guid>
+    </item>    <item>
+      <title>NFL recap: Pittsburgh Steelers 24-21 Minnesota Vikings</title>
       <link>https://www.rte.ie/sport/other-sport/2025/0928/1535722-nfl-minnesota-vikings-v-pittsburgh-steelers-updates/</link>
       <description>
-        <![CDATA[Croke Park is the venue for the first regular season clash to be staged in Ireland as the Minnesota Vikings take on the Pittsburgh Steelers.]]>
+        <![CDATA[Croke Park was the venue as the Pittsburgh Steelers held on for a 24-21 win over the Minnesota Vikings.]]>
       </description>
       <guid>cid://https://www.rte.ie/sport/other-sport/2025/0928/1535722-nfl-minnesota-vikings-v-pittsburgh-steelers-updates/</guid>
+    </item>    <item>
+      <title>2 dead, 8 wounded in shooting and fire at Michigan church, police say</title>
+      <link>https://www.cbc.ca/news/world/multiple-people-shot-michigan-church-1.7645943?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/1.7645949.1759079446!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/church-shooting-michigan.jpg' alt='An aerial view of smoke rising from a burning building in a parking lot' width='620' height='349' title='In this image taken from video released by Julie J, @Malkowski6April, Massive flames and smoke rise from The Church of Jesus Christ of Latter-day Saints in Grand Blanc, about 50 miles north of Detroit, Sunday, Sept. 28, 2025. (Julie J, @Malkowski6April via AP)'/><p>A gunman opened fire inside a Michigan church during a Sunday service before apparently setting the building ablaze, killing at least two people and injuring eight others before police shot him, authorities said.</p>]]>
+      </description>
+      <guid>cid://1.7645943</guid>
     </item>    <item>
       <title>Limerick tees off events as Adare to host next Ryder Cup</title>
       <link>https://www.rte.ie/news/munster/2025/0928/1535737-adare-ryder-cup/</link>
@@ -47,10 +124,10 @@
       </description>
       <guid>cid://https://www.vaticannews.va/en/africa/news/2025-09/nigeria-lagos-ecclesiastical-province-celebrates-jubilee-of-cat.html</guid>
     </item>    <item>
-      <title>Jim Gavin launches presidential campaign in Dublin</title>
+      <title>Gavin says vision to ensure everyone has voice in society</title>
       <link>https://www.rte.ie/news/presidential-election/2025/0928/1535729-presidential-election/</link>
       <description>
-        <![CDATA[Taoiseach Micheál Martin has said Fianna Fáil's presidential candidate Jim Gavin has the vision and experience to bring people together and represent the country with pride and authority on the world stage.]]>
+        <![CDATA[Fianna Fáil presidential candidate Jim Gavin has said his vision is to ensure that every person from every section of society has a voice.]]>
       </description>
       <guid>cid://https://www.rte.ie/news/presidential-election/2025/0928/1535729-presidential-election/</guid>
     </item>    <item>
@@ -63,12 +140,33 @@
       </description>
       <guid>cid://https://www.vaticannews.va/en/africa/news/2025-09/tanzania-bishops-caution-priests-against-partisan-politics-and.html</guid>
     </item>    <item>
+      <title>Denmark bans drone flights after fresh drone sightings at military bases</title>
+      <link>https://www.cbc.ca/news/world/denmark-bans-drone-flights-1.7645876?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/1.7645882.1759069794!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/denmark-nato-russia.jpg' alt='A machine is seen behind bushes. ' width='620' height='349' title='A mobile radar installation is seen at the Danish military site on Amager, Pionegaarden, near the village of Dragoer and on the coast of Oresund, the sea between Denmark and Sweden, on Friday, Sept. 26, 2025. '/><p>Denmark ordered a ban on Sunday on civil drone flights, after drones were observed at several military facilities overnight, following a week in which drone sorties caused the temporary closures of several Danish airports.</p>]]>
+      </description>
+      <guid>cid://1.7645876</guid>
+    </item>    <item>
+      <title>Palestinian death toll tops 66,000 as Israel&#39;s Netanyahu prepares to meet with Trump in the U.S.</title>
+      <link>https://www.cbc.ca/news/world/palestinian-death-toll-tops-66-thousand-1.7645848?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/1.7645851.1759065083!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians-gaza.jpg' alt='A man sits on a hospital bed with a bandaged leg, looking up at medical professionals.' width='620' height='349' title='Dr. Paul Ransom of the British humanitarian medical NGO UK-Med, assisted by local medical staff, treats patients at a field hospital in Muwasi, near Khan Younis in the southern Gaza Strip, Saturday, Sept. 27, 2025.'/><p>Over 66,000 Palestinians have been killed in the Israel-Hamas war, Gaza’s Health Ministry said Sunday, a day before Israeli Prime Minister Benjamin Netanyahu heads to the White House for talks with U.S. President Donald Trump on halting Israel’s ongoing offensive in the Gaza Strip.</p>]]>
+      </description>
+      <guid>cid://1.7645848</guid>
+    </item>    <item>
       <title>Moldovans begin voting in high-stakes election</title>
       <link>https://www.rte.ie/news/world/2025/0928/1535719-moldova-election/</link>
       <description>
         <![CDATA[Moldovans have begun voting in a parliamentary election that could have a major impact on the government's quest to join the European Union, as a popular pro-Russian group seeks to steer the small nation away from closer ties with the bloc.]]>
       </description>
       <guid>cid://https://www.rte.ie/news/world/2025/0928/1535719-moldova-election/</guid>
+    </item>    <item>
+      <title>Moldova&#39;s pro-EU party ahead in key polls - partial count</title>
+      <link>https://www.rte.ie/news/2025/0928/1535719-moldova-election/</link>
+      <description>
+        <![CDATA[Moldova's ruling party pulled ahead of the pro-Russian opposition as votes cast in a key parliamentary election were counted, but it looked set to fall short of the majority it wants in order to push for membership of the European Union.]]>
+      </description>
+      <guid>cid://https://www.rte.ie/news/2025/0928/1535719-moldova-election/</guid>
     </item>    <item>
       <title>August and everything after: Season debate still rages</title>
       <link>https://www.rte.ie/sport/hurling/2025/0928/1535001-august-and-everything-after-season-debate-still-rages/</link>
@@ -121,10 +219,10 @@
       </description>
       <guid>cid://https://www.rte.ie/sport/rowing/2025/0928/1535701-double-gold-for-irish-rowers-at-world-championships/</guid>
     </item>    <item>
-      <title>Russia launches major drone, missile attack on Ukraine</title>
+      <title>Russian govt dismisses Zelensky&#39;s &#39;bomb shelter&#39; threats</title>
       <link>https://www.rte.ie/news/ukraine/2025/0928/1535699-ukraine-russia-war/</link>
       <description>
-        <![CDATA[Russia launched hundreds of drones and missiles at Kyiv and other parts of Ukraine this morning, killing at least four people and injuring dozens, in one of the most sustained attacks on the capital since the war began.]]>
+        <![CDATA[The Russian government has dismissed threats by Ukrainian President Volodymyr Zelensky that the Kremlin and its officials are under threat from attack by Ukraine and its weaponry.]]>
       </description>
       <guid>cid://https://www.rte.ie/news/ukraine/2025/0928/1535699-ukraine-russia-war/</guid>
     </item>    <item>
@@ -179,13 +277,6 @@
       </description>
       <guid>cid://https://www.rte.ie/entertainment/2025/0928/1535656-the-walsh-sisters-rachels-unaware-she-needs-help/</guid>
     </item>    <item>
-      <title>As China explores the Arctic, Canada&#39;s military is preparing for confrontation</title>
-      <link>https://www.cbc.ca/news/canada/canada-arctic-military-exercise-sovereignty-1.7632848?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/1.7632874.1757708902!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/canadian-soldiers-arctic.JPG' alt='Five soldiers in stand on a barren landscape in heavy winter clothing. There&apos;s a helicopter and some mountains in the background.' width='620' height='349' title='Canadian soldiers prepare for a surveillance mission in Pond Inlet, Nunavut, as part of the annual Operation Nanook on Sept. 6, 2025.'/><p>More than 3,000 kilometres north of the nation’s capital, soldiers, ships and aircraft of Canada’s Armed Forces gathered this week in one of the most remote areas of the country to answer one question: How would they board a foreign vessel that neither wanted to be seen, nor stopped.</p>]]>
-      </description>
-      <guid>cid://1.7632848</guid>
-    </item>    <item>
       <title>Daycare in Denmark is a basic right. Could Canada offer the same?</title>
       <link>https://www.cbc.ca/news/world/daycare-canada-denmark-australia-subsidy-1.7639045?cmp=rss</link>
       <description>
@@ -221,10 +312,10 @@
       </description>
       <guid>cid://https://www.rte.ie/news/dublin/2025/0928/1535691-bodies-of-man-and-young-child-found-at-house-in-dublin/</guid>
     </item>    <item>
-      <title>Starmer under pressure ahead of Labour Party conference</title>
+      <title>McSweeney calls on UK govt to implement Philomena&#39;s Law</title>
       <link>https://www.rte.ie/news/uk/2025/0928/1535689-labour-conference-uk/</link>
       <description>
-        <![CDATA[British Prime Minister Keir Starmer faces increasing pressure over his leadership of the Labour Party as Reform UK leads opinion polls.]]>
+        <![CDATA[Actor Siobhán McSweeney has called on the British government to implement legislation that would give survivors of mother-and-baby homes, now living in the UK, access to Irish Government compensation.]]>
       </description>
       <guid>cid://https://www.rte.ie/news/uk/2025/0928/1535689-labour-conference-uk/</guid>
     </item>    <item>
@@ -351,6 +442,14 @@
       </description>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/27-09-2025_UNGA80_Russia.jpg/image560x340cropped.jpg" length="30996" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/09/1165976</guid>
+    </item>    <item>
+      <title>Current world order ‘reflects a bygone era,’ says Cuban Foreign Minister</title>
+      <link>https://news.un.org/feed/view/en/story/2025/09/1165978</link>
+      <description>
+        <![CDATA[Bruno Rodríguez Parilla, in his address to the General Assembly on Saturday, said that there can be no effective global response to serious challenges because the current world order "reflects a bygone era, when most developing countries did not even exist as independent states."&nbsp;]]>
+      </description>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/27-09-2025-UN-Photo-Cuba.jpg/image560x340cropped.jpg" length="31115" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/09/1165978</guid>
     </item>    <item>
       <title>New drone sightings over Denmark&#39;s biggest military base</title>
       <link>https://www.rte.ie/news/world/2025/0927/1535627-denmark-drone-sighting/</link>
@@ -3425,6 +3524,13 @@
         <![CDATA[Tánaiste Simon Harris has said it is "outrageous" that the Palestinian Authority is not allowed to attend the UN General Assembly and called it an "extraordinarily dangerous precedent".]]>
       </description>
       <guid>cid://https://www.rte.ie/news/world/2025/0922/1534629-un-general-assembly/</guid>
+    </item>    <item>
+      <title>As China explores the Arctic, Canada&#39;s military is preparing for confrontation</title>
+      <link>https://www.cbc.ca/news/canada/canada-arctic-military-exercise-sovereignty-1.7632848?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/6cf77b84-b065-48d1-b84e-12ef1ff2723d,1758902015314/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A group of people in military uniforms huddle together' width='620' height='349' title='For The National, CBC’s David Common goes north for a closer look at how the military and the local communities are standing on guard for the country&apos;s sovereignty.'/><p></p>]]>
+      </description>
+      <guid>cid://1.7429231</guid>
     </item>    <item>
       <title>New campaign warns students of money mule recruiters</title>
       <link>https://www.rte.ie/news/business/2025/0922/1534592-students-dont-be-a-mule-money-laundering-is-a-crime/</link>
