@@ -4,10 +4,44 @@
   <channel>
     <title>Going Electric</title>
     <link>https://rsdoiel.github.io/antenna/going_electric.xml</link>
-    <lastBuildDate>27 Sep 25 15:10 -0700</lastBuildDate>
+    <lastBuildDate>28 Sep 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Volvo’s New Electric Bus Has A Gigantic Battery Pack</title>
+      <link>https://insideevs.com/news/773795/volvo-buses-bzr-electric-coach-chassis-battery-power-specs/</link>
+      <description>
+        <![CDATA[The Volvo BZR Electric coach chassis can accommodate up to eight 90 kWh battery modules for a maximum range of over 400 miles.]]>
+      </description>
+      <enclosure url="https://cdn.motor1.com/images/mgl/6Zee17/s3/volvo-bzr-electric-cd-coach.jpg" length="12781" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/773795/volvo-buses-bzr-electric-coach-chassis-battery-power-specs/</guid>
+    </item>    <item>
+      <title>Yes, an EV really CAN power your home – if it’s one of these [update]</title>
+      <link>https://electrek.co/2025/09/28/yes-an-ev-really-can-power-your-home-if-its-one-of-these/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/09/taiga_orca-wx3.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Can an EV really help power your home when the power goes out? It’s one of the biggest FAQs people have about electric cars — but the answer can be a bit confusing. It’s either a yes, with a but – or a no, with an unless. To find out which EVs can offer vehicle-to-home (V2H) tech to keep the lights on or even lower your energy bills, keep on reading.</p>
+        
+        
+        
+        <p><strong>UPDATE</strong>: a new <a href="https://electrek.co/2025/09/28/yes-an-ev-really-can-power-your-home-if-its-one-of-these/#:~:text=2026%20Acura%20RSX%3B%20via%20Honda.">Acura</a>, and one you can <a href="https://electrek.co/2025/09/28/yes-an-ev-really-can-power-your-home-if-its-one-of-these/#:~:text=Taiga%20Orca%20WX3%3B%20via%20Taiga.">ride hard and put away wet</a>.</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,tesla-powerwall,v2h" data-layer-viewtype="unknown" data-post-id="432861" href="https://electrek.co/2025/09/28/yes-an-ev-really-can-power-your-home-if-its-one-of-these/#more-432861" class="more-link">more…</a>]]>
+      </description>
+      <guid>cid://https://electrek.co/?p=432861</guid>
+    </item>    <item>
+      <title>Survey Sunday: we asked you about the home solar tax credit, you answered</title>
+      <link>https://electrek.co/2025/09/28/survey-sunday-we-asked-about-the-home-solar-tax-credit-heres-what-we-learned/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/09/ucf-solar_education.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This month, we’ve been running a sidebar survey about what losing the federal home solar tax credit means for <em>Electrek</em> readers and how it impacts their solar power plans. After receiving nearly two thousand responses, here’s what you told us.</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="solar-power,survey" data-layer-viewtype="unknown" data-post-id="436179" href="https://electrek.co/2025/09/28/survey-sunday-we-asked-about-the-home-solar-tax-credit-heres-what-we-learned/#more-436179" class="more-link">more…</a>]]>
+      </description>
+      <guid>cid://https://electrek.co/?p=436179</guid>
+    </item>    <item>
       <title>XCMG and Fortescue haul truck sale is the biggest. EV deal. EVER.</title>
       <link>https://electrek.co/2025/09/27/xcmg-and-fortescue-haul-truck-sale-is-the-biggest-ev-deal-ever/</link>
       <description>
@@ -3847,76 +3881,6 @@
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/XB6kyV/s3/mercedes-eqs-with-solid-state-batteries.jpg" length="23046" type="image/jpeg" />
       <guid>cid://https://insideevs.com/news/771402/every-solid-state-battery-ev/</guid>
-    </item>    <item>
-      <title>MINI x Deus Ex Machina Skeg electric concept lightens the mood</title>
-      <link>https://electrek.co/2025/09/06/mini-x-deus-ex-machina-skeg-electric-concept-lightens-the-mood/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/09/mini-skeg_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>MINI has partnered with lifestyle brand, Deus Ex Machina, to develop this. It’s called the Skeg, and it’s a high-performance, racing-inspired electric concept car that’s sure to lighten the mood – by shedding fully 15% of its mass in the quest for speed.</p>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="concept-car,mini" data-layer-viewtype="unknown" data-post-id="433138" href="https://electrek.co/2025/09/06/mini-x-deus-ex-machina-skeg-electric-concept-lightens-the-mood/#more-433138" class="more-link">more…</a>]]>
-      </description>
-      <guid>cid://https://electrek.co/?p=433138</guid>
-    </item>    <item>
-      <title>Volvo Penta teams up with e-power to equip Boels with next-gen Battery Energy Storage Systems (BESS)</title>
-      <link>https://electrek.co/2025/09/06/volvo-penta-e-power-boels-battery-energy-storage-systems-bess/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Volvo-battery.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Veteran marine and industrial power solutions company Volvo Penta has joined forces with energy solutions provider e-power to build battery energy storage systems (BESS). Volvo Penta’s battery systems for energy storage will power BESS units built by e-power that can be catered to a range of applications, most notably construction rental clients like <a href="https://bit.ly/4kdaY1K" target="_blank" rel="noreferrer noopener sponsored nofollow">Boels Rentals in Europe</a>.</p>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="energy-storage,sponsored-post,volvo-penta" data-layer-viewtype="unknown" data-post-id="413936" href="https://electrek.co/2025/09/06/volvo-penta-e-power-boels-battery-energy-storage-systems-bess/#more-413936" class="more-link">more…</a>]]>
-      </description>
-      <guid>cid://https://electrek.co/?p=413936</guid>
-    </item>    <item>
-      <title>2026 Mercedes-Benz GLC EV exterior leaks ahead of schedule</title>
-      <link>https://electrek.co/2025/09/06/2026-mercedes-benz-glc-ev-exterior-leaks-ahead-of-schedule/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Mercedes-GLC-EV-face.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>That didn’t take long! <a href="https://electrek.co/2025/09/05/new-mercedes-benz-glc-interior-giant-39-touchscreen/">Just a few hours after Mercedes revealed the screen-heavy interior of its upcoming 2026 GLC EV</a>, photos of the new crossover’s exterior – and that controversial grille! – leaked on Instagram and Reddit. We’ve got them here.</p>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="mercedes-benz" data-layer-viewtype="unknown" data-post-id="433113" href="https://electrek.co/2025/09/06/2026-mercedes-benz-glc-ev-exterior-leaks-ahead-of-schedule/#more-433113" class="more-link">more…</a>]]>
-      </description>
-      <guid>cid://https://electrek.co/?p=433113</guid>
-    </item>    <item>
-      <title>E-quipment highlight: John Deere TE 4×2 Electric Gator UTV</title>
-      <link>https://electrek.co/2025/09/06/e-quipment-highlight-john-deere-te-4x2-electric-gator-utv/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/09/deere_electric-gator_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>For more than 30 years, John Deere’s go-anywhere Gator has been a trusted tool for ranchers, landscapers, and hobby farmers. But the all-electric TE 4×2 version of Big Green’s little truckster rarely gets to steal the spotlight from its ICE-powered 6×4 cousins.</p>
-        
-        
-        
-        <p>We’re going to change that.</p>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="atv,john-deere" data-layer-viewtype="unknown" data-post-id="433083" href="https://electrek.co/2025/09/06/e-quipment-highlight-john-deere-te-4x2-electric-gator-utv/#more-433083" class="more-link">more…</a>]]>
-      </description>
-      <guid>cid://https://electrek.co/?p=433083</guid>
-    </item>    <item>
-      <title>Alibaba delivers again with this crazy octuple (8x) suspension e-bike for $350</title>
-      <link>https://electrek.co/2025/09/06/alibaba-delivers-again-with-this-crazy-octuple-8x-suspension-e-bike-for-350/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/09/asdlkfasdf.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>I’m going to start this off by immediately begging you not to buy this ridiculous contraption you’ll see in the article below. You’ve been warned. Ok, now feast your eyes on this monstrosity! <a href="https://s.click.aliexpress.com/e/_omVohKb">A $350 e-bike</a> from Alibaba that comes with not just a suspension fork, not just full-suspension, but at least five more shocks than any bike should ever conceivably possess, seemingly randomly sprinkled around the bike’s frame.</p>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="alibaba,ebikes" data-layer-viewtype="unknown" data-post-id="433065" href="https://electrek.co/2025/09/06/alibaba-delivers-again-with-this-crazy-octuple-8x-suspension-e-bike-for-350/#more-433065" class="more-link">more…</a>]]>
-      </description>
-      <guid>cid://https://electrek.co/?p=433065</guid>
-    </item>    <item>
-      <title>Yes, an EV really CAN power your home – if it’s one of these (*)</title>
-      <link>https://electrek.co/2025/09/05/yes-an-ev-really-can-power-your-home-if-its-one-of-these/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/PGE-Charging-Cadillac.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Can an EV really help power your home when the power goes out? It’s one of the biggest FAQs people have about electric cars — but the answer can be a bit confusing. It’s either a yes, with a but – or a no, with an unless. To find out which EVs can offer vehicle-to-home (V2H) tech to keep the lights on or even lower your energy bills, keep on reading.</p>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,tesla-powerwall,v2h" data-layer-viewtype="unknown" data-post-id="432861" href="https://electrek.co/2025/09/05/yes-an-ev-really-can-power-your-home-if-its-one-of-these/#more-432861" class="more-link">more…</a>]]>
-      </description>
-      <guid>cid://https://electrek.co/?p=432861</guid>
     </item>
   </channel>
 </rss>

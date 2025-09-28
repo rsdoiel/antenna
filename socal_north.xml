@@ -4,10 +4,31 @@
   <channel>
     <title>socal_north.md</title>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>27 Sep 25 15:10 -0700</lastBuildDate>
+    <lastBuildDate>28 Sep 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>When Yue Wa Market closes this week, Chinatown will lose a neighborhood anchor</title>
+      <link>https://laist.com/news/los-angeles-activities/yue-wa-market-closes-this-week-chinatown</link>
+      <description>
+        <![CDATA[Grocer Amy Tran survived nearly two decades, but then came rising rent, thefts, pandemic losses and a family crisis.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-847c-d693-a19b-977de4350000</guid>
+    </item>    <item>
+      <title>The eerie, delightful world of artist Roberto Benavidez&#39;s exquisite piñatas</title>
+      <link>https://laist.com/news/los-angeles-activities/the-delightful-eerie-world-of-artist-roberto-benavidezs-handmade-pinatas</link>
+      <description>
+        <![CDATA[The South Pasadena-based artist is having his first solo show in Los Angeles, featuring his beautiful, whimsical piñata pieces.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-81af-dcb9-a9bb-f1ff9ee40000</guid>
+    </item>    <item>
+      <title>Repairing depleted park lands in LA, one ‘test plot&#39; at a time</title>
+      <link>https://laist.com/news/los-angeles-activities/test-plot-urban-park-restoration</link>
+      <description>
+        <![CDATA[The nonprofit Test Plot harnesses community and volunteer power to test out how best to preserve and replenish degraded lands.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-59ba-dc59-addd-5bfad7680000</guid>
+    </item>    <item>
       <title>California shrank prisons with sentencing changes. A new study shows how that’s working</title>
       <link>https://laist.com/news/california-prisons-sentencing-changes-report</link>
       <description>
@@ -2383,28 +2404,6 @@
         <![CDATA[Tafoya continued to push the '50s and '60s music styles into the modern era.]]>
       </description>
       <guid>cid://urn:uuid:00000199-1c40-d8d0-abdb-1ed765ec0000</guid>
-    </item>    <item>
-      <title>Safer Roads as Summer Winds Down</title>
-      <link>https://santaclarita.gov/blog/2025/09/06/safer-roads-as-summer-winds-down/</link>
-      <description>
-        <![CDATA[<p>By City Manager Ken Striplin With students back in school – and families enjoying the last weeks of summer – safe, well-maintained roads matter more than ever. In the City of Santa Clarita, keeping streets in top condition is a year-round priority. Our Street Maintenance teams are out in the “Cone Zone” daily, repairing potholes [&#8230;]</p>
-        <p>The post <a href="https://santaclarita.gov/blog/2025/09/06/safer-roads-as-summer-winds-down/">Safer Roads as Summer Winds Down</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
-      </description>
-      <guid>cid://https://santaclarita.gov/?p=6576</guid>
-    </item>    <item>
-      <title>Before the Queen Mary docked in Long Beach, the legendary ocean liner ruled the Atlantic</title>
-      <link>https://laist.com/news/la-history/long-beach-queen-mary-british-ocean-liner-cunard-world-war-ii</link>
-      <description>
-        <![CDATA[The British passenger ship was popular with luxury travelers for decades, but it was also a distinguished wartime vessel.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-10be-d04f-a1bd-1affbe510000</guid>
-    </item>    <item>
-      <title>Culver City’s Citizen Public Market is closing</title>
-      <link>https://laist.com/news/food/culver-citys-citizen-public-market-is-closing</link>
-      <description>
-        <![CDATA[The food hall announced it will shut its doors in November.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-1c67-ddb8-a5bf-de673edb0000</guid>
     </item>
   </channel>
 </rss>

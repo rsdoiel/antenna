@@ -4,10 +4,27 @@
   <channel>
     <title>Food</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>27 Sep 25 15:10 -0700</lastBuildDate>
+    <lastBuildDate>28 Sep 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>This Week In Curated Coffee Selections From The Sprudge Roaster’s Village</title>
+      <link>https://sprudge.com/this-week-in-curated-coffee-selections-from-the-sprudge-roasters-village-432870.html</link>
+      <description>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster's Village.]]>
+      </description>
+      <guid>cid://https://sprudge.com/?p=432870</guid>
+    </item>    <item>
+      <title>31 Perfect Pumpkin Recipes</title>
+      <link>https://www.closetcooking.com/31-pumpkin-recipes/</link>
+      <description>
+        <![CDATA[<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/09/31-Perfect-Pumpkin-Recipes.jpg"/></div>
+        <p>31 easy pumpkin recipes for October, one for each day in the month of pumpkins! Whether you roast your own pumpkin or use canned pumpkin puree these pumpkin recipes are perfect! Pumpkins are everywhere and it&#8217;s the perfect time to take advantage of them because they won&#8217;t last long. Although pumpkin pie seems to get...</p>
+        <p><a class="more-link" href="https://www.closetcooking.com/31-pumpkin-recipes/">Read On &#8594;</a></p>
+        <p>The post <a href="https://www.closetcooking.com/31-pumpkin-recipes/">31 Perfect Pumpkin Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>]]>
+      </description>
+      <guid>cid://https://www.closetcooking.com/2017/10/12/31-pumpkin-recipes/</guid>
+    </item>    <item>
       <title>Never Fear, The Gear Is Here!</title>
       <link>https://sprudge.com/never-fear-the-gear-is-here-432881.html</link>
       <description>
@@ -1994,13 +2011,6 @@
         <p>The post <a href="https://www.closetcooking.com/50-late-summer-recipes/">50+ Late Summer Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>]]>
       </description>
       <guid>cid://https://www.closetcooking.com/2017/09/24/50-late-summer-recipes/</guid>
-    </item>    <item>
-      <title>43 Sweet Potato Recipes for Every Occasion</title>
-      <link>https://www.bonappetit.com/gallery/sweet-potato-recipes-ideas</link>
-      <description>
-        <![CDATA[Including vegetarian loaded sweet potatoes with lentils and our best takes on the iconic casserole.]]>
-      </description>
-      <guid>cid://5a5d4d950630e201c17b23fc</guid>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,17 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>27 Sep 25 15:10 -0700</lastBuildDate>
+    <lastBuildDate>28 Sep 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Why friends are teaming up to buy homes</title>
+      <link>https://www.npr.org/2025/09/28/nx-s1-5497777/housing-buying-friends-siblings-affordability</link>
+      <description>
+        <![CDATA[Buying a home is a conventional milestone for couples. But as home prices skyrocket, many Americans are buying homes with someone who isn't their romantic partner.]]>
+      </description>
+      <guid>cid://https://www.npr.org/2025/09/28/nx-s1-5497777/housing-buying-friends-siblings-affordability</guid>
+    </item>    <item>
       <title>Make Me Smart: Fat Bear Week Edition</title>
       <link>https://www.marketplace.org/episode/2025/09/26/make-me-smart-fat-bear-week-edition</link>
       <description>
@@ -903,13 +910,6 @@
         <![CDATA[The Labor Department released another disappointing jobs report this past week. A month ago, a government number cruncher got fired for that.  How much faith should be put in the government's economic data?]]>
       </description>
       <guid>cid://https://www.npr.org/2025/09/07/nx-s1-5530158/why-the-recent-unemployment-numbers-matter</guid>
-    </item>    <item>
-      <title>What do the latest job numbers indicate? An economics expert weighs in</title>
-      <link>https://www.npr.org/2025/09/06/nx-s1-5529278/what-do-the-latest-job-numbers-indicate-an-economics-expert-weighs-in</link>
-      <description>
-        <![CDATA[NPR's Scott Simon talks to Greg Ip, The Wall Street Journal's chief economics commentator, about the jobs report, tariffs facing legal challenges, and U.S. government investment in private companies.]]>
-      </description>
-      <guid>cid://https://www.npr.org/2025/09/06/nx-s1-5529278/what-do-the-latest-job-numbers-indicate-an-economics-expert-weighs-in</guid>
     </item>
   </channel>
 </rss>
