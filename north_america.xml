@@ -4,10 +4,34 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>28 Sep 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>29 Sep 25 06:08 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Gloom in oil country</title>
+      <link>https://www.marketplace.org/episode/2025/09/29/gloom-in-oil-country</link>
+      <description>
+        <![CDATA[<p>Texas oil and gas firms are feeling pessimistic about the upcoming year. In the latest Dallas Fed survey, energy firms reported lower production, increased costs and heightened uncertainty. Oil is a good chunk of the Texas economy, and the Texas economy is a good chunk of the U.S. economy — around 9%. Also on the show: auto parts manufacturer First Brands files for Chapter 11 bankruptcy and the USDA revives its farm-to-school grant program.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/29/mmr_20250929_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K6APD1PA7N6GS2K5RE3SB36X" length="3323243" type="audio/mpeg" />
+      <guid>cid://01K6APD1PA7N6GS2K5RE3SB36X</guid>
+    </item>    <item>
+      <title>Factory workers in Brazil vote to temporarily lay themselves off</title>
+      <link>https://www.marketplace.org/episode/2025/09/29/factory-workers-in-brazil-vote-to-temporarily-lay-themselves-off</link>
+      <description>
+        <![CDATA[<p><em>From the BBC World Service:</em> The decision at Toyota in Brazil comes after intense storms halted production at its factories in the state of Sao Paulo, and many of the workers will be paid in full during the closed period. Hackers have attempted to recruit the BBC's cyber correspondent into helping them infiltrate the broadcaster's systems. And has Canada lost in the trade war with the U.S.? Over the past month, it’s removed billions of dollars in retaliatory tariffs on American goods.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/29/mmr_20250929_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K6AFBDNPF0X55AEPA0XFPGRQ" length="3230323" type="audio/mpeg" />
+      <guid>cid://01K6AFBDNPF0X55AEPA0XFPGRQ</guid>
+    </item>    <item>
+      <title>Can an AI chatbot change your political beliefs?</title>
+      <link>https://www.marketplace.org/episode/2025/09/26/can-an-ai-chatbot-change-your-political-beliefs</link>
+      <description>
+        <![CDATA[<p>Researchers at several universities tested how successful artificial intelligence can be at political persuasion, and found some AI chatbots were 40-50% more successful than a static message at getting people to change their views. And those views often stayed changed weeks later.</p><br/><p>Marketplace’s Nova Safo spoke with David Rand, one of the researchers involved in the study who’s also a professor of information science and marketing management at Cornell University.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/29/tech_20250929_0929_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K63HE1PRX0TTH8T8Y8B42PC9" length="6150290" type="audio/mpeg" />
+      <guid>cid://01K63HE1PRX0TTH8T8Y8B42PC9</guid>
+    </item>    <item>
       <title>Why friends are teaming up to buy homes</title>
       <link>https://www.npr.org/2025/09/28/nx-s1-5497777/housing-buying-friends-siblings-affordability</link>
       <description>
@@ -903,13 +927,6 @@
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/08/tech_20250908_0908_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K4DHC6JPNVEMCHMG0W4Y6ABM" length="4837898" type="audio/mpeg" />
       <guid>cid://01K4DHC6JPNVEMCHMG0W4Y6ABM</guid>
-    </item>    <item>
-      <title>Why the recent unemployment numbers matter</title>
-      <link>https://www.npr.org/2025/09/07/nx-s1-5530158/why-the-recent-unemployment-numbers-matter</link>
-      <description>
-        <![CDATA[The Labor Department released another disappointing jobs report this past week. A month ago, a government number cruncher got fired for that.  How much faith should be put in the government's economic data?]]>
-      </description>
-      <guid>cid://https://www.npr.org/2025/09/07/nx-s1-5530158/why-the-recent-unemployment-numbers-matter</guid>
     </item>
   </channel>
 </rss>

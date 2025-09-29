@@ -4,10 +4,26 @@
   <channel>
     <title>Libraries</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>28 Sep 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>29 Sep 25 06:08 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Death of the LGBTQ+ Suicide Prevention Line</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/09/29/the-death-of-the-lgbtq-suicide-prevention-line/</link>
+      <description>
+        <![CDATA[<p>In today’s post, Teodoro (Teo) Pulvirenti and Marianne Calilhanna join Randy Townsend to unpack the disturbing topic of suicide among the LGBTQ+ community.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/09/29/the-death-of-the-lgbtq-suicide-prevention-line/">The Death of the LGBTQ+ Suicide Prevention Line</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61043</guid>
+    </item>    <item>
+      <title>When Charles the First Was King, by J. S. Fletcher</title>
+      <link>https://standardebooks.org/ebooks/j-s-fletcher/when-charles-the-first-was-king</link>
+      <description>
+        <![CDATA[Serving for the Royalist cause affects the domestic life of a young Yorkshire farmer during the English Civil War.]]>
+      </description>
+      <enclosure url="https://standardebooks.org/ebooks/j-s-fletcher/when-charles-the-first-was-king/downloads/j-s-fletcher_when-charles-the-first-was-king.epub?source=feed" length="776953" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/j-s-fletcher/when-charles-the-first-was-king</guid>
+    </item>    <item>
       <title>The Impact of Generative AI on the College Internship</title>
       <link>https://sr.ithaka.org/blog/the-impact-of-generative-ai-on-the-college-internship/</link>
       <description>
@@ -781,38 +797,6 @@
         <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/09/08/revisited-on-being-a-leader-who-happens-to-be-a-woman-of-color/">Revisited: On Being a Leader Who Happens to Be a Woman of Color </a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
       </description>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=60934</guid>
-    </item>    <item>
-      <title>The Magic Mountain, by Thomas Mann</title>
-      <link>https://standardebooks.org/ebooks/thomas-mann/the-magic-mountain/h-t-lowe-porter</link>
-      <description>
-        <![CDATA[A young man visits his cousin in a sanitarium in the mountains, only to see himself become one of its patients.]]>
-      </description>
-      <enclosure url="https://standardebooks.org/ebooks/thomas-mann/the-magic-mountain/h-t-lowe-porter/downloads/thomas-mann_the-magic-mountain_h-t-lowe-porter.epub?source=feed" length="1393005" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/thomas-mann/the-magic-mountain/h-t-lowe-porter</guid>
-    </item>    <item>
-      <title>The End of the Tether, by Joseph Conrad</title>
-      <link>https://standardebooks.org/ebooks/joseph-conrad/the-end-of-the-tether</link>
-      <description>
-        <![CDATA[An aging captain, having made a name for himself in the age of sail, is forced by circumstance to do a final run on a steamer.]]>
-      </description>
-      <enclosure url="https://standardebooks.org/ebooks/joseph-conrad/the-end-of-the-tether/downloads/joseph-conrad_the-end-of-the-tether.epub?source=feed" length="459985" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/joseph-conrad/the-end-of-the-tether</guid>
-    </item>    <item>
-      <title>Demian, by Hermann Hesse</title>
-      <link>https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday</link>
-      <description>
-        <![CDATA[A boy goes on a journey of spiritual growth.]]>
-      </description>
-      <enclosure url="https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday/downloads/hermann-hesse_demian_n-h-priday.epub?source=feed" length="683948" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday</guid>
-    </item>    <item>
-      <title>Wild Animals I Have Known, by Ernest Thompson Seton</title>
-      <link>https://standardebooks.org/ebooks/ernest-thompson-seton/wild-animals-i-have-known</link>
-      <description>
-        <![CDATA[Eight short stories about the lives of various animals across several regions of North America.]]>
-      </description>
-      <enclosure url="https://standardebooks.org/ebooks/ernest-thompson-seton/wild-animals-i-have-known/downloads/ernest-thompson-seton_wild-animals-i-have-known.epub?source=feed" length="801384" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/ernest-thompson-seton/wild-animals-i-have-known</guid>
     </item>
   </channel>
 </rss>
