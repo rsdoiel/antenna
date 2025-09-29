@@ -4,10 +4,17 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>29 Sep 25 15:08 -0700</lastBuildDate>
+    <lastBuildDate>29 Sep 25 16:49 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Whitebridge AI created false and alarming reputation reports, complaint alleges</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/whitebridge_ai_reputation_reports_complaint/</link>
+      <description>
+        <![CDATA[<h4>Privacy group Noyb wants Lithuania to throw the GDPR book at &#39;em</h4> <p>Whitebridge AI, based in Lithuania, faces a privacy complaint for allegedly selling &#34;reputation reports&#34; based on unlawfully collected data and AI misinformation.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242201</guid>
+    </item>    <item>
       <title>Your AI conversations are a secret new treasure trove for marketers</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/profound_browser_extension_privacy_concern/</link>
       <description>

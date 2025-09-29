@@ -191,7 +191,7 @@ description: Blogs, columns and snapshots from around the web.
 - [nlnet feed](https://nlnet.nl/feed.atom)
 - [Nora Tindall's blog](https://nora.codes/index.xml)
 - [Notes by Peter Baumgartner](https://notes.peter-baumgartner.net/index.xml)
-- [Ocelot SQL GUI blog](https://ocelot.ca/blog/feed/)
+-  Ocelot SQL GUI blog, TLS handshake issues as of 2025-09-29, <https://ocelot.ca/blog/feed/>
 - [One Foot Tsunami](https://onefoottsunami.com/feed/atom/)
 - [ooh.directory blog](https://ooh.directory/blog/feeds/posts.xml)
 - [Howard Weaver Blog](https://optimism.substack.com/feed)

@@ -4,7 +4,7 @@
   <channel>
     <title>Columns</title>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>29 Sep 25 15:08 -0700</lastBuildDate>
+    <lastBuildDate>29 Sep 25 16:49 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -25,6 +25,32 @@
         <p>Further event details, including <a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements</a> such as image galleries, can be added to the body of this page.</p>]]>
       </description>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>You Can’t Rewrite Facts</title>
+      <link>https://steady.substack.com/p/you-cant-rewrite-facts</link>
+      <description>
+        <![CDATA[Trump is trying to gaslight the country by whitewashing January 6]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!stCp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F830a28ae-b9bb-478c-bf14-c58d950e4a81_7000x4669.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/you-cant-rewrite-facts</guid>
+    </item>    <item>
+      <title>Huh, the original version of the Goldilocks and the Three Bears fairy...</title>
+      <link>https://kottke.org/25/09/0047579-huh-the-original-version-</link>
+      <guid>cid://tag:kottke.org,2025://13.47579</guid>
+    </item>    <item>
+      <title>The 25th Anniversary of The Onion Classic: ‘William Safire Orders Two Whoppers Junior’</title>
+      <link>https://theonion.com/william-safire-orders-two-whoppers-junior-1819565735/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42231</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115290017797153595</link>
+      <description>
+        <![CDATA[<p>Update, now I got the drag the wire setup going:</p>]]>
+      </description>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115290017797153595</guid>
+    </item>    <item>
+      <title>A Tour of the New David Bowie Archive</title>
+      <link>https://kottke.org/25/09/a-tour-of-the-new-david-bowie-archive</link>
+      <guid>cid://tag:kottke.org,2025://5.47605</guid>
     </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115289675215568002</link>
       <description>
