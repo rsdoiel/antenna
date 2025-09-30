@@ -305,5 +305,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Nicolas Hoizey blog](https://nicolas-hoizey.com/feeds/)
 - [LitHub](https://lithub.com/feed/)
 - [Humourous Write Newsletter](https://buttondown.com/humorouswriting/rss)
+- [openchannels.fm](https://openchannels.fm/feed/)
 
 

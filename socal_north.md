@@ -27,15 +27,6 @@
 
 - [L.A. Public Health](https://feed.podbean.com/lapublichealth/feed.xml)
 
-## State of California
-
-
-## NGO and community sites
-
-- [L.A. Conservancy Blog](https://laconservancy.tumblr.com/rss)
-- [RSS for https://www.rand.org/pubs/podcasts/policy-minded.html](https://feeds.libsyn.com/131994/feed)
-- [RAND press releases](https://www.rand.org/news/press.xml)
-
 ## Government sites
 
 - [City of Santa Clarita](https://santaclarita.gov/feed/)
