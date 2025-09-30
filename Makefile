@@ -17,7 +17,9 @@ website: .FORCE
 	./website.bash
 
 pagefind: .FORCE
+	rm -fR pagefind
 	pagefind --verbose --force-language en
+	git add pagefind
 
 clean: .FORCE
 	-rm *.html 2>/dev/null
