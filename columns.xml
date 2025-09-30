@@ -4,7 +4,7 @@
   <channel>
     <title>Columns</title>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>30 Sep 25 07:33 -0700</lastBuildDate>
+    <lastBuildDate>30 Sep 25 15:07 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -25,6 +25,497 @@
         <p>Further event details, including <a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements</a> such as image galleries, can be added to the body of this page.</p>]]>
       </description>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>I really appreciated this thoughtful piece about Ta-Nehisi Coates &#38; Ezra Klein....</title>
+      <link>https://kottke.org/25/09/0047621-i-really-appreciated-this</link>
+      <guid>cid://tag:kottke.org,2025://13.47621</guid>
+    </item>    <item>
+      <title>Freedom of the press</title>
+      <link>https://statusq.org/archives/2025/09/30/13348/</link>
+      <description>
+        <![CDATA[Imagine an inkjet printer that you could repair yourself, and where you were actually encouraged to refill the cartridges! That&#8217;s the aim of the Open Printer project. If the idea of printing from a roll of paper seems strange, you need to know that it incorporates a cutter too, so you can print single pages, <a class="more-link excerpt-link" href="https://statusq.org/archives/2025/09/30/13348/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a>]]>
+      </description>
+      <guid>cid://https://statusq.org/?p=13348</guid>
+    </item>    <item>
+      <title>ICE to Buy Tool that Tracks Locations of Hundreds of Millions of Phones Every Day</title>
+      <link>https://www.404media.co/ice-to-buy-tool-that-tracks-locations-of-hundreds-of-millions-of-phones-every-day/</link>
+      <description>
+        <![CDATA[Documents show that ICE has gone back on its decision to not use location data remotely harvested from peoples' phones. The database is updated every day with billions of pieces of location data.]]>
+      </description>
+      <guid>cid://68dc4ccc872f490001c57622</guid>
+    </item>    <item>
+      <title>September 29, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/september-29-2025-872</link>
+      <enclosure url="https://api.substack.com/feed/podcast/174967784/33dbbe48ef015ba11e2fad93b96aebfa.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/september-29-2025-872</guid>
+    </item>    <item>
+      <title>12 Booker Prize 2025 nominees share their writing spots. &#38;#8220;There are kitchen...</title>
+      <link>https://kottke.org/25/09/0047620-12-booker-prize-2025-nomi</link>
+      <guid>cid://tag:kottke.org,2025://13.47620</guid>
+    </item>    <item>
+      <title>Explaining Regex Locally With Xcode</title>
+      <link>https://mjtsai.com/blog/2025/09/30/explaining-regex-locally-with-xcode/</link>
+      <description>
+        <![CDATA[Paul Samuels: My approach when needing to figure out what an old regex was doing was to paste it into whatever the top search result for &#8220;Explain regular expression&#8221; was.Something that I&#8217;ve been doing for a while but hadn&#8217;t really thought about was using Xcode&#8217;s Refactor &#62; Convert to Regex Builder as a way to [&#8230;]]]>
+      </description>
+      <guid>cid://https://mjtsai.com/blog/?p=49441</guid>
+    </item>    <item>
+      <title>Electron Apps Causing System-Wide Lag on Tahoe</title>
+      <link>https://mjtsai.com/blog/2025/09/30/electron-apps-causing-system-wide-lag-on-tahoe/</link>
+      <description>
+        <![CDATA[ToxicLand (via Hacker News): Using an M1 Max MacBook Pro, having Electron-based apps open / not minimized causes a huge lag.CPU and GPU usage remains low, but if I have Discord and VS Code open, moving windows, scrolling is stuttery. It happens even when only Discord is open but it gets worse if I open [&#8230;]]]>
+      </description>
+      <guid>cid://https://mjtsai.com/blog/?p=49438</guid>
+    </item>    <item>
+      <title>2025-09-28 Situations</title>
+      <link>https://alexschroeder.ch/view/2025-09-28-situations</link>
+      <description>
+        <![CDATA[<h1 id="2025-09-28-situations">2025-09-28 Situations</h1>
+        
+        <p>I sometimes look at <a href="Halberts">Halberts</a> and wonder what it would take to
+        turn it into a pick-up game like B/X D&amp;D. What do I mean by that? A game
+        without preparation by referee that still involves the exploration of
+        an imaginary space and dangers. This involves a number of things:</p>
+        
+        <p>An imaginary space means that there&rsquo;s a map and it has a map-like
+        effect. Directions and distances don&rsquo;t contract to fit a story.
+        Buildings don&rsquo;t shift around, inhabitants don&rsquo;t shift around. It&rsquo;s
+        possible for players to place labels on the map.</p>
+        
+        <p>The map the referee uses can be explored. In other words, it already
+        exists. It is not drawn on the fly, it doesn&rsquo;t take input by the
+        players who do the exploring. Exploration means that there is a power
+        imbalance: The referee knows the map and the players do not. Or the
+        map the players have at their disposal is an incomplete map that still
+        needs exploring to find the things placed on it.</p>
+        
+        <p>The spatial nature means it&rsquo;s possible to draw a map of a settlement
+        or region and make reasonable decisions based on it. How to get from
+        one place to another. How to avoid particular dangers. If the players
+        don&rsquo;t want to cross the pass in winter, the map shows what the
+        alternatives are. This also means that drawing a map of a building
+        allows the referee to place markers on the map for rewards, guards and
+        traps, and it allows the placers to navigate the map, finding some and
+        avoiding others.</p>
+        
+        <p>In D&amp;D, it is possible to run such adventures without having to do all
+        the preparation yourself because there is a rich tradition of modules.
+        These contain maps, descriptions, monsters, treasures, non-player
+        characters, situations, riddles, conundrums, ready to go. A referee
+        has to read them, or at least the introduction, and soon the game can
+        start.</p>
+        
+        <p>This is a culture supported by a very popular game. Many other games
+        don&rsquo;t have this. These other game consist of the core rules and maybe
+        optional rules; maybe some suggestions for creating the situations you
+        need. But it&rsquo;s rare to find games with many adventures ready to go.</p>
+        
+        <p>Even the submissions to the <a href="https://campaignwiki.org/one">One Page Dungeon
+        Contest</a> aren&rsquo;t ready to go. The monsters
+        have no stats and the treasures have no value. That means that some sort
+        of preparation is required.</p>
+        
+        <p>The alternative seems to be improvisation at the table and that
+        doesn&rsquo;t work for me. I can&rsquo;t meaningfully &ldquo;explore&rdquo; what somebody else at
+        the table has improvised just moments ago. It can work for an
+        encounter or two, but not for a map and factions and monsters and
+        everything. There&rsquo;s something about the experience that turns me off.</p>
+        
+        <p>I remembered the German game
+        <a href="http://www.dungeonslayers.net/">Dungeonslayers</a> had a bunch of little
+        adventures to go. The official site has 20 small one and two page dungeons
+        to go as <a href="https://www.dungeonslayers.net/downloads/abenteuer/">free downloads</a>.
+        There are 7 big adventures <a href="https://www.dungeonslayers.net/produkte/abenteuer/">for sale</a>.
+        And I checked the <a href="https://www.f-space.de/ds4/downloads.html">Slayer&rsquo;s Pit</a>
+        and collects all sorts of downloads including fan made adventures. 😍</p>
+        
+        <p>Perhaps I should just play Dungeonslayers instead of trying to play
+        Halberts.</p>
+        
+        <p>Or perhaps I should lean into the stand-alone HTML generators! <a href="https://campaignwiki.org/lake-land">Lake Land</a> and <a href="https://campaignwiki.org/myrkheim">Myrkheim</a> are great.
+        Whenever I look at their output I am fascinated.
+        I could just add to those tables.
+        A retinue for the important people in Lake Land, for example.
+        Or expand the map.
+        Or draw a map that goes with the sitution.
+        Or I could start another generator entirely.</p>
+        
+        <p><a class="tag" href="/search/?q=%23RPG">#RPG</a> <a class="tag" href="/search/?q=%23Halberts">#Halberts</a> <a class="tag" href="/search/?q=%232d6">#2d6</a></p>]]>
+      </description>
+      <guid>cid://https://alexschroeder.ch/view/2025-09-28-situations</guid>
+    </item>    <item>
+      <title>Na Kim, in the Abstract</title>
+      <link>https://kottke.org/25/09/na-kim-in-the-abstract</link>
+      <guid>cid://tag:kottke.org,2025://5.47614</guid>
+    </item>    <item>
+      <title>This question from Ta-Nehisi Coates in his recent conversation with Ezra Klein...</title>
+      <link>https://kottke.org/25/09/0047615-this-question-from-ta-neh</link>
+      <guid>cid://tag:kottke.org,2025://13.47615</guid>
+    </item>    <item>
+      <title>You’re Gonna Need a Thicker Wetsuit</title>
+      <link>https://onefoottsunami.com/2025/09/30/youre-gonna-need-a-thicker-wetsuit/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29218</guid>
+    </item>    <item>
+      <link>https://glammr.us/@IIIF/115294627237114354</link>
+      <description>
+        <![CDATA[<p>Join us on October 8 for a conversation about managing bots, including:</p><p>🔸 How institutions are managing overwhelming bot traffic; </p><p>🔸 the downstream ramifications of those safeguards; </p><p>🔸 and possible solutions for keeping IIIF resources available for reuse</p><p>Zoom info: iiif.io/community</p>]]>
+      </description>
+      <guid>cid://https://glammr.us/@IIIF/115294627237114354</guid>
+    </item>    <item>
+      <title>Senate Dems: Don&#39;t cave! And explain the big picture!</title>
+      <link>https://robertreich.substack.com/p/senate-dems-dont-cave-and-explain</link>
+      <description>
+        <![CDATA[Friends,]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Mb-s!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F217f7b64-8820-48f3-b14c-6c634fe99a44_2589x3500.png" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/senate-dems-dont-cave-and-explain</guid>
+    </item>    <item>
+      <title>The Future Was Then: an Exhibition of Fascist Italian Posters</title>
+      <link>https://kottke.org/25/09/the-future-was-then-an-exhibition-of-fascist-italian-posters</link>
+      <guid>cid://tag:kottke.org,2025://5.47616</guid>
+    </item>    <item>
+      <title>Sora 2</title>
+      <link>https://simonwillison.net/2025/Sep/30/sora-2/#atom-everything</link>
+      <description>
+        <![CDATA[<p>Having watched this morning's <a href="https://www.youtube.com/watch?v=gzneGhpXwjU">Sora 2 introduction video</a>, the most notable feature (aside from audio generation - original Sora was silent, Google's Veo 3 supported audio in May 2025) looks to be what OpenAI are calling "cameos" - the ability to easily capture a video version of yourself or your friends and then use them as characters in generated videos.</p>
+        <p>My guess is that they are leaning into this based on the <em>incredible</em> success of ChatGPT image generation <a href="https://simonwillison.net/2025/Jun/6/six-months-in-llms/#ai-worlds-fair-2025-20.jpeg">in March</a> - possibly the most successful product launch of all time, signing up 100 million new users in just the first week after release.</p>
+        <p>The driving factor for that success? People <em>love</em> being able to create personalized images of themselves, their friends and their family members.</p>
+        <p>Google saw a similar effect with their Nano Banana image generation model. Gemini VP Josh Woodward <a href="https://twitter.com/joshwoodward/status/1970894369562796420">tweeted</a> on 24th September:</p>
+        <blockquote>
+        <p>🍌 @GeminiApp just passed 5 billion images in less than a month.</p>
+        </blockquote>
+        <p>Sora 2 cameos looks to me like an attempt to capture that same viral magic but for short-form videos, not images.</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/video-models">video-models</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/text-to-image">text-to-image</a></p>]]>
+      </description>
+      <guid>cid://https://simonwillison.net/2025/Sep/30/sora-2/#atom-everything</guid>
+    </item>    <item>
+      <title>Here’s the shortlist for the Center for Fiction’s 2025 First Novel Prize.</title>
+      <link>https://lithub.com/heres-the-shortlist-for-the-center-for-fictions-2025-first-novel-prize/</link>
+      <description>
+        <![CDATA[Today, the Center for Fiction announced the shortlist for their annual First Novel Prize, which was judged this year by Xochitl Gonzalez, Adam Haslett, Tracy O&#8217;Neill, and Joseph Earl Thomas (winner of the 2024 First Novel Prize). The shortlisted authors will each be awarded $1,000 and the winner, who will be announced in December, will [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=260478</guid>
+    </item>    <item>
+      <title>How to actually live like a local. &#38;#8220;The thing is, nobody ever...</title>
+      <link>https://kottke.org/25/09/0047606-how-to-actually-live-like</link>
+      <guid>cid://tag:kottke.org,2025://13.47606</guid>
+    </item>    <item>
+      <title>Read &#34;Considering Trump&#39;s AI Plan and the Future It Portends&#34;</title>
+      <link>https://www.mollywhite.net/reading/shortform?search=Considering%20Trump&#39;s%20AI%20Plan%20and%20the%20Future%20It%20Portends</link>
+      <guid>cid://68dc0a149f72b44b3849e72d</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/30.html#a163543</link>
+      <description>
+        <![CDATA[One thing journalism could do for us is sponsor polls to find out how many people are scared about what's coming next and how scared are they?]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/30.html#a163543</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115294205580063568</link>
+      <description>
+        <![CDATA[<p>Some style work, auto-snapping to a port and some visual feedback.</p><p>Then, work to get different Godot semantics and validation bits in place: drop connections, prevent multiple values into an input slot.</p><p>Pretty psyched for this</p>]]>
+      </description>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115294205580063568</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/30.html#a163207</link>
+      <description>
+        <![CDATA[<a href="https://wordland.social/">WordLand</a> is not a blogging platform, it builds on a blogging platform.]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/30.html#a163207</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/30.html#a162557</link>
+      <description>
+        <![CDATA[The <a href="https://finance.yahoo.com/quote/%5EGSPC/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAN5lwHEXSbu3MdQqpmURpinbGpH440mO7t1lOolTGdgOvaxp4Ik1eryviEO4dcS_9J2bS9TCWSwgeHBE1ceQXCjNmHXsS4LttOtD0WNVeqjo8wLper1K7ez_j9xi8YZwYd1IMivOrEWOzoaeMw9mvt0hkhrap2nIN42yMSJrStix">stock market</a> is doing really well, <a href="https://imgs.scripting.com/2025/09/30/sandp500.png">still</a>. But a really important part of our workforce is being attacked by the government. I have no idea what's going on among the immigrant workers in the US. Maybe this is something one of the news orgs could look at. But it seems we must already be short on labor to do the things that keep our lives and businesses functioning. If so, why isn't that showing up in the market?]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/30.html#a162557</guid>
+    </item>    <item>
+      <title>Yusuf / Cat Stevens’ book tour has been postponed due to unspecified visa issues.</title>
+      <link>https://lithub.com/yusuf-cat-stevens-book-tour-has-been-postponed-due-to-unspecified-visa-issues/</link>
+      <description>
+        <![CDATA[Musician Cat Stevens, who has also gone by Yusuf Islam since 1977, is having to put the brakes on his book tour due to unresolved visa issues. Islam had planned and sold tickets for a seven city tour to promote his new autobiography, Cat on the Road to Findout, which is coming out on October [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=260471</guid>
+    </item>    <item>
+      <title>A long profile of Tim Berners-Lee, the inventor of the WWW. &#38;#8220;Tim...</title>
+      <link>https://kottke.org/25/09/0047612-a-long-profile-of-tim</link>
+      <guid>cid://tag:kottke.org,2025://13.47612</guid>
+    </item>    <item>
+      <title>Here are the finalists for the 2025 Cundill History Prize.</title>
+      <link>https://lithub.com/here-are-the-finalists-for-the-2025-cundill-history-prize/</link>
+      <description>
+        <![CDATA[Today, McGill University announced the finalists for the 2025 Cundill History Prize, which honors history writing that “demonstrates excellence across the prize’s guiding criteria: craft, communication and consequence.” The winner, who will be announced at the Cundill Festival in Montreal on Thursday, October 30, will take home a prize of $75,000; each runner-up will receive [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=260470</guid>
+    </item>    <item>
+      <title>Unknown Number: The High School Catfish – la irresponsabilidad del gigante de streaming</title>
+      <link>https://www.palomitademaiz.net/resenas-unknown-number-the-high-school-catfish/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-unknown-number-the-high-school-catfish</link>
+      <description>
+        <![CDATA[<p>Disponible en: Netflix. Director: Skye Borgman. País: Estados Unidos. Más información del documental: https://www.imdb.com/title/tt37674426/    Esta reseña contiene spoilers. Hace unas semanas, Netflix estrenó el documental de crimen Unknown Number: The High School Catfish, el cual fue un éxito de audiencia debido principalmente a que el consumo morboso de documentales sobre crímenes reales ha crecido [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-unknown-number-the-high-school-catfish/">Unknown Number: The High School Catfish – la irresponsabilidad del gigante de streaming</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <guid>cid://https://www.palomitademaiz.net/?p=25571</guid>
+    </item>    <item>
+      <title>2025-09-30 Hyperbole and Asciidoc</title>
+      <link>https://alexschroeder.ch/view/2025-09-29-hyperbole</link>
+      <description>
+        <![CDATA[<h1 id="2025-09-30-hyperbole-and-asciidoc">2025-09-30 Hyperbole and Asciidoc</h1>
+        
+        <p>I&rsquo;ve started using <a href="https://www.emacswiki.org/emacs/Hyperbole">Hyperbole</a>. I switch off my computers in the evenings. So every morning, Emacs starts fresh. The first thing I want to see is the directory names of various projects I&rsquo;m working on. This reminds me of the things I&rsquo;m doing and <code>M-RET</code>
+        on these directory names takes me there to do them.</p>
+        
+        <p>My short config is below. With it, <code>~/.emacs.d/hyperb/HYPB</code> is the first buffer I see (instead of <code>*scratch*</code>). I&rsquo;ve used Enriched Mode to add some bold headers to group the various starting points.</p>
+        
+        <pre><code>(use-package hyperbole
+          :ensure t
+          :config
+          (setq hbmap:dir-user &quot;~/.emacs.d/hyperb&quot;
+                initial-buffer-choice (expand-file-name
+                                       hbmap:filename
+                                       hbmap:dir-user))
+          (hyperbole-mode 1))
+        </code></pre>
+        
+        <p>At work the documentation is written in Asciidoc.</p>
+        
+        <p>This here helps me jump to stuff.</p>
+        
+        <pre><code>(defib adoc-xref ()
+          &quot;Follow adoc references and open the associated file.&quot;
+          (let* ((data (or (adoc-example-at-point)
+                           (adoc-image-at-point)
+                           (adoc-page-at-point)
+                           (adoc-include-at-point)
+                           (adoc-attribute-use-at-point)))
+                 (modules-dir (asc:modules-directory))
+                 module dir file target regexp)
+            (when (and data (not (string= modules-dir &quot;/&quot;)))
+              (cond ((= 4 (length data)) (setq module (nth 1 data) dir (nth 0 data) file (nth 2 data) regexp (nth 3 data)))
+                    ((= 3 (length data)) (setq module (nth 1 data) dir (nth 0 data) file (nth 2 data)))
+                    ((= 2 (length data)) (setq module (asc:module-name) dir (nth 0 data) file (nth 1 data))))
+              (setq target (file-name-concat modules-dir module dir file))
+              (ibut:label-set target)
+              (if regexp
+                  (hact 'link-to-regexp-match (concat &quot;:&quot; regexp &quot;:&quot;) 1 target)
+                (hact 'link-to-file target)))))
+        </code></pre>
+        
+        <p>The helper functions include some very peculiar stuff like the fixed path in <code>adoc-attribute-use-at-point</code> from an <code>include::ROOT:partial$attributes.adoc[]</code> at the beginning of every file.</p>
+        
+        <pre><code>(defun adoc-example-at-point ()
+          &quot;Return the example at point.&quot;
+          (save-excursion
+            (goto-char (line-beginning-position))
+            (when (looking-at &quot;include::example\\$\\([^[]+\\)&quot;)
+              (append '(&quot;examples&quot;) (split-string (match-string 1) &quot;:&quot;)))))
+        
+        (defun adoc-image-at-point ()
+          &quot;Return the image at point.&quot;
+          (save-excursion
+            (goto-char (line-beginning-position))
+            (when (looking-at &quot;image::\\([^[]+\\)&quot;)
+              (append '(&quot;images&quot;) (split-string (match-string 1) &quot;:&quot;)))))
+        
+        (defun adoc-page-at-point ()
+          &quot;Return the page at point.&quot;
+          (save-excursion
+            (let ((id (adoc-xref-id-at-point)))
+              (when id
+                (setq id (car (split-string id &quot;#&quot;)))
+                (append '(&quot;pages&quot;) (split-string id &quot;:&quot;))))))
+        
+        (defun adoc-include-at-point ()
+          &quot;Return the file at point.&quot;
+          (save-excursion
+            (goto-char (line-beginning-position))
+            (when (looking-at &quot;include::\\([^[]+\\)&quot;)
+              (let ((elems (split-string (match-string 1) &quot;:&quot;)))
+                (when (string-match &quot;^partial\\$&quot; (car (last elems)))
+                  (setcar (last elems) (substring (car (last elems)) 8)))
+                (append '(&quot;partials&quot;) elems)))))
+        
+        (defun adoc-attribute-use-at-point ()
+          &quot;Return the attribute used at point.&quot;
+          (save-excursion
+            (let ((from (when (or (eq (char-before) ?\{)
+                                  (and (forward-word -1)
+                                       (eq (char-before) ?\{)))
+                          (point)))
+                  (to (and (forward-word 1)
+                           (eq (char-after) ?\})
+                           (point))))
+              (when (and from to)
+                (let ((attribute (buffer-substring from to)))
+                  (list &quot;partials&quot; &quot;ROOT&quot; &quot;attributes.adoc&quot; attribute))))))
+        
+        (defun asc:modules-directory ()
+          &quot;Return the modules directory we're in.&quot;
+          (let ((dir default-directory))
+            (while (and
+                    (not (string= dir &quot;/&quot;))
+                    (not (string= &quot;modules&quot;
+                                  (file-name-nondirectory
+                                   (directory-file-name dir)))))
+              (setq dir (expand-file-name
+                         (file-name-concat dir &quot;..&quot;))))
+            dir))
+        
+        (defun asc:module-name ()
+          &quot;Return the name of the module we're in.&quot;
+          (let ((dir default-directory)
+                last)
+            (while (not (string= &quot;modules&quot;
+                                 (file-name-nondirectory
+                                  (directory-file-name dir))))
+              (setq last (file-name-nondirectory
+                          (directory-file-name dir))
+                    dir (expand-file-name
+                         (file-name-concat dir &quot;..&quot;))))
+            last))
+        </code></pre>
+        
+        <p><a class="tag" href="/search/?q=%23Emacs">#Emacs</a> <a class="tag" href="/search/?q=%23Hyperbole">#Hyperbole</a></p>]]>
+      </description>
+      <guid>cid://https://alexschroeder.ch/view/2025-09-29-hyperbole</guid>
+    </item>    <item>
+      <title>Name that Ware September 2025</title>
+      <link>https://www.bunniestudios.com/blog/2025/name-that-ware-september-2025/</link>
+      <description>
+        <![CDATA[The Ware for September 2025 is shown below. Thanks to Michael Dwyer for submitting this ware! I originally contemplated only showing the digital board to make the ware more challenging, but the analog part is so chaotically gorgeous I had to share it out of the aesthetic appreciation. Despite the size and complexity of the [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.bunniestudios.com/blog/?p=7441</guid>
+    </item>    <item>
+      <title>Winner, Name that Ware August 2025</title>
+      <link>https://www.bunniestudios.com/blog/2025/winner-name-that-ware-august-2025/</link>
+      <description>
+        <![CDATA[The Ware for August 2025 is the Superboard II from an Ohio Scientific Challenger 1P. Congrats to Tibor Bartos for naming it. Email me for your prize!]]>
+      </description>
+      <guid>cid://https://www.bunniestudios.com/blog/?p=7439</guid>
+    </item>    <item>
+      <title>Designing agentic loops</title>
+      <link>https://simonwillison.net/2025/Sep/30/designing-agentic-loops/#atom-everything</link>
+      <description>
+        <![CDATA[<p>Coding agents like Anthropic's <a href="https://claude.com/product/claude-code">Claude Code</a> and OpenAI's <a href="https://github.com/openai/codex">Codex CLI</a> represent a genuine step change in how useful LLMs can be for producing working code. These agents can now directly exercise the code they are writing, correct errors, dig through existing implementation details, and even run experiments to find effective code solutions to problems.</p>
+        <p>As is so often the case with modern AI, there is a great deal of depth involved in unlocking the full potential of these new tools.</p>
+        <p>A critical new skill to develop is <strong>designing agentic loops</strong>.</p>
+        <p>One way to think about coding agents is that they are brute force tools for finding solutions to coding problems. If you can reduce your problem to a clear goal and a set of tools that can iterate towards that goal a coding agent can often brute force its way to an effective solution.</p>
+        <p>My preferred definition of an LLM agent is something that <a href="https://simonwillison.net/2025/Sep/18/agents/">runs tools in a loop to achieve a goal</a>. The art of using them well is to carefully design the tools and loop for them to use.</p>
+        <ul>
+          <li><a href="https://simonwillison.net/2025/Sep/30/designing-agentic-loops/#the-joy-of-yolo-mode">The joy of YOLO mode</a></li>
+          <li><a href="https://simonwillison.net/2025/Sep/30/designing-agentic-loops/#picking-the-right-tools-for-the-loop">Picking the right tools for the loop</a></li>
+          <li><a href="https://simonwillison.net/2025/Sep/30/designing-agentic-loops/#issuing-tightly-scoped-credentials">Issuing tightly scoped credentials</a></li>
+          <li><a href="https://simonwillison.net/2025/Sep/30/designing-agentic-loops/#when-to-design-an-agentic-loop">When to design an agentic loop</a></li>
+          <li><a href="https://simonwillison.net/2025/Sep/30/designing-agentic-loops/#this-is-still-a-very-fresh-area">This is still a very fresh area</a></li>
+        </ul>
+        <h4 id="the-joy-of-yolo-mode">The joy of YOLO mode</h4>
+        <p>Agents are inherently dangerous - they can make poor decisions or fall victim to malicious <a href="https://simonwillison.net/tags/prompt-injection/">prompt injection attacks</a>, either of which can result in harmful results from tool calls. Since the most powerful coding agent tool is "run this command in the shell" a rogue agent can do anything that you could do by running a command yourself.</p>
+        <p>To <a href="https://simonwillison.net/2025/Jun/5/wrecking-its-environment-in-a-loop/">quote Solomon Hykes</a>:</p>
+        <blockquote>
+        <p><strong>An AI agent is an LLM wrecking its environment in a loop.</strong></p>
+        </blockquote>
+        <p>Coding agents like Claude Code counter this by defaulting to asking you for approval of almost every command that they run.</p>
+        <p>This is kind of tedious, but more importantly, it dramatically reduces their effectiveness at solving problems through brute force.</p>
+        <p>Each of these tools provides its own version of what I like to call YOLO mode, where everything gets approved by default.</p>
+        <p>This is <em>so dangerous</em>, but it's also key to getting the most productive results!</p>
+        <p>Here are three key risks to consider from unattended YOLO mode.</p>
+        <ol>
+        <li>Bad shell commands deleting or mangling things you care about.</li>
+        <li>Exfiltration attacks where something steals files or data visible to the agent - source code or secrets held in environment variables are particularly vulnerable here.</li>
+        <li>Attacks that use your machine as a proxy to attack another target - for DDoS or to disguise the source of other hacking attacks.</li>
+        </ol>
+        <p>If you want to run YOLO mode anyway, you have a few options:</p>
+        <ol>
+        <li>Run your agent in a secure sandbox that restricts the files and secrets it can access and the network connections it can make.</li>
+        <li>Use someone else's computer. That way if your agent goes rogue, there's only so much damage they can do, including wasting someone else's CPU cycles.</li>
+        <li>Take a risk! Try to avoid exposing it to potential sources of malicious instructions and hope you catch any mistakes before they cause any damage.</li>
+        </ol>
+        <p>Most people choose option 3.</p>
+        <p>Despite the existence of <a href="https://attack.mitre.org/techniques/T1611/">container escapes</a> I think option 1 using Docker or the new Apple <a href="https://github.com/apple/container">container tool</a> is a reasonable risk to accept for most people.</p>
+        <p>Option 2 is my favorite. I like to use <a href="https://github.com/features/codespaces">GitHub Codespaces</a> for this - it provides a full container environment on-demand that's accessible through your browser and has a generous free tier too. If anything goes wrong it's a Microsoft Azure machine somewhere that's burning CPU and the worst that can happen is code you checked out into the environment might be exfiltrated by an attacker, or bad code might be pushed to the attached GitHub repository.</p>
+        <p>There are plenty of other agent-like tools that run code on other people's computers. <a href="https://simonwillison.net/tags/code-interpreter/">Code Interpreter</a> mode in both ChatGPT and <a href="https://simonwillison.net/2025/Sep/9/claude-code-interpreter/">Claude</a> can go a surprisingly long way here. I've also had a lot of success (ab)using OpenAI's <a href="https://chatgpt.com/features/codex">Codex Cloud</a>.</p>
+        <p>Coding agents themselves implement various levels of sandboxing, but so far I've not seen convincing enough documentation of these to trust them.</p>
+        <p><strong>Update</strong>: It turns out Anthropic have their own documentation on <a href="https://www.anthropic.com/engineering/claude-code-best-practices#d-safe-yolo-mode">Safe YOLO mode</a> for Claude Code which says:</p>
+        <blockquote>
+        <p>Letting Claude run arbitrary commands is risky and can result in data loss, system corruption, or even data exfiltration (e.g., via prompt injection attacks). To minimize these risks, use <code>--dangerously-skip-permissions</code> in a container without internet access. You can follow this <a href="https://github.com/anthropics/claude-code/tree/main/.devcontainer">reference implementation</a> using Docker Dev Containers.</p>
+        </blockquote>
+        <h4 id="picking-the-right-tools-for-the-loop">Picking the right tools for the loop</h4>
+        <p>Now that we've found a safe (enough) way to run in YOLO mode, the next step is to decide which tools we need to make available to the coding agent.</p>
+        <p>You can bring <a href="https://modelcontextprotocol.io/">MCP</a> into the mix at this point, but I find it's usually more productive to think in terms of shell commands instead. Coding agents are <em>really good</em> at running shell commands!</p>
+        <p>If your environment allows them the necessary network access, they can also pull down additional packages from NPM and PyPI and similar. Ensuring your agent runs in an environment where random package installs don't break things on your main computer is an important consideration as well!</p>
+        <p>Rather than leaning on MCP, I like to create an <a href="https://agents.md/">AGENTS.md</a> (or equivalent) file with details of packages I think they may need to use.</p>
+        <p>For a project that involved taking screenshots of various websites I installed my own <a href="https://shot-scraper.datasette.io/">shot-scraper</a> CLI tool and dropped the following in <code>AGENTS.md</code>:</p>
+        <pre><code>To take a screenshot, run:
+        
+        shot-scraper http://www.example.com/ -w 800 -o example.jpg
+        </code></pre>
+        <p>Just that one example is enough for the agent to guess how to swap out the URL and filename for other screenshots.</p>
+        <p>Good LLMs already know how to use a bewildering array of existing tools. If you say "use <a href="https://playwright.dev/python/">playwright python</a>" or "use ffmpeg" most models will use those effectively - and since they're running in a loop they can usually recover from mistakes they make at first and figure out the right incantations without extra guidance.</p>
+        <h4 id="issuing-tightly-scoped-credentials">Issuing tightly scoped credentials</h4>
+        <p>In addition to exposing the right commands, we also need to consider what credentials we should expose to those commands.</p>
+        <p>Ideally we wouldn't need any credentials at all - plenty of work can be done without signing into anything or providing an API key - but certain problems will require authenticated access.</p>
+        <p>This is a deep topic in itself, but I have two key recommendations here:</p>
+        <ol>
+        <li>Try to provide credentials to test or staging environments where any damage can be well contained.</li>
+        <li>If a credential can spend money, set a tight budget limit.</li>
+        </ol>
+        <p>I'll use an example to illustrate. A while ago I was investigating slow cold start times for a scale-to-zero application I was running on <a href="https://fly.io/">Fly.io</a>.</p>
+        <p>I realized I could work a lot faster if I gave Claude Code the ability to directly edit Dockerfiles, deploy them to a Fly account and measure how long they took to launch.</p>
+        <p>Fly allows you to create organizations, and you can set a budget limit for those organizations and issue a Fly API key that can only create or modify apps within that organization...</p>
+        <p>So I created a dedicated organization for just this one investigation, set a $5 budget, issued an API key and set Claude Code loose on it!</p>
+        <p>In that particular case the results weren't useful enough to describe in more detail, but this was the project where I first realized that "designing an agentic loop" was an important skill to develop.</p>
+        <h4 id="when-to-design-an-agentic-loop">When to design an agentic loop</h4>
+        <p>Not every problem responds well to this pattern of working. The thing to look out for here are problems with <strong>clear success criteria</strong> where finding a good solution is likely to involve (potentially slightly tedious) <strong>trial and error</strong>.</p>
+        <p>Any time you find yourself thinking "ugh, I'm going to have to try a lot of variations here" is a strong signal that an agentic loop might be worth trying!</p>
+        <p>A few examples:</p>
+        <ul>
+        <li>
+        <strong>Debugging</strong>: a test is failing and you need to investigate the root cause. Coding agents that can already run your tests can likely do this without any extra setup.</li>
+        <li>
+        <strong>Performance optimization</strong>: this SQL query is too slow, would adding an index help? Have your agent benchmark the query and then add and drop indexes (in an isolated development environment!) to measure their impact.</li>
+        <li>
+        <strong>Upgrading dependencies</strong>: you've fallen behind on a bunch of dependency upgrades? If your test suite is solid an agentic loop can upgrade them all for you and make any minor updates needed to reflect breaking changes. Make sure a copy of the relevant  release notes is available, or that the agent knows where to find them itself.</li>
+        <li>
+        <strong>Optimizing container sizes</strong>: Docker container feeling uncomfortably large? Have your agent try different base images and iterate on the Dockerfile to try to shrink it, while keeping the tests passing.</li>
+        </ul>
+        <p>A common theme in all of these is <strong>automated tests</strong>. The value you can get from coding agents and other LLM coding tools is massively amplified by a good, cleanly passing test suite. Thankfully LLMs are great for accelerating the process of putting one of those together, if you don't have one yet.</p>
+        <h4 id="this-is-still-a-very-fresh-area">This is still a very fresh area</h4>
+        <p><strong>Designing agentic loops</strong> is a very new skill - Claude Code was <a href="https://www.anthropic.com/news/claude-3-7-sonnet">first released</a> in just February 2025!</p>
+        <p>I'm hoping that giving it a clear name can help us have productive conversations about it. There's <em>so much more</em> to figure out about how to use these tools as effectively as possible.</p>
+            
+                <p>Tags: <a href="https://simonwillison.net/tags/definitions">definitions</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a></p>]]>
+      </description>
+      <guid>cid://https://simonwillison.net/2025/Sep/30/designing-agentic-loops/#atom-everything</guid>
+    </item>    <item>
+      <title>Mister Rogers Visits Sesame Street (1981)</title>
+      <link>https://kottke.org/25/09/mister-rogers-visits-sesame-street-1981</link>
+      <guid>cid://tag:kottke.org,2025://5.47613</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/30.html#a151701</link>
+      <description>
+        <![CDATA[People are not symbols.]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/30.html#a151701</guid>
+    </item>    <item>
+      <title>In Unhinged Speech, Pete Hegseth Says He&#39;s Tired of ‘Fat Troops,’ Says Military Needs to Go Full AI</title>
+      <link>https://www.404media.co/in-unhinged-speech-pete-hegseth-says-hes-tired-of-fat-troops-says-military-needs-to-go-full-ai/</link>
+      <description>
+        <![CDATA[The Secretary of War lectured America’s generals on fitness standards, beards, and warriors for an hour.]]>
+      </description>
+      <guid>cid://68dbf252872f490001c55ae0</guid>
+    </item>    <item>
+      <title>Read &#34;California&#39;s newly signed AI law just gave Big Tech exactly what it wanted&#34;</title>
+      <link>https://www.mollywhite.net/reading/shortform?search=California&#39;s%20newly%20signed%20AI%20law%20just%20gave%20Big%20Tech%20exactly%20what%20it%20wanted</link>
+      <guid>cid://68dbf3929f72b44b3849e27d</guid>
+    </item>    <item>
+      <title>Ron DeSantis is about to “gift” Donald Trump a $200 million plot of land for his “library.”</title>
+      <link>https://lithub.com/ron-desantis-is-about-to-gift-donald-trump-a-200-million-plot-of-land-for-his-library/</link>
+      <description>
+        <![CDATA[Florida man and failed presidential candidate Ron DeSantis will vote today—along with the state’s attorney general, chief financial officer and agriculture commissioner, all republicans—to approve a very shady “grift” “gift” to Donald Trump’s presidential library foundation. The gift in question is a plot of land in downtown Miami owned by Miami Dade College, last appraised [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=260467</guid>
+    </item>    <item>
+      <title>New book from Patrick Radden Keefe (Say Nothing, Empire of Pain): London...</title>
+      <link>https://kottke.org/25/09/0047608-new-book-from-patrick-rad</link>
+      <guid>cid://tag:kottke.org,2025://13.47608</guid>
     </item>    <item>
       <title>Yes, this exactly: &#38;#8220;The government is already shut down, and has been...</title>
       <link>https://kottke.org/25/09/0047611-yes-this-exactly-the-gove</link>
@@ -66,6 +557,13 @@
       <title>Apple Started Using iPhone 17 Pros as Cameras for Friday Night Baseball Broadcasts</title>
       <link>https://sixcolors.com/post/2025/09/apple-adds-iphones-to-friday-night-baseball-coverage/</link>
       <guid>cid://tag:daringfireball.net,2025:/linked//6.42232</guid>
+    </item>    <item>
+      <title>How Deno protects against npm exploits</title>
+      <link>https://deno.com/blog/deno-protects-npm-exploits</link>
+      <description>
+        <![CDATA[Recent supply chain attacks on npm is a reminder that Node and npm grants unfettered access to your systems. Here's how Deno, with an opt-in security model, protects against these vulnerabilities.]]>
+      </description>
+      <guid>cid://https://deno.com/blog/deno-protects-npm-exploits</guid>
     </item>    <item>
       <title>Book: The Next Day</title>
       <link>https://cate.blog/2025/09/30/book-the-next-day/</link>
@@ -110,6 +608,14 @@
         <p>That&#8217;s when he offered to transfer me to his supervisor. That simple phrase, familiar from countless customer-service calls, draped a cloak of corporate competence over this unfolding drama. His <i>supervisor</i>. I mean, would a scammer have a supervisor?...</p></blockquote>]]>
       </description>
       <guid>cid://https://www.schneier.com/?p=70895</guid>
+    </item>    <item>
+      <title>He came and rearranged our molecules</title>
+      <link>https://news.lettersofnote.com/p/he-came-and-rearranged-our-molecules</link>
+      <description>
+        <![CDATA[A stunning letter of condolence following the death of James Dean]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!xxgp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d814e7e-c4a2-4977-ab1a-c6d594b36344_1024x711.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://news.lettersofnote.com/p/he-came-and-rearranged-our-molecules</guid>
     </item>    <item>
       <title>Fossil Fuels and Fossilized Minds</title>
       <link>https://paulkrugman.substack.com/p/fossil-fuels-and-fossilized-minds</link>
@@ -159,7 +665,7 @@
       <title>The 14 Best Book Covers of September</title>
       <link>https://lithub.com/the-14-best-book-covers-of-september/</link>
       <description>
-        <![CDATA[Another month of books, another month of book covers. This month, I noticed a lot of play with both text and texture, fresh collage forms, and two very different ways to use a record as inspiration. Here are my favorites from September: The tooth! (The blood!) I&#8217;m a sucker for halftone, but the juxtaposition of [&#8230;]]]>
+        <![CDATA[Another month of books, another month of book covers. This month, I noticed a lot of play with both text and texture, fresh collage forms, and two very different ways to use a record as inspiration. Here are my favorites from September: Shop the List on Bookshop.org * The tooth! (The blood!) I&#8217;m a sucker [&#8230;]]]>
       </description>
       <guid>cid://https://lithub.com/?p=260020</guid>
     </item>    <item>
@@ -220,30 +726,6 @@
       </description>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!Shc3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4c1f539-e7d3-4f71-857a-1e36b1dc9720_1024x1536.png" length="0" type="image/jpeg" />
       <guid>cid://https://garymarcus.substack.com/p/sam-altman-and-copyright-then-and</guid>
-    </item>    <item>
-      <title>2025-09-30 Hyperbole</title>
-      <link>https://alexschroeder.ch/view/2025-09-29-hyperbole</link>
-      <description>
-        <![CDATA[<h1 id="2025-09-30-hyperbole">2025-09-30 Hyperbole</h1>
-        
-        <p>I&rsquo;ve started using <a href="https://www.emacswiki.org/emacs/Hyperbole">Hyperbole</a>. I switch off my computers in the evenings. So every morning, Emacs starts fresh. The first thing I want to see is the directory names of various projects I&rsquo;m working on. This reminds me of the things I&rsquo;m doing and <code>M-RET</code>
-        on these directory names takes me there to do them.</p>
-        
-        <p>My short config is below. With it, <code>~/.emacs.d/hyperb/HYPB</code> is the first buffer I see (instead of <code>*scratch*</code>). I&rsquo;ve used Enriched Mode to add some bold headers to group the various starting points.</p>
-        
-        <pre><code>(use-package hyperbole
-          :ensure t
-          :config
-          (setq hbmap:dir-user &quot;~/.emacs.d/hyperb&quot;
-                initial-buffer-choice (expand-file-name
-                                       hbmap:filename
-                                       hbmap:dir-user))
-          (hyperbole-mode 1))
-        </code></pre>
-        
-        <p><a class="tag" href="/search/?q=%23Emacs">#Emacs</a> <a class="tag" href="/search/?q=%23Hyperbole">#Hyperbole</a></p>]]>
-      </description>
-      <guid>cid://https://alexschroeder.ch/view/2025-09-29-hyperbole</guid>
     </item>    <item>
       <title>September 29, 2025</title>
       <link>https://heathercoxrichardson.substack.com/p/september-29-2025</link>
@@ -529,6 +1011,7 @@
         </blockquote>
         <p>Did I mention I kicked off this experiment by entering prompts on my phone?</p>
         <p>I told it to <code>Give me a zip file of everything you have done so far</code> - you can explore the contents of the file it made me <a href="https://gist.github.com/simonw/f9d0f870e8d1af399a7f366a7f87b8b4">in this Gist</a>.</p>
+        <p><strong>Update</strong>: I shared a <a href="https://claude.ai/share/9d5b0729-b58d-4b15-9e45-ab1e7152b89e">longer version</a> of this experiment where I had the model experiment with a complex message hashing mechanism as well. I've <a href="https://claude.ai/share/9d5b0729-b58d-4b15-9e45-ab1e7152b89e">pushed the code to a branch</a>, which is best explained by the <a href="https://github.com/simonw/llm/blob/697636222a277f892dfffef86b2471cc89c95576/message_matching_notes.md">message_matching_notes.md</a> document written by Claude.</p>
         <h4 id="pelicans">Pelicans</h4>
         <p>I released <a href="https://github.com/simonw/llm-anthropic/releases/tag/0.19">llm-anthropic 0.19</a> adding support for the new model. Then I ran my <a href="">classic pelican benchmark</a>, first <a href="https://gist.github.com/simonw/52a5bb478fa743daede12d97173cb817">with thinking turned on</a>:</p>
         <div class="highlight highlight-source-shell"><pre>llm -m claude-sonnet-4.5 -o thinking 1 -o thinking_budget 4000 \
@@ -903,6 +1386,14 @@
       </description>
       <guid>cid://https://therestishistory.com/604-greek-myths-sex-drugs-tragedy-part-3/</guid>
     </item>    <item>
+      <title>How to turn down an invitation</title>
+      <link>https://news.lettersofnote.com/p/how-to-turn-down-an-invitation</link>
+      <description>
+        <![CDATA[Happy birthday to a gem]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!lrCR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F715a0321-88e7-47b3-b3ed-b0fa091b982b_1024x806.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://news.lettersofnote.com/p/how-to-turn-down-an-invitation</guid>
+    </item>    <item>
       <title>Drata</title>
       <link>https://drata.com/daring</link>
       <guid>cid://tag:daringfireball.net,2025:/linked//6.42228</guid>
@@ -1014,75 +1505,6 @@
             <p>Tags: <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/nick-turley">nick-turley</a></p>]]>
       </description>
       <guid>cid://https://simonwillison.net/2025/Sep/28/nick-turley/#atom-everything</guid>
-    </item>    <item>
-      <title>2025-09-28 Situations</title>
-      <link>https://alexschroeder.ch/view/2025-09-28-situations</link>
-      <description>
-        <![CDATA[<h1 id="2025-09-28-situations">2025-09-28 Situations</h1>
-        
-        <p>I sometimes look at <a href="Halberts">Halberts</a> and wonder what it would take to
-        turn it into a pick-up game like B/X D&amp;D. What do I mean by that? A game
-        without preparation by referee that still involves the exploration of
-        an imaginary space and dangers. This involves a number of things:</p>
-        
-        <p>An imaginary space means that there&rsquo;s a map and it has a map-like
-        effect. Directions and distances don&rsquo;t contract to fit a story.
-        Buildings don&rsquo;t shift around, inhabitants don&rsquo;t shift around. It&rsquo;s
-        possible for players to place labels on the map.</p>
-        
-        <p>The map the referee uses can be explored. In other words, it already
-        exists. It is not drawn on the fly, it doesn&rsquo;t take input by the
-        players who do the exploring. Exploration means that there is a power
-        imbalance: The referee knows the map and the players do not. Or the
-        map the players have at their disposal is an incomplete map that still
-        needs exploring to find the things placed on it.</p>
-        
-        <p>The spatial nature means it&rsquo;s possible to draw a map of a settlement
-        or region and make reasonable decisions based on it. How to get from
-        one place to another. How to avoid particular dangers. If the players
-        don&rsquo;t want to cross the pass in winter, the map shows what the
-        alternatives are. This also means that drawing a map of a building
-        allows the referee to place markers on the map for rewards, guards and
-        traps, and it allows the placers to navigate the map, finding some and
-        avoiding others.</p>
-        
-        <p>In D&amp;D, it is possible to run such adventures without having to do all
-        the preparation yourself because there is a rich tradition of modules.
-        These contain maps, descriptions, monsters, treasures, non-player
-        characters, situations, riddles, conundrums, ready to go. A referee
-        has to read them, or at least the introduction, and soon the game can
-        start.</p>
-        
-        <p>This is a culture supported by a very popular game. Many other games
-        don&rsquo;t have this. These other game consist of the core rules and maybe
-        optional rules; maybe some suggestions for creating the situations you
-        need. But it&rsquo;s rare to find games with many adventures ready to go.</p>
-        
-        <p>Even the submissions to the <a href="https://campaignwiki.org/one">One Page Dungeon
-        Contest</a> aren&rsquo;t ready to go. The monsters
-        have no stats and the treasures have no value. That means that some sort
-        of preparation is required.</p>
-        
-        <p>The alternative seems to be improvisation at the table and that
-        doesn&rsquo;t work for me. I can&rsquo;t meaningfully &ldquo;explore&rdquo; what somebody else at
-        the table has improvised just moments ago. It can work for an
-        encounter or two, but not for a map and factions and monsters and
-        everything. There&rsquo;s something about the experience that turns me off.</p>
-        
-        <p>I remembered the German game
-        <a href="http://www.dungeonslayers.net/">Dungeonslayers</a> had a bunch of little
-        adventures to go. The official site has 20 small one and two page dungeons
-        to go as <a href="https://www.dungeonslayers.net/downloads/abenteuer/">free downloads</a>.
-        There are 7 big adventures <a href="https://www.dungeonslayers.net/produkte/abenteuer/">for sale</a>.
-        And I checked the <a href="https://www.f-space.de/ds4/downloads.html">Slayer&rsquo;s Pit</a>
-        and collects all sorts of downloads including fan made adventures. 😍</p>
-        
-        <p>Perhaps I should just play Dungeonslayers instead of trying to play
-        Halberts.</p>
-        
-        <p><a class="tag" href="/search/?q=%23RPG">#RPG</a></p>]]>
-      </description>
-      <guid>cid://https://alexschroeder.ch/view/2025-09-28-situations</guid>
     </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115282885308969091</link>
       <description>
@@ -1361,6 +1783,14 @@
       </description>
       <guid>cid://https://tracydurnell.com/?p=29963</guid>
     </item>    <item>
+      <title>US-RSE September 2025 Newsletter</title>
+      <link>https://us-rse.org/2025-09-27-newsletter/</link>
+      <description>
+        <![CDATA[⛰️ This Month: Get Prepared for USRSE'25 ⛰️ - 
+                  US-RSE’25 is finally here! For those making the pilgrimage to sunny Philadelphia in a few short days, we’ve compiled a handy task list that ensures that you’ll be prepared and ready to make the most of this year’s exciting conference! Read on for more… In this issue: 1. USRSE’25 Conference...]]>
+      </description>
+      <guid>cid://https://us-rse.org/2025-09-27-newsletter/</guid>
+    </item>    <item>
       <title>Or Perhaps You Could Pull Over</title>
       <link>https://onefoottsunami.com/2025/09/26/or-maybe-pull-over/</link>
       <guid>cid://https://onefoottsunami.com/?p=29197</guid>
@@ -1471,6 +1901,14 @@
         <![CDATA[I put out a request for WordPress-related blogs on <a href="https://mastodon.social/@davew/115270627531848336">Masto</a>, <a href="https://bsky.app/profile/scripting.com/post/3lzqi6vzvtc2n">Bluesky</a> and <a href="https://x.com/davewiner/status/1971553589031248069">Twitter</a> this morning. Got enough feeds to start <a href="https://wordpress.feedland.org/">wordpress.feedland.org</a>. If you have a site that should be included, please post the URL in one of those places and I'll add it to the subscription list for the site.]]>
       </description>
       <guid>cid://http://scripting.com/2025/09/26.html#a205907</guid>
+    </item>    <item>
+      <title>Quantum Safe Private Communications: Building the Future Before the Threat Arrives</title>
+      <link>https://puri.sm/posts/quantum-safe-private-communications-building-the-future-before-the-threat-arrives/</link>
+      <description>
+        <![CDATA[<p>Secure mobility is not just about encryption — it’s about sovereignty. The ability to own, control, and verify every layer of your communications stack is the difference between operational assurance and strategic vulnerability.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/quantum-safe-private-communications-building-the-future-before-the-threat-arrives/">Quantum Safe Private Communications: Building the Future Before the Threat Arrives</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <guid>cid://https://puri.sm/?p=84586</guid>
     </item>    <item>
       <title>Tahoe’s Mac App Store</title>
       <link>https://mjtsai.com/blog/2025/09/26/tahoes-mac-app-store/</link>
@@ -1927,14 +2365,6 @@
       <link>https://kottke.org/25/09/engineering-lego-cars-to-climb-increasingly-tall-walls</link>
       <guid>cid://tag:kottke.org,2025://5.47569</guid>
     </item>    <item>
-      <title>Quantum Safe Private Communications: Building the Future Before the Threat Arrives</title>
-      <link>https://puri.sm/posts/quantum-safe-private-communications-building-the-future-before-the-threat-arrives/</link>
-      <description>
-        <![CDATA[<p>Secure mobility is not just about encryption — it’s about sovereignty. The ability to own, control, and verify every layer of your communications stack is the difference between operational assurance and strategic vulnerability.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/quantum-safe-private-communications-building-the-future-before-the-threat-arrives/">Quantum Safe Private Communications: Building the Future Before the Threat Arrives</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <guid>cid://https://puri.sm/?p=84586</guid>
-    </item>    <item>
       <link>https://openai.com/index/introducing-chatgpt-pulse/</link>
       <description>
         <![CDATA[<p>Introducing ChatGPT Pulse.</p>]]>
@@ -2157,6 +2587,14 @@
       <title>Note published on September 25, 2025 at 4:55 PM UTC</title>
       <link>https://www.mollywhite.net/micro/entry/202509251254</link>
       <guid>cid://68d5741c133dae2d072df3f4</guid>
+    </item>    <item>
+      <title>A few moments ago I was handed my very first American fan letter</title>
+      <link>https://news.lettersofnote.com/p/a-few-moments-ago-i-was-handed-my</link>
+      <description>
+        <![CDATA[An endearing letter from 20-year-old David Bowie]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!THU3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb02e9ca3-a311-444f-8ddb-e6caaf3437a6_1024x656.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://news.lettersofnote.com/p/a-few-moments-ago-i-was-handed-my</guid>
     </item>    <item>
       <title>Bullet Points: A Few Good Reads</title>
       <link>https://davekarpf.substack.com/p/bullet-points-a-few-good-reads</link>
@@ -3048,7 +3486,7 @@
       <title>The Continuing End of OTA TV</title>
       <link>https://doc.searls.com/2025/09/23/the-continuing-end-of-ota-tv/</link>
       <description>
-        <![CDATA[I&#8217;ve never watched Jimmy Kimmel Live—or any late-night talk shows since Carson, and I didn&#8217;t watch much of him either. But I am familiar with Jimmy, through his Oscars hosting gigs, his friendship with Howard Stern (whom I have enjoyed for decades), and from YouTube clips when somebody points me to one and I actually [&#8230;]]]>
+        <![CDATA[I&#8217;ve never watched Jimmy Kimmel Live—or any late-night talk shows since Carson, and I didn&#8217;t watch much of him either. But I am familiar with Jimmy, through his Oscars hosting gigs, his friendship with Howard Stern (for whom, with Jeff Jarvis, I have been a devoted fan for decades), and from YouTube clips when somebody [&#8230;]]]>
       </description>
       <guid>cid://https://doc.searls.com/?p=19464</guid>
     </item>    <item>

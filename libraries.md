@@ -9,7 +9,7 @@ title: Library and Archives organizations
 - [Scholarly Kitchen](https://scholarlykitchen.sspnet.org/feed/)
 - [Parachute blog](https://theparachute.blogspot.com/feeds/posts/default?alt=rss)
 - [SciELO in Perspective](https://blog.scielo.org/en/feed/)
-- [ETH Zurich Research Archives](https://rc-blog.ethz.ch/en/feed/)
+-  ETH Zurich Research Archives, <https://rc-blog.ethz.ch/en/feed/>, feed no longer available 2025-09-30 RSD (probably the bot abuse we experienced)
 - [Jonny Saunders blog](https://jon-e.net/blog/feed.xml)
 - [Standard Ebooks, new releaases](https://standardebooks.org/feeds/rss/new-releases)
 - [Collections Data blog](https://collectionsasdata.github.io/atom.xml)

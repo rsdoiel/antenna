@@ -161,7 +161,7 @@ description: Blogs, columns and snapshots from around the web.
 - [Creations Blog by Kyle Gabriel](https://kylegabriel.com/projects/feed)
 - [Blog Lazplanet](https://lazplanet.blogspot.com/feeds/posts/default?alt=rss)
 - [Lean Rada's blog](https://leanrada.com/rss.xml)
-- [Letters of Note](https://lettersofnote.com/feed/)
+- [Letters of Note](https://news.lettersofnote.com/feed)
 - [Lispy Arnuld blog](https://lispyarnuld.wordpress.com/feed/)
 - [Literate Machine](https://literatemachine.com/feed/)
 - [Little Big Details blog](https://littlebigdetails.com/rss)

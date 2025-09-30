@@ -11,6 +11,7 @@ title: Healthy Eating, Good Eating and Recipes
 - [Pepper Scale](https://pepperscale.com/feed/)
 - [Closet Cooking](https://www.closetcooking.com/feed/)
 - [Taste of Home](https://www.tasteofhome.com/feed/)
+- [Spiceography](https://spiceography.com/feed/)
 
 # Irish
 
