@@ -6,7 +6,7 @@ descirption: |
 
 # Writing list provides resources and inspiration for writing projects and IF (Interactive Fiction)
 
-- [Final Draft blog](https://blog.finaldraft.com/rss.xml)
+-  Final Draft blog <https://blog.finaldraft.com/rss.xml>, not available 2025-09-30, RSD
 - [Literature & a Latte blog](https://www.literatureandlatte.com/feed)
 - [(IFTF) Interactive Fiction Technology Foundation](https://blog.iftechfoundation.org/atom.xml)
 - [Inform 7 IF language blog](https://ganelson.github.io/inform-website/feed.xml)
