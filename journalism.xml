@@ -4,8 +4,8 @@
   <channel>
     <title>Journalism</title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>30 Sep 25 16:15 -0700</lastBuildDate>
-    <generator>antenna/0.0.8</generator>
+    <lastBuildDate>30 Sep 25 16:36 -0700</lastBuildDate>
+    <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>Opinion: Art creates an imbalance of power, using storytelling to reclaim the narrative</title>
@@ -14,6 +14,8 @@
         <![CDATA[Making art has always been about asserting power. To write, paint or film someone is to claim authority over their image.
         But what happens when you find yourself as the subject instead of the artist?]]>
       </description>
+      <source:markdown>Making art has always been about asserting power. To write, paint or film someone is to claim authority over their image.
+But what happens when you find yourself as the subject instead of the artist?</source:markdown>
       <guid>cid://https://dailybruin.com/?p=494098</guid>
     </item>    <item>
       <title>USC announces 55 layoffs</title>
@@ -22,6 +24,9 @@
         <![CDATA[<p>The layoffs include one academic program director and other positions such as painters and an AC technician, among others.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/30/usc-announces-55-layoffs/">USC announces 55 layoffs</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The layoffs include one academic program director and other positions such as painters and an AC technician, among others.
+
+The post [USC announces 55 layoffs](https://dailytrojan.com/2025/09/30/usc-announces-55-layoffs/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=240181</guid>
     </item>    <item>
       <title>Broxton parking raise exemption sought by businesses, residents</title>
@@ -30,6 +35,8 @@
         <![CDATA[Westwood&#8217;s Broxton parking structure has ended its two-hour free parking policy.
         Effective Aug. 1, the structure changed from providing two hours of free parking to $2 every 20 minutes, with a daily maximum of $15.]]>
       </description>
+      <source:markdown>Westwood’s Broxton parking structure has ended its two-hour free parking policy.
+Effective Aug. 1, the structure changed from providing two hours of free parking to $2 every 20 minutes, with a daily maximum of $15.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=494094</guid>
     </item>    <item>
       <title>Hell Gate saw a 69% increase in subscribers in its third year of covering New York City</title>
@@ -37,6 +44,7 @@
       <description>
         <![CDATA[New York City&#8217;s mayoral Democratic primary this summer — in which Democratic socialist Zohran Mamdani defeated disgraced former governor Andrew Cuomo — captured the nation&#8217;s attention, making for another busy year in New York City politics and news. But the race has proven lucrative for Hell Gate NYC, the three-year-old, worker-owned news outlet. Of Hell...]]>
       </description>
+      <source:markdown>New York City’s mayoral Democratic primary this summer — in which Democratic socialist Zohran Mamdani defeated disgraced former governor Andrew Cuomo — captured the nation’s attention, making for another busy year in New York City politics and news. But the race has proven lucrative for Hell Gate NYC, the three-year-old, worker-owned news outlet. Of Hell...</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=243609</guid>
     </item>    <item>
       <title>Nurses rally for new contract with safer staffing, working conditions</title>
@@ -44,6 +52,7 @@
       <description>
         <![CDATA[Around 40 nurses and community members rallied in front of Ronald Reagan UCLA Medical Center on Tuesday morning to demand that the UC agree to a new contract with safer staffing and working conditions.]]>
       </description>
+      <source:markdown>Around 40 nurses and community members rallied in front of Ronald Reagan UCLA Medical Center on Tuesday morning to demand that the UC agree to a new contract with safer staffing and working conditions.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=494091</guid>
     </item>    <item>
       <title>“The AI-ification of email” keeps 404 Media’s Jason Koebler up at night</title>
@@ -51,6 +60,7 @@
       <description>
         <![CDATA[Athens — &#8220;Our work was going in the trash.&#8221; That&#8217;s how Jason Koebler, cofounder of independent technology news site 404 Media, describes the situation that drove 404 to require readers to give their email addresses before reading articles. It was January 2024, &#8220;I was walking my dog and I basically had a panic attack,&#8221; Koebler...]]>
       </description>
+      <source:markdown>Athens — “Our work was going in the trash.” That’s how Jason Koebler, cofounder of independent technology news site 404 Media, describes the situation that drove 404 to require readers to give their email addresses before reading articles. It was January 2024, “I was walking my dog and I basically had a panic attack,” Koebler...</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=243516</guid>
     </item>    <item>
       <title>USC to continue legacy preference in admissions, violating state ban</title>
@@ -59,6 +69,9 @@
         <![CDATA[<p>Interim President Beong-Soo Kim said it seemed “perverse” to ignore a student’s legacy status.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/30/usc-to-continue-legacy-preference-in-admissions-violating-state-ban/">USC to continue legacy preference in admissions, violating state ban</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Interim President Beong-Soo Kim said it seemed “perverse” to ignore a student’s legacy status.
+
+The post [USC to continue legacy preference in admissions, violating state ban](https://dailytrojan.com/2025/09/30/usc-to-continue-legacy-preference-in-admissions-violating-state-ban/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=240099</guid>
     </item>    <item>
       <title>VTDigger, Chicago Reader, and Honolulu Civil Beat see big traffic gains</title>
@@ -66,6 +79,7 @@
       <description>
         <![CDATA[VTDigger, the Chicago Reader, and Honolulu Civil Beat were three of the biggest gainers in web traffic among nonprofit news outlets in July 2025, according to the latest edition of our monthly rankings. Vermont had its third straight July with flash floods, but that wasn&#8217;t the main driver of VTDigger&#8217;s roughly 60% increase in web...]]>
       </description>
+      <source:markdown>VTDigger, the Chicago Reader, and Honolulu Civil Beat were three of the biggest gainers in web traffic among nonprofit news outlets in July 2025, according to the latest edition of our monthly rankings. Vermont had its third straight July with flash floods, but that wasn’t the main driver of VTDigger’s roughly 60% increase in web...</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=243450</guid>
     </item>    <item>
       <title>… We’ll have fun, fun, fun</title>
@@ -74,6 +88,9 @@
         <![CDATA[<p>Our lives are so hyperfocused on productivity and achievement; make sure to have some fun.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/30/well-have-fun-fun-fun/">&#8230; We&#8217;ll have fun, fun, fun</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Our lives are so hyperfocused on productivity and achievement; make sure to have some fun.
+
+The post [… We’ll have fun, fun, fun](https://dailytrojan.com/2025/09/30/well-have-fun-fun-fun/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=240117</guid>
     </item>    <item>
       <title>It’s impossible to be an ‘LA 10’</title>
@@ -82,6 +99,9 @@
         <![CDATA[<p>The commodification of beauty deflates its intended purpose of self-expression.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/30/its-impossible-to-be-an-la-10/">It&#8217;s impossible to be an &#8216;LA 10&#8217;</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The commodification of beauty deflates its intended purpose of self-expression.
+
+The post [It’s impossible to be an ‘LA 10’](https://dailytrojan.com/2025/09/30/its-impossible-to-be-an-la-10/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=240113</guid>
     </item>    <item>
       <title>Break to Make reboots hands-on creativity at USC</title>
@@ -90,6 +110,9 @@
         <![CDATA[<p>USC’s only hardware-focused make-a-thon created space for female and nonbinary makers across disciplines.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/30/break-to-make-reboots-hands-on-creativity-at-usc/">Break to Make reboots hands-on creativity at USC</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>USC’s only hardware-focused make-a-thon created space for female and nonbinary makers across disciplines.
+
+The post [Break to Make reboots hands-on creativity at USC](https://dailytrojan.com/2025/09/30/break-to-make-reboots-hands-on-creativity-at-usc/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=240092</guid>
     </item>    <item>
       <title>Soccer takes revenge against Rutgers at Rawlinson</title>
@@ -98,6 +121,9 @@
         <![CDATA[<p>The Trojans jumped out to an early lead and overcame a late Scarlet Knight push.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/30/soccer-takes-revenge-against-rutgers-at-rawlinson/">Soccer takes revenge against Rutgers at Rawlinson</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The Trojans jumped out to an early lead and overcame a late Scarlet Knight push.
+
+The post [Soccer takes revenge against Rutgers at Rawlinson](https://dailytrojan.com/2025/09/30/soccer-takes-revenge-against-rutgers-at-rawlinson/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=240082</guid>
     </item>    <item>
       <title>The Head And The Heart stuns crowd at the Greek Theatre</title>
@@ -106,6 +132,9 @@
         <![CDATA[<p>The indie-folk band performed an impressive two-hour set in celebration of its sixth album release.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/30/the-head-and-the-heart-stuns-crowd-at-the-greek-theatre/">The Head And The Heart stuns crowd at the Greek Theatre</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The indie-folk band performed an impressive two-hour set in celebration of its sixth album release.
+
+The post [The Head And The Heart stuns crowd at the Greek Theatre](https://dailytrojan.com/2025/09/30/the-head-and-the-heart-stuns-crowd-at-the-greek-theatre/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=240126</guid>
     </item>    <item>
       <title>Laufey makes Crypto.com Arena her ‘Valentine’</title>
@@ -114,6 +143,9 @@
         <![CDATA[<p>The artist headlined the home of the Lakers and Kings as part of her A Matter of Time tour. </p>
         <p>The post <a href="https://dailytrojan.com/2025/09/30/laufey-makes-crypto-com-arena-her-valentine/">Laufey makes Crypto.com Arena her ‘Valentine’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The artist headlined the home of the Lakers and Kings as part of her A Matter of Time tour.
+
+The post [Laufey makes Crypto.com Arena her ‘Valentine’](https://dailytrojan.com/2025/09/30/laufey-makes-crypto-com-arena-her-valentine/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=240139</guid>
     </item>    <item>
       <title>sage ella is here to play</title>
@@ -122,6 +154,9 @@
         <![CDATA[<p>The junior Thornton School of Music student's experimental sound challenges convention. </p>
         <p>The post <a href="https://dailytrojan.com/2025/09/30/sage-ella-is-here-to-play/">sage ella is here to play</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The junior Thornton School of Music student&#39;s experimental sound challenges convention.
+
+The post [sage ella is here to play](https://dailytrojan.com/2025/09/30/sage-ella-is-here-to-play/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=240135</guid>
     </item>    <item>
       <title>Cross country runs full-strength at UC Riverside Invitational</title>
@@ -130,6 +165,9 @@
         <![CDATA[<p>The Trojans placed 23rd overall at their second meet of the season.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/30/cross-country-runs-full-strength-at-uc-riverside-invitational/">Cross country runs full-strength at UC Riverside Invitational</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The Trojans placed 23rd overall at their second meet of the season.
+
+The post [Cross country runs full-strength at UC Riverside Invitational](https://dailytrojan.com/2025/09/30/cross-country-runs-full-strength-at-uc-riverside-invitational/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=240086</guid>
     </item>    <item>
       <title>Review: Cardi B breaks records with ‘Am I the Drama?’</title>
@@ -137,6 +175,7 @@
       <description>
         <![CDATA[On Sept. 19, Cardi B released her highly anticipated album “Am I the Drama?” In under 24 hours, the project went platinum, setting the record as the fastest female album...]]>
       </description>
+      <source:markdown>On Sept. 19, Cardi B released her highly anticipated album “Am I the Drama?” In under 24 hours, the project went platinum, setting the record as the fastest female album...</source:markdown>
       <guid>cid://http://sundial.csun.edu/?p=197635</guid>
     </item>    <item>
       <title>UCLA professors express concern over new hiring review, limited student research</title>
@@ -145,6 +184,8 @@
         <![CDATA[<em>This post was updated Sept. 29 at 8:41 p.m.</em>
         Some UCLA professors expressed concern over the university’s new hiring review process, alleging that the policy has impacted their ability to hire new researchers.]]>
       </description>
+      <source:markdown>_This post was updated Sept. 29 at 8:41 p.m._
+Some UCLA professors expressed concern over the university’s new hiring review process, alleging that the policy has impacted their ability to hire new researchers.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=494083</guid>
     </item>    <item>
       <title>UCLA women’s volleyball starts Big Ten play 2-0, upsetting national champions</title>
@@ -153,6 +194,8 @@
         <![CDATA[A team full of new players will have its growing pains.
         But it is only a matter of time before a fresh squad reaches its growth spurt.]]>
       </description>
+      <source:markdown>A team full of new players will have its growing pains.
+But it is only a matter of time before a fresh squad reaches its growth spurt.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=494077</guid>
     </item>    <item>
       <title>UCLA Community Programs Office spaces, services temporarily shut down</title>
@@ -162,6 +205,9 @@
         The UCLA Community Programs Office has temporarily shut down because of hiring delays and pending staff extensions, which CPO employees alleged have been caused by UCLA Student Affairs.&#160;
         The CPO closed its office spaces located in the Student Activities Center, according to signs posted in the building Monday.]]>
       </description>
+      <source:markdown>_This post was updated Sept. 30 at 10:17 a.m._
+The UCLA Community Programs Office has temporarily shut down because of hiring delays and pending staff extensions, which CPO employees alleged have been caused by UCLA Student Affairs.
+The CPO closed its office spaces located in the Student Activities Center, according to signs posted in the building Monday.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=494074</guid>
     </item>    <item>
       <title>Traveling Threads, Cultural Connections</title>
@@ -175,6 +221,9 @@
         It is no battle to enjoy &#8220;One Battle After Another.&#8221;
         Partially inspired by Thomas Pynchon&#8217;s 1990 novel &#8220;Vineland,&#8221; the tenth film from writer-director Paul Thomas Anderson punched into theaters Friday.]]>
       </description>
+      <source:markdown>Warning: Spoilers ahead.
+It is no battle to enjoy “One Battle After Another.”
+Partially inspired by Thomas Pynchon’s 1990 novel “Vineland,” the tenth film from writer-director Paul Thomas Anderson punched into theaters Friday.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=494067</guid>
     </item>    <item>
       <title>Harnessing AI for visual marketing success today</title>
@@ -182,6 +231,7 @@
       <description>
         <![CDATA[Brands thrive in today&#8217;s fast-moving digital world by using AI-powered visual marketing, which helps companies create a bigger impact. Artificial intelligence is reshaping how businesses design, distribute, and optimize the...]]>
       </description>
+      <source:markdown>Brands thrive in today’s fast-moving digital world by using AI-powered visual marketing, which helps companies create a bigger impact. Artificial intelligence is reshaping how businesses design, distribute, and optimize the...</source:markdown>
       <guid>cid://https://sundial.csun.edu/?p=197594</guid>
     </item>    <item>
       <title>The Role of Student Health Centers</title>
@@ -189,6 +239,7 @@
       <description>
         <![CDATA[Student health centers plays a pivotal role in supporting the well-being of students. With a diverse student body that ranges from local residents to international students, it provides a wide...]]>
       </description>
+      <source:markdown>Student health centers plays a pivotal role in supporting the well-being of students. With a diverse student body that ranges from local residents to international students, it provides a wide...</source:markdown>
       <guid>cid://https://sundial.csun.edu/?p=197587</guid>
     </item>    <item>
       <title>CRIME REPORT: Multiple vehicle thefts near Extended University Commons</title>
@@ -196,6 +247,7 @@
       <description>
         <![CDATA[Below are the crime logs provided by the CSUN Department of Police Services for the week of Sept. 21 to Sept. 28. &#160; Sunday, Sept. 21 These crime logs were...]]>
       </description>
+      <source:markdown>Below are the crime logs provided by the CSUN Department of Police Services for the week of Sept. 21 to Sept. 28.   Sunday, Sept. 21 These crime logs were...</source:markdown>
       <guid>cid://http://sundial.csun.edu/?p=197583</guid>
     </item>    <item>
       <title>UC Regents approves new external auditor, senior VP $1.9 million incentive award</title>
@@ -204,6 +256,8 @@
         <![CDATA[A UC Board of Regents committee approved a nearly $2 million bonus for the University&#8217;s chief investment officer Sept. 16. 
         The governance committee unanimously approved an incentive award of $1,975,558 in three annual installments to Jagdeep Singh Bachher, the UC&#8217;s chief investment officer and senior vice president, for the 2024-2025 fiscal year.]]>
       </description>
+      <source:markdown>A UC Board of Regents committee approved a nearly $2 million bonus for the University’s chief investment officer Sept. 16.
+The governance committee unanimously approved an incentive award of $1,975,558 in three annual installments to Jagdeep Singh Bachher, the UC’s chief investment officer and senior vice president, for the 2024-2025 fiscal year.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=494039</guid>
     </item>    <item>
       <title>The Listening Dolls crafts community using zines, live music shows</title>
@@ -212,6 +266,8 @@
         <![CDATA[The Listening Dolls is harmonizing the visual and musical arts.
         Founded by fourth-year music industry student Martine Kolderup-Lane, the monthly music zine features album recommendations, music history articles, collages of lyrics and interviews with musicians.]]>
       </description>
+      <source:markdown>The Listening Dolls is harmonizing the visual and musical arts.
+Founded by fourth-year music industry student Martine Kolderup-Lane, the monthly music zine features album recommendations, music history articles, collages of lyrics and interviews with musicians.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=494034</guid>
     </item>    <item>
       <title>UCLA women’s golf readies for Windy City Collegiate Classic, new season</title>
@@ -220,6 +276,8 @@
         <![CDATA[New beginnings offer both uncertainty and opportunity as fresh faces learn to move as one.
         The same can be said for the Bruins, who enter the season with a roster where newcomers almost outnumber returners.]]>
       </description>
+      <source:markdown>New beginnings offer both uncertainty and opportunity as fresh faces learn to move as one.
+The same can be said for the Bruins, who enter the season with a roster where newcomers almost outnumber returners.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=494030</guid>
     </item>    <item>
       <title>“Hello, world!” The New York Times hopes to take the success of The Morning global with a new newsletter</title>
@@ -227,6 +285,7 @@
       <description>
         <![CDATA[The New York Times has long believed the potential audience for its subscriptions isn’t just New Yorkers or Americans but &#8220;every curious, English-speaking person seeking to understand and engage with the world.” A new global-minded newsletter, modeled after the Times&#8217; über-successful newsletter The Morning, is a big step in that direction. People at the Times...]]>
       </description>
+      <source:markdown>The New York Times has long believed the potential audience for its subscriptions isn’t just New Yorkers or Americans but “every curious, English-speaking person seeking to understand and engage with the world.” A new global-minded newsletter, modeled after the Times’ über-successful newsletter The Morning, is a big step in that direction. People at the Times...</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=243535</guid>
     </item>    <item>
       <title>More Americans than ever now get news on TikTok, Pew finds</title>
@@ -234,6 +293,7 @@
       <description>
         <![CDATA[One in five Americans say they regularly get news on TikTok, a dramatic uptick from just 3% in 2020, according to a Pew Research Center analysis published last week. “During that span, no social media platform we’ve studied has experienced faster growth in news consumption,” Pew researchers noted. Pew&#8217;s findings are important for media outlets...]]>
       </description>
+      <source:markdown>One in five Americans say they regularly get news on TikTok, a dramatic uptick from just 3% in 2020, according to a Pew Research Center analysis published last week. “During that span, no social media platform we’ve studied has experienced faster growth in news consumption,” Pew researchers noted. Pew’s findings are important for media outlets...</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=243552</guid>
     </item>    <item>
       <title>CSUN Women’s Soccer VS UC Irvine</title>
@@ -241,6 +301,7 @@
       <description>
         <![CDATA[CSUN hosted UC Irvine on Thursday September 25th, looking for their first conference win of the season. CSUN had the chance a game prior before against Fullerton but ended in...]]>
       </description>
+      <source:markdown>CSUN hosted UC Irvine on Thursday September 25th, looking for their first conference win of the season. CSUN had the chance a game prior before against Fullerton but ended in...</source:markdown>
       <guid>cid://https://sundial.csun.edu/?p=197562</guid>
     </item>    <item>
       <title>Not Just Aesthetic:</title>
@@ -248,6 +309,7 @@
       <description>
         <![CDATA[As we approach Hispanic Heritage Month, we celebrate more than just our own traditions – we celebrate and honor the everyday objects that carry our stories into our daily lives....]]>
       </description>
+      <source:markdown>As we approach Hispanic Heritage Month, we celebrate more than just our own traditions – we celebrate and honor the everyday objects that carry our stories into our daily lives....</source:markdown>
       <guid>cid://https://sundial.csun.edu/?p=197141</guid>
     </item>    <item>
       <title>Ballet Folklórico fosters resilience, representation and community</title>
@@ -255,6 +317,7 @@
       <description>
         <![CDATA[Budding from the 1960s Chicano Movement, CSUN’s Ballet Folklórico Aztlan (BFA) Club blossomed to celebrate community and culture through Mexican folk dance. As the second recognized collegiate folklórico club in...]]>
       </description>
+      <source:markdown>Budding from the 1960s Chicano Movement, CSUN’s Ballet Folklórico Aztlan (BFA) Club blossomed to celebrate community and culture through Mexican folk dance. As the second recognized collegiate folklórico club in...</source:markdown>
       <guid>cid://https://sundial.csun.edu/?p=197146</guid>
     </item>    <item>
       <title>El Cine</title>
@@ -262,6 +325,7 @@
       <description>
         <![CDATA[Shortly after a couple of weeks of the new semester, CSUN students will find themselves amidst a flurry of events celebrating Hispanic Heritage Month from September 15 to October 15....]]>
       </description>
+      <source:markdown>Shortly after a couple of weeks of the new semester, CSUN students will find themselves amidst a flurry of events celebrating Hispanic Heritage Month from September 15 to October 15....</source:markdown>
       <guid>cid://https://sundial.csun.edu/?p=197163</guid>
     </item>    <item>
       <title>‘Too Mexican or not Mexican enough?’</title>
@@ -269,6 +333,7 @@
       <description>
         <![CDATA[Growing up, I was always darker than the rest of my family and friends. I never really saw an issue with it until middle school. I never had a doubt...]]>
       </description>
+      <source:markdown>Growing up, I was always darker than the rest of my family and friends. I never really saw an issue with it until middle school. I never had a doubt...</source:markdown>
       <guid>cid://https://sundial.csun.edu/?p=197171</guid>
     </item>    <item>
       <title>La receta de mi abuela</title>
@@ -276,6 +341,7 @@
       <description>
         <![CDATA[Hilachas, translated to threads in English, is a traditional dish from Guatemala. Hilaches is similar to beef stew, consisting of shredded meat, potatoes, carrots and a tomato-based spiced stew. The...]]>
       </description>
+      <source:markdown>Hilachas, translated to threads in English, is a traditional dish from Guatemala. Hilaches is similar to beef stew, consisting of shredded meat, potatoes, carrots and a tomato-based spiced stew. The...</source:markdown>
       <guid>cid://https://sundial.csun.edu/?p=197174</guid>
     </item>    <item>
       <title>Editor’s Letter</title>
@@ -290,6 +356,7 @@
       <description>
         <![CDATA[I covered my tired eyes to block out the morning sun. Almost immediately, regret from scrolling deep into the night seeped in, along with a throbbing headache.]]>
       </description>
+      <source:markdown>I covered my tired eyes to block out the morning sun. Almost immediately, regret from scrolling deep into the night seeped in, along with a throbbing headache.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=494026</guid>
     </item>    <item>
       <title>Fall 2025, Issue 2 Puzzle Answers</title>
@@ -305,6 +372,9 @@
         <![CDATA[<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/29/classifieds-september-29-2025/">Classifieds &#8211; September 29, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The Daily Trojan features Classified advertising in each day&#39;s edition. Here you can read, search, and even print out each day&#39;s edition of the Classifieds.
+
+The post [Classifieds – September 29, 2025](https://dailytrojan.com/2025/09/29/classifieds-september-29-2025/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239952</guid>
     </item>    <item>
       <title>Soccer bounces back, blanks Maryland 3-0</title>
@@ -313,6 +383,9 @@
         <![CDATA[<p>Three different Trojans scored in their first Big Ten shutout of 2025.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/29/soccer-bounces-back-blanks-maryland-3-0/">Soccer bounces back, blanks Maryland 3-0</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Three different Trojans scored in their first Big Ten shutout of 2025.
+
+The post [Soccer bounces back, blanks Maryland 3-0](https://dailytrojan.com/2025/09/29/soccer-bounces-back-blanks-maryland-3-0/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239975</guid>
     </item>    <item>
       <title>Thornton Symphony Orchestra plays musical chairs</title>
@@ -321,6 +394,9 @@
         <![CDATA[<p>The winds section brought a breath of fresh air to Bovard Auditorium on Friday.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/29/thornton-symphony-orchestra-plays-musical-chairs/">Thornton Symphony Orchestra plays musical chairs</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The winds section brought a breath of fresh air to Bovard Auditorium on Friday.
+
+The post [Thornton Symphony Orchestra plays musical chairs](https://dailytrojan.com/2025/09/29/thornton-symphony-orchestra-plays-musical-chairs/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=240004</guid>
     </item>    <item>
       <title>Magdalena Bay brought life to Hollywood Forever Cemetery</title>
@@ -329,6 +405,9 @@
         <![CDATA[<p>The alt-pop duo put on a theatrical concert Friday night.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/29/magdalena-bay-brought-life-to-hollywood-forever-cemetery/">Magdalena Bay brought life to Hollywood Forever Cemetery</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The alt-pop duo put on a theatrical concert Friday night.
+
+The post [Magdalena Bay brought life to Hollywood Forever Cemetery](https://dailytrojan.com/2025/09/29/magdalena-bay-brought-life-to-hollywood-forever-cemetery/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239997</guid>
     </item>    <item>
       <title>Defensive errors prove fatal as USC falls to No. 23 Illinois</title>
@@ -337,6 +416,9 @@
         <![CDATA[<p>The nail-biting loss came down to a buzzer-beating field goal by the Fighting Illini.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/29/defense-proves-fatal-as-usc-falls-to-no-23-illinois/">Defensive errors prove fatal as USC falls to No. 23 Illinois</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The nail-biting loss came down to a buzzer-beating field goal by the Fighting Illini.
+
+The post [Defensive errors prove fatal as USC falls to No. 23 Illinois](https://dailytrojan.com/2025/09/29/defense-proves-fatal-as-usc-falls-to-no-23-illinois/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239971</guid>
     </item>    <item>
       <title>Institute of Armenian Studies starts scholar program</title>
@@ -345,6 +427,9 @@
         <![CDATA[<p>The new initiative aims to introduce Armenian studies to a wider audience at USC. </p>
         <p>The post <a href="https://dailytrojan.com/2025/09/29/institute-for-armenian-studies-starts-scholar-program/">Institute of Armenian Studies starts scholar program</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The new initiative aims to introduce Armenian studies to a wider audience at USC.
+
+The post [Institute of Armenian Studies starts scholar program](https://dailytrojan.com/2025/09/29/institute-for-armenian-studies-starts-scholar-program/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239978</guid>
     </item>    <item>
       <title>Watt Way entrance no longer 24/7</title>
@@ -353,6 +438,9 @@
         <![CDATA[<p>Some students with evening classes voiced worries about safety, extended commutes.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/29/watt-way-entrance-no-longer-24-7/">Watt Way entrance no longer 24/7</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Some students with evening classes voiced worries about safety, extended commutes.
+
+The post [Watt Way entrance no longer 24/7](https://dailytrojan.com/2025/09/29/watt-way-entrance-no-longer-24-7/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239983</guid>
     </item>    <item>
       <title>DiCaprio knows ‘One Battle After Another’ needs attention</title>
@@ -361,6 +449,9 @@
         <![CDATA[<p>The leading actor is working to spread news about a movie meant for the theater.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/29/dicaprio-knows-one-battle-after-another-needs-attention/">DiCaprio knows ‘One Battle After Another’ needs attention</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The leading actor is working to spread news about a movie meant for the theater.
+
+The post [DiCaprio knows ‘One Battle After Another’ needs attention](https://dailytrojan.com/2025/09/29/dicaprio-knows-one-battle-after-another-needs-attention/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=240008</guid>
     </item>    <item>
       <title>Women’s volleyball splits first Big Ten road trip</title>
@@ -369,6 +460,9 @@
         <![CDATA[<p>The Trojans fell to No. 15 Penn State in a five-set thriller before sweeping Ohio State the next day.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/29/womens-volleyball-splits-first-big-ten-road-trip/">Women’s volleyball splits first Big Ten road trip</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The Trojans fell to No. 15 Penn State in a five-set thriller before sweeping Ohio State the next day.
+
+The post [Women’s volleyball splits first Big Ten road trip](https://dailytrojan.com/2025/09/29/womens-volleyball-splits-first-big-ten-road-trip/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239973</guid>
     </item>    <item>
       <title>The ethics of filming without consent</title>
@@ -377,6 +471,9 @@
         <![CDATA[<p>Filming in public is far too normalized, and what used to be basic courtesy is gone.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/29/the-ethics-of-filming-without-consent/">The ethics of filming without consent</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Filming in public is far too normalized, and what used to be basic courtesy is gone.
+
+The post [The ethics of filming without consent](https://dailytrojan.com/2025/09/29/the-ethics-of-filming-without-consent/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=240031</guid>
     </item>    <item>
       <title>Our ‘model’ democracy needs to learn from Brazil</title>
@@ -385,6 +482,9 @@
         <![CDATA[<p>They convicted their right-wing felon while we voted ours back as the president.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/29/our-model-democracy-needs-to-learn-from-brazil/">Our ‘model’ democracy needs to learn from Brazil</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>They convicted their right-wing felon while we voted ours back as the president.
+
+The post [Our ‘model’ democracy needs to learn from Brazil](https://dailytrojan.com/2025/09/29/our-model-democracy-needs-to-learn-from-brazil/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=240025</guid>
     </item>    <item>
       <title>Eco-Monday initiative continues at dining halls</title>
@@ -393,6 +493,9 @@
         <![CDATA[<p>USC does not serve red meat on Mondays, but does offer plant-based protein options.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/29/eco-monday-initiative-continues-at-dining-halls/">Eco-Monday initiative continues at dining halls</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>USC does not serve red meat on Mondays, but does offer plant-based protein options.
+
+The post [Eco-Monday initiative continues at dining halls](https://dailytrojan.com/2025/09/29/eco-monday-initiative-continues-at-dining-halls/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239990</guid>
     </item>    <item>
       <title>Daily Bruin Print Issue – 9/29/25</title>
@@ -400,6 +503,7 @@
       <description>
         <![CDATA[<em>The Daily Bruin publishes print issues every Monday, Wednesday and Friday during the school year. You can view the online version of The Bruin here.</em>]]>
       </description>
+      <source:markdown>_The Daily Bruin publishes print issues every Monday, Wednesday and Friday during the school year. You can view the online version of The Bruin here._</source:markdown>
       <guid>cid://https://dailybruin.com/?p=494023</guid>
     </item>    <item>
       <title>Five Things: UCLA football vs. Northwestern</title>
@@ -407,6 +511,7 @@
       <description>
         <![CDATA[UCLA football&#8217;s (0-4, 0-1 Big Ten) second season in the Big Ten promised new horizons. Instead, the Bruins find themselves in a dire situation. Their 17-14 loss against Northwestern on Saturday extended a winless start amid the removal of head coach DeShaun Foster and the departure of defensive coordinator Ikaika Malloe and cemented them in the basement of the Big Ten.]]>
       </description>
+      <source:markdown>UCLA football’s (0-4, 0-1 Big Ten) second season in the Big Ten promised new horizons. Instead, the Bruins find themselves in a dire situation. Their 17-14 loss against Northwestern on Saturday extended a winless start amid the removal of head coach DeShaun Foster and the departure of defensive coordinator Ikaika Malloe and cemented them in the basement of the Big Ten.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=494015</guid>
     </item>    <item>
       <title>Law firm files suit against UC alleging negligence in Christopher Rodriguez case</title>
@@ -415,6 +520,8 @@
         <![CDATA[<em>This post was updated Sept. 28 at 9:18 p.m.</em>
         Editor’s note: This article contains mentions of child sexual abuse that may be disturbing to some readers.]]>
       </description>
+      <source:markdown>_This post was updated Sept. 28 at 9:18 p.m._
+Editor’s note: This article contains mentions of child sexual abuse that may be disturbing to some readers.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=493999</guid>
     </item>    <item>
       <title>17-story Westwood office building to be converted into apartment complex</title>
@@ -423,6 +530,8 @@
         <![CDATA[A 17-story office building in Westwood is set to be converted to 320 new apartment units.  
         Douglas Emmett &#8211; a real estate investment trust that owns and operates office buildings and apartment complexes in Southern California and Honolulu, Hawaii &#8211; acquired the property, located at 10900 Wilshire Blvd., from Tishman Speyer for $131 million in January.]]>
       </description>
+      <source:markdown>A 17-story office building in Westwood is set to be converted to 320 new apartment units.
+Douglas Emmett – a real estate investment trust that owns and operates office buildings and apartment complexes in Southern California and Honolulu, Hawaii – acquired the property, located at 10900 Wilshire Blvd., from Tishman Speyer for $131 million in January.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=493995</guid>
     </item>    <item>
       <title>JuJu Watkins to miss entire 2025-26 season</title>
@@ -431,6 +540,9 @@
         <![CDATA[<p>Watkins is recovering from an ACL tear sustained during an NCAA Tournament game March 24. </p>
         <p>The post <a href="https://dailytrojan.com/2025/09/28/juju-watkins-to-miss-entire-2025-26-season/">JuJu Watkins to miss entire 2025-26 season</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Watkins is recovering from an ACL tear sustained during an NCAA Tournament game March 24.
+
+The post [JuJu Watkins to miss entire 2025-26 season](https://dailytrojan.com/2025/09/28/juju-watkins-to-miss-entire-2025-26-season/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=240061</guid>
     </item>    <item>
       <title>Taylor Swift’s engagement leaves Bruins enchanted, concerned for her privacy</title>
@@ -439,6 +551,8 @@
         <![CDATA[<em>This post was updated Sept. 28 at 8:04 p.m.</em>
         Second-year public affairs student Camille Jacala stopped to check her phone at a red light when she saw a headline that left her stunned.]]>
       </description>
+      <source:markdown>_This post was updated Sept. 28 at 8:04 p.m._
+Second-year public affairs student Camille Jacala stopped to check her phone at a red light when she saw a headline that left her stunned.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=493982</guid>
     </item>    <item>
       <title>‘We could have won the game’: UCLA men’s soccer drops 4-2 decision to Indiana</title>
@@ -447,6 +561,8 @@
         <![CDATA[<em>This post was updated Sept. 28 at 10:29 p.m.</em>
         Redshirt junior Sebastian Rincon raised his pointer fingers to the sky. Ice water was poured over Jack Wagoner’s head in the locker room.]]>
       </description>
+      <source:markdown>_This post was updated Sept. 28 at 10:29 p.m._
+Redshirt junior Sebastian Rincon raised his pointer fingers to the sky. Ice water was poured over Jack Wagoner’s head in the locker room.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=493973</guid>
     </item>    <item>
       <title>Emmys 2025: Stars dazzle in show-stopping looks on the 77th Primetime Emmy Awards red carpet</title>
@@ -456,6 +572,9 @@
         Hollywood’s top television stars shone on the 2025 Emmys red carpet.
         On Sept. 14, nominees for the 77th Primetime Emmy Awards strutted their stuff as cameras flashed and interviewers conversed among the actors and actresses.]]>
       </description>
+      <source:markdown>_This post was updated Sept. 28 at 8:01 p.m._
+Hollywood’s top television stars shone on the 2025 Emmys red carpet.
+On Sept. 14, nominees for the 77th Primetime Emmy Awards strutted their stuff as cameras flashed and interviewers conversed among the actors and actresses.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=493965</guid>
     </item>    <item>
       <title>Album review: Mariah Carey’s ‘Here For It All’ may not be all we want, but we’re still obsessed</title>
@@ -465,6 +584,9 @@
         Mariah Carey is here for a fresh set of solid R&#38;B throwbacks on “Here For It All.”
         The superstar’s sixteenth album was released Friday, with 11 tracks composing her first LP of original material since 2018’s “Caution.” The 40-minute project – complete with guest appearances from Anderson .Paak, Shenseea, Kehlani and The Clark Sisters – uses its brevity to its advantage with a tight, concise package of slick, mostly midtempo jams.]]>
       </description>
+      <source:markdown>_This post was updated Sept. 28 at 7:49 p.m._
+Mariah Carey is here for a fresh set of solid R&#38;B throwbacks on “Here For It All.”
+The superstar’s sixteenth album was released Friday, with 11 tracks composing her first LP of original material since 2018’s “Caution.” The 40-minute project – complete with guest appearances from Anderson .Paak, Shenseea, Kehlani and The Clark Sisters – uses its brevity to its advantage with a tight, concise package of slick, mostly midtempo jams.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=493961</guid>
     </item>    <item>
       <title>USAC recap – Sept. 16</title>
@@ -540,6 +662,7 @@
       <description>
         <![CDATA[<p>The post <a href="https://dailytrojan.com/2025/09/26/changing-of-the-seasons/">Changing of the Seasons</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The post [Changing of the Seasons](https://dailytrojan.com/2025/09/26/changing-of-the-seasons/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239942</guid>
     </item>    <item>
       <title>Five Things: Personnel UCLA football needs to keep</title>
@@ -570,6 +693,9 @@
         <![CDATA[<p>Sí llevaría su música por Latinoamérica, ademas de Asia, Europa y Australia.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/26/bad-bunny-excluye-estados-unidos-de-tour-preocupa-ice/">Bad Bunny excluye Estados Unidos de tour, preocupa ICE</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Sí llevaría su música por Latinoamérica, ademas de Asia, Europa y Australia.
+
+The post [Bad Bunny excluye Estados Unidos de tour, preocupa ICE](https://dailytrojan.com/2025/09/26/bad-bunny-excluye-estados-unidos-de-tour-preocupa-ice/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239926</guid>
     </item>    <item>
       <title>USC celebra primer santo milenial</title>
@@ -578,6 +704,9 @@
         <![CDATA[<p>Estudiantes siguieron en vivo hasta la madrugada la ceremonia de Carlo Acutis.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/26/usc-celebra-primer-santo-milenial/">USC celebra primer santo milenial</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Estudiantes siguieron en vivo hasta la madrugada la ceremonia de Carlo Acutis.
+
+The post [USC celebra primer santo milenial](https://dailytrojan.com/2025/09/26/usc-celebra-primer-santo-milenial/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239922</guid>
     </item>    <item>
       <title>USC se une al juego con la FIFA para 2026</title>
@@ -586,6 +715,9 @@
         <![CDATA[<p>Estudiantes y graduados tendrán acceso especial al voluntariado del mundial.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/26/usc-se-une-al-juego-con-la-fifa-para-2026/">USC se une al juego con la FIFA para 2026</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Estudiantes y graduados tendrán acceso especial al voluntariado del mundial.
+
+The post [USC se une al juego con la FIFA para 2026](https://dailytrojan.com/2025/09/26/usc-se-une-al-juego-con-la-fifa-para-2026/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239917</guid>
     </item>    <item>
       <title>José Antonio Safa rompe récord histórico de golf masculino</title>
@@ -594,6 +726,9 @@
         <![CDATA[<p>El golfista mexicano llevó a USC a una victoria en su competencia más reciente.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/26/jose-antonio-safa-rompe-record-historico-de-golf-masculino/">José Antonio Safa rompe récord histórico de golf masculino</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>El golfista mexicano llevó a USC a una victoria en su competencia más reciente.
+
+The post [José Antonio Safa rompe récord histórico de golf masculino](https://dailytrojan.com/2025/09/26/jose-antonio-safa-rompe-record-historico-de-golf-masculino/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239906</guid>
     </item>    <item>
       <title>No hables español, te van a detener</title>
@@ -602,6 +737,9 @@
         <![CDATA[<p>¿Es aceptable que agentes de ICE puedan investigar y arrestar con prejuicio racial?</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/26/no-hables-espanol-te-van-a-detener/">No hables español, te van a detener</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>¿Es aceptable que agentes de ICE puedan investigar y arrestar con prejuicio racial?
+
+The post [No hables español, te van a detener](https://dailytrojan.com/2025/09/26/no-hables-espanol-te-van-a-detener/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239899</guid>
     </item>    <item>
       <title>Camiones de comida traen culturas diversas a USC</title>
@@ -610,6 +748,9 @@
         <![CDATA[<p>Su cercanía y variedad crea sentimientos de nostalgia y exploración gastronómica.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/26/camiones-de-comida-traen-culturas-diversas-a-usc/">Camiones de comida traen culturas diversas a USC</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Su cercanía y variedad crea sentimientos de nostalgia y exploración gastronómica.
+
+The post [Camiones de comida traen culturas diversas a USC](https://dailytrojan.com/2025/09/26/camiones-de-comida-traen-culturas-diversas-a-usc/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239871</guid>
     </item>    <item>
       <title>Escucha la música que no puedes entender</title>
@@ -618,6 +759,9 @@
         <![CDATA[<p>La musica en otros idiomas puede hacerte ver y sentir muchísimo, y es saludable.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/26/escucha-la-musica-que-no-puedes-entender/">Escucha la música que no puedes entender</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>La musica en otros idiomas puede hacerte ver y sentir muchísimo, y es saludable.
+
+The post [Escucha la música que no puedes entender](https://dailytrojan.com/2025/09/26/escucha-la-musica-que-no-puedes-entender/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239865</guid>
     </item>    <item>
       <title>DPS report highlights thefts, threats</title>
@@ -626,6 +770,9 @@
         <![CDATA[<p>The Department of Public Safety monitors 150 of its roughly 4,000 cameras 24/7.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/26/usc-dps-cameras-theft-rates/">DPS report highlights thefts, threats</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The Department of Public Safety monitors 150 of its roughly 4,000 cameras 24/7.
+
+The post [DPS report highlights thefts, threats](https://dailytrojan.com/2025/09/26/usc-dps-cameras-theft-rates/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239724</guid>
     </item>    <item>
       <title>NFL legend Peyton Manning slings life advice</title>
@@ -634,6 +781,9 @@
         <![CDATA[<p>Manning spoke to a large crowd that spanned all four floors of Annenberg Hall.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/26/nfl-legend-peyton-manning-slings-life-advice/">NFL legend Peyton Manning slings life advice</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Manning spoke to a large crowd that spanned all four floors of Annenberg Hall.
+
+The post [NFL legend Peyton Manning slings life advice](https://dailytrojan.com/2025/09/26/nfl-legend-peyton-manning-slings-life-advice/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239885</guid>
     </item>    <item>
       <title>Confidence grows ahead of football’s first ranked opponent</title>
@@ -642,6 +792,9 @@
         <![CDATA[<p>The Trojans' chance to prove themselves as contenders awaits versus No. 23 Illinois.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/26/confidence-grows-ahead-of-footballs-first-ranked-opponent/">Confidence grows ahead of football&#8217;s first ranked opponent</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The Trojans&#39; chance to prove themselves as contenders awaits versus No. 23 Illinois.
+
+The post [Confidence grows ahead of football’s first ranked opponent](https://dailytrojan.com/2025/09/26/confidence-grows-ahead-of-footballs-first-ranked-opponent/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239856</guid>
     </item>    <item>
       <title>Los Angeles Fire Department extinguishes Roebling Avenue fire</title>
@@ -659,6 +812,9 @@
         <![CDATA[<p>After its first loss of 2025, No. 3 USC hopes to bounce back in Northern California.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/26/mens-water-polo-heads-north-for-two-top-10-weekend-games/">Men’s water polo heads north for two top-10 weekend games</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>After its first loss of 2025, No. 3 USC hopes to bounce back in Northern California.
+
+The post [Men’s water polo heads north for two top-10 weekend games](https://dailytrojan.com/2025/09/26/mens-water-polo-heads-north-for-two-top-10-weekend-games/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239758</guid>
     </item>    <item>
       <title>Classifieds – September 26, 2025</title>
@@ -667,6 +823,9 @@
         <![CDATA[<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/26/classifieds-september-17-2025-2-2-2-2/">Classifieds &#8211; September 26, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The Daily Trojan features Classified advertising in each day&#39;s edition. Here you can read, search, and even print out each day&#39;s edition of the Classifieds.
+
+The post [Classifieds – September 26, 2025](https://dailytrojan.com/2025/09/26/classifieds-september-17-2025-2-2-2-2/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239717</guid>
     </item>    <item>
       <title>Interim head coach Tim Skipper to lead Bruins, improve defense after Fos Era</title>
@@ -683,6 +842,9 @@
         <![CDATA[<p>La presidenta de México, Claudia Sheinbaum, busca reforma contra femicidios.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/26/mexicanas-y-mexicanos-ha-llegado-el-grito/">¡Mexicanas y mexicanos, ha llegado El Grito!</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>La presidenta de México, Claudia Sheinbaum, busca reforma contra femicidios.
+
+The post [¡Mexicanas y mexicanos, ha llegado El Grito!](https://dailytrojan.com/2025/09/26/mexicanas-y-mexicanos-ha-llegado-el-grito/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239843</guid>
     </item>    <item>
       <title>‘Sue me’ is for the Sue Heck apologists</title>
@@ -691,6 +853,9 @@
         <![CDATA[<p>Audrey Hobert is ushering in a new wave of weird-girl pop music. </p>
         <p>The post <a href="https://dailytrojan.com/2025/09/26/sue-me-is-for-the-sue-heck-apologists/">‘Sue me’ is for the Sue Heck apologists</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Audrey Hobert is ushering in a new wave of weird-girl pop music.
+
+The post [‘Sue me’ is for the Sue Heck apologists](https://dailytrojan.com/2025/09/26/sue-me-is-for-the-sue-heck-apologists/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239763</guid>
     </item>    <item>
       <title>‘Marvel Zombies’ is beautifully, mercilessly gory</title>
@@ -699,6 +864,9 @@
         <![CDATA[<p>Set in an alternate universe, the mini-series is gruesome and oozing with carnage.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/26/marvel-zombies-is-beautifully-mercilessly-gory/">‘Marvel Zombies’ is beautifully, mercilessly gory</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Set in an alternate universe, the mini-series is gruesome and oozing with carnage.
+
+The post [‘Marvel Zombies’ is beautifully, mercilessly gory](https://dailytrojan.com/2025/09/26/marvel-zombies-is-beautifully-mercilessly-gory/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239726</guid>
     </item>    <item>
       <title>ABC delivers nail in the coffin to America’s late-night television shows</title>
@@ -707,6 +875,9 @@
         <![CDATA[<p>Willow Bay’s silence on host Jimmy Kimmel’s censorship threatens USC free speech.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/26/abc-delivers-nail-in-the-coffin-to-americas-late-night-television-shows/">ABC delivers nail in the coffin to America’s late-night television shows</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Willow Bay’s silence on host Jimmy Kimmel’s censorship threatens USC free speech.
+
+The post [ABC delivers nail in the coffin to America’s late-night television shows](https://dailytrojan.com/2025/09/26/abc-delivers-nail-in-the-coffin-to-americas-late-night-television-shows/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239799</guid>
     </item>    <item>
       <title>Insincere social interactions must end</title>
@@ -715,6 +886,9 @@
         <![CDATA[<p>The earnestness I’ve experienced abroad has shown me the cons of superficiality. </p>
         <p>The post <a href="https://dailytrojan.com/2025/09/26/insincere-social-interactions-must-end/">Insincere social interactions must end</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The earnestness I’ve experienced abroad has shown me the cons of superficiality.
+
+The post [Insincere social interactions must end](https://dailytrojan.com/2025/09/26/insincere-social-interactions-must-end/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239805</guid>
     </item>    <item>
       <title>Alum talks Jewish resistance during Holocaust</title>
@@ -723,6 +897,9 @@
         <![CDATA[<p> Aliyah Blank kicked off her research after traveling to see her family’s hometown.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/26/alum-talks-jewish-resistance-during-holocaust/">Alum talks Jewish resistance during Holocaust</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Aliyah Blank kicked off her research after traveling to see her family’s hometown.
+
+The post [Alum talks Jewish resistance during Holocaust](https://dailytrojan.com/2025/09/26/alum-talks-jewish-resistance-during-holocaust/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239730</guid>
     </item>    <item>
       <title>Sydney Sweeney’s jeans ad is worse than you thought</title>
@@ -731,6 +908,9 @@
         <![CDATA[<p>As American Eagle faces continued backlash over their controversial ad campaign with Sydney Sweeney, Lizzy Liautaud sits down with staff writer Mateo Jiménez to discuss his article on the topic and dive deep on what exactly went wrong.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/25/sydney-sweeneys-jeans-ad-is-worse-than-you-thought/">Sydney Sweeney&#8217;s jeans ad is worse than you thought</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>As American Eagle faces continued backlash over their controversial ad campaign with Sydney Sweeney, Lizzy Liautaud sits down with staff writer Mateo Jiménez to discuss his article on the topic and dive deep on what exactly went wrong.
+
+The post [Sydney Sweeney’s jeans ad is worse than you thought](https://dailytrojan.com/2025/09/25/sydney-sweeneys-jeans-ad-is-worse-than-you-thought/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=238337</guid>
     </item>    <item>
       <title>Theater review: ‘West Side Story’ hits right notes as timeless tragedy with contemporary topics</title>
@@ -787,6 +967,7 @@
       <description>
         <![CDATA[A new report from News is Out, a national collaborative of queer news publishers, has mapped local LGBTQ+ publications across the U.S. The first comprehensive report of its kind, “The LGBTQ+ Media Mapping Project” paints a striking picture of how many of these community-centered news outlets are struggling to stay afloat during the second Trump...]]>
       </description>
+      <source:markdown>A new report from News is Out, a national collaborative of queer news publishers, has mapped local LGBTQ+ publications across the U.S. The first comprehensive report of its kind, “The LGBTQ+ Media Mapping Project” paints a striking picture of how many of these community-centered news outlets are struggling to stay afloat during the second Trump...</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=243473</guid>
     </item>    <item>
       <title>WRRC provides more than research, period.</title>
@@ -805,6 +986,7 @@
       <description>
         <![CDATA[The Baltimore Banner, the promising and growing local news nonprofit serving the city and greater Maryland, has named a new editor-in-chief. Audrey Cooper, editor-in-chief of WNYC and former editor-in-chief of the San Francisco Chronicle, will take the reins in a new city on October 13. Cooper replaces founding editor-in-chief Kimi Yoshino, who announced in May...]]>
       </description>
+      <source:markdown>The Baltimore Banner, the promising and growing local news nonprofit serving the city and greater Maryland, has named a new editor-in-chief. Audrey Cooper, editor-in-chief of WNYC and former editor-in-chief of the San Francisco Chronicle, will take the reins in a new city on October 13. Cooper replaces founding editor-in-chief Kimi Yoshino, who announced in May...</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=243425</guid>
     </item>    <item>
       <title>Daily Bruin Print Issue – Sept. 25, 2025</title>
@@ -821,6 +1003,9 @@
         <![CDATA[<p>The superstar continues to prove why his $700 million contract is chump change compared to his true value.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/25/shohei-ohtani-is-worth-every-dollar-in-the-world/">Shohei Ohtani is worth every dollar in the world</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The superstar continues to prove why his $700 million contract is chump change compared to his true value.
+
+The post [Shohei Ohtani is worth every dollar in the world](https://dailytrojan.com/2025/09/25/shohei-ohtani-is-worth-every-dollar-in-the-world/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239643</guid>
     </item>    <item>
       <title>Student Health confirms COVID vaccine availability amid federal scrutiny</title>
@@ -829,6 +1014,9 @@
         <![CDATA[<p>New federal vaccination guidance created uncertainties about how most Americans can get their COVID-19 vaccines this fall. </p>
         <p>The post <a href="https://dailytrojan.com/2025/09/25/student-health-confirms-covid-vaccine-availability-amid-federal-scrutiny/">Student Health confirms COVID vaccine availability amid federal scrutiny</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>New federal vaccination guidance created uncertainties about how most Americans can get their COVID-19 vaccines this fall.
+
+The post [Student Health confirms COVID vaccine availability amid federal scrutiny](https://dailytrojan.com/2025/09/25/student-health-confirms-covid-vaccine-availability-amid-federal-scrutiny/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239696</guid>
     </item>    <item>
       <title>Ali Sethi continues to defy conventions</title>
@@ -837,6 +1025,9 @@
         <![CDATA[<p>The queer Pakistani American artist will bring his tour to Los Angeles in October.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/25/ali-sethi-continues-to-defy-conventions/">Ali Sethi continues to defy conventions</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The queer Pakistani American artist will bring his tour to Los Angeles in October.
+
+The post [Ali Sethi continues to defy conventions](https://dailytrojan.com/2025/09/25/ali-sethi-continues-to-defy-conventions/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239617</guid>
     </item>    <item>
       <title>Soccer aims to regain footing in two-game homestand</title>
@@ -845,6 +1036,9 @@
         <![CDATA[<p>The Trojans will seek revenge against Rutgers, who beat USC last season in penalty kicks.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/25/soccer-aims-to-regain-footing-in-two-game-homestand/">Soccer aims to regain footing in two-game homestand</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The Trojans will seek revenge against Rutgers, who beat USC last season in penalty kicks.
+
+The post [Soccer aims to regain footing in two-game homestand](https://dailytrojan.com/2025/09/25/soccer-aims-to-regain-footing-in-two-game-homestand/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239685</guid>
     </item>    <item>
       <title>Thornton Edge pushes the limits of music</title>
@@ -853,6 +1047,9 @@
         <![CDATA[<p> From repertoire classics to hot-off-the-press commissions, the ensemble thrives on new music.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/25/thornton-edge-pushes-the-limits-of-music/">Thornton Edge pushes the limits of music</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>From repertoire classics to hot-off-the-press commissions, the ensemble thrives on new music.
+
+The post [Thornton Edge pushes the limits of music](https://dailytrojan.com/2025/09/25/thornton-edge-pushes-the-limits-of-music/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239633</guid>
     </item>    <item>
       <title>State attorneys general are our last line of defense against Trump</title>
@@ -861,6 +1058,9 @@
         <![CDATA[<p>California's attorney general is leading an effort to resist the Trump administration's executive orders, and it seems to be working.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/25/state-attorneys-general-are-our-last-line-of-defense-against-trump/">State attorneys general are our last line of defense against Trump</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>California&#39;s attorney general is leading an effort to resist the Trump administration&#39;s executive orders, and it seems to be working.
+
+The post [State attorneys general are our last line of defense against Trump](https://dailytrojan.com/2025/09/25/state-attorneys-general-are-our-last-line-of-defense-against-trump/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239626</guid>
     </item>    <item>
       <title>Why couldn’t it have been Stephen Colbert?</title>
@@ -869,6 +1069,9 @@
         <![CDATA[<p>The president is waging war against late-night TV, but Jimmy Kimmel has won a battle Colbert could not.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/25/why-couldnt-it-have-been-stephen-colbert/">Why couldn’t it have been Stephen Colbert?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The president is waging war against late-night TV, but Jimmy Kimmel has won a battle Colbert could not.
+
+The post [Why couldn’t it have been Stephen Colbert?](https://dailytrojan.com/2025/09/25/why-couldnt-it-have-been-stephen-colbert/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239656</guid>
     </item>    <item>
       <title>Join the Daily Bruin</title>
@@ -905,6 +1108,9 @@
         <![CDATA[<p>Six Occidental students attended the People&#8217;s Conference for Palestine, an event organized by the Palestinian Youth Movement (PYM) and other Palestinian advocacy organizations, Aug. 29–31 in Detroit, MI. The conference featured a gathering of activists from across North America, all in support of the Palestinian Liberation Movement. Attendee Evan Zeltzer (sophomore) said he was encouraged to go to [&#8230;]</p>
         <p>The post <a href="https://theoccidentalnews.com/news/2025/09/24/occidental-students-attend-peoples-conference-for-palestine-in-detroit/2915533">Occidental students attend People&#8217;s Conference for Palestine in Detroit</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>]]>
       </description>
+      <source:markdown>Six Occidental students attended the People’s Conference for Palestine, an event organized by the Palestinian Youth Movement (PYM) and other Palestinian advocacy organizations, Aug. 29–31 in Detroit, MI. The conference featured a gathering of activists from across North America, all in support of the Palestinian Liberation Movement. Attendee Evan Zeltzer (sophomore) said he was encouraged to go to \[…\]
+
+The post [Occidental students attend People’s Conference for Palestine in Detroit](https://theoccidentalnews.com/news/2025/09/24/occidental-students-attend-peoples-conference-for-palestine-in-detroit/2915533) appeared first on [The Occidental](https://theoccidentalnews.com).</source:markdown>
       <guid>cid://https://theoccidentalnews.com/?p=2915533</guid>
     </item>    <item>
       <title>College hires Warren Anderson as the new Vice President for Community &#38; Equity</title>
@@ -913,6 +1119,9 @@
         <![CDATA[<p>Warren Anderson, Occidental’s recent hire for Vice President for Community &#38; Equity (VPCE), said he does not like the term DEI. He said he prefers to unlace the acronym, engaging with the dimensionality, importance and meaning each letter strings: Diversity; Equity; Inclusion. Although new to Occidental, Anderson said he has long roots — 25 years [&#8230;]</p>
         <p>The post <a href="https://theoccidentalnews.com/news/2025/09/24/college-hires-warren-anderson-as-the-new-vice-president-for-community-equity/2915531">College hires Warren Anderson as the new Vice President for Community &#038; Equity</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>]]>
       </description>
+      <source:markdown>Warren Anderson, Occidental’s recent hire for Vice President for Community &#38; Equity (VPCE), said he does not like the term DEI. He said he prefers to unlace the acronym, engaging with the dimensionality, importance and meaning each letter strings: Diversity; Equity; Inclusion. Although new to Occidental, Anderson said he has long roots — 25 years \[…\]
+
+The post [College hires Warren Anderson as the new Vice President for Community &#38; Equity](https://theoccidentalnews.com/news/2025/09/24/college-hires-warren-anderson-as-the-new-vice-president-for-community-equity/2915531) appeared first on [The Occidental](https://theoccidentalnews.com).</source:markdown>
       <guid>cid://https://theoccidentalnews.com/?p=2915531</guid>
     </item>    <item>
       <title>Tsavorite vs. emerald: What jewelry experts recommend</title>
@@ -958,6 +1167,9 @@
         <![CDATA[<p>For a city like LA, or El Pueblo de Nuestra Señora la Reina de los Ángeles, which is incredibly rich in food diversity, there sure are a lot of taco trucks. According to Discover Los Angeles, there are over 4,000 of them. LA County itself has 30 percent of the state’s Mexican restaurants. As someone with both [&#8230;]</p>
         <p>The post <a href="https://theoccidentalnews.com/features/2025/09/24/las-late-night-snack-a-taco-tour-around-occidental/2915544">LA&#8217;s late night snack: A taco tour around Occidental</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>]]>
       </description>
+      <source:markdown>For a city like LA, or El Pueblo de Nuestra Señora la Reina de los Ángeles, which is incredibly rich in food diversity, there sure are a lot of taco trucks. According to Discover Los Angeles, there are over 4,000 of them. LA County itself has 30 percent of the state’s Mexican restaurants. As someone with both \[…\]
+
+The post [LA’s late night snack: A taco tour around Occidental](https://theoccidentalnews.com/features/2025/09/24/las-late-night-snack-a-taco-tour-around-occidental/2915544) appeared first on [The Occidental](https://theoccidentalnews.com).</source:markdown>
       <guid>cid://https://theoccidentalnews.com/?p=2915544</guid>
     </item>    <item>
       <title>Athletes of the Week Devin Bening and Alessia Sacchi dominate the pitch</title>
@@ -966,6 +1178,9 @@
         <![CDATA[<p>Devin Bening Forward Devin Bening (sophomore) had two shots and scored one goal against Hope International during the men&#8217;s soccer game Sept. 7. Bening also scored two goals out of seven shots against Masters University Sept. 12. Rod Lafaurie, head coach of the men&#8217;s soccer team, said Bening is a valuable contributor to the team. &#8220;He’s a younger [&#8230;]</p>
         <p>The post <a href="https://theoccidentalnews.com/sports/2025/09/24/athletes-of-the-week-devin-bening-and-alessia-sacchi-dominate-the-pitch/2915552">Athletes of the Week Devin Bening and Alessia Sacchi dominate the pitch</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>]]>
       </description>
+      <source:markdown>Devin Bening Forward Devin Bening (sophomore) had two shots and scored one goal against Hope International during the men’s soccer game Sept. 7. Bening also scored two goals out of seven shots against Masters University Sept. 12. Rod Lafaurie, head coach of the men’s soccer team, said Bening is a valuable contributor to the team. “He’s a younger \[…\]
+
+The post [Athletes of the Week Devin Bening and Alessia Sacchi dominate the pitch](https://theoccidentalnews.com/sports/2025/09/24/athletes-of-the-week-devin-bening-and-alessia-sacchi-dominate-the-pitch/2915552) appeared first on [The Occidental](https://theoccidentalnews.com).</source:markdown>
       <guid>cid://https://theoccidentalnews.com/?p=2915552</guid>
     </item>    <item>
       <title>Trumpet professor Jay Jennings brings Grammy-winning experience to the classroom</title>
@@ -974,6 +1189,9 @@
         <![CDATA[<p>Instructor of Jazz Trumpet Jay Jennings is a four-time Grammy Award-winning jazz musician and a part of the musical supergroup Snarky Puppy. His career has spanned two decades and he has backed up notable artists such as Aretha Franklin, Frankie Valli and the Four Seasons and David Bowie. “I chose the trumpet kind of randomly,” Jennings said. “My dad was a middle school principal [&#8230;]</p>
         <p>The post <a href="https://theoccidentalnews.com/culture/2025/09/24/trumpet-professor-jay-jennings-brings-grammy-winning-experience-to-the-classroom/2915551">Trumpet professor Jay Jennings brings Grammy-winning experience to the classroom</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>]]>
       </description>
+      <source:markdown>Instructor of Jazz Trumpet Jay Jennings is a four-time Grammy Award-winning jazz musician and a part of the musical supergroup Snarky Puppy. His career has spanned two decades and he has backed up notable artists such as Aretha Franklin, Frankie Valli and the Four Seasons and David Bowie. “I chose the trumpet kind of randomly,” Jennings said. “My dad was a middle school principal \[…\]
+
+The post [Trumpet professor Jay Jennings brings Grammy-winning experience to the classroom](https://theoccidentalnews.com/culture/2025/09/24/trumpet-professor-jay-jennings-brings-grammy-winning-experience-to-the-classroom/2915551) appeared first on [The Occidental](https://theoccidentalnews.com).</source:markdown>
       <guid>cid://https://theoccidentalnews.com/?p=2915551</guid>
     </item>    <item>
       <title>Food and community have a home at Potluck Local, Eagle Rock’s new neighborhood grocery store</title>
@@ -982,6 +1200,9 @@
         <![CDATA[<p>Potluck Local, a grocery store on York Boulevard, sells a wide array of California-produced products, co-owners Daniel and Kim Johnsen said. According to Daniel and Kim Johnsen, they have always had a love for cooking, food, and entertainment. Daniel and Kim Johnsen both worked in the food and beverage industry for years before opening Potluck [&#8230;]</p>
         <p>The post <a href="https://theoccidentalnews.com/community/2025/09/24/food-and-community-have-a-home-at-potluck-local-eagle-rocks-new-neighborhood-grocery-store/2915536">Food and community have a home at Potluck Local, Eagle Rock’s new neighborhood grocery store</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>]]>
       </description>
+      <source:markdown>Potluck Local, a grocery store on York Boulevard, sells a wide array of California-produced products, co-owners Daniel and Kim Johnsen said. According to Daniel and Kim Johnsen, they have always had a love for cooking, food, and entertainment. Daniel and Kim Johnsen both worked in the food and beverage industry for years before opening Potluck \[…\]
+
+The post [Food and community have a home at Potluck Local, Eagle Rock’s new neighborhood grocery store](https://theoccidentalnews.com/community/2025/09/24/food-and-community-have-a-home-at-potluck-local-eagle-rocks-new-neighborhood-grocery-store/2915536) appeared first on [The Occidental](https://theoccidentalnews.com).</source:markdown>
       <guid>cid://https://theoccidentalnews.com/?p=2915536</guid>
     </item>    <item>
       <title>Opinion: The negative implications of the ‘Performative Male’ trend</title>
@@ -990,6 +1211,9 @@
         <![CDATA[<p>Every time you open a social media app, you see a man with a tote bag in tow, most likely sporting jorts, listening to a female indie artist through wired earbuds, with — the icing on the cake — a copy of what is considered &#8220;feminist literature&#8221; in hand. In short, this is what a [&#8230;]</p>
         <p>The post <a href="https://theoccidentalnews.com/opinions/2025/09/24/opinion-the-negative-implications-of-the-performative-male-trend/2915570">Opinion: The negative implications of the &#8216;Performative Male&#8217; trend</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>]]>
       </description>
+      <source:markdown>Every time you open a social media app, you see a man with a tote bag in tow, most likely sporting jorts, listening to a female indie artist through wired earbuds, with — the icing on the cake — a copy of what is considered “feminist literature” in hand. In short, this is what a \[…\]
+
+The post [Opinion: The negative implications of the ‘Performative Male’ trend](https://theoccidentalnews.com/opinions/2025/09/24/opinion-the-negative-implications-of-the-performative-male-trend/2915570) appeared first on [The Occidental](https://theoccidentalnews.com).</source:markdown>
       <guid>cid://https://theoccidentalnews.com/?p=2915570</guid>
     </item>    <item>
       <title>Opinion: New renovations, same old problems</title>
@@ -998,6 +1222,9 @@
         <![CDATA[<p>Since returning for the fall semester, you may have noticed significant changes to various parts of campus. Perhaps you’ve seen the new set of tables and chairs in the Marketplace, or that a package pickup locker and a second window appeared in the post office. Or, for the residents on upper campus, a newly constructed [&#8230;]</p>
         <p>The post <a href="https://theoccidentalnews.com/opinions/2025/09/24/opinion-new-renovations-same-old-problems/2915568">Opinion: New renovations, same old problems</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>]]>
       </description>
+      <source:markdown>Since returning for the fall semester, you may have noticed significant changes to various parts of campus. Perhaps you’ve seen the new set of tables and chairs in the Marketplace, or that a package pickup locker and a second window appeared in the post office. Or, for the residents on upper campus, a newly constructed \[…\]
+
+The post [Opinion: New renovations, same old problems](https://theoccidentalnews.com/opinions/2025/09/24/opinion-new-renovations-same-old-problems/2915568) appeared first on [The Occidental](https://theoccidentalnews.com).</source:markdown>
       <guid>cid://https://theoccidentalnews.com/?p=2915568</guid>
     </item>    <item>
       <title>Opinion: The curious appeal of “The Summer I Turned Pretty”</title>
@@ -1006,6 +1233,9 @@
         <![CDATA[<p>According to IMDb, &#8220;The Summer I Turned Pretty&#8221; (TSITP) is about “a love triangle between one girl and two brothers” and “first love, first heartbreak and the magic of that one perfect summer.” On paper, one might assume that the show would be unoffensive or something cute for kids. You wouldn&#8217;t guess that this simple show would be [&#8230;]</p>
         <p>The post <a href="https://theoccidentalnews.com/opinions/2025/09/24/opinion-the-curious-appeal-of-the-summer-i-turned-pretty/2915566">Opinion: The curious appeal of &#8220;The Summer I Turned Pretty&#8221;</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>]]>
       </description>
+      <source:markdown>According to IMDb, “The Summer I Turned Pretty” (TSITP) is about “a love triangle between one girl and two brothers” and “first love, first heartbreak and the magic of that one perfect summer.” On paper, one might assume that the show would be unoffensive or something cute for kids. You wouldn’t guess that this simple show would be \[…\]
+
+The post [Opinion: The curious appeal of “The Summer I Turned Pretty”](https://theoccidentalnews.com/opinions/2025/09/24/opinion-the-curious-appeal-of-the-summer-i-turned-pretty/2915566) appeared first on [The Occidental](https://theoccidentalnews.com).</source:markdown>
       <guid>cid://https://theoccidentalnews.com/?p=2915566</guid>
     </item>    <item>
       <title>Opinion: Social media news needs a refresh</title>
@@ -1014,6 +1244,9 @@
         <![CDATA[<p>“Have you seen the news?” It’s one of the most common questions. From the advent of the printing press to the breakthrough of television and the eventual birth of the internet, how information spreads has evolved — often at a breakneck pace — into what we know now. The latest step in this evolution has [&#8230;]</p>
         <p>The post <a href="https://theoccidentalnews.com/opinions/2025/09/24/opinion-social-media-news-needs-a-refresh/2915564">Opinion: Social media news needs a refresh</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>]]>
       </description>
+      <source:markdown>“Have you seen the news?” It’s one of the most common questions. From the advent of the printing press to the breakthrough of television and the eventual birth of the internet, how information spreads has evolved — often at a breakneck pace — into what we know now. The latest step in this evolution has \[…\]
+
+The post [Opinion: Social media news needs a refresh](https://theoccidentalnews.com/opinions/2025/09/24/opinion-social-media-news-needs-a-refresh/2915564) appeared first on [The Occidental](https://theoccidentalnews.com).</source:markdown>
       <guid>cid://https://theoccidentalnews.com/?p=2915564</guid>
     </item>    <item>
       <title>Therapy Dogs Steal Hearts at Puppy Love Event</title>
@@ -1021,6 +1254,7 @@
       <description>
         <![CDATA[Smiles and fur filled the Zuberano Lawn as students took a break from studying to ease their stress. Puppy Love, held on Monday, gave students a chance to put down their books and relax with some furry friends. Spending time with these dogs gave students a chance to decompress during these busy weeks. &#8220;I was...]]>
       </description>
+      <source:markdown>Smiles and fur filled the Zuberano Lawn as students took a break from studying to ease their stress. Puppy Love, held on Monday, gave students a chance to put down their books and relax with some furry friends. Spending time with these dogs gave students a chance to decompress during these busy weeks. “I was...</source:markdown>
       <guid>cid://https://thesilversword.com/?p=23666</guid>
     </item>    <item>
       <title>Two possible locations offered for Peace Garden</title>
@@ -1029,6 +1263,9 @@
         <![CDATA[<p>A USC Sustainability survey asked for student opinions on the new garden locations.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/24/two-possible-locations-offered-for-peace-garden/">Two possible locations offered for Peace Garden</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>A USC Sustainability survey asked for student opinions on the new garden locations.
+
+The post [Two possible locations offered for Peace Garden](https://dailytrojan.com/2025/09/24/two-possible-locations-offered-for-peace-garden/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239511</guid>
     </item>    <item>
       <title>USG senator chosen in Fall 2025 special election</title>
@@ -1037,6 +1274,9 @@
         <![CDATA[<p>Students cast 1,418 votes, up from the 974 votes cast in the previous special election.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/24/usg-senator-chosen-in-fall-2025-special-election/">USG senator chosen in Fall 2025 special election</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Students cast 1,418 votes, up from the 974 votes cast in the previous special election.
+
+The post [USG senator chosen in Fall 2025 special election](https://dailytrojan.com/2025/09/24/usg-senator-chosen-in-fall-2025-special-election/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239518</guid>
     </item>    <item>
       <title>Weekly Frame IV: Golden Hour</title>
@@ -1044,6 +1284,7 @@
       <description>
         <![CDATA[<p>The post <a href="https://dailytrojan.com/2025/09/24/weekly-frame-iv-golden-hour/">Weekly Frame IV: Golden Hour</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The post [Weekly Frame IV: Golden Hour](https://dailytrojan.com/2025/09/24/weekly-frame-iv-golden-hour/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239520</guid>
     </item>    <item>
       <title>In a season of upheaval, our leaders are choosing denial</title>
@@ -1052,6 +1293,9 @@
         <![CDATA[<p>US youth face mental health struggles, yet politicians cling to outdated solutions.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/24/in-a-season-of-upheaval-our-leaders-are-choosing-denial/">In a season of upheaval, our leaders are choosing denial</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>US youth face mental health struggles, yet politicians cling to outdated solutions.
+
+The post [In a season of upheaval, our leaders are choosing denial](https://dailytrojan.com/2025/09/24/in-a-season-of-upheaval-our-leaders-are-choosing-denial/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239526</guid>
     </item>    <item>
       <title>Seniors, prepare for a fall of job hunting</title>
@@ -1060,6 +1304,9 @@
         <![CDATA[<p>As the semester advances, the question of postgrad aspirations is resurfacing.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/24/seniors-prepare-for-a-fall-of-job-hunting/">Seniors, prepare for a fall of job hunting</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>As the semester advances, the question of postgrad aspirations is resurfacing.
+
+The post [Seniors, prepare for a fall of job hunting](https://dailytrojan.com/2025/09/24/seniors-prepare-for-a-fall-of-job-hunting/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239553</guid>
     </item>    <item>
       <title>Classifieds – September 24, 2025</title>
@@ -1068,6 +1315,9 @@
         <![CDATA[<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/24/classifieds-september-17-2025-2-2-2/">Classifieds &#8211; September 24, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The Daily Trojan features Classified advertising in each day&#39;s edition. Here you can read, search, and even print out each day&#39;s edition of the Classifieds.
+
+The post [Classifieds – September 24, 2025](https://dailytrojan.com/2025/09/24/classifieds-september-17-2025-2-2-2/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239458</guid>
     </item>    <item>
       <title>I’m yearning for an East Coast autumn</title>
@@ -1076,6 +1326,9 @@
         <![CDATA[<p>You Californians won’t ever experience the wonders of fall: sincerely, a Bostonian.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/24/im-yearning-for-an-east-coast-autumn/">I’m yearning for an East Coast autumn</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>You Californians won’t ever experience the wonders of fall: sincerely, a Bostonian.
+
+The post [I’m yearning for an East Coast autumn](https://dailytrojan.com/2025/09/24/im-yearning-for-an-east-coast-autumn/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239541</guid>
     </item>    <item>
       <title>The seasons change in every genre, except hip-hop</title>
@@ -1084,6 +1337,9 @@
         <![CDATA[<p>The next generation of hip-hop is having a hard time surpassing the old guard.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/24/the-seasons-change-in-every-genre-except-hip-hop/">The seasons change in every genre, except hip-hop</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The next generation of hip-hop is having a hard time surpassing the old guard.
+
+The post [The seasons change in every genre, except hip-hop](https://dailytrojan.com/2025/09/24/the-seasons-change-in-every-genre-except-hip-hop/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239467</guid>
     </item>    <item>
       <title>Gottlieb’s squad seeks revenge against top Big Ten opponents</title>
@@ -1092,6 +1348,9 @@
         <![CDATA[<p>USC will look to avenge last season’s losses against Iowa and UCLA.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/24/gottliebs-squad-seeks-revenge-against-top-big-ten-opponents/">Gottlieb’s squad seeks revenge against top Big Ten opponents</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>USC will look to avenge last season’s losses against Iowa and UCLA.
+
+The post [Gottlieb’s squad seeks revenge against top Big Ten opponents](https://dailytrojan.com/2025/09/24/gottliebs-squad-seeks-revenge-against-top-big-ten-opponents/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239496</guid>
     </item>    <item>
       <title>Public transit is back on track at Union Station Train Festival</title>
@@ -1100,6 +1359,9 @@
         <![CDATA[<p>Angelenos came to celebrate the old and new trains from across Southern California.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/24/public-transit-is-back-on-track-at-union-station-train-festival/">Public transit is back on track at Union Station Train Festival</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Angelenos came to celebrate the old and new trains from across Southern California.
+
+The post [Public transit is back on track at Union Station Train Festival](https://dailytrojan.com/2025/09/24/public-transit-is-back-on-track-at-union-station-train-festival/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239477</guid>
     </item>    <item>
       <title>Former USC swimmers reunite for Alumni Relays</title>
@@ -1108,6 +1370,9 @@
         <![CDATA[<p>Around five dozen Trojan alums cut the waters of The Dungeon on Saturday.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/24/former-usc-swimmers-reunite-for-alumni-relays/">Former USC swimmers reunite for Alumni Relays</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Around five dozen Trojan alums cut the waters of The Dungeon on Saturday.
+
+The post [Former USC swimmers reunite for Alumni Relays](https://dailytrojan.com/2025/09/24/former-usc-swimmers-reunite-for-alumni-relays/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239217</guid>
     </item>    <item>
       <title>Albums for that perfect fall walk</title>
@@ -1116,6 +1381,9 @@
         <![CDATA[<p>These records are must-adds to “romanticizing autumn” playlists everywhere.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/24/albums-for-that-perfect-fall-walk/">Albums for that perfect fall walk</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>These records are must-adds to “romanticizing autumn” playlists everywhere.
+
+The post [Albums for that perfect fall walk](https://dailytrojan.com/2025/09/24/albums-for-that-perfect-fall-walk/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239485</guid>
     </item>    <item>
       <title>Key conference matchups for Musselman’s second season</title>
@@ -1124,6 +1392,9 @@
         <![CDATA[<p>The Trojans are set to play familiar faces in their second season in the conference.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/24/key-conference-matchups-for-musselmans-second-season/">Key conference matchups for Musselman’s second season</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The Trojans are set to play familiar faces in their second season in the conference.
+
+The post [Key conference matchups for Musselman’s second season](https://dailytrojan.com/2025/09/24/key-conference-matchups-for-musselmans-second-season/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239482</guid>
     </item>    <item>
       <title>Zach Garcia chosen as senator in USG special election</title>
@@ -1132,6 +1403,9 @@
         <![CDATA[<p>Garcia vowed to address student needs through on-campus partnerships.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/23/zach-garcia-chosen-as-senator-in-usg-special-election/">Zach Garcia chosen as senator in USG special election</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Garcia vowed to address student needs through on-campus partnerships.
+
+The post [Zach Garcia chosen as senator in USG special election](https://dailytrojan.com/2025/09/23/zach-garcia-chosen-as-senator-in-usg-special-election/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239470</guid>
     </item>    <item>
       <title>Dallas Morning News shareholders vote to deny the hedge fund Alden Global Capital</title>
@@ -1139,6 +1413,7 @@
       <description>
         <![CDATA[How about some good news? Could you use some good news today? A newspaper transaction doesn&#8217;t always have to go horribly. The worst possible outcome isn&#8217;t always predestined. Today, shareholders of DallasNews Corporation, owners of The Dallas Morning News1, voted overwhelmingly to make a lot of money by being acquired by the Hearst Corporation. (Hearst...]]>
       </description>
+      <source:markdown>How about some good news? Could you use some good news today? A newspaper transaction doesn’t always have to go horribly. The worst possible outcome isn’t always predestined. Today, shareholders of DallasNews Corporation, owners of The Dallas Morning News1, voted overwhelmingly to make a lot of money by being acquired by the Hearst Corporation. (Hearst...</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=243386</guid>
     </item>    <item>
       <title>Jimmy Kimmel may be back, but TV networks are more vulnerable to political pressure than ever before</title>
@@ -1146,6 +1421,7 @@
       <description>
         <![CDATA[“Is there any way we can screw him?” asked President Richard M. Nixon. “We’ve been trying to,” an aide replied, alluding to the White House’s efforts to remove from the airwaves an ABC talk show host whose critiques of the administration had placed that &#8220;son of a bitch&#8221; on the chief executive’s enemies list. Over...]]>
       </description>
+      <source:markdown>“Is there any way we can screw him?” asked President Richard M. Nixon. “We’ve been trying to,” an aide replied, alluding to the White House’s efforts to remove from the airwaves an ABC talk show host whose critiques of the administration had placed that “son of a bitch” on the chief executive’s enemies list. Over...</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=243403</guid>
     </item>    <item>
       <title>CSUN late heroics keeps unbeaten streak alive</title>
@@ -1182,6 +1458,7 @@
       <description>
         <![CDATA[The Nordic countries are good places to launch news outlets. Trust in news is very high, and people are willing to pay for news subscriptions. Zetland, the membership-driven news site launched in Denmark in 2012, now counts 50,000 paid subscribers, and the publication has begun expanding its model to other countries. Last year, Zetland — whose...]]>
       </description>
+      <source:markdown>The Nordic countries are good places to launch news outlets. Trust in news is very high, and people are willing to pay for news subscriptions. Zetland, the membership-driven news site launched in Denmark in 2012, now counts 50,000 paid subscribers, and the publication has begun expanding its model to other countries. Last year, Zetland — whose...</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=243379</guid>
     </item>    <item>
       <title>A look inside the AI strategies at The New York Times and The Washington Post</title>
@@ -1189,6 +1466,7 @@
       <description>
         <![CDATA[Digiday held the most recent edition of its Digiday Publishing Summit in Miami last week, and it&#8217;s been rolling out highlights from many of the sessions. You&#8217;ll be shocked to learn that one big area of focus was AI. Two of them make for interesting paired reading — peeks into the AI strategies of The...]]>
       </description>
+      <source:markdown>Digiday held the most recent edition of its Digiday Publishing Summit in Miami last week, and it’s been rolling out highlights from many of the sessions. You’ll be shocked to learn that one big area of focus was AI. Two of them make for interesting paired reading — peeks into the AI strategies of The...</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=243374</guid>
     </item>    <item>
       <title>Bundle up this fall with affordable indie games</title>
@@ -1212,6 +1490,9 @@
         <![CDATA[<p>Recent bomb threats and racist texts show how little transparency students receive about real dangers on campus.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/23/campus-safety-doesnt-exist-for-uscs-students-of-color/">Campus safety doesn’t exist for USC’s students of color</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Recent bomb threats and racist texts show how little transparency students receive about real dangers on campus.
+
+The post [Campus safety doesn’t exist for USC’s students of color](https://dailytrojan.com/2025/09/23/campus-safety-doesnt-exist-for-uscs-students-of-color/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239407</guid>
     </item>    <item>
       <title>Soccer dominated by Michigan State in 4-0 blowout</title>
@@ -1220,6 +1501,9 @@
         <![CDATA[<p>USC has lost three of its last four games after starting the season 3-0.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/23/soccer-dominated-by-michigan-state-in-4-0-blowout/">Soccer dominated by Michigan State in 4-0 blowout</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>USC has lost three of its last four games after starting the season 3-0.
+
+The post [Soccer dominated by Michigan State in 4-0 blowout](https://dailytrojan.com/2025/09/23/soccer-dominated-by-michigan-state-in-4-0-blowout/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239399</guid>
     </item>    <item>
       <title>Music is in the air across Los Angeles</title>
@@ -1228,6 +1512,9 @@
         <![CDATA[<p> I found my personal playlist from the city's blasting speakers.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/23/music-is-in-the-air-across-los-angeles/">Music is in the air across Los Angeles</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>I found my personal playlist from the city&#39;s blasting speakers.
+
+The post [Music is in the air across Los Angeles](https://dailytrojan.com/2025/09/23/music-is-in-the-air-across-los-angeles/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239358</guid>
     </item>    <item>
       <title>Award shows don’t mean as much as they used to</title>
@@ -1236,6 +1523,9 @@
         <![CDATA[<p>Mainstream award shows are no longer a benchmark for success.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/23/award-shows-dont-mean-as-much-as-they-used-to/">Award shows don’t mean as much as they used to</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Mainstream award shows are no longer a benchmark for success.
+
+The post [Award shows don’t mean as much as they used to](https://dailytrojan.com/2025/09/23/award-shows-dont-mean-as-much-as-they-used-to/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239412</guid>
     </item>    <item>
       <title>House committee recommends stricter restrictions for Chinese national students</title>
@@ -1244,6 +1534,9 @@
         <![CDATA[<p>The probe into USC and other universities culminated into a report Sept. 19 following an investigation into USC. </p>
         <p>The post <a href="https://dailytrojan.com/2025/09/23/house-committee-recommends-stricter-restrictions-for-chinese-national-students/">House committee recommends stricter restrictions for Chinese national students</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The probe into USC and other universities culminated into a report Sept. 19 following an investigation into USC.
+
+The post [House committee recommends stricter restrictions for Chinese national students](https://dailytrojan.com/2025/09/23/house-committee-recommends-stricter-restrictions-for-chinese-national-students/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239391</guid>
     </item>    <item>
       <title>Men’s water polo places third at MPSF Invitational</title>
@@ -1252,6 +1545,9 @@
         <![CDATA[<p>The Trojans got their first glimpse of conference play against top-four teams Stanford and UC Berkeley.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/23/mens-water-polo-places-third-at-mpsf-invitational/">Men’s water polo places third at MPSF Invitational</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The Trojans got their first glimpse of conference play against top-four teams Stanford and UC Berkeley.
+
+The post [Men’s water polo places third at MPSF Invitational](https://dailytrojan.com/2025/09/23/mens-water-polo-places-third-at-mpsf-invitational/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239401</guid>
     </item>    <item>
       <title>International students voice concerns under recent US government decisions</title>
@@ -1260,6 +1556,9 @@
         <![CDATA[<p> Visa stress and shifting policies left many questioning their future at USC.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/23/international-students-voice-concerns-under-recent-us-government-decisions/">International students voice concerns under recent US government decisions</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Visa stress and shifting policies left many questioning their future at USC.
+
+The post [International students voice concerns under recent US government decisions](https://dailytrojan.com/2025/09/23/international-students-voice-concerns-under-recent-us-government-decisions/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239387</guid>
     </item>    <item>
       <title>‘West Side Story’ kicks off LA Opera’s 40th season</title>
@@ -1268,6 +1567,9 @@
         <![CDATA[<p>A vibrant and emotional performance wowed a packed house at Dorothy Chandler Pavilion Saturday.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/23/west-side-story-kicks-off-la-operas-40th-season/">‘West Side Story’ kicks off LA Opera’s 40th season</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>A vibrant and emotional performance wowed a packed house at Dorothy Chandler Pavilion Saturday.
+
+The post [‘West Side Story’ kicks off LA Opera’s 40th season](https://dailytrojan.com/2025/09/23/west-side-story-kicks-off-la-operas-40th-season/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239353</guid>
     </item>    <item>
       <title>The Blend: Blending students and veterans alike</title>
@@ -1366,6 +1668,7 @@
       <description>
         <![CDATA[For the last several years, a few things about many journalists&#8217; workflows have remained constant: They talk to their colleagues on Slack, contact sources via some combination of phone, email, Zoom, and messaging apps, and file their stories in Google Docs. But now, as the federal government ramps up its attacks on American journalism —...]]>
       </description>
+      <source:markdown>For the last several years, a few things about many journalists’ workflows have remained constant: They talk to their colleagues on Slack, contact sources via some combination of phone, email, Zoom, and messaging apps, and file their stories in Google Docs. But now, as the federal government ramps up its attacks on American journalism —...</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=243323</guid>
     </item>    <item>
       <title>Why Jimmy Kimmel’s First Amendment rights weren’t violated — but ABC’s would be protected if it stood up to the FCC and Trump</title>
@@ -1373,6 +1676,7 @@
       <description>
         <![CDATA[The assassination of conservative activist Charlie Kirk has sparked a wave of political commentary. There were the respectful and sincere comments condemning the killing. Former President Barack Obama said, “What happened was a tragedy and&#8230;I mourn for him and his family.” And former Vice President Mike Pence said, &#8220;I’m heartsick about what happened to him.” But Kirk’s...]]>
       </description>
+      <source:markdown>The assassination of conservative activist Charlie Kirk has sparked a wave of political commentary. There were the respectful and sincere comments condemning the killing. Former President Barack Obama said, “What happened was a tragedy and…I mourn for him and his family.” And former Vice President Mike Pence said, “I’m heartsick about what happened to him.” But Kirk’s...</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=243346</guid>
     </item>    <item>
       <title>Registration Issue 2025: Transformations through Time</title>
@@ -1385,6 +1689,9 @@
         <![CDATA[<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/22/classifieds-september-17-2025-2-2/">Classifieds &#8211; September 22, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The Daily Trojan features Classified advertising in each day&#39;s edition. Here you can read, search, and even print out each day&#39;s edition of the Classifieds.
+
+The post [Classifieds – September 22, 2025](https://dailytrojan.com/2025/09/22/classifieds-september-17-2025-2-2/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239108</guid>
     </item>    <item>
       <title>Kaufman shines with ‘Decades of Dance in L.A.’</title>
@@ -1393,6 +1700,9 @@
         <![CDATA[<p>The event highlighted the joy and diversity of dance in Los Angeles.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/22/kaufman-shines-with-decades-of-dance-in-l-a/">Kaufman shines with ‘Decades of Dance in L.A.’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The event highlighted the joy and diversity of dance in Los Angeles.
+
+The post [Kaufman shines with ‘Decades of Dance in L.A.’](https://dailytrojan.com/2025/09/22/kaufman-shines-with-decades-of-dance-in-l-a/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239264</guid>
     </item>    <item>
       <title>Not everyone can afford a real designer bag</title>
@@ -1401,6 +1711,9 @@
         <![CDATA[<p>Forget the cost of tuition: Let’s uncover the true cost of community on campus.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/22/not-everyone-can-afford-a-real-designer-bag/">Not everyone can afford a real designer bag</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Forget the cost of tuition: Let’s uncover the true cost of community on campus.
+
+The post [Not everyone can afford a real designer bag](https://dailytrojan.com/2025/09/22/not-everyone-can-afford-a-real-designer-bag/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239235</guid>
     </item>    <item>
       <title>Football flips script, hangs on in win over Spartans</title>
@@ -1409,6 +1722,9 @@
         <![CDATA[<p>Despite allowing its most points in a game this season, No. 21 USC still sent the crowd home with another victory.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/22/football-flips-script-hangs-on-in-win-over-spartans/">Football flips script, hangs on in win over Spartans</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Despite allowing its most points in a game this season, No. 21 USC still sent the crowd home with another victory.
+
+The post [Football flips script, hangs on in win over Spartans](https://dailytrojan.com/2025/09/22/football-flips-script-hangs-on-in-win-over-spartans/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239311</guid>
     </item>    <item>
       <title>Samia impresses a passionate audience at Fonda Theatre</title>
@@ -1417,6 +1733,9 @@
         <![CDATA[<p>The indie-folk singer-songwriter brought her new album to Los Angeles listeners.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/22/samia-puts-on-a-show-at-the-fonda/">Samia impresses a passionate audience at Fonda Theatre</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The indie-folk singer-songwriter brought her new album to Los Angeles listeners.
+
+The post [Samia impresses a passionate audience at Fonda Theatre](https://dailytrojan.com/2025/09/22/samia-puts-on-a-show-at-the-fonda/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239276</guid>
     </item>    <item>
       <title>Women’s golf seeks first tournament win at Red Sky Classic</title>
@@ -1425,6 +1744,9 @@
         <![CDATA[<p>The Trojans hope to improve on their third-place finish at the ANNIKA Intercollegiate.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/22/womens-golf-seeks-first-tournament-win-at-red-sky-classic/">Women’s golf seeks first tournament win at Red Sky Classic</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The Trojans hope to improve on their third-place finish at the ANNIKA Intercollegiate.
+
+The post [Women’s golf seeks first tournament win at Red Sky Classic](https://dailytrojan.com/2025/09/22/womens-golf-seeks-first-tournament-win-at-red-sky-classic/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239329</guid>
     </item>    <item>
       <title>It is never too late to become fluent in your native tongue</title>
@@ -1433,6 +1755,9 @@
         <![CDATA[<p>Having limited fluency in your native language can be a challenge to overcome.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/22/it-is-never-too-late-become-fluent-your-native-tongue/">It is never too late to become fluent in your native tongue</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Having limited fluency in your native language can be a challenge to overcome.
+
+The post [It is never too late to become fluent in your native tongue](https://dailytrojan.com/2025/09/22/it-is-never-too-late-become-fluent-your-native-tongue/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239241</guid>
     </item>    <item>
       <title>Alumni-founded speech therapy startup picked as Hult Prize finalist</title>
@@ -1441,6 +1766,9 @@
         <![CDATA[<p>Sara Technology aims to use artificial intelligence to help kids with speech disorders.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/22/alumni-founded-speech-therapy-startup-picked-as-hult-prize-finalist/">Alumni-founded speech therapy startup picked as Hult Prize finalist</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Sara Technology aims to use artificial intelligence to help kids with speech disorders.
+
+The post [Alumni-founded speech therapy startup picked as Hult Prize finalist](https://dailytrojan.com/2025/09/22/alumni-founded-speech-therapy-startup-picked-as-hult-prize-finalist/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239269</guid>
     </item>    <item>
       <title>SDA in ‘distress’ amid program cuts, layoffs in production</title>
@@ -1449,6 +1777,9 @@
         <![CDATA[<p>Alums “disappointed” in the choice to sunset “niche” technical direction degree.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/22/sda-in-distress-amid-program-cuts-layoffs-in-production/">SDA in ‘distress’ amid program cuts, layoffs in production</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Alums “disappointed” in the choice to sunset “niche” technical direction degree.
+
+The post [SDA in ‘distress’ amid program cuts, layoffs in production](https://dailytrojan.com/2025/09/22/sda-in-distress-amid-program-cuts-layoffs-in-production/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239252</guid>
     </item>    <item>
       <title>‘I Can See The Future’ is a subversive dissertation on grief</title>
@@ -1457,6 +1788,9 @@
         <![CDATA[<p>Leith Ross’s new album enchants as much as it devastates.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/22/i-can-see-the-future-is-a-subversive-dissertation-on-grief/">‘I Can See The Future’ is a subversive dissertation on grief</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Leith Ross’s new album enchants as much as it devastates.
+
+The post [‘I Can See The Future’ is a subversive dissertation on grief](https://dailytrojan.com/2025/09/22/i-can-see-the-future-is-a-subversive-dissertation-on-grief/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239280</guid>
     </item>    <item>
       <title>Trojans sweep Tigers in back-to-back wins</title>
@@ -1465,6 +1799,9 @@
         <![CDATA[<p>No. 19 women’s volleyball moved to 8-1 after handily defeating LSU in two games.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/22/trojans-sweep-tigers-in-back-to-back-wins/">Trojans sweep Tigers in back-to-back wins</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>No. 19 women’s volleyball moved to 8-1 after handily defeating LSU in two games.
+
+The post [Trojans sweep Tigers in back-to-back wins](https://dailytrojan.com/2025/09/22/trojans-sweep-tigers-in-back-to-back-wins/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239308</guid>
     </item>    <item>
       <title>Anderson Forecast finds Trump’s tariffs slow US, California economic growth</title>
@@ -1496,6 +1833,9 @@
         <![CDATA[<p>Hundreds gathered at Marketplace Park in Valencia for a candlelight vigil honoring&#8230;</p>
         <p>The post <a href="https://canyonsnews.com/kirk-vigil/">Hundreds gather in Santa Clarita for candlelight vigil honoring Charlie Kirk</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>]]>
       </description>
+      <source:markdown>Hundreds gathered at Marketplace Park in Valencia for a candlelight vigil honoring…
+
+The post [Hundreds gather in Santa Clarita for candlelight vigil honoring Charlie Kirk](https://canyonsnews.com/kirk-vigil/) appeared first on [Canyons News](https://canyonsnews.com).</source:markdown>
       <guid>cid://https://canyonsnews.com/?p=55454</guid>
     </item>    <item>
       <title>Golden Valley Grizzlies edge Canyon Cowboys in penalty-filled showdown</title>
@@ -1504,6 +1844,9 @@
         <![CDATA[<p>In a contest marred by penalties, the Golden Valley Grizzlies overcame the&#8230;</p>
         <p>The post <a href="https://canyonsnews.com/gv-v-cowboys/">Golden Valley Grizzlies edge Canyon Cowboys in penalty-filled showdown</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>]]>
       </description>
+      <source:markdown>In a contest marred by penalties, the Golden Valley Grizzlies overcame the…
+
+The post [Golden Valley Grizzlies edge Canyon Cowboys in penalty-filled showdown](https://canyonsnews.com/gv-v-cowboys/) appeared first on [Canyons News](https://canyonsnews.com).</source:markdown>
       <guid>cid://https://canyonsnews.com/?p=55442</guid>
     </item>    <item>
       <title>Trojans hold on for 45-31 win against Michigan State</title>
@@ -1512,6 +1855,9 @@
         <![CDATA[<p>USC football improved to 4-0 with its third win at home this season.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/21/trojans-hold-on-for-45-31-win-against-michigan-state/">Trojans hold on for 45-31 win against Michigan State</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>USC football improved to 4-0 with its third win at home this season.
+
+The post [Trojans hold on for 45-31 win against Michigan State](https://dailytrojan.com/2025/09/21/trojans-hold-on-for-45-31-win-against-michigan-state/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239219</guid>
     </item>    <item>
       <title>USAC recap – Sept. 2</title>
@@ -1553,6 +1899,9 @@
         <![CDATA[<p>Bennett Christofferson and Fabián Gutiérrez report live from Los Angeles Memorial Coliseum.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/20/usc-vs-michigan-state-live-updates/">USC vs Michigan State — as it happened</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Bennett Christofferson and Fabián Gutiérrez report live from Los Angeles Memorial Coliseum.
+
+The post [USC vs Michigan State — as it happened](https://dailytrojan.com/2025/09/20/usc-vs-michigan-state-live-updates/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239130</guid>
     </item>    <item>
       <title>North Westwood Neighborhood Council recap – Sept. 9</title>
@@ -1686,6 +2035,9 @@
         <![CDATA[<p>A two goal effort from junior forward Maribel Flores led USC to its bounce-back win.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/19/maribels-magic-leads-soccer-to-road-win/">Maribel&#8217;s magic leads soccer to road win</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>A two goal effort from junior forward Maribel Flores led USC to its bounce-back win.
+
+The post [Maribel’s magic leads soccer to road win](https://dailytrojan.com/2025/09/19/maribels-magic-leads-soccer-to-road-win/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239097</guid>
     </item>    <item>
       <title>USC’s D’Anton Lynn claims no contact for UCLA opening</title>
@@ -1694,6 +2046,9 @@
         <![CDATA[<p>The defensive coordinator served in the same role at UCLA in the 2023 season.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/19/uscs-danton-lynn-claims-no-contact-for-ucla-opening/">USC’s D’Anton Lynn claims no contact for UCLA opening</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The defensive coordinator served in the same role at UCLA in the 2023 season.
+
+The post [USC’s D’Anton Lynn claims no contact for UCLA opening](https://dailytrojan.com/2025/09/19/uscs-danton-lynn-claims-no-contact-for-ucla-opening/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239094</guid>
     </item>    <item>
       <title>Men’s water polo readies for action-packed weekend</title>
@@ -1702,6 +2057,9 @@
         <![CDATA[<p>USC and UCLA will host the MPSF Overnight Invitational throughout the weekend. </p>
         <p>The post <a href="https://dailytrojan.com/2025/09/19/mens-water-polo-readies-for-action-packed-weekend/">Men’s water polo readies for action-packed weekend</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>USC and UCLA will host the MPSF Overnight Invitational throughout the weekend.
+
+The post [Men’s water polo readies for action-packed weekend](https://dailytrojan.com/2025/09/19/mens-water-polo-readies-for-action-packed-weekend/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239067</guid>
     </item>    <item>
       <title>An amateur coder’s guide to fantasy football</title>
@@ -1710,6 +2068,9 @@
         <![CDATA[<p>Data analytics, save my fantasy team!</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/19/an-amateur-coders-guide-to-fantasy-football/">An amateur coder&#8217;s guide to fantasy football</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Data analytics, save my fantasy team!
+
+The post [An amateur coder’s guide to fantasy football](https://dailytrojan.com/2025/09/19/an-amateur-coders-guide-to-fantasy-football/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239071</guid>
     </item>    <item>
       <title>‘Thanos’ starts  USC career strong post a year off football</title>
@@ -1718,6 +2079,9 @@
         <![CDATA[<p>ESPN’s former No. 1 overall recruit has two tackles for loss two games into the year.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/19/thanos-starts-usc-career-strong-post-a-year-off-football/">‘Thanos’ starts  USC career strong post a year off football</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>ESPN’s former No. 1 overall recruit has two tackles for loss two games into the year.
+
+The post [‘Thanos’ starts USC career strong post a year off football](https://dailytrojan.com/2025/09/19/thanos-starts-usc-career-strong-post-a-year-off-football/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239075</guid>
     </item>    <item>
       <title>Football readies for mythical clash with Spartans</title>
@@ -1726,6 +2090,9 @@
         <![CDATA[<p>No. 25 USC hopes to hold its momentum in its first Big Ten home game of the year.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/19/football-readies-for-mythical-clash-with-spartans/">Football readies for mythical clash with Spartans</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>No. 25 USC hopes to hold its momentum in its first Big Ten home game of the year.
+
+The post [Football readies for mythical clash with Spartans](https://dailytrojan.com/2025/09/19/football-readies-for-mythical-clash-with-spartans/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239060</guid>
     </item>    <item>
       <title>Record-breaking 121st USC alum makes his MLB debut</title>
@@ -1734,6 +2101,9 @@
         <![CDATA[<p>CJ Stubbs played three years at USC before debuting with the Washington Nationals.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/19/record-breaking-121st-usc-alum-makes-his-mlb-debut/">Record-breaking 121st USC alum makes his MLB debut</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>CJ Stubbs played three years at USC before debuting with the Washington Nationals.
+
+The post [Record-breaking 121st USC alum makes his MLB debut](https://dailytrojan.com/2025/09/19/record-breaking-121st-usc-alum-makes-his-mlb-debut/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239054</guid>
     </item>    <item>
       <title>Canadian Bouchard pivots from hockey to D-line standout</title>
@@ -1742,6 +2112,9 @@
         <![CDATA[<p>Freshman defensive tackle Floyd Bouchard got his first career sack last weekend.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/19/canadian-bouchard-pivots-from-hockey-to-d-line-standout/">Canadian Bouchard pivots from hockey to D-line standout</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Freshman defensive tackle Floyd Bouchard got his first career sack last weekend.
+
+The post [Canadian Bouchard pivots from hockey to D-line standout](https://dailytrojan.com/2025/09/19/canadian-bouchard-pivots-from-hockey-to-d-line-standout/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239053</guid>
     </item>    <item>
       <title>Jarrett scores 70-yard pick-six: ‘Big boys be moving’</title>
@@ -1750,6 +2123,9 @@
         <![CDATA[<p>The 360-pound lineman got up to 19 miles per hour on his thrilling touchdown run.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/19/jarrett-scores-70-yard-pick-six-big-boys-be-moving/">Jarrett scores 70-yard pick-six: &#8216;Big boys be moving&#8217;</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The 360-pound lineman got up to 19 miles per hour on his thrilling touchdown run.
+
+The post [Jarrett scores 70-yard pick-six: ‘Big boys be moving’](https://dailytrojan.com/2025/09/19/jarrett-scores-70-yard-pick-six-big-boys-be-moving/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239045</guid>
     </item>    <item>
       <title>Students hold vigil for Charlie Kirk on campus</title>
@@ -1758,6 +2134,9 @@
         <![CDATA[<p> USC’s chapter of Turning Point USA held the event to honor the late podcast host.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/19/students-hold-vigil-for-charlie-kirk-on-campus/">Students hold vigil for Charlie Kirk on campus</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>USC’s chapter of Turning Point USA held the event to honor the late podcast host.
+
+The post [Students hold vigil for Charlie Kirk on campus](https://dailytrojan.com/2025/09/19/students-hold-vigil-for-charlie-kirk-on-campus/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=238931</guid>
     </item>    <item>
       <title>Joe Manchin discusses memoir</title>
@@ -1766,6 +2145,9 @@
         <![CDATA[<p>Attendees were informed of the former West Virginia senator’s “centrist” views.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/19/joe-manchin-discusses-memoir/">Joe Manchin discusses memoir</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Attendees were informed of the former West Virginia senator’s “centrist” views.
+
+The post [Joe Manchin discusses memoir](https://dailytrojan.com/2025/09/19/joe-manchin-discusses-memoir/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=238939</guid>
     </item>    <item>
       <title>Postdocs union reacts to ‘final’ offer</title>
@@ -1774,6 +2156,9 @@
         <![CDATA[<p>USC’s proposal lacks salary raises and better healthcare for researchers and fellows.  </p>
         <p>The post <a href="https://dailytrojan.com/2025/09/19/postdocs-union-reacts-to-final-offer/">Postdocs union reacts to &#8216;final&#8217; offer</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>USC’s proposal lacks salary raises and better healthcare for researchers and fellows.
+
+The post [Postdocs union reacts to ‘final’ offer](https://dailytrojan.com/2025/09/19/postdocs-union-reacts-to-final-offer/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=238942</guid>
     </item>    <item>
       <title>Dully’s Drop: Transfer guard Donovan Dent brings stellar offense to UCLA men’s basketball</title>
@@ -1800,6 +2185,9 @@
         <![CDATA[<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/19/classifieds-september-17-2025-2/">Classifieds &#8211; September 19, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The Daily Trojan features Classified advertising in each day&#39;s edition. Here you can read, search, and even print out each day&#39;s edition of the Classifieds.
+
+The post [Classifieds – September 19, 2025](https://dailytrojan.com/2025/09/19/classifieds-september-17-2025-2/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=238897</guid>
     </item>    <item>
       <title>Not Enough for the Humanities</title>
@@ -1812,6 +2200,9 @@
         <![CDATA[<p>Consumption of political violence reveals the fragility of American civic standards.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/19/political-violence-is-the-first-symptom-of-a-dying-democracy/">Political violence is the first symptom of a dying democracy</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>Consumption of political violence reveals the fragility of American civic standards.
+
+The post [Political violence is the first symptom of a dying democracy](https://dailytrojan.com/2025/09/19/political-violence-is-the-first-symptom-of-a-dying-democracy/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=238928</guid>
     </item>    <item>
       <title>Kyle Gallner carries ‘Just Breathe’</title>
@@ -1820,6 +2211,9 @@
         <![CDATA[<p>The film from Shout! Studios is largely held together by Gallner’s performance.</p>
         <p>The post <a href="https://dailytrojan.com/2025/09/19/kyle-gallner-carries-just-breathe/">Kyle Gallner carries &#8216;Just Breathe&#8217;</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
+      <source:markdown>The film from Shout! Studios is largely held together by Gallner’s performance.
+
+The post [Kyle Gallner carries ‘Just Breathe’](https://dailytrojan.com/2025/09/19/kyle-gallner-carries-just-breathe/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=239008</guid>
     </item>    <item>
       <title>Dinner parties cure loneliness</title>
@@ -2008,6 +2402,7 @@
       <description>
         <![CDATA[Tristan Werkmeister, 26, joined Reuters as the newsroom&#8217;s first social video reporter in January. The look of Reuters&#8217; videos hasn&#8217;t radically changed — but output has. Reuters now produces four times as many vertical videos per day as it used to. Most of the videos are straight news bulletins but occasionally Werkmeister narrates an explainer-style...]]>
       </description>
+      <source:markdown>Tristan Werkmeister, 26, joined Reuters as the newsroom’s first social video reporter in January. The look of Reuters’ videos hasn’t radically changed — but output has. Reuters now produces four times as many vertical videos per day as it used to. Most of the videos are straight news bulletins but occasionally Werkmeister narrates an explainer-style...</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=243196</guid>
     </item>    <item>
       <title>“We can do this the easy way or the hard way”: Trump’s FCC again uses the threat of its regulatory powers to push a critic off the air</title>
@@ -2015,6 +2410,7 @@
       <description>
         <![CDATA[This is supposed to be a website about media innovation, so I suppose we must acknowledge the innovation of Brendan Carr, Donald Trump&#8217;s chair of the Federal Communications Commission. For decades, the renewal of television licenses was overwhelmingly pro forma; a license has been taken away because of content exactly once, when a Mississippi station...]]>
       </description>
+      <source:markdown>This is supposed to be a website about media innovation, so I suppose we must acknowledge the innovation of Brendan Carr, Donald Trump’s chair of the Federal Communications Commission. For decades, the renewal of television licenses was overwhelmingly pro forma; a license has been taken away because of content exactly once, when a Mississippi station...</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=243301</guid>
     </item>    <item>
       <title>Generative AI should stay outside the classroom</title>
@@ -2137,6 +2533,7 @@
       <description>
         <![CDATA[St. Louis — When Christiaan Mader co-founded The Current Media in 2018 as a scrappy local news nonprofit for Lafayette, Louisiana, he didn’t envision events playing a big part in organizational strategy. In hindsight, he said, he should have. At a panel for LION’s Independent News Sustainability Summit in St. Louis this month, Mader shared...]]>
       </description>
+      <source:markdown>St. Louis — When Christiaan Mader co-founded The Current Media in 2018 as a scrappy local news nonprofit for Lafayette, Louisiana, he didn’t envision events playing a big part in organizational strategy. In hindsight, he said, he should have. At a panel for LION’s Independent News Sustainability Summit in St. Louis this month, Mader shared...</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=243254</guid>
     </item>    <item>
       <title>Bub and Grandma’s opens new pizza spot on York</title>
@@ -2516,6 +2913,7 @@
       <description>
         <![CDATA[The Banner, the three-year-old Maryland news nonprofit that earned national recognition with a Pulitzer win this year, is launching a news bureau in Montgomery County. The expansion into Maryland&#8217;s most populous county — where it already has several thousand paying subscribers — brings The Banner into the northern Washington suburbs, and marks its first hub...]]>
       </description>
+      <source:markdown>The Banner, the three-year-old Maryland news nonprofit that earned national recognition with a Pulitzer win this year, is launching a news bureau in Montgomery County. The expansion into Maryland’s most populous county — where it already has several thousand paying subscribers — brings The Banner into the northern Washington suburbs, and marks its first hub...</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=243232</guid>
     </item>    <item>
       <title>The Gen Z newsroom covering Europe (and ruffling some continental feathers along the way)</title>
@@ -2523,6 +2921,7 @@
       <description>
         <![CDATA[Long before the launch of The European Correspondent, there were just two friends, one in Amsterdam, one in Basel, swapping news updates from their corners of the continent. As they traded headlines back and forth, the thought dawned on them — hey, wouldn’t it be great to have friends all over Europe, sharing news just...]]>
       </description>
+      <source:markdown>Long before the launch of The European Correspondent, there were just two friends, one in Amsterdam, one in Basel, swapping news updates from their corners of the continent. As they traded headlines back and forth, the thought dawned on them — hey, wouldn’t it be great to have friends all over Europe, sharing news just...</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=243185</guid>
     </item>    <item>
       <title>Classifieds – September 15, 2025</title>
@@ -2646,6 +3045,9 @@
         <![CDATA[<p>The College of the Canyons Cougars faced off against the Riverside City&#8230;</p>
         <p>The post <a href="https://canyonsnews.com/cougar-v-riverside/">COC falls short in Shootout against the Riverside Tigers</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>]]>
       </description>
+      <source:markdown>The College of the Canyons Cougars faced off against the Riverside City…
+
+The post [COC falls short in Shootout against the Riverside Tigers](https://canyonsnews.com/cougar-v-riverside/) appeared first on [Canyons News](https://canyonsnews.com).</source:markdown>
       <guid>cid://https://canyonsnews.com/?p=55436</guid>
     </item>    <item>
       <title>CSUN women’s volleyball takes a loss against Lipscomb</title>
@@ -2700,6 +3102,9 @@
         <![CDATA[<p>Tensions were high at College of the Canyons University Center as the&#8230;</p>
         <p>The post <a href="https://canyonsnews.com/david-andrus/">COC Trustees move to oust Interim Superintendent</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>]]>
       </description>
+      <source:markdown>Tensions were high at College of the Canyons University Center as the…
+
+The post [COC Trustees move to oust Interim Superintendent](https://canyonsnews.com/david-andrus/) appeared first on [Canyons News](https://canyonsnews.com).</source:markdown>
       <guid>cid://https://canyonsnews.com/?p=55423</guid>
     </item>    <item>
       <title>Bruins slip and fall facing Lobos in anticipated climb that never came</title>
@@ -2910,6 +3315,7 @@
       <description>
         <![CDATA[Of all of the Trump administration&#8217;s policy initiatives, this might be the one with the widest base of non-MAGA support. On Tuesday, the White House announced that it planned to make it much more difficult — likely impossible — for pharmaceutical companies to advertise their drugs on TV. You see, until 1997, drug companies were...]]>
       </description>
+      <source:markdown>Of all of the Trump administration’s policy initiatives, this might be the one with the widest base of non-MAGA support. On Tuesday, the White House announced that it planned to make it much more difficult — likely impossible — for pharmaceutical companies to advertise their drugs on TV. You see, until 1997, drug companies were...</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=243139</guid>
     </item>    <item>
       <title>From reckoning to retreat: Journalism’s DEI efforts are in decline</title>
@@ -2917,6 +3323,7 @@
       <description>
         <![CDATA[In 2020, as George Floyd&#8217;s killing and nationwide Black Lives Matter protests set off a &#8220;racial reckoning&#8221; in journalism, the Maynard Institute for Journalism Education (MIJE) was flooded with newsroom requests for company-wide diversity trainings. MIJE, a nonprofit founded in 1977, focuses on &#8220;equity, belonging, and diversity in news.&#8221; Martin Reynolds, the organization&#8217;s co-executive director,...]]>
       </description>
+      <source:markdown>In 2020, as George Floyd’s killing and nationwide Black Lives Matter protests set off a “racial reckoning” in journalism, the Maynard Institute for Journalism Education (MIJE) was flooded with newsroom requests for company-wide diversity trainings. MIJE, a nonprofit founded in 1977, focuses on “equity, belonging, and diversity in news.” Martin Reynolds, the organization’s co-executive director,...</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=242947</guid>
     </item>    <item>
       <title>Charlie Kirk assassinated during college debate</title>
@@ -3204,6 +3611,7 @@
       <description>
         <![CDATA[Could Rupert Murdoch&#8217;s $40 billion media empire ever lean liberal? Over the past few years, as Murdoch&#8217;s four children battled in court over who would control properties including Fox News, The Wall Street Journal, and the New York Post after his death, the possibility was slim but real. If Elisabeth, Prudence, James, and Lachlan Murdoch...]]>
       </description>
+      <source:markdown>Could Rupert Murdoch’s $40 billion media empire ever lean liberal? Over the past few years, as Murdoch’s four children battled in court over who would control properties including Fox News, The Wall Street Journal, and the New York Post after his death, the possibility was slim but real. If Elisabeth, Prudence, James, and Lachlan Murdoch...</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=243106</guid>
     </item>    <item>
       <title>UCLA launches AI-powered virtual assistant for admissions, financial aid questions</title>
@@ -3219,6 +3627,7 @@
       <description>
         <![CDATA[On July 22, Dave Jorgenson, also known as &#8220;The Washington Post TikTok guy,&#8221; posted a video to his social channels. &#8220;Dear Jeff Bezos,&#8221; it began, &#8220;If you’re reading this, you already know. I’m leaving the Washington Post and starting my own company.&#8221; And, he went on to explain, he wouldn’t be doing it alone: His...]]>
       </description>
+      <source:markdown>On July 22, Dave Jorgenson, also known as “The Washington Post TikTok guy,” posted a video to his social channels. “Dear Jeff Bezos,” it began, “If you’re reading this, you already know. I’m leaving the Washington Post and starting my own company.” And, he went on to explain, he wouldn’t be doing it alone: His...</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=243064</guid>
     </item>    <item>
       <title>Lorenzo residents sign petition to restore night shuttle service</title>

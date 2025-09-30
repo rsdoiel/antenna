@@ -4,8 +4,8 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>30 Sep 25 16:15 -0700</lastBuildDate>
-    <generator>antenna/0.0.8</generator>
+    <lastBuildDate>30 Sep 25 16:36 -0700</lastBuildDate>
+    <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>The &#34;stuck economy,&#34; tariffs and Wall Street</title>
@@ -13,6 +13,11 @@
       <description>
         <![CDATA[<p>While the stock market appears unconcerned about potential red flags in this economy, the bond market's a bit more cautious. As Washington nears a shutdown and the labor market flags, Treasury yields are ticking down. But demand for those safer, long-term bonds hasn’t been uniform. Plus: Trump adds to existing tariffs on Canadian lumber, OpenAI wades into e-commerce waters, and Abha Bhattarai at the Washington Post talks about the “stuck economy.”</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
+      <source:markdown>While the stock market appears unconcerned about potential red flags in this economy, the bond market&#39;s a bit more cautious. As Washington nears a shutdown and the labor market flags, Treasury yields are ticking down. But demand for those safer, long-term bonds hasn’t been uniform. Plus: Trump adds to existing tariffs on Canadian lumber, OpenAI wades into e-commerce waters, and Abha Bhattarai at the Washington Post talks about the “stuck economy.”
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https://www.marketplace.org/newsletters)_ _to our daily or weekly newsletter._
+
+_Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/30/pm_20250930_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K6E5CJWJA1EZXD9A6KXH70KC" length="12277304" type="audio/mpeg" />
       <guid>cid://01K6E5CJWJA1EZXD9A6KXH70KC</guid>
     </item>    <item>
@@ -21,6 +26,17 @@
       <description>
         <![CDATA[<p>Las Vegas is facing a months long decline in tourism, partly due <a href="https://apnews.com/article/international-travel-us-decline-trump-canada-fd1b3fc3225703ee3e521754a171ecfb" class="default">fewer international visitors</a> to the United States overall. So is Las Vegas dead? “Marketplace Morning Report” host David Brancaccio went to find out. He joins Kimberly on the show today to share what he’s hearing from business owners and tourists about the city’s economic slump. </p><br/><p>Here’s everything we talked about today:</p><br/><ul><li><a href="https://www.axios.com/2025/08/09/las-vegas-tourism-slump-signals-wider-economic-slowdown">"Sin City tourism slump signals wider economic slowdown"</a> from Axios</li><li><a href="https://time.com/7309094/las-vegas-tourism-trump-slump/">"An Empty Strip And Fewer Tips: Is Las Vegas In Trouble?"</a> from Time</li><li><p><a href="https://www.cbc.ca/news/world/las-vegas-tourism-canadian-slump-1.7607707">"Las Vegas is hurting as tourism drops. Are Canadians behind the Sin City slump?"</a> from CBC News</p><br/><p>The way forward is together! Step up and be one of 2,000 Marketplace Investors before our fundraiser ends Friday. Give now: <a href="https://support.marketplace.org/smart-sn" title="https://support.marketplace.org/smart-sn">https://support.marketplace.org/smart-sn</a></p></li></ul>]]>
       </description>
+      <source:markdown>Las Vegas is facing a months long decline in tourism, partly due [fewer international visitors](https://apnews.com/article/international-travel-us-decline-trump-canada-fd1b3fc3225703ee3e521754a171ecfb) to the United States overall. So is Las Vegas dead? “Marketplace Morning Report” host David Brancaccio went to find out. He joins Kimberly on the show today to share what he’s hearing from business owners and tourists about the city’s economic slump.
+
+Here’s everything we talked about today:
+
+- [&#34;Sin City tourism slump signals wider economic slowdown&#34;](https://www.axios.com/2025/08/09/las-vegas-tourism-slump-signals-wider-economic-slowdown) from Axios
+- [&#34;An Empty Strip And Fewer Tips: Is Las Vegas In Trouble?&#34;](https://time.com/7309094/las-vegas-tourism-trump-slump/) from Time
+- [&#34;Las Vegas is hurting as tourism drops. Are Canadians behind the Sin City slump?&#34;](https://www.cbc.ca/news/world/las-vegas-tourism-canadian-slump-1.7607707) from CBC News
+
+
+
+  The way forward is together! Step up and be one of 2,000 Marketplace Investors before our fundraiser ends Friday. Give now: [https://support.marketplace.org/smart-sn](https://support.marketplace.org/smart-sn &#34;https://support.marketplace.org/smart-sn&#34;)</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/make_me_smart/2025/09/30/mms_20250930_MMS_128.mp3?awCollectionId=mkp-MMsmrt&awEpisodeId=01K6E0P0A161S7JF2DHTG0ZVV7" length="17084146" type="audio/mpeg" />
       <guid>cid://01K6E0P0A161S7JF2DHTG0ZVV7</guid>
     </item>    <item>
@@ -29,6 +45,7 @@
       <description>
         <![CDATA[<p>The Trump administration’s new $100,000 fee on new H-1B visas for foreign workers threatens to upend hiring in tech. But the fee goes far beyond just that industry. Higher education also uses the H-1B visa, and that fee could be a big problem there. Brendan Cantwell, a professor at Michigan State University, unpacks what these changes mean for universities. But first, Dr. David Kelly, chief global strategist at J.P. Morgan Funds joins us to discuss President Trump's latest tariffs.</p>]]>
       </description>
+      <source:markdown>The Trump administration’s new $100,000 fee on new H-1B visas for foreign workers threatens to upend hiring in tech. But the fee goes far beyond just that industry. Higher education also uses the H-1B visa, and that fee could be a big problem there. Brendan Cantwell, a professor at Michigan State University, unpacks what these changes mean for universities. But first, Dr. David Kelly, chief global strategist at J.P. Morgan Funds joins us to discuss President Trump&#39;s latest tariffs.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/30/mmr_20250930_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K6DG58BTRYWGFDZXS61RQJAB" length="3288344" type="audio/mpeg" />
       <guid>cid://01K6DG58BTRYWGFDZXS61RQJAB</guid>
     </item>    <item>
@@ -37,6 +54,7 @@
       <description>
         <![CDATA[<p>The Trump administration is set to impose new tariffs on foreign soft timber and wood products, citing national security concerns. The White House also released more details on a string of new tariffs the president announced in social media posts last week. Also on the show: why the median price of an existing home is now higher than that of a new one, and what a potential government shutdown means for the Friday jobs report.</p>]]>
       </description>
+      <source:markdown>The Trump administration is set to impose new tariffs on foreign soft timber and wood products, citing national security concerns. The White House also released more details on a string of new tariffs the president announced in social media posts last week. Also on the show: why the median price of an existing home is now higher than that of a new one, and what a potential government shutdown means for the Friday jobs report.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/30/mmr_20250930_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K6D8BX96AW2XH4DGF19C4GQE" length="3442153" type="audio/mpeg" />
       <guid>cid://01K6D8BX96AW2XH4DGF19C4GQE</guid>
     </item>    <item>
@@ -45,6 +63,7 @@
       <description>
         <![CDATA[<p><em>From the BBC World Service:</em> A Chinese national in London has pleaded guilty to illegally acquiring and possessing bitcoin in what's thought to be the world's biggest bitcoin seizure case. Brewing giant Asahi has suspended orders and shipping operations after its 30 domestic plants were hit by a massive cyber attack. And a trade deal that's been the cornerstone of U.S.-Africa economic relations for 25 years is set to expire on Tuesday.</p>]]>
       </description>
+      <source:markdown>_From the BBC World Service:_ A Chinese national in London has pleaded guilty to illegally acquiring and possessing bitcoin in what&#39;s thought to be the world&#39;s biggest bitcoin seizure case. Brewing giant Asahi has suspended orders and shipping operations after its 30 domestic plants were hit by a massive cyber attack. And a trade deal that&#39;s been the cornerstone of U.S.-Africa economic relations for 25 years is set to expire on Tuesday.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/30/mmr_20250930_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K6D1RVVBVY5B4JCHQ0ZZ9NT9" length="3272537" type="audio/mpeg" />
       <guid>cid://01K6D1RVVBVY5B4JCHQ0ZZ9NT9</guid>
     </item>    <item>
@@ -53,6 +72,7 @@
       <description>
         <![CDATA[The export-led industrial model that Germany has pursued for decades is now at a crossroads.]]>
       </description>
+      <source:markdown>The export-led industrial model that Germany has pursued for decades is now at a crossroads.</source:markdown>
       <guid>cid://https://www.npr.org/sections/planet-money/2025/09/30/g-s1-90937/germany-thrived-in-the-first-china-shock-but-the-next-one-could-prove-catastrophic</guid>
     </item>    <item>
       <title>Colleges turn to video essays to counter AI-written submissions</title>
@@ -60,6 +80,9 @@
       <description>
         <![CDATA[<p>Colleges and universities are dealing with a growing problem of college admission essays being written by artificial intelligence. Rather than try to figure out which essays are AI-generated, some schools are turning to an alternative approach: Have students submit a video instead. </p><br/><p>Marketplace’s Nova Safo spoke with Anne Kim, senior editor at Washington Monthly magazine who recently wrote about this new strategy that's gaining steam in higher education.</p>]]>
       </description>
+      <source:markdown>Colleges and universities are dealing with a growing problem of college admission essays being written by artificial intelligence. Rather than try to figure out which essays are AI-generated, some schools are turning to an alternative approach: Have students submit a video instead.
+
+Marketplace’s Nova Safo spoke with Anne Kim, senior editor at Washington Monthly magazine who recently wrote about this new strategy that&#39;s gaining steam in higher education.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/30/tech_20250930_0930_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K63HVCHSPMWPG3A0XYD9FGX0" length="10479093" type="audio/mpeg" />
       <guid>cid://01K63HVCHSPMWPG3A0XYD9FGX0</guid>
     </item>    <item>
@@ -68,6 +91,11 @@
       <description>
         <![CDATA[<p>Pending home sales rose in August, boosted by a slight drop in mortgage rates. Overall, though, the market remains sluggish — owners don't want to give up their locked-in low rates and buyers are waiting to see if rates and other costs will cool. Also in this episode: Banks respond to the Fed rate cut, retailers prepare for holiday hiring, and tech companies hope nuclear is the answer to data center energy demand.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
+      <source:markdown>Pending home sales rose in August, boosted by a slight drop in mortgage rates. Overall, though, the market remains sluggish — owners don&#39;t want to give up their locked-in low rates and buyers are waiting to see if rates and other costs will cool. Also in this episode: Banks respond to the Fed rate cut, retailers prepare for holiday hiring, and tech companies hope nuclear is the answer to data center energy demand.
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https://www.marketplace.org/newsletters)_ _to our daily or weekly newsletter._
+
+_Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/29/pm_20250929_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K6BH2KMQSC618A4MT0RNJ7BD" length="12382826" type="audio/mpeg" />
       <guid>cid://01K6BH2KMQSC618A4MT0RNJ7BD</guid>
     </item>    <item>
@@ -76,6 +104,11 @@
       <description>
         <![CDATA[<p>Hey Smarties! Today we’re sharing a special bonus episode from “How We Survive.” It’s a conversation between host Amy Scott, “Marketplace” host Kai Ryssdal and Pulitzer Prize winning science writer Elizabeth Kolbert. Together, they dig into how the climate crisis is triggering economic disruption. Plus, some solutions to be hopeful about.</p><br/><p>And, we get a peek into Kolbert’s forthcoming book, <a href="https://www.penguinrandomhouse.com/books/781145/life-on-a-little-known-planet-by-elizabeth-kolbert/" class="default">”Life on a Little-Known Planet: Dispatches from a Changing World.”</a> In this collection of her most influential essays, Kolbert takes readers around the globe, telling stories about caterpillars, whale conversations and the people trying to preserve our planet.</p><br/><p>This conversation was recorded live, over Zoom, in front of an audience. You can watch the webinar <a href="https://www.youtube.com/watch?v=X5QiojlV640" class="default">here</a>. The event is presented by Odoo with additional underwriting support from The Economist. </p>]]>
       </description>
+      <source:markdown>Hey Smarties! Today we’re sharing a special bonus episode from “How We Survive.” It’s a conversation between host Amy Scott, “Marketplace” host Kai Ryssdal and Pulitzer Prize winning science writer Elizabeth Kolbert. Together, they dig into how the climate crisis is triggering economic disruption. Plus, some solutions to be hopeful about.
+
+And, we get a peek into Kolbert’s forthcoming book, [”Life on a Little-Known Planet: Dispatches from a Changing World.”](https://www.penguinrandomhouse.com/books/781145/life-on-a-little-known-planet-by-elizabeth-kolbert/) In this collection of her most influential essays, Kolbert takes readers around the globe, telling stories about caterpillars, whale conversations and the people trying to preserve our planet.
+
+This conversation was recorded live, over Zoom, in front of an audience. You can watch the webinar [here](https://www.youtube.com/watch?v=X5QiojlV640). The event is presented by Odoo with additional underwriting support from The Economist.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/how_we_survive_climate/2025/09/29/howwesurviveclimate_20250929_HWS_Climate_Webinar_128.mp3?awCollectionId=mkp-MMsmrt&awEpisodeId=01K63RZEFCR54MRE6HX24RA9V6" length="49226984" type="audio/mpeg" />
       <guid>cid://01K63RZEFCR54MRE6HX24RA9V6</guid>
     </item>    <item>
@@ -84,6 +117,7 @@
       <description>
         <![CDATA[<p>President Trump and congressional leaders are meeting at the White House on Monday to try and avoid a government shutdown. But both sides are digging their heels in. This brinksmanship is happening the same week we are set to get some pretty important government data. Julia Coronado, founder and president of MacroPolicy Perspectives, and a professor at the University of Texas-Austin, joins us to talk about it. Plus, has Canada lost its trade dispute with the U.S.?</p>]]>
       </description>
+      <source:markdown>President Trump and congressional leaders are meeting at the White House on Monday to try and avoid a government shutdown. But both sides are digging their heels in. This brinksmanship is happening the same week we are set to get some pretty important government data. Julia Coronado, founder and president of MacroPolicy Perspectives, and a professor at the University of Texas-Austin, joins us to talk about it. Plus, has Canada lost its trade dispute with the U.S.?</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/29/mmr_20250929_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K6AZPFXZDX9M956GT1S2ZZVK" length="3305480" type="audio/mpeg" />
       <guid>cid://01K6AZPFXZDX9M956GT1S2ZZVK</guid>
     </item>    <item>
@@ -92,6 +126,7 @@
       <description>
         <![CDATA[<p>Texas oil and gas firms are feeling pessimistic about the upcoming year. In the latest Dallas Fed survey, energy firms reported lower production, increased costs and heightened uncertainty. Oil is a good chunk of the Texas economy, and the Texas economy is a good chunk of the U.S. economy — around 9%. Also on the show: auto parts manufacturer First Brands files for Chapter 11 bankruptcy and the USDA revives its farm-to-school grant program.</p>]]>
       </description>
+      <source:markdown>Texas oil and gas firms are feeling pessimistic about the upcoming year. In the latest Dallas Fed survey, energy firms reported lower production, increased costs and heightened uncertainty. Oil is a good chunk of the Texas economy, and the Texas economy is a good chunk of the U.S. economy — around 9%. Also on the show: auto parts manufacturer First Brands files for Chapter 11 bankruptcy and the USDA revives its farm-to-school grant program.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/29/mmr_20250929_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K6APD1PA7N6GS2K5RE3SB36X" length="3323243" type="audio/mpeg" />
       <guid>cid://01K6APD1PA7N6GS2K5RE3SB36X</guid>
     </item>    <item>
@@ -100,6 +135,7 @@
       <description>
         <![CDATA[<p><em>From the BBC World Service:</em> The decision at Toyota in Brazil comes after intense storms halted production at its factories in the state of Sao Paulo, and many of the workers will be paid in full during the closed period. Hackers have attempted to recruit the BBC's cyber correspondent into helping them infiltrate the broadcaster's systems. And has Canada lost in the trade war with the U.S.? Over the past month, it’s removed billions of dollars in retaliatory tariffs on American goods.</p>]]>
       </description>
+      <source:markdown>_From the BBC World Service:_ The decision at Toyota in Brazil comes after intense storms halted production at its factories in the state of Sao Paulo, and many of the workers will be paid in full during the closed period. Hackers have attempted to recruit the BBC&#39;s cyber correspondent into helping them infiltrate the broadcaster&#39;s systems. And has Canada lost in the trade war with the U.S.? Over the past month, it’s removed billions of dollars in retaliatory tariffs on American goods.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/29/mmr_20250929_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K6AFBDNPF0X55AEPA0XFPGRQ" length="3230323" type="audio/mpeg" />
       <guid>cid://01K6AFBDNPF0X55AEPA0XFPGRQ</guid>
     </item>    <item>
@@ -108,6 +144,9 @@
       <description>
         <![CDATA[<p>Researchers at several universities tested how successful artificial intelligence can be at political persuasion, and found some AI chatbots were 40-50% more successful than a static message at getting people to change their views. And those views often stayed changed weeks later.</p><br/><p>Marketplace’s Nova Safo spoke with David Rand, one of the researchers involved in the study who’s also a professor of information science and marketing management at Cornell University.</p>]]>
       </description>
+      <source:markdown>Researchers at several universities tested how successful artificial intelligence can be at political persuasion, and found some AI chatbots were 40-50% more successful than a static message at getting people to change their views. And those views often stayed changed weeks later.
+
+Marketplace’s Nova Safo spoke with David Rand, one of the researchers involved in the study who’s also a professor of information science and marketing management at Cornell University.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/29/tech_20250929_0929_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K63HE1PRX0TTH8T8Y8B42PC9" length="6150290" type="audio/mpeg" />
       <guid>cid://01K63HE1PRX0TTH8T8Y8B42PC9</guid>
     </item>    <item>
@@ -116,6 +155,7 @@
       <description>
         <![CDATA[Buying a home is a conventional milestone for couples. But as home prices skyrocket, many Americans are buying homes with someone who isn't their romantic partner.]]>
       </description>
+      <source:markdown>Buying a home is a conventional milestone for couples. But as home prices skyrocket, many Americans are buying homes with someone who isn&#39;t their romantic partner.</source:markdown>
       <guid>cid://https://www.npr.org/2025/09/28/nx-s1-5497777/housing-buying-friends-siblings-affordability</guid>
     </item>    <item>
       <title>Make Me Smart: Fat Bear Week Edition</title>
@@ -123,6 +163,20 @@
       <description>
         <![CDATA[<p>On today’s show, Alaska Public Media reporter Ava White joins Kimberly to make us smarter about Fat Bear Week and the issues that are top of mind for Alaskans right now. Alaska residents receive an annual check funded by the state’s oil royalties. But its purchasing power is lower than ever. We’ll get into it. Plus, we’ll weigh in on AI live translations and a rise in Hamburger Helper sales during a round of Half Full/Half Empty!</p><br/><p>Here’s everything we talked about today:</p><br/><ul><li><a href="https://alaskapublic.org/news/environment/2025-09-25/meet-the-superfans-going-wild-for-alaskas-fattest-bears">"Meet the superfans going wild for Alaska’s fattest bears"</a> from Alaska Public Media</li><li><a href="https://www.kyuk.org/politics/2025-08-01/alaska-ignored-warning-signs-of-a-budget-crisis-now-it-doesnt-have-money-to-fix-crumbling-schools">"Alaska ignored warning signs of a budget crisis. Now it doesn’t have money to fix crumbling schools"</a> from KYUK</li><li><a href="https://alaskapublic.org/news/economy/2025-09-19/the-2025-alaska-permanent-fund-dividend-will-be-1-000">”The 2025 Alaska Permanent Fund dividend will be $1,000”</a> from Alaska Public Media</li><li><a href="https://www.knba.org/news/2025-07-15/north-slope-leaders-applaud-tax-breaks-for-whalers-in-the-gop-megabill">"North Slope leaders applaud tax breaks for whalers in the GOP megabill”</a> from KNBA</li><li><a href="https://www.marketplace.org/story/2025/09/24/whats-the-deal-with-beveragefocused-chain-spinoffs">"Why are restaurant chains opening beverage-focused spinoffs?"</a> from Marketplace</li><li><a href="https://www.washingtonpost.com/business/2025/09/26/ai-translation-jobs/">"AI is taking on live translations. But jobs and meaning are getting lost."</a> from The Washington Post</li><li><a href="https://www.fastcompany.com/91405987/mercedes-brings-buttons-back-to-cars">"Touchscreens in cars are finally on their way out. Good riddance"</a> from Fast Company</li><li><a href="https://www.nytimes.com/2025/09/20/business/hamburger-helper-food-prices.html?partner=slack&amp;smid=sl-share">"Hamburger Helper Sales Rise as Americans Try to Stretch Their Food Dollars"</a> from The New York Times</li></ul><br/><br/><p>It’s Half-Priced Hoodie Weekend! Give $10 a month to support our journalism today, and we’ll thank you with a cozy Marketplace zip-up hoodie: <a href="https://support.marketplace.org/smart-sn" class="ms-outlook-linkify">https://support.marketplace.org/smart-sn</a></p>]]>
       </description>
+      <source:markdown>On today’s show, Alaska Public Media reporter Ava White joins Kimberly to make us smarter about Fat Bear Week and the issues that are top of mind for Alaskans right now. Alaska residents receive an annual check funded by the state’s oil royalties. But its purchasing power is lower than ever. We’ll get into it. Plus, we’ll weigh in on AI live translations and a rise in Hamburger Helper sales during a round of Half Full/Half Empty!
+
+Here’s everything we talked about today:
+
+- [&#34;Meet the superfans going wild for Alaska’s fattest bears&#34;](https://alaskapublic.org/news/environment/2025-09-25/meet-the-superfans-going-wild-for-alaskas-fattest-bears) from Alaska Public Media
+- [&#34;Alaska ignored warning signs of a budget crisis. Now it doesn’t have money to fix crumbling schools&#34;](https://www.kyuk.org/politics/2025-08-01/alaska-ignored-warning-signs-of-a-budget-crisis-now-it-doesnt-have-money-to-fix-crumbling-schools) from KYUK
+- [”The 2025 Alaska Permanent Fund dividend will be $1,000”](https://alaskapublic.org/news/economy/2025-09-19/the-2025-alaska-permanent-fund-dividend-will-be-1-000) from Alaska Public Media
+- [&#34;North Slope leaders applaud tax breaks for whalers in the GOP megabill”](https://www.knba.org/news/2025-07-15/north-slope-leaders-applaud-tax-breaks-for-whalers-in-the-gop-megabill) from KNBA
+- [&#34;Why are restaurant chains opening beverage-focused spinoffs?&#34;](https://www.marketplace.org/story/2025/09/24/whats-the-deal-with-beveragefocused-chain-spinoffs) from Marketplace
+- [&#34;AI is taking on live translations. But jobs and meaning are getting lost.&#34;](https://www.washingtonpost.com/business/2025/09/26/ai-translation-jobs/) from The Washington Post
+- [&#34;Touchscreens in cars are finally on their way out. Good riddance&#34;](https://www.fastcompany.com/91405987/mercedes-brings-buttons-back-to-cars) from Fast Company
+- [&#34;Hamburger Helper Sales Rise as Americans Try to Stretch Their Food Dollars&#34;](https://www.nytimes.com/2025/09/20/business/hamburger-helper-food-prices.html?partner=slack&#38;smid=sl-share) from The New York Times
+
+It’s Half-Priced Hoodie Weekend! Give $10 a month to support our journalism today, and we’ll thank you with a cozy Marketplace zip-up hoodie: [https://support.marketplace.org/smart-sn](https://support.marketplace.org/smart-sn)</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/make_me_smart/2025/09/26/mms_20250926_MMS_128.mp3?awCollectionId=mkp-MMsmrt&awEpisodeId=01K64164ADYV82AGKTGMPM9B1S" length="25390249" type="audio/mpeg" />
       <guid>cid://01K64164ADYV82AGKTGMPM9B1S</guid>
     </item>    <item>
@@ -131,6 +185,11 @@
       <description>
         <![CDATA[<p>In August, Americans spent more than they made for the third month in a row. Thanks to tariff-induced price bumps, consumers are dipping into savings and using credit cards to keep up with their typical spending. In this episode, how long can consumers stay resilient? Plus: LA businesses prepare for ongoing ICE raids, a ski group vies to manage U.S. surfing at the 2028 Olympics, and an artist’s work changes in the age of e-commerce. </p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
+      <source:markdown>In August, Americans spent more than they made for the third month in a row. Thanks to tariff-induced price bumps, consumers are dipping into savings and using credit cards to keep up with their typical spending. In this episode, how long can consumers stay resilient? Plus: LA businesses prepare for ongoing ICE raids, a ski group vies to manage U.S. surfing at the 2028 Olympics, and an artist’s work changes in the age of e-commerce.
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https://www.marketplace.org/newsletters)_ _to our daily or weekly newsletter._
+
+_Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/26/pm_20250926_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K63SADYDGN3188QHVQRNSYRV" length="12727225" type="audio/mpeg" />
       <guid>cid://01K63SADYDGN3188QHVQRNSYRV</guid>
     </item>    <item>
@@ -139,6 +198,7 @@
       <description>
         <![CDATA[President Trump has ordered steep new tariffs on imported drugs, home furnishings, and trucks. The president's import taxes are pushing inflation higher. But that's not slowing consumer spending.]]>
       </description>
+      <source:markdown>President Trump has ordered steep new tariffs on imported drugs, home furnishings, and trucks. The president&#39;s import taxes are pushing inflation higher. But that&#39;s not slowing consumer spending.</source:markdown>
       <guid>cid://https://www.npr.org/2025/09/26/nx-s1-5554324/trump-announces-a-new-round-of-tariffs</guid>
     </item>    <item>
       <title>The status of a potential U.S.-owned TikTok</title>
@@ -146,6 +206,7 @@
       <description>
         <![CDATA[<p>President Donald Trump signed an executive order yesterday that paves the way for TikTok to be controlled by U.S. interests, avoiding a Congressional ban. TikTok's owner, ByteDance, has not acknowledged that this transaction is taking place. We'll parse the details we know of the plan, including who's purchasing, what it means for the app's algorithm, and more. And later, we'll learn why so much foreign investment is still flowing to the U.S.</p>]]>
       </description>
+      <source:markdown>President Donald Trump signed an executive order yesterday that paves the way for TikTok to be controlled by U.S. interests, avoiding a Congressional ban. TikTok&#39;s owner, ByteDance, has not acknowledged that this transaction is taking place. We&#39;ll parse the details we know of the plan, including who&#39;s purchasing, what it means for the app&#39;s algorithm, and more. And later, we&#39;ll learn why so much foreign investment is still flowing to the U.S.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/26/mmr_20250926_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K635874V4G6RC6H1T71JX2CR" length="3515923" type="audio/mpeg" />
       <guid>cid://01K635874V4G6RC6H1T71JX2CR</guid>
     </item>    <item>
@@ -154,6 +215,7 @@
       <description>
         <![CDATA[<p>Earlier this month, a company called Tricolor abruptly filed for bankruptcy. The Texas-based firm offered auto loans to buyers with poor (or no) credit ratings. That so-called “subprime” auto market has grown to $80 billion. But Tricolor's collapse could make it harder for some buyers to get car loans. We hear more. Plus, President Donald Trump unveils a new batch of tariffs, and D.C. braces for more economic pain ahead of a looming shutdown.</p>]]>
       </description>
+      <source:markdown>Earlier this month, a company called Tricolor abruptly filed for bankruptcy. The Texas-based firm offered auto loans to buyers with poor (or no) credit ratings. That so-called “subprime” auto market has grown to $80 billion. But Tricolor&#39;s collapse could make it harder for some buyers to get car loans. We hear more. Plus, President Donald Trump unveils a new batch of tariffs, and D.C. braces for more economic pain ahead of a looming shutdown.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/26/mmr_20250926_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K62WJ4F8QJYRCP2N4SQYA45J" length="3339962" type="audio/mpeg" />
       <guid>cid://01K62WJ4F8QJYRCP2N4SQYA45J</guid>
     </item>    <item>
@@ -162,6 +224,7 @@
       <description>
         <![CDATA[<p><em>From the BBC World Service:</em> President Donald Trump has announced new tariffs, including a 100% levy on branded or patented drug imports from Oct. 1 onward — unless a company is building a factory in the United States. Which countries will be most affected? Then, Ethiopia has opened a controversial megadam built on the Nile River after 14 years of construction. It's at the center of a diplomatic spat with countries that fear their water supplies could be affected.</p>]]>
       </description>
+      <source:markdown>_From the BBC World Service:_ President Donald Trump has announced new tariffs, including a 100% levy on branded or patented drug imports from Oct. 1 onward — unless a company is building a factory in the United States. Which countries will be most affected? Then, Ethiopia has opened a controversial megadam built on the Nile River after 14 years of construction. It&#39;s at the center of a diplomatic spat with countries that fear their water supplies could be affected.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/26/mmr_20250926_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K62T69FEGD1WAX0DT3ZV5XAX" length="3326663" type="audio/mpeg" />
       <guid>cid://01K62T69FEGD1WAX0DT3ZV5XAX</guid>
     </item>    <item>
@@ -170,6 +233,7 @@
       <description>
         <![CDATA[<p>On this week’s Marketplace Tech Bytes: Week in Review, Nova Safo speaks with Axios tech policy reporter Maria Curi about the details and lingering unknowns of President Donald Trump's new, $100,000 fee on incoming H-1B visas, how secret service authorities dismantled a network of more than 100,000 SIM cards that could have been used to disrupt communications on a massive scale and why French fans of the video game franchise “Tomb Raider” were up in arms over an AI-generated voice. </p>]]>
       </description>
+      <source:markdown>On this week’s Marketplace Tech Bytes: Week in Review, Nova Safo speaks with Axios tech policy reporter Maria Curi about the details and lingering unknowns of President Donald Trump&#39;s new, $100,000 fee on incoming H-1B visas, how secret service authorities dismantled a network of more than 100,000 SIM cards that could have been used to disrupt communications on a massive scale and why French fans of the video game franchise “Tomb Raider” were up in arms over an AI-generated voice.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/26/tech_20250926_0926_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K619F0PX0N7X3H09YBNPB344" length="11165382" type="audio/mpeg" />
       <guid>cid://01K619F0PX0N7X3H09YBNPB344</guid>
     </item>    <item>
@@ -178,6 +242,7 @@
       <description>
         <![CDATA[President Trump said he will put import taxes of 100% on pharmaceutical drugs, 50% on kitchen cabinets and bathroom vanities, 30% on upholstered furniture and 25% on heavy trucks starting on Oct. 1.]]>
       </description>
+      <source:markdown>President Trump said he will put import taxes of 100% on pharmaceutical drugs, 50% on kitchen cabinets and bathroom vanities, 30% on upholstered furniture and 25% on heavy trucks starting on Oct. 1.</source:markdown>
       <guid>cid://https://www.npr.org/2025/09/26/nx-s1-5553721/trump-tariffs-drugs-home-furnishings-trucks</guid>
     </item>    <item>
       <title>A quick GDP refresher</title>
@@ -185,6 +250,11 @@
       <description>
         <![CDATA[<p>Turns out the economy grew faster than we initially thought in the second quarter of 2025. Between a slowing job market and uncertain trade policies, an upward revision to GDP came as a bit of a surprise. In this episode, a quick lesson on how GDP is calculated and why consumer spending drove the acceleration. Plus: Hiring-related text scams get more believable, the housing market stays stuck, and companies ramp up spending on durable goods.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
+      <source:markdown>Turns out the economy grew faster than we initially thought in the second quarter of 2025. Between a slowing job market and uncertain trade policies, an upward revision to GDP came as a bit of a surprise. In this episode, a quick lesson on how GDP is calculated and why consumer spending drove the acceleration. Plus: Hiring-related text scams get more believable, the housing market stays stuck, and companies ramp up spending on durable goods.
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https://www.marketplace.org/newsletters)_ _to our daily or weekly newsletter._
+
+_Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/25/pm_20250925_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K619CFW40K48SPH075FEN7TC" length="12533710" type="audio/mpeg" />
       <guid>cid://01K619CFW40K48SPH075FEN7TC</guid>
     </item>    <item>
@@ -193,6 +263,7 @@
       <description>
         <![CDATA[The "silver tsunami" of aging Americans is often seen as a potential way to alleviate U.S. housing affordability woes. But an influx of empty-nester homes into the market may not have much impact.]]>
       </description>
+      <source:markdown>The &#34;silver tsunami&#34; of aging Americans is often seen as a potential way to alleviate U.S. housing affordability woes. But an influx of empty-nester homes into the market may not have much impact.</source:markdown>
       <guid>cid://https://www.npr.org/2025/09/25/nx-s1-5551046/could-a-silver-tsunami-of-aging-americans-fix-the-housing-crisis</guid>
     </item>    <item>
       <title>The music industry vs. AI</title>
@@ -200,6 +271,20 @@
       <description>
         <![CDATA[<p>Today we’re diving into the business of music. Trapital founder Dan Runcie joins Kimberly to explain what Anthropic’s recent copyright settlement with authors could mean for record labels who’ve sued AI companies, the “fair use” debates dominating the music industry, and why even the biggest stars are struggling to create chart-toppers these days. Plus, we’ll celebrate a win from one of our listeners.</p><br/><p>Here’s everything we talked about today:</p><br/><ul><li><a href="https://www.trapital.com/episodes/the-generative-ai-music-sweepstakes">"The Generative AI Music Sweepstakes"</a> from Trapital </li><li><a href="https://www.wired.com/story/anthropic-settlement-lawsuit-copyright/">"Anthropic Agrees to Pay Authors at Least $1.5 Billion in AI Copyright Settlement"</a> from Wired</li><li><a href="https://www.billboard.com/pro/suno-lawsuit-ai-company-pirated-youtube-songs-record-labels/">"Labels Claim Suno Pirated Songs From YouTube in Bulked-Up AI Copyright Lawsuit"</a> from Billboard</li><li><a href="https://www.techspot.com/news/109278-youtube-copyright-fight-rick-beato-warns-umg-claims.html">"YouTube copyright fight: Rick Beato warns UMG claims over short music clips could end his channel"</a> from TechSpot </li><li>TikTok from Lizzo</li><li><p><a href="https://www.billboard.com/music/music-news/faye-webster-kneecap-remove-music-israel-1236070064/">"Kneecap, Faye Webster &amp; 400 Other Artists Remove Their Catalogs From Israel: ‘No Music for Genocide’"</a> from Billboard </p><br/><p>Join us tomorrow for “Economics on Tap.” The <strong><a href="https://www.youtube.com/@marketplaceAPM/streams" class="externallink">YouTube livestream</a></strong> starts at 3:30 p.m. Pacific time, 6:30 p.m. Eastern.</p></li></ul>]]>
       </description>
+      <source:markdown>Today we’re diving into the business of music. Trapital founder Dan Runcie joins Kimberly to explain what Anthropic’s recent copyright settlement with authors could mean for record labels who’ve sued AI companies, the “fair use” debates dominating the music industry, and why even the biggest stars are struggling to create chart-toppers these days. Plus, we’ll celebrate a win from one of our listeners.
+
+Here’s everything we talked about today:
+
+- [&#34;The Generative AI Music Sweepstakes&#34;](https://www.trapital.com/episodes/the-generative-ai-music-sweepstakes) from Trapital
+- [&#34;Anthropic Agrees to Pay Authors at Least $1.5 Billion in AI Copyright Settlement&#34;](https://www.wired.com/story/anthropic-settlement-lawsuit-copyright/) from Wired
+- [&#34;Labels Claim Suno Pirated Songs From YouTube in Bulked-Up AI Copyright Lawsuit&#34;](https://www.billboard.com/pro/suno-lawsuit-ai-company-pirated-youtube-songs-record-labels/) from Billboard
+- [&#34;YouTube copyright fight: Rick Beato warns UMG claims over short music clips could end his channel&#34;](https://www.techspot.com/news/109278-youtube-copyright-fight-rick-beato-warns-umg-claims.html) from TechSpot
+- TikTok from Lizzo
+- [&#34;Kneecap, Faye Webster &#38; 400 Other Artists Remove Their Catalogs From Israel: ‘No Music for Genocide’&#34;](https://www.billboard.com/music/music-news/faye-webster-kneecap-remove-music-israel-1236070064/) from Billboard
+
+
+
+  Join us tomorrow for “Economics on Tap.” The **[YouTube livestream](https://www.youtube.com/@marketplaceAPM/streams)** starts at 3:30 p.m. Pacific time, 6:30 p.m. Eastern.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/make_me_smart/2025/09/25/mms_20250925_Make_Me_Smart_128.mp3?awCollectionId=mkp-MMsmrt&awEpisodeId=01K618177HEBKQMZ08V5BNPJJK" length="18471771" type="audio/mpeg" />
       <guid>cid://01K618177HEBKQMZ08V5BNPJJK</guid>
     </item>    <item>
@@ -208,6 +293,7 @@
       <description>
         <![CDATA[The coffee giant plans to cut 900 corporate jobs and shut down about 1% of its stores as the chain's turnaround plan approaches a one-year mark.]]>
       </description>
+      <source:markdown>The coffee giant plans to cut 900 corporate jobs and shut down about 1% of its stores as the chain&#39;s turnaround plan approaches a one-year mark.</source:markdown>
       <guid>cid://https://www.npr.org/2025/09/25/nx-s1-5553386/starbucks-closes-stores-cuts-900-jobs</guid>
     </item>    <item>
       <title>Spilling the tea on beverage splurges</title>
@@ -215,6 +301,7 @@
       <description>
         <![CDATA[<p>A lunch out may give you sticker shock, but a popping boba won't pop the budget, right? While some consumers are trying to be more money-conscious, many are still spending big on eating and drinking out. Chains like Chick-fil-A, Taco Bell, and McDonald's are all trying to cash in — in part by offering fancier, pricier, non-alcoholic drinks. Also on the program, we'll check in on New England's economy.</p>]]>
       </description>
+      <source:markdown>A lunch out may give you sticker shock, but a popping boba won&#39;t pop the budget, right? While some consumers are trying to be more money-conscious, many are still spending big on eating and drinking out. Chains like Chick-fil-A, Taco Bell, and McDonald&#39;s are all trying to cash in — in part by offering fancier, pricier, non-alcoholic drinks. Also on the program, we&#39;ll check in on New England&#39;s economy.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/25/mmr_20250925_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K60JNE91FVHEVBPZG88TWJNM" length="3354799" type="audio/mpeg" />
       <guid>cid://01K60JNE91FVHEVBPZG88TWJNM</guid>
     </item>    <item>
@@ -223,6 +310,7 @@
       <description>
         <![CDATA[<p>The Office of Management and Budget sent out a memo with stark instructions for heads of federal agencies: They should consider layoff notices for all employees in programs that haven’t been funded yet for the government’s 2026 fiscal year, which starts Oct. 1. Also on the show: The U.S. is in negotiations to lend $20 billion to Argentina’s central bank, and climate change is treatening New Mexico's centuries-old irrigation system.</p>]]>
       </description>
+      <source:markdown>The Office of Management and Budget sent out a memo with stark instructions for heads of federal agencies: They should consider layoff notices for all employees in programs that haven’t been funded yet for the government’s 2026 fiscal year, which starts Oct. 1. Also on the show: The U.S. is in negotiations to lend $20 billion to Argentina’s central bank, and climate change is treatening New Mexico&#39;s centuries-old irrigation system.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/25/mmr_20250925_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K609R1EG7SXQ3ADMJ7QWQ49Y" length="3268282" type="audio/mpeg" />
       <guid>cid://01K609R1EG7SXQ3ADMJ7QWQ49Y</guid>
     </item>    <item>
@@ -231,6 +319,7 @@
       <description>
         <![CDATA[<p><em>From the BBC World Service:</em> Apple has called for the European Union's antitrust watchdogs to scrap some of its tech regulations, which it says lead to a worse experience for users. It's not the first time Apple has voiced its opposition to Europe's Digital Markets Act. We hear more. Plus, China has — for the first time — set a target for reducing carbon emissions. And, a Dutch village famous for its windmills is planning to charge visitors to see them.</p>]]>
       </description>
+      <source:markdown>_From the BBC World Service:_ Apple has called for the European Union&#39;s antitrust watchdogs to scrap some of its tech regulations, which it says lead to a worse experience for users. It&#39;s not the first time Apple has voiced its opposition to Europe&#39;s Digital Markets Act. We hear more. Plus, China has — for the first time — set a target for reducing carbon emissions. And, a Dutch village famous for its windmills is planning to charge visitors to see them.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/25/mmr_20250925_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K608CGW4ZBRAQTRX5F2JFA7E" length="3163241" type="audio/mpeg" />
       <guid>cid://01K608CGW4ZBRAQTRX5F2JFA7E</guid>
     </item>    <item>
@@ -239,6 +328,9 @@
       <description>
         <![CDATA[<p>The EV tax credit expires September 30, and Americans have been rushing to take advantage before the deadline. But according to reporting from Marketplace’s Henry Epp, many dealerships are facing new friction when processing tax credits with the IRS.</p><br/><p>Marketplace’s Nova Safo spoke with Epp about the new IRS requirements and how dealerships are handling the changes.</p>]]>
       </description>
+      <source:markdown>The EV tax credit expires September 30, and Americans have been rushing to take advantage before the deadline. But according to reporting from Marketplace’s Henry Epp, many dealerships are facing new friction when processing tax credits with the IRS.
+
+Marketplace’s Nova Safo spoke with Epp about the new IRS requirements and how dealerships are handling the changes.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/25/tech_20250925_0925_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K5Y51GG461HDWQ3N09X6YWVQ" length="7247015" type="audio/mpeg" />
       <guid>cid://01K5Y51GG461HDWQ3N09X6YWVQ</guid>
     </item>    <item>
@@ -247,6 +339,11 @@
       <description>
         <![CDATA[<p>Disney’s streaming platforms — Disney+, Hulu, and ESPN — will see price hikes come October 21. They aren’t alone. As the streaming wars escalate, companies have switched focus to profit over customer volume, while consumers whittle down their subscriptions. Also in this episode: A soybean farmer faces trade war realities, manufacturers pour cash into new equipment, and Warren Littlefield, producer of “Fargo," “The Handmaid’s Tale” and more discusses the TV business with Kai.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
+      <source:markdown>Disney’s streaming platforms — Disney+, Hulu, and ESPN — will see price hikes come October 21. They aren’t alone. As the streaming wars escalate, companies have switched focus to profit over customer volume, while consumers whittle down their subscriptions. Also in this episode: A soybean farmer faces trade war realities, manufacturers pour cash into new equipment, and Warren Littlefield, producer of “Fargo,&#34; “The Handmaid’s Tale” and more discusses the TV business with Kai.
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https://www.marketplace.org/newsletters)_ _to our daily or weekly newsletter._
+
+_Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/24/pm_20250924_Marketplace_PM_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K5YH5JKMQGQVW7W5AABGYNM4" length="12720746" type="audio/mpeg" />
       <guid>cid://01K5YH5JKMQGQVW7W5AABGYNM4</guid>
     </item>    <item>
@@ -255,6 +352,7 @@
       <description>
         <![CDATA[<p>Every fall for about three decades, the U.S. Department of Agriculture comes out with a report assessing food security across the country. We'll get the latest in a month, but it will be the last. The USDA is terminating the annual report, saying it was “politicized.” Researchers, however, say it was vital. Also on the show: no sure thing on the future of interest rates and the costs for Chinese adoptees to search for their birth family.</p>]]>
       </description>
+      <source:markdown>Every fall for about three decades, the U.S. Department of Agriculture comes out with a report assessing food security across the country. We&#39;ll get the latest in a month, but it will be the last. The USDA is terminating the annual report, saying it was “politicized.” Researchers, however, say it was vital. Also on the show: no sure thing on the future of interest rates and the costs for Chinese adoptees to search for their birth family.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/24/mmr_20250924_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5Y146AMRC88ST5XTF0DQEHX" length="3560017" type="audio/mpeg" />
       <guid>cid://01K5Y146AMRC88ST5XTF0DQEHX</guid>
     </item>    <item>
@@ -263,6 +361,7 @@
       <description>
         <![CDATA[<p>After being pulled by ABC, Jimmy Kimmel's late-night show returned to TV last night. Thing is, station groups Nexstar and Sinclair — which control ABC affiliates that reach about 20% of the country — opted out. Nexstar is working on a $6 billion merger with Tegna, awaiting Trump administration approval. All of this highlights a widening gap between big TV networks and local station owners. And later: If Republicans and Democrats on Capitol Hill can’t reach a deal, many federal agencies will close a week from today.</p>]]>
       </description>
+      <source:markdown>After being pulled by ABC, Jimmy Kimmel&#39;s late-night show returned to TV last night. Thing is, station groups Nexstar and Sinclair — which control ABC affiliates that reach about 20% of the country — opted out. Nexstar is working on a $6 billion merger with Tegna, awaiting Trump administration approval. All of this highlights a widening gap between big TV networks and local station owners. And later: If Republicans and Democrats on Capitol Hill can’t reach a deal, many federal agencies will close a week from today.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/24/mmr_20250924_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5XRKEQJ6S11FPX6RTEQG6HY" length="3380086" type="audio/mpeg" />
       <guid>cid://01K5XRKEQJ6S11FPX6RTEQG6HY</guid>
     </item>    <item>
@@ -271,6 +370,7 @@
       <description>
         <![CDATA[<p><em>From the BBC World Service:</em> After nearly a decade of negotiations, the European Union and Indonesia have agreed to a trade deal, in part to offset some of the effects of Trump's tariffs. Then, Nigeria has cut interest rates for the first time in five years. Plus, India has reduced taxes on everyday items to counteract the effects of U.S. tariffs, and the UK government says it saved around $600 million last year using artificial intelligence to combat fraud.</p>]]>
       </description>
+      <source:markdown>_From the BBC World Service:_ After nearly a decade of negotiations, the European Union and Indonesia have agreed to a trade deal, in part to offset some of the effects of Trump&#39;s tariffs. Then, Nigeria has cut interest rates for the first time in five years. Plus, India has reduced taxes on everyday items to counteract the effects of U.S. tariffs, and the UK government says it saved around $600 million last year using artificial intelligence to combat fraud.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/24/mmr_20250924_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5XR79DM484D0TXRQYQEXX0J" length="3883803" type="audio/mpeg" />
       <guid>cid://01K5XR79DM484D0TXRQYQEXX0J</guid>
     </item>    <item>
@@ -279,6 +379,7 @@
       <description>
         <![CDATA[<p>Tony Pietrocola, president of the cybersecurity company AgileBlue, says cybercriminals are using artifical intelligence to generate deepfake video and audio calls, making the cyber threats more sophisticated and harder to catch.</p>]]>
       </description>
+      <source:markdown>Tony Pietrocola, president of the cybersecurity company AgileBlue, says cybercriminals are using artifical intelligence to generate deepfake video and audio calls, making the cyber threats more sophisticated and harder to catch.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/24/tech_20250924_0924_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K5VT590V801A947QQ3YPCNTF" length="8439870" type="audio/mpeg" />
       <guid>cid://01K5VT590V801A947QQ3YPCNTF</guid>
     </item>    <item>
@@ -287,6 +388,11 @@
       <description>
         <![CDATA[<p>Newly appointed Fed governor Stephen Miran has argued the federal funds rate should be a full two percentage points lower than its current level. A major cut like that could lower bond yields and reduce borrowing costs, spurring spending. But longer-term, inflation would likely balloon. After that: Auto dealers face new obstacles as EV tax credits end, a traveling nurse navigates frequent moves, and U.S. economic growth is “more resilient than expected," according to an OECD report.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
+      <source:markdown>Newly appointed Fed governor Stephen Miran has argued the federal funds rate should be a full two percentage points lower than its current level. A major cut like that could lower bond yields and reduce borrowing costs, spurring spending. But longer-term, inflation would likely balloon. After that: Auto dealers face new obstacles as EV tax credits end, a traveling nurse navigates frequent moves, and U.S. economic growth is “more resilient than expected,&#34; according to an OECD report.
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https://www.marketplace.org/newsletters)_ _to our daily or weekly newsletter._
+
+_Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/23/pm_20250923_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K5VSBMXQW52CZBZ77NH6XSH3" length="12457432" type="audio/mpeg" />
       <guid>cid://01K5VSBMXQW52CZBZ77NH6XSH3</guid>
     </item>    <item>
@@ -295,6 +401,18 @@
       <description>
         <![CDATA[<p>President Trump is not a fan of the United Nations—he made that clear in his speech to the United Nations General Assembly today. Under Trump, the United States has pulled back from several efforts, including U.N. organizations, that have contributed to the country’s so-called soft power goals. On the show today, Joshua Eisenman, professor of politics in the Keough School of Global Affairs at the University of Notre Dame, joins Kimberly to discuss the changing role of the U.S. in global politics and how China is seizing this moment to gain more influence.</p><br/><p>Here’s everything we talked about today:</p><br/><ul><li><a href="https://apnews.com/article/united-nations-unga-trump-global-feb243ecb979d53317dfb1cad9968038">"Trump tells UN in speech that it is 'not even coming close to living up' to its potential"</a> from AP News</li><li><a href="https://www.cfr.org/article/geopolitics-trump-tariffs-how-us-trade-policy-has-shaken-allies">"Geopolitics of Trump Tariffs: How U.S. Trade Policy Has Shaken Allies"</a> from Council on Foreign Relations</li><li><a href="https://www.nytimes.com/2025/09/19/world/asia/china-united-nations-trump.html">"How China Stands to Gain as the U.S. Steps Away From the U.N."</a> from The New York Times</li><li><p><a href="https://foreignpolicy.com/2025/08/25/global-south-china-engagement/">"The Global South Won't Give Up on China"</a> from Foreign Relations</p><br/><p>It's Marketplace's Fall Fundraiser! Give now and be one of 2,000 donors in 10 days: <a href="https://support.marketplace.org/smart-sn" class="ms-outlook-linkify">https://support.marketplace.org/smart-sn</a></p></li></ul>]]>
       </description>
+      <source:markdown>President Trump is not a fan of the United Nations—he made that clear in his speech to the United Nations General Assembly today. Under Trump, the United States has pulled back from several efforts, including U.N. organizations, that have contributed to the country’s so-called soft power goals. On the show today, Joshua Eisenman, professor of politics in the Keough School of Global Affairs at the University of Notre Dame, joins Kimberly to discuss the changing role of the U.S. in global politics and how China is seizing this moment to gain more influence.
+
+Here’s everything we talked about today:
+
+- [&#34;Trump tells UN in speech that it is &#39;not even coming close to living up&#39; to its potential&#34;](https://apnews.com/article/united-nations-unga-trump-global-feb243ecb979d53317dfb1cad9968038) from AP News
+- [&#34;Geopolitics of Trump Tariffs: How U.S. Trade Policy Has Shaken Allies&#34;](https://www.cfr.org/article/geopolitics-trump-tariffs-how-us-trade-policy-has-shaken-allies) from Council on Foreign Relations
+- [&#34;How China Stands to Gain as the U.S. Steps Away From the U.N.&#34;](https://www.nytimes.com/2025/09/19/world/asia/china-united-nations-trump.html) from The New York Times
+- [&#34;The Global South Won&#39;t Give Up on China&#34;](https://foreignpolicy.com/2025/08/25/global-south-china-engagement/) from Foreign Relations
+
+
+
+  It&#39;s Marketplace&#39;s Fall Fundraiser! Give now and be one of 2,000 donors in 10 days: [https://support.marketplace.org/smart-sn](https://support.marketplace.org/smart-sn)</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/make_me_smart/2025/09/23/mms_20250923_MMS_128.mp3?awCollectionId=mkp-MMsmrt&awEpisodeId=01K5VYTRXR7D3HHKWANED6XYW1" length="20747559" type="audio/mpeg" />
       <guid>cid://01K5VYTRXR7D3HHKWANED6XYW1</guid>
     </item>    <item>
@@ -303,6 +421,7 @@
       <description>
         <![CDATA[What even is the business of the S&P 500, and how does it make so much money?]]>
       </description>
+      <source:markdown>What even is the business of the S&#38;P 500, and how does it make so much money?</source:markdown>
       <guid>cid://https://www.npr.org/sections/planet-money/2025/09/23/g-s1-90054/how-does-the-s-p-500-work</guid>
     </item>    <item>
       <title>Going deeper on the thinking of the Fed&#39;s newest voice</title>
@@ -310,6 +429,7 @@
       <description>
         <![CDATA[<p>Economist Stephen Miran is now temporarily on the Federal Reserve's Board of Governors. Miran wants steeper rate cuts, arguing that stricter controls at the borders and deportations will free up housing, make it less expensive, and keep a lid on inflation at a time of tariffs. We'll discuss what the data says about his claims. Also: growing threats to undersea data cables and an update on the cyberattack affecting Jaguar and Land Rover production.</p>]]>
       </description>
+      <source:markdown>Economist Stephen Miran is now temporarily on the Federal Reserve&#39;s Board of Governors. Miran wants steeper rate cuts, arguing that stricter controls at the borders and deportations will free up housing, make it less expensive, and keep a lid on inflation at a time of tariffs. We&#39;ll discuss what the data says about his claims. Also: growing threats to undersea data cables and an update on the cyberattack affecting Jaguar and Land Rover production.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/23/mmr_20250923_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5VK8R0DHFZFAN4Z01XD0N54" length="3363368" type="audio/mpeg" />
       <guid>cid://01K5VK8R0DHFZFAN4Z01XD0N54</guid>
     </item>    <item>
@@ -318,6 +438,7 @@
       <description>
         <![CDATA[India's shrimp exports to the U.S. were once a success story. Now the industry faces ruin amid President Trump's 50% tariff on imports from the country.]]>
       </description>
+      <source:markdown>India&#39;s shrimp exports to the U.S. were once a success story. Now the industry faces ruin amid President Trump&#39;s 50% tariff on imports from the country.</source:markdown>
       <guid>cid://https://www.npr.org/2025/09/23/nx-s1-5542367/india-us-trump-tariffs-shrimp-exports</guid>
     </item>    <item>
       <title>The new Fed governor wants bigger rate cuts</title>
@@ -325,6 +446,7 @@
       <description>
         <![CDATA[<p>The newest member of the Federal Reserve Board of Governors — close ally of President Donald Trump, Stephen Miran — made his case for more (and larger) interest rate cuts in a speech yesterday at the Economic Club of New York. He argued that the president's policies will push prices down, so the Fed doesn’t have to worry that lowering interest rates will spark inflation. Plus, entrepreneurship could suffer following the Trump administration's new $100,000 fee for H-1B visas.</p>]]>
       </description>
+      <source:markdown>The newest member of the Federal Reserve Board of Governors — close ally of President Donald Trump, Stephen Miran — made his case for more (and larger) interest rate cuts in a speech yesterday at the Economic Club of New York. He argued that the president&#39;s policies will push prices down, so the Fed doesn’t have to worry that lowering interest rates will spark inflation. Plus, entrepreneurship could suffer following the Trump administration&#39;s new $100,000 fee for H-1B visas.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/23/mmr_20250923_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5V55YCRNAEZQN7M9SZ6E7Z0" length="3299002" type="audio/mpeg" />
       <guid>cid://01K5V55YCRNAEZQN7M9SZ6E7Z0</guid>
     </item>    <item>
@@ -333,6 +455,7 @@
       <description>
         <![CDATA[<p><em>From the BBC World Service:</em> Hong Kong International Airport is halting flights on Tuesday as the Asian financial hub braces for one of the strongest super typhoons it's seen in years. Then, would you move back to your hometown for a 25% tax cut? Cyprus is hoping this proposal will tempt some of its diaspora to return. And later, Singaporean shipping company X-Press Feeders refused to pay damages for causing the worst environmental disaster in Sri Lankan history.</p>]]>
       </description>
+      <source:markdown>_From the BBC World Service:_ Hong Kong International Airport is halting flights on Tuesday as the Asian financial hub braces for one of the strongest super typhoons it&#39;s seen in years. Then, would you move back to your hometown for a 25% tax cut? Cyprus is hoping this proposal will tempt some of its diaspora to return. And later, Singaporean shipping company X-Press Feeders refused to pay damages for causing the worst environmental disaster in Sri Lankan history.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/23/mmr_20250923_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5V34E00JPK9DXRFMHWTP77Z" length="3768446" type="audio/mpeg" />
       <guid>cid://01K5V34E00JPK9DXRFMHWTP77Z</guid>
     </item>    <item>
@@ -341,6 +464,9 @@
       <description>
         <![CDATA[<p>There’s a race going on among tech firms — big and small — to join in the construction of what President Trump has dubbed the Golden Dome, a missile defense system similar to Israel’s Iron Dome. Tens of billions of dollars in military contracts are at stake. In fact, the total cost might be in the trillions and the project could stretch a decade. </p><br/><p>The technology and scale needed to make this all happen is, so far, largely unproven. And a whole host of tech firms are trying to show that they can help with the very complex undertaking.  Marketplace’s Nova Safo spoke with Sheera Frenkel, reporter at the New York Times, about some of the tech that would make this whole system work.</p>]]>
       </description>
+      <source:markdown>There’s a race going on among tech firms — big and small — to join in the construction of what President Trump has dubbed the Golden Dome, a missile defense system similar to Israel’s Iron Dome. Tens of billions of dollars in military contracts are at stake. In fact, the total cost might be in the trillions and the project could stretch a decade.
+
+The technology and scale needed to make this all happen is, so far, largely unproven. And a whole host of tech firms are trying to show that they can help with the very complex undertaking. Marketplace’s Nova Safo spoke with Sheera Frenkel, reporter at the New York Times, about some of the tech that would make this whole system work.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/23/tech_20250923_0923_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K5F9F4VSN0G0NBGFC0XZV0YJ" length="8877474" type="audio/mpeg" />
       <guid>cid://01K5F9F4VSN0G0NBGFC0XZV0YJ</guid>
     </item>    <item>
@@ -349,6 +475,7 @@
       <description>
         <![CDATA[Rent prices for lots in manufactured or mobile home parks are on the rise, according to census data. Some home owners say the increases are pricing them out of the homes they own.]]>
       </description>
+      <source:markdown>Rent prices for lots in manufactured or mobile home parks are on the rise, according to census data. Some home owners say the increases are pricing them out of the homes they own.</source:markdown>
       <guid>cid://https://www.npr.org/2025/09/23/nx-s1-5519427/some-mobile-home-owners-say-theyre-being-priced-out-by-rising-lot-rent</guid>
     </item>    <item>
       <title>Who&#39;s got the pricing power?</title>
@@ -356,6 +483,11 @@
       <description>
         <![CDATA[<p>Economic data reports tell us two things are true: Inflation seems here to stay, and consumers haven’t let up on spending. It’s the perfect storm for businesses to wield the power to raise prices without losing customers. What could tip the scale in the other direction? Also in this episode: GOP-led changes to the H-1B visa program could hurt U.S. businesses long-term, home sellers are cautious as supply dwindles, and the new farm bill faces familiar obstacles.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
+      <source:markdown>Economic data reports tell us two things are true: Inflation seems here to stay, and consumers haven’t let up on spending. It’s the perfect storm for businesses to wield the power to raise prices without losing customers. What could tip the scale in the other direction? Also in this episode: GOP-led changes to the H-1B visa program could hurt U.S. businesses long-term, home sellers are cautious as supply dwindles, and the new farm bill faces familiar obstacles.
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https://www.marketplace.org/newsletters)_ _to our daily or weekly newsletter._
+
+_Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/22/pm_20250922_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K5SDQ5KEZAW2DVEY5JZM6HRA" length="12604763" type="audio/mpeg" />
       <guid>cid://01K5SDQ5KEZAW2DVEY5JZM6HRA</guid>
     </item>    <item>
@@ -364,6 +496,7 @@
       <description>
         <![CDATA[<p>The Trump administration is working to tamp down alarm over a new, $100,000 visa fee it announced on Friday. Technology, finance, and other major companies that depend on employees holding H-1B visas had initially thought the fee would be applied to existing visa holders, and those with H-1B workers who were temporarily abroad panicked. The fee only applies to new visa applicants, though, the White House later clarified. Also: an AI industry political action network and dark clouds for Broadway productions.</p>]]>
       </description>
+      <source:markdown>The Trump administration is working to tamp down alarm over a new, $100,000 visa fee it announced on Friday. Technology, finance, and other major companies that depend on employees holding H-1B visas had initially thought the fee would be applied to existing visa holders, and those with H-1B workers who were temporarily abroad panicked. The fee only applies to new visa applicants, though, the White House later clarified. Also: an AI industry political action network and dark clouds for Broadway productions.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/22/mmr_20250922_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5RX1M1A19HXWVMVAXB00GSE" length="3278940" type="audio/mpeg" />
       <guid>cid://01K5RX1M1A19HXWVMVAXB00GSE</guid>
     </item>    <item>
@@ -372,6 +505,7 @@
       <description>
         <![CDATA[<p>Stocks are on a winning streak. The Dow, S&amp;P 500, and Nasdaq indexes all closed at record highs on Friday. Now, everything that goes up can go down, but there are some reasons to think the bulls may stick around for a while. We'll hear more. And later, Health Secretary Robert F. Kennedy Jr. is pushing for stricter regulations on drug advertising. What could change?</p>]]>
       </description>
+      <source:markdown>Stocks are on a winning streak. The Dow, S&#38;P 500, and Nasdaq indexes all closed at record highs on Friday. Now, everything that goes up can go down, but there are some reasons to think the bulls may stick around for a while. We&#39;ll hear more. And later, Health Secretary Robert F. Kennedy Jr. is pushing for stricter regulations on drug advertising. What could change?</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/22/mmr_20250922_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5RKAF1VMRVS9E503MYY8F83" length="3348739" type="audio/mpeg" />
       <guid>cid://01K5RKAF1VMRVS9E503MYY8F83</guid>
     </item>    <item>
@@ -380,6 +514,7 @@
       <description>
         <![CDATA[<p><em>From the BBC World Service:</em> In his first broadcast interview since taking office, South Korean President Lee Jae Myung talked about the potential impact of the expulsion of Korean workers from a U.S. battery plant. Also on today's show: more disruption is expected at airports in Europe following a cyberattack; we do the numbers on costs associated with Europe's spate of wildfires this summer; and London's Oxford Street, one of the world's busiest shopping areas, went car-free for a day.</p>]]>
       </description>
+      <source:markdown>_From the BBC World Service:_ In his first broadcast interview since taking office, South Korean President Lee Jae Myung talked about the potential impact of the expulsion of Korean workers from a U.S. battery plant. Also on today&#39;s show: more disruption is expected at airports in Europe following a cyberattack; we do the numbers on costs associated with Europe&#39;s spate of wildfires this summer; and London&#39;s Oxford Street, one of the world&#39;s busiest shopping areas, went car-free for a day.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/22/mmr_20250922_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5RGWQE759TAY8G0EVA1D6W6" length="3599172" type="audio/mpeg" />
       <guid>cid://01K5RGWQE759TAY8G0EVA1D6W6</guid>
     </item>    <item>
@@ -388,6 +523,7 @@
       <description>
         <![CDATA[<p>Here’s cautionary tale for you, out of China, about a young woman who says she fell in love with an artificial intelligence chatbot. There have been well-publicized instances of people seeking companionship from chatbots and it leading to tragedy. In this instance, it caused heartbreak. The story involves the Chinese AI firm Deepseek which, earlier this year, launched a chatbot that's almost as good as its American rivals. Soon after the launch, a young woman began a conversation with that chatbot. Marketplace’s China correspondent Jennifer Pak takes the story from there.</p>]]>
       </description>
+      <source:markdown>Here’s cautionary tale for you, out of China, about a young woman who says she fell in love with an artificial intelligence chatbot. There have been well-publicized instances of people seeking companionship from chatbots and it leading to tragedy. In this instance, it caused heartbreak. The story involves the Chinese AI firm Deepseek which, earlier this year, launched a chatbot that&#39;s almost as good as its American rivals. Soon after the launch, a young woman began a conversation with that chatbot. Marketplace’s China correspondent Jennifer Pak takes the story from there.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/22/tech_20250922_0922_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K5ENRDDJ56QN3RRDB8RHDZJ3" length="3915880" type="audio/mpeg" />
       <guid>cid://01K5ENRDDJ56QN3RRDB8RHDZJ3</guid>
     </item>    <item>
@@ -396,6 +532,7 @@
       <description>
         <![CDATA[Women make up only 4 percent of construction workers on job sites working with tools. Some are worried that tariffs on building supplies will slow down commercial building construction.]]>
       </description>
+      <source:markdown>Women make up only 4 percent of construction workers on job sites working with tools. Some are worried that tariffs on building supplies will slow down commercial building construction.</source:markdown>
       <guid>cid://https://www.npr.org/2025/09/21/nx-s1-5545716/inside-the-largest-gathering-of-unionized-tradeswomen-in-the-world-talk-of-tariffs</guid>
     </item>    <item>
       <title>How Publishers Clearing House&#39;s bankruptcy is affecting winners</title>
@@ -417,6 +554,21 @@
       <description>
         <![CDATA[<p>On today’s show, Kimberly is joined by Marlon Hyde, business and economics reporter for WABE in Atlanta, to unpack the fallout of the massive ICE raid at a Hyundai facility in Georgia in which hundreds of South Korean nationals were arrested. And, we’ll get into what Atlanta small business owners are worried about these days. (Spoiler: it’s tariffs.) Plus, we’ll play a round of Half Full/Half Empty!</p><br/><p>Here’s everything we talked about today:</p><br/><ul><li><a href="https://www.wabe.org/immigration-raid-at-georgia-factory-tests-states-longstanding-relationship-with-south-korea/">"Immigration raid at Georgia Hyundai factory tests state’s longstanding relationship with South Korea"</a> from WABE</li><li><a href="https://apnews.com/article/hyundai-georgia-electric-vehicles-immigration-raid-62ddf7998314810da5157c5afe073168">"Hyundai says it will spend $2.7 billion expanding part of the Georgia complex raided by ICE"</a> from AP News</li><li><a href="https://www.wabe.org/atlanta-is-developing-its-human-rights-action-plan-for-the-2026-fifa-world-cup/">"Atlanta develops human rights action plan for 2026 FIFA World Cup"</a> from WABE</li><li><a href="https://www.marketplace.org/story/2025/09/17/another-subpar-summer-of-going-to-the-movies-whats-next">"After another subpar summer of going to the movies, what's next?"</a> from Marketplace</li><li><a href="https://www.washingtonpost.com/travel/2025/09/17/wifi-airlines-starlink/">"Finally, the era of free in-flight WiFi is near"</a> from The Washington Post</li><li><a href="https://www.businessinsider.com/costco-new-hours-fees-changing-prices-tiers-customer-caste-system-2025-9">"Costco's New Shopping Hours Are a Sign of Tierification of US Economy"</a> from Business Insider </li><li><p><a href="https://www.fastcompany.com/91407226/disney-boycott-will-cancelling-hulu-abc-espn-work">"People are boycotting Disney, Hulu, and ESPN after ABC yanked Jimmy Kimmel off the air. Will it work?"</a> from Fast Company</p><br/><p>We love hearing from you. Leave us a voicemail at 508-U-B-SMART or email makemesmart@marketplace.org.</p></li></ul>]]>
       </description>
+      <source:markdown>On today’s show, Kimberly is joined by Marlon Hyde, business and economics reporter for WABE in Atlanta, to unpack the fallout of the massive ICE raid at a Hyundai facility in Georgia in which hundreds of South Korean nationals were arrested. And, we’ll get into what Atlanta small business owners are worried about these days. (Spoiler: it’s tariffs.) Plus, we’ll play a round of Half Full/Half Empty!
+
+Here’s everything we talked about today:
+
+- [&#34;Immigration raid at Georgia Hyundai factory tests state’s longstanding relationship with South Korea&#34;](https://www.wabe.org/immigration-raid-at-georgia-factory-tests-states-longstanding-relationship-with-south-korea/) from WABE
+- [&#34;Hyundai says it will spend $2.7 billion expanding part of the Georgia complex raided by ICE&#34;](https://apnews.com/article/hyundai-georgia-electric-vehicles-immigration-raid-62ddf7998314810da5157c5afe073168) from AP News
+- [&#34;Atlanta develops human rights action plan for 2026 FIFA World Cup&#34;](https://www.wabe.org/atlanta-is-developing-its-human-rights-action-plan-for-the-2026-fifa-world-cup/) from WABE
+- [&#34;After another subpar summer of going to the movies, what&#39;s next?&#34;](https://www.marketplace.org/story/2025/09/17/another-subpar-summer-of-going-to-the-movies-whats-next) from Marketplace
+- [&#34;Finally, the era of free in-flight WiFi is near&#34;](https://www.washingtonpost.com/travel/2025/09/17/wifi-airlines-starlink/) from The Washington Post
+- [&#34;Costco&#39;s New Shopping Hours Are a Sign of Tierification of US Economy&#34;](https://www.businessinsider.com/costco-new-hours-fees-changing-prices-tiers-customer-caste-system-2025-9) from Business Insider
+- [&#34;People are boycotting Disney, Hulu, and ESPN after ABC yanked Jimmy Kimmel off the air. Will it work?&#34;](https://www.fastcompany.com/91407226/disney-boycott-will-cancelling-hulu-abc-espn-work) from Fast Company
+
+
+
+  We love hearing from you. Leave us a voicemail at 508-U-B-SMART or email makemesmart@marketplace.org.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/make_me_smart/2025/09/19/mms_20250919_MMS_128.mp3?awCollectionId=mkp-MMsmrt&awEpisodeId=01K5J3MZ6HZ0ARK4AFPTWHD274" length="30439614" type="audio/mpeg" />
       <guid>cid://01K5J3MZ6HZ0ARK4AFPTWHD274</guid>
     </item>    <item>
@@ -425,6 +577,11 @@
       <description>
         <![CDATA[<p>Google announced it will integrate Gemini, its AI assistant, into the Chrome web browser. That will transform Chrome — the most used search engine — into an “agentic” browser. More on what that means for your data privacy and the race to advance AI tech, in this episode. Plus: Independent craft stores aim to fill the void left by Jo-Ann Fabrics, and how feeding the 82% of Alaskan communities that don’t have road access is a feat of public infrastructure.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
+      <source:markdown>Google announced it will integrate Gemini, its AI assistant, into the Chrome web browser. That will transform Chrome — the most used search engine — into an “agentic” browser. More on what that means for your data privacy and the race to advance AI tech, in this episode. Plus: Independent craft stores aim to fill the void left by Jo-Ann Fabrics, and how feeding the 82% of Alaskan communities that don’t have road access is a feat of public infrastructure.
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https://www.marketplace.org/newsletters)_ _to our daily or weekly newsletter._
+
+_Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/19/pm_20250919_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K5HKEV0CZ8XRQVFN2RD3X2ZE" length="12455133" type="audio/mpeg" />
       <guid>cid://01K5HKEV0CZ8XRQVFN2RD3X2ZE</guid>
     </item>    <item>
@@ -433,6 +590,7 @@
       <description>
         <![CDATA[<p>If you have, you're not alone. American consumers lost more than $1 billion to fraud on social media in the first six months of this year, according to the Federal Trade Commission. That’s almost ten times what it was five years ago. Today, we'll hear how consumers can protect themselves. But first, we know what the Federal Reserve did with short-term interest rates this week. What's driving long-term interest rates right now?</p>]]>
       </description>
+      <source:markdown>If you have, you&#39;re not alone. American consumers lost more than $1 billion to fraud on social media in the first six months of this year, according to the Federal Trade Commission. That’s almost ten times what it was five years ago. Today, we&#39;ll hear how consumers can protect themselves. But first, we know what the Federal Reserve did with short-term interest rates this week. What&#39;s driving long-term interest rates right now?</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/19/mmr_20250919_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5H5MG6028E719Z87BSTFTKQ" length="3514042" type="audio/mpeg" />
       <guid>cid://01K5H5MG6028E719Z87BSTFTKQ</guid>
     </item>    <item>
@@ -441,6 +599,7 @@
       <description>
         <![CDATA[<p>Zillow reports that new listings fell to a record low in August, with sellers putting about 7% fewer homes up for sale than in July. Meanwhile, homes are staying on the market longer than a year ago, and home prices are barely growing in most markets. What's going on? Plus, Harvard economist Jason Furman cautions that we could get stuck in slow monthly job growth as a result of immigration policy.</p>]]>
       </description>
+      <source:markdown>Zillow reports that new listings fell to a record low in August, with sellers putting about 7% fewer homes up for sale than in July. Meanwhile, homes are staying on the market longer than a year ago, and home prices are barely growing in most markets. What&#39;s going on? Plus, Harvard economist Jason Furman cautions that we could get stuck in slow monthly job growth as a result of immigration policy.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/19/mmr_20250919_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5GY2PJR0YBQNH0EP6QPD75W" length="3155851" type="audio/mpeg" />
       <guid>cid://01K5GY2PJR0YBQNH0EP6QPD75W</guid>
     </item>    <item>
@@ -449,6 +608,7 @@
       <description>
         <![CDATA[<p><em>From the BBC World Service:</em> We'll start today in Mexico, where trade talks have taken place between Mexican President Claudia Sheinbaum and Canadian Prime Minister Mark Carney, who agreed to deepen ties as both countries face new tariffs from their neighbor, the U.S. – 50% on Canadian steel and 25% on Mexican pharmaceuticals, for example. We’ll also learn about the unauthorized resale of soccer tickets in England. And later, could hydrogen be used to help reduce emissions from the steel industry?</p>]]>
       </description>
+      <source:markdown>_From the BBC World Service:_ We&#39;ll start today in Mexico, where trade talks have taken place between Mexican President Claudia Sheinbaum and Canadian Prime Minister Mark Carney, who agreed to deepen ties as both countries face new tariffs from their neighbor, the U.S. – 50% on Canadian steel and 25% on Mexican pharmaceuticals, for example. We’ll also learn about the unauthorized resale of soccer tickets in England. And later, could hydrogen be used to help reduce emissions from the steel industry?</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/19/mmr_20250919_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5GVRBENJ0KZE9S56BF157CF" length="3181422" type="audio/mpeg" />
       <guid>cid://01K5GVRBENJ0KZE9S56BF157CF</guid>
     </item>    <item>
@@ -457,6 +617,7 @@
       <description>
         <![CDATA[<p>Anita Ramaswamy, columnist at The Information, joins Marketplace’s Nova Safo to break down all of these headlines. This episode was produced by Jesús Alvarado.</p>]]>
       </description>
+      <source:markdown>Anita Ramaswamy, columnist at The Information, joins Marketplace’s Nova Safo to break down all of these headlines. This episode was produced by Jesús Alvarado.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/19/tech_20250919_0919_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K5F0EQ9MHK9PGTZNP7WRVEKB" length="12171828" type="audio/mpeg" />
       <guid>cid://01K5F0EQ9MHK9PGTZNP7WRVEKB</guid>
     </item>    <item>
@@ -479,6 +640,11 @@
       <description>
         <![CDATA[<p>The number of new hires in August was about equal to the number of Americans who lost or quit their jobs in the same month. That means they sorta just .... cancel each other out. In this episode, what’s causing this strange stagnation? Plus: Bank of America and Amazon are raising their minimum pay, the U.S.-China trade war has soy and sorghum farmers worried, and a Seattle mall caters to and celebrates plus-size shoppers.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
+      <source:markdown>The number of new hires in August was about equal to the number of Americans who lost or quit their jobs in the same month. That means they sorta just .... cancel each other out. In this episode, what’s causing this strange stagnation? Plus: Bank of America and Amazon are raising their minimum pay, the U.S.-China trade war has soy and sorghum farmers worried, and a Seattle mall caters to and celebrates plus-size shoppers.
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https://www.marketplace.org/newsletters)_ _to our daily or weekly newsletter._
+
+_Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/18/pm_20250918_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K5F6NC7XNFEFVGR5WCHFA83B" length="12387632" type="audio/mpeg" />
       <guid>cid://01K5F6NC7XNFEFVGR5WCHFA83B</guid>
     </item>    <item>
@@ -494,6 +660,18 @@
       <description>
         <![CDATA[<p>This week, the Federal Reserve cut interest rates and made it clear that its attention is turning to the labor market. It’s showing cracks, particularly <a href="https://www.bls.gov/news.release/archives/empsit_09052025.pdf" class="default">for Black workers.</a> On the show today, Massachusetts Rep. Ayanna Pressley joins Kimberly to discuss rising Black women’s unemployment in the United States and why she’s calling on the Fed to do something about it. Plus, Kimberly digs through your anime recs. Which ones have you seen?</p><br/><p>Here’s everything we talked about today:</p><br/><ul><li><a href="https://www.nbcnews.com/news/nbcblk/pressley-fed-chair-address-black-womens-unemployment-figure-rise-rcna229548">"Pressley urges Fed chair to address Black women's unemployment as the figure rises"</a> from NBC News</li><li><a href="https://www.marketplace.org/story/2025/09/05/here-are-the-warning-signs-buried-in-the-august-jobs-report">"There are worrying signs buried in the August jobs report"</a> from Marketplace </li><li><a href="https://time.com/7315624/rising-unemployment-black-women-economy/">"Rising Unemployment Among Black Women Is a Bad Economic Sign"</a> from Time</li><li><p><a href="https://www.polygon.com/demon-slayer-infinity-castle-box-office-us-record/">"Demon Slayer: Infinity Castle slays the U.S. box office with record-breaking debut"</a> from Polygon</p><br/><p>Join us tomorrow for “Economics on Tap.” The <strong><a href="https://www.youtube.com/@marketplaceAPM/streams" class="externallink">YouTube livestream</a></strong> starts at 3:30 p.m. Pacific time, 6:30 p.m. Eastern.</p></li></ul>]]>
       </description>
+      <source:markdown>This week, the Federal Reserve cut interest rates and made it clear that its attention is turning to the labor market. It’s showing cracks, particularly [for Black workers.](https://www.bls.gov/news.release/archives/empsit_09052025.pdf) On the show today, Massachusetts Rep. Ayanna Pressley joins Kimberly to discuss rising Black women’s unemployment in the United States and why she’s calling on the Fed to do something about it. Plus, Kimberly digs through your anime recs. Which ones have you seen?
+
+Here’s everything we talked about today:
+
+- [&#34;Pressley urges Fed chair to address Black women&#39;s unemployment as the figure rises&#34;](https://www.nbcnews.com/news/nbcblk/pressley-fed-chair-address-black-womens-unemployment-figure-rise-rcna229548) from NBC News
+- [&#34;There are worrying signs buried in the August jobs report&#34;](https://www.marketplace.org/story/2025/09/05/here-are-the-warning-signs-buried-in-the-august-jobs-report) from Marketplace
+- [&#34;Rising Unemployment Among Black Women Is a Bad Economic Sign&#34;](https://time.com/7315624/rising-unemployment-black-women-economy/) from Time
+- [&#34;Demon Slayer: Infinity Castle slays the U.S. box office with record-breaking debut&#34;](https://www.polygon.com/demon-slayer-infinity-castle-box-office-us-record/) from Polygon
+
+
+
+  Join us tomorrow for “Economics on Tap.” The **[YouTube livestream](https://www.youtube.com/@marketplaceAPM/streams)** starts at 3:30 p.m. Pacific time, 6:30 p.m. Eastern.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/make_me_smart/2025/09/18/mms_20250918_MMS_128.mp3?awCollectionId=mkp-MMsmrt&awEpisodeId=01K5F79ZWXV55ETYQ1821NJ1CR" length="12743222" type="audio/mpeg" />
       <guid>cid://01K5F79ZWXV55ETYQ1821NJ1CR</guid>
     </item>    <item>
@@ -502,6 +680,7 @@
       <description>
         <![CDATA[<p>This week, J.D. Power reported that nearly half of all homeowners saw home insurance premiums go up in the last year. It's just one of the pressures squeezing prospective buyers. A major culprit behind the price increases? Climate change. Also on the show: Nvidia is buying a $5 billion stake in Intel, and we look at what the end of “de minimis" tax exemption means for air cargo companies.</p>]]>
       </description>
+      <source:markdown>This week, J.D. Power reported that nearly half of all homeowners saw home insurance premiums go up in the last year. It&#39;s just one of the pressures squeezing prospective buyers. A major culprit behind the price increases? Climate change. Also on the show: Nvidia is buying a $5 billion stake in Intel, and we look at what the end of “de minimis&#34; tax exemption means for air cargo companies.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/18/mmr_20250918_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5EMJ91GTEV9VHQGPFKT77MA" length="3520520" type="audio/mpeg" />
       <guid>cid://01K5EMJ91GTEV9VHQGPFKT77MA</guid>
     </item>    <item>
@@ -510,6 +689,7 @@
       <description>
         <![CDATA[<p>There's a long list of actions the Trump administration has taken in this economy: calling for the removal of Intel's CEO, then purchasing a nearly 10% stake in that company; special exemptions to tariffs; calls on Walmart not to raise prices; and even telling Coca-Cola to use cane sugar and Cracker Barrel to keep its old logo. What can we make of all this? And what should we call it? Plus, economic predictions by Fed members are all over the map.</p>]]>
       </description>
+      <source:markdown>There&#39;s a long list of actions the Trump administration has taken in this economy: calling for the removal of Intel&#39;s CEO, then purchasing a nearly 10% stake in that company; special exemptions to tariffs; calls on Walmart not to raise prices; and even telling Coca-Cola to use cane sugar and Cracker Barrel to keep its old logo. What can we make of all this? And what should we call it? Plus, economic predictions by Fed members are all over the map.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/18/mmr_20250918_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5E9VZPPR1C0PM6H892VQF44" length="3248847" type="audio/mpeg" />
       <guid>cid://01K5E9VZPPR1C0PM6H892VQF44</guid>
     </item>    <item>
@@ -518,6 +698,7 @@
       <description>
         <![CDATA[<p><em>From the BBC World Service:</em> In France, 800,000 people are expected to participate in a day of protests and strikes across the country to rally against planned budget cuts. Plus, Brazilian President Luiz Inácio Lula da Silva warns that steep U.S. tariffs on goods like coffee from his country will hit American consumers. And, the families of four passengers who died on the Air India jet crash in June are suing two companies they say are responsible.</p>]]>
       </description>
+      <source:markdown>_From the BBC World Service:_ In France, 800,000 people are expected to participate in a day of protests and strikes across the country to rally against planned budget cuts. Plus, Brazilian President Luiz Inácio Lula da Silva warns that steep U.S. tariffs on goods like coffee from his country will hit American consumers. And, the families of four passengers who died on the Air India jet crash in June are suing two companies they say are responsible.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/18/mmr_20250918_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5E88GPDZ5S16YCXQECJ6N4A" length="3056870" type="audio/mpeg" />
       <guid>cid://01K5E88GPDZ5S16YCXQECJ6N4A</guid>
     </item>    <item>
@@ -526,6 +707,9 @@
       <description>
         <![CDATA[<p>During the 2024 election, the cryptocurrency industry, including political action committees, accounted for nearly half of all of the corporate money going into the election, according to the watchdog group Public Citizen. That spending helped make Congress and the Trump administration more friendly to the crypto industry. </p><br/><p>Now, in the run-up to the midterms, the AI industry wants to replicate the crypto sector’s success. AI companies are amassing millions of dollars to help candidates that favor light regulation over AI. Marketplace’s Nova Safo spoke with Amrith Ramkumar, a reporter at the Wall Street Journal who <a href="https://www.wsj.com/politics/silicon-valley-launches-pro-ai-pacs-to-defend-industry-in-midterm-elections-287905b3" class="default">recently wrote about</a> this new pro-AI PAC network.</p>]]>
       </description>
+      <source:markdown>During the 2024 election, the cryptocurrency industry, including political action committees, accounted for nearly half of all of the corporate money going into the election, according to the watchdog group Public Citizen. That spending helped make Congress and the Trump administration more friendly to the crypto industry.
+
+Now, in the run-up to the midterms, the AI industry wants to replicate the crypto sector’s success. AI companies are amassing millions of dollars to help candidates that favor light regulation over AI. Marketplace’s Nova Safo spoke with Amrith Ramkumar, a reporter at the Wall Street Journal who [recently wrote about](https://www.wsj.com/politics/silicon-valley-launches-pro-ai-pacs-to-defend-industry-in-midterm-elections-287905b3) this new pro-AI PAC network.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/18/tech_20250918_0918_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K5C1CMMEPWXPXNKC0D8S6WSV" length="7284213" type="audio/mpeg" />
       <guid>cid://01K5C1CMMEPWXPXNKC0D8S6WSV</guid>
     </item>    <item>
@@ -555,6 +739,11 @@
       <description>
         <![CDATA[<p>The top 10% of earners in the U.S. accounted for nearly 50% of spending in the second quarter — the highest share since Moody's Analytics began collecting the data in 1989. That's important context, as consumer spending keeps climbing despite tariffs and a grim labor market. In this episode, what it all says about our economy. Plus: Homeowners rush to refinance as rates fall, hydropower escapes GOP cuts to clean energy, and Etsy sellers struggle as tariffs raise costs.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
+      <source:markdown>The top 10% of earners in the U.S. accounted for nearly 50% of spending in the second quarter — the highest share since Moody&#39;s Analytics began collecting the data in 1989. That&#39;s important context, as consumer spending keeps climbing despite tariffs and a grim labor market. In this episode, what it all says about our economy. Plus: Homeowners rush to refinance as rates fall, hydropower escapes GOP cuts to clean energy, and Etsy sellers struggle as tariffs raise costs.
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https://www.marketplace.org/newsletters)_ _to our daily or weekly newsletter._
+
+_Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/17/pm_20250917_Marketplace_-_PM_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K5CGT16VJEET9NAS0719W45N" length="12457223" type="audio/mpeg" />
       <guid>cid://01K5CGT16VJEET9NAS0719W45N</guid>
     </item>    <item>
@@ -563,6 +752,7 @@
       <description>
         <![CDATA[<p>Lawmakers have until the end of the month to agree on legislation to fund federal agencies for the coming year. If they can’t do that, the government closes its doors. Just how likely is a shutdown? We'll discuss. Also on the program: Hollywood was hopeful coming into this summer that the sequels and blockbusters would draw people back to the theaters in droves. That hasn't happened.</p>]]>
       </description>
+      <source:markdown>Lawmakers have until the end of the month to agree on legislation to fund federal agencies for the coming year. If they can’t do that, the government closes its doors. Just how likely is a shutdown? We&#39;ll discuss. Also on the program: Hollywood was hopeful coming into this summer that the sequels and blockbusters would draw people back to the theaters in droves. That hasn&#39;t happened.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/17/mmr_20250917_MMR_Podcast_3__64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5C0AASZP38E4117VHNMEQ3E" length="3315511" type="audio/mpeg" />
       <guid>cid://01K5C0AASZP38E4117VHNMEQ3E</guid>
     </item>    <item>
@@ -571,6 +761,7 @@
       <description>
         <![CDATA[<p>Later today, we’ll get a sense of where mortgage interest rates are right now from the Mortgage Bankers Association. And we’ll learn whether Federal Reserve policymakers cut interest rates and by how much. Thing is, the Fed's rate-cut decision might not reduce mortgage rates, because they’ve already come down in anticipation. Plus, Microsoft invests billions in the U.K.'s AI industry. And later, we'll hear why U.S. per capita emissions fell 30% in the last two decades.</p>]]>
       </description>
+      <source:markdown>Later today, we’ll get a sense of where mortgage interest rates are right now from the Mortgage Bankers Association. And we’ll learn whether Federal Reserve policymakers cut interest rates and by how much. Thing is, the Fed&#39;s rate-cut decision might not reduce mortgage rates, because they’ve already come down in anticipation. Plus, Microsoft invests billions in the U.K.&#39;s AI industry. And later, we&#39;ll hear why U.S. per capita emissions fell 30% in the last two decades.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/17/mmr_20250917_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5BSCZS4M3HG701PJC51WHYG" length="3286881" type="audio/mpeg" />
       <guid>cid://01K5BSCZS4M3HG701PJC51WHYG</guid>
     </item>    <item>
@@ -579,6 +770,7 @@
       <description>
         <![CDATA[<p><em>From the BBC World Service:</em> Microsoft has announced a $30 billion investment in the U.K.'s artificial intelligence sector, its largest outside of the U.S. The announcement was timed to coincide with President Donald Trump's second state visit to Britain. Plus, Taliban officials have banned internet via cable in three Afghan provinces. And, a South Korean worker who was detained during an immigration raid at a car battery factory says the experience was traumatizing.</p>]]>
       </description>
+      <source:markdown>_From the BBC World Service:_ Microsoft has announced a $30 billion investment in the U.K.&#39;s artificial intelligence sector, its largest outside of the U.S. The announcement was timed to coincide with President Donald Trump&#39;s second state visit to Britain. Plus, Taliban officials have banned internet via cable in three Afghan provinces. And, a South Korean worker who was detained during an immigration raid at a car battery factory says the experience was traumatizing.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/17/mmr_20250917_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5BQ3TAXC0Z77NRCNP0JT3WY" length="3548599" type="audio/mpeg" />
       <guid>cid://01K5BQ3TAXC0Z77NRCNP0JT3WY</guid>
     </item>    <item>
@@ -587,6 +779,9 @@
       <description>
         <![CDATA[<p>There’s a new class action lawsuit against Amazon Prime Video that’s once again elevating the question of ownership in the digital age: Who actually owns a movie, a song, a video game?Buy a physical copy, like a CD or DVD, and the answer is obvious. But buy a digital copy, and the answer gets very complicated. </p><br/><p>Marketplace’s Nova Safo spoke with Aaron Perzanowski, a law professor at the University of Michigan and author of the book “The End of Ownership: Personal Property in the Digital Economy,” to learn about the current state of digital ownership. </p>]]>
       </description>
+      <source:markdown>There’s a new class action lawsuit against Amazon Prime Video that’s once again elevating the question of ownership in the digital age: Who actually owns a movie, a song, a video game?Buy a physical copy, like a CD or DVD, and the answer is obvious. But buy a digital copy, and the answer gets very complicated.
+
+Marketplace’s Nova Safo spoke with Aaron Perzanowski, a law professor at the University of Michigan and author of the book “The End of Ownership: Personal Property in the Digital Economy,” to learn about the current state of digital ownership.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/17/tech_20250917_0917_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K57MRAXRQQMG6V1TQXZ5934C" length="10089973" type="audio/mpeg" />
       <guid>cid://01K57MRAXRQQMG6V1TQXZ5934C</guid>
     </item>    <item>
@@ -602,6 +797,11 @@
       <description>
         <![CDATA[<p>Wyoming made billions from coal mining over the last 50 years, funding the government, schools, roads, parks. But President Trump’s major spending bill, passed in July, gives mining companies a break on royalty fees — leaving state budgets lean. In this episode, easing coal fees comes at a price. Plus: Non-store retail spending saw double-digit year-over-year growth, small businesses suffer as they wait for tariff clarity, and stock investors basically ignore all the bad economic headlines.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
+      <source:markdown>Wyoming made billions from coal mining over the last 50 years, funding the government, schools, roads, parks. But President Trump’s major spending bill, passed in July, gives mining companies a break on royalty fees — leaving state budgets lean. In this episode, easing coal fees comes at a price. Plus: Non-store retail spending saw double-digit year-over-year growth, small businesses suffer as they wait for tariff clarity, and stock investors basically ignore all the bad economic headlines.
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https://www.marketplace.org/newsletters)_ _to our daily or weekly newsletter._
+
+_Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/16/pm_20250916_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K5A1JPMFMGAKN43FDHCD1PYQ" length="12376765" type="audio/mpeg" />
       <guid>cid://01K5A1JPMFMGAKN43FDHCD1PYQ</guid>
     </item>    <item>
@@ -610,6 +810,19 @@
       <description>
         <![CDATA[<p>The latest <a href="https://www.census.gov/retail/sales.html" class="default">retail sales data</a> shows U.S. consumers are still spending it up, even in the face of higher tariff costs and a shaky labor market. Wealthier Americans are <a href="https://www.bloomberg.com/news/articles/2025-09-16/top-10-of-earners-drive-a-growing-share-of-us-consumer-spending?cmpid=091625_morningamer&amp;utm_medium=email&amp;utm_source=newsletter&amp;utm_term=250916&amp;utm_campaign=morningamer&amp;sref=qfHtwehS" class="default">driving the trend,</a> but a “culture of treats” might also play a role. Marketplace’s Kristin Schwab joins Kimberly to explain her theory. Plus, brands like Gap are pitching themselves to Gen Z by riffing on Y2K fashion. Are you onboard?</p><br/><p>Here’s everything we talked about today:</p><br/><ul><li><a href="https://apnews.com/article/retail-sales-economy-11e40d9b98461fee52f5db2455f0e7e1">"Retail sales up 0.6% in August from July even as tariffs hurt jobs and lead to price hikes"</a> from AP News</li><li><a href="https://www.bloomberg.com/news/articles/2025-09-16/top-10-of-earners-drive-a-growing-share-of-us-consumer-spending?cmpid=091625_morningamer&amp;utm_medium=email&amp;utm_source=newsletter&amp;utm_term=250916&amp;utm_campaign=morningamer&amp;sref=qfHtwehS">"Top 10% of Earners Drive a Growing Share of US Consumer Spending"</a> from Bloomberg </li><li><a href="https://www.marketplace.org/story/2025/09/08/why-luxury-retailers-are-expanding-right-now">"For some consumers, luxury is not a treat — it's a lifestyle"</a> from Marketplace </li><li><a href="https://www.marketplace.org/story/2025/09/02/why-are-millennial-brands-trying-to-ride-the-y2k-trend">"Why are millennial brands trying to ride the Y2K trend?"</a> from Marketplace</li><li><p><a href="https://www.forbes.com/sites/karineldor/2025/09/05/why-gaps-better-in-denim-ad-struck-the-right-chord/">"Why Gap’s ‘Better In Denim’ Ad Struck The Right Chord"</a> from Forbes</p><br/><p>We love hearing from you. Leave us a voicemail at 508-U-B-SMART or email makemesmart@marketplace.org.</p></li></ul>]]>
       </description>
+      <source:markdown>The latest [retail sales data](https://www.census.gov/retail/sales.html) shows U.S. consumers are still spending it up, even in the face of higher tariff costs and a shaky labor market. Wealthier Americans are [driving the trend,](https://www.bloomberg.com/news/articles/2025-09-16/top-10-of-earners-drive-a-growing-share-of-us-consumer-spending?cmpid=091625_morningamer&#38;utm_medium=email&#38;utm_source=newsletter&#38;utm_term=250916&#38;utm_campaign=morningamer&#38;sref=qfHtwehS) but a “culture of treats” might also play a role. Marketplace’s Kristin Schwab joins Kimberly to explain her theory. Plus, brands like Gap are pitching themselves to Gen Z by riffing on Y2K fashion. Are you onboard?
+
+Here’s everything we talked about today:
+
+- [&#34;Retail sales up 0.6% in August from July even as tariffs hurt jobs and lead to price hikes&#34;](https://apnews.com/article/retail-sales-economy-11e40d9b98461fee52f5db2455f0e7e1) from AP News
+- [&#34;Top 10% of Earners Drive a Growing Share of US Consumer Spending&#34;](https://www.bloomberg.com/news/articles/2025-09-16/top-10-of-earners-drive-a-growing-share-of-us-consumer-spending?cmpid=091625_morningamer&#38;utm_medium=email&#38;utm_source=newsletter&#38;utm_term=250916&#38;utm_campaign=morningamer&#38;sref=qfHtwehS) from Bloomberg
+- [&#34;For some consumers, luxury is not a treat — it&#39;s a lifestyle&#34;](https://www.marketplace.org/story/2025/09/08/why-luxury-retailers-are-expanding-right-now) from Marketplace
+- [&#34;Why are millennial brands trying to ride the Y2K trend?&#34;](https://www.marketplace.org/story/2025/09/02/why-are-millennial-brands-trying-to-ride-the-y2k-trend) from Marketplace
+- [&#34;Why Gap’s ‘Better In Denim’ Ad Struck The Right Chord&#34;](https://www.forbes.com/sites/karineldor/2025/09/05/why-gaps-better-in-denim-ad-struck-the-right-chord/) from Forbes
+
+
+
+  We love hearing from you. Leave us a voicemail at 508-U-B-SMART or email makemesmart@marketplace.org.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/make_me_smart/2025/09/16/mms_20250916_MMS_128.mp3?awCollectionId=mkp-MMsmrt&awEpisodeId=01K59KA9GV8G9JKSD68S0E6N83" length="16856777" type="audio/mpeg" />
       <guid>cid://01K59KA9GV8G9JKSD68S0E6N83</guid>
     </item>    <item>
@@ -618,6 +831,9 @@
       <description>
         <![CDATA[<p>Public companies report their earnings every three months, giving investors and the public regular snapshots of how business is going. But President Trump wants to see fewer of those reports. In a social media post on Monday, he said companies should report just twice a year instead of quarterly. Susan Schmidt, a portfolio manager at Exchange Capital Resources — and one of the folks who is often looking at those reports — joins us to weigh in.</p><br/><p>Plus, the Federal Reserve kicks off a two-day meeting on interest rates, and we take a closer look at efforts in South Africa, Kenya and Nigeria to develop more AI products in African languages.</p>]]>
       </description>
+      <source:markdown>Public companies report their earnings every three months, giving investors and the public regular snapshots of how business is going. But President Trump wants to see fewer of those reports. In a social media post on Monday, he said companies should report just twice a year instead of quarterly. Susan Schmidt, a portfolio manager at Exchange Capital Resources — and one of the folks who is often looking at those reports — joins us to weigh in.
+
+Plus, the Federal Reserve kicks off a two-day meeting on interest rates, and we take a closer look at efforts in South Africa, Kenya and Nigeria to develop more AI products in African languages.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/16/mmr_20250916_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K59FY6KVTR4WJFVHJZQ234X7" length="4149131" type="audio/mpeg" />
       <guid>cid://01K59FY6KVTR4WJFVHJZQ234X7</guid>
     </item>    <item>
@@ -626,6 +842,7 @@
       <description>
         <![CDATA[<p>On Monday, President Trump said public companies should no longer report quarterly earnings. Instead, he suggested corporations report just twice a year. Trump isn't the first to suggest a pared-down reporting schedule, but the idea raises questions about the balance between corporate transparency and long-term growth. Also on the show, the South Korean government has launched an investigation into potential human rights violations during a U.S. immigration raid at a Hyundai plant in Georgia, where 300 South Korean workers were detained and deported. So what does this episode tell us about the U.S. immigration system? Stuart Anderson, executive director of the National Foundation of American Policy, joins us to discuss.</p>]]>
       </description>
+      <source:markdown>On Monday, President Trump said public companies should no longer report quarterly earnings. Instead, he suggested corporations report just twice a year. Trump isn&#39;t the first to suggest a pared-down reporting schedule, but the idea raises questions about the balance between corporate transparency and long-term growth. Also on the show, the South Korean government has launched an investigation into potential human rights violations during a U.S. immigration raid at a Hyundai plant in Georgia, where 300 South Korean workers were detained and deported. So what does this episode tell us about the U.S. immigration system? Stuart Anderson, executive director of the National Foundation of American Policy, joins us to discuss.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/16/mmr_20250916_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5950WN6W4KTFTBCZRS5TKQM" length="3321154" type="audio/mpeg" />
       <guid>cid://01K5950WN6W4KTFTBCZRS5TKQM</guid>
     </item>    <item>
@@ -634,6 +851,7 @@
       <description>
         <![CDATA[<p><em>From the BBC World Service:</em> Argentina’s president Javier Milei announced a change of course, with plans to increase spending on pensions, health and education. There's a drive in some African countries — including Nigeria, Kenya and South Africa — to create more AI products in different languages, to open up the new tech to more people across the continent. And automaker Jaguar Land Rover confirmed its factories in the UK will stay shut for another week following a cyber hack.</p>]]>
       </description>
+      <source:markdown>_From the BBC World Service:_ Argentina’s president Javier Milei announced a change of course, with plans to increase spending on pensions, health and education. There&#39;s a drive in some African countries — including Nigeria, Kenya and South Africa — to create more AI products in different languages, to open up the new tech to more people across the continent. And automaker Jaguar Land Rover confirmed its factories in the UK will stay shut for another week following a cyber hack.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/16/mmr_20250916_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K590PNB24D2RWRCMJXP5WX3K" length="3210470" type="audio/mpeg" />
       <guid>cid://01K590PNB24D2RWRCMJXP5WX3K</guid>
     </item>    <item>
@@ -642,6 +860,7 @@
       <description>
         <![CDATA[<p>A recent report put out by the tech giant claims its AI model consumes very little electricity and water for a single query. Emma Strubell, an assistant professor at Carnegie Mellon's Language Technologies Institute, says that might not tell the whole story. This episode was produced by Jesús Alvarado.</p>]]>
       </description>
+      <source:markdown>A recent report put out by the tech giant claims its AI model consumes very little electricity and water for a single query. Emma Strubell, an assistant professor at Carnegie Mellon&#39;s Language Technologies Institute, says that might not tell the whole story. This episode was produced by Jesús Alvarado.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/16/tech_20250916_0916_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K4ZH15HQ641VQ31WHTRZRSKH" length="7186411" type="audio/mpeg" />
       <guid>cid://01K4ZH15HQ641VQ31WHTRZRSKH</guid>
     </item>    <item>
@@ -664,6 +883,11 @@
       <description>
         <![CDATA[<p>It’s been five-and-a-half years since lots of workers retreated to home offices at the height of the pandemic. Now, about 35% of Americans work from home at least once a week. In this episode, why employers’ demands to "return to office" are growing. Plus: A sociologist expresses concern about AI’s long-term effects on the American labor market, import prices reflect an uptick in “undervaluation,” and President Trump wants reduce earnings report requirements for public firms.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
+      <source:markdown>It’s been five-and-a-half years since lots of workers retreated to home offices at the height of the pandemic. Now, about 35% of Americans work from home at least once a week. In this episode, why employers’ demands to &#34;return to office&#34; are growing. Plus: A sociologist expresses concern about AI’s long-term effects on the American labor market, import prices reflect an uptick in “undervaluation,” and President Trump wants reduce earnings report requirements for public firms.
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https://www.marketplace.org/newsletters)_ _to our daily or weekly newsletter._
+
+_Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/15/pm_20250915_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K57BKTT2RBJTBDYBHWHJF5TV" length="12379900" type="audio/mpeg" />
       <guid>cid://01K57BKTT2RBJTBDYBHWHJF5TV</guid>
     </item>    <item>
@@ -679,6 +903,7 @@
       <description>
         <![CDATA[<p>Federal Reserve watchers feel pretty sure the Federal Open Market Committee will cut interest rates by a quarter of a percent this week. The real question? Whether Jay Powell and co. have more rate cuts planned, or if they’re taking it meeting by meeting. Also in this episode: An Atlanta non profit helps refugee women become entrepreneurs and the U.S. TikTok deadline approaches.</p>]]>
       </description>
+      <source:markdown>Federal Reserve watchers feel pretty sure the Federal Open Market Committee will cut interest rates by a quarter of a percent this week. The real question? Whether Jay Powell and co. have more rate cuts planned, or if they’re taking it meeting by meeting. Also in this episode: An Atlanta non profit helps refugee women become entrepreneurs and the U.S. TikTok deadline approaches.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/15/mmr_20250915_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K575PBKW36S3E2JYAJ6PN0EP" length="3244458" type="audio/mpeg" />
       <guid>cid://01K575PBKW36S3E2JYAJ6PN0EP</guid>
     </item>    <item>
@@ -687,6 +912,7 @@
       <description>
         <![CDATA[<p>The import price index, which keeps track of the price of imports before tariffs are applied, comes out tomorrow. You can tell by looking at it who exactly is paying for tariffs. Prices in certain categories have fallen in recent months — a sign that some foreign exporters are trying to offset the cost of tariffs. But first: The U.S. and China are talking trade, and consumers continue to spend despite economic anxieties.</p>]]>
       </description>
+      <source:markdown>The import price index, which keeps track of the price of imports before tariffs are applied, comes out tomorrow. You can tell by looking at it who exactly is paying for tariffs. Prices in certain categories have fallen in recent months — a sign that some foreign exporters are trying to offset the cost of tariffs. But first: The U.S. and China are talking trade, and consumers continue to spend despite economic anxieties.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/15/mmr_20250915_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K56JDKQM07CS4RTAYZY1564K" length="3235263" type="audio/mpeg" />
       <guid>cid://01K56JDKQM07CS4RTAYZY1564K</guid>
     </item>    <item>
@@ -695,6 +921,7 @@
       <description>
         <![CDATA[<p><em>From the BBC World Service:</em> As U.S. and Chinese officials hold trade talks in Spain’s capital, the deadline approaches for TikTok, which U.S. President Donald Trump threatened to ban over security worries. Then, the U.S. and U.K. have lined up a string of deals aimed at speeding up nuclear power projects. And, Ghana is the world’s largest importer of used clothing, but about 40% is too damaged to resell. How can the problem be addressed?</p>]]>
       </description>
+      <source:markdown>_From the BBC World Service:_ As U.S. and Chinese officials hold trade talks in Spain’s capital, the deadline approaches for TikTok, which U.S. President Donald Trump threatened to ban over security worries. Then, the U.S. and U.K. have lined up a string of deals aimed at speeding up nuclear power projects. And, Ghana is the world’s largest importer of used clothing, but about 40% is too damaged to resell. How can the problem be addressed?</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/15/mmr_20250915_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K56H6PMDNF8KKET5J07S5M4C" length="3161778" type="audio/mpeg" />
       <guid>cid://01K56H6PMDNF8KKET5J07S5M4C</guid>
     </item>    <item>
@@ -703,6 +930,7 @@
       <description>
         <![CDATA[<p>Borders may be invisible to most shoppers, but for businesses, they often mean delays, extra costs, and reams of paperwork. And amid Trump’s trade war, global trade is now faster and more complex than ever. Those new pressures have sparked a boom in new "customs tech" companies promising to speed things up. The BBC’s Leanna Byrne reports.</p>]]>
       </description>
+      <source:markdown>Borders may be invisible to most shoppers, but for businesses, they often mean delays, extra costs, and reams of paperwork. And amid Trump’s trade war, global trade is now faster and more complex than ever. Those new pressures have sparked a boom in new &#34;customs tech&#34; companies promising to speed things up. The BBC’s Leanna Byrne reports.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/15/tech_20250915_0915_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K4DGMB092S6AWSDG65H8T6SG" length="5041026" type="audio/mpeg" />
       <guid>cid://01K4DGMB092S6AWSDG65H8T6SG</guid>
     </item>    <item>
@@ -718,6 +946,11 @@
       <description>
         <![CDATA[<p>The Russell 2000, a stock index of smaller companies or “small caps,” has fallen behind the S&amp;P 500 over the past few years. A Fed rate cut, which may come as soon as next week, could change their luck. In this episode, why interest rates have an outsize effect on smaller companies. Plus: Homebuilding is harder under President Trump’s tariffs and immigration policies, brands lean into the power of scent, and we recap the week’s economic headlines.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
+      <source:markdown>The Russell 2000, a stock index of smaller companies or “small caps,” has fallen behind the S&#38;P 500 over the past few years. A Fed rate cut, which may come as soon as next week, could change their luck. In this episode, why interest rates have an outsize effect on smaller companies. Plus: Homebuilding is harder under President Trump’s tariffs and immigration policies, brands lean into the power of scent, and we recap the week’s economic headlines.
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https://www.marketplace.org/newsletters)_ _to our daily or weekly newsletter._
+
+_Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/12/pm_20250912_Marketplace_-_PM_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K4ZFT8G33R15WV66SZZQNAVW" length="12647812" type="audio/mpeg" />
       <guid>cid://01K4ZFT8G33R15WV66SZZQNAVW</guid>
     </item>    <item>
@@ -726,6 +959,20 @@
       <description>
         <![CDATA[<p>Today’s news comes with a side of pawpaws. Kimberly is joined by Laura Blessing, senior fellow at the Government Affairs Institute at Georgetown University, to break down the moves President Trump is making to exert more control over government spending. As Congress faces the possibility of another shutdown head on, it’s souring the mood. Plus, we’ll play a new game! Can you guess which headline is fake?</p><br/><p>Here’s everything we talked about today:</p><br/><ul><li><a href="https://www.marketplace.org/story/2025/09/12/what-is-a-pawpaw-and-will-i-ever-find-it-in-stores">"What is a pawpaw, and will I ever be able to buy it at the grocery store?"</a> from Marketplace</li><li><a href="https://www.politico.com/news/2025/09/12/donald-trump-shutdown-democrats-00560031">"‘Don't even bother dealing with them,’ Trump says of Democrats’ shutdown demands"</a> from Politico</li><li><a href="https://thehill.com/homenews/administration/5477938-trump-rescission-bipartisan-backlash/">"What to know about Trump’s ‘pocket rescission’"</a> from The Hill </li><li><a href="https://thehill.com/business/5500178-paris-hilton-mini-fridges-recalled-fire-risk/">"Paris Hilton mini-fridges recalled due to fire, burn hazards"</a> from The Hill  </li><li><a href="https://www.axios.com/2025/09/12/doge-elon-musk-howard-lutnick">"Musk got DOGE's mission "backward," Lutnick says"</a> from Axios  </li><li><p><a href="https://www.politico.com/news/2025/09/09/trump-announces-crackdown-on-pharmaceutical-advertising-00553814">"Trump announces crackdown on pharmaceutical advertising"</a> from Politico </p><br/><p>We love hearing from you. Leave us a voicemail at 508-U-B-SMART or email makemesmart@marketplace.org.</p></li></ul>]]>
       </description>
+      <source:markdown>Today’s news comes with a side of pawpaws. Kimberly is joined by Laura Blessing, senior fellow at the Government Affairs Institute at Georgetown University, to break down the moves President Trump is making to exert more control over government spending. As Congress faces the possibility of another shutdown head on, it’s souring the mood. Plus, we’ll play a new game! Can you guess which headline is fake?
+
+Here’s everything we talked about today:
+
+- [&#34;What is a pawpaw, and will I ever be able to buy it at the grocery store?&#34;](https://www.marketplace.org/story/2025/09/12/what-is-a-pawpaw-and-will-i-ever-find-it-in-stores) from Marketplace
+- [&#34;‘Don&#39;t even bother dealing with them,’ Trump says of Democrats’ shutdown demands&#34;](https://www.politico.com/news/2025/09/12/donald-trump-shutdown-democrats-00560031) from Politico
+- [&#34;What to know about Trump’s ‘pocket rescission’&#34;](https://thehill.com/homenews/administration/5477938-trump-rescission-bipartisan-backlash/) from The Hill
+- [&#34;Paris Hilton mini-fridges recalled due to fire, burn hazards&#34;](https://thehill.com/business/5500178-paris-hilton-mini-fridges-recalled-fire-risk/) from The Hill
+- [&#34;Musk got DOGE&#39;s mission &#34;backward,&#34; Lutnick says&#34;](https://www.axios.com/2025/09/12/doge-elon-musk-howard-lutnick) from Axios
+- [&#34;Trump announces crackdown on pharmaceutical advertising&#34;](https://www.politico.com/news/2025/09/09/trump-announces-crackdown-on-pharmaceutical-advertising-00553814) from Politico
+
+
+
+  We love hearing from you. Leave us a voicemail at 508-U-B-SMART or email makemesmart@marketplace.org.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/make_me_smart/2025/09/12/mms_20250912_MMS_128.mp3?awCollectionId=mkp-MMsmrt&awEpisodeId=01K4ZZXCYY8JPN8W7ZJ53V8BTA" length="21867271" type="audio/mpeg" />
       <guid>cid://01K4ZZXCYY8JPN8W7ZJ53V8BTA</guid>
     </item>    <item>
@@ -741,6 +988,7 @@
       <description>
         <![CDATA[<p>“Marketplace Morning Report” is breaking down the overall picture of the U.S. economy by zooming in on different regions and taking a closer look. Marketplace’s senior economics contributor Chris Farrell reports from St. Paul, Minnesota, about what’s happening in the Federal Reserve’s Ninth District — which includes most of the upper Midwest. Also: Paramount Skydance explores a bid for Warner Bros. Discovery, and markets anticipate a Federal Reserve rate cut.</p>]]>
       </description>
+      <source:markdown>“Marketplace Morning Report” is breaking down the overall picture of the U.S. economy by zooming in on different regions and taking a closer look. Marketplace’s senior economics contributor Chris Farrell reports from St. Paul, Minnesota, about what’s happening in the Federal Reserve’s Ninth District — which includes most of the upper Midwest. Also: Paramount Skydance explores a bid for Warner Bros. Discovery, and markets anticipate a Federal Reserve rate cut.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/12/mmr_20250912_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4YTBW2SC813ZHYCQX7E385J" length="3202244" type="audio/mpeg" />
       <guid>cid://01K4YTBW2SC813ZHYCQX7E385J</guid>
     </item>    <item>
@@ -749,6 +997,7 @@
       <description>
         <![CDATA[<p>"When you face bad economic numbers, you've got two choices: fix the economy or attack the numbers," says University of Michigan economist Justin Wolfers. Today, we'll discuss what to make of how the Bureau of Labor Statistics collects data on jobs and inflation, as well as the doubts cast on BLS under the second Trump administration. But first, grocery prices jumped in August. Thing is, tariffs aren't to blame.</p>]]>
       </description>
+      <source:markdown>&#34;When you face bad economic numbers, you&#39;ve got two choices: fix the economy or attack the numbers,&#34; says University of Michigan economist Justin Wolfers. Today, we&#39;ll discuss what to make of how the Bureau of Labor Statistics collects data on jobs and inflation, as well as the doubts cast on BLS under the second Trump administration. But first, grocery prices jumped in August. Thing is, tariffs aren&#39;t to blame.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/12/mmr_20250912_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4YV7J95ZNQR8X7W2JYNH98N" length="3353545" type="audio/mpeg" />
       <guid>cid://01K4YV7J95ZNQR8X7W2JYNH98N</guid>
     </item>    <item>
@@ -757,6 +1006,7 @@
       <description>
         <![CDATA[<p><em>From the BBC World Service:</em> Hundreds of workers have returned home to South Korea following a raid by U.S. immigration at a Hyundai battery plant in Georgia. Officials said many workers violated their visas. This morning, we'll hear about the outrage South Koreans are feeling and the hesitance by South Korean companies to invest in the U.S. Then, Europe will get its first Universal theme park near Bedford, England. What economic benefits could the park bring?</p>]]>
       </description>
+      <source:markdown>_From the BBC World Service:_ Hundreds of workers have returned home to South Korea following a raid by U.S. immigration at a Hyundai battery plant in Georgia. Officials said many workers violated their visas. This morning, we&#39;ll hear about the outrage South Koreans are feeling and the hesitance by South Korean companies to invest in the U.S. Then, Europe will get its first Universal theme park near Bedford, England. What economic benefits could the park bring?</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/12/mmr_20250912_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4YS10HZ125GYTWTRG997FDN" length="3513700" type="audio/mpeg" />
       <guid>cid://01K4YS10HZ125GYTWTRG997FDN</guid>
     </item>    <item>
@@ -765,6 +1015,7 @@
       <description>
         <![CDATA[<p>Marketplace’s Nova Safo spoke with Joanna Stern, senior personal technology columnist at the Wall Street Journal, to discuss all these topics and more. This episode was produced by Jesús Alvarado.</p>]]>
       </description>
+      <source:markdown>Marketplace’s Nova Safo spoke with Joanna Stern, senior personal technology columnist at the Wall Street Journal, to discuss all these topics and more. This episode was produced by Jesús Alvarado.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/12/tech_20250912_0912_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K4X54STCXKXXTE6FRTTT1H1Y" length="12115822" type="audio/mpeg" />
       <guid>cid://01K4X54STCXKXXTE6FRTTT1H1Y</guid>
     </item>    <item>
@@ -787,6 +1038,11 @@
       <description>
         <![CDATA[<p>The labor market has been cooling for a bit, and in some sectors is virtually frozen. That could push the Federal Reserve to cut interest rates. But the Fed’s other mandate, besides maximum employment, is price stability. And inflation is picking up. What to do, what to do…. Later in this episode: Why are utilities costs up? Are restaurants hiring when no one else is? And, should retirement accounts have access to private equity funds?</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
+      <source:markdown>The labor market has been cooling for a bit, and in some sectors is virtually frozen. That could push the Federal Reserve to cut interest rates. But the Fed’s other mandate, besides maximum employment, is price stability. And inflation is picking up. What to do, what to do…. Later in this episode: Why are utilities costs up? Are restaurants hiring when no one else is? And, should retirement accounts have access to private equity funds?
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https://www.marketplace.org/newsletters)_ _to our daily or weekly newsletter._
+
+_Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/11/pm_20250911_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K4XAN7AFZJJPHA2D4VHDJ5NG" length="12342494" type="audio/mpeg" />
       <guid>cid://01K4XAN7AFZJJPHA2D4VHDJ5NG</guid>
     </item>    <item>
@@ -802,6 +1058,17 @@
       <description>
         <![CDATA[<p>In the wake of yesterday’s assassination of right-wing activist Charlie Kirk, Regina Bateson, a political science professor at the University of Colorado Boulder, joins Kimberly to unpack the rise of targeted political violence in the United States and what it means for the health of our democracy. Then, one of our listeners shares how digitizing her great grandmother’s WWII diaries helped connect her with her family’s past.</p><br/><p>Here’s everything we talked about today:</p><br/><ul><li><a href="https://www.politico.com/news/2025/09/10/charlie-kirk-shooting-political-violence-america-00556694">"A new dark normal of political violence still shocks the nation"</a> Politico </li><li><a href="https://statesunited.org/resources/over-time-survey/">"Tracking Attitudes About Elections and Political Violence Over Time"</a> from States United Democracy Center</li><li><a href="https://www.nytimes.com/2024/07/20/magazine/us-political-violence.html">"How Americans Justify Political Violence"</a> from The New York Times Magazine </li><li><a href="https://bridgingdivides.princeton.edu/updates/2025/special-report-key-political-violence-and-resilience-trends-2024#:-:text=key%20trends">"Special Report: Key Political Violence and Resilience Trends From 2024"</a> from the Bridging Divides Initiative </li><li>Check out <a href="https://www.madeckersdiaries.com/" class="default">Beth’s digitized diary project</a> </li></ul><br/><br/><p>Join us tomorrow for “Economics on Tap.” The <strong><a href="https://www.youtube.com/@marketplaceAPM/streams" class="externallink">YouTube livestream</a></strong> starts at 3:30 p.m. Pacific time, 6:30 p.m. Eastern.</p>]]>
       </description>
+      <source:markdown>In the wake of yesterday’s assassination of right-wing activist Charlie Kirk, Regina Bateson, a political science professor at the University of Colorado Boulder, joins Kimberly to unpack the rise of targeted political violence in the United States and what it means for the health of our democracy. Then, one of our listeners shares how digitizing her great grandmother’s WWII diaries helped connect her with her family’s past.
+
+Here’s everything we talked about today:
+
+- [&#34;A new dark normal of political violence still shocks the nation&#34;](https://www.politico.com/news/2025/09/10/charlie-kirk-shooting-political-violence-america-00556694) Politico
+- [&#34;Tracking Attitudes About Elections and Political Violence Over Time&#34;](https://statesunited.org/resources/over-time-survey/) from States United Democracy Center
+- [&#34;How Americans Justify Political Violence&#34;](https://www.nytimes.com/2024/07/20/magazine/us-political-violence.html) from The New York Times Magazine
+- [&#34;Special Report: Key Political Violence and Resilience Trends From 2024&#34;](https://bridgingdivides.princeton.edu/updates/2025/special-report-key-political-violence-and-resilience-trends-2024#:-:text=key%20trends) from the Bridging Divides Initiative
+- Check out [Beth’s digitized diary project](https://www.madeckersdiaries.com/)
+
+Join us tomorrow for “Economics on Tap.” The **[YouTube livestream](https://www.youtube.com/@marketplaceAPM/streams)** starts at 3:30 p.m. Pacific time, 6:30 p.m. Eastern.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/make_me_smart/2025/09/11/mms_20250911_MMS_128.mp3?awCollectionId=mkp-MMsmrt&awEpisodeId=01K4X5ZXTF5F46WXX7JACZ9CWC" length="20284878" type="audio/mpeg" />
       <guid>cid://01K4X5ZXTF5F46WXX7JACZ9CWC</guid>
     </item>    <item>
@@ -810,6 +1077,7 @@
       <description>
         <![CDATA[<p>Unionized Starbucks workers are still without a contract after more than a year of bargaining. Both the company and the union say it’s the other side holding up negotiations at the bargaining table. Today, we'll hear from a founding member of the union representing workers there. Plus, consumer inflation is moving the wrong way. The consumer price index released this morning showed prices up 2.9% annually in August. We'll discuss.</p>]]>
       </description>
+      <source:markdown>Unionized Starbucks workers are still without a contract after more than a year of bargaining. Both the company and the union say it’s the other side holding up negotiations at the bargaining table. Today, we&#39;ll hear from a founding member of the union representing workers there. Plus, consumer inflation is moving the wrong way. The consumer price index released this morning showed prices up 2.9% annually in August. We&#39;ll discuss.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/11/mmr_20250911_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4WJ6BQZKPBJY8P5CP99PK0J" length="3348321" type="audio/mpeg" />
       <guid>cid://01K4WJ6BQZKPBJY8P5CP99PK0J</guid>
     </item>    <item>
@@ -825,6 +1093,7 @@
       <description>
         <![CDATA[<p>The Census Bureau finds that the gap between what women and men earned in 2024 widened. Typical wages for men increased 3.7%, but stayed flat for women. Also on this morning's program: An internal watchdog at the Labor Department has launched a probe into how the U.S. Bureau of Labor Statistics collects and reports economic data. Plus, new data found that foreclosure activity is up 18%. How worried should we be?</p>]]>
       </description>
+      <source:markdown>The Census Bureau finds that the gap between what women and men earned in 2024 widened. Typical wages for men increased 3.7%, but stayed flat for women. Also on this morning&#39;s program: An internal watchdog at the Labor Department has launched a probe into how the U.S. Bureau of Labor Statistics collects and reports economic data. Plus, new data found that foreclosure activity is up 18%. How worried should we be?</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/11/mmr_20250911_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4WACY056WMKZZ4RZGCC3QN3" length="3393252" type="audio/mpeg" />
       <guid>cid://01K4WACY056WMKZZ4RZGCC3QN3</guid>
     </item>    <item>
@@ -833,6 +1102,7 @@
       <description>
         <![CDATA[<p><em>From the BBC World Service:</em> Pharmaceutical giant Merck has scrapped plans worth more than $1 billion to expand its operations in the United Kingdom, blaming a lack of government support. It's the latest pharmaceutical company to curb investments there. Also, Mexico plans to slap tariffs of up to 50% on cars from China and other Asian countries. And, there's a warning from the World Health Organization that workers worldwide need better protection from extreme heat.</p>]]>
       </description>
+      <source:markdown>_From the BBC World Service:_ Pharmaceutical giant Merck has scrapped plans worth more than $1 billion to expand its operations in the United Kingdom, blaming a lack of government support. It&#39;s the latest pharmaceutical company to curb investments there. Also, Mexico plans to slap tariffs of up to 50% on cars from China and other Asian countries. And, there&#39;s a warning from the World Health Organization that workers worldwide need better protection from extreme heat.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/11/mmr_20250911_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01JXHYNWFKY7GN7E6KPKMK9G07" length="3279016" type="audio/mpeg" />
       <guid>cid://01JXHYNWFKY7GN7E6KPKMK9G07</guid>
     </item>    <item>
@@ -841,6 +1111,9 @@
       <description>
         <![CDATA[<p>It’s challenging for parents to get access to their kids’ data to look out for online harms. In Congress, there's a bipartisan push to change that with a bill called Sammy's Law, named after a teen who died of fentanyl poisoning in 2021. He purchased drugs on social media.</p><br/><p>Marketplace’s Nova Safo spoke with Will Oremus, tech news analysis writer at The Washington Post, who’s been monitoring the bill's progress.</p>]]>
       </description>
+      <source:markdown>It’s challenging for parents to get access to their kids’ data to look out for online harms. In Congress, there&#39;s a bipartisan push to change that with a bill called Sammy&#39;s Law, named after a teen who died of fentanyl poisoning in 2021. He purchased drugs on social media.
+
+Marketplace’s Nova Safo spoke with Will Oremus, tech news analysis writer at The Washington Post, who’s been monitoring the bill&#39;s progress.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/11/tech_20250911_0911_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K4THNTJWPDK7AYD1Y0T16GJ9" length="5526695" type="audio/mpeg" />
       <guid>cid://01K4THNTJWPDK7AYD1Y0T16GJ9</guid>
     </item>    <item>
@@ -849,6 +1122,11 @@
       <description>
         <![CDATA[<p>Consumer prices have been overall slow to reflect the Trump administration’s new tariffs. So we called up some retailers to understand why they haven’t raised their prices, even though their costs are higher. It turns out, bumping up prices isn’t as easy as pushing a button — and can come with consequences. Also in this episode: Bond yields tell us where the economy’s headed, volatile categories can have an outsize impact on the PPI, and a new book investigates the “double tax” Black women face.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
+      <source:markdown>Consumer prices have been overall slow to reflect the Trump administration’s new tariffs. So we called up some retailers to understand why they haven’t raised their prices, even though their costs are higher. It turns out, bumping up prices isn’t as easy as pushing a button — and can come with consequences. Also in this episode: Bond yields tell us where the economy’s headed, volatile categories can have an outsize impact on the PPI, and a new book investigates the “double tax” Black women face.
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https://www.marketplace.org/newsletters)_ _to our daily or weekly newsletter._
+
+_Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/10/pm_20250910_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K4TH1F3N16BKS3V7CNCA35VN" length="12552727" type="audio/mpeg" />
       <guid>cid://01K4TH1F3N16BKS3V7CNCA35VN</guid>
     </item>    <item>
@@ -857,6 +1135,7 @@
       <description>
         <![CDATA[<p>Wealthier foreigners are driving up rental prices and driving out long-term residents in Mexico City. There have been demonstrations there this summer, with some protesters damaging shops and restaurants that cater to tourists. In the popular neighborhood of La Condesa, activists say that as many as one in five homes is now for shorter-term rentals. We'll hear how residents are feeling and learn how the government is responding. But first: good news on wholesale inflation.</p>]]>
       </description>
+      <source:markdown>Wealthier foreigners are driving up rental prices and driving out long-term residents in Mexico City. There have been demonstrations there this summer, with some protesters damaging shops and restaurants that cater to tourists. In the popular neighborhood of La Condesa, activists say that as many as one in five homes is now for shorter-term rentals. We&#39;ll hear how residents are feeling and learn how the government is responding. But first: good news on wholesale inflation.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/10/mmr_20250910_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4T0RF5Y227DVTTC3RJDJ7RN" length="4236902" type="audio/mpeg" />
       <guid>cid://01K4T0RF5Y227DVTTC3RJDJ7RN</guid>
     </item>    <item>
@@ -865,6 +1144,7 @@
       <description>
         <![CDATA[<p>A U.S. district court issued a preliminary injunction barring President Donald Trump from ousting Federal Reserve Board Governor Lisa Cook, which means she can stay in her job while she fights her dismissal. The central bank is largely supposed to be insulated from politicians. However, this is unlikely to be the final word on the matter. And later, consumers have choices for many services. Why is that not the case with electricity providers?</p>]]>
       </description>
+      <source:markdown>A U.S. district court issued a preliminary injunction barring President Donald Trump from ousting Federal Reserve Board Governor Lisa Cook, which means she can stay in her job while she fights her dismissal. The central bank is largely supposed to be insulated from politicians. However, this is unlikely to be the final word on the matter. And later, consumers have choices for many services. Why is that not the case with electricity providers?</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/10/mmr_20250910_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4SQ3Y95RK68V3CJ7TYY6D8W" length="3322199" type="audio/mpeg" />
       <guid>cid://01K4SQ3Y95RK68V3CJ7TYY6D8W</guid>
     </item>    <item>
@@ -873,6 +1153,7 @@
       <description>
         <![CDATA[<p><em>From the BBC World Service:</em> President Donald Trump is calling on the European Union to hit China and India — two major buyers of Russian oil — with tariffs of up to 100%. Ursula von der Leyen, president of the European Commission, has been defending her trade agreement with the U.S. at a State of the Union address. Also, protesters in Mexico City have held several demonstrations recently over the growing issue of gentrification.</p>]]>
       </description>
+      <source:markdown>_From the BBC World Service:_ President Donald Trump is calling on the European Union to hit China and India — two major buyers of Russian oil — with tariffs of up to 100%. Ursula von der Leyen, president of the European Commission, has been defending her trade agreement with the U.S. at a State of the Union address. Also, protesters in Mexico City have held several demonstrations recently over the growing issue of gentrification.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/10/mmr_20250910_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4SQ1MTFRRNXR159BSH2EP9Q" length="3291345" type="audio/mpeg" />
       <guid>cid://01K4SQ1MTFRRNXR159BSH2EP9Q</guid>
     </item>    <item>
@@ -881,6 +1162,7 @@
       <description>
         <![CDATA[<p>Fifteen years ago, then-CEO Steve Jobs unveiled the iPad. His vision was for a lean-back device used mostly to consume content. Now, with the latest iPadOS 26, the device is evolving into something different — and perhaps something more useful. Craig Grannell got early access to iPadOS 26 and wrote about the system's laptop-like qualities in Wired magazine.</p>]]>
       </description>
+      <source:markdown>Fifteen years ago, then-CEO Steve Jobs unveiled the iPad. His vision was for a lean-back device used mostly to consume content. Now, with the latest iPadOS 26, the device is evolving into something different — and perhaps something more useful. Craig Grannell got early access to iPadOS 26 and wrote about the system&#39;s laptop-like qualities in Wired magazine.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/10/tech_20250910_0910_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K4N0QHPZ7JNC9T7EM9ZPZQNY" length="8014388" type="audio/mpeg" />
       <guid>cid://01K4N0QHPZ7JNC9T7EM9ZPZQNY</guid>
     </item>    <item>
@@ -903,6 +1185,11 @@
       <description>
         <![CDATA[<p>Budget cuts may be in the Bureau of Labor Statistics' future. But the data collected by the BLS is critical for federal decision making. In this episode, we calculate if the $700 million investment is worthwhile. Plus: Firms that spend the most on AI slash tons of jobs, economic uncertainty drives up the price of gold, and mortgage rates fall — which is good for buyers but a bad sign for the overall economy.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
+      <source:markdown>Budget cuts may be in the Bureau of Labor Statistics&#39; future. But the data collected by the BLS is critical for federal decision making. In this episode, we calculate if the $700 million investment is worthwhile. Plus: Firms that spend the most on AI slash tons of jobs, economic uncertainty drives up the price of gold, and mortgage rates fall — which is good for buyers but a bad sign for the overall economy.
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https://www.marketplace.org/newsletters)_ _to our daily or weekly newsletter._
+
+_Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/09/pm_20250909_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K4R2BPXRE80SRWBNQQCC0T9Q" length="12664321" type="audio/mpeg" />
       <guid>cid://01K4R2BPXRE80SRWBNQQCC0T9Q</guid>
     </item>    <item>
@@ -918,6 +1205,19 @@
       <description>
         <![CDATA[<p>On today’s show, host of APM Reports’ <a href="https://features.apmreports.org/sold-a-story/" class="default">“Sold a Story”</a> podcast Emily Hanford joins Kimberly to make us smarter about the science of reading movement. It’s gained a foothold over the past few years <a href="https://www.apmreports.org/story/2022/11/17/reading-instruction-legislation-state-map" class="default">(thanks in part to “Sold a Story”).</a> But the Trump administration’s cuts to the Department of Education could slow the momentum of reading research and the effort to share it with educators.</p><br/><p>Here’s everything we talked about today:</p><br/><ul><li><a href="https://www.apmreports.org/episode/2025/08/21/sold-a-story-e14-the-cuts">"Episode 14: The Cuts"</a> from “Sold a Story”</li><li><a href="https://www.insidehighered.com/news/faculty-issues/research/2025/02/12/900m-institute-education-sciences-contracts-axed">"$900 Million in Institute of Education Sciences Contracts Axed"</a> from Inside Higher Ed</li><li><a href="https://www.apmreports.org/story/2022/11/17/reading-instruction-legislation-state-map">"How legislation on reading instruction is changing across the country"</a> from APM Reports</li><li><a href="https://www.nytimes.com/2024/01/03/us/what-to-know-about-the-science-of-reading.html">"What to Know About the Science of Reading"</a> from The New York Times</li><li><p>Learn some Kimberly Adams trivia <a href="https://www.instagram.com/p/DOZQaPmicEn/" class="default">on Marketplace’s Instagram</a></p><br/><p>We love hearing from you. Leave us a voicemail at 508-U-B-SMART or email makemesmart@marketplace.org.</p></li></ul>]]>
       </description>
+      <source:markdown>On today’s show, host of APM Reports’ [“Sold a Story”](https://features.apmreports.org/sold-a-story/) podcast Emily Hanford joins Kimberly to make us smarter about the science of reading movement. It’s gained a foothold over the past few years [(thanks in part to “Sold a Story”).](https://www.apmreports.org/story/2022/11/17/reading-instruction-legislation-state-map) But the Trump administration’s cuts to the Department of Education could slow the momentum of reading research and the effort to share it with educators.
+
+Here’s everything we talked about today:
+
+- [&#34;Episode 14: The Cuts&#34;](https://www.apmreports.org/episode/2025/08/21/sold-a-story-e14-the-cuts) from “Sold a Story”
+- [&#34;$900 Million in Institute of Education Sciences Contracts Axed&#34;](https://www.insidehighered.com/news/faculty-issues/research/2025/02/12/900m-institute-education-sciences-contracts-axed) from Inside Higher Ed
+- [&#34;How legislation on reading instruction is changing across the country&#34;](https://www.apmreports.org/story/2022/11/17/reading-instruction-legislation-state-map) from APM Reports
+- [&#34;What to Know About the Science of Reading&#34;](https://www.nytimes.com/2024/01/03/us/what-to-know-about-the-science-of-reading.html) from The New York Times
+- Learn some Kimberly Adams trivia [on Marketplace’s Instagram](https://www.instagram.com/p/DOZQaPmicEn/)
+
+
+
+  We love hearing from you. Leave us a voicemail at 508-U-B-SMART or email makemesmart@marketplace.org.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/make_me_smart/2025/09/09/mms_20250909_Make_Me_Smart__128.mp3?awCollectionId=mkp-MMsmrt&awEpisodeId=01K4QJGPZ3ZQFRSECJ4MDXYHCZ" length="16453864" type="audio/mpeg" />
       <guid>cid://01K4QJGPZ3ZQFRSECJ4MDXYHCZ</guid>
     </item>    <item>
@@ -926,6 +1226,7 @@
       <description>
         <![CDATA[<p>Latin music is not only popular — it’s big business. But Latin artists are increasingly having their live performances canceled as the Trump administration’s immigration enforcement efforts increase and as they encounter visa issues. We'll learn about the economic and cultural impacts. Also on the show: New Mexico will become the first state in the union to offer universal child care, and France's prime minister officially resigns as the country grapples with climbing debt.</p>]]>
       </description>
+      <source:markdown>Latin music is not only popular — it’s big business. But Latin artists are increasingly having their live performances canceled as the Trump administration’s immigration enforcement efforts increase and as they encounter visa issues. We&#39;ll learn about the economic and cultural impacts. Also on the show: New Mexico will become the first state in the union to offer universal child care, and France&#39;s prime minister officially resigns as the country grapples with climbing debt.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/09/mmr_20250909_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4QB369SR7R5XGVFBJQ33KP1" length="3259714" type="audio/mpeg" />
       <guid>cid://01K4QB369SR7R5XGVFBJQ33KP1</guid>
     </item>    <item>
@@ -941,6 +1242,7 @@
       <description>
         <![CDATA[<p>American enthusiasm for capitalism is slipping, especially among Democrats. That’s the headline from a new Gallup poll out this week. In this latest survey, just 54% of respondents said they view capitalism positively. That’s down from 60% the last time Gallup asked in 2021. We'll hear more. Plus, we'll get fresh reads on consumer and producer prices this week. How much might these affect a rate cut by the Fed?</p>]]>
       </description>
+      <source:markdown>American enthusiasm for capitalism is slipping, especially among Democrats. That’s the headline from a new Gallup poll out this week. In this latest survey, just 54% of respondents said they view capitalism positively. That’s down from 60% the last time Gallup asked in 2021. We&#39;ll hear more. Plus, we&#39;ll get fresh reads on consumer and producer prices this week. How much might these affect a rate cut by the Fed?</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/09/mmr_20250909_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4Q5JKGG31V1M4V39Y8HQPN5" length="3292941" type="audio/mpeg" />
       <guid>cid://01K4Q5JKGG31V1M4V39Y8HQPN5</guid>
     </item>    <item>
@@ -949,6 +1251,7 @@
       <description>
         <![CDATA[<p><em>From the BBC World Service:</em> France's push to get a grip on its debt problem is expected to result in the ousting of another prime minister, François Bayrou. President Emmanuel Macron must convince European allies and financial markets that he'll get a debt-reducing budget approved by the end of the year. Plus, as gold continues to hit record highs, London's bullion market is preparing to go digital. And the succession battle at Rupert Murdoch’s media empire has ended with his eldest son, Lachlan, securing control.</p>]]>
       </description>
+      <source:markdown>_From the BBC World Service:_ France&#39;s push to get a grip on its debt problem is expected to result in the ousting of another prime minister, François Bayrou. President Emmanuel Macron must convince European allies and financial markets that he&#39;ll get a debt-reducing budget approved by the end of the year. Plus, as gold continues to hit record highs, London&#39;s bullion market is preparing to go digital. And the succession battle at Rupert Murdoch’s media empire has ended with his eldest son, Lachlan, securing control.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/09/mmr_20250909_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4Q3WD17SEWHS56TMQTF3SQP" length="3151747" type="audio/mpeg" />
       <guid>cid://01K4Q3WD17SEWHS56TMQTF3SQP</guid>
     </item>    <item>
@@ -964,6 +1267,7 @@
       <description>
         <![CDATA[<p>A lot of people are<a href="https://www.ncsl.org/civil-and-criminal-justice/reentry-legislation-2024-summary" class="default"> eligible to have their criminal records expunged</a>. And there are tens of millions of <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3265335" class="default">such files out there</a> for things like misdemeanors, low-level felonies such as drug offenses and even just arrests. <a href="https://legalease.com/" class="default">LegalEase</a>, a justice-tech startup is streamlining the process through the use of artificial intelligence.</p>]]>
       </description>
+      <source:markdown>A lot of people are [eligible to have their criminal records expunged](https://www.ncsl.org/civil-and-criminal-justice/reentry-legislation-2024-summary). And there are tens of millions of [such files out there](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3265335) for things like misdemeanors, low-level felonies such as drug offenses and even just arrests. [LegalEase](https://legalease.com/), a justice-tech startup is streamlining the process through the use of artificial intelligence.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/09/tech_20250909_0909_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K4D60TJE487T37ETKJHQGS7X" length="3786313" type="audio/mpeg" />
       <guid>cid://01K4D60TJE487T37ETKJHQGS7X</guid>
     </item>
