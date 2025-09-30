@@ -4,7 +4,7 @@
   <channel>
     <title>Columns</title>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>30 Sep 25 15:39 -0700</lastBuildDate>
+    <lastBuildDate>30 Sep 25 15:59 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -25,6 +25,12 @@
         <p>Further event details, including <a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements</a> such as image galleries, can be added to the body of this page.</p>]]>
       </description>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://tilde.zone/@tomasino/115295690747071321</link>
+      <description>
+        <![CDATA[<p>What's the comfiest piece of clothing you've ever worn?</p>]]>
+      </description>
+      <guid>cid://https://tilde.zone/@tomasino/115295690747071321</guid>
     </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115295540037593096</link>
       <description>
@@ -449,6 +455,7 @@
         <blockquote>
         <p>Letting Claude run arbitrary commands is risky and can result in data loss, system corruption, or even data exfiltration (e.g., via prompt injection attacks). To minimize these risks, use <code>--dangerously-skip-permissions</code> in a container without internet access. You can follow this <a href="https://github.com/anthropics/claude-code/tree/main/.devcontainer">reference implementation</a> using Docker Dev Containers.</p>
         </blockquote>
+        <p>Locking internet access down to a <a href="https://github.com/anthropics/claude-code/blob/5062ed93fc67f9322f807ecbf391ae4376cf8e83/.devcontainer/init-firewall.sh#L66-L75">list of trusted hosts</a> is a great way to prevent exfiltration attacks from stealing your private source code.</p>
         <h4 id="picking-the-right-tools-for-the-loop">Picking the right tools for the loop</h4>
         <p>Now that we've found a safe (enough) way to run in YOLO mode, the next step is to decide which tools we need to make available to the coding agent.</p>
         <p>You can bring <a href="https://modelcontextprotocol.io/">MCP</a> into the mix at this point, but I find it's usually more productive to think in terms of shell commands instead. Coding agents are <em>really good</em> at running shell commands!</p>

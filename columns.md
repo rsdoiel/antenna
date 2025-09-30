@@ -307,4 +307,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Humourous Write Newsletter](https://buttondown.com/humorouswriting/rss)
 - [openchannels.fm](https://openchannels.fm/feed/)
 - [Climbing to the Stars blog](https://climbtothestars.org/feed/)
-- [Peter's feed on synths](https://collopy.net/feed/research/synthesizers.xml)
+- [Peter's feed on Synthesizers](https://collopy.net/feed/research/synthesizers.xml)
+- [Peter's feed on Caltech](https://collopy.net/feed/research/Caltech.xml)
+- [Peter's feed on California](https://collopy.net/feed/research/California.xml)
