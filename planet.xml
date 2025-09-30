@@ -4,10 +4,17 @@
   <channel>
     <title>Planet</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>30 Sep 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>30 Sep 25 06:28 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Dozens missing, three dead in Indonesia school collapse</title>
+      <link>https://www.rte.ie/news/2025/0930/1536076-indonesia-school-collapse/</link>
+      <description>
+        <![CDATA[Searchers raced to rescue at least 38 people still believed to be trapped a day after the collapse of an Islamic school building in Indonesia that has already left three dead, authorities said.]]>
+      </description>
+      <guid>cid://https://www.rte.ie/news/2025/0930/1536076-indonesia-school-collapse/</guid>
+    </item>    <item>
       <title>Taliban internet cut sparks Afghanistan telecoms blackout</title>
       <link>https://www.rte.ie/news/world/2025/0930/1536063-afghanistan-internet-blackout/</link>
       <description>
@@ -133,10 +140,10 @@
       </description>
       <guid>cid://https://www.rte.ie/news/europe/2025/0930/1536000-wolf-attack-greece/</guid>
     </item>    <item>
-      <title>Talks on Gaza plan to be held with Hamas, Turkey - Qatar</title>
+      <title>Trump: Hamas has three or four days to respond to deal</title>
       <link>https://www.rte.ie/news/middle-east/2025/0930/1535992-israel-gaza/</link>
       <description>
-        <![CDATA[Qatar said it was set to hold talks with Hamas negotiators and Turkey today to discuss US President Donald Trump's Gaza plan, with a foreign ministry spokesman saying Hamas would study it "responsibly".]]>
+        <![CDATA[US President Donald Trump has said he is giving Hamas "three or four days" to respond to his Gaza ceasefire plan, under which the group must fully disarm and be excluded from future roles in government.]]>
       </description>
       <guid>cid://https://www.rte.ie/news/middle-east/2025/0930/1535992-israel-gaza/</guid>
     </item>    <item>
