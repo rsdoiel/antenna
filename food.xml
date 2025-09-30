@@ -4,10 +4,17 @@
   <channel>
     <title>Food</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>30 Sep 25 06:28 -0700</lastBuildDate>
+    <lastBuildDate>30 Sep 25 07:33 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Keely Thomas: The Sprudge Twenty Interview</title>
+      <link>https://sprudge.com/keely-thomas-the-sprudge-twenty-interview-420037.html</link>
+      <description>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. We interview 2025 Sprudge Twenty inductee Keely Thomas.]]>
+      </description>
+      <guid>cid://https://sprudge.com/?p=420037</guid>
+    </item>    <item>
       <title>The Merriam-Webster Dictionary Officially Recognizes “Cold Brew”</title>
       <link>https://sprudge.com/the-merriam-webster-dictionary-officially-recognizes-cold-brew-435047.html</link>
       <description>

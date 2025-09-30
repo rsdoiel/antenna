@@ -4,7 +4,7 @@
   <channel>
     <title>Columns</title>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>30 Sep 25 06:28 -0700</lastBuildDate>
+    <lastBuildDate>30 Sep 25 07:33 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -25,6 +25,32 @@
         <p>Further event details, including <a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements</a> such as image galleries, can be added to the body of this page.</p>]]>
       </description>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Yes, this exactly: &#38;#8220;The government is already shut down, and has been...</title>
+      <link>https://kottke.org/25/09/0047611-yes-this-exactly-the-gove</link>
+      <guid>cid://tag:kottke.org,2025://13.47611</guid>
+    </item>    <item>
+      <title>Netflix’s House Of Guinness is schlocky trash but it’s schlocky trash with Irish subtitles available, so I’m thoroughly enjoying watching/reading it.</title>
+      <link>https://adactio.com/notes/22163</link>
+      <description>
+        <![CDATA[<p>Netflix’s House Of Guinness is schlocky trash but it’s schlocky trash with Irish subtitles available, so I’m thoroughly enjoying watching/reading it.</p>]]>
+      </description>
+      <guid>cid://https://adactio.com/notes/22163</guid>
+    </item>    <item>
+      <title>Google Just Removed Seven Years of Political Advertising History from 27 Countries</title>
+      <link>https://www.404media.co/google-ad-transparency-european-union/</link>
+      <description>
+        <![CDATA[Ahead of the European Union's Regulation on Transparency and Targeting of Political Advertising, Google's Ad Transparency Center no longer shows political ads from any countries in the EU.]]>
+      </description>
+      <guid>cid://68dbdb42872f490001c5471b</guid>
+    </item>    <item>
+      <title>How to build a multilingual conversational AI voice assistant</title>
+      <link>https://www.raspberrypi.com/news/how-to-build-a-multilingual-conversational-ai-voice-assistant/</link>
+      <description>
+        <![CDATA[<p>A simple how-to guide for building your own multilingual AI voice assistant using Raspberry Pi.</p>
+        <p>The post <a href="https://www.raspberrypi.com/news/how-to-build-a-multilingual-conversational-ai-voice-assistant/">How to build a multilingual conversational AI voice assistant</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
+      </description>
+      <guid>cid://https://www.raspberrypi.com/?p=129447</guid>
     </item>    <item>
       <title>An oral history of Deltron 3030&#38;#8217;s stupendous debut album....</title>
       <link>https://kottke.org/25/09/0047610-an-oral-history-of-deltro</link>
@@ -47,6 +73,13 @@
         <![CDATA[I was listening to the first episode of the &#8220;Welcome to the Party&#8221; podcast, when Melinda French Gates was mentioned, and all three sports icons (Abby Wambach, Julie Foudy, and Billie Jean King) took the opportunity to gush about her and her work. So I bought the new book &#8211; The Next Day: Transitions, Change, [&#8230;]]]>
       </description>
       <guid>cid://https://cate.blog/?p=61677</guid>
+    </item>    <item>
+      <title>Sortir de Facebook? 1. Micro.blog [en]</title>
+      <link>https://climbtothestars.org/archives/2025/09/30/sortir-de-facebook-1-micro-blog/</link>
+      <description>
+        <![CDATA[[en] Je suis en train de regarder Micro.blog &#8212; un service super simple qui permet de poster des choses qui ressemblent à des statuts facebook ou même des articles de blog si on veut s&#8217;étendre, avec liens et photos. Et les choses publiées &#8220;apparaissent&#8221; comme des publis dans les réseaux sociaux &#8220;fédérés&#8221;, autres que facebook &#8230; <a href="https://climbtothestars.org/archives/2025/09/30/sortir-de-facebook-1-micro-blog/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Sortir de Facebook? 1. Micro.blog <span class='bb-lang'>[en]</span></span>"</span></a>]]>
+      </description>
+      <guid>cid://https://climbtothestars.org/?p=10157</guid>
     </item>    <item>
       <title>Surviving the WordPress Plugin Grind Growth, Marketing and Overcoming Burnout</title>
       <link>https://openchannels.fm/surviving-the-wordpress-plugin-grind-growth-marketing-and-overcoming-burnout/</link>
@@ -955,19 +988,19 @@
       </description>
       <guid>cid://https://blog.jim-nielsen.com/2025/run-software-on-software-youve-never-run/</guid>
     </item>    <item>
-      <link>https://climbtothestars.org/archives/2025/09/28/rebooting-the-blogosphere-part-3-integration/</link>
-      <description>
-        <![CDATA[<p>Rebooting The Blogosphere (Part 3: Integration). Love this piece.</p>]]>
-      </description>
-      <source:markdown>Rebooting The Blogosphere (Part 3: Integration). Love this piece.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/28/1271/</guid>
-    </item>    <item>
       <link>https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free</link>
       <description>
         <![CDATA[<p>Let’s start a tech Hall of Fame, for gifts whose value is appreciated more over time, and start with the World Wide Web as one of the first inductees.</p>]]>
       </description>
       <source:markdown>Let’s start a tech Hall of Fame, for gifts whose value is appreciated more over time, and start with the World Wide Web as one of the first inductees.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/28/1269/</guid>
+    </item>    <item>
+      <title>Rebooting The Blogosphere (Part 3: Integration) [en]</title>
+      <link>https://climbtothestars.org/archives/2025/09/28/rebooting-the-blogosphere-part-3-integration/</link>
+      <description>
+        <![CDATA[[en] Start with part 1 (activities), then part 2 (interaction). Sorry this 3rd part took a little longer than intended to come out. In parts 1 and 2 of this series, I covered some types of activities (reading, writing, responding, sharing) that come into play in the text-driven social web, as well as the different &#8230; <a href="https://climbtothestars.org/archives/2025/09/28/rebooting-the-blogosphere-part-3-integration/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Rebooting The Blogosphere (Part 3: Integration) <span class='bb-lang'>[en]</span></span>"</span></a>]]>
+      </description>
+      <guid>cid://https://climbtothestars.org/?p=10142</guid>
     </item>    <item>
       <title>Quoting Nick Turley</title>
       <link>https://simonwillison.net/2025/Sep/28/nick-turley/#atom-everything</link>
@@ -1244,6 +1277,13 @@
         <![CDATA[I have a theory, which I&#8217;d like to expound, and my clever readers can tell me whether it&#8217;s right or wrong. It came to me in the mid-1980s, this theory, when I got my first car: a Hillman Imp, which I purchased for £90. It had no manuals, and, actually, no ignition key: you had <a class="more-link excerpt-link" href="https://statusq.org/archives/2025/09/27/13334/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a>]]>
       </description>
       <guid>cid://https://statusq.org/?p=13334</guid>
+    </item>    <item>
+      <title>Brains Get Tired Too [en]</title>
+      <link>https://climbtothestars.org/archives/2025/09/27/brains-get-tired-too/</link>
+      <description>
+        <![CDATA[[en] It’s funny how physical tiredness is not something one would think to question. It seems pretty obvious. We understand that if somebody has spent decades using and abusing their body, they&#8217;re going to face consequences as they get older. If you’re doing extreme running, hundreds of kilometres, or an insane amount of walking, crossing &#8230; <a href="https://climbtothestars.org/archives/2025/09/27/brains-get-tired-too/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Brains Get Tired Too <span class='bb-lang'>[en]</span></span>"</span></a>]]>
+      </description>
+      <guid>cid://https://climbtothestars.org/?p=10139</guid>
     </item>    <item>
       <link>http://scripting.com/2025/09/27.html#a145200</link>
       <description>
@@ -7837,6 +7877,13 @@
       <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/vHk-_sh2sfw" length="0" type="image/jpeg" />
       <guid>cid://https://paulkrugman.substack.com/p/my-head-talks-on-bloomberg</guid>
     </item>    <item>
+      <title>Who Will See My Comment? [en]</title>
+      <link>https://climbtothestars.org/archives/2025/09/15/who-will-see-my-comment/</link>
+      <description>
+        <![CDATA[[en] Another interesting observation following my return to Facebook: when somebody responds to one of my posts there, it definitely feels like the audience for this response is primarily the people I am connected to. What I mean by that is that I expect that my contacts have a chance of seeing that response, because &#8230; <a href="https://climbtothestars.org/archives/2025/09/15/who-will-see-my-comment/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Who Will See My Comment? <span class='bb-lang'>[en]</span></span>"</span></a>]]>
+      </description>
+      <guid>cid://https://climbtothestars.org/?p=10127</guid>
+    </item>    <item>
       <title>META Found Guilty of Mishandling Women’s Health Information</title>
       <link>https://puri.sm/posts/meta-found-guilty-of-mishandling-womens-health-information/</link>
       <description>
@@ -7845,6 +7892,13 @@
         <p>The post <a rel="nofollow" href="https://puri.sm/posts/meta-found-guilty-of-mishandling-womens-health-information/">META Found Guilty of Mishandling Women’s Health Information</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
       </description>
       <guid>cid://https://puri.sm/?p=84312</guid>
+    </item>    <item>
+      <title>Where Have All The Bloggers Gone? [en]</title>
+      <link>https://climbtothestars.org/archives/2025/09/15/where-have-all-the-bloggers-gone/</link>
+      <description>
+        <![CDATA[[en] What is happening for me right now is interesting. During my Facebook exile, I reconnected with the social networks that I had been present on in a very passive manner these last years. I also wrote more on my blog (here!), and made an effort to get back into reading other blogs, even though &#8230; <a href="https://climbtothestars.org/archives/2025/09/15/where-have-all-the-bloggers-gone/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Where Have All The Bloggers Gone? <span class='bb-lang'>[en]</span></span>"</span></a>]]>
+      </description>
+      <guid>cid://https://climbtothestars.org/?p=10124</guid>
     </item>    <item>
       <title>Trump’s Phase 2 now begins</title>
       <link>https://robertreich.substack.com/p/trumps-phase-2-now-begins</link>
@@ -8208,6 +8262,13 @@
       </description>
       <guid>cid://https://passo.uno/tech-writing-optimism-reddit/</guid>
     </item>    <item>
+      <title>Fiche ou tableau de suivi [en]</title>
+      <link>https://climbtothestars.org/archives/2025/09/14/fiche-ou-tableau-de-suivi/</link>
+      <description>
+        <![CDATA[[en] Je sais que je n&#8217;ai pas encore donné les détails ici, mais Oscar est en petite forme depuis quelques semaines. Il est sur la bonne pente mais ça a été chaud, et on lui a mis une sonde oesophagienne pour pouvoir l&#8217;alimenter durant ce passage difficile. En début de semaine, j&#8217;ai réalisé que je &#8230; <a href="https://climbtothestars.org/archives/2025/09/14/fiche-ou-tableau-de-suivi/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Fiche ou tableau de suivi <span class='bb-lang'>[en]</span></span>"</span></a>]]>
+      </description>
+      <guid>cid://https://climbtothestars.org/?p=10117</guid>
+    </item>    <item>
       <link>http://scripting.com/2025/09/14.html#a141256</link>
       <description>
         <![CDATA[Last night's email didn't go out. I found and fixed the bug, and the mails went out about 10.5 hours late.]]>
@@ -8441,6 +8502,13 @@
       </description>
       <guid>cid://https://links.daveverse.org/2025/09/13/1061/</guid>
     </item>    <item>
+      <title>Sauvegarder des publications et fils de commentaires Facebook [en]</title>
+      <link>https://climbtothestars.org/archives/2025/09/13/sauvegarder-des-publications-et-fils-de-commentaires-facebook/</link>
+      <description>
+        <![CDATA[[en] Maintenant que j&#8217;ai de nouveau (contre toute attente) accès à mon compte Facebook, ma première mission est de préserver, sous une forme ou une autre, ce que j&#8217;ai contribué là-bas depuis 18 ans. Cette mésaventure (on va dire ça maintenant que ma &#8220;disparition&#8221; n&#8217;aura duré que trois semaines) aura eu le bénéfice de me &#8230; <a href="https://climbtothestars.org/archives/2025/09/13/sauvegarder-des-publications-et-fils-de-commentaires-facebook/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Sauvegarder des publications et fils de commentaires Facebook <span class='bb-lang'>[en]</span></span>"</span></a>]]>
+      </description>
+      <guid>cid://https://climbtothestars.org/?p=10114</guid>
+    </item>    <item>
       <title>Talking With Erica Groshen, Former BLS Commissioner</title>
       <link>https://paulkrugman.substack.com/p/talking-with-erica-groshen-former</link>
       <description>
@@ -8544,6 +8612,13 @@
             <p>Tags: <a href="https://simonwillison.net/tags/matt-webb">matt-webb</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p>]]>
       </description>
       <guid>cid://https://simonwillison.net/2025/Sep/12/matt-webb/#atom-everything</guid>
+    </item>    <item>
+      <title>Facebook Account Back After 21 Days [en]</title>
+      <link>https://climbtothestars.org/archives/2025/09/12/facebook-account-back-after-21-days/</link>
+      <description>
+        <![CDATA[[en] My Facebook account is back, with as little explanation as when it was taken down. I had finished the dishes after lunch and was preparing to get to work writing part three of my thoughts on rebooting the blogosphere, when I saw a message from a friend telling me that I was back on &#8230; <a href="https://climbtothestars.org/archives/2025/09/12/facebook-account-back-after-21-days/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Facebook Account Back After 21 Days <span class='bb-lang'>[en]</span></span>"</span></a>]]>
+      </description>
+      <guid>cid://https://climbtothestars.org/?p=10092</guid>
     </item>    <item>
       <title>Assessing the Quality of Dried Squid</title>
       <link>https://www.schneier.com/blog/archives/2025/09/assessing-the-quality-of-dried-squid.html</link>
@@ -9416,6 +9491,13 @@
       <link>https://www.mollywhite.net/micro/entry/202509111023</link>
       <guid>cid://68c2db5caf8e0043c4ac1d2c</guid>
     </item>    <item>
+      <title>Rebooting The Blogosphere (Part 2: Interaction) [en]</title>
+      <link>https://climbtothestars.org/archives/2025/09/11/rebooting-the-blogosphere-part-2-interaction/</link>
+      <description>
+        <![CDATA[[en] Start with part 1! Yesterday I started writing &#8220;a blog post&#8221; to capture my coalescing thoughts about the open web and how to remove friction from blogging. Not all of it: some friction is good. But enough that people like me don&#8217;t get so easily drawn away from their blogs by &#8220;The Socials&#8221;. So &#8230; <a href="https://climbtothestars.org/archives/2025/09/11/rebooting-the-blogosphere-part-2-interaction/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Rebooting The Blogosphere (Part 2: Interaction) <span class='bb-lang'>[en]</span></span>"</span></a>]]>
+      </description>
+      <guid>cid://https://climbtothestars.org/?p=10081</guid>
+    </item>    <item>
       <title>Many years on the job and I still don&#39;t get it.</title>
       <link>https://daverupert.com/2025/09/you-cant-drink-coffee-on-a-running-horse/</link>
       <description>
@@ -9795,12 +9877,6 @@
       <link>https://stratechery.com/2025/iphones-17-and-the-sugar-water-trap/</link>
       <guid>cid://tag:daringfireball.net,2025:/linked//6.42212</guid>
     </item>    <item>
-      <link>https://climbtothestars.org/archives/2025/09/10/rebooting-the-blogosphere-part-1-activities/</link>
-      <description>
-        <![CDATA[<p>Stephanie Booth’s first post about rebooting the blogosphere.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/10/1019/</guid>
-    </item>    <item>
       <title>Apple’s Latest iPhone: Sleeker Walls, Same Garden</title>
       <link>https://puri.sm/posts/apples-latest-iphone-sleeker-walls-same-garden/</link>
       <description>
@@ -9808,6 +9884,13 @@
         <p>The post <a rel="nofollow" href="https://puri.sm/posts/apples-latest-iphone-sleeker-walls-same-garden/">Apple’s Latest iPhone: Sleeker Walls, Same Garden</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
       </description>
       <guid>cid://https://puri.sm/?p=84301</guid>
+    </item>    <item>
+      <title>Rebooting The Blogosphere (Part 1: Activities) [en]</title>
+      <link>https://climbtothestars.org/archives/2025/09/10/rebooting-the-blogosphere-part-1-activities/</link>
+      <description>
+        <![CDATA[[en] Some thoughts (part 1 of 3) following exchanges on Bluesky with Dave, amongst others. My Facebook exile is clearly bringing to a boil my preoccupation with our reliance on big capitalist platforms for our online presence and social life. Though I never &#8220;stopped blogging&#8221;, I clearly poured a lot more energy over the last &#8230; <a href="https://climbtothestars.org/archives/2025/09/10/rebooting-the-blogosphere-part-1-activities/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Rebooting The Blogosphere (Part 1: Activities) <span class='bb-lang'>[en]</span></span>"</span></a>]]>
+      </description>
+      <guid>cid://https://climbtothestars.org/?p=10070</guid>
     </item>    <item>
       <title>&#38;#8220;A growing number of scientists believe that the SARS-CoV-2 virus may instead...</title>
       <link>https://kottke.org/25/09/0047483-a-growing-number-of-scien</link>
