@@ -4,10 +4,18 @@
   <channel>
     <title>Libraries</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>29 Sep 25 16:49 -0700</lastBuildDate>
+    <lastBuildDate>30 Sep 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Guest Post – Taxonomy of Delegation: How GAIDeT Reframes AI Transparency in Science, an Interview with Yana Suchikova</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/09/30/guest-post-taxonomy-of-delegation-how-gaidet-reframes-ai-transparency-in-science-an-interview-with-yana-suchikova/</link>
+      <description>
+        <![CDATA[<p>Today, we speak with Prof. Yana Suchikova about GAIDeT, the Generative AI Delegation Taxonomy, which enables researchers to disclose the use of generative AI in an honest and transparent way.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/09/30/guest-post-taxonomy-of-delegation-how-gaidet-reframes-ai-transparency-in-science-an-interview-with-yana-suchikova/">Guest Post – Taxonomy of Delegation: How GAIDeT Reframes AI Transparency in Science, an Interview with Yana Suchikova</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61040</guid>
+    </item>    <item>
       <title>Day in Review (September 29–October 2)</title>
       <link>https://www.arl.org/day-in-review/day-in-review-september-29-october-2/</link>
       <description>
@@ -796,30 +804,6 @@
         <p>We’re hopeful. This first year has demonstrated the enormous potential of Crossref Grant IDs in action for NWO. We call on publishers to do their bit in ensuring this vital infrastructure reaches its full potential for the research community.</p>]]>
       </description>
       <guid>cid://https://www.crossref.org/blog/celebrating-one-year-of-crossref-grant-ids-at-nwo/</guid>
-    </item>    <item>
-      <title>Day in Review (September 8–11)</title>
-      <link>https://www.arl.org/day-in-review/day-in-review-september-08-11/</link>
-      <description>
-        <![CDATA[<p>Last Updated on September 11, 2025, 2:28 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 9 &#124; Wednesday, September 10 &#124; Thursday,...</p>
-        <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-08-11/">Day in Review (September 8–11)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
-      </description>
-      <guid>cid://https://www.arl.org/?p=45902</guid>
-    </item>    <item>
-      <title>Sustaining Open Source Software in the Research Enterprise</title>
-      <link>https://sr.ithaka.org/blog/sustaining-open-source-software-in-the-research-enterprise-workshop/</link>
-      <description>
-        <![CDATA[<p>On August 8, 2025, we convened 40 people representing a wide range of perspectives to discuss strategies for sustaining open source software (OSS) that is used for research. Sustainability is a major challenge for even the most successful open source software, which requires ongoing community engagement to improve and maintain code. Sustainability also includes identifying [&#8230;]</p>
-        <p>The post <a href="https://sr.ithaka.org/blog/sustaining-open-source-software-in-the-research-enterprise-workshop/">Sustaining Open Source Software in the Research Enterprise</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <guid>cid://https://sr.ithaka.org/?p=323518</guid>
-    </item>    <item>
-      <title>Revisited: On Being a Leader Who Happens to Be a Woman of Color</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/09/08/revisited-on-being-a-leader-who-happens-to-be-a-woman-of-color/</link>
-      <description>
-        <![CDATA[<p>During the first Trump administration, Alice Meadows interviewed three women of color who are leaders in their fields about their experiences. In this post, they revisit the topic in the light of their new positions and today's political environment.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/09/08/revisited-on-being-a-leader-who-happens-to-be-a-woman-of-color/">Revisited: On Being a Leader Who Happens to Be a Woman of Color </a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60934</guid>
     </item>
   </channel>
 </rss>

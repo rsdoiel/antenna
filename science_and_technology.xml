@@ -4,14 +4,119 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>29 Sep 25 16:49 -0700</lastBuildDate>
+    <lastBuildDate>30 Sep 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>ServiceNow thinks you&#39;re doing AI fast and wrong</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/30/servicenow_agentic_experience_promises/</link>
+      <description>
+        <![CDATA[<h4>And of course thinks it can help you do it right, once it gets around to delivering</h4> <p>Three weeks after releasing one of its biannual platform upgrades, ServiceNow has started delivering an &#34;AI Experience.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242207</guid>
+    </item>    <item>
+      <title>Archaeologists Discover Mysterious Earthwork Circles Built 6,500 Years Ago—Nearly 2,000 Years Before Stonehenge</title>
+      <link>https://www.smithsonianmag.com/smart-news/archaeologists-discover-mysterious-earthwork-circles-built-6500-years-ago-nearly-2000-years-before-stonehenge-180987417/</link>
+      <description>
+        <![CDATA[Recent excavations have shed new light on the four circular ditches, which were identified in a field near Rechnitz, Austria, during surveys of the area between 2011 and 2017]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/L-VMI0Mqduk9hI9sxG2P3velEyA=/420x240/filters:focal(1051x701:1052x702)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/46/c8/46c8a3d8-19cc-4f41-b659-7a034f404598/2025-08_re_grab_air_19.jpeg" length="" type="" />
+    </item>    <item>
+      <title>NASA&#39;s deep-space laser comms demo has left the chat</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/30/nasa_dsoc_demo/</link>
+      <description>
+        <![CDATA[<h4>DSOC hit record speeds beaming data from Psyche before going dark</h4> <p>NASA&#39;s Deep Space Optical Communications (DSOC) demonstration has completed its final pass, although there is a chance the system might be reactivated in the second half of 2026.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242210</guid>
+    </item>    <item>
+      <title>&#39;Money-saving&#39; UK procurement platform racks up monster tab</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/30/uk_procurement_platform_bill/</link>
+      <description>
+        <![CDATA[<h4>Projected £1.5M running costs balloon to £12M under new contracts</h4> <p>The UK government is set to see annual spending on a procurement portal designed to help save money increase by more than eight times compared to projected plans.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242212</guid>
+    </item>    <item>
+      <title>Britain&#39;s policing minister punts facial recog nationwide</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/30/britains_policing_minister_talks_up/</link>
+      <description>
+        <![CDATA[<h4>Met&#39;s Croydon cameras hailed as a triumph, guidance to be published later this year</h4> <p>The government is to encourage police forces across England and Wales to adopt live facial recognition (LFR) technology, with a minister praising its use by the London&#39;s Metropolitan Police in a suburb in the south of the city.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242211</guid>
+    </item>    <item>
+      <title>£5.5B Bitcoin fraudster pleads guilty after years on the run</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/30/met_police_bitcoin_fraud/</link>
+      <description>
+        <![CDATA[<h4>Zhimin Qian recruited takeaway worker to launder funds through property overseas</h4> <p>London&#39;s Metropolitan Police has secured a &#34;landmark conviction&#34; following a record-busting Bitcoin seizure and seven-year investigation.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242209</guid>
+    </item>    <item>
+      <title>UK splurges £4.4M on drones, e-planes, and other flights of fancy</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/30/uk_government_drone_cash/</link>
+      <description>
+        <![CDATA[<h4>Taxpayer cash fuels 14 projects from NHS blood-hauling UAVs to posh eVTOL shuttles</h4> <p>The British government is splashing several million pounds on next-gen aviation projects to advance the use of unmanned aircraft for applications such as cargo delivery and infrastructure monitoring, as well as potential electric-powered light aircraft carrying passengers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242192</guid>
+    </item>    <item>
+      <title>Healthcare lags in Windows 11 upgrades – and lives may depend on it</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/30/windows_11_healthcare/</link>
+      <description>
+        <![CDATA[<h4>Most orgs still on Windows 10, so maybe don&#39;t get ill after October 14</h4> <p><strong>Interview</strong>  Enterprise plans for the end of Windows 10 should already be well underway, but some sectors are lagging, and there are other potential time bombs for administrators to worry about, according to asset management outfit Lansweeper.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242161</guid>
+    </item>    <item>
+      <title>Greg Kroah-Hartman explains the Cyber Resilience Act for open source developers</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/30/cyber_reiliance_act_opinion_column/</link>
+      <description>
+        <![CDATA[<h4>Impact? Nope, don&#39;t worry, be happy, says Linux veteran</h4> <p><strong>Opinion</strong>  There has been considerable worry about the impact of the European Union&#39;s Cyber Resilience Act on open source programmers. Linux stable kernel maintainer Greg Kroah-Hartman says, however, that there won&#39;t be much of an impact at all.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242174</guid>
+    </item>    <item>
+      <title>AI upstart aims to do what mere mortals can&#39;t: Make sense of Microsoft licensing</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/30/onyx_ai_microsoft_licensing/</link>
+      <description>
+        <![CDATA[<h4>Thankfully, Onyx&#39;s model also knows when to defer to a human for advice</h4> <p><strong>Interview</strong>  It was inevitable that AI would be deployed to help enterprises navigate the labyrinth that is modern software licensing, given the myriad options available from the tech giants.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242189</guid>
+    </item>    <item>
+      <title>VMware bungles cloud management portal upgrade, twice in two weeks</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/30/vmware_cloud_portal_upgrade_problems/</link>
+      <description>
+        <![CDATA[<h4>Promises to get it right this coming weekend</h4> <p>VMware has bungled a portal upgrade project that aims to give its customers a superior experience when managing their clouds.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242206</guid>
+    </item>    <item>
+      <title>YouTube coughs up $24.5 million to make Trump &#39;censorship&#39; case go away</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/30/youtube_trump_settlement/</link>
+      <description>
+        <![CDATA[<h4>Alphabet&#39;s vid-streamer will fund construction of a ballroom The Donald adores</h4> <p>YouTube has agreed to pay $24.5 million to end the case brought by US president Donald Trump, who alleged the vid-streamer had infringed his freedom of speech.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242205</guid>
+    </item>    <item>
+      <title>Feds cut funding to program that shared cyber threat info with local governments</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/30/cisa_kills_cis_agreement/</link>
+      <description>
+        <![CDATA[<h4>The federal government&#39;s not the only thing shutting down on Oct. 1</h4> <p>The US Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday will cut its ties to - and funding for -  the Center for Internet Security, a nonprofit that provides free and low-cost cybersecurity services to state and local governments.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242203</guid>
+    </item>    <item>
+      <title>Curiosity Blog, Sols 4668-4674: Winding Our Way Along</title>
+      <link>https://science.nasa.gov/blog/curiosity-blog-sols-4668-4674-winding-our-way-along/</link>
+      <description>
+        <![CDATA[Written by Alex Innanen, Atmospheric Scientist at York University Earth planning date: Friday, Sept. 26, 2025 We are continuing through the boxwork region, taking a twisty-turny path along the ridges (many of which are conveniently Curiosity-sized). One thing we’re keeping an eye out for is our next drill location in one of the hollows. Our […]]]>
+      </description>
+      <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-4668-4674-winding-our-way-along/</guid>
+    </item>    <item>
+      <title>California cops confused after trying to give ticket to self-driving car</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/california_cops_self_driving/</link>
+      <description>
+        <![CDATA[<h4>Don&#39;t tell Elon, he&#39;d have Tesla&#39;s Robotaxis going ludicrous speed</h4> <p>Police in a Silicon Valley suburb were flummoxed last weekend after pulling over a self-driving Waymo robo-taxi for making an illegal turn, then finding no driver they could issue with a ticket.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242202</guid>
+    </item>    <item>
       <title>Whitebridge AI created false and alarming reputation reports, complaint alleges</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/whitebridge_ai_reputation_reports_complaint/</link>
       <description>
-        <![CDATA[<h4>Privacy group Noyb wants Lithuania to throw the GDPR book at &#39;em</h4> <p>Whitebridge AI, based in Lithuania, faces a privacy complaint for allegedly selling &#34;reputation reports&#34; based on unlawfully collected data and AI misinformation.…</p>]]>
+        <![CDATA[<h4>Privacy group Noyb wants Lithuania to throw the GDPR book at &#39;em</h4> <p><strong>Updated</strong>  Whitebridge AI, based in Lithuania, faces a privacy complaint for allegedly selling &#34;reputation reports&#34; based on unlawfully collected data and AI misinformation.…</p>]]>
       </description>
       <guid>cid://tag:theregister.com,2005:story242201</guid>
     </item>    <item>
@@ -153,7 +258,7 @@
       <description>
         <![CDATA[NASA’s James Webb Space Telescope has provided the first direct measurements of the chemical and physical properties of a potential moon-forming disk encircling a large exoplanet. The carbon-rich disk surrounding the world called CT Cha b, which is located 625 light-years away from Earth, is a possible construction yard for moons, although no moons are […]]]>
       </description>
-      <guid>cid://https://science.nasa.gov/centers-and-facilities/goddard/nasas-webb-telescope-studies-moon-forming-disk-around-massive-planet/</guid>
+      <guid>cid://https://science.nasa.gov/missions/webb/nasas-webb-telescope-studies-moon-forming-disk-around-massive-planet/</guid>
     </item>    <item>
       <title>Russia-backed Indian oil company loses bid to force SAP support as sanctions bite</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/nayara_sap_sanctions/</link>
@@ -4704,237 +4809,6 @@
         <![CDATA[<h4>Brace for ‘loss of functionality’ next April, and an upsell conversation before that deadline</h4> <p>Citrix on Monday advised its customers that products acquired under its current file-based licensing system will experience “loss of functionality and potential impacts on end-users” next April, and that upgrading to a new cloudy licensing scheme is the way to avoid potential problems.…</p>]]>
       </description>
       <guid>cid://tag:theregister.com,2005:story241802</guid>
-    </item>    <item>
-      <title>Intel shuffles executive deckchairs, tosses 30-year veteran chief overboard</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/intel_executive_changes/</link>
-      <description>
-        <![CDATA[<h4>Michelle Johnston Holthaus&#39; tenure as Intel Products CEO lasted just ten months</h4> <p>Intel’s CEO of Products, Michelle Johnston Holthaus, will leave the business, as part of the latest executive shake-up since CEO Lip Bu Tan seized the company&#39;s reins.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241803</guid>
-    </item>    <item>
-      <title>WhatsApp&#39;s former security boss claims reporting infosec failings led to ousting</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/whatsapp_exsecurity_head_sues_company/</link>
-      <description>
-        <![CDATA[<h4>Meta shrugs off allegations of improper dismissal, ignoring privacy and security</h4> <p>WhatsApp&#39;s former head of security, Attaullah Baig, has filed a lawsuit against its parent company, Meta, alleging that the social media megalith retaliated against him for reporting security failings that violated legal commitments.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241800</guid>
-    </item>    <item>
-      <title>Perseverance Meets the Megabreccia</title>
-      <link>https://science.nasa.gov/blog/perseverance-meets-the-megabreccia/</link>
-      <description>
-        <![CDATA[Written by By Henry Manelski, Ph.D. student at Purdue University Last week, the Perseverance rover began an exciting new journey. Driving northwest of the Soroya ridge, Perseverance entered an area filled with a diverse range of boulders that the science team believes could hold clues to Mars’ early history. The terrain we are exploring is […]]]>
-      </description>
-      <guid>cid://https://science.nasa.gov/blog/perseverance-meets-the-megabreccia/</guid>
-    </item>    <item>
-      <title>Chip designer SiFive aims to cram more RISC-V cores into AI chips</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/sifive_ai_cpu_cores/</link>
-      <description>
-        <![CDATA[<h4>Why reinvent the CPU wheel when you can spend your time engineering a way out of your dependence on Nvidia?</h4> <p>Every quarter, Nvidia CEO Jensen Huang is asked about the growing number of custom ASICs encroaching on his AI empire, and each time he downplays the threat, arguing that GPUs offer superior programmability in a rapidly changing environment.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241798</guid>
-    </item>    <item>
-      <title>Linus has had enough of links that point to &#39;stupid useless garbage&#39;</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/linus_linux_links/</link>
-      <description>
-        <![CDATA[<h4>&#39;Stop this garbage already!&#39;</h4> <p>The latest release candidate for Linux is out, but before its release, Linus Torvalds had something he wanted to get off his chest in his usual style.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241797</guid>
-    </item>    <item>
-      <title>Joseph McNeil, Member of &#39;Greensboro Four&#39; Who Protested Segregation at Lunch Counters, Dies at 83</title>
-      <link>https://www.smithsonianmag.com/smart-news/joseph-mcneil-member-of-greensboro-four-who-protested-deegregation-at-lunch-counters-dies-at-83-180987303/</link>
-      <description>
-        <![CDATA[McNeil and three other Black freshmen held a famous sit-in at Woolworth’s in 1960, which inspired peaceful protests across the country]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/9t9usKUzEmxHHJdrWcw5yerXKfs=/420x240/filters:focal(2736x1824:2737x1825)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ce/7c/ce7c4722-2c18-482d-9917-875797d5449c/gettyimages-1457707031.jpg" length="" type="" />
-    </item>    <item>
-      <title>The US government has no idea how many cybersecurity pros it employs</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/us_govt_lacks_clarity_infosec_workforce/</link>
-      <description>
-        <![CDATA[<h4>Auditors find federal cybersecurity workforce data messy, incomplete, and unreliable</h4> <p>The US federal government employs tens of thousands of cybersecurity professionals at a cost of billions per year – or at least it thinks it does, as auditors have found the figures are incomplete and unreliable. …</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241794</guid>
-    </item>    <item>
-      <title>Drift massive attack traced back to loose Salesloft GitHub account</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/drift_breach_entry_salesloft_github/</link>
-      <description>
-        <![CDATA[<h4>Meanwhile the victim count grows</h4> <p>The Salesloft Drift breach that compromised &#34;hundreds&#34; of companies including Google, Palo Alto Networks, and Cloudflare, all started with miscreants gaining access to the Salesloft GitHub account in March.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241796</guid>
-    </item>    <item>
-      <title>KDE Plasma 6 on FreeBSD using Wayland</title>
-      <link>https://www.osnews.com/story/143305/kde-plasma-6-on-freebsd-using-wayland/</link>
-      <description>
-        <![CDATA[This year, 2025, the KDE Community held its yearly conference in Berlin, Germany. On the way I reinstalled FreeBSD on my Frame.work 13 laptop in another attempt to get KDE Plasma 6 Wayland working. Short story: yes, KDE Plasma 6 Wayland on FreeBSD works. ↫ Adriaan de Groot Adriaan de Groot is a long-time KDE developer and FreeBSD package maintainer, and he&#8217;s published a short but detailed guide on setting up a KDE Plasma desktop on FreeBSD using Wayland instead of X11. With the Linux world slowly but finally leaving X11 behind, the BSD world really has little choice but to follow, especially if they want to continue offering the two major desktop environments. Most of KDE and GNOME are focused on Linux, and the BSDs have always kind of tagged along for the ride, and over the coming years that&#8217;s going to mean they&#8217;ll have to invest more in making Wayland run comfortably on BSD. Of course, the other option would be the KDE and GNOME experience on the BSDs slowly degrading over time, but I think especially FreeBSD is keen to avoid that fate, while OpenBSD and NetBSD seem a bit more hands-off in the desktop space. FreeBSD is investing heavily in its usability as a desktop operating system, and that&#8217;s simply going to mean getting Wayland support up to snuff. Not only will KDE and GNOME slowly depend more and more on Wayland, Xorg itself will also become less maintained than it already is. Sometimes, the current just takes you where it&#8217;s going.]]>
-      </description>
-      <guid>cid://https://www.osnews.com/?p=143305</guid>
-    </item>    <item>
-      <title>These Ant Queens Seem to Defy Biology: They Lay Eggs That Hatch Into Another Species</title>
-      <link>https://www.smithsonianmag.com/smart-news/these-ant-queens-seem-to-defy-biology-they-lay-eggs-that-hatch-into-another-species-180987292/</link>
-      <description>
-        <![CDATA[Iberian harvester ant queens produce offspring of their own species and of the builder harvester ant, seemingly by cloning males]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Ic3gghpztk0G1zYQgflCG6Ld1UA=/420x240/filters:focal(1250x702:1251x703)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9a/06/9a06586e-4baa-4f67-8588-3c1cb53bc84f/coverhorizontal.jpg" length="" type="" />
-    </item>    <item>
-      <title>Unofficial Windows 11 requirements bypass tool now allows you to disable all AI features</title>
-      <link>https://www.osnews.com/story/143303/unofficial-windows-11-requirements-bypass-tool-now-allows-you-to-disable-all-ai-features/</link>
-      <description>
-        <![CDATA[If you need to reinstall Windows 11, you&#8217;re most likely going to need to do a hell of a lot of post-install work to make Windows 11 somewhat manageable. There&#8217;s countless tools to make this process a little bit easier, and one of them, Flyoobe, just got a major update to aid in removing all the &#8220;AI&#8221; nonsense Microsoft is forcing down the throats of its users. Starting off with version 1.7, people who hate the way Microsoft has been stuffing AI features into Windows 11 will be pleased to know that there is an OOBE view that allows you to discover and disable all AI and Copilot features after the installation of the OS. Moreover, the OOBE view that handles bloat removal has been enhanced too, and now allows presets ranging from Minimal to Full, along with the ability to load custom presets from GitHub. ↫ Usama Jawad at Neowin If Microsoft actually cared about the users of its Windows operating system, they would simply include an advanced options view during installation, in which you could customise your installation. Instead, users have to rely on what are essentially hacks to get to a point where their operating system installation can serve their needs, which is batshit insane to me. I&#8217;m glad projects like Flyoobe exists, but they shouldn&#8217;t have to.]]>
-      </description>
-      <guid>cid://https://www.osnews.com/?p=143303</guid>
-    </item>    <item>
-      <title>Dev snared in crypto phishing net, 18 npm packages compromised</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/dev_falls_for_phishing_email/</link>
-      <description>
-        <![CDATA[<h4>Popular npm packages debug, chalk, and others hijacked in massive supply chain attack</h4> <p>Crims have added backdoors to at least 18 npm packages after developer Josh Junon inadvertently authorized a reset of the two-factor authentication protecting his npm account.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241795</guid>
-    </item>    <item>
-      <title>Scientists Investigate the Bacteria That Colonized Extinct Mammoths—and Uncover the Oldest Known Microbial DNA From a Host</title>
-      <link>https://www.smithsonianmag.com/smart-news/scientists-investigate-the-bacteria-that-colonized-extinct-mammoths-and-uncover-the-oldest-known-microbial-dna-from-a-host-180987299/</link>
-      <description>
-        <![CDATA[Some of the microbes might have been benign or helpful, while others could have caused deadly diseases]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/DGOpqVBwPJ1UbL5lt4Au69KsiNc=/420x240/filters:focal(1489x964:1490x965)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/65/34/6534062a-3ebe-4c3e-b9ca-3367457d05f3/mammoth_tooth_photo_by_love_dalen.jpg" length="" type="" />
-    </item>    <item>
-      <title>AI chip startup d-Matrix aspires to rack scale with JetStream I/O cards</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/dmatrix_jetstream_nic/</link>
-      <description>
-        <![CDATA[<h4>Who needs HBM when you can juggle SRAM speed and LPDDR bulk across racks</h4> <p>AI chip startup d-Matrix is pushing into rack scale with the introduction of its JetStream I/O cards, which are designed to allow larger models to be distributed across multiple servers or even racks while minimizing performance bottlenecks.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241793</guid>
-    </item>    <item>
-      <title>Sweden Releases an Official Cultural Canon That Features IKEA and &#39;Pippi Longstocking&#39;—but Not ABBA</title>
-      <link>https://www.smithsonianmag.com/smart-news/sweden-releases-an-official-cultural-canon-that-featutes-ikea-and-pippi-longstocking-but-no-abba-180987298/</link>
-      <description>
-        <![CDATA[Critics of the list, which features 100 artworks and other cultural creations from before 1975, say the selections are exclusionary]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/cP-hjorL6L0ttMjgZH4Zf3cv1iM=/420x240/filters:focal(4128x2752:4129x2753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/14/3f/143fb04a-40e5-4061-809a-106cae023d76/gettyimages-1258864117.jpg" length="" type="" />
-    </item>    <item>
-      <title>Salt Typhoon used dozens of domains, going back five years. Did you visit one?</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/salt_typhoon_domains/</link>
-      <description>
-        <![CDATA[<h4>Plus ties to the Chinese spies who hacked Barracuda email gateways</h4> <p>Security researchers have uncovered dozens of domains used by Chinese espionage crew Salt Typhoon to gain stealthy, long-term access to victim organizations going back as far as 2020.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241792</guid>
-    </item>    <item>
-      <title>Microsoft hits pause on Copilot ... in SQL Server Management Studio</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/microsoft_copilot_ssms/</link>
-      <description>
-        <![CDATA[<h4>Only a temporary reprieve until GitHub Copilot integration is up and running</h4> <p>Microsoft&#39;s policy of inserting Copilot into every corner of its portfolio is on brief hiatus, at least in the first preview of SQL Server Management Studio (SSMS) 22.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241784</guid>
-    </item>    <item>
-      <title>Perplexity wants to get discounted AI products into the US government too</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/perplexity_us_govt_ai_discount/</link>
-      <description>
-        <![CDATA[<h4>$0.25-per-agency deal not finalized, and no FedRAMP approval either - so don’t get excited</h4> <p>Perplexity has entered the race to inject AI into the federal government with a new public sector version of its AI search engine, another AI discount, and a pledge to start enforcing new security measures for government-related use, which weren&#39;t applied by default until now. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241788</guid>
-    </item>    <item>
-      <title>Tiny Tubes Reveal Clues to the Evolution of Complex Life</title>
-      <link>https://www.quantamagazine.org/tiny-tubes-reveal-clues-to-the-evolution-of-complex-life-20250908/</link>
-      <description>
-        <![CDATA[Scientists have identified tubulin structures in primitive Asgard archea that may have been the precursor of our own cellular skeletons.            <p>The post <a href="https://www.quantamagazine.org/tiny-tubes-reveal-clues-to-the-evolution-of-complex-life-20250908/" target="_blank">Tiny Tubes Reveal Clues to the Evolution of Complex Life</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <guid>cid://https://www.quantamagazine.org/?p=153907</guid>
-    </item>    <item>
-      <title>Ubuntu users left waiting after Canonical&#39;s servers take weekend off</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/canonical_server_outage/</link>
-      <description>
-        <![CDATA[<h4>Package queues jammed until Monday despite brief downtime</h4> <p>When is an outage not an outage? According to Canonical&#39;s forum, it&#39;s when a 36-minute server disruption creates a multi-day backlog that leaves users unable to install or update Ubuntu systems.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241782</guid>
-    </item>    <item>
-      <title>French datacenter biz signs 12-year nuclear pact with EDF</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/data4_edf_nuclear_deal/</link>
-      <description>
-        <![CDATA[<h4>Data4 to secure 40 MW of atomic juice as part of long-term low-carbon strategy</h4> <p>The datacenter industry&#39;s unquenchable thirst for nuclear energy has seen French bit barn operator Data4 sign a 12 year supply deal with EDF.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241780</guid>
-    </item>    <item>
-      <title>Man Who Tried to Smuggle 600 Looted Ancient Egyptian Artifacts in Three Checked Suitcases Is Going to Prison</title>
-      <link>https://www.smithsonianmag.com/smart-news/man-who-tried-to-smuggle-600-looted-ancient-egyptian-artifacts-in-three-checked-suitcases-is-going-to-prison-180987297/</link>
-      <description>
-        <![CDATA[Ashraf Omar Eldarir failed to declare the stolen goods when he entered the United States through New York's John F. Kennedy International Airport in 2020]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/qVNHuKzI-xJ4wcqpwenl8wf3V9g=/420x240/filters:focal(1079x719:1080x720)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/05/52/05521edb-4393-4d53-ab8d-ec2e5d7a0301/screenshot_2025-09-04_at_11846pm.jpeg" length="" type="" />
-    </item>    <item>
-      <title>Nova Launcher’s open source release blocked by its owners, despite contractual obligations</title>
-      <link>https://www.osnews.com/story/143297/nova-launchers-open-source-release-blocked-by-its-owners-despite-contractual-obligations/</link>
-      <description>
-        <![CDATA[Three years ago, the incredibly popular Android launcher Nova Launcher was acquired by Branch, a mobile links and analytics company. Understandably, people were worried this would spell the end of the launcher, as it would certainly become a vessel for tracking and mobile advertising. Weirdly enough, this never actually happened &#8211; instead, Nova just kind of fizzled out. First, virtually the entire Nova team was laid off two years after the acquisition, save for Nova&#8217;s original founder, Kevin Barry, who was not let go. Development had come to a halt already at that point, and ever since, it&#8217;s been quiet. Until this weekend. Barry posted on his blog that he left Branch, and thus is no longer working on Nova Launcher. You&#8217;d think this would be the final nail in the coffin for this once rather ubiquitous launcher, but that&#8217;s actually not the case, as Barry explains. For the past several months I have been preparing the Open Source release of Nova Launcher. This work included cleaning up the codebase, reviewing licenses, removing or replacing proprietary code, and coordinating with legal to ensure a proper release. When Branch acquired Nova in 2022, Branch then-CEO and founder Alex Austin made several public commitments to the community about Nova&#8217;s future, including statements about open sourcing:  However I was ultimately asked to stop working on Nova Launcher and the open sourcing effort. ↫ Kevin Barry Basically, one of the reasons Barry felt comfortable selling Nova to Branch was a contractual agreement &#8211; backed up by public statements from then-CEO of Branch, Alex Austin &#8211; that if Barry were to leave Branch, he would be allowed to release Nova as open source. It seems that this promise is not being honoured by the new CEO, for unclear reasons, leaving what was arguably one of the best launchers for Android in limbo. Nobody&#8217;s working on it anymore, and a contractual agreement is not being honoured, for whatever reason. One of the people who used to work on Nova but was part of that first round of layoffs, Cliff Wade, is now trying to raise awareness of this stalemate. He&#8217;s trying to talk to former colleagues at Branch, and trying to put some pressure on Branch to honour their contractual obligations and public promises. I&#8217;m fully behind this effort, because up until the institutional neglect set in, Nova was one of the very best Android applications, clearly made by people who truly understood what Android enthusiasts wanted out of a highly configurable launcher. Branch needs to honour its word, and allow Barry to continue preparing the release of Nova as open source. Head on over to Branch&#8217;s contact page, and let them know they need to release Nova as open source &#8211; in a polite, constructive manner, of course. The people working at Branch are just ordinary folk like you and I, and I will not stand for anyone being aggressive, insulting, or otherwise committing harassment towards Branch and its employees.]]>
-      </description>
-      <guid>cid://https://www.osnews.com/?p=143297</guid>
-    </item>    <item>
-      <title>PACER buckles under MFA rollout as courts warn of support delays</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/pacer_mfa_rollout/</link>
-      <description>
-        <![CDATA[<h4>Busy lawyers on hold for five hours as staff handhold users into deploying the security measure</h4> <p>US courts have warned of delays as PACER, the system for accessing court documents, struggles to support users enrolling in its mandatory MFA program.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241779</guid>
-    </item>    <item>
-      <title>Red Hat back-office team to be Big and Blue whether they like it or not</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/red_hatters_to_be_big/</link>
-      <description>
-        <![CDATA[<h4>Legal, HR, Finance and Accounting moving to IBM from 2026. Engineering and others staying put... for now</h4> <p>IBM-owned subsidiary Red Hat is docking a bunch of its back-office staff, along with the techies that support them, into the mothership.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241762</guid>
-    </item>    <item>
-      <title>CISA sounds alarm over TP-Link wireless routers under attack</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/infosec_in_brief/</link>
-      <description>
-        <![CDATA[<h4>Plus: Google clears up Gmail concerns, NSA drops SBOM bomb, Texas sues PowerSchool, and more</h4> <p><strong>Infosec in brief</strong>  The US Cybersecurity and Infrastructure Security Agency (CISA) has said two flaws in routers made by Chinese networking biz TP-Link are under active attack and need to be fixed – but there&#39;s another flaw being exploited as well.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241776</guid>
-    </item>    <item>
-      <title>UK tech minister booted out in weekend cabinet reshuffle</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/uk_cabinet_reshuffle_tech/</link>
-      <description>
-        <![CDATA[<h4>Fallout from latest political drama sparks a changing of the guard</h4> <p>UK prime minister Sir Keir Starmer cleared out the officials in charge of tech and digital law in a dramatic cabinet reshuffle at the weekend.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241781</guid>
-    </item>    <item>
-      <title>Pre-owned software trial kicks off in UK as Microsoft pushes resale ban</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/microsoft_valuelicensing_latest/</link>
-      <description>
-        <![CDATA[<h4>ValueLicensing&#39;s David spins the sling for another go at the Windows Goliath</h4> <p>Microsoft&#39;s tussle with UK-based reseller ValueLicensing over the sale of secondhand licenses returns to the UK&#39;s Competition Appeal Tribunal this week, with the Windows behemoth now claiming that selling pre-owned Office and Windows software is unlawful.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241778</guid>
-    </item>    <item>
-      <title>So much for the paperless office: UK government inks £900M deal for printers etc.</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/uk_government_printer_deal/</link>
-      <description>
-        <![CDATA[<h4>Four-year framework hands Canon and pals a license to print money</h4> <p>The UK government has awarded 12 suppliers places on a framework deal that could see it spend up to £900 million on printers, photocopiers, and other multifunctional devices.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241759</guid>
-    </item>    <item>
-      <title>VMware&#39;s in court again. Customer relationships rarely go this wrong</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/vmware_in_court_opinion/</link>
-      <description>
-        <![CDATA[<h4>Have you ever seen the &#39;Are we the baddies&#39; sketch, Broadcom?</h4> <p><strong>Opinion</strong>  If you&#39;re a tech company marketing manager writing white papers, you&#39;ll love a juicy pull quote. That&#39;s where a client says something so lovely about you, you can pull it out of the main text and reprint it in a big font in the middle of the page.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241757</guid>
-    </item>    <item>
-      <title>Playing ball games in the datacenter was obviously stupid, but we had to win the league</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/who_me/</link>
-      <description>
-        <![CDATA[<h4>You&#39;re out, forever!</h4> <p><strong>Who, Me?</strong>  Monday mornings see the resumption of endless coopetition between IT folks and those they strive to serve but sometimes disappoint. <i>The Register</i> celebrates that eternal struggle with a new edition of Who, Me? It&#39;s the reader-contributed column that offers the chance to admit failures and celebrate escapes.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241728</guid>
-    </item>    <item>
-      <title>Anthropic to pay at least $1.5 billion to authors whose work it knowingly pirated</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/anthropic_settles_author_lawsuit/</link>
-      <description>
-        <![CDATA[<h4>Expect more ‘slush funds’ of this sort, analyst tells <i>El Reg</i></h4> <p>AI upstart Anthropic has agreed to create a $1.5 billion fund it will use to compensate authors whose works it used to train its models without seeking or securing permission.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241777</guid>
-    </item>    <item>
-      <title>All IT work to involve AI by 2030, says Gartner, but jobs are safe</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/ai_impact_it_departments/</link>
-      <description>
-        <![CDATA[<h4>Analyst firm doesn’t rate OpenAI as an enterprise-ready vendor</h4> <p>All work in IT departments will be done with the help of AI by 2030, according to analyst firm Gartner, which thinks massive job losses won’t result.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241775</guid>
     </item>
   </channel>
 </rss>

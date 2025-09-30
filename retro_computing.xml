@@ -4,7 +4,7 @@
   <channel>
     <title>Retro Computing</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>29 Sep 25 16:49 -0700</lastBuildDate>
+    <lastBuildDate>30 Sep 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -921,28 +921,6 @@
         <![CDATA[Large language models can produce text that looks fluent and convincing but turns out to be wrong; a problem known as hallucination. These errors are not random glitches: they stem from how AI systems are trained, the data they learn from, the way we evaluate them, and even how people interact with them. In this [&#8230;]]]>
       </description>
       <guid>cid://http://paolozaino.wordpress.com/?p=9596</guid>
-    </item>    <item>
-      <title>NetMount client 1.5.0 and server 1.5.0</title>
-      <link>https://sourceforge.net/p/freedos/news/2025/09/netmount-client-150-and-server-150/</link>
-      <description>
-        <![CDATA[<div class="markdown_content"><p>If you need to transfer data between DOS and another system, here's another option: NetMount enables DOS systems to access shared directories from remote machines as if they were local drives. <strong>netmount</strong> on DOS talks to <strong>netmount-server</strong> on a server. Jaroslav Rohel recently released server 1.5.0 with "..optimizations and new features. Probably the biggest news is that support for storing DOS attributes has been added for more operating systems. It’s now supported on Linux, FreeBSD, and Windows .. DOS attributes can now be stored using either native file system support or extended attributes. This means that DOS attributes can be stored even on file systems that don’t support them natively, as long as extended attributes are available." Find <a class="" href="https://github.com/jrohel/NetMount/releases/tag/client-v1.5.0%2Cserver-v1.5.0" rel="nofollow">client 1.5.0 and server 1.5.0</a> at GitHub.</p></div>]]>
-      </description>
-      <guid>cid://https://sourceforge.net51d1fd59ba7640de1eaa5314415bf860748c1d01</guid>
-    </item>    <item>
-      <title>b.log 2025/09/08 - Weekend, Block EVERYTHING!, My multimeters.</title>
-      <link>https://heyrick.eu/blog/entry/20250908</link>
-      <description>
-        <![CDATA[Weekend, Block EVERYTHING!, My multimeters.]]>
-      </description>
-      <guid>cid://https://heyrick.eu/blog/entry/20250908</guid>
-    </item>    <item>
-      <title>AMD Initiates Graphics Driver Updates for Linux Kernel 6.18</title>
-      <link>http://www.linux-magazine.com/Online/News/AMD-Initiates-Graphics-Driver-Updates-for-Linux-Kernel-6.18</link>
-      <description>
-        <![CDATA[<p>This new AMD update focuses on power management, display handling, and hardware support for Radeon GPUs.</p>]]>
-      </description>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://8c8894adfce339bc4e8179bd49634bb9</guid>
     </item>
   </channel>
 </rss>
