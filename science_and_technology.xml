@@ -4,10 +4,24 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>30 Sep 25 15:07 -0700</lastBuildDate>
+    <lastBuildDate>30 Sep 25 16:15 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Cyborg dreams move closer to reality with low-power artificial neuron</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/30/cyborg_dreams_low_power_artificial_neurons/</link>
+      <description>
+        <![CDATA[<h4>UMass Amherst research promises better bioelectronic communication</h4> <p>Scientists affiliated with the University of Massachusetts Amherst have developed an artificial neuron that can communicate efficiently with biological neurons, a research advance expected to accelerate the development of bioelectronic devices and interfaces.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242230</guid>
+    </item>    <item>
+      <title>Fake North Korean IT workers sneaking into healthcare, finance, and AI</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/30/north_korean_it_workers_okta/</link>
+      <description>
+        <![CDATA[<h4>It&#39;s not just big tech anymore</h4> <p>The North Korean IT worker threat extends well beyond tech companies, with fraudsters interviewing at a &#34;surprising&#34; number of healthcare orgs, according to Okta Threat Intelligence.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242228</guid>
+    </item>    <item>
       <title>NASA, Blue Origin Invite Media to Attend Mars Mission Launch</title>
       <link>https://www.nasa.gov/news-release/nasa-blue-origin-invite-media-to-attend-mars-mission-launch/</link>
       <description>

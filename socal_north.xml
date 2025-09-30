@@ -4,10 +4,14 @@
   <channel>
     <title>socal_north.md</title>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>30 Sep 25 15:07 -0700</lastBuildDate>
+    <lastBuildDate>30 Sep 25 16:15 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Community Climate Action Day LA County Has People Talking</title>
+      <link>https://www.californiavolunteers.ca.gov/community-climate-action-day-la-county-has-people-talking/</link>
+      <guid>cid://https://www.californiavolunteers.ca.gov/?p=84308</guid>
+    </item>    <item>
       <title>Controversial Dodger Stadium gondola project gets new environmental report. Here&#39;s how you can weigh in</title>
       <link>https://laist.com/news/transportation/dodger-stadium-gondola-project-environmental-impact-report-public-comment</link>
       <description>
@@ -21,6 +25,10 @@
         <![CDATA[Twelve teams will enter October, but only one team will leave (with a ring). You can root for the three franchises that have never won a title before … or you can pull for the Yankees or Dodgers.]]>
       </description>
       <guid>cid://urn:uuid:00000199-9c4d-d2a0-adbd-ff7d42840000</guid>
+    </item>    <item>
+      <title>El Día Comunitario de Acción Climática del condado de Los Ángeles da de qué hablar</title>
+      <link>https://www.californiavolunteers.ca.gov/el-dia-comunitario-de-accion-climatica-del-condado-de-los-angeles-da-de-que-hablar/</link>
+      <guid>cid://https://www.californiavolunteers.ca.gov/?p=84358</guid>
     </item>    <item>
       <title>Trump administration sues LA County Sheriff over wait times for concealed carry weapon permits</title>
       <link>https://laist.com/news/criminal-justice/department-of-justice-sues-la-county-sheriffs-department-concealed-carry-weapon-permit-wait-times</link>
