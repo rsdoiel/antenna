@@ -1,56 +1,49 @@
 <!doctype html>
 <html lang="en-US">
 <head>
-  <meta charset="utf-8" >
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" >
-  <title>Selected NOAA Forcasts</title>
-  <link rel="stylesheet" type="text/css"  href="css/site.css" media="screen" >
+  <meta charset="UTF-8" />
+  <link  rel="alternate" type="text/markdown" href="forecasts.md" title=""/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="css/site.css" />
+  <script type="module" src="modules/date_filter.js"></script>
+  <meta name="generator" content="antenna/0.0.9">
+  <meta name="date" content="2025-10-01T16:30:05-07:00">
 </head>
 <body>
-<header>
-	<img class="logo" 
-		src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Antenna_1_-_The_Noun_Project.svg"
-		alt="line art showing an antenna"
-		height="80" width="60" >
-	<h1>The Antenna</h1> 
-	<h2>finding signal in the noise</h2>
-</header>
-<nav>
-<ul>
-	<li><a href="./">The Antenna</a></li>
-	<li><a href="README.html">Implementation</a></li>
-	<li><a href="search.html">Search</a></li>
-	<li><a href="about.html">About</a></li>
-</ul>
-</nav>
-<section>
-<h1 id="select-noaa-forecasts">Select NOAA Forecasts</h1>
-<ul>
-<li><a
-href="https://forecast.weather.gov/MapClick.php?lat=34.4523673&amp;lon=-118.5151005">Santa
-Clarita</a></li>
-<li><a
-href="https://forecast.weather.gov/MapClick.php?lat=34.433&amp;lon=-119.8569">Goleta</a></li>
-<li><a
-href="https://forecast.weather.gov/MapClick.php?lat=45.631061&amp;lon=-122.671567">Vancover,
-WA</a></li>
-<li><a
-href="https://forecast.weather.gov/MapClick.php?lat=37.9307&amp;lon=-121.7053">Brentwood,
-CA</a></li>
-<li><a
-href="https://forecast.weather.gov/MapClick.php?lat=13.4436&amp;lon=144.7776">Guam</a>,
-<a href="https://www.weather.gov/gum/PublicForecasts">Public
-Forecasts</a></li>
-<li><a
-href="https://forecast.weather.gov/product.php?issuedby=PQ2&amp;product=ZFP&amp;site=nws&amp;format=txt">Western
-Micronesia</a>, <a
-href="https://forecast.weather.gov/product.php?issuedby=PQ2&amp;product=CWF&amp;site=nws&amp;format=txt">Coastal
-Waters</a></li>
-</ul>
-</section>
-<footer>
-Antenna is a personal aggregation of items found around the web.<br>
-Curated with <a href="https://rsdoiel.github.io/antennaApp">antennaApp</a> and <a href="https://pandoc.org">Pandoc</a>.
-</footer>
+  <header>
+    <img class="logo" 
+        src="./media/Antenna_1_-_The_Noun_Project.svg"
+        alt="line art showing an antenna"
+        height="80" width="60" >
+    <h1>The Antenna</h1> 
+    <h2>finding signal in the noise</h2>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="./" "A personal news aggregation, finding signal in the noise">The Antenna</a></li>
+      <li><a href="README.html" "How to implement your own Antennna">Implementation</a></li>
+      <li><a href="search.html" "Search current items">Search</a></li>
+      <li><a href="about.html" "About the Antenna Project">About</a></li>
+    </ul>
+  </nav>
+
+  <section>
+    <article data-published="" data-link="">
+      <h1 id="select-noaa-forecasts">Select NOAA Forecasts</h1>
+      <ul>
+      <li><a href="https://forecast.weather.gov/MapClick.php?lat=34.4523673&amp;lon=-118.5151005">Santa Clarita</a></li>
+      <li><a href="https://forecast.weather.gov/MapClick.php?lat=34.433&amp;lon=-119.8569">Goleta</a></li>
+      <li><a href="https://forecast.weather.gov/MapClick.php?lat=45.631061&amp;lon=-122.671567">Vancover, WA</a></li>
+      <li><a href="https://forecast.weather.gov/MapClick.php?lat=37.9307&amp;lon=-121.7053">Brentwood, CA</a></li>
+      <li><a href="https://forecast.weather.gov/MapClick.php?lat=13.4436&amp;lon=144.7776">Guam</a>, <a href="https://www.weather.gov/gum/PublicForecasts">Public Forecasts</a></li>
+      <li><a href="https://forecast.weather.gov/product.php?issuedby=PQ2&amp;product=ZFP&amp;site=nws&amp;format=txt">Western Micronesia</a>, <a href="https://forecast.weather.gov/product.php?issuedby=PQ2&amp;product=CWF&amp;site=nws&amp;format=txt">Coastal Waters</a></li>
+      </ul>
+      
+    </article>
+  </section>
+  <footer>
+    Antenna is a personal aggregation of items found around the web.<br>
+    Curated with <a href="https://rsdoiel.github.io/antennaApp">antennaApp</a>.
+  </footer>
 </body>
 </html>

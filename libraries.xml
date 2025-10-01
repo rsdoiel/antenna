@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="https://source.scripting.com/">
-  <atom:link href="https://rsdoiel.github.io/antenna/libraries.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="http://localhost:8000/librariesxml" rel="self" type="application/rss+xml" />
   <channel>
-    <title>Libraries</title>
-    <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>01 Oct 25 15:18 -0700</lastBuildDate>
+    <title>Library and Archives organizations</title>
+    <link>http://localhost:8000/librariesxml</link>
+    <lastBuildDate>01 Oct 25 16:30 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -316,10 +316,10 @@ The post [Guest Post – Taxonomy of Delegation: How GAIDeT Reframes AI Transpar
       <title>Day in Review (September 29–October 2)</title>
       <link>https://www.arl.org/day-in-review/day-in-review-september-29-october-2/</link>
       <description>
-        <![CDATA[<p>Last Updated on October 1, 2025, 1:54 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...</p>
+        <![CDATA[<p>Last Updated on October 1, 2025, 6:14 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...</p>
         <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-29-october-2/">Day in Review (September 29–October 2)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on October 1, 2025, 1:54 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...
+      <source:markdown>Last Updated on October 1, 2025, 6:14 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...
 
 The post [Day in Review (September 29–October 2)](https://www.arl.org/day-in-review/day-in-review-september-29-october-2/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=46147</guid>
@@ -722,13 +722,6 @@ The post [Tackling Textbook Affordability](https://sr.ithaka.org/blog/tackling-t
 The post [Peer Review in the Era of AI: Risks, Rewards, and Responsibilities](https://scholarlykitchen.sspnet.org/2025/09/17/peer-review-in-the-era-of-ai-risks-rewards-and-responsibilities/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=60967</guid>
     </item>    <item>
-      <title>Open Access: ETH Zurich leads the way globally</title>
-      <link>https://rc-blog.ethz.ch/en/open-access-eth-zurich-leads-the-way-globally/</link>
-      <description>
-        <![CDATA[Thanks to its unique conditions, ETH Zurich is an international leader in terms of its share of open access publications, as analyses by the ETH Library show. This leads to greater visibility and strengthens research. Read more]]>
-      </description>
-      <guid>cid://https://rc-blog.ethz.ch/?p=2893</guid>
-    </item>    <item>
       <title>Raising the standard: GigaScience Press on metadata and discoverability</title>
       <link>https://www.crossref.org/blog/raising-the-standard-gigascience-press-on-metadata-and-discoverability/</link>
       <description>
@@ -924,14 +917,6 @@ Happy voting!</source:markdown>
       <source:markdown>A collection of Robert Louis Stevenson’s travel essays.</source:markdown>
       <enclosure url="https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays/downloads/robert-louis-stevenson_travel-essays.epub?source=feed" length="35530237" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays</guid>
-    </item>    <item>
-      <title>Day in Review (September 15–18)</title>
-      <link>https://www.arl.org/uncategorized/day-in-review-september-15-18/</link>
-      <description>
-        <![CDATA[<p>Last Updated on September 15, 2025, 3:44 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 16 &#124; Wednesday, September 17 &#124; Thursday,...</p>
-        <p>The post <a href="https://www.arl.org/uncategorized/day-in-review-september-15-18/">Day in Review (September 15–18)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
-      </description>
-      <guid>cid://https://www.arl.org/?p=45972</guid>
     </item>    <item>
       <title>Day in Review (September 15–18)</title>
       <link>https://www.arl.org/day-in-review/day-in-review-september-15-18/</link>
@@ -1214,14 +1199,6 @@ The post [John Unsworth on Libraries, Higher Education, and Anti-Fascism](https:
       <enclosure url="https://standardebooks.org/ebooks/sigrid-undset/the-bridal-wreath/charles-archer_j-s-scott/downloads/sigrid-undset_the-bridal-wreath_charles-archer-j-s-scott.epub?source=feed" length="909747" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/sigrid-undset/the-bridal-wreath/charles-archer_j-s-scott</guid>
     </item>    <item>
-      <title>Short Fiction, by Clifford D. Simak</title>
-      <link>https://standardebooks.org/ebooks/clifford-d-simak/short-fiction</link>
-      <description>
-        <![CDATA[A collection of short fiction by Clifford D. Simak, ordered by date of original publication.]]>
-      </description>
-      <enclosure url="https://standardebooks.org/ebooks/clifford-d-simak/short-fiction/downloads/clifford-d-simak_short-fiction.epub?source=feed" length="527833" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/clifford-d-simak/short-fiction</guid>
-    </item>    <item>
       <title>Student Success Research Featured in Special Edition of Peabody Journal of Education</title>
       <link>https://sr.ithaka.org/blog/student-success-research-featured-in-special-edition-of-peabody-journal-of-education/</link>
       <description>
@@ -1243,17 +1220,6 @@ The post [Student Success Research Featured in Special Edition of Peabody Journa
 
 The post [When the Scoreboard Becomes the Game, It’s Time to Recalibrate Research Metrics](https://scholarlykitchen.sspnet.org/2025/09/11/guest-post-when-the-scoreboard-becomes-the-game-its-time-to-recalibrate-research-metrics/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=60936</guid>
-    </item>    <item>
-      <title>Welcoming a New Chef in the Kitchen, Maryam Sayab</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/09/11/welcoming-a-new-chef-in-the-kitchen-maryam-sayab/</link>
-      <description>
-        <![CDATA[<p>Today we welcome a new Chef in the Kitchen, Maryam Sayab.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/09/11/welcoming-a-new-chef-in-the-kitchen-maryam-sayab/">Welcoming a New Chef in the Kitchen, Maryam Sayab</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Today we welcome a new Chef in the Kitchen, Maryam Sayab.
-
-The post [Welcoming a New Chef in the Kitchen, Maryam Sayab](https://scholarlykitchen.sspnet.org/2025/09/11/welcoming-a-new-chef-in-the-kitchen-maryam-sayab/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60957</guid>
     </item>    <item>
       <title>Deprecating co-access: Crossref plans and timelines</title>
       <link>https://www.crossref.org/blog/deprecating-co-access-crossref-plans-and-timelines/</link>
@@ -1359,14 +1325,6 @@ The post [What the Proposed Federal Data Collection Changes Mean for IPEDS](http
       </description>
       <source:markdown>Art historians, critics, curators, and humanities scholars rely on the records of artists, galleries, museums, and arts organizations to understand and contextualize contemporary artistic practice. Yet, much of the art-related \[…\]</source:markdown>
       <guid>cid://https://blog.archive.org/?p=29272</guid>
-    </item>    <item>
-      <title>Guest Post – Where Do We All Fit In? Reflections on Belonging, Purpose, and Progress in Scholarly Publishing</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/09/10/guest-post-where-do-we-all-fit-in-reflections-on-belonging-purpose-and-progress-in-scholarly-publishing/</link>
-      <description>
-        <![CDATA[<p>Today's guest post by Deja Forte declares: Publishing isn’t just about systems and standards; it’s about people. Each of us has the power to build bridges between knowledge and the lives it’s meant to benefit.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/09/10/guest-post-where-do-we-all-fit-in-reflections-on-belonging-purpose-and-progress-in-scholarly-publishing/">Guest Post – Where Do We All Fit In? Reflections on Belonging, Purpose, and Progress in Scholarly Publishing</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60943</guid>
     </item>
   </channel>
 </rss>

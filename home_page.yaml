@@ -1,0 +1,23 @@
+css: css/site.css
+modules:
+  - modules/date_filter.js
+header: |
+  <img class="logo" 
+      src="./media/Antenna_1_-_The_Noun_Project.svg"
+      alt="line art showing an antenna"
+      height="80" width="60" >
+  <h1>The Antenna</h1> 
+  <h2>finding signal in the noise</h2>
+
+nav: |
+  <ul>
+    <li><a href="./" "A personal news aggregation, finding signal in the noise">The Antenna</a></li>
+    <li><a href="README.html" "How to implement your own Antennna">Implementation</a></li>
+    <li><a href="search.html" "Search current items">Search</a></li>
+    <li><a href="about.html" "About the Antenna Project">About</a></li>
+  </ul>
+
+footer: |
+  Antenna is a personal aggregation of items found around the web.<br>
+  Curated with <a href="https://rsdoiel.github.io/antennaApp">antennaApp</a>.
+

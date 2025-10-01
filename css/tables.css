@@ -8,6 +8,10 @@ table {
   caption-side: bottom;
 }
 
+th {
+  text-align: left;
+}
+
 th, td {
   font-family: comic, cursive, helvetica;
   padding: 0.72em;

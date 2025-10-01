@@ -1,90 +1,68 @@
 <!doctype html>
 <html lang="en-US">
 <head>
-  <meta charset="utf-8" >
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" >
-  <title>Getting Things Done</title>
-  <link rel="stylesheet" type="text/css"  href="css/site.css" media="screen" >
+  <meta charset="UTF-8" />
+  <link  rel="alternate" type="text/markdown" href="TODO.md" title=""/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="css/site.css" />
+  <script type="module" src="modules/date_filter.js"></script>
+  <meta name="generator" content="antenna/0.0.9">
+  <meta name="date" content="2025-10-01T16:30:05-07:00">
 </head>
 <body>
-<header>
-	<img class="logo" 
-		src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Antenna_1_-_The_Noun_Project.svg"
-		alt="line art showing an antenna"
-		height="80" width="60" >
-	<h1>The Antenna</h1> 
-	<h2>finding signal in the noise</h2>
-</header>
-<nav>
-<ul>
-	<li><a href="./">The Antenna</a></li>
-	<li><a href="README.html">Implementation</a></li>
-	<li><a href="search.html">Search</a></li>
-	<li><a href="about.html">About</a></li>
-</ul>
-</nav>
-<section>
-<h1 id="gtd">GTD</h1>
-<h2 id="bugs">Bugs</h2>
-<ul class="task-list">
-<li><label><input type="checkbox" />Titles for archived pages need to be
-more explicit, this will help in formatting the search results with
-PageFind</label></li>
-<li><label><input type="checkbox" checked="" />The attenna SVG isn’t
-place correctly it needs to be in the mast head to the right of the site
-name and slogan</label></li>
-<li><label><input type="checkbox" />Sometimes the data in the feed is
-wrong,
-e.g. https://islandtimes.org/ngarametal-attorney-refuses-to-comply-with-court-order-held-in-contempt-of-court/
-is listed in the islandtimes feed but returns a 404 if you go to it.
-Need to filter out broken links and exclude from feed
-output.</label></li>
-</ul>
-<h2 id="next">Next</h2>
-<ul class="task-list">
-<li><label><input type="checkbox" />Look at Mozilla’s <a
-href="https://github.com/mozilla/readability">Readability</a>JS Package
-on GitHub and evaluate creating a reader for Antenna that works in RISC
-OS an could function as a standalone Pocket like application<br />
-</label></li>
-<li><label><input type="checkbox" />Render the Antenna content as a
-Gopher/Gemini site.</label></li>
-<li><label><input type="checkbox" checked="" />Need to build a page that
-shows the “current edition” of the aggregation</label></li>
-<li><label><input type="checkbox" checked="" />Need to build a page that
-links to all archived “editions” of the aggregation</label></li>
-<li><label><input type="checkbox" />Need to improve the README, should
-be more welcoming</label></li>
-<li><label><input type="checkbox" checked="" />Need to address that I am
-not editing the feeds content only curating the list of feeds, the
-curated list and sight design are mine</label></li>
-<li><label><input type="checkbox" />See if I can add copyright info at
-the item level, also look at citation styles for insight on
-this</label></li>
-<li><label><input type="checkbox" />If an item has a DOI it should be
-sited at the item level</label></li>
-<li><label><input type="checkbox" />Need to make sure the HTML I am
-generating is accessible to assistive tech</label></li>
-<li><label><input type="checkbox" />Improve metadata in head of HTML
-pages</label></li>
-<li><label><input type="checkbox" />Produce a feed for each “edition” of
-the aggregation</label></li>
-<li><label><input type="checkbox" />Can I integrate “Save to Pocket”
-buttons?</label></li>
-</ul>
-<h2 id="someday-maybe">Someday, maybe</h2>
-<ul class="task-list">
-<li><label><input type="checkbox" />Look at how I could usse htmlq (jq
-like for HTML) to either cleanup HTML feed content or to render a web
-page as a feed source</label></li>
-<li><label><input type="checkbox" />3 column output on wide
-screens</label></li>
-<li><label><input type="checkbox" />Responsive design</label></li>
-</ul>
-</section>
-<footer>
-Antenna is a personal aggregation of items found around the web.<br>
-Curated with <a href="https://rsdoiel.github.io/antennaApp">antennaApp</a> and <a href="https://pandoc.org">Pandoc</a>.
-</footer>
+  <header>
+    <img class="logo" 
+        src="./media/Antenna_1_-_The_Noun_Project.svg"
+        alt="line art showing an antenna"
+        height="80" width="60" >
+    <h1>The Antenna</h1> 
+    <h2>finding signal in the noise</h2>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="./" "A personal news aggregation, finding signal in the noise">The Antenna</a></li>
+      <li><a href="README.html" "How to implement your own Antennna">Implementation</a></li>
+      <li><a href="search.html" "Search current items">Search</a></li>
+      <li><a href="about.html" "About the Antenna Project">About</a></li>
+    </ul>
+  </nav>
+
+  <section>
+    <article data-published="" data-link="">
+      <h1 id="gtd">GTD</h1>
+      <h2 id="bugs">Bugs</h2>
+      <ul>
+      <li><input disabled="" type="checkbox" /> Titles for archived pages need to be more explicit, this will help in formatting the search results with PageFind</li>
+      <li><input checked="" disabled="" type="checkbox" /> The attenna SVG isn't place correctly it needs to be in the mast head to the right of the site name and slogan</li>
+      <li><input disabled="" type="checkbox" /> Sometimes the data in the feed is wrong, e.g. <a href="https://islandtimes.org/ngarametal-attorney-refuses-to-comply-with-court-order-held-in-contempt-of-court/">https://islandtimes.org/ngarametal-attorney-refuses-to-comply-with-court-order-held-in-contempt-of-court/</a> is listed in the islandtimes feed but returns a 404 if you go to it.  Need to filter out broken links and exclude from feed output.</li>
+      </ul>
+      <h2 id="next">Next</h2>
+      <ul>
+      <li><input disabled="" type="checkbox" /> Look at Mozilla's <a href="https://github.com/mozilla/readability">Readability</a>JS Package on GitHub and evaluate creating a reader for Antenna that works in RISC OS an could function as a standalone Pocket like application</li>
+      <li><input disabled="" type="checkbox" /> Render the Antenna content as a Gopher/Gemini site.</li>
+      <li><input checked="" disabled="" type="checkbox" /> Need to build a page that shows the &quot;current edition&quot; of the aggregation</li>
+      <li><input checked="" disabled="" type="checkbox" /> Need to build a page that links to all archived &quot;editions&quot; of the aggregation</li>
+      <li><input disabled="" type="checkbox" /> Need to improve the README, should be more welcoming</li>
+      <li><input checked="" disabled="" type="checkbox" /> Need to address that I am not editing the feeds content only curating the list of feeds, the curated list and sight design are mine</li>
+      <li><input disabled="" type="checkbox" /> See if I can add copyright info at the item level, also look at citation styles for insight on this</li>
+      <li><input disabled="" type="checkbox" /> If an item has a DOI it should be sited at the item level</li>
+      <li><input disabled="" type="checkbox" /> Need to make sure the HTML I am generating is accessible to assistive tech</li>
+      <li><input disabled="" type="checkbox" /> Improve metadata in head of HTML pages</li>
+      <li><input disabled="" type="checkbox" /> Produce a feed for each &quot;edition&quot; of the aggregation</li>
+      <li><input disabled="" type="checkbox" /> Can I integrate &quot;Save to Pocket&quot; buttons?</li>
+      </ul>
+      <h2 id="someday-maybe">Someday, maybe</h2>
+      <ul>
+      <li><input disabled="" type="checkbox" /> Look at how I could usse htmlq (jq like for HTML) to either cleanup HTML feed content or to render a web page as a feed source</li>
+      <li><input disabled="" type="checkbox" /> 3 column output on wide screens</li>
+      <li><input disabled="" type="checkbox" /> Responsive design</li>
+      </ul>
+      
+    </article>
+  </section>
+  <footer>
+    Antenna is a personal aggregation of items found around the web.<br>
+    Curated with <a href="https://rsdoiel.github.io/antennaApp">antennaApp</a>.
+  </footer>
 </body>
 </html>

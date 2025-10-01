@@ -1,124 +1,138 @@
 port: 8000
 htdocs: .
 baseUrl: https://rsdoiel.github.io/antenna
+generator: home_page.yaml
 collections:
     - title: Columns
+      link: http://localhost:8000/columnsxml
+      description: Blogs, columns and snapshots from around the web.
       file: columns.md
-      link: https://rsdoiel.github.io/antenna/columns.xml
-      generator: front_page.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: columns.db
+      generator: front_page.yaml
     - title: Craft
+      link: http://localhost:8000/craftxml
+      description: |-
+        Craft is a list of hand oriented craft and technology
+        Do we really need all those power tools?
       file: craft.md
-      link: https://rsdoiel.github.io/antenna/craft.xml
-      generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: craft.db
-    - title: Food
-      file: food.md
-      link: https://rsdoiel.github.io/antenna/food.xml
       generator: other_reading.yaml
+    - title: Healthy Eating, Good Eating and Recipes
+      link: http://localhost:8000/foodxml
+      file: food.md
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: food.db
-    - title: Going Electric
-      file: going_electric.md
-      link: https://rsdoiel.github.io/antenna/going_electric.xml
       generator: other_reading.yaml
+    - title: Going Electric
+      link: http://localhost:8000/going_electricxml
+      description: Going Electric has feeds involving home and transportation options powered by Electricity
+      file: going_electric.md
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: going_electric.db
-    - title: Home, Garden and Urban Farm
-      file: home.md
-      link: https://rsdoiel.github.io/antenna/home.xml
       generator: other_reading.yaml
+    - title: Home, Garden and Urban Farm related blogs
+      link: http://localhost:8000/homexml
+      file: home.md
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: home.db
-    - title: Journalism
-      file: journalism.md
-      link: https://rsdoiel.github.io/antenna/journalism.xml
       generator: other_reading.yaml
+    - title: Feeds Student Journalism and feeds about Journalism feeds
+      link: http://localhost:8000/journalismxml
+      file: journalism.md
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: journalism.db
-    - title: Libraries
-      file: libraries.md
-      link: https://rsdoiel.github.io/antenna/libraries.xml
       generator: other_reading.yaml
+    - title: Library and Archives organizations
+      link: http://localhost:8000/librariesxml
+      file: libraries.md
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: libraries.db
+      generator: other_reading.yaml
     - title: North America
+      link: http://localhost:8000/north_americaxml
       file: north_america.md
-      link: https://rsdoiel.github.io/antenna/north_america.xml
-      generator: front_page.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: north_america.db
-    - title: Pacific
-      file: pacific.md
-      link: https://rsdoiel.github.io/antenna/pacific.xml
       generator: front_page.yaml
+    - title: Items of interest to the Pacific community and the Pacific RIM
+      link: http://localhost:8000/pacificxml
+      file: pacific.md
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: pacific.db
-    - title: Planet
-      file: planet.md
-      link: https://rsdoiel.github.io/antenna/planet.xml
       generator: front_page.yaml
+    - title: Planet News
+      link: http://localhost:8000/planetxml
+      file: planet.md
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: planet.db
-    - title: Retro Computing
+      generator: front_page.yaml
+    - title: Retro Computing News
+      link: http://localhost:8000/retro_computingxml
       file: retro_computing.md
-      link: https://rsdoiel.github.io/antenna/retro_computing.xml
-      generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: retro_computing.db
+      generator: other_reading.yaml
     - title: Science and Technology
+      link: http://localhost:8000/science_and_technologyxml
       file: science_and_technology.md
-      link: https://rsdoiel.github.io/antenna/science_and_technology.xml
-      generator: front_page.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: science_and_technology.db
-    - title: Small Papers
-      file: small_papers.md
-      link: https://rsdoiel.github.io/antenna/small_papers.xml
       generator: other_reading.yaml
+    - title: Som Regional News Papers
+      link: http://localhost:8000/small_papersxml
+      file: small_papers.md
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: small_papers.db
+      generator: other_reading.yaml
     - title: socal_north.md
+      link: socal_north.xml
       file: socal_north.md
-      link: https://rsdoiel.github.io/antenna/socal_north.xml
-      generator: front_page.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: socal_north.db
+      generator: front_page.yaml
     - title: Writing
+      link: http://localhost:8000/writingxml
       file: writing.md
-      link: https://rsdoiel.github.io/antenna/writing.xml
-      generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: writing.db
+      generator: other_reading.yaml
+    - title: Antenna
+      link: http://localhost:8000/pagesxml
+      file: pages.md
+      filters:
+        - UPDATE items SET status = 'review';
+        - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
+      dbName: pages.db
+      generator: home_page.yaml

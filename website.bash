@@ -9,10 +9,11 @@ echo "Generating Pandoc pages"
 for MD_FILE in about.md forecasts.md index.md README.md search.md TODO.md; do
   HTML_FILE="$(basename "${MD_FILE}" ".md").html"
   echo "Generating $HTML_FILE from $MD_FILE"
-  pandoc -f markdown -t html5 \
-          --template front_page.tmpl \
-          "${MD_FILE}" \
-          >"${HTML_FILE}"
+  #pandoc -f markdown -t html5 \
+  #        --template front_page.tmpl \
+  #        "${MD_FILE}" \
+  #        >"${HTML_FILE}"
+  antenna page "${MD_FILE}" "${HTML_FILE}"
   if [ -d .git ]; then git add "${HTML_FILE}"; fi
 done
 

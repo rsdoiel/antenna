@@ -2,14 +2,13 @@
 <opml version="2.0">
     <head>
         <title>Writing</title>
-        <dateCreated>01 Oct 25 15:18 -0700</dateCreated>
+        <dateCreated>01 Oct 25 16:30 -0700</dateCreated>
     </head>
     <body>
         <outline text="(IFTF) Interactive Fiction Technology Foundation" type="atom" xmlUrl="https://blog.iftechfoundation.org/atom.xml" htmlUrl="http://blog.iftechfoundation.org/atom.xml,http://blog.iftechfoundation.org" url="http://blog.iftechfoundation.org/atom.xml"></outline>
         <outline text="Author&#39;s Union blog" type="rss" xmlUrl="https://www.authorsalliance.org/category/blog/feed/" htmlUrl="https://www.authorsalliance.org,https://www.authorsalliance.org/category/blog/feed/" url="https://www.authorsalliance.org/category/blog/feed/"></outline>
         <outline text="Chris Klimas blog (creator of Twine, an IF language)" type="rss" xmlUrl="https://chrisklimas.com/rss.xml" htmlUrl="https://chrisklimas.com,https://chrisklimas.com/rss.xml" description="Chris Klimas&#39;s Blog" url="https://chrisklimas.com/rss.xml"></outline>
         <outline text="Emily Short&#39;s blog (interactive fiction)" type="rss" xmlUrl="https://emshort.blog/feed/" htmlUrl="https://emshort.blog,https://emshort.blog/feed/" description="Narrative in games and new media" url="https://emshort.blog/feed/"></outline>
-        <outline text="Final Draft blog" type="rss" xmlUrl="https://blog.finaldraft.com/rss.xml" htmlUrl="https://blog.finaldraft.com" description="All the tips, tricks and information you need to inspire your screenwriting! Read interviews with Hollywood professionals, catch up with industry news, get writing advice and listen to Final Draft&#39;s Write On: Screenwriting Podcast."></outline>
         <outline text="IF Competition Blog" type="rss" xmlUrl="https://blog.ifcomp.org/rss" htmlUrl="https://blog.ifcomp.org/"></outline>
         <outline text="IF Database News" type="rss" xmlUrl="https://ifdb.org/news?rss" htmlUrl="https://ifdb.org/news" description="Updates on the latest new features on IFDB."></outline>
         <outline text="Inform 7 IF language blog" type="atom" xmlUrl="https://ganelson.github.io/inform-website/feed.xml" htmlUrl="https://ganelson.github.io/inform-website/feed.xml,https://ganelson.github.io/inform-website/" description="Inform is a natural-language-based programming language for writers of interactive fiction." url="https://ganelson.github.io/inform-website/feed.xml"></outline>

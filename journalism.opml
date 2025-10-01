@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <opml version="2.0">
     <head>
-        <title>Journalism</title>
-        <dateCreated>01 Oct 25 15:18 -0700</dateCreated>
+        <title>Feeds Student Journalism and feeds about Journalism feeds</title>
+        <dateCreated>01 Oct 25 16:30 -0700</dateCreated>
     </head>
     <body>
         <outline text="California Tech (Caltech Student Newspaper)" type="rss" xmlUrl="https://tech.caltech.edu/index.xml" htmlUrl="/,/index.xml" description="Recent content on The California Tech" url="/index.xml"></outline>
