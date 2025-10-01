@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+    <head>
+        <title>socal_north.md</title>
+        <dateCreated>01 Oct 25 12:34 -0700</dateCreated>
+    </head>
+    <body>
+        <outline text="CalVolunteers" type="rss" xmlUrl="https://www.californiavolunteers.ca.gov/feed/" htmlUrl="https://www.californiavolunteers.ca.gov,https://www.californiavolunteers.ca.gov/feed/" description="California Volunteers" url="https://www.californiavolunteers.ca.gov/feed/"></outline>
+        <outline text="Chumash News" type="rss" xmlUrl="https://chumash.gov/latest-news?format=rss" htmlUrl="https://chumash.gov/latest-news/"></outline>
+        <outline text="City of Santa Clarita" type="rss" xmlUrl="https://santaclarita.gov/feed/" htmlUrl="https://santaclarita.gov/,https://santaclarita.gov/feed/" url="https://santaclarita.gov/feed/"></outline>
+        <outline text="Desert Gazette Blog" type="rss" xmlUrl="https://desertgazette.com/blog/feed/" htmlUrl="https://desertgazette.com/blog,https://desertgazette.com/blog/feed/" url="https://desertgazette.com/blog/feed/"></outline>
+        <outline text="L.A. Conservancy Blog" type="rss" xmlUrl="https://laconservancy.tumblr.com/rss" htmlUrl="https://laconservancy.tumblr.com/"></outline>
+        <outline text="L.A. Public Health" type="rss" category="Government,Government" xmlUrl="https://feed.podbean.com/lapublichealth/feed.xml" htmlUrl="https://lapublichealth.podbean.com,https://feed.podbean.com/lapublichealth/feed.xml" description="The Los Angeles Department of Public Health&#39;s vision is simple: healthy people in healthy communities. The LA Public Health Podcast delivers news, updates, and compelling stories from the largest public health jurisdiction in North America, working every day to achieve health equity for more than 10 million Angelenos in every corner of Los Angeles County and beyond." url="https://feed.podbean.com/lapublichealth/feed.xml"></outline>
+        <outline text="NOAA Forecast for Santa Clarita" type="json" xmlUrl="https://api.weather.gov/points/34.3917,-118.5426"></outline>
+        <outline text="RAND press releases" type="atom" xmlUrl="https://www.rand.org/news/press.xml" htmlUrl="https://www.rand.org/news/press.xml,https://www.rand.org/news/press.html" url="https://www.rand.org/news/press.xml"></outline>
+        <outline text="RSS for https://www.rand.org/pubs/podcasts/policy-minded.html" type="rss" category="News,Science" xmlUrl="https://feeds.libsyn.com/131994/feed" htmlUrl="http://www.rand.org/pubs/podcasts/policy-minded.html,https://feeds.libsyn.com/131994/feed" description="On Policy Minded, we pick the brains of the world’s top policy experts. In each episode, RAND researchers join us for conversations that go beyond the headlines—bringing you insights you can&#39;t find anywhere else. Listen and subscribe today to get smarter about the policy issues that shape the world." url="https://feeds.libsyn.com/131994/feed"></outline>
+        <outline text="Santa Clarita Public Library" type="rss" xmlUrl="https://www.santaclaritalibrary.com/feed/" htmlUrl="https://www.santaclaritalibrary.com,https://www.santaclaritalibrary.com/feed/" description="Official City of Santa Clarita Public Library Website" url="https://www.santaclaritalibrary.com/feed/"></outline>
+        <outline text="The LAist" type="atom" xmlUrl="https://laist.com/index.atom" htmlUrl="https://laist.com/,https://laist.com/index.atom" description="Local and national news, NPR, things to do, food recommendations and guides to Los Angeles, Orange County and the Inland Empire" url="https://laist.com/index.atom"></outline>
+        <outline text="Transiting Los Angeles" type="rss" xmlUrl="https://transitinglosangeles.com/feed/" htmlUrl="https://transitinglosangeles.com,https://transitinglosangeles.com/feed/" url="https://transitinglosangeles.com/feed/"></outline>
+        <outline text="Vandenberg Base News" type="rss" xmlUrl="https://www.vandenberg.spaceforce.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&amp;Site=120&amp;isdashboardselected=0&amp;max=20&amp;Category=5303" htmlUrl="https://www.vandenberg.spaceforce.mil,www.vandenberg.spaceforce.mil?ContentType=1&amp;Site=120&amp;Category=5303&amp;isdashboardselected=0&amp;max=20" description="Vandenberg Space Force Base News RSS Feed" url="www.vandenberg.spaceforce.mil?ContentType=1&amp;Site=120&amp;Category=5303&amp;isdashboardselected=0&amp;max=20"></outline>
+    </body>
+</opml>

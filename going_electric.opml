@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+    <head>
+        <title>Going Electric</title>
+        <dateCreated>01 Oct 25 12:34 -0700</dateCreated>
+    </head>
+    <body>
+        <outline text="California Energy Blog" type="rss" xmlUrl="https://www.calenergyblog.com/blog-feed.xml" htmlUrl="https://www.calenergyblog.com/blog,https://www.calenergyblog.com/blog-feed.xml" description="My Site" url="https://www.calenergyblog.com/blog-feed.xml"></outline>
+        <outline text="Electrek Feed" type="rss" xmlUrl="https://electrek.co/feed/" htmlUrl="https://electrek.co/,https://electrek.co/feed/" description="EV and Tesla News, Green Energy, Ebikes, and more" url="https://electrek.co/feed/"></outline>
+        <outline text="Green Coast blog" type="rss" xmlUrl="https://greencoast.org/feed/" htmlUrl="https://greencoast.org,https://greencoast.org/feed/" description="Renewable Energy and Green Living" url="https://greencoast.org/feed/"></outline>
+        <outline text="Inside EVs News" type="rss" xmlUrl="https://insideevs.com/rss/news/all/" htmlUrl="https://insideevs.com/news/" description="Get breaking news, in-depth articles and press releases covering News"></outline>
+        <outline text="Off the Grid World" type="rss" xmlUrl="https://offgridworld.com/feed/" htmlUrl="https://offgridworld.com/,https://offgridworld.com/feed/" description="Off Grid Living: Power Your Independence" url="https://offgridworld.com/feed/"></outline>
+        <outline text="Shift Key" type="rss" category="Shift Key, Heatmap News, Robinson Meyer, Jesse Jenkins, Climate change, Energy,News,Business News,News,News Commentary,Science,Earth Sciences" xmlUrl="https://feeds.acast.com/public/shows/65bac3af03341c00164bf93b" htmlUrl="https://shows.acast.com/shift-key,https://feeds.acast.com/public/shows/65bac3af03341c00164bf93b" description="Every week, Heatmap News Executive Editor Robinson Meyer and Princeton University Professor and energy systems expert Jesse Jenkins make sense of the biggest shift of our time -- navigating the energy transition away from fossil fuels. Drawing on their years of experience reporting on and researching climate change and decarbonization, Meyer and Jenkins unpack the most important issues of the week and how the impacts of climate change and efforts to address it are transforming our economy, politics, and society at large. Music by Adam Kromelow.&lt;hr&gt;&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hosted on Acast. See &lt;a style=&#39;color:grey;&#39; target=&#39;_blank&#39; rel=&#39;noopener noreferrer&#39; href=&#39;https://acast.com/privacy&#39;&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;" url="https://feeds.acast.com/public/shows/65bac3af03341c00164bf93b"></outline>
+    </body>
+</opml>

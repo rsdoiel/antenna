@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+    <head>
+        <title>Small Papers</title>
+        <dateCreated>01 Oct 25 12:34 -0700</dateCreated>
+    </head>
+    <body>
+        <outline text="Desert Gazette Blog" type="rss" xmlUrl="https://desertgazette.com/blog/feed/" htmlUrl="https://desertgazette.com/blog,https://desertgazette.com/blog/feed/" url="https://desertgazette.com/blog/feed/"></outline>
+        <outline text="Long Beach Post" type="rss" xmlUrl="https://lbpost.com/news/feed/" htmlUrl="https://lbpost.com/news/,https://lbpost.com/news/feed/" description="Long Beach&#39;s most read source for local news, investigative reports, arts &amp; culture, food, business, sports, and real-estate." url="https://lbpost.com/news/feed/"></outline>
+        <outline text="the San Fernando Valley Sun/el Sol de Valle San Fernando" type="rss" xmlUrl="https://sanfernandosun.com/feed/" htmlUrl="https://sanfernandosun.com/,https://sanfernandosun.com/feed/" description="Your Bilingual Community Newspaper for the Entire San Fernando Valley" url="https://sanfernandosun.com/feed/"></outline>
+    </body>
+</opml>

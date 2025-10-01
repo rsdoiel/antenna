@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+    <head>
+        <title>Science and Technology</title>
+        <dateCreated>01 Oct 25 12:34 -0700</dateCreated>
+    </head>
+    <body>
+        <outline text="Caltech Magazine" type="rss" xmlUrl="https://magazine.caltech.edu/index?format=rss" htmlUrl="https://magazine.caltech.edu/"></outline>
+        <outline text="NASA breaking news" type="rss" xmlUrl="https://www.nasa.gov/news-release/feed/" htmlUrl="https://www.nasa.gov,https://www.nasa.gov/news-release/feed/" description="Official National Aeronautics and Space Administration Website" url="https://www.nasa.gov/news-release/feed/"></outline>
+        <outline text="OS News" type="rss" xmlUrl="https://www.osnews.com/feed/" htmlUrl="https://www.osnews.com,https://www.osnews.com/feed/" description="Exploring the Future of Computing" url="https://www.osnews.com/feed/"></outline>
+        <outline text="Purism News" type="rss" xmlUrl="https://puri.sm/feed/" htmlUrl="https://puri.sm/,https://puri.sm/feed/" description="High-quality computers that protect your freedom and privacy" url="https://puri.sm/feed/"></outline>
+        <outline text="Quanta Magazine" type="rss" xmlUrl="https://www.quantamagazine.org/feed/" htmlUrl="https://www.quantamagazine.org,https://www.quantamagazine.org/feed/" description="Illuminating science" url="https://www.quantamagazine.org/feed/"></outline>
+        <outline text="Servo blog" type="atom" xmlUrl="https://servo.org/blog/feed.xml" htmlUrl="https://servo.org/blog/feed.xml,https://servo.org" description="All the entries in the Servo blog." url="https://servo.org/blog/feed.xml"></outline>
+        <outline text="Smithsonian Magazine" type="rss" xmlUrl="https://www.smithsonianmag.com/rss/smart-news/" htmlUrl="https://www.smithsonianmag.com/rss/smart-news/" description="RSS feed for Smart News"></outline>
+        <outline text="System 76 Blog" type="rss" xmlUrl="https://blog.system76.com/rss.xml" htmlUrl="https://blog.system76.com/rss.xml" description="System76 Blog RSS Feed"></outline>
+        <outline text="The Hidden Brain Podcast" type="rss" xmlUrl="https://feeds.npr.org/423302056/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=423302056" description="Recent episodes of Hidden Brain podcast can now be found at hiddenbrain.org. Hidden Brain helps curious people understand the world-&lt;em&gt;– and themselves. Using science and storytelling, &lt;em&gt;Hidden Brain&lt;/em&gt;&#39;s host Shankar Vedantam reveals the unconscious patterns that drive human behavior, the biases that shape our choices, and the triggers that direct the course of our relationships.&lt;/em&gt;"></outline>
+        <outline text="The Register (UK I.T. News)" type="atom" xmlUrl="https://www.theregister.com/headlines.atom" htmlUrl="https://www.theregister.com/headlines.atom,https://www.theregister.com/" description="Biting the hand that feeds IT — Enterprise Technology News and Analysis" url="https://www.theregister.com/headlines.atom"></outline>
+    </body>
+</opml>

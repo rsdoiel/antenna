@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+    <head>
+        <title>Food</title>
+        <dateCreated>01 Oct 25 12:34 -0700</dateCreated>
+    </head>
+    <body>
+        <outline text="Bon Appetet" type="rss" xmlUrl="https://www.bonappetit.com/feed/rss" htmlUrl="https://www.bonappetit.com,https://www.bonappetit.com/feed/rss" description="The latest from www.bonappetit.com" url="https://www.bonappetit.com/feed/rss"></outline>
+        <outline text="Chili Pepper Madness" type="rss" xmlUrl="https://www.chilipeppermadness.com/feed/" htmlUrl="https://www.chilipeppermadness.com/,https://www.chilipeppermadness.com/feed/" description="Bold and Spicy Food and Recipes" url="https://www.chilipeppermadness.com/feed/"></outline>
+        <outline text="Closet Cooking" type="rss" xmlUrl="https://www.closetcooking.com/feed/" htmlUrl="https://www.closetcooking.com/,https://www.closetcooking.com/feed/" description="Cooking adventures in a small, closet sized, kitchen. - I came to realize that my meals were boring and that I had been eating the same few dishes over and over again for years. It was time for a change! I now spend my free time searching for, creating and trying tasty new recipes in my closet sized kitchen." url="https://www.closetcooking.com/feed/"></outline>
+        <outline text="Daily Coffee News" type="rss" xmlUrl="https://dailycoffeenews.com/feed/" htmlUrl="https://dailycoffeenews.com/,https://dailycoffeenews.com/feed/" description="Business news for specialty coffee professionals" url="https://dailycoffeenews.com/feed/"></outline>
+        <outline text="Hacking Salt" type="rss" xmlUrl="https://www.hackingsalt.com/feed/" htmlUrl="https://www.hackingsalt.com/,https://www.hackingsalt.com/feed/" description="Lose Salt, Not Taste" url="https://www.hackingsalt.com/feed/"></outline>
+        <outline text="Irish Food Hub" type="rss" xmlUrl="https://irishfoodhub.com/feed/" htmlUrl="https://irishfoodhub.com/,https://irishfoodhub.com/feed/" description="Irish Groceries, Chocolate, Crisps, Biscuits, Meats, Breakfast Items and more" url="https://irishfoodhub.com/feed/"></outline>
+        <outline text="Isebel Eats" type="rss" xmlUrl="https://www.isabeleats.com/feed/" htmlUrl="https://www.isabeleats.com/,https://www.isabeleats.com/feed/" description="Easy Mexican recipes for home cooks" url="https://www.isabeleats.com/feed/"></outline>
+        <outline text="Pepper Scale" type="rss" xmlUrl="https://pepperscale.com/feed/" htmlUrl="https://pepperscale.com,https://pepperscale.com/feed/" description="All Things Hot Peppers, Spicy Recipes &amp; More" url="https://pepperscale.com/feed/"></outline>
+        <outline text="Spiceography" type="rss" xmlUrl="https://spiceography.com/feed/" htmlUrl="https://spiceography.com,https://spiceography.com/feed/" description="Master Your Spice Rack" url="https://spiceography.com/feed/"></outline>
+        <outline text="Taste of Home" type="rss" xmlUrl="https://www.tasteofhome.com/feed/" htmlUrl="https://www.tasteofhome.com/,https://www.tasteofhome.com/feed/" description="Find Recipes, Appetizers, Desserts, Holiday Recipes &amp; Healthy Cooking Tips" url="https://www.tasteofhome.com/feed/"></outline>
+        <outline text="The Fresh Cup" type="rss" xmlUrl="https://freshcup.com/feed/" htmlUrl="https://freshcup.com/,https://freshcup.com/feed/" description="Coffee Industry Stories and Insights" url="https://freshcup.com/feed/"></outline>
+        <outline text="The Sprudge" type="rss" xmlUrl="https://sprudge.com/feed" htmlUrl="https://sprudge.com,https://sprudge.com/feed" description="Quality coffee news, guides, and recommendations from trusted coffee experts." url="https://sprudge.com/feed"></outline>
+    </body>
+</opml>

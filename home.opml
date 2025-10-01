@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+    <head>
+        <title>Home, Garden and Urban Farm</title>
+        <dateCreated>01 Oct 25 12:34 -0700</dateCreated>
+    </head>
+    <body>
+        <outline text="Calfifornia Dept. Aggriculture blog" type="rss" xmlUrl="https://plantingseedsblog.cdfa.ca.gov/wordpress/?feed=rss2" htmlUrl="https://plantingseedsblog.cdfa.ca.gov/wordpress,https://plantingseedsblog.cdfa.ca.gov/wordpress/?feed=rss2" description="Protecting and Promoting California Agriculture" url="https://plantingseedsblog.cdfa.ca.gov/wordpress/?feed=rss2"></outline>
+        <outline text="California Grown" type="rss" xmlUrl="https://californiagrown.org/feed/" htmlUrl="https://californiagrown.org/,https://californiagrown.org/feed/" url="https://californiagrown.org/feed/"></outline>
+        <outline text="California Native Plants Society" type="rss" xmlUrl="https://www.cnps.org/feed" htmlUrl="https://www.cnps.org/,https://www.cnps.org/feed" description="Preserving California Native Flora" url="https://www.cnps.org/feed"></outline>
+        <outline text="California Native Plants Society, Santa Clarita" type="rss" xmlUrl="https://www.cnps-scv.org/?format=feed&amp;type=rss" htmlUrl="https://www.cnps-scv.org/,https://www.cnps-scv.org/?format=feed&amp;type=rss" description="A chapter of the California Native Plant Society, protecting the flora and educating people in native plants." url="https://www.cnps-scv.org/?format=feed&amp;type=rss"></outline>
+        <outline text="California Oaks News" type="rss" xmlUrl="https://californiaoaks.org/feed/" htmlUrl="https://californiaoaks.org,https://californiaoaks.org/feed/" url="https://californiaoaks.org/feed/"></outline>
+        <outline text="City of Santa Clarita, Urban Forestry News" type="rss" xmlUrl="https://santaclarita.gov/specialdistricts/feed/" htmlUrl="https://santaclarita.gov/specialdistricts/,https://santaclarita.gov/specialdistricts/feed/" url="https://santaclarita.gov/specialdistricts/feed/"></outline>
+        <outline text="Community Gardens of Santa Clarita" type="rss" xmlUrl="https://communitygardensofsantaclarita.org/feed/" htmlUrl="https://communitygardensofsantaclarita.org,https://communitygardensofsantaclarita.org/feed/" url="https://communitygardensofsantaclarita.org/feed/"></outline>
+        <outline text="Edible San Fernando Valley" type="rss" xmlUrl="https://www.ediblesfvalley.com/feed/" htmlUrl="https://www.ediblesfvalley.com/,https://www.ediblesfvalley.com/feed/" url="https://www.ediblesfvalley.com/feed/"></outline>
+        <outline text="Family Handyman Blog" type="rss" xmlUrl="https://www.familyhandyman.com/feed/" htmlUrl="https://www.familyhandyman.com/,https://www.familyhandyman.com/feed/" description="Do it Yourself Home Improvement: Home Repair" url="https://www.familyhandyman.com/feed/"></outline>
+        <outline text="Gardenista Blog" type="rss" xmlUrl="https://www.gardenista.com/rss/" htmlUrl="https://www.gardenista.com" description="Sourcebook for Cultivated Living"></outline>
+        <outline text="Greg Alder&#39;s blog, Yard Post" type="rss" xmlUrl="https://gregalder.com/yardposts/feed/" htmlUrl="https://gregalder.com/yardposts/,https://gregalder.com/yardposts/feed/" description="Southern California food gardening" url="https://gregalder.com/yardposts/feed/"></outline>
+        <outline text="L.A. Country Agriculture Commissioner/Weights &amp; Measures News" type="rss" xmlUrl="https://acwm.lacounty.gov/feed/" htmlUrl="https://acwm.lacounty.gov,https://acwm.lacounty.gov/feed/" description="Los Angeles County" url="https://acwm.lacounty.gov/feed/"></outline>
+        <outline text="Practical Off-Grid Living" type="rss" xmlUrl="https://www.practicaloffgridliving.com/feed/" htmlUrl="https://www.practicaloffgridliving.com/,https://www.practicaloffgridliving.com/feed/" description="Get Out There!" url="https://www.practicaloffgridliving.com/feed/"></outline>
+        <outline text="San Diego Seed Company" type="rss" xmlUrl="https://sandiegoseedcompany.com/feed/" htmlUrl="https://sandiegoseedcompany.com/,https://sandiegoseedcompany.com/feed/" description="Local Seeds | Buy Local Seeds from San Diego Seed Company" url="https://sandiegoseedcompany.com/feed/"></outline>
+        <outline text="Sunset Magazine - Living in the West" type="rss" xmlUrl="https://www.sunset.com/feed" htmlUrl="https://www.sunset.com/,https://www.sunset.com/feed" description="The original Western lifestyle publication since 1898." url="https://www.sunset.com/feed"></outline>
+        <outline text="The Freckled Gardener" type="rss" xmlUrl="https://freckledcalifornian.com/feed/" htmlUrl="https://freckledcalifornian.com/,https://freckledcalifornian.com/feed/" description="A lifestyle inspired by the garden" url="https://freckledcalifornian.com/feed/"></outline>
+        <outline text="The Gardener&#39;s Path" type="rss" xmlUrl="https://gardenerspath.com/feed/" htmlUrl="https://gardenerspath.com/,https://gardenerspath.com/feed/" description="Everything yard and gardening" url="https://gardenerspath.com/feed/"></outline>
+        <outline text="Virtical Farm Blog" type="rss" xmlUrl="http://www.verticalfarm.com/?feed=rss2" htmlUrl="http://www.verticalfarm.com,http://www.verticalfarm.com/?feed=rss2" description="Feeding the World in the 21st Century" url="http://www.verticalfarm.com/?feed=rss2"></outline>
+        <outline text="Wild Yards blog" type="rss" xmlUrl="https://wildyards.com/feed/" htmlUrl="https://wildyards.com,https://wildyards.com/feed/" url="https://wildyards.com/feed/"></outline>
+        <outline text="Yard Life blog" type="rss" xmlUrl="https://ownyardlife.com/feed/" htmlUrl="https://ownyardlife.com/,https://ownyardlife.com/feed/" description="Gardening Guide" url="https://ownyardlife.com/feed/"></outline>
+    </body>
+</opml>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+    <head>
+        <title>Journalism</title>
+        <dateCreated>01 Oct 25 12:34 -0700</dateCreated>
+    </head>
+    <body>
+        <outline text="California Tech (Caltech Student Newspaper)" type="rss" xmlUrl="https://tech.caltech.edu/index.xml" htmlUrl="/,/index.xml" description="Recent content on The California Tech" url="/index.xml"></outline>
+        <outline text="Chaminade Silversword (Chaminade Univ. student newspaper)" type="rss" xmlUrl="https://thesilversword.com/category/news/feed/" htmlUrl="https://thesilversword.com,https://thesilversword.com/category/news/feed/" description="The student news site of Chaminade University of Honolulu" url="https://thesilversword.com/category/news/feed/"></outline>
+        <outline text="Nieman Journalism Lab" type="rss" xmlUrl="https://feeds.feedburner.com/NiemanJournalismLab" htmlUrl="https://www.niemanlab.org,https://www.niemanlab.org/feed/" url="https://www.niemanlab.org/feed/"></outline>
+        <outline text="The Canyon News (COC Student Newspaper)" type="rss" xmlUrl="https://canyonsnews.com/feed/" htmlUrl="https://canyonsnews.com/,https://canyonsnews.com/feed/" description="Breaking. Live. Local. Campus." url="https://canyonsnews.com/feed/"></outline>
+        <outline text="The Daily Bruin (UCLA Student Newspaper)" type="rss" xmlUrl="https://wp.dailybruin.com/feed/" htmlUrl="https://dailybruin.com,https://dailybruin.com/feed/" description="Since 1919" url="https://dailybruin.com/feed/"></outline>
+        <outline text="The Daily Trojan (USC Student Newspaper)" type="rss" xmlUrl="https://dailytrojan.com/feed/" htmlUrl="https://dailytrojan.com/home/,https://dailytrojan.com/feed/" description="University of Southern California" url="https://dailytrojan.com/feed/"></outline>
+        <outline text="The Occidental News (Occidental College Student Newspaper)" type="rss" xmlUrl="https://theoccidentalnews.com/feed" htmlUrl="https://theoccidentalnews.com/,https://theoccidentalnews.com/feed" description="The Official Newspaper of Occidental College since 1893" url="https://theoccidentalnews.com/feed"></outline>
+        <outline text="The Round Up (Pierce College Student Newspaper)" type="rss" xmlUrl="https://www.piercemediaarts.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory" htmlUrl="https://www.piercemediaarts.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory,https://www.piercemediaarts.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory" description="www.piercemediaarts.com - RSS Results&#xA;&#x9;&#x9;only for asset type(s) of article&#xA;&#x9;&#x9;with keyword(s) of #topstory" url="https://www.piercemediaarts.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory"></outline>
+        <outline text="The Sundail (CSUN Student Newspaper)" type="rss" xmlUrl="https://sundial.csun.edu/feed/" htmlUrl="https://sundial.csun.edu,https://sundial.csun.edu/feed/" description="The student media organization of California State University Northridge" url="https://sundial.csun.edu/feed/"></outline>
+    </body>
+</opml>
