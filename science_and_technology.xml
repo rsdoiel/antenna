@@ -4,10 +4,230 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>01 Oct 25 13:58 -0700</lastBuildDate>
+    <lastBuildDate>01 Oct 25 15:11 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Texas man accidentally shoots cable, brings internet down</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/texas_internet_outage_gunshot/</link>
+      <description>
+        <![CDATA[<h4>And it’s not the first time gunfire has cut Spectrum’s lines</h4> <p>A stray bullet cut through a Spectrum fiber line on Friday, knocking an undisclosed number of Texans offline.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### And it’s not the first time gunfire has cut Spectrum’s lines
+
+A stray bullet cut through a Spectrum fiber line on Friday, knocking an undisclosed number of Texans offline.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242261</guid>
+    </item>    <item>
+      <title>Why Is This Remote and Rugged River in Alaska Turning Orange?</title>
+      <link>https://www.smithsonianmag.com/smart-news/why-is-this-remote-and-rugged-river-in-alaska-turning-orange-180987431/</link>
+      <description>
+        <![CDATA[New research suggests the Salmon River is full of toxic metals that are likely harming fish and other aquatic creatures]]>
+      </description>
+      <source:markdown>New research suggests the Salmon River is full of toxic metals that are likely harming fish and other aquatic creatures</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/cIMACSSTCEUVU7PP_yByg3Zs7dk=/420x240/filters:focal(1457x1817:1458x1818)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/83/d0/83d0995d-df81-40fa-aa59-1fa4c6bac39f/fig_1a.jpeg" length="" type="" />
+    </item>    <item>
+      <title>Microsoft declares bring your Copilot to work day, usurping IT authority</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/microsoft_consumer_copilot_corporate/</link>
+      <description>
+        <![CDATA[<h4>Use your home subscription with your work Microsoft 365 account</h4> <p>Your job may not support BYOD, but how about BYOC? Microsoft has declared that people can bring their personal Microsoft 365 subscriptions to work to access various Copilot features at companies that fail to provide an AI fix.…</p>]]>
+      </description>
+      <source:markdown>#### Use your home subscription with your work Microsoft 365 account
+
+Your job may not support BYOD, but how about BYOC? Microsoft has declared that people can bring their personal Microsoft 365 subscriptions to work to access various Copilot features at companies that fail to provide an AI fix.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242260</guid>
+    </item>    <item>
+      <title>After Two Years as Runner-Up, Chunk Is Finally Crowned Winner of Fat Bear Week</title>
+      <link>https://www.smithsonianmag.com/smart-news/after-two-years-as-runner-up-chunk-is-finally-crowned-winner-of-fat-bear-week-180987428/</link>
+      <description>
+        <![CDATA[The brown bear heavyweight persevered through a jaw injury this year that will permanently impact his ability to fight and hunt]]>
+      </description>
+      <source:markdown>The brown bear heavyweight persevered through a jaw injury this year that will permanently impact his ability to fight and hunt</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/BXlwfN8dzdnhPQ2wF3D3TkKDqpI=/420x240/filters:focal(1024x770:1025x771)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5b/6d/5b6d094c-81ca-4515-b4d3-10b64a0cfa57/54805414414_ef292e1f1f_k.jpg" length="" type="" />
+    </item>    <item>
+      <title>US gov shutdown leaves IT projects hanging, security defenders a skeleton crew</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/us_government_shutdown_it_seccurity/</link>
+      <description>
+        <![CDATA[<h4>The longer the shutdown, the less likely critical IT overhauls happen, ex Social Security CISO tells <i>The Register</i></h4> <p>The US government shut down at 1201 ET on October 1, halting non-essential IT modernization and leaving cybersecurity operations to run on skeleton crews.…</p>]]>
+      </description>
+      <source:markdown>#### The longer the shutdown, the less likely critical IT overhauls happen, ex Social Security CISO tells _The Register_
+
+The US government shut down at 1201 ET on October 1, halting non-essential IT modernization and leaving cybersecurity operations to run on skeleton crews.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242258</guid>
+    </item>    <item>
+      <title>&#39;Delightful&#39; root-access bug in Red Hat OpenShift AI allows full cluster takeover</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/critical_red_hat_openshift_ai_bug/</link>
+      <description>
+        <![CDATA[<h4>Who wouldn&#39;t want root access on cluster master nodes?</h4> <p>A 9.9 out of 10 severity bug in Red Hat&#39;s OpenShift AI service could allow a remote attacker with minimal authentication to steal data, disrupt services, and fully hijack the platform.…</p>]]>
+      </description>
+      <source:markdown>#### Who wouldn&#39;t want root access on cluster master nodes?
+
+A 9.9 out of 10 severity bug in Red Hat&#39;s OpenShift AI service could allow a remote attacker with minimal authentication to steal data, disrupt services, and fully hijack the platform.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242259</guid>
+    </item>    <item>
+      <title>The Highest Bridge in the World Just Opened in China at More Than 2,000 Feet Above the Ground</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-highest-bridge-in-the-world-just-opened-in-china-at-more-than-2000-feet-above-the-ground-180987429/</link>
+      <description>
+        <![CDATA[The Huajiang Grand Canyon Bridge in Guizhou broke the record previously held by the nearby Beipanjiang Bridge]]>
+      </description>
+      <source:markdown>The Huajiang Grand Canyon Bridge in Guizhou broke the record previously held by the nearby Beipanjiang Bridge</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/VpPKGh5tNoGxVpynwsZX9E4ZcJ4=/420x240/filters:focal(3402x2268:3403x2269)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ba/b4/bab4e26b-79fd-4bf4-b923-4e6147b830b1/gettyimages-2237694682.jpeg" length="" type="" />
+    </item>    <item>
+      <title>AI has had zero effect on jobs so far, says Yale study</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/ai_isnt_taking_people_jobs/</link>
+      <description>
+        <![CDATA[<h4>Other studies are finding the same thing</h4> <p>Yale researchers say that despite the anxiety about AI taking people&#39;s jobs, there&#39;s very little evidence of it actually happening.…</p>]]>
+      </description>
+      <source:markdown>#### Other studies are finding the same thing
+
+Yale researchers say that despite the anxiety about AI taking people&#39;s jobs, there&#39;s very little evidence of it actually happening.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242255</guid>
+    </item>    <item>
+      <title>What Actually Sparks Will-o&#39;-the-Wisps? A New Study Traces the Science Behind the Mysterious, Wandering Lights</title>
+      <link>https://www.smithsonianmag.com/smart-news/what-actually-sparks-will-o-the-wisps-a-new-study-traces-the-science-behind-the-mysterious-wandering-lights-180987421/</link>
+      <description>
+        <![CDATA[The ghostly phenomenon could be the product of a chemical reaction involving methane, researchers suggest]]>
+      </description>
+      <source:markdown>The ghostly phenomenon could be the product of a chemical reaction involving methane, researchers suggest</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/JQ-ClMD9Unmzn-C6fL10uT88pzA=/420x240/filters:focal(1709x1058:1710x1059)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b9/f9/b9f9ca96-ce50-48a4-bcbf-0669a88ba662/screenshot_2025-10-01_at_20553pm.png" length="" type="" />
+    </item>    <item>
+      <title>Air Force admits SharePoint privacy issue as reports trickle out of possible breach</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/us_air_force_investigates_breach/</link>
+      <description>
+        <![CDATA[<h4>Uncle Sam can&#39;t quit Redmond</h4> <p><strong>Exclusive</strong>  The US Air Force confirmed it&#39;s investigating a &#34;privacy-related issue&#34; amid reports of a Microsoft SharePoint-related breach and subsequent service-wide shutdown, rendering mission files and other critical tools potentially unavailable to service members.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Uncle Sam can&#39;t quit Redmond
+
+**Exclusive**  The US Air Force confirmed it&#39;s investigating a &#34;privacy-related issue&#34; amid reports of a Microsoft SharePoint-related breach and subsequent service-wide shutdown, rendering mission files and other critical tools potentially unavailable to service members.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242254</guid>
+    </item>    <item>
+      <title>Aurora immutable KDE Plasma workstation: Big, slow, and confusing</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/aurora_immutable_kde_workstation/</link>
+      <description>
+        <![CDATA[<h4>Based on Universal Blue, it&#39;s akin to Fedora Kinoite with knobs on… A lot of knobs</h4> <p>Aurora, a relatively young distro from Austria, bills itself as &#34;your stable, privacy-respecting and ultimate productivity OS.&#34; These are rather bold claims, though many other Linux distros make the same promise.…</p>]]>
+      </description>
+      <source:markdown>#### Based on Universal Blue, it&#39;s akin to Fedora Kinoite with knobs on… A lot of knobs
+
+Aurora, a relatively young distro from Austria, bills itself as &#34;your stable, privacy-respecting and ultimate productivity OS.&#34; These are rather bold claims, though many other Linux distros make the same promise.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242252</guid>
+    </item>    <item>
+      <title>Nadella hands Microsoft money machine off to new commercial CEO so he can visioneer the future</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/nadella_commercial_ceo_althoff/</link>
+      <description>
+        <![CDATA[<h4>Judson Althoff gets the job of keeping the biz running</h4> <p>Microsoft boss Satya Nadella told staff on Wednesday that he&#39;s appointing Judson Althoff to a new role as CEO of the company&#39;s commercial business, so that the big boss can concentrate on Redmond&#39;s future plans and strategy.…</p>]]>
+      </description>
+      <source:markdown>#### Judson Althoff gets the job of keeping the biz running
+
+Microsoft boss Satya Nadella told staff on Wednesday that he&#39;s appointing Judson Althoff to a new role as CEO of the company&#39;s commercial business, so that the big boss can concentrate on Redmond&#39;s future plans and strategy.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242253</guid>
+    </item>    <item>
+      <title>This Fishing Vessel Went Missing Without a Trace in 1929. Divers Just Found It Off the Coast of Nantucket</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-fishing-vessel-went-missing-without-a-trace-in-1929-divers-just-found-it-off-the-coast-of-nantucket-180987427/</link>
+      <description>
+        <![CDATA[After the captain completed his required daily check-in on January 18, 1929, no one ever saw or heard from the ST "Seiner" again]]>
+      </description>
+      <source:markdown>After the captain completed his required daily check-in on January 18, 1929, no one ever saw or heard from the ST &#34;Seiner&#34; again</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/nXQpltd-_bOo_1h3Nvj_0ZzwKfQ=/420x240/filters:focal(4752x3168:4753x3169)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/de/00/de002af1-e72d-4192-9d73-3f077bab02fe/2_-_trawl_door.jpeg" length="" type="" />
+    </item>    <item>
+      <title>Hundreds of orgs urge Microsoft: don’t kill off free Windows 10 updates</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/hundreds_businesses_urge_microsoft_not_end_win10_support/</link>
+      <description>
+        <![CDATA[<h4>Petitions pile up on Satya’s desk while Windows 7 mysteriously surges back from the grave</h4> <p>With Windows 10 support set to expire on October 14, hundreds of repair shops, nonprofits, and advocacy groups are urging Microsoft to extend free and automatic security updates instead of stranding hundreds of millions of PCs.…</p>]]>
+      </description>
+      <source:markdown>#### Petitions pile up on Satya’s desk while Windows 7 mysteriously surges back from the grave
+
+With Windows 10 support set to expire on October 14, hundreds of repair shops, nonprofits, and advocacy groups are urging Microsoft to extend free and automatic security updates instead of stranding hundreds of millions of PCs.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242251</guid>
+    </item>    <item>
+      <title>Windows 11 25H2 is mostly 24H2 with bits bolted on or ripped out</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/windows_11_25h2/</link>
+      <description>
+        <![CDATA[<h4>Microsoft&#39;s Secure Future pitch lands with old bugs still in tow</h4> <p>Windows 11 25H2 has seeped out of Redmond with just two weeks left before free support for most Windows 10 versions goes down the drain.…</p>]]>
+      </description>
+      <source:markdown>#### Microsoft&#39;s Secure Future pitch lands with old bugs still in tow
+
+Windows 11 25H2 has seeped out of Redmond with just two weeks left before free support for most Windows 10 versions goes down the drain.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242250</guid>
+    </item>    <item>
+      <title>Dialing Back to Move Forward: Why the Landline Revival Signals a Future for Privacy</title>
+      <link>https://puri.sm/posts/dialing-back-to-move-forward-why-the-landline-revival-signals-a-future-for-privacy/</link>
+      <description>
+        <![CDATA[<p>On September 30, 2025, The Washington Post reported a quiet trend in Washington, D.C.: the return of landline phones among officials and journalists seeking refuge from the omnipresent surveillance of smartphones. In a recent story, NBC News spotlighted parents in Maine and Seattle who are reviving landlines for their children—creating “landline pods” so kids can connect without the addictive pull of screens or the predatory reach of social media platforms.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/dialing-back-to-move-forward-why-the-landline-revival-signals-a-future-for-privacy/">Dialing Back to Move Forward: Why the Landline Revival Signals a Future for Privacy</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <source:markdown>On September 30, 2025, The Washington Post reported a quiet trend in Washington, D.C.: the return of landline phones among officials and journalists seeking refuge from the omnipresent surveillance of smartphones. In a recent story, NBC News spotlighted parents in Maine and Seattle who are reviving landlines for their children—creating “landline pods” so kids can connect without the addictive pull of screens or the predatory reach of social media platforms.
+
+The post [Dialing Back to Move Forward: Why the Landline Revival Signals a Future for Privacy](https://puri.sm/posts/dialing-back-to-move-forward-why-the-landline-revival-signals-a-future-for-privacy/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+      <guid>cid://https://puri.sm/?p=84618</guid>
+    </item>    <item>
+      <title>SpaceX rockets toward next Starship launch, set for October 13</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/spacex_sets_the_eve_of/</link>
+      <description>
+        <![CDATA[<h4>Once more with feeling...</h4> <p>SpaceX has named the date when it will try for another Starship launch without anything exploding. October 13, which is both the Columbus Day / Indigenous People&#39;s Day holiday and the last day of Windows 10 support, is the current target.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Once more with feeling...
+
+SpaceX has named the date when it will try for another Starship launch without anything exploding. October 13, which is both the Columbus Day / Indigenous People&#39;s Day holiday and the last day of Windows 10 support, is the current target.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242248</guid>
+    </item>    <item>
+      <title>OpenStack in the pink with Flamingo release that escapes ancient Python constrictions</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/openstack_flamingo_release/</link>
+      <description>
+        <![CDATA[<h4>Project boss pleased to be getting on top of technical debt</h4> <p>OpenStack has delivered its 32nd major release, named &#34;Flamingo.&#34;…</p>]]>
+      </description>
+      <source:markdown>#### Project boss pleased to be getting on top of technical debt
+
+OpenStack has delivered its 32nd major release, named &#34;Flamingo.&#34;…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242237</guid>
+    </item>    <item>
+      <title>Who Owns Your Digital Self?</title>
+      <link>https://puri.sm/posts/who-owns-your-digital-self/</link>
+      <description>
+        <![CDATA[<p>The lawsuits now circling Apple are not just about stolen phones. They are about stolen selves—stolen data, stolen memories, stolen identities.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/who-owns-your-digital-self/">Who Owns Your Digital Self?</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <source:markdown>The lawsuits now circling Apple are not just about stolen phones. They are about stolen selves—stolen data, stolen memories, stolen identities.
+
+The post [Who Owns Your Digital Self?](https://puri.sm/posts/who-owns-your-digital-self/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+      <guid>cid://https://puri.sm/?p=84608</guid>
+    </item>    <item>
+      <title>Taiwan gets chippy about US request it shifts manufacturing</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/taiwan_says_it_wont_help/</link>
+      <description>
+        <![CDATA[<h4>US has threatened even higher tariffs and the possible loss of military support</h4> <p>Taiwan has rejected US demands to shift semiconductor manufacturing so that half of America&#39;s chip needs are produced domestically, as tariff negotiations with the Trump administration intensify.…</p>]]>
+      </description>
+      <source:markdown>#### US has threatened even higher tariffs and the possible loss of military support
+
+Taiwan has rejected US demands to shift semiconductor manufacturing so that half of America&#39;s chip needs are produced domestically, as tariff negotiations with the Trump administration intensify.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242247</guid>
+    </item>    <item>
+      <title>Three Decades of Research Reveal a Forgotten Medieval Castle on a Scottish Island</title>
+      <link>https://www.smithsonianmag.com/smart-news/three-decades-of-research-reveal-a-forgotten-medieval-castle-on-a-scottish-island-180987426/</link>
+      <description>
+        <![CDATA[Archaeologists say Finlaggan was the seat of power for the Lordship of the Isles. Before that, a previously unknown castle stood at the site  during the 12th and 13th centuries]]>
+      </description>
+      <source:markdown>Archaeologists say Finlaggan was the seat of power for the Lordship of the Isles. Before that, a previously unknown castle stood at the site during the 12th and 13th centuries</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/oPENaaqtTmZZzsJoXtL2XI-zLNI=/420x240/filters:focal(648x469:649x470)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a4/71/a47172f1-0402-435a-91af-581b46726de9/resized-visualisation-of-the-castle-at-finlaggan-image-david-simon.jpg" length="" type="" />
+    </item>    <item>
+      <title>A Thermometer for Measuring Quantumness</title>
+      <link>https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001/</link>
+      <description>
+        <![CDATA[“Anomalous” heat flow, which at first appears to violate the second law of thermodynamics, gives physicists a way to detect quantum entanglement without destroying it.            <p>The post <a href="https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001/" target="_blank">A Thermometer for Measuring Quantumness</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>“Anomalous” heat flow, which at first appears to violate the second law of thermodynamics, gives physicists a way to detect quantum entanglement without destroying it.
+
+The post [A Thermometer for Measuring Quantumness](https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=155374</guid>
+    </item>    <item>
+      <title>Export controls now a key factor in AI chip development – adding risk for the whole industry</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/the_risks_of_export_controls/</link>
+      <description>
+        <![CDATA[<h4>The physics of transistors and politics of trading licenses are colliding on the AI frontier</h4> <p><strong>Analysis</strong>  Few of us would have imagined that national security would play such a key role in AI hardware, even dictating its development, but here we are – in a new era of export controls.…</p>]]>
+      </description>
+      <source:markdown>#### The physics of transistors and politics of trading licenses are colliding on the AI frontier
+
+**Analysis**  Few of us would have imagined that national security would play such a key role in AI hardware, even dictating its development, but here we are – in a new era of export controls.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242175</guid>
+    </item>    <item>
       <title>Raspberry Pi prices hiked as AI gobbles all the memory</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/raspberry_pi_price_hikes/</link>
       <description>
@@ -46,7 +266,7 @@ IDE and developer tools biz JetBrains believes training AI models on public data
       <source:markdown>Why Sagittarius B2 produces so many stars in comparison to the rest of the galactic center has remained an enduring mystery</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/H8TF2dfbFfEa01cRdEAp7BzxRwY=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4b/f9/4bf9d047-838a-42c7-81ba-9f709f51acee/smithsonian_feature_images_17.png" length="" type="" />
     </item>    <item>
-      <title>Autonomous AI adoption stalls amid trust and governance crisis</title>
+      <title>AI agent hypefest crashing up against cautious leaders, Gartner finds</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/gartner_ai_agents/</link>
       <description>
         <![CDATA[<h4>Only 15% considering deployments and just 7% say it&#39;ll replace humans in next four years</h4> <p>Enterprises aren&#39;t keen on letting autonomous agents take the wheel amid fears over trust and security as research once again shows that AI hype is crashing against the rocks of reality.…</p>]]>
@@ -497,11 +717,11 @@ NASA&#39;s Deep Space Optical Communications (DSOC) demonstration has completed 
       <title>&#39;Money-saving&#39; UK procurement platform racks up monster tab</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/30/uk_procurement_platform_bill/</link>
       <description>
-        <![CDATA[<h4>Projected £1.5M running costs balloon to £12M under new contracts</h4> <p>The UK government is set to see annual spending on a procurement portal designed to help save money increase by more than eight times compared to projected plans.…</p>]]>
+        <![CDATA[<h4>Projected £1.5M running costs balloon to £12M under new contracts</h4> <p><strong>Updated</strong>  The UK government is set to see annual spending on a procurement portal designed to help save money increase by more than eight times compared to projected plans.…</p>]]>
       </description>
       <source:markdown>#### Projected £1.5M running costs balloon to £12M under new contracts
 
-The UK government is set to see annual spending on a procurement portal designed to help save money increase by more than eight times compared to projected plans.…</source:markdown>
+**Updated**  The UK government is set to see annual spending on a procurement portal designed to help save money increase by more than eight times compared to projected plans.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242212</guid>
     </item>    <item>
       <title>Britain&#39;s policing minister punts facial recog nationwide</title>
