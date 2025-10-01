@@ -4,10 +4,50 @@
   <channel>
     <title>socal_north.md</title>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>30 Sep 25 17:28 -0700</lastBuildDate>
+    <lastBuildDate>01 Oct 25 06:11 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Financial aid applications open today, with state-based options for undocumented students</title>
+      <link>https://laist.com/news/education/financial-aid-csac-fafsa-cadaa-ab540-undocumented</link>
+      <description>
+        <![CDATA[Federal and state-based aid can help students pay for tuition and fees, as well as other essentials, offering some an opportunity for a debt-free education.]]>
+      </description>
+      <source:markdown>Federal and state-based aid can help students pay for tuition and fees, as well as other essentials, offering some an opportunity for a debt-free education.</source:markdown>
+      <guid>cid://urn:uuid:00000199-9b79-d2f8-a7d9-9f7d5e1d0000</guid>
+    </item>    <item>
+      <title>Government shuts down after Congress fails to reach a funding agreement</title>
+      <link>https://laist.com/news/politics/government-shuts-down-after-congress-fails-to-reach-a-funding-agreement</link>
+      <description>
+        <![CDATA[Much of the federal government is now shut down after Republicans and Democrats in the Senate failed to agree on a funding plan to keep the government open.]]>
+      </description>
+      <source:markdown>Much of the federal government is now shut down after Republicans and Democrats in the Senate failed to agree on a funding plan to keep the government open.</source:markdown>
+      <guid>cid://urn:uuid:00000199-9df7-d509-a59b-dff7159a0000</guid>
+    </item>    <item>
+      <title>Beach access remains difficult for people with wheelchairs. Here are some resources to help</title>
+      <link>https://laist.com/news/los-angeles-activities/beach-access-remains-difficult-for-people-with-wheelchairs-but-california-has-resources-to-help</link>
+      <description>
+        <![CDATA[Improvements in recent years include beach mats and specially adapted public wheelchairs. But advocates say access still falls short.]]>
+      </description>
+      <source:markdown>Improvements in recent years include beach mats and specially adapted public wheelchairs. But advocates say access still falls short.</source:markdown>
+      <guid>cid://urn:uuid:00000199-9ce8-d2f8-a7d9-9fed106d0000</guid>
+    </item>    <item>
+      <title>LA County leaders, frustrated with report on January fire response, vote to take action</title>
+      <link>https://laist.com/news/climate-environment/la-county-supervisors-after-action-eaton-palisades-fire-response</link>
+      <description>
+        <![CDATA[The county Board of Supervisors voted to implement recommendations in an after-action report, as well as study how to restructure a key department.]]>
+      </description>
+      <source:markdown>The county Board of Supervisors voted to implement recommendations in an after-action report, as well as study how to restructure a key department.</source:markdown>
+      <guid>cid://urn:uuid:00000199-9cdd-d0fe-a5db-dcdff56c0000</guid>
+    </item>    <item>
+      <title>LA’s regional homelessness agency hits pause on plans to reform internal audit unit</title>
+      <link>https://laist.com/news/housing-homelessness/lahsa-audit-internal-reviews-county-delay-szlasa-bass-pause</link>
+      <description>
+        <![CDATA[One LAHSA commissioner is ‘deeply disappointed’ with the delay.]]>
+      </description>
+      <source:markdown>One LAHSA commissioner is ‘deeply disappointed’ with the delay.</source:markdown>
+      <guid>cid://urn:uuid:00000199-9cb1-d7dd-a9fd-deb56dc30000</guid>
+    </item>    <item>
       <title>Mark the start of Yom Kippur with… an immersive art exhibit</title>
       <link>https://laist.com/news/arts-and-entertainment/yom-kippur-immersive-art-exhibit-silver-lake</link>
       <description>
@@ -229,6 +269,7 @@ The post [Rain Barrel Purchase Program Returns on October 25](https://santaclari
       <description>
         <![CDATA[Critical benefits from the Social Security Administration and Medicare will keep flowing in a government shutdown. But you could notice delays if it drags on.]]>
       </description>
+      <source:markdown>Critical benefits from the Social Security Administration and Medicare will keep flowing in a government shutdown. But you could notice delays if it drags on.</source:markdown>
       <guid>cid://urn:uuid:00000199-9635-dd05-a7ff-9efd8b510000</guid>
     </item>    <item>
       <title>Medicaid Unwinding Associated with Less Medication Treatment for Opioid Use Disorder</title>
@@ -535,6 +576,7 @@ The post [City of Santa Clarita Launches Santa Clarita Connect Transit App](http
       <description>
         <![CDATA[Ismael Ayala-Uribe was sent to Adelanto ICE Processing Center near Victorville in August. A little more than a month later, he was dead.]]>
       </description>
+      <source:markdown>Ismael Ayala-Uribe was sent to Adelanto ICE Processing Center near Victorville in August. A little more than a month later, he was dead.</source:markdown>
       <guid>cid://urn:uuid:00000199-836f-db64-a399-836f3ab00000</guid>
     </item>    <item>
       <title>Ube may be one of America&#39;s favorite flavors right now, but this purple phenomenon has ancient roots</title>

@@ -4,10 +4,166 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>30 Sep 25 17:28 -0700</lastBuildDate>
+    <lastBuildDate>01 Oct 25 06:11 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Raspberry Pi prices hiked as AI gobbles all the memory</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/raspberry_pi_price_hikes/</link>
+      <description>
+        <![CDATA[<h4>Another thing you can blame on the hypefest: demand sends HBM costs up 120% in a year</h4> <p>Raspberry Pi is upping the cost of some devices by double-digit percentages from today driven by what CEO Eben Upton calls &#34;insatiable demand for high-bandwidth memory (HBM) for AI applications.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Another thing you can blame on the hypefest: demand sends HBM costs up 120% in a year
+
+Raspberry Pi is upping the cost of some devices by double-digit percentages from today driven by what CEO Eben Upton calls &#34;insatiable demand for high-bandwidth memory (HBM) for AI applications.&#34;…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242245</guid>
+    </item>    <item>
+      <title>3.7M breach notification letters set to flood North America&#39;s mailboxes</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/north_american_data_breaches/</link>
+      <description>
+        <![CDATA[<h4>Allianz Life and WestJet lead the way, along with a niche software shop</h4> <p>A trio of companies disclosed data breaches this week affecting approximately 3.7 million customers and employees across North America.…</p>]]>
+      </description>
+      <source:markdown>#### Allianz Life and WestJet lead the way, along with a niche software shop
+
+A trio of companies disclosed data breaches this week affecting approximately 3.7 million customers and employees across North America.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242244</guid>
+    </item>    <item>
+      <title>JetBrains wants to train AI models on your code snippets</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/jetbrains_wants_your_code_to_train_ai/</link>
+      <description>
+        <![CDATA[<h4>Dangles free product licenses in return for code-related data for its training</h4> <p>IDE and developer tools biz JetBrains believes training AI models on public datasets is insufficient, and is offering free product licenses to organizations that are willing to share detailed code-related data.…</p>]]>
+      </description>
+      <source:markdown>#### Dangles free product licenses in return for code-related data for its training
+
+IDE and developer tools biz JetBrains believes training AI models on public datasets is insufficient, and is offering free product licenses to organizations that are willing to share detailed code-related data.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242243</guid>
+    </item>    <item>
+      <title>The James Webb Space Telescope Has Captured Our Galaxy’s Most Productive Star-Forming Region in Stunning Detail</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-james-webb-space-telescope-has-captured-our-galaxys-most-productive-star-forming-region-in-stunning-detail-180987422/</link>
+      <description>
+        <![CDATA[Why Sagittarius B2 produces so many stars in comparison to the rest of the galactic center has remained an enduring mystery]]>
+      </description>
+      <source:markdown>Why Sagittarius B2 produces so many stars in comparison to the rest of the galactic center has remained an enduring mystery</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/H8TF2dfbFfEa01cRdEAp7BzxRwY=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4b/f9/4bf9d047-838a-42c7-81ba-9f709f51acee/smithsonian_feature_images_17.png" length="" type="" />
+    </item>    <item>
+      <title>Autonomous AI adoption stalls amid trust and governance crisis</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/gartner_ai_agents/</link>
+      <description>
+        <![CDATA[<h4>Only 15% considering deployments and just 7% say it&#39;ll replace humans in next four years</h4> <p>Enterprises aren&#39;t keen on letting autonomous agents take the wheel amid fears over trust and security as research once again shows that AI hype is crashing against the rocks of reality.…</p>]]>
+      </description>
+      <source:markdown>#### Only 15% considering deployments and just 7% say it&#39;ll replace humans in next four years
+
+Enterprises aren&#39;t keen on letting autonomous agents take the wheel amid fears over trust and security as research once again shows that AI hype is crashing against the rocks of reality.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242242</guid>
+    </item>    <item>
+      <title>Judge dismisses Arm&#39;s last legal claim against Qualcomm in licensing spat</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/arms_last_legal_claim_against/</link>
+      <description>
+        <![CDATA[<h4>Chip designer tells The Reg it plans to appeal</h4> <p>Qualcomm is claiming complete victory over Arm in their licensing spat, after a court in Delaware ruled it has not breached the terms of any architecture license agreement (ALA) with the chip designer.…</p>]]>
+      </description>
+      <source:markdown>#### Chip designer tells The Reg it plans to appeal
+
+Qualcomm is claiming complete victory over Arm in their licensing spat, after a court in Delaware ruled it has not breached the terms of any architecture license agreement (ALA) with the chip designer.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242240</guid>
+    </item>    <item>
+      <title>Imgur yanks Brit access to memes as parent company faces fine</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/imgur_exits_uk/</link>
+      <description>
+        <![CDATA[<h4>ICO investigation into platform&#39;s lack of age assurance continues</h4> <p>The UK&#39;s data watchdog has described Imgur&#39;s move to block UK users as &#34;a commercial decision&#34; after signaling plans to fine parent company MediaLab.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### ICO investigation into platform&#39;s lack of age assurance continues
+
+The UK&#39;s data watchdog has described Imgur&#39;s move to block UK users as &#34;a commercial decision&#34; after signaling plans to fine parent company MediaLab.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242241</guid>
+    </item>    <item>
+      <title>Explain digital ID or watch it fizzle out, UK PM Starmer told</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/digital_id_labour_conference/</link>
+      <description>
+        <![CDATA[<h4>Politico avoids the topic at Labour conference speech, homes in on AI instead</h4> <p>UK prime minister Keir Starmer avoided mentioning the mandatory digital ID scheme in his keynote speech to the Labour Party conference amid calls for him to put meat on the bones of the plans or risk it failing fast.…</p>]]>
+      </description>
+      <source:markdown>#### Politico avoids the topic at Labour conference speech, homes in on AI instead
+
+UK prime minister Keir Starmer avoided mentioning the mandatory digital ID scheme in his keynote speech to the Labour Party conference amid calls for him to put meat on the bones of the plans or risk it failing fast.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242239</guid>
+    </item>    <item>
+      <title>Schools are swotting up on security yet still flunk recovery when cyberattacks strike</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/school_cyberattack_recovery/</link>
+      <description>
+        <![CDATA[<h4>Coursework &#39;gone forever&#39; as 10% report critical damage</h4> <p>Schools and colleges hit by cyberattacks are taking longer to restore their networks — and the consequences are severe, with students&#39; coursework being permanently lost in some cases.…</p>]]>
+      </description>
+      <source:markdown>#### Coursework &#39;gone forever&#39; as 10% report critical damage
+
+Schools and colleges hit by cyberattacks are taking longer to restore their networks — and the consequences are severe, with students&#39; coursework being permanently lost in some cases.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242217</guid>
+    </item>    <item>
+      <title>UK&#39;s digital hospital plan meets analog reality check</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/nhs_online/</link>
+      <description>
+        <![CDATA[<h4>Experts ask: Where will staff come from, and what about gran&#39;s flip phone?</h4> <p>The government has announced a new &#34;digital hospital&#34; service in England that will provide online appointments with consultants as an alternative to visiting a National Health Service (NHS) hospital.…</p>]]>
+      </description>
+      <source:markdown>#### Experts ask: Where will staff come from, and what about gran&#39;s flip phone?
+
+The government has announced a new &#34;digital hospital&#34; service in England that will provide online appointments with consultants as an alternative to visiting a National Health Service (NHS) hospital.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242221</guid>
+    </item>    <item>
+      <title>Away from Oktoberfest, Munich&#39;s museums also serve science on tap</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/geeks_guide_deutsches_museum/</link>
+      <description>
+        <![CDATA[<h4>Because sometimes you need a V2 rocket with your schnitzel</h4> <p><strong>Geek&#39;s Guide</strong>  It&#39;s September and the German city of Munich is celebrating Oktoberfest. But away from the beer tents, schnitzel, and lederhosen lies a set of museums worth visiting for the price of a few beers.…</p>]]>
+      </description>
+      <source:markdown>#### Because sometimes you need a V2 rocket with your schnitzel
+
+**Geek&#39;s Guide**  It&#39;s September and the German city of Munich is celebrating Oktoberfest. But away from the beer tents, schnitzel, and lederhosen lies a set of museums worth visiting for the price of a few beers.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242191</guid>
+    </item>    <item>
+      <title>Blockchain just became an utterly mainstream part of the global financial system</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/swift_blockchain_plan/</link>
+      <description>
+        <![CDATA[<h4>SWIFT and 30 banks promise to bake it into international payment infrastructure</h4> <p>Blockchains are still synonymous with the wild world of cryptocurrencies, but on Monday, 30 banks and SWIFT – the world’s most important cross-border payment service – made them an utterly mainstream part of the global financial system.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### SWIFT and 30 banks promise to bake it into international payment infrastructure
+
+Blockchains are still synonymous with the wild world of cryptocurrencies, but on Monday, 30 banks and SWIFT – the world’s most important cross-border payment service – made them an utterly mainstream part of the global financial system.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242236</guid>
+    </item>    <item>
+      <title>Taliban impose tele-ban and take Afghanistan offline</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/afghanistan_goes_offline/</link>
+      <description>
+        <![CDATA[<h4>No internet or phones, which means no banks or commercial aviation, but lots more misery</h4> <p>Afghanistan has dropped off the global internet.…</p>]]>
+      </description>
+      <source:markdown>#### No internet or phones, which means no banks or commercial aviation, but lots more misery
+
+Afghanistan has dropped off the global internet.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242235</guid>
+    </item>    <item>
+      <title>Beijing-backed burglars master .NET to target government web servers</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/phantom_taurus_apt/</link>
+      <description>
+        <![CDATA[<h4>‘Phantom Taurus’ created custom malware to hunt secrets across Asia, Africa, and the Middle East</h4> <p>Threat-hunters at Palo Alto Networks’ Unit 42 have decided a gang they spotted two years ago is backed by China, after seeing it sling a new variety of malware.…</p>]]>
+      </description>
+      <source:markdown>#### ‘Phantom Taurus’ created custom malware to hunt secrets across Asia, Africa, and the Middle East
+
+Threat-hunters at Palo Alto Networks’ Unit 42 have decided a gang they spotted two years ago is backed by China, after seeing it sling a new variety of malware.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242234</guid>
+    </item>    <item>
+      <title>October’s Night Sky Notes: Let’s Go, LIGO!</title>
+      <link>https://science.nasa.gov/solar-system/skywatching/night-sky-network/octobers-night-sky-notes-lets-go-ligo/</link>
+      <description>
+        <![CDATA[by Kat Troche of the Astronomical Society of the Pacific September 2025 marks ten years since the first direct detection of gravitational waves as predicted by Albert Einstein’s 1916 theory of General Relativity. These invisible ripples in space were first directly detected by the Laser Interferometer Gravitational-Wave Observatory (LIGO). Traveling at the speed of light […]]]>
+      </description>
+      <source:markdown>by Kat Troche of the Astronomical Society of the Pacific September 2025 marks ten years since the first direct detection of gravitational waves as predicted by Albert Einstein’s 1916 theory of General Relativity. These invisible ripples in space were first directly detected by the Laser Interferometer Gravitational-Wave Observatory (LIGO). Traveling at the speed of light \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/solar-system/skywatching/night-sky-network/octobers-night-sky-notes-lets-go-ligo/</guid>
+    </item>    <item>
+      <title>Salesforce users grumble after Agentforce AI replaces search on some help pages</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/salesforce_search_agentforce/</link>
+      <description>
+        <![CDATA[<h4>This is one way to add a lot of AI users in a hurry, which Wall Street wants to see</h4> <p>Salesforce developers have called for the SaaS-y CRM giant to wind back a change that saw the AI-powered Agentforce bot replace basic search functions on some online help pages.…</p>]]>
+      </description>
+      <source:markdown>#### This is one way to add a lot of AI users in a hurry, which Wall Street wants to see
+
+Salesforce developers have called for the SaaS-y CRM giant to wind back a change that saw the AI-powered Agentforce bot replace basic search functions on some online help pages.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242231</guid>
+    </item>    <item>
       <title>Ubuntu Touch 24.04-1.0 released</title>
       <link>https://www.osnews.com/story/143464/ubuntu-touch-24-04-1-0-released/</link>
       <description>
