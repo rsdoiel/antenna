@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>30 Sep 25 16:48 -0700</lastBuildDate>
+    <lastBuildDate>01 Oct 25 06:11 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>More Memory? GIM’m’E!</title>
+      <link>https://www.go4retro.com/2025/09/30/more-memory-gimme/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=more-memory-gimme</link>
+      <description>
+        <![CDATA[With the introduction of the TANDY Color Computer (CoCo) 3, engineers were faced with 2 significant and implied mutually exclusive goals: To satisfy both of these goals, the CoCo 3 consolidated the MC6883/74LS783 Synchronous Address Multiplexer (SAM) and the MC6847 Video Display Generator (VDG) into a single Application Specific integrated Circuit (ASIC) while adding additional &#8230; <a href="https://www.go4retro.com/2025/09/30/more-memory-gimme/" class="more-link">Continue reading <span class="screen-reader-text">More Memory? GIM&#8217;m&#8217;E!</span></a>]]>
+      </description>
+      <source:markdown>With the introduction of the TANDY Color Computer (CoCo) 3, engineers were faced with 2 significant and implied mutually exclusive goals: To satisfy both of these goals, the CoCo 3 consolidated the MC6883/74LS783 Synchronous Address Multiplexer (SAM) and the MC6847 Video Display Generator (VDG) into a single Application Specific integrated Circuit (ASIC) while adding additional … [Continue reading More Memory? GIM’m’E!](https://www.go4retro.com/2025/09/30/more-memory-gimme/)</source:markdown>
+      <guid>cid://https://www.go4retro.com/?p=1861</guid>
+    </item>    <item>
       <title>Linux Kernel 6.17 is Available</title>
       <link>http://www.linux-magazine.com/Online/News/Linux-Kernel-6.17-is-Available</link>
       <description>
@@ -1621,14 +1629,6 @@ I have some more machines to work on and disposition, by the way. You&#39;ll be 
       <source:markdown>It&#39;s official, KDE Linux has arrived, but it&#39;s not quite ready for prime time.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://afb9f4a14b58c96af79f6d7ed352651d</guid>
-    </item>    <item>
-      <title>AI: Why Generative AI Hallucinates. All the Causes You Should Know</title>
-      <link>https://paolozaino.wordpress.com/2025/09/09/ai-why-generative-ai-hallucinates-all-the-causes-you-should-know/</link>
-      <description>
-        <![CDATA[Large language models can produce text that looks fluent and convincing but turns out to be wrong; a problem known as hallucination. These errors are not random glitches: they stem from how AI systems are trained, the data they learn from, the way we evaluate them, and even how people interact with them. In this [&#8230;]]]>
-      </description>
-      <source:markdown>Large language models can produce text that looks fluent and convincing but turns out to be wrong; a problem known as hallucination. These errors are not random glitches: they stem from how AI systems are trained, the data they learn from, the way we evaluate them, and even how people interact with them. In this \[…\]</source:markdown>
-      <guid>cid://http://paolozaino.wordpress.com/?p=9596</guid>
     </item>
   </channel>
 </rss>

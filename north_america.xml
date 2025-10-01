@@ -4,10 +4,47 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>30 Sep 25 16:48 -0700</lastBuildDate>
+    <lastBuildDate>01 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>How the government shutdown will affect federal workers</title>
+      <link>https://www.marketplace.org/episode/2025/10/01/how-the-government-shutdown-will-affect-federal-workers</link>
+      <description>
+        <![CDATA[<p>The slow-moving train wreck we've been watching unfold for a week, has indeed wrecked: the government officially shutdown at midnight. Hundreds of thousands of federal workers will be furloughed, and the Trump administration is threatening to fire others. Later in the show, Marketplace's Sabri Ben-Achour sits down with Susan M. Collins, president and CEO of the Federal Reserve Bank of Boston. They'll discuss tariffs, a cooling labor market and how the central bank is affected by a government shutdown.</p>]]>
+      </description>
+      <source:markdown>The slow-moving train wreck we&#39;ve been watching unfold for a week, has indeed wrecked: the government officially shutdown at midnight. Hundreds of thousands of federal workers will be furloughed, and the Trump administration is threatening to fire others. Later in the show, Marketplace&#39;s Sabri Ben-Achour sits down with Susan M. Collins, president and CEO of the Federal Reserve Bank of Boston. They&#39;ll discuss tariffs, a cooling labor market and how the central bank is affected by a government shutdown.</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/10/01/mmr_20251001_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K6FTYATMYKCPHSQNP2Y3CGZB" length="3343930" type="audio/mpeg" />
+      <guid>cid://01K6FTYATMYKCPHSQNP2Y3CGZB</guid>
+    </item>    <item>
+      <title>Government shutdown could delay key economic reports at an especially sensitive time</title>
+      <link>https://www.npr.org/2025/10/01/nx-s1-5558020/government-shutdown-economic-data-jobs-inflation</link>
+      <description>
+        <![CDATA[The federal government shutdown, which began overnight, will delay key reports on the U.S. economy, including a monthly snapshot of the job market, which was scheduled for release on Friday.]]>
+      </description>
+      <source:markdown>The federal government shutdown, which began overnight, will delay key reports on the U.S. economy, including a monthly snapshot of the job market, which was scheduled for release on Friday.</source:markdown>
+      <guid>cid://https://www.npr.org/2025/10/01/nx-s1-5558020/government-shutdown-economic-data-jobs-inflation</guid>
+    </item>    <item>
+      <title>A sunscreen scandal heats up in Australia</title>
+      <link>https://www.marketplace.org/episode/2025/10/01/a-sunscreen-scandal-heats-up-in-australia</link>
+      <description>
+        <![CDATA[<p><em>From the BBC World Service:</em> Eighteen sunscreen products have been pulled from shelves in Australia because of safety concerns; testing showed they did not offer the SPF protection claimed. As the U.S. tightens its H-1B visa scheme, China hopes it will gain from the launch of a new program to attract foreign talent. And can the United Arab Emirates become an AI superpower?</p>]]>
+      </description>
+      <source:markdown>_From the BBC World Service:_ Eighteen sunscreen products have been pulled from shelves in Australia because of safety concerns; testing showed they did not offer the SPF protection claimed. As the U.S. tightens its H-1B visa scheme, China hopes it will gain from the launch of a new program to attract foreign talent. And can the United Arab Emirates become an AI superpower?</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/10/01/mmr_20251001_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K6FMYHG173MDZBM6XPKQCHEM" length="3645982" type="audio/mpeg" />
+      <guid>cid://01K6FMYHG173MDZBM6XPKQCHEM</guid>
+    </item>    <item>
+      <title>Could AI ever be used safely for mental health support?</title>
+      <link>https://www.marketplace.org/episode/2025/10/01/could-ai-ever-be-used-safely-for-mental-health-support</link>
+      <description>
+        <![CDATA[<p>The role of artificial intelligence in mental health care is an unsettled issue. States including Illinois, Utah, and Nevada limit or ban the use of AI for therapy. And researchers say such conversations can sometimes veer off course and even be dangerous. </p><br/><p>Marketplace’s Nova Safo spoke with Jenna Glover, chief clinical officer at the mental health care platform Headspace, which launched an AI assistant, Ebb, last year.</p>]]>
+      </description>
+      <source:markdown>The role of artificial intelligence in mental health care is an unsettled issue. States including Illinois, Utah, and Nevada limit or ban the use of AI for therapy. And researchers say such conversations can sometimes veer off course and even be dangerous.
+
+Marketplace’s Nova Safo spoke with Jenna Glover, chief clinical officer at the mental health care platform Headspace, which launched an AI assistant, Ebb, last year.</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/10/01/tech_20251001_1001_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K6DYGGEHRTYN776ZMRXGGEQ4" length="10472404" type="audio/mpeg" />
+      <guid>cid://01K6DYGGEHRTYN776ZMRXGGEQ4</guid>
+    </item>    <item>
       <title>The &#34;stuck economy,&#34; tariffs and Wall Street</title>
       <link>https://www.marketplace.org/episode/2025/09/30/the-stuck-economy-tariffs-and-wall-street</link>
       <description>
@@ -1179,97 +1216,6 @@ _Marketplace is more than a radio show. Check out our original reporting and fin
         <![CDATA[Federal Reserve Governor Lisa Cook won a round in federal court in her bid to keep her job despite President Trump's effort to fire her.  On Wednesday, the Justice Department said Trump would appeal.]]>
       </description>
       <guid>cid://https://www.npr.org/2025/09/09/nx-s1-5529281/appeals-court-lisa-cook-federal-reserve-independence-trump</guid>
-    </item>    <item>
-      <title>The BLS has a $700 million budget. What&#39;s its ROI?</title>
-      <link>https://www.marketplace.org/episode/2025/09/09/the-bls-has-a-700-million-budget-whats-its-roi</link>
-      <description>
-        <![CDATA[<p>Budget cuts may be in the Bureau of Labor Statistics' future. But the data collected by the BLS is critical for federal decision making. In this episode, we calculate if the $700 million investment is worthwhile. Plus: Firms that spend the most on AI slash tons of jobs, economic uncertainty drives up the price of gold, and mortgage rates fall — which is good for buyers but a bad sign for the overall economy.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
-      </description>
-      <source:markdown>Budget cuts may be in the Bureau of Labor Statistics&#39; future. But the data collected by the BLS is critical for federal decision making. In this episode, we calculate if the $700 million investment is worthwhile. Plus: Firms that spend the most on AI slash tons of jobs, economic uncertainty drives up the price of gold, and mortgage rates fall — which is good for buyers but a bad sign for the overall economy.
-
-_Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https://www.marketplace.org/newsletters)_ _to our daily or weekly newsletter._
-
-_Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/09/pm_20250909_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K4R2BPXRE80SRWBNQQCC0T9Q" length="12664321" type="audio/mpeg" />
-      <guid>cid://01K4R2BPXRE80SRWBNQQCC0T9Q</guid>
-    </item>    <item>
-      <title>Supreme Court agrees to hear challenge to some of Trump&#39;s sweeping tariffs</title>
-      <link>https://www.npr.org/2025/09/09/nx-s1-5535813/supreme-court-trump-tariffs</link>
-      <description>
-        <![CDATA[The tariffs have become a flashpoint, with two lower courts declaring them illegal, and the president asking the Supreme Court for reversal as soon as possible.]]>
-      </description>
-      <guid>cid://https://www.npr.org/2025/09/09/nx-s1-5535813/supreme-court-trump-tariffs</guid>
-    </item>    <item>
-      <title>The future of education research in limbo</title>
-      <link>https://www.marketplace.org/episode/2025/09/09/the-future-of-education-research-in-limbo</link>
-      <description>
-        <![CDATA[<p>On today’s show, host of APM Reports’ <a href="https://features.apmreports.org/sold-a-story/" class="default">“Sold a Story”</a> podcast Emily Hanford joins Kimberly to make us smarter about the science of reading movement. It’s gained a foothold over the past few years <a href="https://www.apmreports.org/story/2022/11/17/reading-instruction-legislation-state-map" class="default">(thanks in part to “Sold a Story”).</a> But the Trump administration’s cuts to the Department of Education could slow the momentum of reading research and the effort to share it with educators.</p><br/><p>Here’s everything we talked about today:</p><br/><ul><li><a href="https://www.apmreports.org/episode/2025/08/21/sold-a-story-e14-the-cuts">"Episode 14: The Cuts"</a> from “Sold a Story”</li><li><a href="https://www.insidehighered.com/news/faculty-issues/research/2025/02/12/900m-institute-education-sciences-contracts-axed">"$900 Million in Institute of Education Sciences Contracts Axed"</a> from Inside Higher Ed</li><li><a href="https://www.apmreports.org/story/2022/11/17/reading-instruction-legislation-state-map">"How legislation on reading instruction is changing across the country"</a> from APM Reports</li><li><a href="https://www.nytimes.com/2024/01/03/us/what-to-know-about-the-science-of-reading.html">"What to Know About the Science of Reading"</a> from The New York Times</li><li><p>Learn some Kimberly Adams trivia <a href="https://www.instagram.com/p/DOZQaPmicEn/" class="default">on Marketplace’s Instagram</a></p><br/><p>We love hearing from you. Leave us a voicemail at 508-U-B-SMART or email makemesmart@marketplace.org.</p></li></ul>]]>
-      </description>
-      <source:markdown>On today’s show, host of APM Reports’ [“Sold a Story”](https://features.apmreports.org/sold-a-story/) podcast Emily Hanford joins Kimberly to make us smarter about the science of reading movement. It’s gained a foothold over the past few years [(thanks in part to “Sold a Story”).](https://www.apmreports.org/story/2022/11/17/reading-instruction-legislation-state-map) But the Trump administration’s cuts to the Department of Education could slow the momentum of reading research and the effort to share it with educators.
-
-Here’s everything we talked about today:
-
-- [&#34;Episode 14: The Cuts&#34;](https://www.apmreports.org/episode/2025/08/21/sold-a-story-e14-the-cuts) from “Sold a Story”
-- [&#34;$900 Million in Institute of Education Sciences Contracts Axed&#34;](https://www.insidehighered.com/news/faculty-issues/research/2025/02/12/900m-institute-education-sciences-contracts-axed) from Inside Higher Ed
-- [&#34;How legislation on reading instruction is changing across the country&#34;](https://www.apmreports.org/story/2022/11/17/reading-instruction-legislation-state-map) from APM Reports
-- [&#34;What to Know About the Science of Reading&#34;](https://www.nytimes.com/2024/01/03/us/what-to-know-about-the-science-of-reading.html) from The New York Times
-- Learn some Kimberly Adams trivia [on Marketplace’s Instagram](https://www.instagram.com/p/DOZQaPmicEn/)
-
-
-
-  We love hearing from you. Leave us a voicemail at 508-U-B-SMART or email makemesmart@marketplace.org.</source:markdown>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/make_me_smart/2025/09/09/mms_20250909_Make_Me_Smart__128.mp3?awCollectionId=mkp-MMsmrt&awEpisodeId=01K4QJGPZ3ZQFRSECJ4MDXYHCZ" length="16453864" type="audio/mpeg" />
-      <guid>cid://01K4QJGPZ3ZQFRSECJ4MDXYHCZ</guid>
-    </item>    <item>
-      <title>Boosted immigration enforcement is reshaping Latin music festivals</title>
-      <link>https://www.marketplace.org/episode/2025/09/09/boosted-immigration-enforcement-is-reshaping-latin-music-festivals</link>
-      <description>
-        <![CDATA[<p>Latin music is not only popular — it’s big business. But Latin artists are increasingly having their live performances canceled as the Trump administration’s immigration enforcement efforts increase and as they encounter visa issues. We'll learn about the economic and cultural impacts. Also on the show: New Mexico will become the first state in the union to offer universal child care, and France's prime minister officially resigns as the country grapples with climbing debt.</p>]]>
-      </description>
-      <source:markdown>Latin music is not only popular — it’s big business. But Latin artists are increasingly having their live performances canceled as the Trump administration’s immigration enforcement efforts increase and as they encounter visa issues. We&#39;ll learn about the economic and cultural impacts. Also on the show: New Mexico will become the first state in the union to offer universal child care, and France&#39;s prime minister officially resigns as the country grapples with climbing debt.</source:markdown>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/09/mmr_20250909_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4QB369SR7R5XGVFBJQ33KP1" length="3259714" type="audio/mpeg" />
-      <guid>cid://01K4QB369SR7R5XGVFBJQ33KP1</guid>
-    </item>    <item>
-      <title>BLS revision shows annual hiring was overstated by 911,000 jobs</title>
-      <link>https://www.npr.org/2025/09/09/nx-s1-5527000/bls-us-job-growth-numbers-revised</link>
-      <description>
-        <![CDATA[The U.S. likely added 900,000 fewer jobs in the 12 months ending in March than had been reported, according to a preliminary Labor Department report.]]>
-      </description>
-      <guid>cid://https://www.npr.org/2025/09/09/nx-s1-5527000/bls-us-job-growth-numbers-revised</guid>
-    </item>    <item>
-      <title>How are you feeling about capitalism?</title>
-      <link>https://www.marketplace.org/episode/2025/09/09/how-are-you-feeling-about-capitalism</link>
-      <description>
-        <![CDATA[<p>American enthusiasm for capitalism is slipping, especially among Democrats. That’s the headline from a new Gallup poll out this week. In this latest survey, just 54% of respondents said they view capitalism positively. That’s down from 60% the last time Gallup asked in 2021. We'll hear more. Plus, we'll get fresh reads on consumer and producer prices this week. How much might these affect a rate cut by the Fed?</p>]]>
-      </description>
-      <source:markdown>American enthusiasm for capitalism is slipping, especially among Democrats. That’s the headline from a new Gallup poll out this week. In this latest survey, just 54% of respondents said they view capitalism positively. That’s down from 60% the last time Gallup asked in 2021. We&#39;ll hear more. Plus, we&#39;ll get fresh reads on consumer and producer prices this week. How much might these affect a rate cut by the Fed?</source:markdown>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/09/mmr_20250909_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4Q5JKGG31V1M4V39Y8HQPN5" length="3292941" type="audio/mpeg" />
-      <guid>cid://01K4Q5JKGG31V1M4V39Y8HQPN5</guid>
-    </item>    <item>
-      <title>France&#39;s financial crisis pushes its government to the brink</title>
-      <link>https://www.marketplace.org/episode/2025/09/09/frances-financial-crisis-pushes-its-government-to-the-brink</link>
-      <description>
-        <![CDATA[<p><em>From the BBC World Service:</em> France's push to get a grip on its debt problem is expected to result in the ousting of another prime minister, François Bayrou. President Emmanuel Macron must convince European allies and financial markets that he'll get a debt-reducing budget approved by the end of the year. Plus, as gold continues to hit record highs, London's bullion market is preparing to go digital. And the succession battle at Rupert Murdoch’s media empire has ended with his eldest son, Lachlan, securing control.</p>]]>
-      </description>
-      <source:markdown>_From the BBC World Service:_ France&#39;s push to get a grip on its debt problem is expected to result in the ousting of another prime minister, François Bayrou. President Emmanuel Macron must convince European allies and financial markets that he&#39;ll get a debt-reducing budget approved by the end of the year. Plus, as gold continues to hit record highs, London&#39;s bullion market is preparing to go digital. And the succession battle at Rupert Murdoch’s media empire has ended with his eldest son, Lachlan, securing control.</source:markdown>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/09/mmr_20250909_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4Q3WD17SEWHS56TMQTF3SQP" length="3151747" type="audio/mpeg" />
-      <guid>cid://01K4Q3WD17SEWHS56TMQTF3SQP</guid>
-    </item>    <item>
-      <title>Here&#39;s what happens when private equity buys homes in your neighborhood</title>
-      <link>https://www.npr.org/sections/planet-money/2025/09/09/g-s1-87699/private-equity-corporate-landlords</link>
-      <description>
-        <![CDATA[What makes rents go down and neighborhood diversity go up? Corporate landlords. But they also make it harder to own for yourself.]]>
-      </description>
-      <guid>cid://https://www.npr.org/sections/planet-money/2025/09/09/g-s1-87699/private-equity-corporate-landlords</guid>
-    </item>    <item>
-      <title>Using AI to simplify criminal record expungement</title>
-      <link>https://www.marketplace.org/episode/2025/09/09/using-ai-to-simplify-criminal-record-expungement</link>
-      <description>
-        <![CDATA[<p>A lot of people are<a href="https://www.ncsl.org/civil-and-criminal-justice/reentry-legislation-2024-summary" class="default"> eligible to have their criminal records expunged</a>. And there are tens of millions of <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3265335" class="default">such files out there</a> for things like misdemeanors, low-level felonies such as drug offenses and even just arrests. <a href="https://legalease.com/" class="default">LegalEase</a>, a justice-tech startup is streamlining the process through the use of artificial intelligence.</p>]]>
-      </description>
-      <source:markdown>A lot of people are [eligible to have their criminal records expunged](https://www.ncsl.org/civil-and-criminal-justice/reentry-legislation-2024-summary). And there are tens of millions of [such files out there](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3265335) for things like misdemeanors, low-level felonies such as drug offenses and even just arrests. [LegalEase](https://legalease.com/), a justice-tech startup is streamlining the process through the use of artificial intelligence.</source:markdown>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/09/tech_20250909_0909_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K4D60TJE487T37ETKJHQGS7X" length="3786313" type="audio/mpeg" />
-      <guid>cid://01K4D60TJE487T37ETKJHQGS7X</guid>
     </item>
   </channel>
 </rss>
