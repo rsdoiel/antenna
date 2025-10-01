@@ -14,7 +14,6 @@ Collection                                          Description of Posts        
 [North America](north_america.html)                 North America                                                      [RSS](north_america.xml) [OPML](north_america.opml)
 [Pacific](pacific.html)                             Micronesia, Hawaii and the Pacific                                 [RSS](pacific.xml) [OPML](pacific.opml)
 [Planet](planet.html)                               Planet News                                                        [RSS](planet.xml) [OPML](planet.opml)
-[Science & Technology](science_and_technology.html) Science and Technology                                             [RSS](science_and_technology.xml) [OPML](science_and_technology.opml)
 [Columns](columns.html)                             Snapshots from around the web                                      [RSS](columns.xml) [OPML](columns.opml)
 [Weather Forecasts](forecasts.html)                 [NOAA's](https://weather.gov) links, selected forecast pages
 
@@ -23,6 +22,7 @@ Collection                                          Description of Posts        
 
 Collection                                          Description of Posts                                               RSS & OPML
 ---------------------------------                   --------------------------------------------------------------     --------------------------------
+[Science & Technology](science_and_technology.html) Science and Technology                                             [RSS](science_and_technology.xml) [OPML](science_and_technology.opml)
 [Retro Computing](retro_computing.html)             Computer history and systems                                       [RSS](retro_computing.xml) [OPML](retro_computing.opml)
 [Going Electric](going_electric.html)               Going Electric                                                     [RSS](going_electric.xml) [OPML](going_electric.opml)
 [Home, Garden & Urban Farm](home.html)              Home, Garden & Urban blogs and news                                [RSS](home.xml) [OPML](home.opml)
