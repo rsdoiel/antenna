@@ -4,10 +4,114 @@
   <channel>
     <title>Science and Technology</title>
     <link>http://localhost:8000/science_and_technologyxml</link>
-    <lastBuildDate>02 Oct 25 08:44 -0700</lastBuildDate>
+    <lastBuildDate>02 Oct 25 11:11 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Ex-US cyber boss slams politics getting in the way of preparedness</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/exnational_cyber_boss_us_cyber/</link>
+      <description>
+        <![CDATA[<h4>And don&#39;t even get him started on AI</h4> <p><strong>interview</strong>  The bodies responsible for securing America from cyberattacks are currently too fragmented to be successful, according to former US National Cyber Director Chris Inglis, the first person ever to hold that job. …</p>]]>
+      </description>
+      <source:markdown>#### And don&#39;t even get him started on AI
+
+**interview**  The bodies responsible for securing America from cyberattacks are currently too fragmented to be successful, according to former US National Cyber Director Chris Inglis, the first person ever to hold that job. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242281</guid>
+    </item>    <item>
+      <title>A Rare Medieval Hair-Styling Tool Was Found at Scotland’s Eilean Donan Castle</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-rare-medieval-hair-styling-tool-was-found-at-scotlands-eilean-donan-castle-180987436/</link>
+      <description>
+        <![CDATA[The artifact is part of a large assemblage of excavated artifacts recently acquired by National Museums Scotland]]>
+      </description>
+      <source:markdown>The artifact is part of a large assemblage of excavated artifacts recently acquired by National Museums Scotland</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/LwFnBLLZvvII0SzPW-TDM4t2tQA=/420x240/filters:focal(2938x1959:2939x1960)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5a/e8/5ae8b633-1a7d-4195-a2b5-6df04284d5de/dr_alice_blackwell_with_the_gravoir_copyright_duncan_mcglynn_2.jpeg" length="" type="" />
+    </item>    <item>
+      <title>Subpoena tracking platform blames outage on AWS social engineering attack</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/subpoena_tracking_platform_outage_blamed/</link>
+      <description>
+        <![CDATA[<h4>Software maker Kodex said its domain registrar fell for a fraudulent legal order</h4> <p>A software platform used by law enforcement agencies and major tech companies to manage subpoenas and data requests went dark this week after attackers socially engineered AWS into freezing its domain.…</p>]]>
+      </description>
+      <source:markdown>#### Software maker Kodex said its domain registrar fell for a fraudulent legal order
+
+A software platform used by law enforcement agencies and major tech companies to manage subpoenas and data requests went dark this week after attackers socially engineered AWS into freezing its domain.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242277</guid>
+    </item>    <item>
+      <title>Only way to move Space Shuttle Discovery is to chop it into pieces, White House told</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/dismantling_discovery/</link>
+      <description>
+        <![CDATA[<h4>Smithsonian warns that dismantling orbiter for relocation is history in the wrecking</h4> <p>How would you move Space Shuttle Discovery from Virginia to Texas? The White House Office of Management and Budget asked NASA and the Smithsonian Institution and the response was to dismantle it.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Smithsonian warns that dismantling orbiter for relocation is history in the wrecking
+
+How would you move Space Shuttle Discovery from Virginia to Texas? The White House Office of Management and Budget asked NASA and the Smithsonian Institution and the response was to dismantle it.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242279</guid>
+    </item>    <item>
+      <title>Mad man builds chatbot in Minecraft with redstone, Python, and patience</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/minecraft_ai_chatbot/</link>
+      <description>
+        <![CDATA[<h4>Replies are slow and it&#39;s prone to gibberish – just like any other AI</h4> <p>Never mind Doom running on a potato, or whatever – the next generation of ridiculous computing belongs to Minecraft YouTuber Sammyuri, who built a working chatbot in the perennially popular voxel building sandbox.…</p>]]>
+      </description>
+      <source:markdown>#### Replies are slow and it&#39;s prone to gibberish – just like any other AI
+
+Never mind Doom running on a potato, or whatever – the next generation of ridiculous computing belongs to Minecraft YouTuber Sammyuri, who built a working chatbot in the perennially popular voxel building sandbox.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242278</guid>
+    </item>    <item>
+      <title>OpenAI ropes in Korean giants Samsung and SK Hynix to feed its AI megaproject</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/openai_ropes_in_samsung_and/</link>
+      <description>
+        <![CDATA[<h4>Duo pledge memory for Stargate to the tune of 900k DRAM wafer starts a month</h4> <p>OpenAI has persuaded two of South Korea&#39;s chip titans to fuel its bid to build the biggest AI engine yet.…</p>]]>
+      </description>
+      <source:markdown>#### Duo pledge memory for Stargate to the tune of 900k DRAM wafer starts a month
+
+OpenAI has persuaded two of South Korea&#39;s chip titans to fuel its bid to build the biggest AI engine yet.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242276</guid>
+    </item>    <item>
+      <title>Dirty little Electron secret tanks macOS 26 performance</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/macos_26_electron_slowdown/</link>
+      <description>
+        <![CDATA[<h4>Apple&#39;s bad QA or poor coding by developers?</h4> <p>The Electron team has fixed code that caused system-wide slowdowns on the newly released macOS 26 &#34;Tahoe.&#34;…</p>]]>
+      </description>
+      <source:markdown>#### Apple&#39;s bad QA or poor coding by developers?
+
+The Electron team has fixed code that caused system-wide slowdowns on the newly released macOS 26 &#34;Tahoe.&#34;…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242275</guid>
+    </item>    <item>
+      <title>U.S. Whale Entanglements Are on the Rise, New Data Shows</title>
+      <link>https://www.smithsonianmag.com/smart-news/us-whale-entanglements-are-on-the-rise-new-data-shows-180987423/</link>
+      <description>
+        <![CDATA[The National Oceanic and Atmospheric Administration confirmed 95 large whale entanglement cases last year, a 48 percent increase from 2023]]>
+      </description>
+      <source:markdown>The National Oceanic and Atmospheric Administration confirmed 95 large whale entanglement cases last year, a 48 percent increase from 2023</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/50eAKsPKDmY0d65JnCZsIRBXHCQ=/420x240/filters:focal(864x576:865x577)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/51/97/51973124-cccf-49db-ba7e-dc855f923016/pl23_anim1030.jpg" length="" type="" />
+    </item>    <item>
+      <title>Researchers Discover 12,000-Year-Old Life-Size Animal Engravings in Saudi Arabia</title>
+      <link>https://www.smithsonianmag.com/smart-news/researchers-discover-12000-year-old-life-size-animal-engravings-in-saudi-arabia-180987432/</link>
+      <description>
+        <![CDATA[The findings address an important gap in the region's archaeological record and history]]>
+      </description>
+      <source:markdown>The findings address an important gap in the region&#39;s archaeological record and history</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/LRAHTeDuNL49Gdv57V5RRufrlAM=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/29/da/29da683c-25c8-4493-bfc2-1d2a86774ed0/animal_engravings.png" length="" type="" />
+    </item>    <item>
+      <title>SaaS turbo-charged software spending tough for CIOs to control, says research</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/saas_turbocharged_software_spending_tough/</link>
+      <description>
+        <![CDATA[<h4>Consulting biz reckons ballooning costs a result of changes in licensing, vendor landscape, and product shifts</h4> <p>Boston Consulting Group (BCG) is warning that organizations need to rethink their approach to buying software as the ongoing push of SaaS into the market gathers pace.…</p>]]>
+      </description>
+      <source:markdown>#### Consulting biz reckons ballooning costs a result of changes in licensing, vendor landscape, and product shifts
+
+Boston Consulting Group (BCG) is warning that organizations need to rethink their approach to buying software as the ongoing push of SaaS into the market gathers pace.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242274</guid>
+    </item>    <item>
+      <title>Apple&#39;s AirPods Pro 3 are still chuck-and-buy-again specials</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/apple_airpods_pro_3/</link>
+      <description>
+        <![CDATA[<h4>Zero repairability rating: iFixit teardown finds earbuds glued, unfixable, and destined for recycling</h4> <p>Improvements in repairability might have been made elsewhere in Apple&#39;s product range, but the AirPods Pro 3 model continue to make repairs virtually impossible.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Zero repairability rating: iFixit teardown finds earbuds glued, unfixable, and destined for recycling
+
+Improvements in repairability might have been made elsewhere in Apple&#39;s product range, but the AirPods Pro 3 model continue to make repairs virtually impossible.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242273</guid>
+    </item>    <item>
       <title>Clop-linked crims shake down Oracle execs with data theft claims</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/clop_oracle_extortion/</link>
       <description>
@@ -89,11 +193,11 @@ A hacking crew claims to have broken into Red Hat&#39;s private GitHub repositor
       <title>Irony alert: UK.gov Work dept hires IBM to aid AI projects</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/uk_pensions_and_benefits_department/</link>
       <description>
-        <![CDATA[<h4>Some Big Blue sky thinking needed for tech that promises employment extinction for humanity</h4> <p>The UK&#39;s pensions and benefits department has awarded IBM a contract that&#39;s worth up to £27 million to explore, deploy and support AI technologies to enhance its services.…</p>]]>
+        <![CDATA[<h4>Some Big Blue sky thinking needed for tech that promises employment extinction for humanity</h4> <p><strong>Updated</strong>  The UK&#39;s pensions and benefits department has awarded IBM a contract that&#39;s worth up to £27 million to explore, deploy and support AI technologies to enhance its services.…</p>]]>
       </description>
       <source:markdown>#### Some Big Blue sky thinking needed for tech that promises employment extinction for humanity
 
-The UK&#39;s pensions and benefits department has awarded IBM a contract that&#39;s worth up to £27 million to explore, deploy and support AI technologies to enhance its services.…</source:markdown>
+**Updated**  The UK&#39;s pensions and benefits department has awarded IBM a contract that&#39;s worth up to £27 million to explore, deploy and support AI technologies to enhance its services.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242246</guid>
     </item>    <item>
       <title>Lloyds Banking Group says &#39;digitization&#39; will power more branch closures</title>
@@ -185,9 +289,9 @@ Your job may not support BYOD, but how about BYOC? Microsoft has declared that p
       <title>After Two Years as Runner-Up, Chunk Is Finally Crowned Winner of Fat Bear Week</title>
       <link>https://www.smithsonianmag.com/smart-news/after-two-years-as-runner-up-chunk-is-finally-crowned-winner-of-fat-bear-week-180987428/</link>
       <description>
-        <![CDATA[The brown bear heavyweight persevered through a jaw injury this year that will permanently impact his ability to fight and hunt]]>
+        <![CDATA[The brown bear heavyweight persevered through a jaw injury this year that will permanently hinder his ability to fight and hunt]]>
       </description>
-      <source:markdown>The brown bear heavyweight persevered through a jaw injury this year that will permanently impact his ability to fight and hunt</source:markdown>
+      <source:markdown>The brown bear heavyweight persevered through a jaw injury this year that will permanently hinder his ability to fight and hunt</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/BXlwfN8dzdnhPQ2wF3D3TkKDqpI=/420x240/filters:focal(1024x770:1025x771)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5b/6d/5b6d094c-81ca-4515-b4d3-10b64a0cfa57/54805414414_ef292e1f1f_k.jpg" length="" type="" />
     </item>    <item>
       <title>US gov shutdown leaves IT projects hanging, security defenders a skeleton crew</title>

@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>http://localhost:8000/retro_computingxml</link>
-    <lastBuildDate>02 Oct 25 08:44 -0700</lastBuildDate>
+    <lastBuildDate>02 Oct 25 11:11 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2025/10/02 - The radical left?</title>
+      <link>https://heyrick.eu/blog/entry/20251002</link>
+      <description>
+        <![CDATA[The radical left?]]>
+      </description>
+      <source:markdown>The radical left?</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20251002</guid>
+    </item>    <item>
       <title>DOS Game Club</title>
       <link>https://www.filfre.net/2025/10/dos-game-club/</link>
       <description>

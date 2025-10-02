@@ -4,10 +4,18 @@
   <channel>
     <title>Writing</title>
     <link>http://localhost:8000/writingxml</link>
-    <lastBuildDate>02 Oct 25 08:44 -0700</lastBuildDate>
+    <lastBuildDate>02 Oct 25 11:11 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>AI, Authorship, and the Public Interest Grant Recipients</title>
+      <link>https://www.authorsalliance.org/2025/10/02/ai-authorship-and-the-public-interest-grant-recipients/</link>
+      <description>
+        <![CDATA[We’re delighted to announce the five recipients of our AI, Authorship, and the Public Interest grant awards. Chosen from a competitive pool of over 160 proposals, these grantees stood out for their thoughtful, innovative projects that align closely with our research priorities and our mission to serve the public interest.]]>
+      </description>
+      <source:markdown>We’re delighted to announce the five recipients of our AI, Authorship, and the Public Interest grant awards. Chosen from a competitive pool of over 160 proposals, these grantees stood out for their thoughtful, innovative projects that align closely with our research priorities and our mission to serve the public interest.</source:markdown>
+      <guid>cid://https://www.authorsalliance.org/?p=12229</guid>
+    </item>    <item>
       <title>Write Now with Scrivener, Episode no. 55: Maria Reva, Booker Prize Longlisted Author of Endling</title>
       <link>https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-55-maria-reva-booker-longlisted-author-of-endling</link>
       <guid>cid://https://www.literatureandlatte.com/?p=7991</guid>
