@@ -4,10 +4,92 @@
   <channel>
     <title>Science and Technology</title>
     <link>http://localhost:8000/science_and_technologyxml</link>
-    <lastBuildDate>02 Oct 25 12:45 -0700</lastBuildDate>
+    <lastBuildDate>02 Oct 25 15:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Ransomware scumbags say they deleted kids&#39; info after other gangs called them out</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/ransomware_radiant_delete_kids_info/</link>
+      <description>
+        <![CDATA[<h4>Honor among thieves - extortion is fine, but no juveniles, please</h4> <p>A ransomware crew that posted pictures and addresses of preschool children in an effort to get a payday has now deleted the data, apparently under pressure from other criminals.…</p>]]>
+      </description>
+      <source:markdown>#### Honor among thieves - extortion is fine, but no juveniles, please
+
+A ransomware crew that posted pictures and addresses of preschool children in an effort to get a payday has now deleted the data, apparently under pressure from other criminals.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242286</guid>
+    </item>    <item>
+      <title>Wildfires Are Ruining Your Favorite Wines. These Bacteria Might Be Able to Help</title>
+      <link>https://www.smithsonianmag.com/smart-news/wildfires-are-ruining-your-favorite-wines-scientists-say-these-bacteria-might-be-able-to-help-180987441/</link>
+      <description>
+        <![CDATA[Microbes already growing on grape plants may help neutralize one of the compounds responsible for wildfire-exposed grapes' off-putting flavors, new research suggests]]>
+      </description>
+      <source:markdown>Microbes already growing on grape plants may help neutralize one of the compounds responsible for wildfire-exposed grapes&#39; off-putting flavors, new research suggests</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/VGRc5NYC9GnvfqZfqD29Lh1CUCk=/420x240/filters:focal(2149x1442:2150x1443)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d0/67/d067de66-77ea-4ea1-b881-80d3f178634e/pexels-jill-wellington-1638660-39351.jpg" length="" type="" />
+    </item>    <item>
+      <title>Microsoft CTO says he wants to swap most AMD and Nvidia GPUs for homemade chips</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/microsoft_maia_dc/</link>
+      <description>
+        <![CDATA[<h4>Pivot will hinge on success of next-gen Maia accelerator</h4> <p>Microsoft buys a lot of GPUs from both Nvidia and AMD. But moving forward, Redmond&#39;s leaders want to shift the majority of its AI workloads from GPUs to its own homegrown accelerators.…</p>]]>
+      </description>
+      <source:markdown>#### Pivot will hinge on success of next-gen Maia accelerator
+
+Microsoft buys a lot of GPUs from both Nvidia and AMD. But moving forward, Redmond&#39;s leaders want to shift the majority of its AI workloads from GPUs to its own homegrown accelerators.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242284</guid>
+    </item>    <item>
+      <title>Google details Android developer certification requirement, and it’s as bad as we feared</title>
+      <link>https://www.osnews.com/story/143467/google-details-android-developer-certification-requirement-and-its-as-bad-as-we-feared/</link>
+      <description>
+        <![CDATA[Google has been on a bit of a marketing blitz to try and counteract some of the negative feedback following its new developer verification requirement for Android applications, and while they&#8217;re using a lot of words, none of them seem to address the core concerns. It basically comes down to that they just don&#8217;t care about the consequences this new requirement has for projects like F-Droid, nor are they really bothered by any of the legitimate privacy concerns this whole thing raises. If this new requirement is implemented in its current form, F-Droid will simply not be able to continue to exist in its current form. F-Droid builds the applications in its repository themselves and signs them, and developer verification does not fit into that picture at all. F-Droid works this way to ensure its applications are built from the publicly available sources, so developers can&#8217;t sneak anything nefarious into any binaries they would otherwise be submitting themselves. The privacy angle doesn&#8217;t seem to bother Google much, either, which shouldn&#8217;t be a surprise to anyone. With this new requirement, Android application developers can simply no longer be anonymous, which has a variety of side-effects, not least of which is that anyone developing applications for, say, dissidents, can now no longer be anonymous. Google claims they won&#8217;t be sharing developer information with governments, but we all know that&#8217;s a load of bullshit, made all the more relevant after whatever the fuck this was. If you want to oppose the genocide in Gaza or warn people of ICE raids, and want to create an Android application to coordinate such efforts, you probably should not, and stick to more anonymous organising tools. Students and hobbyists are getting the short end of the stick, too, as Google&#8217;s promised program specifically for these two groups is incredibly limited. Yes, it waves the $25 fee, but that&#8217;s about the only positive here: Developers who register with Google as a student or hobbyist will face severe app distribution restrictions, namely a limit on the number of devices that can install their apps. To enforce this, any user wanting to install software from these developers must first retrieve a unique identifier from their device. The developer then has to input this identifier into the Android Developer Console to authorize that specific device for installation. ↫ Mishaal Rahman at Android Authority Google does waive the requirement for developer certification for one particular type of user, and in doing so, highlights the only group of users Google truly cares about: enterprise users. Any application installed by an enterprise on managed devices will not need to have its developer certified. Google states that in this particular use case, the enterprise&#8217;s IT department is responsible for any security issues that may arise. Isn&#8217;t it funny how the only group of users who won&#8217;t have to deal with this nonsense are companies who pay Google tons of money for their enterprise tools? The only way we&#8217;re going to get out of this is if any governments step up and put a stop to this. We can safely assume the United States&#8217; government won&#8217;t be on our side &#8211; they&#8217;re too busy with their recurring idiotic song-and-dance anyway &#8211; so our only hope is the European Commission stepping in, but I&#8217;m not holding my breath. After all, Apple&#8217;s rules and regulations regarding installing applications outside of the App Store in the EU are not that different from what Google is going to do. While the EU is not happy with the details of Apple&#8217;s rules, their general gist seems to be okay with them. I&#8217;m afraid governments won&#8217;t be stepping in to stop this one.]]>
+      </description>
+      <source:markdown>Google has been on a bit of a marketing blitz to try and counteract some of the negative feedback following its new developer verification requirement for Android applications, and while they’re using a lot of words, none of them seem to address the core concerns. It basically comes down to that they just don’t care about the consequences this new requirement has for projects like F-Droid, nor are they really bothered by any of the legitimate privacy concerns this whole thing raises. If this new requirement is implemented in its current form, F-Droid will simply not be able to continue to exist in its current form. F-Droid builds the applications in its repository themselves and signs them, and developer verification does not fit into that picture at all. F-Droid works this way to ensure its applications are built from the publicly available sources, so developers can’t sneak anything nefarious into any binaries they would otherwise be submitting themselves. The privacy angle doesn’t seem to bother Google much, either, which shouldn’t be a surprise to anyone. With this new requirement, Android application developers can simply no longer be anonymous, which has a variety of side-effects, not least of which is that anyone developing applications for, say, dissidents, can now no longer be anonymous. Google claims they won’t be sharing developer information with governments, but we all know that’s a load of bullshit, made all the more relevant after whatever the fuck this was. If you want to oppose the genocide in Gaza or warn people of ICE raids, and want to create an Android application to coordinate such efforts, you probably should not, and stick to more anonymous organising tools. Students and hobbyists are getting the short end of the stick, too, as Google’s promised program specifically for these two groups is incredibly limited. Yes, it waves the $25 fee, but that’s about the only positive here: Developers who register with Google as a student or hobbyist will face severe app distribution restrictions, namely a limit on the number of devices that can install their apps. To enforce this, any user wanting to install software from these developers must first retrieve a unique identifier from their device. The developer then has to input this identifier into the Android Developer Console to authorize that specific device for installation. ↫ Mishaal Rahman at Android Authority Google does waive the requirement for developer certification for one particular type of user, and in doing so, highlights the only group of users Google truly cares about: enterprise users. Any application installed by an enterprise on managed devices will not need to have its developer certified. Google states that in this particular use case, the enterprise’s IT department is responsible for any security issues that may arise. Isn’t it funny how the only group of users who won’t have to deal with this nonsense are companies who pay Google tons of money for their enterprise tools? The only way we’re going to get out of this is if any governments step up and put a stop to this. We can safely assume the United States’ government won’t be on our side – they’re too busy with their recurring idiotic song-and-dance anyway – so our only hope is the European Commission stepping in, but I’m not holding my breath. After all, Apple’s rules and regulations regarding installing applications outside of the App Store in the EU are not that different from what Google is going to do. While the EU is not happy with the details of Apple’s rules, their general gist seems to be okay with them. I’m afraid governments won’t be stepping in to stop this one.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143467</guid>
+    </item>    <item>
+      <title>Dutch judge to Facebook: stop secretly disregarding your users’ settings</title>
+      <link>https://www.osnews.com/story/143469/dutch-judge-to-facebook-stop-secretly-disregarding-your-users-settings/</link>
+      <description>
+        <![CDATA[And here we have yet another case of the EU&#8217;s consumer protection legislation working in our favour. Dutch privacy and consumer rights organisation Bits of Freedom sued Facebook over the company&#8217;s little trick of disregarding a user&#8217;s settings under a variety of circumstances, such as when a user opts for a chronological, non-profiled timeline, only to have Facebook reset itself to the profiled timeline upon a restart. The judge states that Meta is indeed acting in violation of the law. He says that “a non‑persistent choice option for a recommendation system runs counter to the purpose of the DSA, which is to give users genuine autonomy, freedom of choice, and control over how information is presented to them.” The judge also concludes that the way Meta has designed its platforms constitutes “a significant disruption of the autonomy of Facebook and Instagram users.” The judge orders Meta to adjust its apps so that the user’s choice is preserved, even when the user navigates to another section or restarts the app. ↫ Bits of Freedom press release This is good news, of course, but I really wish we would take this a step further: a complete ban on targeted advertising and timeline manipulation based on harvested user data. I just don&#8217;t believe these business models and ragebait machines offer anything of value to society, and in fact, do far more harm than good. I am convinced that our world would be a better place without these business models. We restrict of outright ban dangerous substances or activities all the time. This should be among them.]]>
+      </description>
+      <source:markdown>And here we have yet another case of the EU’s consumer protection legislation working in our favour. Dutch privacy and consumer rights organisation Bits of Freedom sued Facebook over the company’s little trick of disregarding a user’s settings under a variety of circumstances, such as when a user opts for a chronological, non-profiled timeline, only to have Facebook reset itself to the profiled timeline upon a restart. The judge states that Meta is indeed acting in violation of the law. He says that “a non‑persistent choice option for a recommendation system runs counter to the purpose of the DSA, which is to give users genuine autonomy, freedom of choice, and control over how information is presented to them.” The judge also concludes that the way Meta has designed its platforms constitutes “a significant disruption of the autonomy of Facebook and Instagram users.” The judge orders Meta to adjust its apps so that the user’s choice is preserved, even when the user navigates to another section or restarts the app. ↫ Bits of Freedom press release This is good news, of course, but I really wish we would take this a step further: a complete ban on targeted advertising and timeline manipulation based on harvested user data. I just don’t believe these business models and ragebait machines offer anything of value to society, and in fact, do far more harm than good. I am convinced that our world would be a better place without these business models. We restrict of outright ban dangerous substances or activities all the time. This should be among them.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143469</guid>
+    </item>    <item>
+      <title>College student went on a destructive rampage, then confessed to ChatGPT, cops say</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/chatgpt_vandalism_spree/</link>
+      <description>
+        <![CDATA[<h4>Police say they found the evidence on his phone</h4> <p>A Missouri college student has learned the hard way that admitting a vandalism spree to ChatGPT and asking whether he was likely to get caught may not be the best use of AI. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Police say they found the evidence on his phone
+
+A Missouri college student has learned the hard way that admitting a vandalism spree to ChatGPT and asking whether he was likely to get caught may not be the best use of AI. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242285</guid>
+    </item>    <item>
+      <title>Curl project, swamped with AI slop, finds not all AI is bad</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/curl_project_swamped_with_ai/</link>
+      <description>
+        <![CDATA[<h4>Artificial intelligence works when humans use it wisely</h4> <p>Over the past two years, the open source curl project has been flooded with bogus bug reports generated by AI models.…</p>]]>
+      </description>
+      <source:markdown>#### Artificial intelligence works when humans use it wisely
+
+Over the past two years, the open source curl project has been flooded with bogus bug reports generated by AI models.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242283</guid>
+    </item>    <item>
+      <title>UK police caught slacking off by jamming their keyboards while working from home</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/uk_police_caught_keyjamming/</link>
+      <description>
+        <![CDATA[<h4>One officer was recorded pressing the &#39;I&#39; key more than 16,000 times</h4> <p>Police in the United Kingdom appear to be taking a cue from Homer Simpson&#39;s playbook, with officers in multiple departments accused of &#34;key jamming&#34; to make it look like they were working from home when they likely weren&#39;t. …</p>]]>
+      </description>
+      <source:markdown>#### One officer was recorded pressing the &#39;I&#39; key more than 16,000 times
+
+Police in the United Kingdom appear to be taking a cue from Homer Simpson&#39;s playbook, with officers in multiple departments accused of &#34;key jamming&#34; to make it look like they were working from home when they likely weren&#39;t. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242282</guid>
+    </item>    <item>
+      <title>These Archaeologists Set Out in Search of Animal Fat. Instead, They Found the Oldest Blue Pigment Ever Discovered in Europe</title>
+      <link>https://www.smithsonianmag.com/smart-news/these-archaeologists-set-out-in-search-animal-fat-instead-they-found-oldest-blue-pigment-ever-discovered-in-europe-180987438/</link>
+      <description>
+        <![CDATA[Blue residue on a 13,000-year-old stone artifact, long believed to be an oil lamp, may paint a new picture of Paleolithic art and culture]]>
+      </description>
+      <source:markdown>Blue residue on a 13,000-year-old stone artifact, long believed to be an oil lamp, may paint a new picture of Paleolithic art and culture</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/RSzZpKQwm-Bn7BNiLn3G7s_J2Bs=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/26/dd/26dd369e-5fdb-41c2-b33c-82b3092f8fb5/blue-pigment.png" length="" type="" />
+    </item>    <item>
       <title>Ex-US cyber boss slams politics getting in the way of preparedness</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/exnational_cyber_boss_us_cyber/</link>
       <description>
@@ -55,6 +137,17 @@ How would you move Space Shuttle Discovery from Virginia to Texas? The White Hou
 
 Never mind Doom running on a potato, or whatever – the next generation of ridiculous computing belongs to Minecraft YouTuber Sammyuri, who built a working chatbot in the perennially popular voxel building sandbox.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242278</guid>
+    </item>    <item>
+      <title>From the Browser to the Bloodstream</title>
+      <link>https://puri.sm/posts/from-the-browser-to-the-bloodstream/</link>
+      <description>
+        <![CDATA[<p>When a company collapses, its debts and assets are tallied, auctioned, and parceled out. But what happens when the “asset” in question is your very biology? That’s the question millions of 23andMe customers now face in the wake of the company’s bankruptcy.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/from-the-browser-to-the-bloodstream/">From the Browser to the Bloodstream</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <source:markdown>When a company collapses, its debts and assets are tallied, auctioned, and parceled out. But what happens when the “asset” in question is your very biology? That’s the question millions of 23andMe customers now face in the wake of the company’s bankruptcy.
+
+The post [From the Browser to the Bloodstream](https://puri.sm/posts/from-the-browser-to-the-bloodstream/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+      <guid>cid://https://puri.sm/?p=84639</guid>
     </item>    <item>
       <title>OpenAI ropes in Korean giants Samsung and SK Hynix to feed its AI megaproject</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/openai_ropes_in_samsung_and/</link>

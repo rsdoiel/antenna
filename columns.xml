@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>http://localhost:8000/columnsxml</link>
-    <lastBuildDate>02 Oct 25 12:45 -0700</lastBuildDate>
+    <lastBuildDate>02 Oct 25 15:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,91 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://www.politico.com/newsletters/digital-future-daily/2025/10/02/the-speech-wars-come-for-wikipedia-00591844</link>
+      <description>
+        <![CDATA[<p>The speech wars come for Wikipedia.</p>]]>
+      </description>
+      <source:markdown>The speech wars come for Wikipedia.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/02/1321/</guid>
+    </item>    <item>
+      <title>How to Try Chrome’s Hidden AI Model</title>
+      <link>https://petewarden.com/2025/10/02/how-to-try-chromes-hidden-ai-model/</link>
+      <description>
+        <![CDATA[There&#8217;s an LLM hiding in Chrome. Buried in the browser&#8217;s basement, behind a door with a &#8220;Beware of Leopard&#8221; sign. But I&#8217;ll show you how to find it. In a couple minutes, you&#8217;ll have a private, free chatbot running on your machine. InstructionsWe’re going to enable some developer flags in desktop Chrome so you can [&#8230;]]]>
+      </description>
+      <source:markdown>There’s an LLM hiding in Chrome. Buried in the browser’s basement, behind a door with a “Beware of Leopard” sign. But I’ll show you how to find it. In a couple minutes, you’ll have a private, free chatbot running on your machine. InstructionsWe’re going to enable some developer flags in desktop Chrome so you can \[…\]</source:markdown>
+      <guid>cid://http://petewarden.com/?p=8060</guid>
+    </item>    <item>
+      <title>Goats Over Gas</title>
+      <link>https://onefoottsunami.com/2025/10/02/goats-over-gas/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29234</guid>
+    </item>    <item>
+      <title>Release Notes for Safari Technology Preview 229</title>
+      <link>https://webkit.org/blog/17447/release-notes-for-safari-technology-preview-229/</link>
+      <description>
+        <![CDATA[Safari Technology Preview Release 229 is now available for download for macOS Tahoe and macOS Sequoia.]]>
+      </description>
+      <source:markdown>Safari Technology Preview Release 229 is now available for download for macOS Tahoe and macOS Sequoia.</source:markdown>
+      <guid>cid://https://webkit.org/?p=17447</guid>
+    </item>    <item>
+      <title>A Chronology of All 113 Prints of Hokusai&#38;#8217;s The Great Wave</title>
+      <link>https://kottke.org/25/10/a-chronology-of-all-113-prints-of-hokusais-the-great-wave</link>
+      <guid>cid://tag:kottke.org,2025://5.47639</guid>
+    </item>    <item>
+      <title>Köln 75 (24vo Festival de cine alemán): la chica que salvó el jazz</title>
+      <link>https://www.palomitademaiz.net/resenas-koln-75-24vo-festival-de-cine-aleman/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-koln-75-24vo-festival-de-cine-aleman</link>
+      <description>
+        <![CDATA[<p>Dirección: Ido Fluk. Guion: Ido Fluk. Elenco:  Mala Emde, John Magaro, Alexander Scheer, Ulrich Tukur, Jördis Triebel, Michael Chernus. Países: Alemania, Polonia, Bélgica. Más información de la película: https://www.imdb.com/title/tt20414360/ Todos hemos disfrutado de la música en vivo  y de esa magia que parece surgir por pura espontaneidad. Sin embargo, ¿qué es lo que sucede detrás [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-koln-75-24vo-festival-de-cine-aleman/">Köln 75 (24vo Festival de cine alemán): la chica que salvó el jazz</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Dirección: Ido Fluk. Guion: Ido Fluk. Elenco:  Mala Emde, John Magaro, Alexander Scheer, Ulrich Tukur, Jördis Triebel, Michael Chernus. Países: Alemania, Polonia, Bélgica. Más información de la película: https://www.imdb.com/title/tt20414360/ Todos hemos disfrutado de la música en vivo  y de esa magia que parece surgir por pura espontaneidad. Sin embargo, ¿qué es lo que sucede detrás \[…\]
+
+La entrada [Köln 75 (24vo Festival de cine alemán): la chica que salvó el jazz](https://www.palomitademaiz.net/resenas-koln-75-24vo-festival-de-cine-aleman/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=25578</guid>
+    </item>    <item>
+      <link>https://podcasts.apple.com/us/podcast/are-you-on-the-fbis-new-watch-list-with-ken-klippenstein/id1624265228?i=1000729664403</link>
+      <description>
+        <![CDATA[<p>Are You On The FBI’s New Watch List?</p>]]>
+      </description>
+      <source:markdown>Are You On The FBI’s New Watch List?</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/02/1319/</guid>
+    </item>    <item>
+      <title>Are you ok? In a recent video, Hank Green tells his brother...</title>
+      <link>https://kottke.org/25/10/0047635-are-you-ok-in-a</link>
+      <guid>cid://tag:kottke.org,2025://13.47635</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2ae6zoes22r</link>
+      <description>
+        <![CDATA[😆
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>😆
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m2ae6zoes22r</guid>
+    </item>    <item>
+      <title>Quentin Blake: How I Draw</title>
+      <link>https://kottke.org/25/10/quentin-blake-how-i-draw</link>
+      <guid>cid://tag:kottke.org,2025://5.47633</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115306147601440099</link>
+      <description>
+        <![CDATA[<p>Joseph documented our new Command Palette:</p><p><a href="https://blog.xogot.com/xogots-new-command-palette/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.xogot.com/xogots-new-comm</span><span class="invisible">and-palette/</span></a></p><p>Video, but I would turn down the volume - because we are not really music-compatible:</p><p><a href="https://youtu.be/HVRAfzXpYpI" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">youtu.be/HVRAfzXpYpI</span><span class="invisible"></span></a></p>]]>
+      </description>
+      <source:markdown>Joseph documented our new Command Palette:
+
+[https://blog.xogot.com/xogots-new-command-palette/](https://blog.xogot.com/xogots-new-command-palette/)
+
+Video, but I would turn down the volume - because we are not really music-compatible:
+
+[https://youtu.be/HVRAfzXpYpI](https://youtu.be/HVRAfzXpYpI)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115306147601440099</guid>
+    </item>    <item>
+      <title>Note published on October 2, 2025 at 7:00 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202510021450</link>
+      <guid>cid://68decbe5c07d15a03fd1b53c</guid>
     </item>    <item>
       <title>Doing It Manually</title>
       <link>https://blog.jim-nielsen.com/2025/doing-in-manually/</link>
@@ -92,6 +177,31 @@ Reply via:
 
 [Bluesky](https://bsky.app/profile/jim-nielsen.com)</source:markdown>
       <guid>cid://https://blog.jim-nielsen.com/2025/doing-in-manually/</guid>
+    </item>    <item>
+      <title>Tiny Tubes</title>
+      <link>https://feed.tedium.co/link/15204/17177109/subminiature-tubes-transistors-raytheon-history</link>
+      <description>
+        <![CDATA[For years, subminiature vacuum tubes were looking like the future of electronics—until a key figure in their rise heard about something better.]]>
+      </description>
+      <source:markdown>For years, subminiature vacuum tubes were looking like the future of electronics—until a key figure in their rise heard about something better.</source:markdown>
+      <guid>cid://https://tedium.co/2025/10/02/subminiature-tubes-transistors-raytheon-history/</guid>
+    </item>    <item>
+      <title>The official number of exoplanets tracked by NASA has reached 6000. Astronomers...</title>
+      <link>https://kottke.org/25/10/0047634-the-official-number-of-ex</link>
+      <guid>cid://tag:kottke.org,2025://13.47634</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115306003704202257</link>
+      <description>
+        <![CDATA[<p>This app for exploring SwiftUI UI elements is adorable!</p><p><a href="https://apps.apple.com/us/app/sixd-swiftui-x-design/id6448773500" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">apps.apple.com/us/app/sixd-swi</span><span class="invisible">ftui-x-design/id6448773500</span></a></p>]]>
+      </description>
+      <source:markdown>This app for exploring SwiftUI UI elements is adorable!
+
+[https://apps.apple.com/us/app/sixd-swiftui-x-design/id6448773500](https://apps.apple.com/us/app/sixd-swiftui-x-design/id6448773500)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115306003704202257</guid>
+    </item>    <item>
+      <title>Musician Plays the Last Stradivarius Guitar in the World, the &#38;#8220;Sabionari&#38;#8221; Made...</title>
+      <link>https://kottke.org/25/10/0047630-musician-plays-the-last-s</link>
+      <guid>cid://tag:kottke.org,2025://13.47630</guid>
     </item>    <item>
       <title>A company called Blackdot has built a tattooing robot. The company says...</title>
       <link>https://kottke.org/25/10/0047604-a-company-called-blackdot</link>
@@ -153,6 +263,10 @@ Reply via:
       <guid>cid://tag:daringfireball.net,2025:/linked//6.42237</guid>
     </item>    <item>
       <title>U.K. Makes New Attempt to Access Apple Cloud Data — This Time, iCloud Backups of U.K. Citizens</title>
+      <link>https://arstechnica.com/tech-policy/2025/10/uk-once-again-demands-backdoor-to-apples-encrypted-cloud-storage/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42236</guid>
+    </item>    <item>
+      <title>U.K. Makes New Attempt to Access Apple Cloud Data — This Time, iCloud Backups of U.K. Citizens</title>
       <link>https://www.ft.com/content/d101fd62-14f9-4f51-beff-ea41e8794265</link>
       <guid>cid://tag:daringfireball.net,2025:/linked//6.42236</guid>
     </item>    <item>
@@ -166,6 +280,17 @@ Reply via:
       <title>A new kind of bone glue that &#38;#8220;mimics how oysters stick to...</title>
       <link>https://kottke.org/25/10/0047631-a-new-kind-of-bone</link>
       <guid>cid://tag:kottke.org,2025://13.47631</guid>
+    </item>    <item>
+      <title>From the Browser to the Bloodstream</title>
+      <link>https://puri.sm/posts/from-the-browser-to-the-bloodstream/</link>
+      <description>
+        <![CDATA[<p>When a company collapses, its debts and assets are tallied, auctioned, and parceled out. But what happens when the “asset” in question is your very biology? That’s the question millions of 23andMe customers now face in the wake of the company’s bankruptcy.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/from-the-browser-to-the-bloodstream/">From the Browser to the Bloodstream</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <source:markdown>When a company collapses, its debts and assets are tallied, auctioned, and parceled out. But what happens when the “asset” in question is your very biology? That’s the question millions of 23andMe customers now face in the wake of the company’s bankruptcy.
+
+The post [From the Browser to the Bloodstream](https://puri.sm/posts/from-the-browser-to-the-bloodstream/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+      <guid>cid://https://puri.sm/?p=84639</guid>
     </item>    <item>
       <title>Daniel Stenberg&#39;s note on AI assisted curl bug reports</title>
       <link>https://simonwillison.net/2025/Oct/2/curl/#atom-everything</link>

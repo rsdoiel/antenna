@@ -4,10 +4,18 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>http://localhost:8000/foodxml</link>
-    <lastBuildDate>02 Oct 25 12:45 -0700</lastBuildDate>
+    <lastBuildDate>02 Oct 25 15:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Best Knife Set After Years of Testing Knives (2025)</title>
+      <link>https://www.bonappetit.com/story/best-knife-sets</link>
+      <description>
+        <![CDATA[Please, please don’t get more knives than you need.]]>
+      </description>
+      <source:markdown>Please, please don’t get more knives than you need.</source:markdown>
+      <guid>cid://67d347e2d732bbdc15086a3d</guid>
+    </item>    <item>
       <title>These Glow-In-the-Dark Roses Are Scary Cool—And Just in Time for Halloween!</title>
       <link>https://www.tasteofhome.com/article/glow-in-the-dark-roses/</link>
       <description>

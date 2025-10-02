@@ -4,10 +4,18 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>http://localhost:8000/librariesxml</link>
-    <lastBuildDate>02 Oct 25 12:45 -0700</lastBuildDate>
+    <lastBuildDate>02 Oct 25 15:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Peer-to-Peer Fundraising at the Internet Archive</title>
+      <link>https://blog.archive.org/2025/10/02/peer-to-peer-fundraising-at-the-internet-archive/</link>
+      <description>
+        <![CDATA[Peer-to-peer (P2P) fundraising allows donors to create their own page and garner donations in support of the Internet Archive. Every donation is tax-deductible, and 100% of all gifts raised directly [&#8230;]]]>
+      </description>
+      <source:markdown>Peer-to-peer (P2P) fundraising allows donors to create their own page and garner donations in support of the Internet Archive. Every donation is tax-deductible, and 100% of all gifts raised directly \[…\]</source:markdown>
+      <guid>cid://https://blog.archive.org/?p=29402</guid>
+    </item>    <item>
       <title>Repertoires: How Social Science Theory Gets Made and Remade</title>
       <link>https://www.arl.org/blog/repertoires-how-social-science-theory-gets-made-and-remade/</link>
       <description>
@@ -25,7 +33,7 @@ The post [Repertoires: How Social Science Theory Gets Made and Remade](https://w
         <![CDATA[A Restoration-era courtier sacrifices his fortune, reputation, and chance at personal happiness to serve his king as a secret spy.]]>
       </description>
       <source:markdown>A Restoration-era courtier sacrifices his fortune, reputation, and chance at personal happiness to serve his king as a secret spy.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/georgette-heyer/the-great-roxhythe/downloads/georgette-heyer_the-great-roxhythe.epub?source=feed" length="557565" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/georgette-heyer/the-great-roxhythe/downloads/georgette-heyer_the-great-roxhythe.epub?source=feed" length="557579" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/georgette-heyer/the-great-roxhythe</guid>
     </item>    <item>
       <title>Guest Post — When Significance Hurts: What the SAMPL Guidelines Can Teach Us</title>
@@ -350,10 +358,10 @@ The post [Guest Post – Taxonomy of Delegation: How GAIDeT Reframes AI Transpar
       <title>Day in Review (September 29–October 2)</title>
       <link>https://www.arl.org/day-in-review/day-in-review-september-29-october-2/</link>
       <description>
-        <![CDATA[<p>Last Updated on October 1, 2025, 6:14 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...</p>
+        <![CDATA[<p>Last Updated on October 2, 2025, 2:47 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...</p>
         <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-29-october-2/">Day in Review (September 29–October 2)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on October 1, 2025, 6:14 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...
+      <source:markdown>Last Updated on October 2, 2025, 2:47 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...
 
 The post [Day in Review (September 29–October 2)](https://www.arl.org/day-in-review/day-in-review-september-29-october-2/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=46147</guid>

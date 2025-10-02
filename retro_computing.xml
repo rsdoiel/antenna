@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>http://localhost:8000/retro_computingxml</link>
-    <lastBuildDate>02 Oct 25 12:45 -0700</lastBuildDate>
+    <lastBuildDate>02 Oct 25 15:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>FDNPKG16 version 0.99.8</title>
+      <link>https://sourceforge.net/p/freedos/news/2025/10/fdnpkg16-version-0998/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>Developer sparky4 (victoria crenshaw) has been working on an updated version of the FDNPKG package manager. The new version is aimed at 16-bit, and works on an 8088 system now. FDNPKG16 version 0.99.8 also retries re-fetching files it couldn't download on the first attempt, and has several other small improvements throughout the code. You can find it at the <a class="" href="https://github.com/sparky4/fdnpkg16" rel="nofollow">FDNPKG16 repository</a> on GitHub.</p></div>]]>
+      </description>
+      <source:markdown>Developer sparky4 (victoria crenshaw) has been working on an updated version of the FDNPKG package manager. The new version is aimed at 16-bit, and works on an 8088 system now. FDNPKG16 version 0.99.8 also retries re-fetching files it couldn&#39;t download on the first attempt, and has several other small improvements throughout the code. You can find it at the [FDNPKG16 repository](https://github.com/sparky4/fdnpkg16) on GitHub.</source:markdown>
+      <guid>cid://https://sourceforge.neta429e1e6a6522cf6eebbeecf352bbcf7b5efa581</guid>
+    </item>    <item>
       <title>b.log 2025/10/02 - The radical left?</title>
       <link>https://heyrick.eu/blog/entry/20251002</link>
       <description>
