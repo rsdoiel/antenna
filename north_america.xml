@@ -4,10 +4,28 @@
   <channel>
     <title>North America</title>
     <link>http://localhost:8000/north_americaxml</link>
-    <lastBuildDate>01 Oct 25 17:14 -0700</lastBuildDate>
+    <lastBuildDate>02 Oct 25 06:11 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Europe plans to build a high-tech &#39;drone wall&#39;</title>
+      <link>https://www.marketplace.org/episode/2025/10/02/europe-plans-to-build-a-hightech-drone-wall</link>
+      <description>
+        <![CDATA[<p><em>From the BBC World Service:</em> Some European Union countries have backed plans for the new defense system to keep out unmanned aircraft from Russia. But how will it work, and what's the price tag? In France hundreds of thousands of workers have walked out over looming budget cuts and pension reforms. Today marks the 75th anniversary of The Turing Test, to tell the difference between a human and a machine. And we hear how Chilean businesses are adapting — or not — to an ageing workforce.</p>]]>
+      </description>
+      <source:markdown>_From the BBC World Service:_ Some European Union countries have backed plans for the new defense system to keep out unmanned aircraft from Russia. But how will it work, and what&#39;s the price tag? In France hundreds of thousands of workers have walked out over looming budget cuts and pension reforms. Today marks the 75th anniversary of The Turing Test, to tell the difference between a human and a machine. And we hear how Chilean businesses are adapting — or not — to an ageing workforce.</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/10/02/mmr_20251002_MMR_Podcast_1__64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K6J8QVPEM093WRMWGJQ8CJVP" length="3257489" type="audio/mpeg" />
+      <guid>cid://01K6J8QVPEM093WRMWGJQ8CJVP</guid>
+    </item>    <item>
+      <title>VCs are investing in LA&#39;s defense tech startups</title>
+      <link>https://www.marketplace.org/episode/2025/10/02/vcs-are-investing-in-las-defense-tech-startups</link>
+      <description>
+        <![CDATA[<p>So far this year, LA defense tech companies have raised $4 billion in funding — more than double last year's haul, according to Los Angeles Times tech reporter Queenie Wong. She told Marketplace’s Nova Safo that venture capital firms are increasingly embracing military-focused tech.</p>]]>
+      </description>
+      <source:markdown>So far this year, LA defense tech companies have raised $4 billion in funding — more than double last year&#39;s haul, according to Los Angeles Times tech reporter Queenie Wong. She told Marketplace’s Nova Safo that venture capital firms are increasingly embracing military-focused tech.</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/10/02/tech_20251002_1002_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K6GMQYRHKXB367N7PMQ1D3NB" length="8347082" type="audio/mpeg" />
+      <guid>cid://01K6GMQYRHKXB367N7PMQ1D3NB</guid>
+    </item>    <item>
       <title>The data dogs are howling</title>
       <link>https://www.marketplace.org/episode/2025/10/01/the-data-dogs-are-howling</link>
       <description>

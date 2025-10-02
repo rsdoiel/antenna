@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>http://localhost:8000/columnsxml</link>
-    <lastBuildDate>01 Oct 25 17:14 -0700</lastBuildDate>
+    <lastBuildDate>02 Oct 25 06:11 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,166 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://ma.tt/2025/10/fight-for-open/#comment-604907</link>
+      <description>
+        <![CDATA[<p>Ever the evangelist, I suggested that Matt's new investment, Beeper, support RSS in addition to all the other protocols they support. That way you could get a message out on the IM network by posting it to a WordPress site.</p>]]>
+      </description>
+      <source:markdown>Ever the evangelist, I suggested that Matt&#39;s new investment, Beeper, support RSS in addition to all the other protocols they support. That way you could get a message out on the IM network by posting it to a WordPress site.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/02/1315/</guid>
+    </item>    <item>
+      <title>Quoting Nadia Eghbal</title>
+      <link>https://simonwillison.net/2025/Oct/2/nadia-eghbal/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-start-small-no-slop/88476"><p>When attention is being appropriated, producers need to weigh the costs and benefits of the transaction. To assess whether the appropriation of attention is net-positive, it’s useful to distinguish between extractive and non-extractive contributions. Extractive contributions are those where the marginal cost of reviewing and merging that contribution is greater than the marginal benefit to the project’s producers. In the case of a code contribution, it might be a pull request that’s too complex or unwieldy to review, given the potential upside</p></blockquote>
+        <p class="cite">&mdash; <a href="https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-start-small-no-slop/88476">Nadia Eghbal</a>, <em>Working in Public</em>, via the draft LLVM AI tools policy</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/definitions">definitions</a></p>]]>
+      </description>
+      <source:markdown>&#62; When attention is being appropriated, producers need to weigh the costs and benefits of the transaction. To assess whether the appropriation of attention is net-positive, it’s useful to distinguish between extractive and non-extractive contributions. Extractive contributions are those where the marginal cost of reviewing and merging that contribution is greater than the marginal benefit to the project’s producers. In the case of a code contribution, it might be a pull request that’s too complex or unwieldy to review, given the potential upside
+
+— [Nadia Eghbal](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-start-small-no-slop/88476), _Working in Public_, via the draft LLVM AI tools policy
+
+Tags: [ai-ethics](https://simonwillison.net/tags/ai-ethics), [open-source](https://simonwillison.net/tags/open-source), [vibe-coding](https://simonwillison.net/tags/vibe-coding), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [generative-ai](https://simonwillison.net/tags/generative-ai), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms), [definitions](https://simonwillison.net/tags/definitions)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/2/nadia-eghbal/#atom-everything</guid>
+    </item>    <item>
+      <title>Investigators have been asked to look into the death of Hunter S. Thompson.</title>
+      <link>https://lithub.com/investigators-have-been-asked-to-look-into-the-death-of-hunter-s-thompson/</link>
+      <description>
+        <![CDATA[The death by suicide of the late, great Hunter S. Thompson in 2005, at the age of 67, is to be reexamined by the Colorado Bureau of Investigation after a request from his widow, Anita. According to NBC: The Pitkin County Sheriff’s Office recently referred the case to the Colorado Bureau of Investigation after his [&#8230;]]]>
+      </description>
+      <source:markdown>The death by suicide of the late, great Hunter S. Thompson in 2005, at the age of 67, is to be reexamined by the Colorado Bureau of Investigation after a request from his widow, Anita. According to NBC: The Pitkin County Sheriff’s Office recently referred the case to the Colorado Bureau of Investigation after his \[…\]</source:markdown>
+      <guid>cid://https://lithub.com/?p=260588</guid>
+    </item>    <item>
+      <link>https://chicago.suntimes.com/immigration/2025/10/01/massive-immigration-raid-on-chicago-apartment-building-leaves-residents-reeling-i-feel-defeated</link>
+      <description>
+        <![CDATA[<p>Massive immigration raid on Chicago apartment building leaves residents reeling: 'I feel defeated.'</p>]]>
+      </description>
+      <source:markdown>Massive immigration raid on Chicago apartment building leaves residents reeling: &#39;I feel defeated.&#39;</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/02/1311/</guid>
+    </item>    <item>
+      <title>An Autocracy of Dunces</title>
+      <link>https://paulkrugman.substack.com/p/an-autocracy-of-dunces</link>
+      <description>
+        <![CDATA[How stone-faced generals, Wall Street pushback, and a government shutdown may save America&#8217;s quickly declining democracy]]>
+      </description>
+      <source:markdown>How stone-faced generals, Wall Street pushback, and a government shutdown may save America’s quickly declining democracy</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!V0BI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29da6cd6-efa2-47e4-98cd-09ec5b0d7aaa_1200x675.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/an-autocracy-of-dunces</guid>
+    </item>    <item>
+      <title>Lit Hub Daily: October 2, 2025</title>
+      <link>https://lithub.com/lit-hub-daily-october-2-2025/</link>
+      <description>
+        <![CDATA[Emma Straub talks to Lily King about campus novels, time jumps, and her new book, Heart the Lover. &#124; Lit Hub In Conversation “It’s in trying to reach beyond our limited selves that we are, I believe, most human.” Ilana Masad on the importance of research in navigating the fact and fiction of alien abduction [&#8230;]]]>
+      </description>
+      <source:markdown>Emma Straub talks to Lily King about campus novels, time jumps, and her new book, Heart the Lover. \| Lit Hub In Conversation “It’s in trying to reach beyond our limited selves that we are, I believe, most human.” Ilana Masad on the importance of research in navigating the fact and fiction of alien abduction \[…\]</source:markdown>
+      <guid>cid://https://lithub.com/?p=260541</guid>
+    </item>    <item>
+      <title>Am I the Asshole For Being Sick to Death of All the Mediocre Speculative Fiction Out There?</title>
+      <link>https://lithub.com/am-i-the-asshole-for-being-sick-to-death-of-all-the-mediocre-speculative-fiction-out-there/</link>
+      <description>
+        <![CDATA[Hello there, dear friends! It’s once again time for Am I the Literary Asshole?, the advice column that’s kind of like your drunk uncle at a wedding who keeps forgetting that he already asked you three different times how school’s going. I’m your host, Kristen Arnett, and I finally finished moving into a new house. [&#8230;]]]>
+      </description>
+      <source:markdown>Hello there, dear friends! It’s once again time for Am I the Literary Asshole?, the advice column that’s kind of like your drunk uncle at a wedding who keeps forgetting that he already asked you three different times how school’s going. I’m your host, Kristen Arnett, and I finally finished moving into a new house. \[…\]</source:markdown>
+      <guid>cid://https://lithub.com/?p=260553</guid>
+    </item>    <item>
+      <title>Inside China’s New Wave of Conceptually Innovative Bookstores</title>
+      <link>https://lithub.com/inside-chinas-new-wave-of-conceptually-innovative-bookstores/</link>
+      <description>
+        <![CDATA[Prior to 2020, the city of Hong Kong had over one hundred bookstores, including several major chains. But the national security law passed on the heels of large demonstrations and the COVID-19 pandemic got the better of most booksellers. The same phenomenon hit the city-state of Singapore, where the book trade has distinctly declined despite [&#8230;]]]>
+      </description>
+      <source:markdown>Prior to 2020, the city of Hong Kong had over one hundred bookstores, including several major chains. But the national security law passed on the heels of large demonstrations and the COVID-19 pandemic got the better of most booksellers. The same phenomenon hit the city-state of Singapore, where the book trade has distinctly declined despite \[…\]</source:markdown>
+      <guid>cid://https://lithub.com/?p=260182</guid>
+    </item>    <item>
+      <title>5 Book Reviews You Need to Read This Week</title>
+      <link>https://lithub.com/5-book-reviews-you-need-to-read-this-week-10-2-2025/</link>
+      <description>
+        <![CDATA[Our bindle of brilliant reviews this week includes Christian Lorentzen on Thomas Pynchon’s Shadow Ticket, Grace Byron on Eliezer Yudkowsky and Nate Soares’s If Anyone Builds It, Everyone Dies, Jeet Heer on Kamala Harris’s 107 Days, Hermione Hoby on Amie Barrodale’s Trip, and Mary Turfah on Sabri Jiryis’s The Foundations of Zionism. Brought to you [&#8230;]]]>
+      </description>
+      <source:markdown>Our bindle of brilliant reviews this week includes Christian Lorentzen on Thomas Pynchon’s Shadow Ticket, Grace Byron on Eliezer Yudkowsky and Nate Soares’s If Anyone Builds It, Everyone Dies, Jeet Heer on Kamala Harris’s 107 Days, Hermione Hoby on Amie Barrodale’s Trip, and Mary Turfah on Sabri Jiryis’s The Foundations of Zionism. Brought to you \[…\]</source:markdown>
+      <guid>cid://https://lithub.com/?p=260558</guid>
+    </item>    <item>
+      <title>Lily King on Campus Novels, Time Jumps, and Having Fun While Writing</title>
+      <link>https://lithub.com/lily-king-on-campus-novels-time-jumps-and-having-fun-while-writing/</link>
+      <description>
+        <![CDATA[Writer and Books Are Magic bookstore owner Emma Straub spoke with Lily King about her new book, Heart the Lover (out now with Grove), smart characters, time jumps, and the utterly exhilarating process of finishing a novel. * Emma Straub: I loved this book Heart the Lover so much. I was describing the book to [&#8230;]]]>
+      </description>
+      <source:markdown>Writer and Books Are Magic bookstore owner Emma Straub spoke with Lily King about her new book, Heart the Lover (out now with Grove), smart characters, time jumps, and the utterly exhilarating process of finishing a novel. \* Emma Straub: I loved this book Heart the Lover so much. I was describing the book to \[…\]</source:markdown>
+      <guid>cid://https://lithub.com/?p=260104</guid>
+    </item>    <item>
+      <title>A View with a Room: How Poetry Can Save the Human Brain</title>
+      <link>https://lithub.com/a-view-with-a-room-how-poetry-can-save-the-human-brain/</link>
+      <description>
+        <![CDATA[I can’t write. It’s been over a year since I wrote a poem or anything at all, really, and this is not normal for me; I am always always writing. I’ve written my way through the hardest parts of my adult life. In fact, worry and lack of time have historically induced me to write [&#8230;]]]>
+      </description>
+      <source:markdown>I can’t write. It’s been over a year since I wrote a poem or anything at all, really, and this is not normal for me; I am always always writing. I’ve written my way through the hardest parts of my adult life. In fact, worry and lack of time have historically induced me to write \[…\]</source:markdown>
+      <guid>cid://https://lithub.com/?p=260226</guid>
+    </item>    <item>
+      <title>The Annotated Nightstand: What Anton Hur Is Reading Now, and Next</title>
+      <link>https://lithub.com/the-annotated-nightstand-what-anton-hur-is-reading-now-and-next/</link>
+      <description>
+        <![CDATA[Considering the spooky time of year has begun (which Drew Broussard and I spoke about here at the Lit Hub Podcast!), Bora Chung’s Midnight Timetable feels apt as a book to kick off the season. Anton Hur, Chung’s translator and an author in his own right of the July title Toward Eternity, is our guest [&#8230;]]]>
+      </description>
+      <source:markdown>Considering the spooky time of year has begun (which Drew Broussard and I spoke about here at the Lit Hub Podcast!), Bora Chung’s Midnight Timetable feels apt as a book to kick off the season. Anton Hur, Chung’s translator and an author in his own right of the July title Toward Eternity, is our guest \[…\]</source:markdown>
+      <guid>cid://https://lithub.com/?p=260229</guid>
+    </item>    <item>
+      <title>Funeral For a Postponed Death: On Burying Argentina’s Disappeared</title>
+      <link>https://lithub.com/funeral-for-a-postponed-death-on-burying-argentinas-disappeared/</link>
+      <description>
+        <![CDATA[Translation by Megan McDowell In the middle of August 2011, I received an email from my colleague and friend Marta Dillon. It was an invitation to the burial of Marta Taboada, her mother, who had been disappeared. The message—it wasn’t sent to me exclusively, of course; it was an open invitation—said: Friends, comrades: There are [&#8230;]]]>
+      </description>
+      <source:markdown>Translation by Megan McDowell In the middle of August 2011, I received an email from my colleague and friend Marta Dillon. It was an invitation to the burial of Marta Taboada, her mother, who had been disappeared. The message—it wasn’t sent to me exclusively, of course; it was an open invitation—said: Friends, comrades: There are \[…\]</source:markdown>
+      <guid>cid://https://lithub.com/?p=260235</guid>
+    </item>    <item>
+      <title>Re(se)a(r)ching For Connection: Navigating the Fact and Fiction of Alien Abduction Stories</title>
+      <link>https://lithub.com/researching-for-connection-navigating-the-fact-and-fiction-of-alien-abduction-stories/</link>
+      <description>
+        <![CDATA[Five years ago, my partner gave me an incredible birthday present—a digital folder full of scanned documents.  Sound boring? It was anything but. The files came from the University of New Hampshire, which houses the archives of Barney and Betty Hill, the people widely considered to be the first alien abductees and from whose experience [&#8230;]]]>
+      </description>
+      <source:markdown>Five years ago, my partner gave me an incredible birthday present—a digital folder full of scanned documents.  Sound boring? It was anything but. The files came from the University of New Hampshire, which houses the archives of Barney and Betty Hill, the people widely considered to be the first alien abductees and from whose experience \[…\]</source:markdown>
+      <guid>cid://https://lithub.com/?p=260179</guid>
+    </item>    <item>
+      <title>Trixie — the new version of Raspberry Pi OS</title>
+      <link>https://www.raspberrypi.com/news/trixie-the-new-version-of-raspberry-pi-os/</link>
+      <description>
+        <![CDATA[<p>New Raspberry Pi OS Trixie has an updated desktop theme, a new Control Centre application, easier customisation possibilities, and more.</p>
+        <p>The post <a href="https://www.raspberrypi.com/news/trixie-the-new-version-of-raspberry-pi-os/">Trixie — the new version of Raspberry Pi OS</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
+      </description>
+      <source:markdown>New Raspberry Pi OS Trixie has an updated desktop theme, a new Control Centre application, easier customisation possibilities, and more.
+
+The post [Trixie — the new version of Raspberry Pi OS](https://www.raspberrypi.com/news/trixie-the-new-version-of-raspberry-pi-os/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
+      <guid>cid://https://www.raspberrypi.com/?p=129344</guid>
+    </item>    <item>
+      <title>I’ve been through government shutdowns. This one is radically different.</title>
+      <link>https://robertreich.substack.com/p/this-shutdown-is-different</link>
+      <description>
+        <![CDATA[Here&#8217;s what&#8217;s at stake, and why Dems must hold the line.]]>
+      </description>
+      <source:markdown>Here’s what’s at stake, and why Dems must hold the line.</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/902fdc43-6919-49d3-bb0d-130e113cde90_260x194.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/this-shutdown-is-different</guid>
+    </item>    <item>
+      <link>https://www.washingtonpost.com/business/2025/10/01/spend-save-money-jonathan-clements-death/?utm_campaign=wp_main&#38;utm_source=bluesky&#38;utm_medium=social</link>
+      <description>
+        <![CDATA[<p>If you only had a year left to live, would you still save your money?</p>]]>
+      </description>
+      <source:markdown>If you only had a year left to live, would you still save your money?</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/02/1309/</guid>
+    </item>    <item>
+      <title>October 1, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-1-2025</link>
+      <description>
+        <![CDATA[Last night, as the government barreled toward a shutdown, President Donald J.]]>
+      </description>
+      <source:markdown>Last night, as the government barreled toward a shutdown, President Donald J.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-1-2025</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m26cjqzst22i</link>
+      <description>
+        <![CDATA[Something to think on, https://www.theguardian.com/news/2025/sep/30/tonga-pacific-island-internet-underwater-cables-volcanic-eruption]]>
+      </description>
+      <source:markdown>Something to think on, https://www.theguardian.com/news/2025/sep/30/tonga-pacific-island-internet-underwater-cables-volcanic-eruption</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m26cjqzst22i</guid>
     </item>    <item>
       <title>aavetis/PRarena</title>
       <link>https://simonwillison.net/2025/Oct/1/prarena/#atom-everything</link>
@@ -86,10 +246,12 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
         </table>
         
         <p>(Those "earliest" links are a little questionable, I tried to filter out false positives and find the oldest one that appeared to really be from the agent in question.)</p>
-        <p>It looks like OpenAI's Codex Cloud is <em>massively</em> ahead of the competition right now in terms of numbers of PRs both opened and merged on GitHub.
+        <p>It looks like OpenAI's Codex Cloud is <em>massively</em> ahead of the competition right now in terms of numbers of PRs both opened and merged on GitHub.</p>
+        <p><strong>Update</strong>: To clarify, these numbers are for the category of <strong>autonomous coding agents</strong> - those systems where you assign a cloud-based agent a task or issue and the output is a PR against your repository. They do not (and cannot) capture the popularity of many forms of AI tooling that don't result in an easily identifiable pull request.</p>
+        <p>Claude Code for example will be dramatically under-counted here because its version of an autonomous coding agent comes in the form of a somewhat obscure GitHub Actions workflow <a href="https://docs.claude.com/en/docs/claude-code/github-actions">buried in the documentation</a>.
         
         
-            <p>Tags: <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/git-scraping">git-scraping</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a></p>]]>
+            <p>Tags: <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/git-scraping">git-scraping</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a></p>]]>
       </description>
       <source:markdown>**[aavetis/PRarena](https://github.com/aavetis/PRarena)**
 
@@ -107,9 +269,13 @@ ToolSearch termTotal PRsMerged PRs% mergedEarliest[Claude Code](https://claude.c
 
 It looks like OpenAI&#39;s Codex Cloud is _massively_ ahead of the competition right now in terms of numbers of PRs both opened and merged on GitHub.
 
+**Update**: To clarify, these numbers are for the category of **autonomous coding agents** \- those systems where you assign a cloud-based agent a task or issue and the output is a PR against your repository. They do not (and cannot) capture the popularity of many forms of AI tooling that don&#39;t result in an easily identifiable pull request.
+
+Claude Code for example will be dramatically under-counted here because its version of an autonomous coding agent comes in the form of a somewhat obscure GitHub Actions workflow [buried in the documentation](https://docs.claude.com/en/docs/claude-code/github-actions).
 
 
-Tags: [github](https://simonwillison.net/tags/github), [ai](https://simonwillison.net/tags/ai), [git-scraping](https://simonwillison.net/tags/git-scraping), [openai](https://simonwillison.net/tags/openai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [anthropic](https://simonwillison.net/tags/anthropic), [coding-agents](https://simonwillison.net/tags/coding-agents)</source:markdown>
+
+Tags: [github](https://simonwillison.net/tags/github), [ai](https://simonwillison.net/tags/ai), [git-scraping](https://simonwillison.net/tags/git-scraping), [openai](https://simonwillison.net/tags/openai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [anthropic](https://simonwillison.net/tags/anthropic), [coding-agents](https://simonwillison.net/tags/coding-agents), [claude-code](https://simonwillison.net/tags/claude-code)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/1/prarena/#atom-everything</guid>
     </item>    <item>
       <title>Two more Chinese pelicans</title>
@@ -2825,6 +2991,7 @@ Zoom info: iiif.io/community</source:markdown>
         <p>🍌 @GeminiApp just passed 5 billion images in less than a month.</p>
         </blockquote>
         <p>Sora 2 cameos looks to me like an attempt to capture that same viral magic but for short-form videos, not images.</p>
+        <p><strong>Update</strong>: I got an invite. Here's <a href="https://sora.chatgpt.com/p/s_68dde7529584819193b31947e46f61ee">"simonw performing opera on stage at the royal albert hall in a very fine purple suit with crows flapping around his head dramatically standing in front of a night orchestrion"</a> (it was meant to be a <em>mighty</em> orchestrion but I had a typo.)</p>
         
             <p>Tags: <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/video-models">video-models</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/text-to-image">text-to-image</a></p>]]>
       </description>
@@ -2839,6 +3006,8 @@ Google saw a similar effect with their Nano Banana image generation model. Gemin
 &#62; 🍌 @GeminiApp just passed 5 billion images in less than a month.
 
 Sora 2 cameos looks to me like an attempt to capture that same viral magic but for short-form videos, not images.
+
+**Update**: I got an invite. Here&#39;s [&#34;simonw performing opera on stage at the royal albert hall in a very fine purple suit with crows flapping around his head dramatically standing in front of a night orchestrion&#34;](https://sora.chatgpt.com/p/s_68dde7529584819193b31947e46f61ee) (it was meant to be a _mighty_ orchestrion but I had a typo.)
 
 Tags: [gemini](https://simonwillison.net/tags/gemini), [generative-ai](https://simonwillison.net/tags/generative-ai), [openai](https://simonwillison.net/tags/openai), [video-models](https://simonwillison.net/tags/video-models), [ai](https://simonwillison.net/tags/ai), [text-to-image](https://simonwillison.net/tags/text-to-image)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Sep/30/sora-2/#atom-everything</guid>
@@ -4445,6 +4614,13 @@ The post [604\. Greek Myths: Sex, Drugs &#38; Tragedy (Part 3)](https://theresti
       <enclosure url="https://api.substack.com/feed/podcast/174789088/e6c66970396c82da2be1cf0148cd8850.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://heathercoxrichardson.substack.com/p/september-27-2025-c1f</guid>
     </item>    <item>
+      <link>https://daveverse.org/2025/09/27/rss-is-permanent/</link>
+      <description>
+        <![CDATA[<p>RSS is permanent.</p>]]>
+      </description>
+      <source:markdown>RSS is permanent.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/09/28/1273/</guid>
+    </item>    <item>
       <title>Read &#34;UK&#39;s Labour Party Abandoned Trans People. Here&#39;s What American Dems Can Learn.&#34;</title>
       <link>https://www.mollywhite.net/reading/shortform?search=UK&#39;s%20Labour%20Party%20Abandoned%20Trans%20People.%20Here&#39;s%20What%20American%20Dems%20Can%20Learn.</link>
       <guid>cid://68d9983a9f72b44b38497091</guid>
@@ -4811,13 +4987,6 @@ For edge detection, for example:
 
 Tags: [google](https://simonwillison.net/tags/google), [video](https://simonwillison.net/tags/video), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [gemini](https://simonwillison.net/tags/gemini), [paper-review](https://simonwillison.net/tags/paper-review), [video-models](https://simonwillison.net/tags/video-models)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Sep/27/video-models-are-zero-shot-learners-and-reasoners/#atom-everything</guid>
-    </item>    <item>
-      <link>https://daveverse.org/2025/09/27/rss-is-permanent/</link>
-      <description>
-        <![CDATA[<p>"It's not just enough to speak up for one platform, anything that can't be owned should be connected and tested with everything else that can't be owned."</p>]]>
-      </description>
-      <source:markdown>&#34;It&#39;s not just enough to speak up for one platform, anything that can&#39;t be owned should be connected and tested with everything else that can&#39;t be owned.&#34;</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/27/1263/</guid>
     </item>    <item>
       <title>Vorträge, Musik, Kunst, Punk: Macht mit beim 39. Chaos Communication Congress!</title>
       <link>https://www.ccc.de/de/updates/2025/39c3-calls</link>

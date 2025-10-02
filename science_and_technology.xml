@@ -4,10 +4,146 @@
   <channel>
     <title>Science and Technology</title>
     <link>http://localhost:8000/science_and_technologyxml</link>
-    <lastBuildDate>01 Oct 25 17:14 -0700</lastBuildDate>
+    <lastBuildDate>02 Oct 25 06:12 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Clop-linked crims shake down Oracle execs with data theft claims</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/clop_oracle_extortion/</link>
+      <description>
+        <![CDATA[<h4>Extortion emails name-drop Big Red&#39;s E-Business Suite, though Google and Mandiant yet to find proof of any breach</h4> <p>Criminals with potential links to the notorious Clop ransomware mob are bombarding Oracle execs with extortion emails, claiming to have stolen sensitive data from Big Red&#39;s E-Business Suite, according to researchers.…</p>]]>
+      </description>
+      <source:markdown>#### Extortion emails name-drop Big Red&#39;s E-Business Suite, though Google and Mandiant yet to find proof of any breach
+
+Criminals with potential links to the notorious Clop ransomware mob are bombarding Oracle execs with extortion emails, claiming to have stolen sensitive data from Big Red&#39;s E-Business Suite, according to researchers.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242270</guid>
+    </item>    <item>
+      <title>Windows 10 refuses to go gentle into that good night</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/windows_10_statcounter/</link>
+      <description>
+        <![CDATA[<h4>Rage, rage against the dying of the free security updates</h4> <p>With just days remaining until Microsoft discontinues free support, Windows 10 still accounts for 40.5 percent of the Windows desktop market, At the same time, Windows 11 adoption remains at just 48.94 percent.…</p>]]>
+      </description>
+      <source:markdown>#### Rage, rage against the dying of the free security updates
+
+With just days remaining until Microsoft discontinues free support, Windows 10 still accounts for 40.5 percent of the Windows desktop market, At the same time, Windows 11 adoption remains at just 48.94 percent.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242269</guid>
+    </item>    <item>
+      <title>EU funds are flowing into spyware companies, and politicians are demanding answers</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/eu_spyware_funding/</link>
+      <description>
+        <![CDATA[<h4>Experts say Commission is ‘fanning the flames’ of the continent’s own Watergate</h4> <p>An arsenal of angry European Parliament members (MEPs) is demanding answers from senior commissioners about why EU subsidies are ending up in the pockets of spyware companies.…</p>]]>
+      </description>
+      <source:markdown>#### Experts say Commission is ‘fanning the flames’ of the continent’s own Watergate
+
+An arsenal of angry European Parliament members (MEPs) is demanding answers from senior commissioners about why EU subsidies are ending up in the pockets of spyware companies.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242272</guid>
+    </item>    <item>
+      <title>A Long-Forgotten 17th-Century Flemish Master Is Finally Getting the Attention She Deserves</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-long-forgotten-17th-century-flemish-master-is-finally-the-attention-she-deserves-180987433/</link>
+      <description>
+        <![CDATA[For the first time, nearly all of Baroque painter Michaelina Wautier's works will be exhibited together]]>
+      </description>
+      <source:markdown>For the first time, nearly all of Baroque painter Michaelina Wautier&#39;s works will be exhibited together</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/uD9YktdGb6LEtDcaPzcyaHGEKeA=/420x240/filters:focal(1058x817:1059x818)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/80/fd/80fd6fa3-5924-4d4d-9e87-4696de93968e/gg_3548_201401_nr_cd_presse.jpg" length="" type="" />
+    </item>    <item>
+      <title>BT promises 5G Standalone for 99% of the UK by 2030</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/bt_5g_standalone_2030/</link>
+      <description>
+        <![CDATA[<h4>Because 100% would just be silly</h4> <p>BT wants to have 5G Standalone (5G SA) mobile service available to 99 percent of the local population by the end of the decade, but it isn&#39;t the only telco with lofty ambitions.…</p>]]>
+      </description>
+      <source:markdown>#### Because 100% would just be silly
+
+BT wants to have 5G Standalone (5G SA) mobile service available to 99 percent of the local population by the end of the decade, but it isn&#39;t the only telco with lofty ambitions.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242271</guid>
+    </item>    <item>
+      <title>Avio bags €40M ESA contract for reusable rocket stage, but don&#39;t hold your breath</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/esa_avio_upper_stage/</link>
+      <description>
+        <![CDATA[<h4>Industry insiders whisper more about posturing than practical progress</h4> <p>Italian rocket company Avio has signed a €40 million contract with the European Space Agency (ESA) to develop a reusable upper stage, a project already drawing skepticism from industry watchers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Industry insiders whisper more about posturing than practical progress
+
+Italian rocket company Avio has signed a €40 million contract with the European Space Agency (ESA) to develop a reusable upper stage, a project already drawing skepticism from industry watchers.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242256</guid>
+    </item>    <item>
+      <title>Cybercrims claim raid on 28,000 Red Hat repos, say they have sensitive customer files</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/cybercrims_claim_raid_on_28000/</link>
+      <description>
+        <![CDATA[<h4>570GB of data claimed to be stolen by the Crimson Collective</h4> <p>A hacking crew claims to have broken into Red Hat&#39;s private GitHub repositories, exfiltrating some 570GB of compressed data, including sensitive documents belonging to customers. …</p>]]>
+      </description>
+      <source:markdown>#### 570GB of data claimed to be stolen by the Crimson Collective
+
+A hacking crew claims to have broken into Red Hat&#39;s private GitHub repositories, exfiltrating some 570GB of compressed data, including sensitive documents belonging to customers. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242268</guid>
+    </item>    <item>
+      <title>Ionos customers fume at mid-contract Plesk hike</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/ionos_vps_plesk_hike/</link>
+      <description>
+        <![CDATA[<h4>Web host blames partner&#39;s license fee increase, but users say notice was too short and terms unfair</h4> <p><strong>Exclusive</strong>  Hosting biz Ionos is hiking the price of its server instances, blaming an increase in Plesk license costs. Customers have a month to accept the increase or else disable Plesk on their account.…</p>]]>
+      </description>
+      <source:markdown>#### Web host blames partner&#39;s license fee increase, but users say notice was too short and terms unfair
+
+**Exclusive**  Hosting biz Ionos is hiking the price of its server instances, blaming an increase in Plesk license costs. Customers have a month to accept the increase or else disable Plesk on their account.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242249</guid>
+    </item>    <item>
+      <title>Irony alert: UK.gov Work dept hires IBM to aid AI projects</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/uk_pensions_and_benefits_department/</link>
+      <description>
+        <![CDATA[<h4>Some Big Blue sky thinking needed for tech that promises employment extinction for humanity</h4> <p>The UK&#39;s pensions and benefits department has awarded IBM a contract that&#39;s worth up to £27 million to explore, deploy and support AI technologies to enhance its services.…</p>]]>
+      </description>
+      <source:markdown>#### Some Big Blue sky thinking needed for tech that promises employment extinction for humanity
+
+The UK&#39;s pensions and benefits department has awarded IBM a contract that&#39;s worth up to £27 million to explore, deploy and support AI technologies to enhance its services.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242246</guid>
+    </item>    <item>
+      <title>Lloyds Banking Group says &#39;digitization&#39; will power more branch closures</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/lloyds_banking_group_digitization_investor_call/</link>
+      <description>
+        <![CDATA[<h4>Group promises sandboxing of AI money management tools with 1,000 branches remaining</h4> <p>Lloyds Banking Group — the £18.67 billion turnover UK-based bank — has promised that it will continue to use “digitization” to power a program of branch closures.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Group promises sandboxing of AI money management tools with 1,000 branches remaining
+
+Lloyds Banking Group — the £18.67 billion turnover UK-based bank — has promised that it will continue to use “digitization” to power a program of branch closures.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242238</guid>
+    </item>    <item>
+      <title>Microsoft confirms it found a way to make Crocs even uglier – with Windows XP and Clippy</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/microsoft_crocs_confirmed/</link>
+      <description>
+        <![CDATA[<h4>It looks like you want some horrible shoes. Would you like to win them?</h4> <p>Microsoft has delivered its found a way to make Crocs even uglier by using some of its own software.…</p>]]>
+      </description>
+      <source:markdown>#### It looks like you want some horrible shoes. Would you like to win them?
+
+Microsoft has delivered its found a way to make Crocs even uglier by using some of its own software.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242266</guid>
+    </item>    <item>
+      <title>Divers Recover More Than $1 Million Worth of Gold and Silver Coins From 310-Year-Old &#39;Treasure Fleet&#39; Shipwrecks</title>
+      <link>https://www.smithsonianmag.com/smart-news/divers-recover-more-than-1-million-worth-of-gold-and-silver-coins-from-310-year-old-treasure-fleet-shipwrecks-180987434/</link>
+      <description>
+        <![CDATA[The vessels sank in a violent hurricane off the coast of Florida in July 1715, when they were traveling from Cuba to Spain with an estimated $400 million worth of coins and jewels from the New World]]>
+      </description>
+      <source:markdown>The vessels sank in a violent hurricane off the coast of Florida in July 1715, when they were traveling from Cuba to Spain with an estimated $400 million worth of coins and jewels from the New World</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ZOgsfn0Tq1x5zL9kYKOhBUuLBGA=/420x240/filters:focal(657x556:658x557)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/71/b8/71b8594b-1b16-4804-95cc-8d58a55b41bd/54c10f_be306a1d4dfe4c98ab5806bc5507c99bmv2.webp" length="" type="" />
+    </item>    <item>
+      <title>Square Kilometre Array is so sensitive, its datacenter needs two Faraday cages to stop RF leaks</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/ska_datacenter_construction_progress_report/</link>
+      <description>
+        <![CDATA[<h4>Stray signals are a no-no when you’re trying to tune into the stars</h4> <p><strong>IAC 2025</strong>  Work on the datacenter that serves the Square Kilometre Array’s (SKA’s) site in Western Australia is all but complete, including the installation of two Faraday cages to ensure the equipment inside does not leak radio waves that could harm the operation of the giant radio telescope.…</p>]]>
+      </description>
+      <source:markdown>#### Stray signals are a no-no when you’re trying to tune into the stars
+
+**IAC 2025**  Work on the datacenter that serves the Square Kilometre Array’s (SKA’s) site in Western Australia is all but complete, including the installation of two Faraday cages to ensure the equipment inside does not leak radio waves that could harm the operation of the giant radio telescope.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242265</guid>
+    </item>    <item>
+      <title>New Zealand’s Institute of IT Professionals collapses</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/nz_itp_collapse/</link>
+      <description>
+        <![CDATA[<h4>Discovers debt it didn’t fully understand, leaving skilled migrants and students in limbo</h4> <p>New Zealand’s Institute of IT Professionals has discovered it is insolvent and advised members it has no alternative but to enter liquidation.…</p>]]>
+      </description>
+      <source:markdown>#### Discovers debt it didn’t fully understand, leaving skilled migrants and students in limbo
+
+New Zealand’s Institute of IT Professionals has discovered it is insolvent and advised members it has no alternative but to enter liquidation.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242264</guid>
+    </item>    <item>
       <title>Meta will listen into AI conversations to personalize ads</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/meta_ai_use_informs_ads/</link>
       <description>
