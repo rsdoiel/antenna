@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="https://source.scripting.com/">
-  <atom:link href="https://rsdoiel.github.io/antenna/craft.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="http://localhost:8000/craftxml" rel="self" type="application/rss+xml" />
   <channel>
     <title>Craft</title>
-    <link>https://rsdoiel.github.io/antenna/craft.xml</link>
-    <lastBuildDate>01 Oct 25 15:19 -0700</lastBuildDate>
+    <description>
+      Craft is a list of hand oriented craft and technology
+      Do we really need all those power tools?
+    </description>
+    <link>http://localhost:8000/craftxml</link>
+    <lastBuildDate>01 Oct 25 17:14 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -146,14 +150,6 @@ etc.), install the frets and dress them. This isn’t the most exciting stage of
 the build but of course frets are pretty essential to any fretted instrument!</source:markdown>
       <author>noreply@blogger.com (Gary Nava, Luthier)</author>
       <guid>cid://tag:blogger.com,1999:blog-32932962.post-8733877615869847867</guid>
-    </item>    <item>
-      <title>No Steambox? No Problem</title>
-      <link>https://blog.lostartpress.com/2025/09/10/no-steambox-no-problem/</link>
-      <description>
-        <![CDATA[In their efforts to make chairmaking more accessible, Alexander Brothers in Virginia now offers steambent arms and armbows that will work with all the armchairs in &#8220;The Stick Chair Book&#8221; (a free download) and the Hobbit chair in The Stick Chair Journal No. 2. You can get the bent components in red oak or cherry....]]>
-      </description>
-      <source:markdown>In their efforts to make chairmaking more accessible, Alexander Brothers in Virginia now offers steambent arms and armbows that will work with all the armchairs in “The Stick Chair Book” (a free download) and the Hobbit chair in The Stick Chair Journal No. 2. You can get the bent components in red oak or cherry....</source:markdown>
-      <guid>cid://https://blog.lostartpress.com/?p=68833</guid>
     </item>
   </channel>
 </rss>

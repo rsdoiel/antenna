@@ -9,9 +9,8 @@ Antenna is software for rendering a Personal News website. It demonstrates aggre
 ## Tools to build this aggregation
 
 - Bash >= 5 (macOS, Linux, Raspberry Pi OS) or PowerShell 7 (for Windows)
-- Pandoc >= 3.6
 - SQLite > 3.40
-- antennaApp >= 0.0.2
+- antennaApp >= 0.0.9
 
 NOTE: The publish.bash and publish.ps1 scripts require Git to publish to GitHub.
 
