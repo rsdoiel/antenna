@@ -2,13 +2,12 @@
 <opml version="2.0">
     <head>
         <title>socal_north.md</title>
-        <dateCreated>02 Oct 25 06:12 -0700</dateCreated>
+        <dateCreated>02 Oct 25 08:42 -0700</dateCreated>
     </head>
     <body>
         <outline text="CalVolunteers" type="rss" xmlUrl="https://www.californiavolunteers.ca.gov/feed/" htmlUrl="https://www.californiavolunteers.ca.gov,https://www.californiavolunteers.ca.gov/feed/" description="California Volunteers" url="https://www.californiavolunteers.ca.gov/feed/"></outline>
         <outline text="Chumash News" type="rss" xmlUrl="https://chumash.gov/latest-news?format=rss" htmlUrl="https://chumash.gov/latest-news/"></outline>
         <outline text="City of Santa Clarita" type="rss" xmlUrl="https://santaclarita.gov/feed/" htmlUrl="https://santaclarita.gov/,https://santaclarita.gov/feed/" url="https://santaclarita.gov/feed/"></outline>
-        <outline text="Desert Gazette Blog" type="rss" xmlUrl="https://desertgazette.com/blog/feed/" htmlUrl="https://desertgazette.com/blog,https://desertgazette.com/blog/feed/" url="https://desertgazette.com/blog/feed/"></outline>
         <outline text="L.A. Conservancy Blog" type="rss" xmlUrl="https://laconservancy.tumblr.com/rss" htmlUrl="https://laconservancy.tumblr.com/"></outline>
         <outline text="L.A. Public Health" type="rss" category="Government,Government" xmlUrl="https://feed.podbean.com/lapublichealth/feed.xml" htmlUrl="https://lapublichealth.podbean.com,https://feed.podbean.com/lapublichealth/feed.xml" description="The Los Angeles Department of Public Health&#39;s vision is simple: healthy people in healthy communities. The LA Public Health Podcast delivers news, updates, and compelling stories from the largest public health jurisdiction in North America, working every day to achieve health equity for more than 10 million Angelenos in every corner of Los Angeles County and beyond." url="https://feed.podbean.com/lapublichealth/feed.xml"></outline>
         <outline text="NOAA Forecast for Santa Clarita" type="json" xmlUrl="https://api.weather.gov/points/34.3917,-118.5426"></outline>

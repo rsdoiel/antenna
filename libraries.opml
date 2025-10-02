@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Library and Archives organizations</title>
-        <dateCreated>02 Oct 25 06:11 -0700</dateCreated>
+        <dateCreated>02 Oct 25 08:42 -0700</dateCreated>
     </head>
     <body>
         <outline text="Association of Research Libraries News" type="rss" xmlUrl="https://www.arl.org/feed/" htmlUrl="https://www.arl.org/,https://www.arl.org/feed/" url="https://www.arl.org/feed/"></outline>
@@ -11,7 +11,6 @@
         <outline text="Cod4Lib Journal" type="rss" xmlUrl="http://feeds.feedburner.com/c4lj" htmlUrl="https://journal.code4lib.org,https://journal.code4lib.org/feed" url="https://journal.code4lib.org/feed"></outline>
         <outline text="Collections Data blog" type="atom" xmlUrl="https://collectionsasdata.github.io/atom.xml" htmlUrl="https://collectionsasdata.github.io/atom.xml,https://collectionsasdata.github.io/" description="An IMLS funded project to create a framework for dealing with collections as data." url="https://collectionsasdata.github.io/atom.xml"></outline>
         <outline text="Crossref Blog" type="rss" xmlUrl="https://www.crossref.org/blog/index.xml" htmlUrl="https://www.crossref.org/blog/,https://www.crossref.org/blog/" description="Recent content in Blog on Crossref" url="https://www.crossref.org/blog/"></outline>
-        <outline text="ETH Zurich Research Archives" type="rss" xmlUrl="https://rc-blog.ethz.ch/en/feed/" htmlUrl="https://rc-blog.ethz.ch,https://rc-blog.ethz.ch/en/feed/" description="Research Collection / Institutional Repository der ETH Zürich" url="https://rc-blog.ethz.ch/en/feed/"></outline>
         <outline text="IT for Archivists" type="rss" xmlUrl="https://www.itforarchivists.com/index.xml" htmlUrl="https://www.itforarchivists.com/,https://www.itforarchivists.com/index.xml" description="Recent content on IT for archivists" url="https://www.itforarchivists.com/index.xml"></outline>
         <outline text="Internet Archive Blog" type="rss" xmlUrl="https://blog.archive.org/feed/" htmlUrl="https://blog.archive.org,https://blog.archive.org/feed/" description="A blog from the team at archive.org" url="https://blog.archive.org/feed/"></outline>
         <outline text="Ithaka S+R" type="rss" xmlUrl="https://sr.ithaka.org/feed/" htmlUrl="https://sr.ithaka.org/,https://sr.ithaka.org/feed/" description="Ithaka S+R" url="https://sr.ithaka.org/feed/"></outline>

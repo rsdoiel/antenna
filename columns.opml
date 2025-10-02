@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>02 Oct 25 06:11 -0700</dateCreated>
+        <dateCreated>02 Oct 25 08:42 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is a new independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -143,14 +143,12 @@
         <outline text="Laurie Voss blog" type="rss" xmlUrl="https://seldo.com/rss.xml" htmlUrl="https://seldo.com" description="Personal website of Laurie Voss"></outline>
         <outline text="Lean Rada&#39;s blog" type="rss" xmlUrl="https://leanrada.com/rss.xml" htmlUrl="https://leanrada.com,https://leanrada.com/rss.xml" description="leanrada.com notes" url="https://leanrada.com/rss.xml"></outline>
         <outline text="Lens.org news" type="rss" xmlUrl="https://about.lens.org/category/news/feed/" htmlUrl="https://about.lens.org,https://about.lens.org/category/news/feed/" description="Search, Analyze and Manage Patent and Scholarly Data" url="https://about.lens.org/category/news/feed/"></outline>
-        <outline text="Letters of Note" type="rss" xmlUrl="https://lettersofnote.com/feed/" htmlUrl="https://lettersofnote.com,https://lettersofnote.com/feed/" description="Correspondence Deserving of a Wider Audience" url="https://lettersofnote.com/feed/"></outline>
         <outline text="Letters of Note" type="rss" xmlUrl="https://news.lettersofnote.com/feed" htmlUrl="https://news.lettersofnote.com,https://news.lettersofnote.com/feed" description="Nothing but history&#39;s most interesting letters. " url="https://news.lettersofnote.com/feed"></outline>
         <outline text="Liam Proven blog" type="rss" xmlUrl="https://lproven.dreamwidth.org/data/rss" htmlUrl="https://lproven.dreamwidth.org/" description="Liam&#39;s write-only LJ - Dreamwidth Studios"></outline>
         <outline text="Liam Proven&#39;s articles at the Register" type="atom" xmlUrl="https://feed.theregister.com/atom?a=Liam%20Proven" htmlUrl="https://feed.theregister.com/atom?a=Liam+Proven,https://search.theregister.com/?q=&amp;author=Liam+Proven" description="Biting the hand that feeds IT — Enterprise Technology News and Analysis" url="https://feed.theregister.com/atom?a=Liam+Proven"></outline>
         <outline text="Liam on Linux" type="rss" xmlUrl="https://liam-on-linux.dreamwidth.org/data/rss" htmlUrl="https://liam-on-linux.dreamwidth.org/" description="Liam on Linux - Dreamwidth Studios"></outline>
         <outline text="Lispy Arnuld blog" type="rss" xmlUrl="https://lispyarnuld.wordpress.com/feed/" htmlUrl="https://lispyarnuld.wordpress.com,https://lispyarnuld.wordpress.com/feed/" description="Musings on Data Science" url="https://lispyarnuld.wordpress.com/feed/"></outline>
         <outline text="LitHub" type="rss" xmlUrl="https://lithub.com/feed/" htmlUrl="https://lithub.com,https://lithub.com/feed/" description="The best of the literary web" url="https://lithub.com/feed/"></outline>
-        <outline text="Literate Machine" type="rss" xmlUrl="https://literatemachine.com/feed/" htmlUrl="https://literatemachine.com,https://literatemachine.com/feed/" description="Media, Capitalism, Politics, Culture" url="https://literatemachine.com/feed/"></outline>
         <outline text="Little Big Details blog" type="rss" xmlUrl="https://littlebigdetails.com/rss" htmlUrl="https://littlebigdetails.com/" description="Your daily dose of design inspiration."></outline>
         <outline text="Live Laugh blog" type="atom" xmlUrl="https://livelaugh.blog/rss.xml" htmlUrl="https://livelaugh.blog/rss.xml,https://livelaugh.blog" url="https://livelaugh.blog/rss.xml"></outline>
         <outline text="Lloyd Rochester Blog" type="rss" xmlUrl="https://lloydrochester.com/index.xml" htmlUrl="https://lloydrochester.com/,https://lloydrochester.com/index.xml" description="Recent content in Home on Lloyd Rochester&#39;s Geek Blog" url="https://lloydrochester.com/index.xml"></outline>
@@ -197,7 +195,6 @@
         <outline text="Notes by Peter Baumgartner" type="rss" xmlUrl="https://notes.peter-baumgartner.net/index.xml" htmlUrl="https://notes.peter-baumgartner.net/,https://notes.peter-baumgartner.net/index.xml" description="Thought Splinters" url="https://notes.peter-baumgartner.net/index.xml"></outline>
         <outline text="O&#39;Reilly Radar" type="rss" xmlUrl="https://www.oreilly.com/radar/feed/" htmlUrl="https://www.oreilly.com/radar,https://www.oreilly.com/radar/feed/" description="Now, next, and beyond: Tracking need-to-know trends at the intersection of business and technology" url="https://www.oreilly.com/radar/feed/"></outline>
         <outline text="Oberon A2 repository" type="atom" xmlUrl="https://gitlab.inf.ethz.ch/felixf/oberon.atom" htmlUrl="https://gitlab.inf.ethz.ch/felixf/oberon.atom,https://gitlab.inf.ethz.ch/felixf/oberon" url="https://gitlab.inf.ethz.ch/felixf/oberon.atom"></outline>
-        <outline text="Ocelot SQL GUI blog" type="rss" xmlUrl="https://ocelot.ca/blog/feed/" htmlUrl="https://ocelot.ca/blog,https://ocelot.ca/blog/feed/" description="Musings On MySQL / MariaDB Features and SQL / NoSQL Open Source DBMSs" url="https://ocelot.ca/blog/feed/"></outline>
         <outline text="Om Malik blog" type="rss" xmlUrl="https://om.co/feed/" htmlUrl="https://om.co,https://om.co/feed/" description="Technology &amp; Change: Field Notes From The Present Future" url="https://om.co/feed/"></outline>
         <outline text="One Foot Tsunami" type="atom" xmlUrl="https://onefoottsunami.com/feed/atom/" htmlUrl="https://onefoottsunami.com,https://onefoottsunami.com/feed/atom/" description="Slightly less disappointing than it sounds" url="https://onefoottsunami.com/feed/atom/"></outline>
         <outline text="One Useful Thing" type="rss" xmlUrl="https://www.oneusefulthing.org/feed" htmlUrl="https://www.oneusefulthing.org,https://www.oneusefulthing.org/feed" description="Trying to understand the implications of AI for work, education, and life. By Prof. Ethan Mollick" url="https://www.oneusefulthing.org/feed"></outline>
