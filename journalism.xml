@@ -4,18 +4,20 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>http://localhost:8000/journalismxml</link>
-    <lastBuildDate>01 Oct 25 16:45 -0700</lastBuildDate>
+    <lastBuildDate>01 Oct 25 17:14 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>Q&#38;A: Chris DeMoulin talks community building, pop culture goals of L.A. Comic Con</title>
       <link>https://dailybruin.com/2025/10/01/qa-chris-demoulin-talks-community-building-pop-culture-goals-of-l-a-comic-con/</link>
       <description>
-        <![CDATA[Los Angeles Comic Con is brought together fans of all genres this weekend.
-        L.A. Comic Con took place Sept. 26-28 at the LA Convention Center and hosted a variety of events from panel speakers to dedicated anime experiences and cosplay conventions.]]>
+        <![CDATA[<em>This post was updated Oct. 1 at 3:25 p.m.</em>
+        Los Angeles Comic Con is brought together fans of all genres this weekend.
+        L.A. Comic Con took place Sept.]]>
       </description>
-      <source:markdown>Los Angeles Comic Con is brought together fans of all genres this weekend.
-L.A. Comic Con took place Sept. 26-28 at the LA Convention Center and hosted a variety of events from panel speakers to dedicated anime experiences and cosplay conventions.</source:markdown>
+      <source:markdown>_This post was updated Oct. 1 at 3:25 p.m._
+Los Angeles Comic Con is brought together fans of all genres this weekend.
+L.A. Comic Con took place Sept.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=494207</guid>
     </item>    <item>
       <title>Cast of ‘The Paper’ discuss sharing ‘The Office’ universe, experiences on set</title>
@@ -3749,201 +3751,6 @@ The post [COC Trustees move to oust Interim Superintendent](https://canyonsnews.
         <![CDATA[Marching their way through the Rose Bowl Stadium, Terry and Jerry Fitzer kicked off the 1965 UCLA football season as the first female members of the UCLA Bruin Marching Band.]]>
       </description>
       <guid>cid://https://dailybruin.com/?p=493146</guid>
-    </item>    <item>
-      <title>Developing defense: UCLA football slowly gains clarity on new identity</title>
-      <link>https://dailybruin.com/2025/09/10/developing-defense-ucla-football-slowly-gains-clarity-on-new-identity/</link>
-      <description>
-        <![CDATA[The first half looked all too familiar.
-        Missed assignments, slow starts and another opening half where UCLA&#8217;s defense could not get off the field &#8211; managing only 110 total offensive yards compared to UNLV&#8217;s 250 marred UCLA&#8217;s performance.]]>
-      </description>
-      <guid>cid://https://dailybruin.com/?p=493140</guid>
-    </item>    <item>
-      <title>BREAKING: Charlie Kirk shot dead at Utah Valley University</title>
-      <link>https://sundial.csun.edu/196638/news/breaking-charlie-kirk-shot-dead-at-utah-valley-university/</link>
-      <description>
-        <![CDATA[American political activist and author Charlie Kirk was shot and killed during the Orem, Utah, stop of The American Comeback Tour. A shot was heard at approximately 12:10 p.m. while...]]>
-      </description>
-      <guid>cid://http://sundial.csun.edu/?p=196638</guid>
-    </item>    <item>
-      <title>Sophomore housing guarantee program remains in place</title>
-      <link>https://dailytrojan.com/2025/09/10/sophomore-housing-guarantee-program-remains-in-place/</link>
-      <description>
-        <![CDATA[<p>The decision comes after University leadership reviewed the program for potential cancellation.</p>
-        <p>The post <a href="https://dailytrojan.com/2025/09/10/sophomore-housing-guarantee-program-remains-in-place/">Sophomore housing guarantee program remains in place</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <guid>cid://https://dailytrojan.com/?p=238227</guid>
-    </item>    <item>
-      <title>Professor Michael Hill and team present potential alternative to LASIK eye surgery</title>
-      <link>https://theoccidentalnews.com/news/2025/09/10/professor-michael-hill-and-team-present-potential-alternative-to-lasik-eye-surgery/2915302</link>
-      <description>
-        <![CDATA[<p>Chemistry Professor Michael Hill and student Mimi Chen (senior) presented at the American Chemistry Society (ACS) fall meeting in August 2025 about their research on electrolysis, a process of splitting water into hydrogen and oxygen, as a potential alternative to LASIK surgery, a procedure that reshapes the cornea and corrects vision with a laser. Hill leads the Electromechanical Corneal Reshaping for [&#8230;]</p>
-        <p>The post <a href="https://theoccidentalnews.com/news/2025/09/10/professor-michael-hill-and-team-present-potential-alternative-to-lasik-eye-surgery/2915302">Professor Michael Hill and team present potential alternative to LASIK eye surgery</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>]]>
-      </description>
-      <guid>cid://https://theoccidentalnews.com/?p=2915302</guid>
-    </item>    <item>
-      <title>Telefund pauses operations after 25 years</title>
-      <link>https://theoccidentalnews.com/news/2025/09/10/telefund-pauses-operations-after-25-years/2915322</link>
-      <description>
-        <![CDATA[<p>Occidental’s student fundraising organization, Telefund, paused operations for the Fall 2025 semester after nearly 25 years of operation, according to Occidental’s Senior Director of Communications Rachael Warecki. “After several years of declining return on investment, Telefund experienced a negative net revenue,” Warecki said via email. “This is consistent with trends at other colleges and universities, [&#8230;]</p>
-        <p>The post <a href="https://theoccidentalnews.com/news/2025/09/10/telefund-pauses-operations-after-25-years/2915322">Telefund pauses operations after 25 years</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>]]>
-      </description>
-      <guid>cid://https://theoccidentalnews.com/?p=2915322</guid>
-    </item>    <item>
-      <title>Letter to the Editor: Against the Masking Ban</title>
-      <link>https://theoccidentalnews.com/opinions/2025/09/10/letter-to-the-editor-against-the-masking-ban/2915346</link>
-      <description>
-        <![CDATA[<p>At the end of the summer, Occidental students received a routine email that should have been startling to anyone with even a cursory knowledge of the 20th century. The contents of the email were updates on changes to college policy. Although emails announcing bureaucratic tweaks and changes are to be expected at the beginning of [&#8230;]</p>
-        <p>The post <a href="https://theoccidentalnews.com/opinions/2025/09/10/letter-to-the-editor-against-the-masking-ban/2915346">Letter to the Editor: Against the Masking Ban</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>]]>
-      </description>
-      <guid>cid://https://theoccidentalnews.com/?p=2915346</guid>
-    </item>    <item>
-      <title>Opinion: Do you think Trump is a madman? That’s exactly what he wants</title>
-      <link>https://theoccidentalnews.com/opinions/2025/09/10/opinion-do-you-think-trump-is-a-madman-thats-exactly-what-he-wants/2915333</link>
-      <description>
-        <![CDATA[<p>As the world watches, the president of the United States threatens allies with military action, slams the world with tariffs and cozies up to America’s enemies. It&#8217;s been a tumultuous start to the second Donald Trump presidency. One might think we had elected a madman into office and might be surprised to learn that madman is exactly what Trump [&#8230;]</p>
-        <p>The post <a href="https://theoccidentalnews.com/opinions/2025/09/10/opinion-do-you-think-trump-is-a-madman-thats-exactly-what-he-wants/2915333">Opinion: Do you think Trump is a madman? That’s exactly what he wants</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>]]>
-      </description>
-      <guid>cid://https://theoccidentalnews.com/?p=2915333</guid>
-    </item>    <item>
-      <title>Stewie beach volleyball court debuts, renovations ongoing</title>
-      <link>https://theoccidentalnews.com/news/on-campus/2025/09/10/stewie-beach-volleyball-court-debuts-renovations-ongoing/2915283</link>
-      <description>
-        <![CDATA[<p>Over the summer, facilities took advantage of &#8220;dead space&#8221; and built a beach volleyball court in front of Stewart-Cleland Hall, an area that was already commonly referred to as &#8220;Stewie Beach.&#8221; David Caldwell, the assistant vice president of Facilities management, said there has been talk surrounding the creation of something new on Stewie Beach for [&#8230;]</p>
-        <p>The post <a href="https://theoccidentalnews.com/news/on-campus/2025/09/10/stewie-beach-volleyball-court-debuts-renovations-ongoing/2915283">Stewie beach volleyball court debuts, renovations ongoing</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>]]>
-      </description>
-      <guid>cid://https://theoccidentalnews.com/?p=2915283</guid>
-    </item>    <item>
-      <title>Stewie beach volleyball court debuts, renovations ongoing</title>
-      <link>https://theoccidentalnews.com/sports/2025/09/10/stewie-beach-volleyball-court-debuts-renovations-ongoing/2915283</link>
-      <description>
-        <![CDATA[<p>Over the summer, facilities took advantage of &#8220;dead space&#8221; and built a beach volleyball court in front of Stewart-Cleland Hall, an area that was already commonly referred to as &#8220;Stewie Beach.&#8221; David Caldwell, the assistant vice president of Facilities management, said there has been talk surrounding the creation of something new on Stewie Beach for [&#8230;]</p>
-        <p>The post <a href="https://theoccidentalnews.com/sports/2025/09/10/stewie-beach-volleyball-court-debuts-renovations-ongoing/2915283">Stewie beach volleyball court debuts, renovations ongoing</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>]]>
-      </description>
-      <guid>cid://https://theoccidentalnews.com/?p=2915283</guid>
-    </item>    <item>
-      <title>A day in the life of Kat Wang: Helping pre-health students ‘cultivate their narrative’</title>
-      <link>https://theoccidentalnews.com/arts-entertainment/2025/09/10/a-day-in-the-life-of-kat-wang-helping-pre-health-students-cultivate-their-narrative/2915340</link>
-      <description>
-        <![CDATA[<p>Currently working her sixth year at Occidental, Kat Wang, director of Pre-Health Advising, can often be found in the Hammetman Career Center supporting students through their pre-health journeys on their various healthcare pathways. Her busy workdays are spent meeting with students one-on-one, event planning, working with Occidental’s alumni network and teaching a class. As a first-generation [&#8230;]</p>
-        <p>The post <a href="https://theoccidentalnews.com/arts-entertainment/2025/09/10/a-day-in-the-life-of-kat-wang-helping-pre-health-students-cultivate-their-narrative/2915340">A day in the life of Kat Wang: Helping pre-health students &#8216;cultivate their narrative&#8217;</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>]]>
-      </description>
-      <guid>cid://https://theoccidentalnews.com/?p=2915340</guid>
-    </item>    <item>
-      <title>A day in the life of Kat Wang: Helping pre-health students ‘cultivate their narrative’</title>
-      <link>https://theoccidentalnews.com/culture/2025/09/10/a-day-in-the-life-of-kat-wang-helping-pre-health-students-cultivate-their-narrative/2915340</link>
-      <description>
-        <![CDATA[<p>Currently working her sixth year at Occidental, Kat Wang, director of Pre-Health Advising, can often be found in the Hammetman Career Center supporting students through their pre-health journeys on their various healthcare pathways. Her busy workdays are spent meeting with students one-on-one, event planning, working with Occidental’s alumni network and teaching a class. As a first-generation [&#8230;]</p>
-        <p>The post <a href="https://theoccidentalnews.com/culture/2025/09/10/a-day-in-the-life-of-kat-wang-helping-pre-health-students-cultivate-their-narrative/2915340">A day in the life of Kat Wang: Helping pre-health students &#8216;cultivate their narrative&#8217;</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>]]>
-      </description>
-      <guid>cid://https://theoccidentalnews.com/?p=2915340</guid>
-    </item>    <item>
-      <title>Oxy Wanlass Artist in Residence Roksana Pirouzmand experiments with medium, space and sound</title>
-      <link>https://theoccidentalnews.com/arts-entertainment/2025/09/10/oxy-wanlass-artist-in-residence-roksana-pirouzmand-experiments-with-medium-space-and-sound/2915338</link>
-      <description>
-        <![CDATA[<p>The theme for this semester&#8217;s Studio Arts course Art Outside the Bounds is &#8220;Everything was once something else.” Instructor Roksana Pirouzmand said she was inspired by the opening line of Tiny Epiphany 5 by Ankita Shah, a poem she came across while thinking about the curriculum. Offered by Oxy Arts, students are taught by an LA-based artist through the [&#8230;]</p>
-        <p>The post <a href="https://theoccidentalnews.com/arts-entertainment/2025/09/10/oxy-wanlass-artist-in-residence-roksana-pirouzmand-experiments-with-medium-space-and-sound/2915338">Oxy Wanlass Artist in Residence Roksana Pirouzmand experiments with medium, space and sound</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>]]>
-      </description>
-      <guid>cid://https://theoccidentalnews.com/?p=2915338</guid>
-    </item>    <item>
-      <title>UEPI Native Garden incorporates alternative landscaping and native plant restoration</title>
-      <link>https://theoccidentalnews.com/arts-entertainment/2025/09/10/uepi-native-garden-incorporates-alternative-landscaping-and-native-plant-restoration/2915336</link>
-      <description>
-        <![CDATA[<p>The Urban and Environmental Policy Institute (UEPI) located at 1541 Campus Road recently replaced its grass lawn with a new garden holding plants native to Southern California. According to Graham Luethe (senior), the project began with a proposal Fall 2023 after his internship with The Urban Homestead, an urban farm in Pasadena, the previous summer. The garden [&#8230;]</p>
-        <p>The post <a href="https://theoccidentalnews.com/arts-entertainment/2025/09/10/uepi-native-garden-incorporates-alternative-landscaping-and-native-plant-restoration/2915336">UEPI Native Garden incorporates alternative landscaping and native plant restoration</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>]]>
-      </description>
-      <guid>cid://https://theoccidentalnews.com/?p=2915336</guid>
-    </item>    <item>
-      <title>Opinion: MAHA is RFK’s unprecedented assault on American medicine</title>
-      <link>https://theoccidentalnews.com/opinions/2025/09/10/opinion-maha-is-rfks-unprecedented-assault-on-american-medicine/2915331</link>
-      <description>
-        <![CDATA[<p>It’s no exaggeration to say that the second Trump administration may be the most transformative regime America has ever experienced. From gutting federal government infrastructure to mobilizing the largest mass-deportation effort in American history, President Trump and his allies have made it clear that they will do everything in their power to usher in their [&#8230;]</p>
-        <p>The post <a href="https://theoccidentalnews.com/opinions/2025/09/10/opinion-maha-is-rfks-unprecedented-assault-on-american-medicine/2915331">Opinion: MAHA is RFK’s unprecedented assault on American medicine</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>]]>
-      </description>
-      <guid>cid://https://theoccidentalnews.com/?p=2915331</guid>
-    </item>    <item>
-      <title>Opinion: Escape learned helplessness, find a “will to meaning”</title>
-      <link>https://theoccidentalnews.com/opinions/2025/09/10/opinion-escape-learned-helplessness-find-a-will-to-meaning/2915329</link>
-      <description>
-        <![CDATA[<p>In his 1946 book “Man’s Search for Meaning,” neurosurgeon and psychologist Victor Frankl details his experience as a Holocaust survivor. We follow Frankl through the depths of hell, witnessing painfully devastating conditions and humanity portrayed in its most raw and brutal state. The book is so moving that the Library of Congress called it one of &#8220;the [&#8230;]</p>
-        <p>The post <a href="https://theoccidentalnews.com/opinions/2025/09/10/opinion-escape-learned-helplessness-find-a-will-to-meaning/2915329">Opinion: Escape learned helplessness, find a &#8220;will to meaning&#8221;</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>]]>
-      </description>
-      <guid>cid://https://theoccidentalnews.com/?p=2915329</guid>
-    </item>    <item>
-      <title>Meet the USG special election candidates</title>
-      <link>https://dailytrojan.com/2025/09/10/meet-the-usg-special-election-candidates/</link>
-      <description>
-        <![CDATA[<p>The voting period for the nine candidates running is from Sept. 10 through 12.</p>
-        <p>The post <a href="https://dailytrojan.com/2025/09/10/meet-the-usg-special-election-candidates/">Meet the USG special election candidates</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <guid>cid://https://dailytrojan.com/?p=238149</guid>
-    </item>    <item>
-      <title>Classifieds – September 10, 2025</title>
-      <link>https://dailytrojan.com/2025/09/10/classifieds-september-10-2025/</link>
-      <description>
-        <![CDATA[<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
-        <p>The post <a href="https://dailytrojan.com/2025/09/10/classifieds-september-10-2025/">Classifieds &#8211; September 10, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <guid>cid://https://dailytrojan.com/?p=238145</guid>
-    </item>    <item>
-      <title>Let’s put the Opium down</title>
-      <link>https://dailytrojan.com/2025/09/10/lets-put-the-opium-down/</link>
-      <description>
-        <![CDATA[<p>The subgenre shows the extent of Gen Z’s growing political disillusionment.</p>
-        <p>The post <a href="https://dailytrojan.com/2025/09/10/lets-put-the-opium-down/">Let&#8217;s put the Opium down</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <guid>cid://https://dailytrojan.com/?p=238163</guid>
-    </item>    <item>
-      <title>‘Object to Binary’ examines gender roles belied by routines</title>
-      <link>https://dailytrojan.com/2025/09/10/object-to-binary-examines-gender-roles-belied-by-routines/</link>
-      <description>
-        <![CDATA[<p>The Roski student exhibit investigates gender via texture and color.</p>
-        <p>The post <a href="https://dailytrojan.com/2025/09/10/object-to-binary-examines-gender-roles-belied-by-routines/">&#8216;Object to Binary&#8217; examines gender roles belied by routines</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <guid>cid://https://dailytrojan.com/?p=238183</guid>
-    </item>    <item>
-      <title>College is four years — make them count</title>
-      <link>https://dailytrojan.com/2025/09/10/college-is-four-years-make-them-count/</link>
-      <description>
-        <![CDATA[<p>Graduation is the finish line, but you need to enjoy the journey along the way.</p>
-        <p>The post <a href="https://dailytrojan.com/2025/09/10/college-is-four-years-make-them-count/">College is four years — make them count</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <guid>cid://https://dailytrojan.com/?p=238175</guid>
-    </item>    <item>
-      <title>USG senate amends  timeline for RSO requests to travel</title>
-      <link>https://dailytrojan.com/2025/09/10/usg-senate-amends-timeline-for-rso-requests-to-travel/</link>
-      <description>
-        <![CDATA[<p>Requests for travel funding has now been extended to complete approvals on time.</p>
-        <p>The post <a href="https://dailytrojan.com/2025/09/10/usg-senate-amends-timeline-for-rso-requests-to-travel/">USG senate amends  timeline for RSO requests to travel</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <guid>cid://https://dailytrojan.com/?p=238151</guid>
-    </item>    <item>
-      <title>Punk-rap duo Ho99o9 sticks the landing with new album</title>
-      <link>https://dailytrojan.com/2025/09/10/punk-rap-duo-ho99o9-sticks-the-landing-with-new-album/</link>
-      <description>
-        <![CDATA[<p>“Tomorrow We Escape” is a genre-bending record that keeps listeners guessing.</p>
-        <p>The post <a href="https://dailytrojan.com/2025/09/10/punk-rap-duo-ho99o9-sticks-the-landing-with-new-album/">Punk-rap duo Ho99o9 sticks the landing with new album</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <guid>cid://https://dailytrojan.com/?p=238190</guid>
-    </item>    <item>
-      <title>Banuelos gets his shot against Georgia Southern. ‘I’ve been waiting’</title>
-      <link>https://dailytrojan.com/2025/09/10/banuelos-gets-his-shot-against-georgia-southern-ive-been-waiting/</link>
-      <description>
-        <![CDATA[<p>Redshirt sophomore right guard Micah Banuelos earned his first career start Saturday.</p>
-        <p>The post <a href="https://dailytrojan.com/2025/09/10/banuelos-gets-his-shot-against-georgia-southern-ive-been-waiting/">Banuelos gets his shot against Georgia Southern. ‘I’ve been waiting’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <guid>cid://https://dailytrojan.com/?p=238160</guid>
-    </item>    <item>
-      <title>Women’s volleyball goes undefeated at Trojan Invitational</title>
-      <link>https://dailytrojan.com/2025/09/10/womens-volleyball-goes-undefeated-at-trojan-invitational/</link>
-      <description>
-        <![CDATA[<p>The No. 16 Trojans are 5-0 after winning three games over the weekend.</p>
-        <p>The post <a href="https://dailytrojan.com/2025/09/10/womens-volleyball-goes-undefeated-at-trojan-invitational/">Women’s volleyball goes undefeated at Trojan Invitational</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <guid>cid://https://dailytrojan.com/?p=238154</guid>
-    </item>    <item>
-      <title>Striking the Path for Future Generations: The Past and Present of Latino Student Resources at UCLA</title>
-      <link>https://prime.dailybruin.com/primehungerstrikes</link>
-      <guid>cid://https://dailybruin.com/?p=493130</guid>
     </item>
   </channel>
 </rss>
