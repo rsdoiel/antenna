@@ -13,4 +13,6 @@ description: |
 - [Luthier on Luthier with Michael Bashkin](https://feeds.libsyn.com/94579/rss)
 - [Discover the world of Luthiers](https://luthiers.com/feed/)
 - [A Luthier's blog](https://guitar-maker.blogspot.com/feeds/posts/default?alt=rss)
+- [Popular Woodworking](https://www.popularwoodworking.com/feed/)
+
 
