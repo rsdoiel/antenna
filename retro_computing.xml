@@ -4,10 +4,26 @@
   <channel>
     <title>Retro Computing News</title>
     <link>http://localhost:8000/retro_computingxml</link>
-    <lastBuildDate>02 Oct 25 08:42 -0700</lastBuildDate>
+    <lastBuildDate>02 Oct 25 08:44 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>DOS Game Club</title>
+      <link>https://www.filfre.net/2025/10/dos-game-club/</link>
+      <description>
+        <![CDATA[I had a long talk recently with some nice folks at the DOS Game Club podcast. Our subject was one from the early days of this site, the Infocom game Planetfall. Maybe some of you will find it interesting. You can get it from the DOS Game Club homepage, or more than likely wherever you get [&#8230;]]]>
+      </description>
+      <source:markdown>I had a long talk recently with some nice folks at the DOS Game Club podcast. Our subject was one from the early days of this site, the Infocom game Planetfall. Maybe some of you will find it interesting. You can get it from the DOS Game Club homepage, or more than likely wherever you get \[…\]</source:markdown>
+      <guid>cid://https://www.filfre.net/?p=6511</guid>
+    </item>    <item>
+      <title>WROCC October 2025 meeting - R-Comp and ROD Show teaser</title>
+      <link>http://www.iconbar.com/comments/rss/news2239.html</link>
+      <description>
+        <![CDATA[Wakefield's October speaker was Andrew Rawnsley from R-Comp, giving us some updates and teasers for the London Show (in case you need more reasons to attend the Show!)]]>
+      </description>
+      <source:markdown>Wakefield&#39;s October speaker was Andrew Rawnsley from R-Comp, giving us some updates and teasers for the London Show (in case you need more reasons to attend the Show!)</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2239.html</guid>
+    </item>    <item>
       <title>jSH 0.98</title>
       <link>https://sourceforge.net/p/freedos/news/2025/10/jsh-098/</link>
       <description>

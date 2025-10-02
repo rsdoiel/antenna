@@ -4,10 +4,41 @@
   <channel>
     <title>North America</title>
     <link>http://localhost:8000/north_americaxml</link>
-    <lastBuildDate>02 Oct 25 08:42 -0700</lastBuildDate>
+    <lastBuildDate>02 Oct 25 08:44 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Europe plans to build a high-tech &#39;drone wall&#39;</title>
+      <link>https://www.marketplace.org/episode/2025/10/02/europe-plans-to-build-a-hightech-drone-wall</link>
+      <description>
+        <![CDATA[<p><em>From the BBC World Service:</em> Some European Union countries have backed plans for the new defense system to keep out unmanned aircraft from Russia. But how will it work, and what's the price tag? In France hundreds of thousands of workers have walked out over looming budget cuts and pension reforms. Today marks the 75th anniversary of The Turing Test, to tell the difference between a human and a machine. And we hear how Chilean businesses are adapting — or not — to an ageing workforce.</p>]]>
+      </description>
+      <source:markdown>_From the BBC World Service:_ Some European Union countries have backed plans for the new defense system to keep out unmanned aircraft from Russia. But how will it work, and what&#39;s the price tag? In France hundreds of thousands of workers have walked out over looming budget cuts and pension reforms. Today marks the 75th anniversary of The Turing Test, to tell the difference between a human and a machine. And we hear how Chilean businesses are adapting — or not — to an ageing workforce.</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/10/02/mmr_20251002_MMR_Podcast_1__64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K6J8QVPEM093WRMWGJQ8CJVP" length="3257489" type="audio/mpeg" />
+      <guid>cid://01K6J8QVPEM093WRMWGJQ8CJVP</guid>
+    </item>    <item>
+      <title>VCs are investing in LA&#39;s defense tech startups</title>
+      <link>https://www.marketplace.org/episode/2025/10/02/vcs-are-investing-in-las-defense-tech-startups</link>
+      <description>
+        <![CDATA[<p>So far this year, LA defense tech companies have raised $4 billion in funding — more than double last year's haul, according to Los Angeles Times tech reporter Queenie Wong. She told Marketplace’s Nova Safo that venture capital firms are increasingly embracing military-focused tech.</p>]]>
+      </description>
+      <source:markdown>So far this year, LA defense tech companies have raised $4 billion in funding — more than double last year&#39;s haul, according to Los Angeles Times tech reporter Queenie Wong. She told Marketplace’s Nova Safo that venture capital firms are increasingly embracing military-focused tech.</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/10/02/tech_20251002_1002_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K6GMQYRHKXB367N7PMQ1D3NB" length="8347082" type="audio/mpeg" />
+      <guid>cid://01K6GMQYRHKXB367N7PMQ1D3NB</guid>
+    </item>    <item>
+      <title>The data dogs are howling</title>
+      <link>https://www.marketplace.org/episode/2025/10/01/the-data-dogs-are-howling</link>
+      <description>
+        <![CDATA[<p>The government shutdown means crucial jobs data will likely be postponed, right as the Fed weighs its next move. Chicago Fed President Austan Goolsbee, a self-described “data dog,” tells us how central bank officials plan to pivot. He also discusses Fed independence, transitory inflation, and rate cut pacing. After that: fiscal calendars vary by sector, synthetic dye removal will ripple through the food chain, and ADP reports more sour employment data.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
+      </description>
+      <source:markdown>The government shutdown means crucial jobs data will likely be postponed, right as the Fed weighs its next move. Chicago Fed President Austan Goolsbee, a self-described “data dog,” tells us how central bank officials plan to pivot. He also discusses Fed independence, transitory inflation, and rate cut pacing. After that: fiscal calendars vary by sector, synthetic dye removal will ripple through the food chain, and ADP reports more sour employment data.
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https://www.marketplace.org/newsletters)_ _to our daily or weekly newsletter._
+
+_Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/10/01/pm_20251001_Marketplace_-_PM_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K6GPW3GXA29EK08R6EQE4M62" length="12353358" type="audio/mpeg" />
+      <guid>cid://01K6GPW3GXA29EK08R6EQE4M62</guid>
+    </item>    <item>
       <title>Trump&#39;s controversial nominee drops bid to head vital data-gathering agency</title>
       <link>https://www.npr.org/2025/10/01/nx-s1-5559284/trumps-controversial-nominee-drops-bid-to-head-vital-data-gathering-agency</link>
       <description>
@@ -495,6 +526,14 @@ Here’s everything we talked about today:
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/23/mmr_20250923_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5VK8R0DHFZFAN4Z01XD0N54" length="3363368" type="audio/mpeg" />
       <guid>cid://01K5VK8R0DHFZFAN4Z01XD0N54</guid>
     </item>    <item>
+      <title>Americans are crazy for shrimp. Much of it came from India — until now</title>
+      <link>https://www.npr.org/2025/09/23/nx-s1-5542367/india-us-trump-tariffs-shrimp-exports</link>
+      <description>
+        <![CDATA[India's shrimp exports to the U.S. were once a success story. Now the industry faces ruin amid President Trump's 50% tariff on imports from the country.]]>
+      </description>
+      <source:markdown>India&#39;s shrimp exports to the U.S. were once a success story. Now the industry faces ruin amid President Trump&#39;s 50% tariff on imports from the country.</source:markdown>
+      <guid>cid://https://www.npr.org/2025/09/23/nx-s1-5542367/india-us-trump-tariffs-shrimp-exports</guid>
+    </item>    <item>
       <title>The new Fed governor wants bigger rate cuts</title>
       <link>https://www.marketplace.org/episode/2025/09/23/the-new-fed-governor-wants-bigger-rate-cuts</link>
       <description>
@@ -523,6 +562,14 @@ Here’s everything we talked about today:
 The technology and scale needed to make this all happen is, so far, largely unproven. And a whole host of tech firms are trying to show that they can help with the very complex undertaking. Marketplace’s Nova Safo spoke with Sheera Frenkel, reporter at the New York Times, about some of the tech that would make this whole system work.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/23/tech_20250923_0923_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K5F9F4VSN0G0NBGFC0XZV0YJ" length="8877474" type="audio/mpeg" />
       <guid>cid://01K5F9F4VSN0G0NBGFC0XZV0YJ</guid>
+    </item>    <item>
+      <title>Some mobile home owners say they&#39;re being priced out by rising lot rent</title>
+      <link>https://www.npr.org/2025/09/23/nx-s1-5519427/some-mobile-home-owners-say-theyre-being-priced-out-by-rising-lot-rent</link>
+      <description>
+        <![CDATA[Rent prices for lots in manufactured or mobile home parks are on the rise, according to census data. Some home owners say the increases are pricing them out of the homes they own.]]>
+      </description>
+      <source:markdown>Rent prices for lots in manufactured or mobile home parks are on the rise, according to census data. Some home owners say the increases are pricing them out of the homes they own.</source:markdown>
+      <guid>cid://https://www.npr.org/2025/09/23/nx-s1-5519427/some-mobile-home-owners-say-theyre-being-priced-out-by-rising-lot-rent</guid>
     </item>    <item>
       <title>Who&#39;s got the pricing power?</title>
       <link>https://www.marketplace.org/episode/2025/09/22/whos-got-the-pricing-power</link>
@@ -572,6 +619,28 @@ _Marketplace is more than a radio show. Check out our original reporting and fin
       <source:markdown>Here’s cautionary tale for you, out of China, about a young woman who says she fell in love with an artificial intelligence chatbot. There have been well-publicized instances of people seeking companionship from chatbots and it leading to tragedy. In this instance, it caused heartbreak. The story involves the Chinese AI firm Deepseek which, earlier this year, launched a chatbot that&#39;s almost as good as its American rivals. Soon after the launch, a young woman began a conversation with that chatbot. Marketplace’s China correspondent Jennifer Pak takes the story from there.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/22/tech_20250922_0922_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K5ENRDDJ56QN3RRDB8RHDZJ3" length="3915880" type="audio/mpeg" />
       <guid>cid://01K5ENRDDJ56QN3RRDB8RHDZJ3</guid>
+    </item>    <item>
+      <title>Inside the largest gathering of unionized tradeswomen in the world, talk of tariffs</title>
+      <link>https://www.npr.org/2025/09/21/nx-s1-5545716/inside-the-largest-gathering-of-unionized-tradeswomen-in-the-world-talk-of-tariffs</link>
+      <description>
+        <![CDATA[Women make up only 4 percent of construction workers on job sites working with tools. Some are worried that tariffs on building supplies will slow down commercial building construction.]]>
+      </description>
+      <source:markdown>Women make up only 4 percent of construction workers on job sites working with tools. Some are worried that tariffs on building supplies will slow down commercial building construction.</source:markdown>
+      <guid>cid://https://www.npr.org/2025/09/21/nx-s1-5545716/inside-the-largest-gathering-of-unionized-tradeswomen-in-the-world-talk-of-tariffs</guid>
+    </item>    <item>
+      <title>How Publishers Clearing House&#39;s bankruptcy is affecting winners</title>
+      <link>https://www.npr.org/2025/09/20/nx-s1-5544498/how-publishers-clearing-houses-bankruptcy-is-affecting-winners</link>
+      <description>
+        <![CDATA[NPR's Scott Simon speaks with Publishers Clearing House winner Tamar Veatch, who stopped getting annual payments earlier this year as the company behind the sweepstakes fell into bankruptcy.]]>
+      </description>
+      <guid>cid://https://www.npr.org/2025/09/20/nx-s1-5544498/how-publishers-clearing-houses-bankruptcy-is-affecting-winners</guid>
+    </item>    <item>
+      <title>Lawyers vs. engineers: Dan Wang sees U.S.-China dynamics in a new paradigm</title>
+      <link>https://www.npr.org/2025/09/20/g-s1-89568/china-us-lawyers-vs-engineers-dan-wang-book</link>
+      <description>
+        <![CDATA[In a new book, analyst Dan Wang uses "engineering state" vs. "lawyerly society" to explain how China got ahead and America stagnated.]]>
+      </description>
+      <guid>cid://https://www.npr.org/2025/09/20/g-s1-89568/china-us-lawyers-vs-engineers-dan-wang-book</guid>
     </item>    <item>
       <title>The aftermath of the Hyundai plant raid</title>
       <link>https://www.marketplace.org/episode/2025/09/19/the-aftermath-of-the-hyundai-plant-raid</link>
@@ -645,6 +714,20 @@ _Marketplace is more than a radio show. Check out our original reporting and fin
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/19/tech_20250919_0919_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K5F0EQ9MHK9PGTZNP7WRVEKB" length="12171828" type="audio/mpeg" />
       <guid>cid://01K5F0EQ9MHK9PGTZNP7WRVEKB</guid>
     </item>    <item>
+      <title>Grocery prices have jumped up, and there&#39;s no relief in sight</title>
+      <link>https://www.npr.org/2025/09/19/nx-s1-5539547/grocery-prices-tariffs-food-inflation</link>
+      <description>
+        <![CDATA[Groceries saw their biggest jump in nearly three years last month, a worrisome sign for inflation-weary shoppers. Tariffs are contributing to higher prices for imported staples like bananas and coffee.]]>
+      </description>
+      <guid>cid://https://www.npr.org/2025/09/19/nx-s1-5539547/grocery-prices-tariffs-food-inflation</guid>
+    </item>    <item>
+      <title>AI is causing anxiety about the future of the workforce. But are there AI-proof jobs?</title>
+      <link>https://www.npr.org/2025/09/19/nx-s1-5544378/ai-is-causing-anxiety-about-the-future-of-the-workforce-but-are-there-ai-proof-jobs</link>
+      <description>
+        <![CDATA[Can we know which jobs are more or less likely to be "taken" by artificial intelligence? Planet Money looks into what jobs might be immune from a robot takeover.]]>
+      </description>
+      <guid>cid://https://www.npr.org/2025/09/19/nx-s1-5544378/ai-is-causing-anxiety-about-the-future-of-the-workforce-but-are-there-ai-proof-jobs</guid>
+    </item>    <item>
       <title>The job market&#39;s bizarre balancing act</title>
       <link>https://www.marketplace.org/episode/2025/09/18/the-job-markets-bizarre-balancing-act</link>
       <description>
@@ -657,6 +740,13 @@ _Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https
 _Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/18/pm_20250918_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K5F6NC7XNFEFVGR5WCHFA83B" length="12387632" type="audio/mpeg" />
       <guid>cid://01K5F6NC7XNFEFVGR5WCHFA83B</guid>
+    </item>    <item>
+      <title>Expect beef prices to keep rising for a while</title>
+      <link>https://www.npr.org/2025/09/18/nx-s1-5543251/expect-beef-prices-to-keep-rising-for-a-while</link>
+      <description>
+        <![CDATA[Rising feed prices, drought and parasites have squeezed cattle farmers, driving up beef prices. But there's also the underlying cycle of prices because of the time it takes to raise a cow.]]>
+      </description>
+      <guid>cid://https://www.npr.org/2025/09/18/nx-s1-5543251/expect-beef-prices-to-keep-rising-for-a-while</guid>
     </item>    <item>
       <title>Rep. Ayanna Pressley on the troubling rise in Black women&#39;s unemployment</title>
       <link>https://www.marketplace.org/episode/2025/09/18/rep-ayanna-pressley-on-the-troubling-rise-in-black-womens-unemployment</link>
@@ -716,6 +806,27 @@ Now, in the run-up to the midterms, the AI industry wants to replicate the crypt
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/18/tech_20250918_0918_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K5C1CMMEPWXPXNKC0D8S6WSV" length="7284213" type="audio/mpeg" />
       <guid>cid://01K5C1CMMEPWXPXNKC0D8S6WSV</guid>
     </item>    <item>
+      <title>Facing Trump&#39;s pressure, the Federal Reserve cuts rates for the first time this year</title>
+      <link>https://www.npr.org/2025/09/18/nx-s1-5544488/facing-trumps-pressure-the-federal-reserve-cuts-rates-for-the-first-time-this-year</link>
+      <description>
+        <![CDATA[The Federal Reserve lowered its benchmark interest rate for the first time this year, but President Trump is demanding bigger rate cuts.]]>
+      </description>
+      <guid>cid://https://www.npr.org/2025/09/18/nx-s1-5544488/facing-trumps-pressure-the-federal-reserve-cuts-rates-for-the-first-time-this-year</guid>
+    </item>    <item>
+      <title>What effect will the Fed&#39;s interest rates cut have and what could happen next</title>
+      <link>https://www.npr.org/2025/09/18/nx-s1-5544325/what-effect-will-the-feds-interest-rates-cut-have-and-what-could-happen-next</link>
+      <description>
+        <![CDATA[NPR talks with Stacey Vanek Smith, a reporter at Bloomberg, about the effect the Federal Reserve's decision to cut interest rates could have.]]>
+      </description>
+      <guid>cid://https://www.npr.org/2025/09/18/nx-s1-5544325/what-effect-will-the-feds-interest-rates-cut-have-and-what-could-happen-next</guid>
+    </item>    <item>
+      <title>Why beef prices are higher than ever (and shoppers are finally resisting)</title>
+      <link>https://www.npr.org/2025/09/18/nx-s1-5534424/beef-prices-record-high-cost</link>
+      <description>
+        <![CDATA[American ranchers are raising the fewest cows in decades. Through the price increases, American shoppers have stayed loyal to their love of burgers and steaks — until now.]]>
+      </description>
+      <guid>cid://https://www.npr.org/2025/09/18/nx-s1-5534424/beef-prices-record-high-cost</guid>
+    </item>    <item>
       <title>Hey, big spender!</title>
       <link>https://www.marketplace.org/episode/2025/09/17/hey-big-spender</link>
       <description>
@@ -766,6 +877,13 @@ _Marketplace is more than a radio show. Check out our original reporting and fin
 Marketplace’s Nova Safo spoke with Aaron Perzanowski, a law professor at the University of Michigan and author of the book “The End of Ownership: Personal Property in the Digital Economy,” to learn about the current state of digital ownership.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/17/tech_20250917_0917_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K57MRAXRQQMG6V1TQXZ5934C" length="10089973" type="audio/mpeg" />
       <guid>cid://01K57MRAXRQQMG6V1TQXZ5934C</guid>
+    </item>    <item>
+      <title>Facing Trump&#39;s pressure, the Fed cuts rates for the first time this year</title>
+      <link>https://www.npr.org/2025/09/17/nx-s1-5539555/federal-reserve-interest-rates-inflation-jobs</link>
+      <description>
+        <![CDATA[The Fed lowered interest rates by a quarter percentage point Wednesday in an effort to cushion the sagging job market. The move comes as policymakers face growing pressure from President Trump.]]>
+      </description>
+      <guid>cid://https://www.npr.org/2025/09/17/nx-s1-5539555/federal-reserve-interest-rates-inflation-jobs</guid>
     </item>    <item>
       <title>The cost of GOP cuts to coal royalties</title>
       <link>https://www.marketplace.org/episode/2025/09/16/the-cost-of-gop-cuts-to-coal-royalties</link>
@@ -839,6 +957,20 @@ Plus, the Federal Reserve kicks off a two-day meeting on interest rates, and we 
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/16/tech_20250916_0916_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K4ZH15HQ641VQ31WHTRZRSKH" length="7186411" type="audio/mpeg" />
       <guid>cid://01K4ZH15HQ641VQ31WHTRZRSKH</guid>
     </item>    <item>
+      <title>Trump attempts to reshape Federal Reserve leadership ahead of vote on interest rates</title>
+      <link>https://www.npr.org/2025/09/16/nx-s1-5542134/trump-attempts-to-reshape-federal-reserve-leadership-ahead-of-vote-on-interest-rates</link>
+      <description>
+        <![CDATA[President Trump is trying to re-shape the leadership of the Federal Reserve, ahead of a key vote this week on interest rates.]]>
+      </description>
+      <guid>cid://https://www.npr.org/2025/09/16/nx-s1-5542134/trump-attempts-to-reshape-federal-reserve-leadership-ahead-of-vote-on-interest-rates</guid>
+    </item>    <item>
+      <title>Appeals court says Lisa Cook can stay on the Federal Reserve board -- for now</title>
+      <link>https://www.npr.org/2025/09/15/nx-s1-5539252/lisa-cook-fed-trump-firing-court</link>
+      <description>
+        <![CDATA[A federal appeals court blocked President Trump from firing Federal Reserve governor Lisa Cook, just ahead of a key vote on interest rates.]]>
+      </description>
+      <guid>cid://https://www.npr.org/2025/09/15/nx-s1-5539252/lisa-cook-fed-trump-firing-court</guid>
+    </item>    <item>
       <title>The slow death of remote-only jobs</title>
       <link>https://www.marketplace.org/episode/2025/09/15/the-slow-death-of-remote-only-jobs</link>
       <description>
@@ -851,6 +983,13 @@ _Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https
 _Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/15/pm_20250915_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K57BKTT2RBJTBDYBHWHJF5TV" length="12379900" type="audio/mpeg" />
       <guid>cid://01K57BKTT2RBJTBDYBHWHJF5TV</guid>
+    </item>    <item>
+      <title>Senate confirms Stephen Miran to Fed Board. Who is he and why&#39;s he so controversial?</title>
+      <link>https://www.npr.org/2025/09/15/nx-s1-5542126/stephen-miran-fed-reserve-board</link>
+      <description>
+        <![CDATA[The Senate voted Monday to confirm Stephen Miran to the Federal Reserve Board.<strong> </strong>Miran, who has served in both Trump administrations, has said he will not resign from the White House but take a leave of absence, further stoking concerns about its independence.]]>
+      </description>
+      <guid>cid://https://www.npr.org/2025/09/15/nx-s1-5542126/stephen-miran-fed-reserve-board</guid>
     </item>    <item>
       <title>The Fed&#39;s next move</title>
       <link>https://www.marketplace.org/episode/2025/09/15/the-feds-next-move</link>
@@ -888,6 +1027,13 @@ _Marketplace is more than a radio show. Check out our original reporting and fin
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/15/tech_20250915_0915_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K4DGMB092S6AWSDG65H8T6SG" length="5041026" type="audio/mpeg" />
       <guid>cid://01K4DGMB092S6AWSDG65H8T6SG</guid>
     </item>    <item>
+      <title>The Federal Reserve is expected to cut interest rates. What would this mean for you?</title>
+      <link>https://www.npr.org/2025/09/14/nx-s1-5537000/the-federal-reserve-is-expected-to-cut-interest-rates-what-would-this-mean-for-you</link>
+      <description>
+        <![CDATA[NPR's Ayesha Rascoe talks to University of Michigan economist Justin Wolfers about the Federal Reserve meeting this week and what the expected interest rate cut could mean for the economy.]]>
+      </description>
+      <guid>cid://https://www.npr.org/2025/09/14/nx-s1-5537000/the-federal-reserve-is-expected-to-cut-interest-rates-what-would-this-mean-for-you</guid>
+    </item>    <item>
       <title>Small firms cross their fingers for a rate cut</title>
       <link>https://www.marketplace.org/episode/2025/09/12/small-firms-cross-their-fingers-for-a-rate-cut</link>
       <description>
@@ -922,6 +1068,13 @@ Here’s everything we talked about today:
   We love hearing from you. Leave us a voicemail at 508-U-B-SMART or email makemesmart@marketplace.org.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/make_me_smart/2025/09/12/mms_20250912_MMS_128.mp3?awCollectionId=mkp-MMsmrt&awEpisodeId=01K4ZZXCYY8JPN8W7ZJ53V8BTA" length="21867271" type="audio/mpeg" />
       <guid>cid://01K4ZZXCYY8JPN8W7ZJ53V8BTA</guid>
+    </item>    <item>
+      <title>Why mothers in the U.S. are scaling back on their work lives</title>
+      <link>https://www.npr.org/2025/09/12/nx-s1-5537129-e1/why-mothers-in-the-u-s-are-scaling-back-on-their-work-lives</link>
+      <description>
+        <![CDATA[Workforce participation for moms in the U.S. has been dropping for most of this year, and the reasons are more complicated than return-to-office mandates. The team from "The Indicator" explains why.]]>
+      </description>
+      <guid>cid://https://www.npr.org/2025/09/12/nx-s1-5537129-e1/why-mothers-in-the-u-s-are-scaling-back-on-their-work-lives</guid>
     </item>    <item>
       <title>A view of the economy from the upper Midwest</title>
       <link>https://www.marketplace.org/episode/2025/09/12/a-view-of-the-economy-from-the-upper-midwest</link>
@@ -959,6 +1112,20 @@ Here’s everything we talked about today:
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/12/tech_20250912_0912_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K4X54STCXKXXTE6FRTTT1H1Y" length="12115822" type="audio/mpeg" />
       <guid>cid://01K4X54STCXKXXTE6FRTTT1H1Y</guid>
     </item>    <item>
+      <title>Why mothers in the U.S. are scaling back on their work lives</title>
+      <link>https://www.npr.org/2025/09/12/nx-s1-5537129/why-mothers-in-the-u-s-are-scaling-back-on-their-work-lives</link>
+      <description>
+        <![CDATA[Workforce participation for moms in the U.S. has been dropping for most of this year, and the reasons are more complicated than return-to-office mandates. The team from "The Indicator" explains why.]]>
+      </description>
+      <guid>cid://https://www.npr.org/2025/09/12/nx-s1-5537129/why-mothers-in-the-u-s-are-scaling-back-on-their-work-lives</guid>
+    </item>    <item>
+      <title>Stock market booms despite worrying signals on jobs and consumer prices</title>
+      <link>https://www.npr.org/2025/09/12/nx-s1-5538141/stock-market-booms-despite-worrying-signals-on-jobs-and-consumer-prices</link>
+      <description>
+        <![CDATA[The stock market is booming despite some worrying signals on jobs and new reports showing consumer prices rising. But investors are betting the Federal Reserve will cut interest rates next week.]]>
+      </description>
+      <guid>cid://https://www.npr.org/2025/09/12/nx-s1-5538141/stock-market-booms-despite-worrying-signals-on-jobs-and-consumer-prices</guid>
+    </item>    <item>
       <title>As the job market slows, inflation speeds up</title>
       <link>https://www.marketplace.org/episode/2025/09/11/as-the-job-market-slows-inflation-speeds-up</link>
       <description>
@@ -971,6 +1138,13 @@ _Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https
 _Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/11/pm_20250911_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K4XAN7AFZJJPHA2D4VHDJ5NG" length="12342494" type="audio/mpeg" />
       <guid>cid://01K4XAN7AFZJJPHA2D4VHDJ5NG</guid>
+    </item>    <item>
+      <title>The mystery of Milk.com — and what it might be worth</title>
+      <link>https://www.npr.org/2025/09/11/nx-s1-5471542/the-mystery-of-milk-com-and-what-it-might-be-worth</link>
+      <description>
+        <![CDATA[People buy and sell memorable domain names, like tv.com or cool.com, sometimes for millions of dollars. Planet Money explores why one premium domain — milk.com — is curiously undeveloped.]]>
+      </description>
+      <guid>cid://https://www.npr.org/2025/09/11/nx-s1-5471542/the-mystery-of-milk-com-and-what-it-might-be-worth</guid>
     </item>    <item>
       <title>The rise of political violence in America</title>
       <link>https://www.marketplace.org/episode/2025/09/11/the-rise-of-political-violence-in-america</link>
@@ -999,6 +1173,13 @@ Join us tomorrow for “Economics on Tap.” The **[YouTube livestream](https:/
       <source:markdown>Unionized Starbucks workers are still without a contract after more than a year of bargaining. Both the company and the union say it’s the other side holding up negotiations at the bargaining table. Today, we&#39;ll hear from a founding member of the union representing workers there. Plus, consumer inflation is moving the wrong way. The consumer price index released this morning showed prices up 2.9% annually in August. We&#39;ll discuss.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/11/mmr_20250911_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4WJ6BQZKPBJY8P5CP99PK0J" length="3348321" type="audio/mpeg" />
       <guid>cid://01K4WJ6BQZKPBJY8P5CP99PK0J</guid>
+    </item>    <item>
+      <title>Inflation climbs in August as grocery and gas prices jump</title>
+      <link>https://www.npr.org/2025/09/11/nx-s1-5537074/inflation-economy-grocery-gas-federal-reserve</link>
+      <description>
+        <![CDATA[Inflation accelerated in August as Americans paid more for gasoline and groceries. Over the last 12 months, consumer prices have risen 2.9%.]]>
+      </description>
+      <guid>cid://https://www.npr.org/2025/09/11/nx-s1-5537074/inflation-economy-grocery-gas-federal-reserve</guid>
     </item>    <item>
       <title>Gender pay gap widens for second year in a row</title>
       <link>https://www.marketplace.org/episode/2025/09/11/gender-pay-gap-widens-for-second-year-in-a-row</link>
