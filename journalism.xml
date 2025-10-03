@@ -4,10 +4,21 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>http://localhost:8000/journalismxml</link>
-    <lastBuildDate>03 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>03 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Former Santa Clarita Mayor visits College of the Canyons Poli-Sci Club</title>
+      <link>https://canyonsnews.com/poli-sci-club/</link>
+      <description>
+        <![CDATA[<p>Former Santa Clarita Mayor Cameron Smyth visited College of the Canyons to&#8230;</p>
+        <p>The post <a href="https://canyonsnews.com/poli-sci-club/">Former Santa Clarita Mayor visits College of the Canyons Poli-Sci Club</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>]]>
+      </description>
+      <source:markdown>Former Santa Clarita Mayor Cameron Smyth visited College of the Canyons to…
+
+The post [Former Santa Clarita Mayor visits College of the Canyons Poli-Sci Club](https://canyonsnews.com/poli-sci-club/) appeared first on [Canyons News](https://canyonsnews.com).</source:markdown>
+      <guid>cid://https://canyonsnews.com/?p=55483</guid>
+    </item>    <item>
       <title>Daily Bruin Print Issue – Oct. 3</title>
       <link>https://dailybruin.com/2025/10/03/daily-bruin-print-issue-oct-3/</link>
       <description>
@@ -280,7 +291,7 @@ An LAPD officer told the Daily Bruin at 8:15 p.m.</source:markdown>
       <title>Opinion: UCLA museums must remember the big picture and continue to host diverse exhibits</title>
       <link>https://dailybruin.com/2025/10/02/opinion-ucla-museums-must-remember-the-big-picture-and-continue-to-host-diverse-exhibits/</link>
       <description>
-        <![CDATA[Censorship has been central to the Trump administration &#8211; and art seems to be its next target.
+        <![CDATA[Censorship has been central to the Trump administration – and art seems to be its next target.
         UCLA museums, such as the Hammer and Fowler, must continue to showcase diverse exhibitions.]]>
       </description>
       <source:markdown>Censorship has been central to the Trump administration – and art seems to be its next target.

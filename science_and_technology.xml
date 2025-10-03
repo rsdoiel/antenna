@@ -4,10 +4,60 @@
   <channel>
     <title>Science and Technology</title>
     <link>http://localhost:8000/science_and_technologyxml</link>
-    <lastBuildDate>03 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>03 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Startups binge on AI while big firms sip cautiously, study shows</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/03/startups_binge_on_ai/</link>
+      <description>
+        <![CDATA[<h4>Better hope that bubble doesn&#39;t pop</h4> <p>The Andreessen Horowitz venture capital firm (aka A16z) crunched startup spending data and found young firms stuffing AI into everything, while bigger businesses remain far more restrained.…</p>]]>
+      </description>
+      <source:markdown>#### Better hope that bubble doesn&#39;t pop
+
+The Andreessen Horowitz venture capital firm (aka A16z) crunched startup spending data and found young firms stuffing AI into everything, while bigger businesses remain far more restrained.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242303</guid>
+    </item>    <item>
+      <title>Red Hat fesses up to GitLab breach after attackers brag of data theft</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/03/red_hat_gitlab_breach/</link>
+      <description>
+        <![CDATA[<h4>Open source giant admits intruders broke into dedicated consulting instance, but insists core products untouched</h4> <p>What started as cyber crew bragging has now been confirmed by Red Hat: someone gained access to its consulting GitLab system and walked away with data.…</p>]]>
+      </description>
+      <source:markdown>#### Open source giant admits intruders broke into dedicated consulting instance, but insists core products untouched
+
+What started as cyber crew bragging has now been confirmed by Red Hat: someone gained access to its consulting GitLab system and walked away with data.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242300</guid>
+    </item>    <item>
+      <title>AI devs close to scraping bottom of data barrel</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/03/ai_training_requires_more_data/</link>
+      <description>
+        <![CDATA[<h4>Analysts at Goldman Sachs Global Institute say training is starting to hit its limits, enterprise info troves may be last hope</h4> <p>Those spiffy AI systems that tech companies keep promising require mountains of training data, but high-quality sources may have already run out—unless enterprises can unlock the information trapped behind their firewalls, according to Goldman Sachs…</p>]]>
+      </description>
+      <source:markdown>#### Analysts at Goldman Sachs Global Institute say training is starting to hit its limits, enterprise info troves may be last hope
+
+Those spiffy AI systems that tech companies keep promising require mountains of training data, but high-quality sources may have already run out—unless enterprises can unlock the information trapped behind their firewalls, according to Goldman Sachs…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242295</guid>
+    </item>    <item>
+      <title>Apple ices ICE agent tracker app under government heat</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/03/apple_iceblock/</link>
+      <description>
+        <![CDATA[<h4>Cupertino yanks ICEBlock citing safety risks for law enforcement</h4> <p>Apple has deep-sixed an app that tracks the movements of US Immigration and Customs Enforcement (ICE) agents – apparently bowing to government pressure.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Cupertino yanks ICEBlock citing safety risks for law enforcement
+
+Apple has deep-sixed an app that tracks the movements of US Immigration and Customs Enforcement (ICE) agents – apparently bowing to government pressure.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242299</guid>
+    </item>    <item>
+      <title>How One AI Model Creates a Physical Intuition of Its Environment</title>
+      <link>https://www.quantamagazine.org/how-one-ai-model-creates-a-physical-intuition-of-its-environment-20251003/</link>
+      <description>
+        <![CDATA[The V-JEPA system uses ordinary videos to understand the physics of the real world.             <p>The post <a href="https://www.quantamagazine.org/how-one-ai-model-creates-a-physical-intuition-of-its-environment-20251003/" target="_blank">How One AI Model Creates a Physical Intuition of Its Environment</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>The V-JEPA system uses ordinary videos to understand the physics of the real world.
+
+The post [How One AI Model Creates a Physical Intuition of Its Environment](https://www.quantamagazine.org/how-one-ai-model-creates-a-physical-intuition-of-its-environment-20251003/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=155419</guid>
+    </item>    <item>
       <title>Munich Airport chaos after drone sightings spook air traffic control</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/03/munich_airport_drone/</link>
       <description>

@@ -4,10 +4,19 @@
   <channel>
     <title>North America</title>
     <link>http://localhost:8000/north_americaxml</link>
-    <lastBuildDate>03 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>03 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>No jobs report? We&#39;re still on the case</title>
+      <link>https://www.marketplace.org/episode/2025/10/03/no-jobs-report-were-still-on-the-case</link>
+      <description>
+        <![CDATA[<p>The September hiring and unemployment data won't be released today due to the ongoing government shutdown. These reports are typically among the five most closely watched economic indicators each month. Economist Julia Coronado of Macropolicy Perspectives joins us to discuss. Also on the show: the shutdown's impact on health care — from canceled online doctor's appointments to reduced home health services for seniors. And later, Marketplace's David Brancaccio speaks with a former high school guidance counselor in Sheboygan, WI about how students are preparing to enter the labor market.</p>]]>
+      </description>
+      <source:markdown>The September hiring and unemployment data won&#39;t be released today due to the ongoing government shutdown. These reports are typically among the five most closely watched economic indicators each month. Economist Julia Coronado of Macropolicy Perspectives joins us to discuss. Also on the show: the shutdown&#39;s impact on health care — from canceled online doctor&#39;s appointments to reduced home health services for seniors. And later, Marketplace&#39;s David Brancaccio speaks with a former high school guidance counselor in Sheboygan, WI about how students are preparing to enter the labor market.</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/10/03/mmr_20251003_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K6N8VCC6T6TQ03DVS1RA7NW8" length="4242752" type="audio/mpeg" />
+      <guid>cid://01K6N8VCC6T6TQ03DVS1RA7NW8</guid>
+    </item>    <item>
       <title>A closed federal government means no September jobs report</title>
       <link>https://www.marketplace.org/episode/2025/10/03/a-closed-federal-government-means-no-september-jobs-report</link>
       <description>
