@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>http://localhost:8000/columnsxml</link>
-    <lastBuildDate>03 Oct 25 06:08 -0700</lastBuildDate>
+    <lastBuildDate>03 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,241 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://www.koin.com/news/politics/emergency-world-naked-bike-ride-plans-underway-after-troops-deployed-to-portland/amp/#uspol</link>
+      <description>
+        <![CDATA[<p>OR National Guard: 'Emergency' naked bike ride planned for troop deployment. Get your asses out there! :-)</p>]]>
+      </description>
+      <source:markdown>OR National Guard: &#39;Emergency&#39; naked bike ride planned for troop deployment. Get your asses out there! :-)</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/03/1333/</guid>
+    </item>    <item>
+      <title>Swift Justice: A Look Inside a Taliban Courtroom</title>
+      <link>https://kottke.org/25/10/swift-justice-a-look-inside-a-taliban-courtroom</link>
+      <guid>cid://tag:kottke.org,2025://5.47636</guid>
+    </item>    <item>
+      <title>Life Is More Than an Engineering Problem, an interview with Ted Chiang...</title>
+      <link>https://kottke.org/25/10/0047647-life-is-more-than-an</link>
+      <guid>cid://tag:kottke.org,2025://13.47647</guid>
+    </item>    <item>
+      <title>The 25 Most Influential Magazine Covers of All Time, including, of course,...</title>
+      <link>https://kottke.org/25/10/0047642-the-25-most-influential-m</link>
+      <guid>cid://tag:kottke.org,2025://13.47642</guid>
+    </item>    <item>
+      <title>Strike</title>
+      <link>https://www.profgalloway.com/strike/</link>
+      <description>
+        <![CDATA[<p>Government shutdowns have been normalized. Since 1976, we’ve seen 20 funding gaps, resulting in 10 government shutdowns. It’s a form of economic strike — just not an effective one, as shutdowns create blame but seldom achieve political goals. The Democrats have been uncharacteristically strategic in this standoff: Their demand(s), continued subsidies for healthcare coverage, likely [&#8230;]</p>
+        <p>The post <a href="https://www.profgalloway.com/strike/">Strike</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>]]>
+      </description>
+      <source:markdown>Government shutdowns have been normalized. Since 1976, we’ve seen 20 funding gaps, resulting in 10 government shutdowns. It’s a form of economic strike — just not an effective one, as shutdowns create blame but seldom achieve political goals. The Democrats have been uncharacteristically strategic in this standoff: Their demand(s), continued subsidies for healthcare coverage, likely \[…\]
+
+The post [Strike](https://www.profgalloway.com/strike/) appeared first on [No Mercy / No Malice](https://www.profgalloway.com).</source:markdown>
+      <guid>cid://https://www.profgalloway.com/?p=216314</guid>
+    </item>    <item>
+      <title>Google Calls ICE Agents a Vulnerable Group, Removes ICE-Spotting App ‘Red Dot’</title>
+      <link>https://www.404media.co/google-calls-ice-agents-a-vulnerable-group-removes-ice-spotting-app-red-dot/</link>
+      <description>
+        <![CDATA[The move comes as Apple removed ICEBlock after direct pressure from U.S. Department of Justice officials and signals a broader crackdown on ICE-spotting apps.]]>
+      </description>
+      <source:markdown>The move comes as Apple removed ICEBlock after direct pressure from U.S. Department of Justice officials and signals a broader crackdown on ICE-spotting apps.</source:markdown>
+      <guid>cid://68dfdd7ced336000015c14c5</guid>
+    </item>    <item>
+      <title>Here’s what’s making us happy  this  week.</title>
+      <link>https://lithub.com/heres-whats-making-us-happy-this-week-oct3/</link>
+      <description>
+        <![CDATA[The theme this week is running-up-that-hill. Here at Lit Hub, we&#8217;re questing for answers. In the Kingdom of Hollownest, or ancient Egypt. We&#8217;re trying to keep the dream alive while that big wheel keeps on turning. And we&#8217;re accepting invitations to look backwards—if only to prepare for what&#8217;s ahead. After receiving his first &#8220;ever-ever&#8221; gaming [&#8230;]]]>
+      </description>
+      <source:markdown>The theme this week is running-up-that-hill. Here at Lit Hub, we’re questing for answers. In the Kingdom of Hollownest, or ancient Egypt. We’re trying to keep the dream alive while that big wheel keeps on turning. And we’re accepting invitations to look backwards—if only to prepare for what’s ahead. After receiving his first “ever-ever” gaming \[…\]</source:markdown>
+      <guid>cid://https://lithub.com/?p=260629</guid>
+    </item>    <item>
+      <title>Instead of hiding rips and tears, the visible mending movement turns them...</title>
+      <link>https://kottke.org/25/10/0047637-instead-of-hiding-rips-an</link>
+      <guid>cid://tag:kottke.org,2025://13.47637</guid>
+    </item>    <item>
+      <title>October 1, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-1-2025-5ad</link>
+      <enclosure url="https://api.substack.com/feed/podcast/175203771/29c26908f625a3a06ece4efe0bc5b575.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-1-2025-5ad</guid>
+    </item>    <item>
+      <title>Litestream v0.5.0 is Here</title>
+      <link>https://simonwillison.net/2025/Oct/3/litestream/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://fly.io/blog/litestream-v050-is-here/">Litestream v0.5.0 is Here</a></strong></p>
+        I've been running <a href="https://litestream.io">Litestream</a> to backup SQLite databases in production for a couple of years now without incident. The new version has been a long time coming - Ben Johnson took <a href="https://simonwillison.net/2022/Sep/21/introducing-litefs/">a detour</a> into the FUSE-based <a href="https://github.com/superfly/litefs">LiteFS</a> before deciding that the single binary Litestream approach is more popular - and Litestream 0.5 just landed with this very detailed blog posts describing the improved architecture.</p>
+        <p>SQLite stores data in pages - 4096 (by default) byte blocks of data. Litestream replicates modified pages to a backup location - usually object storage like S3.</p>
+        <p>Most SQLite tables have an auto-incrementing primary key, which is used to decide which page the row's data should be stored in. This means sequential inserts to a small table are sent to the same page, which caused previous Litestream to replicate many slightly different copies of that page block in succession.</p>
+        <p>The new LTX format - borrowed from LiteFS - addresses that by adding compaction, which Ben describes as follows:</p>
+        <blockquote>
+        <p>We can use LTX compaction to compress a bunch of LTX files into a single file with no duplicated pages. And Litestream now uses this capability to create a hierarchy of compactions:</p>
+        <ul>
+        <li>at Level 1, we compact all the changes in a 30-second time window</li>
+        <li>at Level 2, all the Level 1 files in a 5-minute window</li>
+        <li>at Level 3, all the Level 2’s over an hour.</li>
+        </ul>
+        <p>Net result: we can restore a SQLite database to any point in time, <em>using only a dozen or so files on average</em>.</p>
+        </blockquote>
+        <p>I'm most looking forward to trying out the feature that isn't quite landed yet: read-replicas, implemented using a SQLite <a href="https://www.sqlite.org/vfs.html">VFS extension</a>:</p>
+        <blockquote>
+        <p>The next major feature we’re building out is a Litestream VFS for read replicas. This will let you instantly spin up a copy of the database and immediately read pages from S3 while the rest of the database is hydrating in the background.</p>
+        </blockquote>
+        
+            <p><small></small>Via <a href="https://news.ycombinator.com/item?id=45453936">Hacker News</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/sqlite">sqlite</a>, <a href="https://simonwillison.net/tags/fly">fly</a>, <a href="https://simonwillison.net/tags/litestream">litestream</a>, <a href="https://simonwillison.net/tags/ben-johnson">ben-johnson</a></p>]]>
+      </description>
+      <source:markdown>**[Litestream v0.5.0 is Here](https://fly.io/blog/litestream-v050-is-here/)**
+
+I&#39;ve been running [Litestream](https://litestream.io) to backup SQLite databases in production for a couple of years now without incident. The new version has been a long time coming - Ben Johnson took [a detour](https://simonwillison.net/2022/Sep/21/introducing-litefs/) into the FUSE-based [LiteFS](https://github.com/superfly/litefs) before deciding that the single binary Litestream approach is more popular - and Litestream 0.5 just landed with this very detailed blog posts describing the improved architecture.
+
+SQLite stores data in pages - 4096 (by default) byte blocks of data. Litestream replicates modified pages to a backup location - usually object storage like S3.
+
+Most SQLite tables have an auto-incrementing primary key, which is used to decide which page the row&#39;s data should be stored in. This means sequential inserts to a small table are sent to the same page, which caused previous Litestream to replicate many slightly different copies of that page block in succession.
+
+The new LTX format - borrowed from LiteFS - addresses that by adding compaction, which Ben describes as follows:
+
+&#62; We can use LTX compaction to compress a bunch of LTX files into a single file with no duplicated pages. And Litestream now uses this capability to create a hierarchy of compactions:
+&#62;
+&#62; - at Level 1, we compact all the changes in a 30-second time window
+&#62; - at Level 2, all the Level 1 files in a 5-minute window
+&#62; - at Level 3, all the Level 2’s over an hour.
+&#62;
+&#62; Net result: we can restore a SQLite database to any point in time, _using only a dozen or so files on average_.
+
+I&#39;m most looking forward to trying out the feature that isn&#39;t quite landed yet: read-replicas, implemented using a SQLite [VFS extension](https://www.sqlite.org/vfs.html):
+
+&#62; The next major feature we’re building out is a Litestream VFS for read replicas. This will let you instantly spin up a copy of the database and immediately read pages from S3 while the rest of the database is hydrating in the background.
+
+Via [Hacker News](https://news.ycombinator.com/item?id=45453936)
+
+Tags: [sqlite](https://simonwillison.net/tags/sqlite), [fly](https://simonwillison.net/tags/fly), [litestream](https://simonwillison.net/tags/litestream), [ben-johnson](https://simonwillison.net/tags/ben-johnson)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/3/litestream/#atom-everything</guid>
+    </item>    <item>
+      <title>Should tech run the world?</title>
+      <link>http://scripting.com/2025/10/03/145920.html?title=shouldTechRunTheWorld</link>
+      <description>
+        <![CDATA[<p>With all respect to the tech industry -- why is the traffic in the Bay Area so awful. Why haven't they done anything about it. </p>
+        <p>Wouldn't that be a good test run before running the whole world? As programmer myself, I wouldn't trust the algorithm without a lot of QA. Seriously. Think about it</p>
+        <p>It's the strangest configuration for a metropolitan area, the center of the city is in the middle of the bay. (Same as Seattle, btw.)</p>
+        <p>The best answer the tech industry came up with was Uber, as far as I know.</p>
+        <p>I lived in Palo Alto, Menlo Park, Berkeley, Los Gatos and Woodside over 31 years and I did nothing to fix the problem either. My answer was to move to NYC where the transit system is pretty great. Then I moved to the mountains and got a Tesla. </p>
+        <p>BTW, the idea that the stars of Silicon Valley should run the world is not a new one. I first heard about it from Apple top level managers in the 1980s. They were not techno-fascists, but they did hugely overestimate what it takes to run the world, or even a small country in Africa. </p>]]>
+      </description>
+      <source:markdown>With all respect to the tech industry -- why is the traffic in the Bay Area so awful. Why haven&#39;t they done anything about it.
+
+Wouldn&#39;t that be a good test run before running the whole world? As programmer myself, I wouldn&#39;t trust the algorithm without a lot of QA. Seriously. Think about it
+
+It&#39;s the strangest configuration for a metropolitan area, the center of the city is in the middle of the bay. (Same as Seattle, btw.)
+
+The best answer the tech industry came up with was Uber, as far as I know.
+
+I lived in Palo Alto, Menlo Park, Berkeley, Los Gatos and Woodside over 31 years and I did nothing to fix the problem either. My answer was to move to NYC where the transit system is pretty great. Then I moved to the mountains and got a Tesla.
+
+BTW, the idea that the stars of Silicon Valley should run the world is not a new one. I first heard about it from Apple top level managers in the 1980s. They were not techno-fascists, but they did hugely overestimate what it takes to run the world, or even a small country in Africa.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/03/145920.html</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/03.html#a144323</link>
+      <description>
+        <![CDATA[With the advent of AI code development tools, maybe we should embark on a project to merge all programming languages into one syntax. To undo all the chaos and make humans more competitive with machines. The fact that there are so many development bubbles is a huge waste of resources. Makes us all net-net more stupid.]]>
+      </description>
+      <source:markdown>With the advent of AI code development tools, maybe we should embark on a project to merge all programming languages into one syntax. To undo all the chaos and make humans more competitive with machines. The fact that there are so many development bubbles is a huge waste of resources. Makes us all net-net more stupid.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/03.html#a144323</guid>
+    </item>    <item>
+      <title>Old Masters, New Media</title>
+      <link>https://kottke.org/25/10/old-masters-new-media-1</link>
+      <guid>cid://tag:kottke.org,2025://5.47641</guid>
+    </item>    <item>
+      <link>https://www.npr.org/sections/shots-health-news/2025/10/02/nx-s1-5559439/cdc-covid-vaccine-guidelines?utm_medium=social&#38;utm_term=nprnews&#38;utm_source=bsky.app&#38;utm_campaign=npr</link>
+      <description>
+        <![CDATA[<p>With no guidelines yet from CDC, getting a COVID shot remains confusing.</p>]]>
+      </description>
+      <source:markdown>With no guidelines yet from CDC, getting a COVID shot remains confusing.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/03/1331/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/03/13/132830.html</link>
+      <description>
+        <![CDATA[<p>March 2025: The writer's web.</p>]]>
+      </description>
+      <source:markdown>March 2025: The writer&#39;s web.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/03/1329/</guid>
+    </item>    <item>
+      <title>Going to Cork. brb</title>
+      <link>https://adactio.com/notes/22171</link>
+      <description>
+        <![CDATA[<p>Going to Cork. brb</p>]]>
+      </description>
+      <source:markdown>Going to Cork. brb</source:markdown>
+      <guid>cid://https://adactio.com/notes/22171</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115310582867098708</link>
+      <description>
+        <![CDATA[<p>Those bugs are not going to inject themselves into the codebase:</p>]]>
+      </description>
+      <source:markdown>Those bugs are not going to inject themselves into the codebase:</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115310582867098708</guid>
+    </item>    <item>
+      <title>Let the web be the web</title>
+      <link>http://scripting.com/2025/10/03/135728.html?title=letTheWebBeTheWeb</link>
+      <description>
+        <![CDATA[<p>Yesterday I wrote about <a href="http://scripting.com/2025/10/02.html#a131238">preserving freedom</a> by using replaceable parts to form a social web out of the web itself. Outside the silos. I'm getting comments on it. Nice to see other people thinking likewise. That's what we need to get a bootstrap going. People. </p>
+        <p>In other words <i>the social web is the web. </i>It's made of people. Somehow we forgot that, and gave up so much.</p>
+        <p>I was thinking I might have coined "let the web be the web" as an obvious ripoff of <a href="https://www.youtube.com/watch?v=EZ9-3NxTzQ8">The West Wing</a> slogan for the new President Bartlet. But a <a href="https://www.google.com/search?q=%22let+the+web+be+the+web%22">search</a> reveals that it <i>was</i> used, but all in very good ways, so that's cool. However a <a href="https://trends.google.com/trends/explore?q=%22let%20the%20web%20be%20the%20web%22&date=now%201-d&geo=US&hl=en">Google Trends search</a> shows up nothing. I'm going to look at this in a year or two and see if that has changed. <span style="font-size: 15px; padding-top: 2px;">😀</span></p>
+        <p>It's such a sexy idea, I had to get ChatGPT to generate it. </p>
+        <p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/10/03/letTheWebBeTheWeb.png"></center>Let the web be the web.</div></p>]]>
+      </description>
+      <source:markdown>Yesterday I wrote about [preserving freedom](http://scripting.com/2025/10/02.html#a131238) by using replaceable parts to form a social web out of the web itself. Outside the silos. I&#39;m getting comments on it. Nice to see other people thinking likewise. That&#39;s what we need to get a bootstrap going. People.
+
+In other words _the social web is the web._ It&#39;s made of people. Somehow we forgot that, and gave up so much.
+
+I was thinking I might have coined &#34;let the web be the web&#34; as an obvious ripoff of [The West Wing](https://www.youtube.com/watch?v=EZ9-3NxTzQ8) slogan for the new President Bartlet. But a [search](https://www.google.com/search?q=%22let+the+web+be+the+web%22) reveals that it _was_ used, but all in very good ways, so that&#39;s cool. However a [Google Trends search](https://trends.google.com/trends/explore?q=%22let%20the%20web%20be%20the%20web%22&#38;date=now%201-d&#38;geo=US&#38;hl=en) shows up nothing. I&#39;m going to look at this in a year or two and see if that has changed. 😀
+
+It&#39;s such a sexy idea, I had to get ChatGPT to generate it.
+
+![](https://imgs.scripting.com/2025/10/03/letTheWebBeTheWeb.png)Let the web be the web.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/03/135728.html</guid>
+    </item>    <item>
+      <title>When Kittens Came to My Prison, I Had Not Petted One in...</title>
+      <link>https://kottke.org/25/10/0047638-when-kittens-came-to-my</link>
+      <guid>cid://tag:kottke.org,2025://13.47638</guid>
+    </item>    <item>
+      <title>ICEBlock Blocked</title>
+      <link>https://onefoottsunami.com/2025/10/03/iceblock-blocked/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29236</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/03.html#a133943</link>
+      <description>
+        <![CDATA[People are surprised that I'm trying to build the for-real social web as opposed to the aspirational social web. It <i>does</i> require a lot of <a href="https://en.wikipedia.org/wiki/Chutzpah">chutzpah</a>. I feel that. Sometimes I put off doing things because while the coding is simple and straightforward, the immensity of it overwhelms me a bit. I don't remember feeling that way the first time around, possibly because we were doing it all step by step over approx ten years. Now it's all compressed into weeks. I know how to do it, and I've got or built the pieces I needed. But it just doesn't somehow feel right that the idea is actually becoming a thing. "This can't be happening." But we live in that kind of time. Who knows what monsters lie within. We may find out. Heh. Maybe that's where the <a href="https://chatgpt.com/share/68dfd79b-ab24-8012-86b6-d7941c09f02a">goosebumps</a> come from.]]>
+      </description>
+      <source:markdown>People are surprised that I&#39;m trying to build the for-real social web as opposed to the aspirational social web. It _does_ require a lot of [chutzpah](https://en.wikipedia.org/wiki/Chutzpah). I feel that. Sometimes I put off doing things because while the coding is simple and straightforward, the immensity of it overwhelms me a bit. I don&#39;t remember feeling that way the first time around, possibly because we were doing it all step by step over approx ten years. Now it&#39;s all compressed into weeks. I know how to do it, and I&#39;ve got or built the pieces I needed. But it just doesn&#39;t somehow feel right that the idea is actually becoming a thing. &#34;This can&#39;t be happening.&#34; But we live in that kind of time. Who knows what monsters lie within. We may find out. Heh. Maybe that&#39;s where the [goosebumps](https://chatgpt.com/share/68dfd79b-ab24-8012-86b6-d7941c09f02a) come from.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/03.html#a133943</guid>
+    </item>    <item>
+      <title>Can You Win a Congressional Seat Without Social Media?</title>
+      <link>https://www.404media.co/can-you-win-a-congressional-seat-without-social-media/</link>
+      <description>
+        <![CDATA[Carleigh Beriont is running for Congress as an “anti-social Democrat” and she thinks the party needs to abandon social media nationally also.]]>
+      </description>
+      <source:markdown>Carleigh Beriont is running for Congress as an “anti-social Democrat” and she thinks the party needs to abandon social media nationally also.</source:markdown>
+      <guid>cid://68dadf83872f490001c30abe</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/03.html#a133251</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2025/10/02/letBartlet.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">In yesterday's <a href="http://scripting.com/2025/10/02.html#a131238">piece</a> I suggested people start by creating a <a href="https://imgs.scripting.com/2025/10/03/howtocreatefreewordpressdotcomsite.png">free site</a> on wordpress.com to be their home on the open social web.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2025/10/02/letBartlet.png)In yesterday&#39;s [piece](http://scripting.com/2025/10/02.html#a131238) I suggested people start by creating a [free site](https://imgs.scripting.com/2025/10/03/howtocreatefreewordpressdotcomsite.png) on wordpress.com to be their home on the open social web.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/03.html#a133251</guid>
+    </item>    <item>
+      <title>‘Fuck You, Make Me’</title>
+      <link>https://www.youtube.com/watch?v=ohPToBog_-g</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42240</guid>
+    </item>    <item>
+      <link>https://tilde.zone/@tomasino/115310418933525326</link>
+      <description>
+        <![CDATA[<p>For all my Swiftie friends, here's where I'm at: </p><p>Fate of Ophelia, Father Figure, CANCELLED, Opalite, Wood, Actually Romantic, The Life of a Showgirl, Wi$h Li$t, Eldest Daughter, Honey, Ruin the Friendship, Elizabeth Taylor.</p>]]>
+      </description>
+      <source:markdown>For all my Swiftie friends, here&#39;s where I&#39;m at:
+
+Fate of Ophelia, Father Figure, CANCELLED, Opalite, Wood, Actually Romantic, The Life of a Showgirl, Wi$h Li$t, Eldest Daughter, Honey, Ruin the Friendship, Elizabeth Taylor.</source:markdown>
+      <guid>cid://https://tilde.zone/@tomasino/115310418933525326</guid>
     </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115310367425369578</link>
       <description>
@@ -110,6 +345,14 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       </description>
       <source:markdown>Ted Ritzer speaks up for WordLand. It’s real software, and the first step in a bootstrap. Much appreciated. 😀</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/03/1327/</guid>
+    </item>    <item>
+      <title>The Art of Board Books and Psychedelic Magazines on The Lit Hub Podcast</title>
+      <link>https://lithub.com/the-art-of-board-books-and-psychedelic-magazines-on-the-lit-hub-podcast/</link>
+      <description>
+        <![CDATA[A weekly behind-the-scenes dive into everything interesting, dynamic, strange, and wonderful happening in literary culture—featuring Lit Hub staff, columnists, and special guests! Hosted by Drew Broussard. Spooky season is upon us! It&#8217;s Drew&#8217;s favorite month and he&#8217;s got a whole stack of Hallow-reads to keep him company — which has him in generally good spirits [&#8230;]]]>
+      </description>
+      <source:markdown>A weekly behind-the-scenes dive into everything interesting, dynamic, strange, and wonderful happening in literary culture—featuring Lit Hub staff, columnists, and special guests! Hosted by Drew Broussard. Spooky season is upon us! It’s Drew’s favorite month and he’s got a whole stack of Hallow-reads to keep him company — which has him in generally good spirits \[…\]</source:markdown>
+      <guid>cid://https://lithub.com/?p=260621</guid>
     </item>    <item>
       <title>Iterating some sample data</title>
       <link>https://kieranhealy.org/blog/archives/2025/10/03/iterating-some-sample-data/</link>
@@ -1097,6 +1340,13 @@ Tags: [video-models](https://simonwillison.net/tags/video-models), [prompt-injec
       </description>
       <source:markdown>Der dänische Vorsitz im EU-Rat will am Dienstag, 14. Oktober, über die Chatkontrolle abstimmen lassen. Der vorgeschlagene Text ist eine unveränderte Katastrophe für jegliche vertrauliche Kommunikation. Doch die Bundesregierung schweigt sich weiter aus, ob sie sich dem gefährlichen Plan entgegenstellen wird.</source:markdown>
       <guid>cid://https://www.ccc.de/de/992</guid>
+    </item>    <item>
+      <title>The ChatGPT for music that launched in 1994</title>
+      <link>https://buttondown.com/blog/ringo-email-as-an-ai-interface</link>
+      <description>
+        <![CDATA[Email was the user interface for the first AI recommendation engines.]]>
+      </description>
+      <source:markdown>Email was the user interface for the first AI recommendation engines.</source:markdown>
     </item>    <item>
       <title>Friday 3 October, 2025</title>
       <link>https://memex.naughtons.org/friday-3-october-2025/41257/</link>

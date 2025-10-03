@@ -4,10 +4,21 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>http://localhost:8000/librariesxml</link>
-    <lastBuildDate>03 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>03 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>ARL Libraries Celebrate Banned Books Week 2025</title>
+      <link>https://www.arl.org/blog/arl-libraries-celebrate-banned-books-week-2025/</link>
+      <description>
+        <![CDATA[<p>Last Updated on October 3, 2025, 12:49 pm ET Banned Books Week celebrates the freedom to read and calls attention to the harms of censorship by spotlighting current and historical...</p>
+        <p>The post <a href="https://www.arl.org/blog/arl-libraries-celebrate-banned-books-week-2025/">ARL Libraries Celebrate Banned Books Week 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+      </description>
+      <source:markdown>Last Updated on October 3, 2025, 12:49 pm ET Banned Books Week celebrates the freedom to read and calls attention to the harms of censorship by spotlighting current and historical...
+
+The post [ARL Libraries Celebrate Banned Books Week 2025](https://www.arl.org/blog/arl-libraries-celebrate-banned-books-week-2025/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
+      <guid>cid://https://www.arl.org/?p=46250</guid>
+    </item>    <item>
       <title>Happy College Radio Day! Explore Student Radio’s Past and Present in the DLARC College Radio Collection</title>
       <link>https://blog.archive.org/2025/10/03/happy-college-radio-day-explore-student-radios-past-and-present-in-the-dlarc-college-radio-collection/</link>
       <description>
@@ -649,7 +660,7 @@ The post [Day in Review (September 22–25)](https://www.arl.org/day-in-review/d
         <![CDATA[After his marriage fails, a Russian nobleman returns to his family estate and falls in love with the devout daughter of his cousin, who encourages him to reconcile with his wife.]]>
       </description>
       <source:markdown>After his marriage fails, a Russian nobleman returns to his family estate and falls in love with the devout daughter of his cousin, who encourages him to reconcile with his wife.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/ivan-turgenev/a-house-of-gentlefolk/constance-garnett/downloads/ivan-turgenev_a-house-of-gentlefolk_constance-garnett.epub?source=feed" length="713823" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/ivan-turgenev/a-house-of-gentlefolk/constance-garnett/downloads/ivan-turgenev_a-house-of-gentlefolk_constance-garnett.epub?source=feed" length="713854" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/ivan-turgenev/a-house-of-gentlefolk/constance-garnett</guid>
     </item>    <item>
       <title>The US Researcher Survey 2025 Is Open</title>
