@@ -4,10 +4,18 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>http://localhost:8000/journalismxml</link>
-    <lastBuildDate>03 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>03 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Scouting report: UCLA men’s soccer vs. Maryland</title>
+      <link>https://dailybruin.com/2025/10/03/scouting-report-ucla-mens-soccer-vs-maryland/</link>
+      <description>
+        <![CDATA[UCLA men&#8217;s soccer (2-5-2, 2-2-0 Big Ten) will host No. 18 Maryland (6-0-2, 2-0-1)  Friday night at Wallis Annenberg Stadium. The Bruins beat a Terrapins team ravaged by food poisoning 6-0 last season in the quarterfinal of the Big Ten Tournament.]]>
+      </description>
+      <source:markdown>UCLA men’s soccer (2-5-2, 2-2-0 Big Ten) will host No. 18 Maryland (6-0-2, 2-0-1) Friday night at Wallis Annenberg Stadium. The Bruins beat a Terrapins team ravaged by food poisoning 6-0 last season in the quarterfinal of the Big Ten Tournament.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=494353</guid>
+    </item>    <item>
       <title>Former Santa Clarita Mayor visits College of the Canyons Poli-Sci Club</title>
       <link>https://canyonsnews.com/poli-sci-club/</link>
       <description>
@@ -22,9 +30,9 @@ The post [Former Santa Clarita Mayor visits College of the Canyons Poli-Sci Club
       <title>Daily Bruin Print Issue – Oct. 3</title>
       <link>https://dailybruin.com/2025/10/03/daily-bruin-print-issue-oct-3/</link>
       <description>
-        <![CDATA[The Daily Bruin publishes print issues every Monday, Wednesday and Friday during the school year. You can view the online version of The Bruin here.]]>
+        <![CDATA[Editor&#8217;s note: This post was updated Oct. 3 at 11:22 a.m. to replace the PDF of an older virtual print edition of The Bruin with the Oct.]]>
       </description>
-      <source:markdown>The Daily Bruin publishes print issues every Monday, Wednesday and Friday during the school year. You can view the online version of The Bruin here.</source:markdown>
+      <source:markdown>Editor’s note: This post was updated Oct. 3 at 11:22 a.m. to replace the PDF of an older virtual print edition of The Bruin with the Oct.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=494344</guid>
     </item>    <item>
       <title>UCLA football seeks season comeback in home game against No. 7 Penn State</title>

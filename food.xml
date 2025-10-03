@@ -4,10 +4,37 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>http://localhost:8000/foodxml</link>
-    <lastBuildDate>03 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>03 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Digital Blend: A Timepiece For Timing Espresso Shots</title>
+      <link>https://sprudge.com/the-digital-blend-a-timepiece-for-timing-espresso-shots-436878.html</link>
+      <description>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A digital watch for the analog world.]]>
+      </description>
+      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A digital watch for the analog world.**</source:markdown>
+      <guid>cid://https://sprudge.com/?p=436878</guid>
+    </item>    <item>
+      <title>Starbucks Launched Protein Cold Foam. We Tried Every Flavor</title>
+      <link>https://www.bonappetit.com/story/starbucks-protein-coffee</link>
+      <description>
+        <![CDATA[Plus, the Choco Taco is back in gourmet fashion, scientists found that tea can grow on the moon, and more.]]>
+      </description>
+      <source:markdown>Plus, the Choco Taco is back in gourmet fashion, scientists found that tea can grow on the moon, and more.</source:markdown>
+      <guid>cid://68dffa7ece6e9f403e55ee59</guid>
+    </item>    <item>
+      <title>We Turned Taylor Swift’s Favorite Cocktail Into a Batch of (French!) Blondies</title>
+      <link>https://www.tasteofhome.com/article/taylor-swift-french-blondies/</link>
+      <description>
+        <![CDATA[<p>Now this is the dessert of a showgirl!</p>
+        <p>The post <a href="https://www.tasteofhome.com/article/taylor-swift-french-blondies/">We Turned Taylor Swift&#8217;s Favorite Cocktail Into a Batch of (French!) Blondies</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
+      </description>
+      <source:markdown>Now this is the dessert of a showgirl!
+
+The post [We Turned Taylor Swift’s Favorite Cocktail Into a Batch of (French!) Blondies](https://www.tasteofhome.com/article/taylor-swift-french-blondies/) appeared first on [Taste of Home](https://www.tasteofhome.com).</source:markdown>
+      <guid>cid://https://www.tasteofhome.com/?p=2188301</guid>
+    </item>    <item>
       <title>Everyone! We Have an Announcement: New Wicked Stanley Cups Are Coming</title>
       <link>https://www.tasteofhome.com/article/wicked-stanley-cup-2025/</link>
       <description>

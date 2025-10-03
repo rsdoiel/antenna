@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>http://localhost:8000/columnsxml</link>
-    <lastBuildDate>03 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>03 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,111 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115312343947324207</link>
+      <description>
+        <![CDATA[<p>In Mexico, people call Oracle the company &quot;Obstacle&quot;.</p><p>And I think this is beautiful.</p>]]>
+      </description>
+      <source:markdown>In Mexico, people call Oracle the company &#34;Obstacle&#34;.
+
+And I think this is beautiful.</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115312343947324207</guid>
+    </item>    <item>
+      <title>Online Identity Verification with the Digital Credentials API</title>
+      <link>https://webkit.org/blog/17431/online-identity-verification-with-the-digital-credentials-api/</link>
+      <description>
+        <![CDATA[The rise of e-commerce in the past decade changed the way customers interact with businesses online, leading to new innovations and improved user experiences.]]>
+      </description>
+      <source:markdown>The rise of e-commerce in the past decade changed the way customers interact with businesses online, leading to new innovations and improved user experiences.</source:markdown>
+      <guid>cid://https://webkit.org/?p=17431</guid>
+    </item>    <item>
+      <title>Friday Squid Blogging: Squid Overfishing in the Southwest Atlantic</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-overfishing-in-the-southwest-atlantic.html</link>
+      <description>
+        <![CDATA[<p><a href="https://oceanographicmagazine.com/news/southwest-atlantic-squid-plundering-puts-fishery-at-risk-of-collapse/">Article</a>. <a href="https://ejfoundation.org/news-media/new-investigation-exposes-human-rights-abuses-and-ecological-crisis-in-the-southwest-atlantic-squid-fishery">Report</a>.</p>]]>
+      </description>
+      <source:markdown>[Article](https://oceanographicmagazine.com/news/southwest-atlantic-squid-plundering-puts-fishery-at-risk-of-collapse/). [Report](https://ejfoundation.org/news-media/new-investigation-exposes-human-rights-abuses-and-ecological-crisis-in-the-southwest-atlantic-squid-fishery).</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=70881</guid>
+    </item>    <item>
+      <title>★ Complying With ‘Demand’ From Trump Administration, Apple Removes ICEBlock From App Store</title>
+      <link>https://daringfireball.net/2025/10/iceblock_removed_from_app_store</link>
+      <description>
+        <![CDATA[It’s rather chilling to consider what Apple would have done if the Trump administration had “demanded” a list of device IDs and user identities for everyone who had installed ICEBlock. Or what Apple *will* do if such a demand pops into one of their dimwitted but cruel minds.]]>
+      </description>
+      <source:markdown>It’s rather chilling to consider what Apple would have done if the Trump administration had “demanded” a list of device IDs and user identities for everyone who had installed ICEBlock. Or what Apple \*will\* do if such a demand pops into one of their dimwitted but cruel minds.</source:markdown>
+      <guid>cid://tag:daringfireball.net,2025://1.42241</guid>
+    </item>    <item>
+      <title>80 of the Most Iconic Guitar Intros</title>
+      <link>https://kottke.org/25/10/80-of-the-most-iconic-guitar-intros</link>
+      <guid>cid://tag:kottke.org,2025://5.47651</guid>
+    </item>    <item>
+      <title>Name A 28-Year-Old. &#38;#8220;The data tells us that 3,880,894 children were born...</title>
+      <link>https://kottke.org/25/10/0047650-name-a-28-year-old-the-da</link>
+      <guid>cid://tag:kottke.org,2025://13.47650</guid>
+    </item>    <item>
+      <title>I think I&#38;#8217;m gonna read Edith Wharton&#38;#8217;s The Age of Innocence next,...</title>
+      <link>https://kottke.org/25/10/0047649-i-think-im-gonna-read</link>
+      <guid>cid://tag:kottke.org,2025://13.47649</guid>
+    </item>    <item>
+      <title>Not going to Cork after all, thanks to Storm Amy. Thanks, Amy. Thamy.</title>
+      <link>https://adactio.com/notes/22172</link>
+      <description>
+        <![CDATA[<p>Not going to Cork after all, thanks to Storm Amy.</p>
+        
+        <p>Thanks, Amy.</p>
+        
+        <p>Thamy.</p>]]>
+      </description>
+      <source:markdown>Not going to Cork after all, thanks to Storm Amy.
+
+Thanks, Amy.
+
+Thamy.</source:markdown>
+      <guid>cid://https://adactio.com/notes/22172</guid>
+    </item>    <item>
+      <title>This week’s news in Venn diagrams.</title>
+      <link>https://lithub.com/this-weeks-news-in-venn-diagrams-oct-3/</link>
+      <description>
+        <![CDATA[Welcome, officially, to the first Friday of spooky season. The stores are full of candy for sale and those giant yard skeletons are starting to unfurl themselves. Hope you&#8217;re starting to feel the vibes and already have some great costume ideas—never too early to starting planning. Have a great weekend to rest your bones, and [&#8230;]]]>
+      </description>
+      <source:markdown>Welcome, officially, to the first Friday of spooky season. The stores are full of candy for sale and those giant yard skeletons are starting to unfurl themselves. Hope you’re starting to feel the vibes and already have some great costume ideas—never too early to starting planning. Have a great weekend to rest your bones, and \[…\]</source:markdown>
+      <guid>cid://https://lithub.com/?p=260644</guid>
+    </item>    <item>
+      <title>Harvard Library&#38;#8217;s collection of Soviet and post-Soviet lapel pins. Sputnik, Aeroflot, the...</title>
+      <link>https://kottke.org/25/10/0047645-harvard-librarys-collecti</link>
+      <guid>cid://tag:kottke.org,2025://13.47645</guid>
+    </item>    <item>
+      <title>SpamSieve 3.2.1</title>
+      <link>https://mjtsai.com/blog/2025/10/03/spamsieve-3-2-1/</link>
+      <description>
+        <![CDATA[SpamSieve 3.2.1 is a maintenance release of my Mac e-mail spam filter. This fixes the previously mentioned problem with AppleScript timeouts and POP accounts on macOS Tahoe 26. I found a workaround, but it&#8217;s still a mystery exactly what was causing the problem. First, why was AppleScript delaying and then timing out rather than just [&#8230;]]]>
+      </description>
+      <source:markdown>SpamSieve 3.2.1 is a maintenance release of my Mac e-mail spam filter. This fixes the previously mentioned problem with AppleScript timeouts and POP accounts on macOS Tahoe 26. I found a workaround, but it’s still a mystery exactly what was causing the problem. First, why was AppleScript delaying and then timing out rather than just \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49478</guid>
+    </item>    <item>
+      <title>EagleFiler 1.9.19</title>
+      <link>https://mjtsai.com/blog/2025/10/03/eaglefiler-1-9-19/</link>
+      <description>
+        <![CDATA[EagleFiler 1.9.19 is a maintenance release of my Mac digital filing cabinet and e-mail archiving app. Importing from DEVONthink works again. They&#8217;ve changed some terminology, but EagleFiler&#8217;s import AppleScript didn&#8217;t have to change. EagleFiler just didn&#8217;t know&#8212;until now&#8212;how to recognize DEVONthink because its bundle identifier changed. I had thought that macOS Sequoia was when opening [&#8230;]]]>
+      </description>
+      <source:markdown>EagleFiler 1.9.19 is a maintenance release of my Mac digital filing cabinet and e-mail archiving app. Importing from DEVONthink works again. They’ve changed some terminology, but EagleFiler’s import AppleScript didn’t have to change. EagleFiler just didn’t know—until now—how to recognize DEVONthink because its bundle identifier changed. I had thought that macOS Sequoia was when opening \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49476</guid>
+    </item>    <item>
+      <title>ICEBlock Removed From the App Store</title>
+      <link>https://mjtsai.com/blog/2025/10/03/iceblock-removed-from-the-app-store/</link>
+      <description>
+        <![CDATA[Ashley Oliver (Hacker News, MSN, The Verge, 9to5Mac): Apple dropped ICEBlock, a widely used tracking tool, from its App Store Thursday after the Department of Justice raised concerns with the big tech giant that the app put law enforcement officers at risk.[&#8230;]Controversy surrounding ICE tracking apps intensified after last month&#8217;s deadly shooting at an ICE [&#8230;]]]>
+      </description>
+      <source:markdown>Ashley Oliver (Hacker News, MSN, The Verge, 9to5Mac): Apple dropped ICEBlock, a widely used tracking tool, from its App Store Thursday after the Department of Justice raised concerns with the big tech giant that the app put law enforcement officers at risk.\[…\]Controversy surrounding ICE tracking apps intensified after last month’s deadly shooting at an ICE \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49474</guid>
+    </item>    <item>
+      <title>Web Apps in iOS 26</title>
+      <link>https://mjtsai.com/blog/2025/10/03/web-apps-in-ios-26/</link>
+      <description>
+        <![CDATA[Jen Simmons et al. (Mastodon): For the last 17 years, if the website had the specific meta tag or Web Application Manifest display value in it&#8217;s code, when a user added it to their Home Screen on iOS or iPadOS, tapping its icon opened it as a web app. If the website was not configured [&#8230;]]]>
+      </description>
+      <source:markdown>Jen Simmons et al. (Mastodon): For the last 17 years, if the website had the specific meta tag or Web Application Manifest display value in it’s code, when a user added it to their Home Screen on iOS or iPadOS, tapping its icon opened it as a web app. If the website was not configured \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49472</guid>
     </item>    <item>
       <link>https://www.koin.com/news/politics/emergency-world-naked-bike-ride-plans-underway-after-troops-deployed-to-portland/amp/#uspol</link>
       <description>
