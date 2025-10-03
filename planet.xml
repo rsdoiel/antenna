@@ -4,17 +4,27 @@
   <channel>
     <title>Planet News</title>
     <link>http://localhost:8000/planetxml</link>
-    <lastBuildDate>03 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>03 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>Winners of the 2025 Irish Food Awards revealed</title>
       <link>https://www.rte.ie/lifestyle/food/2025/1003/1536615-winners-of-the-2025-irish-food-awards-revealed/</link>
       <description>
-        <![CDATA[Blas na hÉireann have crowned their Supreme Champion for 2025.]]>
+        <![CDATA[Blas na hÉireann, the Irish food awards, have announced their 2025 winners following a four-day celebration of the best of Irish food and drink, taking place from 2 - 5 October in Daingean Uí Chúis, Co Kerry.]]>
       </description>
-      <source:markdown>Blas na hÉireann have crowned their Supreme Champion for 2025.</source:markdown>
+      <source:markdown>Blas na hÉireann, the Irish food awards, have announced their 2025 winners following a four-day celebration of the best of Irish food and drink, taking place from 2 - 5 October in Daingean Uí Chúis, Co Kerry.</source:markdown>
       <guid>cid://https://www.rte.ie/lifestyle/food/2025/1003/1536615-winners-of-the-2025-irish-food-awards-revealed/</guid>
+    </item>    <item>
+      <title>Anishinaabe prosecutor sworn in as Manitoba provincial court judge hopes to &#39;pave the way&#39;</title>
+      <link>https://www.cbc.ca/news/canada/manitoba/jerilee-ryle-swearing-in-manitoba-1.7650983?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/1.7650988.1759526909!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/manitoba-provincial-court-judges-jerilee-ryle-and-ryan-rolston.jpg' alt='A woman and man in judge&apos;s attire stand.' width='620' height='349' title='Manitoba provincial court judge Jerilee Ryle, left, is seen taking her oath on Friday, Oct. 3, 2025, alongside provincial court Chief Justice Ryan Rolston.'/><p>Manitoba's newest provincial court judge took a different approach in her swearing-in ceremony, with her Anishinaabe culture and language on full display.</p>]]>
+      </description>
+      <source:markdown>![A woman and man in judge&#39;s attire stand.](https://i.cbc.ca/1.7650988.1759526909!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/manitoba-provincial-court-judges-jerilee-ryle-and-ryan-rolston.jpg)
+
+Manitoba&#39;s newest provincial court judge took a different approach in her swearing-in ceremony, with her Anishinaabe culture and language on full display.</source:markdown>
+      <guid>cid://1.7650983</guid>
     </item>    <item>
       <title>Podcast: Government spending and Taylor Swift thoughts!</title>
       <link>https://www.rte.ie/news/2025/1003/1536748-behind-the-story/</link>
@@ -48,6 +58,16 @@
       <source:markdown>Gardaí have urged the public not to engage in a social media prank involving &#34;AI-generated images of home intruders&#34;.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1003/1536734-garda-ai/</guid>
     </item>    <item>
+      <title>Gen-Z protests are spreading globally. What&#39;s driving this youth-led movement?</title>
+      <link>https://www.cbc.ca/news/world/gen-z-protests-1.7649127?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/1.7642586.1758739454!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2233764037.jpg' alt='A close-up photo of a woman&apos;s face contorted in a yell is followed by demonstrators in the streets.' width='620' height='349' title='A demonstrator shouts slogans during the youth protests outside parliament in Kathmandu on Sept. 8. Nepal police opened fire on the protesters later that day, with 61 demonstrators dead by the end of the protests.'/><p>Over the last month, a wave of youth-led protests has hit the streets in Nepal, Morocco and Madagascar, all of them mobilizing support online and driven by frustration against government corruption or incompetence.</p>]]>
+      </description>
+      <source:markdown>![A close-up photo of a woman&#39;s face contorted in a yell is followed by demonstrators in the streets.](https://i.cbc.ca/1.7642586.1758739454!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2233764037.jpg)
+
+Over the last month, a wave of youth-led protests has hit the streets in Nepal, Morocco and Madagascar, all of them mobilizing support online and driven by frustration against government corruption or incompetence.</source:markdown>
+      <guid>cid://1.7649127</guid>
+    </item>    <item>
       <title>No increase in tax bands in Budget 2026 - Donohoe</title>
       <link>https://www.rte.ie/news/business/2025/1003/1536725-exchequer-returns/</link>
       <description>
@@ -55,6 +75,16 @@
       </description>
       <source:markdown>Minister for Finance Paschal Donohoe has confirmed that tax bands will not be increased in next Tuesday&#39;s Budget.</source:markdown>
       <guid>cid://https://www.rte.ie/news/business/2025/1003/1536725-exchequer-returns/</guid>
+    </item>    <item>
+      <title>For remote Indigenous communities, Canada Post is a &#39;lifeline&#39;</title>
+      <link>https://www.cbc.ca/news/indigenous/canada-post-strike-remote-1.7650675?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/1.6559901.1661282543!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/iqaluit-canada-post-office.jpeg' alt='A person walks up the steps of a blue-and-white building with a big red Canada Post sign over the door.' width='620' height='349' title='The post office in Iqaluit, pictured here in August 2020.'/><p>People in remote Indigenous communities that rely on Canada Post for essential items say they are the hardest hit when labour disputes affect services.</p>]]>
+      </description>
+      <source:markdown>![A person walks up the steps of a blue-and-white building with a big red Canada Post sign over the door.](https://i.cbc.ca/1.6559901.1661282543!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/iqaluit-canada-post-office.jpeg)
+
+People in remote Indigenous communities that rely on Canada Post for essential items say they are the hardest hit when labour disputes affect services.</source:markdown>
+      <guid>cid://1.7650675</guid>
     </item>    <item>
       <title>Man pretended to be dead before Bloody Sunday shooting</title>
       <link>https://www.rte.ie/news/ireland/2025/1003/1536726-soldier-f-trial/</link>
@@ -183,6 +213,15 @@
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/12-05-2025-UNRWA-Gaza-05.jpg/image560x340cropped.jpg" length="23229" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/10/1166024</guid>
     </item>    <item>
+      <title>With Colombia at a turning point, the UN calls for peace gains to be consolidated</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166027</link>
+      <description>
+        <![CDATA[In his first briefing to the UN Security Council on Friday as the newly designated Special Representative for Colombia, Miroslav Jenča reaffirmed the organization’s strong commitment to supporting the country’s nine-year-old peace process.&nbsp;]]>
+      </description>
+      <source:markdown>In his first briefing to the UN Security Council on Friday as the newly designated Special Representative for Colombia, Miroslav Jenča reaffirmed the organization’s strong commitment to supporting the country’s nine-year-old peace process.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/14-02-2025-UNHCR-Cucuta5.png/image560x340cropped.jpg" length="36552" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166027</guid>
+    </item>    <item>
       <title>Taylor Swift&#39;s The Life Of A Showgirl is utterly joyful</title>
       <link>https://www.rte.ie/entertainment/music-reviews/2025/1003/1536680-taylor-swifts-the-life-of-a-showgirl-is-utterly-joyful/</link>
       <description>
@@ -223,14 +262,14 @@
 [Read all](https://www.vaticannews.va/en/church/news/2025-10/sisters-project-147-cps-netherlands-welcome-ukrainian-refugees.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/church/news/2025-10/sisters-project-147-cps-netherlands-welcome-ukrainian-refugees.html</guid>
     </item>    <item>
-      <title>Sean (Diddy) Combs in court for sentencing</title>
+      <title>Sean (Diddy) Combs sentenced to more than 4 years in prison</title>
       <link>https://www.cbc.ca/news/entertainment/diddy-sentencing-1.7650241?cmp=rss</link>
       <description>
-        <![CDATA[<img src='https://i.cbc.ca/1.7532579.1747056616!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sexual-misconduct-sean-combs-timeline.jpg' alt='A man wearing sunglasses looks towards the camera. He is shown from the shoulders up, with his face taking up most of the image. ' width='620' height='349' title='FILE - Sean &quot;Diddy&quot; Combs arrives at the LA Premiere of &quot;The Four: Battle For Stardom&quot; at the CBS Radford Studio Center on May 30, 2018, in Los Angeles. Newly released video Friday, May 17, 2024, appears to show Combs beating his former singing protege and girlfriend Cassie in a Los Angeles hotel in 2016. '/><p>Hip-hop mogul Sean (Diddy) Combs was convicted in July of flying people around the country for sexual encounters, including his girlfriends and male sex workers. A jury acquitted Combs, 55, of more serious racketeering conspiracy and sex trafficking charges that could have put him away for life.</p>]]>
+        <![CDATA[<img src='https://i.cbc.ca/1.7532579.1747056616!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sexual-misconduct-sean-combs-timeline.jpg' alt='A man wearing sunglasses looks towards the camera. He is shown from the shoulders up, with his face taking up most of the image. ' width='620' height='349' title='FILE - Sean &quot;Diddy&quot; Combs arrives at the LA Premiere of &quot;The Four: Battle For Stardom&quot; at the CBS Radford Studio Center on May 30, 2018, in Los Angeles. Newly released video Friday, May 17, 2024, appears to show Combs beating his former singing protege and girlfriend Cassie in a Los Angeles hotel in 2016. '/><p>Hip-hop mogul Sean (Diddy) Combs was sentenced Friday to four years and two months in prison over a July conviction on prostitution-related charges.</p>]]>
       </description>
       <source:markdown>![A man wearing sunglasses looks towards the camera. He is shown from the shoulders up, with his face taking up most of the image. ](https://i.cbc.ca/1.7532579.1747056616!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sexual-misconduct-sean-combs-timeline.jpg)
 
-Hip-hop mogul Sean (Diddy) Combs was convicted in July of flying people around the country for sexual encounters, including his girlfriends and male sex workers. A jury acquitted Combs, 55, of more serious racketeering conspiracy and sex trafficking charges that could have put him away for life.</source:markdown>
+Hip-hop mogul Sean (Diddy) Combs was sentenced Friday to four years and two months in prison over a July conviction on prostitution-related charges.</source:markdown>
       <guid>cid://1.7650241</guid>
     </item>    <item>
       <title>Actress Patricia Routledge has died aged 96</title>
@@ -241,7 +280,7 @@ Hip-hop mogul Sean (Diddy) Combs was convicted in July of flying people around t
       <source:markdown>The actress Patricia Routledge, best known for her starring role in the TV comedy series Keeping Up Appearances, has died aged 96, her agent has said.</source:markdown>
       <guid>cid://https://www.rte.ie/entertainment/2025/1003/1536655-actress-patricia-routledge-has-died-aged-96/</guid>
     </item>    <item>
-      <title>Humphreys &#39;absolutely supported&#39; Road Traffic Bill</title>
+      <title>As it happened: Humphreys &#39;supported&#39; Road Bill</title>
       <link>https://www.rte.ie/news/presidential-election/2025/1003/1536596-presidential-election-campaign/</link>
       <description>
         <![CDATA[Keep up to date with all the latest updates as the three presidential candidates continue their canvassing in the presidential election.]]>
@@ -309,7 +348,7 @@ Hip-hop mogul Sean (Diddy) Combs was convicted in July of flying people around t
       <source:markdown>Follow developments live as Storm Amy is set to bring &#34;severe and damaging&#34; gusts of up to 120km/h in some western counties.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1003/1536634-storm-amy-schools-in-some-ni-counties-to-close-early/</guid>
     </item>    <item>
-      <title>Man seriously injured in Donegal, 184,000 without power</title>
+      <title>As it happened: 124,000 without power after Storm Amy</title>
       <link>https://www.rte.ie/news/2025/1003/1536634-storm-amy/</link>
       <description>
         <![CDATA[Follow developments live as Storm Amy leaves hundreds of thousands of customers without power.]]>
@@ -325,12 +364,12 @@ Hip-hop mogul Sean (Diddy) Combs was convicted in July of flying people around t
       <source:markdown>Fine Gael presidential candidate Heather Humphreys said she &#34;absolutely supported&#34; legislation introduced that saw the automatic disqualification for a period of all drivers found to be over the alcohol limit.</source:markdown>
       <guid>cid://https://www.rte.ie/news/presidential-election/2025/1003/1536631-shane-ross-heather-humphreys/</guid>
     </item>    <item>
-      <title>Trump gives Hamas until Sunday to agree to Gaza deal</title>
+      <title>Israel must immediately stop bombing Gaza - Trump</title>
       <link>https://www.rte.ie/news/middle-east/2025/1003/1536624-gaza-israel-conflict/</link>
       <description>
-        <![CDATA[US President Donald Trump has issued an ultimatum to Hamas of Sunday to accept his Gaza peace deal or face "all hell".]]>
+        <![CDATA[US President Donald Trump has said Israel "must immediately stop bombing Gaza".]]>
       </description>
-      <source:markdown>US President Donald Trump has issued an ultimatum to Hamas of Sunday to accept his Gaza peace deal or face &#34;all hell&#34;.</source:markdown>
+      <source:markdown>US President Donald Trump has said Israel &#34;must immediately stop bombing Gaza&#34;.</source:markdown>
       <guid>cid://https://www.rte.ie/news/middle-east/2025/1003/1536624-gaza-israel-conflict/</guid>
     </item>    <item>
       <title>Pope congratulates Grand Duke of Luxembourg on his accession</title>
@@ -357,12 +396,12 @@ Hip-hop mogul Sean (Diddy) Combs was convicted in July of flying people around t
 [Read all](https://www.vaticannews.va/en/church/news/2025-10/cardinal-nichols-decries-attack-on-manchester-synagogue.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/church/news/2025-10/cardinal-nichols-decries-attack-on-manchester-synagogue.html</guid>
     </item>    <item>
-      <title>New York judge to sentence Sean &#39;Diddy&#39; Combs</title>
+      <title>Sean &#39;Diddy&#39; Combs sentenced to over four years in prison</title>
       <link>https://www.rte.ie/news/us/2025/1003/1536605-sean-combs/</link>
       <description>
-        <![CDATA[Sean "Diddy" Combs will be sentenced today for his conviction on two prostitution-related counts, crimes prosecutors say deserve more than a decade behind bars as the music mogul seeks "mercy" and a swift release.]]>
+        <![CDATA[Sean "Diddy" Combs has been sentenced on to more than four years in prison over his 2 July conviction on prostitution-related charges.]]>
       </description>
-      <source:markdown>Sean &#34;Diddy&#34; Combs will be sentenced today for his conviction on two prostitution-related counts, crimes prosecutors say deserve more than a decade behind bars as the music mogul seeks &#34;mercy&#34; and a swift release.</source:markdown>
+      <source:markdown>Sean &#34;Diddy&#34; Combs has been sentenced on to more than four years in prison over his 2 July conviction on prostitution-related charges.</source:markdown>
       <guid>cid://https://www.rte.ie/news/us/2025/1003/1536605-sean-combs/</guid>
     </item>    <item>
       <title>Manchester attack victim was hit by police gunfire - GMP</title>
@@ -487,12 +526,12 @@ There&#39;s a network of overseas scammers targeting and blackmailing teens, and
       <source:markdown>President Michael D Higgins has paid tribute to the writer, broadcaster and documentary maker Manchán Magan who has died at the age of 55.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1003/1536567-manchan-magan-death/</guid>
     </item>    <item>
-      <title>Some flights and sailings disrupted as Storm Amy arrives</title>
+      <title>Orange wind warning issued for Donegal, Sligo and Leitrim</title>
       <link>https://www.rte.ie/news/ireland/2025/1003/1536549-storm-amy/</link>
       <description>
-        <![CDATA[Met Éireann is warning of a significant risk of flooding in the southwest of the country and across counties Donegal, Galway, Leitrim and Roscommon as Storm Amy arrives.]]>
+        <![CDATA[Met Éireann has issued a Status Orange wind warning for counties Donegal, Leitrim and Sligo.]]>
       </description>
-      <source:markdown>Met Éireann is warning of a significant risk of flooding in the southwest of the country and across counties Donegal, Galway, Leitrim and Roscommon as Storm Amy arrives.</source:markdown>
+      <source:markdown>Met Éireann has issued a Status Orange wind warning for counties Donegal, Leitrim and Sligo.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1003/1536549-storm-amy/</guid>
     </item>    <item>
       <title>Irish banks to launch instant payments across euro zone</title>
@@ -2876,9 +2915,9 @@ Crews continued searching for victims in the charred rubble Monday as authoritie
       <title>Full coverage of the General Debate, as it happened</title>
       <link>https://news.un.org/feed/view/en/story/2025/09/1165917</link>
       <description>
-        <![CDATA[Follow our&nbsp;live coverage of the sixth day of the General Debate in New York beginning 9AM local time, featuring leaders from Eritrea, Zambia, Canada, Algeria, Nicaragua, the DPR Korea, Nepal, Denmark, and many others – UN News app users can&nbsp;click here. For a full rundown of who is speaking through the day, check out the full list here.]]>
+        <![CDATA[Follow our full&nbsp;live coverage of six days of the General Debate in New York, as it happened. UN News app users can&nbsp;click here.]]>
       </description>
-      <source:markdown>Follow our live coverage of the sixth day of the General Debate in New York beginning 9AM local time, featuring leaders from Eritrea, Zambia, Canada, Algeria, Nicaragua, the DPR Korea, Nepal, Denmark, and many others – UN News app users can click here. For a full rundown of who is speaking through the day, check out the full list here.</source:markdown>
+      <source:markdown>Follow our full live coverage of six days of the General Debate in New York, as it happened. UN News app users can click here.</source:markdown>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-09-2025-UN-GA80-wideview.jpg/image560x340cropped.jpg" length="48779" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/09/1165917</guid>
     </item>    <item>

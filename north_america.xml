@@ -4,10 +4,26 @@
   <channel>
     <title>North America</title>
     <link>http://localhost:8000/north_americaxml</link>
-    <lastBuildDate>03 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>03 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>What the H1B visa application fee hike could mean for the U.S. economy</title>
+      <link>https://www.npr.org/2025/10/03/nx-s1-5561095/what-the-h1b-visa-application-fee-hike-could-mean-for-the-u-s-economy</link>
+      <description>
+        <![CDATA[An economist explains the impact the H-1B visa program has had on the U.S. economy and native-born workers. And what the new hundred thousand dollar fee could mean for the future of the program.]]>
+      </description>
+      <source:markdown>An economist explains the impact the H-1B visa program has had on the U.S. economy and native-born workers. And what the new hundred thousand dollar fee could mean for the future of the program.</source:markdown>
+      <guid>cid://https://www.npr.org/2025/10/03/nx-s1-5561095/what-the-h1b-visa-application-fee-hike-could-mean-for-the-u-s-economy</guid>
+    </item>    <item>
+      <title>Shutdown has already delayed the jobs report. More critical reports could be held up</title>
+      <link>https://www.npr.org/2025/10/03/nx-s1-5561750/shutdown-jobs-labor-economy-wall-street</link>
+      <description>
+        <![CDATA[The government's monthly jobs report was not published Friday as a result of the federal shutdown.  That's left businesses and policymakers in the dark about the strength of the U.S. job market.]]>
+      </description>
+      <source:markdown>The government&#39;s monthly jobs report was not published Friday as a result of the federal shutdown. That&#39;s left businesses and policymakers in the dark about the strength of the U.S. job market.</source:markdown>
+      <guid>cid://https://www.npr.org/2025/10/03/nx-s1-5561750/shutdown-jobs-labor-economy-wall-street</guid>
+    </item>    <item>
       <title>No jobs report? We&#39;re still on the case</title>
       <link>https://www.marketplace.org/episode/2025/10/03/no-jobs-report-were-still-on-the-case</link>
       <description>
