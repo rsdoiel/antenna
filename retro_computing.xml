@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>http://localhost:8000/retro_computingxml</link>
-    <lastBuildDate>02 Oct 25 17:59 -0700</lastBuildDate>
+    <lastBuildDate>03 Oct 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Versions of the KIM-1 User Manual</title>
+      <link>http://retro.hansotten.nl/versions-of-the-kim-1-user-manual/</link>
+      <description>
+        <![CDATA[I have so far found 5 versions of the KIM-1 User Manual. First Edition January 1976 Second Edition March 1976 Second Edition August 1976 Rockwell branded version 1977. German version 1977 Only small updates, some errors, and the change of keyboard with SST switch right to left. All available here: KIM-1 manuals and MOS Technology [&#8230;]]]>
+      </description>
+      <source:markdown>I have so far found 5 versions of the KIM-1 User Manual. First Edition January 1976 Second Edition March 1976 Second Edition August 1976 Rockwell branded version 1977. German version 1977 Only small updates, some errors, and the change of keyboard with SST switch right to left. All available here: KIM-1 manuals and MOS Technology \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=18901</guid>
+    </item>    <item>
       <title>FDNPKG16 version 0.99.8</title>
       <link>https://sourceforge.net/p/freedos/news/2025/10/fdnpkg16-version-0998/</link>
       <description>
