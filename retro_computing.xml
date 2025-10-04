@@ -4,10 +4,26 @@
   <channel>
     <title>Retro Computing News</title>
     <link>http://localhost:8000/retro_computingxml</link>
-    <lastBuildDate>04 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>04 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>KazuGrid 1.0</title>
+      <link>https://sourceforge.net/p/freedos/news/2025/10/kazugrid-10/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>Mateusz Viste has created an interesting set of logic puzzle games for DOS: "Fire up KazuGrid and test your wits with mind-bending challenges, now in crisp VGA high resolution! Each grid is a battlefield of numbers - spot patterns, crack logic puzzles, and prove you're the ultimate gridmaster." Requires VGA and a mouse. MIT license. You can find it at the <a class="" href="https://mateusz.fr/kazugrid/" rel="nofollow">KazuGrid website</a></p></div>]]>
+      </description>
+      <source:markdown>Mateusz Viste has created an interesting set of logic puzzle games for DOS: &#34;Fire up KazuGrid and test your wits with mind-bending challenges, now in crisp VGA high resolution! Each grid is a battlefield of numbers - spot patterns, crack logic puzzles, and prove you&#39;re the ultimate gridmaster.&#34; Requires VGA and a mouse. MIT license. You can find it at the [KazuGrid website](https://mateusz.fr/kazugrid/)</source:markdown>
+      <guid>cid://https://sourceforge.net04de24a8e79a6f44f1fed8cfd654b3626b91bbba</guid>
+    </item>    <item>
+      <title>My KIM-1 collection</title>
+      <link>http://retro.hansotten.nl/my-kim-1-collection/</link>
+      <description>
+        <![CDATA[In 2024/2025 I completed my KIM-1 collection with one or two from every Revision, from first edition to Rev G, nine in total. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you search for those, ...Magazines: Compute! and Compute IIThe pages [&#8230;]]]>
+      </description>
+      <source:markdown>In 2024/2025 I completed my KIM-1 collection with one or two from every Revision, from first edition to Rev G, nine in total. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you search for those, ...Magazines: Compute! and Compute IIThe pages \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=18935</guid>
+    </item>    <item>
       <title>ZFP Systems at the London Show</title>
       <link>https://www.riscository.com/2025/zfp-systems-london-show/</link>
       <description>
@@ -40,12 +56,12 @@
       <source:markdown>I have so far found 5 versions of the KIM-1 User Manual. First Edition January 1976 Second Edition March 1976 Second Edition August 1976 Rockwell branded version 1977. German version 1977 Only small updates, some errors, and the change of keyboard with SST switch right to left. All available here: KIM-1 manuals and MOS Technology \[…\]</source:markdown>
       <guid>cid://http://retro.hansotten.nl/?p=18901</guid>
     </item>    <item>
-      <title>FDNPKG16 version 0.99.8</title>
+      <title>FDNPKG16 version 0.99.81</title>
       <link>https://sourceforge.net/p/freedos/news/2025/10/fdnpkg16-version-0998/</link>
       <description>
-        <![CDATA[<div class="markdown_content"><p>Developer sparky4 (victoria crenshaw) has been working on an updated version of the FDNPKG package manager. The new version is aimed at 16-bit, and works on an 8088 system now. FDNPKG16 version 0.99.8 also retries re-fetching files it couldn't download on the first attempt, and has several other small improvements throughout the code. You can find it at the <a class="" href="https://github.com/sparky4/fdnpkg16" rel="nofollow">FDNPKG16 repository</a> on GitHub.</p></div>]]>
+        <![CDATA[<div class="markdown_content"><p>Developer sparky4 has been working on an updated version of the FDNPKG package manager. The new version is aimed at 16-bit, and works on an 8088 system now. The new version retries re-fetching files it couldn't download on the first attempt, and has several other small improvements throughout the code. <em>Update:</em> FDNPKG16 version 0.99.81 has a new feature: you can use a short version of the command, with or without the slash, like "li" or "/li" to display the license. The license screen also includes my contact information. This also includes several bug fixes: one fixes a bug with watt32, and another avoids a 16-bit integer overflow. You can find the latest version at the <a class="" href="https://github.com/sparky4/fdnpkg16" rel="nofollow">FDNPKG16 repository</a> on GitHub.</p></div>]]>
       </description>
-      <source:markdown>Developer sparky4 (victoria crenshaw) has been working on an updated version of the FDNPKG package manager. The new version is aimed at 16-bit, and works on an 8088 system now. FDNPKG16 version 0.99.8 also retries re-fetching files it couldn&#39;t download on the first attempt, and has several other small improvements throughout the code. You can find it at the [FDNPKG16 repository](https://github.com/sparky4/fdnpkg16) on GitHub.</source:markdown>
+      <source:markdown>Developer sparky4 has been working on an updated version of the FDNPKG package manager. The new version is aimed at 16-bit, and works on an 8088 system now. The new version retries re-fetching files it couldn&#39;t download on the first attempt, and has several other small improvements throughout the code. _Update:_ FDNPKG16 version 0.99.81 has a new feature: you can use a short version of the command, with or without the slash, like &#34;li&#34; or &#34;/li&#34; to display the license. The license screen also includes my contact information. This also includes several bug fixes: one fixes a bug with watt32, and another avoids a 16-bit integer overflow. You can find the latest version at the [FDNPKG16 repository](https://github.com/sparky4/fdnpkg16) on GitHub.</source:markdown>
       <guid>cid://https://sourceforge.neta429e1e6a6522cf6eebbeecf352bbcf7b5efa581</guid>
     </item>    <item>
       <title>b.log 2025/10/02 - The radical left?</title>

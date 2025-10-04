@@ -4,10 +4,28 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>http://localhost:8000/librariesxml</link>
-    <lastBuildDate>04 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>04 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Ponson Case, by Freeman Wills Crofts</title>
+      <link>https://standardebooks.org/ebooks/freeman-wills-crofts/the-ponson-case</link>
+      <description>
+        <![CDATA[The death of a wealthy industrialist initially seems like an accident, but soon sparks a murder inquiry.]]>
+      </description>
+      <source:markdown>The death of a wealthy industrialist initially seems like an accident, but soon sparks a murder inquiry.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/freeman-wills-crofts/the-ponson-case/downloads/freeman-wills-crofts_the-ponson-case.epub?source=feed" length="1026284" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/freeman-wills-crofts/the-ponson-case</guid>
+    </item>    <item>
+      <title>Uncle Vanya, by Anton Chekhov</title>
+      <link>https://standardebooks.org/ebooks/anton-chekhov/uncle-vanya/constance-garnett</link>
+      <description>
+        <![CDATA[An elderly professor and his young wife return to their country estate, where their family’s simmering resentments boil over.]]>
+      </description>
+      <source:markdown>An elderly professor and his young wife return to their country estate, where their family’s simmering resentments boil over.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/anton-chekhov/uncle-vanya/constance-garnett/downloads/anton-chekhov_uncle-vanya_constance-garnett.epub?source=feed" length="797639" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/anton-chekhov/uncle-vanya/constance-garnett</guid>
+    </item>    <item>
       <title>ARL Libraries Celebrate Banned Books Week 2025</title>
       <link>https://www.arl.org/blog/arl-libraries-celebrate-banned-books-week-2025/</link>
       <description>
@@ -469,7 +487,7 @@ The post [Guest Post – From Publications to Policy: How Research Is Driving Pr
         <![CDATA[An aging knight returns home after years of service only to learn of his friend’s tragic death.]]>
       </description>
       <source:markdown>An aging knight returns home after years of service only to learn of his friend’s tragic death.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/clara-reeve/the-old-english-baron/downloads/clara-reeve_the-old-english-baron.epub?source=feed" length="386099" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/clara-reeve/the-old-english-baron/downloads/clara-reeve_the-old-english-baron.epub?source=feed" length="386109" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/clara-reeve/the-old-english-baron</guid>
     </item>    <item>
       <title>The Cherry Orchard, by Anton Chekhov</title>

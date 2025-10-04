@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>http://localhost:8000/columnsxml</link>
-    <lastBuildDate>04 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>04 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,58 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>October 3, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-3-2025-b27</link>
+      <enclosure url="https://api.substack.com/feed/podcast/175286047/7b0814b72a03d0e7990a67e33acabc7d.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-3-2025-b27</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115316965400572584</link>
+      <description>
+        <![CDATA[<p>Funny because on Bill Maher on the same network, some imbecile to laud cheering just said this is Iranian propaganda<br /><a href="https://mastodon.social/@cemedia/115316889498395884" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@cemedia/11531</span><span class="invisible">6889498395884</span></a></p>]]>
+      </description>
+      <source:markdown>Funny because on Bill Maher on the same network, some imbecile to laud cheering just said this is Iranian propaganda
+
+[https://mastodon.social/@cemedia/115316889498395884](https://mastodon.social/@cemedia/115316889498395884)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115316965400572584</guid>
+    </item>    <item>
+      <link>https://tilde.zone/@tomasino/115316746113099286</link>
+      <description>
+        <![CDATA[<p>Deleted that bsky account. Back to just fedi for socials. This internet thing isn't doing so hot right now.</p>]]>
+      </description>
+      <source:markdown>Deleted that bsky account. Back to just fedi for socials. This internet thing isn&#39;t doing so hot right now.</source:markdown>
+      <guid>cid://https://tilde.zone/@tomasino/115316746113099286</guid>
+    </item>    <item>
+      <title>Three.js Completions Extension for Nova editor</title>
+      <link>https://blog.gingerbeardman.com/2025/10/04/three-js-completions-extension-for-nova-editor/</link>
+      <description>
+        <![CDATA[<p>I’ve released an extension to add <a href="https://threejs.org">Three.js</a> completions support to the Nova editor.</p>
+        
+        <p>The coolest thing about this extension is that most of the code is automatically generated straight from the Three.js TypeScript files. This means there’s the potential for less errors in the data, and I can easily update the extension whenever a new release of Three.js comes out just by running a single command. Why work <em>harder</em> when you can work <em>cleverer</em>?</p>
+        
+        <p><a href="https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.ThreeJS/">extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.ThreeJS/</a></p>
+        
+        <p>You might be quick to deduce that—yes—I’m making a 3D game. 😘</p>]]>
+      </description>
+      <source:markdown>I’ve released an extension to add [Three.js](https://threejs.org) completions support to the Nova editor.
+
+The coolest thing about this extension is that most of the code is automatically generated straight from the Three.js TypeScript files. This means there’s the potential for less errors in the data, and I can easily update the extension whenever a new release of Three.js comes out just by running a single command. Why work _harder_ when you can work _cleverer_?
+
+[extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.ThreeJS/](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.ThreeJS/)
+
+You might be quick to deduce that—yes—I’m making a 3D game. 😘</source:markdown>
+      <guid>cid://https://blog.gingerbeardman.com/2025/10/04/three-js-completions-extension-for-nova-editor/</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2esumas722y</link>
+      <description>
+        <![CDATA[Colonialism once again, https://www.pacificislandtimes.com/post/unleashing-seabed-imperialism-in-american-samoa]]>
+      </description>
+      <source:markdown>Colonialism once again, https://www.pacificislandtimes.com/post/unleashing-seabed-imperialism-in-american-samoa</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m2esumas722y</guid>
+    </item>    <item>
+      <title>Cheap Batteries Are Dangerous</title>
+      <link>https://www.theverge.com/news/784966/lumafield-x-ray-ct-scan-lithium-ion-battery-risks-manufacturing-defect</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42242</guid>
     </item>    <item>
       <title>Talking With Jonathan Cohn</title>
       <link>https://paulkrugman.substack.com/p/talking-with-jonathan-cohn</link>
@@ -5948,9 +6000,9 @@ Monday session</source:markdown>
       <title>macOS 15.7.1 and macOS 14.8.1</title>
       <link>https://mjtsai.com/blog/2025/09/29/macos-15-7-1-and-macos-14-8-1/</link>
       <description>
-        <![CDATA[macOS 15.7.1 (full installer, security): This update provides important security fixes and is recommended for all users. macOS 14.8.1 (full installer, security): This update provides important security fixes and is recommended for all users. Previously: macOS 15.7 and macOS 14.8]]>
+        <![CDATA[macOS 15.7.1 (full installer, security): This update provides important security fixes and is recommended for all users. macOS 14.8.1 (full installer, security): This update provides important security fixes and is recommended for all users. Previously: macOS 15.7 and macOS 14.8 Update (2025-10-04): Jezmund_Berserker: A few people in our company have been running into the same [&#8230;]]]>
       </description>
-      <source:markdown>macOS 15.7.1 (full installer, security): This update provides important security fixes and is recommended for all users. macOS 14.8.1 (full installer, security): This update provides important security fixes and is recommended for all users. Previously: macOS 15.7 and macOS 14.8</source:markdown>
+      <source:markdown>macOS 15.7.1 (full installer, security): This update provides important security fixes and is recommended for all users. macOS 14.8.1 (full installer, security): This update provides important security fixes and is recommended for all users. Previously: macOS 15.7 and macOS 14.8 Update (2025-10-04): Jezmund\_Berserker: A few people in our company have been running into the same \[…\]</source:markdown>
       <guid>cid://https://mjtsai.com/blog/?p=49415</guid>
     </item>    <item>
       <title>Patreon Autopilot</title>

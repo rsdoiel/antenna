@@ -4,11 +4,35 @@
   <channel>
     <title>socal_north.md</title>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>04 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>04 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Now 35, &#39;Beverly Hills, 90210&#39; shaped generations of teen TV</title>
+      <title>Take a look! &#39;Reading Rainbow&#39; is back</title>
+      <link>https://laist.com/news/education/reading-rainbow-returns-youtube-influencer-mychal-threets</link>
+      <description>
+        <![CDATA[The show has a new host and a new digital format but the same mission.]]>
+      </description>
+      <source:markdown>The show has a new host and a new digital format but the same mission.</source:markdown>
+      <guid>cid://urn:uuid:00000199-b01f-dbfa-afdf-b71f65d20000</guid>
+    </item>    <item>
+      <title>A ubiquitous flower in LA is a reminder of homeland for a Salvadoran chef</title>
+      <link>https://laist.com/news/food/ubiquitous-flower-in-la-reminder-of-homeland-for-salvadoran-chef</link>
+      <description>
+        <![CDATA[At this time of year, the flor de izote blooms in Los Angeles. The Salvadoran American chef Karla Tatiana Vasquez says the flowers are both a delicacy and a connection to her identity.]]>
+      </description>
+      <source:markdown>At this time of year, the flor de izote blooms in Los Angeles. The Salvadoran American chef Karla Tatiana Vasquez says the flowers are both a delicacy and a connection to her identity.</source:markdown>
+      <guid>cid://urn:uuid:00000199-afea-dc80-a5fb-affa7b820000</guid>
+    </item>    <item>
+      <title>Legal experts condemn Apple bowing to White House&#39;s request to remove ICE tracking app</title>
+      <link>https://laist.com/news/politics/legal-experts-condemn-apple-bowing-to-white-houses-request-to-remove-ice-tracking-app</link>
+      <description>
+        <![CDATA[It's the latest example of tech giants bowing to pressure from the Trump administration. Legal experts say the developer of the app has free speech rights that may have been violated.]]>
+      </description>
+      <source:markdown>It&#39;s the latest example of tech giants bowing to pressure from the Trump administration. Legal experts say the developer of the app has free speech rights that may have been violated.</source:markdown>
+      <guid>cid://urn:uuid:00000199-afe0-dbfa-afdf-afe57fed0000</guid>
+    </item>    <item>
+      <title>&#39;Beverly Hills, 90210&#39; just turned 35. The very-LA show shaped teen TV for generations</title>
       <link>https://laist.com/news/arts-and-entertainment/beverly-hills-90210-shaped-generations-of-teen-tv</link>
       <description>
         <![CDATA[The defining teen series of the 90’s ran for 10 seasons.]]>

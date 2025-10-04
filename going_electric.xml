@@ -7,10 +7,19 @@
       Going Electric has feeds involving home and transportation options powered by Electricity
     </description>
     <link>http://localhost:8000/going_electricxml</link>
-    <lastBuildDate>04 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>04 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The 2026 Hyundai Ioniq 5 May Be America&#39;s Best EV Deal After A Huge Price Cut</title>
+      <link>https://insideevs.com/news/774666/hyundai-ioniq-5-best-ev-deal-discount/</link>
+      <description>
+        <![CDATA[Watch out, Tesla Model Y. Hyundai slashed prices for one of the very best EVs you can buy in America.]]>
+      </description>
+      <source:markdown>Watch out, Tesla Model Y. Hyundai slashed prices for one of the very best EVs you can buy in America.</source:markdown>
+      <enclosure url="https://cdn.motor1.com/images/mgl/vxY6Z6/s3/hyundai-ioniq-5-xrt.jpg" length="22932" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/774666/hyundai-ioniq-5-best-ev-deal-discount/</guid>
+    </item>    <item>
       <title>Federal EV Credits Disappeared. This State Just Upped Its Own Incentive To Help Replace Them</title>
       <link>https://insideevs.com/news/774654/colorado-vxc-program-explained/</link>
       <description>
@@ -65,6 +74,10 @@ Although the $7,500 EV tax credit has expired, Hyundai is keeping the savings go
       <link>https://electrek.co/2025/10/03/podcast-tesla-delivery-record-v4-supercharger-messy-us-ev-market-and-more/</link>
       <description>
         <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla’s delivery record, V4 Superchargers, a messy US EV market, and more.</p>
+        
+        
+        
+        <figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/10/Electrek_405.mp3"></audio></figure>
         
         
         
