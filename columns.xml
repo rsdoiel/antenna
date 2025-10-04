@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>http://localhost:8000/columnsxml</link>
-    <lastBuildDate>03 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>04 Oct 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,92 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Talking With Jonathan Cohn</title>
+      <link>https://paulkrugman.substack.com/p/talking-with-jonathan-cohn</link>
+      <description>
+        <![CDATA[The coming premium apocalypse, the shutdown, and more]]>
+      </description>
+      <source:markdown>The coming premium apocalypse, the shutdown, and more</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!uUt-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76b44738-934a-4de9-966e-17a946424f9d_1920x1080.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/talking-with-jonathan-cohn</guid>
+    </item>    <item>
+      <title>Lit Hub Weekly: September 29 – October 3, 2025</title>
+      <link>https://lithub.com/lit-hub-weekly-september-29-october-3-2025/</link>
+      <description>
+        <![CDATA[“Laying someone to rest is the final act of care that leaves a lingering impression, not only on the dead, but on you.” Eden Royce on the importance of funerary details in the face of grief. &#124; Lit Hub Memoir Kate Colby on drawing inspiration from Edward Hopper’s Cape Cod Morning and how poetry can [&#8230;]]]>
+      </description>
+      <source:markdown>“Laying someone to rest is the final act of care that leaves a lingering impression, not only on the dead, but on you.” Eden Royce on the importance of funerary details in the face of grief. \| Lit Hub Memoir Kate Colby on drawing inspiration from Edward Hopper’s Cape Cod Morning and how poetry can \[…\]</source:markdown>
+      <guid>cid://https://lithub.com/?p=260632</guid>
+    </item>    <item>
+      <title>Trump&#39;s Extremely Unhinged Week | The Coffee Klatch for October 4, 2025</title>
+      <link>https://robertreich.substack.com/p/trumps-extremely-unhinged-week-the</link>
+      <description>
+        <![CDATA[With Heather Lofthouse and Yours Truly, Robert Reich]]>
+      </description>
+      <source:markdown>With Heather Lofthouse and Yours Truly, Robert Reich</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/175237775/0d9a0d0455e6daf49e095f6319d92249.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://robertreich.substack.com/p/trumps-extremely-unhinged-week-the</guid>
+    </item>    <item>
+      <title>October 3, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-3-2025</link>
+      <description>
+        <![CDATA[Although President Donald J.]]>
+      </description>
+      <source:markdown>Although President Donald J.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-3-2025</guid>
+    </item>    <item>
+      <title>Weeknotes: Sept. 27-Oct. 3, 2025</title>
+      <link>https://tracydurnell.com/2025/10/03/weeknotes-sept-27-oct-3-2025/</link>
+      <description>
+        <![CDATA[Highlight of the week: took the day off Wednesday to lounge around and read Looking forward to: reading a lot of fun, light books this weekend Stuff I did: 0.5 hours consulting 5.75 hours writing 0.75 hours business admin baked blueberry crumb pie (blackberries went moldy 😿) &#8212; decided at 8pm that I wanted dessert so [&#8230;]]]>
+      </description>
+      <source:markdown>Highlight of the week: took the day off Wednesday to lounge around and read Looking forward to: reading a lot of fun, light books this weekend Stuff I did: 0.5 hours consulting 5.75 hours writing 0.75 hours business admin baked blueberry crumb pie (blackberries went moldy 😿) — decided at 8pm that I wanted dessert so \[…\]</source:markdown>
+      <guid>cid://https://tracydurnell.com/?p=30213</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2doydcf3s22</link>
+      <description>
+        <![CDATA[Let the web be the web, like that. http://scripting.com/2025/10/03/135728.html?title=letTheWebBeTheWeb]]>
+      </description>
+      <source:markdown>Let the web be the web, like that. http://scripting.com/2025/10/03/135728.html?title=letTheWebBeTheWeb</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m2doydcf3s22</guid>
+    </item>    <item>
+      <title>Questions of Law, not Just Politics</title>
+      <link>https://doc.searls.com/2025/10/03/questions-of-law-not-politics/</link>
+      <description>
+        <![CDATA[Go to HUD.gov,  and you&#8217;ll get this: Go to USDA.gov, and you&#8217;ll get this: Seems to me these violate the Hatch Act, aka &#8220;An Act to Prevent Pernicious Political Activities.&#8221; It was passed in 1939 and amended a couple of times since then. I am not a lawyer, but I know some, and I can [&#8230;]]]>
+      </description>
+      <source:markdown>Go to HUD.gov,  and you’ll get this: Go to USDA.gov, and you’ll get this: Seems to me these violate the Hatch Act, aka “An Act to Prevent Pernicious Political Activities.” It was passed in 1939 and amended a couple of times since then. I am not a lawyer, but I know some, and I can \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/?p=19528</guid>
+    </item>    <item>
+      <title>October 2, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-2-2025-4ea</link>
+      <enclosure url="https://api.substack.com/feed/podcast/175245321/a6b19765bcf040a65b731c82189de181.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-2-2025-4ea</guid>
+    </item>    <item>
+      <title>Misalignments</title>
+      <link>https://tracydurnell.com/2025/10/03/misalignments/</link>
+      <description>
+        <![CDATA[Selling lemons by Frank Chimero What makes the Market for Lemons concept so appealing (and what differentiates it in my mind from enshittification) is that everyone can be acting reasonably, pursuing their own interests, and things still get worse for everyone. No one has to be evil or stupid: the platform does what’s profitable, sellers [&#8230;]]]>
+      </description>
+      <source:markdown>Selling lemons by Frank Chimero What makes the Market for Lemons concept so appealing (and what differentiates it in my mind from enshittification) is that everyone can be acting reasonably, pursuing their own interests, and things still get worse for everyone. No one has to be evil or stupid: the platform does what’s profitable, sellers \[…\]</source:markdown>
+      <guid>cid://https://tracydurnell.com/?p=30371</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/03.html#a004934</link>
+      <description>
+        <![CDATA[Some day they will have <a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3m2d5gwnobc24">AI actors</a> delivering the nightly news and no one will notice.]]>
+      </description>
+      <source:markdown>Some day they will have [AI actors](https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3m2d5gwnobc24) delivering the nightly news and no one will notice.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/03.html#a004934</guid>
+    </item>    <item>
+      <title>Office Hours: What was the REAL reason Trump met with more than 800 of America’s top military leaders this week?</title>
+      <link>https://robertreich.substack.com/p/office-hours-whats-the-real-reason</link>
+      <description>
+        <![CDATA[The underlying purpose of Trump&#8217;s unorthodox conclave with the top brass?]]>
+      </description>
+      <source:markdown>The underlying purpose of Trump’s unorthodox conclave with the top brass?</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!q3bK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cc21b12-8db7-4b79-9228-29a5fda6ac63_3436x2291.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/office-hours-whats-the-real-reason</guid>
     </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115312343947324207</link>
       <description>
@@ -256,23 +342,23 @@ Tags: [sqlite](https://simonwillison.net/tags/sqlite), [fly](https://simonwillis
       <link>http://scripting.com/2025/10/03/145920.html?title=shouldTechRunTheWorld</link>
       <description>
         <![CDATA[<p>With all respect to the tech industry -- why is the traffic in the Bay Area so awful. Why haven't they done anything about it. </p>
-        <p>Wouldn't that be a good test run before running the whole world? As programmer myself, I wouldn't trust the algorithm without a lot of QA. Seriously. Think about it</p>
-        <p>It's the strangest configuration for a metropolitan area, the center of the city is in the middle of the bay. (Same as Seattle, btw.)</p>
+        <p>Wouldn't that be a good test before running the whole world? As programmer myself, I wouldn't trust the algorithm without a lot of <a href="https://en.wikipedia.org/wiki/Quality_assurance">QA</a>. Seriously. Think about it</p>
+        <p>It's the strangest configuration for a metropolitan area, the center of the city is in the middle of <a href="https://imgs.scripting.com/2025/10/03/bayAreaMap.png">the bay</a>. (Same as Seattle, btw.)</p>
         <p>The best answer the tech industry came up with was Uber, as far as I know.</p>
-        <p>I lived in Palo Alto, Menlo Park, Berkeley, Los Gatos and Woodside over 31 years and I did nothing to fix the problem either. My answer was to move to NYC where the transit system is pretty great. Then I moved to the mountains and got a Tesla. </p>
-        <p>BTW, the idea that the stars of Silicon Valley should run the world is not a new one. I first heard about it from Apple top level managers in the 1980s. They were not techno-fascists, but they did hugely overestimate what it takes to run the world, or even a small country in Africa. </p>]]>
+        <p>I lived in Palo Alto, Mountain View, Menlo Park, Berkeley, Los Gatos and Woodside over 31 years and I did nothing to fix the problem either. My answer was to move to NYC where the transit system is pretty great. Then I moved to the mountains and got a <a href="https://daytona.scripting.com/search?q=tesla">Tesla</a>. </p>
+        <p>BTW, the idea that the stars of Silicon Valley should run the world is not new. I first heard about it from Apple top level managers in the 1980s. They were not techno-fascists, but they did hugely overestimate what it takes to run the world, or even a small country in Africa. </p>]]>
       </description>
       <source:markdown>With all respect to the tech industry -- why is the traffic in the Bay Area so awful. Why haven&#39;t they done anything about it.
 
-Wouldn&#39;t that be a good test run before running the whole world? As programmer myself, I wouldn&#39;t trust the algorithm without a lot of QA. Seriously. Think about it
+Wouldn&#39;t that be a good test before running the whole world? As programmer myself, I wouldn&#39;t trust the algorithm without a lot of [QA](https://en.wikipedia.org/wiki/Quality_assurance). Seriously. Think about it
 
-It&#39;s the strangest configuration for a metropolitan area, the center of the city is in the middle of the bay. (Same as Seattle, btw.)
+It&#39;s the strangest configuration for a metropolitan area, the center of the city is in the middle of [the bay](https://imgs.scripting.com/2025/10/03/bayAreaMap.png). (Same as Seattle, btw.)
 
 The best answer the tech industry came up with was Uber, as far as I know.
 
-I lived in Palo Alto, Menlo Park, Berkeley, Los Gatos and Woodside over 31 years and I did nothing to fix the problem either. My answer was to move to NYC where the transit system is pretty great. Then I moved to the mountains and got a Tesla.
+I lived in Palo Alto, Mountain View, Menlo Park, Berkeley, Los Gatos and Woodside over 31 years and I did nothing to fix the problem either. My answer was to move to NYC where the transit system is pretty great. Then I moved to the mountains and got a [Tesla](https://daytona.scripting.com/search?q=tesla).
 
-BTW, the idea that the stars of Silicon Valley should run the world is not a new one. I first heard about it from Apple top level managers in the 1980s. They were not techno-fascists, but they did hugely overestimate what it takes to run the world, or even a small country in Africa.</source:markdown>
+BTW, the idea that the stars of Silicon Valley should run the world is not new. I first heard about it from Apple top level managers in the 1980s. They were not techno-fascists, but they did hugely overestimate what it takes to run the world, or even a small country in Africa.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/03/145920.html</guid>
     </item>    <item>
       <link>http://scripting.com/2025/10/03.html#a144323</link>
@@ -1445,6 +1531,14 @@ Tags: [video-models](https://simonwillison.net/tags/video-models), [prompt-injec
       </description>
       <source:markdown>Der dänische Vorsitz im EU-Rat will am Dienstag, 14. Oktober, über die Chatkontrolle abstimmen lassen. Der vorgeschlagene Text ist eine unveränderte Katastrophe für jegliche vertrauliche Kommunikation. Doch die Bundesregierung schweigt sich weiter aus, ob sie sich dem gefährlichen Plan entgegenstellen wird.</source:markdown>
       <guid>cid://https://www.ccc.de/de/992</guid>
+    </item>    <item>
+      <title>Don&#39;t Parse, Call</title>
+      <link>http://timkellogg.me/blog/2025/10/03/functions</link>
+      <description>
+        <![CDATA[Instead of writing crap tons of parsing code for LLMs you can just use functions. It's easy.]]>
+      </description>
+      <source:markdown>Instead of writing crap tons of parsing code for LLMs you can just use functions. It&#39;s easy.</source:markdown>
+      <guid>cid://http://timkellogg.me/blog/2025/10/03/functions</guid>
     </item>    <item>
       <title>The ChatGPT for music that launched in 1994</title>
       <link>https://buttondown.com/blog/ringo-email-as-an-ai-interface</link>
@@ -16917,866 +17011,6 @@ Links:
       </description>
       <source:markdown>A dump of all my browser tabs on my phone, briefly annotated</source:markdown>
       <guid>cid://http://timkellogg.me/blog/2025/09/13/link-graveyard</guid>
-    </item>    <item>
-      <title>gpt-5 and gpt-5-mini rate limit updates</title>
-      <link>https://simonwillison.net/2025/Sep/12/gpt-5-rate-limits/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://twitter.com/openaidevs/status/1966610846559134140">gpt-5 and gpt-5-mini rate limit updates</a></strong></p>
-        OpenAI have increased the rate limits for their two main GPT-5  models. These look significant:</p>
-        <blockquote>
-        <p>gpt-5<br>
-        Tier 1: 30K → 500K TPM (1.5M batch)<br>
-        Tier 2: 450K → 1M (3M batch)<br>
-        Tier 3: 800K → 2M<br>
-        Tier 4: 2M → 4M</p>
-        <p>gpt-5-mini<br>
-        Tier 1: 200K → 500K (5M batch)</p>
-        </blockquote>
-        <p><a href="https://platform.openai.com/docs/models/gpt-5">GPT-5 rate limits here</a> show tier 5 stays at 40M tokens per minute. The <a href="https://platform.openai.com/docs/models/gpt-5-mini">GPT-5 mini rate limits</a> for tiers 2 through 5 are 2M, 4M, 10M and 180M TPM respectively.</p>
-        <p>As a reminder, <a href="https://platform.openai.com/docs/guides/rate-limits#usage-tiers">those tiers</a> are assigned based on how much money you have spent on the OpenAI API - from $5 for tier 1 up through $50, $100, $250 and then $1,000 for tier </p>
-        <p>For comparison, Anthropic's current top tier is Tier 4 ($400 spent) which provides 2M maximum input tokens per minute and 400,000 maximum output tokens, though you can contact their sales team for higher limits than that.</p>
-        <p>Gemini's top tier is Tier 3 for $1,000 spent and <a href="https://ai.google.dev/gemini-api/docs/rate-limits#tier-3">currently gives you</a> 8M TPM for Gemini 2.5 Pro and Flash and 30M TPM for the Flash-Lite and 2.0 Flash models.</p>
-        <p>So OpenAI's new rate limit increases for their top performing model pulls them ahead of Anthropic but still leaves them significantly behind Gemini.</p>
-        <p>GPT-5 mini remains the champion for smaller models with that enormous 180M TPS limit for its top tier.
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/gpt-5">gpt-5</a></p>]]>
-      </description>
-      <guid>cid://https://simonwillison.net/2025/Sep/12/gpt-5-rate-limits/#atom-everything</guid>
-    </item>    <item>
-      <title>Quoting Matt Webb</title>
-      <link>https://simonwillison.net/2025/Sep/12/matt-webb/#atom-everything</link>
-      <description>
-        <![CDATA[<blockquote cite="https://interconnected.org/home/2025/09/12/claude"><p>The trick with Claude Code is to give it large, but not too large, extremely well defined problems.</p>
-        <p>(If the problems are too large then you are now vibe coding… which (a) frequently goes wrong, and (b) is a one-way street: once vibes enter your app, you end up with tangled, write-only code which functions perfectly but can no longer be edited by humans. Great for prototyping, bad for foundations.)</p></blockquote>
-        <p class="cite">&mdash; <a href="https://interconnected.org/home/2025/09/12/claude">Matt Webb</a>, What I think about when I think about Claude Code</p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/matt-webb">matt-webb</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p>]]>
-      </description>
-      <guid>cid://https://simonwillison.net/2025/Sep/12/matt-webb/#atom-everything</guid>
-    </item>    <item>
-      <title>Facebook Account Back After 21 Days [en]</title>
-      <link>https://climbtothestars.org/archives/2025/09/12/facebook-account-back-after-21-days/</link>
-      <description>
-        <![CDATA[[en] My Facebook account is back, with as little explanation as when it was taken down. I had finished the dishes after lunch and was preparing to get to work writing part three of my thoughts on rebooting the blogosphere, when I saw a message from a friend telling me that I was back on &#8230; <a href="https://climbtothestars.org/archives/2025/09/12/facebook-account-back-after-21-days/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Facebook Account Back After 21 Days <span class='bb-lang'>[en]</span></span>"</span></a>]]>
-      </description>
-      <source:markdown>\[en\] My Facebook account is back, with as little explanation as when it was taken down. I had finished the dishes after lunch and was preparing to get to work writing part three of my thoughts on rebooting the blogosphere, when I saw a message from a friend telling me that I was back on … [Continue reading &#34;Facebook Account Back After 21 Days \[en\]&#34;](https://climbtothestars.org/archives/2025/09/12/facebook-account-back-after-21-days/)</source:markdown>
-      <guid>cid://https://climbtothestars.org/?p=10092</guid>
-    </item>    <item>
-      <title>Assessing the Quality of Dried Squid</title>
-      <link>https://www.schneier.com/blog/archives/2025/09/assessing-the-quality-of-dried-squid.html</link>
-      <description>
-        <![CDATA[<p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0889157525010439">Research</a>:</p>
-        <blockquote><p>Nondestructive detection of multiple dried squid qualities by hyperspectral imaging combined with 1D-KAN-CNN</p>
-        <p><b>Abstract:</b> Given that dried squid is a highly regarded marine product in Oriental countries, the global food industry requires a swift and noninvasive quality assessment of this product. The current study therefore uses visible­near-infrared (VIS-NIR) hyperspectral imaging and deep learning (DL) methodologies. We acquired and preprocessed VIS-NIR (400­1000 nm) hyperspectral reflectance images of 93 dried squid samples. Important wavelengths were selected using competitive adaptive reweighted sampling, principal component analysis, and the successive projections algorithm. Based on a Kolmogorov-Arnold network (KAN), we introduce a one-dimensional, KAN convolutional neural network (1D-KAN-CNN) for nondestructive measurements of fat, protein, and total volatile basic nitrogen&#8230;...</p></blockquote>]]>
-      </description>
-      <guid>cid://https://www.schneier.com/?p=70721</guid>
-    </item>    <item>
-      <title>A Cyberattack Victim Notification Framework</title>
-      <link>https://www.schneier.com/blog/archives/2025/09/a-cyberattack-victim-notification-framework.html</link>
-      <description>
-        <![CDATA[<p>Interesting <a href="https://securityandtechnology.org/virtual-library/report/improving-private-sector-cyber-victim-notification-and-support/">analysis</a>:</p>
-        <blockquote><p>When cyber incidents occur, victims should be notified in a timely manner so they have the opportunity to assess and remediate any harm. However, providing notifications has proven a challenge across industry.</p>
-        <p>When making notifications, companies often do not know the true identity of victims and may only have a single email address through which to provide the notification. Victims often do not trust these notifications, as cyber criminals often use the pretext of an account compromise as a phishing lure.</p>
-        <p>[&#8230;]</p>
-        <p>This report explores the challenges associated with developing the native-notification concept and lays out a roadmap for overcoming them. It also examines other opportunities for more narrow changes that could both increase the likelihood that victims will both receive and trust notifications and be able to access support resources...</p></blockquote>]]>
-      </description>
-      <guid>cid://https://www.schneier.com/?p=70741</guid>
-    </item>    <item>
-      <title>AirPods Live Translation Blocked for EU Users</title>
-      <link>https://mjtsai.com/blog/2025/09/12/airpods-live-translation-blocked-for-eu-users/</link>
-      <description>
-        <![CDATA[Tim Hardwick (Hacker News): Apple says on its feature availability webpage that &#8220;Apple Intelligence: Live Translation with AirPods&#8221; won&#8217;t be available if both the user is physically in the EU and their Apple Account region is in the EU. Apple doesn&#8217;t give a reason for the restriction, but legal and regulatory pressures seem the most [&#8230;]]]>
-      </description>
-      <source:markdown>Tim Hardwick (Hacker News): Apple says on its feature availability webpage that “Apple Intelligence: Live Translation with AirPods” won’t be available if both the user is physically in the EU and their Apple Account region is in the EU. Apple doesn’t give a reason for the restriction, but legal and regulatory pressures seem the most \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49270</guid>
-    </item>    <item>
-      <title>iPhone Satellite Features Remain Free for Another Year</title>
-      <link>https://mjtsai.com/blog/2025/09/12/iphone-satellite-features-remain-free-for-another-year/</link>
-      <description>
-        <![CDATA[Adam Engst: When Apple first introduced Emergency SOS via satellite with the iPhone 14, it promised two years of free service. Later, Apple extended the free service by another year (see &#8220;Apple Extends Free Emergency SOS via Satellite for iPhone 14 Users for Another Year,&#8221; 15 November 2023). That extension was set to expire in [&#8230;]]]>
-      </description>
-      <source:markdown>Adam Engst: When Apple first introduced Emergency SOS via satellite with the iPhone 14, it promised two years of free service. Later, Apple extended the free service by another year (see “Apple Extends Free Emergency SOS via Satellite for iPhone 14 Users for Another Year,” 15 November 2023). That extension was set to expire in \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49268</guid>
-    </item>    <item>
-      <title>Dataless macOS File Versioning</title>
-      <link>https://mjtsai.com/blog/2025/09/12/dataless-macos-file-versioning/</link>
-      <description>
-        <![CDATA[Howard Oakley: When an app that supports versioning saves a file, the current version is added as a dataless file to a folder in AllUIDs, with its UUID as its name, its data are added to the ChunkStoreDatabase, and its details are added to the database in db-V1. Chunk sizes typically range up to just [&#8230;]]]>
-      </description>
-      <source:markdown>Howard Oakley: When an app that supports versioning saves a file, the current version is added as a dataless file to a folder in AllUIDs, with its UUID as its name, its data are added to the ChunkStoreDatabase, and its details are added to the database in db-V1. Chunk sizes typically range up to just \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49266</guid>
-    </item>    <item>
-      <title>Radical Neighbouring. &#38;#8220;The food from this place has been offered as a...</title>
-      <link>https://kottke.org/25/09/0047498-radical-neighbouring-the-</link>
-      <guid>cid://tag:kottke.org,2025://13.47498</guid>
-    </item>    <item>
-      <title>September 11, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-11-2025-158</link>
-      <enclosure url="https://api.substack.com/feed/podcast/173468220/b2521498583007f8a9d8887ffc189443.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-11-2025-158</guid>
-    </item>    <item>
-      <title>Subgrid: how to line up elements to your heart’s content</title>
-      <link>https://webkit.org/blog/17339/subgrid-how-to-line-up-elements-to-your-hearts-content/</link>
-      <description>
-        <![CDATA[When Grid became widely available across browsers in 2017, it was an absolute game changer.]]>
-      </description>
-      <source:markdown>When Grid became widely available across browsers in 2017, it was an absolute game changer.</source:markdown>
-      <guid>cid://https://webkit.org/?p=17339</guid>
-    </item>    <item>
-      <title>Note published on September 12, 2025 at 7:17 PM UTC</title>
-      <link>https://www.mollywhite.net/micro/entry/202509121510</link>
-      <guid>cid://68c471adaf8e0043c4ac2046</guid>
-    </item>    <item>
-      <title>2025-08-18 Zürich Zoo</title>
-      <link>https://alexschroeder.ch/view/2025-08-18-zoo</link>
-      <description>
-        <![CDATA[<h1 id="2025-08-18-zürich-zoo">2025-08-18 Zürich Zoo</h1>
-        
-        <p>We went to the Zürich Zoo.</p>
-        
-        <p>We started in the Australian section where they have a bunch of wallabies.
-        You can enter the enclosure. There were three wallabies chasing each other, grunting.
-        We suspected it was related to intercourse but when they stopped there was just short attempt at it and then they all preferred to drink water instead.</p>
-        
-        <p>This is the <a href="https://en.wikipedia.org/wiki/Red-necked_wallaby">red-necked wallaby</a>, <em>Notamacropus rufogriseus</em>.</p>
-        
-        <p><img loading="lazy" src="2025-08-18-zoo-7.jpg" alt="A wallaby eating salad. The pink pouch is very visible." />
-        <img loading="lazy" src="2025-08-18-zoo-8.jpg" alt="Wallaby head with backlight, showing the long whiskers." /></p>
-        
-        <p>The same enclosure also has <a href="https://en.wikipedia.org/wiki/Emu">emus</a>, <em>Dromaius novaehollandiae</em>.</p>
-        
-        <p><img loading="lazy" src="2025-08-18-zoo-9.jpg" alt="An emu head with backlight, showing the delicate feathers around its face." />
-        <img loading="lazy" src="2025-08-18-zoo-10.jpg" alt="A super fluffy young (?) emu head." /></p>
-        
-        <p>We went on to see the <a href="https://en.wikipedia.org/wiki/Guanaco">guanaco</a>, <em>Lama guanicoe</em>.</p>
-        
-        <p><img loading="lazy" src="2025-08-18-zoo-11.jpg" alt="A wet guanaco who&rsquo;s been standing in a water spray to cool down." />
-        <img loading="lazy" src="2025-08-18-zoo-12.jpg" alt="A super cute young guanaco with huge black eyes." /></p>
-        
-        <p>Next we saw some strange birds with strange, featherless heads. It&rsquo;s the <a href="https://en.wikipedia.org/wiki/Northern_bald_ibis">northern bald ibis</a>, <em>Geronticus eremita</em>. These used to be extinct in Switzerland but now they&rsquo;re back. They migrate south and so for rewilding, people had to adopt them and then fly with them across the alps with some ultralight flying vehicles. These days they fly to southern Spain instead, I heard. You can find some pictures about the project <a href="https://www.srf.ch/wissen/natur-tiere/rueckkehr-des-waldrapps-die-kueken-sind-da-das-comeback-eines-schraegen-vogels">on the Swiss radio and television site</a>.</p>
-        
-        <p><img loading="lazy" src="2025-08-18-zoo-13.jpg" alt="A bird with black feathers and a bald red head with patches of grey, with orange eyes and a typical long, bent ibis beak" /></p>
-        
-        <p>We went to see the great cats because the zoo has a new setup wherein the tigers, lions and snow leopards move between enclosures every now and then. This keeps them more active because they smell the presence of the other great cats that were here before them. But as usual, the cats were asleep during the day.</p>
-        
-        <p><img loading="lazy" src="2025-08-18-zoo-14.jpg" alt="A lioness&rsquo; paw. It big!" /></p>
-        
-        <p>There&rsquo;s also an &ldquo;insect forest&rdquo; where you can step into a room with a bunch of branches full of stick insects and the like.</p>
-        
-        <p><img loading="lazy" src="2025-08-18-zoo-15.jpg" alt="A green, leaf-like insect with plenty of thorns. This is the Heteropteryx dilatata." />
-        <img loading="lazy" src="2025-08-18-zoo-16.jpg" alt="Sadly, I was unable to find anything about this insect on the zoo site. It&rsquo;s very large, green, and its wings look like leaves that it keeps close to the body." />
-        <img loading="lazy" src="2025-08-18-zoo-17.jpg" alt="A big beetle seen from below. This is Mecynorhina ugandensis." /></p>
-        
-        <p>When we went to eat a snack at the <em>Altes Klösterli</em> restaurant, we had a view at the back of the <a href="https://en.wikipedia.org/wiki/Gelada">gelada</a> enclosure, <em>Theropithecus gelada</em>.</p>
-        
-        <p><img loading="lazy" src="2025-08-18-zoo-18.jpg" alt="A female monkey sitting in front of a male. She has a bright red patch of hairless skin on her breast looking like a very strange, red necklace." />
-        <img loading="lazy" src="2025-08-18-zoo-19.jpg" alt="The male monkey has superb hairstyle, a bit like David Bowie in The Labyrinth." /></p>
-        
-        <p>The elephants are great. There&rsquo;s a young one with its mother and its aunt, all Asian elephants, <em>Elephas maximus</em>.</p>
-        
-        <p><img loading="lazy" src="2025-08-18-zoo-20.jpg" alt="A tiny elephant between two huge adults." />
-        <img loading="lazy" src="2025-08-18-zoo-21.jpg" alt="The two sisters seem to like each other, pressing their faces against each other, while the little kid disappears behind them." /></p>
-        
-        <p>The rhinos are nearby. These are <a href="https://en.wikipedia.org/wiki/Southern_white_rhinoceros">southern white rhinoceroses</a>, <em>Ceratotherium simum simum</em>. Closing time was approaching and these were the first rhinos to come back into their enclosure from the outside, where they mingle with some antelopes and giraffes.</p>
-        
-        <p><img loading="lazy" src="2025-08-18-zoo-22.jpg" alt="The first rhino is looking into the enclosure and seeing humans on the other side, so it stops and tries to evaluate the situation." />
-        <img loading="lazy" src="2025-08-18-zoo-23.jpg" alt="The head of a rhinoceros with a very, very large horn." /></p>
-        
-        <p>Outside, more rhinos, antelopes, ostriches and giraffes were still out and about.</p>
-        
-        <p>These are <a href="https://en.wikipedia.org/wiki/Reticulated_giraffe">reticulated giraffes</a>, <em>Giraffa reticulata</em> and <a href="https://en.wikipedia.org/wiki/South_African_ostrich">South African ostriches</a>, <em>Struthio camelus australis</em>.</p>
-        
-        <p><img loading="lazy" src="2025-08-18-zoo-24.jpg" alt="The heads of two giraffes with their huge black eyes " />
-        <img loading="lazy" src="2025-08-18-zoo-25.jpg" alt="The head of an ostrich with its grey feathers." /></p>
-        
-        <p>Nearby, the super cute <a href="https://en.wikipedia.org/wiki/Meerkat">meerkat</a>, <em>Suricata suricatta</em>. One of them is always on the lookout.</p>
-        
-        <p><img loading="lazy" src="2025-08-18-zoo-26.jpg" alt="The lookout is standing upright and looking at the horizon and the sky, not at the people." />
-        <img loading="lazy" src="2025-08-18-zoo-27.jpg" alt="A meerkat baby!" /></p>
-        
-        <p>And finally, on the way out, we walked through the Masoala hall. So beautiful!</p>
-        
-        <p><img loading="lazy" src="2025-08-18-zoo-4.jpg" alt="The Masoala hall, from one of the two towers. A green jungle below." />
-        <img loading="lazy" src="2025-08-18-zoo-6.jpg" alt="A picture showing the walkway above the tree canopy connecting the two towers, with me standing there in the greenery." />
-        <img loading="lazy" src="2025-08-18-zoo-5.jpg" alt="A passion flower growing on a handrail." /></p>
-        
-        <p>The greatest moment was when we approached the bottom of one of the two towers. I walked around the corner and was looking at two <a href="https://en.wikipedia.org/wiki/Red_ruffed_lemur">red ruffed lemurs</a>, <em>Varecia rubra</em>.</p>
-        
-        <p><img loading="lazy" src="2025-08-18-zoo-3.jpg" alt="Two super cute lemurs with bright yellow eyes, black heads, red fur and black paws that look more like hands, and a long tail held up like a question-mark." />
-        <img loading="lazy" src="2025-08-18-zoo-1.jpg" alt="The lemurs climbed up a stone wall and walked around me." />
-        <img loading="lazy" src="2025-08-18-zoo-2.jpg" alt="The lemurs disappear into the jungle." /></p>
-        
-        <p>And then, we left!</p>
-        
-        <p><img loading="lazy" src="2025-08-18-zoo-28.jpg" alt="A very bright green gecko, Phelsuma grandis" /></p>
-        
-        <p><a class="tag" href="/search/?q=%23Zoo">#Zoo</a> <a class="tag" href="/search/?q=%23Animals">#Animals</a> <a class="tag" href="/search/?q=%23Photography">#Photography</a></p>
-        
-        <p><strong>2025-09-12</strong>. Urgh. Just heard that the baby elephant died. 😭</p>
-        
-        <p><strong>2025-09-12</strong>. Urgh. Just heard that the baby elephant died. 😭</p>]]>
-      </description>
-      <guid>cid://https://alexschroeder.ch/view/2025-08-18-zoo</guid>
-    </item>    <item>
-      <title>How to Navigate a City Without Street Addresses</title>
-      <link>https://kottke.org/25/09/how-to-navigate-a-city-without-street-addresses</link>
-      <guid>cid://tag:kottke.org,2025://5.47500</guid>
-    </item>    <item>
-      <title>Google Mishandling School Children’s Data</title>
-      <link>https://puri.sm/posts/google-mishandling-school-childrens-data/</link>
-      <description>
-        <![CDATA[<p>When Google agreed to pay $30 million to settle a class-action lawsuit over its unauthorized collection of children’s data on YouTube, it wasn’t a revelation—it was a confirmation. A confirmation that Google’s public posture of compliance often masks a deeper, more calculated strategy: delayed monetization through long-tail data mining.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/google-mishandling-school-childrens-data/">Google Mishandling School Children&#8217;s Data</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>When Google agreed to pay $30 million to settle a class-action lawsuit over its unauthorized collection of children’s data on YouTube, it wasn’t a revelation—it was a confirmation. A confirmation that Google’s public posture of compliance often masks a deeper, more calculated strategy: delayed monetization through long-tail data mining.
-
-The post [Google Mishandling School Children’s Data](https://puri.sm/posts/google-mishandling-school-childrens-data/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=84364</guid>
-    </item>    <item>
-      <title>How Albert Einstein Used His Fame to Denounce American Racism. &#38;#8220;As a...</title>
-      <link>https://kottke.org/25/09/0047497-how-albert-einstein-used-</link>
-      <guid>cid://tag:kottke.org,2025://13.47497</guid>
-    </item>    <item>
-      <link>https://www.thenation.com/article/politics/charlie-kirk-white-supremacist/#</link>
-      <description>
-        <![CDATA[<p>How to Canonize a White Supremacist.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/12/1053/</guid>
-    </item>    <item>
-      <title>Google wasn&#39;t against this privacy bill, officially. Behind the scenes, it orchestrated opposition</title>
-      <link>https://themarkup.org/privacy/2025/09/12/google-wasnt-against-this-privacy-bill-officially-behind-the-scenes-it-orchestrated-opposition</link>
-      <description>
-        <![CDATA[Google organized business owners against California legislation to force its Chrome web browser to safeguard personal data.]]>
-      </description>
-      <source:markdown>Google organized business owners against California legislation to force its Chrome web browser to safeguard personal data.</source:markdown>
-      <guid>cid://tag:themarkup.org,2019,81840</guid>
-    </item>    <item>
-      <title>David Friedman on how he created a fun little game called Doomscroll....</title>
-      <link>https://kottke.org/25/09/0047496-david-friedman-on-how-he</link>
-      <guid>cid://tag:kottke.org,2025://13.47496</guid>
-    </item>    <item>
-      <title>Behind the Blog: &#39;Free Speech&#39; and Open Dialogue</title>
-      <link>https://www.404media.co/behind-the-blog-free-speech-and-open-dialogue/</link>
-      <description>
-        <![CDATA[This week, we discuss "free speech," keeping stupid thoughts in one's own head, and cancel culture.]]>
-      </description>
-      <guid>cid://68c44a9275cea100016ab9a2</guid>
-    </item>    <item>
-      <title>The Hive Architect: Saving Britain&#38;#8217;s Wild Bees</title>
-      <link>https://kottke.org/25/09/the-hive-architect-saving-britains-wild-bees</link>
-      <guid>cid://tag:kottke.org,2025://5.47499</guid>
-    </item>    <item>
-      <title>Superfood for Honeybees</title>
-      <link>https://onefoottsunami.com/2025/09/12/superfood-for-honeybees/</link>
-      <guid>cid://https://onefoottsunami.com/?p=29137</guid>
-    </item>    <item>
-      <title>Note published on September 12, 2025 at 4:38 PM UTC</title>
-      <link>https://www.mollywhite.net/micro/entry/202509121237</link>
-      <guid>cid://68c44c72af8e0043c4ac1faa</guid>
-    </item>    <item>
-      <title>Note published on September 12, 2025 at 4:35 PM UTC</title>
-      <link>https://www.mollywhite.net/micro/entry/202509121228</link>
-      <guid>cid://68c44bc5af8e0043c4ac1f6c</guid>
-    </item>    <item>
-      <title>Published on Citation Needed: &#34;Issue 92 – The scam of all scams&#34;</title>
-      <link>https://citationneeded.news/issue-92</link>
-      <guid>cid://68c44815af8e0043c4ac1f0d</guid>
-    </item>    <item>
-      <link>https://techcrunch.com/2025/09/12/mastodon-rolls-out-quote-posts-with-protections-to-prevent-dunking/</link>
-      <description>
-        <![CDATA[<p>Mastodon rolls out quote posts with protections to prevent 'dunking.'</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/12/1049/</guid>
-    </item>    <item>
-      <title>Autos, mota y rocanrol: de las experiencias que me hubiera encantado vivir</title>
-      <link>https://www.palomitademaiz.net/resenas-autos-mota-y-rocanrol/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-autos-mota-y-rocanrol</link>
-      <description>
-        <![CDATA[<p>Dirección: J.M Cravioto. Guion: Christian Cueva, Ricardo Farias, J.M Cravioto. Elenco: Alejandro Speitzer, Emiliano Zurita, Juan Pablo de Santiago, Enrique Arrizon, Ianis Guerrero, Luis Curiel, Ruy Senderos, Carlo Basabe, Iván Lipkies Barro, Mikel Mateos. País: México. Más información de la película: https://www.imdb.com/title/tt36971130/ Autos, mota y rocanrol bien pudiera ser el título en español de Dazed [&#8230;]</p>
-        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-autos-mota-y-rocanrol/">Autos, mota y rocanrol: de las experiencias que me hubiera encantado vivir</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
-      </description>
-      <source:markdown>Dirección: J.M Cravioto. Guion: Christian Cueva, Ricardo Farias, J.M Cravioto. Elenco: Alejandro Speitzer, Emiliano Zurita, Juan Pablo de Santiago, Enrique Arrizon, Ianis Guerrero, Luis Curiel, Ruy Senderos, Carlo Basabe, Iván Lipkies Barro, Mikel Mateos. País: México. Más información de la película: https://www.imdb.com/title/tt36971130/ Autos, mota y rocanrol bien pudiera ser el título en español de Dazed \[…\]
-
-La entrada [Autos, mota y rocanrol: de las experiencias que me hubiera encantado vivir](https://www.palomitademaiz.net/resenas-autos-mota-y-rocanrol/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
-      <guid>cid://https://www.palomitademaiz.net/?p=25530</guid>
-    </item>    <item>
-      <title>A collection of newspaper front pages from around the world. (See also...</title>
-      <link>https://kottke.org/25/09/0047495-a-collection-of-newspaper</link>
-      <guid>cid://tag:kottke.org,2025://13.47495</guid>
-    </item>    <item>
-      <title>In the Future All Food Will Be Cooked in a Microwave, and if You Can’t Deal With That Then You Need to Get Out of the Kitchen – Random Thoughts</title>
-      <link>https://www.colincornaby.me/2025/08/in-the-future-all-food-will-be-cooked-in-a-microwave-and-if-you-cant-deal-with-that-then-you-need-to-get-out-of-the-kitchen/?utm_source=thefutureislikepie.beehiiv.com&#38;utm_medium=newsletter&#38;utm_campaign=unknotted&#38;_bhlid=</link>
-      <description>
-        <![CDATA[<p>A microwave isn&#8217;t going to take your job; a chef who knows how to use a microwave is going to take your job.</p>
-        
-        <p><a href="https://adactio.com/links/22129">adactio.com/links/22129</a></p>]]>
-      </description>
-      <guid>cid://https://www.colincornaby.me/2025/08/in-the-future-all-food-will-be-cooked-in-a-microwave-and-if-you-cant-deal-with-that-then-you-need-to-get-out-of-the-kitchen/?utm_source=thefutureislikepie.beehiiv.com&#38;utm_medium=newsletter&#38;utm_campaign=unknotted&#38;_bhlid=</guid>
-    </item>    <item>
-      <title>In the Future All Food Will Be Cooked in a Microwave, and if You Can’t Deal With That Then You Need to Get Out of the Kitchen – Random Thoughts</title>
-      <link>https://www.colincornaby.me/2025/08/in-the-future-all-food-will-be-cooked-in-a-microwave-and-if-you-cant-deal-with-that-then-you-need-to-get-out-of-the-kitchen/</link>
-      <description>
-        <![CDATA[<p>A microwave isn’t going to take your job; a chef who knows how to use a microwave is going to take your job.</p>
-        
-        <p><a href="https://adactio.com/links/22129">adactio.com/links/22129</a></p>]]>
-      </description>
-      <guid>cid://https://www.colincornaby.me/2025/08/in-the-future-all-food-will-be-cooked-in-a-microwave-and-if-you-cant-deal-with-that-then-you-need-to-get-out-of-the-kitchen/</guid>
-    </item>    <item>
-      <title>A Taste of Matter</title>
-      <link>https://doc.searls.com/2025/09/12/a-taste-of-matter/</link>
-      <description>
-        <![CDATA[We had a party recently that required cooking an enormous number of baby back ribs. To acquire a volume of barbeque sauce sufficient to soak all the slabs, we took a run to our nearest Costco (an hour away on the south side of Indianapolis), where thee were plenty of Kinder&#8217;s and Sweet Baby Ray&#8217;s. [&#8230;]]]>
-      </description>
-      <source:markdown>We had a party recently that required cooking an enormous number of baby back ribs. To acquire a volume of barbeque sauce sufficient to soak all the slabs, we took a run to our nearest Costco (an hour away on the south side of Indianapolis), where thee were plenty of Kinder’s and Sweet Baby Ray’s. \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/?p=19425</guid>
-    </item>    <item>
-      <title>Own Goal</title>
-      <link>https://www.profgalloway.com/own-goal/</link>
-      <description>
-        <![CDATA[<p>The Atlantic’s George Packer wrote: “Charlie Kirk’s murder is a tragedy for his family and a disaster for the country. In an atmosphere of national paranoia and hatred, each act of political violence makes the next one more likely.” But that’s not what this post is about. The murder is another example of our broken [&#8230;]</p>
-        <p>The post <a href="https://www.profgalloway.com/own-goal/">Own Goal</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>]]>
-      </description>
-      <source:markdown>The Atlantic’s George Packer wrote: “Charlie Kirk’s murder is a tragedy for his family and a disaster for the country. In an atmosphere of national paranoia and hatred, each act of political violence makes the next one more likely.” But that’s not what this post is about. The murder is another example of our broken \[…\]
-
-The post [Own Goal](https://www.profgalloway.com/own-goal/) appeared first on [No Mercy / No Malice](https://www.profgalloway.com).</source:markdown>
-      <guid>cid://https://www.profgalloway.com/?p=216287</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3lynlma3dr22r</link>
-      <description>
-        <![CDATA[Thinking about RSS 23 years on, https://rsdoiel.github.io/blog/2025/09/11/RSS_23_years_on.html]]>
-      </description>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3lynlma3dr22r</guid>
-    </item>    <item>
-      <title>Comcast Executives Warn Workers To Not Say The Wrong Thing About Charlie Kirk</title>
-      <link>https://www.404media.co/comcast-nbcuniversal-email-charlie-kirk/</link>
-      <description>
-        <![CDATA[An email sent to NBCUniversal employees, including journalists at NBC, MSNBC, CNBC, Bravo and more, eulogizes Charlie Kirk as an "advocate for open debate" and reminds staff that even milquetoast statements about Kirk's death can result in their firing.]]>
-      </description>
-      <guid>cid://68c4375375cea100016ab6c1</guid>
-    </item>    <item>
-      <title>Car Goes</title>
-      <link>https://doc.searls.com/2025/09/12/car-goes/</link>
-      <description>
-        <![CDATA[The other day I bought a refrigerator at Costco. When a guy rolled it out on a flat to help me lift it into the car, he said, &#8220;This isn&#8217;t going to fit in there.&#8221; Then it did. It might not have fit in some SUVs. And while it would have fit in the bed [&#8230;]]]>
-      </description>
-      <source:markdown>The other day I bought a refrigerator at Costco. When a guy rolled it out on a flat to help me lift it into the car, he said, “This isn’t going to fit in there.” Then it did. It might not have fit in some SUVs. And while it would have fit in the bed \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/?p=19418</guid>
-    </item>    <item>
-      <link>https://glammr.us/@IIIF/115191937739308342</link>
-      <description>
-        <![CDATA[<p>The September <a href="https://glammr.us/tags/IIIF" class="mention hashtag" rel="tag">#<span>IIIF</span></a> Newsletter is out! Open for: </p><p>🔊 CfP for the 2026 Online Meeting<br />🛠️ New tools<br />🎨 Van Gogh Worldwide</p><p>Read it in full: <a href="https://mailchi.mp/iiif/sept-2025" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">mailchi.mp/iiif/sept-2025</span><span class="invisible"></span></a><br />Sign-up for future newsletters: iiif.io/newsletter/</p>]]>
-      </description>
-      <source:markdown>The September [#IIIF](https://glammr.us/tags/IIIF) Newsletter is out! Open for:
-
-🔊 CfP for the 2026 Online Meeting
-
-🛠️ New tools
-
-🎨 Van Gogh Worldwide
-
-Read it in full: [https://mailchi.mp/iiif/sept-2025](https://mailchi.mp/iiif/sept-2025)
-
-Sign-up for future newsletters: iiif.io/newsletter/</source:markdown>
-      <guid>cid://https://glammr.us/@IIIF/115191937739308342</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/12.html#a144732</link>
-      <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2022/08/08/bootstrappingByEngelbart.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I did a podcast interview yesterday with <a href="https://mastodon.social/@nathanwrigley">Nathan Wrigley</a> at <a href="https://wptavern.com/">WP Tavern</a>. I had a great time, and learned a lot. It's interesting that while I am not a member of the WordPress community, there is a big intersection between that community and one I <i>do</i> belong to -- the web. WordPress was founded on the principles and idealism of the web. It's baked in. So it might be the largest community of users, not exclusively developers, who have the same values as the web, which are very very powerful values. I'm rediscovering them and it's wonderful. It means I can plug your app into my server and they work first time. It's the <i>just works</i> part that makes it the web. It makes you suck in your breath and go, I'm there now. One interesting thing that came up was the subject of altruism, which is something I reject re myself. It doesn't work if what I do is altruism, because we all must be somewhat committed to the success of our competitors, because if we don't we are locking people in. It's so important that users have freedom of movement. If they don't things stagnate like our 19 years of Twitter. I'm going to be Nathan's show again, and again if he'll have me, to check in on the progress of my humble project to create a new layer, combining WordPress and all the other good stuff that isn't hooked up to it yet. I could not have hoped for a better introduction to The Land of WordPress.]]>
-      </description>
-      <guid>cid://http://scripting.com/2025/09/12.html#a144732</guid>
-    </item>    <item>
-      <title>This YouTube channel has a bunch of 40-60 minute DJ mixes of...</title>
-      <link>https://kottke.org/25/09/0047492-this-youtube-channel-has-</link>
-      <guid>cid://tag:kottke.org,2025://13.47492</guid>
-    </item>    <item>
-      <title>CubeSats are fascinating learning tools for space</title>
-      <link>https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space</link>
-      <description>
-        <![CDATA[<span class="field field--name-title field--type-string field--label-hidden">CubeSats are fascinating learning tools for space</span>
-        
-                    <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="https://www.jeffgeerling.com/sites/default/files/images/four-cubesats-together.jpeg" width="700" height="394" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-fbd23249-1ddc-40cf-a157-77b2ea4f0c6e" data-insert-attach="{&quot;id&quot;:&quot;fbd23249-1ddc-40cf-a157-77b2ea4f0c6e&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Cubesats together"></p>
-        
-        <p>These are CubeSats. Satellites that are going to space—or at least, the ones I have here are <em>prototypes</em>. But these have one thing in common: they're all powered by either a Raspberry Pi, or a microcontroller.</p></div>
-              <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
-        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-09-12T09:01:41-05:00" title="Friday, September 12, 2025 - 09:01" class="datetime">September 12, 2025</time>
-        </span>]]>
-      </description>
-      <source:markdown>CubeSats are fascinating learning tools for space
-
-![Cubesats together](https://www.jeffgeerling.com/sites/default/files/images/four-cubesats-together.jpeg)
-
-These are CubeSats. Satellites that are going to space—or at least, the ones I have here are _prototypes_. But these have one thing in common: they&#39;re all powered by either a Raspberry Pi, or a microcontroller.
-
-Jeff GeerlingSeptember 12, 2025</source:markdown>
-      <guid>cid://3492 at https://www.jeffgeerling.com</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115191627632633621</link>
-      <description>
-        <![CDATA[<p>Happy Cosmic Orange day to all who celebrate!</p>]]>
-      </description>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115191627632633621</guid>
-    </item>    <item>
-      <title>Enjoyed these thoughts from food critics about what they&#38;#8217;d like to see...</title>
-      <link>https://kottke.org/25/09/0047487-enjoyed-these-thoughts-fr</link>
-      <guid>cid://tag:kottke.org,2025://13.47487</guid>
-    </item>    <item>
-      <title>Web Development according to Grok is all about libraries…</title>
-      <link>https://christianheilmann.com/2025/09/12/web-development-according-to-grok-is-all-about-libraries/</link>
-      <description>
-        <![CDATA[Cleaning out some old boxes trying to find an old work contract I came across a sticker sheet I got back when HTML5 became a standard that has all the icons on there the W3C defined as part of the &#8220;web reboot&#8221;: I posted it around on social media to see who can remember them [&#8230;]]]>
-      </description>
-      <source:markdown>Cleaning out some old boxes trying to find an old work contract I came across a sticker sheet I got back when HTML5 became a standard that has all the icons on there the W3C defined as part of the “web reboot”: I posted it around on social media to see who can remember them \[…\]</source:markdown>
-      <guid>cid://https://christianheilmann.com/?p=8596</guid>
-    </item>    <item>
-      <title>New Job</title>
-      <link>https://johnjohnston.info/blog/new-job/</link>
-      <description>
-        <![CDATA[New job, I&#8217;ve got a very part time job (up to 2 days a month).The job is to help schools in North Lanarkshire access the Edina Trust non- competitive, guaranteed, grants for science education. £800 per year for two years. I sort of wish I was still working and could get the grant.]]>
-      </description>
-      <source:markdown>New job, I’ve got a very part time job (up to 2 days a month).The job is to help schools in North Lanarkshire access the Edina Trust non- competitive, guaranteed, grants for science education. £800 per year for two years. I sort of wish I was still working and could get the grant.</source:markdown>
-      <guid>cid://https://johnjohnston.info/blog/?p=21182</guid>
-    </item>    <item>
-      <title>Waving the Bloody Shirt</title>
-      <link>https://paulkrugman.substack.com/p/waving-the-bloody-shirt</link>
-      <description>
-        <![CDATA[We don&#8217;t know who killed Charlie Kirk. We do know who&#8217;s trying to exploit his death.]]>
-      </description>
-      <source:markdown>We don’t know who killed Charlie Kirk. We do know who’s trying to exploit his death.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!kycy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f0f29ce-ee8b-4956-82de-0b37896c049c_1318x660.png" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/waving-the-bloody-shirt</guid>
-    </item>    <item>
-      <title>Build a tiny open-source underwater vehicle</title>
-      <link>https://www.raspberrypi.com/news/build-a-tiny-open-source-underwater-vehicle/</link>
-      <description>
-        <![CDATA[<p>With some 3D printing, motors, and a Raspberry Pi Pico, you can be up and running with an underwater explorer!</p>
-        <p>The post <a href="https://www.raspberrypi.com/news/build-a-tiny-open-source-underwater-vehicle/">Build a tiny open-source underwater vehicle</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
-      </description>
-      <source:markdown>With some 3D printing, motors, and a Raspberry Pi Pico, you can be up and running with an underwater explorer!
-
-The post [Build a tiny open-source underwater vehicle](https://www.raspberrypi.com/news/build-a-tiny-open-source-underwater-vehicle/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
-      <guid>cid://https://www.raspberrypi.com/?p=130094</guid>
-    </item>    <item>
-      <link>https://www.politico.com/news/2025/09/11/supreme-court-emergency-rulings-judges-00558058</link>
-      <description>
-        <![CDATA[<p>Appeals court judges publicly admonish Supreme Court justices: ‘We’re out here flailing.’</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/12/1047/</guid>
-    </item>    <item>
-      <title>Invisible Dependencies, Visible Damage: The Case for Supply Chain Hygiene</title>
-      <link>https://puri.sm/posts/invisible-dependencies-visible-damage-the-case-for-supply-chain-hygiene/</link>
-      <description>
-        <![CDATA[<p>On September 8th, Check Point Research confirmed what many of us in the privacy and security trenches have been warning about for years: the weakest link in your security posture may not be your systems at all — it may be the invisible web of third-party integrations you’ve tacitly approved, often without full visibility into their downstream dependencies.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/invisible-dependencies-visible-damage-the-case-for-supply-chain-hygiene/">Invisible Dependencies, Visible Damage: The Case for Supply Chain Hygiene</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>On September 8th, Check Point Research confirmed what many of us in the privacy and security trenches have been warning about for years: the weakest link in your security posture may not be your systems at all — it may be the invisible web of third-party integrations you’ve tacitly approved, often without full visibility into their downstream dependencies.
-
-The post [Invisible Dependencies, Visible Damage: The Case for Supply Chain Hygiene](https://puri.sm/posts/invisible-dependencies-visible-damage-the-case-for-supply-chain-hygiene/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=84291</guid>
-    </item>    <item>
-      <title>London Transport Museum Depot Open Days</title>
-      <link>https://simonwillison.net/2025/Sep/12/transport-museum-depot/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://www.ltmuseum.co.uk/whats-on/depot-open-days">London Transport Museum Depot Open Days</a></strong></p>
-        I just found out about this (<a href="https://chatgpt.com/share/68c3dd56-3544-8006-bf0f-e3c7828acb9c">thanks, ChatGPT</a>) and I'm heart-broken to learn that I'm in London a week too early! If you are in London next week (Thursday 18th through Sunday 21st 2025) you should definitely know about it:</p>
-        <blockquote>
-        <p>The Museum Depot in Acton is our working museum store, and a treasure trove of over 320,000 objects.</p>
-        <p>Three times a year, we throw open the doors and welcome thousands of visitors to explore. Discover rare road and rail vehicles spanning over 100 years, signs, ceramic tiles, original posters, ephemera, ticket machines, and more.</p>
-        </blockquote>
-        <p>And if you can go on Saturday 20th or Sunday 21st you can ride the small-scale railway there!</p>
-        <blockquote>
-        <p>The Depot is also home to the <a href="https://www.ltmuseum.co.uk/visit/museum-depot/london-transport-miniature-railway">London Transport Miniature Railway</a>, a working miniature railway based on real London Underground locomotives, carriages, signals and signs run by our volunteers.</p>
-        </blockquote>
-        <p>Note that this "miniature railway" is not the same thing as a model railway - it uses a 7¼ in gauge railway and you can sit on top of and ride the carriages.
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/london">london</a>, <a href="https://simonwillison.net/tags/museums">museums</a>, <a href="https://simonwillison.net/tags/ai-assisted-search">ai-assisted-search</a></p>]]>
-      </description>
-      <guid>cid://https://simonwillison.net/2025/Sep/12/transport-museum-depot/#atom-everything</guid>
-    </item>    <item>
-      <title>Trump’s cynical use of the Kirk assassination</title>
-      <link>https://robertreich.substack.com/p/trumps-cynical-divisiveness</link>
-      <description>
-        <![CDATA[Rather than appeal to the better angels of our nature, he appeals to the worst of our demons]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!5qHk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9396915-6570-466d-bfec-d2acf840f48a_1417x934.png" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/trumps-cynical-divisiveness</guid>
-    </item>    <item>
-      <link>https://electrek.co/2025/09/11/hyundai-now-delaying-ev-battery-plant-raided-by-ice/</link>
-      <description>
-        <![CDATA[<p>Hyundai is now delaying its EV battery plant that was raided by ICE.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/12/1045/</guid>
-    </item>    <item>
-      <title>Comparing the memory implementations of Claude and ChatGPT</title>
-      <link>https://simonwillison.net/2025/Sep/12/claude-memory/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://www.shloked.com/writing/claude-memory">Claude Memory: A Different Philosophy</a></strong></p>
-        Shlok Khemani has been doing excellent work reverse-engineering LLM systems and documenting his discoveries.</p>
-        <p>Last week he <a href="https://www.shloked.com/writing/chatgpt-memory-bitter-lesson">wrote about ChatGPT memory</a>. This week it's Claude.</p>
-        <blockquote>
-        <p>Claude's memory system has two fundamental characteristics. First, it starts every conversation with a blank slate, without any preloaded user profiles or conversation history. Memory only activates when you explicitly invoke it. Second, Claude recalls by only referring to your raw conversation history. There are no AI-generated summaries or compressed profiles—just real-time searches through your actual past chats.</p>
-        </blockquote>
-        <p>Claude's memory is implemented as two new function tools that are made available for a Claude to call. I <a href="https://claude.ai/share/18754235-198d-446b-afc6-26191ea62d27">confirmed this myself</a> with the prompt "<code>Show me a list of tools that you have available to you, duplicating their original names and descriptions</code>" which gave me back these:</p>
-        <blockquote>
-        <p><strong>conversation_search</strong>: Search through past user conversations to find relevant context and information</p>
-        <p><strong>recent_chats</strong>:  Retrieve recent chat conversations with customizable sort order (chronological or reverse chronological), optional pagination using 'before' and 'after' datetime filters, and project filtering</p>
-        </blockquote>
-        <p>The good news here is <em>transparency</em> - Claude's memory feature is implemented as visible tool calls, which means you can see exactly when and how it is accessing previous context.</p>
-        <p>This helps address my big complaint about ChatGPT memory (see <a href="https://simonwillison.net/2025/May/21/chatgpt-new-memory/">I really don’t like ChatGPT’s new memory dossier</a> back in May) - I like to understand as much as possible about what's going into my context so I can better anticipate how it is likely to affect the model.</p>
-        <p>The OpenAI system is <a href="https://simonwillison.net/2025/May/21/chatgpt-new-memory/#how-this-actually-works"><em>very</em> different</a>: rather than letting the model decide when to access memory via tools, OpenAI instead automatically include details of previous conversations at the start of every conversation.</p>
-        <p><a href="https://www.shloked.com/writing/chatgpt-memory-bitter-lesson">Shlok's notes on ChatGPT's memory</a> did include one detail that I had previously missed that I find reassuring:</p>
-        <blockquote>
-        <p>Recent Conversation Content is a history of your latest conversations with ChatGPT, each timestamped with topic and selected messages. [...] Interestingly, only the user's messages are surfaced, not the assistant's responses.</p>
-        </blockquote>
-        <p>One of my big worries about memory was that it could harm my "clean slate" approach to chats: if I'm working on code and the model starts going down the wrong path (getting stuck in a bug loop for example) I'll start a fresh chat to wipe that rotten context away. I had worried that ChatGPT memory would bring that bad context along to the next chat, but omitting the LLM responses makes that much less of a risk than I had anticipated.</p>
-        <p><strong>Update</strong>: Here's a slightly confusing twist: yesterday in <a href="https://www.anthropic.com/news/memory">Bringing memory to teams at work</a> Anthropic revealed an <em>additional</em> memory feature, currently only available to Team and Enterprise accounts, with a feature checkbox labeled "Generate memory of chat history" that looks much more similar to the OpenAI implementation:</p>
-        <blockquote>
-        <p>With memory, Claude focuses on learning your professional context and work patterns to maximize productivity. It remembers your team’s processes, client needs, project details, and priorities. [...]</p>
-        <p>Claude uses a memory summary to capture all its memories in one place for you to view and edit. In your settings, you can see exactly what Claude remembers from your conversations, and update the summary at any time by chatting with Claude.</p>
-        </blockquote>
-        <p>I haven't experienced this feature myself yet as it isn't part of my Claude subscription. I'm glad to hear it's fully transparent and can be edited by the user, resolving another of my complaints about the ChatGPT implementation.</p>
-        <p>This version of Claude memory also takes Claude Projects into account:</p>
-        <blockquote>
-        <p>If you use projects, <strong>Claude creates a separate memory for each project</strong>. This ensures that your product launch planning stays separate from client work, and confidential discussions remain separate from general operations.</p>
-        </blockquote>
-        <p>I <a href="https://simonwillison.net/2025/Aug/22/project-memory/">praised OpenAI for adding this</a> a few weeks ago.
-        
-            <p><small></small>Via <a href="https://news.ycombinator.com/item?id=45214908">Hacker News</a></small></p>
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/llm-memory">llm-memory</a></p>]]>
-      </description>
-      <guid>cid://https://simonwillison.net/2025/Sep/12/claude-memory/#atom-everything</guid>
-    </item>    <item>
-      <title>September 11, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-11-2025</link>
-      <description>
-        <![CDATA[Twenty-four years ago today, terrorists from the al-Qaeda network used four civilian airplanes as weapons against the United States, crashing two of them into the World Trade Center&#8217;s Twin Towers in New York City and a third into the Pentagon in Arlington, Virginia.]]>
-      </description>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-11-2025</guid>
-    </item>    <item>
-      <title>Qwen3-Next-80B-A3B: 🐧🦩 Who needs legs?!</title>
-      <link>https://simonwillison.net/2025/Sep/12/qwen3-next/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://x.com/Alibaba_Qwen/status/1966197643904000262">Qwen3-Next-80B-A3B</a></strong></p>
-        Qwen announced two new models via their Twitter account (and here's <a href="https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&amp;from=research.latest-advancements-list">their blog</a>): <a href="https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct">Qwen3-Next-80B-A3B-Instruct</a> and <a href="https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Thinking">Qwen3-Next-80B-A3B-Thinking</a>.</p>
-        <p>They make some big claims on performance:</p>
-        <blockquote>
-        <ul>
-        <li>Qwen3-Next-80B-A3B-Instruct approaches our 235B flagship.</li>
-        <li>Qwen3-Next-80B-A3B-Thinking outperforms Gemini-2.5-Flash-Thinking.</li>
-        </ul>
-        </blockquote>
-        <p>The name "80B-A3B" indicates 80 billion parameters of which only 3 billion are active at a time. You still need to have enough GPU-accessible RAM to hold all 80 billion in memory at once but only 3 billion will be used for each round of inference, which provides a <em>significant</em> speedup in responding to prompts.</p>
-        <p>More details from their tweet:</p>
-        <blockquote>
-        <ul>
-        <li>80B params, but only 3B activated per token → 10x cheaper training, 10x faster inference than Qwen3-32B.(esp. @ 32K+ context!)</li>
-        <li>Hybrid Architecture: Gated DeltaNet + Gated Attention → best of speed &amp; recall</li>
-        <li>Ultra-sparse MoE: 512 experts, 10 routed + 1 shared</li>
-        <li>Multi-Token Prediction → turbo-charged speculative decoding</li>
-        <li>Beats Qwen3-32B in perf, rivals Qwen3-235B in reasoning &amp; long-context</li>
-        </ul>
-        </blockquote>
-        <p>The models on Hugging Face are around 150GB each so I decided to try them out via <a href="https://openrouter.ai/">OpenRouter</a> rather than on my own laptop (<a href="https://openrouter.ai/qwen/qwen3-next-80b-a3b-thinking">Thinking</a>, <a href="https://openrouter.ai/qwen/qwen3-next-80b-a3b-instruct">Instruct</a>).</p>
-        <p>I'm used my <a href="https://github.com/simonw/llm-openrouter">llm-openrouter</a> plugin. I installed it like this:</p>
-        <pre><code>llm install llm-openrouter
-        llm keys set openrouter
-        # paste key here
-        </code></pre>
-        <p>Then found the model IDs with this command:</p>
-        <pre><code>llm models -q next
-        </code></pre>
-        <p>Which output:</p>
-        <pre><code>OpenRouter: openrouter/qwen/qwen3-next-80b-a3b-thinking
-        OpenRouter: openrouter/qwen/qwen3-next-80b-a3b-instruct
-        </code></pre>
-        <p>I have an LLM <a href="https://llm.datasette.io/en/stable/templates.html">prompt template</a> saved called <code>pelican-svg</code> which I created like this:</p>
-        <pre><code>llm "Generate an SVG of a pelican riding a bicycle" --save pelican-svg
-        </code></pre>
-        <p>This means I can run <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle/">my pelican benchmark</a> like this:</p>
-        <pre><code>llm -t pelican-svg -m openrouter/qwen/qwen3-next-80b-a3b-thinking
-        </code></pre>
-        <p>Or like this:</p>
-        <pre><code>llm -t pelican-svg -m openrouter/qwen/qwen3-next-80b-a3b-instruct
-        </code></pre>
-        <p>Here's the <a href="https://gist.github.com/simonw/d1a0d0ff719d609bc6fad2e133e7cbe9">thinking model output</a> (exported with <code>llm logs -c | pbcopy</code> after I ran the prompt):</p>
-        <p><img alt="The bicycle is too simple and way too wide. The pelican is two circles, two orange triangular feed and a big triangle for the beak." src="https://static.simonwillison.net/static/2025/qwen3-next-80b-a3b-thinking.png" /></p>
-        <p>I enjoyed the "Whimsical style with smooth curves and friendly proportions (no anatomical accuracy needed for bicycle riding!)" note in <a href="https://gist.github.com/simonw/d1a0d0ff719d609bc6fad2e133e7cbe9#prompt">the transcript</a>.</p>
-        <p>The instruct (non-reasoning) model <a href="https://gist.github.com/simonw/cc740a45beed5655faffa69da1e999f5">gave me this</a>:</p>
-        <p><img alt="Blue background, brown ground, bicycle looks more like a wheelchair, pelican is actually quite good though - has thin grey wings and a perky yellow long triangular beak. Above the pelican is the caption Who needs legs?! with an emoji sequence of penguin then flamingo." src="https://static.simonwillison.net/static/2025/qwen3-next-80b-a3b-instruct.png" /></p>
-        <p>"🐧🦩 Who needs legs!?" indeed! I like that penguin-flamingo emoji sequence it's decided on for pelicans.
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/openrouter">openrouter</a>, <a href="https://simonwillison.net/tags/ai-in-china">ai-in-china</a></p>]]>
-      </description>
-      <guid>cid://https://simonwillison.net/2025/Sep/12/qwen3-next/#atom-everything</guid>
-    </item>    <item>
-      <title>Saying Exactly What You Mean</title>
-      <link>https://feed.tedium.co/link/8775/17142311/did-god-send-the-flood-because-of-the-nephilim</link>
-      <description>
-        <![CDATA[On trying to thread the needle of an honest statement during trying times full of chaos. As a creative person, how do you navigate it? (As always, Jesse Welles makes it look easy.)]]>
-      </description>
-      <guid>cid://https://tedium.co/2025/09/11/honest-statements-complex-culture/</guid>
-    </item>    <item>
-      <title>Saying Exactly What You Mean</title>
-      <link>https://feed.tedium.co/link/15204/17142310/honest-statements-complex-culture</link>
-      <description>
-        <![CDATA[On trying to thread the needle of an honest statement during trying times full of chaos. As a creative person, how do you navigate it? (As always, Jesse Welles makes it look easy.)]]>
-      </description>
-      <source:markdown>On trying to thread the needle of an honest statement during trying times full of chaos. As a creative person, how do you navigate it? (As always, Jesse Welles makes it look easy.)</source:markdown>
-      <guid>cid://https://tedium.co/2025/09/11/honest-statements-complex-culture/</guid>
-    </item>    <item>
-      <title>Note published on September 12, 2025 at 2:41 AM UTC</title>
-      <link>https://www.mollywhite.net/micro/entry/202509112239</link>
-      <guid>cid://68c3886baf8e0043c4ac1ed5</guid>
-    </item>    <item>
-      <title>Note published on September 12, 2025 at 1:33 AM UTC</title>
-      <link>https://www.mollywhite.net/micro/entry/202509112127</link>
-      <guid>cid://68c37861af8e0043c4ac1dca</guid>
-    </item>    <item>
-      <title>crates.io phishing campaign</title>
-      <link>https://blog.rust-lang.org/2025/09/12/crates-io-phishing-campaign/</link>
-      <guid>cid://https://blog.rust-lang.org/2025/09/12/crates-io-phishing-campaign/</guid>
-    </item>    <item>
-      <title>How Benjamin Franklin Invented Machine Learning in 1720</title>
-      <link>https://spf13.com/p/how-benjamin-franklin-invented-machine-learning-in-1720/</link>
-      <description>
-        <![CDATA[<p><em>How a teenage printer&rsquo;s writing exercise reverse-engineered the timeless principles of learning.</em></p>
-        <p>The core algorithm that powers today&rsquo;s most advanced artificial intelligence wasn&rsquo;t born in Silicon Valley or has anything to do with computers. It was engineered in the dusty, ink stained backroom of a Boston print shop, nearly 300 years ago, by a teenager who was tired of being told he wasn&rsquo;t a good writer.</p>
-        <p>Long before he was a world famous statesman and inventor, Benjamin Franklin was an ambitious, self taught apprentice with a chip on his shoulder. Working for his older brother, he devoured books and secretly submitted anonymous essays to his brother&rsquo;s newspaper, desperate to succeed in this world of words. But he had a problem. While his ideas were sharp, his prose was clumsy.</p>]]>
-      </description>
-      <source:markdown>_How a teenage printer’s writing exercise reverse-engineered the timeless principles of learning._
-
-The core algorithm that powers today’s most advanced artificial intelligence wasn’t born in Silicon Valley or has anything to do with computers. It was engineered in the dusty, ink stained backroom of a Boston print shop, nearly 300 years ago, by a teenager who was tired of being told he wasn’t a good writer.
-
-Long before he was a world famous statesman and inventor, Benjamin Franklin was an ambitious, self taught apprentice with a chip on his shoulder. Working for his older brother, he devoured books and secretly submitted anonymous essays to his brother’s newspaper, desperate to succeed in this world of words. But he had a problem. While his ideas were sharp, his prose was clumsy.</source:markdown>
-      <guid>cid://https://spf13.com/p/how-benjamin-franklin-invented-machine-learning-in-1720/</guid>
-    </item>    <item>
-      <title>GHC 9.14.1-alpha2 is now available</title>
-      <link>http://haskell.org/ghc/blog/2025-09-12-ghc-9.14.1-alpha2-released.html</link>
-      <description>
-        <![CDATA[<h1>GHC 9.14.1-alpha2 is now available</h1>
-        <h4 class="text-muted">bgamari - 2025-09-12</h4>
-        
-        <p>The GHC developers are very pleased to announce the availability of the
-        second alpha prerelease of GHC 9.14.1. Binary distributions, source
-        distributions, and documentation are available at <a href="https://downloads.haskell.org/ghc/9.14.1-alpha2">downloads.haskell.org</a>.</p>
-        <p>GHC 9.14 will bring a number of new features and improvements, including:</p>
-        <ul>
-        <li><p>Significant improvements in specialisation:</p>
-        <ul>
-        <li><p>The <code>SPECIALISE</code> pragma now allows use of type application syntax</p></li>
-        <li><p>The <code>SPECIALISE</code> pragma can be used to specialise for expression arguments
-        as well as type arguments.</p></li>
-        <li><p>Specialisation is now considerably more reliable in the presence of
-        <code>newtype</code>s</p></li>
-        </ul></li>
-        <li><p>Significant improvements in the GHCi debugger</p></li>
-        <li><p>Record fields can be defined to be non-linear when <code>LinearTypes</code> is enabled.</p></li>
-        <li><p><code>RequiredTypeArgments</code> can now be used in more contexts</p></li>
-        <li><p>SSE/AVX2 support in the x86 native code generator backend</p></li>
-        <li><p>A major update of the Windows toolchain</p></li>
-        <li><p>… and many more</p></li>
-        </ul>
-        <p>A full accounting of changes can be found in the <a href="https://downloads.haskell.org/ghc/9.14.1-alpha2/docs/users_guide/9.14.1-notes.html">release notes</a>. Given the
-        many specialisation improvements and their potential for regression, we would
-        very much appreciate testing and performance characterisation on downstream
-        workloads.</p>
-        <p>Observant readers of these prerelease announcements will note that polymorphic
-        specialisation has been dropped from alpha 2. This measure was taken out of an
-        abundance of caution after finding a miscompilation during testing of alpha 1.
-        While this bug will be fixed in the next alpha, we expect to keep polymorphic
-        specialisation disabled by default in the final release. Users needing more
-        aggressive specialisation can explicitly enable this feature with the
-        <code>-fpolymorphic-specialisation</code> flag. Depending upon our experience with 9.14.1,
-        we may enable this feature by default in a later minor release.</p>
-        <p>This is the second of three expected alpha prereleases. We expect the next
-        (third) alpha will come 23 Sept. 2025, with the release candidate coming 7 Oct.
-        2025.</p>
-        <p>We would like to thank the Zw3rk stake pool, Well-Typed, Mercury, Channable,
-        Tweag I/O, Serokell, SimSpace, the Haskell Foundation, and other anonymous
-        contributors whose on-going financial and in-kind support has facilitated GHC
-        maintenance and release management over the years. Finally, this release would
-        not have been possible without the hundreds of open-source contributors whose
-        work have made the Haskell ecosystem what it is today.</p>
-        <p>As always, do give this release a try and open a <a href="https://gitlab.haskell.org/ghc/homepage/-/issues/new">ticket</a> if you see
-        anything amiss.</p>]]>
-      </description>
-      <guid>cid://http://haskell.org/ghc/blog/2025-09-12-ghc-9.14.1-alpha2-released.html</guid>
-    </item>    <item>
-      <title>How we welcome new customers at Buttondown</title>
-      <link>https://buttondown.com/blog/onboarding</link>
-      <description>
-        <![CDATA[A look at Buttondown's new onboarding process and how we help diverse customers get started.]]>
-      </description>
-      <source:markdown>A look at Buttondown&#39;s new onboarding process and how we help diverse customers get started.</source:markdown>
-    </item>    <item>
-      <title>Development Priorities for 2025/26</title>
-      <link>https://www.redox-os.org/news/development-priorities-2025-09/</link>
-      <description>
-        <![CDATA[<p>Redox has made great strides over the past year, with notable improvements in stability, performance, and compatibility.</p>
-        <p>To give a big-picture perspective for where Redox development is headed, here is our view of priorities as of September, 2025.
-        Obviously, we can&rsquo;t finish everything on this list in the next 15 months,
-        but it would be nice to have people working on as many of these things as possible.</p>
-        <h3 id="redox-variants">Redox Variants</h3>
-        <ul>
-        <li>&ldquo;Hosted Redox&rdquo; as a Web Services Runtime, in a Virtual Machine</li>
-        <li>&ldquo;Redox Server&rdquo; for Edge and Cloud</li>
-        <li>&ldquo;Redox Desktop&rdquo; for your daily driver</li>
-        </ul>
-        <h3 id="development-priorities">Development Priorities</h3>
-        <ul>
-        <li>Building Redox on Redox</li>
-        <li>Compliance and Compatibility</li>
-        <li>Programming Language and Build System Support</li>
-        <li>Performance</li>
-        <li>Security</li>
-        <li>Hardware Support</li>
-        <li>COSMIC, Wayland, and GPU Acceleration</li>
-        <li>Accessibility</li>
-        </ul>
-        <h2 id="how-can-you-help">How can you help?</h2>
-        <p>Here are some ways you can help us move Redox closer to our goals.</p>]]>
-      </description>
-      <source:markdown>Redox has made great strides over the past year, with notable improvements in stability, performance, and compatibility.
-
-To give a big-picture perspective for where Redox development is headed, here is our view of priorities as of September, 2025.
-Obviously, we can’t finish everything on this list in the next 15 months,
-but it would be nice to have people working on as many of these things as possible.
-
-### Redox Variants
-
-- “Hosted Redox” as a Web Services Runtime, in a Virtual Machine
-- “Redox Server” for Edge and Cloud
-- “Redox Desktop” for your daily driver
-
-### Development Priorities
-
-- Building Redox on Redox
-- Compliance and Compatibility
-- Programming Language and Build System Support
-- Performance
-- Security
-- Hardware Support
-- COSMIC, Wayland, and GPU Acceleration
-- Accessibility
-
-## How can you help?
-
-Here are some ways you can help us move Redox closer to our goals.</source:markdown>
-      <guid>cid://https://www.redox-os.org/news/development-priorities-2025-09/</guid>
-    </item>    <item>
-      <title>GHC 9.14.1-alpha2 is now available</title>
-      <link>http://haskell.org/ghc/blog/20250912-ghc-9.14.1-alpha2-released.html</link>
-      <description>
-        <![CDATA[<h1>GHC 9.14.1-alpha2 is now available</h1>
-        <h4 class="text-muted">bgamari - 2025-09-12</h4>
-        
-        <p>The GHC developers are very pleased to announce the availability of the
-        second alpha prerelease of GHC 9.14.1. Binary distributions, source
-        distributions, and documentation are available at <a href="https://downloads.haskell.org/ghc/9.14.1-alpha2">downloads.haskell.org</a>.</p>
-        <p>GHC 9.14 will bring a number of new features and improvements, including:</p>
-        <ul>
-        <li><p>Significant improvements in specialisation:</p>
-        <ul>
-        <li><p>The <code>SPECIALISE</code> pragma now allows use of type application syntax</p></li>
-        <li><p>The <code>SPECIALISE</code> pragma can be used to specialise for expression arguments
-        as well as type arguments.</p></li>
-        <li><p>Specialisation is now considerably more reliable in the presence of
-        <code>newtype</code>s</p></li>
-        </ul></li>
-        <li><p>Significant improvements in the GHCi debugger</p></li>
-        <li><p>Record fields can be defined to be non-linear when <code>LinearTypes</code> is enabled.</p></li>
-        <li><p><code>RequiredTypeArgments</code> can now be used in more contexts</p></li>
-        <li><p>SSE/AVX2 support in the x86 native code generator backend</p></li>
-        <li><p>A major update of the Windows toolchain</p></li>
-        <li><p>… and many more</p></li>
-        </ul>
-        <p>A full accounting of changes can be found in the <a href="https://downloads.haskell.org/ghc/9.14.1-alpha2/docs/users_guide/9.14.1-notes.html">release notes</a>. Given the
-        many specialisation improvements and their potential for regression, we would
-        very much appreciate testing and performance characterisation on downstream
-        workloads.</p>
-        <p>Observant readers of these prerelease announcements will note that polymorphic
-        specialisation has been dropped from alpha 2. This measure was taken out of an
-        abundance of caution after finding a miscompilation during testing of alpha 1.
-        While this bug will be fixed in the next alpha, we expect to keep polymorphic
-        specialisation disabled by default in the final release. Users needing more
-        aggressive specialisation can explicitly enable this feature with the
-        <code>-fpolymorphic-specialisation</code> flag. Depending upon our experience with 9.14.1,
-        we may enable this feature by default in a later minor release.</p>
-        <p>This is the second of three expected alpha prereleases. We expect the next
-        (third) alpha will come 23 Sept. 2025, with the release candidate coming 7 Oct.
-        2025.</p>
-        <p>We would like to thank the Zw3rk stake pool, Well-Typed, Mercury, Channable,
-        Tweag I/O, Serokell, SimSpace, the Haskell Foundation, and other anonymous
-        contributors whose on-going financial and in-kind support has facilitated GHC
-        maintenance and release management over the years. Finally, this release would
-        not have been possible without the hundreds of open-source contributors whose
-        work have made the Haskell ecosystem what it is today.</p>
-        <p>As always, do give this release a try and open a <a href="https://gitlab.haskell.org/ghc/homepage/-/issues/new">ticket</a> if you see
-        anything amiss.</p>]]>
-      </description>
-      <source:markdown># GHC 9.14.1-alpha2 is now available
-
-#### bgamari - 2025-09-12
-
-The GHC developers are very pleased to announce the availability of the
-second alpha prerelease of GHC 9.14.1. Binary distributions, source
-distributions, and documentation are available at [downloads.haskell.org](https://downloads.haskell.org/ghc/9.14.1-alpha2).
-
-GHC 9.14 will bring a number of new features and improvements, including:
-
-- Significant improvements in specialisation:
-
-  - The `SPECIALISE` pragma now allows use of type application syntax
-
-  - The `SPECIALISE` pragma can be used to specialise for expression arguments
-    as well as type arguments.
-
-  - Specialisation is now considerably more reliable in the presence of
-    `newtype` s
-- Significant improvements in the GHCi debugger
-
-- Record fields can be defined to be non-linear when `LinearTypes` is enabled.
-
-- `RequiredTypeArgments` can now be used in more contexts
-
-- SSE/AVX2 support in the x86 native code generator backend
-
-- A major update of the Windows toolchain
-
-- … and many more
-
-
-A full accounting of changes can be found in the [release notes](https://downloads.haskell.org/ghc/9.14.1-alpha2/docs/users_guide/9.14.1-notes.html). Given the
-many specialisation improvements and their potential for regression, we would
-very much appreciate testing and performance characterisation on downstream
-workloads.
-
-Observant readers of these prerelease announcements will note that polymorphic
-specialisation has been dropped from alpha 2. This measure was taken out of an
-abundance of caution after finding a miscompilation during testing of alpha 1.
-While this bug will be fixed in the next alpha, we expect to keep polymorphic
-specialisation disabled by default in the final release. Users needing more
-aggressive specialisation can explicitly enable this feature with the
-`-fpolymorphic-specialisation` flag. Depending upon our experience with 9.14.1,
-we may enable this feature by default in a later minor release.
-
-This is the second of three expected alpha prereleases. We expect the next
-(third) alpha will come 23 Sept. 2025, with the release candidate coming 7 Oct.
-2025.
-
-We would like to thank the Zw3rk stake pool, Well-Typed, Mercury, Channable,
-Tweag I/O, Serokell, SimSpace, the Haskell Foundation, and other anonymous
-contributors whose on-going financial and in-kind support has facilitated GHC
-maintenance and release management over the years. Finally, this release would
-not have been possible without the hundreds of open-source contributors whose
-work have made the Haskell ecosystem what it is today.
-
-As always, do give this release a try and open a [ticket](https://gitlab.haskell.org/ghc/homepage/-/issues/new) if you see
-anything amiss.</source:markdown>
-      <guid>cid://http://haskell.org/ghc/blog/20250912-ghc-9.14.1-alpha2-released.html</guid>
     </item>
   </channel>
 </rss>

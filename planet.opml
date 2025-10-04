@@ -2,13 +2,13 @@
 <opml version="2.0">
     <head>
         <title>Planet News</title>
-        <dateCreated>03 Oct 25 15:09 -0700</dateCreated>
+        <dateCreated>04 Oct 25 06:09 -0700</dateCreated>
     </head>
     <body>
         <outline text="CBC, Indigenious News" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-Indigenous" htmlUrl="https://www.cbc.ca/news/indigenous/?cmp=rss" description="FOR PERSONAL USE ONLY"></outline>
         <outline text="CBC, World News" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-world" htmlUrl="https://www.cbc.ca/news/world/?cmp=rss" description="FOR PERSONAL USE ONLY"></outline>
         <outline text="PBS World Podcast" type="rss" category="News" xmlUrl="https://www.pbs.org/newshour/feeds/rss/podcasts/world" htmlUrl="https://www.pbs.org/newshour/world,https://www.pbs.org/newshour/feeds/rss/podcasts/world" description="Learn more about your world through in-depth analysis and on-the-ground reports. (Updated periodically) PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy" url="https://www.pbs.org/newshour/feeds/rss/podcasts/world"></outline>
-        <outline text="RTÉ News" type="rss" xmlUrl="https://www.rte.ie/feeds/rss/?index=/news/" htmlUrl="https://www.rte.ie/news/,https://www.rte.ie/feeds/rss/?index=/news/" url="https://www.rte.ie/feeds/rss/?index=/news/"></outline>
+        <outline text="RTÉ News" type="rss" xmlUrl="https://www.rte.ie/feeds/rss/?index=/news/" htmlUrl="https://www.rte.ie/news/,https://www.rte.ie/feeds/rss/?index=/sport/golf/&amp;limit=20" url="https://www.rte.ie/feeds/rss/?index=/sport/golf/&amp;limit=20"></outline>
         <outline text="United Nations, Climate Change" type="rss" xmlUrl="https://news.un.org/feed/subscribe/en/news/topic/climate-change/feed/rss.xml" htmlUrl="https://news.un.org/en/,https://news.un.org/feed/subscribe/en/news/topic/climate-change/feed/rss.xml" description="UN News - Global perspective Human stories | Climate and Environment" url="https://news.un.org/feed/subscribe/en/news/topic/climate-change/feed/rss.xml"></outline>
         <outline text="United Nations, Culture and Education" type="rss" xmlUrl="https://news.un.org/feed/subscribe/en/news/topic/culture-and-education/feed/rss.xml" htmlUrl="https://news.un.org/en/,https://news.un.org/feed/subscribe/en/news/topic/culture-and-education/feed/rss.xml" description="UN News - Global perspective Human stories | Culture and Education" url="https://news.un.org/feed/subscribe/en/news/topic/culture-and-education/feed/rss.xml"></outline>
         <outline text="United Nations, Economic Development" type="rss" xmlUrl="https://news.un.org/feed/subscribe/en/news/topic/economic-development/feed/rss.xml" htmlUrl="https://news.un.org/en/,https://news.un.org/feed/subscribe/en/news/topic/economic-development/feed/rss.xml" description="UN News - Global perspective Human stories | Economic Development" url="https://news.un.org/feed/subscribe/en/news/topic/economic-development/feed/rss.xml"></outline>

@@ -4,7 +4,7 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>http://localhost:8000/librariesxml</link>
-    <lastBuildDate>03 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>04 Oct 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -1253,37 +1253,6 @@ In general, it feels good to have had a few years of tracking this, learning mor
       <source:markdown>A ex-convict in 19th-century Russia reminisces on his experiences in a Siberian prison.</source:markdown>
       <enclosure url="https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett/downloads/fyodor-dostoevsky_the-house-of-the-dead_constance-garnett.epub?source=feed" length="726923" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett</guid>
-    </item>    <item>
-      <title>Blind Mice, by C. Kay Scott</title>
-      <link>https://standardebooks.org/ebooks/c-kay-scott/blind-mice</link>
-      <description>
-        <![CDATA[A woman struggles to save her friendships and her marriage when her difficult and melodramatic mother comes for an extended visit.]]>
-      </description>
-      <source:markdown>A woman struggles to save her friendships and her marriage when her difficult and melodramatic mother comes for an extended visit.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/c-kay-scott/blind-mice/downloads/c-kay-scott_blind-mice.epub?source=feed" length="775610" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/c-kay-scott/blind-mice</guid>
-    </item>    <item>
-      <title>New Directions in Scholarly Publishing: What We’re Looking Forward to This Year</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/09/12/new-directions-in-scholarly-publishing-what-were-looking-forward-to-this-year/</link>
-      <description>
-        <![CDATA[<p>What can you expect from this fall’s New Directions in Scholarly Publishing Seminar in Washington, DC?</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/09/12/new-directions-in-scholarly-publishing-what-were-looking-forward-to-this-year/">New Directions in Scholarly Publishing: What We’re Looking Forward to This Year</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>What can you expect from this fall’s New Directions in Scholarly Publishing Seminar in Washington, DC?
-
-The post [New Directions in Scholarly Publishing: What We’re Looking Forward to This Year](https://scholarlykitchen.sspnet.org/2025/09/12/new-directions-in-scholarly-publishing-what-were-looking-forward-to-this-year/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60947</guid>
-    </item>    <item>
-      <title>John Unsworth on Libraries, Higher Education, and Anti-Fascism</title>
-      <link>https://www.arl.org/blog/john-unsworth-on-libraries-higher-education-and-anti-facism/</link>
-      <description>
-        <![CDATA[<p>Last Updated on September 12, 2025, 1:12 pm ET John Unsworth retired this month as university librarian and dean of libraries at the University of Virginia (UVA), after more than...</p>
-        <p>The post <a href="https://www.arl.org/blog/john-unsworth-on-libraries-higher-education-and-anti-facism/">John Unsworth on Libraries, Higher Education, and Anti-Fascism</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
-      </description>
-      <source:markdown>Last Updated on September 12, 2025, 1:12 pm ET John Unsworth retired this month as university librarian and dean of libraries at the University of Virginia (UVA), after more than...
-
-The post [John Unsworth on Libraries, Higher Education, and Anti-Fascism](https://www.arl.org/blog/john-unsworth-on-libraries-higher-education-and-anti-facism/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
-      <guid>cid://https://www.arl.org/?p=45000</guid>
     </item>
   </channel>
 </rss>

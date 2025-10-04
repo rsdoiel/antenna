@@ -4,10 +4,74 @@
   <channel>
     <title>socal_north.md</title>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>03 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>04 Oct 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Now 35, &#39;Beverly Hills, 90210&#39; shaped generations of teen TV</title>
+      <link>https://laist.com/news/arts-and-entertainment/beverly-hills-90210-shaped-generations-of-teen-tv</link>
+      <description>
+        <![CDATA[The defining teen series of the 90’s ran for 10 seasons.]]>
+      </description>
+      <source:markdown>The defining teen series of the 90’s ran for 10 seasons.</source:markdown>
+      <guid>cid://urn:uuid:00000199-a874-d2f8-a7d9-bf7d1ff70000</guid>
+    </item>    <item>
+      <title>Long Beach is first city in the nation to impose new check-out lane rules</title>
+      <link>https://laist.com/news/food/long-beach-first-in-nation-to-impose-new-check-out-lane-rules</link>
+      <description>
+        <![CDATA[The new ordinance applies to certain grocers operating in the city and has led to some self-checkout lanes to shutter.]]>
+      </description>
+      <source:markdown>The new ordinance applies to certain grocers operating in the city and has led to some self-checkout lanes to shutter.</source:markdown>
+      <guid>cid://urn:uuid:00000199-8d79-dcf5-a1f9-df79c4ce0000</guid>
+    </item>    <item>
+      <title>DHS begins targeting unaccompanied children with &#39;voluntary&#39; deportation offer</title>
+      <link>https://laist.com/news/dhs-unaccompanied-children-voluntary-deportation</link>
+      <description>
+        <![CDATA[Children asked to waive right to see a judge in exchange for $2,500]]>
+      </description>
+      <source:markdown>Children asked to waive right to see a judge in exchange for $2,500</source:markdown>
+      <guid>cid://urn:uuid:00000199-ac8b-dbfa-afdf-af8fdb560000</guid>
+    </item>    <item>
+      <title>Attention LA parkers: You&#39;ll soon pay 50% more at meters — for longer into the night (and on Sundays, too)</title>
+      <link>https://laist.com/news/transportation/la-metered-parking-price-increase-sundays</link>
+      <description>
+        <![CDATA[The move is expected to generate millions more for the city.]]>
+      </description>
+      <source:markdown>The move is expected to generate millions more for the city.</source:markdown>
+      <guid>cid://urn:uuid:00000199-ac83-dc80-a5fb-addbfa1d0000</guid>
+    </item>    <item>
+      <title>Can this reimagined Choco Taco compete with the iconic original? We have our verdict</title>
+      <link>https://laist.com/news/food/salt-straw-ice-cream-choco-taco-remake</link>
+      <description>
+        <![CDATA[The beloved ice cream was discontinued in 2022. The Salt & Straw ice cream chain is aiming to improve on our childhood memories with a new version.]]>
+      </description>
+      <source:markdown>The beloved ice cream was discontinued in 2022. The Salt &#38; Straw ice cream chain is aiming to improve on our childhood memories with a new version.</source:markdown>
+      <guid>cid://urn:uuid:00000199-ab8f-d076-a1db-ffbf93240000</guid>
+    </item>    <item>
+      <title>Trump tells Israel to stop bombing Gaza after Hamas agrees to release Israeli hostages</title>
+      <link>https://laist.com/news/trump-tells-israel-to-stop-bombing-gaza-after-hamas-agrees-to-release-israeli-hostages</link>
+      <description>
+        <![CDATA[Hamas said it would agree to release the remaining Israeli hostages in exchange for Palestinian prisoners. Despite not agreeing to the full U.S. peace proposal, President Trump said Hamas seemed ready for peace.]]>
+      </description>
+      <source:markdown>Hamas said it would agree to release the remaining Israeli hostages in exchange for Palestinian prisoners. Despite not agreeing to the full U.S. peace proposal, President Trump said Hamas seemed ready for peace.</source:markdown>
+      <guid>cid://urn:uuid:00000199-ac36-d076-a1db-fd37ff720000</guid>
+    </item>    <item>
+      <title>California gives Uber, Lyft drivers collective bargaining rights</title>
+      <link>https://laist.com/news/california-gives-uber-lyft-drivers-collective-bargaining-rights</link>
+      <description>
+        <![CDATA[The law is being hailed as a milestone for app-based drivers in their years-long battle to expand workplace rights.]]>
+      </description>
+      <source:markdown>The law is being hailed as a milestone for app-based drivers in their years-long battle to expand workplace rights.</source:markdown>
+      <guid>cid://urn:uuid:00000199-ac33-dc80-a5fb-ad7bf38e0000</guid>
+    </item>    <item>
+      <title>Karoline Leavitt says White House must cut spending due to shutdown</title>
+      <link>https://laist.com/news/politics/karoline-leavitt-says-white-house-must-cut-spending-due-to-shutdown</link>
+      <description>
+        <![CDATA[White House press secretary Karoline Leavitt says the Trump administration has to look at ways to "save money in a responsible way that respects the American taxpayer's money" during shutdown.]]>
+      </description>
+      <source:markdown>White House press secretary Karoline Leavitt says the Trump administration has to look at ways to &#34;save money in a responsible way that respects the American taxpayer&#39;s money&#34; during shutdown.</source:markdown>
+      <guid>cid://urn:uuid:00000199-ac20-dbfa-afdf-af256ddc0000</guid>
+    </item>    <item>
       <title>Premiere of “Resisted Living” Brings Mischief and Madness to The MAIN</title>
       <link>https://santaclarita.gov/blog/2025/10/03/premiere-of-resisted-living-brings-mischief-and-madness-to-the-main/</link>
       <description>
@@ -75,7 +139,7 @@ The post [Premiere of “Resisted Living” Brings Mischief and Madness to The M
       <source:markdown>In the California Capitol, lawmakers almost never vote “no.” These three Democrats have decided it’s OK to vote against their colleagues’ bills.</source:markdown>
       <guid>cid://urn:uuid:00000199-ab04-d2f8-a7d9-bf6d072e0000</guid>
     </item>    <item>
-      <title>The law requires near immediate access to officials’ financial disclosures. LA County is taking far longer</title>
+      <title>State law requires near immediate access to officials’ financial disclosures. LA County is taking far longer</title>
       <link>https://laist.com/news/politics/los-angeles-county-financial-disclosures</link>
       <description>
         <![CDATA[State law says the public must get access within two business days to public records of officials’ gifts and outside income. L.A. County attorneys say it may take months, not days, to make the information avaiable.]]>
@@ -121,12 +185,12 @@ The post [Teen FanFest Returns with a Symphony of Fandoms](https://santaclarita.
 The post [Join Us at Santa Clarita Kings Day!](https://santaclarita.gov/blog/2025/10/03/join-us-at-santa-clarita-kings-day/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
       <guid>cid://https://santaclarita.gov/?p=6808</guid>
     </item>    <item>
-      <title>Massive fire at Chevron refinery in El Segundo has been put out</title>
+      <title>What the El Segundo Chevron refinery explosion means for air quality and gas prices</title>
       <link>https://laist.com/news/climate-environment/chevron-plant-el-segundo-fire-impact-air-quality</link>
       <description>
-        <![CDATA[There are no reports of injuries after a blast and ensuing fire, which could be seen for miles on Thursday night.]]>
+        <![CDATA[There’s still a lot to be determined as the refinery, which supplies about one-fifth of Southern California's vehicle fuels, works to restore production and as data is collected.]]>
       </description>
-      <source:markdown>There are no reports of injuries after a blast and ensuing fire, which could be seen for miles on Thursday night.</source:markdown>
+      <source:markdown>There’s still a lot to be determined as the refinery, which supplies about one-fifth of Southern California&#39;s vehicle fuels, works to restore production and as data is collected.</source:markdown>
       <guid>cid://urn:uuid:00000199-aaca-d2f8-a7d9-bfef95d70000</guid>
     </item>    <item>
       <title>LA’s birding community reacts to Hallmark’s birder romcom: ‘They really blew it’</title>
@@ -904,6 +968,7 @@ The post [Guiding the Next Generation with Parenting for Prevention](https://san
       <description>
         <![CDATA[Forest Lawn Memorial Park’s latest exhibit fittingly is all about flowers.]]>
       </description>
+      <source:markdown>Forest Lawn Memorial Park’s latest exhibit fittingly is all about flowers.</source:markdown>
       <guid>cid://urn:uuid:00000199-876b-d693-a19b-977f8c130000</guid>
     </item>    <item>
       <title>Sinclair and Nexstar restore &#39;Jimmy Kimmel Live!&#39; to their local TV stations</title>
@@ -1594,6 +1659,7 @@ The post [Cheer on the UCLA Bruins at The Cube!](https://santaclarita.gov/blog/2
       <description>
         <![CDATA[Families say the process of choosing a school for their child is bewildering, overwhelming and anxiety-driven. So we made a guide to help.]]>
       </description>
+      <source:markdown>Families say the process of choosing a school for their child is bewildering, overwhelming and anxiety-driven. So we made a guide to help.</source:markdown>
       <guid>cid://urn:uuid:00000199-3230-db38-a1fb-7b7e43160000</guid>
     </item>    <item>
       <title>This young Altadenan wants to preserve the stories of Altadena’s trees</title>
@@ -2666,161 +2732,6 @@ The post [Award-Winning Comedian Jeff Frame Brings Autobiographical One-Man Show
         <![CDATA[Guidance is in line with the U.S. Centers for Disease Control and Prevention’s recommendations under the Biden Administration.]]>
       </description>
       <guid>cid://urn:uuid:00000199-3f1a-d854-a5bf-bf3bfa540000</guid>
-    </item>    <item>
-      <title>California lawmakers pass bill protecting residents’ right to give food, water to unhoused people</title>
-      <link>https://laist.com/news/housing-homelessness/criminalize-homeless-food-assistance-good-samaritan-state-bill-634-california</link>
-      <description>
-        <![CDATA[Law says cities can’t enforce laws that stop people and organizations from providing aid for basic survival]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-3ff4-d635-a9fd-7ff6b1160000</guid>
-    </item>    <item>
-      <title>UCLA researchers host science fair to showcase work suspended by the Trump administration</title>
-      <link>https://laist.com/news/education/ucla-researchers-science-fair-grants-suspended-trump-administration</link>
-      <description>
-        <![CDATA[On Thursday evening, dozens of researchers hosted a science fair at UCLA to demonstrate the long-term impact of frozen grants.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-3fae-dfda-a599-3fbf739f0000</guid>
-    </item>    <item>
-      <title>What happened to the Hollywood Arby’s sign on Sunset Boulevard? Here&#39;s what we learned</title>
-      <link>https://laist.com/news/iconic-hollywood-arbys-sign-sunset-boulevard-missing</link>
-      <description>
-        <![CDATA[The sign, in the shape of a tall 10-gallon hat, disappeared in recent weeks, leaving some Angelenos wondering where it went.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-3fc0-d635-a9fd-7fc60d900000</guid>
-    </item>    <item>
-      <title>Newsom strikes climate deal extending California cap and trade, boosting oil production</title>
-      <link>https://laist.com/news/climate-environment/newsom-strikes-climate-deal-extending-california-cap-and-trade-boosting-oil-production</link>
-      <description>
-        <![CDATA[Democratic state leaders have proposed a host of energy bills that seek to balance affordability with the state’s ambitious climate goals.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-3f06-d4db-a5b9-ff1ed1fd0000</guid>
-    </item>    <item>
-      <title>Santa Clarita Students Win Local, International Awards</title>
-      <link>https://santaclarita.gov/blog/2025/09/12/santa-clarita-students-win-local-international-awards/</link>
-      <description>
-        <![CDATA[<p>Sister Cities’ 2025 Young Artists and Authors Showcase Winners Announced Santa Clarita Sister Cities, in partnership with the City of Santa Clarita, is proud to announce the winners of the 2025 Young Artists and Authors Showcase (YAAS). The local winners include: Art (Classic Medium) Art (Digital Medium) Essay/Creative Writing Poetry Music (Original) Photography These outstanding [&#8230;]</p>
-        <p>The post <a href="https://santaclarita.gov/blog/2025/09/12/santa-clarita-students-win-local-international-awards/">Santa Clarita Students Win Local, International Awards</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
-      </description>
-      <guid>cid://https://santaclarita.gov/?p=6628</guid>
-    </item>    <item>
-      <title>LA needs more and better parks, report finds. The city wants your input on a new plan</title>
-      <link>https://laist.com/news/los-angeles-activities/la-park-recreation-safety-quality-needs</link>
-      <description>
-        <![CDATA[The 2025 Park Needs Assessment found where L.A. could use new parks and repairs to current ones. The draft plan is open for public comment through mid-October.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-3f27-d635-a9fd-7fe7ad780000</guid>
-    </item>    <item>
-      <title>This shop fixes student instruments for free. Now, a music legend is chipping in</title>
-      <link>https://laist.com/news/education/lausd-shop-fixes-student-instruments-for-free</link>
-      <description>
-        <![CDATA[Herb Alpert got his start playing trumpet in L.A.'s public schools. He wants to help make that "magic" possible for students.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-3eec-dbc5-addf-7efee2b90000</guid>
-    </item>    <item>
-      <title>Health care costs are soaring. Blame insurers, drug companies — and your employer</title>
-      <link>https://laist.com/news/health/health-care-costs-are-soaring-blame-insurers-drug-companies-and-your-employer</link>
-      <description>
-        <![CDATA[Some 154 million people in the United States get health care through their employer — and for many, their costs are about to go way up.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-3ee4-dcc8-a9fd-7fee04dc0000</guid>
-    </item>    <item>
-      <title>Low birth weight rates rose nearly 50% around Aliso Canyon gas leak, UCLA study finds</title>
-      <link>https://laist.com/news/health/aliso-canyon-gas-leak-study-low-birth-weights</link>
-      <description>
-        <![CDATA[A UCLA study in the journal Science Advances also found a likely increase in miscarriages around the methane leak in the northern San Fernando Valley in 2015.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-3f0e-d93e-abbf-7feeb1f60000</guid>
-    </item>    <item>
-      <title>Judge pauses Trump policy cutting off schools and shelters to certain immigrants</title>
-      <link>https://laist.com/news/politics/judge-pauses-trump-policy-cutting-off-schools-and-shelters-to-certain-immigrants</link>
-      <description>
-        <![CDATA[A U.S. district judge issued a preliminary injunction, temporarily pausing a series of federal policies aimed at restricting certain immigrants’ access to public benefits and programs.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-3edd-d205-abbf-7effa0050000</guid>
-    </item>    <item>
-      <title>The suspect in Charlie Kirk killing has been arrested. Here&#39;s what we know</title>
-      <link>https://laist.com/news/the-suspect-in-charlie-kirk-killing-has-been-arrested-heres-what-we-know</link>
-      <description>
-        <![CDATA[Analysts and law enforcement authorities are still sifting through evidence and conducting interviews to learn as much as they can about the suspect's beliefs, including bullet casings with messages inscribed on them.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-3ed4-d854-a5bf-bff7d4200000</guid>
-    </item>    <item>
-      <title>Historic DTLA restaurant Cole’s French Dip is pushing back closing date</title>
-      <link>https://laist.com/news/food/coles-french-dip-is-pushing-back-closing-date</link>
-      <description>
-        <![CDATA[After a public outpour of support, Cole’s says it's delaying its final closing date to November.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-3a43-d603-a5dd-bef70e0d0000</guid>
-    </item>    <item>
-      <title>Is a sitcom set in post-Eaton Fire Altadena in poor taste? Many say yes</title>
-      <link>https://laist.com/news/los-angeles-activities/sitcom-post-fires-altadena-in-poor-taste-locals-are-divided-eaton-cbs-kenya-barris</link>
-      <description>
-        <![CDATA[Reactions from Black Altadena residents vary over the development of CBS sitcom from Black-ish creator Kenya Barris and comedian Mike Epps.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-3ae6-d707-a39f-fefe18ef0000</guid>
-    </item>    <item>
-      <title>With over 150 problem vacant lots, Long Beach will run an experiment to address them</title>
-      <link>https://laist.com/news/problem-vacant-lots-long-beach-experiment</link>
-      <description>
-        <![CDATA[After dozens of citations didn’t clean up blighted properties, city officials are offering up to $75,000 for someone to come up with and implement a new idea.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-3ac5-db89-a1fb-fbc7ce4d0000</guid>
-    </item>    <item>
-      <title>Cool weather to turn into slow warming this weekend</title>
-      <link>https://laist.com/news/climate-environment/cool-weather-to-turn-into-slow-warming-this-weekend</link>
-      <description>
-        <![CDATA[Cool today, slightly warmer over next few days.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-3a6f-de83-a5db-bf7fdf3f0000</guid>
-    </item>    <item>
-      <title>Why these two friends are leading the charge to keep physical media alive</title>
-      <link>https://laist.com/news/arts-and-entertainment/two-friends-lead-charge-to-keep-physical-media-alive</link>
-      <description>
-        <![CDATA[A growing community of collectors are sharing their obscure horror flicks and other physical media.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-3af5-d0a7-adbf-7ef784620000</guid>
-    </item>    <item>
-      <title>An LAX immigration detention stretched from hours into days. Family says it feels like a kidnapping</title>
-      <link>https://laist.com/news/lax-immigration-detention</link>
-      <description>
-        <![CDATA[Attorneys say federal authorities are seizing any opportunity to hold people for long periods of time.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-3b32-db89-a1fb-fb7233360000</guid>
-    </item>    <item>
-      <title>9 out of 10 UC campus police departments fail to comply with state law around protest response</title>
-      <link>https://laist.com/news/criminal-justice/uc-campus-police-protest-reporting-law</link>
-      <description>
-        <![CDATA[State law requires public reports on crowd-control weapons. Most UC police agencies ignore it.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-3a97-d655-abbd-3e9f59450000</guid>
-    </item>    <item>
-      <title>A new art show at Scripps College shows this Mexican artist’s legacy is more than &#39;apolitical&#39; landscapes</title>
-      <link>https://laist.com/news/los-angeles-activities/scripps-college-alfredo-ramos-martinez-art-show-legacy</link>
-      <description>
-        <![CDATA[Alfredo Ramos Martínez’s work has long been seen as apolitical. But this exhibition shows that he was deeply attuned to injustices around him.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-3add-dfda-a599-3afda77d0000</guid>
-    </item>    <item>
-      <title>9 out of 10 UC campus police departments fail to comply with state law around protest response</title>
-      <link>https://laist.com/news/uc-campus-police-protest-reporting-law</link>
-      <description>
-        <![CDATA[State law requires public reports on crowd-control weapons. Most UC police agencies ignore it]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-3a97-d655-abbd-3e9f59450000</guid>
-    </item>    <item>
-      <title>Berbere tacos and egusi kale: breaking down AfriCali cuisine, straight from the source</title>
-      <link>https://laist.com/news/food/breaking-down-africali-cuisine</link>
-      <description>
-        <![CDATA[Join us on Sept. 18 for our live event with Kiano Moju, author of AfriCali, recipes from my Jikoni.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-39f8-d0a7-adbf-7ffb2d1d0000</guid>
-    </item>    <item>
-      <title>Judge issues sharp rebukes of LAPD and federal agents after anti-ICE protests</title>
-      <link>https://laist.com/news/politics/judge-issues-sharp-rebukes-of-the-lapd-and-federal-agents-after-anti-ice-protests</link>
-      <description>
-        <![CDATA[The Los Angeles Police Department and Department of Homeland Security are barred from using weapons such as foam bullets and tear gas 'carte blanche' after a federal judge issued preliminary injunctions.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-3b20-d0a7-adbf-7f2326370000</guid>
     </item>
   </channel>
 </rss>
