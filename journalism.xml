@@ -4,10 +4,29 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>http://localhost:8000/journalismxml</link>
-    <lastBuildDate>04 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>04 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Scouting report: UCLA men’s water polo vs. California and Stanford</title>
+      <link>https://dailybruin.com/2025/10/04/scouting-report-ucla-mens-water-polo-vs-california-and-stanford/</link>
+      <description>
+        <![CDATA[No. 1 UCLA men’s water polo (15-0) has not lost a match since Nov. 24. With a perfect start to the 2025 campaign thus far – and an opportunity to repeat as national champions – the Bruins begin MPSF play with two weekend matches against familiar foes.]]>
+      </description>
+      <source:markdown>No. 1 UCLA men’s water polo (15-0) has not lost a match since Nov. 24. With a perfect start to the 2025 campaign thus far – and an opportunity to repeat as national champions – the Bruins begin MPSF play with two weekend matches against familiar foes.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=494376</guid>
+    </item>    <item>
+      <title>Volunteers come together to help clean Santa Clara River</title>
+      <link>https://canyonsnews.com/river-clean-up/</link>
+      <description>
+        <![CDATA[<p>Volunteers, young and old, come together to make a lasting effort to&#8230;</p>
+        <p>The post <a href="https://canyonsnews.com/river-clean-up/">Volunteers come together to help clean Santa Clara River</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>]]>
+      </description>
+      <source:markdown>Volunteers, young and old, come together to make a lasting effort to…
+
+The post [Volunteers come together to help clean Santa Clara River](https://canyonsnews.com/river-clean-up/) appeared first on [Canyons News](https://canyonsnews.com).</source:markdown>
+      <guid>cid://https://canyonsnews.com/?p=55497</guid>
+    </item>    <item>
       <title>Gameday predictions: UCLA football vs. Penn State</title>
       <link>https://dailybruin.com/2025/10/03/gameday-predictions-ucla-football-vs-penn-state/</link>
       <description>
