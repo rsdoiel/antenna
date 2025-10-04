@@ -4,10 +4,18 @@
   <channel>
     <title>Planet News</title>
     <link>http://localhost:8000/planetxml</link>
-    <lastBuildDate>04 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>04 Oct 25 15:08 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Farmers facing significant costs after Storm Amy flooding</title>
+      <link>https://www.rte.ie/news/2025/1004/1536869-farmers-storm-amy/</link>
+      <description>
+        <![CDATA[The Irish Farmers' Association said heavy rain in some parts of the country has left its members facing significant additional costs over the winter months.]]>
+      </description>
+      <source:markdown>The Irish Farmers&#39; Association said heavy rain in some parts of the country has left its members facing significant additional costs over the winter months.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1004/1536869-farmers-storm-amy/</guid>
+    </item>    <item>
       <title>Pope praises Swiss Guards&#39; discipline, courage, and faith</title>
       <link>https://www.vaticannews.va/en/pope/news/2025-10/pope-swiss-guards-oath-swearing-in-ceremony.html</link>
       <description>
@@ -80,6 +88,16 @@
 [Read all](https://www.vaticannews.va/en/vatican-city/news/2025-10/cardinal-koovakad-interreligious-dialogue-assembly-mumbai-peace.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/vatican-city/news/2025-10/cardinal-koovakad-interreligious-dialogue-assembly-mumbai-peace.html</guid>
     </item>    <item>
+      <title>Anti-government protesters in Georgia attempt to storm presidential palace</title>
+      <link>https://www.cbc.ca/news/world/georgia-protest-presidential-palace-1.7651412?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/1.7651416.1759604596!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/georgia-politics-protests.JPG' alt='Protesters attempt to climb over a fence.' width='620' height='349' title='Protesters attempt to break into the presidential palace grounds during an opposition rally on the day of local elections in Tbilisi, Georgia October 4, 2025. REUTERS/Irakli Gedenidze     TPX IMAGES OF THE DAY'/><p>Police in Georgia used water cannons and pepper spray on Saturday to push back protesters who tried to storm the presidential palace, as the South Caucasus country held a municipal election boycotted by the main opposition blocs amid a sweeping crackdown on dissent.</p>]]>
+      </description>
+      <source:markdown>![Protesters attempt to climb over a fence.](https://i.cbc.ca/1.7651416.1759604596!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/georgia-politics-protests.JPG)
+
+Police in Georgia used water cannons and pepper spray on Saturday to push back protesters who tried to storm the presidential palace, as the South Caucasus country held a municipal election boycotted by the main opposition blocs amid a sweeping crackdown on dissent.</source:markdown>
+      <guid>cid://1.7651412</guid>
+    </item>    <item>
       <title>Hamas agrees to release remaining hostages as talks set to resume</title>
       <link>https://www.vaticannews.va/en/world/news/2025-10/hamas-israel-gaza-talks-ceasefire-humanitarian-war-palestine.html</link>
       <description>
@@ -92,12 +110,22 @@
 [Read all](https://www.vaticannews.va/en/world/news/2025-10/hamas-israel-gaza-talks-ceasefire-humanitarian-war-palestine.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/world/news/2025-10/hamas-israel-gaza-talks-ceasefire-humanitarian-war-palestine.html</guid>
     </item>    <item>
-      <title>Over 175 arrested at pro-Palestine protest in London</title>
+      <title>Yukon First Nation uses holograms to preserve the knowledge of elders</title>
+      <link>https://www.cbc.ca/news/canada/north/yukon-na-cho-ny%D3%93k-dun-first-nation-hologram-project-1.7650021?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/1.7650028.1759453598!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/hologram-generator.JPG' alt='A child stands with his back to the camera facing a machine about the size of a large vending machine with a glass front and a person (actually a hologram of a person) seated inside. ' width='620' height='349' title='A collaborative language project between the First Nation of Na-Cho Nyӓk Dun and Carleton University uses artificial intelligence, virtual reality games and a device that generates holograms to preserve the Northern Tutchone language and culture. '/><p>There are fewer than 12 fluent speakers of Northern Tutchone left in the remote community of Mayo, Yukon – and many of them are elderly.  The First Nation of Na-Cho Nyӓk Dun has turned to technology to help preserve the language. </p>]]>
+      </description>
+      <source:markdown>![A child stands with his back to the camera facing a machine about the size of a large vending machine with a glass front and a person (actually a hologram of a person) seated inside. ](https://i.cbc.ca/1.7650028.1759453598!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/hologram-generator.JPG)
+
+There are fewer than 12 fluent speakers of Northern Tutchone left in the remote community of Mayo, Yukon – and many of them are elderly.  The First Nation of Na-Cho Nyӓk Dun has turned to technology to help preserve the language.</source:markdown>
+      <guid>cid://1.7650021</guid>
+    </item>    <item>
+      <title>More than 350 arrested at pro-Palestine protest in London</title>
       <link>https://www.rte.ie/news/2025/1004/1536839-palestine-protest-london/</link>
       <description>
-        <![CDATA[At least 175 people have been arrested over pro-Palestine protests in London which are taking place in defiance of calls by politicians and police bosses to reconsider after the Manchester synagogue terror attack.]]>
+        <![CDATA[At least 355 people have been arrested over pro-Palestine protests in London which are taking place in defiance of calls by politicians and police bosses to reconsider after the Manchester synagogue terror attack.]]>
       </description>
-      <source:markdown>At least 175 people have been arrested over pro-Palestine protests in London which are taking place in defiance of calls by politicians and police bosses to reconsider after the Manchester synagogue terror attack.</source:markdown>
+      <source:markdown>At least 355 people have been arrested over pro-Palestine protests in London which are taking place in defiance of calls by politicians and police bosses to reconsider after the Manchester synagogue terror attack.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1004/1536839-palestine-protest-london/</guid>
     </item>    <item>
       <title>Latin Patriarch of Jerusalem urges hope and prayer as ceasefire talks advance</title>
@@ -119,6 +147,14 @@
       </description>
       <source:markdown>Some 137 activists detained by Israel for taking part in a flotilla seeking to deliver aid to Gaza are being flown to Istanbul, Turkey&#39;s foreign ministry has said.</source:markdown>
       <guid>cid://https://www.rte.ie/news/middle-east/2025/1004/1536827-gaza-flotilla-activists/</guid>
+    </item>    <item>
+      <title>Thousands take part in Dublin&#39;s pro-Palestine rally</title>
+      <link>https://www.rte.ie/news/ireland/2025/1004/1536826-gaza-rally/</link>
+      <description>
+        <![CDATA[Thousands of people have taken part in a pro-Palestinian rally in Dublin.]]>
+      </description>
+      <source:markdown>Thousands of people have taken part in a pro-Palestinian rally in Dublin.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/1004/1536826-gaza-rally/</guid>
     </item>    <item>
       <title>&#34;Never again war!&#34; Pope Paul VI&#39;s unheeded and still urgently relevant appeal</title>
       <link>https://www.vaticannews.va/en/vatican-city/news/2025-10/never-again-war-pope-paul-vi-s-unheeded-but-ever-relevant-cry.html</link>
@@ -172,9 +208,9 @@
       <title>Investigation after man&#39;s body found in Co Meath</title>
       <link>https://www.rte.ie/news/ireland/2025/1004/1536811-meath-investigation/</link>
       <description>
-        <![CDATA[An investigation is under way into the death of a man whose body was discovered near Summerhill, Co Meath yesterday.]]>
+        <![CDATA[Investigations are continuing into the death of a man whose body was discovered near Summerhill, Co Meath yesterday.]]>
       </description>
-      <source:markdown>An investigation is under way into the death of a man whose body was discovered near Summerhill, Co Meath yesterday.</source:markdown>
+      <source:markdown>Investigations are continuing into the death of a man whose body was discovered near Summerhill, Co Meath yesterday.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1004/1536811-meath-investigation/</guid>
     </item>    <item>
       <title>Gazans hope Trump will force end to two-year-old war</title>
@@ -266,9 +302,9 @@ Two Russian drones struck trains at a station in Ukraine&#39;s northern Sumy re
       <title>Watch: Protesters in Tel Aviv call for end to war in Gaza</title>
       <link>https://www.rte.ie/news/middle-east/2025/1004/1536783-middle-east/</link>
       <description>
-        <![CDATA[Protesters in Tel Aviv have called for end to war in Gaza and the return of Israeli hostages.]]>
+        <![CDATA[Protesters in Tel Aviv have called for an end to the war in Gaza and the return of Israeli hostages]]>
       </description>
-      <source:markdown>Protesters in Tel Aviv have called for end to war in Gaza and the return of Israeli hostages.</source:markdown>
+      <source:markdown>Protesters in Tel Aviv have called for an end to the war in Gaza and the return of Israeli hostages</source:markdown>
       <guid>cid://https://www.rte.ie/news/middle-east/2025/1004/1536783-middle-east/</guid>
     </item>    <item>
       <title>Pope Leo signs his Apostolic Exhortation Dilexi te</title>
@@ -307,12 +343,12 @@ Two Russian drones struck trains at a station in Ukraine&#39;s northern Sumy re
       <source:markdown>With only three days until Minister for Finance Paschal Donohoe and Minister for Public Expenditure Jack Chambers unveil the contents of Budget 2026, RTÉ&#39;s Economics and Public Affairs Editor David Murphy looks ahead at ten elements to watch out for during their Dáil speeches.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1004/1536764-budget-analysis/</guid>
     </item>    <item>
-      <title>Trump: Hamas must move quickly &#39;or else all bets off&#39;</title>
+      <title>Trump says Israel has agreed to withdrawal line from Gaza</title>
       <link>https://www.rte.ie/news/world/2025/1004/1536780-israel-gaza/</link>
       <description>
-        <![CDATA[US President Donald Trump has said that Hamas must move quickly on his plan for ending the war in Gaza, "or else all bets will be off".]]>
+        <![CDATA[US President Donald Trump said Israel has agreed to an initial withdrawal line from Gaza, which has been "shown to, and shared with, Hamas".]]>
       </description>
-      <source:markdown>US President Donald Trump has said that Hamas must move quickly on his plan for ending the war in Gaza, &#34;or else all bets will be off&#34;.</source:markdown>
+      <source:markdown>US President Donald Trump said Israel has agreed to an initial withdrawal line from Gaza, which has been &#34;shown to, and shared with, Hamas&#34;.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2025/1004/1536780-israel-gaza/</guid>
     </item>    <item>
       <title>The US budget row that&#39;s not about the budget</title>
@@ -343,12 +379,12 @@ If all goes to plan, next February could see the return of humans to the moon. F
 The notion of Canada becoming a submarine-building nation is not that far-fetched, Germany’s armaments state secretary says. Jens Plötner said ThyssenKrupp Marine Systems — one of two bidders in the submarine program — has done it in other countries and all Canada has to do is ask.</source:markdown>
       <guid>cid://1.7650508</guid>
     </item>    <item>
-      <title>26,000 without power after Storm Amy hits Ireland</title>
+      <title>13,000 without power after Storm Amy hits Ireland</title>
       <link>https://www.rte.ie/news/ireland/2025/1004/1536778-storm-amy/</link>
       <description>
-        <![CDATA[Around 26,000 homes and businesses remain without power and a number of flights have been cancelled at Dublin Airport as the impact of Storm Amy continues to be felt around the country.]]>
+        <![CDATA[Around 13,000 homes and businesses remain without power and a number of flights have been cancelled at Dublin Airport as the impact of Storm Amy continues to be felt around the country.]]>
       </description>
-      <source:markdown>Around 26,000 homes and businesses remain without power and a number of flights have been cancelled at Dublin Airport as the impact of Storm Amy continues to be felt around the country.</source:markdown>
+      <source:markdown>Around 13,000 homes and businesses remain without power and a number of flights have been cancelled at Dublin Airport as the impact of Storm Amy continues to be felt around the country.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1004/1536778-storm-amy/</guid>
     </item>    <item>
       <title>Flights resume at Munich airport after drone sightings</title>
@@ -1051,6 +1087,14 @@ There&#39;s a network of overseas scammers targeting and blackmailing teens, and
         <![CDATA[<img src='https://i.cbc.ca/ais/4b671461-13bb-4b5e-8632-3c68cd4cd11f,1759455492407/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Men huddled in an embrace before police caution tape' width='620' height='349' title=''/><p></p>]]>
       </description>
       <source:markdown>![Men huddled in an embrace before police caution tape](https://i.cbc.ca/ais/4b671461-13bb-4b5e-8632-3c68cd4cd11f,1759455492407/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29)</source:markdown>
+      <guid>cid://1.7649887</guid>
+    </item>    <item>
+      <title>U.K. police question 6 suspects over deadly Manchester synagogue attack</title>
+      <link>https://www.cbc.ca/news/world/manchester-synagogue-attack-suspects-questioned-1.7651402?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/1.7651404.1759600481!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2239123833.jpg' alt='People in forensic suits lift police tape to access an area.' width='620' height='349' title='MANCHESTER, ENGLAND - OCTOBER 04: Police officers in forensic suits make their way to the scene of Thursday&apos;s terror attack at the Heaton Park Hebrew Congregation Synagogue on October 04, 2025 in Manchester, England. On Thursday morning a stabbing and car attack on the Heaton Park Hebrew Congregation Synagogue in the Manchester suburb of Crumpsall left two people dead and four others hospitalized. The attack took place on Yom Kippur, the holiest day of the Jewish calendar, and was declared a terrorist incident by police. The suspected attacker was shot dead by police at the scene.  (Photo by Christopher Furlong/Getty Images)'/><p></p>]]>
+      </description>
+      <source:markdown>![People in forensic suits lift police tape to access an area.](https://i.cbc.ca/1.7651404.1759600481!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2239123833.jpg)</source:markdown>
       <guid>cid://1.7649887</guid>
     </item>    <item>
       <title>Proliferation of legal challenges a concern - AG</title>
@@ -8795,6 +8839,14 @@ An orange Every Child Matters crosswalk design is now at the intersection of Dol
       </description>
       <guid>cid://9.6908794</guid>
     </item>    <item>
+      <title>Israeli ambassador to U.S. says war ends when Gaza is &#38;#8216;free of Hamas&#38;#8217;</title>
+      <description>
+        <![CDATA[This week, Israel intensified its military campaign in Gaza City and an independent United Nations human rights commission concluded that Israel&rsquo;s action in Gaza constituted genocide. Nick Schifrin spoke with Israeli Ambassador to the U.S. Yechiel Leiter to discuss the operation in Gaza City, Israel&rsquo;s long-term plans and the recent strike in Qatar. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy]]>
+      </description>
+      <source:markdown>This week, Israel intensified its military campaign in Gaza City and an independent United Nations human rights commission concluded that Israel’s action in Gaza constituted genocide. Nick Schifrin spoke with Israeli Ambassador to the U.S. Yechiel Leiter to discuss the operation in Gaza City, Israel’s long-term plans and the recent strike in Qatar. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy</source:markdown>
+      <enclosure url="https://flex2.acast.com/s/pbs-newshour-world/u/d3i6fh83elv35t.cloudfront.net/static/2025/09/withlleiter.mp3" length="7680404" type="audio/mpeg" />
+      <guid>cid://https://www.pbs.org/newshour/show/israeli-ambassador-to-u-s-says-war-ends-when-gaza-is-free-of-hamas</guid>
+    </item>    <item>
       <title>&#39;It was chilling&#39;: Bacik calls for action after phone data exposé</title>
       <link>https://www.rte.ie/news/primetime/2025/0918/1534241-it-was-chilling-bacik-calls-for-action-after-phone-data-expose/</link>
       <description>
@@ -10670,14 +10722,6 @@ An orange Every Child Matters crosswalk design is now at the intersection of Dol
         <![CDATA[US President Donald Trump has arrived in Britain for an unprecedented second state visit at which the two nations will seal investment deals and renew a "special relationship" Prime Minister Keir Starmer is keen to champion.]]>
       </description>
       <guid>cid://https://www.rte.ie/news/uk/2025/0916/1533681-trump-uk/</guid>
-    </item>    <item>
-      <title>Rubio affirms U.S. support for Israel&#38;#8217;s vision of military victory in Gaza</title>
-      <description>
-        <![CDATA[Secretary of State Marco Rubio is heading to Doha to meet with Qatar&rsquo;s leaders following unprecedented Israeli strikes targeting Hamas leaders last week. Earlier Monday, Rubio appeared with Israeli Prime Minister Benjamin Netanyahu in Jerusalem as the two presented a unified front. Nick Schifrin reports. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy]]>
-      </description>
-      <source:markdown>Secretary of State Marco Rubio is heading to Doha to meet with Qatar’s leaders following unprecedented Israeli strikes targeting Hamas leaders last week. Earlier Monday, Rubio appeared with Israeli Prime Minister Benjamin Netanyahu in Jerusalem as the two presented a unified front. Nick Schifrin reports. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy</source:markdown>
-      <enclosure url="https://flex2.acast.com/s/pbs-newshour-world/u/d3i6fh83elv35t.cloudfront.net/static/2025/09/holyland-1.mp3" length="4260255" type="audio/mpeg" />
-      <guid>cid://https://www.pbs.org/newshour/show/rubio-affirms-u-s-support-for-israels-vision-of-military-victory-in-gaza</guid>
     </item>    <item>
       <title>&#39;It&#39;s devastating,&#39; says St. Theresa Point chief as Manitoba First Nation mourns float plane crash deaths</title>
       <link>https://www.cbc.ca/news/canada/manitoba/st-theresa-point-float-plane-crash-1.7634834?cmp=rss</link>

@@ -4,10 +4,26 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>http://localhost:8000/journalismxml</link>
-    <lastBuildDate>04 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>04 Oct 25 15:08 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Late Goal Lifts CSUN Over UC Riverside in Conference Opener</title>
+      <link>https://sundial.csun.edu/197932/multimedia/videos/late-goal-lifts-csun-over-uc-riverside-in-conference-opener/</link>
+      <description>
+        <![CDATA[CSUN Men’s Soccer opened their first conference game of the season traveling to UC Riverside in a 90-minute soccer matchup with excellent defense and offense from both teams. Riverside had...]]>
+      </description>
+      <source:markdown>CSUN Men’s Soccer opened their first conference game of the season traveling to UC Riverside in a 90-minute soccer matchup with excellent defense and offense from both teams. Riverside had...</source:markdown>
+      <guid>cid://https://sundial.csun.edu/?p=197932</guid>
+    </item>    <item>
+      <title>Healing Through Sound: CSUN Professor Hosts Soundbath</title>
+      <link>https://sundial.csun.edu/197928/multimedia/videos/healing-through-sound-csun-professor-hosts-soundbath/</link>
+      <description>
+        <![CDATA[Located at Jake Uredijan Park in Santa Clarita, CSUN Yoga Professor Wendy Hassenpflug hosted an event for her small business called Living Vibrantly by Design. This event gave people in...]]>
+      </description>
+      <source:markdown>Located at Jake Uredijan Park in Santa Clarita, CSUN Yoga Professor Wendy Hassenpflug hosted an event for her small business called Living Vibrantly by Design. This event gave people in...</source:markdown>
+      <guid>cid://https://sundial.csun.edu/?p=197928</guid>
+    </item>    <item>
       <title>Scouting report: UCLA men’s water polo vs. California and Stanford</title>
       <link>https://dailybruin.com/2025/10/04/scouting-report-ucla-mens-water-polo-vs-california-and-stanford/</link>
       <description>
