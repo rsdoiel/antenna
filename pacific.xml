@@ -4,10 +4,19 @@
   <channel>
     <title>Items of interest to the Pacific community and the Pacific RIM</title>
     <link>http://localhost:8000/pacificxml</link>
-    <lastBuildDate>05 Oct 25 12:42 -0700</lastBuildDate>
+    <lastBuildDate>05 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Unity at home, the foundation of Guam’s security</title>
+      <link>https://www.pacificislandtimes.com/post/unity-at-home-the-foundation-of-guam-s-security</link>
+      <description>
+        <![CDATA[In the Indo-Pacific, Guam is more than just a U.S. territory. It is the center of a Pacific strategy for peace. Our island sits at the crossroads of Asia and America, uniquely positioned to advance partnerships, strengthen deterrence, and protect the democratic values that underpin regional stability.]]>
+      </description>
+      <source:markdown>In the Indo-Pacific, Guam is more than just a U.S. territory. It is the center of a Pacific strategy for peace. Our island sits at the crossroads of Asia and America, uniquely positioned to advance partnerships, strengthen deterrence, and protect the democratic values that underpin regional stability.</source:markdown>
+      <enclosure url="https://static.wixstatic.com/media/b40a18_a5ce025ff129459c91be78aae7b35bc4~mv2.jpg/v1/fit/w_385,h_448,al_c,q_80/file.png" length="0" type="image/png" />
+      <guid>cid://68d2257ba30359f10dd243b4</guid>
+    </item>    <item>
       <title>UH enrollment tops 51,000, highest in eight years</title>
       <link>https://www.hawaii.edu/news/2025/10/05/uh-enrollment-tops-51000-highest-in-eight-years/</link>
       <description>

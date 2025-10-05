@@ -4,10 +4,18 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>http://localhost:8000/journalismxml</link>
-    <lastBuildDate>05 Oct 25 12:42 -0700</lastBuildDate>
+    <lastBuildDate>05 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>USAC increases stipends, cuts pay for USA Judicial Board for 2025-26 fiscal year</title>
+      <link>https://dailybruin.com/2025/10/05/usac-increases-stipends-cuts-pay-for-usa-judicial-board-for-2025-26-fiscal-year/</link>
+      <description>
+        <![CDATA[Each undergraduate student will pay the association a $104.31 quarterly fee for the 2025-26 fiscal year, a $3.73 raise from last year. This includes a $4.80 Green Initiative fee, $1.86 for Bruin Bash, $2.58 for the Student Initiated Outreach Committee and $1.74 for the Campus Retention Committee, a $7.11 decrease from last year.]]>
+      </description>
+      <source:markdown>Each undergraduate student will pay the association a $104.31 quarterly fee for the 2025-26 fiscal year, a $3.73 raise from last year. This includes a $4.80 Green Initiative fee, $1.86 for Bruin Bash, $2.58 for the Student Initiated Outreach Committee and $1.74 for the Campus Retention Committee, a $7.11 decrease from last year.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=494409</guid>
+    </item>    <item>
       <title>Hart Hawks soar past West Ranch, in a Foothill League showdown</title>
       <link>https://canyonsnews.com/hart-v-west-ranch/</link>
       <description>

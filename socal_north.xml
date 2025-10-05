@@ -4,10 +4,18 @@
   <channel>
     <title>socal_north.md</title>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>05 Oct 25 12:42 -0700</lastBuildDate>
+    <lastBuildDate>05 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Trump administration orders CA National Guard to Oregon. Newsom vows legal fight</title>
+      <link>https://laist.com/news/ca-guard-deployed-to-oregon</link>
+      <description>
+        <![CDATA[Newsom said the Trump administration is deploying the California troops, after a federal judge barred the federalization of Oregon’s National Guard.]]>
+      </description>
+      <source:markdown>Newsom said the Trump administration is deploying the California troops, after a federal judge barred the federalization of Oregon’s National Guard.</source:markdown>
+      <guid>cid://urn:uuid:00000199-b5bc-dafb-a599-f5fc02c00000</guid>
+    </item>    <item>
       <title>Some Democrats share Trump&#39;s goal of forcing more homeless people into medical care</title>
       <link>https://laist.com/news/housing-homelessness/some-democrats-share-trumps-goal-of-forcing-more-homeless-people-into-medical-care</link>
       <description>

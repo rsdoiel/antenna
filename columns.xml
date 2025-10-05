@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>http://localhost:8000/columnsxml</link>
-    <lastBuildDate>05 Oct 25 12:42 -0700</lastBuildDate>
+    <lastBuildDate>05 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,42 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://variety.com/2025/tv/news/white-house-responds-snl-trump-brendan-carr-fcc-late-night-1236540655/</link>
+      <description>
+        <![CDATA[<p>White House Slams 'SNL' After Cold Open Targets Trump and Brendan Carr.</p>]]>
+      </description>
+      <source:markdown>White House Slams &#39;SNL&#39; After Cold Open Targets Trump and Brendan Carr.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/05/1367/</guid>
+    </item>    <item>
+      <link>https://wptavern.com/podcast/186-dave-winer-on-decentralisation-wordpress-and-open-publishing</link>
+      <description>
+        <![CDATA[<p>A podcast I did recently about the work I'm doing to create a social network for writers that's built out of the web, with all parts replaceable. WordPress had some surprising well-hidden power. I hope people listen, esp people in the WordPress community. </p>]]>
+      </description>
+      <source:markdown>A podcast I did recently about the work I&#39;m doing to create a social network for writers that&#39;s built out of the web, with all parts replaceable. WordPress had some surprising well-hidden power. I hope people listen, esp people in the WordPress community.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/05/1359/</guid>
+    </item>    <item>
+      <title>American thoughtcrime and violence against citizens</title>
+      <link>https://tracydurnell.com/2025/10/05/american-thoughtcrime-and-violence-against-citizens/</link>
+      <description>
+        <![CDATA[“We should use some of these dangerous [American] cities as training grounds for our military.” [&#8230;] “We’re under invasion from within. No different than a foreign enemy but more difficult in many ways because they don’t wear uniforms.” &#8212; President Trump + Holding the Line Through Tear Gas and Censorship &#8212; Interview with Kelly Hayes, [&#8230;]]]>
+      </description>
+      <source:markdown>“We should use some of these dangerous \[American\] cities as training grounds for our military.” \[…\] “We’re under invasion from within. No different than a foreign enemy but more difficult in many ways because they don’t wear uniforms.” — President Trump + Holding the Line Through Tear Gas and Censorship — Interview with Kelly Hayes, \[…\]</source:markdown>
+      <guid>cid://https://tracydurnell.com/?p=30327</guid>
+    </item>    <item>
+      <link>https://www.sacbee.com/news/politics-government/capitol-alert/article312391589.html</link>
+      <description>
+        <![CDATA[<p>Trump sends California troops to Oregon, defying court order.</p>]]>
+      </description>
+      <source:markdown>Trump sends California troops to Oregon, defying court order.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/05/1357/</guid>
+    </item>    <item>
+      <link>https://www.npr.org/2025/10/05/nx-s1-5563116/bad-bunny-snl-premiere-trump?utm_medium=social&#38;utm_source=bsky.app&#38;utm_term=nprnews&#38;utm_campaign=npr</link>
+      <description>
+        <![CDATA[<p>SNL roasts Trump in season premiere, as Bad Bunny addresses Super Bowl criticism.</p>]]>
+      </description>
+      <source:markdown>SNL roasts Trump in season premiere, as Bad Bunny addresses Super Bowl criticism.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/05/1355/</guid>
     </item>    <item>
       <title>Before we were so rudely interrupted</title>
       <link>http://scripting.com/2025/10/05/180457.html?title=beforeWeWereSoRudelyInterrupted</link>
@@ -361,6 +397,10 @@ Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwill
       </description>
       <source:markdown>![](https://imgs.scripting.com/2025/10/04/vwIdBuzz.png)I test drove three different EVs today at an [event](https://www.cenhud.com/en/my-energy/electric-vehicles/rideanddrive/) at [SUNY Ulster](https://en.wikipedia.org/wiki/SUNY_Ulster) today. [VW ID.Buzz](https://en.wikipedia.org/wiki/Volkswagen_ID._Buzz), [Rivian R1T](https://en.wikipedia.org/wiki/Rivian_R1T), [Kia EV9](https://en.wikipedia.org/wiki/Kia_EV9). I was surprised the one I liked best was the VW. It handled well, the others were sloppy, drive like the big cars they are. The Rivian had the best computer system, looked even nicer at first look than the Tesla. The Kia EV9 had a standard Kia computer system, far behind that of Rivian or Tesla. VW&#39;s computer was halfway between, it appeared they thought overall about the controls, but I was so impressed by the ride, and size, and the whole concept of it, and I always liked vans. I&#39;m seriously thinking about swapping my Tesla for the VW. There are other disadvantages, I&#39;m going to start reading up on it, until today I never gave it any thought, didn&#39;t think it would be a car for me. But I _realllly_ liked it.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/04.html#a010619</guid>
+    </item>    <item>
+      <title>weekly retro #35: i&#39;ll tell YOU when it&#39;s time for spooky things</title>
+      <link>https://livelaugh.blog/posts/weekly-retro-35/</link>
+      <guid>cid://https://livelaugh.blog/posts/weekly-retro-35/</guid>
     </item>    <item>
       <link>https://www.caranddriver.com/reviews/a62638170/2025-volkswagen-id-buzz-test/?utm_source=chatgpt.com</link>
       <description>

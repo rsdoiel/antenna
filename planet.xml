@@ -4,7 +4,7 @@
   <channel>
     <title>Planet News</title>
     <link>http://localhost:8000/planetxml</link>
-    <lastBuildDate>05 Oct 25 12:42 -0700</lastBuildDate>
+    <lastBuildDate>05 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -52,7 +52,7 @@
       <source:markdown>Georgia&#39;s Prime Minister Irakli Kobakhidze has vowed opposition arrests after police used force against opposition protesters who tried to enter the presidential palace in what he termed was a coup bid during a controversial election.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1005/1536944-georgia-protests-crackdown/</guid>
     </item>    <item>
-      <title>Storm Amy: 25,000 remain without power</title>
+      <title>Storm Amy: 2,500 remain without power</title>
       <link>https://www.rte.ie/news/ireland/2025/1005/1536940-storm-amy/</link>
       <description>
         <![CDATA[Around 2,500 homes and businesses remain without power after Storm Amy as of 8.30pm.]]>
@@ -94,13 +94,22 @@ A new website and database featuring the stories of more than 400 Indigenous wom
       <source:markdown>Presidential Election candidate Jim Gavin has said he is looking into reports he owes a former tenant €3,300, but that he did not have &#34;all the information&#34; about the matter.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1005/1536926-jim-gavin-tenancy/</guid>
     </item>    <item>
-      <title>Gavin &#39;looking into&#39; reports former tenant owed €3,300</title>
+      <title>Jim Gavin withdraws from Presidential Election</title>
       <link>https://www.rte.ie/news/ireland/2025/1005/1536926-jim-gavin/</link>
       <description>
-        <![CDATA[Presidential election candidate Jim Gavin has said he is looking into reports he owes a former tenant €3,300, but that he did not have "all the information" about the matter.]]>
+        <![CDATA[Fianna Fáil's candidate Jim Gavin has announced he is withdrawing from the Presidential Election "with immediate effect".]]>
       </description>
-      <source:markdown>Presidential election candidate Jim Gavin has said he is looking into reports he owes a former tenant €3,300, but that he did not have &#34;all the information&#34; about the matter.</source:markdown>
+      <source:markdown>Fianna Fáil&#39;s candidate Jim Gavin has announced he is withdrawing from the Presidential Election &#34;with immediate effect&#34;.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1005/1536926-jim-gavin/</guid>
+    </item>    <item>
+      <title>Haiti battles rabies with vaccines and vigilance</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166035</link>
+      <description>
+        <![CDATA[Health authorities in Haiti are turning deaths caused by rabies-infected dogs into a public health awakening with the support of the UN’s health agency in the region, PAHO.]]>
+      </description>
+      <source:markdown>Health authorities in Haiti are turning deaths caused by rabies-infected dogs into a public health awakening with the support of the UN’s health agency in the region, PAHO.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/03-10-2025-PAHO-Haiti-rabies-03.jpg/image560x340cropped.jpg" length="42641" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166035</guid>
     </item>    <item>
       <title>Pope calls on world leaders to commit to Gaza peace deal</title>
       <link>https://www.vaticannews.va/en/pope/news/2025-10/pope-angelus-israel-palestine-peace-negotiations-antisemitism.html</link>
@@ -281,12 +290,12 @@ The increasingly common use of curse words, in public, by U.S. politicians would
       <source:markdown>Hamas has called for a swift start to a hostage-prisoner exchange with Israel, as negotiators from both sides prepared to meet in Egypt for crucial talks aimed at ending the nearly two-year war in Gaza.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1005/1536880-middle-east/</guid>
     </item>    <item>
-      <title>Syria to select members of first post-Assad parliament</title>
+      <title>Syria selects members of first post-Assad parliament</title>
       <link>https://www.rte.ie/news/2025/1005/1536879-syria-politics/</link>
       <description>
-        <![CDATA[Syria will select members of its first post-Assad parliament in a process criticised as undemocratic, with a third of the members appointed by interim leader Ahmed al-Sharaa.]]>
+        <![CDATA[Local committees in Syria cast their ballots for members of a transitional parliament in a process criticised as undemocratic, with a third of the new lawmakers to be appointed directly by interim leader Ahmed al-Sharaa.]]>
       </description>
-      <source:markdown>Syria will select members of its first post-Assad parliament in a process criticised as undemocratic, with a third of the members appointed by interim leader Ahmed al-Sharaa.</source:markdown>
+      <source:markdown>Local committees in Syria cast their ballots for members of a transitional parliament in a process criticised as undemocratic, with a third of the new lawmakers to be appointed directly by interim leader Ahmed al-Sharaa.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1005/1536879-syria-politics/</guid>
     </item>    <item>
       <title>Police to question UK synagogue attack suspects further</title>
@@ -350,6 +359,16 @@ U.S. Border Patrol shot an armed woman in Chicago on Saturday, the U.S. Departme
       </description>
       <source:markdown>The State&#39;s fiscal watchdog has warned that latest figures show the underlying deficit in the public finances, when volatile taxes paid by multinationals are excluded, will be larger than expected.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1004/1536850-budget-public-finances/</guid>
+    </item>    <item>
+      <title>Ex-NFLer Mark Sanchez stabbed multiple times in altercation leading to charges against him</title>
+      <link>https://www.cbc.ca/sports/football/nfl/former-nfler-mark-sanchez-stabbed-arrested-1.7651445?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/1.7651447.1759609359!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/jets-lions-football.jpg' alt='A football quarterback in a white uniform with green details throws the ball.' width='620' height='349' title='New York Jets quarterback Mark Sanchez throws during the first quarter of a preseason NFL football game against the Detroit Lions at Ford Field in Detroit, Friday, Aug. 9, 2013. (AP Photo/Carlos Osorio)'/><p>Former NFL quarterback Mark Sanchez was pepper-sprayed and stabbed multiple times during a late-night altercation with a 69-year-old truck driver in a downtown Indianapolis alley, which resulted in criminal charges against the Fox Sports analyst, according to court records filed Sunday.</p>]]>
+      </description>
+      <source:markdown>![A football quarterback in a white uniform with green details throws the ball.](https://i.cbc.ca/1.7651447.1759609359!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/jets-lions-football.jpg)
+
+Former NFL quarterback Mark Sanchez was pepper-sprayed and stabbed multiple times during a late-night altercation with a 69-year-old truck driver in a downtown Indianapolis alley, which resulted in criminal charges against the Fox Sports analyst, according to court records filed Sunday.</source:markdown>
+      <guid>cid://1.7651445</guid>
     </item>    <item>
       <title>VAT cut for hospitality industry from next July</title>
       <link>https://www.rte.ie/news/politics/2025/1004/1536848-budget-vat/</link>
@@ -9155,20 +9174,20 @@ An orange Every Child Matters crosswalk design is now at the intersection of Dol
       </description>
       <guid>cid://https://www.rte.ie/news/ireland/2025/0918/1534243-bohemian-israel/</guid>
     </item>    <item>
+      <title>News Wrap: Trump wraps up state visit to the UK</title>
+      <description>
+        <![CDATA[In our news wrap Thursday, President Trump closed out his state visit to the UK with a series of deals, the Trump administration is asking the Supreme Court for an emergency order to remove Lisa Cook from the Federal Reserve's board of governors and Pennsylvania prosecutors say that a suspected stalker was hiding at his ex-girlfriend's house when he opened fire on police who came to arrest him. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy]]>
+      </description>
+      <source:markdown>In our news wrap Thursday, President Trump closed out his state visit to the UK with a series of deals, the Trump administration is asking the Supreme Court for an emergency order to remove Lisa Cook from the Federal Reserve&#39;s board of governors and Pennsylvania prosecutors say that a suspected stalker was hiding at his ex-girlfriend&#39;s house when he opened fire on police who came to arrest him. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy</source:markdown>
+      <enclosure url="https://flex2.acast.com/s/pbs-newshour-world/u/d3i6fh83elv35t.cloudfront.net/static/2025/09/newswrap-16.mp3" length="5782289" type="audio/mpeg" />
+      <guid>cid://https://www.pbs.org/newshour/show/news-wrap-trump-wraps-up-state-visit-to-the-uk</guid>
+    </item>    <item>
       <title>#TheMoment the final wall came down for a historic tunnel under the Alps</title>
       <link>https://www.cbc.ca/player/play/9.6908794?cmp=rss</link>
       <description>
         <![CDATA[<img src='https://i.cbc.ca/ais/9b538b05-e3d5-4d5b-b23c-3aaefe01da50,1758244261326/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A group of people in helmets and yellow shirts stand next to a hole in rock and an excavator' width='620' height='349' title=''/><p>Julia Gruber tells The National about the moment workers building the high-speed Brenner Base Tunnel broke through the final piece of rock between Austria and Italy, opening an underground tunnel between the two countries.</p>]]>
       </description>
       <guid>cid://9.6908794</guid>
-    </item>    <item>
-      <title>Israeli ambassador to U.S. says war ends when Gaza is &#38;#8216;free of Hamas&#38;#8217;</title>
-      <description>
-        <![CDATA[This week, Israel intensified its military campaign in Gaza City and an independent United Nations human rights commission concluded that Israel&rsquo;s action in Gaza constituted genocide. Nick Schifrin spoke with Israeli Ambassador to the U.S. Yechiel Leiter to discuss the operation in Gaza City, Israel&rsquo;s long-term plans and the recent strike in Qatar. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy]]>
-      </description>
-      <source:markdown>This week, Israel intensified its military campaign in Gaza City and an independent United Nations human rights commission concluded that Israel’s action in Gaza constituted genocide. Nick Schifrin spoke with Israeli Ambassador to the U.S. Yechiel Leiter to discuss the operation in Gaza City, Israel’s long-term plans and the recent strike in Qatar. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy</source:markdown>
-      <enclosure url="https://flex2.acast.com/s/pbs-newshour-world/u/d3i6fh83elv35t.cloudfront.net/static/2025/09/withlleiter.mp3" length="7680404" type="audio/mpeg" />
-      <guid>cid://https://www.pbs.org/newshour/show/israeli-ambassador-to-u-s-says-war-ends-when-gaza-is-free-of-hamas</guid>
     </item>    <item>
       <title>&#39;It was chilling&#39;: Bacik calls for action after phone data exposé</title>
       <link>https://www.rte.ie/news/primetime/2025/0918/1534241-it-was-chilling-bacik-calls-for-action-after-phone-data-expose/</link>
