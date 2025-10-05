@@ -4,10 +4,28 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>http://localhost:8000/foodxml</link>
-    <lastBuildDate>05 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>05 Oct 25 11:14 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>37 Mushroom Recipes So Good, They’re Magic</title>
+      <link>https://www.bonappetit.com/recipes/slideshow/mushroom-recipes-slideshow</link>
+      <description>
+        <![CDATA[From vegetarian pastas to beefy soups, here are our favorite ways to use fungus.]]>
+      </description>
+      <source:markdown>From vegetarian pastas to beefy soups, here are our favorite ways to use fungus.</source:markdown>
+      <guid>cid://57ec3421b57053f5117fbf66</guid>
+    </item>    <item>
+      <title>Chipotle Cranberry Sauce</title>
+      <link>https://pepperscale.com/chipotle-cranberry-sauce/</link>
+      <description>
+        <![CDATA[Looking for a cranberry sauce with a smoky, spicy twist? This chipotle cranberry sauce recipe brings together tangy cranberries and earthy chipotle peppers for a bold, flavorful side that’s anything but ordinary. It’s the perfect spicy cranberry sauce to liven up your holiday table — ... <p class="read-more-container"><a title="Chipotle Cranberry Sauce" class="read-more button" href="https://pepperscale.com/chipotle-cranberry-sauce/#more-9112" aria-label="Read more about Chipotle Cranberry Sauce">Read more</a></p>]]>
+      </description>
+      <source:markdown>Looking for a cranberry sauce with a smoky, spicy twist? This chipotle cranberry sauce recipe brings together tangy cranberries and earthy chipotle peppers for a bold, flavorful side that’s anything but ordinary. It’s the perfect spicy cranberry sauce to liven up your holiday table — ...
+
+[Read more](https://pepperscale.com/chipotle-cranberry-sauce/#more-9112 &#34;Chipotle Cranberry Sauce&#34;)</source:markdown>
+      <guid>cid://https://pepperscalecom.bigscoots-staging.com/?p=9112</guid>
+    </item>    <item>
       <title>6 Quick Meals Our Editors Make With a Can of Beans</title>
       <link>https://www.bonappetit.com/story/quick-meals-our-editors-make-with-a-can-of-beans</link>
       <description>
@@ -23,6 +41,23 @@
       </description>
       <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster&#39;s Village.**</source:markdown>
       <guid>cid://https://sprudge.com/?p=436905</guid>
+    </item>    <item>
+      <title>50 Essential Thanksgiving Recipes</title>
+      <link>https://www.closetcooking.com/50-thanksgiving-recipes/</link>
+      <description>
+        <![CDATA[<div><img src="https://www.closetcooking.com/wp-content/uploads/2017/10/50-Essential-Thanksgiving-Recipes.jpg"/></div>
+        <p>The 50 top recipes for the best Thanksgiving meal; from breakfast, to snacks, and the turkey, to side dishes and dessert! I can hardly believe that it&#8217;s already that time of year but the holidays are upon us starting with Thanksgiving which is being celebrated next weekend in Canada! Of course that means that it...</p>
+        <p><a class="more-link" href="https://www.closetcooking.com/50-thanksgiving-recipes/">Read On &#8594;</a></p>
+        <p>The post <a href="https://www.closetcooking.com/50-thanksgiving-recipes/">50 Essential Thanksgiving Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://www.closetcooking.com/wp-content/uploads/2017/10/50-Essential-Thanksgiving-Recipes.jpg)
+
+The 50 top recipes for the best Thanksgiving meal; from breakfast, to snacks, and the turkey, to side dishes and dessert! I can hardly believe that it’s already that time of year but the holidays are upon us starting with Thanksgiving which is being celebrated next weekend in Canada! Of course that means that it...
+
+[Read On →](https://www.closetcooking.com/50-thanksgiving-recipes/)
+
+The post [50 Essential Thanksgiving Recipes](https://www.closetcooking.com/50-thanksgiving-recipes/) appeared first on [Closet Cooking](https://www.closetcooking.com).</source:markdown>
+      <guid>cid://https://www.closetcooking.com/2017/10/01/50-thanksgiving-recipes/</guid>
     </item>    <item>
       <title>Jalapeño Creamed Corn</title>
       <link>https://pepperscale.com/jalapeno-creamed-corn/</link>

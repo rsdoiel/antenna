@@ -4,10 +4,19 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>http://localhost:8000/librariesxml</link>
-    <lastBuildDate>05 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>05 Oct 25 11:14 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Short Science Fiction, by Isaac Asimov</title>
+      <link>https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction</link>
+      <description>
+        <![CDATA[A collection of short science fiction by Isaac Asimov, ordered by date of original publication.]]>
+      </description>
+      <source:markdown>A collection of short science fiction by Isaac Asimov, ordered by date of original publication.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction/downloads/isaac-asimov_short-science-fiction.epub?source=feed" length="502518" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction</guid>
+    </item>    <item>
       <title>The Ponson Case, by Freeman Wills Crofts</title>
       <link>https://standardebooks.org/ebooks/freeman-wills-crofts/the-ponson-case</link>
       <description>

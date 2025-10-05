@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>http://localhost:8000/columnsxml</link>
-    <lastBuildDate>05 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>05 Oct 25 11:14 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,77 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://www.nytimes.com/2025/10/04/opinion/trump-responsible-president-job-military.html?unlocked_article_code=1.q08.m5iO.QKg1t2v0l0kX&#38;smid=fb-share&#38;fbclid=IwY2xjawNPgmhleHRuA2FlbQIxMQBicmlkETF6M0pZMGpQMXBXWVZWdHFCAR61-EnGt7jOy7emoLTooDaJdxaRYYVVc9ZUaOfXGYiAQqtBL1BjMBpvfOnFug_aem_nHeHdnzy2S_IJWMi-cfe5g</link>
+      <description>
+        <![CDATA[<p>Who Is Donald Trump Responsible To?</p>]]>
+      </description>
+      <source:markdown>Who Is Donald Trump Responsible To?</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/05/1353/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/05.html#a155916</link>
+      <description>
+        <![CDATA[In 2014 I wrote a <a href="http://scripting.com/2014/09/28/myManifestoForWebWriting.html">manifesto</a> about web writing. A decade later later, I'm still trying to get writing on the web to work again. It was on a good track before the rude interruption.]]>
+      </description>
+      <source:markdown>In 2014 I wrote a [manifesto](http://scripting.com/2014/09/28/myManifestoForWebWriting.html) about web writing. A decade later later, I&#39;m still trying to get writing on the web to work again. It was on a good track before the rude interruption.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/05.html#a155916</guid>
+    </item>    <item>
+      <title>The Drifter</title>
+      <link>https://robinrendle.com/notes/the-drifter/</link>
+      <guid>cid://https://robinrendle.com/notes/the-drifter/</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2hhjc6bm22l</link>
+      <description>
+        <![CDATA[The decline started more than twenty five years ago. It dates back to when the term IPO became a mainstream word.
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>The decline started more than twenty five years ago. It dates back to when the term IPO became a mainstream word.
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m2hhjc6bm22l</guid>
+    </item>    <item>
+      <link>https://tilde.zone/@tomasino/115322317140372762</link>
+      <description>
+        <![CDATA[<p>What happens if you send your AI chatbot the word "corn" over and over again 50 times?</p>]]>
+      </description>
+      <source:markdown>What happens if you send your AI chatbot the word &#34;corn&#34; over and over again 50 times?</source:markdown>
+      <guid>cid://https://tilde.zone/@tomasino/115322317140372762</guid>
+    </item>    <item>
+      <title>Nightly email subs work again</title>
+      <link>http://scripting.com/2025/10/05/151542.html?title=nightlyEmailSubsWorkAgain</link>
+      <description>
+        <![CDATA[<p>Please <a href="https://subscribe.scripting.com/">try again</a> if you've been waiting.</p>
+        <p>Report problems <a href="https://github.com/scripting/Scripting-News/issues/330">here</a>.</p>
+        <p>It had been broken since Sept 14. </p>
+        <p>Still diggin! ;-)</p>
+        <p><a href="http://scripting.com/wavs/curly1.wav"><img src="https://imgs.scripting.com/2023/11/30/curly.png" width="53" height="63" border="0" alt="I'm trying to think but nothing happens!"></a></p>]]>
+      </description>
+      <source:markdown>Please [try again](https://subscribe.scripting.com/) if you&#39;ve been waiting.
+
+Report problems [here](https://github.com/scripting/Scripting-News/issues/330).
+
+It had been broken since Sept 14.
+
+Still diggin! ;-)
+
+[![I&#39;m trying to think but nothing happens!](https://imgs.scripting.com/2023/11/30/curly.png)](http://scripting.com/wavs/curly1.wav)</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/05/151542.html</guid>
+    </item>    <item>
+      <title>When a nearly 30-year old textbook is still the best on the digital economy</title>
+      <link>http://www.enlightenmenteconomics.com/blog/index.php/2025/10/when-an-old-textbook-is-still-the-best-on-digital-economics/</link>
+      <description>
+        <![CDATA[There&#8217;s a gap in the market. I&#8217;ve started developing a Digital/AI economics syllabus for policy MPhil students who won&#8217;t all be economics graduates; and of course there are loads of fantastic papers and resources online. It&#8217;s fairly straightforward to write &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2025/10/when-an-old-textbook-is-still-the-best-on-digital-economics/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>There’s a gap in the market. I’ve started developing a Digital/AI economics syllabus for policy MPhil students who won’t all be economics graduates; and of course there are loads of fantastic papers and resources online. It’s fairly straightforward to write … [Continue reading →](http://www.enlightenmenteconomics.com/blog/index.php/2025/10/when-an-old-textbook-is-still-the-best-on-digital-economics/)</source:markdown>
+      <guid>cid://http://www.enlightenmenteconomics.com/blog/?p=7887</guid>
+    </item>    <item>
+      <link>https://www.the-reframe.com/eventually-youre-going-to-have-to-stand-for-something-2/</link>
+      <description>
+        <![CDATA[<p>Eventually You're Going to Have to Stand for Something.</p>]]>
+      </description>
+      <source:markdown>Eventually You&#39;re Going to Have to Stand for Something.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/05/1351/</guid>
     </item>    <item>
       <title>A letter to myself: Strategies</title>
       <link>https://rachsmith.com/strategies/</link>
@@ -68,6 +139,126 @@ Thanks for reading this post via RSS! Let me know your thoughts by leaving a com
       </description>
       <source:markdown>“The AI-ification of email” keeps 404 Media’s Jason Koebler up at night.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/05/1349/</guid>
+    </item>    <item>
+      <title>Embracing the parallel coding agent lifestyle</title>
+      <link>https://simonwillison.net/2025/Oct/5/parallel-coding-agents/#atom-everything</link>
+      <description>
+        <![CDATA[<p>For a while now I've been hearing from engineers who run multiple coding agents at once - firing up several Claude Code or Codex CLI instances at the same time, sometimes in the same repo, sometimes against multiple checkouts or <a href="https://docs.claude.com/en/docs/claude-code/common-workflows#run-parallel-claude-code-sessions-with-git-worktrees">git worktrees</a>.</p>
+        <p>I was pretty skeptical about this at first. AI-generated code needs to be reviewed, which means the natural bottleneck on all of this is how fast I can review the results. It's tough keeping up with just a single LLM given how fast they can churn things out, where's the benefit from running more than one at a time if it just leaves me further behind?</p>
+        <p>Despite my misgivings, over the past few weeks I've noticed myself quietly starting to embrace the parallel coding agent lifestyle.</p>
+        <p>I can only focus on reviewing and landing one significant change at a time, but I'm finding an increasing number of tasks that can still be fired off in parallel without adding too much cognitive overhead to my primary work.</p>
+        <p>Here are some patterns I've found for applying parallel agents effectively.</p>
+        <h4 id="research-poc">Research for proof of concepts</h4>
+        <p>The first category of tasks I've been applying this pattern to is <strong>research</strong>.</p>
+        <p>Research tasks answer questions or provide recommendations without making modifications to a project that you plan to keep.</p>
+        <p>A lot of software projects start with a proof of concept. Can <a href="https://yjs.dev">Yjs</a> be used to implement a simple collaborative note writing tool with a Python backend? The <a href="https://github.com/y-crdt/pycrdt">libraries exist</a>, but do they work when you wire them together?</p>
+        <p>Today's coding agents can build a proof of concept with new libraries and resolve those kinds of basic questions. Libraries too new to be in the training data? Doesn't matter: tell them to checkout the repos for those new dependencies and read the code to figure out how to use them.</p>
+        <h4 id="how-does-that-work-again">How does that work again?</h4>
+        <p>If you need a reminder about how a portion of your existing system works, modern "reasoning" LLMs can provide a detailed, actionable answer in just a minute or two.</p>
+        <p>It doesn't matter how large your codebase is: coding agents are extremely effective with tools like grep and can follow codepaths through dozens of different files if they need to.</p>
+        <p>Ask them to make notes on where your signed cookies are set and read, or how your application uses subprocesses and threads, or which aspects of your JSON API aren't yet covered by your documentation.</p>
+        <p>These LLM-generated explanations are worth stashing away somewhere, because they can make excellent context to paste into further prompts in the future.</p>
+        <h4 id="small-maintenance-tasks">Small maintenance tasks</h4>
+        <p>Now we're moving on to code edits that we intend to keep, albeit with <em>very</em> low-stakes. It turns out there are a lot of problems that really just require a little bit of extra cognitive overhead which can be outsourced to a bot.</p>
+        <p>Warnings are a great example. Is your test suite spitting out a warning that something you are using is deprecated? Chuck that at a bot - tell it to run the test suite and figure out how to fix the warning. No need to take a break from what you're doing to resolve minor irritations like that.</p>
+        <p>There is a definite knack to spotting opportunities like this. As always, the best way to develop that instinct is to try things - any small maintenance task is something that's worth trying with a coding agent. You can learn from both their successes <em>and</em> their failures.</p>
+        <h4 id="carefully-specified-and-directed-actual-work">Carefully specified and directed actual work</h4>
+        <p>Reviewing code that lands on your desk out of nowhere is a <em>lot</em> of work. First you have to derive the goals of the new implementation: what's it trying to achieve? Is this something the project needs? Is the approach taken the best for this current project, given other future planned changes? A lot of big questions before you can even start digging into the details of the code.</p>
+        <p>Code that started from your own specification is a lot less effort to review. If you already decided what to solve, picked the approach and worked out a detailed specification for the work itself, confirming it was built to your needs can take a lot less time.</p>
+        <p>I described my <a href="https://simonwillison.net/2025/Mar/11/using-llms-for-code/#tell-them-exactly-what-to-do">more authoritarian approach</a> to prompting models for code back in March. If I tell them <em>exactly</em> how to build something the work needed to review the resulting changes is a whole lot less taxing.</p>
+        <h4 id="how-i-m-using-these-tools-today">How I'm using these tools today</h4>
+        <p>My daily drivers are currently <a href="https://www.claude.com/product/claude-code">Claude Code</a> (on Sonnet 4.5), <a href="https://github.com/openai/codex">Codex CLI</a> (on GPT-5-Codex), and <a href="https://chatgpt.com/codex">Codex Cloud</a> (for asynchronous tasks, frequently launched from my phone.)</p>
+        <p>I'm also dabbling with <a href="https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-coding-agent">GitHub Copilot Coding Agent</a> (the agent baked into the <a href="https://github.com">GitHub.com</a> web interface in various places) and <a href="https://jules.google">Google Jules</a>, Google's currently-free alternative to Codex Cloud.</p>
+        <p>I'm still settling into patterns that work for me. I imagine I'll be iterating on my processes for a long time to come, especially as the landscape of coding agents continues to evolve.</p>
+        <p>I frequently have multiple terminal windows open running different coding agents in different directories. These are currently a mixture of Claude Code and Codex CLI, running in <a href="https://simonwillison.net/2025/Sep/30/designing-agentic-loops/#the-joy-of-yolo-mode">YOLO mode</a> (no approvals) for tasks where I'm confident malicious instructions can't sneak into the context.</p>
+        <p>(I need to start habitually running my local agents in Docker containers to further limit the blast radius if something goes wrong.)</p>
+        <p>I haven't adopted git worktrees yet: if I want to run two agents in isolation against the same repo I do a fresh checkout, often into <code>/tmp</code>.</p>
+        <p>For riskier tasks I'm currently using asynchronous coding agents - usually Codex Cloud - so if anything goes wrong the worst that can happen is my source code getting leaked (since <a href="https://simonwillison.net/2025/Jun/3/codex-agent-internet-access/">I allow it to have network access</a> while running). Most of what I work on is open source anyway so that's not a big concern for me.</p>
+        <p>I occasionally use <a href="https://github.com/features/codespaces">GitHub Codespaces</a> to run VS Code's agent mode, which is surprisingly effective and runs directly in my browser. This is particularly great for workshops and demos since it works for anyone with GitHub account, no extra API key necessary.</p>
+        <h4 id="please-share-your-patterns-that-work">Please share your patterns that work</h4>
+        <p>This category of coding agent software is still really new, and the models have only really got good enough to drive them effectively in the past few months - Claude 4 and GPT-5 in particular.</p>
+        <p>I plan to write more as I figure out the ways of using them that are most effective. I encourage other practitioners to do the same!</p>
+        <h4 id="recommended-reading">Recommended reading</h4>
+        <p>Jesse Vincent wrote <a href="https://blog.fsck.com/2025/10/05/how-im-using-coding-agents-in-september-2025/">How I'm using coding agents in September, 2025</a> which describes his workflow for parallel agents in detail, including having an architect agent iterate on a plan which is then reviewed and implemented by fresh instances of Claude Code.</p>
+            
+                <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/codex-cli">codex-cli</a></p>]]>
+      </description>
+      <source:markdown>For a while now I&#39;ve been hearing from engineers who run multiple coding agents at once - firing up several Claude Code or Codex CLI instances at the same time, sometimes in the same repo, sometimes against multiple checkouts or [git worktrees](https://docs.claude.com/en/docs/claude-code/common-workflows#run-parallel-claude-code-sessions-with-git-worktrees).
+
+I was pretty skeptical about this at first. AI-generated code needs to be reviewed, which means the natural bottleneck on all of this is how fast I can review the results. It&#39;s tough keeping up with just a single LLM given how fast they can churn things out, where&#39;s the benefit from running more than one at a time if it just leaves me further behind?
+
+Despite my misgivings, over the past few weeks I&#39;ve noticed myself quietly starting to embrace the parallel coding agent lifestyle.
+
+I can only focus on reviewing and landing one significant change at a time, but I&#39;m finding an increasing number of tasks that can still be fired off in parallel without adding too much cognitive overhead to my primary work.
+
+Here are some patterns I&#39;ve found for applying parallel agents effectively.
+
+#### Research for proof of concepts
+
+The first category of tasks I&#39;ve been applying this pattern to is **research**.
+
+Research tasks answer questions or provide recommendations without making modifications to a project that you plan to keep.
+
+A lot of software projects start with a proof of concept. Can [Yjs](https://yjs.dev) be used to implement a simple collaborative note writing tool with a Python backend? The [libraries exist](https://github.com/y-crdt/pycrdt), but do they work when you wire them together?
+
+Today&#39;s coding agents can build a proof of concept with new libraries and resolve those kinds of basic questions. Libraries too new to be in the training data? Doesn&#39;t matter: tell them to checkout the repos for those new dependencies and read the code to figure out how to use them.
+
+#### How does that work again?
+
+If you need a reminder about how a portion of your existing system works, modern &#34;reasoning&#34; LLMs can provide a detailed, actionable answer in just a minute or two.
+
+It doesn&#39;t matter how large your codebase is: coding agents are extremely effective with tools like grep and can follow codepaths through dozens of different files if they need to.
+
+Ask them to make notes on where your signed cookies are set and read, or how your application uses subprocesses and threads, or which aspects of your JSON API aren&#39;t yet covered by your documentation.
+
+These LLM-generated explanations are worth stashing away somewhere, because they can make excellent context to paste into further prompts in the future.
+
+#### Small maintenance tasks
+
+Now we&#39;re moving on to code edits that we intend to keep, albeit with _very_ low-stakes. It turns out there are a lot of problems that really just require a little bit of extra cognitive overhead which can be outsourced to a bot.
+
+Warnings are a great example. Is your test suite spitting out a warning that something you are using is deprecated? Chuck that at a bot - tell it to run the test suite and figure out how to fix the warning. No need to take a break from what you&#39;re doing to resolve minor irritations like that.
+
+There is a definite knack to spotting opportunities like this. As always, the best way to develop that instinct is to try things - any small maintenance task is something that&#39;s worth trying with a coding agent. You can learn from both their successes _and_ their failures.
+
+#### Carefully specified and directed actual work
+
+Reviewing code that lands on your desk out of nowhere is a _lot_ of work. First you have to derive the goals of the new implementation: what&#39;s it trying to achieve? Is this something the project needs? Is the approach taken the best for this current project, given other future planned changes? A lot of big questions before you can even start digging into the details of the code.
+
+Code that started from your own specification is a lot less effort to review. If you already decided what to solve, picked the approach and worked out a detailed specification for the work itself, confirming it was built to your needs can take a lot less time.
+
+I described my [more authoritarian approach](https://simonwillison.net/2025/Mar/11/using-llms-for-code/#tell-them-exactly-what-to-do) to prompting models for code back in March. If I tell them _exactly_ how to build something the work needed to review the resulting changes is a whole lot less taxing.
+
+#### How I&#39;m using these tools today
+
+My daily drivers are currently [Claude Code](https://www.claude.com/product/claude-code) (on Sonnet 4.5), [Codex CLI](https://github.com/openai/codex) (on GPT-5-Codex), and [Codex Cloud](https://chatgpt.com/codex) (for asynchronous tasks, frequently launched from my phone.)
+
+I&#39;m also dabbling with [GitHub Copilot Coding Agent](https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-coding-agent) (the agent baked into the [GitHub.com](https://github.com) web interface in various places) and [Google Jules](https://jules.google), Google&#39;s currently-free alternative to Codex Cloud.
+
+I&#39;m still settling into patterns that work for me. I imagine I&#39;ll be iterating on my processes for a long time to come, especially as the landscape of coding agents continues to evolve.
+
+I frequently have multiple terminal windows open running different coding agents in different directories. These are currently a mixture of Claude Code and Codex CLI, running in [YOLO mode](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/#the-joy-of-yolo-mode) (no approvals) for tasks where I&#39;m confident malicious instructions can&#39;t sneak into the context.
+
+(I need to start habitually running my local agents in Docker containers to further limit the blast radius if something goes wrong.)
+
+I haven&#39;t adopted git worktrees yet: if I want to run two agents in isolation against the same repo I do a fresh checkout, often into `/tmp`.
+
+For riskier tasks I&#39;m currently using asynchronous coding agents - usually Codex Cloud - so if anything goes wrong the worst that can happen is my source code getting leaked (since [I allow it to have network access](https://simonwillison.net/2025/Jun/3/codex-agent-internet-access/) while running). Most of what I work on is open source anyway so that&#39;s not a big concern for me.
+
+I occasionally use [GitHub Codespaces](https://github.com/features/codespaces) to run VS Code&#39;s agent mode, which is surprisingly effective and runs directly in my browser. This is particularly great for workshops and demos since it works for anyone with GitHub account, no extra API key necessary.
+
+#### Please share your patterns that work
+
+This category of coding agent software is still really new, and the models have only really got good enough to drive them effectively in the past few months - Claude 4 and GPT-5 in particular.
+
+I plan to write more as I figure out the ways of using them that are most effective. I encourage other practitioners to do the same!
+
+#### Recommended reading
+
+Jesse Vincent wrote [How I&#39;m using coding agents in September, 2025](https://blog.fsck.com/2025/10/05/how-im-using-coding-agents-in-september-2025/) which describes his workflow for parallel agents in detail, including having an architect agent iterate on a plan which is then reviewed and implemented by fresh instances of Claude Code.
+
+Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [ai-agents](https://simonwillison.net/tags/ai-agents), [coding-agents](https://simonwillison.net/tags/coding-agents), [claude-code](https://simonwillison.net/tags/claude-code), [codex-cli](https://simonwillison.net/tags/codex-cli)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/5/parallel-coding-agents/#atom-everything</guid>
     </item>    <item>
       <title>’The Joker’</title>
       <link>https://steady.substack.com/p/the-joker</link>

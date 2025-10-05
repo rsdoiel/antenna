@@ -4,7 +4,7 @@
   <channel>
     <title>Science and Technology</title>
     <link>http://localhost:8000/science_and_technologyxml</link>
-    <lastBuildDate>05 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>05 Oct 25 11:14 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -97,11 +97,11 @@ Ransomware has left Japan&#39;s biggest brewer struggling to ship beer, with Asa
       <title>&#39;Retired&#39; cybercrime group demands $989M not to leak 1B Salesforce records</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/03/scattered_lapsus_hunters_latest_leak/</link>
       <description>
-        <![CDATA[<h4>CRM giant insists its platform wasn’t breached</h4> <p>Despite multiple arrests and talk of retirement, a crew now calling itself Scattered LAPSUS$ Hunters has reemerged with a data-leak site listing about 40 companies’ Salesforce environments, and is demanding $989.45 to prevent what it claims is about 1 billion stolen records from being published online.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+        <![CDATA[<h4>CRM giant insists its platform wasn’t breached</h4> <p>Despite multiple arrests and talk of retirement, a crew now calling itself Scattered LAPSUS$ Hunters has reemerged with a data-leak site listing about 40 companies’ Salesforce environments, and is demanding $989.45 million to prevent what it claims is about 1 billion stolen records from being published online.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
       <source:markdown>#### CRM giant insists its platform wasn’t breached
 
-Despite multiple arrests and talk of retirement, a crew now calling itself Scattered LAPSUS$ Hunters has reemerged with a data-leak site listing about 40 companies’ Salesforce environments, and is demanding $989.45 to prevent what it claims is about 1 billion stolen records from being published online.…</source:markdown>
+Despite multiple arrests and talk of retirement, a crew now calling itself Scattered LAPSUS$ Hunters has reemerged with a data-leak site listing about 40 companies’ Salesforce environments, and is demanding $989.45 million to prevent what it claims is about 1 billion stolen records from being published online.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242305</guid>
     </item>    <item>
       <title>Scientists Finally Found Phosphine on a Brown Dwarf. Here&#39;s What That Means for the Search for Extraterrestrial Life</title>
@@ -198,12 +198,12 @@ The post [How One AI Model Creates a Physical Intuition of Its Environment](http
 Munich Airport was temporarily closed last night following reports of drones buzzing around the area.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242294</guid>
     </item>    <item>
-      <title>All eyes on markets for AI Bubble Watch: Is it a Floater or a Popper?</title>
+      <title>Big money is nervous about AI hype, but not ready to call it a bubble</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/03/ai_bubble_watch_markets/</link>
       <description>
-        <![CDATA[<h4>Exploding valuations and mountains of debt co-exist with a US government shutdown. How long can we stay on the hype-cycle rollercoaster?</h4> <p><strong>Analysis</strong>  In an employee share sell-off this week, OpenAI achieved <a target="_blank" href="https://www.theregister.com/2025/10/02/openai_ropes_in_samsung_and/">a nominal value of $500 billion</a>. In terms of valuation, the posterchild of GenAI — which is yet to make a profit — left in its dust companies like Toyota, the world&#39;s largest automaker.…</p>]]>
+        <![CDATA[<h4>Exploding valuations and mountains of debt, and yet....</h4> <p><strong>Analysis</strong>  In an employee share sell-off this week, OpenAI achieved <a target="_blank" href="https://www.theregister.com/2025/10/02/openai_ropes_in_samsung_and/">a nominal value of $500 billion</a>. In terms of valuation, the posterchild of GenAI — which is yet to make a profit — left in its dust companies like Toyota, the world&#39;s largest automaker.…</p>]]>
       </description>
-      <source:markdown>#### Exploding valuations and mountains of debt co-exist with a US government shutdown. How long can we stay on the hype-cycle rollercoaster?
+      <source:markdown>#### Exploding valuations and mountains of debt, and yet....
 
 **Analysis**  In an employee share sell-off this week, OpenAI achieved [a nominal value of $500 billion](https://www.theregister.com/2025/10/02/openai_ropes_in_samsung_and/). In terms of valuation, the posterchild of GenAI — which is yet to make a profit — left in its dust companies like Toyota, the world&#39;s largest automaker.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242292</guid>
@@ -582,11 +582,11 @@ Italian rocket company Avio has signed a €40 million contract with the Europea
       <title>Cybercrims claim raid on 28,000 Red Hat repos, say they have sensitive customer files</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/02/cybercrims_claim_raid_on_28000/</link>
       <description>
-        <![CDATA[<h4>570GB of data claimed to be stolen by the Crimson Collective</h4> <p>A hacking crew claims to have broken into Red Hat&#39;s private GitHub repositories, exfiltrating some 570GB of compressed data, including sensitive documents belonging to customers. …</p>]]>
+        <![CDATA[<h4>570GB of data claimed to be stolen by the Crimson Collective</h4> <p>A hacking crew claims to have broken into Red Hat&#39;s private GitLab repositories, exfiltrating some 570GB of compressed data, including sensitive documents belonging to customers. …</p>]]>
       </description>
       <source:markdown>#### 570GB of data claimed to be stolen by the Crimson Collective
 
-A hacking crew claims to have broken into Red Hat&#39;s private GitHub repositories, exfiltrating some 570GB of compressed data, including sensitive documents belonging to customers. …</source:markdown>
+A hacking crew claims to have broken into Red Hat&#39;s private GitLab repositories, exfiltrating some 570GB of compressed data, including sensitive documents belonging to customers. …</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242268</guid>
     </item>    <item>
       <title>Ionos customers fume at mid-contract Plesk hike</title>

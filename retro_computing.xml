@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>http://localhost:8000/retro_computingxml</link>
-    <lastBuildDate>05 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>05 Oct 25 11:14 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Images of the 6530s I have</title>
+      <link>http://retro.hansotten.nl/images-of-the-6530s-i-have/</link>
+      <description>
+        <![CDATA[Over the years I have acquired quite some 6530 ICs. Either as IC or built into a KIM-1, Jolt or Chessmate. On this page I show these 6530s. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you search for those, ...Magazines: [&#8230;]]]>
+      </description>
+      <source:markdown>Over the years I have acquired quite some 6530 ICs. Either as IC or built into a KIM-1, Jolt or Chessmate. On this page I show these 6530s. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you search for those, ...Magazines: \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=18977</guid>
+    </item>    <item>
       <title>The end of AOL dialup</title>
       <link>https://oldvcr.blogspot.com/2025/10/the-end-of-aol-dialup.html</link>
       <description>
