@@ -7,10 +7,57 @@
       Going Electric has feeds involving home and transportation options powered by Electricity
     </description>
     <link>http://localhost:8000/going_electricxml</link>
-    <lastBuildDate>04 Oct 25 15:08 -0700</lastBuildDate>
+    <lastBuildDate>05 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Many Volkswagen EVs Don’t Have Battery Preconditioning. Now, There’s A Solution</title>
+      <link>https://insideevs.com/news/774611/vw-id3-id4-skoda-enyaq-battery-preconditioning-mod/</link>
+      <description>
+        <![CDATA[There’s some light tinkering involved, and it’s not exactly elegant. But it works, which could be a huge win this winter.]]>
+      </description>
+      <source:markdown>There’s some light tinkering involved, and it’s not exactly elegant. But it works, which could be a huge win this winter.</source:markdown>
+      <enclosure url="https://cdn.motor1.com/images/mgl/9mpW3y/s3/volkswagen-id.4-battery-heating-mod.jpg" length="34261" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/774611/vw-id3-id4-skoda-enyaq-battery-preconditioning-mod/</guid>
+    </item>    <item>
+      <title>Autonomous electric semi truck brand Einride hits $1 billion valuation</title>
+      <link>https://electrek.co/2025/10/05/autonomous-electric-semi-truck-brand-einride-hits-1-billion-valuation/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/09/einride_4.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Part self-driving tech brand, part 3PL, Swedish trucking startup Einride AB has been making a name for itself in the US and abroad by delivering zero-emission freight solutions that work. Following the company’s latest $100 million funding round, it’s delivering something else, too: <strong>a billion dollar valuation</strong>.</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="einride,electric-semi-truck" data-layer-viewtype="unknown" data-post-id="437333" href="https://electrek.co/2025/10/05/autonomous-electric-semi-truck-brand-einride-hits-1-billion-valuation/#more-437333" class="more-link">more…</a>]]>
+      </description>
+      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2025/09/einride_4.jpg?quality=82&#38;strip=all&#38;w=1600)
+
+Part self-driving tech brand, part 3PL, Swedish trucking startup Einride AB has been making a name for itself in the US and abroad by delivering zero-emission freight solutions that work. Following the company’s latest $100 million funding round, it’s delivering something else, too: **a billion dollar valuation**.
+
+ [more…](https://electrek.co/2025/10/05/autonomous-electric-semi-truck-brand-einride-hits-1-billion-valuation/#more-437333)</source:markdown>
+      <guid>cid://https://electrek.co/?p=437333</guid>
+    </item>    <item>
+      <title>You can get antique plates for a first-gen Prius now — feeling old, yet?</title>
+      <link>https://electrek.co/2025/10/04/you-can-get-antique-plates-for-a-first-gen-prius-now-feeling-old-yet/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/10/prius-2.jpg?quality=82&#038;strip=all&#038;w=1536" /></div><p>This fall marks the 25th anniversary of the US launch of the first-gen Toyota Prius — a car that, arguably, has done more to more to shift the market away from fossil fuels than any other single vehicle (more on that in a minute). That means that, in many states, you can now get “antique” or “historic” plates for a modern hybrid.</p>
+        
+        
+        
+        <p>If that sounds appealing to you, here’s what it might cost to keep that OG Prius on the road for many more years to come.</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="opinion,toyota" data-layer-viewtype="unknown" data-post-id="437299" href="https://electrek.co/2025/10/04/you-can-get-antique-plates-for-a-first-gen-prius-now-feeling-old-yet/#more-437299" class="more-link">more…</a>]]>
+      </description>
+      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2025/10/prius-2.jpg?quality=82&#38;strip=all&#38;w=1536)
+
+This fall marks the 25th anniversary of the US launch of the first-gen Toyota Prius — a car that, arguably, has done more to more to shift the market away from fossil fuels than any other single vehicle (more on that in a minute). That means that, in many states, you can now get “antique” or “historic” plates for a modern hybrid.
+
+If that sounds appealing to you, here’s what it might cost to keep that OG Prius on the road for many more years to come.
+
+ [more…](https://electrek.co/2025/10/04/you-can-get-antique-plates-for-a-first-gen-prius-now-feeling-old-yet/#more-437299)</source:markdown>
+      <guid>cid://https://electrek.co/?p=437299</guid>
+    </item>    <item>
       <title>What messy middle? Orange EV has logged over 10 MILLION all-electric hours!</title>
       <link>https://electrek.co/2025/10/04/what-messy-middle-orange-ev-has-logged-over-10-million-all-electric-miles/</link>
       <description>
@@ -4778,59 +4825,6 @@ Head below for other New Green Deals we’ve found today and, of course, [_Elec
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/3Wmv8Y/s3/hot-weather-range-test.jpg" length="17690" type="image/jpeg" />
       <guid>cid://https://insideevs.com/news/772221/extreme-heat-group-range-test/</guid>
-    </item>    <item>
-      <title>How Xpeng Aims To Out-Tesla Tesla In Europe—And Beyond</title>
-      <link>https://insideevs.com/news/772206/xpeng-iaa-munich-p7-tesla/</link>
-      <description>
-        <![CDATA[Chinese brands like BYD and MG are thriving. But Xpeng, with both affordable and high-tech EVs, deserves attention too. It's even making robots.]]>
-      </description>
-      <enclosure url="https://cdn.motor1.com/images/mgl/W87GLN/s3/xpeng-p7.jpg" length="21703" type="image/jpeg" />
-      <guid>cid://https://insideevs.com/news/772206/xpeng-iaa-munich-p7-tesla/</guid>
-    </item>    <item>
-      <title>Tesla discontinues cheapest Cybertruck, no one wanted it</title>
-      <link>https://electrek.co/2025/09/13/tesla-discontinues-cheapest-cybertruck/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Screenshot-2025-04-10-at-4.41.14 PM.jpg?quality=82&#038;strip=all&#038;w=1137" /></div><p>Tesla has discontinued the cheapest version of the Cybertruck just a few months after launching it. </p>
-        
-        
-        
-        <p>No one wanted the gutted electric truck.</p>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="434117" href="https://electrek.co/2025/09/13/tesla-discontinues-cheapest-cybertruck/#more-434117" class="more-link">more…</a>]]>
-      </description>
-      <guid>cid://https://electrek.co/?p=434117</guid>
-    </item>    <item>
-      <title>Budget-Friendly Porsche 924S EV Conversion Is Just What The Doctor Ordered</title>
-      <link>https://insideevs.com/news/772103/porsche-924s-ev-conversion-leaf/</link>
-      <description>
-        <![CDATA[Classic looks with more than decent performance for less money than any new EV. What’s not to like?]]>
-      </description>
-      <enclosure url="https://cdn.motor1.com/images/mgl/JOZxzQ/s3/1988-porsche-924s-ev-conversion.jpg" length="26769" type="image/jpeg" />
-      <guid>cid://https://insideevs.com/news/772103/porsche-924s-ev-conversion-leaf/</guid>
-    </item>    <item>
-      <title>Get EV questions answered or test drive one at Drive Electric Month, in your area</title>
-      <link>https://electrek.co/2025/09/13/get-ev-questions-answered-or-test-drive-one-at-drive-electric-month-in-your-area/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/09/2665.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Drive Electric Month kicks off this week with <a href="https://driveelectricweek.org/attend">nearly 200 online and in-person events</a> celebrating electric vehicles over the course of the next month. Events will be held for the next several weekends all across the US, plus a few in Canada and one in Guadalajara, Mexico.</p>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="national-drive-electric-week,plug-in-america" data-layer-viewtype="unknown" data-post-id="433575" href="https://electrek.co/2025/09/13/get-ev-questions-answered-or-test-drive-one-at-drive-electric-month-in-your-area/#more-433575" class="more-link">more…</a>]]>
-      </description>
-      <guid>cid://https://electrek.co/?p=433575</guid>
-    </item>    <item>
-      <title>Electric haul trucks could save Fortescue over $400 million in fuel per year</title>
-      <link>https://electrek.co/2025/09/12/electric-haul-trucks-could-save-fortescue-over-400-million-in-fuel-per-year/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/09/liebherr-t264.png?w=1600" /></div><p>Fortescue is marching towards zero emissions as it invests in new, zero-emission mining equipment options across its global operations. And that investment? It’s already paying off. One analyst says the company’s saving almost $400 million in fuel costs alone. <a href="https://www.linkedin.com/posts/gavinmooney_mining-energy-sustainability-activity-7371674683072684032-MNrw/" target="_blank" rel="noreferrer noopener">Each year</a>.</p>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="fleet,fortescue,mining" data-layer-viewtype="unknown" data-post-id="434088" href="https://electrek.co/2025/09/12/electric-haul-trucks-could-save-fortescue-over-400-million-in-fuel-per-year/#more-434088" class="more-link">more…</a>]]>
-      </description>
-      <guid>cid://https://electrek.co/?p=434088</guid>
     </item>
   </channel>
 </rss>

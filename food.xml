@@ -4,10 +4,36 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>http://localhost:8000/foodxml</link>
-    <lastBuildDate>04 Oct 25 15:08 -0700</lastBuildDate>
+    <lastBuildDate>05 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>6 Quick Meals Our Editors Make With a Can of Beans</title>
+      <link>https://www.bonappetit.com/story/quick-meals-our-editors-make-with-a-can-of-beans</link>
+      <description>
+        <![CDATA[Like beans on toast, hefty salads, and weeknight quesadillas.]]>
+      </description>
+      <source:markdown>Like beans on toast, hefty salads, and weeknight quesadillas.</source:markdown>
+      <guid>cid://68dc4c536aafcaad280ce3f3</guid>
+    </item>    <item>
+      <title>The Roasters Village Presents Delicious Coffee For Autumn</title>
+      <link>https://sprudge.com/the-black-parade-you-mean-the-line-at-the-pour-over-bar-436905.html</link>
+      <description>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster's Village.]]>
+      </description>
+      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster&#39;s Village.**</source:markdown>
+      <guid>cid://https://sprudge.com/?p=436905</guid>
+    </item>    <item>
+      <title>Jalapeño Creamed Corn</title>
+      <link>https://pepperscale.com/jalapeno-creamed-corn/</link>
+      <description>
+        <![CDATA[Looking for a side dish that walks the line between comfort food and bold, spicy flavor? This jalapeño creamed corn recipe delivers both. It’s creamy, cheesy, and rich — everything you love about traditional creamed corn — but with a lively jalapeño twist that adds ... <p class="read-more-container"><a title="Jalapeño Creamed Corn" class="read-more button" href="https://pepperscale.com/jalapeno-creamed-corn/#more-18554" aria-label="Read more about Jalapeño Creamed Corn">Read more</a></p>]]>
+      </description>
+      <source:markdown>Looking for a side dish that walks the line between comfort food and bold, spicy flavor? This jalapeño creamed corn recipe delivers both. It’s creamy, cheesy, and rich — everything you love about traditional creamed corn — but with a lively jalapeño twist that adds ...
+
+[Read more](https://pepperscale.com/jalapeno-creamed-corn/#more-18554 &#34;Jalapeño Creamed Corn&#34;)</source:markdown>
+      <guid>cid://https://www.pepperscale.com/?p=18554</guid>
+    </item>    <item>
       <title>What’s A Good Creole Seasoning Substitute?</title>
       <link>https://pepperscale.com/creole-seasoning-substitute/</link>
       <description>
@@ -2461,20 +2487,6 @@ The post [Creamy Fry Sauce Recipe](https://www.chilipeppermadness.com/chili-pepp
 
 The post [20 Minute Meals](https://www.closetcooking.com/20-minute-meals/) appeared first on [Closet Cooking](https://www.closetcooking.com).</source:markdown>
       <guid>cid://https://www.closetcooking.com/2017/09/17/20-minute-meals/</guid>
-    </item>    <item>
-      <title>Your Coffee Counter Could Use An Update</title>
-      <link>https://sprudge.com/your-coffee-counter-could-use-an-update-424053.html</link>
-      <description>
-        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. This week's selection of coffee gear.]]>
-      </description>
-      <guid>cid://https://sprudge.com/?p=424053</guid>
-    </item>    <item>
-      <title>53 Thanksgiving Recipes We Turn to Year After Year</title>
-      <link>https://www.bonappetit.com/gallery/best-thanksgiving-recipes-ideas-gallery</link>
-      <description>
-        <![CDATA[Maple-glazed turkey, pumpkin chiffon pie, brussels sprout stir-fry and more iconic recipes.]]>
-      </description>
-      <guid>cid://57ed3b748fb26d7d72d1d94b</guid>
     </item>
   </channel>
 </rss>

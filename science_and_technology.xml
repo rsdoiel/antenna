@@ -4,10 +4,30 @@
   <channel>
     <title>Science and Technology</title>
     <link>http://localhost:8000/science_and_technologyxml</link>
-    <lastBuildDate>04 Oct 25 15:08 -0700</lastBuildDate>
+    <lastBuildDate>05 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>AI chatbots that butter you up make you worse at conflict, study finds</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/05/ai_models_flatter_users_worse_confilict/</link>
+      <description>
+        <![CDATA[<h4>Top AI models keep saying you’re right, and that’s the problem</h4> <p>State-of-the-art AI models tend to flatter users, and that praise makes people more convinced that they&#39;re right and less willing to resolve conflicts, recent research suggests.…</p>]]>
+      </description>
+      <source:markdown>#### Top AI models keep saying you’re right, and that’s the problem
+
+State-of-the-art AI models tend to flatter users, and that praise makes people more convinced that they&#39;re right and less willing to resolve conflicts, recent research suggests.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242314</guid>
+    </item>    <item>
+      <title>Hacking contest kerfuffle over copied rules pits Wiz against ZDI</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/05/zdi_wiz_hacking_contest_kerfuffle/</link>
+      <description>
+        <![CDATA[<h4>&#39;Seems like you should at least run that through ChatGPT to reword it&#39;</h4> <p>A new hacking contest has caused a social media kerfuffle over allegations of rule copying and plagiarism.…</p>]]>
+      </description>
+      <source:markdown>#### &#39;Seems like you should at least run that through ChatGPT to reword it&#39;
+
+A new hacking contest has caused a social media kerfuffle over allegations of rule copying and plagiarism.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242312</guid>
+    </item>    <item>
       <title>Hacked Ford screens put anti-RTO slogan above CEO’s face</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/04/ford_rto_hack/</link>
       <description>
@@ -5076,27 +5096,6 @@ The post [How We Came To Know Earth](https://www.quantamagazine.org/how-we-came-
         <![CDATA[<h4>The hardware is now compelling, sales are rising, and there&#39;s the chance to create a new experience</h4> <p><strong>hands on</strong>  Folding smartphones have been with us for six years without winning much market share, but after two weeks using Samsung&#39;s latest model, and recent reports of surging sales in the category, it feels to me like dual-screened devices are something developers now need to consider.…</p>]]>
       </description>
       <guid>cid://tag:theregister.com,2005:story241891</guid>
-    </item>    <item>
-      <title>“UTF-8 is a brilliant design”</title>
-      <link>https://www.osnews.com/story/143326/utf-8-is-a-brilliant-design/</link>
-      <description>
-        <![CDATA[The first time I learned about UTF-8 encoding, I was fascinated by how well-thought and brilliantly it was designed to represent millions of characters from different languages and scripts, and still be backward compatible with ASCII.  Designing a system that scales to millions of characters and still be compatible with the old systems that use just 128 characters is a brilliant design. ↫ Vishnu Haridas On a slightly related note, if you are ever bothered or annoyed by text online rendering as unknown squares, you most likely are just missing the proper fonts to render them. At least on most Linux and BSD systems, all you need to do is install the entire set of Noto fonts, including those for every single non-Latin script. Assuming your package manager has sane naming conventions, it&#8217;ll most likely come down to something like sudo dnf install google-noto* or whatever your system&#8217;s install package command is, and after installing a whole slew of font files, your system will now be able to render virtually every script under the sun. After installing this massive font set, you can do things like write and render in hieroglyphics, write Ea-nāṣir&#8216;s name the way it&#8217;s supposed to, and render all kinds of other scripts and symbols without ever having to look at one of those blank squares ever again.]]>
-      </description>
-      <guid>cid://https://www.osnews.com/?p=143326</guid>
-    </item>    <item>
-      <title>Bring back your old Mac: 5 ways to refresh the OS on elderly Apples</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/13/refresh_an_old_mac/</link>
-      <description>
-        <![CDATA[<h4>Newer OSes for unsupported kit, and new browsers for older OSes. There&#39;s always a way</h4> <p>Any day now, a new version of Apple&#39;s macOS is due to launch, and it will exclude the bulk of the Intel-powered models the company has ever sold. However, there are multiple ways to breathe new life into Macs that go back as far as 10 or even 15 years.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241903</guid>
-    </item>    <item>
-      <title>Inventor who encouraged Elon Musk to make Optimus says most humanoid robots today are &#39;terrifying&#39;</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/13/to_make_a_humanoid_robot/</link>
-      <description>
-        <![CDATA[<h4>Scott LaValley, CEO of Cartwheel Robotics, says robot makers should prioritize social acceptance over capabilities</h4> <p><strong>interview</strong>  Scott LaValley, founder and CEO of Cartwheel Robotics, suspects he may have helped encourage Elon Musk to get into the humanoid robot business.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241885</guid>
     </item>
   </channel>
 </rss>

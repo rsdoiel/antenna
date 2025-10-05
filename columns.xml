@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>http://localhost:8000/columnsxml</link>
-    <lastBuildDate>04 Oct 25 15:08 -0700</lastBuildDate>
+    <lastBuildDate>05 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,180 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>A letter to myself: Strategies</title>
+      <link>https://rachsmith.com/strategies/</link>
+      <description>
+        <![CDATA[<ol>
+        <li>When you put something in the oven and need to remember to take it out, or put washing in the machine and need to remember to hang it out, or need to do anything else time-sensitive like take medication, set a reminder for it. And not just any alarm or reminder, the kind that <a href="https://www.dueapp.com/">bugs you over and over</a> until you do it.</li>
+        <li>When packing for family trips, use your lists. Keep the lists updated. Refer back to the lists every time you pack. Don&#39;t assume it will be fine because you&#39;ve done it 20 times before. You <em>will</em> forget to pack yourself underwear or worst of all, one of the 5 sleep aids your child needs to fall asleep.</li>
+        <li>Any important appointment/meeting needs 4 alerts: the day before, the morning of, one hour before and when you need to get in the car/get on the Zoom. Especially on work days, when you are most likely to get sucked in to a focus in which you forget everything else in your life.</li>
+        </ol>
+        <p>Do you recall all those years you were a hot mess? Life was a serious of chaotic mistakes and mishaps until out of necessity (having dependants) you developed an extensive set of strategies. The strategies work well, but are annoying to manage, so you are sometimes tempted in to thinking you&#39;re a fully functional adult now who can &quot;just remember&quot; to do important things. This is folly, and will only lead to disappointment and burnt potatoes.</p>
+        
+              <hr />
+              <p>Thanks for reading this post via RSS! Let me know your thoughts by leaving a comment on the <a href="https://rachsmith.com/strategies">original post</a> or send <a href="mailto:contact@rachsmith.com?subject=re%3A%20A%20letter%20to%20myself%3A%20Strategies">me an email</a>.</p>]]>
+      </description>
+      <source:markdown>1. When you put something in the oven and need to remember to take it out, or put washing in the machine and need to remember to hang it out, or need to do anything else time-sensitive like take medication, set a reminder for it. And not just any alarm or reminder, the kind that [bugs you over and over](https://www.dueapp.com/) until you do it.
+2. When packing for family trips, use your lists. Keep the lists updated. Refer back to the lists every time you pack. Don&#39;t assume it will be fine because you&#39;ve done it 20 times before. You _will_ forget to pack yourself underwear or worst of all, one of the 5 sleep aids your child needs to fall asleep.
+3. Any important appointment/meeting needs 4 alerts: the day before, the morning of, one hour before and when you need to get in the car/get on the Zoom. Especially on work days, when you are most likely to get sucked in to a focus in which you forget everything else in your life.
+
+Do you recall all those years you were a hot mess? Life was a serious of chaotic mistakes and mishaps until out of necessity (having dependants) you developed an extensive set of strategies. The strategies work well, but are annoying to manage, so you are sometimes tempted in to thinking you&#39;re a fully functional adult now who can &#34;just remember&#34; to do important things. This is folly, and will only lead to disappointment and burnt potatoes.
+
+* * *
+
+Thanks for reading this post via RSS! Let me know your thoughts by leaving a comment on the [original post](https://rachsmith.com/strategies) or send [me an email](mailto:contact@rachsmith.com?subject=re%3A%20A%20letter%20to%20myself%3A%20Strategies).</source:markdown>
+      <guid>cid://https://rachsmith.com/strategies/</guid>
+    </item>    <item>
+      <link>https://www.niemanlab.org/2025/09/the-ai-ification-of-email-keeps-404-medias-jason-koebler-up-at-night/</link>
+      <description>
+        <![CDATA[<p>“The AI-ification of email” keeps 404 Media’s Jason Koebler up at night.</p>]]>
+      </description>
+      <source:markdown>“The AI-ification of email” keeps 404 Media’s Jason Koebler up at night.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/05/1349/</guid>
+    </item>    <item>
+      <title>’The Joker’</title>
+      <link>https://steady.substack.com/p/the-joker</link>
+      <description>
+        <![CDATA[A Reason To Smile]]>
+      </description>
+      <source:markdown>A Reason To Smile</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!J24x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d89fbb1-4e10-4af2-8ce8-534fc1622801_4888x3259.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/the-joker</guid>
+    </item>    <item>
+      <title>Tech and the Wealth of Nations</title>
+      <link>https://paulkrugman.substack.com/p/tech-and-the-wealth-of-nations</link>
+      <description>
+        <![CDATA[Does every country need to have a Silicon Valley?]]>
+      </description>
+      <source:markdown>Does every country need to have a Silicon Valley?</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!q3zK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc152c499-d1b5-4eec-9091-ffe35d329222_1080x1080.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/tech-and-the-wealth-of-nations</guid>
+    </item>    <item>
+      <title>Sunday thought: America’s trauma</title>
+      <link>https://robertreich.substack.com/p/sunday-thought-a-national-trauma</link>
+      <description>
+        <![CDATA[We need to talk about it openly]]>
+      </description>
+      <source:markdown>We need to talk about it openly</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!a8Y1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b474c50-56b6-4a23-bb25-69ba85ce3505_3500x2533.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/sunday-thought-a-national-trauma</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2gjmynau22s</link>
+      <description>
+        <![CDATA[It is annoying when people claim to have a podcast without providing an RSS feed with an enclosure pointing to the media file.  A streaming service is not the same as a podcast.]]>
+      </description>
+      <source:markdown>It is annoying when people claim to have a podcast without providing an RSS feed with an enclosure pointing to the media file. A streaming service is not the same as a podcast.</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m2gjmynau22s</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2gfg4jhrk2s</link>
+      <description>
+        <![CDATA[Lots of flowers should be growing in this garden.
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>Lots of flowers should be growing in this garden.
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m2gfg4jhrk2s</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2gdnshrzc2s</link>
+      <description>
+        <![CDATA[Really thoughtful article, https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html]]>
+      </description>
+      <source:markdown>Really thoughtful article, https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m2gdnshrzc2s</guid>
+    </item>    <item>
+      <title>October 4, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-4-2025</link>
+      <description>
+        <![CDATA[Today was unseasonably warm and I spent the day on the water.]]>
+      </description>
+      <source:markdown>Today was unseasonably warm and I spent the day on the water.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!m40O!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2264322c-395f-4a2d-ac15-4d21bab52114_4032x3024.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-4-2025</guid>
+    </item>    <item>
+      <link>http://scripting.com/2024/09/28/132152.html?title=makingSocialWebWork</link>
+      <description>
+        <![CDATA[<p>2024: Making the social web really work.</p>]]>
+      </description>
+      <source:markdown>2024: Making the social web really work.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/04/1345/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/04.html#a012418</link>
+      <description>
+        <![CDATA[<a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3m2fwidhqks2u">Bluesky post</a>: "The idea is to build a social network entirely out of replaceable parts. No silos, no centralization. Just the web."]]>
+      </description>
+      <source:markdown>[Bluesky post](https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3m2fwidhqks2u): &#34;The idea is to build a social network entirely out of replaceable parts. No silos, no centralization. Just the web.&#34;</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/04.html#a012418</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/04.html#a010619</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2025/10/04/vwIdBuzz.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I test drove three different EVs today at an <a href="https://www.cenhud.com/en/my-energy/electric-vehicles/rideanddrive/">event</a> at <a href="https://en.wikipedia.org/wiki/SUNY_Ulster">SUNY Ulster</a> today.  <a href="https://en.wikipedia.org/wiki/Volkswagen_ID._Buzz">VW ID.Buzz</a>, <a href="https://en.wikipedia.org/wiki/Rivian_R1T">Rivian R1T</a>,  <a href="https://en.wikipedia.org/wiki/Kia_EV9">Kia EV9</a>. I was surprised the one I liked best was the VW. It handled well, the others were sloppy, drive like the big cars they are. The Rivian had the best computer system, looked even nicer at first look than the Tesla. The Kia EV9 had a standard Kia computer system, far behind that of Rivian or Tesla. VW's computer was halfway between, it appeared they thought overall about the controls, but I was so impressed by the ride, and size, and the whole concept of it, and I always liked vans. I'm seriously thinking about swapping my Tesla for the VW. There are other disadvantages, I'm going to start reading up on it, until today I never gave it any thought, didn't think it would be a car for me. But I <i>realllly</i> liked it.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2025/10/04/vwIdBuzz.png)I test drove three different EVs today at an [event](https://www.cenhud.com/en/my-energy/electric-vehicles/rideanddrive/) at [SUNY Ulster](https://en.wikipedia.org/wiki/SUNY_Ulster) today. [VW ID.Buzz](https://en.wikipedia.org/wiki/Volkswagen_ID._Buzz), [Rivian R1T](https://en.wikipedia.org/wiki/Rivian_R1T), [Kia EV9](https://en.wikipedia.org/wiki/Kia_EV9). I was surprised the one I liked best was the VW. It handled well, the others were sloppy, drive like the big cars they are. The Rivian had the best computer system, looked even nicer at first look than the Tesla. The Kia EV9 had a standard Kia computer system, far behind that of Rivian or Tesla. VW&#39;s computer was halfway between, it appeared they thought overall about the controls, but I was so impressed by the ride, and size, and the whole concept of it, and I always liked vans. I&#39;m seriously thinking about swapping my Tesla for the VW. There are other disadvantages, I&#39;m going to start reading up on it, until today I never gave it any thought, didn&#39;t think it would be a car for me. But I _realllly_ liked it.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/04.html#a010619</guid>
+    </item>    <item>
+      <link>https://www.caranddriver.com/reviews/a62638170/2025-volkswagen-id-buzz-test/?utm_source=chatgpt.com</link>
+      <description>
+        <![CDATA[<p>Tested: 2025 Volkswagen ID.Buzz Is the Bee's Knees. I tried one today and loved it.</p>]]>
+      </description>
+      <source:markdown>Tested: 2025 Volkswagen ID.Buzz Is the Bee&#39;s Knees. I tried one today and loved it.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/04/1341/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/03/145920.html?title=shouldTechRunTheWorld</link>
+      <description>
+        <![CDATA[<p>Should tech run the world?</p>]]>
+      </description>
+      <source:markdown>Should tech run the world?</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/04/1339/</guid>
+    </item>    <item>
+      <link>https://www.pbs.org/newshour/world/why-experts-say-trump-is-unlikely-to-win-the-nobel-peace-prize-this-year</link>
+      <description>
+        <![CDATA[<p>Why experts say Trump is unlikely to win the Nobel Peace Prize this year.</p>]]>
+      </description>
+      <source:markdown>Why experts say Trump is unlikely to win the Nobel Peace Prize this year.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/04/1337/</guid>
+    </item>    <item>
+      <title>Let the LLM Write the Prompts: An Intro to DSPy in Compound Al Pipelines</title>
+      <link>https://simonwillison.net/2025/Oct/4/drew-on-dspy/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://www.youtube.com/watch?v=I9ZtkgYZnOw">Let the LLM Write the Prompts: An Intro to DSPy in Compound Al Pipelines</a></strong></p>
+        I've had trouble getting my head around <a href="https://dspy.ai">DSPy</a> in the past. This half hour talk by Drew Breunig at the recent Databricks Data + AI Summit is the clearest explanation I've seen yet of the kinds of problems it can help solve.</p>
+        <p>Here's Drew's <a href="https://www.dbreunig.com/2025/06/10/let-the-model-write-the-prompt.html">written version of the talk</a>.</p>
+        <p>Drew works on Overture Maps, which combines Point Of Interest data from numerous providers to create a single unified POI database. This is an example of <strong>conflation</strong>, a notoriously difficult task in GIS where multiple datasets are deduped and merged together.</p>
+        <p>Drew uses an inexpensive local model, <a href="https://huggingface.co/Qwen/Qwen3-0.6B">Qwen3-0.6B</a>, to compare 70 million addresses and identity matches, for example between <code>Place(address="3359 FOOTHILL BLVD", name="RESTAURANT LOS ARCOS")</code> and <code>Place(address="3359 FOOTHILL BLVD", name="Los Arcos Taqueria"')</code>.</p>
+        <p>DSPy's role is to optimize the prompt used for that smaller model. Drew used GPT-4.1 and the <a href="https://dspy.ai/api/optimizers/MIPROv2/">dspy.MIPROv2</a> optimizer, producing a 700 token prompt that increased the score from 60.7% to 82%.</p>
+        <p><img alt="Determine if two points of interest refer to the same place. Arrow to optimized prompt: Given two records representing places or businesses-each with at least a name and address-analyze the information and determine if they refer to the same real-world entity. Consider minor differences such as case, diacritics, transliteration, abbreviations, or formatting as potential matches if both the name and address are otherwise strongly similar. Only output &quot;True&quot; if both fields are a close match; if there are significant differences in either the name or address, even if one field matches exactly, output &quot;False&quot;. Your decision should be robust to common variations and errors and should work across multiple languages and scripts." src="https://static.simonwillison.net/static/2025/optimized-prompt.jpeg" /></p>
+        <p>Why bother? Drew points out that having a prompt optimization pipeline makes it trivial to evaluate and switch to other models if they can score higher with a custom optimized prompt - without needing to execute that trial-and-error optimization by hand.
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/geospatial">geospatial</a>, <a href="https://simonwillison.net/tags/gis">gis</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/drew-breunig">drew-breunig</a>, <a href="https://simonwillison.net/tags/overture">overture</a>, <a href="https://simonwillison.net/tags/dspy">dspy</a></p>]]>
+      </description>
+      <source:markdown>**[Let the LLM Write the Prompts: An Intro to DSPy in Compound Al Pipelines](https://www.youtube.com/watch?v=I9ZtkgYZnOw)**
+
+I&#39;ve had trouble getting my head around [DSPy](https://dspy.ai) in the past. This half hour talk by Drew Breunig at the recent Databricks Data + AI Summit is the clearest explanation I&#39;ve seen yet of the kinds of problems it can help solve.
+
+Here&#39;s Drew&#39;s [written version of the talk](https://www.dbreunig.com/2025/06/10/let-the-model-write-the-prompt.html).
+
+Drew works on Overture Maps, which combines Point Of Interest data from numerous providers to create a single unified POI database. This is an example of **conflation**, a notoriously difficult task in GIS where multiple datasets are deduped and merged together.
+
+Drew uses an inexpensive local model, [Qwen3-0.6B](https://huggingface.co/Qwen/Qwen3-0.6B), to compare 70 million addresses and identity matches, for example between `Place(address=&#34;3359 FOOTHILL BLVD&#34;, name=&#34;RESTAURANT LOS ARCOS&#34;)` and `Place(address=&#34;3359 FOOTHILL BLVD&#34;, name=&#34;Los Arcos Taqueria&#34;&#39;)`.
+
+DSPy&#39;s role is to optimize the prompt used for that smaller model. Drew used GPT-4.1 and the [dspy.MIPROv2](https://dspy.ai/api/optimizers/MIPROv2/) optimizer, producing a 700 token prompt that increased the score from 60.7% to 82%.
+
+![Determine if two points of interest refer to the same place. Arrow to optimized prompt: Given two records representing places or businesses-each with at least a name and address-analyze the information and determine if they refer to the same real-world entity. Consider minor differences such as case, diacritics, transliteration, abbreviations, or formatting as potential matches if both the name and address are otherwise strongly similar. Only output &#34;True&#34; if both fields are a close match; if there are significant differences in either the name or address, even if one field matches exactly, output &#34;False&#34;. Your decision should be robust to common variations and errors and should work across multiple languages and scripts.](https://static.simonwillison.net/static/2025/optimized-prompt.jpeg)
+
+Why bother? Drew points out that having a prompt optimization pipeline makes it trivial to evaluate and switch to other models if they can score higher with a custom optimized prompt - without needing to execute that trial-and-error optimization by hand.
+
+
+
+Tags: [geospatial](https://simonwillison.net/tags/geospatial), [gis](https://simonwillison.net/tags/gis), [ai](https://simonwillison.net/tags/ai), [prompt-engineering](https://simonwillison.net/tags/prompt-engineering), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [drew-breunig](https://simonwillison.net/tags/drew-breunig), [overture](https://simonwillison.net/tags/overture), [dspy](https://simonwillison.net/tags/dspy)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/4/drew-on-dspy/#atom-everything</guid>
+    </item>    <item>
+      <title>Keeping Up Appearances star Patricia Routledge dies at 96. I loved that...</title>
+      <link>https://kottke.org/25/10/0047652-keeping-up-appearances-st</link>
+      <guid>cid://tag:kottke.org,2025://13.47652</guid>
     </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115317798342260997</link>
       <description>
@@ -527,29 +701,6 @@ Via [Hacker News](https://news.ycombinator.com/item?id=45453936)
 
 Tags: [sqlite](https://simonwillison.net/tags/sqlite), [fly](https://simonwillison.net/tags/fly), [litestream](https://simonwillison.net/tags/litestream), [ben-johnson](https://simonwillison.net/tags/ben-johnson)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/3/litestream/#atom-everything</guid>
-    </item>    <item>
-      <title>Should tech run the world?</title>
-      <link>http://scripting.com/2025/10/03/145920.html?title=shouldTechRunTheWorld</link>
-      <description>
-        <![CDATA[<p>With all respect to the tech industry -- why is the traffic in the Bay Area so awful. Why haven't they done anything about it. </p>
-        <p>Wouldn't that be a good test before running the whole world? As programmer myself, I wouldn't trust the algorithm without a lot of <a href="https://en.wikipedia.org/wiki/Quality_assurance">QA</a>. Seriously. Think about it</p>
-        <p>It's the strangest configuration for a metropolitan area, the center of the city is in the middle of <a href="https://imgs.scripting.com/2025/10/03/bayAreaMap.png">the bay</a>. (Same as Seattle, btw.)</p>
-        <p>The best answer the tech industry came up with was Uber, as far as I know.</p>
-        <p>I lived in Palo Alto, Mountain View, Menlo Park, Berkeley, Los Gatos and Woodside over 31 years and I did nothing to fix the problem either. My answer was to move to NYC where the transit system is pretty great. Then I moved to the mountains and got a <a href="https://daytona.scripting.com/search?q=tesla">Tesla</a>. </p>
-        <p>BTW, the idea that the stars of Silicon Valley should run the world is not new. I first heard about it from Apple top level managers in the 1980s. They were not techno-fascists, but they did hugely overestimate what it takes to run the world, or even a small country in Africa. </p>]]>
-      </description>
-      <source:markdown>With all respect to the tech industry -- why is the traffic in the Bay Area so awful. Why haven&#39;t they done anything about it.
-
-Wouldn&#39;t that be a good test before running the whole world? As programmer myself, I wouldn&#39;t trust the algorithm without a lot of [QA](https://en.wikipedia.org/wiki/Quality_assurance). Seriously. Think about it
-
-It&#39;s the strangest configuration for a metropolitan area, the center of the city is in the middle of [the bay](https://imgs.scripting.com/2025/10/03/bayAreaMap.png). (Same as Seattle, btw.)
-
-The best answer the tech industry came up with was Uber, as far as I know.
-
-I lived in Palo Alto, Mountain View, Menlo Park, Berkeley, Los Gatos and Woodside over 31 years and I did nothing to fix the problem either. My answer was to move to NYC where the transit system is pretty great. Then I moved to the mountains and got a [Tesla](https://daytona.scripting.com/search?q=tesla).
-
-BTW, the idea that the stars of Silicon Valley should run the world is not new. I first heard about it from Apple top level managers in the 1980s. They were not techno-fascists, but they did hugely overestimate what it takes to run the world, or even a small country in Africa.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/03/145920.html</guid>
     </item>    <item>
       <link>http://scripting.com/2025/10/03.html#a144323</link>
       <description>
@@ -16991,215 +17142,6 @@ Reply via:
         <p>I had it figured out in 1996, but still haven't figured out how to make it happen, and time <i>is</i> running out.</p>]]>
       </description>
       <guid>cid://http://scripting.com/2025/09/13/001819.html</guid>
-    </item>    <item>
-      <title>2025-09-14 Episode 56</title>
-      <link>https://alexschroeder.ch/view/2025-09-14-episode-56</link>
-      <description>
-        <![CDATA[<h1 id="2025-09-14-episode-56">2025-09-14 Episode 56</h1>
-        
-        <p>Ghouls are carrion eating nobles with an aura of fear, a paralysing touch and a paralysing gaze. They punch far above their weight.</p>
-        
-        <p>And I didn&rsquo;t even get into their shape-changing into hyenas or their connection to the djinn. There&rsquo;s just so much!</p>
-        
-        <p><a href="/podcast/56-halberds-and-helmets.mp3">56-halberds-and-helmets.mp3</a></p>
-        
-        <p>Links:</p>
-        
-        <ul>
-        <li>The <a href="https://tenfootpole.org/ironspike/?p=2897">Dungeon Magazine #70 review</a> by Bryce Lynch talks about Wolfgang Baur&rsquo;s Kingdom of the Ghouls.</li>
-        <li><a href="Halberds_and_Helmets">Halberds and Helmets</a>: my homebrew rules with links to the PDF files</li>
-        </ul>
-        
-        <p><a class="tag" href="/search/?q=%23Halberds_and_Helmets_Podcast">#Halberds and Helmets Podcast</a></p>]]>
-      </description>
-      <source:markdown># 2025-09-14 Episode 56
-
-Ghouls are carrion eating nobles with an aura of fear, a paralysing touch and a paralysing gaze. They punch far above their weight.
-
-And I didn’t even get into their shape-changing into hyenas or their connection to the djinn. There’s just so much!
-
-[56-halberds-and-helmets.mp3](/podcast/56-halberds-and-helmets.mp3)
-
-Links:
-
-- The [Dungeon Magazine #70 review](https://tenfootpole.org/ironspike/?p=2897) by Bryce Lynch talks about Wolfgang Baur’s Kingdom of the Ghouls.
-- [Halberds and Helmets](Halberds_and_Helmets): my homebrew rules with links to the PDF files
-
-[#Halberds and Helmets Podcast](/search/?q=%23Halberds_and_Helmets_Podcast)</source:markdown>
-      <guid>cid://https://alexschroeder.ch/view/2025-09-14-episode-56</guid>
-    </item>    <item>
-      <title>Note published on September 13, 2025 at 8:45 PM UTC</title>
-      <link>https://www.mollywhite.net/micro/entry/202509131641</link>
-      <guid>cid://68c5d803d4bbdd57f2b61942</guid>
-    </item>    <item>
-      <title>Developer of the year</title>
-      <link>https://daniel.haxx.se/blog/2025/09/13/developer-of-the-year/</link>
-      <description>
-        <![CDATA[Developers Day is a recent annual Swedish gala organized by the Stockholm-based company Developers Bay. This is its third year running. They have an ambition to highlight and celebrate Swedish software developers (or perhaps it is developers based in Sweden?) and hand out a series of awards for that purpose. A jury that consists of &#8230; <a href="https://daniel.haxx.se/blog/2025/09/13/developer-of-the-year/" class="more-link">Continue reading <span class="screen-reader-text">Developer of the year</span> <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <source:markdown>Developers Day is a recent annual Swedish gala organized by the Stockholm-based company Developers Bay. This is its third year running. They have an ambition to highlight and celebrate Swedish software developers (or perhaps it is developers based in Sweden?) and hand out a series of awards for that purpose. A jury that consists of … [Continue reading Developer of the year→](https://daniel.haxx.se/blog/2025/09/13/developer-of-the-year/)</source:markdown>
-      <guid>cid://https://daniel.haxx.se/blog/?p=27152</guid>
-    </item>    <item>
-      <title>Where is this on Mastodon??</title>
-      <link>https://www.wnyc.org/story/the-million-dollar-mystery-behind-milkcom</link>
-      <guid>cid://https://links.daveverse.org/2025/09/13/1071/</guid>
-    </item>    <item>
-      <link>https://www.motherjones.com/politics/2025/09/stephen-miller-charlie-kirk-tyler-robinson-extreme-rhetoric-id/</link>
-      <description>
-        <![CDATA[<p>Hope I don’t get fired for saying Stephen Miller is an asshole.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/13/1069/</guid>
-    </item>    <item>
-      <title>September 12, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-12-2025-4f6</link>
-      <enclosure url="https://api.substack.com/feed/podcast/173522203/bbad45c5c9f43a9273096a6381e4c016.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-12-2025-4f6</guid>
-    </item>    <item>
-      <link>https://www.thenation.com/article/politics/charlie-kirk-assassination-maga/</link>
-      <description>
-        <![CDATA[<p>Charlie Kirk’s Legacy Deserves No Mourning.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/13/1067/</guid>
-    </item>    <item>
-      <link>https://gutenbergtimes.com/why-wordpress-core-needs-more-blocks/?utm_source=bluesky&#38;utm_medium=jetpack_social</link>
-      <description>
-        <![CDATA[<p>Why WordPress Core needs more blocks.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/13/1065/</guid>
-    </item>    <item>
-      <title>Ditch those words!</title>
-      <link>https://robinrendle.com/notes/ditch-those-words/</link>
-      <guid>cid://https://robinrendle.com/notes/ditch-those-words/</guid>
-    </item>    <item>
-      <title>Sergey Durmanov pushed to project branch Streams at Felix Oliver Friedrich / Oberon A2</title>
-      <link>https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/d326978b29395c02973aeef165f4d6efb1778469</link>
-      <description>
-        <![CDATA[<p>
-        <strong>Sergey Durmanov</strong>
-        <a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/d326978b29395c02973aeef165f4d6efb1778469">(d326978b)</a>
-        <i>
-        at
-        13 Sep 17:17
-        </i>
-        </p>
-        <div class="blockquote"><p dir="auto">Fixed issue with an uninitialized variable in TextUtilities.TextRea...</p></div>]]>
-      </description>
-      <guid>cid://tag:gitlab.inf.ethz.ch,2025-09-13:1805908</guid>
-    </item>    <item>
-      <title>Use the Force (Feedback) to Solder Small Things</title>
-      <link>https://www.bunniestudios.com/blog/2025/use-the-force-feedback-to-solder-small-things/</link>
-      <description>
-        <![CDATA[Here&#8217;s a quick tip for people learning how to solder small components: don&#8217;t rely on your eyes. Instead, solder by touch: use the force-feedback available through your fingertips. Human fingers can reliably detect bumps on the order of microns in size &#8211; much finer than the resolution of sight, even with the assistance of a [&#8230;]]]>
-      </description>
-      <source:markdown>Here’s a quick tip for people learning how to solder small components: don’t rely on your eyes. Instead, solder by touch: use the force-feedback available through your fingertips. Human fingers can reliably detect bumps on the order of microns in size – much finer than the resolution of sight, even with the assistance of a \[…\]</source:markdown>
-      <guid>cid://https://www.bunniestudios.com/blog/?p=7422</guid>
-    </item>    <item>
-      <title>Note published on September 13, 2025 at 2:18 PM UTC</title>
-      <link>https://www.mollywhite.net/micro/entry/202509131016</link>
-      <guid>cid://68c57d40d4bbdd57f2b618c2</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/13.html#a141301</link>
-      <description>
-        <![CDATA[How did a healthy well-fed and educated 22 year old man from a good family throw his life away and for what? To kill a 31 year old family man who dedicated his life to making massive numbers of people miserable? What’s more tragic? And how many other Americans are on this track?]]>
-      </description>
-      <guid>cid://http://scripting.com/2025/09/13.html#a141301</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115197185058048562</link>
-      <description>
-        <![CDATA[<p>Just yesterday, Israel sniping aid seekers for sport in Gaza;  bombing the offices of journalists in Yemen - killing 25 journalists.</p><p>The retired guy that lead the campaign said yesterday:</p>]]>
-      </description>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115197185058048562</guid>
-    </item>    <item>
-      <title>NASA Rover Finds ‘Potential Biosignature’ on Mars</title>
-      <link>https://www.404media.co/nasa-rover-finds-potential-biosignature-on-mars/</link>
-      <description>
-        <![CDATA[Strange “leopard spots” on Mars are the most promising signs of alien life on the planet yet, but they could also have a geological origin.]]>
-      </description>
-      <guid>cid://68c480c675cea100016d1713</guid>
-    </item>    <item>
-      <link>https://daveverse.org/2025/09/13/reading-the-news-at-4am/</link>
-      <description>
-        <![CDATA[<p>I woke up at 4am today, feeling pretty hopeless and tired of fighting for open networks on my own, never getting the help we need from people who can and should help.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/13/1061/</guid>
-    </item>    <item>
-      <title>Sauvegarder des publications et fils de commentaires Facebook [en]</title>
-      <link>https://climbtothestars.org/archives/2025/09/13/sauvegarder-des-publications-et-fils-de-commentaires-facebook/</link>
-      <description>
-        <![CDATA[[en] Maintenant que j&#8217;ai de nouveau (contre toute attente) accès à mon compte Facebook, ma première mission est de préserver, sous une forme ou une autre, ce que j&#8217;ai contribué là-bas depuis 18 ans. Cette mésaventure (on va dire ça maintenant que ma &#8220;disparition&#8221; n&#8217;aura duré que trois semaines) aura eu le bénéfice de me &#8230; <a href="https://climbtothestars.org/archives/2025/09/13/sauvegarder-des-publications-et-fils-de-commentaires-facebook/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Sauvegarder des publications et fils de commentaires Facebook <span class='bb-lang'>[en]</span></span>"</span></a>]]>
-      </description>
-      <source:markdown>\[en\] Maintenant que j’ai de nouveau (contre toute attente) accès à mon compte Facebook, ma première mission est de préserver, sous une forme ou une autre, ce que j’ai contribué là-bas depuis 18 ans. Cette mésaventure (on va dire ça maintenant que ma “disparition” n’aura duré que trois semaines) aura eu le bénéfice de me … [Continue reading &#34;Sauvegarder des publications et fils de commentaires Facebook \[en\]&#34;](https://climbtothestars.org/archives/2025/09/13/sauvegarder-des-publications-et-fils-de-commentaires-facebook/)</source:markdown>
-      <guid>cid://https://climbtothestars.org/?p=10114</guid>
-    </item>    <item>
-      <title>Talking With Erica Groshen, Former BLS Commissioner</title>
-      <link>https://paulkrugman.substack.com/p/talking-with-erica-groshen-former</link>
-      <description>
-        <![CDATA[When labor data become a political issue]]>
-      </description>
-      <source:markdown>When labor data become a political issue</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!8xWc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63e0abea-276a-4b70-99d7-65bddc1f4cfb_1280x720.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/talking-with-erica-groshen-former</guid>
-    </item>    <item>
-      <title>Trump Fuels Even More Anger | The Coffee Klatch for September 13, 2025</title>
-      <link>https://robertreich.substack.com/p/trump-fuels-even-more-anger-the-coffee</link>
-      <description>
-        <![CDATA[American political violence, and the divider-in-chief]]>
-      </description>
-      <enclosure url="https://api.substack.com/feed/podcast/173473818/7b69bb839114fff72b039f7ff05a3543.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://robertreich.substack.com/p/trump-fuels-even-more-anger-the-coffee</guid>
-    </item>    <item>
-      <title>September 12, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-12-2025</link>
-      <description>
-        <![CDATA[Since a gunman murdered right-wing activist Charlie Kirk at an outdoor event at Utah Valley University in Orem, Utah, both social media circles and the political sphere have been alight with accusations that &#8220;the Left&#8221; was responsible for the shooting.]]>
-      </description>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-12-2025</guid>
-    </item>    <item>
-      <title>Weeknotes: Sept. 6-12, 2025</title>
-      <link>https://tracydurnell.com/2025/09/12/weeknotes-sept-6-12-2025/</link>
-      <description>
-        <![CDATA[Highlight of the week: date night at the botanical garden 🪷 Looking forward to: got some heirloom baking apples to make the first apple crisp of the season 🍎 Stuff I did: 2 hours business development &#8212; charily posted on LinkedIn that I have availability and got a tentative inquiry 😃🤞 7.75 hours writing set up my [&#8230;]]]>
-      </description>
-      <source:markdown>Highlight of the week: date night at the botanical garden 🪷 Looking forward to: got some heirloom baking apples to make the first apple crisp of the season 🍎 Stuff I did: 2 hours business development — charily posted on LinkedIn that I have availability and got a tentative inquiry 😃🤞 7.75 hours writing set up my \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=29422</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3lyoukml7qc2c</link>
-      <description>
-        <![CDATA[Microwaves, who'd thought. Better get one now. https://www.colincornaby.me/2025/08/in-the-future-all-food-will-be-cooked-in-a-microwave-and-if-you-cant-deal-with-that-then-you-need-to-get-out-of-the-kitchen/?utm_source=thefutureislikepie.beehiiv.com&utm_medium=newsletter&utm_campaign=unknotted&_bhlid=]]>
-      </description>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3lyoukml7qc2c</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3lyosk2rxl22c</link>
-      <description>
-        <![CDATA[Brilliant 😁 https://laist.com/news/education/ucla-researchers-science-fair-grants-suspended-trump-administration]]>
-      </description>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3lyosk2rxl22c</guid>
-    </item>    <item>
-      <link>https://sfstandard.com/2025/09/12/woodside-estate-biggest-sale-in-decade/</link>
-      <description>
-        <![CDATA[<p>Woodside estate is Bay Area’s biggest sale in a decade.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/12/1059/</guid>
-    </item>    <item>
-      <link>https://www.texasobserver.org/never-again-texas-border-eagle-pass/</link>
-      <description>
-        <![CDATA[<p>‘Never Again’ at the Texas Border.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/12/1057/</guid>
-    </item>    <item>
-      <link>https://www.metacritic.com/tv/cardinal/</link>
-      <description>
-        <![CDATA[<p>I'm really enjoying Cardinal, a crime thriller drama on Hulu. First season was great, getting started on the second season.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/12/1055/</guid>
-    </item>    <item>
-      <title>Link Graveyard: A snapshot of my abandoned browser tabs</title>
-      <link>http://timkellogg.me/blog/2025/09/13/link-graveyard</link>
-      <description>
-        <![CDATA[A dump of all my browser tabs on my phone, briefly annotated]]>
-      </description>
-      <source:markdown>A dump of all my browser tabs on my phone, briefly annotated</source:markdown>
-      <guid>cid://http://timkellogg.me/blog/2025/09/13/link-graveyard</guid>
     </item>
   </channel>
 </rss>

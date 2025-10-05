@@ -4,7 +4,7 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>http://localhost:8000/librariesxml</link>
-    <lastBuildDate>04 Oct 25 15:08 -0700</lastBuildDate>
+    <lastBuildDate>05 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -1262,15 +1262,6 @@ We don’t offset our emissions from travel or other operations and don’t have
 
 In general, it feels good to have had a few years of tracking this, learning more, finding the right tools, and trying to stick to a target to limit our increases. While of course there are always reasons for the target to increase—as we grow and are able to subsidise others beyond our staff more—we remain committed to not just monitoring our carbon spend but also maintaining it at a reasonable level and finding ways to limit and mitigate our impact on the environment. This kind of sustainability isn’t included in the POSI Principles for open scholarly infrastructures, but we’d love to see other similar organisations share their tips and measurements so that, as a community, we can learn how to do even better.</source:markdown>
       <guid>cid://https://www.crossref.org/blog/a-second-look-at-crossrefs-carbon-footprint-the-2024-report/</guid>
-    </item>    <item>
-      <title>The House of the Dead, by Fyodor Dostoevsky</title>
-      <link>https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett</link>
-      <description>
-        <![CDATA[A ex-convict in 19th-century Russia reminisces on his experiences in a Siberian prison.]]>
-      </description>
-      <source:markdown>A ex-convict in 19th-century Russia reminisces on his experiences in a Siberian prison.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett/downloads/fyodor-dostoevsky_the-house-of-the-dead_constance-garnett.epub?source=feed" length="726923" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett</guid>
     </item>
   </channel>
 </rss>
