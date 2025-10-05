@@ -4,10 +4,26 @@
   <channel>
     <title>Planet News</title>
     <link>http://localhost:8000/planetxml</link>
-    <lastBuildDate>05 Oct 25 11:14 -0700</lastBuildDate>
+    <lastBuildDate>05 Oct 25 12:42 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Activists allege Greta Thunberg mistreated by Israel</title>
+      <link>https://www.rte.ie/news/2025/1005/1536961-greta-thunberg-flotilla/</link>
+      <description>
+        <![CDATA[Two activists have alleged that Swedish campaigner Greta Thunberg was mistreated during her detention in Turkey, after being detained by Israel for taking part in a flotilla seeking to deliver aid to Gaza.]]>
+      </description>
+      <source:markdown>Two activists have alleged that Swedish campaigner Greta Thunberg was mistreated during her detention in Turkey, after being detained by Israel for taking part in a flotilla seeking to deliver aid to Gaza.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1005/1536961-greta-thunberg-flotilla/</guid>
+    </item>    <item>
+      <title>Budget to include VAT cut for new build apartments</title>
+      <link>https://www.rte.ie/news/2025/1005/1536955-budget-new-apartments/</link>
+      <description>
+        <![CDATA[A VAT cut for new build apartments looks set to be introduced in the Budget in a bid to kickstart the building of stalled schemes.]]>
+      </description>
+      <source:markdown>A VAT cut for new build apartments looks set to be introduced in the Budget in a bid to kickstart the building of stalled schemes.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1005/1536955-budget-new-apartments/</guid>
+    </item>    <item>
       <title>Pope tells Vatican Gendarmes to live their mission as witnesses of peace</title>
       <link>https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-xiv-mass-vatican-gendarmes-feast-st-michael-archangel.html</link>
       <description>
@@ -36,12 +52,12 @@
       <source:markdown>Georgia&#39;s Prime Minister Irakli Kobakhidze has vowed opposition arrests after police used force against opposition protesters who tried to enter the presidential palace in what he termed was a coup bid during a controversial election.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1005/1536944-georgia-protests-crackdown/</guid>
     </item>    <item>
-      <title>Storm Amy: Crews doing &#39;very best&#39; to restore power</title>
+      <title>Storm Amy: 25,000 remain without power</title>
       <link>https://www.rte.ie/news/ireland/2025/1005/1536940-storm-amy/</link>
       <description>
-        <![CDATA[Around 6,000 homes and businesses remain without power after Storm Amy as of 5pm.]]>
+        <![CDATA[Around 2,500 homes and businesses remain without power after Storm Amy as of 8.30pm.]]>
       </description>
-      <source:markdown>Around 6,000 homes and businesses remain without power after Storm Amy as of 5pm.</source:markdown>
+      <source:markdown>Around 2,500 homes and businesses remain without power after Storm Amy as of 8.30pm.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1005/1536940-storm-amy/</guid>
     </item>    <item>
       <title>Local Property Tax likely to increase next year</title>
@@ -122,12 +138,12 @@ A new website and database featuring the stories of more than 400 Indigenous wom
 Four people, including a 15-year-old, died in a combined drone and missile strike on Lviv, according to regional officials and Ukraine’s emergency service. The historic western city is often seen as a haven from the fighting and destruction further east.</source:markdown>
       <guid>cid://1.7651576</guid>
     </item>    <item>
-      <title>Candidates debate Irish unity and campaign issues</title>
+      <title>As it happened: Candidates meet for second debate</title>
       <link>https://www.rte.ie/news/2025/1005/1536900-presidential-election-blog/</link>
       <description>
-        <![CDATA[Follow live coverage of the first of RTÉ's live debate in the presidential campaign, where all three candidates are discussing the issues facing the tenth president of Ireland]]>
+        <![CDATA[Look back on updates after the first of RTÉ's live debate in the presidential campaign, where all three candidates discussed the issues facing the tenth president of Ireland]]>
       </description>
-      <source:markdown>Follow live coverage of the first of RTÉ&#39;s live debate in the presidential campaign, where all three candidates are discussing the issues facing the tenth president of Ireland</source:markdown>
+      <source:markdown>Look back on updates after the first of RTÉ&#39;s live debate in the presidential campaign, where all three candidates discussed the issues facing the tenth president of Ireland</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1005/1536900-presidential-election-blog/</guid>
     </item>    <item>
       <title>Pope Leo XIV encourages rekindling awareness of our missionary vocation</title>
@@ -161,9 +177,9 @@ Four people, including a 15-year-old, died in a combined drone and missile strik
       <title>Woman held after man dies following assault in Tipperary</title>
       <link>https://www.rte.ie/news/ireland/2025/1005/1536890-tipperary-investigation/</link>
       <description>
-        <![CDATA[A woman in her 20s has been arrested after a man died following an assault in Co Tipperary last night.]]>
+        <![CDATA[Gardai are continuing to question a woman, in her 20s, this evening after a man died following an assault in Co Tipperary last night.]]>
       </description>
-      <source:markdown>A woman in her 20s has been arrested after a man died following an assault in Co Tipperary last night.</source:markdown>
+      <source:markdown>Gardai are continuing to question a woman, in her 20s, this evening after a man died following an assault in Co Tipperary last night.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1005/1536890-tipperary-investigation/</guid>
     </item>    <item>
       <title>Gazans cling to hope ceasefire deal is within reach</title>

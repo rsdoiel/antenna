@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>http://localhost:8000/columnsxml</link>
-    <lastBuildDate>05 Oct 25 11:14 -0700</lastBuildDate>
+    <lastBuildDate>05 Oct 25 12:42 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -38,6 +38,26 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <title>Before we were so rudely interrupted</title>
+      <link>http://scripting.com/2025/10/05/180457.html?title=beforeWeWereSoRudelyInterrupted</link>
+      <description>
+        <![CDATA[<p>I've <a href="https://daytona.scripting.com/search?q=%22Before%20we%20were%20so%20rudely%20interrupted%22">used</a> this phrase a few times recently: "Before we were so rudely interrupted."</p>
+        <p>Or, "the big interruption."</p>
+        <p>I'm referring to <a href="https://en.wikipedia.org/wiki/History_of_Twitter">2006</a>, when web writing was downgraded, to be 140 characters with no styling, no links, without the ability to edit. </p>
+        <p>That's when writing on the web started going in the toilet. </p>
+        <p>So when I say it again I may link to this post, because out here on the web, <a href="http://scripting.com/scripting/manila/bloggerCon/ruleoflinks.html">linking</a> is always allowed. </p>]]>
+      </description>
+      <source:markdown>I&#39;ve [used](https://daytona.scripting.com/search?q=%22Before%20we%20were%20so%20rudely%20interrupted%22) this phrase a few times recently: &#34;Before we were so rudely interrupted.&#34;
+
+Or, &#34;the big interruption.&#34;
+
+I&#39;m referring to [2006](https://en.wikipedia.org/wiki/History_of_Twitter), when web writing was downgraded, to be 140 characters with no styling, no links, without the ability to edit.
+
+That&#39;s when writing on the web started going in the toilet.
+
+So when I say it again I may link to this post, because out here on the web, [linking](http://scripting.com/scripting/manila/bloggerCon/ruleoflinks.html) is always allowed.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/05/180457.html</guid>
+    </item>    <item>
       <link>https://www.nytimes.com/2025/10/04/opinion/trump-responsible-president-job-military.html?unlocked_article_code=1.q08.m5iO.QKg1t2v0l0kX&#38;smid=fb-share&#38;fbclid=IwY2xjawNPgmhleHRuA2FlbQIxMQBicmlkETF6M0pZMGpQMXBXWVZWdHFCAR61-EnGt7jOy7emoLTooDaJdxaRYYVVc9ZUaOfXGYiAQqtBL1BjMBpvfOnFug_aem_nHeHdnzy2S_IJWMi-cfe5g</link>
       <description>
         <![CDATA[<p>Who Is Donald Trump Responsible To?</p>]]>
@@ -47,9 +67,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>    <item>
       <link>http://scripting.com/2025/10/05.html#a155916</link>
       <description>
-        <![CDATA[In 2014 I wrote a <a href="http://scripting.com/2014/09/28/myManifestoForWebWriting.html">manifesto</a> about web writing. A decade later later, I'm still trying to get writing on the web to work again. It was on a good track before the rude interruption.]]>
+        <![CDATA[In 2014 I wrote a <a href="http://scripting.com/2014/09/28/myManifestoForWebWriting.html">manifesto</a> about web writing. A decade later later, I'm still trying to get writing on the web to work again. It was on a good track before <a href="http://scripting.com/2025/10/05/180457.html">the rude interruption</a>.]]>
       </description>
-      <source:markdown>In 2014 I wrote a [manifesto](http://scripting.com/2014/09/28/myManifestoForWebWriting.html) about web writing. A decade later later, I&#39;m still trying to get writing on the web to work again. It was on a good track before the rude interruption.</source:markdown>
+      <source:markdown>In 2014 I wrote a [manifesto](http://scripting.com/2014/09/28/myManifestoForWebWriting.html) about web writing. A decade later later, I&#39;m still trying to get writing on the web to work again. It was on a good track before [the rude interruption](http://scripting.com/2025/10/05/180457.html).</source:markdown>
       <guid>cid://http://scripting.com/2025/10/05.html#a155916</guid>
     </item>    <item>
       <title>The Drifter</title>
