@@ -4,10 +4,116 @@
   <channel>
     <title>Science and Technology</title>
     <link>http://localhost:8000/science_and_technologyxml</link>
-    <lastBuildDate>06 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>06 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Level-10 vuln lurking in Redis source code for 13 years could allow remote code execution</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/06/perfect_10_redis_rce_lurking/</link>
+      <description>
+        <![CDATA[<h4>No evidence of exploitation … yet</h4> <p>A 13-year-old critical flaw in Redis servers, rated a perfect 10 out of 10 in severity, can let an authenticated user trigger remote code execution.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### No evidence of exploitation … yet
+
+A 13-year-old critical flaw in Redis servers, rated a perfect 10 out of 10 in severity, can let an authenticated user trigger remote code execution.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242331</guid>
+    </item>    <item>
+      <title>OpenAI IP promises ring hollow to Sora losers</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/06/openai_makes_empty_promises_to/</link>
+      <description>
+        <![CDATA[<h4>Altman promises copyright holders a cut of video revenue, if he ever figures out how to make some.</h4> <p><strong>analysis</strong>  OpenAI&#39;s new Sora 2 video generator has become the most popular free app in Apple&#39;s App Store since launching last week. It has also drawn ire from Hollywood studios and anyone whose characters and storylines appear in the user-generated content without their explicit permission. Now CEO Sam Altman says rightsholders will be getting greater control over how their properties are used - and may even be paid. …</p>]]>
+      </description>
+      <source:markdown>#### Altman promises copyright holders a cut of video revenue, if he ever figures out how to make some.
+
+**analysis**  OpenAI&#39;s new Sora 2 video generator has become the most popular free app in Apple&#39;s App Store since launching last week. It has also drawn ire from Hollywood studios and anyone whose characters and storylines appear in the user-generated content without their explicit permission. Now CEO Sam Altman says rightsholders will be getting greater control over how their properties are used - and may even be paid. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242330</guid>
+    </item>    <item>
+      <title>Leeches May Be 200 Million Years Older Than We Thought—And Haven’t Always Sucked Blood</title>
+      <link>https://www.smithsonianmag.com/smart-news/leeches-may-be-200-million-years-older-than-we-thoughtand-havent-always-sucked-blood-180987444/</link>
+      <description>
+        <![CDATA[A Wisconsin fossil find suggests leeches once ate their prey whole, or simply sucked up their innards]]>
+      </description>
+      <source:markdown>A Wisconsin fossil find suggests leeches once ate their prey whole, or simply sucked up their innards</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/6HqC6eStcVwJ6xAWnCH0aGLAhsk=/420x240/filters:focal(1564x983:1565x984)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/60/62/606245d4-7218-4b2a-bf86-e3f868c4e299/macromyzon_reconstruction_ekchan_0.jpg" length="" type="" />
+    </item>    <item>
+      <title>Lowercase leaving you cold? Introducing Retrocide</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/06/retrocide/</link>
+      <description>
+        <![CDATA[<h4>Dropping descenders to achieve a perfect baseline</h4> <p>Nostalgia fans rejoice – a new monospaced display font has made its debut, and this time every glyph shares the same baseline height with no descenders to interfere with the character flow.…</p>]]>
+      </description>
+      <source:markdown>#### Dropping descenders to achieve a perfect baseline
+
+Nostalgia fans rejoice – a new monospaced display font has made its debut, and this time every glyph shares the same baseline height with no descenders to interfere with the character flow.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242328</guid>
+    </item>    <item>
+      <title>Deloitte refunds Aussie gov after AI fabrications slip into $440K welfare report</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/06/deloitte_ai_report_australia/</link>
+      <description>
+        <![CDATA[<h4>Big Four consultancy billed Canberra top dollar, only for investigators to find bits written by a chatbot</h4> <p>Deloitte has agreed to refund part of an Australian government contract after admitting it used generative AI to produce a report riddled with fake citations, phantom footnotes, and even a made-up quote from a Federal Court judgment.…</p>]]>
+      </description>
+      <source:markdown>#### Big Four consultancy billed Canberra top dollar, only for investigators to find bits written by a chatbot
+
+Deloitte has agreed to refund part of an Australian government contract after admitting it used generative AI to produce a report riddled with fake citations, phantom footnotes, and even a made-up quote from a Federal Court judgment.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242326</guid>
+    </item>    <item>
+      <title>By 2100, Humans Might See a Glacier-Free Sierra Nevada for the First Time Ever</title>
+      <link>https://www.smithsonianmag.com/smart-news/by-2100-humans-might-see-a-glacier-free-sierra-nevada-for-the-first-time-ever-180987440/</link>
+      <description>
+        <![CDATA[A new study suggests some glaciers have existed on the California mountain range for the entirety of known human history in North America]]>
+      </description>
+      <source:markdown>A new study suggests some glaciers have existed on the California mountain range for the entirety of known human history in North America</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/QM2RNH9-HA2RC_jyi4E-JXZx6dw=/420x240/filters:focal(1024x683:1025x684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2f/a8/2fa8ae12-3476-420f-ab35-016b8ad05a1a/2048px-conness_glacier_and_mt_conness.jpg" length="" type="" />
+    </item>    <item>
+      <title>Scattered Lapsus$ Hunters offering $10 in Bitcoin to &#39;endlessly harass&#39; execs</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/06/scattered_lapsus_bitcoin_reward/</link>
+      <description>
+        <![CDATA[<h4>Crime group claims to have already doled out $1K to those in it &#39;for money and for the love of the game&#39;</h4> <p>Scattered Lapsus$ Hunters has launched an unusual crowdsourced extortion scheme, offering $10 in Bitcoin to anyone willing to help pressure their alleged victims into paying ransoms.…</p>]]>
+      </description>
+      <source:markdown>#### Crime group claims to have already doled out $1K to those in it &#39;for money and for the love of the game&#39;
+
+Scattered Lapsus$ Hunters has launched an unusual crowdsourced extortion scheme, offering $10 in Bitcoin to anyone willing to help pressure their alleged victims into paying ransoms.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242327</guid>
+    </item>    <item>
+      <title>Origami Patterns Solve a Major Physics Riddle</title>
+      <link>https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/</link>
+      <description>
+        <![CDATA[The amplituhedron, a shape at the heart of particle physics, appears to be deeply connected to the mathematics of paper folding.            <p>The post <a href="https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/" target="_blank">Origami Patterns Solve a Major Physics Riddle</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>The amplituhedron, a shape at the heart of particle physics, appears to be deeply connected to the mathematics of paper folding.
+
+The post [Origami Patterns Solve a Major Physics Riddle](https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=155441</guid>
+    </item>    <item>
+      <title>OpenAI and AMD link arms for AI buildout: It&#39;s a power-for-equity swap</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/06/openai_and_amd_join_forces/</link>
+      <description>
+        <![CDATA[<h4>6GW chip pact sends AMD stock soaring, Nvidia has a rival for Altman biz love</h4> <p>AMD and OpenAI have forged a 6 gigawatt agreement to power OpenAI’s AI infrastructure across multiple generations of AMD Instinct GPUs.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### 6GW chip pact sends AMD stock soaring, Nvidia has a rival for Altman biz love
+
+AMD and OpenAI have forged a 6 gigawatt agreement to power OpenAI’s AI infrastructure across multiple generations of AMD Instinct GPUs.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242325</guid>
+    </item>    <item>
+      <title>EchoStar secures rights to spectrum it plans to sell to SpaceX</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/06/echostar_secures_rights_to_spectrum_to_sell_to_spacex/</link>
+      <description>
+        <![CDATA[<h4>Musk space biz: &#39;Anyone else that wants to use the spectrum must coordinate with us first&#39;</h4> <p>EchoStar says it has met the regulatory conditions to maintain the spectrum it is selling to Musk&#39;s rocketeers.…</p>]]>
+      </description>
+      <source:markdown>#### Musk space biz: &#39;Anyone else that wants to use the spectrum must coordinate with us first&#39;
+
+EchoStar says it has met the regulatory conditions to maintain the spectrum it is selling to Musk&#39;s rocketeers.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242324</guid>
+    </item>    <item>
+      <title>Radiant Group won&#39;t touch kids&#39; data now, but apparently hospitals are fair game</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/06/radiant_group_hospital/</link>
+      <description>
+        <![CDATA[<h4>Ransomware crooks utterly fail to find moral compass</h4> <p>First they targeted a preschool network, now new kids on the ransomware block Radiant Group say they&#39;ve hit a hospital in the US, continuing their deplorable early cybercrime careers.…</p>]]>
+      </description>
+      <source:markdown>#### Ransomware crooks utterly fail to find moral compass
+
+First they targeted a preschool network, now new kids on the ransomware block Radiant Group say they&#39;ve hit a hospital in the US, continuing their deplorable early cybercrime careers.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242321</guid>
+    </item>    <item>
       <title>Kicked from RubyGems, maintainers forge new home at Gem Cooperative</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/06/gem_cooperative/</link>
       <description>
@@ -192,14 +298,14 @@ Ransomware has left Japan&#39;s biggest brewer struggling to ship beer, with Asa
       <source:markdown>Visitors can explore 3D renderings of stolen artworks, historical artifacts, rare books and more in UNESCO&#39;s new digital museum</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/1RXjjvzHher-_imOEuCWU5jcj_U=/420x240/filters:focal(846x475:847x476)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/58/68/5868b605-168a-4562-b837-e123855e2022/screenshot.png" length="" type="" />
     </item>    <item>
-      <title>&#39;Retired&#39; cybercrime group demands $989M not to leak 1B Salesforce records</title>
+      <title>&#39;Retired&#39; cybercrime group demands ransom not to leak 1B Salesforce records</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/03/scattered_lapsus_hunters_latest_leak/</link>
       <description>
-        <![CDATA[<h4>CRM giant insists its platform wasn’t breached</h4> <p>Despite multiple arrests and talk of retirement, a crew now calling itself Scattered LAPSUS$ Hunters has reemerged with a data-leak site listing about 40 companies’ Salesforce environments, and is demanding $989.45 million to prevent what it claims is about 1 billion stolen records from being published online.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+        <![CDATA[<h4>CRM giant insists its platform wasn’t breached</h4> <p>Despite multiple arrests and talk of retirement, a crew now calling itself Scattered LAPSUS$ Hunters has reemerged with a data-leak site listing about 40 companies’ Salesforce environments, and is demanding an extortion payment (amount unknown) to prevent what it claims is about 1 billion stolen records from being published online.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
       <source:markdown>#### CRM giant insists its platform wasn’t breached
 
-Despite multiple arrests and talk of retirement, a crew now calling itself Scattered LAPSUS$ Hunters has reemerged with a data-leak site listing about 40 companies’ Salesforce environments, and is demanding $989.45 million to prevent what it claims is about 1 billion stolen records from being published online.…</source:markdown>
+Despite multiple arrests and talk of retirement, a crew now calling itself Scattered LAPSUS$ Hunters has reemerged with a data-leak site listing about 40 companies’ Salesforce environments, and is demanding an extortion payment (amount unknown) to prevent what it claims is about 1 billion stolen records from being published online.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242305</guid>
     </item>    <item>
       <title>Scientists Finally Found Phosphine on a Brown Dwarf. Here&#39;s What That Means for the Search for Extraterrestrial Life</title>

@@ -4,10 +4,29 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>http://localhost:8000/journalismxml</link>
-    <lastBuildDate>06 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>06 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Bari Weiss’s CBS News and MSNBC both just laid out their new journalistic principles — and they’re fascinatingly different</title>
+      <link>https://www.niemanlab.org/2025/10/msnbc-and-bari-weisss-cbs-news-both-just-laid-out-their-journalistic-principles-and-theyre-fascinatingly-different/</link>
+      <description>
+        <![CDATA[Lot of news coming out of the networks this morning: Bari Weiss, founder of the pro-Israel, anti-woke Free Press, has sold the four-year-old news site to CBS parent company Paramount for a reported $150 million and is the new editor-in-chief of CBS News. And the left-leaning cable channel MSNBC has begun its split from NBC...]]>
+      </description>
+      <source:markdown>Lot of news coming out of the networks this morning: Bari Weiss, founder of the pro-Israel, anti-woke Free Press, has sold the four-year-old news site to CBS parent company Paramount for a reported $150 million and is the new editor-in-chief of CBS News. And the left-leaning cable channel MSNBC has begun its split from NBC...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=243743</guid>
+    </item>    <item>
+      <title>COC shines a light on suicide prevention</title>
+      <link>https://canyonsnews.com/shine-a-light/</link>
+      <description>
+        <![CDATA[<p>One thousand one hundred empty chairs filled the Honor Grove &#8211; each&#8230;</p>
+        <p>The post <a href="https://canyonsnews.com/shine-a-light/">COC shines a light on suicide prevention</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>]]>
+      </description>
+      <source:markdown>One thousand one hundred empty chairs filled the Honor Grove – each…
+
+The post [COC shines a light on suicide prevention](https://canyonsnews.com/shine-a-light/) appeared first on [Canyons News](https://canyonsnews.com).</source:markdown>
+      <guid>cid://https://canyonsnews.com/?p=55502</guid>
+    </item>    <item>
       <title>Classifieds – October 6, 2025</title>
       <link>https://dailytrojan.com/2025/10/06/classifieds-october-6-2025/</link>
       <description>
@@ -381,7 +400,7 @@ The post [Volunteers come together to help clean Santa Clara River](https://cany
 The post [Former Santa Clarita Mayor visits College of the Canyons Poli-Sci Club](https://canyonsnews.com/poli-sci-club/) appeared first on [Canyons News](https://canyonsnews.com).</source:markdown>
       <guid>cid://https://canyonsnews.com/?p=55483</guid>
     </item>    <item>
-      <title>Daily Bruin Print Issue – Oct. 3</title>
+      <title>Daily Bruin Print Issue – Oct. 3, 2025</title>
       <link>https://dailybruin.com/2025/10/03/daily-bruin-print-issue-oct-3/</link>
       <description>
         <![CDATA[Editor&#8217;s note: This post was updated Oct. 3 at 11:22 a.m. to replace the PDF of an older virtual print edition of The Bruin with the Oct.]]>

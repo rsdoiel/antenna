@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>http://localhost:8000/retro_computingxml</link>
-    <lastBuildDate>06 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>06 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>KIM-1, were IC sockets used?</title>
+      <link>http://retro.hansotten.nl/kim-1-were-ic-sockets-used/</link>
+      <description>
+        <![CDATA[Before I saw the last revision, Rev G, I had never seen an original KIM-1 with IC sockets. All ICs were soldered right into the PCB. Now I have a KIM-1 Rev G and a photo by Dick Dral of his KIM-1 Rev G with white IC sockets. So the last iteration of the KIM-1 [&#8230;]]]>
+      </description>
+      <source:markdown>Before I saw the last revision, Rev G, I had never seen an original KIM-1 with IC sockets. All ICs were soldered right into the PCB. Now I have a KIM-1 Rev G and a photo by Dick Dral of his KIM-1 Rev G with white IC sockets. So the last iteration of the KIM-1 \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=18984</guid>
+    </item>    <item>
       <title>The 2025 London Show is less than 3 weeks away...</title>
       <link>http://www.iconbar.com/comments/rss/news2238.html</link>
       <description>

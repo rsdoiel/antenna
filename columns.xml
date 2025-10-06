@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>http://localhost:8000/columnsxml</link>
-    <lastBuildDate>06 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>06 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,196 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Here are the most banned books of 2025.</title>
+      <link>https://lithub.com/here-are-the-most-banned-books-of-2025/</link>
+      <description>
+        <![CDATA[As we round out #BannedBooksWeek, it&#8217;s time to observe a grim new tradition. PEN America has announced its annual most-banned-books-of-the-year list. This year&#8217;s crop of &#8220;objectionable&#8221; titles may surprise you. If we consider censored books by theme, critique of an]]>
+      </description>
+      <source:markdown>As we round out #BannedBooksWeek, it’s time to observe a grim new tradition. PEN America has announced its annual most-banned-books-of-the-year list. This year’s crop of “objectionable” titles may surprise you. If we consider censored books by theme, critique of an</source:markdown>
+      <guid>cid://https://lithub.com/?p=260729</guid>
+    </item>    <item>
+      <title>Tahoe Electron Detector</title>
+      <link>https://furbo.org/2025/10/06/tahoe-electron-detector/</link>
+      <description>
+        <![CDATA[No, we&#8217;re not doing science at California&#8217;s most beautiful lake. We&#8217;re looking for bugs. A popular cross-platform app development framework called Electron is using private and undocumented API that&#8217;s causing system-wide slowdowns in macOS Tahoe. We&#8217;re hearing from customers that some of our apps are running slowly on Tahoe and I suspect that this bug [&#8230;]]]>
+      </description>
+      <source:markdown>No, we’re not doing science at California’s most beautiful lake. We’re looking for bugs. A popular cross-platform app development framework called Electron is using private and undocumented API that’s causing system-wide slowdowns in macOS Tahoe. We’re hearing from customers that some of our apps are running slowly on Tahoe and I suspect that this bug \[…\]</source:markdown>
+      <guid>cid://https://furbo.org/?p=2912</guid>
+    </item>    <item>
+      <title>October 5, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-5-2025-50a</link>
+      <enclosure url="https://api.substack.com/feed/podcast/175449757/6d04a7eaaa7aa30ca4fd11408fd52c46.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-5-2025-50a</guid>
+    </item>    <item>
+      <title>Empty Nest? Or Open Door?</title>
+      <link>https://kottke.org/25/10/empty-nest-or-open-door</link>
+      <guid>cid://tag:kottke.org,2025://5.47657</guid>
+    </item>    <item>
+      <title>OpenAI DevDay 2025 live blog</title>
+      <link>https://simonwillison.net/2025/Oct/6/openai-devday-live-blog/#atom-everything</link>
+      <description>
+        <![CDATA[<p>I'm at OpenAI DevDay in Fort Mason, San Francisco today. As <a href="https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/">I did last year</a>, I'm going to be live blogging the announcements from the kenote. Unlike last year, this year <a href="https://www.youtube.com/live/hS1YqcewH0c">there's a livestream</a>.</p>
+            
+                <p>Tags: <a href="https://simonwillison.net/tags/liveblogging">liveblogging</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>]]>
+      </description>
+      <source:markdown>I&#39;m at OpenAI DevDay in Fort Mason, San Francisco today. As [I did last year](https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/), I&#39;m going to be live blogging the announcements from the kenote. Unlike last year, this year [there&#39;s a livestream](https://www.youtube.com/live/hS1YqcewH0c).
+
+Tags: [liveblogging](https://simonwillison.net/tags/liveblogging), [ai](https://simonwillison.net/tags/ai), [openai](https://simonwillison.net/tags/openai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/6/openai-devday-live-blog/#atom-everything</guid>
+    </item>    <item>
+      <title>OpenAI Looks to Take 10 Percent Stake in AMD Through AI Chip Deal</title>
+      <link>https://www.cnbc.com/2025/10/06/openai-amd-chip-deal-ai.html</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42244</guid>
+    </item>    <item>
+      <link>https://wordpress.feedland.org/</link>
+      <description>
+        <![CDATA[<p>Lots of new posts on WordPress News about WordPress of course. ;-)</p>]]>
+      </description>
+      <source:markdown>Lots of new posts on WordPress News about WordPress of course. ;-)</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/06/1387/</guid>
+    </item>    <item>
+      <title>How to Write in Cuneiform, the Oldest Writing System in the World....</title>
+      <link>https://kottke.org/25/10/0047594-how-to-write-in-cuneiform</link>
+      <guid>cid://tag:kottke.org,2025://13.47594</guid>
+    </item>    <item>
+      <link>https://archive.ph/w7gmN</link>
+      <description>
+        <![CDATA[<p>Unmasking “Rex Feral,” Author of the Infamous Hit Man Manual.</p>]]>
+      </description>
+      <source:markdown>Unmasking “Rex Feral,” Author of the Infamous Hit Man Manual.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/06/1385/</guid>
+    </item>    <item>
+      <title>24vo Festival de cine alemán: Premios Kino y Voces abiertas</title>
+      <link>https://www.palomitademaiz.net/24vo-festival-de-cine-aleman-premios-kino-y-voces-abiertas/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=24vo-festival-de-cine-aleman-premios-kino-y-voces-abiertas</link>
+      <description>
+        <![CDATA[<p>El cine alemán demuestra que lo controversial es universal El 24° Festival de cine alemán en México, organizado por el Goethe-Institut Mexiko, cerró su fase de competencia a finales de septiembre, no solo reconociendo a las cintas con los Premios Kino, sino también consolidándose como un espacio vital para el diálogo cultural. Lejos del protocolo, [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/24vo-festival-de-cine-aleman-premios-kino-y-voces-abiertas/">24vo Festival de cine alemán: Premios Kino y Voces abiertas</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>El cine alemán demuestra que lo controversial es universal El 24° Festival de cine alemán en México, organizado por el Goethe-Institut Mexiko, cerró su fase de competencia a finales de septiembre, no solo reconociendo a las cintas con los Premios Kino, sino también consolidándose como un espacio vital para el diálogo cultural. Lejos del protocolo, \[…\]
+
+La entrada [24vo Festival de cine alemán: Premios Kino y Voces abiertas](https://www.palomitademaiz.net/24vo-festival-de-cine-aleman-premios-kino-y-voces-abiertas/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=25584</guid>
+    </item>    <item>
+      <link>https://www.theatlantic.com/ideas/archive/2025/10/miller-insurrection/684463/?gift=f35zZN0v_gDFE8xNwlQAHRWWv97cOIIFRlylC4U5_so&#38;utm_source=copy-link&#38;utm_medium=social&#38;utm_campaign=share</link>
+      <description>
+        <![CDATA[<p>Stephen Miller Is Going for Broke.</p>]]>
+      </description>
+      <source:markdown>Stephen Miller Is Going for Broke.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/06/1383/</guid>
+    </item>    <item>
+      <title>Quoting Tim Berners-Lee</title>
+      <link>https://simonwillison.net/2025/Oct/6/tim-berners-lee/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free"><p>I believed that giving users such a simple way to navigate the internet would unlock creativity and collaboration on a global scale. If you could put anything on it, then after a while, it would have everything on it.</p>
+        <p>But for the web to have everything on it, everyone had to be able to use it, and want to do so. This was already asking a lot. I couldn’t also ask that they pay for each search or upload they made. In order to succeed, therefore, it would have to be free. That’s why, in 1993, I convinced my Cern managers to donate the intellectual property of the world wide web, putting it into the public domain. We gave the web away to everyone.</p></blockquote>
+        <p class="cite">&mdash; <a href="https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free">Tim Berners-Lee</a>, Why I gave the world wide web away for free</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/web">web</a>, <a href="https://simonwillison.net/tags/tim-berners-lee">tim-berners-lee</a>, <a href="https://simonwillison.net/tags/computer-history">computer-history</a></p>]]>
+      </description>
+      <source:markdown>&#62; I believed that giving users such a simple way to navigate the internet would unlock creativity and collaboration on a global scale. If you could put anything on it, then after a while, it would have everything on it.
+&#62;
+&#62; But for the web to have everything on it, everyone had to be able to use it, and want to do so. This was already asking a lot. I couldn’t also ask that they pay for each search or upload they made. In order to succeed, therefore, it would have to be free. That’s why, in 1993, I convinced my Cern managers to donate the intellectual property of the world wide web, putting it into the public domain. We gave the web away to everyone.
+
+— [Tim Berners-Lee](https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free), Why I gave the world wide web away for free
+
+Tags: [web](https://simonwillison.net/tags/web), [tim-berners-lee](https://simonwillison.net/tags/tim-berners-lee), [computer-history](https://simonwillison.net/tags/computer-history)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/6/tim-berners-lee/#atom-everything</guid>
+    </item>    <item>
+      <link>https://www.nytimes.com/interactive/2025/10/06/nyregion/07futureNYC-quiz.html</link>
+      <description>
+        <![CDATA[<p>Are You a True New Yorker? Take Our Quiz. (I have not taken the quiz yet myself.)</p>]]>
+      </description>
+      <source:markdown>Are You a True New Yorker? Take Our Quiz. (I have not taken the quiz yet myself.)</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/06/1381/</guid>
+    </item>    <item>
+      <link>https://slate.com/technology/2025/10/cbs-news-bari-weiss-the-free-press-woke.html?via=rss</link>
+      <description>
+        <![CDATA[<p>Bari Weiss is taking over CBS News as editor in chief — and its newsroom is very worried.</p>]]>
+      </description>
+      <source:markdown>Bari Weiss is taking over CBS News as editor in chief — and its newsroom is very worried.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/06/1379/</guid>
+    </item>    <item>
+      <title>Guess which top college is launching a “creator economy” program?</title>
+      <link>https://lithub.com/guess-which-top-college-is-launching-a-creator-economy-program/</link>
+      <description>
+        <![CDATA[I&#8217;ll give you a hint. They bleed orange and blue and Dinosaur B-B-Q. Last week, Syracuse University announced the launch of a new Center for the Creator Economy. The first academic hub of its kind on a U.S. college campus,]]>
+      </description>
+      <source:markdown>I’ll give you a hint. They bleed orange and blue and Dinosaur B-B-Q. Last week, Syracuse University announced the launch of a new Center for the Creator Economy. The first academic hub of its kind on a U.S. college campus,</source:markdown>
+      <guid>cid://https://lithub.com/?p=260722</guid>
+    </item>    <item>
+      <title>Ivan Klima, the best Czech novelist of his generation, has died.</title>
+      <link>https://lithub.com/ivan-klima-the-best-czech-novelist-of-his-generation-has-died/</link>
+      <description>
+        <![CDATA[One of the great Czech writers of the 20th century, Ivan Klima, died over the weekend at his home in Prague, at the age of 94. Klima lived an incredible, principled life, having survived both the Nazi concentration camp at]]>
+      </description>
+      <source:markdown>One of the great Czech writers of the 20th century, Ivan Klima, died over the weekend at his home in Prague, at the age of 94. Klima lived an incredible, principled life, having survived both the Nazi concentration camp at</source:markdown>
+      <guid>cid://https://lithub.com/?p=260731</guid>
+    </item>    <item>
+      <link>https://electrek.co/2025/10/06/ford-finally-build-an-electric-bronco-and-it-looks-wild/</link>
+      <description>
+        <![CDATA[<p>The electric Bronco is real, and it might be Ford’s coolest EV yet. (Only available in China.)</p>]]>
+      </description>
+      <source:markdown>The electric Bronco is real, and it might be Ford’s coolest EV yet. (Only available in China.)</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/06/1377/</guid>
+    </item>    <item>
+      <title>In Praise of Comfort Films</title>
+      <link>https://kottke.org/25/10/in-praise-of-comfort-films</link>
+      <guid>cid://tag:kottke.org,2025://5.47656</guid>
+    </item>    <item>
+      <title>Tim Berners-Lee: &#38;#8220;I gave the world wide web away for free because...</title>
+      <link>https://kottke.org/25/10/0047655-tim-berners-lee-i-gave-th</link>
+      <guid>cid://tag:kottke.org,2025://13.47655</guid>
+    </item>    <item>
+      <link>http://scripting.com/davenet/1995/01/04/demoingsoftwareforfunprofi.html</link>
+      <description>
+        <![CDATA[<p>1995: Demoing Software for Fun &amp; Profit.</p>]]>
+      </description>
+      <source:markdown>1995: Demoing Software for Fun &#38; Profit.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/06/1375/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/06.html#a142205</link>
+      <description>
+        <![CDATA[I did a <a href="https://youtu.be/pkHV7ir0_hM?si=7UbFzFiUc77FRBGA&t=416">video demo</a> of pngWriter in Dec 2016.]]>
+      </description>
+      <source:markdown>I did a [video demo](https://youtu.be/pkHV7ir0_hM?si=7UbFzFiUc77FRBGA&#38;t=416) of pngWriter in Dec 2016.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/06.html#a142205</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/06.html#a141525</link>
+      <description>
+        <![CDATA[Reason #29812 you know our current writing system is broken. When you want to post something that has more than the maximum characters they post an image instead of the text. I once wasted a few months making a writing tool for those kinds of posts, hoping that if it caught on we could have a shadow network that moved the actual text around the net between users. Users weren't so imaginative then.]]>
+      </description>
+      <source:markdown>Reason #29812 you know our current writing system is broken. When you want to post something that has more than the maximum characters they post an image instead of the text. I once wasted a few months making a writing tool for those kinds of posts, hoping that if it caught on we could have a shadow network that moved the actual text around the net between users. Users weren&#39;t so imaginative then.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/06.html#a141525</guid>
+    </item>    <item>
+      <title>The Curious About Everything Newsletter #55</title>
+      <link>https://jodiettenberg.substack.com/p/fifty-five</link>
+      <description>
+        <![CDATA[The many interesting things I read in September 2025]]>
+      </description>
+      <source:markdown>The many interesting things I read in September 2025</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!WTiq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbfd205b9-12ba-4449-8f92-874e0e8d70de_1000x734.webp" length="0" type="image/jpeg" />
+      <guid>cid://https://jodiettenberg.substack.com/p/fifty-five</guid>
+    </item>    <item>
+      <title>Libraries Can’t Get Their Loaned Books Back Because of Trump’s Tariffs</title>
+      <link>https://www.404media.co/libraries-cant-get-their-loaned-books-back-because-of-trumps-tariffs/</link>
+      <description>
+        <![CDATA[Libraries have shared their collections internationally for decades. Trump’s tariffs are throwing that system into chaos and can ‘hinder academic progress.’]]>
+      </description>
+      <source:markdown>Libraries have shared their collections internationally for decades. Trump’s tariffs are throwing that system into chaos and can ‘hinder academic progress.’</source:markdown>
+      <guid>cid://68dd6b48ed336000015753a3</guid>
+    </item>    <item>
+      <title>Leavings</title>
+      <link>https://doc.searls.com/2025/10/06/leavings/</link>
+      <description>
+        <![CDATA[I live a full and active life. In fact, I&#8217;m probably more engaged than I&#8217;ve ever been, with faith that at least some of my ideas will play out in constructive ways over the coming years and decades. But, at 78 (still a year younger than the current US president), I am also more mortal [&#8230;]]]>
+      </description>
+      <source:markdown>I live a full and active life. In fact, I’m probably more engaged than I’ve ever been, with faith that at least some of my ideas will play out in constructive ways over the coming years and decades. But, at 78 (still a year younger than the current US president), I am also more mortal \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/?p=19545</guid>
+    </item>    <item>
+      <title>Oh I don&#38;#8217;t know, the appearance of two perfectly overlapping fiery rings...</title>
+      <link>https://kottke.org/25/10/0047654-oh-i-dont-know-the</link>
+      <guid>cid://tag:kottke.org,2025://13.47654</guid>
     </item>    <item>
       <title>We Are Not Fascists, and If You Call Us Fascists, We Will...</title>
       <link>https://kottke.org/25/10/0047653-we-are-not-fascists-and</link>
@@ -433,6 +623,13 @@ As the search engine has been up to this point built with English in mind, some 
       <enclosure url="https://traffic.libsyn.com/secure/adventofcomputing/ep166_beyond_the_pdp_11.mp3?dest-id=1206722" length="57992695" type="audio/mpeg" />
       <guid>cid://26b63d92-8e79-4a75-bcd0-415d1d13b9ec</guid>
     </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115324106207083510</link>
+      <description>
+        <![CDATA[<p>Bolognese for the kids, while I force myself to eat a bag of grass.</p>]]>
+      </description>
+      <source:markdown>Bolognese for the kids, while I force myself to eat a bag of grass.</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115324106207083510</guid>
+    </item>    <item>
       <title>606. Enoch Powell: Rivers of Blood</title>
       <link>https://therestishistory.com/606-enoch-powell-rivers-of-blood/</link>
       <description>
@@ -651,6 +848,11 @@ Thanks for reading this post via RSS! Let me know your thoughts by leaving a com
         <p>I plan to write more as I figure out the ways of using them that are most effective. I encourage other practitioners to do the same!</p>
         <h4 id="recommended-reading">Recommended reading</h4>
         <p>Jesse Vincent wrote <a href="https://blog.fsck.com/2025/10/05/how-im-using-coding-agents-in-september-2025/">How I'm using coding agents in September, 2025</a> which describes his workflow for parallel agents in detail, including having an architect agent iterate on a plan which is then reviewed and implemented by fresh instances of Claude Code.</p>
+        <p>In <a href="https://sketch.dev/blog/seven-prompting-habits">The 7 Prompting Habits of Highly Effective Engineers</a> Josh Bleecher Snyder describes several patterns for this kind of work. I particularly like this one:</p>
+        <blockquote>
+        <p><strong>Send out a scout</strong>. Hand the AI agent a task just to find out where the sticky bits are, so you don’t have to make those mistakes.</p>
+        </blockquote>
+        <p>I've tried this a few times with good results: give the agent a genuinely difficult task against a large codebase, with no intention of actually landing its code, just to get ideas from which files it modifies and how it approaches the problem.</p>
             
                 <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/codex-cli">codex-cli</a></p>]]>
       </description>
@@ -727,6 +929,12 @@ I plan to write more as I figure out the ways of using them that are most effect
 #### Recommended reading
 
 Jesse Vincent wrote [How I&#39;m using coding agents in September, 2025](https://blog.fsck.com/2025/10/05/how-im-using-coding-agents-in-september-2025/) which describes his workflow for parallel agents in detail, including having an architect agent iterate on a plan which is then reviewed and implemented by fresh instances of Claude Code.
+
+In [The 7 Prompting Habits of Highly Effective Engineers](https://sketch.dev/blog/seven-prompting-habits) Josh Bleecher Snyder describes several patterns for this kind of work. I particularly like this one:
+
+&#62; **Send out a scout**. Hand the AI agent a task just to find out where the sticky bits are, so you don’t have to make those mistakes.
+
+I&#39;ve tried this a few times with good results: give the agent a genuinely difficult task against a large codebase, with no intention of actually landing its code, just to get ideas from which files it modifies and how it approaches the problem.
 
 Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [ai-agents](https://simonwillison.net/tags/ai-agents), [coding-agents](https://simonwillison.net/tags/coding-agents), [claude-code](https://simonwillison.net/tags/claude-code), [codex-cli](https://simonwillison.net/tags/codex-cli)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/5/parallel-coding-agents/#atom-everything</guid>
@@ -1154,6 +1362,13 @@ You might be quick to deduce that—yes—I’m making a 3D game. 😘</source:m
       <enclosure url="https://substackcdn.com/image/fetch/$s_!q3bK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cc21b12-8db7-4b79-9228-29a5fda6ac63_3436x2291.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/office-hours-whats-the-real-reason</guid>
     </item>    <item>
+      <link>http://scripting.com/2025/03/13/132830.html</link>
+      <description>
+        <![CDATA[The great thing about the web is that it's already federated. Nothing to wait for.]]>
+      </description>
+      <source:markdown>The great thing about the web is that it&#39;s already federated. Nothing to wait for.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/03/1335/</guid>
+    </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115312343947324207</link>
       <description>
         <![CDATA[<p>In Mexico, people call Oracle the company &quot;Obstacle&quot;.</p><p>And I think this is beautiful.</p>]]>
@@ -1385,13 +1600,6 @@ Tags: [sqlite](https://simonwillison.net/tags/sqlite), [fly](https://simonwillis
       </description>
       <source:markdown>With no guidelines yet from CDC, getting a COVID shot remains confusing.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/03/1331/</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/03/13/132830.html</link>
-      <description>
-        <![CDATA[<p>March 2025: The writer's web.</p>]]>
-      </description>
-      <source:markdown>March 2025: The writer&#39;s web.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/03/1329/</guid>
     </item>    <item>
       <title>Going to Cork. brb</title>
       <link>https://adactio.com/notes/22171</link>
@@ -6867,6 +7075,47 @@ autumn sky parking lot</source:markdown>
       <source:markdown>The daily flow of disaster is simply overwhelming. Here are some people with reflections on how to avoid becoming paralyzed and instead take positive steps.</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!jHvX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd83f3b10-43ed-4f96-9a27-5032b97e8e58_1024x683.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://fallows.substack.com/p/preserving-our-sanity-during-insane</guid>
+    </item>    <item>
+      <title>This Month in Redox - September 2025</title>
+      <link>https://www.redox-os.org/news/this-month-250930/</link>
+      <description>
+        <![CDATA[<p>Redox OS is a Unix-like general-purpose microkernel-based operating system
+        written in Rust. September was a very exciting month for Redox! Here&rsquo;s all the latest news.</p>
+        <h2 id="donate-to-redox">Donate to Redox</h2>
+        <p>If you would like to support Redox, please consider donating or buying some merch!</p>
+        <ul>
+        <li><a href="https://www.redox-os.org/donate/">Donate</a></li>
+        <li><a href="https://www.patreon.com/redox_os">Patreon</a></li>
+        <li><a href="https://redox-os.creator-spring.com/">Merch</a></li>
+        </ul>
+        <h2 id="rustconf-presentation">RustConf Presentation</h2>
+        <p>Jeremy Soller presented &ldquo;10 Years of Rust and Redox&rdquo; at RustConf this year,
+        with some great stories about the history of Redox,
+        and some awesome insights into Redox&rsquo;s future.
+        Jeremy&rsquo;s talk was one of the Marquee presentations, on the main stage to all RustConf attendees.
+        Many people felt it was one of the most enjoyable and informative sessions at the conference.
+        Grab some popcorn and enjoy an entertaining presentation with a surprise ending!</p>]]>
+      </description>
+      <source:markdown>Redox OS is a Unix-like general-purpose microkernel-based operating system
+written in Rust. September was a very exciting month for Redox! Here’s all the latest news.
+
+## Donate to Redox
+
+If you would like to support Redox, please consider donating or buying some merch!
+
+- [Donate](https://www.redox-os.org/donate/)
+- [Patreon](https://www.patreon.com/redox_os)
+- [Merch](https://redox-os.creator-spring.com/)
+
+## RustConf Presentation
+
+Jeremy Soller presented “10 Years of Rust and Redox” at RustConf this year,
+with some great stories about the history of Redox,
+and some awesome insights into Redox’s future.
+Jeremy’s talk was one of the Marquee presentations, on the main stage to all RustConf attendees.
+Many people felt it was one of the most enjoyable and informative sessions at the conference.
+Grab some popcorn and enjoy an entertaining presentation with a surprise ending!</source:markdown>
+      <guid>cid://https://www.redox-os.org/news/this-month-250930/</guid>
     </item>    <item>
       <title>You Can’t Rewrite Facts</title>
       <link>https://steady.substack.com/p/you-cant-rewrite-facts</link>

@@ -4,10 +4,19 @@
   <channel>
     <title>North America</title>
     <link>http://localhost:8000/north_americaxml</link>
-    <lastBuildDate>06 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>06 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>A shutdown, layoffs, and yet the market keeps surging</title>
+      <link>https://www.marketplace.org/episode/2025/10/06/a-shutdown-layoffs-and-yet-the-market-keeps-surging</link>
+      <description>
+        <![CDATA[<p>Over the weekend, the White House threatened more layoffs if negotiations between Democrats and Republicans continue to go nowhere. Meanwhile, 100,000 earlier federal layoffs and buyouts finally took effect last week. But stocks hit a record on Friday. What gives? We'll discuss with Julia Coronado, founder and president of MacroPolicy Perspectives. Plus, a lack of trust in artificial intelligence is hampering its adoption among small and mid-sized businesses.</p>]]>
+      </description>
+      <source:markdown>Over the weekend, the White House threatened more layoffs if negotiations between Democrats and Republicans continue to go nowhere. Meanwhile, 100,000 earlier federal layoffs and buyouts finally took effect last week. But stocks hit a record on Friday. What gives? We&#39;ll discuss with Julia Coronado, founder and president of MacroPolicy Perspectives. Plus, a lack of trust in artificial intelligence is hampering its adoption among small and mid-sized businesses.</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/10/06/mmr_20251006_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K6WY60W1NXXT1M78MRMPDSQH" length="3457615" type="audio/mpeg" />
+      <guid>cid://01K6WY60W1NXXT1M78MRMPDSQH</guid>
+    </item>    <item>
       <title>Let&#39;s talk about climate finance</title>
       <link>https://www.marketplace.org/episode/2025/10/06/lets-talk-about-climate-finance</link>
       <description>
