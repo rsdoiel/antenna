@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>http://localhost:8000/columnsxml</link>
-    <lastBuildDate>06 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>06 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -38,6 +38,222 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <title>The Mainstream Media Is Catastrophically Failing To Meet The Moment. &#38;#8220;Mainstream media...</title>
+      <link>https://kottke.org/25/10/0047668-the-mainstream-media-is-c</link>
+      <guid>cid://tag:kottke.org,2025://13.47668</guid>
+    </item>    <item>
+      <title>Trump&#39;s Plan</title>
+      <link>https://robertreich.substack.com/p/trumps-plan</link>
+      <description>
+        <![CDATA[To invoke the Insurrection Act]]>
+      </description>
+      <source:markdown>To invoke the Insurrection Act</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Ig3f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4fc2221-9d08-4835-8a21-a48b1c90ecfb_3500x2829.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/trumps-plan</guid>
+    </item>    <item>
+      <link>https://electrek.co/2025/10/06/kias-smallest-ev-full-of-big-surprises/</link>
+      <description>
+        <![CDATA[<p>Kia's smallest EV is full of big surprises.</p>]]>
+      </description>
+      <source:markdown>Kia&#39;s smallest EV is full of big surprises.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/06/1391/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/06.html#a210632</link>
+      <description>
+        <![CDATA[I do all my shopping in ChatGPT. There must be a way to monetize that. For example, I want to buy a new backpack for carrying my laptop and other mobile web stuff. I should be able to set up anywhere there's wifi. I've got a modern MacBook Air, an iPad and two phones, one iOS and one Android. The main one is Android, I have to carry the iPhone because I use an Apple watch. I imagine there must be some improvements made in backpacks accordingly since I bought the last one, which was when I lived in Berkeley, in the late 00s.]]>
+      </description>
+      <source:markdown>I do all my shopping in ChatGPT. There must be a way to monetize that. For example, I want to buy a new backpack for carrying my laptop and other mobile web stuff. I should be able to set up anywhere there&#39;s wifi. I&#39;ve got a modern MacBook Air, an iPad and two phones, one iOS and one Android. The main one is Android, I have to carry the iPhone because I use an Apple watch. I imagine there must be some improvements made in backpacks accordingly since I bought the last one, which was when I lived in Berkeley, in the late 00s.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/06.html#a210632</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/06.html#a210527</link>
+      <description>
+        <![CDATA[I've been evangelizing <a href="https://daytona.scripting.com/search?q=evangelism">evangelism</a> lately. Focus on goals and help others help us achieve them. It's a virtuous cycle, because once people figure out that they can get help by helping us, they will help us more. That is, when it works.]]>
+      </description>
+      <source:markdown>I&#39;ve been evangelizing [evangelism](https://daytona.scripting.com/search?q=evangelism) lately. Focus on goals and help others help us achieve them. It&#39;s a virtuous cycle, because once people figure out that they can get help by helping us, they will help us more. That is, when it works.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/06.html#a210527</guid>
+    </item>    <item>
+      <title>Do AI Reasoning Models Abstract and Reason Like Humans?</title>
+      <link>https://aiguide.substack.com/p/do-ai-reasoning-models-abstract-and</link>
+      <description>
+        <![CDATA[Going beyond simple accuracy for evaluating abstraction abilities]]>
+      </description>
+      <source:markdown>Going beyond simple accuracy for evaluating abstraction abilities</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/244fe9f2-712a-4767-b86d-4bd3b9c46e9f_1920x1372.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://aiguide.substack.com/p/do-ai-reasoning-models-abstract-and</guid>
+    </item>    <item>
+      <title>The Taco Bell 50k Ultramarathon was run in Denver over the weekend....</title>
+      <link>https://kottke.org/25/10/0047659-the-taco-bell-50k-ultrama</link>
+      <guid>cid://tag:kottke.org,2025://13.47659</guid>
+    </item>    <item>
+      <title>What Jane Goodall’s Life Teaches About Courage, Curiosity, and Care</title>
+      <link>https://guykawasaki.substack.com/p/what-jane-goodalls-life-teaches-about</link>
+      <description>
+        <![CDATA[This week, in a bonus episode, we honor the life of Dr.]]>
+      </description>
+      <source:markdown>This week, in a bonus episode, we honor the life of Dr.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!4mBo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F301dc236-fda1-4731-a5a4-9b95a61a79b3_1280x853.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://guykawasaki.substack.com/p/what-jane-goodalls-life-teaches-about</guid>
+    </item>    <item>
+      <title>I missed this from a couple of months ago: Inside the World...</title>
+      <link>https://kottke.org/25/10/0047661-i-missed-this-from-a</link>
+      <guid>cid://tag:kottke.org,2025://13.47661</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/altusds.altgov.info/post/3m2kfgxnues2q</link>
+      <description>
+        <![CDATA[Yes yes yes. Local elections can have meaningful impact on your life. 
+        
+        The candidates are accessible and the issues affect you more closely. 
+        
+        We're all busy, but these elections matter.
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>Yes yes yes. Local elections can have meaningful impact on your life.
+
+The candidates are accessible and the issues affect you more closely.
+
+We&#39;re all busy, but these elections matter.
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:fuovrvjiloafdym65x3oloqc/app.bsky.feed.post/3m2kfgxnues2q</guid>
+    </item>    <item>
+      <link>https://www.thenation.com/article/society/supreme-court-term-worst-cases/?utm_campaign=SproutSocial&#38;utm_content=The%20Nation%20Magazine&#38;utm_medium=social&#38;utm_source=bluesky</link>
+      <description>
+        <![CDATA[<p>The Supreme Court v. Democracy.</p>]]>
+      </description>
+      <source:markdown>The Supreme Court v. Democracy.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/06/1389/</guid>
+    </item>    <item>
+      <title>GPT-5 pro</title>
+      <link>https://simonwillison.net/2025/Oct/6/gpt-5-pro/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://platform.openai.com/docs/models/gpt-5-pro">GPT-5 pro</a></strong></p>
+        Here's OpenAI's model documentation for their GPT-5 pro model, released to their API today at their DevDay event.</p>
+        <p>It has similar base characteristics to <a href="https://platform.openai.com/docs/models/gpt-5">GPT-5</a>: both share a September 30, 2024 knowledge cutoff and 400,000 context limit.</p>
+        <p>GPT-5 pro has maximum output tokens 272,000 max, an increase from 128,000 for GPT-5.</p>
+        <blockquote>
+        <p>As our most advanced reasoning model, GPT-5 pro defaults to (and only supports) <code>reasoning.effort: high</code></p>
+        </blockquote>
+        <p>It's only available via OpenAI's Responses API. My <a href="https://llm.datasette.io/">LLM</a> tool doesn't support that in core yet, but the <a href="https://github.com/simonw/llm-openai-plugin">llm-openai-plugin</a> plugin does. I released <a href="https://github.com/simonw/llm-openai-plugin/releases/tag/0.7">llm-openai-plugin 0.7</a> adding support for the new model, then ran this:</p>
+        <pre><code>llm install -U llm-openai-plugin
+        llm -m openai/gpt-5-pro "Generate an SVG of a pelican riding a bicycle"
+        </code></pre>
+        <p>It's very, very slow. The model took 6 minutes 8 seconds to respond and charged me for 16 input and 9,205 output tokens. At $15/million input and $120/million output this pelican <a href="https://www.llm-prices.com/#it=16&amp;ot=9205&amp;ic=15&amp;oc=120&amp;sb=output&amp;sd=descending">cost me $1.10</a>!</p>
+        <p><img alt="It's obviously a pelican riding a bicycle. Half the spokes are missing on each wheel and the pelican is a bit squat looking." src="https://static.simonwillison.net/static/2025/gpt-5-pro.png" /></p>
+        <p>Here's <a href="https://gist.github.com/simonw/9a06ab36f486f31401fec1fc104a8ce5">the full transcript</a>. It looks visually pretty simpler to the much, much cheaper result I <a href="https://simonwillison.net/2025/Aug/7/gpt-5/#and-some-svgs-of-pelicans">got from GPT-5</a>.
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/gpt-5">gpt-5</a></p>]]>
+      </description>
+      <source:markdown>**[GPT-5 pro](https://platform.openai.com/docs/models/gpt-5-pro)**
+
+Here&#39;s OpenAI&#39;s model documentation for their GPT-5 pro model, released to their API today at their DevDay event.
+
+It has similar base characteristics to [GPT-5](https://platform.openai.com/docs/models/gpt-5): both share a September 30, 2024 knowledge cutoff and 400,000 context limit.
+
+GPT-5 pro has maximum output tokens 272,000 max, an increase from 128,000 for GPT-5.
+
+&#62; As our most advanced reasoning model, GPT-5 pro defaults to (and only supports) `reasoning.effort: high`
+
+It&#39;s only available via OpenAI&#39;s Responses API. My [LLM](https://llm.datasette.io/) tool doesn&#39;t support that in core yet, but the [llm-openai-plugin](https://github.com/simonw/llm-openai-plugin) plugin does. I released [llm-openai-plugin 0.7](https://github.com/simonw/llm-openai-plugin/releases/tag/0.7) adding support for the new model, then ran this:
+
+```
+llm install -U llm-openai-plugin
+llm -m openai/gpt-5-pro &#34;Generate an SVG of a pelican riding a bicycle&#34;
+
+```
+
+It&#39;s very, very slow. The model took 6 minutes 8 seconds to respond and charged me for 16 input and 9,205 output tokens. At $15/million input and $120/million output this pelican [cost me $1.10](https://www.llm-prices.com/#it=16&#38;ot=9205&#38;ic=15&#38;oc=120&#38;sb=output&#38;sd=descending)!
+
+![It&#39;s obviously a pelican riding a bicycle. Half the spokes are missing on each wheel and the pelican is a bit squat looking.](https://static.simonwillison.net/static/2025/gpt-5-pro.png)
+
+Here&#39;s [the full transcript](https://gist.github.com/simonw/9a06ab36f486f31401fec1fc104a8ce5). It looks visually pretty simpler to the much, much cheaper result I [got from GPT-5](https://simonwillison.net/2025/Aug/7/gpt-5/#and-some-svgs-of-pelicans).
+
+
+
+Tags: [ai](https://simonwillison.net/tags/ai), [openai](https://simonwillison.net/tags/openai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [llm-pricing](https://simonwillison.net/tags/llm-pricing), [pelican-riding-a-bicycle](https://simonwillison.net/tags/pelican-riding-a-bicycle), [llm-reasoning](https://simonwillison.net/tags/llm-reasoning), [llm-release](https://simonwillison.net/tags/llm-release), [gpt-5](https://simonwillison.net/tags/gpt-5)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/6/gpt-5-pro/#atom-everything</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/altusds.altgov.info/post/3m2kdrd6ils2a</link>
+      <description>
+        <![CDATA[Many people noticed plainlanguage.gov was migrated to https://digital.gov/topics/plain-language, where it has been *consolidated*.
+        
+        Our friends at @alt18f.bsky.social posted a version of the original content at plainlanguage.18f.org
+        
+        Unlike other sites that have disappeared, this one just changed.
+        https://plainlanguage.18f.org/]]>
+      </description>
+      <source:markdown>Many people noticed plainlanguage.gov was migrated to https://digital.gov/topics/plain-language, where it has been \*consolidated\*.
+
+Our friends at @alt18f.bsky.social posted a version of the original content at plainlanguage.18f.org
+
+Unlike other sites that have disappeared, this one just changed.
+https://plainlanguage.18f.org/</source:markdown>
+      <guid>cid://at://did:plc:fuovrvjiloafdym65x3oloqc/app.bsky.feed.post/3m2kdrd6ils2a</guid>
+    </item>    <item>
+      <title>What Makes for a Healthy Society?</title>
+      <link>https://kottke.org/25/10/what-makes-for-a-healthy-society</link>
+      <guid>cid://tag:kottke.org,2025://5.47658</guid>
+    </item>    <item>
+      <title>The House of Leaves-inspired game MyHouse.wad is just as trippy as you’d think.</title>
+      <link>https://lithub.com/the-house-of-leaves-inspired-game-myhouse-wad-is-just-as-trippy-as-youd-think/</link>
+      <description>
+        <![CDATA[This demon shooting video game mod might be your new favorite book. MyHouse.wad is a 2023 mod—short for modification, in this case a series of custom levels—for 1994&#8217;s Doom II, the second in a franchise of wildly influential games that]]>
+      </description>
+      <source:markdown>This demon shooting video game mod might be your new favorite book. MyHouse.wad is a 2023 mod—short for modification, in this case a series of custom levels—for 1994’s Doom II, the second in a franchise of wildly influential games that</source:markdown>
+      <guid>cid://https://lithub.com/?p=260755</guid>
+    </item>    <item>
+      <title>Delightful Doggie Field Trips</title>
+      <link>https://onefoottsunami.com/2025/10/06/delightful-doggie-field-trips/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29239</guid>
+    </item>    <item>
+      <title>Purism Defends the Fourth Amendment in the Digital Age</title>
+      <link>https://puri.sm/posts/purism-defends-the-fourth-amendment-in-the-digital-age/</link>
+      <description>
+        <![CDATA[<p>A newly revealed WIRED investigation shows that the United States Government is creating a vast social media surveillance network, one that will operate around the clock and rely heavily on private contractors. Officials insist the system targets foreign nationals—but its scope and design make it inevitable that millions of Americans’ online activity will also be swept up. This is unconstitutional.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/purism-defends-the-fourth-amendment-in-the-digital-age/">Purism Defends the Fourth Amendment in the Digital Age</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <source:markdown>A newly revealed WIRED investigation shows that the United States Government is creating a vast social media surveillance network, one that will operate around the clock and rely heavily on private contractors. Officials insist the system targets foreign nationals—but its scope and design make it inevitable that millions of Americans’ online activity will also be swept up. This is unconstitutional.
+
+The post [Purism Defends the Fourth Amendment in the Digital Age](https://puri.sm/posts/purism-defends-the-fourth-amendment-in-the-digital-age/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+      <guid>cid://https://puri.sm/?p=84660</guid>
+    </item>    <item>
+      <title>&#38;#8220;Mary Brunkow, Fred Ramsdell, and Shimon Sakaguchi won the 2025 Nobel Prize...</title>
+      <link>https://kottke.org/25/10/0047660-mary-brunkow-fred-ramsdel</link>
+      <guid>cid://tag:kottke.org,2025://13.47660</guid>
+    </item>    <item>
+      <title>Epic Games Sees Benefits From Streamlined Install Flow</title>
+      <link>https://mjtsai.com/blog/2025/10/06/epic-games-sees-benefits-from-streamlined-install-flow/</link>
+      <description>
+        <![CDATA[Epic Games (Tim Sweeney, MacRumors, The Verge, TechCrunch): In response to ongoing Digital Markets Act enforcement, Apple has significantly improved the process for installing alternative app stores from the web in the European Union with iOS 18.6 in July. They&#8217;ve reduced the install flow from 15 steps to 6, eliminating their former scare screen and [&#8230;]]]>
+      </description>
+      <source:markdown>Epic Games (Tim Sweeney, MacRumors, The Verge, TechCrunch): In response to ongoing Digital Markets Act enforcement, Apple has significantly improved the process for installing alternative app stores from the web in the European Union with iOS 18.6 in July. They’ve reduced the install flow from 15 steps to 6, eliminating their former scare screen and \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49537</guid>
+    </item>    <item>
+      <title>Helm 2.0</title>
+      <link>https://mjtsai.com/blog/2025/10/06/helm-2-0/</link>
+      <description>
+        <![CDATA[Modum (tweet): The all-in-one iOS and macOS app that enhances App Store Connect, supercharging your app updates, localization, and ASO with AI-powered tools.[&#8230;]Using Helm is up to 12x faster than using the App Store Connect website.[&#8230;]It&#8217;s easier than ever to respond using templates, translations, and AI assistance. Additionally, Helm will automatically translate the review and [&#8230;]]]>
+      </description>
+      <source:markdown>Modum (tweet): The all-in-one iOS and macOS app that enhances App Store Connect, supercharging your app updates, localization, and ASO with AI-powered tools.\[…\]Using Helm is up to 12x faster than using the App Store Connect website.\[…\]It’s easier than ever to respond using templates, translations, and AI assistance. Additionally, Helm will automatically translate the review and \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49535</guid>
+    </item>    <item>
+      <title>Bartender 6</title>
+      <link>https://mjtsai.com/blog/2025/10/06/bartender-6/</link>
+      <description>
+        <![CDATA[Applause Group: We&#8217;ve re-built Bartender from the ground up to be beautiful, performant, and reliable. Bartender has been a staple of Mac users for years, and that brought with it lots of old hacks &#38; tricks. We&#8217;ve modernised everything, from the algorithms used to move your items, through to the design of the entire app.The [&#8230;]]]>
+      </description>
+      <source:markdown>Applause Group: We’ve re-built Bartender from the ground up to be beautiful, performant, and reliable. Bartender has been a staple of Mac users for years, and that brought with it lots of old hacks &#38; tricks. We’ve modernised everything, from the algorithms used to move your items, through to the design of the entire app.The \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49533</guid>
+    </item>    <item>
+      <title>Apple Files Another Anti-Steering Appeal</title>
+      <link>https://mjtsai.com/blog/2025/10/06/apple-files-another-anti-steering-appeal/</link>
+      <description>
+        <![CDATA[Juli Clover: Startup accelerator and venture capital firm Y Combinator (YC) today filed an amicus brief supporting Epic Games in Epic&#8217;s continued legal fight with Apple. Y Combinator says that Apple&#8217;s &#8220;anti-steering restraints&#8221; have long inhibited the growth and development of technology companies that monetize goods and services through apps.The company calls on the court [&#8230;]]]>
+      </description>
+      <source:markdown>Juli Clover: Startup accelerator and venture capital firm Y Combinator (YC) today filed an amicus brief supporting Epic Games in Epic’s continued legal fight with Apple. Y Combinator says that Apple’s “anti-steering restraints” have long inhibited the growth and development of technology companies that monetize goods and services through apps.The company calls on the court \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49531</guid>
+    </item>    <item>
       <title>Here are the most banned books of 2025.</title>
       <link>https://lithub.com/here-are-the-most-banned-books-of-2025/</link>
       <description>
@@ -66,13 +282,13 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <title>OpenAI DevDay 2025 live blog</title>
       <link>https://simonwillison.net/2025/Oct/6/openai-devday-live-blog/#atom-everything</link>
       <description>
-        <![CDATA[<p>I'm at OpenAI DevDay in Fort Mason, San Francisco today. As <a href="https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/">I did last year</a>, I'm going to be live blogging the announcements from the kenote. Unlike last year, this year <a href="https://www.youtube.com/live/hS1YqcewH0c">there's a livestream</a>.</p>
+        <![CDATA[<p>I'm at <a href="https://devday.openai.com/2025">OpenAI DevDay</a> in Fort Mason, San Francisco today. As <a href="https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/">I did last year</a>, I'm going to be live blogging the announcements from the kenote. Unlike last year, this year <a href="https://www.youtube.com/live/hS1YqcewH0c">there's a livestream</a>.</p>
             
-                <p>Tags: <a href="https://simonwillison.net/tags/liveblogging">liveblogging</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>]]>
+                <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/live-blog">live-blog</a></p>]]>
       </description>
-      <source:markdown>I&#39;m at OpenAI DevDay in Fort Mason, San Francisco today. As [I did last year](https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/), I&#39;m going to be live blogging the announcements from the kenote. Unlike last year, this year [there&#39;s a livestream](https://www.youtube.com/live/hS1YqcewH0c).
+      <source:markdown>I&#39;m at [OpenAI DevDay](https://devday.openai.com/2025) in Fort Mason, San Francisco today. As [I did last year](https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/), I&#39;m going to be live blogging the announcements from the kenote. Unlike last year, this year [there&#39;s a livestream](https://www.youtube.com/live/hS1YqcewH0c).
 
-Tags: [liveblogging](https://simonwillison.net/tags/liveblogging), [ai](https://simonwillison.net/tags/ai), [openai](https://simonwillison.net/tags/openai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms)</source:markdown>
+Tags: [ai](https://simonwillison.net/tags/ai), [openai](https://simonwillison.net/tags/openai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [live-blog](https://simonwillison.net/tags/live-blog)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/6/openai-devday-live-blog/#atom-everything</guid>
     </item>    <item>
       <title>OpenAI Looks to Take 10 Percent Stake in AMD Through AI Chip Deal</title>
@@ -194,9 +410,9 @@ Tags: [web](https://simonwillison.net/tags/web), [tim-berners-lee](https://simon
     </item>    <item>
       <link>http://scripting.com/2025/10/06.html#a141525</link>
       <description>
-        <![CDATA[Reason #29812 you know our current writing system is broken. When you want to post something that has more than the maximum characters they post an image instead of the text. I once wasted a few months making a writing tool for those kinds of posts, hoping that if it caught on we could have a shadow network that moved the actual text around the net between users. Users weren't so imaginative then.]]>
+        <![CDATA[Reason #29812 you know our current writing system is broken. When you want to post something that has more than the maximum characters they post an image instead of the text. I once wasted a few months making a writing tool for those kinds of posts, hoping that if it caught on we could have a shadow network that moved the actual text around the net between users.]]>
       </description>
-      <source:markdown>Reason #29812 you know our current writing system is broken. When you want to post something that has more than the maximum characters they post an image instead of the text. I once wasted a few months making a writing tool for those kinds of posts, hoping that if it caught on we could have a shadow network that moved the actual text around the net between users. Users weren&#39;t so imaginative then.</source:markdown>
+      <source:markdown>Reason #29812 you know our current writing system is broken. When you want to post something that has more than the maximum characters they post an image instead of the text. I once wasted a few months making a writing tool for those kinds of posts, hoping that if it caught on we could have a shadow network that moved the actual text around the net between users.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/06.html#a141525</guid>
     </item>    <item>
       <title>The Curious About Everything Newsletter #55</title>
@@ -254,7 +470,7 @@ Tags: [web](https://simonwillison.net/tags/web), [tim-berners-lee](https://simon
       <source:markdown>Trump to the Navy: &#34;We have to take care of this little gnat that&#39;s on our shoulder called the Democrats.&#34;</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/06/1371/</guid>
     </item>    <item>
-      <title>From Autocomplete to Agents: Mapping the Design Space of AI Coding Assistants</title>
+      <title>Mapping the Design Space of AI Coding Assistants</title>
       <link>https://www.oreilly.com/radar/from-autocomplete-to-agents-mapping-the-design-space-of-ai-coding-assistants/</link>
       <description>
         <![CDATA[Just a few years ago, AI coding assistants were little more than autocomplete curiosities—tools that could finish your variable names or suggest a line of boilerplate. Today, they’ve become an everyday part of millions of developers’ workflows, with entire products and startups built around them. Depending on who you ask, they represent either the dawn [&#8230;]]]>
