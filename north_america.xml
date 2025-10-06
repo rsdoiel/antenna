@@ -4,10 +4,37 @@
   <channel>
     <title>North America</title>
     <link>http://localhost:8000/north_americaxml</link>
-    <lastBuildDate>05 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>06 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Let&#39;s talk about climate finance</title>
+      <link>https://www.marketplace.org/episode/2025/10/06/lets-talk-about-climate-finance</link>
+      <description>
+        <![CDATA[<p>The nonprofit One Earth has been tracking $400 billion worth of private investment in climate change solutions. Thing is, the amount of money being invested in climate causes is both not enough and unevenly distributed. This morning, we'll find out what’s driving the gap and what can be done about it. But first, Costco members will soon be able to buy discounted weight-loss drugs, and beer makers are struggling with tariffs and changing consumer demand.</p>]]>
+      </description>
+      <source:markdown>The nonprofit One Earth has been tracking $400 billion worth of private investment in climate change solutions. Thing is, the amount of money being invested in climate causes is both not enough and unevenly distributed. This morning, we&#39;ll find out what’s driving the gap and what can be done about it. But first, Costco members will soon be able to buy discounted weight-loss drugs, and beer makers are struggling with tariffs and changing consumer demand.</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/10/06/mmr_20251006_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K6WN9K9A3NJMTY1N34QACZND" length="3485410" type="audio/mpeg" />
+      <guid>cid://01K6WN9K9A3NJMTY1N34QACZND</guid>
+    </item>    <item>
+      <title>Japan preps to elect new leader as its economic woes deepen</title>
+      <link>https://www.marketplace.org/episode/2025/09/11/japan-preps-to-elect-new-leader-as-its-economic-woes-deepen</link>
+      <description>
+        <![CDATA[<p><em>From the BBC World Service:</em> The Nikkei 225 stock index in Japan rose sharply on the first day of trading after Sanae Takaichi won the contest to lead the country's ruling Liberal Democratic Party. Then, Jaguar Land Rover plans to resume vehicle production in the U.K. today, six weeks after a cyberattack forced a production pause. And, although the artificial intelligence industry is worth close to $250 billion, some businesses are rejecting its use altogether. We'll hear from them.</p>]]>
+      </description>
+      <source:markdown>_From the BBC World Service:_ The Nikkei 225 stock index in Japan rose sharply on the first day of trading after Sanae Takaichi won the contest to lead the country&#39;s ruling Liberal Democratic Party. Then, Jaguar Land Rover plans to resume vehicle production in the U.K. today, six weeks after a cyberattack forced a production pause. And, although the artificial intelligence industry is worth close to $250 billion, some businesses are rejecting its use altogether. We&#39;ll hear from them.</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/10/06/mmr_20251006_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K6WMD8N0DN4671GFR0Y70M3J" length="3793312" type="audio/mpeg" />
+      <guid>cid://01K6WMD8N0DN4671GFR0Y70M3J</guid>
+    </item>    <item>
+      <title>Export controls on TikTok&#39;s algorithm are unique but not unprecedented</title>
+      <link>https://www.marketplace.org/episode/2025/10/06/export-controls-on-tiktoks-algorithm-are-unique-but-not-unprecedented</link>
+      <description>
+        <![CDATA[<p>Algorithms, which are just sets of instructions expressed in code, are harder to restrict than physical goods. But, as Marketplace’s Meghan McCarty Carino reports, governments — including the U.S. — have long tried to prevent their export.</p>]]>
+      </description>
+      <source:markdown>Algorithms, which are just sets of instructions expressed in code, are harder to restrict than physical goods. But, as Marketplace’s Meghan McCarty Carino reports, governments — including the U.S. — have long tried to prevent their export.</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/10/06/tech_20251006_1006_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K6K06ETN457ACVVPKYNDVTW6" length="4592136" type="audio/mpeg" />
+      <guid>cid://01K6K06ETN457ACVVPKYNDVTW6</guid>
+    </item>    <item>
       <title>Is craft beer&#39;s popularity going flat?</title>
       <link>https://www.marketplace.org/episode/2025/10/03/is-craft-beers-popularity-going-flat</link>
       <description>
@@ -1187,13 +1214,6 @@ _Marketplace is more than a radio show. Check out our original reporting and fin
       <source:markdown>Borders may be invisible to most shoppers, but for businesses, they often mean delays, extra costs, and reams of paperwork. And amid Trump’s trade war, global trade is now faster and more complex than ever. Those new pressures have sparked a boom in new &#34;customs tech&#34; companies promising to speed things up. The BBC’s Leanna Byrne reports.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/15/tech_20250915_0915_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K4DGMB092S6AWSDG65H8T6SG" length="5041026" type="audio/mpeg" />
       <guid>cid://01K4DGMB092S6AWSDG65H8T6SG</guid>
-    </item>    <item>
-      <title>The Federal Reserve is expected to cut interest rates. What would this mean for you?</title>
-      <link>https://www.npr.org/2025/09/14/nx-s1-5537000/the-federal-reserve-is-expected-to-cut-interest-rates-what-would-this-mean-for-you</link>
-      <description>
-        <![CDATA[NPR's Ayesha Rascoe talks to University of Michigan economist Justin Wolfers about the Federal Reserve meeting this week and what the expected interest rate cut could mean for the economy.]]>
-      </description>
-      <guid>cid://https://www.npr.org/2025/09/14/nx-s1-5537000/the-federal-reserve-is-expected-to-cut-interest-rates-what-would-this-mean-for-you</guid>
     </item>
   </channel>
 </rss>
