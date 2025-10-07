@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>http://localhost:8000/columnsxml</link>
-    <lastBuildDate>07 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>07 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,93 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Retraction</title>
+      <link>https://simonwillison.net/2025/Oct/7/gemini-25-computer-use-captchas/#atom-everything</link>
+      <description>
+        <![CDATA[<p>I retracted this article after confirming that, while Gemini 2.5 Computer Use did <em>try</em> to solve Google's own CAPTCHA, it was actually Browserbase that successfully performed the solve. I'll update this with more details shortly.</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/gemini">gemini</a></p>]]>
+      </description>
+      <source:markdown>I retracted this article after confirming that, while Gemini 2.5 Computer Use did _try_ to solve Google&#39;s own CAPTCHA, it was actually Browserbase that successfully performed the solve. I&#39;ll update this with more details shortly.
+
+Tags: [gemini](https://simonwillison.net/tags/gemini)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/7/gemini-25-computer-use-captchas/#atom-everything</guid>
+    </item>    <item>
+      <title>The trailer for Downey Wrote That, a documentary about long-time SNL writer...</title>
+      <link>https://kottke.org/25/10/0047677-the-trailer-for-downey-wr</link>
+      <guid>cid://tag:kottke.org,2025://13.47677</guid>
+    </item>    <item>
+      <title>October 6, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-6-2025-b2a</link>
+      <enclosure url="https://api.substack.com/feed/podcast/175568917/5aa80cef3f9c360dfdd69da35b97f344.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-6-2025-b2a</guid>
+    </item>    <item>
+      <title>The first new edition of Merriam-Webster’s Collegiate Dictionary in 22 years contains...</title>
+      <link>https://kottke.org/25/10/0047669-the-first-new-edition-of</link>
+      <guid>cid://tag:kottke.org,2025://13.47669</guid>
+    </item>    <item>
+      <title>The Onion made a movie about Jeffrey Epstein and they&#38;#8217;re airing it...</title>
+      <link>https://kottke.org/25/10/0047676-the-onion-made-a-movie</link>
+      <guid>cid://tag:kottke.org,2025://13.47676</guid>
+    </item>    <item>
+      <link>https://www.theguardian.com/us-news/live/2025/oct/07/donald-trump-national-guard-pam-bondi-mark-carney-government-shutdown-us-politics-live-news-updates</link>
+      <description>
+        <![CDATA[<p>Furloughed government workers may not be entitled to back pay, reports say, as Trump claims some jobs ‘will never come back.’ Hmm. I can't imagine the unpaid workers feel too good about this.</p>]]>
+      </description>
+      <source:markdown>Furloughed government workers may not be entitled to back pay, reports say, as Trump claims some jobs ‘will never come back.’ Hmm. I can&#39;t imagine the unpaid workers feel too good about this.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/07/1417/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/07.html#a193847</link>
+      <description>
+        <![CDATA[Thanks to <a href="https://bsky.app/profile/tanyaweiman.bsky.social/post/3m2mt5qvccs2b">Tanya Weiman</a> for observing that this blog started <a href="http://scripting.com/davenet/1994/10/07/marccantersingsagain.html">31 years ago</a>. Probably the longest-running blog on the internets. Still making trouble. And as they say, still diggin.  You can always tell how long it's been by <a href="https://imgs.scripting.com/2025/10/07/bottomOfPage.png">looking</a> at the bottom of <a href="http://scripting.com/2025/08/28/140604.html">any archive page</a>, where it's constantly calculating, down to the second, how long this blog has been running.]]>
+      </description>
+      <source:markdown>Thanks to [Tanya Weiman](https://bsky.app/profile/tanyaweiman.bsky.social/post/3m2mt5qvccs2b) for observing that this blog started [31 years ago](http://scripting.com/davenet/1994/10/07/marccantersingsagain.html). Probably the longest-running blog on the internets. Still making trouble. And as they say, still diggin. You can always tell how long it&#39;s been by [looking](https://imgs.scripting.com/2025/10/07/bottomOfPage.png) at the bottom of [any archive page](http://scripting.com/2025/08/28/140604.html), where it&#39;s constantly calculating, down to the second, how long this blog has been running.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/07.html#a193847</guid>
+    </item>    <item>
+      <title>Bob Ross paintings to be auctioned to support public TV stations after...</title>
+      <link>https://kottke.org/25/10/0047675-bob-ross-paintings-to-be</link>
+      <guid>cid://tag:kottke.org,2025://13.47675</guid>
+    </item>    <item>
+      <title>Note published on October 7, 2025 at 7:08 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202510071506</link>
+      <guid>cid://68e56530c07d15a03fd1b5cd</guid>
+    </item>    <item>
+      <title>ToothFairy 2.8.8</title>
+      <link>https://mjtsai.com/blog/2025/10/07/toothfairy-2-8-8/</link>
+      <description>
+        <![CDATA[ToothFairy 2.8.8 is a maintenance update of my Bluetooth menu bar utility. As annoying as Bluetooth is as a user, it&#8217;s even more so as developer. Seemingly straightforward APIs don&#8217;t work as advertised. I don&#8217;t just mean that they can fail with an error. They can fail but say that they succeeded. They can succeed [&#8230;]]]>
+      </description>
+      <source:markdown>ToothFairy 2.8.8 is a maintenance update of my Bluetooth menu bar utility. As annoying as Bluetooth is as a user, it’s even more so as developer. Seemingly straightforward APIs don’t work as advertised. I don’t just mean that they can fail with an error. They can fail but say that they succeeded. They can succeed \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49557</guid>
+    </item>    <item>
+      <title>iOS 26.1 Alarm Buttons: Slide to Stop</title>
+      <link>https://mjtsai.com/blog/2025/10/07/ios-26-1-alarm-buttons-slide-to-stop/</link>
+      <description>
+        <![CDATA[Juli Clover: With the second beta of iOS 26.1, Apple updated the design of alarms set on the iPhone, making them harder to dismiss than before. Stopping an alarm in iOS 26.1 beta 2 requires a new Slide to Stop gesture rather than a simple tap. You can continue to tap to snooze an alarm, [&#8230;]]]>
+      </description>
+      <source:markdown>Juli Clover: With the second beta of iOS 26.1, Apple updated the design of alarms set on the iPhone, making them harder to dismiss than before. Stopping an alarm in iOS 26.1 beta 2 requires a new Slide to Stop gesture rather than a simple tap. You can continue to tap to snooze an alarm, \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49555</guid>
+    </item>    <item>
+      <title>Testing CarPlay Ultra</title>
+      <link>https://mjtsai.com/blog/2025/10/07/testing-carplay-ultra/</link>
+      <description>
+        <![CDATA[Michael Teo Van Runkle: Connecting to Ultra via Bluetooth takes a minute or two longer than traditional CarPlay and includes more consent screens to cover the additional legal ramifications of the operating system sharing data with the car, and vice versa. [&#8230;] Once initiated, though, Ultra fired up straightaway every time. Much faster than the [&#8230;]]]>
+      </description>
+      <source:markdown>Michael Teo Van Runkle: Connecting to Ultra via Bluetooth takes a minute or two longer than traditional CarPlay and includes more consent screens to cover the additional legal ramifications of the operating system sharing data with the car, and vice versa. \[…\] Once initiated, though, Ultra fired up straightaway every time. Much faster than the \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49553</guid>
+    </item>    <item>
+      <title>CarPlay in iOS 26</title>
+      <link>https://mjtsai.com/blog/2025/10/07/carplay-in-ios-26/</link>
+      <description>
+        <![CDATA[Jonathan Reed: Apple brings much more customization to our in-car displays, mainly by letting the much heralded features of CarPlay Ultra trickle down to regular CarPlay. [&#8230;] CarPlay has taken on the visual qualities of Liquid Glass. Since CarPlay is essentially a mirror for your iPhone, this is to be expected, but it&#8217;s been done [&#8230;]]]>
+      </description>
+      <source:markdown>Jonathan Reed: Apple brings much more customization to our in-car displays, mainly by letting the much heralded features of CarPlay Ultra trickle down to regular CarPlay. \[…\] CarPlay has taken on the visual qualities of Liquid Glass. Since CarPlay is essentially a mirror for your iPhone, this is to be expected, but it’s been done \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49551</guid>
+    </item>    <item>
+      <title>Committing to the Bit</title>
+      <link>https://kottke.org/25/10/committing-to-the-bit</link>
+      <guid>cid://tag:kottke.org,2025://5.47674</guid>
     </item>    <item>
       <title>Social Share Imagery via a Data Attribute</title>
       <link>https://blog.jim-nielsen.com/2025/og-images-via-data-attributes/</link>
@@ -163,6 +250,21 @@ Reply via:
 [Bluesky](https://bsky.app/profile/jim-nielsen.com)</source:markdown>
       <guid>cid://https://blog.jim-nielsen.com/2025/og-images-via-data-attributes/</guid>
     </item>    <item>
+      <link>https://en.wikipedia.org/wiki/Pistachio</link>
+      <description>
+        <![CDATA[<p>Have I ever told you how delicious pistachios are?</p>]]>
+      </description>
+      <source:markdown>Have I ever told you how delicious pistachios are?</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/07/1415/</guid>
+    </item>    <item>
+      <title>What’s New or Changed in iOS 26.1 Beta 2</title>
+      <link>https://9to5mac.com/2025/10/06/everything-new-in-ios-26-1-beta-2/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42248</guid>
+    </item>    <item>
+      <title>Everything Is Becoming a Bank. &#38;#8220;Most major corporations — from airlines to...</title>
+      <link>https://kottke.org/25/10/0047665-everything-is-becoming-a-</link>
+      <guid>cid://tag:kottke.org,2025://13.47665</guid>
+    </item>    <item>
       <title>What is Windows ML</title>
       <link>https://learn.microsoft.com/en-us/windows/ai/new-windows-ml/overview</link>
       <description>
@@ -230,10 +332,14 @@ Reply via:
     </item>    <item>
       <link>http://scripting.com/2025/10/07.html#a164125</link>
       <description>
-        <![CDATA[Why we <i>all</i> should love RSS. It makes the web higher level without taking anything away.]]>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2024/08/17/dewey.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Why we <i>all</i> should love RSS. It makes the web higher level without taking anything away.]]>
       </description>
-      <source:markdown>Why we _all_ should love RSS. It makes the web higher level without taking anything away.</source:markdown>
+      <source:markdown>![](https://imgs.scripting.com/2024/08/17/dewey.png)Why we _all_ should love RSS. It makes the web higher level without taking anything away.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/07.html#a164125</guid>
+    </item>    <item>
+      <title>AltStore State of the Union</title>
+      <link>https://rileytestut.com/blog/2025/10/07/evolving-altstore-pal/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42247</guid>
     </item>    <item>
       <title>Sustainable solutions with Raspberry Pi: Local, zero-waste manufacturing and precious metal recovery</title>
       <link>https://www.raspberrypi.com/news/sustainable-solutions-with-raspberry-pi-local-zero-waste-manufacturing-and-precious-metal-recovery/</link>
@@ -251,26 +357,29 @@ The post [Sustainable solutions with Raspberry Pi: Local, zero-waste manufacturi
       <description>
         <![CDATA[<p>Fascinating <a href="https://www.shellen.com/2025/10/07/layover-over/">blog post</a> from Jason Shellen, tech entrepreneur, formerly with Blogger and Google. Here’s my perspective on part of the story he tells about RSS and Google Reader.</p>
         <p>Netscape gave us RSS 0.91 and it was good enough to create a new powerful layer on the web. Then Netscape blew up and a bunch of repeated efforts to kill it from big companies. I’ll leave it to others to say why, but they tried over and over to extinguish the spark. Independent developers were stubborn, we kept using the original format, and in the end the independents prevailed. </p>
-        <p>Don’t ever think bigco’s are the answer. They tend to suck the life out of open systems. If you have something good going, work together. It’s the antidote to bigco dominance. </p>
-        <p>If you suck up to the bigco thinking they’ll let you in, maybe they will for a short while. But what you’ll be left with may not be worth the cost. And just because you have a job at a bigco doesn’t make you hot shit. Maybe for a moment. </p>
+        <p>Don’t ever think bigco’s are the answer. They almost always suck the life out of open systems. If you have something good going: <b>work together</b>. It’s the antidote to bigco dominance. </p>
+        <p>If you suck up to the bigco thinking they’ll let you in, maybe they will for a short while. But what you’ll be left with may not be worth the cost. </p>
+        <p>And just because you have a job at a bigco doesn’t make you hot shit. Maybe for a moment. </p>
         <p>This theory has a name, it’s described in the <a href="https://en.m.wikipedia.org/wiki/Prisoner%27s_dilemma">Prisoner’s Dilemma</a>, and its lesson applies in tech and in the political disaster the US has become.</p>]]>
       </description>
       <source:markdown>Fascinating [blog post](https://www.shellen.com/2025/10/07/layover-over/) from Jason Shellen, tech entrepreneur, formerly with Blogger and Google. Here’s my perspective on part of the story he tells about RSS and Google Reader.
 
 Netscape gave us RSS 0.91 and it was good enough to create a new powerful layer on the web. Then Netscape blew up and a bunch of repeated efforts to kill it from big companies. I’ll leave it to others to say why, but they tried over and over to extinguish the spark. Independent developers were stubborn, we kept using the original format, and in the end the independents prevailed.
 
-Don’t ever think bigco’s are the answer. They tend to suck the life out of open systems. If you have something good going, work together. It’s the antidote to bigco dominance.
+Don’t ever think bigco’s are the answer. They almost always suck the life out of open systems. If you have something good going: **work together**. It’s the antidote to bigco dominance.
 
-If you suck up to the bigco thinking they’ll let you in, maybe they will for a short while. But what you’ll be left with may not be worth the cost. And just because you have a job at a bigco doesn’t make you hot shit. Maybe for a moment.
+If you suck up to the bigco thinking they’ll let you in, maybe they will for a short while. But what you’ll be left with may not be worth the cost.
+
+And just because you have a job at a bigco doesn’t make you hot shit. Maybe for a moment.
 
 This theory has a name, it’s described in the [Prisoner’s Dilemma](https://en.m.wikipedia.org/wiki/Prisoner%27s_dilemma), and its lesson applies in tech and in the political disaster the US has become.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/07/160950.html</guid>
     </item>    <item>
       <link>http://scripting.com/2025/10/07.html#a160646</link>
       <description>
-        <![CDATA[Try as hard as I can I still have distinct flows and more than one place where I edit. I think that's a consequence of working on WordLand. I have to use it for serious writing, or it doesn't work. Maybe I can find a way to merge flows, but not at the moment. I still have to do some copy/pasting.]]>
+        <![CDATA[Try as hard as I can I still have distinct flows and more than one place where I edit. I think that's a consequence of working on WordLand. I have to use it for serious writing, otherwise how would I know if it works. Maybe I can find a way to merge flows, but not at the moment. I still have to do some copy/pasting.]]>
       </description>
-      <source:markdown>Try as hard as I can I still have distinct flows and more than one place where I edit. I think that&#39;s a consequence of working on WordLand. I have to use it for serious writing, or it doesn&#39;t work. Maybe I can find a way to merge flows, but not at the moment. I still have to do some copy/pasting.</source:markdown>
+      <source:markdown>Try as hard as I can I still have distinct flows and more than one place where I edit. I think that&#39;s a consequence of working on WordLand. I have to use it for serious writing, otherwise how would I know if it works. Maybe I can find a way to merge flows, but not at the moment. I still have to do some copy/pasting.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/07.html#a160646</guid>
     </item>    <item>
       <title>Quoting Thomas Klausner</title>
@@ -559,6 +668,14 @@ Jeff GeerlingOctober 7, 2025</source:markdown>
 
 [https://mastodon.social/@stroughtonsmith/115332664208549324](https://mastodon.social/@stroughtonsmith/115332664208549324)</source:markdown>
       <guid>cid://https://mastodon.social/@Migueldeicaza/115332807852124823</guid>
+    </item>    <item>
+      <title>Wiley Hodges’s Open Letter to Tim Cook Regarding ICEBlock</title>
+      <link>https://substack.com/inbox/post/175351960</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42246</guid>
+    </item>    <item>
+      <title>[Sponsor] Drata</title>
+      <link>http://drata.com/daring/?utm_source=Daring_Fireball&#38;utm_medium=display&#38;utm_campaign=18991230_fy26_comm_DG_COMM_&#38;utm_content=demo_request</link>
+      <guid>cid://tag:daringfireball.net,2025:/feeds/sponsors//11.42245</guid>
     </item>    <item>
       <title>Radar Trends to Watch: October 2025</title>
       <link>https://www.oreilly.com/radar/radar-trends-to-watch-october-2025/</link>
@@ -12512,10 +12629,6 @@ For a very, very small sliver of hope, by individuals acting where state parties
       </description>
       <source:markdown>Why [textcasting](https://textcasting.org/)? When Twitter came out in 2006 they left out most of the writing features of the web. Their competitors copied the limits. Textcasting says writers don&#39;t want the limits. Add [these features](https://textcasting.org/) to your twitter-like social network and we are happy and will sing your praise. That&#39;s it. It&#39;s no more complicated than that. People ask questions about what it means. This is what it means.</source:markdown>
       <guid>cid://http://scripting.com/2025/09/23.html#a140014</guid>
-    </item>    <item>
-      <title>[Sponsor] Drata</title>
-      <link>http://drata.com/daring/?utm_source=Daring_Fireball&#38;utm_medium=display&#38;utm_campaign=18991230_fy26_comm_DG_COMM_&#38;utm_content=demo_request</link>
-      <guid>cid://tag:daringfireball.net,2025:/feeds/sponsors//11.42218</guid>
     </item>    <item>
       <link>http://scripting.com/2025/09/23.html#a133652</link>
       <description>

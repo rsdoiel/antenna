@@ -4,10 +4,19 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>http://localhost:8000/librariesxml</link>
-    <lastBuildDate>07 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>07 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Now It Can Be Told, by Philip Gibbs</title>
+      <link>https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told</link>
+      <description>
+        <![CDATA[A British war correspondent recalls his experiences during the Great War.]]>
+      </description>
+      <source:markdown>A British war correspondent recalls his experiences during the Great War.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told/downloads/philip-gibbs_now-it-can-be-told.epub?source=feed" length="967268" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told</guid>
+    </item>    <item>
       <title>Magnolia Leaves, by Mary Weston Fordham</title>
       <link>https://standardebooks.org/ebooks/mary-weston-fordham/magnolia-leaves</link>
       <description>

@@ -4,10 +4,82 @@
   <channel>
     <title>Planet News</title>
     <link>http://localhost:8000/planetxml</link>
-    <lastBuildDate>07 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>07 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>German mayor found with stab wounds in apartment</title>
+      <link>https://www.rte.ie/news/world/2025/1007/1537354-german-mayor/</link>
+      <description>
+        <![CDATA[The newly-elected mayor of a town in western Germany has been found with life-threatening stab wounds in what Chancellor Friedrich Merz described as an "abhorrent act".]]>
+      </description>
+      <source:markdown>The newly-elected mayor of a town in western Germany has been found with life-threatening stab wounds in what Chancellor Friedrich Merz described as an &#34;abhorrent act&#34;.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2025/1007/1537354-german-mayor/</guid>
+    </item>    <item>
+      <title>Watch: Budget 2026 in 60 seconds</title>
+      <link>https://www.rte.ie/news/2025/1007/1537343-budget-60-seconds/</link>
+      <description>
+        <![CDATA[Government has announced a €9.4b package for Budget 2026.]]>
+      </description>
+      <source:markdown>Government has announced a €9.4b package for Budget 2026.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1007/1537343-budget-60-seconds/</guid>
+    </item>    <item>
+      <title>Who are Budget winners and what groups won&#39;t be happy</title>
+      <link>https://www.rte.ie/news/budget-2026/2025/1007/1537345-budget-2026-analysis/</link>
+      <description>
+        <![CDATA[The biggest Budget winners when it comes to tax cuts this year are developers, who have received significant tax breaks at the same time as little to no tax changes are taking place for ordinary workers.]]>
+      </description>
+      <source:markdown>The biggest Budget winners when it comes to tax cuts this year are developers, who have received significant tax breaks at the same time as little to no tax changes are taking place for ordinary workers.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/budget-2026/2025/1007/1537345-budget-2026-analysis/</guid>
+    </item>    <item>
+      <title>Infant boy dies after Co Dublin road incident</title>
+      <link>https://www.rte.ie/news/ireland/2025/1007/1537342-fatal-rta-dublin/</link>
+      <description>
+        <![CDATA[An infant boy has died following a road traffic incident outside a house in Co Dublin this afternoon.]]>
+      </description>
+      <source:markdown>An infant boy has died following a road traffic incident outside a house in Co Dublin this afternoon.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/1007/1537342-fatal-rta-dublin/</guid>
+    </item>    <item>
+      <title>How will Budget 2026 impact your finances?</title>
+      <link>https://www.rte.ie/news/primetime/2025/1007/1537339-how-will-budget-2026-impact-your-finances/</link>
+      <description>
+        <![CDATA[Experts from KPMG were watching today's budget announcements closely and adding details to a spreadsheet of six representative profiles, to put Government claims to the test.]]>
+      </description>
+      <source:markdown>Experts from KPMG were watching today&#39;s budget announcements closely and adding details to a spreadsheet of six representative profiles, to put Government claims to the test.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/primetime/2025/1007/1537339-how-will-budget-2026-impact-your-finances/</guid>
+    </item>    <item>
+      <title>Watch: Budget 2026 - your questions answered</title>
+      <link>https://www.rte.ie/news/2025/1007/1537340-budget-questions-answered/</link>
+      <description>
+        <![CDATA[From rent relief to minimum wage - young people across Ireland had plenty to ask about Budget 2026. We asked for your questions on social media.]]>
+      </description>
+      <source:markdown>From rent relief to minimum wage - young people across Ireland had plenty to ask about Budget 2026. We asked for your questions on social media.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1007/1537340-budget-questions-answered/</guid>
+    </item>    <item>
+      <title>Paddy Jackson&#39;s dad &#39;crushed&#39; by false compensation claim</title>
+      <link>https://www.rte.ie/news/courts/2025/1007/1537332-peter-jackson/</link>
+      <description>
+        <![CDATA[The father of Paddy Jackson has been left "crushed" by an Irish reality TV personality falsely claiming he tried to pay off the complainant at the rugby star's rape trial, the High Court heard today.]]>
+      </description>
+      <source:markdown>The father of Paddy Jackson has been left &#34;crushed&#34; by an Irish reality TV personality falsely claiming he tried to pay off the complainant at the rugby star&#39;s rape trial, the High Court heard today.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/courts/2025/1007/1537332-peter-jackson/</guid>
+    </item>    <item>
+      <title>Watch: Students react to third-level fee decrease</title>
+      <link>https://www.rte.ie/news/2025/1007/1537330-student-fees-budget-2026/</link>
+      <description>
+        <![CDATA[A permanent €500 reduction in third-level student contribution fees has been announced as part of Budget 2026.]]>
+      </description>
+      <source:markdown>A permanent €500 reduction in third-level student contribution fees has been announced as part of Budget 2026.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1007/1537330-student-fees-budget-2026/</guid>
+    </item>    <item>
+      <title>Budget a setback for disabled people, says Federation</title>
+      <link>https://www.rte.ie/news/budget-2026/2025/1007/1537320-disability-budget-2026/</link>
+      <description>
+        <![CDATA[The Disability Federation of Ireland has said that while it welcomes the €619m increase in funding for disability services, the Budget overall represents a devastating setback for disabled people unable to work.]]>
+      </description>
+      <source:markdown>The Disability Federation of Ireland has said that while it welcomes the €619m increase in funding for disability services, the Budget overall represents a devastating setback for disabled people unable to work.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/budget-2026/2025/1007/1537320-disability-budget-2026/</guid>
+    </item>    <item>
       <title>Astronomy &#38; Space Science Education &#38; Public Outreach Newsletter – October 2025, Part 1</title>
       <link>https://www.vaticanobservatory.org/sacred-space-astronomy/astronomy-space-science-education-public-outreach-newsletter-october-2025-part-1/</link>
       <description>
@@ -24,6 +96,16 @@
       <source:markdown>The measures in Budget 2026 are not going to change the amount of money in people&#39;s pockets, economist Kate English has told Behind the Story.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1007/1537316-podcast-whats-in-budget-2026-for-you/</guid>
     </item>    <item>
+      <title>Sturgeon Lake Cree Nation youth step up for wildland firefighting training</title>
+      <link>https://www.cbc.ca/news/indigenous/sturgeon-lake-cree-nation-youth-step-up-for-wildland-firefighting-training-1.7652818?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/1.7653320.1759870632!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/youth-wildland-firefighting-training.JPG' alt='Three youth hold a fire hose and spray it into the ground for practice.' width='620' height='349' title='The training from the National Indigenous Fire Safety Council is free to Indigenous youth ages 15 to 30. Oct. 2, 2025 Sturgeon Lake Cree nation'/><p>Youth in Sturgeon Lake Cree Nation put on protective gear and wrestled with fire hoses as part of a program to train hundreds of Indigenous youth to fight wildfires. </p>]]>
+      </description>
+      <source:markdown>![Three youth hold a fire hose and spray it into the ground for practice.](https://i.cbc.ca/1.7653320.1759870632!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/youth-wildland-firefighting-training.JPG)
+
+Youth in Sturgeon Lake Cree Nation put on protective gear and wrestled with fire hoses as part of a program to train hundreds of Indigenous youth to fight wildfires.</source:markdown>
+      <guid>cid://1.7652818</guid>
+    </item>    <item>
       <title>Seven men due to stand trial over multiple counts of rape</title>
       <link>https://www.rte.ie/news/courts/2025/1007/1537317-rape-trial/</link>
       <description>
@@ -39,6 +121,16 @@
       </description>
       <source:markdown>The Government predicts the domestic economy will grow by 3.3% this year and 2.3% in 2026.</source:markdown>
       <guid>cid://https://www.rte.ie/news/budget-2026/2025/1007/1537084-budget-2026-economy/</guid>
+    </item>    <item>
+      <title>Daughter of Robin Williams calls AI videos of late actor &#39;disgusting&#39; amid generative AI Wild West</title>
+      <link>https://www.cbc.ca/news/entertainment/gen-ai-zelda-robin-williams-1.7653514?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/1.7653538.1759867780!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/robin-zelda-williams.jpg' alt='A combination image of profile shots of a man and woman are shown.' width='620' height='349' title='Zelda Williams, right, has reacted to AI-generated videos of her late father, Robin. In an Instagram story, she called them &apos;disgusting&apos; and not what her father would have wanted.'/><p>Zelda Williams — actress, director and daughter to the late actor Robin Williams — has spoken out on Instagram about what she calls "disgusting" AI recreations of her father.</p>]]>
+      </description>
+      <source:markdown>![A combination image of profile shots of a man and woman are shown.](https://i.cbc.ca/1.7653538.1759867780!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/robin-zelda-williams.jpg)
+
+Zelda Williams — actress, director and daughter to the late actor Robin Williams — has spoken out on Instagram about what she calls &#34;disgusting&#34; AI recreations of her father.</source:markdown>
+      <guid>cid://1.7653514</guid>
     </item>    <item>
       <title>Pope to Croatian pilgrims: Be a leaven of peace in a war-torn world</title>
       <link>https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-xiv-croation-pilgrims-greeting-mass-st-peters.html</link>
@@ -116,6 +208,16 @@
 [Read all](https://www.vaticannews.va/en/world/news/2025-10/earthday-org-holy-see-climate-education-borgo-laudato-si.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/world/news/2025-10/earthday-org-holy-see-climate-education-borgo-laudato-si.html</guid>
     </item>    <item>
+      <title>&#39;I&#39;m betting my money on them&#39;: Why Joe Carter thinks the Blue Jays could win it all</title>
+      <link>https://www.cbc.ca/radio/sunday/joe-carter-blue-jays-1.7653412?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/1.7653436.1759859057!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/joe-carter.jpg' alt='A man on celebrates on the shoulders of teammates. ' width='620' height='349' title='23 Oct 1993:  First baseman Joe Carter of the Toronto Blue Jays celebrates after the World Series against the Philadelphia Phillies at the Toronto Sky Dome in Toronto, Canada. Mandatory Credit: Rick Stewart  /Allsport'/><p>Over 32 years after Joe Carter hit his historic homerun to win the 1993 World Series for the Toronto Blue Jays, the baseball legend believes the current roster has what it takes.</p>]]>
+      </description>
+      <source:markdown>![A man on celebrates on the shoulders of teammates. ](https://i.cbc.ca/1.7653436.1759859057!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/joe-carter.jpg)
+
+Over 32 years after Joe Carter hit his historic homerun to win the 1993 World Series for the Toronto Blue Jays, the baseball legend believes the current roster has what it takes.</source:markdown>
+      <guid>cid://1.7653412</guid>
+    </item>    <item>
       <title>Funding for TB eradication programme doubled in Budget</title>
       <link>https://www.rte.ie/news/budget-2026/2025/1007/1537069-budget-2026-agriculture/</link>
       <description>
@@ -132,7 +234,7 @@
       <source:markdown>I adore comets because they morph as they move through space. This makes them very interesting to me, visually and in their physical actions.</source:markdown>
       <guid>cid://https://www.vaticanobservatory.org/?p=220440</guid>
     </item>    <item>
-      <title>Prosecutors to appeal decision to drop Ó hAnnaidh case</title>
+      <title>Kneecap to &#39;fight again&#39; as prosecutors to appeal ruling</title>
       <link>https://www.rte.ie/news/uk/2025/1007/1537303-kneecap-appeal/</link>
       <description>
         <![CDATA[The Crown Prosecution Service in the UK is to appeal a recent decision to throw out the terror case against Kneecap band member Liam Óg Ó hAnnaidh.]]>
@@ -179,6 +281,16 @@
       </description>
       <source:markdown>Opposition parties have heavily criticised the Government&#39;s budget plans, saying they are designed to help developers instead of ordinary people, have done &#34;nothing&#34; for workers and ignore the biggest crises facing Irish society.</source:markdown>
       <guid>cid://https://www.rte.ie/news/politics/2025/1007/1537288-opposition-buget/</guid>
+    </item>    <item>
+      <title>Gold prices hit record high as anxious investors seek safe haven for money</title>
+      <link>https://www.cbc.ca/news/business/gold-prices-record-high-1.7653497?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/1.5190145.1742497088!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/off-the-charts-gold.jpg' alt='FILE - In this Tuesday, July 22, 2014, file photo, gold bars are stacked in a vault at the United States Mint, in West Point, N.Y. The price of gold has climbed recently as investors scramble for safety amid the widening global trade war. It’s up nearly 5% since May 21, 2019, as stock markets around the world fell, and last week was the best of the year for gold after President Donald Trump surprised markets by threatening to raise tariffs on Mexico. (AP Photo/Mike Groll, File)' width='620' height='349' title='Gold prices surged to an unprecedented $3,000 per ounce, reaching a historic milestone in the precious metals market. '/><p>Gold futures have soared above $4,000 US per troy ounce for the first time, as many investors seek a safe place to park their money as the U.S. government shutdown continues.</p>]]>
+      </description>
+      <source:markdown>![FILE - In this Tuesday, July 22, 2014, file photo, gold bars are stacked in a vault at the United States Mint, in West Point, N.Y. The price of gold has climbed recently as investors scramble for safety amid the widening global trade war. It’s up nearly 5% since May 21, 2019, as stock markets around the world fell, and last week was the best of the year for gold after President Donald Trump surprised markets by threatening to raise tariffs on Mexico. (AP Photo/Mike Groll, File)](https://i.cbc.ca/1.5190145.1742497088!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/off-the-charts-gold.jpg)
+
+Gold futures have soared above $4,000 US per troy ounce for the first time, as many investors seek a safe place to park their money as the U.S. government shutdown continues.</source:markdown>
+      <guid>cid://1.7653497</guid>
     </item>    <item>
       <title>Pensions, social welfare payments to rise by €10 weekly</title>
       <link>https://www.rte.ie/news/budget-2026/2025/1007/1537087-budget-2026-social-welfare/</link>
@@ -250,6 +362,16 @@ Thirty paintings by Ross, whose TV show The Joy of Painting aired on public TV s
       <source:markdown>The Government is reducing the VAT rate for food and catering businesses, and for hairdressing services from 13.5% down to 9%.</source:markdown>
       <guid>cid://https://www.rte.ie/news/budget-2026/2025/1007/1537276-budget-hospitality/</guid>
     </item>    <item>
+      <title>Renewables become biggest source of electricity globally for 1st time, beating coal</title>
+      <link>https://www.cbc.ca/news/science/solar-wind-renewables-coal-electricity-1.7653234?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/1.7653270.1759852762!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ye-clean-energy.jpg' alt='Workers install solar panels at the under-construction Adani Green Energy Limited&apos;s Renewable Energy Park in the salt desert of Karim Shahi village, near Khavda, Bhuj district near the India-Pakistan border in the western state of Gujarat, India, Thursday, Sept. 21, 2023. Led by new solar power, the world added renewable energy at breakneck speed in 2023, in an effort to turn away from fossil fuels to stave off severe Earth warming and its effects. (AP Photo/Rafiq Maqbool)' width='620' height='349' title='Workers install solar panels at the under-construction Adani Green Energy Limited&apos;s Renewable Energy Park in the salt desert of Karim Shahi village, near Khavda, Bhuj district near the India-Pakistan border in the western state of Gujarat, India, Thursday, Sept. 21, 2023. Led by new solar power, the world added renewable energy at breakneck speed in 2023, in an effort to turn away from fossil fuels to stave off severe Earth warming and its effects. (AP Photo/Rafiq Maqbool)'/><p>Worldwide solar and wind power generation has outpaced electricity demand this year, and for the first time on record, renewable energies combined generated more power than coal, according to a new analysis.</p>]]>
+      </description>
+      <source:markdown>![Workers install solar panels at the under-construction Adani Green Energy Limited&#39;s Renewable Energy Park in the salt desert of Karim Shahi village, near Khavda, Bhuj district near the India-Pakistan border in the western state of Gujarat, India, Thursday, Sept. 21, 2023. Led by new solar power, the world added renewable energy at breakneck speed in 2023, in an effort to turn away from fossil fuels to stave off severe Earth warming and its effects. (AP Photo/Rafiq Maqbool)](https://i.cbc.ca/1.7653270.1759852762!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ye-clean-energy.jpg)
+
+Worldwide solar and wind power generation has outpaced electricity demand this year, and for the first time on record, renewable energies combined generated more power than coal, according to a new analysis.</source:markdown>
+      <guid>cid://1.7653234</guid>
+    </item>    <item>
       <title>Man found guilty of stalking Myleene Klass</title>
       <link>https://www.rte.ie/entertainment/2025/1007/1537267-man-found-guilty-of-stalking-myleene-klass/</link>
       <description>
@@ -315,6 +437,15 @@ Thirty paintings by Ross, whose TV show The Joy of Painting aired on public TV s
       <source:markdown>As the Gaza-Israel war enters its third year, sparked by Hamas-led terror attacks on Israel, the UN is appealing for the release of all hostages, an immediate ceasefire and an aid surge to alleviate Palestinians’ suffering – all as talks on a US-driven peace plan continue in Egypt.</source:markdown>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/20-02-2025_UN-News_Gaza.jpg/image560x340cropped.jpg" length="45950" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/10/1166045</guid>
+    </item>    <item>
+      <title>Guterres urges countries to ‘seize this historic opportunity’ as renewable energy use grows</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166051</link>
+      <description>
+        <![CDATA[With clean energy on the rise, the UN Secretary-General renewed his longstanding call for countries to make the transition from fossil fuels that cause global warming.&nbsp;]]>
+      </description>
+      <source:markdown>With clean energy on the rise, the UN Secretary-General renewed his longstanding call for countries to make the transition from fossil fuels that cause global warming.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/08-11-2023-UNDP-Georgia.jpg/image560x340cropped.jpg" length="24150" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166051</guid>
     </item>    <item>
       <title>Watch Live: Special Budget 2026 Six One</title>
       <link>https://www.rte.ie/news/budget-2026/2025/1007/1537255-budget-speeches/</link>
@@ -385,9 +516,9 @@ LeBron James had another &#34;decision&#34; to announce. Turns out, it was an ad
       <title>Budget 2026: LOI academies receive €3m in funding</title>
       <link>https://www.rte.ie/sport/soccer/2025/1007/1537227-budget-2026-loi-academies-to-receive-3m-in-funding/</link>
       <description>
-        <![CDATA[The details of Budget 2026 will be revealed later, but RTÉ Sport understands that the funding will fall short of the €4.45m requested by the FAI in their pre-budget submission.]]>
+        <![CDATA[League of Ireland academies will receive €3m in funding from the government in a new measure announced in Budget 2026.]]>
       </description>
-      <source:markdown>The details of Budget 2026 will be revealed later, but RTÉ Sport understands that the funding will fall short of the €4.45m requested by the FAI in their pre-budget submission.</source:markdown>
+      <source:markdown>League of Ireland academies will receive €3m in funding from the government in a new measure announced in Budget 2026.</source:markdown>
       <guid>cid://https://www.rte.ie/sport/soccer/2025/1007/1537227-budget-2026-loi-academies-to-receive-3m-in-funding/</guid>
     </item>    <item>
       <title>Ghana : Accra to host West Africa Youth Day in 2026</title>
@@ -420,7 +551,7 @@ Indonesian rescuers wrapped up the search on Tuesday for victims trapped under t
       <source:markdown>The world may be reaching a &#34;crucial turning point&#34; in the shift towards clean power, a think tank said as its analysis showed renewable generation overtook coal globally for the first time on record.</source:markdown>
       <guid>cid://https://www.rte.ie/news/environment/2025/1007/1537222-renewables-coal/</guid>
     </item>    <item>
-      <title>Restaurants welcome VAT cut, concerns over childcare</title>
+      <title>Taoiseach defends Budget after Opposition criticism</title>
       <link>https://www.rte.ie/news/ireland/2025/1007/1537203-budget-2026-blog/</link>
       <description>
         <![CDATA[Follow live reaction following the announcement of the details of Budget 2026.]]>
@@ -428,12 +559,12 @@ Indonesian rescuers wrapped up the search on Tuesday for victims trapped under t
       <source:markdown>Follow live reaction following the announcement of the details of Budget 2026.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1007/1537203-budget-2026-blog/</guid>
     </item>    <item>
-      <title>Jim Gavin&#39;s name will stay on Presidential ballot paper</title>
+      <title>Martin to take &#39;full responsibility&#39; for FF campaign</title>
       <link>https://www.rte.ie/news/presidential-election/2025/1007/1537209-presidential-election/</link>
       <description>
-        <![CDATA[Jim Gavin's name will remain on the ballot paper for the Presidential Election, despite him withdrawing from the campaign at the weekend.]]>
+        <![CDATA[Taoiseach Micheál Martin has said that he will take "full responsibility" over what happened to Fianna Fáil's presidential campaign when his parliamentary party meets tomorrow night.]]>
       </description>
-      <source:markdown>Jim Gavin&#39;s name will remain on the ballot paper for the Presidential Election, despite him withdrawing from the campaign at the weekend.</source:markdown>
+      <source:markdown>Taoiseach Micheál Martin has said that he will take &#34;full responsibility&#34; over what happened to Fianna Fáil&#39;s presidential campaign when his parliamentary party meets tomorrow night.</source:markdown>
       <guid>cid://https://www.rte.ie/news/presidential-election/2025/1007/1537209-presidential-election/</guid>
     </item>    <item>
       <title>Brendan Ogle loses discrimination appeal</title>
@@ -486,20 +617,20 @@ Shipments of frozen shrimp from India to the U.S. have ground to a halt after Am
       <source:markdown>The deadline to register to vote in the Presidential Election is today.</source:markdown>
       <guid>cid://https://www.rte.ie/news/presidential-election/2025/1007/1537150-presidential-election-register/</guid>
     </item>    <item>
-      <title>5 more Irish activists return after Israeli detention</title>
+      <title>Most Irish activists return after Israeli detention</title>
       <link>https://www.rte.ie/news/middle-east/2025/1007/1537191-irish-gaza-flotilla/</link>
       <description>
-        <![CDATA[Three of 15 Irish citizens held by Israel after it intercepted the Global Sumud Flotilla, who returned home last night, say they were badly treated during their detention.]]>
+        <![CDATA[Most of the Irish citizens who were held by Israel after it intercepted the Global Sumud Flotilla have now arrived home.]]>
       </description>
-      <source:markdown>Three of 15 Irish citizens held by Israel after it intercepted the Global Sumud Flotilla, who returned home last night, say they were badly treated during their detention.</source:markdown>
+      <source:markdown>Most of the Irish citizens who were held by Israel after it intercepted the Global Sumud Flotilla have now arrived home.</source:markdown>
       <guid>cid://https://www.rte.ie/news/middle-east/2025/1007/1537191-irish-gaza-flotilla/</guid>
     </item>    <item>
-      <title>Govt increases spending and reduces planned tax measures</title>
+      <title>Minimum wage up, housing boost, no tax cuts for workers</title>
       <link>https://www.rte.ie/news/budget-2026/2025/1007/1537181-budget-2026-donohoe/</link>
       <description>
-        <![CDATA[The Irish Government has pledged to "secure jobs and stability at a time of global challenge" as part of its annual Budget announcement.]]>
+        <![CDATA[The Government has pledged to "secure jobs and stability at a time of global challenge" as part of its annual Budget announcement.]]>
       </description>
-      <source:markdown>The Irish Government has pledged to &#34;secure jobs and stability at a time of global challenge&#34; as part of its annual Budget announcement.</source:markdown>
+      <source:markdown>The Government has pledged to &#34;secure jobs and stability at a time of global challenge&#34; as part of its annual Budget announcement.</source:markdown>
       <guid>cid://https://www.rte.ie/news/budget-2026/2025/1007/1537181-budget-2026-donohoe/</guid>
     </item>    <item>
       <title>Sudan&#39;s civil war has faded from headlines, but monitors say it&#39;s the largest humanitarian crisis in the world</title>
@@ -511,6 +642,16 @@ Shipments of frozen shrimp from India to the U.S. have ground to a halt after Am
 
 The UN says more than 12 million Sudanese have been displaced since its civil war began in spring 2023, making it the largest humanitarian crisis in the world. Aid agencies, including Medecins Sans Frontieres, warn the situation could become even more dire if the paramilitary Rapid Support Forces overruns the besieged city of El Fasher in North Darfur.</source:markdown>
       <guid>cid://1.7652683</guid>
+    </item>    <item>
+      <title>Yellowknife&#39;s Somba K&#39;e park likely location for residential school monument, gov&#39;t confirms</title>
+      <link>https://www.cbc.ca/news/canada/north/monument-residential-school-survivors-yellowknife-1.7652603?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/1.7652607.1759782045!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/doreen-cleary-and-paul-andrew.JPG' alt='man with a cap on the left, woman with glasses on the right, stand next to a traffic intersection ' width='620' height='349' title='Paul Andrew (left) and Doreen Cleary (right) have been long been pushing for a monument in the N.W.T. to honour residential school survivors and victims.'/><p>The Truth and Reconciliation Commission’s Call to Action 82 urges governments across Canada to install a residential school monument in every capital city. Plans are underway to build a memorial in Yellowknife by June 2027.</p>]]>
+      </description>
+      <source:markdown>![man with a cap on the left, woman with glasses on the right, stand next to a traffic intersection ](https://i.cbc.ca/1.7652607.1759782045!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/doreen-cleary-and-paul-andrew.JPG)
+
+The Truth and Reconciliation Commission’s Call to Action 82 urges governments across Canada to install a residential school monument in every capital city. Plans are underway to build a memorial in Yellowknife by June 2027.</source:markdown>
+      <guid>cid://1.7652603</guid>
     </item>    <item>
       <title>Talks taking place over removal of Gavin from ballot</title>
       <link>https://www.rte.ie/news/presidential-election/2025/1006/1537171-ballot-paper-talks/</link>
@@ -1097,6 +1238,16 @@ Tens of thousands gathered in Mexico City for a rally celebrating Mexican Presid
       </description>
       <source:markdown>Two activists have alleged that Swedish campaigner Greta Thunberg was mistreated during her detention in Turkey, after being detained by Israel for taking part in a flotilla seeking to deliver aid to Gaza.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1005/1536961-greta-thunberg-flotilla/</guid>
+    </item>    <item>
+      <title>Helping Indigenous communities digitize old recordings to preserve culture</title>
+      <link>https://www.cbc.ca/player/play/9.6928020?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/ab2d374e-4cf4-4f0e-bc42-62f1fe2990a0,1759706110989/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='An Indigenous woman puts on headphones at an Edmonton workshop to digitize old tapes.' width='620' height='349' title='An Indigenous woman puts on headphones at an Edmonton workshop'/><p> A project that began in British Columbia is helping Indigenous communities preserve their stories — by converting old cassette tapes into digital archives for future generations.</p>]]>
+      </description>
+      <source:markdown>![An Indigenous woman puts on headphones at an Edmonton workshop to digitize old tapes.](https://i.cbc.ca/ais/ab2d374e-4cf4-4f0e-bc42-62f1fe2990a0,1759706110989/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29)
+
+A project that began in British Columbia is helping Indigenous communities preserve their stories — by converting old cassette tapes into digital archives for future generations.</source:markdown>
+      <guid>cid://9.6928020</guid>
     </item>    <item>
       <title>Budget to include VAT cut for new build apartments</title>
       <link>https://www.rte.ie/news/2025/1005/1536955-budget-new-apartments/</link>
@@ -7127,6 +7278,14 @@ An orange Every Child Matters crosswalk design is now at the intersection of Dol
         <![CDATA[A doctor who had been working in Gaza until his evacuation to Ireland last week has said there is nothing left there.]]>
       </description>
       <guid>cid://https://www.rte.ie/news/ireland/2025/0925/1535246-gaza-doctor/</guid>
+    </item>    <item>
+      <title>In Game 3, Blue Jays have a chance to sweep Yankees, clinch American League Division Series</title>
+      <link>https://www.cbc.ca/news/canada/jays-yankees-game-3-alds-2025-1.7652517?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/b1c660f0-19be-40ae-ab48-909ef6f4cb1c,1759800697558/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3712%2C2088%29%3BResize%3D%28620%29' alt='A man wearing a blue and white uniform throws a baseball.' width='620' height='349' title='BBO-ALDS-Yankees-Jays 20251005'/><p></p>]]>
+      </description>
+      <source:markdown>![A man wearing a blue and white uniform throws a baseball.](https://i.cbc.ca/ais/b1c660f0-19be-40ae-ab48-909ef6f4cb1c,1759800697558/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3712%2C2088%29%3BResize%3D%28620%29)</source:markdown>
+      <guid>cid://1.7643183</guid>
     </item>    <item>
       <title>China makes pledge to cut emissions for the first time</title>
       <link>https://www.rte.ie/news/world/2025/0925/1535249-china-climate-change/</link>
