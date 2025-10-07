@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>07 Oct 25 15:09 -0700</dateCreated>
+        <dateCreated>07 Oct 25 16:28 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is a new independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -162,6 +162,7 @@
         <outline text="Marco Arment blog" type="rss" xmlUrl="https://marco.org/rss" htmlUrl="https://marco.org/" description="I’m Marco Arment, creator of Overcast, technology podcaster and writer, and coffee enthusiast."></outline>
         <outline text="Margaret Atwood&#39;s substack" type="rss" xmlUrl="https://margaretatwood.substack.com/feed" htmlUrl="https://margaretatwood.substack.com,https://margaretatwood.substack.com/feed" description="Whatever comes into my addled, shrinking brain. " url="https://margaretatwood.substack.com/feed"></outline>
         <outline text="Marginallia log" type="rss" xmlUrl="https://www.marginalia.nu/log/index.xml" htmlUrl="https://www.marginalia.nu/log/,https://www.marginalia.nu/log/index.xml" description="Recent content in Weblog on marginalia.nu" url="https://www.marginalia.nu/log/index.xml"></outline>
+        <outline text="Massively Parallel Procrastination" type="atom" xmlUrl="https://blog.fsck.com/feed/feed.xml" htmlUrl="https://blog.fsck.com/feed/feed.xml,https://blog.fsck.com/" description="I used to write more" url="https://blog.fsck.com/feed/feed.xml"></outline>
         <outline text="Matt Haughey blog" type="rss" xmlUrl="https://a.wholelottanothing.org/rss/" htmlUrl="https://a.wholelottanothing.org/,https://a.wholelottanothing.org/rss/" description="Matthew Haughey&#39;s personal blog" url="https://a.wholelottanothing.org/rss/"></outline>
         <outline text="Matt Jibson Mastodon Feed" type="rss" xmlUrl="https://hachyderm.io/@mjibson.rss" htmlUrl="https://hachyderm.io/@mjibson" description="Public posts from @mjibson@hachyderm.io"></outline>
         <outline text="Matt Might blog" type="rss" xmlUrl="https://matt.might.net/articles/feed.rss" htmlUrl="http://matt.might.net/" description="Matt Might&#39;s blog"></outline>

@@ -4,10 +4,30 @@
   <channel>
     <title>Science and Technology</title>
     <link>http://localhost:8000/science_and_technologyxml</link>
-    <lastBuildDate>07 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>07 Oct 25 16:28 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Teens arrested in London preschool ransomware attack</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/07/2_teens_arrested_in_london/</link>
+      <description>
+        <![CDATA[<h4>Both men, 17, taken into custody</h4> <p>London cops on Tuesday arrested two teenagers on suspicion of computer misuse and blackmail following a ransomware attack on a chain of London preschools.…</p>]]>
+      </description>
+      <source:markdown>#### Both men, 17, taken into custody
+
+London cops on Tuesday arrested two teenagers on suspicion of computer misuse and blackmail following a ransomware attack on a chain of London preschools.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242360</guid>
+    </item>    <item>
+      <title>Google declares AI bug hunting season open, sets a $30K max reward</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/07/google_ai_bug_bounty/</link>
+      <description>
+        <![CDATA[<h4>Jailbreaks, direct prompt injection not allowed</h4> <p>Google on Monday rolled out a new AI Vulnerability Reward Program to encourage researchers to find and report flaws in its AI systems, with rewards of up to $30,000 for a single qualifying report.…</p>]]>
+      </description>
+      <source:markdown>#### Jailbreaks, direct prompt injection not allowed
+
+Google on Monday rolled out a new AI Vulnerability Reward Program to encourage researchers to find and report flaws in its AI systems, with rewards of up to $30,000 for a single qualifying report.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242359</guid>
+    </item>    <item>
       <title>A Massive Art Installation by the ‘Humans of New York’ Creator Has Taken Over Grand Central Terminal</title>
       <link>https://www.smithsonianmag.com/smart-news/a-massive-art-installation-by-the-humans-of-new-york-creator-has-taken-over-grand-central-terminal-180987473/</link>
       <description>

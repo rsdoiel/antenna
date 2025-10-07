@@ -4,10 +4,26 @@
   <channel>
     <title>Planet News</title>
     <link>http://localhost:8000/planetxml</link>
-    <lastBuildDate>07 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>07 Oct 25 16:28 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Google launches new AI mode search tool in Ireland</title>
+      <link>https://www.rte.ie/news/ireland/2025/1008/1537357-google-ai-ireland/</link>
+      <description>
+        <![CDATA[Google has announced the rollout of its AI mode in Ireland, described by the company as its most powerful AI search experience tool with more advanced reasoning and multimodality]]>
+      </description>
+      <source:markdown>Google has announced the rollout of its AI mode in Ireland, described by the company as its most powerful AI search experience tool with more advanced reasoning and multimodality</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/1008/1537357-google-ai-ireland/</guid>
+    </item>    <item>
+      <title>Badenoch promises spending cuts if Conservatives elected</title>
+      <link>https://www.rte.ie/news/world/2025/1008/1537356-conservative-party-conference/</link>
+      <description>
+        <![CDATA[The Conservative Party leader Kemi Badenoch will address her party conference in Manchester this morning, promising cuts in public expenditure if her party is returned to power]]>
+      </description>
+      <source:markdown>The Conservative Party leader Kemi Badenoch will address her party conference in Manchester this morning, promising cuts in public expenditure if her party is returned to power</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2025/1008/1537356-conservative-party-conference/</guid>
+    </item>    <item>
       <title>German mayor found with stab wounds in apartment</title>
       <link>https://www.rte.ie/news/world/2025/1007/1537354-german-mayor/</link>
       <description>
@@ -79,6 +95,16 @@
       </description>
       <source:markdown>The Disability Federation of Ireland has said that while it welcomes the €619m increase in funding for disability services, the Budget overall represents a devastating setback for disabled people unable to work.</source:markdown>
       <guid>cid://https://www.rte.ie/news/budget-2026/2025/1007/1537320-disability-budget-2026/</guid>
+    </item>    <item>
+      <title>Remove 2nd-generation cut-off from Indian Act, witnesses tell Senate committee</title>
+      <link>https://www.cbc.ca/news/indigenous/2nd-generation-cut-off-senate-committee-1.7653585?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/1.7649802.1759439779!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/covid-parliament-202004.JPG' alt='The Senate of Canada building and Senate Chamber are pictured in Ottawa on Monday, Feb. 18, 2019.' width='620' height='349' title='The Senate of Canada building and Senate Chamber are pictured in Ottawa on Monday, Feb. 18, 2019.'/><p>Indigenous leaders and experts say Bill S-2 takes small steps to address discrimination in the Indian Act but fails to solve deeper injustices like the second-generation cut-off.</p>]]>
+      </description>
+      <source:markdown>![The Senate of Canada building and Senate Chamber are pictured in Ottawa on Monday, Feb. 18, 2019.](https://i.cbc.ca/1.7649802.1759439779!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/covid-parliament-202004.JPG)
+
+Indigenous leaders and experts say Bill S-2 takes small steps to address discrimination in the Indian Act but fails to solve deeper injustices like the second-generation cut-off.</source:markdown>
+      <guid>cid://1.7653585</guid>
     </item>    <item>
       <title>Astronomy &#38; Space Science Education &#38; Public Outreach Newsletter – October 2025, Part 1</title>
       <link>https://www.vaticanobservatory.org/sacred-space-astronomy/astronomy-space-science-education-public-outreach-newsletter-october-2025-part-1/</link>
@@ -551,7 +577,7 @@ Indonesian rescuers wrapped up the search on Tuesday for victims trapped under t
       <source:markdown>The world may be reaching a &#34;crucial turning point&#34; in the shift towards clean power, a think tank said as its analysis showed renewable generation overtook coal globally for the first time on record.</source:markdown>
       <guid>cid://https://www.rte.ie/news/environment/2025/1007/1537222-renewables-coal/</guid>
     </item>    <item>
-      <title>Taoiseach defends Budget after Opposition criticism</title>
+      <title>As it happened: Budget 2026 announced by Government</title>
       <link>https://www.rte.ie/news/ireland/2025/1007/1537203-budget-2026-blog/</link>
       <description>
         <![CDATA[Follow live reaction following the announcement of the details of Budget 2026.]]>
@@ -625,12 +651,12 @@ Shipments of frozen shrimp from India to the U.S. have ground to a halt after Am
       <source:markdown>Most of the Irish citizens who were held by Israel after it intercepted the Global Sumud Flotilla have now arrived home.</source:markdown>
       <guid>cid://https://www.rte.ie/news/middle-east/2025/1007/1537191-irish-gaza-flotilla/</guid>
     </item>    <item>
-      <title>Minimum wage up, housing boost, no tax cuts for workers</title>
+      <title>Taoiseach defends Budget 2026 after Opposition criticism</title>
       <link>https://www.rte.ie/news/budget-2026/2025/1007/1537181-budget-2026-donohoe/</link>
       <description>
-        <![CDATA[The Government has pledged to "secure jobs and stability at a time of global challenge" as part of its annual Budget announcement.]]>
+        <![CDATA[Taoiseach Micheál Martin has defended Budget 2026 from Opposition criticism, saying it was "not sustainable" to continue to give one-off measures, like electricity credits.]]>
       </description>
-      <source:markdown>The Government has pledged to &#34;secure jobs and stability at a time of global challenge&#34; as part of its annual Budget announcement.</source:markdown>
+      <source:markdown>Taoiseach Micheál Martin has defended Budget 2026 from Opposition criticism, saying it was &#34;not sustainable&#34; to continue to give one-off measures, like electricity credits.</source:markdown>
       <guid>cid://https://www.rte.ie/news/budget-2026/2025/1007/1537181-budget-2026-donohoe/</guid>
     </item>    <item>
       <title>Sudan&#39;s civil war has faded from headlines, but monitors say it&#39;s the largest humanitarian crisis in the world</title>
@@ -7287,6 +7313,14 @@ An orange Every Child Matters crosswalk design is now at the intersection of Dol
       <source:markdown>![A man wearing a blue and white uniform throws a baseball.](https://i.cbc.ca/ais/b1c660f0-19be-40ae-ab48-909ef6f4cb1c,1759800697558/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3712%2C2088%29%3BResize%3D%28620%29)</source:markdown>
       <guid>cid://1.7643183</guid>
     </item>    <item>
+      <title>Blue Jays fans are snapping up merch as team aims to advance in playoffs</title>
+      <link>https://www.cbc.ca/news/canada/blue-jays-merch-sales-1.7653658?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/308143a1-949b-435b-8577-fef94fd998bb,1759875998441/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C251%2C4816%2C2709%29%3BResize%3D%28620%29' alt='A general view of the field and main scoreboard at Yankee Stadium before game three in the Wildcard round of the 2025 MLB playoffs between the New York Yankees and the Boston Red Sox.' width='620' height='349' title='Oct 2, 2025; Bronx, New York, USA; A general view of the field and main scoreboard at Yankee Stadium before game three in the Wildcard round of the 2025 MLB playoffs between the New York Yankees and the Boston Red Sox. Mandatory Credit: Vincent Carchietta-Imagn Images'/><p></p>]]>
+      </description>
+      <source:markdown>![A general view of the field and main scoreboard at Yankee Stadium before game three in the Wildcard round of the 2025 MLB playoffs between the New York Yankees and the Boston Red Sox.](https://i.cbc.ca/ais/308143a1-949b-435b-8577-fef94fd998bb,1759875998441/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C251%2C4816%2C2709%29%3BResize%3D%28620%29)</source:markdown>
+      <guid>cid://1.7643183</guid>
+    </item>    <item>
       <title>China makes pledge to cut emissions for the first time</title>
       <link>https://www.rte.ie/news/world/2025/0925/1535249-china-climate-change/</link>
       <description>
@@ -8699,13 +8733,13 @@ An orange Every Child Matters crosswalk design is now at the intersection of Dol
       </description>
       <guid>cid://https://www.rte.ie/news/2025/0923/1534796-retail-cyber-attacks/</guid>
     </item>    <item>
-      <title>&#38;#8216;We cannot afford another crisis,&#38;#8217; IAEA head says as Iran suspends cooperation</title>
+      <title>Brazil&#38;rsquo;s Lula pushes for &#38;lsquo;civilized relationship&#38;rsquo; with U.S. amid tensions with Trump</title>
       <description>
-        <![CDATA[There will be a series of diplomatic meetings over Iran at the United Nations this week. Iran and the International Atomic Energy Agency have gone back and forth over whether UN inspectors will be allowed to examine Iran&rsquo;s nuclear sites, including those attacked by Israel and the U.S. in June. Nick Schifrin discussed more with the head of the UN&rsquo;s nuclear watchdog. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy]]>
+        <![CDATA[World dignitaries are gathering this week for the UN General Assembly. The first speech will come from Brazil's president, Luis Inacio Lula da Silva. Lula's predecessor, Jair Bolsonaro, has become an explosive issue in U.S.-Brazilian relations. President Trump levied a 50% tariff on many Brazilian goods as a penalty for the prosecution of Bolsonaro. Amna Nawaz sat down with Lula to discuss more. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy]]>
       </description>
-      <source:markdown>There will be a series of diplomatic meetings over Iran at the United Nations this week. Iran and the International Atomic Energy Agency have gone back and forth over whether UN inspectors will be allowed to examine Iran’s nuclear sites, including those attacked by Israel and the U.S. in June. Nick Schifrin discussed more with the head of the UN’s nuclear watchdog. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy</source:markdown>
-      <enclosure url="https://flex2.acast.com/s/pbs-newshour-world/u/d3i6fh83elv35t.cloudfront.net/static/2025/09/nuclear.mp3" length="7574198" type="audio/mpeg" />
-      <guid>cid://https://www.pbs.org/newshour/show/we-cannot-afford-another-crisis-iaea-head-says-as-iran-suspends-cooperation</guid>
+      <source:markdown>World dignitaries are gathering this week for the UN General Assembly. The first speech will come from Brazil&#39;s president, Luis Inacio Lula da Silva. Lula&#39;s predecessor, Jair Bolsonaro, has become an explosive issue in U.S.-Brazilian relations. President Trump levied a 50% tariff on many Brazilian goods as a penalty for the prosecution of Bolsonaro. Amna Nawaz sat down with Lula to discuss more. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy</source:markdown>
+      <enclosure url="https://flex2.acast.com/s/pbs-newshour-world/u/d3i6fh83elv35t.cloudfront.net/static/2025/09/oneonone.mp3" length="10079800" type="audio/mpeg" />
+      <guid>cid://https://www.pbs.org/newshour/show/brazils-lula-pushes-for-civilized-relationship-with-u-s-amid-tensions-with-trump</guid>
     </item>    <item>
       <title>The Traitors Ireland: It&#39;s just another Manic Monday</title>
       <link>https://www.rte.ie/entertainment/2025/0922/1534783-the-traitors-ireland-its-just-another-manic-monday/</link>

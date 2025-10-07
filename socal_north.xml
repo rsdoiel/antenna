@@ -4,16 +4,32 @@
   <channel>
     <title>socal_north.md</title>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>07 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>07 Oct 25 16:28 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>California quiere oír testimonios de los inquilinos de Mike Nijjar y más como parte de demanda judicial en curso</title>
+      <link>https://laist.com/news/housing-homelessness/california-quiere-oir-testimonios-de-los-inquilinos-de-mike-nijjar-y-mas-como-parte-de-demanda-judicial-en-curso</link>
+      <description>
+        <![CDATA[Este junio, California demanadó al proprietario Mike Nijjar por discriminación y condiciones de viva antihigiénicas e inseguras adentro de sus viviendas. Ahora, el fiscal general de California, Rob Bonta, está pidiendo que los inquilinos de Nijjar compartan sus experiencias con los funcionarios estatales.]]>
+      </description>
+      <source:markdown>Este junio, California demanadó al proprietario Mike Nijjar por discriminación y condiciones de viva antihigiénicas e inseguras adentro de sus viviendas. Ahora, el fiscal general de California, Rob Bonta, está pidiendo que los inquilinos de Nijjar compartan sus experiencias con los funcionarios estatales.</source:markdown>
+      <guid>cid://urn:uuid:00000199-c0c3-dc80-a5fb-eddba9c90000</guid>
+    </item>    <item>
+      <title>LA County says not so fast on wedding license fee increase after chapel outcry</title>
+      <link>https://laist.com/news/politics/los-angeles-county-wedding-license-fee-increase-wedding-chapels</link>
+      <description>
+        <![CDATA[The Board of Supervisors puts the brakes on a plan to increase the cost of a marriage license from $91 to $176.]]>
+      </description>
+      <source:markdown>The Board of Supervisors puts the brakes on a plan to increase the cost of a marriage license from $91 to $176.</source:markdown>
+      <guid>cid://urn:uuid:00000199-c0d3-d5ee-a3ff-d7f39f2e0000</guid>
+    </item>    <item>
       <title>White House floats no back pay for some furloughed federal workers despite 2019 law</title>
       <link>https://laist.com/news/politics/white-house-floats-no-back-pay-for-some-furloughed-federal-workers-despite-2019-law</link>
       <description>
-        <![CDATA[A new draft White House memo suggests a 2019 law signed by President Trump that guarantees federal employees get paid after a shutdown ends would not apply to furloughed workers.]]>
+        <![CDATA[A new draft White House memo suggests a 2019 law signed by President Trump that guarantees that federal employees get paid after a shutdown ends would not apply to furloughed workers.]]>
       </description>
-      <source:markdown>A new draft White House memo suggests a 2019 law signed by President Trump that guarantees federal employees get paid after a shutdown ends would not apply to furloughed workers.</source:markdown>
+      <source:markdown>A new draft White House memo suggests a 2019 law signed by President Trump that guarantees that federal employees get paid after a shutdown ends would not apply to furloughed workers.</source:markdown>
       <guid>cid://urn:uuid:00000199-c01e-dc80-a5fb-ed5e75790000</guid>
     </item>    <item>
       <title>California wants to hear from Mike Nijjar’s tenants and more as part of ongoing lawsuit</title>

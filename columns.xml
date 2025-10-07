@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>http://localhost:8000/columnsxml</link>
-    <lastBuildDate>07 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>07 Oct 25 16:28 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -41,11 +41,22 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <title>Retraction</title>
       <link>https://simonwillison.net/2025/Oct/7/gemini-25-computer-use-captchas/#atom-everything</link>
       <description>
-        <![CDATA[<p>I retracted this article after confirming that, while Gemini 2.5 Computer Use did <em>try</em> to solve Google's own CAPTCHA, it was actually Browserbase that successfully performed the solve. I'll update this with more details shortly.</p>
+        <![CDATA[<p>Google released a new <a href="https://blog.google/technology/google-deepmind/gemini-computer-use-model/">Gemini 2.5 Computer Use model</a> today, specially designed to help operate a GUI interface by interacting with visible elements using a virtual mouse and keyboard.</p>
+        <p>I tried the demo hosted by Browserbase at <a href="https://gemini.browserbase.com/">gemini.browserbase.com</a> and was delighted and slightly horrified when it appeared to kick things off by first navigating to Google.com and solving their CAPTCHA in order to run a search!</p>
+        
+        <p>I wrote a post about it and included <a href="https://static.simonwillison.net/static/2025/captcha-solve-gemini-2.jpg">this screenshot</a>, but then learned that Browserbase itself has CAPTCHA solving built in and, as shown <a href="https://static.simonwillison.net/static/2025/browserbase-captcha.mp4">in this longer video</a>, it was Browserbase that solved the CAPTCHA even while Gemini was thinking about doing so itself.</p>
+        
+        <p>I deeply regret this error. I've deleted various social media posts about the original entry and linked back to this retraction instead.</p>
         
             <p>Tags: <a href="https://simonwillison.net/tags/gemini">gemini</a></p>]]>
       </description>
-      <source:markdown>I retracted this article after confirming that, while Gemini 2.5 Computer Use did _try_ to solve Google&#39;s own CAPTCHA, it was actually Browserbase that successfully performed the solve. I&#39;ll update this with more details shortly.
+      <source:markdown>Google released a new [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/) today, specially designed to help operate a GUI interface by interacting with visible elements using a virtual mouse and keyboard.
+
+I tried the demo hosted by Browserbase at [gemini.browserbase.com](https://gemini.browserbase.com/) and was delighted and slightly horrified when it appeared to kick things off by first navigating to Google.com and solving their CAPTCHA in order to run a search!
+
+I wrote a post about it and included [this screenshot](https://static.simonwillison.net/static/2025/captcha-solve-gemini-2.jpg), but then learned that Browserbase itself has CAPTCHA solving built in and, as shown [in this longer video](https://static.simonwillison.net/static/2025/browserbase-captcha.mp4), it was Browserbase that solved the CAPTCHA even while Gemini was thinking about doing so itself.
+
+I deeply regret this error. I&#39;ve deleted various social media posts about the original entry and linked back to this retraction instead.
 
 Tags: [gemini](https://simonwillison.net/tags/gemini)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/7/gemini-25-computer-use-captchas/#atom-everything</guid>
@@ -2296,6 +2307,10 @@ Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwill
       <title>weekly retro #35: i&#39;ll tell YOU when it&#39;s time for spooky things</title>
       <link>https://livelaugh.blog/posts/weekly-retro-35/</link>
       <guid>cid://https://livelaugh.blog/posts/weekly-retro-35/</guid>
+    </item>    <item>
+      <title>How I&#39;m using coding agents in September, 2025</title>
+      <link>https://blog.fsck.com/2025/10/05/how-im-using-coding-agents-in-september-2025/</link>
+      <guid>cid://https://blog.fsck.com/2025/10/05/how-im-using-coding-agents-in-september-2025/</guid>
     </item>    <item>
       <link>https://www.caranddriver.com/reviews/a62638170/2025-volkswagen-id-buzz-test/?utm_source=chatgpt.com</link>
       <description>
@@ -9253,6 +9268,10 @@ Tags: [gpt-5](https://simonwillison.net/tags/gpt-5), [quantum-computing](https:/
       <title>The Emancipation of the Chris Gaines of Mimi</title>
       <link>https://anildash.com/2025/09/29/mariah-chick-chris-gaines/</link>
       <guid>cid://https://anildash.com/2025/09/29/mariah-chick-chris-gaines/</guid>
+    </item>    <item>
+      <title>Using GraphViz for CLAUDE.md</title>
+      <link>https://blog.fsck.com/2025/09/29/using-graphviz-for-claudemd/</link>
+      <guid>cid://https://blog.fsck.com/2025/09/29/using-graphviz-for-claudemd/</guid>
     </item>    <item>
       <title>GSoC 2025: Bfloat16 in LLVM libc</title>
       <link>https://blog.llvm.org/posts/2025-09-10-bfloat16-in-llvm-libc/</link>

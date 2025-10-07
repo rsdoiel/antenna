@@ -4,10 +4,18 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>http://localhost:8000/foodxml</link>
-    <lastBuildDate>07 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>07 Oct 25 16:28 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Yeti Tumblers and Coolers Are Up to 40% Off for Prime Day</title>
+      <link>https://www.bonappetit.com/story/yeti-prime-day-deals-2025-10-7</link>
+      <description>
+        <![CDATA[Save up to 40% on Rambler tumblers, Hopper backpack coolers, and more.]]>
+      </description>
+      <source:markdown>Save up to 40% on Rambler tumblers, Hopper backpack coolers, and more.</source:markdown>
+      <guid>cid://669696c76dae49e591562210</guid>
+    </item>    <item>
       <title>KFC Just Brought Back This Fan-Favorite Sauce, and I Had to Try It</title>
       <link>https://www.tasteofhome.com/article/kfc-original-honey-bbq-sauce/</link>
       <description>
