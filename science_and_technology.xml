@@ -4,10 +4,120 @@
   <channel>
     <title>Science and Technology</title>
     <link>http://localhost:8000/science_and_technologyxml</link>
-    <lastBuildDate>06 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>07 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>How your mouse could eavesdrop and rat you out</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/07/mouse_microphone_security/</link>
+      <description>
+        <![CDATA[<h4>Mic-E-Mouse can roar by literally vibe hacking speech</h4> <p>The mouse sitting next to you can be turned into a microphone thanks to some cunning use of its sensors to pick up vibrations from your voice in an attack dubbed Mic-E-Mouse.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Mic-E-Mouse can roar by literally vibe hacking speech
+
+The mouse sitting next to you can be turned into a microphone thanks to some cunning use of its sensors to pick up vibrations from your voice in an attack dubbed Mic-E-Mouse.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242340</guid>
+    </item>    <item>
+      <title>Red Hat breach escalates as criminals collaborate on &#39;multi-terabyte&#39; extortion plot</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/07/red_hat_breach_new_claims/</link>
+      <description>
+        <![CDATA[<h4>Bad guys promise not to attack customers if they get paid</h4> <p>Red Hat&#39;s breach nightmare just got worse, as the Crimson Collective crew that claims to have ransacked its GitLab repos has joined forces with the ShinyHunters-linked &#34;Scattered Lapsus$ Hunters&#34; gang to turn the screw with a full-blown extortion campaign.…</p>]]>
+      </description>
+      <source:markdown>#### Bad guys promise not to attack customers if they get paid
+
+Red Hat&#39;s breach nightmare just got worse, as the Crimson Collective crew that claims to have ransacked its GitLab repos has joined forces with the ShinyHunters-linked &#34;Scattered Lapsus$ Hunters&#34; gang to turn the screw with a full-blown extortion campaign.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242342</guid>
+    </item>    <item>
+      <title>London cops unplug iPhone crime ring said to nick 40% of city&#39;s mobiles</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/07/london_phone_ring_bust/</link>
+      <description>
+        <![CDATA[<h4>Met&#39;s year-long Operation Echosteep nets thousands of stolen devices and several arrests</h4> <p>London&#39;s Metropolitan Police says it dismantled an iPhone-robbing gang responsible for what&#39;s thought to be nearly half of all phone thefts in England&#39;s capital.…</p>]]>
+      </description>
+      <source:markdown>#### Met&#39;s year-long Operation Echosteep nets thousands of stolen devices and several arrests
+
+London&#39;s Metropolitan Police says it dismantled an iPhone-robbing gang responsible for what&#39;s thought to be nearly half of all phone thefts in England&#39;s capital.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242344</guid>
+    </item>    <item>
+      <title>No account? No Windows 11, Microsoft says as another loophole snaps shut</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/07/windows_11_local_account_loophole/</link>
+      <description>
+        <![CDATA[<h4>Workaround sent to the big OOBE in the sky with latest Insider builds</h4> <p>Microsoft is closing a popular loophole that allowed users to install Windows 11 without a Microsoft account.…</p>]]>
+      </description>
+      <source:markdown>#### Workaround sent to the big OOBE in the sky with latest Insider builds
+
+Microsoft is closing a popular loophole that allowed users to install Windows 11 without a Microsoft account.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242343</guid>
+    </item>    <item>
+      <title>Britain eyes satellite laser warning system and carrier-launched jet drones</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/07/uk_satellite_laser_drone/</link>
+      <description>
+        <![CDATA[<h4>Space sensors and UAVs at sea top MoD&#39;s list in new wave of cutting-edge projects</h4> <p>The UK is pressing ahead with cutting-edge defense projects, the latest including research to protect satellites from laser attack and a technology demonstrator for a jet-powered drone to operate from Royal Navy carriers.…</p>]]>
+      </description>
+      <source:markdown>#### Space sensors and UAVs at sea top MoD&#39;s list in new wave of cutting-edge projects
+
+The UK is pressing ahead with cutting-edge defense projects, the latest including research to protect satellites from laser attack and a technology demonstrator for a jet-powered drone to operate from Royal Navy carriers.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242329</guid>
+    </item>    <item>
+      <title>UK Home Office opens wallet for £60M automated number plate project</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/07/home_office_anpr_app/</link>
+      <description>
+        <![CDATA[<h4>Department eyes new app to tap national ANPR data for live alerts, searches, and integrations</h4> <p>The UK&#39;s Home Office is inviting tech suppliers to take part in a £60 million &#34;market engagement&#34; for an application that uses data from automated number plate recognition (ANPR) systems.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Department eyes new app to tap national ANPR data for live alerts, searches, and integrations
+
+The UK&#39;s Home Office is inviting tech suppliers to take part in a £60 million &#34;market engagement&#34; for an application that uses data from automated number plate recognition (ANPR) systems.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242319</guid>
+    </item>    <item>
+      <title>Google DeepMind minds the patch with AI flaw-fixing scheme</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/07/google_deepmind_patches_holes/</link>
+      <description>
+        <![CDATA[<h4>CodeMender has been generating fixes for vulnerabilities in open source projects</h4> <p>Google says its AI-powered security repair tool CodeMender has been helping secure open source projects through automated patch creation, subject to human approval.…</p>]]>
+      </description>
+      <source:markdown>#### CodeMender has been generating fixes for vulnerabilities in open source projects
+
+Google says its AI-powered security repair tool CodeMender has been helping secure open source projects through automated patch creation, subject to human approval.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242339</guid>
+    </item>    <item>
+      <title>Cerebras CEO insists dinner-plate-sized chip startup will still go public</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/06/cerebras_ipo_rest/</link>
+      <description>
+        <![CDATA[<h4>Inference service launched a month before IPO filing turns out to have been a much bigger business than initially thought</h4> <p>Just days after announcing a $1.1 billion Series G funding round, AI chip startup Cerebras Systems pulled its S-1 IPO filing without so much as an explanation. …</p>]]>
+      </description>
+      <source:markdown>#### Inference service launched a month before IPO filing turns out to have been a much bigger business than initially thought
+
+Just days after announcing a $1.1 billion Series G funding round, AI chip startup Cerebras Systems pulled its S-1 IPO filing without so much as an explanation. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242338</guid>
+    </item>    <item>
+      <title>Microsoft blames Medusa ransomware affiliates for GoAnywhere exploits while Fortra keeps head buried</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/06/microsoft_blames_medusa_ransomware_affiliates/</link>
+      <description>
+        <![CDATA[<h4>You can&#39;t find anything bad if you don&#39;t look, right?</h4> <p>Medusa ransomware affiliates are among those exploiting a maximum-severity bug in Fortra&#39;s GoAnywhere managed file transfer (MFT) product, according to Microsoft Threat Intelligence.…</p>]]>
+      </description>
+      <source:markdown>#### You can&#39;t find anything bad if you don&#39;t look, right?
+
+Medusa ransomware affiliates are among those exploiting a maximum-severity bug in Fortra&#39;s GoAnywhere managed file transfer (MFT) product, according to Microsoft Threat Intelligence.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242337</guid>
+    </item>    <item>
+      <title>Amazon turns James Bond into the Man Without the Golden Gun</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/06/amazon_007_without_golden_gun/</link>
+      <description>
+        <![CDATA[<h4>Prime Video bowdlerized Bond just in time for 007&#39;s special day</h4> <p>In more than 60 years of adventures, James Bond has faced off against villains ranging from Blofeld to Le Chiffre. But none of them has managed to do what Jeff Bezos and his henchmen did to the international superspy: take his weapons away.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Prime Video bowdlerized Bond just in time for 007&#39;s special day
+
+In more than 60 years of adventures, James Bond has faced off against villains ranging from Blofeld to Le Chiffre. But none of them has managed to do what Jeff Bezos and his henchmen did to the international superspy: take his weapons away.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242335</guid>
+    </item>    <item>
+      <title>Senate report says AI will take 97M US jobs in the next 10 years, but those numbers come from ChatGPT</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/06/ai_job_losses_us_senate_report/</link>
+      <description>
+        <![CDATA[<h4>Bernie Sanders calls for a robot tax and a 32-hour work week in response</h4> <p><strong>ai-pocalypse</strong>  A US Senate committee led by Bernie Sanders (I-VT) has produced a report claiming that about 97 million US jobs could be lost to AI and automation over the next decade. There&#39;s just one problem: it got those figures from ChatGPT.…</p>]]>
+      </description>
+      <source:markdown>#### Bernie Sanders calls for a robot tax and a 32-hour work week in response
+
+**ai-pocalypse**  A US Senate committee led by Bernie Sanders (I-VT) has produced a report claiming that about 97 million US jobs could be lost to AI and automation over the next decade. There&#39;s just one problem: it got those figures from ChatGPT.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242336</guid>
+    </item>    <item>
       <title>Starlink is burning up one or two satellites a day in Earth’s atmosphere</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/06/starlink_vaporizes_satellites_daily/</link>
       <description>
@@ -77,17 +187,6 @@ OpenAI on Monday pitched its coding tools to software developers in the hope of 
       </description>
       <source:markdown>Their seed dispersal strategies have helped these ubiquitous plants flourish all over the world, new research suggests</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/YQwNR11GkYboHN7OgGUHD8qGwRI=/420x240/filters:focal(2592x1728:2593x1729)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/24/6d/246d8aa1-92a6-46fa-8e42-3bd8b1e1d3db/pexels-pixabay-289323.jpg" length="" type="" />
-    </item>    <item>
-      <title>Purism Defends the Fourth Amendment in the Digital Age</title>
-      <link>https://puri.sm/posts/purism-defends-the-fourth-amendment-in-the-digital-age/</link>
-      <description>
-        <![CDATA[<p>A newly revealed WIRED investigation shows that the United States Government is creating a vast social media surveillance network, one that will operate around the clock and rely heavily on private contractors. Officials insist the system targets foreign nationals—but its scope and design make it inevitable that millions of Americans’ online activity will also be swept up. This is unconstitutional.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/purism-defends-the-fourth-amendment-in-the-digital-age/">Purism Defends the Fourth Amendment in the Digital Age</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>A newly revealed WIRED investigation shows that the United States Government is creating a vast social media surveillance network, one that will operate around the clock and rely heavily on private contractors. Officials insist the system targets foreign nationals—but its scope and design make it inevitable that millions of Americans’ online activity will also be swept up. This is unconstitutional.
-
-The post [Purism Defends the Fourth Amendment in the Digital Age](https://puri.sm/posts/purism-defends-the-fourth-amendment-in-the-digital-age/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=84660</guid>
     </item>    <item>
       <title>Explorer Ernest Shackleton May Have Known His Ship &#39;Endurance&#39; Wasn&#39;t Equipped to Survive the Antarctic Ice</title>
       <link>https://www.smithsonianmag.com/smart-news/explorer-ernest-shackleton-may-have-known-his-ship-endurance-wasnt-equipped-to-survive-the-antarctic-ice-180987453/</link>
@@ -230,6 +329,17 @@ A team including maintainers [removed without notice](https://www.theregister.co
 
 China is persevering with underwater datacenters - a deployment off the coast near Shanghai is expected to save on the energy costs of cooling compute infrastructure thanks to ocean currents.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242322</guid>
+    </item>    <item>
+      <title>Purism Defends the Fourth Amendment in the Digital Age</title>
+      <link>https://puri.sm/posts/purism-defends-the-fourth-amendment-in-the-digital-age/</link>
+      <description>
+        <![CDATA[<p>A newly revealed WIRED investigation shows that the United States Government is creating a vast social media surveillance network, one that will operate around the clock and rely heavily on private contractors. Officials insist the system targets foreign nationals—but its scope and design make it inevitable that millions of Americans’ online activity will also be swept up. This is unconstitutional.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/purism-defends-the-fourth-amendment-in-the-digital-age/">Purism Defends the Fourth Amendment in the Digital Age</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <source:markdown>A newly revealed WIRED investigation shows that the United States Government is creating a vast social media surveillance network, one that will operate around the clock and rely heavily on private contractors. Officials insist the system targets foreign nationals—but its scope and design make it inevitable that millions of Americans’ online activity will also be swept up. This is unconstitutional.
+
+The post [Purism Defends the Fourth Amendment in the Digital Age](https://puri.sm/posts/purism-defends-the-fourth-amendment-in-the-digital-age/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+      <guid>cid://https://puri.sm/?p=84660</guid>
     </item>    <item>
       <title>Thieves steal IDs and payment info after data leaks from Discord support vendor</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/06/discord_support_data_breach/</link>
@@ -4975,393 +5085,6 @@ The post [Living in the Regulatory Future: Purism, the EU Data Act, and America�
         <![CDATA[<h4>Nice plans for US manufacturing you had there, shame if something was to happen to them</h4> <p><strong>Analysis</strong>  On Sunday, President Trump took to his personal social media channel to calm a growing diplomatic storm with one of America&#39;s closest allies, South Korea.…</p>]]>
       </description>
       <guid>cid://tag:theregister.com,2005:story241935</guid>
-    </item>    <item>
-      <title>After years of strife, AFRINIC has elected a board. Now the hard work begins</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/afrinic_election_called_what_next/</link>
-      <description>
-        <![CDATA[<h4>Regional internet registry faces numerous critics and isn’t out of the legal woods</h4> <p>The African Network Information Center (AFRINIC) last week held elections and announced the appointment of eight directors, which means it has a chance to convene a board for the first time since 2022.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241915</guid>
-    </item>    <item>
-      <title>A months of ad-free OSNews: we’re closing in on the fundraising goal, and need your help to get there</title>
-      <link>https://www.osnews.com/story/143347/a-months-of-ad-free-osnews-were-closing-in-on-the-fundraising-goal-and-need-your-help-to-get-there/</link>
-      <description>
-        <![CDATA[It&#8217;s been a little over a month since OSNews went completely ad-free for everyone. I can say the support has been overwhelming, with the accompanying fundraiser currently sitting at 67% of the €5000 goal! Of course things slowed down a bit after the initial week of one donation after the next, so I&#8217;m throwing out this reminder that without your support, OSNews can&#8217;t exist &#8211; doubly so now that I&#8217;ve removed any and all advertising. Help us reach that 100%! So, what can you do to support OSNews? By being entirely free from the corrupting influence of advertising, I have even less desire to chase views, entrap users with slop content, game search engines with shitty SEO spam, or turn on the taps of &#8220;AI&#8221;-generated trash to spew forth as much &#8220;articles&#8221; and thus views as possible. This also means that OSNews is one of the few technology news websites remaining that is not part of a massive corporate media conglomerate, so there&#8217;s no pressure from &#8220;corporate&#8221; to go easy on advertisers or write favourable stuff about corporate&#8217;s friends. You&#8217;d be surprised to learn how many technology sites out there are not independent. The response to OSNews no longer having any advertising has been overwhelmingly positive &#8211; unsurprisingly &#8211; and that has taken away any reservations I might have had about taking this step. In a world where so many websites are disappearing, turning into corporate mouthpieces, or becoming glorified content farms, OSNews can keep on doing what it does, independent of any outside influence, thanks to the countless contributions from all of you. Thank you.]]>
-      </description>
-      <guid>cid://https://www.osnews.com/?p=143347</guid>
-    </item>    <item>
-      <title>Apple releases version 26 of all of its operating systems</title>
-      <link>https://www.osnews.com/story/143345/apple-releases-version-26-of-all-of-its-operating-systems/</link>
-      <description>
-        <![CDATA[It&#8217;s release day for all of Apple&#8217;s operating systems, so if you&#8217;re fully or only partway into the ecosystem, you&#8217;ve got some upgrades ahead of you. Version 26 for macOS, iOS and iPadOS, watchOS, tvOS, visionOS, and HomePod Software have all been released today, so if you own any device running any of these operating system, it&#8217;s time to head on over to the update section of the settings application and wait for that glass to slowly and sensually liquefy all over your screens. Do put a sock on the doorknob.]]>
-      </description>
-      <guid>cid://https://www.osnews.com/?p=143345</guid>
-    </item>    <item>
-      <title>Writing an operating system kernel from scratch in Zig</title>
-      <link>https://www.osnews.com/story/143343/writing-an-operating-system-kernel-from-scratch-in-zig/</link>
-      <description>
-        <![CDATA[I recently implemented a minimal proof of concept time-sharing operating system kernel on RISC-V. In this post, I’ll share the details of how this prototype works. The target audience is anyone looking to understand low-level system software, drivers, system calls, etc., and I hope this will be especially useful to students of system software and computer architecture.  Finally, to do things differently here, I implemented this exercise in Zig, rather than traditional C. In addition to being an interesting experiment, I believe Zig makes this experiment much more easily reproducible on your machine, as it’s very easy to set up and does not require any installation (which could otherwise be slightly messy when cross-compiling to RISC-V). ↫ Uros Popovic This is not the first, and certainly not the last, operating system implemented from scratch as a teaching exercise, both for the creator itself, as well as for others wanting to follow along. This time it&#8217;s developed for RISC-V, and in an interesting twist, programmed in Zig (no Rust for once!).]]>
-      </description>
-      <guid>cid://https://www.osnews.com/?p=143343</guid>
-    </item>    <item>
-      <title>NASA Sets Launch Coverage for Space Weather Missions</title>
-      <link>https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-space-weather-missions/</link>
-      <description>
-        <![CDATA[NASA will provide live coverage of prelaunch and launch activities for an observatory designed to study space weather and explore and map the boundaries of our solar neighborhood. Launching with IMAP (Interstellar Mapping and Acceleration Probe) are two rideshare missions, NASA’s Carruthers Geocorona Observatory and the National Oceanic and Atmospheric Administration&#8217;s (NOAA) Space Weather Follow [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=914353</guid>
-    </item>    <item>
-      <title>Dems wave hands, stomp feet about ICE using mobile face recognition app</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/cbp_has_deployed_billions_in/</link>
-      <description>
-        <![CDATA[<h4>Secretive app + unreliable tech + Trump administration policies = ANGRY LETTER</h4> <p>A group of senators has penned a sternly-worded letter to the US Immigration and Customs Enforcement (ICE) saying that they&#39;re very worried about the agency&#39;s use of facial recognition in its mission to cleanse the nation of immigrants with improper documents. …</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241933</guid>
-    </item>    <item>
-      <title>Microsoft to force-install Copilot onto Windows PCs with Office 365 installed</title>
-      <link>https://www.osnews.com/story/143340/microsoft-to-force-install-copilot-onto-windows-pcs-with-office-365-installed/</link>
-      <description>
-        <![CDATA[And the beatings continue until &#8220;AI&#8221; improves. Except if you live in the European Union/EEA, that is. Windows devices with the Microsoft 365 desktop client apps will automatically install the Microsoft 365 Copilot app. This app installation takes place in the background and would not disrupt the user. This app installation will start in Fall 2025. ↫ Microsoft support document Basically, if you have Microsoft 365 desktop applications installed &#8211; read my article about some deep Microsoft lore to figure out what that means &#8211; Microsoft is going to force-install all the Copilot stuff onto your computer, whether you like it or not. Thanks to more robust consumer protection legislation in the European Union/EEA, like the Digital Markets Act and Digital Services Act, this force-install will not take place there. Administrators managing Office 365 deployments get an option to opt-out through the Microsoft 365 Apps admin center, but I&#8217;m not sure if regular users can use this method as well. Remember, when you&#8217;re using Windows (or macOS, for that matter), you don&#8217;t own your computer. Plan accordingly.]]>
-      </description>
-      <guid>cid://https://www.osnews.com/?p=143340</guid>
-    </item>    <item>
-      <title>NASA Awards Safety, Mission Assurance Services Contract</title>
-      <link>https://www.nasa.gov/news-release/nasa-awards-safety-mission-assurance-services-contract-2/</link>
-      <description>
-        <![CDATA[NASA has selected Bastion Technologies Inc. of Houston to provide safety and mission assurance services for the agency’s Marshall Space Flight Center in Huntsville, Alabama. The Safety and Mission Assurance II (SMAS II) award is a performance-based, indefinite-delivery/indefinite-quantity contract with a maximum potential value of $400 million. A phase-in period begins Monday, followed by a [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=914283</guid>
-    </item>    <item>
-      <title>Archaeologists in Albania Unearth Tomb Belonging to an Upper-Class Roman Who Died 1,700 Years Ago</title>
-      <link>https://www.smithsonianmag.com/smart-news/archaeologists-in-albania-unearth-tomb-belonging-to-an-upper-class-roman-who-died-1700-years-ago-180987341/</link>
-      <description>
-        <![CDATA[The limestone chamber is marked with inscriptions identifying the deceased and honoring the deity Jupiter. Officials say it's the first tomb of its kind to be found in the country]]>
-      </description>
-      <source:markdown>The limestone chamber is marked with inscriptions identifying the deceased and honoring the deity Jupiter. Officials say it&#39;s the first tomb of its kind to be found in the country</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/RNGJ268pBrvF--3SUgzfYzakdMY=/420x240/filters:focal(800x533:801x534)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/df/eb/dfeb2b48-902d-4516-a6a3-b164a04c4c0d/540995322_1350463347079206_2341089243536647536_n.jpeg" length="" type="" />
-    </item>    <item>
-      <title>Fiji&#39;s Ants Are Struggling. Scientists Say They&#39;re Part of the Broader &#39;Insect Apocalypse&#39;</title>
-      <link>https://www.smithsonianmag.com/smart-news/fijis-ants-are-struggling-scientists-say-theyre-part-of-the-broader-insect-apocalypse-180987343/</link>
-      <description>
-        <![CDATA[New research finds that 79 percent of Fiji's endemic ant species—those that are native to and only found on the archipelago—are in decline]]>
-      </description>
-      <source:markdown>New research finds that 79 percent of Fiji&#39;s endemic ant species—those that are native to and only found on the archipelago—are in decline</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/wSx5jax0yUxSUd3sUzHhI_Mf-xg=/420x240/filters:focal(709x479:710x480)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c5/74/c574b431-f8c2-403f-90f2-1d12176530ae/island-ant-communities.jpg" length="" type="" />
-    </item>    <item>
-      <title>Careless engineer stored recovery codes in plaintext, got whole org pwned</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/ransomware_recovery_codes_plaintext/</link>
-      <description>
-        <![CDATA[<h4>Cautionary tale from the recent SonicWall attacks</h4> <p>Failing to encrypt sensitive data leaves you wide open to attack. During the recent SonicWall attack spree, intruders bypassed multi-factor authentication (MFA) in at least one case, because a user&#39;s recovery codes were left sitting in a plaintext file on their desktop.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241931</guid>
-    </item>    <item>
-      <title>Engineer turned a vape into a web server</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/nicotine_vape_web_server/</link>
-      <description>
-        <![CDATA[<h4>Breathe deep on internet fumes</h4> <p>Discarded vapes are becoming the new cigarette butts in pollution terms, but a hacker has found a novel way to repurpose the chips they contain to build a web server.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241932</guid>
-    </item>    <item>
-      <title>David Bowie Spent His Final Months Writing a Musical Inspired by Satire and Crime in 18th-Century London</title>
-      <link>https://www.smithsonianmag.com/smart-news/david-bowie-spent-his-final-months-writing-a-musical-inspired-by-satire-and-crime-in-18th-century-london-180987304/</link>
-      <description>
-        <![CDATA[Archivists discovered notes for the project, called "The Spectator," in the artist's New York City office after he died in 2016]]>
-      </description>
-      <source:markdown>Archivists discovered notes for the project, called &#34;The Spectator,&#34; in the artist&#39;s New York City office after he died in 2016</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/YD7_1dV3tNPatBFeptrJiE8FB6s=/420x240/filters:focal(1500x986:1501x987)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/89/8b/898b34cf-aa8b-46ea-b007-da7a586beda5/gettyimages-105335294.jpg" length="" type="" />
-    </item>    <item>
-      <title>Asteroid-Deflecting Missions May Need to Hit Asteroids in the Perfect Spots to Prevent Future Collisions</title>
-      <link>https://www.smithsonianmag.com/smart-news/asteroid-deflecting-missions-need-to-hit-asteroids-in-a-specific-spot-to-avoid-pushing-them-into-another-collision-course-with-earth-new-research-reveals-180987342/</link>
-      <description>
-        <![CDATA[NASA's DART mission proved we are able to change an asteroid's path by smashing a spacecraft into it, but exactly where we hit a rocky body is important]]>
-      </description>
-      <source:markdown>NASA&#39;s DART mission proved we are able to change an asteroid&#39;s path by smashing a spacecraft into it, but exactly where we hit a rocky body is important</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Cj98KR9TpJazolMRfAGvurMoICQ=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/77/5d/775d5af3-a6a5-4db6-873b-21ebcfde3d71/smithsonian_feature_images_14.png" length="" type="" />
-    </item>    <item>
-      <title>Scientists Map the Ways Octopuses Use Their Complex Arms, Revealing Preferences for Certain Tasks</title>
-      <link>https://www.smithsonianmag.com/smart-news/scientists-map-the-ways-octopuses-use-their-complex-arms-revealing-preferences-for-certain-tasks-180987333/</link>
-      <description>
-        <![CDATA[The cephalopods appear to favor using their front arms, according to a new study, though their back arms help with locomotion]]>
-      </description>
-      <source:markdown>The cephalopods appear to favor using their front arms, according to a new study, though their back arms help with locomotion</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/7bgBopDJMdaaQ2IiHQRZrSQ8dyI=/420x240/filters:focal(350x237:351x238)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/22/ae/22aed7dd-782e-4404-bbb2-f9ddde136cab/low-res_3octopus_arm_raise_octopus_americanus_credit__chelsea_bennice.jpg" length="" type="" />
-    </item>    <item>
-      <title>NASA Analysis Shows Sun’s Activity Ramping Up</title>
-      <link>https://www.nasa.gov/science-research/heliophysics/nasa-analysis-shows-suns-activity-ramping-up/</link>
-      <description>
-        <![CDATA[It looked like the Sun was heading toward a historic lull in activity. That trend flipped in 2008, according to new research. The Sun has become increasingly active since 2008, a new NASA study shows. Solar activity is known to fluctuate in cycles of 11 years, but there are longer-term variations that can last decades. [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.nasa.gov/?p=913865</guid>
-    </item>    <item>
-      <title>These Long-Lost 17th-Century Paintings Were Looted by the Nazis. They Just Surfaced at an Ohio Auction House</title>
-      <link>https://www.smithsonianmag.com/smart-news/these-long-lost-17th-century-paintings-were-looted-by-the-nazis-they-just-surfaced-at-an-ohio-auction-house-180987336/</link>
-      <description>
-        <![CDATA[The still lifes were part of the Schloss collection, which was seized in 1943. Auction house officials halted the sale when they learned of the artworks' suspected provenance]]>
-      </description>
-      <source:markdown>The still lifes were part of the Schloss collection, which was seized in 1943. Auction house officials halted the sale when they learned of the artworks&#39; suspected provenance</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/lAqvmk4aqbSBJ_3U0MPLYFY7A-M=/420x240/filters:focal(895x597:896x598)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/07/2c/072ca787-dcb0-495a-afb3-54a7853461da/b39bbe_5e50cc51a0e144d7af1c4cf055b4ce4bmv2.jpeg" length="" type="" />
-    </item>    <item>
-      <title>Half of tech firms plotting restructures as AI hype bites</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/tech_restructures_ai/</link>
-      <description>
-        <![CDATA[<h4>Study also finds M&amp;A and changes to operating model on the way for sector</h4> <p>More than half of tech companies are considering a complete restructure or changing their operating model in response to AI, according to research from the consulting sector.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241929</guid>
-    </item>    <item>
-      <title>PureOS Crimson: August 2025 – Alpha Released</title>
-      <link>https://puri.sm/posts/pureos-crimson-august-2025-alpha-released/</link>
-      <description>
-        <![CDATA[<p>We have released alpha images for PureOS Crimson for all Librem devices and have closed the first milestone!</p>
-        <p>Thank you to all of our supporters and PureOS subscribers who have made this possible.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/pureos-crimson-august-2025-alpha-released/">PureOS Crimson: August 2025 &#8211; Alpha Released</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>We have released alpha images for PureOS Crimson for all Librem devices and have closed the first milestone!
-
-Thank you to all of our supporters and PureOS subscribers who have made this possible.
-
-The post [PureOS Crimson: August 2025 – Alpha Released](https://puri.sm/posts/pureos-crimson-august-2025-alpha-released/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=84330</guid>
-    </item>    <item>
-      <title>Blanket App Now Available</title>
-      <link>https://puri.sm/posts/blanket-app-now-available/</link>
-      <description>
-        <![CDATA[<p>Blanket lets you improve focus and increase your productivity by listening to different ambient sounds.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/blanket-app-now-available/">Blanket App Now Available</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>Blanket lets you improve focus and increase your productivity by listening to different ambient sounds.
-
-The post [Blanket App Now Available](https://puri.sm/posts/blanket-app-now-available/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <enclosure url="https://videos.puri.sm/librem5/apps/blanket.mp4" length="4309458" type="video/mp4" />
-      <guid>cid://https://puri.sm/?p=84346</guid>
-    </item>    <item>
-      <title>Connecting Educators with NASA Data: Learning Ecosystems Northeast in Action</title>
-      <link>https://science.nasa.gov/science-research/earth-science/connecting-educators-with-nasa-data-learning-ecosystems-northeast-in-action/</link>
-      <description>
-        <![CDATA[One of the challenges many teachers face year after year is a sense of working alone. Despite the constant interaction with students many questions often linger: Did the lesson stick? Will students carry this knowledge with them? Will it shape how they see and engage with the world? What can be easy to overlook is […]]]>
-      </description>
-      <guid>cid://https://science.nasa.gov/science-research/earth-science/connecting-educators-with-nasa-data-learning-ecosystems-northeast-in-action/</guid>
-    </item>    <item>
-      <title>Smart-blooded super soldiers: Coming soon from DARPA</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/smartblooded_super_soldiers_coming_soon/</link>
-      <description>
-        <![CDATA[<h4>We remind the world yet again that science fiction is usually a warning, not an aspiration</h4> <p>Look to science fiction and you&#39;ll find plenty of pathways to create super soldiers. There&#39;s cloning or genetic engineering. If that fails, you could try in-utero enhancements, or maybe some cybernetic augmentation. DARPA has a different idea for the real world: inject &#39;em up with super blood.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241928</guid>
-    </item>    <item>
-      <title>Curiosity Blog, Sols 4655-4660: Boxworks With a View</title>
-      <link>https://science.nasa.gov/blog/curiosity-blog-sols-4655-4660-boxworks-with-a-view/</link>
-      <description>
-        <![CDATA[Written by Sharon Wilson Purdy, Planetary Geologist at the Smithsonian National Air and Space Museum Earth planning date: Friday Sept. 12, 2025 Curiosity continues to image, analyze, and traverse through a landscape characterized by higher standing ridges separating low-lying depressions (hollows) — a surface known as the boxwork terrain on Mount Sharp. The science team […]]]>
-      </description>
-      <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-4655-4660-boxworks-with-a-view/</guid>
-    </item>    <item>
-      <title>&#39;Powerful but dangerous&#39; full MCP support beta for ChatGPT arrives</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/full_mcp_support_in_beta_chatgpt/</link>
-      <description>
-        <![CDATA[<h4>&#39;Wow this is dangerous&#39; says Django co-creator, while others call feature a &#39;game-changer&#39;</h4> <p>OpenAI has added a beta of Developer mode to ChatGPT, enabling full read and write support for MCP (Model Context Protocol) tools, though the documentation describes the feature as dangerous.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241924</guid>
-    </item>    <item>
-      <title>How We Came To Know Earth</title>
-      <link>https://www.quantamagazine.org/how-we-came-to-know-earth-20250915/</link>
-      <description>
-        <![CDATA[Climate science is the most significant scientific collaboration in history. This series from Quanta Magazine guides you through basic climate science — from quantum effects to ancient hothouses, from the math of tipping points to the audacity of climate models.            <p>The post <a href="https://www.quantamagazine.org/how-we-came-to-know-earth-20250915/" target="_blank">How We Came To Know Earth</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>Climate science is the most significant scientific collaboration in history. This series from Quanta Magazine guides you through basic climate science — from quantum effects to ancient hothouses, from the math of tipping points to the audacity of climate models.
-
-The post [How We Came To Know Earth](https://www.quantamagazine.org/how-we-came-to-know-earth-20250915/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=154616</guid>
-    </item>    <item>
-      <title>The Ends of the Earth</title>
-      <link>https://www.quantamagazine.org/photos-capture-the-extreme-beautiful-work-of-climate-science-20250915/</link>
-      <description>
-        <![CDATA[Building an accurate model of Earth’s climate requires a lot of data. Photography reveals the extreme efforts scientists have undertaken to measure gases, glaciers, clouds and more.            <p>The post <a href="https://www.quantamagazine.org/photos-capture-the-extreme-beautiful-work-of-climate-science-20250915/" target="_blank">The Ends of the Earth</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <guid>cid://https://www.quantamagazine.org/?p=153967</guid>
-    </item>    <item>
-      <title>The Climate Change Paradox</title>
-      <link>https://www.quantamagazine.org/the-climate-change-paradox-20250915/</link>
-      <description>
-        <![CDATA[Earth’s climate is chaotic and volatile. Climate change is simple and predictable. How can both be true?            <p>The post <a href="https://www.quantamagazine.org/the-climate-change-paradox-20250915/" target="_blank">The Climate Change Paradox</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <guid>cid://https://www.quantamagazine.org/?p=152764</guid>
-    </item>    <item>
-      <title>The Quantum Mechanics of Greenhouse Gases</title>
-      <link>https://www.quantamagazine.org/the-quantum-mechanics-of-greenhouse-gases-20250915/</link>
-      <description>
-        <![CDATA[Earth’s radiation can send some molecules spinning or vibrating, which is what makes them greenhouse gases. This infographic explains how relatively few heat-trapping molecules can have a planetary effect.            <p>The post <a href="https://www.quantamagazine.org/the-quantum-mechanics-of-greenhouse-gases-20250915/" target="_blank">The Quantum Mechanics of Greenhouse Gases</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <guid>cid://https://www.quantamagazine.org/?p=154284</guid>
-    </item>    <item>
-      <title>How Climate Scientists Saw the Future Before It Arrived</title>
-      <link>https://www.quantamagazine.org/how-climate-scientists-saw-the-future-before-it-arrived-20250915/</link>
-      <description>
-        <![CDATA[Over the past 60 years, scientists have largely succeeded in building a computer model of Earth to see what the future holds. One of the most ambitious projects humankind has ever undertaken has now reached a critical moment.            <p>The post <a href="https://www.quantamagazine.org/how-climate-scientists-saw-the-future-before-it-arrived-20250915/" target="_blank">How Climate Scientists Saw the Future Before It Arrived</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <guid>cid://https://www.quantamagazine.org/?p=154018</guid>
-    </item>    <item>
-      <title>Helicopter Training for Artemis Missions</title>
-      <link>https://www.nasa.gov/image-article/helicopter-training-for-artemis-missions/</link>
-      <description>
-        <![CDATA[NASA astronauts Matthew Dominick (left) and Mark Vande Hei (right) prepare to fly out to a landing zone in the Rocky Mountains as part of the certification run for the NASA Artemis course on Aug. 26, 2025. The mountains in northern Colorado offer similar visual illusions and flight environments to the Moon. The newly certified [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=913521</guid>
-    </item>    <item>
-      <title>Dirac audio glitch finally silenced in Windows 11 24H2</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/windows_11_dirac_audio/</link>
-      <description>
-        <![CDATA[<h4>Microsoft removes safeguard hold thanks to updated drivers</h4> <p>Microsoft has resolved a Windows 11 24H2 problem with devices using Dirac audio as the 25H2 update waits in the wings.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241921</guid>
-    </item>    <item>
-      <title>The idea of /usr/sbin has failed in practice</title>
-      <link>https://www.osnews.com/story/143337/the-idea-of-usr-sbin-has-failed-in-practice/</link>
-      <description>
-        <![CDATA[It may be arcane knowledge to most users of UNIX-like systems today, but there is supposed to be a difference between /usr/bin and /usr/sbin; the latter is supposed to be for &#8220;system binaries&#8221;, not needed by most normal users. The Filesystem Hierarchy Standard states that sbin directories are intended to contain &#8220;utilities used for system administration (and other root-only commands)&#8221;, which is quite vague when you think about it. This has led to UNIX-like systems basically just winging it, making the distinction almost entirely arbitrary. For a long time, there has been no strong organizing principle to /usr/sbin that would draw a hard line and create a situation where people could safely leave it out of their $PATH. We could have had a principle of, for example, &#8220;programs that don&#8217;t work unless run by root&#8221;, but no such principle was ever followed for very long (if at all). Instead programs were more or less shoved in /usr/sbin if developers thought they were relatively unlikely to be used by normal people. But &#8216;relatively unlikely&#8217; is not &#8216;never&#8217;, and shortly after people got told to &#8216;run traceroute&#8217; and got &#8216;command not found&#8217; when they tried, /usr/sbin (probably) started appearing in $PATH. ↫ Chris Siebenmann As such, Fedora 42 unifies /usr/bin and /usr/sbin, which is kind of a follow-up to the /usr merge, and serves as a further simplification and clean-up of the file system layout by removing divisions and directories that used to make sense, but no longer really do. Decisions like these have a tendency to upset a small but very vocal group of people, people who often do not even use the distribution implementing the decisions in question in the first place. My suggestions to those people would be to stick to distributions that more closely resemble classic UNIX. Or use a real UNIX. Anyway, these are good moves, and I&#8217;m glad most prominent Linux distributions are not married to decisions made in the &#8217;70s, especially not when they can be undone without users really noticing anything.]]>
-      </description>
-      <guid>cid://https://www.osnews.com/?p=143337</guid>
-    </item>    <item>
-      <title>Even fantasy money can buy a lot of power – just ask Larry Ellison</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/oracle_spending_shares_opinion/</link>
-      <description>
-        <![CDATA[<h4>As doubts grow over who will pay to stuff Oracle&#39;s cloud pipeline, the octogenarian spreads his wings</h4> <p><strong>Opinion</strong>  When does imaginary money come before real? If you had bought Oracle shares on Tuesday last week and sold them on Friday, you might have some real cash. But everything else lives in a gray area.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241922</guid>
-    </item>    <item>
-      <title>Google decides to significantly harm Android security to please lazy OEMs</title>
-      <link>https://www.osnews.com/story/143335/google-decides-to-significantly-harm-android-security-to-please-lazy-oems/</link>
-      <description>
-        <![CDATA[Google continues putting nails in the coffin that is the Android Open Source Project. This time, they&#8217;re changing the way they handle security updates to appease slow, irresponsible Android OEMs, while screwing over everyone else. The basic gist is that instead of providing monthly security updates for OEMs to implement on their Android devices, Google will now move to a quarterly model, publishing only extremely severe issues on a monthly basis. The benefit for OEMs is that for most vulnerabilities, they get three months to distribute (most) fixes instead of just one month, but the downsides are also legion. Vulnerabilities will now be out in the wild for three months instead of just one, and while they&#8217;re shared with OEMs &#8220;privately&#8221;, we&#8217;re talking tends of thousands of pairs of eyes here, so &#8220;privately&#8221; is a bit of a misnomer. The dangers are obvious; these vulnerabilities will be leaked, and they will be abused by malicious parties. Another massive downside related to this change is that Google will now no longer be providing the monthly patches as open source within AOSP, instead only releasing the quarterly patch drops as open source. This means exactly what you think it does: no more monthly security updates from third-party ROMs, unless those third-party ROMs choose to violate the embargo themselves and thus invite all sorts of problems. Extending the patch access window from one month to three is absolutely insane. Google should be striving to shorten this window as much as possible, but instead, they&#8217;re tripling it in length to create a false sense of security. OEMs can now point at their quarterly security updates and claim to be patching vulnerabilities as soon as Google publishes them, while in fact, the unpatched vulnerabilities will have been out in the wild for months by that point. This change is irresponsible, misguided, and done only to please lazy, shitty OEMs to create a false sense of security for marketing purposes.]]>
-      </description>
-      <guid>cid://https://www.osnews.com/?p=143335</guid>
-    </item>    <item>
-      <title>Former FinWise employee may have accessed nearly 700K customer records</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/finwise_insider_data_breach/</link>
-      <description>
-        <![CDATA[<h4>Bank says incident went undetected for over a year before discovery in June</h4> <p>A US fintech biz is writing to nearly 700,000 customers because a former employee may have accessed or acquired their data after leaving the company.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241920</guid>
-    </item>    <item>
-      <title>Nork snoops whip up fake South Korean military ID with help from ChatGPT</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/north_korea_chatgpt_fake_id/</link>
-      <description>
-        <![CDATA[<h4>Kimsuky gang proves that with the right wording, you can turn generative AI into a counterfeit factory</h4> <p>North Korean spies used ChatGPT to generate a fake military ID for use in an espionage campaign against a South Korean defense-related institution, according to new research.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241917</guid>
-    </item>    <item>
-      <title>Avatars for Astronaut Health to Fly on NASA’s Artemis II</title>
-      <link>https://science.nasa.gov/directorates/smd/avatars-for-astronaut-health-nasa-artemis-ii/</link>
-      <description>
-        <![CDATA[NASA announced a trailblazing experiment that aims to take personalized medicine to new heights. The experiment is part of a strategic plan to gather valuable scientific data during the Artemis II mission, enabling NASA to “know before we go” back to the lunar surface and on to Mars. The AVATAR (A Virtual Astronaut Tissue Analog […]]]>
-      </description>
-      <guid>cid://https://science.nasa.gov/directorates/smd/avatars-for-astronaut-health-nasa-artemis-ii/</guid>
-    </item>    <item>
-      <title>China turns the screws on Nvidia with antitrust probe</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/china_nvidia_antitrust/</link>
-      <description>
-        <![CDATA[<h4>Chip giant accused of breaching conditions of $6.9B Mellanox takeover</h4> <p>China has dealt Nvidia another blow, finding the chipmaker in violation of the country&#39;s anti-monopoly Law and escalating a long-running regulatory headache into a full investigation.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241919</guid>
-    </item>    <item>
-      <title>Starlink outage knocks tens of thousands offline worldwide</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/starlink_outage/</link>
-      <description>
-        <![CDATA[<h4>Downdetector logged 40,000 reports before service flickered back</h4> <p>Elon Musk&#39;s Starlink satellite broadband network went dark today as thousands of users around the globe reported connectivity issues.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241918</guid>
-    </item>    <item>
-      <title>Jaguar Land Rover supply chain workers must get Covid-style support, says union</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/covidstyle_furlough_schemes_for_jlr/</link>
-      <description>
-        <![CDATA[<h4>As post-cyberattack layoffs begin, labor org argues UK goverment should step in</h4> <p>The UK&#39;s chief automotive workers&#39; union is calling on the government to establish a Covid-esque furlough scheme for the thousands of individuals who face losing their jobs due to the cyber-related downtime at Jaguar Land Rover.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241916</guid>
-    </item>    <item>
-      <title>Weird Ways to Observe the Moon</title>
-      <link>https://science.nasa.gov/solar-system/skywatching/night-sky-network/weird-ways-to-observe-the-moon/</link>
-      <description>
-        <![CDATA[International Observe the Moon Night is on October 4, 2025, this year– but you can observe the Moon whenever it’s up, day or night! While binoculars and telescopes certainly reveal incredible details of our neighbor’s surface, bringing out dark seas, bright craters, and numerous odd fissures and cracks, these tools are not the only way to […]]]>
-      </description>
-      <guid>cid://https://science.nasa.gov/solar-system/skywatching/night-sky-network/weird-ways-to-observe-the-moon/</guid>
-    </item>    <item>
-      <title>Bharti big shots storm BT boardroom after £3.6B raid</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/bharti_big_shots_storm_bt/</link>
-      <description>
-        <![CDATA[<h4>Sign &#39;relationship agreement&#39; as Bharti Mittal and Vittal take non-exec directorships</h4> <p>BT - Britain&#39;s former state-owned telecoms monopoly - has confirmed that execs from Bharti Global, its largest shareholder, are joining the board with immediate effect.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241914</guid>
-    </item>    <item>
-      <title>META Found Guilty of Mishandling Women’s Health Information</title>
-      <link>https://puri.sm/posts/meta-found-guilty-of-mishandling-womens-health-information/</link>
-      <description>
-        <![CDATA[<p>A federal jury in San Francisco found Meta liable under the California Invasion of Privacy Act for improperly collecting and using sensitive reproductive health data from users of the Flo Health app.</p>
-        <p>The case revealed that Meta’s embedded SDKs harvested intimate details—like menstrual cycles and pregnancy intentions—without informed consent, violating state privacy laws.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/meta-found-guilty-of-mishandling-womens-health-information/">META Found Guilty of Mishandling Women’s Health Information</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <guid>cid://https://puri.sm/?p=84312</guid>
-    </item>    <item>
-      <title>UK.gov decides tech projects worth billions are major but not &#39;mega&#39;</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/ukgov_decides_tech_projects_are/</link>
-      <description>
-        <![CDATA[<h4>Ministers concerned Treasury governance team may be distracted about supervising vital efforts</h4> <p>UK ministers have questioned the government&#39;s decision to seemingly downgrade huge public sector tech projects as HM Treasury takes a greater role in so-called &#34;mega-projects.&#34;…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241900</guid>
-    </item>    <item>
-      <title>China is selling its Great Firewall censorship tools to countries around the world</title>
-      <link>https://www.osnews.com/story/143333/china-is-selling-its-great-firewall-censorship-tools-to-countries-around-the-world/</link>
-      <description>
-        <![CDATA[We&#8217;re all aware of the Chinese Great Firewall, the tool the Chinese government uses for mass censorship and for safeguarding and strengthening its totalitarian control over the country and its population. It turns out that through a Chinese shell company called Geedge Networks, China is also selling the Great Firewall to other totalitarian regimes around the world. Thanks to a massive leak of 500 GB of source code, work logs, and internal communication records, we now have more insight into how the Great Firewall works than ever before, leading to in-depth reports like this one from InterSecLab. The findings are chilling, but not surprising. First and foremost, Geedge is selling the Great Firewall to a variety of totalitarian regimes around the world, namely Kazakhstan, Ethiopia, Pakistan, Myanmar, and another unidentified country. These governments can then ask Geedge to make specific changes and ask them to focus on specific capabilities to further enhance the functionality of the Great Firewall, but what it can already do today is bad enough. The suite of products offered by Geedge Networks allow a client government unprecedented access to internet user data and enables governments to use this data to police national and regional networks. These capabilities include deep packet inspection for advanced classification, interception, and manipulation of application and user traffic; monitoring the geographic location of mobile subscribers in real time; analyzing aggregated network traffic in specific areas, such as during a protest or event; flagging unusual traffic patterns as suspicious; creating tailored blocking rules to obstruct access to a website or application (such as a VPN (Virtual Private Network) or circumvention tool); throttling traffic to specific services; identifying individual internet users for accessing websites or using circumvention tools or VPNs; assigning individual internet users reputation scores based on their online activities; and infecting users with malware through in-path injection. ↫ The Internet Coup: A Technical Analysis on How a Chinese Company is Exporting The Great Firewall to Autocratic Regimes Internet service providers participate in the implementation of the suite of tools, either freely or by force, and since the tools are platform-agnostic it doesn&#8217;t matter which platforms people are using in any given country, making international sanctions effectively useless. It also won&#8217;t surprise you that Geedge steals both proprietary and open source code, without regards for licensing terms. Furthermore, China is allowing provinces and regions within its borders to tailor and adapt the Great Firewall to their own local needs, providing a blueprint for how to export the suite of tools to other countries. With quite a few countries sliding ever further towards authoritarianism, I&#8217;m sure even places not traditionally thought of as totalitarian are lustfully looking at the Chinese Great Firewall, wishing they had something similar in their own countries.]]>
-      </description>
-      <guid>cid://https://www.osnews.com/?p=143333</guid>
-    </item>    <item>
-      <title>UK Lords take aim at Ofcom&#39;s &#39;child-protection&#39; upgrades to Online Safety Act</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/uk_lords_take_aim_at/</link>
-      <description>
-        <![CDATA[<h4>Peers will quiz campaigners on whether Ofcom&#39;s new measures will actually work, or just add more compliance pain</h4> <p>The House of Lords is about to put the latest child-protection plans of UK regulator the Office of Communications (Ofcom) under the microscope.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241902</guid>
-    </item>    <item>
-      <title>Everything about Psion, in one place</title>
-      <link>https://www.osnews.com/story/143331/everything-about-psion-in-one-place/</link>
-      <description>
-        <![CDATA[Celebrate classic Psion machines with us, from the original Organiser, through the Series 3 and Series 5, all the way to the netBook. Get help with your classic palmtop computer, or help to develop software and hardware that will bring these devices into the 21st Century. ↫ Psion Community website A brand new one-stop shop for everything related to keeping Psion machines going. A library of all the software, lists of all the ROM images, tons of development resources, and much more.]]>
-      </description>
-      <guid>cid://https://www.osnews.com/?p=143331</guid>
-    </item>    <item>
-      <title>Java 25’s new CPU-time profiler</title>
-      <link>https://www.osnews.com/story/143329/java-25s-new-cpu-time-profiler/</link>
-      <description>
-        <![CDATA[More than three years in the making, with a concerted effort starting last year, my CPU-time profiler landed in Java with OpenJDK 25. It’s an experimental new profiler/method sampler that helps you find performance issues in your code, having distinct advantages over the current sampler. This is what this week’s and next week’s blog posts are all about. This week, I will cover why we need a new profiler and what information it provides; next week, I’ll cover the technical internals that go beyond what’s written in the JEP. I will quote the JEP 509 quite a lot, thanks to Ron Pressler; it reads like a well-written blog post in and of itself. ↫ Johannes Bechberger There&#8217;s also a third entry detailing queue sizing, and a fourth entry going into the removal of redundant synchronisation.]]>
-      </description>
-      <guid>cid://https://www.osnews.com/?p=143329</guid>
-    </item>    <item>
-      <title>Curious connections: Voyager probes and Sinclair ZX Spectrum</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/curious_connections_between_the_voyager/</link>
-      <description>
-        <![CDATA[<h4>There&#39;s more than warm power supplies and wonky capacitors</h4> <p><strong>Opinion</strong>  The Voyager space probes are dear to the hearts of every geek who can remember the 1980s.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241889</guid>
-    </item>    <item>
-      <title>After deleting a web server, I started checking what I typed before hitting &#39;Enter&#39;</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/who_me/</link>
-      <description>
-        <![CDATA[<h4>Student thought she had the hang of this &#39;Linux&#39; thing and its kooky CLI</h4> <p><strong>Who, Me?</strong>  It&#39;s Monday morning, and a week of possibilities presents itself to IT pros everywhere. Which is why <i>The Register</i> brings you another edition of Who, Me? It&#39;s the reader-contributed column in which we remind you what not to do with your day, your week, and your career, by sharing stories of your worst workplace mistakes and the contortions you made to survive them.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241888</guid>
-    </item>    <item>
-      <title>Open source Cloud Hypervisor adds (maybe futile) no-AI-code policy</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/cloud_hypervisor_no_ai_policy/</link>
-      <description>
-        <![CDATA[<h4>Virtualization tool for hyperscalers now scales to 8,192 vCPUs</h4> <p>The Cloud Hypervisor project has introduced a No AI code policy.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241913</guid>
-    </item>    <item>
-      <title>Cyber-scam camp operators shift operations to vulnerable countries as sanctions strike</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/asia_tech_news_roundup/</link>
-      <description>
-        <![CDATA[<h4>PLUS: Japan woos Micron, again; China launches chip dumping probe; Mitsubishi expands opsec empire; and more!</h4> <p><strong>Asia in Brief</strong>  Criminals appear to be moving cyber-scam centers to vulnerable countries.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241912</guid>
     </item>
   </channel>
 </rss>

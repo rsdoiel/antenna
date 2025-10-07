@@ -4,7 +4,7 @@
   <channel>
     <title>Writing</title>
     <link>http://localhost:8000/writingxml</link>
-    <lastBuildDate>06 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>07 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -126,10 +126,6 @@ The post [Robert Redford, RIP](https://johnaugust.com/2025/robert-redford-rip) f
 
 The post [Places, Everyone](https://johnaugust.com/2025/places-everyone) first appeared on [John August](https://johnaugust.com).</source:markdown>
       <guid>cid://https://johnaugust.com/?p=23449</guid>
-    </item>    <item>
-      <title>How To Write Dialogue in a Story</title>
-      <link>https://www.literatureandlatte.com/blog/how-to-write-dialogue-in-a-story</link>
-      <guid>cid://https://www.literatureandlatte.com/?p=7909</guid>
     </item>
   </channel>
 </rss>
