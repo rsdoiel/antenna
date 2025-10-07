@@ -4,11 +4,115 @@
   <channel>
     <title>Science and Technology</title>
     <link>http://localhost:8000/science_and_technologyxml</link>
-    <lastBuildDate>07 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>07 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>How your mouse could eavesdrop and rat you out</title>
+      <title>Qualcomm gobbles up Arduino</title>
+      <link>https://www.osnews.com/story/143498/qualcomm-gobbles-up-arduino/</link>
+      <description>
+        <![CDATA[It was good while it lasted, I guess. Arduino will retain its independent brand, tools, and mission, while continuing to support a wide range of microcontrollers and microprocessors from multiple semiconductor providers as it enters this next chapter within the Qualcomm family. Following this acquisition, the 33M+ active users in the Arduino community will gain access to Qualcomm Technologies’ powerful technology stack and global reach. Entrepreneurs, businesses, tech professionals, students, educators, and hobbyists will be empowered to rapidly prototype and test new solutions, with a clear path to commercialization supported by Qualcomm Technologies’ advanced technologies and extensive partner ecosystem. ↫ Qualcomm&#8217;s press release Qualcomm&#8217;s track record when it comes to community engagement, open source, and long-term support are absolutely atrocious, and there&#8217;s no way Arduino will be able to withstand the pressures from management. We&#8217;ve seen this exact story play out a million times, and it always begins with lofty promises, and always ends with all of them being broken. I have absolutely zero faith Arduino will be able to continue to do its thing like it has. Arduino devices are incredibly popular, and it makes sense for Qualcomm to acquire them. If I were using Arduino&#8217;s for my open source projects, I&#8217;d be a bit on edge right now.]]>
+      </description>
+      <source:markdown>It was good while it lasted, I guess. Arduino will retain its independent brand, tools, and mission, while continuing to support a wide range of microcontrollers and microprocessors from multiple semiconductor providers as it enters this next chapter within the Qualcomm family. Following this acquisition, the 33M+ active users in the Arduino community will gain access to Qualcomm Technologies’ powerful technology stack and global reach. Entrepreneurs, businesses, tech professionals, students, educators, and hobbyists will be empowered to rapidly prototype and test new solutions, with a clear path to commercialization supported by Qualcomm Technologies’ advanced technologies and extensive partner ecosystem. ↫ Qualcomm’s press release Qualcomm’s track record when it comes to community engagement, open source, and long-term support are absolutely atrocious, and there’s no way Arduino will be able to withstand the pressures from management. We’ve seen this exact story play out a million times, and it always begins with lofty promises, and always ends with all of them being broken. I have absolutely zero faith Arduino will be able to continue to do its thing like it has. Arduino devices are incredibly popular, and it makes sense for Qualcomm to acquire them. If I were using Arduino’s for my open source projects, I’d be a bit on edge right now.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143498</guid>
+    </item>    <item>
+      <title>For the First Time Ever, You Can See Stunning, Centuries-Old Murals at England&#39;s Oldest Hospital</title>
+      <link>https://www.smithsonianmag.com/smart-news/for-the-first-time-ever-you-can-see-stunning-centuries-old-murals-at-englands-oldest-hospital-180987472/</link>
+      <description>
+        <![CDATA[The biblical scenes by William Hogarth are a highlight of the North Wing at St. Bartholomew's Hospital in London, which is now open for public tours]]>
+      </description>
+      <source:markdown>The biblical scenes by William Hogarth are a highlight of the North Wing at St. Bartholomew&#39;s Hospital in London, which is now open for public tours</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/_m0il5XwHocW8R1AN7fGis-gWD4=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/af/55/af55b430-8706-4989-beb1-40c48a1b5124/murals.png" length="" type="" />
+    </item>    <item>
+      <title>FCC kicks off &#39;Space Month&#39; with vow to fast-track satellite licensing</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/07/fcc_satellite_licensing/</link>
+      <description>
+        <![CDATA[<h4>Agency aims to replace its default &#39;no&#39; with default &#39;yes&#39; while overhauling rules for operators</h4> <p>The US Federal Communications Commission has launched &#34;Space Month,&#34; with Chairman Brendan Carr saying that &#34;we&#39;ll replace a default to no at the agency to a default to yes&#34; for satellite licensing requests.…</p>]]>
+      </description>
+      <source:markdown>#### Agency aims to replace its default &#39;no&#39; with default &#39;yes&#39; while overhauling rules for operators
+
+The US Federal Communications Commission has launched &#34;Space Month,&#34; with Chairman Brendan Carr saying that &#34;we&#39;ll replace a default to no at the agency to a default to yes&#34; for satellite licensing requests.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242355</guid>
+    </item>    <item>
+      <title>Nearly a year after attack, US medical scanning biz gets clear image of stolen patient data</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/07/10_months_later_us_medical/</link>
+      <description>
+        <![CDATA[<h4>No fraud monitoring and no apology after miscreants make off with medical, financial data</h4> <p>Florida-based Doctors Imaging Group has admitted that the sensitive medical and financial data of 171,862 patients was stolen during the course of a November 2024 cyberattack.…</p>]]>
+      </description>
+      <source:markdown>#### No fraud monitoring and no apology after miscreants make off with medical, financial data
+
+Florida-based Doctors Imaging Group has admitted that the sensitive medical and financial data of 171,862 patients was stolen during the course of a November 2024 cyberattack.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242348</guid>
+    </item>    <item>
+      <title>Police and military radio maker BK Technologies cops to cyber break-in</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/07/police_and_military_radio_maker_bk_admits_breach/</link>
+      <description>
+        <![CDATA[<h4>Florida comms outfit serving cops, firefighters, and the military says hackers pinched some employee data but insists its systems stayed online</h4> <p>BK Technologies, the Florida-based maker of mission-critical radios for US police, fire, and defense customers, has confessed to a cyber intrusion that briefly rattled its IT systems last month.…</p>]]>
+      </description>
+      <source:markdown>#### Florida comms outfit serving cops, firefighters, and the military says hackers pinched some employee data but insists its systems stayed online
+
+BK Technologies, the Florida-based maker of mission-critical radios for US police, fire, and defense customers, has confessed to a cyber intrusion that briefly rattled its IT systems last month.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242353</guid>
+    </item>    <item>
+      <title>OpenAI bans suspected Chinese accounts using ChatGPT to plan surveillance</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/07/openai_bans_suspected_china_accounts/</link>
+      <description>
+        <![CDATA[<h4>It also banned some suspected Russian accounts trying to create influence campaigns and malware</h4> <p>OpenAI has banned ChatGPT accounts believed to be linked to Chinese government entities attempting to use AI models to surveil individuals and social media accounts.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### It also banned some suspected Russian accounts trying to create influence campaigns and malware
+
+OpenAI has banned ChatGPT accounts believed to be linked to Chinese government entities attempting to use AI models to surveil individuals and social media accounts.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242351</guid>
+    </item>    <item>
+      <title>Trio who made foundational quantum computing discovery bag Nobel physics prize</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/07/trio_who_showed_macroscale_quantum/</link>
+      <description>
+        <![CDATA[<h4>Studies at UC Berkeley in the 1980s paved the way for quantum computing and cryptography</h4> <p>Three researchers in sub-atomic physics have been awarded a Nobel prize for work which helped lay the foundations for quantum computing.…</p>]]>
+      </description>
+      <source:markdown>#### Studies at UC Berkeley in the 1980s paved the way for quantum computing and cryptography
+
+Three researchers in sub-atomic physics have been awarded a Nobel prize for work which helped lay the foundations for quantum computing.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242349</guid>
+    </item>    <item>
+      <title>JetBrains backs open AI coding standard that could gnaw at VS Code dominance</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/07/jetbrains_acp_vs_code/</link>
+      <description>
+        <![CDATA[<h4>Google and Zed have already adopted ACP – will Microsoft now follow?</h4> <p>JetBrains has joined Google and Zed Industries in adopting the fledgling Agent Client Protocol (ACP), a standard for how AI agents interact with code editors and integrated development environments (IDEs).…</p>]]>
+      </description>
+      <source:markdown>#### Google and Zed have already adopted ACP – will Microsoft now follow?
+
+JetBrains has joined Google and Zed Industries in adopting the fledgling Agent Client Protocol (ACP), a standard for how AI agents interact with code editors and integrated development environments (IDEs).…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242346</guid>
+    </item>    <item>
+      <title>Rare &#39;Pink Meanie&#39; Jellyfish Are Blooming Off the Coast of Texas</title>
+      <link>https://www.smithsonianmag.com/smart-news/rare-pink-meanie-jellyfish-are-blooming-off-the-coast-of-texas-180987454/</link>
+      <description>
+        <![CDATA[The large, vibrantly hued creatures can weigh up to 50 pounds and have tentacles up to 70 feet long]]>
+      </description>
+      <source:markdown>The large, vibrantly hued creatures can weigh up to 50 pounds and have tentacles up to 70 feet long</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/m5FlBGsEvol1kkDWMMPR_OHBXi8=/420x240/filters:focal(330x248:331x249)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f8/48/f848df6c-3376-4c07-879a-ab28c2aec6f4/86307765007-pink-meanie-jellyfish-on-mustang-island-sept-2025.webp" length="" type="" />
+    </item>    <item>
+      <title>Clop raid on Oracle E-Business Suite started months ago, researchers warn</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/07/clop_oracle_ebs/</link>
+      <description>
+        <![CDATA[<h4>Strap in, admins. Exploits began in August and now the code is out there</h4> <p>Security boffins say the Clop cybercriminal gang has been rummaging through Oracle&#39;s E-Business Suite (EBS) for months – and now the exploit code&#39;s out there for anyone to grab.…</p>]]>
+      </description>
+      <source:markdown>#### Strap in, admins. Exploits began in August and now the code is out there
+
+Security boffins say the Clop cybercriminal gang has been rummaging through Oracle&#39;s E-Business Suite (EBS) for months – and now the exploit code&#39;s out there for anyone to grab.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242345</guid>
+    </item>    <item>
+      <title>Qualcomm solders Arduino to its edge AI ambitions, debuts Raspberry Pi rival</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/07/qualcomm_arduino_acquisition/</link>
+      <description>
+        <![CDATA[<h4>Cali chip giant insists single-board computer house will remain independent</h4> <p>Qualcomm has acquired Arduino, maker of microcontrollers (and now single-board computers), in a move designed to boost its presence in edge computing, as evidenced by a new Arduino product based on one of its Dragonwing chips.…</p>]]>
+      </description>
+      <source:markdown>#### Cali chip giant insists single-board computer house will remain independent
+
+Qualcomm has acquired Arduino, maker of microcontrollers (and now single-board computers), in a move designed to boost its presence in edge computing, as evidenced by a new Arduino product based on one of its Dragonwing chips.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242347</guid>
+    </item>    <item>
+      <title>How your mouse could eavesdrop on you and rat you out</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/07/mouse_microphone_security/</link>
       <description>
         <![CDATA[<h4>Mic-E-Mouse can roar by literally vibe hacking speech</h4> <p>The mouse sitting next to you can be turned into a microphone thanks to some cunning use of its sensors to pick up vibrations from your voice in an attack dubbed Mic-E-Mouse.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>

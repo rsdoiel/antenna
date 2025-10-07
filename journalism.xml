@@ -4,10 +4,18 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>http://localhost:8000/journalismxml</link>
-    <lastBuildDate>07 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>07 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Watchdog journalism’s future may lie in the work of independent reporters like Pablo Torre</title>
+      <link>https://www.niemanlab.org/2025/10/watchdog-journalisms-future-may-lie-in-the-work-of-independent-reporters-like-pablo-torre/</link>
+      <description>
+        <![CDATA[In September 2025, podcaster Pablo Torre published an investigation alleging that the NBA’s Los Angeles Clippers may have used a side deal to skirt the league’s strict salary cap rules. His reporting, aired on multiple episodes of “Pablo Torre Finds Out,” focused on star forward Kawhi Leonard. Leonard, one of the NBA’s most sought-after free agents, signed a...]]>
+      </description>
+      <source:markdown>In September 2025, podcaster Pablo Torre published an investigation alleging that the NBA’s Los Angeles Clippers may have used a side deal to skirt the league’s strict salary cap rules. His reporting, aired on multiple episodes of “Pablo Torre Finds Out,” focused on star forward Kawhi Leonard. Leonard, one of the NBA’s most sought-after free agents, signed a...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=243787</guid>
+    </item>    <item>
       <title>Ned Fulmer is back; I’m worried</title>
       <link>https://dailytrojan.com/2025/10/07/ned-fulmer-is-back-im-worried/</link>
       <description>
@@ -409,6 +417,17 @@ The Bruins were flying high for nearly four straight weeks, sitting atop the Big
       <source:markdown>_This post was updated Oct. 5 at 9:48 p.m._
 The Bruins Esports &#38; Gaming Lounge opened in Ackerman Union on Tuesday to positive reactions from students.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=494442</guid>
+    </item>    <item>
+      <title>Veterans receive support resources in transition to civilian life</title>
+      <link>https://canyonsnews.com/veterans-resource-fair/</link>
+      <description>
+        <![CDATA[<p>For thousands of veterans, finding the right resources is a long and&#8230;</p>
+        <p>The post <a href="https://canyonsnews.com/veterans-resource-fair/">Veterans receive support resources in transition to civilian life</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>]]>
+      </description>
+      <source:markdown>For thousands of veterans, finding the right resources is a long and…
+
+The post [Veterans receive support resources in transition to civilian life](https://canyonsnews.com/veterans-resource-fair/) appeared first on [Canyons News](https://canyonsnews.com).</source:markdown>
+      <guid>cid://https://canyonsnews.com/?p=55586</guid>
     </item>    <item>
       <title>Canyon Country hosts Cacao and Chakra Flow Ceremony</title>
       <link>https://canyonsnews.com/yoga-feature/</link>

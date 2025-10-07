@@ -4,10 +4,28 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>http://localhost:8000/librariesxml</link>
-    <lastBuildDate>07 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>07 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Magnolia Leaves, by Mary Weston Fordham</title>
+      <link>https://standardebooks.org/ebooks/mary-weston-fordham/magnolia-leaves</link>
+      <description>
+        <![CDATA[A collection of poems by Mary Weston Fordham.]]>
+      </description>
+      <source:markdown>A collection of poems by Mary Weston Fordham.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/mary-weston-fordham/magnolia-leaves/downloads/mary-weston-fordham_magnolia-leaves.epub?source=feed" length="463474" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/mary-weston-fordham/magnolia-leaves</guid>
+    </item>    <item>
+      <title>Recollections of Full Years, by Helen Herron Taft</title>
+      <link>https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years</link>
+      <description>
+        <![CDATA[Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.]]>
+      </description>
+      <source:markdown>Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/helen-herron-taft_recollections-of-full-years.epub?source=feed" length="10742334" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years</guid>
+    </item>    <item>
       <title>Guest Post — “Have You Proved You’re Human Today?” Open Content and Web Harvesting in the AI Era</title>
       <link>https://scholarlykitchen.sspnet.org/2025/10/07/guest-post-have-you-proved-youre-human-today-open-content-and-web-harvesting-in-the-ai-era/</link>
       <description>
@@ -68,10 +86,10 @@ The post [Guest Post — Manifesto Time: Do You Need a Publishing Manifesto?](ht
       <title>ARL Libraries Celebrate Banned Books Week 2025</title>
       <link>https://www.arl.org/blog/arl-libraries-celebrate-banned-books-week-2025/</link>
       <description>
-        <![CDATA[<p>Last Updated on October 3, 2025, 12:49 pm ET Banned Books Week celebrates the freedom to read and calls attention to the harms of censorship by spotlighting current and historical...</p>
+        <![CDATA[<p>Last Updated on October 7, 2025, 11:24 am ET Banned Books Week celebrates the freedom to read and calls attention to the harms of censorship by spotlighting current and historical...</p>
         <p>The post <a href="https://www.arl.org/blog/arl-libraries-celebrate-banned-books-week-2025/">ARL Libraries Celebrate Banned Books Week 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on October 3, 2025, 12:49 pm ET Banned Books Week celebrates the freedom to read and calls attention to the harms of censorship by spotlighting current and historical...
+      <source:markdown>Last Updated on October 7, 2025, 11:24 am ET Banned Books Week celebrates the freedom to read and calls attention to the harms of censorship by spotlighting current and historical...
 
 The post [ARL Libraries Celebrate Banned Books Week 2025](https://www.arl.org/blog/arl-libraries-celebrate-banned-books-week-2025/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=46250</guid>

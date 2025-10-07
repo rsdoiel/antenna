@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="css/site.css" />
   <script type="module" src="modules/date_filter.js"></script>
   <meta name="generator" content="antenna/0.0.9">
-  <meta name="date" content="2025-10-07T06:10:07-07:00">
+  <meta name="date" content="2025-10-07T11:09:53-07:00">
 </head>
 <body>
   <header>
@@ -57,6 +57,430 @@
       </address>
     </article>
 
+    <article data-published="2025-10-07T19:00:00Z" data-link="https://blog.jim-nielsen.com/2025/og-images-via-data-attributes/">
+      <h1>Social Share Imagery via a Data Attribute</h1>
+
+(date: 2025-10-07)
+      <p>
+      <p>I’ve done something few on the internet do. I’ve changed my mind.</p>
+<p><img src="https://cdn.jim-nielsen.com/blog/2025/social-share-meme.jpg" alt="Double take meme of girl with a disgusted face on one side then the same girl with a face of changed opinion. Both faces have the text “og:image” superimposed." /></p>
+<p><a href="https://blog.jim-nielsen.com/2025/rip-browsers/">A</a> <a href="https://blog.jim-nielsen.com/2025/npm-risks/">few</a> <a href="https://blog.jim-nielsen.com/2025/my-antis/">posts</a> on my blog have started to unfurl social share imagery.</p>
+<p><img src="https://cdn.jim-nielsen.com/blog/2025/social-share-preview.png" alt="Screenshot of a post from @jimniels@mastodon.social showing a link to blog.jim-nielsen.com and an accompanying og:image preview." /></p>
+<p>You might be wondering, “Wait Jim I thought you hated those things?”</p>
+<p>It’s not that I hate social share imagery. I just think…well, <a href="https://blog.jim-nielsen.com/2021/quibbles-with-social-share-imagery/">I’ve shared my thoughts before</a> (even made <a href="https://blog.jim-nielsen.com/2024/omgimg/">a game</a>) so I won’t get on my soapbox.</p>
+<p>But I think these “previews” have their place and, when used as a preview — i.e. an opportunity to graphically depict a brief portion of the actual, underlying content — these function well <em>in service of readers</em>.</p>
+<p>For example, I often write posts that have zero images in them. They’re pure text. I don’t burden myself with the obligation to generate a graphical preview of the ideas contained in those posts.</p>
+<p>But, sometimes, I create posts that have <a href="https://blog.jim-nielsen.com/2025/mac-app-flea-market/">lots of imagery in them</a>, or even just <a href="https://blog.jim-nielsen.com/2025/casing-on-the-web/">a good meme-like photo</a> and it feels like a shame to <em>not</em> surface that imagery in some way.</p>
+<p>So, in service of that pursuit, I set out to resolve how I could do <a href="https://ogp.me">og:images</a> in my posts.</p>
+<p>It’s not as easy as “just stick it your front-matter” because <a href="https://blog.jim-nielsen.com/2022/markdown-sans-front-matter/">my markdown files don’t use front-matter</a>. And I didn’t want to “just add front-matter”. I have my own idiosyncratic way of writing markdown for my blog, which means I need my own idiosyncratic way of denoting “this post has an og:image and here’s the URL”.</p>
+<p>After giving it some thought, I realized that all my images are expressed in markdown as HTML (this lets me easily add attributes like <code>alt</code>, <code>width</code>, and <code>height</code>) so if I wanted to mark one of my images as the “preview” image for a post, I could just add a special data attribute like so:</p>
+<pre><code class="language-language">You guys, I made the funniest image to depict this:
+
+&lt;img data-og-image src=&quot;&quot; width=&quot;&quot; height=&quot;&quot; alt=&quot;&quot;&gt;
+
+Isn’t that hilarious?
+
+</code></pre>
+<p>Then my markdown processor can extract that piece of meta information and surface it to each post template, essentially like this:</p>
+<pre><code class="language-language">&lt;html&gt;
+  &lt;title&gt;{post.title}&lt;/title&gt;
+  {post.ogimage &amp;&amp;
+    &lt;meta property=&quot;og:image&quot; content={post.ogimage}&gt;}
+  &lt;body&gt;
+    &lt;h1&gt;{post.title}&lt;/h1&gt;
+    {post.content}
+
+</code></pre>
+<p>I love this because it allows me to leverage existing mechanisms in both the authoring and development processes (data attributes in HTML that become metadata on the <code>post</code> object), without needing to introduce an entirely new method of expression (e.g. front-matter).</p>
+<p>It also feels good because:</p>
+<ol>
+<li><strong>It’s good for me</strong>. It doesn’t require any additional work on my part. I don’t have to create additional images for my posts. I’m merely marking images I’ve already created — which were done in service of a post’s content — as “previews” for the post.</li>
+<li><strong>It’s good for users</strong>. Readers of my site get image previews that are actually, well, previews — e.g. a graphical representation that will contextually reappear in the post, (as opposed to an image template whose contents do nothing to provide an advanced graphical preview of what’s to follow in the post itself).</li>
+</ol>
+<p>It’s technology in service of content, rather than content in service of technology.</p>
+<p>Or at least that’s what I like to tell myself :)</p>
+<hr />
+<p>Reply via:</p>
+<p><a href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/og-images-via-data-attributes/">Email</a><br />
+· <a href="https://mastodon.social/@jimniels">Mastodon</a> ·</p>
+<p><a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a></p>
+
+      <address>
+        <a href="https://blog.jim-nielsen.com/2025/og-images-via-data-attributes/">https://blog.jim-nielsen.com/2025/og-images-via-data-attributes/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T17:49:21Z" data-link="https://learn.microsoft.com/en-us/windows/ai/new-windows-ml/overview">
+      <h1>What is Windows ML</h1>
+
+(date: 2025-10-07)
+      <p>
+      <p>The post <a href="https://learn.microsoft.com/en-us/windows/ai/new-windows-ml/overview">What is Windows ML</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+
+      <address>
+        <a href="https://learn.microsoft.com/en-us/windows/ai/new-windows-ml/overview">https://learn.microsoft.com/en-us/windows/ai/new-windows-ml/overview</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T17:48:10Z" data-link="https://learn.microsoft.com/en-us/windows/ai/npu-devices/">
+      <h1>Copilot+ PCs Developer Guide</h1>
+
+(date: 2025-10-07)
+      <p>
+      <p>The post <a href="https://learn.microsoft.com/en-us/windows/ai/npu-devices/">Copilot+ PCs Developer Guide</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+
+      <address>
+        <a href="https://learn.microsoft.com/en-us/windows/ai/npu-devices/">https://learn.microsoft.com/en-us/windows/ai/npu-devices/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T17:46:14Z" data-link="https://learn.microsoft.com/en-us/windows/ai/toolkit/">
+      <h1>Overview for the AI Toolkit for Visual Studio Code</h1>
+
+(date: 2025-10-07)
+      <p>
+      <p>The post <a href="https://learn.microsoft.com/en-us/windows/ai/toolkit/">Overview for the AI Toolkit for Visual Studio Code</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+
+      <address>
+        <a href="https://learn.microsoft.com/en-us/windows/ai/toolkit/">https://learn.microsoft.com/en-us/windows/ai/toolkit/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T17:44:44Z" data-link="https://learn.microsoft.com/en-us/windows/ai/apis/phi-silica-lora?tabs=csharp0">
+      <h1>LoRA Fine-Tuning for Phi Silica</h1>
+
+(date: 2025-10-07)
+      <p>
+      <p>The post <a href="https://learn.microsoft.com/en-us/windows/ai/apis/phi-silica-lora?tabs=csharp0">LoRA Fine-Tuning for Phi Silica</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+
+      <address>
+        <a href="https://learn.microsoft.com/en-us/windows/ai/apis/phi-silica-lora?tabs=csharp0">https://learn.microsoft.com/en-us/windows/ai/apis/phi-silica-lora?tabs=csharp0</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T17:24:12Z" data-link="https://lithub.com/a-new-moomins-movie-is-on-the-way/">
+      <h1>A new Moomins movie is on the way.</h1>
+
+(date: 2025-10-07)
+      <p>
+      <p>Those loveable Finnish trolls are coming to the American movies! Writer and artist Tove Jansson created the Moomins in the 1940s and the characters have since become a global phenomenon, appearing in books, comics, TV series, movies, and theme parks</p>
+
+      <address>
+        <a href="https://lithub.com/a-new-moomins-movie-is-on-the-way/">https://lithub.com/a-new-moomins-movie-is-on-the-way/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T17:21:29Z" data-link="https://www.doomsdayscenario.co/p/there-is-no-budget-deal-to-be-made">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-10-07)
+      <p>
+      <p>There is no budget &quot;deal&quot; to be made.</p>
+
+      <address>
+        <a href="https://www.doomsdayscenario.co/p/there-is-no-budget-deal-to-be-made">https://www.doomsdayscenario.co/p/there-is-no-budget-deal-to-be-made</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T16:52:01Z" data-link="https://www.pbs.org/newshour/politics/at-the-center-of-shutdown-fight-health-care-is-one-of-the-most-intractable-issues-in-congress">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-10-07)
+      <p>
+      <p>At the center of shutdown fight, health care is one of the most intractable (also consequential) issues in Congress.</p>
+
+      <address>
+        <a href="https://www.pbs.org/newshour/politics/at-the-center-of-shutdown-fight-health-care-is-one-of-the-most-intractable-issues-in-congress">https://www.pbs.org/newshour/politics/at-the-center-of-shutdown-fight-health-care-is-one-of-the-most-intractable-issues-in-congress</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T16:47:22Z" data-link="https://kottke.org/25/10/0047672-the-worlds-wind-and-solar">
+      <h1> &#8220;The world&#8217;s wind and solar farms have generated more electricity than coal... </h1>
+
+(date: 2025-10-07)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/10/0047672-the-worlds-wind-and-solar">https://kottke.org/25/10/0047672-the-worlds-wind-and-solar</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T16:44:29Z" data-link="https://techcrunch.com/2025/10/07/mastodon-is-taking-cues-from-bluesky-with-plans-for-its-own-starter-packs/">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-10-07)
+      <p>
+      <p>Mastodon supports lists. It's a good feature for helping people get started.</p>
+
+      <address>
+        <a href="https://techcrunch.com/2025/10/07/mastodon-is-taking-cues-from-bluesky-with-plans-for-its-own-starter-packs/">https://techcrunch.com/2025/10/07/mastodon-is-taking-cues-from-bluesky-with-plans-for-its-own-starter-packs/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T16:41:25Z" data-link="http://scripting.com/2025/10/07.html#a164125">
+      <h1>@Dave Winer's Scripting News</h1>
+
+(date: 2025-10-07)
+      <p>
+      <p>Why we <em>all</em> should love RSS. It makes the web higher level without taking anything away.</p>
+
+      <address>
+        <a href="http://scripting.com/2025/10/07.html#a164125">http://scripting.com/2025/10/07.html#a164125</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T16:28:25Z" data-link="https://www.raspberrypi.com/news/sustainable-solutions-with-raspberry-pi-local-zero-waste-manufacturing-and-precious-metal-recovery/">
+      <h1>Sustainable solutions with Raspberry Pi: Local, zero-waste manufacturing and precious metal recovery</h1>
+
+(date: 2025-10-07)
+      <p>
+      <p>How Raspberry Pi's partnership with Sony UK TEC in Pencoed, South Wales, ensures our manufacturing practices are environmentally sound.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/sustainable-solutions-with-raspberry-pi-local-zero-waste-manufacturing-and-precious-metal-recovery/">Sustainable solutions with Raspberry Pi: Local, zero-waste manufacturing and precious metal recovery</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+      <address>
+        <a href="https://www.raspberrypi.com/news/sustainable-solutions-with-raspberry-pi-local-zero-waste-manufacturing-and-precious-metal-recovery/">https://www.raspberrypi.com/news/sustainable-solutions-with-raspberry-pi-local-zero-waste-manufacturing-and-precious-metal-recovery/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T16:09:50Z" data-link="http://scripting.com/2025/10/07/160950.html?title=theAntidoteToBigcoDominance">
+      <h1>The antidote to Bigco dominance</h1>
+
+(date: 2025-10-07)
+      <p>
+      <p>Fascinating <a href="https://www.shellen.com/2025/10/07/layover-over/">blog post</a> from Jason Shellen, tech entrepreneur, formerly with Blogger and Google. Here’s my perspective on part of the story he tells about RSS and Google Reader.</p>
+<p>Netscape gave us RSS 0.91 and it was good enough to create a new powerful layer on the web. Then Netscape blew up and a bunch of repeated efforts to kill it from big companies. I’ll leave it to others to say why, but they tried over and over to extinguish the spark. Independent developers were stubborn, we kept using the original format, and in the end the independents prevailed.</p>
+<p>Don’t ever think bigco’s are the answer. They tend to suck the life out of open systems. If you have something good going, work together. It’s the antidote to bigco dominance.</p>
+<p>If you suck up to the bigco thinking they’ll let you in, maybe they will for a short while. But what you’ll be left with may not be worth the cost. And just because you have a job at a bigco doesn’t make you hot shit. Maybe for a moment.</p>
+<p>This theory has a name, it’s described in the <a href="https://en.m.wikipedia.org/wiki/Prisoner%27s_dilemma">Prisoner’s Dilemma</a>, and its lesson applies in tech and in the political disaster the US has become.</p>
+
+      <address>
+        <a href="http://scripting.com/2025/10/07/160950.html?title=theAntidoteToBigcoDominance">http://scripting.com/2025/10/07/160950.html?title=theAntidoteToBigcoDominance</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T16:06:46Z" data-link="http://scripting.com/2025/10/07.html#a160646">
+      <h1>@Dave Winer's Scripting News</h1>
+
+(date: 2025-10-07)
+      <p>
+      <p>Try as hard as I can I still have distinct flows and more than one place where I edit. I think that's a consequence of working on WordLand. I have to use it for serious writing, or it doesn't work. Maybe I can find a way to merge flows, but not at the moment. I still have to do some copy/pasting.</p>
+
+      <address>
+        <a href="http://scripting.com/2025/10/07.html#a160646">http://scripting.com/2025/10/07.html#a160646</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T16:03:12Z" data-link="https://simonwillison.net/2025/Oct/7/thomas-klausner/#atom-everything">
+      <h1>Quoting Thomas Klausner</h1>
+
+(date: 2025-10-07)
+      <p>
+      <blockquote>
+<p>For quite some I wanted to write a small static image gallery so I can share my pictures with friends and family. Of course there are a gazillion tools like this, but, well, sometimes I just want to roll my own. [...]</p>
+<p>I used the old, well tested technique I call <strong>brain coding</strong>, where you start with an empty vim buffer and type some code (Perl, HTML, CSS) until you're happy with the result. It helps to think a bit (aka use your brain) during this process.</p>
+</blockquote>
+<p>— <a href="https://domm.plix.at/perl/2025_10_braincoded_static_image_gallery.html">Thomas Klausner</a>, coining &quot;brain coding&quot;</p>
+<p>Tags: <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/definitions">definitions</a></p>
+
+      <address>
+        <a href="https://simonwillison.net/2025/Oct/7/thomas-klausner/#atom-everything">https://simonwillison.net/2025/Oct/7/thomas-klausner/#atom-everything</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T16:00:04Z" data-link="https://www.palomitademaiz.net/resenas-toxic/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-toxic">
+      <h1>Toxic: sueños vanidosos y pesadillas de inseguridad</h1>
+
+(date: 2025-10-07)
+      <p>
+      <p>Dirección: Saulė Bliuvaitė. Guion: Saulė Bliuvaitė. Elenco: Vesta Matulytė, Ieva Rupeikaitė, Eglė Gabrėnaitė, Giedrius Savickas, Vilma Raubaitė, Jekaterina Makarova. País: Lituania. Más información de la película: <a href="https://www.imdb.com/title/tt30327762/">https://www.imdb.com/title/tt30327762/</a> El mundo del modelaje vive de las ilusiones, no solo para los que están dentro del mismo, sino también para los que aspiran entrar a este. Por lo […]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-toxic/">Toxic: sueños vanidosos y pesadillas de inseguridad</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+
+      <address>
+        <a href="https://www.palomitademaiz.net/resenas-toxic/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-toxic">https://www.palomitademaiz.net/resenas-toxic/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-toxic</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T15:42:38Z" data-link="https://kottke.org/25/10/what-do-you-do-with-the-mad-that-you-feel">
+      <h1> What Do You Do with the Mad That You Feel? </h1>
+
+(date: 2025-10-07)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/10/what-do-you-do-with-the-mad-that-you-feel">https://kottke.org/25/10/what-do-you-do-with-the-mad-that-you-feel</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T15:24:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3m2mgoqc6ek2k">
+      <h1>@Robert's feed at BlueSky</h1>
+
+(date: 2025-10-07)
+      <p>
+      <p>Interesting <a href="https://www.theguardian.com/us-news/2025/oct/06/oregon-republicans-protest-photo-south-america">https://www.theguardian.com/us-news/2025/oct/06/oregon-republicans-protest-photo-south-america</a></p>
+
+      <address>
+        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3m2mgoqc6ek2k">https://bsky.app/profile/rsdoiel.bsky.social/post/3m2mgoqc6ek2k</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T15:21:42Z" data-link="https://adactio.com/journal/22174">
+      <h1>Decontrolled</h1>
+
+(date: 2025-10-07)
+      <p>
+      <p>I was supposed to be in <a href="https://www.peoplesrepublicofcork.com/">Cork</a> over the weekend.</p>
+<p>Not only was it high time I paid my mother a visit, but the <a href="https://www.corkfolkfestival.com/">Cork Folk Festival</a> was happening too. So I booked some relatively cheap plane tickets for myself and <a href="https://wordridden.com/">Jessica</a> back in August and noted down the days in my calendar.</p>
+<p>We didn’t end up getting our flight. This time it wasn’t because <a href="https://adactio.com/journal/21990">I messed up the flight times</a>. We made it to Gatwick airport in plenty of time. That’s when we saw that our flight was delayed.</p>
+<p>See, <a href="https://en.wikipedia.org/wiki/Storm_Amy">Storm Amy</a> was moving in. We were hoping to get into Cork before the storm hit, but now with the flight delayed, that wasn’t likely. In fact, it was more likely that the flight would just get more and more delayed and possibly even get diverted.</p>
+<p>To start with, we settled in at the airport, prepared to spend an hour or two more than we had planned. But, sure enough, the delays kept piling up. It was time to make decision; wait it out in the hopes that we’d eventually make a very bumpy landing in Cork, or cut our losses and run.</p>
+<p>I quickly looked up flights for the next couple of weekends and spotted some cheap ones a fortnight away. I booked them and then called my mother to tell her we wouldn’t be showing up that night, but we’d see her in a couple of weeks.</p>
+<p>Alright then, time to go home.</p>
+<p>Wait a minute …how exactly are we supposed to leave the airport other than on an airplane?</p>
+<p>It turns out there’s a process called “decontrolling”. You need to find someone from the airline (or in our case, a third-party contractor operating on the airline’s behalf) who has the security privileges to walk you back out. But you still need to go through passport control …even though you never left the building.</p>
+<p>Luckily we didn’t have any checked luggage or it would’ve gotten complicated. As it was, it was just weird. It was all very <a href="https://en.wikipedia.org/wiki/The_City_%26_the_City">City And The City</a>.</p>
+<p>That flight we abandoned did finally take off …six hours late. By that time we were back home on the sofa eating pizza and listening to the wind gusting outside. I think we made the right choice.</p>
+
+      <address>
+        <a href="https://adactio.com/journal/22174">https://adactio.com/journal/22174</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T14:59:09Z" data-link="https://kottke.org/25/10/0047670-qualcomm-buys-open-source">
+      <h1> Qualcomm buys open-source electronics firm Arduino. &#8220;Qualcomm said Arduino &#8216;will retain its... </h1>
+
+(date: 2025-10-07)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/10/0047670-qualcomm-buys-open-source">https://kottke.org/25/10/0047670-qualcomm-buys-open-source</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T14:33:53Z" data-link="https://kottke.org/25/10/0047671-i-missed-that-nins-tronar">
+      <h1> I missed that NIN&#8217;s Tron:Ares soundtrack came out a couple of weeks... </h1>
+
+(date: 2025-10-07)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/10/0047671-i-missed-that-nins-tronar">https://kottke.org/25/10/0047671-i-missed-that-nins-tronar</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T14:32:25Z" data-link="https://simonwillison.net/2025/Oct/7/vibe-engineering/#atom-everything">
+      <h1>Vibe engineering</h1>
+
+(date: 2025-10-07)
+      <p>
+      <p>I feel like <strong>vibe coding</strong> is <a href="https://simonwillison.net/2025/Mar/19/vibe-coding/">pretty well established now</a> as covering the fast, loose and irresponsible way of building software with AI - entirely prompt-driven, and with no attention paid to how the code actually works. This leaves us with a terminology gap: what should we call the other end of the spectrum, where seasoned professionals accelerate their work with LLMs while staying proudly and confidently accountable for the software they produce?</p>
+<p>I propose we call this <strong>vibe engineering</strong>, with my tongue only partially in my cheek.</p>
+<p>One of the lesser spoken truths of working productively with LLMs as a software engineer on non-toy-projects is that it's <em>difficult</em>. There's a lot of depth to understanding how to use the tools, there are plenty of traps to avoid, and the pace at which they can churn out working code raises the bar for what the human participant can and should be contributing.</p>
+<p>The rise of <strong>coding agents</strong> - tools like <a href="https://www.claude.com/product/claude-code">Claude Code</a> (released February 2025), OpenAI's <a href="https://github.com/openai/codex">Codex CLI</a> (April) and <a href="https://github.com/google-gemini/gemini-cli">Gemini CLI</a> (June) that can iterate on code, actively testing and modifying it until it achieves a specified goal, has dramatically increased the usefulness of LLMs for real-world coding problems.</p>
+<p>I'm increasingly hearing from experienced, credible software engineers who are running multiple copies of agents at once, tackling several problems in parallel and expanding the scope of what they can take on. I was skeptical of this at first but <a href="https://simonwillison.net/2025/Oct/5/parallel-coding-agents/">I've started running multiple agents myself now</a> and it's surprisingly effective, if mentally exhausting!</p>
+<p>This feels very different from classic vibe coding, where I outsource a simple, low-stakes task to an LLM and accept the result if it appears to work. Most of my <a href="https://simonwillison.net/">tools.simonwillison.net</a> collection ( <a href="https://simonwillison.net/2025/Sep/4/highlighted-tools/">previously</a>) were built like that. Iterating with coding agents to produce production-quality code that I'm confident I can maintain in the future feels like a different process entirely.</p>
+<p>It's also become clear to me that LLMs actively reward existing top tier software engineering practices:</p>
+<ul>
+<li><strong>Automated testing</strong>. If your project has a robust, comprehensive and stable test suite agentic coding tools can <em>fly</em> with it. Without tests? Your agent might claim something works without having actually tested it at all, plus any new change could break an unrelated feature without you realizing it. Test-first development is particularly effective with agents that can iterate in a loop.</li>
+<li><strong>Planning in advance</strong>. Sitting down to hack something together goes much better if you start with a high level plan. Working with an agent makes this even more important - you can iterate on the plan first, then hand it off to the agent to write the code.</li>
+<li><strong>Comprehensive documentation</strong>. Just like human programmers, an LLM can only keep a subset of the codebase in its context at once. Being able to feed in relevant documentation lets it use APIs from other areas without reading the code first. Write good documentation first and the model may be able to build the matching implementation from that input alone.</li>
+<li><strong>Good version control habits</strong>. Being able to undo mistakes and understand when and how something was changed is even more important when a coding agent might have made the changes. LLMs are also fiercely competent at Git - they can navigate the history themselves to track down the origin of bugs, and they're better than most developers at using <a href="https://til.simonwillison.net/git/git-bisect">git bisect</a>. Use that to your advantage.</li>
+<li>Having <strong>effective automation</strong> in place. Continuous integration, automated formatting and linting, continuous deployment to a preview environment - all things that agentic coding tools can benefit from too. LLMs make writing quick automation scripts easier as well, which can help them then repeat tasks accurately and consistently next time.</li>
+<li>A <strong>culture of code review</strong>. This one explains itself. If you're fast and productive at code review you're going to have a much better time working with LLMs than if you'd rather write code yourself than review the same thing written by someone (or something) else.</li>
+<li>A <strong>very weird form of management</strong>. Getting good results out of a coding agent feels uncomfortably close to getting good results out of a human collaborator. You need to provide clear instructions, ensure they have the necessary context and provide actionable feedback on what they produce. It's a <em>lot</em> easier than working with actual people because you don't have to worry about offending or discouraging them - but any existing management experience you have will prove surprisingly useful.</li>
+<li>Really good <strong>manual QA (quality assurance)</strong>. Beyond automated tests, you need to be really good at manually testing software, including predicting and digging into edge-cases.</li>
+<li>Strong <strong>research skills</strong>. There are dozens of ways to solve any given coding problem. Figuring out the best options and proving an approach has always been important, and remains a blocker on unleashing an agent to write the actual code.</li>
+<li>The ability to <strong>ship to a preview environment</strong>. If an agent builds a feature, having a way to safely preview that feature (without deploying it straight to production) makes reviews much more productive and greatly reduces the risk of shipping something broken.</li>
+<li>An instinct for <strong>what can be outsourced</strong> to AI and what you need to manually handle yourself. This is constantly evolving as the models and tools become more effective. A big part of working effectively with LLMs is maintaining a strong intuition for when they can best be applied.</li>
+<li>An updated <strong>sense of estimation</strong>. Estimating how long a project will take has always been one of the hardest but most important parts of being a senior engineer, especially in organizations where budget and strategy decisions are made based on those estimates. AI-assisted coding makes this <em>even harder</em> - things that used to take a long time are much faster, but estimations now depend on new factors which we're all still trying to figure out.</li>
+</ul>
+<p>If you're going to really exploit the capabilities of these new tools, you need to be operating <em>at the top of your game</em>. You're not just responsible for writing the code - you're researching approaches, deciding on high-level architecture, writing specifications, defining success criteria, <a href="https://simonwillison.net/2025/Sep/30/designing-agentic-loops/">designing agentic loops</a>, planning QA, managing a growing army of weird digital interns who will absolutely cheat if you give them a chance, and spending <em>so much time on code review</em>.</p>
+<p>Almost all of these are characteristics of senior software engineers already!</p>
+<p>AI tools <strong>amplify existing expertise</strong>. The more skills and experience you have as a software engineer the faster and better the results you can get from working with LLMs and coding agents.</p>
+<h4 id="vibe-engineering-really">&quot;Vibe engineering&quot;, really?</h4>
+<p>Is this a stupid name? Yeah, probably. &quot;Vibes&quot; as a concept in AI feels a little tired at this point. &quot;Vibe coding&quot; itself is used by a lot of developers in a dismissive way. I'm ready to reclaim vibes for something more constructive.</p>
+<p>I've never really liked the artificial distinction between &quot;coders&quot; and &quot;engineers&quot; - that's always smelled to me a bit like gatekeeping. But in this case a bit of gatekeeping is exactly what we need!</p>
+<p><strong>Vibe engineering</strong> establishes a clear distinction from vibe coding. It signals that this is a different, harder and more sophisticated way of working with AI tools to build production software.</p>
+<p>I like that this is cheeky and likely to be controversial. This whole space is still absurd in all sorts of different ways. We shouldn't take ourselves too seriously while we figure out the most productive ways to apply these new tools.</p>
+<p>I've tried in the past to get terms like <strong><a href="https://simonwillison.net/tags/ai-assisted-programming/">AI-assisted programming</a></strong> to stick, with approximately zero success. May as well try rubbing some vibes on it and see what happens.</p>
+<p>I also really like the clear mismatch between &quot;vibes&quot; and &quot;engineering&quot;. It makes the combined term self-contradictory in a way that I find mischievous and (hopefully) sticky.</p>
+<p>Tags: <a href="https://simonwillison.net/tags/definitions">definitions</a>, <a href="https://simonwillison.net/tags/software-engineering">software-engineering</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a></p>
+
+      <address>
+        <a href="https://simonwillison.net/2025/Oct/7/vibe-engineering/#atom-everything">https://simonwillison.net/2025/Oct/7/vibe-engineering/#atom-everything</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T14:15:10Z" data-link="https://lithub.com/here-are-the-2025-national-book-awards-finalists/">
+      <h1>Here are the 2025 National Book Awards finalists.</h1>
+
+(date: 2025-10-07)
+      <p>
+      <p>Today, the National Book Foundation announced the finalists in all five categories—Fiction, Nonfiction, Poetry, Translated Literature, and Young People’s Literature—for the 2025 National Book Awards. The winners will be announced at the 76th National Book Awards Ceremony &amp; Benefit Dinner</p>
+
+      <address>
+        <a href="https://lithub.com/here-are-the-2025-national-book-awards-finalists/">https://lithub.com/here-are-the-2025-national-book-awards-finalists/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T14:01:04Z" data-link="https://kottke.org/25/10/0047666-upcoming-exhibition-from-">
+      <h1> Upcoming exhibition from the MFA in Boston: &#8220;&#8216;Faces in the Crowd: Street... </h1>
+
+(date: 2025-10-07)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/10/0047666-upcoming-exhibition-from-">https://kottke.org/25/10/0047666-upcoming-exhibition-from-</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T13:53:16Z" data-link="https://cate.blog/2025/10/07/q3-2025/">
+      <h1>Q3 2025</h1>
+
+(date: 2025-10-07)
+      <p>
+      <p>I like the idea of doing a quarterly review of my annual theme, as a way to reset, re-evaluate, figure out what I want to change and celebrate what I did actually accomplish. I set my intention for the year as “health”, and in Q3 I tried to keep up momentum from Q2 whilst also […]</p>
+
+      <address>
+        <a href="https://cate.blog/2025/10/07/q3-2025/">https://cate.blog/2025/10/07/q3-2025/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T13:52:13Z" data-link="https://lithub.com/thomas-pynchon-has-been-warning-us-about-american-fascism-the-whole-time/">
+      <h1>Thomas Pynchon Has Been Warning Us About American Fascism the Whole Time</h1>
+
+(date: 2025-10-07)
+      <p>
+      <p>Paul Thomas Anderson’s adaptations of Thomas Pynchon’s novels—first Inherent Vice in 2014, and now One Battle After Another in 2025—may be tipping the scales, with more first-time Pynchon readers finding his work through movies rather than university English departments. Throughout</p>
+
+      <address>
+        <a href="https://lithub.com/thomas-pynchon-has-been-warning-us-about-american-fascism-the-whole-time/">https://lithub.com/thomas-pynchon-has-been-warning-us-about-american-fascism-the-whole-time/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T13:44:04Z" data-link="https://tinabrown.substack.com/p/why-america-doesnt-care-about-trumps">
+      <h1>Why America Doesn’t Care About Trump’s Graft</h1>
+
+(date: 2025-10-07)
+      <p>
+      <p>Just when you thought the Hollywood community had proved that standing together to pressure Disney to restore the canceled Jimmy Kimmel to his late-night platform was a victory for free speech, American comedians Kevin Hart, Aziz Ansari, and Pete Davidson, et al.</p>
+
+      <address>
+        <a href="https://tinabrown.substack.com/p/why-america-doesnt-care-about-trumps">https://tinabrown.substack.com/p/why-america-doesnt-care-about-trumps</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T13:25:06Z" data-link="https://www.404media.co/sora-2-watermark-removers-flood-the-web/">
+      <h1>Sora 2 Watermark Removers Flood the Web</h1>
+
+(date: 2025-10-07)
+      <p>
+      <p>Bypassing Sora 2's rudimentary safety features is easy and experts worry it'll lead to a new era of scams and disinformation.</p>
+
+      <address>
+        <a href="https://www.404media.co/sora-2-watermark-removers-flood-the-web/">https://www.404media.co/sora-2-watermark-removers-flood-the-web/</a>
+      </address>
+    </article>
+
     <article data-published="2025-10-07T13:01:32Z" data-link="https://www.404media.co/police-said-they-surveilled-woman-who-had-an-abortion-for-her-safety-court-records-show-they-considered-charging-her-with-a-crime/">
       <h1>Police Said They Surveilled Woman Who Had an Abortion for Her 'Safety.' Court Records Show They Considered Charging Her With a Crime</h1>
 
@@ -66,6 +490,22 @@
 
       <address>
         <a href="https://www.404media.co/police-said-they-surveilled-woman-who-had-an-abortion-for-her-safety-court-records-show-they-considered-charging-her-with-a-crime/">https://www.404media.co/police-said-they-surveilled-woman-who-had-an-abortion-for-her-safety-court-records-show-they-considered-charging-her-with-a-crime/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T13:01:08Z" data-link="https://www.jeffgeerling.com/blog/2025/qualcomms-buying-arduino-%E2%80%93-what-it-means-makers">
+      <h1>Qualcomm's buying Arduino – what it means for makers</h1>
+
+(date: 2025-10-07)
+      <p>
+      <p>Qualcomm's buying Arduino – what it means for makers</p>
+<p><img src="https://www.jeffgeerling.com/sites/default/files/images/arduino-uno-q.jpg" alt="Arduino Uno Q SBC microcontroller board" /></p>
+<p><a href="https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i">Qualcomm just announced they're acquiring Arduino</a>, the company that introduced a whole generation of tinkerers to microcontrollers and embedded electronics.</p>
+<p>The <a href="https://amzn.to/46FlNpp">Uno R3</a> was the first microcontroller board I owned. Over a decade ago, I blinked my first LED with an Uno; the <a href="https://github.com/geerlingguy/blinky">code for that is actually still up on my GitHub</a>.</p>
+<p>Jeff GeerlingOctober 7, 2025</p>
+
+      <address>
+        <a href="https://www.jeffgeerling.com/blog/2025/qualcomms-buying-arduino-%E2%80%93-what-it-means-makers">https://www.jeffgeerling.com/blog/2025/qualcomms-buying-arduino-%E2%80%93-what-it-means-makers</a>
       </address>
     </article>
 
@@ -392,6 +832,17 @@
       
       <address>
         <a href="https://anildash.com/2025/10/07/the-threat-to-video-creators/">https://anildash.com/2025/10/07/the-threat-to-video-creators/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-07T00:00:00Z" data-link="https://anildash.com/2025/10/07/dadt-dei/">
+      <h1>The “Don’t Ask, Don’t Tell” Era of DEI</h1>
+
+(date: 2025-10-07)
+      <p>
+      
+      <address>
+        <a href="https://anildash.com/2025/10/07/dadt-dei/">https://anildash.com/2025/10/07/dadt-dei/</a>
       </address>
     </article>
 
@@ -1352,7 +1803,7 @@ llm -m openai/gpt-5-pro &quot;Generate an SVG of a pelican riding a bicycle&quot
     </article>
 
     <article data-published="2025-10-06T08:02:14Z" data-link="https://robertreich.substack.com/p/how-trump-gets-and-processes-information">
-      <h1>The Mad King's Television</h1>
+      <h1>The Mad King’s Television</h1>
 
 (date: 2025-10-06)
       <p>
@@ -4288,7 +4739,7 @@ llm_summary
 (date: 2025-10-02)
       <p>
       <blockquote>
-<p>When attention is being appropriated, producers need to weigh the costs and benefits of the transaction. To assess whether the appropriation of attention is net-positive, it’s useful to distinguish between extractive and non-extractive contributions. Extractive contributions are those where the marginal cost of reviewing and merging that contribution is greater than the marginal benefit to the project’s producers. In the case of a code contribution, it might be a pull request that’s too complex or unwieldy to review, given the potential upside</p>
+<p>When attention is being appropriated, producers need to weigh the costs and benefits of the transaction. To assess whether the appropriation of attention is net-positive, it’s useful to distinguish between extractive and non-extractive contributions. <strong>Extractive contributions</strong> are those where the marginal cost of reviewing and merging that contribution is greater than the marginal benefit to the project’s producers. In the case of a code contribution, it might be a pull request that’s too complex or unwieldy to review, given the potential upside</p>
 </blockquote>
 <p>— <a href="https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-start-small-no-slop/88476">Nadia Eghbal</a>, <em>Working in Public</em>, via the draft LLVM AI tools policy</p>
 <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/definitions">definitions</a></p>
@@ -12244,6 +12695,8 @@ llm -m openai/gpt-5-codex -T llm_version 'What is the LLM version?'
 <p><a href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/npm-risks/">Email</a><br />
 · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·</p>
 <p><a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a></p>
+<p>Related posts linking here:<br />
+<a href="/2025/og-images-via-data-attributes/">(2025) Social Share Imagery via a Data Attribute</a></p>
 
       <address>
         <a href="https://blog.jim-nielsen.com/2025/npm-risks/">https://blog.jim-nielsen.com/2025/npm-risks/</a>
@@ -14171,6 +14624,8 @@ the future when all text in Newsboat would be encoded in UTF-8.</p>
 <p><a href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/my-antis/">Email</a><br />
 · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·</p>
 <p><a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a></p>
+<p>Related posts linking here:<br />
+<a href="/2025/og-images-via-data-attributes/">(2025) Social Share Imagery via a Data Attribute</a></p>
 
       <address>
         <a href="https://blog.jim-nielsen.com/2025/my-antis/">https://blog.jim-nielsen.com/2025/my-antis/</a>
@@ -16205,6 +16660,8 @@ some trees</p>
 <p><a href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/rip-browsers/">Email</a><br />
 · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·</p>
 <p><a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a></p>
+<p>Related posts linking here:<br />
+<a href="/2025/og-images-via-data-attributes/">(2025) Social Share Imagery via a Data Attribute</a></p>
 
       <address>
         <a href="https://blog.jim-nielsen.com/2025/rip-browsers/">https://blog.jim-nielsen.com/2025/rip-browsers/</a>
