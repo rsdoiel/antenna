@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>http://localhost:8000/retro_computingxml</link>
-    <lastBuildDate>06 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>07 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>KIM-1 Revisions, what changed?</title>
+      <link>http://retro.hansotten.nl/kim-1-revisions-what-changed/</link>
+      <description>
+        <![CDATA[I know of seven KIM-1 revisions, labeled Rev A-G and the first one unlabeled. Rev C is unknown! What changed between these revisions? Not much. The PCB underwent several changes around the logo area, from KIM-1 MOS to Commodore C-MOS. That happened from Rev A to Rev D, indicating the takeover by Commodore of MOS [&#8230;]]]>
+      </description>
+      <source:markdown>I know of seven KIM-1 revisions, labeled Rev A-G and the first one unlabeled. Rev C is unknown! What changed between these revisions? Not much. The PCB underwent several changes around the logo area, from KIM-1 MOS to Commodore C-MOS. That happened from Rev A to Rev D, indicating the takeover by Commodore of MOS \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=18996</guid>
+    </item>    <item>
       <title>KIM-1, were IC sockets used?</title>
       <link>http://retro.hansotten.nl/kim-1-were-ic-sockets-used/</link>
       <description>

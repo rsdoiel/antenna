@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>http://localhost:8000/columnsxml</link>
-    <lastBuildDate>06 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>07 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -38,11 +38,454 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <title>Police Said They Surveilled Woman Who Had an Abortion for Her &#39;Safety.&#39; Court Records Show They Considered Charging Her With a Crime</title>
+      <link>https://www.404media.co/police-said-they-surveilled-woman-who-had-an-abortion-for-her-safety-court-records-show-they-considered-charging-her-with-a-crime/</link>
+      <description>
+        <![CDATA[Court records show that the narrative Flock and a Texas Sheriff's Office has told the public isn't the whole story, and that police were conducting a 'death investigation' into the abortion.]]>
+      </description>
+      <source:markdown>Court records show that the narrative Flock and a Texas Sheriff&#39;s Office has told the public isn&#39;t the whole story, and that police were conducting a &#39;death investigation&#39; into the abortion.</source:markdown>
+      <guid>cid://68e508c38635ce00013cb839</guid>
+    </item>    <item>
+      <title>HOW TO CELEBRATE A MASSACRE</title>
+      <link>https://jacobsonh.substack.com/p/how-to-celebrate-a-massacre</link>
+      <description>
+        <![CDATA[A man stopped me in Soho the other day and said, &#8216;We&#8217;re with you.&#8217; Since I don&#8217;t look like a Hammas fighter or a student from any London University you care to name, I decided I didn&#8217;t need to ask who &#8216;you&#8217; were.]]>
+      </description>
+      <source:markdown>A man stopped me in Soho the other day and said, ‘We’re with you.’ Since I don’t look like a Hammas fighter or a student from any London University you care to name, I decided I didn’t need to ask who ‘you’ were.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!RVrP!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe329ab45-4bd1-4644-8808-bc07527abf1b_480x480.png" length="0" type="image/jpeg" />
+      <guid>cid://https://jacobsonh.substack.com/p/how-to-celebrate-a-massacre</guid>
+    </item>    <item>
+      <title>Bleen Means Blgo</title>
+      <link>https://onefoottsunami.com/2025/10/07/bleen-means-blgo/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29241</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115332807852124823</link>
+      <description>
+        <![CDATA[<p>When you are an iOS developer, every day is Xmas!<br /><a href="https://mastodon.social/@stroughtonsmith/115332664208549324" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@stroughtonsmi</span><span class="invisible">th/115332664208549324</span></a></p>]]>
+      </description>
+      <source:markdown>When you are an iOS developer, every day is Xmas!
+
+[https://mastodon.social/@stroughtonsmith/115332664208549324](https://mastodon.social/@stroughtonsmith/115332664208549324)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115332807852124823</guid>
+    </item>    <item>
+      <title>Radar Trends to Watch: October 2025</title>
+      <link>https://www.oreilly.com/radar/radar-trends-to-watch-october-2025/</link>
+      <description>
+        <![CDATA[This month we have two more protocols to learn. Google has announced the Agent Payments Protocol (AP2), which is intended to help agents to engage in ecommerce—it’s largely concerned with authenticating and authorizing parties making a transaction. And the Agent Client Protocol (ACP) is concerned with communications between code editors and coding agents. When implemented, [&#8230;]]]>
+      </description>
+      <source:markdown>This month we have two more protocols to learn. Google has announced the Agent Payments Protocol (AP2), which is intended to help agents to engage in ecommerce—it’s largely concerned with authenticating and authorizing parties making a transaction. And the Agent Client Protocol (ACP) is concerned with communications between code editors and coding agents. When implemented, \[…\]</source:markdown>
+      <guid>cid://https://www.oreilly.com/radar/?p=17499</guid>
+    </item>    <item>
+      <title>How Decentralized Social Platforms Grew from Identica to Modern-Day Mastodon</title>
+      <link>https://openchannels.fm/how-decentralized-social-platforms-grew-from-identica-to-modern-day-mastodon/</link>
+      <description>
+        <![CDATA[Matthias Pfefferle discusses the Fediverse's origins and evolution with Evan Prodromou, highlighting decentralized social networks, protocols, privacy, and the future of federated systems.]]>
+      </description>
+      <source:markdown>Matthias Pfefferle discusses the Fediverse&#39;s origins and evolution with Evan Prodromou, highlighting decentralized social networks, protocols, privacy, and the future of federated systems.</source:markdown>
+      <guid>cid://https://openchannels.fm/?p=110897</guid>
+    </item>    <item>
+      <title>AI-Enabled Influence Operation Against Iran</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/ai-enabled-influence-operation-against-iran.html</link>
+      <description>
+        <![CDATA[<p>Citizen Lab has <a href="https://citizenlab.ca/2025/10/ai-enabled-io-aimed-at-overthrowing-iranian-regime/">uncovered</a> a coordinated AI-enabled influence operation against the Iranian government, probably conducted by Israel.</p>
+        <blockquote><p><strong>Key Findings</strong></p>
+        <ul>
+        <li>A coordinated network of more than 50 inauthentic X profiles is conducting an AI-enabled influence operation. The network, which we refer to as &#8220;PRISONBREAK,&#8221; is spreading narratives inciting Iranian audiences to revolt against the Islamic Republic of Iran.
+        <li>While the network was created in 2023, almost all of its activity was conducted starting in January 2025, and continues to the present day.
+        <li>The profiles&#8217; activity appears to have been synchronized, at least in part, with the military campaign that the Israel Defense Forces conducted against Iranian targets in June 2025.
+        ...</li></li></li></ul></blockquote>]]>
+      </description>
+      <source:markdown>Citizen Lab has [uncovered](https://citizenlab.ca/2025/10/ai-enabled-io-aimed-at-overthrowing-iranian-regime/) a coordinated AI-enabled influence operation against the Iranian government, probably conducted by Israel.
+
+&#62; **Key Findings**
+&#62;
+&#62; - A coordinated network of more than 50 inauthentic X profiles is conducting an AI-enabled influence operation. The network, which we refer to as “PRISONBREAK,” is spreading narratives inciting Iranian audiences to revolt against the Islamic Republic of Iran.
+&#62;
+&#62; - While the network was created in 2023, almost all of its activity was conducted starting in January 2025, and continues to the present day.
+&#62;
+&#62; - The profiles’ activity appears to have been synchronized, at least in part, with the military campaign that the Israel Defense Forces conducted against Iranian targets in June 2025.
+&#62;   ...</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=70926</guid>
+    </item>    <item>
+      <link>https://www.theguardian.com/us-news/2025/oct/06/oregon-republicans-protest-photo-south-america</link>
+      <description>
+        <![CDATA[<p>Republicans post fake image of Oregon protest – using photos of South America.</p>]]>
+      </description>
+      <source:markdown>Republicans post fake image of Oregon protest – using photos of South America.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/07/1405/</guid>
+    </item>    <item>
+      <title>Why Aren’t We Partying Like It’s 1999?</title>
+      <link>https://paulkrugman.substack.com/p/why-arent-we-partying-like-its-1999</link>
+      <description>
+        <![CDATA[Fear, not hope, permeates today&#8217;s technology hype]]>
+      </description>
+      <source:markdown>Fear, not hope, permeates today’s technology hype</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!pilo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87568aad-1543-4c2f-9e4a-7c760bc6247e_1254x982.png" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/why-arent-we-partying-like-its-1999</guid>
+    </item>    <item>
+      <title>Lit Hub Daily: October 7, 2025</title>
+      <link>https://lithub.com/lit-hub-daily-october-7-2025/</link>
+      <description>
+        <![CDATA[“The Khalidi Library represents everything the settlers cannot abide. It is a monument to, and repository of, the history and heritage of a culture they claim should not exist.” Ryan Byrnes chronicles the fight to save a medieval Palestinian library.]]>
+      </description>
+      <source:markdown>“The Khalidi Library represents everything the settlers cannot abide. It is a monument to, and repository of, the history and heritage of a culture they claim should not exist.” Ryan Byrnes chronicles the fight to save a medieval Palestinian library.</source:markdown>
+      <guid>cid://https://lithub.com/?p=260743</guid>
+    </item>    <item>
+      <title>On Translating Proust and the Art of Not Reading Ahead</title>
+      <link>https://lithub.com/on-translating-proust-and-the-art-of-not-reading-ahead/</link>
+      <description>
+        <![CDATA[Le devoir et la tâche d&#8217;un écrivain sont ceux d&#8217;un traducteur. –Marcel Proust, Le Temps retrouvé * The duty and the task of a writer are those of a translator. –The Past Recaptured, translated by Frederick A. Blossom * The]]>
+      </description>
+      <source:markdown>Le devoir et la tâche d’un écrivain sont ceux d’un traducteur. –Marcel Proust, Le Temps retrouvé \* The duty and the task of a writer are those of a translator. –The Past Recaptured, translated by Frederick A. Blossom \* The</source:markdown>
+      <guid>cid://https://lithub.com/?p=260643</guid>
+    </item>    <item>
+      <title>Inventing Gertrude Stein, Literary Cubist</title>
+      <link>https://lithub.com/inventing-gertrude-stein-literary-cubist/</link>
+      <description>
+        <![CDATA[Near the beginning of The Making of Americans, Gertrude Stein breaks off abruptly to address her reader—“but truly,” she adds, “I never feel it that there ever can be for me any such a creature, no it is this scribbled]]>
+      </description>
+      <source:markdown>Near the beginning of The Making of Americans, Gertrude Stein breaks off abruptly to address her reader—“but truly,” she adds, “I never feel it that there ever can be for me any such a creature, no it is this scribbled</source:markdown>
+      <guid>cid://https://lithub.com/?p=260341</guid>
+    </item>    <item>
+      <title>How the Collapse of Local Journalism Led to the Erosion of Community Trust</title>
+      <link>https://lithub.com/how-the-collapse-of-local-journalism-led-to-the-erosion-of-community-trust/</link>
+      <description>
+        <![CDATA[My family had once been proud of me. In March 2011, my sister Terry went to the trouble of stuffing Post‑it notes into every issue of O, the Oprah Magazine in the checkout line of her grocery store, noting, “My]]>
+      </description>
+      <source:markdown>My family had once been proud of me. In March 2011, my sister Terry went to the trouble of stuffing Post‑it notes into every issue of O, the Oprah Magazine in the checkout line of her grocery store, noting, “My</source:markdown>
+      <guid>cid://https://lithub.com/?p=260337</guid>
+    </item>    <item>
+      <title>The Race to Save a Medieval Palestinian Library</title>
+      <link>https://lithub.com/the-race-to-save-a-medieval-palestinian-library/</link>
+      <description>
+        <![CDATA[While the golden Dome of the Rock sweltered under one-hundred-degree heat a gang of heavily armed orthodox Israelis marched on a Palestinian library. Brandishing forged documents falsely claiming their ownership of the building, they enlisted the help of Israeli police]]>
+      </description>
+      <source:markdown>While the golden Dome of the Rock sweltered under one-hundred-degree heat a gang of heavily armed orthodox Israelis marched on a Palestinian library. Brandishing forged documents falsely claiming their ownership of the building, they enlisted the help of Israeli police</source:markdown>
+      <guid>cid://https://lithub.com/?p=259950</guid>
+    </item>    <item>
+      <title>Imagining a Liberated Future for Palestine</title>
+      <link>https://lithub.com/imagining-a-liberated-future-for-palestine/</link>
+      <description>
+        <![CDATA[A proper imagining of liberation cannot rest content with describing the end game: the day of liberation itself and the hard work the day after. This is only the starting point. No less important is the effort to imagine the]]>
+      </description>
+      <source:markdown>A proper imagining of liberation cannot rest content with describing the end game: the day of liberation itself and the hard work the day after. This is only the starting point. No less important is the effort to imagine the</source:markdown>
+      <guid>cid://https://lithub.com/?p=260487</guid>
+    </item>    <item>
+      <title>Why We Write the Extra Details</title>
+      <link>https://lithub.com/why-we-write-the-extra-details/</link>
+      <description>
+        <![CDATA[Some years ago, I saw Yiyun Li interviewed at an event at the Toronto Reference Library. Li, a writer whose stories are compressed and deceptively simple, spoke with humor and a certain hardness, perhaps born of the clarity of unimaginable]]>
+      </description>
+      <source:markdown>Some years ago, I saw Yiyun Li interviewed at an event at the Toronto Reference Library. Li, a writer whose stories are compressed and deceptively simple, spoke with humor and a certain hardness, perhaps born of the clarity of unimaginable</source:markdown>
+      <guid>cid://https://lithub.com/?p=260363</guid>
+    </item>    <item>
+      <link>https://wapo.st/42pfFz1</link>
+      <description>
+        <![CDATA[<p>Trump’s use of Guard may have lasting impact on cities and troops.</p>]]>
+      </description>
+      <source:markdown>Trump’s use of Guard may have lasting impact on cities and troops.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/07/1403/</guid>
+    </item>    <item>
+      <link>https://www.shellen.com/2025/10/07/layover-over/</link>
+      <description>
+        <![CDATA[<p>Fascinating post by Jason Shellen. I didn’t know that Google Reader was behind Atom. They should’ve worked with us. Guess they thought independent developers weren’t worth it. I’ve seen this pattern repeat in tech many times. Only way we win is by working together..</p>]]>
+      </description>
+      <source:markdown>Fascinating post by Jason Shellen. I didn’t know that Google Reader was behind Atom. They should’ve worked with us. Guess they thought independent developers weren’t worth it. I’ve seen this pattern repeat in tech many times. Only way we win is by working together..</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/07/1401/</guid>
+    </item>    <item>
+      <title>The Four Spent the Day Together</title>
+      <link>https://lithub.com/the-four-spent-the-day-together/</link>
+      <description>
+        <![CDATA[The Fairfield Day Academy campus was just a big, ranch-style house discreetly set in a quiet residential neighborhood. The treatment was new and Blue Cross didn’t cover it. Except for the office secretary, Dr. Bob was the only full-time person]]>
+      </description>
+      <source:markdown>The Fairfield Day Academy campus was just a big, ranch-style house discreetly set in a quiet residential neighborhood. The treatment was new and Blue Cross didn’t cover it. Except for the office secretary, Dr. Bob was the only full-time person</source:markdown>
+      <guid>cid://https://lithub.com/?p=260034</guid>
+    </item>    <item>
+      <title>What Trump doesn’t want us to know about ourselves</title>
+      <link>https://robertreich.substack.com/p/turning-out-the-lights-on-the-economy</link>
+      <description>
+        <![CDATA[How Trump is systematically concealing America from Americans]]>
+      </description>
+      <source:markdown>How Trump is systematically concealing America from Americans</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!_FYc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ec96dab-a26b-4149-98ff-f59b59228543_3500x2642.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/turning-out-the-lights-on-the-economy</guid>
+    </item>    <item>
+      <title>Thomas Pynchon, Marisa Meltzer, Chris Kraus, and more: 24 new books out today!</title>
+      <link>https://lithub.com/thomas-pynchon-marisa-meltzer-chris-kraus-and-more-24-new-books-out-today/</link>
+      <description>
+        <![CDATA[The clock struck October, and with it, we welcomed in a slew of meaty, fascinating, and binge-worthy books. At long last, Thomas Pynchon&#8217;s Shadow Ticket, a much-anticipated work by the 88-year-old author is released. In other fiction news, there&#8217;s a]]>
+      </description>
+      <source:markdown>The clock struck October, and with it, we welcomed in a slew of meaty, fascinating, and binge-worthy books. At long last, Thomas Pynchon’s Shadow Ticket, a much-anticipated work by the 88-year-old author is released. In other fiction news, there’s a</source:markdown>
+      <guid>cid://https://lithub.com/?p=260406</guid>
+    </item>    <item>
+      <title>Eliminating contrails from flying could be incredibly cheap</title>
+      <link>https://www.sustainabilitybynumbers.com/p/eliminating-contrails</link>
+      <description>
+        <![CDATA[Could we halve aviation's climate impact at a fraction of the cost of sustainable aviation fuels?]]>
+      </description>
+      <source:markdown>Could we halve aviation&#39;s climate impact at a fraction of the cost of sustainable aviation fuels?</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/92f98f9c-4402-463e-894f-474da23ef22e_728x385.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.sustainabilitybynumbers.com/p/eliminating-contrails</guid>
+    </item>    <item>
+      <title>October 6, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-6-2025</link>
+      <description>
+        <![CDATA[If White House deputy chief of staff Stephen Miller is at the head of the administration&#8217;s deployment of federal agents against undocumented immigrants, it appears that Office of Management and Budget (OMB) director Russell Vought is running the administration&#8217;s approach to the government shutdown.]]>
+      </description>
+      <source:markdown>If White House deputy chief of staff Stephen Miller is at the head of the administration’s deployment of federal agents against undocumented immigrants, it appears that Office of Management and Budget (OMB) director Russell Vought is running the administration’s approach to the government shutdown.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-6-2025</guid>
+    </item>    <item>
+      <title>Can people’s minds be changed?</title>
+      <link>https://tracydurnell.com/2025/10/06/can-peoples-minds-be-changed/</link>
+      <description>
+        <![CDATA[Musing here&#8230; still thinking this all through! As we&#8217;re thinking about how best to resist fascism, I think we&#8217;re facing a fundamental question: are people entrenched in their viewpoints, or is it possible to change people&#8217;s minds? I&#8217;ve seen studies that propaganda doesn&#8217;t really work, nor do facts change people&#8217;s minds. Exposure to the other tribe [&#8230;]]]>
+      </description>
+      <source:markdown>Musing here… still thinking this all through! As we’re thinking about how best to resist fascism, I think we’re facing a fundamental question: are people entrenched in their viewpoints, or is it possible to change people’s minds? I’ve seen studies that propaganda doesn’t really work, nor do facts change people’s minds. Exposure to the other tribe \[…\]</source:markdown>
+      <guid>cid://https://tracydurnell.com/?p=30464</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2l7f4dkts2b</link>
+      <description>
+        <![CDATA[Then there's this https://www.osnews.com/story/143491/the-case-against-generative-ai-the-numbers-just-dont-add-up-i-e-its-a-scam/]]>
+      </description>
+      <source:markdown>Then there&#39;s this https://www.osnews.com/story/143491/the-case-against-generative-ai-the-numbers-just-dont-add-up-i-e-its-a-scam/</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m2l7f4dkts2b</guid>
+    </item>    <item>
+      <link>https://talkingpointsmemo.com/news/the-trump-admins-mostly-unnoticed-move-to-crack-down-on-the-opposition</link>
+      <description>
+        <![CDATA[<p>The Trump Admin’s Mostly Unnoticed Move to Crack Down on the Opposition.</p>]]>
+      </description>
+      <source:markdown>The Trump Admin’s Mostly Unnoticed Move to Crack Down on the Opposition.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/06/1399/</guid>
+    </item>    <item>
+      <title>The Unexpected New Threat to Video Creators</title>
+      <link>https://anildash.com/2025/10/07/the-threat-to-video-creators/</link>
+      <guid>cid://https://anildash.com/2025/10/07/the-threat-to-video-creators/</guid>
+    </item>    <item>
+      <link>https://www.msnbc.com/msnbc/news/top-prosecutor-trump-pressure-charge-new-york-ag-rcna235922</link>
+      <description>
+        <![CDATA[<p>Top prosecutor refusing to charge New York AG despite Trump pressure.</p>]]>
+      </description>
+      <source:markdown>Top prosecutor refusing to charge New York AG despite Trump pressure.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/06/1397/</guid>
+    </item>    <item>
+      <link>https://therickwilson.substack.com/p/the-pardon-of-ghislaine-maxwell?r=1ne2d&#38;triedRedirect=true</link>
+      <description>
+        <![CDATA[Donald Trump feared this day would come.]]>
+      </description>
+      <source:markdown>Donald Trump feared this day would come.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/06/1395/</guid>
+    </item>    <item>
+      <title>Deloitte to pay money back to Albanese government after using AI in $440,000 report</title>
+      <link>https://simonwillison.net/2025/Oct/6/deloitte-to-pay-money-back/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report">Deloitte to pay money back to Albanese government after using AI in $440,000 report</a></strong></p>
+        Ouch:</p>
+        <blockquote>
+        <p>Deloitte will provide a partial refund to the federal government over a $440,000 report that contained several errors, after admitting it used generative artificial intelligence to help produce it.</p>
+        </blockquote>
+        <p>(I was initially confused by the "Albanese government" reference in the headline since this is a story about the Australian federal government. That's because the current Australia Prime Minister is Anthony Albanese.)</p>
+        <p>Here's <a href="https://www.dewr.gov.au/assuring-integrity-targeted-compliance-framework/resources/targeted-compliance-framework-assurance-review-final-report">the page for the report</a>. The PDF now includes this note:</p>
+        <blockquote>
+        <p>This Report was updated on 26 September 2025 and replaces the Report dated 4 July 2025. The Report has been updated to correct those citations and reference list entries which contained errors in the previously issued version, to amend the summary of the Amato proceeding which contained errors, and to make revisions to improve clarity and readability. The updates made in no way impact or affect the substantive content, findings and recommendations in the Report.</p>
+        </blockquote>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/hallucinations">hallucinations</a></p>]]>
+      </description>
+      <source:markdown>**[Deloitte to pay money back to Albanese government after using AI in $440,000 report](https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report)**
+
+Ouch:
+
+&#62; Deloitte will provide a partial refund to the federal government over a $440,000 report that contained several errors, after admitting it used generative artificial intelligence to help produce it.
+
+(I was initially confused by the &#34;Albanese government&#34; reference in the headline since this is a story about the Australian federal government. That&#39;s because the current Australia Prime Minister is Anthony Albanese.)
+
+Here&#39;s [the page for the report](https://www.dewr.gov.au/assuring-integrity-targeted-compliance-framework/resources/targeted-compliance-framework-assurance-review-final-report). The PDF now includes this note:
+
+&#62; This Report was updated on 26 September 2025 and replaces the Report dated 4 July 2025. The Report has been updated to correct those citations and reference list entries which contained errors in the previously issued version, to amend the summary of the Amato proceeding which contained errors, and to make revisions to improve clarity and readability. The updates made in no way impact or affect the substantive content, findings and recommendations in the Report.
+
+Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-ethics](https://simonwillison.net/tags/ai-ethics), [hallucinations](https://simonwillison.net/tags/hallucinations)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/6/deloitte-to-pay-money-back/#atom-everything</guid>
+    </item>    <item>
+      <title>a system that can do work independently on behalf of the user</title>
+      <link>https://simonwillison.net/2025/Oct/6/work-independently/#atom-everything</link>
+      <description>
+        <![CDATA[<p>I've settled on agents as meaning <a href="https://simonwillison.net/2025/Sep/18/agents/">"LLMs calling tools in a loop to achieve a goal"</a> but OpenAI continue to muddy the waters with much more vague definitions. Swyx <a href="https://twitter.com/swyx/status/1975335082048246159">spotted this one</a> in the press pack OpenAI sent out for their DevDay announcements today:</p>
+        <blockquote>
+        <p><strong>How does OpenAl define an "agent"?</strong> An Al agent is a system that can do work independently on behalf of the user.</p>
+        </blockquote>
+        <p>Adding this one <a href="https://simonwillison.net/tags/agent-definitions/">to my collection</a>.</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/agent-definitions">agent-definitions</a>, <a href="https://simonwillison.net/tags/swyx">swyx</a></p>]]>
+      </description>
+      <source:markdown>I&#39;ve settled on agents as meaning [&#34;LLMs calling tools in a loop to achieve a goal&#34;](https://simonwillison.net/2025/Sep/18/agents/) but OpenAI continue to muddy the waters with much more vague definitions. Swyx [spotted this one](https://twitter.com/swyx/status/1975335082048246159) in the press pack OpenAI sent out for their DevDay announcements today:
+
+&#62; **How does OpenAl define an &#34;agent&#34;?** An Al agent is a system that can do work independently on behalf of the user.
+
+Adding this one [to my collection](https://simonwillison.net/tags/agent-definitions/).
+
+Tags: [ai-agents](https://simonwillison.net/tags/ai-agents), [openai](https://simonwillison.net/tags/openai), [agent-definitions](https://simonwillison.net/tags/agent-definitions), [swyx](https://simonwillison.net/tags/swyx)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/6/work-independently/#atom-everything</guid>
+    </item>    <item>
+      <title>gpt-image-1-mini</title>
+      <link>https://simonwillison.net/2025/Oct/6/gpt-image-1-mini/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://platform.openai.com/docs/models/gpt-image-1-mini">gpt-image-1-mini</a></strong></p>
+        OpenAI released a new image model today: <code>gpt-image-1-mini</code>, which they describe as "A smaller image generation model that’s 80% less expensive than the large model."</p>
+        <p>They released it very quietly - I didn't hear about this in the DevDay keynote but I later spotted it on the <a href="https://openai.com/devday/">DevDay 2025 announcements page</a>.</p>
+        <p>It wasn't instantly obvious to me how to use this via their API. I ended up vibe coding a Python CLI tool for it so I could try it out.</p>
+        <p>I dumped the <a href="https://github.com/openai/openai-python/commit/9ada2c74f3f5865a2bfb19afce885cc98ad6a4b3.diff">plain text diff version</a> of the commit to the OpenAI Python library titled <a href="https://github.com/openai/openai-python/commit/9ada2c74f3f5865a2bfb19afce885cc98ad6a4b3">feat(api): dev day 2025 launches</a> into ChatGPT GPT-5 Thinking and worked with it to figure out how to use the new image model and build a script for it. Here's <a href="https://chatgpt.com/share/68e44023-7fc4-8006-8991-3be661799c9f">the transcript</a> and the <a href="https://github.com/simonw/tools/blob/main/python/openai_image.py">the openai_image.py script</a> it wrote.</p>
+        <p>I had it add inline script dependencies, so you can run it with <code>uv</code> like this:</p>
+        <pre><code>export OPENAI_API_KEY="$(llm keys get openai)"
+        uv run https://tools.simonwillison.net/python/openai_image.py "A pelican riding a bicycle"
+        </code></pre>
+        <p>It picked this illustration style without me specifying it:</p>
+        <p><img alt="A nice illustration of a pelican riding a bicycle, both pelican and bicycle are exactly as you would hope. Looks sketched, maybe colored pencils? The pelican's two legs are on the pedals but it also has a weird sort of paw on an arm on the handlebars." src="https://static.simonwillison.net/static/2025/gpt-image-1-mini-pelican.jpg" /></p>
+        <p>(This is a very different test from my normal "Generate an SVG of a pelican riding a bicycle" since it's using a dedicated image generator, not having a text-based model try to generate SVG code.)</p>
+        <p>My tool accepts a prompt, and optionally a filename (if you don't provide one it saves to a filename like <code>/tmp/image-621b29.png</code>).</p>
+        <p>It also accepts options for model and dimensions and output quality - the <code>--help</code> output lists those, you can <a href="https://tools.simonwillison.net/python/#openai_imagepy">see that here</a>.</p>
+        <p>OpenAI's pricing is a little confusing. The <a href="https://platform.openai.com/docs/models/gpt-image-1-mini">model page</a> claims low quality images should cost around half a cent and medium quality around a cent and a half. It also lists an image token price of $8/million tokens. It turns out there's a default "high" quality setting - most of the images I've generated have reported between 4,000 and 6,000 output tokens, which costs between <a href="https://www.llm-prices.com/#ot=4000&amp;oc=8">3.2</a> and <a href="https://www.llm-prices.com/#ot=6000&amp;oc=8">4.8 cents</a>.</p>
+        <p>One last demo, this time using <code>--quality low</code>:</p>
+        <pre><code> uv run https://tools.simonwillison.net/python/openai_image.py \
+          'racoon eating cheese wearing a top hat, realistic photo' \
+          /tmp/racoon-hat-photo.jpg \
+          --size 1024x1024 \
+          --output-format jpeg \
+          --quality low
+        </code></pre>
+        <p>This saved the following:</p>
+        <p><img alt="It's a square photo of a raccoon eating cheese and wearing a top hat. It looks pretty realistic." src="https://static.simonwillison.net/static/2025/racoon-hat-photo.jpg" /></p>
+        <p>And reported this to standard error:</p>
+        <pre><code>{
+          "background": "opaque",
+          "created": 1759790912,
+          "generation_time_in_s": 20.87331541599997,
+          "output_format": "jpeg",
+          "quality": "low",
+          "size": "1024x1024",
+          "usage": {
+            "input_tokens": 17,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 17
+            },
+            "output_tokens": 272,
+            "total_tokens": 289
+          }
+        }
+        </code></pre>
+        <p>This took 21s, but I'm on an unreliable conference WiFi connection so I don't trust that measurement very much.</p>
+        <p>272 output tokens = <a href="https://www.llm-prices.com/#ot=272&amp;oc=8">0.2 cents</a> so this is much closer to the expected pricing from the model page.
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/tools">tools</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/text-to-image">text-to-image</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a></p>]]>
+      </description>
+      <source:markdown>**[gpt-image-1-mini](https://platform.openai.com/docs/models/gpt-image-1-mini)**
+
+OpenAI released a new image model today: `gpt-image-1-mini`, which they describe as &#34;A smaller image generation model that’s 80% less expensive than the large model.&#34;
+
+They released it very quietly - I didn&#39;t hear about this in the DevDay keynote but I later spotted it on the [DevDay 2025 announcements page](https://openai.com/devday/).
+
+It wasn&#39;t instantly obvious to me how to use this via their API. I ended up vibe coding a Python CLI tool for it so I could try it out.
+
+I dumped the [plain text diff version](https://github.com/openai/openai-python/commit/9ada2c74f3f5865a2bfb19afce885cc98ad6a4b3.diff) of the commit to the OpenAI Python library titled [feat(api): dev day 2025 launches](https://github.com/openai/openai-python/commit/9ada2c74f3f5865a2bfb19afce885cc98ad6a4b3) into ChatGPT GPT-5 Thinking and worked with it to figure out how to use the new image model and build a script for it. Here&#39;s [the transcript](https://chatgpt.com/share/68e44023-7fc4-8006-8991-3be661799c9f) and the [the openai\_image.py script](https://github.com/simonw/tools/blob/main/python/openai_image.py) it wrote.
+
+I had it add inline script dependencies, so you can run it with `uv` like this:
+
+```
+export OPENAI_API_KEY=&#34;$(llm keys get openai)&#34;
+uv run https://tools.simonwillison.net/python/openai_image.py &#34;A pelican riding a bicycle&#34;
+
+```
+
+It picked this illustration style without me specifying it:
+
+![A nice illustration of a pelican riding a bicycle, both pelican and bicycle are exactly as you would hope. Looks sketched, maybe colored pencils? The pelican&#39;s two legs are on the pedals but it also has a weird sort of paw on an arm on the handlebars.](https://static.simonwillison.net/static/2025/gpt-image-1-mini-pelican.jpg)
+
+(This is a very different test from my normal &#34;Generate an SVG of a pelican riding a bicycle&#34; since it&#39;s using a dedicated image generator, not having a text-based model try to generate SVG code.)
+
+My tool accepts a prompt, and optionally a filename (if you don&#39;t provide one it saves to a filename like `/tmp/image-621b29.png`).
+
+It also accepts options for model and dimensions and output quality - the `--help` output lists those, you can [see that here](https://tools.simonwillison.net/python/#openai_imagepy).
+
+OpenAI&#39;s pricing is a little confusing. The [model page](https://platform.openai.com/docs/models/gpt-image-1-mini) claims low quality images should cost around half a cent and medium quality around a cent and a half. It also lists an image token price of $8/million tokens. It turns out there&#39;s a default &#34;high&#34; quality setting - most of the images I&#39;ve generated have reported between 4,000 and 6,000 output tokens, which costs between [3.2](https://www.llm-prices.com/#ot=4000&#38;oc=8) and [4.8 cents](https://www.llm-prices.com/#ot=6000&#38;oc=8).
+
+One last demo, this time using `--quality low`:
+
+```
+ uv run https://tools.simonwillison.net/python/openai_image.py \
+  &#39;racoon eating cheese wearing a top hat, realistic photo&#39; \
+  /tmp/racoon-hat-photo.jpg \
+  --size 1024x1024 \
+  --output-format jpeg \
+  --quality low
+
+```
+
+This saved the following:
+
+![It&#39;s a square photo of a raccoon eating cheese and wearing a top hat. It looks pretty realistic.](https://static.simonwillison.net/static/2025/racoon-hat-photo.jpg)
+
+And reported this to standard error:
+
+```
+{
+  &#34;background&#34;: &#34;opaque&#34;,
+  &#34;created&#34;: 1759790912,
+  &#34;generation_time_in_s&#34;: 20.87331541599997,
+  &#34;output_format&#34;: &#34;jpeg&#34;,
+  &#34;quality&#34;: &#34;low&#34;,
+  &#34;size&#34;: &#34;1024x1024&#34;,
+  &#34;usage&#34;: {
+    &#34;input_tokens&#34;: 17,
+    &#34;input_tokens_details&#34;: {
+      &#34;image_tokens&#34;: 0,
+      &#34;text_tokens&#34;: 17
+    },
+    &#34;output_tokens&#34;: 272,
+    &#34;total_tokens&#34;: 289
+  }
+}
+
+```
+
+This took 21s, but I&#39;m on an unreliable conference WiFi connection so I don&#39;t trust that measurement very much.
+
+272 output tokens = [0.2 cents](https://www.llm-prices.com/#ot=272&#38;oc=8) so this is much closer to the expected pricing from the model page.
+
+
+
+Tags: [python](https://simonwillison.net/tags/python), [tools](https://simonwillison.net/tags/tools), [ai](https://simonwillison.net/tags/ai), [openai](https://simonwillison.net/tags/openai), [generative-ai](https://simonwillison.net/tags/generative-ai), [uv](https://simonwillison.net/tags/uv), [text-to-image](https://simonwillison.net/tags/text-to-image), [pelican-riding-a-bicycle](https://simonwillison.net/tags/pelican-riding-a-bicycle), [vibe-coding](https://simonwillison.net/tags/vibe-coding)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/6/gpt-image-1-mini/#atom-everything</guid>
+    </item>    <item>
+      <title>The Supreme Court’s Biggest Test Yet</title>
+      <link>https://steady.substack.com/p/the-supreme-courts-biggest-test-yet</link>
+      <description>
+        <![CDATA[Will the court codify Trump&#8217;s power grab?]]>
+      </description>
+      <source:markdown>Will the court codify Trump’s power grab?</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!saup!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2225313-1eac-4493-b1a0-89cdfd20c173_6123x4084.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/the-supreme-courts-biggest-test-yet</guid>
+    </item>    <item>
+      <link>https://tilde.zone/@tomasino/115329589492797757</link>
+      <description>
+        <![CDATA[<p>Be kind</p>]]>
+      </description>
+      <source:markdown>Be kind</source:markdown>
+      <guid>cid://https://tilde.zone/@tomasino/115329589492797757</guid>
+    </item>    <item>
+      <link>https://talkingpointsmemo.com/where-things-stand/chicago-occupation-lawsuit-ice-national-guard</link>
+      <description>
+        <![CDATA[<p>Chicago Tells Of Escalating State Violence, Including A Killing, As It Challenges National Guard Occupation.</p>]]>
+      </description>
+      <source:markdown>Chicago Tells Of Escalating State Violence, Including A Killing, As It Challenges National Guard Occupation.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/06/1393/</guid>
+    </item>    <item>
       <title>The Mainstream Media Is Catastrophically Failing To Meet The Moment. &#38;#8220;Mainstream media...</title>
       <link>https://kottke.org/25/10/0047668-the-mainstream-media-is-c</link>
       <guid>cid://tag:kottke.org,2025://13.47668</guid>
     </item>    <item>
-      <title>Trump&#39;s Plan</title>
+      <title>Trump’s Plan</title>
       <link>https://robertreich.substack.com/p/trumps-plan</link>
       <description>
         <![CDATA[To invoke the Insurrection Act]]>
@@ -60,9 +503,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>    <item>
       <link>http://scripting.com/2025/10/06.html#a210632</link>
       <description>
-        <![CDATA[I do all my shopping in ChatGPT. There must be a way to monetize that. For example, I want to buy a new backpack for carrying my laptop and other mobile web stuff. I should be able to set up anywhere there's wifi. I've got a modern MacBook Air, an iPad and two phones, one iOS and one Android. The main one is Android, I have to carry the iPhone because I use an Apple watch. I imagine there must be some improvements made in backpacks accordingly since I bought the last one, which was when I lived in Berkeley, in the late 00s.]]>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2017/08/06/hippieBus.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I do all my shopping in ChatGPT. There must be a way to monetize that. For example, I want to buy a new backpack to carry my laptop and other mobile stuff. I should be able to set up anywhere there's wifi. I've got a modern MacBook Air, an iPad and two phones, one iOS and one Android. The main one is Android, I have to carry the iPhone because I use an Apple watch. I imagine there must be some improvements made in backpacks since I bought the last one, which was when I lived in Berkeley, in the late 00s.]]>
       </description>
-      <source:markdown>I do all my shopping in ChatGPT. There must be a way to monetize that. For example, I want to buy a new backpack for carrying my laptop and other mobile web stuff. I should be able to set up anywhere there&#39;s wifi. I&#39;ve got a modern MacBook Air, an iPad and two phones, one iOS and one Android. The main one is Android, I have to carry the iPhone because I use an Apple watch. I imagine there must be some improvements made in backpacks accordingly since I bought the last one, which was when I lived in Berkeley, in the late 00s.</source:markdown>
+      <source:markdown>![](https://imgs.scripting.com/2017/08/06/hippieBus.png)I do all my shopping in ChatGPT. There must be a way to monetize that. For example, I want to buy a new backpack to carry my laptop and other mobile stuff. I should be able to set up anywhere there&#39;s wifi. I&#39;ve got a modern MacBook Air, an iPad and two phones, one iOS and one Android. The main one is Android, I have to carry the iPhone because I use an Apple watch. I imagine there must be some improvements made in backpacks since I bought the last one, which was when I lived in Berkeley, in the late 00s.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/06.html#a210632</guid>
     </item>    <item>
       <link>http://scripting.com/2025/10/06.html#a210527</link>
@@ -206,17 +649,6 @@ https://plainlanguage.18f.org/</source:markdown>
       <title>Delightful Doggie Field Trips</title>
       <link>https://onefoottsunami.com/2025/10/06/delightful-doggie-field-trips/</link>
       <guid>cid://https://onefoottsunami.com/?p=29239</guid>
-    </item>    <item>
-      <title>Purism Defends the Fourth Amendment in the Digital Age</title>
-      <link>https://puri.sm/posts/purism-defends-the-fourth-amendment-in-the-digital-age/</link>
-      <description>
-        <![CDATA[<p>A newly revealed WIRED investigation shows that the United States Government is creating a vast social media surveillance network, one that will operate around the clock and rely heavily on private contractors. Officials insist the system targets foreign nationals—but its scope and design make it inevitable that millions of Americans’ online activity will also be swept up. This is unconstitutional.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/purism-defends-the-fourth-amendment-in-the-digital-age/">Purism Defends the Fourth Amendment in the Digital Age</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>A newly revealed WIRED investigation shows that the United States Government is creating a vast social media surveillance network, one that will operate around the clock and rely heavily on private contractors. Officials insist the system targets foreign nationals—but its scope and design make it inevitable that millions of Americans’ online activity will also be swept up. This is unconstitutional.
-
-The post [Purism Defends the Fourth Amendment in the Digital Age](https://puri.sm/posts/purism-defends-the-fourth-amendment-in-the-digital-age/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=84660</guid>
     </item>    <item>
       <title>&#38;#8220;Mary Brunkow, Fred Ramsdell, and Shimon Sakaguchi won the 2025 Nobel Prize...</title>
       <link>https://kottke.org/25/10/0047660-mary-brunkow-fred-ramsdel</link>
@@ -410,9 +842,9 @@ Tags: [web](https://simonwillison.net/tags/web), [tim-berners-lee](https://simon
     </item>    <item>
       <link>http://scripting.com/2025/10/06.html#a141525</link>
       <description>
-        <![CDATA[Reason #29812 you know our current writing system is broken. When you want to post something that has more than the maximum characters they post an image instead of the text. I once wasted a few months making a writing tool for those kinds of posts, hoping that if it caught on we could have a shadow network that moved the actual text around the net between users.]]>
+        <![CDATA[Reason #29812 you know our current writing system is broken. When you want to post something that has more than the maximum characters they post an image instead of the text. I once wasted a few months making a <a href="https://daytona.scripting.com/search?q=pngwriter">writing tool</a> for those kinds of posts, hoping that if it caught on we could have a shadow network that moved the actual text around the net between users.]]>
       </description>
-      <source:markdown>Reason #29812 you know our current writing system is broken. When you want to post something that has more than the maximum characters they post an image instead of the text. I once wasted a few months making a writing tool for those kinds of posts, hoping that if it caught on we could have a shadow network that moved the actual text around the net between users.</source:markdown>
+      <source:markdown>Reason #29812 you know our current writing system is broken. When you want to post something that has more than the maximum characters they post an image instead of the text. I once wasted a few months making a [writing tool](https://daytona.scripting.com/search?q=pngwriter) for those kinds of posts, hoping that if it caught on we could have a shadow network that moved the actual text around the net between users.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/06.html#a141525</guid>
     </item>    <item>
       <title>The Curious About Everything Newsletter #55</title>
@@ -462,6 +894,17 @@ Tags: [web](https://simonwillison.net/tags/web), [tim-berners-lee](https://simon
       </description>
       <source:markdown>Ridley Scott Says Hollywood Is &#34;Drowning In Mediocrity.&#34; Totally agree.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/06/1373/</guid>
+    </item>    <item>
+      <title>Purism Defends the Fourth Amendment in the Digital Age</title>
+      <link>https://puri.sm/posts/purism-defends-the-fourth-amendment-in-the-digital-age/</link>
+      <description>
+        <![CDATA[<p>A newly revealed WIRED investigation shows that the United States Government is creating a vast social media surveillance network, one that will operate around the clock and rely heavily on private contractors. Officials insist the system targets foreign nationals—but its scope and design make it inevitable that millions of Americans’ online activity will also be swept up. This is unconstitutional.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/purism-defends-the-fourth-amendment-in-the-digital-age/">Purism Defends the Fourth Amendment in the Digital Age</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <source:markdown>A newly revealed WIRED investigation shows that the United States Government is creating a vast social media surveillance network, one that will operate around the clock and rely heavily on private contractors. Officials insist the system targets foreign nationals—but its scope and design make it inevitable that millions of Americans’ online activity will also be swept up. This is unconstitutional.
+
+The post [Purism Defends the Fourth Amendment in the Digital Age](https://puri.sm/posts/purism-defends-the-fourth-amendment-in-the-digital-age/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+      <guid>cid://https://puri.sm/?p=84660</guid>
     </item>    <item>
       <link>https://x.com/atrupar/status/1974940532410310821</link>
       <description>
@@ -1248,13 +1691,6 @@ Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwill
       <source:markdown>Tested: 2025 Volkswagen ID.Buzz Is the Bee&#39;s Knees. I tried one today and loved it.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/04/1341/</guid>
     </item>    <item>
-      <link>http://scripting.com/2025/10/03/145920.html?title=shouldTechRunTheWorld</link>
-      <description>
-        <![CDATA[<p>Should tech run the world?</p>]]>
-      </description>
-      <source:markdown>Should tech run the world?</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/04/1339/</guid>
-    </item>    <item>
       <link>https://www.pbs.org/newshour/world/why-experts-say-trump-is-unlikely-to-win-the-nobel-peace-prize-this-year</link>
       <description>
         <![CDATA[<p>Why experts say Trump is unlikely to win the Nobel Peace Prize this year.</p>]]>
@@ -1798,6 +2234,29 @@ Via [Hacker News](https://news.ycombinator.com/item?id=45453936)
 
 Tags: [sqlite](https://simonwillison.net/tags/sqlite), [fly](https://simonwillison.net/tags/fly), [litestream](https://simonwillison.net/tags/litestream), [ben-johnson](https://simonwillison.net/tags/ben-johnson)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/3/litestream/#atom-everything</guid>
+    </item>    <item>
+      <title>Should tech run the world?</title>
+      <link>http://scripting.com/2025/10/03/145920.html?title=shouldTechRunTheWorld</link>
+      <description>
+        <![CDATA[<p>With all respect to the tech industry -- why is the traffic in the Bay Area so awful. Why haven't they done anything about it. </p>
+        <p>Wouldn't that be a good test before running the whole world? As programmer myself, I wouldn't trust the algorithm without a lot of <a href="https://en.wikipedia.org/wiki/Quality_assurance">QA</a>. Seriously. Think about it</p>
+        <p>It's the strangest configuration for a metropolitan area, the center of the city is in the middle of <a href="https://imgs.scripting.com/2025/10/03/bayAreaMap.png">the bay</a>. (Same as Seattle, btw.)</p>
+        <p>The best answer the tech industry came up with was Uber, as far as I know.</p>
+        <p>I lived in Palo Alto, Mountain View, Menlo Park, Berkeley, Los Gatos and Woodside over 31 years and I did nothing to fix the problem either. My answer was to move to NYC where the transit system is pretty great. Then I moved to the mountains and got a <a href="https://daytona.scripting.com/search?q=tesla">Tesla</a>. </p>
+        <p>BTW, the idea that the stars of Silicon Valley should run the world is not new. I first heard about it from Apple top level managers in the 1980s. They were not techno-fascists, but they did hugely underestimate what it takes to run the world, or even a small country in Africa. </p>]]>
+      </description>
+      <source:markdown>With all respect to the tech industry -- why is the traffic in the Bay Area so awful. Why haven&#39;t they done anything about it.
+
+Wouldn&#39;t that be a good test before running the whole world? As programmer myself, I wouldn&#39;t trust the algorithm without a lot of [QA](https://en.wikipedia.org/wiki/Quality_assurance). Seriously. Think about it
+
+It&#39;s the strangest configuration for a metropolitan area, the center of the city is in the middle of [the bay](https://imgs.scripting.com/2025/10/03/bayAreaMap.png). (Same as Seattle, btw.)
+
+The best answer the tech industry came up with was Uber, as far as I know.
+
+I lived in Palo Alto, Mountain View, Menlo Park, Berkeley, Los Gatos and Woodside over 31 years and I did nothing to fix the problem either. My answer was to move to NYC where the transit system is pretty great. Then I moved to the mountains and got a [Tesla](https://daytona.scripting.com/search?q=tesla).
+
+BTW, the idea that the stars of Silicon Valley should run the world is not new. I first heard about it from Apple top level managers in the 1980s. They were not techno-fascists, but they did hugely underestimate what it takes to run the world, or even a small country in Africa.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/03/145920.html</guid>
     </item>    <item>
       <link>http://scripting.com/2025/10/03.html#a144323</link>
       <description>
@@ -17312,530 +17771,6 @@ Reply via:
       </description>
       <source:markdown>Help shape the future of Go</source:markdown>
       <guid>cid://tag:blog.golang.org,2013:blog.golang.org/survey2025-announce</guid>
-    </item>    <item>
-      <title>The Evolution of How Rappers Construct Their Rhymes</title>
-      <link>https://kottke.org/25/09/the-evolution-of-how-rappers-construct-their-rhymes-1</link>
-      <guid>cid://tag:kottke.org,2025://5.47512</guid>
-    </item>    <item>
-      <title>How Did We Get Here?</title>
-      <link>https://steady.substack.com/p/how-did-we-get-here</link>
-      <description>
-        <![CDATA[Where the president is a proponent of political violence]]>
-      </description>
-      <source:markdown>Where the president is a proponent of political violence</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!fIO2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd2cde7e-5795-4a7e-8689-e0a8f8ca30bf_1024x683.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://steady.substack.com/p/how-did-we-get-here</guid>
-    </item>    <item>
-      <title>Your Zodiac Sign Is 2,000 Years Out of Date. &#38;#8220;Over millennia, our...</title>
-      <link>https://kottke.org/25/09/0047506-your-zodiac-sign-is-2000</link>
-      <guid>cid://tag:kottke.org,2025://13.47506</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/15.html#a213810</link>
-      <description>
-        <![CDATA[Podcast: <a href="https://shownotes.scripting.com/scripting/2025/09/15/wordlandTheTimelineAndCheckboxes.html">WordLand, the timeline and checkboxes</a>.]]>
-      </description>
-      <guid>cid://http://scripting.com/2025/09/15.html#a213810</guid>
-    </item>    <item>
-      <link>https://daveverse.org/</link>
-      <description>
-        <![CDATA[<p>BTW we now have a blogroll on my WordPress blog (which I am loving writing to, it's got a different feel). It just snuck up on me, I wasn't expecting it and first impression -- it looks great. Slowly we're getting it together. :-)</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/15/1109/</guid>
-    </item>    <item>
-      <title>Reviews of the best mp3 players you can buy in 2025. &#38;#8220;MP3...</title>
-      <link>https://kottke.org/25/09/0047509-reviews-of-the-best-mp3</link>
-      <guid>cid://tag:kottke.org,2025://13.47509</guid>
-    </item>    <item>
-      <title>Quoting Poul-Henning Kamp</title>
-      <link>https://simonwillison.net/2025/Sep/15/poul-henning-kamp/#atom-everything</link>
-      <description>
-        <![CDATA[<blockquote cite="https://varnish-cache.org/#new-release-8-0-0-with-bonus-project-news"><p>I thought I had an verbal agreement with them, that “Varnish Cache” was the FOSS project and “Varnish Software” was the commercial entitity, but the current position of Varnish Software’s IP-lawyers is that nobody can use “Varnish Cache” in any context, without their explicit permission. [...]</p>
-        <p>We have tried to negotiatiate with Varnish Software for many months about this issue, but their IP-Lawyers still insist that Varnish Software owns the Varnish Cache name, and at most we have being offered a strictly limited, subject to their veto, permission for the FOSS project to use the “Varnish Cache” name.</p>
-        <p>We cannot live with that: We are independent FOSS project with our own name.</p>
-        <p>So we will change the name of the project.</p>
-        <p>The new association and the new project will be named “The Vinyl Cache Project”, and this release 8.0.0, will be the last under the “Varnish Cache” name.</p></blockquote>
-        <p class="cite">&mdash; <a href="https://varnish-cache.org/#new-release-8-0-0-with-bonus-project-news">Poul-Henning Kamp</a>, Varnish 8.0.0 release notes</p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/varnish">varnish</a>, <a href="https://simonwillison.net/tags/copyright">copyright</a></p>]]>
-      </description>
-      <guid>cid://https://simonwillison.net/2025/Sep/15/poul-henning-kamp/#atom-everything</guid>
-    </item>    <item>
-      <title>Monday session</title>
-      <link>https://adactio.com/notes/22132</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22132/small.jpg" srcset="https://adactio.com/images/uploaded/22132/medium.jpg 1.5x, https://adactio.com/images/uploaded/22132/large.jpg 2.5x" alt="Monday session" />
-        <p>Monday session</p>]]>
-      </description>
-      <guid>cid://https://adactio.com/notes/22132</guid>
-    </item>    <item>
-      <title>Why AI Narrators Will Never Be Able to Tell a Real Human...</title>
-      <link>https://kottke.org/25/09/0047510-why-ai-narrators-will-nev</link>
-      <guid>cid://tag:kottke.org,2025://13.47510</guid>
-    </item>    <item>
-      <title>macOS Tahoe 26</title>
-      <link>https://mjtsai.com/blog/2025/09/15/macos-tahoe-26/</link>
-      <description>
-        <![CDATA[Apple (feature list, release notes, security, enterprise, developer, full installer, IPSW): macOS Tahoe transforms the Mac experience with a stunning new design and powerful capabilities that turbocharge productivity. The new design offers users even more ways to personalize their Mac with an updated Control Center in addition to new color options for folders, app icons, [&#8230;]]]>
-      </description>
-      <source:markdown>Apple (feature list, release notes, security, enterprise, developer, full installer, IPSW): macOS Tahoe transforms the Mac experience with a stunning new design and powerful capabilities that turbocharge productivity. The new design offers users even more ways to personalize their Mac with an updated Control Center in addition to new color options for folders, app icons, \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49278</guid>
-    </item>    <item>
-      <title>iOS 26</title>
-      <link>https://mjtsai.com/blog/2025/09/15/ios-26/</link>
-      <description>
-        <![CDATA[Apple (feature list, release notes, security, enterprise, developer): Featuring the new design with Liquid Glass, iOS 26 brings more customization options to the Lock Screen, including a sleek adaptive time presentation and delightful 3D spatial scenes, as well as enhancements to Camera, Photos, Safari, the Phone app, and more. To help users eliminate distractions and [&#8230;]]]>
-      </description>
-      <source:markdown>Apple (feature list, release notes, security, enterprise, developer): Featuring the new design with Liquid Glass, iOS 26 brings more customization options to the Lock Screen, including a sleek adaptive time presentation and delightful 3D spatial scenes, as well as enhancements to Camera, Photos, Safari, the Phone app, and more. To help users eliminate distractions and \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49276</guid>
-    </item>    <item>
-      <title>macOS 15.7 and macOS 14.8</title>
-      <link>https://mjtsai.com/blog/2025/09/15/macos-15-7-and-macos-14-8/</link>
-      <description>
-        <![CDATA[macOS 15.7 (full installer, security): [Not yet listed, but presumably:] This update provides important security fixes and is recommended for all users. macOS 14.8 (full installer, security): [Not yet listed, but presumably:] This update provides important security fixes and is recommended for all users. See also: Howard Oakley. Previously: macOS 15.6.1 macOS 14.7.8 and macOS [&#8230;]]]>
-      </description>
-      <source:markdown>macOS 15.7 (full installer, security): \[Not yet listed, but presumably:\] This update provides important security fixes and is recommended for all users. macOS 14.8 (full installer, security): \[Not yet listed, but presumably:\] This update provides important security fixes and is recommended for all users. See also: Howard Oakley. Previously: macOS 15.6.1 macOS 14.7.8 and macOS \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49274</guid>
-    </item>    <item>
-      <title>The Mac App Flea Market</title>
-      <link>https://mjtsai.com/blog/2025/09/15/the-mac-app-flea-market/</link>
-      <description>
-        <![CDATA[Jim Nielsen (via Hacker News): Have you ever searched for &#8220;AI chat&#8221; in the Mac App Store?I have. It&#8217;s like strolling through one of those counterfeit, replica markets where all the goods look legit at first glance. But then when you look closer, you realize something is off.For the query &#8220;AI chat&#8221;, there are so [&#8230;]]]>
-      </description>
-      <source:markdown>Jim Nielsen (via Hacker News): Have you ever searched for “AI chat” in the Mac App Store?I have. It’s like strolling through one of those counterfeit, replica markets where all the goods look legit at first glance. But then when you look closer, you realize something is off.For the query “AI chat”, there are so \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49272</guid>
-    </item>    <item>
-      <title>September 14, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-14-2025-18d</link>
-      <enclosure url="https://api.substack.com/feed/podcast/173695947/6b629854dd5a45d02947ecbeb0c5ab71.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-14-2025-18d</guid>
-    </item>    <item>
-      <title>Objects From Films</title>
-      <link>https://kottke.org/25/09/objects-from-films</link>
-      <guid>cid://tag:kottke.org,2025://5.47511</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115209995281371684</link>
-      <description>
-        <![CDATA[<p>When you are an iOS user, every third Monday of September 2025 is Christmas!</p><p><a href="https://www.apple.com/newsroom/2025/09/new-versions-of-apples-software-platforms-are-available-today/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">apple.com/newsroom/2025/09/new</span><span class="invisible">-versions-of-apples-software-platforms-are-available-today/</span></a></p>]]>
-      </description>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115209995281371684</guid>
-    </item>    <item>
-      <link>https://english.hani.co.kr/arti/english_edition/english_editorials/1218475.html</link>
-      <description>
-        <![CDATA[<p>Imperial tyranny, Korean humiliation.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/15/1107/</guid>
-    </item>    <item>
-      <title>A New York Made of Styrofoam and Balsa Wood</title>
-      <link>https://onefoottsunami.com/2025/09/15/a-new-york-made-of-styrofoam-and-balsa-wood/</link>
-      <guid>cid://https://onefoottsunami.com/?p=29147</guid>
-    </item>    <item>
-      <title>Office Hours: Are we heading toward a second civil war?</title>
-      <link>https://robertreich.substack.com/p/office-hours-are-we-heading-toward</link>
-      <description>
-        <![CDATA[And if so, why?]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!EpZM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f7aa79a-8909-45c0-8226-be1703b7d99d_3500x2829.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/office-hours-are-we-heading-toward</guid>
-    </item>    <item>
-      <link>https://internet.exchangepoint.tech/big-tech-redefined-the-open-internet-to-serve-its-own-interests/</link>
-      <description>
-        <![CDATA[<p>Big Tech Redefined the Open Internet to Serve Its Own Interests.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/15/1105/</guid>
-    </item>    <item>
-      <title>Hosting a WebSite on a Disposable Vape. &#38;#8220;Recently, disposable vapes have gotten...</title>
-      <link>https://kottke.org/25/09/0047508-hosting-a-website-on-a</link>
-      <guid>cid://tag:kottke.org,2025://13.47508</guid>
-    </item>    <item>
-      <title>GPT‑5-Codex and upgrades to Codex</title>
-      <link>https://simonwillison.net/2025/Sep/15/gpt-5-codex/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://openai.com/index/introducing-upgrades-to-codex/">GPT‑5-Codex and upgrades to Codex</a></strong></p>
-        OpenAI half-released a new model today: GPT‑5-Codex, a fine-tuned GPT-5 variant explicitly designed for their various AI-assisted programming tools.</p>
-        <p><em><strong>Update</strong>: OpenAI call it a "version of GPT-5", they don't explicitly describe it as a fine-tuned model. Calling it a fine-tune was my mistake here. </em></p>
-        <p>I say half-released because it's not yet available via their API, but they "plan to make GPT‑5-Codex available in the API soon".</p>
-        <p>I wrote about <a href="https://simonwillison.net/2025/May/16/openai-codex/">the confusing array of OpenAI products that share the name Codex</a> a few months ago. This new model adds yet another, though at least "GPT-5-Codex" (using two hyphens) is unambiguous enough not to add to much more to the confusion.</p>
-        <p>At this point it's best to think of <strong>Codex</strong> as OpenAI's brand name for their coding family of models and tools.</p>
-        <p>The new model is already integrated into their VS Code extension, the Codex CLI and their Codex Cloud asynchronous coding agent. I'd been calling that last one "Codex Web" but I think Codex Cloud is a better name since it can also be accessed directly from their iPhone app.</p>
-        <p>Codex Cloud also has a new feature: you can configure it to automatically run code review against specific GitHub repositories (I found that option on <a href="https://chatgpt.com/codex/settings/code-review">chatgpt.com/codex/settings/code-review</a>) and it will create a temporary container to use as part of those reviews. Here's the <a href="https://developers.openai.com/codex/cloud/code-review">relevant documentation</a>.</p>
-        <p>Some documented features of the new GPT-5-Codex model:</p>
-        <ul>
-        <li>Specifically trained for code review, which directly supports their new code review feature.</li>
-        <li>"GPT‑5-Codex adapts how much time it spends thinking more dynamically based on the complexity of the task." Simple tasks (like "list files in this directory") should run faster. Large, complex tasks should use run for much longer - OpenAI report Codex crunching for seven hours in some cases!</li>
-        <li>Increased score on their proprietary "code refactoring evaluation" from 33.9% for GPT-5 (high) to 51.3% for GPT-5-Codex (high). It's hard to evaluate this without seeing the details of the eval but it does at least illustrate that refactoring performance is something they've focused on here.</li>
-        <li>"GPT‑5-Codex also shows significant improvements in human preference evaluations when creating mobile websites" - in the past I've habitually prompted models to "make it mobile-friendly", maybe I don't need to do that any more.</li>
-        <li>"We find that comments by GPT‑5-Codex are less likely to be incorrect or unimportant" - I originally misinterpreted this as referring to comments in code but it's actually about comments left on code reviews.</li>
-        </ul>
-        <p>The <a href="https://github.com/openai/codex/blob/rust-v0.36.0/codex-rs/core/gpt_5_codex_prompt.md">system prompt for GPT-5-Codex</a> in Codex CLI is worth a read. It's notably shorter than the <a href="https://github.com/openai/codex/blob/rust-v0.36.0/codex-rs/core/prompt.md">system prompt for other models</a> - <a href="https://gist.github.com/simonw/042f1428ce22ad55ac5bc9010263a4f4/revisions">here's a diff</a>.</p>
-        <p>Here's the section of the updated system prompt that talks about comments:</p>
-        <blockquote>
-        <p><code>Add succinct code comments that explain what is going on if code is not self-explanatory. You should not add comments like "Assigns the value to the variable", but a brief comment might be useful ahead of a complex code block that the user would otherwise have to spend time parsing out. Usage of these comments should be rare.</code></p>
-        </blockquote>
-        <p>Theo Browne <a href="https://www.youtube.com/watch?v=j9wvCrON3XA">has a video review</a> of the model and accompanying features. He was generally impressed but noted that it was surprisingly bad at using the Codex CLI search tool to navigate code. Hopefully that's something that can fix with a system prompt update.</p>
-        <p>Finally, can it drew a pelican riding a bicycle? Without API access I instead got Codex Cloud to <a href="https://chatgpt.com/s/cd_68c85f433cc881918acfd8a4aeda1cc4">have a go</a> by prompting:</p>
-        <blockquote>
-        <p><code>Generate an SVG of a pelican riding a bicycle, save as pelican.svg</code></p>
-        </blockquote>
-        <p>Here's <a href="https://github.com/simonw/codex-scratchpad/pull/3">the result</a>:</p>
-        <p><img alt="it's a bit messy - the pelican is quite good and the bicycle is quite good but the pelican is stood overlapping the bicycle not riding it." src="https://static.simonwillison.net/static/2025/gpt-5-codex-pelican.jpg" />
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/gpt-5">gpt-5</a>, <a href="https://simonwillison.net/tags/codex-cli">codex-cli</a></p>]]>
-      </description>
-      <guid>cid://https://simonwillison.net/2025/Sep/15/gpt-5-codex/#atom-everything</guid>
-    </item>    <item>
-      <title>Insights from the Lotka-Volterra Model</title>
-      <link>https://economicsfromthetopdown.com/2025/09/15/insights-from-the-lotka-volterra-model/</link>
-      <description>
-        <![CDATA[<p><img width="150" height="150" src="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/09/lotka_cover.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/09/lotka_cover.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/09/lotka_cover.png?resize=450%2C450&amp;ssl=1 450w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/09/lotka_cover.png?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/09/lotka_cover.png?resize=550%2C550&amp;ssl=1 550w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/09/lotka_cover.png?zoom=2&amp;resize=150%2C150&amp;ssl=1 300w" sizes="(max-width: 150px) 100vw, 150px" data-attachment-id="13933" data-permalink="https://economicsfromthetopdown.com/lotka_cover/" data-orig-file="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/09/lotka_cover.png?fit=1024%2C768&amp;ssl=1" data-orig-size="1024,768" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="lotka_cover" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/09/lotka_cover.png?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/09/lotka_cover.png?fit=723%2C542&amp;ssl=1" />The Lotka-Volterra equations are a toy model of predator-prey dynamics. But despite its simplicity, the Lotka-Volterra model has a lot to say about how humans exploit resources.</p>
-        <p>The post <a href="https://economicsfromthetopdown.com/2025/09/15/insights-from-the-lotka-volterra-model/">Insights from the Lotka-Volterra Model</a> appeared first on <a href="https://economicsfromthetopdown.com">Economics from the Top Down</a>.</p>]]>
-      </description>
-      <source:markdown>![](https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/09/lotka_cover.png?resize=150%2C150&#38;ssl=1)The Lotka-Volterra equations are a toy model of predator-prey dynamics. But despite its simplicity, the Lotka-Volterra model has a lot to say about how humans exploit resources.
-
-The post [Insights from the Lotka-Volterra Model](https://economicsfromthetopdown.com/2025/09/15/insights-from-the-lotka-volterra-model/) appeared first on [Economics from the Top Down](https://economicsfromthetopdown.com).</source:markdown>
-      <enclosure url="https://economicsfromthetopdown.com/wp-content/uploads/2025/09/fix_lotka_insights_20250915.mp3" length="41841247" type="audio/mpeg" />
-      <guid>cid://https://economicsfromthetopdown.com/?p=13895</guid>
-    </item>    <item>
-      <title>Dataguessr. &#38;#8220;This game is inspired by the work of Gapminder and Our...</title>
-      <link>https://kottke.org/25/09/0047505-dataguessr-this-game-is-i</link>
-      <guid>cid://tag:kottke.org,2025://13.47505</guid>
-    </item>    <item>
-      <link>https://www.theverge.com/news/778306/google-ai-summaries-penske-lawsuit</link>
-      <description>
-        <![CDATA[<p>Google has a point with the summaries. The most highly rated search results often seem to never get around to answering the question, so maybe they brought about their own demise.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/15/1103/</guid>
-    </item>    <item>
-      <title>Shady Characters × Grammar Girl: a pair of podcasts for your enjoyment!</title>
-      <link>https://shadycharacters.co.uk/2025/09/grammar-podcasts/</link>
-      <description>
-        <![CDATA[<p>I’ve been internet acquaintances with Mignon Fogarty, also known as Grammar Girl, for many years now. (We share a literary agent, in fact, which is perhaps the most <cite>New Yorker</cite>–coded thing I’ve ever typed.)</p>
-        <p>As such, I was more than happy to talk to Mignon about <a href="https://shadycharacters.co.uk/books/face-with-tears-of-joy/"><cite>Face with Tears of Joy</cite></a> for her always fascinating podcast. That episode has been out for a couple of months now (<a href="https://www.youtube.com/watch?v=0TnUsiFX4N4">you can find it here, on YouTube</a>, or wherever else you get your podcasts), but we also recorded a bonus episode about the hoary subject of books and book history. I am happy to report that that second episode has now been <a href="https://www.youtube.com/watch?v=d2HmHoZnCns">published to YouTube</a> and all of the usual places, so head over there to watch and listen. (And also to marvel at my webcam, which insisted on focusing on the bookshelves behind me rather than on my face. It has a sense of irony, at least.)</p><a class="more-link" href="https://shadycharacters.co.uk/2025/09/grammar-podcasts/">Read more →</a>]]>
-      </description>
-      <source:markdown>I’ve been internet acquaintances with Mignon Fogarty, also known as Grammar Girl, for many years now. (We share a literary agent, in fact, which is perhaps the most New Yorker–coded thing I’ve ever typed.)
-
-As such, I was more than happy to talk to Mignon about [Face with Tears of Joy](https://shadycharacters.co.uk/books/face-with-tears-of-joy/) for her always fascinating podcast. That episode has been out for a couple of months now ( [you can find it here, on YouTube](https://www.youtube.com/watch?v=0TnUsiFX4N4), or wherever else you get your podcasts), but we also recorded a bonus episode about the hoary subject of books and book history. I am happy to report that that second episode has now been [published to YouTube](https://www.youtube.com/watch?v=d2HmHoZnCns) and all of the usual places, so head over there to watch and listen. (And also to marvel at my webcam, which insisted on focusing on the bookshelves behind me rather than on my face. It has a sense of irony, at least.)
-
- [Read more →](https://shadycharacters.co.uk/2025/09/grammar-podcasts/)</source:markdown>
-      <guid>cid://https://shadycharacters.co.uk/?p=5056</guid>
-    </item>    <item>
-      <title>PureOS Crimson: August 2025 – Alpha Released</title>
-      <link>https://puri.sm/posts/pureos-crimson-august-2025-alpha-released/</link>
-      <description>
-        <![CDATA[<p>We have released alpha images for PureOS Crimson for all Librem devices and have closed the first milestone!</p>
-        <p>Thank you to all of our supporters and PureOS subscribers who have made this possible.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/pureos-crimson-august-2025-alpha-released/">PureOS Crimson: August 2025 &#8211; Alpha Released</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>We have released alpha images for PureOS Crimson for all Librem devices and have closed the first milestone!
-
-Thank you to all of our supporters and PureOS subscribers who have made this possible.
-
-The post [PureOS Crimson: August 2025 – Alpha Released](https://puri.sm/posts/pureos-crimson-august-2025-alpha-released/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=84330</guid>
-    </item>    <item>
-      <title>Blanket App Now Available</title>
-      <link>https://puri.sm/posts/blanket-app-now-available/</link>
-      <description>
-        <![CDATA[<p>Blanket lets you improve focus and increase your productivity by listening to different ambient sounds.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/blanket-app-now-available/">Blanket App Now Available</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>Blanket lets you improve focus and increase your productivity by listening to different ambient sounds.
-
-The post [Blanket App Now Available](https://puri.sm/posts/blanket-app-now-available/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <enclosure url="https://videos.puri.sm/librem5/apps/blanket.mp4" length="4309458" type="video/mp4" />
-      <guid>cid://https://puri.sm/?p=84346</guid>
-    </item>    <item>
-      <link>https://en.m.wikipedia.org/wiki/The_Pitt</link>
-      <description>
-        <![CDATA[<p>I tried watching The Pitt,  but I have a phobia to watching surgery where you have to look inside people’s bodies. I try to avert my eyes, but it doesn’t work. I hear it’s a great show.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/15/1101/</guid>
-    </item>    <item>
-      <title>WebKit Features in Safari 26.0</title>
-      <link>https://webkit.org/blog/17333/webkit-features-in-safari-26-0/</link>
-      <description>
-        <![CDATA[We’re happy to share with you what’s arriving in Safari 26.0!]]>
-      </description>
-      <source:markdown>We’re happy to share with you what’s arriving in Safari 26.0!</source:markdown>
-      <guid>cid://https://webkit.org/?p=17333</guid>
-    </item>    <item>
-      <title>TypePad is closing down at the end of the month and Phil...</title>
-      <link>https://kottke.org/25/09/0047504-typepad-is-closing-down-a</link>
-      <guid>cid://tag:kottke.org,2025://13.47504</guid>
-    </item>    <item>
-      <title>Magical Thinking on AI</title>
-      <link>https://aiguide.substack.com/p/magical-thinking-on-ai</link>
-      <description>
-        <![CDATA[A Response to Thomas Friedman's Recent AI Columns in the New York Times]]>
-      </description>
-      <source:markdown>A Response to Thomas Friedman&#39;s Recent AI Columns in the New York Times</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/2dec6585-ba22-4124-bd66-4aa0a4d5837c_1693x1920.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://aiguide.substack.com/p/magical-thinking-on-ai</guid>
-    </item>    <item>
-      <title>Emmys 2025: The Pitt gana la gran batalla de drama</title>
-      <link>https://www.palomitademaiz.net/emmys-2025-ganadores/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=emmys-2025-ganadores</link>
-      <description>
-        <![CDATA[<p>Ayer se llevó a cabo la ceremonia de premiación de los Emmys 2025, la cual dejó una gran selección de ganadores. The Pitt ganó la categoría reina de drama, respaldada por los triunfos de Noah Wyle como mejor actor y Katherine LaNasa como mejor actriz de reparto. The Studio se llevó el premio mejor comedia [&#8230;]</p>
-        <p>La entrada <a href="https://www.palomitademaiz.net/emmys-2025-ganadores/">Emmys 2025: The Pitt gana la gran batalla de drama</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
-      </description>
-      <source:markdown>Ayer se llevó a cabo la ceremonia de premiación de los Emmys 2025, la cual dejó una gran selección de ganadores. The Pitt ganó la categoría reina de drama, respaldada por los triunfos de Noah Wyle como mejor actor y Katherine LaNasa como mejor actriz de reparto. The Studio se llevó el premio mejor comedia \[…\]
-
-La entrada [Emmys 2025: The Pitt gana la gran batalla de drama](https://www.palomitademaiz.net/emmys-2025-ganadores/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
-      <guid>cid://https://www.palomitademaiz.net/?p=25537</guid>
-    </item>    <item>
-      <title>Coulou&#38;#8217;s Vinyl Cafe (No. 1)</title>
-      <link>https://kottke.org/25/09/coulous-vinyl-cafe-no-1</link>
-      <guid>cid://tag:kottke.org,2025://5.47502</guid>
-    </item>    <item>
-      <title>📨🚕</title>
-      <link>https://xn--gckvb8fzb.com/projects/msgtaxi/</link>
-      <description>
-        <![CDATA[_MSG.TAXI_ is
-        a multi-protocol push notification router. You send data to it via a webhook
-        URL, and it routes that data to your configured targets (e.g. XMPP, Matrix,
-        Telegram, and more).]]>
-      </description>
-      <source:markdown>\_MSG.TAXI\_ is
-a multi-protocol push notification router. You send data to it via a webhook
-URL, and it routes that data to your configured targets (e.g. XMPP, Matrix,
-Telegram, and more).</source:markdown>
-      <author>marius@xn--gckvb8fzb.com (Marius)</author>
-      <guid>cid:///projects/msgtaxi/</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/15.html#a150723</link>
-      <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2023/05/13/modernTimes.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've gotten a lovely response to the <a href="http://scripting.com/davenet/1996/10/24/QueSeraSera.html">Que Sera Sera</a> post I linked to <a href="http://scripting.com/2025/09/13/001819.html">here</a>. It's from 1996, I was reporting from a tech conference I was at where there were all angry men on stage threatening everyone else. They may not have known they were doing that, but it was awful. And so different from the web we were just beginning to understand at that time. I'm going to start going through the posts that I remember making a difference at the time. No better way for me to remember what the web is, going back to these memories when it was all fresh and new, before the leaders of tech realized what was going on. Google didn't ship for another two years. It probably wasn't even in development at the time. Yet I think the last section is a good anthem for the web, for those of us who think it's time to cut pop all the bullshit off the stack and get back to our roots.]]>
-      </description>
-      <guid>cid://http://scripting.com/2025/09/15.html#a150723</guid>
-    </item>    <item>
-      <title>Defiant nuns flee care home for their abandoned convent in the Alps....</title>
-      <link>https://kottke.org/25/09/0047503-defiant-nuns-flee-care-ho</link>
-      <guid>cid://tag:kottke.org,2025://13.47503</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/15.html#a143619</link>
-      <description>
-        <![CDATA[I had a flash last night during the Emmys. <a href="https://daveverse.org/2025/09/14/the-bloggers-of-mastodon/">The Bloggers of Mastodon</a>. I loved the concept right off the bat, so I wrote a <a href="https://daveverse.org/2025/09/14/the-bloggers-of-mastodon/">blog post</a> using in WordLand that went through WordPress and landed <a href="https://mastodon.social/@scripting@daveverse.org/115205341809959164">on Mastodon</a>. It all works. Where are the other Bloggers of Mastodon? Let's start a club!]]>
-      </description>
-      <guid>cid://http://scripting.com/2025/09/15.html#a143619</guid>
-    </item>    <item>
-      <title>feedland.org or feedland.com?</title>
-      <link>http://scripting.com/2025/09/15/140703.html?title=feedlandorgOrFeedlandcom</link>
-      <description>
-        <![CDATA[<p>This question has come up quite a bit lately. </p>
-        <p>People don't know that there are two places you can use FeedLand, feedland.org and feedland.com.</p>
-        <p>There's a lot of history here, and some uncertainty about the future, so there's not much I can do other than explain the situation.</p>
-        <p>First you're welcome to use either of them. </p>
-        <p>feedland.org is running on a simple small server on Digital Ocean, and feedland.com is on Automattic's VIP network. </p>
-        <p>If feedland.org gets overloaded, it gets slow. </p>
-        <p>if feedland.com gets overloaded, it adds more servers and should stay about the same at all times. </p>
-        <p>You should pick one and use it and not have two accounts, but people accidentally create them, because in some places we point to .com and in others we the default is .org. It's because we haven't gotten it together yet. </p>
-        <p>There are also performance issues on .com -- ones that we still need to address. </p>
-        <p>That's about all I can say at this point. At the same time I'm working on a whole other product while all this is happening, and I'm not that young, and really can only work so many hours a day before I have to stop. A fact. </p>
-        <p>And I'm really glad so many new people are trying FeedLand. I use it myself in so many ways. And it will be deeply integrated with WordLand in the next release. I'm not kidding. </p>]]>
-      </description>
-      <guid>cid://http://scripting.com/2025/09/15/140703.html</guid>
-    </item>    <item>
-      <title>Casilda 1.0 released!</title>
-      <link>https://blogs.gnome.org/gtk/2025/09/15/casilda-1-0-released/</link>
-      <description>
-        <![CDATA[Version 1.0! I am pleased to announce the release of Casilda version 1.0, a simple Wayland compositor widget for GTK 4 which can be used to embed other processes windows in your application. This version includes lots of rendering improvements and optimizations together with new features and a simple API. Etymology Following Wayland tradition, this &#8230; <a href="https://blogs.gnome.org/gtk/2025/09/15/casilda-1-0-released/" class="more-link">Continue reading<span class="screen-reader-text"> "Casilda 1.0 released!"</span></a>]]>
-      </description>
-      <source:markdown>Version 1.0! I am pleased to announce the release of Casilda version 1.0, a simple Wayland compositor widget for GTK 4 which can be used to embed other processes windows in your application. This version includes lots of rendering improvements and optimizations together with new features and a simple API. Etymology Following Wayland tradition, this … [Continue reading &#34;Casilda 1.0 released!&#34;](https://blogs.gnome.org/gtk/2025/09/15/casilda-1-0-released/)</source:markdown>
-      <guid>cid://https://blogs.gnome.org/gtk/?p=10556</guid>
-    </item>    <item>
-      <title>AI-Powered Animal Crossing Villagers Begin Organizing Against Tom Nook</title>
-      <link>https://www.404media.co/ai-powered-animal-crossing-villagers-begin-organizing-against-tom-nook/</link>
-      <description>
-        <![CDATA[An LLM breathed new life into 'Animal Crossing' and made the villagers rise up against their landlord.]]>
-      </description>
-      <guid>cid://68c3132f75cea100016a6b79</guid>
-    </item>    <item>
-      <title>Airlines Sell 5 Billion Plane Ticket Records to the Government For Warrantless Searching</title>
-      <link>https://www.404media.co/airlines-sell-5-billion-plane-ticket-records-to-the-government-for-warrantless-searching/</link>
-      <description>
-        <![CDATA[New documents obtained by 404 Media show how a data broker owned by American Airlines, United, Delta, and many other airlines is selling masses of passenger data to the U.S. government.]]>
-      </description>
-      <guid>cid://68c80a3275cea1000171ac86</guid>
-    </item>    <item>
-      <title>Karen Attiah: &#38;#8220;The Washington Post Fired Me&#38;#8221;</title>
-      <link>https://kottke.org/25/09/karen-attiah-the-washington-post-fired-me</link>
-      <guid>cid://tag:kottke.org,2025://5.47501</guid>
-    </item>    <item>
-      <title>Come to Web Day Out in Brighton on 12 March 2026 to learn all about what you can do in browsers today: https://webdayout.com/ Tickets are just £225+VAT</title>
-      <link>https://adactio.com/notes/22131</link>
-      <description>
-        <![CDATA[<p>Come to Web Day Out in Brighton on 12 March 2026 to learn all about what you can do in browsers today:</p>
-        
-        <p><a href="https://webdayout.com/">https://webdayout.com/</a></p>
-        
-        <p>Tickets are just £225+VAT</p>]]>
-      </description>
-      <guid>cid://https://adactio.com/notes/22131</guid>
-    </item>    <item>
-      <title>When All You Have Is a Robots.txt Hammer – Pixel Envy</title>
-      <link>https://pxlnv.com/blog/when-all-you-have-is-a-robots-hammer/</link>
-      <description>
-        <![CDATA[<blockquote>
-          <p>I write here for you, not for the benefit of building the machines producing a firehose of spam, scams, and slop. The artificial intelligence companies have already violated the expectations of even a public web. Regardless of the benefits they have created — and I do believe there are benefits to these technologies — they have behaved unethically. Defensive action is the only control a publisher can assume right now.</p>
-        </blockquote>
-        
-        <p><a href="https://adactio.com/links/22130">adactio.com/links/22130</a></p>]]>
-      </description>
-      <guid>cid://https://pxlnv.com/blog/when-all-you-have-is-a-robots-hammer/</guid>
-    </item>    <item>
-      <title>It’s Maker Monday! Here are some of the top Raspberry Pi builds we’ve spotted recently</title>
-      <link>https://www.raspberrypi.com/news/its-maker-monday-here-are-some-of-the-top-raspberry-pi-builds-weve-spotted-recently/</link>
-      <description>
-        <![CDATA[<p>A selection of our favourite recent Raspberry Pi–based creations built by Raspberry Pi Official Magazine readers.</p>
-        <p>The post <a href="https://www.raspberrypi.com/news/its-maker-monday-here-are-some-of-the-top-raspberry-pi-builds-weve-spotted-recently/">It&#8217;s Maker Monday! Here are some of the top Raspberry Pi builds we&#8217;ve spotted recently</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
-      </description>
-      <source:markdown>A selection of our favourite recent Raspberry Pi–based creations built by Raspberry Pi Official Magazine readers.
-
-The post [It’s Maker Monday! Here are some of the top Raspberry Pi builds we’ve spotted recently](https://www.raspberrypi.com/news/its-maker-monday-here-are-some-of-the-top-raspberry-pi-builds-weve-spotted-recently/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
-      <guid>cid://https://www.raspberrypi.com/?p=130118</guid>
-    </item>    <item>
-      <title>Lawsuit About WhatsApp Security</title>
-      <link>https://www.schneier.com/blog/archives/2025/09/lawsuit-about-whatsapp-security.html</link>
-      <description>
-        <![CDATA[<p>Attaullah Baig, WhatsApp&#8217;s former head of security, has filed a <a href="https://arstechnica.com/security/2025/09/former-whatsapp-security-boss-sues-meta-for-systemic-cybersecurity-failures/">whistleblower</a> lawsuit alleging that Facebook deliberately failed to fix a bunch of security flaws, in violation of its 2019 settlement agreement with the Federal Trade Commission.</p>
-        <blockquote><p>The lawsuit, alleging violations of the whistleblower protection provision of the Sarbanes-Oxley Act passed in 2002, said that in 2022, roughly 100,000 WhatsApp users had their accounts hacked every day. By last year, the complaint alleged, as many as 400,000 WhatsApp users were getting locked out of their accounts each day as a result of such account takeovers...</p></blockquote>]]>
-      </description>
-      <guid>cid://https://www.schneier.com/?p=70758</guid>
-    </item>    <item>
-      <title>When AI Writes Code, Who Secures It?</title>
-      <link>https://www.oreilly.com/radar/when-ai-writes-code-who-secures-it/</link>
-      <description>
-        <![CDATA[In early 2024, a striking deepfake fraud case in Hong Kong brought the vulnerabilities of AI-driven deception into sharp relief. A finance employee was duped during a video call by what appeared to be the CFO—but was, in fact, a sophisticated AI-generated deepfake. Convinced of the call’s authenticity, the employee made 15 transfers totaling over [&#8230;]]]>
-      </description>
-      <source:markdown>In early 2024, a striking deepfake fraud case in Hong Kong brought the vulnerabilities of AI-driven deception into sharp relief. A finance employee was duped during a video call by what appeared to be the CFO—but was, in fact, a sophisticated AI-generated deepfake. Convinced of the call’s authenticity, the employee made 15 transfers totaling over \[…\]</source:markdown>
-      <guid>cid://https://www.oreilly.com/radar/?p=17436</guid>
-    </item>    <item>
-      <link>https://bogdanthegeek.github.io/blog/projects/vapeserver/#fn:2</link>
-      <description>
-        <![CDATA[<p>Hosting a WebSite on a Disposable Vape.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/15/1099/</guid>
-    </item>    <item>
-      <title>My Head Talks on Bloomberg</title>
-      <link>https://paulkrugman.substack.com/p/my-head-talks-on-bloomberg</link>
-      <description>
-        <![CDATA[On tariffs, housing and more]]>
-      </description>
-      <source:markdown>On tariffs, housing and more</source:markdown>
-      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/vHk-_sh2sfw" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/my-head-talks-on-bloomberg</guid>
-    </item>    <item>
-      <title>Who Will See My Comment? [en]</title>
-      <link>https://climbtothestars.org/archives/2025/09/15/who-will-see-my-comment/</link>
-      <description>
-        <![CDATA[[en] Another interesting observation following my return to Facebook: when somebody responds to one of my posts there, it definitely feels like the audience for this response is primarily the people I am connected to. What I mean by that is that I expect that my contacts have a chance of seeing that response, because &#8230; <a href="https://climbtothestars.org/archives/2025/09/15/who-will-see-my-comment/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Who Will See My Comment? <span class='bb-lang'>[en]</span></span>"</span></a>]]>
-      </description>
-      <source:markdown>\[en\] Another interesting observation following my return to Facebook: when somebody responds to one of my posts there, it definitely feels like the audience for this response is primarily the people I am connected to. What I mean by that is that I expect that my contacts have a chance of seeing that response, because … [Continue reading &#34;Who Will See My Comment? \[en\]&#34;](https://climbtothestars.org/archives/2025/09/15/who-will-see-my-comment/)</source:markdown>
-      <guid>cid://https://climbtothestars.org/?p=10127</guid>
-    </item>    <item>
-      <title>META Found Guilty of Mishandling Women’s Health Information</title>
-      <link>https://puri.sm/posts/meta-found-guilty-of-mishandling-womens-health-information/</link>
-      <description>
-        <![CDATA[<p>A federal jury in San Francisco found Meta liable under the California Invasion of Privacy Act for improperly collecting and using sensitive reproductive health data from users of the Flo Health app.</p>
-        <p>The case revealed that Meta’s embedded SDKs harvested intimate details—like menstrual cycles and pregnancy intentions—without informed consent, violating state privacy laws.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/meta-found-guilty-of-mishandling-womens-health-information/">META Found Guilty of Mishandling Women’s Health Information</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <guid>cid://https://puri.sm/?p=84312</guid>
-    </item>    <item>
-      <title>Where Have All The Bloggers Gone? [en]</title>
-      <link>https://climbtothestars.org/archives/2025/09/15/where-have-all-the-bloggers-gone/</link>
-      <description>
-        <![CDATA[[en] What is happening for me right now is interesting. During my Facebook exile, I reconnected with the social networks that I had been present on in a very passive manner these last years. I also wrote more on my blog (here!), and made an effort to get back into reading other blogs, even though &#8230; <a href="https://climbtothestars.org/archives/2025/09/15/where-have-all-the-bloggers-gone/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Where Have All The Bloggers Gone? <span class='bb-lang'>[en]</span></span>"</span></a>]]>
-      </description>
-      <source:markdown>\[en\] What is happening for me right now is interesting. During my Facebook exile, I reconnected with the social networks that I had been present on in a very passive manner these last years. I also wrote more on my blog (here!), and made an effort to get back into reading other blogs, even though … [Continue reading &#34;Where Have All The Bloggers Gone? \[en\]&#34;](https://climbtothestars.org/archives/2025/09/15/where-have-all-the-bloggers-gone/)</source:markdown>
-      <guid>cid://https://climbtothestars.org/?p=10124</guid>
-    </item>    <item>
-      <title>Trump’s Phase 2 now begins</title>
-      <link>https://robertreich.substack.com/p/trumps-phase-2-now-begins</link>
-      <description>
-        <![CDATA[It&#8217;s a last-ditch effort to discredit all Trump&#8217;s political opponents. It will fail.]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!QPPi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb866b5c7-a8a5-41fe-bf33-5efc243fab73_1456x1528.webp" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/trumps-phase-2-now-begins</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3lytzda7bus2z</link>
-      <description>
-        <![CDATA[Worth doing. blackoutthesystem.com
-        https://blackoutthesystem.com/]]>
-      </description>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3lytzda7bus2z</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3lytzat2ivk2z</link>
-      <description>
-        <![CDATA[👇
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3lytzat2ivk2z</guid>
-    </item>    <item>
-      <title>September 14, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-14-2025</link>
-      <description>
-        <![CDATA[At 10:22 on the morning of Sunday, September 15, 1963, a bomb ripped through the 16th Street Baptist Church in Birmingham, Alabama.]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/bccqUo0mZvQ" length="0" type="image/jpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-14-2025</guid>
-    </item>    <item>
-      <title>64 Miles in New York City</title>
-      <link>https://nazhamid.com/journal/64-miles-in-nyc/</link>
-      <guid>cid://https://nazhamid.com/journal/64-miles-in-nyc/</guid>
-    </item>    <item>
-      <link>https://www.thedailybeast.com/white-house-insists-stephen-miller-does-not-play-with-dolls/</link>
-      <description>
-        <![CDATA[<p>White House Insists Stephen Miller Does Not Play with Dolls.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/14/1097/</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3lyto765cds2k</link>
-      <description>
-        <![CDATA[Re-read this scripting post from 1996 http://scripting.com/davenet/1996/10/24/QueSeraSera.html still relevant to today, just add a few new names for the industry "leaders" of 2025. We're still here.]]>
-      </description>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3lyto765cds2k</guid>
-    </item>    <item>
-      <link>https://www.nytimes.com/2025/09/14/nyregion/hochul-mamdani-mayor-endorsement.html</link>
-      <description>
-        <![CDATA[<p>NY Governor Hochul Endorses Mamdani for Mayor of New York.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/14/1095/</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/14.html#a013324</link>
-      <description>
-        <![CDATA[The Bloggers <a href="https://mastodon.social/@scripting@daveverse.org/115205341809959164">of Mastodon</a>.]]>
-      </description>
-      <guid>cid://http://scripting.com/2025/09/14.html#a013324</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115205455442058285</link>
-      <description>
-        <![CDATA[<p>This is an incredible thread:<br /><a href="https://mastodon.social/@mcc/115204933163360398" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@mcc/115204933</span><span class="invisible">163360398</span></a></p>]]>
-      </description>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115205455442058285</guid>
-    </item>    <item>
-      <title>Sovereign individuals and NPCs</title>
-      <link>https://tracydurnell.com/2025/09/14/sovereign-individuals-and-npcs/</link>
-      <description>
-        <![CDATA[Authenticate thyself by Marion Fourcade &#38; Kieran Healy As the deployment of digital technologies continues to generate ever-more stratospheric concentrations of wealth, the masses sink deeper into the void left by the evisceration of social solidarity and the rise of automation. The often-missed point about sovereign individuals is that not everyone gets to be one. [&#8230;]]]>
-      </description>
-      <source:markdown>Authenticate thyself by Marion Fourcade &#38; Kieran Healy As the deployment of digital technologies continues to generate ever-more stratospheric concentrations of wealth, the masses sink deeper into the void left by the evisceration of social solidarity and the rise of automation. The often-missed point about sovereign individuals is that not everyone gets to be one. \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=29724</guid>
-    </item>    <item>
-      <title>weekly retro #32: hospitals, trucks, and a little coke</title>
-      <link>https://livelaugh.blog/posts/weekly-retro-32/</link>
-      <guid>cid://https://livelaugh.blog/posts/weekly-retro-32/</guid>
-    </item>    <item>
-      <title>How I Use AI</title>
-      <link>http://timkellogg.me/blog/2025/09/15/ai-tools</link>
-      <description>
-        <![CDATA[A few people have asked me how I use AI coding tools. I don’t think it’s a straightforward answer.
-        For me it’s not really a procedure or recipe, it’s more of an ethos.]]>
-      </description>
-      <source:markdown>A few people have asked me how I use AI coding tools. I don’t think it’s a straightforward answer.
-For me it’s not really a procedure or recipe, it’s more of an ethos.</source:markdown>
-      <guid>cid://http://timkellogg.me/blog/2025/09/15/ai-tools</guid>
     </item>
   </channel>
 </rss>
