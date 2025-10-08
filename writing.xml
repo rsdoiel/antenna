@@ -4,10 +4,14 @@
   <channel>
     <title>Writing</title>
     <link>http://localhost:8000/writingxml</link>
-    <lastBuildDate>07 Oct 25 16:28 -0700</lastBuildDate>
+    <lastBuildDate>08 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Using Advanced Character Sketch Templates in Scrivener</title>
+      <link>https://www.literatureandlatte.com/blog/using-advanced-character-sketch-templates-in-scrivener</link>
+      <guid>cid://https://www.literatureandlatte.com/?p=8075</guid>
+    </item>    <item>
       <title>A Cheap Cut of Meat Soaked in Butter (Encore)</title>
       <link>https://johnaugust.com/2025/a-cheap-cut-of-meat-soaked-in-butter-encore</link>
       <description>
@@ -115,28 +119,6 @@ The post [Short Films and Existential Threats](https://johnaugust.com/2025/short
       <title>BookTok and Beyond: How Young Readers Are Reviving Physical Bookstores</title>
       <link>https://www.literatureandlatte.com/blog/booktok-and-beyond-how-young-readers-are-reviving-physical-bookstores</link>
       <guid>cid://https://www.literatureandlatte.com/?p=7932</guid>
-    </item>    <item>
-      <title>Robert Redford, RIP</title>
-      <link>https://johnaugust.com/2025/robert-redford-rip</link>
-      <description>
-        <![CDATA[<p>Robert Redford’s remarkable career as an actor and director enabled his biggest triumph, the Sundance Institute. I was lucky to be part of it.</p>
-        The post <a href="https://johnaugust.com/2025/robert-redford-rip">Robert Redford, RIP</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
-      </description>
-      <source:markdown>Robert Redford’s remarkable career as an actor and director enabled his biggest triumph, the Sundance Institute. I was lucky to be part of it.
-
-The post [Robert Redford, RIP](https://johnaugust.com/2025/robert-redford-rip) first appeared on [John August](https://johnaugust.com).</source:markdown>
-      <guid>cid://https://johnaugust.com/?p=23458</guid>
-    </item>    <item>
-      <title>Places, Everyone</title>
-      <link>https://johnaugust.com/2025/places-everyone</link>
-      <description>
-        <![CDATA[<p>John welcomes back Liz Hannah (The Post, The Girl from Plainville) to discuss how to construct and communicate setting in a script. They talk about the balance between establishing a sense of space while avoiding the beginner’s mistake of over-blocking. We also follow up on accountability groups, last looks, and French composers. Then, we answer [&#8230;]</p>
-        The post <a href="https://johnaugust.com/2025/places-everyone">Places, Everyone</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
-      </description>
-      <source:markdown>John welcomes back Liz Hannah (The Post, The Girl from Plainville) to discuss how to construct and communicate setting in a script. They talk about the balance between establishing a sense of space while avoiding the beginner’s mistake of over-blocking. We also follow up on accountability groups, last looks, and French composers. Then, we answer \[…\]
-
-The post [Places, Everyone](https://johnaugust.com/2025/places-everyone) first appeared on [John August](https://johnaugust.com).</source:markdown>
-      <guid>cid://https://johnaugust.com/?p=23449</guid>
     </item>
   </channel>
 </rss>

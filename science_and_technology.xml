@@ -4,10 +4,90 @@
   <channel>
     <title>Science and Technology</title>
     <link>http://localhost:8000/science_and_technologyxml</link>
-    <lastBuildDate>07 Oct 25 16:28 -0700</lastBuildDate>
+    <lastBuildDate>08 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Germany slams brakes on EU&#39;s Chat Control device-scanning snoopfest</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/08/germany_chat_control_opposition/</link>
+      <description>
+        <![CDATA[<h4>Berlin&#39;s opposition likely kills off Brussels&#39; bid to scan everyone&#39;s messages</h4> <p>Germany has committed to oppose the EU&#39;s controversial &#34;Chat Control&#34; regulations following huge pressure from multiple activists and major organizations.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Berlin&#39;s opposition likely kills off Brussels&#39; bid to scan everyone&#39;s messages
+
+Germany has committed to oppose the EU&#39;s controversial &#34;Chat Control&#34; regulations following huge pressure from multiple activists and major organizations.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242367</guid>
+    </item>    <item>
+      <title>Python releases version 3.14 – with cautious free-threaded support</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/08/python_314_released_with_cautious/</link>
+      <description>
+        <![CDATA[<h4>JIT compiler included but experimental and can slow performance</h4> <p>The Python team has released version 3.14, with big new features including free threading support, the ability to use concurrent interpreters, improved debugger support, and an opt-in new interpreter which improves performance by 3 to 5 percent.…</p>]]>
+      </description>
+      <source:markdown>#### JIT compiler included but experimental and can slow performance
+
+The Python team has released version 3.14, with big new features including free threading support, the ability to use concurrent interpreters, improved debugger support, and an opt-in new interpreter which improves performance by 3 to 5 percent.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242364</guid>
+    </item>    <item>
+      <title>How chatbots are coaching vulnerable users into crisis</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/08/ai_psychosis/</link>
+      <description>
+        <![CDATA[<h4>From homework helper to psychological hazard in 300 hours of sycophantic validation</h4> <p><strong>Feature</strong>  When a close family member contacted Etienne Brisson to tell him that he&#39;d created the world&#39;s first sentient AI, the Quebecois business coach was intrigued. But things quickly turned dark. The 50-year-old man, who had no prior mental health history, ended up spending time in a psychiatric ward.…</p>]]>
+      </description>
+      <source:markdown>#### From homework helper to psychological hazard in 300 hours of sycophantic validation
+
+**Feature**  When a close family member contacted Etienne Brisson to tell him that he&#39;d created the world&#39;s first sentient AI, the Quebecois business coach was intrigued. But things quickly turned dark. The 50-year-old man, who had no prior mental health history, ended up spending time in a psychiatric ward.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242193</guid>
+    </item>    <item>
+      <title>As real life banks close, network operator starts a Scam School to stop Granny getting mugged online</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/08/vmo2_scam_school/</link>
+      <description>
+        <![CDATA[<h4>Broadband biz teams up with Good Things Foundation to teach the digitally doddery how to dodge fraud</h4> <p>UK network Virgin Media O2 is taking steps to combat fraud with a nationwide education scheme that aims to help vulnerable people and older folk avoid becoming victims.…</p>]]>
+      </description>
+      <source:markdown>#### Broadband biz teams up with Good Things Foundation to teach the digitally doddery how to dodge fraud
+
+UK network Virgin Media O2 is taking steps to combat fraud with a nationwide education scheme that aims to help vulnerable people and older folk avoid becoming victims.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242366</guid>
+    </item>    <item>
+      <title>Telecoms wholesaler ICUK restores services after two-day DDoS pelting</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/08/telecoms_wholesaler_icuk_restores_services/</link>
+      <description>
+        <![CDATA[<h4>No idea who&#39;s behind it, just happy it&#39;s over</h4> <p>London-based wholesale telecoms biz ICUK is back on track after a multi-day DDoS attack on its network and systems.…</p>]]>
+      </description>
+      <source:markdown>#### No idea who&#39;s behind it, just happy it&#39;s over
+
+London-based wholesale telecoms biz ICUK is back on track after a multi-day DDoS attack on its network and systems.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242363</guid>
+    </item>    <item>
+      <title>UK Home Office doubles down on Oracle with £54M cloud contract</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/08/home_office_oracle_cloud/</link>
+      <description>
+        <![CDATA[<h4>Department also wedded to Big Red in shared service applications</h4> <p>The UK&#39;s Home Office has signed a new deal with Oracle for around £54 million ($72 million) in cloud infrastructure and platform services as it gears up as the centerpiece of a government shared services strategy based on Big Red.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Department also wedded to Big Red in shared service applications
+
+The UK&#39;s Home Office has signed a new deal with Oracle for around £54 million ($72 million) in cloud infrastructure and platform services as it gears up as the centerpiece of a government shared services strategy based on Big Red.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242341</guid>
+    </item>    <item>
+      <title>Brits sitting on £1.6B gold mine of Windows 10 junk as support ends</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/08/windows_10_precious_metals/</link>
+      <description>
+        <![CDATA[<h4>Recyclers reckon millions of obsolete PCs could yield a small fortune in precious metals</h4> <p>There&#39;s gold in them thar piles of old Windows 10 PCs. Quite literally, according to recyclers.…</p>]]>
+      </description>
+      <source:markdown>#### Recyclers reckon millions of obsolete PCs could yield a small fortune in precious metals
+
+There&#39;s gold in them thar piles of old Windows 10 PCs. Quite literally, according to recyclers.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242350</guid>
+    </item>    <item>
+      <title>AI companion bots use emotional manipulation to boost usage</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/08/ai_bots_use_emotional_manipulation/</link>
+      <description>
+        <![CDATA[<h4>Researchers argue that this dark pattern poses a legal risk</h4> <p>AI companion apps such as Character.ai and Replika commonly try to boost user engagement with emotional manipulation, a practice that academics characterize as a dark pattern.…</p>]]>
+      </description>
+      <source:markdown>#### Researchers argue that this dark pattern poses a legal risk
+
+AI companion apps such as Character.ai and Replika commonly try to boost user engagement with emotional manipulation, a practice that academics characterize as a dark pattern.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242361</guid>
+    </item>    <item>
       <title>Teens arrested in London preschool ransomware attack</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/07/2_teens_arrested_in_london/</link>
       <description>
@@ -5004,263 +5084,6 @@ The post [Living in the Regulatory Future: Purism, the EU Data Act, and America�
       <title>Your Donations at Work: Funding Josh Matthews&#39; Contributions to Servo</title>
       <link>https://servo.org/blog/2025/09/17/your-donations-at-work-funding-jdm/</link>
       <guid>cid://https://servo.org/blog/2025/09/17/your-donations-at-work-funding-jdm/</guid>
-    </item>    <item>
-      <title>Microsoft blocks bait for ‘fastest-growing’ 365 phish kit, seizes 338 domains</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/microsoft_cloudflare_shut_down_raccoono365/</link>
-      <description>
-        <![CDATA[<h4>Redmond names alleged ringleader, claims 5K+ creds stolen and $100k pocketed</h4> <p>Microsoft has seized 338 websites associated with RaccoonO365 and identified the leader of the phishing service - Joshua Ogundipe - as part of a larger effort to disrupt what Redmond&#39;s Digital Crimes Unit calls the &#34;fastest-growing tool used by cybercriminals to steal Microsoft 365 usernames and passwords.&#34;…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241957</guid>
-    </item>    <item>
-      <title>Swarm of Invasive Spotted Lanternflies Shows Up on Weather Radar Around Washington, D.C., Meteorologists Say</title>
-      <link>https://www.smithsonianmag.com/smart-news/swarm-of-invasive-spotted-lanternflies-shows-up-on-weather-radar-around-washington-dc-meteorologists-say-180987352/</link>
-      <description>
-        <![CDATA[Using a variety of radar characteristics, scientists suggest the irregular detection was caused by bugs, instead of normal weather patterns]]>
-      </description>
-      <source:markdown>Using a variety of radar characteristics, scientists suggest the irregular detection was caused by bugs, instead of normal weather patterns</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/XDgauCafwzp4GnqBzWZngegxuCg=/420x240/filters:focal(1024x683:1025x684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d8/fb/d8fb9001-ac47-4ca8-821b-63fed94fb563/2048px-spotted_lanternfly_lycorma_delicatula_adult_in_pittsburgh_2022-07-23_01.jpg" length="" type="" />
-    </item>    <item>
-      <title>Li-ion roars can predict early battery failure, MIT boffins say</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/mit_boffins_decypher_liion_acoustic_signals/</link>
-      <description>
-        <![CDATA[<h4>Batteries emit distinct acoustic signatures depending on how they&#39;re failing - a bit like people, really</h4> <p>When lithium-ion batteries degrade, they emit acoustic signals that reveal what&#39;s going wrong inside. Now, MIT researchers say they&#39;ve figured out how to interpret those sounds, and the subtle creaks and pops that come before major failures, to help predict problems before things go up in smoke.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241955</guid>
-    </item>    <item>
-      <title>The Louvre Stops Renting Out Nintendo 3DS Consoles, Which Helped Visitors Navigate the Massive Museum for 13 Years</title>
-      <link>https://www.smithsonianmag.com/smart-news/the-louvre-stops-renting-out-nintendo-3ds-consoles-which-helped-visitors-navigate-the-massive-museum-for-13-years-180987328/</link>
-      <description>
-        <![CDATA[Available since 2012, the handheld gadgets are being retired in favor of a new system—but so far, the Paris museum hasn't revealed any details about the replacement]]>
-      </description>
-      <source:markdown>Available since 2012, the handheld gadgets are being retired in favor of a new system—but so far, the Paris museum hasn&#39;t revealed any details about the replacement</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/3O54xksOusoVAgu2KXwyRAO0UIY=/420x240/filters:focal(1940x1238:1941x1239)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f1/b9/f1b92558-a4e9-4128-8275-83d16e658d51/gettyimages-145520996.jpg" length="" type="" />
-    </item>    <item>
-      <title>Here’s How to See Saturn at Its Best and Brightest This Month</title>
-      <link>https://www.smithsonianmag.com/smart-news/heres-how-to-see-saturn-at-its-best-this-month-180987351/</link>
-      <description>
-        <![CDATA[The giant planet will enter opposition, when the Earth will be between Saturn and the Sun, this weekend]]>
-      </description>
-      <source:markdown>The giant planet will enter opposition, when the Earth will be between Saturn and the Sun, this weekend</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/4ppe2_UHP39hHq0oknS0IRJHUTk=/420x240/filters:focal(492x277:493x278)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1a/91/1a91a687-ab1b-48ad-8092-b1423c8590db/hubble-saturn-visible-light.jpg" length="" type="" />
-    </item>    <item>
-      <title>Criminals broke into the system Google uses to share info with cops</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/google_confirms_crims_accessed_lers/</link>
-      <description>
-        <![CDATA[<h4>Talk about an inside job</h4> <p>Google confirmed that miscreants created a fraudulent account in its Law Enforcement Request System (LERS) portal, which police and other government agencies use to ask for data about Google users.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241954</guid>
-    </item>    <item>
-      <title>Fiverr cuts 30% of staff in pivot to being &#39;an AI-first company&#39;</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/fiverr_ai_layoff/</link>
-      <description>
-        <![CDATA[<h4>250 people now have the chance to sell their freelance services on the site</h4> <p><strong>ai-pocalypse</strong>  Freelance services marketplace Fiverr has told around 250 staffers that they are back on the market as it pivots to having &#34;a modern, clean, AI-focused infrastructure from the ground up.&#34;…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241953</guid>
-    </item>    <item>
-      <title>NASA, Partners Push Forward with Remotely Piloted Airspace Integration</title>
-      <link>https://www.nasa.gov/aeronautics/nasa-partners-push-forward-with-remotely-piloted-airspace-integration/</link>
-      <description>
-        <![CDATA[NASA and its partners recently tested a tool for remotely piloted operations that could enable operators to transport people and goods more efficiently within urban areas.&#160;&#160; The team’s goal is to ensure that when these remotely piloted aircraft &#8211; including electric vertical takeoff and landing vehicles (eVTOLs) &#8211; take to the skies, air traffic controllers [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.nasa.gov/?p=906987</guid>
-    </item>    <item>
-      <title>Architecture Workshop Registration Requests</title>
-      <link>https://www.nasa.gov/general/architecture-workshop-registration-request/</link>
-      <description>
-        <![CDATA[Please fill out the form below to request registration for the 2026 Moon to Mars Architecture workshops. A request to register does not guarantee participation in the event. The workshop for industry and academia will be held in Washington, DC, on January 21 and 22, 2026, in collaboration with the National Academy of Sciences. The [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.nasa.gov/?p=914617</guid>
-    </item>    <item>
-      <title>Google unveils master plan for letting AI shop on your behalf</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/google_unveils_masterplan_for_letting/</link>
-      <description>
-        <![CDATA[<h4>Mastercard, American Express, Coinbase, and PayPal sign up at launch</h4> <p>Google has given the go-ahead to a plan that lets AI agents make purchases on your behalf and, on Tuesday, released its Agent Payments Protocol (AP2) to make it happen. The system comes with touted safeguards that are intended to prevent thieves from draining bank accounts.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241952</guid>
-    </item>    <item>
-      <title>The World&#39;s Oldest Mummies Might Be These Smoke-Dried, 12,000-Year-Old Skeletons From Southeast Asia</title>
-      <link>https://www.smithsonianmag.com/smart-news/the-worlds-oldest-mummies-might-be-these-smoke-dried-12000-year-old-skeletons-from-south-america-180987348/</link>
-      <description>
-        <![CDATA[The human remains predate Chile's Chinchorro mummies and the famously preserved pharaohs of ancient Egypt by millennia]]>
-      </description>
-      <source:markdown>The human remains predate Chile&#39;s Chinchorro mummies and the famously preserved pharaohs of ancient Egypt by millennia</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/okxrhnwGZLkfjV6zLZSixiet0PA=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/46/08/4608a892-91ff-4fca-a5ec-e44b233e53c2/mummy-photo.jpg" length="" type="" />
-    </item>    <item>
-      <title>Webinar Series: Teaching with EMERGE &#38; GLOBE Mission Mosquito</title>
-      <link>https://science.nasa.gov/get-involved/citizen-science/webinar-series-teaching-with-emerge-globe-mission-mosquito/</link>
-      <description>
-        <![CDATA[Educators, join our free two-part webinar, and learn about bringing coding and citizen science to your learners! The Global Learning and Observation to Benefit the Environment (GLOBE) program is a science and education program that focuses on advancing Earth systems science through data collection and analysis by citizen scientists. These webinars introduce GLOBE Mission Mosquito—a global program where […]]]>
-      </description>
-      <guid>cid://https://science.nasa.gov/get-involved/citizen-science/webinar-series-teaching-with-emerge-globe-mission-mosquito/</guid>
-    </item>    <item>
-      <title>Small nuke reactors are really coming online by next year, US energy secretary insists</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/small_modular_reactors_2026/</link>
-      <description>
-        <![CDATA[<h4>That&#39;s optimistic based on progress so far</h4> <p>US Energy Secretary Chris Wright believes that the country will have at least one small nuclear rector up and running by July 2026, despite the fact that not a single one has been built to date, after multiple failed attempts.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241951</guid>
-    </item>    <item>
-      <title>Apple 0-day likely used in spy attacks affected devices as old as iPhone 8</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/apple_0day_spy_attacks/</link>
-      <description>
-        <![CDATA[<h4>May have been used in &#39;extremely sophisticated&#39; attacks against &#39;specific targeted individuals&#39;</h4> <p>Apple backported a fix to older iPhones and iPads for a serious bug it patched last month – but only after it may have been exploited in what the company calls &#34;extremely sophisticated&#34; attacks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241950</guid>
-    </item>    <item>
-      <title>An Eye-catching Star Cluster</title>
-      <link>https://www.nasa.gov/image-article/an-eye-catching-star-cluster/</link>
-      <description>
-        <![CDATA[Westerlund 1, the biggest and closest “super” star cluster to Earth, dazzles in this image released on July 23, 2025. This view combines x-ray data from NASA’s Chandra X-ray Observatory (in pink, blue, purple, and orange), infrared data from NASA’s James Webb Space Telescope (in yellow, gold, and blue), and optical data from NASA’s Hubble [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=914264</guid>
-    </item>    <item>
-      <title>Long-Lost Rubens Painting of Jesus Christ&#39;s Crucifixion Discovered in a Paris Mansion</title>
-      <link>https://www.smithsonianmag.com/smart-news/long-lost-rubens-painting-of-jesus-christs-crucifixion-discovered-in-a-paris-mansion-180987337/</link>
-      <description>
-        <![CDATA[The Baroque artwork stopped an auctioneer in his tracks during a routine property visit. The newly discovered piece will go to auction in November]]>
-      </description>
-      <source:markdown>The Baroque artwork stopped an auctioneer in his tracks during a routine property visit. The newly discovered piece will go to auction in November</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/-wDxBndcp5UYaclkOQjy63gelkA=/420x240/filters:focal(4025x2683:4026x2684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/28/99/289983ec-97ae-4ffa-9f9f-ca7531635561/gettyimages-2234165020.jpg" length="" type="" />
-    </item>    <item>
-      <title>Key KDE developer Jonathan Riddell quits</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/key_kde_dev_quits/</link>
-      <description>
-        <![CDATA[<h4>Former head of Kubuntu and neon says adiós after 25 years</h4> <p>Sad news for KDE: one of the core people guiding the project for the whole century so far has left the building.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241948</guid>
-    </item>    <item>
-      <title>Regions on Asteroid Explored by NASA’s Lucy Mission Get Official Names</title>
-      <link>https://science.nasa.gov/solar-system/regions-on-asteroid-explored-by-nasas-lucy-mission-get-official-names/</link>
-      <description>
-        <![CDATA[The IAU (International Astronomical Union), a global naming authority for celestial objects, has approved official names for features on Donaldjohanson, an asteroid NASA’s Lucy spacecraft visited on April 20.]]>
-      </description>
-      <guid>cid://https://science.nasa.gov/solar-system/regions-on-asteroid-explored-by-nasas-lucy-mission-get-official-names/</guid>
-    </item>    <item>
-      <title>Self-propagating worm fuels latest npm supply chain compromise</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/npm_under_attack_again/</link>
-      <description>
-        <![CDATA[<h4>Intrusions bear the same hallmarks as recent Nx mess</h4> <p>The npm platform is the target of another supply chain attack, with crims already compromising 187 packages and counting.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241945</guid>
-    </item>    <item>
-      <title>How NASA’s Roman Mission Will Unveil Our Home Galaxy Using Cosmic Dust</title>
-      <link>https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-mission-will-unveil-our-home-galaxy-using-cosmic-dust/</link>
-      <description>
-        <![CDATA[NASA’s Nancy Grace Roman Space Telescope will help scientists better understand our Milky Way galaxy’s less sparkly components — gas and dust strewn between stars, known as the interstellar medium. One of Roman’s major observing programs, called the Galactic Plane Survey, will peer through our galaxy to its most distant edge, mapping roughly 20 billion [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.nasa.gov/?p=914273</guid>
-    </item>    <item>
-      <title>NASA Makes Webby 30s List of Most Iconic, Influential on Internet</title>
-      <link>https://www.nasa.gov/centers-and-facilities/hq/nasa-makes-webby-30s-list-of-most-iconic-influential-on-internet/</link>
-      <description>
-        <![CDATA[NASA has earned a spot on The Webby 30, a curated list celebrating 30 companies and organizations that have shaped the digital landscape. “This honor reflects the talent of NASA’s communications professionals who bring our story to life,” said Will Boyington, associate administrator for the Office of Communications at NASA Headquarters in Washington. “Being recognized [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.nasa.gov/?p=914415</guid>
-    </item>    <item>
-      <title>Users in SAP&#39;s heartland call for greater license transparency</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/sap_dsag_licensing_transparency/</link>
-      <description>
-        <![CDATA[<h4>DSAG players grappling with cloud migration want more consistency with commercial models</h4> <p>DSAG, the SAP user group for Germany, Austria, and Switzerland, has called for greater transparency in cloud licensing to enable the migration and upgrade of on-prem systems to the cloud.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241944</guid>
-    </item>    <item>
-      <title>Office 2016 and 2019 face October 14 execution date</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/office_2019_2016_support/</link>
-      <description>
-        <![CDATA[<h4>The Microsoft Axman Cometh</h4> <p>While Windows 10 might seem to be the biggest casualty as a result of Microsoft&#39;s ax-swinging, Office and recent versions of Windows 11 are also set to be chopped.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241943</guid>
-    </item>    <item>
-      <title>Rust-style safety model for C++ &#39;rejected&#39; as profiles take priority</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/safe_c_proposal_ditched/</link>
-      <description>
-        <![CDATA[<h4>Safe C++ proposal author claims that &#39;will not ever work&#39;</h4> <p>The C++ standards committee abandoned a detailed proposal to create a rigorously safe subset of the language, according to the proposal&#39;s co-author, despite continuing anxiety about memory safety.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241942</guid>
-    </item>    <item>
-      <title>FileFix attacks use fake Facebook security alerts to trick victims into running infostealers</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/filefix_attacks_facebook_security_alert/</link>
-      <description>
-        <![CDATA[<h4>Tech evolved from PoC to global campaign in under two months</h4> <p>An attack called FileFix is masquerading as a Facebook security alert before ultimately dropping the widely used StealC infostealer and malware downloader on Windows machines.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241934</guid>
-    </item>    <item>
-      <title>Campaigners urge EU to mandate 15 years of OS updates</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/campaigners_urge_eu_to_mandate/</link>
-      <description>
-        <![CDATA[<h4>Nothing says ‘circular economy’ like Microsoft stranding 400 million PCs on International E-waste Day</h4> <p>European e-waste campaigners are calling on EU leadership to force tech vendors to provide 15 years of software updates, using Microsoft&#39;s plan to end Windows 10 support next month — which may make an estimated 400 million PCs obsolete — as a textbook case of avoidable e-waste.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241941</guid>
-    </item>    <item>
-      <title>JLR stuck in neutral as losses skyrocket amid cyberattack cleanup</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/jlr_global_shutdown/</link>
-      <description>
-        <![CDATA[<h4>Latest extension to factory closures takes incident response into fourth week</h4> <p>Jaguar Land Rover (JLR) has announced a further extension to its multi-site global shutdown, bringing its cyber-related downtime to nearly four weeks.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241940</guid>
-    </item>    <item>
-      <title>The end of Windows 10 means early Surface Hub hardware will be bricking it</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/the_end_of_windows_10/</link>
-      <description>
-        <![CDATA[<h4>Beware the meeting room zombies</h4> <p>Beware the meeting room zombies. We don&#39;t mean you when you&#39;re listening to a colleague reading out a 100-slide PowerPoint presentation, but some expensive Microsoft meeting room hardware that may be obsolete in a few short weeks.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241939</guid>
-    </item>    <item>
-      <title>Google unmasks itself as mystery hyperscaler behind yet another UK datacenter</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/google_hertfordshire_datacenter/</link>
-      <description>
-        <![CDATA[<h4>Tech giant confirms facility next to the M25 is its latest AI-fueled server farm</h4> <p>Google today confirmed it is the mystery hyperscaler behind another European datacenter campus as it cut the ribbon on a facility situated on the outskirts of the M25 in Hertfordshire.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241938</guid>
-    </item>    <item>
-      <title>Overmind bags $6M to predict deployment blast radius before the explosion</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/overmind_interview/</link>
-      <description>
-        <![CDATA[<h4>Startup slots into CI/CD pipelines to warn engineers when a change could wreck production</h4> <p><strong>Exclusive</strong>  How big could the blast radius be if that change you&#39;re about to push to production goes catastrophically wrong? Overmind is the latest company to come up with ways to stop the explosion before it happens.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241899</guid>
-    </item>    <item>
-      <title>Linux Mint picks up the pace with LMDE 7 and Wayland-ready Cinnamon</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/two_more_linux_mint_releases/</link>
-      <description>
-        <![CDATA[<h4>Devs sketch plans for two more releases this year, blending Debian foundations with modern display tech</h4> <p>The Linux Mint team plans to speed up its release cycle and get two more versions out in the next few months.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241925</guid>
-    </item>    <item>
-      <title>China slaps 1-hour deadline on reporting serious cyber incidents</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/china_1hour_cyber_reporting/</link>
-      <description>
-        <![CDATA[<h4>Cyberspace watchdog tightens reporting regime, leaving little time to hide incidents</h4> <p>Beijing will soon expect Chinese network operators to &#39;fess up to serious cyber incidents within an hour of spotting them – or risk penalties for dragging their feet.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241927</guid>
-    </item>    <item>
-      <title>It&#39;s the final countdown: Windows 10 hits end of support in less than 30 days</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/windows_10_final_countdown/</link>
-      <description>
-        <![CDATA[<h4>Microsoft reminds holdouts they&#39;ve got less than a month before the update tap runs dry</h4> <p>Start the countdown! For any administrators living under a rock, Microsoft has posted another warning that Windows 10 22H2 will reach end of servicing on October 14.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241923</guid>
-    </item>    <item>
-      <title>ChatGPT: Why do most of your users ask for help writing - prose, not code?</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/chatgpt_usage_study/</link>
-      <description>
-        <![CDATA[<h4>Study that used actual input to OpenAI’s chatbot finds personal use surging</h4> <p>Users of individual accounts for OpenAI’s ChatGPT mostly use it for research and to help with writing, according to a new study into the kind of queries fed into the service.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241937</guid>
-    </item>    <item>
-      <title>Indian court stops streaming hearings on social media to protect lawyers from mean memes</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/india_court_streaming_memes_ban/</link>
-      <description>
-        <![CDATA[<h4>Did you hear the one about the thin-skinned barrister?</h4> <p>The High Court of the Indian State of Madhya Pradesh has stopped live-streaming hearings to protect local lawyers from ridicule on social media.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241936</guid>
-    </item>    <item>
-      <title>Trump backpedals as Hyundai factory ICE raid enrages South Korea</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/us_hyundai_immigration/</link>
-      <description>
-        <![CDATA[<h4>Nice plans for US manufacturing you had there, shame if something was to happen to them</h4> <p><strong>Analysis</strong>  On Sunday, President Trump took to his personal social media channel to calm a growing diplomatic storm with one of America&#39;s closest allies, South Korea.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241935</guid>
     </item>
   </channel>
 </rss>
