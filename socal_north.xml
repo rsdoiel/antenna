@@ -4,10 +4,34 @@
   <channel>
     <title>socal_north.md</title>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>08 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>08 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Oil refinery closures leave workers searching for a job that ‘just doesn’t exist’</title>
+      <link>https://laist.com/news/oil-refinery-closures-leave-workers-searching-for-jobs</link>
+      <description>
+        <![CDATA[As two more oil refineries prepare to close in California, workers who are laid off face limited job opportunities.]]>
+      </description>
+      <source:markdown>As two more oil refineries prepare to close in California, workers who are laid off face limited job opportunities.</source:markdown>
+      <guid>cid://urn:uuid:00000199-c487-dc80-a5fb-eddff4f80000</guid>
+    </item>    <item>
+      <title>Uber driver charged in connection with starting the Palisades Fire</title>
+      <link>https://laist.com/news/criminal-justice/palisades-fire-man-charged-arrested-la-fires</link>
+      <description>
+        <![CDATA[The Palisades Fire erupted on Jan. 7 and went on to kill 12 people and destroy more than 6,800 homes and buildings.]]>
+      </description>
+      <source:markdown>The Palisades Fire erupted on Jan. 7 and went on to kill 12 people and destroy more than 6,800 homes and buildings.</source:markdown>
+      <guid>cid://urn:uuid:00000199-c45d-dbfa-afdf-c75d6e050001</guid>
+    </item>    <item>
+      <title>Westminster slams VietRISE&#39;s August Revolution post as &#39;communist propaganda&#39;</title>
+      <link>https://laist.com/news/politics/westminster-vietrise-august-revolution-post-communist-propaganda</link>
+      <description>
+        <![CDATA[VietRISE said the post from August was part of a series born out of the realization that many people don't know about Vietnam’s history beyond 1975.]]>
+      </description>
+      <source:markdown>VietRISE said the post from August was part of a series born out of the realization that many people don&#39;t know about Vietnam’s history beyond 1975.</source:markdown>
+      <guid>cid://urn:uuid:00000199-c0fc-dc80-a5fb-edfc22f30000</guid>
+    </item>    <item>
       <title>Quiet weather ahead of chance of showers later this week</title>
       <link>https://laist.com/news/climate-environment/socal-weather-chance-of-showers-later-this-week</link>
       <description>
@@ -56,12 +80,12 @@
       <source:markdown>Bike, skate or walk through Westlake, Chinatown, Little Tokyo and Boyle Heights — and refresh yourself at these icons along the way.</source:markdown>
       <guid>cid://urn:uuid:00000199-bfa7-dbfa-afdf-bfa7a5230000</guid>
     </item>    <item>
-      <title>Democrats take legal aim at &#39;the Radical Left&#39; language during shutdown</title>
+      <title>Retired federal land managers say that partisan shutdown language is chilling</title>
       <link>https://laist.com/news/democrats-take-legal-aim-at-the-radical-left-language-during-shutdown</link>
       <description>
-        <![CDATA[Democrats and a federal union argue that Trump administration language posted on federal agency websites and some emails blaming a shutdown on the "Radical Left Democrats" violates a 1939 federal law.]]>
+        <![CDATA[A federal union argues that Trump administration language posted on federal agency websites and some emails blaming a shutdown on the "Radical Left Democrats" violates a 1939 federal law.]]>
       </description>
-      <source:markdown>Democrats and a federal union argue that Trump administration language posted on federal agency websites and some emails blaming a shutdown on the &#34;Radical Left Democrats&#34; violates a 1939 federal law.</source:markdown>
+      <source:markdown>A federal union argues that Trump administration language posted on federal agency websites and some emails blaming a shutdown on the &#34;Radical Left Democrats&#34; violates a 1939 federal law.</source:markdown>
       <guid>cid://urn:uuid:00000199-c189-dc80-a5fb-edd94f080000</guid>
     </item>    <item>
       <title>These numbers show how 2 years of war have devastated Palestinian lives in Gaza</title>

@@ -4,10 +4,117 @@
   <channel>
     <title>Science and Technology</title>
     <link>http://localhost:8000/science_and_technologyxml</link>
-    <lastBuildDate>08 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>08 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Mars’ powerful whirlwinds blow dust everywhere, could affect future missions</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/08/mars_whirlwinds_dust/</link>
+      <description>
+        <![CDATA[<h4>Keeping tabs on Martian dust devils with bonus data from ESA’s veteran orbiters</h4> <p>Mars is windier than thought, according to research into decades of data from European Space Agency (ESA) spacecraft, and that has implications for missions to the red planet.…</p>]]>
+      </description>
+      <source:markdown>#### Keeping tabs on Martian dust devils with bonus data from ESA’s veteran orbiters
+
+Mars is windier than thought, according to research into decades of data from European Space Agency (ESA) spacecraft, and that has implications for missions to the red planet.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242373</guid>
+    </item>    <item>
+      <title>AI gets more &#39;meh&#39; as you get to know it better, researchers discover</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/08/more_researchers_use_ai_few_confident/</link>
+      <description>
+        <![CDATA[<h4>Most scientists now use the tech in their work, but still question its usefulness</h4> <p>AI hype is colliding with reality yet again. Wiley&#39;s global survey of researchers finds more of them using the tech than ever, and fewer convinced it&#39;s up to the job.…</p>]]>
+      </description>
+      <source:markdown>#### Most scientists now use the tech in their work, but still question its usefulness
+
+AI hype is colliding with reality yet again. Wiley&#39;s global survey of researchers finds more of them using the tech than ever, and fewer convinced it&#39;s up to the job.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242374</guid>
+    </item>    <item>
+      <title>Take this rob and shove it! Salesforce issues stern retort to ransomware extort</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/08/salesforce_refuses_to_pay_ransomware/</link>
+      <description>
+        <![CDATA[<h4>CRM giant &#39;will not engage, negotiate with, or pay&#39; the scumbags</h4> <p>Salesforce won&#39;t pay a ransom demand to criminals who claim to have stolen nearly 1 billion customer records and are threatening to leak the data if the CRM giant doesn&#39;t pony up some cash.…</p>]]>
+      </description>
+      <source:markdown>#### CRM giant &#39;will not engage, negotiate with, or pay&#39; the scumbags
+
+Salesforce won&#39;t pay a ransom demand to criminals who claim to have stolen nearly 1 billion customer records and are threatening to leak the data if the CRM giant doesn&#39;t pony up some cash.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242375</guid>
+    </item>    <item>
+      <title>Bank of England smells hint of dotcom bubble 2.0 in AI froth</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/08/boe_dotcom_bubble_ai/</link>
+      <description>
+        <![CDATA[<h4>UK central bank warns of &#39;sudden correction&#39; in tech stocks</h4> <p>The Bank of England&#39;s Financial Policy Committee has warned of the dangers of a sudden correction in the financial markets, owing to the value of tech and AI stocks, and has compared the risks to the dotcom bubble.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### UK central bank warns of &#39;sudden correction&#39; in tech stocks
+
+The Bank of England&#39;s Financial Policy Committee has warned of the dangers of a sudden correction in the financial markets, owing to the value of tech and AI stocks, and has compared the risks to the dotcom bubble.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242371</guid>
+    </item>    <item>
+      <title>IBM&#39;s big iron to get Spyre AI accelerator upgrade this month</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/08/ibm_z17_spyre_accelerator/</link>
+      <description>
+        <![CDATA[<h4>Giving the mainframe customers what they want</h4> <p>IBM&#39;s Spyre Accelerator is set to be generally available later this month, delivering a boost to the AI capabilities of its enterprise-grade hardware including the z17 mainframe, LinuxONE 5, and Power11 systems.…</p>]]>
+      </description>
+      <source:markdown>#### Giving the mainframe customers what they want
+
+IBM&#39;s Spyre Accelerator is set to be generally available later this month, delivering a boost to the AI capabilities of its enterprise-grade hardware including the z17 mainframe, LinuxONE 5, and Power11 systems.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242372</guid>
+    </item>    <item>
+      <title>Exchange Online will start archiving your oldest emails before your inbox bursts</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/08/microsoft_archiving_move/</link>
+      <description>
+        <![CDATA[<h4>Microsoft promises fewer &#39;mailbox full&#39; errors in face of message deluge</h4> <p>Microsoft&#39;s latest attempt to make the dreaded &#34;mailbox full&#34; response a thing of the past is rolling out in October and November. Threshold-based auto-archiving is coming to Exchange Online.…</p>]]>
+      </description>
+      <source:markdown>#### Microsoft promises fewer &#39;mailbox full&#39; errors in face of message deluge
+
+Microsoft&#39;s latest attempt to make the dreaded &#34;mailbox full&#34; response a thing of the past is rolling out in October and November. Threshold-based auto-archiving is coming to Exchange Online.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242369</guid>
+    </item>    <item>
+      <title>Betting on Beta: Oryx Pro debuts with new Pop!_OS</title>
+      <link>https://blog.system76.com/post/betting-on-beta-oryx-pro-debuts-with-new-pop_os</link>
+      <description>
+        <![CDATA[System76’s flagship laptop is back with a Big Bang.]]>
+      </description>
+      <source:markdown>System76’s flagship laptop is back with a Big Bang.</source:markdown>
+      <enclosure url="https://images.prismic.io/blog-system76/aOZx-J5xUNkB1vvx_oryxcosmicblog_header.png" length="0" type="image/png" />
+      <guid>cid://https://blog.system76.com/post/betting-on-beta-oryx-pro-debuts-with-new-pop_os</guid>
+    </item>    <item>
+      <title>Paris Museum Puts Édouard Manet on Mock Trial for Painting a Scandalous Scene of a Nude Woman</title>
+      <link>https://www.smithsonianmag.com/smart-news/paris-museum-puts-edouard-manet-on-mock-trial-for-painting-scandalous-scene-nude-woman-180987478/</link>
+      <description>
+        <![CDATA["The Luncheon on the Grass" caused a stir when it made its debut in 1863. A century and a half later, students defended the French artist against obscenity charges]]>
+      </description>
+      <source:markdown>&#34;The Luncheon on the Grass&#34; caused a stir when it made its debut in 1863. A century and a half later, students defended the French artist against obscenity charges</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/mh3rMwURFQHV_TeDUuaqDeaiZck=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e1/13/e113eb91-5a9a-43e3-b62d-859d0d1512be/manet.png" length="" type="" />
+    </item>    <item>
+      <title>Loops of DNA Equipped Ancient Life To Become Complex</title>
+      <link>https://www.quantamagazine.org/loops-of-dna-equipped-ancient-life-to-become-complex-20251008/</link>
+      <description>
+        <![CDATA[New work shows that physical folding of the genome to control genes located far away may have been an early evolutionary development.            <p>The post <a href="https://www.quantamagazine.org/loops-of-dna-equipped-ancient-life-to-become-complex-20251008/" target="_blank">Loops of DNA Equipped Ancient Life To Become Complex</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>New work shows that physical folding of the genome to control genes located far away may have been an early evolutionary development.
+
+The post [Loops of DNA Equipped Ancient Life To Become Complex](https://www.quantamagazine.org/loops-of-dna-equipped-ancient-life-to-become-complex-20251008/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=155504</guid>
+    </item>    <item>
+      <title>IBM invites CockroachDB to infest its mainframes with PostgreSQL</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/08/ibm_cockroachdb_mainframe_postgres/</link>
+      <description>
+        <![CDATA[<h4>Vendors promote bridge to modern architecture for legacy systems, but Db2 not going anywhere just yet</h4> <p>IBM has signed an OEM agreement with Cockroach Labs – maker of the distributed PostgreSQL-like cloud RDBMS CockroachDB – in a bid to help modernize mission-critical applications reliant on mainframe hardware.…</p>]]>
+      </description>
+      <source:markdown>#### Vendors promote bridge to modern architecture for legacy systems, but Db2 not going anywhere just yet
+
+IBM has signed an OEM agreement with Cockroach Labs – maker of the distributed PostgreSQL-like cloud RDBMS CockroachDB – in a bid to help modernize mission-critical applications reliant on mainframe hardware.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242368</guid>
+    </item>    <item>
+      <title>Texas senators cry foul over Smithsonian&#39;s pricey Space Shuttle shuffle</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/08/senators_smithsonian_discovery/</link>
+      <description>
+        <![CDATA[<h4>Can be shifted for a tenth of the price AND the wings don&#39;t have to come off – allegedly</h4> <p>Texas senators John Cornyn and Ted Cruz have hit back at a Smithsonian memo on relocating Space Shuttle Discovery, claiming the institute&#39;s cost estimates are &#34;more than ten times higher&#34; than quotes from private logistics firms.…</p>]]>
+      </description>
+      <source:markdown>#### Can be shifted for a tenth of the price AND the wings don&#39;t have to come off – allegedly
+
+Texas senators John Cornyn and Ted Cruz have hit back at a Smithsonian memo on relocating Space Shuttle Discovery, claiming the institute&#39;s cost estimates are &#34;more than ten times higher&#34; than quotes from private logistics firms.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242365</guid>
+    </item>    <item>
       <title>Germany slams brakes on EU&#39;s Chat Control device-scanning snoopfest</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/08/germany_chat_control_opposition/</link>
       <description>

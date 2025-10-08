@@ -4,7 +4,7 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>http://localhost:8000/librariesxml</link>
-    <lastBuildDate>08 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>08 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -18,6 +18,14 @@
 
 The post [Guest Post — Rethinking Disciplinary Data Regimes](https://scholarlykitchen.sspnet.org/2025/10/08/guest-post-rethinking-disciplinary-data-regimes/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=61077</guid>
+    </item>    <item>
+      <title>Journey of a Curation Request: What Happens When You Ask for an Update to ROR</title>
+      <link>https://ror.org/blog/2025-10-08-journey-of-a-curation-request/</link>
+      <description>
+        <![CDATA[Have you ever wondered exactly what happens once you request a new ROR record or suggest a change to an existing ROR record? In this blog post, we take you through all the steps involved in ROR&#39;s open, community-driven process for making sure that the information in the ROR registry is complete and accurate.]]>
+      </description>
+      <source:markdown>Have you ever wondered exactly what happens once you request a new ROR record or suggest a change to an existing ROR record? In this blog post, we take you through all the steps involved in ROR&#39;s open, community-driven process for making sure that the information in the ROR registry is complete and accurate.</source:markdown>
+      <guid>cid://https://doi.org/10.71938/T128-EA02</guid>
     </item>    <item>
       <title>Now It Can Be Told, by Philip Gibbs</title>
       <link>https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told</link>
@@ -106,10 +114,10 @@ The post [Guest Post — Manifesto Time: Do You Need a Publishing Manifesto?](ht
       <title>ARL Libraries Celebrate Banned Books Week 2025</title>
       <link>https://www.arl.org/blog/arl-libraries-celebrate-banned-books-week-2025/</link>
       <description>
-        <![CDATA[<p>Last Updated on October 7, 2025, 11:24 am ET Banned Books Week celebrates the freedom to read and calls attention to the harms of censorship by spotlighting current and historical...</p>
+        <![CDATA[<p>Last Updated on October 8, 2025, 11:53 am ET Banned Books Week celebrates the freedom to read and calls attention to the harms of censorship by spotlighting current and historical...</p>
         <p>The post <a href="https://www.arl.org/blog/arl-libraries-celebrate-banned-books-week-2025/">ARL Libraries Celebrate Banned Books Week 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on October 7, 2025, 11:24 am ET Banned Books Week celebrates the freedom to read and calls attention to the harms of censorship by spotlighting current and historical...
+      <source:markdown>Last Updated on October 8, 2025, 11:53 am ET Banned Books Week celebrates the freedom to read and calls attention to the harms of censorship by spotlighting current and historical...
 
 The post [ARL Libraries Celebrate Banned Books Week 2025](https://www.arl.org/blog/arl-libraries-celebrate-banned-books-week-2025/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=46250</guid>
@@ -133,7 +141,7 @@ The post [ARL Libraries Celebrate Banned Books Week 2025](https://www.arl.org/bl
 The post [Scholarship is Like Music: Standing on the Shoulders of Giants](https://scholarlykitchen.sspnet.org/2025/10/03/scholarship-is-like-music-standing-on-the-shoulders-of-giants/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=60894</guid>
     </item>    <item>
-      <title>Advancing open PID infrastructure at scale: A new face and exciting projects for the ROR technical team</title>
+      <title>Advancing Open PID Infrastructure at Scale: A New Face and Exciting Projects for the ROR Technical Team</title>
       <link>https://ror.org/blog/2025-10-02-welcome-joseph-rhoads/</link>
       <description>
         <![CDATA[We are thrilled to introduce the newest member of the ROR pride: Joseph Rhoads joined the ROR team in September as our new Technical Lead.]]>

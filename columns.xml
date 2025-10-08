@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>http://localhost:8000/columnsxml</link>
-    <lastBuildDate>08 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>08 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,607 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://www.theframelab.org/good-news-jd-vances-favorite-blogger-plans-escape-from-usa/?ref=lakoff-and-duran-framelab-newsletter</link>
+      <description>
+        <![CDATA[<p>JD Vance‘s Favorite Blogger Plans Escape from USA.</p>]]>
+      </description>
+      <source:markdown>JD Vance‘s Favorite Blogger Plans Escape from USA.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/08/1433/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/08.html#a171711</link>
+      <description>
+        <![CDATA[I stop reading every piece that begins by wondering if the Dems or Repubs are "winning" the shutdown. Anything the Dems can do that has anything to do with governing is a win for all of us, including the Repubs, but esp the Dems. This is a new world, the old one is gone. Every day is a new reality.]]>
+      </description>
+      <source:markdown>I stop reading every piece that begins by wondering if the Dems or Repubs are &#34;winning&#34; the shutdown. Anything the Dems can do that has anything to do with governing is a win for all of us, including the Repubs, but esp the Dems. This is a new world, the old one is gone. Every day is a new reality.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/08.html#a171711</guid>
+    </item>    <item>
+      <title>HarperCollins UK is pulling copies of a book that alleges Epstein introduced Melania and Donald Trump.</title>
+      <link>https://lithub.com/harpercollins-uk-is-pulling-copies-of-a-book-that-alleges-epstein-introduced-melania-and-donald-trump/</link>
+      <description>
+        <![CDATA[HarperCollins UK is pulping copies of a recently published book about Prince Andrew over unsubstantiated rumors that have maddened the Trumps, according to The Hill, Axios, and others. Entitled: The Rise and Fall of the House of York by Andrew]]>
+      </description>
+      <source:markdown>HarperCollins UK is pulping copies of a recently published book about Prince Andrew over unsubstantiated rumors that have maddened the Trumps, according to The Hill, Axios, and others. Entitled: The Rise and Fall of the House of York by Andrew</source:markdown>
+      <guid>cid://https://lithub.com/?p=260867</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/08.html#a165842</link>
+      <description>
+        <![CDATA[<a class="anchorRightMargin" href="http://scripting.com/2025/09/18/145808.html"><img class="imgRightMargin" src="https://imgs.scripting.com/2025/10/08/reallySimpleBooks.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"></a>The same energy that force Biden off the ticket should get Schumer and Jeffries out of the top seats. Replace with people who can speak plainly about what's actually happening.]]>
+      </description>
+      <source:markdown>[![](https://imgs.scripting.com/2025/10/08/reallySimpleBooks.png)](http://scripting.com/2025/09/18/145808.html) The same energy that force Biden off the ticket should get Schumer and Jeffries out of the top seats. Replace with people who can speak plainly about what&#39;s actually happening.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/08.html#a165842</guid>
+    </item>    <item>
+      <title>Coattails</title>
+      <link>https://adactio.com/journal/22177</link>
+      <description>
+        <![CDATA[<p><a href="https://adactio.com/journal/tags/language,models">When I talk about large language models</a>, I make sure to call them large language models, not “AI”. I know it’s a lost battle, but the terminology matters to me.</p>
+        
+        <p>The term “AI” can encompass everything from a series of <code>if</code>/<code>else</code> statements right up to Skynet and HAL 9000. I’ve written about <a href="https://adactio.com/journal/21552">this naming collision</a> before.</p>
+        
+        <p>It’s not just that the term “AI” isn’t useful, it’s so broad as to be actively duplicitous. While talking about one thing—like, say, large language models—you can point to a completely different thing—like, say, machine learning or computer vision—and claim that they’re basically the same because they’re both labelled “AI”.</p>
+        
+        <p>If a news outlet runs a story about machine learning in the context of disease prevention or archeology, the headline will inevitably contain the phrase “AI”. That story will then gleefully be used by slopagandists looking to inflate the usefulness of large language models.</p>
+        
+        <p>Conflating these different technologies is the fallacy at the heart of <a href="https://www.robinsloan.com/lab/is-it-okay/">Robin Sloan’s faulty logic</a>:</p>
+        
+        <blockquote>
+          <p>If these machines churn through all media, and then, in their deployment, discover several superconductors and cure all cancers, I’d say, okay … we’re good.</p>
+        </blockquote>
+        
+        <p><a href="https://whatever.scalzi.com/2025/10/07/ai-slop-and-whatever/">John Scalzi recently wrote</a>:</p>
+        
+        <blockquote>
+          <p>“AI” is mostly a marketing phrase for a bunch of different processes and tools which in a different era would have been called “machine learning” or “neural networks” or something else now horribly unsexy.</p>
+        </blockquote>
+        
+        <p>But I’ve noticed something recently. More than once I’ve seen genuinely-useful services refer to their technology as “traditional machine learning”.</p>
+        
+        <p>First off, I find that endearing. Like machine learning is akin to organic farming or hand-crafted furniture.</p>
+        
+        <p>Secondly, perhaps it points to a severing of the ways between machine learning and large language models.</p>
+        
+        <p>Up until now it may have been mutually benificial for them to share the same marketing term, but <a href="https://www.theguardian.com/business/2025/oct/08/bank-of-england-warns-of-growing-risk-that-ai-bubble-could-burst">with the bubble about to burst</a>, anything to do with large language models might become toxic by association, including the term “AI”. Hence the desire to shake the large-language model grifters from the coattails of <a href="https://en.wikipedia.org/wiki/Machine_learning">machine learning</a> and <a href="https://en.wikipedia.org/wiki/Computer_vision">computer vision</a>.</p>]]>
+      </description>
+      <source:markdown>[When I talk about large language models](https://adactio.com/journal/tags/language,models), I make sure to call them large language models, not “AI”. I know it’s a lost battle, but the terminology matters to me.
+
+The term “AI” can encompass everything from a series of `if`/ `else` statements right up to Skynet and HAL 9000. I’ve written about [this naming collision](https://adactio.com/journal/21552) before.
+
+It’s not just that the term “AI” isn’t useful, it’s so broad as to be actively duplicitous. While talking about one thing—like, say, large language models—you can point to a completely different thing—like, say, machine learning or computer vision—and claim that they’re basically the same because they’re both labelled “AI”.
+
+If a news outlet runs a story about machine learning in the context of disease prevention or archeology, the headline will inevitably contain the phrase “AI”. That story will then gleefully be used by slopagandists looking to inflate the usefulness of large language models.
+
+Conflating these different technologies is the fallacy at the heart of [Robin Sloan’s faulty logic](https://www.robinsloan.com/lab/is-it-okay/):
+
+&#62; If these machines churn through all media, and then, in their deployment, discover several superconductors and cure all cancers, I’d say, okay … we’re good.
+
+[John Scalzi recently wrote](https://whatever.scalzi.com/2025/10/07/ai-slop-and-whatever/):
+
+&#62; “AI” is mostly a marketing phrase for a bunch of different processes and tools which in a different era would have been called “machine learning” or “neural networks” or something else now horribly unsexy.
+
+But I’ve noticed something recently. More than once I’ve seen genuinely-useful services refer to their technology as “traditional machine learning”.
+
+First off, I find that endearing. Like machine learning is akin to organic farming or hand-crafted furniture.
+
+Secondly, perhaps it points to a severing of the ways between machine learning and large language models.
+
+Up until now it may have been mutually benificial for them to share the same marketing term, but [with the bubble about to burst](https://www.theguardian.com/business/2025/oct/08/bank-of-england-warns-of-growing-risk-that-ai-bubble-could-burst), anything to do with large language models might become toxic by association, including the term “AI”. Hence the desire to shake the large-language model grifters from the coattails of [machine learning](https://en.wikipedia.org/wiki/Machine_learning) and [computer vision](https://en.wikipedia.org/wiki/Computer_vision).</source:markdown>
+      <guid>cid://https://adactio.com/journal/22177</guid>
+    </item>    <item>
+      <title>Why NetNewsWire Is Not a Web App</title>
+      <link>https://simonwillison.net/2025/Oct/8/why-netnewswire-is-not-a-web-app/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html">Why NetNewsWire Is Not a Web App</a></strong></p>
+        In the wake of Apple <a href="https://daringfireball.net/2025/10/iceblock_removed_from_app_store">removing ICEBlock from the App Store</a>, Brent Simmons talks about why he still thinks his veteran (and actively maintained) <a href="https://netnewswire.com/">NetNewsWire</a> feed reader app should remain a native application.</p>
+        <p>Part of the reason is cost - NetNewsWire is free these days (<a href="">MIT licensed in fact</a>) and the cost to Brent is an annual Apple developer subscription:</p>
+        <blockquote>
+        <p>If it were a web app instead, I could drop the developer membership, but I’d have to pay way more money for web and database hosting. [...] I could charge for NetNewsWire, but that would go against my political goal of making sure there’s a good and <em>free</em> RSS reader available to everyone.</p>
+        </blockquote>
+        <p>A bigger reason is around privacy and protecting users:</p>
+        <blockquote>
+        <p>Second issue. Right now, if law enforcement comes to me and demands I turn over a given user’s subscriptions list, I can’t. Literally can’t. I don’t have an encrypted version, even — I have nothing at all. The list lives on their machine (iOS or macOS).</p>
+        </blockquote>
+        <p>And finally it's about the principle of what a personal computing device should mean:</p>
+        <blockquote>
+        <p>My computer is <em>not</em> a terminal. It’s a world I get to control, and I can use — and, especially, <em>make</em> — whatever I want. I’m not stuck using just what’s provided to me on some other machines elsewhere: I’m not dialing into a mainframe or doing the modern equivalent of using only websites that other people control.</p>
+        </blockquote>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/apple">apple</a>, <a href="https://simonwillison.net/tags/brent-simmons">brent-simmons</a>, <a href="https://simonwillison.net/tags/macos">macos</a>, <a href="https://simonwillison.net/tags/netnewswire">netnewswire</a>, <a href="https://simonwillison.net/tags/ios">ios</a></p>]]>
+      </description>
+      <source:markdown>**[Why NetNewsWire Is Not a Web App](https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html)**
+
+In the wake of Apple [removing ICEBlock from the App Store](https://daringfireball.net/2025/10/iceblock_removed_from_app_store), Brent Simmons talks about why he still thinks his veteran (and actively maintained) [NetNewsWire](https://netnewswire.com/) feed reader app should remain a native application.
+
+Part of the reason is cost - NetNewsWire is free these days (MIT licensed in fact) and the cost to Brent is an annual Apple developer subscription:
+
+&#62; If it were a web app instead, I could drop the developer membership, but I’d have to pay way more money for web and database hosting. \[...\] I could charge for NetNewsWire, but that would go against my political goal of making sure there’s a good and _free_ RSS reader available to everyone.
+
+A bigger reason is around privacy and protecting users:
+
+&#62; Second issue. Right now, if law enforcement comes to me and demands I turn over a given user’s subscriptions list, I can’t. Literally can’t. I don’t have an encrypted version, even — I have nothing at all. The list lives on their machine (iOS or macOS).
+
+And finally it&#39;s about the principle of what a personal computing device should mean:
+
+&#62; My computer is _not_ a terminal. It’s a world I get to control, and I can use — and, especially, _make_ — whatever I want. I’m not stuck using just what’s provided to me on some other machines elsewhere: I’m not dialing into a mainframe or doing the modern equivalent of using only websites that other people control.
+
+Tags: [apple](https://simonwillison.net/tags/apple), [brent-simmons](https://simonwillison.net/tags/brent-simmons), [macos](https://simonwillison.net/tags/macos), [netnewswire](https://simonwillison.net/tags/netnewswire), [ios](https://simonwillison.net/tags/ios)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/8/why-netnewswire-is-not-a-web-app/#atom-everything</guid>
+    </item>    <item>
+      <title>Flok License Plate Surveillance</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/flok-license-plate-surveillance.html</link>
+      <description>
+        <![CDATA[<p>The company Flok is <a href="https://www.jalopnik.com/1982690/police-flock-cameras-sued-for-tracking-man-526-times/">surveilling us</a> as we drive:</p>
+        <blockquote><p>A retired veteran named Lee Schmidt wanted to know how often Norfolk, Virginia&#8217;s 176 Flock Safety automated license-plate-reader cameras were tracking him. The answer, according to a <a href="https://www.documentcloud.org/documents/26101033-norfolk_flock/">U.S. District Court</a> lawsuit filed in September, was more than four times a day, or 526 times from mid-February to early July. No, there&#8217;s no warrant out for Schmidt&#8217;s arrest, nor is there a warrant for Schmidt&#8217;s co-plaintiff, Crystal Arrington, whom the system tagged 849 times in roughly the same period.</p>
+        <p>You might think this sounds like it violates the Fourth Amendment, which protects American citizens from unreasonable searches and seizures without probable cause. Well, so does the American Civil Liberties Union. Norfolk, Virginia Judge Jamilah LeCruise also agrees, and in 2024 she ruled that plate-reader data obtained without a search warrant couldn&#8217;t be used against a defendant in a robbery case...</p></blockquote>]]>
+      </description>
+      <source:markdown>The company Flok is [surveilling us](https://www.jalopnik.com/1982690/police-flock-cameras-sued-for-tracking-man-526-times/) as we drive:
+
+&#62; A retired veteran named Lee Schmidt wanted to know how often Norfolk, Virginia’s 176 Flock Safety automated license-plate-reader cameras were tracking him. The answer, according to a [U.S. District Court](https://www.documentcloud.org/documents/26101033-norfolk_flock/) lawsuit filed in September, was more than four times a day, or 526 times from mid-February to early July. No, there’s no warrant out for Schmidt’s arrest, nor is there a warrant for Schmidt’s co-plaintiff, Crystal Arrington, whom the system tagged 849 times in roughly the same period.
+&#62;
+&#62; You might think this sounds like it violates the Fourth Amendment, which protects American citizens from unreasonable searches and seizures without probable cause. Well, so does the American Civil Liberties Union. Norfolk, Virginia Judge Jamilah LeCruise also agrees, and in 2024 she ruled that plate-reader data obtained without a search warrant couldn’t be used against a defendant in a robbery case...</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=70929</guid>
+    </item>    <item>
+      <title>Muhammad al-Zaqzouq writes about using his books for cooking fuel. &#38;#8220;Let&#38;#8217;s use...</title>
+      <link>https://kottke.org/25/10/0047667-muhammad-al-zaqzouq-write</link>
+      <guid>cid://tag:kottke.org,2025://13.47667</guid>
+    </item>    <item>
+      <title>El sonido de la caída (24vo Festival de cine alemán): escapar de la mirada ajena</title>
+      <link>https://www.palomitademaiz.net/resenas-el-sonido-de-la-caida-24vo-festival-de-cine-aleman/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-el-sonido-de-la-caida-24vo-festival-de-cine-aleman</link>
+      <description>
+        <![CDATA[<p>Dirección: Masha Schilinski. Guion: Louise Peter, Masca Schilinski. Elenco: Hanna Heckt, Lena Urzendowsky, Susanne Wuest, Luise Heyer, Laeni Geiseler, Lea Drinda, Florian Geißelmann, Gode Benedix, Bärbel Schwarz, Lucas Prisor, Konstantin Lindhorst, Martin Rother, Filip Schnack, Ninel Geiger, Greta Krämer, Luzia Oppermann, Zoë Baier, Anastasia Cherepakha. País: Alemania. Duración: 149min. Más información de la película: https://www.imdb.com/title/tt28690468/ [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-el-sonido-de-la-caida-24vo-festival-de-cine-aleman/">El sonido de la caída (24vo Festival de cine alemán): escapar de la mirada ajena</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Dirección: Masha Schilinski. Guion: Louise Peter, Masca Schilinski. Elenco: Hanna Heckt, Lena Urzendowsky, Susanne Wuest, Luise Heyer, Laeni Geiseler, Lea Drinda, Florian Geißelmann, Gode Benedix, Bärbel Schwarz, Lucas Prisor, Konstantin Lindhorst, Martin Rother, Filip Schnack, Ninel Geiger, Greta Krämer, Luzia Oppermann, Zoë Baier, Anastasia Cherepakha. País: Alemania. Duración: 149min. Más información de la película: https://www.imdb.com/title/tt28690468/ \[…\]
+
+La entrada [El sonido de la caída (24vo Festival de cine alemán): escapar de la mirada ajena](https://www.palomitademaiz.net/resenas-el-sonido-de-la-caida-24vo-festival-de-cine-aleman/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=25592</guid>
+    </item>    <item>
+      <title>How much radiation can a Pi handle in space?</title>
+      <link>https://www.jeffgeerling.com/blog/2025/how-much-radiation-can-pi-handle-space</link>
+      <description>
+        <![CDATA[<span class="field field--name-title field--type-string field--label-hidden">How much radiation can a Pi handle in space?</span>
+        
+                    <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Late in the cycle while researching <a href="https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space">CubeSats using Pis in space</a>, I got in touch with <a href="https://www.iancharnas.com">Ian Charnas</a><sup id="ian-charnas"><a href="#fn:ian-charnas" class="footnote-ref" role="doc-noteref">1</a></sup>, the chief engineer for the <a href="https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg">Mark Rober</a> YouTube channel.</p>
+        
+        <p>Earlier this year, Crunchlabs launched <a href="https://space.crunchlabs.com">SatGus</a>, which is <a href="https://www.n2yo.com/satellite/?s=62713">currently orbiting Earth</a> taking 'space selfies'.</p>
+        
+        <p><img src="https://www.jeffgeerling.com/sites/default/files/images/space-selfie-mark-rober-crunchlabs-satgus.jpg" width="700" height="553" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-ae5730ae-3787-4e68-8350-de3fff826f1d" data-insert-attach="{&quot;id&quot;:&quot;ae5730ae-3787-4e68-8350-de3fff826f1d&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Space Selfie of Geerling family on SatGus earlier this year"></p></div>
+              <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-10-08T10:32:50-05:00" title="Wednesday, October 8, 2025 - 10:32" class="datetime">October 8, 2025</time>
+        </span>]]>
+      </description>
+      <source:markdown>How much radiation can a Pi handle in space?
+
+Late in the cycle while researching [CubeSats using Pis in space](https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space), I got in touch with [Ian Charnas](https://www.iancharnas.com) [1](#fn:ian-charnas), the chief engineer for the [Mark Rober](https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg) YouTube channel.
+
+Earlier this year, Crunchlabs launched [SatGus](https://space.crunchlabs.com), which is [currently orbiting Earth](https://www.n2yo.com/satellite/?s=62713) taking &#39;space selfies&#39;.
+
+![Space Selfie of Geerling family on SatGus earlier this year](https://www.jeffgeerling.com/sites/default/files/images/space-selfie-mark-rober-crunchlabs-satgus.jpg)
+
+Jeff GeerlingOctober 8, 2025</source:markdown>
+      <guid>cid://3495 at https://www.jeffgeerling.com</guid>
+    </item>    <item>
+      <title>Knit Hello, a Simple Typeface for Knitting</title>
+      <link>https://kottke.org/25/10/knit-hello-a-simple-typeface-for-knitting</link>
+      <guid>cid://tag:kottke.org,2025://5.47678</guid>
+    </item>    <item>
+      <title>Some more personal news. (October, 2025)</title>
+      <link>https://pressthink.org/2025/10/some-more-personal-news-october-2025/</link>
+      <description>
+        <![CDATA[<p>In June I announced that I was retiring from NYU after 39 years, but not leaving the field, or the fight for a public service press. Today I can explain what I meant by not leaving the field. I have a new job: president of News Creator Corps. Read on at the News Creator Corps [&#8230;]</p>
+        <p>The post <a href="https://pressthink.org/2025/10/some-more-personal-news-october-2025/">Some more personal news. (October, 2025)</a> appeared first on <a href="https://pressthink.org">PressThink</a>.</p>]]>
+      </description>
+      <source:markdown>In June I announced that I was retiring from NYU after 39 years, but not leaving the field, or the fight for a public service press. Today I can explain what I meant by not leaving the field. I have a new job: president of News Creator Corps. Read on at the News Creator Corps \[…\]
+
+The post [Some more personal news. (October, 2025)](https://pressthink.org/2025/10/some-more-personal-news-october-2025/) appeared first on [PressThink](https://pressthink.org).</source:markdown>
+      <guid>cid://https://pressthink.org/?p=13825</guid>
+    </item>    <item>
+      <title>Betting on Beta: Oryx Pro debuts with new Pop!_OS</title>
+      <link>https://blog.system76.com/post/betting-on-beta-oryx-pro-debuts-with-new-pop_os</link>
+      <description>
+        <![CDATA[System76’s flagship laptop is back with a Big Bang.]]>
+      </description>
+      <source:markdown>System76’s flagship laptop is back with a Big Bang.</source:markdown>
+      <enclosure url="https://images.prismic.io/blog-system76/aOZx-J5xUNkB1vvx_oryxcosmicblog_header.png" length="0" type="image/png" />
+      <guid>cid://https://blog.system76.com/post/betting-on-beta-oryx-pro-debuts-with-new-pop_os</guid>
+    </item>    <item>
+      <title>People Are Crashing Out Over Sora 2’s New Guardrails</title>
+      <link>https://www.404media.co/sora-2-content-violation-guardrails-error/</link>
+      <description>
+        <![CDATA[OpenAI’s Sora 2 platform started just one week ago as an AI-generated copyright infringement free-for-all. Now, people say they’re struggling to generate anything without being hit with a violation error.]]>
+      </description>
+      <source:markdown>OpenAI’s Sora 2 platform started just one week ago as an AI-generated copyright infringement free-for-all. Now, people say they’re struggling to generate anything without being hit with a violation error.</source:markdown>
+      <guid>cid://68e675818635ce000140d959</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2otzmgj5c2n</link>
+      <description>
+        <![CDATA[I had forgotten this 🙂
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>I had forgotten this 🙂
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m2otzmgj5c2n</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/08.html#a141646</link>
+      <description>
+        <![CDATA[Fellow humans. If we're competing with AI, and to some extent it seems we are, consider that they have much better writing tools than we do. If we are to put up some kind of resistance to our cyber-domination, shouldn't we invest in better writing tools for bodied-intellects like us?]]>
+      </description>
+      <source:markdown>Fellow humans. If we&#39;re competing with AI, and to some extent it seems we are, consider that they have much better writing tools than we do. If we are to put up some kind of resistance to our cyber-domination, shouldn&#39;t we invest in better writing tools for bodied-intellects like us?</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/08.html#a141646</guid>
+    </item>    <item>
+      <title>A list of laws, theories, principles and patterns that software developers might...</title>
+      <link>https://kottke.org/25/10/0047663-a-list-of-laws-theories</link>
+      <guid>cid://tag:kottke.org,2025://13.47663</guid>
+    </item>    <item>
+      <title>Abandonware of the web: do you know that there is an HTML tables API?</title>
+      <link>https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/</link>
+      <description>
+        <![CDATA[When people turn data into HTML tables using JavaScript, they either use the DOM methods (createElement() and the likes), but most of the time just append a huge string and use innerHTML, which always is a security concern. However, did you know that HTML tables also have an old, forgotten API ? Using this one, [&#8230;]]]>
+      </description>
+      <source:markdown>When people turn data into HTML tables using JavaScript, they either use the DOM methods (createElement() and the likes), but most of the time just append a huge string and use innerHTML, which always is a security concern. However, did you know that HTML tables also have an old, forgotten API ? Using this one, \[…\]</source:markdown>
+      <guid>cid://https://christianheilmann.com/?p=8711</guid>
+    </item>    <item>
+      <title>Apple Faces French Investigation Over Opt-In Siri Voice Recordings</title>
+      <link>https://www.bloomberg.com/news/articles/2025-10-06/apple-faces-probe-in-france-over-voice-recordings-made-by-siri</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42252</guid>
+    </item>    <item>
+      <title>How to spot the next big wave before it crests</title>
+      <link>https://guykawasaki.substack.com/p/how-to-spot-the-next-big-wave-before</link>
+      <description>
+        <![CDATA[If there&#8217;s one thing I&#8217;ve learned from my time at Apple, Canva, and beyond, it&#8217;s this: the people who succeed aren&#8217;t just riding waves&#8212;they&#8217;re building the products and services that cause the waves.]]>
+      </description>
+      <source:markdown>If there’s one thing I’ve learned from my time at Apple, Canva, and beyond, it’s this: the people who succeed aren’t just riding waves—they’re building the products and services that cause the waves.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!tJGi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffab77f49-23fe-4bf4-b8db-aac6b0bf135d_1080x1080.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://guykawasaki.substack.com/p/how-to-spot-the-next-big-wave-before</guid>
+    </item>    <item>
+      <title>Katie Notopoulos on the Difference Between Sora and Meta Vibes</title>
+      <link>https://www.threads.com/@katienotopoulos/post/DPRAi3ZDUfJ</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42251</guid>
+    </item>    <item>
+      <title>‘Sora’s Slop Hits Different’</title>
+      <link>https://spyglass.org/soras-slop-hits-different/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42250</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/08.html#a134452</link>
+      <description>
+        <![CDATA[I try not to run away from controversy when conventional wisdom is in the way of progress.]]>
+      </description>
+      <source:markdown>I try not to run away from controversy when conventional wisdom is in the way of progress.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/08.html#a134452</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/08.html#a134315</link>
+      <description>
+        <![CDATA[The ActivityPub world, which MicroPub is part of (I guess), could benefit from reading Joel Spolsky's piece about <a href="https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/">Architecture Astronauts</a>.]]>
+      </description>
+      <source:markdown>The ActivityPub world, which MicroPub is part of (I guess), could benefit from reading Joel Spolsky&#39;s piece about [Architecture Astronauts](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/).</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/08.html#a134315</guid>
+    </item>    <item>
+      <title>Halloween in the Round</title>
+      <link>https://kieranhealy.org/blog/archives/2025/10/08/halloween-in-the-round/</link>
+      <description>
+        <![CDATA[<p><a href="https://kieranhealy.org/blog/archives/2024/10/12/halloween-data-cleaning/">Last year</a> I wrote about cleaning some data from the <a href="https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars">NHTSA FARS database</a>, the system that tracks information about road accidents in the United States. I did that again this year for my <a href="https://mptc.io/">Modern Plain Text Computing</a> class. I won&rsquo;t repeat the cleaning details, which are more or less the same. One question is how to aggregate data like this, if at all, and how to draw a picture of it. There are, as always, lots of options. The data as obtained (with a <em>slightly</em> different query from last year; a small lesson in itself about repeated measures) arrive as counts of pedestrian fatalities (in motor vehicle accidents) for each day of the year, within months, for each year from 2009 to 2023.</p>
+        <figure><a href="https://kieranhealy.org/blog/archives/2025/10/08/halloween-in-the-round/fars-fatalities.png" data-fancybox>
+            <img src="https://kieranhealy.org/blog/archives/2025/10/08/halloween-in-the-round/fars-fatalities.png"
+                 alt="The data in the spreadsheet you get after a specific query to FARS on the web."/></a><figcaption>
+                    <p>The data in the spreadsheet you get after a specific query to FARS on the web.</p>
+                </figcaption>
+        </figure>
+        <p>What I was interested in was patterns of daily counts, so I wanted to average by day across years. This sort of aggregation  of course gets rid of other things we might be interested in, like trends over time by year. Averaging by day means we won&rsquo;t see, for example, any tendency for the number of pedestrian deaths to decrease over time. One way to draw this is a column chart with time (as day-of-the-year) on the x-axis and the average count on the y-axis.</p>
+        <figure><a href="https://kieranhealy.org/blog/archives/2025/10/08/halloween-in-the-round/halloween_wide.png" data-fancybox>
+            <img src="https://kieranhealy.org/blog/archives/2025/10/08/halloween-in-the-round/halloween_wide.png"
+                 alt="Wide version."/></a><figcaption>
+                    <p>Wide version.</p>
+                </figcaption>
+        </figure>
+        <p>This works fine. Nice and compact. One thing people tend to underestimate about graphs like this (whether as bars or lines) is that you can often compress the vertical axis a lot without loss of information. Indeed, often with long time series that&rsquo;s the right thing to do anyway, because there&rsquo;s nothing better for making your trends look dramatic than narrowing the horizontal part of the aspect ratio. Here the focus is not on a trend, but on the one day that really stands out from the others. In any case, wide is good.</p>
+        <p>On the other hand, most people are looking at things on their phones. Maybe a vertical view can be better there? We could do something like this, like last year:</p>
+        <figure><a href="https://kieranhealy.org/blog/archives/2025/10/08/halloween-in-the-round/halloween_tall25.png" data-fancybox>
+            <img src="https://kieranhealy.org/blog/archives/2025/10/08/halloween-in-the-round/halloween_tall25.png"
+                 alt="Tall version."/></a><figcaption>
+                    <p>Tall version.</p>
+                </figcaption>
+        </figure>
+        <p>Here we facet by month and stack them. It works OK. This would be more useful for data where you expect a bit more structure down the rows as well as across the columns of the table you&rsquo;re graphing. For example, accidents vary by day of the week, especially pedestrian accidents. There are more people out at the weekend. And then for some parts of the country the seasonality of pedestrian activity would be stronger than in others, because it&rsquo;s nicer to be outside some months of the year than others. (You can in fact get counts by day of the week from FARS, but I didn&rsquo;t; exercise for the reader, etc.) Even in this one you can see some evidence of that, as Summer and (back to school) Fall have more fatalities than January, for instance.</p>
+        <p>Finally, and the point of this post, we can also experiment with the fact that the year is cyclical, and use polar coordinates. When we do this we take our x-axis and wrap it around a circle. Position on the x-axis measured as a distance becomes position on a polar or radial axis measured as an angle. We call it theta and measure in degrees or radians or whatever. In ggplot <code>coord_polar()</code> is available as a transformation to do this. One of the nice things about ggplot&rsquo;s grammar-of-graphics approach is that it makes it easier to show how the same graph can change under various transformations. A standard xy plot has its coordinates set up by the <code>coord_cartesian()</code> function. We usually never write this unless explicitly want to tweak some aspect of it, but it&rsquo;s there. But we can just replace it altogether with a different coordinate transformation altogether. This can be a polar system or something else, as when we draw a map and systematically transform points on a sphere into a flat surface via some projection.</p>
+        <p>Version 4 of ggplot came out last month and introduced <code>coord_radial()</code> as an improved version of <code>coord_polar()</code>. We can use it to draw our plot. Here we&rsquo;ll use a FARS dataset that shows fatal crashes that involve pedestrians aged 17 and under. (The difference from the ones above is that pedestrians were &ldquo;involved&rdquo; in the crash but weren&rsquo;t necessarily killed.) We write code that looks like this:</p>
+        <div class="highlight-wrapper">
+            
+            
+                <div class="highlight"><div class="chroma">
+        <table class="lntable"><tr><td class="lntd">
+        <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+        </span><span class="lnt"> 2
+        </span><span class="lnt"> 3
+        </span><span class="lnt"> 4
+        </span><span class="lnt"> 5
+        </span><span class="lnt"> 6
+        </span><span class="lnt"> 7
+        </span><span class="lnt"> 8
+        </span><span class="lnt"> 9
+        </span><span class="lnt">10
+        </span><span class="lnt">11
+        </span><span class="lnt">12
+        </span><span class="lnt">13
+        </span><span class="lnt">14
+        </span><span class="lnt">15
+        </span><span class="lnt">16
+        </span><span class="lnt">17
+        </span><span class="lnt">18
+        </span><span class="lnt">19
+        </span><span class="lnt">20
+        </span><span class="lnt">21
+        </span><span class="lnt">22
+        </span><span class="lnt">23
+        </span><span class="lnt">24
+        </span><span class="lnt">25
+        </span><span class="lnt">26
+        </span><span class="lnt">27
+        </span><span class="lnt">28
+        </span><span class="lnt">29
+        </span><span class="lnt">30
+        </span><span class="lnt">31
+        </span><span class="lnt">32
+        </span><span class="lnt">33
+        </span><span class="lnt">34
+        </span><span class="lnt">35
+        </span><span class="lnt">36
+        </span><span class="lnt">37
+        </span><span class="lnt">38
+        </span></code></pre></td>
+        <td class="lntd">
+        <pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="n">m_breaks</span> <span class="o">&lt;-</span> <span class="nf">cumsum</span><span class="p">(</span><span class="nf">as.integer</span><span class="p">(</span><span class="nf">diff</span><span class="p">(</span><span class="nf">seq</span><span class="p">(</span><span class="nf">as.Date</span><span class="p">(</span><span class="s">&#34;2016-01-01&#34;</span><span class="p">),</span>
+        </span></span><span class="line"><span class="cl">                                       <span class="nf">as.Date</span><span class="p">(</span><span class="s">&#34;2017-01-01&#34;</span><span class="p">),</span> <span class="n">by</span> <span class="o">=</span> <span class="s">&#34;month&#34;</span><span class="p">))))</span> <span class="o">-</span> <span class="m">16</span>  
+        </span></span><span class="line"><span class="cl">
+        </span></span><span class="line"><span class="cl"><span class="n">arrow_segment_df</span> <span class="o">&lt;-</span> <span class="nf">tibble</span><span class="p">(</span>
+        </span></span><span class="line"><span class="cl">  <span class="n">x</span> <span class="o">=</span> <span class="m">10</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="m">3.4</span><span class="p">,</span> <span class="n">xend</span> <span class="o">=</span> <span class="m">61</span><span class="p">,</span> <span class="n">yend</span> <span class="o">=</span> <span class="m">3.2</span><span class="p">)</span>
+        </span></span><span class="line"><span class="cl">  
+        </span></span><span class="line"><span class="cl">
+        </span></span><span class="line"><span class="cl"><span class="n">p_out</span>  <span class="o">&lt;-</span> <span class="nf">ggplot</span><span class="p">(</span><span class="n">data</span> <span class="o">=</span> <span class="n">fars_involved_agg</span><span class="p">,</span>
+        </span></span><span class="line"><span class="cl">       <span class="n">mapping</span> <span class="o">=</span> <span class="nf">aes</span><span class="p">(</span><span class="n">x</span> <span class="o">=</span> <span class="n">day_ind</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="n">n</span><span class="p">,</span> <span class="n">color</span> <span class="o">=</span> <span class="n">flag</span><span class="p">,</span> <span class="n">fill</span> <span class="o">=</span> <span class="n">flag</span><span class="p">))</span> <span class="o">+</span>
+        </span></span><span class="line"><span class="cl">    <span class="nf">geom_point</span><span class="p">(</span><span class="n">group</span> <span class="o">=</span> <span class="m">1</span><span class="p">,</span> <span class="n">size</span> <span class="o">=</span> <span class="m">2.5</span><span class="p">,</span> <span class="n">shape</span> <span class="o">=</span> <span class="m">21</span><span class="p">)</span> <span class="o">+</span>
+        </span></span><span class="line"><span class="cl">    <span class="nf">geom_textsegment</span><span class="p">(</span>
+        </span></span><span class="line"><span class="cl">      <span class="n">data</span> <span class="o">=</span> <span class="n">arrow_segment_df</span><span class="p">,</span> 
+        </span></span><span class="line"><span class="cl">      <span class="n">mapping</span> <span class="o">=</span> <span class="nf">aes</span><span class="p">(</span><span class="n">x</span> <span class="o">=</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="n">y</span><span class="p">,</span> <span class="n">xend</span> <span class="o">=</span> <span class="n">xend</span><span class="p">,</span> <span class="n">yend</span> <span class="o">=</span> <span class="n">yend</span><span class="p">),</span> 
+        </span></span><span class="line"><span class="cl">      <span class="n">label</span> <span class="o">=</span> <span class="s">&#34;Calendar Day&#34;</span><span class="p">,</span> <span class="n">color</span> <span class="o">=</span> <span class="s">&#34;cornflowerblue&#34;</span><span class="p">,</span>
+        </span></span><span class="line"><span class="cl">      <span class="n">family</span> <span class="o">=</span> <span class="s">&#34;Socviz Condensed&#34;</span><span class="p">,</span>
+        </span></span><span class="line"><span class="cl">      <span class="n">arrow</span> <span class="o">=</span> <span class="nf">arrow</span><span class="p">(</span><span class="n">length</span> <span class="o">=</span> <span class="nf">unit</span><span class="p">(</span><span class="m">0.2</span><span class="p">,</span> <span class="s">&#34;cm&#34;</span><span class="p">),</span> <span class="n">type</span> <span class="o">=</span> <span class="s">&#34;closed&#34;</span><span class="p">),</span> 
+        </span></span><span class="line"><span class="cl">      <span class="n">inherit.aes</span> <span class="o">=</span> <span class="kc">FALSE</span><span class="p">,</span> <span class="n">linewidth</span> <span class="o">=</span> <span class="m">0.5</span><span class="p">)</span> <span class="o">+</span> 
+        </span></span><span class="line"><span class="cl">    <span class="nf">annotate</span><span class="p">(</span><span class="s">&#34;text&#34;</span><span class="p">,</span> <span class="n">x</span> <span class="o">=</span> <span class="m">305</span><span class="p">,</span> 
+        </span></span><span class="line"><span class="cl">                <span class="n">y</span> <span class="o">=</span> <span class="m">4</span><span class="p">,</span> <span class="n">label</span> <span class="o">=</span> <span class="s">&#34;Halloween&#34;</span><span class="p">,</span> <span class="n">size</span><span class="o">=</span><span class="m">5</span><span class="p">,</span> <span class="n">hjust</span> <span class="o">=</span> <span class="m">-0.12</span><span class="p">,</span>
+        </span></span><span class="line"><span class="cl">                <span class="n">color</span><span class="o">=</span><span class="s">&#34;darkorange2&#34;</span><span class="p">,</span> <span class="n">family</span> <span class="o">=</span> <span class="s">&#34;Socviz Condensed&#34;</span><span class="p">,</span>
+        </span></span><span class="line"><span class="cl">             <span class="p">)</span> <span class="o">+</span> 
+        </span></span><span class="line"><span class="cl">    <span class="nf">scale_color_manual</span><span class="p">(</span><span class="n">values</span> <span class="o">=</span> <span class="nf">c</span><span class="p">(</span><span class="s">&#34;gray10&#34;</span><span class="p">,</span> <span class="s">&#34;gray5&#34;</span><span class="p">))</span> <span class="o">+</span>    
+        </span></span><span class="line"><span class="cl">    <span class="nf">scale_fill_manual</span><span class="p">(</span><span class="n">values</span> <span class="o">=</span> <span class="nf">c</span><span class="p">(</span><span class="kc">NA</span><span class="p">,</span> <span class="s">&#34;darkorange2&#34;</span><span class="p">))</span> <span class="o">+</span> 
+        </span></span><span class="line"><span class="cl">    <span class="nf">coord_radial</span><span class="p">(</span><span class="n">expand</span> <span class="o">=</span> <span class="kc">FALSE</span><span class="p">,</span> <span class="n">rlim</span> <span class="o">=</span> <span class="nf">c</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">4.25</span><span class="p">),</span> <span class="n">inner.radius</span> <span class="o">=</span> <span class="m">0.25</span><span class="p">,</span> 
+        </span></span><span class="line"><span class="cl">                 <span class="n">r.axis.inside</span> <span class="o">=</span> <span class="kc">TRUE</span><span class="p">)</span> <span class="o">+</span> 
+        </span></span><span class="line"><span class="cl">    <span class="nf">scale_x_continuous</span><span class="p">(</span><span class="n">breaks</span> <span class="o">=</span> <span class="n">m_breaks</span><span class="p">,</span> <span class="n">labels</span> <span class="o">=</span> <span class="n">month.name</span><span class="p">,</span> <span class="n">minor_breaks</span> <span class="o">=</span> <span class="n">m_breaks</span> <span class="o">-</span> <span class="m">15</span><span class="p">)</span> <span class="o">+</span>
+        </span></span><span class="line"><span class="cl">    <span class="nf">guides</span><span class="p">(</span><span class="n">color</span> <span class="o">=</span> <span class="s">&#34;none&#34;</span><span class="p">,</span> <span class="n">fill</span> <span class="o">=</span> <span class="s">&#34;none&#34;</span><span class="p">,</span> <span class="n">theta</span> <span class="o">=</span> <span class="s">&#34;axis_textpath&#34;</span><span class="p">)</span> <span class="o">+</span> 
+        </span></span><span class="line"><span class="cl">    <span class="nf">labs</span><span class="p">(</span><span class="n">x</span> <span class="o">=</span> <span class="kc">NULL</span><span class="p">,</span>
+        </span></span><span class="line"><span class="cl">         <span class="n">y</span> <span class="o">=</span> <span class="kc">NULL</span><span class="p">,</span>
+        </span></span><span class="line"><span class="cl">         <span class="n">title</span> <span class="o">=</span> <span class="s">&#34;Fatal Motor Vehicle Crashes involving Child Pedestrians&#34;</span><span class="p">,</span>
+        </span></span><span class="line"><span class="cl">         <span class="n">subtitle</span> <span class="o">=</span> <span class="s">&#34;Daily Means, 2009-2023&#34;</span><span class="p">,</span>
+        </span></span><span class="line"><span class="cl">         <span class="n">caption</span> <span class="o">=</span> <span class="s">&#34;Figure: Kieran Healy / Data: NHTSA Fatality Analysis Reporting System&#34;</span><span class="p">)</span> <span class="o">+</span> 
+        </span></span><span class="line"><span class="cl">  <span class="nf">theme</span><span class="p">(</span><span class="n">panel.grid.major.x</span> <span class="o">=</span> <span class="nf">element_blank</span><span class="p">(),</span>
+        </span></span><span class="line"><span class="cl">        <span class="n">panel.grid.minor.x</span> <span class="o">=</span> <span class="nf">element_line</span><span class="p">(</span><span class="n">color</span> <span class="o">=</span> <span class="s">&#34;gray10&#34;</span><span class="p">),</span>
+        </span></span><span class="line"><span class="cl">        <span class="n">panel.grid.major.y</span> <span class="o">=</span> <span class="nf">element_line</span><span class="p">(</span><span class="n">color</span> <span class="o">=</span> <span class="s">&#34;gray50&#34;</span><span class="p">),</span>
+        </span></span><span class="line"><span class="cl">        <span class="n">panel.grid.minor.y</span> <span class="o">=</span> <span class="nf">element_blank</span><span class="p">(),</span>
+        </span></span><span class="line"><span class="cl">        <span class="n">axis.text</span> <span class="o">=</span> <span class="nf">element_text</span><span class="p">(</span><span class="n">face</span> <span class="o">=</span> <span class="s">&#34;bold&#34;</span><span class="p">),</span> 
+        </span></span><span class="line"><span class="cl">        <span class="n">axis.ticks.theta</span> <span class="o">=</span> <span class="nf">element_blank</span><span class="p">())</span></span></span></code></pre></td></tr></table>
+        </div>
+        </div>
+            
+        </div>
+        
+        <p>This is well beyond the minimum necessary to get a servicable plot, but I got carried away polishing the thing. The key bit is the call to <code>coord_radial()</code>:</p>
+        <div class="highlight-wrapper">
+            
+            
+                <div class="highlight"><div class="chroma">
+        <table class="lntable"><tr><td class="lntd">
+        <pre tabindex="0" class="chroma"><code><span class="lnt">1
+        </span><span class="lnt">2
+        </span><span class="lnt">3
+        </span><span class="lnt">4
+        </span></code></pre></td>
+        <td class="lntd">
+        <pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="nf">coord_radial</span><span class="p">(</span><span class="n">expand</span> <span class="o">=</span> <span class="kc">FALSE</span><span class="p">,</span> 
+        </span></span><span class="line"><span class="cl">             <span class="n">rlim</span> <span class="o">=</span> <span class="nf">c</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">4.25</span><span class="p">),</span> 
+        </span></span><span class="line"><span class="cl">             <span class="n">r.axis.inside</span> <span class="o">=</span> <span class="kc">TRUE</span><span class="p">,</span> 
+        </span></span><span class="line"><span class="cl">             <span class="n">inner.radius</span> <span class="o">=</span> <span class="m">0.25</span><span class="p">)</span></span></span></code></pre></td></tr></table>
+        </div>
+        </div>
+            
+        </div>
+        
+        <p>This says: draw the x-axis as a circle; don&rsquo;t expand the margins (this has the effect of keeping January at the top rather than being slightly decentered); set the y-axis limits (i.e. the length of the radius) to be slightly more than the maximum of the data; put the radial axis inside the plot rather than next to it; and make the circle more like a donut by putting a circular &ldquo;hole&rdquo; in the middle of the graph that&rsquo;s 25 percent of the total length of the radius. Donut-style versions of polar plots are often easier to read, as opposed to having everything go into the very center of the circle.</p>
+        <p>The word &ldquo;Halloween&rdquo; is put in with <code>annotate()</code>. The call to <code>geom_textsegment()</code> is from the very handy <a href="https://allancameron.github.io/geomtextpath/">geomtextpath</a> package. This lets us put text or labels on or alongside lines in a way that follows their shape. You can do this for ordinary trend lines in xy plots but it understands polar coordinates too. In addition, ggplot 4&rsquo;s radial system knows about geomtextpath. If you&rsquo;re using radial coordinates and geomtextpath is loaded then you can write <code>guides(theta = &quot;axis_textpath&quot;)</code>. This will change the labels of the <code>theta</code> axis (which is to say, the polar-transformed x-axis). Instead of sticking out horizontally they will pleasingly follow the path of the circle. Nice.  We also use the distinction between minor and major breakpoints for the labels and panel grid lines to put the month names on the <em>minor</em> breaks and leave the major breaks empty (and turn off their tick marks). That puts the month names in the middle of each monthly wedge, which is better than having them at the beginning. The only other slightly fancy thing is deliberately picking a shape for the points that lets me have them be empty rings, except for the Halloween point, which is filled. Here&rsquo;s what we get.</p>
+        <figure><a href="https://kieranhealy.org/blog/archives/2025/10/08/halloween-in-the-round/halloween_polar.png" data-fancybox>
+            <img src="https://kieranhealy.org/blog/archives/2025/10/08/halloween-in-the-round/halloween_polar.png"
+                 alt="Roundy version."/></a><figcaption>
+                    <p>Roundy version.</p>
+                </figcaption>
+        </figure>
+        <p>Not bad. You have to be careful with polar coordinates. People are much better at judging relative lengths than relative angles. This is why pie charts are hated by dataviz nerds. A pie chart is, after all, just a bar or column chart whose x-axis has been spun into a circle. In this case, our humble wide-aspect column plot does perfectly well for much less effort, and has the advantage of being immediately comprehensible by more people. There are cases where truly seasonal data can really benefit from being represented on or in a circle. This data isn&rsquo;t quite one of those, as we&rsquo;re just saying &ldquo;Hey, look how this one day is different from all the others&rdquo;. But by the same token, we&rsquo;re not really asking the viewer to judge angular offsets or to estimate the area of a pie wedge. Instead it&rsquo;s just distance from the inner circle. Seeing the points for all the other days cluster close to the inner ring while Halloween stands out a ways does a decent job of getting the content across, and maybe in a way friendlier to people looking at the plot on a phone.</p>
+        <p>PS: One other thing. Remember, as we also noted last year, that any inference about how dangerous Halloween is for child pedestrians shouldn&rsquo;t depend just on the number of fatalities observed but also on the exposure, which we don&rsquo;t see directly. There are lots more children&mdash;perhaps orders of magnitude more&mdash;wandering around on the evening of Halloween than on a typical night, which will change the meaning of the count of pedestrian fatalities.</p>]]>
+      </description>
+      <source:markdown>[Last year](https://kieranhealy.org/blog/archives/2024/10/12/halloween-data-cleaning/) I wrote about cleaning some data from the [NHTSA FARS database](https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars), the system that tracks information about road accidents in the United States. I did that again this year for my [Modern Plain Text Computing](https://mptc.io/) class. I won’t repeat the cleaning details, which are more or less the same. One question is how to aggregate data like this, if at all, and how to draw a picture of it. There are, as always, lots of options. The data as obtained (with a _slightly_ different query from last year; a small lesson in itself about repeated measures) arrive as counts of pedestrian fatalities (in motor vehicle accidents) for each day of the year, within months, for each year from 2009 to 2023.
+
+[![The data in the spreadsheet you get after a specific query to FARS on the web.](https://kieranhealy.org/blog/archives/2025/10/08/halloween-in-the-round/fars-fatalities.png)](https://kieranhealy.org/blog/archives/2025/10/08/halloween-in-the-round/fars-fatalities.png)
+
+The data in the spreadsheet you get after a specific query to FARS on the web.
+
+What I was interested in was patterns of daily counts, so I wanted to average by day across years. This sort of aggregation of course gets rid of other things we might be interested in, like trends over time by year. Averaging by day means we won’t see, for example, any tendency for the number of pedestrian deaths to decrease over time. One way to draw this is a column chart with time (as day-of-the-year) on the x-axis and the average count on the y-axis.
+
+[![Wide version.](https://kieranhealy.org/blog/archives/2025/10/08/halloween-in-the-round/halloween_wide.png)](https://kieranhealy.org/blog/archives/2025/10/08/halloween-in-the-round/halloween_wide.png)
+
+Wide version.
+
+This works fine. Nice and compact. One thing people tend to underestimate about graphs like this (whether as bars or lines) is that you can often compress the vertical axis a lot without loss of information. Indeed, often with long time series that’s the right thing to do anyway, because there’s nothing better for making your trends look dramatic than narrowing the horizontal part of the aspect ratio. Here the focus is not on a trend, but on the one day that really stands out from the others. In any case, wide is good.
+
+On the other hand, most people are looking at things on their phones. Maybe a vertical view can be better there? We could do something like this, like last year:
+
+[![Tall version.](https://kieranhealy.org/blog/archives/2025/10/08/halloween-in-the-round/halloween_tall25.png)](https://kieranhealy.org/blog/archives/2025/10/08/halloween-in-the-round/halloween_tall25.png)
+
+Tall version.
+
+Here we facet by month and stack them. It works OK. This would be more useful for data where you expect a bit more structure down the rows as well as across the columns of the table you’re graphing. For example, accidents vary by day of the week, especially pedestrian accidents. There are more people out at the weekend. And then for some parts of the country the seasonality of pedestrian activity would be stronger than in others, because it’s nicer to be outside some months of the year than others. (You can in fact get counts by day of the week from FARS, but I didn’t; exercise for the reader, etc.) Even in this one you can see some evidence of that, as Summer and (back to school) Fall have more fatalities than January, for instance.
+
+Finally, and the point of this post, we can also experiment with the fact that the year is cyclical, and use polar coordinates. When we do this we take our x-axis and wrap it around a circle. Position on the x-axis measured as a distance becomes position on a polar or radial axis measured as an angle. We call it theta and measure in degrees or radians or whatever. In ggplot `coord_polar()` is available as a transformation to do this. One of the nice things about ggplot’s grammar-of-graphics approach is that it makes it easier to show how the same graph can change under various transformations. A standard xy plot has its coordinates set up by the `coord_cartesian()` function. We usually never write this unless explicitly want to tweak some aspect of it, but it’s there. But we can just replace it altogether with a different coordinate transformation altogether. This can be a polar system or something else, as when we draw a map and systematically transform points on a sphere into a flat surface via some projection.
+
+Version 4 of ggplot came out last month and introduced `coord_radial()` as an improved version of `coord_polar()`. We can use it to draw our plot. Here we’ll use a FARS dataset that shows fatal crashes that involve pedestrians aged 17 and under. (The difference from the ones above is that pedestrians were “involved” in the crash but weren’t necessarily killed.) We write code that looks like this:
+
+```
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+```
+
+```r
+m_breaks &#60;- cumsum(as.integer(diff(seq(as.Date(&#34;2016-01-01&#34;),
+                                       as.Date(&#34;2017-01-01&#34;), by = &#34;month&#34;)))) - 16
+
+arrow_segment_df &#60;- tibble(
+  x = 10, y = 3.4, xend = 61, yend = 3.2)
+
+
+p_out  &#60;- ggplot(data = fars_involved_agg,
+       mapping = aes(x = day_ind, y = n, color = flag, fill = flag)) +
+    geom_point(group = 1, size = 2.5, shape = 21) +
+    geom_textsegment(
+      data = arrow_segment_df,
+      mapping = aes(x = x, y = y, xend = xend, yend = yend),
+      label = &#34;Calendar Day&#34;, color = &#34;cornflowerblue&#34;,
+      family = &#34;Socviz Condensed&#34;,
+      arrow = arrow(length = unit(0.2, &#34;cm&#34;), type = &#34;closed&#34;),
+      inherit.aes = FALSE, linewidth = 0.5) +
+    annotate(&#34;text&#34;, x = 305,
+                y = 4, label = &#34;Halloween&#34;, size=5, hjust = -0.12,
+                color=&#34;darkorange2&#34;, family = &#34;Socviz Condensed&#34;,
+             ) +
+    scale_color_manual(values = c(&#34;gray10&#34;, &#34;gray5&#34;)) +
+    scale_fill_manual(values = c(NA, &#34;darkorange2&#34;)) +
+    coord_radial(expand = FALSE, rlim = c(0,4.25), inner.radius = 0.25,
+                 r.axis.inside = TRUE) +
+    scale_x_continuous(breaks = m_breaks, labels = month.name, minor_breaks = m_breaks - 15) +
+    guides(color = &#34;none&#34;, fill = &#34;none&#34;, theta = &#34;axis_textpath&#34;) +
+    labs(x = NULL,
+         y = NULL,
+         title = &#34;Fatal Motor Vehicle Crashes involving Child Pedestrians&#34;,
+         subtitle = &#34;Daily Means, 2009-2023&#34;,
+         caption = &#34;Figure: Kieran Healy / Data: NHTSA Fatality Analysis Reporting System&#34;) +
+  theme(panel.grid.major.x = element_blank(),
+        panel.grid.minor.x = element_line(color = &#34;gray10&#34;),
+        panel.grid.major.y = element_line(color = &#34;gray50&#34;),
+        panel.grid.minor.y = element_blank(),
+        axis.text = element_text(face = &#34;bold&#34;),
+        axis.ticks.theta = element_blank())
+```
+
+This is well beyond the minimum necessary to get a servicable plot, but I got carried away polishing the thing. The key bit is the call to `coord_radial()`:
+
+```
+1
+2
+3
+4
+
+```
+
+```r
+coord_radial(expand = FALSE,
+             rlim = c(0,4.25),
+             r.axis.inside = TRUE,
+             inner.radius = 0.25)
+```
+
+This says: draw the x-axis as a circle; don’t expand the margins (this has the effect of keeping January at the top rather than being slightly decentered); set the y-axis limits (i.e. the length of the radius) to be slightly more than the maximum of the data; put the radial axis inside the plot rather than next to it; and make the circle more like a donut by putting a circular “hole” in the middle of the graph that’s 25 percent of the total length of the radius. Donut-style versions of polar plots are often easier to read, as opposed to having everything go into the very center of the circle.
+
+The word “Halloween” is put in with `annotate()`. The call to `geom_textsegment()` is from the very handy [geomtextpath](https://allancameron.github.io/geomtextpath/) package. This lets us put text or labels on or alongside lines in a way that follows their shape. You can do this for ordinary trend lines in xy plots but it understands polar coordinates too. In addition, ggplot 4’s radial system knows about geomtextpath. If you’re using radial coordinates and geomtextpath is loaded then you can write `guides(theta = &#34;axis_textpath&#34;)`. This will change the labels of the `theta` axis (which is to say, the polar-transformed x-axis). Instead of sticking out horizontally they will pleasingly follow the path of the circle. Nice. We also use the distinction between minor and major breakpoints for the labels and panel grid lines to put the month names on the _minor_ breaks and leave the major breaks empty (and turn off their tick marks). That puts the month names in the middle of each monthly wedge, which is better than having them at the beginning. The only other slightly fancy thing is deliberately picking a shape for the points that lets me have them be empty rings, except for the Halloween point, which is filled. Here’s what we get.
+
+[![Roundy version.](https://kieranhealy.org/blog/archives/2025/10/08/halloween-in-the-round/halloween_polar.png)](https://kieranhealy.org/blog/archives/2025/10/08/halloween-in-the-round/halloween_polar.png)
+
+Roundy version.
+
+Not bad. You have to be careful with polar coordinates. People are much better at judging relative lengths than relative angles. This is why pie charts are hated by dataviz nerds. A pie chart is, after all, just a bar or column chart whose x-axis has been spun into a circle. In this case, our humble wide-aspect column plot does perfectly well for much less effort, and has the advantage of being immediately comprehensible by more people. There are cases where truly seasonal data can really benefit from being represented on or in a circle. This data isn’t quite one of those, as we’re just saying “Hey, look how this one day is different from all the others”. But by the same token, we’re not really asking the viewer to judge angular offsets or to estimate the area of a pie wedge. Instead it’s just distance from the inner circle. Seeing the points for all the other days cluster close to the inner ring while Halloween stands out a ways does a decent job of getting the content across, and maybe in a way friendlier to people looking at the plot on a phone.
+
+PS: One other thing. Remember, as we also noted last year, that any inference about how dangerous Halloween is for child pedestrians shouldn’t depend just on the number of fatalities observed but also on the exposure, which we don’t see directly. There are lots more children—perhaps orders of magnitude more—wandering around on the evening of Halloween than on a typical night, which will change the meaning of the count of pedestrian fatalities.</source:markdown>
+      <guid>cid://https://kieranhealy.org/blog/archives/2025/10/08/halloween-in-the-round/</guid>
+    </item>    <item>
+      <title>Podcast: The Final Boss of AI Slop</title>
+      <link>https://www.404media.co/podcast-the-final-boss-of-ai-slop/</link>
+      <description>
+        <![CDATA[We talk all about Sora 2, Apple and Google removing ICE-spotting apps, and a massive update to our Flock reporting.]]>
+      </description>
+      <source:markdown>We talk all about Sora 2, Apple and Google removing ICE-spotting apps, and a massive update to our Flock reporting.</source:markdown>
+      <guid>cid://68e668128635ce000140d0ae</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/08.html#a132933</link>
+      <description>
+        <![CDATA[The big deal with WordPress, as outlined in the <a href="http://scripting.com/2025/08/28/140604.html">Think Different piece</a> is that the strong API makes WP into something quite different from what most people think it is. I think of it as an OS for writing on the web. Very analogous to what we use(d) PCs and Macs for before networks were everywhere. This came up in a thread on Bluesky about MicroPub which appears to be a redo of Metaweblog, with better identity system.]]>
+      </description>
+      <source:markdown>The big deal with WordPress, as outlined in the [Think Different piece](http://scripting.com/2025/08/28/140604.html) is that the strong API makes WP into something quite different from what most people think it is. I think of it as an OS for writing on the web. Very analogous to what we use(d) PCs and Macs for before networks were everywhere. This came up in a thread on Bluesky about MicroPub which appears to be a redo of Metaweblog, with better identity system.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/08.html#a132933</guid>
+    </item>    <item>
+      <title>Nobel Prize in Physics Is Awarded for Work in Quantum Mechanics</title>
+      <link>https://www.nytimes.com/2025/10/07/science/nobel-prize-physics.html</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42249</guid>
+    </item>    <item>
+      <link>https://snyder.substack.com/p/stalinism-and-stephen-miller-video?utm_source=podcast-email&#38;publication_id=310897&#38;post_id=175571053&#38;utm_campaign=email-play-on-substack&#38;utm_content=watch_now_button&#38;r=w33x&#38;triedRedirect=true&#38;utm_medium=email</link>
+      <description>
+        <![CDATA[<p>Timothy Snyder: Stalinism and Stephen Miller.</p>]]>
+      </description>
+      <source:markdown>Timothy Snyder: Stalinism and Stephen Miller.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/08/1431/</guid>
+    </item>    <item>
+      <title>The Movies That Defined Gen X. Ferris Bueller, The Breakfast Club, Do...</title>
+      <link>https://kottke.org/25/10/0047664-the-movies-that-defined-g</link>
+      <guid>cid://tag:kottke.org,2025://13.47664</guid>
+    </item>    <item>
+      <title>Cocaine in Private Jets and Sex Toys: What the FBI Found on its Secretly Backdoored Chat App</title>
+      <link>https://www.404media.co/cocaine-in-private-jets-and-sex-toys-what-the-fbi-found-on-its-secretly-backdoored-chat-app/</link>
+      <description>
+        <![CDATA[New leaked documents show how the FBI convinced a judge to let its partners collect a mass of encrypted messages from thousands of phones around the world.]]>
+      </description>
+      <source:markdown>New leaked documents show how the FBI convinced a judge to let its partners collect a mass of encrypted messages from thousands of phones around the world.</source:markdown>
+      <guid>cid://68e53d038635ce00013eb282</guid>
     </item>    <item>
       <title>From Home Kitchen to International Orders</title>
       <link>https://openchannels.fm/from-home-kitchen-to-international-orders/</link>
@@ -272,10 +873,20 @@ metal system, on the example of a \_Hetzner dedicated root server\_.</source:mar
         <p>Or for free-threaded Python 3.1;:</p>
         <pre><code>uvx python@3.14t
         </code></pre>
-        <p>The <code>uv</code> team wrote <a href="https://astral.sh/blog/python-3.14">about their Python 3.14 highlights</a> in their announcement of Python 3.14's availability via <code>uv</code>.
+        <p>The <code>uv</code> team wrote <a href="https://astral.sh/blog/python-3.14">about their Python 3.14 highlights</a> in their announcement of Python 3.14's availability via <code>uv</code>.</p>
+        <p>The GitHub Actions <a href="https://github.com/actions/setup-python">setup-python action</a> includes Python 3.14 now too, so the following YAML snippet in will run tests on all currently supported versions:</p>
+        <pre><code>strategy:
+          matrix:
+            python-version: ["3.10", "3.11", "3.12", "3.13", "3.14"]
+        steps:
+        - uses: actions/setup-python@v6
+          with:
+            python-version: ${{ matrix.python-version }}
+        </code></pre>
+        <p><a href="https://github.com/simonw/datasette-pretty-traces/blob/3edddecab850d6ac47ed128a400b6a0ff8b0c012/.github/workflows/test.yml">Full example here</a> for one of my many Datasette plugin repos.
         
         
-            <p>Tags: <a href="https://simonwillison.net/tags/gil">gil</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/psf">psf</a>, <a href="https://simonwillison.net/tags/uv">uv</a></p>]]>
+            <p>Tags: <a href="https://simonwillison.net/tags/gil">gil</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/github-actions">github-actions</a>, <a href="https://simonwillison.net/tags/psf">psf</a>, <a href="https://simonwillison.net/tags/uv">uv</a></p>]]>
       </description>
       <source:markdown>**[Python 3.14](https://www.python.org/downloads/release/python-3140/)**
 
@@ -309,9 +920,24 @@ uvx python@3.14t
 
 The `uv` team wrote [about their Python 3.14 highlights](https://astral.sh/blog/python-3.14) in their announcement of Python 3.14&#39;s availability via `uv`.
 
+The GitHub Actions [setup-python action](https://github.com/actions/setup-python) includes Python 3.14 now too, so the following YAML snippet in will run tests on all currently supported versions:
+
+```
+strategy:
+  matrix:
+    python-version: [&#34;3.10&#34;, &#34;3.11&#34;, &#34;3.12&#34;, &#34;3.13&#34;, &#34;3.14&#34;]
+steps:
+- uses: actions/setup-python@v6
+  with:
+    python-version: ${{ matrix.python-version }}
+
+```
+
+[Full example here](https://github.com/simonw/datasette-pretty-traces/blob/3edddecab850d6ac47ed128a400b6a0ff8b0c012/.github/workflows/test.yml) for one of my many Datasette plugin repos.
 
 
-Tags: [gil](https://simonwillison.net/tags/gil), [open-source](https://simonwillison.net/tags/open-source), [python](https://simonwillison.net/tags/python), [psf](https://simonwillison.net/tags/psf), [uv](https://simonwillison.net/tags/uv)</source:markdown>
+
+Tags: [gil](https://simonwillison.net/tags/gil), [open-source](https://simonwillison.net/tags/open-source), [python](https://simonwillison.net/tags/python), [github-actions](https://simonwillison.net/tags/github-actions), [psf](https://simonwillison.net/tags/psf), [uv](https://simonwillison.net/tags/uv)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/8/python-314/#atom-everything</guid>
     </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115336469257036549</link>
@@ -856,7 +1482,7 @@ That flight we abandoned did finally take off …six hours late. By that time we
         <p>One of the lesser spoken truths of working productively with LLMs as a software engineer on non-toy-projects is that it's <em>difficult</em>. There's a lot of depth to understanding how to use the tools, there are plenty of traps to avoid, and the pace at which they can churn out working code raises the bar for what the human participant can and should be contributing.</p>
         <p>The rise of <strong>coding agents</strong> - tools like <a href="https://www.claude.com/product/claude-code">Claude Code</a> (released February 2025), OpenAI's <a href="https://github.com/openai/codex">Codex CLI</a> (April) and <a href="https://github.com/google-gemini/gemini-cli">Gemini CLI</a> (June) that can iterate on code, actively testing and modifying it until it achieves a specified goal, has dramatically increased the usefulness of LLMs for real-world coding problems.</p>
         <p>I'm increasingly hearing from experienced, credible software engineers who are running multiple copies of agents at once, tackling several problems in parallel and expanding the scope of what they can take on. I was skeptical of this at first but <a href="https://simonwillison.net/2025/Oct/5/parallel-coding-agents/">I've started running multiple agents myself now</a> and it's surprisingly effective, if mentally exhausting!</p>
-        <p>This feels very different from classic vibe coding, where I outsource a simple, low-stakes task to an LLM and accept the result if it appears to work. Most of my <a href="https://simonwillison.net/">tools.simonwillison.net</a> collection (<a href="https://simonwillison.net/2025/Sep/4/highlighted-tools/">previously</a>) were built like that. Iterating with coding agents to produce production-quality code that I'm confident I can maintain in the future feels like a different process entirely.</p>
+        <p>This feels very different from classic vibe coding, where I outsource a simple, low-stakes task to an LLM and accept the result if it appears to work. Most of my <a href="https://tools.simonwillison.net/">tools.simonwillison.net</a> collection (<a href="https://simonwillison.net/2025/Sep/4/highlighted-tools/">previously</a>) were built like that. Iterating with coding agents to produce production-quality code that I'm confident I can maintain in the future feels like a different process entirely.</p>
         <p>It's also become clear to me that LLMs actively reward existing top tier software engineering practices:</p>
         <ul id="techniques">
         <li>
@@ -899,7 +1525,7 @@ The rise of **coding agents** \- tools like [Claude Code](https://www.claude.com
 
 I&#39;m increasingly hearing from experienced, credible software engineers who are running multiple copies of agents at once, tackling several problems in parallel and expanding the scope of what they can take on. I was skeptical of this at first but [I&#39;ve started running multiple agents myself now](https://simonwillison.net/2025/Oct/5/parallel-coding-agents/) and it&#39;s surprisingly effective, if mentally exhausting!
 
-This feels very different from classic vibe coding, where I outsource a simple, low-stakes task to an LLM and accept the result if it appears to work. Most of my [tools.simonwillison.net](https://simonwillison.net/) collection ( [previously](https://simonwillison.net/2025/Sep/4/highlighted-tools/)) were built like that. Iterating with coding agents to produce production-quality code that I&#39;m confident I can maintain in the future feels like a different process entirely.
+This feels very different from classic vibe coding, where I outsource a simple, low-stakes task to an LLM and accept the result if it appears to work. Most of my [tools.simonwillison.net](https://tools.simonwillison.net/) collection ( [previously](https://simonwillison.net/2025/Sep/4/highlighted-tools/)) were built like that. Iterating with coding agents to produce production-quality code that I&#39;m confident I can maintain in the future feels like a different process entirely.
 
 It&#39;s also become clear to me that LLMs actively reward existing top tier software engineering practices:
 
