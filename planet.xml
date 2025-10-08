@@ -4,7 +4,7 @@
   <channel>
     <title>Planet News</title>
     <link>http://localhost:8000/planetxml</link>
-    <lastBuildDate>08 Oct 25 13:51 -0700</lastBuildDate>
+    <lastBuildDate>08 Oct 25 15:11 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -48,6 +48,16 @@
       <source:markdown>As Jim Gavin has withdrawn from campaigning, what does that mean for your ballot paper and your vote?</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1008/1537540-gavin-presidential-election-ballot/</guid>
     </item>    <item>
+      <title>Trump hints Mideast deal is &#39;very close&#39; as senior figures from U.S. and Israel join peace talks</title>
+      <link>https://www.cbc.ca/news/world/trump-mideast-gaza-israel-peace-talks-9.6932218?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/cdae60e5-fbad-4650-b991-6d0a9b18d7d0,1759956243603/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C179%2C3444%2C1937%29%3BResize%3D%28620%29' alt='Man in dark suit and red tie speaking' width='620' height='349' title='President Donald Trump speaks during a roundtable meeting on antifa in the State Dining Room at the White House, Wednesday, Oct. 8, 2025, in Washington. '/><p>The most promising effort yet to end the war in Gaza was bolstered as senior figures from Israel and the United States joined the negotiations on Wednesday after Hamas handed over its lists of hostages and  Palestinian prisoners to be freed in a swap.</p>]]>
+      </description>
+      <source:markdown>![Man in dark suit and red tie speaking](https://i.cbc.ca/ais/cdae60e5-fbad-4650-b991-6d0a9b18d7d0,1759956243603/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C179%2C3444%2C1937%29%3BResize%3D%28620%29)
+
+The most promising effort yet to end the war in Gaza was bolstered as senior figures from Israel and the United States joined the negotiations on Wednesday after Hamas handed over its lists of hostages and Palestinian prisoners to be freed in a swap.</source:markdown>
+      <guid>cid://9.6932218</guid>
+    </item>    <item>
       <title>Pope Leo greets Hispanic ministry leaders from the USA</title>
       <link>https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-greets-hispanic-ministry-leaders-from-the-usa.html</link>
       <description>
@@ -67,6 +77,20 @@
       </description>
       <source:markdown>A plan by US President Donald Trump for Gaza is &#34;the only way to get to a rapid ceasefire&#34;, one expert has told Behind the Story.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1008/1537528-podcast-is-trumps-peace-plan-the-only-way-for-gaza/</guid>
+    </item>    <item>
+      <title>Why Trump is at war with Venezuela | About That</title>
+      <link>https://www.cbc.ca/player/play/9.6932199?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/52a0591d-8c3a-48c4-b92d-a050c373014f,1759955406117/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='U.S. President Donald Trump, left, is seen next to an image of Venezuelan President Nicolás Maduro, in this combination image' width='620' height='349' title='U.S. President Donald Trump, left, is seen next to an image of Venezuelan President Nicolás Maduro, in this combination image'/><p>What's President Donald Trump's endgame with repeated U.S. strikes on boats near Venezuela? Andrew Chang breaks down the threats the Trump administration says it's reacting to and why Venezuela's relationship with China may also be a factor.
+        
+        Images provided by Getty Images, The Canadian Press and Reuters.</p>]]>
+      </description>
+      <source:markdown>![U.S. President Donald Trump, left, is seen next to an image of Venezuelan President Nicolás Maduro, in this combination image](https://i.cbc.ca/ais/52a0591d-8c3a-48c4-b92d-a050c373014f,1759955406117/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29)
+
+What&#39;s President Donald Trump&#39;s endgame with repeated U.S. strikes on boats near Venezuela? Andrew Chang breaks down the threats the Trump administration says it&#39;s reacting to and why Venezuela&#39;s relationship with China may also be a factor.
+
+Images provided by Getty Images, The Canadian Press and Reuters.</source:markdown>
+      <guid>cid://9.6932199</guid>
     </item>    <item>
       <title>Jury told Quilligan subjected to a violent assault</title>
       <link>https://www.rte.ie/news/courts/2025/1008/1537523-kieran-quilligan-case/</link>
@@ -278,6 +302,15 @@ Footage released by Cao Bang Public Security in Vietnam shows rescue crews ferry
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/05-02-2025-WHO-Gaza-11.jpg/image560x340cropped.jpg" length="30806" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/10/1166057</guid>
     </item>    <item>
+      <title>UN chief ‘deeply saddened’ by deadly protests in Madagascar</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166061</link>
+      <description>
+        <![CDATA[UN Secretary-General António Guterres has stressed the need for dialogue in Madagascar as anti-government demonstrations enter a third week.&nbsp;]]>
+      </description>
+      <source:markdown>UN Secretary-General António Guterres has stressed the need for dialogue in Madagascar as anti-government demonstrations enter a third week.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/17-02-2022-UNSPLASH_Madagascar.jpg/image560x340cropped.jpg" length="30653" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166061</guid>
+    </item>    <item>
       <title>Gender Recognition Certificate applications fell in 2024</title>
       <link>https://www.rte.ie/news/ireland/2025/1008/1537470-gender-recognition/</link>
       <description>
@@ -286,12 +319,12 @@ Footage released by Cao Bang Public Security in Vietnam shows rescue crews ferry
       <source:markdown>The number of applications granted for Gender Recognition Certificates (GRC) fell slightly last year compared to 2023.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1008/1537470-gender-recognition/</guid>
     </item>    <item>
-      <title>Louis Theroux to host masterclass in Dublin this evening</title>
+      <title>Documentary maker Theroux hosts masterclass in Dublin</title>
       <link>https://www.rte.ie/news/2025/1008/1537468-louis-theroux/</link>
       <description>
-        <![CDATA[Louis Theroux, the acclaimed documentary maker and journalist, will host an IFTA masterclass this evening in Dublin city centre.]]>
+        <![CDATA[Louis Theroux, the acclaimed documentary maker and journalist, has hosted an IFTA masterclass in Dublin city centre.]]>
       </description>
-      <source:markdown>Louis Theroux, the acclaimed documentary maker and journalist, will host an IFTA masterclass this evening in Dublin city centre.</source:markdown>
+      <source:markdown>Louis Theroux, the acclaimed documentary maker and journalist, has hosted an IFTA masterclass in Dublin city centre.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1008/1537468-louis-theroux/</guid>
     </item>    <item>
       <title>Former FBI director James Comey pleads not guilty to federal charges</title>
@@ -478,9 +511,9 @@ The Israeli military intercepted a nine-boat flotilla trying to break Israel&#39
       <title>Martin apologises to FF colleagues for election debacle</title>
       <link>https://www.rte.ie/news/2025/1008/1537386-fianna-fail-politics/</link>
       <description>
-        <![CDATA[Taoiseach and Fianna Fáil leader Micheál Martin has apologised to his party colleagues for the Presidential Election debacle at a parliamentary party meeting, saying he is devastated at what had happened.]]>
+        <![CDATA[Taoiseach and Fianna Fáil leader Micheál Martin has apologised to his party colleagues for the Presidential Election debacle at a parliamentary party meeting, saying he was devastated at what had happened.]]>
       </description>
-      <source:markdown>Taoiseach and Fianna Fáil leader Micheál Martin has apologised to his party colleagues for the Presidential Election debacle at a parliamentary party meeting, saying he is devastated at what had happened.</source:markdown>
+      <source:markdown>Taoiseach and Fianna Fáil leader Micheál Martin has apologised to his party colleagues for the Presidential Election debacle at a parliamentary party meeting, saying he was devastated at what had happened.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1008/1537386-fianna-fail-politics/</guid>
     </item>    <item>
       <title>Scientists based in Australia, Japan and U.S. awarded Nobel Prize in Chemistry</title>
