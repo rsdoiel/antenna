@@ -312,4 +312,5 @@ description: Blogs, columns and snapshots from around the web.
 - [Peter's feed on Caltech](https://collopy.net/feed/research/Caltech.xml)
 - [Peter's feed on California](https://collopy.net/feed/research/California.xml)
 - [Massively Parallel Procrastination](https://blog.fsck.com/feed/feed.xml)
+- [Borowitz Report](https://www.borowitzreport.com/feed)
 

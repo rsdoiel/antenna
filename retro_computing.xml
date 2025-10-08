@@ -4,7 +4,7 @@
   <channel>
     <title>Retro Computing News</title>
     <link>http://localhost:8000/retro_computingxml</link>
-    <lastBuildDate>07 Oct 25 16:28 -0700</lastBuildDate>
+    <lastBuildDate>08 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -394,33 +394,6 @@ Although at least one [client re-creation](https://github.com/erfg12/AOL_4.0_Emu
       </description>
       <source:markdown>Diabaig is a traditional turn-based ASCII roguelike where you are never more than a few mistakes away from death. Choose a starting class, find powerful items, and learn new spells and techniques to face increasingly dangerous adversity. The [Diabaig website](https://conornally.itch.io/diabaig) has versions for Windows, macOS, Linux, and Android .. but an unofficial version has been compiled for DOS by Ben Collver, using OpenWatcom and pdcurses. You can find it at [Diabaig 1.0.0 for DOS](https://archive.org/details/diabaig-1.0.0-for-dos) on Archive.org. It requires a 32-bit CPU and 4 MB memory to run.</source:markdown>
       <guid>cid://https://sourceforge.neta24cdf90664d4feae13325fd28faf6f93e44bbbc</guid>
-    </item>    <item>
-      <title>USB4 Maintainer Leaves Intel</title>
-      <link>http://www.linux-magazine.com/Online/News/USB4-Maintainer-Leaves-Intel</link>
-      <description>
-        <![CDATA[<p>Michael Jamet, one of the primary maintainers of USB4 and Thunderbolt drivers, has left Intel, leaving a gaping hole for the Linux community to deal with.</p>]]>
-      </description>
-      <source:markdown>Michael Jamet, one of the primary maintainers of USB4 and Thunderbolt drivers, has left Intel, leaving a gaping hole for the Linux community to deal with.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://f3ff14fdb3992a4e709658ef25e3c22f</guid>
-    </item>    <item>
-      <title>Budgie 10.9.3 Now Available</title>
-      <link>http://www.linux-magazine.com/Online/News/Budgie-10.9.3-Now-Available</link>
-      <description>
-        <![CDATA[<p>The latest version of this elegant and configurable Linux desktop aligns with changes in Gnome 49.</p>]]>
-      </description>
-      <source:markdown>The latest version of this elegant and configurable Linux desktop aligns with changes in Gnome 49.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://8754c6aaba071565f06a6c480cb00eed</guid>
-    </item>    <item>
-      <title>Current Directory Pointers CMD HD</title>
-      <link>https://www.c64os.com/post/cmdhdcurrentdirpointers</link>
-      <description>
-        <![CDATA[<img src='https://s3.amazonaws.com/com.c64os.resources/weblog/cmdhdcurrentdirpointers/icon-cmdhdpartitions.jpg'> Back in 1986, Berkeley Softworks released the first version of GEOS v1.0 for the Commodore 64. At that time the 1541 disk drive reigned supreme as the storage device for the C64. The 1571 was released the year before GEOS, but the 1541 was and forever remained far more popular. The 1541 and 1571 were very low capacity 5.25" floppy disk drives. The 1541 could only access one side of the disk at a time offering only 664 blocks of storage (~170KB.) You could flip the disk upside down, but the other side had to be formatted with an independent file system. The 1571 could read both sides of the disk and integrate them into a single pool of storage, doubling the capacity of one file system to a whopping ~340KB. With a storage capacity that is so low, there isn't much point in the file system supporting subdirectories. Organization of files can be done much more practically per disk. Then you can file your disks into different disk cases with little labeled dividers between them. 5.25" Floppy. . .]]>
-      </description>
-      <source:markdown>![](https://s3.amazonaws.com/com.c64os.resources/weblog/cmdhdcurrentdirpointers/icon-cmdhdpartitions.jpg) Back in 1986, Berkeley Softworks released the first version of GEOS v1.0 for the Commodore 64. At that time the 1541 disk drive reigned supreme as the storage device for the C64. The 1571 was released the year before GEOS, but the 1541 was and forever remained far more popular. The 1541 and 1571 were very low capacity 5.25&#34; floppy disk drives. The 1541 could only access one side of the disk at a time offering only 664 blocks of storage (~170KB.) You could flip the disk upside down, but the other side had to be formatted with an independent file system. The 1571 could read both sides of the disk and integrate them into a single pool of storage, doubling the capacity of one file system to a whopping ~340KB. With a storage capacity that is so low, there isn&#39;t much point in the file system supporting subdirectories. Organization of files can be done much more practically per disk. Then you can file your disks into different disk cases with little labeled dividers between them. 5.25&#34; Floppy. . .</source:markdown>
-      <author>gregorynacu@me.com (Gregory Nacu)</author>
-      <guid>cid://https://www.c64os.com/post?p=131</guid>
     </item>
   </channel>
 </rss>

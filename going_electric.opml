@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Going Electric</title>
-        <dateCreated>07 Oct 25 16:28 -0700</dateCreated>
+        <dateCreated>08 Oct 25 06:10 -0700</dateCreated>
     </head>
     <body>
         <outline text="California Energy Blog" type="rss" xmlUrl="https://www.calenergyblog.com/blog-feed.xml" htmlUrl="https://www.calenergyblog.com/blog,https://www.calenergyblog.com/blog-feed.xml" description="My Site" url="https://www.calenergyblog.com/blog-feed.xml"></outline>
