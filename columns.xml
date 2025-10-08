@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>http://localhost:8000/columnsxml</link>
-    <lastBuildDate>08 Oct 25 13:51 -0700</lastBuildDate>
+    <lastBuildDate>08 Oct 25 15:11 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,26 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>The Great Chicago Fire</title>
+      <link>https://heathercoxrichardson.substack.com/p/the-great-chicago-fire</link>
+      <description>
+        <![CDATA[Today is the anniversary of several deadly wildfires that took place in 1871.]]>
+      </description>
+      <source:markdown>Today is the anniversary of several deadly wildfires that took place in 1871.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/n1S4BGvTwpc" length="0" type="image/jpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/the-great-chicago-fire</guid>
+    </item>    <item>
+      <title>A History of the Slave-Breeding Industry in the United States</title>
+      <link>https://kottke.org/25/10/a-history-of-the-slave-breeding-industry-in-the-united-states-1</link>
+      <guid>cid://tag:kottke.org,2025://5.47682</guid>
+    </item>    <item>
+      <link>https://insideevs.com/news/774924/kia-pv5-electric-van-review/</link>
+      <description>
+        <![CDATA[<p>The Kia PV5 May Be The Go-To Bargain Electric Van. I recently test drove the VW Buzz, and like everyone else, I fell in love. And now I hear that there may be something even more fun. I've always liked Kia's.</p>]]>
+      </description>
+      <source:markdown>The Kia PV5 May Be The Go-To Bargain Electric Van. I recently test drove the VW Buzz, and like everyone else, I fell in love. And now I hear that there may be something even more fun. I&#39;ve always liked Kia&#39;s.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/08/1441/</guid>
     </item>    <item>
       <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2phsmohlc2j</link>
       <description>
@@ -212,9 +232,9 @@ Tags: [llms](https://simonwillison.net/tags/llms), [generative-ai](https://simon
     </item>    <item>
       <link>http://scripting.com/2025/10/08.html#a165842</link>
       <description>
-        <![CDATA[<a class="anchorRightMargin" href="http://scripting.com/2025/09/18/145808.html"><img class="imgRightMargin" src="https://imgs.scripting.com/2025/10/08/reallySimpleBooks.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"></a>The same energy that force Biden off the ticket should get Schumer and Jeffries out of the top seats. Replace with people who can speak plainly about what's actually happening.]]>
+        <![CDATA[<a class="anchorRightMargin" href="http://scripting.com/2025/09/18/145808.html"><img class="imgRightMargin" src="https://imgs.scripting.com/2025/10/08/reallySimpleBooks.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"></a>The same energy that forced Biden off the ticket should get Schumer and Jeffries out of the top seats. Replace with people who can speak plainly about what's actually happening.]]>
       </description>
-      <source:markdown>[![](https://imgs.scripting.com/2025/10/08/reallySimpleBooks.png)](http://scripting.com/2025/09/18/145808.html) The same energy that force Biden off the ticket should get Schumer and Jeffries out of the top seats. Replace with people who can speak plainly about what&#39;s actually happening.</source:markdown>
+      <source:markdown>[![](https://imgs.scripting.com/2025/10/08/reallySimpleBooks.png)](http://scripting.com/2025/09/18/145808.html) The same energy that forced Biden off the ticket should get Schumer and Jeffries out of the top seats. Replace with people who can speak plainly about what&#39;s actually happening.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/08.html#a165842</guid>
     </item>    <item>
       <title>Coattails</title>
