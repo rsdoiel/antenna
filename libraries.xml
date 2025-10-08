@@ -4,7 +4,7 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>http://localhost:8000/librariesxml</link>
-    <lastBuildDate>08 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>08 Oct 25 13:51 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -507,6 +507,14 @@ The post [Guest Post – Taxonomy of Delegation: How GAIDeT Reframes AI Transpar
 The post [Day in Review (September 29–October 2)](https://www.arl.org/day-in-review/day-in-review-september-29-october-2/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=46147</guid>
     </item>    <item>
+      <title>Artificial Intelligence Safety: An Interview with Stanford Research Fellow Duncan Eddy</title>
+      <link>https://blogs.loc.gov/thesignal/2025/09/duncan-eddy-interview/</link>
+      <description>
+        <![CDATA[In this interview, Stanford Research Fellow Dr. Duncan Eddy reflects on his professional background, shifting his focus on artificial intelligence safety standards, and what he is currently working on. He offers insightful observations from his work in AI safety and advice for future professionals. Dr. Eddy shared his experiences with the Library&#8217;s Artificial Intelligence Community &#8230;]]>
+      </description>
+      <source:markdown>In this interview, Stanford Research Fellow Dr. Duncan Eddy reflects on his professional background, shifting his focus on artificial intelligence safety standards, and what he is currently working on. He offers insightful observations from his work in AI safety and advice for future professionals. Dr. Eddy shared his experiences with the Library’s Artificial Intelligence Community …</source:markdown>
+      <guid>cid://https://blogs.loc.gov/thesignal/?p=36133</guid>
+    </item>    <item>
       <title>The Octopus, by Frank Norris</title>
       <link>https://standardebooks.org/ebooks/frank-norris/the-octopus</link>
       <description>
@@ -583,6 +591,14 @@ The post [Guest Post – From Publications to Policy: How Research Is Driving Pr
       <source:markdown>A heavily indebted landowner and her family return to Russia in an attempt to save her estate from being auctioned off.</source:markdown>
       <enclosure url="https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett/downloads/anton-chekhov_the-cherry-orchard_constance-garnett.epub?source=feed" length="681818" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett</guid>
+    </item>    <item>
+      <title>Bound to Browsable: Unlocking the Historical Media Publications Collection</title>
+      <link>https://blogs.loc.gov/thesignal/2025/09/unlocking-historical-media-publications/</link>
+      <description>
+        <![CDATA[This post details the exciting transformation of the Historical Media Publications Collection, a challenging digital collection of historical media industry magazines spanning the late 19th to mid-20th century. Expanding online presentation from dense bound volumes into searchable, issue-level resources, this collaborative project improved discoverability and usability of this collection and set a foundation for working with other serialized content though innovative new workflows and next-generation content management.]]>
+      </description>
+      <source:markdown>This post details the exciting transformation of the Historical Media Publications Collection, a challenging digital collection of historical media industry magazines spanning the late 19th to mid-20th century. Expanding online presentation from dense bound volumes into searchable, issue-level resources, this collaborative project improved discoverability and usability of this collection and set a foundation for working with other serialized content though innovative new workflows and next-generation content management.</source:markdown>
+      <guid>cid://https://blogs.loc.gov/thesignal/?p=36095</guid>
     </item>    <item>
       <title>More Than a Major</title>
       <link>https://sr.ithaka.org/blog/more-than-a-major/</link>

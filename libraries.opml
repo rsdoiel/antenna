@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Library and Archives organizations</title>
-        <dateCreated>08 Oct 25 11:09 -0700</dateCreated>
+        <dateCreated>08 Oct 25 13:51 -0700</dateCreated>
     </head>
     <body>
         <outline text="Association of Research Libraries News" type="rss" xmlUrl="https://www.arl.org/feed/" htmlUrl="https://www.arl.org/,https://www.arl.org/feed/" url="https://www.arl.org/feed/"></outline>
@@ -16,6 +16,7 @@
         <outline text="Internet Archive Blog" type="rss" xmlUrl="https://blog.archive.org/feed/" htmlUrl="https://blog.archive.org,https://blog.archive.org/feed/" description="A blog from the team at archive.org" url="https://blog.archive.org/feed/"></outline>
         <outline text="Ithaka S+R" type="rss" xmlUrl="https://sr.ithaka.org/feed/" htmlUrl="https://sr.ithaka.org/,https://sr.ithaka.org/feed/" description="Ithaka S+R" url="https://sr.ithaka.org/feed/"></outline>
         <outline text="Jonny Saunders blog" type="rss" xmlUrl="https://jon-e.net/blog/feed.xml" htmlUrl="/bloghttps://jon-e.net,https://jon-e.net/blog/feed.xml" description="Things i gone and done" url="https://jon-e.net/blog/feed.xml"></outline>
+        <outline text="Library of Congress" type="rss" xmlUrl="https://blogs.loc.gov/thesignal/feed/" htmlUrl="https://blogs.loc.gov/thesignal,https://blogs.loc.gov/thesignal/feed/" description="Digital Happenings at the Library of Congress" url="https://blogs.loc.gov/thesignal/feed/"></outline>
         <outline text="Open Citation blog at Hypotheses.org" type="rss" xmlUrl="https://opencitations.hypotheses.org/feed" htmlUrl="https://opencitations.hypotheses.org,https://opencitations.hypotheses.org/feed" description="The blog of the OpenCitations Infrastructure" url="https://opencitations.hypotheses.org/feed"></outline>
         <outline text="Parachute blog" type="rss" category="knowledge discovery,repositories" xmlUrl="https://theparachute.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://theparachute.blogspot.com/" description="It only works when it is open —  ⓐ I claim no rights other than attribution"></outline>
         <outline text="ROR Research ID Blog" type="atom" xmlUrl="https://ror.org/feed.xml" htmlUrl="https://ror.org/feed.xml,https://ror.org/index.xml,https://ror.org/" description="The Research Organization Registry (ROR) is a global, community-led registry of open persistent identifiers for research organizations." url="https://ror.org/feed.xml"></outline>

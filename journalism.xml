@@ -4,10 +4,43 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>http://localhost:8000/journalismxml</link>
-    <lastBuildDate>08 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>08 Oct 25 13:51 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>La Receta de mi Abuela</title>
+      <link>https://sundial.csun.edu/198272/print-stories/la-receta-de-mi-abuela-2/</link>
+      <description>
+        <![CDATA[En este Mes de la Herencia Hispana, les preguntamos a unos periodistas que trabajan en el Daily Sundial que puedan compartir una receta de su familia, en esta ocasión le...]]>
+      </description>
+      <source:markdown>En este Mes de la Herencia Hispana, les preguntamos a unos periodistas que trabajan en el Daily Sundial que puedan compartir una receta de su familia, en esta ocasión le...</source:markdown>
+      <guid>cid://http://sundial.csun.edu/?p=198272</guid>
+    </item>    <item>
+      <title>Winner Takes All: Determining the fate, best track of Taylor Swift’s album ‘The Life of a Showgirl’</title>
+      <link>https://dailybruin.com/2025/10/08/winner-takes-all-determining-the-fate-best-track-of-taylor-swifts-album-the-life-of-a-showgirl/</link>
+      <description>
+        <![CDATA[Taylor Swift is putting on a new show.
+        &#8220;The Life of a Showgirl,&#8221; released Oct. 3, is the singer-songwriter&#8217;s 12th studio album. Although met with mixed reactions, from its lyricism to sampling and production, Swift&#8217;s ability to create an earworm is undeniable.]]>
+      </description>
+      <source:markdown>Taylor Swift is putting on a new show.
+“The Life of a Showgirl,” released Oct. 3, is the singer-songwriter’s 12th studio album. Although met with mixed reactions, from its lyricism to sampling and production, Swift’s ability to create an earworm is undeniable.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=494633</guid>
+    </item>    <item>
+      <title>Editorial Cartoon: “Off Days”</title>
+      <link>https://dailybruin.com/2025/10/08/editorial-cartoon-off-days/</link>
+      <description>
+        <![CDATA[&#160;]]>
+      </description>
+      <guid>cid://https://dailybruin.com/?p=494496</guid>
+    </item>    <item>
+      <title>People are using ChatGPT twice as much as they were last year. They’re still just as skeptical of AI in news.</title>
+      <link>https://www.niemanlab.org/2025/10/people-are-using-chatgpt-twice-as-much-as-they-were-last-year-theyre-still-just-as-skeptical-of-ai-in-news/</link>
+      <description>
+        <![CDATA[The generative AI wave isn’t coming — it’s already here, and it’s reshaping how the public finds information. In a new report, “Generative AI and News Report 2025: How People Think About AI’s Role in Journalism and Society,” my colleagues Richard Fletcher, Rasmus Kleis Nielsen, and I surveyed audiences across six countries, including the United States. Our...]]>
+      </description>
+      <source:markdown>The generative AI wave isn’t coming — it’s already here, and it’s reshaping how the public finds information. In a new report, “Generative AI and News Report 2025: How People Think About AI’s Role in Journalism and Society,” my colleagues Richard Fletcher, Rasmus Kleis Nielsen, and I surveyed audiences across six countries, including the United States. Our...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=243842</guid>
+    </item>    <item>
       <title>Scouting report: UCLA women’s volleyball vs. Minnesota</title>
       <link>https://dailybruin.com/2025/10/08/scouting-report-ucla-womens-volleyball-vs-minnesota/</link>
       <description>
@@ -413,9 +446,11 @@ The post [Local artists find support through Santa Clarita Artists Association](
       <title>Opinion: LA is more than just luxury, UCLA students should explore its rich history</title>
       <link>https://dailybruin.com/2025/10/07/opinion-la-is-more-than-just-luxury-ucla-students-should-explore-its-rich-history/</link>
       <description>
-        <![CDATA[With a population of over three million people, 472 square miles of city and 50.7 million tourists in 2019, Los Angeles is one of the most prominent urban centers in the United States.]]>
+        <![CDATA[<em>This post was updated Oct. 8 at 1:22 p.m.</em>
+        With a population of over three million people, 472 square miles of city and 50.7 million tourists in 2019, Los Angeles is one of the most prominent urban centers in the United States.]]>
       </description>
-      <source:markdown>With a population of over three million people, 472 square miles of city and 50.7 million tourists in 2019, Los Angeles is one of the most prominent urban centers in the United States.</source:markdown>
+      <source:markdown>_This post was updated Oct. 8 at 1:22 p.m._
+With a population of over three million people, 472 square miles of city and 50.7 million tourists in 2019, Los Angeles is one of the most prominent urban centers in the United States.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=494559</guid>
     </item>    <item>
       <title>¿Demasiado mexicana o no lo suficientemente mexicana?</title>

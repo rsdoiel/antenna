@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>http://localhost:8000/columnsxml</link>
-    <lastBuildDate>08 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>08 Oct 25 13:51 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,156 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2phsmohlc2j</link>
+      <description>
+        <![CDATA[Interesting article from the Library of Congress, https://blogs.loc.gov/thesignal/2024/11/could-artificial-intelligence-help-catalog-thousands-of-digital-library-books-an-interview-with-abigail-potter-and-caroline-saccucci/]]>
+      </description>
+      <source:markdown>Interesting article from the Library of Congress, https://blogs.loc.gov/thesignal/2024/11/could-artificial-intelligence-help-catalog-thousands-of-digital-library-books-an-interview-with-abigail-potter-and-caroline-saccucci/</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m2phsmohlc2j</guid>
+    </item>    <item>
+      <title>The Oatmeal&#38;#8217;s take on AI art. &#38;#8220;When I consume Al art, it...</title>
+      <link>https://kottke.org/25/10/0047680-the-oatmeals-take-on-ai</link>
+      <guid>cid://tag:kottke.org,2025://13.47680</guid>
+    </item>    <item>
+      <title>Irish novelist Naoise Dolan has been abducted by Israel.</title>
+      <link>https://lithub.com/irish-novelist-naoise-dolan-has-been-abducted-by-israel/</link>
+      <description>
+        <![CDATA[Naoise Dolan, one of Ireland&#8217;s most acclaimed young novelists, was earlier today abducted and detained by Israeli forces after the aid flotilla on which she was traveling to Gaza was intercepted by the IDF. In a video posted to her]]>
+      </description>
+      <source:markdown>Naoise Dolan, one of Ireland’s most acclaimed young novelists, was earlier today abducted and detained by Israeli forces after the aid flotilla on which she was traveling to Gaza was intercepted by the IDF. In a video posted to her</source:markdown>
+      <guid>cid://https://lithub.com/?p=260884</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/08.html#a200115</link>
+      <description>
+        <![CDATA[<a href="https://wordpress.feedland.org/">WordPress news</a> via FeedLand.]]>
+      </description>
+      <source:markdown>[WordPress news](https://wordpress.feedland.org/) via FeedLand.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/08.html#a200115</guid>
+    </item>    <item>
+      <title>Comey’s Charges Dismissed After Trump’s Handpicked Prosecutor Misspells his Name as “Homey”</title>
+      <link>https://www.borowitzreport.com/p/comeys-charges-dismissed-after-trumps</link>
+      <description>
+        <![CDATA[&#8220;Indictmenting is hard," Lindsey Halligan said.]]>
+      </description>
+      <source:markdown>“Indictmenting is hard,&#34; Lindsey Halligan said.</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/4d4a1693-db52-4417-8b0e-68c92ff0c383_847x999.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/comeys-charges-dismissed-after-trumps</guid>
+    </item>    <item>
+      <title>Customer Support Scams</title>
+      <link>https://mjtsai.com/blog/2025/10/08/customer-support-scams/</link>
+      <description>
+        <![CDATA[Daniel Jalkut: I&#8217;m seeing more of a scam directed at customer support addresses, where the scammer pretends to be a customer who is having trouble with the app, and asks you to look at a screenshot of the problem, which is a link to a page that coaxes you into running a nefarious program on [&#8230;]]]>
+      </description>
+      <source:markdown>Daniel Jalkut: I’m seeing more of a scam directed at customer support addresses, where the scammer pretends to be a customer who is having trouble with the app, and asks you to look at a screenshot of the problem, which is a link to a page that coaxes you into running a nefarious program on \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49576</guid>
+    </item>    <item>
+      <title>Evolving AltStore PAL</title>
+      <link>https://mjtsai.com/blog/2025/10/08/evolving-altstore-pal/</link>
+      <description>
+        <![CDATA[Riley Testut: In April of last year, we launched AltStore PAL in the European Union as one of the first official alternative app marketplaces on iOS thanks to the Digital Markets Act. We launched with just 2 apps &#8212; my Nintendo emulator Delta and clipboard manager Clip &#8212; yet Apple immediately changed their App Store [&#8230;]]]>
+      </description>
+      <source:markdown>Riley Testut: In April of last year, we launched AltStore PAL in the European Union as one of the first official alternative app marketplaces on iOS thanks to the Digital Markets Act. We launched with just 2 apps — my Nintendo emulator Delta and clipboard manager Clip — yet Apple immediately changed their App Store \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49574</guid>
+    </item>    <item>
+      <title>Lessons From San Bernardino and ICEBlock</title>
+      <link>https://mjtsai.com/blog/2025/10/08/lessons-from-san-bernardino-and-iceblock/</link>
+      <description>
+        <![CDATA[Wiley Hodges: I used to believe that Apple were unequivocally &#8216;the good guys.&#8217; I passionately advocated for people to understand Apple as being on the side of its users above all else. I now feel like I must question that. [&#8230;] The event that represented a turning point for that skeptical view of Apple was [&#8230;]]]>
+      </description>
+      <source:markdown>Wiley Hodges: I used to believe that Apple were unequivocally ‘the good guys.’ I passionately advocated for people to understand Apple as being on the side of its users above all else. I now feel like I must question that. \[…\] The event that represented a turning point for that skeptical view of Apple was \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49572</guid>
+    </item>    <item>
+      <link>https://www.npr.org/2025/10/08/nx-s1-5553390/macarthur-fellow-genius-grant-2025</link>
+      <description>
+        <![CDATA[<p>Here are the 2025 MacArthur fellows.</p>]]>
+      </description>
+      <source:markdown>Here are the 2025 MacArthur fellows.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/08/1439/</guid>
+    </item>    <item>
+      <title>Diaries of Note is here</title>
+      <link>https://news.lettersofnote.com/p/diaries-of-note-is-here</link>
+      <description>
+        <![CDATA[HOLD ME!]]>
+      </description>
+      <source:markdown>HOLD ME!</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!sGSp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a0d0941-bb9f-4270-aab0-31f1500c43b8_4000x4000.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://news.lettersofnote.com/p/diaries-of-note-is-here</guid>
+    </item>    <item>
+      <link>https://newscreatorcorps.org/2025/10/news-consumers-content-creators/</link>
+      <description>
+        <![CDATA[<p>Jay Rosen explains his new job, as I understand it, helping non-journalists who are providing news, to do news well.</p>]]>
+      </description>
+      <source:markdown>Jay Rosen explains his new job, as I understand it, helping non-journalists who are providing news, to do news well.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/08/1437/</guid>
+    </item>    <item>
+      <title>The Family of Migrants is a new book &#38; museum exhibition that...</title>
+      <link>https://kottke.org/25/10/0047679-the-family-of-migrants-is</link>
+      <guid>cid://tag:kottke.org,2025://13.47679</guid>
+    </item>    <item>
+      <title>Apple Banned an App That Simply Archived Videos of ICE Abuses</title>
+      <link>https://www.404media.co/apple-banned-an-app-that-simply-archived-videos-of-ice-abuses/</link>
+      <description>
+        <![CDATA[Eyes Up's purpose is to "preserve evidence until it can be used in court." But it has been swept up in Apple's crackdown on ICE-spotting apps.]]>
+      </description>
+      <source:markdown>Eyes Up&#39;s purpose is to &#34;preserve evidence until it can be used in court.&#34; But it has been swept up in Apple&#39;s crackdown on ICE-spotting apps.</source:markdown>
+      <guid>cid://68e6b4f68635ce000140eba0</guid>
+    </item>    <item>
+      <link>https://www.reuters.com/world/us/most-americans-dont-want-troops-deployed-without-an-external-threat-reutersipsos-2025-10-08/</link>
+      <description>
+        <![CDATA[<p>Most Americans don't want troops deployed without an external threat.</p>]]>
+      </description>
+      <source:markdown>Most Americans don&#39;t want troops deployed without an external threat.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/08/1435/</guid>
+    </item>    <item>
+      <title>October 7, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-7-2025-1a2</link>
+      <enclosure url="https://api.substack.com/feed/podcast/175649837/114dbb4eb2daa8905b5e9c550fcd4717.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-7-2025-1a2</guid>
+    </item>    <item>
+      <title>As they labor to fight off the slop bots, Wikipedia maintains a...</title>
+      <link>https://kottke.org/25/10/0047681-as-they-labor-to-fight</link>
+      <guid>cid://tag:kottke.org,2025://13.47681</guid>
+    </item>    <item>
+      <title>Python 3.14 Is Here. How Fast Is It?</title>
+      <link>https://simonwillison.net/2025/Oct/8/python-314-is-here-how-fast-is-it/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it">Python 3.14 Is Here. How Fast Is It?</a></strong></p>
+        Miguel Grinberg uses some basic benchmarks (like <code>fib(40)</code>) to test the new Python 3.14 on Linux and macOS and finds some substantial speedups over Python 3.13 - around 27% faster.</p>
+        <p>The optional JIT didn't make a meaningful difference to his benchmarks. On a threaded benchmark he got 3.09x speedup with 4 threads using the free threading build - for Python 3.13 the free threading build only provided a 2.2x improvement.
+        
+            <p><small></small>Via <a href="https://lobste.rs/s/p0iw9e/python_3_14_is_here_how_fast_is_it">lobste.rs</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/gil">gil</a>, <a href="https://simonwillison.net/tags/performance">performance</a>, <a href="https://simonwillison.net/tags/python">python</a></p>]]>
+      </description>
+      <source:markdown>**[Python 3.14 Is Here. How Fast Is It?](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it)**
+
+Miguel Grinberg uses some basic benchmarks (like `fib(40)`) to test the new Python 3.14 on Linux and macOS and finds some substantial speedups over Python 3.13 - around 27% faster.
+
+The optional JIT didn&#39;t make a meaningful difference to his benchmarks. On a threaded benchmark he got 3.09x speedup with 4 threads using the free threading build - for Python 3.13 the free threading build only provided a 2.2x improvement.
+
+
+
+Via [lobste.rs](https://lobste.rs/s/p0iw9e/python_3_14_is_here_how_fast_is_it)
+
+Tags: [gil](https://simonwillison.net/tags/gil), [performance](https://simonwillison.net/tags/performance), [python](https://simonwillison.net/tags/python)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/8/python-314-is-here-how-fast-is-it/#atom-everything</guid>
+    </item>    <item>
+      <title>Quoting Simon Højberg</title>
+      <link>https://simonwillison.net/2025/Oct/8/simon-hojberg/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="https://hojberg.xyz/the-programmer-identity-crisis/"><p>The cognitive debt of LLM-laden coding extends beyond disengagement of our craft. We’ve all heard the stories. Hyped up, vibed up, slop-jockeys with attention spans shorter than the framework-hopping JavaScript devs of the early 2010s, sling their sludge in pull requests and design docs, discouraging collaboration and disrupting teams. Code reviewing coworkers are rapidly losing their minds as they come to the crushing realization that they are now the first layer of quality control instead of one of the last. Asked to review; forced to pick apart. Calling out freshly added functions that are never called, hallucinated library additions, and obvious runtime or compilation errors. All while the author—who clearly only skimmed their “own” code—is taking no responsibility, going “whoopsie, Claude wrote that. Silly AI, ha-ha.”</p></blockquote>
+        <p class="cite">&mdash; <a href="https://hojberg.xyz/the-programmer-identity-crisis/">Simon Højberg</a>, The Programmer Identity Crisis</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/code-review">code-review</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a></p>]]>
+      </description>
+      <source:markdown>&#62; The cognitive debt of LLM-laden coding extends beyond disengagement of our craft. We’ve all heard the stories. Hyped up, vibed up, slop-jockeys with attention spans shorter than the framework-hopping JavaScript devs of the early 2010s, sling their sludge in pull requests and design docs, discouraging collaboration and disrupting teams. Code reviewing coworkers are rapidly losing their minds as they come to the crushing realization that they are now the first layer of quality control instead of one of the last. Asked to review; forced to pick apart. Calling out freshly added functions that are never called, hallucinated library additions, and obvious runtime or compilation errors. All while the author—who clearly only skimmed their “own” code—is taking no responsibility, going “whoopsie, Claude wrote that. Silly AI, ha-ha.”
+
+— [Simon Højberg](https://hojberg.xyz/the-programmer-identity-crisis/), The Programmer Identity Crisis
+
+Tags: [llms](https://simonwillison.net/tags/llms), [generative-ai](https://simonwillison.net/tags/generative-ai), [ai](https://simonwillison.net/tags/ai), [code-review](https://simonwillison.net/tags/code-review), [ai-ethics](https://simonwillison.net/tags/ai-ethics)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/8/simon-hojberg/#atom-everything</guid>
     </item>    <item>
       <link>https://www.theframelab.org/good-news-jd-vances-favorite-blogger-plans-escape-from-usa/?ref=lakoff-and-duran-framelab-newsletter</link>
       <description>
@@ -1513,7 +1663,7 @@ That flight we abandoned did finally take off …six hours late. By that time we
         <p>I've tried in the past to get terms like <strong><a href="https://simonwillison.net/tags/ai-assisted-programming/">AI-assisted programming</a></strong> to stick, with approximately zero success. May as well try rubbing some vibes on it and see what happens.</p>
         <p>I also really like the clear mismatch between "vibes" and "engineering". It makes the combined term self-contradictory in a way that I find mischievous and (hopefully) sticky.</p>
             
-                <p>Tags: <a href="https://simonwillison.net/tags/definitions">definitions</a>, <a href="https://simonwillison.net/tags/software-engineering">software-engineering</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a></p>]]>
+                <p>Tags: <a href="https://simonwillison.net/tags/code-review">code-review</a>, <a href="https://simonwillison.net/tags/definitions">definitions</a>, <a href="https://simonwillison.net/tags/software-engineering">software-engineering</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a></p>]]>
       </description>
       <source:markdown>I feel like **vibe coding** is [pretty well established now](https://simonwillison.net/2025/Mar/19/vibe-coding/) as covering the fast, loose and irresponsible way of building software with AI - entirely prompt-driven, and with no attention paid to how the code actually works. This leaves us with a terminology gap: what should we call the other end of the spectrum, where seasoned professionals accelerate their work with LLMs while staying proudly and confidently accountable for the software they produce?
 
@@ -1562,7 +1712,7 @@ I&#39;ve tried in the past to get terms like **[AI-assisted programming](https:/
 
 I also really like the clear mismatch between &#34;vibes&#34; and &#34;engineering&#34;. It makes the combined term self-contradictory in a way that I find mischievous and (hopefully) sticky.
 
-Tags: [definitions](https://simonwillison.net/tags/definitions), [software-engineering](https://simonwillison.net/tags/software-engineering), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [vibe-coding](https://simonwillison.net/tags/vibe-coding), [coding-agents](https://simonwillison.net/tags/coding-agents)</source:markdown>
+Tags: [code-review](https://simonwillison.net/tags/code-review), [definitions](https://simonwillison.net/tags/definitions), [software-engineering](https://simonwillison.net/tags/software-engineering), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [vibe-coding](https://simonwillison.net/tags/vibe-coding), [coding-agents](https://simonwillison.net/tags/coding-agents)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/7/vibe-engineering/#atom-everything</guid>
     </item>    <item>
       <title>Here are the 2025 National Book Awards finalists.</title>
@@ -5645,6 +5795,7 @@ Here&#39;s the unvarnished truth. Whatever the answer is it _can&#39;t_ come fro
         <![CDATA[In this episode, Ben Lorica and Anthropic interpretability researcher Emmanuel Ameisen get into the work Emmanuel’s team has been doing to better understand how LLMs like Claude work. Listen in to find out what they’ve uncovered by taking a microscopic look at how LLMs function—and just how far the analogy to the human brain holds. [&#8230;]]]>
       </description>
       <source:markdown>In this episode, Ben Lorica and Anthropic interpretability researcher Emmanuel Ameisen get into the work Emmanuel’s team has been doing to better understand how LLMs like Claude work. Listen in to find out what they’ve uncovered by taking a microscopic look at how LLMs function—and just how far the analogy to the human brain holds. \[…\]</source:markdown>
+      <enclosure url="https://cdn.oreillystatic.com/radar/generative-ai-real-world-podcast/GenAI_in_the_Real_World_with_Emmanuel_Ameisen.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.oreilly.com/radar/?post_type=podcast&#38;p=17488</guid>
     </item>    <item>
       <title>Red Hat Investigating Breach Impacting as Many as 28,000 Customers, Including the Navy and Congress</title>
@@ -17620,6 +17771,7 @@ https://www.yahoo.com/news/articles/let-clear-happened-jimmy-kimmel-025000655.ht
         <![CDATA[In this episode, Ben Lorica and AI engineer Faye Zhang talk about discoverability: how to use AI to build search and recommendation engines that actually find what you want. Listen in to learn how AI goes way beyond simple collaborative filtering—pulling in many different kinds of data and metadata, including images and voice, to get [&#8230;]]]>
       </description>
       <source:markdown>In this episode, Ben Lorica and AI engineer Faye Zhang talk about discoverability: how to use AI to build search and recommendation engines that actually find what you want. Listen in to learn how AI goes way beyond simple collaborative filtering—pulling in many different kinds of data and metadata, including images and voice, to get \[…\]</source:markdown>
+      <enclosure url="https://cdn.oreillystatic.com/radar/generative-ai-real-world-podcast/GenAI_in_the_Real_World_with_Faye_Zhang_updated.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.oreilly.com/radar/?post_type=podcast&#38;p=17467</guid>
     </item>    <item>
       <title>Senior Producer Kalila Holt on Leaving Spotify and Heavyweight&#39;s New Chapter at Pushkin Industries</title>

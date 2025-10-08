@@ -4,10 +4,62 @@
   <channel>
     <title>Planet News</title>
     <link>http://localhost:8000/planetxml</link>
-    <lastBuildDate>08 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>08 Oct 25 13:51 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Minister to raise Farrell death with Garda Commissioner</title>
+      <link>https://www.rte.ie/news/connacht/2025/1008/1537556-liam-farrell/</link>
+      <description>
+        <![CDATA[The family of Co Leitrim farmer Liam Farrell have said they feel his death in January 2020 is being taken more seriously following a meeting with Minister for Justice Jim O'Callaghan.]]>
+      </description>
+      <source:markdown>The family of Co Leitrim farmer Liam Farrell have said they feel his death in January 2020 is being taken more seriously following a meeting with Minister for Justice Jim O&#39;Callaghan.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/connacht/2025/1008/1537556-liam-farrell/</guid>
+    </item>    <item>
+      <title>Drugs worth €8.2m seized in two-day operation</title>
+      <link>https://www.rte.ie/news/ireland/2025/1008/1537555-gardai-drugs-seizure/</link>
+      <description>
+        <![CDATA[Gardaí have seized drugs worth around €8.2 million during an operation targeting organised crime.]]>
+      </description>
+      <source:markdown>Gardaí have seized drugs worth around €8.2 million during an operation targeting organised crime.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/1008/1537555-gardai-drugs-seizure/</guid>
+    </item>    <item>
+      <title>Joan Bennett Kennedy, wife of Ted Kennedy, dies at 89</title>
+      <link>https://www.rte.ie/news/us/2025/1008/1537552-joan-kennedy/</link>
+      <description>
+        <![CDATA[Joan Bennett Kennedy, the first wife of a US senator, the mother of a congressman and the sister-in-law of a slain president, has died at the age of 89, US Health Secretary Robert F Kennedy Jr has said.]]>
+      </description>
+      <source:markdown>Joan Bennett Kennedy, the first wife of a US senator, the mother of a congressman and the sister-in-law of a slain president, has died at the age of 89, US Health Secretary Robert F Kennedy Jr has said.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/us/2025/1008/1537552-joan-kennedy/</guid>
+    </item>    <item>
+      <title>Man arrested over deadly Palisades Fire in California</title>
+      <link>https://www.rte.ie/news/us/2025/1008/1537545-arrest-fire-los-angeles/</link>
+      <description>
+        <![CDATA[A man has been arrested on charges that he intentionally started the devastating Pacific Palisades Fire in Los Angeles that killed 12 people and destroyed neighbourhoods earlier this year, the US Justice Department has said.]]>
+      </description>
+      <source:markdown>A man has been arrested on charges that he intentionally started the devastating Pacific Palisades Fire in Los Angeles that killed 12 people and destroyed neighbourhoods earlier this year, the US Justice Department has said.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/us/2025/1008/1537545-arrest-fire-los-angeles/</guid>
+    </item>    <item>
+      <title>What does Gavin withdrawal mean for your ballot paper?</title>
+      <link>https://www.rte.ie/news/2025/1008/1537540-gavin-presidential-election-ballot/</link>
+      <description>
+        <![CDATA[As Jim Gavin has withdrawn from campaigning, what does that mean for your ballot paper and your vote?]]>
+      </description>
+      <source:markdown>As Jim Gavin has withdrawn from campaigning, what does that mean for your ballot paper and your vote?</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1008/1537540-gavin-presidential-election-ballot/</guid>
+    </item>    <item>
+      <title>Pope Leo greets Hispanic ministry leaders from the USA</title>
+      <link>https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-greets-hispanic-ministry-leaders-from-the-usa.html</link>
+      <description>
+        <![CDATA[<p>Pope Leo XIV met on Tuesday evening in the Vatican with more than a hundred leaders of Hispanic ministry from the United States. He encouraged them to be witnesses of God's love and to accompany especially the poor and migrants. He reminded them that "God never abandons anyone" and thanked them for their pastoral service, calling it a sign of hope and faith in a world wounded by violence and hatred.</p>
+                            <p><a href="https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-greets-hispanic-ministry-leaders-from-the-usa.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>Pope Leo XIV met on Tuesday evening in the Vatican with more than a hundred leaders of Hispanic ministry from the United States. He encouraged them to be witnesses of God&#39;s love and to accompany especially the poor and migrants. He reminded them that &#34;God never abandons anyone&#34; and thanked them for their pastoral service, calling it a sign of hope and faith in a world wounded by violence and hatred.
+
+[Read all](https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-greets-hispanic-ministry-leaders-from-the-usa.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-greets-hispanic-ministry-leaders-from-the-usa.html</guid>
+    </item>    <item>
       <title>Podcast: Is Trump&#39;s Peace Plan the only way for Gaza?</title>
       <link>https://www.rte.ie/news/2025/1008/1537528-podcast-is-trumps-peace-plan-the-only-way-for-gaza/</link>
       <description>
@@ -65,6 +117,16 @@
 [Read all](https://www.vaticannews.va/en/pope/news/2025-10/pope-walking-together-is-style-of-life-and-mission-of-church.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/pope/news/2025-10/pope-walking-together-is-style-of-life-and-mission-of-church.html</guid>
     </item>    <item>
+      <title>Trump threatens to invoke Insurrection Act. Here&#39;s why it&#39;s a controversial move</title>
+      <link>https://www.cbc.ca/news/world/us-trump-insurrection-act-threat-9.6931273?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/20eb9c27-ec6d-4f95-8b37-41668cff14b3,1759946273495/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C567%2C5500%2C3093%29%3BResize%3D%28620%29' alt='A cleanshaven older man in a suit and tie gestures while speaking in front of a giant American flag.' width='620' height='349' title='U.S. President Donald Trump gestures after speaking during a meeting of senior military leaders convened by U.S. Defense Secretary Pete Hegseth, at Marine Corps Base Quantico in Quantico, Virginia, U.S., September 30, 2025. REUTERS/Kevin Lamarque     TPX IMAGES OF THE DAY'/><p>U.S. President Donald Trump has threatened to invoke the Insurrection Act, which has not been utilized by a U.S. president in more than three decades. Here's a look at why that possibility concerns local officials and some legal analysts.</p>]]>
+      </description>
+      <source:markdown>![A cleanshaven older man in a suit and tie gestures while speaking in front of a giant American flag.](https://i.cbc.ca/ais/20eb9c27-ec6d-4f95-8b37-41668cff14b3,1759946273495/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C567%2C5500%2C3093%29%3BResize%3D%28620%29)
+
+U.S. President Donald Trump has threatened to invoke the Insurrection Act, which has not been utilized by a U.S. president in more than three decades. Here&#39;s a look at why that possibility concerns local officials and some legal analysts.</source:markdown>
+      <guid>cid://9.6931273</guid>
+    </item>    <item>
       <title>Trial begins of man accused of flying in €8m of cocaine</title>
       <link>https://www.rte.ie/news/2025/1008/1537510-luczak-courts/</link>
       <description>
@@ -72,6 +134,16 @@
       </description>
       <source:markdown>The trial of a man alleged to have been the pilot of an aircraft used to fly over €8 million worth of cocaine into the midlands three ago has begun.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1008/1537510-luczak-courts/</guid>
+    </item>    <item>
+      <title>Mistissini unveils memorial for residential school survivors and lost children</title>
+      <link>https://www.cbc.ca/news/canada/north/mistissini-residential-school-survivors-memorial-9.6931700?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/ae12f57c-10a0-4c73-b292-a39e7c8941c1,1759949321471/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C78%2C1500%2C843%29%3BResize%3D%28620%29' alt='Mistissini residential school survivors to unveil memorial plaque' width='620' height='349' title='Mistissini residential school survivors, community members and children gather to unveil a memorial plaque on the National Day for Truth and Reconciliation in Mistissini.'/><p>Residents of Mistissini took part in a commemorative walk from Voyageur Memorial Elementary School to the shores of Mistissini Lake, where children were once flown out to residential schools, wearing orange in recognition of survivors and those who never came back.</p>]]>
+      </description>
+      <source:markdown>![Mistissini residential school survivors to unveil memorial plaque](https://i.cbc.ca/ais/ae12f57c-10a0-4c73-b292-a39e7c8941c1,1759949321471/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C78%2C1500%2C843%29%3BResize%3D%28620%29)
+
+Residents of Mistissini took part in a commemorative walk from Voyageur Memorial Elementary School to the shores of Mistissini Lake, where children were once flown out to residential schools, wearing orange in recognition of survivors and those who never came back.</source:markdown>
+      <guid>cid://9.6931700</guid>
     </item>    <item>
       <title>Soldier so scared &#39;knees were trembling&#39; on Bloody Sunday</title>
       <link>https://www.rte.ie/news/ireland/2025/1008/1537496-soldier-f-trial/</link>
@@ -81,6 +153,16 @@
       <source:markdown>One of the soldiers present in Derry on Bloody Sunday said he was so terrified at being &#34;under fire&#34; that his &#34;knees were trembling&#34;, the trial of one of his colleagues for two murders has heard.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1008/1537496-soldier-f-trial/</guid>
     </item>    <item>
+      <title>Algonquin First Nations urge appeal court to expand duty to consult in Chalk River case</title>
+      <link>https://www.cbc.ca/news/indigenous/kebaowek-chalk-river-appeal-court-9.6931673?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/66b47950-9e16-4d12-956a-adafcecab8c5,1759945513945/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C220%2C4032%2C2268%29%3BResize%3D%28620%29' alt='People pose for a photo holding colourful flags and signs outside a glassy court building.' width='620' height='349' title='Kebaowek Chief Lance Haymond, centre, is flanked by supporters outside the Federal Court building in downtown Ottawa. Also present from right to left are Bloc Québécois MP Sébastien Lemire, Kebaowek councillor Justin Roy and Algonquin elder Claudette Commanda.'/><p>It's shaping to be a big case with far-reaching implications for industry and project proponents under federal jurisdiction as Kebaowek First Nation faces off against Canada’s premier nuclear organization at the Federal Court of Appeal in Ottawa.</p>]]>
+      </description>
+      <source:markdown>![People pose for a photo holding colourful flags and signs outside a glassy court building.](https://i.cbc.ca/ais/66b47950-9e16-4d12-956a-adafcecab8c5,1759945513945/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C220%2C4032%2C2268%29%3BResize%3D%28620%29)
+
+It&#39;s shaping to be a big case with far-reaching implications for industry and project proponents under federal jurisdiction as Kebaowek First Nation faces off against Canada’s premier nuclear organization at the Federal Court of Appeal in Ottawa.</source:markdown>
+      <guid>cid://9.6931673</guid>
+    </item>    <item>
       <title>Spain&#39;s fines over cabin bag fees breach regulations - EU</title>
       <link>https://www.rte.ie/news/business/2025/1008/1537491-spains-fines-over-cabin-bag-fees-breach-regulations/</link>
       <description>
@@ -89,7 +171,7 @@
       <source:markdown>The European Commission has said that fines imposed by Spain on Ryanair and other budget airlines for charging extra fees on cabin bags breached regulations.</source:markdown>
       <guid>cid://https://www.rte.ie/news/business/2025/1008/1537491-spains-fines-over-cabin-bag-fees-breach-regulations/</guid>
     </item>    <item>
-      <title>Authorities say they&#39;ve arrested man who set deadly wildfire that levelled L.A. neighbourhood</title>
+      <title>Suspect in deadly wildfire that levelled L.A. neighbourhood fled, then returned to watch fire: prosecutors</title>
       <link>https://www.cbc.ca/news/world/arrest-january-la-wildfire-9.6931791?cmp=rss</link>
       <description>
         <![CDATA[<img src='https://i.cbc.ca/ais/196070f1-5374-43a0-a353-d0a4f4e1f2b1,1759942249564/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C104%2C5280%2C2970%29%3BResize%3D%28620%29' alt='A neighbourhood by the ocean razed by a fire is seen from above.' width='620' height='349' title='The devastation from the Palisades Fire is shown in an aerial view in the Pacific Palisades neighbourhood of Los Angeles, in late January.'/><p>Authorities in California charged a 29-year-old man with starting a fire that days later erupted into the most destructive blaze in Los Angeles history and destroyed much of the Pacific Palisades neighbourhood, U.S. federal law enforcement officials announced Wednesday.</p>]]>
@@ -99,14 +181,14 @@
 Authorities in California charged a 29-year-old man with starting a fire that days later erupted into the most destructive blaze in Los Angeles history and destroyed much of the Pacific Palisades neighbourhood, U.S. federal law enforcement officials announced Wednesday.</source:markdown>
       <guid>cid://9.6931791</guid>
     </item>    <item>
-      <title>UK synagogue attacker claimed allegiance to Islamic State group: police</title>
+      <title>U.K. synagogue attacker claimed allegiance to ISIS: police</title>
       <link>https://www.cbc.ca/news/world/uk-synagogue-attacker-police-islamic-state-9.6931796?cmp=rss</link>
       <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/ba32e039-8220-47fc-8479-d4358dedebdf,1759941825510/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C285%2C5461%2C3071%29%3BResize%3D%28620%29' alt='Police officers stand next to a person in a white hazmat suit.' width='620' height='349' title='A forensic technician and police officers work at the scene after a man drove a car into pedestrians and stabbed a security guard in an attack at a synagogue where worshippers were marking Yom Kippur, the holiest day on the Jewish calendar, according to the British police, in north Manchester, Britain, October 2, 2025. REUTERS/Phil Noble'/><p>The man whose attack on a synagogue in northern England last week resulted in the deaths of two Jewish worshippers phoned police to say he was acting for Islamic State, investigators said on Wednesday.  </p>]]>
+        <![CDATA[<img src='https://i.cbc.ca/ais/ba32e039-8220-47fc-8479-d4358dedebdf,1759941825510/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C285%2C5461%2C3071%29%3BResize%3D%28620%29' alt='Police officers stand next to a person in a white hazmat suit.' width='620' height='349' title='A forensic technician and police officers work at the scene after a man drove a car into pedestrians and stabbed a security guard in an attack at a synagogue where worshippers were marking Yom Kippur, the holiest day on the Jewish calendar, according to the British police, in north Manchester, Britain, October 2, 2025. REUTERS/Phil Noble'/><p>The man whose attack on a synagogue in northern England last week resulted in the deaths of two Jewish worshippers phoned police to say he was acting for Islamic State, also known as ISIS, investigators said on Wednesday.</p>]]>
       </description>
       <source:markdown>![Police officers stand next to a person in a white hazmat suit.](https://i.cbc.ca/ais/ba32e039-8220-47fc-8479-d4358dedebdf,1759941825510/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C285%2C5461%2C3071%29%3BResize%3D%28620%29)
 
-The man whose attack on a synagogue in northern England last week resulted in the deaths of two Jewish worshippers phoned police to say he was acting for Islamic State, investigators said on Wednesday.</source:markdown>
+The man whose attack on a synagogue in northern England last week resulted in the deaths of two Jewish worshippers phoned police to say he was acting for Islamic State, also known as ISIS, investigators said on Wednesday.</source:markdown>
       <guid>cid://9.6931796</guid>
     </item>    <item>
       <title>Hospitality VAT cut aims to &#39;inject viability&#39; - Burke</title>
@@ -132,6 +214,16 @@ The man whose attack on a synagogue in northern England last week resulted in 
       </description>
       <source:markdown>The mother of missing toddler Madeleine McCann was left distressed after being confronted on her driveway by two women accused of stalking her, including a Polish national who has falsely claimed to be Madeleine, a court heard.</source:markdown>
       <guid>cid://https://www.rte.ie/news/uk/2025/1008/1537478-karen-spragg-julia-wandelt-uk-court/</guid>
+    </item>    <item>
+      <title>Man rescued from tree as north Vietnam sees powerful floods</title>
+      <link>https://www.cbc.ca/player/play/9.6931714?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/de18c3f4-0fe5-47df-902b-f492e497e6f9,1759939953089/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C32%2C1551%2C872%29%3BResize%3D%28620%29' alt='Man clinging to tree rescued from floodwaters' width='620' height='349' title=''/><p>Footage released by Cao Bang Public Security in Vietnam shows rescue crews ferrying a man to safety after strong storms triggered by a typhoon led to swollen rivers and flooded streets.</p>]]>
+      </description>
+      <source:markdown>![Man clinging to tree rescued from floodwaters](https://i.cbc.ca/ais/de18c3f4-0fe5-47df-902b-f492e497e6f9,1759939953089/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C32%2C1551%2C872%29%3BResize%3D%28620%29)
+
+Footage released by Cao Bang Public Security in Vietnam shows rescue crews ferrying a man to safety after strong storms triggered by a typhoon led to swollen rivers and flooded streets.</source:markdown>
+      <guid>cid://9.6931714</guid>
     </item>    <item>
       <title>South African president welcomed to Áras an Uachtaráin</title>
       <link>https://www.rte.ie/news/2025/1008/1537472-ireland-south-africa/</link>
@@ -159,6 +251,33 @@ The man whose attack on a synagogue in northern England last week resulted in 
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/08-10-2025-MONUSCO-Olukemi-Ibikunle-01.jpg/image560x340cropped.jpg" length="43556" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/10/1166055</guid>
     </item>    <item>
+      <title>Haiti: ‘Unprecedented’ number of children on the run</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166059</link>
+      <description>
+        <![CDATA[The number of children displaced by violence in Haiti has almost doubled in the past year, with 680,000 now uprooted from their homes, a new UN Children’s Fund (UNICEF) Child Alert&nbsp;report found.]]>
+      </description>
+      <source:markdown>The number of children displaced by violence in Haiti has almost doubled in the past year, with 680,000 now uprooted from their homes, a new UN Children’s Fund (UNICEF) Child Alert report found.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/07-10-2025-UNICEF-Haiti-04.jpg/image560x340cropped.jpg" length="27527" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166059</guid>
+    </item>    <item>
+      <title>Ministers from Europe and beyond commit to address housing emergency</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166058</link>
+      <description>
+        <![CDATA[Across Europe and beyond, housing costs are rising faster than incomes and many families are spending up to half their salary just to have a place to call home.]]>
+      </description>
+      <source:markdown>Across Europe and beyond, housing costs are rising faster than incomes and many families are spending up to half their salary just to have a place to call home.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/08-10-2025-Unsplash-Sweden.jpg/image560x340cropped.jpg" length="32743" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166058</guid>
+    </item>    <item>
+      <title>WHO says rebuilding Gaza’s shattered health system critical to a lasting peace</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166057</link>
+      <description>
+        <![CDATA[As indirect talks in Egypt seeking to end Gaza’s two-year war continue, the UN World Health Organization (WHO) says rebuilding the devastated health system is critical to securing lasting peace and stability.]]>
+      </description>
+      <source:markdown>As indirect talks in Egypt seeking to end Gaza’s two-year war continue, the UN World Health Organization (WHO) says rebuilding the devastated health system is critical to securing lasting peace and stability.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/05-02-2025-WHO-Gaza-11.jpg/image560x340cropped.jpg" length="30806" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166057</guid>
+    </item>    <item>
       <title>Gender Recognition Certificate applications fell in 2024</title>
       <link>https://www.rte.ie/news/ireland/2025/1008/1537470-gender-recognition/</link>
       <description>
@@ -174,6 +293,16 @@ The man whose attack on a synagogue in northern England last week resulted in 
       </description>
       <source:markdown>Louis Theroux, the acclaimed documentary maker and journalist, will host an IFTA masterclass this evening in Dublin city centre.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1008/1537468-louis-theroux/</guid>
+    </item>    <item>
+      <title>Former FBI director James Comey pleads not guilty to federal charges</title>
+      <link>https://www.cbc.ca/news/world/us-virginia-comey-fbi-arraignment-9.6931260?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/18f22204-d4c9-42c9-9ab2-6c38244b05e0,1759932852051/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6000%2C3375%29%3BResize%3D%28620%29' alt='A cleanshaven dark haired man in suit and tie is seated and raising his hand while speaking in an indoor setting.' width='620' height='349' title='NEW YORK, NEW YORK - MAY 19: Author James Comey, former FBI Director, speaks at the Barnes &amp; Noble Upper West Side on May 19, 2025 in New York City. Comey sat with Esposito to discuss his career and new book &quot;FDR DRIVE,&quot; the third of a series of fictional crime novels featuring attorney Nora Carleton. (Photo by Michael M. Santiago/Getty Images)'/><p>Former FBI director James Comey on Wednesday pleaded not guilty to charges of making false statements and obstructing a congressional investigation.</p>]]>
+      </description>
+      <source:markdown>![A cleanshaven dark haired man in suit and tie is seated and raising his hand while speaking in an indoor setting.](https://i.cbc.ca/ais/18f22204-d4c9-42c9-9ab2-6c38244b05e0,1759932852051/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6000%2C3375%29%3BResize%3D%28620%29)
+
+Former FBI director James Comey on Wednesday pleaded not guilty to charges of making false statements and obstructing a congressional investigation.</source:markdown>
+      <guid>cid://9.6931260</guid>
     </item>    <item>
       <title>Dublin Marathon makes full move to ballot entry system</title>
       <link>https://www.rte.ie/sport/athletics/2025/1008/1537458-dublin-marathon-makes-full-move-to-ballot-entry-system/</link>
@@ -267,7 +396,7 @@ The man whose attack on a synagogue in northern England last week resulted in 
 [Read all](https://www.vaticannews.va/en/church/news/2025-10/sisters-project-148-canossian-daughters-charity-tanzania-fmg.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/church/news/2025-10/sisters-project-148-canossian-daughters-charity-tanzania-fmg.html</guid>
     </item>    <item>
-      <title>6 Canadians among scores of activists detained by Israeli military on Gaza flotilla</title>
+      <title>6 Canadians among activists detained by Israeli military on Gaza flotilla</title>
       <link>https://www.cbc.ca/news/world/flotilla-gaza-israel-activists-canadians-9.6931358?cmp=rss</link>
       <description>
         <![CDATA[<img src='https://i.cbc.ca/ais/d365c4c1-9399-46a5-829c-9c4defacb476,1759927698302/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2986%2C1679%29%3BResize%3D%28620%29' alt='A man reaches up toward a pole on a boat.' width='620' height='349' title='This image obtained from live stream footage from Gaza Sunbird vessel, one of the nine boats taking part in the Freedom Flotilla Coalition &amp; Thousand Madleens to Gaza, shows an Israeli soldier trying to reach the camera onboard Gaza Sunbird vessel, in Eastern Mediterranean sea, on Wednesday, Oct. 8, 2025. (Freedom Flotilla Coalition via AP)'/><p>The Israeli military intercepted a nine-boat flotilla trying to break Israel's naval blockade of Gaza early Wednesday in the Mediterranean Sea and detained scores of activists on board, the flotilla organizers and the Israeli Foreign Ministry said. 
@@ -314,12 +443,12 @@ The Israeli military intercepted a nine-boat flotilla trying to break Israel&#39
 [Read all](https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-the-resurrection-transforms-every-aspect-of-our-lives.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-the-resurrection-transforms-every-aspect-of-our-lives.html</guid>
     </item>    <item>
-      <title>Changes in Budget to help people, Helen McEntee says</title>
+      <title>As it happened: Opposition attack Govt over Budget 2026</title>
       <link>https://www.rte.ie/news/2025/1008/1537392-politics-blog/</link>
       <description>
-        <![CDATA[Follow all today's reaction and political developments after Ministers Paschal Donohoe and Jack Chambers unveiled Budget 2026 in the Dáil.]]>
+        <![CDATA[Reaction and political developments after Ministers Paschal Donohoe and Jack Chambers unveiled Budget 2026 in the Dáil.]]>
       </description>
-      <source:markdown>Follow all today&#39;s reaction and political developments after Ministers Paschal Donohoe and Jack Chambers unveiled Budget 2026 in the Dáil.</source:markdown>
+      <source:markdown>Reaction and political developments after Ministers Paschal Donohoe and Jack Chambers unveiled Budget 2026 in the Dáil.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1008/1537392-politics-blog/</guid>
     </item>    <item>
       <title>TD among five held after Gaza flotilla intercepted</title>
@@ -346,12 +475,12 @@ The Israeli military intercepted a nine-boat flotilla trying to break Israel&#39
       <source:markdown>It had been well-flagged that there would be no significant income tax cuts in this budget but that has not lessened the level of criticism from the opposition, from workers and from their representatives.</source:markdown>
       <guid>cid://https://www.rte.ie/news/budget-2026/2025/1008/1537389-lack-of-tax-cuts-to-hit-workers-in-the-pocket/</guid>
     </item>    <item>
-      <title>FF to meet as Martin says Ahern run would be &#39;bruising&#39;</title>
+      <title>Martin apologises to FF colleagues for election debacle</title>
       <link>https://www.rte.ie/news/2025/1008/1537386-fianna-fail-politics/</link>
       <description>
-        <![CDATA[Taoiseach Micheál Martin has said if Bertie Ahern had been chosen as Fianna Fáil's presidential candidate it would have been "bruising" for him, ahead of a parliamentary party meeting this evening to consider Jim Gavin's exit from the race and the processes by which he became the party's candidate]]>
+        <![CDATA[Taoiseach and Fianna Fáil leader Micheál Martin has apologised to his party colleagues for the Presidential Election debacle at a parliamentary party meeting, saying he is devastated at what had happened.]]>
       </description>
-      <source:markdown>Taoiseach Micheál Martin has said if Bertie Ahern had been chosen as Fianna Fáil&#39;s presidential candidate it would have been &#34;bruising&#34; for him, ahead of a parliamentary party meeting this evening to consider Jim Gavin&#39;s exit from the race and the processes by which he became the party&#39;s candidate</source:markdown>
+      <source:markdown>Taoiseach and Fianna Fáil leader Micheál Martin has apologised to his party colleagues for the Presidential Election debacle at a parliamentary party meeting, saying he is devastated at what had happened.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1008/1537386-fianna-fail-politics/</guid>
     </item>    <item>
       <title>Scientists based in Australia, Japan and U.S. awarded Nobel Prize in Chemistry</title>
@@ -373,12 +502,12 @@ Scientists Susumu Kitagawa, Richard Robson and Omar Yaghi won the 2025 Nobel Pri
       <source:markdown>Former FBI director James Comey has pleaded not guilty to criminal charges in a case widely seen as an escalation of US President Donald Trump&#39;s campaign of legal retribution against political opponents.</source:markdown>
       <guid>cid://https://www.rte.ie/news/us/2025/1008/1537384-james-comey-us/</guid>
     </item>    <item>
-      <title>Dolly Parton&#39;s sister asks fans to pray for singer</title>
+      <title>Dolly Parton tells fans in video: &#39;I ain&#39;t dead yet!&#39;</title>
       <link>https://www.rte.ie/entertainment/2025/1008/1537380-dolly-partons-sister-asks-fans-to-pray-for-singer/</link>
       <description>
-        <![CDATA[Dolly Parton's sister says she has been "up all night praying" as the singer continues to deal with unspecified health problems.]]>
+        <![CDATA[Dolly Parton has taken to social media to reassure her fans after fears grew about the country legend's health in recent days.]]>
       </description>
-      <source:markdown>Dolly Parton&#39;s sister says she has been &#34;up all night praying&#34; as the singer continues to deal with unspecified health problems.</source:markdown>
+      <source:markdown>Dolly Parton has taken to social media to reassure her fans after fears grew about the country legend&#39;s health in recent days.</source:markdown>
       <guid>cid://https://www.rte.ie/entertainment/2025/1008/1537380-dolly-partons-sister-asks-fans-to-pray-for-singer/</guid>
     </item>    <item>
       <title>Fuel costs up as some Budget measures come into effect</title>
@@ -409,12 +538,12 @@ Scientists Susumu Kitagawa, Richard Robson and Omar Yaghi won the 2025 Nobel Pri
       <source:markdown>This Budget has a lot of significant measures aimed at addressing the housing crisis, writes David Murphy</source:markdown>
       <guid>cid://https://www.rte.ie/news/analysis-and-comment/2025/1008/1537349-budget-2026-analysis/</guid>
     </item>    <item>
-      <title>Prisoner, detainees and hostage lists exchanged - Hamas</title>
+      <title>Trump says may go to Middle East as peace deal &#39;close&#39;</title>
       <link>https://www.rte.ie/news/middle-east/2025/1008/1537371-middle-east-gaza/</link>
       <description>
-        <![CDATA[A senior Hamas official said that negotiators from his group and Israel have exchanged lists of prisoners, detainees and hostages who would be released should a deal be reached during ongoing ceasefire talks in Egypt.]]>
+        <![CDATA[US President Donald Trump has said that he may go to the Middle East at the end of this week as a peace deal between Israel and Hamas in Gaza is "very close".]]>
       </description>
-      <source:markdown>A senior Hamas official said that negotiators from his group and Israel have exchanged lists of prisoners, detainees and hostages who would be released should a deal be reached during ongoing ceasefire talks in Egypt.</source:markdown>
+      <source:markdown>US President Donald Trump has said that he may go to the Middle East at the end of this week as a peace deal between Israel and Hamas in Gaza is &#34;very close&#34;.</source:markdown>
       <guid>cid://https://www.rte.ie/news/middle-east/2025/1008/1537371-middle-east-gaza/</guid>
     </item>    <item>
       <title>Mount Everest hikers rescued after severe snowstorm</title>

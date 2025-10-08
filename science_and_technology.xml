@@ -4,10 +4,36 @@
   <channel>
     <title>Science and Technology</title>
     <link>http://localhost:8000/science_and_technologyxml</link>
-    <lastBuildDate>08 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>08 Oct 25 13:51 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>This New Exhibition Explores the Lives of Ancient Egyptian Makers</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-new-exhibition-explores-the-lives-of-ancient-egyptian-makers-180987477/</link>
+      <description>
+        <![CDATA[These talented craftspeople specialized in ceramics, sculpture, jewelry, stonemasonry, coffin decorating and other art forms]]>
+      </description>
+      <source:markdown>These talented craftspeople specialized in ceramics, sculpture, jewelry, stonemasonry, coffin decorating and other art forms</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/uTmDqkSiPMzEUXlwu4d4ghDMghQ=/420x240/filters:focal(512x290:513x291)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3e/2d/3e2d2ac6-8de8-4dc2-bb79-07a292d6a5ca/921e6710-9ec4-11f0-92db-77261a15b9d2jpg.webp" length="" type="" />
+    </item>    <item>
+      <title>Cisco’s new router unites disparate datacenters into AI training behemoths</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/08/cisco_multi_datacenter/</link>
+      <description>
+        <![CDATA[<h4>With enough routers, Switchzilla says it can link bit barns 1,000 km apart and scale fabrics beyond 3 exabits per second</h4> <p>Cisco has unveiled a new routing ASIC designed to help bit barn operators overcome power and capacity constraints by stitching together their existing datacenters into a single unified compute cluster.…</p>]]>
+      </description>
+      <source:markdown>#### With enough routers, Switchzilla says it can link bit barns 1,000 km apart and scale fabrics beyond 3 exabits per second
+
+Cisco has unveiled a new routing ASIC designed to help bit barn operators overcome power and capacity constraints by stitching together their existing datacenters into a single unified compute cluster.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242376</guid>
+    </item>    <item>
+      <title>Architects of a New Kind of Molecular Structure Win Nobel Prize in Chemistry</title>
+      <link>https://www.smithsonianmag.com/smart-news/architects-of-new-kind-of-molecular-structure-win-nobel-prize-in-chemistry-180987481/</link>
+      <description>
+        <![CDATA[Metal-organic frameworks can store huge amounts of gas in a tiny space—enabling advances that could help humans fight climate change and tackle other challenges]]>
+      </description>
+      <source:markdown>Metal-organic frameworks can store huge amounts of gas in a tiny space—enabling advances that could help humans fight climate change and tackle other challenges</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/DqtvT4-RgUCuEGDPyATV_szAHJs=/420x240/filters:focal(3655x2471:3656x2472)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b0/48/b048bc19-cfc4-4a48-b4c2-23a9fc29e032/gettyimages-2239395580.jpg" length="" type="" />
+    </item>    <item>
       <title>Mars’ powerful whirlwinds blow dust everywhere, could affect future missions</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/08/mars_whirlwinds_dust/</link>
       <description>

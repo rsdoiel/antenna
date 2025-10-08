@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>http://localhost:8000/retro_computingxml</link>
-    <lastBuildDate>08 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>08 Oct 25 13:51 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2025/10/08 - Crappy fake uSD card, Paracetamol.</title>
+      <link>https://heyrick.eu/blog/entry/20251008</link>
+      <description>
+        <![CDATA[Crappy fake uSD card, Paracetamol.]]>
+      </description>
+      <source:markdown>Crappy fake uSD card, Paracetamol.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20251008</guid>
+    </item>    <item>
       <title>Cairo Dock 3.6 Now Available for More Compositors</title>
       <link>http://www.linux-magazine.com/Online/News/Cairo-Dock-3.6-Now-Available-for-More-Compositors</link>
       <description>

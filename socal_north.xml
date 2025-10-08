@@ -4,10 +4,50 @@
   <channel>
     <title>socal_north.md</title>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>08 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>08 Oct 25 13:51 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Heads up, LA County: Taxes are due Wednesday, Oct. 15</title>
+      <link>https://laist.com/news/la-county-taxes-due-oct-15-deadline</link>
+      <description>
+        <![CDATA[L.A. County’s tax deadline was moved from April to October this year because of the January fires.]]>
+      </description>
+      <source:markdown>L.A. County’s tax deadline was moved from April to October this year because of the January fires.</source:markdown>
+      <guid>cid://urn:uuid:00000199-c526-dc80-a5fb-ed7edaf80000</guid>
+    </item>    <item>
+      <title>Padlet removes ‘People over Papers,’ a mapping tool tracking ICE raids</title>
+      <link>https://laist.com/news/politics/padlet-removes-people-over-papers-a-mapping-tool-tracking-ice-raids</link>
+      <description>
+        <![CDATA[The crowdsourced site was taken down without warning, days after political figures called for its removal. Its creators quickly launched a replacement.]]>
+      </description>
+      <source:markdown>The crowdsourced site was taken down without warning, days after political figures called for its removal. Its creators quickly launched a replacement.</source:markdown>
+      <guid>cid://urn:uuid:00000199-c4e0-dc80-a5fb-edf892d20000</guid>
+    </item>    <item>
+      <title>Another hospital in Southern California will close its maternity ward. Here&#39;s where things stand</title>
+      <link>https://laist.com/news/health/inland-empire-hospital-in-closing-maternity-ward</link>
+      <description>
+        <![CDATA[The closure at Corona Regional Medical Center is the latest in a string of accelerated closures across the state.]]>
+      </description>
+      <source:markdown>The closure at Corona Regional Medical Center is the latest in a string of accelerated closures across the state.</source:markdown>
+      <guid>cid://urn:uuid:00000199-c4fa-dc80-a5fb-edfa4acf0000</guid>
+    </item>    <item>
+      <title>Newsom signs bill to prevent sex abuse in schools</title>
+      <link>https://laist.com/news/education/newsom-signs-bill-to-prevent-sex-abuse-in-schools</link>
+      <description>
+        <![CDATA[The law requires a database intended to stop teachers facing credible accusations of abuse from quitting and getting rehired at another school.]]>
+      </description>
+      <source:markdown>The law requires a database intended to stop teachers facing credible accusations of abuse from quitting and getting rehired at another school.</source:markdown>
+      <guid>cid://urn:uuid:00000199-c4cd-d8ee-a79d-cddf383f0000</guid>
+    </item>    <item>
+      <title>‘Wonder and curiosity’ fuel a new LA-made magazine for kids</title>
+      <link>https://laist.com/news/education/los-angeles-kids-magazine-bobbety</link>
+      <description>
+        <![CDATA[In a world where even toddlers are increasingly on screens, local graphic designer Meeta Panesar has created a print magazine that invites readers to explore the world and their own creativity.]]>
+      </description>
+      <source:markdown>In a world where even toddlers are increasingly on screens, local graphic designer Meeta Panesar has created a print magazine that invites readers to explore the world and their own creativity.</source:markdown>
+      <guid>cid://urn:uuid:00000199-bb83-dc80-a5fb-bfdb2f500000</guid>
+    </item>    <item>
       <title>Oil refinery closures leave workers searching for a job that ‘just doesn’t exist’</title>
       <link>https://laist.com/news/oil-refinery-closures-leave-workers-searching-for-jobs</link>
       <description>
@@ -40,7 +80,7 @@
       <source:markdown>Remnants from Hurricane Priscilla could bring showers and thunderstorms to the region Thursday.</source:markdown>
       <guid>cid://urn:uuid:00000199-c088-dc80-a5fb-edd815760000</guid>
     </item>    <item>
-      <title>When the next fire hits, you may be on your own. These are the issues that plague LA County’s emergency response</title>
+      <title>When the next fire hits, you may be on your own. The issues plaguing LA County’s emergency response</title>
       <link>https://laist.com/news/climate-environment/la-county-emergency-response-after-action-reports-woolsey-palisades-eaton</link>
       <description>
         <![CDATA[All disasters are chaotic, but an LAist review of reports produced after two wildfire incidents found similar shortcomings and similar recommendations about how to fix them.]]>
@@ -295,6 +335,18 @@
       </description>
       <source:markdown>Clair has been a fixture at the corner of San Vicente and 26th Street for about seven years until she was stolen.</source:markdown>
       <guid>cid://urn:uuid:00000199-bb62-de43-afbd-bffaeb250000</guid>
+    </item>    <item>
+      <title>Santa Ynez Chumash Tribe marks 60th year of Intertribal Powwow</title>
+      <link>https://santamariatimes.com/news/local/santa-ynez-chumash-tribe-marks-60th-year-of-intertribal-powwow/article_d43c1a45-8479-47ef-bca1-287cc1809bba.html</link>
+      <description>
+        <![CDATA[Downtown Santa Ynez came alive with vibrant displays of song, dance and 
+        drumming as the Santa Ynez Band of Chumash Indians hosted its annual 
+        Intertribal Powwow, celebrating six decades of cultural tradition.]]>
+      </description>
+      <source:markdown>Downtown Santa Ynez came alive with vibrant displays of song, dance and
+drumming as the Santa Ynez Band of Chumash Indians hosted its annual
+Intertribal Powwow, celebrating six decades of cultural tradition.</source:markdown>
+      <guid>cid://5ce1c6e64abe9e0001603b00:5ce1fd41a265cb000118d783:68e6c996bff01f5de65facc0</guid>
     </item>    <item>
       <title>Frustrated by relentless copper wire thefts and darkened streets, LA leaders urge Newsom to strengthen penalties</title>
       <link>https://laist.com/news/transportation/copper-wire-theft-legislation-los-angeles-california-recylcers</link>
