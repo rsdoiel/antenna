@@ -4,10 +4,26 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>http://localhost:8000/foodxml</link>
-    <lastBuildDate>09 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>09 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Bake Club Is Back With a Showstopping Dessert</title>
+      <link>https://www.bonappetit.com/story/bake-club-is-back-with-a-showstopping-dessert</link>
+      <description>
+        <![CDATA[We’re here with BA Bake Club’s September recipe: Jesse’s impressive Banana Pudding Paris-Brest.]]>
+      </description>
+      <source:markdown>We’re here with BA Bake Club’s September recipe: Jesse’s impressive Banana Pudding Paris-Brest.</source:markdown>
+      <guid>cid://68e56dc819b8627d09d919f9</guid>
+    </item>    <item>
+      <title>The Best Postpartum Meal Delivery Services for Nourishing Recovery</title>
+      <link>https://www.bonappetit.com/story/best-post-partum-meal-delivery-services</link>
+      <description>
+        <![CDATA[These subscriptions support your health while you care for your newborn.]]>
+      </description>
+      <source:markdown>These subscriptions support your health while you care for your newborn.</source:markdown>
+      <guid>cid://68cb825b49371dd431f9e1b3</guid>
+    </item>    <item>
       <title>Hawaii Woman Accused of Selling Millions of Dollars of Fake Kona</title>
       <link>https://dailycoffeenews.com/2025/10/09/hawaii-woman-accused-of-selling-millions-of-dollars-of-fake-kona/</link>
       <description>

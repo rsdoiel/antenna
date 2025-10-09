@@ -4,10 +4,54 @@
   <channel>
     <title>Planet News</title>
     <link>http://localhost:8000/planetxml</link>
-    <lastBuildDate>09 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>09 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>NY Attorney General Letitia James indicted for bank fraud</title>
+      <link>https://www.rte.ie/news/us/2025/1009/1537795-letitia-james-indicted/</link>
+      <description>
+        <![CDATA[New York Attorney General Letitia James, a longtime foe of US President Donald Trump, has been indicted for bank fraud, the US Justice Department has said]]>
+      </description>
+      <source:markdown>New York Attorney General Letitia James, a longtime foe of US President Donald Trump, has been indicted for bank fraud, the US Justice Department has said</source:markdown>
+      <guid>cid://https://www.rte.ie/news/us/2025/1009/1537795-letitia-james-indicted/</guid>
+    </item>    <item>
+      <title>Gaza family kept apart by war &#39;dream of safe life&#39;</title>
+      <link>https://www.rte.ie/news/middle-east/2025/1009/1537786-gaza-family/</link>
+      <description>
+        <![CDATA[When Manal Rizq called her brother Waleed in Gaza this afternoon, there was music playing in the background.]]>
+      </description>
+      <source:markdown>When Manal Rizq called her brother Waleed in Gaza this afternoon, there was music playing in the background.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/middle-east/2025/1009/1537786-gaza-family/</guid>
+    </item>    <item>
+      <title>Dilexi te: Commitment to poor is prerequisite, not consequence, of faith</title>
+      <link>https://www.vaticannews.va/en/church/news/2025-10/dilexi-te-commitment-poor-prerequisite-faith-frederic-le-mehaute.html</link>
+      <description>
+        <![CDATA[<p>Frédéric-Marie le Méhauté OFM speaks to Vatican News about Pope Leo’s new apostolic exhortation on love for the poor.</p>
+                            <p><a href="https://www.vaticannews.va/en/church/news/2025-10/dilexi-te-commitment-poor-prerequisite-faith-frederic-le-mehaute.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>Frédéric-Marie le Méhauté OFM speaks to Vatican News about Pope Leo’s new apostolic exhortation on love for the poor.
+
+[Read all](https://www.vaticannews.va/en/church/news/2025-10/dilexi-te-commitment-poor-prerequisite-faith-frederic-le-mehaute.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/church/news/2025-10/dilexi-te-commitment-poor-prerequisite-faith-frederic-le-mehaute.html</guid>
+    </item>    <item>
+      <title>Pope Leo publishes first teaching document as pontiff</title>
+      <link>https://www.rte.ie/news/world/2025/1009/1537771-pope-leo-teaching-document/</link>
+      <description>
+        <![CDATA[Pope Leo has published his first teaching document, which focuses on the poor.]]>
+      </description>
+      <source:markdown>Pope Leo has published his first teaching document, which focuses on the poor.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2025/1009/1537771-pope-leo-teaching-document/</guid>
+    </item>    <item>
+      <title>Ambassadors repeat calls for solidarity with Ukraine</title>
+      <link>https://www.rte.ie/news/ukraine/2025/1009/1537769-ukraine-ambassadors/</link>
+      <description>
+        <![CDATA[Eastern European diplomats have warned that continued solidarity is needed across Europe as Russian aggression continues in Ukraine.]]>
+      </description>
+      <source:markdown>Eastern European diplomats have warned that continued solidarity is needed across Europe as Russian aggression continues in Ukraine.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ukraine/2025/1009/1537769-ukraine-ambassadors/</guid>
+    </item>    <item>
       <title>5 key takeaways from first head-to-head debate</title>
       <link>https://www.rte.ie/news/presidential-election/2025/1009/1537767-presidential-debate-analysis/</link>
       <description>
@@ -19,11 +63,11 @@
       <title>Pope Leo visits Dicastery for Promoting Integral Human Development</title>
       <link>https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-xiv-visit-dicastery-promoting-integral-human-developmen.html</link>
       <description>
-        <![CDATA[<p>Pope Leo XIV pays a visit to the headquarters of the Dicastery for Promoting Integral Human Development, and blesses a scultpure called "The Tree of Human Dignity."</p>
+        <![CDATA[<p>Pope Leo XIV pays a visit to the headquarters of the Dicastery for Promoting Integral Human Development, and blesses a sculpture called "The Tree of Human Dignity."</p>
                             <p><a href="https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-xiv-visit-dicastery-promoting-integral-human-developmen.html">Read all</a></p>
                             <p>&nbsp;</p>]]>
       </description>
-      <source:markdown>Pope Leo XIV pays a visit to the headquarters of the Dicastery for Promoting Integral Human Development, and blesses a scultpure called &#34;The Tree of Human Dignity.&#34;
+      <source:markdown>Pope Leo XIV pays a visit to the headquarters of the Dicastery for Promoting Integral Human Development, and blesses a sculpture called &#34;The Tree of Human Dignity.&#34;
 
 [Read all](https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-xiv-visit-dicastery-promoting-integral-human-developmen.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-xiv-visit-dicastery-promoting-integral-human-developmen.html</guid>
@@ -76,6 +120,14 @@
       <source:markdown>Former BBC Radio 1 DJ Tim Westwood has been charged with rape and sexual assault.</source:markdown>
       <guid>cid://https://www.rte.ie/news/uk/2025/1009/1537742-tim-westwood-court/</guid>
     </item>    <item>
+      <title>Stripe opens its new Dublin headquarters</title>
+      <link>https://www.rte.ie/news/business/2025/1009/1537731-stripe-opens-its-new-dublin-headquarters/</link>
+      <description>
+        <![CDATA[Financial technology company Stripe has opened a new Dublin headquarters, tripling its office space to 14,500 square metres.]]>
+      </description>
+      <source:markdown>Financial technology company Stripe has opened a new Dublin headquarters, tripling its office space to 14,500 square metres.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/business/2025/1009/1537731-stripe-opens-its-new-dublin-headquarters/</guid>
+    </item>    <item>
       <title>News from the Orient - October 9, 2025</title>
       <link>https://www.vaticannews.va/en/church/news/2025-10/news-from-the-orient-october-9-2025.html</link>
       <description>
@@ -95,6 +147,16 @@
       </description>
       <source:markdown>RTÉ has announced that presenter Ray D&#39;Arcy is to leave RTÉ Radio 1, having presented his final show on air yesterday.</source:markdown>
       <guid>cid://https://www.rte.ie/entertainment/2025/1009/1537729-ray-darcy-to-leave-rte-after-11-years/</guid>
+    </item>    <item>
+      <title>Trump wants to be 5th U.S. president to win the Nobel Peace Prize. There are obstacles</title>
+      <link>https://www.cbc.ca/news/world/trump-nobel-peace-prize-prospects-9.6932861?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/b6800414-da26-41c8-8ce1-8b7eb5094ca9,1760031193244/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C816%2C7862%2C4422%29%3BResize%3D%28620%29' alt='A cleanshaven blondehaired man is seen in profile with a backdrop that says &apos;Pursuing Peace&apos;' width='620' height='349' title='FILE - President Donald Trump departs following a joint press conference with Russia&apos;s President Vladimir Putin at Joint Base Elmendorf-Richardson, Alaska, Friday, Aug. 15, 2025. (AP Photo/Jae C. Hong, File)'/><p>Donald Trump has made no secret of his desire to a win a Nobel Peace Prize to burnish his already significant legacy as a U.S. president, and a lasting peace that ends the war in Gaza could be a consideration for the committee that determines the prize winner.</p>]]>
+      </description>
+      <source:markdown>![A cleanshaven blondehaired man is seen in profile with a backdrop that says &#39;Pursuing Peace&#39;](https://i.cbc.ca/ais/b6800414-da26-41c8-8ce1-8b7eb5094ca9,1760031193244/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C816%2C7862%2C4422%29%3BResize%3D%28620%29)
+
+Donald Trump has made no secret of his desire to a win a Nobel Peace Prize to burnish his already significant legacy as a U.S. president, and a lasting peace that ends the war in Gaza could be a consideration for the committee that determines the prize winner.</source:markdown>
+      <guid>cid://9.6932861</guid>
     </item>    <item>
       <title>Seven men go on trial for rape of deaf relative</title>
       <link>https://www.rte.ie/news/courts/2025/1009/1537718-abuse-trial/</link>
@@ -210,8 +272,26 @@ U.S. federal auto safety regulators have opened yet another investigation into T
         <![CDATA[As people celebrated across Gaza and Israel at the news of an agreement that could hasten the end of the two-year war, UN aid teams on Thursday insisted that they were ready to deliver humanitarian relief supplies into the shattered enclave at scale. We'll be covering all news developments across the UN system throughout the day. UN News&nbsp;app users can follow live coverage here.]]>
       </description>
       <source:markdown>As people celebrated across Gaza and Israel at the news of an agreement that could hasten the end of the two-year war, UN aid teams on Thursday insisted that they were ready to deliver humanitarian relief supplies into the shattered enclave at scale. We&#39;ll be covering all news developments across the UN system throughout the day. UN News app users can follow live coverage here.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/20-01-2025_UNRWA_Gaza-01.jpg/image560x340cropped.jpg" length="39443" type="image/jpeg" />
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/09-10-2025-UN-Gaza-02.jpg/image560x340cropped.jpg" length="39142" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/10/1166065</guid>
+    </item>    <item>
+      <title>World News in Brief: Deadly attacks in Ukraine, Zaporizhzhya nuclear plant update, first humanitarian flight for Syrians in Libya</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166069</link>
+      <description>
+        <![CDATA[More civilians have been killed and injured in Ukraine over the past three days with most casualties recorded in the Kherson, Sumy, Donetsk and Kharkiv regions, UN Spokesperson Stéphane Dujarric told journalists in New York on Thursday.&nbsp;]]>
+      </description>
+      <source:markdown>More civilians have been killed and injured in Ukraine over the past three days with most casualties recorded in the Kherson, Sumy, Donetsk and Kharkiv regions, UN Spokesperson Stéphane Dujarric told journalists in New York on Thursday.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/05-10-2023-UNOCHA-Ukraine-01.jpg/image560x340cropped.jpg" length="31388" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166069</guid>
+    </item>    <item>
+      <title>Sudan: El Fasher mosque and hospital attacks leave at least 20 dead</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166068</link>
+      <description>
+        <![CDATA[At least 20 civilians were reportedly killed this week in attacks targeting a mosque and a hospital in El Fasher, the besieged capital of North Darfur state in Sudan.&nbsp;]]>
+      </description>
+      <source:markdown>At least 20 civilians were reportedly killed this week in attacks targeting a mosque and a hospital in El Fasher, the besieged capital of North Darfur state in Sudan.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/15-09-2025-UNICEF-Sudan.jpg/image560x340cropped.jpg" length="44814" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166068</guid>
     </item>    <item>
       <title>Violent crime down in Dublin city centre, gardaí says</title>
       <link>https://www.rte.ie/news/2025/1009/1537674-dublin-arrests/</link>
@@ -233,7 +313,7 @@ U.S. federal auto safety regulators have opened yet another investigation into T
 [Read all](https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-message-usa-charities-catholic.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-message-usa-charities-catholic.html</guid>
     </item>    <item>
-      <title>Candidates debate policy, campaigns and party pieces</title>
+      <title>As it happened: First head-to-head debate of campaign</title>
       <link>https://www.rte.ie/news/presidential-election/2025/1009/1537661-presidential-campaign/</link>
       <description>
         <![CDATA[Follow developments in the presidential campaign as Fine Gael candidate Heather Humphreys and Independent candidate Catherine Connolly continue their canvassing ahead of a radio debate this afternoon.]]>
@@ -361,12 +441,12 @@ U.S. federal auto safety regulators have opened yet another investigation into T
       <source:markdown>After two years of war and numerous false dawns on the prospect of a ceasefire, last night marked a major breakthrough as Israel and Hamas finally signed off on the first phase of a Gaza peace plan.</source:markdown>
       <guid>cid://https://www.rte.ie/news/analysis-and-comment/2025/1009/1537625-analysis-middle-east/</guid>
     </item>    <item>
-      <title>Connolly says Fine Gael scared of her campaign momentum</title>
+      <title>Candidates clash during debate over &#39;scurrilous&#39; claim</title>
       <link>https://www.rte.ie/news/presidential-election/2025/1009/1537612-presidential-election/</link>
       <description>
-        <![CDATA[The Independent presidential candidate Catherine Connolly has accused Fine Gael of being scared of the momentum behind her campaign.]]>
+        <![CDATA[Catherine Connolly has accused her only rival for the presidency of making a "scurrilous" accusation that she had "insulted" allies.]]>
       </description>
-      <source:markdown>The Independent presidential candidate Catherine Connolly has accused Fine Gael of being scared of the momentum behind her campaign.</source:markdown>
+      <source:markdown>Catherine Connolly has accused her only rival for the presidency of making a &#34;scurrilous&#34; accusation that she had &#34;insulted&#34; allies.</source:markdown>
       <guid>cid://https://www.rte.ie/news/presidential-election/2025/1009/1537612-presidential-election/</guid>
     </item>    <item>
       <title>Knights of Columbus: Strengthening faith and brotherhood under Pope Leo</title>
@@ -381,23 +461,22 @@ U.S. federal auto safety regulators have opened yet another investigation into T
 [Read all](https://www.vaticannews.va/en/church/news/2025-10/knights-columbus-pope-leo-patrick-kelly-faith-fraternity.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/church/news/2025-10/knights-columbus-pope-leo-patrick-kelly-faith-fraternity.html</guid>
     </item>    <item>
-      <title>Shelter-in-place advisory in Ginoogaming First Nation into 2nd day amid search for armed suspects</title>
+      <title>Shelter-in-place advisory in Ginoogaming First Nation lifted after 2 being sought located</title>
       <link>https://www.cbc.ca/news/canada/thunder-bay/ginoogaming-armed-search-9.6932799?cmp=rss</link>
       <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/1e18382d-cfa2-4d4e-93c1-fc788e291820,1760010749861/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C842%2C473%29%3BResize%3D%28620%29' alt='A sign next to a road welcomes people to Ginoogaming First Nation' width='620' height='349' title='Ginoogaming First Nation in northwestern Ontario has been under a shelter in place advisory since early Wednesday morning.'/><p>People in Ginoogaming First Nation continue to shelter in place Thursday morning as a search for two armed individuals surpasses 24 hours, with an Ontario Provincial Police update urging the public to remain vigilant. 
-        </p>]]>
+        <![CDATA[<img src='https://i.cbc.ca/ais/1e18382d-cfa2-4d4e-93c1-fc788e291820,1760010749861/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C842%2C473%29%3BResize%3D%28620%29' alt='A sign next to a road welcomes people to Ginoogaming First Nation' width='620' height='349' title='Ginoogaming First Nation in northwestern Ontario has been under a shelter in place advisory since early Wednesday morning.'/><p>A shelter-in-place advisory for Ginoogaming First Nation has been lifted. Police issued the advisory on Wednesday as they searched for two individuals said to be armed and dangerous. One person has been found deceased and another injured, but police have not yet provided further details.</p>]]>
       </description>
       <source:markdown>![A sign next to a road welcomes people to Ginoogaming First Nation](https://i.cbc.ca/ais/1e18382d-cfa2-4d4e-93c1-fc788e291820,1760010749861/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C842%2C473%29%3BResize%3D%28620%29)
 
-People in Ginoogaming First Nation continue to shelter in place Thursday morning as a search for two armed individuals surpasses 24 hours, with an Ontario Provincial Police update urging the public to remain vigilant.</source:markdown>
+A shelter-in-place advisory for Ginoogaming First Nation has been lifted. Police issued the advisory on Wednesday as they searched for two individuals said to be armed and dangerous. One person has been found deceased and another injured, but police have not yet provided further details.</source:markdown>
       <guid>cid://9.6932799</guid>
     </item>    <item>
-      <title>Zelensky says Russia aims to sow &#39;chaos&#39; with strikes</title>
+      <title>US might impose more sanctions on Russia, Trump says</title>
       <link>https://www.rte.ie/news/world/2025/1009/1537604-zelensky-russia-ukraine/</link>
       <description>
-        <![CDATA[President Volodymyr Zelensky accused Russia of wanting to sow "chaos" in Ukraine by launching strikes on his country's energy grid and railway infrastructure, in comments published today.]]>
+        <![CDATA[US President Donald Trump said his administration "might" impose more sanctions on Russia.]]>
       </description>
-      <source:markdown>President Volodymyr Zelensky accused Russia of wanting to sow &#34;chaos&#34; in Ukraine by launching strikes on his country&#39;s energy grid and railway infrastructure, in comments published today.</source:markdown>
+      <source:markdown>US President Donald Trump said his administration &#34;might&#34; impose more sanctions on Russia.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2025/1009/1537604-zelensky-russia-ukraine/</guid>
     </item>    <item>
       <title>Chambers &#39;regrets&#39; manner of Gavin&#39;s election withdrawal</title>
@@ -440,7 +519,7 @@ People in Ginoogaming First Nation continue to shelter in place Thursday morning
       <source:markdown>US President Donald Trump announced last night that Israel and Hamas have agreed to the first phase of a ceasefire in Gaza, after days of indirect talks in Egypt - here&#39;s what we know so far.</source:markdown>
       <guid>cid://https://www.rte.ie/news/middle-east/2025/1009/1537586-gaza-deal-explainer/</guid>
     </item>    <item>
-      <title>Gaza deal will be in effect after ratification - Israel</title>
+      <title>Nobody will be forced to leave Gaza - Trump</title>
       <link>https://www.rte.ie/news/middle-east/2025/1009/1537585-middle-east-blog/</link>
       <description>
         <![CDATA[The office of Israeli Prime Minister Benjamin Netanyahu said that an agreement to secure the release of hostages in Gaza will take effect only after receiving cabinet approval.]]>
@@ -1153,6 +1232,16 @@ Scientists Susumu Kitagawa, Richard Robson and Omar Yaghi won the 2025 Nobel Pri
       </description>
       <source:markdown>This Budget has a lot of significant measures aimed at addressing the housing crisis, writes David Murphy</source:markdown>
       <guid>cid://https://www.rte.ie/news/analysis-and-comment/2025/1008/1537349-budget-2026-analysis/</guid>
+    </item>    <item>
+      <title>Atikamekw council launches legal action against Quebec for failing to fix &#39;road from hell&#39;</title>
+      <link>https://www.cbc.ca/news/canada/montreal/atikamekw-council-legal-action-quebec-road-1.7653708?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/2c4efe2b-d03d-49cc-9789-15d16ed41200,1759923530707/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C90%2C960%2C540%29%3BResize%3D%28620%29' alt='A dirt road covered in pot holes' width='620' height='349' title='Residents describe the Manawan road as narrow, winding and riddled with potholes. A photo from 2019 shows the road conditions on one stretch.'/><p>The Atikamekw council of Manawan initiated legal action against Quebec’s Transport Ministry for failing to carry out the necessary repairs on the one road that connects the community to the rest of the province.</p>]]>
+      </description>
+      <source:markdown>![A dirt road covered in pot holes](https://i.cbc.ca/ais/2c4efe2b-d03d-49cc-9789-15d16ed41200,1759923530707/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C90%2C960%2C540%29%3BResize%3D%28620%29)
+
+The Atikamekw council of Manawan initiated legal action against Quebec’s Transport Ministry for failing to carry out the necessary repairs on the one road that connects the community to the rest of the province.</source:markdown>
+      <guid>cid://1.7653708</guid>
     </item>    <item>
       <title>Trump says may go to Middle East as peace deal &#39;close&#39;</title>
       <link>https://www.rte.ie/news/middle-east/2025/1008/1537371-middle-east-gaza/</link>

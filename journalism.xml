@@ -4,10 +4,18 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>http://localhost:8000/journalismxml</link>
-    <lastBuildDate>09 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>09 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Iconic Halloween songs to haunt your playlist</title>
+      <link>https://sundial.csun.edu/198377/arts-entertainment/iconic-halloween-songs-to-haunt-your-playlist/</link>
+      <description>
+        <![CDATA[Every Halloween needs a soundtrack. From eerie movie themes to catchy monster jams, the right songs can turn an ordinary night into something spooky, fun and unforgettable. Whether you’re dancing...]]>
+      </description>
+      <source:markdown>Every Halloween needs a soundtrack. From eerie movie themes to catchy monster jams, the right songs can turn an ordinary night into something spooky, fun and unforgettable. Whether you’re dancing...</source:markdown>
+      <guid>cid://http://sundial.csun.edu/?p=198377</guid>
+    </item>    <item>
       <title>Re:Public is reporting stories about the lands that belong to all of us</title>
       <link>https://www.niemanlab.org/2025/10/republic-is-reporting-stories-about-the-lands-that-belong-to-all-of-us/</link>
       <description>
@@ -111,7 +119,7 @@ The 2025 graduates of UCLA’s School of Theater, Film and Television are finish
       <link>https://dailybruin.com/2025/10/08/winner-takes-all-determining-the-fate-best-track-of-taylor-swifts-album-the-life-of-a-showgirl/</link>
       <description>
         <![CDATA[Taylor Swift is putting on a new show.
-        &#8220;The Life of a Showgirl,&#8221; released Oct. 3, is the singer-songwriter&#8217;s 12th studio album. Although met with mixed reactions, from its lyricism to sampling and production, Swift&#8217;s ability to create an earworm is undeniable.]]>
+        “The Life of a Showgirl,” released Oct. 3, is the singer-songwriter’s 12th studio album. Although met with mixed reactions, from its lyricism to sampling and production, Swift’s ability to create an earworm is undeniable.]]>
       </description>
       <source:markdown>Taylor Swift is putting on a new show.
 “The Life of a Showgirl,” released Oct. 3, is the singer-songwriter’s 12th studio album. Although met with mixed reactions, from its lyricism to sampling and production, Swift’s ability to create an earworm is undeniable.</source:markdown>
