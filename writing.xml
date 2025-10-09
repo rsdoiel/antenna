@@ -4,7 +4,7 @@
   <channel>
     <title>Writing</title>
     <link>http://localhost:8000/writingxml</link>
-    <lastBuildDate>08 Oct 25 15:11 -0700</lastBuildDate>
+    <lastBuildDate>09 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -123,10 +123,6 @@ The post [Short Films and Existential Threats](https://johnaugust.com/2025/short
       </description>
       <source:markdown>This is guest post by Amanda Wakaruk, Jane Secker, and Chris Morrison. Readers of this blog will know that authors are both users and creators of copyright-protected works. How confident are authors about their rights related to copyright? Is the fear of navigating copyright preventing non-infringing ‘user’ activities in higher education? What can we do to mitigate the damage to teaching and research caused by copyright anxiety and chill?</source:markdown>
       <guid>cid://https://www.authorsalliance.org/?p=12175</guid>
-    </item>    <item>
-      <title>BookTok and Beyond: How Young Readers Are Reviving Physical Bookstores</title>
-      <link>https://www.literatureandlatte.com/blog/booktok-and-beyond-how-young-readers-are-reviving-physical-bookstores</link>
-      <guid>cid://https://www.literatureandlatte.com/?p=7932</guid>
     </item>
   </channel>
 </rss>

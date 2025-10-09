@@ -4,10 +4,21 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>http://localhost:8000/librariesxml</link>
-    <lastBuildDate>08 Oct 25 15:11 -0700</lastBuildDate>
+    <lastBuildDate>09 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Guest Post — The Economics of AI in Academic Research</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/10/09/guest-post-the-economics-of-ai-in-academic-research/</link>
+      <description>
+        <![CDATA[<p>In the fast-moving world of AI research tools, there are many community-focused concerns that vendors should have strong opinions on and plans for, from privacy and security to sustainability and copyright. But the most misunderstood issue, in my view, is the one at the heart of it all — how AI will reshape the economics of academic research.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/10/09/guest-post-the-economics-of-ai-in-academic-research/">Guest Post — The Economics of AI in Academic Research</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>In the fast-moving world of AI research tools, there are many community-focused concerns that vendors should have strong opinions on and plans for, from privacy and security to sustainability and copyright. But the most misunderstood issue, in my view, is the one at the heart of it all — how AI will reshape the economics of academic research.
+
+The post [Guest Post — The Economics of AI in Academic Research](https://scholarlykitchen.sspnet.org/2025/10/09/guest-post-the-economics-of-ai-in-academic-research/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61080</guid>
+    </item>    <item>
       <title>Guest Post — Rethinking Disciplinary Data Regimes</title>
       <link>https://scholarlykitchen.sspnet.org/2025/10/08/guest-post-rethinking-disciplinary-data-regimes/</link>
       <description>
@@ -898,121 +909,6 @@ The post [Launching the Rural-Serving Institution Student Success Network](https
 
 The post [Peer Review in Transition: Helen King and Christopher Leonard on AI and the Future of Peer Review](https://scholarlykitchen.sspnet.org/2025/09/18/peer-review-in-transition-helen-king-and-christopher-leonard-on-ai-and-the-future-of-peer-review/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=60982</guid>
-    </item>    <item>
-      <title>Tackling Textbook Affordability</title>
-      <link>https://sr.ithaka.org/blog/tackling-textbook-affordability/</link>
-      <description>
-        <![CDATA[<p>Earlier this month, Empire State University announced that, with funding from ECMC Foundation and in collaboration with Ithaka S+R, Buffalo State University, and SUNY Fredonia, it is undertaking a new project to analyze, pilot, and evaluate affordable course material models. Ithaka S+R is excited to be part of this important work and continue our research [&#8230;]</p>
-        <p>The post <a href="https://sr.ithaka.org/blog/tackling-textbook-affordability/">Tackling Textbook Affordability</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <source:markdown>Earlier this month, Empire State University announced that, with funding from ECMC Foundation and in collaboration with Ithaka S+R, Buffalo State University, and SUNY Fredonia, it is undertaking a new project to analyze, pilot, and evaluate affordable course material models. Ithaka S+R is excited to be part of this important work and continue our research \[…\]
-
-The post [Tackling Textbook Affordability](https://sr.ithaka.org/blog/tackling-textbook-affordability/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=323645</guid>
-    </item>    <item>
-      <title>Peer Review in the Era of AI: Risks, Rewards, and Responsibilities</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/09/17/peer-review-in-the-era-of-ai-risks-rewards-and-responsibilities/</link>
-      <description>
-        <![CDATA[<p>The future of peer review isn’t about choosing between humans and AI, or between speed and quality, but about combining the strengths of both to enable speed with quality, to ensure quality, ethics, and trust in the scholarly record.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/09/17/peer-review-in-the-era-of-ai-risks-rewards-and-responsibilities/">Peer Review in the Era of AI: Risks, Rewards, and Responsibilities</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>The future of peer review isn’t about choosing between humans and AI, or between speed and quality, but about combining the strengths of both to enable speed with quality, to ensure quality, ethics, and trust in the scholarly record.
-
-The post [Peer Review in the Era of AI: Risks, Rewards, and Responsibilities](https://scholarlykitchen.sspnet.org/2025/09/17/peer-review-in-the-era-of-ai-risks-rewards-and-responsibilities/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60967</guid>
-    </item>    <item>
-      <title>Open Access: ETH Zurich leads the way globally</title>
-      <link>https://rc-blog.ethz.ch/en/open-access-eth-zurich-leads-the-way-globally/</link>
-      <description>
-        <![CDATA[Thanks to its unique conditions, ETH Zurich is an international leader in terms of its share of open access publications, as analyses by the ETH Library show. This leads to greater visibility and strengthens research. Read more]]>
-      </description>
-      <guid>cid://https://rc-blog.ethz.ch/?p=2893</guid>
-    </item>    <item>
-      <title>Raising the standard: GigaScience Press on metadata and discoverability</title>
-      <link>https://www.crossref.org/blog/raising-the-standard-gigascience-press-on-metadata-and-discoverability/</link>
-      <description>
-        <![CDATA[<p>To mark Crossref’s 25th anniversary, we launched our first Metadata Awards to highlight members with the best metadata practices.
-        <a href="https://www.gigasciencepress.org/" target="_blank">GigaScience Press</a>, based in Hong Kong, was the leader among small publishers, defined as organisations with less than USD 1 million in publishing revenue or expenses. We spoke with Scott Edmunds, Ph.D., Editor-in-Chief at GigaScience Press, about how discoverability drives their high metadata standards.</p>
-        <h3 id="what-motivates-your-organisationteam-to-work-towards-high-quality-metadata-what-objectives-does-it-support-for-your-organisation">What motivates your organisation/team to work towards high-quality metadata? What objectives does it support for your organisation?</h3>
-        <p>Our objective is to communicate science openly and collaboratively, without barriers, to solve problems in a data- and evidence-driven manner through Open Science publishing. High-quality metadata helps us address these objectives by improving the discoverability, transparency, and provenance of the work we publish. It is an integral part of the <a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR principles</a> and UNESCO Open Science Recommendation, playing a role in increasing the accessibility of research for both humans and machines. As one of the authors of the FAIR principles paper and an advisor of the <a href="https://makedatacount.org/" target="_blank">Make Data Count</a> project, I’ve also personally been very conscious to practice what I preach.</p>
-        <h3 id="do-you-have-a-strategy-for-complete-metadata-which-elements-did-you-prioritise-what-workflows-tools-or-collaborations-helped-you-get-there">Do you have a strategy for complete metadata? Which elements did you prioritise? What workflows, tools, or collaborations helped you get there?</h3>
-        <p>We’ve been privileged to work with our technical partners at <a href="https://rivervalley.io/" target="_blank">River Valley Technologies</a>, and the novel XML-first publishing platform they have developed has made it particularly easy to integrate and collect persistent identifiers and other metadata, embedding it into the resulting rich-XML. As Open Access advocates, licensing and machine readability were early focuses when launching our journals. We ensured that we provided a text and data mining portal, allowing bulk downloads of our content to encourage reuse. Many specific metadata elements highlighted by the FAIR principles and <a href="https://doi.org/10.54677/MNMH8546#:~:text=The%20UNESCO%20Recommendation%20on%20Open,openly%20available%2C%20accessible%20and%20reusable" target="_blank">UNESCO Open Science</a> recommendations, and so these have also helped guide what should be prioritised. If there’s one specific tool to mention, we’ve been big fans of the <a href="https://www.crossref.org/documentation/reports/participation-reports/" target="_blank">Crossref participation reports</a>, as this has helped highlight what is missing and what we need to improve upon.</p>
-        <h3 id="how-have-you-integrated-these-into-your-metadata-processes">How have you integrated these into your metadata processes?</h3>
-        <p>The participation reports, in particular, have been useful for this, and by regularly checking them, we’ve managed to spot when processes have broken, for example. When you’ve added new fields to the reports like <a href="https://ror.org/" target="_blank">ROR IDs (Research Organization Registry)</a>, this has also motivated us to prioritise integrating these, so having a curated list of metadata fields like this definitively helps users focus on what should be the most important. River Valley Technologies has been very responsive to this type of feedback, and being able to see the participation report data in real-time has helped drive them to fix and update our metadata. So I thank them for being so patient and quick to respond to our very demanding standards.</p>
-        <h3 id="what-impact-of-good-metadata-can-you-see-for-your-organisation">What impact of good metadata can you see for your organisation?</h3>
-        <p>From an Editorial side, our technical partners at River Valley Technologies have found having this metadata information available very useful in the Research Integrity tools they have developed and integrated into our publication platform. Things like <a href="https://orcid.org/" target="_blank">ORCID IDs</a>, RORs, and other identifiers are very useful for tracking provenance and increasing trust.</p>
-        <p>From a business side, putting the effort into collecting rich metadata has paid off in the long run by making it easier to integrate our publishing data into new platforms. Making it easier and quicker to integrate and track our data via <a href="https://oaswitchboard.org/" target="_blank">OA Switchboard</a>, for example. It also helps us more easily mirror and list our content in indexes like <a href="https://www.ncbi.nlm.nih.gov/pmc/" target="_blank">PMC</a>, <a href="https://www.scopus.com/" target="_blank">Scopus</a>, <a href="https://clarivate.com/webofsciencegroup/solutions/web-of-science/" target="_blank">Web of Science</a>, and others.</p>
-        <h3 id="have-you-encountered-any-challenges-in-curating-or-improving-your-metadata">Have you encountered any challenges in curating or improving your metadata?</h3>
-        <p>One of the main metadata areas that has currently let us down, funding and registries, is because our publishing model is so affordable. The automated production processes from RVT&rsquo;s novel publishing platform have allowed us to publish very cost-effectively (the APC of GigaByte is $535). We’ve also received sponsorship from the WHO to publish a series of public health papers, particularly supporting authors from the Global South who may not have sources of funding listed in these registries. Because of this, we’ve published numerous papers from independent researchers, students, and self-financed projects that may not have funding IDs or grant numbers. We’d like to push to get “unfunded” counted as a metadata field to address this.</p>
-        <h3 id="have-your-efforts-regarding-metadata-yielded-tangible-benefits-for-your-community-is-this-something-your-editors-authors-or-readers-are-aware-of-and-appreciate-if-so-why">Have your efforts regarding metadata yielded tangible benefits for your community? Is this something your editors, authors, or readers are aware of and appreciate? If so, why?</h3>
-        <p>We’d like to think our authors find this useful, but we’ve not had any specific feedback on this. Our readers, both human and machine, should hopefully appreciate finding our work more easily, and from a purely selfish perspective, should get us higher access and citations. This is difficult to measure, but as evidence nerds, we have <a href="https://doi.org/10.31222/osf.io/xv7tk" target="_blank">attempted to conduct RCTs</a> examining this for Data Citations. One anecdote I can give is about the author who told us they pasted their paper into ChatGPT and asked it which was the best journal for their work, and it suggested our journal. I’d like to think that putting in this effort in making our papers more machine-readable and comprehensible pays off at times like this to make the discoverability and visibility of our journals greater.</p>
-        <h3 id="looking-ahead-how-are-you-planning-to-build-on-your-metadata-quality-are-there-new-elements-or-practices-youre-exploring-and-what-advice-would-you-give-to-others-just-starting-to-strengthen-their-metadata">Looking ahead, how are you planning to build on your metadata quality? Are there new elements or practices you’re exploring? And what advice would you give to others just starting to strengthen their metadata?</h3>
-        <p>We still need to update older content with RORs, and improve it for the datasets
-        linked to our papers. To do this, we’ve had interns working to improve our <a href="https://datacite.org/" target="_blank">DataCite</a> metadata.</p>
-        <p>We encourage others to think about metadata issues when setting up their workflows. While it may seem like additional work, it will be increasingly important to future-proof and get journals ready for our increasingly AI-centric age. And as we show here, we can more easily carry out important tasks like getting your content more quickly and widely indexed and disseminated.</p>
-        <p>Strong metadata ties open science, integrity, and discoverability together. GigaScience Press shows how consistent identifiers, machine-readable formats, and continuous checks deliver real benefits. As discovery becomes more AI-assisted, the priority is clear: keep metadata complete, open, and usable.</p>
-        <div class="quotecite">
-        <blockquote>
-        <p>While it may seem like additional work, it will be increasingly important to future-proof and get journals ready for our increasingly AI-centric age.</p>
-        </blockquote>
-        <p><cite>&ndash; Scott Edmunds, GigaScience</cite></p>
-        </div>
-        <p>Now, a few words from Scott.</p>
-        <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
-        padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
-        border-radius: 8px; will-change: transform;">
-        <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-        src="https://www.canva.com/design/DAGyCZEp_QA/dzAi4Azoz_k2-3_B-Z7v8g/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-        </iframe>
-        </div>
-        <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGyCZEp_QA&#x2F;dzAi4Azoz_k2-3_B-Z7v8g&#x2F;watch?utm_content=DAGyCZEp_QA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Metadata Awards video - Gigascience</a>]]>
-      </description>
-      <source:markdown>To mark Crossref’s 25th anniversary, we launched our first Metadata Awards to highlight members with the best metadata practices.
-[GigaScience Press](https://www.gigasciencepress.org/), based in Hong Kong, was the leader among small publishers, defined as organisations with less than USD 1 million in publishing revenue or expenses. We spoke with Scott Edmunds, Ph.D., Editor-in-Chief at GigaScience Press, about how discoverability drives their high metadata standards.
-
-### What motivates your organisation/team to work towards high-quality metadata? What objectives does it support for your organisation?
-
-Our objective is to communicate science openly and collaboratively, without barriers, to solve problems in a data- and evidence-driven manner through Open Science publishing. High-quality metadata helps us address these objectives by improving the discoverability, transparency, and provenance of the work we publish. It is an integral part of the [FAIR principles](https://www.go-fair.org/fair-principles/) and UNESCO Open Science Recommendation, playing a role in increasing the accessibility of research for both humans and machines. As one of the authors of the FAIR principles paper and an advisor of the [Make Data Count](https://makedatacount.org/) project, I’ve also personally been very conscious to practice what I preach.
-
-### Do you have a strategy for complete metadata? Which elements did you prioritise? What workflows, tools, or collaborations helped you get there?
-
-We’ve been privileged to work with our technical partners at [River Valley Technologies](https://rivervalley.io/), and the novel XML-first publishing platform they have developed has made it particularly easy to integrate and collect persistent identifiers and other metadata, embedding it into the resulting rich-XML. As Open Access advocates, licensing and machine readability were early focuses when launching our journals. We ensured that we provided a text and data mining portal, allowing bulk downloads of our content to encourage reuse. Many specific metadata elements highlighted by the FAIR principles and [UNESCO Open Science](https://doi.org/10.54677/MNMH8546#:~:text=The%20UNESCO%20Recommendation%20on%20Open,openly%20available%2C%20accessible%20and%20reusable) recommendations, and so these have also helped guide what should be prioritised. If there’s one specific tool to mention, we’ve been big fans of the [Crossref participation reports](https://www.crossref.org/documentation/reports/participation-reports/), as this has helped highlight what is missing and what we need to improve upon.
-
-### How have you integrated these into your metadata processes?
-
-The participation reports, in particular, have been useful for this, and by regularly checking them, we’ve managed to spot when processes have broken, for example. When you’ve added new fields to the reports like [ROR IDs (Research Organization Registry)](https://ror.org/), this has also motivated us to prioritise integrating these, so having a curated list of metadata fields like this definitively helps users focus on what should be the most important. River Valley Technologies has been very responsive to this type of feedback, and being able to see the participation report data in real-time has helped drive them to fix and update our metadata. So I thank them for being so patient and quick to respond to our very demanding standards.
-
-### What impact of good metadata can you see for your organisation?
-
-From an Editorial side, our technical partners at River Valley Technologies have found having this metadata information available very useful in the Research Integrity tools they have developed and integrated into our publication platform. Things like [ORCID IDs](https://orcid.org/), RORs, and other identifiers are very useful for tracking provenance and increasing trust.
-
-From a business side, putting the effort into collecting rich metadata has paid off in the long run by making it easier to integrate our publishing data into new platforms. Making it easier and quicker to integrate and track our data via [OA Switchboard](https://oaswitchboard.org/), for example. It also helps us more easily mirror and list our content in indexes like [PMC](https://www.ncbi.nlm.nih.gov/pmc/), [Scopus](https://www.scopus.com/), [Web of Science](https://clarivate.com/webofsciencegroup/solutions/web-of-science/), and others.
-
-### Have you encountered any challenges in curating or improving your metadata?
-
-One of the main metadata areas that has currently let us down, funding and registries, is because our publishing model is so affordable. The automated production processes from RVT’s novel publishing platform have allowed us to publish very cost-effectively (the APC of GigaByte is $535). We’ve also received sponsorship from the WHO to publish a series of public health papers, particularly supporting authors from the Global South who may not have sources of funding listed in these registries. Because of this, we’ve published numerous papers from independent researchers, students, and self-financed projects that may not have funding IDs or grant numbers. We’d like to push to get “unfunded” counted as a metadata field to address this.
-
-### Have your efforts regarding metadata yielded tangible benefits for your community? Is this something your editors, authors, or readers are aware of and appreciate? If so, why?
-
-We’d like to think our authors find this useful, but we’ve not had any specific feedback on this. Our readers, both human and machine, should hopefully appreciate finding our work more easily, and from a purely selfish perspective, should get us higher access and citations. This is difficult to measure, but as evidence nerds, we have [attempted to conduct RCTs](https://doi.org/10.31222/osf.io/xv7tk) examining this for Data Citations. One anecdote I can give is about the author who told us they pasted their paper into ChatGPT and asked it which was the best journal for their work, and it suggested our journal. I’d like to think that putting in this effort in making our papers more machine-readable and comprehensible pays off at times like this to make the discoverability and visibility of our journals greater.
-
-### Looking ahead, how are you planning to build on your metadata quality? Are there new elements or practices you’re exploring? And what advice would you give to others just starting to strengthen their metadata?
-
-We still need to update older content with RORs, and improve it for the datasets
-linked to our papers. To do this, we’ve had interns working to improve our [DataCite](https://datacite.org/) metadata.
-
-We encourage others to think about metadata issues when setting up their workflows. While it may seem like additional work, it will be increasingly important to future-proof and get journals ready for our increasingly AI-centric age. And as we show here, we can more easily carry out important tasks like getting your content more quickly and widely indexed and disseminated.
-
-Strong metadata ties open science, integrity, and discoverability together. GigaScience Press shows how consistent identifiers, machine-readable formats, and continuous checks deliver real benefits. As discovery becomes more AI-assisted, the priority is clear: keep metadata complete, open, and usable.
-
-&#62; While it may seem like additional work, it will be increasingly important to future-proof and get journals ready for our increasingly AI-centric age.
-
-– Scott Edmunds, GigaScience
-
-Now, a few words from Scott.
-
- [Metadata Awards video - Gigascience](https://www.canva.com/design/DAGyCZEp_QA/dzAi4Azoz_k2-3_B-Z7v8g/watch?utm_content=DAGyCZEp_QA&#38;utm_campaign=designshare&#38;utm_medium=embeds&#38;utm_source=link)</source:markdown>
-      <guid>cid://https://www.crossref.org/blog/raising-the-standard-gigascience-press-on-metadata-and-discoverability/</guid>
     </item>
   </channel>
 </rss>

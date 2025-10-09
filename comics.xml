@@ -7,7 +7,7 @@
       Commics and Graphic Novel sites on the web.
     </description>
     <link>http://localhost:8000/comicsxml</link>
-    <lastBuildDate>08 Oct 25 15:11 -0700</lastBuildDate>
+    <lastBuildDate>09 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -32,28 +32,6 @@ This is a comic about AI art.
 A comic about what you think your brain is supposed to do
 
  [View on my website](http://theoatmeal.com/comics/brain_job?no_popup=1)</source:markdown>
-    </item>    <item>
-      <title>The ghost who haunts weird old spaces</title>
-      <link>http://theoatmeal.com/comics/ghost_spaces?no_popup=1</link>
-      <description>
-        <![CDATA[<a href="http://theoatmeal.com/comics/ghost_spaces?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/ghost_spaces_big.png" alt="The ghost who haunts weird old spaces" class="border0" /></a><p>A comic about a ghost who haunts unusual places</p><a href="http://theoatmeal.com/comics/ghost_spaces?no_popup=1">View on my website</a><br /><br />]]>
-      </description>
-      <source:markdown>[![The ghost who haunts weird old spaces](https://s3.amazonaws.com/theoatmeal-img/thumbnails/ghost_spaces_big.png)](http://theoatmeal.com/comics/ghost_spaces?no_popup=1)
-
-A comic about a ghost who haunts unusual places
-
- [View on my website](http://theoatmeal.com/comics/ghost_spaces?no_popup=1)</source:markdown>
-    </item>    <item>
-      <title>Half-moon</title>
-      <link>http://theoatmeal.com/comics/half_moon?no_popup=1</link>
-      <description>
-        <![CDATA[<a href="http://theoatmeal.com/comics/half_moon?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/half_moon_big.png" alt="Half-moon" class="border0" /></a><p>A comic about werewolves in a half-moon</p><a href="http://theoatmeal.com/comics/half_moon?no_popup=1">View on my website</a><br /><br />]]>
-      </description>
-      <source:markdown>[![Half-moon](https://s3.amazonaws.com/theoatmeal-img/thumbnails/half_moon_big.png)](http://theoatmeal.com/comics/half_moon?no_popup=1)
-
-A comic about werewolves in a half-moon
-
- [View on my website](http://theoatmeal.com/comics/half_moon?no_popup=1)</source:markdown>
     </item>
   </channel>
 </rss>
