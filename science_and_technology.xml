@@ -4,10 +4,154 @@
   <channel>
     <title>Science and Technology</title>
     <link>http://localhost:8000/science_and_technologyxml</link>
-    <lastBuildDate>09 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>09 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Space Shuttle war of words takes off as senator blasts &#39;woke Smithsonian&#39;</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/09/cornyn_smithsonian_shuttle_comments/</link>
+      <description>
+        <![CDATA[<h4>Houston, we have a custody battle</h4> <p><strong>Exclusive</strong>  The war of words over the possible relocation of Space Shuttle Discovery has ratcheted up, with the office of Senator John Cornyn (R-TX) telling <em>The Register</em> that the orbiter belongs in Houston &#34;whether the woke Smithsonian and its cronies in Congress like it or not.&#34;…</p>]]>
+      </description>
+      <source:markdown>#### Houston, we have a custody battle
+
+**Exclusive**  The war of words over the possible relocation of Space Shuttle Discovery has ratcheted up, with the office of Senator John Cornyn (R-TX) telling _The Register_ that the orbiter belongs in Houston &#34;whether the woke Smithsonian and its cronies in Congress like it or not.&#34;…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242396</guid>
+    </item>    <item>
+      <title>This Hungarian Author Once Wrote a 400-Page Book With a Single Period. Now, László Krasznahorkai Is a Nobel Prize Winner</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-hungarian-author-once-wrote-400-page-book-with-single-period-now-laszlo-krasznahorkai-is-nobel-prize-winner-180987492/</link>
+      <description>
+        <![CDATA[The 71-year-old recipient of the Nobel Prize in Literature is known for his long, winding sentences]]>
+      </description>
+      <source:markdown>The 71-year-old recipient of the Nobel Prize in Literature is known for his long, winding sentences</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ppfTDr4mepbf1FmsGI30QnS5azI=/420x240/filters:focal(1750x1167:1751x1168)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/dc/4c/dc4c60ae-1b5f-4500-8d3f-8eae28617b1d/gettyimages-1055482712.jpg" length="" type="" />
+    </item>    <item>
+      <title>GitHub Copilot Chat turns blabbermouth with crafty prompt injection attack</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/09/github_copilot_chat_vulnerability/</link>
+      <description>
+        <![CDATA[<h4>AI assistant could be duped into leaking code and tokens via sneaky markdown</h4> <p>GitHub&#39;s Copilot Chat, the chatbot meant to help developers code faster, could be helping attackers to steal code instead.…</p>]]>
+      </description>
+      <source:markdown>#### AI assistant could be duped into leaking code and tokens via sneaky markdown
+
+GitHub&#39;s Copilot Chat, the chatbot meant to help developers code faster, could be helping attackers to steal code instead.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242398</guid>
+    </item>    <item>
+      <title>Discord says 70,000 photo IDs compromised in customer service breach</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/09/discord_photo_ids_leaked/</link>
+      <description>
+        <![CDATA[<h4>No word on why the outsourced supplier was storing this data in the first place</h4> <p>Communication platform provider Discord has admitted that around 70,000 users had their government IDs stolen as part of its recent data breach.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### No word on why the outsourced supplier was storing this data in the first place
+
+Communication platform provider Discord has admitted that around 70,000 users had their government IDs stolen as part of its recent data breach.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242395</guid>
+    </item>    <item>
+      <title>US PC shipments hit the buffers as Trump’s tariffs take their toll</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/09/us_pc_shipments_flat_trump_tarriffs/</link>
+      <description>
+        <![CDATA[<h4>Rest of the world surges on Windows 10 end-of-life upgrades</h4> <p><strong>WORLD WAR FEE</strong>  The global PC market is ticking upward as Windows 10&#39;s end-of-life nears, except in North America, where tariff shocks and economic jitters have slowed demand.…</p>]]>
+      </description>
+      <source:markdown>#### Rest of the world surges on Windows 10 end-of-life upgrades
+
+**WORLD WAR FEE**  The global PC market is ticking upward as Windows 10&#39;s end-of-life nears, except in North America, where tariff shocks and economic jitters have slowed demand.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242397</guid>
+    </item>    <item>
+      <title>Gartner warns agentic AI startups: Prepare to be consolidated</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/09/gartner_agentic_ai_correction/</link>
+      <description>
+        <![CDATA[<h4>Analyst predicts over-supply will trigger a market correction in favor of deep-pocketed incumbents</h4> <p>Gartner has signaled that the supply of &#34;agentic AI&#34; in terms of models, platforms, and products far outstrips demand, creating a situation that will lead to consolidation and market correction.…</p>]]>
+      </description>
+      <source:markdown>#### Analyst predicts over-supply will trigger a market correction in favor of deep-pocketed incumbents
+
+Gartner has signaled that the supply of &#34;agentic AI&#34; in terms of models, platforms, and products far outstrips demand, creating a situation that will lead to consolidation and market correction.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242390</guid>
+    </item>    <item>
+      <title>Scientists Made Functional Human Eggs With Skin Cells in &#39;Proof of Concept&#39; for Advancing Fertility</title>
+      <link>https://www.smithsonianmag.com/smart-news/scientists-made-functional-human-eggs-with-skin-cells-in-proof-of-concept-for-advancing-fertility-180987430/</link>
+      <description>
+        <![CDATA[The research could open up avenues for fertility treatments after additional refinement and trials, but it also raises ethical concerns]]>
+      </description>
+      <source:markdown>The research could open up avenues for fertility treatments after additional refinement and trials, but it also raises ethical concerns</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ymzTFvj-rhpZnc45-T8i0RlsstA=/420x240/filters:focal(512x380:513x381)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c9/a4/c9a4dda0-0265-46c7-a98e-3264896ce060/scntspindle19_56572e48-9e33-4a2d-84c8-031f7726b173-prv.jpg" length="" type="" />
+    </item>    <item>
+      <title>Humans flunk the Turing test for voices as bots get chattier</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/09/voice_clone_detection_study/</link>
+      <description>
+        <![CDATA[<h4>Coin toss odds for spotting a deepfake, study finds. And that&#39;s before the machines learn to sing</h4> <p>Think you can distinguish between a human voice and a robot? Think again, because the numbers are starting to say otherwise. …</p>]]>
+      </description>
+      <source:markdown>#### Coin toss odds for spotting a deepfake, study finds. And that&#39;s before the machines learn to sing
+
+Think you can distinguish between a human voice and a robot? Think again, because the numbers are starting to say otherwise. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242394</guid>
+    </item>    <item>
+      <title>Meta will move React to Linux Foundation to address vendor dominance fears</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/09/meta_react_foundation/</link>
+      <description>
+        <![CDATA[<h4>Independent technical governance will hope to unite fractured ecosystem</h4> <p>Meta will contribute React, React Native, and JSX (JavaScript XML) to a new React Foundation, part of the Linux Foundation, and said that &#34;it is important that no single company or organization is overrepresented.&#34;…</p>]]>
+      </description>
+      <source:markdown>#### Independent technical governance will hope to unite fractured ecosystem
+
+Meta will contribute React, React Native, and JSX (JavaScript XML) to a new React Foundation, part of the Linux Foundation, and said that &#34;it is important that no single company or organization is overrepresented.&#34;…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242392</guid>
+    </item>    <item>
+      <title>China moves to extend control over tech industry&#39;s critical rare earths</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/09/china_moves_to_extend_control/</link>
+      <description>
+        <![CDATA[<h4>New laws restrict goods that are manufactured outside of China</h4> <p>China is hitting back at US export restrictions with some of its own, tightening its control on so-called rare earth minerals and introducing laws that require companies to get licenses before they can ship goods containing rare earths, even those made outside of the country.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### New laws restrict goods that are manufactured outside of China
+
+China is hitting back at US export restrictions with some of its own, tightening its control on so-called rare earth minerals and introducing laws that require companies to get licenses before they can ship goods containing rare earths, even those made outside of the country.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242391</guid>
+    </item>    <item>
+      <title>This Ski Area Hired a Herd of Goats and Sheep to Help With Landscaping</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-ski-area-hired-a-herd-of-goats-and-sheep-to-help-with-landscaping-180987487/</link>
+      <description>
+        <![CDATA[Jay Peak Resort in Vermont brought in a team of hungry ungulates to help tame overgrown vegetation on its slopes before the snow flies]]>
+      </description>
+      <source:markdown>Jay Peak Resort in Vermont brought in a team of hungry ungulates to help tame overgrown vegetation on its slopes before the snow flies</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/F-jRDMaOhXoInenqjxK3cdfpiWU=/420x240/filters:focal(3939x2645:3940x2646)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0b/a5/0ba56d72-13b1-4154-982d-c3d950a815a4/2025_goat_arrival_14.jpg" length="" type="" />
+    </item>    <item>
+      <title>Windows 11 gets a fresh Start in latest Canary build</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/09/windows_11_canary_build/</link>
+      <description>
+        <![CDATA[<h4>Meanwhile, Microsoft resurrects Edit and kills .NET 3.5 SP1 on demand</h4> <p>It&#39;s taken a while, but Microsoft has finally made its redesigned Start menu available to Canary Channel Windows Insiders, while also removing .NET Framework 3.5 SP1 as a Feature On Demand, and adding Edit, the command-line text editor.…</p>]]>
+      </description>
+      <source:markdown>#### Meanwhile, Microsoft resurrects Edit and kills .NET 3.5 SP1 on demand
+
+It&#39;s taken a while, but Microsoft has finally made its redesigned Start menu available to Canary Channel Windows Insiders, while also removing .NET Framework 3.5 SP1 as a Feature On Demand, and adding Edit, the command-line text editor.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242389</guid>
+    </item>    <item>
+      <title>Kubernetes kicks down Azure Front Door</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/09/kubernetes_azure_outage/</link>
+      <description>
+        <![CDATA[<h4>This time outage was not actually Microsoft&#39;s fault</h4> <p>If you struggled to access the Azure Portal or Microsoft Entra this morning, you weren&#39;t alone – Microsoft has blamed a Kubernetes crash for the outage.…</p>]]>
+      </description>
+      <source:markdown>#### This time outage was not actually Microsoft&#39;s fault
+
+If you struggled to access the Azure Portal or Microsoft Entra this morning, you weren&#39;t alone – Microsoft has blamed a Kubernetes crash for the outage.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242393</guid>
+    </item>    <item>
+      <title>Clearview AI sees red as UK tribunal sides with regulator over $10M GDPR fine</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/09/ico_clearview_ai_tribunal/</link>
+      <description>
+        <![CDATA[<h4>Court says ICO can chase US outfit for unlawfully hoovering up Brits&#39; selfies</h4> <p>The UK General Regulatory Chamber&#39;s Upper Tribunal (UT) has ruled in favor of the Information Commissioner&#39;s Office (ICO), which appealed against a 2023 decision that it could not fine Clearview AI over GDPR violations.…</p>]]>
+      </description>
+      <source:markdown>#### Court says ICO can chase US outfit for unlawfully hoovering up Brits&#39; selfies
+
+The UK General Regulatory Chamber&#39;s Upper Tribunal (UT) has ruled in favor of the Information Commissioner&#39;s Office (ICO), which appealed against a 2023 decision that it could not fine Clearview AI over GDPR violations.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242388</guid>
+    </item>    <item>
+      <title>SonicWall breach hits every cloud backup customer after 5% claim goes up in smoke</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/09/sonicwall_breach_hits_every_cloud/</link>
+      <description>
+        <![CDATA[<h4>Affects users regardless of when their backups were created</h4> <p>SonicWall has admitted that all customers who used its cloud backup service to store firewall configuration files were affected by a cybersecurity incident first disclosed in mid-September, walking back earlier assurances that only a small fraction of users were impacted.…</p>]]>
+      </description>
+      <source:markdown>#### Affects users regardless of when their backups were created
+
+SonicWall has admitted that all customers who used its cloud backup service to store firewall configuration files were affected by a cybersecurity incident first disclosed in mid-September, walking back earlier assurances that only a small fraction of users were impacted.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242387</guid>
+    </item>    <item>
       <title>Intel&#39;s open source future in question as exec says he&#39;s done carrying the competition</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/09/intel_open_source_commitment/</link>
       <description>
@@ -21,9 +165,9 @@ Over the years, Intel has established itself as a paragon of the open source com
       <title>Panther Lake sets stage for Intel&#39;s 2 nm comeback, but many details still TBD</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/09/intel_panther_lake/</link>
       <description>
-        <![CDATA[<h4>Notebook chip promises 8 to16 cores and up to 180 TOPS of total AI performance when it hits shelves in January</h4> <p>Intel has begun clawing back production from TSMC with the introduction of its Panther Lake processors, the company&#39;s first chip based on its long-awaited 18A process tech.…</p>]]>
+        <![CDATA[<h4>Notebook chip promises 8 to 16 cores and up to 180 TOPS of total AI performance when it hits shelves in January</h4> <p>Intel has begun clawing back production from TSMC with the introduction of its Panther Lake processors, the company&#39;s first chip based on its long-awaited 18A process tech.…</p>]]>
       </description>
-      <source:markdown>#### Notebook chip promises 8 to16 cores and up to 180 TOPS of total AI performance when it hits shelves in January
+      <source:markdown>#### Notebook chip promises 8 to 16 cores and up to 180 TOPS of total AI performance when it hits shelves in January
 
 Intel has begun clawing back production from TSMC with the introduction of its Panther Lake processors, the company&#39;s first chip based on its long-awaited 18A process tech.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242358</guid>
