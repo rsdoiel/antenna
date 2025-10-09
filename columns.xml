@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>http://localhost:8000/columnsxml</link>
-    <lastBuildDate>09 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>09 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,82 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Finished reading Caliban&#39;s War</title>
+      <link>https://www.mollywhite.net/reading/books?search=Caliban&#39;s%20War</link>
+      <guid>cid://68e82ff57d41bab54863f3ee</guid>
+    </item>    <item>
+      <title>Some Lakers Games This Season Will Be Broadcast Live in Immersive Video for Vision Pro</title>
+      <link>https://www.techradar.com/streaming/entertainment/wish-you-could-be-courtside-at-a-lakers-game-put-your-vision-pro-back-on-and-fire-up-the-nba-app</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42255</guid>
+    </item>    <item>
+      <title>Hokusai. Thirty-Six Views of Mount Fuji.</title>
+      <link>https://kottke.org/25/10/hokusai-thirty-six-views-of-mount-fuji</link>
+      <guid>cid://tag:kottke.org,2025://5.47688</guid>
+    </item>    <item>
+      <link>https://tilde.zone/@tomasino/115346294528772557</link>
+      <description>
+        <![CDATA[<p>Do you know who Aleister Crowley is (without looking anything up)?</p><p><radio disabled="disabled">Yes</radio><br><radio disabled="disabled">Nope</radio><br><radio disabled="disabled">Don&#39;t care, just wanna see results</radio></p>]]>
+      </description>
+      <source:markdown>Do you know who Aleister Crowley is (without looking anything up)?
+
+Yes
+
+Nope
+
+Don&#39;t care, just wanna see results</source:markdown>
+      <guid>cid://https://tilde.zone/@tomasino/115346294528772557</guid>
+    </item>    <item>
+      <title>If you google around, there are claims of people with a max...</title>
+      <link>https://kottke.org/25/10/0047693-if-you-google-around-ther</link>
+      <guid>cid://tag:kottke.org,2025://13.47693</guid>
+    </item>    <item>
+      <title>&#38;#8220;It turns out playing God is neither difficult nor expensive.&#38;#8221; That line...</title>
+      <link>https://kottke.org/25/10/0047692-it-turns-out-playing-god</link>
+      <guid>cid://tag:kottke.org,2025://13.47692</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115345806062906069</link>
+      <description>
+        <![CDATA[<p>This was a nice surprise!</p>]]>
+      </description>
+      <source:markdown>This was a nice surprise!</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115345806062906069</guid>
+    </item>    <item>
+      <title>The Evolution of the YouTube Progress Bar (2005-2025)</title>
+      <link>https://kottke.org/25/10/the-evolution-of-the-youtube-progress-bar-2005-2025</link>
+      <guid>cid://tag:kottke.org,2025://5.47691</guid>
+    </item>    <item>
+      <title>October 8, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-8-2025-c60</link>
+      <enclosure url="https://api.substack.com/feed/podcast/175739788/5395ea04d7e1b80b30c9c94681b54fa2.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-8-2025-c60</guid>
+    </item>    <item>
+      <title>Indicting People Who Lied to Congress Would Overcrowd Prisons</title>
+      <link>https://www.borowitzreport.com/p/indicting-people-who-lied-to-congress</link>
+      <description>
+        <![CDATA[The result would be mass incarceration on an unprecedented scale.]]>
+      </description>
+      <source:markdown>The result would be mass incarceration on an unprecedented scale.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!ZfAI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4cad545-25a9-4082-8182-791af3777726_879x925.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/indicting-people-who-lied-to-congress</guid>
+    </item>    <item>
+      <link>https://punchbowl.news/article/senate/schumer-dems-momentum/</link>
+      <description>
+        <![CDATA[<p>Even though Schumer is a “human flat tire” he’s right that the Dems have momentum. The message seems to be getting through that health care for Americans is what they’re voting on now. The Dems support the people, the Repubs Don’t see why they should care.</p>]]>
+      </description>
+      <source:markdown>Even though Schumer is a “human flat tire” he’s right that the Dems have momentum. The message seems to be getting through that health care for Americans is what they’re voting on now. The Dems support the people, the Repubs Don’t see why they should care.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/09/1463/</guid>
+    </item>    <item>
+      <title>Area Man Has Far Greater Knowledge Of Marvel Universe Than Own Family...</title>
+      <link>https://kottke.org/25/10/0047689-area-man-has-far-greater</link>
+      <guid>cid://tag:kottke.org,2025://13.47689</guid>
+    </item>    <item>
+      <link>https://www.theguardian.com/us-news/2025/oct/09/anti-fascism-mark-bray-rutgers-university</link>
+      <description>
+        <![CDATA[<p>US anti-fascism expert blocked from flying to Spain at airport.</p>]]>
+      </description>
+      <source:markdown>US anti-fascism expert blocked from flying to Spain at airport.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/09/1461/</guid>
     </item>    <item>
       <title>Las películas más esperadas del BIFF 2025</title>
       <link>https://www.palomitademaiz.net/las-peliculas-mas-esperadas-del-biff-2025/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=las-peliculas-mas-esperadas-del-biff-2025</link>
@@ -342,13 +418,13 @@ Jeff GeerlingOctober 9, 2025</source:markdown>
 Tags: [gergely-orosz](https://simonwillison.net/tags/gergely-orosz), [parallel-agents](https://simonwillison.net/tags/parallel-agents), [coding-agents](https://simonwillison.net/tags/coding-agents), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [generative-ai](https://simonwillison.net/tags/generative-ai), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/9/gergely-orosz/#atom-everything</guid>
     </item>    <item>
-      <title>Cute paste for WordLand</title>
+      <title>&#60;i&#62;Cute paste&#60;/i&#62; for WordLand</title>
       <link>http://scripting.com/2025/10/09/133902.html?title=cutePasteForWordland</link>
       <description>
         <![CDATA[<p><i>Note this is for the 0.8 release of WordLand coming soooon. Not in the current released product. </i></p>
-        <p>A friend asked for this feature a few months back, before we had a Markdown mode in WordLand. </p>
+        <p>A <a href="https://herve.bzh/cute-paste-in-wordland/">friend</a> asked for this feature a few months back, before we had a Markdown mode in WordLand. </p>
         <p>As I'm reviewing the product for first beta I realized I could now implement the feature he asked for.</p>
-        <p>Here's how to.</p>
+        <p>How to..</p>
         <ol>
         <li>Copy a URL to the clipboard.</li>
         <li>Open WordLand, bring it to the front.</li>
@@ -363,11 +439,11 @@ Tags: [gergely-orosz](https://simonwillison.net/tags/gergely-orosz), [parallel-a
       </description>
       <source:markdown>_Note this is for the 0.8 release of WordLand coming soooon. Not in the current released product._
 
-A friend asked for this feature a few months back, before we had a Markdown mode in WordLand.
+A [friend](https://herve.bzh/cute-paste-in-wordland/) asked for this feature a few months back, before we had a Markdown mode in WordLand.
 
 As I&#39;m reviewing the product for first beta I realized I could now implement the feature he asked for.
 
-Here&#39;s how to.
+How to..
 
 1. Copy a URL to the clipboard.
 2. Open WordLand, bring it to the front.
@@ -794,6 +870,127 @@ Tags: [python](https://simonwillison.net/tags/python), [testing](https://simonwi
       <source:markdown>You need to be aware of his four-point plan</source:markdown>
       <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/31X8vrfgHqs" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/trumps-plan-to-invoke-the-insurrection</guid>
+    </item>    <item>
+      <title>GHC 9.14.1-alpha3 is now available</title>
+      <link>http://haskell.org/ghc/blog/20251007-ghc-9.14.1-alpha3-released.html</link>
+      <description>
+        <![CDATA[<h1>GHC 9.14.1-alpha3 is now available</h1>
+        <h4 class="text-muted">bgamari - 2025-10-09</h4>
+        
+        <p>The GHC developers are very pleased to announce the availability of the
+        third alpha release of GHC 9.14.1. Binary distributions, source
+        distributions, and documentation are available at <a href="https://downloads.haskell.org/ghc/9.14.1-alpha3">downloads.haskell.org</a>.</p>
+        <p>GHC 9.14 will bring a number of new features and improvements, including:</p>
+        <ul>
+        <li><p>Significant improvements in specialisation:</p>
+        <ul>
+        <li>The <code>SPECIALISE</code> pragma now allows use of type application syntax</li>
+        <li>The <code>SPECIALISE</code> pragma can be used to specialise for expression arguments
+        as well as type arguments.</li>
+        <li>Specialisation is now considerably more reliable in the presence of
+        <code>newtype</code>s</li>
+        </ul></li>
+        <li><p>Significant improvements GHCi including:</p>
+        <ul>
+        <li>Correctness and performance improvements in the bytecode interpreter</li>
+        <li>Features in the GHCi debugger</li>
+        <li>Support for multiple home units in GHCi</li>
+        </ul></li>
+        <li><p>Implementation of the <a href="https://github.com/ghc-proposals/ghc-proposals/blob/master/proposals/0682-explicit-level-imports.rst">Explicit Level Imports proposal</a></p></li>
+        <li><p><code>RequiredTypeArgments</code> can now be used in more contexts</p></li>
+        <li><p>SSE/AVX2 support in the x86 native code generator backend</p></li>
+        <li><p>A major update of the Windows toolchain</p></li>
+        <li><p>… and many more</p></li>
+        </ul>
+        <p>A full accounting of changes can be found in the <a href="https://downloads.haskell.org/ghc/9.14.1-alpha3/docs/users_guide/9.14.1-notes.html">release notes</a>. Given the
+        many specialisation improvements and their potential for regression, we would
+        very much appreciate testing and performance characterisation on downstream
+        workloads.</p>
+        <p>Note that while this release makes many improvements in the specialisation
+        optimisation, polymorphic specialisation will remain disabled by default in the
+        final release due to concern over regressions of the sort identified in
+        <a href="https://gitlab.haskell.org/ghc/ghc/-/issues/26329"><span>#26329</span></a>. Users needing more aggressive specialisation can explicitly
+        enable this feature with the <code>-fpolymorphic-specialisation</code> flag. Depending
+        upon our experience with 9.14.1, we may enable this feature by default in a
+        later minor release.</p>
+        <p>This is the third alpha release of 9.14.1. This comes later than expected in
+        part due to work on a resolving a regression in the macOS 26 (<a href="https://gitlab.haskell.org/ghc/ghc/-/issues/26166"><span>#26166</span></a>)
+        which threatened the usability of the release. While a complete fix for this
+        issue is not present in this alpha, we have done enough work to have confidence
+        that it will be in finished for the release candidate which we expect should
+        come the week of 27 October.</p>
+        <p>We would like to thank the Zw3rk stake pool, Well-Typed, Mercury, Channable,
+        Tweag I/O, Serokell, SimSpace, the Haskell Foundation, and other anonymous
+        contributors whose on-going financial and in-kind support has facilitated GHC
+        maintenance and release management over the years. Finally, this release would
+        not have been possible without the hundreds of open-source contributors whose
+        work have made the Haskell ecosystem what it is today.</p>
+        <p>As always, do give this release a try and open a <a href="https://gitlab.haskell.org/ghc/homepage/-/issues/new">ticket</a> if you see
+        anything amiss.</p>]]>
+      </description>
+      <source:markdown># GHC 9.14.1-alpha3 is now available
+
+#### bgamari - 2025-10-09
+
+The GHC developers are very pleased to announce the availability of the
+third alpha release of GHC 9.14.1. Binary distributions, source
+distributions, and documentation are available at [downloads.haskell.org](https://downloads.haskell.org/ghc/9.14.1-alpha3).
+
+GHC 9.14 will bring a number of new features and improvements, including:
+
+- Significant improvements in specialisation:
+
+  - The `SPECIALISE` pragma now allows use of type application syntax
+  - The `SPECIALISE` pragma can be used to specialise for expression arguments
+    as well as type arguments.
+  - Specialisation is now considerably more reliable in the presence of
+    `newtype` s
+- Significant improvements GHCi including:
+
+  - Correctness and performance improvements in the bytecode interpreter
+  - Features in the GHCi debugger
+  - Support for multiple home units in GHCi
+- Implementation of the [Explicit Level Imports proposal](https://github.com/ghc-proposals/ghc-proposals/blob/master/proposals/0682-explicit-level-imports.rst)
+
+- `RequiredTypeArgments` can now be used in more contexts
+
+- SSE/AVX2 support in the x86 native code generator backend
+
+- A major update of the Windows toolchain
+
+- … and many more
+
+
+A full accounting of changes can be found in the [release notes](https://downloads.haskell.org/ghc/9.14.1-alpha3/docs/users_guide/9.14.1-notes.html). Given the
+many specialisation improvements and their potential for regression, we would
+very much appreciate testing and performance characterisation on downstream
+workloads.
+
+Note that while this release makes many improvements in the specialisation
+optimisation, polymorphic specialisation will remain disabled by default in the
+final release due to concern over regressions of the sort identified in
+[#26329](https://gitlab.haskell.org/ghc/ghc/-/issues/26329). Users needing more aggressive specialisation can explicitly
+enable this feature with the `-fpolymorphic-specialisation` flag. Depending
+upon our experience with 9.14.1, we may enable this feature by default in a
+later minor release.
+
+This is the third alpha release of 9.14.1. This comes later than expected in
+part due to work on a resolving a regression in the macOS 26 ( [#26166](https://gitlab.haskell.org/ghc/ghc/-/issues/26166))
+which threatened the usability of the release. While a complete fix for this
+issue is not present in this alpha, we have done enough work to have confidence
+that it will be in finished for the release candidate which we expect should
+come the week of 27 October.
+
+We would like to thank the Zw3rk stake pool, Well-Typed, Mercury, Channable,
+Tweag I/O, Serokell, SimSpace, the Haskell Foundation, and other anonymous
+contributors whose on-going financial and in-kind support has facilitated GHC
+maintenance and release management over the years. Finally, this release would
+not have been possible without the hundreds of open-source contributors whose
+work have made the Haskell ecosystem what it is today.
+
+As always, do give this release a try and open a [ticket](https://gitlab.haskell.org/ghc/homepage/-/issues/new) if you see
+anything amiss.</source:markdown>
+      <guid>cid://http://haskell.org/ghc/blog/20251007-ghc-9.14.1-alpha3-released.html</guid>
     </item>    <item>
       <title>Claude can write complete Datasette plugins now</title>
       <link>https://simonwillison.net/2025/Oct/8/claude-datasette-plugins/#atom-everything</link>

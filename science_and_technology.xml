@@ -4,10 +4,92 @@
   <channel>
     <title>Science and Technology</title>
     <link>http://localhost:8000/science_and_technologyxml</link>
-    <lastBuildDate>09 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>09 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>It&#39;s trivially easy to poison LLMs into spitting out gibberish, says Anthropic</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/09/its_trivially_easy_to_poison/</link>
+      <description>
+        <![CDATA[<h4>Just 250 malicious training documents can poison a 13B parameter model - that&#39;s 0.00016% of a whole dataset</h4> <p>Poisoning AI models might be way easier than previously thought if an Anthropic study is anything to go on. …</p>]]>
+      </description>
+      <source:markdown>#### Just 250 malicious training documents can poison a 13B parameter model - that&#39;s 0.00016% of a whole dataset
+
+Poisoning AI models might be way easier than previously thought if an Anthropic study is anything to go on. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242402</guid>
+    </item>    <item>
+      <title>Amazon&#39;s Quick Suite is like agentic AI training wheels for enterprises</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/09/amazons_quick_suite/</link>
+      <description>
+        <![CDATA[<h4>Slow down there Andy; you wouldn&#39;t want to bump into any hallucinations</h4> <p>Despite ongoing concerns over the accuracy, reliability, and trustworthiness of AI in the enterprise, Amazon believes that if it can just make building agents easier for the average worker, they&#39;ll be automating the boring parts of their job in no time.…</p>]]>
+      </description>
+      <source:markdown>#### Slow down there Andy; you wouldn&#39;t want to bump into any hallucinations
+
+Despite ongoing concerns over the accuracy, reliability, and trustworthiness of AI in the enterprise, Amazon believes that if it can just make building agents easier for the average worker, they&#39;ll be automating the boring parts of their job in no time.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242401</guid>
+    </item>    <item>
+      <title>Google rearranges Agentspace into Gemini Enterprise</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/09/google_rearranges_agentspace_into_gemini/</link>
+      <description>
+        <![CDATA[<h4>A new spin on workflow automation as Chocolate Factory tries to displace Microsoft as the enterprise go-to</h4> <p>Google on Thursday announced the launch of Gemini Enterprise, a platform for automating business workflows using the company&#39;s Gemini family of machine learning models.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### A new spin on workflow automation as Chocolate Factory tries to displace Microsoft as the enterprise go-to
+
+Google on Thursday announced the launch of Gemini Enterprise, a platform for automating business workflows using the company&#39;s Gemini family of machine learning models.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242403</guid>
+    </item>    <item>
+      <title>A Rare Interstellar Comet Just Flew by Mars—Here Are the Photos Captured by an Orbiting Spacecraft</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-rare-interstellar-comet-just-flew-by-mars-here-are-the-photos-captured-by-an-orbiting-spacecraft-180987484/</link>
+      <description>
+        <![CDATA[The images offer the closest view yet of comet 3I/ATLAS, famous for being only the third known interstellar object to pass through our solar system]]>
+      </description>
+      <source:markdown>The images offer the closest view yet of comet 3I/ATLAS, famous for being only the third known interstellar object to pass through our solar system</source:markdown>
+      <enclosure url="https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6b/16/6b16788a-a04a-48e6-a33d-1f1b330b342f/exomars_trace_gas_orbiter_observes_comet_3i_atlas_gif.gif" length="" type="" />
+    </item>    <item>
+      <title>Crims had 3-month head start on defenders in Oracle EBS invasion</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/09/miscreants_head_start_oracle_ebs_invasion/</link>
+      <description>
+        <![CDATA[<h4>The miscreants started their attack all the way back on July 10</h4> <p>The raid on Oracle E-Business Suite (EBS) likely began as early as July - about three months before any public detections - with extortionists compromising &#34;dozens&#34; of organizations, a Google investigation has determined.…</p>]]>
+      </description>
+      <source:markdown>#### The miscreants started their attack all the way back on July 10
+
+The raid on Oracle E-Business Suite (EBS) likely began as early as July - about three months before any public detections - with extortionists compromising &#34;dozens&#34; of organizations, a Google investigation has determined.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242400</guid>
+    </item>    <item>
+      <title>A Married Couple in New Orleans Found a Stone in Their Backyard. It Turned Out to Be an Ancient Roman Soldier’s Gravestone</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-married-couple-in-new-orleans-found-a-stone-in-their-backyard-it-turned-out-to-be-an-ancient-roman-soldiers-gravestone-180987485/</link>
+      <description>
+        <![CDATA[The piece bears a Latin inscription describing the legionary’s service aboard a warship]]>
+      </description>
+      <source:markdown>The piece bears a Latin inscription describing the legionary’s service aboard a warship</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ywpdfso0j7i7Y2HcbrckfSm5f0A=/420x240/filters:focal(810x540:811x541)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b5/a2/b5a22214-a88e-4db2-a5e4-f98bc23c4f87/roman-headstone-in-carrollton-4-scaled-e1758294904894-1920x1080.jpeg" length="" type="" />
+    </item>    <item>
+      <title>This is your brain on bots: AI interaction may hurt students more than it helps</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/09/ai_interactions_us_students/</link>
+      <description>
+        <![CDATA[<h4>More kids see AI as a friend or romantic interest, but few teachers know how to deal with the fallout, study finds</h4> <p>Today&#39;s students are using AI for everything from tutoring to therapy to romance. A new study warns the tech may be dulling kids&#39; social skills quietly, like booze on the brain.…</p>]]>
+      </description>
+      <source:markdown>#### More kids see AI as a friend or romantic interest, but few teachers know how to deal with the fallout, study finds
+
+Today&#39;s students are using AI for everything from tutoring to therapy to romance. A new study warns the tech may be dulling kids&#39; social skills quietly, like booze on the brain.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242399</guid>
+    </item>    <item>
+      <title>Nigeria’s Independence From England Brought Artistic Revolution. For the First Time, England Is Showcasing It</title>
+      <link>https://www.smithsonianmag.com/smart-news/nigerias-independence-from-england-brought-artistic-revolution-for-the-first-time-england-is-showcasing-it-180987490/</link>
+      <description>
+        <![CDATA["Nigerian Modernism," a new exhibition at the Tate Modern, celebrates 50-plus artists spanning more than half a century]]>
+      </description>
+      <source:markdown>&#34;Nigerian Modernism,&#34; a new exhibition at the Tate Modern, celebrates 50-plus artists spanning more than half a century</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/d35DI-VePPnXsHfuao_PW0ABGCs=/420x240/filters:focal(1250x833:1251x834)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ae/50/ae501cc7-12af-4339-9ce6-193d3149630d/nigerian_modernism_press_tm_2025_008.jpeg" length="" type="" />
+    </item>    <item>
+      <title>Here&#39;s How to See Two Comets and a Meteor Shower Light Up the Sky This Month</title>
+      <link>https://www.smithsonianmag.com/smart-news/heres-how-to-see-two-comets-and-a-meteor-shower-light-up-the-sky-this-month-180987456/</link>
+      <description>
+        <![CDATA[Skywatchers are anticipating prime viewing conditions for an annual showing of shooting stars and two comet flybys]]>
+      </description>
+      <source:markdown>Skywatchers are anticipating prime viewing conditions for an annual showing of shooting stars and two comet flybys</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/cv8Gftm_Fr6hkI0QupdzhYye5DI=/420x240/filters:focal(1024x770:1025x771)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/14/a2/14a25fd7-16c1-4159-97e0-fada4bd6c69a/54829455105_1938277557_k.jpg" length="" type="" />
+    </item>    <item>
       <title>Space Shuttle war of words takes off as senator blasts &#39;woke Smithsonian&#39;</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/09/cornyn_smithsonian_shuttle_comments/</link>
       <description>
