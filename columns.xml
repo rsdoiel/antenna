@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>10 Oct 25 14:49 -0700</lastBuildDate>
+    <lastBuildDate>10 Oct 25 15:00 -0700</lastBuildDate>
     <generator>antenna/0.0.11</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -763,6 +763,10 @@ La entrada [Las películas más esperadas del BIFF 2025](https://www.palomitadem
 [adactio.com/links/22180](https://adactio.com/links/22180)</source:markdown>
       <guid>cid://https://hojberg.xyz/the-programmer-identity-crisis/</guid>
     </item>    <item>
+      <title>Apple Banned an App That Simply Archived Videos of ICE Abuses</title>
+      <link>https://www.404media.co/apple-banned-an-app-that-simply-archived-videos-of-ice-abuses/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42253</guid>
+    </item>    <item>
       <link>https://houston.wordcamp.org/2020/what-in-the-world-is-a-wapuu/</link>
       <description>
         <![CDATA[<p>What in the World is a Wapuu?</p>]]>
@@ -1103,13 +1107,6 @@ The post [The Official Raspberry Pi Handbook 2026 is here!](https://www.raspberr
       </description>
       <source:markdown>In this episode, Mark chats with Aurelio Volle from WPUmbrella about his journey in creating a WordPress management tool, maintaining customer focus, and the importance of community and transparency in business growth.</source:markdown>
       <guid>cid://https://openchannels.fm/?p=110936</guid>
-    </item>    <item>
-      <link>https://doc.searls.com/2025/10/01/why-i-am-here-instead-of-substack/</link>
-      <description>
-        <![CDATA[<p>Doc Searls: Why I am Here Instead of on Substack. I wanted to use Substack to send out my nightly emails, but found I’d have to type the text I wanted to send into their editor. I’m not a professional typist. So I created my own mail sending software.</p>]]>
-      </description>
-      <source:markdown>Doc Searls: Why I am Here Instead of on Substack. I wanted to use Substack to send out my nightly emails, but found I’d have to type the text I wanted to send into their editor. I’m not a professional typist. So I created my own mail sending software.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/09/1453/</guid>
     </item>    <item>
       <title>Lit Hub Daily: October 9, 2025</title>
       <link>https://lithub.com/lit-hub-daily-october-9-2025/</link>
@@ -2085,14 +2082,6 @@ And CodingHorror had also a nice post on it:
       <title>The Family of Migrants is a new book &#38; museum exhibition that...</title>
       <link>https://kottke.org/25/10/0047679-the-family-of-migrants-is</link>
       <guid>cid://tag:kottke.org,2025://13.47679</guid>
-    </item>    <item>
-      <title>Apple Banned an App That Simply Archived Videos of ICE Abuses</title>
-      <link>https://www.404media.co/apple-banned-an-app-that-simply-archived-videos-of-ice-abuses/</link>
-      <description>
-        <![CDATA[Eyes Up's purpose is to "preserve evidence until it can be used in court." But it has been swept up in Apple's crackdown on ICE-spotting apps.]]>
-      </description>
-      <source:markdown>Eyes Up&#39;s purpose is to &#34;preserve evidence until it can be used in court.&#34; But it has been swept up in Apple&#39;s crackdown on ICE-spotting apps.</source:markdown>
-      <guid>cid://68e6b4f68635ce000140eba0</guid>
     </item>    <item>
       <link>https://www.reuters.com/world/us/most-americans-dont-want-troops-deployed-without-an-external-threat-reutersipsos-2025-10-08/</link>
       <description>
@@ -8410,6 +8399,14 @@ Wednesday session</source:markdown>
       <title>Note published on October 1, 2025 at 7:24 PM UTC</title>
       <link>https://www.mollywhite.net/micro/entry/202510011522</link>
       <guid>cid://68dd7ff2c07d15a03fd1b4ce</guid>
+    </item>    <item>
+      <title>Why I am Here Instead of on Substack</title>
+      <link>https://doc.searls.com/2025/10/01/why-i-am-here-instead-of-substack/</link>
+      <description>
+        <![CDATA[This blog is mine. While it is hosted somewhere, it could be anywhere. The main thing: it isn&#8217;t on a platform, and doesn&#8217;t have to be. I publish it on my own, and syndicate it through RSS. This puts me in a publishing ecosystem that is wide open and full of interop. If you want [&#8230;]]]>
+      </description>
+      <source:markdown>This blog is mine. While it is hosted somewhere, it could be anywhere. The main thing: it isn’t on a platform, and doesn’t have to be. I publish it on my own, and syndicate it through RSS. This puts me in a publishing ecosystem that is wide open and full of interop. If you want \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/?p=19507</guid>
     </item>    <item>
       <title>From Haymarket Books, an Abolish the Border, Abolish the Police Reading List....</title>
       <link>https://kottke.org/25/10/0047626-from-haymarket-books-an-a</link>
