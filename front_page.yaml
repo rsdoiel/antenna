@@ -1,9 +1,9 @@
 link:
   - rel: stylesheet
     href: css/site.css
-#script:
-#  - type: module
-#    src: modules/date_filter.js
+script:
+  - type: module
+    src: modules/date_filter.js
 header: |
   <img class="logo" 
       src="./media/Antenna_1_-_The_Noun_Project.svg"
@@ -31,9 +31,6 @@ nav: |
 
 top_content: |
   <div class="article-filter">Filter by date: <input id="filter-by-date" type="date"></div>
-bottom_content: |
-  <script type="module" src="modules/date_filter.js"></script>
-
 footer: |
   Antenna is a personal aggregation of items found around the web.<br>
   Curated with <a href="https://rsdoiel.github.io/antennaApp">antennaApp</a>.
