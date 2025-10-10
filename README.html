@@ -1,13 +1,10 @@
 <!doctype html>
 <html lang="en-US">
 <head>
-  <meta charset="UTF-8" />
-  <link  rel="alternate" type="text/markdown" href="README.md" title=""/>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="css/site.css" />
-  <script type="module" src="modules/date_filter.js"></script>
-  <meta name="generator" content="antenna/0.0.9">
-  <meta name="date" content="2025-10-10T11:10:49-07:00">
+  <meta charset="utf-8" />
+  <meta content="antenna/0.0.11" name="generator" />
+  <meta name="date" content="2025-10-10T13:51:22-07:00" />
+  <link rel="altenate" type="text/markdown" title="" href="README.md" />
 </head>
 <body>
   <header>
@@ -28,47 +25,45 @@
   </nav>
 
   <section>
-    <article data-published="" data-link="">
-      <h1 id="antenna">Antenna</h1>
-      <p>Antenna is software for rendering a Personal News website. It demonstrates aggregating news content via web feeds (example RSS, Atom and JSON feeds) for personal use. Antenna is software that implements a static website <a href="https://en.wikipedia.org/wiki/Linklog">LinkBlog</a>. I use it to read the web content I follow. Antenna demonstrates that aggregating news can be done by an individual with a little effort and a few tools. No one really needs to rely on large internet companies to be informed or to keep up to date. The resulting website can be hosted locally on your computer or on a static website hosting service (example GitHub, GitLab, BitBucket).</p>
-      <h2 id="tools-to-build-this-aggregation">Tools to build this aggregation</h2>
-      <ul>
-      <li>Bash &gt;= 5 (macOS, Linux, Raspberry Pi OS) or PowerShell 7 (for Windows)</li>
-      <li>SQLite &gt; 3.40</li>
-      <li>antennaApp &gt;= 0.0.9</li>
-      </ul>
-      <p>NOTE: The publish.bash and publish.ps1 scripts require Git to publish to GitHub.</p>
-      <p>There are many ways to run a localhost web server but <a href="https://github.com/rsdoiel/antennaApp/releases">antenna preview</a>, provides a &quot;preview&quot; command for macOS, Linux, Raspberry OS and Windows. It lets you view the staged site on localhost:8000. The port can be changed in the antenna.yaml configuration.</p>
-      <h2 id="the-moving-parts">The moving parts</h2>
-      <p><a href="https://rsdoiel.github.io/antennaApp">antennaApp</a> is a feed oriented static content engine. It can havest one or more collections of feeds and render aggregated HTML pages and RSS 2.0 feeds. It can also be used to &quot;post&quot; Markdown document into a feed. It uses SQLite3 database files to store the feed content. The app provides means to add, remove, harvest and generated pages.</p>
-      <p>Make sure you have the software installed.</p>
-      <ul>
-      <li>check_for_software.bash (check_for_software.ps1 on Windows)</li>
-      </ul>
-      <p>Here's my regular build steps</p>
-      <ol>
-      <li><code>antenna harvest</code> will harvest all the feeds for your collections</li>
-      <li>website.bash (website.ps1 for Windows)</li>
-      <li><code>antenna preview</code> to view the staged content (e.g. http://localhost:8000)</li>
-      <li>View with my favorite web browser</li>
-      </ol>
-      <h2 id="details">Details</h2>
-      <p>The <a href="https://rsdoiel.github.io/antennaApp">antennaApp</a> does the heavly lifting to produce the Antenna website. It operates on collections of feeds. Each collection is defined by a Markdown document that includes a list of links to the RSS, Atom or JSON feeds. Each collection is rendered to HTML and RSS 2.0 feeds in aggregation.  The feed items are managed in SQLite3 databases, one per collection. This filtering SQL for rendering the aggregation per collection is defined in the antenna.yaml file. See the antennaApp documentation for details.</p>
-      <h2 id="adding-a-feed">Adding a feed</h2>
-      <p>To add a feed you need to create a Markdown document that has a list of zero or more links that point to RSS, Atom or JSON feeds. Example.</p>
-      <pre><code class="language-Markdown">- [Robert's blog](http://rsdoiel.github.io/rss.xml &quot;Robert's blog feed&quot;)
-      </code></pre>
-      <p>You can include additional front matter to populate the resulting channel elements in the RSS 2.0 file rendered for the collection.</p>
-      <p>To add the feed to an Antenna site you the &quot;add&quot; action. If the Markdown document was called &quot;myblog.md&quot; you'd add it to the site with the following.</p>
-      <pre><code class="language-shell">antenna add myblog.md
-      </code></pre>
-      <p>Then the next time you harvest or generate the feeds in &quot;myblog.md&quot; will be included.</p>
-      <h2 id="how-to-customize-antenna-for-own-use">How to Customize Antenna for own use</h2>
-      <p>My hope is people will run their own Antenna instances.  The easiest way to do this is to fork this repository and customize to your needs. Another way is to download the latest release of Antenna from GitHub, installed the required software (e.g. antennaApp, Pandoc). Then customize the Markdown pages and the YAML configuration files. You can add your own CSS and JavaScript as you like. Theme your site is mostly matter of CSS and possibly JavaScript ES6 modules. Some markup is contained in the front_page.yaml file for feeds and the Markdown rendering is controlled by the Pandoc template called front_page.tmpl.</p>
-      <p>You could even embed your Antenna in another website.</p>
-      <p>My proof of concept Antenna is visible at <a href="https://rsdoiel.github.io/antenna/">https://rsdoiel.github.io/antenna/</a>.</p>
-      
-    </article>
+    <h1>Antenna</h1>
+    <p>Antenna is software for rendering a Personal News website. It demonstrates aggregating news content via web feeds (example RSS, Atom and JSON feeds) for personal use. Antenna is software that implements a static website <a href="https://en.wikipedia.org/wiki/Linklog">LinkBlog</a>. I use it to read the web content I follow. Antenna demonstrates that aggregating news can be done by an individual with a little effort and a few tools. No one really needs to rely on large internet companies to be informed or to keep up to date. The resulting website can be hosted locally on your computer or on a static website hosting service (example GitHub, GitLab, BitBucket).</p>
+    <h2>Tools to build this aggregation</h2>
+    <ul>
+    <li>Bash &gt;= 5 (macOS, Linux, Raspberry Pi OS) or PowerShell 7 (for Windows)</li>
+    <li>SQLite &gt; 3.40</li>
+    <li>antennaApp &gt;= 0.0.9</li>
+    </ul>
+    <p>NOTE: The publish.bash and publish.ps1 scripts require Git to publish to GitHub.</p>
+    <p>There are many ways to run a localhost web server but <a href="https://github.com/rsdoiel/antennaApp/releases">antenna preview</a>, provides a &quot;preview&quot; command for macOS, Linux, Raspberry OS and Windows. It lets you view the staged site on localhost:8000. The port can be changed in the antenna.yaml configuration.</p>
+    <h2>The moving parts</h2>
+    <p><a href="https://rsdoiel.github.io/antennaApp">antennaApp</a> is a feed oriented static content engine. It can havest one or more collections of feeds and render aggregated HTML pages and RSS 2.0 feeds. It can also be used to &quot;post&quot; Markdown document into a feed. It uses SQLite3 database files to store the feed content. The app provides means to add, remove, harvest and generated pages.</p>
+    <p>Make sure you have the software installed.</p>
+    <ul>
+    <li>check_for_software.bash (check_for_software.ps1 on Windows)</li>
+    </ul>
+    <p>Here's my regular build steps</p>
+    <ol>
+    <li><code>antenna harvest</code> will harvest all the feeds for your collections</li>
+    <li>website.bash (website.ps1 for Windows)</li>
+    <li><code>antenna preview</code> to view the staged content (e.g. http://localhost:8000)</li>
+    <li>View with my favorite web browser</li>
+    </ol>
+    <h2>Details</h2>
+    <p>The <a href="https://rsdoiel.github.io/antennaApp">antennaApp</a> does the heavly lifting to produce the Antenna website. It operates on collections of feeds. Each collection is defined by a Markdown document that includes a list of links to the RSS, Atom or JSON feeds. Each collection is rendered to HTML and RSS 2.0 feeds in aggregation.  The feed items are managed in SQLite3 databases, one per collection. This filtering SQL for rendering the aggregation per collection is defined in the antenna.yaml file. See the antennaApp documentation for details.</p>
+    <h2>Adding a feed</h2>
+    <p>To add a feed you need to create a Markdown document that has a list of zero or more links that point to RSS, Atom or JSON feeds. Example.</p>
+    <pre><code class="language-Markdown">- [Robert's blog](http://rsdoiel.github.io/rss.xml &quot;Robert's blog feed&quot;)
+    </code></pre>
+    <p>You can include additional front matter to populate the resulting channel elements in the RSS 2.0 file rendered for the collection.</p>
+    <p>To add the feed to an Antenna site you the &quot;add&quot; action. If the Markdown document was called &quot;myblog.md&quot; you'd add it to the site with the following.</p>
+    <pre><code class="language-shell">antenna add myblog.md
+    </code></pre>
+    <p>Then the next time you harvest or generate the feeds in &quot;myblog.md&quot; will be included.</p>
+    <h2>How to Customize Antenna for own use</h2>
+    <p>My hope is people will run their own Antenna instances.  The easiest way to do this is to fork this repository and customize to your needs. Another way is to download the latest release of Antenna from GitHub, installed the required software (e.g. antennaApp, Pandoc). Then customize the Markdown pages and the YAML configuration files. You can add your own CSS and JavaScript as you like. Theme your site is mostly matter of CSS and possibly JavaScript ES6 modules. Some markup is contained in the front_page.yaml file for feeds and the Markdown rendering is controlled by the Pandoc template called front_page.tmpl.</p>
+    <p>You could even embed your Antenna in another website.</p>
+    <p>My proof of concept Antenna is visible at <a href="https://rsdoiel.github.io/antenna/">https://rsdoiel.github.io/antenna/</a>.</p>
+    
   </section>
   <footer>
     Antenna is a personal aggregation of items found around the web.<br>

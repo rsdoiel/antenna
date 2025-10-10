@@ -4,10 +4,25 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>http://localhost:8000/journalismxml</link>
-    <lastBuildDate>10 Oct 25 11:10 -0700</lastBuildDate>
-    <generator>antenna/0.0.9</generator>
+    <lastBuildDate>10 Oct 25 13:51 -0700</lastBuildDate>
+    <generator>antenna/0.0.11</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Editorial Cartoon: “The Bruin Walking Dead”</title>
+      <link>https://dailybruin.com/2025/10/10/editorial-cartoon-the-bruin-walking-dead/</link>
+      <description>
+        <![CDATA[&#160;]]>
+      </description>
+      <guid>cid://https://dailybruin.com/?p=494663</guid>
+    </item>    <item>
+      <title>Toxic site cleanup agreements laid to rest at funeral demonstration</title>
+      <link>https://sundial.csun.edu/198411/news/toxic-site-cleanup-agreements-laid-to-rest-at-funeral-demonstration/</link>
+      <description>
+        <![CDATA[Protestors gathered at the Rancho Santa Susana Community Center in Simi Valley on Oct. 7 in protest of the Santa Susana Field Laboratory (SSFL) cleanup agreements not being honored. Attendees...]]>
+      </description>
+      <source:markdown>Protestors gathered at the Rancho Santa Susana Community Center in Simi Valley on Oct. 7 in protest of the Santa Susana Field Laboratory (SSFL) cleanup agreements not being honored. Attendees...</source:markdown>
+      <guid>cid://https://sundial.csun.edu/?p=198411</guid>
+    </item>    <item>
       <title>Daily Bruin Print Issue – Oct. 10, 2025</title>
       <link>https://dailybruin.com/2025/10/10/daily-bruin-print-issue-oct-10-2025/</link>
       <description>
@@ -21,8 +36,8 @@
       <title>UCLA men’s soccer tries to find momentum ahead of Penn State matchup</title>
       <link>https://dailybruin.com/2025/10/10/ucla-mens-soccer-tries-to-find-momentum-ahead-of-penn-state-matchup/</link>
       <description>
-        <![CDATA[Structure and control &#8211; a phrase which echoes through the homes of &#8217;90s VHS guitar-playing heartthrobs &#8211; is foundational to a team&#8217;s success.
-        The pillars of structure and control are what seventh-year coach Ryan Jorden enjoyed most about his team&#8217;s performance in its goalless draw with then-No.]]>
+        <![CDATA[Structure and control – a phrase which echoes through the homes of &#8217;90s VHS guitar-playing heartthrobs – is foundational to a team’s success.
+        The pillars of structure and control are what seventh-year coach Ryan Jorden enjoyed most about his team’s performance in its goalless draw with then-No.]]>
       </description>
       <source:markdown>Structure and control – a phrase which echoes through the homes of ’90s VHS guitar-playing heartthrobs – is foundational to a team’s success.
 The pillars of structure and control are what seventh-year coach Ryan Jorden enjoyed most about his team’s performance in its goalless draw with then-No.</source:markdown>

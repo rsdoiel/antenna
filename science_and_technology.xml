@@ -4,10 +4,38 @@
   <channel>
     <title>Science and Technology</title>
     <link>http://localhost:8000/science_and_technologyxml</link>
-    <lastBuildDate>10 Oct 25 11:10 -0700</lastBuildDate>
-    <generator>antenna/0.0.9</generator>
+    <lastBuildDate>10 Oct 25 13:51 -0700</lastBuildDate>
+    <generator>antenna/0.0.11</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>OpenAI GPT-5: great taste, less filling, now with 30% less bias</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/openai_gpt5_bias/</link>
+      <description>
+        <![CDATA[<h4>AI model maker touts effort to depoliticize its product</h4> <p>OpenAI says GPT-5 has 30 percent less political bias than its prior AI models.…</p>]]>
+      </description>
+      <source:markdown>#### AI model maker touts effort to depoliticize its product
+
+OpenAI says GPT-5 has 30 percent less political bias than its prior AI models.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242426</guid>
+    </item>    <item>
+      <title>Managers are throwing entry-level workers under the bus in race to adopt AI</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/ai_is_displacing_entrylevel_professionals/</link>
+      <description>
+        <![CDATA[<h4>Does it work? Inconclusive. Still, 55% of business leaders say that adopting AI is worth the impact on workers</h4> <p><strong>ai-pocalypse</strong>  Business leaders are racing to jump aboard the AI bandwagon, and a new study from the British Standards Institute suggests young college grads are being hit hardest.…</p>]]>
+      </description>
+      <source:markdown>#### Does it work? Inconclusive. Still, 55% of business leaders say that adopting AI is worth the impact on workers
+
+**ai-pocalypse**  Business leaders are racing to jump aboard the AI bandwagon, and a new study from the British Standards Institute suggests young college grads are being hit hardest.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242425</guid>
+    </item>    <item>
+      <title>Scientists Watch Fungi Evolve in Real Time, Thanks to a Marriage Proposal in a Cheese Cave</title>
+      <link>https://www.smithsonianmag.com/smart-news/scientists-watch-fungi-evolve-in-real-time-thanks-to-a-marriage-proposal-in-a-cheese-cave-180987491/</link>
+      <description>
+        <![CDATA[A new study pinpoints a disruption in a gene that made a beloved blue cheese's rind go from green to white]]>
+      </description>
+      <source:markdown>A new study pinpoints a disruption in a gene that made a beloved blue cheese&#39;s rind go from green to white</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/7EWDkJCJSnjwxxihKrNKnVOzsF4=/420x240/filters:focal(350x230:351x231)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/96/31/96316ba0-ea3d-46a3-917a-ec28d7df2df4/low-res_photos_of_cheese_wheels_in_2016_on_left_and_in_2022_on_right.jpg" length="" type="" />
+    </item>    <item>
       <title>Ransomware crims that exploited SharePoint 0-days add Velociraptor to their arsenal</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/ransomware_velociraptor/</link>
       <description>

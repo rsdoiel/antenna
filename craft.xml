@@ -8,8 +8,8 @@
       Do we really need all those power tools?
     </description>
     <link>http://localhost:8000/craftxml</link>
-    <lastBuildDate>10 Oct 25 11:10 -0700</lastBuildDate>
-    <generator>antenna/0.0.9</generator>
+    <lastBuildDate>10 Oct 25 13:51 -0700</lastBuildDate>
+    <generator>antenna/0.0.11</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>The Splinter Report: October 10th</title>

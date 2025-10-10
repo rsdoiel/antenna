@@ -7,8 +7,8 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>http://localhost:8000/columnsxml</link>
-    <lastBuildDate>10 Oct 25 11:10 -0700</lastBuildDate>
-    <generator>antenna/0.0.9</generator>
+    <lastBuildDate>10 Oct 25 13:51 -0700</lastBuildDate>
+    <generator>antenna/0.0.11</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>Example Talk</title>
@@ -37,6 +37,46 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Apple Newsroom on the Immersive Vision Pro Lakers Broadcasts</title>
+      <link>https://www.apple.com/newsroom/2025/10/spectrum-brings-nba-games-in-apple-immersive-to-apple-vision-pro/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42256</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2uiru4kik22</link>
+      <description>
+        <![CDATA[Dave Winer links to this hacker news thread, https://news.ycombinator.com/item?id=45517134
+        
+        This got me thinking about how many people are using SQLite3 to store channel/item info (inspired by Newsboat) & rendering HTML pages of aggregated content.
+        
+        Bet there are lots of "reader" websites out there.]]>
+      </description>
+      <source:markdown>Dave Winer links to this hacker news thread, https://news.ycombinator.com/item?id=45517134
+
+This got me thinking about how many people are using SQLite3 to store channel/item info (inspired by Newsboat) &#38; rendering HTML pages of aggregated content.
+
+Bet there are lots of &#34;reader&#34; websites out there.</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m2uiru4kik22</guid>
+    </item>    <item>
+      <title>The Underscore Music Player</title>
+      <link>https://kottke.org/25/10/the-underscore-music-player</link>
+      <guid>cid://tag:kottke.org,2025://5.47700</guid>
+    </item>    <item>
+      <title>October 9, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-9-2025-714</link>
+      <enclosure url="https://api.substack.com/feed/podcast/175832150/3235d06a2604c298e5eb7bad6a41c946.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-9-2025-714</guid>
+    </item>    <item>
+      <title>Minute/Year is an art piece/installation where the sound occurring in a space...</title>
+      <link>https://kottke.org/25/10/0047686-minuteyear-is-an-art-piec</link>
+      <guid>cid://tag:kottke.org,2025://13.47686</guid>
+    </item>    <item>
+      <title>This week’s news in Venn diagrams.</title>
+      <link>https://lithub.com/this-weeks-news-in-venn-diagrams-oct-10/</link>
+      <description>
+        <![CDATA[Fittingly for the news of a new Moomin movie this week, today is Finnish Literature Day. Maybe break out some Tove Jansson, Frans Eemil Sillanpää, or Väinö Linna this weekend to celebrate? Or go all the way back and read]]>
+      </description>
+      <source:markdown>Fittingly for the news of a new Moomin movie this week, today is Finnish Literature Day. Maybe break out some Tove Jansson, Frans Eemil Sillanpää, or Väinö Linna this weekend to celebrate? Or go all the way back and read</source:markdown>
+      <guid>cid://https://lithub.com/?p=261000</guid>
     </item>    <item>
       <title>Missed this from a few days ago: the winners of the 2025...</title>
       <link>https://kottke.org/25/10/0047699-missed-this-from-a-few</link>
@@ -681,9 +721,9 @@ La entrada [Las películas más esperadas del BIFF 2025](https://www.palomitadem
       <title>Complying With Texas Age Verification</title>
       <link>https://mjtsai.com/blog/2025/10/09/complying-with-texas-age-verification/</link>
       <description>
-        <![CDATA[Apple (MacRumors): Beginning January 1, 2026, a new state law in Texas &#8212; SB2420 &#8212; introduces age assurance requirements for app marketplaces and developers. While we share the goal of strengthening kids&#8217; online safety, we are concerned that SB2420 impacts the privacy of users by requiring the collection of sensitive, personally identifiable information to download [&#8230;]]]>
+        <![CDATA[Apple (MacRumors, Slashdot): Beginning January 1, 2026, a new state law in Texas &#8212; SB2420 &#8212; introduces age assurance requirements for app marketplaces and developers. While we share the goal of strengthening kids&#8217; online safety, we are concerned that SB2420 impacts the privacy of users by requiring the collection of sensitive, personally identifiable information to [&#8230;]]]>
       </description>
-      <source:markdown>Apple (MacRumors): Beginning January 1, 2026, a new state law in Texas — SB2420 — introduces age assurance requirements for app marketplaces and developers. While we share the goal of strengthening kids’ online safety, we are concerned that SB2420 impacts the privacy of users by requiring the collection of sensitive, personally identifiable information to download \[…\]</source:markdown>
+      <source:markdown>Apple (MacRumors, Slashdot): Beginning January 1, 2026, a new state law in Texas — SB2420 — introduces age assurance requirements for app marketplaces and developers. While we share the goal of strengthening kids’ online safety, we are concerned that SB2420 impacts the privacy of users by requiring the collection of sensitive, personally identifiable information to \[…\]</source:markdown>
       <guid>cid://https://mjtsai.com/blog/?p=49590</guid>
     </item>    <item>
       <title>French Siri Spying Lawsuit</title>
