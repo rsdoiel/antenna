@@ -19,6 +19,7 @@ description: Blogs, columns and snapshots from around the web.
 - [Peter Sefton's Blog](https://ptsefton.com/feed/atom)
 - [Daniel Stenberg Blog](https://daniel.haxx.se/blog/feed/)
 - [Daring Fireball](https://daringfireball.net/feeds/main)
+- [The Talkshow with John Grubber](https://daringfireball.net/thetalkshow/rss)
 - [Bruce Schneier blog](https://www.schneier.com/feed/atom/)
 - [Robert Reich's blog](https://robertreich.substack.com/feed)
 - [Paolo Valdemarin's blog](https://val.demar.in/feed/)
