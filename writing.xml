@@ -4,7 +4,7 @@
   <channel>
     <title>Writing</title>
     <link>http://localhost:8000/writingxml</link>
-    <lastBuildDate>09 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>10 Oct 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -115,14 +115,6 @@ The post [Writing for microdramas, aka verticals](https://johnaugust.com/2025/wr
 The post [Short Films and Existential Threats](https://johnaugust.com/2025/short-films-and-existential-threats) first appeared on [John August](https://johnaugust.com).</source:markdown>
       <enclosure url="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/705standard.mp3" length="5242880" type="audio/mpeg" />
       <guid>cid://https://johnaugust.com/?p=23466</guid>
-    </item>    <item>
-      <title>Are Copyright Anxiety and Legal Chill Hampering Your Work?</title>
-      <link>https://www.authorsalliance.org/2025/09/18/are-copyright-anxiety-and-legal-chill-hampering-your-work/</link>
-      <description>
-        <![CDATA[This is guest post by Amanda Wakaruk, Jane Secker, and Chris Morrison. Readers of this blog will know that authors are both users and creators of copyright-protected works. How confident are authors about their rights related to copyright? Is the fear of navigating copyright preventing non-infringing ‘user’ activities in higher education? What can we do to mitigate the damage to teaching and research caused by copyright anxiety and chill?]]>
-      </description>
-      <source:markdown>This is guest post by Amanda Wakaruk, Jane Secker, and Chris Morrison. Readers of this blog will know that authors are both users and creators of copyright-protected works. How confident are authors about their rights related to copyright? Is the fear of navigating copyright preventing non-infringing ‘user’ activities in higher education? What can we do to mitigate the damage to teaching and research caused by copyright anxiety and chill?</source:markdown>
-      <guid>cid://https://www.authorsalliance.org/?p=12175</guid>
     </item>
   </channel>
 </rss>
