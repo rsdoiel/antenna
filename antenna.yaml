@@ -1,6 +1,6 @@
 port: 8000
 htdocs: .
-baseUrl: https://rsdoiel.github.io/antenna
+base_url: https://rsdoiel.github.io/antenna
 generator: home_page.yaml
 collections:
     - title: Columns
