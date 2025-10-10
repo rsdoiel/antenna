@@ -1,6 +1,9 @@
-css: css/site.css
-modules:
-  - modules/date_filter.js
+link:
+  - rel: stylesheet
+    href: css/site.css
+script:
+  - type: module
+    src: modules/date_filter.js
 header: |
   <img class="logo" 
       src="./media/Antenna_1_-_The_Noun_Project.svg"

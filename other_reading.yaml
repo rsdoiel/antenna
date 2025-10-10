@@ -2,9 +2,12 @@
 # I've included most of what I include in my own Antenna.
 
 # These are elements rendered in the HTML head element
-css: css/site.css
-modules:
-  - modules/date_filter.js
+link:
+  - rel: stylesheet
+    href: css/site.css
+script:
+  - type: module
+    src: modules/date_filter.js
 
 # What follows are rendered in the HTML body element
 header: |
