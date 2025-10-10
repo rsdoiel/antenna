@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>http://localhost:8000/columnsxml</link>
-    <lastBuildDate>10 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>10 Oct 25 09:06 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,21 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/10.html#a135904</link>
+      <description>
+        <![CDATA[Today's song: <a href="https://www.youtube.com/watch?v=u3QZVdqUidw">Oh My Love</a>, by John Lennon. I was trying to remember this song. It kept eluding me. It's not one of his most famous ones. It is the clearest theme for what you experience when you fall in love. Clarity. Endless possibility. At home in your life. For the first time.]]>
+      </description>
+      <source:markdown>Today&#39;s song: [Oh My Love](https://www.youtube.com/watch?v=u3QZVdqUidw), by John Lennon. I was trying to remember this song. It kept eluding me. It&#39;s not one of his most famous ones. It is the clearest theme for what you experience when you fall in love. Clarity. Endless possibility. At home in your life. For the first time.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/10.html#a135904</guid>
+    </item>    <item>
+      <title>Can You Recommend a Good Bookmark Manager?</title>
+      <link>https://kottke.org/25/10/can-you-recommend-a-good-bookmark-manager</link>
+      <guid>cid://tag:kottke.org,2025://5.47697</guid>
+    </item>    <item>
+      <title>Venezuelan opposition leader María Corina Machado wins the Nobel Peace Prize. &#38;#8220;When...</title>
+      <link>https://kottke.org/25/10/0047696-venezuelan-opposition-lea</link>
+      <guid>cid://tag:kottke.org,2025://13.47696</guid>
     </item>    <item>
       <link>https://daveverse.org/2025/10/10/my-favorite-apple-2/</link>
       <description>
@@ -530,6 +545,10 @@ La entrada [Las películas más esperadas del BIFF 2025](https://www.palomitadem
 
 [adactio.com/links/22180](https://adactio.com/links/22180)</source:markdown>
       <guid>cid://https://hojberg.xyz/the-programmer-identity-crisis/</guid>
+    </item>    <item>
+      <title>Apple Banned an App That Simply Archived Videos of ICE Abuses</title>
+      <link>https://www.404media.co/apple-banned-an-app-that-simply-archived-videos-of-ice-abuses/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42253</guid>
     </item>    <item>
       <link>https://houston.wordcamp.org/2020/what-in-the-world-is-a-wapuu/</link>
       <description>
@@ -1038,6 +1057,13 @@ So [get yourself a ticket for Web Day Out](https://ti.to/clearleft/web-day-out).
 
 I guarantee you’ll hear about some magnificent techniques that will allow you to rip out plenty of complex code in favour of letting the browser do the work.</source:markdown>
       <guid>cid://https://adactio.com/journal/22178</guid>
+    </item>    <item>
+      <link>https://openchannels.fm/why-linking-and-permalinks-are-the-backbone-of-the-open-web/</link>
+      <description>
+        <![CDATA[“If you offer users a way to write, but you don’t provide for linking, then you are not on the web.”]]>
+      </description>
+      <source:markdown>“If you offer users a way to write, but you don’t provide for linking, then you are not on the web.”</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/09/1451/</guid>
     </item>    <item>
       <link>https://www.espn.com/mlb/story/_/id/46539244/yankees-stunned-championship-aspirations-dashed-alds</link>
       <description>
@@ -1853,14 +1879,6 @@ And CodingHorror had also a nice post on it:
       <title>The Family of Migrants is a new book &#38; museum exhibition that...</title>
       <link>https://kottke.org/25/10/0047679-the-family-of-migrants-is</link>
       <guid>cid://tag:kottke.org,2025://13.47679</guid>
-    </item>    <item>
-      <title>Apple Banned an App That Simply Archived Videos of ICE Abuses</title>
-      <link>https://www.404media.co/apple-banned-an-app-that-simply-archived-videos-of-ice-abuses/</link>
-      <description>
-        <![CDATA[Eyes Up's purpose is to "preserve evidence until it can be used in court." But it has been swept up in Apple's crackdown on ICE-spotting apps.]]>
-      </description>
-      <source:markdown>Eyes Up&#39;s purpose is to &#34;preserve evidence until it can be used in court.&#34; But it has been swept up in Apple&#39;s crackdown on ICE-spotting apps.</source:markdown>
-      <guid>cid://68e6b4f68635ce000140eba0</guid>
     </item>    <item>
       <link>https://www.reuters.com/world/us/most-americans-dont-want-troops-deployed-without-an-external-threat-reutersipsos-2025-10-08/</link>
       <description>
@@ -4401,14 +4419,6 @@ Tags: [web](https://simonwillison.net/tags/web), [tim-berners-lee](https://simon
       <title>We Are Not Fascists, and If You Call Us Fascists, We Will...</title>
       <link>https://kottke.org/25/10/0047653-we-are-not-fascists-and</link>
       <guid>cid://tag:kottke.org,2025://13.47653</guid>
-    </item>    <item>
-      <title>Why Linking and Permalinks Are the Backbone of the Open Web</title>
-      <link>https://openchannels.fm/why-linking-and-permalinks-are-the-backbone-of-the-open-web/</link>
-      <description>
-        <![CDATA[Dave Winer talks about the open web's basics, emphasizing that linking is crucial for real connection. Platforms limiting links miss out on that vibrant web experience.]]>
-      </description>
-      <source:markdown>Dave Winer talks about the open web&#39;s basics, emphasizing that linking is crucial for real connection. Platforms limiting links miss out on that vibrant web experience.</source:markdown>
-      <guid>cid://https://openchannels.fm/?p=110377</guid>
     </item>    <item>
       <link>https://deadline.com/2025/10/ridley-scott-hollywood-drowning-in-mediocrity-1236570875/</link>
       <description>
