@@ -2,10 +2,10 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>09 Oct 25 15:09 -0700</dateCreated>
+        <dateCreated>10 Oct 25 06:08 -0700</dateCreated>
     </head>
     <body>
-        <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is a new independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
+        <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
         <outline text="500-ish blog, A collection of posts by M.G. Siegler of around 500 words in length." type="rss" xmlUrl="https://500ish.com/feed" htmlUrl="https://500ish.com?source=rss----662a29c3b19e---4,https://500ish.com/feed" description="A collection of posts by M.G. Siegler of around 500 words in length. - Medium" url="https://500ish.com/feed"></outline>
         <outline text="Aaron Bos blog" type="rss" xmlUrl="https://aaronbos.dev/feed.xml" htmlUrl="https://aaronbos.dev,https://aaronbos.dev/feed.xml" description="Aaron Bos" url="https://aaronbos.dev/feed.xml"></outline>
         <outline text="Accidentally in Code" type="rss" xmlUrl="https://cate.blog/feed/" htmlUrl="https://cate.blog,https://cate.blog/feed/" description="Engineering an Interesting Life" url="https://cate.blog/feed/"></outline>

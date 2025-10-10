@@ -4,10 +4,32 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>http://localhost:8000/librariesxml</link>
-    <lastBuildDate>09 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>10 Oct 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The transparency paradox when using generative AI in academic research</title>
+      <link>https://blog.scielo.org/en/2025/10/10/the-transparency-paradox-when-using-generative-ai-in-academic-research/</link>
+      <description>
+        <![CDATA[<p>The use of generative AI in academic research creates a paradox between transparency and credibility. Research shows that declaring the use of AI, although ethical, can diminish trust in the researcher. The lack of clear guidelines and the stigma associated with AI hinder the adoption of the transparency necessary to ensure scientific integrity. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/en/2025/10/10/the-transparency-paradox-when-using-generative-ai-in-academic-research/" class="more-link"><span>Read More &#8594;</span></a></span></p>
+        <p>The post <a href="https://blog.scielo.org/en/2025/10/10/the-transparency-paradox-when-using-generative-ai-in-academic-research/">The transparency paradox when using generative AI in academic research</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p>]]>
+      </description>
+      <source:markdown>The use of generative AI in academic research creates a paradox between transparency and credibility. Research shows that declaring the use of AI, although ethical, can diminish trust in the researcher. The lack of clear guidelines and the stigma associated with AI hinder the adoption of the transparency necessary to ensure scientific integrity. …[Read More →](https://blog.scielo.org/en/2025/10/10/the-transparency-paradox-when-using-generative-ai-in-academic-research/)
+
+The post [The transparency paradox when using generative AI in academic research](https://blog.scielo.org/en/2025/10/10/the-transparency-paradox-when-using-generative-ai-in-academic-research/) first appeared on [SciELO in Perspective](https://blog.scielo.org/en).</source:markdown>
+      <guid>cid://https://blog.scielo.org/en/?p=5681</guid>
+    </item>    <item>
+      <title>SSP’s Generations Fund Crosses the Finish Line</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/10/10/ssps-generations-fund-crosses-the-finish-line/</link>
+      <description>
+        <![CDATA[<p>SSP Thanks Individual &#038; Organizational Contributors to the Generations Fund!</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/10/10/ssps-generations-fund-crosses-the-finish-line/">SSP’s Generations Fund Crosses the Finish Line</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>SSP Thanks Individual &#38; Organizational Contributors to the Generations Fund!
+
+The post [SSP’s Generations Fund Crosses the Finish Line](https://scholarlykitchen.sspnet.org/2025/10/10/ssps-generations-fund-crosses-the-finish-line/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60961</guid>
+    </item>    <item>
       <title>“Who Isn’t in the Room Yet?”</title>
       <link>https://sr.ithaka.org/blog/who-isnt-in-the-room-yet/</link>
       <description>
@@ -55,7 +77,7 @@ The post [Guest Post — Rethinking Disciplinary Data Regimes](https://scholarly
         <![CDATA[A British war correspondent recalls his experiences during the Great War.]]>
       </description>
       <source:markdown>A British war correspondent recalls his experiences during the Great War.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told/downloads/philip-gibbs_now-it-can-be-told.epub?source=feed" length="967268" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told/downloads/philip-gibbs_now-it-can-be-told.epub?source=feed" length="967290" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/philip-gibbs/now-it-can-be-told</guid>
     </item>    <item>
       <title>Magnolia Leaves, by Mary Weston Fordham</title>
@@ -898,28 +920,6 @@ The post [Beyond the Barista Myth](https://sr.ithaka.org/blog/beyond-the-barista
 
 The post [Guest Post — May the AI Be With Science](https://scholarlykitchen.sspnet.org/2025/09/19/guest-post-may-the-ai-be-with-science/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=60992</guid>
-    </item>    <item>
-      <title>Launching the Rural-Serving Institution Student Success Network</title>
-      <link>https://sr.ithaka.org/blog/launching-the-rural-serving-institution-student-success-network/</link>
-      <description>
-        <![CDATA[<p>With support from ECMC Foundation, Ithaka S+R is forming a network of rural-serving institutions supporting student success and economic mobility. The two-year grant will help rural-serving institutions support community college transfer students and adult learners, and align their program offerings with local workforce needs. Rural-serving institutions are engines of opportunity and vital to their communities. [&#8230;]</p>
-        <p>The post <a href="https://sr.ithaka.org/blog/launching-the-rural-serving-institution-student-success-network/">Launching the Rural-Serving Institution Student Success Network</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <source:markdown>With support from ECMC Foundation, Ithaka S+R is forming a network of rural-serving institutions supporting student success and economic mobility. The two-year grant will help rural-serving institutions support community college transfer students and adult learners, and align their program offerings with local workforce needs. Rural-serving institutions are engines of opportunity and vital to their communities. \[…\]
-
-The post [Launching the Rural-Serving Institution Student Success Network](https://sr.ithaka.org/blog/launching-the-rural-serving-institution-student-success-network/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=323624</guid>
-    </item>    <item>
-      <title>Peer Review in Transition: Helen King and Christopher Leonard on AI and the Future of Peer Review</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/09/18/peer-review-in-transition-helen-king-and-christopher-leonard-on-ai-and-the-future-of-peer-review/</link>
-      <description>
-        <![CDATA[<p>Today, we talk to thought leaders Helen King and Chris Leonard, who offer a nuanced look at how peer review might adapt, fracture, or reinvent itself in the AI era.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/09/18/peer-review-in-transition-helen-king-and-christopher-leonard-on-ai-and-the-future-of-peer-review/">Peer Review in Transition: Helen King and Christopher Leonard on AI and the Future of Peer Review</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Today, we talk to thought leaders Helen King and Chris Leonard, who offer a nuanced look at how peer review might adapt, fracture, or reinvent itself in the AI era.
-
-The post [Peer Review in Transition: Helen King and Christopher Leonard on AI and the Future of Peer Review](https://scholarlykitchen.sspnet.org/2025/09/18/peer-review-in-transition-helen-king-and-christopher-leonard-on-ai-and-the-future-of-peer-review/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60982</guid>
     </item>
   </channel>
 </rss>

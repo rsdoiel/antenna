@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>North America</title>
-        <dateCreated>09 Oct 25 15:09 -0700</dateCreated>
+        <dateCreated>10 Oct 25 06:09 -0700</dateCreated>
     </head>
     <body>
         <outline text="Market Place" type="rss" category="Business,News" xmlUrl="https://feeds.publicradio.org/public_feeds/marketplace" htmlUrl="https://www.marketplace.org/,https://feeds.publicradio.org/public_feeds/marketplace" description="Every weekday, host Kai Ryssdal helps you make sense of the day&#39;s business and economic news — no econ degree or finance background required. &#34;Marketplace&#34; takes you beyond the numbers, bringing you context. Our team of reporters all over the world speak with CEOs, policymakers and regular people just trying to get by." url="https://feeds.publicradio.org/public_feeds/marketplace"></outline>
@@ -10,5 +10,6 @@
         <outline text="Market Place Tech Report" type="rss" category="News,Technology" xmlUrl="https://feeds.publicradio.org/public_feeds/marketplace-tech" htmlUrl="https://www.marketplace.org/,https://feeds.publicradio.org/public_feeds/marketplace-tech" description="Monday through Friday, Marketplace demystifies the digital economy in less than 10 minutes. We look past the hype and ask tough questions about an industry that&#39;s constantly changing." url="https://feeds.publicradio.org/public_feeds/marketplace-tech"></outline>
         <outline text="Market Place, Make me Smart" type="rss" category="Business,News" xmlUrl="https://feeds.publicradio.org/public_feeds/make-me-smart" htmlUrl="https://www.marketplace.org/shows/make-me-smart,https://feeds.publicradio.org/public_feeds/make-me-smart" description="Each weekday, Marketplace’s Kimberly Adams makes today make sense along with her Marketplace colleagues, breaking down happenings in tech, the economy, and culture. Because none of us is as smart as all of us." url="https://feeds.publicradio.org/public_feeds/make-me-smart"></outline>
         <outline text="NPR Economic" type="rss" xmlUrl="https://feeds.npr.org/1017/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1017" description="NPR news on the U.S. and world economy, the World Bank, and Federal Reserve. Commentary on economic trends. Subscribe to NPR Economy podcasts and RSS feeds."></outline>
+        <outline text="Paste" type="rss" xmlUrl="https://www.pastemagazine.com/rss.xml" htmlUrl="https://www.pastemagazine.com,https://www.pastemagazine.com/rss.xml" description="Paste Magazine is your source for the best music, movies, TV, comedy, videogames, books and culture." url="https://www.pastemagazine.com/rss.xml"></outline>
     </body>
 </opml>

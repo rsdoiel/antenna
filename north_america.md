@@ -14,3 +14,7 @@ title: North America
 
 - [NPR Economic](https://feeds.npr.org/1017/rss.xml)
 
+# Magazines
+
+- [Paste](https://www.pastemagazine.com/rss.xml)
+

@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>http://localhost:8000/columnsxml</link>
-    <lastBuildDate>09 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>10 Oct 25 06:08 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,344 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://daveverse.org/2025/10/10/my-favorite-apple-2/</link>
+      <description>
+        <![CDATA[<p>It's apple season at Adams in Kingston.</p>]]>
+      </description>
+      <source:markdown>It&#39;s apple season at Adams in Kingston.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/10/1473/</guid>
+    </item>    <item>
+      <title>Try Putting It in Some Rice</title>
+      <link>https://onefoottsunami.com/2025/10/10/try-putting-it-in-some-rice/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29275</guid>
+    </item>    <item>
+      <title>Meta Tells Workers Building Metaverse to Use AI to ‘Go 5x Faster’</title>
+      <link>https://www.404media.co/meta-tells-workers-building-metaverse-to-use-ai-to-go-5x-faster/</link>
+      <description>
+        <![CDATA[Meta says that its coders should be working five times faster and that it expects "a 5x leap in productivity."]]>
+      </description>
+      <source:markdown>Meta says that its coders should be working five times faster and that it expects &#34;a 5x leap in productivity.&#34;</source:markdown>
+      <guid>cid://68e83a269067b20001cb03d4</guid>
+    </item>    <item>
+      <title>A new breed of analyzers</title>
+      <link>https://daniel.haxx.se/blog/2025/10/10/a-new-breed-of-analyzers/</link>
+      <description>
+        <![CDATA[(See how I cleverly did not mention AI in the title!) You know we have seen more than our fair share of slop reports sent to the curl project so it seems only fair that I also write something about the state of AI when we get to enjoy some positive aspects of this technology. &#8230; <a href="https://daniel.haxx.se/blog/2025/10/10/a-new-breed-of-analyzers/" class="more-link">Continue reading <span class="screen-reader-text">A new breed of analyzers</span> <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>(See how I cleverly did not mention AI in the title!) You know we have seen more than our fair share of slop reports sent to the curl project so it seems only fair that I also write something about the state of AI when we get to enjoy some positive aspects of this technology. … [Continue reading A new breed of analyzers→](https://daniel.haxx.se/blog/2025/10/10/a-new-breed-of-analyzers/)</source:markdown>
+      <guid>cid://https://daniel.haxx.se/blog/?p=28280</guid>
+    </item>    <item>
+      <link>https://tilde.zone/@tomasino/115349731497372770</link>
+      <description>
+        <![CDATA[<p>The wife informed me the blueberries were too tart for snacking, so I made jam.</p>]]>
+      </description>
+      <source:markdown>The wife informed me the blueberries were too tart for snacking, so I made jam.</source:markdown>
+      <guid>cid://https://tilde.zone/@tomasino/115349731497372770</guid>
+    </item>    <item>
+      <link>https://www.reuters.com/world/nobel-peace-prize-winner-be-announced-year-overshadowed-by-trump-2025-10-10/</link>
+      <description>
+        <![CDATA[<p>Venezuela's opposition leader Machado wins Nobel Peace Prize.</p>]]>
+      </description>
+      <source:markdown>Venezuela&#39;s opposition leader Machado wins Nobel Peace Prize.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/10/1471/</guid>
+    </item>    <item>
+      <title>Everyday AI Agents</title>
+      <link>https://www.oreilly.com/radar/everyday-ai-agents/</link>
+      <description>
+        <![CDATA[A common misconception about O&#8217;Reilly is that we cater only to the deeply technical learner. While we&#8217;re proud of our deep roots in the tech community, the breadth of our offerings, both in books and on our learning platform, has always aimed to reach a broader audience of tech-adjacent and tech-curious people who want to [&#8230;]]]>
+      </description>
+      <source:markdown>A common misconception about O’Reilly is that we cater only to the deeply technical learner. While we’re proud of our deep roots in the tech community, the breadth of our offerings, both in books and on our learning platform, has always aimed to reach a broader audience of tech-adjacent and tech-curious people who want to \[…\]</source:markdown>
+      <guid>cid://https://www.oreilly.com/radar/?p=17512</guid>
+    </item>    <item>
+      <title>Autonomous AI Hacking and the Future of Cybersecurity</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/autonomous-ai-hacking-and-the-future-of-cybersecurity.html</link>
+      <description>
+        <![CDATA[<p>AI agents are now hacking computers. They&#8217;re getting better at all phases of cyberattacks, faster than most of us expected. They can chain together different aspects of a cyber operation, and hack autonomously, at computer speeds and scale. This is going to change everything.</p>
+        <p>Over the summer, hackers proved the concept, industry institutionalized it, and criminals operationalized it. In June, AI company XBOW took the <a href="https://www.techrepublic.com/article/news-ai-xbow-tops-hackerone-us-leaderboad">top spot</a> on HackerOne&#8217;s US leaderboard after submitting over 1,000 new vulnerabilities in just a few months. In August, the seven teams competing in DARPA&#8217;s AI Cyber Challenge ...</p>]]>
+      </description>
+      <source:markdown>AI agents are now hacking computers. They’re getting better at all phases of cyberattacks, faster than most of us expected. They can chain together different aspects of a cyber operation, and hack autonomously, at computer speeds and scale. This is going to change everything.
+
+Over the summer, hackers proved the concept, industry institutionalized it, and criminals operationalized it. In June, AI company XBOW took the [top spot](https://www.techrepublic.com/article/news-ai-xbow-tops-hackerone-us-leaderboad) on HackerOne’s US leaderboard after submitting over 1,000 new vulnerabilities in just a few months. In August, the seven teams competing in DARPA’s AI Cyber Challenge ...</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=70935</guid>
+    </item>    <item>
+      <title>Leprechauns, Effective Tariffs and Inflation</title>
+      <link>https://paulkrugman.substack.com/p/leprechauns-effective-tariffs-and</link>
+      <description>
+        <![CDATA[Yes, tariffs are hurting us. No, Trump wasn&#8217;t right.]]>
+      </description>
+      <source:markdown>Yes, tariffs are hurting us. No, Trump wasn’t right.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!GIJN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2663705b-a490-47cf-bfcb-6e9bc26ec7a8_1200x1200.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/leprechauns-effective-tariffs-and</guid>
+    </item>    <item>
+      <title>Lit Hub Daily: October 10, 2025</title>
+      <link>https://lithub.com/lit-hub-daily-october-10-2025/</link>
+      <description>
+        <![CDATA[Read what is likely the first English language review of László Krasznahorkai, written by Andrew Ervin in 2001. &#124; Lit Hub On Translation This week on the Lit Hub Podcast: Pynchon and splatterpunk in America! &#124; Lit Hub Radio Hannah]]>
+      </description>
+      <source:markdown>Read what is likely the first English language review of László Krasznahorkai, written by Andrew Ervin in 2001. \| Lit Hub On Translation This week on the Lit Hub Podcast: Pynchon and splatterpunk in America! \| Lit Hub Radio Hannah</source:markdown>
+      <guid>cid://https://lithub.com/?p=260946</guid>
+    </item>    <item>
+      <title>Pynchon and Splatterpunk in America on The Lit Hub Podcast</title>
+      <link>https://lithub.com/pynchon-and-splatterpunk-in-america-on-the-lit-hub-podcast/</link>
+      <description>
+        <![CDATA[A weekly behind-the-scenes dive into everything interesting, dynamic, strange, and wonderful happening in literary culture—featuring Lit Hub staff, columnists, and special guests! Hosted by Drew Broussard. What evil lurks in the hearts of men? The Shadow knows, but so too]]>
+      </description>
+      <source:markdown>A weekly behind-the-scenes dive into everything interesting, dynamic, strange, and wonderful happening in literary culture—featuring Lit Hub staff, columnists, and special guests! Hosted by Drew Broussard. What evil lurks in the hearts of men? The Shadow knows, but so too</source:markdown>
+      <guid>cid://https://lithub.com/?p=260965</guid>
+    </item>    <item>
+      <title>Who needs a flying car when you have display: grid</title>
+      <link>https://rachsmith.com/who-needs-a-flying-car/</link>
+      <description>
+        <![CDATA[<p>A friend asked me if I could build him a simple website for his new Mechanical Engineering business: just a few pages showing off what they’re about and what they can do. </p>
+        <p>This is the sort of work I did when I was just starting out with web dev - marketing sites. It’s been 14 years since I worked a gig like this, and I was so struck by how much easier everything is now. </p>
+        <p>First of all, the capabilities of CSS are absolutely magical. I needed to <a href="https://css-for-js.dev/">do a course</a> to catch up on my knowledge and feel confident again but once I did… putting together layouts is a dream. </p>
+        <p>At one point my friend asked if I could change all the places where they had yellow to blue… back in the day this would have been annoying but all I had to do was update a single custom property! I made multiple Netlify Deploy previews for him to look at with different shades of blue and it all took me under 10 minutes. </p>
+        <p>And because of improvements to CSS and the native platform you need so much less JavaScript to achieve specific layouts and functionality. When you do need JS, you can just use the regular JavaScript API, no need for third party libraries like jQuery or MooTools (lol).</p>
+        <p>Look, I am old and I am comparing this to the Dark Ages when we were still on CSS 2, but I just can&#39;t move past how much better and easier everything is!</p>
+        <p>At the same time I’m cognisant of the fact this isn’t really a job anymore. My friend had no interest in messing with a Squarespace and was willing to pay my hourly rate to build a static site because he knew he could trust me to do a good job. Most clients probably feel differently, and would prefer to either choose these low or no-code tools to make the websites themselves, or employ devs to build bloated React projects. My own day job is building an incredibly complex Web Application. </p>
+        <p>What a shame that is, as the technology has never been better for developers to build lean, accessible and attractive websites.</p>
+        
+              <hr />
+              <p>Thanks for reading this post via RSS! Let me know your thoughts by leaving a comment on the <a href="https://rachsmith.com/who-needs-a-flying-car">original post</a> or send <a href="mailto:contact@rachsmith.com?subject=re%3A%20Who%20needs%20a%20flying%20car%20when%20you%20have%20display%3A%20grid">me an email</a>.</p>]]>
+      </description>
+      <source:markdown>A friend asked me if I could build him a simple website for his new Mechanical Engineering business: just a few pages showing off what they’re about and what they can do.
+
+This is the sort of work I did when I was just starting out with web dev - marketing sites. It’s been 14 years since I worked a gig like this, and I was so struck by how much easier everything is now.
+
+First of all, the capabilities of CSS are absolutely magical. I needed to [do a course](https://css-for-js.dev/) to catch up on my knowledge and feel confident again but once I did… putting together layouts is a dream.
+
+At one point my friend asked if I could change all the places where they had yellow to blue… back in the day this would have been annoying but all I had to do was update a single custom property! I made multiple Netlify Deploy previews for him to look at with different shades of blue and it all took me under 10 minutes.
+
+And because of improvements to CSS and the native platform you need so much less JavaScript to achieve specific layouts and functionality. When you do need JS, you can just use the regular JavaScript API, no need for third party libraries like jQuery or MooTools (lol).
+
+Look, I am old and I am comparing this to the Dark Ages when we were still on CSS 2, but I just can&#39;t move past how much better and easier everything is!
+
+At the same time I’m cognisant of the fact this isn’t really a job anymore. My friend had no interest in messing with a Squarespace and was willing to pay my hourly rate to build a static site because he knew he could trust me to do a good job. Most clients probably feel differently, and would prefer to either choose these low or no-code tools to make the websites themselves, or employ devs to build bloated React projects. My own day job is building an incredibly complex Web Application.
+
+What a shame that is, as the technology has never been better for developers to build lean, accessible and attractive websites.
+
+* * *
+
+Thanks for reading this post via RSS! Let me know your thoughts by leaving a comment on the [original post](https://rachsmith.com/who-needs-a-flying-car) or send [me an email](mailto:contact@rachsmith.com?subject=re%3A%20Who%20needs%20a%20flying%20car%20when%20you%20have%20display%3A%20grid).</source:markdown>
+      <guid>cid://https://rachsmith.com/who-needs-a-flying-car/</guid>
+    </item>    <item>
+      <title>Interop Feature Ranking</title>
+      <link>https://interop-rank.jakearchibald.com/</link>
+      <description>
+        <![CDATA[<p>This is a nifty initiative:</p>
+        
+        <blockquote>
+          <p>This site lets you rank the proposals you care about, giving us data we can use when reviewing which proposals should be taken on for 2026.</p>
+        </blockquote>
+        
+        <p>For the record, here&#8217;s my top ten:</p>
+        
+        <blockquote>
+          <ol>
+          <li>Cross-document view transitions</li>
+          <li>Speculation Rules API</li>
+          <li><code>img sizes="auto" loading="lazy"</code></li>
+          <li>Customizable/stylable <code>select</code></li>
+          <li>Invoker commands</li>
+          <li>Interoperable rendering of HTML <code>fieldset</code>/<code>legend</code></li>
+          <li>Web Share API</li>
+          <li>CSS scroll-driven animations</li>
+          <li>CSS <code>accent-color</code> property</li>
+          <li>CSS <code>hanging-punctuation</code> property</li>
+          </ol>
+        </blockquote>
+        
+        <p><a href="https://adactio.com/links/22181">adactio.com/links/22181</a></p>]]>
+      </description>
+      <source:markdown>This is a nifty initiative:
+
+&#62; This site lets you rank the proposals you care about, giving us data we can use when reviewing which proposals should be taken on for 2026.
+
+For the record, here’s my top ten:
+
+&#62; 01. Cross-document view transitions
+&#62; 02. Speculation Rules API
+&#62; 03. `img sizes=&#34;auto&#34; loading=&#34;lazy&#34;`
+&#62; 04. Customizable/stylable `select`
+&#62; 05. Invoker commands
+&#62; 06. Interoperable rendering of HTML `fieldset`/ `legend`
+&#62; 07. Web Share API
+&#62; 08. CSS scroll-driven animations
+&#62; 09. CSS `accent-color` property
+&#62; 10. CSS `hanging-punctuation` property
+
+[adactio.com/links/22181](https://adactio.com/links/22181)</source:markdown>
+      <guid>cid://https://interop-rank.jakearchibald.com/</guid>
+    </item>    <item>
+      <title>What Hedda Reveals About the Timelessness of Feminine Rage</title>
+      <link>https://lithub.com/what-hedda-reveals-about-the-timelessness-of-feminine-rage/</link>
+      <description>
+        <![CDATA[In Nia DaCosta’s vespertine parlor drama Hedda, an adaptation of Henrik Ibsen’s 1890 play Hedda Gabler, Tessa Thompson transfixes in the titular role. The film takes place in 1954 almost exclusively over the course of one evening at a party]]>
+      </description>
+      <source:markdown>In Nia DaCosta’s vespertine parlor drama Hedda, an adaptation of Henrik Ibsen’s 1890 play Hedda Gabler, Tessa Thompson transfixes in the titular role. The film takes place in 1954 almost exclusively over the course of one evening at a party</source:markdown>
+      <guid>cid://https://lithub.com/?p=260578</guid>
+    </item>    <item>
+      <title>What Should You Read Next? Here Are the Best Reviewed Books of the Week</title>
+      <link>https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-10-10-2025/</link>
+      <description>
+        <![CDATA[Thomas Pynchon’s Shadow Ticket, Francesca Wade’s Gertrude Stein: An Afterlife, and John Banville’s Venetian Vespersall feature among the best reviewed books of the week. Brought to you by Book Marks, Lit Hub’s home for book reviews. * Fiction 1. Shadow]]>
+      </description>
+      <source:markdown>Thomas Pynchon’s Shadow Ticket, Francesca Wade’s Gertrude Stein: An Afterlife, and John Banville’s Venetian Vespersall feature among the best reviewed books of the week. Brought to you by Book Marks, Lit Hub’s home for book reviews. \* Fiction 1. Shadow</source:markdown>
+      <guid>cid://https://lithub.com/?p=260887</guid>
+    </item>    <item>
+      <title>The people’s AI?</title>
+      <link>http://www.enlightenmenteconomics.com/blog/index.php/2025/10/7845/</link>
+      <description>
+        <![CDATA[The title of Maximilian Kasy&#8217;s new book The Means of Prediction cleverly riffs off Marx&#8217;s concept of the means of production for th age of AI. These means, Prof Kasy argues, are data, computational infrastructure, technical skills and energy. The &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2025/10/7845/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>The title of Maximilian Kasy’s new book The Means of Prediction cleverly riffs off Marx’s concept of the means of production for th age of AI. These means, Prof Kasy argues, are data, computational infrastructure, technical skills and energy. The … [Continue reading →](http://www.enlightenmenteconomics.com/blog/index.php/2025/10/7845/)</source:markdown>
+      <guid>cid://http://www.enlightenmenteconomics.com/blog/?p=7845</guid>
+    </item>    <item>
+      <title>Prelude to a Murder: When Misfits Falls in Love in Deepest Florida</title>
+      <link>https://lithub.com/prelude-to-a-murder-when-misfits-falls-in-love-in-deepest-florida/</link>
+      <description>
+        <![CDATA[At sixteen years old, Leo Schofield felt like an outcast. He’d grown up in the housing projects of Fall River, Massachusetts, and he had the working-class New England accent to prove it. But as he reached his formative teenage years,]]>
+      </description>
+      <source:markdown>At sixteen years old, Leo Schofield felt like an outcast. He’d grown up in the housing projects of Fall River, Massachusetts, and he had the working-class New England accent to prove it. But as he reached his formative teenage years,</source:markdown>
+      <guid>cid://https://lithub.com/?p=260520</guid>
+    </item>    <item>
+      <title>Tawny Lara on Embracing the Sh*tty First Draft</title>
+      <link>https://lithub.com/tawny-lara-on-embracing-the-shtty-first-draft/</link>
+      <description>
+        <![CDATA[This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. It was in the first week of NYU’s creative writing summer intensive that I  learned that writing badly was the route to turning delusion into reality. One of the course]]>
+      </description>
+      <source:markdown>This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. It was in the first week of NYU’s creative writing summer intensive that I  learned that writing badly was the route to turning delusion into reality. One of the course</source:markdown>
+      <guid>cid://https://lithub.com/?p=260943</guid>
+    </item>    <item>
+      <title>Finding Grim Lessons of the 20th Century (and a Little Hope) in the Writing of Maria Janion</title>
+      <link>https://lithub.com/finding-grim-lessons-of-the-20th-century-and-a-little-hope-in-the-writing-of-maria-janion/</link>
+      <description>
+        <![CDATA[I came across Maria Janion’s Uncanny Slavdom on the verge of the 2020 lockdown. The title caught my eye. Sigmund Freud defines the uncanny as the nagging presence of the familiar within the strange, the strange within the familiar. That’s]]>
+      </description>
+      <source:markdown>I came across Maria Janion’s Uncanny Slavdom on the verge of the 2020 lockdown. The title caught my eye. Sigmund Freud defines the uncanny as the nagging presence of the familiar within the strange, the strange within the familiar. That’s</source:markdown>
+      <guid>cid://https://lithub.com/?p=260538</guid>
+    </item>    <item>
+      <title>How Close Did We Come to Losing Beowulf Forever?</title>
+      <link>https://lithub.com/how-close-did-we-come-to-losing-beowulf-forever/</link>
+      <description>
+        <![CDATA[There are cases of important literary and historical works that survive in only one or two manuscripts. If they had suﬀered some accident, then our picture of the past might be altered in important ways. An interesting and unusual case]]>
+      </description>
+      <source:markdown>There are cases of important literary and historical works that survive in only one or two manuscripts. If they had suﬀered some accident, then our picture of the past might be altered in important ways. An interesting and unusual case</source:markdown>
+      <guid>cid://https://lithub.com/?p=260581</guid>
+    </item>    <item>
+      <title>The Salvage</title>
+      <link>https://lithub.com/the-salvage/</link>
+      <description>
+        <![CDATA[It’s even colder than I’d expected, a blow that knits my muscles together. Pushing all my strength into kick kick kick I swim down down, concentrating only on moving. My heart is racing from the slap of cold. As I]]>
+      </description>
+      <source:markdown>It’s even colder than I’d expected, a blow that knits my muscles together. Pushing all my strength into kick kick kick I swim down down, concentrating only on moving. My heart is racing from the slap of cold. As I</source:markdown>
+      <guid>cid://https://lithub.com/?p=260045</guid>
+    </item>    <item>
+      <title>Want to know who’ll be our next president?</title>
+      <link>https://robertreich.substack.com/p/how-trump-is-pushing-these-three</link>
+      <description>
+        <![CDATA[Look at the Democratic governors who are standing up to Trump]]>
+      </description>
+      <source:markdown>Look at the Democratic governors who are standing up to Trump</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Qyhe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6bf805ae-a281-4ded-9d8a-905e56402863_660x440.webp" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/how-trump-is-pushing-these-three</guid>
+    </item>    <item>
+      <link>https://oklahomawatch.org/2025/10/09/stitt-becomes-first-republican-governor-to-break-with-trump-on-national-guard-deployments/</link>
+      <description>
+        <![CDATA[<p>Stitt Becomes First Republican Governor to Break With Trump on National Guard Deployments.</p>]]>
+      </description>
+      <source:markdown>Stitt Becomes First Republican Governor to Break With Trump on National Guard Deployments.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/10/1469/</guid>
+    </item>    <item>
+      <title>October 9, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-9-2025</link>
+      <description>
+        <![CDATA[Today Trump appointee Lindsey Halligan did what President Donald J.]]>
+      </description>
+      <source:markdown>Today Trump appointee Lindsey Halligan did what President Donald J.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-9-2025</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2sw4cvlvk2f</link>
+      <description>
+        <![CDATA[👀
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>👀
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m2sw4cvlvk2f</guid>
+    </item>    <item>
+      <title>314: A Stake Through The Cold, Dark Heart of King Coal 🪦♥︎. Plus, global safety, the Pacific eliminates rubella, and robotic ballet.</title>
+      <link>https://fixthenews.com/p/314-a-stake-through-the-cold-dark</link>
+      <description>
+        <![CDATA[Hidden stories of progress from around the world.]]>
+      </description>
+      <source:markdown>Hidden stories of progress from around the world.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!NsYD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe811f810-cf26-45fa-a0df-7726af13b1ad_1992x1126.png" length="0" type="image/jpeg" />
+      <guid>cid://https://fixthenews.com/p/314-a-stake-through-the-cold-dark</guid>
+    </item>    <item>
+      <title>CSS Grid: A helpful mental model and the power of grid lines</title>
+      <link>https://webkit.org/blog/17474/css-grid-a-helpful-mental-model-and-the-power-of-grid-lines/</link>
+      <description>
+        <![CDATA[Grid is a powerful, flexible tool that brings complex layouts to life.]]>
+      </description>
+      <source:markdown>Grid is a powerful, flexible tool that brings complex layouts to life.</source:markdown>
+      <guid>cid://https://webkit.org/?p=17474</guid>
+    </item>    <item>
+      <title>How to publish your blog and newsletter in one click</title>
+      <link>https://buttondown.com/blog/wordpress-blog-to-buttondown</link>
+      <description>
+        <![CDATA[A Rube Goldberg machine for your ideas]]>
+      </description>
+      <source:markdown>A Rube Goldberg machine for your ideas</source:markdown>
+    </item>    <item>
+      <title>MAGA Tested, Trump Approved News</title>
+      <link>https://steady.substack.com/p/maga-tested-trump-approved-news</link>
+      <description>
+        <![CDATA[A conservative opinion writer is now leading CBS News]]>
+      </description>
+      <source:markdown>A conservative opinion writer is now leading CBS News</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!ZQ2k!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b3715a0-3aaa-45f2-abba-fe7817fd0792_6000x4000.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/maga-tested-trump-approved-news</guid>
+    </item>    <item>
+      <title>Friday 10 October, 2025</title>
+      <link>https://memex.naughtons.org/friday-10-october-2025/41275/</link>
+      <description>
+        <![CDATA[Gutenberg 2.0 Tim Berners-Lee, the inventor of the World Wide Web — and the spiritual heir of Johannes Gutenberg as the second individual in history to revolutionise humanity&#8217;s information ecosystem. He’s always been a hero of mine. The photo was &#8230; <a href="https://memex.naughtons.org/friday-10-october-2025/41275/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>Gutenberg 2.0 Tim Berners-Lee, the inventor of the World Wide Web — and the spiritual heir of Johannes Gutenberg as the second individual in history to revolutionise humanity’s information ecosystem. He’s always been a hero of mine. The photo was … [Continue reading →](https://memex.naughtons.org/friday-10-october-2025/41275/)</source:markdown>
+      <guid>cid://https://memex.naughtons.org/?p=41275</guid>
+    </item>    <item>
+      <title>The Trojan War, with Mary Beard</title>
+      <link>https://therestishistory.com/the-trojan-war-with-mary-beard/</link>
+      <description>
+        <![CDATA[<p>Did the Trojan War &#8211; the ten year, cosmic clash between the Greeks and the Trojans, featuring the Olympian gods, kings and heroes &#8211; actually happen? Is there any evidence for the existence of the Trojan Horse? And, why is it the war the foundational myth of both ancient Greece and ancient Rome? To launch [&#8230;]</p>
+        <p>The post <a href="https://therestishistory.com/the-trojan-war-with-mary-beard/">The Trojan War, with Mary Beard</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>]]>
+      </description>
+      <source:markdown>Did the Trojan War – the ten year, cosmic clash between the Greeks and the Trojans, featuring the Olympian gods, kings and heroes – actually happen? Is there any evidence for the existence of the Trojan Horse? And, why is it the war the foundational myth of both ancient Greece and ancient Rome? To launch \[…\]
+
+The post [The Trojan War, with Mary Beard](https://therestishistory.com/the-trojan-war-with-mary-beard/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
+      <guid>cid://https://therestishistory.com/the-trojan-war-with-mary-beard/</guid>
+    </item>    <item>
+      <link>https://www.nytimes.com/2025/10/09/us/politics/trump-nobel-peace-prize.html</link>
+      <description>
+        <![CDATA[<p>Trump Has His Eyes on a Nobel Peace Prize. Will He Get It?</p>]]>
+      </description>
+      <source:markdown>Trump Has His Eyes on a Nobel Peace Prize. Will He Get It?</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/09/1467/</guid>
+    </item>    <item>
+      <link>https://www.texasobserver.org/robert-roberson-stares-down-death-again/</link>
+      <description>
+        <![CDATA[<p>‘I Got a Lot of People Believing in Me’: Robert Roberson Stares Down Death, Again.</p>]]>
+      </description>
+      <source:markdown>‘I Got a Lot of People Believing in Me’: Robert Roberson Stares Down Death, Again.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/09/1465/</guid>
+    </item>    <item>
+      <title>&#38;#8220;ShadeMap is a global simulation of mountain, building and tree shadows for...</title>
+      <link>https://kottke.org/25/10/0047648-shademap-is-a-global-simu</link>
+      <guid>cid://tag:kottke.org,2025://13.47648</guid>
     </item>    <item>
       <title>Finished reading Caliban&#39;s War</title>
       <link>https://www.mollywhite.net/reading/books?search=Caliban&#39;s%20War</link>
@@ -862,7 +1200,7 @@ Tags: [python](https://simonwillison.net/tags/python), [testing](https://simonwi
       <source:markdown>Wonder how the troops from Texas will enjoy a Chicago winter. 😵‍💫</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/08/1447/</guid>
     </item>    <item>
-      <title>Trump&#39;s plan to invoke the Insurrection Act</title>
+      <title>Trump’s plan to invoke the Insurrection Act</title>
       <link>https://robertreich.substack.com/p/trumps-plan-to-invoke-the-insurrection</link>
       <description>
         <![CDATA[You need to be aware of his four-point plan]]>
@@ -870,6 +1208,10 @@ Tags: [python](https://simonwillison.net/tags/python), [testing](https://simonwi
       <source:markdown>You need to be aware of his four-point plan</source:markdown>
       <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/31X8vrfgHqs" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/trumps-plan-to-invoke-the-insurrection</guid>
+    </item>    <item>
+      <title>Superpowers: How I&#39;m using coding agents in October 2025</title>
+      <link>https://blog.fsck.com/2025/10/09/superpowers/</link>
+      <guid>cid://https://blog.fsck.com/2025/10/09/superpowers/</guid>
     </item>    <item>
       <title>GHC 9.14.1-alpha3 is now available</title>
       <link>http://haskell.org/ghc/blog/20251007-ghc-9.14.1-alpha3-released.html</link>
@@ -3892,13 +4234,13 @@ https://plainlanguage.18f.org/</source:markdown>
       <description>
         <![CDATA[<p>I'm at <a href="https://devday.openai.com/2025">OpenAI DevDay</a> in Fort Mason, San Francisco today. As <a href="https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/">I did last year</a>, I'm going to be live blogging the announcements from the kenote. Unlike last year, this year <a href="https://www.youtube.com/live/hS1YqcewH0c">there's a livestream</a>.</p>
         
-        <p><em>Disclosure: OpenAI provides me with a free ticket and reserved me a seat in the press/influencer section for the keynote.</em></p>
+        <p><em>Disclosure: OpenAI provided me with a free ticket and reserved me a seat in the press/influencer section for the keynote.</em></p>
             
                 <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/disclosures">disclosures</a>, <a href="https://simonwillison.net/tags/live-blog">live-blog</a></p>]]>
       </description>
       <source:markdown>I&#39;m at [OpenAI DevDay](https://devday.openai.com/2025) in Fort Mason, San Francisco today. As [I did last year](https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/), I&#39;m going to be live blogging the announcements from the kenote. Unlike last year, this year [there&#39;s a livestream](https://www.youtube.com/live/hS1YqcewH0c).
 
-_Disclosure: OpenAI provides me with a free ticket and reserved me a seat in the press/influencer section for the keynote._
+_Disclosure: OpenAI provided me with a free ticket and reserved me a seat in the press/influencer section for the keynote._
 
 Tags: [ai](https://simonwillison.net/tags/ai), [openai](https://simonwillison.net/tags/openai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [disclosures](https://simonwillison.net/tags/disclosures), [live-blog](https://simonwillison.net/tags/live-blog)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/6/openai-devday-live-blog/#atom-everything</guid>
@@ -18222,1094 +18564,6 @@ Following rules of a group is pro-social behavior that is dangerous now. How can
         <![CDATA[It’s data about data all the way down.]]>
       </description>
       <source:markdown>It’s data about data all the way down.</source:markdown>
-    </item>    <item>
-      <title>Friday 19 September, 2025</title>
-      <link>https://memex.naughtons.org/friday-19-september-2025/41216/</link>
-      <description>
-        <![CDATA[Here comes everybody! On a stall in a Provencal market. Quote of the Day ”The cure for boredom is curiosity. There is no cure for curiosity.” Dorothy Parker*  Musical alternative to the morning’s radio news The Waterboys &#124; A Song &#8230; <a href="https://memex.naughtons.org/friday-19-september-2025/41216/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <source:markdown>Here comes everybody! On a stall in a Provencal market. Quote of the Day ”The cure for boredom is curiosity. There is no cure for curiosity.” Dorothy Parker\*  Musical alternative to the morning’s radio news The Waterboys \| A Song … [Continue reading →](https://memex.naughtons.org/friday-19-september-2025/41216/)</source:markdown>
-      <guid>cid://https://memex.naughtons.org/?p=41216</guid>
-    </item>    <item>
-      <title>The defining experience of fascism is &#38;#8220;getting yelled at by dumbasses&#38;#8221;....</title>
-      <link>https://kottke.org/25/09/0047544-the-defining-experience-o</link>
-      <guid>cid://tag:kottke.org,2025://13.47544</guid>
-    </item>    <item>
-      <title>Freedom of Speech For Sale</title>
-      <link>https://steady.substack.com/p/freedom-of-speech-for-sale</link>
-      <description>
-        <![CDATA[Jimmy Kimmel is benched to curry favor with Trump]]>
-      </description>
-      <source:markdown>Jimmy Kimmel is benched to curry favor with Trump</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!E2tr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4acf35c6-5679-47d6-8d11-029f88fc4a0f_3000x2000.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://steady.substack.com/p/freedom-of-speech-for-sale</guid>
-    </item>    <item>
-      <title>Four years ago, today</title>
-      <link>https://robertreich.substack.com/p/four-years-today</link>
-      <description>
-        <![CDATA[Thank you.]]>
-      </description>
-      <source:markdown>Thank you.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!uSbw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac4e114f-7581-40a2-80f2-9894149cdb44.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/four-years-today</guid>
-    </item>    <item>
-      <title>Quoting Steve Jobs</title>
-      <link>https://simonwillison.net/2025/Sep/18/steve-jobs/#atom-everything</link>
-      <description>
-        <![CDATA[<blockquote cite="https://www.thedailybeast.com/steve-jobs-1984-access-magazine-interview/"><p>Well, the types of computers we have today are tools. They’re responders: you ask a computer to do something and it will do it. The next stage is going to be computers as “agents.” In other words, it will be as if there’s a little person inside that box who starts to anticipate what you want. Rather than help you, it will start to guide you through large amounts of information. It will almost be like you have a little friend inside that box. I think the computer as an agent will start to mature in the late '80s, early '90s.</p></blockquote>
-        <p class="cite">&mdash; <a href="https://www.thedailybeast.com/steve-jobs-1984-access-magazine-interview/">Steve Jobs</a>, 1984 interview with Access Magazine (<a href="https://pablosanzo.com/ai-agents.html#Definitions">via</a>)</p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/agent-definitions">agent-definitions</a>, <a href="https://simonwillison.net/tags/steve-jobs">steve-jobs</a>, <a href="https://simonwillison.net/tags/computer-history">computer-history</a></p>]]>
-      </description>
-      <source:markdown>&#62; Well, the types of computers we have today are tools. They’re responders: you ask a computer to do something and it will do it. The next stage is going to be computers as “agents.” In other words, it will be as if there’s a little person inside that box who starts to anticipate what you want. Rather than help you, it will start to guide you through large amounts of information. It will almost be like you have a little friend inside that box. I think the computer as an agent will start to mature in the late &#39;80s, early &#39;90s.
-
-— [Steve Jobs](https://www.thedailybeast.com/steve-jobs-1984-access-magazine-interview/), 1984 interview with Access Magazine ( [via](https://pablosanzo.com/ai-agents.html#Definitions))
-
-Tags: [agent-definitions](https://simonwillison.net/tags/agent-definitions), [steve-jobs](https://simonwillison.net/tags/steve-jobs), [computer-history](https://simonwillison.net/tags/computer-history)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Sep/18/steve-jobs/#atom-everything</guid>
-    </item>    <item>
-      <title>The 2025 Audubon Photography Awards Emphasize Epic and Endangered Migrations. I love...</title>
-      <link>https://kottke.org/25/09/0047545-the-2025-audubon-photogra</link>
-      <guid>cid://tag:kottke.org,2025://13.47545</guid>
-    </item>    <item>
-      <title>Live with Heather Cox Richardson</title>
-      <link>https://heathercoxrichardson.substack.com/p/live-with-heather-cox-richardson-ea3</link>
-      <description>
-        <![CDATA[A recording from Heather Cox Richardson's live video]]>
-      </description>
-      <enclosure url="https://api.substack.com/feed/podcast/173971992/1221f1c9dc0bb876d548d571ec4a720d.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/live-with-heather-cox-richardson-ea3</guid>
-    </item>    <item>
-      <title>September 17, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-17-2025</link>
-      <enclosure url="https://api.substack.com/feed/podcast/173975304/12fd8cec0044e1dc9cf1c4e0650d8564.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-17-2025</guid>
-    </item>    <item>
-      <title>September 16, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-16-2025-00f</link>
-      <enclosure url="https://api.substack.com/feed/podcast/173975200/aa8113f6f8b642eb6ed821399d5858b8.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-16-2025-00f</guid>
-    </item>    <item>
-      <title>How the Women&#38;#8217;s Orchestra of Auschwitz Survived the Death Camps. &#38;#8220;I have...</title>
-      <link>https://kottke.org/25/09/0047540-how-the-womens-orchestra-</link>
-      <guid>cid://tag:kottke.org,2025://13.47540</guid>
-    </item>    <item>
-      <title>Of Oz the Wizard, an Alphabetized Version of The Wizard of Oz</title>
-      <link>https://kottke.org/25/09/of-oz-the-wizard-an-alphabetized-version-of-the-wizard-of-oz-1</link>
-      <guid>cid://tag:kottke.org,2025://5.47539</guid>
-    </item>    <item>
-      <title>I think &#34;agent&#34; may finally have a widely enough agreed upon definition to be useful jargon now</title>
-      <link>https://simonwillison.net/2025/Sep/18/agents/#atom-everything</link>
-      <description>
-        <![CDATA[<p>I've noticed something interesting over the past few weeks: I've started using the term "agent" in conversations where I don't feel the need to then define it, roll my eyes or wrap it in scare quotes.</p>
-        <p>This is a big piece of personal character development for me!</p>
-        <p>Moving forward, when I talk about agents I'm going to use this:</p>
-        <p><strong>An LLM agent runs tools in a loop to achieve a goal.</strong></p>
-        <p>I've been <em>very</em> hesitant to use the term "agent" for meaningful communication over the last couple of years. It felt to me like the ultimate in buzzword bingo - everyone was talking about agents, but if you quizzed them everyone seemed to hold a different mental model of what they actually were.</p>
-        <p>I even started collecting definitions in my <a href="https://simonwillison.net/tags/agent-definitions/">agent-definitions tag</a>, including crowdsourcing 211 definitions on Twitter and attempting to summarize and group them with Gemini (I got <a href="https://gist.github.com/simonw/beaa5f90133b30724c5cc1c4008d0654#response">13 groups</a>, here's the <a href="https://gist.github.com/simonw/beaa5f90133b30724c5cc1c4008d0654#2-tool-using-llms">tool-using LLMS</a> one.)</p>
-        <p>Jargon terms are only useful if you can be confident that the people you are talking to share the same definition! If they don't then communication becomes <em>less</em> effective - you can waste time passionately discussing entirely different concepts.</p>
-        <p>It turns out this is not a new problem. In 1994's <em>Intelligent Agents: Theory and Practice</em> <a href="https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/ker95/subsection3_1_1.html">Michael Wooldridge wrote</a>:</p>
-        <blockquote>
-        <p>Carl Hewitt recently remarked that the question <em>what is an agent?</em> is embarrassing for the agent-based computing community in just the same way that the question <em>what is intelligence?</em> is embarrassing for the mainstream AI community. The problem is that although the term is widely used, by many people working in closely related areas, it defies attempts to produce a single universally accepted definition.</p>
-        </blockquote>
-        <p>So long as agents lack a commonly shared definition, using the term reduces rather than increases the clarity of a conversation.</p>
-        <p>In the AI engineering space I think we may finally have settled on a widely enough accepted definition that we can now have productive conversations about them.</p>
-        <h4 id="tools-in-a-loop-to-achieve-a-goal">Tools in a loop to achieve a goal</h4>
-        <p>An LLM agent <em>runs tools in a loop to achieve a goal</em>. Let's break that down.</p>
-        <p>The "tools in a loop" definition has been popular for a while - Anthropic in particular have <a href="https://simonwillison.net/2025/May/22/tools-in-a-loop/">settled on that one</a>. This is the pattern baked into many LLM APIs as tools or function calls - the LLM is given the ability to request actions to be executed by its harness, and the outcome of those tools is fed back into the model so it can continue to reason through and solve the given problem.</p>
-        <p>"To achieve a goal" reflects that these are not infinite loops - there is a stopping condition.</p>
-        <p>I debated whether to specify "... a goal set by a user". I decided that's not a necessary part of this definition: we already have sub-agent patterns where another LLM sets the goal (see <a href="https://simonwillison.net/2025/Jun/2/claude-trace/">Claude Code</a> and <a href="https://simonwillison.net/2025/Jun/14/multi-agent-research-system/">Claude Research</a>).</p>
-        <p>There remains an almost unlimited set of alternative definitions: if you talk to people outside of the technical field of building with LLMs you're still likely to encounter travel agent analogies or employee replacements or excitable use of the word "autonomous". In those contexts it's important to clarify the definition they are using in order to have a productive conversation.</p>
-        <p>But from now on, if a technical implementer tells me they are building an "agent" I'm going to assume they mean they are wiring up tools to an LLM in order to achieve goals using those tools in a bounded loop.</p>
-        <p>Some people might insist that agents have a memory. The "tools in a loop" model has a fundamental form of memory baked in: those tool calls are constructed as part of a conversation with the model, and the previous steps in that conversation provide short-term memory that's essential for achieving the current specified goal.</p>
-        <p>If you want long-term memory the most promising way to implement it is <a href="https://simonwillison.net/2025/Sep/12/claude-memory/">with an extra set of tools</a>!</p>
-        <h4 id="agents-as-human-replacements-is-my-least-favorite-definition">Agents as human replacements is my least favorite definition</h4>
-        <p>If you talk to non-technical business folk you may encounter a depressingly common alternative definition: agents as replacements for human staff. This often takes the form of "customer support agents", but you'll also see cases where people assume that there should be marketing agents, sales agents, accounting agents and more.</p>
-        <p>If someone surveys Fortune 500s about their "agent strategy" there's a good chance that's what is being implied. Good luck getting a clear, distinct answer from them to the question "what is an agent?" though!</p>
-        <p>This category of agent remains science fiction. If your agent strategy is to replace your human staff with some fuzzily defined AI system (most likely a system prompt and a collection of tools under the hood) you're going to end up sorely disappointed.</p>
-        <p>That's because there's one key feature that remains unique to human staff: <strong>accountability</strong>.  A human can take responsibility for their actions and learn from their mistakes. Putting an AI agent on a <a href="https://en.m.wikipedia.org/wiki/Performance_improvement#Performance_improvement_plans">performance improvement plan</a> makes no sense at all!</p>
-        <p>Amusingly enough, humans also have <strong>agency</strong>. They can form their own goals and intentions and act autonomously to achieve them - while taking accountability for those decisions. Despite the name, AI agents can do nothing of the sort.</p>
-        <p>This <a href="https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/">legendary 1979 IBM training slide</a> says everything we need to know:</p>
-        <p><img src="https://static.simonwillison.net/static/2025/a-computer-can-never-be-held-accountable.jpg" alt="A computer can never be held accountable. Therefore a computer must never make a management decision" style="max-width: 100%;" /></p>
-        <h4 id="openai-need-to-get-their-story-straight">OpenAI need to get their story straight</h4>
-        <p>The single biggest source of agent definition confusion I'm aware of is OpenAI themselves.</p>
-        <p>OpenAI CEO Sam Altman is fond of <a href="https://simonwillison.net/2025/Jan/23/introducing-operator/">calling agents</a> "AI systems that can do work for you independently".</p>
-        <p>Back in July OpenAI <a href="https://openai.com/index/introducing-chatgpt-agent/">launched a product feature</a> called "ChatGPT agent" which is actually a browser automation system - toggle that option on in ChatGPT and it can launch a real web browser and use it to interact with web pages directly.</p>
-        <p>And in March OpenAI <a href="https://openai.com/index/new-tools-for-building-agents/">launched an Agents SDK</a> with libraries in Python (<a href="https://pypi.org/project/openai-agents/">openai-agents</a>) and JavaScript (<a href="https://www.npmjs.com/package/@openai/agents">@openai/agents</a>). This one is a much closer fit to the "tools in a loop" idea.</p>
-        <p>It may be too late for OpenAI to unify their definitions at this point. I'm going to ignore their various other definitions and stick with tools in a loop!</p>
-        <h4 id="there-s-already-a-meme-for-this">There's already a meme for this</h4>
-        <p>Josh Bickett <a href="https://twitter.com/josh_bickett/status/1725556267014595032">tweeted this</a> in November 2023:</p>
-        <blockquote>
-        <p>What is an AI agent?</p>
-        <p><img src="https://static.simonwillison.net/static/2025/agents-meme-card.jpg" alt="Meme showing a normal distribution curve with IQ scores from 55 to 145 on x-axis, featuring cartoon characters at different points: a calm face at low end labeled &quot;An LLM in a loop with an objective&quot;, a stressed face with glasses and tears in the middle peak with a complex flowchart showing &quot;AGENT Performance Standard&quot; with boxes for Critic, feedback, Learning element, Problem Generator, Sensors, Performance element, Experiments, Effectors, Percepts, Environment, and actions connected by arrows.... and a hooded figure at high end also labeled &quot;An LLM in a loop with an objective&quot;." style="max-width: 100%;" /></p>
-        </blockquote>
-        <p>I guess I've climbed my way from the left side of that curve to the right.</p>
-            
-                <p>Tags: <a href="https://simonwillison.net/tags/definitions">definitions</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/agent-definitions">agent-definitions</a></p>]]>
-      </description>
-      <source:markdown>I&#39;ve noticed something interesting over the past few weeks: I&#39;ve started using the term &#34;agent&#34; in conversations where I don&#39;t feel the need to then define it, roll my eyes or wrap it in scare quotes.
-
-This is a big piece of personal character development for me!
-
-Moving forward, when I talk about agents I&#39;m going to use this:
-
-**An LLM agent runs tools in a loop to achieve a goal.**
-
-I&#39;ve been _very_ hesitant to use the term &#34;agent&#34; for meaningful communication over the last couple of years. It felt to me like the ultimate in buzzword bingo - everyone was talking about agents, but if you quizzed them everyone seemed to hold a different mental model of what they actually were.
-
-I even started collecting definitions in my [agent-definitions tag](https://simonwillison.net/tags/agent-definitions/), including crowdsourcing 211 definitions on Twitter and attempting to summarize and group them with Gemini (I got [13 groups](https://gist.github.com/simonw/beaa5f90133b30724c5cc1c4008d0654#response), here&#39;s the [tool-using LLMS](https://gist.github.com/simonw/beaa5f90133b30724c5cc1c4008d0654#2-tool-using-llms) one.)
-
-Jargon terms are only useful if you can be confident that the people you are talking to share the same definition! If they don&#39;t then communication becomes _less_ effective - you can waste time passionately discussing entirely different concepts.
-
-It turns out this is not a new problem. In 1994&#39;s _Intelligent Agents: Theory and Practice_ [Michael Wooldridge wrote](https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/ker95/subsection3_1_1.html):
-
-&#62; Carl Hewitt recently remarked that the question _what is an agent?_ is embarrassing for the agent-based computing community in just the same way that the question _what is intelligence?_ is embarrassing for the mainstream AI community. The problem is that although the term is widely used, by many people working in closely related areas, it defies attempts to produce a single universally accepted definition.
-
-So long as agents lack a commonly shared definition, using the term reduces rather than increases the clarity of a conversation.
-
-In the AI engineering space I think we may finally have settled on a widely enough accepted definition that we can now have productive conversations about them.
-
-#### Tools in a loop to achieve a goal
-
-An LLM agent _runs tools in a loop to achieve a goal_. Let&#39;s break that down.
-
-The &#34;tools in a loop&#34; definition has been popular for a while - Anthropic in particular have [settled on that one](https://simonwillison.net/2025/May/22/tools-in-a-loop/). This is the pattern baked into many LLM APIs as tools or function calls - the LLM is given the ability to request actions to be executed by its harness, and the outcome of those tools is fed back into the model so it can continue to reason through and solve the given problem.
-
-&#34;To achieve a goal&#34; reflects that these are not infinite loops - there is a stopping condition.
-
-I debated whether to specify &#34;... a goal set by a user&#34;. I decided that&#39;s not a necessary part of this definition: we already have sub-agent patterns where another LLM sets the goal (see [Claude Code](https://simonwillison.net/2025/Jun/2/claude-trace/) and [Claude Research](https://simonwillison.net/2025/Jun/14/multi-agent-research-system/)).
-
-There remains an almost unlimited set of alternative definitions: if you talk to people outside of the technical field of building with LLMs you&#39;re still likely to encounter travel agent analogies or employee replacements or excitable use of the word &#34;autonomous&#34;. In those contexts it&#39;s important to clarify the definition they are using in order to have a productive conversation.
-
-But from now on, if a technical implementer tells me they are building an &#34;agent&#34; I&#39;m going to assume they mean they are wiring up tools to an LLM in order to achieve goals using those tools in a bounded loop.
-
-Some people might insist that agents have a memory. The &#34;tools in a loop&#34; model has a fundamental form of memory baked in: those tool calls are constructed as part of a conversation with the model, and the previous steps in that conversation provide short-term memory that&#39;s essential for achieving the current specified goal.
-
-If you want long-term memory the most promising way to implement it is [with an extra set of tools](https://simonwillison.net/2025/Sep/12/claude-memory/)!
-
-#### Agents as human replacements is my least favorite definition
-
-If you talk to non-technical business folk you may encounter a depressingly common alternative definition: agents as replacements for human staff. This often takes the form of &#34;customer support agents&#34;, but you&#39;ll also see cases where people assume that there should be marketing agents, sales agents, accounting agents and more.
-
-If someone surveys Fortune 500s about their &#34;agent strategy&#34; there&#39;s a good chance that&#39;s what is being implied. Good luck getting a clear, distinct answer from them to the question &#34;what is an agent?&#34; though!
-
-This category of agent remains science fiction. If your agent strategy is to replace your human staff with some fuzzily defined AI system (most likely a system prompt and a collection of tools under the hood) you&#39;re going to end up sorely disappointed.
-
-That&#39;s because there&#39;s one key feature that remains unique to human staff: **accountability**. A human can take responsibility for their actions and learn from their mistakes. Putting an AI agent on a [performance improvement plan](https://en.m.wikipedia.org/wiki/Performance_improvement#Performance_improvement_plans) makes no sense at all!
-
-Amusingly enough, humans also have **agency**. They can form their own goals and intentions and act autonomously to achieve them - while taking accountability for those decisions. Despite the name, AI agents can do nothing of the sort.
-
-This [legendary 1979 IBM training slide](https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/) says everything we need to know:
-
-![A computer can never be held accountable. Therefore a computer must never make a management decision](https://static.simonwillison.net/static/2025/a-computer-can-never-be-held-accountable.jpg)
-
-#### OpenAI need to get their story straight
-
-The single biggest source of agent definition confusion I&#39;m aware of is OpenAI themselves.
-
-OpenAI CEO Sam Altman is fond of [calling agents](https://simonwillison.net/2025/Jan/23/introducing-operator/) &#34;AI systems that can do work for you independently&#34;.
-
-Back in July OpenAI [launched a product feature](https://openai.com/index/introducing-chatgpt-agent/) called &#34;ChatGPT agent&#34; which is actually a browser automation system - toggle that option on in ChatGPT and it can launch a real web browser and use it to interact with web pages directly.
-
-And in March OpenAI [launched an Agents SDK](https://openai.com/index/new-tools-for-building-agents/) with libraries in Python ( [openai-agents](https://pypi.org/project/openai-agents/)) and JavaScript ( [@openai/agents](https://www.npmjs.com/package/@openai/agents)). This one is a much closer fit to the &#34;tools in a loop&#34; idea.
-
-It may be too late for OpenAI to unify their definitions at this point. I&#39;m going to ignore their various other definitions and stick with tools in a loop!
-
-#### There&#39;s already a meme for this
-
-Josh Bickett [tweeted this](https://twitter.com/josh_bickett/status/1725556267014595032) in November 2023:
-
-&#62; What is an AI agent?
-&#62;
-&#62; ![Meme showing a normal distribution curve with IQ scores from 55 to 145 on x-axis, featuring cartoon characters at different points: a calm face at low end labeled &#34;An LLM in a loop with an objective&#34;, a stressed face with glasses and tears in the middle peak with a complex flowchart showing &#34;AGENT Performance Standard&#34; with boxes for Critic, feedback, Learning element, Problem Generator, Sensors, Performance element, Experiments, Effectors, Percepts, Environment, and actions connected by arrows.... and a hooded figure at high end also labeled &#34;An LLM in a loop with an objective&#34;.](https://static.simonwillison.net/static/2025/agents-meme-card.jpg)
-
-I guess I&#39;ve climbed my way from the left side of that curve to the right.
-
-Tags: [definitions](https://simonwillison.net/tags/definitions), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-agents](https://simonwillison.net/tags/ai-agents), [agent-definitions](https://simonwillison.net/tags/agent-definitions)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Sep/18/agents/#atom-everything</guid>
-    </item>    <item>
-      <title>RIP “Browsers”</title>
-      <link>https://blog.jim-nielsen.com/2025/rip-browsers/</link>
-      <description>
-        <![CDATA[<p>Richard MacManus just posted <a href="https://thenewstack.io/chrome-switches-on-ai-the-future-of-browsing-begins-now/" >“Chrome Switches on AI: The Future of Browsing Begins Now”</a> where he points out that what we think of today as “browsers” is undergoing a radical change. Here’s the lay of the land:</p>
-        <ul>
-        <li>Microsoft launched “Copilot Mode” on Edge and promotes it as an “AI-powered browser.” </li>
-        <li>Mozilla is baking AI into Firefox</li>
-        <li>Atlassian is into browsers now with their acquisition of The Browser Company and its AI browser Dia (my computer  autocorrected that to “Die” and I reluctantly changed it back).</li>
-        <li>AI-first companies like Perplexity are releasing their own AI browsers.</li>
-        <li>OpenAI hired ex-Chrome engineers and the rumor is they are building a browser.</li>
-        </ul>
-        <p>Safari is notably absent from that list.</p>
-        <p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2025/browsers-rip.jpg" width="533" height="306" alt="Browser logos for Chrome, Firefox, and Edge on a tombstone that says “RIP” (Safari is on the outside of the tombstone). To the right of that is a photo of a bunch of newborn babies with their faces covered by a bunch of AI browser logos like Chrome, Edge, Firefox, Comet, and Dia." data-og-image />
-        
-        </p><p>This all leads Richard to ask:</p>
-        <blockquote>
-        <p>One has to wonder if “browser” is even the right word for what products like Chrome and Edge are evolving into. We are moving further away from curiosity-driven exploration of the web — the modern browser is becoming an automaton, narrowing what we can discover and reducing the serendipity.</p>
-        </blockquote>
-        <p>The Chrome folks don’t appear to be shying away from the fact that they’re keen on <del>killing</del> evolving this long-held definition of what a “browser” is. From <a href="https://blog.google/products/chrome/chrome-reimagined-with-ai/" >their announcement</a>:</p>
-        <blockquote>
-        <p>This isn’t just about adding new features; it’s about fundamentally changing the nature of browsing</p>
-        </blockquote>
-        <p>One of the examples they give is that of a student researching a topic for a paper with dozens of tabs:</p>
-        <blockquote>
-        <p>Instead of spending hours jumping between sources and trying to connect the dots, your new AI browsing assistant — Gemini in Chrome — can do it for you.</p>
-        </blockquote>
-        <p>Wait what? Jumping between sources and trying to connect dots is literally <a href="https://notes.jim-nielsen.com/#2025-06-09T0732" >the work of research and learning</a>. The paper is merely a proxy to evaluate the success of the work. Can you automate learning?</p>
-        <p>But I digress.</p>
-        <p>Look, I like browsers. No, I <strong>LOVE</strong> browsers.</p>
-        <p>But it does kinda feel like “browser” is undergoing a similar redefinition as “phone”.</p>
-        <p>“Phones” used to be these devices that allowed you to speak with other people who weren’t within earshot of you.</p>
-        <p>Now they do that <em>and</em> a million other things, like let you listen to music, watch videos, order pizza, transfer money, find love, rent a vacation home, be radicalized, purchase underwear, take photos, etc. </p>
-        <p>However, despite all those added features, we still call them “phones”.</p>
-        <p>Perhaps I need to start redefining what I mean when I say “browser”.</p>
-        
-            <hr />
-            
-        
-            <p>
-              Reply via:
-              
-        
-              <a
-                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/rip-browsers/"
-                >Email</a
-              >
-              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
-        
-              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
-            </p>
-        
-            
-              <p>
-                Related posts linking here:
-                <a href="/2025/og-images-via-data-attributes/">(2025) Social Share Imagery via a Data Attribute</a>
-              </p>]]>
-      </description>
-      <source:markdown>Richard MacManus just posted [“Chrome Switches on AI: The Future of Browsing Begins Now”](https://thenewstack.io/chrome-switches-on-ai-the-future-of-browsing-begins-now/) where he points out that what we think of today as “browsers” is undergoing a radical change. Here’s the lay of the land:
-
-- Microsoft launched “Copilot Mode” on Edge and promotes it as an “AI-powered browser.”
-- Mozilla is baking AI into Firefox
-- Atlassian is into browsers now with their acquisition of The Browser Company and its AI browser Dia (my computer autocorrected that to “Die” and I reluctantly changed it back).
-- AI-first companies like Perplexity are releasing their own AI browsers.
-- OpenAI hired ex-Chrome engineers and the rumor is they are building a browser.
-
-Safari is notably absent from that list.
-
-![Browser logos for Chrome, Firefox, and Edge on a tombstone that says “RIP” (Safari is on the outside of the tombstone). To the right of that is a photo of a bunch of newborn babies with their faces covered by a bunch of AI browser logos like Chrome, Edge, Firefox, Comet, and Dia.](https://cdn.jim-nielsen.com/blog/2025/browsers-rip.jpg)
-
-This all leads Richard to ask:
-
-&#62; One has to wonder if “browser” is even the right word for what products like Chrome and Edge are evolving into. We are moving further away from curiosity-driven exploration of the web — the modern browser is becoming an automaton, narrowing what we can discover and reducing the serendipity.
-
-The Chrome folks don’t appear to be shying away from the fact that they’re keen on killing evolving this long-held definition of what a “browser” is. From [their announcement](https://blog.google/products/chrome/chrome-reimagined-with-ai/):
-
-&#62; This isn’t just about adding new features; it’s about fundamentally changing the nature of browsing
-
-One of the examples they give is that of a student researching a topic for a paper with dozens of tabs:
-
-&#62; Instead of spending hours jumping between sources and trying to connect the dots, your new AI browsing assistant — Gemini in Chrome — can do it for you.
-
-Wait what? Jumping between sources and trying to connect dots is literally [the work of research and learning](https://notes.jim-nielsen.com/#2025-06-09T0732). The paper is merely a proxy to evaluate the success of the work. Can you automate learning?
-
-But I digress.
-
-Look, I like browsers. No, I **LOVE** browsers.
-
-But it does kinda feel like “browser” is undergoing a similar redefinition as “phone”.
-
-“Phones” used to be these devices that allowed you to speak with other people who weren’t within earshot of you.
-
-Now they do that _and_ a million other things, like let you listen to music, watch videos, order pizza, transfer money, find love, rent a vacation home, be radicalized, purchase underwear, take photos, etc.
-
-However, despite all those added features, we still call them “phones”.
-
-Perhaps I need to start redefining what I mean when I say “browser”.
-
-* * *
-
-Reply via:
-
-
-[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/rip-browsers/)
-· [Mastodon](https://mastodon.social/@jimniels) ·
-
-[Bluesky](https://bsky.app/profile/jim-nielsen.com)
-
-Related posts linking here:
-[(2025) Social Share Imagery via a Data Attribute](/2025/og-images-via-data-attributes/)</source:markdown>
-      <guid>cid://https://blog.jim-nielsen.com/2025/rip-browsers/</guid>
-    </item>    <item>
-      <title>Gina Trapani writes about taking a sabbatical. &#38;#8220;Take afternoon naps. Bigger things...</title>
-      <link>https://kottke.org/25/09/0047521-gina-trapani-writes-about</link>
-      <guid>cid://tag:kottke.org,2025://13.47521</guid>
-    </item>    <item>
-      <title>SpamSieve 3.2</title>
-      <link>https://mjtsai.com/blog/2025/09/18/spamsieve-3-2/</link>
-      <description>
-        <![CDATA[SpamSieve 3.2 includes lots of updates for macOS Tahoe 26 and adds remote training and improvements to the filtering accuracy. I love the new app icon that Kenichi Yoshida designed. To avoid jail, the sieve is now within the squircle. It&#8217;s also enlarged, and there&#8217;s once again room to see the envelope coming out the [&#8230;]]]>
-      </description>
-      <source:markdown>SpamSieve 3.2 includes lots of updates for macOS Tahoe 26 and adds remote training and improvements to the filtering accuracy. I love the new app icon that Kenichi Yoshida designed. To avoid jail, the sieve is now within the squircle. It’s also enlarged, and there’s once again room to see the envelope coming out the \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49315</guid>
-    </item>    <item>
-      <title>Nvidia Buys $5B in Intel</title>
-      <link>https://mjtsai.com/blog/2025/09/18/nvidia-buys-5b-in-intel/</link>
-      <description>
-        <![CDATA[Paul Alcorn (via Hacker News): In a surprise announcement that finds two long-time rivals working together, Nvidia and Intel announced today that the companies will jointly develop multiple new generations of x86 products together &#8212; a seismic shift with profound implications for the entire world of technology. Before the news broke, Tom&#8217;s Hardware spoke with [&#8230;]]]>
-      </description>
-      <source:markdown>Paul Alcorn (via Hacker News): In a surprise announcement that finds two long-time rivals working together, Nvidia and Intel announced today that the companies will jointly develop multiple new generations of x86 products together — a seismic shift with profound implications for the entire world of technology. Before the news broke, Tom’s Hardware spoke with \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49313</guid>
-    </item>    <item>
-      <title>Tahoe’s New Recovery Assistant</title>
-      <link>https://mjtsai.com/blog/2025/09/18/tahoes-new-recovery-assistant/</link>
-      <description>
-        <![CDATA[Joe Rossignol: If your Mac experiences an issue that prevents it from starting up properly, macOS Tahoe includes a new Recovery Assistant that can attempt to identify the issue and resolve it, according to an Apple support document published this week. [&#8230;] Recovery Assistant is also available from the Utilities menu in macOS Recovery mode. [&#8230;]]]>
-      </description>
-      <source:markdown>Joe Rossignol: If your Mac experiences an issue that prevents it from starting up properly, macOS Tahoe includes a new Recovery Assistant that can attempt to identify the issue and resolve it, according to an Apple support document published this week. \[…\] Recovery Assistant is also available from the Utilities menu in macOS Recovery mode. \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49311</guid>
-    </item>    <item>
-      <title>Official Overcast Reddit</title>
-      <link>https://mjtsai.com/blog/2025/09/18/official-overcast-reddit/</link>
-      <description>
-        <![CDATA[Marco Arment (Mastodon): Frankly, I&#8217;m taking a risk, and am considering it an experiment. I know almost nothing about Reddit, but I want to learn.I want Overcast to have an official presence here, where I can just tell you what I&#8217;m working on, what I&#8217;m considering, which bugs I&#8217;m trying to tackle, and how things [&#8230;]]]>
-      </description>
-      <source:markdown>Marco Arment (Mastodon): Frankly, I’m taking a risk, and am considering it an experiment. I know almost nothing about Reddit, but I want to learn.I want Overcast to have an official presence here, where I can just tell you what I’m working on, what I’m considering, which bugs I’m trying to tackle, and how things \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49309</guid>
-    </item>    <item>
-      <title>When Technology Policy Defends Human Dignity</title>
-      <link>https://puri.sm/posts/when-technology-policy-defends-human-dignity/</link>
-      <description>
-        <![CDATA[<p>In late August, Italy took a decisive step to protect women from one of the most insidious forms of online abuse: the non‑consensual sharing of intimate or misappropriated images. After years of complaints, activism, and public outrage, a notorious website — home to thousands of stolen photos of women, from ordinary citizens to public figures — was forced offline following a wave of legal and political pressure.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/when-technology-policy-defends-human-dignity/">When Technology Policy Defends Human Dignity</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>In late August, Italy took a decisive step to protect women from one of the most insidious forms of online abuse: the non‑consensual sharing of intimate or misappropriated images. After years of complaints, activism, and public outrage, a notorious website — home to thousands of stolen photos of women, from ordinary citizens to public figures — was forced offline following a wave of legal and political pressure.
-
-The post [When Technology Policy Defends Human Dignity](https://puri.sm/posts/when-technology-policy-defends-human-dignity/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=84366</guid>
-    </item>    <item>
-      <title>The NYPD’s $3B “Domain Awareness System” isn’t just a New York problem—it’s a warning for every American</title>
-      <link>https://puri.sm/posts/the-nypds-3b-domain-awareness-system-isnt-just-a-new-york-problem-its-a-warning-for-every-american/</link>
-      <description>
-        <![CDATA[<p>In her September 15, 2025, New York Times opinion piece, Elizabeth Daniel Vasquez lays bare a reality too many Americans have ignored: the New York Police Department has quietly built one of the most expansive, integrated surveillance systems in the nation’s history.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/the-nypds-3b-domain-awareness-system-isnt-just-a-new-york-problem-its-a-warning-for-every-american/">The NYPD’s $3B “Domain Awareness System” isn’t just a New York problem—it’s a warning for every American</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>In her September 15, 2025, New York Times opinion piece, Elizabeth Daniel Vasquez lays bare a reality too many Americans have ignored: the New York Police Department has quietly built one of the most expansive, integrated surveillance systems in the nation’s history.
-
-The post [The NYPD’s $3B “Domain Awareness System” isn’t just a New York problem—it’s a warning for every American](https://puri.sm/posts/the-nypds-3b-domain-awareness-system-isnt-just-a-new-york-problem-its-a-warning-for-every-american/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=84454</guid>
-    </item>    <item>
-      <title>Contractor Used Classified CIA Systems as ‘His Own Personal Google’</title>
-      <link>https://www.404media.co/contractor-used-classified-cia-systems-as-his-own-personal-google/</link>
-      <description>
-        <![CDATA[Dale Britt Bendler “​​earned approximately $360,000 in private client fees while also working as a full-time CIA contractor with daily access to highly classified material that he searched like it was his own personal Google,” according to a court record.]]>
-      </description>
-      <guid>cid://68cc43fff83e9d000103e213</guid>
-    </item>    <item>
-      <title>This sounds like a cool project: Pocket Fiche is a pocket-sized microscope...</title>
-      <link>https://kottke.org/25/09/0047529-this-sounds-like-a-cool</link>
-      <guid>cid://tag:kottke.org,2025://13.47529</guid>
-    </item>    <item>
-      <title>Union Warns Professors About Posting In the ‘Current Climate’</title>
-      <link>https://www.404media.co/union-warns-professors-about-posting-in-the-current-climate/</link>
-      <description>
-        <![CDATA[Academic workers are re-thinking how they live and work online after some have been fired for criticizing Charlie Kirk following his death.]]>
-      </description>
-      <guid>cid://68cc3ddff83e9d000103e0dd</guid>
-    </item>    <item>
-      <title>Living in the Regulatory Future: Purism, the EU Data Act, and America’s Patchwork Privacy Laws</title>
-      <link>https://puri.sm/posts/living-in-the-regulatory-future-purism-the-eu-data-act-and-americas-patchwork-privacy-laws/</link>
-      <description>
-        <![CDATA[<p>Recently, the EU Data Act was officially enacted — and with it, a new era of enforceable digital rights. Where the GDPR set the policy framework, the Data Act demands proof: verifiable, auditable systems that deliver true data portability, secure interoperability, and privacy‑by‑design across sectors.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/living-in-the-regulatory-future-purism-the-eu-data-act-and-americas-patchwork-privacy-laws/">Living in the Regulatory Future: Purism, the EU Data Act, and America’s Patchwork Privacy Laws</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>Recently, the EU Data Act was officially enacted — and with it, a new era of enforceable digital rights. Where the GDPR set the policy framework, the Data Act demands proof: verifiable, auditable systems that deliver true data portability, secure interoperability, and privacy‑by‑design across sectors.
-
-The post [Living in the Regulatory Future: Purism, the EU Data Act, and America’s Patchwork Privacy Laws](https://puri.sm/posts/living-in-the-regulatory-future-purism-the-eu-data-act-and-americas-patchwork-privacy-laws/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=84425</guid>
-    </item>    <item>
-      <title>Your Fridge Really Doesn’t Need a Screen</title>
-      <link>https://onefoottsunami.com/2025/09/18/your-fridge-really-doesnt-need-a-screen/</link>
-      <guid>cid://https://onefoottsunami.com/?p=29157</guid>
-    </item>    <item>
-      <link>https://www.politico.com/news/2025/08/29/netflix-ceo-2-million-gavin-newsom-redistricting-campaign-00536569</link>
-      <description>
-        <![CDATA[<p>Netflix would be an obvious place for the late night entertainment comedians to relocate to.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/18/1139/</guid>
-    </item>    <item>
-      <link>https://apnews.com/article/supreme-court-trump-lisa-cook-federal-reserve-d7cd7bf7b8bca591b1748591836c3645</link>
-      <description>
-        <![CDATA[<p>Trump asks Supreme Court for emergency order to remove Fed Gov. Cook.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/18/1137/</guid>
-    </item>    <item>
-      <title>The more recent history of DR GEM</title>
-      <link>https://liam-on-linux.dreamwidth.org/96552.html</link>
-      <description>
-        <![CDATA[A tech blogger called&nbsp;Nemanja Trifunovic posted an enjoyable article called the&nbsp;<a href="https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment">History of the GEM Desktop Environment</a>.<br /><br />It's a nice piece -- it's very good on the early history.<div>&nbsp;</div><div>It does, however, totally omit much of the later development.</div><div>&nbsp;</div><div>When Caldera released the source code, it also <a href="http://www.deltasoft.com/news.htm">released</a> the unfinished <a href="https://lunduke.substack.com/p/freegemxm-the-open-source-version">multitasking GEM/XM version</a>.</div><div>&nbsp;</div><div>Another version was <a href="http://bitsavers.informatik.uni-stuttgart.de/pdf/digitalResearch/flexos/flexos_386/Inside_Flexos386_Part_4_Computer_Shopper_199001.pdf">X/GEM on FlexOS</a> [PDF], DR's multitasking RTOS line, and at least some forms of UNIX.</div><div>&nbsp;</div><div>DR&nbsp;FlexOS eventually evolved into <a href="https://en.wikipedia.org/wiki/FlexOS#4680_OS">IBM 4680 OS</a>.&nbsp;</div><div>&nbsp;</div><div>And that evolved into <a href="https://en.wikipedia.org/wiki/4690_Operating_System">IBM 4690 OS</a>, later sold as Toshiba 4690 OS.</div><div>&nbsp;</div><div>This supports a GUI, which I think is based on X/GEM -- as well as TCP/IP networking, app development in Java, and more. It was sold until about 10 years ago.&nbsp;</div><div>&nbsp;</div><div>I don't think I've ever seen a screenshot.</div><div>&nbsp;</div><div>There have also been interesting later FOSS developments.</div><div>&nbsp;</div><div>On the ST platform, TOS + GEM evolved in multiple directions. Some were proprietary, such as <a href="https://en.wikipedia.org/wiki/MagiC">MagiC</a>.</div><div>&nbsp;</div><div>A FOSS one became <a href="https://en.wikipedia.org/wiki/MiNT">MiNT</a>, which is sometimes called FreeMINT.</div><div>&nbsp;</div><div>This became the basis of TOS 4, so &quot;Mint is Not TOS&quot; was redefined to mean <em>Mint is Now TOS</em>.</div><div>&nbsp;</div><div>There's a complete distro of FreeMINT with the TeraDesk multitasking desktop, called <a href="https://aranym.github.io/afros.html">AFROS</a>. It targets a FOSS ST emulator called <a href="https://aranym.github.io/">ARANyM</a>.</div><div>&nbsp;</div><div>One <a href="https://github.com/ragnar76/afros">version is on Github</a>.</div><div>&nbsp;</div><div>Some very minimal firmware to emulate just enough of TOS to boot the MINT replacement OS was developed, called <a href="https://emutos.sourceforge.io/">EmuTOS</a>.</div><div>&nbsp;</div><div>This eventually grew into a very complete FOSS clone of TOS+GEM. It even supports some Amiga hardware now!</div><div>&nbsp;</div><div>There's a 4min<a href="https://www.youtube.com/watch?v=-kYr5ftxyTA"> demo on Youtube</a>.&nbsp;</div><div>&nbsp;</div><div>EmuTOS went from a stub ROM that just reproduced something analogous to the kernel of MS-DOS to a full graphical OS, <em>using the PC GEM source code that Caldera made GPL</em>.</div><div>&nbsp;</div><div>So there is a lovely full circle here, where the ST version continued for years after Windows killed off the PC version, but then the PC version got open-sourced and was used to revive and modernise the ST version in the 21st century.</div><div><br />&nbsp;</div><div>There's been a lot more GEM-related development in the last decade or two than you'd expect. This makes me happy.&nbsp;</div><br /><br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=96552" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments]]>
-      </description>
-      <source:markdown>A tech blogger called Nemanja Trifunovic posted an enjoyable article called the [History of the GEM Desktop Environment](https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment).
-
-It&#39;s a nice piece -- it&#39;s very good on the early history.
-
-It does, however, totally omit much of the later development.
-
-When Caldera released the source code, it also [released](http://www.deltasoft.com/news.htm) the unfinished [multitasking GEM/XM version](https://lunduke.substack.com/p/freegemxm-the-open-source-version).
-
-Another version was [X/GEM on FlexOS](http://bitsavers.informatik.uni-stuttgart.de/pdf/digitalResearch/flexos/flexos_386/Inside_Flexos386_Part_4_Computer_Shopper_199001.pdf) \[PDF\], DR&#39;s multitasking RTOS line, and at least some forms of UNIX.
-
-DR FlexOS eventually evolved into [IBM 4680 OS](https://en.wikipedia.org/wiki/FlexOS#4680_OS).
-
-And that evolved into [IBM 4690 OS](https://en.wikipedia.org/wiki/4690_Operating_System), later sold as Toshiba 4690 OS.
-
-This supports a GUI, which I think is based on X/GEM -- as well as TCP/IP networking, app development in Java, and more. It was sold until about 10 years ago.
-
-I don&#39;t think I&#39;ve ever seen a screenshot.
-
-There have also been interesting later FOSS developments.
-
-On the ST platform, TOS + GEM evolved in multiple directions. Some were proprietary, such as [MagiC](https://en.wikipedia.org/wiki/MagiC).
-
-A FOSS one became [MiNT](https://en.wikipedia.org/wiki/MiNT), which is sometimes called FreeMINT.
-
-This became the basis of TOS 4, so &#34;Mint is Not TOS&#34; was redefined to mean _Mint is Now TOS_.
-
-There&#39;s a complete distro of FreeMINT with the TeraDesk multitasking desktop, called [AFROS](https://aranym.github.io/afros.html). It targets a FOSS ST emulator called [ARANyM](https://aranym.github.io/).
-
-One [version is on Github](https://github.com/ragnar76/afros).
-
-Some very minimal firmware to emulate just enough of TOS to boot the MINT replacement OS was developed, called [EmuTOS](https://emutos.sourceforge.io/).
-
-This eventually grew into a very complete FOSS clone of TOS+GEM. It even supports some Amiga hardware now!
-
-There&#39;s a 4min [demo on Youtube](https://www.youtube.com/watch?v=-kYr5ftxyTA).
-
-EmuTOS went from a stub ROM that just reproduced something analogous to the kernel of MS-DOS to a full graphical OS, _using the PC GEM source code that Caldera made GPL_.
-
-So there is a lovely full circle here, where the ST version continued for years after Windows killed off the PC version, but then the PC version got open-sourced and was used to revive and modernise the ST version in the 21st century.
-
-There&#39;s been a lot more GEM-related development in the last decade or two than you&#39;d expect. This makes me happy.
-
-![comment count unavailable](https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&#38;ditemid=96552) comments</source:markdown>
-      <guid>cid://https://liam-on-linux.dreamwidth.org/96552.html</guid>
-    </item>    <item>
-      <link>https://www.thenextmove.org/p/i-saw-how-russia-killed-media-freedom?utm_source=post-email-title&#38;publication_id=4398493&#38;post_id=173947421&#38;utm_campaign=email-post-title&#38;isFreemail=true&#38;r=w33x&#38;triedRedirect=true&#38;utm_medium=email</link>
-      <description>
-        <![CDATA[<p>Garry Kasparov: I Saw How Russia Killed Media Freedom.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/18/1135/</guid>
-    </item>    <item>
-      <title>Empowering the future: The expanding Arm app ecosystem for Copilot+ PCs</title>
-      <link>https://blogs.windows.com/windowsdeveloper/2025/09/18/empowering-the-future-the-expanding-arm-app-ecosystem-for-copilot-pcs/</link>
-      <description>
-        <![CDATA[<p>The introduction of Copilot+ PCs is driving a transformative shift in the world of personal and enterprise computing. These devices combine <a href="https://learn.microsoft.com/en-us/windows/deployment/performance-lab/claims-disclosures?tabs=copilot-
-        </p>
-        <p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/09/18/empowering-the-future-the-expanding-arm-app-ecosystem-for-copilot-pcs/">Empowering the future: The expanding Arm app ecosystem for Copilot+ PCs</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>]]>
-      </description>
-      <source:markdown>The introduction of Copilot+ PCs is driving a transformative shift in the world of personal and enterprise computing. These devices combine [Empowering the future: The expanding Arm app ecosystem for Copilot+ PCs](https://learn.microsoft.com/en-us/windows/deployment/performance-lab/claims-disclosures?tabs=copilot-
-&#60;/p&#62;
-&#60;p&#62;The post &#60;a href=) appeared first on [Windows Developer Blog](https://blogs.windows.com/windowsdeveloper).</source:markdown>
-      <guid>cid://https://blogs.windows.com/windowsdeveloper/?p=57553</guid>
-    </item>    <item>
-      <title>Dear Stranger: hablar no es comunicar</title>
-      <link>https://www.palomitademaiz.net/resenas-dear-stranger/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-dear-stranger</link>
-      <description>
-        <![CDATA[<p>Dirección: Tetsuya Mariko. Guion: Tetsuya Mariko. Elenco: Hidetoshi Nishijima, Gwei Lun-Mei, Julian Wang, Christopher Mann, Everest Tald, Fiona Fu. Países: Japón, Taiwán, Estados Unidos. Más información de la película: https://www.imdb.com/title/tt36628915/ Yo me le perdí unas cuantas veces a mi mamá en supermercados y tiendas departamentales. La mayoría de las veces fue sin querer, pero sí [&#8230;]</p>
-        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-dear-stranger/">Dear Stranger: hablar no es comunicar</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
-      </description>
-      <source:markdown>Dirección: Tetsuya Mariko. Guion: Tetsuya Mariko. Elenco: Hidetoshi Nishijima, Gwei Lun-Mei, Julian Wang, Christopher Mann, Everest Tald, Fiona Fu. Países: Japón, Taiwán, Estados Unidos. Más información de la película: https://www.imdb.com/title/tt36628915/ Yo me le perdí unas cuantas veces a mi mamá en supermercados y tiendas departamentales. La mayoría de las veces fue sin querer, pero sí \[…\]
-
-La entrada [Dear Stranger: hablar no es comunicar](https://www.palomitademaiz.net/resenas-dear-stranger/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
-      <guid>cid://https://www.palomitademaiz.net/?p=25515</guid>
-    </item>    <item>
-      <title>Some unusual rocks observed by NASA&#38;#8217;s Perseverance rover &#38;#8220;could be the clearest...</title>
-      <link>https://kottke.org/25/09/0047524-some-unusual-rocks-observ</link>
-      <guid>cid://tag:kottke.org,2025://13.47524</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/18.html#a153729</link>
-      <description>
-        <![CDATA[<a href="https://imgs.scripting.com/2025/09/18/disneystock.png">Disney stock</a> down 1.1% at 11:30AM Eastern, indicating that in the opinion of shareholders, the first amendment isn't that big a deal for a media company.]]>
-      </description>
-      <source:markdown>[Disney stock](https://imgs.scripting.com/2025/09/18/disneystock.png) down 1.1% at 11:30AM Eastern, indicating that in the opinion of shareholders, the first amendment isn&#39;t that big a deal for a media company.</source:markdown>
-      <guid>cid://http://scripting.com/2025/09/18.html#a153729</guid>
-    </item>    <item>
-      <title>What Positioning Really Means in Branding</title>
-      <link>https://guykawasaki.substack.com/p/what-positioning-really-means-in</link>
-      <description>
-        <![CDATA[Branding strategist Laura Ries joins me on Remarkable People to share how companies win not by being &#8220;better,&#8221; but by being different.]]>
-      </description>
-      <source:markdown>Branding strategist Laura Ries joins me on Remarkable People to share how companies win not by being “better,” but by being different.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!hY99!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c7e2a8c-639d-43dd-83b4-9a9b80c15f68_792x792.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://guykawasaki.substack.com/p/what-positioning-really-means-in</guid>
-    </item>    <item>
-      <title>Note published on September 18, 2025 at 3:04 PM UTC</title>
-      <link>https://www.mollywhite.net/micro/entry/202509181104</link>
-      <guid>cid://68cc1f8b133dae2d072df1e0</guid>
-    </item>    <item>
-      <title>Hard Disk Unexpectedly Not Dead</title>
-      <link>https://blog.dshr.org/2025/09/hard-disk-unexpectedly-not-dead.html</link>
-      <description>
-        <![CDATA[As I read Zak Killian's <a href="https://www.tomshardware.com/pc-components/storage/expect-hdd-ssd-shortages-as-ai-rewrites-the-rules-of-storage-hierarchy-multiple-companies-announce-price-hikes-too"><i>Expect HDD, SSD shortages as AI rewrites the rules of storage hierarchy — multiple companies announce price hikes, too</i></a> I realized I had forgotten to write this year's version of my annual post on the Library of Congress' <a href="https://digitalpreservation.gov/meetings/storage25.html"><i>Desihning Storage Architectures</i></a> meeting, which was back in March. So below the fold I discuss a few of the DSA talks, Killian's more recent post, and yet another development in DNA storage. The TL;DR is that the long-predicted death of hard disks is continuing to fail to materialize, and so is the equally long-predicted death of tape.<br />
-        <span><a name='more'></a></span>
-        <br />
-        Killian's post <a href="https://www.tomshardware.com/pc-components/storage/expect-hdd-ssd-shortages-as-ai-rewrites-the-rules-of-storage-hierarchy-multiple-companies-announce-price-hikes-too"> starts</a>:<br />
-        <blockquote>
-        The computing market is absolutely ablaze with AI-driven growth. Regardless of how sustainable it might be, companies are spending untold amounts of wealth on hardware, with most headlines revolving around GPUs. But the storage market is also under pressure, especially hard drive vendors who purportedly haven't done much to increase manufacturing capacity in a decade. TrendForce says lead times for high-capacity "nearline" hard drives have ballooned to over 52 weeks — more than a full year.
-        </blockquote>
-        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgduhML7c5zrtKvf0vUb9wlZRINt-1D1O7uKQdQJu73_qtxbGllyT9SoQ9r1q9rPBb2S4MOeTciiuHv6qdXjNNB7sRnP4zOajx-dXaPb63BbkdvKFgcgD6uxtdptOPK2s5cz1p1_sh7gY8W9f4eXM2F_oKc0T8LI2jAzlE2fINnVt1GFGzBZR9osuU9OEML/s1024/WD-091225.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="974" data-original-width="1024" height="190" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgduhML7c5zrtKvf0vUb9wlZRINt-1D1O7uKQdQJu73_qtxbGllyT9SoQ9r1q9rPBb2S4MOeTciiuHv6qdXjNNB7sRnP4zOajx-dXaPb63BbkdvKFgcgD6uxtdptOPK2s5cz1p1_sh7gY8W9f4eXM2F_oKc0T8LI2jAzlE2fINnVt1GFGzBZR9osuU9OEML/w200-h190/WD-091225.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.tomshardware.com/pc-components/storage/expect-hdd-ssd-shortages-as-ai-rewrites-the-rules-of-storage-hierarchy-multiple-companies-announce-price-hikes-too">Source</a></td></tr></tbody></table>
-        <a href="https://www.tomshardware.com/pc-components/storage/expect-hdd-ssd-shortages-as-ai-rewrites-the-rules-of-storage-hierarchy-multiple-companies-announce-price-hikes-too">Western Digital is</a>:<br />
-        <blockquote>
-        warning of "unprecedented demand for every capacity in [its] portfolio," and stating that it is raising prices on all of its hard drives. 
-        </blockquote>
-        The unprecedented demand from AI farms is <a href="https://www.tomshardware.com/pc-components/storage/expect-hdd-ssd-shortages-as-ai-rewrites-the-rules-of-storage-hierarchy-multiple-companies-announce-price-hikes-too">because</a>:<br />
-        <blockquote>
-        You don't just need the data required to run inference. You also need the history of everything to prove to regulators that you're not laundering bias, to retrain when new data comes in, and to roll back to a previous checkpoint if your fine-tuned model goes feral and, say, starts <a href="https://www.tomshardware.com/tech-industry/the-new-frontier-meet-the-power-players-cashing-in-on-the-ai-gold-rush">referring to itself as MechaHitler</a>. This stuff can't go to offline storage until you're certain it isn't needed in the short term. But it's too big to live in the primary storage of all but the beefiest servers. Thus, the need for nearline hard drives.
-        </blockquote>
-        <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiytDHeV0Bl6Gmpt58dvVvA3vo84zmSsmaGqAiU7FVuUjwc6BX24_Ca0KVJz2qswExYzRgVe9LP_UNgM44MYh8U4WdWdPFucPMxIfzu_Rj7MRkzAQFTuGVJ712AMeDcgXSlp3bvzzzb0e3TCgXod0f7BibxI3NB8wqoFvVBiDfPWVgtVxp1o2b583yLyRwN/s2296/WD-Projection.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="958" data-original-width="2296" height="84" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiytDHeV0Bl6Gmpt58dvVvA3vo84zmSsmaGqAiU7FVuUjwc6BX24_Ca0KVJz2qswExYzRgVe9LP_UNgM44MYh8U4WdWdPFucPMxIfzu_Rj7MRkzAQFTuGVJ712AMeDcgXSlp3bvzzzb0e3TCgXod0f7BibxI3NB8wqoFvVBiDfPWVgtVxp1o2b583yLyRwN/w200-h84/WD-Projection.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">WD's projection</td></tr></tbody></table>
-        At the meeting, Western Digital's Dave Landsman's <a href="https://digitalpreservation.gov/meetings/DSA2025/010202_landsman_1_LoC%20DSA%202025%20-%20HDDs%20are%20here%20to%20stay.pdf"><i>HDDs are here to stay</i></a> made the same point with this graph using data from IDC and TrendFocus. They are projecting that both disk and enterprise SSD will grow in the low 20%/year range, so the vast bulk of data in data centers will remain on disk. Landsman claims that SSDs are and will remain 6 times as expensive per bit as hard disk and that 81% of installed data center capacity is on hard disk.<br />
-        <br />
-        Keeping the data on hard disk might actually be a good idea. <a href="https://digitalpreservation.gov/meetings/DSA2025/020102_sethi_Sustainability%20in%20Datacenters%20-%20Library_Of_Congress%20-%20New.pdf"><i>Sustainability in Datacenters</i></a> by Shruti Sethi presented a joint Microsoft/Carnegie-Mellon study of the scope 2 (operational) and scope 3 (embedded) carbon emissions of compute, SSD and HDD racks in Azure's data centers. The study, <a href="https://hotcarbon.org/assets/2024/pdf/hotcarbon24-final126.pdf"><i>A Call for Research on Storage Emissions</i></a> by Sara MacAllister <i>et al</i> concluded that:<br />
-        <blockquote>
-        an SSD storage rack has approximately 4× the operational emissions per TB of an HDD storage rack.  Storage devices (SSDs and HDDs) are the largest single contributor of operational emissions. For SSD racks, storage devices account for 39% of emissions, whereas for HDD racks they account for 48% of emissions. These numbers contradict the conventional wisdom that processing units dominate energy consumption: storage servers carry so many storage devices that they become the dominant energy consumers.<br />
-        ...<br />
-        SSD racks emit approximately 10× the embodied emissions per TB as that of HDD storage racks. The storage devices themselves dominate embodied emissions, accounting for 81% and 55% of emissions in SSD and HDD racks, respectively. 
-        </blockquote>
-        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4xCp7JS1RPsO8y4lAalhFtO_v_dfYrXLKTbN9koo7aJJW0JPewtNPoOFBK6FAGrMDMmvZtu-68YFupKyadj_aZzagvklEZRM9CpOIhoobboJkId6egumoVvMm5VFO358UNENZgk3lLKMB_wSW0mgZp7Vz801SS5JyB22vWaZ2UE4pBjunRMH2lgqdsNK9/s3522/ArealDensity2025.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1670" data-original-width="3522" height="95" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4xCp7JS1RPsO8y4lAalhFtO_v_dfYrXLKTbN9koo7aJJW0JPewtNPoOFBK6FAGrMDMmvZtu-68YFupKyadj_aZzagvklEZRM9CpOIhoobboJkId6egumoVvMm5VFO358UNENZgk3lLKMB_wSW0mgZp7Vz801SS5JyB22vWaZ2UE4pBjunRMH2lgqdsNK9/w200-h95/ArealDensity2025.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://digitalpreservation.gov/meetings/DSA2025/010201_lauhoff_LoC2025_IBM_G_Lauhoff.pdf">Areal Density Trends</a></td></tr></tbody></table>
-        As usual, the authoritative word on the performance of the storage industry comes from IBM. Georg Lauhoff &amp; Sassan Shahidi's <a href="https://digitalpreservation.gov/meetings/DSA2025/010201_lauhoff_LoC2025_IBM_G_Lauhoff.pdf"><i>Data Storage Trends: NAND, HDD and Tape Storage</i></a> added another year's data points to their invaluable graphs and revealed that:<br />
-        <ul>
-        <li>NAND areal density continues to increase rapidly, because 3D scales faster than the 2D of disk and tape.</li>
-        <li>Disk's 8%/year areal density increase continued, but note that although their graph includes Seagate's 32TB HAMR drive the effect of Seagate's and later WD's deployment of HAMR didn't really start until later in 2025.</li>
-        <li>Tape continued its 27%/year increase.</li>
-        </ul>
-        Coming from a tape supplier this comment isn't surprising but it is <a href="https://digitalpreservation.gov/meetings/DSA2025/010201_lauhoff_LoC2025_IBM_G_Lauhoff.pdf">correct</a>:<br />
-        <blockquote>
-        Despite the promise of alternative archive storage technologies, challenges persist.  Enduring relevance of tape storage, which itself is rapidly evolving.
-        </blockquote>
-        The main problem being that the huge investment and long time horizon needed to displace tape's 7% of the storage market <a href="https://blog.dshr.org/2018/03/archival-media-not-good-business.html">can't generate the necessary return</a>.<br />
-        <br />
-        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRtJXZEBVEOZ3xKWAlLjYsxIslzWJjI3o3qImrkIbWWxhBW7zeRw2nAfEloARMNl0BDSoE_Aa79gAJ3JH1DxW1fz9vooNeomEzJIj763fxSRM5pYSGYFcAzIUuzpw_SU3c6YQVOikmb886B7nPmAyus62hLMZPttGSQF9JDItjqV8DTY3eFEMjEFFZMT-9/s3364/ProductVsDemo.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1714" data-original-width="3364" height="102" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRtJXZEBVEOZ3xKWAlLjYsxIslzWJjI3o3qImrkIbWWxhBW7zeRw2nAfEloARMNl0BDSoE_Aa79gAJ3JH1DxW1fz9vooNeomEzJIj763fxSRM5pYSGYFcAzIUuzpw_SU3c6YQVOikmb886B7nPmAyus62hLMZPttGSQF9JDItjqV8DTY3eFEMjEFFZMT-9/w200-h102/ProductVsDemo.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://digitalpreservation.gov/meetings/DSA2025/010201_lauhoff_LoC2025_IBM_G_Lauhoff.pdf">Product vs. Demo</a></td></tr></tbody></table>
-        One fascinating graph shows the difference between demonstrations and products for tape and disk. I keep pointing out the very long timescales in the storage industry. In January's <a href="https://blog.dshr.org/2025/01/storage-roundup.html"><i>Storage Roundup</i></a> I noted that HAMR was just starting to be deployed 23 years after Seagate demonstrated it. Lauhoff &amp; Shahidi's graph shows that the current tape density was demo-ed in 2006 and shipped in 2022, and that disk's current density was demo-ed in 2012.<br />
-        <br />
-        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixNDmJ8JIKJ6699UvI_nncr8li4Vpdi8s4nuvHbUemYsmeN8x2koZ06CSBufOAFadC3vIQ_EY6-n4WkOkBhZzAxYEnSfGBSpLKONUePNG5VPY3-GU5acdw7i9Ou8cSD4PXY9UOcsnw5q5g9kBCiFW5g5L2wNSMqN9yaxVIhOD4p01oFkmmU49fgYKjwemR/s1700/Pangloss.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="402" data-original-width="1700" height="48" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixNDmJ8JIKJ6699UvI_nncr8li4Vpdi8s4nuvHbUemYsmeN8x2koZ06CSBufOAFadC3vIQ_EY6-n4WkOkBhZzAxYEnSfGBSpLKONUePNG5VPY3-GU5acdw7i9Ou8cSD4PXY9UOcsnw5q5g9kBCiFW5g5L2wNSMqN9yaxVIhOD4p01oFkmmU49fgYKjwemR/w200-h48/Pangloss.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://digitalpreservation.gov/meetings/DSA2025/010201_lauhoff_LoC2025_IBM_G_Lauhoff.pdf">Source</a></td></tr></tbody></table>
-        This graph reinforces that tape's roadmap is credible, but the good <a href="https://blog.dshr.org/2016/03/dr-pangloss-loves-technology-roadmaps.html">Dr. Pangloss</a> noticed the optimism of the NAND and disk roadmaps. New technologies tend to scale faster at first, then slower as they age. So it is likely that the advent of HAMR will accelerate disk's areal density increase somewhat. And it is possible that the difficulty of moving from 3D NAND to 4D NAND will slow its increase.<br />
-        <br />
-        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy4U5fzocVvygxmt5KLVafgftVkRyV-ysQ-A2uDdGtGcKudO_Hp95w1LBIpdzDf_Xhkea8RNiXcTiOXBbzFb4ugaBLoTy7GFsswDjReRztrCpRJ5TcDqH3YrzTuducwOsclku5ZCx_TSin3cew-zzqE9rZuvfyNcjQmcL5_J3W1zswcoHTisQekZ3NoU8L/s1446/CostRatio.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="902" data-original-width="1446" height="125" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy4U5fzocVvygxmt5KLVafgftVkRyV-ysQ-A2uDdGtGcKudO_Hp95w1LBIpdzDf_Xhkea8RNiXcTiOXBbzFb4ugaBLoTy7GFsswDjReRztrCpRJ5TcDqH3YrzTuducwOsclku5ZCx_TSin3cew-zzqE9rZuvfyNcjQmcL5_J3W1zswcoHTisQekZ3NoU8L/w200-h125/CostRatio.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://digitalpreservation.gov/meetings/DSA2025/010201_lauhoff_LoC2025_IBM_G_Lauhoff.pdf">Cost Ratio</a></td></tr></tbody></table>
-        Lauhoff &amp; Shahidi's cost ratio graph shows that the relative costs of the different media were roughly stable. If Killian is right that the disk manufacturers are increasing prices and lengthening lead times because of demand from AI, this could be different in next year's graph. But Killian also notes that, despite the fact that QLC SSDs are at least "<a href="https://www.tomshardware.com/pc-components/storage/expect-hdd-ssd-shortages-as-ai-rewrites-the-rules-of-storage-hierarchy-multiple-companies-announce-price-hikes-too">four times the cost per gigabyte</a>":<br />
-        <blockquote>
-        Trendforce reports that memory suppliers are actively developing SSD products intended for deployment in nearline service. These should help bring costs down once they hit the market. But in the short term, we can expect the storage crunch to cause rising SSD prices as well, at least for enterprise drives.
-        </blockquote>
-        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieCuyYgC88wXcRjLSEtJZSOsxppPqrCR6xz_GpW8qJpOucLvQpm98yFqfNUVVVVyU1UFz-cMwoyICJQ8BeBx42Jcp-GVpyr4ZxH9vkf1o4bguhVxZRXVcinfPT5RWoVPxggkzfrNHs07vfeds7Yl9ECom217dadN_iFPbPGWxL3EIzbtIG0t2MsNo6yTR5/s2892/AnnualBitShipments.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1710" data-original-width="2892" height="118" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieCuyYgC88wXcRjLSEtJZSOsxppPqrCR6xz_GpW8qJpOucLvQpm98yFqfNUVVVVyU1UFz-cMwoyICJQ8BeBx42Jcp-GVpyr4ZxH9vkf1o4bguhVxZRXVcinfPT5RWoVPxggkzfrNHs07vfeds7Yl9ECom217dadN_iFPbPGWxL3EIzbtIG0t2MsNo6yTR5/w200-h118/AnnualBitShipments.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://digitalpreservation.gov/meetings/DSA2025/010201_lauhoff_LoC2025_IBM_G_Lauhoff.pdf">Annual Bit Shipments</a></td></tr></tbody></table>
-        Lauhoff &amp; Shahidi's bit shipment graph is interesting for two reasons:<br />
-        <ul>
-        <li>Disk's proportion of total bit shipments <i>increased</i>.</li>
-        <li>They started tracking the proportion of NAND flash that was SSDs. They represented only about 30% of disk's bit shipments. The claim that the bulk of data still lives on hard disk is true and looks to continue. Disk ships mostly to the nearline enterprise market, while SSDs ship mostly to the online enterprise market. Disk is shipping nearly three times as many bits.</li>
-        </ul>
-        Tape's predicted demise is just as delayed as disk's. Back in July Simon Sharwood posted <a href="https://www.theregister.com/2025/07/23/lto_2024_tape_shipment_data/"><i>And now for our annual ‘Tape is still not dead’ update</i></a>:<br />
-        <blockquote>
-        Shipments of tape storage media increased again in 2024, according to HPE, IBM, and Quantum – the three companies that back the Linear Tape-Open (LTO) Format.<br />
-        <br />
-        The three companies on Tuesday claimed they shipped 176.5 Exabytes worth of tape during 2024, a 15.4 percent increase on <a href="https://www.theregister.com/2024/05/27/tape_shipments_2023/">2023’s 152.9 Exabytes</a>.
-        </blockquote>
-        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixtBGgmklVIDo1ZfPGVZlG6u1ljdWqSYj_jAi0ZA62RFjkAtE0brWyyFXzLHFBD-bsCVhId6kjGS5CNeJzdnDleRIg0ZnV_mUqkR6mh39I3zfBljgAiz875G0DWC_FA2O5giqIA4XUvIh_GiF2Nn2dAv4uXSkQOxsKe3KdvnxV_ZKAuvEtRGT2fKrXbtvM/s2874/DnaSlowExpensive.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1488" data-original-width="2874" height="104" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixtBGgmklVIDo1ZfPGVZlG6u1ljdWqSYj_jAi0ZA62RFjkAtE0brWyyFXzLHFBD-bsCVhId6kjGS5CNeJzdnDleRIg0ZnV_mUqkR6mh39I3zfBljgAiz875G0DWC_FA2O5giqIA4XUvIh_GiF2Nn2dAv4uXSkQOxsKe3KdvnxV_ZKAuvEtRGT2fKrXbtvM/w200-h104/DnaSlowExpensive.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://digitalpreservation.gov/meetings/DSA2025/010201_lauhoff_LoC2025_IBM_G_Lauhoff.pdf">DNA Storage</a></td></tr></tbody></table>
-        I have been writing skeptically about the medium-term prospects for DNA storage since <a href="http://blog.dshr.org/2012/10/forcing-frequent-failures.html">2012</a> and Lauhoff &amp; Shahidi share my skepticism in their graph of the technology's progress in the lab. DNA can only compete in the archival storage market, so the relevant comparison is with LTO tape. Even if you believe Wang's estimate, DNA is more than <i>ten million times</i> too expensive.<br />
-        <br />
-        <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ8U8evjiLvznFN5rxtnBqO7KGCJmYcJ1BfW87xj1Klv9I-98ghig04eBB6Lnno4Resx9sdYajq0Q8x8MzZOtZoFZGl7OFQsNpl2_QBehR6kJMPxR9JS2M8k4_cVY8m9Gj-g8Is9MKE1-Eyu35NsCZmfJ0g9EeT81pQ_Wg400ldQpjFe7YfABBkOgndma1/s3900/sciadv.ady3406-f1.jpg" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="2498" data-original-width="3900" height="256" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ8U8evjiLvznFN5rxtnBqO7KGCJmYcJ1BfW87xj1Klv9I-98ghig04eBB6Lnno4Resx9sdYajq0Q8x8MzZOtZoFZGl7OFQsNpl2_QBehR6kJMPxR9JS2M8k4_cVY8m9Gj-g8Is9MKE1-Eyu35NsCZmfJ0g9EeT81pQ_Wg400ldQpjFe7YfABBkOgndma1/w400-h256/sciadv.ady3406-f1.jpg" width="400" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://doi.org/10.1126/sciadv.ady3406">Figure 1</a></td></tr></tbody></table>
-        Via Brandon Vigliarolo's <a href="https://www.theregister.com/2025/09/12/indexed_dna_storage_tapes_invented/"><i>Boffins invent DNA tape that could pack 375 petabytes into an LTO cart</i></a> we find the latest idea for improving DNA storage in <a href="https://doi.org/10.1126/sciadv.ady3406"><i>A compact cassette tape for DNA-based data storage</i></a> by Jiankai Li <i>et al</i> from the Southern University of Science and Technology in Shenzhen. Their idea is to deposit DNA on "good old-fashioned polyester-nylon composite tape" that could reside in an LTO cartridge. Vigliarolo <a href="https://www.theregister.com/2025/09/12/indexed_dna_storage_tapes_invented/">notes that</a>:<br />
-        <blockquote>
-        DNA is a very dense storage medium and storage researchers have tried to use it for data storage, but <a href="https://www.theregister.com/2025/06/12/archival_storage_feature/">without much success</a>, because it’s hard to find info within DNA and read times are slow.<br />
-        <br />
-        Jiang's team claims to have addressed that problem, establishing a sequence of data partitions on the tape and identifying each of these with a bar code.
-        </blockquote>
-        The team from Shenzen's focus on reading is a misunderstanding of the fundamental requirements of the hyperscaler archive market, which are in order:<br />
-        <ol>
-        <li>Write bandwidth. <a href="https://blog.dshr.org/2014/09/more-on-facebooks-cold-storage.html">Kestutis Patiejunas</a> pointed this out over a decade ago.</li>
-        <li>Cost per byte. Archival storage is for data that can no longer earn its keep on lower-latency media, so it has to be very cheap.</li>
-        </ol>
-        Read latency and bandwidth are pretty much irrelevant because, as Kestutis Patiejunas said, the main reason the data would be read is a subpoena.<br />
-        <br />
-        The paper claims they <a href="https://doi.org/10.1126/sciadv.ady3406">demonstrated</a>:<br />
-        <blockquote>
-        a completely automated closed-loop operation involving addressing, recovery, removal, subsequent file deposition, and file recovery again, all accomplished within 50 min.
-        </blockquote>
-        Vigliarolo <a href="https://www.theregister.com/2025/09/12/indexed_dna_storage_tapes_invented/">notes that</a>:<br />
-        <blockquote>
-        Jiang's team only wrote 156.6 kilobytes of data to a test tape for their experiment, consisting of four "puzzle pieces" depicting a Chinese lantern. If the data were damaged, it wouldn't assemble correctly. The researchers managed to successfully recover the lantern image without issue, but it took two and a half hours or not-quite one kilobyte per minute.
-        </blockquote>
-        And the team <a href="https://doi.org/10.1126/sciadv.ady3406">admit that</a>:<br />
-        <blockquote>
-        DNA synthesis costs are still very high
-        </blockquote>
-        Because archival data is guaranteed to be written but is very likely never read, the cost of storing data in DNA is dominated by synthesis. The team effectively admits that they can't compete.<br />
-        <br />
-        I summed up my skepticism in 2018's <a href="https://blog.dshr.org/2018/02/dnas-niche-in-storage-market.html"><i>DNA's Niche in the Storage Market</i></a>, posing this challenge to a hypothetical product team:<br />
-        <blockquote>
-        Engineers, your challenge is to increase the speed of synthesis by a factor of a quarter of a trillion, while reducing the cost by a factor of fifty trillion, in less than 10 years while spending no more than $24M/yr.<br />
-        <br />
-        Finance team, your challenge is to persuade the company to spend $24M a year for the next 10 years for a product that can then earn about $216M a year for 10 years.
-        </blockquote>
-        Write bandwidth and cost remain the core problems of DNA storage, and while progress has been made in other areas, both are still many orders of magnitude away from competing with hard disk, let alone LTO tape.<br />
-        <br />
-        Nevertheless, as I concluded more than seven years ago:<br />
-        <blockquote>
-        That isn't to say that researching DNA storage technologies is a waste of resources. Eventually, I believe it will be feasible and economic.  But eventually is many decades away. This should not be a surprise, <a href="http://blog.dshr.org/2016/12/the-medium-term-prospects-for-long-term.html">time-scales in the storage industry are long</a>. Disk is a <a href="https://en.wikipedia.org/wiki/History_of_IBM_magnetic_disk_drives#Early_IBM_HDDs">60-year-old technology</a>, tape is at least <a href="https://en.wikipedia.org/wiki/IBM_7_track">65 years old</a>, CDs are <a href="https://en.wikipedia.org/wiki/Compact_disc">35 years old</a>, flash is <a href="https://www.google.com/patents/US5095344">30 years old</a> and has yet to impact bulk data storage.
-        </blockquote>]]>
-      </description>
-      <source:markdown>As I read Zak Killian&#39;s [_Expect HDD, SSD shortages as AI rewrites the rules of storage hierarchy — multiple companies announce price hikes, too_](https://www.tomshardware.com/pc-components/storage/expect-hdd-ssd-shortages-as-ai-rewrites-the-rules-of-storage-hierarchy-multiple-companies-announce-price-hikes-too) I realized I had forgotten to write this year&#39;s version of my annual post on the Library of Congress&#39; [_Desihning Storage Architectures_](https://digitalpreservation.gov/meetings/storage25.html) meeting, which was back in March. So below the fold I discuss a few of the DSA talks, Killian&#39;s more recent post, and yet another development in DNA storage. The TL;DR is that the long-predicted death of hard disks is continuing to fail to materialize, and so is the equally long-predicted death of tape.
-
-Killian&#39;s post [starts](https://www.tomshardware.com/pc-components/storage/expect-hdd-ssd-shortages-as-ai-rewrites-the-rules-of-storage-hierarchy-multiple-companies-announce-price-hikes-too):
-
-&#62; The computing market is absolutely ablaze with AI-driven growth. Regardless of how sustainable it might be, companies are spending untold amounts of wealth on hardware, with most headlines revolving around GPUs. But the storage market is also under pressure, especially hard drive vendors who purportedly haven&#39;t done much to increase manufacturing capacity in a decade. TrendForce says lead times for high-capacity &#34;nearline&#34; hard drives have ballooned to over 52 weeks — more than a full year.
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgduhML7c5zrtKvf0vUb9wlZRINt-1D1O7uKQdQJu73_qtxbGllyT9SoQ9r1q9rPBb2S4MOeTciiuHv6qdXjNNB7sRnP4zOajx-dXaPb63BbkdvKFgcgD6uxtdptOPK2s5cz1p1_sh7gY8W9f4eXM2F_oKc0T8LI2jAzlE2fINnVt1GFGzBZR9osuU9OEML/w200-h190/WD-091225.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgduhML7c5zrtKvf0vUb9wlZRINt-1D1O7uKQdQJu73_qtxbGllyT9SoQ9r1q9rPBb2S4MOeTciiuHv6qdXjNNB7sRnP4zOajx-dXaPb63BbkdvKFgcgD6uxtdptOPK2s5cz1p1_sh7gY8W9f4eXM2F_oKc0T8LI2jAzlE2fINnVt1GFGzBZR9osuU9OEML/s1024/WD-091225.jpg)[Source](https://www.tomshardware.com/pc-components/storage/expect-hdd-ssd-shortages-as-ai-rewrites-the-rules-of-storage-hierarchy-multiple-companies-announce-price-hikes-too) [Western Digital is](https://www.tomshardware.com/pc-components/storage/expect-hdd-ssd-shortages-as-ai-rewrites-the-rules-of-storage-hierarchy-multiple-companies-announce-price-hikes-too):
-
-&#62; warning of &#34;unprecedented demand for every capacity in \[its\] portfolio,&#34; and stating that it is raising prices on all of its hard drives.
-
-The unprecedented demand from AI farms is [because](https://www.tomshardware.com/pc-components/storage/expect-hdd-ssd-shortages-as-ai-rewrites-the-rules-of-storage-hierarchy-multiple-companies-announce-price-hikes-too):
-
-&#62; You don&#39;t just need the data required to run inference. You also need the history of everything to prove to regulators that you&#39;re not laundering bias, to retrain when new data comes in, and to roll back to a previous checkpoint if your fine-tuned model goes feral and, say, starts [referring to itself as MechaHitler](https://www.tomshardware.com/tech-industry/the-new-frontier-meet-the-power-players-cashing-in-on-the-ai-gold-rush). This stuff can&#39;t go to offline storage until you&#39;re certain it isn&#39;t needed in the short term. But it&#39;s too big to live in the primary storage of all but the beefiest servers. Thus, the need for nearline hard drives.
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiytDHeV0Bl6Gmpt58dvVvA3vo84zmSsmaGqAiU7FVuUjwc6BX24_Ca0KVJz2qswExYzRgVe9LP_UNgM44MYh8U4WdWdPFucPMxIfzu_Rj7MRkzAQFTuGVJ712AMeDcgXSlp3bvzzzb0e3TCgXod0f7BibxI3NB8wqoFvVBiDfPWVgtVxp1o2b583yLyRwN/w200-h84/WD-Projection.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiytDHeV0Bl6Gmpt58dvVvA3vo84zmSsmaGqAiU7FVuUjwc6BX24_Ca0KVJz2qswExYzRgVe9LP_UNgM44MYh8U4WdWdPFucPMxIfzu_Rj7MRkzAQFTuGVJ712AMeDcgXSlp3bvzzzb0e3TCgXod0f7BibxI3NB8wqoFvVBiDfPWVgtVxp1o2b583yLyRwN/s2296/WD-Projection.png)WD&#39;s projection
-At the meeting, Western Digital&#39;s Dave Landsman&#39;s [_HDDs are here to stay_](https://digitalpreservation.gov/meetings/DSA2025/010202_landsman_1_LoC%20DSA%202025%20-%20HDDs%20are%20here%20to%20stay.pdf) made the same point with this graph using data from IDC and TrendFocus. They are projecting that both disk and enterprise SSD will grow in the low 20%/year range, so the vast bulk of data in data centers will remain on disk. Landsman claims that SSDs are and will remain 6 times as expensive per bit as hard disk and that 81% of installed data center capacity is on hard disk.
-
-Keeping the data on hard disk might actually be a good idea. [_Sustainability in Datacenters_](https://digitalpreservation.gov/meetings/DSA2025/020102_sethi_Sustainability%20in%20Datacenters%20-%20Library_Of_Congress%20-%20New.pdf) by Shruti Sethi presented a joint Microsoft/Carnegie-Mellon study of the scope 2 (operational) and scope 3 (embedded) carbon emissions of compute, SSD and HDD racks in Azure&#39;s data centers. The study, [_A Call for Research on Storage Emissions_](https://hotcarbon.org/assets/2024/pdf/hotcarbon24-final126.pdf) by Sara MacAllister _et al_ concluded that:
-
-&#62; an SSD storage rack has approximately 4× the operational emissions per TB of an HDD storage rack. Storage devices (SSDs and HDDs) are the largest single contributor of operational emissions. For SSD racks, storage devices account for 39% of emissions, whereas for HDD racks they account for 48% of emissions. These numbers contradict the conventional wisdom that processing units dominate energy consumption: storage servers carry so many storage devices that they become the dominant energy consumers.
-&#62;
-&#62; ...
-&#62;
-&#62; SSD racks emit approximately 10× the embodied emissions per TB as that of HDD storage racks. The storage devices themselves dominate embodied emissions, accounting for 81% and 55% of emissions in SSD and HDD racks, respectively.
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4xCp7JS1RPsO8y4lAalhFtO_v_dfYrXLKTbN9koo7aJJW0JPewtNPoOFBK6FAGrMDMmvZtu-68YFupKyadj_aZzagvklEZRM9CpOIhoobboJkId6egumoVvMm5VFO358UNENZgk3lLKMB_wSW0mgZp7Vz801SS5JyB22vWaZ2UE4pBjunRMH2lgqdsNK9/w200-h95/ArealDensity2025.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4xCp7JS1RPsO8y4lAalhFtO_v_dfYrXLKTbN9koo7aJJW0JPewtNPoOFBK6FAGrMDMmvZtu-68YFupKyadj_aZzagvklEZRM9CpOIhoobboJkId6egumoVvMm5VFO358UNENZgk3lLKMB_wSW0mgZp7Vz801SS5JyB22vWaZ2UE4pBjunRMH2lgqdsNK9/s3522/ArealDensity2025.png)[Areal Density Trends](https://digitalpreservation.gov/meetings/DSA2025/010201_lauhoff_LoC2025_IBM_G_Lauhoff.pdf)
-As usual, the authoritative word on the performance of the storage industry comes from IBM. Georg Lauhoff &#38; Sassan Shahidi&#39;s [_Data Storage Trends: NAND, HDD and Tape Storage_](https://digitalpreservation.gov/meetings/DSA2025/010201_lauhoff_LoC2025_IBM_G_Lauhoff.pdf) added another year&#39;s data points to their invaluable graphs and revealed that:
-
-- NAND areal density continues to increase rapidly, because 3D scales faster than the 2D of disk and tape.
-- Disk&#39;s 8%/year areal density increase continued, but note that although their graph includes Seagate&#39;s 32TB HAMR drive the effect of Seagate&#39;s and later WD&#39;s deployment of HAMR didn&#39;t really start until later in 2025.
-- Tape continued its 27%/year increase.
-
-Coming from a tape supplier this comment isn&#39;t surprising but it is [correct](https://digitalpreservation.gov/meetings/DSA2025/010201_lauhoff_LoC2025_IBM_G_Lauhoff.pdf):
-
-&#62; Despite the promise of alternative archive storage technologies, challenges persist. Enduring relevance of tape storage, which itself is rapidly evolving.
-
-The main problem being that the huge investment and long time horizon needed to displace tape&#39;s 7% of the storage market [can&#39;t generate the necessary return](https://blog.dshr.org/2018/03/archival-media-not-good-business.html).
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRtJXZEBVEOZ3xKWAlLjYsxIslzWJjI3o3qImrkIbWWxhBW7zeRw2nAfEloARMNl0BDSoE_Aa79gAJ3JH1DxW1fz9vooNeomEzJIj763fxSRM5pYSGYFcAzIUuzpw_SU3c6YQVOikmb886B7nPmAyus62hLMZPttGSQF9JDItjqV8DTY3eFEMjEFFZMT-9/w200-h102/ProductVsDemo.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRtJXZEBVEOZ3xKWAlLjYsxIslzWJjI3o3qImrkIbWWxhBW7zeRw2nAfEloARMNl0BDSoE_Aa79gAJ3JH1DxW1fz9vooNeomEzJIj763fxSRM5pYSGYFcAzIUuzpw_SU3c6YQVOikmb886B7nPmAyus62hLMZPttGSQF9JDItjqV8DTY3eFEMjEFFZMT-9/s3364/ProductVsDemo.png)[Product vs. Demo](https://digitalpreservation.gov/meetings/DSA2025/010201_lauhoff_LoC2025_IBM_G_Lauhoff.pdf)
-One fascinating graph shows the difference between demonstrations and products for tape and disk. I keep pointing out the very long timescales in the storage industry. In January&#39;s [_Storage Roundup_](https://blog.dshr.org/2025/01/storage-roundup.html) I noted that HAMR was just starting to be deployed 23 years after Seagate demonstrated it. Lauhoff &#38; Shahidi&#39;s graph shows that the current tape density was demo-ed in 2006 and shipped in 2022, and that disk&#39;s current density was demo-ed in 2012.
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixNDmJ8JIKJ6699UvI_nncr8li4Vpdi8s4nuvHbUemYsmeN8x2koZ06CSBufOAFadC3vIQ_EY6-n4WkOkBhZzAxYEnSfGBSpLKONUePNG5VPY3-GU5acdw7i9Ou8cSD4PXY9UOcsnw5q5g9kBCiFW5g5L2wNSMqN9yaxVIhOD4p01oFkmmU49fgYKjwemR/w200-h48/Pangloss.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixNDmJ8JIKJ6699UvI_nncr8li4Vpdi8s4nuvHbUemYsmeN8x2koZ06CSBufOAFadC3vIQ_EY6-n4WkOkBhZzAxYEnSfGBSpLKONUePNG5VPY3-GU5acdw7i9Ou8cSD4PXY9UOcsnw5q5g9kBCiFW5g5L2wNSMqN9yaxVIhOD4p01oFkmmU49fgYKjwemR/s1700/Pangloss.png)[Source](https://digitalpreservation.gov/meetings/DSA2025/010201_lauhoff_LoC2025_IBM_G_Lauhoff.pdf)
-This graph reinforces that tape&#39;s roadmap is credible, but the good [Dr. Pangloss](https://blog.dshr.org/2016/03/dr-pangloss-loves-technology-roadmaps.html) noticed the optimism of the NAND and disk roadmaps. New technologies tend to scale faster at first, then slower as they age. So it is likely that the advent of HAMR will accelerate disk&#39;s areal density increase somewhat. And it is possible that the difficulty of moving from 3D NAND to 4D NAND will slow its increase.
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy4U5fzocVvygxmt5KLVafgftVkRyV-ysQ-A2uDdGtGcKudO_Hp95w1LBIpdzDf_Xhkea8RNiXcTiOXBbzFb4ugaBLoTy7GFsswDjReRztrCpRJ5TcDqH3YrzTuducwOsclku5ZCx_TSin3cew-zzqE9rZuvfyNcjQmcL5_J3W1zswcoHTisQekZ3NoU8L/w200-h125/CostRatio.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy4U5fzocVvygxmt5KLVafgftVkRyV-ysQ-A2uDdGtGcKudO_Hp95w1LBIpdzDf_Xhkea8RNiXcTiOXBbzFb4ugaBLoTy7GFsswDjReRztrCpRJ5TcDqH3YrzTuducwOsclku5ZCx_TSin3cew-zzqE9rZuvfyNcjQmcL5_J3W1zswcoHTisQekZ3NoU8L/s1446/CostRatio.png)[Cost Ratio](https://digitalpreservation.gov/meetings/DSA2025/010201_lauhoff_LoC2025_IBM_G_Lauhoff.pdf)
-Lauhoff &#38; Shahidi&#39;s cost ratio graph shows that the relative costs of the different media were roughly stable. If Killian is right that the disk manufacturers are increasing prices and lengthening lead times because of demand from AI, this could be different in next year&#39;s graph. But Killian also notes that, despite the fact that QLC SSDs are at least &#34; [four times the cost per gigabyte](https://www.tomshardware.com/pc-components/storage/expect-hdd-ssd-shortages-as-ai-rewrites-the-rules-of-storage-hierarchy-multiple-companies-announce-price-hikes-too)&#34;:
-
-&#62; Trendforce reports that memory suppliers are actively developing SSD products intended for deployment in nearline service. These should help bring costs down once they hit the market. But in the short term, we can expect the storage crunch to cause rising SSD prices as well, at least for enterprise drives.
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieCuyYgC88wXcRjLSEtJZSOsxppPqrCR6xz_GpW8qJpOucLvQpm98yFqfNUVVVVyU1UFz-cMwoyICJQ8BeBx42Jcp-GVpyr4ZxH9vkf1o4bguhVxZRXVcinfPT5RWoVPxggkzfrNHs07vfeds7Yl9ECom217dadN_iFPbPGWxL3EIzbtIG0t2MsNo6yTR5/w200-h118/AnnualBitShipments.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieCuyYgC88wXcRjLSEtJZSOsxppPqrCR6xz_GpW8qJpOucLvQpm98yFqfNUVVVVyU1UFz-cMwoyICJQ8BeBx42Jcp-GVpyr4ZxH9vkf1o4bguhVxZRXVcinfPT5RWoVPxggkzfrNHs07vfeds7Yl9ECom217dadN_iFPbPGWxL3EIzbtIG0t2MsNo6yTR5/s2892/AnnualBitShipments.png)[Annual Bit Shipments](https://digitalpreservation.gov/meetings/DSA2025/010201_lauhoff_LoC2025_IBM_G_Lauhoff.pdf)
-Lauhoff &#38; Shahidi&#39;s bit shipment graph is interesting for two reasons:
-
-- Disk&#39;s proportion of total bit shipments _increased_.
-- They started tracking the proportion of NAND flash that was SSDs. They represented only about 30% of disk&#39;s bit shipments. The claim that the bulk of data still lives on hard disk is true and looks to continue. Disk ships mostly to the nearline enterprise market, while SSDs ship mostly to the online enterprise market. Disk is shipping nearly three times as many bits.
-
-Tape&#39;s predicted demise is just as delayed as disk&#39;s. Back in July Simon Sharwood posted [_And now for our annual ‘Tape is still not dead’ update_](https://www.theregister.com/2025/07/23/lto_2024_tape_shipment_data/):
-
-&#62; Shipments of tape storage media increased again in 2024, according to HPE, IBM, and Quantum – the three companies that back the Linear Tape-Open (LTO) Format.
-&#62;
-&#62; The three companies on Tuesday claimed they shipped 176.5 Exabytes worth of tape during 2024, a 15.4 percent increase on [2023’s 152.9 Exabytes](https://www.theregister.com/2024/05/27/tape_shipments_2023/).
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixtBGgmklVIDo1ZfPGVZlG6u1ljdWqSYj_jAi0ZA62RFjkAtE0brWyyFXzLHFBD-bsCVhId6kjGS5CNeJzdnDleRIg0ZnV_mUqkR6mh39I3zfBljgAiz875G0DWC_FA2O5giqIA4XUvIh_GiF2Nn2dAv4uXSkQOxsKe3KdvnxV_ZKAuvEtRGT2fKrXbtvM/w200-h104/DnaSlowExpensive.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixtBGgmklVIDo1ZfPGVZlG6u1ljdWqSYj_jAi0ZA62RFjkAtE0brWyyFXzLHFBD-bsCVhId6kjGS5CNeJzdnDleRIg0ZnV_mUqkR6mh39I3zfBljgAiz875G0DWC_FA2O5giqIA4XUvIh_GiF2Nn2dAv4uXSkQOxsKe3KdvnxV_ZKAuvEtRGT2fKrXbtvM/s2874/DnaSlowExpensive.png)[DNA Storage](https://digitalpreservation.gov/meetings/DSA2025/010201_lauhoff_LoC2025_IBM_G_Lauhoff.pdf)
-I have been writing skeptically about the medium-term prospects for DNA storage since [2012](http://blog.dshr.org/2012/10/forcing-frequent-failures.html) and Lauhoff &#38; Shahidi share my skepticism in their graph of the technology&#39;s progress in the lab. DNA can only compete in the archival storage market, so the relevant comparison is with LTO tape. Even if you believe Wang&#39;s estimate, DNA is more than _ten million times_ too expensive.
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ8U8evjiLvznFN5rxtnBqO7KGCJmYcJ1BfW87xj1Klv9I-98ghig04eBB6Lnno4Resx9sdYajq0Q8x8MzZOtZoFZGl7OFQsNpl2_QBehR6kJMPxR9JS2M8k4_cVY8m9Gj-g8Is9MKE1-Eyu35NsCZmfJ0g9EeT81pQ_Wg400ldQpjFe7YfABBkOgndma1/w400-h256/sciadv.ady3406-f1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ8U8evjiLvznFN5rxtnBqO7KGCJmYcJ1BfW87xj1Klv9I-98ghig04eBB6Lnno4Resx9sdYajq0Q8x8MzZOtZoFZGl7OFQsNpl2_QBehR6kJMPxR9JS2M8k4_cVY8m9Gj-g8Is9MKE1-Eyu35NsCZmfJ0g9EeT81pQ_Wg400ldQpjFe7YfABBkOgndma1/s3900/sciadv.ady3406-f1.jpg)[Figure 1](https://doi.org/10.1126/sciadv.ady3406)
-Via Brandon Vigliarolo&#39;s [_Boffins invent DNA tape that could pack 375 petabytes into an LTO cart_](https://www.theregister.com/2025/09/12/indexed_dna_storage_tapes_invented/) we find the latest idea for improving DNA storage in [_A compact cassette tape for DNA-based data storage_](https://doi.org/10.1126/sciadv.ady3406) by Jiankai Li _et al_ from the Southern University of Science and Technology in Shenzhen. Their idea is to deposit DNA on &#34;good old-fashioned polyester-nylon composite tape&#34; that could reside in an LTO cartridge. Vigliarolo [notes that](https://www.theregister.com/2025/09/12/indexed_dna_storage_tapes_invented/):
-
-&#62; DNA is a very dense storage medium and storage researchers have tried to use it for data storage, but [without much success](https://www.theregister.com/2025/06/12/archival_storage_feature/), because it’s hard to find info within DNA and read times are slow.
-&#62;
-&#62; Jiang&#39;s team claims to have addressed that problem, establishing a sequence of data partitions on the tape and identifying each of these with a bar code.
-
-The team from Shenzen&#39;s focus on reading is a misunderstanding of the fundamental requirements of the hyperscaler archive market, which are in order:
-
-1. Write bandwidth. [Kestutis Patiejunas](https://blog.dshr.org/2014/09/more-on-facebooks-cold-storage.html) pointed this out over a decade ago.
-2. Cost per byte. Archival storage is for data that can no longer earn its keep on lower-latency media, so it has to be very cheap.
-
-Read latency and bandwidth are pretty much irrelevant because, as Kestutis Patiejunas said, the main reason the data would be read is a subpoena.
-
-The paper claims they [demonstrated](https://doi.org/10.1126/sciadv.ady3406):
-
-&#62; a completely automated closed-loop operation involving addressing, recovery, removal, subsequent file deposition, and file recovery again, all accomplished within 50 min.
-
-Vigliarolo [notes that](https://www.theregister.com/2025/09/12/indexed_dna_storage_tapes_invented/):
-
-&#62; Jiang&#39;s team only wrote 156.6 kilobytes of data to a test tape for their experiment, consisting of four &#34;puzzle pieces&#34; depicting a Chinese lantern. If the data were damaged, it wouldn&#39;t assemble correctly. The researchers managed to successfully recover the lantern image without issue, but it took two and a half hours or not-quite one kilobyte per minute.
-
-And the team [admit that](https://doi.org/10.1126/sciadv.ady3406):
-
-&#62; DNA synthesis costs are still very high
-
-Because archival data is guaranteed to be written but is very likely never read, the cost of storing data in DNA is dominated by synthesis. The team effectively admits that they can&#39;t compete.
-
-I summed up my skepticism in 2018&#39;s [_DNA&#39;s Niche in the Storage Market_](https://blog.dshr.org/2018/02/dnas-niche-in-storage-market.html), posing this challenge to a hypothetical product team:
-
-&#62; Engineers, your challenge is to increase the speed of synthesis by a factor of a quarter of a trillion, while reducing the cost by a factor of fifty trillion, in less than 10 years while spending no more than $24M/yr.
-&#62;
-&#62; Finance team, your challenge is to persuade the company to spend $24M a year for the next 10 years for a product that can then earn about $216M a year for 10 years.
-
-Write bandwidth and cost remain the core problems of DNA storage, and while progress has been made in other areas, both are still many orders of magnitude away from competing with hard disk, let alone LTO tape.
-
-Nevertheless, as I concluded more than seven years ago:
-
-&#62; That isn&#39;t to say that researching DNA storage technologies is a waste of resources. Eventually, I believe it will be feasible and economic. But eventually is many decades away. This should not be a surprise, [time-scales in the storage industry are long](http://blog.dshr.org/2016/12/the-medium-term-prospects-for-long-term.html). Disk is a [60-year-old technology](https://en.wikipedia.org/wiki/History_of_IBM_magnetic_disk_drives#Early_IBM_HDDs), tape is at least [65 years old](https://en.wikipedia.org/wiki/IBM_7_track), CDs are [35 years old](https://en.wikipedia.org/wiki/Compact_disc), flash is [30 years old](https://www.google.com/patents/US5095344) and has yet to impact bulk data storage.</source:markdown>
-      <author>noreply@blogger.com (David.)</author>
-      <guid>cid://tag:blogger.com,1999:blog-4503292949532760618.post-1494735543633770243</guid>
-    </item>    <item>
-      <title>A Newsletter of Humorous Writing #410</title>
-      <link>https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-410/</link>
-      <description>
-        <![CDATA[<h3><em>For September 10-16, 2025</em></h3>
-        <p>Hello and welcome to <strong>A Newsletter of Humorous Writing</strong>, a roundup of the week's finest short humor pieces and funny articles, and a celebration of the fantastic writers who wrote them. This week we’ve been working on a musical biography of the writer of <em>The Red and the Black</em>, and we’ve already written a big, jazzy opening number. We don’t want to give too much about the song away, but the chorus goes, “Hey, big Stendhal/Parma charterhouse for me.” Stay tuned for more!</p>
-        <hr/><h2>What We Enjoyed This Week</h2>
-        <p><a href="https://www.newyorker.com/humor/shouts-murmurs/please-like-share-subscribe-and-a-few-other-things-if-you-dont-mind?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-410" rel="noopener noreferrer nofollow" target="_blank"><strong>Please Like, Share, Subscribe, and a Few Other Things, if You Don’t Mind</strong></a><strong> by </strong><a href="https://www.talibbabb.com/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-410" rel="noopener noreferrer nofollow" target="_blank"><strong>Talib Babb</strong></a> <em>(The New Yorker)</em> This is a fun satire of how many different requests get thrown at you when you’re consuming just about any type of media these days, but it also has an undercurrent of sympathy for how difficult it can be to promote a project. Speaking of which, if anyone wants to print out some Newsletter of Humorous Writing flyers and hang them up at their local coffee shop, we wouldn’t mind!</p>
-        <p><a href="https://www.pointsincase.com/lists/16-new-emojis-we-didnt-know-we-needed?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-410" rel="noopener noreferrer nofollow" target="_blank"><strong>16 New Emojis We Didn’t Know We Needed</strong></a><strong> by </strong><a href="https://www.pointsincase.com/author/behzad-barkhordari?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-410" rel="noopener noreferrer nofollow" target="_blank"><strong>Behzad Barkhordari</strong></a><strong> </strong><em>(Points in Case)</em> Behzad strikes a really nice balance with his invented emojis. They never feel too realistic or too close to emojis that already exist, but they also never feel like they’re weird for the sake of being weird. The descriptions of the emojis are terrific (we’re particularly fond of “A coffee mug screaming”), and while the use cases for each emoji are totally unpredictable, they still feel like logical extensions of their descriptions.</p>
-        <p><a href="https://thebelladonnacomedy.com/little-women-but-theyre-your-friend-group-at-40-1f82b15c9285?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-410" rel="noopener noreferrer nofollow" target="_blank"><strong>Little Women, But They’re Your Friend Group at 40</strong></a><strong> by </strong><a href="https://shardamishra-12378.medium.com/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-410" rel="noopener noreferrer nofollow" target="_blank"><strong>Sharda Mishra</strong></a> <em>(The Belladonna)</em> This is a great example of how to build out characters with well-chosen details. Even if you haven’t read (or watched) <em>Little Women</em>, you’ll still get a laugh from all the great specifics.</p>
-        <hr/><blockquote><p>-- AD --</p><p>Submit your work to Chortle! We’re a humor newsletter that publishes a new comedy piece every weekday. We’re looking for sharp, funny writing—satire, parody, lists, whatever makes you laugh. Submissions should be 600 words or less, and we pay $40 for each published piece. <a href="https://www.chortle.blog/p/submissions?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-410" rel="noopener noreferrer nofollow" target="_blank">Check out the full submission guidelines here!</a></p><p>---</p><p>Hosted by Lana Schwartz (The New Yorker, The Onion, McSweeney's) Letters &amp; Sodas brings together standup comedy, humor pieces, fiction, and essay readings in a way they never have been before (or at least not in recent memory). Join us for the next show at The Greats of Craft in Long Island City on September 24 at 7 p.m., featuring:</p><p>Jason Siegel (Points in Case, The New Yorker)<br/>Bailey Swilley (We Love a Theme, The Moth, Edinburgh Fringe Fest)<br/>Shenuque Tissera (New York Comedy Festival, NY Sketchfest, YAAASFest)<br/>Bridgette Rizkalla (Raaaatscraps, The Truth)<br/>Ben X. Kim (The Onion, We Fixed It!, Asian Comedy Fest)<br/>Zach Schonfeld (Pitchfork, Vulture, New York Times)</p><p>Tickets available <a href="https://www.eventbrite.com/e/letters-sodas-lic-reading-series-tickets-1693582042479?aff=oddtdtcreator&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-410" rel="noopener noreferrer nofollow" target="_blank">here!</a></p><p>---</p><p><em>(Do you have an ad you'd like to place in the Newsletter? </em><a href="https://docs.google.com/forms/d/e/1FAIpQLSeJlHErf2PuWr5NxqLbD6dhf7s31pzCC3sBVCHJ24exAwfmgQ/viewform?usp=sf_link&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-410" rel="noopener noreferrer nofollow" target="_blank"><em>Fill out this form!</em></a><em>)</em></p></blockquote>
-        <hr/><h2>An Old Favorite</h2>
-        <p><strong><em>This week's Old Favorite is a</em></strong> <a href="http://www.mcsweeneys.net/articles/celebrating-the-hilarious-work-of-brian-agler?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-410" rel="noopener noreferrer nofollow" target="_blank"><strong><em>Brian Agler</em></strong></a> <strong><em>Selection (TM)--a piece whose accompanying note was written by Brian--from </em></strong><a href="https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-56/" rel="noopener noreferrer nofollow" target="_blank"><strong><em>Newsletter #56</em></strong></a><strong><em>.</em></strong></p>
-        <p><a href="https://www.newyorker.com/humor/daily-shouts/behold-your-newest-silver-screen-sex-goddess-jane-neighbor?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-410" rel="noopener noreferrer nofollow" target="_blank"><strong>Behold Your Newest Silver-Screen Sex Goddess, Jane Neighbor</strong></a><strong> by </strong><a href="https://www.newyorker.com/contributors/rachel-axler?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-410" rel="noopener noreferrer nofollow" target="_blank"><strong>Rachel Axler</strong></a><strong> </strong><em>(The New Yorker)</em></p>
-        <p>The celebrity profile seems like a genre that's easy to satirize, but it's harder than it appears. Yes, you have to mock the tropes, but you also have to add a little something extra (a zing of pumpkin spice, if you will). It's not enough to simply parrot the form; the best pieces have a unique point of view or character to play with. This piece does that, and more, from the get-go. Right away, you know it's going to be truly insane, but also grounded. It expertly stays within the confines of profile genre while continually pushing them to their logical breaking point. But, perhaps most importantly of all, it includes the phrase, "She is the kind of gorgeous that can only be found in or very near rivers."</p>
-        <p><em>Do you have an Old Favorite of your own? Let us know by filling out</em> <a href="http://forms.gle/9iALhpfsAn9mvn4p8?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-410" rel="noopener noreferrer nofollow" target="_blank"><em>this form</em></a> <em>and we may run your pick in a future edition of the newsletter.</em></p>
-        <hr/><h2>Updates From Your Editors and Friends of the Newsletter</h2>
-        <p>Luke’s got an <a href="https://docs.google.com/forms/d/e/1FAIpQLSdZXS8c1tJzagMTvwC-cIDeWDuFEN1ina-xwK9aT7LuUgP8mA/viewform?usp=dialog&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-410" rel="noopener noreferrer nofollow" target="_blank">intro to short humor class starting on October 11th</a> that’s got <strong>just FIVE spots left</strong> in it! Learn the essentials of short humor writing and write a draft of a piece in just four weeks. Perfect for anyone who’s been interested in trying their hand at prose comedy but hasn’t been sure how to get started.</p>]]>
-      </description>
-      <source:markdown>### _For September 10-16, 2025_
-
-Hello and welcome to **A Newsletter of Humorous Writing**, a roundup of the week&#39;s finest short humor pieces and funny articles, and a celebration of the fantastic writers who wrote them. This week we’ve been working on a musical biography of the writer of _The Red and the Black_, and we’ve already written a big, jazzy opening number. We don’t want to give too much about the song away, but the chorus goes, “Hey, big Stendhal/Parma charterhouse for me.” Stay tuned for more!
-
-* * *
-
-## What We Enjoyed This Week
-
-[**Please Like, Share, Subscribe, and a Few Other Things, if You Don’t Mind**](https://www.newyorker.com/humor/shouts-murmurs/please-like-share-subscribe-and-a-few-other-things-if-you-dont-mind?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-410) **by** [**Talib Babb**](https://www.talibbabb.com/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-410) _(The New Yorker)_ This is a fun satire of how many different requests get thrown at you when you’re consuming just about any type of media these days, but it also has an undercurrent of sympathy for how difficult it can be to promote a project. Speaking of which, if anyone wants to print out some Newsletter of Humorous Writing flyers and hang them up at their local coffee shop, we wouldn’t mind!
-
-[**16 New Emojis We Didn’t Know We Needed**](https://www.pointsincase.com/lists/16-new-emojis-we-didnt-know-we-needed?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-410) **by** [**Behzad Barkhordari**](https://www.pointsincase.com/author/behzad-barkhordari?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-410) _(Points in Case)_ Behzad strikes a really nice balance with his invented emojis. They never feel too realistic or too close to emojis that already exist, but they also never feel like they’re weird for the sake of being weird. The descriptions of the emojis are terrific (we’re particularly fond of “A coffee mug screaming”), and while the use cases for each emoji are totally unpredictable, they still feel like logical extensions of their descriptions.
-
-[**Little Women, But They’re Your Friend Group at 40**](https://thebelladonnacomedy.com/little-women-but-theyre-your-friend-group-at-40-1f82b15c9285?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-410) **by** [**Sharda Mishra**](https://shardamishra-12378.medium.com/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-410) _(The Belladonna)_ This is a great example of how to build out characters with well-chosen details. Even if you haven’t read (or watched) _Little Women_, you’ll still get a laugh from all the great specifics.
-
-* * *
-
-&#62; \-\- AD --
-&#62;
-&#62; Submit your work to Chortle! We’re a humor newsletter that publishes a new comedy piece every weekday. We’re looking for sharp, funny writing—satire, parody, lists, whatever makes you laugh. Submissions should be 600 words or less, and we pay $40 for each published piece. [Check out the full submission guidelines here!](https://www.chortle.blog/p/submissions?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-410)
-&#62;
-&#62; \-\-\-
-&#62;
-&#62; Hosted by Lana Schwartz (The New Yorker, The Onion, McSweeney&#39;s) Letters &#38; Sodas brings together standup comedy, humor pieces, fiction, and essay readings in a way they never have been before (or at least not in recent memory). Join us for the next show at The Greats of Craft in Long Island City on September 24 at 7 p.m., featuring:
-&#62;
-&#62; Jason Siegel (Points in Case, The New Yorker)
-&#62;
-&#62; Bailey Swilley (We Love a Theme, The Moth, Edinburgh Fringe Fest)
-&#62;
-&#62; Shenuque Tissera (New York Comedy Festival, NY Sketchfest, YAAASFest)
-&#62;
-&#62; Bridgette Rizkalla (Raaaatscraps, The Truth)
-&#62;
-&#62; Ben X. Kim (The Onion, We Fixed It!, Asian Comedy Fest)
-&#62;
-&#62; Zach Schonfeld (Pitchfork, Vulture, New York Times)
-&#62;
-&#62; Tickets available [here!](https://www.eventbrite.com/e/letters-sodas-lic-reading-series-tickets-1693582042479?aff=oddtdtcreator&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-410)
-&#62;
-&#62; \-\-\-
-&#62;
-&#62; _(Do you have an ad you&#39;d like to place in the Newsletter?_ [_Fill out this form!_](https://docs.google.com/forms/d/e/1FAIpQLSeJlHErf2PuWr5NxqLbD6dhf7s31pzCC3sBVCHJ24exAwfmgQ/viewform?usp=sf_link&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-410) _)_
-
-* * *
-
-## An Old Favorite
-
-**_This week&#39;s Old Favorite is a_** [**_Brian Agler_**](http://www.mcsweeneys.net/articles/celebrating-the-hilarious-work-of-brian-agler?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-410) **_Selection (TM)--a piece whose accompanying note was written by Brian--from_** [**_Newsletter #56_**](https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-56/) **_._**
-
-[**Behold Your Newest Silver-Screen Sex Goddess, Jane Neighbor**](https://www.newyorker.com/humor/daily-shouts/behold-your-newest-silver-screen-sex-goddess-jane-neighbor?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-410) **by** [**Rachel Axler**](https://www.newyorker.com/contributors/rachel-axler?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-410) _(The New Yorker)_
-
-The celebrity profile seems like a genre that&#39;s easy to satirize, but it&#39;s harder than it appears. Yes, you have to mock the tropes, but you also have to add a little something extra (a zing of pumpkin spice, if you will). It&#39;s not enough to simply parrot the form; the best pieces have a unique point of view or character to play with. This piece does that, and more, from the get-go. Right away, you know it&#39;s going to be truly insane, but also grounded. It expertly stays within the confines of profile genre while continually pushing them to their logical breaking point. But, perhaps most importantly of all, it includes the phrase, &#34;She is the kind of gorgeous that can only be found in or very near rivers.&#34;
-
-_Do you have an Old Favorite of your own? Let us know by filling out_ [_this form_](http://forms.gle/9iALhpfsAn9mvn4p8?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-410) _and we may run your pick in a future edition of the newsletter._
-
-* * *
-
-## Updates From Your Editors and Friends of the Newsletter
-
-Luke’s got an [intro to short humor class starting on October 11th](https://docs.google.com/forms/d/e/1FAIpQLSdZXS8c1tJzagMTvwC-cIDeWDuFEN1ina-xwK9aT7LuUgP8mA/viewform?usp=dialog&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-410) that’s got **just FIVE spots left** in it! Learn the essentials of short humor writing and write a draft of a piece in just four weeks. Perfect for anyone who’s been interested in trying their hand at prose comedy but hasn’t been sure how to get started.</source:markdown>
-      <guid>cid://https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-410/</guid>
-    </item>    <item>
-      <title>Really simple book and beans</title>
-      <link>http://scripting.com/2025/09/18/145808.html?title=reallySimpleBookAndBeans</link>
-      <description>
-        <![CDATA[<p>I've been getting ChatGPT to draw me product shots of all kinds of "really simple" things like ketchup, cola, cheese,The penalty for ABC and Disney should be we stop watching their stuff. beans (see below). </p>
-        <p>Then I thought it might work pretty well as a line of books? </p>
-        <p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/09/18/pythonInAShoeboxBookCover.png"></center>I'll have my Python simple. <i>Really</i> simple.</div></p>
-        <p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/09/18/reallySimpleBakedBeans.png"></center>Who would want complicated baked beans?</div></p>]]>
-      </description>
-      <source:markdown>I&#39;ve been getting ChatGPT to draw me product shots of all kinds of &#34;really simple&#34; things like ketchup, cola, cheese,The penalty for ABC and Disney should be we stop watching their stuff. beans (see below).
-
-Then I thought it might work pretty well as a line of books?
-
-![](https://imgs.scripting.com/2025/09/18/pythonInAShoeboxBookCover.png)I&#39;ll have my Python simple. _Really_ simple.
-
-![](https://imgs.scripting.com/2025/09/18/reallySimpleBakedBeans.png)Who would want complicated baked beans?</source:markdown>
-      <guid>cid://http://scripting.com/2025/09/18/145808.html</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/18.html#a145511</link>
-      <description>
-        <![CDATA[Test post test post test post test post test post test post, my kingdom for a test post!]]>
-      </description>
-      <source:markdown>Test post test post test post test post test post test post, my kingdom for a test post!</source:markdown>
-      <guid>cid://http://scripting.com/2025/09/18.html#a145511</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/18.html#a145017</link>
-      <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2025/09/18/gorilla.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I got a few good <a href="https://github.com/scripting/wordlandSupport/issues/107">error reports</a> and that led to an easy fix. So if <a href="http://scripting.com/2025/09/17.html#a191912">you had a problem</a> creating a new post on <a href="https://wordland.social/">WordLand</a> could you please try again and <a href="https://github.com/scripting/wordlandSupport/issues/107">report</a> any problems, or success. <i>Thanks!</i>]]>
-      </description>
-      <source:markdown>![](https://imgs.scripting.com/2025/09/18/gorilla.png)I got a few good [error reports](https://github.com/scripting/wordlandSupport/issues/107) and that led to an easy fix. So if [you had a problem](http://scripting.com/2025/09/17.html#a191912) creating a new post on [WordLand](https://wordland.social/) could you please try again and [report](https://github.com/scripting/wordlandSupport/issues/107) any problems, or success. _Thanks!_</source:markdown>
-      <guid>cid://http://scripting.com/2025/09/18.html#a145017</guid>
-    </item>    <item>
-      <title>Some KDO Updates: We&#38;#8217;ve Got Ourselves a Stew</title>
-      <link>https://kottke.org/25/09/some-kdo-updates-weve-got-ourselves-a-stew</link>
-      <guid>cid://tag:kottke.org,2025://5.47538</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/barackobama.bsky.social/post/3lz4jpjnfk222</link>
-      <description>
-        <![CDATA[After years of complaining about cancel culture, the current administration has taken it to a new and dangerous level by routinely threatening regulatory action against media companies unless they muzzle or fire reporters and commentators it doesn’t like.
-        https://www.yahoo.com/news/articles/let-clear-happened-jimmy-kimmel-025000655.html]]>
-      </description>
-      <source:markdown>After years of complaining about cancel culture, the current administration has taken it to a new and dangerous level by routinely threatening regulatory action against media companies unless they muzzle or fire reporters and commentators it doesn’t like.
-https://www.yahoo.com/news/articles/let-clear-happened-jimmy-kimmel-025000655.html</source:markdown>
-      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3lz4jpjnfk222</guid>
-    </item>    <item>
-      <title>&#38;#8220;Let&#38;#8217;s be clear about what just happened: Jimmy Kimmel, a prominent late-night...</title>
-      <link>https://kottke.org/25/09/0047537-lets-be-clear-about-what</link>
-      <guid>cid://tag:kottke.org,2025://13.47537</guid>
-    </item>    <item>
-      <title>Man pulls off daring scuba heist of Disney paddleboat restaurant, netting $10K-$20K...</title>
-      <link>https://kottke.org/25/09/0047533-man-pulls-off-daring-scub</link>
-      <guid>cid://tag:kottke.org,2025://13.47533</guid>
-    </item>    <item>
-      <title>Librarians Are Being Asked to Find AI-Hallucinated Books</title>
-      <link>https://www.404media.co/librarians-are-being-asked-to-find-ai-hallucinated-books/</link>
-      <description>
-        <![CDATA[It’s a trippy time to have a library card.]]>
-      </description>
-      <guid>cid://68c826c975cea1000173b05d</guid>
-    </item>    <item>
-      <title>Trump’s War on Laughter Will Bite Him in the Ass</title>
-      <link>https://www.borowitzreport.com/p/trumps-war-on-laughter-will-bite</link>
-      <description>
-        <![CDATA[He hasn't thought this through.]]>
-      </description>
-      <source:markdown>He hasn&#39;t thought this through.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!zWiQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F999b1800-af9f-4072-8936-988cd39d0cca_1024x683.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/trumps-war-on-laughter-will-bite</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/18.html#a130258</link>
-      <description>
-        <![CDATA[When Paramount said firing Colbert was financial, I think they were telling the truth. Unless they dumped Colbert the $8 billion <a href="https://en.wikipedia.org/wiki/Merger_of_Skydance_Media_and_Paramount_Global">deal</a> with the Ellisons wouldn't happen. So it was Colbert or $8 billion. They went for the money. Pretty sure it's the same thing with ABC and Kimmel.]]>
-      </description>
-      <source:markdown>When Paramount said firing Colbert was financial, I think they were telling the truth. Unless they dumped Colbert the $8 billion [deal](https://en.wikipedia.org/wiki/Merger_of_Skydance_Media_and_Paramount_Global) with the Ellisons wouldn&#39;t happen. So it was Colbert or $8 billion. They went for the money. Pretty sure it&#39;s the same thing with ABC and Kimmel.</source:markdown>
-      <guid>cid://http://scripting.com/2025/09/18.html#a130258</guid>
-    </item>    <item>
-      <title>Going to Madrid. brb</title>
-      <link>https://adactio.com/notes/22138</link>
-      <description>
-        <![CDATA[<p>Going to Madrid. brb</p>]]>
-      </description>
-      <guid>cid://https://adactio.com/notes/22138</guid>
-    </item>    <item>
-      <title>Best Practices for Asynchronous Communication in Remote Teams</title>
-      <link>https://openchannels.fm/best-practices-for-asynchronous-communication-in-remote-teams/</link>
-      <description>
-        <![CDATA[Asynchronous communication. Over-communicate, use emojis cautiously, and know when to talk face-to-face.]]>
-      </description>
-      <source:markdown>Asynchronous communication. Over-communicate, use emojis cautiously, and know when to talk face-to-face.</source:markdown>
-      <guid>cid://https://openchannels.fm/?p=109619</guid>
-    </item>    <item>
-      <title>Help Us Raise $200k to Free JavaScript from Oracle</title>
-      <link>https://deno.com/blog/javascript-tm-gofundme</link>
-      <description>
-        <![CDATA[Our legal battle over Oracle's claim on the word "JavaScript" is entering the discovery phase. Here's how you can help.]]>
-      </description>
-      <source:markdown>Our legal battle over Oracle&#39;s claim on the word &#34;JavaScript&#34; is entering the discovery phase. Here&#39;s how you can help.</source:markdown>
-      <guid>cid://https://deno.com/blog/javascript-tm-gofundme</guid>
-    </item>    <item>
-      <link>https://www.nytimes.com/2025/09/11/us/charlie-kirk-views-guns-gender-climate.html?unlocked_article_code=1.m08.aMHN.DZnbG_p6Pvgv&#38;smid=url-share</link>
-      <description>
-        <![CDATA[<p>Where Charlie Kirk Stood on Key Political Issues.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/18/1133/</guid>
-    </item>    <item>
-      <link>https://fortune.com/2025/09/05/trump-tech-dinner-full-attendee-list/</link>
-      <description>
-        <![CDATA[<p>Meet all 33 Silicon Valley power players at Trump’s high-profile tech dinner—and here’s Elon Musk’s explanation for why he wasn’t there.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/18/1131/</guid>
-    </item>    <item>
-      <title>Time-of-Check Time-of-Use Attacks Against LLMs</title>
-      <link>https://www.schneier.com/blog/archives/2025/09/time-of-check-time-of-use-attacks-against-llms.html</link>
-      <description>
-        <![CDATA[<p>This is a nice piece of research: &#8220;<a href="https://arxiv.org/abs/2508.17155">Mind the Gap: Time-of-Check to Time-of-Use Vulnerabilities in LLM-Enabled Agents</a>&#8220;.:</p>
-        <blockquote><p><b>Abstract:</b> Large Language Model (LLM)-enabled agents are rapidly emerging across a wide range of applications, but their deployment introduces vulnerabilities with security implications. While prior work has examined prompt-based attacks (e.g., prompt injection) and data-oriented threats (e.g., data exfiltration), time-of-check to time-of-use (TOCTOU) remain largely unexplored in this context. TOCTOU arises when an agent validates external state (e.g., a file or API response) that is later modified before use, enabling practical attacks such as malicious configuration swaps or payload injection. In this work, we present the first study of TOCTOU vulnerabilities in LLM-enabled agents. We introduce TOCTOU-Bench, a benchmark with 66 realistic user tasks designed to evaluate this class of vulnerabilities. As countermeasures, we adapt detection and mitigation techniques from systems security to this setting and propose prompt rewriting, state integrity monitoring, and tool-fusing. Our study highlights challenges unique to agentic workflows, where we achieve up to 25% detection accuracy using automated detection methods, a 3% decrease in vulnerable plan generation, and a 95% reduction in the attack window. When combining all three approaches, we reduce the TOCTOU vulnerabilities from an executed trajectory from 12% to 8%. Our findings open a new research direction at the intersection of AI safety and systems security...</p></blockquote>]]>
-      </description>
-      <guid>cid://https://www.schneier.com/?p=70832</guid>
-    </item>    <item>
-      <title>Exploiting Male Rage</title>
-      <link>https://paulkrugman.substack.com/p/exploiting-male-rage</link>
-      <description>
-        <![CDATA[Men&#8217;s problems are real. MAGA&#8217;s solutions are fake]]>
-      </description>
-      <source:markdown>Men’s problems are real. MAGA’s solutions are fake</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!ne75!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e46e74a-859d-4442-afd3-59d9ef05957c_800x450.png" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/exploiting-male-rage</guid>
-    </item>    <item>
-      <title>Generative AI in the Real World: Faye Zhang on Using AI to Improve Discovery</title>
-      <link>https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-faye-zhang-on-using-ai-to-improve-discovery/</link>
-      <description>
-        <![CDATA[In this episode, Ben Lorica and AI engineer Faye Zhang talk about discoverability: how to use AI to build search and recommendation engines that actually find what you want. Listen in to learn how AI goes way beyond simple collaborative filtering—pulling in many different kinds of data and metadata, including images and voice, to get [&#8230;]]]>
-      </description>
-      <source:markdown>In this episode, Ben Lorica and AI engineer Faye Zhang talk about discoverability: how to use AI to build search and recommendation engines that actually find what you want. Listen in to learn how AI goes way beyond simple collaborative filtering—pulling in many different kinds of data and metadata, including images and voice, to get \[…\]</source:markdown>
-      <enclosure url="https://cdn.oreillystatic.com/radar/generative-ai-real-world-podcast/GenAI_in_the_Real_World_with_Faye_Zhang_updated.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://www.oreilly.com/radar/?post_type=podcast&#38;p=17467</guid>
-    </item>    <item>
-      <title>Senior Producer Kalila Holt on Leaving Spotify and Heavyweight&#39;s New Chapter at Pushkin Industries</title>
-      <link>https://www.thisisthesqueeze.com/p/senior-producer-kalila-holt-on-leaving</link>
-      <description>
-        <![CDATA[Plus, I Explain Why I Ghosted You.]]>
-      </description>
-      <source:markdown>Plus, I Explain Why I Ghosted You.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!DPTZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17ee7d1a-6571-4904-9eee-92a9254d820a_3088x2048.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.thisisthesqueeze.com/p/senior-producer-kalila-holt-on-leaving</guid>
-    </item>    <item>
-      <title>Me and Julio down by Shaka when the walls fell.</title>
-      <link>https://adactio.com/notes/22137</link>
-      <description>
-        <![CDATA[<p>Me and Julio down by Shaka when the walls fell.</p>]]>
-      </description>
-      <guid>cid://https://adactio.com/notes/22137</guid>
-    </item>    <item>
-      <title>Trump Tightens his Grip on the Media: Jimmy Kimmel, The New York Times, and so on.</title>
-      <link>https://robertreich.substack.com/p/trumps-disastrous-defamations</link>
-      <description>
-        <![CDATA[A president shouldn&#8217;t be allowed to use defamation to suppress criticism of him. Big businesses likely to surrender to this shouldn&#8217;t be allowed to buy major media.]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!nsAv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F639682cf-ce37-4dd3-afe3-5dfa88f012ca_1456x1281.webp" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/trumps-disastrous-defamations</guid>
-    </item>    <item>
-      <title>From suspicion to published curl CVE</title>
-      <link>https://daniel.haxx.se/blog/2025/09/18/from-suspicion-to-published-curl-cve/</link>
-      <description>
-        <![CDATA[Every curl security report starts out with someone submitting an issue to us on https://hackerone.com/curl. The reporter tells us what they suspect and what they think the problem is. This report is kept private, visible only to the curl security team and the reporter while we work on it. In recent months we have gotten &#8230; <a href="https://daniel.haxx.se/blog/2025/09/18/from-suspicion-to-published-curl-cve/" class="more-link">Continue reading <span class="screen-reader-text">From suspicion to published curl CVE</span> <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <source:markdown>Every curl security report starts out with someone submitting an issue to us on https://hackerone.com/curl. The reporter tells us what they suspect and what they think the problem is. This report is kept private, visible only to the curl security team and the reporter while we work on it. In recent months we have gotten … [Continue reading From suspicion to published curl CVE→](https://daniel.haxx.se/blog/2025/09/18/from-suspicion-to-published-curl-cve/)</source:markdown>
-      <guid>cid://https://daniel.haxx.se/blog/?p=28170</guid>
-    </item>    <item>
-      <title>September 17, 2025 (Wednesday)</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-17-2025-wednesday</link>
-      <description>
-        <![CDATA[This evening, John Koblin, Michael M.]]>
-      </description>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-17-2025-wednesday</guid>
-    </item>    <item>
-      <title>My new book — Clearing the Air — is published in the UK today</title>
-      <link>https://www.sustainabilitybynumbers.com/p/clearing-the-air-published-uk</link>
-      <description>
-        <![CDATA[A Hopeful Guide to Solving Climate Change &#8212; in 50 Questions and Answers]]>
-      </description>
-      <source:markdown>A Hopeful Guide to Solving Climate Change — in 50 Questions and Answers</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!iC4i!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b3badfe-5bbb-4daf-ba70-dc729af7886e_1080x1350.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sustainabilitybynumbers.com/p/clearing-the-air-published-uk</guid>
-    </item>    <item>
-      <title>312: The Age of Rewilding. Martians. Babelfish 🐡. Universal blood? Golden monkeys.</title>
-      <link>https://fixthenews.com/p/312-the-age-of-rewilding-martians</link>
-      <description>
-        <![CDATA[Hidden stories of progress from around the world.]]>
-      </description>
-      <source:markdown>Hidden stories of progress from around the world.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!RToc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd74d8992-f42d-485f-9442-f4aac930ec04_1920x1920.webp" length="0" type="image/jpeg" />
-      <guid>cid://https://fixthenews.com/p/312-the-age-of-rewilding-martians</guid>
-    </item>    <item>
-      <title>Save video still frames from QuickTime Player with a shortcut</title>
-      <link>https://www.jeffgeerling.com/blog/2025/save-video-still-frames-quicktime-player-shortcut</link>
-      <description>
-        <![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Save video still frames from QuickTime Player with a shortcut</span>
-        
-                    <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Almost 15 years ago, I wrote <a href="https://www.jeffgeerling.com/blogs/jeff-geerling/grab-single-frame-video">Grab a Single Frame from a Video in QuickTime X</a>. And for many years since, I slightly modified that workflow. Instead of using Preview, I would use <a href="https://github.com/jcsalterego/pngpaste"><code>pngpaste</code></a>, and paste the copied frame from QuickTime player into a file.</p>
-        
-        <p>For example:</p>
-        
-        <ol>
-        <li>Open a video in QuickTime and scrub to the frame you would like to save as an image.</li>
-        <li>Press Command-C</li>
-        <li>Switch to Terminal</li>
-        <li>Run <code>pngpaste image-name-here.jpg</code></li>
-        <li>Profit!</li>
-        </ol>
-        
-        <p>However, there are two problems with that workflow:</p></div>
-              <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
-        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-09-17T23:23:20-05:00" title="Wednesday, September 17, 2025 - 23:23" class="datetime">September 17, 2025</time>
-        </span>]]>
-      </description>
-      <source:markdown>Save video still frames from QuickTime Player with a shortcut
-
-Almost 15 years ago, I wrote [Grab a Single Frame from a Video in QuickTime X](https://www.jeffgeerling.com/blogs/jeff-geerling/grab-single-frame-video). And for many years since, I slightly modified that workflow. Instead of using Preview, I would use [`pngpaste`](https://github.com/jcsalterego/pngpaste), and paste the copied frame from QuickTime player into a file.
-
-For example:
-
-1. Open a video in QuickTime and scrub to the frame you would like to save as an image.
-2. Press Command-C
-3. Switch to Terminal
-4. Run `pngpaste image-name-here.jpg`
-5. Profit!
-
-However, there are two problems with that workflow:
-
-Jeff GeerlingSeptember 17, 2025</source:markdown>
-      <guid>cid://3494 at https://www.jeffgeerling.com</guid>
-    </item>    <item>
-      <title>Finished reading The Rubber Band</title>
-      <link>https://www.mollywhite.net/reading/books?search=The%20Rubber%20Band</link>
-      <guid>cid://68ccd8c59f72b44b38476037</guid>
-    </item>    <item>
-      <title>The Authoritarian Transition Is Arriving Ahead-of-Schedule</title>
-      <link>https://davekarpf.substack.com/p/the-authoritarian-transition-is-arriving</link>
-      <description>
-        <![CDATA[ThisIsFineDog.gif]]>
-      </description>
-      <source:markdown>ThisIsFineDog.gif</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!e6xH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a0853bc-5be8-47f9-9b08-9be4fa19bf52_1000x978.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://davekarpf.substack.com/p/the-authoritarian-transition-is-arriving</guid>
-    </item>    <item>
-      <title>The risks we’re willing to take</title>
-      <link>https://tracydurnell.com/2025/09/17/the-risks-were-willing-to-take/</link>
-      <description>
-        <![CDATA[Not doing by Mandy Brown There will be consequences, of course. But there will be consequences no matter what you do. That’s what it means to be alive and living—everything you do makes change in the world. The choices we make are never between safety and risk, because there is no truly safe path; as long as [&#8230;]]]>
-      </description>
-      <source:markdown>Not doing by Mandy Brown There will be consequences, of course. But there will be consequences no matter what you do. That’s what it means to be alive and living—everything you do makes change in the world. The choices we make are never between safety and risk, because there is no truly safe path; as long as \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=29811</guid>
-    </item>    <item>
-      <title>A Moment For Independent Media</title>
-      <link>https://feed.tedium.co/link/15204/17162351/jimmy-kimmel-independent-media-thoughts</link>
-      <description>
-        <![CDATA[At a time when large companies are capitulating their content presence at the drop of a hat, a quick note on why a more-flexible independent media still matters.]]>
-      </description>
-      <source:markdown>At a time when large companies are capitulating their content presence at the drop of a hat, a quick note on why a more-flexible independent media still matters.</source:markdown>
-      <guid>cid://https://tedium.co/2025/09/17/jimmy-kimmel-independent-media-thoughts/</guid>
-    </item>    <item>
-      <title>The &#34;Taylor&#39;s Version&#34; generation is not gonna let Big AI steal her stuff</title>
-      <link>https://anildash.com/2025/09/18/the-taylors-version-generation/</link>
-      <guid>cid://https://anildash.com/2025/09/18/the-taylors-version-generation/</guid>
-    </item>    <item>
-      <title>here is the latest on &#34;candles&#34; #2</title>
-      <link>https://livelaugh.blog/posts/here-is-the-latest-on-candles-2/</link>
-      <guid>cid://https://livelaugh.blog/posts/here-is-the-latest-on-candles-2/</guid>
-    </item>    <item>
-      <title>Announcing Rust 1.90.0</title>
-      <link>https://blog.rust-lang.org/2025/09/18/Rust-1.90.0/</link>
-      <guid>cid://https://blog.rust-lang.org/2025/09/18/Rust-1.90.0/</guid>
     </item>
   </channel>
 </rss>
