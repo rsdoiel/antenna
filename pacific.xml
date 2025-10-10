@@ -4,10 +4,18 @@
   <channel>
     <title>Items of interest to the Pacific community and the Pacific RIM</title>
     <link>https://rsdoiel.github.io/antenna/pacific.xml</link>
-    <lastBuildDate>10 Oct 25 15:01 -0700</lastBuildDate>
+    <lastBuildDate>10 Oct 25 15:04 -0700</lastBuildDate>
     <generator>antenna/0.0.11</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Cyclone Gabrielle Inquest: Evidence reveals extent of communication between MetService and Regional Council</title>
+      <link>https://www.rnz.co.nz/news/national/575591/cyclone-gabrielle-inquest-evidence-reveals-extent-of-communication-between-metservice-and-regional-council</link>
+      <description>
+        <![CDATA[An inquest is underway into the deaths of 13 people in relation to the 2023 cyclone.]]>
+      </description>
+      <source:markdown>An inquest is underway into the deaths of 13 people in relation to the 2023 cyclone.</source:markdown>
+      <guid>cid://7a48bda2b2e1012c78ea447a0d1f8a931adf559d</guid>
+    </item>    <item>
       <title>Government commits to Bill allowing three-day postnatal stay</title>
       <link>https://www.rnz.co.nz/news/national/575609/government-commits-to-bill-allowing-three-day-postnatal-stay</link>
       <description>
@@ -43,14 +51,6 @@
 
 The post [Culinary Institute of the Pacific’s Roy Yamaguchi honored in CIA Alumni Walk of Fame](https://www.hawaii.edu/news/2025/10/10/cia-alumni-walk-of-fame/) first appeared on [University of Hawaiʻi System News](https://www.hawaii.edu/news).</source:markdown>
       <guid>cid://https://www.hawaii.edu/news/?p=223470</guid>
-    </item>    <item>
-      <title>Cyclone Gabrielle Inquest: Evidence reveals extent of communication between MetService and Regional Council</title>
-      <link>https://www.rnz.co.nz/news/national/575591/cyclone-gabrielle-inquest-evidence-reveals-extent-of-communication-between-metservice-and-regional-council</link>
-      <description>
-        <![CDATA[An inquest is underway into the deaths of 13 people in relation to the 2023 cyclone.]]>
-      </description>
-      <source:markdown>An inquest is underway into the deaths of 13 people in relation to the 2023 cyclone.</source:markdown>
-      <guid>cid://7a48bda2b2e1012c78ea447a0d1f8a931adf559d</guid>
     </item>    <item>
       <title>Manu Samoa pulls out of November Test against Italy</title>
       <link>https://talamua.com/?p=52932</link>

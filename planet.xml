@@ -4,7 +4,7 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>10 Oct 25 15:01 -0700</lastBuildDate>
+    <lastBuildDate>10 Oct 25 15:04 -0700</lastBuildDate>
     <generator>antenna/0.0.11</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -241,11 +241,11 @@ John Lodge, the singer and bassist of British rock band the Moody Blues for more
       <title>19 missing after blast at Tennessee military explosives plant, sheriff says</title>
       <link>https://www.cbc.ca/news/world/tennessee-explosion-9.6934873?cmp=rss</link>
       <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/d123deee-512e-47a7-8e9a-f6b954236539,1760114287439/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C15%2C2946%2C1657%29%3BResize%3D%28620%29' alt='Debris covers the ground' width='620' height='349' title='Debris covers the ground and vehicles after a powerful blast ripped through a military explosives manufacturing plant in Hickman County, Tenn., on Friday, Oct. 10, 2025. '/><p>An explosion at a Tennessee military munitions plant Friday left 19 people missing and feared dead, authorities said.</p>]]>
+        <![CDATA[<img src='https://i.cbc.ca/ais/d123deee-512e-47a7-8e9a-f6b954236539,1760114287439/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C15%2C2946%2C1657%29%3BResize%3D%28620%29' alt='Debris covers the ground' width='620' height='349' title='Debris covers the ground and vehicles after a powerful blast ripped through a military explosives manufacturing plant in Hickman County, Tenn., on Friday, Oct. 10, 2025. '/><p>A blast that leveled an explosives plant Friday in rural Tennessee left 19 people missing and feared dead, authorities said.</p>]]>
       </description>
       <source:markdown>![Debris covers the ground](https://i.cbc.ca/ais/d123deee-512e-47a7-8e9a-f6b954236539,1760114287439/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C15%2C2946%2C1657%29%3BResize%3D%28620%29)
 
-An explosion at a Tennessee military munitions plant Friday left 19 people missing and feared dead, authorities said.</source:markdown>
+A blast that leveled an explosives plant Friday in rural Tennessee left 19 people missing and feared dead, authorities said.</source:markdown>
       <guid>cid://9.6934873</guid>
     </item>    <item>
       <title>Pope: &#39;Faith and reason support and complement one another&#39;</title>
