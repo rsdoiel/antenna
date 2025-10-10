@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="https://source.scripting.com/">
-  <atom:link href="http://localhost:8000/craftxml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://rsdoiel.github.io/antenna/craft.xml" rel="self" type="application/rss+xml" />
   <channel>
     <title>Craft</title>
     <description>
       Craft is a list of hand oriented craft and technology
       Do we really need all those power tools?
     </description>
-    <link>http://localhost:8000/craftxml</link>
-    <lastBuildDate>10 Oct 25 14:07 -0700</lastBuildDate>
+    <link>https://rsdoiel.github.io/antenna/craft.xml</link>
+    <lastBuildDate>10 Oct 25 14:40 -0700</lastBuildDate>
     <generator>antenna/0.0.11</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>

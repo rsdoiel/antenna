@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <opml version="2.0">
     <head>
-        <title>socal_north.md</title>
-        <dateCreated>10 Oct 25 14:07 -0700</dateCreated>
+        <title>SoCal North</title>
+        <dateCreated>10 Oct 25 14:40 -0700</dateCreated>
     </head>
     <body>
         <outline text="CalVolunteers" type="rss" xmlUrl="https://www.californiavolunteers.ca.gov/feed/" htmlUrl="https://www.californiavolunteers.ca.gov,https://www.californiavolunteers.ca.gov/feed/" description="California Volunteers" url="https://www.californiavolunteers.ca.gov/feed/"></outline>
