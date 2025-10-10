@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Comics, Graphic Novels and serials</title>
-        <dateCreated>10 Oct 25 14:40 -0700</dateCreated>
+        <dateCreated>10 Oct 25 14:49 -0700</dateCreated>
     </head>
     <body>
         <outline text="The Oatmeal" type="rss" xmlUrl="https://theoatmeal.com/feed/rss" htmlUrl="http://theoatmeal.com/" description="I make comics about science, cats, social media, and sometimes goats."></outline>
