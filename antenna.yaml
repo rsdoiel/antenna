@@ -4,27 +4,27 @@ baseUrl: https://rsdoiel.github.io/antenna
 generator: home_page.yaml
 collections:
     - title: Columns
-      link: http://localhost:8000/columnsxml
-      description: Blogs, columns and snapshots from around the web.
+      link: columns.xml
       file: columns.md
+      description: Blogs, columns and snapshots from around the web.
       generator: front_page.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: columns.db
     - title: Craft
-      link: http://localhost:8000/craftxml
+      link: craft.xml
+      file: craft.md
       description: |-
         Craft is a list of hand oriented craft and technology
         Do we really need all those power tools?
-      file: craft.md
       generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: craft.db
     - title: Healthy Eating, Good Eating and Recipes
-      link: http://localhost:8000/foodxml
+      link: food.xml
       file: food.md
       generator: other_reading.yaml
       filters:
@@ -32,16 +32,16 @@ collections:
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: food.db
     - title: Going Electric
-      link: http://localhost:8000/going_electricxml
-      description: Going Electric has feeds involving home and transportation options powered by Electricity
+      link: going_electric.xml
       file: going_electric.md
+      description: Going Electric has feeds involving home and transportation options powered by Electricity
       generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: going_electric.db
     - title: Home, Garden and Urban Farm related blogs
-      link: http://localhost:8000/homexml
+      link: home.xml
       file: home.md
       generator: other_reading.yaml
       filters:
@@ -49,7 +49,7 @@ collections:
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: home.db
     - title: Feeds Student Journalism and feeds about Journalism feeds
-      link: http://localhost:8000/journalismxml
+      link: journalism.xml
       file: journalism.md
       generator: other_reading.yaml
       filters:
@@ -57,7 +57,7 @@ collections:
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: journalism.db
     - title: Library and Archives organizations
-      link: http://localhost:8000/librariesxml
+      link: libraries.xml
       file: libraries.md
       generator: other_reading.yaml
       filters:
@@ -65,7 +65,7 @@ collections:
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: libraries.db
     - title: North America
-      link: http://localhost:8000/north_americaxml
+      link: north_america.xml
       file: north_america.md
       generator: front_page.yaml
       filters:
@@ -73,7 +73,7 @@ collections:
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: north_america.db
     - title: Items of interest to the Pacific community and the Pacific RIM
-      link: http://localhost:8000/pacificxml
+      link: pacific.xml
       file: pacific.md
       generator: front_page.yaml
       filters:
@@ -81,7 +81,7 @@ collections:
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: pacific.db
     - title: Planet News
-      link: http://localhost:8000/planetxml
+      link: planet.xml
       file: planet.md
       generator: front_page.yaml
       filters:
@@ -89,7 +89,7 @@ collections:
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: planet.db
     - title: Retro Computing News
-      link: http://localhost:8000/retro_computingxml
+      link: retro_computing.xml
       file: retro_computing.md
       generator: other_reading.yaml
       filters:
@@ -97,7 +97,7 @@ collections:
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: retro_computing.db
     - title: Science and Technology
-      link: http://localhost:8000/science_and_technologyxml
+      link: science_and_technology.xml
       file: science_and_technology.md
       generator: other_reading.yaml
       filters:
@@ -105,14 +105,17 @@ collections:
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: science_and_technology.db
     - title: Som Regional News Papers
-      link: http://localhost:8000/small_papersxml
+      link: small_papers.xml
       file: small_papers.md
       generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: small_papers.db
-    - title: socal_north.md
+    - title: SoCal North
+      description: |
+        News and posts related to the greater North Los Angeles and adjacent counties.
+
       link: socal_north.xml
       file: socal_north.md
       generator: front_page.yaml
@@ -121,7 +124,7 @@ collections:
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: socal_north.db
     - title: Writing
-      link: http://localhost:8000/writingxml
+      link: writing.xml
       file: writing.md
       generator: other_reading.yaml
       filters:
@@ -129,7 +132,7 @@ collections:
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: writing.db
     - title: Antenna
-      link: http://localhost:8000/pagesxml
+      link: pages.xml
       file: pages.md
       generator: home_page.yaml
       filters:
@@ -137,8 +140,8 @@ collections:
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: pages.db
     - title: Comics, Graphic Novels and serials
-      link: http://localhost:8000/comicsxml
       description: Commics and Graphic Novel sites on the web.
+      link: comics.xml
       file: comics.md
       generator: home_page.yaml
       filters:

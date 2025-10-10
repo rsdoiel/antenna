@@ -5,9 +5,6 @@
 link:
   - rel: stylesheet
     href: css/site.css
-script:
-  - type: module
-    src: modules/date_filter.js
 
 # What follows are rendered in the HTML body element
 header: |
@@ -39,10 +36,11 @@ nav: |
     <li><a href="writing.html">Writing</a></li>
   </ul>
 
-topContent: |
+top_content: |
   <div class="article-filter">Filter by date: <input id="filter-by-date" type="date"></div>
 
-bottomContent: ''
+bottom_content: |
+  <script type="module" src="modules/date_filter.js"></script>
 
 footer: |
   Antenna is a personal aggregation of items found around the web.<br>
