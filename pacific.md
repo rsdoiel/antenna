@@ -12,9 +12,7 @@ title: Items of interest to the Pacific community and the Pacific RIM
 # Commercial News Papers, Guam and the Northern Marianas, Republic of Belau
 
 - [Pacific Island Times](https://www.pacificislandtimes.com/blog-feed.xml)
--  Marianas Variety no longer producing valid RSS feed, 2025-10-10 RSD
-  - Feed from webpage <https://www.mvariety.com/feed/>
-  - Cloud Flare blocking feed retrieval
+- [Pacific Daily News @YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UCS2nurz7ZrUYBG2pKf8e8JA)
 
 # From the Republic of Belau
 
@@ -84,3 +82,11 @@ title: Items of interest to the Pacific community and the Pacific RIM
 
 - [Rappler](https://www.rappler.com/feed/)
 
+# News sites that don't provide feeds
+
+- AP News Hub for Micronesia, <https://apnews.com/hub/micronesia>
+-  Marianas Variety stopped producing valid RSS feeds
+  - Feed from webpage <https://www.mvariety.com/feed/>
+  - They used to provide an atom feed via a search engine but that is
+    now blocked via Cloudflare (AI bot abuse?)
+- Pacific Daily News does not provide a feed (not for a long time), <https://www.guampdn.com/>

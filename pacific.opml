@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Items of interest to the Pacific community and the Pacific RIM</title>
-        <dateCreated>10 Oct 25 09:05 -0700</dateCreated>
+        <dateCreated>10 Oct 25 09:37 -0700</dateCreated>
     </head>
     <body>
         <outline text="FSM Development Bank News" type="rss" xmlUrl="http://www.fsmdb.fm/feed/" htmlUrl="http://www.fsmdb.fm,http://www.fsmdb.fm/feed/" description="FSM Development Bank" url="http://www.fsmdb.fm/feed/"></outline>
@@ -19,6 +19,7 @@
         <outline text="MERIP News, Marine Environment Ressearch Institute of Pohnpei" type="rss" xmlUrl="https://www.meripmicronesia.org/feed/" htmlUrl="https://www.meripmicronesia.org,https://www.meripmicronesia.org/feed/" description="MERIP supports Sustainable Marine Projects in Micronesia" url="https://www.meripmicronesia.org/feed/"></outline>
         <outline text="Marianas Variety" type="atom" xmlUrl="https://www.mvariety.com/search/?nsa=eeditionl=50&amp;t=article&amp;f=atom" htmlUrl="https://www.mvariety.com/search/?nsa=eeditionl=50&amp;t=article&amp;f=atom,https://www.mvariety.com/" url="https://www.mvariety.com/search/?nsa=eeditionl=50&amp;t=article&amp;f=atom"></outline>
         <outline text="Marshal Islands Journal" type="rss" xmlUrl="https://marshallislandsjournal.com/feed/" htmlUrl="https://marshallislandsjournal.com/,https://marshallislandsjournal.com/feed/" description="The weekly newspaper of record in RMI" url="https://marshallislandsjournal.com/feed/"></outline>
+        <outline text="Pacific Daily News @YouTube" type="atom" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCS2nurz7ZrUYBG2pKf8e8JA" htmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCS2nurz7ZrUYBG2pKf8e8JA,https://www.youtube.com/channel/UCS2nurz7ZrUYBG2pKf8e8JA" url="http://www.youtube.com/feeds/videos.xml?channel_id=UCS2nurz7ZrUYBG2pKf8e8JA"></outline>
         <outline text="Pacific Island Times" type="rss" xmlUrl="https://www.pacificislandtimes.com/blog-feed.xml" htmlUrl="https://www.pacificislandtimes.com/blog-bcxs8,https://www.pacificislandtimes.com/blog-feed.xml" description="pactimes" url="https://www.pacificislandtimes.com/blog-feed.xml"></outline>
         <outline text="Post Courier (PNG)" type="rss" xmlUrl="https://www.postcourier.com.pg/feed/" htmlUrl="https://www.postcourier.com.pg/,https://www.postcourier.com.pg/feed/" description="Papua New Guinea&#39;s &#39;trupla&#39; leading Daily Newspaper Since 1969.The Post-Courier is proud of its record as the voice of PNG. We were there when the nation took its first bold steps towards independence. Since that time, we have fearlessly recorded the nation&#39;s progress." url="https://www.postcourier.com.pg/feed/"></outline>
         <outline text="RNZ National News" type="rss" xmlUrl="https://www.rnz.co.nz/rss/national.xml" htmlUrl="https://www.rnz.co.nz/news/national,https://www.rnz.co.nz/rss/national.xml" description="The Latest New Zealand headlines from RNZ News" url="https://www.rnz.co.nz/rss/national.xml"></outline>
