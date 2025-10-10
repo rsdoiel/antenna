@@ -4,10 +4,34 @@
   <channel>
     <title>Retro Computing News</title>
     <link>http://localhost:8000/retro_computingxml</link>
-    <lastBuildDate>10 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>10 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>This Week on The Analog Antiquarian</title>
+      <link>https://www.filfre.net/2025/10/this-week-on-the-analog-antiquarian/</link>
+      <description>
+        <![CDATA[Chapter 5: The New Star]]>
+      </description>
+      <source:markdown>Chapter 5: The New Star</source:markdown>
+      <guid>cid://https://www.filfre.net/?p=6526</guid>
+    </item>    <item>
+      <title>FDNPKG16 version 0.99.8244</title>
+      <link>https://sourceforge.net/p/freedos/news/2025/10/fdnpkg16-version-0998244/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>Developer sparky4 has been busy adding new features to FDNPKG16, the 16-bit version of the FDNPKG package manager. The new version has translations for English, German, French, Turkish, Slovenian, and Polish. (From sparky4: "The rest are missing strings or are not translated like Spanish, Danish, and Russian needs updated strings and translations. Spanish needs shortening of some help text.") You can find the latest version at <a class="" href="https://github.com/sparky4/fdnpkg16" rel="nofollow">fdnpkg16 on GitHub</a> or a copy at <a class="" href="https://gitlab.com/sparky4/fdnpkg16" rel="nofollow">fdnpkg16 on GitLab</a>.</p></div>]]>
+      </description>
+      <source:markdown>Developer sparky4 has been busy adding new features to FDNPKG16, the 16-bit version of the FDNPKG package manager. The new version has translations for English, German, French, Turkish, Slovenian, and Polish. (From sparky4: &#34;The rest are missing strings or are not translated like Spanish, Danish, and Russian needs updated strings and translations. Spanish needs shortening of some help text.&#34;) You can find the latest version at [fdnpkg16 on GitHub](https://github.com/sparky4/fdnpkg16) or a copy at [fdnpkg16 on GitLab](https://gitlab.com/sparky4/fdnpkg16).</source:markdown>
+      <guid>cid://https://sourceforge.netadcc9b0f3b33ac9d63f6f9dfcbc11cc582f751bb</guid>
+    </item>    <item>
+      <title>NASM 3.00</title>
+      <link>https://sourceforge.net/p/freedos/news/2025/10/nasm-300/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p><a class="" href="https://www.nasm.us/" rel="nofollow">NASM</a> is the Netwide Assembler, an open source assembler for the x86 CPU architecture, available under the Simplified ("2-clause") BSD License. The NASM project recently released version 3.00, which includes a <a class="" href="https://www.nasm.us/docs/3.00/nasmac.html" rel="nofollow">ton of new features</a> that programmers will love, including: - Add new preprocessor functions: %b2hs(), %chr(), %depend(), %find(), %findi(), %hs2b(), %null(), %ord(), %pathsearch(), and %realpath() - New preprocessor directive %note to insert a note in the list file - New preprocessor directive %iffile and function %isfile() to test for the existence of a file - New preprocessor directive %ifdirective to test for the existence of a preprocessor directive - Many <a class="" href="https://www.nasm.us/docs/3.00/" rel="nofollow">documentation</a> improvements - and many other features and fixes. Note that using <code>$</code> as a prefix for hexadecimal numbers has been deprecated, and will now issue a warning. You can download the new version from <a class="" href="https://www.nasm.us/pub/nasm/releasebuilds/3.00/" rel="nofollow">the official 3.00 release</a>.</p></div>]]>
+      </description>
+      <source:markdown>[NASM](https://www.nasm.us/) is the Netwide Assembler, an open source assembler for the x86 CPU architecture, available under the Simplified (&#34;2-clause&#34;) BSD License. The NASM project recently released version 3.00, which includes a [ton of new features](https://www.nasm.us/docs/3.00/nasmac.html) that programmers will love, including: - Add new preprocessor functions: %b2hs(), %chr(), %depend(), %find(), %findi(), %hs2b(), %null(), %ord(), %pathsearch(), and %realpath() - New preprocessor directive %note to insert a note in the list file - New preprocessor directive %iffile and function %isfile() to test for the existence of a file - New preprocessor directive %ifdirective to test for the existence of a preprocessor directive - Many [documentation](https://www.nasm.us/docs/3.00/) improvements - and many other features and fixes. Note that using `$` as a prefix for hexadecimal numbers has been deprecated, and will now issue a warning. You can download the new version from [the official 3.00 release](https://www.nasm.us/pub/nasm/releasebuilds/3.00/).</source:markdown>
+      <guid>cid://https://sourceforge.net6090a7b7b6374ef026839022382a6bb44400efb0</guid>
+    </item>    <item>
       <title>b.log 2025/10/08 - Crappy fake uSD card, Paracetamol.</title>
       <link>https://heyrick.eu/blog/entry/20251008</link>
       <description>

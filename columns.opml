@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>10 Oct 25 06:08 -0700</dateCreated>
+        <dateCreated>10 Oct 25 11:10 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -272,6 +272,7 @@
         <outline text="The Markup blog" type="rss" xmlUrl="https://themarkup.org/feeds/rss.xml" htmlUrl="https://themarkup.org/,https://themarkup.org/feeds/rss.xml" description="All stories from The Markup" url="https://themarkup.org/feeds/rss.xml"></outline>
         <outline text="The Sephist blog" type="rss" xmlUrl="https://thesephist.com/index.xml" htmlUrl="https://thesephist.com/,https://thesephist.com/index.xml" description="Recent content on thesephist" url="https://thesephist.com/index.xml"></outline>
         <outline text="The Squeeze" type="rss" xmlUrl="https://www.thisisthesqueeze.com/feed" htmlUrl="https://www.thisisthesqueeze.com,https://www.thisisthesqueeze.com/feed" description="Original reporting on issues that impact audio producers and podcasters." url="https://www.thisisthesqueeze.com/feed"></outline>
+        <outline text="The Talkshow with John Grubber" type="rss" category="Technology" xmlUrl="https://daringfireball.net/thetalkshow/rss" htmlUrl="https://daringfireball.net/thetalkshow" description="The director’s commentary track for Daring Fireball. Long digressions on Apple, technology, design, movies, and more."></outline>
         <outline text="The United States Research Software Engineer Association" type="rss" xmlUrl="https://us-rse.org/feed.xml" htmlUrl="https://us-rse.org,https://us-rse.org/feed.xml" description="United States Research Software Engineer Association" url="https://us-rse.org/feed.xml"></outline>
         <outline text="This is history podcast" type="rss" xmlUrl="https://therestishistory.com/feed/" htmlUrl="https://therestishistory.com/,https://therestishistory.com/feed/" description="Historians Tom Holland and Dominic Sandbrook are interrogating the past, and attempting to de-tangle the present." url="https://therestishistory.com/feed/"></outline>
         <outline text="Thomas Denney Blog" type="rss" xmlUrl="https://www.thomasdenney.co.uk/feed.xml" htmlUrl="https://www.thomasdenney.co.uk"></outline>

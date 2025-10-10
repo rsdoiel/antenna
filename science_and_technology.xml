@@ -4,10 +4,124 @@
   <channel>
     <title>Science and Technology</title>
     <link>http://localhost:8000/science_and_technologyxml</link>
-    <lastBuildDate>10 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>10 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Ransomware crims that exploited SharePoint 0-days add Velociraptor to their arsenal</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/ransomware_velociraptor/</link>
+      <description>
+        <![CDATA[<h4>And they’re likely still abusing the same SharePoint flaws for initial access</h4> <p>The ransomware gang caught exploiting Microsoft SharePoint zero-days over the summer has added a new tool to its arsenal: Velociraptor, an open-source digital forensics and incident response app not previously tied to ransomware incidents.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### And they’re likely still abusing the same SharePoint flaws for initial access
+
+The ransomware gang caught exploiting Microsoft SharePoint zero-days over the summer has added a new tool to its arsenal: Velociraptor, an open-source digital forensics and incident response app not previously tied to ransomware incidents.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242424</guid>
+    </item>    <item>
+      <title>Kyndryl sued for firing non-white workers, disabled vet</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/kyndryl_sued_for_firing_nonwhite/</link>
+      <description>
+        <![CDATA[<h4>Security team cuts allegedly targeted workers based on race, national origin, age, and whistleblowing</h4> <p>Five former members of Kyndryl&#39;s internal IT security team have sued the IBM spinoff alleging that they were terminated as part of a campaign targeting employees based on their race, national origin, age, disability, and whistleblowing activities.…</p>]]>
+      </description>
+      <source:markdown>#### Security team cuts allegedly targeted workers based on race, national origin, age, and whistleblowing
+
+Five former members of Kyndryl&#39;s internal IT security team have sued the IBM spinoff alleging that they were terminated as part of a campaign targeting employees based on their race, national origin, age, disability, and whistleblowing activities.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242405</guid>
+    </item>    <item>
+      <title>María Corina Machado, Venezuela&#39;s &#39;Iron Lady,&#39; Wins Nobel Peace Prize</title>
+      <link>https://www.smithsonianmag.com/smart-news/maria-corina-machado-venezuelas-iron-lady-wins-nobel-peace-prize-180987499/</link>
+      <description>
+        <![CDATA[Machado, who leads the Vente Venezuela opposition party against President Nicolás Maduro, was lauded for her "tireless work promoting democratic rights for the people of Venezuela"]]>
+      </description>
+      <source:markdown>Machado, who leads the Vente Venezuela opposition party against President Nicolás Maduro, was lauded for her &#34;tireless work promoting democratic rights for the people of Venezuela&#34;</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/hE7GgdD2YNcHRe1qhLO3s97eO7E=/420x240/filters:focal(2687x1792:2688x1793)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/53/29/5329fd73-df63-4483-93e7-76a5613be4d3/gettyimages-2193176136.jpg" length="" type="" />
+    </item>    <item>
+      <title>Senate says Nvidia chips are for America first as China tightens import controls</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/nvidia_chips_us_china/</link>
+      <description>
+        <![CDATA[<h4>Xi to the left of me, Trump is to the right; Huang I am, stuck in the middle with GPUs</h4> <p>The US Senate has passed a provision that would give US firms first dibs on advanced chips, just as China tightens customs checks on Nvidia GPUs, leaving the company caught between competing policies across the Pacific.…</p>]]>
+      </description>
+      <source:markdown>#### Xi to the left of me, Trump is to the right; Huang I am, stuck in the middle with GPUs
+
+The US Senate has passed a provision that would give US firms first dibs on advanced chips, just as China tightens customs checks on Nvidia GPUs, leaving the company caught between competing policies across the Pacific.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242422</guid>
+    </item>    <item>
+      <title>Zero-day in file-sharing software leads to RCE, and attacks are ongoing</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/zeroday_in_filesharing_software_leads/</link>
+      <description>
+        <![CDATA[<h4>Usually we’d say patch up… not this time</h4> <p>Security research firm Huntress is warning all users of Gladinet&#39;s CentreStack and Triofox file-sharing tools to urgently apply an available mitigation, as a zero-day is being actively exploited and there&#39;s no patch available.…</p>]]>
+      </description>
+      <source:markdown>#### Usually we’d say patch up… not this time
+
+Security research firm Huntress is warning all users of Gladinet&#39;s CentreStack and Triofox file-sharing tools to urgently apply an available mitigation, as a zero-day is being actively exploited and there&#39;s no patch available.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242419</guid>
+    </item>    <item>
+      <title>Microsoft lets bosses spot teams that are dodging Copilot</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/microsoft_copilot_viva_insights/</link>
+      <description>
+        <![CDATA[<h4>Viva Insights turns AI guzzling into a leaderboard</h4> <p>Microsoft is adding Copilot adoption benchmarks to Viva Insights, a tool that lets managers monitor teams to spot those that are gulping down the AI Kool-Aid fastest.…</p>]]>
+      </description>
+      <source:markdown>#### Viva Insights turns AI guzzling into a leaderboard
+
+Microsoft is adding Copilot adoption benchmarks to Viva Insights, a tool that lets managers monitor teams to spot those that are gulping down the AI Kool-Aid fastest.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242418</guid>
+    </item>    <item>
+      <title>Scientists Converted a Kidney’s Blood Type, Then Implanted It Into a Brain-Dead Patient for the First Time</title>
+      <link>https://www.smithsonianmag.com/smart-news/scientists-converted-kidney-blood-type-implanted-into-brain-dead-patient-first-time-180987483/</link>
+      <description>
+        <![CDATA[This area of research is still in the early stages, but it could someday help reduce wait times for patients needing kidney transplants]]>
+      </description>
+      <source:markdown>This area of research is still in the early stages, but it could someday help reduce wait times for patients needing kidney transplants</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/hyIVP-u6W7-ALaczvr0b4LrTvhA=/420x240/filters:focal(1249x940:1250x941)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/bd/07/bd07e280-8447-45cb-9a15-2c1a5981069c/figure-4-hmp-eco45.jpg" length="" type="" />
+    </item>    <item>
+      <title>Genes Have Harnessed Physics to Help Grow Living Things</title>
+      <link>https://www.quantamagazine.org/genes-have-harnessed-physics-to-help-grow-living-things-20251010/</link>
+      <description>
+        <![CDATA[The same pulling force that causes “tears” in a glass of wine also shapes embryos. It’s another example of how genes exploit mechanical forces for growth and development.            <p>The post <a href="https://www.quantamagazine.org/genes-have-harnessed-physics-to-help-grow-living-things-20251010/" target="_blank">Genes Have Harnessed Physics to Help Grow Living Things</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>The same pulling force that causes “tears” in a glass of wine also shapes embryos. It’s another example of how genes exploit mechanical forces for growth and development.
+
+The post [Genes Have Harnessed Physics to Help Grow Living Things](https://www.quantamagazine.org/genes-have-harnessed-physics-to-help-grow-living-things-20251010/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=155559</guid>
+    </item>    <item>
+      <title>Pro-Russia hacktivist group dies of cringe after falling into researchers&#39; trap</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/russia_hacktivists_honeytrap/</link>
+      <description>
+        <![CDATA[<h4>Forescout&#39;s phony water plant fooled TwoNet into claiming a fake cyber victory – then it quietly shut up shop</h4> <p>Security researchers say they duped pro-Russia cybercriminals into targeting a fake critical infrastructure organization, which the crew later claimed - via their Telegram group - to be a real-world attack.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Forescout&#39;s phony water plant fooled TwoNet into claiming a fake cyber victory – then it quietly shut up shop
+
+Security researchers say they duped pro-Russia cybercriminals into targeting a fake critical infrastructure organization, which the crew later claimed - via their Telegram group - to be a real-world attack.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242417</guid>
+    </item>    <item>
+      <title>Creative Hobbies Like Tango Dancing or Playing Musical Instruments May Help Keep Your Brain Young, Study Finds</title>
+      <link>https://www.smithsonianmag.com/smart-news/creative-hobbies-could-help-keep-your-brain-young-180987476/</link>
+      <description>
+        <![CDATA[Scientists discovered that talented experts had "younger" brains than those of their less experienced counterparts, and even those who only dabbled in creativity reaped benefits]]>
+      </description>
+      <source:markdown>Scientists discovered that talented experts had &#34;younger&#34; brains than those of their less experienced counterparts, and even those who only dabbled in creativity reaped benefits</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/KBXrZljVrwx_CXuI2CAmS8_tfQI=/420x240/filters:focal(2500x1667:2501x1668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/32/e5/32e5465a-3b07-41f8-ba4b-82ddb98c495b/pexels-cristian-rojas-8281157.jpg" length="" type="" />
+    </item>    <item>
+      <title>Climate goals go up in smoke as US datacenters turn to coal</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/datacenter_coal_power/</link>
+      <description>
+        <![CDATA[<h4>High gas prices and surging AI demand send operators back to the dirtiest fuel in the stack</h4> <p>US datacenters are experiencing a significant shift toward coal-powered energy due to elevated natural gas prices and rapidly growing electricity demand.…</p>]]>
+      </description>
+      <source:markdown>#### High gas prices and surging AI demand send operators back to the dirtiest fuel in the stack
+
+US datacenters are experiencing a significant shift toward coal-powered energy due to elevated natural gas prices and rapidly growing electricity demand.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242413</guid>
+    </item>    <item>
+      <title>Microsoft warns of &#39;payroll pirate&#39; crew looting US university salaries</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/microsoft_payroll_pirate/</link>
+      <description>
+        <![CDATA[<h4>Crooks phish campus staff, slip into HR systems, and quietly reroute paychecks</h4> <p>Microsoft&#39;s Threat Intelligence team has sounded the alarm over a new financially-motivated cybercrime spree that is raiding US university payroll systems.…</p>]]>
+      </description>
+      <source:markdown>#### Crooks phish campus staff, slip into HR systems, and quietly reroute paychecks
+
+Microsoft&#39;s Threat Intelligence team has sounded the alarm over a new financially-motivated cybercrime spree that is raiding US university payroll systems.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242415</guid>
+    </item>    <item>
       <title>50 years in deep space, and Voyager still can&#39;t escape budget gravity</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/nasa_voyagers_budget/</link>
       <description>
@@ -38,7 +152,7 @@ Microsoft 365 services toppled over in North America last night due to an infras
 The UK&#39;s competition watchdog has officially slapped Google with &#34;strategic market status,&#34; a new legal label that gives the regulator far-reaching powers to rein in how the search giant runs its empire.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242414</guid>
     </item>    <item>
-      <title>Former UK prime minster Sunak becomes human Clippy for Microsoft, Anthropic</title>
+      <title>Former UK prime minister Sunak becomes human Clippy for Microsoft, Anthropic</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/former_uk_prime_minister_rishi/</link>
       <description>
         <![CDATA[<h4>Conservative MP told he must not lobby for corporations</h4> <p>Rishi Sunak is ready to kick-start his career with a couple of openings in the tech industry, a year after the end of his internship as the prime minister of the world&#39;s sixth-largest economy.…</p>]]>
@@ -167,9 +281,9 @@ Today&#39;s students are using AI for everything from tutoring to therapy to rom
       <title>Nigeria’s Independence From England Brought Artistic Revolution. For the First Time, England Is Showcasing It</title>
       <link>https://www.smithsonianmag.com/smart-news/nigerias-independence-from-england-brought-artistic-revolution-for-the-first-time-england-is-showcasing-it-180987490/</link>
       <description>
-        <![CDATA["Nigerian Modernism," a new exhibition at the Tate Modern, celebrates 50-plus artists spanning more than half a century]]>
+        <![CDATA["Nigerian Modernism," a new exhibition at the Tate Modern, celebrates 50-plus artists spanning half a century]]>
       </description>
-      <source:markdown>&#34;Nigerian Modernism,&#34; a new exhibition at the Tate Modern, celebrates 50-plus artists spanning more than half a century</source:markdown>
+      <source:markdown>&#34;Nigerian Modernism,&#34; a new exhibition at the Tate Modern, celebrates 50-plus artists spanning half a century</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/d35DI-VePPnXsHfuao_PW0ABGCs=/420x240/filters:focal(1250x833:1251x834)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ae/50/ae501cc7-12af-4339-9ce6-193d3149630d/nigerian_modernism_press_tm_2025_008.jpeg" length="" type="" />
     </item>    <item>
       <title>Here&#39;s How to See Two Comets and a Meteor Shower Light Up the Sky This Month</title>

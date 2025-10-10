@@ -4,10 +4,19 @@
   <channel>
     <title>North America</title>
     <link>http://localhost:8000/north_americaxml</link>
-    <lastBuildDate>10 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>10 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.9</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Why government shutdowns hit tribes especially hard</title>
+      <link>https://www.marketplace.org/episode/2025/10/10/why-government-shutdowns-hit-tribes-especially-hard</link>
+      <description>
+        <![CDATA[<p>Federal programs and funding play an important role in Indian Country, because of the government’s trust responsibility to provide or fund services to tribal nations in exchange for ceded land that now comprises the United States. That relationship also means that shutdowns hit tribal nations particularly hard. We'll learn what that means for services like health care and food distribution programs. Then, a lifelong Las Vegas resident reflects on the city's economic slowdown.</p>]]>
+      </description>
+      <source:markdown>Federal programs and funding play an important role in Indian Country, because of the government’s trust responsibility to provide or fund services to tribal nations in exchange for ceded land that now comprises the United States. That relationship also means that shutdowns hit tribal nations particularly hard. We&#39;ll learn what that means for services like health care and food distribution programs. Then, a lifelong Las Vegas resident reflects on the city&#39;s economic slowdown.</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/10/10/mmr_20251010_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K778S2V7MN3B0H1EAFTNSX4D" length="3422507" type="audio/mpeg" />
+      <guid>cid://01K778S2V7MN3B0H1EAFTNSX4D</guid>
+    </item>    <item>
       <title>What&#39;s a U.S. economy to do if foreign tourists feel unloved?</title>
       <link>https://www.marketplace.org/episode/2025/10/10/whats-a-us-economy-to-do-if-foreign-tourists-feel-unloved</link>
       <description>
@@ -34,6 +43,14 @@
       <source:markdown>The ongoing government shutdown has caused a lapse in the Cybersecurity Information Sharing Act,a law that&#39;s key to protecting the nation against major cyberattacks. Plus, OpenAI this week made a huge investment in chipmaker AMD, the latest in a round of blockbuster deals. And Google said it will be updating its smart home devices with its advanced artificial intelligence, Gemini. Marketplace’s Nova Safo spoke with Maria Curi, tech policy reporter at Axios, about all these headlines on this week’s Marketplace Tech Bytes: Week in Review.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/10/10/tech_20251010_1010_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K75AR1ZT13EAK19V3Q09XPFJ" length="10046504" type="audio/mpeg" />
       <guid>cid://01K75AR1ZT13EAK19V3Q09XPFJ</guid>
+    </item>    <item>
+      <title>Harris Dickinson’s Homelessness Drama Urchin Is Powerfully Honest British Social Realism</title>
+      <link>https://www.pastemagazine.com/movies/urchin/urchin-review-harris-dickinson-frank-dillane-homelessness-london-drama-addiction</link>
+      <description>
+        <![CDATA[Frank Dillane's nuanced portrayal of a backsliding addict captures a true slice of modern London in Harris Dickinson's debut Urchin.]]>
+      </description>
+      <source:markdown>Frank Dillane&#39;s nuanced portrayal of a backsliding addict captures a true slice of modern London in Harris Dickinson&#39;s debut Urchin.</source:markdown>
+      <guid>cid://19dfc3fa-7a16-4ea8-ba1c-5e4f21aaba9d-409840</guid>
     </item>    <item>
       <title>Greenback gains</title>
       <link>https://www.marketplace.org/episode/2025/10/09/greenback-gains</link>
