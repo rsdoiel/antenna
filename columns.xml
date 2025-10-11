@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>11 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>11 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,229 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Research Alt</title>
+      <link>https://blog.jim-nielsen.com/2025/research-alt/</link>
+      <description>
+        <![CDATA[<p><a href="https://adactio.com/journal/22183" >Jeremy imagines a scenario</a> where you’re trying to understand how someone cut themselves with a blade. It’d be hard to know how they cut themselves just by looking at the wound.</p>
+        <blockquote>
+        <p>But if you talk to the person, not only will you find out the reason, you’ll also understand their pain.</p>
+        </blockquote>
+        <p>But what if, hear me out here, instead we manufactured tiny microchips with sensors and embedded them in all blades?</p>
+        <p>Then we program them such that if they break human flesh, we send data — time, location, puncture depth, current blade sharpness, etc. — back to our servers for processing with AI.</p>
+        <p>This data will help us understand — without bias, because humans can’t be trusted — how people cut themselves. </p>
+        <p>Thus our research scales much more dramatically than talking to individual humans, widening our impact on humanity whilst simultaneously improving our product  (and bottom line)!</p>
+        <p>I am accepting venture funds for this research. You can send funds to this bitcoin address: <code>17HzyHWNrdS7GpMArshSBLpJpcvrre93P6</code>.</p>
+        
+            <hr />
+            
+        
+            <p>
+              Reply via:
+              
+        
+              <a
+                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/research-alt/"
+                >Email</a
+              >
+              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
+        
+              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
+            </p>]]>
+      </description>
+      <source:markdown>[Jeremy imagines a scenario](https://adactio.com/journal/22183) where you’re trying to understand how someone cut themselves with a blade. It’d be hard to know how they cut themselves just by looking at the wound.
+
+&#62; But if you talk to the person, not only will you find out the reason, you’ll also understand their pain.
+
+But what if, hear me out here, instead we manufactured tiny microchips with sensors and embedded them in all blades?
+
+Then we program them such that if they break human flesh, we send data — time, location, puncture depth, current blade sharpness, etc. — back to our servers for processing with AI.
+
+This data will help us understand — without bias, because humans can’t be trusted — how people cut themselves.
+
+Thus our research scales much more dramatically than talking to individual humans, widening our impact on humanity whilst simultaneously improving our product (and bottom line)!
+
+I am accepting venture funds for this research. You can send funds to this bitcoin address: `17HzyHWNrdS7GpMArshSBLpJpcvrre93P6`.
+
+* * *
+
+Reply via:
+
+
+[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/research-alt/)
+· [Mastodon](https://mastodon.social/@jimniels) ·
+
+[Bluesky](https://bsky.app/profile/jim-nielsen.com)</source:markdown>
+      <guid>cid://https://blog.jim-nielsen.com/2025/research-alt/</guid>
+    </item>    <item>
+      <title>Faire les choses qu’on veut faire [en]</title>
+      <link>https://climbtothestars.org/archives/2025/10/11/faire-les-choses-quon-veut-faire/</link>
+      <description>
+        <![CDATA[[en] Avec un TDAH, ça revient toujours à ça: on veut faire quelque chose, quelque chose qu’on a envie de faire, pour de vrai, mais on ne le fait pas. C’est la fameuse difficulté d’initiation de tâche. Quand il s’agit de faire le ménage, les impôts ou la vaisselle, tout le monde comprend bien qu&#8217;on &#8230; <a href="https://climbtothestars.org/archives/2025/10/11/faire-les-choses-quon-veut-faire/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Faire les choses qu’on veut faire <span class='bb-lang'>[en]</span></span>"</span></a>]]>
+      </description>
+      <source:markdown>\[en\] Avec un TDAH, ça revient toujours à ça: on veut faire quelque chose, quelque chose qu’on a envie de faire, pour de vrai, mais on ne le fait pas. C’est la fameuse difficulté d’initiation de tâche. Quand il s’agit de faire le ménage, les impôts ou la vaisselle, tout le monde comprend bien qu’on … [Continue reading &#34;Faire les choses qu’on veut faire \[en\]&#34;](https://climbtothestars.org/archives/2025/10/11/faire-les-choses-quon-veut-faire/)</source:markdown>
+      <guid>cid://https://climbtothestars.org/?p=10180</guid>
+    </item>    <item>
+      <title>Apple Has Indefinitely Postponed Jessica Chastain’s Apple TV+ Thriller ‘The Savant’, for Political Reasons</title>
+      <link>https://deadline.com/2025/09/the-savant-jessica-chastain-postponed-apple-1236553658/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42259</guid>
+    </item>    <item>
+      <title>Vibing a Non-Trivial Ghostty Feature</title>
+      <link>https://simonwillison.net/2025/Oct/11/vibing-a-non-trivial-ghostty-feature/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://mitchellh.com/writing/non-trivial-vibing">Vibing a Non-Trivial Ghostty Feature</a></strong></p>
+        Mitchell Hashimoto provides a comprehensive answer to the <em>frequent</em> demand for a detailed description of shipping a non-trivial production feature to an existing project using AI-assistance. In this case it's a slick unobtrusive auto-update UI for his <a href="https://ghostty.org/">Ghostty</a> terminal emulator, written in Swift.</p>
+        <p>Mitchell shares full transcripts of the 16 coding sessions he carried out using <a href="https://ampcode.com/">Amp Code</a> across 2 days and around 8 hours of computer time, at a token cost of $15.98.</p>
+        <p>Amp has the nicest shared transcript feature of any of the coding agent tools, as seen <a href="https://ampcode.com/threads/T-9fc3eb88-5aa2-45e4-8f6d-03697f53102d">in this example</a>. I'd love to see Claude Code and Codex CLI and Gemini CLI and friends imitate this.</p>
+        <p>There are plenty of useful tips in here. I like this note about the importance of a cleanup step:</p>
+        <blockquote>
+        <p>The cleanup step is really important. To cleanup effectively you have to have a pretty good understanding of the code, so this forces me to not blindly accept AI-written code. Subsequently, better organized and documented code helps future agentic sessions perform better.</p>
+        <p>I sometimes tongue-in-cheek refer to this as the "anti-slop session".</p>
+        </blockquote>
+        <p>And this on how sometimes you can write manual code in a way that puts the agent the right track:</p>
+        <blockquote>
+        <p>I spent some time manually restructured the view model. This involved switching to a tagged union rather than the struct with a bunch of optionals. I renamed some types, moved stuff around.</p>
+        <p>I knew from experience that this small bit of manual work in the middle would set the agents up for success in future sessions for both the frontend and backend. After completing it, I continued with a marathon set of cleanup sessions.</p>
+        </blockquote>
+        <p>Here's one of those refactoring prompts:</p>
+        <blockquote>
+        <p><code>Turn each @macos/Sources/Features/Update/UpdatePopoverView.swift case into a dedicated fileprivate Swift view that takes the typed value as its parameter so that we can remove the guards.</code></p>
+        </blockquote>
+        <p>Mitchell advises ending every session with a prompt like this one, asking the agent about any obvious omissions:</p>
+        <blockquote>
+        <p><code>Are there any other improvements you can see to be made with the @macos/Sources/Features/Update feature? Don't write any code. Consult the oracle. Consider parts of the code that can also get more unit tests added.</code></p>
+        </blockquote>
+        <p>("Consult the oracle" is an Amp-specific pattern for running a task through a more expensive, more capable model.)</p>
+        <p>Is this all worthwhile? Mitchell thinks so:</p>
+        <blockquote>
+        <p>Many people on the internet argue whether AI enables you to work faster or not. In this case, I think I shipped this faster than I would have if I had done it all myself, in particular because iterating on minor SwiftUI styling is so tedious and time consuming for me personally and AI does it so well.</p>
+        <p>I think the faster/slower argument for me personally is missing the thing I like the most: the AI can work for me while I step away to do other things.</p>
+        </blockquote>
+        
+            <p><small></small>Via <a href="https://twitter.com/mitchellh/status/1977016133409820684">@mitchellh</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/mitchell-hashimoto">mitchell-hashimoto</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a></p>]]>
+      </description>
+      <source:markdown>**[Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing)**
+
+Mitchell Hashimoto provides a comprehensive answer to the _frequent_ demand for a detailed description of shipping a non-trivial production feature to an existing project using AI-assistance. In this case it&#39;s a slick unobtrusive auto-update UI for his [Ghostty](https://ghostty.org/) terminal emulator, written in Swift.
+
+Mitchell shares full transcripts of the 16 coding sessions he carried out using [Amp Code](https://ampcode.com/) across 2 days and around 8 hours of computer time, at a token cost of $15.98.
+
+Amp has the nicest shared transcript feature of any of the coding agent tools, as seen [in this example](https://ampcode.com/threads/T-9fc3eb88-5aa2-45e4-8f6d-03697f53102d). I&#39;d love to see Claude Code and Codex CLI and Gemini CLI and friends imitate this.
+
+There are plenty of useful tips in here. I like this note about the importance of a cleanup step:
+
+&#62; The cleanup step is really important. To cleanup effectively you have to have a pretty good understanding of the code, so this forces me to not blindly accept AI-written code. Subsequently, better organized and documented code helps future agentic sessions perform better.
+&#62;
+&#62; I sometimes tongue-in-cheek refer to this as the &#34;anti-slop session&#34;.
+
+And this on how sometimes you can write manual code in a way that puts the agent the right track:
+
+&#62; I spent some time manually restructured the view model. This involved switching to a tagged union rather than the struct with a bunch of optionals. I renamed some types, moved stuff around.
+&#62;
+&#62; I knew from experience that this small bit of manual work in the middle would set the agents up for success in future sessions for both the frontend and backend. After completing it, I continued with a marathon set of cleanup sessions.
+
+Here&#39;s one of those refactoring prompts:
+
+&#62; `Turn each @macos/Sources/Features/Update/UpdatePopoverView.swift case into a dedicated fileprivate Swift view that takes the typed value as its parameter so that we can remove the guards.`
+
+Mitchell advises ending every session with a prompt like this one, asking the agent about any obvious omissions:
+
+&#62; `Are there any other improvements you can see to be made with the @macos/Sources/Features/Update feature? Don&#39;t write any code. Consult the oracle. Consider parts of the code that can also get more unit tests added.`
+
+(&#34;Consult the oracle&#34; is an Amp-specific pattern for running a task through a more expensive, more capable model.)
+
+Is this all worthwhile? Mitchell thinks so:
+
+&#62; Many people on the internet argue whether AI enables you to work faster or not. In this case, I think I shipped this faster than I would have if I had done it all myself, in particular because iterating on minor SwiftUI styling is so tedious and time consuming for me personally and AI does it so well.
+&#62;
+&#62; I think the faster/slower argument for me personally is missing the thing I like the most: the AI can work for me while I step away to do other things.
+
+Via [@mitchellh](https://twitter.com/mitchellh/status/1977016133409820684)
+
+Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [mitchell-hashimoto](https://simonwillison.net/tags/mitchell-hashimoto), [coding-agents](https://simonwillison.net/tags/coding-agents)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/11/vibing-a-non-trivial-ghostty-feature/#atom-everything</guid>
+    </item>    <item>
+      <title>Saul Zabar, Smoked Fish Czar of Upper West Side, Dies at 97</title>
+      <link>https://www.nytimes.com/2025/10/07/dining/saul-zabar-dead.html</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42258</guid>
+    </item>    <item>
+      <link>https://www.nbcnews.com/news/us-news/dancing-frogs-unicorns-protest-portland-war-zone-rcna236887</link>
+      <description>
+        <![CDATA[<p>Costumed protesters in Portland defy description of the city as a 'war zone.'</p>]]>
+      </description>
+      <source:markdown>Costumed protesters in Portland defy description of the city as a &#39;war zone.&#39;</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/11/1489/</guid>
+    </item>    <item>
+      <title>It Was Just An Accident (BIFF 11): la venganza como justicia</title>
+      <link>https://www.palomitademaiz.net/resenas-it-was-just-an-accident-biff-11/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-it-was-just-an-accident-biff-11</link>
+      <description>
+        <![CDATA[<p>Sección: Masters. Dirección: Jafar Panahi. Guion: Jafar Panahi. Elenco: Vahid Mobasseri, Mariam Afshari, Ebrahim Azizi, Hadis Pakbaten, Majid Panah y Mohamad Ali Elyasmehr. Países: Irán, Francia y Luxemburgo. Más información de la película: https://www.imdb.com/title/tt36491653/ Dado que la venganza es comúnmente vista como un acto inmoral, muchos expresan entendimiento, pero piden pensar las cosas “con cabeza [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-it-was-just-an-accident-biff-11/">It Was Just An Accident (BIFF 11): la venganza como justicia</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Sección: Masters. Dirección: Jafar Panahi. Guion: Jafar Panahi. Elenco: Vahid Mobasseri, Mariam Afshari, Ebrahim Azizi, Hadis Pakbaten, Majid Panah y Mohamad Ali Elyasmehr. Países: Irán, Francia y Luxemburgo. Más información de la película: https://www.imdb.com/title/tt36491653/ Dado que la venganza es comúnmente vista como un acto inmoral, muchos expresan entendimiento, pero piden pensar las cosas “con cabeza \[…\]
+
+La entrada [It Was Just An Accident (BIFF 11): la venganza como justicia](https://www.palomitademaiz.net/resenas-it-was-just-an-accident-biff-11/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=25630</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/11.html#a150646</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/03/shootThisDog.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm narrating development work on my <a href="https://daveverse.org/">Daveverse</a> site. If you're interested, that's where I've been while I'm shaking out core bugs in the new WordLand. These are the things I want to stay fixed and never have to screw with again. It does actually work that way in products that go through a shake-out process. <a href="http://drummer.land/">Drummer</a> and <a href="https://feedland.com/">FeedLand</a> both work pretty well. Sure there are bugs and things I wish worked differently, but I and a few other people use them as everyday tools. I'm trying to get WordLand with its timeline function to be that way. A bunch of new hookups via HTTP and Websockets.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2024/05/03/shootThisDog.png)I&#39;m narrating development work on my [Daveverse](https://daveverse.org/) site. If you&#39;re interested, that&#39;s where I&#39;ve been while I&#39;m shaking out core bugs in the new WordLand. These are the things I want to stay fixed and never have to screw with again. It does actually work that way in products that go through a shake-out process. [Drummer](http://drummer.land/) and [FeedLand](https://feedland.com/) both work pretty well. Sure there are bugs and things I wish worked differently, but I and a few other people use them as everyday tools. I&#39;m trying to get WordLand with its timeline function to be that way. A bunch of new hookups via HTTP and Websockets.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/11.html#a150646</guid>
+    </item>    <item>
+      <title>Amazon Hamfistedly Removed the Guns From Prime’s James Bond Movie Posters</title>
+      <link>https://www.darkhorizons.com/amazon-fixes-james-bond-art-sort-of/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42257</guid>
+    </item>    <item>
+      <title>Create a Phishy URL</title>
+      <link>https://phishyurl.com/</link>
+      <description>
+        <![CDATA[<p>A URL shortener that&#8217;s dodgy by design.</p>
+        
+        <p><a href="https://adactio.com/links/22184">adactio.com/links/22184</a></p>]]>
+      </description>
+      <source:markdown>A URL shortener that’s dodgy by design.
+
+[adactio.com/links/22184](https://adactio.com/links/22184)</source:markdown>
+      <guid>cid://https://phishyurl.com/</guid>
+    </item>    <item>
+      <title>Research</title>
+      <link>https://adactio.com/journal/22183</link>
+      <description>
+        <![CDATA[<p>Suppose somebody is using a blade. Perhaps they’re in the bathroom, shaving. Or maybe they’re in the kitchen, preparing food.</p>
+        
+        <p>Suppose they cut themselves with that blade. This might have happened because the blade was too sharp. Or perhaps the blade was too dull.</p>
+        
+        <p>Either way, it’s going to be tricky to figure out the reason just by looking at the wound.</p>
+        
+        <p>But if you talk to the person, not only will you find out the reason, you’ll also understand their pain.</p>]]>
+      </description>
+      <source:markdown>Suppose somebody is using a blade. Perhaps they’re in the bathroom, shaving. Or maybe they’re in the kitchen, preparing food.
+
+Suppose they cut themselves with that blade. This might have happened because the blade was too sharp. Or perhaps the blade was too dull.
+
+Either way, it’s going to be tricky to figure out the reason just by looking at the wound.
+
+But if you talk to the person, not only will you find out the reason, you’ll also understand their pain.</source:markdown>
+      <guid>cid://https://adactio.com/journal/22183</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115355788211133970</link>
+      <description>
+        <![CDATA[<p>Nice way to start the day:</p>]]>
+      </description>
+      <source:markdown>Nice way to start the day:</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115355788211133970</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m2waufdcj22l</link>
+      <description>
+        <![CDATA[I recently sat down with three leaders who are part of the @obamafoundation.bsky.social's alumni network to hear more about their work to strengthen democracy in Hungary and Poland. They’re an example for us all. Take a look:]]>
+      </description>
+      <source:markdown>I recently sat down with three leaders who are part of the @obamafoundation.bsky.social&#39;s alumni network to hear more about their work to strengthen democracy in Hungary and Poland. They’re an example for us all. Take a look:</source:markdown>
+      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m2waufdcj22l</guid>
     </item>    <item>
       <title>Mole-Rats Could Hold the Key to Living Longer</title>
       <link>https://www.404media.co/mole-rats-could-hold-the-key-to-living-longer/</link>
@@ -6063,7 +6286,7 @@ Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwill
         <![CDATA[The Andy Borowitz Show]]>
       </description>
       <source:markdown>The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/175218241/8459d1ead57060958059b3d9389e9b8b.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/175218241/e2cd01a41f9581035c2f7237436596ec.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.borowitzreport.com/p/i-have-a-better-way-to-choose-a-president</guid>
     </item>    <item>
       <title>October 4, 2025</title>
@@ -13397,7 +13620,7 @@ https://www.usatoday.com/story/news/politics/2025/09/25/potential-government-shu
         <![CDATA[The Andy Borowitz Show]]>
       </description>
       <source:markdown>The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/174389805/35d851057612f05345313511435cfb67.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/174389805/14b70cb8578694299092581f20d6be74.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.borowitzreport.com/p/trumps-war-on-drugs-he-cant-pronounce</guid>
     </item>    <item>
       <link>http://scripting.com/2025/09/28.html#a144235</link>
