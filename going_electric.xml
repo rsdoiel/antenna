@@ -7,10 +7,19 @@
       Going Electric has feeds involving home and transportation options powered by Electricity
     </description>
     <link>https://rsdoiel.github.io/antenna/going_electric.xml</link>
-    <lastBuildDate>11 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>11 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>A Chinese EREV Tried To Drive 1 Million Kilometers. Here&#39;s What Broke First</title>
+      <link>https://insideevs.com/news/775394/li-auto-l9-russia-erev/</link>
+      <description>
+        <![CDATA[The Li Auto L9 made it 307,000 kilometers, or almost 200,000 miles. In the end, old-school tech let it down.]]>
+      </description>
+      <source:markdown>The Li Auto L9 made it 307,000 kilometers, or almost 200,000 miles. In the end, old-school tech let it down.</source:markdown>
+      <enclosure url="https://cdn.motor1.com/images/mgl/8AZWPW/s3/li-auto-l9.jpg" length="21375" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/775394/li-auto-l9-russia-erev/</guid>
+    </item>    <item>
       <title>GM hydrogen: the reports of my death are greatly exaggerated</title>
       <link>https://electrek.co/2025/10/11/gm-hydrogen-the-reports-of-my-death-are-greatly-exaggerated/</link>
       <description>
@@ -95,6 +104,10 @@ The Trump administration has canceled the Esmeralda 7 solar project in Nevada �
       <link>https://electrek.co/2025/10/10/podcast-ferrari-elettrica-teslas-stripped-down-model-3-y-new-bolt-ev/</link>
       <description>
         <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Ferrari unveiling the specs for the Elettrica, Tesla’s stripped-down Model 3 and Model Y, new Bolt EV, and more.</p>
+        
+        
+        
+        <figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/10/Electrek_406.mp3"></audio></figure>
         
         
         
