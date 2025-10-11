@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>10 Oct 25 15:04 -0700</dateCreated>
+        <dateCreated>11 Oct 25 06:10 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -195,6 +195,7 @@
         <outline text="Neven Mrgan’s Blog" type="rss" xmlUrl="https://mrgan.tumblr.com/rss" htmlUrl="https://mrgan.tumblr.com/" description="Maker of games Stagehand, Grayout, Blackbar, Space Age, and The Incident. Author of comedy book Have You Tried Sketch."></outline>
         <outline text="Newsboat News" type="atom" xmlUrl="https://newsboat.org/news.atom" htmlUrl="https://newsboat.org/news.atom,https://newsboat.org" url="https://newsboat.org/news.atom"></outline>
         <outline text="Nick Bradbury" type="rss" xmlUrl="https://nickbradbury.com/feed/" htmlUrl="https://nickbradbury.com,https://nickbradbury.com/feed/" description="I develop Android apps. In a previous life I created HomeSite, TopStyle and FeedDemon for Windows." url="https://nickbradbury.com/feed/"></outline>
+        <outline text="Nicolas Hoizey blog" type="atom" xmlUrl="https://nicolas-hoizey.com/feeds/articles.xml" htmlUrl="https://nicolas-hoizey.com/feeds/articles.xml,https://nicolas-hoizey.com/articles/" url="https://nicolas-hoizey.com/feeds/articles.xml"></outline>
         <outline text="Nora Tindall&#39;s blog" type="rss" xmlUrl="https://nora.codes/index.xml" htmlUrl="https://nora.codes/,https://nora.codes/index.xml" description="Recent content in Leonora Tindall on Nora Codes" url="https://nora.codes/index.xml"></outline>
         <outline text="Notes by Peter Baumgartner" type="rss" xmlUrl="https://notes.peter-baumgartner.net/index.xml" htmlUrl="https://notes.peter-baumgartner.net/,https://notes.peter-baumgartner.net/index.xml" description="Thought Splinters" url="https://notes.peter-baumgartner.net/index.xml"></outline>
         <outline text="O&#39;Reilly Radar" type="rss" xmlUrl="https://www.oreilly.com/radar/feed/" htmlUrl="https://www.oreilly.com/radar,https://www.oreilly.com/radar/feed/" description="Now, next, and beyond: Tracking need-to-know trends at the intersection of business and technology" url="https://www.oreilly.com/radar/feed/"></outline>
