@@ -7,10 +7,26 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>11 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>11 Oct 25 15:11 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Spaghetti Cumbia, a band born from cultural fusion</title>
+      <link>https://laist.com/news/spaghetti-cumbia-a-band-born-from-cultural-fusion-los-angeles</link>
+      <description>
+        <![CDATA[The Spaghetti sound was born out of a fusion of Latin music, classic and punk rock and hip-hop.]]>
+      </description>
+      <source:markdown>The Spaghetti sound was born out of a fusion of Latin music, classic and punk rock and hip-hop.</source:markdown>
+      <guid>cid://urn:uuid:00000199-d45f-dc80-a5fb-fd5fa2960000</guid>
+    </item>    <item>
+      <title>How Taylor Swift&#39;s accent and dialect have changed throughout her eras</title>
+      <link>https://laist.com/news/how-taylor-swifts-accent-and-dialect-have-changed-throughout-her-eras</link>
+      <description>
+        <![CDATA[Researchers have tracked Swift's manner of speech from her time in Nashville through her New York era.]]>
+      </description>
+      <source:markdown>Researchers have tracked Swift&#39;s manner of speech from her time in Nashville through her New York era.</source:markdown>
+      <guid>cid://urn:uuid:00000199-d44f-d89a-a3b9-f5cf62c10000</guid>
+    </item>    <item>
       <title>Trump threatens tech export limits, new 100% tariff on Chinese imports</title>
       <link>https://laist.com/news/trump-threatens-tech-export-limits-100-percent-tariff-chinese-imports</link>
       <description>
