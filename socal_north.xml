@@ -7,10 +7,54 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>10 Oct 25 15:04 -0700</lastBuildDate>
-    <generator>antenna/0.0.11</generator>
+    <lastBuildDate>11 Oct 25 06:10 -0700</lastBuildDate>
+    <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Providing shade in schoolyards and valuable skills to young job seekers</title>
+      <link>https://laist.com/news/los-angeles-activities/providing-shade-in-schoolyards-and-valuable-skills-to-young-job-seekers</link>
+      <description>
+        <![CDATA[The founder of this South East L.A. company grew up going to schools with few green spaces and living in neighborhoods with limited job prospects.]]>
+      </description>
+      <source:markdown>The founder of this South East L.A. company grew up going to schools with few green spaces and living in neighborhoods with limited job prospects.</source:markdown>
+      <guid>cid://urn:uuid:00000199-641f-d418-abb9-645f1fba0000</guid>
+    </item>    <item>
+      <title>The Huntington joins global coalition to fight plant black market. Here&#39;s how you can help</title>
+      <link>https://laist.com/news/climate-environment/the-huntington-joins-global-coalition-to-fight-plant-black-market-heres-how-you-can-help</link>
+      <description>
+        <![CDATA[Illegal harvesting of plants in the wild is leading to extinction for some species, experts say.]]>
+      </description>
+      <source:markdown>Illegal harvesting of plants in the wild is leading to extinction for some species, experts say.</source:markdown>
+      <guid>cid://urn:uuid:00000199-cf5b-d4dc-abdf-dfff6cc70000</guid>
+    </item>    <item>
+      <title>Your shucked oysters could help shore up the Orange County coast</title>
+      <link>https://laist.com/news/climate-environment/oyster-shells-living-shoreline-orange-county-coast</link>
+      <description>
+        <![CDATA[A project in Orange County is working to seed and harvest native Olympia oysters, which help stabilize shorelines.]]>
+      </description>
+      <source:markdown>A project in Orange County is working to seed and harvest native Olympia oysters, which help stabilize shorelines.</source:markdown>
+      <guid>cid://urn:uuid:00000199-ca25-d89a-a3b9-ffa741ea0000</guid>
+    </item>    <item>
+      <title>Central Valley Invests Additional $300K in California Men’s Service Challenge after State Commits $5 Million</title>
+      <link>https://www.californiavolunteers.ca.gov/central-valley-invests-additional-300k-in-california-mens-service-challenge-after-state-commits-5-million/</link>
+      <guid>cid://https://www.californiavolunteers.ca.gov/?p=84384</guid>
+    </item>    <item>
+      <title>From remote islands to the DMZ, UC Santa Barbara student hit 118 countries before turning 20</title>
+      <link>https://laist.com/news/from-remote-islands-to-the-dmz-uc-santa-barbara-student-hit-118-countries-before-turning-20</link>
+      <description>
+        <![CDATA[Arjun Malaviya set out to travel the world on his 17th birthday in July 2023. Over 13 months, the California teenager traveled through some of the world's most populated cities and most remote villages.]]>
+      </description>
+      <source:markdown>Arjun Malaviya set out to travel the world on his 17th birthday in July 2023. Over 13 months, the California teenager traveled through some of the world&#39;s most populated cities and most remote villages.</source:markdown>
+      <guid>cid://urn:uuid:00000199-d029-dc80-a5fb-fd795dd60000</guid>
+    </item>    <item>
+      <title>Judge denies California&#39;s request to put LA County juvenile halls under state control</title>
+      <link>https://laist.com/news/criminal-justice/judge-denies-californias-request-to-put-la-county-juvenile-halls-under-state-control</link>
+      <description>
+        <![CDATA[Attorney General Rob Bonta made the request after years of scandals at the county's facilities.]]>
+      </description>
+      <source:markdown>Attorney General Rob Bonta made the request after years of scandals at the county&#39;s facilities.</source:markdown>
+      <guid>cid://urn:uuid:00000199-d019-d593-a3d9-d21928b10000</guid>
+    </item>    <item>
       <title>Western Star Dust Brings Western Heritage to Life</title>
       <link>https://santaclarita.gov/blog/2025/10/10/western-star-dust-brings-western-heritage-to-life/</link>
       <description>
@@ -22,6 +66,10 @@
 The post [Western Star Dust Brings Western Heritage to Life](https://santaclarita.gov/blog/2025/10/10/western-star-dust-brings-western-heritage-to-life/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
       <guid>cid://https://santaclarita.gov/?p=6850</guid>
     </item>    <item>
+      <title>El Valle Central invierte $300,000 adicionales en el California Men’s Service Challenge después de que el estado comprometiera $5 millones</title>
+      <link>https://www.californiavolunteers.ca.gov/el-valle-central-invierte-300000-adicionales-en-el-california-mens-service-challenge-despues-de-que-el-estado-comprometiera-5-millones/</link>
+      <guid>cid://https://www.californiavolunteers.ca.gov/?p=84393</guid>
+    </item>    <item>
       <title>White House claims &#34;more than 1,000%&#34; rise in assaults on ICE agents. Data says otherwise</title>
       <link>https://laist.com/news/white-house-ice-agents-assaults-claims</link>
       <description>
@@ -30,12 +78,12 @@ The post [Western Star Dust Brings Western Heritage to Life](https://santaclarit
       <source:markdown>Immigration and Customs Enforcement officers claim assaults on their officers are up sharply since June. There&#39;s no public evidence that number is true.</source:markdown>
       <guid>cid://urn:uuid:00000199-cf71-d89a-a3b9-fff791cb0000</guid>
     </item>    <item>
-      <title>COVID-era outdoor dining becomes a permanent fixture in California</title>
+      <title>Outdoor dining becomes a permanent fixture in California. How it will work</title>
       <link>https://laist.com/news/food/california-outdoor-dining-new-laws-restaurant-building-permits</link>
       <description>
-        <![CDATA[Restaurants have been struggling since the pandemic and now, new legislation aims to help them.]]>
+        <![CDATA[Using sidewalks and parking lot started as a way to help restaurants during the pandemic. Two news laws aim to help a still-struggling industry.]]>
       </description>
-      <source:markdown>Restaurants have been struggling since the pandemic and now, new legislation aims to help them.</source:markdown>
+      <source:markdown>Using sidewalks and parking lot started as a way to help restaurants during the pandemic. Two news laws aim to help a still-struggling industry.</source:markdown>
       <guid>cid://urn:uuid:00000199-cfbb-d633-a399-ffbf05f10000</guid>
     </item>    <item>
       <title>A state snake and shrub? Meet California’s newest designated state symbols</title>
@@ -81,12 +129,12 @@ The post [Join Us for a Time-Warping Night at the Rocky Horror Picture Show](htt
       <source:markdown>Prop. 50 would enact a congressional map that helps Democrats, but a new analysis finds it doesn’t change Californians’ representation much on other measures.</source:markdown>
       <guid>cid://urn:uuid:00000199-cf09-dd37-a1f9-cf2f37ab0000</guid>
     </item>    <item>
-      <title>White House says &#39;substantial&#39; layoffs of federal workers have begun, with few details</title>
+      <title>Trump administration says about 4,200 federal employees face layoffs</title>
       <link>https://laist.com/news/politics/white-house-says-substantial-layoffs-of-federal-workers-have-begun-with-few-details</link>
       <description>
-        <![CDATA[The Trump administration says it has started the process of issuing reduction-in-force notices to federal employees. It's not clear how many agencies are affected or how many people.]]>
+        <![CDATA[The Trump administration says it has started the process of issuing "substantial" reduction-in-force notices to federal employees. Court filings suggest around 4,200 affected so far.]]>
       </description>
-      <source:markdown>The Trump administration says it has started the process of issuing reduction-in-force notices to federal employees. It&#39;s not clear how many agencies are affected or how many people.</source:markdown>
+      <source:markdown>The Trump administration says it has started the process of issuing &#34;substantial&#34; reduction-in-force notices to federal employees. Court filings suggest around 4,200 affected so far.</source:markdown>
       <guid>cid://urn:uuid:00000199-cf68-d89a-a3b9-ffef761a0000</guid>
     </item>    <item>
       <title>Skate and Scare at The Cube!</title>
@@ -2756,164 +2804,6 @@ The post [New Virtual Deputy Services Enhances Public Safety in Santa Clarita](h
         <![CDATA[As UC leaders grapple with how to respond to research grant cuts and a potential billion-dollar penalty, some are taking a defensive stand.]]>
       </description>
       <guid>cid://urn:uuid:00000199-642b-d6b9-abdf-7eef71430000</guid>
-    </item>    <item>
-      <title>LA City Council approves $2.6 billion convention center expansion, despite financial risks</title>
-      <link>https://laist.com/news/politics/city-council-approves-convention-center-expansion</link>
-      <description>
-        <![CDATA[The approval came amid major warnings that the project would take away funding from basic city service like police and sidewalk repair.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-642e-d9bb-abfb-ed2f29420000</guid>
-    </item>    <item>
-      <title>General managers of two LA city departments fired without warning</title>
-      <link>https://laist.com/news/general-managers-fired-los-angeles-city-politics</link>
-      <description>
-        <![CDATA[The move by Mayor Karen Bass comes before consolidation of the departments is made final.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-6427-d9bb-abfb-ed2f16670000</guid>
-    </item>    <item>
-      <title>CDC vaccine panel adds new rules for getting the COVID vaccine in a tense meeting</title>
-      <link>https://laist.com/news/health/vaccine-panel-backs-away-from-plan-to-require-prescription-covid-shot</link>
-      <description>
-        <![CDATA[The group voted to make people who want a COVID shot to be briefed on harms and benefits, but in a close vote, it failed to pass a proposal that states should require people to get a prescription.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-63bf-d4a7-a9db-fbbf14b00000</guid>
-    </item>    <item>
-      <title>The Census Bureau is now headed by a Trump official in an acting position</title>
-      <link>https://laist.com/news/census-bureau-headed-by-trump-official-in-an-acting-position</link>
-      <description>
-        <![CDATA[George Cook is the Trump administration's new acting director of the Census Bureau, which has been thrust into the middle of a renewed attempt by President Trump to alter the national head count.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-63cc-dcf5-a1f9-fbfc959f0000</guid>
-    </item>    <item>
-      <title>Newsom signs climate overhaul, extending cap and trade while boosting oil drilling</title>
-      <link>https://laist.com/news/climate-environment/newsom-signs-climate-overhaul-extending-cap-and-trade-while-boosting-oil-drilling</link>
-      <description>
-        <![CDATA[A set of laws Gov. Gavin Newsom signed today extends California clean-energy programs while taking steps to shore up oil and gas production. It also opens the door to a Western energy grid.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-6375-dcf5-a1f9-fb7510f20000</guid>
-    </item>    <item>
-      <title>Grocery prices have jumped up, and there&#39;s no relief in sight</title>
-      <link>https://laist.com/news/food/grocery-prices-rise-tariffs-pandemic-war-avian-flu</link>
-      <description>
-        <![CDATA[Groceries saw their biggest jump in nearly three years last month, a worrisome sign for inflation-weary shoppers. Tariffs are contributing to higher prices for imported staples like bananas and coffee.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-62f1-d029-a7b9-6bf70a240000</guid>
-    </item>    <item>
-      <title>Toddler dies and homes damaged as heavy rain causes flooding and mudslides</title>
-      <link>https://laist.com/news/climate-environment/flooding-mudslides-san-bernardino-county</link>
-      <description>
-        <![CDATA[A man and his child were swept off a road in Barstow, and communities in the San Bernardino Mountains faced a deluge. The threat of heavy rain has now passed.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-62dd-d418-abb9-66df5d9d0000</guid>
-    </item>    <item>
-      <title>LA agrees to pay nearly $5 million for big law firm in homelessness lawsuit</title>
-      <link>https://laist.com/news/housing-homelessness/la-agrees-to-pay-nearly-5-million-for-big-law-firm-in-homelessness-lawsuit</link>
-      <description>
-        <![CDATA[The city initially agreed to pay just $900,000 to Gibson, Dunn & Crutcher, but the budget was blown in the first few days.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-633e-d418-abb9-677e282b0000</guid>
-    </item>    <item>
-      <title>The Broad turns 10 — here&#39;s how the downtown LA art museum is celebrating</title>
-      <link>https://laist.com/news/arts-and-entertainment/the-broad-10th-anniversary-celebration</link>
-      <description>
-        <![CDATA[Check out music, pop-up tours and free admission to the Bunker Hill museum's latest exhibit.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-633f-d618-a9ff-73bfc86c0000</guid>
-    </item>    <item>
-      <title>&#39;Soil Testing Day&#39; in Altadena aims to make post-fire detection easy and accessible</title>
-      <link>https://laist.com/news/climate-environment/community-soil-testing-day-altadena</link>
-      <description>
-        <![CDATA[USC and L.A. County soil experts will be on site Saturday, Sept. 20, to teach residents about testing their properties for lead.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-5eae-d967-a9bd-ffefd0ef0001</guid>
-    </item>    <item>
-      <title>Billions of dollars in California research grants now hang in the balance at an obscure federal court</title>
-      <link>https://laist.com/news/education/billions-of-dollars-in-california-research-grants-now-hang-in-the-balance-at-an-obscure-federal-court</link>
-      <description>
-        <![CDATA[Trump has cut billions of dollars in science research grants. Now universities have to try to get the money back in a little-known court.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-62dc-d799-a7d9-73ff2df60000</guid>
-    </item>    <item>
-      <title>A judge ordered Google to share its search data. What does that mean for user privacy?</title>
-      <link>https://laist.com/news/google-to-share-search-data-user-privacy</link>
-      <description>
-        <![CDATA[The ruling in the Google antitrust trial has led to a host of hard-to-answer questions about the future of Google's search data, which the tech giant must now share with competitors. What does that mean for users' data privacy?]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-62ac-dcf5-a1f9-fabc6ada0000</guid>
-    </item>    <item>
-      <title>Award-Winning Comedian Jeff Frame Brings Autobiographical One-Man Show to The MAIN</title>
-      <link>https://santaclarita.gov/blog/2025/09/19/award-winning-comedian-jeff-frame-brings-autobiographical-one-man-show-to-the-main/</link>
-      <description>
-        <![CDATA[<p>The MAIN is proud to present award-winning stand-up comic Jeff Frame in his first-ever one-man show, An Upcycled Life, directed by Ashley Taylor. Known for his sharp wit and comedic timing, Frame now turns the spotlight inward, diving into the heavier realms of autobiography with honesty, humor and heart. In this raw and moving performance, [&#8230;]</p>
-        <p>The post <a href="https://santaclarita.gov/blog/2025/09/19/award-winning-comedian-jeff-frame-brings-autobiographical-one-man-show-to-the-main/">Award-Winning Comedian Jeff Frame Brings Autobiographical One-Man Show to The MAIN</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
-      </description>
-      <source:markdown>The MAIN is proud to present award-winning stand-up comic Jeff Frame in his first-ever one-man show, An Upcycled Life, directed by Ashley Taylor. Known for his sharp wit and comedic timing, Frame now turns the spotlight inward, diving into the heavier realms of autobiography with honesty, humor and heart. In this raw and moving performance, \[…\]
-
-The post [Award-Winning Comedian Jeff Frame Brings Autobiographical One-Man Show to The MAIN](https://santaclarita.gov/blog/2025/09/19/award-winning-comedian-jeff-frame-brings-autobiographical-one-man-show-to-the-main/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
-      <guid>cid://https://santaclarita.gov/?p=6690</guid>
-    </item>    <item>
-      <title>&#39;We are rookies&#39;: Day 2 of CDC vaccine meeting opens with a reversal and a surprise</title>
-      <link>https://laist.com/news/health/we-are-rookies-day-2-of-cdc-vaccine-meeting-opens-with-a-reversal-and-a-surprise</link>
-      <description>
-        <![CDATA[RFK Jr.'s reshaped ACIP vaccine panel re-did a vote from yesterday on the MMRV vaccine and scrapped plans for another vote on the hepatitis B birth dose.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-62c2-dbf4-a9fd-72f397490000</guid>
-    </item>    <item>
-      <title>Grammy-winner Poncho Sanchez headlines Central Avenue Jazz Festival this weekend</title>
-      <link>https://laist.com/news/arts-and-entertainment/poncho-sanchez-central-avenue-jazz-festival-september-20</link>
-      <description>
-        <![CDATA[The Latin jazz legend spoke with host Austin Cross about his upcoming performance and about how music is bridging communities.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-6295-d029-a7b9-6bf796cc0000</guid>
-    </item>    <item>
-      <title>UC Berkeley professor warns of &#39;unprecedented crackdown&#39; on academic freedom</title>
-      <link>https://laist.com/news/education/uc-berkeley-professor-warns-of-unprecedented-crackdown-on-academic-freedom</link>
-      <description>
-        <![CDATA[UC Berkeley told 160 faculty, staff and students that their names were included in files shared with the federal government related to "alleged antisemitic incidents." We hear from one of them.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-62a0-d029-a7b9-6bf7746a0000</guid>
-    </item>    <item>
-      <title>Why LA might be the best city for cumbia lovers</title>
-      <link>https://laist.com/news/los-angeles-activities/la-cumbia-sonidero-chancha-via-circuito-zzk-records-alvaro-parra</link>
-      <description>
-        <![CDATA[From avant-garde digital cumbia performances to quinceañera-style cumbia dance nights, there is something for everyone.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-5eef-d3e0-a5bd-ffff5f360001</guid>
-    </item>    <item>
-      <title>Lingering chance of showers ahead of warm, sunny weather this weekend</title>
-      <link>https://laist.com/news/climate-environment/lingering-chance-of-showers-ahead-of-warm-sunny-weather-this-weekend</link>
-      <description>
-        <![CDATA[Remnants of Tropical Storm Mario will leave behind the chance for some showers for Friday.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-5eb0-d3e0-a5bd-fffdd7440000</guid>
-    </item>    <item>
-      <title>This artist’s hand-drawn calendars capture a disappearing Los Angeles</title>
-      <link>https://laist.com/news/los-angeles-activities/nib-geebles-calendar-40-years-gordon-henderson-los-angeles-artist</link>
-      <description>
-        <![CDATA[In 1985, Nib Geebles needed a last-minute Christmas gift. Now he’s been making calendars for 40 years.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-5f06-d43d-a7df-df1ea6b40000</guid>
-    </item>    <item>
-      <title>What is Norm Day? And why is it so frustrating for parents and students?</title>
-      <link>https://laist.com/news/education/norm-day-los-angeles-unified-lausd-teachers-student-ratio-explained</link>
-      <description>
-        <![CDATA[“Norm Day” — the process by which a district re-aligns its teacher workforce to account for changes in enrollment — is a long-standing practice that’s rankled parents and educators for decades.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-5f2e-d313-a9dd-7fbed8a40000</guid>
-    </item>    <item>
-      <title>Japanese flavors are having a moment in LA’s craft beer scene</title>
-      <link>https://laist.com/news/food/japanese-flavors-los-angeles-craft-beer-scene</link>
-      <description>
-        <![CDATA[European-style beers are being paired with Japanese ingredients like matcha and yuzu to create unique pours.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-5dd4-db15-a999-5fdf1dcf0000</guid>
-    </item>    <item>
-      <title>Moles La Tía is back after six years — and East LA is eating again</title>
-      <link>https://laist.com/news/food/moles-la-tia-returns-east-los-angeles-restaurant</link>
-      <description>
-        <![CDATA[The restaurant reopened last month, bringing back the mole, chilaquiles, café de olla and community ties that made it a neighborhood gem.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-5ea6-dfd1-a7bd-ffb740570000</guid>
     </item>
   </channel>
 </rss>

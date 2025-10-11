@@ -4,8 +4,8 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>10 Oct 25 15:04 -0700</lastBuildDate>
-    <generator>antenna/0.0.11</generator>
+    <lastBuildDate>11 Oct 25 06:10 -0700</lastBuildDate>
+    <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>This Week on The Analog Antiquarian</title>
@@ -350,26 +350,6 @@ Although at least one [client re-creation](https://github.com/erfg12/AOL_4.0_Emu
       </description>
       <source:markdown>New good quality scans added to the Manuals page – MCS6500 Hardware Manual August 1975 First Edition, Version 6500-10, with errata letter. Not the usual 6500-10A but the rare first edition. No ROR instruction documented! – MCS6500 Programming Manual by Synertek, version 6500-50. Not the First Edition alas, the contents are the 6500-50A version. I \[…\]</source:markdown>
       <guid>cid://http://retro.hansotten.nl/?p=18850</guid>
-    </item>    <item>
-      <title>Fedora Linux 43 Beta Now Available for Testing</title>
-      <link>http://www.linux-magazine.com/Online/News/Fedora-Linux-43-Beta-Now-Available-for-Testing</link>
-      <description>
-        <![CDATA[<p>Fedora Linux 43 Beta ships with Gnome 49 and KDE Plasma 6.4 (and other goodies).</p>]]>
-      </description>
-      <source:markdown>Fedora Linux 43 Beta ships with Gnome 49 and KDE Plasma 6.4 (and other goodies).</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://f2de27ed096fbe72ecc6db0d5fa5d114</guid>
-    </item>    <item>
-      <title>Outcast</title>
-      <link>https://www.filfre.net/2025/09/outcast/</link>
-      <description>
-        <![CDATA[As longtime readers of these histories know already, I&#8217;ve never been overly enamored with the so-called &#8220;French Touch&#8221; in vintage computer games, that blending of elevated aesthetic and thematic aspirations &#8212; some might prefer to use the word &#8220;pretensions&#8221; &#8212; with a, shall we say, less thoroughgoing commitment to the details of gameplay and mechanics. [&#8230;]]]>
-      </description>
-      <source:markdown>As longtime readers of these histories know already, I’ve never been overly enamored with the so-called “French Touch” in vintage computer games, that blending of elevated aesthetic and thematic aspirations — some might prefer to use the word “pretensions” — with a, shall we say, less thoroughgoing commitment to the details of gameplay and mechanics. \[…\]</source:markdown>
-      <enclosure url="https://www.filfre.net/wp-content/uploads/2025/09/outcast.mp3" length="11103209" type="audio/mpeg" />
-      <enclosure url="https://www.filfre.net/wp-content/uploads/2025/09/outtake.mp4" length="811768" type="video/mp4" />
-      <enclosure url="https://www.filfre.net/wp-content/uploads/2025/09/outcast.mp4" length="3905373" type="video/mp4" />
-      <guid>cid://https://www.filfre.net/?p=6480</guid>
     </item>
   </channel>
 </rss>

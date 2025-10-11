@@ -4,8 +4,8 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>10 Oct 25 15:04 -0700</lastBuildDate>
-    <generator>antenna/0.0.11</generator>
+    <lastBuildDate>11 Oct 25 06:10 -0700</lastBuildDate>
+    <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>The transparency paradox when using generative AI in academic research</title>
@@ -898,28 +898,6 @@ Crossref runs an open infrastructure to link research objects, entities, and act
 
 Public Knowledge Project (PKP) seeks to improve the scholarly and public quality, reach, and diversity of academic research through the research, development, implementation, and support of innovative open source software to support scholarly publishing and communication.</source:markdown>
       <guid>cid://https://www.crossref.org/blog/crossref-and-pkp-enter-new-partnership-phase-to-support-richer-and-more-inclusive-metadata/</guid>
-    </item>    <item>
-      <title>Beyond the Barista Myth</title>
-      <link>https://sr.ithaka.org/blog/beyond-the-barista-myth/</link>
-      <description>
-        <![CDATA[<p>When people discuss the value of a liberal arts degree, one stereotype often emerges: the humanities graduate working at a coffee shop. This trope is widely used, but it does not reflect the evidence. In reality, graduates with liberal arts degrees, as we define them, are employed across nearly every sector of the economy, and in jobs at all levels of earnings.</p>
-        <p>The post <a href="https://sr.ithaka.org/blog/beyond-the-barista-myth/">Beyond the Barista Myth</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <source:markdown>When people discuss the value of a liberal arts degree, one stereotype often emerges: the humanities graduate working at a coffee shop. This trope is widely used, but it does not reflect the evidence. In reality, graduates with liberal arts degrees, as we define them, are employed across nearly every sector of the economy, and in jobs at all levels of earnings.
-
-The post [Beyond the Barista Myth](https://sr.ithaka.org/blog/beyond-the-barista-myth/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=323651</guid>
-    </item>    <item>
-      <title>Guest Post — May the AI Be With Science</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/09/19/guest-post-may-the-ai-be-with-science/</link>
-      <description>
-        <![CDATA[<p>AI has opened a new chapter in the saga of science and peer review. Today, guest author Prof. Nihar B. Shah explains how, if guided with integrity, AI can open galaxies of possibilities. </p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/09/19/guest-post-may-the-ai-be-with-science/">Guest Post — May the AI Be With Science</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>AI has opened a new chapter in the saga of science and peer review. Today, guest author Prof. Nihar B. Shah explains how, if guided with integrity, AI can open galaxies of possibilities.
-
-The post [Guest Post — May the AI Be With Science](https://scholarlykitchen.sspnet.org/2025/09/19/guest-post-may-the-ai-be-with-science/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60992</guid>
     </item>
   </channel>
 </rss>
