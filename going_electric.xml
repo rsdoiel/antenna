@@ -7,10 +7,28 @@
       Going Electric has feeds involving home and transportation options powered by Electricity
     </description>
     <link>https://rsdoiel.github.io/antenna/going_electric.xml</link>
-    <lastBuildDate>12 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>12 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Ferrari Wanted To Make An EV. Then They Decided It Won&#39;t Be A Supercar</title>
+      <link>https://insideevs.com/news/775482/ferrari-elettrica-ev-supercar-concept/</link>
+      <description>
+        <![CDATA[Ferrari says it wants any new technology to be a game-changer in its segment. But in the supercar world, EV tech isn’t there yet.]]>
+      </description>
+      <source:markdown>Ferrari says it wants any new technology to be a game-changer in its segment. But in the supercar world, EV tech isn’t there yet.</source:markdown>
+      <enclosure url="https://cdn.motor1.com/images/mgl/OoM72R/s3/ferrari-ev-supercar-top.jpg" length="13855" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/775482/ferrari-elettrica-ev-supercar-concept/</guid>
+    </item>    <item>
+      <title>Renault’s 555-HP Electric Hot Hatch Makes A Strong Case For In-Wheel Hub Motors</title>
+      <link>https://insideevs.com/news/775236/renault-5-turbo-3e-corsica/</link>
+      <description>
+        <![CDATA[Renault’s upcoming 5 Turbo 3E electric rally for the road might be the most exciting EV you can buy, but it isn't cheap.]]>
+      </description>
+      <source:markdown>Renault’s upcoming 5 Turbo 3E electric rally for the road might be the most exciting EV you can buy, but it isn&#39;t cheap.</source:markdown>
+      <enclosure url="https://cdn.motor1.com/images/mgl/404vxY/s3/renault-5-turbo-3e-bei-der-rallye-tour-de-corse.jpg" length="28533" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/775236/renault-5-turbo-3e-corsica/</guid>
+    </item>    <item>
       <title>Clear skies ahead – Delta partners with Maeve on M80 hybrid regional aircraft</title>
       <link>https://electrek.co/2025/10/12/clear-skies-ahead-delta-partners-with-maeve-on-m80-hybrid-regional-aircraft/</link>
       <description>
