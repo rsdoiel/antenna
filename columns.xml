@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>12 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>12 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,58 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115362357278831310</link>
+      <description>
+        <![CDATA[<p>I am still mourning nespresso no longer selling their touch cups.</p><p>I failed to foresee the situation I find myself in.</p>]]>
+      </description>
+      <source:markdown>I am still mourning nespresso no longer selling their touch cups.
+
+I failed to foresee the situation I find myself in.</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115362357278831310</guid>
+    </item>    <item>
+      <title>Quoting Slashdot</title>
+      <link>https://simonwillison.net/2025/Oct/12/slashdot/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users"><p>Slashdot: What's the reason OneDrive tells users this setting can only be turned off 3 times a year? (And are those any three times — or does that mean three specific days, like Christmas, New Year's Day, etc.)</p>
+        <p><img alt="People section. You can only turn off this setting 3 times a year. OneDrive uses Al to recognize faces in your photos to help you find photos of friends and family. Learn how it works" src="https://static.simonwillison.net/static/2025/one-drive-3-times.jpeg" /></p>
+        <p>[Microsoft's publicist chose not to answer this question.]</p></blockquote>
+        <p class="cite">&mdash; <a href="https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users">Slashdot</a>, asking the <em>obvious</em> question</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/slashdot">slashdot</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/microsoft">microsoft</a></p>]]>
+      </description>
+      <source:markdown>&#62; Slashdot: What&#39;s the reason OneDrive tells users this setting can only be turned off 3 times a year? (And are those any three times — or does that mean three specific days, like Christmas, New Year&#39;s Day, etc.)
+&#62;
+&#62; ![People section. You can only turn off this setting 3 times a year. OneDrive uses Al to recognize faces in your photos to help you find photos of friends and family. Learn how it works](https://static.simonwillison.net/static/2025/one-drive-3-times.jpeg)
+&#62;
+&#62; \[Microsoft&#39;s publicist chose not to answer this question.\]
+
+— [Slashdot](https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users), asking the _obvious_ question
+
+Tags: [slashdot](https://simonwillison.net/tags/slashdot), [ai-ethics](https://simonwillison.net/tags/ai-ethics), [ai](https://simonwillison.net/tags/ai), [microsoft](https://simonwillison.net/tags/microsoft)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/12/slashdot/#atom-everything</guid>
+    </item>    <item>
+      <title>Not so grim up north!</title>
+      <link>https://statusq.org/archives/2025/10/12/13356/</link>
+      <description>
+        <![CDATA[We&#8217;ve just returned from a somewhat spontaneous tour of northern England in our little campervan, which we cunningly timed to coincide with the unexpected arrival of Storm Amy. As friends and family sent us links to the orange weather warnings, we looked in vain for campsites named something like &#8216;Sheltered Glade&#8217;, and in fact always <a class="more-link excerpt-link" href="https://statusq.org/archives/2025/10/12/13356/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a>]]>
+      </description>
+      <source:markdown>We’ve just returned from a somewhat spontaneous tour of northern England in our little campervan, which we cunningly timed to coincide with the unexpected arrival of Storm Amy. As friends and family sent us links to the orange weather warnings, we looked in vain for campsites named something like ‘Sheltered Glade’, and in fact always [Continue Reading](https://statusq.org/archives/2025/10/12/13356/)</source:markdown>
+      <guid>cid://https://statusq.org/?p=13356</guid>
+    </item>    <item>
+      <link>https://www.theatlantic.com/newsletters/archive/2025/10/foreign-film-starter-pack/684530/?gift=f35zZN0v_gDFE8xNwlQAHaq8mSzZ9Ce-oOEz3GA1S7I&#38;utm_source=copy-link&#38;utm_medium=social&#38;utm_campaign=share</link>
+      <description>
+        <![CDATA[<p>A Foreign-Film Starter Pack.</p>]]>
+      </description>
+      <source:markdown>A Foreign-Film Starter Pack.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/12/1497/</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115361527591437662</link>
+      <description>
+        <![CDATA[<p>Friends, I am on a roll!</p>]]>
+      </description>
+      <source:markdown>Friends, I am on a roll!</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115361527591437662</guid>
     </item>    <item>
       <title>Simon &#38; Garfunkel</title>
       <link>https://steady.substack.com/p/simon-and-garfunkel</link>
@@ -101,6 +153,19 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://heathercoxrichardson.substack.com/p/october-10-2025-5b0</link>
       <enclosure url="https://api.substack.com/feed/podcast/175918366/7814aaef01a9e80f26ba6cde263fb0ff.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://heathercoxrichardson.substack.com/p/october-10-2025-5b0</guid>
+    </item>    <item>
+      <title>Superpowers 2.0 came out yesterday and might already be obsolete.</title>
+      <link>https://blog.fsck.com/2025/10/12/superpowers-20-came-out-yesterday-and-might-already-be-obsolete/</link>
+      <guid>cid://https://blog.fsck.com/2025/10/12/superpowers-20-came-out-yesterday-and-might-already-be-obsolete/</guid>
+    </item>    <item>
+      <title>Scraping Google Calendar events</title>
+      <link>https://maxhalford.github.io/blog/google-calendar-scraping/</link>
+      <description>
+        <![CDATA[<p>At my day job we deal with enterprise customers. They pay us a subscription fee, and in return we help them in various ways to reduce their carbon footprint. To keep the boat afloat, we need to make some money. We shouldn&rsquo;t spend more money than we make. So we need to keep track of our revenue and costs. Our gross margin is <code>(revenue - cost) / revenue</code>, where the cost is mostly the salaries of our employees.</p>]]>
+      </description>
+      <source:markdown>At my day job we deal with enterprise customers. They pay us a subscription fee, and in return we help them in various ways to reduce their carbon footprint. To keep the boat afloat, we need to make some money. We shouldn’t spend more money than we make. So we need to keep track of our revenue and costs. Our gross margin is `(revenue - cost) / revenue`, where the cost is mostly the salaries of our employees.</source:markdown>
+      <author>maxhalford25@gmail.com (Max Halford)</author>
+      <guid>cid://https://maxhalford.github.io/blog/google-calendar-scraping/</guid>
     </item>    <item>
       <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2xac3eax22r</link>
       <description>

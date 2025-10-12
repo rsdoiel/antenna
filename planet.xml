@@ -4,10 +4,42 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>12 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>12 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Four killed and 20 injured in mass shooting at bar in US</title>
+      <link>https://www.rte.ie/news/world/2025/1012/1538168-south-carolina-shooting/</link>
+      <description>
+        <![CDATA[A mass shooting at a crowded bar in South Carolina has left four people dead and at least 20 injured.]]>
+      </description>
+      <source:markdown>A mass shooting at a crowded bar in South Carolina has left four people dead and at least 20 injured.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2025/1012/1538168-south-carolina-shooting/</guid>
+    </item>    <item>
+      <title>Two men arrested after serious assault in Co Tipperary</title>
+      <link>https://www.rte.ie/news/2025/1012/1538165-tipperary-assault/</link>
+      <description>
+        <![CDATA[Two men have been arrested after another man was seriously assaulted in Co Tipperary.]]>
+      </description>
+      <source:markdown>Two men have been arrested after another man was seriously assaulted in Co Tipperary.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1012/1538165-tipperary-assault/</guid>
+    </item>    <item>
+      <title>5 takeways from This Week presidential radio debate</title>
+      <link>https://www.rte.ie/news/2025/1012/1538152-radio-debate-takeaways/</link>
+      <description>
+        <![CDATA[The presidential race took to the airwaves today with candidates Heather Humphreys and Catherine Connolly taking part in a live debate with presenter David McCullagh on RTÉ's Radio's This Week programme.]]>
+      </description>
+      <source:markdown>The presidential race took to the airwaves today with candidates Heather Humphreys and Catherine Connolly taking part in a live debate with presenter David McCullagh on RTÉ&#39;s Radio&#39;s This Week programme.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1012/1538152-radio-debate-takeaways/</guid>
+    </item>    <item>
+      <title>Clashes over triple lock, Europe in Áras radio debate</title>
+      <link>https://www.rte.ie/news/2025/1012/1538145-presidential-debate/</link>
+      <description>
+        <![CDATA[Presidential candidates Heather Humphreys and Catherine Connolly have clashed on their position on the Triple Lock and relations with European nations during the latest presidential debate.]]>
+      </description>
+      <source:markdown>Presidential candidates Heather Humphreys and Catherine Connolly have clashed on their position on the Triple Lock and relations with European nations during the latest presidential debate.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1012/1538145-presidential-debate/</guid>
+    </item>    <item>
       <title>Peru in Turmoil after President Boluarte ousted by Congress</title>
       <link>https://www.vaticannews.va/en/world/news/2025-10/peru-political-situation-volatile-removal-of-president.html</link>
       <description>
@@ -19,6 +51,15 @@
 
 [Read all](https://www.vaticannews.va/en/world/news/2025-10/peru-political-situation-volatile-removal-of-president.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/world/news/2025-10/peru-political-situation-volatile-removal-of-president.html</guid>
+    </item>    <item>
+      <title>17 children reportedly killed in attack on Sudan displacement camp</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166083</link>
+      <description>
+        <![CDATA[At least 17 children, including an infant just seven days old, have reportedly been killed in an attack on the Dar al-Arqam Displacement Centre in El Fasher, North Darfur, early on Saturday morning.]]>
+      </description>
+      <source:markdown>At least 17 children, including an infant just seven days old, have reportedly been killed in an attack on the Dar al-Arqam Displacement Centre in El Fasher, North Darfur, early on Saturday morning.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/13-05-2024_UNICEF_Sudan-02.jpg/image560x340cropped.jpg" length="42868" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166083</guid>
     </item>    <item>
       <title>Gaza summit set to commence in Egypt on Monday</title>
       <link>https://www.vaticannews.va/en/world/news/2025-10/gaza-summit-set-to-commence-in-egypt-on-monday.html</link>
@@ -32,7 +73,7 @@
 [Read all](https://www.vaticannews.va/en/world/news/2025-10/gaza-summit-set-to-commence-in-egypt-on-monday.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/world/news/2025-10/gaza-summit-set-to-commence-in-egypt-on-monday.html</guid>
     </item>    <item>
-      <title>Candidates discuss smear campaigns, triple lock, unity</title>
+      <title>As it happened: Candidates take part in radio debate</title>
       <link>https://www.rte.ie/news/2025/1012/1538094-presidential-election/</link>
       <description>
         <![CDATA[Follow live updates in the race for Áras an Uachtaráin after the candidates faced off in a radio debate on RTÉ Radio 1's This Week.]]>
@@ -47,6 +88,16 @@
       </description>
       <source:markdown>Former presidential hopeful Gareth Sheridan has said that the presidential nomination process is not fit for purpose and needs to be looked at.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1012/1538118-presidential-election/</guid>
+    </item>    <item>
+      <title>Madagascar president warns of coup attempt as more soldiers join protests</title>
+      <link>https://www.cbc.ca/news/world/madagascar-president-warns-coup-attempt-9.6936321?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/3d644b34-0ad5-46ba-a997-6acc03b81309,1760277501837/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C71%2C5472%2C3078%29%3BResize%3D%28620%29' alt='A line of soldiers wearing helmets is seen in front of protestors waving a large white, red and green flag.' width='620' height='349' title='A Malagasy flag is raised in front of police during a nationwide youth-led protest over frequent power outages and water shortages, in Antananarivo, Madagascar, Saturday.'/><p>Madagascar's presidency said on Sunday that an attempt to grab power by force was underway in the African nation as more soldiers joined a youth-led protest movement that has rocked the former French colony for more than two weeks.</p>]]>
+      </description>
+      <source:markdown>![A line of soldiers wearing helmets is seen in front of protestors waving a large white, red and green flag.](https://i.cbc.ca/ais/3d644b34-0ad5-46ba-a997-6acc03b81309,1760277501837/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C71%2C5472%2C3078%29%3BResize%3D%28620%29)
+
+Madagascar&#39;s presidency said on Sunday that an attempt to grab power by force was underway in the African nation as more soldiers joined a youth-led protest movement that has rocked the former French colony for more than two weeks.</source:markdown>
+      <guid>cid://9.6936321</guid>
     </item>    <item>
       <title>Hundreds killed in Pakistan-Afghanistan border clashes</title>
       <link>https://www.rte.ie/news/2025/1012/1538114-afghanistan-pakistan/</link>
@@ -173,12 +224,12 @@ Wayne Cook Sr. can still recall spotting about 10 bull moose along the river nea
       <source:markdown>![A man with a beard and turban standing on Parliament Hill.](https://i.cbc.ca/ais/cb6ad01b-a0e9-48e5-89f9-0cc6e9b3973c,1760137598614/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29)</source:markdown>
       <guid>cid://9.6936245</guid>
     </item>    <item>
-      <title>Release of hostages to begin tomorrow, Israel says</title>
+      <title>Gaza ceasefire holds ahead of expected hostage release</title>
       <link>https://www.rte.ie/news/2025/1012/1538091-hostages-ceasefire-gaza/</link>
       <description>
-        <![CDATA[An Israeli government spokesperson has said that the release of hostages held in Gaza will begin early tomorrow morning.]]>
+        <![CDATA[A ceasefire between Israel and Hamas held in Gaza for a third day ahead of the expected release of Israeli hostages and Palestinian prisoners and detainees.]]>
       </description>
-      <source:markdown>An Israeli government spokesperson has said that the release of hostages held in Gaza will begin early tomorrow morning.</source:markdown>
+      <source:markdown>A ceasefire between Israel and Hamas held in Gaza for a third day ahead of the expected release of Israeli hostages and Palestinian prisoners and detainees.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1012/1538091-hostages-ceasefire-gaza/</guid>
     </item>    <item>
       <title>Blast at US explosives factory kills 16</title>
