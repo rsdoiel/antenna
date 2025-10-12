@@ -4,10 +4,18 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>11 Oct 25 15:10 -0700</lastBuildDate>
+    <lastBuildDate>12 Oct 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Time Capsule: The Juliana Hatfield Three, Become What You Are</title>
+      <link>https://www.pastemagazine.com/music/juliana-hatfield/time-capsule-the-juliana-hatfield-three-become-what-you-are</link>
+      <description>
+        <![CDATA[Juliana Hatfield’s first release with Dean Fisher and Todd Philips is a quintessential guitar album, with unpredictable chord changes and resolutions that scratch an itch you didn’t know you had.]]>
+      </description>
+      <source:markdown>Juliana Hatfield’s first release with Dean Fisher and Todd Philips is a quintessential guitar album, with unpredictable chord changes and resolutions that scratch an itch you didn’t know you had.</source:markdown>
+      <guid>cid://19dfc3fa-7a16-4ea8-ba1c-5e4f21aaba9d-409913</guid>
+    </item>    <item>
       <title>Trump threatens tech export limits, new 100% tariff on Chinese imports</title>
       <link>https://www.npr.org/2025/10/11/g-s1-93113/trump-threatens-100-tariff-chinese-imports</link>
       <description>
@@ -1528,20 +1536,6 @@ _Marketplace is more than a radio show. Check out our original reporting and fin
       </description>
       <source:markdown>Women make up only 4 percent of construction workers on job sites working with tools. Some are worried that tariffs on building supplies will slow down commercial building construction.</source:markdown>
       <guid>cid://https://www.npr.org/2025/09/21/nx-s1-5545716/inside-the-largest-gathering-of-unionized-tradeswomen-in-the-world-talk-of-tariffs</guid>
-    </item>    <item>
-      <title>How Publishers Clearing House&#39;s bankruptcy is affecting winners</title>
-      <link>https://www.npr.org/2025/09/20/nx-s1-5544498/how-publishers-clearing-houses-bankruptcy-is-affecting-winners</link>
-      <description>
-        <![CDATA[NPR's Scott Simon speaks with Publishers Clearing House winner Tamar Veatch, who stopped getting annual payments earlier this year as the company behind the sweepstakes fell into bankruptcy.]]>
-      </description>
-      <guid>cid://https://www.npr.org/2025/09/20/nx-s1-5544498/how-publishers-clearing-houses-bankruptcy-is-affecting-winners</guid>
-    </item>    <item>
-      <title>Lawyers vs. engineers: Dan Wang sees U.S.-China dynamics in a new paradigm</title>
-      <link>https://www.npr.org/2025/09/20/g-s1-89568/china-us-lawyers-vs-engineers-dan-wang-book</link>
-      <description>
-        <![CDATA[In a new book, analyst Dan Wang uses "engineering state" vs. "lawyerly society" to explain how China got ahead and America stagnated.]]>
-      </description>
-      <guid>cid://https://www.npr.org/2025/09/20/g-s1-89568/china-us-lawyers-vs-engineers-dan-wang-book</guid>
     </item>
   </channel>
 </rss>

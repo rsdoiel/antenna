@@ -4,10 +4,20 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>11 Oct 25 15:10 -0700</lastBuildDate>
+    <lastBuildDate>12 Oct 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Inside the belly of the beast: A technical walk through Intel&#39;s 18A production facility at Fab52</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/12/gelsingers_foundry_dream_lives_on/</link>
+      <description>
+        <![CDATA[<h4>Now if Lip Bu Tan can just find a willing customer</h4> <p><strong>deep dive</strong>  Not long after rejoining Intel in 2021, former CEO Pat Gelsinger announced an ambitious plan to reinvent the chipmaker as a contract semiconductor manufacturing powerhouse.…</p>]]>
+      </description>
+      <source:markdown>#### Now if Lip Bu Tan can just find a willing customer
+
+**deep dive**  Not long after rejoining Intel in 2021, former CEO Pat Gelsinger announced an ambitious plan to reinvent the chipmaker as a contract semiconductor manufacturing powerhouse.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242406</guid>
+    </item>    <item>
       <title>Liquid Glass is cracked, and usability suffers in iOS 26</title>
       <link>https://www.osnews.com/story/143522/liquid-glass-is-cracked-and-usability-suffers-in-ios-26/</link>
       <description>
@@ -5002,27 +5012,6 @@ The post [Shortwave App Now Available](https://puri.sm/posts/shortwave-app-now-a
         <![CDATA[<h4>From pain-free shutdowns to crap-free search, these tweaks will improve your experience</h4> <p><strong>hands on</strong>  Windows 11 has a number of puzzling or annoying UI changes from Windows 10 that power users might wish to change. But you can&#39;t make these tweaks from the Settings menu or even the legacy Control Panel. To make these changes, you’ll need to edit the Registry.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
       <guid>cid://tag:theregister.com,2005:story242024</guid>
-    </item>    <item>
-      <title>SaaS vendors are hiking costs faster than inflation, but squeaky wheels can still get deals</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/20/saas_license_negotiation_advice/</link>
-      <description>
-        <![CDATA[<h4>And also force them to improve resilience</h4> <p>SaaS vendors are increasing prices faster than both inflation and the typical growth rate of corporate IT budgets, but Gartner VP analyst Jo Liversidge thinks that canny buyers can reduce their bills by anticipating price hikes and planning to negotiate hard.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242011</guid>
-    </item>    <item>
-      <title>Britain jumps into bed with Palantir in £1.5B defense pact</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/20/uk_palantir_defense_pact/</link>
-      <description>
-        <![CDATA[<h4>Arrangement follows big tech tie-ins claiming to offer £31B investment</h4> <p>The UK has struck a defense deal with US spy-tech biz Palantir, which the government says will unlock £1.5 billion ($2 billion) of investment in Britain.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242018</guid>
-    </item>    <item>
-      <title>Trump admin says tech companies are abusing H-1B visas, slaps $100k a year to allow entry</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/20/visa_h1b_reform/</link>
-      <description>
-        <![CDATA[<h4>It will hit outsourcing companies hardest</h4> <p>On Friday, President Trump signed a presidential proclamation to sharply raise the cost of employing H-1B workers by restricting entry unless employers make a $100,000 payment with the petition.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242032</guid>
     </item>
   </channel>
 </rss>

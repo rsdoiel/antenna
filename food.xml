@@ -4,7 +4,7 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>11 Oct 25 15:10 -0700</lastBuildDate>
+    <lastBuildDate>12 Oct 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -2731,22 +2731,6 @@ Quick and easy recipes with only 6 ingredients, or less! Recipes with only a few
 
 The post [6 Ingredient Recipes](https://www.closetcooking.com/6-ingredient-recipes/) appeared first on [Closet Cooking](https://www.closetcooking.com).</source:markdown>
       <guid>cid://https://www.closetcooking.com/2018/03/18/6-ingredient-recipes/</guid>
-    </item>    <item>
-      <title>23 Fig Recipes Using Fresh Figs, Dried Figs, and Jam</title>
-      <link>https://www.bonappetit.com/gallery/dried-and-fresh-fig-recipes-ideas</link>
-      <description>
-        <![CDATA[Like fig caprese, homemade Fig Newtons, pork ribs with fig BBQ sauce, and more recipes, both sweet and savory.]]>
-      </description>
-      <source:markdown>Like fig caprese, homemade Fig Newtons, pork ribs with fig BBQ sauce, and more recipes, both sweet and savory.</source:markdown>
-      <guid>cid://57ed35ba8fb26d7d72d1d930</guid>
-    </item>    <item>
-      <title>This Stick Blender Changed the Way I Meal Prep</title>
-      <link>https://www.bonappetit.com/story/cuisinart-smart-stick-hand-blender-review</link>
-      <description>
-        <![CDATA[And it can change the way you do too.]]>
-      </description>
-      <source:markdown>And it can change the way you do too.</source:markdown>
-      <guid>cid://68cdbb8082bb0e780e386446</guid>
     </item>
   </channel>
 </rss>

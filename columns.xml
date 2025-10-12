@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>11 Oct 25 15:10 -0700</lastBuildDate>
+    <lastBuildDate>12 Oct 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,81 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Simon &#38; Garfunkel</title>
+      <link>https://steady.substack.com/p/simon-and-garfunkel</link>
+      <description>
+        <![CDATA[A Reason To Smile]]>
+      </description>
+      <source:markdown>A Reason To Smile</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!ivXd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44ee3f94-375c-4bf3-99f1-3d9e676d006f_4989x3307.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/simon-and-garfunkel</guid>
+    </item>    <item>
+      <link>https://www.chinatalk.media/p/why-america-builds-ai-girlfriends</link>
+      <description>
+        <![CDATA[<p>Why America Builds AI Girlfriends and China Makes AI Boyfriends.</p>]]>
+      </description>
+      <source:markdown>Why America Builds AI Girlfriends and China Makes AI Boyfriends.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/12/1495/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/12.html#a113509</link>
+      <description>
+        <![CDATA[I am getting ready for a trip. And part of that is getting my laptop set up so I can post to Scripting News. If you're reading this, it worked.]]>
+      </description>
+      <source:markdown>I am getting ready for a trip. And part of that is getting my laptop set up so I can post to Scripting News. If you&#39;re reading this, it worked.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/12.html#a113509</guid>
+    </item>    <item>
+      <title>Technology Bubbles: Causes and Consequences</title>
+      <link>https://paulkrugman.substack.com/p/technology-bubbles-causes-and-consequences</link>
+      <description>
+        <![CDATA[What history can teach us about AI frenzy]]>
+      </description>
+      <source:markdown>What history can teach us about AI frenzy</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!PQyN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65ee5119-9d49-4058-9260-2c6feb329adf_600x414.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/technology-bubbles-causes-and-consequences</guid>
+    </item>    <item>
+      <title>Sunday thought: the Big Reveal</title>
+      <link>https://robertreich.substack.com/p/sunday-thought-the-big-reveal</link>
+      <description>
+        <![CDATA[Friends,]]>
+      </description>
+      <source:markdown>Friends,</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Szpn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29f73a2f-0e3e-4aef-9ecc-cfa8d34c520f_3500x2950.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/sunday-thought-the-big-reveal</guid>
+    </item>    <item>
+      <title>TBR Caption Contest Finalists!</title>
+      <link>https://www.borowitzreport.com/p/tbr-caption-contest-finalists</link>
+      <description>
+        <![CDATA[TBR Sunday Read]]>
+      </description>
+      <source:markdown>TBR Sunday Read</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!EkIC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc973cc5-f9c2-4188-abbe-3eb5f7597ec3_1024x689.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/tbr-caption-contest-finalists</guid>
+    </item>    <item>
+      <title>October 11, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-11-2025</link>
+      <description>
+        <![CDATA[Spent the day with family and friends as we said goodbye to yet another summer.]]>
+      </description>
+      <source:markdown>Spent the day with family and friends as we said goodbye to yet another summer.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!xD2F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7972626d-243a-4c9e-868b-bb3045d0fe54_3500x2329.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-11-2025</guid>
+    </item>    <item>
+      <title>October 10, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-10-2025-5b0</link>
+      <enclosure url="https://api.substack.com/feed/podcast/175918366/7814aaef01a9e80f26ba6cde263fb0ff.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-10-2025-5b0</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2xac3eax22r</link>
+      <description>
+        <![CDATA[Something to keep in mind
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>Something to keep in mind
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m2xac3eax22r</guid>
     </item>    <item>
       <title>The Inverse Law of Conference Speaking</title>
       <link>https://om.co/2025/10/11/the-inverse-law-of-conference-speaking/</link>
@@ -681,6 +756,10 @@ This final one is an example of a racing game. Something that you might already 
 ![IMG](https://cdn.gingerbeardman.com/images/posts/spreadsheet-ui-racer.png)</source:markdown>
       <guid>cid://https://blog.gingerbeardman.com/2025/10/11/how-to-tame-a-user-interface-using-a-spreadsheet/</guid>
     </item>    <item>
+      <title>The App Store Was Always Authoritarian</title>
+      <link>https://infrequently.org/2025/10/the-app-store-was-always-authoritarian/</link>
+      <guid>cid://https://infrequently.org/2025/10/the-app-store-was-always-authoritarian/</guid>
+    </item>    <item>
       <title>simonw/claude-skills</title>
       <link>https://simonwillison.net/2025/Oct/10/claude-skills/#atom-everything</link>
       <description>
@@ -997,6 +1076,43 @@ Tags: [android](https://simonwillison.net/tags/android), [ai](https://simonwilli
 
 La entrada [Soy Frankelda: el stop-motion mexicano se estrena como un fenómeno cultural](https://www.palomitademaiz.net/soy-frankelda-el-stop-motion-mexicano/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
       <guid>cid://https://www.palomitademaiz.net/?p=25628</guid>
+    </item>    <item>
+      <title>Switch to Jujutsu already: a tutorial</title>
+      <link>https://www.stavros.io/posts/switch-to-jujutsu-already-a-tutorial/</link>
+      <description>
+        <![CDATA[<div class="pull-quote">If you don't like Jujutsu, you're wrong</div><p>As all developers, I&#8217;ve been using git since the dawn of time, since its commands were an inscrutable jumble of ill-fitting incantations, and it has remained this way until today.
+        Needless to say, I just don&#8217;t get git.
+        I never got it, even though I&#8217;ve read a bunch of stuff on how it represents things internally.
+        I&#8217;ve been using it for years knowing what a few commands do, and whenever it gets into a weird state because I fat-fingered something, I have my trusty alias, <code>fuckgit</code>, that deletes the <code>.git</code> directory, clones the repo again into a temp folder, and moves the <code>.git</code> directory from that into my directory, and I&#8217;ve managed to eke out a living for my family this way.</p>
+        <p>Over the past few years, I&#8217;ve been seeing people rave about <a href="https://github.com/jj-vcs/jj">Jujutsu</a>, and I always wanted to try it, but it never seemed worth the trouble, even though I hate git.
+        I idly read a few tutorials, trying to understand how it works, but in the end I decided it wasn&#8217;t for me.</p>
+        <p>One day I randomly decided to try again, but this time I asked Claude how to do with Jujutsu whatever operation I wanted to do with git.
+        That&#8217;s when the mental model of jj clicked for me, and I finally understood everything, <em>including how git works</em>.
+        I never thought a VCS would spark joy in me, but here we are, and I figured maybe I can write something that will make jj click for you as well.</p>
+        <p>It also doesn&#8217;t hurt that Jujutsu is completely interoperable with git (and thus with providers like GitHub), and I can have all the power of Jujutsu locally on my git repos, without anyone knowing I&#8217;m not actually using git.</p>
+        <h2>The problem</h2>
+        <p>The problem I had with the other tutorials, without realizing it, was that]]>
+      </description>
+      <source:markdown>If you don&#39;t like Jujutsu, you&#39;re wrong
+
+As all developers, I’ve been using git since the dawn of time, since its commands were an inscrutable jumble of ill-fitting incantations, and it has remained this way until today.
+Needless to say, I just don’t get git.
+I never got it, even though I’ve read a bunch of stuff on how it represents things internally.
+I’ve been using it for years knowing what a few commands do, and whenever it gets into a weird state because I fat-fingered something, I have my trusty alias, `fuckgit`, that deletes the `.git` directory, clones the repo again into a temp folder, and moves the `.git` directory from that into my directory, and I’ve managed to eke out a living for my family this way.
+
+Over the past few years, I’ve been seeing people rave about [Jujutsu](https://github.com/jj-vcs/jj), and I always wanted to try it, but it never seemed worth the trouble, even though I hate git.
+I idly read a few tutorials, trying to understand how it works, but in the end I decided it wasn’t for me.
+
+One day I randomly decided to try again, but this time I asked Claude how to do with Jujutsu whatever operation I wanted to do with git.
+That’s when the mental model of jj clicked for me, and I finally understood everything, _including how git works_.
+I never thought a VCS would spark joy in me, but here we are, and I figured maybe I can write something that will make jj click for you as well.
+
+It also doesn’t hurt that Jujutsu is completely interoperable with git (and thus with providers like GitHub), and I can have all the power of Jujutsu locally on my git repos, without anyone knowing I’m not actually using git.
+
+## The problem
+
+The problem I had with the other tutorials, without realizing it, was that</source:markdown>
+      <guid>cid://https://www.stavros.io/posts/switch-to-jujutsu-already-a-tutorial/</guid>
     </item>    <item>
       <title>Friday Squid Blogging: Sperm Whale Eating a Giant Squid</title>
       <link>https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-sperm-whale-eating-a-giant-squid.html</link>
@@ -18672,431 +18788,6 @@ Tags: [projects](https://simonwillison.net/tags/projects), [ai](https://simonwil
       </description>
       <source:markdown>Op zondag 21 September Groesbeek’s Gruwelijkste (11e editie, de _laatste_) gereden. De 75 km.</source:markdown>
       <guid>cid://https://miek.nl/galleries/2025-groesbeeks-gruwelijkste/</guid>
-    </item>    <item>
-      <title>Grok 4 Fast</title>
-      <link>https://simonwillison.net/2025/Sep/20/grok-4-fast/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://x.ai/news/grok-4-fast">Grok 4 Fast</a></strong></p>
-        New hosted vision-enabled reasoning model from xAI that's designed to be fast and extremely competitive on price. It has a 2 million token context window and "was trained end-to-end with tool-use reinforcement learning".</p>
-        <p>It's priced at $0.20/million input tokens and $0.50/million output tokens - 15x less than Grok 4 (which is $3/million input and $15/million output). That puts it cheaper than GPT-5 mini and Gemini 2.5 Flash on <a href="https://www.llm-prices.com/">llm-prices.com</a>.</p>
-        <p>The same model weights handle reasoning and non-reasoning based on a parameter passed to the model.</p>
-        <p>I've been trying it out via my updated <a href="https://github.com/simonw/llm-openrouter">llm-openrouter</a> plugin, since Grok 4 Fast is available <a href="https://openrouter.ai/x-ai/grok-4-fast">for free on OpenRouter</a> for a limited period.</p>
-        <p>Here's output from the <a href="https://gist.github.com/simonw/7f9a5e5c780b1d5bfe98b4f4ad540551">non-reasoning model</a>. This actually output an invalid SVG - I had to make <a href="https://gist.github.com/simonw/7f9a5e5c780b1d5bfe98b4f4ad540551?permalink_comment_id=5768049#gistcomment-5768049">a tiny manual tweak</a> to the XML to get it to render.</p>
-        <pre><code>llm -m openrouter/x-ai/grok-4-fast:free "Generate an SVG of a pelican riding a bicycle" -o reasoning_enabled false
-        </code></pre>
-        <p><img alt="Described by Grok 4 Fast: Simple line drawing of a white bird with a long yellow beak riding a bicycle, pedaling with its orange legs." src="https://static.simonwillison.net/static/2025/grok-4-no-reasoning.png" /></p>
-        <p>(I initially ran this without that <code>-o reasoning_enabled false</code> flag, but then I saw that <a href="https://x.com/OpenRouterAI/status/1969427723098435738">OpenRouter enable reasoning by default</a> for that model. Here's my <a href="https://gist.github.com/simonw/6a52e6585cb3c45e64ae23b9c5ebafe9">previous invalid result</a>.)</p>
-        <p>And <a href="https://gist.github.com/simonw/539719a1495253bbd27f3107931e6dd3">the reasoning model</a>:</p>
-        <pre><code>llm -m openrouter/x-ai/grok-4-fast:free "Generate an SVG of a pelican riding a bicycle" -o reasoning_enabled true
-        </code></pre>
-        <p><img alt="Described by Grok 4 Fast: A simple line drawing of a white pelican with a yellow beak holding a yellow object, riding a black bicycle on green grass under a blue sky with white clouds." src="https://static.simonwillison.net/static/2025/grok-4-fast-reasoning.png" /></p>
-        <p>In related news, the New York Times had a story a couple of days ago about Elon's recent focus on xAI: <a href="https://www.nytimes.com/2025/09/18/technology/elon-musk-artificial-intelligence-xai.html">Since Leaving Washington, Elon Musk Has Been All In on His A.I. Company</a>.
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/grok">grok</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/openrouter">openrouter</a>, <a href="https://simonwillison.net/tags/xai">xai</a></p>]]>
-      </description>
-      <source:markdown>**[Grok 4 Fast](https://x.ai/news/grok-4-fast)**
-
-New hosted vision-enabled reasoning model from xAI that&#39;s designed to be fast and extremely competitive on price. It has a 2 million token context window and &#34;was trained end-to-end with tool-use reinforcement learning&#34;.
-
-It&#39;s priced at $0.20/million input tokens and $0.50/million output tokens - 15x less than Grok 4 (which is $3/million input and $15/million output). That puts it cheaper than GPT-5 mini and Gemini 2.5 Flash on [llm-prices.com](https://www.llm-prices.com/).
-
-The same model weights handle reasoning and non-reasoning based on a parameter passed to the model.
-
-I&#39;ve been trying it out via my updated [llm-openrouter](https://github.com/simonw/llm-openrouter) plugin, since Grok 4 Fast is available [for free on OpenRouter](https://openrouter.ai/x-ai/grok-4-fast) for a limited period.
-
-Here&#39;s output from the [non-reasoning model](https://gist.github.com/simonw/7f9a5e5c780b1d5bfe98b4f4ad540551). This actually output an invalid SVG - I had to make [a tiny manual tweak](https://gist.github.com/simonw/7f9a5e5c780b1d5bfe98b4f4ad540551?permalink_comment_id=5768049#gistcomment-5768049) to the XML to get it to render.
-
-```
-llm -m openrouter/x-ai/grok-4-fast:free &#34;Generate an SVG of a pelican riding a bicycle&#34; -o reasoning_enabled false
-
-```
-
-![Described by Grok 4 Fast: Simple line drawing of a white bird with a long yellow beak riding a bicycle, pedaling with its orange legs.](https://static.simonwillison.net/static/2025/grok-4-no-reasoning.png)
-
-(I initially ran this without that `-o reasoning_enabled false` flag, but then I saw that [OpenRouter enable reasoning by default](https://x.com/OpenRouterAI/status/1969427723098435738) for that model. Here&#39;s my [previous invalid result](https://gist.github.com/simonw/6a52e6585cb3c45e64ae23b9c5ebafe9).)
-
-And [the reasoning model](https://gist.github.com/simonw/539719a1495253bbd27f3107931e6dd3):
-
-```
-llm -m openrouter/x-ai/grok-4-fast:free &#34;Generate an SVG of a pelican riding a bicycle&#34; -o reasoning_enabled true
-
-```
-
-![Described by Grok 4 Fast: A simple line drawing of a white pelican with a yellow beak holding a yellow object, riding a black bicycle on green grass under a blue sky with white clouds.](https://static.simonwillison.net/static/2025/grok-4-fast-reasoning.png)
-
-In related news, the New York Times had a story a couple of days ago about Elon&#39;s recent focus on xAI: [Since Leaving Washington, Elon Musk Has Been All In on His A.I. Company](https://www.nytimes.com/2025/09/18/technology/elon-musk-artificial-intelligence-xai.html).
-
-
-
-Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [llm](https://simonwillison.net/tags/llm), [vision-llms](https://simonwillison.net/tags/vision-llms), [llm-pricing](https://simonwillison.net/tags/llm-pricing), [pelican-riding-a-bicycle](https://simonwillison.net/tags/pelican-riding-a-bicycle), [llm-reasoning](https://simonwillison.net/tags/llm-reasoning), [grok](https://simonwillison.net/tags/grok), [llm-release](https://simonwillison.net/tags/llm-release), [openrouter](https://simonwillison.net/tags/openrouter), [xai](https://simonwillison.net/tags/xai)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Sep/20/grok-4-fast/#atom-everything</guid>
-    </item>    <item>
-      <title>A Few Nice Words about Viewfinder</title>
-      <link>https://robinrendle.com/notes/a-few-nice-words-about-viewfinder/</link>
-      <guid>cid://https://robinrendle.com/notes/a-few-nice-words-about-viewfinder/</guid>
-    </item>    <item>
-      <title>Saturday night late session</title>
-      <link>https://adactio.com/notes/22143</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22143/small.jpg" srcset="https://adactio.com/images/uploaded/22143/medium.jpg 1.5x, https://adactio.com/images/uploaded/22143/large.jpg 2.5x" alt="Saturday night late session" />
-        <p>Saturday night late session</p>]]>
-      </description>
-      <guid>cid://https://adactio.com/notes/22143</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3lzchaqtnms2i</link>
-      <description>
-        <![CDATA[Thread 👇
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3lzchaqtnms2i</guid>
-    </item>    <item>
-      <link>https://www.politico.com/news/2025/09/20/tom-homan-department-of-justice-investigation-00574379</link>
-      <description>
-        <![CDATA[<p>Border czar Tom Homan was investigated by DOJ for potential bribery.</p>]]>
-      </description>
-      <source:markdown>Border czar Tom Homan was investigated by DOJ for potential bribery.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/20/1167/</guid>
-    </item>    <item>
-      <title>Serenaded at dinner by the Friel sisters and Polca4</title>
-      <link>https://adactio.com/notes/22142</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22142/small.jpg" srcset="https://adactio.com/images/uploaded/22142/medium.jpg 1.5x, https://adactio.com/images/uploaded/22142/large.jpg 2.5x" alt="Serenaded at dinner by the Friel sisters and Polca4" />
-        <p>Serenaded at dinner by the Friel sisters and Polca4</p>]]>
-      </description>
-      <guid>cid://https://adactio.com/notes/22142</guid>
-    </item>    <item>
-      <title>September 19, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-19-2025-6c0</link>
-      <enclosure url="https://api.substack.com/feed/podcast/174119557/ad8887a77c45b0f3ef9e6b5d0c360ae5.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-19-2025-6c0</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115238207992521008</link>
-      <description>
-        <![CDATA[<p>I was going to make another can, but I think the magic is gone if you do two cans a day.</p>]]>
-      </description>
-      <source:markdown>I was going to make another can, but I think the magic is gone if you do two cans a day.</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115238207992521008</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115238204736748940</link>
-      <description>
-        <![CDATA[<p>A simple recipe made in heaven.</p><p>A can of tuna (I really like the cento brand soaked in olive oil), that Japanese mayo mixed with saltines.</p><p>So simple, yet it lifts the soul.</p>]]>
-      </description>
-      <source:markdown>A simple recipe made in heaven.
-
-A can of tuna (I really like the cento brand soaked in olive oil), that Japanese mayo mixed with saltines.
-
-So simple, yet it lifts the soul.</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115238204736748940</guid>
-    </item>    <item>
-      <title>Up North and Down South</title>
-      <link>https://statusq.org/archives/2025/09/20/13319/</link>
-      <description>
-        <![CDATA[Back in late February, while Rose was away, Tilly (may she rest in peace) and I departed on one of our campervan trips. As is often the case when I&#8217;m doing these out-of-season jaunts, I set off not really knowing where I would end up, my itinerary being driven partly by the weather forecast, and <a class="more-link excerpt-link" href="https://statusq.org/archives/2025/09/20/13319/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a>]]>
-      </description>
-      <source:markdown>Back in late February, while Rose was away, Tilly (may she rest in peace) and I departed on one of our campervan trips. As is often the case when I’m doing these out-of-season jaunts, I set off not really knowing where I would end up, my itinerary being driven partly by the weather forecast, and [Continue Reading](https://statusq.org/archives/2025/09/20/13319/)</source:markdown>
-      <guid>cid://https://statusq.org/?p=13319</guid>
-    </item>    <item>
-      <title>Saturday evening session</title>
-      <link>https://adactio.com/notes/22141</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22141/small.jpg" srcset="https://adactio.com/images/uploaded/22141/medium.jpg 1.5x, https://adactio.com/images/uploaded/22141/large.jpg 2.5x" alt="Saturday evening session" />
-        <p>Saturday evening session</p>]]>
-      </description>
-      <guid>cid://https://adactio.com/notes/22141</guid>
-    </item>    <item>
-      <title>2025-09-19 Arolla</title>
-      <link>https://alexschroeder.ch/view/2025-09-19-wallis</link>
-      <description>
-        <![CDATA[<h1 id="2025-09-19-arolla">2025-09-19 Arolla</h1>
-        
-        <p>We drove nearly two hours to get down from our side of the Vallais and up the other side, into the <a href="https://en.m.wikipedia.org/wiki/Val_d%27H%C3%A9rens">Val d’Hérens</a>, to Arolla. I hate cars so it was not a great experience, but it was nice to be there. With my father in law, hiking was out of the question but we still saw some beautiful mountains.</p>
-        
-        <p><img loading="lazy" src="2025-09-19-wallis-1.jpg" alt="A balcony full of geraniums and other flowers, the edge of some grass, the edge of a pine tree forest and then a mountain-wall of treeless dry stone reaching towards the sky." />
-        <img loading="lazy" src="2025-09-19-wallis-2.jpg" alt="Pink flowers in the foreground and the same mountains in the background, steep, with traces of stone fall running down like grey trails of tears." />
-        <img loading="lazy" src="2025-09-19-wallis-3.jpg" alt="A tiny moor behind the hotel between tall trees." />
-        <img loading="lazy" src="2025-09-19-wallis-4.jpg" alt="An older man with a baseball cap is following me while a woman in the back is turning the other way, taking pictures." />
-        <img loading="lazy" src="2025-09-19-wallis-5.jpg" alt="Back in Arolla, looking from a parking lot towards the Pigne d’Arolla, a fearsome mountain with a glacier at the top. Apparently a mere thirty or forty years ago it reached all the way down." />
-        <img loading="lazy" src="2025-09-19-wallis-6.jpg" alt="We went for a walk along La Borgne d’Arolla towards the mountain." />
-        <img loading="lazy" src="2025-09-19-wallis-7.jpg" alt="After a bit the trees are fewer and the asphalt road comes to and. This is where the more difficult hiking trips start." /></p>
-        
-        <p>We learned that the pump-station at the end is part of the network redirecting various creeks into the <a href="https://en.m.wikipedia.org/wiki/Grande_Dixence_Dam">Grande Dixence Dam</a>.</p>
-        
-        <p>We went for a short walk after dinner after we had come back home.</p>
-        
-        <p><img loading="lazy" src="2025-09-19-wallis-8.jpg" alt="The sky is dark overhead but the colours of sunset still hang in the west." /></p>
-        
-        <p><a class="tag" href="/search/?q=%23Valais">#Valais</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a> <a class="tag" href="/search/?q=%23Mountains">#Mountains</a></p>]]>
-      </description>
-      <source:markdown># 2025-09-19 Arolla
-
-We drove nearly two hours to get down from our side of the Vallais and up the other side, into the [Val d’Hérens](https://en.m.wikipedia.org/wiki/Val_d%27H%C3%A9rens), to Arolla. I hate cars so it was not a great experience, but it was nice to be there. With my father in law, hiking was out of the question but we still saw some beautiful mountains.
-
-![A balcony full of geraniums and other flowers, the edge of some grass, the edge of a pine tree forest and then a mountain-wall of treeless dry stone reaching towards the sky.](2025-09-19-wallis-1.jpg)![Pink flowers in the foreground and the same mountains in the background, steep, with traces of stone fall running down like grey trails of tears.](2025-09-19-wallis-2.jpg)![A tiny moor behind the hotel between tall trees.](2025-09-19-wallis-3.jpg)![An older man with a baseball cap is following me while a woman in the back is turning the other way, taking pictures.](2025-09-19-wallis-4.jpg)![Back in Arolla, looking from a parking lot towards the Pigne d’Arolla, a fearsome mountain with a glacier at the top. Apparently a mere thirty or forty years ago it reached all the way down.](2025-09-19-wallis-5.jpg)![We went for a walk along La Borgne d’Arolla towards the mountain.](2025-09-19-wallis-6.jpg)![After a bit the trees are fewer and the asphalt road comes to and. This is where the more difficult hiking trips start.](2025-09-19-wallis-7.jpg)
-
-We learned that the pump-station at the end is part of the network redirecting various creeks into the [Grande Dixence Dam](https://en.m.wikipedia.org/wiki/Grande_Dixence_Dam).
-
-We went for a short walk after dinner after we had come back home.
-
-![The sky is dark overhead but the colours of sunset still hang in the west.](2025-09-19-wallis-8.jpg)
-
-[#Valais](/search/?q=%23Valais) [#Pictures](/search/?q=%23Pictures) [#Mountains](/search/?q=%23Mountains)</source:markdown>
-      <guid>cid://https://alexschroeder.ch/view/2025-09-19-wallis</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3lzbrbo6ess2k</link>
-      <description>
-        <![CDATA[Something to remember. 👇
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3lzbrbo6ess2k</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3lzbr22uaks2k</link>
-      <description>
-        <![CDATA[Thoughtful 👇
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3lzbr22uaks2k</guid>
-    </item>    <item>
-      <link>https://www.nytimes.com/2025/09/19/us/politics/trump-media-news-free-speech.html?unlocked_article_code=1.nU8.aBZh.mo1BcYUiS3Li&#38;smid=url-share</link>
-      <description>
-        <![CDATA[<p>Trump Says Critical Coverage of Him Is ‘Really Illegal.’</p>]]>
-      </description>
-      <source:markdown>Trump Says Critical Coverage of Him Is ‘Really Illegal.’</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/20/1165/</guid>
-    </item>    <item>
-      <link>https://www.hollywoodreporter.com/tv/tv-news/jimmy-kimmel-suspension-reactions-marvel-disney-stars-1236376120/</link>
-      <description>
-        <![CDATA[Hollywood stars — including those with Disney, ABC, Hulu and Marvel Cinematic Universe credits — are continuing to show their support for the ‘Jimmy Kimmel Live!’ host in the wake of his suspension.]]>
-      </description>
-      <source:markdown>Hollywood stars — including those with Disney, ABC, Hulu and Marvel Cinematic Universe credits — are continuing to show their support for the ‘Jimmy Kimmel Live!’ host in the wake of his suspension.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/20/1163/</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/barackobama.bsky.social/post/3lzbokx5um22k</link>
-      <description>
-        <![CDATA[In a moment like this, when tensions are high, part of the job of the president is to remind us of the ties that bind us together.]]>
-      </description>
-      <source:markdown>In a moment like this, when tensions are high, part of the job of the president is to remind us of the ties that bind us together.</source:markdown>
-      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3lzbokx5um22k</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/20.html#a151904</link>
-      <description>
-        <![CDATA[They should make a ChatGPT that two or more people can chat in. I guess that's what Twitter is doing.]]>
-      </description>
-      <source:markdown>They should make a ChatGPT that two or more people can chat in. I guess that&#39;s what Twitter is doing.</source:markdown>
-      <guid>cid://http://scripting.com/2025/09/20.html#a151904</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/20.html#a151733</link>
-      <description>
-        <![CDATA[In ways older people handle change better than younger ones, because we know change is here, every freaking day, and we know in a few years, at most, really big change is coming. So the attitude of the older person is often what the fuck, let's go. I'm not kidding. Maybe later in life I will get more conservative, it could happen.]]>
-      </description>
-      <source:markdown>In ways older people handle change better than younger ones, because we know change is here, every freaking day, and we know in a few years, at most, really big change is coming. So the attitude of the older person is often what the fuck, let&#39;s go. I&#39;m not kidding. Maybe later in life I will get more conservative, it could happen.</source:markdown>
-      <guid>cid://http://scripting.com/2025/09/20.html#a151733</guid>
-    </item>    <item>
-      <title>Note published on September 20, 2025 at 3:14 PM UTC</title>
-      <link>https://www.mollywhite.net/micro/entry/202509201109</link>
-      <guid>cid://68cec4d5133dae2d072df25b</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/20.html#a142954</link>
-      <description>
-        <![CDATA[I'd like to see a mutual defense pact among the open source projects who depend on the stability each others' work. Not with the people, but the projects. Sort of like a NATO of open source.]]>
-      </description>
-      <source:markdown>I&#39;d like to see a mutual defense pact among the open source projects who depend on the stability each others&#39; work. Not with the people, but the projects. Sort of like a NATO of open source.</source:markdown>
-      <guid>cid://http://scripting.com/2025/09/20.html#a142954</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115237061886477699</link>
-      <description>
-        <![CDATA[<p>Ok this YouTube video does explains these filters.   I am now a fan:</p><p><a href="https://youtu.be/6tLk40RkgVE?si=2BH2ipz-oJ9Gtwlx" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">youtu.be/6tLk40RkgVE?si=2BH2ip</span><span class="invisible">z-oJ9Gtwlx</span></a></p>]]>
-      </description>
-      <source:markdown>Ok this YouTube video does explains these filters. I am now a fan:
-
-[https://youtu.be/6tLk40RkgVE?si=2BH2ipz-oJ9Gtwlx](https://youtu.be/6tLk40RkgVE?si=2BH2ipz-oJ9Gtwlx)</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115237061886477699</guid>
-    </item>    <item>
-      <title>I&#38;#8217;m usually pretty go-with-the-flow as far as OS updates go, but iOS...</title>
-      <link>https://kottke.org/25/09/0047552-im-usually-pretty-go-with</link>
-      <guid>cid://tag:kottke.org,2025://13.47552</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/20.html#a141317</link>
-      <description>
-        <![CDATA[I've never been very interested in what Kimmel says <a href="https://en.wikipedia.org/wiki/Streisand_effect">but I am now</a>.]]>
-      </description>
-      <source:markdown>I&#39;ve never been very interested in what Kimmel says [but I am now](https://en.wikipedia.org/wiki/Streisand_effect).</source:markdown>
-      <guid>cid://http://scripting.com/2025/09/20.html#a141317</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115236909065999404</link>
-      <description>
-        <![CDATA[<p>Man;  I missed out on these effects.</p><p>Even the Boston City Hall comes out looking good:</p>]]>
-      </description>
-      <source:markdown>Man; I missed out on these effects.
-
-Even the Boston City Hall comes out looking good:</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115236909065999404</guid>
-    </item>    <item>
-      <link>https://arstechnica.com/tech-policy/2025/09/after-getting-jimmy-kimmel-suspended-fcc-chair-threatens-abcs-the-view/</link>
-      <description>
-        <![CDATA[<p>After getting Jimmy Kimmel suspended, FCC chair threatens ABC’s The View.</p>]]>
-      </description>
-      <source:markdown>After getting Jimmy Kimmel suspended, FCC chair threatens ABC’s The View.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/20/1161/</guid>
-    </item>    <item>
-      <title>Lit Hub Weekly: September 15 – 19, 2025</title>
-      <link>https://lithub.com/lit-hub-weekly-september-15-19-2025/</link>
-      <description>
-        <![CDATA[​​Why read 28 book lists when you could just read one? Here is the ultimate fall reading list. &#124; Lit Hub Reading Lists How can parents raise readers in the age of digital distraction? “Our job as parents isn’t to eliminate technology—it’s to create intentional spaces where deep attention can ﬂourish.” &#124; Lit Hub Technology [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=259982</guid>
-    </item>    <item>
-      <title>A Breakthrough Prehistoric Discovery May Rewrite Early Human History</title>
-      <link>https://www.404media.co/a-breakthrough-prehistoric-discovery-may-rewrite-early-human-history/</link>
-      <description>
-        <![CDATA[More than 100 artifacts on Turkey’s Aegean coast hints that humans and Neanderthals may have crossed a vanished bridge now submerged beneath the sea.]]>
-      </description>
-      <guid>cid://68cdb0f0f83e9d0001067527</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115236694965930463</link>
-      <description>
-        <![CDATA[<p>I had originally dismissed this feature, as I thought “these are just filters”, but this is an interesting insight and I can’t find a ton of information on this or thr tone/color/palette set of settings.</p><p>Would welcome any pointers</p>]]>
-      </description>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115236694965930463</guid>
-    </item>    <item>
-      <title>Saturday session in the sun</title>
-      <link>https://adactio.com/notes/22140</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22140/small.jpg" srcset="https://adactio.com/images/uploaded/22140/medium.jpg 1.5x, https://adactio.com/images/uploaded/22140/large.jpg 2.5x" alt="Saturday session in the sun" />
-        <p>Saturday session in the sun</p>]]>
-      </description>
-      <guid>cid://https://adactio.com/notes/22140</guid>
-    </item>    <item>
-      <title>Gaiman/Trump and the New Thought Behind the Abuse</title>
-      <link>https://literatemachine.com/2025/09/20/gaiman-trump-and-the-new-thought-behind-the-abuse/</link>
-      <description>
-        <![CDATA[Video Version &#124; Audio Version In “Dream of a Thousand Cats”, a 1990 comic in The Sandman series written by Neil Gaiman and subsequently adapted in the first season of the eponymous television show in 2022, a cat tells a story to a crowd of other cats. Once upon a time, she says, enormous cats ruled the<p><a href="https://literatemachine.com/2025/09/20/gaiman-trump-and-the-new-thought-behind-the-abuse/" class="more-link themebutton">Read More</a></p>]]>
-      </description>
-      <source:markdown>Video Version \| Audio Version In “Dream of a Thousand Cats”, a 1990 comic in The Sandman series written by Neil Gaiman and subsequently adapted in the first season of the eponymous television show in 2022, a cat tells a story to a crowd of other cats. Once upon a time, she says, enormous cats ruled the
-
-[Read More](https://literatemachine.com/2025/09/20/gaiman-trump-and-the-new-thought-behind-the-abuse/)</source:markdown>
-      <guid>cid://https://literatemachine.com/?p=1048</guid>
-    </item>    <item>
-      <title>Karen Attiah</title>
-      <link>https://paulkrugman.substack.com/p/karen-attiah</link>
-      <description>
-        <![CDATA[Talking with the journalist the Washington Post fired for being honest]]>
-      </description>
-      <source:markdown>Talking with the journalist the Washington Post fired for being honest</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!D9L9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30e8c5d0-f862-4221-9363-846162b99621_1280x705.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/karen-attiah</guid>
-    </item>    <item>
-      <link>https://daveverse.org/2025/09/20/doctor-chat-gpt/</link>
-      <description>
-        <![CDATA[ChatGPT and Gemini both agreed it was likely that I had a bad form of cancer.]]>
-      </description>
-      <source:markdown>ChatGPT and Gemini both agreed it was likely that I had a bad form of cancer.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/20/1159/</guid>
-    </item>    <item>
-      <title>Buenos días, Cáceres!</title>
-      <link>https://adactio.com/notes/22139</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22139/small.jpg" srcset="https://adactio.com/images/uploaded/22139/medium.jpg 1.5x, https://adactio.com/images/uploaded/22139/large.jpg 2.5x" alt="Buenos días, Cáceres!" />
-        <p>Buenos días, Cáceres!</p>]]>
-      </description>
-      <guid>cid://https://adactio.com/notes/22139</guid>
-    </item>    <item>
-      <link>https://talkingpointsmemo.com/edblog/the-age-of-monsters</link>
-      <description>
-        <![CDATA[<p>Josh Marshall writes about the monsters running things, and he’s right, but one thing journalists will never report on is that if the tech gods are monsters, so are journalists. They made the monsters through ignorance, being lazy, or greed. They own this disaster.</p>]]>
-      </description>
-      <source:markdown>Josh Marshall writes about the monsters running things, and he’s right, but one thing journalists will never report on is that if the tech gods are monsters, so are journalists. They made the monsters through ignorance, being lazy, or greed. They own this disaster.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/20/1157/</guid>
-    </item>    <item>
-      <title>Will I Get Canceled? | The Coffee Klatch for September 20, 2025</title>
-      <link>https://robertreich.substack.com/p/when-will-i-get-cancelled-the-coffee</link>
-      <description>
-        <![CDATA[With Michael Lahanas Calder&#243;n and yours truly, Robert Reich]]>
-      </description>
-      <source:markdown>With Michael Lahanas Calderón and yours truly, Robert Reich</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/174063432/b1e96e3689a1ef0429de82ab41bd001a.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://robertreich.substack.com/p/when-will-i-get-cancelled-the-coffee</guid>
-    </item>    <item>
-      <title>No one is coming to save us</title>
-      <link>https://tracydurnell.com/2025/09/19/no-one-is-coming-to-save-us/</link>
-      <description>
-        <![CDATA[The election will not save us. Our elected officials will not save us. Our judges will not save us. Our universities will not save us. Our journalists will not save us. Our institutions will not save us. Our unions will not save us. Our bosses will not save us. Our soldiers will not save us. [&#8230;]]]>
-      </description>
-      <source:markdown>The election will not save us. Our elected officials will not save us. Our judges will not save us. Our universities will not save us. Our journalists will not save us. Our institutions will not save us. Our unions will not save us. Our bosses will not save us. Our soldiers will not save us. \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=29966</guid>
-    </item>    <item>
-      <title>September 19, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-19-2025</link>
-      <description>
-        <![CDATA[Today U.S.]]>
-      </description>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-19-2025</guid>
-    </item>    <item>
-      <title>Science Notes / Borehole Oscillator</title>
-      <link>https://www.gregegan.net/SCIENCE/Borehole/Borehole.html</link>
-      <description>
-        <![CDATA[The page "Science Notes / Borehole Oscillator" has been updated]]>
-      </description>
-      <source:markdown>The page &#34;Science Notes / Borehole Oscillator&#34; has been updated</source:markdown>
-      <guid>cid://0000000226</guid>
-    </item>    <item>
-      <title>Weeknotes: Sept. 13-19, 2025</title>
-      <link>https://tracydurnell.com/2025/09/19/weeknotes-sept-13-19-2025/</link>
-      <description>
-        <![CDATA[Highlight of the week: whipped up some fresh pesto with heirloom tomatoes for lunch one day Looking forward to: hoping to head into the mountains this weekend for a little forest wandering Stuff I did: 0.5 hours consulting 2.5 hours business development 3.75 hours writing &#8212; tried a task-based goal instead of time-based and I [&#8230;]]]>
-      </description>
-      <source:markdown>Highlight of the week: whipped up some fresh pesto with heirloom tomatoes for lunch one day Looking forward to: hoping to head into the mountains this weekend for a little forest wandering Stuff I did: 0.5 hours consulting 2.5 hours business development 3.75 hours writing — tried a task-based goal instead of time-based and I \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=29625</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3lzab2imwo22b</link>
-      <description>
-        <![CDATA[Powerfully stated. https://youtube.com/watch?v=bFa7xcbj3JM&feature=shared]]>
-      </description>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3lzab2imwo22b</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3lzaabr2fjc2b</link>
-      <description>
-        <![CDATA[Good analysis.
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3lzaabr2fjc2b</guid>
-    </item>    <item>
-      <title>iTerm2 Web Browser Profiles</title>
-      <link>https://mjtsai.com/blog/2025/09/19/iterm2-web-browser-profiles/</link>
-      <description>
-        <![CDATA[George Nachman (via Hacker News): iTerm2 includes built-in web browsing capabilities. Web browser sessions fit into iTerm2&#8217;s existing window &#62; tab &#62; split pane hierarchy just like terminal sessions, allowing you to browse the web alongside your terminal work.[&#8230;]Passkeys Not supported due to Apple-imposed WKWebView restrictions.Advanced ad blocking: Limited by Apple&#8217;s resource fetching API restrictions.[&#8230;]This [&#8230;]]]>
-      </description>
-      <source:markdown>George Nachman (via Hacker News): iTerm2 includes built-in web browsing capabilities. Web browser sessions fit into iTerm2’s existing window &#62; tab &#62; split pane hierarchy just like terminal sessions, allowing you to browse the web alongside your terminal work.\[…\]Passkeys Not supported due to Apple-imposed WKWebView restrictions.Advanced ad blocking: Limited by Apple’s resource fetching API restrictions.\[…\]This \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49322</guid>
-    </item>    <item>
-      <title>Third-Party Apps Missing From Tahoe’s Control Center</title>
-      <link>https://mjtsai.com/blog/2025/09/19/third-party-apps-missing-from-tahoes-control-center/</link>
-      <description>
-        <![CDATA[John Voorhees: Before the public beta of Tahoe was ever released, I saw controls for Sequel and MusicHarbor in Control Center. That set my expectations that over the course of the summer I&#8217;d see more.Instead, those controls disappeared with the release of the Tahoe public beta. [&#8230;] September rolled around and third-party controls were still [&#8230;]]]>
-      </description>
-      <source:markdown>John Voorhees: Before the public beta of Tahoe was ever released, I saw controls for Sequel and MusicHarbor in Control Center. That set my expectations that over the course of the summer I’d see more.Instead, those controls disappeared with the release of the Tahoe public beta. \[…\] September rolled around and third-party controls were still \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49320</guid>
-    </item>    <item>
-      <link>https://www.nytimes.com/2025/09/18/opinion/larry-ellison-paramount-cbs-tiktok.html</link>
-      <description>
-        <![CDATA[<p>Larry Ellison Is Closing In on CNN, HBO and TikTok.</p>]]>
-      </description>
-      <source:markdown>Larry Ellison Is Closing In on CNN, HBO and TikTok.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/19/1155/</guid>
-    </item>    <item>
-      <title>mooomooo, your org as data</title>
-      <link>https://memo.mx/posts/mooomooo/</link>
-      <description>
-        <![CDATA[I&rsquo;m currently building mooomooo, driven by my personal frustration with disconnected and manual work that I have to do in JIRA. My vision is to unify software lifecycle management, daily operations, and issue tracking into a single cohesive system that genuinely reflects the current state of an organization. By doing so, mooomooo aims to eliminate tedious manual synchronization and keep teams effortlessly aligned.
-        Many developers and project managers have shared with me (and online!]]>
-      </description>
-      <source:markdown>I’m currently building mooomooo, driven by my personal frustration with disconnected and manual work that I have to do in JIRA. My vision is to unify software lifecycle management, daily operations, and issue tracking into a single cohesive system that genuinely reflects the current state of an organization. By doing so, mooomooo aims to eliminate tedious manual synchronization and keep teams effortlessly aligned.
-Many developers and project managers have shared with me (and online!</source:markdown>
-      <guid>cid://https://memo.mx/posts/mooomooo/</guid>
     </item>
   </channel>
 </rss>
