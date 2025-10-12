@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>12 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>12 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -38,6 +38,53 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <title>The Grand AGI Delusion</title>
+      <link>https://garymarcus.substack.com/p/the-grand-agi-delusion</link>
+      <description>
+        <![CDATA[and a fantastic symposium on AI and society at The Royal Society]]>
+      </description>
+      <source:markdown>and a fantastic symposium on AI and society at The Royal Society</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!pLI9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0bb8078-72e3-4253-99a8-6ac65921909f_1024x1536.png" length="0" type="image/jpeg" />
+      <guid>cid://https://garymarcus.substack.com/p/the-grand-agi-delusion</guid>
+    </item>    <item>
+      <link>https://arstechnica.com/gadgets/2025/10/people-regret-buying-amazon-smart-displays-after-being-bombarded-with-ads/</link>
+      <description>
+        <![CDATA[<p>People regret buying Amazon smart displays after being bombarded with ads.</p>]]>
+      </description>
+      <source:markdown>People regret buying Amazon smart displays after being bombarded with ads.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/12/1501/</guid>
+    </item>    <item>
+      <link>https://snyder.substack.com/p/when-anti-antifa-means-pro-nazi-video?utm_source=podcast-email&#38;publication_id=310897&#38;post_id=175763341&#38;utm_campaign=email-play-on-substack&#38;utm_content=watch_now_button&#38;r=gy53l&#38;triedRedirect=true&#38;utm_medium=email&#38;fbclid=IwY2xjawNY4AVleHRuA2FlbQIxMQBicmlkETExdWNCbWZwOUZlU1kzR3paAR4DJOH7kydc9kqtKkcuAixLPby2S3S02HJXBMbzVTL45nhT8P8LaalwccEciA_aem_PGd-NG5TnQyjHj5KFyFfIQ</link>
+      <description>
+        <![CDATA[<p>When Anti-antifa means Pro-Nazi.</p>]]>
+      </description>
+      <source:markdown>When Anti-antifa means Pro-Nazi.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/12/1499/</guid>
+    </item>    <item>
+      <title>It&#39;s funny because it&#39;s true</title>
+      <link>http://scripting.com/2025/10/12/182108.html?title=itsFunnyBecauseItsTrue</link>
+      <description>
+        <![CDATA[<p>Working on my slides for WordCamp Canada next week.</p>
+        <p>I don't think I'll actually use the F-word in the slide. </p>
+        <p>But it makes me laugh when I see it.</p>
+        <p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/10/12/outsideWordpress.png"></center>It's funny because it's true.</div></p>]]>
+      </description>
+      <source:markdown>Working on my slides for WordCamp Canada next week.
+
+I don&#39;t think I&#39;ll actually use the F-word in the slide.
+
+But it makes me laugh when I see it.
+
+![](https://imgs.scripting.com/2025/10/12/outsideWordpress.png)It&#39;s funny because it&#39;s true.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/12/182108.html</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/12.html#a182015</link>
+      <description>
+        <![CDATA[I'm getting ready for a trip. And part of that is getting my laptop set up so I can post to Scripting News. If you're reading this, it worked.]]>
+      </description>
+      <source:markdown>I&#39;m getting ready for a trip. And part of that is getting my laptop set up so I can post to Scripting News. If you&#39;re reading this, it worked.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/12.html#a182015</guid>
+    </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115362357278831310</link>
       <description>
         <![CDATA[<p>I am still mourning nespresso no longer selling their touch cups.</p><p>I failed to foresee the situation I find myself in.</p>]]>
@@ -51,7 +98,7 @@ I failed to foresee the situation I find myself in.</source:markdown>
       <link>https://simonwillison.net/2025/Oct/12/slashdot/#atom-everything</link>
       <description>
         <![CDATA[<blockquote cite="https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users"><p>Slashdot: What's the reason OneDrive tells users this setting can only be turned off 3 times a year? (And are those any three times — or does that mean three specific days, like Christmas, New Year's Day, etc.)</p>
-        <p><img alt="People section. You can only turn off this setting 3 times a year. OneDrive uses Al to recognize faces in your photos to help you find photos of friends and family. Learn how it works" src="https://static.simonwillison.net/static/2025/one-drive-3-times.jpeg" /></p>
+        <p><img alt="People section. You can only turn off this setting 3 times a year. OneDrive uses Al to recognize faces in your photos to help you find photos of friends and family. Learn how it works" src="https://static.simonwillison.net/static/2025/one-drive-3-times.jpeg" style="max-width: 100%"></p>
         <p>[Microsoft's publicist chose not to answer this question.]</p></blockquote>
         <p class="cite">&mdash; <a href="https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users">Slashdot</a>, asking the <em>obvious</em> question</p>
         
@@ -157,6 +204,10 @@ Tags: [slashdot](https://simonwillison.net/tags/slashdot), [ai-ethics](https://s
       <title>Superpowers 2.0 came out yesterday and might already be obsolete.</title>
       <link>https://blog.fsck.com/2025/10/12/superpowers-20-came-out-yesterday-and-might-already-be-obsolete/</link>
       <guid>cid://https://blog.fsck.com/2025/10/12/superpowers-20-came-out-yesterday-and-might-already-be-obsolete/</guid>
+    </item>    <item>
+      <title>Unintended consequences of prompt framing.</title>
+      <link>https://blog.fsck.com/2025/10/12/unintended-consequences-of-prompt-framing/</link>
+      <guid>cid://https://blog.fsck.com/2025/10/12/unintended-consequences-of-prompt-framing/</guid>
     </item>    <item>
       <title>Scraping Google Calendar events</title>
       <link>https://maxhalford.github.io/blog/google-calendar-scraping/</link>
@@ -5189,6 +5240,14 @@ Jeff GeerlingOctober 7, 2025</source:markdown>
       <title>The “Don’t Ask, Don’t Tell” Era of DEI</title>
       <link>https://anildash.com/2025/10/07/dadt-dei/</link>
       <guid>cid://https://anildash.com/2025/10/07/dadt-dei/</guid>
+    </item>    <item>
+      <title>An initial investigation into WDDM on ReactOS</title>
+      <link>https://reactos.org/blogs/investigating-wddm/</link>
+      <description>
+        <![CDATA[The history of ReactOS spans a wider range than the lives of many of the people who work on it today. Incredible individuals have come and gone from the project with vastly different goals for what they want to see developed. In recent years, better hardware support has emerged as one of those goals. As ReactOS gazes towards the world of Vista and beyond, a few questions about how hardware works emerge.]]>
+      </description>
+      <source:markdown>The history of ReactOS spans a wider range than the lives of many of the people who work on it today. Incredible individuals have come and gone from the project with vastly different goals for what they want to see developed. In recent years, better hardware support has emerged as one of those goals. As ReactOS gazes towards the world of Vista and beyond, a few questions about how hardware works emerge.</source:markdown>
+      <guid>cid://https://reactos.org/blogs/investigating-wddm/</guid>
     </item>    <item>
       <link>https://www.msnbc.com/msnbc/news/top-prosecutor-trump-pressure-charge-new-york-ag-rcna235922</link>
       <description>
