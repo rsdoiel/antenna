@@ -4,10 +4,146 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>13 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>13 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Microsoft&#39;s OneDrive spots your mates, remembers their faces, and won&#39;t forget easily</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/13/microsoft_face_grouping_ondrive/</link>
+      <description>
+        <![CDATA[<h4>Then shalt thee change the setting three times, no more!</h4> <p>Microsoft&#39;s OneDrive is increasing the creepiness quotient by using AI to spot faces in photos and group images accordingly. Don&#39;t worry, it can be turned off – three times a year.…</p>]]>
+      </description>
+      <source:markdown>#### Then shalt thee change the setting three times, no more!
+
+Microsoft&#39;s OneDrive is increasing the creepiness quotient by using AI to spot faces in photos and group images accordingly. Don&#39;t worry, it can be turned off – three times a year.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242445</guid>
+    </item>    <item>
+      <title>Bose kills SoundTouch: Smart speakers go dumb in Feb</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/13/bose_reminds_users_that_nothing/</link>
+      <description>
+        <![CDATA[<h4>Cloud support to be ditched on older hardware, customers left with pricey paperweights</h4> <p>Audio equipment biz Bose is discontinuing cloud support for its SoundTouch product line, effectively reducing the premium devices to basic speakers with limited functionality.…</p>]]>
+      </description>
+      <source:markdown>#### Cloud support to be ditched on older hardware, customers left with pricey paperweights
+
+Audio equipment biz Bose is discontinuing cloud support for its SoundTouch product line, effectively reducing the premium devices to basic speakers with limited functionality.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242443</guid>
+    </item>    <item>
+      <title>Vodafone keels over, cutting off millions of mobile and broadband customers</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/13/vodafone_outage/</link>
+      <description>
+        <![CDATA[<h4>Outage knocks out phones, broadband – even telco&#39;s own status page</h4> <p>Vodafone fell over in the UK this afternoon, with <i>Register</i> readers reporting that many services including mobile coverage, internet services, and even the company&#39;s own status page went down.…</p>]]>
+      </description>
+      <source:markdown>#### Outage knocks out phones, broadband – even telco&#39;s own status page
+
+Vodafone fell over in the UK this afternoon, with _Register_ readers reporting that many services including mobile coverage, internet services, and even the company&#39;s own status page went down.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242449</guid>
+    </item>    <item>
+      <title>Broadcom cozies up to OpenAI for 10 GW custom chip love-in</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/13/openai_broadcom_deal/</link>
+      <description>
+        <![CDATA[<h4>Every human deserves their own accelerator, says ChatGPT creator</h4> <p>Broadcom has cuddled up with OpenAI as the ChatGPT outfit looks for ever more help building out the vast infrastructure it needs to deliver on its dreams of advanced intelligence – and possibly even a profit some day.…</p>]]>
+      </description>
+      <source:markdown>#### Every human deserves their own accelerator, says ChatGPT creator
+
+Broadcom has cuddled up with OpenAI as the ChatGPT outfit looks for ever more help building out the vast infrastructure it needs to deliver on its dreams of advanced intelligence – and possibly even a profit some day.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242447</guid>
+    </item>    <item>
+      <title>Scattered Lapsus$ Hunters rage-quit the internet (again), promise to return next year</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/13/scattered_lapsus_hunters_hiatus/</link>
+      <description>
+        <![CDATA[<h4>&#39;We will never stop,&#39; say crooks, despite retiring twice in the space of a month</h4> <p>The Scattered Lapsus$ Hunters (SLSH) cybercrime collective - compriseed primarily of teenagers and twenty-somethings - announced it will go dark until 2026 following the FBI&#39;s seizure of its clearweb site.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### &#39;We will never stop,&#39; say crooks, despite retiring twice in the space of a month
+
+The Scattered Lapsus$ Hunters (SLSH) cybercrime collective - compriseed primarily of teenagers and twenty-somethings - announced it will go dark until 2026 following the FBI&#39;s seizure of its clearweb site.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242444</guid>
+    </item>    <item>
+      <title>Bun 1.3 stuffs everything and kitchen sink into JS runtime</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/13/bun_13_full_of_features/</link>
+      <description>
+        <![CDATA[<h4>All-in-one toolkit or over-ambitious feature creep? You decide</h4> <p>Version 1.3 of the Bun JavaScript runtime and toolkit has landed, pushing forward the project&#39;s goal to consolidate fragmented JavaScript toolchains into a single solution. Yet the rapid expansion has some developers questioning whether Bun is trying to do too much, too fast.…</p>]]>
+      </description>
+      <source:markdown>#### All-in-one toolkit or over-ambitious feature creep? You decide
+
+Version 1.3 of the Bun JavaScript runtime and toolkit has landed, pushing forward the project&#39;s goal to consolidate fragmented JavaScript toolchains into a single solution. Yet the rapid expansion has some developers questioning whether Bun is trying to do too much, too fast.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242442</guid>
+    </item>    <item>
+      <title>Benioff retreats from idea of sending troops in to clean up San Francisco</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/13/marc_benioffs_new_dream_force/</link>
+      <description>
+        <![CDATA[<h4>Salesforce CEO praises Trump before walking back criticism of city&#39;s policing</h4> <p>San Francisco’s political establishment rounded on Marc Benioff over the weekend after the Salesforce founder backed the idea of sending in the National Guard to clean up the city’s streets.…</p>]]>
+      </description>
+      <source:markdown>#### Salesforce CEO praises Trump before walking back criticism of city&#39;s policing
+
+San Francisco’s political establishment rounded on Marc Benioff over the weekend after the Salesforce founder backed the idea of sending in the National Guard to clean up the city’s streets.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242440</guid>
+    </item>    <item>
+      <title>9front Release released</title>
+      <link>https://www.osnews.com/story/143526/9front-release-released/</link>
+      <description>
+        <![CDATA[The world&#8217;s best operating system, 9front, has released a new release called Release. 9front is a maintained fork of Plan 9. The new release Release brings atomic(2) functions for arm, arm64, mips, 386 and amd64, improved stability when the kernel runs out of memory, memdraw and devdraw now support affine warp primitive, and more. You can download Release from the usual mirrors.]]>
+      </description>
+      <source:markdown>The world’s best operating system, 9front, has released a new release called Release. 9front is a maintained fork of Plan 9. The new release Release brings atomic(2) functions for arm, arm64, mips, 386 and amd64, improved stability when the kernel runs out of memory, memdraw and devdraw now support affine warp primitive, and more. You can download Release from the usual mirrors.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143526</guid>
+    </item>    <item>
+      <title>Researchers Discover the Optimal Way To Optimize</title>
+      <link>https://www.quantamagazine.org/researchers-discover-the-optimal-way-to-optimize-20251013/</link>
+      <description>
+        <![CDATA[The leading approach to the simplex method, a widely used technique for balancing complex logistical constraints, can’t get any better.             <p>The post <a href="https://www.quantamagazine.org/researchers-discover-the-optimal-way-to-optimize-20251013/" target="_blank">Researchers Discover the Optimal Way To Optimize</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>The leading approach to the simplex method, a widely used technique for balancing complex logistical constraints, can’t get any better.
+
+The post [Researchers Discover the Optimal Way To Optimize](https://www.quantamagazine.org/researchers-discover-the-optimal-way-to-optimize-20251013/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=155620</guid>
+    </item>    <item>
+      <title>LineageOS 23 released</title>
+      <link>https://www.osnews.com/story/143524/lineageos-23-released/</link>
+      <description>
+        <![CDATA[The LineageOS project has released version 23 of their AOSP-based Android variant. LineageOS 23 is based on the initial release of Android 16 &#8211; so not the QPR1 release that came later &#8211; because Google has not made the source code for that release available yet. Like other, similar projects, LineageOS also suffers from Google&#8217;s recent further lockdown of Android; not only do they not have access to Android 16 QPR1&#8217;s source code, they also can&#8217;t follow along with the latest security patches for Android due to changes Google made to the patch release process, and without the device trees for Pixel devices, Pixels are now no longer supported any better than other Android devices. LineageOS 23 brings many of the same features Android 16 brought, and comes with updated versions of LineageOS&#8217; own camera application and music player, as well as a new TV launcher. They&#8217;ve also worked hard to make it much easier to run LineageOS in QEMU, they&#8217;ve improved support for running mainline kernels, they&#8217;ve made it easier to merge security fixes and updates for various kernel versions, and much more. Update instructions can be found on the devices page, and specifically note that if you&#8217;re using an unofficial LineageOS build, you&#8217;ll need to perform the original installation again. With LineageOS being the Debian of the Android world, you can expect a ton of these unofficial versions to pop up over the coming months for devices LineageOS does not officially support.]]>
+      </description>
+      <source:markdown>The LineageOS project has released version 23 of their AOSP-based Android variant. LineageOS 23 is based on the initial release of Android 16 – so not the QPR1 release that came later – because Google has not made the source code for that release available yet. Like other, similar projects, LineageOS also suffers from Google’s recent further lockdown of Android; not only do they not have access to Android 16 QPR1’s source code, they also can’t follow along with the latest security patches for Android due to changes Google made to the patch release process, and without the device trees for Pixel devices, Pixels are now no longer supported any better than other Android devices. LineageOS 23 brings many of the same features Android 16 brought, and comes with updated versions of LineageOS’ own camera application and music player, as well as a new TV launcher. They’ve also worked hard to make it much easier to run LineageOS in QEMU, they’ve improved support for running mainline kernels, they’ve made it easier to merge security fixes and updates for various kernel versions, and much more. Update instructions can be found on the devices page, and specifically note that if you’re using an unofficial LineageOS build, you’ll need to perform the original installation again. With LineageOS being the Debian of the Android world, you can expect a ton of these unofficial versions to pop up over the coming months for devices LineageOS does not officially support.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143524</guid>
+    </item>    <item>
+      <title>Android &#39;Pixnapping&#39; attack can capture app data like 2FA codes</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/13/android_pixnapping_attack_captures_2fa_codes/</link>
+      <description>
+        <![CDATA[<h4>GPU-based timing attack inspired by decade-old iframe technique</h4> <p>Security researchers have resurrected a 12-year-old data-stealing attack on web browsers to pilfer sensitive info from Android devices.…</p>]]>
+      </description>
+      <source:markdown>#### GPU-based timing attack inspired by decade-old iframe technique
+
+Security researchers have resurrected a 12-year-old data-stealing attack on web browsers to pilfer sensitive info from Android devices.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242430</guid>
+    </item>    <item>
+      <title>Microsoft &#39;illegally&#39; tracked students via 365 Education, says data watchdog</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/13/microsoft_365_education_gdpr/</link>
+      <description>
+        <![CDATA[<h4>Redmond argued schools, education authorities are responsible for GDPR</h4> <p>An Austrian digital privacy group has claimed victory over Microsoft after the country&#39;s data protection regulator ruled the software giant &#34;illegally&#34; tracked students via its 365 Education platform and used their data.…</p>]]>
+      </description>
+      <source:markdown>#### Redmond argued schools, education authorities are responsible for GDPR
+
+An Austrian digital privacy group has claimed victory over Microsoft after the country&#39;s data protection regulator ruled the software giant &#34;illegally&#34; tracked students via its 365 Education platform and used their data.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242439</guid>
+    </item>    <item>
+      <title>SpaceX limbers up for Starship flight 11 as launch pad faces retirement</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/13/spacex_starship_flight_11/</link>
+      <description>
+        <![CDATA[<h4>Another flawless demonstration or unplanned explosion await</h4> <p>SpaceX is counting down to today&#39;s 11th flight test of its monster Starship rocket, with weather looking suitable for the opening of the launch window at 18:15 CT (or around 17:00 CT, if the company&#39;s billionaire boss is to be believed).…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Another flawless demonstration or unplanned explosion await
+
+SpaceX is counting down to today&#39;s 11th flight test of its monster Starship rocket, with weather looking suitable for the opening of the launch window at 18:15 CT (or around 17:00 CT, if the company&#39;s billionaire boss is to be believed).…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242438</guid>
+    </item>    <item>
+      <title>Datacenter water use? California governor says don&#39;t ask, don&#39;t tell</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/13/california_datacenter_water_bill/</link>
+      <description>
+        <![CDATA[<h4>Bid for transparency on consumption evaporates with Newsom veto</h4> <p>California Governor Gavin Newsom has vetoed legislation requiring data centers to disclose their water consumption, even as he champions efforts to address the state&#39;s water scarcity challenges.…</p>]]>
+      </description>
+      <source:markdown>#### Bid for transparency on consumption evaporates with Newsom veto
+
+California Governor Gavin Newsom has vetoed legislation requiring data centers to disclose their water consumption, even as he champions efforts to address the state&#39;s water scarcity challenges.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242437</guid>
+    </item>    <item>
       <title>China probes Qualcomm&#39;s Autotalks deal amid rising US trade tensions</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/13/qualcomm_autotalks_china_probe/</link>
       <description>
@@ -219,11 +355,11 @@ OpenAI says GPT-5 has 30 percent less political bias than its prior AI models.�
       <title>Managers are throwing entry-level workers under the bus in race to adopt AI</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/ai_is_displacing_entrylevel_professionals/</link>
       <description>
-        <![CDATA[<h4>Does it work? Inconclusive. Still, 55% of business leaders say that adopting AI is worth the impact on workers</h4> <p><strong>ai-pocalypse</strong>  Business leaders are racing to jump aboard the AI bandwagon, and a new study from the British Standards Institute suggests young college grads are being hit hardest.…</p>]]>
+        <![CDATA[<h4>Does it work? Inconclusive. Still, 55% of business leaders say that adopting AI is worth the impact on workers</h4> <p><strong>ai-pocalypse</strong>  Business leaders are racing to jump aboard the AI bandwagon, and a new study from the British Standards Institution suggests young college grads are being hit hardest.…</p>]]>
       </description>
       <source:markdown>#### Does it work? Inconclusive. Still, 55% of business leaders say that adopting AI is worth the impact on workers
 
-**ai-pocalypse**  Business leaders are racing to jump aboard the AI bandwagon, and a new study from the British Standards Institute suggests young college grads are being hit hardest.…</source:markdown>
+**ai-pocalypse**  Business leaders are racing to jump aboard the AI bandwagon, and a new study from the British Standards Institution suggests young college grads are being hit hardest.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242425</guid>
     </item>    <item>
       <title>Scientists Watch Fungi Evolve in Real Time, Thanks to a Marriage Proposal in a Cheese Cave</title>
