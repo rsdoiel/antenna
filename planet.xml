@@ -4,10 +4,42 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>13 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>13 Oct 25 15:08 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Kenny provisionally suspended by the FEI</title>
+      <link>https://www.rte.ie/sport/equestrian/2025/1013/1538382-kenny-provisionally-suspended-by-the-fei/</link>
+      <description>
+        <![CDATA[Irish show jumper Darragh Kenny has been provisionally suspended by the Federation Equestre Internationale (FEI) after testing positive for a banned substance.]]>
+      </description>
+      <source:markdown>Irish show jumper Darragh Kenny has been provisionally suspended by the Federation Equestre Internationale (FEI) after testing positive for a banned substance.</source:markdown>
+      <guid>cid://https://www.rte.ie/sport/equestrian/2025/1013/1538382-kenny-provisionally-suspended-by-the-fei/</guid>
+    </item>    <item>
+      <title>Áras candidates&#39; judgement scrutinised in interviews</title>
+      <link>https://www.rte.ie/news/2025/1013/1538380-aras-candidates-judgment-scrutinised-in-interviews/</link>
+      <description>
+        <![CDATA[Catherine Connolly says she makes considered decisions and Heather Humphreys insisted that she could be trusted to hold the line against outside forces seeking to influence the President in seperate RTÉ interviews.]]>
+      </description>
+      <source:markdown>Catherine Connolly says she makes considered decisions and Heather Humphreys insisted that she could be trusted to hold the line against outside forces seeking to influence the President in seperate RTÉ interviews.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1013/1538380-aras-candidates-judgment-scrutinised-in-interviews/</guid>
+    </item>    <item>
+      <title>First Asian hornet found in Northern Ireland</title>
+      <link>https://www.rte.ie/news/2025/1013/1538375-asian-hornet-northern-ireland/</link>
+      <description>
+        <![CDATA[Northern Ireland has confirmed its first sighting and capture of an Asian hornet.]]>
+      </description>
+      <source:markdown>Northern Ireland has confirmed its first sighting and capture of an Asian hornet.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1013/1538375-asian-hornet-northern-ireland/</guid>
+    </item>    <item>
+      <title>Fota Wildlife to close following suspected bird flu cases</title>
+      <link>https://www.rte.ie/news/2025/1013/1538369-fota-bird-flu/</link>
+      <description>
+        <![CDATA[Fota Wildlife Park in Co Cork will be closed tomorrow following suspected cases of avian flu - commonly known as bird flu.]]>
+      </description>
+      <source:markdown>Fota Wildlife Park in Co Cork will be closed tomorrow following suspected cases of avian flu - commonly known as bird flu.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1013/1538369-fota-bird-flu/</guid>
+    </item>    <item>
       <title>Man arrested following €10.5m cocaine seizure at Rosslare</title>
       <link>https://www.rte.ie/news/2025/1013/1538359-cocaine-seizure-rosslare/</link>
       <description>
@@ -32,6 +64,14 @@
       <source:markdown>Eurovision Song Contest organisers will no longer meet online in November to vote on Israel&#39;s participation in the competition, following Middle East &#34;developments&#34;, the European Broadcasting Union said in an apparent reference to the Gaza ceasefire.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1013/1538356-eurovision-israel-vote/</guid>
     </item>    <item>
+      <title>Sport Ireland critical as Ryan joins Enhanced Games</title>
+      <link>https://www.rte.ie/sport/swimming/2025/1013/1538354-ryan-confirms-hes-joined-controversial-enhanced-games/</link>
+      <description>
+        <![CDATA[Sport Ireland has said it is "deeply disappointed" with the decision of Irish swimmer Shane Ryan to join the Enhanced Games, a controversial competition that permits athletes to take banned performance-enhancing drugs under medical supervision.]]>
+      </description>
+      <source:markdown>Sport Ireland has said it is &#34;deeply disappointed&#34; with the decision of Irish swimmer Shane Ryan to join the Enhanced Games, a controversial competition that permits athletes to take banned performance-enhancing drugs under medical supervision.</source:markdown>
+      <guid>cid://https://www.rte.ie/sport/swimming/2025/1013/1538354-ryan-confirms-hes-joined-controversial-enhanced-games/</guid>
+    </item>    <item>
       <title>Watch: Irish author returns home after Israeli detention</title>
       <link>https://www.rte.ie/news/2025/1013/1538350-naoise-dolan-flotilla/</link>
       <description>
@@ -48,12 +88,12 @@
       <source:markdown>The family of a 75-year-old man who was beaten and robbed by three men at his home and later died from his injuries has told the Central Criminal Court he was unrecognisable after the attack.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1013/1538342-tom-niland/</guid>
     </item>    <item>
-      <title>Palestinians freed from Israeli jails return home</title>
+      <title>President Trump hails &#39;tremendous day for Middle East&#39;</title>
       <link>https://www.rte.ie/news/2025/1013/1538337-palestinians-freed-jail/</link>
       <description>
-        <![CDATA[Thousands of Palestinians have erupted with joy in the southern Gaza city of Khan Younis, as Red Cross buses brought back nearly 1,700 former prisoners.]]>
+        <![CDATA[Hamas has freed the last living Israeli hostages from Gaza under a ceasefire deal and Israel sent home busloads of Palestinian detainees, as US President Donald Trump told Israel's parliament that peace had arrived in the Holy Land.]]>
       </description>
-      <source:markdown>Thousands of Palestinians have erupted with joy in the southern Gaza city of Khan Younis, as Red Cross buses brought back nearly 1,700 former prisoners.</source:markdown>
+      <source:markdown>Hamas has freed the last living Israeli hostages from Gaza under a ceasefire deal and Israel sent home busloads of Palestinian detainees, as US President Donald Trump told Israel&#39;s parliament that peace had arrived in the Holy Land.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1013/1538337-palestinians-freed-jail/</guid>
     </item>    <item>
       <title>Key witness branded a liar as Soldier F trial continues</title>
@@ -64,12 +104,12 @@
       <source:markdown>The trial of a former paratrooper accused of the murder of two civilians on Bloody Sunday has heard a key witness branded a liar.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1013/1538336-soldier-f/</guid>
     </item>    <item>
-      <title>International trade &#39;so important&#39; to Ireland - Humphreys</title>
+      <title>OTB should include ban on services, says Humphreys</title>
       <link>https://www.rte.ie/news/2025/1013/1538327-presidential-election/</link>
       <description>
-        <![CDATA[Fine Gael presidential candidate Heather Humphreys has said she would commit to travelling the world "opening doors for Irish businesses", saying if she goes abroad "she wouldn't let the country down".]]>
+        <![CDATA[Fine Gael presidential candidate Heather Humphreys has said the Occupied Territories Bill should include a ban on services as well as goods from Israeli settlements.]]>
       </description>
-      <source:markdown>Fine Gael presidential candidate Heather Humphreys has said she would commit to travelling the world &#34;opening doors for Irish businesses&#34;, saying if she goes abroad &#34;she wouldn&#39;t let the country down&#34;.</source:markdown>
+      <source:markdown>Fine Gael presidential candidate Heather Humphreys has said the Occupied Territories Bill should include a ban on services as well as goods from Israeli settlements.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1013/1538327-presidential-election/</guid>
     </item>    <item>
       <title>Voting No in a treaty &#39;not a negative thing&#39; - Connolly</title>
@@ -144,7 +184,7 @@
 [Read all](https://www.vaticannews.va/en/world/news/2025-10/joy-in-israel-as-gaza-hostages-released.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/world/news/2025-10/joy-in-israel-as-gaza-hostages-released.html</guid>
     </item>    <item>
-      <title>Gaza: Hostages reported released, aid scale-up has begun, say aid agencies</title>
+      <title>Gaza: Hostages released, aid scale-up begins</title>
       <link>https://news.un.org/feed/view/en/story/2025/10/1166084</link>
       <description>
         <![CDATA[As the UN Secretary-General on Monday welcomed the release of all living hostages from Gaza, aid agencies said that lifesaving relief supplies are now flowing at scale into the shattered enclave.]]>
@@ -162,7 +202,7 @@
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/22-07-2025-WFP-South-Sudan-02.jpg/image560x340cropped.jpg" length="49083" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/10/1166086</guid>
     </item>    <item>
-      <title>Indirect disaster effects cost the world nearly $2 trillion per year, says UN Secretary-General on International Day</title>
+      <title>Indirect disaster effects cost the world nearly $2 trillion per year, Guterres says on International Day</title>
       <link>https://news.un.org/feed/view/en/story/2025/10/1166088</link>
       <description>
         <![CDATA[From 1970 until 2000, the costs of disaster averaged $70-$80 billion. Those mainly preventable costs doubled this century to average $180-$200 billion annually, according to a recent report published by the UN Office for Disaster Risk Reduction (UNDRR).&nbsp;&nbsp;]]>
@@ -170,6 +210,69 @@
       <source:markdown>From 1970 until 2000, the costs of disaster averaged $70-$80 billion. Those mainly preventable costs doubled this century to average $180-$200 billion annually, according to a recent report published by the UN Office for Disaster Risk Reduction (UNDRR).</source:markdown>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/19-09-2025_UNICEF_Pakistan.jpg/image560x340cropped.jpg" length="44969" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/10/1166088</guid>
+    </item>    <item>
+      <title>UN releases $11 million for Gaza aid as ceasefire, hostage release bring ‘fragile hope’</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166094</link>
+      <description>
+        <![CDATA[The UN is stepping up its emergency response in Gaza, releasing $11 million from its Central Emergency Response Fund (CERF) to meet urgent needs before winter – a move that underscores both the expanding humanitarian effort and the funding shortfall threatening to stall it.]]>
+      </description>
+      <source:markdown>The UN is stepping up its emergency response in Gaza, releasing $11 million from its Central Emergency Response Fund (CERF) to meet urgent needs before winter – a move that underscores both the expanding humanitarian effort and the funding shortfall threatening to stall it.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-10-2025-UNICEF-Gaza-02.jpg/image560x340cropped.jpg" length="36476" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166094</guid>
+    </item>    <item>
+      <title>World News in Brief: Record hunger in Haiti, repeated attacks in Sudan’s El Fasher condemned, Maldives medical milestone</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166093</link>
+      <description>
+        <![CDATA[As the humanitarian crisis continues to escalate in Haiti, the World Food Programme (WFP) warned on Monday that women, children and displaced families are disproportionately affected as malnutrition and hunger rise.]]>
+      </description>
+      <source:markdown>As the humanitarian crisis continues to escalate in Haiti, the World Food Programme (WFP) warned on Monday that women, children and displaced families are disproportionately affected as malnutrition and hunger rise.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-10-2025-UNOCHA-Haiti-04.jpg/image560x340cropped.jpg" length="30124" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166093</guid>
+    </item>    <item>
+      <title>The ‘food heroes’ cultivating global change</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166092</link>
+      <description>
+        <![CDATA[People around the world who are transforming food systems in their local communities are being recognised and supported by the UN’s Food and Agriculture Organization (FAO).]]>
+      </description>
+      <source:markdown>People around the world who are transforming food systems in their local communities are being recognised and supported by the UN’s Food and Agriculture Organization (FAO).</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-02-2022_FAO_Sierra-Leone-01.jpg/image560x340cropped.jpg" length="64182" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166092</guid>
+    </item>    <item>
+      <title>‘We resist by simply existing on the land’: Ramallah mayor on life under occupation</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166085</link>
+      <description>
+        <![CDATA[Ramallah, in the Occupied Palestinian Territory of the West Bank, is a bustling urban centre, but it is ringed by barriers and checkpoints which dominate every aspect of life. Speaking at the UN&nbsp;Forum of Mayors in Geneva, Issa Kassis, the mayor of Ramallah, says that the challenges faced by city leaders are amplified by conflict and occupation.]]>
+      </description>
+      <source:markdown>Ramallah, in the Occupied Palestinian Territory of the West Bank, is a bustling urban centre, but it is ringed by barriers and checkpoints which dominate every aspect of life. Speaking at the UN Forum of Mayors in Geneva, Issa Kassis, the mayor of Ramallah, says that the challenges faced by city leaders are amplified by conflict and occupation.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/13-10-2025-UNECE-Issa-Kassis.jpg/image560x340cropped.jpg" length="30900" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166085</guid>
+    </item>    <item>
+      <title>DR Congo: UN envoy points to ‘real hope’ for ceasefire and peace in the east</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166090</link>
+      <description>
+        <![CDATA[There is now “real hope” for a ceasefire which would pave the way for a lasting and definitive settlement of the conflict in the eastern Democratic Republic of the Congo (DRC), the UN Special Envoy for the Great Lakes Region of Africa, Huang Xia, told the Security Council on Monday.&nbsp;]]>
+      </description>
+      <source:markdown>There is now “real hope” for a ceasefire which would pave the way for a lasting and definitive settlement of the conflict in the eastern Democratic Republic of the Congo (DRC), the UN Special Envoy for the Great Lakes Region of Africa, Huang Xia, told the Security Council on Monday.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/08-07-2025-IOM-DR-Congo-02.jpg/image560x340cropped.jpg" length="41530" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166090</guid>
+    </item>    <item>
+      <title>Trade, debt and investment at the heart of upcoming UN meeting, as global unpredictability hits people’s livelihoods</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166089</link>
+      <description>
+        <![CDATA[The world’s poorest are being squeezed by trade uncertainty, heavy debt burdens and falling investment, the UN trade and development agency UNCTAD warned a week before ministers gather in Geneva for its largest meeting in four years.&nbsp;]]>
+      </description>
+      <source:markdown>The world’s poorest are being squeezed by trade uncertainty, heavy debt burdens and falling investment, the UN trade and development agency UNCTAD warned a week before ministers gather in Geneva for its largest meeting in four years.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/20-06-2025-ADB-Bhutan.jpg/image560x340cropped.jpg" length="54539" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166089</guid>
+    </item>    <item>
+      <title>Antibiotic resistance surges globally, UN health agency warns</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166087</link>
+      <description>
+        <![CDATA[Common infections are becoming harder – and sometimes impossible – to treat, the UN World Health Organization (WHO) warned on Monday, as new data show that one in six bacterial infections globally are resistant to standard antibiotics, endangering millions and straining health systems worldwide.]]>
+      </description>
+      <source:markdown>Common infections are becoming harder – and sometimes impossible – to treat, the UN World Health Organization (WHO) warned on Monday, as new data show that one in six bacterial infections globally are resistant to standard antibiotics, endangering millions and straining health systems worldwide.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/13-10-2025-UNICEF-India_Hospital.jpg/image560x340cropped.jpg" length="30205" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166087</guid>
     </item>    <item>
       <title>Pope: Vatican diplomacy a way to let Christ shine forth in humility</title>
       <link>https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-xiv-holy-see-diplomats-cardinal-merry-del-val.html</link>
@@ -295,7 +398,7 @@ Canadian economist Peter Howitt is among a group of three researchers who won th
       <source:markdown>Car manufacturers decided they would &#34;rather cheat than comply with the law&#34; over vehicle emissions, the High Court has heard, in what is the biggest legal action of its kind in English history.</source:markdown>
       <guid>cid://https://www.rte.ie/news/business/2025/1013/1538216-several-carmakers-face-key-trial-in-uk-lawsuits/</guid>
     </item>    <item>
-      <title>US and mediators sign Gaza ceasefire declaration</title>
+      <title>As it happened: Mediators sign Gaza ceasefire agreement</title>
       <link>https://www.rte.ie/news/2025/1013/1538209-israel-gaza-blog/</link>
       <description>
         <![CDATA[Follow all the latest developments as world leaders meet in Egypt for a summit on Gaza.]]>
@@ -303,12 +406,12 @@ Canadian economist Peter Howitt is among a group of three researchers who won th
       <source:markdown>Follow all the latest developments as world leaders meet in Egypt for a summit on Gaza.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1013/1538209-israel-gaza-blog/</guid>
     </item>    <item>
-      <title>Two arrested after death of man in Cork village</title>
+      <title>Three arrested after death of man in Cork village</title>
       <link>https://www.rte.ie/news/munster/2025/1013/1538191-cork-fatal-assault/</link>
       <description>
-        <![CDATA[Two people have been arrested in connection with the death of a man outside his home in Co Cork.]]>
+        <![CDATA[Gardaí investigating the death of a man in the north Cork village of Doneraile in the early hours of yesterday morning have arrested a third person for questioning.]]>
       </description>
-      <source:markdown>Two people have been arrested in connection with the death of a man outside his home in Co Cork.</source:markdown>
+      <source:markdown>Gardaí investigating the death of a man in the north Cork village of Doneraile in the early hours of yesterday morning have arrested a third person for questioning.</source:markdown>
       <guid>cid://https://www.rte.ie/news/munster/2025/1013/1538191-cork-fatal-assault/</guid>
     </item>    <item>
       <title>&#39;Some confusion&#39; over off-grid power back-up systems</title>

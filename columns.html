@@ -3,10 +3,10 @@
 <head>
   <meta charset="utf-8" >
   <meta name="generator" content="antenna/0.0.12" >
-  <meta content="2025-10-13T11:08:57-07:00" name="date" >
-  <link rel="stylesheet" href="css/site.css" >
+  <meta name="date" content="2025-10-13T15:08:43-07:00" >
+  <link href="css/site.css" rel="stylesheet" >
   <link rel="alternate" type="application/rss+xml" href="columns.xml" >
-  <script type="module" src="modules/date_filter.js" ></script>
+  <script src="modules/date_filter.js" type="module" ></script>
 </head>
 <body>
   <header>
@@ -57,13 +57,176 @@
       </address>
     </article>
 
+    <article data-published="2025-10-13T21:42:07Z" data-link="https://www.mux.com/video-api?utm_campaign=fireball&utm_source=DF">
+      <h1>[Sponsor] Mux: Video API for Developers</h1>
+
+(date: 2025-10-13)
+      <p>
+      
+      <address>
+        <a href="https://www.mux.com/video-api?utm_campaign=fireball&utm_source=DF">https://www.mux.com/video-api?utm_campaign=fireball&utm_source=DF</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-13T21:31:05Z" data-link="https://www.mediaite.com/politics/inherently-corrupting-obama-condemns-trump-sending-national-guard-to-chicago-says-potus-has-damaged-democracy/">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-10-13)
+      <p>
+      <p>Obama Slams Trump For Sending National Guard to Chicago.</p>
+
+      <address>
+        <a href="https://www.mediaite.com/politics/inherently-corrupting-obama-condemns-trump-sending-national-guard-to-chicago-says-potus-has-damaged-democracy/">https://www.mediaite.com/politics/inherently-corrupting-obama-condemns-trump-sending-national-guard-to-chicago-says-potus-has-damaged-democracy/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-13T21:30:36Z" data-link="https://steady.substack.com/p/good-work-if-you-can-keep-it">
+      <h1>Good Work If You Can Keep It</h1>
+
+(date: 2025-10-13)
+      <p>
+      <p>Before Trump dismantled the bureaucracy, working for the government was an honorable job</p>
+
+      <address>
+        <a href="https://steady.substack.com/p/good-work-if-you-can-keep-it">https://steady.substack.com/p/good-work-if-you-can-keep-it</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-13T20:47:52Z" data-link="https://adactio.com/notes/22187">
+      <h1>Monday session</h1>
+
+(date: 2025-10-13)
+      <p>
+      <p><img src="https://adactio.com/images/uploaded/22187/small.jpg" alt="Monday session"></p>
+<p>Monday session</p>
+
+      <address>
+        <a href="https://adactio.com/notes/22187">https://adactio.com/notes/22187</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-13T20:29:58Z" data-link="https://simonwillison.net/2025/Oct/13/nanochat/#atom-everything">
+      <h1>nanochat</h1>
+
+(date: 2025-10-13)
+      <p>
+      <p><strong><a href="https://github.com/karpathy/nanochat">nanochat</a></strong></p>
+<p>Really interesting new project from Andrej Karpathy, described at length <a href="https://github.com/karpathy/nanochat/discussions/1">in this discussion post</a>.</p>
+<p>It provides a full ChatGPT-style LLM, including training, inference and a web Ui, that can be trained for as little as $100:</p>
+<blockquote>
+<p>This repo is a full-stack implementation of an LLM like ChatGPT in a single, clean, minimal, hackable, dependency-lite codebase.</p>
+</blockquote>
+<p>It's around 8,000 lines of code, mostly Python (using PyTorch) plus a little bit of Rust for <a href="https://github.com/karpathy/nanochat/tree/master/rustbpe">training the tokenizer</a>.</p>
+<p>Andrej suggests renting a 8XH100 NVIDA node for around <span class="math inline">\(24/ hour to train the model. 4 hours (~\)</span>100) is enough to get a model that can hold a conversation - <a href="https://twitter.com/karpathy/status/1977755430093980034">almost coherent example here</a>. Run it for 12 hours and you get something that slightly outperforms GPT-2. I'm looking forward to hearing results from longer training runs!</p>
+<p>The model defaults to training on ~24GB from <a href="https://huggingface.co/datasets/karpathy/fineweb-edu-100b-shuffle">karpathy/fineweb-edu-100b-shuffle</a> derived from <a href="https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu">FineWeb-Edu</a>, and then <a href="https://github.com/karpathy/nanochat/blob/5fd0b138860a76beb60cf099fa46f74191b50941/scripts/mid_train.py">midtrains</a> on 568K examples from <a href="https://huggingface.co/datasets/HuggingFaceTB/smol-smoltalk">SmolTalk</a> (460K), <a href="https://huggingface.co/datasets/cais/mmlu">MMLU auxiliary train</a> (100K), and <a href="https://huggingface.co/datasets/openai/gsm8k">GSM8K</a> (8K), followed by <a href="https://github.com/karpathy/nanochat/blob/5fd0b138860a76beb60cf099fa46f74191b50941/scripts/chat_sft.py">supervised finetuning</a> on 21.4K examples from <a href="https://huggingface.co/datasets/allenai/ai2_arc#arc-easy-1">ARC-Easy</a> (2.3K), <a href="https://huggingface.co/datasets/allenai/ai2_arc#arc-challenge">ARC-Challenge</a> (1.1K), <a href="https://huggingface.co/datasets/openai/gsm8k">GSM8K</a> (8K), and <a href="https://huggingface.co/datasets/HuggingFaceTB/smol-smoltalk">SmolTalk</a> (10K).</p>
+<p>Here's the code for the <a href="https://github.com/karpathy/nanochat/blob/5fd0b138860a76beb60cf099fa46f74191b50941/scripts/chat_web.py">web server</a>, which is fronted by this pleasantly succinct vanilla JavaScript <a href="https://github.com/karpathy/nanochat/blob/5fd0b138860a76beb60cf099fa46f74191b50941/nanochat/ui.html">HTML+JavaScript frontend</a>.</p>
+<p>Via <a href="https://twitter.com/karpathy/status/1977755427569111362">@karpathy</a></p>
+<p>Tags: <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/rust">rust</a>, <a href="https://simonwillison.net/tags/pytorch">pytorch</a>, <a href="https://simonwillison.net/tags/andrej-karpathy">andrej-karpathy</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/training-data">training-data</a>, <a href="https://simonwillison.net/tags/gpus">gpus</a></p>
+
+      <address>
+        <a href="https://simonwillison.net/2025/Oct/13/nanochat/#atom-everything">https://simonwillison.net/2025/Oct/13/nanochat/#atom-everything</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-13T20:11:24Z" data-link="https://a.wholelottanothing.org/recent-camping-and-travel-reviews/">
+      <h1>Recent camping and travel discoveries</h1>
+
+(date: 2025-10-13)
+      <p>
+      <p>Let's be real: camping can be uncomfortable and unpleasant, which is why a lot of people might not do it. Sometimes, it even sucks, especially when it unexpectedly rains, so anything I find that takes the edge off of &quot;roughing it&quot; is welcome to me.</p>
+<p>After</p>
+
+      <address>
+        <a href="https://a.wholelottanothing.org/recent-camping-and-travel-reviews/">https://a.wholelottanothing.org/recent-camping-and-travel-reviews/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-13T20:05:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3m33z6m3kik2o">
+      <h1>@Robert's feed at BlueSky</h1>
+
+(date: 2025-10-13)
+      <p>
+      <p>Thread to read. 👇</p>
+<p>[contains quote post or other embedded content]</p>
+
+      <address>
+        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3m33z6m3kik2o">https://bsky.app/profile/rsdoiel.bsky.social/post/3m33z6m3kik2o</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-13T20:03:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3m33z3y4vtk2o">
+      <h1>@Robert's feed at BlueSky</h1>
+
+(date: 2025-10-13)
+      <p>
+      <p>Made me smile.</p>
+<p>[contains quote post or other embedded content]</p>
+
+      <address>
+        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3m33z3y4vtk2o">https://bsky.app/profile/rsdoiel.bsky.social/post/3m33z3y4vtk2o</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-13T20:01:57Z" data-link="https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/">
+      <h1>Parking Signs</h1>
+
+(date: 2025-10-13)
+      <p>
+      <p>If you want to print out a poster for <a href="https://www.nokings.org">October 18th</a>, here are two; fully-guaranteed countrywide but maybe especially suitable for in and around New York.</p>
+<p><a href="https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/no-king.jpg"><img src="https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/no-king.jpg" alt="No King Anytime sign"></a></p>
+<p>No King Anytime sign</p>
+<p><a href="https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/two-term.jpg"><img src="https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/two-term.jpg" alt="Two Term Limit sign"></a></p>
+<p>Two Term Limit sign</p>
+<p>Here’s a direct link to the <a href="no-king.jpg">No King Anytime</a> JPG and the <a href="two-term.jpg">Two Term Limit</a> JPG. These are available as PDFs, as well (vector outlines; no worries about fonts): here’s the <a href="no-king.pdf">No King Anytime</a> PDF and the <a href="two-term.pdf">Two Term Limit</a> PDF. Put them onna stick and exercise the constitutional rights to freedom of expression, speech, and assembly enjoyed by <a href="https://kieranhealy.org/blog/archives/2025/06/28/american/">everyone in the United States</a>.</p>
+
+      <address>
+        <a href="https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/">https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-13T19:28:17Z" data-link="https://heathercoxrichardson.substack.com/p/october-12-2025-582">
+      <h1>October 12, 2025</h1>
+
+(date: 2025-10-13)
+      <p>
+      
+      <address>
+        <a href="https://heathercoxrichardson.substack.com/p/october-12-2025-582">https://heathercoxrichardson.substack.com/p/october-12-2025-582</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-13T18:30:26Z" data-link="https://www.palomitademaiz.net/resenas-los-anos-de-fierro/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-los-anos-de-fierro">
+      <h1>Los años de Fierro: el cine como acto de memoria</h1>
+
+(date: 2025-10-13)
+      <p>
+      <p>Dirección: Santiago Esteinou. Guion: Santiago Esteinou. Países: México, Alemania, Canadá, Estados Unidos. Más información de la película: <a href="https://www.imdb.com/title/tt3689012/">https://www.imdb.com/title/tt3689012/</a> En un mundo que se mueve tan rápido que apenas alcanza para mirar al de al lado, el cine sigue siendo el refugio de las historias incómodas, dolorosas y necesarias. Los años de Fierro es justo eso: […]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-los-anos-de-fierro/">Los años de Fierro: el cine como acto de memoria</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+
+      <address>
+        <a href="https://www.palomitademaiz.net/resenas-los-anos-de-fierro/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-los-anos-de-fierro">https://www.palomitademaiz.net/resenas-los-anos-de-fierro/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-los-anos-de-fierro</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-13T18:26:45Z" data-link="https://feed.tedium.co/link/15204/17184916/omarchy-linux-distro-commentary">
+      <h1>The Hyped Distro</h1>
+
+(date: 2025-10-13)
+      <p>
+      <p>A guy stuck in a cabin with weak internet decides to try out Omarchy and learns some stuff along the way. Will the learning curve turn you off, or the inherent ethical issues?</p>
+
+      <address>
+        <a href="https://feed.tedium.co/link/15204/17184916/omarchy-linux-distro-commentary">https://feed.tedium.co/link/15204/17184916/omarchy-linux-distro-commentary</a>
+      </address>
+    </article>
+
     <article data-published="2025-10-13T16:36:38Z" data-link="https://www.schneier.com/blog/archives/2025/10/rewiring-democracy-is-coming-soon.html">
       <h1>Rewiring Democracy is Coming Soon</h1>
 
 (date: 2025-10-13)
       <p>
-      <p>My latest book, <em>Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship</em>, will be published in just over a week. No reviews yet, but can read chapters <a href="https://pghrev.com/being-a-politician/">12</a> and <!-- raw HTML omitted -->34 (of <a href="https://www.schneier.com/books/table-of-contents/">43 chapters</a> total).</p>
-<p>You can order the book pretty much everywhere, and a copy signed by me <!-- raw HTML omitted -->here.</p>
+      <p>My latest book, <em>Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship</em>, will be published in just over a week. No reviews yet, but can read chapters <a href="https://pghrev.com/being-a-politician/">12</a> and <a href="https://newpublic.substack.com/p/2ddffc17-a033-4f98-83fa-11376b30c6cd">34</a> (of <a href="https://www.schneier.com/books/table-of-contents/">43 chapters</a> total).</p>
+<p>You can order the book pretty much everywhere, and a copy signed by me <a href="https://www.schneier.com/product/rewiring-democracy-hardcover/">here</a>.</p>
 <p>Please help spread the word. I want this book to make a splash when it’s public. Leave a review on whatever site you buy it from. Or make a TikTok video. Or do whatever you kids do these days. Is anyone a SlashDot contributor? I’d like the book to be announced there...</p>
 
       <address>
@@ -1592,7 +1755,7 @@ cem analyze
 (date: 2025-10-10)
       <p>
       <p><strong><a href="https://github.com/simonw/claude-skills">simonw/claude-skills</a></strong></p>
-<p>One of the tips I picked up from Jesse Vincent's Claude Code Superpowers post ( <a href="https://simonwillison.net/2025/Oct/10/superpowers/">previously</a>) was this:</p>
+<p>One of the tips I picked up from <a href="https://blog.fsck.com/2025/10/09/superpowers/">Jesse Vincent's Claude Code Superpowers post</a> ( <a href="https://simonwillison.net/2025/Oct/10/superpowers/">previously</a>) was this:</p>
 <blockquote>
 <p>Skills are what give your agents Superpowers.</p>
 <p>The first time they really popped up on my radar was a few weeks ago when Anthropic rolled out improved Office document creation. When the feature rolled out, I went poking around a bit -- I asked Claude to tell me all about its new skills. And it was <a href="https://claude.ai/share/0fe5a9c0-4e5a-42a1-9df7-c5b7636dad92">only too happy to dish</a>.</p>
@@ -7441,6 +7604,17 @@ As the search engine has been up to this point built with English in mind, some 
 
       <address>
         <a href="https://variety.com/2025/tv/news/white-house-responds-snl-trump-brendan-carr-fcc-late-night-1236540655/">https://variety.com/2025/tv/news/white-house-responds-snl-trump-brendan-carr-fcc-late-night-1236540655/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-05T21:17:52Z" data-link="https://www.marketplace.spglobal.com/en/solutions/metadata-marketplace-(d4ef915d-a8f4-4bf5-b8da-5cbce63db415)?utm_source=display&utm_medium=daringfireball&utm_campaign=11921-AD-2509-GL-CT-DR-All-DCD-EDODaringFireball">
+      <h1>S&P Global</h1>
+
+(date: 2025-10-05)
+      <p>
+      
+      <address>
+        <a href="https://www.marketplace.spglobal.com/en/solutions/metadata-marketplace-(d4ef915d-a8f4-4bf5-b8da-5cbce63db415)?utm_source=display&utm_medium=daringfireball&utm_campaign=11921-AD-2509-GL-CT-DR-All-DCD-EDODaringFireball">https://www.marketplace.spglobal.com/en/solutions/metadata-marketplace-(d4ef915d-a8f4-4bf5-b8da-5cbce63db415)?utm_source=display&utm_medium=daringfireball&utm_campaign=11921-AD-2509-GL-CT-DR-All-DCD-EDODaringFireball</a>
       </address>
     </article>
 
@@ -13512,17 +13686,6 @@ Grab some popcorn and enjoy an entertaining presentation with a surprise ending!
       
       <address>
         <a href="https://heathercoxrichardson.substack.com/p/september-28-2025-bd9">https://heathercoxrichardson.substack.com/p/september-28-2025-bd9</a>
-      </address>
-    </article>
-
-    <article data-published="2025-09-29T20:14:44Z" data-link="https://www.marketplace.spglobal.com/en/solutions/metadata-marketplace-(d4ef915d-a8f4-4bf5-b8da-5cbce63db415)?utm_source=display&utm_medium=daringfireball&utm_campaign=11921-AD-2509-GL-CT-DR-All-DCD-EDODaringFireball">
-      <h1>[Sponsor] S&P Global</h1>
-
-(date: 2025-09-29)
-      <p>
-      
-      <address>
-        <a href="https://www.marketplace.spglobal.com/en/solutions/metadata-marketplace-(d4ef915d-a8f4-4bf5-b8da-5cbce63db415)?utm_source=display&utm_medium=daringfireball&utm_campaign=11921-AD-2509-GL-CT-DR-All-DCD-EDODaringFireball">https://www.marketplace.spglobal.com/en/solutions/metadata-marketplace-(d4ef915d-a8f4-4bf5-b8da-5cbce63db415)?utm_source=display&utm_medium=daringfireball&utm_campaign=11921-AD-2509-GL-CT-DR-All-DCD-EDODaringFireball</a>
       </address>
     </article>
 

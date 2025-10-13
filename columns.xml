@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>13 Oct 25 11:08 -0700</lastBuildDate>
+    <lastBuildDate>13 Oct 25 15:08 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -38,16 +38,176 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <title>[Sponsor] Mux: Video API for Developers</title>
+      <link>https://www.mux.com/video-api?utm_campaign=fireball&#38;utm_source=DF</link>
+      <guid>cid://tag:daringfireball.net,2025:/feeds/sponsors//11.42266</guid>
+    </item>    <item>
+      <link>https://www.mediaite.com/politics/inherently-corrupting-obama-condemns-trump-sending-national-guard-to-chicago-says-potus-has-damaged-democracy/</link>
+      <description>
+        <![CDATA[<p>Obama Slams Trump For Sending National Guard to Chicago.</p>]]>
+      </description>
+      <source:markdown>Obama Slams Trump For Sending National Guard to Chicago.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/13/1515/</guid>
+    </item>    <item>
+      <title>Good Work If You Can Keep It</title>
+      <link>https://steady.substack.com/p/good-work-if-you-can-keep-it</link>
+      <description>
+        <![CDATA[Before Trump dismantled the bureaucracy, working for the government was an honorable job]]>
+      </description>
+      <source:markdown>Before Trump dismantled the bureaucracy, working for the government was an honorable job</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!9kx_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4fa261c-c373-4ee1-92e3-1e3734c6f32b_1024x683.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/good-work-if-you-can-keep-it</guid>
+    </item>    <item>
+      <title>Monday session</title>
+      <link>https://adactio.com/notes/22187</link>
+      <description>
+        <![CDATA[<img src="https://adactio.com/images/uploaded/22187/small.jpg" srcset="https://adactio.com/images/uploaded/22187/medium.jpg 1.5x, https://adactio.com/images/uploaded/22187/large.jpg 2.5x" alt="Monday session" />
+        <p>Monday session</p>]]>
+      </description>
+      <source:markdown>![Monday session](https://adactio.com/images/uploaded/22187/small.jpg)
+
+Monday session</source:markdown>
+      <guid>cid://https://adactio.com/notes/22187</guid>
+    </item>    <item>
+      <title>nanochat</title>
+      <link>https://simonwillison.net/2025/Oct/13/nanochat/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://github.com/karpathy/nanochat">nanochat</a></strong></p>
+        Really interesting new project from Andrej Karpathy, described at length <a href="https://github.com/karpathy/nanochat/discussions/1">in this discussion post</a>.</p>
+        <p>It provides a full ChatGPT-style LLM, including training, inference and a web Ui, that can be trained for as little as $100:</p>
+        <blockquote>
+        <p>This repo is a full-stack implementation of an LLM like ChatGPT in a single, clean, minimal, hackable, dependency-lite codebase.</p>
+        </blockquote>
+        <p>It's around 8,000 lines of code, mostly Python (using PyTorch) plus a little bit of Rust for <a href="https://github.com/karpathy/nanochat/tree/master/rustbpe">training the tokenizer</a>.</p>
+        <p>Andrej suggests renting a 8XH100 NVIDA node for around $24/ hour to train the model. 4 hours (~$100) is enough to get a model that can hold a conversation - <a href="https://twitter.com/karpathy/status/1977755430093980034">almost coherent example here</a>. Run it for 12 hours and you get something that slightly outperforms GPT-2. I'm looking forward to hearing results from longer training runs!</p>
+        <p>The model defaults to training on ~24GB from <a href="https://huggingface.co/datasets/karpathy/fineweb-edu-100b-shuffle">karpathy/fineweb-edu-100b-shuffle</a> derived from <a href="https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu">FineWeb-Edu</a>, and then <a href="https://github.com/karpathy/nanochat/blob/5fd0b138860a76beb60cf099fa46f74191b50941/scripts/mid_train.py">midtrains</a> on 568K examples from <a href="https://huggingface.co/datasets/HuggingFaceTB/smol-smoltalk">SmolTalk</a> (460K), <a href="https://huggingface.co/datasets/cais/mmlu">MMLU auxiliary train</a> (100K), and <a href="https://huggingface.co/datasets/openai/gsm8k">GSM8K</a> (8K), followed by <a href="https://github.com/karpathy/nanochat/blob/5fd0b138860a76beb60cf099fa46f74191b50941/scripts/chat_sft.py">supervised finetuning</a> on 21.4K examples from <a href="https://huggingface.co/datasets/allenai/ai2_arc#arc-easy-1">ARC-Easy</a> (2.3K), <a href="https://huggingface.co/datasets/allenai/ai2_arc#arc-challenge">ARC-Challenge</a> (1.1K), <a href="https://huggingface.co/datasets/openai/gsm8k">GSM8K</a> (8K), and <a href="https://huggingface.co/datasets/HuggingFaceTB/smol-smoltalk">SmolTalk</a> (10K).</p>
+        <p>Here's the code for the <a href="https://github.com/karpathy/nanochat/blob/5fd0b138860a76beb60cf099fa46f74191b50941/scripts/chat_web.py">web server</a>, which is fronted by this pleasantly succinct vanilla JavaScript <a href="https://github.com/karpathy/nanochat/blob/5fd0b138860a76beb60cf099fa46f74191b50941/nanochat/ui.html">HTML+JavaScript frontend</a>.
+        
+            <p><small></small>Via <a href="https://twitter.com/karpathy/status/1977755427569111362">@karpathy</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/rust">rust</a>, <a href="https://simonwillison.net/tags/pytorch">pytorch</a>, <a href="https://simonwillison.net/tags/andrej-karpathy">andrej-karpathy</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/training-data">training-data</a>, <a href="https://simonwillison.net/tags/gpus">gpus</a></p>]]>
+      </description>
+      <source:markdown>**[nanochat](https://github.com/karpathy/nanochat)**
+
+Really interesting new project from Andrej Karpathy, described at length [in this discussion post](https://github.com/karpathy/nanochat/discussions/1).
+
+It provides a full ChatGPT-style LLM, including training, inference and a web Ui, that can be trained for as little as $100:
+
+&#62; This repo is a full-stack implementation of an LLM like ChatGPT in a single, clean, minimal, hackable, dependency-lite codebase.
+
+It&#39;s around 8,000 lines of code, mostly Python (using PyTorch) plus a little bit of Rust for [training the tokenizer](https://github.com/karpathy/nanochat/tree/master/rustbpe).
+
+Andrej suggests renting a 8XH100 NVIDA node for around $24/ hour to train the model. 4 hours (~$100) is enough to get a model that can hold a conversation - [almost coherent example here](https://twitter.com/karpathy/status/1977755430093980034). Run it for 12 hours and you get something that slightly outperforms GPT-2. I&#39;m looking forward to hearing results from longer training runs!
+
+The model defaults to training on ~24GB from [karpathy/fineweb-edu-100b-shuffle](https://huggingface.co/datasets/karpathy/fineweb-edu-100b-shuffle) derived from [FineWeb-Edu](https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu), and then [midtrains](https://github.com/karpathy/nanochat/blob/5fd0b138860a76beb60cf099fa46f74191b50941/scripts/mid_train.py) on 568K examples from [SmolTalk](https://huggingface.co/datasets/HuggingFaceTB/smol-smoltalk) (460K), [MMLU auxiliary train](https://huggingface.co/datasets/cais/mmlu) (100K), and [GSM8K](https://huggingface.co/datasets/openai/gsm8k) (8K), followed by [supervised finetuning](https://github.com/karpathy/nanochat/blob/5fd0b138860a76beb60cf099fa46f74191b50941/scripts/chat_sft.py) on 21.4K examples from [ARC-Easy](https://huggingface.co/datasets/allenai/ai2_arc#arc-easy-1) (2.3K), [ARC-Challenge](https://huggingface.co/datasets/allenai/ai2_arc#arc-challenge) (1.1K), [GSM8K](https://huggingface.co/datasets/openai/gsm8k) (8K), and [SmolTalk](https://huggingface.co/datasets/HuggingFaceTB/smol-smoltalk) (10K).
+
+Here&#39;s the code for the [web server](https://github.com/karpathy/nanochat/blob/5fd0b138860a76beb60cf099fa46f74191b50941/scripts/chat_web.py), which is fronted by this pleasantly succinct vanilla JavaScript [HTML+JavaScript frontend](https://github.com/karpathy/nanochat/blob/5fd0b138860a76beb60cf099fa46f74191b50941/nanochat/ui.html).
+
+
+
+Via [@karpathy](https://twitter.com/karpathy/status/1977755427569111362)
+
+Tags: [python](https://simonwillison.net/tags/python), [ai](https://simonwillison.net/tags/ai), [rust](https://simonwillison.net/tags/rust), [pytorch](https://simonwillison.net/tags/pytorch), [andrej-karpathy](https://simonwillison.net/tags/andrej-karpathy), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [training-data](https://simonwillison.net/tags/training-data), [gpus](https://simonwillison.net/tags/gpus)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/13/nanochat/#atom-everything</guid>
+    </item>    <item>
+      <title>Recent camping and travel discoveries</title>
+      <link>https://a.wholelottanothing.org/recent-camping-and-travel-reviews/</link>
+      <description>
+        <![CDATA[<p>Let&apos;s be real: camping can be uncomfortable and unpleasant, which is why a lot of people might not do it. Sometimes, it even sucks, especially when it unexpectedly rains, so anything I find that takes the edge off of &quot;roughing it&quot; is welcome to me. </p><p>After</p>]]>
+      </description>
+      <source:markdown>Let&#39;s be real: camping can be uncomfortable and unpleasant, which is why a lot of people might not do it. Sometimes, it even sucks, especially when it unexpectedly rains, so anything I find that takes the edge off of &#34;roughing it&#34; is welcome to me.
+
+After</source:markdown>
+      <guid>cid://68ed4b822f2e4d0001bb6054</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m33z6m3kik2o</link>
+      <description>
+        <![CDATA[Thread to read. 👇
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>Thread to read. 👇
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m33z6m3kik2o</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m33z3y4vtk2o</link>
+      <description>
+        <![CDATA[Made me smile.
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>Made me smile.
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m33z3y4vtk2o</guid>
+    </item>    <item>
+      <title>Parking Signs</title>
+      <link>https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/</link>
+      <description>
+        <![CDATA[<p>If you want to print out a poster for <a href="https://www.nokings.org">October 18th</a>, here are two; fully-guaranteed countrywide but maybe especially suitable for in and around New York.</p>
+        <figure><a href="https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/no-king.jpg" data-fancybox>
+            <img src="https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/no-king.jpg"
+                 alt="No King Anytime sign"/></a><figcaption>
+                    <p>No King Anytime sign</p>
+                </figcaption>
+        </figure>
+        <figure><a href="https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/two-term.jpg" data-fancybox>
+            <img src="https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/two-term.jpg"
+                 alt="Two Term Limit sign"/></a><figcaption>
+                    <p>Two Term Limit sign</p>
+                </figcaption>
+        </figure>
+        <p>Here&rsquo;s a direct link to the <a href="no-king.jpg">No King Anytime</a> JPG and the <a href="two-term.jpg">Two Term Limit</a> JPG.  These are available as PDFs, as well (vector outlines; no worries about fonts): here&rsquo;s the <a href="no-king.pdf">No King Anytime</a> PDF and the <a href="two-term.pdf">Two Term Limit</a> PDF. Put them onna stick and exercise the constitutional rights to freedom of expression, speech, and assembly enjoyed by <a href="https://kieranhealy.org/blog/archives/2025/06/28/american/">everyone in the United States</a>.</p>]]>
+      </description>
+      <source:markdown>If you want to print out a poster for [October 18th](https://www.nokings.org), here are two; fully-guaranteed countrywide but maybe especially suitable for in and around New York.
+
+[![No King Anytime sign](https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/no-king.jpg)](https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/no-king.jpg)
+
+No King Anytime sign
+
+[![Two Term Limit sign](https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/two-term.jpg)](https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/two-term.jpg)
+
+Two Term Limit sign
+
+Here’s a direct link to the [No King Anytime](no-king.jpg) JPG and the [Two Term Limit](two-term.jpg) JPG. These are available as PDFs, as well (vector outlines; no worries about fonts): here’s the [No King Anytime](no-king.pdf) PDF and the [Two Term Limit](two-term.pdf) PDF. Put them onna stick and exercise the constitutional rights to freedom of expression, speech, and assembly enjoyed by [everyone in the United States](https://kieranhealy.org/blog/archives/2025/06/28/american/).</source:markdown>
+      <guid>cid://https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/</guid>
+    </item>    <item>
+      <title>October 12, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-12-2025-582</link>
+      <enclosure url="https://api.substack.com/feed/podcast/176073631/247a54b817c8eb87bb4b07264264f312.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-12-2025-582</guid>
+    </item>    <item>
+      <title>Los años de Fierro: el cine como acto de memoria</title>
+      <link>https://www.palomitademaiz.net/resenas-los-anos-de-fierro/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-los-anos-de-fierro</link>
+      <description>
+        <![CDATA[<p>Dirección: Santiago Esteinou. Guion: Santiago Esteinou. Países: México, Alemania, Canadá, Estados Unidos. Más información de la película: https://www.imdb.com/title/tt3689012/ En un mundo que se mueve tan rápido que apenas alcanza para mirar al de al lado, el cine sigue siendo el refugio de las historias incómodas, dolorosas y necesarias. Los años de Fierro es justo eso: [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-los-anos-de-fierro/">Los años de Fierro: el cine como acto de memoria</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Dirección: Santiago Esteinou. Guion: Santiago Esteinou. Países: México, Alemania, Canadá, Estados Unidos. Más información de la película: https://www.imdb.com/title/tt3689012/ En un mundo que se mueve tan rápido que apenas alcanza para mirar al de al lado, el cine sigue siendo el refugio de las historias incómodas, dolorosas y necesarias. Los años de Fierro es justo eso: \[…\]
+
+La entrada [Los años de Fierro: el cine como acto de memoria](https://www.palomitademaiz.net/resenas-los-anos-de-fierro/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=25637</guid>
+    </item>    <item>
+      <title>The Hyped Distro</title>
+      <link>https://feed.tedium.co/link/15204/17184916/omarchy-linux-distro-commentary</link>
+      <description>
+        <![CDATA[A guy stuck in a cabin with weak internet decides to try out Omarchy and learns some stuff along the way. Will the learning curve turn you off, or the inherent ethical issues?]]>
+      </description>
+      <source:markdown>A guy stuck in a cabin with weak internet decides to try out Omarchy and learns some stuff along the way. Will the learning curve turn you off, or the inherent ethical issues?</source:markdown>
+      <guid>cid://https://tedium.co/2025/10/13/omarchy-linux-distro-commentary/</guid>
+    </item>    <item>
       <title>Rewiring Democracy is Coming Soon</title>
       <link>https://www.schneier.com/blog/archives/2025/10/rewiring-democracy-is-coming-soon.html</link>
       <description>
-        <![CDATA[<p>My latest book, <i>Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship</i>, will be published in just over a week. No reviews yet, but can read chapters <a href="https://pghrev.com/being-a-politician/">12</a> and &#60;a href=https://newpublic.substack.com/p/2ddffc17-a033-4f98-83fa-11376b30c6cd&#8221;&#62;34</a> (of <a href="https://www.schneier.com/books/table-of-contents/">43 chapters</a> total).</p>
-        <p>You can order the book pretty much everywhere, and a copy signed by me &#60;a href=&#8221;https://www.schneier.com/product/rewiring-democracy-hardcover/&#8217;&#62;here</a>.</p>
+        <![CDATA[<p>My latest book, <i>Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship</i>, will be published in just over a week. No reviews yet, but can read chapters <a href="https://pghrev.com/being-a-politician/">12</a> and <a href="https://newpublic.substack.com/p/2ddffc17-a033-4f98-83fa-11376b30c6cd">34</a> (of <a href="https://www.schneier.com/books/table-of-contents/">43 chapters</a> total).</p>
+        <p>You can order the book pretty much everywhere, and a copy signed by me <a href="https://www.schneier.com/product/rewiring-democracy-hardcover/">here</a>.</p>
         <p>Please help spread the word. I want this book to make a splash when it&#8217;s public. Leave a review on whatever site you buy it from. Or make a TikTok video. Or do whatever you kids do these days. Is anyone a SlashDot contributor? I&#8217;d like the book to be announced there...</p>]]>
       </description>
-      <source:markdown>My latest book, _Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship_, will be published in just over a week. No reviews yet, but can read chapters [12](https://pghrev.com/being-a-politician/) and &#60;a href=https://newpublic.substack.com/p/2ddffc17-a033-4f98-83fa-11376b30c6cd”&#62;34 (of [43 chapters](https://www.schneier.com/books/table-of-contents/) total).
+      <source:markdown>My latest book, _Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship_, will be published in just over a week. No reviews yet, but can read chapters [12](https://pghrev.com/being-a-politician/) and [34](https://newpublic.substack.com/p/2ddffc17-a033-4f98-83fa-11376b30c6cd) (of [43 chapters](https://www.schneier.com/books/table-of-contents/) total).
 
-You can order the book pretty much everywhere, and a copy signed by me &#60;a href=”https://www.schneier.com/product/rewiring-democracy-hardcover/’&#62;here.
+You can order the book pretty much everywhere, and a copy signed by me [here](https://www.schneier.com/product/rewiring-democracy-hardcover/).
 
 Please help spread the word. I want this book to make a splash when it’s public. Leave a review on whatever site you buy it from. Or make a TikTok video. Or do whatever you kids do these days. Is anyone a SlashDot contributor? I’d like the book to be announced there...</source:markdown>
       <guid>cid://https://www.schneier.com/?p=70952</guid>
@@ -1666,7 +1826,7 @@ This final one is an example of a racing game. Something that you might already 
       <link>https://simonwillison.net/2025/Oct/10/claude-skills/#atom-everything</link>
       <description>
         <![CDATA[<p><strong><a href="https://github.com/simonw/claude-skills">simonw/claude-skills</a></strong></p>
-        One of the tips I picked up from <a href="">Jesse Vincent's Claude Code Superpowers post</a> (<a href="https://simonwillison.net/2025/Oct/10/superpowers/">previously</a>) was this:</p>
+        One of the tips I picked up from <a href="https://blog.fsck.com/2025/10/09/superpowers/">Jesse Vincent's Claude Code Superpowers post</a> (<a href="https://simonwillison.net/2025/Oct/10/superpowers/">previously</a>) was this:</p>
         <blockquote>
         <p>Skills are what give your agents Superpowers.</p>
         <p>The first time they really popped up on my radar was a few weeks ago when Anthropic rolled out improved Office document creation. When the feature rolled out, I went poking around a bit -- I asked Claude to tell me all about its new skills. And it was <a href="https://claude.ai/share/0fe5a9c0-4e5a-42a1-9df7-c5b7636dad92">only too happy to dish</a>.</p>
@@ -1706,7 +1866,7 @@ This final one is an example of a racing game. Something that you might already 
       </description>
       <source:markdown>**[simonw/claude-skills](https://github.com/simonw/claude-skills)**
 
-One of the tips I picked up from Jesse Vincent&#39;s Claude Code Superpowers post ( [previously](https://simonwillison.net/2025/Oct/10/superpowers/)) was this:
+One of the tips I picked up from [Jesse Vincent&#39;s Claude Code Superpowers post](https://blog.fsck.com/2025/10/09/superpowers/) ( [previously](https://simonwillison.net/2025/Oct/10/superpowers/)) was this:
 
 &#62; Skills are what give your agents Superpowers.
 &#62;
@@ -7099,6 +7259,10 @@ The post [606\. Enoch Powell: Rivers of Blood](https://therestishistory.com/606-
       </description>
       <source:markdown>White House Slams &#39;SNL&#39; After Cold Open Targets Trump and Brendan Carr.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/05/1367/</guid>
+    </item>    <item>
+      <title>S&#38;P Global</title>
+      <link>https://www.marketplace.spglobal.com/en/solutions/metadata-marketplace-(d4ef915d-a8f4-4bf5-b8da-5cbce63db415)?utm_source=display&#38;utm_medium=daringfireball&#38;utm_campaign=11921-AD-2509-GL-CT-DR-All-DCD-EDODaringFireball</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42243</guid>
     </item>    <item>
       <link>https://wptavern.com/podcast/186-dave-winer-on-decentralisation-wordpress-and-open-publishing</link>
       <description>
@@ -13731,10 +13895,6 @@ Monday session</source:markdown>
       <link>https://heathercoxrichardson.substack.com/p/september-28-2025-bd9</link>
       <enclosure url="https://api.substack.com/feed/podcast/174870583/d442b280b6ab3834dfa10aa1bc52547a.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://heathercoxrichardson.substack.com/p/september-28-2025-bd9</guid>
-    </item>    <item>
-      <title>[Sponsor] S&#38;P Global</title>
-      <link>https://www.marketplace.spglobal.com/en/solutions/metadata-marketplace-(d4ef915d-a8f4-4bf5-b8da-5cbce63db415)?utm_source=display&#38;utm_medium=daringfireball&#38;utm_campaign=11921-AD-2509-GL-CT-DR-All-DCD-EDODaringFireball</link>
-      <guid>cid://tag:daringfireball.net,2025:/feeds/sponsors//11.42230</guid>
     </item>    <item>
       <title>Let’s Check in With HP Employee Imran Chaudhri</title>
       <link>https://www.theverge.com/tech/785363/lets-check-in-with-hp-employee-imran-chaudhri</link>
