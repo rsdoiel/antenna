@@ -4,7 +4,7 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>12 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>13 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -685,22 +685,6 @@ Although at least one [client re-creation](https://github.com/erfg12/AOL_4.0_Emu
       </description>
       <source:markdown>No promises.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20250922</guid>
-    </item>    <item>
-      <title>b.log 2025/09/21 - Time wasted on dumb things, Mower Racing and Made Of Fail, A gentle walk, The price of tea.</title>
-      <link>https://heyrick.eu/blog/entry/20250921</link>
-      <description>
-        <![CDATA[Time wasted on dumb things, Mower Racing and Made Of Fail, A gentle walk, The price of tea.]]>
-      </description>
-      <source:markdown>Time wasted on dumb things, Mower Racing and Made Of Fail, A gentle walk, The price of tea.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20250921</guid>
-    </item>    <item>
-      <title>MCS6500 Family Hardware manual 6500-10 and Programming Manual Synertek 6500-50 added</title>
-      <link>http://retro.hansotten.nl/mcs6500-family-hardware-manual-6500-10-and-programming-manual-synertek-6500-50-added/</link>
-      <description>
-        <![CDATA[New good quality scans added to the Manuals page &#8211; MCS6500 Hardware Manual August 1975 First Edition, Version 6500-10, with errata letter. Not the usual 6500-10A but the rare first edition. No ROR instruction documented! &#8211; MCS6500 Programming Manual by Synertek, version 6500-50. Not the First Edition alas, the contents are the 6500-50A version. I [&#8230;]]]>
-      </description>
-      <source:markdown>New good quality scans added to the Manuals page – MCS6500 Hardware Manual August 1975 First Edition, Version 6500-10, with errata letter. Not the usual 6500-10A but the rare first edition. No ROR instruction documented! – MCS6500 Programming Manual by Synertek, version 6500-50. Not the First Edition alas, the contents are the 6500-50A version. I \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=18850</guid>
     </item>
   </channel>
 </rss>
