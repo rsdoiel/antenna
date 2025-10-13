@@ -4,10 +4,19 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>13 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>13 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The pope versus poverty</title>
+      <link>https://www.marketplace.org/episode/2025/10/13/the-pope-versus-poverty</link>
+      <description>
+        <![CDATA[<p>Marketplace doesn’t always cover the goings-on of the Holy See. But when he highlights the need to combat poverty, it seems like a pretty good time to do so. In his first teaching last week, Pope Leo XIV called into question some basic tenets of mainstream economics and focused on the gap between the rich and the poor. Today, we discuss. Also on the show: the research of Nobel laureate economists and Trump's attempts to calm markets over China trade.</p>]]>
+      </description>
+      <source:markdown>Marketplace doesn’t always cover the goings-on of the Holy See. But when he highlights the need to combat poverty, it seems like a pretty good time to do so. In his first teaching last week, Pope Leo XIV called into question some basic tenets of mainstream economics and focused on the gap between the rich and the poor. Today, we discuss. Also on the show: the research of Nobel laureate economists and Trump&#39;s attempts to calm markets over China trade.</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/10/13/mmr_20251013_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K7F18RYKHCQ48G5VQ3Q6SWBQ" length="3149788" type="audio/mpeg" />
+      <guid>cid://01K7F18RYKHCQ48G5VQ3Q6SWBQ</guid>
+    </item>    <item>
       <title>Nobel economics prize winners focus on tech, innovation</title>
       <link>https://www.marketplace.org/episode/2025/10/13/nobel-economics-prize-winners-focus-on-tech-innovation</link>
       <description>
@@ -37,6 +46,22 @@ Eventually this could lead to so-called “agentic” shopping: letting AI resea
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/10/13/tech_20251013_1013_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K73R8F4REQ9RDXKM595QSYSA" length="7171780" type="audio/mpeg" />
       <guid>cid://01K73R8F4REQ9RDXKM595QSYSA</guid>
     </item>    <item>
+      <title>The 250 Greatest Albums of the 21st Century So Far: 250-201</title>
+      <link>https://www.pastemagazine.com/music/best-albums/the-250-greatest-albums-of-the-21st-century-so-far-part-1</link>
+      <description>
+        <![CDATA[A compendium of our favorite albums from the last 25 years.]]>
+      </description>
+      <source:markdown>A compendium of our favorite albums from the last 25 years.</source:markdown>
+      <guid>cid://19dfc3fa-7a16-4ea8-ba1c-5e4f21aaba9d-409937</guid>
+    </item>    <item>
+      <title>The 100 Best Vampire Movies of All Time</title>
+      <link>https://www.pastemagazine.com/movies/horror-movies/best-vampire-movies-of-all-time</link>
+      <description>
+        <![CDATA[These blood-sucking creatures serve as one of horror’s most creatively flexible monsters. Vampire movies are terrifying and romantic.]]>
+      </description>
+      <source:markdown>These blood-sucking creatures serve as one of horror’s most creatively flexible monsters. Vampire movies are terrifying and romantic.</source:markdown>
+      <guid>cid://19dfc3fa-7a16-4ea8-ba1c-5e4f21aaba9d-63972</guid>
+    </item>    <item>
       <title>3 share Nobel Prize in Economics for work on technology, growth and creative destruction</title>
       <link>https://www.npr.org/2025/10/10/nx-s1-5570762/xxx-wins-nobel-prize-in-economics-for-xxx</link>
       <description>
@@ -44,6 +69,30 @@ Eventually this could lead to so-called “agentic” shopping: letting AI resea
       </description>
       <source:markdown>Joel Mokyr, Philippe Aghion and Peter Howitt won the Nobel memorial prize in economics Monday for their research on how technological innovation fuels economic growth and creative destruction.</source:markdown>
       <guid>cid://https://www.npr.org/2025/10/10/nx-s1-5570762/xxx-wins-nobel-prize-in-economics-for-xxx</guid>
+    </item>    <item>
+      <title>The 35 Best Movies on Hoopla (October 2025)</title>
+      <link>https://www.pastemagazine.com/movies/streaming/best-movies-on-hoopla</link>
+      <description>
+        <![CDATA[The free streaming service that comes with your library card, Hoopla has a bounty of arthouse and international movies. We found the best.]]>
+      </description>
+      <source:markdown>The free streaming service that comes with your library card, Hoopla has a bounty of arthouse and international movies. We found the best.</source:markdown>
+      <guid>cid://19dfc3fa-7a16-4ea8-ba1c-5e4f21aaba9d-352223</guid>
+    </item>    <item>
+      <title>The 20 Best Movies on Starz</title>
+      <link>https://www.pastemagazine.com/movies/starz/the-best-movies-on-starz</link>
+      <description>
+        <![CDATA[Starz continues to build a cinematic library to easily rival services like Netflix and Hulu. Here are the best movies on Starz:]]>
+      </description>
+      <source:markdown>Starz continues to build a cinematic library to easily rival services like Netflix and Hulu. Here are the best movies on Starz:</source:markdown>
+      <guid>cid://19dfc3fa-7a16-4ea8-ba1c-5e4f21aaba9d-93957</guid>
+    </item>    <item>
+      <title>The Best Movies on The Roku Channel</title>
+      <link>https://www.pastemagazine.com/movies/roku/best-movies-on-the-roku-channel</link>
+      <description>
+        <![CDATA[While everyone's watching movies on Roku, The Roku Channel offers an intriguing selection of free movies to watch. Here are the best:]]>
+      </description>
+      <source:markdown>While everyone&#39;s watching movies on Roku, The Roku Channel offers an intriguing selection of free movies to watch. Here are the best:</source:markdown>
+      <guid>cid://19dfc3fa-7a16-4ea8-ba1c-5e4f21aaba9d-361277</guid>
     </item>    <item>
       <title>The 50 Best Slasher Movies of All Time</title>
       <link>https://www.pastemagazine.com/movies/horror-movies/the-50-best-slasher-movies-of-all-time</link>

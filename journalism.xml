@@ -4,10 +4,26 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>13 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>13 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The man behind the masterpiece: David Obst’s imprint on history</title>
+      <link>https://sundial.csun.edu/198429/news/the-man-behind-the-masterpiece-david-obsts-imprint-on-history/</link>
+      <description>
+        <![CDATA[The inspiration for David Obst’s latest creation came to him more simply than he expected. During a car ride with his granddaughter, trapped in a traffic jam from Santa Barbara...]]>
+      </description>
+      <source:markdown>The inspiration for David Obst’s latest creation came to him more simply than he expected. During a car ride with his granddaughter, trapped in a traffic jam from Santa Barbara...</source:markdown>
+      <guid>cid://https://sundial.csun.edu/?p=198429</guid>
+    </item>    <item>
+      <title>Gallery: UCLA football topples Michigan State 38-13 in 2nd win of the season</title>
+      <link>https://dailybruin.com/2025/10/13/gallery-ucla-football-topples-michigan-state-38-13-in-2nd-win-of-the-season/</link>
+      <description>
+        <![CDATA[UCLA football’s (2-4, 2-1 Big Ten) bounce-back continues after it trounced Michigan State (3-3, 0-3) Saturday on the road at Spartan Stadium in East Lansing, Michigan.]]>
+      </description>
+      <source:markdown>UCLA football’s (2-4, 2-1 Big Ten) bounce-back continues after it trounced Michigan State (3-3, 0-3) Saturday on the road at Spartan Stadium in East Lansing, Michigan.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=494908</guid>
+    </item>    <item>
       <title>Daily Bruin Print Issue – Oct. 13, 2025</title>
       <link>https://dailybruin.com/2025/10/12/daily-bruin-print-issue-oct-13-2025/</link>
       <description>
@@ -261,9 +277,9 @@ And now the Bruins are back home after two weekends away from Westwood.</source:
       <title>Toxic site cleanup agreements laid to rest at funeral demonstration</title>
       <link>https://sundial.csun.edu/198411/news/toxic-site-cleanup-agreements-laid-to-rest-at-funeral-demonstration/</link>
       <description>
-        <![CDATA[Protestors gathered at the Rancho Santa Susana Community Center in Simi Valley on Oct. 7 in protest of the Santa Susana Field Laboratory (SSFL) cleanup agreements not being honored. Attendees...]]>
+        <![CDATA[Protesters gathered at the Rancho Santa Susana Community Center in Simi Valley on Oct. 7 in protest of the Santa Susana Field Laboratory (SSFL) cleanup agreements not being honored. Attendees...]]>
       </description>
-      <source:markdown>Protestors gathered at the Rancho Santa Susana Community Center in Simi Valley on Oct. 7 in protest of the Santa Susana Field Laboratory (SSFL) cleanup agreements not being honored. Attendees...</source:markdown>
+      <source:markdown>Protesters gathered at the Rancho Santa Susana Community Center in Simi Valley on Oct. 7 in protest of the Santa Susana Field Laboratory (SSFL) cleanup agreements not being honored. Attendees...</source:markdown>
       <guid>cid://https://sundial.csun.edu/?p=198411</guid>
     </item>    <item>
       <title>Daily Bruin Print Issue – Oct. 10, 2025</title>

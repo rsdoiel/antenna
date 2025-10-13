@@ -4,10 +4,19 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>13 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>13 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Seagull, by Anton Chekhov</title>
+      <link>https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett</link>
+      <description>
+        <![CDATA[A has-been actress, her ambitious playwright son, a male writer, and an aspiring young actress struggle to realize their romantic and artistic aims.]]>
+      </description>
+      <source:markdown>A has-been actress, her ambitious playwright son, a male writer, and an aspiring young actress struggle to realize their romantic and artistic aims.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett/downloads/anton-chekhov_the-seagull_constance-garnett.epub?source=feed" length="449595" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett</guid>
+    </item>    <item>
       <title>Three Years After the Launch of ChatGPT, Do We Know Where This Is Heading?</title>
       <link>https://scholarlykitchen.sspnet.org/2025/10/13/three-years-after-the-launch-of-chatgpt-do-we-know-where-this-is-heading/</link>
       <description>
