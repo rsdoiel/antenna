@@ -7,10 +7,18 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>12 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>13 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>OC Supervisors to consider hiring outside firm to audit Andrew Do-era contracts</title>
+      <link>https://laist.com/news/politics/oc-supervisors-outside-audit-andrew-do-era-contracts</link>
+      <description>
+        <![CDATA[Do is currently serving a five-year sentence in federal prison for accepting kickbacks in exchange for directing lucrative county contracts to a nonprofit.]]>
+      </description>
+      <source:markdown>Do is currently serving a five-year sentence in federal prison for accepting kickbacks in exchange for directing lucrative county contracts to a nonprofit.</source:markdown>
+      <guid>cid://urn:uuid:00000199-cf74-d89a-a3b9-fff7b53b0000</guid>
+    </item>    <item>
       <title>Vance says administration will keep fighting to send National Guard to Chicago</title>
       <link>https://laist.com/news/politics/vance-says-administration-will-keep-fighting-to-send-national-guard-to-chicago</link>
       <description>
@@ -2791,63 +2799,6 @@ The post [Cheer on the UCLA Bruins at The Cube!](https://santaclarita.gov/blog/2
         <![CDATA[By some estimates, Altadena lost more than half of its tree canopy in the wake of the Eaton Fire. One young Altadenan wants us to share our stories about them.]]>
       </description>
       <guid>cid://urn:uuid:00000199-5f15-d3e0-a5bd-fffd0be20000</guid>
-    </item>    <item>
-      <title>2025 California Men’s Service Challenge</title>
-      <link>https://www.californiavolunteers.ca.gov/2025-california-mens-service-challenge/</link>
-      <description>
-        <![CDATA[Published: September 28, 2025 &#124; Application Due Date: October 30, 2025]]>
-      </description>
-      <source:markdown>Published: September 28, 2025 \| Application Due Date: October 30, 2025</source:markdown>
-      <guid>cid://https://www.californiavolunteers.ca.gov/?p=84239</guid>
-    </item>    <item>
-      <title>As Jimmy Kimmel supporters rallied Monday against his ouster, ABC announced his show will return</title>
-      <link>https://laist.com/news/jimmy-kimmel-suspension-protest-monday</link>
-      <description>
-        <![CDATA[Organizers say the rally was meant to defend free speech and to protest recent FCC actions.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-6d47-dcf5-a1f9-ff77fb9d0000</guid>
-    </item>    <item>
-      <title>5 lessons from this Hermosa Beach house that generates more energy than it uses</title>
-      <link>https://laist.com/news/climate-environment/lessons-from-a-house-that-generates-more-energy-than-it-uses</link>
-      <description>
-        <![CDATA[Robert Fortunato's Green Idea House is one of the first net-zero energy case study houses built for less cost than standard construction.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-6832-dbf4-a9fd-7af383bd0000</guid>
-    </item>    <item>
-      <title>Trump calls Charlie Kirk &#39;martyr now for American freedom&#39; at memorial service</title>
-      <link>https://laist.com/news/maga-movement-will-bid-farewell-to-charlie-kirk-with-a-hometown-funeral-in-arizona</link>
-      <description>
-        <![CDATA[At a service focused on Kirk's conservative Christian faith, President Trump described the late 31-year-old as the "greatest evangelist for American liberty" as Kirk's widow forgave the alleged gunman.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-6cf1-de23-aff9-fcf33cc80000</guid>
-    </item>    <item>
-      <title>California unions are pouring more money than ever into CalPERS elections. Here’s why</title>
-      <link>https://laist.com/news/politics/california-unions-calpers-elections-spending</link>
-      <description>
-        <![CDATA[California unions are at odds and spending heavily in an election at CalPERS, the pension fund that provides retirement benefits to 2 million people.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-67f7-dbf4-a9fd-77f797630000</guid>
-    </item>    <item>
-      <title>Dust off your spikes: A &#39;Mad Max&#39; inspired festival is happening in the Mojave Desert</title>
-      <link>https://laist.com/news/los-angeles-activities/dust-off-your-spikes-a-mad-max-inspired-festival-is-happening-in-the-mojave-desert</link>
-      <description>
-        <![CDATA[Wasteland Weekend is all about souped-up rust buckets, spikey costumes and an ‘ideal apocalypse.’]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-630a-d418-abb9-674af8f20000</guid>
-    </item>    <item>
-      <title>Uncovering women&#39;s roles in LA historical landmarks, one building at a time</title>
-      <link>https://laist.com/news/los-angeles-activities/uncovering-womens-roles-in-la-historical-landmarks-one-building-at-a-time</link>
-      <description>
-        <![CDATA[Of the more than 1,300 Historic-Cultural Monuments designated since 1962, less than 2% recognize women's contributions. The new L.A. Women's Landmarks Project aims to amend that.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-5422-d6e8-adbf-772263100000</guid>
-    </item>    <item>
-      <title>An interstellar object is passing through our solar system. This UC program says to stay calm and carry on</title>
-      <link>https://laist.com/news/climate-environment/an-interstellar-object-is-passing-through-our-solar-system-this-uc-program-says-to-stay-calm-and-carry-on</link>
-      <description>
-        <![CDATA[The Shadow the Scientists initiative at UC Santa Cruz strives to demystify astronomical research.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-6354-d618-a9ff-73d53b270000</guid>
     </item>
   </channel>
 </rss>

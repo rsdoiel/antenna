@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>12 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>13 Oct 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,234 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>What Happened When AI Came for Craft Beer</title>
+      <link>https://www.404media.co/what-happened-when-ai-came-for-craft-beer-canadian-beer-awards-best-beer-app/</link>
+      <description>
+        <![CDATA[A prominent beer competition introduced an AI-judging tool without warning. The judges and some members of the wider brewing industry were pissed.]]>
+      </description>
+      <source:markdown>A prominent beer competition introduced an AI-judging tool without warning. The judges and some members of the wider brewing industry were pissed.</source:markdown>
+      <guid>cid://68e91d4e1c617200015e18c4</guid>
+    </item>    <item>
+      <title>Your Chance to Snag an Original Bob Ross</title>
+      <link>https://onefoottsunami.com/2025/10/13/your-chance-to-snag-an-original-bob-ross/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29278</guid>
+    </item>    <item>
+      <title>Edgeberry interface board for Raspberry Pi</title>
+      <link>https://www.raspberrypi.com/news/edgeberry-interface-board-for-raspberry-pi/</link>
+      <description>
+        <![CDATA[<p>Edgeberry is a modular expansion system that turns your Raspberry Pi into a robust, adaptable IoT edge device.</p>
+        <p>The post <a href="https://www.raspberrypi.com/news/edgeberry-interface-board-for-raspberry-pi/">Edgeberry interface board for Raspberry Pi</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
+      </description>
+      <source:markdown>Edgeberry is a modular expansion system that turns your Raspberry Pi into a robust, adaptable IoT edge device.
+
+The post [Edgeberry interface board for Raspberry Pi](https://www.raspberrypi.com/news/edgeberry-interface-board-for-raspberry-pi/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
+      <guid>cid://https://www.raspberrypi.com/?p=130078</guid>
+    </item>    <item>
+      <title>The Architect’s Dilemma</title>
+      <link>https://www.oreilly.com/radar/the-architects-dilemma/</link>
+      <description>
+        <![CDATA[The agentic AI landscape is exploding. Every new framework, demo, and announcement promises to let your AI assistant book flights, query databases, and manage calendars. This rapid advancement of capabilities is thrilling for users, but for the architects and engineers building these systems, it poses a fundamental question: When should a new capability be a [&#8230;]]]>
+      </description>
+      <source:markdown>The agentic AI landscape is exploding. Every new framework, demo, and announcement promises to let your AI assistant book flights, query databases, and manage calendars. This rapid advancement of capabilities is thrilling for users, but for the architects and engineers building these systems, it poses a fundamental question: When should a new capability be a \[…\]</source:markdown>
+      <guid>cid://https://www.oreilly.com/radar/?p=17515</guid>
+    </item>    <item>
+      <title>AI and the Future of American Politics</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/ai-and-the-future-of-american-politics.html</link>
+      <description>
+        <![CDATA[<p>Two years ago, Americans anxious about the forthcoming 2024 presidential election were considering the malevolent force of an election influencer: artificial intelligence. Over the past several years, we have seen <a href="https://www.cigionline.org/articles/then-and-now-how-does-ai-electoral-interference-compare-in-2025/">plenty</a> <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1569115/full">of</a> <a href="https://www.nytimes.com/2025/06/26/technology/ai-elections-democracy.html">warning</a> <a href="https://cdn.prod.website-files.com/643ecb10be528d2c1da863cb/682f5ae442fffdff819ef830_TP%202025.2.pdf">signs</a> from elections worldwide demonstrating how AI can be used to propagate misinformation and alter the political landscape, whether by <a href="https://www.nytimes.com/2023/12/13/us/politics/trump-meme-trolls-2024.html">trolls</a> on social media, <a href="https://www.npr.org/2024/08/17/nx-s1-5079397/openai-chatgpt-iranian-group-us-election">foreign</a> <a href="https://www.nato.int/docu/review/articles/2025/02/07/algorithmic-invasions-how-information-warfare-threatens-nato-s-eastern-flank/index.html">influencers</a>, or even a <a href="https://www.nbcnews.com/politics/2024-election/democratic-operative-admits-commissioning-fake-biden-robocall-used-ai-rcna140402">street magician</a><a href="https://www.nbcnews.com/politics/2024-election/democratic-operative-admits-commissioning-fake-biden-robocall-used-ai-rcna140402">.</a> AI is poised to play a more volatile role than ever before in America&#8217;s next federal election in 2026. We can already see how different groups of political actors are approaching AI. Professional campaigners are using AI to accelerate the traditional tactics of electioneering; organizers are using it to reinvent how movements are built; and citizens are using it both to express themselves and amplify their side&#8217;s messaging. Because there are so few rules, and so little prospect of regulatory action, around AI&#8217;s role in politics, there is no oversight of these activities, and no safeguards against the dramatic potential impacts for our democracy...</p>]]>
+      </description>
+      <source:markdown>Two years ago, Americans anxious about the forthcoming 2024 presidential election were considering the malevolent force of an election influencer: artificial intelligence. Over the past several years, we have seen [plenty](https://www.cigionline.org/articles/then-and-now-how-does-ai-electoral-interference-compare-in-2025/) [of](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1569115/full) [warning](https://www.nytimes.com/2025/06/26/technology/ai-elections-democracy.html) [signs](https://cdn.prod.website-files.com/643ecb10be528d2c1da863cb/682f5ae442fffdff819ef830_TP%202025.2.pdf) from elections worldwide demonstrating how AI can be used to propagate misinformation and alter the political landscape, whether by [trolls](https://www.nytimes.com/2023/12/13/us/politics/trump-meme-trolls-2024.html) on social media, [foreign](https://www.npr.org/2024/08/17/nx-s1-5079397/openai-chatgpt-iranian-group-us-election) [influencers](https://www.nato.int/docu/review/articles/2025/02/07/algorithmic-invasions-how-information-warfare-threatens-nato-s-eastern-flank/index.html), or even a [street magician](https://www.nbcnews.com/politics/2024-election/democratic-operative-admits-commissioning-fake-biden-robocall-used-ai-rcna140402) [.](https://www.nbcnews.com/politics/2024-election/democratic-operative-admits-commissioning-fake-biden-robocall-used-ai-rcna140402) AI is poised to play a more volatile role than ever before in America’s next federal election in 2026. We can already see how different groups of political actors are approaching AI. Professional campaigners are using AI to accelerate the traditional tactics of electioneering; organizers are using it to reinvent how movements are built; and citizens are using it both to express themselves and amplify their side’s messaging. Because there are so few rules, and so little prospect of regulatory action, around AI’s role in politics, there is no oversight of these activities, and no safeguards against the dramatic potential impacts for our democracy...</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=70938</guid>
+    </item>    <item>
+      <title>Americans Mystified Why Nonessential Federal Employee Still Has Job</title>
+      <link>https://www.borowitzreport.com/p/americans-mystified-why-nonessential</link>
+      <description>
+        <![CDATA[The still-employed man performs no identifiable function, Americans noted.]]>
+      </description>
+      <source:markdown>The still-employed man performs no identifiable function, Americans noted.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Jcfh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98d8bddd-518e-49f3-8e6f-c2ef9c1f58d4_1024x683.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/americans-mystified-why-nonessential</guid>
+    </item>    <item>
+      <title>Where’s the AI design renaissance?</title>
+      <link>https://www.learnui.design/blog/wheres-the-ai-design-renaissance.html</link>
+      <description>
+        <![CDATA[<blockquote>
+          <p>I’ve had some incredibly productive moments with AI design tools. But I’ve had at least as many slogs, where I can’t get it to do some basic thing I should’ve done myself 45 minutes ago.</p>
+          
+          <p>My hunch: vibe coding is a lot like stock-picking – everyone’s always blabbing about their big wins. Ask what their annual rate of return is above the S&amp;P, and it’s a quieter conversation 🤫</p>
+          
+          <p>This, in my opinion, is how we end up with a firehose of AI hype, and yet zero signs of a software renaissance. As Mike Judge points out, the following graphs are flat: (a) new app store releases, (b) new domain names registered, (c) new Github repositories.</p>
+        </blockquote>
+        
+        <p><a href="https://adactio.com/links/22185">adactio.com/links/22185</a></p>]]>
+      </description>
+      <source:markdown>&#62; I’ve had some incredibly productive moments with AI design tools. But I’ve had at least as many slogs, where I can’t get it to do some basic thing I should’ve done myself 45 minutes ago.
+&#62;
+&#62; My hunch: vibe coding is a lot like stock-picking – everyone’s always blabbing about their big wins. Ask what their annual rate of return is above the S&#38;P, and it’s a quieter conversation 🤫
+&#62;
+&#62; This, in my opinion, is how we end up with a firehose of AI hype, and yet zero signs of a software renaissance. As Mike Judge points out, the following graphs are flat: (a) new app store releases, (b) new domain names registered, (c) new Github repositories.
+
+[adactio.com/links/22185](https://adactio.com/links/22185)</source:markdown>
+      <guid>cid://https://www.learnui.design/blog/wheres-the-ai-design-renaissance.html</guid>
+    </item>    <item>
+      <title>How Trump Is Making China Great</title>
+      <link>https://paulkrugman.substack.com/p/how-trump-is-making-china-great</link>
+      <description>
+        <![CDATA[Why we&#8217;re going to lose the trade war, and much more besides]]>
+      </description>
+      <source:markdown>Why we’re going to lose the trade war, and much more besides</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!NRMt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a269c69-c1ae-4d73-93ee-7a044b145306_1600x1067.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/how-trump-is-making-china-great</guid>
+    </item>    <item>
+      <link>https://www.amazon.com/s?k=inflatable+costumes+animal&#38;hvadid=678008782541&#38;hvdev=t&#38;hvexpln=0&#38;hvlocphy=9004823&#38;hvnetw=g&#38;hvocijid=11849710211839988697--&#38;hvqmt=e&#38;hvrand=11849710211839988697&#38;hvtargid=kwd-853217640849&#38;hydadcr=7662_13589736&#38;mcid=a110968705bf3dc79a8eef0edd9cbb57&#38;tag=googhydr-20&#38;ref=pd_sl_3b7lejpelx_e</link>
+      <description>
+        <![CDATA[<p>Amazon.com: inflatable costumes.</p>]]>
+      </description>
+      <source:markdown>Amazon.com: inflatable costumes.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/13/1509/</guid>
+    </item>    <item>
+      <title>On the Mysteries, Real and Imagined, Surrounding Christopher Columbus</title>
+      <link>https://lithub.com/on-the-mysteries-real-and-imagined-surrounding-christopher-columbus/</link>
+      <description>
+        <![CDATA[Christopher Columbus is still alive. Earlier this year, a social media post by President Trump declared that “Christopher is going to make a major comeback.” The Democrats had done “everything possible to destroy” him and replace his status “with nothing]]>
+      </description>
+      <source:markdown>Christopher Columbus is still alive. Earlier this year, a social media post by President Trump declared that “Christopher is going to make a major comeback.” The Democrats had done “everything possible to destroy” him and replace his status “with nothing</source:markdown>
+      <guid>cid://https://lithub.com/?p=260971</guid>
+    </item>    <item>
+      <title>They’re calling it a “Hate America” Rally</title>
+      <link>https://robertreich.substack.com/p/theyre-calling-it-a-hate-america</link>
+      <description>
+        <![CDATA[Rubbish. We&#8217;re rallying on Saturday because we LOVE America]]>
+      </description>
+      <source:markdown>Rubbish. We’re rallying on Saturday because we LOVE America</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!mPbM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3fff923-d351-47d7-8e7f-fe2c02510f61_3500x2612.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/theyre-calling-it-a-hate-america</guid>
+    </item>    <item>
+      <title>Slop is a symptom of capitalism</title>
+      <link>https://tracydurnell.com/2025/10/12/slop-is-a-symptom-of-capitalism/</link>
+      <description>
+        <![CDATA[Slop as a way of life by Drew Austin The subtext is that slop is being dumped on us against our will—that it’s something that happens to us—but that lets us off the hook far too easily. Most of the slop we see is still made and distributed by real people, often with no AI [&#8230;]]]>
+      </description>
+      <source:markdown>Slop as a way of life by Drew Austin The subtext is that slop is being dumped on us against our will—that it’s something that happens to us—but that lets us off the hook far too easily. Most of the slop we see is still made and distributed by real people, often with no AI \[…\]</source:markdown>
+      <guid>cid://https://tracydurnell.com/?p=30578</guid>
+    </item>    <item>
+      <link>https://www.travelandleisure.com/best-small-towns-in-the-catskills-11820675</link>
+      <description>
+        <![CDATA[<p>7 Best Small Towns in the Catskills.</p>]]>
+      </description>
+      <source:markdown>7 Best Small Towns in the Catskills.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/13/1507/</guid>
+    </item>    <item>
+      <title>October 12, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-12-2025</link>
+      <description>
+        <![CDATA[On October 9, President Donald J.]]>
+      </description>
+      <source:markdown>On October 9, President Donald J.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-12-2025</guid>
+    </item>    <item>
+      <link>https://www.openculture.com/2024/10/the-evolution-of-cinema-watch-nearly-140-years-of-film-history-unfold-in-80-minutes.html</link>
+      <description>
+        <![CDATA[<p>The Evolution of Cinema: Watch Nearly 140 Years of Film History Unfold in 80 Minutes.</p>]]>
+      </description>
+      <source:markdown>The Evolution of Cinema: Watch Nearly 140 Years of Film History Unfold in 80 Minutes.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/12/1505/</guid>
+    </item>    <item>
+      <link>https://grist.org/oceans/coral-reefs-climate-tipping-point/</link>
+      <description>
+        <![CDATA[<p>Corals are disappearing, pushing Earth to first major tipping point.</p>]]>
+      </description>
+      <source:markdown>Corals are disappearing, pushing Earth to first major tipping point.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/12/1503/</guid>
+    </item>    <item>
+      <title>Clips Discontinued</title>
+      <link>https://mjtsai.com/blog/2025/10/12/clips-discontinued/</link>
+      <description>
+        <![CDATA[Eric Slivka: Apple has essentially discontinued Clips, its video-editing app designed to allow users to combine video clips, images, and photos with voice-based titles, music, filters, and graphics to create enhanced videos that can be shared on social media sites.The app has been removed from the App Store, and a support document on Apple&#8217;s site [&#8230;]]]>
+      </description>
+      <source:markdown>Eric Slivka: Apple has essentially discontinued Clips, its video-editing app designed to allow users to combine video clips, images, and photos with voice-based titles, music, filters, and graphics to create enhanced videos that can be shared on social media sites.The app has been removed from the App Store, and a support document on Apple’s site \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49614</guid>
+    </item>    <item>
+      <title>NSO Group Acquired</title>
+      <link>https://mjtsai.com/blog/2025/10/12/nso-group-acquired/</link>
+      <description>
+        <![CDATA[Lorenzo Franceschi-Bicchierai (via Hacker News): NSO spokesperson Oded Hershowitz told TechCrunch on Friday that &#8220;an American investment group has invested tens of millions of dollars in the company and has acquired controlling ownership.&#8221; Confirmation of the deal came soon after Israeli tech news website Calcalist reported Friday that a group led by Hollywood producer Robert [&#8230;]]]>
+      </description>
+      <source:markdown>Lorenzo Franceschi-Bicchierai (via Hacker News): NSO spokesperson Oded Hershowitz told TechCrunch on Friday that “an American investment group has invested tens of millions of dollars in the company and has acquired controlling ownership.” Confirmation of the deal came soon after Israeli tech news website Calcalist reported Friday that a group led by Hollywood producer Robert \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49612</guid>
+    </item>    <item>
+      <title>AI in Chrome, Neon, and Dia</title>
+      <link>https://mjtsai.com/blog/2025/10/12/ai-in-chrome-neon-and-dia/</link>
+      <description>
+        <![CDATA[Juli Clover: Google today said that Gemini AI is being integrated into the Chrome browser for the Mac and PC. Chrome users in the U.S. will get the functionality first, with Gemini able to clarify complex information on any webpage. There will be a small Gemini symbol in the upper right side of the browser [&#8230;]]]>
+      </description>
+      <source:markdown>Juli Clover: Google today said that Gemini AI is being integrated into the Chrome browser for the Mac and PC. Chrome users in the U.S. will get the functionality first, with Gemini able to clarify complex information on any webpage. There will be a small Gemini symbol in the upper right side of the browser \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49610</guid>
+    </item>    <item>
+      <title>Script to Detect Slow USB-C Cables</title>
+      <link>https://mjtsai.com/blog/2025/10/12/script-to-detect-slow-usb-c-cables/</link>
+      <description>
+        <![CDATA[Kaushik Gopal (via Hacker News): You have a drawer full of USB cables. Half are junk that barely charge your phone. The other half transfer data at full speed. But which is which? [&#8230;] The script parses macOS&#8217;s system_profiler SPUSBHostDataType command, which produces a dense, hard-to-scan raw output[&#8230;] [&#8230;] The first version was a bash [&#8230;]]]>
+      </description>
+      <source:markdown>Kaushik Gopal (via Hacker News): You have a drawer full of USB cables. Half are junk that barely charge your phone. The other half transfer data at full speed. But which is which? \[…\] The script parses macOS’s system\_profiler SPUSBHostDataType command, which produces a dense, hard-to-scan raw output\[…\] \[…\] The first version was a bash \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49608</guid>
+    </item>    <item>
+      <title>Episode 167 - The Tape That Unwound Itself</title>
+      <link>https://adventofcomputing.libsyn.com/episode-167-the-tape-that-unwound-itself</link>
+      <description>
+        <![CDATA[<div> <div class="cm-bjFDAN"> <div class="sc-9628564b-0 kIMzev"> <div class="cm-bgKEqA"> <div class="cm-LIiDtl cm-wHoaYV cm-KArsEf cm-ilkIKZ"> <div class=""> <div class="cm-LIiDtl cm-wHoaYV cm-mhTrbr cm-LsBaRW"> <p>Have you ever had a computer do something you can't explain? Have you ever thought a machine had a mind of its own? In 1971 Met Life was faced with this exact conundrum. Their tape drives, for some reason, were throwing tape all over the floor every night. Systems were checked and no flaws were found, but every morning an operator would walk in on an absolute mess. What could make a healthy machine spit up it's precious tape?</p> </div> </div> </div> </div> </div> </div> </div> <div class="sc-2c79702b-0 cVxBhp"> <div class= "cm-CjbveT cm-NPxkBI cm-kTUHea cm-giECTa cm-PpmxQT cm-bnYPun cm-PcQADW cm-bokJsc"> <div class= "cm-CjbveT cm-WLfYlv cm-GENDEJ cm-giECTa cm-PpmxQT cm-bnYPun cm-PcQADW cm-bhNYBU"> <div class= "cm-CjbveT cm-WLfYlv cm-kTUHea cm-AMMJHT cm-PpmxQT cm-bnYPun cm-PcQADW cm-bhNYBU"> <div class="cm-tpTLeG"> </div> </div> </div> </div> </div>]]>
+      </description>
+      <source:markdown>Have you ever had a computer do something you can&#39;t explain? Have you ever thought a machine had a mind of its own? In 1971 Met Life was faced with this exact conundrum. Their tape drives, for some reason, were throwing tape all over the floor every night. Systems were checked and no flaws were found, but every morning an operator would walk in on an absolute mess. What could make a healthy machine spit up it&#39;s precious tape?</source:markdown>
+      <enclosure url="https://traffic.libsyn.com/secure/adventofcomputing/ep167_the_tape_that_unwound_itself.mp3?dest-id=1206722" length="26545864" type="audio/mpeg" />
+      <guid>cid://9a24f131-b00c-41db-996c-fac5f7491408</guid>
+    </item>    <item>
+      <title>Monday 13 October, 2025</title>
+      <link>https://memex.naughtons.org/monday-13-october-2025/41284/</link>
+      <description>
+        <![CDATA[Holding forth Gillian Tett, anthropologist, FT columnist and now Provost of King’s, holding forth last week at the launch in the Fitzwilliam Museum in Cambridge of the new Bennett School of Public Policy. I meant to check out the striking &#8230; <a href="https://memex.naughtons.org/monday-13-october-2025/41284/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>Holding forth Gillian Tett, anthropologist, FT columnist and now Provost of King’s, holding forth last week at the launch in the Fitzwilliam Museum in Cambridge of the new Bennett School of Public Policy. I meant to check out the striking … [Continue reading →](https://memex.naughtons.org/monday-13-october-2025/41284/)</source:markdown>
+      <guid>cid://https://memex.naughtons.org/?p=41284</guid>
+    </item>    <item>
+      <title>608. Nelson: Slaughter in Naples (Part 1)</title>
+      <link>https://therestishistory.com/608-nelson-slaughter-in-naples-part-1/</link>
+      <description>
+        <![CDATA[<p>What happened when the heroic Horatio Nelson, victor of the Battle of the Nile, sailed into the seething city of Naples? Why would his meeting with the glamorous celebrity, Lady Emma Hamilton, shape the rest of his life? And, why would his decision to lend his support to the foolhardy Neapolitan campaign to “liberate all [&#8230;]</p>
+        <p>The post <a href="https://therestishistory.com/608-nelson-slaughter-in-naples-part-1/">608. Nelson: Slaughter in Naples (Part 1)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>]]>
+      </description>
+      <source:markdown>What happened when the heroic Horatio Nelson, victor of the Battle of the Nile, sailed into the seething city of Naples? Why would his meeting with the glamorous celebrity, Lady Emma Hamilton, shape the rest of his life? And, why would his decision to lend his support to the foolhardy Neapolitan campaign to “liberate all \[…\]
+
+The post [608\. Nelson: Slaughter in Naples (Part 1)](https://therestishistory.com/608-nelson-slaughter-in-naples-part-1/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
+      <guid>cid://https://therestishistory.com/608-nelson-slaughter-in-naples-part-1/</guid>
+    </item>    <item>
+      <title>Earth’s Climate Has Passed Its First Irreversible Tipping Point and Entered a ‘New Reality’</title>
+      <link>https://www.404media.co/earths-climate-has-passed-its-first-irreversible-tipping-point-and-entered-a-new-reality/</link>
+      <description>
+        <![CDATA[The second Global Tipping Points Report warns that the world has crossed a key threshold as ocean heat devastates warm-water reefs.]]>
+      </description>
+      <source:markdown>The second Global Tipping Points Report warns that the world has crossed a key threshold as ocean heat devastates warm-water reefs.</source:markdown>
+      <guid>cid://68e93ca01c617200016054ef</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2zpdhuvps25</link>
+      <description>
+        <![CDATA[😆
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>😆
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m2zpdhuvps25</guid>
+    </item>    <item>
+      <title>Sunday caption contest: Free speech</title>
+      <link>https://robertreich.substack.com/p/sunday-caption-contest-free-speech-51c</link>
+      <description>
+        <![CDATA[And last week&#8217;s winner]]>
+      </description>
+      <source:markdown>And last week’s winner</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!EO_E!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fad3efbbf-9ccf-4607-8bcb-a5b4e330bcf4_2760x3500.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/sunday-caption-contest-free-speech-51c</guid>
     </item>    <item>
       <title>The Grand AGI Delusion</title>
       <link>https://garymarcus.substack.com/p/the-grand-agi-delusion</link>
@@ -118,9 +346,9 @@ Tags: [slashdot](https://simonwillison.net/tags/slashdot), [ai-ethics](https://s
       <title>Not so grim up north!</title>
       <link>https://statusq.org/archives/2025/10/12/13356/</link>
       <description>
-        <![CDATA[We&#8217;ve just returned from a somewhat spontaneous tour of northern England in our little campervan, which we cunningly timed to coincide with the unexpected arrival of Storm Amy. As friends and family sent us links to the orange weather warnings, we looked in vain for campsites named something like &#8216;Sheltered Glade&#8217;, and in fact always <a class="more-link excerpt-link" href="https://statusq.org/archives/2025/10/12/13356/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a>]]>
+        <![CDATA[We&#8217;ve just returned from a somewhat spontaneous tour of northern England in our little campervan, which we cunningly timed to coincide with the unexpected arrival of Storm Amy. As friends and family sent us links to the orange weather warnings, we looked in vain for campsites named something like &#8216;Sheltered Glade&#8217;, and instead always found <a class="more-link excerpt-link" href="https://statusq.org/archives/2025/10/12/13356/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a>]]>
       </description>
-      <source:markdown>We’ve just returned from a somewhat spontaneous tour of northern England in our little campervan, which we cunningly timed to coincide with the unexpected arrival of Storm Amy. As friends and family sent us links to the orange weather warnings, we looked in vain for campsites named something like ‘Sheltered Glade’, and in fact always [Continue Reading](https://statusq.org/archives/2025/10/12/13356/)</source:markdown>
+      <source:markdown>We’ve just returned from a somewhat spontaneous tour of northern England in our little campervan, which we cunningly timed to coincide with the unexpected arrival of Storm Amy. As friends and family sent us links to the orange weather warnings, we looked in vain for campsites named something like ‘Sheltered Glade’, and instead always found [Continue Reading](https://statusq.org/archives/2025/10/12/13356/)</source:markdown>
       <guid>cid://https://statusq.org/?p=13356</guid>
     </item>    <item>
       <link>https://www.theatlantic.com/newsletters/archive/2025/10/foreign-film-starter-pack/684530/?gift=f35zZN0v_gDFE8xNwlQAHaq8mSzZ9Ce-oOEz3GA1S7I&#38;utm_source=copy-link&#38;utm_medium=social&#38;utm_campaign=share</link>
@@ -208,6 +436,10 @@ Tags: [slashdot](https://simonwillison.net/tags/slashdot), [ai-ethics](https://s
       <title>Unintended consequences of prompt framing.</title>
       <link>https://blog.fsck.com/2025/10/12/unintended-consequences-of-prompt-framing/</link>
       <guid>cid://https://blog.fsck.com/2025/10/12/unintended-consequences-of-prompt-framing/</guid>
+    </item>    <item>
+      <title>weekly retro #36: following pumagreg&#39;s lead during the nor&#39;easter</title>
+      <link>https://livelaugh.blog/posts/weekly-retro-36/</link>
+      <guid>cid://https://livelaugh.blog/posts/weekly-retro-36/</guid>
     </item>    <item>
       <title>Scraping Google Calendar events</title>
       <link>https://maxhalford.github.io/blog/google-calendar-scraping/</link>
@@ -1760,7 +1992,7 @@ For the record, here’s my top ten:
 \[contains quote post or other embedded content\]</source:markdown>
       <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m2sw4cvlvk2f</guid>
     </item>    <item>
-      <title>314: A Stake Through The Cold, Dark Heart of King Coal 🪦♥︎. Plus, global safety, the Pacific eliminates rubella, and robotic ballet.</title>
+      <title>314: A Stake Through The Cold, Dark Heart of King Coal 🪦♥︎. Western Pacific eliminates rubella. The world feels safer. Robotic ballet.</title>
       <link>https://fixthenews.com/p/314-a-stake-through-the-cold-dark</link>
       <description>
         <![CDATA[Hidden stories of progress from around the world.]]>
@@ -1791,6 +2023,10 @@ For the record, here’s my top ten:
         <![CDATA[A Rube Goldberg machine for your ideas]]>
       </description>
       <source:markdown>A Rube Goldberg machine for your ideas</source:markdown>
+    </item>    <item>
+      <title>Humans Are Just Stochastic Parrots</title>
+      <link>https://tinyclouds/humans/</link>
+      <guid>cid://https://tinyclouds/humans/</guid>
     </item>    <item>
       <title>MAGA Tested, Trump Approved News</title>
       <link>https://steady.substack.com/p/maga-tested-trump-approved-news</link>
@@ -2333,13 +2569,6 @@ The post [The Official Raspberry Pi Handbook 2026 is here!](https://www.raspberr
       </description>
       <source:markdown>In this episode, Mark chats with Aurelio Volle from WPUmbrella about his journey in creating a WordPress management tool, maintaining customer focus, and the importance of community and transparency in business growth.</source:markdown>
       <guid>cid://https://openchannels.fm/?p=110936</guid>
-    </item>    <item>
-      <link>https://doc.searls.com/2025/10/01/why-i-am-here-instead-of-substack/</link>
-      <description>
-        <![CDATA[<p>Doc Searls: Why I am Here Instead of on Substack. I wanted to use Substack to send out my nightly emails, but found I’d have to type the text I wanted to send into their editor. I’m not a professional typist. So I created my own mail sending software.</p>]]>
-      </description>
-      <source:markdown>Doc Searls: Why I am Here Instead of on Substack. I wanted to use Substack to send out my nightly emails, but found I’d have to type the text I wanted to send into their editor. I’m not a professional typist. So I created my own mail sending software.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/09/1453/</guid>
     </item>    <item>
       <title>Lit Hub Daily: October 9, 2025</title>
       <link>https://lithub.com/lit-hub-daily-october-9-2025/</link>
@@ -9648,6 +9877,14 @@ Wednesday session</source:markdown>
       <title>Note published on October 1, 2025 at 7:24 PM UTC</title>
       <link>https://www.mollywhite.net/micro/entry/202510011522</link>
       <guid>cid://68dd7ff2c07d15a03fd1b4ce</guid>
+    </item>    <item>
+      <title>Why I am Here Instead of on Substack</title>
+      <link>https://doc.searls.com/2025/10/01/why-i-am-here-instead-of-substack/</link>
+      <description>
+        <![CDATA[This blog is mine. While it is hosted somewhere, it could be anywhere. The main thing: it isn&#8217;t on a platform, and doesn&#8217;t have to be. I publish it on my own, and syndicate it through RSS. This puts me in a publishing ecosystem that is wide open and full of interop. If you want [&#8230;]]]>
+      </description>
+      <source:markdown>This blog is mine. While it is hosted somewhere, it could be anywhere. The main thing: it isn’t on a platform, and doesn’t have to be. I publish it on my own, and syndicate it through RSS. This puts me in a publishing ecosystem that is wide open and full of interop. If you want \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/?p=19507</guid>
     </item>    <item>
       <title>From Haymarket Books, an Abolish the Border, Abolish the Police Reading List....</title>
       <link>https://kottke.org/25/10/0047626-from-haymarket-books-an-a</link>
@@ -18395,523 +18632,6 @@ Clang-Doc would need a preprocessing step where any reference to another entity 
 
 Thank you very much to my mentors Paul Kirth and Petr Hosek for guiding me and advising me in this project.I learned so much from review feedback and our conversations.I would not be presenting at the Dev Meeting if not for the encouragement you both gave.</source:markdown>
       <guid>cid://https://blog.llvm.org/posts/2025-gsoc-clang-doc/</guid>
-    </item>    <item>
-      <title>Episode 165 - LSI-11</title>
-      <link>https://adventofcomputing.libsyn.com/episode-165-lsi-11</link>
-      <description>
-        <![CDATA[<div> <div class="cm-bjFDAN"> <div class="sc-9628564b-0 kIMzev"> <div class="cm-bgKEqA undefined"> <div class="cm-LIiDtl cm-wHoaYV cm-KArsEf cm-ilkIKZ"> <div class=""> <div class="cm-LIiDtl cm-wHoaYV cm-mhTrbr cm-LsBaRW"> <p>This episode we continue my series on the PDP-11 by examining how DEC adapted to the advent of the microprocessor. Along the way we will see how the PDP-11 inspired new generations of computers, and the surprising connection to early digital hobbyists.</p> </div> </div> </div> </div> </div> </div> </div> <div class="sc-2c79702b-0 cVxBhp"> <div class= "cm-CjbveT cm-NPxkBI cm-kTUHea cm-giECTa cm-PpmxQT cm-bnYPun cm-PcQADW cm-bokJsc"> <div class= "cm-CjbveT cm-WLfYlv cm-GENDEJ cm-giECTa cm-PpmxQT cm-bnYPun cm-PcQADW cm-bhNYBU"> <div class= "cm-CjbveT cm-WLfYlv cm-kTUHea cm-AMMJHT cm-PpmxQT cm-bnYPun cm-PcQADW cm-bhNYBU"> <div class="cm-tpTLeG"> </div> </div> </div> </div> </div>]]>
-      </description>
-      <source:markdown>This episode we continue my series on the PDP-11 by examining how DEC adapted to the advent of the microprocessor. Along the way we will see how the PDP-11 inspired new generations of computers, and the surprising connection to early digital hobbyists.</source:markdown>
-      <enclosure url="https://traffic.libsyn.com/secure/adventofcomputing/ep165_lsi_11.mp3?dest-id=1206722" length="52839676" type="audio/mpeg" />
-      <guid>cid://a8d70ebd-5222-41d4-a8e1-a55c32c5a0ce</guid>
-    </item>    <item>
-      <title>Locally AI</title>
-      <link>https://simonwillison.net/2025/Sep/21/locally-ai/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://apps.apple.com/us/app/locally-ai-local-ai-chat/id6741426692">Locally AI</a></strong></p>
-        Handy new iOS app by Adrien Grondin for running local LLMs on your phone. It just added support for the new iOS 26 Apple Foundation model, so you can install this app and instantly start a conversation with that model without any additional download.</p>
-        <p>The app can also run a variety of other models using MLX, including members of the Gemma, Llama 3.2, and and Qwen families.
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/apple">apple</a>, <a href="https://simonwillison.net/tags/ios">ios</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a></p>]]>
-      </description>
-      <source:markdown>**[Locally AI](https://apps.apple.com/us/app/locally-ai-local-ai-chat/id6741426692)**
-
-Handy new iOS app by Adrien Grondin for running local LLMs on your phone. It just added support for the new iOS 26 Apple Foundation model, so you can install this app and instantly start a conversation with that model without any additional download.
-
-The app can also run a variety of other models using MLX, including members of the Gemma, Llama 3.2, and and Qwen families.
-
-
-
-Tags: [apple](https://simonwillison.net/tags/apple), [ios](https://simonwillison.net/tags/ios), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [local-llms](https://simonwillison.net/tags/local-llms), [llms](https://simonwillison.net/tags/llms), [mlx](https://simonwillison.net/tags/mlx)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Sep/21/locally-ai/#atom-everything</guid>
-    </item>    <item>
-      <title>Monday 22 September, 2025</title>
-      <link>https://memex.naughtons.org/monday-22-september-2025/41221/</link>
-      <description>
-        <![CDATA[Formal setting A lobby in a favourite hotel. Quote of the Day ”Once, when a British Prime Minister sneezed, men half a world away would blow their noses. Now when a British Prime Minister sneezes nobody else will even say &#8230; <a href="https://memex.naughtons.org/monday-22-september-2025/41221/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <source:markdown>Formal setting A lobby in a favourite hotel. Quote of the Day ”Once, when a British Prime Minister sneezed, men half a world away would blow their noses. Now when a British Prime Minister sneezes nobody else will even say … [Continue reading →](https://memex.naughtons.org/monday-22-september-2025/41221/)</source:markdown>
-      <guid>cid://https://memex.naughtons.org/?p=41221</guid>
-    </item>    <item>
-      <title>602. Greek Myths: Zeus, King of the Gods (Part 1)</title>
-      <link>https://therestishistory.com/602-greek-myths-zeus-king-of-the-gods-part-1/</link>
-      <description>
-        <![CDATA[<p>What are the mythic origins of Zeus, King of the Olympians, and the other Greek gods? From what period did the earliest of the Greek myths derive? Who was Hesiod &#8211; alongside Homer, the greatest of the Greek poets, and the father of European literature &#8211; who first recorded Zeus’ story? When was the golden [&#8230;]</p>
-        <p>The post <a href="https://therestishistory.com/602-greek-myths-zeus-king-of-the-gods-part-1/">602. Greek Myths: Zeus, King of the Gods (Part 1)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>]]>
-      </description>
-      <source:markdown>What are the mythic origins of Zeus, King of the Olympians, and the other Greek gods? From what period did the earliest of the Greek myths derive? Who was Hesiod – alongside Homer, the greatest of the Greek poets, and the father of European literature – who first recorded Zeus’ story? When was the golden \[…\]
-
-The post [602\. Greek Myths: Zeus, King of the Gods (Part 1)](https://therestishistory.com/602-greek-myths-zeus-king-of-the-gods-part-1/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
-      <guid>cid://https://therestishistory.com/602-greek-myths-zeus-king-of-the-gods-part-1/</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3lzeyfybc7k2k</link>
-      <description>
-        <![CDATA[I think you are correct 👇
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3lzeyfybc7k2k</guid>
-    </item>    <item>
-      <title>Sunday night session</title>
-      <link>https://adactio.com/notes/22144</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22144/small.jpg" srcset="https://adactio.com/images/uploaded/22144/medium.jpg 1.5x, https://adactio.com/images/uploaded/22144/large.jpg 2.5x" alt="Sunday night session" />
-        <p>Sunday night session</p>]]>
-      </description>
-      <source:markdown>![Sunday night session](https://adactio.com/images/uploaded/22144/small.jpg)
-
-Sunday night session</source:markdown>
-      <guid>cid://https://adactio.com/notes/22144</guid>
-    </item>    <item>
-      <title>Sunday caption contest: Free speech?</title>
-      <link>https://robertreich.substack.com/p/sunday-caption-contest-free-speech</link>
-      <description>
-        <![CDATA[And last week&#8217;s winner]]>
-      </description>
-      <source:markdown>And last week’s winner</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!Tiha!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb045679-676a-404e-adc4-26feccf606f6_3500x2289.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/sunday-caption-contest-free-speech</guid>
-    </item>    <item>
-      <title>Librem PQC Encryptor: Future‑Proofing Against Both SS7 and Quantum</title>
-      <link>https://puri.sm/posts/librem-pqc-encryptor-future%e2%80%91proofing-against-both-ss7-and-quantum/</link>
-      <description>
-        <![CDATA[<p>Signaling System 7 (SS7) was designed in the 1970s to let telecom carriers route calls, deliver SMS, and enable roaming. It was never built with authentication or encryption in mind. Security wasn’t part of the plan.  The assumption was simple:  All carriers are trusted.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/librem-pqc-encryptor-future%e2%80%91proofing-against-both-ss7-and-quantum/">Librem PQC Encryptor: Future‑Proofing Against Both SS7 and Quantum</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <guid>cid://https://puri.sm/?p=84444</guid>
-    </item>    <item>
-      <title>Librem PQC Encryptor: Future‑Proofing Against Both SS7 and Quantum</title>
-      <link>https://puri.sm/posts/librem-pqc-encryptor-future-proofing-against-both-ss7-and-quantum/</link>
-      <description>
-        <![CDATA[<p>Signaling System 7 (SS7) was designed in the 1970s to let telecom carriers route calls, deliver SMS, and enable roaming. It was never built with authentication or encryption in mind. Security wasn’t part of the plan.  The assumption was simple:  All carriers are trusted.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/librem-pqc-encryptor-future-proofing-against-both-ss7-and-quantum/">Librem PQC Encryptor: Future‑Proofing Against Both SS7 and Quantum</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>Signaling System 7 (SS7) was designed in the 1970s to let telecom carriers route calls, deliver SMS, and enable roaming. It was never built with authentication or encryption in mind. Security wasn’t part of the plan.  The assumption was simple:  All carriers are trusted.
-
-The post [Librem PQC Encryptor: Future‑Proofing Against Both SS7 and Quantum](https://puri.sm/posts/librem-pqc-encryptor-future-proofing-against-both-ss7-and-quantum/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=84444</guid>
-    </item>    <item>
-      <title>Shortwave App Now Available</title>
-      <link>https://puri.sm/posts/shortwave-app-now-available/</link>
-      <description>
-        <![CDATA[<p>Shortwave is an internet radio player that provides access to a station database with over 50,000 stations. </p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/shortwave-app-now-available/">Shortwave App Now Available</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>Shortwave is an internet radio player that provides access to a station database with over 50,000 stations.
-
-The post [Shortwave App Now Available](https://puri.sm/posts/shortwave-app-now-available/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <enclosure url="https://videos.puri.sm/librem5/apps/shortwave.mp4" length="5036912" type="video/mp4" />
-      <guid>cid://https://puri.sm/?p=84397</guid>
-    </item>    <item>
-      <title>Newsboat 2.41 is out</title>
-      <link>https://newsboat.org/releases/2.41/docs/newsboat.html</link>
-      <description>
-        <![CDATA[<p>
-                        According to the changelog, this is yet another small bugfix-ish
-                        release. Nothing major. I’d certainly like for it to appear
-                        so :)
-                    </p>
-        
-                    <p>
-                        Under the hood though, there’s the biggest refactor we did to
-                        date. When we started porting Newsboat to Rust, some of you ran
-                        into a bug where the program couldn’t read the cache file due to
-                        some "non-UTF-8" data in it. The core of the issue is that
-                        not enough care was given to separate strings in different
-                        encodings. Rust exposed those problems because it’s way more
-                        strict about string encodings. With 2.41, we make the first step
-                        towards resolving those problems, by separating filesystem paths
-                        and other strings.
-                    </p>
-        
-                    <p>
-                        In parallel to that, there is work ongoing to improve Newsboat’s
-                        ability to convert all incoming articles to UTF-8. This helps
-                        with some feeds today, but most importantly, it prepares us for
-                        the future when all text in Newsboat would be encoded in UTF-8.
-                    </p>
-        
-                    <p>Please check out the links below, and don't hesitate to open issues if there’s something amiss:
-                            <a href="https://newsboat.org/releases/2.41/newsboat-2.41.tar.xz">tar.xz</a>,
-                            <a href="https://newsboat.org/releases/2.41/newsboat-2.41.tar.xz.asc">asc</a>,
-                            <a href="https://newsboat.org/releases/2.41/docs/newsboat.html">docs</a>,
-                            <a href="https://newsboat.org/releases/2.41/docs/faq.html">FAQ</a>,
-                            <a href="https://github.com/newsboat/newsboat/blob/master/CHANGELOG.md#241---2025-09-21">changelog</a>.
-                    </p>]]>
-      </description>
-      <source:markdown>According to the changelog, this is yet another small bugfix-ish
-release. Nothing major. I’d certainly like for it to appear
-so :)
-
-
-Under the hood though, there’s the biggest refactor we did to
-date. When we started porting Newsboat to Rust, some of you ran
-into a bug where the program couldn’t read the cache file due to
-some &#34;non-UTF-8&#34; data in it. The core of the issue is that
-not enough care was given to separate strings in different
-encodings. Rust exposed those problems because it’s way more
-strict about string encodings. With 2.41, we make the first step
-towards resolving those problems, by separating filesystem paths
-and other strings.
-
-
-In parallel to that, there is work ongoing to improve Newsboat’s
-ability to convert all incoming articles to UTF-8. This helps
-with some feeds today, but most importantly, it prepares us for
-the future when all text in Newsboat would be encoded in UTF-8.
-
-
-Please check out the links below, and don&#39;t hesitate to open issues if there’s something amiss:
-[tar.xz](https://newsboat.org/releases/2.41/newsboat-2.41.tar.xz),
-[asc](https://newsboat.org/releases/2.41/newsboat-2.41.tar.xz.asc),
-[docs](https://newsboat.org/releases/2.41/docs/newsboat.html),
-[FAQ](https://newsboat.org/releases/2.41/docs/faq.html),
-[changelog](https://github.com/newsboat/newsboat/blob/master/CHANGELOG.md#241---2025-09-21).</source:markdown>
-      <author>eual.jp@gmail.com (Alexander Batischev)</author>
-      <guid>cid://https://newsboat.org/releases/2.41/docs/newsboat.html</guid>
-    </item>    <item>
-      <title>Anti-*: The Things We Do But Not All The Way</title>
-      <link>https://blog.jim-nielsen.com/2025/my-antis/</link>
-      <description>
-        <![CDATA[<p>I was reading <a href="https://chsmc.org/2025/07/antibuildings/" >Chase McCoy’s article “Antibuildings”</a> where he cites <a href="https://en.wikipedia.org/wiki/Antilibrary" >Wikipedia’s entry on the term “Antilibrary”</a> which points to another entry about <a href="https://en.wikipedia.org/wiki/Tsundoku" >the Japanese concept of Tsundoku</a>, all of which deal with this idea of things we do with intention but that never make it to fruition.</p>
-        <p>Antilibraries are the books we buy but never read.</p>
-        <p>Antibuildings the architect’s version of sketches and plans drafted but buildings never made.</p>
-        <p>It got me thinking about the stuff I’ve started with intention but never brought to fruition — my own anti-*’s.</p>
-        <p>To name a few:</p>
-        <ul>
-        <li><strong>Antidomains</strong>: the domains I bought and had big plans for, but they never progressed beyond being parked at my registrar. (<a href="https://www.zachleat.com/domains/" >Zach Leatherman recently made a list kinda like this</a>, if you haven’t seen it.)</li>
-        <li><strong>Antiwebsites</strong>: the sites I was gonna make, but never shipped.</li>
-        <li><strong>Antilayers</strong>: the Photoshop, Sketch, or Figma designs I painstakingly crafted to the level of “completeness”, but then never began building with code.</li>
-        <li><strong>Anticode</strong>: the changes I made that functioned to the level of being usable and shippable, but then I never could pull the trigger on ‘em.</li>
-        <li><strong>Antiposts</strong>: (also known as “drafts”, lol) all those blog posts I poured time and energy into researching, writing, and editing, but never could take all the way to “published”.</li>
-        <li><strong>Antitweets</strong>: all the Tweets/Toots/Skeets I meticulously crafted as witty comebacks or sarcastic quips, but then never posted (honestly, probably for the better).</li>
-        </ul>
-        <p>And last, but certainly not least — in fact, probably grandest of them all:</p>
-        <ul>
-        <li><strong>Antitabs</strong>: all the browser tabs of articles, videos, recipes, and other good things I collected and was going to read, watch, bake, etc. but never did.</li>
-        </ul>
-        <p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2025/antilibrary-antitabs.jpg" width="902" height="398" alt="Photo of a bookshelf on top with lots of books, below that a screenshot of a bunch of tabs where all you can see is favicons" data-og-image /></p>
-            <hr />
-            
-        
-            <p>
-              Reply via:
-              
-        
-              <a
-                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/my-antis/"
-                >Email</a
-              >
-              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
-        
-              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
-            </p>
-        
-            
-              <p>
-                Related posts linking here:
-                <a href="/2025/og-images-via-data-attributes/">(2025) Social Share Imagery via a Data Attribute</a>
-              </p>]]>
-      </description>
-      <source:markdown>I was reading [Chase McCoy’s article “Antibuildings”](https://chsmc.org/2025/07/antibuildings/) where he cites [Wikipedia’s entry on the term “Antilibrary”](https://en.wikipedia.org/wiki/Antilibrary) which points to another entry about [the Japanese concept of Tsundoku](https://en.wikipedia.org/wiki/Tsundoku), all of which deal with this idea of things we do with intention but that never make it to fruition.
-
-Antilibraries are the books we buy but never read.
-
-Antibuildings the architect’s version of sketches and plans drafted but buildings never made.
-
-It got me thinking about the stuff I’ve started with intention but never brought to fruition — my own anti-\*’s.
-
-To name a few:
-
-- **Antidomains**: the domains I bought and had big plans for, but they never progressed beyond being parked at my registrar. ( [Zach Leatherman recently made a list kinda like this](https://www.zachleat.com/domains/), if you haven’t seen it.)
-- **Antiwebsites**: the sites I was gonna make, but never shipped.
-- **Antilayers**: the Photoshop, Sketch, or Figma designs I painstakingly crafted to the level of “completeness”, but then never began building with code.
-- **Anticode**: the changes I made that functioned to the level of being usable and shippable, but then I never could pull the trigger on ‘em.
-- **Antiposts**: (also known as “drafts”, lol) all those blog posts I poured time and energy into researching, writing, and editing, but never could take all the way to “published”.
-- **Antitweets**: all the Tweets/Toots/Skeets I meticulously crafted as witty comebacks or sarcastic quips, but then never posted (honestly, probably for the better).
-
-And last, but certainly not least — in fact, probably grandest of them all:
-
-- **Antitabs**: all the browser tabs of articles, videos, recipes, and other good things I collected and was going to read, watch, bake, etc. but never did.
-
-![Photo of a bookshelf on top with lots of books, below that a screenshot of a bunch of tabs where all you can see is favicons](https://cdn.jim-nielsen.com/blog/2025/antilibrary-antitabs.jpg)
-
-* * *
-
-Reply via:
-
-
-[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/my-antis/)
-· [Mastodon](https://mastodon.social/@jimniels) ·
-
-[Bluesky](https://bsky.app/profile/jim-nielsen.com)
-
-Related posts linking here:
-[(2025) Social Share Imagery via a Data Attribute](/2025/og-images-via-data-attributes/)</source:markdown>
-      <guid>cid://https://blog.jim-nielsen.com/2025/my-antis/</guid>
-    </item>    <item>
-      <link>https://www.pravda.com.ua/eng/news/2025/09/21/7531765/</link>
-      <description>
-        <![CDATA[<p>Czech president: NATO must respond militarily to Russian violations.</p>]]>
-      </description>
-      <source:markdown>Czech president: NATO must respond militarily to Russian violations.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/21/1191/</guid>
-    </item>    <item>
-      <link>https://www.theatlantic.com/ideas/archive/2025/09/trump-bondi-edva/684292/?gift=f35zZN0v_gDFE8xNwlQAHbnNuX5d1UjEs4oMp5ROUx0&#38;utm_source=copy-link&#38;utm_medium=social&#38;utm_campaign=share</link>
-      <description>
-        <![CDATA[<p>Trump Might Be Losing His Race Against Time.</p>]]>
-      </description>
-      <source:markdown>Trump Might Be Losing His Race Against Time.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/21/1189/</guid>
-    </item>    <item>
-      <title>Aguanta, todo va a estar bien</title>
-      <link>https://ourfuture.org/20250921/aguanta-todo-va-a-estar-bien</link>
-      <description>
-        <![CDATA[Los próximos meses nos pondrán a prueba como nunca antes. Como personas que creemos en la democracia, lo que significa que creemos unos en otros, nos veremos obligados a tomar decisiones difíciles. "Ánimo, chicas, todo va a estar bien". Eso les dije a mis tres hijas en nuestra última llamada familiar. Luego nos quedamos en [&#8230;]
-        <p><a href="https://ourfuture.org/20250921/aguanta-todo-va-a-estar-bien" rel="nofollow">Source</a></p>]]>
-      </description>
-      <source:markdown>Los próximos meses nos pondrán a prueba como nunca antes. Como personas que creemos en la democracia, lo que significa que creemos unos en otros, nos veremos obligados a tomar decisiones difíciles. &#34;Ánimo, chicas, todo va a estar bien&#34;. Eso les dije a mis tres hijas en nuestra última llamada familiar. Luego nos quedamos en \[…\]
-
-[Source](https://ourfuture.org/20250921/aguanta-todo-va-a-estar-bien)</source:markdown>
-      <guid>cid://https://ourfuture.org/?p=234710</guid>
-    </item>    <item>
-      <title>Hang In There, We Are Going to Be Ok</title>
-      <link>https://ourfuture.org/20250921/hang-in-there-we-are-going-to-be-ok</link>
-      <description>
-        <![CDATA[As people who believe in democracy, which means we believe in one another, we will be called on to make hard choices in coming months. I wish there was an easy answer. “Hang in there girls, we’re going to be okay.” That’s what I told my three daughters on our last family call. Then we [&#8230;]
-        <p><a href="https://ourfuture.org/20250921/hang-in-there-we-are-going-to-be-ok" rel="nofollow">Source</a></p>]]>
-      </description>
-      <source:markdown>As people who believe in democracy, which means we believe in one another, we will be called on to make hard choices in coming months. I wish there was an easy answer. “Hang in there girls, we’re going to be okay.” That’s what I told my three daughters on our last family call. Then we \[…\]
-
-[Source](https://ourfuture.org/20250921/hang-in-there-we-are-going-to-be-ok)</source:markdown>
-      <guid>cid://https://ourfuture.org/?p=234707</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/21.html#a154237</link>
-      <description>
-        <![CDATA[New release of the <a href="https://github.com/scripting/feedlandSocket?tab=readme-ov-file#watch-it-run">feedlandSockets code</a>. Still more work to do.]]>
-      </description>
-      <source:markdown>New release of the [feedlandSockets code](https://github.com/scripting/feedlandSocket?tab=readme-ov-file#watch-it-run). Still more work to do.</source:markdown>
-      <guid>cid://http://scripting.com/2025/09/21.html#a154237</guid>
-    </item>    <item>
-      <title>Stick To The Beat</title>
-      <link>https://feed.tedium.co/link/15204/17167610/drum-machines-pop-music-history</link>
-      <description>
-        <![CDATA[How the drum machine, despite being a machine, proved just to have just enough heart to dominate the pop charts.]]>
-      </description>
-      <source:markdown>How the drum machine, despite being a machine, proved just to have just enough heart to dominate the pop charts.</source:markdown>
-      <guid>cid://https://tedium.co/2025/09/21/drum-machines-pop-music-history/</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/21.html#a133339</link>
-      <description>
-        <![CDATA[Here's a thought for WordPress users and developers. WordPress is huge, but it's just part of the web. That's what it means to be on the web, my friends. Everything connects to anything on the web. Once we build out a social network from WordPress, all the other systems will have no choice but to hook up too. All this talk of AT Proto and ActivityPub being the connecting glue is nonsense. <i>The web is the connecting glue. </i>]]>
-      </description>
-      <source:markdown>Here&#39;s a thought for WordPress users and developers. WordPress is huge, but it&#39;s just part of the web. That&#39;s what it means to be on the web, my friends. Everything connects to anything on the web. Once we build out a social network from WordPress, all the other systems will have no choice but to hook up too. All this talk of AT Proto and ActivityPub being the connecting glue is nonsense. _The web is the connecting glue._</source:markdown>
-      <guid>cid://http://scripting.com/2025/09/21.html#a133339</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/21.html#a130613</link>
-      <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2025/08/28/thinkDifferentBillboard.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Last night I learned about <a href="https://www.gatsbyjs.com/docs/glossary/headless-wordpress/">headless WordPress</a> installations from a <a href="https://x.com/photomatt/status/1969510572853993587">tweet</a> by Matt Mullenweg. It got me going on various explorations. Wrote a <a href="https://daveverse.org/2025/09/21/dave-learns-of-headless-wordpress/">blog post</a> on my WP site. It's actually easier for me to write posts on that site when all I have is my iPad. I do all my writing on Scripting News in <a href="https://docserver.scripting.com/drummer/electricDrummer.opml">Electric Drummer</a>, which is a desktop-only app. I'm going to start engaging in discussions about WordPress where the people are. Also starting to think about my keynote in Ottawa in October which is now less than a month away. A note to the people running the show, I would be open to having it be an interview instead of a speech. I have trouble staying anchored to the audience with slides, I don't really like that way of communicating. I prefer interview style, with an interviewer who is interested in the subject matter. I want to do at least a bit of a demo, talk about how we got here, the early blogosphere, all the things that led to WordPress, and the connection WordPress has now to social media systems like Mastodon. We must focus on that connection because so much has been accomplished there in the last year, and it hasn't imho gotten enough attention. I want to talk more about the big picture, how WordPress has a role to play that goes beyond serving ecommerce sites, which is, I understand where the money is. Money is good but right now imho our world wide public communication system desperately needs an upgrade. It's been crippled by decisions made by Twitter almost 20 years ago. I want to turn that around, put back <a href="https://textcasting.org/">the features they took out</a>, and to do that I need to start a network that's built on the web, not in silos that can't connect to each other. That is not the web I know, where everything can connect to anything. I don't think at this time any of the social media apps should be considered part of the web. I remember the magic of the web, we built the blogosphere around the web, and thus WordPress is also built around the web. For more perspective, see the <a href="http://scripting.com/2025/08/28/140604.html">piece</a> I wrote in August about thinking differently about WordPress. That's what I am the evangelist for, thinking about WordPress in a different, wider role, bringing the web to the people in a very usable way.]]>
-      </description>
-      <source:markdown>![](https://imgs.scripting.com/2025/08/28/thinkDifferentBillboard.png)Last night I learned about [headless WordPress](https://www.gatsbyjs.com/docs/glossary/headless-wordpress/) installations from a [tweet](https://x.com/photomatt/status/1969510572853993587) by Matt Mullenweg. It got me going on various explorations. Wrote a [blog post](https://daveverse.org/2025/09/21/dave-learns-of-headless-wordpress/) on my WP site. It&#39;s actually easier for me to write posts on that site when all I have is my iPad. I do all my writing on Scripting News in [Electric Drummer](https://docserver.scripting.com/drummer/electricDrummer.opml), which is a desktop-only app. I&#39;m going to start engaging in discussions about WordPress where the people are. Also starting to think about my keynote in Ottawa in October which is now less than a month away. A note to the people running the show, I would be open to having it be an interview instead of a speech. I have trouble staying anchored to the audience with slides, I don&#39;t really like that way of communicating. I prefer interview style, with an interviewer who is interested in the subject matter. I want to do at least a bit of a demo, talk about how we got here, the early blogosphere, all the things that led to WordPress, and the connection WordPress has now to social media systems like Mastodon. We must focus on that connection because so much has been accomplished there in the last year, and it hasn&#39;t imho gotten enough attention. I want to talk more about the big picture, how WordPress has a role to play that goes beyond serving ecommerce sites, which is, I understand where the money is. Money is good but right now imho our world wide public communication system desperately needs an upgrade. It&#39;s been crippled by decisions made by Twitter almost 20 years ago. I want to turn that around, put back [the features they took out](https://textcasting.org/), and to do that I need to start a network that&#39;s built on the web, not in silos that can&#39;t connect to each other. That is not the web I know, where everything can connect to anything. I don&#39;t think at this time any of the social media apps should be considered part of the web. I remember the magic of the web, we built the blogosphere around the web, and thus WordPress is also built around the web. For more perspective, see the [piece](http://scripting.com/2025/08/28/140604.html) I wrote in August about thinking differently about WordPress. That&#39;s what I am the evangelist for, thinking about WordPress in a different, wider role, bringing the web to the people in a very usable way.</source:markdown>
-      <guid>cid://http://scripting.com/2025/09/21.html#a130613</guid>
-    </item>    <item>
-      <title>’September’</title>
-      <link>https://steady.substack.com/p/september</link>
-      <description>
-        <![CDATA[A Reason To Smile]]>
-      </description>
-      <source:markdown>A Reason To Smile</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!oK4c!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F580160cc-47b5-4cad-baaf-e0a0fc1feb5b_3670x2355.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://steady.substack.com/p/september</guid>
-    </item>    <item>
-      <link>https://m.youtube.com/watch?v=emiBWDG0jKo</link>
-      <description>
-        <![CDATA[<p>This is the ad the Dems are too chickenshit to run.</p>]]>
-      </description>
-      <source:markdown>This is the ad the Dems are too chickenshit to run.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/21/1187/</guid>
-    </item>    <item>
-      <link>https://www.nytimes.com/2025/09/20/us/politics/jeffries-schumer-trump.html</link>
-      <description>
-        <![CDATA[<p>To which Trump would likely say “bipartisan? What dat?”</p>]]>
-      </description>
-      <source:markdown>To which Trump would likely say “bipartisan? What dat?”</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/21/1185/</guid>
-    </item>    <item>
-      <link>https://www.theguardian.com/global/commentisfree/2025/sep/21/trumps-fed-attacks-independence-dangerous</link>
-      <description>
-        <![CDATA[<p>Why Trump’s attacks on the Fed’s independence are so dangerous.</p>]]>
-      </description>
-      <source:markdown>Why Trump’s attacks on the Fed’s independence are so dangerous.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/21/1180/</guid>
-    </item>    <item>
-      <link>https://www.theguardian.com/technology/2025/sep/21/meta-expose-author-sarah-wynn-williams-faces-bankruptcy-after-ban-on-criticising-company</link>
-      <description>
-        <![CDATA[<p>Meta exposé author faces bankruptcy after ban on criticising company.</p>]]>
-      </description>
-      <source:markdown>Meta exposé author faces bankruptcy after ban on criticising company.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/21/1177/</guid>
-    </item>    <item>
-      <link>https://www.politico.com/news/2025/09/20/trump-bondi-truth-social-00574380?utm_content=politico/magazine/Politics&#38;utm_source=RSS_Feed&#38;utm_medium=RSS&#38;utm_campaign=RSS_Syndication</link>
-      <description>
-        <![CDATA[<p>Trump had a huge brain fart. He shouldn’t have posted that private message to Pam Bondi in public the way he did. Ooops.</p>]]>
-      </description>
-      <source:markdown>Trump had a huge brain fart. He shouldn’t have posted that private message to Pam Bondi in public the way he did. Ooops.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/21/1175/</guid>
-    </item>    <item>
-      <link>https://www.nbcchicago.com/news/local/ice-posts-help-wanted-sign-in-chicago-aimed-to-lure-peeved-police/3825853/</link>
-      <description>
-        <![CDATA[<p>Controversial ICE commercial aims to lure peeved Chicago police. They ran the same commercial in NY.</p>]]>
-      </description>
-      <source:markdown>Controversial ICE commercial aims to lure peeved Chicago police. They ran the same commercial in NY.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/21/1173/</guid>
-    </item>    <item>
-      <title>Women, Men and Jobs</title>
-      <link>https://paulkrugman.substack.com/p/women-men-and-jobs</link>
-      <description>
-        <![CDATA[Men are in trouble. Are women responsible?]]>
-      </description>
-      <source:markdown>Men are in trouble. Are women responsible?</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!83kq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F54321fee-c498-420e-9703-758692316b73_800x450.png" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/women-men-and-jobs</guid>
-    </item>    <item>
-      <title>Sunday thought: Confronting tyranny</title>
-      <link>https://robertreich.substack.com/p/sunday-thought-e69</link>
-      <description>
-        <![CDATA[Seven things we&#8217;ve learned]]>
-      </description>
-      <source:markdown>Seven things we’ve learned</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!5MNy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7204453-f086-4749-b06c-7c4aaa2c1dc7_3500x2910.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/sunday-thought-e69</guid>
-    </item>    <item>
-      <title>Wandering the river</title>
-      <link>https://tracydurnell.com/2025/09/20/wandering-the-river/</link>
-      <description>
-        <![CDATA[We trekked up to the mountains today &#8212; hit construction traffic so it took twice as long as usual, about an hour and a half. After a picnic lunch, we meandered the riverbank checking out rocks. We used to come here all the time but iirc it&#8217;s been a couple years. Unfortunately, the air was [&#8230;]]]>
-      </description>
-      <source:markdown>We trekked up to the mountains today — hit construction traffic so it took twice as long as usual, about an hour and a half. After a picnic lunch, we meandered the riverbank checking out rocks. We used to come here all the time but iirc it’s been a couple years. Unfortunately, the air was \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=29988</guid>
-    </item>    <item>
-      <title>We Could All Use Some Robert Reich Right Now</title>
-      <link>https://www.borowitzreport.com/p/we-could-all-use-some-robert-reich</link>
-      <description>
-        <![CDATA[The Andy Borowitz Show]]>
-      </description>
-      <source:markdown>The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://substack-video.s3.amazonaws.com/video_upload/post/174065842/995cf53d-0d00-4702-8243-db9bf292caf5/transcoded-1758324033.png" length="0" type="image/jpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/we-could-all-use-some-robert-reich</guid>
-    </item>    <item>
-      <title>September 20, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-20-2025</link>
-      <description>
-        <![CDATA[Is it possible that the last time I posted a picture was September 1?]]>
-      </description>
-      <source:markdown>Is it possible that the last time I posted a picture was September 1?</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!HVLv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7db3e957-1af0-4d3f-8078-f9de67186592_5712x4284.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-20-2025</guid>
-    </item>    <item>
-      <link>http://xmlviewer.scripting.com/?url=https://wordland.social/scripting/237777565/rss.xml</link>
-      <description>
-        <![CDATA[<p>This is what a WordLand feed looks like. Pretty straight RSS 2.0 feed with a few additions. Includes Wordpress site and post id’s and markdown text for each item. Also it’s possible to use this feed for linkblog entries.</p>]]>
-      </description>
-      <source:markdown>This is what a WordLand feed looks like. Pretty straight RSS 2.0 feed with a few additions. Includes Wordpress site and post id’s and markdown text for each item. Also it’s possible to use this feed for linkblog entries.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/20/1171/</guid>
-    </item>    <item>
-      <title>llm-openrouter 0.5</title>
-      <link>https://simonwillison.net/2025/Sep/21/llm-openrouter/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://github.com/simonw/llm-openrouter/releases/tag/0.5">llm-openrouter 0.5</a></strong></p>
-        New release of my <a href="https://llm.datasette.io/">LLM</a> plugin for accessing models made available via <a href="https://openrouter.ai/">OpenRouter</a>. The release notes in full:</p>
-        <blockquote>
-        <ul>
-        <li>Support for <a href="https://llm.datasette.io/en/stable/tools.html">tool calling</a>. Thanks, <a href="https://github.com/jamessanford">James Sanford</a>. <a href="https://github.com/simonw/llm-openrouter/pull/43">#43</a></li>
-        <li>Support for reasoning options, for example <code>llm -m openrouter/openai/gpt-5 'prove dogs exist' -o reasoning_effort medium</code>. <a href="https://github.com/simonw/llm-openrouter/issues/45">#45</a></li>
-        </ul>
-        </blockquote>
-        <p>Tool calling is a really big deal, as it means you can now use the plugin to try out tools (and <a href="https://simonwillison.net/2025/Sep/18/agents/">build agents, if you like</a>) against any of the 179 tool-enabled models on that platform:</p>
-        <pre><code>llm install llm-openrouter
-        llm keys set openrouter
-        # Paste key here
-        llm models --tools | grep 'OpenRouter:' | wc -l
-        # Outputs 179
-        </code></pre>
-        <p>Quite a few of the models hosted on OpenRouter can be accessed for free. Here's a tool-usage example using the <a href="https://github.com/simonw/llm-tools-datasette">llm-tools-datasette plugin</a> against the new <a href="https://simonwillison.net/2025/Sep/20/grok-4-fast/">Grok 4 Fast model</a>:</p>
-        <pre><code>llm install llm-tools-datasette
-        llm -m openrouter/x-ai/grok-4-fast:free -T 'Datasette("https://datasette.io/content")' 'Count available plugins'
-        </code></pre>
-        <p>Outputs:</p>
-        <blockquote>
-        <p>There are 154 available plugins.</p>
-        </blockquote>
-        <p><a href="https://gist.github.com/simonw/43c56203887dd0d07351443a2ba18f29">The output</a> of <code>llm logs -cu</code> shows the tool calls and SQL queries it executed to get that result.
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/openrouter">openrouter</a></p>]]>
-      </description>
-      <source:markdown>**[llm-openrouter 0.5](https://github.com/simonw/llm-openrouter/releases/tag/0.5)**
-
-New release of my [LLM](https://llm.datasette.io/) plugin for accessing models made available via [OpenRouter](https://openrouter.ai/). The release notes in full:
-
-&#62; - Support for [tool calling](https://llm.datasette.io/en/stable/tools.html). Thanks, [James Sanford](https://github.com/jamessanford). [#43](https://github.com/simonw/llm-openrouter/pull/43)
-&#62; - Support for reasoning options, for example `llm -m openrouter/openai/gpt-5 &#39;prove dogs exist&#39; -o reasoning_effort medium`. [#45](https://github.com/simonw/llm-openrouter/issues/45)
-
-Tool calling is a really big deal, as it means you can now use the plugin to try out tools (and [build agents, if you like](https://simonwillison.net/2025/Sep/18/agents/)) against any of the 179 tool-enabled models on that platform:
-
-```
-llm install llm-openrouter
-llm keys set openrouter
-# Paste key here
-llm models --tools | grep &#39;OpenRouter:&#39; | wc -l
-# Outputs 179
-
-```
-
-Quite a few of the models hosted on OpenRouter can be accessed for free. Here&#39;s a tool-usage example using the [llm-tools-datasette plugin](https://github.com/simonw/llm-tools-datasette) against the new [Grok 4 Fast model](https://simonwillison.net/2025/Sep/20/grok-4-fast/):
-
-```
-llm install llm-tools-datasette
-llm -m openrouter/x-ai/grok-4-fast:free -T &#39;Datasette(&#34;https://datasette.io/content&#34;)&#39; &#39;Count available plugins&#39;
-
-```
-
-Outputs:
-
-&#62; There are 154 available plugins.
-
-[The output](https://gist.github.com/simonw/43c56203887dd0d07351443a2ba18f29) of `llm logs -cu` shows the tool calls and SQL queries it executed to get that result.
-
-
-
-Tags: [projects](https://simonwillison.net/tags/projects), [ai](https://simonwillison.net/tags/ai), [datasette](https://simonwillison.net/tags/datasette), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [llm](https://simonwillison.net/tags/llm), [llm-tool-use](https://simonwillison.net/tags/llm-tool-use), [llm-reasoning](https://simonwillison.net/tags/llm-reasoning), [openrouter](https://simonwillison.net/tags/openrouter)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Sep/21/llm-openrouter/#atom-everything</guid>
-    </item>    <item>
-      <link>https://www.nytimes.com/2025/09/20/opinion/maga-trump-debate-kirk.html?unlocked_article_code=1.nU8.PXAD.Ib6WCP590baJ&#38;smid=nytcore-ios-share&#38;referringSource=articleShare</link>
-      <description>
-        <![CDATA[<p>The MAGA Movement Is Not a Debating Society.</p>]]>
-      </description>
-      <source:markdown>The MAGA Movement Is Not a Debating Society.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/20/1169/</guid>
-    </item>    <item>
-      <title>Web Standards and the Fall of the House of Iamus</title>
-      <link>https://infrequently.org/2025/09/standards-and-the-fall-of-iamus/</link>
-      <guid>cid://https://infrequently.org/2025/09/standards-and-the-fall-of-iamus/</guid>
-    </item>    <item>
-      <title>Ultra Tour Monte Rosa (UTMR) Race Report</title>
-      <link>https://educatedguesswork.org/posts/utmr/</link>
-      <guid>cid://https://educatedguesswork.org/posts/utmr/</guid>
-    </item>    <item>
-      <title>weekly retro #33: being bad at new things is good</title>
-      <link>https://livelaugh.blog/posts/weekly-retro-33/</link>
-      <guid>cid://https://livelaugh.blog/posts/weekly-retro-33/</guid>
-    </item>    <item>
-      <title>Groesbeek&#39;s Gruwelijkste 2025</title>
-      <link>https://miek.nl/galleries/2025-groesbeeks-gruwelijkste/</link>
-      <description>
-        <![CDATA[<p>Op zondag 21 September Groesbeek&rsquo;s Gruwelijkste (11e editie, de <em>laatste</em>) gereden. De 75 km.</p>]]>
-      </description>
-      <source:markdown>Op zondag 21 September Groesbeek’s Gruwelijkste (11e editie, de _laatste_) gereden. De 75 km.</source:markdown>
-      <guid>cid://https://miek.nl/galleries/2025-groesbeeks-gruwelijkste/</guid>
     </item>
   </channel>
 </rss>
