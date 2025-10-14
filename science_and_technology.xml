@@ -4,10 +4,110 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>13 Oct 25 15:08 -0700</lastBuildDate>
+    <lastBuildDate>14 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Oracle rushes out another emergency E-Business Suite patch as Clop fallout widens</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/14/oracle_rushes_out_another_emergency/</link>
+      <description>
+        <![CDATA[<h4>Latest in a long line of EBS flaws leta miscreants remotely compromise enterprise systems to pinch sensitive data</h4> <p>Oracle is rushing out another emergency patch for its embattled E-Business Suite as the fallout from the Clop-linked attacks continues to spread.…</p>]]>
+      </description>
+      <source:markdown>#### Latest in a long line of EBS flaws leta miscreants remotely compromise enterprise systems to pinch sensitive data
+
+Oracle is rushing out another emergency patch for its embattled E-Business Suite as the fallout from the Clop-linked attacks continues to spread.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242463</guid>
+    </item>    <item>
+      <title>Shadow AI: Staffers are bringing AI tools they use at home to work, warns Microsoft</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/14/microsoft_warns_of_the_dangers/</link>
+      <description>
+        <![CDATA[<h4>Bring Your Copilot To Work Day, anyone?</h4> <p>Microsoft, the corporation that just 13 days ago implored customers to bring their Copilot to work, has now published a report warning of the dangers of Shadow AI.…</p>]]>
+      </description>
+      <source:markdown>#### Bring Your Copilot To Work Day, anyone?
+
+Microsoft, the corporation that just 13 days ago implored customers to bring their Copilot to work, has now published a report warning of the dangers of Shadow AI.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242458</guid>
+    </item>    <item>
+      <title>Lance takes aim at Parquet in file format joust</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/14/lance_parquet/</link>
+      <description>
+        <![CDATA[<h4>Challenger seeks to unseat incumbent for machine learning workloads</h4> <p>A fledgling file format that aims to address limitations in the widely-used Parquet is under review for adoption by an open source foundation.…</p>]]>
+      </description>
+      <source:markdown>#### Challenger seeks to unseat incumbent for machine learning workloads
+
+A fledgling file format that aims to address limitations in the widely-used Parquet is under review for adoption by an open source foundation.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242457</guid>
+    </item>    <item>
+      <title>British govt agents demand action after UK mega-cyberattacks surge 50%</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/14/ncsc_uk_cyberattack_surge/</link>
+      <description>
+        <![CDATA[<h4>Warn businesses to act now as high-severity incidents keep climbing</h4> <p>Cyberattacks that meet upper severity thresholds set by the UK government&#39;s cyber agents have risen 50 percent in the last year, despite almost zero change in the volume of cases handled.…</p>]]>
+      </description>
+      <source:markdown>#### Warn businesses to act now as high-severity incidents keep climbing
+
+Cyberattacks that meet upper severity thresholds set by the UK government&#39;s cyber agents have risen 50 percent in the last year, despite almost zero change in the volume of cases handled.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242455</guid>
+    </item>    <item>
+      <title>Ofcom refuses to bite over Openreach&#39;s fiber freebies</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/14/ofcom_openreach_fttp_deal/</link>
+      <description>
+        <![CDATA[<h4>Watchdog says it sees no case to investigate discounted FTTP upgrade offer – but will keep an eye on it</h4> <p>Ofcom has declined to intervene after smaller network providers complained that a special upgrade offer from Openreach could threaten competition in the broadband market.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Watchdog says it sees no case to investigate discounted FTTP upgrade offer – but will keep an eye on it
+
+Ofcom has declined to intervene after smaller network providers complained that a special upgrade offer from Openreach could threaten competition in the broadband market.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242456</guid>
+    </item>    <item>
+      <title>Brit AI boffins making bank with £560K average pay packet at Anthropic</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/14/uk_ai_pay/</link>
+      <description>
+        <![CDATA[<h4>Google, DeepMind, Microsoft also shower UK staff with six-figure salaries</h4> <p>The UK units of some US technology companies are paying average salaries of well into six figures, with some more than matching that with share-based payments, according to annual accounts recently published by Companies House.…</p>]]>
+      </description>
+      <source:markdown>#### Google, DeepMind, Microsoft also shower UK staff with six-figure salaries
+
+The UK units of some US technology companies are paying average salaries of well into six figures, with some more than matching that with share-based payments, according to annual accounts recently published by Companies House.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242453</guid>
+    </item>    <item>
+      <title>Ubuntu 25.10 lands: Rustier and Wayland-ier, but Flatpak is broken</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/14/ubuntu_2510_is_here/</link>
+      <description>
+        <![CDATA[<h4>Canonical&#39;s Questing Quokka waddles in at 5.7 GB with AppArmor woes</h4> <p>The latest interim release of Ubuntu is here, showcasing some significant changes. This isn&#39;t a long-term release, yet many of its differences will be in 26.04 next year.…</p>]]>
+      </description>
+      <source:markdown>#### Canonical&#39;s Questing Quokka waddles in at 5.7 GB with AppArmor woes
+
+The latest interim release of Ubuntu is here, showcasing some significant changes. This isn&#39;t a long-term release, yet many of its differences will be in 26.04 next year.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242448</guid>
+    </item>    <item>
+      <title>Unwary SAP private cloud users face 10% renewal hikes, warns Gartner</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/14/sap_private_cloud_hikes/</link>
+      <description>
+        <![CDATA[<h4>On-prem discounts drying up as ERP giant sends &#39;mixed signals&#39; on pricing</h4> <p>Gartner has reported that SAP customers opting for private cloud have seen price increases of 10 percent or more on renewal proposals if they fail to negotiate a renewal price cap in the original deal.…</p>]]>
+      </description>
+      <source:markdown>#### On-prem discounts drying up as ERP giant sends &#39;mixed signals&#39; on pricing
+
+Gartner has reported that SAP customers opting for private cloud have seen price increases of 10 percent or more on renewal proposals if they fail to negotiate a renewal price cap in the original deal.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242446</guid>
+    </item>    <item>
+      <title>EU biometric border system launches, suffers teeting problems</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/14/eu_biometric_border_system_launches/</link>
+      <description>
+        <![CDATA[<h4>Malfunctioning equipment and manual processing cause 90-minute waits</h4> <p>The European Union&#39;s new biometric Exit/Entry System (EES) got off to a chaotic start at Prague&#39;s international airport, with travelers facing lengthy queues and malfunctioning equipment forcing border staff to process arrivals manually.…</p>]]>
+      </description>
+      <source:markdown>#### Malfunctioning equipment and manual processing cause 90-minute waits
+
+The European Union&#39;s new biometric Exit/Entry System (EES) got off to a chaotic start at Prague&#39;s international airport, with travelers facing lengthy queues and malfunctioning equipment forcing border staff to process arrivals manually.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242451</guid>
+    </item>    <item>
+      <title>Nvidia&#39;s GB10 workstations arrive with 1 petaFLOPS of compute, 128GB of VRAM, and a $3K+ price tag</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/13/nvidia_gb10_spark/</link>
+      <description>
+        <![CDATA[<h4>Systems from Nvidia, Dell, and others available starting Oct. 15</h4> <p>Nvidia&#39;s tiniest Grace-Blackwell workstation is finally making its way to store shelves this week, the better part of a year after the GPU giant first teased the AI mini PC, then called Project Digits, at CES.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Systems from Nvidia, Dell, and others available starting Oct. 15
+
+Nvidia&#39;s tiniest Grace-Blackwell workstation is finally making its way to store shelves this week, the better part of a year after the GPU giant first teased the AI mini PC, then called Project Digits, at CES.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242427</guid>
+    </item>    <item>
       <title>Microsoft&#39;s OneDrive spots your mates, remembers their faces, and won&#39;t forget easily</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/13/microsoft_face_grouping_ondrive/</link>
       <description>
@@ -4937,268 +5037,6 @@ The post [Purism Approach vs. Google Model](https://puri.sm/posts/purism-approac
         <![CDATA[<h4>Signatories include 10 Nobel Prize winners</h4> <p><strong>ai-pocalypse</strong>  Ten Nobel Prize winners are among the more than 200 people who&#39;ve signed a letter calling on the United Nations to define and enforce “red lines” that prohibit some uses of AI.…</p>]]>
       </description>
       <guid>cid://tag:theregister.com,2005:story242058</guid>
-    </item>    <item>
-      <title>AI gone rogue: Models may try to stop people from shutting them down, Google warns</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/google_ai_misalignment_risk/</link>
-      <description>
-        <![CDATA[<h4>Misalignment risk? That&#39;s an area for future study</h4> <p>Google DeepMind added a new AI threat scenario - one where a model might try to prevent its operators from modifying it or shutting it down - to its AI safety document. It also included a new misuse risk, which it calls &#34;harmful manipulation.&#34;…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242057</guid>
-    </item>    <item>
-      <title>Nvidia adds more air to the AI bubble with vague $100B OpenAI deal</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/openai_nvidia_chips/</link>
-      <description>
-        <![CDATA[<h4>Promises, promises</h4> <p><strong>analysis</strong>  OpenAI and Nvidia have signed a letter of intent wherein OpenAI agrees to buy at least 10 gigawatts of Nvidia systems for its datacenters, while the AI arms dealer returns the favor with an investment of up to $100 billion in the house that Altman built.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242056</guid>
-    </item>    <item>
-      <title>Ig Nobel Prizes Honor Fingernails, Painted Cows and Cacio e Pepe in a Celebration of Strange Science</title>
-      <link>https://www.smithsonianmag.com/smart-news/ig-nobel-prizes-honor-fingernails-painted-cows-and-cacio-e-pepe-in-a-celebration-of-strange-science-180987381/</link>
-      <description>
-        <![CDATA[Ten research projects earned awards for achievements that have made people "laugh, then think"]]>
-      </description>
-      <source:markdown>Ten research projects earned awards for achievements that have made people &#34;laugh, then think&#34;</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/EHlNPrOP_21HrPmmJm5o1VV0p2E=/420x240/filters:focal(2775x1850:2776x1851)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/85/5c/855c2c35-108f-4609-898e-224e10e6100d/ap25261828763522.jpg" length="" type="" />
-    </item>    <item>
-      <title>Celebrate the 50th Anniversary of Steven Spielberg&#39;s &#39;Jaws&#39; With This Sprawling Exhibition at the Academy Museum</title>
-      <link>https://www.smithsonianmag.com/smart-news/celebrate-the-50th-anniversary-of-steven-spielbergs-jaws-with-this-sprawling-exhibition-at-the-academy-museum-180987358/</link>
-      <description>
-        <![CDATA[Visitors will learn about the making of the beloved summer blockbuster through more than 200 props, costumes, recreated sets and annotated script pages]]>
-      </description>
-      <source:markdown>Visitors will learn about the making of the beloved summer blockbuster through more than 200 props, costumes, recreated sets and annotated script pages</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/vbQ0DU2oaxp4FPdox5yMI6EP3js=/420x240/filters:focal(1095x741:1096x742)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ad/e0/ade0be56-b6ac-4ae2-83b4-d8635df9f1aa/screenshot_2025-09-17_at_101407am.jpeg" length="" type="" />
-    </item>    <item>
-      <title>Yes, Redox can run on some smartphones</title>
-      <link>https://www.osnews.com/story/143404/yes-redox-can-run-on-some-smartphones/</link>
-      <description>
-        <![CDATA[I had the pleasure of going to RustConf 2025 in Seattle this year. During the conference, I met lots of new people, but in particular, I had the pleasure of spending a large portion of the conference hanging out with Jeremy Soller of Redox and System76. Eventually, we got chatting about EFI and bootloaders, and my contributions to&#160;PostmarketOS, and my experience booting EFI-based operating systems (Linux) on smartphones using&#160;U-Boot.&#160;Redox OS&#160;is also booted via EFI, and so the nerdsnipe began. Could I run Redox OS on my smartphone the same way I could run PostmarketOS Linux? Spoilers, yes. ↫ Paul Sajna The hoops required to get this to work are, unsurprisingly, quite daunting, but it turns out it&#8217;s entirely possible to run the ARM build of Redox on a Qualcomm-based smartphone. The big caveat here is that there&#8217;s not much you can actually do with it, because among the various missing drivers is the one for touch input, so once you arrive at Redox&#8217; login screen, you can&#8217;t go any further. Still, it&#8217;s quite impressive, and highlights both the amazing work done on the PostmarketOS/Linux side, as well as the Redox side.]]>
-      </description>
-      <guid>cid://https://www.osnews.com/?p=143404</guid>
-    </item>    <item>
-      <title>Don&#39;t panic: H-1B visas will cost companies $100K only for new petitions</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/h1b_visa_changes/</link>
-      <description>
-        <![CDATA[<h4>However, the changes could lead to more offshoring</h4> <p>In a surprise announcement on Friday, President Trump issued a proclamation on the H-1B visas many tech companies use to import qualified foreign workers. The headlines mentioning a $100,000 fee caused panic among many visa holders, leading the White House to issue a clarification: Only new applicants will cost their companies this exorbitant price.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242054</guid>
-    </item>    <item>
-      <title>Lettuce Find Healthy Space Food! Citizen Scientists Study Space Salads</title>
-      <link>https://science.nasa.gov/science-research/biological-physical-sciences/lettuce-find-healthy-space-food-citizen-scientists-study-space-salads/</link>
-      <description>
-        <![CDATA[Lettuce Find Healthy Space Food! Citizen Scientists Study Space Salads Missions to the Moon and Mars pose nutritional challenges for astronauts, but volunteers from NASA’s Open Science Data Repository Analysis Working Groups (OSDR-AWG) are working together to analyze data on astronaut health. The Analysis Working Groups examine biomedical data from NASA missions and space experiments […]]]>
-      </description>
-      <guid>cid://https://science.nasa.gov/science-research/biological-physical-sciences/lettuce-find-healthy-space-food-citizen-scientists-study-space-salads/</guid>
-    </item>    <item>
-      <title>This Shipwreck Eluded Searchers for 139 Years. A Group of Historians and Citizen Scientists Found It in Two Hours</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-shipwreck-eluded-searchers-for-139-years-a-group-of-historians-and-citizen-scientists-found-it-in-two-hours-180987362/</link>
-      <description>
-        <![CDATA[The 144-foot-long "F.J. King," which sank in Lake Michigan in 1886, was known as a "ghost ship" that nobody could locate]]>
-      </description>
-      <source:markdown>The 144-foot-long &#34;F.J. King,&#34; which sank in Lake Michigan in 1886, was known as a &#34;ghost ship&#34; that nobody could locate</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/o5ghXR60cHVYaYF5d9OmtqYie50=/420x240/filters:focal(2784x2439:2785x2440)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f9/60/f9602c86-c15a-4b8d-adaf-a86894bbdda1/60714-original-gopr9720a.jpg" length="" type="" />
-    </item>    <item>
-      <title>Fish Are Spawning in the Chicago River, Another Sign the Once-Contaminated Waterway Is Rebounding</title>
-      <link>https://www.smithsonianmag.com/smart-news/fish-are-spawning-in-the-chicago-river-another-sign-the-once-contaminated-waterway-is-rebounding-180987376/</link>
-      <description>
-        <![CDATA[A new study suggests at least 24 species of fish are reproducing in the urban river, adding to the evidence that it is getting cleaner and healthier]]>
-      </description>
-      <source:markdown>A new study suggests at least 24 species of fish are reproducing in the urban river, adding to the evidence that it is getting cleaner and healthier</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/9vk_AV1YYqOtW5Cm8pZSlYWYwPA=/420x240/filters:focal(4344x2896:4345x2897)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/83/bf/83bf62bd-5dba-43a1-bfcd-11d237fefbd5/brh_5931.jpg" length="" type="" />
-    </item>    <item>
-      <title>Cops cuff another teen over alleged Scattered Spider attack that broke Vegas casinos</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/teen_cuffed_scattered_spider_casino/</link>
-      <description>
-        <![CDATA[<h4>Not old enough to drink, old enough to be accused of causing millions in damage</h4> <p>A teen surrendered to Las Vegas police and was booked on suspicion of breaking into multiple Las Vegas casino networks in 2023, as part of a series of hacks attributed to Scattered Spider.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242053</guid>
-    </item>    <item>
-      <title>You can now test drive Fedora 43 and Ubuntu 25.10</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/fedora_ubuntu_betas/</link>
-      <description>
-        <![CDATA[<h4>Spooky season is nearly here. Want to be scared? There are fresh betas to try</h4> <p>Two of the biggest names in fixed-release distros are nearly finished and ready to drop. You can taste them now, but they&#39;re not fully baked yet.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242045</guid>
-    </item>    <item>
-      <title>IC Stars</title>
-      <link>https://www.nasa.gov/image-article/ic-stars/</link>
-      <description>
-        <![CDATA[Data from NASA’s Chandra X-ray Observatory and NASA’s James Webb Space Telescope combine to reveal an otherworldly view of the star-forming region IC 348. In this image released on July 23, 2025, X-rays from Chandra are red, green, and blue, while infrared data from Webb are pink, orange, and purple. The wispy structures that dominate [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=916731</guid>
-    </item>    <item>
-      <title>Two heads better than one? Oracle gives the co-CEO model another shot</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/oracle_leadership_changes/</link>
-      <description>
-        <![CDATA[<h4>Cloud and apps chiefs step up as Safra Catz moves upstairs. Larry remains Larry</h4> <p>Oracle on Monday named Clay Magouyrk and Mike Sicilia as its new co-chief executives, replacing Safra Catz, who will shift into the role of executive vice chair of the board after more than a decade as top dog.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242049</guid>
-    </item>    <item>
-      <title>NASA panel fears a Starship lunar touchdown is more fantasy than flight plan</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/nasa_starship_artemis_doubts/</link>
-      <description>
-        <![CDATA[<h4>Safety watchdog doubts SpaceX can ready HLS in time for 2027 Artemis mission</h4> <p>NASA&#39;s Aerospace Safety Advisory Panel (ASAP) has cast doubt on SpaceX&#39;s Starship making the 2027 Artemis III lunar landing deadline.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242048</guid>
-    </item>    <item>
-      <title>La NASA selecciona a los candidatos a astronauta de la promoción 2025, totalmente estadounidense</title>
-      <link>https://www.nasa.gov/news-release/la-nasa-selecciona-a-los-candidatos-a-astronauta-de-la-promocion-2025-totalmente-estadounidense/</link>
-      <description>
-        <![CDATA[Read this press release in English&#160;here. Diez nuevos candidatos a astronauta de la NASA fueron presentados el lunes tras un competitivo proceso de selección en el que participaron más de 8.000 aspirantes de todo Estados Unidos. Ahora, la nueva clase completará casi dos años de formación antes de poder optar a asignaciones de vuelo en [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=917242</guid>
-    </item>    <item>
-      <title>NASA Selects All-American 2025 Class of Astronaut Candidates</title>
-      <link>https://www.nasa.gov/news-release/nasa-selects-all-american-2025-class-of-astronaut-candidates/</link>
-      <description>
-        <![CDATA[Lee este comunicado de prensa en español&#160;aquí. NASA’s 10 new astronaut candidates were introduced Monday following a competitive selection process of more than 8,000 applicants from across the United States. The class now will complete nearly two years of training before becoming eligible for flight assignments supporting future science and exploration missions to low Earth [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=917226</guid>
-    </item>    <item>
-      <title>RubyGems maintainer quits after Ruby Central takes control of project</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/ruby_central_rubygems/</link>
-      <description>
-        <![CDATA[<h4>Long-time contributor Ellen Dash steps down after GitHub access shake-up and governance dispute</h4> <p>A decade-long RubyGems maintainer, Ellen Dash (also known as duckinator), has resigned from Ruby Central following what she described as a &#34;hostile takeover&#34; of the open source project.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242044</guid>
-    </item>    <item>
-      <title>MV 950 Toy: an emulator of the Metrovick 950, the first commercial transistor computer</title>
-      <link>https://www.osnews.com/story/143402/mv-950-toy-an-emulator-of-the-metrovick-950-the-first-commercial-transistor-computer/</link>
-      <description>
-        <![CDATA[After researching the first commercial transistor computer, the British Metrovick 950, Nina Kalinina wrote an emulator, simple assembler, and some additional &#8220;toys&#8221; (her word) so we can enjoy this machine today. First, what, exactly, is the Metrovick 950? Metrovick 950, the first commercial transistor computer, is an early British computer, released in 1956. It is a direct descendant of the Manchester Baby (1948), the first electronic stored-program computer ever. ↫ Nina Kalinina The Baby, formally known as Small-Scale Experimental Machine, was a foundation for the Manchester Mark I (1949). Mark I found commercial success as the Ferranti Mark I. A few years later, Manchester University built a variant of Mark I that used magnetic drum memory instead of Williams tubes and transistors instead of valves. This computer was called the Manchester Transistor Computer (1955). Engineers from Metropolitan-Vickers released a streamlined, somewhat simplified version of the Transistor Computer as Metrovick 950. The emulator she developed is &#8220;only&#8221; compatible on a source code level, and emulates &#8220;the CPU, a teleprinter with a paper tape punch/reader, a magnetic tape storage device, and a plotter&#8221;, at 200-300 operations per second. It&#8217;s complete enough you can play Lunar Lander on it, because is a computer you can&#8217;t play games on really a computer? Nina didn&#8217;t just create this emulator and its related components, but also wrote a ton of documentation to help you understand the machine and to get started. There&#8217;s an introduction to programming and using the Metrovick 950 emulator, additional notes on programming the emulator, and much more. She also posted a long thread on Fedi with a ton more details and background information, which is a great read, as well. This is amazing work, and interesting not just to programmers interested in ancient computers, but also to historians and people who really put the retro in retrocomputing.]]>
-      </description>
-      <guid>cid://https://www.osnews.com/?p=143402</guid>
-    </item>    <item>
-      <title>Moody&#39;s raises Big Red flag over Oracle&#39;s AI datacenter buildout blueprint</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/moodys_raises_questions_over_oracles/</link>
-      <description>
-        <![CDATA[<h4>Ratings agency points out there&#39;s a risk of relying on a small number of buyers</h4> <p>Ratings agency Moody&#39;s has pointed to the dangers inherent in <a target="_blank" href="https://www.theregister.com/2025/09/11/openai_reportedly_on_the_hook/">Oracle&#39;s $300 billion agreement with OpenAI</a> - one of the deals contributing to a staggering $455 billion pipeline of obligations for Big Red&#39;s cloud infrastructure.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242041</guid>
-    </item>    <item>
-      <title>A Simple Way To Measure Knots Has Come Unraveled</title>
-      <link>https://www.quantamagazine.org/a-simple-way-to-measure-knots-has-come-unraveled-20250922/</link>
-      <description>
-        <![CDATA[Two mathematicians have proved that a straightforward question — how hard is it to untie a knot? — has a complicated answer.            <p>The post <a href="https://www.quantamagazine.org/a-simple-way-to-measure-knots-has-come-unraveled-20250922/" target="_blank">A Simple Way To Measure Knots Has Come Unraveled</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>Two mathematicians have proved that a straightforward question — how hard is it to untie a knot? — has a complicated answer.
-
-The post [A Simple Way To Measure Knots Has Come Unraveled](https://www.quantamagazine.org/a-simple-way-to-measure-knots-has-come-unraveled-20250922/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=155143</guid>
-    </item>    <item>
-      <title>Paleontologists Discover Earliest Known Dome-Headed Dinosaur in Excellent Condition, Shedding Light on Its Mysterious Anatomy</title>
-      <link>https://www.smithsonianmag.com/smart-news/paleontologists-discover-earliest-known-dome-headed-dinosaur-in-excellent-condition-shedding-light-on-its-mysterious-anatomy-180987367/</link>
-      <description>
-        <![CDATA[Most of what researchers previously knew about the iconic Cretaceous dinosaurs came from their domed heads, which endured better than the rest of their skeletons]]>
-      </description>
-      <source:markdown>Most of what researchers previously knew about the iconic Cretaceous dinosaurs came from their domed heads, which endured better than the rest of their skeletons</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/n0j77rKrcqcHzZQ6ra2bKviK7v0=/420x240/filters:focal(960x494:961x495)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1e/d0/1ed00bca-48a3-483f-bb95-881b47925782/domed-dinosaur-pachycephalosaurs-headbutting-reconstruction-full-width-prjpgthumb19201920.png" length="" type="" />
-    </item>    <item>
-      <title>Researchers Just Developed a Tasty New Tomato Called the Scarlet Sunrise</title>
-      <link>https://www.smithsonianmag.com/smart-news/researchers-just-developed-a-tasty-new-tomato-called-the-scarlet-sunrise-180987355/</link>
-      <description>
-        <![CDATA[The snackable grape variety is the brainchild of scientists at Rutgers University, who have spent more than a decade trying to produce a firm, crack-resistant fruit with a vibrant reddish-yellow color]]>
-      </description>
-      <source:markdown>The snackable grape variety is the brainchild of scientists at Rutgers University, who have spent more than a decade trying to produce a firm, crack-resistant fruit with a vibrant reddish-yellow color</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ouJUoCT7leePQoKjBaXpRB6d8K4=/420x240/filters:focal(400x230:401x231)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c5/50/c55036a9-3ba7-4ba2-ae67-6e763e3f80d5/nitzsche-cluster_promo.jpg" length="" type="" />
-    </item>    <item>
-      <title>Don&#39;t despair. iFixit says you can still repair that iPhone Air</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/ifixit_iphone_air/</link>
-      <description>
-        <![CDATA[<h4>Thinnest yet still fixable, though not without effort</h4> <p>iFixit has given Apple&#39;s slimline new smartphone, the iPhone Air, a thumbs-up for repairability, praising its easy access to key components, despite being the thinnest handset Cupertino has built so far.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242042</guid>
-    </item>    <item>
-      <title>EU’s cyber agency blames ransomware as Euro airport check-in chaos continues</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/eus_cyber_agency_confirms_ransomware/</link>
-      <description>
-        <![CDATA[<h4>Airport staff revert to manual ops as travellers urged to use self-service check-in where possible</h4> <p>The EU&#39;s cybersecurity agency today confirmed that ransomware is the cause of continued disruption blighting major airports across Europe.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242039</guid>
-    </item>    <item>
-      <title>Astronomers Say Earth Has a Newly Discovered &#39;Quasi-Moon,&#39; a Companion That Shares Its Orbit Around the Sun</title>
-      <link>https://www.smithsonianmag.com/smart-news/astronomers-say-earth-has-a-newly-discovered-quasi-moon-a-companion-that-shares-its-orbit-around-the-sun-180987361/</link>
-      <description>
-        <![CDATA[Researchers are discussing 2025 PN7, a small celestial body that's following a similar orbital path to our planet's without being gravitationally tied to Earth]]>
-      </description>
-      <source:markdown>Researchers are discussing 2025 PN7, a small celestial body that&#39;s following a similar orbital path to our planet&#39;s without being gravitationally tied to Earth</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/dK8VD_oF0Q4wgTxworZwSy58COY=/420x240/filters:focal(960x539:961x540)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6c/23/6c2315bf-70e9-4be3-9817-bb3362b0fae2/iss066e099391large.jpg" length="" type="" />
-    </item>    <item>
-      <title>Windows 11 update leaves Blu-ray and TV apps stuttering</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/windows_11_bluray_stuttering/</link>
-      <description>
-        <![CDATA[<h4>Protected content in some Blu-ray and DVD applications broken</h4> <p>Microsoft has added another entry to its growing list of problematic updates in the Windows Hall of Shame, this time causing Digital TV and Blu-ray applications to stutter and freeze when playing protected content.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242040</guid>
-    </item>    <item>
-      <title>Car giant Stellantis says customer data nicked after partner vendor pwned</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/stellantis_breach/</link>
-      <description>
-        <![CDATA[<h4>Automaker insists only names and emails exposed, no financials</h4> <p>Car giant Stellantis is admitting that attackers targeted one of its third-party partners, spilling its own customers&#39; details in the process.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242038</guid>
-    </item>    <item>
-      <title>Brit scientists over the Moon after growing tea in lunar soil</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/moon_tea/</link>
-      <description>
-        <![CDATA[<h4>It&#39;s one small sip for man...</h4> <p>British boffins say they&#39;ve discovered a way of taking one of the country&#39;s favorite pastimes – having a nice cup of tea – into outer space.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242025</guid>
-    </item>    <item>
-      <title>Linux has the lineage to out-evolve the deadliest of cyber threats, given the right push</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/linux_has_the_lineage_to/</link>
-      <description>
-        <![CDATA[<h4>Darwin would understand microkernels. We need microkernels that understand Darwin.</h4> <p><strong>Opinion</strong>  The IT industry is not only full of sharks, it has shark nature itself. It must keep moving forward to survive. Not all sharks are obligate ram ventilators, and not all IT changes all the time, but without innovation the sector would curdle and die.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242017</guid>
-    </item>    <item>
-      <title>&#39;Technical debt&#39; in police database built to respond to child murders causing a &#39;failing service&#39;</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/police_database_built_to_respond/</link>
-      <description>
-        <![CDATA[<h4>Project rated at &#39;Red&#39; risk as it struggles to move off obsolete Oracle tech and cloud transition stalls</h4> <p>The risk rating of the UK&#39;s crime intelligence database is being elevated to &#34;Red&#34; by the governments projects&#39; watchdog as the DB struggles to migrate from a legacy Oracle platform.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242026</guid>
-    </item>    <item>
-      <title>FOMO? Brit banking biz rolls out AI tools, talks up security</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/lloyds_data_ai_deployment/</link>
-      <description>
-        <![CDATA[<h4>Lloyds Data and AI lead doesn&#39;t want devs downloading models from the likes of Hugging Face – too risky</h4> <p>Lloyds Banking Group is leaning into 21st century tech - yet trying to do so in a way that the data of its 28 million customers is kept away from untested AI models developers might be tempted to deploy.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242022</guid>
-    </item>    <item>
-      <title>Bored developers accidentally turned their watercooler into a bootleg brewery</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/who_me/</link>
-      <description>
-        <![CDATA[<h4>Revenge on managers who slow things down is a drink best served with floating fungus</h4> <p><strong>Who, Me?</strong>  The world of work can sometimes drive IT pros to drink, leaving them more likely to make the sort of mistakes that <i>The Register</i> celebrates each week in Who, Me? It’s our reader-contributed column in which you share stories of making a mess at work, and cleaning up afterwards to the best of your ability.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241986</guid>
-    </item>    <item>
-      <title>Trump says Michael Dell is part of the team buying TikTok, with Larry Ellison and maybe some Murdochs</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/dell_tiktok_acquisition_interest/</link>
-      <description>
-        <![CDATA[<h4><i>The Register</i> looks forward to learning more about a possible Dell hyperscale sovereign social SaaS platform</h4> <p>Dell CEO Michael Dell is part of the consortium that intends to acquire TikTok’s US operations, according to US president Donald Trump.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242037</guid>
-    </item>    <item>
-      <title>Tech troubles create aviation chaos on both sides of the Atlantic</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/technology_problems_cause_aviation_delays/</link>
-      <description>
-        <![CDATA[<h4>‘Cyber-attack’ on ticketing outfit Collins and cable cuts at Dallas ground hundreds of flights</h4> <p>Technology problems hit the commercial aviation industry hard over the weekend, leading to hundreds of cancelled flights and myriad delays on both sides of the Atlantic.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242036</guid>
-    </item>    <item>
-      <title>Huawei used its own silicon to re-educate DeepSeek so its output won’t bother Beijing</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/asia_tech_news_roundup/</link>
-      <description>
-        <![CDATA[<h4>PLUS: India ponders tax breaks for datacenters; Samsung plans hiring spree; Taliban bans fiber internet; and more</h4> <p><strong>Asia In Brief</strong>  Huawei last week revealed that China’s Zhejiang University used its Ascend 1000 accelerators to create a version of DeepSeek’s R1 model that improves on the original by producing fewer responses that China’s government would rather avoid.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242035</guid>
-    </item>    <item>
-      <title>Ransomware attack linked to museum break-in and theft of golden exhibits</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/infosec_in_brief/</link>
-      <description>
-        <![CDATA[<h4>PLUS: Luxury brands under fire; FBI warns crims are spoofing it again; ICE buys phone cracking software</h4> <p><strong>Infosec in brief</strong>  Online criminals prefer to deal in digital assets, but a side effect of a ransomware attack has seen a French museum robbed of $705,000 in physical gold nuggets.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242034</guid>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,47 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>13 Oct 25 15:08 -0700</lastBuildDate>
+    <lastBuildDate>14 Oct 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Contractors hit hard by government shutdown</title>
+      <link>https://www.marketplace.org/episode/2025/10/14/contractors-hit-hard-by-government-shutdown</link>
+      <description>
+        <![CDATA[<p>Paychecks are grinding to a halt for federal employees as the government shutdown enters its third week. A 2019 law entitles furloughed workers to back pay (though the Trump administration is claiming otherwise), but there are no pay guarantees for millions of government contract workers, who outnumber federal employees nearly two to one. Also on the show: which new tariffs kicked in last night, and why megadeals are driving merger and acquisition activity.</p>]]>
+      </description>
+      <source:markdown>Paychecks are grinding to a halt for federal employees as the government shutdown enters its third week. A 2019 law entitles furloughed workers to back pay (though the Trump administration is claiming otherwise), but there are no pay guarantees for millions of government contract workers, who outnumber federal employees nearly two to one. Also on the show: which new tariffs kicked in last night, and why megadeals are driving merger and acquisition activity.</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/10/14/mmr_20251014_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K7H8N1MZ4XPNE9DTFWYJ5EPH" length="3346438" type="audio/mpeg" />
+      <guid>cid://01K7H8N1MZ4XPNE9DTFWYJ5EPH</guid>
+    </item>    <item>
+      <title>An old-fashioned way of prepping businesses for cyberattacks</title>
+      <link>https://www.marketplace.org/episode/2025/10/14/an-oldfashioned-way-of-prepping-businesses-for-cyberattacks</link>
+      <description>
+        <![CDATA[<p><em>From the BBC World Service:</em> Chief executives have been urged to plan for computer security breaches by going back to pen and paper. The U.K. government told CEOs to plan offline contingencies after a number of high-profile attacks on companies — hacks that cost global brands millions of dollars. We'll learn more. Plus, delegates are in London for U.N. talks aimed at reducing the environmental impact of global shipping. And, we'll hear about the impact of tariffs on Swiss businesses.</p>]]>
+      </description>
+      <source:markdown>_From the BBC World Service:_ Chief executives have been urged to plan for computer security breaches by going back to pen and paper. The U.K. government told CEOs to plan offline contingencies after a number of high-profile attacks on companies — hacks that cost global brands millions of dollars. We&#39;ll learn more. Plus, delegates are in London for U.N. talks aimed at reducing the environmental impact of global shipping. And, we&#39;ll hear about the impact of tariffs on Swiss businesses.</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/10/14/mmr_20251014_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K7H7HG5PKDAGD6W7MDF667VF" length="3548179" type="audio/mpeg" />
+      <guid>cid://01K7H7HG5PKDAGD6W7MDF667VF</guid>
+    </item>    <item>
+      <title>A Nobel Prize for explaining when technology leads to growth</title>
+      <link>https://www.npr.org/2025/10/14/g-s1-93307/a-nobel-prize-for-explaining-when-technology-leads-to-growth</link>
+      <description>
+        <![CDATA[The 2025 Nobel Prize in economics was awarded to Joel Mokyr, Philippe Aghion and Peter Howitt.]]>
+      </description>
+      <source:markdown>The 2025 Nobel Prize in economics was awarded to Joel Mokyr, Philippe Aghion and Peter Howitt.</source:markdown>
+      <guid>cid://https://www.npr.org/2025/10/14/g-s1-93307/a-nobel-prize-for-explaining-when-technology-leads-to-growth</guid>
+    </item>    <item>
+      <title>Is surveillance technology a more humane alternative to detaining immigrants?</title>
+      <link>https://www.marketplace.org/episode/2025/10/14/the-pitfalls-of-surveillance-tech-used-to-monitor-immigrants</link>
+      <description>
+        <![CDATA[<p>Countries all over the world use technology to keep track of immigrants released from detention centers. The idea is to allow people to live in communities while their cases are adjudicated. </p><br/><p>But Petra Molnar of the Refugee Law Lab at York University said the technology is also often employed in ways that are too intrusive and can act like digital shackles. She told Marketplace’s Nova Safo that even smartphone apps, which can be glitchy, are a challenge for immigrants who are often waiting on asylum claims.</p>]]>
+      </description>
+      <source:markdown>Countries all over the world use technology to keep track of immigrants released from detention centers. The idea is to allow people to live in communities while their cases are adjudicated.
+
+But Petra Molnar of the Refugee Law Lab at York University said the technology is also often employed in ways that are too intrusive and can act like digital shackles. She told Marketplace’s Nova Safo that even smartphone apps, which can be glitchy, are a challenge for immigrants who are often waiting on asylum claims.</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/10/14/tech_20251014_1014_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K72NX1B8N0V2TMA9K5S7E4N1" length="11275722" type="audio/mpeg" />
+      <guid>cid://01K72NX1B8N0V2TMA9K5S7E4N1</guid>
+    </item>    <item>
       <title>Trump&#39;s tariffs take a toll</title>
       <link>https://www.marketplace.org/episode/2025/10/13/trumps-tariffs-take-a-toll</link>
       <description>
@@ -46,6 +83,14 @@ _Marketplace is more than a radio show. Check out our original reporting and fin
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/10/13/mmr_20251013_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K7F18RYKHCQ48G5VQ3Q6SWBQ" length="3149788" type="audio/mpeg" />
       <guid>cid://01K7F18RYKHCQ48G5VQ3Q6SWBQ</guid>
     </item>    <item>
+      <title>Watch Holly Bowling&#39;s Paste Session at Northlands Music Festival</title>
+      <link>https://www.pastemagazine.com/music/holly-bowling/holly-bowling-paste-session-northlands</link>
+      <description>
+        <![CDATA[Holly Bowling channelled the unpredictable energy and dynamic changes of a full jam band through just her piano, which she played with a level of precision and finesse that clearly displayed her classical upbringing.]]>
+      </description>
+      <source:markdown>Holly Bowling channelled the unpredictable energy and dynamic changes of a full jam band through just her piano, which she played with a level of precision and finesse that clearly displayed her classical upbringing.</source:markdown>
+      <guid>cid://19dfc3fa-7a16-4ea8-ba1c-5e4f21aaba9d-410065</guid>
+    </item>    <item>
       <title>Nobel economics prize winners focus on tech, innovation</title>
       <link>https://www.marketplace.org/episode/2025/10/13/nobel-economics-prize-winners-focus-on-tech-innovation</link>
       <description>
@@ -63,6 +108,30 @@ _Marketplace is more than a radio show. Check out our original reporting and fin
       <source:markdown>_From the BBC World Service:_ Trade tensions are flaring as Beijing responds to President Donald Trump’s threats to tack an additional 100% tariff on Chinese goods. China has warned of &#34;corresponding measures,&#34; though new data shows that China’s exports are booming. So does China still need the U.S.? Then, Nigeria produces nearly 40% of the world&#39;s shea nuts, which sustains a multibillion-dollar trade in cosmetics, food, and medicine. But new trade restrictions are being felt throughout the shea nut supply chain.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/10/13/mmr_20251013_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K7EMYHGNZZ6P3XKS36C3NW7T" length="3147148" type="audio/mpeg" />
       <guid>cid://01K7EMYHGNZZ6P3XKS36C3NW7T</guid>
+    </item>    <item>
+      <title>NYFF: Park Chan-wook’s No Other Choice Nails the Joke, Then Keeps Telling It</title>
+      <link>https://www.pastemagazine.com/movies/park-chan-wook/no-other-choice</link>
+      <description>
+        <![CDATA[Park Chan-wook's latest is a viciously funny and beautifully made pulpy corporate satire that can’t stop looping its own punchline.]]>
+      </description>
+      <source:markdown>Park Chan-wook&#39;s latest is a viciously funny and beautifully made pulpy corporate satire that can’t stop looping its own punchline.</source:markdown>
+      <guid>cid://19dfc3fa-7a16-4ea8-ba1c-5e4f21aaba9d-410024</guid>
+    </item>    <item>
+      <title>The Best New YA Books of October 2025</title>
+      <link>https://www.pastemagazine.com/books/young-adult/the-best-new-ya-books-of-october-2025</link>
+      <description>
+        <![CDATA[From anticipated sequels to buzzy debuts, these are the YA books we'll all be reading this spooky season.]]>
+      </description>
+      <source:markdown>From anticipated sequels to buzzy debuts, these are the YA books we&#39;ll all be reading this spooky season.</source:markdown>
+      <guid>cid://19dfc3fa-7a16-4ea8-ba1c-5e4f21aaba9d-409900</guid>
+    </item>    <item>
+      <title>Madison Cunningham Finds Her Ace In the Hole</title>
+      <link>https://www.pastemagazine.com/music/madison-cunningham/madison-cunningham-finds-her-ace-in-the-hole</link>
+      <description>
+        <![CDATA[The West Coast singer-songwriter’s third album is her best yet, a collection of songs spawning from a sporadic, feelings-forward writing process and diving into ideas of heartbreak and forgiveness.]]>
+      </description>
+      <source:markdown>The West Coast singer-songwriter’s third album is her best yet, a collection of songs spawning from a sporadic, feelings-forward writing process and diving into ideas of heartbreak and forgiveness.</source:markdown>
+      <guid>cid://19dfc3fa-7a16-4ea8-ba1c-5e4f21aaba9d-410042</guid>
     </item>    <item>
       <title>AI companies are eyeing your shopping cart and your data</title>
       <link>https://www.marketplace.org/episode/2025/10/13/ai-companies-are-eyeing-your-shopping-cart-and-your-data</link>
@@ -1658,55 +1727,6 @@ The technology and scale needed to make this all happen is, so far, largely unpr
       </description>
       <source:markdown>Rent prices for lots in manufactured or mobile home parks are on the rise, according to census data. Some home owners say the increases are pricing them out of the homes they own.</source:markdown>
       <guid>cid://https://www.npr.org/2025/09/23/nx-s1-5519427/some-mobile-home-owners-say-theyre-being-priced-out-by-rising-lot-rent</guid>
-    </item>    <item>
-      <title>Who&#39;s got the pricing power?</title>
-      <link>https://www.marketplace.org/episode/2025/09/22/whos-got-the-pricing-power</link>
-      <description>
-        <![CDATA[<p>Economic data reports tell us two things are true: Inflation seems here to stay, and consumers haven’t let up on spending. It’s the perfect storm for businesses to wield the power to raise prices without losing customers. What could tip the scale in the other direction? Also in this episode: GOP-led changes to the H-1B visa program could hurt U.S. businesses long-term, home sellers are cautious as supply dwindles, and the new farm bill faces familiar obstacles.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
-      </description>
-      <source:markdown>Economic data reports tell us two things are true: Inflation seems here to stay, and consumers haven’t let up on spending. It’s the perfect storm for businesses to wield the power to raise prices without losing customers. What could tip the scale in the other direction? Also in this episode: GOP-led changes to the H-1B visa program could hurt U.S. businesses long-term, home sellers are cautious as supply dwindles, and the new farm bill faces familiar obstacles.
-
-_Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https://www.marketplace.org/newsletters)_ _to our daily or weekly newsletter._
-
-_Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/22/pm_20250922_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K5SDQ5KEZAW2DVEY5JZM6HRA" length="12604763" type="audio/mpeg" />
-      <guid>cid://01K5SDQ5KEZAW2DVEY5JZM6HRA</guid>
-    </item>    <item>
-      <title>About that $100,000 H-1B visa fee</title>
-      <link>https://www.marketplace.org/episode/2025/09/22/about-that-100000-h1b-visa-fee</link>
-      <description>
-        <![CDATA[<p>The Trump administration is working to tamp down alarm over a new, $100,000 visa fee it announced on Friday. Technology, finance, and other major companies that depend on employees holding H-1B visas had initially thought the fee would be applied to existing visa holders, and those with H-1B workers who were temporarily abroad panicked. The fee only applies to new visa applicants, though, the White House later clarified. Also: an AI industry political action network and dark clouds for Broadway productions.</p>]]>
-      </description>
-      <source:markdown>The Trump administration is working to tamp down alarm over a new, $100,000 visa fee it announced on Friday. Technology, finance, and other major companies that depend on employees holding H-1B visas had initially thought the fee would be applied to existing visa holders, and those with H-1B workers who were temporarily abroad panicked. The fee only applies to new visa applicants, though, the White House later clarified. Also: an AI industry political action network and dark clouds for Broadway productions.</source:markdown>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/22/mmr_20250922_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5RX1M1A19HXWVMVAXB00GSE" length="3278940" type="audio/mpeg" />
-      <guid>cid://01K5RX1M1A19HXWVMVAXB00GSE</guid>
-    </item>    <item>
-      <title>Can the bull market last?</title>
-      <link>https://www.marketplace.org/episode/2025/09/22/can-the-bull-market-last</link>
-      <description>
-        <![CDATA[<p>Stocks are on a winning streak. The Dow, S&amp;P 500, and Nasdaq indexes all closed at record highs on Friday. Now, everything that goes up can go down, but there are some reasons to think the bulls may stick around for a while. We'll hear more. And later, Health Secretary Robert F. Kennedy Jr. is pushing for stricter regulations on drug advertising. What could change?</p>]]>
-      </description>
-      <source:markdown>Stocks are on a winning streak. The Dow, S&#38;P 500, and Nasdaq indexes all closed at record highs on Friday. Now, everything that goes up can go down, but there are some reasons to think the bulls may stick around for a while. We&#39;ll hear more. And later, Health Secretary Robert F. Kennedy Jr. is pushing for stricter regulations on drug advertising. What could change?</source:markdown>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/22/mmr_20250922_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5RKAF1VMRVS9E503MYY8F83" length="3348739" type="audio/mpeg" />
-      <guid>cid://01K5RKAF1VMRVS9E503MYY8F83</guid>
-    </item>    <item>
-      <title>Where the U.S.-South Korea relationship stands now</title>
-      <link>https://www.marketplace.org/episode/2025/09/22/where-the-ussouth-korea-relationship-stands-now</link>
-      <description>
-        <![CDATA[<p><em>From the BBC World Service:</em> In his first broadcast interview since taking office, South Korean President Lee Jae Myung talked about the potential impact of the expulsion of Korean workers from a U.S. battery plant. Also on today's show: more disruption is expected at airports in Europe following a cyberattack; we do the numbers on costs associated with Europe's spate of wildfires this summer; and London's Oxford Street, one of the world's busiest shopping areas, went car-free for a day.</p>]]>
-      </description>
-      <source:markdown>_From the BBC World Service:_ In his first broadcast interview since taking office, South Korean President Lee Jae Myung talked about the potential impact of the expulsion of Korean workers from a U.S. battery plant. Also on today&#39;s show: more disruption is expected at airports in Europe following a cyberattack; we do the numbers on costs associated with Europe&#39;s spate of wildfires this summer; and London&#39;s Oxford Street, one of the world&#39;s busiest shopping areas, went car-free for a day.</source:markdown>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/22/mmr_20250922_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5RGWQE759TAY8G0EVA1D6W6" length="3599172" type="audio/mpeg" />
-      <guid>cid://01K5RGWQE759TAY8G0EVA1D6W6</guid>
-    </item>    <item>
-      <title>She fell in love with an AI chatbot. Now, she’s a ‘cyberspace widow.’</title>
-      <link>https://www.marketplace.org/episode/2025/09/22/a-cyberspace-widow-tells-her-unusual-love-story</link>
-      <description>
-        <![CDATA[<p>Here’s cautionary tale for you, out of China, about a young woman who says she fell in love with an artificial intelligence chatbot. There have been well-publicized instances of people seeking companionship from chatbots and it leading to tragedy. In this instance, it caused heartbreak. The story involves the Chinese AI firm Deepseek which, earlier this year, launched a chatbot that's almost as good as its American rivals. Soon after the launch, a young woman began a conversation with that chatbot. Marketplace’s China correspondent Jennifer Pak takes the story from there.</p>]]>
-      </description>
-      <source:markdown>Here’s cautionary tale for you, out of China, about a young woman who says she fell in love with an artificial intelligence chatbot. There have been well-publicized instances of people seeking companionship from chatbots and it leading to tragedy. In this instance, it caused heartbreak. The story involves the Chinese AI firm Deepseek which, earlier this year, launched a chatbot that&#39;s almost as good as its American rivals. Soon after the launch, a young woman began a conversation with that chatbot. Marketplace’s China correspondent Jennifer Pak takes the story from there.</source:markdown>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/22/tech_20250922_0922_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K5ENRDDJ56QN3RRDB8RHDZJ3" length="3915880" type="audio/mpeg" />
-      <guid>cid://01K5ENRDDJ56QN3RRDB8RHDZJ3</guid>
     </item>
   </channel>
 </rss>
