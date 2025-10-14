@@ -4,10 +4,28 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>14 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>14 Oct 25 15:08 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Are these local newsletters local news? (And does it matter?)</title>
+      <link>https://www.niemanlab.org/2025/10/are-these-local-newsletters-local-news-and-does-it-matter/</link>
+      <description>
+        <![CDATA[When I hear the term “local newsletter,” I think of the type of news product I created as a local journalist: a roundup of community-specific news, whether it’s originally reported, aggregated, or a combination. But when I browsed Aniket Panjwani’s database of local newsletters, I found something very different. Yes, there were a few newsletters...]]>
+      </description>
+      <source:markdown>When I hear the term “local newsletter,” I think of the type of news product I created as a local journalist: a roundup of community-specific news, whether it’s originally reported, aggregated, or a combination. But when I browsed Aniket Panjwani’s database of local newsletters, I found something very different. Yes, there were a few newsletters...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=243875</guid>
+    </item>    <item>
+      <title>Op-ed: UCLA community should prepare for Great ShakeOut, opt into safety notifications</title>
+      <link>https://dailybruin.com/2025/10/14/op-ed-ucla-community-should-prepare-for-great-shakeout-opt-into-safety-notifications/</link>
+      <description>
+        <![CDATA[October is Bruin Earthquake Awareness Month. In the case of an unexpected natural disaster, there is no question that practice and preparation can save lives.
+        Thinking through an action plan in advance helps you stay calmer and more focused when the real event occurs – and in Southern California, it is critical for all of us to be prepared for a number of possibilities, including earthquakes.]]>
+      </description>
+      <source:markdown>October is Bruin Earthquake Awareness Month. In the case of an unexpected natural disaster, there is no question that practice and preparation can save lives.
+Thinking through an action plan in advance helps you stay calmer and more focused when the real event occurs – and in Southern California, it is critical for all of us to be prepared for a number of possibilities, including earthquakes.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=494964</guid>
+    </item>    <item>
       <title>“How can we help?” The Engaged Journalism Exchange aims to create belonging through media</title>
       <link>https://www.niemanlab.org/2025/10/how-can-we-help-the-engaged-journalism-exchange-aims-to-create-belonging-through-media/</link>
       <description>
@@ -189,10 +207,10 @@ On Sunday afternoon, No. 9 UCLA women’s soccer (8-4-2, 4-2-2 Big Ten) shut out
       <link>https://dailybruin.com/2025/10/13/ucpd-shares-report-of-sexual-assault-that-occurred-on-gayley-avenue/</link>
       <description>
         <![CDATA[Editor’s note: This article contains a description of an alleged sexual assault that some readers may find disturbing.
-        UCPD received notice of a sexual assault incident that occurred on Gayley Avenue around midnight Oct.]]>
+        <em>This post was updated Oct. 14 at 2:20 p.m.</em>]]>
       </description>
       <source:markdown>Editor’s note: This article contains a description of an alleged sexual assault that some readers may find disturbing.
-UCPD received notice of a sexual assault incident that occurred on Gayley Avenue around midnight Oct.</source:markdown>
+_This post was updated Oct. 14 at 2:20 p.m._</source:markdown>
       <guid>cid://https://dailybruin.com/?p=494927</guid>
     </item>    <item>
       <title>Women’s soccer handle Roadrunners</title>

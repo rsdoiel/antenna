@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>14 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>14 Oct 25 15:08 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,134 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Just Talk To It - the no-bs Way of Agentic Engineering</title>
+      <link>https://simonwillison.net/2025/Oct/14/agentic-engineering/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://steipete.me/posts/just-talk-to-it">Just Talk To It - the no-bs Way of Agentic Engineering</a></strong></p>
+        Peter Steinberger's long, detailed description of his current process for using Codex CLI and GPT-5 Codex. This is information dense and full of actionable tips, plus plenty of strong opinions about the differences between Claude 4.5 an GPT-5:</p>
+        <blockquote>
+        <p>While Claude reacts well to 🚨 SCREAMING ALL-CAPS 🚨 commands that threaten it that it will imply ultimate failure and 100 kittens will die if it runs command X, that freaks out GPT-5. (Rightfully so). So drop all of that and just use words like a human.</p>
+        </blockquote>
+        <p>Peter is a <em>heavy</em> user of parallel agents:</p>
+        <blockquote>
+        <p>I've completely moved to <code>codex</code> cli as daily driver. I run between 3-8 in parallel in a 3x3 terminal grid, most of them <a href="https://x.com/steipete/status/1977771686176174352">in the same folder</a>, some experiments go in separate folders. I experimented with worktrees, PRs but always revert back to this setup as it gets stuff done the fastest.</p>
+        </blockquote>
+        <p>He shares my preference for CLI utilities over MCPs:</p>
+        <blockquote>
+        <p>I can just refer to a cli by name. I don't need any explanation in my agents file. The agent will try $randomcrap on the first call, the cli will present the help menu, context now has full info how this works and from now on we good. I don't have to pay a price for any tools, unlike MCPs which are a constant cost and garbage in my context. Use GitHub's MCP and see 23k tokens gone. Heck, they did make it better because it was almost 50.000 tokens when it first launched. Or use the <code>gh</code> cli which has basically the same feature set, models already know how to use it, and pay zero context tax.</p>
+        </blockquote>
+        <p>It's worth reading the <a href="https://steipete.me/posts/just-talk-to-it#do-you-do-spec-driven-development">section on why he abandoned spec driven development</a> in full.
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/model-context-protocol">model-context-protocol</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/codex-cli">codex-cli</a>, <a href="https://simonwillison.net/tags/parallel-agents">parallel-agents</a></p>]]>
+      </description>
+      <source:markdown>**[Just Talk To It - the no-bs Way of Agentic Engineering](https://steipete.me/posts/just-talk-to-it)**
+
+Peter Steinberger&#39;s long, detailed description of his current process for using Codex CLI and GPT-5 Codex. This is information dense and full of actionable tips, plus plenty of strong opinions about the differences between Claude 4.5 an GPT-5:
+
+&#62; While Claude reacts well to 🚨 SCREAMING ALL-CAPS 🚨 commands that threaten it that it will imply ultimate failure and 100 kittens will die if it runs command X, that freaks out GPT-5. (Rightfully so). So drop all of that and just use words like a human.
+
+Peter is a _heavy_ user of parallel agents:
+
+&#62; I&#39;ve completely moved to `codex` cli as daily driver. I run between 3-8 in parallel in a 3x3 terminal grid, most of them [in the same folder](https://x.com/steipete/status/1977771686176174352), some experiments go in separate folders. I experimented with worktrees, PRs but always revert back to this setup as it gets stuff done the fastest.
+
+He shares my preference for CLI utilities over MCPs:
+
+&#62; I can just refer to a cli by name. I don&#39;t need any explanation in my agents file. The agent will try $randomcrap on the first call, the cli will present the help menu, context now has full info how this works and from now on we good. I don&#39;t have to pay a price for any tools, unlike MCPs which are a constant cost and garbage in my context. Use GitHub&#39;s MCP and see 23k tokens gone. Heck, they did make it better because it was almost 50.000 tokens when it first launched. Or use the `gh` cli which has basically the same feature set, models already know how to use it, and pay zero context tax.
+
+It&#39;s worth reading the [section on why he abandoned spec driven development](https://steipete.me/posts/just-talk-to-it#do-you-do-spec-driven-development) in full.
+
+
+
+Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [model-context-protocol](https://simonwillison.net/tags/model-context-protocol), [coding-agents](https://simonwillison.net/tags/coding-agents), [claude-code](https://simonwillison.net/tags/claude-code), [codex-cli](https://simonwillison.net/tags/codex-cli), [parallel-agents](https://simonwillison.net/tags/parallel-agents)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/14/agentic-engineering/#atom-everything</guid>
+    </item>    <item>
+      <title>ChatGPT’s Hail Mary: Chatbots You Can Fuck</title>
+      <link>https://www.404media.co/chatgpt-erotica-age-gating-verified-adults/</link>
+      <description>
+        <![CDATA[As recent reports show OpenAI bleeding cash, and on the heels of accusations that ChatGPT caused teens and adults alike to harm themselves and others, CEO Sam Altman announced that you can soon fuck the bot.]]>
+      </description>
+      <source:markdown>As recent reports show OpenAI bleeding cash, and on the heels of accusations that ChatGPT caused teens and adults alike to harm themselves and others, CEO Sam Altman announced that you can soon fuck the bot.</source:markdown>
+      <guid>cid://68eebd458c55800001344554</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115374526939007043</link>
+      <description>
+        <![CDATA[<p>When you are an iPhone 17 user, every day is Xmas!</p><p><a href="https://youtu.be/EO2Gc__c8CM?si=uLouprrsavA5tD7B" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">youtu.be/EO2Gc__c8CM?si=uLoupr</span><span class="invisible">rsavA5tD7B</span></a></p>]]>
+      </description>
+      <source:markdown>When you are an iPhone 17 user, every day is Xmas!
+
+[https://youtu.be/EO2Gc\_\_c8CM?si=uLouprrsavA5tD7B](https://youtu.be/EO2Gc__c8CM?si=uLouprrsavA5tD7B)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115374526939007043</guid>
+    </item>    <item>
+      <title>It&#39;s Giving Enron</title>
+      <link>https://davekarpf.substack.com/p/its-giving-enron</link>
+      <description>
+        <![CDATA[On the AI bubble, and the various echoes of the dotcom crash]]>
+      </description>
+      <source:markdown>On the AI bubble, and the various echoes of the dotcom crash</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!0K9F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbb358be-0726-45ad-870c-506262cc0b6d_404x364.png" length="0" type="image/jpeg" />
+      <guid>cid://https://davekarpf.substack.com/p/its-giving-enron</guid>
+    </item>    <item>
+      <link>https://www.thebulwark.com/p/no-kings-rally-protest-washington-dc-congress-republicans-government-shutdown-mike-johnson</link>
+      <description>
+        <![CDATA[<p>‘No Kings’ Has Republicans in Disarray.</p>]]>
+      </description>
+      <source:markdown>‘No Kings’ Has Republicans in Disarray.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/14/1531/</guid>
+    </item>    <item>
+      <title>October 13, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-13-2025-e5a</link>
+      <enclosure url="https://api.substack.com/feed/podcast/176170727/ed66306119768d35b7636d6d5ee403b8.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-13-2025-e5a</guid>
+    </item>    <item>
+      <title>Neo Network Utility 2.0</title>
+      <link>https://mjtsai.com/blog/2025/10/14/neo-network-utility-2-0/</link>
+      <description>
+        <![CDATA[Eric B&#246;hnisch-Volkmann: Here&#8217;s Neo Network Utility 2.0 with a refreshed yet familiar design for macOS Tahoe, including menu icons, pill-shaped buttons, and a modern tab view. It actually looks good in Liquid Glass.Of course we didn&#8217;t just touch it up a bit. The new version lets you open multiple windows and run commands in all [&#8230;]]]>
+      </description>
+      <source:markdown>Eric Böhnisch-Volkmann: Here’s Neo Network Utility 2.0 with a refreshed yet familiar design for macOS Tahoe, including menu icons, pill-shaped buttons, and a modern tab view. It actually looks good in Liquid Glass.Of course we didn’t just touch it up a bit. The new version lets you open multiple windows and run commands in all \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49627</guid>
+    </item>    <item>
+      <title>Juice Jacking Protection Setting Broken in iOS 26</title>
+      <link>https://mjtsai.com/blog/2025/10/14/juice-jacking-protection-setting-broken-in-ios-26/</link>
+      <description>
+        <![CDATA[Ric Ford (PDF): Researchers at Graz University of Technology discovered severe, unpatched vulnerabilities in iPhones, Android phones and other devices that facilitate attacks and data theft via malicious USB chargers. Previously known and addressed as &#8220;juice jacking,&#8221; the effective new technique has been titled &#8220;ChoiceJacking.&#8221; Adam Engst: This vulnerability exists because USB ports can simultaneously [&#8230;]]]>
+      </description>
+      <source:markdown>Ric Ford (PDF): Researchers at Graz University of Technology discovered severe, unpatched vulnerabilities in iPhones, Android phones and other devices that facilitate attacks and data theft via malicious USB chargers. Previously known and addressed as “juice jacking,” the effective new technique has been titled “ChoiceJacking.” Adam Engst: This vulnerability exists because USB ports can simultaneously \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49625</guid>
+    </item>    <item>
+      <title>Apple TV, Apple TV, Apple TV, and Apple TV</title>
+      <link>https://mjtsai.com/blog/2025/10/14/apple-tv-apple-tv-apple-tv-and-apple-tv-2/</link>
+      <description>
+        <![CDATA[Eric Slivka: Buried in its announcement about &#8220;F1: The Movie&#8221; making its streaming debut on December 12, Apple has also announced that Apple TV+ is being rebranded as simply Apple TV.[&#8230;]Apple of course offers its set-top box hardware under the Apple TV name while also offering the Apple TV app across various platforms as a [&#8230;]]]>
+      </description>
+      <source:markdown>Eric Slivka: Buried in its announcement about “F1: The Movie” making its streaming debut on December 12, Apple has also announced that Apple TV+ is being rebranded as simply Apple TV.\[…\]Apple of course offers its set-top box hardware under the Apple TV name while also offering the Apple TV app across various platforms as a \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49623</guid>
+    </item>    <item>
+      <title>Cultivated Task Cancellation</title>
+      <link>https://mjtsai.com/blog/2025/10/14/cultivated-task-cancellation/</link>
+      <description>
+        <![CDATA[Max Seelemann (on his new blog): So how do you tell if a task supports cancellation? That&#8217;s tricky to answer per-se because cancellation is voluntary behavior and needs to be represented in the task&#8217;s value or error type. If you&#8217;re lucky, cancellation support (or lack thereof) is documented.[&#8230;]The designated way to check for cancellation is [&#8230;]]]>
+      </description>
+      <source:markdown>Max Seelemann (on his new blog): So how do you tell if a task supports cancellation? That’s tricky to answer per-se because cancellation is voluntary behavior and needs to be represented in the task’s value or error type. If you’re lucky, cancellation support (or lack thereof) is documented.\[…\]The designated way to check for cancellation is \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49621</guid>
+    </item>    <item>
+      <title>‘How to Turn Liquid Glass Into a Solid Interface’</title>
+      <link>https://tidbits.com/2025/10/09/how-to-turn-liquid-glass-into-a-solid-interface/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42268</guid>
+    </item>    <item>
+      <title>&#38;#8220;The spread of dangerous infections that do not respond to antibiotics has...</title>
+      <link>https://kottke.org/25/10/0047706-the-spread-of-dangerous-i</link>
+      <guid>cid://tag:kottke.org,2025://13.47706</guid>
+    </item>    <item>
+      <title>The Surreal Practicality of Protesting As an Inflatable Frog</title>
+      <link>https://www.404media.co/the-surreal-practicality-of-protesting-as-an-inflatable-frog/</link>
+      <description>
+        <![CDATA[Say goodbye to the Guy Fawkes masks and hello to inflatable frogs and dinosaurs.]]>
+      </description>
+      <source:markdown>Say goodbye to the Guy Fawkes masks and hello to inflatable frogs and dinosaurs.</source:markdown>
+      <guid>cid://68ee8f6a8c558000013437e6</guid>
     </item>    <item>
       <title>2025-10-14 Israel: So that we won’t say we didn’t know</title>
       <link>https://alexschroeder.ch/view/2025-10-13-israel</link>
@@ -69,6 +197,38 @@ If you feel like arguing, please read [Casualties of the Gaza war](https://en.wi
 
 [#Israel](/search/?q=%23Israel) [#Palestine](/search/?q=%23Palestine)</source:markdown>
       <guid>cid://https://alexschroeder.ch/view/2025-10-13-israel</guid>
+    </item>    <item>
+      <title>2025-10-14 Israel: So that we won’t say we didn’t know</title>
+      <link>https://alexschroeder.ch/view/2025-10-14-israel</link>
+      <description>
+        <![CDATA[<h1 id="2025-10-14-israel-so-that-we-won-t-say-we-didn-t-know">2025-10-14 Israel: So that we won’t say we didn’t know</h1>
+        
+        <p>We are <a href="2025-portugal">travelling through Portugal these days</a>. I brought a bunch of newspapers along – to read should I manage to put down the phone. I just read <a href="https://www.woz.ch/2540/zwei-jahre-nach-dem-7-oktober/kollidierende-realitaeten/!42Q5MHJSN52K">Kollidierende Realitäten</a>, starting with a <a href="https://www.btselem.org/">B’Tselem</a> meeting, with quotes from <a href="https://en.wikipedia.org/wiki/Yuli_Novak">Yuli Novak</a>. She says she assumes 95% don’t know about their report, <a href="https://www.btselem.org/publications/202507_our_genocide">Our Genocide</a>.</p>
+        
+        <p>I see Israelis trying to so the right thing and I am reminded of the time I stood at the Paradeplatz during lunch hours, for a Just Peace in Palestine. It was <a href="2006-07-15_Electronic_Intifada_has_reports_from_Lebanon">so long ago</a>. It didn’t help. The vigils are still <a href="https://swiss-palestine-network.ch/de/wer-sind-wir/61-mahnwache-zuerich">ongoing</a>. I no longer go.</p>
+        
+        <p>Adi Argov from <a href="https://www.thedailyfile.org/">The Daily File</a> has the last word in the article: “How can the Palestinians forgive what we have done to them? Only our grandchildren might one day know.” (Translation mine.) Apparently the Israelis are so unaware of what they are doing, so certain of what their friends and family in the army are saying, of what the mainstream media are saying, of what the government is saying, that they can only explain the horror the rest of the world is expressing as anti-semitism. I’m guessing that one day they will say, like so many Germans did: “I did not know!” And they will learn, like the Germans did, that this legacy will be hard to shake. Like I once heard in <a href="https://youtube.com/watch?v=Ifh1yx8d83Y">an extremely rude voice over for Pingu</a>: “Fuck you and your entire generation!”</p>
+        
+        <p>The subtitle of The Daily File is “So that we won&rsquo;t say we didn&rsquo;t know.”</p>
+        
+        <p>If you feel like arguing, please read <a href="https://en.wikipedia.org/wiki/Casualties_of_the_Gaza_war">Casualties of the Gaza war</a>, because I’m assuming you’re one of the very people this article is about. It is not my duty to educate you. It is your duty to do the right thing and that includes the duty to educate yourself so that you can do the right thing. Nobody said it was going to be easy.</p>
+        
+        <p><a class="tag" href="/search/?q=%23Israel">#Israel</a> <a class="tag" href="/search/?q=%23Palestine">#Palestine</a></p>]]>
+      </description>
+      <source:markdown># 2025-10-14 Israel: So that we won’t say we didn’t know
+
+We are [travelling through Portugal these days](2025-portugal). I brought a bunch of newspapers along – to read should I manage to put down the phone. I just read [Kollidierende Realitäten](https://www.woz.ch/2540/zwei-jahre-nach-dem-7-oktober/kollidierende-realitaeten/!42Q5MHJSN52K), starting with a [B’Tselem](https://www.btselem.org/) meeting, with quotes from [Yuli Novak](https://en.wikipedia.org/wiki/Yuli_Novak). She says she assumes 95% don’t know about their report, [Our Genocide](https://www.btselem.org/publications/202507_our_genocide).
+
+I see Israelis trying to so the right thing and I am reminded of the time I stood at the Paradeplatz during lunch hours, for a Just Peace in Palestine. It was [so long ago](2006-07-15_Electronic_Intifada_has_reports_from_Lebanon). It didn’t help. The vigils are still [ongoing](https://swiss-palestine-network.ch/de/wer-sind-wir/61-mahnwache-zuerich). I no longer go.
+
+Adi Argov from [The Daily File](https://www.thedailyfile.org/) has the last word in the article: “How can the Palestinians forgive what we have done to them? Only our grandchildren might one day know.” (Translation mine.) Apparently the Israelis are so unaware of what they are doing, so certain of what their friends and family in the army are saying, of what the mainstream media are saying, of what the government is saying, that they can only explain the horror the rest of the world is expressing as anti-semitism. I’m guessing that one day they will say, like so many Germans did: “I did not know!” And they will learn, like the Germans did, that this legacy will be hard to shake. Like I once heard in [an extremely rude voice over for Pingu](https://youtube.com/watch?v=Ifh1yx8d83Y): “Fuck you and your entire generation!”
+
+The subtitle of The Daily File is “So that we won’t say we didn’t know.”
+
+If you feel like arguing, please read [Casualties of the Gaza war](https://en.wikipedia.org/wiki/Casualties_of_the_Gaza_war), because I’m assuming you’re one of the very people this article is about. It is not my duty to educate you. It is your duty to do the right thing and that includes the duty to educate yourself so that you can do the right thing. Nobody said it was going to be easy.
+
+[#Israel](/search/?q=%23Israel) [#Palestine](/search/?q=%23Palestine)</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2025-10-14-israel</guid>
     </item>    <item>
       <link>https://arstechnica.com/ai/2025/10/nvidia-sells-tiny-new-computer-that-puts-big-ai-on-your-desktop/?utm_source=bsky&#38;utm_medium=social</link>
       <description>
@@ -156,6 +316,17 @@ In Nashville a columnist in a local paper who said I caused the riot, btw. I swe
       </description>
       <source:markdown>The attorney not only submitted AI-generated fake citations in a brief for his clients, but also included “multiple new AI-hallucinated citations and quotations” in the process of opposing a motion for sanctions.</source:markdown>
       <guid>cid://68ee64588c558000013244ad</guid>
+    </item>    <item>
+      <title>60 Minutes Uncovers Hacks on America’s Infrastructure</title>
+      <link>https://puri.sm/posts/60-minutes-uncovers-hacks-on-americas-infrastructure/</link>
+      <description>
+        <![CDATA[<p>The recent 60 Minutes segment on Chinese hacks to America’s critical infrastructure was not new news. IT was a very powerful remainder that highlighted some of the root causes of our national cyber weaknesses.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/60-minutes-uncovers-hacks-on-americas-infrastructure/">60 Minutes Uncovers Hacks on America&#8217;s Infrastructure</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <source:markdown>The recent 60 Minutes segment on Chinese hacks to America’s critical infrastructure was not new news. IT was a very powerful remainder that highlighted some of the root causes of our national cyber weaknesses.
+
+The post [60 Minutes Uncovers Hacks on America’s Infrastructure](https://puri.sm/posts/60-minutes-uncovers-hacks-on-americas-infrastructure/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+      <guid>cid://https://puri.sm/?p=84732</guid>
     </item>    <item>
       <title>Is Trump the Real Deal?</title>
       <link>https://tinabrown.substack.com/p/is-trump-the-real-deal</link>
@@ -3456,6 +3627,10 @@ La entrada [Las películas más esperadas del BIFF 2025](https://www.palomitadem
 [adactio.com/links/22180](https://adactio.com/links/22180)</source:markdown>
       <guid>cid://https://hojberg.xyz/the-programmer-identity-crisis/</guid>
     </item>    <item>
+      <title>Apple Banned an App That Simply Archived Videos of ICE Abuses</title>
+      <link>https://www.404media.co/apple-banned-an-app-that-simply-archived-videos-of-ice-abuses/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42253</guid>
+    </item>    <item>
       <link>https://houston.wordcamp.org/2020/what-in-the-world-is-a-wapuu/</link>
       <description>
         <![CDATA[<p>What in the World is a Wapuu?</p>]]>
@@ -4771,14 +4946,6 @@ And CodingHorror had also a nice post on it:
       <title>The Family of Migrants is a new book &#38; museum exhibition that...</title>
       <link>https://kottke.org/25/10/0047679-the-family-of-migrants-is</link>
       <guid>cid://tag:kottke.org,2025://13.47679</guid>
-    </item>    <item>
-      <title>Apple Banned an App That Simply Archived Videos of ICE Abuses</title>
-      <link>https://www.404media.co/apple-banned-an-app-that-simply-archived-videos-of-ice-abuses/</link>
-      <description>
-        <![CDATA[Eyes Up's purpose is to "preserve evidence until it can be used in court." But it has been swept up in Apple's crackdown on ICE-spotting apps.]]>
-      </description>
-      <source:markdown>Eyes Up&#39;s purpose is to &#34;preserve evidence until it can be used in court.&#34; But it has been swept up in Apple&#39;s crackdown on ICE-spotting apps.</source:markdown>
-      <guid>cid://68e6b4f68635ce000140eba0</guid>
     </item>    <item>
       <link>https://www.reuters.com/world/us/most-americans-dont-want-troops-deployed-without-an-external-threat-reutersipsos-2025-10-08/</link>
       <description>
@@ -7973,6 +8140,7 @@ Thanks for reading this post via RSS! Let me know your thoughts by leaving a com
         <p><strong>Send out a scout</strong>. Hand the AI agent a task just to find out where the sticky bits are, so you don’t have to make those mistakes.</p>
         </blockquote>
         <p>I've tried this a few times with good results: give the agent a genuinely difficult task against a large codebase, with no intention of actually landing its code, just to get ideas from which files it modifies and how it approaches the problem.</p>
+        <p>Peter Steinberger's <a href="https://steipete.me/posts/just-talk-to-it">Just Talk To It - the no-bs Way of Agentic Engineering</a> provides a very detailed description of his current process built around Codex CLI.</p>
             
                 <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/codex-cli">codex-cli</a>, <a href="https://simonwillison.net/tags/parallel-agents">parallel-agents</a>, <a href="https://simonwillison.net/tags/jesse-vincent">jesse-vincent</a></p>]]>
       </description>
@@ -8055,6 +8223,8 @@ In [The 7 Prompting Habits of Highly Effective Engineers](https://sketch.dev/blo
 &#62; **Send out a scout**. Hand the AI agent a task just to find out where the sticky bits are, so you don’t have to make those mistakes.
 
 I&#39;ve tried this a few times with good results: give the agent a genuinely difficult task against a large codebase, with no intention of actually landing its code, just to get ideas from which files it modifies and how it approaches the problem.
+
+Peter Steinberger&#39;s [Just Talk To It - the no-bs Way of Agentic Engineering](https://steipete.me/posts/just-talk-to-it) provides a very detailed description of his current process built around Codex CLI.
 
 Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [ai-agents](https://simonwillison.net/tags/ai-agents), [coding-agents](https://simonwillison.net/tags/coding-agents), [claude-code](https://simonwillison.net/tags/claude-code), [codex-cli](https://simonwillison.net/tags/codex-cli), [parallel-agents](https://simonwillison.net/tags/parallel-agents), [jesse-vincent](https://simonwillison.net/tags/jesse-vincent)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/5/parallel-coding-agents/#atom-everything</guid>

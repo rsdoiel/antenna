@@ -7,10 +7,68 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>14 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>14 Oct 25 15:08 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>California moves to protect transgender patients&#39; data from &#39;hostile actors&#39;</title>
+      <link>https://laist.com/news/health/gavin-newsom-signs-bill-to-protect-transgender-patient-data</link>
+      <description>
+        <![CDATA[Gov. Gavin Newsom signed a law that puts medical records related to gender-affirming care under seal.]]>
+      </description>
+      <source:markdown>Gov. Gavin Newsom signed a law that puts medical records related to gender-affirming care under seal.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e49c-d89a-a3b9-f59f9c400000</guid>
+    </item>    <item>
+      <title>New laws aim to ease California’s student housing crunch</title>
+      <link>https://laist.com/news/education/new-laws-aim-to-ease-californias-student-housing-crunch</link>
+      <description>
+        <![CDATA[Gov. Gavin Newsom has signed three land reform bills to encourage residential construction on or near college campuses.]]>
+      </description>
+      <source:markdown>Gov. Gavin Newsom has signed three land reform bills to encourage residential construction on or near college campuses.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e411-dda8-a3bb-f51d3cd20000</guid>
+    </item>    <item>
+      <title>California’s incarcerated firefighters to see ‘historic’ pay increase in laws Newsom signed</title>
+      <link>https://laist.com/news/politics/california-incarcerated-firefighters-to-see-historic-pay-increase</link>
+      <description>
+        <![CDATA[Hundreds of California state prisoners worked to put out this year's deadly Los Angeles fires, inspiring new laws that will improve their pay and open other opportunities.]]>
+      </description>
+      <source:markdown>Hundreds of California state prisoners worked to put out this year&#39;s deadly Los Angeles fires, inspiring new laws that will improve their pay and open other opportunities.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e3a7-dc80-a5fb-efff6c8d0000</guid>
+    </item>    <item>
+      <title>Notice of Availability of the Final Environmental Impact Statement and Record of Decision for Authorizing Changes to the Falcon Launch Program at Vandenberg Space Force Base, California</title>
+      <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4323318/notice-of-availability-of-the-final-environmental-impact-statement-and-record-o/</link>
+      <description>
+        <![CDATA[VANDENBERG SPACE FORCE BASE, Calif. – Oct. 14, 2025 – Pursuant to the National Environmental Policy Act (NEPA), the Department of the Air Force (DAF) prepared a Final Environmental Impact Statement (EIS) that includes an analysis of the potential environmental effects associated with: 
+        
+        •	The DAF’s authorization of the redevelopment of Space Launch Complex (SLC)-6 to support Falcon 9 and Falcon Heavy operations, including launch and landing at Vandenberg Space Force Base (VSFB), California;  
+        •	The DAF’s authorization of an increase in Falcon 9 launches and landings at VSFB and downrange landings in the Pacific Ocean; and 
+        •	The Federal Aviation Administration’s (FAA’s) licensing Space Exploration Technologies Corporation’s (SpaceX) Falcon operations at VSFB and approval of related airspace closures. 
+        
+        <br/>]]>
+      </description>
+      <source:markdown>VANDENBERG SPACE FORCE BASE, Calif. – Oct. 14, 2025 – Pursuant to the National Environmental Policy Act (NEPA), the Department of the Air Force (DAF) prepared a Final Environmental Impact Statement (EIS) that includes an analysis of the potential environmental effects associated with:
+
+• The DAF’s authorization of the redevelopment of Space Launch Complex (SLC)-6 to support Falcon 9 and Falcon Heavy operations, including launch and landing at Vandenberg Space Force Base (VSFB), California;
+• The DAF’s authorization of an increase in Falcon 9 launches and landings at VSFB and downrange landings in the Pacific Ocean; and
+• The Federal Aviation Administration’s (FAA’s) licensing Space Exploration Technologies Corporation’s (SpaceX) Falcon operations at VSFB and approval of related airspace closures.</source:markdown>
+      <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4323318/notice-of-availability-of-the-final-environmental-impact-statement-and-record-o/</guid>
+    </item>    <item>
+      <title>D&#39;Angelo, R&#38;B&#39;s reluctant icon, has died at 51</title>
+      <link>https://laist.com/news/arts-and-entertainment/dangelo-r-bs-reluctant-icon-has-died-at-51</link>
+      <description>
+        <![CDATA[The expressive singer made just three albums, including his 1995 debut, Brown Sugar, but retreated from the public after each. He had been battling cancer, according to a statement from his family.]]>
+      </description>
+      <source:markdown>The expressive singer made just three albums, including his 1995 debut, Brown Sugar, but retreated from the public after each. He had been battling cancer, according to a statement from his family.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e3fa-dda8-a3bb-f7ff714a0000</guid>
+    </item>    <item>
+      <title>In Marc Maron&#39;s last &#39;WTF&#39; podcast episode, Obama offers advice on closing chapters</title>
+      <link>https://laist.com/news/marc-marons-last-wtf-podcast-episode-obama-offers-advice-on-closing-chapters</link>
+      <description>
+        <![CDATA[In the final episode, Marc Maron and former President Barack Obama spoke about the legacy of the podcast, politics and moving on.]]>
+      </description>
+      <source:markdown>In the final episode, Marc Maron and former President Barack Obama spoke about the legacy of the podcast, politics and moving on.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e3a0-dc80-a5fb-eff8639b0000</guid>
+    </item>    <item>
       <title>A fragile Gaza ceasefire is tested after Israel and Hamas swap detainees and hostages</title>
       <link>https://laist.com/news/gaza-ceasefire-largely-holds-after-israel-and-hamas-swap-detainees-and-hostages</link>
       <description>
@@ -115,20 +173,20 @@
       <source:markdown>Data from a large, ongoing study of adolescents shows a link between increasing social media use and lower cognition and memory in teens.</source:markdown>
       <guid>cid://urn:uuid:00000199-de6f-d89a-a3b9-ffef88610000</guid>
     </item>    <item>
-      <title>Mudslides possible this morning in Los Angeles and Orange counties as rain intensifies</title>
+      <title>The worst of the SoCal storm is over, but mudslide threats remain</title>
       <link>https://laist.com/news/climate-environment/october-storm-southern-california-heavy-rain-wind-flash-flood-watch</link>
       <description>
-        <![CDATA[Mandatory evacuation orders were issued for areas around the Airport Fire burn scar in Orange County mid morning.]]>
+        <![CDATA[People in and around recent burn scars should be alert to the risk of debris flows. Typical October weather will be back later this week.]]>
       </description>
-      <source:markdown>Mandatory evacuation orders were issued for areas around the Airport Fire burn scar in Orange County mid morning.</source:markdown>
+      <source:markdown>People in and around recent burn scars should be alert to the risk of debris flows. Typical October weather will be back later this week.</source:markdown>
       <guid>cid://urn:uuid:00000199-dedc-dc80-a5fb-ffdc2df50000</guid>
     </item>    <item>
-      <title>JPL announces that hundreds of employees will be laid off Tuesday</title>
+      <title>JPL, the Southern California NASA center, is laying off hundreds of employees</title>
       <link>https://laist.com/news/climate-environment/jpl-layoffs-october-2025</link>
       <description>
-        <![CDATA[Jet Propulsion Laboratory leadership announces that 11% of the workforce is being cut.]]>
+        <![CDATA[Jet Propulsion Laboratory leadership says the cuts amount to 11% of the workforce.]]>
       </description>
-      <source:markdown>Jet Propulsion Laboratory leadership announces that 11% of the workforce is being cut.</source:markdown>
+      <source:markdown>Jet Propulsion Laboratory leadership says the cuts amount to 11% of the workforce.</source:markdown>
       <guid>cid://urn:uuid:00000199-debd-d6ee-af99-ffffe7d00000</guid>
     </item>    <item>
       <title>California’s Prop. 36 promised ‘mass treatment’ for defendants. A new study shows how it’s going</title>

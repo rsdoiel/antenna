@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>14 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>14 Oct 25 15:08 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>RISCOSbits asks that you get your London Show Special Reserve orders in now</title>
+      <link>https://www.riscository.com/2025/riscosbits-london-show-special-reserve/</link>
+      <description>
+        <![CDATA[Sadly, though, they&#8217;re not asking everyone for their drinks orders for the day. It&#8217;s now a touch under two weeks (or is it a touch over one and a half?) until this year&#8217;s London Show, which takes place on the 25th October at the Harrow District Masonic Centre, and it&#8217;s time for another exhibitor announcement &#8211; this time from RISCOSbits. It seems that the team at RISCOSbits will shortly be taking &#8220;an impromptu, badly timed and slightly inconvenient holiday, immediately before the show,&#8221; which means there won&#8217;t be enough time&#8230;]]>
+      </description>
+      <source:markdown>Sadly, though, they’re not asking everyone for their drinks orders for the day. It’s now a touch under two weeks (or is it a touch over one and a half?) until this year’s London Show, which takes place on the 25th October at the Harrow District Masonic Centre, and it’s time for another exhibitor announcement – this time from RISCOSbits. It seems that the team at RISCOSbits will shortly be taking “an impromptu, badly timed and slightly inconvenient holiday, immediately before the show,” which means there won’t be enough time…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10732</guid>
+    </item>    <item>
       <title>Linux Kernel 6.16 Reaches EOL</title>
       <link>http://www.linux-magazine.com/Online/News/Linux-Kernel-6.16-Reaches-EOL</link>
       <description>
@@ -29,9 +37,9 @@
       <title>London Show 2025: Pre-Reserve Your RISCOSbits Hardware for collection</title>
       <link>http://www.iconbar.com/comments/rss/news2242.html</link>
       <description>
-        <![CDATA[RISCOSbits are prioriting having pre-built systems for customers over a general selection. So, if you are looking to acquire one of their very desirable systems at the show, you can reserve a system to collect. This also means they can spec it exactly as you want!]]>
+        <![CDATA[RISCOSbits are prioritising having pre-built systems for customers over a general selection. So, if you are looking to acquire one of their very desirable systems at the show, you can reserve a system to collect. This also means they can spec it exactly as you want!]]>
       </description>
-      <source:markdown>RISCOSbits are prioriting having pre-built systems for customers over a general selection. So, if you are looking to acquire one of their very desirable systems at the show, you can reserve a system to collect. This also means they can spec it exactly as you want!</source:markdown>
+      <source:markdown>RISCOSbits are prioritising having pre-built systems for customers over a general selection. So, if you are looking to acquire one of their very desirable systems at the show, you can reserve a system to collect. This also means they can spec it exactly as you want!</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2242.html</guid>
     </item>    <item>
       <title>A Diagnostic Board for the KIM-1</title>

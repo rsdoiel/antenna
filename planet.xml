@@ -4,10 +4,26 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>14 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>14 Oct 25 15:08 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Candidates&#39; arguments well-trodden with ten days to go</title>
+      <link>https://www.rte.ie/news/2025/1014/1538582-presidential-election-ireland/</link>
+      <description>
+        <![CDATA[Another day, another debate as the two presidential candidates faced off against each other once again.]]>
+      </description>
+      <source:markdown>Another day, another debate as the two presidential candidates faced off against each other once again.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1014/1538582-presidential-election-ireland/</guid>
+    </item>    <item>
+      <title>Mistake for Greens to back Connolly - former party Chair</title>
+      <link>https://www.rte.ie/news/2025/1014/1538577-mistake-greens-connolly/</link>
+      <description>
+        <![CDATA[The former Chair of the Green Party believes it was a mistake for the party to endorse Independent Catherine Connolly for the Presidential election campaign.]]>
+      </description>
+      <source:markdown>The former Chair of the Green Party believes it was a mistake for the party to endorse Independent Catherine Connolly for the Presidential election campaign.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1014/1538577-mistake-greens-connolly/</guid>
+    </item>    <item>
       <title>Humphreys criticised over lack of support for O&#39;Farrells</title>
       <link>https://www.rte.ie/news/2025/1014/1538571-humphreys-ofarrell/</link>
       <description>
@@ -81,6 +97,17 @@
 
 [Read all](https://www.vaticannews.va/en/church/news/2025-10/caritas-jerusalem-gaza-milk-formula-delivery-humanitarian-aid.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/church/news/2025-10/caritas-jerusalem-gaza-milk-formula-delivery-humanitarian-aid.html</guid>
+    </item>    <item>
+      <title>Trump says 6 dead after fresh U.S. strike on alleged drug boat off Venezuela</title>
+      <link>https://www.cbc.ca/news/world/us-fifth-venezuela-boat-strike-9.6938219?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/976d581f-9375-4e9a-8175-8079182b4151,1760470055157/full/max/0/default.jpg?im=Crop%2Crect%3D%28315%2C239%2C5271%2C2964%29%3BResize%3D%28620%29' alt='A man with a tense look on his facde' width='620' height='349' title='U.S. President Donald Trump speaks during a meeting with Argentina&apos;s President Javier Milei in the Cabinet Room of the White House, Tuesday, Oct. 14, 2025, in Washington. (AP Photo/Alex Brandon)'/><p>The United States struck another small boat accused of carrying drugs in the waters off Venezuela, killing six people, U.S. President Donald Trump said on Tuesday.
+        </p>]]>
+      </description>
+      <source:markdown>![A man with a tense look on his facde](https://i.cbc.ca/ais/976d581f-9375-4e9a-8175-8079182b4151,1760470055157/full/max/0/default.jpg?im=Crop%2Crect%3D%28315%2C239%2C5271%2C2964%29%3BResize%3D%28620%29)
+
+The United States struck another small boat accused of carrying drugs in the waters off Venezuela, killing six people, U.S. President Donald Trump said on Tuesday.</source:markdown>
+      <guid>cid://9.6938219</guid>
     </item>    <item>
       <title>New disability rights and equality organisation launches</title>
       <link>https://www.rte.ie/news/2025/1014/1538552-disability-rights-organisation/</link>
@@ -167,6 +194,60 @@
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-01-2025-UNRWA-Gaza-06.jpg/image560x340cropped.jpg" length="20221" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/10/1166096</guid>
     </item>    <item>
+      <title>Israel restricts Gaza aid, saying Hamas must do more to return deceased hostages</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166107</link>
+      <description>
+        <![CDATA[Israel announced late on Tuesday that it will limit the flow of aid to Gaza, accusing Hamas of breaching the ceasefire agreement by returning only four of the bodies of deceased hostages so far.]]>
+      </description>
+      <source:markdown>Israel announced late on Tuesday that it will limit the flow of aid to Gaza, accusing Hamas of breaching the ceasefire agreement by returning only four of the bodies of deceased hostages so far.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/14-10-2025_UNICEF_Gaza-01.jpg/image560x340cropped.jpg" length="43499" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166107</guid>
+    </item>    <item>
+      <title>Humanitarians call for greater support amid immense needs</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166106</link>
+      <description>
+        <![CDATA[With the end of the year fast approaching, humanitarians are urging donors to step up support for their operations which remain underfunded due to brutal cuts to aid budgets.&nbsp;]]>
+      </description>
+      <source:markdown>With the end of the year fast approaching, humanitarians are urging donors to step up support for their operations which remain underfunded due to brutal cuts to aid budgets.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/29-09-2025-UNICEF-Bangladesh-05.jpg/image560x340cropped.jpg" length="39123" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166106</guid>
+    </item>    <item>
+      <title>The ‘clean revolution is unstoppable’ but will it arrive too late?</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166101</link>
+      <description>
+        <![CDATA[A new report released on Tuesday warns the world is falling behind on its clean energy goals, prompting UN chief António Guterres to call once more for a ramped-up transition to a net zero global economy.]]>
+      </description>
+      <source:markdown>A new report released on Tuesday warns the world is falling behind on its clean energy goals, prompting UN chief António Guterres to call once more for a ramped-up transition to a net zero global economy.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/15-08-2025-UNDP-Bosnia-Herzegovina.jpg/image560x340cropped.jpg" length="55213" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166101</guid>
+    </item>    <item>
+      <title>UN envoy warns Libya’s transition at risk amid stalled political roadmap</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166100</link>
+      <description>
+        <![CDATA[The UN’s top envoy for Libya warned on Tuesday that the country’s long-delayed political transition will stay on hold unless rival institutions swiftly resolve differences over election laws and key appointments.]]>
+      </description>
+      <source:markdown>The UN’s top envoy for Libya warned on Tuesday that the country’s long-delayed political transition will stay on hold unless rival institutions swiftly resolve differences over election laws and key appointments.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/20-08-2024-UNICEF-Libya-02.jpg/image560x340cropped.jpg" length="30891" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166100</guid>
+    </item>    <item>
+      <title>Ukraine: Top humanitarian strongly condemns Russian attack on UN aid convoy</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166099</link>
+      <description>
+        <![CDATA[Russian drones hit a “clearly marked” UN convoy on Tuesday which was bringing desperately needed aid to a war-torn frontline town in southern Ukraine.&nbsp;]]>
+      </description>
+      <source:markdown>Russian drones hit a “clearly marked” UN convoy on Tuesday which was bringing desperately needed aid to a war-torn frontline town in southern Ukraine.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/14-10-2025_Ukraine%20WHO.jpeg/image560x340cropped.jpg" length="40633" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166099</guid>
+    </item>    <item>
+      <title>WHO calls for greater investment in brain health and care services</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166097</link>
+      <description>
+        <![CDATA[Countries must scale up investment and care to treat neurological disorders, responsible for over 11 million deaths each year, the World Health Organization (WHO) said on Tuesday.&nbsp;]]>
+      </description>
+      <source:markdown>Countries must scale up investment and care to treat neurological disorders, responsible for over 11 million deaths each year, the World Health Organization (WHO) said on Tuesday.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/14-10-2025-WHO-India-neurological.jpg/image560x340cropped.jpg" length="26322" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166097</guid>
+    </item>    <item>
       <title>Pragmatism and positivity: How Canada and India are framing a reset of strained ties</title>
       <link>https://www.cbc.ca/news/world/anand-canada-india-relations-9.6937640?cmp=rss</link>
       <description>
@@ -197,7 +278,7 @@ After two years of navigating a bitter diplomatic spat over the killing of a Sik
 The duo performed an updated version of one of Mendes’ fan-favourite songs and received rapturous applause.</source:markdown>
       <guid>cid://9.6937672</guid>
     </item>    <item>
-      <title>Candidates on campaign trail with ten days to polling</title>
+      <title>As it happened: Campaigning continues with 10 days left</title>
       <link>https://www.rte.ie/news/presidential-election/2025/1014/1538465-presidential-election-blog/</link>
       <description>
         <![CDATA[Follow developments as candidates Catherine Connolly and Heather Humphreys are on the campaign trail with 10 days to polling in the Presidential Election.]]>
@@ -265,12 +346,12 @@ Global warming is crossing dangerous thresholds sooner than expected, with the w
 [Read all](https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-xiv-visit-quirinal-palace-italy-president-mattarella.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-xiv-visit-quirinal-palace-italy-president-mattarella.html</guid>
     </item>    <item>
-      <title>French PM Lecornu hoping to win no-confidence motion</title>
+      <title>French PM to suspend Macron&#39;s flagship pension reform</title>
       <link>https://www.rte.ie/news/world/2025/1014/1538472-france-pm/</link>
       <description>
-        <![CDATA[French Prime Minister Sébastien Lecornu will address parliament to spell out his budget priorities, hoping to win over enough Socialists to stave off losing a no-confidence vote that would plunge France further into the political mire.]]>
+        <![CDATA[French Prime Minister Sebastien Lecornu has promised to suspend a landmark pension reform until after the 2027 election, sacrificing one of President Emmanuel Macron's legacy achievements to ensure the government's survival.]]>
       </description>
-      <source:markdown>French Prime Minister Sébastien Lecornu will address parliament to spell out his budget priorities, hoping to win over enough Socialists to stave off losing a no-confidence vote that would plunge France further into the political mire.</source:markdown>
+      <source:markdown>French Prime Minister Sebastien Lecornu has promised to suspend a landmark pension reform until after the 2027 election, sacrificing one of President Emmanuel Macron&#39;s legacy achievements to ensure the government&#39;s survival.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2025/1014/1538472-france-pm/</guid>
     </item>    <item>
       <title>Argentina&#39;s Milei heads to White House for lifeline</title>

@@ -4,10 +4,39 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>14 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>14 Oct 25 15:08 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Driven Back to Eden, by Edward Payson Roe</title>
+      <link>https://standardebooks.org/ebooks/edward-payson-roe/driven-back-to-eden</link>
+      <description>
+        <![CDATA[A family leaves their crowded New York City flat to find health, happiness, and wholesome work in the countryside.]]>
+      </description>
+      <source:markdown>A family leaves their crowded New York City flat to find health, happiness, and wholesome work in the countryside.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/edward-payson-roe/driven-back-to-eden/downloads/edward-payson-roe_driven-back-to-eden.epub?source=feed" length="622776" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/edward-payson-roe/driven-back-to-eden</guid>
+    </item>    <item>
+      <title>Mr. Britling Sees It Through, by H. G. Wells</title>
+      <link>https://standardebooks.org/ebooks/h-g-wells/mr-britling-sees-it-through</link>
+      <description>
+        <![CDATA[A civilian in rural Essex attempts to understand the purpose of World War I.]]>
+      </description>
+      <source:markdown>A civilian in rural Essex attempts to understand the purpose of World War I.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/h-g-wells/mr-britling-sees-it-through/downloads/h-g-wells_mr-britling-sees-it-through.epub?source=feed" length="980812" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/h-g-wells/mr-britling-sees-it-through</guid>
+    </item>    <item>
+      <title>Day in Review (October 14–16)</title>
+      <link>https://www.arl.org/day-in-review/day-in-review-october-14-16/</link>
+      <description>
+        <![CDATA[<p>Last Updated on October 14, 2025, 2:21 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...</p>
+        <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-october-14-16/">Day in Review (October 14–16)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+      </description>
+      <source:markdown>Last Updated on October 14, 2025, 2:21 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...
+
+The post [Day in Review (October 14–16)](https://www.arl.org/day-in-review/day-in-review-october-14-16/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
+      <guid>cid://https://www.arl.org/?p=46341</guid>
+    </item>    <item>
       <title>Keeping the Value of the Liberal Arts in Mind as “Workforce Pell” Becomes Reality</title>
       <link>https://sr.ithaka.org/blog/keeping-the-value-of-the-liberal-arts-in-mind-as-workforce-pell-becomes-reality/</link>
       <description>
@@ -268,10 +297,10 @@ The post [Guest Post — Manifesto Time: Do You Need a Publishing Manifesto?](ht
       <title>ARL Libraries Celebrate Banned Books Week 2025</title>
       <link>https://www.arl.org/blog/arl-libraries-celebrate-banned-books-week-2025/</link>
       <description>
-        <![CDATA[<p>Last Updated on October 9, 2025, 11:30 am ET Banned Books Week celebrates the freedom to read and calls attention to the harms of censorship by spotlighting current and historical...</p>
+        <![CDATA[<p>Last Updated on October 14, 2025, 5:23 pm ET Banned Books Week celebrates the freedom to read and calls attention to the harms of censorship by spotlighting current and historical...</p>
         <p>The post <a href="https://www.arl.org/blog/arl-libraries-celebrate-banned-books-week-2025/">ARL Libraries Celebrate Banned Books Week 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on October 9, 2025, 11:30 am ET Banned Books Week celebrates the freedom to read and calls attention to the harms of censorship by spotlighting current and historical...
+      <source:markdown>Last Updated on October 14, 2025, 5:23 pm ET Banned Books Week celebrates the freedom to read and calls attention to the harms of censorship by spotlighting current and historical...
 
 The post [ARL Libraries Celebrate Banned Books Week 2025](https://www.arl.org/blog/arl-libraries-celebrate-banned-books-week-2025/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=46250</guid>

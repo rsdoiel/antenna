@@ -4,10 +4,114 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>14 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>14 Oct 25 15:08 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>CISA cuts more staff and reassigns others as government stays shut down</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/14/cisa_jettisoning_more_staff_reassigning/</link>
+      <description>
+        <![CDATA[<h4>America&#39;s main cybersecurity agency has lost almost 1,000 people this year</h4> <p>The Trump administration has continued to cut staff at the Cybersecurity and Infrastructure Security Agency (CISA), and is reportedly reassigning others, further imperiling the US&#39; cybersecurity posture. …</p>]]>
+      </description>
+      <source:markdown>#### America&#39;s main cybersecurity agency has lost almost 1,000 people this year
+
+The Trump administration has continued to cut staff at the Cybersecurity and Infrastructure Security Agency (CISA), and is reportedly reassigning others, further imperiling the US&#39; cybersecurity posture. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242473</guid>
+    </item>    <item>
+      <title>Revisiting Sailfish OS in 2025</title>
+      <link>https://www.osnews.com/story/143540/revisiting-sailfish-os-in-2025/</link>
+      <description>
+        <![CDATA[As someone who cut their teeth on Maemo (the N800/N900 still live in my basement) and carried the first Jolla dev device, I like to pull out my SailfishOS phones every few months to see how things are progressing. Here’s where I’m at in September 2025. ↫ Nick Schmidt I was one of the very first people to review the original Jolla Phone way back in 2014, and I also happen to own the quite rare Jolla Tablet, so I was definitely a serious backer and believer in the platform back when it first entered the market. Sadly, the pace of improvements was slow, and failed adventures and mismanagement eventually led to the platform almost dying out. It&#8217;s only in recent years that they&#8217;ve been back on track and Sailfish OS is a more serious option again, but reading through Nick Schmidt&#8217;s findings, it seems the same problems still haunt the platform. And we all know what the main problem will be: application availability. In your day-to-day use, you&#8217;re going to be spending a lot of time using the Android compatibility layer, because native Sailfish applications simply don&#8217;t pull their weight. This leads to the age-old problem of any operating system that loses focus on native applications and opts to go all-in on compatibility layers or ports instead, and int he case of Sailfish that means: why run Sailfish to run Android applications poorly, when you can also just run Android? And why develop native applications, when your Android build can run using the compatibility layer? OS/2 (with Windows applications) and Haiku (with Qt/GTK applications) suffer from the same problem. Apparently, the Jolla C2 phone is not exactly great either, and doesn&#8217;t showcase Sailfish properly, and Sailfish&#8217;s keyboard is still unpleasant to use, a problem I also had in my original review so many years ago. There are some bright spots, too; the swipe-based navigation is still great, and apparently Wi-Fi connectivity is much more stable now. Still, it seems like Sailfish is suffering from more or less exactly the kind of problems you&#8217;d expect a small platform to suffer from, and whether or not you can deal with those problems is a more a question of dedication than just altering some use patterns. Android and iOS, though illegal practices, have sucked all the air out of the room, and I doubt we&#8217;re ever going to get any of it back.]]>
+      </description>
+      <source:markdown>As someone who cut their teeth on Maemo (the N800/N900 still live in my basement) and carried the first Jolla dev device, I like to pull out my SailfishOS phones every few months to see how things are progressing. Here’s where I’m at in September 2025. ↫ Nick Schmidt I was one of the very first people to review the original Jolla Phone way back in 2014, and I also happen to own the quite rare Jolla Tablet, so I was definitely a serious backer and believer in the platform back when it first entered the market. Sadly, the pace of improvements was slow, and failed adventures and mismanagement eventually led to the platform almost dying out. It’s only in recent years that they’ve been back on track and Sailfish OS is a more serious option again, but reading through Nick Schmidt’s findings, it seems the same problems still haunt the platform. And we all know what the main problem will be: application availability. In your day-to-day use, you’re going to be spending a lot of time using the Android compatibility layer, because native Sailfish applications simply don’t pull their weight. This leads to the age-old problem of any operating system that loses focus on native applications and opts to go all-in on compatibility layers or ports instead, and int he case of Sailfish that means: why run Sailfish to run Android applications poorly, when you can also just run Android? And why develop native applications, when your Android build can run using the compatibility layer? OS/2 (with Windows applications) and Haiku (with Qt/GTK applications) suffer from the same problem. Apparently, the Jolla C2 phone is not exactly great either, and doesn’t showcase Sailfish properly, and Sailfish’s keyboard is still unpleasant to use, a problem I also had in my original review so many years ago. There are some bright spots, too; the swipe-based navigation is still great, and apparently Wi-Fi connectivity is much more stable now. Still, it seems like Sailfish is suffering from more or less exactly the kind of problems you’d expect a small platform to suffer from, and whether or not you can deal with those problems is a more a question of dedication than just altering some use patterns. Android and iOS, though illegal practices, have sucked all the air out of the room, and I doubt we’re ever going to get any of it back.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143540</guid>
+    </item>    <item>
+      <title>SpaceX Successfully Launches Giant Starship Rocket’s 11th Test Flight</title>
+      <link>https://www.smithsonianmag.com/smart-news/spacex-successfully-launches-giant-starship-rockets-11th-test-flight-180987508/</link>
+      <description>
+        <![CDATA[The company will soon begin testing the third version of its rocket]]>
+      </description>
+      <source:markdown>The company will soon begin testing the third version of its rocket</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/_gYiaKetxFeOwkh6asPajdaiDZ4=/420x240/filters:focal(2048x1161:2049x1162)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/44/ef/44ef31d1-906f-4d4b-8207-587ec641fa6a/g3l98b0wiaihh3i.jpeg" length="" type="" />
+    </item>    <item>
+      <title>Framework flame war erupts over support of politically polarizing Linux projects</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/14/framework_linux_controversy/</link>
+      <description>
+        <![CDATA[<h4>Laptop maker&#39;s apolitical endorsement of politically contentious projects meets resistance</h4> <p>Six days ago, upgradeable laptop maker Framework tried to convince its fractious user community to live in a &#34;big tent&#34; after a Debian developer objected to the company&#39;s sponsorship of Hyprland and its social media promotion of Omarchy, with both projects associated with politically polarizing viewpoints.…</p>]]>
+      </description>
+      <source:markdown>#### Laptop maker&#39;s apolitical endorsement of politically contentious projects meets resistance
+
+Six days ago, upgradeable laptop maker Framework tried to convince its fractious user community to live in a &#34;big tent&#34; after a Debian developer objected to the company&#39;s sponsorship of Hyprland and its social media promotion of Omarchy, with both projects associated with politically polarizing viewpoints.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242471</guid>
+    </item>    <item>
+      <title>18 zettaFLOPS of new AI compute coming online from Oracle late next year</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/14/oracle_amd_nvidia/</link>
+      <description>
+        <![CDATA[<h4>New clusters to feature 800,000 Nvidia Blackwell and 50,000 AMD Instinct MI450X GPUs</h4> <p>Oracle on Tuesday revealed it would field more than 18 zettaFLOPS worth of AI infrastructure from Nvidia and AMD by the second half of next year.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### New clusters to feature 800,000 Nvidia Blackwell and 50,000 AMD Instinct MI450X GPUs
+
+Oracle on Tuesday revealed it would field more than 18 zettaFLOPS worth of AI infrastructure from Nvidia and AMD by the second half of next year.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242472</guid>
+    </item>    <item>
+      <title>A Real-Life Treasure Hunt Is Underway in These American Cities</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-real-life-treasure-hunt-is-underway-in-america-180987511/</link>
+      <description>
+        <![CDATA[Stack's Bowers Galleries is hiding certificates for rare coins and banknotes this month as it celebrates the 90th anniversary of its first auction in October 1935]]>
+      </description>
+      <source:markdown>Stack&#39;s Bowers Galleries is hiding certificates for rare coins and banknotes this month as it celebrates the 90th anniversary of its first auction in October 1935</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Q9hW4Dy5awNI5nGU7E2zYLSbXLQ=/420x240/filters:focal(512x278:513x279)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c6/f2/c6f21267-7767-449f-b4d5-9858c886ab20/sbg_2025_treasurehungcollage-1024x554jpg.png" length="" type="" />
+    </item>    <item>
+      <title>Big tech is faking revenue</title>
+      <link>https://www.osnews.com/story/143538/big-tech-is-faking-revenue/</link>
+      <description>
+        <![CDATA[Open AI has recently announced deals worth $600 Billion with Nvidia, AMD, and Oracle. OpenAI is able to spend hundreds of billions of dollars they do not have because those companies are paying that same money back to OpenAI via investment. The infinite money glitch means that stocks keep going higher as more circular revenue cycles between the same players. ↫ Sasha Yanshin The scam is so brazen, so public, so obvious. The foxes aren&#8217;t just in the hen house &#8211; they bought the whole goddamn hen house.]]>
+      </description>
+      <source:markdown>Open AI has recently announced deals worth $600 Billion with Nvidia, AMD, and Oracle. OpenAI is able to spend hundreds of billions of dollars they do not have because those companies are paying that same money back to OpenAI via investment. The infinite money glitch means that stocks keep going higher as more circular revenue cycles between the same players. ↫ Sasha Yanshin The scam is so brazen, so public, so obvious. The foxes aren’t just in the hen house – they bought the whole goddamn hen house.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143538</guid>
+    </item>    <item>
+      <title>Haiku gets fixes for NFS4, improves its BSD driver compatibility layer</title>
+      <link>https://www.osnews.com/story/143536/haiku-gets-fixes-for-nfs4-improves-its-bsd-driver-compatibility-layer/</link>
+      <description>
+        <![CDATA[Another month, another activity report from the Haiku project. This past month, a lot of work went into the FreeBSD/OpenBSD network driver compatibility layer, opening the door to drivers using interfaces other than PCI or USB. Support for NFS4 took a bit of a hit with last month&#8217;s changes to VFS, and these have been addressed, and other aspects of NFS4 have been improved as well. On top of these two bigger items, there&#8217;s a list of smaller changes and fixes as well, but it&#8217;s been a calm month for Haiku so there&#8217;s less activity than normal. I&#8217;m not sure what to add in a second paragraph here. I&#8217;m nearing act 3 in Silksong? Is that relevant here? I doubt it, but I still wanted to mention it. Only a few loose ends in act 2 and on Hornet goes!]]>
+      </description>
+      <source:markdown>Another month, another activity report from the Haiku project. This past month, a lot of work went into the FreeBSD/OpenBSD network driver compatibility layer, opening the door to drivers using interfaces other than PCI or USB. Support for NFS4 took a bit of a hit with last month’s changes to VFS, and these have been addressed, and other aspects of NFS4 have been improved as well. On top of these two bigger items, there’s a list of smaller changes and fixes as well, but it’s been a calm month for Haiku so there’s less activity than normal. I’m not sure what to add in a second paragraph here. I’m nearing act 3 in Silksong? Is that relevant here? I doubt it, but I still wanted to mention it. Only a few loose ends in act 2 and on Hornet goes!</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143536</guid>
+    </item>    <item>
+      <title>Google changes how ads in Search are shown, and surprisingly it doesn’t make things worse</title>
+      <link>https://www.osnews.com/story/143534/google-changes-how-ads-in-search-are-shown-and-surprisingly-it-doesnt-make-things-worse/</link>
+      <description>
+        <![CDATA[Text ads on the search results page will now be grouped with a single “Sponsored results” label. This new, larger label stays visible as people scroll, making it clear which results are sponsored — upholding our industry-leading standards for ad label prominence. We’re also adding a new “Hide sponsored results” control that allows you to collapse text ads with a single click if you want to focus only on organic results. In our testing, we found that the new design helps people navigate the top of the page more easily. The new design keeps the size of ads the same and you’ll still never see more than four text ads in a grouping. ↫ Omkar Muralidharan on Google&#8217;s Ads and Commerce Blog I guess this is an improvement, but I doubt this will convince anyone to turn off their ad blocker or switch back to Google from another search engine. The option to collapse sponsored results is especially welcome, but I wish they&#8217;d gone a step further and added an option in settings to permanently collapse them &#8211; which, of course, is never going to happen. Removing any and all &#8220;AI&#8221; summaries would be nice, too, but with the entire technology industry pushing stringent &#8220;AI&#8221; KPIs on employees, that&#8217;s not going to happen, either. Regardless, it&#8217;s still an improvement to Google&#8217;s results page, and while we may not realise it in our little bubble here, the number of people whose search experience this will improve is absolutely massive. It&#8217;s been a while since I&#8217;ve seen Google make a change to their search results page that doesn&#8217;t make it substantially worse, so I&#8217;ll take what I can get.]]>
+      </description>
+      <source:markdown>Text ads on the search results page will now be grouped with a single “Sponsored results” label. This new, larger label stays visible as people scroll, making it clear which results are sponsored — upholding our industry-leading standards for ad label prominence. We’re also adding a new “Hide sponsored results” control that allows you to collapse text ads with a single click if you want to focus only on organic results. In our testing, we found that the new design helps people navigate the top of the page more easily. The new design keeps the size of ads the same and you’ll still never see more than four text ads in a grouping. ↫ Omkar Muralidharan on Google’s Ads and Commerce Blog I guess this is an improvement, but I doubt this will convince anyone to turn off their ad blocker or switch back to Google from another search engine. The option to collapse sponsored results is especially welcome, but I wish they’d gone a step further and added an option in settings to permanently collapse them – which, of course, is never going to happen. Removing any and all “AI” summaries would be nice, too, but with the entire technology industry pushing stringent “AI” KPIs on employees, that’s not going to happen, either. Regardless, it’s still an improvement to Google’s results page, and while we may not realise it in our little bubble here, the number of people whose search experience this will improve is absolutely massive. It’s been a while since I’ve seen Google make a change to their search results page that doesn’t make it substantially worse, so I’ll take what I can get.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143534</guid>
+    </item>    <item>
+      <title>Old Blue Workbench adds a ton of improvements to your old Amiga</title>
+      <link>https://www.osnews.com/story/143532/old-blue-workbench-adds-a-ton-of-improvements-to-your-old-amiga/</link>
+      <description>
+        <![CDATA[Are you still using your Amiga with the 1.3 version of Kickstart, but would you prefer an updated version of Workbench with a long list of additional features, improvements, and other niceties? Old Blue Workbench is a Workbench replacement for Amigas running Kickstart 1.3 written by Mats Eirik Hansen. It adds a ton of features and improvements, such as enhanced menus in the Workbench 2.0 style, improved windows with things like lasso select, icon sorting, and more, and browser windows for navigating the filesystem. You can also add a dock with drag and drop support, launch applications at startup, define your own menus, and a whole lot more. It&#8217;s free, and if I had an old Amiga I would love to try this out.]]>
+      </description>
+      <source:markdown>Are you still using your Amiga with the 1.3 version of Kickstart, but would you prefer an updated version of Workbench with a long list of additional features, improvements, and other niceties? Old Blue Workbench is a Workbench replacement for Amigas running Kickstart 1.3 written by Mats Eirik Hansen. It adds a ton of features and improvements, such as enhanced menus in the Workbench 2.0 style, improved windows with things like lasso select, icon sorting, and more, and browser windows for navigating the filesystem. You can also add a dock with drag and drop support, launch applications at startup, define your own menus, and a whole lot more. It’s free, and if I had an old Amiga I would love to try this out.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143532</guid>
+    </item>    <item>
+      <title>Some like it bot! ChatGPT promises AI-rotica is coming for verified adults</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/14/openai_chatgpt_ai_erotica/</link>
+      <description>
+        <![CDATA[<h4>Maybe this will bring in some actual profit?</h4> <p>OpenAI has mitigated ChatGPT behavior that might exacerbate users&#39; mental health issues, claims CEO Sam Altman, so the natural next step is to make ChatGPT act more human again - complete with the ability to generate &#34;erotica for verified adults.&#34;…</p>]]>
+      </description>
+      <source:markdown>#### Maybe this will bring in some actual profit?
+
+OpenAI has mitigated ChatGPT behavior that might exacerbate users&#39; mental health issues, claims CEO Sam Altman, so the natural next step is to make ChatGPT act more human again - complete with the ability to generate &#34;erotica for verified adults.&#34;…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242470</guid>
+    </item>    <item>
+      <title>Scientists Explore the Mysterious Lives and Longevity Superpowers of Naked Mole Rats</title>
+      <link>https://www.smithsonianmag.com/smart-news/scientists-explore-the-mysterious-lives-and-longevity-superpowers-of-naked-mole-rats-180987501/</link>
+      <description>
+        <![CDATA[The nearly hairless rodents are extremely resistant to cancer—and can live to be 37 years old]]>
+      </description>
+      <source:markdown>The nearly hairless rodents are extremely resistant to cancer—and can live to be 37 years old</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/0rAtd2fz9Cwb1vbhPuSOHzearRk=/420x240/filters:focal(900x574:901x575)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/67/37/6737a585-894d-4a58-a3af-ef8e33a1901c/6257901626_bf091c1ce9_o.jpg" length="" type="" />
+    </item>    <item>
       <title>Microsoft seeding Washington schools with free AI to get kids and teachers hooked</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/14/microsoft_ai_schools/</link>
       <description>
@@ -59,6 +163,17 @@ A Chinese state-backed cybergang known as Flax Typhoon spent more than a year bu
       </description>
       <source:markdown>&#34;Divine Egypt,&#34; a new exhibition at the Metropolitan Museum of Art, features nearly 250 artifacts representing the rich pantheon of Egyptian deities</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/89FVs8pJ-0UDixvkaWSHQeK6N28=/420x240/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0c/19/0c1946a8-75f8-4d88-be86-7fb702158dc7/exhibit.jpg" length="" type="" />
+    </item>    <item>
+      <title>60 Minutes Uncovers Hacks on America’s Infrastructure</title>
+      <link>https://puri.sm/posts/60-minutes-uncovers-hacks-on-americas-infrastructure/</link>
+      <description>
+        <![CDATA[<p>The recent 60 Minutes segment on Chinese hacks to America’s critical infrastructure was not new news. IT was a very powerful remainder that highlighted some of the root causes of our national cyber weaknesses.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/60-minutes-uncovers-hacks-on-americas-infrastructure/">60 Minutes Uncovers Hacks on America&#8217;s Infrastructure</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <source:markdown>The recent 60 Minutes segment on Chinese hacks to America’s critical infrastructure was not new news. IT was a very powerful remainder that highlighted some of the root causes of our national cyber weaknesses.
+
+The post [60 Minutes Uncovers Hacks on America’s Infrastructure](https://puri.sm/posts/60-minutes-uncovers-hacks-on-americas-infrastructure/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+      <guid>cid://https://puri.sm/?p=84732</guid>
     </item>    <item>
       <title>DGX Spark, Nvidia’s tiniest supercomputer, tackles large models at solid speeds</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/14/dgx_spark_review/</link>
