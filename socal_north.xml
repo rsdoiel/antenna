@@ -7,24 +7,48 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>14 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>14 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>LA County quietly paid a $2 million settlement to its CEO in ‘confidential’ deal</title>
-      <link>https://laist.com/news/politics/county-settlement-ceo</link>
+      <title>A fragile Gaza ceasefire is tested after Israel and Hamas swap detainees and hostages</title>
+      <link>https://laist.com/news/gaza-ceasefire-largely-holds-after-israel-and-hamas-swap-detainees-and-hostages</link>
       <description>
-        <![CDATA[The agreement is labeled “confidential” and was not reported out publicly by the county.]]>
+        <![CDATA[Israel and Hamas took steps toward ending the two-year war that has devastated the Gaza Strip, but hard work lies ahead.]]>
       </description>
-      <source:markdown>The agreement is labeled “confidential” and was not reported out publicly by the county.</source:markdown>
-      <guid>cid://urn:uuid:00000199-df87-df6e-abbd-dfefcdae0000</guid>
+      <source:markdown>Israel and Hamas took steps toward ending the two-year war that has devastated the Gaza Strip, but hard work lies ahead.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e3b8-dc80-a5fb-eff8abb60000</guid>
     </item>    <item>
-      <title>Kaiser nurses plan to strike this morning. Here&#39;s why – and how it will affect patients</title>
+      <title>Protecting Jewish students or chilling speech? Inside California’s ‘hardest’ fight over antisemitism</title>
+      <link>https://laist.com/news/politics/protecting-jewish-students-or-chilling-speech-inside-californias-hardest-fight-over-antisemitism</link>
+      <description>
+        <![CDATA[In the fight over preventing antisemitism in schools, no one disputes the need to protect Jewish students. Lawmakers and critics diverged sharply on how to do it.]]>
+      </description>
+      <source:markdown>In the fight over preventing antisemitism in schools, no one disputes the need to protect Jewish students. Lawmakers and critics diverged sharply on how to do it.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e37a-dc80-a5fb-ef7a8a9f0000</guid>
+    </item>    <item>
+      <title>Newsom signs bill to stem copper wire theft that’s shutting LA’s lights off</title>
+      <link>https://laist.com/news/transportation/newsom-signs-copper-wire-theft-bill</link>
+      <description>
+        <![CDATA[State Assemblyman Mark González, who represents parts of L.A., introduced the bill to strengthen penalties against illegal metal recyclers.]]>
+      </description>
+      <source:markdown>State Assemblyman Mark González, who represents parts of L.A., introduced the bill to strengthen penalties against illegal metal recyclers.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e38f-dc80-a5fb-efdfce3e0000</guid>
+    </item>    <item>
+      <title>Think your kid’s done with a booster seat? New California law says maybe not</title>
+      <link>https://laist.com/news/politics/children-booster-seat-new-california-law</link>
+      <description>
+        <![CDATA[A controversial bill that would have banned short kids from the front seat was watered down, but small children still face new seat belt rules under a new law.]]>
+      </description>
+      <source:markdown>A controversial bill that would have banned short kids from the front seat was watered down, but small children still face new seat belt rules under a new law.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e365-dc80-a5fb-ef7daacc0000</guid>
+    </item>    <item>
+      <title>Kaiser nurses go on strike in the pouring rain. Here&#39;s why — and how it will affect patients</title>
       <link>https://laist.com/news/health/kaiser-nurses-plan-to-strike-tomorrow-heres-how-it-will-affect-patients</link>
       <description>
-        <![CDATA[Tens of thousands of workers across Southern California to walk out over pay and staffing issues.]]>
+        <![CDATA[Tens of thousands of workers across Southern California walk out over pay and staffing issues.]]>
       </description>
-      <source:markdown>Tens of thousands of workers across Southern California to walk out over pay and staffing issues.</source:markdown>
+      <source:markdown>Tens of thousands of workers across Southern California walk out over pay and staffing issues.</source:markdown>
       <guid>cid://urn:uuid:00000199-df9c-d150-addd-ffdc1f230000</guid>
     </item>    <item>
       <title>Measure A gives LA County’s cities dedicated local homelessness funding, but some say it’s not enough</title>
@@ -34,6 +58,14 @@
       </description>
       <source:markdown>The new sales tax divides $96 million among L.A.’s 88 cities.</source:markdown>
       <guid>cid://urn:uuid:00000199-df4f-d89a-a3b9-ffcfcf0e0000</guid>
+    </item>    <item>
+      <title>LA County quietly paid a $2 million settlement to its CEO in ‘confidential’ deal</title>
+      <link>https://laist.com/news/politics/county-settlement-ceo</link>
+      <description>
+        <![CDATA[The agreement is labeled “confidential” and was not reported out publicly by the county.]]>
+      </description>
+      <source:markdown>The agreement is labeled “confidential” and was not reported out publicly by the county.</source:markdown>
+      <guid>cid://urn:uuid:00000199-df87-df6e-abbd-dfefcdae0000</guid>
     </item>    <item>
       <title>Campaigning in Spanish takes on new meaning for candidates in California governor’s race</title>
       <link>https://laist.com/news/politics/california-governor-2026-election-spanish-xavier-becerra-antonio-villaraigosa-betty-yee</link>
@@ -83,12 +115,12 @@
       <source:markdown>Data from a large, ongoing study of adolescents shows a link between increasing social media use and lower cognition and memory in teens.</source:markdown>
       <guid>cid://urn:uuid:00000199-de6f-d89a-a3b9-ffef88610000</guid>
     </item>    <item>
-      <title>&#39;Potent&#39; storm hits SoCal as Palisades, Eaton and other recent fire zones are under evacuation warnings</title>
+      <title>Mudslides possible this morning in Los Angeles and Orange counties as rain intensifies</title>
       <link>https://laist.com/news/climate-environment/october-storm-southern-california-heavy-rain-wind-flash-flood-watch</link>
       <description>
-        <![CDATA[Heavy rain from the early-season storm could trigger debris flows. Snow is also possible above 7,000 feet.]]>
+        <![CDATA[Mandatory evacuation orders were issued for areas around the Airport Fire burn scar in Orange County mid morning.]]>
       </description>
-      <source:markdown>Heavy rain from the early-season storm could trigger debris flows. Snow is also possible above 7,000 feet.</source:markdown>
+      <source:markdown>Mandatory evacuation orders were issued for areas around the Airport Fire burn scar in Orange County mid morning.</source:markdown>
       <guid>cid://urn:uuid:00000199-dedc-dc80-a5fb-ffdc2df50000</guid>
     </item>    <item>
       <title>JPL announces that hundreds of employees will be laid off Tuesday</title>

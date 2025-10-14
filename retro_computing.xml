@@ -4,10 +4,36 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>14 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>14 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Linux Kernel 6.16 Reaches EOL</title>
+      <link>http://www.linux-magazine.com/Online/News/Linux-Kernel-6.16-Reaches-EOL</link>
+      <description>
+        <![CDATA[<p>Linux kernel 6.16 has reached its end of life, which means you'll need to upgrade to the next stable release, Linux kernel 6.17.</p>]]>
+      </description>
+      <source:markdown>Linux kernel 6.16 has reached its end of life, which means you&#39;ll need to upgrade to the next stable release, Linux kernel 6.17.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://06e3c9b9f5ea5120b2b5d36df0741f4d</guid>
+    </item>    <item>
+      <title>Amazon Ditches Android for a Linux-Based OS</title>
+      <link>http://www.linux-magazine.com/Online/News/Amazon-Ditches-Android-for-a-Linux-Based-OS</link>
+      <description>
+        <![CDATA[<p>Amazon has migrated from Android to the Linux-based Vega OS for its Fire TV.</p>]]>
+      </description>
+      <source:markdown>Amazon has migrated from Android to the Linux-based Vega OS for its Fire TV.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://8e48c8329f6810a7568a0293e3d952a3</guid>
+    </item>    <item>
+      <title>London Show 2025: Pre-Reserve Your RISCOSbits Hardware for collection</title>
+      <link>http://www.iconbar.com/comments/rss/news2242.html</link>
+      <description>
+        <![CDATA[RISCOSbits are prioriting having pre-built systems for customers over a general selection. So, if you are looking to acquire one of their very desirable systems at the show, you can reserve a system to collect. This also means they can spec it exactly as you want!]]>
+      </description>
+      <source:markdown>RISCOSbits are prioriting having pre-built systems for customers over a general selection. So, if you are looking to acquire one of their very desirable systems at the show, you can reserve a system to collect. This also means they can spec it exactly as you want!</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2242.html</guid>
+    </item>    <item>
       <title>A Diagnostic Board for the KIM-1</title>
       <link>http://retro.hansotten.nl/diagnostic-board-kim-1/</link>
       <description>
