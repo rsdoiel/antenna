@@ -7,10 +7,59 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>15 Oct 25 11:17 -0700</lastBuildDate>
-    <generator>antenna/0.0.12</generator>
+    <lastBuildDate>15 Oct 25 15:11 -0700</lastBuildDate>
+    <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The opening for the first part of LA Metro&#39;s D Line extension is delayed until early next year</title>
+      <link>https://laist.com/news/transportation/la-metro-d-line-extension-delay</link>
+      <description>
+        <![CDATA[Metro officials said it will be able to announce an opening date “soon.”]]>
+      </description>
+      <source:markdown>Metro officials said it will be able to announce an opening date “soon.”</source:markdown>
+      <guid>cid://urn:uuid:00000199-e9d5-dc80-a5fb-edddaacc0000</guid>
+    </item>    <item>
+      <title>LA County district attorney announces charges against 13 county employees for unemployment fraud</title>
+      <link>https://laist.com/news/criminal-justice/la-county-district-attorney-announces-charges-county-employees-unemployment-fraud</link>
+      <description>
+        <![CDATA[While working for the county, the DA’s office alleges that 13 employees fraudulently filed for unemployment, claiming to earn less than $600 a week.]]>
+      </description>
+      <source:markdown>While working for the county, the DA’s office alleges that 13 employees fraudulently filed for unemployment, claiming to earn less than $600 a week.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e99a-dc1c-a3bd-e9dfe1e40000</guid>
+    </item>    <item>
+      <title>More young people in California struggle with anxiety, stress and social media, study finds</title>
+      <link>https://laist.com/news/health/more-young-people-in-california-struggle-with-anxiety-stress-and-social-media-study-finds</link>
+      <description>
+        <![CDATA[Poor mental health is driven by affordability, gun violence, climate change and social media use, they say.]]>
+      </description>
+      <source:markdown>Poor mental health is driven by affordability, gun violence, climate change and social media use, they say.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e97c-dc1c-a3bd-e9fd18570000</guid>
+    </item>    <item>
+      <title>Newsom vetoes car dealers’ bill to hike fees on buyers</title>
+      <link>https://laist.com/news/politics/newsom-vetoes-car-dealers-bill-to-hike-fees-on-buyers</link>
+      <description>
+        <![CDATA[Gov. Gavin Newsom vetoed a bill that would have raised the fees when buying a vehicle in California and signed another to make purchase terms clear.]]>
+      </description>
+      <source:markdown>Gov. Gavin Newsom vetoed a bill that would have raised the fees when buying a vehicle in California and signed another to make purchase terms clear.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e8c9-dc1c-a3bd-e8cd21a30000</guid>
+    </item>    <item>
+      <title>42% of Americans Know Someone Who Died of Overdose</title>
+      <link>https://rand.org/pubs/podcasts/policy-minded/2025/42-percent-of-americans-know-someone-who-died-of-overdose.html</link>
+      <description>
+        <![CDATA[<p>Overdose remains the leading cause of death for Americans ages 18 to 44. RAND research shows the staggering reach of this crisis: More than 40 percent of Americans know someone who has died of a drug overdose. RAND's Alison Athey shares what's behind the numbers.</p>]]>
+      </description>
+      <source:markdown>Overdose remains the leading cause of death for Americans ages 18 to 44. RAND research shows the staggering reach of this crisis: More than 40 percent of Americans know someone who has died of a drug overdose. RAND&#39;s Alison Athey shares what&#39;s behind the numbers.</source:markdown>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/policycurrents/014_Policy_Currents.mp3?dest-id=874184" length="27864492" type="audio/mpeg" />
+      <guid>cid://e775d0a9-84e9-4c72-b2f1-20fa922ca656</guid>
+    </item>    <item>
+      <title>Topanga Canyon Boulevard reopens after brief mudslide closure</title>
+      <link>https://laist.com/news/transportation/topanga-canyon-boulevard-closed-mudslide-october</link>
+      <description>
+        <![CDATA[Caltrans had earlier warned of an indefinite closure. A few hours later, more than 3 miles of the road, between PCH and Grand View Drive, reopened.]]>
+      </description>
+      <source:markdown>Caltrans had earlier warned of an indefinite closure. A few hours later, more than 3 miles of the road, between PCH and Grand View Drive, reopened.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e925-dc1c-a3bd-e9ed346e0000</guid>
+    </item>    <item>
       <title>A Supreme Court ruling on voting rights could boost Republicans&#39; redistricting efforts</title>
       <link>https://laist.com/news/politics/supreme-court-ruling-on-voting-rights-could-boost-republicans-redistricting-efforts</link>
       <description>
@@ -35,12 +84,12 @@
       <source:markdown>Homeowners in fire hazard zones may have to remove bushes, hedges and flowers within 5 feet of their houses — even as extreme heat becomes more dangerous.</source:markdown>
       <guid>cid://urn:uuid:00000199-e406-dda8-a3bb-f50f8e190000</guid>
     </item>    <item>
-      <title>Thousands of federal employees are getting laid off. Will a judge intervene?</title>
+      <title>Judge pauses shutdown layoffs at more than 30 federal agencies</title>
       <link>https://laist.com/news/politics/thousands-of-federal-employees-are-getting-laid-off-will-a-judge-intervene</link>
       <description>
-        <![CDATA[Unions representing federal employees have asked a federal judge in San Francisco to halt the Trump administration's latest round of layoffs, which are coming amid the government shutdown.]]>
+        <![CDATA[In a hearing on Wednesday, U.S. District Judge Susan Illston said the layoffs have brought a human cost that cannot be tolerated.]]>
       </description>
-      <source:markdown>Unions representing federal employees have asked a federal judge in San Francisco to halt the Trump administration&#39;s latest round of layoffs, which are coming amid the government shutdown.</source:markdown>
+      <source:markdown>In a hearing on Wednesday, U.S. District Judge Susan Illston said the layoffs have brought a human cost that cannot be tolerated.</source:markdown>
       <guid>cid://urn:uuid:00000199-e7d5-dc80-a5fb-efdd7bd80000</guid>
     </item>    <item>
       <title>Israel keeps Gaza border crossing closed while reducing aid deliveries</title>
@@ -67,7 +116,7 @@
       <source:markdown>L.A. officials and volunteers undercounted in key neighborhoods by 32% this year, the study says. The agency that conducts the count says it welcomes the review but hasn&#39;t seen the numbers yet.</source:markdown>
       <guid>cid://urn:uuid:00000199-e554-d89a-a3b9-f5d790750000</guid>
     </item>    <item>
-      <title>Pasadena Unified faces up to $35 million in cuts to resolve looming financial crisis</title>
+      <title>Pasadena Unified faces up to $35M in cuts to resolve looming financial crisis</title>
       <link>https://laist.com/news/education/pasadena-unified-school-district-budget-cuts-2025</link>
       <description>
         <![CDATA[PUSD plans to enact tens of millions of dollars in budget cuts next school year to stave off outside intervention.]]>

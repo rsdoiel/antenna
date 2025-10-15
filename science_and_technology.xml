@@ -4,10 +4,92 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>15 Oct 25 11:17 -0700</lastBuildDate>
-    <generator>antenna/0.0.12</generator>
+    <lastBuildDate>15 Oct 25 15:11 -0700</lastBuildDate>
+    <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>X to combat bot problem by showing more info about users</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/15/twitter_x_bot_show_user_info/</link>
+      <description>
+        <![CDATA[<h4>Meet [user] from [location]</h4> <p>In an effort to help human readers figure out whether they can trust the source of information (or opinion) posted on X, Elon Musk’s social network plans to add a new &#34;About this account&#34; screen with metadata from each user, including their location, how long they’ve had the account, and how many times they&#39;ve changed their usernames.…</p>]]>
+      </description>
+      <source:markdown>#### Meet \[user\] from \[location\]
+
+In an effort to help human readers figure out whether they can trust the source of information (or opinion) posted on X, Elon Musk’s social network plans to add a new &#34;About this account&#34; screen with metadata from each user, including their location, how long they’ve had the account, and how many times they&#39;ve changed their usernames.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242498</guid>
+    </item>    <item>
+      <title>OpenAI&#39;s ChatGPT is so popular that almost no one will pay for it</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/15/openais_chatgpt_popular_few_pay/</link>
+      <description>
+        <![CDATA[<h4>If you build it, they will come and expect the service to be free</h4> <p>OpenAI is losing about three times more money than it&#39;s earning, and 95 percent of those using ChatGPT, which generates roughly 70 percent of the company&#39;s recurring revenue, aren&#39;t paying a dime to help stem the losses.…</p>]]>
+      </description>
+      <source:markdown>#### If you build it, they will come and expect the service to be free
+
+OpenAI is losing about three times more money than it&#39;s earning, and 95 percent of those using ChatGPT, which generates roughly 70 percent of the company&#39;s recurring revenue, aren&#39;t paying a dime to help stem the losses.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242497</guid>
+    </item>    <item>
+      <title>Scientists Resurrect 40,000-Year-Old Microbes From Alaskan Permafrost. What They Found Raised Worries About the Future of a Warming Arctic</title>
+      <link>https://www.smithsonianmag.com/smart-news/scientists-resurrected-40000-year-old-microbes-from-alaskan-permafrost-180987509/</link>
+      <description>
+        <![CDATA[The experiments offer new insights one of the “biggest unknowns” in how the climate will change in the years to come]]>
+      </description>
+      <source:markdown>The experiments offer new insights one of the “biggest unknowns” in how the climate will change in the years to come</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/H9KZq9I6fD7oPt60gvRMrJW9uWk=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ba/db/badb513a-2979-4e5d-a494-0a3349c34069/permafrosttunnel1.png" length="" type="" />
+    </item>    <item>
+      <title>Apple goes all in on AI acceleration with M5 MacBook, iPad, and Vision Pros</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/15/apple_goes_all_in_on/</link>
+      <description>
+        <![CDATA[<h4>Oh and the CPU is up to 15% faster for those that could care less about articifically intelligent Apple products and more about getting work done</h4> <p>Apple&#39;s fifth-generation of M-series silicon is starting to trickle out with the launch of the M5 MacBook, iPad, and Vision Pros this week.…</p>]]>
+      </description>
+      <source:markdown>#### Oh and the CPU is up to 15% faster for those that could care less about articifically intelligent Apple products and more about getting work done
+
+Apple&#39;s fifth-generation of M-series silicon is starting to trickle out with the launch of the M5 MacBook, iPad, and Vision Pros this week.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242496</guid>
+    </item>    <item>
+      <title>Japan tells OpenAI to stop spiriting away its copyrighted anime</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/15/japan_openai_copyrighted_anime/</link>
+      <description>
+        <![CDATA[<h4>Tokyo cries foul over Sora slop abusing &#39;irreplaceable treasures&#39; of anime, manga - oh, and copyright law</h4> <p>OpenAI’s Sora 2 video generator has gone viral, particularly among users churning out anime that looks suspiciously like Studio Ghibli and other copyrighted works. Alarmed by the threat to one of its prized cultural exports, Japan has reportedly lodged a formal request that the American firm knock it off.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Tokyo cries foul over Sora slop abusing &#39;irreplaceable treasures&#39; of anime, manga - oh, and copyright law
+
+OpenAI’s Sora 2 video generator has gone viral, particularly among users churning out anime that looks suspiciously like Studio Ghibli and other copyrighted works. Alarmed by the threat to one of its prized cultural exports, Japan has reportedly lodged a formal request that the American firm knock it off.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242495</guid>
+    </item>    <item>
+      <title>The Mystery of the Ancient Roman Gravestone Discovered in a Family&#39;s Backyard Has Been Solved</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-mystery-of-the-ancient-roman-gravestone-discovered-in-a-familys-backyard-has-been-solved-180987515/</link>
+      <description>
+        <![CDATA[The couple hadn't known how the artifact made its way to their property in New Orleans. But after their story went viral, a former owner of the home came forward with new information about the artifact]]>
+      </description>
+      <source:markdown>The couple hadn&#39;t known how the artifact made its way to their property in New Orleans. But after their story went viral, a former owner of the home came forward with new information about the artifact</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/DbWimiRZcNd_jPlY13_RtN6kxGM=/420x240/filters:focal(810x540:811x541)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/00/65/00652bc1-a036-42df-91da-35c31e521dd2/roman-headstone-in-carrollton-4-scaled-e1758294904894-1920x1080.jpeg" length="" type="" />
+    </item>    <item>
+      <title>Microsoft, Nvidia, and others inject $40B into AI bubble with massive datacenter deal</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/15/microsoft_nvidia_ai_datacenter_deal/</link>
+      <description>
+        <![CDATA[<h4>Big Tech and big money unite to back world’s biggest bit-barn buyout</h4> <p>The AI bubble just keeps getting bigger. A consortium featuring BlackRock, Microsoft, Nvidia, xAI, and MGX is buying Aligned Data Centers in a deal valuing the operator at around $40 billion, in what is reportedly the biggest datacenter acquisition to date.…</p>]]>
+      </description>
+      <source:markdown>#### Big Tech and big money unite to back world’s biggest bit-barn buyout
+
+The AI bubble just keeps getting bigger. A consortium featuring BlackRock, Microsoft, Nvidia, xAI, and MGX is buying Aligned Data Centers in a deal valuing the operator at around $40 billion, in what is reportedly the biggest datacenter acquisition to date.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242492</guid>
+    </item>    <item>
+      <title>Research Sheds Light on Why Women Live Longer Than Men—and Why This Pattern Will Likely Continue</title>
+      <link>https://www.smithsonianmag.com/smart-news/research-sheds-light-on-why-women-live-longer-than-men-and-why-this-pattern-will-likely-continue-180987493/</link>
+      <description>
+        <![CDATA[Scientists studied hundreds of mammal and bird species to shed light on sex-based lifespan differences]]>
+      </description>
+      <source:markdown>Scientists studied hundreds of mammal and bird species to shed light on sex-based lifespan differences</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/trpvNMGZ3DG0dQ1T2g4HVFXIla4=/420x240/filters:focal(848x565:849x566)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/25/86/25863d7f-038f-4382-81b3-a1cbb3a9b8bd/original_3.webp" length="" type="" />
+    </item>    <item>
+      <title>You Can Now Walk Through the Colosseum&#39;s Secret Tunnel Once Used by Ancient Roman Emperors</title>
+      <link>https://www.smithsonianmag.com/smart-news/you-can-now-walk-through-the-colosseums-secret-tunnel-once-used-by-ancient-roman-emperors-180987506/</link>
+      <description>
+        <![CDATA[Experts say the notorious emperor Commodus may have survived an assassination attempt inside this tunnel, which is now open to the public following extensive restorations]]>
+      </description>
+      <source:markdown>Experts say the notorious emperor Commodus may have survived an assassination attempt inside this tunnel, which is now open to the public following extensive restorations</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/5nao_sNQOtggZbTpS-RPgycZcZg=/420x240/filters:focal(1280x853:1281x854)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/15/75/1575beaa-959b-4046-8732-18abdc54df7c/passaggio-di-commodo_veduta-generale-ph-simona-murrone-parco-archeologico-del-colosseo-scaled.jpeg" length="" type="" />
+    </item>    <item>
       <title>This Chilling Recording Reveals Large Bats Catching, Killing and Eating Birds Midflight</title>
       <link>https://www.smithsonianmag.com/smart-news/a-chilling-audio-reveals-that-these-large-bats-catch-kill-and-eat-birds-mid-flight-180987497/</link>
       <description>

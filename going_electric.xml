@@ -7,10 +7,76 @@
       Going Electric has feeds involving home and transportation options powered by Electricity
     </description>
     <link>https://rsdoiel.github.io/antenna/going_electric.xml</link>
-    <lastBuildDate>15 Oct 25 11:17 -0700</lastBuildDate>
-    <generator>antenna/0.0.12</generator>
+    <lastBuildDate>15 Oct 25 15:10 -0700</lastBuildDate>
+    <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Why Tesla And General Motors Cool Their Electric Motors In Different Ways</title>
+      <link>https://insideevs.com/news/775888/gm-tesla-electric-motors-cooling/</link>
+      <description>
+        <![CDATA[This tear down shows the pros and cons of each approach.]]>
+      </description>
+      <source:markdown>This tear down shows the pros and cons of each approach.</source:markdown>
+      <enclosure url="https://cdn.motor1.com/images/mgl/lElz3g/s3/tesla-gm-electric-motor-comparison-hero.jpg" length="26591" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/775888/gm-tesla-electric-motors-cooling/</guid>
+    </item>    <item>
+      <title>Kia plans to build 100,000 EV2 and EV4 models a year, far more than expected</title>
+      <link>https://electrek.co/2025/10/15/kia-plans-to-build-100000-ev2-and-ev4-models-a-year/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/10/Kia-EV2-EV4-production.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/kia/">Kia</a> is about to go on the offensive. The automaker plans to nearly triple electric vehicle production in Europe within the next two years as it introduces the new EV2 and EV4.</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev2,kia-ev4" data-layer-viewtype="unknown" data-post-id="439092" href="https://electrek.co/2025/10/15/kia-plans-to-build-100000-ev2-and-ev4-models-a-year/#more-439092" class="more-link">more…</a>]]>
+      </description>
+      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2025/10/Kia-EV2-EV4-production.jpeg?quality=82&#38;strip=all&#38;w=1400)
+
+[Kia](https://electrek.co/guides/kia/) is about to go on the offensive. The automaker plans to nearly triple electric vehicle production in Europe within the next two years as it introduces the new EV2 and EV4.
+
+ [more…](https://electrek.co/2025/10/15/kia-plans-to-build-100000-ev2-and-ev4-models-a-year/#more-439092)</source:markdown>
+      <guid>cid://https://electrek.co/?p=439092</guid>
+    </item>    <item>
+      <title>Tesla’s NACS Plug Should&#39;ve Fixed EV Charging. Here’s What We Got Instead</title>
+      <link>https://insideevs.com/news/775910/nacs-story-experience-kia-leaf/</link>
+      <description>
+        <![CDATA[EVs with Tesla-style ports are all the rage. But access to the Supercharger network didn’t really move the needle for me.]]>
+      </description>
+      <source:markdown>EVs with Tesla-style ports are all the rage. But access to the Supercharger network didn’t really move the needle for me.</source:markdown>
+      <enclosure url="https://cdn.motor1.com/images/mgl/jlRM0e/s3/nacs-no-topshot.jpg" length="32661" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/775910/nacs-story-experience-kia-leaf/</guid>
+    </item>    <item>
+      <title>The Honda Prologue scored big in August with incentives of over $12,000</title>
+      <link>https://electrek.co/2025/10/15/honda-prologue-scored-big-in-august-with-12000-incentives/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/09/Honda-Prologue-20000-off.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Honda’s electric SUV was the third most popular EV in the US in August, behind the Tesla Model Y and Model 3. Offering over $12,000 in average incentives, the <a href="https://electrek.co/guides/honda-prologue/">Honda Prologue</a> scored big as buyers rushed to claim the federal EV tax credit.</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="honda,honda-prologue" data-layer-viewtype="unknown" data-post-id="439054" href="https://electrek.co/2025/10/15/honda-prologue-scored-big-in-august-with-12000-incentives/#more-439054" class="more-link">more…</a>]]>
+      </description>
+      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2025/09/Honda-Prologue-20000-off.jpeg?quality=82&#38;strip=all&#38;w=1400)
+
+Honda’s electric SUV was the third most popular EV in the US in August, behind the Tesla Model Y and Model 3. Offering over $12,000 in average incentives, the [Honda Prologue](https://electrek.co/guides/honda-prologue/) scored big as buyers rushed to claim the federal EV tax credit.
+
+ [more…](https://electrek.co/2025/10/15/honda-prologue-scored-big-in-august-with-12000-incentives/#more-439054)</source:markdown>
+      <guid>cid://https://electrek.co/?p=439054</guid>
+    </item>    <item>
+      <title>Oregon launches its first solar + storage DC fast charging station</title>
+      <link>https://electrek.co/2025/10/15/oregon-first-solar-storage-dc-fast-charging-station/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/10/Arrowhead-Travel-Plaza-XCharge-10.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>XCharge North America (NA) has opened Oregon’s first solar + storage DC fast charging station at Arrowhead Travel Plaza in Pendleton, part of the Wildhorse Resort &amp; Casino complex owned by the Confederated Tribes of the Umatilla Indian Reservation.</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,dc-fast-charging,egeb,energy-brief,ev-charging-stations,solar,oregon,solar-power" data-layer-viewtype="unknown" data-post-id="439050" href="https://electrek.co/2025/10/15/oregon-first-solar-storage-dc-fast-charging-station/#more-439050" class="more-link">more…</a>]]>
+      </description>
+      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2025/10/Arrowhead-Travel-Plaza-XCharge-10.jpg?quality=82&#38;strip=all&#38;w=1600)
+
+XCharge North America (NA) has opened Oregon’s first solar + storage DC fast charging station at Arrowhead Travel Plaza in Pendleton, part of the Wildhorse Resort &#38; Casino complex owned by the Confederated Tribes of the Umatilla Indian Reservation.
+
+ [more…](https://electrek.co/2025/10/15/oregon-first-solar-storage-dc-fast-charging-station/#more-439050)</source:markdown>
+      <guid>cid://https://electrek.co/?p=439050</guid>
+    </item>    <item>
       <title>Bluetti launches Pioneer Na(Sodium) station starting from exclusive $735, save $1,116 on Tenways AGO X e-bike gear + battery bundle, more</title>
       <link>https://electrek.co/2025/10/15/bluetti-pioneer-nasodium-portable-power-station-tenways-more/</link>
       <description>
