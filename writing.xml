@@ -4,10 +4,14 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>14 Oct 25 15:08 -0700</lastBuildDate>
+    <lastBuildDate>15 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Writing a Novel in November? These Tips Will Help You Hit 50,000 Words</title>
+      <link>https://www.literatureandlatte.com/blog/writing-a-novel-in-november-these-tips-will-help-you-hit-50000-words</link>
+      <guid>cid://https://www.literatureandlatte.com/?p=8123</guid>
+    </item>    <item>
       <title>After the Hunt</title>
       <link>https://johnaugust.com/2025/after-the-hunt</link>
       <description>
@@ -118,18 +122,6 @@ The post [Writing for microdramas, aka verticals](https://johnaugust.com/2025/wr
       <title>How to Create and Use Custom Document Templates in Scrivener</title>
       <link>https://www.literatureandlatte.com/blog/how-to-create-and-use-custom-document-templates-in-scrivener</link>
       <guid>cid://https://www.literatureandlatte.com/?p=7954</guid>
-    </item>    <item>
-      <title>Short Films and Existential Threats</title>
-      <link>https://johnaugust.com/2025/short-films-and-existential-threats</link>
-      <description>
-        <![CDATA[<p>John and Craig discuss short films: what makes a great short, when should you make one, and what should you realistically expect out of it? We also update our predictions on whether the career of “screenwriter” can survive potential global catastrophes. We then answer listener questions on staff writer wages and using URLs in a [&#8230;]</p>
-        The post <a href="https://johnaugust.com/2025/short-films-and-existential-threats">Short Films and Existential Threats</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
-      </description>
-      <source:markdown>John and Craig discuss short films: what makes a great short, when should you make one, and what should you realistically expect out of it? We also update our predictions on whether the career of “screenwriter” can survive potential global catastrophes. We then answer listener questions on staff writer wages and using URLs in a \[…\]
-
-The post [Short Films and Existential Threats](https://johnaugust.com/2025/short-films-and-existential-threats) first appeared on [John August](https://johnaugust.com).</source:markdown>
-      <enclosure url="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/705standard.mp3" length="5242880" type="audio/mpeg" />
-      <guid>cid://https://johnaugust.com/?p=23466</guid>
     </item>
   </channel>
 </rss>

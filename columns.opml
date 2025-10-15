@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>14 Oct 25 15:08 -0700</dateCreated>
+        <dateCreated>15 Oct 25 06:09 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -239,7 +239,7 @@
         <outline text="Rob Lamog-Doiel" type="atom" xmlUrl="http://feeds.feedburner.com/shiftf8" htmlUrl="http://www.blogger.com/feeds/9096026157555344109/posts/default?redirect=false,http://shift-f8.blogspot.com/" description="I am &#34;technically&#34; interesting." url="http://www.blogger.com/feeds/9096026157555344109/posts/default?redirect=false"></outline>
         <outline text="Rob Pike&#39;s blog" type="rss" xmlUrl="https://commandcenter.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://commandcenter.blogspot.com/"></outline>
         <outline text="Robert Reich&#39;s blog" type="rss" xmlUrl="https://robertreich.substack.com/feed" htmlUrl="https://robertreich.substack.com,https://robertreich.substack.com/feed" description="Daily newsletter exposing where power lies — and how it&#39;s used and abused" url="https://robertreich.substack.com/feed"></outline>
-        <outline text="Robert&#39;s Ramblings" type="rss" xmlUrl="https://rsdoiel.github.io/rss.xml" htmlUrl="https://rsdoiel.github.io,https://rsdoiel.github.io/rss.xml" description="Robert&#39;s ramblings and wonderigs" url="https://rsdoiel.github.io/rss.xml"></outline>
+        <outline text="Robert&#39;s Ramblings" type="rss" xmlUrl="https://rsdoiel.github.io/rss.xml" htmlUrl="http://localhost:8000/blogxml" description="Recent posts on software development and technology"></outline>
         <outline text="Robert&#39;s feed at BlueSky" type="rss" xmlUrl="https://bsky.app/profile/did:plc:nbdlhw2imk2m2yqhwxb5ycgy/rss" htmlUrl="https://bsky.app/profile/rsdoiel.bsky.social" description="I am a human. I wrote music and prose. I write software for libraries and archives."></outline>
         <outline text="Robin Rendle Essays" type="atom" xmlUrl="https://robinrendle.com/feed.xml" htmlUrl="https://robinrendle.com/feed.xml,https://robinrendle.com/" description="Notes from the field." url="https://robinrendle.com/feed.xml"></outline>
         <outline text="Ron Garret" type="atom" category="religion,islam" xmlUrl="https://blog.rongarret.info/feeds/posts/default" htmlUrl="https://www.blogger.com/feeds/5592542/posts/default,https://blog.rongarret.info/" description="Preaching the gospel of evidence, experiment and reason since 2003." url="https://www.blogger.com/feeds/5592542/posts/default"></outline>

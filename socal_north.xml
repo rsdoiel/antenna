@@ -7,10 +7,82 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>14 Oct 25 15:08 -0700</lastBuildDate>
+    <lastBuildDate>15 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Thousands of federal employees are getting laid off. Will a judge intervene?</title>
+      <link>https://laist.com/news/politics/thousands-of-federal-employees-are-getting-laid-off-will-a-judge-intervene</link>
+      <description>
+        <![CDATA[Unions representing federal employees have asked a federal judge in San Francisco to halt the Trump administration's latest round of layoffs, which are coming amid the government shutdown.]]>
+      </description>
+      <source:markdown>Unions representing federal employees have asked a federal judge in San Francisco to halt the Trump administration&#39;s latest round of layoffs, which are coming amid the government shutdown.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e7d5-dc80-a5fb-efdd7bd80000</guid>
+    </item>    <item>
+      <title>Israel keeps Gaza border crossing closed while reducing aid deliveries</title>
+      <link>https://laist.com/news/israel-keeps-gaza-border-crossing-closed-while-reducing-aid-deliveries</link>
+      <description>
+        <![CDATA[The ceasefire on Wednesday was largely holding, although Hamas described Israeli attacks in Gaza as violations of the agreement.]]>
+      </description>
+      <source:markdown>The ceasefire on Wednesday was largely holding, although Hamas described Israeli attacks in Gaza as violations of the agreement.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e7c9-de75-af9f-f7eba0e80000</guid>
+    </item>    <item>
+      <title>Supreme Court hears case that questions major plank of voting rights</title>
+      <link>https://laist.com/news/politics/supreme-court-hears-case-that-questions-major-plank-of-voting-rights</link>
+      <description>
+        <![CDATA[The Supreme Court on Wednesday hears a case that could strike down the last major part of the 1965 Voting Rights Act that remains standing.]]>
+      </description>
+      <source:markdown>The Supreme Court on Wednesday hears a case that could strike down the last major part of the 1965 Voting Rights Act that remains standing.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e7c1-d89a-a3b9-f7c760b10000</guid>
+    </item>    <item>
+      <title>LA&#39;s official homeless tally increasingly undercounts people on the streets, RAND study finds</title>
+      <link>https://laist.com/news/housing-homelessness/lahsa-homeless-count-rand-accuracy-2025-volunteers-report-study</link>
+      <description>
+        <![CDATA[L.A. officials and volunteers undercounted in key neighborhoods by 32% this year, the study says. The agency that conducts the count says it welcomes the review but hasn't seen the numbers yet.]]>
+      </description>
+      <source:markdown>L.A. officials and volunteers undercounted in key neighborhoods by 32% this year, the study says. The agency that conducts the count says it welcomes the review but hasn&#39;t seen the numbers yet.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e554-d89a-a3b9-f5d790750000</guid>
+    </item>    <item>
+      <title>Pasadena Unified faces up to $35 million in cuts to resolve looming financial crisis</title>
+      <link>https://laist.com/news/education/pasadena-unified-school-district-budget-cuts-2025</link>
+      <description>
+        <![CDATA[PUSD plans to enact tens of millions of dollars in budget cuts next school year to stave off outside intervention.]]>
+      </description>
+      <source:markdown>PUSD plans to enact tens of millions of dollars in budget cuts next school year to stave off outside intervention.</source:markdown>
+      <guid>cid://urn:uuid:00000199-df4e-d89a-a3b9-ffcf79ba0000</guid>
+    </item>    <item>
+      <title>Calling young readers: You can design a bookmark for LA County libraries</title>
+      <link>https://laist.com/news/arts-and-entertainment/la-county-library-bookmark-design-contest-young-artists</link>
+      <description>
+        <![CDATA[The grand prize designs will be distributed across the library system.]]>
+      </description>
+      <source:markdown>The grand prize designs will be distributed across the library system.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e4bd-d89a-a3b9-f5bf5bf00000</guid>
+    </item>    <item>
+      <title>Food safety net for millions of SoCal residents is at risk next month if shutdown continues, officials warn</title>
+      <link>https://laist.com/news/calfresh-at-risk-if-shutdown-continues</link>
+      <description>
+        <![CDATA[CalFresh is one of several safety net programs facing a funding cliff if the shutdown — which has shown no sign of ending — drags on.]]>
+      </description>
+      <source:markdown>CalFresh is one of several safety net programs facing a funding cliff if the shutdown — which has shown no sign of ending — drags on.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e3e4-dc80-a5fb-effc96460000</guid>
+    </item>    <item>
+      <title>What does LA’s emergency declaration on the ICE raids mean?</title>
+      <link>https://laist.com/news/politics/what-does-las-emergency-declaration-on-the-ice-raids-mean</link>
+      <description>
+        <![CDATA[The L.A. County Board of Supervisors on Tuesday voted to declare immigration enforcement actions a local emergency.]]>
+      </description>
+      <source:markdown>The L.A. County Board of Supervisors on Tuesday voted to declare immigration enforcement actions a local emergency.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e48b-d8b9-a1bf-eedb6bf10000</guid>
+    </item>    <item>
+      <title>Orange County supervisors choose outside firm to audit contracts approved under Andrew Do</title>
+      <link>https://laist.com/news/politics/orange-county-supervisors-choose-outside-firm-to-audit-contracts-approved-under-andrew-do</link>
+      <description>
+        <![CDATA[Do is currently serving a five-year prison sentence on a federal bribery charge.]]>
+      </description>
+      <source:markdown>Do is currently serving a five-year prison sentence on a federal bribery charge.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e4b9-d89a-a3b9-f5bf45ca0000</guid>
+    </item>    <item>
       <title>California moves to protect transgender patients&#39; data from &#39;hostile actors&#39;</title>
       <link>https://laist.com/news/health/gavin-newsom-signs-bill-to-protect-transgender-patient-data</link>
       <description>
@@ -101,6 +173,14 @@
       <source:markdown>A controversial bill that would have banned short kids from the front seat was watered down, but small children still face new seat belt rules under a new law.</source:markdown>
       <guid>cid://urn:uuid:00000199-e365-dc80-a5fb-ef7daacc0000</guid>
     </item>    <item>
+      <title>LA County quietly paid a $2 million settlement to its CEO in ‘confidential’ deal</title>
+      <link>https://laist.com/news/politics/county-settlement-ceo</link>
+      <description>
+        <![CDATA[The agreement is labeled “confidential” and was not reported out publicly by the county.]]>
+      </description>
+      <source:markdown>The agreement is labeled “confidential” and was not reported out publicly by the county.</source:markdown>
+      <guid>cid://urn:uuid:00000199-df87-df6e-abbd-dfefcdae0000</guid>
+    </item>    <item>
       <title>Kaiser nurses go on strike in the pouring rain. Here&#39;s why — and how it will affect patients</title>
       <link>https://laist.com/news/health/kaiser-nurses-plan-to-strike-tomorrow-heres-how-it-will-affect-patients</link>
       <description>
@@ -116,14 +196,6 @@
       </description>
       <source:markdown>The new sales tax divides $96 million among L.A.’s 88 cities.</source:markdown>
       <guid>cid://urn:uuid:00000199-df4f-d89a-a3b9-ffcfcf0e0000</guid>
-    </item>    <item>
-      <title>LA County quietly paid a $2 million settlement to its CEO in ‘confidential’ deal</title>
-      <link>https://laist.com/news/politics/county-settlement-ceo</link>
-      <description>
-        <![CDATA[The agreement is labeled “confidential” and was not reported out publicly by the county.]]>
-      </description>
-      <source:markdown>The agreement is labeled “confidential” and was not reported out publicly by the county.</source:markdown>
-      <guid>cid://urn:uuid:00000199-df87-df6e-abbd-dfefcdae0000</guid>
     </item>    <item>
       <title>Campaigning in Spanish takes on new meaning for candidates in California governor’s race</title>
       <link>https://laist.com/news/politics/california-governor-2026-election-spanish-xavier-becerra-antonio-villaraigosa-betty-yee</link>
@@ -2806,131 +2878,6 @@ The post [Santa Clarita Officially Names a Clean California Community](https://s
 ![U.S. Space Force Lt. Col. Kyle Rowland, Chief of Spaceport Integration, speaks to members of the Governor&#39;s Office of Business and Economic Development (GoBiz) and Regional Economic Action Coalition (REACH) about infrastructure improvements at the Vandenberg harbor at Vandenberg Space Force base, Calif., Sept. 12, 2025. GoBiz recently awarded a $9.5 million grant to the &#34;Space Vandenberg&#34; initiative, aimed at boosting space industry infrastructure in California and expanding workforce development.](https://media.defense.gov/2025/Sep/23/2003807350/300/300/0/250912-X-EI987-1005.JPG)</source:markdown>
       <enclosure url="https://media.defense.gov/2025/Sep/23/2003807350/700/700/0/250912-X-EI987-1005.JPG" length="" type="image/jpeg" />
       <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4313431/gobiz-reach-leaders-tour-vsfb-after-space-vandenberg-initiative-announcement/</guid>
-    </item>    <item>
-      <title>New California law gives LA-area fire victims up to a year of mortgage relief</title>
-      <link>https://laist.com/news/housing-homelessness/la-homeowner-fire-mortgage-help-forbearance-eaton-palisades</link>
-      <description>
-        <![CDATA[Eligible homeowners are required to ask lenders for forbearance, which could be extended for up to a year.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-785e-d14b-a7d9-f85fb5ca0000</guid>
-    </item>    <item>
-      <title>World health officials reject Trump&#39;s claims that Tylenol is linked to autism</title>
-      <link>https://laist.com/news/health/world-health-officials-react-president-trumps-tylenol-autism-link</link>
-      <description>
-        <![CDATA[The President says pregnant women should stay away from Tylenol due to possible autism link. World health authorities strongly disagree, say the drug is safe in pregnancy.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-782f-db1c-ab9f-f9ff41f30000</guid>
-    </item>    <item>
-      <title>Highway 1 through Big Sur to reopen after years of work</title>
-      <link>https://laist.com/news/transportation/highway-1-big-sur-reopening</link>
-      <description>
-        <![CDATA[Officials are aiming to reopen the 7-mile stretch of road by spring. It was closed in 2023 due to landslides.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-7839-dcf5-a1f9-fa397e890000</guid>
-    </item>    <item>
-      <title>Fat Bear Week is here early, and the bears are fat and playful</title>
-      <link>https://laist.com/news/climate-environment/fat-bear-week-is-here-early</link>
-      <description>
-        <![CDATA[The famous bears of Alaska's Katmai National Park are enjoying an abundance of salmon, and even some playtime, as they pack on pounds to prepare for the winter.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-77b6-d43d-a7df-ffbeff8b0000</guid>
-    </item>    <item>
-      <title>Jury convicts Ryan Routh on all charges in attempted assassination of Donald Trump</title>
-      <link>https://laist.com/news/criminal-justice/jury-convicts-ryan-routh-attempted-assassination-donald-trump</link>
-      <description>
-        <![CDATA[Jurors convicted Routh on five charges, including last year's attempted assassination of Trump as he golfed at his South Florida course. Routh represented himself in court and faces life in prison.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-77f1-dcf5-a1f9-fff1314d0000</guid>
-    </item>    <item>
-      <title>Huntington Beach council wants to honor slain right wing activist Charlie Kirk with a mural</title>
-      <link>https://laist.com/news/politics/charlie-kirk-mural-huntington-beach-meeting</link>
-      <description>
-        <![CDATA[The City Council will hold a special meeting will be held at 4 p.m. today to discuss the proposal.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-77ae-d60c-af9b-f7be9d200000</guid>
-    </item>    <item>
-      <title>ICC charges former Philippine President Duterte with crimes against humanity</title>
-      <link>https://laist.com/news/criminal-justice/icc-charges-former-philippine-president-duterte-with-crimes-against-humanity</link>
-      <description>
-        <![CDATA[Former President Rodrigo Duterte was arrested in March by Philippine authorities on a warrant issued by the International Criminal Court. He is now being held at an ICC facility in the Netherlands.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-7754-d43d-a7df-ff5cc5670000</guid>
-    </item>    <item>
-      <title>Trump cancels meeting with Democrats as prospects for shutdown increase</title>
-      <link>https://laist.com/news/politics/trump-cancels-meeting-with-democrats-as-prospects-for-shutdown-increase</link>
-      <description>
-        <![CDATA[President Trump called off a planned Thursday meeting with top Congressional Democrats to discuss a possible deal to avoid a government shutdown. He called Democrats' demands "unserious." Democrats say he chickened out.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-77ed-d27b-adfd-77fd1d500000</guid>
-    </item>    <item>
-      <title>After weeks of warm and muggy weather in SoCal, rain is coming, followed by a cool down</title>
-      <link>https://laist.com/news/climate-environment/socal-rain-weather-forecast-cool-down</link>
-      <description>
-        <![CDATA[Southern California might see some light rain tonight into Wednesday morning. After that, cooler weather is on the way, but expect the humidity to remain.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-7773-da8f-a1fd-f7f368590000</guid>
-    </item>    <item>
-      <title>Trump slams &#39;uncontrolled migration&#39; — and blames the UN</title>
-      <link>https://laist.com/news/politics/trump-slams-uncontrolled-migration-blames-un</link>
-      <description>
-        <![CDATA[In his United Nations General Assembly speech, President Donald Trump warned world leaders of "uncontrolled migration" and accused the U.N. of contributing to the problem.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-77cd-d699-af99-f7ef796e0000</guid>
-    </item>    <item>
-      <title>LA officials to clear Sepulveda Basin homeless encampments</title>
-      <link>https://laist.com/news/housing-homelessness/sepulveda-basin-homeless-encampments</link>
-      <description>
-        <![CDATA[Mayor Bass says everyone in encampments needs to go, cites fire risks]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-776e-d60c-af9b-f7fe0d2a0000</guid>
-    </item>    <item>
-      <title>Anaheim tourism brings in billions. Now, two proposals want city residents and employees to get a bigger cut</title>
-      <link>https://laist.com/news/politics/anaheim-tourism-income-residents-employees-proposals</link>
-      <description>
-        <![CDATA[A gate tax at Disney? It's a possibility.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-73b1-d7e5-a3fb-f3fd0a650000</guid>
-    </item>    <item>
-      <title>Chumash Charity Golf Classic Beneficiaries Announced</title>
-      <link>https://www.indiangaming.com/chumash-charity-golf-classic-beneficiaries-announced/</link>
-      <description>
-        <![CDATA[SANTA YNEZ, CA – The Santa Ynez Band of Chumash Indians has announced that 
-        its upcoming 2025 Chumash Charity Golf Classic will raise funds for three 
-        local beneficiaries whose programs are making a difference in Santa Barbara 
-        County. Proceeds from the three-day golf tournament, which will be held 
-        September 23-25 at the Alisal Golf Course in Solvang, will go to Angels 
-        Foster Care, Child Abuse Listening Mediation (CALM) and Mental Wellness 
-        Center.]]>
-      </description>
-      <source:markdown>SANTA YNEZ, CA – The Santa Ynez Band of Chumash Indians has announced that
-its upcoming 2025 Chumash Charity Golf Classic will raise funds for three
-local beneficiaries whose programs are making a difference in Santa Barbara
-County. Proceeds from the three-day golf tournament, which will be held
-September 23-25 at the Alisal Golf Course in Solvang, will go to Angels
-Foster Care, Child Abuse Listening Mediation (CALM) and Mental Wellness
-Center.</source:markdown>
-      <guid>cid://5ce1c6e64abe9e0001603b00:5ce1fd41a265cb000118d783:68dab0236436c878f7cae8fa</guid>
-    </item>    <item>
-      <title>The many ways people get LA wrong</title>
-      <link>https://laist.com/news/los-angeles-activities/how-people-get-la-wrong</link>
-      <description>
-        <![CDATA[Here's what you told us about the biggest misconceptions you hear — and push back on — about Los Angeles and Southern California.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-5dbd-de30-abbb-7ffd85510002</guid>
-    </item>    <item>
-      <title>Warm weather and cloudy mornings continue for SoCal</title>
-      <link>https://laist.com/news/climate-environment/warm-weather-cloudy-mornings-socal-forecast</link>
-      <description>
-        <![CDATA[We'll see highs in the mid 80s to mid 90s across the region.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-734f-dcf5-a1f9-fb7f55b90000</guid>
-    </item>    <item>
-      <title>Federal judge orders 500 health science grants at UCLA restored, rebuffing Trump’s suspensions</title>
-      <link>https://laist.com/news/education/federal-judge-orders-500-health-science-grants-at-ucla-restored</link>
-      <description>
-        <![CDATA[UCLA and University of California leaders are fighting Trump’s demands for a $1.2 billion settlement over a litany of accusations, including that the campus permits antisemitism.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-73dd-dcf5-a1f9-fbfd72ae0000</guid>
     </item>
   </channel>
 </rss>

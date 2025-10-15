@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>14 Oct 25 15:08 -0700</lastBuildDate>
+    <lastBuildDate>15 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>KIM-1 replica KIM-1000 with CHIPz modules, 6530 reDIP</title>
+      <link>http://retro.hansotten.nl/kim-1-replica-kim-1000-with-chipz-modules-6530-redip/</link>
+      <description>
+        <![CDATA[Mark J Koch (https://github.com/CircuitMonkey/mos-kim1-replica, ‪@markjkoch.bsky.social) is designing a not so common KIM-1 replica, the KIM-1000, with building blocks he calls ‬CHIPz modules. He posted photos of his first versions, it is at this moment (October 2025) a work in progress. As you can see on the photos the CHIPz modules on a &#8216;motherboard&#8217; are recognizable [&#8230;]]]>
+      </description>
+      <source:markdown>Mark J Koch (https://github.com/CircuitMonkey/mos-kim1-replica, ‪@markjkoch.bsky.social) is designing a not so common KIM-1 replica, the KIM-1000, with building blocks he calls ‬CHIPz modules. He posted photos of his first versions, it is at this moment (October 2025) a work in progress. As you can see on the photos the CHIPz modules on a ‘motherboard’ are recognizable \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=19032</guid>
+    </item>    <item>
       <title>RISCOSbits asks that you get your London Show Special Reserve orders in now</title>
       <link>https://www.riscository.com/2025/riscosbits-london-show-special-reserve/</link>
       <description>
@@ -1980,15 +1988,6 @@ Although at least one [client re-creation](https://github.com/erfg12/AOL_4.0_Emu
       </description>
       <source:markdown>The parcel that never was, Finally my autism has been explained!</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20250924</guid>
-    </item>    <item>
-      <title>Zorin OS 18 Beta Available for Testing</title>
-      <link>http://www.linux-magazine.com/Online/News/Zorin-OS-18-Beta-Available-for-Testing</link>
-      <description>
-        <![CDATA[<p>The latest release from the team behind Zorin OS is ready for public testing, and it includes plenty of improvements to make it more powerful, user-friendly, and productive.</p>]]>
-      </description>
-      <source:markdown>The latest release from the team behind Zorin OS is ready for public testing, and it includes plenty of improvements to make it more powerful, user-friendly, and productive.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://cc07138f0fcae08f24de6c2aea9efdda</guid>
     </item>
   </channel>
 </rss>
