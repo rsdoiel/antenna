@@ -143,7 +143,7 @@ article:not(:first-of-type)::before {
 
 /* Symbol pseudo-element */
 article::after {
-    content: '§';
+    /* content: '§'; */
     position: absolute;
     /* bottom: -2.48em; /*-25px;*/
     bottom: -3.48em; /*-25px;*/
