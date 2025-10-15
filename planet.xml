@@ -4,7 +4,7 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>15 Oct 25 14:39 -0700</lastBuildDate>
+    <lastBuildDate>15 Oct 25 15:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -111,6 +111,17 @@
       </description>
       <source:markdown>Ein österreichisch-indonesisches Unternehmen bietet die Überwachung von Mobilfunkkunden an. Malware ist dafür nicht nötig, aber weitreichender Netzzugriff.</source:markdown>
       <guid>cid://http://heise.de/-10767347</guid>
+    </item>    <item>
+      <title>NTSB blames faulty engineering for implosion of Titan submersible</title>
+      <link>https://www.cbc.ca/news/world/titan-submersible-ntsb-final-report-9.6939844?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/d16d7c4c-e8e4-427e-8ea4-d0077a155f5e,1760560739684/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3BResize%3D%28620%29' alt='Underwater footage of destroyed vessel' width='620' height='349' title='Footage from a remotely operated vehicle shows, what the Coast Guard Marine Board of Investigation says is the debris of the Titan submersible that imploded while diving to the wreck of the Titanic, on the seafloor, September 18, 2024, in this screengrab from a handout video. '/><p>Faulty engineering led to the implosion of an experimental submersible that killed five people on the way to the wreck of the Titanic, the National Transportation Safety Board concluded in a report Wednesday.
+        </p>]]>
+      </description>
+      <source:markdown>![Underwater footage of destroyed vessel](https://i.cbc.ca/ais/d16d7c4c-e8e4-427e-8ea4-d0077a155f5e,1760560739684/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3BResize%3D%28620%29)
+
+Faulty engineering led to the implosion of an experimental submersible that killed five people on the way to the wreck of the Titanic, the National Transportation Safety Board concluded in a report Wednesday.</source:markdown>
+      <guid>cid://9.6939844</guid>
     </item>    <item>
       <title>Social Democrats give Eoin Hayes role after controversies</title>
       <link>https://www.rte.ie/news/politics/2025/1015/1538772-soc-dems-eoin-hayes/</link>
