@@ -4,10 +4,19 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>15 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>15 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Big banks post big earnings, but lending is more muted</title>
+      <link>https://www.marketplace.org/episode/2025/10/15/big-earnings-for-big-banks</link>
+      <description>
+        <![CDATA[<p>It’s a big week for bank earnings. JPMorgan, Wells Fargo, and Citigroup reported quarterly results on Tuesday; Bank of America and Morgan Stanley report on Wednesday. Overall, banks are pulling in plenty of revenue — especially from their investment banking and trading departments. But the old-fashioned business of lending out money has been more of a mixed bag. We'll unpack. Also on the show: a major cryptocurrency scam and the economics of Broadway contract negotiations.</p>]]>
+      </description>
+      <source:markdown>It’s a big week for bank earnings. JPMorgan, Wells Fargo, and Citigroup reported quarterly results on Tuesday; Bank of America and Morgan Stanley report on Wednesday. Overall, banks are pulling in plenty of revenue — especially from their investment banking and trading departments. But the old-fashioned business of lending out money has been more of a mixed bag. We&#39;ll unpack. Also on the show: a major cryptocurrency scam and the economics of Broadway contract negotiations.</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/10/15/mmr_20251015_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K7M4D2CKVT8ZMFYTPKQD14W1" length="3266608" type="audio/mpeg" />
+      <guid>cid://01K7M4D2CKVT8ZMFYTPKQD14W1</guid>
+    </item>    <item>
       <title>A conversation with Nobel laureate Joel Mokyr</title>
       <link>https://www.marketplace.org/episode/2025/10/15/a-conversation-with-nobel-laureate-joel-mokyr</link>
       <description>
@@ -34,6 +43,22 @@
       <source:markdown>Before the government shutdown, the Federal Communications Commission voted to end funding for Wi-Fi on school buses and the lending of hotspot devices from libraries. Nicol Turner Lee, author of “ [Digitally Invisible](https://www.brookings.edu/books/digitally-invisible/),” said this could further the digital divide for marginalized communities.</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/10/15/tech_20251015_1015_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K7J2TEWHR3SV86DA0TGYZNPE" length="8887921" type="audio/mpeg" />
       <guid>cid://01K7J2TEWHR3SV86DA0TGYZNPE</guid>
+    </item>    <item>
+      <title>The Perfect Neighbor Presents a Mundane Murder in Infuriating Slow Motion</title>
+      <link>https://www.pastemagazine.com/movies/the-perfect-neighbor/the-perfect-neighbor-review-documentary-netflix-geeta-gandbhir-aj-owens-susan-lorincz-murder-stand-your-ground</link>
+      <description>
+        <![CDATA[The Perfect Neighbor is an infuriating case study of apathetic police intervention in a dispute that surely and steadily turns deadly.]]>
+      </description>
+      <source:markdown>The Perfect Neighbor is an infuriating case study of apathetic police intervention in a dispute that surely and steadily turns deadly.</source:markdown>
+      <guid>cid://19dfc3fa-7a16-4ea8-ba1c-5e4f21aaba9d-410133</guid>
+    </item>    <item>
+      <title>Late Night Last Week: Josh Johnson Proves He is No One-Hit Wonder, Kimmel Keeps Talking Free Speech, and More</title>
+      <link>https://www.pastemagazine.com/tv/jimmy-kimmel-live/late-night-last-week-josh-johnson-proves-he-is-no-one-hit-wonder-kimmel-keeps-talking-free-speech-and-more</link>
+      <description>
+        <![CDATA[Last week on late night, Taylor Swift made the talk show rounds, and Jimmy Kimmel continued to talk free speech.]]>
+      </description>
+      <source:markdown>Last week on late night, Taylor Swift made the talk show rounds, and Jimmy Kimmel continued to talk free speech.</source:markdown>
+      <guid>cid://19dfc3fa-7a16-4ea8-ba1c-5e4f21aaba9d-410155</guid>
     </item>    <item>
       <title>Big banks&#39; boom time</title>
       <link>https://www.marketplace.org/episode/2025/10/14/big-banks-boom-time</link>

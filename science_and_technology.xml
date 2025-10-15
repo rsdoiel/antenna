@@ -4,10 +4,88 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>15 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>15 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>This Chilling Recording Reveals Large Bats Catching, Killing and Eating Birds Midflight</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-chilling-audio-reveals-that-these-large-bats-catch-kill-and-eat-birds-mid-flight-180987497/</link>
+      <description>
+        <![CDATA[The data answers an enduring question about the greater noctule bat]]>
+      </description>
+      <source:markdown>The data answers an enduring question about the greater noctule bat</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/WpGbVna39enWtUdBLvYoXYB0LQg=/420x240/filters:focal(1440x960:1441x961)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/86/bb/86bb81e0-ae4a-4761-b60c-3b09781e3788/mystery-solved-how-eur-1.jpg" length="" type="" />
+    </item>    <item>
+      <title>Cisco: Most companies don&#39;t know what they&#39;re doing with AI</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/15/cisco_ai_readiness_index/</link>
+      <description>
+        <![CDATA[<h4>Only 13% are AI-ready; the rest are bolting it on and hoping for ROI</h4> <p>Contrary to popular belief, you can&#39;t succeed in business (or AI) without really trying. Many orgs are jumping on the AI bandwagon without the infrastructure they need to make it work or track results, Cisco says. Most haven&#39;t even defined what they want their AI agents to do.…</p>]]>
+      </description>
+      <source:markdown>#### Only 13% are AI-ready; the rest are bolting it on and hoping for ROI
+
+Contrary to popular belief, you can&#39;t succeed in business (or AI) without really trying. Many orgs are jumping on the AI bandwagon without the infrastructure they need to make it work or track results, Cisco says. Most haven&#39;t even defined what they want their AI agents to do.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242487</guid>
+    </item>    <item>
+      <title>&#39;Highly sophisticated&#39; government goons hacked F5, stole source code and undisclosed bug details</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/15/highly_sophisticated_government_hackers_breached/</link>
+      <description>
+        <![CDATA[<h4>And they swiped a limited amount of customers&#39; config data</h4> <p>Security shop F5 today said &#34;highly sophisticated nation-state&#34; hackers broke into its network and stole BIG-IP source code, undisclosed vulnerability details, and customer configuration data belonging to a &#34;small percentage&#34; of its users.…</p>]]>
+      </description>
+      <source:markdown>#### And they swiped a limited amount of customers&#39; config data
+
+Security shop F5 today said &#34;highly sophisticated nation-state&#34; hackers broke into its network and stole BIG-IP source code, undisclosed vulnerability details, and customer configuration data belonging to a &#34;small percentage&#34; of its users.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242489</guid>
+    </item>    <item>
+      <title>Devs are writing VS Code extensions that blab secrets by the bucketload</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/15/vc_code_extension_leaks/</link>
+      <description>
+        <![CDATA[<h4>Vibe coding may have played a role in what took researchers months to fix</h4> <p>Developers of VS Code extensions are leaking sensitive secrets left, right and center, according to researchers who worked with Microsoft to combat an issue that could have led to some nasty supply chain attacks.…</p>]]>
+      </description>
+      <source:markdown>#### Vibe coding may have played a role in what took researchers months to fix
+
+Developers of VS Code extensions are leaking sensitive secrets left, right and center, according to researchers who worked with Microsoft to combat an issue that could have led to some nasty supply chain attacks.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242488</guid>
+    </item>    <item>
+      <title>Microsoft veteran explains Windows quirk that made videos play in Paint</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/15/windows_paint_video_chen/</link>
+      <description>
+        <![CDATA[<h4>Raymond Chen says the OS used green-screen overlays to fake video playback – with curious side effects</h4> <p>Microsoft veteran Raymond Chen has answered a lingering Windows question – why did video screenshots keep playing in Paint?…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Raymond Chen says the OS used green-screen overlays to fake video playback – with curious side effects
+
+Microsoft veteran Raymond Chen has answered a lingering Windows question – why did video screenshots keep playing in Paint?…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242484</guid>
+    </item>    <item>
+      <title>The Hidden Math of Ocean Waves Crashes Into View</title>
+      <link>https://www.quantamagazine.org/the-hidden-math-of-ocean-waves-crashes-into-view-20251015/</link>
+      <description>
+        <![CDATA[The math of even the simplest ocean waves is notoriously uncooperative. A team of Italian mathematicians has made major advances toward understanding it.            <p>The post <a href="https://www.quantamagazine.org/the-hidden-math-of-ocean-waves-crashes-into-view-20251015/" target="_blank">The Hidden Math of Ocean Waves Crashes Into View</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>The math of even the simplest ocean waves is notoriously uncooperative. A team of Italian mathematicians has made major advances toward understanding it.
+
+The post [The Hidden Math of Ocean Waves Crashes Into View](https://www.quantamagazine.org/the-hidden-math-of-ocean-waves-crashes-into-view-20251015/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=155664</guid>
+    </item>    <item>
+      <title>ASML shrugs off China slump with faith in AI-fueled chip demand</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/15/asml_q3_2025/</link>
+      <description>
+        <![CDATA[<h4>Beijing&#39;s self-reliance push and US export limits hit orders</h4> <p>Europe&#39;s tech darling ASML has warned Chinese demand for its chipmaking kit will plummet next year, as Beijing doubles down on home-grown alternatives in response to Uncle Sam&#39;s export restrictions and trade war shenanigans.…</p>]]>
+      </description>
+      <source:markdown>#### Beijing&#39;s self-reliance push and US export limits hit orders
+
+Europe&#39;s tech darling ASML has warned Chinese demand for its chipmaking kit will plummet next year, as Beijing doubles down on home-grown alternatives in response to Uncle Sam&#39;s export restrictions and trade war shenanigans.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242482</guid>
+    </item>    <item>
+      <title>Raspberry Pi OS, LMDE, Peppermint OS join the Debian 13 club</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/15/raspberry_pi_os_lmde_debian_13/</link>
+      <description>
+        <![CDATA[<h4>Downstream Linux projects line up behind the latest release</h4> <p>A month after Debian 13.1&#39;s release, some of the more visible downstream forks, including Raspberry Pi OS, have decided it&#39;s time to incorporate the latest version of the main OS into their builds.…</p>]]>
+      </description>
+      <source:markdown>#### Downstream Linux projects line up behind the latest release
+
+A month after Debian 13.1&#39;s release, some of the more visible downstream forks, including Raspberry Pi OS, have decided it&#39;s time to incorporate the latest version of the main OS into their builds.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242480</guid>
+    </item>    <item>
       <title>AI startup Augment scraps &#39;unsustainable&#39; pricing, users say new model is 10x worse</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/15/augment_pricing_model/</link>
       <description>
@@ -307,7 +385,7 @@ A Chinese state-backed cybergang known as Flax Typhoon spent more than a year bu
         <![CDATA["Divine Egypt," a new exhibition at the Metropolitan Museum of Art, features nearly 250 artifacts representing the rich pantheon of Egyptian deities]]>
       </description>
       <source:markdown>&#34;Divine Egypt,&#34; a new exhibition at the Metropolitan Museum of Art, features nearly 250 artifacts representing the rich pantheon of Egyptian deities</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/89FVs8pJ-0UDixvkaWSHQeK6N28=/420x240/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0c/19/0c1946a8-75f8-4d88-be86-7fb702158dc7/exhibit.jpg" length="" type="" />
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/I1yiSdJPUDBF96M3huu6_JdxM8o=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0c/19/0c1946a8-75f8-4d88-be86-7fb702158dc7/exhibit.jpg" length="" type="" />
     </item>    <item>
       <title>60 Minutes Uncovers Hacks on America’s Infrastructure</title>
       <link>https://puri.sm/posts/60-minutes-uncovers-hacks-on-americas-infrastructure/</link>
