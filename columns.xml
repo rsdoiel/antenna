@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>15 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>15 Oct 25 11:17 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -7029,6 +7029,38 @@ Reply via:
       <title>Everything Is Becoming a Bank. &#38;#8220;Most major corporations — from airlines to...</title>
       <link>https://kottke.org/25/10/0047665-everything-is-becoming-a-</link>
       <guid>cid://tag:kottke.org,2025://13.47665</guid>
+    </item>    <item>
+      <title>What is Windows ML</title>
+      <link>https://learn.microsoft.com/en-us/windows/ai/new-windows-ml/overview</link>
+      <description>
+        <![CDATA[<p>The post <a href="https://learn.microsoft.com/en-us/windows/ai/new-windows-ml/overview">What is Windows ML</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>]]>
+      </description>
+      <source:markdown>The post [What is Windows ML](https://learn.microsoft.com/en-us/windows/ai/new-windows-ml/overview) appeared first on [Windows Developer Blog](https://blogs.windows.com/windowsdeveloper).</source:markdown>
+      <guid>cid://https://blogs.windows.com/windowsdeveloper/?p=57595</guid>
+    </item>    <item>
+      <title>Copilot+ PCs Developer Guide</title>
+      <link>https://learn.microsoft.com/en-us/windows/ai/npu-devices/</link>
+      <description>
+        <![CDATA[<p>The post <a href="https://learn.microsoft.com/en-us/windows/ai/npu-devices/">Copilot+ PCs Developer Guide</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>]]>
+      </description>
+      <source:markdown>The post [Copilot+ PCs Developer Guide](https://learn.microsoft.com/en-us/windows/ai/npu-devices/) appeared first on [Windows Developer Blog](https://blogs.windows.com/windowsdeveloper).</source:markdown>
+      <guid>cid://https://blogs.windows.com/windowsdeveloper/?p=57594</guid>
+    </item>    <item>
+      <title>Overview for the AI Toolkit for Visual Studio Code</title>
+      <link>https://learn.microsoft.com/en-us/windows/ai/toolkit/</link>
+      <description>
+        <![CDATA[<p>The post <a href="https://learn.microsoft.com/en-us/windows/ai/toolkit/">Overview for the AI Toolkit for Visual Studio Code</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>]]>
+      </description>
+      <source:markdown>The post [Overview for the AI Toolkit for Visual Studio Code](https://learn.microsoft.com/en-us/windows/ai/toolkit/) appeared first on [Windows Developer Blog](https://blogs.windows.com/windowsdeveloper).</source:markdown>
+      <guid>cid://https://blogs.windows.com/windowsdeveloper/?p=57593</guid>
+    </item>    <item>
+      <title>LoRA Fine-Tuning for Phi Silica</title>
+      <link>https://learn.microsoft.com/en-us/windows/ai/apis/phi-silica-lora?tabs=csharp0</link>
+      <description>
+        <![CDATA[<p>The post <a href="https://learn.microsoft.com/en-us/windows/ai/apis/phi-silica-lora?tabs=csharp0">LoRA Fine-Tuning for Phi Silica</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>]]>
+      </description>
+      <source:markdown>The post [LoRA Fine-Tuning for Phi Silica](https://learn.microsoft.com/en-us/windows/ai/apis/phi-silica-lora?tabs=csharp0) appeared first on [Windows Developer Blog](https://blogs.windows.com/windowsdeveloper).</source:markdown>
+      <guid>cid://https://blogs.windows.com/windowsdeveloper/?p=57592</guid>
     </item>    <item>
       <title>A new Moomins movie is on the way.</title>
       <link>https://lithub.com/a-new-moomins-movie-is-on-the-way/</link>
