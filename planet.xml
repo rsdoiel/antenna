@@ -4,10 +4,18 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>15 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>15 Oct 25 11:17 -0700</lastBuildDate>
     <generator>antenna/0.0.12</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Assault victim suffered memory loss, murder trial told</title>
+      <link>https://www.rte.ie/news/courts/2025/1015/1538779-josip-strok-court/</link>
+      <description>
+        <![CDATA[A Croatian man who was assaulted while his childhood friend was beaten to death beside him has told a murder trial that he suffered memory loss and can say nothing about what happened.]]>
+      </description>
+      <source:markdown>A Croatian man who was assaulted while his childhood friend was beaten to death beside him has told a murder trial that he suffered memory loss and can say nothing about what happened.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/courts/2025/1015/1538779-josip-strok-court/</guid>
+    </item>    <item>
       <title>Podcast: Concerns raised around ageing apartments</title>
       <link>https://www.rte.ie/news/2025/1015/1538774-podcast-concerns-raised-around-ageing-apartments/</link>
       <description>
