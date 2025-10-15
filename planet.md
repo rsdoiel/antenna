@@ -32,5 +32,5 @@ title: Planet News
 
 # German Lanuguage news
 
-- [Heise Online}(https://www.heise.de/rss/heise-atom.xml)
+- [Heise Online](https://www.heise.de/rss/heise-atom.xml)
 
