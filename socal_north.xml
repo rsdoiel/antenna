@@ -7,10 +7,74 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>15 Oct 25 15:11 -0700</lastBuildDate>
+    <lastBuildDate>16 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Mistrust in Santa Ana City Hall brews within City Council over questions about canceled state contract</title>
+      <link>https://laist.com/news/politics/mistrust-in-santa-ana-city-hall-brews-within-city-council-over-questions-about-canceled-state-contract</link>
+      <description>
+        <![CDATA[City management dropped a $7M contract with the state for childcare without telling the council.]]>
+      </description>
+      <source:markdown>City management dropped a $7M contract with the state for childcare without telling the council.</source:markdown>
+      <guid>cid://urn:uuid:00000199-ea1f-d89a-a3b9-ff9f677f0000</guid>
+    </item>    <item>
+      <title>Newsom signs law clarifying that landlords must clean fire debris</title>
+      <link>https://laist.com/news/housing-homelessness/landlord-tenant-fire-ash-smoke-cleaning-law-los-angeles</link>
+      <description>
+        <![CDATA[Local officials told renters they couldn’t force landlords to clean ash-covered homes. A new state law, inspired in part by LAist’s reporting, clarifies who’s responsible.]]>
+      </description>
+      <source:markdown>Local officials told renters they couldn’t force landlords to clean ash-covered homes. A new state law, inspired in part by LAist’s reporting, clarifies who’s responsible.</source:markdown>
+      <guid>cid://urn:uuid:00000199-ea08-dc1c-a3bd-eacddeda0000</guid>
+    </item>    <item>
+      <title>Public immigration sweeps in LA are not new — similar tactics were used in the 1930s</title>
+      <link>https://laist.com/news/la-history/public-immigration-sweeps-in-la-are-not-new-similar-tactics-were-used-in-the-1930s</link>
+      <description>
+        <![CDATA[Similar tactics to today's ICE sweeps were seen in the city 100 years ago.]]>
+      </description>
+      <source:markdown>Similar tactics to today&#39;s ICE sweeps were seen in the city 100 years ago.</source:markdown>
+      <guid>cid://urn:uuid:00000199-df9a-d89a-a3b9-ff9fe1680000</guid>
+    </item>    <item>
+      <title>Suspect charged in connection to Palisades Fire faces new charges</title>
+      <link>https://laist.com/news/criminal-justice/suspect-charged-in-connection-to-palisades-fire-faces-new-charges</link>
+      <description>
+        <![CDATA[Jonathan Rinderknecht was indicted Wednesday with two additional felonies by a federal grand jury.]]>
+      </description>
+      <source:markdown>Jonathan Rinderknecht was indicted Wednesday with two additional felonies by a federal grand jury.</source:markdown>
+      <guid>cid://urn:uuid:00000199-ea8b-d89a-a3b9-ff8f90f60000</guid>
+    </item>    <item>
+      <title>LA County’s $2 million CEO payout was over claims she was harmed by ballot measure</title>
+      <link>https://laist.com/news/la-countys-ceo-payout-ballot-measure-g</link>
+      <description>
+        <![CDATA[Davenport requested the settlement for “reputational harm, embarrassment and physical, emotional and mental distress caused by the Measure G.”]]>
+      </description>
+      <source:markdown>Davenport requested the settlement for “reputational harm, embarrassment and physical, emotional and mental distress caused by the Measure G.”</source:markdown>
+      <guid>cid://urn:uuid:00000199-ea5c-dc1c-a3bd-eadd5e0c0000</guid>
+    </item>    <item>
+      <title>Port of LA ups and downs land in good spot for holiday consumers</title>
+      <link>https://laist.com/news/port-of-la-ups-and-downs-land-in-good-spot-for-holiday-consumers</link>
+      <description>
+        <![CDATA[Nearly three million containers moved through the Port of L.A. complex between July and September.]]>
+      </description>
+      <source:markdown>Nearly three million containers moved through the Port of L.A. complex between July and September.</source:markdown>
+      <guid>cid://urn:uuid:00000199-ea4b-dc80-a5fb-ef5b7d290000</guid>
+    </item>    <item>
+      <title>Survey of 2,300 fire survivors reflects long, steep road to recovery</title>
+      <link>https://laist.com/news/climate-environment/fire-survivors-recovery-survey</link>
+      <description>
+        <![CDATA[A new survey shows most Eaton and Palisades fire survivors face major obstacles to rebuild.]]>
+      </description>
+      <source:markdown>A new survey shows most Eaton and Palisades fire survivors face major obstacles to rebuild.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e9c5-dc1c-a3bd-e9cd2aed0000</guid>
+    </item>    <item>
+      <title>City controller tapped to help monitor LA’s compliance with agreement to create more shelter for unhoused people</title>
+      <link>https://laist.com/news/housing-homelessness/city-controller-los-angeles-compliance-agreement-create-shelter-unhoused-people</link>
+      <description>
+        <![CDATA[A federal judge wrote that Controller Kenneth Mejia is the most knowledgeable about the complex funding in the homelessness system.]]>
+      </description>
+      <source:markdown>A federal judge wrote that Controller Kenneth Mejia is the most knowledgeable about the complex funding in the homelessness system.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e9b6-dc1c-a3bd-e9ffe0650000</guid>
+    </item>    <item>
       <title>The opening for the first part of LA Metro&#39;s D Line extension is delayed until early next year</title>
       <link>https://laist.com/news/transportation/la-metro-d-line-extension-delay</link>
       <description>
@@ -2830,127 +2894,6 @@ The post [Building Memories, One Park and Project at a Time](https://santaclarit
         <![CDATA[The Spanish language book fair is a celebration of words, culture and creativity.]]>
       </description>
       <guid>cid://urn:uuid:00000199-7e0f-da96-afbd-7edf1e2d0000</guid>
-    </item>    <item>
-      <title>As Black surfers return for competition and community in Huntington Beach, an LAist editor finds her wave</title>
-      <link>https://laist.com/news/los-angeles-activities/black-surfers-a-great-day-in-the-stoke-huntington-beach-laist-editor-rides-waves</link>
-      <description>
-        <![CDATA['A Great Day in the Stoke' is a free, daylong event in Orange County billed as 'the largest gathering of Black surfers in history.' The fourth annual festival is set for Saturday in Huntington Beach.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-7d9a-dabc-af9b-7ddeddd60000</guid>
-    </item>    <item>
-      <title>Do you have access to affordable, reliable internet? LAist has a guide to help you get online</title>
-      <link>https://laist.com/news/affordable-reliable-internet-laist-guide</link>
-      <description>
-        <![CDATA[At least 3.5 million people across Southern California don’t have access to reliable internet at home.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-7d9b-dabc-af9b-7ddf991a0000</guid>
-    </item>    <item>
-      <title>Anaheim hotel workers will now get affordable housing help under new tax breakdown</title>
-      <link>https://laist.com/news/politics/anaheim-hotel-workers-vote-affordable-housing-new-tax-breakdown</link>
-      <description>
-        <![CDATA[The funds will go toward first-time homebuying assistance and emergency assistance money to keep people in their homes.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-7cb2-d43d-a7df-fcba68a30000</guid>
-    </item>    <item>
-      <title>Millennial Democrat Ian Calderon announces bid for California governor</title>
-      <link>https://laist.com/news/politics/millennial-democrat-ian-calderon-announces-bid-for-california-governor</link>
-      <description>
-        <![CDATA["I've been living in the real world," Calderon says in a new ad featuring his wife and kids. Calderon left the Legislature to focus on his family.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-7c99-da3f-ab9d-fcfb5de40000</guid>
-    </item>    <item>
-      <title>Need money to help retrofit your home against earthquakes? Time is running out</title>
-      <link>https://laist.com/news/climate-environment/earthquake-retrofit-funding-registration-brace-and-bolt</link>
-      <description>
-        <![CDATA[Register for California's Earthquake Brace and Bolt program before Oct. 1. Rental properties are eligible this year.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-7cb7-d137-a3df-fdbf494c0000</guid>
-    </item>    <item>
-      <title>Anaheim’s Mexican American history is getting a podcast. Here are the students behind it</title>
-      <link>https://laist.com/news/arts-and-entertainment/anaheims-mexican-american-history-is-getting-a-podcast</link>
-      <description>
-        <![CDATA[The group of students want to reclaim the narrative about their community as ICE raids hurt immigrant communities across SoCal.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-78aa-d0a3-a79b-febe7fbc0000</guid>
-    </item>    <item>
-      <title>LAist is tracking LA fire donations and where that money is going. Here’s how you can help</title>
-      <link>https://laist.com/news/la-fire-donations-tracking</link>
-      <description>
-        <![CDATA[The charitable response to the January fires has been unprecedented. LAist is launching a survey to help the public follow the money.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-7c6f-de3d-af9f-fc7f3cd20000</guid>
-    </item>    <item>
-      <title>Homelessness is dropping in California counties. But funding cuts could derail that progress</title>
-      <link>https://laist.com/news/housing-homelessness/homelessness-is-dropping-in-california-counties-but-funding-cuts-could-derail-that-progress</link>
-      <description>
-        <![CDATA[Experts worry liberal California will be blacklisted from federal homelessness dollars, effectively counteracting recent progress.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-7c6f-db16-a39b-fcffa9a10000</guid>
-    </item>    <item>
-      <title>Santa Clarita Officially Names a Clean California Community</title>
-      <link>https://santaclarita.gov/blog/2025/09/24/santa-clarita-officially-names-a-clean-california-community/</link>
-      <description>
-        <![CDATA[<p>The City Joins 30 Communities Statewide Recognized for Zero Litter Efforts The City of Santa Clarita has been named a “Clean California Community” by Caltrans’ Clean CA initiative, joining 30 communities across the state receiving the designation. This recognition highlights Santa Clarita’s leadership in California’s Zero Litter movement, which works to reduce waste and keep [&#8230;]</p>
-        <p>The post <a href="https://santaclarita.gov/blog/2025/09/24/santa-clarita-officially-names-a-clean-california-community/">Santa Clarita Officially Names a Clean California Community</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
-      </description>
-      <source:markdown>The City Joins 30 Communities Statewide Recognized for Zero Litter Efforts The City of Santa Clarita has been named a “Clean California Community” by Caltrans’ Clean CA initiative, joining 30 communities across the state receiving the designation. This recognition highlights Santa Clarita’s leadership in California’s Zero Litter movement, which works to reduce waste and keep \[…\]
-
-The post [Santa Clarita Officially Names a Clean California Community](https://santaclarita.gov/blog/2025/09/24/santa-clarita-officially-names-a-clean-california-community/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
-      <guid>cid://https://santaclarita.gov/?p=6767</guid>
-    </item>    <item>
-      <title>Shooting at ICE detention facility in Dallas kills 1 detainee, injures 2 others</title>
-      <link>https://laist.com/news/shooting-at-ice-detention-facility-in-dallas</link>
-      <description>
-        <![CDATA[Authorities are investigating a shooting Wednesday at an immigration detention facility in Dallas.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-7c55-d43d-a7df-fc5d7f750000</guid>
-    </item>    <item>
-      <title>Talking to a door-to-door solar sales rep? Beware of these red flags.</title>
-      <link>https://laist.com/news/climate-environment/door-to-door-solar-sales-rep-beware-red-flags</link>
-      <description>
-        <![CDATA[Door-knocking is common in the solar industry and not well regulated. Being informed can protect you from predatory tactics.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-78c9-dd60-a5bf-7aed39200000</guid>
-    </item>    <item>
-      <title>Trump administration wants to redistribute $2.4 billion from California high-speed rail project</title>
-      <link>https://laist.com/news/transportation/trump-administration-to-hand-out-2-4-billion-it-took-from-californias-high-speed-railroad</link>
-      <description>
-        <![CDATA[The Trump administration wants to redistribute $2.4 billion it pulled from California’s high-speed rail project as part of a new program to boost passenger rail traffic nationwide.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-78ba-d14b-a7d9-f8fb85140000</guid>
-    </item>    <item>
-      <title>New Mexico will be the first state to offer universal child care. What could that mean for California?</title>
-      <link>https://laist.com/news/education/early-childhood-education-pre-k/new-mexico-universal-childcare-california-families</link>
-      <description>
-        <![CDATA[Starting this November, the state will offer free childcare to families regardless of income.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-78c1-d43d-a7df-fcd983b50000</guid>
-    </item>    <item>
-      <title>Jimmy Kimmel responds to suspension: &#39;To silence a comedian the president doesn’t like is anti-American’</title>
-      <link>https://laist.com/news/arts-and-entertainment/jimmy-kimmel-speaks-out-charlie-kirk-suspension</link>
-      <description>
-        <![CDATA[Kimmel returned less than a week after ABC suspended his show over comments he made about the assassination of right wing activist Charlie Kirk.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-789b-d50f-a3bf-fbfbbc070000</guid>
-    </item>    <item>
-      <title>SoCal man awarded $25M for wrongful conviction after 38 years in prison</title>
-      <link>https://laist.com/news/socal-man-awarded-25m-for-wrongful-conviction-after-38-years-in-prison</link>
-      <description>
-        <![CDATA[Maurice Hastings, 72, was convicted of committing sexual assault and murder in Inglewood in 1983. He was sentenced to life in prison without parole, but DNA testing led to his exoneration decades later.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-78a2-d14b-a7d9-f8f3cae90000</guid>
-    </item>    <item>
-      <title>GoBiz, REACH leaders tour VSFB after &#39;Space Vandenberg&#39; initiative announcement</title>
-      <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4313431/gobiz-reach-leaders-tour-vsfb-after-space-vandenberg-initiative-announcement/</link>
-      <description>
-        <![CDATA[Members of the California Governor's Office of Business and Economic Development (GoBiz) and the Regional Economic Action Coalition (REACH) toured key infrastructure sites at Vandenberg Space Force Base Sept. 12, 2025, following the announcement of a "Space Vandenberg" initiative. At the announcement event, GoBiz, awarded REACH a $9.5 million grant to bolster California's space industry infrastructure and expand workforce development opportunities.<br/> 
-        <img src='https://media.defense.gov/2025/Sep/23/2003807350/300/300/0/250912-X-EI987-1005.JPG' alt='U.S. Space Force Lt. Col. Kyle Rowland, Chief of Spaceport Integration, speaks to members of the Governor&#39;s Office of Business and Economic Development (GoBiz) and Regional Economic Action Coalition (REACH) about infrastructure improvements at the Vandenberg harbor at Vandenberg Space Force base, Calif., Sept. 12, 2025. GoBiz recently awarded a $9.5 million grant to the &quot;Space Vandenberg&quot; initiative, aimed at boosting space industry infrastructure in California and expanding workforce development.' /> <br />]]>
-      </description>
-      <source:markdown>Members of the California Governor&#39;s Office of Business and Economic Development (GoBiz) and the Regional Economic Action Coalition (REACH) toured key infrastructure sites at Vandenberg Space Force Base Sept. 12, 2025, following the announcement of a &#34;Space Vandenberg&#34; initiative. At the announcement event, GoBiz, awarded REACH a $9.5 million grant to bolster California&#39;s space industry infrastructure and expand workforce development opportunities.
-
-![U.S. Space Force Lt. Col. Kyle Rowland, Chief of Spaceport Integration, speaks to members of the Governor&#39;s Office of Business and Economic Development (GoBiz) and Regional Economic Action Coalition (REACH) about infrastructure improvements at the Vandenberg harbor at Vandenberg Space Force base, Calif., Sept. 12, 2025. GoBiz recently awarded a $9.5 million grant to the &#34;Space Vandenberg&#34; initiative, aimed at boosting space industry infrastructure in California and expanding workforce development.](https://media.defense.gov/2025/Sep/23/2003807350/300/300/0/250912-X-EI987-1005.JPG)</source:markdown>
-      <enclosure url="https://media.defense.gov/2025/Sep/23/2003807350/700/700/0/250912-X-EI987-1005.JPG" length="" type="image/jpeg" />
-      <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4313431/gobiz-reach-leaders-tour-vsfb-after-space-vandenberg-initiative-announcement/</guid>
     </item>
   </channel>
 </rss>

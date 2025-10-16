@@ -4,10 +4,34 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>15 Oct 25 15:11 -0700</lastBuildDate>
+    <lastBuildDate>16 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>HDPMI 3.23</title>
+      <link>https://sourceforge.net/p/freedos/news/2025/10/hdpmi-323/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>Japheth has released a new version of HDPMI, part of HX DOS extender. <a class="" href="https://github.com/Baron-von-Riedesel/HX/releases/tag/v2.23" rel="nofollow">Version 3.23</a> has quite a few interesting fixes and features, including: - fixed int 25h/26h, cx != -1: don't copy (non-existing) diskio struct to TLB - int 31h, ax=0B00h: support DH=3 (I/O watchpoint) - fixed int 21h, ax=71a7h, bl=0: src must be ds:e/si, but es:e/si was used - switch ?SAVESSESPONINIT now always 1; should fix problems with IRQs handled by a client while another client is initializing - and other changes. You can find it at <a class="" href="https://github.com/Baron-von-Riedesel/HX/" rel="nofollow">HX DOS extender on GitHub</a>. </p></div>]]>
+      </description>
+      <source:markdown>Japheth has released a new version of HDPMI, part of HX DOS extender. [Version 3.23](https://github.com/Baron-von-Riedesel/HX/releases/tag/v2.23) has quite a few interesting fixes and features, including: - fixed int 25h/26h, cx != -1: don&#39;t copy (non-existing) diskio struct to TLB - int 31h, ax=0B00h: support DH=3 (I/O watchpoint) - fixed int 21h, ax=71a7h, bl=0: src must be ds:e/si, but es:e/si was used - switch ?SAVESSESPONINIT now always 1; should fix problems with IRQs handled by a client while another client is initializing - and other changes. You can find it at [HX DOS extender on GitHub](https://github.com/Baron-von-Riedesel/HX/).</source:markdown>
+      <guid>cid://https://sourceforge.net79da2e9e4d4d112392a24032ef9c2ecddc28755f</guid>
+    </item>    <item>
+      <title>VSBHDA v1.8</title>
+      <link>https://sourceforge.net/p/freedos/news/2025/10/vsbhda-v18/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>VSBHDA is a Virtual Sound Blaster emulator for HDA, so you can emulate classic SoundBlaster16 audio when running FreeDOS on more modern hardware. Japheth has released a new version of VSBHDA. <a class="" href="https://github.com/Baron-von-Riedesel/VSBHDA/releases" rel="nofollow">Version 1.8</a> has several fixes, runs on real hardware and has been tested to work with VMWare, QEMU, and VirtualBox ( these environments support both HDA and AC'97, VMWare additionally ES1371 ). They also support SoundBlaster emulation natively, but Japheth notes this is often of "minor quality."</p></div>]]>
+      </description>
+      <source:markdown>VSBHDA is a Virtual Sound Blaster emulator for HDA, so you can emulate classic SoundBlaster16 audio when running FreeDOS on more modern hardware. Japheth has released a new version of VSBHDA. [Version 1.8](https://github.com/Baron-von-Riedesel/VSBHDA/releases) has several fixes, runs on real hardware and has been tested to work with VMWare, QEMU, and VirtualBox ( these environments support both HDA and AC&#39;97, VMWare additionally ES1371 ). They also support SoundBlaster emulation natively, but Japheth notes this is often of &#34;minor quality.&#34;</source:markdown>
+      <guid>cid://https://sourceforge.netd28045124b219c2b0c24c393f01e7f30ea7a0674</guid>
+    </item>    <item>
+      <title>NetMount client and server, version 1.6.0</title>
+      <link>https://sourceforge.net/p/freedos/news/2025/10/netmount-client-and-server-version-160/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>If you need DOS to access directories on remote computers as a network drive, you can also try the NetMount program. Jaroslav just released a new version of the NetMount components (NetMount client v1.6.0, server v1.6.0, and NInstall v1.0) with several improvements and new features: NetMount client got a few upgrades - most notably, it now supports read-ahead buffering (64-byte buffer), which can significantly speed things up when reading files in small chunks. NetMount server now supports Unicode-to-ASCII transliteration when converting filenames to the DOS 8.3 format. There’s also a new DOS utility called NInstall. It installs (loads) the NetMount DOS TSR client using parameters from a config file. You can find it at <a class="" href="https://github.com/jrohel/NetMount" rel="nofollow">NetMount on GitHub</a> and this release is at <a class="" href="https://github.com/jrohel/NetMount/releases/tag/client-v1.6.0%2Cserver-v1.6.0%2Cninstall-v1.0" rel="nofollow">NetMount client 1.6.0, server 1.6.0, ninstall 1.0</a></p></div>]]>
+      </description>
+      <source:markdown>If you need DOS to access directories on remote computers as a network drive, you can also try the NetMount program. Jaroslav just released a new version of the NetMount components (NetMount client v1.6.0, server v1.6.0, and NInstall v1.0) with several improvements and new features: NetMount client got a few upgrades - most notably, it now supports read-ahead buffering (64-byte buffer), which can significantly speed things up when reading files in small chunks. NetMount server now supports Unicode-to-ASCII transliteration when converting filenames to the DOS 8.3 format. There’s also a new DOS utility called NInstall. It installs (loads) the NetMount DOS TSR client using parameters from a config file. You can find it at [NetMount on GitHub](https://github.com/jrohel/NetMount) and this release is at [NetMount client 1.6.0, server 1.6.0, ninstall 1.0](https://github.com/jrohel/NetMount/releases/tag/client-v1.6.0%2Cserver-v1.6.0%2Cninstall-v1.0)</source:markdown>
+      <guid>cid://https://sourceforge.net79ec797de17db81d22eb28d29c6a37337e5154e2</guid>
+    </item>    <item>
       <title>TrainTimes 2.08 arriving now</title>
       <link>https://www.riscository.com/2025/traintimes-2-08/</link>
       <description>
@@ -1996,14 +2020,6 @@ Although at least one [client re-creation](https://github.com/erfg12/AOL_4.0_Emu
       <source:markdown>![](https://s3.amazonaws.com/com.c64os.resources/weblog/lightweightauthentication/icon-lightweightauthentication.jpg) This post is basically a white paper, but it&#39;s in a non-formal blog post style. I&#39;ve been working on a new Application for C64 OS that makes use of networking. I&#39;ve got a long list of Apps and Utilities that I&#39;d love to have on the platform, but I have to prioritize the one I think will be most useful to have first. For now, until I get further along and decide to share some details, I&#39;m keeping the App a secret. But suffice it to say that, as with many online services, you need to authenticate yourself somehow and preferably share some account profile details, like your name and maybe your country, and perhaps your email address. Authentication by a C64 OS Application or Utility to a network service is a tricky problem. It isn&#39;t just one problem but a collection of several different problems that all need to be solved in an elegant way. And it is that elegant solution that I&#39;ve been daydreaming about. I think I have a pretty nice schema and I&#39;ve been testing it with real code to make . . .</source:markdown>
       <author>gregorynacu@me.com (Gregory Nacu)</author>
       <guid>cid://https://www.c64os.com/post?p=132</guid>
-    </item>    <item>
-      <title>b.log 2025/09/24 - The parcel that never was, Finally my autism has been explained!</title>
-      <link>https://heyrick.eu/blog/entry/20250924</link>
-      <description>
-        <![CDATA[The parcel that never was, Finally my autism has been explained!]]>
-      </description>
-      <source:markdown>The parcel that never was, Finally my autism has been explained!</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20250924</guid>
     </item>
   </channel>
 </rss>
