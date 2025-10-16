@@ -4,10 +4,50 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>16 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>16 Oct 25 06:53 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Ab 2028: EU erweitert USB-C-Pflicht auf Ladegeräte</title>
+      <link>https://www.heise.de/news/Ab-2028-EU-erweitert-USB-C-Pflicht-auf-Ladegeraete-10773228.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die EU-Kommission erweitert Auflagen für externe Ladegeräte: Netzteile müssen ab 2028 effizienter werden und über USB-C-Anschlüsse verfügen.]]>
+      </description>
+      <source:markdown>Die EU-Kommission erweitert Auflagen für externe Ladegeräte: Netzteile müssen ab 2028 effizienter werden und über USB-C-Anschlüsse verfügen.</source:markdown>
+      <guid>cid://http://heise.de/-10773228</guid>
+    </item>    <item>
+      <title>Omnissa: Nutanix-Unterstützung fast fertig, OpenStack-Support im Blick</title>
+      <link>https://www.heise.de/news/Omnissa-Nutanix-Unterstuetzung-fast-fertig-OpenStack-Support-im-Blick-10773280.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[VMwares frühere Endkunden-Sparte will sich von ihrer Herkunft emanzipieren und setzt dafür auf souveräne Dienste und mehr Offenheit.]]>
+      </description>
+      <source:markdown>VMwares frühere Endkunden-Sparte will sich von ihrer Herkunft emanzipieren und setzt dafür auf souveräne Dienste und mehr Offenheit.</source:markdown>
+      <guid>cid://http://heise.de/-10773280</guid>
+    </item>    <item>
+      <title>HSE facing up to €7m loss over medical devices company</title>
+      <link>https://www.rte.ie/news/politics/2025/1016/1538925-hse-public-accounts-committee/</link>
+      <description>
+        <![CDATA[The HSE could face a loss of up to €7m due to its dealings with a medical devices company that provided respiratory technology during the Covid-19 pandemic.]]>
+      </description>
+      <source:markdown>The HSE could face a loss of up to €7m due to its dealings with a medical devices company that provided respiratory technology during the Covid-19 pandemic.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/politics/2025/1016/1538925-hse-public-accounts-committee/</guid>
+    </item>    <item>
+      <title>Spotify will &#34;verantwortungsvolle&#34; KI-Werkzeuge entwickeln</title>
+      <link>https://www.heise.de/news/Spotify-schliesst-KI-Partnerschaft-mit-Sony-und-Warner-10773292.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Spotify will den Einsatz generativer KI bei der Musikproduktion mit Labels koordinieren. Künstler sollen die Wahl behalten.]]>
+      </description>
+      <source:markdown>Spotify will den Einsatz generativer KI bei der Musikproduktion mit Labels koordinieren. Künstler sollen die Wahl behalten.</source:markdown>
+      <guid>cid://http://heise.de/-10773292</guid>
+    </item>    <item>
+      <title>Tails 7.1: Kleinere Neuerungen und Korrekturen für das anonymisierende Linux</title>
+      <link>https://www.heise.de/news/Tails-7-1-Kleinere-Neuerungen-und-Korrekturen-fuer-das-anonymisierende-Linux-10771352.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ein Update für das Livesystem bügelt störende Details glatt und aktualisiert mitgelieferte Software.]]>
+      </description>
+      <source:markdown>Ein Update für das Livesystem bügelt störende Details glatt und aktualisiert mitgelieferte Software.</source:markdown>
+      <guid>cid://http://heise.de/-10771352</guid>
+    </item>    <item>
       <title>Candidates on campaign trail with eight days to polling</title>
       <link>https://www.rte.ie/news/2025/1016/1538900-candidates-on-campaign-trail-with-eight-days-to-polling/</link>
       <description>
@@ -24,7 +64,7 @@
       <source:markdown>Mit Sliceforms lassen sich 3D-Objekte aus flachen Scheiben erzeugen, die man ineinandersteckt. Wir zeigen an einem Beispielprojekt, wie das funktioniert.</source:markdown>
       <guid>cid://http://heise.de/-10629934</guid>
     </item>    <item>
-      <title>Oracle: KI-Anwendungen möglichst einfach mit der AI Data Platform</title>
+      <title>Oracle als KI-Schaltstelle: AI Data Platform geht an den Start</title>
       <link>https://www.heise.de/news/Oracle-KI-Anwendungen-moeglichst-einfach-mit-der-AI-Data-Platform-10772580.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
         <![CDATA[Oracle führt eine zentrale Datenplattform und einen Marktplatz für KI-Agenten ein. Sie sollen Entwicklung und Betrieb von KI-Cloud-Anwendungen vereinfachen.]]>
@@ -32,7 +72,7 @@
       <source:markdown>Oracle führt eine zentrale Datenplattform und einen Marktplatz für KI-Agenten ein. Sie sollen Entwicklung und Betrieb von KI-Cloud-Anwendungen vereinfachen.</source:markdown>
       <guid>cid://http://heise.de/-10772580</guid>
     </item>    <item>
-      <title>IG Metall Bayern erwartet langsameren Jobabbau bei längerer Verbrenner-Laufzeit</title>
+      <title>IG Metall Bayern befürchtet Jobverluste durch starres Verbrenner-Aus</title>
       <link>https://www.heise.de/news/IG-Metall-Bayern-erwartet-langsameren-Jobabbau-bei-laengerer-Verbrenner-Laufzeit-10772947.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
         <![CDATA[Der bayerische IG-Metall-Chef Ott fordert von der Industrie, den geplanten Stellenabbau zu überdenken, falls das Verbrenner-Aus später kommt.]]>

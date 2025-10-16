@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>16 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>16 Oct 25 06:53 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,19 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://glammr.us/@IIIF/115384070708705735</link>
+      <description>
+        <![CDATA[<p>Are you researching, experimenting with, or fully supporting <a href="https://glammr.us/tags/IIIF" class="mention hashtag" rel="tag">#<span>IIIF</span></a> at your institution? Please help the IIIF Community better understand how IIIF is being adopted across institutions by completing this quick survey.</p><p><a href="https://forms.gle/PYWJb8VwrXu2p8US8" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">forms.gle/PYWJb8VwrXu2p8US8</span><span class="invisible"></span></a></p>]]>
+      </description>
+      <source:markdown>Are you researching, experimenting with, or fully supporting [#IIIF](https://glammr.us/tags/IIIF) at your institution? Please help the IIIF Community better understand how IIIF is being adopted across institutions by completing this quick survey.
+
+[https://forms.gle/PYWJb8VwrXu2p8US8](https://forms.gle/PYWJb8VwrXu2p8US8)</source:markdown>
+      <guid>cid://https://glammr.us/@IIIF/115384070708705735</guid>
+    </item>    <item>
+      <title>POP Phone: a USB-C handset that you plug into your phone for...</title>
+      <link>https://kottke.org/25/10/0047713-pop-phone-a-usb-c-handset</link>
+      <guid>cid://tag:kottke.org,2025://13.47713</guid>
     </item>    <item>
       <title>ICE, Secret Service, Navy All Had Access to Flock&#39;s Nationwide Network of Cameras</title>
       <link>https://www.404media.co/ice-secret-service-navy-all-had-access-to-flocks-nationwide-network-of-cameras/</link>

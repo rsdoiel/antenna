@@ -11,6 +11,7 @@ title: Science and Technology
 - [Smithsonian Magazine](https://www.smithsonianmag.com/rss/smart-news/)
 - [OS News](https://www.osnews.com/feed/)
 - [Caltech Magazine](https://magazine.caltech.edu/index?format=rss)
+- [NPR Short Wave](https://feeds.npr.org/510351/podcast.xml)
 
 # Open Source Projects
 

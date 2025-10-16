@@ -4,7 +4,7 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>16 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>16 Oct 25 06:53 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -39,6 +39,14 @@ Marketplace’s Nova Safo spoke with Dell Cameron, senior writer at WIRED who br
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/10/16/tech_20251016_1016_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K74TCZ9P622061PQVBV8DGMZ" length="5486151" type="audio/mpeg" />
       <guid>cid://01K74TCZ9P622061PQVBV8DGMZ</guid>
     </item>    <item>
+      <title>NYFF: Bradley Cooper’s Is This Thing On? Keeps the Stage Small and the Feelings Big</title>
+      <link>https://www.pastemagazine.com/movies/bradley-cooper/is-this-thing-on</link>
+      <description>
+        <![CDATA[The stand-up dramedy might not reinvent the wheel, but Cooper’s steady direction—plus two terrific leads—delivers a ride smoother than most.]]>
+      </description>
+      <source:markdown>The stand-up dramedy might not reinvent the wheel, but Cooper’s steady direction—plus two terrific leads—delivers a ride smoother than most.</source:markdown>
+      <guid>cid://19dfc3fa-7a16-4ea8-ba1c-5e4f21aaba9d-410228</guid>
+    </item>    <item>
       <title>The two wildcards shaping the tail end of the Virginia race for governor</title>
       <link>https://www.npr.org/2025/10/16/nx-s1-5575760/virginia-election-governor-2025-shutdown</link>
       <description>
@@ -54,6 +62,14 @@ Marketplace’s Nova Safo spoke with Dell Cameron, senior writer at WIRED who br
       </description>
       <source:markdown>As U.S. health insurance costs rise, some companies are paying for all of their workers&#39; premiums. It&#39;s a big expense — but they say it pays off.</source:markdown>
       <guid>cid://https://www.npr.org/2025/10/16/nx-s1-5561051/health-care-costs-premiums-companies-cost-of-living</guid>
+    </item>    <item>
+      <title>Relationships Both Foreign and Domestic Complicate The Diplomat’s Emotionally Frustrating Third Season</title>
+      <link>https://www.pastemagazine.com/tv/netflix/the-diplomat-season-3-review</link>
+      <description>
+        <![CDATA[The Diplomat's third season is still bonkers fun to watch, but it unfortunately privileges narrative twists over emotional depth.]]>
+      </description>
+      <source:markdown>The Diplomat&#39;s third season is still bonkers fun to watch, but it unfortunately privileges narrative twists over emotional depth.</source:markdown>
+      <guid>cid://19dfc3fa-7a16-4ea8-ba1c-5e4f21aaba9d-410240</guid>
     </item>    <item>
       <title>Time for another supply chain slowdown</title>
       <link>https://www.marketplace.org/episode/2025/10/15/time-for-another-supply-chain-slowdown</link>

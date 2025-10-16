@@ -4,10 +4,38 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>16 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>16 Oct 25 06:53 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Microsoft kills 9.9-rated ASP.NET Core bug – &#39;our highest ever&#39; score</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/16/microsoft_aspnet_core_vulnerability/</link>
+      <description>
+        <![CDATA[<h4>Flaw in Kestrel web server allowed request smuggling, impact depends on hosting setup and application code</h4> <p>Microsoft has patched an ASP.NET Core vulnerability with a CVSS score of 9.9, which security program manager Barry Dorrans said was &#34;our highest ever.&#34; The flaw is in the Kestrel web server component and enables security bypass.…</p>]]>
+      </description>
+      <source:markdown>#### Flaw in Kestrel web server allowed request smuggling, impact depends on hosting setup and application code
+
+Microsoft has patched an ASP.NET Core vulnerability with a CVSS score of 9.9, which security program manager Barry Dorrans said was &#34;our highest ever.&#34; The flaw is in the Kestrel web server component and enables security bypass.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242510</guid>
+    </item>    <item>
+      <title>Windows 11 update breaks localhost, prompting mass uninstall workaround</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/16/windows_11_update_localhost/</link>
+      <description>
+        <![CDATA[<h4>Microsoft&#39;s quality control department caught napping again</h4> <p>Microsoft&#39;s October Windows 11 update has managed the impressive feat of breaking localhost, leaving developers unable to access web applications running on their own machines.…</p>]]>
+      </description>
+      <source:markdown>#### Microsoft&#39;s quality control department caught napping again
+
+Microsoft&#39;s October Windows 11 update has managed the impressive feat of breaking localhost, leaving developers unable to access web applications running on their own machines.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242516</guid>
+    </item>    <item>
+      <title>Can This Controversial Brutalist Fountain in San Francisco Be Saved From Demolition?</title>
+      <link>https://www.smithsonianmag.com/smart-news/can-this-controversial-brutalist-fountain-in-san-franciscos-be-saved-from-demolition-180987513/</link>
+      <description>
+        <![CDATA[Critics have called the Vaillancourt Fountain an "eyesore," while supporters say it's an important chapter in the city's history]]>
+      </description>
+      <source:markdown>Critics have called the Vaillancourt Fountain an &#34;eyesore,&#34; while supporters say it&#39;s an important chapter in the city&#39;s history</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/aMvlX9avpTpAsa-p0y7XfRYzz2c=/420x240/filters:focal(2598x1732:2599x1733)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/05/71/0571e65c-174a-43a2-967e-118c817a27a9/gettyimages-2237185841.jpg" length="" type="" />
+    </item>    <item>
       <title>Senator presses Cisco over firewall flaws that burned US agency</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/16/cisco_senate_scrutiny/</link>
       <description>
@@ -377,6 +405,23 @@ UK government&#39;s plans to save £45 billion through the application of AI in 
 
 **Column**  Steve Jobs probably didn&#39;t remember how many times he skinned his knees learning to ride a bike before describing a personal computer as a [&#34;bicycle for the mind.&#34;](https://www.theregister.com/2024/01/27/apple_europe_ios_analysis) Jobs&#39; point was that both tools help us to go further, faster, with just a little extra effort.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242204</guid>
+    </item>    <item>
+      <title>What Happens When You&#39;re Under Anesthesia?</title>
+      <link>https://www.npr.org/2025/10/15/nx-s1-5574474/anesthesia-surgery-medicine-science-anesthesiologist</link>
+      <description>
+        <![CDATA[<p dir="ltr">It's <a href="https://wfsahq.org/news/world-anaesthesia-day-2025-anaesthesiology-in-health-emergencies/"target="_blank"   >World Anesthesia Day</a> tomorrow! So, we invite you to take a deep breathe. Picture a relaxing scene. Maybe a beach in Tahiti, your toes in the sand, a cold drink in hand. Now imagine your favorite music playing in the background. If <a href="https://rwjms.rutgers.edu/people/alopi-patel"target="_blank"   >Dr. Alopi Patel</a> were your anesthesiologist, that's exactly what she'd have you do while you waited for surgery. Before she puts patients under the sway of anesthesia, she likes to explain everything that will happen after they lose consciousness and lead them in guided imagery to help them relax before their procedure. She calls this "verbal anesthesia," and says "it's a type of anesthesia you can't really put in an I.V." Anesthesia is a cornerstone of modern medicine makes tons of surgeries possible today. But Dr. Patel says it wasn't always this way — and shares the history and mechanisms behind this once-controversial procedure. (encore)<p dir="ltr">Curious about other breakthroughs in the history of science? Let us know by emailing shortwave@npr.org!<p dir="ltr">Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at <a href="http://plus.npr.org/shortwave"target="_blank"   >plus.npr.org/shortwave</a>.<br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>It&#39;s [World Anesthesia Day](https://wfsahq.org/news/world-anaesthesia-day-2025-anaesthesiology-in-health-emergencies/) tomorrow! So, we invite you to take a deep breathe. Picture a relaxing scene. Maybe a beach in Tahiti, your toes in the sand, a cold drink in hand. Now imagine your favorite music playing in the background. If [Dr. Alopi Patel](https://rwjms.rutgers.edu/people/alopi-patel) were your anesthesiologist, that&#39;s exactly what she&#39;d have you do while you waited for surgery. Before she puts patients under the sway of anesthesia, she likes to explain everything that will happen after they lose consciousness and lead them in guided imagery to help them relax before their procedure. She calls this &#34;verbal anesthesia,&#34; and says &#34;it&#39;s a type of anesthesia you can&#39;t really put in an I.V.&#34; Anesthesia is a cornerstone of modern medicine makes tons of surgeries possible today. But Dr. Patel says it wasn&#39;t always this way — and shares the history and mechanisms behind this once-controversial procedure. (encore)
+
+Curious about other breakthroughs in the history of science? Let us know by emailing shortwave@npr.org!
+
+Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at [plus.npr.org/shortwave](http://plus.npr.org/shortwave).
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR2579414241.mp3?t=podcast&e=nx-s1-5574474&p=510351&d=841&size=13472123" length="13472123" type="audio/mpeg" />
+      <guid>cid://0f161a39-5d3c-4cda-b878-4d6afd638b52</guid>
     </item>    <item>
       <title>Salesforce pumps the dream of AI agents as helpers, not replacements</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/15/salesforce_dreamforce_agents_everywhere/</link>
@@ -760,6 +805,25 @@ The latest interim release of Ubuntu is here, showcasing some significant change
 Gartner has reported that SAP customers opting for private cloud have seen price increases of 10 percent or more on renewal proposals if they fail to negotiate a renewal price cap in the original deal.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242446</guid>
     </item>    <item>
+      <title>Why Legal Weed Isn’t Always Safe</title>
+      <link>https://www.npr.org/2025/10/14/nx-s1-5525834/why-patchy-state-weed-regulations-may-put-your-health-at-risk</link>
+      <description>
+        <![CDATA[Marijuana is decriminalized or legal in some form in multiple states. But, because it’s illegal on the federal level, states have had to build their own regulatory infrastructure. Without a centralized body to guide them, regulations in one state can look vastly different from those in another. For more on the scope of the issue, Short Wave host <a href="https://www.npr.org/people/1082526815/regina-g-barber"target="_blank"   >Regina G. Barber</a> talks to independent science journalist <a href="https://undark.org/author/teresa-carr/"target="_blank"   >Teresa Carr</a> and NPR pharmaceuticals correspondent <a href="https://www.npr.org/people/825275572/sydney-lupkin"target="_blank"   >Sydney Lupkin</a>. <br><strong>Read more of Teresa’s reporting on </strong><a href="https://undark.org/2025/07/16/cannabis-testing-reform/"target="_blank"   ><strong>state marijuana testing</strong></a><strong>, and more of Sydney’s reporting on the ways </strong><a href="https://www.npr.org/2025/03/24/nx-s1-5239985/marijuana-recreational-weed-safe-contaminants-california"target="_blank"   ><strong>California is trying to make weed safer</strong></a><strong>.</strong><br/><br/><em>Interested in hearing more science behind consumer products? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em> – we may feature it on an upcoming episode!</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Marijuana is decriminalized or legal in some form in multiple states. But, because it’s illegal on the federal level, states have had to build their own regulatory infrastructure. Without a centralized body to guide them, regulations in one state can look vastly different from those in another. For more on the scope of the issue, Short Wave host [Regina G. Barber](https://www.npr.org/people/1082526815/regina-g-barber) talks to independent science journalist [Teresa Carr](https://undark.org/author/teresa-carr/) and NPR pharmaceuticals correspondent [Sydney Lupkin](https://www.npr.org/people/825275572/sydney-lupkin).
+
+**Read more of Teresa’s reporting on** [**state marijuana testing**](https://undark.org/2025/07/16/cannabis-testing-reform/) **, and more of Sydney’s reporting on the ways** [**California is trying to make weed safer**](https://www.npr.org/2025/03/24/nx-s1-5239985/marijuana-recreational-weed-safe-contaminants-california) **.**
+
+_Interested in hearing more science behind consumer products? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _– we may feature it on an upcoming episode!_
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR3102110183.mp3?t=podcast&e=nx-s1-5525834&p=510351&d=845&size=13523950" length="13523950" type="audio/mpeg" />
+      <guid>cid://5ae722d3-7b9a-4c62-bf49-4e2ccb649017</guid>
+    </item>    <item>
       <title>EU biometric border system launch hits inevitable teething problems</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/14/eu_biometric_border_system_launches/</link>
       <description>
@@ -1029,6 +1093,23 @@ The government-owned company that runs the UK&#39;s most important nuclear site 
 
 The British government is putting out feelers to industry ahead of the procurement process for the country&#39;s most powerful supercomputer, set to begin next year.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242420</guid>
+    </item>    <item>
+      <title>Synthetic Cells: The Next Bioengineering Frontier</title>
+      <link>https://www.npr.org/2025/10/13/nx-s1-5527869/life-synthetic-cells-engineering-alive</link>
+      <description>
+        <![CDATA[There are more human cells in your body than there are stars in the Milky Way galaxy! Cells are the fundamental building blocks of life but that doesn’t mean they are simple – biology still doesn’t have a full picture of how exactly a living cell works. Host <a href="https://www.npr.org/people/1082526815/regina-g-barber"target="_blank"   >Regina G. Barber</a> talks with bioengineers <a href="https://en.wikipedia.org/wiki/Kate_Adamala"target="_blank"   >Kate Adamala</a> and <a href="https://engineering.stanford.edu/people/drew-endy"target="_blank"   >Drew Endy</a> about why scientists are trying to build a cell from scratch, piece by piece. They dive into what it would look like to be inside of a cell, why scientists are bothering with making a cell from scratch and how engineers are leading the field.<br/><br/><br><em>Want more bioengineering stories? Email us at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>There are more human cells in your body than there are stars in the Milky Way galaxy! Cells are the fundamental building blocks of life but that doesn’t mean they are simple – biology still doesn’t have a full picture of how exactly a living cell works. Host [Regina G. Barber](https://www.npr.org/people/1082526815/regina-g-barber) talks with bioengineers [Kate Adamala](https://en.wikipedia.org/wiki/Kate_Adamala) and [Drew Endy](https://engineering.stanford.edu/people/drew-endy) about why scientists are trying to build a cell from scratch, piece by piece. They dive into what it would look like to be inside of a cell, why scientists are bothering with making a cell from scratch and how engineers are leading the field.
+
+_Want more bioengineering stories? Email us at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR9256821585.mp3?t=podcast&e=nx-s1-5527869&p=510351&d=855&size=13682356" length="13682356" type="audio/mpeg" />
+      <guid>cid://aeac8652-6443-448e-ac9f-64581ce1f7e7</guid>
     </item>    <item>
       <title>Techies tossed appliance that had no power cord, but turned out to power their company</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/13/who_me/</link>
@@ -1339,6 +1420,25 @@ UK trade union Prospect is notifying members of a breach that involved data such
 
 **Comment**  Microsoft has talked up the role played by neural processing units (NPUs) in making Windows more &#34;intelligent,&#34; even though the silicon is not currently on the hardware requirements list.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242298</guid>
+    </item>    <item>
+      <title>Why The Tropics Have A Weather Forecasting Problem</title>
+      <link>https://www.npr.org/2025/10/10/nx-s1-5570121/weather-island-science-forecast-storm</link>
+      <description>
+        <![CDATA[Weather in the tropics is decidedly different than it is in the middle latitudes. It turns out, so are the weather <em>systems </em>– the factors that create things like the daily temperature and humidity! Historically, most weather forecasting models have been based on data from high-income countries in the northern hemisphere. But different factors drive weather and climate near the equator – meaning that these weather forecast models are much less accurate at predicting weather in the tropics. This has implications for storm readiness, flooding preparedness and more. <br/><br/>Atmospheric scientist <a href="https://www.macfound.org/videos/2025-macarthur-fellow-adames-corraliza"target="_blank"   >Ángel F. Adames-Corraliza</a> is aiming to change that. His research focuses on how water vapor – humidity – plays a key role in tropical weather systems. It’s earned him a spot as one of this year’s Macarthur Fellows. <br/><br/><em>Interested in more science about how weather happens? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Weather in the tropics is decidedly different than it is in the middle latitudes. It turns out, so are the weather _systems_– the factors that create things like the daily temperature and humidity! Historically, most weather forecasting models have been based on data from high-income countries in the northern hemisphere. But different factors drive weather and climate near the equator – meaning that these weather forecast models are much less accurate at predicting weather in the tropics. This has implications for storm readiness, flooding preparedness and more.
+
+Atmospheric scientist [Ángel F. Adames-Corraliza](https://www.macfound.org/videos/2025-macarthur-fellow-adames-corraliza) is aiming to change that. His research focuses on how water vapor – humidity – plays a key role in tropical weather systems. It’s earned him a spot as one of this year’s Macarthur Fellows.
+
+_Interested in more science about how weather happens? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR6759212737.mp3?t=podcast&e=nx-s1-5570121&p=510351&d=847&size=13568671" length="13568671" type="audio/mpeg" />
+      <guid>cid://f1ab8233-58e6-4ddc-b9c1-99c3c6e363b8</guid>
     </item>    <item>
       <title>Client defended engineer after oil baron-turned tech support entrepreneur lied about dodgy dealings</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/on_call/</link>
@@ -1949,6 +2049,23 @@ There&#39;s gold in them thar piles of old Windows 10 PCs. Quite literally, acco
 AI companion apps such as Character.ai and Replika commonly try to boost user engagement with emotional manipulation, a practice that academics characterize as a dark pattern.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242361</guid>
     </item>    <item>
+      <title>Doing Science at the Edge of the Earth</title>
+      <link>https://www.npr.org/2025/10/08/nx-s1-5522362/north-island-earth-glacier-explore</link>
+      <description>
+        <![CDATA[Some scientific discoveries take place in a lab. Others are made deep in the rainforest, along the ocean floor or on the dark side of the moon. And still others are made squelching through mud and ice on the northernmost island on Earth… at least, if you’re NPR climate correspondent <a href="https://www.npr.org/people/1193795778/alejandra-borunda"target="_blank"   >Alejandra Borunda</a>. Two summers ago, Alejandra followed an expedition of scientists to Greenland’s Inuit Qeqertaat, or Kaffeeklubben (“Coffee Club”) Island. The researchers with her were aiming to find what plants grew at the farthest north point of the island. Along the way, she had an adventure … and witnessed the good, the bad and the muddy realities of scientific expeditions.<br><p dir="ltr"><em>Interested in more exploratory science? Email us your question at <a href="mailto:shortwave@npr.org"target="_blank"   >shortwave@npr.org</a>.</em><p dir="ltr"><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at <a href="http://plus.npr.org/shortwave"target="_blank"   >plus.npr.org/shortwave</a>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Some scientific discoveries take place in a lab. Others are made deep in the rainforest, along the ocean floor or on the dark side of the moon. And still others are made squelching through mud and ice on the northernmost island on Earth… at least, if you’re NPR climate correspondent [Alejandra Borunda](https://www.npr.org/people/1193795778/alejandra-borunda). Two summers ago, Alejandra followed an expedition of scientists to Greenland’s Inuit Qeqertaat, or Kaffeeklubben (“Coffee Club”) Island. The researchers with her were aiming to find what plants grew at the farthest north point of the island. Along the way, she had an adventure … and witnessed the good, the bad and the muddy realities of scientific expeditions.
+
+_Interested in more exploratory science? Email us your question at [shortwave@npr.org](mailto:shortwave@npr.org)._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at [plus.npr.org/shortwave](http://plus.npr.org/shortwave)._
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR1563581834.mp3?t=podcast&e=nx-s1-5522362&p=510351&d=795&size=12732335" length="12732335" type="audio/mpeg" />
+      <guid>cid://ea0df86b-a06c-4c38-ae02-46db1104dc92</guid>
+    </item>    <item>
       <title>Teens arrested in London preschool ransomware attack</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/07/2_teens_arrested_in_london/</link>
       <description>
@@ -2194,6 +2311,23 @@ The UK&#39;s Home Office is inviting tech suppliers to take part in a £60 milli
 
 Google says its AI-powered security repair tool CodeMender has been helping secure open source projects through automated patch creation, subject to human approval.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242339</guid>
+    </item>    <item>
+      <title>Solved: The Potato Origin Mystery</title>
+      <link>https://www.npr.org/2025/10/07/nx-s1-5526044/potato-origin-mystery-hybrids</link>
+      <description>
+        <![CDATA[Usually, when two different species mate, it’s a disaster. At least, that’s what scientists had generally thought about hybrids, the offspring of these unions. But some researchers are starting to change their view as they learn of more beneficial hybrid events. <em>The Atlantic</em> science journalist <a href="https://www.theatlantic.com/author/katherine-j-wu/"target="_blank"   >Katie Wu</a> details two of these hybridization examples: one in desert frogs and one in two ancient plants that <<fortuitously>> led to the modern potato.<br/><br/><br><em>Interested in more biology episodes? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Usually, when two different species mate, it’s a disaster. At least, that’s what scientists had generally thought about hybrids, the offspring of these unions. But some researchers are starting to change their view as they learn of more beneficial hybrid events. _The Atlantic_ science journalist [Katie Wu](https://www.theatlantic.com/author/katherine-j-wu/) details two of these hybridization examples: one in desert frogs and one in two ancient plants that &#60;\&#62; led to the modern potato.
+
+_Interested in more biology episodes? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR8670047117.mp3?t=podcast&e=nx-s1-5526044&p=510351&d=747&size=11952841" length="11952841" type="audio/mpeg" />
+      <guid>cid://775be7ab-9221-4c98-ba76-91b25c0b69b2</guid>
     </item>    <item>
       <title>Cerebras CEO insists dinner-plate-sized chip startup will still go public</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/06/cerebras_ipo_rest/</link>
@@ -2526,6 +2660,25 @@ Oracle rushed out an emergency fix over the weekend for a zero-day vulnerability
 Qualcomm is facing a UK trial over allegations that it abused its dominant position in the smartphone chipset market to charge inflated license fees, ultimately driving up device prices for Brit consumers.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242302</guid>
     </item>    <item>
+      <title>The Science Of Fear And Horror Movies</title>
+      <link>https://www.npr.org/2025/10/06/nx-s1-5561982/evolution-fear-anxiety-horror-movies</link>
+      <description>
+        <![CDATA[Creepy crawly season is upon us, Short Wavers! We're welcoming fall with a contemplation of fear and anxiety. In human history, fear kept us safe. It helped us flee from predators. Anxiety made us wary of potential dangers — like venturing into a known lion-infested area. But what happens when these feelings get out of hand in humans today? And why do some of us crave that feeling from scary movies or haunted houses?<br/><br/>For answers, we talk to <a href="https://psychiatry.med.wayne.edu/profile/dz0083"target="_blank"   >Arash Javanbakht</a>, a psychiatrist from Wayne State University. He likes studying fear so much he wrote a whole book called <em>Afraid</em>. In this episode, Javanbakht gets into the differences between fear and anxiety, many of the reasons people feel afraid and why things like scary movies could even be therapeutic. (encore)<br/><br/><br><em>Want to know more about the science behind what keeps you up at night? Email us at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em> — we might cover it on a future episode!</em><br/><br/><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Creepy crawly season is upon us, Short Wavers! We&#39;re welcoming fall with a contemplation of fear and anxiety. In human history, fear kept us safe. It helped us flee from predators. Anxiety made us wary of potential dangers — like venturing into a known lion-infested area. But what happens when these feelings get out of hand in humans today? And why do some of us crave that feeling from scary movies or haunted houses?
+
+For answers, we talk to [Arash Javanbakht](https://psychiatry.med.wayne.edu/profile/dz0083), a psychiatrist from Wayne State University. He likes studying fear so much he wrote a whole book called _Afraid_. In this episode, Javanbakht gets into the differences between fear and anxiety, many of the reasons people feel afraid and why things like scary movies could even be therapeutic. (encore)
+
+_Want to know more about the science behind what keeps you up at night? Email us at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _— we might cover it on a future episode!_
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR1817330226.mp3?t=podcast&e=nx-s1-5561982&p=510351&d=825&size=13206719" length="13206719" type="audio/mpeg" />
+      <guid>cid://516c578d-1cc1-41e4-964b-66bb3cfebe25</guid>
+    </item>    <item>
       <title>Techie found an error message so rude the CEO of IBM apologized for it</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/06/who_me/</link>
       <description>
@@ -2803,6 +2956,25 @@ Renault UK customers are being warned their personal data may be in criminal han
 
 **Analysis**  In 2020, the UK&#39;s Office for National Statistics (ONS), which provides data vital to form public sector policy and allocate resources, launched a plan to integrate government data and provide &#34;high quality analysis that reflects the diversity of economic and social experience in our country.&#34;…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242208</guid>
+    </item>    <item>
+      <title>What Are Flies Doing In The Middle Of The Ocean?</title>
+      <link>https://www.npr.org/2025/10/03/nx-s1-5560890/pollen-climate-north-sea-ocean-insects</link>
+      <description>
+        <![CDATA[In the North Sea — between the United Kingdom, Norway and Denmark — thousands of flies swarmed an oil rig. Engineer Craig Hannah noticed they’d stay still on the rig for hours, suddenly taking off all at once. He was seeing hoverflies. Often confused with bees, they’re unsung pollinators. And they migrate, often hundreds of miles – including, it seems, to the middle of the ocean. <br/><br/><br>Today on the show: The mystery of why these insects are landing in the open ocean. Plus, a surprising finding in the Amazon rainforest and the sounds of life in a coral reef. <br/><br/><br><em>Interested in more science behind skincare products? Email us your question at shortwave@npr.org.</em><br/><br/><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>In the North Sea — between the United Kingdom, Norway and Denmark — thousands of flies swarmed an oil rig. Engineer Craig Hannah noticed they’d stay still on the rig for hours, suddenly taking off all at once. He was seeing hoverflies. Often confused with bees, they’re unsung pollinators. And they migrate, often hundreds of miles – including, it seems, to the middle of the ocean.
+
+Today on the show: The mystery of why these insects are landing in the open ocean. Plus, a surprising finding in the Amazon rainforest and the sounds of life in a coral reef.
+
+_Interested in more science behind skincare products? Email us your question at shortwave@npr.org._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR5389543542.mp3?t=podcast&e=nx-s1-5560890&p=510351&d=525&size=8409801" length="8409801" type="audio/mpeg" />
+      <guid>cid://a57bf651-e578-4a9f-9348-d6f536d5f016</guid>
     </item>    <item>
       <title>Energy drink company punished ERP graybeard for going too fast</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/03/on_call/</link>
@@ -3523,6 +3695,25 @@ The government has announced a new &#34;digital hospital&#34; service in England
 **Geek&#39;s Guide**  It&#39;s September and the German city of Munich is celebrating Oktoberfest. But away from the beer tents, schnitzel, and lederhosen lies a set of museums worth visiting for the price of a few beers.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242191</guid>
     </item>    <item>
+      <title>Why Animal Scavengers Protect Your Health</title>
+      <link>https://www.npr.org/2025/10/01/nx-s1-5550344/animal-scavenger-decline-human-health</link>
+      <description>
+        <![CDATA[Worldwide, populations of scavenging animals that feed on rotting carcasses are declining. Scientists are finding that this can seriously hurt human health. NPR science reporter <a href="https://www.npr.org/people/703751120/jonathan-lambert"target="_blank"   >Jonathan Lambert</a> has been looking into how human health is intertwined with scavenging animals and why these animals’ decline could lead to more human disease. Today, he brings all he learned, including how conservation could help, to your earholes.<br/><br/><br><a href="https://www.npr.org/sections/goats-and-soda/2025/07/11/g-s1-77052/vultures-hyenas-and-rabies-scavengers-diclofenac"target="_blank"   ><strong>Check out more</strong></a><strong> of Jon’s reporting on scavengers and human health.</strong><br/><br/><em>Interested in more science behind skincare products? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Worldwide, populations of scavenging animals that feed on rotting carcasses are declining. Scientists are finding that this can seriously hurt human health. NPR science reporter [Jonathan Lambert](https://www.npr.org/people/703751120/jonathan-lambert) has been looking into how human health is intertwined with scavenging animals and why these animals’ decline could lead to more human disease. Today, he brings all he learned, including how conservation could help, to your earholes.
+
+[**Check out more**](https://www.npr.org/sections/goats-and-soda/2025/07/11/g-s1-77052/vultures-hyenas-and-rabies-scavengers-diclofenac) **of Jon’s reporting on scavengers and human health.**
+
+_Interested in more science behind skincare products? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR7609190830.mp3?t=podcast&e=nx-s1-5550344&p=510351&d=584&size=9354807" length="9354807" type="audio/mpeg" />
+      <guid>cid://34c5f35e-66e8-447a-9ef8-972542b9978b</guid>
+    </item>    <item>
       <title>Blockchain just became an utterly mainstream part of the global financial system</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/swift_blockchain_plan/</link>
       <description>
@@ -3971,6 +4162,27 @@ The British government is splashing several million pounds on next-gen aviation 
 **Interview**  It was inevitable that AI would be deployed to help enterprises navigate the labyrinth of modern software licensing, given the complexity and range of options available from the tech giants.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242189</guid>
     </item>    <item>
+      <title>Nature Quest: How High Will Sea Levels Rise?</title>
+      <link>https://www.npr.org/2025/09/30/nx-s1-5518203/ocean-climate-change-flood-sea-level</link>
+      <description>
+        <![CDATA[How high will the ocean rise under climate change? By 2050, scientists have a pretty good idea. But why does it matter where you live? And what can humans do to slow it down? <br><strong>This episode is part of Nature Quest, our monthly segment that brings you a question from a Short Waver who is noticing a change in the world around them.</strong> Our question comes from Peter Lansdale in Santa Cruz, Calif. <br/><br/>To see what future sea levels will look like where you live, check out NOAA’s Sea Level Rise Viewer <a href="https://coast.noaa.gov/slr/#"target="_blank"   >here</a>.<br/><br/><em>Noticed any changes in *your* local environment that you want us to investigate? Send a voice memo to </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em> telling us your name, your location, and the change you’ve noticed – it could be our next Nature Quest episode!</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>How high will the ocean rise under climate change? By 2050, scientists have a pretty good idea. But why does it matter where you live? And what can humans do to slow it down?
+
+**This episode is part of Nature Quest, our monthly segment that brings you a question from a Short Waver who is noticing a change in the world around them.** Our question comes from Peter Lansdale in Santa Cruz, Calif.
+
+To see what future sea levels will look like where you live, check out NOAA’s Sea Level Rise Viewer [here](https://coast.noaa.gov/slr/#).
+
+_Noticed any changes in \*your\* local environment that you want us to investigate? Send a voice memo to_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _telling us your name, your location, and the change you’ve noticed – it could be our next Nature Quest episode!_
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR1039458215.mp3?t=podcast&e=nx-s1-5518203&p=510351&d=722&size=11554944" length="11554944" type="audio/mpeg" />
+      <guid>cid://a66e82ea-88ca-4089-a8a2-2e653f4892f3</guid>
+    </item>    <item>
       <title>VMware bungles cloud management portal upgrade, twice in two weeks</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/30/vmware_cloud_portal_upgrade_problems/</link>
       <description>
@@ -4345,6 +4557,27 @@ The UK government is stepping in with financial support for Jaguar Land Rover, p
       </description>
       <guid>cid://tag:theregister.com,2005:story242134</guid>
     </item>    <item>
+      <title>Why Do Some Hurricane Survivors Thrive After Disaster?</title>
+      <link>https://www.npr.org/2025/09/29/nx-s1-5535581/new-orleans-survivors-mental-health-ptsd-hurricane-katrina-resiliency</link>
+      <description>
+        <![CDATA[You’ve probably heard of PTSD, post-traumatic stress disorder. But what about its counterpart, post-traumatic growth?<br>The term was coined in the 90s to describe the positive psychological growth that researchers documented in people who had been through traumatic or highly stressful life events. Psychologists and sociologists conducting long-range studies on survivors of Hurricane Katrina – which hit 20 years ago and remains one of the most devastating natural disasters to hit the US – are continuing to learn more about it. <br/><br/>So how do you measure post-traumatic growth? Can it co-exist with PTSD? NPR mental health correspondent <a href="https://www.npr.org/people/578890280/rhitu-chatterjee"target="_blank"   >Rhitu Chatterjee</a> explains what scientists have found so far … and how it could help shape disaster relief efforts in the future.<br/><br/><em>Interested in more psychology and social science stories? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>You’ve probably heard of PTSD, post-traumatic stress disorder. But what about its counterpart, post-traumatic growth?
+
+The term was coined in the 90s to describe the positive psychological growth that researchers documented in people who had been through traumatic or highly stressful life events. Psychologists and sociologists conducting long-range studies on survivors of Hurricane Katrina – which hit 20 years ago and remains one of the most devastating natural disasters to hit the US – are continuing to learn more about it.
+
+So how do you measure post-traumatic growth? Can it co-exist with PTSD? NPR mental health correspondent [Rhitu Chatterjee](https://www.npr.org/people/578890280/rhitu-chatterjee) explains what scientists have found so far … and how it could help shape disaster relief efforts in the future.
+
+_Interested in more psychology and social science stories? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR7062870261.mp3?t=podcast&e=nx-s1-5535581&p=510351&d=798&size=12769116" length="12769116" type="audio/mpeg" />
+      <guid>cid://e29a52ae-0216-45e4-82bb-217c7198b5c8</guid>
+    </item>    <item>
       <title>Intern had no idea what not to do, so nearly mangled a mainframe</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/who_me/</link>
       <description>
@@ -4718,6 +4951,25 @@ The post [New Math Revives Geometry’s Oldest Problems](https://www.quantamagaz
         <![CDATA[<h4>Companies must realize they can be more than pure consumers, and public sector ought to go beyond &#39;promotion&#39;</h4> <p><strong>Feature</strong>  It is 2025. Linux will turn 34 and the Free Software Foundation (FSF) 40. For the EU and Europe at large, which is famously <a target="_blank" href="https://www.theregister.com/2013/12/16/munich_signs_off_on_open_source_project">experimental</a> with <a target="_blank" href="https://www.theregister.com/2024/04/04/germanys_northernmost_state_ditches_windows/">government</a> <a target="_blank" href="https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf">deployments</a> of open source tech, behind <a target="_blank" href="https://www.gov.uk/government/publications/open-source-guidance">initiatives</a> to promote <a target="_blank" href="https://commission.europa.eu/about/departments-and-executive-agencies/digital-services/open-source-strategy-history/european-union-public-licence_en">open licensing</a>, and whose governments promote equal opportunity for FOSS vendors in <a target="_blank" href="https://commission.europa.eu/news-and-media/news/european-parliament-and-commission-launch-free-open-source-software-european-public-services-fosseps-2022-02-11_en">public tendering</a>, it&#39;s a crunch point.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
       <guid>cid://tag:theregister.com,2005:story242071</guid>
+    </item>    <item>
+      <title>A Surprising Cause Of Endometriosis Could Lead To Cure</title>
+      <link>https://www.npr.org/2025/09/26/nx-s1-5553487/pain-fertility-endometriosis-immune-system</link>
+      <description>
+        <![CDATA[Since the age of nine or ten, <a href="https://med.uc.edu/depart/eh/directory/entire-directory/Index/Pubs/burns2ki"target="_blank"   >Katie Burns</a> has had debilitating pain from endometriosis, a condition where tissue resembling the uterine lining grows outside the uterus. For years, Katie was in the dark about what was causing her pain. Even after a diagnosis at age 20 it was hard to find relief, or even answers about her condition. Her search for better care is part of what led her to a career studying the disease, which affects tens of millions of people worldwide. And in 2012, she discovered something new about its origins. Today, we talk to Katie and science reporter <a href="https://www.science.org/content/author/meredith-wadman"target="_blank"   >Meredith Wadman</a> about that discovery, which points to a surprising culprit of endometriosis — the immune system.<br/><br/><br><strong>Read Meredith’s full piece in </strong><a href="https://www.science.org/content/article/driven-pain-endometriosis-scientist-uncovering-clues-its-causes"target="_blank"   ><strong>Science Magazine HERE</strong></a><strong>. </strong><br/><br/><br><em>Interested in more health science ? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Since the age of nine or ten, [Katie Burns](https://med.uc.edu/depart/eh/directory/entire-directory/Index/Pubs/burns2ki) has had debilitating pain from endometriosis, a condition where tissue resembling the uterine lining grows outside the uterus. For years, Katie was in the dark about what was causing her pain. Even after a diagnosis at age 20 it was hard to find relief, or even answers about her condition. Her search for better care is part of what led her to a career studying the disease, which affects tens of millions of people worldwide. And in 2012, she discovered something new about its origins. Today, we talk to Katie and science reporter [Meredith Wadman](https://www.science.org/content/author/meredith-wadman) about that discovery, which points to a surprising culprit of endometriosis — the immune system.
+
+**Read Meredith’s full piece in** [**Science Magazine HERE**](https://www.science.org/content/article/driven-pain-endometriosis-scientist-uncovering-clues-its-causes) **.**
+
+_Interested in more health science ? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR9955689173.mp3?t=podcast&e=nx-s1-5553487&p=510351&d=809&size=12953854" length="12953854" type="audio/mpeg" />
+      <guid>cid://ad7c4b28-e2e2-40fb-a5bf-137e8b9b7b20</guid>
     </item>    <item>
       <title>Hardware inspector fired for spotting an error he wasn&#39;t trained to find</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/on_call/</link>
