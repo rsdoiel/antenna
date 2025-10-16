@@ -30,7 +30,3 @@ title: Planet News
 - [Vatican Obervatory](https://www.vaticanobservatory.org/feed/)
 - [Vatican News](https://www.vaticannews.va/en.rss.xml)
 
-# German Lanuguage news
-
-- [Heise Online](https://www.heise.de/rss/heise-atom.xml)
-
