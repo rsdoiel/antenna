@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>15 Oct 25 15:10 -0700</lastBuildDate>
+    <lastBuildDate>16 Oct 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,432 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>ICE, Secret Service, Navy All Had Access to Flock&#39;s Nationwide Network of Cameras</title>
+      <link>https://www.404media.co/ice-secret-service-navy-all-had-access-to-flocks-nationwide-network-of-cameras/</link>
+      <description>
+        <![CDATA[Flock has built a nationwide surveillance network of AI-powered cameras and given many more federal agencies access. Senator Ron Wyden told Flock “abuses of your product are not only likely but inevitable” and Flock “is unable and uninterested in preventing them.”]]>
+      </description>
+      <source:markdown>Flock has built a nationwide surveillance network of AI-powered cameras and given many more federal agencies access. Senator Ron Wyden told Flock “abuses of your product are not only likely but inevitable” and Flock “is unable and uninterested in preventing them.”</source:markdown>
+      <guid>cid://68f007e28c558000013669eb</guid>
+    </item>    <item>
+      <title>Am I the Literary Asshole for Letting AI Fix My Writing?</title>
+      <link>https://lithub.com/am-i-the-literary-asshole-for-letting-ai-fix-my-writing/</link>
+      <description>
+        <![CDATA[Hey there, hi there, hello there! Welcome back to everyone’s favorite drunken advice column. That’s right, it’s once again time for Am I the Literary Asshole?, which is a lot like Reading Rainbow, if Reading Rainbow had a drinking game]]>
+      </description>
+      <source:markdown>Hey there, hi there, hello there! Welcome back to everyone’s favorite drunken advice column. That’s right, it’s once again time for Am I the Literary Asshole?, which is a lot like Reading Rainbow, if Reading Rainbow had a drinking game</source:markdown>
+      <guid>cid://https://lithub.com/?p=261250</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115383891391379910</link>
+      <description>
+        <![CDATA[<p>Details on Greta’s torture at the hands of the Israelis:</p><p><a href="https://www.aftonbladet.se/nyheter/a/25LgKq/greta-thunberg-they-kicked-me-every-time-the-flag-touched-my-face" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">aftonbladet.se/nyheter/a/25LgK</span><span class="invisible">q/greta-thunberg-they-kicked-me-every-time-the-flag-touched-my-face</span></a></p>]]>
+      </description>
+      <source:markdown>Details on Greta’s torture at the hands of the Israelis:
+
+[https://www.aftonbladet.se/nyheter/a/25LgKq/greta-thunberg-they-kicked-me-every-time-the-flag-touched-my-face](https://www.aftonbladet.se/nyheter/a/25LgKq/greta-thunberg-they-kicked-me-every-time-the-flag-touched-my-face)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115383891391379910</guid>
+    </item>    <item>
+      <title>Good morning from Ottawa</title>
+      <link>http://scripting.com/2025/10/16/123053.html?title=goodMorningFromOttawa</link>
+      <description>
+        <![CDATA[<p>Here's the <a href="https://bullets.opml.org/?url=https://drummer.land/dave.winer@gmail.com/wordcampSlides.opml">link to the slides</a> promised below. </p>
+        <p>I've been going back and forth on slides. I always do this. In the end I hate slides because I digress while going through them and skip ahead, end up wishing I hadn't used them. So I decided to compromise. I'll do the first three in some detail, and digress and go down tangents as I see fit. </p>
+        <p>The three main slides.</p>
+        <ol>
+        <li>Accomplishments of WordPress. </li>
+        <li>Why podcasting retained its independence. </li>
+        <li>Demo of WordLand. </li>
+        </ol>
+        <p>There were 20 or 30 more slides after that. </p>
+        <p>So what I'll do is this. Present the first two in some detail, then page through the rest quickly and come back and do the demo. Also publish a link to the deck on my blog so people can scroll through them at their leisure. And once the demo is done, I'll answer questions. </p>
+        <p>I have an idea that we can have a blogosphere that is as functional as podcasting. We just need users to get started, to get the idea off the ground. We don't have to accept the limits, we can have the full web if we want it. </p>]]>
+      </description>
+      <source:markdown>Here&#39;s the [link to the slides](https://bullets.opml.org/?url=https://drummer.land/dave.winer@gmail.com/wordcampSlides.opml) promised below.
+
+I&#39;ve been going back and forth on slides. I always do this. In the end I hate slides because I digress while going through them and skip ahead, end up wishing I hadn&#39;t used them. So I decided to compromise. I&#39;ll do the first three in some detail, and digress and go down tangents as I see fit.
+
+The three main slides.
+
+1. Accomplishments of WordPress.
+2. Why podcasting retained its independence.
+3. Demo of WordLand.
+
+There were 20 or 30 more slides after that.
+
+So what I&#39;ll do is this. Present the first two in some detail, then page through the rest quickly and come back and do the demo. Also publish a link to the deck on my blog so people can scroll through them at their leisure. And once the demo is done, I&#39;ll answer questions.
+
+I have an idea that we can have a blogosphere that is as functional as podcasting. We just need users to get started, to get the idea off the ground. We don&#39;t have to accept the limits, we can have the full web if we want it.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/16/123053.html</guid>
+    </item>    <item>
+      <title>The Space Exploration Logo Archive</title>
+      <link>https://kottke.org/25/10/the-space-exploration-logo-archive</link>
+      <guid>cid://tag:kottke.org,2025://5.47714</guid>
+    </item>    <item>
+      <title>Used, Misled, and Doubting What’s Real</title>
+      <link>https://onefoottsunami.com/2025/10/16/chatfishing-is-quite-the-neologism/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29299</guid>
+    </item>    <item>
+      <title>Generative AI in the Real World: Context Engineering with Drew Breunig</title>
+      <link>https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-context-engineering-with-drew-breunig/</link>
+      <description>
+        <![CDATA[In this episode, Ben Lorica and Drew Breunig, a strategist at the Overture Maps Foundation, talk all things context engineering: what’s working, where things are breaking down, and what comes next. Listen in to hear why huge context windows aren’t solving the problems we hoped they might, why companies shouldn’t discount evals and testing, and [&#8230;]]]>
+      </description>
+      <source:markdown>In this episode, Ben Lorica and Drew Breunig, a strategist at the Overture Maps Foundation, talk all things context engineering: what’s working, where things are breaking down, and what comes next. Listen in to hear why huge context windows aren’t solving the problems we hoped they might, why companies shouldn’t discount evals and testing, and \[…\]</source:markdown>
+      <enclosure url="https://cdn.oreillystatic.com/radar/generative-ai-real-world-podcast/GenAI_in_the_Real_World_with_Drew_Breunig.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.oreilly.com/radar/?post_type=podcast&#38;p=17562</guid>
+    </item>    <item>
+      <title>Cryptocurrency ATMs</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/cryptocurrency-atms.html</link>
+      <description>
+        <![CDATA[<p>CNN has a <a href="https://www.cnn.com/interactive/2025/10/us/crypto-atm-scams-companies-profit-invs-vis/">great piece</a> about how cryptocurrency ATMs are used to scam people out of their money. The fees are usurious, and they&#8217;re a common place for scammers to send victims to buy cryptocurrency for them. The companies behind the ATMs, at best, do not care about the harm they cause; the profits are just too good.</p>]]>
+      </description>
+      <source:markdown>CNN has a [great piece](https://www.cnn.com/interactive/2025/10/us/crypto-atm-scams-companies-profit-invs-vis/) about how cryptocurrency ATMs are used to scam people out of their money. The fees are usurious, and they’re a common place for scammers to send victims to buy cryptocurrency for them. The companies behind the ATMs, at best, do not care about the harm they cause; the profits are just too good.</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=71010</guid>
+    </item>    <item>
+      <title>We Can Do This</title>
+      <link>https://www.borowitzreport.com/p/we-can-do-this</link>
+      <description>
+        <![CDATA[Time to declare our independence.]]>
+      </description>
+      <source:markdown>Time to declare our independence.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!-7XL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffdd26687-554d-47f8-917a-623ca32396cf_1024x683.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/we-can-do-this</guid>
+    </item>    <item>
+      <title>The Small Web 101</title>
+      <link>https://xn--gckvb8fzb.com/the-small-web-101/</link>
+      <description>
+        <![CDATA[The Small Web 101]]>
+      </description>
+      <source:markdown>The Small Web 101</source:markdown>
+      <author>marius@xn--gckvb8fzb.com (Marius)</author>
+      <guid>cid:///the-small-web-101/</guid>
+    </item>    <item>
+      <title>Firefox 144 brings fixes, features, and farewells for 32-bit Linux die-hards</title>
+      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/10/16/firefox_and_tbird_144/</link>
+      <description>
+        <![CDATA[<h4>Mozilla hardens its browser and toys with AI search while closing the door on legacy systems</h4>
+              <p>New versions of both Mozilla&#39;s browser and its subsidiary MZLA&#39;s messaging client are here – with some bad news for users of older kit.</p>]]>
+      </description>
+      <source:markdown>#### Mozilla hardens its browser and toys with AI search while closing the door on legacy systems
+
+New versions of both Mozilla&#39;s browser and its subsidiary MZLA&#39;s messaging client are here – with some bad news for users of older kit.</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242491</guid>
+    </item>    <item>
+      <title>Medical Leave Day</title>
+      <link>https://paulkrugman.substack.com/p/medical-leave-day</link>
+      <description>
+        <![CDATA[No crises please, I'm busy]]>
+      </description>
+      <source:markdown>No crises please, I&#39;m busy</source:markdown>
+      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/MWRJEKkI6-A" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/medical-leave-day</guid>
+    </item>    <item>
+      <title>Lit Hub Daily: October 16, 2025</title>
+      <link>https://lithub.com/lit-hub-daily-october-16-2025/</link>
+      <description>
+        <![CDATA[Chris Kraus on researching the the Nagamo Trail Murder and how crime writing acts as an entry to a disconcerted community. &#124; Lit Hub Craft “He could not imagine then that I would write in order to find him.” Hester]]>
+      </description>
+      <source:markdown>Chris Kraus on researching the the Nagamo Trail Murder and how crime writing acts as an entry to a disconcerted community. \| Lit Hub Craft “He could not imagine then that I would write in order to find him.” Hester</source:markdown>
+      <guid>cid://https://lithub.com/?p=261200</guid>
+    </item>    <item>
+      <title>V7: Video Killed the Web Browser Star | Rob Weychert</title>
+      <link>https://v7.robweychert.com/blog/2025/10/v7-video/</link>
+      <description>
+        <![CDATA[<p>Grrr… it turns out that browsers exhibit some very frustrating behaviour when it comes to the <code>video</code> element. Rob has the details…</p>
+        
+        <p><a href="https://adactio.com/links/22194">adactio.com/links/22194</a></p>]]>
+      </description>
+      <source:markdown>Grrr… it turns out that browsers exhibit some very frustrating behaviour when it comes to the `video` element. Rob has the details…
+
+[adactio.com/links/22194](https://adactio.com/links/22194)</source:markdown>
+      <guid>cid://https://v7.robweychert.com/blog/2025/10/v7-video/</guid>
+    </item>    <item>
+      <title>The present and potential future of progressive image rendering - JakeArchibald.com</title>
+      <link>https://jakearchibald.com/2025/present-and-future-of-progressive-image-rendering/</link>
+      <description>
+        <![CDATA[<blockquote>
+          <p>When I set about writing this article, I intended it to be a strong argument for progressive rendering. But after digging into it, my feelings are less certain.</p>
+        </blockquote>
+        
+        <p><a href="https://adactio.com/links/22193">adactio.com/links/22193</a></p>]]>
+      </description>
+      <source:markdown>&#62; When I set about writing this article, I intended it to be a strong argument for progressive rendering. But after digging into it, my feelings are less certain.
+
+[adactio.com/links/22193](https://adactio.com/links/22193)</source:markdown>
+      <guid>cid://https://jakearchibald.com/2025/present-and-future-of-progressive-image-rendering/</guid>
+    </item>    <item>
+      <title>Chris Kraus on How Crime Writing Can Be an Entry To a Shattered Community</title>
+      <link>https://lithub.com/chris-kraus-on-how-crime-writing-can-be-an-entry-to-a-shattered-community/</link>
+      <description>
+        <![CDATA[As soon as I read the newspaper account of the Nagamo Trail Murder in January 2019, I knew that I wanted to write about it. I’d been spending summers in northern Minnesota for more than a decade. At least once]]>
+      </description>
+      <source:markdown>As soon as I read the newspaper account of the Nagamo Trail Murder in January 2019, I knew that I wanted to write about it. I’d been spending summers in northern Minnesota for more than a decade. At least once</source:markdown>
+      <guid>cid://https://lithub.com/?p=260927</guid>
+    </item>    <item>
+      <title>5 Book Reviews You Need to Read This Week</title>
+      <link>https://lithub.com/5-book-reviews-you-need-to-read-this-week-10-16-2025/</link>
+      <description>
+        <![CDATA[Our bevy of brilliant reviews this week includes David Canfield on Brandon Taylor’s Minor Black Figures, Ron Charles on Mitch Albom’s Twice, Ian McGuire on Adam Johnson’s The Wayfinder, Randy Boyagoda on Woody Allen’s What’s With Baum?, and David Schurman]]>
+      </description>
+      <source:markdown>Our bevy of brilliant reviews this week includes David Canfield on Brandon Taylor’s Minor Black Figures, Ron Charles on Mitch Albom’s Twice, Ian McGuire on Adam Johnson’s The Wayfinder, Randy Boyagoda on Woody Allen’s What’s With Baum?, and David Schurman</source:markdown>
+      <guid>cid://https://lithub.com/?p=261212</guid>
+    </item>    <item>
+      <title>The Annotated Nightstand: What Susan Orlean Is Reading Now, and Next</title>
+      <link>https://lithub.com/the-annotated-nightstand-what-susan-orlean-is-reading-now-and-next/</link>
+      <description>
+        <![CDATA[About a decade ago, my bedroom was kitty corner to Susan Orlean’s—the iconic New Yorker writer and (years later) viral peak-COVID tweeter. I was at a residency scribbling poems, Orlean mapping out The Library Book. An article Orlean had written]]>
+      </description>
+      <source:markdown>About a decade ago, my bedroom was kitty corner to Susan Orlean’s—the iconic New Yorker writer and (years later) viral peak-COVID tweeter. I was at a residency scribbling poems, Orlean mapping out The Library Book. An article Orlean had written</source:markdown>
+      <guid>cid://https://lithub.com/?p=260918</guid>
+    </item>    <item>
+      <title>Biography of a Biographer: Searching For My Father on Mark Twain’s Farm</title>
+      <link>https://lithub.com/biography-of-a-biographer-searching-for-my-father-on-mark-twains-farm/</link>
+      <description>
+        <![CDATA[On my first night at Quarry Farm in Elmira, New York where Mark Twain and his family spent their summers beginning in 1871, I watched lighting splitting the sky above the Chemung River Valley visible through the window at the]]>
+      </description>
+      <source:markdown>On my first night at Quarry Farm in Elmira, New York where Mark Twain and his family spent their summers beginning in 1871, I watched lighting splitting the sky above the Chemung River Valley visible through the window at the</source:markdown>
+      <guid>cid://https://lithub.com/?p=260784</guid>
+    </item>    <item>
+      <title>Anatomy of a Lynching: Racist Retribution in Owensboro, Kentucky</title>
+      <link>https://lithub.com/anatomy-of-a-lynching-racist-retribution-in-owensboro-kentucky/</link>
+      <description>
+        <![CDATA[On Sunday, June 7, 1936, the body of seventy-year-old Lischia Edwards, a widow and mother to a University of Kentucky professor, was found dead in her upstairs apartment in Owensboro. Edwards had been raped and strangled. Edwards rented a room]]>
+      </description>
+      <source:markdown>On Sunday, June 7, 1936, the body of seventy-year-old Lischia Edwards, a widow and mother to a University of Kentucky professor, was found dead in her upstairs apartment in Owensboro. Edwards had been raped and strangled. Edwards rented a room</source:markdown>
+      <guid>cid://https://lithub.com/?p=260832</guid>
+    </item>    <item>
+      <title>What the Picture Knows: Books That Seamlessly Blend Text and Image</title>
+      <link>https://lithub.com/what-the-picture-knows-books-that-seamlessly-blend-text-and-image/</link>
+      <description>
+        <![CDATA[According to linguist David Crystal, once a person has learned to read, it is almost impossible to process the graphic marks that make up a letter as anything but a letter. At some point, we stop looking and start reading.]]>
+      </description>
+      <source:markdown>According to linguist David Crystal, once a person has learned to read, it is almost impossible to process the graphic marks that make up a letter as anything but a letter. At some point, we stop looking and start reading.</source:markdown>
+      <guid>cid://https://lithub.com/?p=260732</guid>
+    </item>    <item>
+      <title>“Babycatcher”</title>
+      <link>https://lithub.com/babycatcher/</link>
+      <description>
+        <![CDATA[The middle-aged couple drove from the suburbs of their mid-western city—maybe Dayton, Indianapolis, or Detroit (it barely matters which one; so many couples from so many Mid-American cities had made the same drive)—to meet the man called the Babycatcher. They]]>
+      </description>
+      <source:markdown>The middle-aged couple drove from the suburbs of their mid-western city—maybe Dayton, Indianapolis, or Detroit (it barely matters which one; so many couples from so many Mid-American cities had made the same drive)—to meet the man called the Babycatcher. They</source:markdown>
+      <guid>cid://https://lithub.com/?p=259093</guid>
+    </item>    <item>
+      <title>My aging, Trump’s aging</title>
+      <link>https://robertreich.substack.com/p/my-aging-trumps-aging</link>
+      <description>
+        <![CDATA[He&#8217;s 10 days older than I am, but I'm years younger. Here's why.]]>
+      </description>
+      <source:markdown>He’s 10 days older than I am, but I&#39;m years younger. Here&#39;s why.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!PMPF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F883b2fde-c4a3-4f1c-8ce9-46b568c16a09_3500x2032.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/my-aging-trumps-aging</guid>
+    </item>    <item>
+      <title>Jelani Cobb on Race, Politics, and the ‘Trayvon Martin Generation’</title>
+      <link>https://lithub.com/jelani-cobb-on-race-politics-and-the-trayvon-martin-generation/</link>
+      <description>
+        <![CDATA[New Yorker staff writer Jelani Cobb joins co-hosts Whitney Terrell and V.V. Ganeshananthan to discuss his new essay collection, Three or More is a Riot: Notes on How We Got Here: 2012-2025. Cobb recalls how he began the project by]]>
+      </description>
+      <source:markdown>New Yorker staff writer Jelani Cobb joins co-hosts Whitney Terrell and V.V. Ganeshananthan to discuss his new essay collection, Three or More is a Riot: Notes on How We Got Here: 2012-2025. Cobb recalls how he began the project by</source:markdown>
+      <guid>cid://https://lithub.com/?p=229765</guid>
+    </item>    <item>
+      <title>chart: which host, which protocol</title>
+      <link>https://daniel.haxx.se/blog/2025/10/16/chart-which-host-which-protocol/</link>
+      <description>
+        <![CDATA[A flow chart describing some steps and decisions done within curl when a HTTP URL is provided. For hostnames, protocol and port numbers. This flow chart ignores proxies, authentication considerations and use of unix domain sockets to keep things simpler. URL An initial step is of course to extract the hostname part from the URL. &#8230; <a href="https://daniel.haxx.se/blog/2025/10/16/chart-which-host-which-protocol/" class="more-link">Continue reading <span class="screen-reader-text">chart: which host, which protocol</span> <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>A flow chart describing some steps and decisions done within curl when a HTTP URL is provided. For hostnames, protocol and port numbers. This flow chart ignores proxies, authentication considerations and use of unix domain sockets to keep things simpler. URL An initial step is of course to extract the hostname part from the URL. … [Continue reading chart: which host, which protocol→](https://daniel.haxx.se/blog/2025/10/16/chart-which-host-which-protocol/)</source:markdown>
+      <guid>cid://https://daniel.haxx.se/blog/?p=27166</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m3c2qbhsmc22</link>
+      <description>
+        <![CDATA[Handy Info this weekend. 😎
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>Handy Info this weekend. 😎
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m3c2qbhsmc22</guid>
+    </item>    <item>
+      <title>NVIDIA DGX Spark + Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0</title>
+      <link>https://simonwillison.net/2025/Oct/16/nvidia-dgx-spark-apple-mac-studio/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://blog.exolabs.net/nvidia-dgx-spark">NVIDIA DGX Spark + Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0</a></strong></p>
+        EXO Labs wired a 256GB M3 Ultra Mac Studio up to an NVIDIA DGX Spark and got a 2.8x performance boost serving Llama-3.1 8B (FP16) with an 8,192 token prompt.</p>
+        <p>Their detailed explanation taught me a lot about LLM performance.</p>
+        <p>There are two key steps in executing a prompt. The first is the <strong>prefill</strong> phase that reads the incoming prompt and builds a KV cache for each of the transformer layers in the model. This is compute-bound as it needs to process every token in the input and perform large matrix multiplications across all of the layers to initialize the model's internal state.</p>
+        <p>Performance in the prefill stage influences TTFT - time‑to‑first‑token.</p>
+        <p>The second step is the <strong>decode</strong> phase, which generates the output one token at a time. This part is limited by memory bandwidth - there's less arithmetic, but each token needs to consider the entire KV cache.</p>
+        <p>Decode performance influences TPS - tokens per second.</p>
+        <p>EXO noted that the Spark has 100 TFLOPS but only 273GB/s of memory bandwidth, making it a better fit for prefill. The M3 Ultra has 26 TFLOPS but 819GB/s of memory bandwidth, making it ideal for the decode phase.</p>
+        <p>They run prefill on the Spark, streaming the KV cache to the Mac over 10Gb Ethernet. They can start streaming earlier layers while the later layers are still being calculated. Then the Mac runs the decode phase, returning tokens faster than if the Spark had run the full process end-to-end.
+        
+            <p><small></small>Via <a href="https://twitter.com/exolabs/status/1978525767739883736">@exolabs</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/apple">apple</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/nvidia">nvidia</a></p>]]>
+      </description>
+      <source:markdown>**[NVIDIA DGX Spark + Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0](https://blog.exolabs.net/nvidia-dgx-spark)**
+
+EXO Labs wired a 256GB M3 Ultra Mac Studio up to an NVIDIA DGX Spark and got a 2.8x performance boost serving Llama-3.1 8B (FP16) with an 8,192 token prompt.
+
+Their detailed explanation taught me a lot about LLM performance.
+
+There are two key steps in executing a prompt. The first is the **prefill** phase that reads the incoming prompt and builds a KV cache for each of the transformer layers in the model. This is compute-bound as it needs to process every token in the input and perform large matrix multiplications across all of the layers to initialize the model&#39;s internal state.
+
+Performance in the prefill stage influences TTFT - time‑to‑first‑token.
+
+The second step is the **decode** phase, which generates the output one token at a time. This part is limited by memory bandwidth - there&#39;s less arithmetic, but each token needs to consider the entire KV cache.
+
+Decode performance influences TPS - tokens per second.
+
+EXO noted that the Spark has 100 TFLOPS but only 273GB/s of memory bandwidth, making it a better fit for prefill. The M3 Ultra has 26 TFLOPS but 819GB/s of memory bandwidth, making it ideal for the decode phase.
+
+They run prefill on the Spark, streaming the KV cache to the Mac over 10Gb Ethernet. They can start streaming earlier layers while the later layers are still being calculated. Then the Mac runs the decode phase, returning tokens faster than if the Spark had run the full process end-to-end.
+
+
+
+Via [@exolabs](https://twitter.com/exolabs/status/1978525767739883736)
+
+Tags: [apple](https://simonwillison.net/tags/apple), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [local-llms](https://simonwillison.net/tags/local-llms), [llms](https://simonwillison.net/tags/llms), [nvidia](https://simonwillison.net/tags/nvidia)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/16/nvidia-dgx-spark-apple-mac-studio/#atom-everything</guid>
+    </item>    <item>
+      <link>https://www.rawstory.com/stephen-miran-2674203372/</link>
+      <description>
+        <![CDATA[<p>Trump-appointed Fed official uncorks stunning admission on president’s economy.</p>]]>
+      </description>
+      <source:markdown>Trump-appointed Fed official uncorks stunning admission on president’s economy.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/16/1543/</guid>
+    </item>    <item>
+      <title>October 15, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-15-2025</link>
+      <description>
+        <![CDATA[Today the Supreme Court heard arguments in the case of Louisiana v.]]>
+      </description>
+      <source:markdown>Today the Supreme Court heard arguments in the case of Louisiana v.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-15-2025</guid>
+    </item>    <item>
+      <title>Quoting Riana Pfefferkorn</title>
+      <link>https://simonwillison.net/2025/Oct/16/riana-pfefferkorn/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="https://cyberlaw.stanford.edu/blog/2025/10/whos-submitting-ai-tainted-filings-in-court/"><p>Pro se litigants [people representing themselves in court without a lawyer] account for the majority of the cases in the United States where a party submitted a court filing containing AI hallucinations. In a country where legal representation is <a href="https://law.stanford.edu/2024/06/13/justice-for-all-why-we-have-an-access-to-justice-gap-in-america-and-what-can-we-do-about-it/">unaffordable</a> for most people, it is no wonder that pro se litigants are depending on free or low-cost AI tools. But it is a scandal that so many have been betrayed by them, to the detriment of the cases they are litigating all on their own.</p></blockquote>
+        <p class="cite">&mdash; <a href="https://cyberlaw.stanford.edu/blog/2025/10/whos-submitting-ai-tainted-filings-in-court/">Riana Pfefferkorn</a>, analyzing the <a href="https://www.damiencharlotin.com/hallucinations/">AI Hallucination Cases</a> database for CIS at Stanford Law</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/law">law</a>, <a href="https://simonwillison.net/tags/hallucinations">hallucinations</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>]]>
+      </description>
+      <source:markdown>&#62; Pro se litigants \[people representing themselves in court without a lawyer\] account for the majority of the cases in the United States where a party submitted a court filing containing AI hallucinations. In a country where legal representation is [unaffordable](https://law.stanford.edu/2024/06/13/justice-for-all-why-we-have-an-access-to-justice-gap-in-america-and-what-can-we-do-about-it/) for most people, it is no wonder that pro se litigants are depending on free or low-cost AI tools. But it is a scandal that so many have been betrayed by them, to the detriment of the cases they are litigating all on their own.
+
+— [Riana Pfefferkorn](https://cyberlaw.stanford.edu/blog/2025/10/whos-submitting-ai-tainted-filings-in-court/), analyzing the [AI Hallucination Cases](https://www.damiencharlotin.com/hallucinations/) database for CIS at Stanford Law
+
+Tags: [ai-ethics](https://simonwillison.net/tags/ai-ethics), [generative-ai](https://simonwillison.net/tags/generative-ai), [law](https://simonwillison.net/tags/law), [hallucinations](https://simonwillison.net/tags/hallucinations), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/16/riana-pfefferkorn/#atom-everything</guid>
+    </item>    <item>
+      <title>Coding without typing the code</title>
+      <link>https://simonwillison.net/2025/Oct/16/coding-without-typing-the-code/#atom-everything</link>
+      <description>
+        <![CDATA[<p>Last year the most useful exercise for getting a feel for how good LLMs were at writing code was vibe coding (before that name had even been coined) - seeing if you could create a useful small application through prompting alone.</p>
+        <p>Today I think there's a new, more ambitious and significantly more intimidating exercise: spend a day working on <strong>real production code</strong> through prompting alone, making no manual edits yourself.</p>
+        <p>This doesn't mean you can't control exactly what goes into each file - you can even tell the model "update line 15 to use this instead" if you have to - but it's a great way to get more of a feel for how well the latest coding agents can wield their edit tools.</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>]]>
+      </description>
+      <source:markdown>Last year the most useful exercise for getting a feel for how good LLMs were at writing code was vibe coding (before that name had even been coined) - seeing if you could create a useful small application through prompting alone.
+
+Today I think there&#39;s a new, more ambitious and significantly more intimidating exercise: spend a day working on **real production code** through prompting alone, making no manual edits yourself.
+
+This doesn&#39;t mean you can&#39;t control exactly what goes into each file - you can even tell the model &#34;update line 15 to use this instead&#34; if you have to - but it&#39;s a great way to get more of a feel for how well the latest coding agents can wield their edit tools.
+
+Tags: [coding-agents](https://simonwillison.net/tags/coding-agents), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [generative-ai](https://simonwillison.net/tags/generative-ai), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/16/coding-without-typing-the-code/#atom-everything</guid>
+    </item>    <item>
+      <title>&#38;#8220;&#38;#8216;Take on Me&#38;#8217; is an ideal song for Song Exploder, because it&#38;#8217;s...</title>
+      <link>https://kottke.org/25/10/0047712-take-on-me-is-an</link>
+      <guid>cid://tag:kottke.org,2025://13.47712</guid>
+    </item>    <item>
+      <title>65 Essential Children&#38;#8217;s Books, from The Story of Ferdinand and Caps for...</title>
+      <link>https://kottke.org/25/10/0047711-65-essential-childrens-bo</link>
+      <guid>cid://tag:kottke.org,2025://13.47711</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/altusds.altgov.info/post/3m3bncr2yyc2u</link>
+      <description>
+        <![CDATA[DC-based friends: come out and support hard working FEMA staff. Like all of us who have worked in civil service, they just want to do their (very critical) work in peace.
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>DC-based friends: come out and support hard working FEMA staff. Like all of us who have worked in civil service, they just want to do their (very critical) work in peace.
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:fuovrvjiloafdym65x3oloqc/app.bsky.feed.post/3m3bncr2yyc2u</guid>
+    </item>    <item>
+      <title>Richard Feynman: Fire Is Stored Sunshine</title>
+      <link>https://kottke.org/25/10/richard-feynman-fire-is-stored-sunshine-1</link>
+      <guid>cid://tag:kottke.org,2025://5.47710</guid>
+    </item>    <item>
+      <title>Where&#38;#8217;s the AI design renaissance? &#38;#8220;My hunch: vibe coding is a lot...</title>
+      <link>https://kottke.org/25/10/0047704-wheres-the-ai-design-rena</link>
+      <guid>cid://tag:kottke.org,2025://13.47704</guid>
+    </item>    <item>
+      <title>Why does a Local AI Voice Agent Running on a Super-Cheap Soc Matter?</title>
+      <link>https://petewarden.com/2025/10/16/why-does-a-local-ai-voice-agent-running-on-a-super-cheap-soc-matter/</link>
+      <description>
+        <![CDATA[Most recent news about AI seems to involve staggering amounts of money. OpenAI and Nvidia sign a $100b data center contract. Meta offers researchers $100m salaries. VCs invested almost $200b in AI startups in the first half of 2025. Frankly, I think we’re in a massive bubble that dwarfs the dot-com boom, and we’ll look [&#8230;]]]>
+      </description>
+      <source:markdown>Most recent news about AI seems to involve staggering amounts of money. OpenAI and Nvidia sign a $100b data center contract. Meta offers researchers $100m salaries. VCs invested almost $200b in AI startups in the first half of 2025. Frankly, I think we’re in a massive bubble that dwarfs the dot-com boom, and we’ll look \[…\]</source:markdown>
+      <guid>cid://http://petewarden.com/?p=8086</guid>
+    </item>    <item>
+      <link>https://podcasts.apple.com/us/podcast/how-russell-vought-broke-the-u-s-government/id268213039?i=1000730035128</link>
+      <description>
+        <![CDATA[<p>How Russell Vought Broke the U.S. Government. Totally worth a listen. Also totally depressing.</p>]]>
+      </description>
+      <source:markdown>How Russell Vought Broke the U.S. Government. Totally worth a listen. Also totally depressing.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/15/1541/</guid>
+    </item>    <item>
+      <title>609. Nelson: The Gathering Storm (Part 2)</title>
+      <link>https://therestishistory.com/609-nelson-the-gathering-storm-part-2/</link>
+      <description>
+        <![CDATA[<p>After two years at sea, what happened when Horatio Nelson &#8211; now Britain’s most celebrated naval commander &#8211; finally returned home, to his wife and father? Following his involvement in the poisonous politics of Naples, his terrible treatment of the Jacobite rebels, and starting an affair with the notorious Lady Emma Hamilton, how was Nelson [&#8230;]</p>
+        <p>The post <a href="https://therestishistory.com/609-nelson-the-gathering-storm-part-2/">609. Nelson: The Gathering Storm (Part 2)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>]]>
+      </description>
+      <source:markdown>After two years at sea, what happened when Horatio Nelson – now Britain’s most celebrated naval commander – finally returned home, to his wife and father? Following his involvement in the poisonous politics of Naples, his terrible treatment of the Jacobite rebels, and starting an affair with the notorious Lady Emma Hamilton, how was Nelson \[…\]
+
+The post [609\. Nelson: The Gathering Storm (Part 2)](https://therestishistory.com/609-nelson-the-gathering-storm-part-2/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
+      <guid>cid://https://therestishistory.com/609-nelson-the-gathering-storm-part-2/</guid>
+    </item>    <item>
+      <title>2025-10-14 Israel: So that we won’t say we didn’t know</title>
+      <link>https://alexschroeder.ch/view/2025-10-14-israel</link>
+      <description>
+        <![CDATA[<h1 id="2025-10-14-israel-so-that-we-won-t-say-we-didn-t-know">2025-10-14 Israel: So that we won’t say we didn’t know</h1>
+        
+        <p>We are <a href="2025-portugal">travelling through Portugal these days</a>. I brought a bunch of newspapers along – to read should I manage to put down the phone. I just read <a href="https://www.woz.ch/2540/zwei-jahre-nach-dem-7-oktober/kollidierende-realitaeten/!42Q5MHJSN52K">Kollidierende Realitäten</a>, starting with a <a href="https://www.btselem.org/">B’Tselem</a> meeting, with quotes from <a href="https://en.wikipedia.org/wiki/Yuli_Novak">Yuli Novak</a>. She says she assumes 95% don’t know about their report, <a href="https://www.btselem.org/publications/202507_our_genocide">Our Genocide</a>.</p>
+        
+        <p>I see Israelis trying to so the right thing and I am reminded of the time I stood at the Paradeplatz in Zürich during lunch hours, “for a just peace in Palestine.” It was <a href="2006-07-15_Electronic_Intifada_has_reports_from_Lebanon">so long ago</a>. It didn’t help. The vigils are still <a href="https://swiss-palestine-network.ch/de/wer-sind-wir/61-mahnwache-zuerich">ongoing</a>. I no longer go.</p>
+        
+        <p>Adi Argov from <a href="https://www.thedailyfile.org/">The Daily File</a> has the last word in the article: “How can the Palestinians forgive what we have done to them? Only our grandchildren might one day know.” (Translation mine.)</p>
+        
+        <p>Apparently the Israelis are so unaware of what they are doing, so certain of what their friends and family in the army are saying, of what the mainstream media are saying, of what the government is saying, that they can only explain the horror the rest of the world is expressing as anti-semitism. I’m guessing that one day they will say, like so many Germans did: “I did not know!” And they will learn, like the Germans did, that this legacy will be hard to shake. Like I once heard in <a href="https://youtube.com/watch?v=Ifh1yx8d83Y">an extremely rude voice over for Pingu</a>: “Fuck you and your entire generation!”</p>
+        
+        <p>The subtitle of The Daily File is “So that we won&rsquo;t say we didn&rsquo;t know.”</p>
+        
+        <p>If you feel like arguing, please read <a href="https://en.wikipedia.org/wiki/Casualties_of_the_Gaza_war">Casualties of the Gaza war</a>, because I’m assuming you’re one of the very people this article is about. It is not my duty to educate you. It is your duty to do the right thing and that includes the duty to educate yourself so that you can do the right thing. Nobody said it was going to be easy.</p>
+        
+        <p><a class="tag" href="/search/?q=%23Israel">#Israel</a> <a class="tag" href="/search/?q=%23Palestine">#Palestine</a></p>]]>
+      </description>
+      <source:markdown># 2025-10-14 Israel: So that we won’t say we didn’t know
+
+We are [travelling through Portugal these days](2025-portugal). I brought a bunch of newspapers along – to read should I manage to put down the phone. I just read [Kollidierende Realitäten](https://www.woz.ch/2540/zwei-jahre-nach-dem-7-oktober/kollidierende-realitaeten/!42Q5MHJSN52K), starting with a [B’Tselem](https://www.btselem.org/) meeting, with quotes from [Yuli Novak](https://en.wikipedia.org/wiki/Yuli_Novak). She says she assumes 95% don’t know about their report, [Our Genocide](https://www.btselem.org/publications/202507_our_genocide).
+
+I see Israelis trying to so the right thing and I am reminded of the time I stood at the Paradeplatz in Zürich during lunch hours, “for a just peace in Palestine.” It was [so long ago](2006-07-15_Electronic_Intifada_has_reports_from_Lebanon). It didn’t help. The vigils are still [ongoing](https://swiss-palestine-network.ch/de/wer-sind-wir/61-mahnwache-zuerich). I no longer go.
+
+Adi Argov from [The Daily File](https://www.thedailyfile.org/) has the last word in the article: “How can the Palestinians forgive what we have done to them? Only our grandchildren might one day know.” (Translation mine.)
+
+Apparently the Israelis are so unaware of what they are doing, so certain of what their friends and family in the army are saying, of what the mainstream media are saying, of what the government is saying, that they can only explain the horror the rest of the world is expressing as anti-semitism. I’m guessing that one day they will say, like so many Germans did: “I did not know!” And they will learn, like the Germans did, that this legacy will be hard to shake. Like I once heard in [an extremely rude voice over for Pingu](https://youtube.com/watch?v=Ifh1yx8d83Y): “Fuck you and your entire generation!”
+
+The subtitle of The Daily File is “So that we won’t say we didn’t know.”
+
+If you feel like arguing, please read [Casualties of the Gaza war](https://en.wikipedia.org/wiki/Casualties_of_the_Gaza_war), because I’m assuming you’re one of the very people this article is about. It is not my duty to educate you. It is your duty to do the right thing and that includes the duty to educate yourself so that you can do the right thing. Nobody said it was going to be easy.
+
+[#Israel](/search/?q=%23Israel) [#Palestine](/search/?q=%23Palestine)</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2025-10-14-israel</guid>
     </item>    <item>
       <title>Release Notes for Safari Technology Preview 230</title>
       <link>https://webkit.org/blog/17504/release-notes-for-safari-technology-preview-230/</link>
@@ -75,9 +501,9 @@ Tags: [coding-agents](https://simonwillison.net/tags/coding-agents), [anthropic]
       <title>The Hatch Act? Wassat? Who cares?</title>
       <link>https://robertreich.substack.com/p/the-trump-regime-is-wildly-violating</link>
       <description>
-        <![CDATA[The propaganda spewing from Trump's departments and agencies is illegal]]>
+        <![CDATA[The propaganda spewing from Trump&#8217;s departments and agencies is illegal]]>
       </description>
-      <source:markdown>The propaganda spewing from Trump&#39;s departments and agencies is illegal</source:markdown>
+      <source:markdown>The propaganda spewing from Trump’s departments and agencies is illegal</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!16-T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1dd778a3-4530-4e6a-89d1-5062e182d93c_3432x3499.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/the-trump-regime-is-wildly-violating</guid>
     </item>    <item>
@@ -1177,38 +1603,6 @@ If you feel like arguing, please read [Casualties of the Gaza war](https://en.wi
 
 [#Israel](/search/?q=%23Israel) [#Palestine](/search/?q=%23Palestine)</source:markdown>
       <guid>cid://https://alexschroeder.ch/view/2025-10-13-israel</guid>
-    </item>    <item>
-      <title>2025-10-14 Israel: So that we won’t say we didn’t know</title>
-      <link>https://alexschroeder.ch/view/2025-10-14-israel</link>
-      <description>
-        <![CDATA[<h1 id="2025-10-14-israel-so-that-we-won-t-say-we-didn-t-know">2025-10-14 Israel: So that we won’t say we didn’t know</h1>
-        
-        <p>We are <a href="2025-portugal">travelling through Portugal these days</a>. I brought a bunch of newspapers along – to read should I manage to put down the phone. I just read <a href="https://www.woz.ch/2540/zwei-jahre-nach-dem-7-oktober/kollidierende-realitaeten/!42Q5MHJSN52K">Kollidierende Realitäten</a>, starting with a <a href="https://www.btselem.org/">B’Tselem</a> meeting, with quotes from <a href="https://en.wikipedia.org/wiki/Yuli_Novak">Yuli Novak</a>. She says she assumes 95% don’t know about their report, <a href="https://www.btselem.org/publications/202507_our_genocide">Our Genocide</a>.</p>
-        
-        <p>I see Israelis trying to so the right thing and I am reminded of the time I stood at the Paradeplatz during lunch hours, for a Just Peace in Palestine. It was <a href="2006-07-15_Electronic_Intifada_has_reports_from_Lebanon">so long ago</a>. It didn’t help. The vigils are still <a href="https://swiss-palestine-network.ch/de/wer-sind-wir/61-mahnwache-zuerich">ongoing</a>. I no longer go.</p>
-        
-        <p>Adi Argov from <a href="https://www.thedailyfile.org/">The Daily File</a> has the last word in the article: “How can the Palestinians forgive what we have done to them? Only our grandchildren might one day know.” (Translation mine.) Apparently the Israelis are so unaware of what they are doing, so certain of what their friends and family in the army are saying, of what the mainstream media are saying, of what the government is saying, that they can only explain the horror the rest of the world is expressing as anti-semitism. I’m guessing that one day they will say, like so many Germans did: “I did not know!” And they will learn, like the Germans did, that this legacy will be hard to shake. Like I once heard in <a href="https://youtube.com/watch?v=Ifh1yx8d83Y">an extremely rude voice over for Pingu</a>: “Fuck you and your entire generation!”</p>
-        
-        <p>The subtitle of The Daily File is “So that we won&rsquo;t say we didn&rsquo;t know.”</p>
-        
-        <p>If you feel like arguing, please read <a href="https://en.wikipedia.org/wiki/Casualties_of_the_Gaza_war">Casualties of the Gaza war</a>, because I’m assuming you’re one of the very people this article is about. It is not my duty to educate you. It is your duty to do the right thing and that includes the duty to educate yourself so that you can do the right thing. Nobody said it was going to be easy.</p>
-        
-        <p><a class="tag" href="/search/?q=%23Israel">#Israel</a> <a class="tag" href="/search/?q=%23Palestine">#Palestine</a></p>]]>
-      </description>
-      <source:markdown># 2025-10-14 Israel: So that we won’t say we didn’t know
-
-We are [travelling through Portugal these days](2025-portugal). I brought a bunch of newspapers along – to read should I manage to put down the phone. I just read [Kollidierende Realitäten](https://www.woz.ch/2540/zwei-jahre-nach-dem-7-oktober/kollidierende-realitaeten/!42Q5MHJSN52K), starting with a [B’Tselem](https://www.btselem.org/) meeting, with quotes from [Yuli Novak](https://en.wikipedia.org/wiki/Yuli_Novak). She says she assumes 95% don’t know about their report, [Our Genocide](https://www.btselem.org/publications/202507_our_genocide).
-
-I see Israelis trying to so the right thing and I am reminded of the time I stood at the Paradeplatz during lunch hours, for a Just Peace in Palestine. It was [so long ago](2006-07-15_Electronic_Intifada_has_reports_from_Lebanon). It didn’t help. The vigils are still [ongoing](https://swiss-palestine-network.ch/de/wer-sind-wir/61-mahnwache-zuerich). I no longer go.
-
-Adi Argov from [The Daily File](https://www.thedailyfile.org/) has the last word in the article: “How can the Palestinians forgive what we have done to them? Only our grandchildren might one day know.” (Translation mine.) Apparently the Israelis are so unaware of what they are doing, so certain of what their friends and family in the army are saying, of what the mainstream media are saying, of what the government is saying, that they can only explain the horror the rest of the world is expressing as anti-semitism. I’m guessing that one day they will say, like so many Germans did: “I did not know!” And they will learn, like the Germans did, that this legacy will be hard to shake. Like I once heard in [an extremely rude voice over for Pingu](https://youtube.com/watch?v=Ifh1yx8d83Y): “Fuck you and your entire generation!”
-
-The subtitle of The Daily File is “So that we won’t say we didn’t know.”
-
-If you feel like arguing, please read [Casualties of the Gaza war](https://en.wikipedia.org/wiki/Casualties_of_the_Gaza_war), because I’m assuming you’re one of the very people this article is about. It is not my duty to educate you. It is your duty to do the right thing and that includes the duty to educate yourself so that you can do the right thing. Nobody said it was going to be easy.
-
-[#Israel](/search/?q=%23Israel) [#Palestine](/search/?q=%23Palestine)</source:markdown>
-      <guid>cid://https://alexschroeder.ch/view/2025-10-14-israel</guid>
     </item>    <item>
       <link>https://arstechnica.com/ai/2025/10/nvidia-sells-tiny-new-computer-that-puts-big-ai-on-your-desktop/?utm_source=bsky&#38;utm_medium=social</link>
       <description>
@@ -18653,587 +19047,6 @@ Tags: [ai-agents](https://simonwillison.net/tags/ai-agents), [llms](https://simo
       <title>Apple&#39;s Antitrust Playbook</title>
       <link>https://infrequently.org/2025/09/apples-antitrust-playbook/</link>
       <guid>cid://https://infrequently.org/2025/09/apples-antitrust-playbook/</guid>
-    </item>    <item>
-      <title>603. Greek Myths: The Riddle of the Sphinx (Part 2)</title>
-      <link>https://therestishistory.com/603-greek-myths-the-riddle-of-the-sphinx-part-2/</link>
-      <description>
-        <![CDATA[<p>What is the story behind the writing of Oedipus, the notorious king of Thebes who murdered his father and unwittingly married his mother? Was it based on a real historical event? What are Oedipus’ cursed mythic origins in Thebes? Who was Sophocles, the legendary Greek playwright? Why was the play a product of 5th century [&#8230;]</p>
-        <p>The post <a href="https://therestishistory.com/603-greek-myths-the-riddle-of-the-sphinx-part-2/">603. Greek Myths: The Riddle of the Sphinx (Part 2)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>]]>
-      </description>
-      <source:markdown>What is the story behind the writing of Oedipus, the notorious king of Thebes who murdered his father and unwittingly married his mother? Was it based on a real historical event? What are Oedipus’ cursed mythic origins in Thebes? Who was Sophocles, the legendary Greek playwright? Why was the play a product of 5th century \[…\]
-
-The post [603\. Greek Myths: The Riddle of the Sphinx (Part 2)](https://therestishistory.com/603-greek-myths-the-riddle-of-the-sphinx-part-2/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
-      <guid>cid://https://therestishistory.com/603-greek-myths-the-riddle-of-the-sphinx-part-2/</guid>
-    </item>    <item>
-      <title>Wednesday session</title>
-      <link>https://adactio.com/notes/22152</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22152/small.jpg" srcset="https://adactio.com/images/uploaded/22152/medium.jpg 1.5x, https://adactio.com/images/uploaded/22152/large.jpg 2.5x" alt="Wednesday session" />
-        <p>Wednesday session</p>]]>
-      </description>
-      <source:markdown>![Wednesday session](https://adactio.com/images/uploaded/22152/small.jpg)
-
-Wednesday session</source:markdown>
-      <guid>cid://https://adactio.com/notes/22152</guid>
-    </item>    <item>
-      <title>Quoting Stanford CS221 Autumn 2025</title>
-      <link>https://simonwillison.net/2025/Sep/24/stanford/#atom-everything</link>
-      <description>
-        <![CDATA[<blockquote cite="https://stanford-cs221.github.io/autumn2025/assignments/hw1_foundations/index.html"><p>[2 points] <strong>Learn basic NumPy operations with an AI tutor!</strong> Use an AI chatbot (e.g., ChatGPT, Claude, Gemini, or Stanford AI Playground) to teach yourself how to do basic vector and matrix operations in NumPy (import numpy as np). AI tutors have become exceptionally good at creating interactive tutorials, and this year in CS221, we're testing how they can help you learn fundamentals more interactively than traditional static exercises.</p></blockquote>
-        <p class="cite">&mdash; <a href="https://stanford-cs221.github.io/autumn2025/assignments/hw1_foundations/index.html">Stanford CS221 Autumn 2025</a>, Problem 1: Linear Algebra</p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/stanford">stanford</a>, <a href="https://simonwillison.net/tags/computer-science">computer-science</a>, <a href="https://simonwillison.net/tags/education">education</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/numpy">numpy</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p>]]>
-      </description>
-      <source:markdown>&#62; \[2 points\] **Learn basic NumPy operations with an AI tutor!** Use an AI chatbot (e.g., ChatGPT, Claude, Gemini, or Stanford AI Playground) to teach yourself how to do basic vector and matrix operations in NumPy (import numpy as np). AI tutors have become exceptionally good at creating interactive tutorials, and this year in CS221, we&#39;re testing how they can help you learn fundamentals more interactively than traditional static exercises.
-
-— [Stanford CS221 Autumn 2025](https://stanford-cs221.github.io/autumn2025/assignments/hw1_foundations/index.html), Problem 1: Linear Algebra
-
-Tags: [stanford](https://simonwillison.net/tags/stanford), [computer-science](https://simonwillison.net/tags/computer-science), [education](https://simonwillison.net/tags/education), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms), [python](https://simonwillison.net/tags/python), [numpy](https://simonwillison.net/tags/numpy), [generative-ai](https://simonwillison.net/tags/generative-ai)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Sep/24/stanford/#atom-everything</guid>
-    </item>    <item>
-      <title>Steamed Hams but It&#38;#8217;s a Critically Acclaimed Feature Film. The classic Simpsons...</title>
-      <link>https://kottke.org/25/09/0047582-steamed-hams-but-its-a</link>
-      <guid>cid://tag:kottke.org,2025://13.47582</guid>
-    </item>    <item>
-      <title>Cross-Agent Privilege Escalation: When Agents Free Each Other</title>
-      <link>https://simonwillison.net/2025/Sep/24/cross-agent-privilege-escalation/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://embracethered.com/blog/posts/2025/cross-agent-privilege-escalation-agents-that-free-each-other/">Cross-Agent Privilege Escalation: When Agents Free Each Other</a></strong></p>
-        Here's a clever new form of AI exploit from Johann Rehberger, who has coined the term <strong>Cross-Agent Privilege Escalation</strong> to describe an attack where multiple coding agents - GitHub Copilot and Claude Code for example - operating on the same system can be tricked into modifying each other's configurations to escalate their privileges.</p>
-        <p>This follows Johannn's previous investigation of self-escalation attacks, where a prompt injection against GitHub Copilot could instruct it to <a href="https://embracethered.com/blog/posts/2025/github-copilot-remote-code-execution-via-prompt-injection/">edit its own settings.json file</a> to disable user approvals for future operations.</p>
-        <p>Sensible agents have now locked down their ability to modify their own settings, but that exploit opens right back up again if you run multiple different agents in the same environment:</p>
-        <blockquote>
-        <p>The ability for agents to write to each other’s settings and configuration files opens up a fascinating, and concerning, novel category of exploit chains.</p>
-        <p>What starts as a single indirect prompt injection can quickly escalate into a multi-agent compromise, where one agent “frees” another agent and sets up a loop of escalating privilege and control.</p>
-        <p>This isn’t theoretical. With current tools and defaults, it’s very possible today and not well mitigated across the board.</p>
-        <p>More broadly, this highlights the need for better isolation strategies and stronger secure defaults in agent tooling.</p>
-        </blockquote>
-        <p>I really need to start habitually running these things in a locked down container!</p>
-        <p>(I also just stumbled across <a href="https://www.youtube.com/watch?v=Ra9mYeKpeQo">this YouTube interview</a> with Johann on the Crying Out Cloud security podcast.)
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/definitions">definitions</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/johann-rehberger">johann-rehberger</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a></p>]]>
-      </description>
-      <source:markdown>**[Cross-Agent Privilege Escalation: When Agents Free Each Other](https://embracethered.com/blog/posts/2025/cross-agent-privilege-escalation-agents-that-free-each-other/)**
-
-Here&#39;s a clever new form of AI exploit from Johann Rehberger, who has coined the term **Cross-Agent Privilege Escalation** to describe an attack where multiple coding agents - GitHub Copilot and Claude Code for example - operating on the same system can be tricked into modifying each other&#39;s configurations to escalate their privileges.
-
-This follows Johannn&#39;s previous investigation of self-escalation attacks, where a prompt injection against GitHub Copilot could instruct it to [edit its own settings.json file](https://embracethered.com/blog/posts/2025/github-copilot-remote-code-execution-via-prompt-injection/) to disable user approvals for future operations.
-
-Sensible agents have now locked down their ability to modify their own settings, but that exploit opens right back up again if you run multiple different agents in the same environment:
-
-&#62; The ability for agents to write to each other’s settings and configuration files opens up a fascinating, and concerning, novel category of exploit chains.
-&#62;
-&#62; What starts as a single indirect prompt injection can quickly escalate into a multi-agent compromise, where one agent “frees” another agent and sets up a loop of escalating privilege and control.
-&#62;
-&#62; This isn’t theoretical. With current tools and defaults, it’s very possible today and not well mitigated across the board.
-&#62;
-&#62; More broadly, this highlights the need for better isolation strategies and stronger secure defaults in agent tooling.
-
-I really need to start habitually running these things in a locked down container!
-
-(I also just stumbled across [this YouTube interview](https://www.youtube.com/watch?v=Ra9mYeKpeQo) with Johann on the Crying Out Cloud security podcast.)
-
-
-
-Tags: [definitions](https://simonwillison.net/tags/definitions), [security](https://simonwillison.net/tags/security), [ai](https://simonwillison.net/tags/ai), [prompt-injection](https://simonwillison.net/tags/prompt-injection), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [johann-rehberger](https://simonwillison.net/tags/johann-rehberger), [ai-agents](https://simonwillison.net/tags/ai-agents)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Sep/24/cross-agent-privilege-escalation/#atom-everything</guid>
-    </item>    <item>
-      <link>https://techcrunch.com/2025/09/24/zoox-asks-federal-regulators-for-exemption-to-launch-a-commercial-robotaxi-service/</link>
-      <description>
-        <![CDATA[<p>Zoox asks federal regulators for exemption to launch a commercial robotaxi service.</p>]]>
-      </description>
-      <source:markdown>Zoox asks federal regulators for exemption to launch a commercial robotaxi service.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/24/1223/</guid>
-    </item>    <item>
-      <title>Generative Design</title>
-      <link>https://kottke.org/25/09/generative-design</link>
-      <guid>cid://tag:kottke.org,2025://5.47581</guid>
-    </item>    <item>
-      <title>Why Do Wind Turbines Have Three Blades? Why not two? Or five?...</title>
-      <link>https://kottke.org/25/09/0047580-why-do-wind-turbines-have</link>
-      <guid>cid://tag:kottke.org,2025://13.47580</guid>
-    </item>    <item>
-      <title>Why is the ROI on Generative AI so poor?</title>
-      <link>https://garymarcus.substack.com/p/why-is-the-roi-on-generative-ai-so</link>
-      <description>
-        <![CDATA[From AI slop to workslop]]>
-      </description>
-      <source:markdown>From AI slop to workslop</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!jCAf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fedbb5a07-0b46-4a1a-8c19-266555a5b3df_1340x790.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://garymarcus.substack.com/p/why-is-the-roi-on-generative-ai-so</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3lzm4ki76z22u</link>
-      <description>
-        <![CDATA[👇
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3lzm4ki76z22u</guid>
-    </item>    <item>
-      <title>Lawsuit About WhatsApp Security</title>
-      <link>https://mjtsai.com/blog/2025/09/24/lawsuit-about-whatsapp-security/</link>
-      <description>
-        <![CDATA[Bruce Schneier: Attaullah Baig, WhatsApp&#8217;s former head of security, has filed a whistleblower lawsuit alleging that Facebook deliberately failed to fix a bunch of security flaws, in violation of its 2019 settlement agreement with the Federal Trade Commission. Dan Goodin: The suit, filed in US District Court for the District of Northern California, recites a [&#8230;]]]>
-      </description>
-      <source:markdown>Bruce Schneier: Attaullah Baig, WhatsApp’s former head of security, has filed a whistleblower lawsuit alleging that Facebook deliberately failed to fix a bunch of security flaws, in violation of its 2019 settlement agreement with the Federal Trade Commission. Dan Goodin: The suit, filed in US District Court for the District of Northern California, recites a \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49355</guid>
-    </item>    <item>
-      <title>Screen Time Brokenness</title>
-      <link>https://mjtsai.com/blog/2025/09/24/screen-time-brokenness/</link>
-      <description>
-        <![CDATA[I&#8217;ve recently been using Screen Time more to manage my son&#8217;s Mac and iOS usage, and it&#8217;s been really frustrating. On the Sonoma Mac where he plays Minecraft, we wanted to restrict which Web sites could be viewed. But this doesn&#8217;t just affect what you can do in Safari; it also restricts which network connections [&#8230;]]]>
-      </description>
-      <source:markdown>I’ve recently been using Screen Time more to manage my son’s Mac and iOS usage, and it’s been really frustrating. On the Sonoma Mac where he plays Minecraft, we wanted to restrict which Web sites could be viewed. But this doesn’t just affect what you can do in Safari; it also restricts which network connections \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49353</guid>
-    </item>    <item>
-      <title>Huntington&#38;#8217;s disease successfully treated for first time. &#38;#8220;An emotional research team became...</title>
-      <link>https://kottke.org/25/09/0047576-huntingtons-disease-succe</link>
-      <guid>cid://tag:kottke.org,2025://13.47576</guid>
-    </item>    <item>
-      <title>Hybrid ASCII Art</title>
-      <link>https://kottke.org/25/09/hybrid-ascii-art</link>
-      <guid>cid://tag:kottke.org,2025://5.47578</guid>
-    </item>    <item>
-      <title>Why I Write</title>
-      <link>https://guykawasaki.substack.com/p/why-i-write</link>
-      <description>
-        <![CDATA[My first book was published in 1987, and at the time, I thought it was the first and last one of my career.]]>
-      </description>
-      <source:markdown>My first book was published in 1987, and at the time, I thought it was the first and last one of my career.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!lChJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12626873-3ae4-4d70-b91b-1c414951b5b4_1080x1080.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://guykawasaki.substack.com/p/why-i-write</guid>
-    </item>    <item>
-      <title>Historian Thomas Zimmer has left academia, Substack, and the US; now he&#38;#8217;s...</title>
-      <link>https://kottke.org/25/09/0047575-historian-thomas-zimmer-h</link>
-      <guid>cid://tag:kottke.org,2025://13.47575</guid>
-    </item>    <item>
-      <link>https://www.headsupnews.org/p/jimmy-kimmels-return-is-a-win-for?r=1ju529&#38;utm_campaign=post&#38;utm_medium=web</link>
-      <description>
-        <![CDATA[<p>Jimmy Kimmel’s return is a win for the resistance.</p>]]>
-      </description>
-      <source:markdown>Jimmy Kimmel’s return is a win for the resistance.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/24/1221/</guid>
-    </item>    <item>
-      <link>https://www.standtogetherhighered.org/</link>
-      <description>
-        <![CDATA[<p>Stand Together for higher ed.</p>]]>
-      </description>
-      <source:markdown>Stand Together for higher ed.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/24/1219/</guid>
-    </item>    <item>
-      <title>Writer and activist Alaa Abd El-Fattah has been pardoned and freed from prison.</title>
-      <link>https://lithub.com/writer-and-activist-alaa-abd-el-fattah-has-been-pardoned-and-freed-from-prison/</link>
-      <description>
-        <![CDATA[Image from The Guardian/Reuters The British-Egyptian writer and activist Alaa Abd El-Fattah was reunited with his family on Monday after spending most of the last decade in prison. Abd El-Fattah is one of Egypt’s most prominent writers and dissidents, and a widely known political prisoner. It’s a victory for free speech and a joy for [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=260212</guid>
-    </item>    <item>
-      <link>https://apnews.com/article/trump-un-escalator-teleprompter-ddfc0875301f29d71625b353f2c2f832</link>
-      <description>
-        <![CDATA[<p>UN blames Trump's team for nonworking escalator and teleprompter.</p>]]>
-      </description>
-      <source:markdown>UN blames Trump&#39;s team for nonworking escalator and teleprompter.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/24/1217/</guid>
-    </item>    <item>
-      <title>Using Cesium-137 testing to find counterfeit wine. &#38;#8220;Cesium-137 did not exist on...</title>
-      <link>https://kottke.org/25/09/0047574-using-cesium-137-testing-</link>
-      <guid>cid://tag:kottke.org,2025://13.47574</guid>
-    </item>    <item>
-      <title>Rehén: tan superficial como entretenida</title>
-      <link>https://www.palomitademaiz.net/resenas-rehen/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-rehen</link>
-      <description>
-        <![CDATA[<p>Disponible en: Netflix. País: Reino Unido. Duración: 5 episodios de una hora. Creador: Matt Charman. Elenco: Suranne Jones, Ashley Thomas, Corey Mylchreest, Martin McCann, Isobel Akuwudike, Pip Carter, Lucian Msamati, Josh Barrow, Ami Okumura Jones, Hiftu Quasem, Julie Delpy. Más información de la serie: https://www.imdb.com/title/tt31806048/ Matt Charman, conocido por su guion nominado al Óscar El [&#8230;]</p>
-        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-rehen/">Rehén: tan superficial como entretenida</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
-      </description>
-      <source:markdown>Disponible en: Netflix. País: Reino Unido. Duración: 5 episodios de una hora. Creador: Matt Charman. Elenco: Suranne Jones, Ashley Thomas, Corey Mylchreest, Martin McCann, Isobel Akuwudike, Pip Carter, Lucian Msamati, Josh Barrow, Ami Okumura Jones, Hiftu Quasem, Julie Delpy. Más información de la serie: https://www.imdb.com/title/tt31806048/ Matt Charman, conocido por su guion nominado al Óscar El \[…\]
-
-La entrada [Rehén: tan superficial como entretenida](https://www.palomitademaiz.net/resenas-rehen/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
-      <guid>cid://https://www.palomitademaiz.net/?p=25554</guid>
-    </item>    <item>
-      <title>Zorin OS 18 beta makes Linux look like anything but Linux</title>
-      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/09/24/zorin_os_18_beta/</link>
-      <description>
-        <![CDATA[<h4>Windows, macOS, Cinnamon, even iPadOS – all just a layout switch away</h4>
-              <p>Although Zorin doesn&#39;t aim to closely track its Ubuntu upstream, version 18 of its eponymous OS has been a long time coming.</p>]]>
-      </description>
-      <source:markdown>#### Windows, macOS, Cinnamon, even iPadOS – all just a layout switch away
-
-Although Zorin doesn&#39;t aim to closely track its Ubuntu upstream, version 18 of its eponymous OS has been a long time coming.</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242097</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/24.html#a155928</link>
-      <description>
-        <![CDATA[In the future <i>you</i> will be able to chain social networks together.]]>
-      </description>
-      <source:markdown>In the future _you_ will be able to chain social networks together.</source:markdown>
-      <guid>cid://http://scripting.com/2025/09/24.html#a155928</guid>
-    </item>    <item>
-      <title>September 23, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-23-2025-981</link>
-      <enclosure url="https://api.substack.com/feed/podcast/174450755/5c62203fc061b73a18649ddea80c3620.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-23-2025-981</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/24.html#a155639</link>
-      <description>
-        <![CDATA[The web has been asleep for 19 years, which is almost as long as <a href="https://en.wikipedia.org/wiki/Rip_Van_Winkle">Rip Van Winkle</a> was asleep, according the <a href="https://en.wikipedia.org/wiki/Washington_Irving">Washington Irving</a> story.]]>
-      </description>
-      <source:markdown>The web has been asleep for 19 years, which is almost as long as [Rip Van Winkle](https://en.wikipedia.org/wiki/Rip_Van_Winkle) was asleep, according the [Washington Irving](https://en.wikipedia.org/wiki/Washington_Irving) story.</source:markdown>
-      <guid>cid://http://scripting.com/2025/09/24.html#a155639</guid>
-    </item>    <item>
-      <title>Is the New York Times finally getting real about Trump? &#38;#8220;In the...</title>
-      <link>https://kottke.org/25/09/0047573-is-the-new-york-times</link>
-      <guid>cid://tag:kottke.org,2025://13.47573</guid>
-    </item>    <item>
-      <title>Everyone Was Wrong About Maximum Siphon Height</title>
-      <link>https://kottke.org/25/09/everyone-was-wrong-about-maximum-siphon-height</link>
-      <guid>cid://tag:kottke.org,2025://5.47568</guid>
-    </item>    <item>
-      <title>Hugo Chávez Loses Spot in Guinness Book for Most Batshit UN Speech</title>
-      <link>https://www.borowitzreport.com/p/hugo-chavez-loses-spot-in-guinness</link>
-      <description>
-        <![CDATA[&#8220;We never saw this coming," a Guinness spokesperson admitted.]]>
-      </description>
-      <source:markdown>“We never saw this coming,&#34; a Guinness spokesperson admitted.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!8EQd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64c41e4b-6e22-4578-b140-bd9c066de202_898x717.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/hugo-chavez-loses-spot-in-guinness</guid>
-    </item>    <item>
-      <title>Sponsor Web Day Out</title>
-      <link>https://adactio.com/journal/22151</link>
-      <description>
-        <![CDATA[<p>If you work at a clever company, then you should let them know about <a href="https://webdayout.com/sponsorship/">sponsoring Web Day Out</a>.</p>
-        
-        <p>All the details are in this <a href="https://webdayout.com/sponsorship/WebDayOut.pdf">PDF sponsorship pack</a>. Basically there are three (and only three) spots available, at three different levels of sponsorship.</p>
-        
-        <p>One of the best things about <a href="https://webdayout.com/venue/">the venue for Web Day Out</a> is that always having an excellent auditorium, the Studio Theatre has a really nice space for the breaks. It would be the perfect spot to set up a stand and chat with all the smart attendees.</p>
-        
-        <p>All the attendees will, by definition, be smart because they got <a href="https://ti.to/clearleft/web-day-out">tickets for Web Day Out</a>—a steal at just £225+VAT.</p>]]>
-      </description>
-      <source:markdown>If you work at a clever company, then you should let them know about [sponsoring Web Day Out](https://webdayout.com/sponsorship/).
-
-All the details are in this [PDF sponsorship pack](https://webdayout.com/sponsorship/WebDayOut.pdf). Basically there are three (and only three) spots available, at three different levels of sponsorship.
-
-One of the best things about [the venue for Web Day Out](https://webdayout.com/venue/) is that always having an excellent auditorium, the Studio Theatre has a really nice space for the breaks. It would be the perfect spot to set up a stand and chat with all the smart attendees.
-
-All the attendees will, by definition, be smart because they got [tickets for Web Day Out](https://ti.to/clearleft/web-day-out)—a steal at just £225+VAT.</source:markdown>
-      <guid>cid://https://adactio.com/journal/22151</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/24.html#a143250</link>
-      <description>
-        <![CDATA[Yesterday's <a href="https://openchannels.fm/exploring-wordpress-textcasting-and-open-web-standards/">podcast</a> was with Matthias Pfefferle, who is developing Automattic's ActivityPub functionality. I talk about the totality of the app I'm building and the role WordPress and RSS play in the network. It's an all-web approach to social media. Another big podcast came out today, this one for the WordPress community. I'll write it up tomorrow. I'm on a press tour folks and having a great time. I think I finally found my tribe? And if you're in Canada, come to <a href="https://canada.wordcamp.org/2025/">WordCamp in Ottawa</a>, October 15-17. I haven't given a public in person talk since April 2019. I'm realllly looking forward to this.]]>
-      </description>
-      <source:markdown>Yesterday&#39;s [podcast](https://openchannels.fm/exploring-wordpress-textcasting-and-open-web-standards/) was with Matthias Pfefferle, who is developing Automattic&#39;s ActivityPub functionality. I talk about the totality of the app I&#39;m building and the role WordPress and RSS play in the network. It&#39;s an all-web approach to social media. Another big podcast came out today, this one for the WordPress community. I&#39;ll write it up tomorrow. I&#39;m on a press tour folks and having a great time. I think I finally found my tribe? And if you&#39;re in Canada, come to [WordCamp in Ottawa](https://canada.wordcamp.org/2025/), October 15-17. I haven&#39;t given a public in person talk since April 2019. I&#39;m realllly looking forward to this.</source:markdown>
-      <guid>cid://http://scripting.com/2025/09/24.html#a143250</guid>
-    </item>    <item>
-      <title>Felix Oliver Friedrich pushed to project branch main at Felix Oliver Friedrich / Oberon A2</title>
-      <link>https://gitlab.inf.ethz.ch/felixf/oberon/-/compare/1967d3e00c775d4061f904bf8b11e30b50988ae9...6f828ef78be3e806ca02d53491bada0a1234d206</link>
-      <description>
-        <![CDATA[<p>
-        <strong>Felix Oliver Friedrich</strong>
-        <a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/compare/1967d3e00c775d4061f904bf8b11e30b50988ae9...6f828ef78be3e806ca02d53491bada0a1234d206">(6f828ef7)</a>
-        <i>
-        at
-        24 Sep 16:31
-        </i>
-        </p>
-        <div class="blockquote"><p dir="auto">Merge branch &#39;Streams&#39; into &#39;main&#39;</p></div>
-        <p>
-        <i>
-        ... and
-        1 more commit
-        </i>
-        </p>]]>
-      </description>
-      <source:markdown>**Felix Oliver Friedrich** [(6f828ef7)](https://gitlab.inf.ethz.ch/felixf/oberon/-/compare/1967d3e00c775d4061f904bf8b11e30b50988ae9...6f828ef78be3e806ca02d53491bada0a1234d206) _at_
-_24 Sep 16:31_
-
-Merge branch &#39;Streams&#39; into &#39;main&#39;
-
-_... and_
-_1 more commit_</source:markdown>
-      <guid>cid://tag:gitlab.inf.ethz.ch,2025-09-24:1821860</guid>
-    </item>    <item>
-      <title>When docs become performance art, everybody loses</title>
-      <link>https://passo.uno/documentation-theater-everybody-loses/</link>
-      <description>
-        <![CDATA[<p>You might have read <a href="https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner">Annie Mueller&rsquo;s post</a> poking fun at developers’ tutorials. If you haven&rsquo;t yet, do it now. On the surface, it’s an exquisite rendition of the kind of technobabble we tech writers get to tame every day. Reactions among devs ranged from nervous snickering to outright shame. Like all the best parodies, Annie’s goes deeper than that, though: It puts a finger on “documentation theater”, a state where docs are performative and not addressing a need nor caring about it. Let me explain why I think writing docs because you are forced to is worse than not having docs at all.</p>]]>
-      </description>
-      <source:markdown>You might have read [Annie Mueller’s post](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner) poking fun at developers’ tutorials. If you haven’t yet, do it now. On the surface, it’s an exquisite rendition of the kind of technobabble we tech writers get to tame every day. Reactions among devs ranged from nervous snickering to outright shame. Like all the best parodies, Annie’s goes deeper than that, though: It puts a finger on “documentation theater”, a state where docs are performative and not addressing a need nor caring about it. Let me explain why I think writing docs because you are forced to is worse than not having docs at all.</source:markdown>
-      <guid>cid://https://passo.uno/documentation-theater-everybody-loses/</guid>
-    </item>    <item>
-      <title>In Jimmy Kimmel&#38;#8217;s words: What the late-night host said upon his return...</title>
-      <link>https://kottke.org/25/09/0047572-in-jimmy-kimmels-words-wh</link>
-      <guid>cid://tag:kottke.org,2025://13.47572</guid>
-    </item>    <item>
-      <link>https://en.wikipedia.org/wiki/Rip_Van_Winkle</link>
-      <description>
-        <![CDATA[<p>The web has been asleep for 19 years, which is almost as long as Rip Van WInkle was.</p>]]>
-      </description>
-      <source:markdown>The web has been asleep for 19 years, which is almost as long as Rip Van WInkle was.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/24/1215/</guid>
-    </item>    <item>
-      <title>‘Find My Parking Cops’ Tracks Officers Handing Out Tickets All Around San Francisco</title>
-      <link>https://www.404media.co/find-my-parking-cops-tracks-officers-handing-out-tickets-all-around-san-francisco/</link>
-      <description>
-        <![CDATA["Find My Parking Cops" pins the near-realtime locations of parking officers all over the city, and shows what they're issuing fines for, and how much.]]>
-      </description>
-      <source:markdown>&#34;Find My Parking Cops&#34; pins the near-realtime locations of parking officers all over the city, and shows what they&#39;re issuing fines for, and how much.</source:markdown>
-      <guid>cid://68d3f7483ea9560001431a2b</guid>
-    </item>    <item>
-      <title>McSweeney&#38;#8217;s didn&#38;#8217;t even need to lampoon Trump&#38;#8217;s comments about vaccines, autism, &#38;...</title>
-      <link>https://kottke.org/25/09/0047571-mcsweeneys-didnt-even-nee</link>
-      <guid>cid://tag:kottke.org,2025://13.47571</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/24.html#a134803</link>
-      <description>
-        <![CDATA[<a class="anchorRightMargin" href="https://en.wikipedia.org/wiki/Rip_Van_Winkle"><img class="imgRightMargin" src="https://imgs.scripting.com/2025/09/24/ripVanWinkle.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"></a>There are a lot of developers who think they understand WordPress but they don't. It has a REST api that you can build on. Everything WordPress does. It's the API the <a href="https://dashboard.wordpress.com/wp-admin/index.php?page=my-blogs">browser client</a> is built on. I didn't know it was there until I added WordPress login to FeedLand a couple of years ago. I couldn't believe what I was seeing. What can I do with it? It snuck up on me that it's an API for the web, and it's also the easiest API for ActivityPub. The programming model for the fediverse might be a lot simpler than you think. WordLand is as exciting as any web product I did before, because now, after being <a href="https://en.wikipedia.org/wiki/Rip_Van_Winkle">asleep</a> for 19 years, the web can now wake up. It really feels that way.]]>
-      </description>
-      <source:markdown>[![](https://imgs.scripting.com/2025/09/24/ripVanWinkle.png)](https://en.wikipedia.org/wiki/Rip_Van_Winkle) There are a lot of developers who think they understand WordPress but they don&#39;t. It has a REST api that you can build on. Everything WordPress does. It&#39;s the API the [browser client](https://dashboard.wordpress.com/wp-admin/index.php?page=my-blogs) is built on. I didn&#39;t know it was there until I added WordPress login to FeedLand a couple of years ago. I couldn&#39;t believe what I was seeing. What can I do with it? It snuck up on me that it&#39;s an API for the web, and it&#39;s also the easiest API for ActivityPub. The programming model for the fediverse might be a lot simpler than you think. WordLand is as exciting as any web product I did before, because now, after being [asleep](https://en.wikipedia.org/wiki/Rip_Van_Winkle) for 19 years, the web can now wake up. It really feels that way.</source:markdown>
-      <guid>cid://http://scripting.com/2025/09/24.html#a134803</guid>
-    </item>    <item>
-      <title>Sergey Durmanov pushed to project branch Streams at Felix Oliver Friedrich / Oberon A2</title>
-      <link>https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/523d35eee60746f41b8b404c4e52f3ed14bf1e78</link>
-      <description>
-        <![CDATA[<p>
-        <strong>Sergey Durmanov</strong>
-        <a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/523d35eee60746f41b8b404c4e52f3ed14bf1e78">(523d35ee)</a>
-        <i>
-        at
-        24 Sep 15:44
-        </i>
-        </p>
-        <div class="blockquote"><p dir="auto">added comments</p></div>]]>
-      </description>
-      <source:markdown>**Sergey Durmanov** [(523d35ee)](https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/523d35eee60746f41b8b404c4e52f3ed14bf1e78) _at_
-_24 Sep 15:44_
-
-added comments</source:markdown>
-      <guid>cid://tag:gitlab.inf.ethz.ch,2025-09-24:1821758</guid>
-    </item>    <item>
-      <title>A Vast ‘Cosmic Web’ Connects the Universe—Really. Now, We Can Emulate It.</title>
-      <link>https://www.404media.co/a-vast-cosmic-web-connects-the-universe-really-now-we-can-emulate-it/</link>
-      <description>
-        <![CDATA[An emulator called Effort.jl can drastically reduce computational time without sacrificing accuracy, which could help solve longstanding mysteries about the cosmos.]]>
-      </description>
-      <source:markdown>An emulator called Effort.jl can drastically reduce computational time without sacrificing accuracy, which could help solve longstanding mysteries about the cosmos.</source:markdown>
-      <guid>cid://68d3ef543ea9560001430fd1</guid>
-    </item>    <item>
-      <title>Podcast: We&#39;re Suing ICE. Here&#39;s Why</title>
-      <link>https://www.404media.co/podcast-were-suing-ice-heres-why/</link>
-      <description>
-        <![CDATA[Our lawsuit against ICE; the rise of AI 'workslop'; Steam's malicious game problem; and Silk Song.]]>
-      </description>
-      <guid>cid://68d3e8fa3ea9560001410c47</guid>
-    </item>    <item>
-      <title>Discovering the Future of AI and Customer Success at CloudFest USA</title>
-      <link>https://openchannels.fm/discovering-the-future-of-ai-and-customer-success-at-cloudfest-usa/</link>
-      <description>
-        <![CDATA[In this episode, Adam talks with Jess Frick and Jeff Paul about their panels at CloudFest USA 2025. They discuss customer success in WordPress hosting, AI integrations, and the event's highlights, offering fun insights.]]>
-      </description>
-      <source:markdown>In this episode, Adam talks with Jess Frick and Jeff Paul about their panels at CloudFest USA 2025. They discuss customer success in WordPress hosting, AI integrations, and the event&#39;s highlights, offering fun insights.</source:markdown>
-      <guid>cid://https://openchannels.fm/?p=110347</guid>
-    </item>    <item>
-      <title>Robot Assistance for Home Plate Umpires</title>
-      <link>https://onefoottsunami.com/2025/09/24/robot-assistance-for-home-plate-umpires/</link>
-      <guid>cid://https://onefoottsunami.com/?p=29189</guid>
-    </item>    <item>
-      <title>Had cocido for lunch in Madrid yesterday and I’m still full today.</title>
-      <link>https://adactio.com/notes/22150</link>
-      <description>
-        <![CDATA[<p>Had cocido for lunch in Madrid yesterday and I’m still full today.</p>]]>
-      </description>
-      <source:markdown>Had cocido for lunch in Madrid yesterday and I’m still full today.</source:markdown>
-      <guid>cid://https://adactio.com/notes/22150</guid>
-    </item>    <item>
-      <title>5 Real-World Ways to Build Consistent Creation Habits</title>
-      <link>https://openchannels.fm/5-real-world-ways-to-build-consistent-creation-habits/</link>
-      <description>
-        <![CDATA[To build a daily creative habit, just hit record and embrace the chaos. Simplify, connect to routines, and stop chasing perfection!]]>
-      </description>
-      <source:markdown>To build a daily creative habit, just hit record and embrace the chaos. Simplify, connect to routines, and stop chasing perfection!</source:markdown>
-      <guid>cid://https://openchannels.fm/?p=109528</guid>
-    </item>    <item>
-      <link>https://www.advocate.com/news/meta-robby-starbuck-ai-bias#toggle-gdpr</link>
-      <description>
-        <![CDATA[<p>Meta appoints extremist Robby Starbuck as AI bias advisor.</p>]]>
-      </description>
-      <source:markdown>Meta appoints extremist Robby Starbuck as AI bias advisor.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/24/1213/</guid>
-    </item>    <item>
-      <title>US Disrupts Massive Cell Phone Array in New York</title>
-      <link>https://www.schneier.com/blog/archives/2025/09/us-disrupts-massive-cell-phone-array-in-new-york.html</link>
-      <description>
-        <![CDATA[<p>This is a <a href="https://www.bbc.com/news/articles/cn4w0d8zz22o">weird story</a>:</p>
-        <blockquote><p>The US Secret Service disrupted a network of telecommunications devices that could have shut down cellular systems as leaders gather for the United Nations General Assembly in New York City.</p>
-        <p>The agency said on Tuesday that last month it found more than 300 SIM servers and 100,000 SIM cards that could have been used for telecom attacks within the area encompassing parts of New York, New Jersey and Connecticut.</p>
-        <p>&#8220;This network had the power to disable cell phone towers and essentially shut down the cellular network in New York City,&#8221; said special agent in charge Matt McCool...</p></blockquote>]]>
-      </description>
-      <source:markdown>This is a [weird story](https://www.bbc.com/news/articles/cn4w0d8zz22o):
-
-&#62; The US Secret Service disrupted a network of telecommunications devices that could have shut down cellular systems as leaders gather for the United Nations General Assembly in New York City.
-&#62;
-&#62; The agency said on Tuesday that last month it found more than 300 SIM servers and 100,000 SIM cards that could have been used for telecom attacks within the area encompassing parts of New York, New Jersey and Connecticut.
-&#62;
-&#62; “This network had the power to disable cell phone towers and essentially shut down the cellular network in New York City,” said special agent in charge Matt McCool...</source:markdown>
-      <guid>cid://https://www.schneier.com/?p=70863</guid>
-    </item>    <item>
-      <title>Trust but Verify</title>
-      <link>https://www.oreilly.com/radar/trust-but-verify/</link>
-      <description>
-        <![CDATA[We often say AIs “understand” code, but they don’t truly understand your problem or your codebase in the sense that humans understand things. They’re mimicking patterns from text and code they’ve seen before, either built into their model or provided by you, aiming to produce something that looks right and is a plausible answer. It’s [&#8230;]]]>
-      </description>
-      <source:markdown>We often say AIs “understand” code, but they don’t truly understand your problem or your codebase in the sense that humans understand things. They’re mimicking patterns from text and code they’ve seen before, either built into their model or provided by you, aiming to produce something that looks right and is a plausible answer. It’s \[…\]</source:markdown>
-      <guid>cid://https://www.oreilly.com/radar/?p=17469</guid>
-    </item>    <item>
-      <title>Is the Jimmy Kimmel Saga a Sign that the Tide is Turning?</title>
-      <link>https://paulkrugman.substack.com/p/is-the-jimmy-kimmel-saga-a-sign-that</link>
-      <description>
-        <![CDATA[Why we may not be Russia or Hungary]]>
-      </description>
-      <source:markdown>Why we may not be Russia or Hungary</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!d7JW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5cee4998-1466-4606-8a5b-7ec3ecaae05b_1000x667.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/is-the-jimmy-kimmel-saga-a-sign-that</guid>
-    </item>    <item>
-      <title>Lit Hub Daily: September 24, 2025</title>
-      <link>https://lithub.com/lit-hub-daily-september-24-2025/</link>
-      <description>
-        <![CDATA[Omar Zahzah looks at digital settler colonialism and modern blacklisting: “Even if blacklisting is a well-worn strategy of Zionist persecution, Canary Mission constitutes an escalation.” &#124; Lit Hub Politics Nina West on literature, the necessity of Drag Queen Story Hour, and why reading is fundamental. &#124; Lit Hub Libraries “It always jarred me to see [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=260163</guid>
-    </item>    <item>
-      <link>https://wapo.st/4gFthvN</link>
-      <description>
-        <![CDATA[<p>Statue of Trump and Epstein holding hands placed on National Mall.</p>]]>
-      </description>
-      <source:markdown>Statue of Trump and Epstein holding hands placed on National Mall.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/24/1211/</guid>
-    </item>    <item>
-      <link>https://m.youtube.com/watch?v=aTZjo42xRH4</link>
-      <description>
-        <![CDATA[<p>Jimmy Kimmel opening monologue last night.</p>]]>
-      </description>
-      <source:markdown>Jimmy Kimmel opening monologue last night.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/24/1209/</guid>
-    </item>    <item>
-      <title>The New McCarthyism: On Canary Mission’s Toxic Blacklisting of Pro-Palestinian Sentiment</title>
-      <link>https://lithub.com/the-new-mccarthyism-on-canary-missions-toxic-blacklisting-of-pro-palestinian-sentiment/</link>
-      <description>
-        <![CDATA[In February 2015, a friend texted me the following message: Hey Omar, there’s a new site you need to see… it has your name and information on it. Graduate school is hard for everyone, but I think it’s fair to assume that the majority of grad students don’t count being blacklisted among the list of [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=259732</guid>
-    </item>    <item>
-      <title>On the Limits of Language at the End of the World</title>
-      <link>https://lithub.com/on-the-limits-of-language-at-the-end-of-the-world/</link>
-      <description>
-        <![CDATA[Four centuries ago, somebody starving in the drought-afflicted Elbe region in what is today the Czech Republic anonymously chiseled onto the stone of the receding river bank a warning. Here, along the river where one day American and Soviet troops would meet on their dual approach to Berlin, a graffito made by an unknown hand [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=259893</guid>
-    </item>    <item>
-      <title>Against True Crime Sensationalism</title>
-      <link>https://lithub.com/against-true-crime-sensationalism/</link>
-      <description>
-        <![CDATA[In November 2016, when I arrived at Sing Sing, the prison was much less intense than Attica. Batons stayed on hips. COs, who were mostly Black and Hispanic, and about half of whom were women, talked to you, not at you, and sometimes even laughed with you. They were from our communities. There was a [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=259881</guid>
-    </item>    <item>
-      <title>Why Drag Queen Story Hour Matters</title>
-      <link>https://lithub.com/why-drag-queen-story-hour-matters/</link>
-      <description>
-        <![CDATA[In the world of drag, reading is fundamental. It’s one of those great lessons from the documentary classic Paris Is Burning, and reading has also found its way into our lexicon thanks to the pop culture juggernaut RuPaul’s Drag Race. But in this case, I am not actually referring to the iconic queer art of [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=259747</guid>
-    </item>    <item>
-      <title>Writing Yourself Into Existence: On Loving Worlds Where We Don’t Belong</title>
-      <link>https://lithub.com/writing-yourself-into-existence-on-loving-worlds-where-we-dont-belong/</link>
-      <description>
-        <![CDATA[“It comes as a great shock to discover that the flag to which you have pledged allegiance has not pledged allegiance to you. It comes as a great shock to see Gary Cooper killing off the Indians and, although you are rooting for Gary Cooper, that the Indians are you.” –James Baldwin * Before moving [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=259742</guid>
-    </item>    <item>
-      <title>From Leninism to Legalism: On the Ideological Evolution of Soviet Dissidents</title>
-      <link>https://lithub.com/from-leninism-to-legalism-on-the-ideological-evolution-of-soviet-dissidents/</link>
-      <description>
-        <![CDATA[During Joseph Stalin’s final years in power, and continuing into Nikita Khrushchev’s Thaw, no worldview, no way of thinking, no set of texts contributed more to oppositional activity in the Soviet Union than those of Marxism-Leninism. Even as it continued to fortify the Communist Party’s monopoly on power, serving as a potent instrument of legitimation [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=259774</guid>
-    </item>    <item>
-      <title>Mariana Enriquez on Burning a Manuscript</title>
-      <link>https://lithub.com/mariana-enriquez-on-burning-a-manuscript/</link>
-      <description>
-        <![CDATA[This is Thresholds, a series of conversations with writers about experiences that completely turned them upside down, disoriented them in their lives, changed them, and changed how and why they wanted to write. Hosted by Jordan Kisner, author of the essay collection Thin Places. Thresholds is a co-production between Black Mountain Institute and Literary Hub * [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=260172</guid>
-    </item>    <item>
-      <title>We Love You, Bunny</title>
-      <link>https://lithub.com/we-love-you-bunny/</link>
-      <description>
-        <![CDATA[How did we end up in a circle surrounding the bunny in Kyra&#8217;s attic? Well, Bunny led us there, if you can believe it. Hopped all the way from the garden to her place. He even looked over his bloody shoulder to see were we following? Fuck yes, Bunny. Following with no idea at all [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=259758</guid>
-    </item>    <item>
-      <title>Office Hours: Trump’s next target?</title>
-      <link>https://robertreich.substack.com/p/office-hours-whats-his-next-target</link>
-      <description>
-        <![CDATA[Who or what will Trump target next in his crackdown on criticism?]]>
-      </description>
-      <source:markdown>Who or what will Trump target next in his crackdown on criticism?</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!e65f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b51fa98-eb9e-4b7c-9f15-8ca8a8cbdd63_3500x3025.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/office-hours-whats-his-next-target</guid>
-    </item>    <item>
-      <title>Gabrielle Bates and Keetje Kuipers Are Seeking Wildness</title>
-      <link>https://lithub.com/gabrielle-bates-and-keetje-kuipers-are-seeking-wildness/</link>
-      <description>
-        <![CDATA[This is Awakeners, a Lit Hub Radio podcast about mentorship in the literary arts. Robert Frost allegedly said he was not a teacher but an “awakener.” On every episode of this podcast, host Lena Crown speaks with writers, artists, critics, and scholars across generations who have awakened something for one another. We chat about how [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=260169</guid>
-    </item>    <item>
-      <title>Go proposal: new(expr)</title>
-      <link>https://antonz.org/accepted/new-expr/</link>
-      <description>
-        <![CDATA[Allow the new built-in to be called on expressions.]]>
-      </description>
-      <source:markdown>Allow the new built-in to be called on expressions.</source:markdown>
-      <guid>cid://https://antonz.org/accepted/new-expr/</guid>
-    </item>    <item>
-      <title>Accepted! Go proposals distilled</title>
-      <link>https://antonz.org/accepted/</link>
-      <description>
-        <![CDATA[Stay updated on changes coming in future Go releases.]]>
-      </description>
-      <source:markdown>Stay updated on changes coming in future Go releases.</source:markdown>
-      <guid>cid://https://antonz.org/accepted/</guid>
-    </item>    <item>
-      <title>September 23, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-23-2025</link>
-      <description>
-        <![CDATA[In New York City this morning, the United Nations opened its General Assembly, marking the 80th anniversary of the establishment of the United Nations itself.]]>
-      </description>
-      <source:markdown>In New York City this morning, the United Nations opened its General Assembly, marking the 80th anniversary of the establishment of the United Nations itself.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-23-2025</guid>
-    </item>    <item>
-      <title>Finished reading Demon World Boba Shop Vol. 3</title>
-      <link>https://www.mollywhite.net/reading/books?search=Demon%20World%20Boba%20Shop%20Vol.%203</link>
-      <guid>cid://68d4031e2a5a8ca185280efe</guid>
-    </item>    <item>
-      <title>The Continuing End of OTA TV, Part 1</title>
-      <link>https://doc.searls.com/2025/09/23/the-continuing-end-of-ota-tv/</link>
-      <description>
-        <![CDATA[I&#8217;ve split this post into two parts, because it&#8217;s important to unpack how legacy TV works, and why the whole thing is falling apart, with OTA—over-the-air—TV dying first and fastest. Here is Part 2. I haven&#8217;t watched Jimmy Kimmel Live, or any late-night talk shows since Carson, and I didn&#8217;t watch much of him either. [&#8230;]]]>
-      </description>
-      <source:markdown>I’ve split this post into two parts, because it’s important to unpack how legacy TV works, and why the whole thing is falling apart, with OTA—over-the-air—TV dying first and fastest. Here is Part 2. I haven’t watched Jimmy Kimmel Live, or any late-night talk shows since Carson, and I didn’t watch much of him either. \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/?p=19464</guid>
-    </item>    <item>
-      <title>my &#34;shopping&#34; note keeps me from buying dumb shit all the time</title>
-      <link>https://livelaugh.blog/posts/my-shopping-note/</link>
-      <guid>cid://https://livelaugh.blog/posts/my-shopping-note/</guid>
-    </item>    <item>
-      <title>crates.io: Malicious crates faster_log and async_println</title>
-      <link>https://blog.rust-lang.org/2025/09/24/crates.io-malicious-crates-fasterlog-and-asyncprintln/</link>
-      <guid>cid://https://blog.rust-lang.org/2025/09/24/crates.io-malicious-crates-fasterlog-and-asyncprintln/</guid>
-    </item>    <item>
-      <title>LDaCA Technical Architecture Update</title>
-      <link>https://ptsefton.com/2025/09/24/ldaca-architecture-update/</link>
-      <guid>cid://https://ptsefton.com/2025/09/24/ldaca-architecture-update/</guid>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,70 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>15 Oct 25 15:10 -0700</lastBuildDate>
+    <lastBuildDate>16 Oct 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Chocolate-Pumpkin Marble Cake</title>
+      <link>https://www.bonappetit.com/recipe/chocolate-pumpkin-marble-cake</link>
+      <description>
+        <![CDATA[A rich and tender pumpkin cake that uses a whole can of pumpkin puree. No stand mixer needed and ideal for holiday gatherings.]]>
+      </description>
+      <source:markdown>A rich and tender pumpkin cake that uses a whole can of pumpkin puree. No stand mixer needed and ideal for holiday gatherings.</source:markdown>
+      <guid>cid://68de835b251dc5449444043e</guid>
+    </item>    <item>
+      <title>Pumpkin Tiramisu</title>
+      <link>https://www.bonappetit.com/recipe/pumpkin-tiramisu</link>
+      <description>
+        <![CDATA[Everything good about the classic dessert with the warming notes of a pumpkin spice latte.]]>
+      </description>
+      <source:markdown>Everything good about the classic dessert with the warming notes of a pumpkin spice latte.</source:markdown>
+      <guid>cid://68e9188c809126a84e85c112</guid>
+    </item>    <item>
+      <title>Pumpkin Mochi Crumb Cake</title>
+      <link>https://www.bonappetit.com/recipe/pumpkin-mochi-crumb-cake</link>
+      <description>
+        <![CDATA[Classic crumb cake meets bouncy pumpkin mochi cake for this season's dessert mashup.]]>
+      </description>
+      <source:markdown>Classic crumb cake meets bouncy pumpkin mochi cake for this season&#39;s dessert mashup.</source:markdown>
+      <guid>cid://68e9147ef28206212f0b397a</guid>
+    </item>    <item>
+      <title>Pumpkin Flan de Queso</title>
+      <link>https://www.bonappetit.com/recipe/pumpkin-flan-de-queso</link>
+      <description>
+        <![CDATA[This seasonal take on a Puerto Rican favorite adds pumpkin purée and a touch of warm spice for an autumnal flair.]]>
+      </description>
+      <source:markdown>This seasonal take on a Puerto Rican favorite adds pumpkin purée and a touch of warm spice for an autumnal flair.</source:markdown>
+      <guid>cid://68e9212303368057badc04a2</guid>
+    </item>    <item>
+      <title>Slow Cooker Chicken and Pumpkin Curry</title>
+      <link>https://www.closetcooking.com/slow-cooker-chicken-and-pumpkin-curry/</link>
+      <description>
+        <![CDATA[<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/10/Slow-Cooker-Chicken-and-Pumpkin-Curry-1200-8857.jpg"/></div>
+        <p>A super easy slow cooker chicken curry with a pumpkin and peanut sauce. Slow cookers can be pretty convenient; you just throw everything into them and let them do all the work! This slow cooker chicken and pumpkin curry is a tasty example of a recipe that is as easy as throwing all of the...</p>
+        <p><a class="more-link" href="https://www.closetcooking.com/slow-cooker-chicken-and-pumpkin-curry/">Read On &#8594;</a></p>
+        <p>The post <a href="https://www.closetcooking.com/slow-cooker-chicken-and-pumpkin-curry/">Slow Cooker Chicken and Pumpkin Curry</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://www.closetcooking.com/wp-content/uploads/2025/10/Slow-Cooker-Chicken-and-Pumpkin-Curry-1200-8857.jpg)
+
+A super easy slow cooker chicken curry with a pumpkin and peanut sauce. Slow cookers can be pretty convenient; you just throw everything into them and let them do all the work! This slow cooker chicken and pumpkin curry is a tasty example of a recipe that is as easy as throwing all of the...
+
+[Read On →](https://www.closetcooking.com/slow-cooker-chicken-and-pumpkin-curry/)
+
+The post [Slow Cooker Chicken and Pumpkin Curry](https://www.closetcooking.com/slow-cooker-chicken-and-pumpkin-curry/) appeared first on [Closet Cooking](https://www.closetcooking.com).</source:markdown>
+      <guid>cid://https://www.closetcooking.com/?p=86808</guid>
+    </item>    <item>
+      <title>Rice Recall: Various Types of Rice Recalled Due to Presence of Small Stones</title>
+      <link>https://www.tasteofhome.com/article/rice-recall-october-2025/</link>
+      <description>
+        <![CDATA[<p>Check your pantry before fixing dinner.</p>
+        <p>The post <a href="https://www.tasteofhome.com/article/rice-recall-october-2025/">Rice Recall: Various Types of Rice Recalled Due to Presence of Small Stones</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
+      </description>
+      <source:markdown>Check your pantry before fixing dinner.
+
+The post [Rice Recall: Various Types of Rice Recalled Due to Presence of Small Stones](https://www.tasteofhome.com/article/rice-recall-october-2025/) appeared first on [Taste of Home](https://www.tasteofhome.com).</source:markdown>
+      <guid>cid://https://www.tasteofhome.com/?p=2191789</guid>
+    </item>    <item>
       <title>Pop-Tarts Is Dropping a Protein Line that Mimics Its Original Flavors</title>
       <link>https://www.tasteofhome.com/article/pop-tarts-protein/</link>
       <description>
@@ -2823,124 +2883,6 @@ The post [Butternut Squash Alfredo Pasta](https://www.closetcooking.com/butternu
       </description>
       <source:markdown>A good espresso machine is an investment. But how much do you spend at the coffee shop every year?</source:markdown>
       <guid>cid://6217a6fb76105e2ea1d3648f</guid>
-    </item>    <item>
-      <title>Nespresso First to Claim Rainforest Alliance Regenerative Certified Coffee</title>
-      <link>https://dailycoffeenews.com/2025/09/24/nespresso-first-to-claim-rainforest-alliance-regenerative-certified-coffee/</link>
-      <description>
-        <![CDATA[<div><img width="620" height="377" src="https://dailycoffeenews.com/wp-content/uploads/2025/09/Nespresso-regenerative-certified-1-620x377.jpg" class="attachment-large size-large wp-post-image" alt="Nestle Nespresso SA-NESPRESSO ANNOUNCES FIRST COFFEE CERTIFIED R" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/09/Nespresso-regenerative-certified-1-620x377.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/09/Nespresso-regenerative-certified-1-300x183.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/09/Nespresso-regenerative-certified-1-150x91.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/09/Nespresso-regenerative-certified-1-768x467.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/09/Nespresso-regenerative-certified-1.jpg 1024w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; Nestlé-owned coffee giant Nespresso said it will be the first coffee brand to bring a Rainforest Alliance Regenerative certified coffee to market.&#160; According to a Sept. 24 company announcement,...]]>
-      </description>
-      <source:markdown>![Nestle Nespresso SA-NESPRESSO ANNOUNCES FIRST COFFEE CERTIFIED R](https://dailycoffeenews.com/wp-content/uploads/2025/09/Nespresso-regenerative-certified-1-620x377.jpg)
-
-  Nestlé-owned coffee giant Nespresso said it will be the first coffee brand to bring a Rainforest Alliance Regenerative certified coffee to market.  According to a Sept. 24 company announcement,...</source:markdown>
-      <guid>cid://https://dailycoffeenews.com/?p=191152</guid>
-    </item>    <item>
-      <title>Crunchy Cheesy Crisps</title>
-      <link>https://www.tasteofhome.com/recipes/crunchy-cheesy-crisps/</link>
-      <description>
-        <![CDATA[I found a recipe in one of my cookbooks, which I've had for quite some time, and tweaked it to make these cracker-like crisps. They go well with any dip or spread. —Dawn Lowenstein, Huntingdon Valley, Pennsylvania]]>
-      </description>
-      <source:markdown>I found a recipe in one of my cookbooks, which I&#39;ve had for quite some time, and tweaked it to make these cracker-like crisps. They go well with any dip or spread. —Dawn Lowenstein, Huntingdon Valley, Pennsylvania</source:markdown>
-      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2186348</guid>
-    </item>    <item>
-      <title>Spicy Cantaloupe Bites</title>
-      <link>https://www.tasteofhome.com/recipes/spicy-cantaloupe-bites/</link>
-      <description>
-        <![CDATA[Juicy melon, tangy sauce and assorted peppers come together to create a sweet and spicy tidbit. Combine these peppered melon balls with plain melon for a refreshing salad. —Aysha Schurman, Ammon, Idaho]]>
-      </description>
-      <source:markdown>Juicy melon, tangy sauce and assorted peppers come together to create a sweet and spicy tidbit. Combine these peppered melon balls with plain melon for a refreshing salad. —Aysha Schurman, Ammon, Idaho</source:markdown>
-      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2186350</guid>
-    </item>    <item>
-      <title>Pimiento Thumbprint Shortbreads with Jam</title>
-      <link>https://www.tasteofhome.com/recipes/pimiento-thumbprint-shortbreads-with-jam/</link>
-      <description>
-        <![CDATA[A twist on the classic jam-filled shortbreads, these savory and sweet treats are packed with flavor. Try mixing things up by using tomato bacon jam or raspberry jam instead of hot pepper jelly. —Courtnee Williams, Luray, Tennessee]]>
-      </description>
-      <source:markdown>A twist on the classic jam-filled shortbreads, these savory and sweet treats are packed with flavor. Try mixing things up by using tomato bacon jam or raspberry jam instead of hot pepper jelly. —Courtnee Williams, Luray, Tennessee</source:markdown>
-      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2186352</guid>
-    </item>    <item>
-      <title>EU Proposes Another 12-Month Delay to EUDR, Cites IT Issues</title>
-      <link>https://dailycoffeenews.com/2025/09/24/eu-proposes-another-12-month-delay-to-eudr-cites-it-issues/</link>
-      <description>
-        <![CDATA[<div><img width="620" height="473" src="https://dailycoffeenews.com/wp-content/uploads/2025/09/EUDR-620x473.jpg" class="attachment-large size-large wp-post-image" alt="EUDR" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/09/EUDR-620x473.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/09/EUDR-300x229.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/09/EUDR-150x114.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/09/EUDR-768x586.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/09/EUDR.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The European Commission is planning yet another one-year delay to enforcement of the EU Deforestation Regulation (EUDR), citing poor development and performance of the Commission&#8217;s IT system. The postponement plan...]]>
-      </description>
-      <guid>cid://https://dailycoffeenews.com/?p=191140</guid>
-    </item>    <item>
-      <title>Build-Outs Of Coffee: Slow Hurry In Youngstown, OH</title>
-      <link>https://sprudge.com/build-outs-of-coffee-slow-hurry-in-youngstown-oh-429378.html</link>
-      <description>
-        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Slow Hurry in Youngstown, Ohio.]]>
-      </description>
-      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. Slow Hurry in Youngstown, Ohio.**</source:markdown>
-      <guid>cid://https://sprudge.com/?p=429378</guid>
-    </item>    <item>
-      <title>Sprouts Farmers Market Expands Partnership With Klatch Coffee: 20 New Cafes Coming To Southern California</title>
-      <link>https://sprudge.com/sprouts-farmers-market-expands-partnership-with-klatch-coffee-20-new-cafes-coming-to-southern-california-431083.html</link>
-      <description>
-        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Celebrate National Coffee Day on September 29 with a Free Competition Cappuccino.]]>
-      </description>
-      <guid>cid://https://sprudge.com/?p=431083</guid>
-    </item>    <item>
-      <title>Sugar Leaf Coffee Roasters Sweetens the Scene in Milwaukee</title>
-      <link>https://dailycoffeenews.com/2025/09/24/sugar-leaf-coffee-roasters-sweetens-the-scene-in-milwaukee/</link>
-      <description>
-        <![CDATA[<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/09/Sugar-Leaf-Coffee-Milwaukee-roasterie-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Sugar Leaf Coffee Milwaukee roasterie" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/09/Sugar-Leaf-Coffee-Milwaukee-roasterie-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/09/Sugar-Leaf-Coffee-Milwaukee-roasterie-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/09/Sugar-Leaf-Coffee-Milwaukee-roasterie-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/09/Sugar-Leaf-Coffee-Milwaukee-roasterie-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/09/Sugar-Leaf-Coffee-Milwaukee-roasterie.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; A new standalone specialty coffee roaster called Sugar Leaf Coffee Roasterie is unfurling from its home base in Milwaukee, with industry veteran Steven Kessler at the helm. Sales of...]]>
-      </description>
-      <guid>cid://https://dailycoffeenews.com/?p=190864</guid>
-    </item>    <item>
-      <title>The Best Cordless Vacuum  Is the Only Floor Cleaning Device You Need (2025)</title>
-      <link>https://www.bonappetit.com/story/best-cordless-vacuum-cleaners</link>
-      <description>
-        <![CDATA[After four years of testing, we’ve found a versatile, space-saving device that does it all.]]>
-      </description>
-      <source:markdown>After four years of testing, we’ve found a versatile, space-saving device that does it all.</source:markdown>
-      <guid>cid://68114041e4e2aabde9305f85</guid>
-    </item>    <item>
-      <title>Coffee Gear Gets A Second Life At Second Shot Market</title>
-      <link>https://sprudge.com/coffee-gear-gets-a-second-life-at-second-shot-market-429526.html</link>
-      <description>
-        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Buy and sell used coffee gear at Second Shot Market.]]>
-      </description>
-      <guid>cid://https://sprudge.com/?p=429526</guid>
-    </item>    <item>
-      <title>Beef Caldereta Recipe (Filipino Beef Stew)</title>
-      <link>https://www.chilipeppermadness.com/recipes/beef-caldereta/</link>
-      <description>
-        <![CDATA[<a href="https://www.chilipeppermadness.com/recipes/beef-caldereta/" title="Beef Caldereta Recipe (Filipino Beef Stew)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Caldereta-Recipe1-SPOON-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Serving a large ladle full of Beef Caldereta (Filipino Beef Stew) from the pot" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Caldereta-Recipe1-SPOON-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Caldereta-Recipe1-SPOON-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Caldereta-Recipe1-SPOON-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Caldereta-Recipe1-SPOON-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Caldereta-Recipe1-SPOON-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Caldereta-Recipe1-SPOON-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Caldereta-Recipe1-SPOON.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Cook up authentic beef caldereta, a flavorful Filipino beef stew with tender beef, vegetables, tomatoes, olives, and spicy chilies, comforting, savory, and perfect with rice.</p>
-        <p>The post <a href="https://www.chilipeppermadness.com/recipes/beef-caldereta/">Beef Caldereta Recipe (Filipino Beef Stew)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>]]>
-      </description>
-      <source:markdown>[![Serving a large ladle full of Beef Caldereta (Filipino Beef Stew) from the pot](https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Caldereta-Recipe1-SPOON-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/beef-caldereta/ &#34;Beef Caldereta Recipe (Filipino Beef Stew)&#34;)
-
-Cook up authentic beef caldereta, a flavorful Filipino beef stew with tender beef, vegetables, tomatoes, olives, and spicy chilies, comforting, savory, and perfect with rice.
-
-The post [Beef Caldereta Recipe (Filipino Beef Stew)](https://www.chilipeppermadness.com/recipes/beef-caldereta/) appeared first on [Chili Pepper Madness](https://www.chilipeppermadness.com).</source:markdown>
-      <guid>cid://https://www.chilipeppermadness.com/?p=76162</guid>
-    </item>    <item>
-      <title>Matthew Evilsizor Has a Systematic Approach To Buying Espresso Machines</title>
-      <link>https://freshcup.com/matthew-evilsizor-has-a-systematic-approach-to-buying-espresso-machines/</link>
-      <description>
-        <![CDATA[<p>Coffee consultant Matthew Evilsizor breaks down his philosophy behind choosing commercial espresso machines for clients.</p>
-        <p>The post <a href="https://freshcup.com/matthew-evilsizor-has-a-systematic-approach-to-buying-espresso-machines/">Matthew Evilsizor Has a Systematic Approach To Buying Espresso Machines</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
-      </description>
-      <source:markdown>Coffee consultant Matthew Evilsizor breaks down his philosophy behind choosing commercial espresso machines for clients.
-
-The post [Matthew Evilsizor Has a Systematic Approach To Buying Espresso Machines](https://freshcup.com/matthew-evilsizor-has-a-systematic-approach-to-buying-espresso-machines/) appeared first on [Fresh Cup](https://freshcup.com).</source:markdown>
-      <guid>cid://https://freshcup.com/?p=42792</guid>
-    </item>    <item>
-      <title>Egg Puffs</title>
-      <link>https://www.tasteofhome.com/recipes/cheesy-egg-puffs/</link>
-      <description>
-        <![CDATA[Cheesy egg puffs baked in muffin tins are protein-packed, flavorful and perfectly portioned for solo breakfasts or group gatherings.]]>
-      </description>
-      <source:markdown>Cheesy egg puffs baked in muffin tins are protein-packed, flavorful and perfectly portioned for solo breakfasts or group gatherings.</source:markdown>
-      <guid>cid://http://origin-www.tasteofhome.com/recipes/cheesy-egg-puffs/</guid>
-    </item>    <item>
-      <title>Salted Caramel Cookies</title>
-      <link>https://www.tasteofhome.com/recipes/salted-caramel-cookies/</link>
-      <description>
-        <![CDATA[Our salted caramel cookies combine homemade caramel and chocolate chunks with decadent brown-butter cookie base.]]>
-      </description>
-      <source:markdown>Our salted caramel cookies combine homemade caramel and chocolate chunks with decadent brown-butter cookie base.</source:markdown>
-      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2175244</guid>
     </item>
   </channel>
 </rss>
