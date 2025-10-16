@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>16 Oct 25 07:47 -0700</lastBuildDate>
+    <lastBuildDate>16 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2025/10/16 - Getting there...</title>
+      <link>https://heyrick.eu/blog/entry/20251016</link>
+      <description>
+        <![CDATA[Getting there...]]>
+      </description>
+      <source:markdown>Getting there...</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20251016</guid>
+    </item>    <item>
       <title>HDPMI 3.23</title>
       <link>https://sourceforge.net/p/freedos/news/2025/10/hdpmi-323/</link>
       <description>

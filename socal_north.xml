@@ -7,10 +7,34 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>16 Oct 25 07:47 -0700</lastBuildDate>
+    <lastBuildDate>16 Oct 25 11:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>California hospitals are suing over the state’s efforts to curb their spending</title>
+      <link>https://laist.com/news/health/california-hospitals-are-suing-over-the-states-efforts-to-curb-their-spending</link>
+      <description>
+        <![CDATA[Hospitals argue that spending caps imposed by an affordability office will result in layoffs, cuts in health care services and reduced access to care for Californians.]]>
+      </description>
+      <source:markdown>Hospitals argue that spending caps imposed by an affordability office will result in layoffs, cuts in health care services and reduced access to care for Californians.</source:markdown>
+      <guid>cid://urn:uuid:00000199-edd1-dce4-a3f9-eff9ac650000</guid>
+    </item>    <item>
+      <title>Best things to do this weekend in LA and SoCal: Oct. 17-19</title>
+      <link>https://laist.com/news/arts-and-entertainment/best-weekend-events-los-angeles-southern-california-october-17-19</link>
+      <description>
+        <![CDATA[Honor West Covina at the Crazy Ex-Girlfriend reunion, put on your boots for the Great L.A. River Cleanup, meet nocturnal plants and animals at the California Botanic Garden, catch a spooky poolside screening in Irvine and more.]]>
+      </description>
+      <source:markdown>Honor West Covina at the Crazy Ex-Girlfriend reunion, put on your boots for the Great L.A. River Cleanup, meet nocturnal plants and animals at the California Botanic Garden, catch a spooky poolside screening in Irvine and more.</source:markdown>
+      <guid>cid://urn:uuid:00000199-eda2-dc80-a5fb-edfa41740000</guid>
+    </item>    <item>
+      <title>Newsom unveils $11 state insulin for Californians: ‘We took matters into our own hands’</title>
+      <link>https://laist.com/news/health/newsom-unveils-11-state-insulin-for-californians</link>
+      <description>
+        <![CDATA[California's first insulin pens will be for sale two years after the governor’s promised delivery date in 2024.]]>
+      </description>
+      <source:markdown>California&#39;s first insulin pens will be for sale two years after the governor’s promised delivery date in 2024.</source:markdown>
+      <guid>cid://urn:uuid:00000199-edbc-dce4-a3f9-efbc418e0000</guid>
+    </item>    <item>
       <title>At 93 years old, LA artist who helped popularize Day of the Dead gets her first solo show</title>
       <link>https://laist.com/news/arts-and-entertainment/la-artist-who-helped-popularize-day-of-the-dead-gets-first-solo-show</link>
       <description>
@@ -19,14 +43,6 @@
       <source:markdown>L.A.’s preeminent altarista Ofelia Esparza’s work will be on display at the Vincent Price Museum from October to April.</source:markdown>
       <guid>cid://urn:uuid:00000199-e95f-d89a-a3b9-fddf34af0006</guid>
     </item>    <item>
-      <title>Mistrust in Santa Ana City Hall brews within City Council over questions about canceled state contract</title>
-      <link>https://laist.com/news/politics/mistrust-in-santa-ana-city-hall-brews-within-city-council-over-questions-about-canceled-state-contract</link>
-      <description>
-        <![CDATA[City management dropped a $7M contract with the state for childcare without telling the council.]]>
-      </description>
-      <source:markdown>City management dropped a $7M contract with the state for childcare without telling the council.</source:markdown>
-      <guid>cid://urn:uuid:00000199-ea1f-d89a-a3b9-ff9f677f0000</guid>
-    </item>    <item>
       <title>Newsom signs law clarifying that landlords must clean fire debris</title>
       <link>https://laist.com/news/housing-homelessness/landlord-tenant-fire-ash-smoke-cleaning-law-los-angeles</link>
       <description>
@@ -34,6 +50,14 @@
       </description>
       <source:markdown>Local officials told renters they couldn’t force landlords to clean ash-covered homes. A new state law, inspired in part by LAist’s reporting, clarifies who’s responsible.</source:markdown>
       <guid>cid://urn:uuid:00000199-ea08-dc1c-a3bd-eacddeda0000</guid>
+    </item>    <item>
+      <title>Mistrust in Santa Ana City Hall brews within City Council over questions about canceled state contract</title>
+      <link>https://laist.com/news/politics/mistrust-in-santa-ana-city-hall-brews-within-city-council-over-questions-about-canceled-state-contract</link>
+      <description>
+        <![CDATA[City management dropped a $7M contract with the state for childcare without telling the council.]]>
+      </description>
+      <source:markdown>City management dropped a $7M contract with the state for childcare without telling the council.</source:markdown>
+      <guid>cid://urn:uuid:00000199-ea1f-d89a-a3b9-ff9f677f0000</guid>
     </item>    <item>
       <title>Public immigration sweeps in LA are not new — similar tactics were used in the 1930s</title>
       <link>https://laist.com/news/la-history/public-immigration-sweeps-in-la-are-not-new-similar-tactics-were-used-in-the-1930s</link>
