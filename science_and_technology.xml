@@ -4,10 +4,88 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>16 Oct 25 11:11 -0700</lastBuildDate>
+    <lastBuildDate>16 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>An initial investigation into WDDM on ReactOS</title>
+      <link>https://www.osnews.com/story/143552/an-initial-investigation-into-wddm-on-reactos/</link>
+      <description>
+        <![CDATA[One of the problems the ReactOS project continually has to deal with is that Windows is, of course, an evolving, moving target. Trying to be a Windows-compatible operating system means you&#8217;re going to have to tie that moving target down, and for ReactOS, the current focus is on being compatible with Windows Server 2003 &#8220;or later&#8221;. This &#8220;or later&#8221; part is getting a major boost in a very crucial area. The history of ReactOS spans a wider range than the lives of many of the people who work on it today. Incredible individuals have come and gone from the project with vastly different goals for what they want to see developed. In recent years, better hardware support has emerged as one of those goals. As ReactOS gazes towards the world of Vista and beyond, a few questions about how hardware works emerge. Vista introduced massive overhauls to how hardware drivers are written and maintained. Gradually we’re trying to handle many of these overhauls with great success. Today we talk about WDDM, or the Windows Display Driver Model. An initial investigation into WDDM on ReactOS There&#8217;s a ton of technical details in the blog post, but the end result is that ReactOS can now tentatively load some WDDM drivers. For instance, ReactOS can run NVIDIA&#8217;s Windows 7 driver now, and the example used an NVIDIA GTX 1070. Of course, we&#8217;re looking at basic 2D display output only and no 3D acceleration, so don&#8217;t expect to be running any 3D games on ReactOS any time soon. Still, this is a pretty massive step forward for ReactOS, but of course, a ton more work remains to be done, as is always the case for ReactOS. I do have to say &#8211; the fact that WDDM support is now on the table and progress is being made here is great news. ReactOS is not even remotely close to being an alternative to Windows, but even if it never gets there, it&#8217;s a great showcase for what talented, determined developers can do, and they deserve recognition for that.]]>
+      </description>
+      <source:markdown>One of the problems the ReactOS project continually has to deal with is that Windows is, of course, an evolving, moving target. Trying to be a Windows-compatible operating system means you’re going to have to tie that moving target down, and for ReactOS, the current focus is on being compatible with Windows Server 2003 “or later”. This “or later” part is getting a major boost in a very crucial area. The history of ReactOS spans a wider range than the lives of many of the people who work on it today. Incredible individuals have come and gone from the project with vastly different goals for what they want to see developed. In recent years, better hardware support has emerged as one of those goals. As ReactOS gazes towards the world of Vista and beyond, a few questions about how hardware works emerge. Vista introduced massive overhauls to how hardware drivers are written and maintained. Gradually we’re trying to handle many of these overhauls with great success. Today we talk about WDDM, or the Windows Display Driver Model. An initial investigation into WDDM on ReactOS There’s a ton of technical details in the blog post, but the end result is that ReactOS can now tentatively load some WDDM drivers. For instance, ReactOS can run NVIDIA’s Windows 7 driver now, and the example used an NVIDIA GTX 1070. Of course, we’re looking at basic 2D display output only and no 3D acceleration, so don’t expect to be running any 3D games on ReactOS any time soon. Still, this is a pretty massive step forward for ReactOS, but of course, a ton more work remains to be done, as is always the case for ReactOS. I do have to say – the fact that WDDM support is now on the table and progress is being made here is great news. ReactOS is not even remotely close to being an alternative to Windows, but even if it never gets there, it’s a great showcase for what talented, determined developers can do, and they deserve recognition for that.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143552</guid>
+    </item>    <item>
+      <title>Zora Neale Hurston&#39;s Forgotten Play Premieres on Stage for the First Time</title>
+      <link>https://www.smithsonianmag.com/smart-news/zora-neale-hurstons-forgotten-play-premieres-on-stage-for-the-first-time-180987521/</link>
+      <description>
+        <![CDATA[Based on the author's short story and ethnographic fieldwork, "Spunk" languished in Library of Congress' archives for decades]]>
+      </description>
+      <source:markdown>Based on the author&#39;s short story and ethnographic fieldwork, &#34;Spunk&#34; languished in Library of Congress&#39; archives for decades</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/vuwcw3f7PSCqLWZJhsGA0S0PzHE=/420x240/filters:focal(2400x1920:2401x1921)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/56/99/569984c3-2f27-4a18-a1c7-df66dfa5f3ce/gettyimages-2211321345.jpg" length="" type="" />
+    </item>    <item>
+      <title>Decomposed dinosaurs make Texas a top destination for AI bit barns</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/16/texas_ai_bitbarns/</link>
+      <description>
+        <![CDATA[<h4>Datacenter hopefuls looking to cash in on AI craze are setting up shop in Lone Star State in search of cheap power</h4> <p>Everything is bigger in Texas and that includes the GPU bit barns at the heart of the AI boom.…</p>]]>
+      </description>
+      <source:markdown>#### Datacenter hopefuls looking to cash in on AI craze are setting up shop in Lone Star State in search of cheap power
+
+Everything is bigger in Texas and that includes the GPU bit barns at the heart of the AI boom.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242527</guid>
+    </item>    <item>
+      <title>HyImpulse: Millionen für die geplante Weltraumrakete</title>
+      <link>https://www.heise.de/news/HyImpulse-Millionen-fuer-die-geplante-Weltraumrakete-10773816.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Im Jahr 2027 will das deutsche Start-up HyImpulse eine Weltraumrakete starten. In einer ersten Finanzierungsrunde sind nun 45 Millionen Euro zusammengekommen.]]>
+      </description>
+      <source:markdown>Im Jahr 2027 will das deutsche Start-up HyImpulse eine Weltraumrakete starten. In einer ersten Finanzierungsrunde sind nun 45 Millionen Euro zusammengekommen.</source:markdown>
+      <guid>cid://http://heise.de/-10773816</guid>
+    </item>    <item>
+      <title>Vulnerability scores, huh, what are they good for? Almost nothing</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/16/cve_cvss_scores_not_useful/</link>
+      <description>
+        <![CDATA[<h4>CVE and CVSS systems suffer from misaligned incentives and inconsistency</h4> <p>Aram Hovespyan, co-founder and CEO of security biz Codific, says that the rating systems for identifying security vulnerabilities and assessing threat risk need to be overhauled.…</p>]]>
+      </description>
+      <source:markdown>#### CVE and CVSS systems suffer from misaligned incentives and inconsistency
+
+Aram Hovespyan, co-founder and CEO of security biz Codific, says that the rating systems for identifying security vulnerabilities and assessing threat risk need to be overhauled.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242526</guid>
+    </item>    <item>
+      <title>Nork scammers work the blockchain to steal crypto from job hunters</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/16/norks_abuse_blockchains_to_scam/</link>
+      <description>
+        <![CDATA[<h4>If someone sends you a coding test, be wary of downloading it</h4> <p>If you&#39;re a software developer looking for a job, North Korean scammers have an offer for you that&#39;s off the chain, the blockchain that is. These gangs have recently adopted a technique called EtherHiding, hiding malware inside blockchain smart contracts to sneak past detection and ultimately swipe victims&#39; crypto and credentials, according to Google&#39;s Threat Intelligence team.…</p>]]>
+      </description>
+      <source:markdown>#### If someone sends you a coding test, be wary of downloading it
+
+If you&#39;re a software developer looking for a job, North Korean scammers have an offer for you that&#39;s off the chain, the blockchain that is. These gangs have recently adopted a technique called EtherHiding, hiding malware inside blockchain smart contracts to sneak past detection and ultimately swipe victims&#39; crypto and credentials, according to Google&#39;s Threat Intelligence team.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242525</guid>
+    </item>    <item>
+      <title>Researchers Created Structures That Produced Blood Cells in the Lab—With a Process That Mimics Real Human Embryos</title>
+      <link>https://www.smithsonianmag.com/smart-news/researchers-created-structures-that-produced-blood-cells-in-the-lab-with-a-process-that-mimics-real-human-embryos-180987516/</link>
+      <description>
+        <![CDATA[The advance could carry significant implications for studying blood diseases and early human development]]>
+      </description>
+      <source:markdown>The advance could carry significant implications for studying blood diseases and early human development</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/DA4fBYfbId-jCqHUbQHjXNKhpWA=/420x240/filters:focal(1480x916:1481x917)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/16/fa/16faf650-8055-4bff-8f86-4a417d35f671/screenshot_2025-10-15_at_124930.png" length="" type="" />
+    </item>    <item>
+      <title>Weitere Expansion: Lyft nimmt Kanada stärker in den Blick</title>
+      <link>https://www.heise.de/news/Weitere-Expansion-Lyft-nimmt-Kanada-staerker-in-den-Blick-10773782.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Lyft baut seine Präsenz außerhalb der Vereinigten Staaten weiter aus. Der Fahrdienstvermittler eröffnet ein Technologiezentrum im kanadischen Toronto.]]>
+      </description>
+      <source:markdown>Lyft baut seine Präsenz außerhalb der Vereinigten Staaten weiter aus. Der Fahrdienstvermittler eröffnet ein Technologiezentrum im kanadischen Toronto.</source:markdown>
+      <guid>cid://http://heise.de/-10773782</guid>
+    </item>    <item>
+      <title>Researchers Just Revealed the First-Ever Image of Two Black Holes Orbiting Each Other</title>
+      <link>https://www.smithsonianmag.com/smart-news/researchers-have-revealed-the-first-ever-image-of-two-black-holes-orbiting-each-other-180987507/</link>
+      <description>
+        <![CDATA[A new study may visually solve an enduring mystery about a bright object that's been studied since the 19th century]]>
+      </description>
+      <source:markdown>A new study may visually solve an enduring mystery about a bright object that&#39;s been studied since the 19th century</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/VGq_HRlQToVbBr8GUgoqBntCYU4=/420x240/filters:focal(703x790:704x791)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/03/db/03db46c1-9279-449a-ab69-a95fa1aedfd8/screenshot_2025-10-16_at_112028am.png" length="" type="" />
+    </item>    <item>
       <title>Top 8: Das beste smarte Vogelhaus mit Kamera, WLAN &#38; KI – zum Bauen oder Kaufen</title>
       <link>https://www.heise.de/bestenlisten/testsieger/top-8-das-beste-smarte-vogelhaus-mit-kamera-wlan-ki-zum-bauen-oder-kaufen/1zfv3b1?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
@@ -73,9 +151,9 @@ China&#39;s cyberspies quietly broke into a Russian IT service provider in what 
       <title>Neue PC-Spiele im November 2025: &#34;Anno 117: Pax Romana&#34;</title>
       <link>https://www.heise.de/news/Neue-PC-Spiele-im-November-2025-Anno-117-Pax-Romana-10773578.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
-        <![CDATA[Im November geht mit "Anno 117: Pax Romana" der 8. "Anno"-Teil den Start. Außerdem werden "Europa Universalis V" sowie "Constance" veröffentlicht.]]>
+        <![CDATA[Im November geht mit "Anno 117: Pax Romana" der 8. "Anno"-Teil an den Start. Außerdem werden "Europa Universalis V" sowie "Constance" veröffentlicht.]]>
       </description>
-      <source:markdown>Im November geht mit &#34;Anno 117: Pax Romana&#34; der 8. &#34;Anno&#34;-Teil den Start. Außerdem werden &#34;Europa Universalis V&#34; sowie &#34;Constance&#34; veröffentlicht.</source:markdown>
+      <source:markdown>Im November geht mit &#34;Anno 117: Pax Romana&#34; der 8. &#34;Anno&#34;-Teil an den Start. Außerdem werden &#34;Europa Universalis V&#34; sowie &#34;Constance&#34; veröffentlicht.</source:markdown>
       <guid>cid://http://heise.de/-10773578</guid>
     </item>    <item>
       <title>heise+ | Roboter und Baukästen: Lern-Gadgets für Kinder ausprobiert</title>

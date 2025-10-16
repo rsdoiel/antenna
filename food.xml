@@ -4,10 +4,26 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>16 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>16 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Best-Ever Pumpkin Pie</title>
+      <link>https://www.bonappetit.com/recipe/best-pumpkin-pie</link>
+      <description>
+        <![CDATA[Silky filling, flaky crust, a whisper of spice: This is pumpkin pie done right.]]>
+      </description>
+      <source:markdown>Silky filling, flaky crust, a whisper of spice: This is pumpkin pie done right.</source:markdown>
+      <guid>cid://582217f7d350256c0b272332</guid>
+    </item>    <item>
+      <title>Perfectly Spiced Pumpkin Cake</title>
+      <link>https://www.bonappetit.com/recipe/pumpkin-cake-cream-cheese-frosting</link>
+      <description>
+        <![CDATA[Warm, cozy, and plush—and the cream cheese frosting doesn’t hurt.]]>
+      </description>
+      <source:markdown>Warm, cozy, and plush—and the cream cheese frosting doesn’t hurt.</source:markdown>
+      <guid>cid://57ad2f76f1c801a1038bca42</guid>
+    </item>    <item>
       <title>La Marzocco And Victorinox Team Up For Coffee’s Own Swiss Army Knife</title>
       <link>https://sprudge.com/la-marzocco-and-victorinox-team-up-for-coffees-own-swiss-army-knife-454959.html</link>
       <description>
@@ -168,6 +184,14 @@ The post [Pop-Tarts Is Dropping a Protein Line that Mimics Its Original Flavors]
 
 The post [I Made Copycat Costco Marshmallow Crispy Cookies, and They Taste Just Like the Real Thing](https://www.tasteofhome.com/article/copycat-costco-marshmallow-crispy-cookies/) appeared first on [Taste of Home](https://www.tasteofhome.com).</source:markdown>
       <guid>cid://https://www.tasteofhome.com/?p=2191342</guid>
+    </item>    <item>
+      <title>Harvest Mezcalita</title>
+      <link>https://www.tasteofhome.com/recipes/harvest-mezcalita/</link>
+      <description>
+        <![CDATA[Toast the arrival of fall with this harvest mezcalita recipe that highlights the harmony between smoky mezcal and sweet apple cider.]]>
+      </description>
+      <source:markdown>Toast the arrival of fall with this harvest mezcalita recipe that highlights the harmony between smoky mezcal and sweet apple cider.</source:markdown>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2189437</guid>
     </item>    <item>
       <title>Here’s Why a Kitchen Cart Is Our Secret Weapon for Holiday Hosting</title>
       <link>https://www.tasteofhome.com/article/the-home-depot-kitchen-cart-2025/</link>
