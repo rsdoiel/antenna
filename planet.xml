@@ -4,10 +4,18 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>16 Oct 25 06:53 -0700</lastBuildDate>
+    <lastBuildDate>16 Oct 25 07:47 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Medical misadventure verdict returned at baby inquest</title>
+      <link>https://www.rte.ie/news/2025/1016/1538932-cavan-baby-inquest/</link>
+      <description>
+        <![CDATA[A verdict of medical misadventure has been returned at the inquest into the death of a 12-month-old child who died while in the care of Cavan General Hospital over two years ago.]]>
+      </description>
+      <source:markdown>A verdict of medical misadventure has been returned at the inquest into the death of a 12-month-old child who died while in the care of Cavan General Hospital over two years ago.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1016/1538932-cavan-baby-inquest/</guid>
+    </item>    <item>
       <title>Ab 2028: EU erweitert USB-C-Pflicht auf Ladegeräte</title>
       <link>https://www.heise.de/news/Ab-2028-EU-erweitert-USB-C-Pflicht-auf-Ladegeraete-10773228.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
@@ -24,7 +32,7 @@
       <source:markdown>VMwares frühere Endkunden-Sparte will sich von ihrer Herkunft emanzipieren und setzt dafür auf souveräne Dienste und mehr Offenheit.</source:markdown>
       <guid>cid://http://heise.de/-10773280</guid>
     </item>    <item>
-      <title>HSE facing up to €7m loss over medical devices company</title>
+      <title>HSE faces €7m loss over dealings with medical device firm</title>
       <link>https://www.rte.ie/news/politics/2025/1016/1538925-hse-public-accounts-committee/</link>
       <description>
         <![CDATA[The HSE could face a loss of up to €7m due to its dealings with a medical devices company that provided respiratory technology during the Covid-19 pandemic.]]>
@@ -388,16 +396,6 @@
       </description>
       <source:markdown>Für die passende Grafikkarte muss man sich durch ein Dickicht an Schlagwörtern und technischen Details kämpfen. Wir helfen Ihnen, das passende Modell zu finden.</source:markdown>
       <guid>cid://http://heise.de/-10544305</guid>
-    </item>    <item>
-      <title>Hamas says it needs special equipment to recover more hostages&#39; bodies</title>
-      <link>https://www.cbc.ca/news/world/hamas-israel-gaza-bodies-hostages-palestinians-9.6940446?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/71b537e2-40aa-4909-96bc-b86340c9e134,1760614662662/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5500%2C3093%29%3BResize%3D%28620%29' alt='Heavy machinery removes debris from a street.' width='620' height='349' title='Heavy machinery removes debris from a street, amid a ceasefire between Israel and Hamas, in Gaza City, October 14, 2025. REUTERS/Dawoud Abu Alkas'/><p>Israel said on Thursday it was preparing for the reopening of Gaza's Rafah crossing with Egypt to allow Palestinians in and out, but set no date for its completion as it traded blame with Hamas over violations of the U.S.-mediated ceasefire.</p>]]>
-      </description>
-      <source:markdown>![Heavy machinery removes debris from a street.](https://i.cbc.ca/ais/71b537e2-40aa-4909-96bc-b86340c9e134,1760614662662/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5500%2C3093%29%3BResize%3D%28620%29)
-
-Israel said on Thursday it was preparing for the reopening of Gaza&#39;s Rafah crossing with Egypt to allow Palestinians in and out, but set no date for its completion as it traded blame with Hamas over violations of the U.S.-mediated ceasefire.</source:markdown>
-      <guid>cid://9.6940446</guid>
     </item>    <item>
       <title>Rundfunkbeitrag verfassungswidrig? Richter stellen hohe Hürden auf</title>
       <link>https://www.heise.de/news/Rundfunkbeitrag-Verfassungswidrig-nur-bei-groeblicher-Verfehlung-10768710.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>

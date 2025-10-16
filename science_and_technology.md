@@ -22,3 +22,6 @@ title: Science and Technology
 - [System 76 Blog](https://blog.system76.com/rss.xml)
 - [Purism News](https://puri.sm/feed/)
 
+# European Tech
+
+- [Heise Online](https://www.heise.de/rss/heise-atom.xml)

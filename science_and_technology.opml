@@ -2,10 +2,11 @@
 <opml version="2.0">
     <head>
         <title>Science and Technology</title>
-        <dateCreated>16 Oct 25 06:53 -0700</dateCreated>
+        <dateCreated>16 Oct 25 07:47 -0700</dateCreated>
     </head>
     <body>
         <outline text="Caltech Magazine" type="rss" xmlUrl="https://magazine.caltech.edu/index?format=rss" htmlUrl="https://magazine.caltech.edu/"></outline>
+        <outline text="Heise Online" type="atom" xmlUrl="https://www.heise.de/rss/heise-atom.xml" htmlUrl="https://www.heise.de/rss/heise-atom.xml,https://www.heise.de/" description="Nachrichten nicht nur aus der Welt der Computer" url="https://www.heise.de/rss/heise-atom.xml"></outline>
         <outline text="NASA breaking news" type="rss" xmlUrl="https://www.nasa.gov/news-release/feed/" htmlUrl="https://www.nasa.gov,https://www.nasa.gov/news-release/feed/" description="Official National Aeronautics and Space Administration Website" url="https://www.nasa.gov/news-release/feed/"></outline>
         <outline text="NPR Short Wave" type="rss" category="Science,Life Sciences,News,Daily News" xmlUrl="https://feeds.npr.org/510351/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510351/short-wave" description="New discoveries, everyday mysteries, and the science behind the headlines — in just under 15 minutes. It&#39;s science for everyone, using a lot of creativity and a little humor. Join hosts Emily Kwong and Regina Barber for science on a different wavelength.&lt;br&gt;&lt;br&gt;&lt;em&gt;If you&#39;re hooked, try Short Wave Plus. Your subscription supports the show and unlocks a sponsor-free feed. Learn more at &lt;/em&gt;&lt;em&gt;plus.npr.org/&lt;/em&gt;&lt;em&gt;shortwave&lt;/em&gt;"></outline>
         <outline text="OS News" type="rss" xmlUrl="https://www.osnews.com/feed/" htmlUrl="https://www.osnews.com,https://www.osnews.com/feed/" description="Exploring the Future of Computing" url="https://www.osnews.com/feed/"></outline>
