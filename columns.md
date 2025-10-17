@@ -315,5 +315,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Massively Parallel Procrastination](https://blog.fsck.com/feed/feed.xml)
 - [Borowitz Report](https://www.borowitzreport.com/feed)
 - [Future Knowledge Podcast](https://feeds.transistor.fm/futureknowledge)
+- [Writing Off Code](https://christaalbrechtcrane.substack.com/feed)
 
 
