@@ -7,10 +7,18 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>17 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>17 Oct 25 08:33 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>How Do I Prepare My Phone for a Protest?</title>
+      <link>https://laist.com/news/how-do-i-prepare-my-phone-for-a-protest</link>
+      <description>
+        <![CDATA[Simple steps to take before hitting the streets.]]>
+      </description>
+      <source:markdown>Simple steps to take before hitting the streets.</source:markdown>
+      <guid>cid://urn:uuid:00000199-eec9-dc80-a5fb-efd9afe20000</guid>
+    </item>    <item>
       <title>No Kings protests will take place across SoCal on Saturday. Here&#39;s what you need to know</title>
       <link>https://laist.com/news/politics/no-kings-protests-will-take-place-across-socal-on-saturday-heres-what-you-need-to-know</link>
       <description>

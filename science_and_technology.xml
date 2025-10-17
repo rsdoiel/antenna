@@ -4,10 +4,120 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>17 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>17 Oct 25 08:33 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>heise+ | Fotografie: Unterwegs in der Normandie – auf den Spuren der Impressionisten</title>
+      <link>https://www.heise.de/ratgeber/Fotografie-Unterwegs-in-der-Normandie-auf-den-Spuren-der-Impressionisten-10733354.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Die Normandie ist bekannt für ihre alabasterfarbenen Felsklippen, die bereits Ende des 19. Jahrhunderts vielen Künstlern als Inspirationsquelle dienten.]]>
+      </description>
+      <source:markdown>Die Normandie ist bekannt für ihre alabasterfarbenen Felsklippen, die bereits Ende des 19. Jahrhunderts vielen Künstlern als Inspirationsquelle dienten.</source:markdown>
+      <guid>cid://http://heise.de/-10733354</guid>
+    </item>    <item>
+      <title>Sora 2 ist beeindruckend (und unangenehm)</title>
+      <link>https://www.heise.de/news/Sora-2-ist-beeindruckend-und-unangenehm-10777838.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Sora 2 heißt OpenAIs neue Video-Generierungs-App. In Wahrheit handelt es sich aber eher um einen TikTok-Klon -- und zeigt das riesige Problem der KI-Branche.]]>
+      </description>
+      <source:markdown>Sora 2 heißt OpenAIs neue Video-Generierungs-App. In Wahrheit handelt es sich aber eher um einen TikTok-Klon -- und zeigt das riesige Problem der KI-Branche.</source:markdown>
+      <guid>cid://http://heise.de/-10777838</guid>
+    </item>    <item>
+      <title>How the Brain Moves From Waking Life to Sleep (and Back Again)</title>
+      <link>https://www.quantamagazine.org/how-the-brain-moves-from-waking-life-to-sleep-and-back-again-20251017/</link>
+      <description>
+        <![CDATA[Neuroscientists probing the boundary between sleep and awareness are finding many types of liminal states, which help explain the sleep disorders that can result when sleep transitions go wrong.            <p>The post <a href="https://www.quantamagazine.org/how-the-brain-moves-from-waking-life-to-sleep-and-back-again-20251017/" target="_blank">How the Brain Moves From Waking Life to Sleep (and Back Again)</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Neuroscientists probing the boundary between sleep and awareness are finding many types of liminal states, which help explain the sleep disorders that can result when sleep transitions go wrong.
+
+The post [How the Brain Moves From Waking Life to Sleep (and Back Again)](https://www.quantamagazine.org/how-the-brain-moves-from-waking-life-to-sleep-and-back-again-20251017/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=155700</guid>
+    </item>    <item>
+      <title>Formel 1: US-Exklusivübertragung künftig bei Apple TV</title>
+      <link>https://www.heise.de/news/Formel-1-Apple-schnappt-sich-die-Exklusivrechte-fuer-die-USA-10778082.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Autorennen können Fans in den USA künftig nur noch mit Apple-TV-Abo sehen. Apples iPhone-Apps sollen für den Motorsport trommeln.]]>
+      </description>
+      <source:markdown>Die Autorennen können Fans in den USA künftig nur noch mit Apple-TV-Abo sehen. Apples iPhone-Apps sollen für den Motorsport trommeln.</source:markdown>
+      <guid>cid://http://heise.de/-10778082</guid>
+    </item>    <item>
+      <title>NLnet sponsors development of WPA3 support for OpenBSD</title>
+      <link>https://www.osnews.com/story/143558/nlnet-sponsors-development-of-wpa3-support-for-openbsd/</link>
+      <description>
+        <![CDATA[The NLnet foundation has sponsored a project to add WPA3 support to OpenBSD, support which in turn can be used by other operating systems. This project delivers the second open-source implementation of WPA3, the current industry standard for Wi-Fi encryption, specifically for the OpenBSD operating system. Its code can also be integrated by other operating systems to enable modern Wi-Fi encryption, thereby enhancing the diversity and resilience of the global IT ecosystem. ↫ NLnet foundation announcement WPA3 support seems to be the only other open source implementation of WPA3, so this is great news not only for OpenBSD, but also for other operating systems who rely on BSD network drivers through compatibility layers, like Haiku. FreeBSD, meanwhile, is planning to build its own WPA3 implementation, so they, too, might benefit form the work that&#8217;s going to be done through OpenBSD. October is listed as the start of this project, so work is probably already underway.]]>
+      </description>
+      <source:markdown>The NLnet foundation has sponsored a project to add WPA3 support to OpenBSD, support which in turn can be used by other operating systems. This project delivers the second open-source implementation of WPA3, the current industry standard for Wi-Fi encryption, specifically for the OpenBSD operating system. Its code can also be integrated by other operating systems to enable modern Wi-Fi encryption, thereby enhancing the diversity and resilience of the global IT ecosystem. ↫ NLnet foundation announcement WPA3 support seems to be the only other open source implementation of WPA3, so this is great news not only for OpenBSD, but also for other operating systems who rely on BSD network drivers through compatibility layers, like Haiku. FreeBSD, meanwhile, is planning to build its own WPA3 implementation, so they, too, might benefit form the work that’s going to be done through OpenBSD. October is listed as the start of this project, so work is probably already underway.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143558</guid>
+    </item>    <item>
+      <title>Windows 10, huh, what is it good for? PC upgrade cycles actually</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/17/windows_10_upgrades_lifts_global_pc_shipments/</link>
+      <description>
+        <![CDATA[<h4>Operating system&#39;s end of life D-day resucitates flatlining computer sector</h4> <p>It transpires that Windows 11 is indeed good for at least one thing – driving PC upgrades, according to the latest figures from Gartner.…</p>]]>
+      </description>
+      <source:markdown>#### Operating system&#39;s end of life D-day resucitates flatlining computer sector
+
+It transpires that Windows 11 is indeed good for at least one thing – driving PC upgrades, according to the latest figures from Gartner.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242539</guid>
+    </item>    <item>
+      <title>VMware Workstation Pro 25H2 mit USB 3.2 und neuer virtueller Hardware</title>
+      <link>https://www.heise.de/news/VMware-Workstation-Pro-25H2-mit-USB-3-2-und-neuer-virtueller-Hardware-10777802.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Broadcom hat VMware Workstation Pro 25H2 veröffentlicht. Neu sind USB 3.2, virtuelle Hardware in Version 22 und weitere Linux-Distributionen.]]>
+      </description>
+      <source:markdown>Broadcom hat VMware Workstation Pro 25H2 veröffentlicht. Neu sind USB 3.2, virtuelle Hardware in Version 22 und weitere Linux-Distributionen.</source:markdown>
+      <guid>cid://http://heise.de/-10777802</guid>
+    </item>    <item>
+      <title>Over-Ear-Kopfhörer CMF Headphone Pro im Test: Der neue Preis-Leistungs-Sieger</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/over-ear-kopfhoerer-cmf-headphone-pro-im-test-der-neue-preis-leistungs-sieger/24tqz9e?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die CMF Headphone Pro bieten einen tollen Klang, 100 Stunden Akkulaufzeit und eine clevere Bedienung – und sind preiswert.]]>
+      </description>
+      <source:markdown>Die CMF Headphone Pro bieten einen tollen Klang, 100 Stunden Akkulaufzeit und eine clevere Bedienung – und sind preiswert.</source:markdown>
+      <guid>cid://http://heise.de/-10777828</guid>
+    </item>    <item>
+      <title>40 Jahre 80386: Intels wichtigstes Produkt</title>
+      <link>https://www.heise.de/news/40-Jahre-80386-Intels-wichtigstes-Produkt-10777680.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Was heute als "x86" bekannt ist, nahm vor 40 Jahren seinen Anfang: Der Intel 80386 war 32-bittig, wurde über 20 Jahre gebaut und trieb nicht nur PCs an.]]>
+      </description>
+      <source:markdown>Was heute als &#34;x86&#34; bekannt ist, nahm vor 40 Jahren seinen Anfang: Der Intel 80386 war 32-bittig, wurde über 20 Jahre gebaut und trieb nicht nur PCs an.</source:markdown>
+      <guid>cid://http://heise.de/-10777680</guid>
+    </item>    <item>
+      <title>MSI: Palettenweise GeForce RTX 5090 in China &#34;nicht genehmigte Parallelimporte&#34;</title>
+      <link>https://www.heise.de/news/MSI-Palettenweise-GeForce-RTX-5090-in-China-nicht-genehmigte-Parallelimporte-10777918.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ein Bild zeigt Paletten von neuen MSI-RTX-5090-Grafikkarten in China. Die dürfte es dort nicht geben. Eine Untersuchung offenbart grundlegende Exportprobleme.]]>
+      </description>
+      <source:markdown>Ein Bild zeigt Paletten von neuen MSI-RTX-5090-Grafikkarten in China. Die dürfte es dort nicht geben. Eine Untersuchung offenbart grundlegende Exportprobleme.</source:markdown>
+      <guid>cid://http://heise.de/-10777918</guid>
+    </item>    <item>
+      <title>Our Human Ancestors Were Exposed to Lead, and New Research Suggests It May Have Shaped Human Evolution</title>
+      <link>https://www.smithsonianmag.com/smart-news/our-human-ancestors-were-exposed-to-lead-and-it-may-have-shaped-human-evolution-180987526/</link>
+      <description>
+        <![CDATA[Lead exposure may have spelled evolutionary success for humans—and extinction for our ancient cousins—but other scientists are casting doubt on the headline-making study]]>
+      </description>
+      <source:markdown>Lead exposure may have spelled evolutionary success for humans—and extinction for our ancient cousins—but other scientists are casting doubt on the headline-making study</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Vj0-H6ZXSg5LpO7rtRwyUiXNdjg=/420x240/filters:focal(350x183:351x184)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/25/8c/258c1c16-3e64-446c-be78-dfa4bccc32c6/low-res_muotri_neanderthal_skulls_desk_kyle.jpg" length="" type="" />
+    </item>    <item>
+      <title>Does Your Dog Love Chasing a Ball? Study Suggests Dog Toy ‘Addiction’ Is Real</title>
+      <link>https://www.smithsonianmag.com/smart-news/is-your-dog-chasing-ball-study-suggests-dog-toy-addiction-is-real-180987517/</link>
+      <description>
+        <![CDATA[The research documents addiction-like tendencies in canines, offering scientific evidence that appears to support owners' own observations]]>
+      </description>
+      <source:markdown>The research documents addiction-like tendencies in canines, offering scientific evidence that appears to support owners&#39; own observations</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/VuTV9IJIZZKIK5QekXCGH-iV5XU=/420x240/filters:focal(2520x1680:2521x1681)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5d/a3/5da39f73-734a-4580-b67f-9013ef8f1cff/pexels-blue-bird-7210262.jpg" length="" type="" />
+    </item>    <item>
+      <title>Labor unions sue Trump administration over social media surveillance</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/17/labor_unions_surveillance_lawsuit/</link>
+      <description>
+        <![CDATA[<h4>Sharing views POTUS doesn&#39;t like? Say goodbye to that visa, First Amendment be damned</h4> <p>Lawyers at the Electronic Frontier Foundation (EFF) are helping three US labor unions sue the Trump administration over a social media surveillance program that threatens to punish those who publicly express views that are not harmonious with the government&#39;s position.…</p>]]>
+      </description>
+      <source:markdown>#### Sharing views POTUS doesn&#39;t like? Say goodbye to that visa, First Amendment be damned
+
+Lawyers at the Electronic Frontier Foundation (EFF) are helping three US labor unions sue the Trump administration over a social media surveillance program that threatens to punish those who publicly express views that are not harmonious with the government&#39;s position.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242535</guid>
+    </item>    <item>
       <title>heise+ | Vorsicht, Kunde: Deutsche Glasfaser nimmt Internetanschluss nicht in Betrieb</title>
       <link>https://www.heise.de/ratgeber/Vorsicht-Kunde-Deutsche-Glasfaser-nimmt-Internetanschluss-nicht-in-Betrieb-10625669.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
       <description>
@@ -1274,9 +1384,9 @@ OpenAI is losing about three times more money than it&#39;s earning, and 95 perc
       <title>Scientists Resurrect 40,000-Year-Old Microbes From Alaskan Permafrost. What They Found Raised Worries About the Future of a Warming Arctic</title>
       <link>https://www.smithsonianmag.com/smart-news/scientists-resurrected-40000-year-old-microbes-from-alaskan-permafrost-180987509/</link>
       <description>
-        <![CDATA[The experiments offer new insights one of the “biggest unknowns” in how the climate will change in the years to come]]>
+        <![CDATA[The experiments offer new insights into one of the “biggest unknowns” in how the climate will change in the years to come]]>
       </description>
-      <source:markdown>The experiments offer new insights one of the “biggest unknowns” in how the climate will change in the years to come</source:markdown>
+      <source:markdown>The experiments offer new insights into one of the “biggest unknowns” in how the climate will change in the years to come</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/H9KZq9I6fD7oPt60gvRMrJW9uWk=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ba/db/badb513a-2979-4e5d-a494-0a3349c34069/permafrosttunnel1.png" length="" type="" />
     </item>    <item>
       <title>Apple goes all in on AI acceleration with M5 MacBook, iPad, and Vision Pros</title>
