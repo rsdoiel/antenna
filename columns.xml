@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>16 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>17 Oct 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -38,6 +38,251 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <title>Chicago’s Squirrel Hole</title>
+      <link>https://onefoottsunami.com/2025/10/17/chicagos-squirrel-hole/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29303</guid>
+    </item>    <item>
+      <link>https://missouriindependent.com/2025/10/17/what-is-an-american-are-they-christian-are-they-white/</link>
+      <description>
+        <![CDATA[<p>What is an American?  Are they Christian? Are they white?</p>]]>
+      </description>
+      <source:markdown>What is an American?  Are they Christian? Are they white?</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/17/1551/</guid>
+    </item>    <item>
+      <title>A Surprising Amount of Satellite Traffic Is Unencrypted</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/a-surprising-amount-of-satellite-traffic-is-unencrypted.html</link>
+      <description>
+        <![CDATA[<p>Here&#8217;s the <a href="https://satcom.sysnet.ucsd.edu/">summary</a>:</p>
+        <blockquote><p>We pointed a commercial-off-the-shelf satellite dish at the sky and carried out the most comprehensive public study to date of geostationary satellite communication. A shockingly large amount of sensitive traffic is being broadcast unencrypted, including critical infrastructure, internal corporate and government communications, private citizens&#8217; voice calls and SMS, and consumer Internet traffic from in-flight wifi and mobile networks. This data can be passively observed by anyone with a few hundred dollars of consumer-grade hardware. There are thousands of geostationary satellite transponders globally, and data from a single transponder may be visible from an area as large as 40% of the surface of the earth...</p></blockquote>]]>
+      </description>
+      <source:markdown>Here’s the [summary](https://satcom.sysnet.ucsd.edu/):
+
+&#62; We pointed a commercial-off-the-shelf satellite dish at the sky and carried out the most comprehensive public study to date of geostationary satellite communication. A shockingly large amount of sensitive traffic is being broadcast unencrypted, including critical infrastructure, internal corporate and government communications, private citizens’ voice calls and SMS, and consumer Internet traffic from in-flight wifi and mobile networks. This data can be passively observed by anyone with a few hundred dollars of consumer-grade hardware. There are thousands of geostationary satellite transponders globally, and data from a single transponder may be visible from an area as large as 40% of the surface of the earth...</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=71022</guid>
+    </item>    <item>
+      <title>Why Philip Pullman’s Books Are More Important Than Ever in Speaking Truth to Power</title>
+      <link>https://lithub.com/why-philip-pullmans-books-are-more-important-than-ever-in-speaking-truth-to-power/</link>
+      <description>
+        <![CDATA[When we first encounter Lyra Silvertongue, neé Belacqua, she is hidden in a wardrobe and listening intently to her uncle, Lord Asriel, give a presentation to Oxford scholars on his findings about Dust. Though she is only eleven years old,]]>
+      </description>
+      <source:markdown>When we first encounter Lyra Silvertongue, neé Belacqua, she is hidden in a wardrobe and listening intently to her uncle, Lord Asriel, give a presentation to Oxford scholars on his findings about Dust. Though she is only eleven years old,</source:markdown>
+      <guid>cid://https://lithub.com/?p=261271</guid>
+    </item>    <item>
+      <title>“How Living Are His Portraits of the Dead.” Toni Morrison on the Photography of James Van Der Zee</title>
+      <link>https://lithub.com/how-living-are-his-portraits-of-the-dead-toni-morrison-on-the-photography-of-james-van-der-zee/</link>
+      <description>
+        <![CDATA[Below is Toni Morrison&#8217;s introduction to The Harlem Book of the Dead by James Van Der Zee, Owen Dodson, and Camille Billops It is fashionable these days to hear among photography lovers the cry, &#8220;Oh, those early photographers really knew how to]]>
+      </description>
+      <source:markdown>Below is Toni Morrison’s introduction to The Harlem Book of the Dead by James Van Der Zee, Owen Dodson, and Camille Billops It is fashionable these days to hear among photography lovers the cry, “Oh, those early photographers really knew how to</source:markdown>
+      <guid>cid://https://lithub.com/?p=260495</guid>
+    </item>    <item>
+      <title>America First? No, Billionaire Buddies First</title>
+      <link>https://paulkrugman.substack.com/p/america-first-no-billionaire-buddies</link>
+      <description>
+        <![CDATA[Argentina: A very Trumpy debacle]]>
+      </description>
+      <source:markdown>Argentina: A very Trumpy debacle</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!X6iW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feffda48f-8b81-4de8-908c-6331e43384d2_1286x752.png" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/america-first-no-billionaire-buddies</guid>
+    </item>    <item>
+      <title>Lit Hub Daily: October 17, 2025</title>
+      <link>https://lithub.com/lit-hub-daily-october-17-2025/</link>
+      <description>
+        <![CDATA[Aisling Walsh on the 30-year legacy of His Dark Materials and why Philip Pullman understands that “true evil is never about the distorted cravings of a single person.” &#124; Lit Hub Criticism Toni Morrison explores the intimacy and humanity in]]>
+      </description>
+      <source:markdown>Aisling Walsh on the 30-year legacy of His Dark Materials and why Philip Pullman understands that “true evil is never about the distorted cravings of a single person.” \| Lit Hub Criticism Toni Morrison explores the intimacy and humanity in</source:markdown>
+      <guid>cid://https://lithub.com/?p=261272</guid>
+    </item>    <item>
+      <title>Real Photos That Look Fake</title>
+      <link>https://kottke.org/25/10/real-photos-that-look-fake</link>
+      <guid>cid://tag:kottke.org,2025://5.47721</guid>
+    </item>    <item>
+      <title>On the Art (and Artifice) of the Miniature</title>
+      <link>https://lithub.com/on-the-art-and-artifice-of-the-miniature/</link>
+      <description>
+        <![CDATA[The Kitchen It starts here: in the kitchen. Not a full-size kitchen, of course, but rather a miniature replica of a kitchen, a tiny kitchen with a tiny table where two tiny dolls sit, blank-eyed and smiling and ready to]]>
+      </description>
+      <source:markdown>The Kitchen It starts here: in the kitchen. Not a full-size kitchen, of course, but rather a miniature replica of a kitchen, a tiny kitchen with a tiny table where two tiny dolls sit, blank-eyed and smiling and ready to</source:markdown>
+      <guid>cid://https://lithub.com/?p=261081</guid>
+    </item>    <item>
+      <title>Sue Monk Kidd on Finding a Flow State in Writing</title>
+      <link>https://lithub.com/sue-monk-kidd-on-finding-a-flow-state-in-writing/</link>
+      <description>
+        <![CDATA[This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. The creative act of writing has brought meaning into my life in myriad ways, but it made itself known initially in the expe­rience of flow. I’m referring to the sense]]>
+      </description>
+      <source:markdown>This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. The creative act of writing has brought meaning into my life in myriad ways, but it made itself known initially in the expe­rience of flow. I’m referring to the sense</source:markdown>
+      <guid>cid://https://lithub.com/?p=261233</guid>
+    </item>    <item>
+      <title>A Palestinian Daughter’s Search for Connection with Her Father, Her Past, and Her Homeland</title>
+      <link>https://lithub.com/a-palestinian-daughters-search-for-connection-with-her-father-her-past-and-her-homeland/</link>
+      <description>
+        <![CDATA[Beirut, 2001 I am twenty-four years old when they amputate Baba’s foot. He will drag it halfway around the world for one more year, but for now he has no choice but to stop and convalesce, with me by his]]>
+      </description>
+      <source:markdown>Beirut, 2001 I am twenty-four years old when they amputate Baba’s foot. He will drag it halfway around the world for one more year, but for now he has no choice but to stop and convalesce, with me by his</source:markdown>
+      <guid>cid://https://lithub.com/?p=260931</guid>
+    </item>    <item>
+      <title>A Peek into Stephen King’s Archive and Behind the Best American Curtain on The Lit Hub Podcast</title>
+      <link>https://lithub.com/a-peek-into-stephen-kings-archive-and-behind-the-best-american-curtain-on-the-lit-hub-podcast/</link>
+      <description>
+        <![CDATA[A weekly behind-the-scenes dive into everything interesting, dynamic, strange, and wonderful happening in literary culture—featuring Lit Hub staff, columnists, and special guests! Hosted by Drew Broussard. Would spooky season be complete with some Stephen King? Constant reader, I submit to]]>
+      </description>
+      <source:markdown>A weekly behind-the-scenes dive into everything interesting, dynamic, strange, and wonderful happening in literary culture—featuring Lit Hub staff, columnists, and special guests! Hosted by Drew Broussard. Would spooky season be complete with some Stephen King? Constant reader, I submit to</source:markdown>
+      <guid>cid://https://lithub.com/?p=261303</guid>
+    </item>    <item>
+      <title>Singing For Freedom: How Those Fleeing Slavery Found New Lives in the North</title>
+      <link>https://lithub.com/singing-for-freedom-how-those-fleeing-slavery-found-new-lives-in-the-north/</link>
+      <description>
+        <![CDATA[The strangeness of the experience of running away, the abrupt departure of enslavement, shocked the consciousness of those who experienced it, creating a kind of daze that animated those who built new homes around the bare chimneys of Hampton, Virginia. The whips were]]>
+      </description>
+      <source:markdown>The strangeness of the experience of running away, the abrupt departure of enslavement, shocked the consciousness of those who experienced it, creating a kind of daze that animated those who built new homes around the bare chimneys of Hampton, Virginia. The whips were</source:markdown>
+      <guid>cid://https://lithub.com/?p=260911</guid>
+    </item>    <item>
+      <title>What Should You Read Next? Here Are the Best Reviewed Books of the Week</title>
+      <link>https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-10-17-2025/</link>
+      <description>
+        <![CDATA[Megha Majumdar’s A Guardian and a Thief, Susan Orlean’s Joyride, and Brandon Taylor’s Minor Black Figures all feature among the best reviewed books of the week Brought to you by Book Marks, Lit Hub’s home for book reviews. * Fiction 1.]]>
+      </description>
+      <source:markdown>Megha Majumdar’s A Guardian and a Thief, Susan Orlean’s Joyride, and Brandon Taylor’s Minor Black Figures all feature among the best reviewed books of the week Brought to you by Book Marks, Lit Hub’s home for book reviews. \* Fiction 1.</source:markdown>
+      <guid>cid://https://lithub.com/?p=261279</guid>
+    </item>    <item>
+      <title>Looking Back on Our Cringe-Worthy Selves: A Reading List for Teenage Weirdos</title>
+      <link>https://lithub.com/looking-back-on-our-cringe-worthy-selves-a-reading-list-for-teenage-weirdos/</link>
+      <description>
+        <![CDATA[As a teenager, I desperately searched for mirrors in the media. I clung onto melancholic Belle &#38; Sebastian songs and J.D. Salinger characters. I always felt like an outsider, writing my secrets on Tumblr, just wanting to be seen and]]>
+      </description>
+      <source:markdown>As a teenager, I desperately searched for mirrors in the media. I clung onto melancholic Belle &#38; Sebastian songs and J.D. Salinger characters. I always felt like an outsider, writing my secrets on Tumblr, just wanting to be seen and</source:markdown>
+      <guid>cid://https://lithub.com/?p=260836</guid>
+    </item>    <item>
+      <title>The Making of a Perfect Martini</title>
+      <link>https://kottke.org/25/10/the-making-of-a-perfect-martini</link>
+      <guid>cid://tag:kottke.org,2025://5.47722</guid>
+    </item>    <item>
+      <title>The Power Map of the Trump Regime</title>
+      <link>https://robertreich.substack.com/p/the-power-map-of-the-trump-regime</link>
+      <description>
+        <![CDATA[Who really works for whom?]]>
+      </description>
+      <source:markdown>Who really works for whom?</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!CEY0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd1a243b-2a66-43fa-88e5-e8ca4c1b6b79_3357x3500.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/the-power-map-of-the-trump-regime</guid>
+    </item>    <item>
+      <title>October 16, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-16-2025</link>
+      <description>
+        <![CDATA[Yesterday the Trump administration announced it would pay furloughed troops by using funds Congress appropriated for research, development, testing, and evaluation (RDTE) for fiscal year 2026.]]>
+      </description>
+      <source:markdown>Yesterday the Trump administration announced it would pay furloughed troops by using funds Congress appropriated for research, development, testing, and evaluation (RDTE) for fiscal year 2026.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-16-2025</guid>
+    </item>    <item>
+      <title>Go Computer Now! – The Story of Sphere Computers. &#38;#8220;If things had...</title>
+      <link>https://kottke.org/25/10/0047724-go-computer-now-the</link>
+      <guid>cid://tag:kottke.org,2025://13.47724</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m3ekffdkfs2y</link>
+      <description>
+        <![CDATA[👀
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>👀
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m3ekffdkfs2y</guid>
+    </item>    <item>
+      <link>https://this.how/standards/</link>
+      <description>
+        <![CDATA[<p>Rules for standards-makers.</p>]]>
+      </description>
+      <source:markdown>Rules for standards-makers.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/16/1549/</guid>
+    </item>    <item>
+      <title>Hackers Dox Hundreds of DHS, ICE, FBI, and DOJ Officials</title>
+      <link>https://www.404media.co/hackers-dox-hundreds-of-dhs-ice-fbi-and-doj-officials/</link>
+      <description>
+        <![CDATA[Scattered LAPSUS$ Hunters—one of the latest amalgamations of typically young, reckless, and English-speaking hackers—posted the apparent phone numbers and addresses of hundreds of government officials, including nearly 700 from DHS.]]>
+      </description>
+      <source:markdown>Scattered LAPSUS$ Hunters—one of the latest amalgamations of typically young, reckless, and English-speaking hackers—posted the apparent phone numbers and addresses of hundreds of government officials, including nearly 700 from DHS.</source:markdown>
+      <guid>cid://68f1a9e58c558000013896d9</guid>
+    </item>    <item>
+      <title>Luis Mendo is self-publishing a book about his life as a writer/artist...</title>
+      <link>https://kottke.org/25/10/0047723-luis-mendo-is-self-publis</link>
+      <guid>cid://tag:kottke.org,2025://13.47723</guid>
+    </item>    <item>
+      <title>Wikipedia Says AI Is Causing a Dangerous Decline in Human Visitors</title>
+      <link>https://www.404media.co/wikipedia-says-ai-is-causing-a-dangerous-decline-in-human-visitors/</link>
+      <description>
+        <![CDATA[“With fewer visits to Wikipedia, fewer volunteers may grow and enrich the content, and fewer individual donors may support this work.”]]>
+      </description>
+      <source:markdown>“With fewer visits to Wikipedia, fewer volunteers may grow and enrich the content, and fewer individual donors may support this work.”</source:markdown>
+      <guid>cid://68f181258c55800001388fe2</guid>
+    </item>    <item>
+      <title>My first adventure of the day is going to the Shunkaen Bonsai...</title>
+      <link>https://kottke.org/25/10/0047720-my-first-adventure-of-the</link>
+      <guid>cid://tag:kottke.org,2025://13.47720</guid>
+    </item>    <item>
+      <title>Friday 17 October, 2025</title>
+      <link>https://memex.naughtons.org/friday-17-october-2025/41296/</link>
+      <description>
+        <![CDATA[Momma Pigeon In the Summer of 2009, a pair of pigeons decided to have a family in our carport. This is the female, sitting placidly in the nest and paying no attention to her landlords. Quote of the Day ”I&#8217;d &#8230; <a href="https://memex.naughtons.org/friday-17-october-2025/41296/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>Momma Pigeon In the Summer of 2009, a pair of pigeons decided to have a family in our carport. This is the female, sitting placidly in the nest and paying no attention to her landlords. Quote of the Day ”I’d … [Continue reading →](https://memex.naughtons.org/friday-17-october-2025/41296/)</source:markdown>
+      <guid>cid://https://memex.naughtons.org/?p=41296</guid>
+    </item>    <item>
+      <title>I&#38;#8217;m hoping to post some of my photos from Japan here when...</title>
+      <link>https://kottke.org/25/10/0047719-i-hoping-to-post-some</link>
+      <guid>cid://tag:kottke.org,2025://13.47719</guid>
+    </item>    <item>
+      <title>The End of Aid</title>
+      <link>https://fixthenews.com/p/the-end-of-aid</link>
+      <description>
+        <![CDATA[The old model is dead. We spent a week watching a new one being born.]]>
+      </description>
+      <source:markdown>The old model is dead. We spent a week watching a new one being born.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!_Ka7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F789c438e-12fd-45e5-8699-48502fecc5e0_1170x530.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://fixthenews.com/p/the-end-of-aid</guid>
+    </item>    <item>
+      <title>Alexander the Great, with Mary Beard</title>
+      <link>https://therestishistory.com/alexander-the-great-with-mary-beard/</link>
+      <description>
+        <![CDATA[<p>No one was like him, terrible were his crimes… Where was Alexander the Great born, and who were his parents? What drove him to go beyond the Aegean empire he had already carved out for himself, and conquer lands beyond the limits of the Greek world? Why did Alexander eventually turn back, after ten years [&#8230;]</p>
+        <p>The post <a href="https://therestishistory.com/alexander-the-great-with-mary-beard/">Alexander the Great, with Mary Beard</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>]]>
+      </description>
+      <source:markdown>No one was like him, terrible were his crimes… Where was Alexander the Great born, and who were his parents? What drove him to go beyond the Aegean empire he had already carved out for himself, and conquer lands beyond the limits of the Greek world? Why did Alexander eventually turn back, after ten years \[…\]
+
+The post [Alexander the Great, with Mary Beard](https://therestishistory.com/alexander-the-great-with-mary-beard/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
+      <guid>cid://https://therestishistory.com/alexander-the-great-with-mary-beard/</guid>
+    </item>    <item>
+      <title>I stopped into the MEGA Donki (Don Quijote) in Shibuya last night...</title>
+      <link>https://kottke.org/25/10/0047718-i-stopped-into-the-mega</link>
+      <guid>cid://tag:kottke.org,2025://13.47718</guid>
+    </item>    <item>
+      <title>No Kings. No Tyranny.</title>
+      <link>https://steady.substack.com/p/no-kings-no-tyranny</link>
+      <description>
+        <![CDATA[Still valid revolutionary advice from Thomas Paine]]>
+      </description>
+      <source:markdown>Still valid revolutionary advice from Thomas Paine</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!_4zE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d14493c-e0b2-4ebc-b491-bf28b116684a_594x396.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/no-kings-no-tyranny</guid>
+    </item>    <item>
+      <title>Quoting Barry Zhang</title>
+      <link>https://simonwillison.net/2025/Oct/16/barry-zhang/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="https://twitter.com/barry_zyj/status/1978951690452615413"><p>Skills actually came out of a prototype I built demonstrating that Claude Code is a general-purpose agent :-) </p>
+        <p>It was a natural conclusion once we realized that bash + filesystem were all we needed</p></blockquote>
+        <p class="cite">&mdash; <a href="https://twitter.com/barry_zyj/status/1978951690452615413">Barry Zhang</a>, Anthropic</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/skills">skills</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>]]>
+      </description>
+      <source:markdown>&#62; Skills actually came out of a prototype I built demonstrating that Claude Code is a general-purpose agent :-)
+&#62;
+&#62; It was a natural conclusion once we realized that bash + filesystem were all we needed
+
+— [Barry Zhang](https://twitter.com/barry_zyj/status/1978951690452615413), Anthropic
+
+Tags: [skills](https://simonwillison.net/tags/skills), [claude-code](https://simonwillison.net/tags/claude-code), [ai-agents](https://simonwillison.net/tags/ai-agents), [generative-ai](https://simonwillison.net/tags/generative-ai), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/16/barry-zhang/#atom-everything</guid>
+    </item>    <item>
       <title>Claude Skills are awesome, maybe a bigger deal than MCP</title>
       <link>https://simonwillison.net/2025/Oct/16/claude-skills/#atom-everything</link>
       <description>
@@ -50,14 +295,14 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
         <p>(I inadvertently preempted their announcement of this feature when I reverse engineered and <a href="https://simonwillison.net/2025/Oct/10/claude-skills/">wrote about it last Friday</a>!)</p>
         <p>Skills are conceptually extremely simple: a skill is a Markdown file telling the model how to do something, optionally accompanied by extra documents and pre-written scripts that the model can run to help it accomplish the tasks described by the skill.</p>
         <p>Claude's new <a href="https://www.anthropic.com/news/create-files">document creation abilities</a>, which accompanied <a href="https://simonwillison.net/2025/Sep/9/claude-code-interpreter/">their new code interpreter feature</a> in September, turned out to be entirely implemented using skills. Those are <a href="https://github.com/anthropics/skills/tree/main/document-skills">now available Anthropic's repo</a> covering <code>.pdf</code>, <code>.docx</code>, <code>.xlsx</code>, and <code>.pptx</code> files.</p>
-        <p>There's one extra detail that makes this a feature, not just a bunch of files in disk. At the start of a session Claude's various harnesses can scan all available skill files and read a short explanation for each one from the frontmatter YAML in the Markdown file. This is <em>very</em> token efficient: each skill only takes up a few dozen extra tokens, with the full details only loaded in should the user request a task that the skill can help solve.</p>
+        <p>There's one extra detail that makes this a feature, not just a bunch of files on disk. At the start of a session Claude's various harnesses can scan all available skill files and read a short explanation for each one from the frontmatter YAML in the Markdown file. This is <em>very</em> token efficient: each skill only takes up a few dozen extra tokens, with the full details only loaded in should the user request a task that the skill can help solve.</p>
         <ul>
           <li><a href="https://simonwillison.net/2025/Oct/16/claude-skills/#trying-out-the-slack-gif-creator-skill">Trying out the slack-gif-creator skill</a></li>
           <li><a href="https://simonwillison.net/2025/Oct/16/claude-skills/#skills-depend-on-a-coding-environment">Skills depend on a coding environment</a></li>
-          <li><a href="https://simonwillison.net/2025/Oct/16/claude-skills/#claude-as-a-general-agent">Claude as a General Agent</a></li>
+          <li><a href="https://simonwillison.net/2025/Oct/16/claude-skills/#claude-as-a-general-agent">Claude Code as a General Agent</a></li>
           <li><a href="https://simonwillison.net/2025/Oct/16/claude-skills/#skills-compared-to-mcp">Skills compared to MCP</a></li>
           <li><a href="https://simonwillison.net/2025/Oct/16/claude-skills/#here-come-the-skills">Here come the Skills</a></li>
-        
+          <li><a href="https://simonwillison.net/2025/Oct/16/claude-skills/#the-simplicity-is-the-point">The simplicity is the point</a></li>
         </ul>
         <h4 id="trying-out-the-slack-gif-creator-skill">Trying out the slack-gif-creator skill</h4>
         <p>Here's that metadata for an example <a href="https://github.com/anthropics/skills/blob/main/slack-gif-creator/SKILL.md">slack-gif-creator skill</a> that Anthropic published this morning:</p>
@@ -128,7 +373,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
         <p>This is a common pattern for LLM tooling these days - ChatGPT Code Interpreter was the first big example of this <a href="https://simonwillison.net/2023/Apr/12/code-interpreter/">back in early 2023</a>, and the pattern later extended to local machines via coding agent tools such as Cursor, Claude Code, Codex CLI and Gemini CLI.</p>
         <p>This requirement is the biggest difference between skills and other previous attempts at expanding the abilities of LLMs, such as MCP and <a href="https://simonwillison.net/tags/chatgpt-plugins/">ChatGPT Plugins</a>. It's a significant dependency, but it's somewhat bewildering how much new capability it unlocks.</p>
         <p>The fact that skills are so powerful and simple to create is yet another argument in favor of making safe coding environments available to LLMs. The word <strong>safe</strong> there is doing a <em>lot</em> of work though! We really need to figure out how best to sandbox these environments such that attacks such as prompt injections are limited to an acceptable amount of damage.</p>
-        <h4 id="claude-as-a-general-agent">Claude as a General Agent</h4>
+        <h4 id="claude-as-a-general-agent">Claude Code as a General Agent</h4>
         <p>Back in January I <a href="https://simonwillison.net/2025/Jan/10/ai-predictions/">made some foolhardy predictions about AI/LLMs</a>, including that "agents" would once again fail to happen:</p>
         <blockquote>
         <p>I think we are going to see a <em>lot</em> more froth about agents in 2025, but I expect the results will be a great disappointment to most of the people who are excited about this term. I expect a lot of money will be lost chasing after several different poorly defined dreams that share that name.</p>
@@ -155,8 +400,14 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
         <p>Something else I love about the design of skills is there is nothing at all preventing them from being used with other models.</p>
         <p>You can grab a skills folder right now, point Codex CLI or Gemini CLI at it and say "read pdf/SKILL.md and then create me a PDF describing this project" and it will work, despite those tools and models having no baked in knowledge of the skills system.</p>
         <p>I expect we'll see a Cambrian explosion in Skills which will make this year's MCP rush look pedestrian by comparison.</p>
+        <h4 id="the-simplicity-is-the-point">The simplicity is the point</h4>
+        <p>I've seen a some push back against skills as being so simple they're hardly a feature at all. Plenty of people have experimented with the trick of dropping extra instructions into a Markdown file and telling the coding agent to read that file before continuing with a task. <a href="https://agents.md/">AGENTS.md</a> is a well established pattern, and that file can already include instructions to "Read PDF.md before attempting to create a PDF".</p>
+        <p>The core simplicity of the skills design is why I'm so excited about it.</p>
+        <p>MCP is a whole <a href="https://modelcontextprotocol.io/specification/2025-06-18">protocol specification</a>, covering hosts, clients, servers, resources, prompts, tools, sampling, roots, elicitation and three different transports (stdio, streamable HTTP and originally SSE).</p>
+        <p>Skills are Markdown with a tiny bit of YAML metadata and some optional scripts in whatever you can make executable in the environment. They feel a lot closer to the spirit of LLMs - throw in some text and let the model figure it out.</p>
+        <p>They outsource the hard parts to the LLM harness and the associated computer environment. Given everything we have learned about LLMs' ability to run tools over the last couple of years I think that's a very sensible strategy.</p>
             
-                <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/code-interpreter">code-interpreter</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/skills">skills</a></p>]]>
+                <p>Tags: <a href="https://simonwillison.net/tags/definitions">definitions</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/code-interpreter">code-interpreter</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/skills">skills</a></p>]]>
       </description>
       <source:markdown>Anthropic this morning [introduced Claude Skills](https://www.anthropic.com/news/skills), a new pattern for making new abilities available to their models:
 
@@ -172,13 +423,14 @@ Skills are conceptually extremely simple: a skill is a Markdown file telling the
 
 Claude&#39;s new [document creation abilities](https://www.anthropic.com/news/create-files), which accompanied [their new code interpreter feature](https://simonwillison.net/2025/Sep/9/claude-code-interpreter/) in September, turned out to be entirely implemented using skills. Those are [now available Anthropic&#39;s repo](https://github.com/anthropics/skills/tree/main/document-skills) covering `.pdf`, `.docx`, `.xlsx`, and `.pptx` files.
 
-There&#39;s one extra detail that makes this a feature, not just a bunch of files in disk. At the start of a session Claude&#39;s various harnesses can scan all available skill files and read a short explanation for each one from the frontmatter YAML in the Markdown file. This is _very_ token efficient: each skill only takes up a few dozen extra tokens, with the full details only loaded in should the user request a task that the skill can help solve.
+There&#39;s one extra detail that makes this a feature, not just a bunch of files on disk. At the start of a session Claude&#39;s various harnesses can scan all available skill files and read a short explanation for each one from the frontmatter YAML in the Markdown file. This is _very_ token efficient: each skill only takes up a few dozen extra tokens, with the full details only loaded in should the user request a task that the skill can help solve.
 
 - [Trying out the slack-gif-creator skill](https://simonwillison.net/2025/Oct/16/claude-skills/#trying-out-the-slack-gif-creator-skill)
 - [Skills depend on a coding environment](https://simonwillison.net/2025/Oct/16/claude-skills/#skills-depend-on-a-coding-environment)
-- [Claude as a General Agent](https://simonwillison.net/2025/Oct/16/claude-skills/#claude-as-a-general-agent)
+- [Claude Code as a General Agent](https://simonwillison.net/2025/Oct/16/claude-skills/#claude-as-a-general-agent)
 - [Skills compared to MCP](https://simonwillison.net/2025/Oct/16/claude-skills/#skills-compared-to-mcp)
 - [Here come the Skills](https://simonwillison.net/2025/Oct/16/claude-skills/#here-come-the-skills)
+- [The simplicity is the point](https://simonwillison.net/2025/Oct/16/claude-skills/#the-simplicity-is-the-point)
 
 #### Trying out the slack-gif-creator skill
 
@@ -239,7 +491,7 @@ This requirement is the biggest difference between skills and other previous att
 
 The fact that skills are so powerful and simple to create is yet another argument in favor of making safe coding environments available to LLMs. The word **safe** there is doing a _lot_ of work though! We really need to figure out how best to sandbox these environments such that attacks such as prompt injections are limited to an acceptable amount of damage.
 
-#### Claude as a General Agent
+#### Claude Code as a General Agent
 
 Back in January I [made some foolhardy predictions about AI/LLMs](https://simonwillison.net/2025/Jan/10/ai-predictions/), including that &#34;agents&#34; would once again fail to happen:
 
@@ -281,7 +533,19 @@ You can grab a skills folder right now, point Codex CLI or Gemini CLI at it and 
 
 I expect we&#39;ll see a Cambrian explosion in Skills which will make this year&#39;s MCP rush look pedestrian by comparison.
 
-Tags: [ai](https://simonwillison.net/tags/ai), [prompt-engineering](https://simonwillison.net/tags/prompt-engineering), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [anthropic](https://simonwillison.net/tags/anthropic), [claude](https://simonwillison.net/tags/claude), [code-interpreter](https://simonwillison.net/tags/code-interpreter), [ai-agents](https://simonwillison.net/tags/ai-agents), [coding-agents](https://simonwillison.net/tags/coding-agents), [claude-code](https://simonwillison.net/tags/claude-code), [skills](https://simonwillison.net/tags/skills)</source:markdown>
+#### The simplicity is the point
+
+I&#39;ve seen a some push back against skills as being so simple they&#39;re hardly a feature at all. Plenty of people have experimented with the trick of dropping extra instructions into a Markdown file and telling the coding agent to read that file before continuing with a task. [AGENTS.md](https://agents.md/) is a well established pattern, and that file can already include instructions to &#34;Read PDF.md before attempting to create a PDF&#34;.
+
+The core simplicity of the skills design is why I&#39;m so excited about it.
+
+MCP is a whole [protocol specification](https://modelcontextprotocol.io/specification/2025-06-18), covering hosts, clients, servers, resources, prompts, tools, sampling, roots, elicitation and three different transports (stdio, streamable HTTP and originally SSE).
+
+Skills are Markdown with a tiny bit of YAML metadata and some optional scripts in whatever you can make executable in the environment. They feel a lot closer to the spirit of LLMs - throw in some text and let the model figure it out.
+
+They outsource the hard parts to the LLM harness and the associated computer environment. Given everything we have learned about LLMs&#39; ability to run tools over the last couple of years I think that&#39;s a very sensible strategy.
+
+Tags: [definitions](https://simonwillison.net/tags/definitions), [ai](https://simonwillison.net/tags/ai), [prompt-engineering](https://simonwillison.net/tags/prompt-engineering), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [anthropic](https://simonwillison.net/tags/anthropic), [claude](https://simonwillison.net/tags/claude), [code-interpreter](https://simonwillison.net/tags/code-interpreter), [ai-agents](https://simonwillison.net/tags/ai-agents), [coding-agents](https://simonwillison.net/tags/coding-agents), [claude-code](https://simonwillison.net/tags/claude-code), [skills](https://simonwillison.net/tags/skills)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/16/claude-skills/#atom-everything</guid>
     </item>    <item>
       <link>https://techcrunch.com/2025/10/16/vc-legend-ron-conway-quits-salesforce-foundation-after-benioffs-national-guard-comments/</link>
@@ -4534,7 +4798,7 @@ Tags: [aws](https://simonwillison.net/tags/aws), [databases](https://simonwillis
         
         <p>Before you have time to load up Figma, Sketch, Photoshop, or any other design software, I’ll have already typed in my content placeholders in a spreadsheet and be most of my way towards a solution. I’ll be merging and moving cells at lightning speed—rationalising layouts, determining the optimal use of space, and creating order out of chaos.</p>
         
-        <p>The purpose of using a tool that may seem ill-suited to the task at hand—designing user interfaces—is to liberate yourself from the clutter or baggage of content and style. This allows you to focus solely on layout, positioning, and hierarchy. You don’t have to worry about type sizes, or get bogged down with software choices. With a spreadsheet, it’s just the keyboard between you and the perfect layout.</p>
+        <p>The purpose of using a tool that may seem ill-suited to the task at hand—designing user interfaces—is to liberate yourself from the clutter or baggage of content and style. This allows you to focus solely on layout, positioning, and hierarchy. You don’t have to worry about type sizes, or get bogged down with software choices. You can quickly adjust the size or structure of the screen by adding/removing rows/columns. With a spreadsheet, it’s just the keyboard between you and the perfect layout.</p>
         
         <hr />
         
@@ -4556,7 +4820,7 @@ Tags: [aws](https://simonwillison.net/tags/aws), [databases](https://simonwillis
         
         <h2 id="yoyozo">YOYOZO</h2>
         
-        <p>Perhaps my most famous example is the stats screen of <a href="/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/">my hit game YOYOZO</a>. With this one I already had a TTF font file that I’d created for the manual, so I went the extra mile and planned a pixel perfect layout in the right colours and everything. A fun fact you might not know: YOYOZO was featured in Ars Technica’s “Best Games of 2023” list, alongside Mario and Zelda. This spreadsheet thing is great!</p>
+        <p>Perhaps my most famous example is the stats screen of <a href="/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/">my hit game <em>YOYOZO</em></a>. With this one I already had a TTF font file that I’d created for the manual, so I went the extra mile and planned a pixel perfect layout in the right colours and everything. A fun fact you might not know: <em>YOYOZO</em> was featured in Ars Technica’s “Best Games of 2023” list, alongside Mario and Zelda. This spreadsheet thing is great!</p>
         
         <p class="tofigure"><img src="https://cdn.gingerbeardman.com/images/posts/spreadsheet-ui-yoyozo.png" alt="IMG" title="Pixel perfect precision using the exact font" /></p>
         
@@ -4564,7 +4828,7 @@ Tags: [aws](https://simonwillison.net/tags/aws), [databases](https://simonwillis
         
         <h2 id="enhanced-sfxr">Enhanced sfxr</h2>
         
-        <p>This year I’ve made two enhanced versions of sfxr—<a href="https://gingerbeardman.itch.io/enhanced-sfxr-for-love2d">one for Love2D</a> and <a href="https://twitter.com/search?q=from%3Agingerbeardman%20sfxr&amp;src=typed_query&amp;f=live">one for macOS</a>—and I can’t remember which one this was done for. Regardless, whilst it might not look like much this sort of pre-planning and organisation saved a ton of time when I was working on the app. It involved no code and was done in a minute or two!</p>
+        <p>This year I’ve made two enhanced versions of sfxr—<a href="https://gingerbeardman.itch.io/enhanced-sfxr-for-love2d">one for Love2D</a> and <a href="https://twitter.com/search?q=from%3Agingerbeardman%20sfxr&amp;src=typed_query&amp;f=live">one for macOS</a>—and I can’t remember which one this was done for. I usually get rid of the header rows and columns but in this instance they acted as sidebar and title bar. Regardless, whilst it might not look like much this sort of pre-planning and organisation saved a ton of time when I was working on the app. It involved no code and was done in a minute or two!</p>
         
         <p class="tofigure"><img src="https://cdn.gingerbeardman.com/images/posts/spreadsheet-ui-sfxr.png" alt="IMG" title="Organising the large components that make up the window" /></p>
         
@@ -4594,7 +4858,7 @@ In my opinion, spreadsheets are one of the greatest user interface design tools 
 
 Before you have time to load up Figma, Sketch, Photoshop, or any other design software, I’ll have already typed in my content placeholders in a spreadsheet and be most of my way towards a solution. I’ll be merging and moving cells at lightning speed—rationalising layouts, determining the optimal use of space, and creating order out of chaos.
 
-The purpose of using a tool that may seem ill-suited to the task at hand—designing user interfaces—is to liberate yourself from the clutter or baggage of content and style. This allows you to focus solely on layout, positioning, and hierarchy. You don’t have to worry about type sizes, or get bogged down with software choices. With a spreadsheet, it’s just the keyboard between you and the perfect layout.
+The purpose of using a tool that may seem ill-suited to the task at hand—designing user interfaces—is to liberate yourself from the clutter or baggage of content and style. This allows you to focus solely on layout, positioning, and hierarchy. You don’t have to worry about type sizes, or get bogged down with software choices. You can quickly adjust the size or structure of the screen by adding/removing rows/columns. With a spreadsheet, it’s just the keyboard between you and the perfect layout.
 
 * * *
 
@@ -4616,7 +4880,7 @@ Here are some examples of layouts I’ve solved using a spreadsheet.
 
 ## YOYOZO
 
-Perhaps my most famous example is the stats screen of [my hit game YOYOZO](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/). With this one I already had a TTF font file that I’d created for the manual, so I went the extra mile and planned a pixel perfect layout in the right colours and everything. A fun fact you might not know: YOYOZO was featured in Ars Technica’s “Best Games of 2023” list, alongside Mario and Zelda. This spreadsheet thing is great!
+Perhaps my most famous example is the stats screen of [my hit game _YOYOZO_](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/). With this one I already had a TTF font file that I’d created for the manual, so I went the extra mile and planned a pixel perfect layout in the right colours and everything. A fun fact you might not know: _YOYOZO_ was featured in Ars Technica’s “Best Games of 2023” list, alongside Mario and Zelda. This spreadsheet thing is great!
 
 ![IMG](https://cdn.gingerbeardman.com/images/posts/spreadsheet-ui-yoyozo.png)
 
@@ -4624,7 +4888,7 @@ Perhaps my most famous example is the stats screen of [my hit game YOYOZO](/2023
 
 ## Enhanced sfxr
 
-This year I’ve made two enhanced versions of sfxr— [one for Love2D](https://gingerbeardman.itch.io/enhanced-sfxr-for-love2d) and [one for macOS](https://twitter.com/search?q=from%3Agingerbeardman%20sfxr&#38;src=typed_query&#38;f=live)—and I can’t remember which one this was done for. Regardless, whilst it might not look like much this sort of pre-planning and organisation saved a ton of time when I was working on the app. It involved no code and was done in a minute or two!
+This year I’ve made two enhanced versions of sfxr— [one for Love2D](https://gingerbeardman.itch.io/enhanced-sfxr-for-love2d) and [one for macOS](https://twitter.com/search?q=from%3Agingerbeardman%20sfxr&#38;src=typed_query&#38;f=live)—and I can’t remember which one this was done for. I usually get rid of the header rows and columns but in this instance they acted as sidebar and title bar. Regardless, whilst it might not look like much this sort of pre-planning and organisation saved a ton of time when I was working on the app. It involved no code and was done in a minute or two!
 
 ![IMG](https://cdn.gingerbeardman.com/images/posts/spreadsheet-ui-sfxr.png)
 
@@ -18786,1032 +19050,6 @@ blurrymoon w/ pipecleaner trees</source:markdown>
         <![CDATA[A look at what we've learned about our customers from our onboarding process.]]>
       </description>
       <source:markdown>A look at what we&#39;ve learned about our customers from our onboarding process.</source:markdown>
-    </item>    <item>
-      <title>GitHub Copilot CLI is now in public preview</title>
-      <link>https://simonwillison.net/2025/Sep/25/github-copilot-cli/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://github.blog/changelog/2025-09-25-github-copilot-cli-is-now-in-public-preview/">GitHub Copilot CLI is now in public preview</a></strong></p>
-        GitHub now have their own entry in the coding terminal CLI agent space: <a href="https://github.com/features/copilot/cli">Copilot CLI</a>.</p>
-        <p>It's the same basic shape as Claude Code, Codex CLI, Gemini CLI and a growing number of other tools in this space. It's a terminal UI which you accepts instructions and can modify files, run commands and integrate with GitHub's MCP server and other MCP servers that you configure.</p>
-        <p>Two notable features compared to many of the others:</p>
-        <ul>
-        <li>It works against the <a href="https://docs.github.com/en/github-models">GitHub Models</a> backend. It defaults to Claude Sonnet 4 but you can set <code>COPILOT_MODEL=gpt-5</code> to switch to GPT-5. Presumably other models will become available soon.</li>
-        <li>It's billed against your existing GitHub Copilot account. <a href="https://github.com/features/copilot/plans">Pricing details are here</a> - they're split into "Agent mode" requests and "Premium" requests. Different plans get different allowances, which are shared with other products in the GitHub Copilot family.</li>
-        </ul>
-        <p>The best available documentation right now is the <code>copilot --help</code> screen - <a href="https://gist.github.com/simonw/bc739b8c67aa6e7a5f4f519942e66671">here's a copy of that in a Gist</a>.</p>
-        <p>It's a competent entry into the market, though it's missing features like the ability to paste in images which have been introduced to Claude Code and Codex CLI over the past few months.</p>
-        <p><em>Disclosure: I got a preview of this at an event at Microsoft's offices in Seattle last week. They did not pay me for my time but they did cover my flight, hotel and some dinners.</em>
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/microsoft">microsoft</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/github-copilot">github-copilot</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/codex-cli">codex-cli</a>, <a href="https://simonwillison.net/tags/disclosures">disclosures</a></p>]]>
-      </description>
-      <source:markdown>**[GitHub Copilot CLI is now in public preview](https://github.blog/changelog/2025-09-25-github-copilot-cli-is-now-in-public-preview/)**
-
-GitHub now have their own entry in the coding terminal CLI agent space: [Copilot CLI](https://github.com/features/copilot/cli).
-
-It&#39;s the same basic shape as Claude Code, Codex CLI, Gemini CLI and a growing number of other tools in this space. It&#39;s a terminal UI which you accepts instructions and can modify files, run commands and integrate with GitHub&#39;s MCP server and other MCP servers that you configure.
-
-Two notable features compared to many of the others:
-
-- It works against the [GitHub Models](https://docs.github.com/en/github-models) backend. It defaults to Claude Sonnet 4 but you can set `COPILOT_MODEL=gpt-5` to switch to GPT-5. Presumably other models will become available soon.
-- It&#39;s billed against your existing GitHub Copilot account. [Pricing details are here](https://github.com/features/copilot/plans) \- they&#39;re split into &#34;Agent mode&#34; requests and &#34;Premium&#34; requests. Different plans get different allowances, which are shared with other products in the GitHub Copilot family.
-
-The best available documentation right now is the `copilot --help` screen - [here&#39;s a copy of that in a Gist](https://gist.github.com/simonw/bc739b8c67aa6e7a5f4f519942e66671).
-
-It&#39;s a competent entry into the market, though it&#39;s missing features like the ability to paste in images which have been introduced to Claude Code and Codex CLI over the past few months.
-
-_Disclosure: I got a preview of this at an event at Microsoft&#39;s offices in Seattle last week. They did not pay me for my time but they did cover my flight, hotel and some dinners._
-
-Tags: [github](https://simonwillison.net/tags/github), [microsoft](https://simonwillison.net/tags/microsoft), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [github-copilot](https://simonwillison.net/tags/github-copilot), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [ai-agents](https://simonwillison.net/tags/ai-agents), [coding-agents](https://simonwillison.net/tags/coding-agents), [claude-code](https://simonwillison.net/tags/claude-code), [codex-cli](https://simonwillison.net/tags/codex-cli), [disclosures](https://simonwillison.net/tags/disclosures)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Sep/25/github-copilot-cli/#atom-everything</guid>
-    </item>    <item>
-      <title>Nobel Peace Prize Committee Asks Trump to Clarify Remarks About Hating His Enemies</title>
-      <link>https://www.borowitzreport.com/p/nobel-peace-prize-committee-asks</link>
-      <description>
-        <![CDATA[The judges considering Trump's Peace Prize application had a series of questions for him.]]>
-      </description>
-      <source:markdown>The judges considering Trump&#39;s Peace Prize application had a series of questions for him.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!b0q_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b9d821c-bd10-49d4-8582-c5912b7b8890_1024x683.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/nobel-peace-prize-committee-asks</guid>
-    </item>    <item>
-      <title>For more than a century in the 18th &#38; 19th centuries, an...</title>
-      <link>https://kottke.org/25/09/0047583-for-more-than-a-century</link>
-      <guid>cid://tag:kottke.org,2025://13.47583</guid>
-    </item>    <item>
-      <title>Scoring Points Is The Point</title>
-      <link>https://steady.substack.com/p/scoring-points-is-the-point</link>
-      <description>
-        <![CDATA[The president wants to win for himself, not for the American people]]>
-      </description>
-      <source:markdown>The president wants to win for himself, not for the American people</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!zyGn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdadd84f5-c0d8-4099-a91e-b5dce621d350_4641x3156.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://steady.substack.com/p/scoring-points-is-the-point</guid>
-    </item>    <item>
-      <title>Friday 26 September, 2025</title>
-      <link>https://memex.naughtons.org/friday-26-september-2025/41237/</link>
-      <description>
-        <![CDATA[Red Plenty Last year our crab-apple tree produced almost no fruit. This year it’s exactly the opposite. We’ve been wondering why. Last year we had a dry Spring and a wet Summer. This year’s been the exact opposite, with many &#8230; <a href="https://memex.naughtons.org/friday-26-september-2025/41237/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <source:markdown>Red Plenty Last year our crab-apple tree produced almost no fruit. This year it’s exactly the opposite. We’ve been wondering why. Last year we had a dry Spring and a wet Summer. This year’s been the exact opposite, with many … [Continue reading →](https://memex.naughtons.org/friday-26-september-2025/41237/)</source:markdown>
-      <guid>cid://https://memex.naughtons.org/?p=41237</guid>
-    </item>    <item>
-      <title>YOU can bring The Last Class to a movie theater near you</title>
-      <link>https://robertreich.substack.com/p/you-can-bring-the-last-class-to-a</link>
-      <description>
-        <![CDATA[A way to build hope and community]]>
-      </description>
-      <source:markdown>A way to build hope and community</source:markdown>
-      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/RKtgySJPwhE" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/you-can-bring-the-last-class-to-a</guid>
-    </item>    <item>
-      <title>A four-year-old mystery finally solved: who was the awkwardly tall stranger at...</title>
-      <link>https://kottke.org/25/09/0047592-a-four-year-old-mystery-f</link>
-      <guid>cid://tag:kottke.org,2025://13.47592</guid>
-    </item>    <item>
-      <title>September 24, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-24-2025-dc8</link>
-      <enclosure url="https://api.substack.com/feed/podcast/174572878/5cef0e685f3f2f89e084db9e02afbca7.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-24-2025-dc8</guid>
-    </item>    <item>
-      <title>Published on Citation Needed: &#34;Issue 93 – Undermining deregulation&#34;</title>
-      <link>https://citationneeded.news/issue-93</link>
-      <guid>cid://68d5bebd910bb8dc7e9ce031</guid>
-    </item>    <item>
-      <title>Engineering Lego Cars to Climb Increasingly Tall Walls</title>
-      <link>https://kottke.org/25/09/engineering-lego-cars-to-climb-increasingly-tall-walls</link>
-      <guid>cid://tag:kottke.org,2025://5.47569</guid>
-    </item>    <item>
-      <link>https://openai.com/index/introducing-chatgpt-pulse/</link>
-      <description>
-        <![CDATA[<p>Introducing ChatGPT Pulse.</p>]]>
-      </description>
-      <source:markdown>Introducing ChatGPT Pulse.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/25/1243/</guid>
-    </item>    <item>
-      <link>https://arstechnica.com/ai/2025/09/chatgpt-pulse-delivers-morning-updates-based-on-your-chat-history/?utm_source=bsky&#38;utm_medium=social</link>
-      <description>
-        <![CDATA[<p>ChatGPT Pulse delivers morning updates based on your chat history.</p>]]>
-      </description>
-      <source:markdown>ChatGPT Pulse delivers morning updates based on your chat history.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/25/1241/</guid>
-    </item>    <item>
-      <title>Apple’s Thoughts on the DMA</title>
-      <link>https://mjtsai.com/blog/2025/09/25/apples-thoughts-on-the-dma/</link>
-      <description>
-        <![CDATA[Apple (Slashdot, MacRumors): The DMA requires Apple to make certain features work on non-Apple products and apps before we can share them with our users. Unfortunately, that requires a lot of engineering work, and it&#8217;s caused us to delay some new features in the EU: Live Translation with AirPods uses Apple Intelligence to let Apple [&#8230;]]]>
-      </description>
-      <source:markdown>Apple (Slashdot, MacRumors): The DMA requires Apple to make certain features work on non-Apple products and apps before we can share them with our users. Unfortunately, that requires a lot of engineering work, and it’s caused us to delay some new features in the EU: Live Translation with AirPods uses Apple Intelligence to let Apple \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49366</guid>
-    </item>    <item>
-      <title>From Eater, a list of the 38 most essential &#38; influential US...</title>
-      <link>https://kottke.org/25/09/0047596-from-eater-a-list-of</link>
-      <guid>cid://tag:kottke.org,2025://13.47596</guid>
-    </item>    <item>
-      <title>Xcode 26.1 Beta 1</title>
-      <link>https://mjtsai.com/blog/2025/09/25/xcode-26-1-beta-1/</link>
-      <description>
-        <![CDATA[Apple: Xcode 26.1 beta requires a Mac running macOS Sequoia 15.6 or later.[&#8230;]The &#8216;devicectl&#8217; command line tool now supports gathering a sysdiagnose from a connected device. To use this functionality, run &#8216;xcrun devicectl device sysdiagnose&#8217;[&#8230;]When enabling Hardware Memory Tagging under Enhanced Security (Capabilities editor -&#62; Enhanced Security -&#62; Memory Safety -&#62; Enable Hardware Memory Tagging), [&#8230;]]]>
-      </description>
-      <source:markdown>Apple: Xcode 26.1 beta requires a Mac running macOS Sequoia 15.6 or later.\[…\]The ‘devicectl’ command line tool now supports gathering a sysdiagnose from a connected device. To use this functionality, run ‘xcrun devicectl device sysdiagnose’\[…\]When enabling Hardware Memory Tagging under Enhanced Security (Capabilities editor -&#62; Enhanced Security -&#62; Memory Safety -&#62; Enable Hardware Memory Tagging), \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49363</guid>
-    </item>    <item>
-      <title>Xcode 26.0.1</title>
-      <link>https://mjtsai.com/blog/2025/09/25/xcode-26-0-1/</link>
-      <description>
-        <![CDATA[Apple: Xcode 26.0.1 requires a Mac running macOS Sequoia 15.6 or later. [&#8230;] Fixed: Icon Composer documents that use &#8220;Lighten&#8221;, &#8220;Darken&#8221; or &#8220;Screen&#8221; blend modes incorrectly encode as &#8220;Normal&#8221; when compiled. Blend modes will look correct in Icon Composer, but not at runtime. I don&#8217;t think this was affecting my icons, but I&#8217;ve seen a [&#8230;]]]>
-      </description>
-      <source:markdown>Apple: Xcode 26.0.1 requires a Mac running macOS Sequoia 15.6 or later. \[…\] Fixed: Icon Composer documents that use “Lighten”, “Darken” or “Screen” blend modes incorrectly encode as “Normal” when compiled. Blend modes will look correct in Icon Composer, but not at runtime. I don’t think this was affecting my icons, but I’ve seen a \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49361</guid>
-    </item>    <item>
-      <link>https://wapo.st/4nidndf</link>
-      <description>
-        <![CDATA[<p>Hegseth orders rare, urgent meeting of hundreds of generals, admirals.</p>]]>
-      </description>
-      <source:markdown>Hegseth orders rare, urgent meeting of hundreds of generals, admirals.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/25/1239/</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/barackobama.bsky.social/post/3lzornmeuys27</link>
-      <description>
-        <![CDATA[Republicans can’t win on their policies, so they are trying to dodge accountability by rewriting the rules. These lawmakers are going out of their way to silence the will of the people and deliberately undermine our democracy.
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <source:markdown>Republicans can’t win on their policies, so they are trying to dodge accountability by rewriting the rules. These lawmakers are going out of their way to silence the will of the people and deliberately undermine our democracy.
-
-\[contains quote post or other embedded content\]</source:markdown>
-      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3lzornmeuys27</guid>
-    </item>    <item>
-      <title>Thursday session</title>
-      <link>https://adactio.com/notes/22158</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22158/small.jpg" srcset="https://adactio.com/images/uploaded/22158/medium.jpg 1.5x, https://adactio.com/images/uploaded/22158/large.jpg 2.5x" alt="Thursday session" />
-        <p>Thursday session</p>]]>
-      </description>
-      <source:markdown>![Thursday session](https://adactio.com/images/uploaded/22158/small.jpg)
-
-Thursday session</source:markdown>
-      <guid>cid://https://adactio.com/notes/22158</guid>
-    </item>    <item>
-      <title>How to Be a Good Literary Citizen (in Seven Easy Steps). &#38;#8220;The...</title>
-      <link>https://kottke.org/25/09/0047590-how-to-be-a-good</link>
-      <guid>cid://tag:kottke.org,2025://13.47590</guid>
-    </item>    <item>
-      <title>Improved Gemini 2.5 Flash and Flash-Lite</title>
-      <link>https://simonwillison.net/2025/Sep/25/improved-gemini-25-flash-and-flash-lite/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/">Improved Gemini 2.5 Flash and Flash-Lite</a></strong></p>
-        Two new preview models from Google - updates to their fast and inexpensive Flash and Flash Lite families:</p>
-        <blockquote>
-        <p>The latest version of Gemini 2.5 Flash-Lite was trained and built based on three key themes:</p>
-        <ul>
-        <li><strong>Better instruction following</strong>: The model is significantly better at following complex instructions and system prompts.</li>
-        <li><strong>Reduced verbosity</strong>: It now produces more concise answers, a key factor in reducing token costs and latency for high-throughput applications (see charts above).</li>
-        <li><strong>Stronger multimodal &amp; translation capabilities</strong>: This update features more accurate audio transcription, better image understanding, and improved translation quality.</li>
-        </ul>
-        <p>[...]</p>
-        <p>This latest 2.5 Flash model comes with improvements in two key areas we heard consistent feedback on:</p>
-        <ul>
-        <li><strong>Better agentic tool use</strong>: We've improved how the model uses tools, leading to better performance in more complex, agentic and multi-step applications. This model shows noticeable improvements on key agentic benchmarks, including a 5% gain on SWE-Bench Verified, compared to our last release (48.9% → 54%).</li>
-        <li><strong>More efficient</strong>: With thinking on, the model is now significantly more cost-efficient—achieving higher quality outputs while using fewer tokens, reducing latency and cost (see charts above).</li>
-        </ul>
-        </blockquote>
-        <p>They also added two new convenience model IDs: <code>gemini-flash-latest</code> and <code>gemini-flash-lite-latest</code>, which will always resolve to the most recent model in that family.</p>
-        <p>I released <a href="https://github.com/simonw/llm-gemini/releases/tag/0.26">llm-gemini 0.26</a> adding support for the new models and new aliases. I also used the <code>response.set_resolved_model()</code> method <a href="https://github.com/simonw/llm/issues/1117">added in LLM 0.27</a> to ensure that the correct model ID would be recorded for those <code>-latest</code> uses.</p>
-        <pre><code>llm install -U llm-gemini
-        </code></pre>
-        <p>Both of these models support optional reasoning tokens. I had them draw me pelicans riding bicycles in both thinking and non-thinking mode, using commands that looked like this:</p>
-        <pre><code>llm -m gemini-2.5-flash-preview-09-2025 -o thinking_budget 4000 "Generate an SVG of a pelican riding a bicycle"
-        </code></pre>
-        <p>I then got each model to describe the image it had drawn using commands like this:</p>
-        <pre><code>llm -a https://static.simonwillison.net/static/2025/gemini-2.5-flash-preview-09-2025-thinking.png -m gemini-2.5-flash-preview-09-2025 -o thinking_budget 2000 'Detailed single line alt text for this image'
-        </code></pre>
-        <p><a href="https://gist.github.com/simonw/e9dc9c18008106b4ae2e0be287709f5c"><strong>gemini-2.5-flash-preview-09-2025-thinking</strong></a></p>
-        <p><img alt="" src="https://static.simonwillison.net/static/2025/gemini-2.5-flash-preview-09-2025-thinking.png" /></p>
-        <blockquote>
-        <p>A minimalist stick figure graphic depicts a person with a white oval body and a dot head cycling a gray bicycle, carrying a large, bright yellow rectangular box resting high on their back.</p>
-        </blockquote>
-        <p><a href="https://gist.github.com/simonw/e357eac5f12e995a6dcb50711241a478"><strong>gemini-2.5-flash-preview-09-2025</strong></a></p>
-        <p><img alt="" src="https://static.simonwillison.net/static/2025/gemini-2.5-flash-preview-09-2025.png" /></p>
-        <blockquote>
-        <p>A simple cartoon drawing of a pelican riding a bicycle, with the text "A Pelican Riding a Bicycle" above it.</p>
-        </blockquote>
-        <p><a href="https://gist.github.com/simonw/29aff037b58fe62baf5a3cb7cf3b0ca9"><strong>gemini-2.5-flash-lite-preview-09-2025-thinking</strong></a></p>
-        <p><img alt="" src="https://static.simonwillison.net/static/2025/gemini-2.5-flash-lite-preview-09-2025-thinking.png" /></p>
-        <blockquote>
-        <p>A quirky, simplified cartoon illustration of a white bird with a round body, black eye, and bright yellow beak, sitting astride a dark gray, two-wheeled vehicle with its peach-colored feet dangling below.</p>
-        </blockquote>
-        <p><a href="https://gist.github.com/simonw/0eb5b9dc5515657a0a3c9d16bb5d46f6"><strong>gemini-2.5-flash-lite-preview-09-2025</strong></a></p>
-        <p><img alt="" src="https://static.simonwillison.net/static/2025/gemini-2.5-flash-lite-preview-09-2025.png" /></p>
-        <blockquote>
-        <p>A minimalist, side-profile illustration of a stylized yellow chick or bird character riding a dark-wheeled vehicle on a green strip against a white background.</p>
-        </blockquote>
-        <p>Artificial Analysis posted <a href="https://twitter.com/ArtificialAnlys/status/1971273380335845683">a detailed review</a>, including these interesting notes about reasoning efficiency and speed:</p>
-        <blockquote>
-        <ul>
-        <li>In reasoning mode, Gemini 2.5 Flash and Flash-Lite Preview 09-2025 are more token-efficient, using fewer output tokens than their predecessors to run the Artificial Analysis Intelligence Index. Gemini 2.5 Flash-Lite Preview 09-2025 uses 50% fewer output tokens than its predecessor, while Gemini 2.5 Flash Preview 09-2025 uses 24% fewer output tokens.</li>
-        <li>Google Gemini 2.5 Flash-Lite Preview 09-2025 (Reasoning) is ~40% faster than the prior July release, delivering ~887 output tokens/s on Google AI Studio in our API endpoint performance benchmarking. This makes the new Gemini 2.5 Flash-Lite the fastest proprietary model we have benchmarked on the Artificial Analysis website</li>
-        </ul>
-        </blockquote>
-        
-            <p><small></small>Via <a href="https://news.ycombinator.com/item?id=45375845">Hacker News</a></small></p>
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/artificial-analysis">artificial-analysis</a></p>]]>
-      </description>
-      <source:markdown>**[Improved Gemini 2.5 Flash and Flash-Lite](https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/)**
-
-Two new preview models from Google - updates to their fast and inexpensive Flash and Flash Lite families:
-
-&#62; The latest version of Gemini 2.5 Flash-Lite was trained and built based on three key themes:
-&#62;
-&#62; - **Better instruction following**: The model is significantly better at following complex instructions and system prompts.
-&#62; - **Reduced verbosity**: It now produces more concise answers, a key factor in reducing token costs and latency for high-throughput applications (see charts above).
-&#62; - **Stronger multimodal &#38; translation capabilities**: This update features more accurate audio transcription, better image understanding, and improved translation quality.
-&#62;
-&#62; \[...\]
-&#62;
-&#62; This latest 2.5 Flash model comes with improvements in two key areas we heard consistent feedback on:
-&#62;
-&#62; - **Better agentic tool use**: We&#39;ve improved how the model uses tools, leading to better performance in more complex, agentic and multi-step applications. This model shows noticeable improvements on key agentic benchmarks, including a 5% gain on SWE-Bench Verified, compared to our last release (48.9% → 54%).
-&#62; - **More efficient**: With thinking on, the model is now significantly more cost-efficient—achieving higher quality outputs while using fewer tokens, reducing latency and cost (see charts above).
-
-They also added two new convenience model IDs: `gemini-flash-latest` and `gemini-flash-lite-latest`, which will always resolve to the most recent model in that family.
-
-I released [llm-gemini 0.26](https://github.com/simonw/llm-gemini/releases/tag/0.26) adding support for the new models and new aliases. I also used the `response.set_resolved_model()` method [added in LLM 0.27](https://github.com/simonw/llm/issues/1117) to ensure that the correct model ID would be recorded for those `-latest` uses.
-
-```
-llm install -U llm-gemini
-
-```
-
-Both of these models support optional reasoning tokens. I had them draw me pelicans riding bicycles in both thinking and non-thinking mode, using commands that looked like this:
-
-```
-llm -m gemini-2.5-flash-preview-09-2025 -o thinking_budget 4000 &#34;Generate an SVG of a pelican riding a bicycle&#34;
-
-```
-
-I then got each model to describe the image it had drawn using commands like this:
-
-```
-llm -a https://static.simonwillison.net/static/2025/gemini-2.5-flash-preview-09-2025-thinking.png -m gemini-2.5-flash-preview-09-2025 -o thinking_budget 2000 &#39;Detailed single line alt text for this image&#39;
-
-```
-
-[**gemini-2.5-flash-preview-09-2025-thinking**](https://gist.github.com/simonw/e9dc9c18008106b4ae2e0be287709f5c)
-
-![](https://static.simonwillison.net/static/2025/gemini-2.5-flash-preview-09-2025-thinking.png)
-
-&#62; A minimalist stick figure graphic depicts a person with a white oval body and a dot head cycling a gray bicycle, carrying a large, bright yellow rectangular box resting high on their back.
-
-[**gemini-2.5-flash-preview-09-2025**](https://gist.github.com/simonw/e357eac5f12e995a6dcb50711241a478)
-
-![](https://static.simonwillison.net/static/2025/gemini-2.5-flash-preview-09-2025.png)
-
-&#62; A simple cartoon drawing of a pelican riding a bicycle, with the text &#34;A Pelican Riding a Bicycle&#34; above it.
-
-[**gemini-2.5-flash-lite-preview-09-2025-thinking**](https://gist.github.com/simonw/29aff037b58fe62baf5a3cb7cf3b0ca9)
-
-![](https://static.simonwillison.net/static/2025/gemini-2.5-flash-lite-preview-09-2025-thinking.png)
-
-&#62; A quirky, simplified cartoon illustration of a white bird with a round body, black eye, and bright yellow beak, sitting astride a dark gray, two-wheeled vehicle with its peach-colored feet dangling below.
-
-[**gemini-2.5-flash-lite-preview-09-2025**](https://gist.github.com/simonw/0eb5b9dc5515657a0a3c9d16bb5d46f6)
-
-![](https://static.simonwillison.net/static/2025/gemini-2.5-flash-lite-preview-09-2025.png)
-
-&#62; A minimalist, side-profile illustration of a stylized yellow chick or bird character riding a dark-wheeled vehicle on a green strip against a white background.
-
-Artificial Analysis posted [a detailed review](https://twitter.com/ArtificialAnlys/status/1971273380335845683), including these interesting notes about reasoning efficiency and speed:
-
-&#62; - In reasoning mode, Gemini 2.5 Flash and Flash-Lite Preview 09-2025 are more token-efficient, using fewer output tokens than their predecessors to run the Artificial Analysis Intelligence Index. Gemini 2.5 Flash-Lite Preview 09-2025 uses 50% fewer output tokens than its predecessor, while Gemini 2.5 Flash Preview 09-2025 uses 24% fewer output tokens.
-&#62; - Google Gemini 2.5 Flash-Lite Preview 09-2025 (Reasoning) is ~40% faster than the prior July release, delivering ~887 output tokens/s on Google AI Studio in our API endpoint performance benchmarking. This makes the new Gemini 2.5 Flash-Lite the fastest proprietary model we have benchmarked on the Artificial Analysis website
-
-Via [Hacker News](https://news.ycombinator.com/item?id=45375845)
-
-Tags: [google](https://simonwillison.net/tags/google), [llms](https://simonwillison.net/tags/llms), [llm](https://simonwillison.net/tags/llm), [gemini](https://simonwillison.net/tags/gemini), [pelican-riding-a-bicycle](https://simonwillison.net/tags/pelican-riding-a-bicycle), [llm-reasoning](https://simonwillison.net/tags/llm-reasoning), [llm-release](https://simonwillison.net/tags/llm-release), [artificial-analysis](https://simonwillison.net/tags/artificial-analysis)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Sep/25/improved-gemini-25-flash-and-flash-lite/#atom-everything</guid>
-    </item>    <item>
-      <link>https://www.telos.news/p/apple-is-the-new-disney?triedRedirect=true</link>
-      <description>
-        <![CDATA[<p>Apple Is the New Disney.</p>]]>
-      </description>
-      <source:markdown>Apple Is the New Disney.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/25/1237/</guid>
-    </item>    <item>
-      <title>The Black Hole That Could Rewrite Cosmology. Astronomers may have found a...</title>
-      <link>https://kottke.org/25/09/0047597-the-black-hole-that-could</link>
-      <guid>cid://tag:kottke.org,2025://13.47597</guid>
-    </item>    <item>
-      <title>Six “reboot” novels to put on your radar.</title>
-      <link>https://lithub.com/six-reboot-novels-to-put-on-your-radar/</link>
-      <description>
-        <![CDATA[In a recent review for The Baffler, Adrian Nathan West considered a pair of novels written as responses to existing classics. This got me thinking about literary reboots. There are lots of novels adapted from myths (Madeline Miller&#8217;s Song of Achilles, Chigozie Obioma&#8217;s An Orchestra of Minorities). The fairy tale has fans (Julia Phillips&#8217; Bear). [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=260215</guid>
-    </item>    <item>
-      <title>Pissed-off Fans Flooded the Twin Peaks Reddit With AI Slop To Protest Its AI Policies</title>
-      <link>https://www.404media.co/pissed-off-fans-flooded-the-twin-peaks-reddit-with-ai-slop-to-protest-its-ai-policies/</link>
-      <description>
-        <![CDATA[Moderators reversed course on its open door AI policy after fans filled the subreddit with AI-generated Dale Cooper slop.]]>
-      </description>
-      <source:markdown>Moderators reversed course on its open door AI policy after fans filled the subreddit with AI-generated Dale Cooper slop.</source:markdown>
-      <guid>cid://68d586cc3ea9560001457a77</guid>
-    </item>    <item>
-      <title>Former NBA star Reggie Miller&#38;#8217;s neighbors got him hooked on mountain biking....</title>
-      <link>https://kottke.org/25/09/0047595-former-nba-star-reggie-mi</link>
-      <guid>cid://tag:kottke.org,2025://13.47595</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115266206712894387</link>
-      <description>
-        <![CDATA[<p>Like those markers are not going to localize themselves.</p>]]>
-      </description>
-      <source:markdown>Like those markers are not going to localize themselves.</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115266206712894387</guid>
-    </item>    <item>
-      <link>https://daveverse.org/2025/09/25/invoking-the-editor-in-wordland-0-8/</link>
-      <description>
-        <![CDATA[<p>The next version of WordLand integrates the timeline and the editor. I finally have that integration more or less debugged. Just some development notes.</p>]]>
-      </description>
-      <source:markdown>The next version of WordLand integrates the timeline and the editor. I finally have that integration more or less debugged. Just some development notes.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/25/1235/</guid>
-    </item>    <item>
-      <link>https://www.salon.com/2025/08/05/alien-earth-knows-how-its-all-going-to-end-for-us/</link>
-      <description>
-        <![CDATA[<p>The Alien: Earth series is complete, ready for a binge.</p>]]>
-      </description>
-      <source:markdown>The Alien: Earth series is complete, ready for a binge.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/25/1233/</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115266198577700236</link>
-      <description>
-        <![CDATA[<p>I localized my data input control for Arabic.   The more Duolingo, the more flaws I find</p>]]>
-      </description>
-      <source:markdown>I localized my data input control for Arabic. The more Duolingo, the more flaws I find</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115266198577700236</guid>
-    </item>    <item>
-      <title>Earth</title>
-      <link>https://adactio.com/journal/22157</link>
-      <description>
-        <![CDATA[<p>While I’ve been <a href="https://adactio.com/journal/22155">listening to <cite>Hounds Of Love</cite></a>, I’ve also been reading <a href="https://en.wikipedia.org/wiki/Orbital_(novel)"><cite>Orbital</cite></a> by Samantha Harvey.</p>
-        
-        <p>Here’s a passage from an early chapter as the crew of the International Space Station watch a typhoon forming:</p>
-        
-        <blockquote>
-          <p>How wired and wakeful the earth seems suddenly. It’s not one of the regular typhoons that haphazardly assault these parts of the world, they agree. They can’t see it all, but it’s bigger than projections had previously thought, and moving faster. They send their images, the latitudes and longitudes. They are like fortune tellers, the crew. Fortune tellers who can see and tell the future but do nothing to change or stop it. Soon their orbit will descend away to the east and south and no matter how they crane their necks backward at the earth-viewing windows the typhoon will roll out of sight and their vigil will end and darkness will hit them at speed.</p>
-          
-          <p>They have no power – they have only their cameras and a privileged anxious view of its building magnificence. They watch it come.</p>
-        </blockquote>
-        
-        <p>The penultimate track on <cite>Hounds Of Love</cite> is the magnificent <a href="https://www.youtube.com/watch?v=U7QCtPZ3pTg"><cite>Hello Earth</cite></a> with its eerie Georgian chant for a chorus, and magnificent uilleann piping from the late great Liam Óg O’Flynn on the bridge. It too features a narrator watching from space:</p>
-        
-        <blockquote>
-        <p>Watching storms<br> Start to form<br> Over America.<br> Can’t do anything.<br> Just watch them swing<br> With the wind<br> Out to sea.</p>
-        <p>All you sailors, (“Get out of the waves! Get out of the water!”)<br> All life-savers, (“Get out of the waves! Get out of the water!”)<br> All you cruisers, (“Get out of the waves! Get out of the water!”)<br> All you fishermen,<br> Head for home.</p>
-        </blockquote>
-        
-        <p>Matching the song to the book feels like pairing a fine wine with a delicious morsel.</p>]]>
-      </description>
-      <source:markdown>While I’ve been [listening to Hounds Of Love](https://adactio.com/journal/22155), I’ve also been reading [Orbital](https://en.wikipedia.org/wiki/Orbital_(novel)) by Samantha Harvey.
-
-Here’s a passage from an early chapter as the crew of the International Space Station watch a typhoon forming:
-
-&#62; How wired and wakeful the earth seems suddenly. It’s not one of the regular typhoons that haphazardly assault these parts of the world, they agree. They can’t see it all, but it’s bigger than projections had previously thought, and moving faster. They send their images, the latitudes and longitudes. They are like fortune tellers, the crew. Fortune tellers who can see and tell the future but do nothing to change or stop it. Soon their orbit will descend away to the east and south and no matter how they crane their necks backward at the earth-viewing windows the typhoon will roll out of sight and their vigil will end and darkness will hit them at speed.
-&#62;
-&#62; They have no power – they have only their cameras and a privileged anxious view of its building magnificence. They watch it come.
-
-The penultimate track on Hounds Of Love is the magnificent [Hello Earth](https://www.youtube.com/watch?v=U7QCtPZ3pTg) with its eerie Georgian chant for a chorus, and magnificent uilleann piping from the late great Liam Óg O’Flynn on the bridge. It too features a narrator watching from space:
-
-&#62; Watching storms
-&#62;
-&#62; Start to form
-&#62;
-&#62; Over America.
-&#62;
-&#62; Can’t do anything.
-&#62;
-&#62; Just watch them swing
-&#62;
-&#62; With the wind
-&#62;
-&#62; Out to sea.
-&#62;
-&#62; All you sailors, (“Get out of the waves! Get out of the water!”)
-&#62;
-&#62; All life-savers, (“Get out of the waves! Get out of the water!”)
-&#62;
-&#62; All you cruisers, (“Get out of the waves! Get out of the water!”)
-&#62;
-&#62; All you fishermen,
-&#62;
-&#62; Head for home.
-
-Matching the song to the book feels like pairing a fine wine with a delicious morsel.</source:markdown>
-      <guid>cid://https://adactio.com/journal/22157</guid>
-    </item>    <item>
-      <title>The Music of the Everyday</title>
-      <link>https://kottke.org/25/09/the-music-of-the-everyday</link>
-      <guid>cid://tag:kottke.org,2025://5.47593</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/25.html#a171327</link>
-      <description>
-        <![CDATA[This came up in a <a href="https://mastodon.social/@darius@friend.camp/115266052576766302">thread</a> on Mastodon about "social network" vs "social media." I also think <a href="https://daytona.scripting.com/search?q=%22social%20web%22">social web</a> should be used sparingly.  Because imho there is such a thing as the social web but we haven't developed very much of it, i think because we were intimidated by the silos. I'm not intimidated any more, I'm fed up and going ahead without them.]]>
-      </description>
-      <source:markdown>This came up in a [thread](https://mastodon.social/@darius@friend.camp/115266052576766302) on Mastodon about &#34;social network&#34; vs &#34;social media.&#34; I also think [social web](https://daytona.scripting.com/search?q=%22social%20web%22) should be used sparingly. Because imho there is such a thing as the social web but we haven&#39;t developed very much of it, i think because we were intimidated by the silos. I&#39;m not intimidated any more, I&#39;m fed up and going ahead without them.</source:markdown>
-      <guid>cid://http://scripting.com/2025/09/25.html#a171327</guid>
-    </item>    <item>
-      <title>Note published on September 25, 2025 at 4:55 PM UTC</title>
-      <link>https://www.mollywhite.net/micro/entry/202509251254</link>
-      <guid>cid://68d5741c133dae2d072df3f4</guid>
-    </item>    <item>
-      <title>A few moments ago I was handed my very first American fan letter</title>
-      <link>https://news.lettersofnote.com/p/a-few-moments-ago-i-was-handed-my</link>
-      <description>
-        <![CDATA[An endearing letter from 20-year-old David Bowie]]>
-      </description>
-      <source:markdown>An endearing letter from 20-year-old David Bowie</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!THU3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb02e9ca3-a311-444f-8ddb-e6caaf3437a6_1024x656.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://news.lettersofnote.com/p/a-few-moments-ago-i-was-handed-my</guid>
-    </item>    <item>
-      <title>Bullet Points: A Few Good Reads</title>
-      <link>https://davekarpf.substack.com/p/bullet-points-a-few-good-reads</link>
-      <description>
-        <![CDATA["Every Day, Computers Are Making People Easier to Use"]]>
-      </description>
-      <source:markdown>&#34;Every Day, Computers Are Making People Easier to Use&#34;</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!w8K2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65b29ba7-04e0-47d8-8e86-ddf81a1e34b4.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://davekarpf.substack.com/p/bullet-points-a-few-good-reads</guid>
-    </item>    <item>
-      <title>Zadie Smith: &#38;#8220;In my experience, every kind of writing requires some kind...</title>
-      <link>https://kottke.org/25/09/0047588-zadie-smith-in-my-experie</link>
-      <guid>cid://tag:kottke.org,2025://13.47588</guid>
-    </item>    <item>
-      <title>gilest.org: A chat with 19-year-old me</title>
-      <link>https://gilest.org/notes/19-yo-me.html</link>
-      <description>
-        <![CDATA[<p>I love this conversation.</p>
-        
-        <p><a href="https://adactio.com/links/22156">adactio.com/links/22156</a></p>]]>
-      </description>
-      <source:markdown>I love this conversation.
-
-[adactio.com/links/22156](https://adactio.com/links/22156)</source:markdown>
-      <guid>cid://https://gilest.org/notes/19-yo-me.html</guid>
-    </item>    <item>
-      <title>The SIM Farm Hardware Seized by the Secret Service Is Also Popular With Ticket Scalpers</title>
-      <link>https://www.404media.co/the-sim-farm-hardware-seized-by-the-secret-service-is-also-popular-with-ticket-scalpers/</link>
-      <description>
-        <![CDATA[The tech the Secret Service claims can be used to "disable cell phone towers" is very commonly used by ticket scalpers to game Ticketmaster.]]>
-      </description>
-      <source:markdown>The tech the Secret Service claims can be used to &#34;disable cell phone towers&#34; is very commonly used by ticket scalpers to game Ticketmaster.</source:markdown>
-      <guid>cid://68d56b773ea956000145754f</guid>
-    </item>    <item>
-      <title>The Hummingbird Bike</title>
-      <link>https://kottke.org/25/09/the-hummingbird-bike</link>
-      <guid>cid://tag:kottke.org,2025://5.47586</guid>
-    </item>    <item>
-      <title>Read &#34;Ed Zitron is mad as hell&#34;</title>
-      <link>https://www.mollywhite.net/reading/shortform?search=Ed%20Zitron%20is%20mad%20as%20hell</link>
-      <guid>cid://68d567339f72b44b3848a20b</guid>
-    </item>    <item>
-      <title>Andor: la hazaña milagrosa de Tony Gilroy</title>
-      <link>https://www.palomitademaiz.net/andor-la-hazana-milagrosa-de-tony-gilroy/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=andor-la-hazana-milagrosa-de-tony-gilroy</link>
-      <description>
-        <![CDATA[<p>Cuando Tilda Swinton ganó el Óscar a mejor actriz de reparto por Michael Clayton (Tony Gilroy, 2007) se refirió a Tony Gilroy en su discurso de agradecimiento como un hombre que «camina sobre las aguas» y, viendo lo que el director y guionista logró con Andor, las palabras de Swinton cobran sentido. De hecho, la [&#8230;]</p>
-        <p>La entrada <a href="https://www.palomitademaiz.net/andor-la-hazana-milagrosa-de-tony-gilroy/">Andor: la hazaña milagrosa de Tony Gilroy</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
-      </description>
-      <source:markdown>Cuando Tilda Swinton ganó el Óscar a mejor actriz de reparto por Michael Clayton (Tony Gilroy, 2007) se refirió a Tony Gilroy en su discurso de agradecimiento como un hombre que «camina sobre las aguas» y, viendo lo que el director y guionista logró con Andor, las palabras de Swinton cobran sentido. De hecho, la \[…\]
-
-La entrada [Andor: la hazaña milagrosa de Tony Gilroy](https://www.palomitademaiz.net/andor-la-hazana-milagrosa-de-tony-gilroy/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
-      <guid>cid://https://www.palomitademaiz.net/?p=25562</guid>
-    </item>    <item>
-      <title>New issue of Laura Olin&#38;#8217;s newsletter, full of good stuff. &#38;#8220;I had...</title>
-      <link>https://kottke.org/25/09/0047587-new-issue-of-laura-olins</link>
-      <guid>cid://tag:kottke.org,2025://13.47587</guid>
-    </item>    <item>
-      <title>Why Reinvention is the Key to Growth</title>
-      <link>https://guykawasaki.substack.com/p/why-reinvention-is-the-key-to-growth</link>
-      <description>
-        <![CDATA[What does it take to reinvent yourself when the world keeps shifting under your feet?]]>
-      </description>
-      <source:markdown>What does it take to reinvent yourself when the world keeps shifting under your feet?</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!Jmfi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e6c2a34-e3ab-4b26-b757-178b9daface9_1080x1080.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://guykawasaki.substack.com/p/why-reinvention-is-the-key-to-growth</guid>
-    </item>    <item>
-      <title>A Newsletter of Humorous Writing #411</title>
-      <link>https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-411/</link>
-      <description>
-        <![CDATA[<h3><em>For September 17-23, 2025</em></h3>
-        <p>Hello and welcome to <strong>A Newsletter of Humorous Writing</strong>, a roundup of the week's finest short humor pieces and funny articles, and a celebration of the fantastic writers who wrote them. In Robert Altman’s film <em>3 Women</em>, one of the titular three women is named Millie, and another one is named Willie, and that can only mean one thing: This acclaimed 1977 psychological drama is secretly the basis for the characters Mario and Wario.</p>
-        <hr/><h2>What We Enjoyed This Week</h2>
-        <p><a href="https://www.mcsweeneys.net/articles/seeking-a-nodding-acquaintance?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-411" rel="noopener noreferrer nofollow" target="_blank"><strong>Seeking a Nodding Acquaintance</strong></a><strong> by </strong><a href="https://www.mcsweeneys.net/authors/ralph-gamelli?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-411" rel="noopener noreferrer nofollow" target="_blank"><strong>Ralph Gamelli</strong></a> (<em>McSweeney’s)</em> Ralph does a terrific job depicting a type of relationship that just about all of us have had at one time or another. This is one of those brilliant premises that perfectly captures a thing we all know, but didn’t necessarily KNOW we knew (if you know what we mean).</p>
-        <p><a href="https://medium.com/slackjaw/analogies-are-the-rolls-royce-of-comparisons-d89500271556?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-411" rel="noopener noreferrer nofollow" target="_blank"><strong>Analogies Are The Rolls-Royce Of Comparisons</strong></a><strong> by </strong><a href="https://www.pointsincase.com/author/luis-leal-miranda?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-411" rel="noopener noreferrer nofollow" target="_blank"><strong>Luís Leal Miranda</strong></a> <em>(Slackjaw)</em> There’s a real poetry to the analogies that Luís has concocted here. These combinations of words are delightfully unexpected, have extremely pleasing rhythms (try saying some of them aloud), and also contain undeniable truths about the world around us. You’ll find yourself nodding in agreement as you read this piece: “Yes, yes… Ducks truly are the champagne of chickens.”</p>
-        <p><a href="https://www.eater.com/pre-shift/912589/chefs-share-unhinged-yelp-reviews?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-411" rel="noopener noreferrer nofollow" target="_blank"><strong>Chefs and Owners Share Their Most Unhinged Yelp Reviews</strong></a><strong> by </strong><a href="https://www.eater.com/authors/andrea-strong-2?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-411" rel="noopener noreferrer nofollow" target="_blank"><strong>Andrea Strong</strong></a><strong> (Plus Chefs, Restaurant Owners, and an Assortment of Yelpers) </strong><em>(Eater)</em> A jaw-dropping collection of some truly outrageous reviews, expertly selected, curated, and assembled by Andrea. You can’t make this stuff up, folks!</p>
-        <hr/><blockquote><p>-- AD --</p><p>Submit your work to Chortle! We’re a humor newsletter that publishes a new comedy piece every weekday. We’re looking for sharp, funny writing—satire, parody, lists, whatever makes you laugh. Submissions should be 600 words or less, and we pay $40 for each published piece. <a href="https://www.chortle.blog/p/submissions?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-411" rel="noopener noreferrer nofollow" target="_blank">Check out the full submission guidelines here</a>!</p><p><em>(Do you have an ad you'd like to place in the Newsletter? </em><a href="https://docs.google.com/forms/d/e/1FAIpQLSeJlHErf2PuWr5NxqLbD6dhf7s31pzCC3sBVCHJ24exAwfmgQ/viewform?usp=sf_link&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-411" rel="noopener noreferrer nofollow" target="_blank"><em>Fill out this form!</em></a><em>)</em></p></blockquote>
-        <hr/><h2>An Old Favorite</h2>
-        <p><a href="https://www.newyorker.com/magazine/2024/04/08/les-grands-buffets-and-the-art-of-all-you-can-eat?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-411" rel="noopener noreferrer nofollow" target="_blank"><strong>The Hottest Restaurant in France Is an All-You-Can-Eat Buffet</strong></a><strong> by </strong><a href="https://www.newyorker.com/contributors/lauren-collins?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-411" rel="noopener noreferrer nofollow" target="_blank"><strong>Lauren Collins</strong></a> <em>(The New Yorker)</em> Not a traditional short humor piece by any means, but we think you’ll agree that there’s something inherently funny about all-you-can-eat buffets. This article is stuffed full of great details and wonderful comic descriptions of massive piles of food. “Guillaume showed me a picture of the crystal-curtained lobster tower—seven layers of vermillion crustaceans, topped by an upright specimen thrusting its claws to the sky, as though it had just slayed a halftime show, amid a cloud of mist.”</p>
-        <p><em>Do you have an Old Favorite of your own? Let us know by filling out</em> <a href="http://forms.gle/9iALhpfsAn9mvn4p8?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-411" rel="noopener noreferrer nofollow" target="_blank"><em>this form</em></a> <em>and we may run your pick in a future edition of the newsletter.</em></p>
-        <hr/><h2>Updates From Your Hosts and Friends of the Show</h2>
-        <p>Luke’s got just THREE spots left in his <a href="https://docs.google.com/forms/d/e/1FAIpQLSdZXS8c1tJzagMTvwC-cIDeWDuFEN1ina-xwK9aT7LuUgP8mA/viewform?usp=dialog&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-411" rel="noopener noreferrer nofollow" target="_blank">intro to short humor class</a> starting on October 11th! And he’s got THREE spots left in his <a href="https://docs.google.com/forms/d/e/1FAIpQLScauLuw-vsyD5jTdYAgv7fmEE2xXCqdVgctrstlwy03J5I_dw/viewform?usp=dialog&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-411" rel="noopener noreferrer nofollow" target="_blank">advanced short humor workshop taking place on Wednesday afternoons</a> in October! He’s only got a few more classes coming up in 2025, so snag a spot before there aren’t any left!</p>]]>
-      </description>
-      <source:markdown>### _For September 17-23, 2025_
-
-Hello and welcome to **A Newsletter of Humorous Writing**, a roundup of the week&#39;s finest short humor pieces and funny articles, and a celebration of the fantastic writers who wrote them. In Robert Altman’s film _3 Women_, one of the titular three women is named Millie, and another one is named Willie, and that can only mean one thing: This acclaimed 1977 psychological drama is secretly the basis for the characters Mario and Wario.
-
-* * *
-
-## What We Enjoyed This Week
-
-[**Seeking a Nodding Acquaintance**](https://www.mcsweeneys.net/articles/seeking-a-nodding-acquaintance?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-411) **by** [**Ralph Gamelli**](https://www.mcsweeneys.net/authors/ralph-gamelli?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-411) ( _McSweeney’s)_ Ralph does a terrific job depicting a type of relationship that just about all of us have had at one time or another. This is one of those brilliant premises that perfectly captures a thing we all know, but didn’t necessarily KNOW we knew (if you know what we mean).
-
-[**Analogies Are The Rolls-Royce Of Comparisons**](https://medium.com/slackjaw/analogies-are-the-rolls-royce-of-comparisons-d89500271556?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-411) **by** [**Luís Leal Miranda**](https://www.pointsincase.com/author/luis-leal-miranda?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-411) _(Slackjaw)_ There’s a real poetry to the analogies that Luís has concocted here. These combinations of words are delightfully unexpected, have extremely pleasing rhythms (try saying some of them aloud), and also contain undeniable truths about the world around us. You’ll find yourself nodding in agreement as you read this piece: “Yes, yes… Ducks truly are the champagne of chickens.”
-
-[**Chefs and Owners Share Their Most Unhinged Yelp Reviews**](https://www.eater.com/pre-shift/912589/chefs-share-unhinged-yelp-reviews?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-411) **by** [**Andrea Strong**](https://www.eater.com/authors/andrea-strong-2?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-411) **(Plus Chefs, Restaurant Owners, and an Assortment of Yelpers)** _(Eater)_ A jaw-dropping collection of some truly outrageous reviews, expertly selected, curated, and assembled by Andrea. You can’t make this stuff up, folks!
-
-* * *
-
-&#62; \-\- AD --
-&#62;
-&#62; Submit your work to Chortle! We’re a humor newsletter that publishes a new comedy piece every weekday. We’re looking for sharp, funny writing—satire, parody, lists, whatever makes you laugh. Submissions should be 600 words or less, and we pay $40 for each published piece. [Check out the full submission guidelines here](https://www.chortle.blog/p/submissions?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-411)!
-&#62;
-&#62; _(Do you have an ad you&#39;d like to place in the Newsletter?_ [_Fill out this form!_](https://docs.google.com/forms/d/e/1FAIpQLSeJlHErf2PuWr5NxqLbD6dhf7s31pzCC3sBVCHJ24exAwfmgQ/viewform?usp=sf_link&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-411) _)_
-
-* * *
-
-## An Old Favorite
-
-[**The Hottest Restaurant in France Is an All-You-Can-Eat Buffet**](https://www.newyorker.com/magazine/2024/04/08/les-grands-buffets-and-the-art-of-all-you-can-eat?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-411) **by** [**Lauren Collins**](https://www.newyorker.com/contributors/lauren-collins?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-411) _(The New Yorker)_ Not a traditional short humor piece by any means, but we think you’ll agree that there’s something inherently funny about all-you-can-eat buffets. This article is stuffed full of great details and wonderful comic descriptions of massive piles of food. “Guillaume showed me a picture of the crystal-curtained lobster tower—seven layers of vermillion crustaceans, topped by an upright specimen thrusting its claws to the sky, as though it had just slayed a halftime show, amid a cloud of mist.”
-
-_Do you have an Old Favorite of your own? Let us know by filling out_ [_this form_](http://forms.gle/9iALhpfsAn9mvn4p8?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-411) _and we may run your pick in a future edition of the newsletter._
-
-* * *
-
-## Updates From Your Hosts and Friends of the Show
-
-Luke’s got just THREE spots left in his [intro to short humor class](https://docs.google.com/forms/d/e/1FAIpQLSdZXS8c1tJzagMTvwC-cIDeWDuFEN1ina-xwK9aT7LuUgP8mA/viewform?usp=dialog&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-411) starting on October 11th! And he’s got THREE spots left in his [advanced short humor workshop taking place on Wednesday afternoons](https://docs.google.com/forms/d/e/1FAIpQLScauLuw-vsyD5jTdYAgv7fmEE2xXCqdVgctrstlwy03J5I_dw/viewform?usp=dialog&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-411) in October! He’s only got a few more classes coming up in 2025, so snag a spot before there aren’t any left!</source:markdown>
-      <guid>cid://https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-411/</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115265515227978199</link>
-      <description>
-        <![CDATA[<p>It is surprising the amount of apps I have to login after reinstalling the system.</p><p>I had logged into my first three pages of apps, but man, I keep finding more apps I forgot I launched just with spotlight and it is a long tail of passwords.</p><p>And I often don’t remember if I had used google/github/apple as a shortcut to login.</p>]]>
-      </description>
-      <source:markdown>It is surprising the amount of apps I have to login after reinstalling the system.
-
-I had logged into my first three pages of apps, but man, I keep finding more apps I forgot I launched just with spotlight and it is a long tail of passwords.
-
-And I often don’t remember if I had used google/github/apple as a shortcut to login.</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115265515227978199</guid>
-    </item>    <item>
-      <title>Safety Without Surveillance: Designing Digital Sovereignty for All Ages</title>
-      <link>https://puri.sm/posts/safety-without-surveillance-designing-digital-sovereignty-for-all-ages/</link>
-      <description>
-        <![CDATA[<p>In September, a single misconfiguration in Life360’s Android API turned a “family safety” app into a map of human lives exposed. More than 442,000 users had their precise GPS trails, names, and phone numbers dumped online by a threat actor known as Emo.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/safety-without-surveillance-designing-digital-sovereignty-for-all-ages/">Safety Without Surveillance: Designing Digital Sovereignty for All Ages</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>In September, a single misconfiguration in Life360’s Android API turned a “family safety” app into a map of human lives exposed. More than 442,000 users had their precise GPS trails, names, and phone numbers dumped online by a threat actor known as Emo.
-
-The post [Safety Without Surveillance: Designing Digital Sovereignty for All Ages](https://puri.sm/posts/safety-without-surveillance-designing-digital-sovereignty-for-all-ages/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=84574</guid>
-    </item>    <item>
-      <title>Two Slice is a bitmappy font that&#38;#8217;s only two pixels tall and...</title>
-      <link>https://kottke.org/25/09/0047585-two-slice-is-a-bitmappy</link>
-      <guid>cid://tag:kottke.org,2025://13.47585</guid>
-    </item>    <item>
-      <title>How to Be a Good Literary Citizen (in Seven Easy Steps)</title>
-      <link>https://lithub.com/how-to-be-a-good-literary-citizen-in-seven-easy-steps/</link>
-      <description>
-        <![CDATA[Last Sunday I spent hours at the Brooklyn Book Festival, a too rare occasion for me to pull myself away from the internet for an entire afternoon. As I looked around at the crowd on their way to panels or checking out indie press booths, I was reminded that, even if it doesn’t always seem [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=260233</guid>
-    </item>    <item>
-      <title>Fantastic essay by Roxane Gay: Civility Is a Fantasy. &#38;#8220;Calling for civility...</title>
-      <link>https://kottke.org/25/09/0047584-fantastic-essay-by-roxane</link>
-      <guid>cid://tag:kottke.org,2025://13.47584</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/barackobama.bsky.social/post/3lzo4jk2dc22n</link>
-      <description>
-        <![CDATA[We have people in power making broad claims around certain drugs and autism that have been continuously disproven.]]>
-      </description>
-      <source:markdown>We have people in power making broad claims around certain drugs and autism that have been continuously disproven.</source:markdown>
-      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3lzo4jk2dc22n</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/25.html#a135426</link>
-      <description>
-        <![CDATA[I just heard about <a href="https://www.health.harvard.edu/blog/how-to-recognize-and-tame-your-cognitive-distortions-202205042738">thinking errors</a>, via <a href="https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral">Cognitive Behavioral Therapy</a>.]]>
-      </description>
-      <source:markdown>I just heard about [thinking errors](https://www.health.harvard.edu/blog/how-to-recognize-and-tame-your-cognitive-distortions-202205042738), via [Cognitive Behavioral Therapy](https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral).</source:markdown>
-      <guid>cid://http://scripting.com/2025/09/25.html#a135426</guid>
-    </item>    <item>
-      <title>How Surveillance Firms Use ‘Democracy’ As a Cover for Serving ICE and Trump</title>
-      <link>https://www.404media.co/how-surveillance-firms-use-democracy-as-a-cover-for-serving-ice-and-trump/</link>
-      <description>
-        <![CDATA[Multiple Palantir and Flock sources say the companies are spinning a commitment to "democracy" to absolve them of responsibility. "In my eyes, it is the classic double speak," one said.]]>
-      </description>
-      <source:markdown>Multiple Palantir and Flock sources say the companies are spinning a commitment to &#34;democracy&#34; to absolve them of responsibility. &#34;In my eyes, it is the classic double speak,&#34; one said.</source:markdown>
-      <guid>cid://68d545013ea9560001435d21</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/25.html#a130421</link>
-      <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2025/09/17/reallySimpleCola.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Today there is a <a href="https://wptavern.com/podcast/186-dave-winer-on-decentralisation-wordpress-and-open-publishing">new podcast</a>, this one for members of the WordPress community. I was interviewed by the very capable Nathan Wrigley of WP Tavern. I thought it was a great conversation, we talked about the remarkable position WordPress is in to serve as the OS for a rebooted web. I love the introduction they wrote, I also figured out how to make content management work in the browser, which was the foundation for blogging and eventually WordPress, though it seems that legacy is a bit lost in all the other stuff I've had my fingers in over the years. I hope you listen to this podcast, and if you have <a href="https://wptavern.com/podcast/186-dave-winer-on-decentralisation-wordpress-and-open-publishing">questions or comments</a>, here's a good place to post them.]]>
-      </description>
-      <source:markdown>![](https://imgs.scripting.com/2025/09/17/reallySimpleCola.png)Today there is a [new podcast](https://wptavern.com/podcast/186-dave-winer-on-decentralisation-wordpress-and-open-publishing), this one for members of the WordPress community. I was interviewed by the very capable Nathan Wrigley of WP Tavern. I thought it was a great conversation, we talked about the remarkable position WordPress is in to serve as the OS for a rebooted web. I love the introduction they wrote, I also figured out how to make content management work in the browser, which was the foundation for blogging and eventually WordPress, though it seems that legacy is a bit lost in all the other stuff I&#39;ve had my fingers in over the years. I hope you listen to this podcast, and if you have [questions or comments](https://wptavern.com/podcast/186-dave-winer-on-decentralisation-wordpress-and-open-publishing), here&#39;s a good place to post them.</source:markdown>
-      <guid>cid://http://scripting.com/2025/09/25.html#a130421</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/25.html#a130415</link>
-      <description>
-        <![CDATA[Good morning sports fans!]]>
-      </description>
-      <source:markdown>Good morning sports fans!</source:markdown>
-      <guid>cid://http://scripting.com/2025/09/25.html#a130415</guid>
-    </item>    <item>
-      <title>Ruled Sufficiently Spooky</title>
-      <link>https://onefoottsunami.com/2025/09/25/ruled-sufficiently-spooky/</link>
-      <guid>cid://https://onefoottsunami.com/?p=29194</guid>
-    </item>    <item>
-      <title>As I remember London</title>
-      <link>https://christianheilmann.com/2025/09/25/as-i-remember-london/</link>
-      <description>
-        <![CDATA[When I moved to the UK at the tail end of the last millennium, I wasn&#8217;t in a good place. I was hired by a US company to work in their German office, and they sent me over to the US to work on their product. I lived in a hotel for a few months, [&#8230;]]]>
-      </description>
-      <source:markdown>When I moved to the UK at the tail end of the last millennium, I wasn’t in a good place. I was hired by a US company to work in their German office, and they sent me over to the US to work on their product. I lived in a hotel for a few months, \[…\]</source:markdown>
-      <guid>cid://https://christianheilmann.com/?p=8610</guid>
-    </item>    <item>
-      <link>https://www.wired.com/story/oral-history-doge-federal-workers/</link>
-      <description>
-        <![CDATA[<p>The Story of DOGE, as Told by Federal Workers.</p>]]>
-      </description>
-      <source:markdown>The Story of DOGE, as Told by Federal Workers.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/25/1231/</guid>
-    </item>    <item>
-      <link>https://wapo.st/4gEIfSF</link>
-      <description>
-        <![CDATA[<p>Kansas high schoolers sue after AI tool flags student’s artwork as porn.</p>]]>
-      </description>
-      <source:markdown>Kansas high schoolers sue after AI tool flags student’s artwork as porn.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/25/1229/</guid>
-    </item>    <item>
-      <title>Malicious-Looking URL Creation Service</title>
-      <link>https://www.schneier.com/blog/archives/2025/09/malicious-looking-url-creation-service.html</link>
-      <description>
-        <![CDATA[<p><a href="https://phishyurl.com/">This site</a> turns your URL into something sketchy-looking.</p>
-        <p>For example, <tt>www.schneier.com</tt> becomes<br />
-        <tt>https://cheap-bitcoin.online/firewall-snatcher/cipher-injector/phishing_sniffer_tool.html?form=inject&#38;host=spoof&#38;id=bb1bc121&#38;parameter=inject&#38;payload=%28function%28%29%7B+return+%27+hi+%27.trim%28%29%3B+%7D%29%28%29%3B&#38;port=spoof</tt>.</p>
-        <p>Found on <a href="https://boingboing.net/2025/09/19/a-url-shortener-that-creates-suspicious-looking-urls.html">Boing Boing</a>.</p>]]>
-      </description>
-      <source:markdown>[This site](https://phishyurl.com/) turns your URL into something sketchy-looking.
-
-For example, `www.schneier.com` becomes
-
-`https://cheap-bitcoin.online/firewall-snatcher/cipher-injector/phishing_sniffer_tool.html?form=inject&#38;host=spoof&#38;id=bb1bc121&#38;parameter=inject&#38;payload=%28function%28%29%7B+return+%27+hi+%27.trim%28%29%3B+%7D%29%28%29%3B&#38;port=spoof`.
-
-Found on [Boing Boing](https://boingboing.net/2025/09/19/a-url-shortener-that-creates-suspicious-looking-urls.html).</source:markdown>
-      <guid>cid://https://www.schneier.com/?p=70859</guid>
-    </item>    <item>
-      <title>Hounds Of Love</title>
-      <link>https://adactio.com/journal/22155</link>
-      <description>
-        <![CDATA[<p>The album <cite>Hounds Of Love</cite> by <a href="https://www.katebush.com/">Kate Bush</a> turned 40 years old this month. It has really stood the test of time. It still sounds like nothing else.</p>
-        
-        <p>It’s kind of two albums in one.</p>
-        
-        <p>There’s the A side with all those perfect pop songs—<a href="https://www.youtube.com/watch?v=wp43OdtAAkM"><cite>Running Up That Hill</cite></a>, <a href="https://www.youtube.com/watch?v=VerK4zwMRQw"><cite>Hounds Of Love</cite></a>, <a href="https://www.youtube.com/watch?v=pllRW9wETzw"><cite>Cloudbusting</cite></a>, <a href="https://www.youtube.com/watch?v=sV7w5TaYjRA"><cite>The Big Sky</cite></a>—each one brilliant and self-contained.</p>
-        
-        <p>Then there’s the B side, <cite>The Ninth Wave</cite>. It’s like its own <a href="https://adactio.com/journal/21767">concept album</a> within an album. It’s weird and challening, but I love it.</p>
-        
-        <p>At times it’s downright frightening but the whole thing ends on a joyous note with <cite>The Morning Fog</cite>. There’s something about the clarity of the closing lines that brings me to tears:</p>
-        
-        <blockquote>
-        I&#8217;ll tell my mother<br>
-        I&#8217;ll tell my father<br>
-        I&#8217;ll tell my loved one<br>
-        I&#8217;ll tell my brothers<br>
-        How much I love them
-        </blockquote>
-        
-        <p>That’s after the magnificence of <a href="https://thesession.org/tunes/7575"><cite>The Jig Of Life</cite></a> which happily crosses over with my love of Irish traditional music.</p>
-        
-        <p>But, as with traditional Irish music, <cite>Hounds Of Love</cite> was not something I was into when I was growing up. Quite the opposite.</p>
-        
-        <p>See, my brother was really into Kate Bush. And if my brother was into something, then I didn’t want anything to do with it. We didn’t really get along.</p>
-        
-        <p>Mostly that worked out fine. I don’t think missed out on much by avoiding the Electric Light Orchestra, the Alan Parsons Project, and other Partridge-esque bands. But I was wrong to avoid Kate Bush.</p>
-        
-        <p>It was only by the time I got to art college that I was able to listen to <cite>Hounds Of Love</cite> objectively, encouraged to do so by a girlfriend at the time who was a huge fan.</p>
-        
-        <p>Now I’m listening to it again.</p>
-        
-        <p>Ah, those closing lines …there’s just something about them.</p>]]>
-      </description>
-      <source:markdown>The album Hounds Of Love by [Kate Bush](https://www.katebush.com/) turned 40 years old this month. It has really stood the test of time. It still sounds like nothing else.
-
-It’s kind of two albums in one.
-
-There’s the A side with all those perfect pop songs— [Running Up That Hill](https://www.youtube.com/watch?v=wp43OdtAAkM), [Hounds Of Love](https://www.youtube.com/watch?v=VerK4zwMRQw), [Cloudbusting](https://www.youtube.com/watch?v=pllRW9wETzw), [The Big Sky](https://www.youtube.com/watch?v=sV7w5TaYjRA)—each one brilliant and self-contained.
-
-Then there’s the B side, The Ninth Wave. It’s like its own [concept album](https://adactio.com/journal/21767) within an album. It’s weird and challening, but I love it.
-
-At times it’s downright frightening but the whole thing ends on a joyous note with The Morning Fog. There’s something about the clarity of the closing lines that brings me to tears:
-
-&#62; I’ll tell my mother
-&#62;
-&#62; I’ll tell my father
-&#62;
-&#62; I’ll tell my loved one
-&#62;
-&#62; I’ll tell my brothers
-&#62;
-&#62; How much I love them
-
-That’s after the magnificence of [The Jig Of Life](https://thesession.org/tunes/7575) which happily crosses over with my love of Irish traditional music.
-
-But, as with traditional Irish music, Hounds Of Love was not something I was into when I was growing up. Quite the opposite.
-
-See, my brother was really into Kate Bush. And if my brother was into something, then I didn’t want anything to do with it. We didn’t really get along.
-
-Mostly that worked out fine. I don’t think missed out on much by avoiding the Electric Light Orchestra, the Alan Parsons Project, and other Partridge-esque bands. But I was wrong to avoid Kate Bush.
-
-It was only by the time I got to art college that I was able to listen to Hounds Of Love objectively, encouraged to do so by a girlfriend at the time who was a huge fan.
-
-Now I’m listening to it again.
-
-Ah, those closing lines …there’s just something about them.</source:markdown>
-      <guid>cid://https://adactio.com/journal/22155</guid>
-    </item>    <item>
-      <title>Why AI Efficiency May Be Making Your Organization More Fragile</title>
-      <link>https://www.oreilly.com/radar/why-ai-efficiency-may-be-making-your-organization-more-fragile/</link>
-      <description>
-        <![CDATA[The productivity gains from AI tools are undeniable. Development teams are shipping faster, marketing campaigns are launching quicker, and deliverables are more polished than ever. But if you’re a technology leader watching these efficiency improvements, you might want to ask yourself a harder question: Are we building a more capable organization, or are we unintentionally [&#8230;]]]>
-      </description>
-      <source:markdown>The productivity gains from AI tools are undeniable. Development teams are shipping faster, marketing campaigns are launching quicker, and deliverables are more polished than ever. But if you’re a technology leader watching these efficiency improvements, you might want to ask yourself a harder question: Are we building a more capable organization, or are we unintentionally \[…\]</source:markdown>
-      <guid>cid://https://www.oreilly.com/radar/?p=17473</guid>
-    </item>    <item>
-      <title>Bcachefs goes DKMS after Torvalds&#39; kernel banishment</title>
-      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/09/25/bcachefs_dkms_modules/</link>
-      <description>
-        <![CDATA[<h4>Performance of new version mostly good, but future uncertain</h4>
-              <p>The bcachefs file system, now &#34;externally maintained&#34; outside the Linux kernel codebase, offers packages of its first version to be loadable on the fly.</p>]]>
-      </description>
-      <source:markdown>#### Performance of new version mostly good, but future uncertain
-
-The bcachefs file system, now &#34;externally maintained&#34; outside the Linux kernel codebase, offers packages of its first version to be loadable on the fly.</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242104</guid>
-    </item>    <item>
-      <link>https://www.notus.org/trump-white-house/billions-taxpayer-dollars-virtually-untraceable-appropriations-trump-omb-russ-vought</link>
-      <description>
-        <![CDATA[<p>Billions in Taxpayer Dollars Have Become Virtually Untraceable.</p>]]>
-      </description>
-      <source:markdown>Billions in Taxpayer Dollars Have Become Virtually Untraceable.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/25/1227/</guid>
-    </item>    <item>
-      <title>A tiny bit-o-CSS for Stable Scrollbar Gutters—zachleat.com</title>
-      <link>https://www.zachleat.com/web/stable-scrollbar-gutters/</link>
-      <description>
-        <![CDATA[<p>I’ve added this handy little bit of CSS to <a href="https://gist.github.com/adactio/de5272e75d7411ba3d8499d416ac4d3b">my starting styles</a>.</p>
-        
-        <p><a href="https://adactio.com/links/22154">adactio.com/links/22154</a></p>]]>
-      </description>
-      <source:markdown>I’ve added this handy little bit of CSS to [my starting styles](https://gist.github.com/adactio/de5272e75d7411ba3d8499d416ac4d3b).
-
-[adactio.com/links/22154](https://adactio.com/links/22154)</source:markdown>
-      <guid>cid://https://www.zachleat.com/web/stable-scrollbar-gutters/</guid>
-    </item>    <item>
-      <title>12 Tips for WordPress Businesses Navigating the WordPress Media Landscape</title>
-      <link>https://openchannels.fm/12-tips-for-wordpress-businesses-navigating-the-wordpress-media-landscape/</link>
-      <description>
-        <![CDATA[To enhance your business visibility in the WordPress ecosystem, employ strategies like mapping channels, collaborating with influencers, sponsoring newsletters, and tailoring content to different audience needs.]]>
-      </description>
-      <source:markdown>To enhance your business visibility in the WordPress ecosystem, employ strategies like mapping channels, collaborating with influencers, sponsoring newsletters, and tailoring content to different audience needs.</source:markdown>
-      <guid>cid://https://openchannels.fm/?p=109514</guid>
-    </item>    <item>
-      <title>Lit Hub Daily: September 25, 2025</title>
-      <link>https://lithub.com/lit-hub-daily-september-25-2025/</link>
-      <description>
-        <![CDATA[With the arrival of important new books on Gertrude Stein, James Baldwin, and Peter Matthiessen, Megan Marshall wonders if we’re entering a new golden age of biography. &#124; Lit Hub Biography Jonathan Lethem talks to Jane Ciabattari about writing, revising, and seeing the world through a Marxist lens. &#124; Lit Hub In Conversation On the [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=260216</guid>
-    </item>    <item>
-      <title>Why Is Trump Bailing Out Argentina?</title>
-      <link>https://paulkrugman.substack.com/p/why-is-trump-bailing-out-argentina</link>
-      <description>
-        <![CDATA[This is about ideology and Trumpian fealty, not America&#8217;s interests]]>
-      </description>
-      <source:markdown>This is about ideology and Trumpian fealty, not America’s interests</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!qbGR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3bab347a-f8d2-467e-9402-1bd9b4f13d37_1024x682.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/why-is-trump-bailing-out-argentina</guid>
-    </item>    <item>
-      <title>Are We Entering a New Golden Age of Biography?</title>
-      <link>https://lithub.com/are-we-entering-a-new-golden-age-of-biography/</link>
-      <description>
-        <![CDATA[A poet friend of mine who specializes in sonnets (just fourteen lines!) recently compared the work of the biographer to long-haul trucking. It takes time. And fortitude, focus, a good sense of direction, deep knowledge of the territory. For these reasons, biography is often a late stage effort, a project to turn to after a [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=260219</guid>
-    </item>    <item>
-      <title>How a Global Cake Brand Was Built Using WooCommerce and Open Source Communities</title>
-      <link>https://openchannels.fm/how-a-global-cake-brand-was-built-using-woocommerce-and-open-source-communities/</link>
-      <description>
-        <![CDATA[In this episode, nurse-turned-baker Precious shares her journey of launching "Cakes in a Jar" with WordPress and WooCommerce, blending her Zimbabwean roots with a vibrant online brand.]]>
-      </description>
-      <source:markdown>In this episode, nurse-turned-baker Precious shares her journey of launching &#34;Cakes in a Jar&#34; with WordPress and WooCommerce, blending her Zimbabwean roots with a vibrant online brand.</source:markdown>
-      <guid>cid://https://openchannels.fm/?p=110411</guid>
-    </item>    <item>
-      <title>Go is #2 among newer languages</title>
-      <link>https://antonz.org/lang-ranking/</link>
-      <description>
-        <![CDATA[With version 1.0 released after 2010.]]>
-      </description>
-      <source:markdown>With version 1.0 released after 2010.</source:markdown>
-      <guid>cid://https://antonz.org/lang-ranking/</guid>
-    </item>    <item>
-      <title>When Bruce Lee Trained With Kareem Abdul-Jabbar</title>
-      <link>https://lithub.com/when-bruce-lee-trained-with-kareem-abdul-jabbar/</link>
-      <description>
-        <![CDATA[When Bruce Lee met Kareem Abdul-Jabbar, a month after the 1968 national college basketball championship, he was still known as Lew Alcindor, the most hyped young basketball star in history. Lew was seven feet two and, for his whole life, had been unable to hide. He disarmed reporters with a fierce intelligence masked by a [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=259964</guid>
-    </item>    <item>
-      <title>Jonathan Lethem on Revisiting Old Short Stories While Writing New Ones</title>
-      <link>https://lithub.com/jonathan-lethem-on-revisiting-old-short-stories-while-writing-new-ones/</link>
-      <description>
-        <![CDATA[Jonathan Lethem appears steadily in the contemporary literary livestream, He’s earned the title “bard of Brooklyn” for fiction about his native borough. He’s invented eccentric narrative voices like Lionel Essrog, the detective with Tourette syndrome in Motherless Brooklyn, which won the 1999 National Book Critics Circle award and the 2000 Golden Dagger Award for crime [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=259805</guid>
-    </item>    <item>
-      <title>Meet the Ocean’s Remarkable See-Through Animals</title>
-      <link>https://lithub.com/meet-the-oceans-remarkable-see-through-animals/</link>
-      <description>
-        <![CDATA[Both of us have been on many scuba dives in the open sea. Doing so requires training, followed by medical exams and piles of forms, and involves a lot of work, planning, and money. A big ship is needed to get out to sea, and then a small boat to travel a further couple of [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=259930</guid>
-    </item>    <item>
-      <title>5 Book Reviews You Need to Read This Week</title>
-      <link>https://lithub.com/5-book-reviews-you-need-to-read-this-week-9-25-2025/</link>
-      <description>
-        <![CDATA[Our basket of brilliant reviews this week includes Kathryn Schulz on Thomas Pynchon&#8217;s Shadow Ticket, Ron Charles on Lily King&#8217;s Heart the Lover, Arwa Mahdawi on Kamala Harris&#8217; 107 Days, Lily Meyer on Mark Mazower&#8217;s On Antisemitism, and K. Twaddle on Mindy Mejia&#8217;s The Whisper Place. Brought to you by Book Marks, Lit Hub’s home [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=260140</guid>
-    </item>    <item>
-      <title>How the German Peasants’ War Exposed 16th-Century Europe’s Fragile Foundations</title>
-      <link>https://lithub.com/how-the-german-peasants-war-exposed-16th-century-europes-fragile-foundations/</link>
-      <description>
-        <![CDATA[The German Peasants’ War was the greatest popular uprising in western Europe before the French Revolution. Like a vast contagion it spread from southwest Germany through Württemberg, Swabia, the Allgäu, Franconia, Thuringia, and Saxony to Alsace in what is now France, Austria, and Switzerland. Peasants massed in armed bands in one region, then another, and [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=259807</guid>
-    </item>    <item>
-      <title>Against the protection of stocking frames. — Ethan Marcotte</title>
-      <link>https://ethanmarcotte.com/wrote/against-stocking-frames/</link>
-      <description>
-        <![CDATA[<blockquote>
-          <p>I don’t think it’s controversial to suggest that LLMs haven’t measured up to any of the <a href="https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/improving-productivity-with-ai-tools">lofty</a> <a href="https://openai.com/index/planning-for-agi-and-beyond/">promises</a> made by their vendors. But in more concrete terms, <a href="https://www.prnewswire.com/news-releases/two-thirds-of-shoppers-say-no-to-ai-shopping-assistants--trust-issues-could-slow-retails-ai-revolution-302385556.html">consumers dislike “AI” when it shows up in products</a>, and it makes them <a href="https://business.yougov.com/content/49622-artificial-intelligence-ai-generated-brand-advertising-how-do-consumers-around-the-world-feel-comfortable">actively mistrust the brands that employ it</a>. In other words, we’re some three years into the <a href="https://en.wikipedia.org/wiki/Gartner_hype_cycle">hype cycle</a>, and LLMs haven’t met any markers of success we’d apply to, well, literally any other technology.</p>
-        </blockquote>
-        
-        <p><a href="https://adactio.com/links/22153">adactio.com/links/22153</a></p>]]>
-      </description>
-      <source:markdown>&#62; I don’t think it’s controversial to suggest that LLMs haven’t measured up to any of the [lofty](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/improving-productivity-with-ai-tools) [promises](https://openai.com/index/planning-for-agi-and-beyond/) made by their vendors. But in more concrete terms, [consumers dislike “AI” when it shows up in products](https://www.prnewswire.com/news-releases/two-thirds-of-shoppers-say-no-to-ai-shopping-assistants--trust-issues-could-slow-retails-ai-revolution-302385556.html), and it makes them [actively mistrust the brands that employ it](https://business.yougov.com/content/49622-artificial-intelligence-ai-generated-brand-advertising-how-do-consumers-around-the-world-feel-comfortable). In other words, we’re some three years into the [hype cycle](https://en.wikipedia.org/wiki/Gartner_hype_cycle), and LLMs haven’t met any markers of success we’d apply to, well, literally any other technology.
-
-[adactio.com/links/22153](https://adactio.com/links/22153)</source:markdown>
-      <guid>cid://https://ethanmarcotte.com/wrote/against-stocking-frames/</guid>
-    </item>    <item>
-      <title>“The Funeral”</title>
-      <link>https://lithub.com/the-funeral/</link>
-      <description>
-        <![CDATA[Yesterday I went to my aunt’s funeral. She was my father’s older sister. Long before he died we lost touch with her and my uncle and their sons. Small misunderstandings arose and then they became bigger, until decades had wedged themselves between our families. She had two boys. Every summer, I had begged them to [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=259757</guid>
-    </item>    <item>
-      <title>Warning to you and your loved ones</title>
-      <link>https://robertreich.substack.com/p/warning-to-you-and-your-loved-ones</link>
-      <description>
-        <![CDATA[None of us is safe when Trump acts as judge and jury.]]>
-      </description>
-      <source:markdown>None of us is safe when Trump acts as judge and jury.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!1T86!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71d4f74a-2a42-4389-add6-5ee31ff77a81_700x368.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/warning-to-you-and-your-loved-ones</guid>
-    </item>    <item>
-      <title>Full eGPU acceleration on the Pi 500+ with a 15-line patch</title>
-      <link>https://www.jeffgeerling.com/blog/2025/full-egpu-acceleration-on-pi-500-15-line-patch</link>
-      <description>
-        <![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Full eGPU acceleration on the Pi 500+ with a 15-line patch</span>
-        
-                    <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="https://www.jeffgeerling.com/sites/default/files/images/pi500plus-egpu-on-desk.jpeg" width="700" height="394" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-dbd99baf-db52-43b5-9fed-d33da560021e" data-insert-attach="{&quot;id&quot;:&quot;dbd99baf-db52-43b5-9fed-d33da560021e&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Raspberry Pi 500+ eGPU setup on Desk"></p>
-        
-        <p>Instead of a traditional review of a new Pi product, I thought I'd split things up on my blog, and write two separate posts; this one about hacking in an eGPU on the Pi 500+, for a massive uplift in gaming performance and local LLMs, and a <a href="https://www.jeffgeerling.com/blog/2025/testing-raspberry-pi-500s-new-mechanical-keyboard">separate post about the Pi 500+'s new mechanical keyboard</a>.</p>
-        
-        <p>The <a href="https://www.raspberrypi.com/products/raspberry-pi-500-plus/">Raspberry Pi 500+</a> was announced today, sells for $200, and adds on the following over what was present in the regular Pi 500:</p></div>
-              <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
-        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-09-25T02:00:58-05:00" title="Thursday, September 25, 2025 - 02:00" class="datetime">September 25, 2025</time>
-        </span>]]>
-      </description>
-      <source:markdown>Full eGPU acceleration on the Pi 500+ with a 15-line patch
-
-![Raspberry Pi 500+ eGPU setup on Desk](https://www.jeffgeerling.com/sites/default/files/images/pi500plus-egpu-on-desk.jpeg)
-
-Instead of a traditional review of a new Pi product, I thought I&#39;d split things up on my blog, and write two separate posts; this one about hacking in an eGPU on the Pi 500+, for a massive uplift in gaming performance and local LLMs, and a [separate post about the Pi 500+&#39;s new mechanical keyboard](https://www.jeffgeerling.com/blog/2025/testing-raspberry-pi-500s-new-mechanical-keyboard).
-
-The [Raspberry Pi 500+](https://www.raspberrypi.com/products/raspberry-pi-500-plus/) was announced today, sells for $200, and adds on the following over what was present in the regular Pi 500:
-
-Jeff GeerlingSeptember 25, 2025</source:markdown>
-      <guid>cid://3499 at https://www.jeffgeerling.com</guid>
-    </item>    <item>
-      <title>Testing the Raspberry Pi 500+&#39;s new mechanical keyboard</title>
-      <link>https://www.jeffgeerling.com/blog/2025/testing-raspberry-pi-500s-new-mechanical-keyboard</link>
-      <description>
-        <![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Testing the Raspberry Pi 500+'s new mechanical keyboard</span>
-        
-                    <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="https://www.jeffgeerling.com/sites/default/files/images/pi500plus-keyboard-typing.jpeg" width="700" height="394" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-3eaf6b2c-d3af-4466-a7ae-500136ecd3af" data-insert-attach="{&quot;id&quot;:&quot;3eaf6b2c-d3af-4466-a7ae-500136ecd3af&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Raspberry Pi 500+ typing on keyboard rainbow LED backlight"></p>
-        
-        <p>Instead of a traditional review of a new Pi product, I thought I'd split things up on my blog, and write two separate posts; this one about the Pi 500+'s new mechanical keyboard, and a separate post about <a href="https://www.jeffgeerling.com/blog/2025/full-egpu-acceleration-on-pi-500-15-line-patch">hacking in an eGPU on the Pi 500+</a>, for a massive uplift in gaming performance and local LLMs.</p>
-        
-        <p>The <a href="https://www.raspberrypi.com/products/raspberry-pi-500-plus/">Raspberry Pi 500+</a> was announced today, sells for $200, and adds on the following over what was present in the regular Pi 500:</p></div>
-              <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
-        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-09-25T02:00:45-05:00" title="Thursday, September 25, 2025 - 02:00" class="datetime">September 25, 2025</time>
-        </span>]]>
-      </description>
-      <source:markdown>Testing the Raspberry Pi 500+&#39;s new mechanical keyboard
-
-![Raspberry Pi 500+ typing on keyboard rainbow LED backlight](https://www.jeffgeerling.com/sites/default/files/images/pi500plus-keyboard-typing.jpeg)
-
-Instead of a traditional review of a new Pi product, I thought I&#39;d split things up on my blog, and write two separate posts; this one about the Pi 500+&#39;s new mechanical keyboard, and a separate post about [hacking in an eGPU on the Pi 500+](https://www.jeffgeerling.com/blog/2025/full-egpu-acceleration-on-pi-500-15-line-patch), for a massive uplift in gaming performance and local LLMs.
-
-The [Raspberry Pi 500+](https://www.raspberrypi.com/products/raspberry-pi-500-plus/) was announced today, sells for $200, and adds on the following over what was present in the regular Pi 500:
-
-Jeff GeerlingSeptember 25, 2025</source:markdown>
-      <guid>cid://3498 at https://www.jeffgeerling.com</guid>
-    </item>    <item>
-      <title>The ultimate all-in-one PC: Raspberry Pi 500+ on sale now at $200</title>
-      <link>https://www.raspberrypi.com/news/the-ultimate-all-in-one-pc-raspberry-pi-500-plus-on-sale-now-at-200/</link>
-      <description>
-        <![CDATA[<p>A complete desktop computer, a love letter to the machines of our childhoods, and our most polished product yet.</p>
-        <p>The post <a href="https://www.raspberrypi.com/news/the-ultimate-all-in-one-pc-raspberry-pi-500-plus-on-sale-now-at-200/">The ultimate all-in-one PC: Raspberry Pi 500+ on sale now at $200</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
-      </description>
-      <source:markdown>A complete desktop computer, a love letter to the machines of our childhoods, and our most polished product yet.
-
-The post [The ultimate all-in-one PC: Raspberry Pi 500+ on sale now at $200](https://www.raspberrypi.com/news/the-ultimate-all-in-one-pc-raspberry-pi-500-plus-on-sale-now-at-200/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
-      <guid>cid://https://www.raspberrypi.com/?p=130268</guid>
-    </item>    <item>
-      <title>Meet the engineers behind Raspberry Pi 500+</title>
-      <link>https://www.raspberrypi.com/news/meet-the-engineers-behind-raspberry-pi-500-plus/</link>
-      <description>
-        <![CDATA[<p>In the latest issue of Raspberry Pi Official Magazine — out now — we get to know the engineers who designed Raspberry Pi 500+.</p>
-        <p>The post <a href="https://www.raspberrypi.com/news/meet-the-engineers-behind-raspberry-pi-500-plus/">Meet the engineers behind Raspberry Pi 500+</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
-      </description>
-      <source:markdown>In the latest issue of Raspberry Pi Official Magazine — out now — we get to know the engineers who designed Raspberry Pi 500+.
-
-The post [Meet the engineers behind Raspberry Pi 500+](https://www.raspberrypi.com/news/meet-the-engineers-behind-raspberry-pi-500-plus/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
-      <guid>cid://https://www.raspberrypi.com/?p=130296</guid>
-    </item>    <item>
-      <title>Bloomberg: ‘Intel Is Seeking an Investment From Apple as Part of Its Comeback Bid’</title>
-      <link>https://www.bloomberg.com/news/articles/2025-09-24/intel-is-seeking-an-investment-from-apple-as-part-of-its-comeback-bid?embedded-checkout=true</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42223</guid>
-    </item>    <item>
-      <title>September 24, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-24-2025</link>
-      <description>
-        <![CDATA[Hours after delivering his delusional and offensive speech to the United Nations yesterday, President Donald J.]]>
-      </description>
-      <source:markdown>Hours after delivering his delusional and offensive speech to the United Nations yesterday, President Donald J.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-24-2025</guid>
-    </item>    <item>
-      <title>Jimmy Kimmel Returns, Ratings Soar</title>
-      <link>https://www.nytimes.com/2025/09/24/business/media/jimmy-kimmel-ratings.html?unlocked_article_code=1.ok8.KyCA.T_7UIDw3iCg6&#38;smid=url-share</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42222</guid>
-    </item>    <item>
-      <title>Joe Betz, Owner of House of Prime Rib, Dies at 86</title>
-      <link>https://sfstandard.com/2025/09/24/san-francisco-joe-betz-owner-house-prime-rib-dies/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42221</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/altusds.altgov.info/post/3lzmtf3vsds27</link>
-      <description>
-        <![CDATA[Here's an action you can take to support veterans and brave VA employees standing up for their care
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <source:markdown>Here&#39;s an action you can take to support veterans and brave VA employees standing up for their care
-
-\[contains quote post or other embedded content\]</source:markdown>
-      <guid>cid://at://did:plc:fuovrvjiloafdym65x3oloqc/app.bsky.feed.post/3lzmtf3vsds27</guid>
-    </item>    <item>
-      <link>https://archive.org/details/lp_rip-van-winkle_ed-begley-washington-irving</link>
-      <description>
-        <![CDATA[<p>The story of Rip Van Winkle as a free audiobook, thanks to archive.org.</p>]]>
-      </description>
-      <source:markdown>The story of Rip Van Winkle as a free audiobook, thanks to archive.org.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/24/1225/</guid>
-    </item>    <item>
-      <title>Don&#39;t hide your best documentation</title>
-      <link>https://simonwillison.net/2025/Sep/25/documentation/#atom-everything</link>
-      <description>
-        <![CDATA[<p>If you hide the system prompt and tool descriptions for your LLM agent, what you're actually doing is deliberately hiding the most useful documentation describing your service from your most sophisticated users!</p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p>]]>
-      </description>
-      <source:markdown>If you hide the system prompt and tool descriptions for your LLM agent, what you&#39;re actually doing is deliberately hiding the most useful documentation describing your service from your most sophisticated users!
-
-Tags: [ai-agents](https://simonwillison.net/tags/ai-agents), [llms](https://simonwillison.net/tags/llms), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Sep/25/documentation/#atom-everything</guid>
-    </item>    <item>
-      <title>Apple&#39;s Antitrust Playbook</title>
-      <link>https://infrequently.org/2025/09/apples-antitrust-playbook/</link>
-      <guid>cid://https://infrequently.org/2025/09/apples-antitrust-playbook/</guid>
     </item>
   </channel>
 </rss>

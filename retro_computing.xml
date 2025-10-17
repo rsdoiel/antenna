@@ -4,10 +4,26 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>16 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>17 Oct 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>2kSA Symbolic Assembler for the KIM-1</title>
+      <link>http://retro.hansotten.nl/2ksa-symbolic-assembler-for-the-kim-1/</link>
+      <description>
+        <![CDATA[The 2K Symbolic Assembler, by Robert Ford Denison. An assembler and editor in 2K! This small program allows to assemble a program up to 1K on a KIM-1 system with only 4K, including 2K for the assembler. One can enter program in the built-in line editor and assemble to memory. Published as a small book [&#8230;]]]>
+      </description>
+      <source:markdown>The 2K Symbolic Assembler, by Robert Ford Denison. An assembler and editor in 2K! This small program allows to assemble a program up to 1K on a KIM-1 system with only 4K, including 2K for the assembler. One can enter program in the built-in line editor and assemble to memory. Published as a small book \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=19058</guid>
+    </item>    <item>
+      <title>Rougol October 2025 meeting on monday - RISCSObits Preshow teaser</title>
+      <link>http://www.iconbar.com/comments/rss/news2237.html</link>
+      <description>
+        <![CDATA[The October 2025 Rougol meeting is on Monday and is billed as a pre-show teaser from RISCOSbits]]>
+      </description>
+      <source:markdown>The October 2025 Rougol meeting is on Monday and is billed as a pre-show teaser from RISCOSbits</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2237.html</guid>
+    </item>    <item>
       <title>b.log 2025/10/16 - Getting there...</title>
       <link>https://heyrick.eu/blog/entry/20251016</link>
       <description>
@@ -2002,32 +2018,6 @@ Although at least one [client re-creation](https://github.com/erfg12/AOL_4.0_Emu
       </description>
       <source:markdown>Some things we noticed this month. What did you see?</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2233.html</guid>
-    </item>    <item>
-      <title>b.log 2025/09/25 - The parcel that was.</title>
-      <link>https://heyrick.eu/blog/entry/20250925</link>
-      <description>
-        <![CDATA[The parcel that was.]]>
-      </description>
-      <source:markdown>The parcel that was.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20250925</guid>
-    </item>    <item>
-      <title>Kali Linux 2025.3 Released with New Hacking Tools</title>
-      <link>http://www.linux-magazine.com/Online/News/Kali-Linux-2025.3-Released-with-New-Hacking-Tools</link>
-      <description>
-        <![CDATA[<p>If you're a Kali Linux fan, you'll be glad to know that the third release of this famous pen-testing distribution is now available with updates for key components.</p>]]>
-      </description>
-      <source:markdown>If you&#39;re a Kali Linux fan, you&#39;ll be glad to know that the third release of this famous pen-testing distribution is now available with updates for key components.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://ee8ffdb57df6408ab9f7f652d10d03eb</guid>
-    </item>    <item>
-      <title>Lightweight Authentication Schema</title>
-      <link>https://www.c64os.com/post/lightweightauthentication</link>
-      <description>
-        <![CDATA[<img src='https://s3.amazonaws.com/com.c64os.resources/weblog/lightweightauthentication/icon-lightweightauthentication.jpg'> This post is basically a white paper, but it's in a non-formal blog post style. I've been working on a new Application for C64 OS that makes use of networking. I've got a long list of Apps and Utilities that I'd love to have on the platform, but I have to prioritize the one I think will be most useful to have first. For now, until I get further along and decide to share some details, I'm keeping the App a secret. But suffice it to say that, as with many online services, you need to authenticate yourself somehow and preferably share some account profile details, like your name and maybe your country, and perhaps your email address. Authentication by a C64 OS Application or Utility to a network service is a tricky problem. It isn't just one problem but a collection of several different problems that all need to be solved in an elegant way. And it is that elegant solution that I've been daydreaming about. I think I have a pretty nice schema and I've been testing it with real code to make . . .]]>
-      </description>
-      <source:markdown>![](https://s3.amazonaws.com/com.c64os.resources/weblog/lightweightauthentication/icon-lightweightauthentication.jpg) This post is basically a white paper, but it&#39;s in a non-formal blog post style. I&#39;ve been working on a new Application for C64 OS that makes use of networking. I&#39;ve got a long list of Apps and Utilities that I&#39;d love to have on the platform, but I have to prioritize the one I think will be most useful to have first. For now, until I get further along and decide to share some details, I&#39;m keeping the App a secret. But suffice it to say that, as with many online services, you need to authenticate yourself somehow and preferably share some account profile details, like your name and maybe your country, and perhaps your email address. Authentication by a C64 OS Application or Utility to a network service is a tricky problem. It isn&#39;t just one problem but a collection of several different problems that all need to be solved in an elegant way. And it is that elegant solution that I&#39;ve been daydreaming about. I think I have a pretty nice schema and I&#39;ve been testing it with real code to make . . .</source:markdown>
-      <author>gregorynacu@me.com (Gregory Nacu)</author>
-      <guid>cid://https://www.c64os.com/post?p=132</guid>
     </item>
   </channel>
 </rss>
