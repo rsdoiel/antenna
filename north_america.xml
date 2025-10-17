@@ -4,10 +4,18 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>17 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>17 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>American farmers were already struggling. The shutdown made it worse</title>
+      <link>https://www.npr.org/2025/10/17/nx-s1-5575123/american-farmers-were-already-struggling-the-shutdown-made-it-worse</link>
+      <description>
+        <![CDATA[NPR's Mary Louise Kelly speaks with fourth generation farmer and advocate Joe Maxwell about how the government shutdown is stressing already overwhelmed American farmers.]]>
+      </description>
+      <source:markdown>NPR&#39;s Mary Louise Kelly speaks with fourth generation farmer and advocate Joe Maxwell about how the government shutdown is stressing already overwhelmed American farmers.</source:markdown>
+      <guid>cid://https://www.npr.org/2025/10/17/nx-s1-5575123/american-farmers-were-already-struggling-the-shutdown-made-it-worse</guid>
+    </item>    <item>
       <title>Regional bank jitters</title>
       <link>https://www.marketplace.org/episode/2025/10/17/regional-bank-jitters</link>
       <description>

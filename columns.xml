@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>17 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>17 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,143 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@evan@cosocial.ca/115391459913622676</link>
+      <description>
+        <![CDATA[<p>Evan Prodromou: "How important is WordPress to the future of the Fediverse?“</p>]]>
+      </description>
+      <source:markdown>Evan Prodromou: &#34;How important is WordPress to the future of the Fediverse?“</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/17/1559/</guid>
+    </item>    <item>
+      <title>Friday Squid Blogging: Squid Inks Philippines Fisherman</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-inks-philippines-fisherman.html</link>
+      <description>
+        <![CDATA[<p>Good <a href="https://www.foxweather.com/earth-space/philippines-fisherman-face-full-squid-ink">video</a>.</p>
+        <p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>
+        <p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>]]>
+      </description>
+      <source:markdown>Good [video](https://www.foxweather.com/earth-space/philippines-fisherman-face-full-squid-ink).
+
+As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.
+
+[Blog moderation policy.](https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html)</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=71027</guid>
+    </item>    <item>
+      <title>Quoting Alexander Fridriksson and Jay Miller</title>
+      <link>https://simonwillison.net/2025/Oct/17/uuid-v7/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support"><p>Using UUIDv7 is generally discouraged for security when the primary key is exposed to end users in external-facing applications or APIs. The main issue is that UUIDv7 incorporates a 48-bit Unix timestamp as its most significant part, meaning the identifier itself leaks the record's creation time.</p>
+        <p>This leakage is primarily a privacy concern. Attackers can use the timing data as metadata for de-anonymization or account correlation, potentially revealing activity patterns or growth rates within an organization.</p></blockquote>
+        <p class="cite">&mdash; <a href="https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support">Alexander Fridriksson and Jay Miller</a>, Exploring PostgreSQL 18's new UUIDv7 support</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/uuid">uuid</a>, <a href="https://simonwillison.net/tags/postgresql">postgresql</a>, <a href="https://simonwillison.net/tags/privacy">privacy</a>, <a href="https://simonwillison.net/tags/security">security</a></p>]]>
+      </description>
+      <source:markdown>&#62; Using UUIDv7 is generally discouraged for security when the primary key is exposed to end users in external-facing applications or APIs. The main issue is that UUIDv7 incorporates a 48-bit Unix timestamp as its most significant part, meaning the identifier itself leaks the record&#39;s creation time.
+&#62;
+&#62; This leakage is primarily a privacy concern. Attackers can use the timing data as metadata for de-anonymization or account correlation, potentially revealing activity patterns or growth rates within an organization.
+
+— [Alexander Fridriksson and Jay Miller](https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support), Exploring PostgreSQL 18&#39;s new UUIDv7 support
+
+Tags: [uuid](https://simonwillison.net/tags/uuid), [postgresql](https://simonwillison.net/tags/postgresql), [privacy](https://simonwillison.net/tags/privacy), [security](https://simonwillison.net/tags/security)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/17/uuid-v7/#atom-everything</guid>
+    </item>    <item>
+      <title>The Base M5 MacBook Pro vs. the M4 MacBook Air</title>
+      <link>https://www.apple.com/uk/mac/compare/?modelList=MacBook-Air-M4,MacBook-Pro-14-M5,MacBook-Pro-14-M4-Pro</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42277</guid>
+    </item>    <item>
+      <title>United States Mint to Release Commemorative $1 Steve Jobs Coin</title>
+      <link>https://www.usmint.gov/news/press-releases/united-states-mint-releases-2026-american-innovation-one-dollar-coin-program-designs</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42276</guid>
+    </item>    <item>
+      <link>https://newrepublic.com/article/201957/trump-chicago-secret-police-shot-woman-damning-info</link>
+      <description>
+        <![CDATA[<p>Trump’s Secret Police Shot a Citizen. Then Damning New Info Emerged.</p>]]>
+      </description>
+      <source:markdown>Trump’s Secret Police Shot a Citizen. Then Damning New Info Emerged.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/17/1557/</guid>
+    </item>    <item>
+      <title>Swift Profile Recorder</title>
+      <link>https://mjtsai.com/blog/2025/10/17/swift-profile-recorder/</link>
+      <description>
+        <![CDATA[Johannes Weiss and Mitchell Allison (forum): Swift Profile Recorder, an in-process sampling profiler for Swift services, is now available as an open source project.[&#8230;]Swift Profile Recorder enables you to:Adopt profiling without extra privileges or system dependencies, allowing you to add profiling across a variety of compute environments with constrained permissions.Collect samples using curl, allowing you [&#8230;]]]>
+      </description>
+      <source:markdown>Johannes Weiss and Mitchell Allison (forum): Swift Profile Recorder, an in-process sampling profiler for Swift services, is now available as an open source project.\[…\]Swift Profile Recorder enables you to:Adopt profiling without extra privileges or system dependencies, allowing you to add profiling across a variety of compute environments with constrained permissions.Collect samples using curl, allowing you \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49685</guid>
+    </item>    <item>
+      <title>Swift Proposal: Module Selectors for Name Disambiguation</title>
+      <link>https://mjtsai.com/blog/2025/10/17/swift-proposal-module-selectors-for-name-disambiguation/</link>
+      <description>
+        <![CDATA[SE-0491 (via Becca Royal-Gordon): We propose that Swift&#8217;s grammar be extended so that, wherever an identifier is written in source code to reference a declaration, it can be prefixed by ModuleName:: to disambiguate which module the declaration is expected to come from. This syntax will provide a way to resolve several types of name ambiguities [&#8230;]]]>
+      </description>
+      <source:markdown>SE-0491 (via Becca Royal-Gordon): We propose that Swift’s grammar be extended so that, wherever an identifier is written in source code to reference a declaration, it can be prefixed by ModuleName:: to disambiguate which module the declaration is expected to come from. This syntax will provide a way to resolve several types of name ambiguities \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49683</guid>
+    </item>    <item>
+      <title>End of Support for Windows 10</title>
+      <link>https://mjtsai.com/blog/2025/10/17/end-of-support-for-windows-10/</link>
+      <description>
+        <![CDATA[Fight to Repair: A coalition of businesses, nonprofits, and elected officials (including Fight To Repair&#8217;s parent organization, the Secure Resilient Future Foundation) has formally petitioned Microsoft to extend Windows 10 support, which is currently slated to end on October 14th. With more than a billion Windows 10 devices operating globally, it is estimated that hundreds [&#8230;]]]>
+      </description>
+      <source:markdown>Fight to Repair: A coalition of businesses, nonprofits, and elected officials (including Fight To Repair’s parent organization, the Secure Resilient Future Foundation) has formally petitioned Microsoft to extend Windows 10 support, which is currently slated to end on October 14th. With more than a billion Windows 10 devices operating globally, it is estimated that hundreds \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49681</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m3fvxp6wy22w</link>
+      <description>
+        <![CDATA[As governor, I know @mikiesherrill.bsky.social will deliver for New Jersey. She has the experience and plans to drive down costs – and the integrity, grit, and commitment to service to be the kind of leader we need right now.
+        
+        Make a plan to vote today at mikiesherrill.com.
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>As governor, I know @mikiesherrill.bsky.social will deliver for New Jersey. She has the experience and plans to drive down costs – and the integrity, grit, and commitment to service to be the kind of leader we need right now.
+
+Make a plan to vote today at mikiesherrill.com.
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m3fvxp6wy22w</guid>
+    </item>    <item>
+      <title>Should form labels be wrapped or separate?</title>
+      <link>https://simonwillison.net/2025/Oct/17/form-labels/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://www.tpgi.com/should-form-labels-be-wrapped-or-separate/">Should form labels be wrapped or separate?</a></strong></p>
+        James Edwards notes that wrapping a form input in a label event like this has a significant downside:</p>
+        <pre><code>&lt;label&gt;Name &lt;input type="text"&gt;&lt;/label&gt;
+        </code></pre>
+        <p>It turns out both Dragon Naturally Speaking for Windows and Voice Control for macOS and iOS fail to understand this relationship!</p>
+        <p>You need to use the explicit <code>&lt;label for="element_id"&gt;</code> syntax to ensure those screen readers correctly understand the relationship between label and form field. You can still nest the input inside the label if you like:</p>
+        <pre><code>&lt;label for="idField"&gt;Name
+          &lt;input id="idField" type="text"&gt;
+        &lt;/label&gt;
+        </code></pre>
+        
+            <p><small></small>Via <a href="https://gomakethings.com/implicit-labels-arent/">Chris Ferdinandi</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/accessibility">accessibility</a>, <a href="https://simonwillison.net/tags/html">html</a>, <a href="https://simonwillison.net/tags/screen-readers">screen-readers</a></p>]]>
+      </description>
+      <source:markdown>**[Should form labels be wrapped or separate?](https://www.tpgi.com/should-form-labels-be-wrapped-or-separate/)**
+
+James Edwards notes that wrapping a form input in a label event like this has a significant downside:
+
+```
+&#60;label&#62;Name &#60;input type=&#34;text&#34;&#62;&#60;/label&#62;
+
+```
+
+It turns out both Dragon Naturally Speaking for Windows and Voice Control for macOS and iOS fail to understand this relationship!
+
+You need to use the explicit `&#60;label for=&#34;element_id&#34;&#62;` syntax to ensure those screen readers correctly understand the relationship between label and form field. You can still nest the input inside the label if you like:
+
+```
+&#60;label for=&#34;idField&#34;&#62;Name
+  &#60;input id=&#34;idField&#34; type=&#34;text&#34;&#62;
+&#60;/label&#62;
+
+```
+
+Via [Chris Ferdinandi](https://gomakethings.com/implicit-labels-arent/)
+
+Tags: [accessibility](https://simonwillison.net/tags/accessibility), [html](https://simonwillison.net/tags/html), [screen-readers](https://simonwillison.net/tags/screen-readers)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/17/form-labels/#atom-everything</guid>
     </item>    <item>
       <link>https://bsky.app/profile/barackobama.bsky.social/post/3m3fuamngds25</link>
       <description>
@@ -417,6 +554,10 @@ The post [Print in two-and-a-bit dimensions for build-your-own kits](https://www
       <title>My first adventure of the day is going to the Shunkaen Bonsai...</title>
       <link>https://kottke.org/25/10/0047720-my-first-adventure-of-the</link>
       <guid>cid://tag:kottke.org,2025://13.47720</guid>
+    </item>    <item>
+      <title>The Majority AI View</title>
+      <link>https://anildash.com/2025/10/17/the-majority-ai-view/</link>
+      <guid>cid://https://anildash.com/2025/10/17/the-majority-ai-view/</guid>
     </item>    <item>
       <title>Friday 17 October, 2025</title>
       <link>https://memex.naughtons.org/friday-17-october-2025/41296/</link>
@@ -1326,6 +1467,14 @@ New versions of both Mozilla&#39;s browser and its subsidiary MZLA&#39;s messagi
       </description>
       <source:markdown>New Yorker staff writer Jelani Cobb joins co-hosts Whitney Terrell and V.V. Ganeshananthan to discuss his new essay collection, Three or More is a Riot: Notes on How We Got Here: 2012-2025. Cobb recalls how he began the project by</source:markdown>
       <guid>cid://https://lithub.com/?p=229765</guid>
+    </item>    <item>
+      <title>Same-document view transitions have become Baseline Newly available</title>
+      <link>https://web.dev/blog/same-document-view-transitions-are-now-baseline-newly-available?hl=en</link>
+      <description>
+        <![CDATA[Same-document view transitions (and more view transitions-related features) are Baseline Newly available as of October 14, 2025.]]>
+      </description>
+      <source:markdown>Same-document view transitions (and more view transitions-related features) are Baseline Newly available as of October 14, 2025.</source:markdown>
+      <guid>cid://https://web.dev/blog/same-document-view-transitions-are-now-baseline-newly-available?hl=en</guid>
     </item>    <item>
       <title>chart: which host, which protocol</title>
       <link>https://daniel.haxx.se/blog/2025/10/16/chart-which-host-which-protocol/</link>
