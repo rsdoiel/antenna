@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>17 Oct 25 08:33 -0700</lastBuildDate>
+    <lastBuildDate>17 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,137 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m3fuamngds25</link>
+      <description>
+        <![CDATA[@abigailspanberger.com will work to stand up for Virginia families – because that’s what she’s done her entire career. As governor, she has plans to lower the cost of housing, health care, and utilities, and grow Virginia’s economy.
+        
+        So make a plan to vote today at abigailspanberger.com.
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>@abigailspanberger.com will work to stand up for Virginia families – because that’s what she’s done her entire career. As governor, she has plans to lower the cost of housing, health care, and utilities, and grow Virginia’s economy.
+
+So make a plan to vote today at abigailspanberger.com.
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m3fuamngds25</guid>
+    </item>    <item>
+      <title>Here’s what’s making us happy this week.</title>
+      <link>https://lithub.com/heres-whats-making-us-happy-this-week-oct17/</link>
+      <description>
+        <![CDATA[Spooky season is upon us again. (At least if you’re in the Northeast corridor.) So this week, Lit Hubbers enjoyed autumnal fare. I&#8217;m talking leaf-peeping, and freaky Fridays. We&#8217;ve got reflection and hibernation on the brain. Whether that means hunkering]]>
+      </description>
+      <source:markdown>Spooky season is upon us again. (At least if you’re in the Northeast corridor.) So this week, Lit Hubbers enjoyed autumnal fare. I’m talking leaf-peeping, and freaky Fridays. We’ve got reflection and hibernation on the brain. Whether that means hunkering</source:markdown>
+      <guid>cid://https://lithub.com/?p=261338</guid>
+    </item>    <item>
+      <title>Software can be finished - Ross Wintle</title>
+      <link>https://rosswintle.uk/2025/10/software-can-be-finished/</link>
+      <description>
+        <![CDATA[<p>There&#8217;s quite a crossover between <a href="https://resilientwebdesign.com/">resilence</a> and longevity:</p>
+        
+        <blockquote>
+          <ol>
+          <li>Understand the requirements</li>
+          <li>Keep scope small and fixed</li>
+          <li>Reduce dependencies</li>
+          <li>Produce static output</li>
+          <li>Increase Quality Assurance</li>
+          </ol>
+        </blockquote>
+        
+        <p><a href="https://adactio.com/links/22197">adactio.com/links/22197</a></p>]]>
+      </description>
+      <source:markdown>There’s quite a crossover between [resilence](https://resilientwebdesign.com/) and longevity:
+
+&#62; 1. Understand the requirements
+&#62; 2. Keep scope small and fixed
+&#62; 3. Reduce dependencies
+&#62; 4. Produce static output
+&#62; 5. Increase Quality Assurance
+
+[adactio.com/links/22197](https://adactio.com/links/22197)</source:markdown>
+      <guid>cid://https://rosswintle.uk/2025/10/software-can-be-finished/</guid>
+    </item>    <item>
+      <title>October 16, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-16-2025-b44</link>
+      <enclosure url="https://api.substack.com/feed/podcast/176433554/812e93b4128bdd482537175abf9122bd.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-16-2025-b44</guid>
+    </item>    <item>
+      <title>How Does the End Begin?</title>
+      <link>https://www.profgalloway.com/how-does-the-end-begin/</link>
+      <description>
+        <![CDATA[<p>The top 10 stocks in the S&#38;P 500 account for 40% of the index’s market cap. Since ChatGPT launched in November 2022, AI-related stocks have registered 75% of S&#38;P 500 returns, 80% of earnings growth, and 90% of capital spending growth. Meanwhile, AI investments accounted for nearly 92% of the U.S. GDP growth this year. [&#8230;]</p>
+        <p>The post <a href="https://www.profgalloway.com/how-does-the-end-begin/">How Does the End Begin?</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>]]>
+      </description>
+      <source:markdown>The top 10 stocks in the S&#38;P 500 account for 40% of the index’s market cap. Since ChatGPT launched in November 2022, AI-related stocks have registered 75% of S&#38;P 500 returns, 80% of earnings growth, and 90% of capital spending growth. Meanwhile, AI investments accounted for nearly 92% of the U.S. GDP growth this year. \[…\]
+
+The post [How Does the End Begin?](https://www.profgalloway.com/how-does-the-end-begin/) appeared first on [No Mercy / No Malice](https://www.profgalloway.com).</source:markdown>
+      <guid>cid://https://www.profgalloway.com/?p=216326</guid>
+    </item>    <item>
+      <title>TOMORROW, October 18th — We Hit The Streets!</title>
+      <link>https://www.michaelmoore.com/p/no-kings-day-oct18</link>
+      <description>
+        <![CDATA[When people rise, kings fall. Visit NoKings.org to find a protest near you.]]>
+      </description>
+      <source:markdown>When people rise, kings fall. Visit NoKings.org to find a protest near you.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!0t5Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce386adc-00fc-431a-81b5-2fa76b6f86c7_1200x630.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.michaelmoore.com/p/no-kings-day-oct18</guid>
+    </item>    <item>
+      <title>Everything you need to know about Axl Rose’s graphic novel.</title>
+      <link>https://lithub.com/everything-you-need-to-know-about-axl-roses-graphic-novel/</link>
+      <description>
+        <![CDATA[What a time to be alive, for starters! Axl Rose, the notorious Guns N&#8217; Roses frontman, is turning his talents to the graphic novel. In a new collaboration with Sumerian Comics, a Tennessee publisher with Simon &#38; Schuster distribution, Mr.]]>
+      </description>
+      <source:markdown>What a time to be alive, for starters! Axl Rose, the notorious Guns N’ Roses frontman, is turning his talents to the graphic novel. In a new collaboration with Sumerian Comics, a Tennessee publisher with Simon &#38; Schuster distribution, Mr.</source:markdown>
+      <guid>cid://https://lithub.com/?p=261178</guid>
+    </item>    <item>
+      <title>La grazia (MONFIC 2025): moralistas, ¡favor de abstenerse!</title>
+      <link>https://www.palomitademaiz.net/resenas-la-grazia-monfic-2025/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-la-grazia-monfic-2025</link>
+      <description>
+        <![CDATA[<p>Dirección: Paolo Sorrentino. Guion: Paolo Sorrentino. Elenco: Toni Servillo, Anna Ferzetti, Massimo Venturiello, Milvia Marigliano, Linda Messerklinger. País: Italia. Más información de la película: https://www.imdb.com/title/tt34886821/ “Si no firmo, soy un torturador. Si firmo, soy un asesino.” Presidente Mariano De Santis sobre la Ley de eutanasia (La grazia, 2025). En el derecho penal, se conoce como [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-la-grazia-monfic-2025/">La grazia (MONFIC 2025): moralistas, ¡favor de abstenerse!</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Dirección: Paolo Sorrentino. Guion: Paolo Sorrentino. Elenco: Toni Servillo, Anna Ferzetti, Massimo Venturiello, Milvia Marigliano, Linda Messerklinger. País: Italia. Más información de la película: https://www.imdb.com/title/tt34886821/ “Si no firmo, soy un torturador. Si firmo, soy un asesino.” Presidente Mariano De Santis sobre la Ley de eutanasia (La grazia, 2025). En el derecho penal, se conoce como \[…\]
+
+La entrada [La grazia (MONFIC 2025): moralistas, ¡favor de abstenerse!](https://www.palomitademaiz.net/resenas-la-grazia-monfic-2025/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=25655</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/17.html#a155050</link>
+      <description>
+        <![CDATA[Wouldn't it be great if there were a list of WordPress users who have turned on their ActivityPub plugin, so we know who to subscribe to on our favorite ActivityPub service.]]>
+      </description>
+      <source:markdown>Wouldn&#39;t it be great if there were a list of WordPress users who have turned on their ActivityPub plugin, so we know who to subscribe to on our favorite ActivityPub service.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/17.html#a155050</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/17.html#a154806</link>
+      <description>
+        <![CDATA[Evan Prodromou <a href="https://mastodon.social/@obenland/115390233060492827">explains</a> all that's happening in the WordPressOSphere in the realm of ActivityPub.]]>
+      </description>
+      <source:markdown>Evan Prodromou [explains](https://mastodon.social/@obenland/115390233060492827) all that&#39;s happening in the WordPressOSphere in the realm of ActivityPub.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/17.html#a154806</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115390249473708356</link>
+      <description>
+        <![CDATA[<p>I didn’t want to get into the nagging for a review business.   But seems necessary on the AppStore.</p>]]>
+      </description>
+      <source:markdown>I didn’t want to get into the nagging for a review business. But seems necessary on the AppStore.</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115390249473708356</guid>
+    </item>    <item>
+      <title>Behind the Blog: Engaging the Public</title>
+      <link>https://www.404media.co/behind-the-blog-engaging-the-public/</link>
+      <description>
+        <![CDATA[This week, we discuss crowdsourced resistance and a big government data dump.]]>
+      </description>
+      <source:markdown>This week, we discuss crowdsourced resistance and a big government data dump.</source:markdown>
+      <guid>cid://68f243d98c5580000138c1fa</guid>
+    </item>    <item>
+      <link>https://www.doomsdayscenario.co/p/why-i-have-hope-for-america</link>
+      <description>
+        <![CDATA[<p>Three Reasons I Still Have Hope for America.</p>]]>
+      </description>
+      <source:markdown>Three Reasons I Still Have Hope for America.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/17/1555/</guid>
     </item>    <item>
       <title>Mike Johnson Accuses No Kings Protesters of Blatantly Exercising First Amendment Rights</title>
       <link>https://www.borowitzreport.com/p/mike-johnson-accuses-no-kings-protesters</link>
@@ -951,6 +1082,10 @@ Jeff GeerlingOctober 16, 2025</source:markdown>
       </description>
       <source:markdown>Videos demoing one of the sites have repeatedly gone viral on TikTok and other platforms recently. 404 Media verified they can locate specific peoples&#39; Tinder profiles using their photo, and found that the viral videos are produced by paid creators.</source:markdown>
       <guid>cid://68f00a0a8c55800001366a73</guid>
+    </item>    <item>
+      <title>Matthew Inman of The Oatmeal: ‘A Cartoonist’s Review of AI Art’</title>
+      <link>https://theoatmeal.com/comics/ai_art</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42272</guid>
     </item>    <item>
       <link>https://glammr.us/@IIIF/115384070708705735</link>
       <description>
@@ -8124,18 +8259,6 @@ PS: One other thing. Remember, as we also noted last year, that any inference ab
       </description>
       <source:markdown>Trump’s Education Department Is Working to Erode the Public School System.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/08/1427/</guid>
-    </item>    <item>
-      <title>A cartoonist’s review of AI art - The Oatmeal</title>
-      <link>https://theoatmeal.com/comics/ai_art</link>
-      <description>
-        <![CDATA[<p>Stick with this. It&#8217;s worth it.</p>
-        
-        <p><a href="https://adactio.com/links/22176">adactio.com/links/22176</a></p>]]>
-      </description>
-      <source:markdown>Stick with this. It’s worth it.
-
-[adactio.com/links/22176](https://adactio.com/links/22176)</source:markdown>
-      <guid>cid://https://theoatmeal.com/comics/ai_art</guid>
     </item>    <item>
       <title>Event-based vision comes to Raspberry Pi 5 with the Prophesee GenX320 Starter Kit</title>
       <link>https://www.raspberrypi.com/news/event-based-vision-comes-to-raspberry-pi-5-with-the-prophesee-genx320-starter-kit/</link>

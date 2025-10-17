@@ -7,10 +7,42 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>17 Oct 25 08:33 -0700</lastBuildDate>
+    <lastBuildDate>17 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>California to launch ‘historic’ reparations office as advocates regroup from 5 Newsom vetoes</title>
+      <link>https://laist.com/news/politics/california-to-launch-historic-reparations-office-as-advocates-regroup-from-5-newsom-vetoes</link>
+      <description>
+        <![CDATA[Gov. Gavin Newsom signed five laws advancing reparations for the descendants of enslaved people in California, but he vetoed five others. One civil rights attorney said it'll take more than one legislative cycle to fix 400 years of harm.]]>
+      </description>
+      <source:markdown>Gov. Gavin Newsom signed five laws advancing reparations for the descendants of enslaved people in California, but he vetoed five others. One civil rights attorney said it&#39;ll take more than one legislative cycle to fix 400 years of harm.</source:markdown>
+      <guid>cid://urn:uuid:00000199-f2ea-d805-a5df-f6ef67bb0000</guid>
+    </item>    <item>
+      <title>LA Mayor Karen Bass lays out her vision for 2028 LA Olympics</title>
+      <link>https://laist.com/news/2028-la-olympics-la-mayor-karen-bass-vision</link>
+      <description>
+        <![CDATA[The mayor signed an executive directive Friday mobilizing city government to ramp up preparation for the Games.]]>
+      </description>
+      <source:markdown>The mayor signed an executive directive Friday mobilizing city government to ramp up preparation for the Games.</source:markdown>
+      <guid>cid://urn:uuid:00000199-f33a-dd6c-a19d-f77fb2520000</guid>
+    </item>    <item>
+      <title>Are our superstitions valid?</title>
+      <link>https://laist.com/news/are-our-superstitions-valid</link>
+      <description>
+        <![CDATA[An expert and listeners weighed in on why so many of us are superstitious.]]>
+      </description>
+      <source:markdown>An expert and listeners weighed in on why so many of us are superstitious.</source:markdown>
+      <guid>cid://urn:uuid:00000199-ee89-dc80-a5fb-efd956da0000</guid>
+    </item>    <item>
+      <title>A classified network of SpaceX satellites is emitting a mysterious signal</title>
+      <link>https://laist.com/news/classified-network-spacex-satellites-emitting-mysterious-signal</link>
+      <description>
+        <![CDATA[An amateur satellite tracker stumbled across the signal, which is coming from Starshield satellites in a "hidden" part of the radio spectrum.]]>
+      </description>
+      <source:markdown>An amateur satellite tracker stumbled across the signal, which is coming from Starshield satellites in a &#34;hidden&#34; part of the radio spectrum.</source:markdown>
+      <guid>cid://urn:uuid:00000199-f2d4-da9c-a9d9-f6d4b9110000</guid>
+    </item>    <item>
       <title>How Do I Prepare My Phone for a Protest?</title>
       <link>https://laist.com/news/how-do-i-prepare-my-phone-for-a-protest</link>
       <description>
@@ -18,6 +50,14 @@
       </description>
       <source:markdown>Simple steps to take before hitting the streets.</source:markdown>
       <guid>cid://urn:uuid:00000199-eec9-dc80-a5fb-efd9afe20000</guid>
+    </item>    <item>
+      <title>LA&#39;s newest food hall will transport you to an international night market</title>
+      <link>https://laist.com/news/los-angeles-activities/maydan-market-new-la-food-hall-in-west-adams</link>
+      <description>
+        <![CDATA[Restaurants share resources in the food hall in West Adams as Los Angeles reckons with increasing restaurant closures.]]>
+      </description>
+      <source:markdown>Restaurants share resources in the food hall in West Adams as Los Angeles reckons with increasing restaurant closures.</source:markdown>
+      <guid>cid://urn:uuid:00000199-c50c-dc80-a5fb-ed5cb2f00000</guid>
     </item>    <item>
       <title>No Kings protests will take place across SoCal on Saturday. Here&#39;s what you need to know</title>
       <link>https://laist.com/news/politics/no-kings-protests-will-take-place-across-socal-on-saturday-heres-what-you-need-to-know</link>
@@ -66,14 +106,6 @@
       </description>
       <source:markdown>California Republicans say the Democratic redistricting measure unfairly targets GOP districts.</source:markdown>
       <guid>cid://urn:uuid:00000199-ea29-dc1c-a3bd-eaedb5250000</guid>
-    </item>    <item>
-      <title>LA&#39;s newest food hall will transport you to an international night market</title>
-      <link>https://laist.com/news/los-angeles-activities/maydan-market-new-la-food-hall-in-west-adams</link>
-      <description>
-        <![CDATA[Restaurants share resources in the food hall in West Adams as Los Angeles reckons with increasing restaurant closures.]]>
-      </description>
-      <source:markdown>Restaurants share resources in the food hall in West Adams as Los Angeles reckons with increasing restaurant closures.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c50c-dc80-a5fb-ed5cb2f00000</guid>
     </item>    <item>
       <title>CalOptima&#39;s audit into work of ex-Orange County Supervisor Andrew Do could soon be made public</title>
       <link>https://laist.com/news/politics/caloptima-audit-andrew-do-orange-county</link>

@@ -4,10 +4,26 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>17 Oct 25 08:33 -0700</lastBuildDate>
+    <lastBuildDate>17 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Strange Water Made Me a Coconut Water Person</title>
+      <link>https://www.bonappetit.com/story/strange-water-coconut-water-review</link>
+      <description>
+        <![CDATA[It's effervescent, refreshing, and tastes like coconut in its purest, cleanest, nuttiest form.]]>
+      </description>
+      <source:markdown>It&#39;s effervescent, refreshing, and tastes like coconut in its purest, cleanest, nuttiest form.</source:markdown>
+      <guid>cid://68ed1403de2a7b137cc7a763</guid>
+    </item>    <item>
+      <title>BaristaOne Touch Debuts At HOST, Powered By Latte Art Factory</title>
+      <link>https://sprudge.com/baristaone-touch-debuts-at-host-powered-by-latte-art-factory-453049.html</link>
+      <description>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Find BaristaOne Touch and Latte Art Factory together at Pavilion 16, Stand G47 H48.]]>
+      </description>
+      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. Find BaristaOne Touch and Latte Art Factory together at Pavilion 16, Stand G47 H48.**</source:markdown>
+      <guid>cid://https://sprudge.com/?p=453049</guid>
+    </item>    <item>
       <title>What’s A Macchiato On The Coffee Sprudgecast</title>
       <link>https://sprudge.com/whats-a-macchiato-on-the-coffee-sprudgecast-455388.html</link>
       <description>
