@@ -4,10 +4,28 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>17 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>17 Oct 25 12:17 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Amazon spills plan to nuke Washington...with X-Energy mini-reactors</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/17/amazon_nuke_washington/</link>
+      <description>
+        <![CDATA[<h4>Now they just need to get regulatory approval</h4> <p>Despite technological and regulatory hurdles, Amazon remains convinced that small modular reactors (SMRs) are the answer to the cloud titan&#39;s power woes.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Now they just need to get regulatory approval
+
+Despite technological and regulatory hurdles, Amazon remains convinced that small modular reactors (SMRs) are the answer to the cloud titan&#39;s power woes.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242545</guid>
+    </item>    <item>
+      <title>This Fisherman Was Digging for Worms in Sweden When He Stumbled Upon a Trove of Medieval Silver</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-fisherman-was-digging-for-worms-in-sweden-when-he-stumbled-upon-a-trove-of-medieval-silver-180987524/</link>
+      <description>
+        <![CDATA[Experts think that someone may have buried the copper cauldron full of coins and jewelry to keep it safe during a tumultuous period in the 12th century]]>
+      </description>
+      <source:markdown>Experts think that someone may have buried the copper cauldron full of coins and jewelry to keep it safe during a tumultuous period in the 12th century</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/pD24AtHyJxc9RJHAyCUASPrQCn8=/420x240/filters:focal(3008x2034:3009x2035)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/82/44/82446c27-09c7-4a4b-aff0-64d66faac4da/1_silverskatten_foto_lansstyrelsen_stockholm.jpeg" length="" type="" />
+    </item>    <item>
       <title>Top 10: Das beste USB-C-Ladegerät ab 65 W – Testsieger mit 100 W für 23 Euro</title>
       <link>https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-usb-c-ladegeraet-ab-65-w-testsieger-mit-100-w-fuer-23-euro/7cpzjbb?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
@@ -6753,6 +6771,15 @@ The UK government is stepping in with financial support for Jaguar Land Rover, p
         <![CDATA[<h4>We’re blind to malicious AI until it hits. We can still open our eyes to stopping it</h4> <p><strong>Opinion</strong>  Last year, <em>The Register</em> reported on AI sleeper agents. A major academic study explored how to train an LLM to hide destructive behavior from its users, and how to find it before it triggered. The answers were unambiguously asymmetric — the first is easy, the second very difficult. Not what anyone wanted to hear.…</p>]]>
       </description>
       <guid>cid://tag:theregister.com,2005:story242134</guid>
+    </item>    <item>
+      <title>🌱 Public AI is here</title>
+      <link>https://publicai.substack.com/p/public-ai-is-here</link>
+      <description>
+        <![CDATA[Introducing Apertus & the Public AI Inference Utility]]>
+      </description>
+      <source:markdown>Introducing Apertus &#38; the Public AI Inference Utility</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!5tE2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b63b338-35e9-4d28-a331-776967ccfa64_960x1280.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://publicai.substack.com/p/public-ai-is-here</guid>
     </item>    <item>
       <title>Why Do Some Hurricane Survivors Thrive After Disaster?</title>
       <link>https://www.npr.org/2025/09/29/nx-s1-5535581/new-orleans-survivors-mental-health-ptsd-hurricane-katrina-resiliency</link>

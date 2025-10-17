@@ -16,6 +16,7 @@ title: Science and Technology
 # Open Source Projects
 
 - [Servo blog](https://servo.org/blog/feed.xml)
+- [Public AI blog](https://publicai.substack.com/feed)
 
 # Hardware companies
 
