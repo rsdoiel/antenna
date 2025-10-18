@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>17 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>18 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Discover Merlin and other projects at RISC OS London Show next saturday</title>
+      <link>http://www.iconbar.com/comments/rss/news2241.html</link>
+      <description>
+        <![CDATA[The RISC OS London Show is next Saturday and there will be lots to see]]>
+      </description>
+      <source:markdown>The RISC OS London Show is next Saturday and there will be lots to see</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2241.html</guid>
+    </item>    <item>
       <title>A Looking Glass Half Empty, Part 2: A Series of Unfortunate Events</title>
       <link>https://www.filfre.net/2025/10/a-looking-glass-half-empty-part-2-a-series-of-unfortunate-events/</link>
       <description>
@@ -1994,38 +2002,6 @@ Although at least one [client re-creation](https://github.com/erfg12/AOL_4.0_Emu
       </description>
       <source:markdown>Today is Saturday, 27th September, 2025, and I’ve scheduled this post to appear at 11:00am – which means at the time this article appears it will be precisely four weeks to the minute until the doors are open to the public on the 2025 RISC OS London Show, which takes place on Saturday, 25th October. The precise details you need, as a discerning RISC OS user and show visitor, are: Harrow District Masonic Centre,Northwick Circle,Kenton,Harrow,HA3 0EL. The venue has ample (and free) parking for visitors making the trip by car,…</source:markdown>
       <guid>cid://https://www.riscository.com/?p=10718</guid>
-    </item>    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2025/09/this-week-on-the-analog-antiquarian/</link>
-      <description>
-        <![CDATA[Chapter 4: The Man Who Saw Infinity]]>
-      </description>
-      <source:markdown>Chapter 4: The Man Who Saw Infinity</source:markdown>
-      <guid>cid://https://www.filfre.net/?p=6510</guid>
-    </item>    <item>
-      <title>Latest news from R-Comp: WROCC meeting, 1st October</title>
-      <link>https://www.riscository.com/2025/latest-news-r-comp-wrocc-1st-october/</link>
-      <description>
-        <![CDATA[The Wakefield RISC OS Computer Club (WROCC) will be holding their next meeting on Wednesday, 1st October, with Andrew Rawnsley taking centre stage to bring the group up to date with all things R-Comp. Andrew will bring the group up to date with all the latest developments at R-Comp and RCI, and with the London Show (at the time of the meeting) just three and a half weeks away, there&#8217;s a chance he may be able to share some details or sneak peaks of new releases for the event. He&#8230;]]>
-      </description>
-      <source:markdown>The Wakefield RISC OS Computer Club (WROCC) will be holding their next meeting on Wednesday, 1st October, with Andrew Rawnsley taking centre stage to bring the group up to date with all things R-Comp. Andrew will bring the group up to date with all the latest developments at R-Comp and RCI, and with the London Show (at the time of the meeting) just three and a half weeks away, there’s a chance he may be able to share some details or sneak peaks of new releases for the event. He…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10725</guid>
-    </item>    <item>
-      <title>The Rockwell KIM-1, myth or?</title>
-      <link>http://retro.hansotten.nl/the-rockwell-kim-1-myth-or/</link>
-      <description>
-        <![CDATA[Was there a Rockwell KIM-1? A myth or? Yes and no. There is a KIM-1 packaged and sold by Rockwell in 1977. I bought one in 1977. No, it is a MOS Technology produced KIM-1 PCB. Yes, Rockwell added documents with Rockwell title pages and contents 99% written by MOS Technology. The Rockwell KIM-1 is [&#8230;]]]>
-      </description>
-      <source:markdown>Was there a Rockwell KIM-1? A myth or? Yes and no. There is a KIM-1 packaged and sold by Rockwell in 1977. I bought one in 1977. No, it is a MOS Technology produced KIM-1 PCB. Yes, Rockwell added documents with Rockwell title pages and contents 99% written by MOS Technology. The Rockwell KIM-1 is \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=18893</guid>
-    </item>    <item>
-      <title>September 2025 News Summary</title>
-      <link>http://www.iconbar.com/comments/rss/news2233.html</link>
-      <description>
-        <![CDATA[Some things we noticed this month. What did you see?]]>
-      </description>
-      <source:markdown>Some things we noticed this month. What did you see?</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2233.html</guid>
     </item>
   </channel>
 </rss>
