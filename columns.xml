@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>18 Oct 25 11:11 -0700</lastBuildDate>
+    <lastBuildDate>18 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,89 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/18.html#a215709</link>
+      <description>
+        <![CDATA[<div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/10/18/saranacLakeNy.png"></center><a href="https://en.wikipedia.org/wiki/Saranac_Lake,_New_York">Saranac Lake</a>, NY.</div>]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2025/10/18/saranacLakeNy.png)[Saranac Lake](https://en.wikipedia.org/wiki/Saranac_Lake,_New_York), NY.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/18.html#a215709</guid>
+    </item>    <item>
+      <title>October 17, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-17-2025</link>
+      <enclosure url="https://api.substack.com/feed/podcast/176520238/b461a7c5b73b50e8f3bc9afb2ced3910.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-17-2025</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/18.html#a211921</link>
+      <description>
+        <![CDATA[Just got back to the Catskills from my trip to Ottawa. Took the slow scenic route through the <a href="https://en.wikipedia.org/wiki/Adirondack_Mountains">Adirondacks</a>. Had an unqualified great trip. Should've gone to a <a href="https://www.google.com/search?q=WordCamp">WordCamp</a> a long time ago. It's totally my type of people. Probably should've done this when FeedLand was ready to use, and I barely mentioned it on Thurs. Maybe next I should go back and show how FeedLand makes WordLand possible. I have a long list of things to organize, but for now it's time to catch up on sleep and rest and baseball, and make plans for the future.]]>
+      </description>
+      <source:markdown>Just got back to the Catskills from my trip to Ottawa. Took the slow scenic route through the [Adirondacks](https://en.wikipedia.org/wiki/Adirondack_Mountains). Had an unqualified great trip. Should&#39;ve gone to a [WordCamp](https://www.google.com/search?q=WordCamp) a long time ago. It&#39;s totally my type of people. Probably should&#39;ve done this when FeedLand was ready to use, and I barely mentioned it on Thurs. Maybe next I should go back and show how FeedLand makes WordLand possible. I have a long list of things to organize, but for now it&#39;s time to catch up on sleep and rest and baseball, and make plans for the future.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/18.html#a211921</guid>
+    </item>    <item>
+      <title>Office Hours: Should Dems fight fire with fire?</title>
+      <link>https://robertreich.substack.com/p/office-hours-should-dems-fight-fire</link>
+      <description>
+        <![CDATA[If so, where does it end?]]>
+      </description>
+      <source:markdown>If so, where does it end?</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!t438!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff38f4256-1459-46a0-b1d3-aa85fdc7d483_3500x2781.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/office-hours-should-dems-fight-fire</guid>
+    </item>    <item>
+      <title>TIL: Exploring OpenAI&#39;s deep research API model o4-mini-deep-research</title>
+      <link>https://simonwillison.net/2025/Oct/18/o4-mini-deep-research/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://til.simonwillison.net/llms/o4-mini-deep-research">TIL: Exploring OpenAI&#x27;s deep research API model o4-mini-deep-research</a></strong></p>
+        I landed <a href="https://github.com/simonw/llm-prices/pull/9">a PR</a> by Manuel Solorzano adding pricing information to <a href="https://www.llm-prices.com/">llm-prices.com</a> for OpenAI's <a href="https://platform.openai.com/docs/models/o4-mini-deep-research">o4-mini-deep-research</a> and <a href="https://platform.openai.com/docs/models/o3-deep-research">o3-deep-research</a> models, which they released <a href="https://cookbook.openai.com/examples/deep_research_api/introduction_to_deep_research_api">in June</a> and <a href="https://platform.openai.com/docs/guides/deep-research">document here</a>.</p>
+        <p>I realized I'd never tried these before, so I put <code>o4-mini-deep-research</code> through its paces researching locations of surviving <a href="https://en.wikipedia.org/wiki/Orchestrion">orchestrions</a> for me (I <a href="https://www.niche-museums.com/115">really like orchestrions</a>).</p>
+        <p>The API cost me $1.10 and triggered a small flurry of extra vibe-coded tools, including this <a href="https://tools.simonwillison.net/deep-research-viewer#gist=3454a4ce40f8547a5c65c911de611ff4">new tool</a> for visualizing Responses API traces from deep research models and <a href="https://gistpreview.github.io/?b9f5416b37c4ceec46d8447b52be0ad2">this mocked up page</a> listing the 19 orchestrions it found (only one of which I have fact-checked myself).</p>
+        <p><img alt="A web page showing information about historic orchestrions. The header reads &quot;Historic Orchestrions Around the World&quot; with subtitle &quot;A collection of rare and remarkable mechanical orchestras&quot; and three pills showing &quot;19 Orchestrions&quot;, &quot;7 Locations&quot;, and &quot;7 Countries&quot;. Below is a white card titled &quot;The Musical Museum (Brentford)&quot; with a location pin icon showing &quot;London (Brentford), UK&quot; and a blue &quot;View on Google Maps →&quot; button. The card contains three sections: DESCRIPTION: &quot;Imhof &amp; Mukle pipe-organ orchestrion (1899) with multiple registers and percussion (drums, tambourine, triangle) (www.soundsurvey.org.uk).&quot; HISTORY: &quot;Built in London c.1899 by Imhof &amp; Mukle; remained in their Oxford Street showroom until company collapse in the 1970s, when it was acquired by the Brentford Musical Museum (www.soundsurvey.org.uk).&quot; NOTES: &quot;The museum advertises that the soprano Adelina Patti used a similar Imhof orchestrion at her home in Wales (www.soundsurvey.org.uk).&quot;" src="https://static.simonwillison.net/static/2025/orchestrions-around-the-world.jpg" />
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/deep-research">deep-research</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a></p>]]>
+      </description>
+      <source:markdown>**[TIL: Exploring OpenAI&#39;s deep research API model o4-mini-deep-research](https://til.simonwillison.net/llms/o4-mini-deep-research)**
+
+I landed [a PR](https://github.com/simonw/llm-prices/pull/9) by Manuel Solorzano adding pricing information to [llm-prices.com](https://www.llm-prices.com/) for OpenAI&#39;s [o4-mini-deep-research](https://platform.openai.com/docs/models/o4-mini-deep-research) and [o3-deep-research](https://platform.openai.com/docs/models/o3-deep-research) models, which they released [in June](https://cookbook.openai.com/examples/deep_research_api/introduction_to_deep_research_api) and [document here](https://platform.openai.com/docs/guides/deep-research).
+
+I realized I&#39;d never tried these before, so I put `o4-mini-deep-research` through its paces researching locations of surviving [orchestrions](https://en.wikipedia.org/wiki/Orchestrion) for me (I [really like orchestrions](https://www.niche-museums.com/115)).
+
+The API cost me $1.10 and triggered a small flurry of extra vibe-coded tools, including this [new tool](https://tools.simonwillison.net/deep-research-viewer#gist=3454a4ce40f8547a5c65c911de611ff4) for visualizing Responses API traces from deep research models and [this mocked up page](https://gistpreview.github.io/?b9f5416b37c4ceec46d8447b52be0ad2) listing the 19 orchestrions it found (only one of which I have fact-checked myself).
+
+![A web page showing information about historic orchestrions. The header reads &#34;Historic Orchestrions Around the World&#34; with subtitle &#34;A collection of rare and remarkable mechanical orchestras&#34; and three pills showing &#34;19 Orchestrions&#34;, &#34;7 Locations&#34;, and &#34;7 Countries&#34;. Below is a white card titled &#34;The Musical Museum (Brentford)&#34; with a location pin icon showing &#34;London (Brentford), UK&#34; and a blue &#34;View on Google Maps →&#34; button. The card contains three sections: DESCRIPTION: &#34;Imhof &#38; Mukle pipe-organ orchestrion (1899) with multiple registers and percussion (drums, tambourine, triangle) (www.soundsurvey.org.uk).&#34; HISTORY: &#34;Built in London c.1899 by Imhof &#38; Mukle; remained in their Oxford Street showroom until company collapse in the 1970s, when it was acquired by the Brentford Musical Museum (www.soundsurvey.org.uk).&#34; NOTES: &#34;The museum advertises that the soprano Adelina Patti used a similar Imhof orchestrion at her home in Wales (www.soundsurvey.org.uk).&#34;](https://static.simonwillison.net/static/2025/orchestrions-around-the-world.jpg)
+
+Tags: [ai](https://simonwillison.net/tags/ai), [openai](https://simonwillison.net/tags/openai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [deep-research](https://simonwillison.net/tags/deep-research), [vibe-coding](https://simonwillison.net/tags/vibe-coding)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/18/o4-mini-deep-research/#atom-everything</guid>
+    </item>    <item>
+      <title>The Majority AI View - Anil Dash</title>
+      <link>https://www.anildash.com/2025/10/17/the-majority-ai-view/</link>
+      <description>
+        <![CDATA[<blockquote>
+          <p>Technologies like LLMs have utility, but the absurd way they&#8217;ve been over-hyped, the fact they&#8217;re being forced on everyone, and the insistence on ignoring the many valid critiques about them make it very difficult to focus on legitimate uses where they might add value.</p>
+        </blockquote>
+        
+        <p><a href="https://adactio.com/links/22200">adactio.com/links/22200</a></p>]]>
+      </description>
+      <source:markdown>&#62; Technologies like LLMs have utility, but the absurd way they’ve been over-hyped, the fact they’re being forced on everyone, and the insistence on ignoring the many valid critiques about them make it very difficult to focus on legitimate uses where they might add value.
+
+[adactio.com/links/22200](https://adactio.com/links/22200)</source:markdown>
+      <guid>cid://https://www.anildash.com/2025/10/17/the-majority-ai-view/</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m3igc3xc4s2d</link>
+      <description>
+        <![CDATA[Big crowd at the mall in Santa Clarita. About 4 times bigger than last time. It was like an inverted parade where the spectators were movie and the parade was stationary. Very cool 😎]]>
+      </description>
+      <source:markdown>Big crowd at the mall in Santa Clarita. About 4 times bigger than last time. It was like an inverted parade where the spectators were movie and the parade was stationary. Very cool 😎</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m3igc3xc4s2d</guid>
+    </item>    <item>
+      <title>Did You March Against Tyranny Today?</title>
+      <link>https://steady.substack.com/p/did-you-march-against-tyranny-today</link>
+      <description>
+        <![CDATA[Let us know about your experiences]]>
+      </description>
+      <source:markdown>Let us know about your experiences</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!E9Y0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc006c584-09c4-4dd3-8e91-a489baf2e069_6000x4000.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/did-you-march-against-tyranny-today</guid>
     </item>    <item>
       <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m3iawd3uus2g</link>
       <description>
@@ -240,6 +323,7 @@ Tags: [ai](https://simonwillison.net/tags/ai), [ai-ethics](https://simonwillison
         <p>[...] So the agents are pretty good, for example, if you’re doing boilerplate stuff. Boilerplate code that’s just copy-paste stuff, they’re very good at that. They’re very good at stuff that occurs very often on the Internet because there are lots of examples of it in the training sets of these models. There are features of things where the models will do very well.</p>
         <p>I would say nanochat is not an example of those because it’s a fairly unique repository. There’s not that much code in the way that I’ve structured it. It’s not boilerplate code. It’s intellectually intense code almost, and everything has to be very precisely arranged. The models have so many cognitive deficits. One example, they kept misunderstanding the code because they have too much memory from all the typical ways of doing things on the Internet that I just wasn’t adopting.</p>
         </blockquote>
+        <p><strong>Update</strong>: Here's an <a href="https://twitter.com/karpathy/status/1979644538185752935">essay length tweet</a> from Andrej clarifying a whole bunch of the things he talked about on the podcast.
         
             <p><small></small>Via <a href="https://news.ycombinator.com/item?id=45619329">Hacker News</a></small></p>
         
@@ -275,6 +359,10 @@ Dwarkesh asked Andrej about [this tweet](https://twitter.com/karpathy/status/197
 &#62; \[...\] So the agents are pretty good, for example, if you’re doing boilerplate stuff. Boilerplate code that’s just copy-paste stuff, they’re very good at that. They’re very good at stuff that occurs very often on the Internet because there are lots of examples of it in the training sets of these models. There are features of things where the models will do very well.
 &#62;
 &#62; I would say nanochat is not an example of those because it’s a fairly unique repository. There’s not that much code in the way that I’ve structured it. It’s not boilerplate code. It’s intellectually intense code almost, and everything has to be very precisely arranged. The models have so many cognitive deficits. One example, they kept misunderstanding the code because they have too much memory from all the typical ways of doing things on the Internet that I just wasn’t adopting.
+
+**Update**: Here&#39;s an [essay length tweet](https://twitter.com/karpathy/status/1979644538185752935) from Andrej clarifying a whole bunch of the things he talked about on the podcast.
+
+
 
 Via [Hacker News](https://news.ycombinator.com/item?id=45619329)
 

@@ -4,10 +4,18 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>18 Oct 25 11:11 -0700</lastBuildDate>
+    <lastBuildDate>18 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Statement Munster performance downs Leinster at Croker</title>
+      <link>https://www.rte.ie/sport/united-rugby-championship/2025/1018/1539294-statement-munster-performance-downs-leinster-at-croker/</link>
+      <description>
+        <![CDATA[Munster's Clayton McMillan era roared into life at Croke Park as his side recorded a 31-14 bonus-point victory over defending URC champions Leinster.]]>
+      </description>
+      <source:markdown>Munster&#39;s Clayton McMillan era roared into life at Croke Park as his side recorded a 31-14 bonus-point victory over defending URC champions Leinster.</source:markdown>
+      <guid>cid://https://www.rte.ie/sport/united-rugby-championship/2025/1018/1539294-statement-munster-performance-downs-leinster-at-croker/</guid>
+    </item>    <item>
       <title>Group representing rural GPs highlight recruitment issues</title>
       <link>https://www.rte.ie/news/ireland/2025/1018/1539296-rural-gps-recruitment/</link>
       <description>
@@ -23,6 +31,17 @@
       </description>
       <source:markdown>Tipperary senior football manager Philly Ryan has died suddenly aged 56.</source:markdown>
       <guid>cid://https://www.rte.ie/sport/football/2025/1018/1539292-tipperary-football-manager-philly-ryan-dies-aged-56/</guid>
+    </item>    <item>
+      <title>U.S. sending survivors of strike on alleged &#39;drug-carrying submarine&#39; back to South America, Trump says</title>
+      <link>https://www.cbc.ca/news/world/us-boat-strike-caribbean-survivors-ecuador-colombia-9.6944133?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/c7bdacc8-e8b4-4d79-b1e2-3d85534732be,1760818622798/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4148%2C2333%29%3BResize%3D%28620%29' alt='A person waves while walking.' width='620' height='349' title='President Donald Trump waves as he walks to depart on Marine One from the South Lawn of the White House, Friday, Oct. 17, 2025, in Washington. (AP Photo/Alex Brandon)'/><p>The two survivors of an American military strike on a suspected drug-carrying vessel in the Caribbean will be sent to Ecuador and Colombia, their home countries, U.S. President Donald Trump said Saturday.
+         </p>]]>
+      </description>
+      <source:markdown>![A person waves while walking.](https://i.cbc.ca/ais/c7bdacc8-e8b4-4d79-b1e2-3d85534732be,1760818622798/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4148%2C2333%29%3BResize%3D%28620%29)
+
+The two survivors of an American military strike on a suspected drug-carrying vessel in the Caribbean will be sent to Ecuador and Colombia, their home countries, U.S. President Donald Trump said Saturday.</source:markdown>
+      <guid>cid://9.6944133</guid>
     </item>    <item>
       <title>United Rugby Championship: Leinster v Munster updates</title>
       <link>https://www.rte.ie/sport/united-rugby-championship/2025/1018/1539285-united-rugby-championship-leinster-v-munster-updates/</link>
@@ -43,17 +62,27 @@
       <title>Teenager charged with murder of Vadym Davydenko</title>
       <link>https://www.rte.ie/news/ireland/2025/1018/1539286-vadym-davydenko-court/</link>
       <description>
-        <![CDATA[A 17-year-old Somalian teenager has been remanded in custody charged with the murder of 17-year-old Ukrainian teenager Vadym Davydenko at an emergency Tusla residential care unit in north Dublin.]]>
+        <![CDATA[A 17-year-old Somalian teenager has been charged with the murder of 17-year-old Ukrainian teenager Vadkym Davydenko in north Dublin.]]>
       </description>
-      <source:markdown>A 17-year-old Somalian teenager has been remanded in custody charged with the murder of 17-year-old Ukrainian teenager Vadym Davydenko at an emergency Tusla residential care unit in north Dublin.</source:markdown>
+      <source:markdown>A 17-year-old Somalian teenager has been charged with the murder of 17-year-old Ukrainian teenager Vadkym Davydenko in north Dublin.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1018/1539286-vadym-davydenko-court/</guid>
     </item>    <item>
-      <title>Presidential candidates campaign in Dublin and Limerick</title>
+      <title>Israel denies Rafah crossing between Gaza and Egypt is reopening</title>
+      <link>https://www.cbc.ca/news/world/gaza-rafah-crossing-egypt-palestine-israel-9.6944091?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/2f63de62-887c-463f-8c92-e007b0c1a575,1760812887860/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C347%2C8640%2C4860%29%3BResize%3D%28620%29' alt='Media members film a border crossing.' width='620' height='349' title='Cameramen film the Rafah border crossing between Egypt and the Gaza Strip , Sunday, Jan. 19, 2025. (AP Photo/Amr Nabil)'/><p>The Rafah border crossing between Gaza and Egypt will reopen Monday for people returning to Gaza, the Palestinian Embassy in Egypt said Saturday, but the territory's sole gateway to the outside world will remain closed to people trying to leave.</p>]]>
+      </description>
+      <source:markdown>![Media members film a border crossing.](https://i.cbc.ca/ais/2f63de62-887c-463f-8c92-e007b0c1a575,1760812887860/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C347%2C8640%2C4860%29%3BResize%3D%28620%29)
+
+The Rafah border crossing between Gaza and Egypt will reopen Monday for people returning to Gaza, the Palestinian Embassy in Egypt said Saturday, but the territory&#39;s sole gateway to the outside world will remain closed to people trying to leave.</source:markdown>
+      <guid>cid://9.6944091</guid>
+    </item>    <item>
+      <title>Enoch Burke confronts Connolly on campaign trail</title>
       <link>https://www.rte.ie/news/presidential-election/2025/1018/1539279-presidential-election/</link>
       <description>
-        <![CDATA[A week out from polling day, the two presidential candidates have been meeting members of the public in Dublin and Limerick.]]>
+        <![CDATA[Independent presidential candidate Catherine Connolly was confronted by teacher Enoch Burke while she was canvassing in Limerick this afternoon.]]>
       </description>
-      <source:markdown>A week out from polling day, the two presidential candidates have been meeting members of the public in Dublin and Limerick.</source:markdown>
+      <source:markdown>Independent presidential candidate Catherine Connolly was confronted by teacher Enoch Burke while she was canvassing in Limerick this afternoon.</source:markdown>
       <guid>cid://https://www.rte.ie/news/presidential-election/2025/1018/1539279-presidential-election/</guid>
     </item>    <item>
       <title>Minister for Health publishes new endometriosis framework</title>
@@ -64,7 +93,7 @@
       <source:markdown>A new national endometriosis framework, which will set out a defined clinical care pathway for women has been published by the Minister for Health Jennifer Carroll McNeill.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1018/1539280-endometriosis-framework/</guid>
     </item>    <item>
-      <title>&#39;Trump must go&#39;: Thousands of &#39;No Kings&#39; protests held across U.S.</title>
+      <title>&#39;Trump must go&#39;: Large crowds join &#39;No Kings&#39; protests across U.S.</title>
       <link>https://www.cbc.ca/news/world/no-kings-protests-9.6944035?cmp=rss</link>
       <description>
         <![CDATA[<img src='https://i.cbc.ca/ais/11692b2c-7c9a-44af-99b2-4a12e5d3d2b9,1760807672192/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C127%2C6000%2C3375%29%3BResize%3D%28620%29' alt='A person dressed in a Statue of Liberty costume marches in a rally.' width='620' height='349' title='TOPSHOT - A person dressed in a Statue of Liberty costume participates in a &quot;No Kings&quot; national day of protest in New York on October 18, 2025. From New York to San Francisco, millions of Americans are expected to hit the streets to voice their anger over President Donald Trump&apos;s policies at nationwide &quot;No Kings&quot; protests. (Photo by TIMOTHY A.CLARY / AFP) (Photo by TIMOTHY A.CLARY/AFP via Getty Images)          '/><p>Protesting the direction of the U.S. under President Donald Trump, people have begun gathering in the nation's capital and communities across the country for "No Kings" demonstrations — what the president's Republican Party is calling "Hate America" rallies.</p>]]>
@@ -176,7 +205,7 @@ A northern Manitoba First Nation&#39;s five-year banishment order against a comm
 [Read all](https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-xiv-audience-italy-anti-usury-council-sin-jubilee.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-xiv-audience-italy-anti-usury-council-sin-jubilee.html</guid>
     </item>    <item>
-      <title>Status Orange, Yellow rain warnings for southern parts</title>
+      <title>Status Orange under way, with six yellow warnings issued</title>
       <link>https://www.rte.ie/news/ireland/2025/1018/1539244-rain-weather-warning/</link>
       <description>
         <![CDATA[Met Éireann has issued a number of rain alerts for southern counties, warning of the possibility of flooding and difficult travelling conditions.]]>
@@ -220,12 +249,12 @@ A northern Manitoba First Nation&#39;s five-year banishment order against a comm
       <source:markdown>A central issue facing Fine Gael presidential candidate Heather Humphreys on the campaign trail has been how much support she gave the family of hit-and-run victim Shane O&#39;Farrell in their long fight for justice.</source:markdown>
       <guid>cid://https://www.rte.ie/news/primetime/2025/1018/1539237-what-did-heather-humphreys-do-for-shane-ofarrells-family/</guid>
     </item>    <item>
-      <title>Israel says Rafah crossing to remain closed for now</title>
+      <title>Red Cross team receives bodies of Gaza hostages</title>
       <link>https://www.rte.ie/news/middle-east/2025/1018/1539236-israel-gaza-conflict/</link>
       <description>
-        <![CDATA[Israeli Prime Minister Benjamin Netanyahu's office said Gaza's Rafah crossing will remain closed until further notice, shortly after the Palestinian Embassy in Egypt said it would reopen on Monday.]]>
+        <![CDATA[The Israeli military said the Red Cross headed to southern Gaza where it received two hostage bodies handed over as part of a ceasefire deal.]]>
       </description>
-      <source:markdown>Israeli Prime Minister Benjamin Netanyahu&#39;s office said Gaza&#39;s Rafah crossing will remain closed until further notice, shortly after the Palestinian Embassy in Egypt said it would reopen on Monday.</source:markdown>
+      <source:markdown>The Israeli military said the Red Cross headed to southern Gaza where it received two hostage bodies handed over as part of a ceasefire deal.</source:markdown>
       <guid>cid://https://www.rte.ie/news/middle-east/2025/1018/1539236-israel-gaza-conflict/</guid>
     </item>    <item>
       <title>What is now known about Catherine Connolly&#39;s trip to Syria?</title>
@@ -8567,6 +8596,14 @@ Shipments of frozen shrimp from India to the U.S. have ground to a halt after Am
       <source:markdown>Taoiseach Micheál Martin has defended Budget 2026 from Opposition criticism, saying it was &#34;not sustainable&#34; to continue to give one-off measures, like electricity credits.</source:markdown>
       <guid>cid://https://www.rte.ie/news/budget-2026/2025/1007/1537181-budget-2026-donohoe/</guid>
     </item>    <item>
+      <title>More Israeli reservists are refusing military deployment to Gaza</title>
+      <description>
+        <![CDATA[A new poll finds that two-thirds of Israelis say the time has come to end the war in Gaza. It's the highest number since the beginning of the war nearly two years ago. That divide in Israeli society is reflected inside its military. Some reservists say the war must be fought and won, and others are refusing to serve. Nick Schifrin reports. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy]]>
+      </description>
+      <source:markdown>A new poll finds that two-thirds of Israelis say the time has come to end the war in Gaza. It&#39;s the highest number since the beginning of the war nearly two years ago. That divide in Israeli society is reflected inside its military. Some reservists say the war must be fought and won, and others are refusing to serve. Nick Schifrin reports. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy</source:markdown>
+      <enclosure url="https://flex2.acast.com/s/pbs-newshour-world/u/d3i6fh83elv35t.cloudfront.net/static/2025/10/holyland_reservists.mp3" length="12585811" type="audio/mpeg" />
+      <guid>cid://https://www.pbs.org/newshour/show/more-israeli-reservists-are-refusing-military-deployment-to-gaza</guid>
+    </item>    <item>
       <title>Sudan&#39;s civil war has faded from headlines, but monitors say it&#39;s the largest humanitarian crisis in the world</title>
       <link>https://www.cbc.ca/news/world/el-fasher-darfur-war-1.7652683?cmp=rss</link>
       <description>
@@ -9536,14 +9573,6 @@ The increasingly common use of curse words, in public, by U.S. politicians would
       </description>
       <source:markdown>Politics, economics and pop can be a powerful combination.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1005/1536746-dunboyne-budget/</guid>
-    </item>    <item>
-      <title>Former Middle East negotiator analyzes sticking points of Trump&#38;rsquo;s Gaza peace plan</title>
-      <description>
-        <![CDATA[U.S. envoys are going to Cairo to try to nail down a deal between Hamas and Israel to free the remaining Israeli hostages, which Trump hopes would be the first step toward ending their war. While both Hamas and Israel have sounded positive about Trump&rsquo;s plan, they&rsquo;ve also indicated there&rsquo;s still much to be resolved. John Yang speaks with former Middle East negotiator Aaron David Miller for more. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy]]>
-      </description>
-      <source:markdown>U.S. envoys are going to Cairo to try to nail down a deal between Hamas and Israel to free the remaining Israeli hostages, which Trump hopes would be the first step toward ending their war. While both Hamas and Israel have sounded positive about Trump’s plan, they’ve also indicated there’s still much to be resolved. John Yang speaks with former Middle East negotiator Aaron David Miller for more. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy</source:markdown>
-      <enclosure url="https://flex2.acast.com/s/pbs-newshour-world/u/d3i6fh83elv35t.cloudfront.net/static/2025/10/withl.mp3" length="6403640" type="audio/mpeg" />
-      <guid>cid://https://www.pbs.org/newshour/show/former-middle-east-negotiator-analyzes-sticking-points-of-trumps-gaza-peace-plan</guid>
     </item>    <item>
       <title>Farmers facing significant costs after Storm Amy flooding</title>
       <link>https://www.rte.ie/news/2025/1004/1536869-farmers-storm-amy/</link>

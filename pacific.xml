@@ -4,16 +4,33 @@
   <channel>
     <title>Items of interest to the Pacific community and the Pacific RIM</title>
     <link>https://rsdoiel.github.io/antenna/pacific.xml</link>
-    <lastBuildDate>18 Oct 25 11:11 -0700</lastBuildDate>
+    <lastBuildDate>18 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Philippines’ Emma Tiglao is Miss Grand International 2025</title>
-      <link>https://www.rappler.com/entertainment/pageants/emma-tiglao-winner-miss-grand-international-2025/</link>
+      <title>A gay dad&#39;s struggle with postnatal depression - &#39;Men were supposed to be tough and strong&#39;</title>
+      <link>https://www.rnz.co.nz/life/relationships/family/a-gay-dad-s-struggle-with-postnatal-depression-men-were-supposed-to-be-tough-and-strong</link>
       <description>
-        <![CDATA[Congratulations to Pampanga's Emma Mary Tiglao, who seals a back-to-back victory for the country]]>
+        <![CDATA[The most difficult part of parenting can be other parents, says Sean Szeps.]]>
       </description>
-      <source:markdown>Congratulations to Pampanga&#39;s Emma Mary Tiglao, who seals a back-to-back victory for the country</source:markdown>
+      <source:markdown>The most difficult part of parenting can be other parents, says Sean Szeps.</source:markdown>
+      <guid>cid://bda39306038bed7049e515715fccbd9915ab2d31</guid>
+    </item>    <item>
+      <title>Mediawatch: What is broadcasting - and who decides?</title>
+      <link>https://www.rnz.co.nz/news/political/576336/mediawatch-what-is-broadcasting-and-who-decides</link>
+      <description>
+        <![CDATA[The broadcasting watchdog has told online outlet The Platform it can consider complaints about it, just like TV and radio, sparking cries of "Orwellian overreach".]]>
+      </description>
+      <source:markdown>The broadcasting watchdog has told online outlet The Platform it can consider complaints about it, just like TV and radio, sparking cries of &#34;Orwellian overreach&#34;.</source:markdown>
+      <guid>cid://7739fdcc33003477cd9cc22a0dd453c96ca9cc2a</guid>
+    </item>    <item>
+      <title>&#39;Disoriented&#39; trampers in Raglan bush found</title>
+      <link>https://www.rnz.co.nz/news/national/576316/disoriented-trampers-in-raglan-bush-found</link>
+      <description>
+        <![CDATA[A group of trampers in Raglan, west of Hamilton, have been rescued after becoming disorientated in the bush.]]>
+      </description>
+      <source:markdown>A group of trampers in Raglan, west of Hamilton, have been rescued after becoming disorientated in the bush.</source:markdown>
+      <guid>cid://c64c7edac3c80f41853716e974668a2ce3dceff3</guid>
     </item>    <item>
       <title>LIVE UPDATES: Tropical Storm Ramil</title>
       <link>https://www.rappler.com/philippines/weather/tropical-cyclone-ramil-forecast-track-wind-signals-rain-damage-relief-updates-october-2025/</link>
@@ -21,6 +38,13 @@
         <![CDATA[Bookmark this page for PAGASA forecasts on Tropical Storm Ramil (Fengshen), as well as the latest news, photos, and videos from affected areas]]>
       </description>
       <source:markdown>Bookmark this page for PAGASA forecasts on Tropical Storm Ramil (Fengshen), as well as the latest news, photos, and videos from affected areas</source:markdown>
+    </item>    <item>
+      <title>Philippines’ Emma Tiglao is Miss Grand International 2025</title>
+      <link>https://www.rappler.com/entertainment/pageants/emma-tiglao-winner-miss-grand-international-2025/</link>
+      <description>
+        <![CDATA[Congratulations to Pampanga's Emma Mary Tiglao, who seals a back-to-back victory for the country]]>
+      </description>
+      <source:markdown>Congratulations to Pampanga&#39;s Emma Mary Tiglao, who seals a back-to-back victory for the country</source:markdown>
     </item>    <item>
       <title>Tropical Storm Ramil moves over mainland Bicol</title>
       <link>https://www.rappler.com/philippines/weather/tropical-storm-ramil-update-pagasa-forecast-october-18-2025-8pm/</link>
