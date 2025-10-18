@@ -4,10 +4,21 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>18 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>18 Oct 25 15:36 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>USC at Notre Dame — live updates</title>
+      <link>https://dailytrojan.com/2025/10/18/usc-at-notre-dame-live-updates/</link>
+      <description>
+        <![CDATA[<p>Sean Campbell reports live from Notre Dame Stadium.</p>
+        <p>The post <a href="https://dailytrojan.com/2025/10/18/usc-at-notre-dame-live-updates/">USC at Notre Dame — live updates</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
+      </description>
+      <source:markdown>Sean Campbell reports live from Notre Dame Stadium.
+
+The post [USC at Notre Dame — live updates](https://dailytrojan.com/2025/10/18/usc-at-notre-dame-live-updates/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
+      <guid>cid://https://dailytrojan.com/?p=241796</guid>
+    </item>    <item>
       <title>Gameday predictions: UCLA football vs. Maryland</title>
       <link>https://dailybruin.com/2025/10/18/gameday-predictions-ucla-football-vs-maryland/</link>
       <description>
