@@ -8,6 +8,7 @@ title: North America
 - [Market Place, Make me Smart](https://feeds.publicradio.org/public_feeds/make-me-smart)
 - [Market Place Tech Report](https://feeds.publicradio.org/public_feeds/marketplace-tech)
 - [Market Place Morning Report](https://feeds.publicradio.org/public_feeds/marketplace-morning-report)
+- [Zeteo]https://zeteo.com/feed)
 
 
 # Non-profit Journalism
