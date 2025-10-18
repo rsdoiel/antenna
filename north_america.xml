@@ -4,10 +4,18 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>18 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>18 Oct 25 11:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Time Capsule: Green Day, Insomniac</title>
+      <link>https://www.pastemagazine.com/music/green-day/time-capsule-green-day-insomniac</link>
+      <description>
+        <![CDATA[In October 1995, the Bay Area pop-punk legends responded to sudden superstardom with their angriest, bleakest, and most urgent collection of songs.]]>
+      </description>
+      <source:markdown>In October 1995, the Bay Area pop-punk legends responded to sudden superstardom with their angriest, bleakest, and most urgent collection of songs.</source:markdown>
+      <guid>cid://19dfc3fa-7a16-4ea8-ba1c-5e4f21aaba9d-410479</guid>
+    </item>    <item>
       <title>Regional banks are doing alright, actually</title>
       <link>https://www.marketplace.org/episode/2025/10/17/regional-banks-are-doing-alright-actually</link>
       <description>

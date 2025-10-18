@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>18 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>18 Oct 25 11:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,85 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m3iawd3uus2g</link>
+      <description>
+        <![CDATA[Need directions?
+        mobilize.us/s/FAbGCS
+        https://mobilize.us/s/FAbGCS]]>
+      </description>
+      <source:markdown>Need directions?
+mobilize.us/s/FAbGCS
+https://mobilize.us/s/FAbGCS</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m3iawd3uus2g</guid>
+    </item>    <item>
+      <title>ZFP Systems and the RISC OS Community on GitHub at the RISC OS London Show 2025</title>
+      <link>https://paolozaino.wordpress.com/2025/10/18/zfp-systems-and-the-risc-os-community-on-github-at-the-risc-os-london-show-2025/</link>
+      <description>
+        <![CDATA[Next Saturday (25th October 2025) I’ll be at the RISC OS London Show, together with many other developers and enthusiasts who keep our favourite operating system alive and evolving. Let&#8217;s see what to expect! At the ZFP Systems stand, I’ll be showing the latest progress on several projects I’ve been developing — Merlin, Ultima VM, [&#8230;]]]>
+      </description>
+      <source:markdown>Next Saturday (25th October 2025) I’ll be at the RISC OS London Show, together with many other developers and enthusiasts who keep our favourite operating system alive and evolving. Let’s see what to expect! At the ZFP Systems stand, I’ll be showing the latest progress on several projects I’ve been developing — Merlin, Ultima VM, \[…\]</source:markdown>
+      <guid>cid://http://paolozaino.wordpress.com/?p=9683</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m3hzstew7k2l</link>
+      <description>
+        <![CDATA[When the Obama Presidential Center opens next year, it will be a hub for change — a place for people from all over the world to come together, get inspired, and take what they learn back to their own communities. obama.org/presidential-center
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>When the Obama Presidential Center opens next year, it will be a hub for change — a place for people from all over the world to come together, get inspired, and take what they learn back to their own communities. obama.org/presidential-center
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m3hzstew7k2l</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115395640657907472</link>
+      <description>
+        <![CDATA[<p>I thought I was too old to get excited about protocols, but this atproto discussion from Dan Abramov delivers:</p><p><a href="https://overreacted.io/where-its-at/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">overreacted.io/where-its-at/</span><span class="invisible"></span></a></p><p> (a follow up to his open social post)</p>]]>
+      </description>
+      <source:markdown>I thought I was too old to get excited about protocols, but this atproto discussion from Dan Abramov delivers:
+
+[https://overreacted.io/where-its-at/](https://overreacted.io/where-its-at/)
+
+(a follow up to his open social post)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115395640657907472</guid>
+    </item>    <item>
+      <title>Understanding Computer Networks by Analogy: Appendices</title>
+      <link>https://memo.mx/posts/understanding-computer-networks-by-analogy-appendices/</link>
+      <description>
+        <![CDATA[Appendices Appendix A: The Analogy Blueprint This is a quick reference for the core analogies used throughout this book. Use it as a cheat sheet to refresh your memory on the key concepts.
+        Think in rooms, floors, buildings, and streets. You send an envelope from your room, the concierge guides it across floors and buildings, and the city directory helps you find the right address. When you outgrow your building, you rent a private floor in a hotel and keep your hallways private.]]>
+      </description>
+      <source:markdown>Appendices Appendix A: The Analogy Blueprint This is a quick reference for the core analogies used throughout this book. Use it as a cheat sheet to refresh your memory on the key concepts.
+Think in rooms, floors, buildings, and streets. You send an envelope from your room, the concierge guides it across floors and buildings, and the city directory helps you find the right address. When you outgrow your building, you rent a private floor in a hotel and keep your hallways private.</source:markdown>
+      <guid>cid://https://memo.mx/posts/understanding-computer-networks-by-analogy-appendices/</guid>
+    </item>    <item>
+      <title>Understanding Computer Networks by Analogy: Part 2 - The Hotel City (Cloud)</title>
+      <link>https://memo.mx/posts/understanding-computer-networks-by-analogy-part-2/</link>
+      <description>
+        <![CDATA[Part II: The Hotel City (Cloud) Moving to the cloud feels like moving into a serviced hotel. You do not build the walls or run the elevators. You rent space, bring your rules, and let the hotel handle power, plumbing, and staff. In this part, we take our building and city mental model and extend it to hotels, private floors, and the pathways that connect everything.
+        We keep the same first principles: who am I talking to, how do I reach them, and do I have permission.]]>
+      </description>
+      <source:markdown>Part II: The Hotel City (Cloud) Moving to the cloud feels like moving into a serviced hotel. You do not build the walls or run the elevators. You rent space, bring your rules, and let the hotel handle power, plumbing, and staff. In this part, we take our building and city mental model and extend it to hotels, private floors, and the pathways that connect everything.
+We keep the same first principles: who am I talking to, how do I reach them, and do I have permission.</source:markdown>
+      <guid>cid://https://memo.mx/posts/understanding-computer-networks-by-analogy-part-2/</guid>
+    </item>    <item>
+      <title>Understanding Computer Networks by Analogy: Part 3 - Streets, Names, and Guards</title>
+      <link>https://memo.mx/posts/understanding-computer-networks-by-analogy-part-3/</link>
+      <description>
+        <![CDATA[Part 3 · Mastering the Cloud City Chapter 28: Service Doors &amp; Private Hatches Remember back in Chapter 19 when we rented our own private district in the cloud city? That Virtual Private Cloud, or VPC, is our secure, isolated section of the hotel. It has its own rules, its own guards, and its own private hallways. It’s a great setup. But what happens when your employees, working on your private floor, need to visit one of the hotel’s own amenities, like the massive hotel gym or the central archives?]]>
+      </description>
+      <source:markdown>Part 3 · Mastering the Cloud City Chapter 28: Service Doors &#38; Private Hatches Remember back in Chapter 19 when we rented our own private district in the cloud city? That Virtual Private Cloud, or VPC, is our secure, isolated section of the hotel. It has its own rules, its own guards, and its own private hallways. It’s a great setup. But what happens when your employees, working on your private floor, need to visit one of the hotel’s own amenities, like the massive hotel gym or the central archives?</source:markdown>
+      <guid>cid://https://memo.mx/posts/understanding-computer-networks-by-analogy-part-3/</guid>
+    </item>    <item>
+      <title>Understanding Computer Networks by Analogy: Part 4 - Where It Bends and How to Debug</title>
+      <link>https://memo.mx/posts/understanding-computer-networks-by-analogy-part-4/</link>
+      <description>
+        <![CDATA[Part 4 · Where the Analogy Stretches Chapter 34: The Unseen Rules of Wi-Fi Throughout this book, we’ve used the analogy of a hallway’s width to represent bandwidth. It’s a simple, useful picture. A wider hallway lets more people (data) move through it at once. This mental model works beautifully when we’re thinking about physical cables, like the Ethernet cable connecting your computer to the wall.
+        A wired connection is a private, predictable conversation.]]>
+      </description>
+      <source:markdown>Part 4 · Where the Analogy Stretches Chapter 34: The Unseen Rules of Wi-Fi Throughout this book, we’ve used the analogy of a hallway’s width to represent bandwidth. It’s a simple, useful picture. A wider hallway lets more people (data) move through it at once. This mental model works beautifully when we’re thinking about physical cables, like the Ethernet cable connecting your computer to the wall.
+A wired connection is a private, predictable conversation.</source:markdown>
+      <guid>cid://https://memo.mx/posts/understanding-computer-networks-by-analogy-part-4/</guid>
     </item>    <item>
       <title>Scientists Discover Rogue Star-Eating Black Hole Far From Home</title>
       <link>https://www.404media.co/scientists-discover-rogue-star-eating-black-hole-far-from-home/</link>
@@ -504,6 +583,146 @@ So make a plan to vote today at abigailspanberger.com.
 The post [How Does the End Begin?](https://www.profgalloway.com/how-does-the-end-begin/) appeared first on [No Mercy / No Malice](https://www.profgalloway.com).</source:markdown>
       <guid>cid://https://www.profgalloway.com/?p=216326</guid>
     </item>    <item>
+      <title>Multi region cloud training Lab 8/9: Chaos Testing</title>
+      <link>https://memo.mx/posts/multi-region-series-08-chaos/</link>
+      <description>
+        <![CDATA[Problem: Validate resilience under pod kills and regional impairment.
+        Assumptions/Constraints
+        Cost note: Two clusters simulate regions. Install Chaos Mesh or Litmus Chaos, one per cluster. ASCII Diagram
+        [Chaos Mesh] | +--&gt; PodChaos: kill one pod in app=echo | +--&gt; NetworkChaos: add 200ms delay to ns=echo Effects: - Envoy retries + multiple replicas keep SLI green - p99 rises during NetworkChaos window Steps (Chaos Mesh)
+        Install the operator. Create a PodChaos to kill app pods.]]>
+      </description>
+      <source:markdown>Problem: Validate resilience under pod kills and regional impairment.
+Assumptions/Constraints
+Cost note: Two clusters simulate regions. Install Chaos Mesh or Litmus Chaos, one per cluster. ASCII Diagram
+\[Chaos Mesh\] \| +--&#62; PodChaos: kill one pod in app=echo \| +--&#62; NetworkChaos: add 200ms delay to ns=echo Effects: - Envoy retries + multiple replicas keep SLI green - p99 rises during NetworkChaos window Steps (Chaos Mesh)
+Install the operator. Create a PodChaos to kill app pods.</source:markdown>
+      <guid>cid://https://memo.mx/posts/multi-region-series-08-chaos/</guid>
+    </item>    <item>
+      <title>Multi region cloud training Lab 9/9: Load Generation and SLOs</title>
+      <link>https://memo.mx/posts/multi-region-series-09-load/</link>
+      <description>
+        <![CDATA[Problem: Prove throughput and latency targets across clusters.
+        Assumptions/Constraints
+        Cost note: Two clusters represent regions. Run k6 as a Job inside each cluster to test in region and cross region paths. ASCII Diagram
+        [k6 Job in US] ---&gt; http://echo.echo.svc.cluster.local (US svc) [k6 Job in EU] ---&gt; http://echo.echo.svc.cluster.local (EU svc) Measure: - in region p95/p99 - cross region p95/p99 (by hitting remote via gateway if desired) Steps
+        Create a ConfigMap with a k6 script.]]>
+      </description>
+      <source:markdown>Problem: Prove throughput and latency targets across clusters.
+Assumptions/Constraints
+Cost note: Two clusters represent regions. Run k6 as a Job inside each cluster to test in region and cross region paths. ASCII Diagram
+\[k6 Job in US\] ---&#62; http://echo.echo.svc.cluster.local (US svc) \[k6 Job in EU\] ---&#62; http://echo.echo.svc.cluster.local (EU svc) Measure: - in region p95/p99 - cross region p95/p99 (by hitting remote via gateway if desired) Steps
+Create a ConfigMap with a k6 script.</source:markdown>
+      <guid>cid://https://memo.mx/posts/multi-region-series-09-load/</guid>
+    </item>    <item>
+      <title>Multi region cloud training Lab 7/9: CD with Istio Traffic Policy and Argo CD</title>
+      <link>https://memo.mx/posts/multi-region-series-07-cd/</link>
+      <description>
+        <![CDATA[Problem: Roll out new versions safely at high throughput.
+        Assumptions/Constraints
+        Cost note: Two clusters act as regions. Istio sidecars injected. Namespace labeled with istio-injection=enabled. ASCII Diagram
+        VirtualService +-------------------+ Request ---&gt; | 90% -&gt; subset v1 | | 10% -&gt; subset v2 | +-------------------+ | v DestinationRule (subsets + policies) - subsets: v1 (labels version=v1), v2 (version=v2) - connectionPool, outlierDetection Steps
+        Add VirtualService and DestinationRule with connection pools and outlier detection. Let Argo CD sync them per region overlay.]]>
+      </description>
+      <source:markdown>Problem: Roll out new versions safely at high throughput.
+Assumptions/Constraints
+Cost note: Two clusters act as regions. Istio sidecars injected. Namespace labeled with istio-injection=enabled. ASCII Diagram
+VirtualService +-------------------+ Request ---&#62; \| 90% -&#62; subset v1 \| \| 10% -&#62; subset v2 \| +-------------------+ \| v DestinationRule (subsets + policies) - subsets: v1 (labels version=v1), v2 (version=v2) - connectionPool, outlierDetection Steps
+Add VirtualService and DestinationRule with connection pools and outlier detection. Let Argo CD sync them per region overlay.</source:markdown>
+      <guid>cid://https://memo.mx/posts/multi-region-series-07-cd/</guid>
+    </item>    <item>
+      <title>Multi region cloud training Lab 6/9: CI with GitHub Actions and Taskfile</title>
+      <link>https://memo.mx/posts/multi-region-series-06-ci/</link>
+      <description>
+        <![CDATA[Problem: Build, tag, and push images consistently.
+        Assumptions/Constraints
+        Cost note: Using two clusters only. GHCR or ECR credentials set as repo secrets. ASCII Diagram
+        [GitHub Actions CI] | | docker build/push (Taskfile) v [Registry] | | write IMAGE_TAG file and commit v [Git Repo] | v [Argo CD notices change and syncs] Steps
+        Use Taskfile in the workflow for local parity. Push image and update a tag file for GitOps. Example workflow (.]]>
+      </description>
+      <source:markdown>Problem: Build, tag, and push images consistently.
+Assumptions/Constraints
+Cost note: Using two clusters only. GHCR or ECR credentials set as repo secrets. ASCII Diagram
+\[GitHub Actions CI\] \| \| docker build/push (Taskfile) v \[Registry\] \| \| write IMAGE\_TAG file and commit v \[Git Repo\] \| v \[Argo CD notices change and syncs\] Steps
+Use Taskfile in the workflow for local parity. Push image and update a tag file for GitOps. Example workflow (.</source:markdown>
+      <guid>cid://https://memo.mx/posts/multi-region-series-06-ci/</guid>
+    </item>    <item>
+      <title>Multi region cloud training Lab 5/9: Sample App and Overlays</title>
+      <link>https://memo.mx/posts/multi-region-series-05-app/</link>
+      <description>
+        <![CDATA[Problem: Deploy a simple HTTP service with region specific config.
+        Assumptions/Constraints
+        Cost note: Two clusters represent regions. Use Kustomize overlays keyed by region label. ASCII Diagram
+        Kustomize structure deploy/ base/echo/ -&gt; common Deployment, Service overlays/ us/echo/ -&gt; patch: REGION=us eu/echo/ -&gt; patch: REGION=eu Argo CD picks overlay by cluster label and syncs to each cluster. Steps
+        Create a tiny HTTP server. Add base manifests and overlays. Example app (app/main.go)
+        package main import ( &#34;fmt&#34;; &#34;log&#34;; &#34;net/http&#34;; &#34;os&#34; ) func main(){ region := os.]]>
+      </description>
+      <source:markdown>Problem: Deploy a simple HTTP service with region specific config.
+Assumptions/Constraints
+Cost note: Two clusters represent regions. Use Kustomize overlays keyed by region label. ASCII Diagram
+Kustomize structure deploy/ base/echo/ -&#62; common Deployment, Service overlays/ us/echo/ -&#62; patch: REGION=us eu/echo/ -&#62; patch: REGION=eu Argo CD picks overlay by cluster label and syncs to each cluster. Steps
+Create a tiny HTTP server. Add base manifests and overlays. Example app (app/main.go)
+package main import ( &#34;fmt&#34;; &#34;log&#34;; &#34;net/http&#34;; &#34;os&#34; ) func main(){ region := os.</source:markdown>
+      <guid>cid://https://memo.mx/posts/multi-region-series-05-app/</guid>
+    </item>    <item>
+      <title>Multi region cloud training Lab 4/9: AWS Identity (IRSA vs Pod Identity)</title>
+      <link>https://memo.mx/posts/multi-region-series-04-identity/</link>
+      <description>
+        <![CDATA[Problem: Let workloads call AWS without node credentials.
+        Assumptions/Constraints
+        Cost note: Two clusters, not two AWS regions. Choose one path: IRSA or EKS Pod Identity. Do not mix for the same service account. ASCII Diagram
+        IRSA path Pod Identity path +-----------------------------+ +-----------------------------+ | [Pod + SA aws-sa] | | [Pod + SA aws-sa] | | token (OIDC projected) | | request to EKS agent | +--------------|--------------+ +--------------|--------------+ v v [IAM OIDC Provider] [EKS Pod Identity Agent] | | v v [STS AssumeRoleWithWebIdentity] [STS AssumeRole] | | v v [Temp creds] [Temp creds] \________________________________________/ | v [AWS APIs] Notes: IRSA supports Fargate and non EKS clusters with OIDC; Pod Identity is EKS only.]]>
+      </description>
+      <source:markdown>Problem: Let workloads call AWS without node credentials.
+Assumptions/Constraints
+Cost note: Two clusters, not two AWS regions. Choose one path: IRSA or EKS Pod Identity. Do not mix for the same service account. ASCII Diagram
+IRSA path Pod Identity path +-----------------------------+ +-----------------------------+ \| \[Pod + SA aws-sa\] \| \| \[Pod + SA aws-sa\] \| \| token (OIDC projected) \| \| request to EKS agent \| +--------------\|--------------+ +--------------\|--------------+ v v \[IAM OIDC Provider\] \[EKS Pod Identity Agent\] \| \| v v \[STS AssumeRoleWithWebIdentity\] \[STS AssumeRole\] \| \| v v \[Temp creds\] \[Temp creds\] \\\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_/ \| v \[AWS APIs\] Notes: IRSA supports Fargate and non EKS clusters with OIDC; Pod Identity is EKS only.</source:markdown>
+      <guid>cid://https://memo.mx/posts/multi-region-series-04-identity/</guid>
+    </item>    <item>
+      <title>Multi region cloud training Lab 3/9: Istio Multi Region Mesh</title>
+      <link>https://memo.mx/posts/multi-region-series-03-istio/</link>
+      <description>
+        <![CDATA[Problem: Enable east to west traffic and consistent policy across clusters.
+        Assumptions/Constraints
+        Cost note: Two clusters stand in for two regions. Same meshID, same trust domain, distinct network per cluster. ASCII Diagram
+        Cross cluster via gateway + ServiceEntry (no istioctl) +-----------+ mTLS mesh +-----------+ | Cluster US|&lt;=============&gt;| Cluster EU| | istiod | | istiod | | east-west | &lt;---15443---- | east-west | | gateway | | gateway | | echo svc | | echo svc | +-----------+ +-----------+ meshID=training-mesh, trustDomain=corp.]]>
+      </description>
+      <source:markdown>Problem: Enable east to west traffic and consistent policy across clusters.
+Assumptions/Constraints
+Cost note: Two clusters stand in for two regions. Same meshID, same trust domain, distinct network per cluster. ASCII Diagram
+Cross cluster via gateway + ServiceEntry (no istioctl) +-----------+ mTLS mesh +-----------+ \| Cluster US\|&#60;=============&#62;\| Cluster EU\| \| istiod \| \| istiod \| \| east-west \| &#60;---15443---- \| east-west \| \| gateway \| \| gateway \| \| echo svc \| \| echo svc \| +-----------+ +-----------+ meshID=training-mesh, trustDomain=corp.</source:markdown>
+      <guid>cid://https://memo.mx/posts/multi-region-series-03-istio/</guid>
+    </item>    <item>
+      <title>Multi region cloud training Lab 2/9: GitOps with Argo CD</title>
+      <link>https://memo.mx/posts/multi-region-series-02-argocd/</link>
+      <description>
+        <![CDATA[Problem: Deploy one app to many clusters using a single source of truth.
+        Assumptions/Constraints
+        Cost note: We mock regions with two clusters. Argo CD runs in each cluster or as a control cluster. Use ApplicationSet clusters generator. ASCII Diagram
+        [GitHub Repo (manifests)] | v [Argo CD (control)] / \ v v [Cluster US] [Cluster EU] ns echo ns echo apps synced apps synced Steps
+        Label clusters for region selection. Register clusters in Argo CD.]]>
+      </description>
+      <source:markdown>Problem: Deploy one app to many clusters using a single source of truth.
+Assumptions/Constraints
+Cost note: We mock regions with two clusters. Argo CD runs in each cluster or as a control cluster. Use ApplicationSet clusters generator. ASCII Diagram
+\[GitHub Repo (manifests)\] \| v \[Argo CD (control)\] / \ v v \[Cluster US\] \[Cluster EU\] ns echo ns echo apps synced apps synced Steps
+Label clusters for region selection. Register clusters in Argo CD.</source:markdown>
+      <guid>cid://https://memo.mx/posts/multi-region-series-02-argocd/</guid>
+    </item>    <item>
+      <title>Multi region cloud training Lab 1/9: Baseline Repo and Environments</title>
+      <link>https://memo.mx/posts/multi-region-series-01-baseline/</link>
+      <description>
+        <![CDATA[Problem: Standardize local commands and name the moving parts so every step is repeatable.
+        Assumptions/Constraints
+        Cost note: We mock “multi region” by using two Kubernetes clusters, not two AWS regions. App code in app/, manifests in deploy/. Kube contexts: prod-us-east-1, prod-eu-west-1. ASCII Diagram
+        [Dev Laptop] | task, kubectl v [GitHub Repo] [Registry] | | | manifests | images v v (next chapters wire Argo CD and Istio) Contexts: prod-us-east-1, prod-eu-west-1 Steps]]>
+      </description>
+      <source:markdown>Problem: Standardize local commands and name the moving parts so every step is repeatable.
+Assumptions/Constraints
+Cost note: We mock “multi region” by using two Kubernetes clusters, not two AWS regions. App code in app/, manifests in deploy/. Kube contexts: prod-us-east-1, prod-eu-west-1. ASCII Diagram
+\[Dev Laptop\] \| task, kubectl v \[GitHub Repo\] \[Registry\] \| \| \| manifests \| images v v (next chapters wire Argo CD and Istio) Contexts: prod-us-east-1, prod-eu-west-1 Steps</source:markdown>
+      <guid>cid://https://memo.mx/posts/multi-region-series-01-baseline/</guid>
+    </item>    <item>
       <title>TOMORROW, October 18th — We Hit The Streets!</title>
       <link>https://www.michaelmoore.com/p/no-kings-day-oct18</link>
       <description>
@@ -531,6 +750,20 @@ The post [How Does the End Begin?](https://www.profgalloway.com/how-does-the-end
 
 La entrada [La grazia (MONFIC 2025): moralistas, ¡favor de abstenerse!](https://www.palomitademaiz.net/resenas-la-grazia-monfic-2025/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
       <guid>cid://https://www.palomitademaiz.net/?p=25655</guid>
+    </item>    <item>
+      <title>Multi region cloud training</title>
+      <link>https://memo.mx/posts/multi-region-learning/</link>
+      <description>
+        <![CDATA[Train teams on multi region, high throughput, chaos tested GitOps without burning money.
+        Assumptions/Constraints
+        Money note: We mock “multi region” with two Kubernetes clusters, not two AWS regions. You have two kube contexts reachable from your workstation. You control a container registry and a GitHub repo. Optional AWS: use IRSA or EKS Pod Identity in Lab 4. Labs
+        Lab 1: Baseline Repo and Environments Sets shared variables and task wrappers. Confirms contexts and versions.]]>
+      </description>
+      <source:markdown>Train teams on multi region, high throughput, chaos tested GitOps without burning money.
+Assumptions/Constraints
+Money note: We mock “multi region” with two Kubernetes clusters, not two AWS regions. You have two kube contexts reachable from your workstation. You control a container registry and a GitHub repo. Optional AWS: use IRSA or EKS Pod Identity in Lab 4. Labs
+Lab 1: Baseline Repo and Environments Sets shared variables and task wrappers. Confirms contexts and versions.</source:markdown>
+      <guid>cid://https://memo.mx/posts/multi-region-learning/</guid>
     </item>    <item>
       <link>http://scripting.com/2025/10/17.html#a155050</link>
       <description>

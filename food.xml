@@ -4,10 +4,18 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>18 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>18 Oct 25 11:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Fried Apples and Onions</title>
+      <link>https://www.tasteofhome.com/recipes/fried-onions-and-apples/</link>
+      <description>
+        <![CDATA[Fried apples and onions infuse their contrasting flavors into a sweet and savory side for everything from pork to winter squash.]]>
+      </description>
+      <source:markdown>Fried apples and onions infuse their contrasting flavors into a sweet and savory side for everything from pork to winter squash.</source:markdown>
+      <guid>cid://http://origin-www.tasteofhome.com/recipes/fried-onions-and-apples/</guid>
+    </item>    <item>
       <title>This Is The Frosting I’ll Be Using for All My Holiday Baking</title>
       <link>https://www.tasteofhome.com/article/philadelphia-cream-cheese-frosting-2025/</link>
       <description>

@@ -4,10 +4,29 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>18 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>18 Oct 25 11:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Gameday predictions: UCLA football vs. Maryland</title>
+      <link>https://dailybruin.com/2025/10/18/gameday-predictions-ucla-football-vs-maryland/</link>
+      <description>
+        <![CDATA[UCLA football (2-4, 2-1 Big Ten) proved the team was not a one-hit wonder when it followed its upset of then-No. 7 Penn State with a 38-13 battering of Michigan State at Spartan Stadium on Oct.]]>
+      </description>
+      <source:markdown>UCLA football (2-4, 2-1 Big Ten) proved the team was not a one-hit wonder when it followed its upset of then-No. 7 Penn State with a 38-13 battering of Michigan State at Spartan Stadium on Oct.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=495230</guid>
+    </item>    <item>
+      <title>Los Angeles Council considers Artificial Turf ban; will Santa Clarita follow?</title>
+      <link>https://canyonsnews.com/turf-ban/</link>
+      <description>
+        <![CDATA[<p>Artificial turf is very common in California, as we have the most&#8230;</p>
+        <p>The post <a href="https://canyonsnews.com/turf-ban/">Los Angeles Council considers Artificial Turf ban; will Santa Clarita follow?</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>]]>
+      </description>
+      <source:markdown>Artificial turf is very common in California, as we have the most…
+
+The post [Los Angeles Council considers Artificial Turf ban; will Santa Clarita follow?](https://canyonsnews.com/turf-ban/) appeared first on [Canyons News](https://canyonsnews.com).</source:markdown>
+      <guid>cid://https://canyonsnews.com/?p=55659</guid>
+    </item>    <item>
       <title>Scouting report: UCLA men’s water polo vs. USC</title>
       <link>https://dailybruin.com/2025/10/17/scouting-report-ucla-mens-water-polo-vs-usc/</link>
       <description>
@@ -38,11 +57,11 @@ The post [Hundreds walk in Santa Clarita to end Alzheimer’s](https://canyonsne
       <title>Scouting report: UCLA football vs. Maryland</title>
       <link>https://dailybruin.com/2025/10/17/scouting-report-ucla-football-vs-maryland/</link>
       <description>
-        <![CDATA[Anyone floating the idea of the Bruins making the Big Ten championship would not have been taken seriously just two weeks ago.
-        However, back-to-back conference wins have generated some optimism in Westwood about the direction the team is trending.]]>
+        <![CDATA[<em>This post was updated Oct. 18 at 10:03 a.m.</em>
+        Anyone floating the idea of the Bruins making the Big Ten championship would not have been taken seriously just two weeks ago.]]>
       </description>
-      <source:markdown>Anyone floating the idea of the Bruins making the Big Ten championship would not have been taken seriously just two weeks ago.
-However, back-to-back conference wins have generated some optimism in Westwood about the direction the team is trending.</source:markdown>
+      <source:markdown>_This post was updated Oct. 18 at 10:03 a.m._
+Anyone floating the idea of the Bruins making the Big Ten championship would not have been taken seriously just two weeks ago.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=495226</guid>
     </item>    <item>
       <title>Scouting report: UCLA men’s soccer vs. Michigan</title>
