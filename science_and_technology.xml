@@ -4,10 +4,108 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>17 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>18 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Ruby Central tries to make peace after &#39;hostile takeover&#39;</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/18/ruby_central_taps_ruby_core/</link>
+      <description>
+        <![CDATA[<h4>Taps Ruby core to oversee RubyGems, Bundler</h4> <p>Ruby Central, the non-profit that recently seized some Ruby open source tools from maintainers, is transferring the repository ownership of RubyGems and Bundler to the Ruby core team. The move appears to be an attempt to mollify the Ruby community following a divisive power grab, but it does not restore the control of those tools to the maintainers who previously oversaw them.…</p>]]>
+      </description>
+      <source:markdown>#### Taps Ruby core to oversee RubyGems, Bundler
+
+Ruby Central, the non-profit that recently seized some Ruby open source tools from maintainers, is transferring the repository ownership of RubyGems and Bundler to the Ruby core team. The move appears to be an attempt to mollify the Ruby community following a divisive power grab, but it does not restore the control of those tools to the maintainers who previously oversaw them.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242547</guid>
+    </item>    <item>
+      <title>Der neue ICE L: Ein ganz besonderer Zug</title>
+      <link>https://www.heise.de/hintergrund/Der-neue-ICE-L-Ein-ganz-besonderer-Zug-10778290.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Einzelradaufhängung, die Rückkehr zu Loks und ein ebener Einstieg: Der ICE L unterscheidet sich deutlich von seinen Vorgängern – und ist gut für Handy-Nutzer.]]>
+      </description>
+      <source:markdown>Einzelradaufhängung, die Rückkehr zu Loks und ein ebener Einstieg: Der ICE L unterscheidet sich deutlich von seinen Vorgängern – und ist gut für Handy-Nutzer.</source:markdown>
+      <guid>cid://http://heise.de/-10778290</guid>
+    </item>    <item>
+      <title>heise-Angebot: Last Call: c&#39;t-Webinar – Sicher durch den digitalen Zahlungsalltag</title>
+      <link>https://www.heise.de/news/Last-Call-c-t-Webinar-Sicher-durch-den-digitalen-Zahlungsalltag-10751133.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Wo Geld im Spiel ist, tummeln sich Kriminelle. Das gilt auch für die digitale Welt. Das Webinar hilft, Betrugsversuche zu erkennen und Schäden zu vermeiden.]]>
+      </description>
+      <source:markdown>Wo Geld im Spiel ist, tummeln sich Kriminelle. Das gilt auch für die digitale Welt. Das Webinar hilft, Betrugsversuche zu erkennen und Schäden zu vermeiden.</source:markdown>
+      <guid>cid://http://heise.de/-10751133</guid>
+    </item>    <item>
+      <title>USA verlängern Zollvergünstigungen für importierte Autoteile</title>
+      <link>https://www.heise.de/news/USA-verlaengern-Zollverguenstigungen-fuer-importierte-Autoteile-10778348.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Donald Trump wollte Vergünstigungen für US-Autobauer bei Zöllen auf importierte Bauteile ursprünglich 2027 auslaufen lassen. Doch jetzt werden sie verlängert.]]>
+      </description>
+      <source:markdown>Donald Trump wollte Vergünstigungen für US-Autobauer bei Zöllen auf importierte Bauteile ursprünglich 2027 auslaufen lassen. Doch jetzt werden sie verlängert.</source:markdown>
+      <guid>cid://http://heise.de/-10778348</guid>
+    </item>    <item>
+      <title>Lufthansa will 100 Inlandsflüge pro Woche streichen</title>
+      <link>https://www.heise.de/news/Lufthansa-will-100-Inlandsfluege-pro-Woche-streichen-10778334.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Weil sich einige Strecken seit Jahren nicht mehr lohnen, will Lufthansa sie nicht mehr bedienen. Im Sommer 2026 sollen Verbindungen wegfallen.]]>
+      </description>
+      <source:markdown>Weil sich einige Strecken seit Jahren nicht mehr lohnen, will Lufthansa sie nicht mehr bedienen. Im Sommer 2026 sollen Verbindungen wegfallen.</source:markdown>
+      <guid>cid://http://heise.de/-10778334</guid>
+    </item>    <item>
+      <title>Kommentar: KI-Blase platzt – ja bitte!</title>
+      <link>https://www.heise.de/meinung/Kommentar-KI-Blase-Platzen-bitte-10777708.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Obwohl der Crash die Aufbläher der KI-Aktienblase nicht am härtesten treffen wird, muss die Bubble endlich platzen. Ein Kommentar. von Philipp Steevens.]]>
+      </description>
+      <source:markdown>Obwohl der Crash die Aufbläher der KI-Aktienblase nicht am härtesten treffen wird, muss die Bubble endlich platzen. Ein Kommentar. von Philipp Steevens.</source:markdown>
+      <guid>cid://http://heise.de/-10777708</guid>
+    </item>    <item>
+      <title>Zeroday Cloud: Hacker-Wettbewerb winkt mit 4,5 Millionen US-Dollar Preisgeld</title>
+      <link>https://www.heise.de/news/Zeroday-Cloud-Hacker-Wettbewerb-winkt-mit-4-5-Millionen-US-Dollar-Preisgeld-10778248.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ein neuer Wettbewerb mit Cloud-Fokus bietet hohe Preisgelder für Zero-Day-Exploits – und folgt damit einem allgemeinen Trend im Wettlauf gegen Cybergangster.]]>
+      </description>
+      <source:markdown>Ein neuer Wettbewerb mit Cloud-Fokus bietet hohe Preisgelder für Zero-Day-Exploits – und folgt damit einem allgemeinen Trend im Wettlauf gegen Cybergangster.</source:markdown>
+      <guid>cid://http://heise.de/-10778248</guid>
+    </item>    <item>
+      <title>heise-Angebot: iX-Workshop: Souveräne Cloud – Strategien für digitale Unabhängigkeit</title>
+      <link>https://www.heise.de/news/iX-Workshop-Souveraene-Cloud-Strategien-fuer-digitale-Unabhaengigkeit-10733894.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Erarbeiten Sie Ihre individuelle Cloud-Roadmap: interaktiv, praxisnah und strategisch – für mehr Kontrolle, Sicherheit und digitale Souveränität.]]>
+      </description>
+      <source:markdown>Erarbeiten Sie Ihre individuelle Cloud-Roadmap: interaktiv, praxisnah und strategisch – für mehr Kontrolle, Sicherheit und digitale Souveränität.</source:markdown>
+      <guid>cid://http://heise.de/-10733894</guid>
+    </item>    <item>
+      <title>Developer Snapshots: Kleinere News der Woche</title>
+      <link>https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-10767159.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Übersicht enthält kleine, aber interessante Meldungen zu Eclipse Theia, Prometheus, Crystal, Qt Design Studio, PyTorch, ripgrep, Cloud Canvas,]]>
+      </description>
+      <source:markdown>Die Übersicht enthält kleine, aber interessante Meldungen zu Eclipse Theia, Prometheus, Crystal, Qt Design Studio, PyTorch, ripgrep, Cloud Canvas,</source:markdown>
+      <guid>cid://http://heise.de/-10767159</guid>
+    </item>    <item>
+      <title>Rybbit 2.0: Google-Analytics-Alternative mit Kartenansicht</title>
+      <link>https://www.heise.de/news/Rybbit-2-0-Open-Source-Analytics-mit-neuem-Kartenmodul-10778114.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die freie Software zur Webanalyse Rybbit hat Version 2.0 erreicht. Das Update bringt eine überarbeitete Kartenansicht und serverseitige Konfiguration.]]>
+      </description>
+      <source:markdown>Die freie Software zur Webanalyse Rybbit hat Version 2.0 erreicht. Das Update bringt eine überarbeitete Kartenansicht und serverseitige Konfiguration.</source:markdown>
+      <guid>cid://http://heise.de/-10778114</guid>
+    </item>    <item>
+      <title>Sieben fotografische Ansätze die Welt einzufangen: Die Bilder der Woche 42</title>
+      <link>https://www.heise.de/news/Sieben-fotografische-Ansaetze-die-Welt-einzufangen-Die-Bilder-der-Woche-42-10775356.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Unsere Galerie-Fotografen nehmen Sie mit auf eine Sinnesreise – von der intensiven Nähe eines Porträts bis zur unendlichen Weite der Milchstraße.]]>
+      </description>
+      <source:markdown>Unsere Galerie-Fotografen nehmen Sie mit auf eine Sinnesreise – von der intensiven Nähe eines Porträts bis zur unendlichen Weite der Milchstraße.</source:markdown>
+      <guid>cid://http://heise.de/-10775356</guid>
+    </item>    <item>
+      <title>Sicher im Internet: Wie MullvadVPN, ProtonVPN, NordVPN &#38; Co. helfen | c’t uplink</title>
+      <link>https://www.heise.de/news/Sicher-im-Internet-Wie-MullvadVPN-ProtonVPN-NordVPN-Co-helfen-c-t-uplink-10773762.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Kommerzielle VPN-Anbieter versprechen, quasi alles Böse im Internet auszusperren. Wir diskutieren, was davon stimmt und wann ein eigenes VPN sinnvoll ist.]]>
+      </description>
+      <source:markdown>Kommerzielle VPN-Anbieter versprechen, quasi alles Böse im Internet auszusperren. Wir diskutieren, was davon stimmt und wann ein eigenes VPN sinnvoll ist.</source:markdown>
+      <guid>cid://http://heise.de/-10773762</guid>
+    </item>    <item>
       <title>Windows 11, now with even more “AI” where you don’t want it</title>
       <link>https://www.osnews.com/story/143566/windows-11-now-with-even-more-ai-where-you-dont-want-it/</link>
       <description>
@@ -6931,362 +7029,6 @@ Learn more about sponsor message choices: [podcastchoices.com/adchoices](https:/
         <![CDATA[<h4>Chinese giant maps out datacenters across Europe and beyond, yet US chip curbs cast a long shadow</h4> <p><strong>Analysis</strong>  Alibaba this week opened an AI war chest containing tens of billions of dollars, a revamped LLM lineup, and plans for AI datacenters in Europe. But it also prompted a flurry of questions over how it will achieve all this in an increasingly fragmented IT landscape, when critical resources are in short supply.…</p>]]>
       </description>
       <guid>cid://tag:theregister.com,2005:story242132</guid>
-    </item>    <item>
-      <title>Many employees are using AI to create &#39;workslop,&#39; Stanford study says</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/ai_workslop_productivity/</link>
-      <description>
-        <![CDATA[<h4>Remember when AI was supposed to make us more productive, not hate each other?</h4> <p><strong>ai-pocalypse</strong>  Workers are getting lazy about using AI to do their jobs for them, and the results are both costly and increasing distrust in the workplace.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242169</guid>
-    </item>    <item>
-      <title>You Can Buy These Gilded Age Jewels That Once Belonged to the Vanderbilt Family</title>
-      <link>https://www.smithsonianmag.com/smart-news/you-can-buy-these-gilded-age-jewels-that-once-belonged-to-the-vanderbilt-family-180987398/</link>
-      <description>
-        <![CDATA[The collection, which will hit the auction block in November, includes a fragment of the tiara that Gladys Vanderbilt received upon her marriage to a Hungarian count]]>
-      </description>
-      <source:markdown>The collection, which will hit the auction block in November, includes a fragment of the tiara that Gladys Vanderbilt received upon her marriage to a Hungarian count</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/YANyeEN5vwGVL_QKLTwC4s5UuqY=/420x240/filters:focal(2452x2071:2453x2072)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f6/63/f663846a-7fb2-49d0-9f73-16442983e58d/the_vanderbilt_sapphire_tiffany__co_exceptional_sapphire_and_diamond_brooch_early_20th_c.png" length="" type="" />
-    </item>    <item>
-      <title>Cyber threat-sharing law set to shut down, along with US government</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/government_shutdown_cisa_law/</link>
-      <description>
-        <![CDATA[<h4>Act passed in 2015 is due to lapse unless a continuing resolution passes - and that&#39;s unlikely</h4> <p>Barring a last-minute deal, the US federal government would shut down on Wednesday, October 1, and the 2015 Cybersecurity Information Sharing Act would lapse at the same time, threatening what many consider a critical plank of US cybersecurity policy.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242166</guid>
-    </item>    <item>
-      <title>Quantum Safe Private Communications: Building the Future Before the Threat Arrives</title>
-      <link>https://puri.sm/posts/quantum-safe-private-communications-building-the-future-before-the-threat-arrives/</link>
-      <description>
-        <![CDATA[<p>Secure mobility is not just about encryption — it’s about sovereignty. The ability to own, control, and verify every layer of your communications stack is the difference between operational assurance and strategic vulnerability.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/quantum-safe-private-communications-building-the-future-before-the-threat-arrives/">Quantum Safe Private Communications: Building the Future Before the Threat Arrives</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>Secure mobility is not just about encryption — it’s about sovereignty. The ability to own, control, and verify every layer of your communications stack is the difference between operational assurance and strategic vulnerability.
-
-The post [Quantum Safe Private Communications: Building the Future Before the Threat Arrives](https://puri.sm/posts/quantum-safe-private-communications-building-the-future-before-the-threat-arrives/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=84586</guid>
-    </item>    <item>
-      <title>From City Lights to Moonlight: NASA Training Shows How Urban Parks Can Connect Communities with Space Science</title>
-      <link>https://science.nasa.gov/learning-resources/for-professionals/courses-curriculums/from-city-lights-to-moonlight-nasa-training-shows-how-urban-parks-can-connect-communities-with-space-science/</link>
-      <description>
-        <![CDATA[When you think about national park and public land astronomy programs, you might picture remote locations far from city lights. But a recent NASA Earth to Sky training, funded by NASA’s Science Activation Program, challenges that assumption, demonstrating how urban parks, wildlife refuges, museums, and green spaces can be incredible venues for connecting communities with […]]]>
-      </description>
-      <guid>cid://https://science.nasa.gov/learning-resources/for-professionals/courses-curriculums/from-city-lights-to-moonlight-nasa-training-shows-how-urban-parks-can-connect-communities-with-space-science/</guid>
-    </item>    <item>
-      <title>How Marsquakes Have Helped Researchers Investigate the Depths of the Red Planet&#39;s Interior</title>
-      <link>https://www.smithsonianmag.com/smart-news/marsquakes-allow-researchers-to-investigate-deep-into-the-red-planets-interior-180987286/</link>
-      <description>
-        <![CDATA[Two recent studies used seismic data from NASA's retired InSight mission to shed light on what lies beneath Mars’ surface and what it means for the planet’s history]]>
-      </description>
-      <source:markdown>Two recent studies used seismic data from NASA&#39;s retired InSight mission to shed light on what lies beneath Mars’ surface and what it means for the planet’s history</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/X61vP3NA8udrFbsDgIaxNwsrFJI=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b2/ff/b2ff5594-38a8-4209-acc2-77f1306cb28f/smithsonian_feature_images_13.png" length="" type="" />
-    </item>    <item>
-      <title>NASA Awards Custodial, Landscaping Services Contract</title>
-      <link>https://www.nasa.gov/news-release/nasa-awards-custodial-landscaping-services-contract/</link>
-      <description>
-        <![CDATA[NASA has selected Melwood Horticultural Training Center Inc. of Upper Marlboro, Maryland, to provide custodial, janitorial, landscaping, and recycling services for the agency’s Goddard Space Flight Center in Greenbelt, Maryland. The Facilities Custodial and Landscaping award is a firm-fixed-price hybrid completion and indefinite-delivery/indefinite-quantity contract. The contract includes one 12-month base period and up to four [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=918434</guid>
-    </item>    <item>
-      <title>If you can&#39;t use AI then it&#39;s bye bye, Accenture tells staff</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/accenture_ai_jobs/</link>
-      <description>
-        <![CDATA[<h4>Consultancy says machine learning advice is making bank</h4> <p><strong>ai-pocalypse</strong>  AI is proving to be a gold mine for mega tech consultancy Accenture, but if staff can&#39;t use it, then it&#39;s time to pack up their desks.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242165</guid>
-    </item>    <item>
-      <title>The First of David Hockney&#39;s Famous Double Portraits Is Heading to Auction</title>
-      <link>https://www.smithsonianmag.com/smart-news/the-first-of-david-hockneys-famous-double-portraits-is-heading-to-auction-180987380/</link>
-      <description>
-        <![CDATA[Featuring English novelist Christopher Isherwood and his partner, artist Don Bachardy, the painting is one of Hockney's most celebrated]]>
-      </description>
-      <source:markdown>Featuring English novelist Christopher Isherwood and his partner, artist Don Bachardy, the painting is one of Hockney&#39;s most celebrated</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/T4ngtF0XawZWvquW86fHxu36iOo=/420x240/filters:focal(1000x714:1001x715)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0c/8d/0c8dff50-e275-45dc-829a-a296eff60659/c54a5a6cab557cc79ff667a6aba3ecae-l_1.jpeg" length="" type="" />
-    </item>    <item>
-      <title>Astronomers Watched a Black Hole Unexpectedly Flip Its Magnetic Field, Challenging Theoretical Models</title>
-      <link>https://www.smithsonianmag.com/smart-news/astronomers-watched-a-black-hole-unexpectedly-flip-its-magnetic-field-challenging-theoretical-models-180987397/</link>
-      <description>
-        <![CDATA[A series of observations between 2017 and 2021 suggest the supermassive structure’s magnetized plasma is more dynamic than thought]]>
-      </description>
-      <source:markdown>A series of observations between 2017 and 2021 suggest the supermassive structure’s magnetized plasma is more dynamic than thought</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/NFQBtZzhIKuTYEvN87Z5Lix_hVA=/420x240/filters:focal(555x370:556x371)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a7/ac/a7acec35-639b-455d-9ca7-51820ebc3020/triptych_eht_labeled-crop2.png" length="" type="" />
-    </item>    <item>
-      <title>Researchers Find Evidence of a Mysterious Giant Asteroid Impact, but They Don’t Know Where Its Crater Is</title>
-      <link>https://www.smithsonianmag.com/smart-news/researchers-find-evidence-of-a-mysterious-giant-asteroid-impact-but-they-dont-know-where-its-crater-is-180987415/</link>
-      <description>
-        <![CDATA[Special shards of glass, known as "tektites," were hiding in plain sight in a museum collection]]>
-      </description>
-      <source:markdown>Special shards of glass, known as &#34;tektites,&#34; were hiding in plain sight in a museum collection</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/prV1UV2WN0WhrRaYfa-MHWTbxr8=/420x240/filters:focal(960x567:961x568)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/97/6d/976d3f74-46cf-4f76-abd3-47d46bc05c6d/for-web-img_1610.jpg" length="" type="" />
-    </item>    <item>
-      <title>NASA Helps Connect Astronomers and Community Colleges Across the Nation</title>
-      <link>https://science.nasa.gov/learning-resources/for-colleges-universities/nasa-helps-connect-astronomers-and-community-colleges-across-the-nation/</link>
-      <description>
-        <![CDATA[The NASA Community College Network (NCCN) and the American Astronomical Society (AAS) have teamed up to provide an exciting and impactful program that brings top astronomy researchers into the classrooms of community colleges around the United States. The Harlow Shapley Visiting Lectureship Program, named for astronomer Harlow Shapley (1885-1972), has a history dating back to […]]]>
-      </description>
-      <guid>cid://https://science.nasa.gov/learning-resources/for-colleges-universities/nasa-helps-connect-astronomers-and-community-colleges-across-the-nation/</guid>
-    </item>    <item>
-      <title>Paleontologists Discover Megaraptor Fossil With a Crocodilian&#39;s Leg Still in Its Mouth</title>
-      <link>https://www.smithsonianmag.com/smart-news/paleontologists-discover-megaraptor-fossil-with-a-crocodilians-leg-in-its-mouth-180987394/</link>
-      <description>
-        <![CDATA[The finding in Argentina reveals a new megaraptor species that would have ruled at the same time as North America’s T. rex, shedding light on what it took to be a prehistoric top predator]]>
-      </description>
-      <source:markdown>The finding in Argentina reveals a new megaraptor species that would have ruled at the same time as North America’s T. rex, shedding light on what it took to be a prehistoric top predator</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/huEs8uoRB3o9xP3WQuPDuX5JDxQ=/420x240/filters:focal(801x516:802x517)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/05/42/05424182-f04e-4721-98ac-2406fd0aa8fc/joaquinraptorlr72-credit_andrew_mcafee-carnegie_museum.jpg" length="" type="" />
-    </item>    <item>
-      <title>Lunar Challenge Winner Tests Technology in NASA Thermal Vacuum Chamber</title>
-      <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/lunar-challenge-winner-tests-technology-in-nasa-thermal-vacuum-chamber/</link>
-      <description>
-        <![CDATA[By Savannah Bullard One year after winning second place in NASA’s Break the Ice Lunar Challenge, members of the small business Starpath visited NASA’s Marshall Space Flight Center in Huntsville, Alabama, as part of their prize opportunity to test their upgraded lunar regolith excavation and transportation rover in the center’s 20-foot thermal vacuum chamber. The [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.nasa.gov/?p=919444</guid>
-    </item>    <item>
-      <title>2025-2026 DWU: High School Engineering Challenge</title>
-      <link>https://www.nasa.gov/directorates/armd/2025-dwu-hs-design-challenge/</link>
-      <description>
-        <![CDATA[2025-2026 DWU: High School Engineering Challenge Challenge Materials Challenge Materials The 2025 Challenge Materials are coming soon. Register now to get copies as soon as they are released. Overview: What is an Uncrewed Aircraft System?&#160; An uncrewed aircraft system (UAS) can be defined as an aircraft without an operator or flight crew onboard the aircraft [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.nasa.gov/?p=907443</guid>
-    </item>    <item>
-      <title>Federal agencies DOGE questions about what cost-cutting team is doing</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/senate_doge_report/</link>
-      <description>
-        <![CDATA[<h4>Oversight efforts have been rebuffed, says Democratic report, &#39;putting Americans&#39; personal data at risk&#39;</h4> <p>A trio of federal executive agencies targeted by DOGE cost-cutters either don&#39;t know or won&#39;t say what the group is doing inside their operations, according to a Senate investigation that concludes DOGE is acting without legal authority or oversight.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242162</guid>
-    </item>    <item>
-      <title>2025-2026 DWU: Middle School Aviation Challenge</title>
-      <link>https://www.nasa.gov/directorates/armd/2025-2026-dwu-middle-school-aviation-challenge/</link>
-      <description>
-        <![CDATA[2025-2026 DWU: Middle School Aviation Challenge Challenge Theme AgAir: Integrating UAS into the Agriculture Industry The agricultural industry is an important part of life in the US and around the world by providing food, fuel, economic development, and more. It has been increasingly important to strategically improve the agricultural industry to continue to provide for [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.nasa.gov/?p=916406</guid>
-    </item>    <item>
-      <title>NASA and Sierra Space clip Dream Chaser&#39;s ISS wings</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/nasa_sierra_space_contract/</link>
-      <description>
-        <![CDATA[<h4>Aptly named spacecraft might never make it to the orbital outpost after all</h4> <p>NASA and Sierra Space have modified the Commercial Resupply Services-2 contract, which originally called for the Dream Chaser spaceplane to be used to supply the International Space Station (ISS).…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242157</guid>
-    </item>    <item>
-      <title>Renewables blow past nuclear when it comes to cheap datacenter juice</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/renewables_vs_smr_datacenter/</link>
-      <description>
-        <![CDATA[<h4>Study finds microgrids with wind, solar, and batteries can be built years sooner and at lower cost than SMRs</h4> <p>Renewable energy sources could power datacenters at a lower cost than relying on nuclear generation from small modular reactors (SMRs), claims a recently revealed study.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242156</guid>
-    </item>    <item>
-      <title>Microsoft spots fresh XCSSET malware strain hiding in Apple dev projects</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/microsoft_xcsset_macos/</link>
-      <description>
-        <![CDATA[<h4>Upgraded nasty slips into Xcode builds, steals crypto, and disables macOS defenses</h4> <p>The long-running XCSSET malware strain has evolved again, with Microsoft warning of a new macOS variant that expands its bag of tricks while continuing to target developers.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242160</guid>
-    </item>    <item>
-      <title>Stunning Microscope Videos Highlight Self-Pollination, Algae and Tumor Cells in the Nikon Small World in Motion Contest</title>
-      <link>https://www.smithsonianmag.com/smart-news/stunning-microscope-videos-highlight-self-pollination-algae-and-tumor-cells-in-the-nikon-small-world-in-motion-contest-180987405/</link>
-      <description>
-        <![CDATA[The annual video competition focuses on the tiny wonders of the natural world]]>
-      </description>
-      <source:markdown>The annual video competition focuses on the tiny wonders of the natural world</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/xmUwRk4UsnAw73s5iIlS-drMKG0=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9d/e9/9de9f840-c41f-47a2-b53a-3672b878c795/smithsonian_feature_images_16.png" length="" type="" />
-    </item>    <item>
-      <title>Golden Lake</title>
-      <link>https://www.nasa.gov/image-article/golden-lake/</link>
-      <description>
-        <![CDATA[Golden sunglint highlights Lake Balkhash in this May 31, 2016, photo taken from the International Space Station. The large lake in Kazakhstan is one of the largest lakes in Asia and is the 15th largest lake in the world. Since the space station became operational in November 2000, crew members have produced hundreds of thousands [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=918443</guid>
-    </item>    <item>
-      <title>Join NASA on Oct. 4 in Looking Up, Celebrating Moon</title>
-      <link>https://science.nasa.gov/solar-system/moon/join-nasa-on-oct-4-in-looking-up-celebrating-moon/</link>
-      <description>
-        <![CDATA[Join observers from around the world on Saturday, Oct. 4, for NASA’s International Observe the Moon Night. This annual event offers an opportunity for earthlings to celebrate the inspiring bond between Earth and the Moon, and, this year, to share in the excitement of NASA’s preparations for Artemis II. Launching in early 2026, the mission […]]]>
-      </description>
-      <guid>cid://https://science.nasa.gov/solar-system/moon/join-nasa-on-oct-4-in-looking-up-celebrating-moon/</guid>
-    </item>    <item>
-      <title>Salesforce facing multiple lawsuits after Salesloft breach</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/salesforce_class_actions/</link>
-      <description>
-        <![CDATA[<h4>CRM giant denies security shortcomings as claims allege stolen data used for ID theft</h4> <p><strong>Updated</strong>  Salesforce is facing a wave of lawsuits in the wake of a cyberattack that exposed customer data.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242158</guid>
-    </item>    <item>
-      <title>Google fuses SQL, Python, and Spark in Colab Enterprise push</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/google_colab_enterprise_update/</link>
-      <description>
-        <![CDATA[<h4>Move comes as Snowflake and Databricks chase the same all-in-one analytics dream</h4> <p>Google is promising a single notebook environment for machine learning and data analytics, integrating SQL, Python, and Apache Spark in one place.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242131</guid>
-    </item>    <item>
-      <title>‘An attacker&#39;s playground:’ Crims exploit GoAnywhere perfect-10 bug</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/an_apts_playground_goanywhere_perfect10/</link>
-      <description>
-        <![CDATA[<h4>Researchers say tens of thousands of instances remain publicly reachable</h4> <p>Security researchers have confirmed that threat actors have exploited the maximum-severity vulnerability affecting Fortra&#39;s GoAnywhere managed file transfer (MFT), and chastised the vendor for a lack of transparency.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242159</guid>
-    </item>    <item>
-      <title>LockBit&#39;s new variant is &#39;most dangerous yet,&#39; hitting Windows, Linux and VMware ESXi</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/lockbits_new_variant_is_most/</link>
-      <description>
-        <![CDATA[<h4>Operation Cronos didn’t kill LockBit – it just came back meaner</h4> <p>Trend Micro has sounded the alarm over the new LockBit 5.0 ransomware strain, which it warns is &#34;significantly more dangerous&#34; than past versions due to its newfound ability to simultaneously target Windows, Linux, and VMware ESXi environments. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242155</guid>
-    </item>    <item>
-      <title>New Math Revives Geometry’s Oldest Problems</title>
-      <link>https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/</link>
-      <description>
-        <![CDATA[Using a relatively young theory, a team of mathematicians has started to answer questions whose roots lie at the very beginning of mathematics.            <p>The post <a href="https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/" target="_blank">New Math Revives Geometry’s Oldest Problems</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>Using a relatively young theory, a team of mathematicians has started to answer questions whose roots lie at the very beginning of mathematics.
-
-The post [New Math Revives Geometry’s Oldest Problems](https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=155255</guid>
-    </item>    <item>
-      <title>Archaeologists in Pompeii Discover Ancient Bench Where Hopeful Clients Waited to Be Seen by an Elite Roman</title>
-      <link>https://www.smithsonianmag.com/smart-news/archaeologists-in-pompeii-discover-ancient-bench-where-hopeful-clients-waited-to-be-seen-by-an-elite-roman-180987382/</link>
-      <description>
-        <![CDATA[The seat is across from the entrance to the Villa of the Mysteries, a large property full of beautiful frescoes located just outside the ancient city's walls]]>
-      </description>
-      <source:markdown>The seat is across from the entrance to the Villa of the Mysteries, a large property full of beautiful frescoes located just outside the ancient city&#39;s walls</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/_1yLbzC5smPyo8lLVesZ5S863K4=/420x240/filters:focal(548x370:549x371)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/95/8d/958d9d3d-eb7c-41d5-8f25-da63caf4a939/whatsapp-image-2025-09-10-at-112657-1-1200x800_1.jpeg" length="" type="" />
-    </item>    <item>
-      <title>I Am Artemis: Diamond St. John</title>
-      <link>https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-diamond-st-john/</link>
-      <description>
-        <![CDATA[Listen to this audio excerpt from Diamond St. John, engineer working on the Artemis III heat shield for the Orion Program at Lockheed Martin: For four-generations, Diamond St. John’s family has been supporting human spaceflight at NASA’s Kennedy Space Center in Florida. Now, she’s continuing the family legacy that reaches back to Apollo —helping return [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.nasa.gov/?p=910345</guid>
-    </item>    <item>
-      <title>Software CEO tells Catholic uni panel AI won&#39;t take out jobs, but it could take out brains</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/ai_catholic_uni/</link>
-      <description>
-        <![CDATA[<h4>As exorcist convention decries AI&#39;s potential for &#39;necromancy&#39;</h4> <p>The CEO of a software testing company told a panel at Catholic University of America that AI will not create mass unemployment – though it could make people more stupid.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242154</guid>
-    </item>    <item>
-      <title>Prompt injection – and a $5 domain – trick Salesforce Agentforce into leaking sales</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/salesforce_agentforce_forceleak_attack/</link>
-      <description>
-        <![CDATA[<h4>More fun with AI agents and their security holes</h4> <p>A now-fixed flaw in Salesforce’s Agentforce could have allowed external attackers to steal sensitive customer data via prompt injection, according to security researchers who published a proof-of-concept attack on Thursday. They were aided by an expired trusted domain that they were able to buy for a measly five bucks.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242142</guid>
-    </item>    <item>
-      <title>Volvo North America confirms staff data stolen following ransomware attack on IT supplier</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/volvo_north_america_confirms_staff/</link>
-      <description>
-        <![CDATA[<h4>The downstream consequences of Miljödata’s ransomware attack continue to affect major organizations</h4> <p>Volvo North America is the latest large organization to announce attackers accessed employee data after a ransomware attack struck its HR system provider.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242151</guid>
-    </item>    <item>
-      <title>SpaceX Dragon huffs, puffs... and fizzles out as NASA aborts ISS boost</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/iss_reboost_attempt_aborted/</link>
-      <description>
-        <![CDATA[<h4>Meanwhile, Katalyst wins $30M contract to stop Swift telescope falling out of the sky</h4> <p>NASA has made progress with plans to boost the rapidly decaying orbit of the Swift observatory while calling an abrupt halt to an attempt to reboost the International Space Station (ISS) using SpaceX&#39;s Dragon.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242152</guid>
-    </item>    <item>
-      <title>Hubble Captures Puzzling Galaxy</title>
-      <link>https://science.nasa.gov/missions/hubble/hubble-captures-puzzling-galaxy/</link>
-      <description>
-        <![CDATA[This NASA/ESA Hubble Space Telescope image features a galaxy that’s hard to categorize. The galaxy in question is NGC 2775, which lies 67 million light-years away in the constellation Cancer (the Crab). NGC 2775 sports a smooth, featureless center that is devoid of gas, resembling an elliptical galaxy. It also has a dusty ring with […]]]>
-      </description>
-      <guid>cid://https://science.nasa.gov/missions/hubble/hubble-captures-puzzling-galaxy/</guid>
-    </item>    <item>
-      <title>Microsoft digs up Vista-era animated wallpaper for Windows 11. Here&#39;s how to get it</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/microsoft_animated_wallpaper_windows11/</link>
-      <description>
-        <![CDATA[<h4>Debuted in 2007, an old feature is coming back</h4> <p><strong>hands on</strong>  If you&#39;re tired of staring at the same old static wallpapers in Windows 11, there&#39;s help on the way. Microsoft has just added support for animated video backgrounds in the latest Insider builds of its popular operating system, heralding their likely appearance in a production update soon.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242133</guid>
-    </item>    <item>
-      <title>UK and US security agencies order urgent fixes as Cisco firewall bugs exploited in wild</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/cisco_firewall_flaws/</link>
-      <description>
-        <![CDATA[<h4>CISA gives feds 24 hours to patch, NCSC urges rapid action as flaws linked to ArcaneDoor spies</h4> <p>Cybersecurity agencies on both sides of the Atlantic are sounding the alarm over Cisco firewall vulnerabilities that are being exploited by an &#34;advanced threat actor.&#34;…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242150</guid>
-    </item>    <item>
-      <title>UK to roll out mandatory digital ID for right to work by 2029</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/uk_digital_id_confirmed/</link>
-      <description>
-        <![CDATA[<h4>Prime Minister Starmer revives controversial scheme despite past denials, sparking civil liberties backlash</h4> <p>The UK government plans to issue all legal residents a digital identity by the end of the current Parliament, which could run until August 2029, with its use required to get a job.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242149</guid>
-    </item>    <item>
-      <title>Brits warned as illegal robo-callers with offshored call centers fined half a million</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/brits_warned_as_illegal_robocallers/</link>
-      <description>
-        <![CDATA[<h4>It’s amazing the number of calls Jo, Helen, and Ian get through</h4> <p>The UK&#39;s data protection watchdog fined two Brit businesses with offshore call centers £550,000 (c $735,000) over illegal automated marketing calls.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242148</guid>
-    </item>    <item>
-      <title>Microsoft agrees to 11th hour Win 10 end of life concessions</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/not_in_eu_and_want/</link>
-      <description>
-        <![CDATA[<h4>Consumer org forces Redmond to expunge list of requirements for free ESU in Euro Economic Area, just need a Microsoft account</h4> <p><strong>Updated</strong>  Microsoft will give consumers in the European Economic Area no-strings extended support for the soon-to be-EOL Windows 10.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242124</guid>
-    </item>    <item>
-      <title>Just using open source software isn&#39;t radical any more. Europe needs to dig deeper</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/open_source_in_europe_2025/</link>
-      <description>
-        <![CDATA[<h4>Companies must realize they can be more than pure consumers, and public sector ought to go beyond &#39;promotion&#39;</h4> <p><strong>Feature</strong>  It is 2025. Linux will turn 34 and the Free Software Foundation (FSF) 40. For the EU and Europe at large, which is famously <a target="_blank" href="https://www.theregister.com/2013/12/16/munich_signs_off_on_open_source_project">experimental</a> with <a target="_blank" href="https://www.theregister.com/2024/04/04/germanys_northernmost_state_ditches_windows/">government</a> <a target="_blank" href="https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf">deployments</a> of open source tech, behind <a target="_blank" href="https://www.gov.uk/government/publications/open-source-guidance">initiatives</a> to promote <a target="_blank" href="https://commission.europa.eu/about/departments-and-executive-agencies/digital-services/open-source-strategy-history/european-union-public-licence_en">open licensing</a>, and whose governments promote equal opportunity for FOSS vendors in <a target="_blank" href="https://commission.europa.eu/news-and-media/news/european-parliament-and-commission-launch-free-open-source-software-european-public-services-fosseps-2022-02-11_en">public tendering</a>, it&#39;s a crunch point.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242071</guid>
-    </item>    <item>
-      <title>A Surprising Cause Of Endometriosis Could Lead To Cure</title>
-      <link>https://www.npr.org/2025/09/26/nx-s1-5553487/pain-fertility-endometriosis-immune-system</link>
-      <description>
-        <![CDATA[Since the age of nine or ten, <a href="https://med.uc.edu/depart/eh/directory/entire-directory/Index/Pubs/burns2ki"target="_blank"   >Katie Burns</a> has had debilitating pain from endometriosis, a condition where tissue resembling the uterine lining grows outside the uterus. For years, Katie was in the dark about what was causing her pain. Even after a diagnosis at age 20 it was hard to find relief, or even answers about her condition. Her search for better care is part of what led her to a career studying the disease, which affects tens of millions of people worldwide. And in 2012, she discovered something new about its origins. Today, we talk to Katie and science reporter <a href="https://www.science.org/content/author/meredith-wadman"target="_blank"   >Meredith Wadman</a> about that discovery, which points to a surprising culprit of endometriosis — the immune system.<br/><br/><br><strong>Read Meredith’s full piece in </strong><a href="https://www.science.org/content/article/driven-pain-endometriosis-scientist-uncovering-clues-its-causes"target="_blank"   ><strong>Science Magazine HERE</strong></a><strong>. </strong><br/><br/><br><em>Interested in more health science ? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Since the age of nine or ten, [Katie Burns](https://med.uc.edu/depart/eh/directory/entire-directory/Index/Pubs/burns2ki) has had debilitating pain from endometriosis, a condition where tissue resembling the uterine lining grows outside the uterus. For years, Katie was in the dark about what was causing her pain. Even after a diagnosis at age 20 it was hard to find relief, or even answers about her condition. Her search for better care is part of what led her to a career studying the disease, which affects tens of millions of people worldwide. And in 2012, she discovered something new about its origins. Today, we talk to Katie and science reporter [Meredith Wadman](https://www.science.org/content/author/meredith-wadman) about that discovery, which points to a surprising culprit of endometriosis — the immune system.
-
-**Read Meredith’s full piece in** [**Science Magazine HERE**](https://www.science.org/content/article/driven-pain-endometriosis-scientist-uncovering-clues-its-causes) **.**
-
-_Interested in more health science ? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR9955689173.mp3?t=podcast&e=nx-s1-5553487&p=510351&d=809&size=12953854" length="12953854" type="audio/mpeg" />
-      <guid>cid://ad7c4b28-e2e2-40fb-a5bf-137e8b9b7b20</guid>
-    </item>    <item>
-      <title>Hardware inspector fired for spotting an error he wasn&#39;t trained to find</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/on_call/</link>
-      <description>
-        <![CDATA[<h4>Manager&#39;s quality control priorities were upside down</h4> <p><strong>On Call</strong>  Welcome again to On Call, <i>The Register&#39;s</i> weekly column in which readers share stories of earnestly trying to fix broken tech, and end up feeling broken afterwards.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242087</guid>
-    </item>    <item>
-      <title>Apple, Google tell Europe its Digital Markets Act isn&#39;t working for them – or consumers</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/google_apple_dma_review_submissions/</link>
-      <description>
-        <![CDATA[<h4>They would say that, wouldn’t they?</h4> <p>Apple and Google have both urged the European Union to revisit its Digital Markets Act (DMA), which both tech giants say is failing.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242146</guid>
-    </item>    <item>
-      <title>Dell enters the earbud market with kit you can control from the cloud</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/dell_cloud_manageable_earbuds/</link>
-      <description>
-        <![CDATA[<h4>Apple prices meet Dell style</h4> <p>Dell has entered the earbud market with a product you can manage from the cloud.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242145</guid>
-    </item>    <item>
-      <title>800,000 tons of mud probably just made electronics a little more expensive</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/grasberg_accident_copper_prices/</link>
-      <description>
-        <![CDATA[<h4>Accident causes major copper mine to suspend operations, as commodity and share prices soar</h4> <p>In recent years technology buyers have endured hardware price rises due to a pandemic and its impact on supply chains, the global wave of inflation that followed, tariffs, and surging demand for AI technologies that allowed vendors to charge higher prices. Now, 800,000 tons of mud has pushed copper prices higher.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242144</guid>
-    </item>    <item>
-      <title>Intel reportedly wants TSMC&#39;s help to end its reliance on ...TSMC</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/intel_tsmc_invest/</link>
-      <description>
-        <![CDATA[<h4>Chipzilla seeks investment from its top fab frenemy</h4> <p>Intel has reportedly sought an investment from rival chipmaker TSMC.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242143</guid>
     </item>
   </channel>
 </rss>
