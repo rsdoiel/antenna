@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>18 Oct 25 15:36 -0700</dateCreated>
+        <dateCreated>18 Oct 25 18:53 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -34,6 +34,7 @@
         <outline text="Brett Brecker Blog (CS Prof. UCD Dublin)" type="rss" xmlUrl="https://www.brettbecker.com/feed/" htmlUrl="https://www.brettbecker.com,https://www.brettbecker.com/feed/" description="Assistant Professor, Computing Education Research" url="https://www.brettbecker.com/feed/"></outline>
         <outline text="Brian Balsamo&#39;s blog" type="rss" xmlUrl="https://bnbalsamo.github.io/feed.xml" htmlUrl="https://bnbalsamo.github.io,https://bnbalsamo.github.io/feed.xml" description="Librarian, Developer, etc." url="https://bnbalsamo.github.io/feed.xml"></outline>
         <outline text="Brian Robert Callahan blog" type="rss" xmlUrl="https://briancallahan.net/blog/feed.xml" htmlUrl="https://briancallahan.net/blog" description="academic, developer, with an eye towards a brighter techno-social life"></outline>
+        <outline text="Brian Taylor Cohen blog" type="rss" xmlUrl="https://plus.briantylercohen.com/feed" htmlUrl="https://plus.briantylercohen.com,https://plus.briantylercohen.com/feed" description="A deep dive into what&#39;s happening in politics from one of the biggest content creators on the left." url="https://plus.briantylercohen.com/feed"></outline>
         <outline text="Bruce Schneier blog" type="atom" xmlUrl="https://www.schneier.com/feed/atom/" htmlUrl="https://www.schneier.com/,https://www.schneier.com/feed/atom/" url="https://www.schneier.com/feed/atom/"></outline>
         <outline text="Bunnie&#39;s Studio Blog" type="rss" xmlUrl="https://www.bunniestudios.com/blog/feed/" htmlUrl="https://www.bunniestudios.com/blog,https://www.bunniestudios.com/blog/feed/" description="bunnie&#39;s blog" url="https://www.bunniestudios.com/blog/feed/"></outline>
         <outline text="Buttondown Blog" type="rss" xmlUrl="https://buttondown.com/rss/blog.xml" htmlUrl="https://buttondown.com" description="Buttondown&#39;s blog — guides, tutorials, and more"></outline>

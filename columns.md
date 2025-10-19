@@ -316,5 +316,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Borowitz Report](https://www.borowitzreport.com/feed)
 - [Future Knowledge Podcast](https://feeds.transistor.fm/futureknowledge)
 - [Writing Off Code](https://christaalbrechtcrane.substack.com/feed)
+- [Brian Taylor Cohen blog](https://plus.briantylercohen.com/feed)
 
 

@@ -4,7 +4,7 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>18 Oct 25 15:36 -0700</lastBuildDate>
+    <lastBuildDate>18 Oct 25 18:53 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -15,6 +15,14 @@
       </description>
       <source:markdown>Veteran metals trader Robert Gottlieb explains the forces behind silver&#39;s record highs and what&#39;s next for investors</source:markdown>
       <guid>cid://https://www.npr.org/2025/10/18/nx-s1-5575693/is-silver-the-new-gold-prices-surge-as-demand-outpaces-supply</guid>
+    </item>    <item>
+      <title>Gallery: Tyler Childers and Medium Build at Forest Hills Stadium</title>
+      <link>https://www.pastemagazine.com/music/tyler-childers/gallery-tyler-childers-and-medium-build-at-forest-hills-stadium</link>
+      <description>
+        <![CDATA[Last month, Tyler Childers played songs from his new album Snipe Hunter at Forest Hills Stadium in New York. Check out the gallery here.]]>
+      </description>
+      <source:markdown>Last month, Tyler Childers played songs from his new album Snipe Hunter at Forest Hills Stadium in New York. Check out the gallery here.</source:markdown>
+      <guid>cid://19dfc3fa-7a16-4ea8-ba1c-5e4f21aaba9d-410474</guid>
     </item>    <item>
       <title>Time Capsule: Green Day, Insomniac</title>
       <link>https://www.pastemagazine.com/music/green-day/time-capsule-green-day-insomniac</link>

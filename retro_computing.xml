@@ -4,7 +4,7 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>18 Oct 25 15:36 -0700</lastBuildDate>
+    <lastBuildDate>18 Oct 25 18:54 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -2018,14 +2018,6 @@ Although at least one [client re-creation](https://github.com/erfg12/AOL_4.0_Emu
       </description>
       <source:markdown>The parcel that eventually was, Ghosts, Ghosts (the other kind), Google and the enshittification of the web.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20250928</guid>
-    </item>    <item>
-      <title>London Show 2025 – just four weeks to go</title>
-      <link>https://www.riscository.com/2025/london-show-four-weeks/</link>
-      <description>
-        <![CDATA[Today is Saturday, 27th September, 2025, and I&#8217;ve scheduled this post to appear at 11:00am &#8211; which means at the time this article appears it will be precisely four weeks to the minute until the doors are open to the public on the 2025 RISC OS London Show, which takes place on Saturday, 25th October. The precise details you need, as a discerning RISC OS user and show visitor, are: Harrow District Masonic Centre,Northwick Circle,Kenton,Harrow,HA3 0EL. The venue has ample (and free) parking for visitors making the trip by car,&#8230;]]>
-      </description>
-      <source:markdown>Today is Saturday, 27th September, 2025, and I’ve scheduled this post to appear at 11:00am – which means at the time this article appears it will be precisely four weeks to the minute until the doors are open to the public on the 2025 RISC OS London Show, which takes place on Saturday, 25th October. The precise details you need, as a discerning RISC OS user and show visitor, are: Harrow District Masonic Centre,Northwick Circle,Kenton,Harrow,HA3 0EL. The venue has ample (and free) parking for visitors making the trip by car,…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10718</guid>
     </item>
   </channel>
 </rss>

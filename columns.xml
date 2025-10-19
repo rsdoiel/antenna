@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>18 Oct 25 15:36 -0700</lastBuildDate>
+    <lastBuildDate>18 Oct 25 18:53 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -38,6 +38,51 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <title>Consumer Reports: Protein Powders and Shakes Contain High Levels of Lead. &#38;#8220;More...</title>
+      <link>https://kottke.org/25/10/0047727-consumer-reports-protein-</link>
+      <guid>cid://tag:kottke.org,2025://13.47727</guid>
+    </item>    <item>
+      <title>A Terrible Day for Trump. A Wonderful Day for America.</title>
+      <link>https://www.borowitzreport.com/p/power-to-the-people</link>
+      <description>
+        <![CDATA[TBR Weekend Read]]>
+      </description>
+      <source:markdown>TBR Weekend Read</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!WOwk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08df3c4c-012c-42e9-a857-ecfef31beb18_5712x4284.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/power-to-the-people</guid>
+    </item>    <item>
+      <title>More than 170 *US citizens* have been detained and held (and &#38;#8220;dragged,...</title>
+      <link>https://kottke.org/25/10/0047726-more-than-170-us-citizens</link>
+      <guid>cid://tag:kottke.org,2025://13.47726</guid>
+    </item>    <item>
+      <title>2025-10-19 Every time I am on a trip, the bots strike</title>
+      <link>https://alexschroeder.ch/view/2025-10-19-every-time</link>
+      <description>
+        <![CDATA[<h1 id="2025-10-19-every-time-i-am-on-a-trip-the-bots-strike">2025-10-19 Every time I am on a trip, the bots strike</h1>
+        
+        <p>Is it you, dear reader? Is it one of the people following along on fedi? As soon as I posted that <a href="https://transjovian.org/view/fighting-bots/">my setup</a> had been working fine for weeks without requiring any intervention, I find that it’s in fact not working fine.</p>
+        
+        <p><img loading="lazy" src="2025-10-19-every-time-1.png" alt="A few hours ago, load climbed to 100 and more." /></p>
+        
+        <p>I don’t have time for this right now, so I just tightened the screws and will let things run (or not) as they will.</p>
+        
+        <p>At least this blog still works! Emacs Wiki and a few others are probably down, though.</p>
+        
+        <p><a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23Emacs">#Emacs</a></p>]]>
+      </description>
+      <source:markdown># 2025-10-19 Every time I am on a trip, the bots strike
+
+Is it you, dear reader? Is it one of the people following along on fedi? As soon as I posted that [my setup](https://transjovian.org/view/fighting-bots/) had been working fine for weeks without requiring any intervention, I find that it’s in fact not working fine.
+
+![A few hours ago, load climbed to 100 and more.](2025-10-19-every-time-1.png)
+
+I don’t have time for this right now, so I just tightened the screws and will let things run (or not) as they will.
+
+At least this blog still works! Emacs Wiki and a few others are probably down, though.
+
+[#Butlerian Jihad](/search/?q=%23Butlerian_Jihad) [#Emacs](/search/?q=%23Emacs)</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2025-10-19-every-time</guid>
+    </item>    <item>
       <link>http://scripting.com/2025/10/18.html#a215709</link>
       <description>
         <![CDATA[<div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/10/18/saranacLakeNy.png"></center><a href="https://en.wikipedia.org/wiki/Saranac_Lake,_New_York">Saranac Lake</a>, NY.</div>]]>
@@ -52,9 +97,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>    <item>
       <link>http://scripting.com/2025/10/18.html#a211921</link>
       <description>
-        <![CDATA[Just got back to the Catskills from my trip to Ottawa. Took the slow scenic route through the <a href="https://en.wikipedia.org/wiki/Adirondack_Mountains">Adirondacks</a>. Had an unqualified great trip. Should've gone to a <a href="https://www.google.com/search?q=WordCamp">WordCamp</a> a long time ago. It's totally my type of people. I have a long list of things to organize, but for now it's time to catch up on sleep and rest and MLB and NBA, and make plans for the future.]]>
+        <![CDATA[Back home from my trip to Ottawa. Took the scenic route through the <a href="https://en.wikipedia.org/wiki/Adirondack_Mountains">Adirondacks</a>. Had an unqualified great trip. Should've gone to a <a href="https://www.google.com/search?q=WordCamp">WordCamp</a> a long time ago. It's totally my type of people. I have a long list of things to organize, but for now it's time to catch up on sleep and rest, MLB and NBA, and make plans for the future.]]>
       </description>
-      <source:markdown>Just got back to the Catskills from my trip to Ottawa. Took the slow scenic route through the [Adirondacks](https://en.wikipedia.org/wiki/Adirondack_Mountains). Had an unqualified great trip. Should&#39;ve gone to a [WordCamp](https://www.google.com/search?q=WordCamp) a long time ago. It&#39;s totally my type of people. I have a long list of things to organize, but for now it&#39;s time to catch up on sleep and rest and MLB and NBA, and make plans for the future.</source:markdown>
+      <source:markdown>Back home from my trip to Ottawa. Took the scenic route through the [Adirondacks](https://en.wikipedia.org/wiki/Adirondack_Mountains). Had an unqualified great trip. Should&#39;ve gone to a [WordCamp](https://www.google.com/search?q=WordCamp) a long time ago. It&#39;s totally my type of people. I have a long list of things to organize, but for now it&#39;s time to catch up on sleep and rest, MLB and NBA, and make plans for the future.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/18.html#a211921</guid>
     </item>    <item>
       <title>Office Hours: Should Dems fight fire with fire?</title>
@@ -19121,292 +19166,6 @@ Please do share this sentiment more widely. We all can do a lot to spread trees.
       <title>weekly retro #34: clawing myself back into a routine-hole</title>
       <link>https://livelaugh.blog/posts/weekly-retro-34/</link>
       <guid>cid://https://livelaugh.blog/posts/weekly-retro-34/</guid>
-    </item>    <item>
-      <title>Video models are zero-shot learners and reasoners</title>
-      <link>https://simonwillison.net/2025/Sep/27/video-models-are-zero-shot-learners-and-reasoners/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://video-zero-shot.github.io/">Video models are zero-shot learners and reasoners</a></strong></p>
-        Fascinating new paper from Google DeepMind which makes a very convincing case that their Veo 3 model - and generative video models in general - serve a similar role in the machine learning visual ecosystem as LLMs do for text.</p>
-        <p>LLMs took the ability to predict the next token and turned it into general purpose foundation models for all manner of tasks that used to be handled by dedicated models - summarization, translation, parts of speech tagging etc can now all be handled by single huge models, which are getting both more powerful and cheaper as time progresses.</p>
-        <p>Generative video models like Veo 3 may well serve the same role for vision and image reasoning tasks.</p>
-        <p>From the paper:</p>
-        <blockquote>
-        <p>We believe that video models will become unifying, general-purpose foundation models for machine vision just like large language models (LLMs) have become  foundation models for natural language processing (NLP). [...]</p>
-        <p>Machine vision today in many ways resembles the state of NLP a few years ago: There are excellent task-specific models like “Segment Anything” for segmentation or YOLO variants for object detection. While attempts to unify some vision tasks exist, no existing model can solve any problem just by prompting. However, the exact same primitives that enabled zero-shot learning in NLP also apply to today’s generative video models—large-scale training with a generative objective (text/video continuation) on web-scale data. [...]</p>
-        <ol>
-        <li>Analyzing 18,384 generated videos across 62 qualitative and 7 quantitative tasks, we report that Veo 3 can solve a wide range of tasks that it was neither trained nor adapted for.</li>
-        <li>Based on its ability to perceive, model, and manipulate the visual world, Veo 3 shows early forms of “chain-of-frames (CoF)” visual reasoning like maze and symmetry solving.</li>
-        <li>While task-specific bespoke models still outperform a zero-shot video model, we observe a substantial and consistent performance improvement from Veo 2 to Veo 3, indicating a rapid advancement in the capabilities of video models.</li>
-        </ol>
-        </blockquote>
-        <p>I particularly enjoyed the way they coined the new term <em>chain-of-frames</em> to reflect chain-of-thought in LLMs. A chain-of-frames is how a video generation model can "reason" about the visual world:</p>
-        <blockquote>
-        <p><em>Perception</em>, <em>modeling</em>, and <em>manipulation</em> all integrate to tackle <em>visual reasoning</em>. While language models manipulate human-invented symbols, video models can apply changes across the dimensions of the real world: time and space. Since these changes are applied frame-by-frame in a generated video, this parallels chain-of-thought in LLMs and could therefore be called <strong>chain-of-frames</strong>, or CoF for short. In the language domain, chain-of-thought enabled models to tackle reasoning problems. Similarly, chain-of-frames (a.k.a. video generation) might enable video models to solve challenging visual problems that require step-by-step reasoning across time and space.</p>
-        </blockquote>
-        <p>They note that, while video models remain expensive to run today, it's likely they will follow a similar pricing trajectory as LLMs. I've been tracking this for a few years now and it really is a huge difference - a 1,200x drop in price between GPT-3 in 2022 ($60/million tokens) and GPT-5-Nano today ($0.05/million tokens).</p>
-        <p>The PDF is 45 pages long but the main paper is just the first 9.5 pages - the rest is mostly appendices. Reading those first 10 pages will give you the full details of their argument.</p>
-        <p>The <a href="https://video-zero-shot.github.io/">accompanying website</a> has dozens of video demos which are worth spending some time with to get a feel for the different applications of the Veo 3 model.</p>
-        <p><img alt="Diagram showing six computer vision techniques with example parrot images: Edge detection (line drawing of parrots and tropical plants), Segmentation (silhouette of two parrots on branch), Keypoint localization (black background with bright blue point), Super-resolution (pixelated parrot image), Blind deblurring (blurred parrot image), Blind denoising (clear photo of red, yellow and blue parrot in green foliage)" src="https://static.simonwillison.net/static/2025/veo3-perception.jpg" /></p>
-        <p>It's worth skimming through the appendixes in the paper as well to see examples of some of the prompts they used. They compare some of the exercises against equivalent attempts using Google's Nano Banana image generation model.</p>
-        <p>For edge detection, for example:</p>
-        <blockquote>
-        <p><strong>Veo</strong>: All edges in this image become more salient by transforming into black outlines. Then, all objects fade away, with just the edges remaining on a white background. Static camera perspective, no zoom or pan.</p>
-        <p><strong>Nano Banana</strong>: Outline all edges in the image in black, make everything else white.</p>
-        </blockquote>
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/video">video</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/paper-review">paper-review</a>, <a href="https://simonwillison.net/tags/video-models">video-models</a></p>]]>
-      </description>
-      <source:markdown>**[Video models are zero-shot learners and reasoners](https://video-zero-shot.github.io/)**
-
-Fascinating new paper from Google DeepMind which makes a very convincing case that their Veo 3 model - and generative video models in general - serve a similar role in the machine learning visual ecosystem as LLMs do for text.
-
-LLMs took the ability to predict the next token and turned it into general purpose foundation models for all manner of tasks that used to be handled by dedicated models - summarization, translation, parts of speech tagging etc can now all be handled by single huge models, which are getting both more powerful and cheaper as time progresses.
-
-Generative video models like Veo 3 may well serve the same role for vision and image reasoning tasks.
-
-From the paper:
-
-&#62; We believe that video models will become unifying, general-purpose foundation models for machine vision just like large language models (LLMs) have become foundation models for natural language processing (NLP). \[...\]
-&#62;
-&#62; Machine vision today in many ways resembles the state of NLP a few years ago: There are excellent task-specific models like “Segment Anything” for segmentation or YOLO variants for object detection. While attempts to unify some vision tasks exist, no existing model can solve any problem just by prompting. However, the exact same primitives that enabled zero-shot learning in NLP also apply to today’s generative video models—large-scale training with a generative objective (text/video continuation) on web-scale data. \[...\]
-&#62;
-&#62; 1. Analyzing 18,384 generated videos across 62 qualitative and 7 quantitative tasks, we report that Veo 3 can solve a wide range of tasks that it was neither trained nor adapted for.
-&#62; 2. Based on its ability to perceive, model, and manipulate the visual world, Veo 3 shows early forms of “chain-of-frames (CoF)” visual reasoning like maze and symmetry solving.
-&#62; 3. While task-specific bespoke models still outperform a zero-shot video model, we observe a substantial and consistent performance improvement from Veo 2 to Veo 3, indicating a rapid advancement in the capabilities of video models.
-
-I particularly enjoyed the way they coined the new term _chain-of-frames_ to reflect chain-of-thought in LLMs. A chain-of-frames is how a video generation model can &#34;reason&#34; about the visual world:
-
-&#62; _Perception_, _modeling_, and _manipulation_ all integrate to tackle _visual reasoning_. While language models manipulate human-invented symbols, video models can apply changes across the dimensions of the real world: time and space. Since these changes are applied frame-by-frame in a generated video, this parallels chain-of-thought in LLMs and could therefore be called **chain-of-frames**, or CoF for short. In the language domain, chain-of-thought enabled models to tackle reasoning problems. Similarly, chain-of-frames (a.k.a. video generation) might enable video models to solve challenging visual problems that require step-by-step reasoning across time and space.
-
-They note that, while video models remain expensive to run today, it&#39;s likely they will follow a similar pricing trajectory as LLMs. I&#39;ve been tracking this for a few years now and it really is a huge difference - a 1,200x drop in price between GPT-3 in 2022 ($60/million tokens) and GPT-5-Nano today ($0.05/million tokens).
-
-The PDF is 45 pages long but the main paper is just the first 9.5 pages - the rest is mostly appendices. Reading those first 10 pages will give you the full details of their argument.
-
-The [accompanying website](https://video-zero-shot.github.io/) has dozens of video demos which are worth spending some time with to get a feel for the different applications of the Veo 3 model.
-
-![Diagram showing six computer vision techniques with example parrot images: Edge detection (line drawing of parrots and tropical plants), Segmentation (silhouette of two parrots on branch), Keypoint localization (black background with bright blue point), Super-resolution (pixelated parrot image), Blind deblurring (blurred parrot image), Blind denoising (clear photo of red, yellow and blue parrot in green foliage)](https://static.simonwillison.net/static/2025/veo3-perception.jpg)
-
-It&#39;s worth skimming through the appendixes in the paper as well to see examples of some of the prompts they used. They compare some of the exercises against equivalent attempts using Google&#39;s Nano Banana image generation model.
-
-For edge detection, for example:
-
-&#62; **Veo**: All edges in this image become more salient by transforming into black outlines. Then, all objects fade away, with just the edges remaining on a white background. Static camera perspective, no zoom or pan.
-&#62;
-&#62; **Nano Banana**: Outline all edges in the image in black, make everything else white.
-
-Tags: [google](https://simonwillison.net/tags/google), [video](https://simonwillison.net/tags/video), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [gemini](https://simonwillison.net/tags/gemini), [paper-review](https://simonwillison.net/tags/paper-review), [video-models](https://simonwillison.net/tags/video-models)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Sep/27/video-models-are-zero-shot-learners-and-reasoners/#atom-everything</guid>
-    </item>    <item>
-      <title>Vorträge, Musik, Kunst, Punk: Macht mit beim 39. Chaos Communication Congress!</title>
-      <link>https://www.ccc.de/de/updates/2025/39c3-calls</link>
-      <description>
-        <![CDATA[Wir laden dazu ein, das Programm auf den Bühnen mit Vorträgen und den 39C3 mit Musik, Kunst und Punk zu bereichern. Der Call for Participation in gleich vier Feldern ist nun online.]]>
-      </description>
-      <source:markdown>Wir laden dazu ein, das Programm auf den Bühnen mit Vorträgen und den 39C3 mit Musik, Kunst und Punk zu bereichern. Der Call for Participation in gleich vier Feldern ist nun online.</source:markdown>
-      <guid>cid://https://www.ccc.de/de/991</guid>
-    </item>    <item>
-      <title>James Barnard on the Alignment Mistakes in HBO’s Logo</title>
-      <link>https://www.tiktok.com/@barnardco/video/7553888206022774018</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42227</guid>
-    </item>    <item>
-      <title>Federal Troops Arrive in Portland and Immediately Form Bands</title>
-      <link>https://www.borowitzreport.com/p/federal-troops-arrive-in-portland</link>
-      <description>
-        <![CDATA[Military personnel were seen trading in automatic weapons for mandolins and zithers.]]>
-      </description>
-      <source:markdown>Military personnel were seen trading in automatic weapons for mandolins and zithers.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!60C5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fa65e96-7653-40f1-bfe6-fa09501b914b_2121x1414.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/federal-troops-arrive-in-portland</guid>
-    </item>    <item>
-      <title>September 26, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-26-2025-748</link>
-      <enclosure url="https://api.substack.com/feed/podcast/174704606/3a7a9815c6eb88ac0733ccf1db7e37d9.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-26-2025-748</guid>
-    </item>    <item>
-      <link>https://arstechnica.com/ai/2025/09/why-la-comic-con-thought-making-an-ai-powered-stan-lee-hologram-was-a-good-idea/</link>
-      <description>
-        <![CDATA[<p>Why LA Comic Con thought making an AI-powered Stan Lee hologram was a good idea.</p>]]>
-      </description>
-      <source:markdown>Why LA Comic Con thought making an AI-powered Stan Lee hologram was a good idea.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/27/1261/</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/27.html#a160228</link>
-      <description>
-        <![CDATA[I'm writing <a href="https://daveverse.org/2025/09/27/wordland-synchronization-issue/">reports</a> about problems with WordLand using WordLand and I'm liking it. That's a good sign btw. And also I think it looks pretty great viewed in <a href="https://daveverse.org/2025/09/27/wordland-synchronization-issue/">WordPress</a> and in <a href="https://mastodon.social/@scripting@daveverse.org/115277099316805872">Mastodon</a>.]]>
-      </description>
-      <source:markdown>I&#39;m writing [reports](https://daveverse.org/2025/09/27/wordland-synchronization-issue/) about problems with WordLand using WordLand and I&#39;m liking it. That&#39;s a good sign btw. And also I think it looks pretty great viewed in [WordPress](https://daveverse.org/2025/09/27/wordland-synchronization-issue/) and in [Mastodon](https://mastodon.social/@scripting@daveverse.org/115277099316805872).</source:markdown>
-      <guid>cid://http://scripting.com/2025/09/27.html#a160228</guid>
-    </item>    <item>
-      <title>Where the rubber meets the road…</title>
-      <link>https://statusq.org/archives/2025/09/27/13334/</link>
-      <description>
-        <![CDATA[I have a theory, which I&#8217;d like to expound, and my clever readers can tell me whether it&#8217;s right or wrong. It came to me in the mid-1980s, this theory, when I got my first car: a Hillman Imp, which I purchased for £90. It had no manuals, and, actually, no ignition key: you had <a class="more-link excerpt-link" href="https://statusq.org/archives/2025/09/27/13334/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a>]]>
-      </description>
-      <source:markdown>I have a theory, which I’d like to expound, and my clever readers can tell me whether it’s right or wrong. It came to me in the mid-1980s, this theory, when I got my first car: a Hillman Imp, which I purchased for £90. It had no manuals, and, actually, no ignition key: you had [Continue Reading](https://statusq.org/archives/2025/09/27/13334/)</source:markdown>
-      <guid>cid://https://statusq.org/?p=13334</guid>
-    </item>    <item>
-      <title>Brains Get Tired Too [en]</title>
-      <link>https://climbtothestars.org/archives/2025/09/27/brains-get-tired-too/</link>
-      <description>
-        <![CDATA[[en] It’s funny how physical tiredness is not something one would think to question. It seems pretty obvious. We understand that if somebody has spent decades using and abusing their body, they&#8217;re going to face consequences as they get older. If you’re doing extreme running, hundreds of kilometres, or an insane amount of walking, crossing &#8230; <a href="https://climbtothestars.org/archives/2025/09/27/brains-get-tired-too/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Brains Get Tired Too <span class='bb-lang'>[en]</span></span>"</span></a>]]>
-      </description>
-      <source:markdown>\[en\] It’s funny how physical tiredness is not something one would think to question. It seems pretty obvious. We understand that if somebody has spent decades using and abusing their body, they’re going to face consequences as they get older. If you’re doing extreme running, hundreds of kilometres, or an insane amount of walking, crossing … [Continue reading &#34;Brains Get Tired Too \[en\]&#34;](https://climbtothestars.org/archives/2025/09/27/brains-get-tired-too/)</source:markdown>
-      <guid>cid://https://climbtothestars.org/?p=10139</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/27.html#a145200</link>
-      <description>
-        <![CDATA[Automattic shipped a new product called <a href="https://wordpress.com/blog/2025/09/23/telex-turns-everyone-into-a-wordpress-block-developer/">Telex</a> that's a ChatGPT for designing blocks in WordPress designs. Blocks are a simple result of design and programming that define the behavior of a part of a WordPress page. Having seen a demo, it looks really useful and is a nice small programming space, where a lot of users could actually control the process, and get something useful quickly. I've gotten pretty adept at teasing images out of ChatGPT, and at some point I'm probably going to need a commerce site, to allocate subdomains for people's feeds in WordLand. Still have to figure out how that works.]]>
-      </description>
-      <source:markdown>Automattic shipped a new product called [Telex](https://wordpress.com/blog/2025/09/23/telex-turns-everyone-into-a-wordpress-block-developer/) that&#39;s a ChatGPT for designing blocks in WordPress designs. Blocks are a simple result of design and programming that define the behavior of a part of a WordPress page. Having seen a demo, it looks really useful and is a nice small programming space, where a lot of users could actually control the process, and get something useful quickly. I&#39;ve gotten pretty adept at teasing images out of ChatGPT, and at some point I&#39;m probably going to need a commerce site, to allocate subdomains for people&#39;s feeds in WordLand. Still have to figure out how that works.</source:markdown>
-      <guid>cid://http://scripting.com/2025/09/27.html#a145200</guid>
-    </item>    <item>
-      <title>Humanity’s Toxic Wreckage Is Teeming With Life, Scientists Discover</title>
-      <link>https://www.404media.co/humanitys-toxic-wreckage-is-teeming-with-life-scientists-discover/</link>
-      <description>
-        <![CDATA[Though they leach toxic chemicals, submerged explosives from World War II attract algae, mussels, and fish in high numbers.]]>
-      </description>
-      <source:markdown>Though they leach toxic chemicals, submerged explosives from World War II attract algae, mussels, and fish in high numbers.</source:markdown>
-      <guid>cid://68d6d4b33ea9560001481d72</guid>
-    </item>    <item>
-      <title>Quoting Dan Abramov</title>
-      <link>https://simonwillison.net/2025/Sep/27/dan-abramov/#atom-everything</link>
-      <description>
-        <![CDATA[<blockquote cite="https://news.ycombinator.com/item?id=45388021#45388881"><p>Conceptually, Mastodon is a bunch of copies of the same webapp emailing each other. There is no realtime global aggregation across the network so it can only offer a fragmented user experience. While some people might like it, it can't directly compete with closed social products because it doesn't have a full view of the network like they do.</p>
-        <p>The goal of atproto is enable real competition with closed social products for a broader set of products (e.g. Tangled is like GitHub on atproto, Leaflet is like Medium on atproto, and so on). Because it enables global aggregation, <em>every</em> atproto app has a consistent state of the world. There's no notion of "being on a different instance" and only seeing half the replies, or half the like counts, or other fragmentation artifacts as you have in Mastodon.</p>
-        <p>I don't think they're really comparable in scope, ambition, or performance characteristics.</p></blockquote>
-        <p class="cite">&mdash; <a href="https://news.ycombinator.com/item?id=45388021#45388881">Dan Abramov</a>, Hacker News comment discussing his <a href="https://overreacted.io/open-social/">Open Social</a> article</p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/mastodon">mastodon</a>, <a href="https://simonwillison.net/tags/bluesky">bluesky</a>, <a href="https://simonwillison.net/tags/dan-abramov">dan-abramov</a></p>]]>
-      </description>
-      <source:markdown>&#62; Conceptually, Mastodon is a bunch of copies of the same webapp emailing each other. There is no realtime global aggregation across the network so it can only offer a fragmented user experience. While some people might like it, it can&#39;t directly compete with closed social products because it doesn&#39;t have a full view of the network like they do.
-&#62;
-&#62; The goal of atproto is enable real competition with closed social products for a broader set of products (e.g. Tangled is like GitHub on atproto, Leaflet is like Medium on atproto, and so on). Because it enables global aggregation, _every_ atproto app has a consistent state of the world. There&#39;s no notion of &#34;being on a different instance&#34; and only seeing half the replies, or half the like counts, or other fragmentation artifacts as you have in Mastodon.
-&#62;
-&#62; I don&#39;t think they&#39;re really comparable in scope, ambition, or performance characteristics.
-
-— [Dan Abramov](https://news.ycombinator.com/item?id=45388021#45388881), Hacker News comment discussing his [Open Social](https://overreacted.io/open-social/) article
-
-Tags: [mastodon](https://simonwillison.net/tags/mastodon), [bluesky](https://simonwillison.net/tags/bluesky), [dan-abramov](https://simonwillison.net/tags/dan-abramov)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Sep/27/dan-abramov/#atom-everything</guid>
-    </item>    <item>
-      <link>https://www.theguardian.com/us-news/2025/sep/26/ian-roberts-ice-detention-iowa-school-district-superintendent?CMP=share_btn_url</link>
-      <description>
-        <![CDATA[<p>Ice detains superintendent of Iowa’s largest school district.</p>]]>
-      </description>
-      <source:markdown>Ice detains superintendent of Iowa’s largest school district.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/27/1259/</guid>
-    </item>    <item>
-      <title>Talking (Again) With G. Elliott Morris</title>
-      <link>https://paulkrugman.substack.com/p/talking-again-with-g-elliott-morris</link>
-      <description>
-        <![CDATA[What polls are and aren't telling us right now]]>
-      </description>
-      <source:markdown>What polls are and aren&#39;t telling us right now</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!6jzq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67b93e5b-4372-4702-9511-69c3e6fe6074_1280x720.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/talking-again-with-g-elliott-morris</guid>
-    </item>    <item>
-      <title>Lit Hub Weekly: September 22 – 25, 2025</title>
-      <link>https://lithub.com/lit-hub-weekly-september-22-26-2025/</link>
-      <description>
-        <![CDATA[“She made me feel that my ideas mattered. She took me seriously.” Marisa Silver examines the legacy of her mother, filmmaker Joan Micklin Silver, frame by frame. &#124; Lit Hub Film Can’t decide which fall book to read? This flowchart has you covered. &#124; Lit Hub Criticism Patricia A. Matthew explores class, leisure, and the [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=260305</guid>
-    </item>    <item>
-      <title>The Dictator’s Demise | The Coffee Klatch for September 27, 2025</title>
-      <link>https://robertreich.substack.com/p/the-dictators-demise-the-coffee-klatch</link>
-      <description>
-        <![CDATA[With Katie Milne, Vishal Shankar, Michael Lahanas-Calder&#243;n, and yours truly, Robert Reich]]>
-      </description>
-      <source:markdown>With Katie Milne, Vishal Shankar, Michael Lahanas-Calderón, and yours truly, Robert Reich</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/174656376/6a9d3e582a45fd2636702561ac0b5bff.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://robertreich.substack.com/p/the-dictators-demise-the-coffee-klatch</guid>
-    </item>    <item>
-      <title>September 26, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-26-2025</link>
-      <description>
-        <![CDATA[Today Defense Secretary Pete Hegseth announced that twenty men who were awarded the Medal of Honor for their participation in the 1890 Wounded Knee Massacre would keep their medals, despite more than a century of controversy over them.]]>
-      </description>
-      <source:markdown>Today Defense Secretary Pete Hegseth announced that twenty men who were awarded the Medal of Honor for their participation in the 1890 Wounded Knee Massacre would keep their medals, despite more than a century of controversy over them.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-26-2025</guid>
-    </item>    <item>
-      <title>Played Light &#38; Magic by Ladytron</title>
-      <link>https://tracydurnell.com/2025/09/26/played-light-magic-by-ladytron/</link>
-      <description>
-        <![CDATA[Light &#38; Magic by Ladytron Been rocking out to Flicking Your Switch all week so I put on the whole album and it&#8217;s still a banger. (First half especially.) Digging Turn It On. I&#8217;ve given these songs star ratings in the past and it&#8217;s funny how different songs speak to you at different ages &#8212; [&#8230;]]]>
-      </description>
-      <source:markdown>Light &#38; Magic by Ladytron Been rocking out to Flicking Your Switch all week so I put on the whole album and it’s still a banger. (First half especially.) Digging Turn It On. I’ve given these songs star ratings in the past and it’s funny how different songs speak to you at different ages — \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=30201</guid>
-    </item>    <item>
-      <title>Weeknotes: Sept. 20-26, 2025</title>
-      <link>https://tracydurnell.com/2025/09/26/weeknotes-sept-20-26-2025/</link>
-      <description>
-        <![CDATA[Win of the week: the city installed a bike lane on the segment of greenway I advocated for!!! I know it wasn&#8217;t just me but I&#8217;m taking partial credit 😎 Looking forward to: got berries to bake Smitten Kitchen&#8217;s blackberry-blueberry crumb pie Stuff I did: 0.75 hours consulting 1.75 hours business development &#8212; meeting and research [&#8230;]]]>
-      </description>
-      <source:markdown>Win of the week: the city installed a bike lane on the segment of greenway I advocated for!!! I know it wasn’t just me but I’m taking partial credit 😎 Looking forward to: got berries to bake Smitten Kitchen’s blackberry-blueberry crumb pie Stuff I did: 0.75 hours consulting 1.75 hours business development — meeting and research \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=29963</guid>
-    </item>    <item>
-      <title>US-RSE September 2025 Newsletter</title>
-      <link>https://us-rse.org/2025-09-27-newsletter/</link>
-      <description>
-        <![CDATA[⛰️ This Month: Get Prepared for USRSE'25 ⛰️ - 
-                  US-RSE’25 is finally here! For those making the pilgrimage to sunny Philadelphia in a few short days, we’ve compiled a handy task list that ensures that you’ll be prepared and ready to make the most of this year’s exciting conference! Read on for more… In this issue: 1. USRSE’25 Conference...]]>
-      </description>
-      <source:markdown>⛰️ This Month: Get Prepared for USRSE&#39;25 ⛰️ -
- US-RSE’25 is finally here! For those making the pilgrimage to sunny Philadelphia in a few short days, we’ve compiled a handy task list that ensures that you’ll be prepared and ready to make the most of this year’s exciting conference! Read on for more… In this issue: 1. USRSE’25 Conference...</source:markdown>
-      <guid>cid://https://us-rse.org/2025-09-27-newsletter/</guid>
-    </item>    <item>
-      <title>Or Perhaps You Could Pull Over</title>
-      <link>https://onefoottsunami.com/2025/09/26/or-maybe-pull-over/</link>
-      <guid>cid://https://onefoottsunami.com/?p=29197</guid>
-    </item>    <item>
-      <title>Finished reading Demon World Boba Shop Vol. 4</title>
-      <link>https://www.mollywhite.net/reading/books?search=Demon%20World%20Boba%20Shop%20Vol.%204</link>
-      <guid>cid://68d84c9e1ae398729adddf0e</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115273808670511115</link>
-      <description>
-        <![CDATA[<p>The new iOS journal app lets you create multiple journals.</p><p>This is just what I needed.  You are all going into a dedicated journal for your insane takes.</p>]]>
-      </description>
-      <source:markdown>The new iOS journal app lets you create multiple journals.
-
-This is just what I needed. You are all going into a dedicated journal for your insane takes.</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115273808670511115</guid>
-    </item>    <item>
-      <title>Role Played</title>
-      <link>https://feed.tedium.co/link/15204/17172532/modern-gaming-later-in-life</link>
-      <description>
-        <![CDATA[Thoughts on getting back into modern-day gaming later in life after taking a very long break. (Warning: This is a very elder millennial post, leaning on geriatric.)]]>
-      </description>
-      <source:markdown>Thoughts on getting back into modern-day gaming later in life after taking a very long break. (Warning: This is a very elder millennial post, leaning on geriatric.)</source:markdown>
-      <guid>cid://https://tedium.co/2025/09/26/modern-gaming-later-in-life/</guid>
-    </item>    <item>
-      <link>https://tilde.zone/@tomasino/115273370178218783</link>
-      <description>
-        <![CDATA[<p>I see so much AI slop writing everywhere. That's all. That's the post.</p>]]>
-      </description>
-      <source:markdown>I see so much AI slop writing everywhere. That&#39;s all. That&#39;s the post.</source:markdown>
-      <guid>cid://https://tilde.zone/@tomasino/115273370178218783</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3lzrononohk2x</link>
-      <description>
-        <![CDATA[Cool article https://laist.com/news/los-angeles-activities/tongva-plant-names-hiking-coldwater-canyon-park]]>
-      </description>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3lzrononohk2x</guid>
-    </item>    <item>
-      <title>Onward</title>
-      <link>https://domenic.me/retirement/</link>
-      <guid>cid://https://domenic.me/retirement/</guid>
-    </item>    <item>
-      <title>Does AI Get Bored?</title>
-      <link>http://timkellogg.me/blog/2025/09/27/boredom</link>
-      <description>
-        <![CDATA[We always give AI something to do. Chat with us, do tasks for us, answer questions, parse text. What
-        happens when we give an AI nothing to do? I didn’t know, so I tried.]]>
-      </description>
-      <source:markdown>We always give AI something to do. Chat with us, do tasks for us, answer questions, parse text. What
-happens when we give an AI nothing to do? I didn’t know, so I tried.</source:markdown>
-      <guid>cid://http://timkellogg.me/blog/2025/09/27/boredom</guid>
     </item>
   </channel>
 </rss>
