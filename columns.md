@@ -317,5 +317,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Future Knowledge Podcast](https://feeds.transistor.fm/futureknowledge)
 - [Writing Off Code](https://christaalbrechtcrane.substack.com/feed)
 - [Brian Taylor Cohen blog](https://plus.briantylercohen.com/feed)
+- [Small World Blog](https://codetiger.github.io/blog/rss/)
 
 
