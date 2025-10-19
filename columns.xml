@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>19 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>19 Oct 25 11:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,743 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Once upon a time, Windows looked good</title>
+      <link>https://liam-on-linux.dreamwidth.org/96987.html</link>
+      <description>
+        <![CDATA[No, honest, it did.<br /><p>Windows 2 was kinda ugly.</p><p><a href="https://guidebookgallery.org/screenshots/win203" rel="nofollow">https://guidebookgallery.org/screenshots/win203</a></p><p>Windows 3/3.1/3.11 were fine.</p><p><a href="https://guidebookgallery.org/screenshots/win30" rel="nofollow">https://guidebookgallery.org/screenshots/win30</a></p><p>Muted, boring, but you could look at it all day. And we did.</p><p>95 improved it.</p><p><a href="https://guidebookgallery.org/screenshots/win95osr2" rel="nofollow">https://guidebookgallery.org/screenshots/win95osr2</a></p><p>Tasteful greys, spot colour.</p><p>NT 4 improved that a bit more.</p><p><a href="https://guidebookgallery.org/screenshots/winnt40" rel="nofollow">https://guidebookgallery.org/screenshots/winnt40</a></p><p>Categorised Start menu, for instance. But nearly identical.</p><p>95/NT4 were visibly inspired by NeXTstep, IMHO the most beautiful GUI ever written.</p><p>Then it all started to go a bit wrong. The first pebbles bouncing down the mountainside presaging a vast avalanche.</p><p>Windows 98.</p><p><a href="https://guidebookgallery.org/screenshots/win98" rel="nofollow">https://guidebookgallery.org/screenshots/win98</a></p><p>IE4  built in so Microsoft didn't get broken up my the US DOJ. Explorer  rendered local content via HTML. Ugly extra toolbars. Some floating,  some embedded in the task bar. Ugly gradients and blends in window title  bars.</p><p>Cheap and plastic and tacky.</p><p><i>But</i> that is  around the time that media and gaming PCs went mainstream, home internet  use (often over dialup) went mainstream, and the alternatives died out  (Amiga, ST &amp; GEM, Arm &amp; RISC OS) or very nearly died (classic  MacOS, NeXT merger, Rhapsody).</p><p>So it's what many saw first and loved and remembered.</p><p>Result, people write entire new OSes designed in affectionate homage:</p><p><a href="https://serenityos.org/" rel="nofollow">https://serenityos.org/</a></p><p>Look at the toolbars. Look at the textures in the title bars. This isn't Win9x, this is specifically Win98.</p><p><a href="https://www.digibarn.com/collections/screenshots/KDE%201-x/index.htm" rel="nofollow">https://www.digibarn.com/collections/screenshots/KDE%201-x/i...</a></p><p>Specifically:</p><p><a href="https://www.digibarn.com/collections/screenshots/KDE%201-x/hansen1.jpg" rel="nofollow">https://www.digibarn.com/collections/screenshots/KDE%201-x/h...</a></p><p>&lt;- textured title bars</p><p><a href="https://www.digibarn.com/collections/screenshots/KDE%201-x/tinypanel.jpg" rel="nofollow">https://www.digibarn.com/collections/screenshots/KDE%201-x/t...</a></p><p>&lt;- gradients in title bars</p><p><a href="https://www.digibarn.com/collections/screenshots/KDE%201-x/matthiase2.jpg" rel="nofollow">https://www.digibarn.com/collections/screenshots/KDE%201-x/m...</a></p><p>&lt;- Windows-style colour schemes</p><p>KDE  started out as a reproduction of Windows 98/98SE by a team who didn't  realise that what they were looking at was WordPerfect 5.x instead of  WordPerfect 4.x -- as the late great Guy Kewney put it:</p><p>&quot;WordPerfect 4.2 was a bicycle. A great bicycle. Everyone agreed it was a great bicycle, just about <i>the</i>  best. So what Wordperfect did was, they put together a committee,  looked at the market, and said: 'what we'll do is, we'll put 11 more  wheels on it'.&quot;</p><p>Win98 is Win95 festooned with pointless needless  Internet widgetry because the DOJ was about to split MS into separate  apps and OS companies, because MS drove Netscape into bankruptcy by  bundling IE free of charge with Windows.</p><p>Strip all that junk off  and what's left underneath is a better UI. But the German kids writing  their &quot;Kool Desktop Environment&quot; didn't realise.</p><p>After that came WinME and Windows 2000, which turned down the bling a bit as the lawsuit was over, but it was only a blip.</p><p>Then came XP with its &quot;Fischer-Price&quot; themes.</p><p>Then  Vista with gratuitous transparency everywhere because GDI.EXE had been  ripped out and replaced with a compositor  and that's no fun if you  don't use some 3D features like see-through stuff.</p><p>Then 7 toned that down a bit and everyone love it.</p><p>Then  the universally detested Win8, and then that was toned down and the  Start menu put back for Win10, which is roughly what UKUI and Deepin  copied in China, or Wubuntu in the West.</p>Then Win11, as copied by  AnduinOS and a few others, which for this long-term Windows user is the  worst release ever. I can't even have a vertical taskbar any more. It's  abhorrent.&nbsp;<br /><br />(Content repurposed from here:<br /><br />https://news.ycombinator.com/item?id=45626910<br /><br />Inspired by this:<br /><br />https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and )<br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=96987" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments]]>
+      </description>
+      <source:markdown>No, honest, it did.
+
+Windows 2 was kinda ugly.
+
+[https://guidebookgallery.org/screenshots/win203](https://guidebookgallery.org/screenshots/win203)
+
+Windows 3/3.1/3.11 were fine.
+
+[https://guidebookgallery.org/screenshots/win30](https://guidebookgallery.org/screenshots/win30)
+
+Muted, boring, but you could look at it all day. And we did.
+
+95 improved it.
+
+[https://guidebookgallery.org/screenshots/win95osr2](https://guidebookgallery.org/screenshots/win95osr2)
+
+Tasteful greys, spot colour.
+
+NT 4 improved that a bit more.
+
+[https://guidebookgallery.org/screenshots/winnt40](https://guidebookgallery.org/screenshots/winnt40)
+
+Categorised Start menu, for instance. But nearly identical.
+
+95/NT4 were visibly inspired by NeXTstep, IMHO the most beautiful GUI ever written.
+
+Then it all started to go a bit wrong. The first pebbles bouncing down the mountainside presaging a vast avalanche.
+
+Windows 98.
+
+[https://guidebookgallery.org/screenshots/win98](https://guidebookgallery.org/screenshots/win98)
+
+IE4 built in so Microsoft didn&#39;t get broken up my the US DOJ. Explorer rendered local content via HTML. Ugly extra toolbars. Some floating, some embedded in the task bar. Ugly gradients and blends in window title bars.
+
+Cheap and plastic and tacky.
+
+_But_ that is around the time that media and gaming PCs went mainstream, home internet use (often over dialup) went mainstream, and the alternatives died out (Amiga, ST &#38; GEM, Arm &#38; RISC OS) or very nearly died (classic MacOS, NeXT merger, Rhapsody).
+
+So it&#39;s what many saw first and loved and remembered.
+
+Result, people write entire new OSes designed in affectionate homage:
+
+[https://serenityos.org/](https://serenityos.org/)
+
+Look at the toolbars. Look at the textures in the title bars. This isn&#39;t Win9x, this is specifically Win98.
+
+[https://www.digibarn.com/collections/screenshots/KDE%201-x/i...](https://www.digibarn.com/collections/screenshots/KDE%201-x/index.htm)
+
+Specifically:
+
+[https://www.digibarn.com/collections/screenshots/KDE%201-x/h...](https://www.digibarn.com/collections/screenshots/KDE%201-x/hansen1.jpg)
+
+&#60;\- textured title bars
+
+[https://www.digibarn.com/collections/screenshots/KDE%201-x/t...](https://www.digibarn.com/collections/screenshots/KDE%201-x/tinypanel.jpg)
+
+&#60;\- gradients in title bars
+
+[https://www.digibarn.com/collections/screenshots/KDE%201-x/m...](https://www.digibarn.com/collections/screenshots/KDE%201-x/matthiase2.jpg)
+
+&#60;\- Windows-style colour schemes
+
+KDE started out as a reproduction of Windows 98/98SE by a team who didn&#39;t realise that what they were looking at was WordPerfect 5.x instead of WordPerfect 4.x -- as the late great Guy Kewney put it:
+
+&#34;WordPerfect 4.2 was a bicycle. A great bicycle. Everyone agreed it was a great bicycle, just about _the_ best. So what Wordperfect did was, they put together a committee, looked at the market, and said: &#39;what we&#39;ll do is, we&#39;ll put 11 more wheels on it&#39;.&#34;
+
+Win98 is Win95 festooned with pointless needless Internet widgetry because the DOJ was about to split MS into separate apps and OS companies, because MS drove Netscape into bankruptcy by bundling IE free of charge with Windows.
+
+Strip all that junk off and what&#39;s left underneath is a better UI. But the German kids writing their &#34;Kool Desktop Environment&#34; didn&#39;t realise.
+
+After that came WinME and Windows 2000, which turned down the bling a bit as the lawsuit was over, but it was only a blip.
+
+Then came XP with its &#34;Fischer-Price&#34; themes.
+
+Then Vista with gratuitous transparency everywhere because GDI.EXE had been ripped out and replaced with a compositor and that&#39;s no fun if you don&#39;t use some 3D features like see-through stuff.
+
+Then 7 toned that down a bit and everyone love it.
+
+Then the universally detested Win8, and then that was toned down and the Start menu put back for Win10, which is roughly what UKUI and Deepin copied in China, or Wubuntu in the West.
+
+Then Win11, as copied by AnduinOS and a few others, which for this long-term Windows user is the worst release ever. I can&#39;t even have a vertical taskbar any more. It&#39;s abhorrent.
+
+(Content repurposed from here:
+
+https://news.ycombinator.com/item?id=45626910
+
+Inspired by this:
+
+https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and )
+
+![comment count unavailable](https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&#38;ditemid=96987) comments</source:markdown>
+      <guid>cid://https://liam-on-linux.dreamwidth.org/96987.html</guid>
+    </item>    <item>
+      <title>October 18, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-18-2025-0f3</link>
+      <enclosure url="https://api.substack.com/feed/podcast/176577316/3a193e759f24c67f4bc7bda2ae73303a.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-18-2025-0f3</guid>
+    </item>    <item>
+      <title>Sunday session in Cork</title>
+      <link>https://adactio.com/notes/22201</link>
+      <description>
+        <![CDATA[<img src="https://adactio.com/images/uploaded/22201/small.jpg" srcset="https://adactio.com/images/uploaded/22201/medium.jpg 1.5x, https://adactio.com/images/uploaded/22201/large.jpg 2.5x" alt="Sunday session in Cork" />
+        <p>Sunday session in Cork</p>]]>
+      </description>
+      <source:markdown>![Sunday session in Cork](https://adactio.com/images/uploaded/22201/small.jpg)
+
+Sunday session in Cork</source:markdown>
+      <guid>cid://https://adactio.com/notes/22201</guid>
+    </item>    <item>
+      <title>You Again [en]</title>
+      <link>https://climbtothestars.org/archives/2025/10/19/you-again/</link>
+      <description>
+        <![CDATA[[en] Oh hai It’s you againI thought I’d dealt with youWritten your ugly face into oblivion I know, I did too muchYesterdayI was happy to finally do thingsThat had been nagging at me for months OK, I didn’t do what was plannedBut heyI did do stuffThat needed to be done So I guess it’s my &#8230; <a href="https://climbtothestars.org/archives/2025/10/19/you-again/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>You Again <span class='bb-lang'>[en]</span></span>"</span></a>]]>
+      </description>
+      <source:markdown>\[en\] Oh hai It’s you againI thought I’d dealt with youWritten your ugly face into oblivion I know, I did too muchYesterdayI was happy to finally do thingsThat had been nagging at me for months OK, I didn’t do what was plannedBut heyI did do stuffThat needed to be done So I guess it’s my … [Continue reading &#34;You Again \[en\]&#34;](https://climbtothestars.org/archives/2025/10/19/you-again/)</source:markdown>
+      <guid>cid://https://climbtothestars.org/?p=10204</guid>
+    </item>    <item>
+      <link>https://www.texasobserver.org/gina-hinojosa-campaign-for-texas-governor/</link>
+      <description>
+        <![CDATA[<p>'Failures and Grift’: Gina Hinojosa Wants to Stop Greg Abbott from Making History.</p>]]>
+      </description>
+      <source:markdown>&#39;Failures and Grift’: Gina Hinojosa Wants to Stop Greg Abbott from Making History.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/19/1565/</guid>
+    </item>    <item>
+      <title>gssrdoc Updates</title>
+      <link>https://kieranhealy.org/blog/archives/2025/10/19/gssrdoc-updates/</link>
+      <description>
+        <![CDATA[<p>Regular readers know that I maintain <a href="https://kjhealy.github.io/gssr/"><code>gssr</code></a> and <a href="https://kjhealy.github.io/gssrdoc/"><code>gssrdoc</code></a>, two packages for <a href="https://www.r-project.org">R</a>. The former makes the <a href="http://gss.norc.org/">General Social Survey</a>&rsquo;s annual, cumulative and panel datasets available in a way that&rsquo;s easy to use in R. The latter makes the survey&rsquo;s codebook available in R&rsquo;s integrated help system in a way that documents every GSS variable as if it were a function or object in R, so you can query them in exactly the same way as any function from the R console or in the IDE of your choice. As a bonus, because I use <a href="https://pkgdown.r-lib.org"><code>pkgdown</code></a> to document the packages, I get a website as a side-effect. In the case of <code>gssrdoc</code> this means <a href="https://kjhealy.github.io/gssrdoc/reference/index.html">a browsable index of all the GSS variables</a>. The GSS is the Hubble Space Telescope of American social science; our longest-running representative view of many aspects of the character and opinions of American households. The data is <a href="https://gss.norc.org">freely available from NORC</a>, but they distribute it in SPSS, SAS, and STATA formats. I wrote these packages in an effort to make it more easily available in <a href="https://www.r-project.org">R</a>. If you want to know the relationship between these various platforms, <a href="https://kieranhealy.org/blog/archives/2019/02/07/statswars/">I have you covered</a>. But the important thing is that R is a free and open-source project, and the others are not.</p>
+        <p>This week I spent a little time updating <code>gssrdoc</code> a bit to clean up how the help pages looked and make some other improvements. Inside R, you can say, e.g., <code>?govdook</code> at the console and have this pop up in the help:</p>
+        <figure><a href="https://kieranhealy.org/blog/archives/2025/10/19/gssrdoc-updates/gssrdoc-rstudio.png" data-fancybox>
+            <img src="https://kieranhealy.org/blog/archives/2025/10/19/gssrdoc-updates/gssrdoc-rstudio.png"
+                 alt="RStudio with help page for govdook"/></a><figcaption>
+                    <p>Yeah govdook is short for &lsquo;Gov Do OK&rsquo;, not &lsquo;Dook&rsquo;.</p>
+                </figcaption>
+        </figure>
+        <p>The package also includes <code>gss_doc</code>, a data frame containing all of the information that the help pages are built from. I included it because it can be useful to work with directly, as when you might want to extract summary information about a subset of variables.</p>
+        <div class="highlight-wrapper">
+            
+            
+                <div class="highlight"><div class="chroma">
+        <table class="lntable"><tr><td class="lntd">
+        <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+        </span><span class="lnt"> 2
+        </span><span class="lnt"> 3
+        </span><span class="lnt"> 4
+        </span><span class="lnt"> 5
+        </span><span class="lnt"> 6
+        </span><span class="lnt"> 7
+        </span><span class="lnt"> 8
+        </span><span class="lnt"> 9
+        </span><span class="lnt">10
+        </span><span class="lnt">11
+        </span><span class="lnt">12
+        </span><span class="lnt">13
+        </span><span class="lnt">14
+        </span><span class="lnt">15
+        </span><span class="lnt">16
+        </span><span class="lnt">17
+        </span><span class="lnt">18
+        </span></code></pre></td>
+        <td class="lntd">
+        <pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="nf">library</span><span class="p">(</span><span class="n">tibble</span><span class="p">)</span>
+        </span></span><span class="line"><span class="cl"><span class="nf">library</span><span class="p">(</span><span class="n">gssrdoc</span><span class="p">)</span>
+        </span></span><span class="line"><span class="cl">
+        </span></span><span class="line"><span class="cl"><span class="n">gss_doc</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; # A tibble: 6,694 × 10</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;    variable description                           question         value_labels var_yrtab yrballot_df module_df subject_df norc_id norc_url</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;    &lt;chr&gt;    &lt;chr&gt;                                 &lt;chr&gt;            &lt;chr&gt;        &lt;list&gt;    &lt;list&gt;      &lt;list&gt;    &lt;list&gt;       &lt;int&gt; &lt;chr&gt;   </span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;  1 year     GSS year for this respondent          &#34;GSS year&#34;       &#34;[NA(d)] do… &lt;chr [1]&gt; &lt;tibble&gt;    &lt;tibble&gt;  &lt;tibble&gt;         1 https:/…</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;  2 id       Respondent id number                  &#34;Respondent id … &#34;&#34;           &lt;chr [1]&gt; &lt;tibble&gt;    &lt;tibble&gt;  &lt;tibble&gt;         2 https:/…</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;  3 wrkstat  labor force status                    &#34;Last week were… &#34;[1] workin… &lt;tibble&gt;  &lt;tibble&gt;    &lt;tibble&gt;  &lt;tibble&gt;         3 https:/…</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;  4 hrs1     number of hours worked last week      &#34;Last week were… &#34;[89] 89+ h… &lt;chr [1]&gt; &lt;tibble&gt;    &lt;tibble&gt;  &lt;tibble&gt;         4 https:/…</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;  5 hrs2     number of hours usually work a week   &#34;Last week were… &#34;[89] 89+ h… &lt;tibble&gt;  &lt;tibble&gt;    &lt;tibble&gt;  &lt;tibble&gt;         5 https:/…</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;  6 evwork   ever work as long as one year         &#34;Last week were… &#34;[1] yes / … &lt;tibble&gt;  &lt;tibble&gt;    &lt;tibble&gt;  &lt;tibble&gt;         6 https:/…</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;  7 occ      R&#39;s census occupation code (1970)     &#34;A. What kind o… &#34;[NA(d)] do… &lt;chr [1]&gt; &lt;tibble&gt;    &lt;tibble&gt;  &lt;tibble&gt;         7 https:/…</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;  8 prestige r&#39;s occupational prestige score(1970) &#34;A. What kind o… &#34;[NA(d)] do… &lt;tibble&gt;  &lt;tibble&gt;    &lt;tibble&gt;  &lt;tibble&gt;         8 https:/…</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;  9 wrkslf   r self-emp or works for somebody      &#34;A. What kind o… &#34;[1] self-e… &lt;tibble&gt;  &lt;tibble&gt;    &lt;tibble&gt;  &lt;tibble&gt;         9 https:/…</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; 10 wrkgovt  govt or private employee              &#34;A. What kind o… &#34;[1] govern… &lt;tibble&gt;  &lt;tibble&gt;    &lt;tibble&gt;  &lt;tibble&gt;        10 https:/…</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; # ℹ 6,684 more rows</span></span></span></code></pre></td></tr></table>
+        </div>
+        </div>
+            
+        </div>
+        
+        <p>The <code>gss_doc</code> object has regular columns but also a series of <a href="https://tidyr.tidyverse.org/articles/nest.html">list-columns</a> to (insert meme here, you know the one) put data frames inside your data frames. (They&rsquo;re labeled as &ldquo;<a href="https://tibble.tidyverse.org">tibbles</a>&rdquo; here; basically the same thing).</p>
+        <p>Why a list-column? Why a list? Well, a list is one of the fundamental ways to store data of any sort. Lists are useful because they can contain heterogeneous elements:</p>
+        <div class="highlight-wrapper">
+            
+            
+                <div class="highlight"><div class="chroma">
+        <table class="lntable"><tr><td class="lntd">
+        <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+        </span><span class="lnt"> 2
+        </span><span class="lnt"> 3
+        </span><span class="lnt"> 4
+        </span><span class="lnt"> 5
+        </span><span class="lnt"> 6
+        </span><span class="lnt"> 7
+        </span><span class="lnt"> 8
+        </span><span class="lnt"> 9
+        </span><span class="lnt">10
+        </span><span class="lnt">11
+        </span><span class="lnt">12
+        </span><span class="lnt">13
+        </span><span class="lnt">14
+        </span><span class="lnt">15
+        </span><span class="lnt">16
+        </span><span class="lnt">17
+        </span><span class="lnt">18
+        </span><span class="lnt">19
+        </span></code></pre></td>
+        <td class="lntd">
+        <pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="n">items</span> <span class="o">&lt;-</span> <span class="nf">list</span><span class="p">(</span>
+        </span></span><span class="line"><span class="cl">  <span class="n">todo_home</span> <span class="o">=</span> <span class="nf">c</span><span class="p">(</span><span class="s">&#34;Laundry&#34;</span><span class="p">,</span> <span class="s">&#34;Clean bathroom&#34;</span><span class="p">,</span> <span class="s">&#34;Feed cat&#34;</span><span class="p">,</span> <span class="s">&#34;Bring out rubbish bins&#34;</span><span class="p">),</span>
+        </span></span><span class="line"><span class="cl">  <span class="n">important_dates</span> <span class="o">=</span> <span class="nf">as.Date</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="s">&#34;1776-07-04&#34;</span><span class="p">,</span> <span class="s">&#34;1788-06-21&#34;</span><span class="p">,</span> <span class="s">&#34;2025-01-18&#34;</span><span class="p">)),</span>
+        </span></span><span class="line"><span class="cl">  <span class="n">keycode</span> <span class="o">=</span> <span class="m">8675309</span><span class="p">,</span>
+        </span></span><span class="line"><span class="cl">  <span class="n">storage_tiers</span> <span class="o">=</span> <span class="nf">c</span><span class="p">(</span><span class="m">128</span><span class="p">,</span> <span class="m">256</span><span class="p">,</span> <span class="m">512</span><span class="p">,</span> <span class="m">1024</span><span class="p">)</span>
+        </span></span><span class="line"><span class="cl"><span class="p">)</span>
+        </span></span><span class="line"><span class="cl">
+        </span></span><span class="line"><span class="cl"><span class="n">items</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; $todo_home</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; [1] &#34;Laundry&#34;                &#34;Clean bathroom&#34;         &#34;Feed cat&#34;               &#34;Bring out rubbish bins&#34;</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; </span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; $important_dates</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; [1] &#34;1776-07-04&#34; &#34;1788-06-21&#34; &#34;2025-01-18&#34;</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; </span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; $keycode</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; [1] 8675309</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; </span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; $storage_tiers</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; [1]  128  256  512 1024</span></span></span></code></pre></td></tr></table>
+        </div>
+        </div>
+            
+        </div>
+        
+        <p>One thing to notice about a list like this is that it doesn&rsquo;t really make sense to represent it as a table. This is partly because the elements of the list are of different lengths, but really it&rsquo;s because if we <em>did</em> represent it as a table, it would not mean anything to read across the rows:</p>
+        <div class="highlight-wrapper">
+            
+            
+                <div class="highlight"><div class="chroma">
+        <table class="lntable"><tr><td class="lntd">
+        <pre tabindex="0" class="chroma"><code><span class="lnt">1
+        </span><span class="lnt">2
+        </span><span class="lnt">3
+        </span><span class="lnt">4
+        </span><span class="lnt">5
+        </span><span class="lnt">6
+        </span><span class="lnt">7
+        </span><span class="lnt">8
+        </span></code></pre></td>
+        <td class="lntd">
+        <pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="n">items_df</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; # A tibble: 4 × 4</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;   todo_home              important_dates keycode storage_tiers</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;   &lt;chr&gt;                  &lt;date&gt;            &lt;int&gt;         &lt;int&gt;</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; 1 Laundry                1776-07-04      8675309           128</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; 2 Clean bathroom         1788-06-21           -            256</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; 3 Feed cat               2025-01-18           -            512</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; 4 Bring out rubbish bins -                    -           1024</span></span></span></code></pre></td></tr></table>
+        </div>
+        </div>
+            
+        </div>
+        
+        <p>The rows don&rsquo;t form &ldquo;cases&rdquo; of anything. We just have four unrelated categories with various pieces of information in them.</p>
+        <p>Lists are also useful because they lend themselves easily to being nested:</p>
+        <div class="highlight-wrapper">
+            
+            
+                <div class="highlight"><div class="chroma">
+        <table class="lntable"><tr><td class="lntd">
+        <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+        </span><span class="lnt"> 2
+        </span><span class="lnt"> 3
+        </span><span class="lnt"> 4
+        </span><span class="lnt"> 5
+        </span><span class="lnt"> 6
+        </span><span class="lnt"> 7
+        </span><span class="lnt"> 8
+        </span><span class="lnt"> 9
+        </span><span class="lnt">10
+        </span><span class="lnt">11
+        </span><span class="lnt">12
+        </span><span class="lnt">13
+        </span><span class="lnt">14
+        </span><span class="lnt">15
+        </span><span class="lnt">16
+        </span><span class="lnt">17
+        </span><span class="lnt">18
+        </span><span class="lnt">19
+        </span><span class="lnt">20
+        </span><span class="lnt">21
+        </span><span class="lnt">22
+        </span><span class="lnt">23
+        </span><span class="lnt">24
+        </span><span class="lnt">25
+        </span><span class="lnt">26
+        </span><span class="lnt">27
+        </span><span class="lnt">28
+        </span><span class="lnt">29
+        </span><span class="lnt">30
+        </span><span class="lnt">31
+        </span><span class="lnt">32
+        </span><span class="lnt">33
+        </span><span class="lnt">34
+        </span><span class="lnt">35
+        </span><span class="lnt">36
+        </span><span class="lnt">37
+        </span><span class="lnt">38
+        </span></code></pre></td>
+        <td class="lntd">
+        <pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="n">items</span> <span class="o">&lt;-</span> <span class="nf">list</span><span class="p">(</span>
+        </span></span><span class="line"><span class="cl">  <span class="n">todo_home</span> <span class="o">=</span> <span class="nf">list</span><span class="p">(</span>
+        </span></span><span class="line"><span class="cl">    <span class="n">tasks</span> <span class="o">=</span> <span class="nf">c</span><span class="p">(</span><span class="s">&#34;Laundry&#34;</span><span class="p">,</span> <span class="s">&#34;Clean bathroom&#34;</span><span class="p">,</span> <span class="s">&#34;Feed cat&#34;</span><span class="p">,</span> <span class="s">&#34;Bring out rubbish bins&#34;</span><span class="p">),</span>
+        </span></span><span class="line"><span class="cl">    <span class="n">tobuy</span> <span class="o">=</span> <span class="nf">c</span><span class="p">(</span><span class="s">&#34;Cat Food&#34;</span><span class="p">,</span> <span class="s">&#34;Burritos&#34;</span><span class="p">),</span> 
+        </span></span><span class="line"><span class="cl">    <span class="n">wifi_password</span> <span class="o">=</span> <span class="s">&#34;p@ssw0rd!&#34;</span>
+        </span></span><span class="line"><span class="cl">  <span class="p">),</span>
+        </span></span><span class="line"><span class="cl">  <span class="n">important_dates</span> <span class="o">=</span> <span class="nf">as.Date</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="s">&#34;1776-07-04&#34;</span><span class="p">,</span> <span class="s">&#34;1788-06-21&#34;</span><span class="p">,</span> <span class="s">&#34;2025-01-18&#34;</span><span class="p">)),</span>
+        </span></span><span class="line"><span class="cl">  <span class="n">keycode</span> <span class="o">=</span> <span class="m">8675309</span><span class="p">,</span>
+        </span></span><span class="line"><span class="cl">  <span class="n">storage_tiers</span> <span class="o">=</span> <span class="nf">list</span><span class="p">(</span>
+        </span></span><span class="line"><span class="cl">    <span class="n">ssd</span> <span class="o">=</span> <span class="nf">c</span><span class="p">(</span><span class="m">128</span><span class="p">,</span> <span class="m">256</span><span class="p">,</span> <span class="m">512</span><span class="p">,</span> <span class="m">1024</span><span class="p">),</span>
+        </span></span><span class="line"><span class="cl">    <span class="n">ram</span> <span class="o">=</span> <span class="nf">c</span><span class="p">(</span><span class="m">1</span><span class="p">,</span> <span class="m">4</span><span class="p">,</span> <span class="m">8</span><span class="p">)</span>
+        </span></span><span class="line"><span class="cl">  <span class="p">)</span>
+        </span></span><span class="line"><span class="cl"><span class="p">)</span>
+        </span></span><span class="line"><span class="cl">
+        </span></span><span class="line"><span class="cl"><span class="n">items</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; $todo_home</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; $todo_home$tasks</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; [1] &#34;Laundry&#34;                &#34;Clean bathroom&#34;         &#34;Feed cat&#34;               &#34;Bring out rubbish bins&#34;</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; </span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; $todo_home$tobuy</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; [1] &#34;Cat Food&#34; &#34;Burritos&#34;</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; </span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; $todo_home$wifi_password</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; [1] &#34;p@ssw0rd!&#34;</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; </span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; </span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; $important_dates</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; [1] &#34;1776-07-04&#34; &#34;1788-06-21&#34; &#34;2025-01-18&#34;</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; </span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; $keycode</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; [1] 8675309</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; </span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; $storage_tiers</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; $storage_tiers$ssd</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; [1]  128  256  512 1024</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; </span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; $storage_tiers$ram</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; [1] 1 4 8</span></span></span></code></pre></td></tr></table>
+        </div>
+        </div>
+            
+        </div>
+        
+        <p>In its bones, R is a LISP/Scheme-like list-processing language fused with features of classic <a href="https://en.wikipedia.org/wiki/Array_programming">array languages</a> like APL. This is because, in the world of data analysis, what we deal with all the time are rectangular tables, or arrays, where rows are cases and columns are different sorts of variables. The wrinkle is that, unlike a beautiful array of pure numbers, each column might measure something (a date, a True/False answer, a location, a score, a nationality) that we&rsquo;d prefer not to represent directly as a number. Sure, underneath in the computer everything is all just ones and zeros. (Or rather, electromagnetic patterns in some physical substrate that we can interpret as meaning ones and zeros.) And if we want to do any sort of data analysis that involves treating our table as a matrix then we&rsquo;ll want numeric representations of all the columns. But for many uses we&rsquo;d like to see &ldquo;France&rdquo; or &ldquo;Strongly Agree&rdquo; instead of &ldquo;33&rdquo; or &ldquo;5&rdquo;. Just a table of rows and columns, where different things can be represented across columns, but any particular column is all the same kind of thing.</p>
+        <p>A rectangular table like that is called a data frame. One way to think of a data frame is just as a special case of a list. A data frame is a list where you can put all the list elements side by side and treat them as columns, and where all these elements are made of vectors of the same length. Beyond that, it&rsquo;s a list where the nth element of each vector refers to some property of the same underlying entity, i.e. the thing that&rsquo;s in the row, or case; the thing the columns are showing you measurements or properties of. You can have empty entries if needed, as when some bit of data is missing. The important thing is that each column has as many slots as there are cases, and you fill in the values for each case in the same slot in each column. Whenever you look at any table of data, one of your first questions should always be &ldquo;What is a row in this table?&rdquo; In this case, each row is a variable in the full GSS dataset, and each column describes some property of that variable.</p>
+        <div class="highlight-wrapper">
+            
+            
+                <div class="highlight"><div class="chroma">
+        <table class="lntable"><tr><td class="lntd">
+        <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+        </span><span class="lnt"> 2
+        </span><span class="lnt"> 3
+        </span><span class="lnt"> 4
+        </span><span class="lnt"> 5
+        </span><span class="lnt"> 6
+        </span><span class="lnt"> 7
+        </span><span class="lnt"> 8
+        </span><span class="lnt"> 9
+        </span><span class="lnt">10
+        </span><span class="lnt">11
+        </span><span class="lnt">12
+        </span><span class="lnt">13
+        </span><span class="lnt">14
+        </span><span class="lnt">15
+        </span><span class="lnt">16
+        </span><span class="lnt">17
+        </span><span class="lnt">18
+        </span></code></pre></td>
+        <td class="lntd">
+        <pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="nf">library</span><span class="p">(</span><span class="n">tibble</span><span class="p">)</span>
+        </span></span><span class="line"><span class="cl"><span class="nf">library</span><span class="p">(</span><span class="n">gssrdoc</span><span class="p">)</span>
+        </span></span><span class="line"><span class="cl">
+        </span></span><span class="line"><span class="cl"><span class="n">gss_doc</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; # A tibble: 6,694 × 10</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;    variable description                           question         value_labels var_yrtab yrballot_df module_df subject_df norc_id norc_url</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;    &lt;chr&gt;    &lt;chr&gt;                                 &lt;chr&gt;            &lt;chr&gt;        &lt;list&gt;    &lt;list&gt;      &lt;list&gt;    &lt;list&gt;       &lt;int&gt; &lt;chr&gt;   </span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;  1 year     GSS year for this respondent          &#34;GSS year&#34;       &#34;[NA(d)] do… &lt;chr [1]&gt; &lt;tibble&gt;    &lt;tibble&gt;  &lt;tibble&gt;         1 https:/…</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;  2 id       Respondent id number                  &#34;Respondent id … &#34;&#34;           &lt;chr [1]&gt; &lt;tibble&gt;    &lt;tibble&gt;  &lt;tibble&gt;         2 https:/…</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;  3 wrkstat  labor force status                    &#34;Last week were… &#34;[1] workin… &lt;tibble&gt;  &lt;tibble&gt;    &lt;tibble&gt;  &lt;tibble&gt;         3 https:/…</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;  4 hrs1     number of hours worked last week      &#34;Last week were… &#34;[89] 89+ h… &lt;chr [1]&gt; &lt;tibble&gt;    &lt;tibble&gt;  &lt;tibble&gt;         4 https:/…</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;  5 hrs2     number of hours usually work a week   &#34;Last week were… &#34;[89] 89+ h… &lt;tibble&gt;  &lt;tibble&gt;    &lt;tibble&gt;  &lt;tibble&gt;         5 https:/…</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;  6 evwork   ever work as long as one year         &#34;Last week were… &#34;[1] yes / … &lt;tibble&gt;  &lt;tibble&gt;    &lt;tibble&gt;  &lt;tibble&gt;         6 https:/…</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;  7 occ      R&#39;s census occupation code (1970)     &#34;A. What kind o… &#34;[NA(d)] do… &lt;chr [1]&gt; &lt;tibble&gt;    &lt;tibble&gt;  &lt;tibble&gt;         7 https:/…</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;  8 prestige r&#39;s occupational prestige score(1970) &#34;A. What kind o… &#34;[NA(d)] do… &lt;tibble&gt;  &lt;tibble&gt;    &lt;tibble&gt;  &lt;tibble&gt;         8 https:/…</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt;  9 wrkslf   r self-emp or works for somebody      &#34;A. What kind o… &#34;[1] self-e… &lt;tibble&gt;  &lt;tibble&gt;    &lt;tibble&gt;  &lt;tibble&gt;         9 https:/…</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; 10 wrkgovt  govt or private employee              &#34;A. What kind o… &#34;[1] govern… &lt;tibble&gt;  &lt;tibble&gt;    &lt;tibble&gt;  &lt;tibble&gt;        10 https:/…</span>
+        </span></span><span class="line"><span class="cl"><span class="c1">#&gt; # ℹ 6,684 more rows</span></span></span></code></pre></td></tr></table>
+        </div>
+        </div>
+            
+        </div>
+        
+        <p>Because R was designed by statisticians&mdash;R is a descendant of <a href="https://en.wikipedia.org/wiki/S_(programming_language)">S</a>, which like everything else in computing traces its origins to <a href="https://en.wikipedia.org/wiki/S_(programming_language)">Bell Labs</a>&mdash;it has this concept of a data frame built-in to its core instead of being bolted-on afterwards, which is extremely handy. Normally data frames are just ordinary rectangles, but there&rsquo;s no reason why any particular column can&rsquo;t itself be thought of as a list of something else. That&rsquo;s what we have here. The <code>yr_vartab</code> column contains data frames of crosstabs of the answers to each question by year. Except where it doesn&rsquo;t (e.g. for <code>id</code>), and this is fine because lists don&rsquo;t have to be internally homogeneous. Similarly <code>yrballot_df</code> has a little table of which ballots, or internal portions of the survey, a question was asked on for each year it was asked.</p>
+        <p>The upshot is that having assembled the <code>gss_doc</code> object we can use it to emit, like, seven thousand pages of documentation on the GSS&rsquo;s many, many questions over the years. We can build them as standardized R help pages, as above. On the <a href="https://kjhealy.github.io/gssrdoc/index.html">website</a> that <code>pgkdown</code> builds for us, we get this:</p>
+        <figure><a href="https://kieranhealy.org/blog/archives/2025/10/19/gssrdoc-updates/gssrdoc-varpage.png" data-fancybox>
+            <img src="https://kieranhealy.org/blog/archives/2025/10/19/gssrdoc-updates/gssrdoc-varpage.png"
+                 alt="Website view."/></a><figcaption>
+                    <p>Website view.</p>
+                </figcaption>
+        </figure>
+        <p>The cross-referencing to other relevant variables in the &ldquo;See Also&rdquo; section is new in this version. It comes courtesy of the GSS&rsquo;s own information about survey modules and an ad hoc topic index they keep for the variables. I just use a subset of possible cross-references as we don&rsquo;t want, e.g., every single question in the GSS core to be cross-referenced to every other core question on any particular help page. On the website, I gather these into a <a href="https://kjhealy.github.io/gssrdoc/articles/topics.html">single page</a>:</p>
+        <figure><a href="https://kieranhealy.org/blog/archives/2025/10/19/gssrdoc-updates/gssrdoc-topics.png" data-fancybox>
+            <img src="https://kieranhealy.org/blog/archives/2025/10/19/gssrdoc-updates/gssrdoc-topics.png"
+                 alt="Topic index page."/></a><figcaption>
+                    <p>Topic index page.</p>
+                </figcaption>
+        </figure>
+        <p>The GSS has its own handy <a href="https://gssdataexplorer.norc.org">data explorer</a> which is very useful for quickly checking on particular trends and getting a quick graph of what the data look like, or a summary view of the content of particular variables. Each help page in <code>gssrdoc</code> now links to the GSS Data Explorer page for that variable, in case you want to hop over and take a look there. Of course, the <code>gssrdoc</code> package doesn&rsquo;t and isn&rsquo;t meant to replace the Data Explorer; it&rsquo;s just a different view of the same information, with a different use-case in mind.</p>]]>
+      </description>
+      <source:markdown>Regular readers know that I maintain [`gssr`](https://kjhealy.github.io/gssr/) and [`gssrdoc`](https://kjhealy.github.io/gssrdoc/), two packages for [R](https://www.r-project.org). The former makes the [General Social Survey](http://gss.norc.org/)’s annual, cumulative and panel datasets available in a way that’s easy to use in R. The latter makes the survey’s codebook available in R’s integrated help system in a way that documents every GSS variable as if it were a function or object in R, so you can query them in exactly the same way as any function from the R console or in the IDE of your choice. As a bonus, because I use [`pkgdown`](https://pkgdown.r-lib.org) to document the packages, I get a website as a side-effect. In the case of `gssrdoc` this means [a browsable index of all the GSS variables](https://kjhealy.github.io/gssrdoc/reference/index.html). The GSS is the Hubble Space Telescope of American social science; our longest-running representative view of many aspects of the character and opinions of American households. The data is [freely available from NORC](https://gss.norc.org), but they distribute it in SPSS, SAS, and STATA formats. I wrote these packages in an effort to make it more easily available in [R](https://www.r-project.org). If you want to know the relationship between these various platforms, [I have you covered](https://kieranhealy.org/blog/archives/2019/02/07/statswars/). But the important thing is that R is a free and open-source project, and the others are not.
+
+This week I spent a little time updating `gssrdoc` a bit to clean up how the help pages looked and make some other improvements. Inside R, you can say, e.g., `?govdook` at the console and have this pop up in the help:
+
+[![RStudio with help page for govdook](https://kieranhealy.org/blog/archives/2025/10/19/gssrdoc-updates/gssrdoc-rstudio.png)](https://kieranhealy.org/blog/archives/2025/10/19/gssrdoc-updates/gssrdoc-rstudio.png)
+
+Yeah govdook is short for ‘Gov Do OK’, not ‘Dook’.
+
+The package also includes `gss_doc`, a data frame containing all of the information that the help pages are built from. I included it because it can be useful to work with directly, as when you might want to extract summary information about a subset of variables.
+
+```
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+
+```
+
+```r
+library(tibble)
+library(gssrdoc)
+
+gss_doc
+#&#62; # A tibble: 6,694 × 10
+#&#62;    variable description                           question         value_labels var_yrtab yrballot_df module_df subject_df norc_id norc_url
+#&#62;    &#60;chr&#62;    &#60;chr&#62;                                 &#60;chr&#62;            &#60;chr&#62;        &#60;list&#62;    &#60;list&#62;      &#60;list&#62;    &#60;list&#62;       &#60;int&#62; &#60;chr&#62;
+#&#62;  1 year     GSS year for this respondent          &#34;GSS year&#34;       &#34;[NA(d)] do… &#60;chr [1]&#62; &#60;tibble&#62;    &#60;tibble&#62;  &#60;tibble&#62;         1 https:/…
+#&#62;  2 id       Respondent id number                  &#34;Respondent id … &#34;&#34;           &#60;chr [1]&#62; &#60;tibble&#62;    &#60;tibble&#62;  &#60;tibble&#62;         2 https:/…
+#&#62;  3 wrkstat  labor force status                    &#34;Last week were… &#34;[1] workin… &#60;tibble&#62;  &#60;tibble&#62;    &#60;tibble&#62;  &#60;tibble&#62;         3 https:/…
+#&#62;  4 hrs1     number of hours worked last week      &#34;Last week were… &#34;[89] 89+ h… &#60;chr [1]&#62; &#60;tibble&#62;    &#60;tibble&#62;  &#60;tibble&#62;         4 https:/…
+#&#62;  5 hrs2     number of hours usually work a week   &#34;Last week were… &#34;[89] 89+ h… &#60;tibble&#62;  &#60;tibble&#62;    &#60;tibble&#62;  &#60;tibble&#62;         5 https:/…
+#&#62;  6 evwork   ever work as long as one year         &#34;Last week were… &#34;[1] yes / … &#60;tibble&#62;  &#60;tibble&#62;    &#60;tibble&#62;  &#60;tibble&#62;         6 https:/…
+#&#62;  7 occ      R&#39;s census occupation code (1970)     &#34;A. What kind o… &#34;[NA(d)] do… &#60;chr [1]&#62; &#60;tibble&#62;    &#60;tibble&#62;  &#60;tibble&#62;         7 https:/…
+#&#62;  8 prestige r&#39;s occupational prestige score(1970) &#34;A. What kind o… &#34;[NA(d)] do… &#60;tibble&#62;  &#60;tibble&#62;    &#60;tibble&#62;  &#60;tibble&#62;         8 https:/…
+#&#62;  9 wrkslf   r self-emp or works for somebody      &#34;A. What kind o… &#34;[1] self-e… &#60;tibble&#62;  &#60;tibble&#62;    &#60;tibble&#62;  &#60;tibble&#62;         9 https:/…
+#&#62; 10 wrkgovt  govt or private employee              &#34;A. What kind o… &#34;[1] govern… &#60;tibble&#62;  &#60;tibble&#62;    &#60;tibble&#62;  &#60;tibble&#62;        10 https:/…
+#&#62; # ℹ 6,684 more rows
+```
+
+The `gss_doc` object has regular columns but also a series of [list-columns](https://tidyr.tidyverse.org/articles/nest.html) to (insert meme here, you know the one) put data frames inside your data frames. (They’re labeled as “ [tibbles](https://tibble.tidyverse.org)” here; basically the same thing).
+
+Why a list-column? Why a list? Well, a list is one of the fundamental ways to store data of any sort. Lists are useful because they can contain heterogeneous elements:
+
+```
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+
+```
+
+```r
+items &#60;- list(
+  todo_home = c(&#34;Laundry&#34;, &#34;Clean bathroom&#34;, &#34;Feed cat&#34;, &#34;Bring out rubbish bins&#34;),
+  important_dates = as.Date(c(&#34;1776-07-04&#34;, &#34;1788-06-21&#34;, &#34;2025-01-18&#34;)),
+  keycode = 8675309,
+  storage_tiers = c(128, 256, 512, 1024)
+)
+
+items
+#&#62; $todo_home
+#&#62; [1] &#34;Laundry&#34;                &#34;Clean bathroom&#34;         &#34;Feed cat&#34;               &#34;Bring out rubbish bins&#34;
+#&#62;
+#&#62; $important_dates
+#&#62; [1] &#34;1776-07-04&#34; &#34;1788-06-21&#34; &#34;2025-01-18&#34;
+#&#62;
+#&#62; $keycode
+#&#62; [1] 8675309
+#&#62;
+#&#62; $storage_tiers
+#&#62; [1]  128  256  512 1024
+```
+
+One thing to notice about a list like this is that it doesn’t really make sense to represent it as a table. This is partly because the elements of the list are of different lengths, but really it’s because if we _did_ represent it as a table, it would not mean anything to read across the rows:
+
+```
+1
+2
+3
+4
+5
+6
+7
+8
+
+```
+
+```r
+items_df
+#&#62; # A tibble: 4 × 4
+#&#62;   todo_home              important_dates keycode storage_tiers
+#&#62;   &#60;chr&#62;                  &#60;date&#62;            &#60;int&#62;         &#60;int&#62;
+#&#62; 1 Laundry                1776-07-04      8675309           128
+#&#62; 2 Clean bathroom         1788-06-21           -            256
+#&#62; 3 Feed cat               2025-01-18           -            512
+#&#62; 4 Bring out rubbish bins -                    -           1024
+```
+
+The rows don’t form “cases” of anything. We just have four unrelated categories with various pieces of information in them.
+
+Lists are also useful because they lend themselves easily to being nested:
+
+```
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+```
+
+```r
+items &#60;- list(
+  todo_home = list(
+    tasks = c(&#34;Laundry&#34;, &#34;Clean bathroom&#34;, &#34;Feed cat&#34;, &#34;Bring out rubbish bins&#34;),
+    tobuy = c(&#34;Cat Food&#34;, &#34;Burritos&#34;),
+    wifi_password = &#34;p@ssw0rd!&#34;
+  ),
+  important_dates = as.Date(c(&#34;1776-07-04&#34;, &#34;1788-06-21&#34;, &#34;2025-01-18&#34;)),
+  keycode = 8675309,
+  storage_tiers = list(
+    ssd = c(128, 256, 512, 1024),
+    ram = c(1, 4, 8)
+  )
+)
+
+items
+#&#62; $todo_home
+#&#62; $todo_home$tasks
+#&#62; [1] &#34;Laundry&#34;                &#34;Clean bathroom&#34;         &#34;Feed cat&#34;               &#34;Bring out rubbish bins&#34;
+#&#62;
+#&#62; $todo_home$tobuy
+#&#62; [1] &#34;Cat Food&#34; &#34;Burritos&#34;
+#&#62;
+#&#62; $todo_home$wifi_password
+#&#62; [1] &#34;p@ssw0rd!&#34;
+#&#62;
+#&#62;
+#&#62; $important_dates
+#&#62; [1] &#34;1776-07-04&#34; &#34;1788-06-21&#34; &#34;2025-01-18&#34;
+#&#62;
+#&#62; $keycode
+#&#62; [1] 8675309
+#&#62;
+#&#62; $storage_tiers
+#&#62; $storage_tiers$ssd
+#&#62; [1]  128  256  512 1024
+#&#62;
+#&#62; $storage_tiers$ram
+#&#62; [1] 1 4 8
+```
+
+In its bones, R is a LISP/Scheme-like list-processing language fused with features of classic [array languages](https://en.wikipedia.org/wiki/Array_programming) like APL. This is because, in the world of data analysis, what we deal with all the time are rectangular tables, or arrays, where rows are cases and columns are different sorts of variables. The wrinkle is that, unlike a beautiful array of pure numbers, each column might measure something (a date, a True/False answer, a location, a score, a nationality) that we’d prefer not to represent directly as a number. Sure, underneath in the computer everything is all just ones and zeros. (Or rather, electromagnetic patterns in some physical substrate that we can interpret as meaning ones and zeros.) And if we want to do any sort of data analysis that involves treating our table as a matrix then we’ll want numeric representations of all the columns. But for many uses we’d like to see “France” or “Strongly Agree” instead of “33” or “5”. Just a table of rows and columns, where different things can be represented across columns, but any particular column is all the same kind of thing.
+
+A rectangular table like that is called a data frame. One way to think of a data frame is just as a special case of a list. A data frame is a list where you can put all the list elements side by side and treat them as columns, and where all these elements are made of vectors of the same length. Beyond that, it’s a list where the nth element of each vector refers to some property of the same underlying entity, i.e. the thing that’s in the row, or case; the thing the columns are showing you measurements or properties of. You can have empty entries if needed, as when some bit of data is missing. The important thing is that each column has as many slots as there are cases, and you fill in the values for each case in the same slot in each column. Whenever you look at any table of data, one of your first questions should always be “What is a row in this table?” In this case, each row is a variable in the full GSS dataset, and each column describes some property of that variable.
+
+```
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+
+```
+
+```r
+library(tibble)
+library(gssrdoc)
+
+gss_doc
+#&#62; # A tibble: 6,694 × 10
+#&#62;    variable description                           question         value_labels var_yrtab yrballot_df module_df subject_df norc_id norc_url
+#&#62;    &#60;chr&#62;    &#60;chr&#62;                                 &#60;chr&#62;            &#60;chr&#62;        &#60;list&#62;    &#60;list&#62;      &#60;list&#62;    &#60;list&#62;       &#60;int&#62; &#60;chr&#62;
+#&#62;  1 year     GSS year for this respondent          &#34;GSS year&#34;       &#34;[NA(d)] do… &#60;chr [1]&#62; &#60;tibble&#62;    &#60;tibble&#62;  &#60;tibble&#62;         1 https:/…
+#&#62;  2 id       Respondent id number                  &#34;Respondent id … &#34;&#34;           &#60;chr [1]&#62; &#60;tibble&#62;    &#60;tibble&#62;  &#60;tibble&#62;         2 https:/…
+#&#62;  3 wrkstat  labor force status                    &#34;Last week were… &#34;[1] workin… &#60;tibble&#62;  &#60;tibble&#62;    &#60;tibble&#62;  &#60;tibble&#62;         3 https:/…
+#&#62;  4 hrs1     number of hours worked last week      &#34;Last week were… &#34;[89] 89+ h… &#60;chr [1]&#62; &#60;tibble&#62;    &#60;tibble&#62;  &#60;tibble&#62;         4 https:/…
+#&#62;  5 hrs2     number of hours usually work a week   &#34;Last week were… &#34;[89] 89+ h… &#60;tibble&#62;  &#60;tibble&#62;    &#60;tibble&#62;  &#60;tibble&#62;         5 https:/…
+#&#62;  6 evwork   ever work as long as one year         &#34;Last week were… &#34;[1] yes / … &#60;tibble&#62;  &#60;tibble&#62;    &#60;tibble&#62;  &#60;tibble&#62;         6 https:/…
+#&#62;  7 occ      R&#39;s census occupation code (1970)     &#34;A. What kind o… &#34;[NA(d)] do… &#60;chr [1]&#62; &#60;tibble&#62;    &#60;tibble&#62;  &#60;tibble&#62;         7 https:/…
+#&#62;  8 prestige r&#39;s occupational prestige score(1970) &#34;A. What kind o… &#34;[NA(d)] do… &#60;tibble&#62;  &#60;tibble&#62;    &#60;tibble&#62;  &#60;tibble&#62;         8 https:/…
+#&#62;  9 wrkslf   r self-emp or works for somebody      &#34;A. What kind o… &#34;[1] self-e… &#60;tibble&#62;  &#60;tibble&#62;    &#60;tibble&#62;  &#60;tibble&#62;         9 https:/…
+#&#62; 10 wrkgovt  govt or private employee              &#34;A. What kind o… &#34;[1] govern… &#60;tibble&#62;  &#60;tibble&#62;    &#60;tibble&#62;  &#60;tibble&#62;        10 https:/…
+#&#62; # ℹ 6,684 more rows
+```
+
+Because R was designed by statisticians—R is a descendant of [S](https://en.wikipedia.org/wiki/S_(programming_language)), which like everything else in computing traces its origins to [Bell Labs](https://en.wikipedia.org/wiki/S_(programming_language))—it has this concept of a data frame built-in to its core instead of being bolted-on afterwards, which is extremely handy. Normally data frames are just ordinary rectangles, but there’s no reason why any particular column can’t itself be thought of as a list of something else. That’s what we have here. The `yr_vartab` column contains data frames of crosstabs of the answers to each question by year. Except where it doesn’t (e.g. for `id`), and this is fine because lists don’t have to be internally homogeneous. Similarly `yrballot_df` has a little table of which ballots, or internal portions of the survey, a question was asked on for each year it was asked.
+
+The upshot is that having assembled the `gss_doc` object we can use it to emit, like, seven thousand pages of documentation on the GSS’s many, many questions over the years. We can build them as standardized R help pages, as above. On the [website](https://kjhealy.github.io/gssrdoc/index.html) that `pgkdown` builds for us, we get this:
+
+[![Website view.](https://kieranhealy.org/blog/archives/2025/10/19/gssrdoc-updates/gssrdoc-varpage.png)](https://kieranhealy.org/blog/archives/2025/10/19/gssrdoc-updates/gssrdoc-varpage.png)
+
+Website view.
+
+The cross-referencing to other relevant variables in the “See Also” section is new in this version. It comes courtesy of the GSS’s own information about survey modules and an ad hoc topic index they keep for the variables. I just use a subset of possible cross-references as we don’t want, e.g., every single question in the GSS core to be cross-referenced to every other core question on any particular help page. On the website, I gather these into a [single page](https://kjhealy.github.io/gssrdoc/articles/topics.html):
+
+[![Topic index page.](https://kieranhealy.org/blog/archives/2025/10/19/gssrdoc-updates/gssrdoc-topics.png)](https://kieranhealy.org/blog/archives/2025/10/19/gssrdoc-updates/gssrdoc-topics.png)
+
+Topic index page.
+
+The GSS has its own handy [data explorer](https://gssdataexplorer.norc.org) which is very useful for quickly checking on particular trends and getting a quick graph of what the data look like, or a summary view of the content of particular variables. Each help page in `gssrdoc` now links to the GSS Data Explorer page for that variable, in case you want to hop over and take a look there. Of course, the `gssrdoc` package doesn’t and isn’t meant to replace the Data Explorer; it’s just a different view of the same information, with a different use-case in mind.</source:markdown>
+      <guid>cid://https://kieranhealy.org/blog/archives/2025/10/19/gssrdoc-updates/</guid>
+    </item>    <item>
+      <title>Kara Walker Creates Haunted Beast From Butchered Confederate Statue</title>
+      <link>https://kottke.org/25/10/kara-walker-creates-haunted-beast-from-butchered-confederate-statue</link>
+      <guid>cid://tag:kottke.org,2025://5.47729</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/19.html#a140456</link>
+      <description>
+        <![CDATA[I have to remember to <a href="https://daveverse.org/2025/10/19/what-i-did-on-my-trip-to-canada-part-1/">use WordLand</a> to post <a href="https://mastodon.social/@scripting@daveverse.org">to Mastodon</a>, because when I go in that way, I don't have a character limit and I can use styling. We were wrestling with this question at WC, how to market the feature in a way that would get people to go to WordPress to write for Mastodon. It would also be cool if you could turn on the ActivityPub connection in WordLand, without having to wade through all the menus and dialogs. Imagine if we had a <a href="https://imgs.scripting.com/2025/10/19/activityPubDialog.png">confirmation dialog</a> like this in WordLand.]]>
+      </description>
+      <source:markdown>I have to remember to [use WordLand](https://daveverse.org/2025/10/19/what-i-did-on-my-trip-to-canada-part-1/) to post [to Mastodon](https://mastodon.social/@scripting@daveverse.org), because when I go in that way, I don&#39;t have a character limit and I can use styling. We were wrestling with this question at WC, how to market the feature in a way that would get people to go to WordPress to write for Mastodon. It would also be cool if you could turn on the ActivityPub connection in WordLand, without having to wade through all the menus and dialogs. Imagine if we had a [confirmation dialog](https://imgs.scripting.com/2025/10/19/activityPubDialog.png) like this in WordLand.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/19.html#a140456</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/19.html#a133939</link>
+      <description>
+        <![CDATA[I have a really interesting idea for Netflix. Do a MCP so I can ask ChatGPT to find a show I'd probably like on Netflix. Then Hulu would have to hook up too, and HBO and Apple and everyone else. That would fix a big entertainment problem because I've already taught ChatGPT exactly what I like in movies and serials by giving it all my favorite shows and why I liked them so much. This was the idea of Bingeworthy, which I never seem to find time to work on. I really just want the freaking functionality. Someone should buy Metacritic btw, their process, however it works, is really good at finding the good stuff. But please someone who believes in open APIs, it totally needs to be in the Chativerse.]]>
+      </description>
+      <source:markdown>I have a really interesting idea for Netflix. Do a MCP so I can ask ChatGPT to find a show I&#39;d probably like on Netflix. Then Hulu would have to hook up too, and HBO and Apple and everyone else. That would fix a big entertainment problem because I&#39;ve already taught ChatGPT exactly what I like in movies and serials by giving it all my favorite shows and why I liked them so much. This was the idea of Bingeworthy, which I never seem to find time to work on. I really just want the freaking functionality. Someone should buy Metacritic btw, their process, however it works, is really good at finding the good stuff. But please someone who believes in open APIs, it totally needs to be in the Chativerse.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/19.html#a133939</guid>
+    </item>    <item>
+      <title>What I did on my trip to Canada, part 1</title>
+      <link>http://scripting.com/2025/10/19/132911.html?title=whatIDidOnMyTripToCanadaPart1</link>
+      <description>
+        <![CDATA[<p>I presented <a href="https://wordland.social/">WordLand</a> for the first time publicly, the new one with a timeline, so it more clearly shows how we can build a beautiful social network just from open formats and protocols. </p>
+        <p>No user lock-in, every part replaceable, and open to developers to add functionality without having to reimplement the whole thing. These are all the things I think that have stood in the way of innovation in the web for many years.</p>
+        <p>A social network that starts out with no centralization and open in every sense has a much better chance of being decentralized than one that starts out centralized and swears they're going to stop doing that -- someday, fingers crossed, etc.</p>]]>
+      </description>
+      <source:markdown>I presented [WordLand](https://wordland.social/) for the first time publicly, the new one with a timeline, so it more clearly shows how we can build a beautiful social network just from open formats and protocols.
+
+No user lock-in, every part replaceable, and open to developers to add functionality without having to reimplement the whole thing. These are all the things I think that have stood in the way of innovation in the web for many years.
+
+A social network that starts out with no centralization and open in every sense has a much better chance of being decentralized than one that starts out centralized and swears they&#39;re going to stop doing that -- someday, fingers crossed, etc.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/19/132911.html</guid>
     </item>    <item>
       <title>‘Get Your Kicks on Route 66’</title>
       <link>https://steady.substack.com/p/get-your-kicks-on-route-66</link>

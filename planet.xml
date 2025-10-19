@@ -4,10 +4,18 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>19 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>19 Oct 25 11:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Homeowners in Co Down battle to prevent flooding</title>
+      <link>https://www.rte.ie/news/ireland/2025/1019/1539407-newcastle-flooding/</link>
+      <description>
+        <![CDATA[People living in some streets at the foot of the Mourne Mountains in Co Down battled to prevent their homes being flooded after heavy overnight rain.]]>
+      </description>
+      <source:markdown>People living in some streets at the foot of the Mourne Mountains in Co Down battled to prevent their homes being flooded after heavy overnight rain.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/1019/1539407-newcastle-flooding/</guid>
+    </item>    <item>
       <title>Comments by Humphreys a &#39;new low&#39;, says Connolly</title>
       <link>https://www.rte.ie/news/presidential-election/2025/1019/1539387-presidential-election-campaign/</link>
       <description>
@@ -71,19 +79,29 @@
       <title>Thieves steal &#39;priceless&#39; jewels from Louvre in Paris</title>
       <link>https://www.rte.ie/news/2025/1019/1539362-louvre-museum-paris/</link>
       <description>
-        <![CDATA[A robbery took place at the Louvre Museum in Paris early today, French Culture Minister Rachida Dati said.]]>
+        <![CDATA[French authorities are hunting four thieves following a heist at the Louvre museum in Paris that saw eight priceless and historical pieces of jewellery stolen, the city's chief prosecutor said.]]>
       </description>
-      <source:markdown>A robbery took place at the Louvre Museum in Paris early today, French Culture Minister Rachida Dati said.</source:markdown>
+      <source:markdown>French authorities are hunting four thieves following a heist at the Louvre museum in Paris that saw eight priceless and historical pieces of jewellery stolen, the city&#39;s chief prosecutor said.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1019/1539362-louvre-museum-paris/</guid>
     </item>    <item>
-      <title>Israeli military says it conducted airstrikes in Gaza&#39;s Rafah area</title>
+      <title>Giant Russian gas plant suspends intake from Kazakhstan after Ukrainian drone strike</title>
+      <link>https://www.cbc.ca/news/world/russian-gas-plant-hit-ukrainian-drone-9.6944312?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/6b463825-1c15-433e-8527-8f866743fe91,1760875637845/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C437%2C7326%2C4120%29%3BResize%3D%28620%29' alt='The sun sets behind the silhouette of an oil refinery.' width='620' height='349' title='A view shows the Orenburg gas processing plant of Gazprom in the Orenburg Region, Russia in September 2023.'/><p>The Orenburg gas processing plant, the largest facility of its kind in the world, has been forced to suspend its intake of gas from Kazakhstan after a Ukrainian drone attack, Kazakhstan's Ministry of Energy said on Sunday.</p>]]>
+      </description>
+      <source:markdown>![The sun sets behind the silhouette of an oil refinery.](https://i.cbc.ca/ais/6b463825-1c15-433e-8527-8f866743fe91,1760875637845/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C437%2C7326%2C4120%29%3BResize%3D%28620%29)
+
+The Orenburg gas processing plant, the largest facility of its kind in the world, has been forced to suspend its intake of gas from Kazakhstan after a Ukrainian drone attack, Kazakhstan&#39;s Ministry of Energy said on Sunday.</source:markdown>
+      <guid>cid://9.6944312</guid>
+    </item>    <item>
+      <title>Israeli military launches attacks on Gaza, ceasefire with Hamas under strain</title>
       <link>https://www.cbc.ca/news/world/israel-military-gaza-ceasefire-9.6944297?cmp=rss</link>
       <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/53ed90a9-e575-42e2-9b03-cfa0275c57ae,1760874236047/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4000%2C2250%29%3BResize%3D%28620%29' alt='A destroyed neighbourhood is seen from above.' width='620' height='349' title='A drone view shows the destruction in a residential neighbourhood, amid a ceasefire between Israel and Hamas in Gaza, in Gaza City, Sunday.'/><p> The Israeli military said on Sunday that air force fighter jets carried out airstrikes in Gaza's Rafah area to remove a threat after "terrorists" opened fire on troops. It said the militants' actions blatantly "violated" the ceasefire agreement, adding that the military would respond firmly.</p>]]>
+        <![CDATA[<img src='https://i.cbc.ca/ais/53ed90a9-e575-42e2-9b03-cfa0275c57ae,1760874236047/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4000%2C2250%29%3BResize%3D%28620%29' alt='A destroyed neighbourhood is seen from above.' width='620' height='349' title='A drone view shows the destruction in a residential neighbourhood, amid a ceasefire between Israel and Hamas in Gaza, in Gaza City, Sunday.'/><p>The Israeli military said it launched airstrikes and artillery fire at targets in southern Gaza on Sunday, dimming hopes that a U.S.-mediated ceasefire would lead to lasting peace as Israel traded blame with Palestinian militant group Hamas.</p>]]>
       </description>
       <source:markdown>![A destroyed neighbourhood is seen from above.](https://i.cbc.ca/ais/53ed90a9-e575-42e2-9b03-cfa0275c57ae,1760874236047/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4000%2C2250%29%3BResize%3D%28620%29)
 
-The Israeli military said on Sunday that air force fighter jets carried out airstrikes in Gaza&#39;s Rafah area to remove a threat after &#34;terrorists&#34; opened fire on troops. It said the militants&#39; actions blatantly &#34;violated&#34; the ceasefire agreement, adding that the military would respond firmly.</source:markdown>
+The Israeli military said it launched airstrikes and artillery fire at targets in southern Gaza on Sunday, dimming hopes that a U.S.-mediated ceasefire would lead to lasting peace as Israel traded blame with Palestinian militant group Hamas.</source:markdown>
       <guid>cid://9.6944297</guid>
     </item>    <item>
       <title>Thieves steal &#39;priceless&#39; jewels from Louvre in Paris and flee on motorbikes</title>
@@ -187,12 +205,12 @@ Across Europe and North America, the picture is bleak: wool is often burned or d
       <source:markdown>More than 2,500 demonstrations have taken place across the United States, to express opposition to the policies of US President Donald Trump.</source:markdown>
       <guid>cid://https://www.rte.ie/news/us/2025/1019/1539326-no-kings-protests/</guid>
     </item>    <item>
-      <title>Israeli military confirms Rafah strike, testing ceasefire</title>
+      <title>Israel strikes Gaza, accuses Hamas of violating ceasefire</title>
       <link>https://www.rte.ie/news/middle-east/2025/1019/1539324-middle-east/</link>
       <description>
-        <![CDATA[The Israeli military has confirmed air strikes in Rafah, dimming hopes that a US-mediated ceasefire would lead to lasting peace in the enclave as Israel traded blame with Palestinian militant group Hamas.]]>
+        <![CDATA[Israel has resumed airstrikes on Gaza, after accusing the Palestinian militant group Hamas of breaking a ceasefire and hostage release deal brokered last week.]]>
       </description>
-      <source:markdown>The Israeli military has confirmed air strikes in Rafah, dimming hopes that a US-mediated ceasefire would lead to lasting peace in the enclave as Israel traded blame with Palestinian militant group Hamas.</source:markdown>
+      <source:markdown>Israel has resumed airstrikes on Gaza, after accusing the Palestinian militant group Hamas of breaking a ceasefire and hostage release deal brokered last week.</source:markdown>
       <guid>cid://https://www.rte.ie/news/middle-east/2025/1019/1539324-middle-east/</guid>
     </item>    <item>
       <title>Afghanistan and Pakistan have agreed to an immediate ceasefire, Qatar says</title>

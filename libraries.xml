@@ -4,10 +4,19 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>19 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>19 Oct 25 11:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>John Silence Stories, by Algernon Blackwood</title>
+      <link>https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories</link>
+      <description>
+        <![CDATA[A physician turned detective uses his psychic abilities to solve the strange cases presented to him.]]>
+      </description>
+      <source:markdown>A physician turned detective uses his psychic abilities to solve the strange cases presented to him.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories/downloads/algernon-blackwood_john-silence-stories.epub?source=feed" length="794561" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories</guid>
+    </item>    <item>
       <title>The House at Pooh Corner, by A. A. Milne</title>
       <link>https://standardebooks.org/ebooks/a-a-milne/the-house-at-pooh-corner</link>
       <description>

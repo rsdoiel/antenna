@@ -4,10 +4,26 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>19 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>19 Oct 25 11:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Best Stockpots for Soups and Simmers, Expert Vetted (2025)</title>
+      <link>https://www.bonappetit.com/story/best-stockpots</link>
+      <description>
+        <![CDATA[These are big pots for big jobs.]]>
+      </description>
+      <source:markdown>These are big pots for big jobs.</source:markdown>
+      <guid>cid://6617f919d0e4b6ccd8b410df</guid>
+    </item>    <item>
+      <title>The Best of Pumpkin’s Main Character Energy in 7 Recipes</title>
+      <link>https://www.bonappetit.com/story/pumpkin-week-2025</link>
+      <description>
+        <![CDATA[From savory chili to a decadent tiramisu, here are 7 ways to make the most of Autumn’s best flavor.]]>
+      </description>
+      <source:markdown>From savory chili to a decadent tiramisu, here are 7 ways to make the most of Autumn’s best flavor.</source:markdown>
+      <guid>cid://68efd32cb7d7f6f4a65a9284</guid>
+    </item>    <item>
       <title>Apple-icious Recipes</title>
       <link>https://www.closetcooking.com/20-apple-icious-recipes/</link>
       <description>
