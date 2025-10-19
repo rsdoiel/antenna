@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>18 Oct 25 18:53 -0700</lastBuildDate>
+    <lastBuildDate>19 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,42 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>‘Get Your Kicks on Route 66’</title>
+      <link>https://steady.substack.com/p/get-your-kicks-on-route-66</link>
+      <description>
+        <![CDATA[A Reason To Smile]]>
+      </description>
+      <source:markdown>A Reason To Smile</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!BK8M!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8212a3ed-0b93-4666-82ff-f27808032291_5134x3435.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/get-your-kicks-on-route-66</guid>
+    </item>    <item>
+      <title>Technology and Jobs</title>
+      <link>https://paulkrugman.substack.com/p/technology-and-jobs</link>
+      <description>
+        <![CDATA[What can history and theory tell us about the impact of AI? And will AI doom or help save the planet?]]>
+      </description>
+      <source:markdown>What can history and theory tell us about the impact of AI? And will AI doom or help save the planet?</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!SD17!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80792f3b-60b0-4e6d-a3b8-52379762da84_1920x1080.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/technology-and-jobs</guid>
+    </item>    <item>
+      <title>Sunday thought: In Solidarity</title>
+      <link>https://robertreich.substack.com/p/sunday-thought-in-solidarity</link>
+      <description>
+        <![CDATA[The connection between No Kings Day 2.0 and victory]]>
+      </description>
+      <source:markdown>The connection between No Kings Day 2.0 and victory</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/52fb0b0b-7de4-4f82-8330-0ed2f76fb087_3500x2651.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/sunday-thought-in-solidarity</guid>
+    </item>    <item>
+      <title>October 18, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-18-2025</link>
+      <description>
+        <![CDATA[Today, millions of Americans and their allies turned out across the United States and around the globe to demonstrate their commitment to American democracy and their opposition to a president and an administration apparently bent on replacing that democracy with a dictatorship.]]>
+      </description>
+      <source:markdown>Today, millions of Americans and their allies turned out across the United States and around the globe to demonstrate their commitment to American democracy and their opposition to a president and an administration apparently bent on replacing that democracy with a dictatorship.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!7MRk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b28c9d5-9270-4b5d-ae5c-c370890bf490_3024x4032.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-18-2025</guid>
     </item>    <item>
       <title>Consumer Reports: Protein Powders and Shakes Contain High Levels of Lead. &#38;#8220;More...</title>
       <link>https://kottke.org/25/10/0047727-consumer-reports-protein-</link>
@@ -748,6 +784,38 @@ Cost note: Two clusters represent regions. Run k6 as a Job inside each cluster t
 Create a ConfigMap with a k6 script.</source:markdown>
       <guid>cid://https://memo.mx/posts/multi-region-series-09-load/</guid>
     </item>    <item>
+      <title>Multi Region Cloud Training Lab: Part 8 - Chaos Testing</title>
+      <link>https://memo.mx/posts/multi-region-series-part-8-chaos/</link>
+      <description>
+        <![CDATA[Problem: Validate resilience under pod kills and regional impairment.
+        Assumptions/Constraints
+        Cost note: Two clusters simulate regions. Install Chaos Mesh or Litmus Chaos, one per cluster. ASCII Diagram
+        [Chaos Mesh] | +--&gt; PodChaos: kill one pod in app=echo | +--&gt; NetworkChaos: add 200ms delay to ns=echo Effects: - Envoy retries + multiple replicas keep SLI green - p99 rises during NetworkChaos window Steps (Chaos Mesh)
+        Install the operator. Create a PodChaos to kill app pods.]]>
+      </description>
+      <source:markdown>Problem: Validate resilience under pod kills and regional impairment.
+Assumptions/Constraints
+Cost note: Two clusters simulate regions. Install Chaos Mesh or Litmus Chaos, one per cluster. ASCII Diagram
+\[Chaos Mesh\] \| +--&#62; PodChaos: kill one pod in app=echo \| +--&#62; NetworkChaos: add 200ms delay to ns=echo Effects: - Envoy retries + multiple replicas keep SLI green - p99 rises during NetworkChaos window Steps (Chaos Mesh)
+Install the operator. Create a PodChaos to kill app pods.</source:markdown>
+      <guid>cid://https://memo.mx/posts/multi-region-series-part-8-chaos/</guid>
+    </item>    <item>
+      <title>Multi Region Cloud Training Lab: Part 9 - Load Generation and SLOs</title>
+      <link>https://memo.mx/posts/multi-region-series-part-9-load/</link>
+      <description>
+        <![CDATA[Problem: Prove throughput and latency targets across clusters.
+        Assumptions/Constraints
+        Cost note: Two clusters represent regions. Run k6 as a Job inside each cluster to test in region and cross region paths. ASCII Diagram
+        [k6 Job in US] ---&gt; http://echo.echo.svc.cluster.local (US svc) [k6 Job in EU] ---&gt; http://echo.echo.svc.cluster.local (EU svc) Measure: - in region p95/p99 - cross region p95/p99 (by hitting remote via gateway if desired) Steps
+        Create a ConfigMap with a k6 script.]]>
+      </description>
+      <source:markdown>Problem: Prove throughput and latency targets across clusters.
+Assumptions/Constraints
+Cost note: Two clusters represent regions. Run k6 as a Job inside each cluster to test in region and cross region paths. ASCII Diagram
+\[k6 Job in US\] ---&#62; http://echo.echo.svc.cluster.local (US svc) \[k6 Job in EU\] ---&#62; http://echo.echo.svc.cluster.local (EU svc) Measure: - in region p95/p99 - cross region p95/p99 (by hitting remote via gateway if desired) Steps
+Create a ConfigMap with a k6 script.</source:markdown>
+      <guid>cid://https://memo.mx/posts/multi-region-series-part-9-load/</guid>
+    </item>    <item>
       <title>Multi region cloud training Lab 7/9: CD with Istio Traffic Policy and Argo CD</title>
       <link>https://memo.mx/posts/multi-region-series-07-cd/</link>
       <description>
@@ -764,6 +832,22 @@ VirtualService +-------------------+ Request ---&#62; \| 90% -&#62; subset v1 \|
 Add VirtualService and DestinationRule with connection pools and outlier detection. Let Argo CD sync them per region overlay.</source:markdown>
       <guid>cid://https://memo.mx/posts/multi-region-series-07-cd/</guid>
     </item>    <item>
+      <title>Multi Region Cloud Training Lab: Part 7 - CD with Istio Traffic Policy and Argo CD</title>
+      <link>https://memo.mx/posts/multi-region-series-part-7-cd/</link>
+      <description>
+        <![CDATA[Problem: Roll out new versions safely at high throughput.
+        Assumptions/Constraints
+        Cost note: Two clusters act as regions. Istio sidecars injected. Namespace labeled with istio-injection=enabled. ASCII Diagram
+        VirtualService +-------------------+ Request ---&gt; | 90% -&gt; subset v1 | | 10% -&gt; subset v2 | +-------------------+ | v DestinationRule (subsets + policies) - subsets: v1 (labels version=v1), v2 (version=v2) - connectionPool, outlierDetection Steps
+        Add VirtualService and DestinationRule with connection pools and outlier detection. Let Argo CD sync them per region overlay.]]>
+      </description>
+      <source:markdown>Problem: Roll out new versions safely at high throughput.
+Assumptions/Constraints
+Cost note: Two clusters act as regions. Istio sidecars injected. Namespace labeled with istio-injection=enabled. ASCII Diagram
+VirtualService +-------------------+ Request ---&#62; \| 90% -&#62; subset v1 \| \| 10% -&#62; subset v2 \| +-------------------+ \| v DestinationRule (subsets + policies) - subsets: v1 (labels version=v1), v2 (version=v2) - connectionPool, outlierDetection Steps
+Add VirtualService and DestinationRule with connection pools and outlier detection. Let Argo CD sync them per region overlay.</source:markdown>
+      <guid>cid://https://memo.mx/posts/multi-region-series-part-7-cd/</guid>
+    </item>    <item>
       <title>Multi region cloud training Lab 6/9: CI with GitHub Actions and Taskfile</title>
       <link>https://memo.mx/posts/multi-region-series-06-ci/</link>
       <description>
@@ -779,6 +863,22 @@ Cost note: Using two clusters only. GHCR or ECR credentials set as repo secrets.
 \[GitHub Actions CI\] \| \| docker build/push (Taskfile) v \[Registry\] \| \| write IMAGE\_TAG file and commit v \[Git Repo\] \| v \[Argo CD notices change and syncs\] Steps
 Use Taskfile in the workflow for local parity. Push image and update a tag file for GitOps. Example workflow (.</source:markdown>
       <guid>cid://https://memo.mx/posts/multi-region-series-06-ci/</guid>
+    </item>    <item>
+      <title>Multi Region Cloud Training Lab: Part 6 - CI with GitHub Actions and Taskfile</title>
+      <link>https://memo.mx/posts/multi-region-series-part-6-ci/</link>
+      <description>
+        <![CDATA[Problem: Build, tag, and push images consistently.
+        Assumptions/Constraints
+        Cost note: Using two clusters only. GHCR or ECR credentials set as repo secrets. ASCII Diagram
+        [GitHub Actions CI] | | docker build/push (Taskfile) v [Registry] | | write IMAGE_TAG file and commit v [Git Repo] | v [Argo CD notices change and syncs] Steps
+        Use Taskfile in the workflow for local parity. Push image and update a tag file for GitOps. Example workflow (.]]>
+      </description>
+      <source:markdown>Problem: Build, tag, and push images consistently.
+Assumptions/Constraints
+Cost note: Using two clusters only. GHCR or ECR credentials set as repo secrets. ASCII Diagram
+\[GitHub Actions CI\] \| \| docker build/push (Taskfile) v \[Registry\] \| \| write IMAGE\_TAG file and commit v \[Git Repo\] \| v \[Argo CD notices change and syncs\] Steps
+Use Taskfile in the workflow for local parity. Push image and update a tag file for GitOps. Example workflow (.</source:markdown>
+      <guid>cid://https://memo.mx/posts/multi-region-series-part-6-ci/</guid>
     </item>    <item>
       <title>Multi region cloud training Lab 5/9: Sample App and Overlays</title>
       <link>https://memo.mx/posts/multi-region-series-05-app/</link>
@@ -798,6 +898,24 @@ Create a tiny HTTP server. Add base manifests and overlays. Example app (app/mai
 package main import ( &#34;fmt&#34;; &#34;log&#34;; &#34;net/http&#34;; &#34;os&#34; ) func main(){ region := os.</source:markdown>
       <guid>cid://https://memo.mx/posts/multi-region-series-05-app/</guid>
     </item>    <item>
+      <title>Multi Region Cloud Training Lab: Part 5 - Sample App and Overlays</title>
+      <link>https://memo.mx/posts/multi-region-series-part-5-app/</link>
+      <description>
+        <![CDATA[Problem: Deploy a simple HTTP service with region specific config.
+        Assumptions/Constraints
+        Cost note: Two clusters represent regions. Use Kustomize overlays keyed by region label. ASCII Diagram
+        Kustomize structure deploy/ base/echo/ -&gt; common Deployment, Service overlays/ us/echo/ -&gt; patch: REGION=us eu/echo/ -&gt; patch: REGION=eu Argo CD picks overlay by cluster label and syncs to each cluster. Steps
+        Create a tiny HTTP server. Add base manifests and overlays. Example app (app/main.go)
+        package main import ( &#34;fmt&#34;; &#34;log&#34;; &#34;net/http&#34;; &#34;os&#34; ) func main(){ region := os.]]>
+      </description>
+      <source:markdown>Problem: Deploy a simple HTTP service with region specific config.
+Assumptions/Constraints
+Cost note: Two clusters represent regions. Use Kustomize overlays keyed by region label. ASCII Diagram
+Kustomize structure deploy/ base/echo/ -&#62; common Deployment, Service overlays/ us/echo/ -&#62; patch: REGION=us eu/echo/ -&#62; patch: REGION=eu Argo CD picks overlay by cluster label and syncs to each cluster. Steps
+Create a tiny HTTP server. Add base manifests and overlays. Example app (app/main.go)
+package main import ( &#34;fmt&#34;; &#34;log&#34;; &#34;net/http&#34;; &#34;os&#34; ) func main(){ region := os.</source:markdown>
+      <guid>cid://https://memo.mx/posts/multi-region-series-part-5-app/</guid>
+    </item>    <item>
       <title>Multi region cloud training Lab 4/9: AWS Identity (IRSA vs Pod Identity)</title>
       <link>https://memo.mx/posts/multi-region-series-04-identity/</link>
       <description>
@@ -812,6 +930,20 @@ Cost note: Two clusters, not two AWS regions. Choose one path: IRSA or EKS Pod I
 IRSA path Pod Identity path +-----------------------------+ +-----------------------------+ \| \[Pod + SA aws-sa\] \| \| \[Pod + SA aws-sa\] \| \| token (OIDC projected) \| \| request to EKS agent \| +--------------\|--------------+ +--------------\|--------------+ v v \[IAM OIDC Provider\] \[EKS Pod Identity Agent\] \| \| v v \[STS AssumeRoleWithWebIdentity\] \[STS AssumeRole\] \| \| v v \[Temp creds\] \[Temp creds\] \\\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_/ \| v \[AWS APIs\] Notes: IRSA supports Fargate and non EKS clusters with OIDC; Pod Identity is EKS only.</source:markdown>
       <guid>cid://https://memo.mx/posts/multi-region-series-04-identity/</guid>
     </item>    <item>
+      <title>Multi Region Cloud Training Lab: Part 4 - AWS Identity (IRSA vs Pod Identity)</title>
+      <link>https://memo.mx/posts/multi-region-series-part-4-identity/</link>
+      <description>
+        <![CDATA[Problem: Let workloads call AWS without node credentials.
+        Assumptions/Constraints
+        Cost note: Two clusters, not two AWS regions. Choose one path: IRSA or EKS Pod Identity. Do not mix for the same service account. ASCII Diagram
+        IRSA path Pod Identity path +-----------------------------+ +-----------------------------+ | [Pod + SA aws-sa] | | [Pod + SA aws-sa] | | token (OIDC projected) | | request to EKS agent | +--------------|--------------+ +--------------|--------------+ v v [IAM OIDC Provider] [EKS Pod Identity Agent] | | v v [STS AssumeRoleWithWebIdentity] [STS AssumeRole] | | v v [Temp creds] [Temp creds] \________________________________________/ | v [AWS APIs] Notes: IRSA supports Fargate and non EKS clusters with OIDC; Pod Identity is EKS only.]]>
+      </description>
+      <source:markdown>Problem: Let workloads call AWS without node credentials.
+Assumptions/Constraints
+Cost note: Two clusters, not two AWS regions. Choose one path: IRSA or EKS Pod Identity. Do not mix for the same service account. ASCII Diagram
+IRSA path Pod Identity path +-----------------------------+ +-----------------------------+ \| \[Pod + SA aws-sa\] \| \| \[Pod + SA aws-sa\] \| \| token (OIDC projected) \| \| request to EKS agent \| +--------------\|--------------+ +--------------\|--------------+ v v \[IAM OIDC Provider\] \[EKS Pod Identity Agent\] \| \| v v \[STS AssumeRoleWithWebIdentity\] \[STS AssumeRole\] \| \| v v \[Temp creds\] \[Temp creds\] \\\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_/ \| v \[AWS APIs\] Notes: IRSA supports Fargate and non EKS clusters with OIDC; Pod Identity is EKS only.</source:markdown>
+      <guid>cid://https://memo.mx/posts/multi-region-series-part-4-identity/</guid>
+    </item>    <item>
       <title>Multi region cloud training Lab 3/9: Istio Multi Region Mesh</title>
       <link>https://memo.mx/posts/multi-region-series-03-istio/</link>
       <description>
@@ -825,6 +957,20 @@ Assumptions/Constraints
 Cost note: Two clusters stand in for two regions. Same meshID, same trust domain, distinct network per cluster. ASCII Diagram
 Cross cluster via gateway + ServiceEntry (no istioctl) +-----------+ mTLS mesh +-----------+ \| Cluster US\|&#60;=============&#62;\| Cluster EU\| \| istiod \| \| istiod \| \| east-west \| &#60;---15443---- \| east-west \| \| gateway \| \| gateway \| \| echo svc \| \| echo svc \| +-----------+ +-----------+ meshID=training-mesh, trustDomain=corp.</source:markdown>
       <guid>cid://https://memo.mx/posts/multi-region-series-03-istio/</guid>
+    </item>    <item>
+      <title>Multi Region Cloud Training Lab: Part 3 - Istio Multi Region Mesh</title>
+      <link>https://memo.mx/posts/multi-region-series-part-3-istio/</link>
+      <description>
+        <![CDATA[Problem: Enable east to west traffic and consistent policy across clusters.
+        Assumptions/Constraints
+        Cost note: Two clusters stand in for two regions. Same meshID, same trust domain, distinct network per cluster. ASCII Diagram
+        Cross cluster via gateway + ServiceEntry (no istioctl) +-----------+ mTLS mesh +-----------+ | Cluster US|&lt;=============&gt;| Cluster EU| | istiod | | istiod | | east-west | &lt;---15443---- | east-west | | gateway | | gateway | | echo svc | | echo svc | +-----------+ +-----------+ meshID=training-mesh, trustDomain=corp.]]>
+      </description>
+      <source:markdown>Problem: Enable east to west traffic and consistent policy across clusters.
+Assumptions/Constraints
+Cost note: Two clusters stand in for two regions. Same meshID, same trust domain, distinct network per cluster. ASCII Diagram
+Cross cluster via gateway + ServiceEntry (no istioctl) +-----------+ mTLS mesh +-----------+ \| Cluster US\|&#60;=============&#62;\| Cluster EU\| \| istiod \| \| istiod \| \| east-west \| &#60;---15443---- \| east-west \| \| gateway \| \| gateway \| \| echo svc \| \| echo svc \| +-----------+ +-----------+ meshID=training-mesh, trustDomain=corp.</source:markdown>
+      <guid>cid://https://memo.mx/posts/multi-region-series-part-3-istio/</guid>
     </item>    <item>
       <title>Multi region cloud training Lab 2/9: GitOps with Argo CD</title>
       <link>https://memo.mx/posts/multi-region-series-02-argocd/</link>
@@ -842,6 +988,22 @@ Cost note: We mock regions with two clusters. Argo CD runs in each cluster or as
 Label clusters for region selection. Register clusters in Argo CD.</source:markdown>
       <guid>cid://https://memo.mx/posts/multi-region-series-02-argocd/</guid>
     </item>    <item>
+      <title>Multi Region Cloud Training Lab: Part 2 - GitOps with Argo CD</title>
+      <link>https://memo.mx/posts/multi-region-series-part-2-argocd/</link>
+      <description>
+        <![CDATA[Problem: Deploy one app to many clusters using a single source of truth.
+        Assumptions/Constraints
+        Cost note: We mock regions with two clusters. Argo CD runs in each cluster or as a control cluster. Use ApplicationSet clusters generator. ASCII Diagram
+        [GitHub Repo (manifests)] | v [Argo CD (control)] / \ v v [Cluster US] [Cluster EU] ns echo ns echo apps synced apps synced Steps
+        Label clusters for region selection. Register clusters in Argo CD.]]>
+      </description>
+      <source:markdown>Problem: Deploy one app to many clusters using a single source of truth.
+Assumptions/Constraints
+Cost note: We mock regions with two clusters. Argo CD runs in each cluster or as a control cluster. Use ApplicationSet clusters generator. ASCII Diagram
+\[GitHub Repo (manifests)\] \| v \[Argo CD (control)\] / \ v v \[Cluster US\] \[Cluster EU\] ns echo ns echo apps synced apps synced Steps
+Label clusters for region selection. Register clusters in Argo CD.</source:markdown>
+      <guid>cid://https://memo.mx/posts/multi-region-series-part-2-argocd/</guid>
+    </item>    <item>
       <title>Multi region cloud training Lab 1/9: Baseline Repo and Environments</title>
       <link>https://memo.mx/posts/multi-region-series-01-baseline/</link>
       <description>
@@ -855,6 +1017,20 @@ Assumptions/Constraints
 Cost note: We mock “multi region” by using two Kubernetes clusters, not two AWS regions. App code in app/, manifests in deploy/. Kube contexts: prod-us-east-1, prod-eu-west-1. ASCII Diagram
 \[Dev Laptop\] \| task, kubectl v \[GitHub Repo\] \[Registry\] \| \| \| manifests \| images v v (next chapters wire Argo CD and Istio) Contexts: prod-us-east-1, prod-eu-west-1 Steps</source:markdown>
       <guid>cid://https://memo.mx/posts/multi-region-series-01-baseline/</guid>
+    </item>    <item>
+      <title>Multi Region Cloud Training Lab: Part 1 - Baseline Repo and Environments</title>
+      <link>https://memo.mx/posts/multi-region-series-part-1-baseline/</link>
+      <description>
+        <![CDATA[Problem: Standardize local commands and name the moving parts so every step is repeatable.
+        Assumptions/Constraints
+        Cost note: We mock “multi region” by using two Kubernetes clusters, not two AWS regions. App code in app/, manifests in deploy/. Kube contexts: prod-us-east-1, prod-eu-west-1. ASCII Diagram
+        [Dev Laptop] | task, kubectl v [GitHub Repo] [Registry] | | | manifests | images v v (next chapters wire Argo CD and Istio) Contexts: prod-us-east-1, prod-eu-west-1 Steps]]>
+      </description>
+      <source:markdown>Problem: Standardize local commands and name the moving parts so every step is repeatable.
+Assumptions/Constraints
+Cost note: We mock “multi region” by using two Kubernetes clusters, not two AWS regions. App code in app/, manifests in deploy/. Kube contexts: prod-us-east-1, prod-eu-west-1. ASCII Diagram
+\[Dev Laptop\] \| task, kubectl v \[GitHub Repo\] \[Registry\] \| \| \| manifests \| images v v (next chapters wire Argo CD and Istio) Contexts: prod-us-east-1, prod-eu-west-1 Steps</source:markdown>
+      <guid>cid://https://memo.mx/posts/multi-region-series-part-1-baseline/</guid>
     </item>    <item>
       <title>TOMORROW, October 18th — We Hit The Streets!</title>
       <link>https://www.michaelmoore.com/p/no-kings-day-oct18</link>
@@ -890,12 +1066,12 @@ La entrada [La grazia (MONFIC 2025): moralistas, ¡favor de abstenerse!](https:/
         <![CDATA[Train teams on multi region, high throughput, chaos tested GitOps without burning money.
         Assumptions/Constraints
         Money note: We mock “multi region” with two Kubernetes clusters, not two AWS regions. You have two kube contexts reachable from your workstation. You control a container registry and a GitHub repo. Optional AWS: use IRSA or EKS Pod Identity in Lab 4. Labs
-        Lab 1: Baseline Repo and Environments Sets shared variables and task wrappers. Confirms contexts and versions.]]>
+        Part 1 - Baseline Repo and Environments Sets shared variables and task wrappers.]]>
       </description>
       <source:markdown>Train teams on multi region, high throughput, chaos tested GitOps without burning money.
 Assumptions/Constraints
 Money note: We mock “multi region” with two Kubernetes clusters, not two AWS regions. You have two kube contexts reachable from your workstation. You control a container registry and a GitHub repo. Optional AWS: use IRSA or EKS Pod Identity in Lab 4. Labs
-Lab 1: Baseline Repo and Environments Sets shared variables and task wrappers. Confirms contexts and versions.</source:markdown>
+Part 1 - Baseline Repo and Environments Sets shared variables and task wrappers.</source:markdown>
       <guid>cid://https://memo.mx/posts/multi-region-learning/</guid>
     </item>    <item>
       <link>http://scripting.com/2025/10/17.html#a155050</link>
@@ -4825,6 +5001,16 @@ We talked about the power of conviction, decency in an age of division, and the 
       <title>Your Chance to Snag an Original Bob Ross</title>
       <link>https://onefoottsunami.com/2025/10/13/your-chance-to-snag-an-original-bob-ross/</link>
       <guid>cid://https://onefoottsunami.com/?p=29278</guid>
+    </item>    <item>
+      <title>TeachMeet20</title>
+      <link>https://johnjohnston.info/blog/teachmeet20/</link>
+      <description>
+        <![CDATA[<div><img width="620" height="482" src="https://johnjohnston.info/blog/wp-content/uploads/2025/10/stamp-16.php_-620x482.jpeg" class="attachment-medium size-medium u-featured wp-post-image" alt="Four men sitting in a pub, smiling and talking, with pints of dark beer on two small tables. Bob, Ewan, Me &amp; Will at the Jolly Judge." style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://johnjohnston.info/blog/wp-content/uploads/2025/10/stamp-16.php_-620x482.jpeg 620w, https://johnjohnston.info/blog/wp-content/uploads/2025/10/stamp-16.php_-768x597.jpeg 768w, https://johnjohnston.info/blog/wp-content/uploads/2025/10/stamp-16.php_-668x519.jpeg 668w, https://johnjohnston.info/blog/wp-content/uploads/2025/10/stamp-16.php_.jpeg 1024w" sizes="(max-width: 620px) 100vw, 620px" data-attachment-id="21347" data-permalink="https://johnjohnston.info/blog/teachmeet20/stamp-16-php/" data-orig-file="https://johnjohnston.info/blog/wp-content/uploads/2025/10/stamp-16.php_.jpeg" data-orig-size="1024,796" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="stamp-16.php" data-image-description="" data-image-caption="" data-medium-file="https://johnjohnston.info/blog/wp-content/uploads/2025/10/stamp-16.php_-620x482.jpeg" data-large-file="https://johnjohnston.info/blog/wp-content/uploads/2025/10/stamp-16.php_.jpeg" /></div>Looking back at the last 20 years TeachMeet and wondering about the next 20.]]>
+      </description>
+      <source:markdown>![Four men sitting in a pub, smiling and talking, with pints of dark beer on two small tables. Bob, Ewan, Me &#38; Will at the Jolly Judge.](https://johnjohnston.info/blog/wp-content/uploads/2025/10/stamp-16.php_-620x482.jpeg)
+
+Looking back at the last 20 years TeachMeet and wondering about the next 20.</source:markdown>
+      <guid>cid://https://johnjohnston.info/blog/?p=21339</guid>
     </item>    <item>
       <title>Edgeberry interface board for Raspberry Pi</title>
       <link>https://www.raspberrypi.com/news/edgeberry-interface-board-for-raspberry-pi/</link>
@@ -10026,6 +10212,16 @@ Jeff GeerlingOctober 7, 2025</source:markdown>
       <title>Bleen Means Blgo</title>
       <link>https://onefoottsunami.com/2025/10/07/bleen-means-blgo/</link>
       <guid>cid://https://onefoottsunami.com/?p=29241</guid>
+    </item>    <item>
+      <title>ScotsEduBlogs Update</title>
+      <link>https://johnjohnston.info/blog/scotsedublogs-update/</link>
+      <description>
+        <![CDATA[<div><img width="620" height="469" src="https://johnjohnston.info/blog/wp-content/uploads/2025/10/seb-1200-620x469.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" srcset="https://johnjohnston.info/blog/wp-content/uploads/2025/10/seb-1200-620x469.png 620w, https://johnjohnston.info/blog/wp-content/uploads/2025/10/seb-1200-1024x774.png 1024w, https://johnjohnston.info/blog/wp-content/uploads/2025/10/seb-1200-768x580.png 768w, https://johnjohnston.info/blog/wp-content/uploads/2025/10/seb-1200-668x505.png 668w, https://johnjohnston.info/blog/wp-content/uploads/2025/10/seb-1200.png 1200w" sizes="(max-width: 620px) 100vw, 620px" data-attachment-id="21272" data-permalink="https://johnjohnston.info/blog/scotsedublogs-update/seb-1200/" data-orig-file="https://johnjohnston.info/blog/wp-content/uploads/2025/10/seb-1200.png" data-orig-size="1200,907" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="seb-1200" data-image-description="" data-image-caption="" data-medium-file="https://johnjohnston.info/blog/wp-content/uploads/2025/10/seb-1200-620x469.png" data-large-file="https://johnjohnston.info/blog/wp-content/uploads/2025/10/seb-1200-1024x774.png" /></div>Having a little more time on my hands I'd like to reinvigorate ScotEduBlogs.org The site aggregates and disseminates Scottish Educational content.]]>
+      </description>
+      <source:markdown>![](https://johnjohnston.info/blog/wp-content/uploads/2025/10/seb-1200-620x469.png)
+
+Having a little more time on my hands I&#39;d like to reinvigorate ScotEduBlogs.org The site aggregates and disseminates Scottish Educational content.</source:markdown>
+      <guid>cid://https://johnjohnston.info/blog/?p=21271</guid>
     </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115332807852124823</link>
       <description>

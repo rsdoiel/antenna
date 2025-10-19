@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>18 Oct 25 18:53 -0700</dateCreated>
+        <dateCreated>19 Oct 25 06:10 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -134,7 +134,7 @@
         <outline text="Joel on Software" type="rss" xmlUrl="https://www.joelonsoftware.com/feed/" htmlUrl="https://www.joelonsoftware.com,https://www.joelonsoftware.com/feed/" url="https://www.joelonsoftware.com/feed/"></outline>
         <outline text="Johan Brandhorst blog" type="rss" xmlUrl="https://jbrandhorst.com/post/index.xml" htmlUrl="https://jbrandhorst.com/post/,https://jbrandhorst.com/post/index.xml" description="Recent content in Posts on Go Ahead" url="https://jbrandhorst.com/post/index.xml"></outline>
         <outline text="John Naughton&#39;s online diary" type="rss" xmlUrl="https://memex.naughtons.org/feed/" htmlUrl="https://memex.naughtons.org,https://memex.naughtons.org/feed/" description="John Naughton&#39;s online diary" url="https://memex.naughtons.org/feed/"></outline>
-        <outline text="John&#39;s World Wide Wall Display" type="rss" category="Education,Educational Technology" xmlUrl="http://feeds.feedburner.com/johnjohnston" htmlUrl="https://johnjohnston.info/blog,http://johnjohnston.info/blog/category/wwwd/feed/" description="Teaching, ict, and suchlike" url="http://johnjohnston.info/blog/category/wwwd/feed/"></outline>
+        <outline text="John&#39;s World Wide Wall Display" type="rss" category="Education,Educational Technology" xmlUrl="http://feeds.feedburner.com/johnjohnston" htmlUrl="https://johnjohnston.info/blog,https://johnjohnston.info/blog/category/wwwd/feed/" description="Teaching, ict, and suchlike" url="https://johnjohnston.info/blog/category/wwwd/feed/"></outline>
         <outline text="Joss Whittle, The rantings of a mad scientist" type="rss" xmlUrl="http://l2program.co.uk/feed" htmlUrl="http://l2program.co.uk,http://l2program.co.uk/feed" description="The rantings of a lunatic Scientist" url="http://l2program.co.uk/feed"></outline>
         <outline text="Julia Evans blog" type="atom" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="http://jvns.ca/atom.xml,http://jvns.ca" url="http://jvns.ca/atom.xml"></outline>
         <outline text="Kara Wynn blog" type="rss" xmlUrl="https://karawynn.substack.com/feed" htmlUrl="https://karawynn.substack.com,https://karawynn.substack.com/feed" description="personal essays, this time with a quarter-century more wisdom" url="https://karawynn.substack.com/feed"></outline>
