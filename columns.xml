@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>19 Oct 25 11:11 -0700</lastBuildDate>
+    <lastBuildDate>19 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,26 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>An Opinionated Guide to Using AI Right Now</title>
+      <link>https://www.oneusefulthing.org/p/an-opinionated-guide-to-using-ai</link>
+      <description>
+        <![CDATA[What AI to use in late 2025]]>
+      </description>
+      <source:markdown>What AI to use in late 2025</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!9V4E!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbbb3f806-e9b0-44f2-a384-5abe22e35ec9_1314x673.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.oneusefulthing.org/p/an-opinionated-guide-to-using-ai</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m3kx2xpvfc2p</link>
+      <description>
+        <![CDATA[👀
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>👀
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m3kx2xpvfc2p</guid>
     </item>    <item>
       <title>Once upon a time, Windows looked good</title>
       <link>https://liam-on-linux.dreamwidth.org/96987.html</link>
@@ -175,7 +195,7 @@ Sunday session in Cork</source:markdown>
         <figure><a href="https://kieranhealy.org/blog/archives/2025/10/19/gssrdoc-updates/gssrdoc-rstudio.png" data-fancybox>
             <img src="https://kieranhealy.org/blog/archives/2025/10/19/gssrdoc-updates/gssrdoc-rstudio.png"
                  alt="RStudio with help page for govdook"/></a><figcaption>
-                    <p>Yeah govdook is short for &lsquo;Gov Do OK&rsquo;, not &lsquo;Dook&rsquo;.</p>
+                    <p>Yeah govdook is short for &lsquo;Gov Do OK&rsquo;, not &lsquo;Go v Dook&rsquo;.</p>
                 </figcaption>
         </figure>
         <p>The package also includes <code>gss_doc</code>, a data frame containing all of the information that the help pages are built from. I included it because it can be useful to work with directly, as when you might want to extract summary information about a subset of variables.</p>
@@ -471,7 +491,7 @@ This week I spent a little time updating `gssrdoc` a bit to clean up how the hel
 
 [![RStudio with help page for govdook](https://kieranhealy.org/blog/archives/2025/10/19/gssrdoc-updates/gssrdoc-rstudio.png)](https://kieranhealy.org/blog/archives/2025/10/19/gssrdoc-updates/gssrdoc-rstudio.png)
 
-Yeah govdook is short for ‘Gov Do OK’, not ‘Dook’.
+Yeah govdook is short for ‘Gov Do OK’, not ‘Go v Dook’.
 
 The package also includes `gss_doc`, a data frame containing all of the information that the help pages are built from. I included it because it can be useful to work with directly, as when you might want to extract summary information about a subset of variables.
 
@@ -827,6 +847,14 @@ A social network that starts out with no centralization and open in every sense 
       <title>More than 170 *US citizens* have been detained and held (and &#38;#8220;dragged,...</title>
       <link>https://kottke.org/25/10/0047726-more-than-170-us-citizens</link>
       <guid>cid://tag:kottke.org,2025://13.47726</guid>
+    </item>    <item>
+      <title>AI generated code is slop, and that&#39;s a good thing</title>
+      <link>http://timkellogg.me/blog/2025/10/19/code-slop</link>
+      <description>
+        <![CDATA[In his recent Dwarkesh podcast interview, Andrej Karpathy (now) notoriously said:]]>
+      </description>
+      <source:markdown>In his recent Dwarkesh podcast interview, Andrej Karpathy (now) notoriously said:</source:markdown>
+      <guid>cid://http://timkellogg.me/blog/2025/10/19/code-slop</guid>
     </item>    <item>
       <title>2025-10-19 Every time I am on a trip, the bots strike</title>
       <link>https://alexschroeder.ch/view/2025-10-19-every-time</link>
@@ -1323,6 +1351,10 @@ As usual, you can also use this squid post to talk about the security stories in
 
 Tags: [uuid](https://simonwillison.net/tags/uuid), [postgresql](https://simonwillison.net/tags/postgresql), [privacy](https://simonwillison.net/tags/privacy), [security](https://simonwillison.net/tags/security)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/17/uuid-v7/#atom-everything</guid>
+    </item>    <item>
+      <title>The Base M5 MacBook Pro vs. the M4 MacBook Air</title>
+      <link>https://www.apple.com/mac/compare/?modelList=MacBook-Air-M4,MacBook-Pro-14-M5,MacBook-Pro-14-M4-Pro</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42277</guid>
     </item>    <item>
       <title>The Base M5 MacBook Pro vs. the M4 MacBook Air</title>
       <link>https://www.apple.com/uk/mac/compare/?modelList=MacBook-Air-M4,MacBook-Pro-14-M5,MacBook-Pro-14-M4-Pro</link>

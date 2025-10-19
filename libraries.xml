@@ -4,7 +4,7 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>19 Oct 25 11:11 -0700</lastBuildDate>
+    <lastBuildDate>19 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -23,7 +23,7 @@
         <![CDATA[A stuffed bear goes on adventures in the woods with his friends.]]>
       </description>
       <source:markdown>A stuffed bear goes on adventures in the woods with his friends.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/a-a-milne/the-house-at-pooh-corner/downloads/a-a-milne_the-house-at-pooh-corner.epub?source=feed" length="469023" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/a-a-milne/the-house-at-pooh-corner/downloads/a-a-milne_the-house-at-pooh-corner.epub?source=feed" length="469060" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/a-a-milne/the-house-at-pooh-corner</guid>
     </item>    <item>
       <title>A New Cohort Project Focused on Centers of Teaching and Learning</title>
