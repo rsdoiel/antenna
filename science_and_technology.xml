@@ -4,10 +4,82 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>18 Oct 25 18:54 -0700</lastBuildDate>
+    <lastBuildDate>19 Oct 25 06:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Wikipedia: Bot-Traffic tarnt sich zunehmend als menschlich</title>
+      <link>https://www.heise.de/news/Wikipedia-Bot-Traffic-tarnt-sich-zunehmend-als-menschlich-10778492.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die freie Web-Enzyklopädie verzeichnet immer mehr automatisierte Zugriffe und appelliert an Betreiber von LLMs, Suchmaschinen und sozialen Medien.]]>
+      </description>
+      <source:markdown>Die freie Web-Enzyklopädie verzeichnet immer mehr automatisierte Zugriffe und appelliert an Betreiber von LLMs, Suchmaschinen und sozialen Medien.</source:markdown>
+      <guid>cid://http://heise.de/-10778492</guid>
+    </item>    <item>
+      <title>heise+ | Doppelkopf-Speicher: USB-Sticks mit Steckern für USB-C und USB-A im Test</title>
+      <link>https://www.heise.de/tests/Doppelkopf-Speicher-USB-Sticks-mit-Steckern-fuer-USB-C-und-USB-A-im-Test-10678834.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Kleine Speicher sind ungemein praktisch für den bequemen Datenaustausch. Inzwischen gibt es sie trotz des kompakten Formats mit der Geschwindigkeit von SSDs.]]>
+      </description>
+      <source:markdown>Kleine Speicher sind ungemein praktisch für den bequemen Datenaustausch. Inzwischen gibt es sie trotz des kompakten Formats mit der Geschwindigkeit von SSDs.</source:markdown>
+      <guid>cid://http://heise.de/-10678834</guid>
+    </item>    <item>
+      <title>heise-Angebot: iX-Workshop: Microsoft 365 sicher einrichten und datenschutzkonform betreiben</title>
+      <link>https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-einrichten-und-datenschutzkonform-betreiben-10750117.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Microsoft 365 sicher betreiben und notwendige Maßnahmen in Bezug auf Datenschutz und Informationssicherheit umsetzen.]]>
+      </description>
+      <source:markdown>Microsoft 365 sicher betreiben und notwendige Maßnahmen in Bezug auf Datenschutz und Informationssicherheit umsetzen.</source:markdown>
+      <guid>cid://http://heise.de/-10750117</guid>
+    </item>    <item>
+      <title>China: USA hacken Smartphones, um Zeitbehörde anzugreifen</title>
+      <link>https://www.heise.de/news/China-USA-hacken-Smartphones-um-Zeitbehoerde-anzugreifen-10778482.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Peking beschuldigt die US-Nachrichtendienstbehörde NSA, das nationale Zentrum zur Zeit-Verbreitung attackiert zu haben.]]>
+      </description>
+      <source:markdown>Peking beschuldigt die US-Nachrichtendienstbehörde NSA, das nationale Zentrum zur Zeit-Verbreitung attackiert zu haben.</source:markdown>
+      <guid>cid://http://heise.de/-10778482</guid>
+    </item>    <item>
+      <title>Neue Bahnchefin kündigt kompletten Neuanfang an</title>
+      <link>https://www.heise.de/news/Neue-Bahnchefin-kuendigt-kompletten-Neuanfang-an-10778472.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Evelyn Palla will die Deutsche Bahn umkrempeln: Mehr Macht für Mitarbeitende vor Ort, weniger Bürokratie, Schluss mit schmuddeligen Zügen.]]>
+      </description>
+      <source:markdown>Evelyn Palla will die Deutsche Bahn umkrempeln: Mehr Macht für Mitarbeitende vor Ort, weniger Bürokratie, Schluss mit schmuddeligen Zügen.</source:markdown>
+      <guid>cid://http://heise.de/-10778472</guid>
+    </item>    <item>
+      <title>heise+ | BioForge &#38; Diablo: Reverse Engineering bringt alte Spiele in neuem Glanz zurück</title>
+      <link>https://www.heise.de/hintergrund/BioForge-Diablo-Reverse-Engineering-bringt-alte-Spiele-in-neuem-Glanz-zurueck-10328302.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Reverse Engineering bringt Computerspiele aus den 80er- oder 90er-Jahren mit neuem Glanz, besserer Auflösung und mehr Details auf aktuelle Systeme.]]>
+      </description>
+      <source:markdown>Reverse Engineering bringt Computerspiele aus den 80er- oder 90er-Jahren mit neuem Glanz, besserer Auflösung und mehr Details auf aktuelle Systeme.</source:markdown>
+      <guid>cid://http://heise.de/-10328302</guid>
+    </item>    <item>
+      <title>heise-Angebot: data2day 2025: Praxiswissen zu KI in Data Science, Analytics und Engineering</title>
+      <link>https://www.heise.de/news/data2day-2025-Praxiswissen-zu-KI-in-Data-Science-Analytics-und-Engineering-10751973.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Wie Data-Teams die Herausforderungen künstlicher Intelligenz und deren Regulierung meistern, zeigt die data2day. Jetzt noch Tickets sichern.]]>
+      </description>
+      <source:markdown>Wie Data-Teams die Herausforderungen künstlicher Intelligenz und deren Regulierung meistern, zeigt die data2day. Jetzt noch Tickets sichern.</source:markdown>
+      <guid>cid://http://heise.de/-10751973</guid>
+    </item>    <item>
+      <title>heise+ | Im Vergleich: Apple iPhone 17 vs. Google Pixel 10 und Samsung Galaxy S25</title>
+      <link>https://www.heise.de/tests/Im-Vergleich-Apple-iPhone-17-vs-Google-Pixel-10-und-Samsung-Galaxy-S25-10661807.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Alle Welt schaut auf die teuren Pro- und Ultra-Modelle, doch die Basis bietet oft mehr fürs Geld. Das iPhone 17 legt mächtig zu und zeigt seine Qualitäten.]]>
+      </description>
+      <source:markdown>Alle Welt schaut auf die teuren Pro- und Ultra-Modelle, doch die Basis bietet oft mehr fürs Geld. Das iPhone 17 legt mächtig zu und zeigt seine Qualitäten.</source:markdown>
+      <guid>cid://http://heise.de/-10661807</guid>
+    </item>    <item>
+      <title>Missing Link: Taxi vs Uber – Lösen Mindesttarife für Mietwagen den Streit?</title>
+      <link>https://www.heise.de/hintergrund/Missing-Link-Taxi-vs-Uber-Loesen-Mindesttarife-fuer-Mietwagen-den-Streit-10751703.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Taxibranche fordert Mindestentgelte für Mietwagenfahrten, um unfairen Wettbewerb einzudämmen. Heidelberg und Essen reagieren, doch die Debatte geht weiter.]]>
+      </description>
+      <source:markdown>Die Taxibranche fordert Mindestentgelte für Mietwagenfahrten, um unfairen Wettbewerb einzudämmen. Heidelberg und Essen reagieren, doch die Debatte geht weiter.</source:markdown>
+      <guid>cid://http://heise.de/-10751703</guid>
+    </item>    <item>
       <title>Top 10: Das beste günstige Tablet bis 300 Euro – Xiaomi vor Samsung und Lenovo</title>
       <link>https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-guenstige-tablet-bis-300-euro-xiaomi-vor-samsung-und-lenovo/wq0c4t9?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
@@ -533,14 +605,6 @@ After a string of marriages and innumerable affairs, former UK prime minister Bo
       </description>
       <source:markdown>Texas und demnächst auch Kalifornien beginnen, den Kinder- und Jugendschutz bei Apps stärker zu regulieren. Das &#34;Age-Gating&#34; betrifft auch Google.</source:markdown>
       <guid>cid://http://heise.de/-10761931</guid>
-    </item>    <item>
-      <title>heise+ | BioForge &#38; Diablo: Reverse Engineering bringt alte Spiele in neuem Glanz zurück</title>
-      <link>https://www.heise.de/hintergrund/BioForge-Diablo-Reverse-Engineering-bringt-alte-Spiele-in-neuem-Glanz-zurueck-10328302.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
-      <description>
-        <![CDATA[Reverse Engineering bringt Computerspiele aus den 80er- oder 90er-Jahren mit neuem Glanz, besserer Auflösung und mehr Details auf aktuelle Systeme.]]>
-      </description>
-      <source:markdown>Reverse Engineering bringt Computerspiele aus den 80er- oder 90er-Jahren mit neuem Glanz, besserer Auflösung und mehr Details auf aktuelle Systeme.</source:markdown>
-      <guid>cid://http://heise.de/-10328302</guid>
     </item>    <item>
       <title>heise-Angebot: c&#39;t-Webinar: KI-Sprachmodelle im Arbeitsalltag effizient nutzen</title>
       <link>https://www.heise.de/news/c-t-Webinar-KI-Sprachmodelle-im-Arbeitsalltag-effizient-nutzen-10751269.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
@@ -1300,14 +1364,6 @@ US Senator Bill Cassidy has fired off a pointed letter to Cisco over the firewal
 
 Auction house Sotheby&#39;s says it was breached on July 24, and those behind the intrusion stole an unspecified amount of data, including Social Security numbers and financial account information.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242508</guid>
-    </item>    <item>
-      <title>heise+ | Doppelkopf-Speicher: USB-Sticks mit Steckern für USB-C und USB-A im Test</title>
-      <link>https://www.heise.de/tests/Doppelkopf-Speicher-USB-Sticks-mit-Steckern-fuer-USB-C-und-USB-A-im-Test-10678834.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
-      <description>
-        <![CDATA[Kleine Speicher sind ungemein praktisch für den bequemen Datenaustausch. Inzwischen gibt es sie trotz des kompakten Formats mit der Geschwindigkeit von SSDs.]]>
-      </description>
-      <source:markdown>Kleine Speicher sind ungemein praktisch für den bequemen Datenaustausch. Inzwischen gibt es sie trotz des kompakten Formats mit der Geschwindigkeit von SSDs.</source:markdown>
-      <guid>cid://http://heise.de/-10678834</guid>
     </item>    <item>
       <title>Tech industry grad hiring crashes 46% as bots do junior work</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/16/uk_tech_grad_jobs/</link>
