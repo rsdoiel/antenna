@@ -4,7 +4,7 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>18 Oct 25 15:36 -0700</lastBuildDate>
+    <lastBuildDate>18 Oct 25 18:54 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -7023,36 +7023,6 @@ Learn more about sponsor message choices: [podcastchoices.com/adchoices](https:/
         <![CDATA[<h4>The proposed 1:1 chip rule means nothing but pain for US tech until he’s out of office</h4> <p><strong>Comment</strong>  Ending America&#39;s reliance on foreign chip fabs remains a high priority for Uncle Sam, but the Trump administration&#39;s &#34;my way or the highway&#34; approach to the issue threatens to do more harm than good.…</p>]]>
       </description>
       <guid>cid://tag:theregister.com,2005:story242168</guid>
-    </item>    <item>
-      <title>Installing Linux on a PC-98 machine</title>
-      <link>https://www.osnews.com/story/143438/installing-linux-on-a-pc-98-machine/</link>
-      <description>
-        <![CDATA[What if you have a PC-98 machine, and you want to run Linux on it, as you do? I mean, CP/M, OS/2, or Windows (2000 and older) might not cut it for you, after all. Well, it turns out that yes, you can run Linux on PC-98 hardware, and thanks to a bunch of work by Nina Kalinina &#8211; yes, the same person from a few days ago &#8211; there&#8217;s now more information gathered in a single place to get you started. Plamo Linux is one of the few Linux distributions to support PC-98 series. Plamo 3.x is the latest distribution that can be installed on PC-9801 and PC-9821 directly. Unfortunately, it is quite old, and is missing lots of useful stuff. This repo is to share a-ha moments and binaries for Plamo on PC-98. ↫ Plamo98 goodies The repository details &#8220;upgrading&#8221; &#8211; it&#8217;s a bit more involved than plain upgrading, but it&#8217;s not hard &#8211; Plamo Linux from 3.x to 4, which gives you access to a bunch of things you might want, like GCC 3.3 over 2.95, KDE 3.x, Python 2.3, and more. There&#8217;s also custom BusyBox config files, a newer version of make, and a few other goodies and tools you might want to have. Once it&#8217;s all set and done, you can Linux like it&#8217;s 2003 on your PC-98. The number of people to whom this is relevant must be extraorinarily small, but at some point, someone is going to want to do this, only to find this repository of existing work. We&#8217;ve all been there.]]>
-      </description>
-      <source:markdown>What if you have a PC-98 machine, and you want to run Linux on it, as you do? I mean, CP/M, OS/2, or Windows (2000 and older) might not cut it for you, after all. Well, it turns out that yes, you can run Linux on PC-98 hardware, and thanks to a bunch of work by Nina Kalinina – yes, the same person from a few days ago – there’s now more information gathered in a single place to get you started. Plamo Linux is one of the few Linux distributions to support PC-98 series. Plamo 3.x is the latest distribution that can be installed on PC-9801 and PC-9821 directly. Unfortunately, it is quite old, and is missing lots of useful stuff. This repo is to share a-ha moments and binaries for Plamo on PC-98. ↫ Plamo98 goodies The repository details “upgrading” – it’s a bit more involved than plain upgrading, but it’s not hard – Plamo Linux from 3.x to 4, which gives you access to a bunch of things you might want, like GCC 3.3 over 2.95, KDE 3.x, Python 2.3, and more. There’s also custom BusyBox config files, a newer version of make, and a few other goodies and tools you might want to have. Once it’s all set and done, you can Linux like it’s 2003 on your PC-98. The number of people to whom this is relevant must be extraorinarily small, but at some point, someone is going to want to do this, only to find this repository of existing work. We’ve all been there.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=143438</guid>
-    </item>    <item>
-      <title>UNIX99: UNIX for the TI-99/4A</title>
-      <link>https://www.osnews.com/story/143436/unix99-unix-for-the-ti-99-4a/</link>
-      <description>
-        <![CDATA[I’ve been working on developing an operating system for the TI-99 for the last 18 months or so. I didn’t intend this—my original plan was to develop enough of the standard C libraries to help with writing cartridge-based and EA5 programs. But that trek led me quickly towards developing an OS. As Unix is by far my preferred OS, this OS is an approximation. Developing an OS within the resources available, particularly the RAM, has been challenging, but also surprisingly doable. ↫ UNIX99 forum announcement post We&#8217;re looking at a quite capable UNIX for the TI-99, with support for its sound, speech, sprites, and legacy 9918A display modes, GPU-accelerated scrolling, stdio (for text and binary files) and stdin/out/err support, a shell (of course), multiple user support, cooperative tasks support, and a ton more. And remember &#8211; all of this is running on a machine with a 16-bit processor running at 16MHz and a mere 16KB of RAM. Absolutely wild.]]>
-      </description>
-      <source:markdown>I’ve been working on developing an operating system for the TI-99 for the last 18 months or so. I didn’t intend this—my original plan was to develop enough of the standard C libraries to help with writing cartridge-based and EA5 programs. But that trek led me quickly towards developing an OS. As Unix is by far my preferred OS, this OS is an approximation. Developing an OS within the resources available, particularly the RAM, has been challenging, but also surprisingly doable. ↫ UNIX99 forum announcement post We’re looking at a quite capable UNIX for the TI-99, with support for its sound, speech, sprites, and legacy 9918A display modes, GPU-accelerated scrolling, stdio (for text and binary files) and stdin/out/err support, a shell (of course), multiple user support, cooperative tasks support, and a ton more. And remember – all of this is running on a machine with a 16-bit processor running at 16MHz and a mere 16KB of RAM. Absolutely wild.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=143436</guid>
-    </item>    <item>
-      <title>Hunt for RedNovember: Beijing hacked critical orgs in year-long snooping campaign</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/27/rednovember_chinese_espionage/</link>
-      <description>
-        <![CDATA[<h4>Not to be confused with all the other reports of Chinese intruders on US networks that came to light this week</h4> <p>RedNovember, a Chinese state-sponsored cyberspy group, targeted government and critical private-sector networks around the globe between June 2024 and July 2025, exploiting buggy internet-facing appliances to deploy a Go-based backdoor called Pantegana and other offensive security tools, including Cobalt Strike and SparkRAT.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242167</guid>
-    </item>    <item>
-      <title>Alibaba unveils $53B global AI plan – but it will need GPUs to back it up</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/27/alibaba_ai_drive/</link>
-      <description>
-        <![CDATA[<h4>Chinese giant maps out datacenters across Europe and beyond, yet US chip curbs cast a long shadow</h4> <p><strong>Analysis</strong>  Alibaba this week opened an AI war chest containing tens of billions of dollars, a revamped LLM lineup, and plans for AI datacenters in Europe. But it also prompted a flurry of questions over how it will achieve all this in an increasingly fragmented IT landscape, when critical resources are in short supply.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242132</guid>
     </item>
   </channel>
 </rss>
