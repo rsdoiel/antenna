@@ -4,10 +4,140 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>20 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>20 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Nexperia drama intensifies as Dutch chipmaker denies ousted CEO&#39;s claims of Chinese split</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/20/nexperia_drama_intensifies_ceo_china_claim/</link>
+      <description>
+        <![CDATA[<h4>The government in the Netherlands has taken control of the company</h4> <p>Nexperia, a Dutch chipmaker that&#39;s found itself at the center of a geopolitical crisis, has denied claims by its former CEO that its Chinese division is now operating as an independent entity.…</p>]]>
+      </description>
+      <source:markdown>#### The government in the Netherlands has taken control of the company
+
+Nexperia, a Dutch chipmaker that&#39;s found itself at the center of a geopolitical crisis, has denied claims by its former CEO that its Chinese division is now operating as an independent entity.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242566</guid>
+    </item>    <item>
+      <title>Electronic Eye Implant Restored Vision in Patients With Age-Related Macular Degeneration</title>
+      <link>https://www.smithsonianmag.com/smart-news/electronic-eye-implant-restored-vision-in-patients-with-age-related-macular-degeneration-180987541/</link>
+      <description>
+        <![CDATA[The device could be a boon for millions with vision loss from advancing age]]>
+      </description>
+      <source:markdown>The device could be a boon for millions with vision loss from advancing age</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Na2MUtWdAR4LslXU2Qb8F-0mr8U=/420x240/filters:focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f5/c3/f5c3fdf8-7c3b-4d0e-8462-cb30603b37f3/gettyimages-1398519163.jpg" length="" type="" />
+    </item>    <item>
+      <title>&#39;Feisty&#39; Otters Are Once Again Hijacking Surfboards in Santa Cruz</title>
+      <link>https://www.smithsonianmag.com/smart-news/feisty-otters-are-once-again-hijacking-surfboards-in-santa-cruz-180987540/</link>
+      <description>
+        <![CDATA[Is the playful otter stealing surfboards a repeat offender?]]>
+      </description>
+      <source:markdown>Is the playful otter stealing surfboards a repeat offender?</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/EOCT8yHFs6E4CgHrS66fykGxfOE=/420x240/filters:focal(1909x1273:1910x1274)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0b/0c/0b0c8ede-1896-467e-ac9b-195217a7847b/image0.jpeg" length="" type="" />
+    </item>    <item>
+      <title>Microsoft breaks USB input in Windows Recovery Environment</title>
+      <link>https://www.osnews.com/story/143591/microsoft-breaks-usb-input-in-windows-recovery-environment/</link>
+      <description>
+        <![CDATA[With official support for Windows 10 having officially ended a few days ago, let&#8217;s take a look and see how its successor, Windows 11, is doing. Microsoft released the&#160;first Patch Tuesday update (KB5066835)&#160;for Windows 11 25H2 this past week and it is probably fair to say that it has been a rough start for the new feature update. Despite the announcement of a wide rollout wherein the new version is&#160;now available for download for everyone, the company has already confirmed large-scale issues. First up, Microsoft was forced to issue an emergency workaround as the update&#160;broke localhost auth&#160;and following that the company today has confirmed another problem where recovery can become impossible if you happen to use a USB keyboard or mouse. ↫ Sayan Sen at Neowin Yes. This is a real thing. This latest round of patches makes it entirely impossible to navigate the Windows Recovery Environment with USB keyboards and mice. Since it&#8217;s 2025, USB is probably the protocol through which most people connect their keyboard and mice (although to be fair, some laptops probably still default to internal PS/2 for their touchpads). This means that if you run into a problem with Windows 11 that requires you to access the Windows Recovery Environment &#8211; perhaps OneDrive did too many lines of cocaine again &#8211; you can&#8217;t actually do anything inside of it. There&#8217;s no fix yet, so you either remove the offending patches, hope your PC still has a PS/2 port and you still have PS/2 peripherals, or hope Windows 11 won&#8217;t fall over and die until Microsoft releases a fix for the issue. Of course, people still using Windows 10, people who aren&#8217;t installing every single Windows 11 update as they become available, and people using real operating systems have nothing to worry about. You can&#8217;t help but wonder, though &#8211; with Microsoft pushing &#8220;AI&#8221; so hard, how many of these recent faceplants are the result of Microsoft engineers frantically trying to meet code quotas using Copilot?]]>
+      </description>
+      <source:markdown>With official support for Windows 10 having officially ended a few days ago, let’s take a look and see how its successor, Windows 11, is doing. Microsoft released the first Patch Tuesday update (KB5066835) for Windows 11 25H2 this past week and it is probably fair to say that it has been a rough start for the new feature update. Despite the announcement of a wide rollout wherein the new version is now available for download for everyone, the company has already confirmed large-scale issues. First up, Microsoft was forced to issue an emergency workaround as the update broke localhost auth and following that the company today has confirmed another problem where recovery can become impossible if you happen to use a USB keyboard or mouse. ↫ Sayan Sen at Neowin Yes. This is a real thing. This latest round of patches makes it entirely impossible to navigate the Windows Recovery Environment with USB keyboards and mice. Since it’s 2025, USB is probably the protocol through which most people connect their keyboard and mice (although to be fair, some laptops probably still default to internal PS/2 for their touchpads). This means that if you run into a problem with Windows 11 that requires you to access the Windows Recovery Environment – perhaps OneDrive did too many lines of cocaine again – you can’t actually do anything inside of it. There’s no fix yet, so you either remove the offending patches, hope your PC still has a PS/2 port and you still have PS/2 peripherals, or hope Windows 11 won’t fall over and die until Microsoft releases a fix for the issue. Of course, people still using Windows 10, people who aren’t installing every single Windows 11 update as they become available, and people using real operating systems have nothing to worry about. You can’t help but wonder, though – with Microsoft pushing “AI” so hard, how many of these recent faceplants are the result of Microsoft engineers frantically trying to meet code quotas using Copilot?</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143591</guid>
+    </item>    <item>
+      <title>Aid groups use AI-generated ‘poverty porn’ to juice fundraising efforts</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/20/aid_groups_scolded_fundraising_ai/</link>
+      <description>
+        <![CDATA[<h4>Researchers accuse tech firms of profiting from exploitative AI imagery</h4> <p>The starving child whose picture broke your heart when you saw it on a charity website may not be real. Global health researchers say that stock image companies like Adobe are profiting from AI-generated &#34;poverty porn&#34; that non-profits are using to drum up donations.…</p>]]>
+      </description>
+      <source:markdown>#### Researchers accuse tech firms of profiting from exploitative AI imagery
+
+The starving child whose picture broke your heart when you saw it on a charity website may not be real. Global health researchers say that stock image companies like Adobe are profiting from AI-generated &#34;poverty porn&#34; that non-profits are using to drum up donations.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242565</guid>
+    </item>    <item>
+      <title>Servo 0.0.1 released</title>
+      <link>https://www.osnews.com/story/143588/servo-0-0-1-released/</link>
+      <description>
+        <![CDATA[Today, the Servo team has released new versions of the servoshell binaries for all our supported platforms, tagged v0.0.1. These binaries are essentially the same nightly builds that were already available from the download page with additional manual testing, now tagging them explicitly as releases for future reference. ↫ Servo&#8217;s official blog Servo is making steady progress, and that&#8217;s awesome news. Every month a whole slew of new features and improvements make their way into this new browser engine, and I&#8217;m fairly confident Servo is our best shot at regaining some independence from Google and Apple in the web browser space. Other efforts are either too limited in scope, targeting only a specific niche, already being eaten alive by massive corporations, written in non-memory safe languages, run by people whose code I wouldn&#8217;t even trust to flush my toilet, or any combination thereof. Servo is it, folks. Our best shot.]]>
+      </description>
+      <source:markdown>Today, the Servo team has released new versions of the servoshell binaries for all our supported platforms, tagged v0.0.1. These binaries are essentially the same nightly builds that were already available from the download page with additional manual testing, now tagging them explicitly as releases for future reference. ↫ Servo’s official blog Servo is making steady progress, and that’s awesome news. Every month a whole slew of new features and improvements make their way into this new browser engine, and I’m fairly confident Servo is our best shot at regaining some independence from Google and Apple in the web browser space. Other efforts are either too limited in scope, targeting only a specific niche, already being eaten alive by massive corporations, written in non-memory safe languages, run by people whose code I wouldn’t even trust to flush my toilet, or any combination thereof. Servo is it, folks. Our best shot.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143588</guid>
+    </item>    <item>
+      <title>“I remember taking a screen shot of a video, and when I opened it in Paint, the video was playing in it!”</title>
+      <link>https://www.osnews.com/story/143586/i-remember-taking-a-screen-shot-of-a-video-and-when-i-opened-it-in-paint-the-video-was-playing-in-it/</link>
+      <description>
+        <![CDATA[In older versions of Windows, if you had a video playing, took a screenshot, and pasted that screenshot into Paint, you could sometimes see the video continue to play inside Paint. What kind of sorcery enabled this to happen? A few of you will realise instantly why this used to happen: render surfaces. Back in at least the Windows 9x days, playing video involved drawing solid green where you wanted the video to go (the video player window), rendering the video pixels to a surface shared with the graphics card, and then have the graphics card replace said green pixels with the video pixels from the shared surface. This approach has a whole array of benefits, not least of which is that it allowed you to render the video on a thread separate from the main user interface, so that if the main interface was sluggish or locked up, the video would keep rendering properly. You could also create two shared surfaces to render multiple frames at once, thereby eliminating tearing. Knowing this, it should be obvious what&#8217;s going on with the screenshot and Pain story. Now, when you load the image into Paint or any other image viewer, Windows sends those green pixels to the video card, but if the media player is still running, then its overlay is still active, and if you put Paint in the same place that the media player window is, then the green pixels in Paint get changed into the pixels of the active video. The video card doesn’t know that the pixels came from Paint. Its job is to look for green pixels in a certain region of the screen and change them into the pixels from the shared surface. If you move the Paint window to another position where it doesn’t overlap the media player, or if the media player isn’t playing a video, you will see the bitmap’s true nature: It’s just a bunch of green pixels. ↫ Raymond Chen at The Old New Thing I&#8217;ve never had this particular oddity happen, but I do have vague memories of video player windows rendering tons of green artifacts whenever something went wrong with the video player, the file it was trying to play, or whatever else, and I guess the cause of those green artifacts is the same. In modern operating systems, graphics rendering of the UI is done entirely on the GPU, with only the final composition being sent to your display. As such, the green screen effect no longer occurs.]]>
+      </description>
+      <source:markdown>In older versions of Windows, if you had a video playing, took a screenshot, and pasted that screenshot into Paint, you could sometimes see the video continue to play inside Paint. What kind of sorcery enabled this to happen? A few of you will realise instantly why this used to happen: render surfaces. Back in at least the Windows 9x days, playing video involved drawing solid green where you wanted the video to go (the video player window), rendering the video pixels to a surface shared with the graphics card, and then have the graphics card replace said green pixels with the video pixels from the shared surface. This approach has a whole array of benefits, not least of which is that it allowed you to render the video on a thread separate from the main user interface, so that if the main interface was sluggish or locked up, the video would keep rendering properly. You could also create two shared surfaces to render multiple frames at once, thereby eliminating tearing. Knowing this, it should be obvious what’s going on with the screenshot and Pain story. Now, when you load the image into Paint or any other image viewer, Windows sends those green pixels to the video card, but if the media player is still running, then its overlay is still active, and if you put Paint in the same place that the media player window is, then the green pixels in Paint get changed into the pixels of the active video. The video card doesn’t know that the pixels came from Paint. Its job is to look for green pixels in a certain region of the screen and change them into the pixels from the shared surface. If you move the Paint window to another position where it doesn’t overlap the media player, or if the media player isn’t playing a video, you will see the bitmap’s true nature: It’s just a bunch of green pixels. ↫ Raymond Chen at The Old New Thing I’ve never had this particular oddity happen, but I do have vague memories of video player windows rendering tons of green artifacts whenever something went wrong with the video player, the file it was trying to play, or whatever else, and I guess the cause of those green artifacts is the same. In modern operating systems, graphics rendering of the UI is done entirely on the GPU, with only the final composition being sent to your display. As such, the green screen effect no longer occurs.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143586</guid>
+    </item>    <item>
+      <title>Is This Mysterious Glow at the Center of the Milky Way Caused by Dark Matter?</title>
+      <link>https://www.smithsonianmag.com/smart-news/is-this-mysterious-glow-at-the-center-of-the-milky-way-caused-by-dark-matter-180987534/</link>
+      <description>
+        <![CDATA[An excess of gamma rays in the center of our galaxy could mean scientists have finally detected dark matter particles—or not]]>
+      </description>
+      <source:markdown>An excess of gamma rays in the center of our galaxy could mean scientists have finally detected dark matter particles—or not</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ZD6KoeZey9u9HnqVfr-XAG6KrZo=/420x240/filters:focal(5500x3143:5501x3144)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1d/7d/1d7dc13d-c300-43ae-89b6-6ba5b10cc60f/fermi_5_year_11000x6189.png" length="" type="" />
+    </item>    <item>
+      <title>Windows 11 tiptoes further into dark mode with new dialogs</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/20/windows_11_more_dark_mode_dialogs/</link>
+      <description>
+        <![CDATA[<h4>Some portions of the OS are still stuck on light</h4> <p>Windows 11 launched way back in October 2021 and has become Microsoft’s must-have OS thanks to the impending end-of-life for Windows 10. After all that time, there are still significant portions of the OS that don’t do dark mode. However, Redmond is making significant progress, bringing a couple of key dialog boxes into compliance.…</p>]]>
+      </description>
+      <source:markdown>#### Some portions of the OS are still stuck on light
+
+Windows 11 launched way back in October 2021 and has become Microsoft’s must-have OS thanks to the impending end-of-life for Windows 10. After all that time, there are still significant portions of the OS that don’t do dark mode. However, Redmond is making significant progress, bringing a couple of key dialog boxes into compliance.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242563</guid>
+    </item>    <item>
+      <title>Burglars Just Broke Into the Louvre and Stole Historic Crown Jewels in a Daring Daylight Heist</title>
+      <link>https://www.smithsonianmag.com/smart-news/burglars-just-broke-into-the-louvre-and-stole-historic-crown-jewels-in-a-daring-daylight-heist-180987539/</link>
+      <description>
+        <![CDATA[In a matter of minutes, thieves climbed a ladder and smashed display cases before fleeing the scene with eight valuable artifacts. The jewels had been housed just 270 yards from the "Mona Lisa"]]>
+      </description>
+      <source:markdown>In a matter of minutes, thieves climbed a ladder and smashed display cases before fleeing the scene with eight valuable artifacts. The jewels had been housed just 270 yards from the &#34;Mona Lisa&#34;</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/221RcRjeG9UF1FYFYU57iqVKoMU=/420x240/filters:focal(3954x2598:3955x2599)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4a/3f/4a3fb6c0-57bf-415f-9947-6231a997a74c/gettyimages-2241678550.jpeg" length="" type="" />
+    </item>    <item>
+      <title>US-Gericht verbietet NSO Group die Installation von Spyware auf WhatsApp</title>
+      <link>https://www.heise.de/news/US-Gericht-verbietet-NSO-Group-die-Installation-von-Spyware-auf-WhatsApp-10789187.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ein US-Bezirksgericht untersagt dem Spionagesoftware-Unternehmen NSO Group das Ausspähen von WhatsApp und reduziert zugleich den zu zahlenden Schadenersatz.]]>
+      </description>
+      <source:markdown>Ein US-Bezirksgericht untersagt dem Spionagesoftware-Unternehmen NSO Group das Ausspähen von WhatsApp und reduziert zugleich den zu zahlenden Schadenersatz.</source:markdown>
+      <guid>cid://http://heise.de/-10789187</guid>
+    </item>    <item>
+      <title>The early Unix history of chown() being restricted to root</title>
+      <link>https://www.osnews.com/story/143584/the-early-unix-history-of-chown-being-restricted-to-root/</link>
+      <description>
+        <![CDATA[Chris Siebenmann with another interesting look at a tiny detail of UNIX history. A few years ago I wrote about the divide in chown() about who got to give away files, where BSD and V7 were on one side, restricting it to root, while System III and System V were on the other, allowing the owner to give them away too.  The answer is that the restriction was added in V6, where the V6 chown(2) manual page has the same wording as V7. In Research Unix V5 and earlier, people can chown(2) away their own files; this is documented in the V4 chown(2) manual page and is what the V5 kernel code for chown() does. This behavior runs all the way back to the V1 chown() manual page, with an extra restriction that you can&#8217;t chown() setuid files. ↫ Chris Siebenmann The deeper levels of this particular rabbit hole need more exploring, though, as eventually Siebenmann hits a roadblock when trying to figure out why, exactly, the restriction was added, and why certain versions chose to not adopt the new restriction. This may be part of the lore of UNIX we won&#8217;t uncover, until one of the people involved speaks up.]]>
+      </description>
+      <source:markdown>Chris Siebenmann with another interesting look at a tiny detail of UNIX history. A few years ago I wrote about the divide in chown() about who got to give away files, where BSD and V7 were on one side, restricting it to root, while System III and System V were on the other, allowing the owner to give them away too. The answer is that the restriction was added in V6, where the V6 chown(2) manual page has the same wording as V7. In Research Unix V5 and earlier, people can chown(2) away their own files; this is documented in the V4 chown(2) manual page and is what the V5 kernel code for chown() does. This behavior runs all the way back to the V1 chown() manual page, with an extra restriction that you can’t chown() setuid files. ↫ Chris Siebenmann The deeper levels of this particular rabbit hole need more exploring, though, as eventually Siebenmann hits a roadblock when trying to figure out why, exactly, the restriction was added, and why certain versions chose to not adopt the new restriction. This may be part of the lore of UNIX we won’t uncover, until one of the people involved speaks up.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143584</guid>
+    </item>    <item>
+      <title>Today is when the Amazon brain drain finally sent AWS down the spout</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/</link>
+      <description>
+        <![CDATA[<h4>When your best engineers log off for good, don’t be surprised when the cloud forgets how DNS works</h4> <p><strong>column</strong>  &#34;It&#39;s always DNS&#34; is a long-standing sysadmin saw, and with good reason: a disproportionate number of outages are at their heart DNS issues. And so today, as AWS is still repairing its downed cloud as this article goes to press, it becomes clear that the culprit is once again DNS. But if you or I know this, AWS certainly does.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### When your best engineers log off for good, don’t be surprised when the cloud forgets how DNS works
+
+**column**  &#34;It&#39;s always DNS&#34; is a long-standing sysadmin saw, and with good reason: a disproportionate number of outages are at their heart DNS issues. And so today, as AWS is still repairing its downed cloud as this article goes to press, it becomes clear that the culprit is once again DNS. But if you or I know this, AWS certainly does.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242564</guid>
+    </item>    <item>
+      <title>Xubuntu downloads section injection threatens users with crypto infection</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/20/xubuntu_website_compromised/</link>
+      <description>
+        <![CDATA[<h4>Attempted exploit was a feeble effort to target Windows users</h4> <p>Someone managed to insert a compromised file into the downloads section of the website for Xubuntu, the official Ubuntu flavor with the Xfce desktop environment. The malware was designed to steal cryptocurrency, but so far, there are no reports of actual theft.…</p>]]>
+      </description>
+      <source:markdown>#### Attempted exploit was a feeble effort to target Windows users
+
+Someone managed to insert a compromised file into the downloads section of the website for Xubuntu, the official Ubuntu flavor with the Xfce desktop environment. The malware was designed to steal cryptocurrency, but so far, there are no reports of actual theft.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242562</guid>
+    </item>    <item>
+      <title>This Rare Fabergé Egg Might Set a World Record at Auction for the Third Time in Its History</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-rare-faberge-egg-might-set-a-world-record-at-auction-for-the-third-time-in-its-history-180987537/</link>
+      <description>
+        <![CDATA[Commissioned by the Russian emperor Nicholas II, the diamond-covered Winter Egg is expected to fetch $27 million when it goes under the hammer in London on December 2]]>
+      </description>
+      <source:markdown>Commissioned by the Russian emperor Nicholas II, the diamond-covered Winter Egg is expected to fetch $27 million when it goes under the hammer in London on December 2</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/skSbqxB5YnvmsFvPJCvI-e7AkgQ=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5b/84/5b8462ab-77fb-47cd-86b9-4694929795cf/egg.jpg" length="" type="" />
+    </item>    <item>
       <title>Top 10: Die beste mechanische Tastatur für Gaming im Test – Testsieger Keychron</title>
       <link>https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-mechanische-tastatur-fuer-gaming-im-test-testsieger-keychron/gj64hls?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
@@ -470,6 +600,14 @@ The long-running legal battle between ValueLicensing and Microsoft over the resa
     </item>    <item>
       <title>Lange erwartete kontextsensitive Siri: Angeblich &#34;Bedenken&#34; bei internen Test</title>
       <link>https://www.heise.de/news/Lange-erwartete-kontextsensitive-Siri-Angeblich-Bedenken-bei-internen-Text-10778833.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Apples verschobene, verbesserte Sprachassistentin soll im Frühjahr kommen. Doch das, was bislang da ist, scheint nicht alle internen Tester zu begeistern.]]>
+      </description>
+      <source:markdown>Apples verschobene, verbesserte Sprachassistentin soll im Frühjahr kommen. Doch das, was bislang da ist, scheint nicht alle internen Tester zu begeistern.</source:markdown>
+      <guid>cid://http://heise.de/-10778833</guid>
+    </item>    <item>
+      <title>Lange erwartete kontextsensitive Siri: Angeblich &#34;Bedenken&#34; bei internen Tests</title>
+      <link>https://www.heise.de/news/Lange-erwartete-kontextsensitive-Siri-Angeblich-Bedenken-bei-internen-Tests-10778833.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
         <![CDATA[Apples verschobene, verbesserte Sprachassistentin soll im Frühjahr kommen. Doch das, was bislang da ist, scheint nicht alle internen Tester zu begeistern.]]>
       </description>
