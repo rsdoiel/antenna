@@ -7,10 +7,60 @@
       Going Electric has feeds involving home and transportation options powered by Electricity
     </description>
     <link>https://rsdoiel.github.io/antenna/going_electric.xml</link>
-    <lastBuildDate>19 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>20 Oct 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Porsche Finally Has A New CEO. He&#39;s Big On Hybrids</title>
+      <link>https://insideevs.com/news/776329/porsche-new-ceo-hybrids/</link>
+      <description>
+        <![CDATA[Porsche’s new head honcho spearheaded the development of the first Cayenne hybrid and helped Ferrari launch its first hybrid supercars.]]>
+      </description>
+      <source:markdown>Porsche’s new head honcho spearheaded the development of the first Cayenne hybrid and helped Ferrari launch its first hybrid supercars.</source:markdown>
+      <enclosure url="https://cdn.motor1.com/images/mgl/W8763L/s3/2025-porsche-panamera-4s-e-hybrid-review.jpg" length="30324" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/776329/porsche-new-ceo-hybrids/</guid>
+    </item>    <item>
+      <title>The 2026 Ford Mustang Mach-E gets the California Special treatment, but with a twist</title>
+      <link>https://electrek.co/2025/10/20/ford-gives-mustang-mach-e-california-special-but-with-a-twist/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/10/Ford-Mustang-Mach-E-California-Special-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford’s electric crossover SUV is getting a new look. The <a href="https://electrek.co/guides/ford-mach-e/">2026 Ford Mustang Mach-E GT</a> is getting the California Special for the first time, but with a unique twist.</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-mach-e" data-layer-viewtype="unknown" data-post-id="439252" href="https://electrek.co/2025/10/20/ford-gives-mustang-mach-e-california-special-but-with-a-twist/#more-439252" class="more-link">more…</a>]]>
+      </description>
+      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2025/10/Ford-Mustang-Mach-E-California-Special-1.jpeg?quality=82&#38;strip=all&#38;w=1400)
+
+Ford’s electric crossover SUV is getting a new look. The [2026 Ford Mustang Mach-E GT](https://electrek.co/guides/ford-mach-e/) is getting the California Special for the first time, but with a unique twist.
+
+ [more…](https://electrek.co/2025/10/20/ford-gives-mustang-mach-e-california-special-but-with-a-twist/#more-439252)</source:markdown>
+      <guid>cid://https://electrek.co/?p=439252</guid>
+    </item>    <item>
+      <title>Volvo milestone: first L90 Electric wheel loader reaches customers</title>
+      <link>https://electrek.co/2025/10/20/volvo-milestone-first-l90-electric-wheel-loader-reaches-customers/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/10/L90_Electric.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://electrek.co/2025/06/29/volvo-delivers-5000th-electric-semi-with-little-fanfare-sending-a-big-message/#:~:text=Volvo%20delivered%20its%20first%20all,near%20the%20roads%20they%20travel.">After logging more than 100 million all-electric miles with deployed fleet of battery-powered semi trucks</a>, Volvo’s latest EV milestone can be found OFF the highway: the company’s new L90 Electric wheel loader has reached its first customers.</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,volvo" data-layer-viewtype="unknown" data-post-id="439669" href="https://electrek.co/2025/10/20/volvo-milestone-first-l90-electric-wheel-loader-reaches-customers/#more-439669" class="more-link">more…</a>]]>
+      </description>
+      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2025/10/L90_Electric.jpg?quality=82&#38;strip=all&#38;w=1600)
+
+[After logging more than 100 million all-electric miles with deployed fleet of battery-powered semi trucks](https://electrek.co/2025/06/29/volvo-delivers-5000th-electric-semi-with-little-fanfare-sending-a-big-message/#:~:text=Volvo%20delivered%20its%20first%20all,near%20the%20roads%20they%20travel.), Volvo’s latest EV milestone can be found OFF the highway: the company’s new L90 Electric wheel loader has reached its first customers.
+
+ [more…](https://electrek.co/2025/10/20/volvo-milestone-first-l90-electric-wheel-loader-reaches-customers/#more-439669)</source:markdown>
+      <guid>cid://https://electrek.co/?p=439669</guid>
+    </item>    <item>
+      <title>This Company Wants To Turn Your Old Pickup Into A Diesel Extended-Range EV</title>
+      <link>https://insideevs.com/news/776312/edison-motors-erev-pickup-kit/</link>
+      <description>
+        <![CDATA[Edison Motors claims its system can be retrofitted to just about any pickup out there at half the cost of a new truck.]]>
+      </description>
+      <source:markdown>Edison Motors claims its system can be retrofitted to just about any pickup out there at half the cost of a new truck.</source:markdown>
+      <enclosure url="https://cdn.motor1.com/images/mgl/qkBGZL/s3/edison-motors-diesel-extended-range-ev-dodge-ram.jpg" length="26123" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/776312/edison-motors-erev-pickup-kit/</guid>
+    </item>    <item>
       <title>Survey Sunday: we asked WHY you chose home solar, you answered</title>
       <link>https://electrek.co/2025/10/19/survey-sunday-we-asked-why-you-chose-home-solar-you-answered/</link>
       <description>
@@ -5402,62 +5452,6 @@ This new electric side-by-side from CFMoto is a battery-powered workhorse design
 
  [more…](https://electrek.co/2025/09/28/e-quipment-highlight-cfmoto-u6-electric-side-by-side-utv-video/#more-436232)</source:markdown>
       <guid>cid://https://electrek.co/?p=436232</guid>
-    </item>    <item>
-      <title>Why The Volvo EX60 Will Take Volvo&#39;s Battery Game To The Next Level</title>
-      <link>https://insideevs.com/news/773884/volvo-ex60-two-battery-chemistry-prismatic-cells/</link>
-      <description>
-        <![CDATA[The Volvo EX60 could be a game-changer for the brand when it goes on sale next year. It will offer cutting-edge battery technology.]]>
-      </description>
-      <source:markdown>The Volvo EX60 could be a game-changer for the brand when it goes on sale next year. It will offer cutting-edge battery technology.</source:markdown>
-      <enclosure url="https://cdn.motor1.com/images/mgl/VARWG/s3/volvo-concept-recharge-side-view.jpg" length="1" type="image/jpeg" />
-      <guid>cid://https://insideevs.com/news/773884/volvo-ex60-two-battery-chemistry-prismatic-cells/</guid>
-    </item>    <item>
-      <title>Volvo’s New Electric Bus Has A Gigantic Battery Pack</title>
-      <link>https://insideevs.com/news/773795/volvo-buses-bzr-electric-coach-chassis-battery-power-specs/</link>
-      <description>
-        <![CDATA[The Volvo BZR Electric coach chassis can accommodate up to eight 90 kWh battery modules for a maximum range of over 400 miles.]]>
-      </description>
-      <source:markdown>The Volvo BZR Electric coach chassis can accommodate up to eight 90 kWh battery modules for a maximum range of over 400 miles.</source:markdown>
-      <enclosure url="https://cdn.motor1.com/images/mgl/6Zee17/s3/volvo-bzr-electric-cd-coach.jpg" length="12781" type="image/jpeg" />
-      <guid>cid://https://insideevs.com/news/773795/volvo-buses-bzr-electric-coach-chassis-battery-power-specs/</guid>
-    </item>    <item>
-      <title>Yes, an EV really CAN power your home – if it’s one of these [update]</title>
-      <link>https://electrek.co/2025/09/28/yes-an-ev-really-can-power-your-home-if-its-one-of-these/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/09/taiga_orca-wx3.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Can an EV really help power your home when the power goes out? It’s one of the biggest FAQs people have about electric cars — but the answer can be a bit confusing. It’s either a yes, with a but – or a no, with an unless. To find out which EVs can offer vehicle-to-home (V2H) tech to keep the lights on or even lower your energy bills, keep on reading.</p>
-        
-        
-        
-        <p><strong>UPDATE</strong>: a new <a href="https://electrek.co/2025/09/28/yes-an-ev-really-can-power-your-home-if-its-one-of-these/#:~:text=2026%20Acura%20RSX%3B%20via%20Honda.">Acura</a>, and one you can <a href="https://electrek.co/2025/09/28/yes-an-ev-really-can-power-your-home-if-its-one-of-these/#:~:text=Taiga%20Orca%20WX3%3B%20via%20Taiga.">ride hard and put away wet</a>.</p>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,tesla-powerwall,v2h" data-layer-viewtype="unknown" data-post-id="432861" href="https://electrek.co/2025/09/28/yes-an-ev-really-can-power-your-home-if-its-one-of-these/#more-432861" class="more-link">more…</a>]]>
-      </description>
-      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2025/09/taiga_orca-wx3.jpg?quality=82&#38;strip=all&#38;w=1400)
-
-Can an EV really help power your home when the power goes out? It’s one of the biggest FAQs people have about electric cars — but the answer can be a bit confusing. It’s either a yes, with a but – or a no, with an unless. To find out which EVs can offer vehicle-to-home (V2H) tech to keep the lights on or even lower your energy bills, keep on reading.
-
-**UPDATE**: a new [Acura](https://electrek.co/2025/09/28/yes-an-ev-really-can-power-your-home-if-its-one-of-these/#:~:text=2026%20Acura%20RSX%3B%20via%20Honda.), and one you can [ride hard and put away wet](https://electrek.co/2025/09/28/yes-an-ev-really-can-power-your-home-if-its-one-of-these/#:~:text=Taiga%20Orca%20WX3%3B%20via%20Taiga.).
-
- [more…](https://electrek.co/2025/09/28/yes-an-ev-really-can-power-your-home-if-its-one-of-these/#more-432861)</source:markdown>
-      <guid>cid://https://electrek.co/?p=432861</guid>
-    </item>    <item>
-      <title>Survey Sunday: we asked you about the home solar tax credit, you answered</title>
-      <link>https://electrek.co/2025/09/28/survey-sunday-we-asked-about-the-home-solar-tax-credit-heres-what-we-learned/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/09/ucf-solar_education.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This month, we’ve been running a sidebar survey about what losing the federal home solar tax credit means for <em>Electrek</em> readers and how it impacts their solar power plans. After receiving nearly two thousand responses, here’s what you told us.</p>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="solar-power,survey" data-layer-viewtype="unknown" data-post-id="436179" href="https://electrek.co/2025/09/28/survey-sunday-we-asked-about-the-home-solar-tax-credit-heres-what-we-learned/#more-436179" class="more-link">more…</a>]]>
-      </description>
-      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2025/09/ucf-solar_education.jpg?quality=82&#38;strip=all&#38;w=1600)
-
-This month, we’ve been running a sidebar survey about what losing the federal home solar tax credit means for _Electrek_ readers and how it impacts their solar power plans. After receiving nearly two thousand responses, here’s what you told us.
-
- [more…](https://electrek.co/2025/09/28/survey-sunday-we-asked-about-the-home-solar-tax-credit-heres-what-we-learned/#more-436179)</source:markdown>
-      <guid>cid://https://electrek.co/?p=436179</guid>
     </item>
   </channel>
 </rss>

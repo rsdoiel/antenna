@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>19 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>20 Oct 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Fireworkz Pro 2 reaches version 2.33.00</title>
+      <link>https://www.riscository.com/2025/fireworkz-pro-2-33-00/</link>
+      <description>
+        <![CDATA[A new version of Fireworkz Pro 2 has been released by R-Comp (with availability via !Store and on CD at the RISC OS London Show on Saturday, 25th October). Over to Andrew Rawnsley for more details: We are pleased to announce the release of Fireworkz Pro version 2.33.00 as a free upgrade for existing users of 2.3x series. It is available to download now on !Store &#8211; look in your &#8220;My Software&#8221;. The new version includes a number of changes including: Improved load / save performance on modern systems (helpful&#8230;]]>
+      </description>
+      <source:markdown>A new version of Fireworkz Pro 2 has been released by R-Comp (with availability via !Store and on CD at the RISC OS London Show on Saturday, 25th October). Over to Andrew Rawnsley for more details: We are pleased to announce the release of Fireworkz Pro version 2.33.00 as a free upgrade for existing users of 2.3x series. It is available to download now on !Store – look in your “My Software”. The new version includes a number of changes including: Improved load / save performance on modern systems (helpful…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10760</guid>
+    </item>    <item>
       <title>b.log 2025/10/19 - The brown beverage lives!</title>
       <link>https://heyrick.eu/blog/entry/20251019</link>
       <description>
@@ -2026,14 +2034,6 @@ Although at least one [client re-creation](https://github.com/erfg12/AOL_4.0_Emu
       </description>
       <source:markdown>The October 2025 WROCC talk is on Wednesday 1st October and starts at at 7.45pm on Zoom.</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2232.html</guid>
-    </item>    <item>
-      <title>b.log 2025/09/28 - The parcel that eventually was, Ghosts, Ghosts (the other kind), Google and the enshittification of the web.</title>
-      <link>https://heyrick.eu/blog/entry/20250928</link>
-      <description>
-        <![CDATA[The parcel that eventually was, Ghosts, Ghosts (the other kind), Google and the enshittification of the web.]]>
-      </description>
-      <source:markdown>The parcel that eventually was, Ghosts, Ghosts (the other kind), Google and the enshittification of the web.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20250928</guid>
     </item>
   </channel>
 </rss>

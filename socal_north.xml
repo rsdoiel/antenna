@@ -7,10 +7,26 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>19 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>20 Oct 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Best things to do this week in Los Angeles and Southern California: October 20-23</title>
+      <link>https://laist.com/news/arts-and-entertainment/best-things-to-do-this-week-in-los-angeles-and-southern-california-october-20-23</link>
+      <description>
+        <![CDATA[Superchunk at Teregram, NowThis hosts a comedy show, a Vietnamese chef pop-up in Venice, two spooky cocktail experiences, and more of the best things to do this week.]]>
+      </description>
+      <source:markdown>Superchunk at Teregram, NowThis hosts a comedy show, a Vietnamese chef pop-up in Venice, two spooky cocktail experiences, and more of the best things to do this week.</source:markdown>
+      <guid>cid://urn:uuid:00000199-fffc-d0fc-a5df-ffffd8230000</guid>
+    </item>    <item>
+      <title>An uninsured Altadenan is determined to rebuild. Will the obstacles be insurmountable?</title>
+      <link>https://laist.com/news/climate-environment/altadena-rebuild-financial-obstacles</link>
+      <description>
+        <![CDATA[Most survivors of January's fires face a massive gap in the money they need to rebuild, and funding to help is moving too slowly or nonexistent.]]>
+      </description>
+      <source:markdown>Most survivors of January&#39;s fires face a massive gap in the money they need to rebuild, and funding to help is moving too slowly or nonexistent.</source:markdown>
+      <guid>cid://urn:uuid:00000199-f494-dc80-a5fb-fddc2a0a0000</guid>
+    </item>    <item>
       <title>President Trump commutes the prison sentence of George Santos</title>
       <link>https://laist.com/news/politics/president-trump-commutes-the-prison-sentence-of-george-santos</link>
       <description>
@@ -35,12 +51,12 @@
       <source:markdown>The two survivors of an American military strike on a suspected drug-carrying vessel in the Caribbean will be sent to Ecuador and Colombia, their home countries, President Trump said.</source:markdown>
       <guid>cid://urn:uuid:00000199-fd37-d0fc-a5df-fdbfebea0000</guid>
     </item>    <item>
-      <title>Israel strikes Gaza as both IDF and Hamas accuse each other of breaching ceasefire</title>
+      <title>Israel strikes Gaza as both Israel and Hamas accuse each other of breaching ceasefire</title>
       <link>https://laist.com/news/israel-and-hamas-accuse-each-other-of-breaching-fragile-ceasefire-in-gaza</link>
       <description>
-        <![CDATA[The Israel Defense Forces said Sunday it responded after "terrorists" attacked troops operating in the Rafah area with gunfire and an anti-tank missile. Hamas said it was unaware of the clashes.]]>
+        <![CDATA[Israel said Sunday it responded after "terrorists" attacked troops operating in the Rafah area with gunfire and an anti-tank missile. Hamas said it was unaware of the clashes.]]>
       </description>
-      <source:markdown>The Israel Defense Forces said Sunday it responded after &#34;terrorists&#34; attacked troops operating in the Rafah area with gunfire and an anti-tank missile. Hamas said it was unaware of the clashes.</source:markdown>
+      <source:markdown>Israel said Sunday it responded after &#34;terrorists&#34; attacked troops operating in the Rafah area with gunfire and an anti-tank missile. Hamas said it was unaware of the clashes.</source:markdown>
       <guid>cid://urn:uuid:00000199-fd34-d0fc-a5df-fdbfbecd0000</guid>
     </item>    <item>
       <title>Photos: Scenes from the No Kings Protests in SoCal and around the nation</title>
@@ -2905,38 +2921,6 @@ The post [Rain Barrel Purchase Program Returns on October 25](https://santaclari
       </description>
       <source:markdown>Vandenberg SFB&#39;s Family Child Care program is proud to announce its participation in the U.S. Department of Agriculture’s (USDA) Child and Adult Care Food Program (CACFP). The CACFP is available without charge to all enrolled children in the FCC program.  This will allow the FCC Providers to receive reimbursement for meals provided to children within their care.</source:markdown>
       <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4316731/vandenberg-family-child-care-program-announces-participation-in-the-child-and-a/</guid>
-    </item>    <item>
-      <title>Cal State system targeted for antisemitism probe by the Trump administration</title>
-      <link>https://laist.com/news/education/cal-state-system-targeted-for-antisemitism-probe-by-the-trump-administration</link>
-      <description>
-        <![CDATA[The 22-campus system is the latest higher education institution in California under investigation for alleged antisemitism.]]>
-      </description>
-      <source:markdown>The 22-campus system is the latest higher education institution in California under investigation for alleged antisemitism.</source:markdown>
-      <guid>cid://urn:uuid:00000199-90cb-d788-abdf-d5fbd3f10000</guid>
-    </item>    <item>
-      <title>When Yue Wa Market closes this week, Chinatown will lose a neighborhood anchor</title>
-      <link>https://laist.com/news/los-angeles-activities/yue-wa-market-closes-this-week-chinatown</link>
-      <description>
-        <![CDATA[Grocer Amy Tran survived nearly two decades, but then came rising rent, thefts, pandemic losses and a family crisis.]]>
-      </description>
-      <source:markdown>Grocer Amy Tran survived nearly two decades, but then came rising rent, thefts, pandemic losses and a family crisis.</source:markdown>
-      <guid>cid://urn:uuid:00000199-847c-d693-a19b-977de4350000</guid>
-    </item>    <item>
-      <title>LA nonprofit repairs depleted park lands, one ‘test plot&#39; at a time</title>
-      <link>https://laist.com/news/los-angeles-activities/test-plot-urban-park-restoration</link>
-      <description>
-        <![CDATA[The nonprofit Test Plot harnesses community and volunteer power to test out how best to preserve and replenish degraded lands.]]>
-      </description>
-      <source:markdown>The nonprofit Test Plot harnesses community and volunteer power to test out how best to preserve and replenish degraded lands.</source:markdown>
-      <guid>cid://urn:uuid:00000199-59ba-dc59-addd-5bfad7680000</guid>
-    </item>    <item>
-      <title>The eerie, delightful world of artist Roberto Benavidez&#39;s exquisite piñatas</title>
-      <link>https://laist.com/news/los-angeles-activities/the-delightful-eerie-world-of-artist-roberto-benavidezs-handmade-pinatas</link>
-      <description>
-        <![CDATA[The South Pasadena-based artist is having his first solo show in Los Angeles, featuring his beautiful, whimsical piñata pieces.]]>
-      </description>
-      <source:markdown>The South Pasadena-based artist is having his first solo show in Los Angeles, featuring his beautiful, whimsical piñata pieces.</source:markdown>
-      <guid>cid://urn:uuid:00000199-81af-dcb9-a9bb-f1ff9ee40000</guid>
     </item>
   </channel>
 </rss>
