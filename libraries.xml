@@ -4,10 +4,30 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>20 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>20 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Murders in Praed Street, by John Rhode</title>
+      <link>https://standardebooks.org/ebooks/john-rhode/the-murders-in-praed-street</link>
+      <description>
+        <![CDATA[An eccentric scientist investigates a series of shocking murders that terrorize London.]]>
+      </description>
+      <source:markdown>An eccentric scientist investigates a series of shocking murders that terrorize London.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/john-rhode/the-murders-in-praed-street/downloads/john-rhode_the-murders-in-praed-street.epub?source=feed" length="722303" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/john-rhode/the-murders-in-praed-street</guid>
+    </item>    <item>
+      <title>ARL Libraries Celebrate Open Access Week 2025</title>
+      <link>https://www.arl.org/blog/arl-libraries-celebrate-open-access-week-2025/</link>
+      <description>
+        <![CDATA[<p>Last Updated on October 20, 2025, 1:58 pm ET Open Access Week is an opportunity for the academic and research community to continue to learn about the benefits of open...</p>
+        <p>The post <a href="https://www.arl.org/blog/arl-libraries-celebrate-open-access-week-2025/">ARL Libraries Celebrate Open Access Week 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+      </description>
+      <source:markdown>Last Updated on October 20, 2025, 1:58 pm ET Open Access Week is an opportunity for the academic and research community to continue to learn about the benefits of open...
+
+The post [ARL Libraries Celebrate Open Access Week 2025](https://www.arl.org/blog/arl-libraries-celebrate-open-access-week-2025/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
+      <guid>cid://https://www.arl.org/?p=46427</guid>
+    </item>    <item>
       <title>Web Archive 96: How the Smithsonian Helped Create One of the First Wayback Machine Collections</title>
       <link>https://blog.archive.org/2025/10/20/web-archive-96-how-the-smithsonian-helped-create-one-of-the-first-wayback-machine-collections/</link>
       <description>

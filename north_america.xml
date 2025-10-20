@@ -4,10 +4,19 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>20 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>20 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Climate adaptation as part of the curriculum</title>
+      <link>https://www.marketplace.org/episode/2025/10/20/climate-adaptation-as-part-of-the-curriculum</link>
+      <description>
+        <![CDATA[<p>Agriculture is notoriously susceptible to the whims of the elements. Farmers and ranchers can see their entire livelihoods turn on one bad hailstorm or ill-timed heat wave, which are more frequent as our planet continues to warm. Today, we'll head to Colorado to hear about an apprenticeship program that's embedding climate literacy into its teachings. But first: the value of the dollar, this morning's web outages, and pain for small- and mid-sized businesses.</p>]]>
+      </description>
+      <source:markdown>Agriculture is notoriously susceptible to the whims of the elements. Farmers and ranchers can see their entire livelihoods turn on one bad hailstorm or ill-timed heat wave, which are more frequent as our planet continues to warm. Today, we&#39;ll head to Colorado to hear about an apprenticeship program that&#39;s embedding climate literacy into its teachings. But first: the value of the dollar, this morning&#39;s web outages, and pain for small- and mid-sized businesses.</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/10/20/mmr_20251020_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K810MRWZZ51Y09BNRFGFEN76" length="3629188" type="audio/mpeg" />
+      <guid>cid://01K810MRWZZ51Y09BNRFGFEN76</guid>
+    </item>    <item>
       <title>When a cloud service that powers much of the internet goes down</title>
       <link>https://www.marketplace.org/episode/2025/10/20/when-a-cloud-service-that-powers-much-of-the-internet-goes-down</link>
       <description>
