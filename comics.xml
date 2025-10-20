@@ -7,10 +7,32 @@
       Commics and Graphic Novel sites on the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/comics.xml</link>
-    <lastBuildDate>20 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>20 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Spooky comics</title>
+      <link>http://theoatmeal.com/blog/spooky_comics?no_popup=1</link>
+      <description>
+        <![CDATA[<a href="http://theoatmeal.com/blog/spooky_comics?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/spooky_comics_big.png" alt="Spooky comics" class="border0" /></a><p>All my spooky comics in one post.</p><a href="http://theoatmeal.com/blog/spooky_comics?no_popup=1">View on my website</a><br /><br />]]>
+      </description>
+      <source:markdown>[![Spooky comics](https://s3.amazonaws.com/theoatmeal-img/thumbnails/spooky_comics_big.png)](http://theoatmeal.com/blog/spooky_comics?no_popup=1)
+
+All my spooky comics in one post.
+
+ [View on my website](http://theoatmeal.com/blog/spooky_comics?no_popup=1)</source:markdown>
+    </item>    <item>
+      <title>Screen-addicted couples</title>
+      <link>http://theoatmeal.com/comics/screen_addicted?no_popup=1</link>
+      <description>
+        <![CDATA[<a href="http://theoatmeal.com/comics/screen_addicted?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/screen_addicted_big.png" alt="Screen-addicted couples" class="border0" /></a><p>A comic about a couple being addicted to screens.</p><a href="http://theoatmeal.com/comics/screen_addicted?no_popup=1">View on my website</a><br /><br />]]>
+      </description>
+      <source:markdown>[![Screen-addicted couples](https://s3.amazonaws.com/theoatmeal-img/thumbnails/screen_addicted_big.png)](http://theoatmeal.com/comics/screen_addicted?no_popup=1)
+
+A comic about a couple being addicted to screens.
+
+ [View on my website](http://theoatmeal.com/comics/screen_addicted?no_popup=1)</source:markdown>
+    </item>    <item>
       <title>A cartoonist&#39;s review of AI art</title>
       <link>http://theoatmeal.com/comics/ai_art?no_popup=1</link>
       <description>

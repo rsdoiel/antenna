@@ -4,10 +4,27 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>20 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>20 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Fireworkz Pro 2 version 2.33.00 released</title>
+      <link>http://www.iconbar.com/comments/rss/news2245.html</link>
+      <description>
+        <![CDATA[R-Comp has released a free update for Fireworkz Pro]]>
+      </description>
+      <source:markdown>R-Comp has released a free update for Fireworkz Pro</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2245.html</guid>
+    </item>    <item>
+      <title>LMDE 7 Now Available</title>
+      <link>http://www.linux-magazine.com/Online/News/LMDE-7-Now-Available</link>
+      <description>
+        <![CDATA[<p>Linux Mint Debian Edition, version 7, has been officially released and is based on upstream Debian.</p>]]>
+      </description>
+      <source:markdown>Linux Mint Debian Edition, version 7, has been officially released and is based on upstream Debian.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://4e5c1de3f5d7f41e6d152fce8ef1d32a</guid>
+    </item>    <item>
       <title>Fireworkz Pro 2 reaches version 2.33.00</title>
       <link>https://www.riscository.com/2025/fireworkz-pro-2-33-00/</link>
       <description>

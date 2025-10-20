@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Retro Computing News</title>
-        <dateCreated>20 Oct 25 06:09 -0700</dateCreated>
+        <dateCreated>20 Oct 25 11:10 -0700</dateCreated>
     </head>
     <body>
         <outline text="Acorn Arcade" type="rss" category="Acorn Arcade: News" xmlUrl="https://www.acornarcade.com/rss-rss20.php" htmlUrl="http://www.acornarcade.com/" description="Gaming news and views"></outline>
