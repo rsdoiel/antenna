@@ -4,10 +4,18 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>20 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>20 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>After years of shrinking, why is the gender pay gap getting wider?</title>
+      <link>https://www.npr.org/2025/10/20/nx-s1-5575646/after-years-of-shrinking-why-is-the-gender-pay-gap-getting-wider</link>
+      <description>
+        <![CDATA[After years of shrinking, the gender pay gap is widening. NPR's Mary Louise Kelly talks with <em>Washington Post</em> reporter Taylor Telford about why some women are leaving the workforce.]]>
+      </description>
+      <source:markdown>After years of shrinking, the gender pay gap is widening. NPR&#39;s Mary Louise Kelly talks with _Washington Post_ reporter Taylor Telford about why some women are leaving the workforce.</source:markdown>
+      <guid>cid://https://www.npr.org/2025/10/20/nx-s1-5575646/after-years-of-shrinking-why-is-the-gender-pay-gap-getting-wider</guid>
+    </item>    <item>
       <title>Climate adaptation as part of the curriculum</title>
       <link>https://www.marketplace.org/episode/2025/10/20/climate-adaptation-as-part-of-the-curriculum</link>
       <description>
