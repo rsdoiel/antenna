@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>21 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>21 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -38,6 +38,388 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <title>Vajra Chandrasekera has won the 2025 Ursula K. Le Guin Prize for Fiction.</title>
+      <link>https://lithub.com/vajra-chandrasekera-has-won-the-2025-ursula-k-le-guin-prize-for-fiction/</link>
+      <description>
+        <![CDATA[Today, the Ursula K. Le Guin Foundation announced Vajra Chandrasekera&#8217;s Rakesfall as the winner of the 2025 Ursula K. Le Guin Prize for Fiction, which seeks to reward books that represent the legendary writer’s literary, moral, and aesthetic ideals: “realists]]>
+      </description>
+      <source:markdown>Today, the Ursula K. Le Guin Foundation announced Vajra Chandrasekera’s Rakesfall as the winner of the 2025 Ursula K. Le Guin Prize for Fiction, which seeks to reward books that represent the legendary writer’s literary, moral, and aesthetic ideals: “realists</source:markdown>
+      <guid>cid://https://lithub.com/?p=261529</guid>
+    </item>    <item>
+      <title>Bingeworthy</title>
+      <link>http://scripting.com/2025/10/21/172400.html?title=bingeworthy</link>
+      <description>
+        <![CDATA[<p>This is a <a href="https://tv.bingeworthy.org/">product</a> i created a few years back but it went off the air when Twitter exploded for app devs, now it's back and still lovely. </p>
+        <p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/10/21/bingeworthyScreen.png"></center>BingeWorthy screen shot.</div></p>]]>
+      </description>
+      <source:markdown>This is a [product](https://tv.bingeworthy.org/) i created a few years back but it went off the air when Twitter exploded for app devs, now it&#39;s back and still lovely.
+
+![](https://imgs.scripting.com/2025/10/21/bingeworthyScreen.png)BingeWorthy screen shot.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/21/172400.html</guid>
+    </item>    <item>
+      <title>Hitler, Stalin, Freud, Trotsky, and Franz Joseph all lived within a radius...</title>
+      <link>https://kottke.org/25/10/0047742-hitler-stalin-freud-trots</link>
+      <guid>cid://tag:kottke.org,2025://13.47742</guid>
+    </item>    <item>
+      <link>https://arstechnica.com/space/2025/10/the-mystery-object-that-struck-a-plane-in-flight-it-was-probably-a-weather-balloon/</link>
+      <description>
+        <![CDATA[<p>It wasn’t space debris that struck a United Airlines plane—it was a weather balloon.</p>]]>
+      </description>
+      <source:markdown>It wasn’t space debris that struck a United Airlines plane—it was a weather balloon.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/21/1585/</guid>
+    </item>    <item>
+      <title>‘Apocryphal Inventions’</title>
+      <link>https://jonathanhoefler.com/inventions</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42294</guid>
+    </item>    <item>
+      <title>Anthropic Promises Trump Admin Its AI Is Not Woke</title>
+      <link>https://www.404media.co/anthropic-promises-trump-admin-its-ai-is-not-woke/</link>
+      <description>
+        <![CDATA[After condemnation from Trump’s AI czar, Anthropic’s CEO promised its AI is not woke.]]>
+      </description>
+      <source:markdown>After condemnation from Trump’s AI czar, Anthropic’s CEO promised its AI is not woke.</source:markdown>
+      <guid>cid://68f7b887e9f501000170b219</guid>
+    </item>    <item>
+      <title>Here Lies Humanity, Dead by Fancy Autocomplete</title>
+      <link>https://davekarpf.substack.com/p/here-lies-humanity-dead-by-fancy</link>
+      <description>
+        <![CDATA[Adam Becker and I discuss everything that annoyed us about Eliezer Yudkowsky's new book]]>
+      </description>
+      <source:markdown>Adam Becker and I discuss everything that annoyed us about Eliezer Yudkowsky&#39;s new book</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/176751223/06684c67bf9a0a7d9c1e5ecb03d40df5.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://davekarpf.substack.com/p/here-lies-humanity-dead-by-fancy</guid>
+    </item>    <item>
+      <title>iOS 26.1 Beta 4 Adds New Toggle for Liquid Glass: Clear or Tinted</title>
+      <link>https://9to5mac.com/2025/10/20/ios-26-1-beta-4-adds-new-setting-to-tone-down-liquid-glass-transparency/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42293</guid>
+    </item>    <item>
+      <title>Quantity queries using has() selector</title>
+      <link>https://css-tip.com/quantity-queries/</link>
+      <description>
+        <![CDATA[<p>Here&#8217;s a handy little tool for generating CSS with <code>:has()</code> selectors in order to do quantity queries.</p>
+        
+        <p><a href="https://adactio.com/links/22206">adactio.com/links/22206</a></p>]]>
+      </description>
+      <source:markdown>Here’s a handy little tool for generating CSS with `:has()` selectors in order to do quantity queries.
+
+[adactio.com/links/22206](https://adactio.com/links/22206)</source:markdown>
+      <guid>cid://https://css-tip.com/quantity-queries/</guid>
+    </item>    <item>
+      <title>The Neurodivergent Genius Who Invented Formula 1 For Marbles. &#38;#8220;This is the...</title>
+      <link>https://kottke.org/25/10/0047644-the-neurodivergent-genius</link>
+      <guid>cid://tag:kottke.org,2025://13.47644</guid>
+    </item>    <item>
+      <title>Read &#34;Running a Local Paper? In This Economy?&#34;</title>
+      <link>https://www.mollywhite.net/reading/shortform?search=Running%20a%20Local%20Paper%3F%20In%20This%20Economy%3F</link>
+      <guid>cid://68f7a6f69f72b44b384e9aab</guid>
+    </item>    <item>
+      <title>Jake Archibald is speaking at Web Day Out</title>
+      <link>https://adactio.com/journal/22205</link>
+      <description>
+        <![CDATA[<p>I’m very happy to announce that the one and only <a href="https://jakearchibald.com/">Jake Jaffa-The-Cake Archibald</a> will be speaking at <a href="https://webdayout.com/">Web Day Out</a>!</p>
+        
+        <p>Given <a href="https://webdayout.com/agenda/">the agenda</a> for this event, I think you’ll agree that Jake is a perfect fit. He’s been at the forefront of championing user-centred web standards, writing specs and shipping 
+        features in browsers.</p>
+        
+        <p>Along the way he’s also created two valuable performance tools that I use all the time: <a href="https://jakearchibald.github.io/svgomg/">SVGOMG</a> and <a href="https://squoosh.app/">Squoosh</a>, which has a permanent place in my dock—if you need to compress images, I highly recommend adding this progressive web app to your desktop.</p>
+        
+        <p>He’s the man behind <a href="https://goingoffline.adactio.com/">service workers</a> and view transitions—two of the most important features for making websites first-class citizens on any device.</p>
+        
+        <p>So what will he talk about at Web Day Out? Image formats? Offline functionality? Smooth animations? Something else entirely?</p>
+        
+        <p>All will be revealed soon. In the meantime, <a href="https://ti.to/clearleft/web-day-out">grab yourself a ticket to Web Day Out</a>—it’s just £225+VAT—and I’ll see you in Brighton on Thursday, 12 March 2026!</p>]]>
+      </description>
+      <source:markdown>I’m very happy to announce that the one and only [Jake Jaffa-The-Cake Archibald](https://jakearchibald.com/) will be speaking at [Web Day Out](https://webdayout.com/)!
+
+Given [the agenda](https://webdayout.com/agenda/) for this event, I think you’ll agree that Jake is a perfect fit. He’s been at the forefront of championing user-centred web standards, writing specs and shipping
+features in browsers.
+
+Along the way he’s also created two valuable performance tools that I use all the time: [SVGOMG](https://jakearchibald.github.io/svgomg/) and [Squoosh](https://squoosh.app/), which has a permanent place in my dock—if you need to compress images, I highly recommend adding this progressive web app to your desktop.
+
+He’s the man behind [service workers](https://goingoffline.adactio.com/) and view transitions—two of the most important features for making websites first-class citizens on any device.
+
+So what will he talk about at Web Day Out? Image formats? Offline functionality? Smooth animations? Something else entirely?
+
+All will be revealed soon. In the meantime, [grab yourself a ticket to Web Day Out](https://ti.to/clearleft/web-day-out)—it’s just £225+VAT—and I’ll see you in Brighton on Thursday, 12 March 2026!</source:markdown>
+      <guid>cid://https://adactio.com/journal/22205</guid>
+    </item>    <item>
+      <title>OpenAI Catches Up to AI Market Reality: People Are Horny</title>
+      <link>https://www.404media.co/openai-sam-altman-interview-chatgpt-erotica/</link>
+      <description>
+        <![CDATA[Just two months ago, Sam Altman acknowledged that putting a “sex bot avatar” in ChatGPT would be a move to “juice growth.” Something the company had been tempted to do, he said, but had resisted.]]>
+      </description>
+      <source:markdown>Just two months ago, Sam Altman acknowledged that putting a “sex bot avatar” in ChatGPT would be a move to “juice growth.” Something the company had been tempted to do, he said, but had resisted.</source:markdown>
+      <guid>cid://68f79ecae9f50100016e58fd</guid>
+    </item>    <item>
+      <title>1984 v A Brave New World</title>
+      <link>https://news.lettersofnote.com/p/1984-v-a-brave-new-world</link>
+      <description>
+        <![CDATA[Two giants collide]]>
+      </description>
+      <source:markdown>Two giants collide</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!VchQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde43dc61-bb75-4ad9-a172-7267240adfaf_1029x726.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://news.lettersofnote.com/p/1984-v-a-brave-new-world</guid>
+    </item>    <item>
+      <title>Depreciation</title>
+      <link>https://blog.dshr.org/2025/10/depreciation.html</link>
+      <description>
+        <![CDATA[<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxcUZnhTqEC4hPAPlMo4I17ELbs0p9hDEd8fIaTbX9EAp-fzbrXR33eScrOvahNmwkmtwyYKwlpaf68qB-IWUeVetlF4n8PFTG0jxfV6jcW4ZKAl__QjfdyWMetFjWiMAHIW57vA07MQS9-w2JBut0kMO3yi_jcK-8pGyJUyVmgI5ZR_4m-_xfLsWlQ/s742/DepreciationRates.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="354" data-original-width="742" height="96" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxcUZnhTqEC4hPAPlMo4I17ELbs0p9hDEd8fIaTbX9EAp-fzbrXR33eScrOvahNmwkmtwyYKwlpaf68qB-IWUeVetlF4n8PFTG0jxfV6jcW4ZKAl__QjfdyWMetFjWiMAHIW57vA07MQS9-w2JBut0kMO3yi_jcK-8pGyJUyVmgI5ZR_4m-_xfLsWlQ/w200-h96/DepreciationRates.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://paulbutler.org/2022/the-problem-with-bitcoin-miners/">Source</a></td></tr></tbody></table>
+        More than three years ago, based on Paul Butler's <a href="https://paulbutler.org/2022/the-problem-with-bitcoin-miners/"><i>The problem with bitcoin miners</i></a>, I wrote <a href="https://blog.dshr.org/2022/05/generally-accepted-accounting-principles.html"><i>Generally Accepted Accounting Principles</i></a>. The TL;DR was that the economic life of Bitcoin mining rigs was estimated at <a href="https://doi.org/10.1016/j.resconrec.2021.105901">16 months</a>, as Moore's law in a competitive ASIC market rapidly generated more power-efficient rigs. But the Bitcoin miners's accounts were using 5-year straight-line depreciation for their rigs, which was significantly increasing their nominal profits.<br />
+        <br />
+        Below the fold I look at the same problem unfolding in the heart of the AI bubble.<br />
+        <span><a name='more'></a></span>
+        <br />
+        Six months after we started Nvidia we knew over thirty other startups trying to build graphics chips for the PC. A major reason that only ATI survived was that, after the second chip, Nvidia released a better chip every six months like clockwork. I explained the technology that made, and still makes, this possible in <a href="https://blog.dshr.org/2025/05/the-dawn-of-nvidias-technology.html"><i>The Dawn Of Nvidia's Technology</i></a>, but in the long term equally important was that the idea of a fixed cadence got built into the company's culture, and this now applies not just to graphics chips but also to <a href="https://www.economist.com/business/2025/09/18/the-4trn-accounting-puzzle-at-the-heart-of-the-ai-cloud">AI chips</a>:<br />
+        <blockquote>
+        Last year Nvidia, ..., said it would unveil a fresh AI chip every year rather than every couple of years. In March its boss, Jensen Huang, remarked that “when Blackwell starts shipping in volume, you couldn’t give Hoppers away,” referring to Nvidia’s latest chips and their predecessors, respectively.
+        </blockquote>
+        The systems are estimated to be more than half the capex for a new data center. Much of its opex is power. Just as with mining rigs, the key feature of each successive generation of AI chips is that it is more efficient at using power. But that doesn't mean they use less power, they use more but less per operation. The need for enhanced power distribution and the concomitant cooling is what has prevented new AI systems being installed in legacy data centers. Presumably the next few generations will be compatible with current state of the art data center infrastructure, so they can directly replace their predecessors and thereby reduce costs.<br />
+        <br />
+        It is often assumed that the majority of the opex of AI platforms goes into training, which is a once per generation cost that can be amortized over the huge number of inference operations needed to answer prompts. But as James O'Donnell and Casey Crownhart report in <a href="https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/"><i>We did the math on AI’s energy footprint. Here’s the story you haven’t heard.</i></a>:<br />
+        <blockquote>
+        As conversations with experts and AI companies made clear, inference, not training, represents an increasing majority of AI’s energy demands and will continue to do so in the near future. It’s now estimated that 80–90% of computing power for AI is used for inference.
+        </blockquote>
+        So 80-90% of the opex is per-query, which makes improving system efficiency critical to reducing the torrent of cash these platforms are hemorrhaging. Ed Zitron <a href="https://www.wheresyoured.at/oai-business/">estimated that</a>:
+        <blockquote>
+        To be abundantly clear, as it stands, OpenAI currently spends $2.35 to make $1.
+        </blockquote>
+        This makes Jensen's quip somewhat credible.<br />
+        <br />
+        A month ago I missed <i>The Economist's</i> discovery of the AI version of <a href="https://paulbutler.org/2022/the-problem-with-bitcoin-miners/">Paul Butler's Bitcoin post</a>, entitled <a href="https://www.economist.com/business/2025/09/18/the-4trn-accounting-puzzle-at-the-heart-of-the-ai-cloud"><i>The $4trn accounting puzzle at the heart of the AI cloud</i></a>. The cost of these rapidly depreciating assets is huge:<br />
+        <blockquote>
+        AI revenues and expenditures are likewise a 13-figure affair nowadays. Worldwide spending on AI hardware and software nudged $1trn last year, according to Gartner, a research firm. This is likely to double to $2trn in 2026. Between 2024 and 2026 the five listed AI powerhouses will have splurged over $1trn on capital investments, chiefly AI data centres. A slug will end up with Nvidia and Broadcom, which furnish them and others with AI semiconductors. The duo (combined market capitalisation: $6trn) are together forecast to book almost $1trn in sales over that period.
+        </blockquote>
+        The platforms haven't been depreciating these assets at <a href="https://www.economist.com/business/2025/09/18/the-4trn-accounting-puzzle-at-the-heart-of-the-ai-cloud">realistic rates</a>:<br />
+        <blockquote>
+        biggest customers have in recent times been raising their servers’ lifetimes, reducing depreciation charges in their accounts. Microsoft pushed it up from four to six years in 2022. Alphabet did the same in 2023. Amazon and Oracle changed it from five to six in 2024. And in January Meta moved from five to five and a half years.
+        </blockquote>
+        The reason for these accounting games is that they make a significant <a href="https://www.economist.com/business/2025/09/18/the-4trn-accounting-puzzle-at-the-heart-of-the-ai-cloud">difference to the bottom line</a>:<br />
+        <blockquote>
+        Amazon reversed course and moved back to five years for some kit, noting this would cut operating profit in 2025 by $700m, or about 1%, owing to a higher depreciation expense. Given the rapid advances in chipmaking, that seems optimistic. And Amazon’s AI rivals clinging to their elongated depreciation schedules look Pollyannaish. In July Jim Chanos, a veteran short-seller, posted that if the true economic lifespan of Meta’s AI chips is two to three years, then “most of its ‘profits’ are materially overstated.” A recent analysis of Alphabet, Amazon and Meta by Barclays, a bank, estimated that higher depreciation costs would shave 5-10% from their earnings per share.
+        </blockquote>
+        And thus to their stock price. If they went to a <a href="https://www.economist.com/business/2025/09/18/the-4trn-accounting-puzzle-at-the-heart-of-the-ai-cloud">3-year straight-line depreciation</a>:<br />
+        <blockquote>
+        At the five companies’ current ratio of market capitalisation to pre-tax profit, this would amount to a $780bn knock to their combined value. Redo the sums depreciating the servers over two years instead of three and the size of the hit rises to $1.6trn. Take Mr Huang literally, and you get a staggering $4trn, equivalent to one-third of their collective worth.
+        </blockquote>
+        A big chunk of the AI platforms' investment in the hardware is financed with debt. If the lenders are using a five-year life when valuing the hardware as collateral they will run into trouble too. It is rumored that Macquairie was lending against GPUs using a seven-year life.<br />
+        <br />
+        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxcUZnhTqEC4hPAPlMo4I17ELbs0p9hDEd8fIaTbX9EAp-fzbrXR33eScrOvahNmwkmtwyYKwlpaf68qB-IWUeVetlF4n8PFTG0jxfV6jcW4ZKAl__QjfdyWMetFjWiMAHIW57vA07MQS9-w2JBut0kMO3yi_jcK-8pGyJUyVmgI5ZR_4m-_xfLsWlQ/s742/DepreciationRates.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="354" data-original-width="742" height="96" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxcUZnhTqEC4hPAPlMo4I17ELbs0p9hDEd8fIaTbX9EAp-fzbrXR33eScrOvahNmwkmtwyYKwlpaf68qB-IWUeVetlF4n8PFTG0jxfV6jcW4ZKAl__QjfdyWMetFjWiMAHIW57vA07MQS9-w2JBut0kMO3yi_jcK-8pGyJUyVmgI5ZR_4m-_xfLsWlQ/w200-h96/DepreciationRates.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://paulbutler.org/2022/the-problem-with-bitcoin-miners/">Source</a></td></tr></tbody></table>
+        But as Paul Butler pointed out, straight-line depreciation over-estimates the value of older but not yet uneconomic assets. I described <a href="https://blog.dshr.org/2022/05/generally-accepted-accounting-principles.html">Butler's graph</a>:
+        <blockquote>
+        Butler uses historical hash rate data to compute the actual depreciation curves for mining hardware, plotting the percentage of the initial bitcoin production rate against time in quarters for each quarter since Bitcoin's inception. The graph shows that initially (bluest lines), when GPUs were introduced, they stopped producing after about 5 quarters. Recently (magenta-est lines), ASICs last longer, stopping producing after about 4 years. But for the whole of Bitcoin's existence the hardware has depreciated far faster than the GAAP's five year straight line.
+        </blockquote>
+        But I <a href="https://blog.dshr.org/2022/05/generally-accepted-accounting-principles.html">argued that it was too optimstic</a>:<br />
+        <blockquote>
+        He assumes that the ASICs are obsolete when they can no longer keep up with the hash rate so are no longer mining any Bitcoin. That is wrong. ASICs are obsolete when the Bitcoin they mine <i>no longer pay for the electricity they use</i>. The newer ASICs aren't just faster, they also use much less energy per hash. Look again at the depreciation graph, which suggests current ASICs go obsolete after 16 quarters. But <a href="https://doi.org/10.1016/j.resconrec.2021.105901">Alex de Vries and Christian Stoll's estimate</a> of 5 quarters to obsolescence is based on comparing the ASIC's production with the cost of their power consumption, which is the correct approach. The curves in the graph are correct out to the 40% line, but then should drop to zero.
+        </blockquote>
+        Similarly, at some point in the future when the AI platforms realize they need a return on their investments, running systems answering queries that earn less than the cost of the power will no longer make sense and their value will drop precipitously.<br />
+        <br />
+        If hardware is being used as collateral for a loan the value should represent what it would fetch on the market. Assume Nvidia is on a 2-year cadence. Customers don't get their hardware instantly, so assume that the borrower got theirs 6 months into the 2 years. They default after 1 year,  so the bank is selling hardware  with 6 months left before the next generation starts shipping, and 1 year before a typical customer can get hardware that renders the current hardware almost uneconomic. The lender's 5-year straight-line estimate of value would be 80% of the purchase price. A buyer would likely estimate 20% of the purchase price.<br />
+        <br />
+        This blog has often cited the excellent work of Arvind Narayanan at Princeton. His colleague Mihir Kshirsagar posted an equally excellent piece on the implications of inadequate depreciation for competition entitled <a href="https://blog.citp.princeton.edu/2025/10/15/lifespan-of-ai-chips-the-300-billion-question/"><i>Lifespan of AI Chips: The $300 Billion Question</i></a>:<br />
+        <blockquote>
+        What I have found so far is surprising. It appears that we’re making important decisions about who gets to compete in AI based on financial assumptions that may be systematically overstating the long-run sustainability of the industry by a factor of two.
+        </blockquote>
+        Kshirsagar has identified inadequate depreciation as a key part of what I have called "<a href="https://blog.dshr.org/2025/06/the-back-of-ai-envelope.html">the drug-dealer's algorithm</a>" (<i>the first one's free</i>):<br />
+        <blockquote>
+        Incumbent coalitions—hyperscalers (Microsoft, Amazon, Google) partnered with their model developers (OpenAI, Anthropic)—can effectively subsidize application-layer pricing during the critical years when customer relationships are being formed. This could create advantages that prove insurmountable even when better technology becomes available.<br />
+        <br />
+        The core issue isn’t whether chips wear out faster than accounting suggests. It’s whether the market structure being formed is fueled by accounting conventions that obscure true long-run economics, allowing incumbent coalitions to establish customer lock-in at the application layer before true costs become visible. In other words, the accounting subsidy creates a window of roughly three to six years where reported costs are artificially low. After that, the overlapping depreciation schedules catch up to operational reality. Here’s why this timing matters: that three-to-six-year window is precisely when the market structure for AI applications is being determined. Customer relationships are being formed. Enterprise integrations are being built. Multi-year contracts are being signed. Switching costs are accumulating. By the time the accounting catches up—when companies face the full weight of replacement costs hitting their income statements—the incumbent coalitions will have already locked in their customer base. The temporary subsidy enables permanent competitive advantage. 
+        </blockquote>
+        Kshirsagar goes on to examine the effects of the drug-dealers algorithm in considerable detail. I encourage you to read the whole post, although I have a few quibbles:<br />
+        <ul>
+        <li>He focuses on enterprise use of AI as the platform's business model, and seems to assume that enterprises will find that using AI generates enough value to cover the subsidized cost through the lock-in period. Given the negative productivity impact most enterprises currently report, this is not a safe assumption.</li>
+        <li>Even if management's infatuation with AI, and the prospect of firing all their <a href="https://blog.dshr.org/2025/07/the-selling-of-ai.html">annoying employees</a>, results in their being locked in to the AI platform of their choice, they will need to achieve massive productivity gains to be able to afford what the platforms will have to charge to raise the <a href="https://www.bain.com/about/media-center/press-releases/20252/$2-trillion-in-new-revenue-needed-to-fund-ais-scaling-trend---bain--companys-6th-annual-global-technology-report/">$2T/year in revenue</a> they will need.</li>
+        <li>The AI platforms have already figured out that enterprise use isn't likely to generate enough revenue and are pivoting to advertising, affiliate marketing and <a href="https://www.cnbc.com/2025/10/15/erotica-coming-to-chatgpt-this-year-says-openai-ceo-sam-altman.html">porn</a>.</li>
+        <li>There is an elephant in the room, namely the vastly increased attack surface AI provides. For example, we have Benji Edwards' <a href="https://arstechnica.com/ai/2025/10/ai-models-can-acquire-backdoors-from-surprisingly-few-malicious-documents/"><i>AI models can acquire backdoors from surprisingly few malicious documents</i></a>:<br />
+        <blockquote>
+        researchers from Anthropic, the UK AI Security Institute, and the Alan Turing Institute released a preprint research paper suggesting that large language models like the ones that power ChatGPT, Gemini, and Claude can develop backdoor vulnerabilities from as few as 250 corrupted documents inserted into their training data.
+        </blockquote>
+        And David Gerard's <a href="https://pivot-to-ai.com/2025/10/14/its-trivial-to-prompt-inject-githubs-ai-copilot-chat/"><i>It’s trivial to prompt-inject Github’s AI Copilot Chat</i></a>:
+        <blockquote>
+        Mayraz’s question was: can we send a pull request — a suggested code fix — that contains a prompt injection? And make the bot spill sensitive user data, like private code or AWS login keys? Yes, we can!<br />
+        ...<br />
+        Mayraz’s exploit was a rediscovery of an exploit GitHub had already been told about. User 49016 discovered the bug a few months before and reported it on HackerOne. GitHub acknowledged the report and called it a “low risk” issue — “yes, they <i>seriously</i> consider a LLM leaking your private repo contents as a ‘low risk issue’.” (Mayraz’s CVE filing was rated a 9.6.) 49016 reports that GitHub’s fix is rubbish, and “bypassing it took 5 minutes lol.”
+        </blockquote>
+        </li>
+        <li>
+        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyxBP_eixY0Bbw20ofKxTalazujUZTETGv3g_Dab_xTREiTF44PDYYuxmyxkmpuLVyONDrCcXpW9RJuOuFDlI8Poszpefgsl4mqZ9ZT1yxTLb3_lvrSPqY-cRhoU48kKld3h54gM05VfZqjOv0LivqyXX1gnMYlGoZkTbxdr8az4pdypvCqviuCG8S_Byq/s697/dgx-spark.b8400a71.jpg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="389" data-original-width="697" height="112" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyxBP_eixY0Bbw20ofKxTalazujUZTETGv3g_Dab_xTREiTF44PDYYuxmyxkmpuLVyONDrCcXpW9RJuOuFDlI8Poszpefgsl4mqZ9ZT1yxTLb3_lvrSPqY-cRhoU48kKld3h54gM05VfZqjOv0LivqyXX1gnMYlGoZkTbxdr8az4pdypvCqviuCG8S_Byq/w200-h112/dgx-spark.b8400a71.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://marketplace.nvidia.com/en-us/developer/dgx-spark/?nvid=nv-int-solr-873735">Source</a></td></tr></tbody></table>And there is the risk that AI platforms will become obsolete with "good enough" AI like <a href="https://en.wikipedia.org/wiki/DeepSeek">DeepSeek</a> and "good enough" local compute such as Nvidia's <a href="https://arstechnica.com/ai/2025/10/nvidia-sells-tiny-new-computer-that-puts-big-ai-on-your-desktop/">DGX Spark</a>:<br />
+        <blockquote>
+        a $4,000 desktop AI computer that wraps one petaflop of computing performance and 128GB of unified memory into a form factor small enough to sit on a desk.<br />
+        ...<br />
+        Nvidia’s Spark reportedly includes enough memory to run larger-than-typical AI models for local tasks, with up to 200 billion parameters and fine-tune models containing up to 70 billion parameters without requiring remote infrastructure. Potential uses include running larger open-weights language models and media synthesis models such as AI image generators.
+        </blockquote>
+        The system is the tiny gold box in the image. It is based on Blackwell.</li>
+        </ul>
+        Related to Kshirsagar's analysis of the effectiveness of lock-in is Bryce Elder's <a href="https://www.ft.com/content/d49707ae-5d6b-473e-9e2b-487d318e6fe9"><i>What GPU pricing can tell us about how the AI bubble will pop</i></a>:<br />
+        <blockquote>
+        One odd thing about AI equipment is that it’s very expensive to buy and very cheap to rent.<br />
+        <br />
+        Want an Nvidia B200 GPU accelerator? Buying one on its release in late 2024 would’ve probably cost around $50,000, which is before all the costs associated with plugging it in and switching it on. Yet by early 2025, the same hardware could be rented for around $3.20 an hour. By last month, the B200’s floor price had fallen to $2.80 per hour.
+        </blockquote>
+        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0ZwZ2d1tfF5doM7EiLEMtVmQf6QmYJWV7zIJkLQYQtcpNOl7I8yCxnF4x9ul869SUbNSSsMB6A9Kl6P838Sz8z2wOqkv0_JW2NRlxXZInL5ogOIGBn2mrgt5bvRyIMYyLm6fHYz1HlAbVnNayz-AZZur5g3vjB88mYNs26gB2i-wnftL2MbCdK-E3G99Y/s1586/RelativeRental.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1026" data-original-width="1586" height="129" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0ZwZ2d1tfF5doM7EiLEMtVmQf6QmYJWV7zIJkLQYQtcpNOl7I8yCxnF4x9ul869SUbNSSsMB6A9Kl6P838Sz8z2wOqkv0_JW2NRlxXZInL5ogOIGBn2mrgt5bvRyIMYyLm6fHYz1HlAbVnNayz-AZZur5g3vjB88mYNs26gB2i-wnftL2MbCdK-E3G99Y/w200-h129/RelativeRental.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.ft.com/content/d49707ae-5d6b-473e-9e2b-487d318e6fe9">Source</a></td></tr></tbody></table>
+        That is weird. If the economic life of a B200 is 2 years at $2.80/hour it would earn only $49K, or its purchase price.  But Elder explains that <a href="https://www.ft.com/content/d49707ae-5d6b-473e-9e2b-487d318e6fe9">it isn't that simple</a>:<br />
+        <blockquote>
+        What might be less obvious is that among the hyperscalers — Amazon’s AWS, Microsoft’s Azure, Google and Oracle — prices have hardly budged. The result is an ever-widening gap between rates charged by the big-four and a growing number of smaller rivals.<br />
+        <br />
+        Here’s the same RBC data organised to show relative pricing across all GPUs. The iceberg effect shows how much it’s new entrants driving average rates lower. Meanwhile, for a hyperscaler customers, this month’s bill per GPU will almost always be the same as last month’s bill
+        </blockquote>
+        Elder ends with a set of <a href="https://www.ft.com/content/d49707ae-5d6b-473e-9e2b-487d318e6fe9">possible conclusions</a>:<br />
+        <blockquote>
+        <ul>
+        <li>A lot of pandemic-era Nvidia GPUs will be heading towards Cash Converters having never washed their face.</li>
+        <li>The customers attracted by low AI compute costs have yet to show much ability, willingness or inclination to pay more.</li>
+        <li>The hyperscalers don’t believe these customers are worth competing for, so have chosen to wait for the discount end of the market to die of insolvency.</li>
+        <li>The inevitable data-centre shakeout will kill lots of AI start-ups that can’t afford to pay what compute actually costs.</li>
+        <li>We might be overestimating the size of the GPU market if the middle-ground — meaning regular companies that want OpenAI and Anthropic to make their chatbots, summarisation tools and similar AI widgets — turns out to be <a href="https://www.ft.com/content/7052c560-4f31-4f45-bed0-cbc84453b3ce">worth less than $3tn</a>.</li>
+        </ul>
+        </blockquote>
+        Those are all good points.<br />]]>
+      </description>
+      <source:markdown>[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxcUZnhTqEC4hPAPlMo4I17ELbs0p9hDEd8fIaTbX9EAp-fzbrXR33eScrOvahNmwkmtwyYKwlpaf68qB-IWUeVetlF4n8PFTG0jxfV6jcW4ZKAl__QjfdyWMetFjWiMAHIW57vA07MQS9-w2JBut0kMO3yi_jcK-8pGyJUyVmgI5ZR_4m-_xfLsWlQ/w200-h96/DepreciationRates.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxcUZnhTqEC4hPAPlMo4I17ELbs0p9hDEd8fIaTbX9EAp-fzbrXR33eScrOvahNmwkmtwyYKwlpaf68qB-IWUeVetlF4n8PFTG0jxfV6jcW4ZKAl__QjfdyWMetFjWiMAHIW57vA07MQS9-w2JBut0kMO3yi_jcK-8pGyJUyVmgI5ZR_4m-_xfLsWlQ/s742/DepreciationRates.png)[Source](https://paulbutler.org/2022/the-problem-with-bitcoin-miners/)
+More than three years ago, based on Paul Butler&#39;s [_The problem with bitcoin miners_](https://paulbutler.org/2022/the-problem-with-bitcoin-miners/), I wrote [_Generally Accepted Accounting Principles_](https://blog.dshr.org/2022/05/generally-accepted-accounting-principles.html). The TL;DR was that the economic life of Bitcoin mining rigs was estimated at [16 months](https://doi.org/10.1016/j.resconrec.2021.105901), as Moore&#39;s law in a competitive ASIC market rapidly generated more power-efficient rigs. But the Bitcoin miners&#39;s accounts were using 5-year straight-line depreciation for their rigs, which was significantly increasing their nominal profits.
+
+Below the fold I look at the same problem unfolding in the heart of the AI bubble.
+
+Six months after we started Nvidia we knew over thirty other startups trying to build graphics chips for the PC. A major reason that only ATI survived was that, after the second chip, Nvidia released a better chip every six months like clockwork. I explained the technology that made, and still makes, this possible in [_The Dawn Of Nvidia&#39;s Technology_](https://blog.dshr.org/2025/05/the-dawn-of-nvidias-technology.html), but in the long term equally important was that the idea of a fixed cadence got built into the company&#39;s culture, and this now applies not just to graphics chips but also to [AI chips](https://www.economist.com/business/2025/09/18/the-4trn-accounting-puzzle-at-the-heart-of-the-ai-cloud):
+
+&#62; Last year Nvidia, ..., said it would unveil a fresh AI chip every year rather than every couple of years. In March its boss, Jensen Huang, remarked that “when Blackwell starts shipping in volume, you couldn’t give Hoppers away,” referring to Nvidia’s latest chips and their predecessors, respectively.
+
+The systems are estimated to be more than half the capex for a new data center. Much of its opex is power. Just as with mining rigs, the key feature of each successive generation of AI chips is that it is more efficient at using power. But that doesn&#39;t mean they use less power, they use more but less per operation. The need for enhanced power distribution and the concomitant cooling is what has prevented new AI systems being installed in legacy data centers. Presumably the next few generations will be compatible with current state of the art data center infrastructure, so they can directly replace their predecessors and thereby reduce costs.
+
+It is often assumed that the majority of the opex of AI platforms goes into training, which is a once per generation cost that can be amortized over the huge number of inference operations needed to answer prompts. But as James O&#39;Donnell and Casey Crownhart report in [_We did the math on AI’s energy footprint. Here’s the story you haven’t heard._](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/):
+
+&#62; As conversations with experts and AI companies made clear, inference, not training, represents an increasing majority of AI’s energy demands and will continue to do so in the near future. It’s now estimated that 80–90% of computing power for AI is used for inference.
+
+So 80-90% of the opex is per-query, which makes improving system efficiency critical to reducing the torrent of cash these platforms are hemorrhaging. Ed Zitron [estimated that](https://www.wheresyoured.at/oai-business/):
+
+&#62; To be abundantly clear, as it stands, OpenAI currently spends $2.35 to make $1.
+
+This makes Jensen&#39;s quip somewhat credible.
+
+A month ago I missed _The Economist&#39;s_ discovery of the AI version of [Paul Butler&#39;s Bitcoin post](https://paulbutler.org/2022/the-problem-with-bitcoin-miners/), entitled [_The $4trn accounting puzzle at the heart of the AI cloud_](https://www.economist.com/business/2025/09/18/the-4trn-accounting-puzzle-at-the-heart-of-the-ai-cloud). The cost of these rapidly depreciating assets is huge:
+
+&#62; AI revenues and expenditures are likewise a 13-figure affair nowadays. Worldwide spending on AI hardware and software nudged $1trn last year, according to Gartner, a research firm. This is likely to double to $2trn in 2026. Between 2024 and 2026 the five listed AI powerhouses will have splurged over $1trn on capital investments, chiefly AI data centres. A slug will end up with Nvidia and Broadcom, which furnish them and others with AI semiconductors. The duo (combined market capitalisation: $6trn) are together forecast to book almost $1trn in sales over that period.
+
+The platforms haven&#39;t been depreciating these assets at [realistic rates](https://www.economist.com/business/2025/09/18/the-4trn-accounting-puzzle-at-the-heart-of-the-ai-cloud):
+
+&#62; biggest customers have in recent times been raising their servers’ lifetimes, reducing depreciation charges in their accounts. Microsoft pushed it up from four to six years in 2022. Alphabet did the same in 2023. Amazon and Oracle changed it from five to six in 2024. And in January Meta moved from five to five and a half years.
+
+The reason for these accounting games is that they make a significant [difference to the bottom line](https://www.economist.com/business/2025/09/18/the-4trn-accounting-puzzle-at-the-heart-of-the-ai-cloud):
+
+&#62; Amazon reversed course and moved back to five years for some kit, noting this would cut operating profit in 2025 by $700m, or about 1%, owing to a higher depreciation expense. Given the rapid advances in chipmaking, that seems optimistic. And Amazon’s AI rivals clinging to their elongated depreciation schedules look Pollyannaish. In July Jim Chanos, a veteran short-seller, posted that if the true economic lifespan of Meta’s AI chips is two to three years, then “most of its ‘profits’ are materially overstated.” A recent analysis of Alphabet, Amazon and Meta by Barclays, a bank, estimated that higher depreciation costs would shave 5-10% from their earnings per share.
+
+And thus to their stock price. If they went to a [3-year straight-line depreciation](https://www.economist.com/business/2025/09/18/the-4trn-accounting-puzzle-at-the-heart-of-the-ai-cloud):
+
+&#62; At the five companies’ current ratio of market capitalisation to pre-tax profit, this would amount to a $780bn knock to their combined value. Redo the sums depreciating the servers over two years instead of three and the size of the hit rises to $1.6trn. Take Mr Huang literally, and you get a staggering $4trn, equivalent to one-third of their collective worth.
+
+A big chunk of the AI platforms&#39; investment in the hardware is financed with debt. If the lenders are using a five-year life when valuing the hardware as collateral they will run into trouble too. It is rumored that Macquairie was lending against GPUs using a seven-year life.
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxcUZnhTqEC4hPAPlMo4I17ELbs0p9hDEd8fIaTbX9EAp-fzbrXR33eScrOvahNmwkmtwyYKwlpaf68qB-IWUeVetlF4n8PFTG0jxfV6jcW4ZKAl__QjfdyWMetFjWiMAHIW57vA07MQS9-w2JBut0kMO3yi_jcK-8pGyJUyVmgI5ZR_4m-_xfLsWlQ/w200-h96/DepreciationRates.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxcUZnhTqEC4hPAPlMo4I17ELbs0p9hDEd8fIaTbX9EAp-fzbrXR33eScrOvahNmwkmtwyYKwlpaf68qB-IWUeVetlF4n8PFTG0jxfV6jcW4ZKAl__QjfdyWMetFjWiMAHIW57vA07MQS9-w2JBut0kMO3yi_jcK-8pGyJUyVmgI5ZR_4m-_xfLsWlQ/s742/DepreciationRates.png)[Source](https://paulbutler.org/2022/the-problem-with-bitcoin-miners/)
+But as Paul Butler pointed out, straight-line depreciation over-estimates the value of older but not yet uneconomic assets. I described [Butler&#39;s graph](https://blog.dshr.org/2022/05/generally-accepted-accounting-principles.html):
+
+&#62; Butler uses historical hash rate data to compute the actual depreciation curves for mining hardware, plotting the percentage of the initial bitcoin production rate against time in quarters for each quarter since Bitcoin&#39;s inception. The graph shows that initially (bluest lines), when GPUs were introduced, they stopped producing after about 5 quarters. Recently (magenta-est lines), ASICs last longer, stopping producing after about 4 years. But for the whole of Bitcoin&#39;s existence the hardware has depreciated far faster than the GAAP&#39;s five year straight line.
+
+But I [argued that it was too optimstic](https://blog.dshr.org/2022/05/generally-accepted-accounting-principles.html):
+
+&#62; He assumes that the ASICs are obsolete when they can no longer keep up with the hash rate so are no longer mining any Bitcoin. That is wrong. ASICs are obsolete when the Bitcoin they mine _no longer pay for the electricity they use_. The newer ASICs aren&#39;t just faster, they also use much less energy per hash. Look again at the depreciation graph, which suggests current ASICs go obsolete after 16 quarters. But [Alex de Vries and Christian Stoll&#39;s estimate](https://doi.org/10.1016/j.resconrec.2021.105901) of 5 quarters to obsolescence is based on comparing the ASIC&#39;s production with the cost of their power consumption, which is the correct approach. The curves in the graph are correct out to the 40% line, but then should drop to zero.
+
+Similarly, at some point in the future when the AI platforms realize they need a return on their investments, running systems answering queries that earn less than the cost of the power will no longer make sense and their value will drop precipitously.
+
+If hardware is being used as collateral for a loan the value should represent what it would fetch on the market. Assume Nvidia is on a 2-year cadence. Customers don&#39;t get their hardware instantly, so assume that the borrower got theirs 6 months into the 2 years. They default after 1 year, so the bank is selling hardware with 6 months left before the next generation starts shipping, and 1 year before a typical customer can get hardware that renders the current hardware almost uneconomic. The lender&#39;s 5-year straight-line estimate of value would be 80% of the purchase price. A buyer would likely estimate 20% of the purchase price.
+
+This blog has often cited the excellent work of Arvind Narayanan at Princeton. His colleague Mihir Kshirsagar posted an equally excellent piece on the implications of inadequate depreciation for competition entitled [_Lifespan of AI Chips: The $300 Billion Question_](https://blog.citp.princeton.edu/2025/10/15/lifespan-of-ai-chips-the-300-billion-question/):
+
+&#62; What I have found so far is surprising. It appears that we’re making important decisions about who gets to compete in AI based on financial assumptions that may be systematically overstating the long-run sustainability of the industry by a factor of two.
+
+Kshirsagar has identified inadequate depreciation as a key part of what I have called &#34; [the drug-dealer&#39;s algorithm](https://blog.dshr.org/2025/06/the-back-of-ai-envelope.html)&#34; ( _the first one&#39;s free_):
+
+&#62; Incumbent coalitions—hyperscalers (Microsoft, Amazon, Google) partnered with their model developers (OpenAI, Anthropic)—can effectively subsidize application-layer pricing during the critical years when customer relationships are being formed. This could create advantages that prove insurmountable even when better technology becomes available.
+&#62;
+&#62; The core issue isn’t whether chips wear out faster than accounting suggests. It’s whether the market structure being formed is fueled by accounting conventions that obscure true long-run economics, allowing incumbent coalitions to establish customer lock-in at the application layer before true costs become visible. In other words, the accounting subsidy creates a window of roughly three to six years where reported costs are artificially low. After that, the overlapping depreciation schedules catch up to operational reality. Here’s why this timing matters: that three-to-six-year window is precisely when the market structure for AI applications is being determined. Customer relationships are being formed. Enterprise integrations are being built. Multi-year contracts are being signed. Switching costs are accumulating. By the time the accounting catches up—when companies face the full weight of replacement costs hitting their income statements—the incumbent coalitions will have already locked in their customer base. The temporary subsidy enables permanent competitive advantage.
+
+Kshirsagar goes on to examine the effects of the drug-dealers algorithm in considerable detail. I encourage you to read the whole post, although I have a few quibbles:
+
+- He focuses on enterprise use of AI as the platform&#39;s business model, and seems to assume that enterprises will find that using AI generates enough value to cover the subsidized cost through the lock-in period. Given the negative productivity impact most enterprises currently report, this is not a safe assumption.
+- Even if management&#39;s infatuation with AI, and the prospect of firing all their [annoying employees](https://blog.dshr.org/2025/07/the-selling-of-ai.html), results in their being locked in to the AI platform of their choice, they will need to achieve massive productivity gains to be able to afford what the platforms will have to charge to raise the [$2T/year in revenue](https://www.bain.com/about/media-center/press-releases/20252/$2-trillion-in-new-revenue-needed-to-fund-ais-scaling-trend---bain--companys-6th-annual-global-technology-report/) they will need.
+- The AI platforms have already figured out that enterprise use isn&#39;t likely to generate enough revenue and are pivoting to advertising, affiliate marketing and [porn](https://www.cnbc.com/2025/10/15/erotica-coming-to-chatgpt-this-year-says-openai-ceo-sam-altman.html).
+- There is an elephant in the room, namely the vastly increased attack surface AI provides. For example, we have Benji Edwards&#39; [_AI models can acquire backdoors from surprisingly few malicious documents_](https://arstechnica.com/ai/2025/10/ai-models-can-acquire-backdoors-from-surprisingly-few-malicious-documents/):
+
+
+
+  &#62; researchers from Anthropic, the UK AI Security Institute, and the Alan Turing Institute released a preprint research paper suggesting that large language models like the ones that power ChatGPT, Gemini, and Claude can develop backdoor vulnerabilities from as few as 250 corrupted documents inserted into their training data.
+
+
+  And David Gerard&#39;s [_It’s trivial to prompt-inject Github’s AI Copilot Chat_](https://pivot-to-ai.com/2025/10/14/its-trivial-to-prompt-inject-githubs-ai-copilot-chat/):
+
+
+  &#62; Mayraz’s question was: can we send a pull request — a suggested code fix — that contains a prompt injection? And make the bot spill sensitive user data, like private code or AWS login keys? Yes, we can!
+  &#62;
+  &#62; ...
+  &#62;
+  &#62; Mayraz’s exploit was a rediscovery of an exploit GitHub had already been told about. User 49016 discovered the bug a few months before and reported it on HackerOne. GitHub acknowledged the report and called it a “low risk” issue — “yes, they _seriously_ consider a LLM leaking your private repo contents as a ‘low risk issue’.” (Mayraz’s CVE filing was rated a 9.6.) 49016 reports that GitHub’s fix is rubbish, and “bypassing it took 5 minutes lol.”
+
+- [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyxBP_eixY0Bbw20ofKxTalazujUZTETGv3g_Dab_xTREiTF44PDYYuxmyxkmpuLVyONDrCcXpW9RJuOuFDlI8Poszpefgsl4mqZ9ZT1yxTLb3_lvrSPqY-cRhoU48kKld3h54gM05VfZqjOv0LivqyXX1gnMYlGoZkTbxdr8az4pdypvCqviuCG8S_Byq/w200-h112/dgx-spark.b8400a71.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyxBP_eixY0Bbw20ofKxTalazujUZTETGv3g_Dab_xTREiTF44PDYYuxmyxkmpuLVyONDrCcXpW9RJuOuFDlI8Poszpefgsl4mqZ9ZT1yxTLb3_lvrSPqY-cRhoU48kKld3h54gM05VfZqjOv0LivqyXX1gnMYlGoZkTbxdr8az4pdypvCqviuCG8S_Byq/s697/dgx-spark.b8400a71.jpg)[Source](https://marketplace.nvidia.com/en-us/developer/dgx-spark/?nvid=nv-int-solr-873735)And there is the risk that AI platforms will become obsolete with &#34;good enough&#34; AI like [DeepSeek](https://en.wikipedia.org/wiki/DeepSeek) and &#34;good enough&#34; local compute such as Nvidia&#39;s [DGX Spark](https://arstechnica.com/ai/2025/10/nvidia-sells-tiny-new-computer-that-puts-big-ai-on-your-desktop/):
+
+
+
+  &#62; a $4,000 desktop AI computer that wraps one petaflop of computing performance and 128GB of unified memory into a form factor small enough to sit on a desk.
+  &#62;
+  &#62; ...
+  &#62;
+  &#62; Nvidia’s Spark reportedly includes enough memory to run larger-than-typical AI models for local tasks, with up to 200 billion parameters and fine-tune models containing up to 70 billion parameters without requiring remote infrastructure. Potential uses include running larger open-weights language models and media synthesis models such as AI image generators.
+
+
+  The system is the tiny gold box in the image. It is based on Blackwell.
+
+Related to Kshirsagar&#39;s analysis of the effectiveness of lock-in is Bryce Elder&#39;s [_What GPU pricing can tell us about how the AI bubble will pop_](https://www.ft.com/content/d49707ae-5d6b-473e-9e2b-487d318e6fe9):
+
+&#62; One odd thing about AI equipment is that it’s very expensive to buy and very cheap to rent.
+&#62;
+&#62; Want an Nvidia B200 GPU accelerator? Buying one on its release in late 2024 would’ve probably cost around $50,000, which is before all the costs associated with plugging it in and switching it on. Yet by early 2025, the same hardware could be rented for around $3.20 an hour. By last month, the B200’s floor price had fallen to $2.80 per hour.
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0ZwZ2d1tfF5doM7EiLEMtVmQf6QmYJWV7zIJkLQYQtcpNOl7I8yCxnF4x9ul869SUbNSSsMB6A9Kl6P838Sz8z2wOqkv0_JW2NRlxXZInL5ogOIGBn2mrgt5bvRyIMYyLm6fHYz1HlAbVnNayz-AZZur5g3vjB88mYNs26gB2i-wnftL2MbCdK-E3G99Y/w200-h129/RelativeRental.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0ZwZ2d1tfF5doM7EiLEMtVmQf6QmYJWV7zIJkLQYQtcpNOl7I8yCxnF4x9ul869SUbNSSsMB6A9Kl6P838Sz8z2wOqkv0_JW2NRlxXZInL5ogOIGBn2mrgt5bvRyIMYyLm6fHYz1HlAbVnNayz-AZZur5g3vjB88mYNs26gB2i-wnftL2MbCdK-E3G99Y/s1586/RelativeRental.png)[Source](https://www.ft.com/content/d49707ae-5d6b-473e-9e2b-487d318e6fe9)
+That is weird. If the economic life of a B200 is 2 years at $2.80/hour it would earn only $49K, or its purchase price. But Elder explains that [it isn&#39;t that simple](https://www.ft.com/content/d49707ae-5d6b-473e-9e2b-487d318e6fe9):
+
+&#62; What might be less obvious is that among the hyperscalers — Amazon’s AWS, Microsoft’s Azure, Google and Oracle — prices have hardly budged. The result is an ever-widening gap between rates charged by the big-four and a growing number of smaller rivals.
+&#62;
+&#62; Here’s the same RBC data organised to show relative pricing across all GPUs. The iceberg effect shows how much it’s new entrants driving average rates lower. Meanwhile, for a hyperscaler customers, this month’s bill per GPU will almost always be the same as last month’s bill
+
+Elder ends with a set of [possible conclusions](https://www.ft.com/content/d49707ae-5d6b-473e-9e2b-487d318e6fe9):
+
+&#62; - A lot of pandemic-era Nvidia GPUs will be heading towards Cash Converters having never washed their face.
+&#62; - The customers attracted by low AI compute costs have yet to show much ability, willingness or inclination to pay more.
+&#62; - The hyperscalers don’t believe these customers are worth competing for, so have chosen to wait for the discount end of the market to die of insolvency.
+&#62; - The inevitable data-centre shakeout will kill lots of AI start-ups that can’t afford to pay what compute actually costs.
+&#62; - We might be overestimating the size of the GPU market if the middle-ground — meaning regular companies that want OpenAI and Anthropic to make their chatbots, summarisation tools and similar AI widgets — turns out to be [worth less than $3tn](https://www.ft.com/content/7052c560-4f31-4f45-bed0-cbc84453b3ce).
+
+Those are all good points.</source:markdown>
+      <author>noreply@blogger.com (David.)</author>
+      <guid>cid://tag:blogger.com,1999:blog-4503292949532760618.post-7959402795816862276</guid>
+    </item>    <item>
+      <title>A federal judge just dismissed an Ohio teacher’s fight against book bans.</title>
+      <link>https://lithub.com/a-federal-judge-just-dismissed-an-ohio-teachers-fight-against-book-bans/</link>
+      <description>
+        <![CDATA[In (more) bad civil rights news, an Ohio third grade teacher lost a battle with the state last week when a district court dismissed her book ban lawsuit. Karen Cahall, who&#8217;s taught in the New Richmond Exempted Village School District]]>
+      </description>
+      <source:markdown>In (more) bad civil rights news, an Ohio third grade teacher lost a battle with the state last week when a district court dismissed her book ban lawsuit. Karen Cahall, who’s taught in the New Richmond Exempted Village School District</source:markdown>
+      <guid>cid://https://lithub.com/?p=261448</guid>
+    </item>    <item>
+      <title>Introducing NTFSplus – because just one NTFS driver for Linux is never enough</title>
+      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/10/21/ntfsplus_new_rw_driver/</link>
+      <description>
+        <![CDATA[<h4>Dev unveils a faster, modernized take on Microsoft&#39;s file system for penguin-powered PCs</h4>
+              <p>Just under four years after the Linux kernel gained built-in read-write access to Windows drives, an alternative option has appeared.</p>]]>
+      </description>
+      <source:markdown>#### Dev unveils a faster, modernized take on Microsoft&#39;s file system for penguin-powered PCs
+
+Just under four years after the Linux kernel gained built-in read-write access to Windows drives, an alternative option has appeared.</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242579</guid>
+    </item>    <item>
+      <title>Playing Boards of Canada on a DEC PDP-1 from 1959</title>
+      <link>https://kottke.org/25/10/playing-boards-of-canada-on-a-dec-pdp-1-from-1959</link>
+      <guid>cid://tag:kottke.org,2025://5.47740</guid>
+    </item>    <item>
       <title>Transforming Website Analytics for WordPress Users with a Privacy-First Approach</title>
       <link>https://openchannels.fm/transforming-website-analytics-for-wordpress-users-with-a-privacy-first-approach/</link>
       <description>
@@ -49,6 +431,14 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <title>The Sordid Mystery of a Somalian Meteorite Smuggled into China. &#38;#8220;The journey...</title>
       <link>https://kottke.org/25/10/0047728-the-sordid-mystery-of-a</link>
       <guid>cid://tag:kottke.org,2025://13.47728</guid>
+    </item>    <item>
+      <title>Claire-Louise Bennett, Erin Somers, John Grisham, and more: 23 new books out today!</title>
+      <link>https://lithub.com/claire-louise-bennett-erin-somers-john-grisham-and-more-22-new-books-out-today/</link>
+      <description>
+        <![CDATA[Another Tuesday, another great haul. Today we have a ton of hotly anticipated titles, such as Big Kiss, Bye-Bye by Claire-Louise Bennett, as well as The Ten Year Affair by Erin Somers (check out the epic back cover of that]]>
+      </description>
+      <source:markdown>Another Tuesday, another great haul. Today we have a ton of hotly anticipated titles, such as Big Kiss, Bye-Bye by Claire-Louise Bennett, as well as The Ten Year Affair by Erin Somers (check out the epic back cover of that</source:markdown>
+      <guid>cid://https://lithub.com/?p=261006</guid>
     </item>    <item>
       <title>An Incredible Waste</title>
       <link>https://onefoottsunami.com/2025/10/21/an-incredible-waste/</link>
@@ -104,6 +494,14 @@ I want one.</source:markdown>
 [adactio.com/links/22203](https://adactio.com/links/22203)</source:markdown>
       <guid>cid://https://yatil.net/blog/ai-is-inevitable-is-bullshit</guid>
     </item>    <item>
+      <title>Lit Hub Daily: October 21, 2025</title>
+      <link>https://lithub.com/lit-hub-daily-october-21-2025/</link>
+      <description>
+        <![CDATA[“Elizabeth keeps falling down the steep stairs here. Send the checks. I need the money.” Read John Updike’s letters to his editor, William Maxwell. &#124; Lit Hub Biography In a world where tech billionaires want more innovation as instant gratification,]]>
+      </description>
+      <source:markdown>“Elizabeth keeps falling down the steep stairs here. Send the checks. I need the money.” Read John Updike’s letters to his editor, William Maxwell. \| Lit Hub Biography In a world where tech billionaires want more innovation as instant gratification,</source:markdown>
+      <guid>cid://https://lithub.com/?p=261443</guid>
+    </item>    <item>
       <title>Donald Trump Has Lost Touch With Reality</title>
       <link>https://paulkrugman.substack.com/p/donald-trump-has-lost-touch-with</link>
       <description>
@@ -131,6 +529,54 @@ The post [Name your own price for this Humble Bundle of Raspberry Pi Press books
       </description>
       <source:markdown>The Fediverse, shaped by pioneers like Evan Prodromou, evolved from Identica to ActivityPub, fostering decentralization and user control. It contrasts corporate social networks by promoting openness, privacy, and collaborative development for online communities.</source:markdown>
       <guid>cid://https://openchannels.fm/?p=110909</guid>
+    </item>    <item>
+      <title>Dear Tech Evangelists: Have You Tried “Move Slow and Make Things”?</title>
+      <link>https://lithub.com/dear-tech-evangelists-have-you-tried-move-slow-and-make-things/</link>
+      <description>
+        <![CDATA[When working on a book about tech, the longue durée of the writing and publishing process is the yawning gulf beneath the tightrope, as the writer makes their way from thesis to destination. A single misstep and, suddenly, irrelevance has swallowed]]>
+      </description>
+      <source:markdown>When working on a book about tech, the longue durée of the writing and publishing process is the yawning gulf beneath the tightrope, as the writer makes their way from thesis to destination. A single misstep and, suddenly, irrelevance has swallowed</source:markdown>
+      <guid>cid://https://lithub.com/?p=261128</guid>
+    </item>    <item>
+      <title>Dear Bill: Letters From a Young John Updike to His Editor, William Maxwell</title>
+      <link>https://lithub.com/dear-bill-letters-from-a-young-john-updike-to-his-editor-william-maxwell/</link>
+      <description>
+        <![CDATA[To William Maxwell, writer and fiction editor at The New Yorker, who will later serve as Updike’s fiction editor at the magazine. ___________________________________________________ Sandy Island, NH July 30, 1953 Mr. William Maxwell The New Yorker 25 West 43rd Street New]]>
+      </description>
+      <source:markdown>To William Maxwell, writer and fiction editor at The New Yorker, who will later serve as Updike’s fiction editor at the magazine. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Sandy Island, NH July 30, 1953 Mr. William Maxwell The New Yorker 25 West 43rd Street New</source:markdown>
+      <guid>cid://https://lithub.com/?p=261048</guid>
+    </item>    <item>
+      <title>“Yet Famine Was Still Famine.” On the Struggle to Find Food and Clean Water in Gaza</title>
+      <link>https://lithub.com/yet-famine-was-still-famine-on-the-struggle-to-find-food-and-clean-water-in-gaza/</link>
+      <description>
+        <![CDATA[It is quite absurd that a bag of flour has become my greatest comfort, a quiet reassurance that we might survive some more days. It doesn’t matter if we find the flour infested with weevils; we’ll sift it, separating the]]>
+      </description>
+      <source:markdown>It is quite absurd that a bag of flour has become my greatest comfort, a quiet reassurance that we might survive some more days. It doesn’t matter if we find the flour infested with weevils; we’ll sift it, separating the</source:markdown>
+      <guid>cid://https://lithub.com/?p=261138</guid>
+    </item>    <item>
+      <title>What’s Real and What’s Not: Gish Jen on Writing Between the Factual Lines</title>
+      <link>https://lithub.com/whats-real-and-whats-not-gish-jen-on-writing-between-the-factual-lines/</link>
+      <description>
+        <![CDATA[In his poem, “Epilogue,” Robert Lowell rues the difficulty of making “something imagined/not recalled.” Famously autobiographical, he laments that sometimes everything I write with the threadbare art of my eye seems a snapshot, lurid, rapid, garish, grouped, heightened from life,]]>
+      </description>
+      <source:markdown>In his poem, “Epilogue,” Robert Lowell rues the difficulty of making “something imagined/not recalled.” Famously autobiographical, he laments that sometimes everything I write with the threadbare art of my eye seems a snapshot, lurid, rapid, garish, grouped, heightened from life,</source:markdown>
+      <guid>cid://https://lithub.com/?p=261054</guid>
+    </item>    <item>
+      <title>Adam Johnson on Writing a Novel of Ancient Polynesia</title>
+      <link>https://lithub.com/adam-johnson-on-writing-a-novel-of-ancient-polynesia/</link>
+      <description>
+        <![CDATA[Adam Johnson is a rare literary genius. He’s written a Pulitzer Prize winning novel set in a nightmarish Orwellian North Korea (The Orphan Master’s Son), a National Book Award short story collection (Fortune Smiles) that includes one of my favorite]]>
+      </description>
+      <source:markdown>Adam Johnson is a rare literary genius. He’s written a Pulitzer Prize winning novel set in a nightmarish Orwellian North Korea (The Orphan Master’s Son), a National Book Award short story collection (Fortune Smiles) that includes one of my favorite</source:markdown>
+      <guid>cid://https://lithub.com/?p=261050</guid>
+    </item>    <item>
+      <title>The Ten Year Affair</title>
+      <link>https://lithub.com/the-ten-year-affair/</link>
+      <description>
+        <![CDATA[Here was how it worked in the world of the affair: there was a big, anonymous hotel one town away. The hotel serviced business travelers. It was not pretty, but it was not lifeless, either. It was arranged around a]]>
+      </description>
+      <source:markdown>Here was how it worked in the world of the affair: there was a big, anonymous hotel one town away. The hotel serviced business travelers. It was not pretty, but it was not lifeless, either. It was arranged around a</source:markdown>
+      <guid>cid://https://lithub.com/?p=260674</guid>
     </item>    <item>
       <title>Mobian makes Debian&#39;s latest &#39;Trixie&#39; release pocket-sized</title>
       <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/10/21/mobian_trixie/</link>
@@ -1324,6 +1770,10 @@ Tags: [ocr](https://simonwillison.net/tags/ocr), [python](https://simonwillison.
       <link>https://kottke.org/25/10/0047732-anil-dash-on-the-majority</link>
       <guid>cid://tag:kottke.org,2025://13.47732</guid>
     </item>    <item>
+      <title>Note published on October 20, 2025 at 2:25 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202510201025</link>
+      <guid>cid://68f646701ecb9eb40d8c8355</guid>
+    </item>    <item>
       <title>How Virginia Giuffre Finally Vanquished Prince Andrew</title>
       <link>https://tinabrown.substack.com/p/how-virginia-giuffre-finally-vanquished</link>
       <description>
@@ -1442,6 +1892,14 @@ Appendix A: The Analogy Blueprint This is a reference for the core analogies use
 Think in rooms, floors, buildings, and streets. You send an envelope from your room, the concierge guides it across floors and buildings, and the city directory helps you find the right address. When you outgrow your building, you rent a private floor in a hotel and keep your hallways private.</source:markdown>
       <guid>cid://https://memo.mx/posts/understanding-computer-networks-by-analogy-part-6/</guid>
     </item>    <item>
+      <title>URLPattern is now Baseline Newly available</title>
+      <link>https://web.dev/blog/baseline-urlpattern?hl=en</link>
+      <description>
+        <![CDATA[URLPattern became Baseline Newly available as of September 15, 2025.]]>
+      </description>
+      <source:markdown>URLPattern became Baseline Newly available as of September 15, 2025.</source:markdown>
+      <guid>cid://https://web.dev/blog/baseline-urlpattern?hl=en</guid>
+    </item>    <item>
       <title>The stages of taste</title>
       <link>https://tracydurnell.com/2025/10/19/the-stages-of-taste/</link>
       <description>
@@ -1466,6 +1924,10 @@ Think in rooms, floors, buildings, and streets. You send an envelope from your r
       <source:markdown>Electricity generation is expected to rise. But will it grow much faster than it did in the past?</source:markdown>
       <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/6089eb27-957d-4c09-ade2-a5bffd83b82a_2304x1707.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://www.sustainabilitybynumbers.com/p/usa-electricity-growth</guid>
+    </item>    <item>
+      <title>Finished reading Mage Tank</title>
+      <link>https://www.mollywhite.net/reading/books?search=Mage%20Tank</link>
+      <guid>cid://68f682bd001c2f16683edb88</guid>
     </item>    <item>
       <title>Photos of the No Kings protests &#38; rallies that happened in big...</title>
       <link>https://kottke.org/25/10/0047735-photos-of-the-no-kings</link>
@@ -2057,6 +2519,10 @@ https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and )
 
 Sunday session in Cork</source:markdown>
       <guid>cid://https://adactio.com/notes/22201</guid>
+    </item>    <item>
+      <title>Note published on October 19, 2025 at 4:32 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202510191231</link>
+      <guid>cid://68f512b91ecb9eb40d8c8301</guid>
     </item>    <item>
       <title>You Again [en]</title>
       <link>https://climbtothestars.org/archives/2025/10/19/you-again/</link>
@@ -2809,6 +3275,10 @@ At least this blog still works! Emacs Wiki and a few others are probably down, t
       <source:markdown>If so, where does it end?</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!t438!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff38f4256-1459-46a0-b1d3-aa85fdc7d483_3500x2781.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/office-hours-should-dems-fight-fire</guid>
+    </item>    <item>
+      <title>Note published on October 18, 2025 at 8:41 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202510181640</link>
+      <guid>cid://68f3fb761ecb9eb40d8c8282</guid>
     </item>    <item>
       <title>TIL: Exploring OpenAI&#39;s deep research API model o4-mini-deep-research</title>
       <link>https://simonwillison.net/2025/Oct/18/o4-mini-deep-research/#atom-everything</link>

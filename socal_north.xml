@@ -7,10 +7,58 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>21 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>21 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>How to volunteer for LA’s 2026 homeless count</title>
+      <link>https://laist.com/news/housing-homelessness/how-to-volunteer-los-angeles-2026-homeless-count-lahsa-registration</link>
+      <description>
+        <![CDATA[LAHSA’s annual unhoused population tally is scheduled for Jan. 20 to 22.]]>
+      </description>
+      <source:markdown>LAHSA’s annual unhoused population tally is scheduled for Jan. 20 to 22.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-07da-d0fc-a5df-cffb985c0000</guid>
+    </item>    <item>
+      <title>Families once torn apart at border face renewed threat of separation</title>
+      <link>https://laist.com/news/politics/families-once-torn-apart-at-border-face-renewed-threat-of-separation</link>
+      <description>
+        <![CDATA[The Trump administration is quietly unraveling a court settlement meant to reunite and help families separated at the U.S.-Mexico border, the ACLU says, putting thousands at risk of being torn apart again.]]>
+      </description>
+      <source:markdown>The Trump administration is quietly unraveling a court settlement meant to reunite and help families separated at the U.S.-Mexico border, the ACLU says, putting thousands at risk of being torn apart again.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-0774-d555-a1db-cf764e840000</guid>
+    </item>    <item>
+      <title>First native plants installed on the 101 Freeway wildlife crossing in Agoura Hills</title>
+      <link>https://laist.com/news/climate-environment/first-native-plants-installed-101-freeway-wildlife-crossing-agoura-hills</link>
+      <description>
+        <![CDATA[About 5,000 more plants will be installed this fall, officials say, blanketing what will become a nearly 1-acre wildlife habitat.]]>
+      </description>
+      <source:markdown>About 5,000 more plants will be installed this fall, officials say, blanketing what will become a nearly 1-acre wildlife habitat.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-0355-dcef-a1ff-ebd794890000</guid>
+    </item>    <item>
+      <title>What it’s like to teach a US citizenship prep class right now</title>
+      <link>https://laist.com/news/education/us-citizenship-naturalization-process-pasadena-city-college</link>
+      <description>
+        <![CDATA[At Pasadena City College, a professor helps students gear up for the naturalization test. But lately, she’s been feeling conflicted about her role.]]>
+      </description>
+      <source:markdown>At Pasadena City College, a professor helps students gear up for the naturalization test. But lately, she’s been feeling conflicted about her role.</source:markdown>
+      <guid>cid://urn:uuid:00000199-f492-d805-a5df-f4df95cb0000</guid>
+    </item>    <item>
+      <title>Orange County activists are tracking ICE in their communities and live-streaming what they find</title>
+      <link>https://laist.com/news/politics/orange-county-activists-tracking-ice-live-streaming</link>
+      <description>
+        <![CDATA[Organizers say they want to empower their neighbors and dispel misinformation. Here's how they're doing it.]]>
+      </description>
+      <source:markdown>Organizers say they want to empower their neighbors and dispel misinformation. Here&#39;s how they&#39;re doing it.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-02d5-d0fc-a5df-caffc6730000</guid>
+    </item>    <item>
+      <title>The crunchy taco is the most underrated icon in LA — here’s where to find the best</title>
+      <link>https://laist.com/news/food/best-crunchy-taco-in-los-angeles</link>
+      <description>
+        <![CDATA[Flauta, taquito, tacos dorados? Whatever they’re called, they’re golden, crispy and delicious.]]>
+      </description>
+      <source:markdown>Flauta, taquito, tacos dorados? Whatever they’re called, they’re golden, crispy and delicious.</source:markdown>
+      <guid>cid://urn:uuid:00000199-caaa-dedc-a5db-dafaaa760000</guid>
+    </item>    <item>
       <title>Orange County activists are tracking ICE in their communities and live-streaming what they find</title>
       <description>
         <![CDATA[Organizers say they want to empower their neighbors and dispel misinformation. Here's how they're doing it.]]>
@@ -25,22 +73,6 @@
       </description>
       <source:markdown>David Adler spent more than two weeks at sea and five days in an Israeli prison. He says flotilla members faced drone attacks before being detained and abused by the Israeli government.</source:markdown>
       <guid>cid://urn:uuid:0000019a-039f-d555-a1db-cfdfd4990000</guid>
-    </item>    <item>
-      <title>What it’s like to teach a US citizenship prep class right now</title>
-      <link>https://laist.com/news/education/us-citizenship-naturalization-process-pasadena-city-college</link>
-      <description>
-        <![CDATA[At Pasadena City College, a professor helps students gear up for the naturalization test. But lately, she’s been feeling conflicted about her role.]]>
-      </description>
-      <source:markdown>At Pasadena City College, a professor helps students gear up for the naturalization test. But lately, she’s been feeling conflicted about her role.</source:markdown>
-      <guid>cid://urn:uuid:00000199-f492-d805-a5df-f4df95cb0000</guid>
-    </item>    <item>
-      <title>The crunchy taco is the most underrated icon in LA — here’s where to find the best</title>
-      <link>https://laist.com/news/food/best-crunchy-taco-in-los-angeles</link>
-      <description>
-        <![CDATA[Flauta, taquito, tacos dorados? Whatever they’re called, they’re golden, crispy and delicious.]]>
-      </description>
-      <source:markdown>Flauta, taquito, tacos dorados? Whatever they’re called, they’re golden, crispy and delicious.</source:markdown>
-      <guid>cid://urn:uuid:00000199-caaa-dedc-a5db-dafaaa760000</guid>
     </item>    <item>
       <title>The Dodgers want to win another World Series. The Toronto Blue Jays are in their way</title>
       <link>https://laist.com/news/the-dodgers-want-to-win-another-world-series-the-toronto-blue-jays-are-in-their-way</link>
@@ -98,12 +130,12 @@
       <source:markdown>Amazon&#39;s cloud computing service provides back-end support to many companies that operate online. When it has problems, so do they.</source:markdown>
       <guid>cid://urn:uuid:0000019a-03ef-d555-a1db-cfefa8280000</guid>
     </item>    <item>
-      <title>LA City Attorney’s Office wants to hire outside law firm in legal fight against journalists</title>
+      <title>LA City Attorney wants $250K to hire lawyers in suit filed by journalists against LAPD</title>
       <link>https://laist.com/news/la-lapd-legal-journalists-ice</link>
       <description>
-        <![CDATA[The office is requesting a three-year, $250,000 contract to help pay for LAPD’s legal defense in a case that seeks to restrict officers from use-of-force tactics during protests.]]>
+        <![CDATA[The office is requesting a three-year contract to help pay for LAPD’s legal defense in a lawsuit that seeks to restrict officers from use-of-force tactics during protests.]]>
       </description>
-      <source:markdown>The office is requesting a three-year, $250,000 contract to help pay for LAPD’s legal defense in a case that seeks to restrict officers from use-of-force tactics during protests.</source:markdown>
+      <source:markdown>The office is requesting a three-year contract to help pay for LAPD’s legal defense in a lawsuit that seeks to restrict officers from use-of-force tactics during protests.</source:markdown>
       <guid>cid://urn:uuid:0000019a-03c1-d0fc-a5df-cbeb86a30000</guid>
     </item>    <item>
       <title>California law on cleaning rental homes after a fire has changed. Here’s how to get help</title>

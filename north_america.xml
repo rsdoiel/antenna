@@ -4,10 +4,19 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>21 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>21 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Federal funding pullbacks in JD Vance&#39;s hometown</title>
+      <link>https://www.marketplace.org/episode/2025/10/21/federal-funding-pullbacks-in-jd-vances-hometown</link>
+      <description>
+        <![CDATA[<p>The Trump administration has moved to axe many Biden-era green initiatives. One project impacted is in Middletown, Ohio — the hometown of Vice President JD Vance. Environmentalists had hoped that the conversion of a steel plant there from coal to hydrogen-powered furnaces could be a blueprint for future eco-friendly upgrades, but that project has been canceled. Also on the show: collective bargaining rights for Uber and Lyft drivers in California and a U.S.-Australia alliance concerning rare earth metals.</p>]]>
+      </description>
+      <source:markdown>The Trump administration has moved to axe many Biden-era green initiatives. One project impacted is in Middletown, Ohio — the hometown of Vice President JD Vance. Environmentalists had hoped that the conversion of a steel plant there from coal to hydrogen-powered furnaces could be a blueprint for future eco-friendly upgrades, but that project has been canceled. Also on the show: collective bargaining rights for Uber and Lyft drivers in California and a U.S.-Australia alliance concerning rare earth metals.</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/10/21/mmr_20251021_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K83NYBP89QTRE4YPFR2Z3Q2J" length="3349573" type="audio/mpeg" />
+      <guid>cid://01K83NYBP89QTRE4YPFR2Z3Q2J</guid>
+    </item>    <item>
       <title>Call it a silver squeeze</title>
       <link>https://www.marketplace.org/episode/2025/10/21/call-it-a-silver-squeeze</link>
       <description>
@@ -42,6 +51,14 @@
       <source:markdown>AI chatbot adoption is moving rapidly. We can already ask the tools to help us find local restaurants, a good deal on an item we’re looking to purchase. And soon, we’ll even be able to buy products from Walmart through ChatGPT. But as more people turn to AI for search and shopping, what happens to small businesses that traditionally depend on web searches and online reviews?</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/10/21/tech_20251021_1021_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K7SQXDW0YSEGWNN0Y3XDHZS1" length="6086340" type="audio/mpeg" />
       <guid>cid://01K7SQXDW0YSEGWNN0Y3XDHZS1</guid>
+    </item>    <item>
+      <title>Something Doesn’t Feel Right: Doom the Movie at 20</title>
+      <link>https://www.pastemagazine.com/movies/doom/doom-movie-2005-anniversary-20-dwayne-johnson-fps-shooter-videogame-movies-karl-urban</link>
+      <description>
+        <![CDATA[It may have had guns and monsters, but 2005's Doom sadly missed out on the most important essence of the classic demon-slaying FPS series.]]>
+      </description>
+      <source:markdown>It may have had guns and monsters, but 2005&#39;s Doom sadly missed out on the most important essence of the classic demon-slaying FPS series.</source:markdown>
+      <guid>cid://19dfc3fa-7a16-4ea8-ba1c-5e4f21aaba9d-410537</guid>
     </item>    <item>
       <title>How&#39;s that BLS data coming along?</title>
       <link>https://www.marketplace.org/episode/2025/10/20/hows-that-bls-data-coming-along</link>

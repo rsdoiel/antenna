@@ -4,10 +4,186 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>21 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>21 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Top 10: Der beste günstige Mini-PC mit Windows 11 bis 300 Euro – erstaunlich gut</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-guenstige-mini-pc-mit-windows-11-bis-300-euro-erstaunlich-gut/flxjgm9?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Selbst günstige Mini-PCs bieten richtig gute Ausstattung. Wir haben über 80 Modelle getestet und zeigen die zehn besten vollwertigen Mini-Computer bis 300 Euro.]]>
+      </description>
+      <source:markdown>Selbst günstige Mini-PCs bieten richtig gute Ausstattung. Wir haben über 80 Modelle getestet und zeigen die zehn besten vollwertigen Mini-Computer bis 300 Euro.</source:markdown>
+      <guid>cid://http://heise.de/-10793630</guid>
+    </item>    <item>
+      <title>KDE Plasma 6.5 released</title>
+      <link>https://www.osnews.com/story/143605/kde-plasma-6-5-released/</link>
+      <description>
+        <![CDATA[KDE is on a roll lately, and keeps on rolling with today&#8217;s release of KDE Plasma 6.5. As the project itself notes, this release focuses on relatively small improvements, refinements, and other niceties, without making any massive changes. With Linux desktops taking accessibility more seriously lately than ever before, I want to focus on the accessibility improvements first. The Orca screen reader now announces caps lock state changes, and screen readers will now describe the Shortcuts and Autostart pages more optimally. There&#8217;s also a new grayscale colour filter for people sensitive to colours, developers have done Plasma-wide pass to eliminate bright flashes in the UI, and the desktop zoom feature will now follow the text insertion point as it moves around the UI. Keyboard navigation in various parts of Plasma have been improved, and a few other small changes have been to improve accessiblity. Other changes include rounded bottom window corners (which can be turned off), automatic and scheduled theme and wallpaper transitions (e.g. from light to dark), and a new and improved applications permissions settings panel. A small new feature that will be a massive time saver for me is the ability to favourite items in your clipboard history, so they remain available over time. I reuse certain copied bits of text all the time, and I can&#8217;t wait to start using this little addition. Remote desktop has also received a ton of love in Plasma 6.5. You can now share your clipboard, and you no longer need to create dedicated RDP user accounts; you can just log in with your normal account credentials as you would expect you could. Plasma&#8217;s Discover application, used for application and update management, has seen major work to improve its performance &#8211; very welcome, for sure. Of course, there&#8217;s a ton of other changes, too. KDE Plasma 6.5 will find its way to your distribution soon enough.]]>
+      </description>
+      <source:markdown>KDE is on a roll lately, and keeps on rolling with today’s release of KDE Plasma 6.5. As the project itself notes, this release focuses on relatively small improvements, refinements, and other niceties, without making any massive changes. With Linux desktops taking accessibility more seriously lately than ever before, I want to focus on the accessibility improvements first. The Orca screen reader now announces caps lock state changes, and screen readers will now describe the Shortcuts and Autostart pages more optimally. There’s also a new grayscale colour filter for people sensitive to colours, developers have done Plasma-wide pass to eliminate bright flashes in the UI, and the desktop zoom feature will now follow the text insertion point as it moves around the UI. Keyboard navigation in various parts of Plasma have been improved, and a few other small changes have been to improve accessiblity. Other changes include rounded bottom window corners (which can be turned off), automatic and scheduled theme and wallpaper transitions (e.g. from light to dark), and a new and improved applications permissions settings panel. A small new feature that will be a massive time saver for me is the ability to favourite items in your clipboard history, so they remain available over time. I reuse certain copied bits of text all the time, and I can’t wait to start using this little addition. Remote desktop has also received a ton of love in Plasma 6.5. You can now share your clipboard, and you no longer need to create dedicated RDP user accounts; you can just log in with your normal account credentials as you would expect you could. Plasma’s Discover application, used for application and update management, has seen major work to improve its performance – very welcome, for sure. Of course, there’s a ton of other changes, too. KDE Plasma 6.5 will find its way to your distribution soon enough.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143605</guid>
+    </item>    <item>
+      <title>heise+ | Test: Das neue MacBook Pro mit M5 – und ohne Netzteil</title>
+      <link>https://www.heise.de/tests/Test-Das-neue-MacBook-Pro-mit-M5-und-ohne-Netzteil-10793514.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Der neue M5-Chip zieht im MacBook Pro 14 Zoll ein und verspricht mehr Leistung, insbesondere für die SSD und KI-Berechnungen. Wie viel besser ist es wirklich?]]>
+      </description>
+      <source:markdown>Der neue M5-Chip zieht im MacBook Pro 14 Zoll ein und verspricht mehr Leistung, insbesondere für die SSD und KI-Berechnungen. Wie viel besser ist es wirklich?</source:markdown>
+      <guid>cid://http://heise.de/-10793514</guid>
+    </item>    <item>
+      <title>Archaeologists Discover 3,500-Year-Old Egyptian Military Fortress in the Sinai Desert</title>
+      <link>https://www.smithsonianmag.com/smart-news/archaeologists-discover-3500-year-old-egyptian-military-fortress-in-the-sinai-desert-180987542/</link>
+      <description>
+        <![CDATA[Excavations are shedding light on what life was like at the ancient site, which may have once housed hundreds of soldiers at a time]]>
+      </description>
+      <source:markdown>Excavations are shedding light on what life was like at the ancient site, which may have once housed hundreds of soldiers at a time</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ofNJLSnDrigTUFS8a-5B83OB0YY=/420x240/filters:focal(639x396:640x397)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f4/1e/f41e9c6e-88c5-467a-8f74-e50c1572f004/559455527_1212389790922565_476323085669381549_n.jpeg" length="" type="" />
+    </item>    <item>
+      <title>Banana Pi BPI-R4 Pro: High-End-Mainboard für Selbstbau-Router</title>
+      <link>https://www.heise.de/news/Banana-Pi-BPI-R4-Pro-High-End-Mainboard-fuer-Selbstbau-Router-10793510.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Viel schnelles Ethernet, SSD-Steckplätze und Wi-Fi-7-Support: Das Banana Pi BPI-R4 Pro ist üppig ausgestattet.]]>
+      </description>
+      <source:markdown>Viel schnelles Ethernet, SSD-Steckplätze und Wi-Fi-7-Support: Das Banana Pi BPI-R4 Pro ist üppig ausgestattet.</source:markdown>
+      <guid>cid://http://heise.de/-10793510</guid>
+    </item>    <item>
+      <title>AWS outage turned smart homes into dumb boxes – and sysadmins into therapists</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/21/aws_outage_aftermath/</link>
+      <description>
+        <![CDATA[<h4>Amazon&#39;s hours-long cloud blackout transformed the future of sleep into a sauna and cat care into chaos</h4> <p>When Amazon&#39;s cloud face-planted on Monday, it didn&#39;t just take down some of the world&#39;s most popular apps – it took down dignity, comfort, and the occasional cat toilet.…</p>]]>
+      </description>
+      <source:markdown>#### Amazon&#39;s hours-long cloud blackout transformed the future of sleep into a sauna and cat care into chaos
+
+When Amazon&#39;s cloud face-planted on Monday, it didn&#39;t just take down some of the world&#39;s most popular apps – it took down dignity, comfort, and the occasional cat toilet.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242583</guid>
+    </item>    <item>
+      <title>Krise bei DB Cargo – Gutachten erhöht Druck auf Chefin Nikutta</title>
+      <link>https://www.heise.de/news/Krise-bei-DB-Cargo-Gutachten-erhoeht-Druck-auf-Chefin-Nikutta-10793593.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ein Gutachten kommt zu dem Ergebnis, dass das Sanierungskonzept für DB Cargo nicht greift. Wie geht es nun weiter mit der Bahn-Tochter – und ihrer Chefin?]]>
+      </description>
+      <source:markdown>Ein Gutachten kommt zu dem Ergebnis, dass das Sanierungskonzept für DB Cargo nicht greift. Wie geht es nun weiter mit der Bahn-Tochter – und ihrer Chefin?</source:markdown>
+      <guid>cid://http://heise.de/-10793593</guid>
+    </item>    <item>
+      <title>DeepSeek-OCR: Wie Bilder Chatbots helfen, lange Gespräche zu führen</title>
+      <link>https://www.heise.de/news/DeepSeek-OCR-Wie-Bilder-Chatbots-helfen-lange-Gespraeche-zu-fuehren-10793565.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Chinesische KI-Forscher wollen Chatbots mit Bildern bei langen Kontexten schnell und günstig halten. Optische Kontextkompression soll KI-Assistenten verbessern.]]>
+      </description>
+      <source:markdown>Chinesische KI-Forscher wollen Chatbots mit Bildern bei langen Kontexten schnell und günstig halten. Optische Kontextkompression soll KI-Assistenten verbessern.</source:markdown>
+      <guid>cid://http://heise.de/-10793565</guid>
+    </item>    <item>
+      <title>Is PHP declining? JetBrains says yes. And no</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/21/massive_jetbrains_dev_survey/</link>
+      <description>
+        <![CDATA[<h4>24,500 devs polled, two blog posts, one confusion</h4> <p>JetBrains has released its State of the Developer Ecosystem survey, with more than 24,500 responses, revealing AI&#39;s impact on developer tools and programming language trends - including the claim that PHP and Ruby are in &#34;long term decline.&#34;…</p>]]>
+      </description>
+      <source:markdown>#### 24,500 devs polled, two blog posts, one confusion
+
+JetBrains has released its State of the Developer Ecosystem survey, with more than 24,500 responses, revealing AI&#39;s impact on developer tools and programming language trends - including the claim that PHP and Ruby are in &#34;long term decline.&#34;…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242581</guid>
+    </item>    <item>
+      <title>Trotz Verbesserungen: E‑Patientenakte für besonders sensible Daten ungeeignet</title>
+      <link>https://www.heise.de/news/Elektronische-Patientenakte-Trotz-Verbesserungen-offene-Datenschutzfragen-10793008.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Trotz neuer und geplanter Erweiterungen beim Datenschutz bleibt die elektronische Patientenakte für besonders sensible Daten problematisch.]]>
+      </description>
+      <source:markdown>Trotz neuer und geplanter Erweiterungen beim Datenschutz bleibt die elektronische Patientenakte für besonders sensible Daten problematisch.</source:markdown>
+      <guid>cid://http://heise.de/-10793008</guid>
+    </item>    <item>
+      <title>heise+ | Security: Wie WLAN-Geräte Passanten ausspionieren</title>
+      <link>https://www.heise.de/hintergrund/Security-Wie-WLAN-Geraete-Passanten-ausspionieren-10773306.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Verbundene WLAN-Geräte verraten dem Router auch etwas über die Umgebung. Variiert die Stärke der Funksignale, kann man damit sogar Passanten identifizieren.]]>
+      </description>
+      <source:markdown>Verbundene WLAN-Geräte verraten dem Router auch etwas über die Umgebung. Variiert die Stärke der Funksignale, kann man damit sogar Passanten identifizieren.</source:markdown>
+      <guid>cid://http://heise.de/-10773306</guid>
+    </item>    <item>
+      <title>Intel, AMD to bring memory tagging to x86, at some point</title>
+      <link>https://www.osnews.com/story/143601/intel-amd-to-bring-memory-tagging-to-x86-at-some-point/</link>
+      <description>
+        <![CDATA[Now that ARM&#8217;s memory tagging, used extensively by Android ROMs such as GrapheneOS and now also by Apple, is becoming the new norm to aid in improving memory safety, the x86 world can&#8217;t sit idly by. As such, Intel and AMD have announced a ChkTag, x86&#8217;s version of memory tagging. ChkTag is a set of new and enhanced x86 instructions to detect memory safety violations, such as buffer overflows and misuses of freed memory (use-after-free). ChkTag is designed to be suitable for hardening applications, operating system kernels, hypervisors for virtualization, and UEFI firmware. ChkTag places control in the software developers’ hands to balance their security needs with operational elements that often become prominent when deploying code. For example, ChkTag provides instruction-granular control over which memory accesses are checked. Compilers can offer optimizations and new language features or intrinsics. ChkTag prepares x86 for a future with increasing amounts of code written in memory-safe languages running alongside code in other languages. Furthermore, ChkTag loads tags from linear/virtual memory that can often be committed on demand. ↫ Intel and AMD&#8217;s announcement It&#8217;s important to note that ChkTag &#8211; why not just call it CheckTag &#8211; isn&#8217;t ready yet, nor is there any indication when it will be included in any processors from Intel and AMD. The goal is to catch certain memory safety problems in hardware. According to Intel and AMD&#8217;s shared announcement, developers will have fine-grained control over the feature, allowing them to tap into the functionality in whatever way they deem necessary or valuable for their software in specific circumstances. My fear is that Intel and AMD will use this feature as a product differentiator, restricting it to either more expensive processors or to Xeon/Threadripper processors, thereby fracturing the market. This would inevitably lead to spotty support for the feature across the x86 landscape, meaning most ordinary consumer won&#8217;t benefit from it at all.]]>
+      </description>
+      <source:markdown>Now that ARM’s memory tagging, used extensively by Android ROMs such as GrapheneOS and now also by Apple, is becoming the new norm to aid in improving memory safety, the x86 world can’t sit idly by. As such, Intel and AMD have announced a ChkTag, x86’s version of memory tagging. ChkTag is a set of new and enhanced x86 instructions to detect memory safety violations, such as buffer overflows and misuses of freed memory (use-after-free). ChkTag is designed to be suitable for hardening applications, operating system kernels, hypervisors for virtualization, and UEFI firmware. ChkTag places control in the software developers’ hands to balance their security needs with operational elements that often become prominent when deploying code. For example, ChkTag provides instruction-granular control over which memory accesses are checked. Compilers can offer optimizations and new language features or intrinsics. ChkTag prepares x86 for a future with increasing amounts of code written in memory-safe languages running alongside code in other languages. Furthermore, ChkTag loads tags from linear/virtual memory that can often be committed on demand. ↫ Intel and AMD’s announcement It’s important to note that ChkTag – why not just call it CheckTag – isn’t ready yet, nor is there any indication when it will be included in any processors from Intel and AMD. The goal is to catch certain memory safety problems in hardware. According to Intel and AMD’s shared announcement, developers will have fine-grained control over the feature, allowing them to tap into the functionality in whatever way they deem necessary or valuable for their software in specific circumstances. My fear is that Intel and AMD will use this feature as a product differentiator, restricting it to either more expensive processors or to Xeon/Threadripper processors, thereby fracturing the market. This would inevitably lead to spotty support for the feature across the x86 landscape, meaning most ordinary consumer won’t benefit from it at all.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143601</guid>
+    </item>    <item>
+      <title>This is how much Anthropic and Cursor spend on Amazon Web Services</title>
+      <link>https://www.osnews.com/story/143599/this-is-how-much-anthropic-and-cursor-spend-on-amazon-web-services/</link>
+      <description>
+        <![CDATA[I can exclusively reveal today Anthropic’s spending on Amazon Web Services for the entirety of 2024, and for every month in 2025 up until September, and that that Anthropic’s spend on compute far exceeds that previously reported.&#160; Furthermore, I can confirm that through September, Anthropic has spent more than 100% of its estimated revenue (based on reporting in the last year) on Amazon Web Services, spending $2.66 billion on compute on an estimated $2.55 billion in revenue. ↫ Ed Zitron These numbers do not even include what the company spends on Google&#8217;s services. Going through all the numbers and reporting, Zitron explains that the more &#8220;successful&#8221; Anthropic becomes, the bigger the gap between income from paying customers and its spending on Amazon and Google services becomes. It&#8217;s simply unsustainable, and the longer we keep this scam going, the worse the consequences will be when the bubble pops. Sadly, nobody will go to jail once hell breaks loose.]]>
+      </description>
+      <source:markdown>I can exclusively reveal today Anthropic’s spending on Amazon Web Services for the entirety of 2024, and for every month in 2025 up until September, and that that Anthropic’s spend on compute far exceeds that previously reported.  Furthermore, I can confirm that through September, Anthropic has spent more than 100% of its estimated revenue (based on reporting in the last year) on Amazon Web Services, spending $2.66 billion on compute on an estimated $2.55 billion in revenue. ↫ Ed Zitron These numbers do not even include what the company spends on Google’s services. Going through all the numbers and reporting, Zitron explains that the more “successful” Anthropic becomes, the bigger the gap between income from paying customers and its spending on Amazon and Google services becomes. It’s simply unsustainable, and the longer we keep this scam going, the worse the consequences will be when the bubble pops. Sadly, nobody will go to jail once hell breaks loose.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143599</guid>
+    </item>    <item>
+      <title>Mercedes GLC EQ: Das soll er kosten</title>
+      <link>https://www.heise.de/news/Mercedes-GLC-EQ-Das-soll-er-kosten-10793423.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ab dem 29. Oktober kann der Mercedes GLC EQ offiziell bestellt werden. Er wird vorerst einen Hauch teurer als der BMW iX3.]]>
+      </description>
+      <source:markdown>Ab dem 29. Oktober kann der Mercedes GLC EQ offiziell bestellt werden. Er wird vorerst einen Hauch teurer als der BMW iX3.</source:markdown>
+      <guid>cid://http://heise.de/-10793423</guid>
+    </item>    <item>
+      <title>Cartridge chaos: the official Nintendo region converter and more!</title>
+      <link>https://www.osnews.com/story/143597/cartridge-chaos-the-official-nintendo-region-converter-and-more/</link>
+      <description>
+        <![CDATA[This post is a combination of looks at several oddities among my pile of NES and Famicom cartridges. Why, for example, do I have a copy of Gyromite when I don’t have a R.O.B.? Did I miss something interesting in my MMC blog post? And while it is the Japanese release of Kid Niki: Radical Ninja, is my Kaiketsu Yanchamaru being a little too radical? Who put the ram in the rama-lama-ding-dong? Some of these questions will be answered! ↫ Nicole Branagan at Nicole Express A well-written post with tons of weird NES nerdery. Branagan delivers, every time.]]>
+      </description>
+      <source:markdown>This post is a combination of looks at several oddities among my pile of NES and Famicom cartridges. Why, for example, do I have a copy of Gyromite when I don’t have a R.O.B.? Did I miss something interesting in my MMC blog post? And while it is the Japanese release of Kid Niki: Radical Ninja, is my Kaiketsu Yanchamaru being a little too radical? Who put the ram in the rama-lama-ding-dong? Some of these questions will be answered! ↫ Nicole Branagan at Nicole Express A well-written post with tons of weird NES nerdery. Branagan delivers, every time.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143597</guid>
+    </item>    <item>
+      <title>Introducing NTFSplus – because just one NTFS driver for Linux is never enough</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/21/ntfsplus_new_rw_driver/</link>
+      <description>
+        <![CDATA[<h4>Dev unveils a faster, modernized take on Microsoft&#39;s file system for penguin-powered PCs</h4> <p>Just under four years after the Linux kernel gained built-in read-write access to Windows drives, an alternative option has appeared.…</p>]]>
+      </description>
+      <source:markdown>#### Dev unveils a faster, modernized take on Microsoft&#39;s file system for penguin-powered PCs
+
+Just under four years after the Linux kernel gained built-in read-write access to Windows drives, an alternative option has appeared.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242579</guid>
+    </item>    <item>
+      <title>JBL Bar 800MK2 im Test: Soundbar mit Subwoofer und Akku-Rear-Speakern</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/jbl-bar-800mk2-im-test-soundbar-mit-subwoofer-und-akku-rear-speakern/8yjyfb2?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Dank akkubetriebener Rear-Lautsprecher zeigt sich die JBL Bar 800MK2 sehr flexibel. Wie gut die Soundbar inklusive riesigen Subwoofer klingt, zeigt unser Test.]]>
+      </description>
+      <source:markdown>Dank akkubetriebener Rear-Lautsprecher zeigt sich die JBL Bar 800MK2 sehr flexibel. Wie gut die Soundbar inklusive riesigen Subwoofer klingt, zeigt unser Test.</source:markdown>
+      <guid>cid://http://heise.de/-10793397</guid>
+    </item>    <item>
+      <title>Discovery of First Fossil Hand Linked to P. Boisei Suggests the Bygone Human Relative Could Have Used Tools</title>
+      <link>https://www.smithsonianmag.com/smart-news/discovery-of-first-fossil-hand-linked-to-p-boisei-suggests-the-bygone-human-relative--could-have-used-tools-180987527/</link>
+      <description>
+        <![CDATA[A new study sheds light on the enduring mystery of whether our ancient cousins were toolmakers, too]]>
+      </description>
+      <source:markdown>A new study sheds light on the enduring mystery of whether our ancient cousins were toolmakers, too</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/0GerQC033HCs4g7N45A5O1xCqFQ=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2d/c3/2dc3bda3-9c71-4046-bc83-436e9606cf5d/smithsonian_feature_images_19.png" length="" type="" />
+    </item>    <item>
+      <title>Microsoft&#39;s ancient icon library still lurks deep within Windows 11</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/21/windows_pifmgr_chen/</link>
+      <description>
+        <![CDATA[<h4>Pixels of the past &#39;created just for fun&#39;</h4> <p>The <code>pifmgr.dll</code> still lingers in modern Windows installations - a throwback to a simpler and blockier time, according to veteran Microsoft engineer Raymond Chen.…</p>]]>
+      </description>
+      <source:markdown>#### Pixels of the past &#39;created just for fun&#39;
+
+The `pifmgr.dll` still lingers in modern Windows installations - a throwback to a simpler and blockier time, according to veteran Microsoft engineer Raymond Chen.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242580</guid>
+    </item>    <item>
+      <title>Claude Code: Neue Web-Version bringt mehrere Vorteile für Entwickler</title>
+      <link>https://www.heise.de/news/Claude-Code-Neue-Web-Version-bringt-mehrere-Vorteile-fuer-Entwickler-mit-sich-10793149.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Anthropic bietet Claude Code ab sofort eine neue Plattform. Künftig ist die Coding-KI auch im Web nutzbar.]]>
+      </description>
+      <source:markdown>Anthropic bietet Claude Code ab sofort eine neue Plattform. Künftig ist die Coding-KI auch im Web nutzbar.</source:markdown>
+      <guid>cid://http://heise.de/-10793149</guid>
+    </item>    <item>
+      <title>heise+ | Flach und flott: Das neue iPad Pro M5 im Test</title>
+      <link>https://www.heise.de/tests/Flach-und-flott-Das-neue-iPad-Pro-M5-im-Test-10792884.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Apple hat das iPad Pro nach 17 Monaten renoviert und ihm mit als Erstes den neuen Apple-Chip M5, mehr RAM und Wi-Fi 7 spendiert. Lohnt der höhere Preis?]]>
+      </description>
+      <source:markdown>Apple hat das iPad Pro nach 17 Monaten renoviert und ihm mit als Erstes den neuen Apple-Chip M5, mehr RAM und Wi-Fi 7 spendiert. Lohnt der höhere Preis?</source:markdown>
+      <guid>cid://http://heise.de/-10792884</guid>
+    </item>    <item>
       <title>heise+ | Bit-Rauschen: Qualcomms Mobil-CPU Snapdragon X2 Elite soll alle überholen</title>
       <link>https://www.heise.de/hintergrund/Bit-Rauschen-Qualcomms-Mobil-CPU-Snapdragon-X2-Elite-soll-alle-ueberholen-10520387.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
       <description>
@@ -16,7 +192,7 @@
       <source:markdown>Qualcomm legt beim Snapdragon X nach – ab 2026. Das erste Gigawatt-Rechenzentrum ist im Bau. Google verpasst ChromeOS einen Android-Unterbau.</source:markdown>
       <guid>cid://http://heise.de/-10520387</guid>
     </item>    <item>
-      <title>BentoPDF 1.0.0: Open-Source-PDF-Tool mit Privacy-Fokus erschienen</title>
+      <title>BentoPDF 1.0: Neues Open-Source-PDF-Werkzeug fürs Self-Hosting</title>
       <link>https://www.heise.de/news/BentoPDF-1-0-0-Open-Source-PDF-Tool-mit-Privacy-Fokus-erschienen-10793109.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
         <![CDATA[Das neue Open-Source-Tool BentoPDF erscheint in Version 1.0 mit umfangreichen PDF-Funktionen, Docker-Integration und Fokus auf lokale Datenverarbeitung.]]>
@@ -242,7 +418,7 @@ Uncle Sam&#39;s cyber wardens have warned that a high-severity flaw in Microsoft
       <source:markdown>Mit dem ersten offiziellen Release gibt es Servo erstmals für ARM-Macs. Trotz des Meilensteins ist die Browser-Engine noch nicht bereit für Endanwender.</source:markdown>
       <guid>cid://http://heise.de/-10789486</guid>
     </item>    <item>
-      <title>A shot in the dark: Can malware vaccines stop ransomware&#39;s rampage?</title>
+      <title>How malware vaccines could stop ransomware&#39;s rampage</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/21/malware_vaccines/</link>
       <description>
         <![CDATA[<h4>Security pros explore whether infection-spoofing code can immunize Windows systems against attack</h4> <p><strong>Feature</strong>  What&#39;s better, prevention or cure? For a long time the global cybersecurity industry has operated by reacting to attacks and computer viruses. But given that ransomware has continued to escalate, more proactive action is needed.…</p>]]>
@@ -363,9 +539,9 @@ Anti-fraud nonprofit Cifas was left red-faced after sending out a calendar invit
       <title>Weltraummüll: Überrest einer Rakete brennend auf Straße in Australien gestürzt</title>
       <link>https://www.heise.de/news/Weltraummuell-Ueberrest-einer-Rakete-brennend-auf-Strasse-in-Australien-gefunden-10789340.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
-        <![CDATA[Im Westen Australiens ist offenbar ein Überrest einer chinesischen Rakete abgestürzt, als es gefunden wurde, hat es noch gebrannt. Untersuchungen laufen.]]>
+        <![CDATA[Im Westen Australiens ist offenbar ein Teil einer chinesischen Rakete abgestürzt. Als es gefunden wurde, hat es noch gebrannt. Untersuchungen laufen.]]>
       </description>
-      <source:markdown>Im Westen Australiens ist offenbar ein Überrest einer chinesischen Rakete abgestürzt, als es gefunden wurde, hat es noch gebrannt. Untersuchungen laufen.</source:markdown>
+      <source:markdown>Im Westen Australiens ist offenbar ein Teil einer chinesischen Rakete abgestürzt. Als es gefunden wurde, hat es noch gebrannt. Untersuchungen laufen.</source:markdown>
       <guid>cid://http://heise.de/-10789340</guid>
     </item>    <item>
       <title>Elektroauto Volvo ES90 im ersten Fahrbericht: Der leise Cruiser</title>
@@ -392,7 +568,7 @@ _Listen to every episode of Short Wave sponsor-free and support our work at NPR 
 Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
 
 [NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR1833080355.mp3?t=podcast&e=nx-s1-5552528&p=510351&d=910&size=14566758" length="14566758" type="audio/mpeg" />
+      <enclosure url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR9449501071.mp3?t=podcast&e=nx-s1-5552528&p=510351&d=910&size=14566758" length="14566758" type="audio/mpeg" />
       <guid>cid://798a459b-2ddb-44b0-afd3-cc367a3c1028</guid>
     </item>    <item>
       <title>Informatik als Pflichtfach: Immer mehr Bundesländer ziehen mit</title>
@@ -511,14 +687,14 @@ Chinese tech giant Alibaba has published a paper detailing scheduling tech it ha
       <source:markdown>Wegen Verstößen gegen Datenschutzgesetze muss das World-Projekt seine Aktivitäten in Kolumbien einstellen. Es ist der nächste in einer Reihe von Rückschlägen.</source:markdown>
       <guid>cid://http://heise.de/-10789207</guid>
     </item>    <item>
-      <title>AI wins Imitation Game: Readers prefer Fanfic written by ChatGPT</title>
+      <title>AI does a better job of ripping off the style of famous authors than MFA students do</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/21/ai_wins_imitation_game_readers/</link>
       <description>
-        <![CDATA[<h4>Shall I refer thee to all those lawsuits about fair use? Researchers think this result makes them worth revisiting</h4> <p>Readers of texts created to use the styles of famous authors prefer works written by AI to human human-written imitations, but only after developers fine-tune AI models to understand an author’s output.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+        <![CDATA[<h4>Shall I refer thee to all those lawsuits about fair use? Researchers think this result makes them worth revisiting</h4> <p>Readers of texts created to use the styles of famous authors prefer works written by AI to human-written imitations, but only after developers fine-tune AI models to understand an author’s output.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
       <source:markdown>#### Shall I refer thee to all those lawsuits about fair use? Researchers think this result makes them worth revisiting
 
-Readers of texts created to use the styles of famous authors prefer works written by AI to human human-written imitations, but only after developers fine-tune AI models to understand an author’s output.…</source:markdown>
+Readers of texts created to use the styles of famous authors prefer works written by AI to human-written imitations, but only after developers fine-tune AI models to understand an author’s output.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242568</guid>
     </item>    <item>
       <title>Suspected Salt Typhoon snoops lurking in European telco&#39;s network</title>
@@ -828,11 +1004,11 @@ The UK government has signaled its intention to allow a supplier providing maint
       <title>Windows 11 update knocks out USB mice, keyboards in recovery mode</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/20/microsoft_bug_keyboard_mouse/</link>
       <description>
-        <![CDATA[<h4>October security patch leaves users unable to fix their PCs</h4> <p>Microsoft has confirmed a bug that disables USB mice and keyboards in the Windows Recovery Environment (WinRE) after installing security update KB5066835, released October 14.…</p>]]>
+        <![CDATA[<h4>October security patch leaves users unable to fix their PCs</h4> <p><strong>Updated</strong>  Microsoft has confirmed a bug that disables USB mice and keyboards in the Windows Recovery Environment (WinRE) after installing security update KB5066835, released October 14.…</p>]]>
       </description>
       <source:markdown>#### October security patch leaves users unable to fix their PCs
 
-Microsoft has confirmed a bug that disables USB mice and keyboards in the Windows Recovery Environment (WinRE) after installing security update KB5066835, released October 14.…</source:markdown>
+**Updated**  Microsoft has confirmed a bug that disables USB mice and keyboards in the Windows Recovery Environment (WinRE) after installing security update KB5066835, released October 14.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242554</guid>
     </item>    <item>
       <title>heise+ | GPS- und Bluetooth-Tracker für verschiedene Einsatzzwecke im Test</title>
