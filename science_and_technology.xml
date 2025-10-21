@@ -4,10 +4,533 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>20 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>21 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>heise+ | Bit-Rauschen: Qualcomms Mobil-CPU Snapdragon X2 Elite soll alle überholen</title>
+      <link>https://www.heise.de/hintergrund/Bit-Rauschen-Qualcomms-Mobil-CPU-Snapdragon-X2-Elite-soll-alle-ueberholen-10520387.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Qualcomm legt beim Snapdragon X nach – ab 2026. Das erste Gigawatt-Rechenzentrum ist im Bau. Google verpasst ChromeOS einen Android-Unterbau.]]>
+      </description>
+      <source:markdown>Qualcomm legt beim Snapdragon X nach – ab 2026. Das erste Gigawatt-Rechenzentrum ist im Bau. Google verpasst ChromeOS einen Android-Unterbau.</source:markdown>
+      <guid>cid://http://heise.de/-10520387</guid>
+    </item>    <item>
+      <title>BentoPDF 1.0.0: Open-Source-PDF-Tool mit Privacy-Fokus erschienen</title>
+      <link>https://www.heise.de/news/BentoPDF-1-0-0-Open-Source-PDF-Tool-mit-Privacy-Fokus-erschienen-10793109.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das neue Open-Source-Tool BentoPDF erscheint in Version 1.0 mit umfangreichen PDF-Funktionen, Docker-Integration und Fokus auf lokale Datenverarbeitung.]]>
+      </description>
+      <source:markdown>Das neue Open-Source-Tool BentoPDF erscheint in Version 1.0 mit umfangreichen PDF-Funktionen, Docker-Integration und Fokus auf lokale Datenverarbeitung.</source:markdown>
+      <guid>cid://http://heise.de/-10793109</guid>
+    </item>    <item>
+      <title>Galaxy S25 und A26: Samsung ändert Angaben zu Akkuwechsel in EPREL-Datenbank</title>
+      <link>https://www.heise.de/news/Galaxy-S25-und-A26-Samsung-aendert-Angaben-zu-Akkuwechsel-in-EPREL-Datenbank-10793044.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Deutsche Umwelthilfe erwirkt die Rücknahme der Behauptung, dass der Akku des Galaxy S25 und A26 nutzerseitig auswechselbar sind. Samsung reagiert gelassen.]]>
+      </description>
+      <source:markdown>Die Deutsche Umwelthilfe erwirkt die Rücknahme der Behauptung, dass der Akku des Galaxy S25 und A26 nutzerseitig auswechselbar sind. Samsung reagiert gelassen.</source:markdown>
+      <guid>cid://http://heise.de/-10793044</guid>
+    </item>    <item>
+      <title>Sicherheitsleck in Dolby Digital Plus Decoder in Android, iOS, macOS und Windows</title>
+      <link>https://www.heise.de/news/Sicherheitsleck-in-Dolby-Digital-Plus-Decoder-in-Android-iOS-macOS-und-Windows-10793034.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Im Dolby Unified Decoder klaffte eine Sicherheitslücke, die einen Zero-Click-Exploit etwa in Android ermöglichte.]]>
+      </description>
+      <source:markdown>Im Dolby Unified Decoder klaffte eine Sicherheitslücke, die einen Zero-Click-Exploit etwa in Android ermöglichte.</source:markdown>
+      <guid>cid://http://heise.de/-10793034</guid>
+    </item>    <item>
+      <title>SpaceX is behind schedule, so NASA will open Artemis III contract to competition</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/21/spacex_is_behind_schedule_so/</link>
+      <description>
+        <![CDATA[<h4>Lunar landing reality distortion field slips for Musk&#39;s rocketeers</h4> <p>NASA&#39;s Acting Administrator has admitted that SpaceX is behind in plans to return astronauts to the Moon, has reopened lander contract competition, and pushed the deadline for a lunar landing to the end of the Trump administration in 2029.…</p>]]>
+      </description>
+      <source:markdown>#### Lunar landing reality distortion field slips for Musk&#39;s rocketeers
+
+NASA&#39;s Acting Administrator has admitted that SpaceX is behind in plans to return astronauts to the Moon, has reopened lander contract competition, and pushed the deadline for a lunar landing to the end of the Trump administration in 2029.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242578</guid>
+    </item>    <item>
+      <title>Passierschein A38: 325.000 Jobs nur für Bürokratie-Compliance</title>
+      <link>https://www.heise.de/news/Studie-325-000-Jobs-nur-fuer-Buerokratie-Bewaeltigung-10792769.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Deutsche Betriebe mussten laut IAB-Studie in drei Jahren 325.000 zusätzliche Arbeitskräfte einstellen, um gestiegene Bürokratie zu bewältigen.]]>
+      </description>
+      <source:markdown>Deutsche Betriebe mussten laut IAB-Studie in drei Jahren 325.000 zusätzliche Arbeitskräfte einstellen, um gestiegene Bürokratie zu bewältigen.</source:markdown>
+      <guid>cid://http://heise.de/-10792769</guid>
+    </item>    <item>
+      <title>Vorwurf der Aktienmanipulation: Südkoreanischer Tech-Milliardär freigesprochen</title>
+      <link>https://www.heise.de/news/Vorwurf-der-Aktienmanipulation-Suedkoreanischer-Tech-Milliardaer-freigesprochen-10793052.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Vor anderthalb Jahren wurde der Gründer von Kakao Talk festgenommen, erst Monate später kam er wieder frei. Nun wurde Kim Beom-su freigesprochen.]]>
+      </description>
+      <source:markdown>Vor anderthalb Jahren wurde der Gründer von Kakao Talk festgenommen, erst Monate später kam er wieder frei. Nun wurde Kim Beom-su freigesprochen.</source:markdown>
+      <guid>cid://http://heise.de/-10793052</guid>
+    </item>    <item>
+      <title>Digitale-Fahrerlaubnis, EU-weite Verbote: Die neuen Führerscheinvorgaben der EU</title>
+      <link>https://www.heise.de/news/Digitale-Fahrerlaubnis-EU-weite-Verbote-Die-neuen-Fuehrerscheinvorgaben-der-EU-10792819.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die EU einigt sich auf Änderungen beim Führerschein. Begleitetes Fahren und Fahrverbote sollen künftig EU-weit gelten, Gesundheitsuntersuchungen kommen nicht.]]>
+      </description>
+      <source:markdown>Die EU einigt sich auf Änderungen beim Führerschein. Begleitetes Fahren und Fahrverbote sollen künftig EU-weit gelten, Gesundheitsuntersuchungen kommen nicht.</source:markdown>
+      <guid>cid://http://heise.de/-10792819</guid>
+    </item>    <item>
+      <title>heise-Angebot: iX-Workshop: Windows 11 im Unternehmen absichern</title>
+      <link>https://www.heise.de/news/iX-Workshop-Windows-11-im-Unternehmen-absichern-10749375.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Lernen Sie an praktischen Beispielen, wie Sie Windows 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen.]]>
+      </description>
+      <source:markdown>Lernen Sie an praktischen Beispielen, wie Sie Windows 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen.</source:markdown>
+      <guid>cid://http://heise.de/-10749375</guid>
+    </item>    <item>
+      <title>Brit boffins teach fusion plasma some manners with 3D magnetic field</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/21/ukaea_fusion_plasma_magnets/</link>
+      <description>
+        <![CDATA[<h4>MAST Upgrade team claims first suppression of pesky edge instabilities in a spherical tokamak</h4> <p>Scientists at the UK Atomic Energy Authority (UKAEA) claim they have taken a significant step toward making fusion energy possible by applying a 3D magnetic field to counteract instabilities in a spherical tokamak plasma for the first time.…</p>]]>
+      </description>
+      <source:markdown>#### MAST Upgrade team claims first suppression of pesky edge instabilities in a spherical tokamak
+
+Scientists at the UK Atomic Energy Authority (UKAEA) claim they have taken a significant step toward making fusion energy possible by applying a 3D magnetic field to counteract instabilities in a spherical tokamak plasma for the first time.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242577</guid>
+    </item>    <item>
+      <title>Zahlen, bitte! 3 Minuten Ruhm für einen Drumcomputer</title>
+      <link>https://www.heise.de/hintergrund/Zahlen-bitte-3-Minuten-Ruhm-fuer-einen-Drumcomputer-10792316.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Anfang der 1970er wurden fast gleichzeitig zwei etwa drei Minuten lange Songs veröffentlicht, die mit ihren Drumcomputer-Beats in die Zukunft wiesen.]]>
+      </description>
+      <source:markdown>Anfang der 1970er wurden fast gleichzeitig zwei etwa drei Minuten lange Songs veröffentlicht, die mit ihren Drumcomputer-Beats in die Zukunft wiesen.</source:markdown>
+      <guid>cid://http://heise.de/-10792316</guid>
+    </item>    <item>
+      <title>heise+ | DNA statt Bits: Das Speichermedium der Natur als Datenspeicher</title>
+      <link>https://www.heise.de/hintergrund/DNA-statt-Bits-Das-Speichermedium-der-Natur-als-Datenspeicher-10494423.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[DNA, das Speichermedium der Natur, eignet sich auch für Daten. Bis zum ersten USB-Stick mit DNA-Chip sind aber noch einige Herausforderungen zu lösen.]]>
+      </description>
+      <source:markdown>DNA, das Speichermedium der Natur, eignet sich auch für Daten. Bis zum ersten USB-Stick mit DNA-Chip sind aber noch einige Herausforderungen zu lösen.</source:markdown>
+      <guid>cid://http://heise.de/-10494423</guid>
+    </item>    <item>
+      <title>Fischertechnik-Set für Micro:Bit: Baukasten für Coding-Einsteiger im Test</title>
+      <link>https://www.heise.de/tests/Fischertechnik-Set-fuer-Micro-Bit-Baukasten-fuer-Coding-Einsteiger-im-Test-10717549.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das Starter-Set verkoppelt das bekannte Bausteinsystem mit dem Einplatinenrechner BBC Micro:Bit, um Grundschulkindern das Programmieren nahezubringen.]]>
+      </description>
+      <source:markdown>Das Starter-Set verkoppelt das bekannte Bausteinsystem mit dem Einplatinenrechner BBC Micro:Bit, um Grundschulkindern das Programmieren nahezubringen.</source:markdown>
+      <guid>cid://http://heise.de/-10717549</guid>
+    </item>    <item>
+      <title>WhatsApp kämpft gegen Spam: Nachrichtenlimit bei ausbleibender Reaktion</title>
+      <link>https://www.heise.de/news/WhatsApp-kaempft-gegen-Spam-Nachrichtenlimit-bei-ausbleibender-Reaktion-10792924.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[WhatsApp plant eine Begrenzung von Nachrichten, wenn diese ohne Reaktion bleiben. Das soll unerwünschte Werbenachrichten eindämmen.]]>
+      </description>
+      <source:markdown>WhatsApp plant eine Begrenzung von Nachrichten, wenn diese ohne Reaktion bleiben. Das soll unerwünschte Werbenachrichten eindämmen.</source:markdown>
+      <guid>cid://http://heise.de/-10792924</guid>
+    </item>    <item>
+      <title>Muji&#39;s minimalist calm shattered as ransomware takes down logistics partner</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/21/muji_askul_ransomware/</link>
+      <description>
+        <![CDATA[<h4>Japanese retailer halts online orders after attack cripples third-party vendor</h4> <p>Japanese retailer Muji is suspending online orders after logistics partner Askul was knocked offline by a ransomware attack.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Japanese retailer halts online orders after attack cripples third-party vendor
+
+Japanese retailer Muji is suspending online orders after logistics partner Askul was knocked offline by a ransomware attack.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242576</guid>
+    </item>    <item>
+      <title>Audeering-Chefin zum AI Act: &#34;Wir brauchen Vertrauen statt Überregulierung&#34;</title>
+      <link>https://www.heise.de/hintergrund/Audeering-Chefin-zum-AI-Act-Wir-brauchen-Vertrauen-statt-Ueberregulierung-10792823.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Audeering analysiert stimmliche Merkmale, um Rückschlüsse auf Emotionen und sogar psychische Zustände zu ziehen. Den AI Act hält das Unternehmen für zu streng.]]>
+      </description>
+      <source:markdown>Audeering analysiert stimmliche Merkmale, um Rückschlüsse auf Emotionen und sogar psychische Zustände zu ziehen. Den AI Act hält das Unternehmen für zu streng.</source:markdown>
+      <guid>cid://http://heise.de/-10792823</guid>
+    </item>    <item>
+      <title>Wenn das Wetter mitspielt: Kometen Swan und Lemmon am Nachthimmel</title>
+      <link>https://www.heise.de/news/Wenn-das-Wetter-mitspielt-Kometen-Swan-und-Lemmon-am-Nachthimmel-10792938.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Gleich zwei Kometen fliegen in Sichtweite an der Erde vorbei. Wer sie erspähen will, braucht etwas Glück – oder sollte sich in der richtigen Region aufhalten.]]>
+      </description>
+      <source:markdown>Gleich zwei Kometen fliegen in Sichtweite an der Erde vorbei. Wer sie erspähen will, braucht etwas Glück – oder sollte sich in der richtigen Region aufhalten.</source:markdown>
+      <guid>cid://http://heise.de/-10792938</guid>
+    </item>    <item>
+      <title>Feds flag active exploitation of patched Windows SMB vuln</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/21/cisa_windows_smb_bug/</link>
+      <description>
+        <![CDATA[<h4>CISA adds high-severity flaw to KEV list, urges swift updating</h4> <p>Uncle Sam&#39;s cyber wardens have warned that a high-severity flaw in Microsoft&#39;s Windows SMB client is now being actively exploited – months after it was patched.…</p>]]>
+      </description>
+      <source:markdown>#### CISA adds high-severity flaw to KEV list, urges swift updating
+
+Uncle Sam&#39;s cyber wardens have warned that a high-severity flaw in Microsoft&#39;s Windows SMB client is now being actively exploited – months after it was patched.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242574</guid>
+    </item>    <item>
+      <title>heise+ | Data Profiling: Wie Sie anhand Ihrer digitalen Spuren verfolgt werden</title>
+      <link>https://www.heise.de/ratgeber/Data-Profiling-Wie-Sie-anhand-Ihrer-digitalen-Spuren-verfolgt-werden-10663239.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Jede Interaktion erzeugt Datenspuren. Unser Schwerpunkt erklärt, wer welche Informationen sammelt, mit welchen Risiken das verbunden ist und was Sie tun können.]]>
+      </description>
+      <source:markdown>Jede Interaktion erzeugt Datenspuren. Unser Schwerpunkt erklärt, wer welche Informationen sammelt, mit welchen Risiken das verbunden ist und was Sie tun können.</source:markdown>
+      <guid>cid://http://heise.de/-10663239</guid>
+    </item>    <item>
+      <title>heise+ | Über 1000 kW Ladeleistung: Das Megawatt Charging System für Lkw</title>
+      <link>https://www.heise.de/hintergrund/Ueber-1000-kW-Ladeleistung-Das-Megawatt-Charging-System-fuer-Lkw-10624080.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Elektrische Lkw funktionieren so gut, dass sich die Brennstoffzelle vermutlich erübrigt. Für die Langstrecke braucht es dazu Schnelllader im Megawattbereich.]]>
+      </description>
+      <source:markdown>Elektrische Lkw funktionieren so gut, dass sich die Brennstoffzelle vermutlich erübrigt. Für die Langstrecke braucht es dazu Schnelllader im Megawattbereich.</source:markdown>
+      <guid>cid://http://heise.de/-10624080</guid>
+    </item>    <item>
+      <title>heise-Angebot: Live-Webinar: Künstliche Intelligenz im Arbeitsalltag gewinnbringend nutzen</title>
+      <link>https://www.heise.de/news/Live-Webinar-Kuenstliche-Intelligenz-im-Arbeitsalltag-gewinnbringend-nutzen-10777834.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[ChatGPT, Midjourney & Co. bieten viele Möglichkeiten für die täglichen Prozesse. Erfahren Sie, wie Sie die Tools optimal nutzen und Fallstricke umschiffen.]]>
+      </description>
+      <source:markdown>ChatGPT, Midjourney &#38; Co. bieten viele Möglichkeiten für die täglichen Prozesse. Erfahren Sie, wie Sie die Tools optimal nutzen und Fallstricke umschiffen.</source:markdown>
+      <guid>cid://http://heise.de/-10777834</guid>
+    </item>    <item>
+      <title>Sort A Brick stellt gebrauchte Klemmbausteine automatisch zu Sets zusammen</title>
+      <link>https://www.heise.de/news/Sort-A-Brick-stellt-gebrauchte-Klemmbausteine-automatisch-zu-Sets-zusammen-10792056.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Sort A Brick stellt mit Computer Vision und KI aus gebrauchten Klemmbausteinen automatisch Sets zusammen. Fehlende Teile werden ergänzt.]]>
+      </description>
+      <source:markdown>Sort A Brick stellt mit Computer Vision und KI aus gebrauchten Klemmbausteinen automatisch Sets zusammen. Fehlende Teile werden ergänzt.</source:markdown>
+      <guid>cid://http://heise.de/-10792056</guid>
+    </item>    <item>
+      <title>Fermi-Paradox: Außerirdische könnten sich dank KI viel zu schnell entwickeln</title>
+      <link>https://www.heise.de/news/Dank-KI-Kommunikation-ausserirdischer-Zivilisationen-zu-kurz-nachweisbar-10790302.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Suche nach Außerirdischen konzentriert sich auf Signale, wie wir sie selbst produzieren. Womöglich gibt es die dank KI aber nur immer für wenige Jahrzehnte.]]>
+      </description>
+      <source:markdown>Die Suche nach Außerirdischen konzentriert sich auf Signale, wie wir sie selbst produzieren. Womöglich gibt es die dank KI aber nur immer für wenige Jahrzehnte.</source:markdown>
+      <guid>cid://http://heise.de/-10790302</guid>
+    </item>    <item>
+      <title>Zattoo verlinkt Inhalte der ARD-Mediathek</title>
+      <link>https://www.heise.de/news/Zattoo-verlinkt-Inhalte-der-ARD-Mediathek-10791846.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die IPTV-Plattform Zattoo zeigt nun auch Inhalte der ARD-Mediathek an. Filme, Serien und Dokus der ARD werden als Link in die Zattoo-Oberfläche integriert.]]>
+      </description>
+      <source:markdown>Die IPTV-Plattform Zattoo zeigt nun auch Inhalte der ARD-Mediathek an. Filme, Serien und Dokus der ARD werden als Link in die Zattoo-Oberfläche integriert.</source:markdown>
+      <guid>cid://http://heise.de/-10791846</guid>
+    </item>    <item>
+      <title>Trust the AI, says new coding manifesto by Kim and Yegge</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/21/book_review_vibe_coding/</link>
+      <description>
+        <![CDATA[<h4>DevOps guru and ex-Googler say vibes beat reading diffs but there are risks</h4> <p>&#34;Accept All. Always. Don&#39;t read the diffs anymore.&#34;…</p>]]>
+      </description>
+      <source:markdown>#### DevOps guru and ex-Googler say vibes beat reading diffs but there are risks
+
+&#34;Accept All. Always. Don&#39;t read the diffs anymore.&#34;…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242559</guid>
+    </item>    <item>
+      <title>Schatten-KI in Unternehmen nimmt deutlich zu</title>
+      <link>https://www.heise.de/news/Schatten-KI-in-Unternehmen-nimmt-deutlich-zu-10790550.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Immer mehr Beschäftigte nutzen private KI-Tools wie ChatGPT für ihre Arbeit. Allerdings stellen viele Unternehmen keine eigenen KI-Angebote bereit.]]>
+      </description>
+      <source:markdown>Immer mehr Beschäftigte nutzen private KI-Tools wie ChatGPT für ihre Arbeit. Allerdings stellen viele Unternehmen keine eigenen KI-Angebote bereit.</source:markdown>
+      <guid>cid://http://heise.de/-10790550</guid>
+    </item>    <item>
+      <title>Pixel-&#34;Superfans&#34; dürfen neue Top-Smartphones schon früher testen</title>
+      <link>https://www.heise.de/news/Pixel-Superfans-duerfen-neue-Top-Smartphones-schon-frueher-testen-10789518.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Google lädt eine kleine Gruppe seiner treuesten Pixel-Nutzer ein, das kommende Pixel 11 vor der offiziellen Markteinführung zu testen und Feedback zu geben.]]>
+      </description>
+      <source:markdown>Google lädt eine kleine Gruppe seiner treuesten Pixel-Nutzer ein, das kommende Pixel 11 vor der offiziellen Markteinführung zu testen und Feedback zu geben.</source:markdown>
+      <guid>cid://http://heise.de/-10789518</guid>
+    </item>    <item>
+      <title>Browser-Engine Servo veröffentlicht erstes offizielle Release 0.0.1</title>
+      <link>https://www.heise.de/news/Browser-Engine-Servo-veroeffentlicht-erstes-offizielle-Release-0-0-1-10789486.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Mit dem ersten offiziellen Release gibt es Servo erstmals für ARM-Macs. Trotz des Meilensteins ist die Browser-Engine noch nicht bereit für Endanwender.]]>
+      </description>
+      <source:markdown>Mit dem ersten offiziellen Release gibt es Servo erstmals für ARM-Macs. Trotz des Meilensteins ist die Browser-Engine noch nicht bereit für Endanwender.</source:markdown>
+      <guid>cid://http://heise.de/-10789486</guid>
+    </item>    <item>
+      <title>A shot in the dark: Can malware vaccines stop ransomware&#39;s rampage?</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/21/malware_vaccines/</link>
+      <description>
+        <![CDATA[<h4>Security pros explore whether infection-spoofing code can immunize Windows systems against attack</h4> <p><strong>Feature</strong>  What&#39;s better, prevention or cure? For a long time the global cybersecurity industry has operated by reacting to attacks and computer viruses. But given that ransomware has continued to escalate, more proactive action is needed.…</p>]]>
+      </description>
+      <source:markdown>#### Security pros explore whether infection-spoofing code can immunize Windows systems against attack
+
+**Feature**  What&#39;s better, prevention or cure? For a long time the global cybersecurity industry has operated by reacting to attacks and computer viruses. But given that ransomware has continued to escalate, more proactive action is needed.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242494</guid>
+    </item>    <item>
+      <title>MLS: Apple TV-Abonnenten bekommen Gratis-Fußball</title>
+      <link>https://www.heise.de/news/MLS-Apple-TV-Abonnenten-bekommen-Gratis-Fussball-10785483.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Partien aus dem Major League Soccer gab es bislang gegen Extragebühr. Nun soll es auch einige Gratisspiele geben.]]>
+      </description>
+      <source:markdown>Partien aus dem Major League Soccer gab es bislang gegen Extragebühr. Nun soll es auch einige Gratisspiele geben.</source:markdown>
+      <guid>cid://http://heise.de/-10785483</guid>
+    </item>    <item>
+      <title>3D-Druck: Forscher erstellen magnetische Origami-Muskeln für Medizin-Roboter</title>
+      <link>https://www.heise.de/news/3D-Druck-Forscher-erstellen-magnetische-Origami-Muskeln-fuer-Medizin-Roboter-10789396.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ein magnetischer Muskel auf Origami-Basis treibt zwei Roboter an. Einer bringt Medizin gezielt in den menschlichen Körper ein, der andere ist ein Laufroboter.]]>
+      </description>
+      <source:markdown>Ein magnetischer Muskel auf Origami-Basis treibt zwei Roboter an. Einer bringt Medizin gezielt in den menschlichen Körper ein, der andere ist ein Laufroboter.</source:markdown>
+      <guid>cid://http://heise.de/-10789396</guid>
+    </item>    <item>
+      <title>heise+ | Projektverwaltung: Open-Source-Task-Manager im Vergleich</title>
+      <link>https://www.heise.de/hintergrund/Projektverwaltung-Open-Source-Task-Manager-im-Vergleich-10672008.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Kleine Task-Manager helfen in überschaubaren Projekten oder wenn man schnell eine Aufgabenverwaltung benötigt. Wir stellen 13 quelloffene Exemplare vor.]]>
+      </description>
+      <source:markdown>Kleine Task-Manager helfen in überschaubaren Projekten oder wenn man schnell eine Aufgabenverwaltung benötigt. Wir stellen 13 quelloffene Exemplare vor.</source:markdown>
+      <guid>cid://http://heise.de/-10672008</guid>
+    </item>    <item>
+      <title>Software Testing: Praxisnahes Softwaretesten mit Java</title>
+      <link>https://www.heise.de/blog/Software-Testing-Praxisnahes-Softwaretesten-mit-Java-10789378.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[In dieser Episode des Podcasts sprechen Richard Seidl und Pascal Moll über den Einstieg ins Softwaretesten in der Java-Welt.]]>
+      </description>
+      <source:markdown>In dieser Episode des Podcasts sprechen Richard Seidl und Pascal Moll über den Einstieg ins Softwaretesten in der Java-Welt.</source:markdown>
+      <guid>cid://http://heise.de/-10789378</guid>
+    </item>    <item>
+      <title>Mobian makes Debian&#39;s latest &#39;Trixie&#39; release pocket-sized</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/21/mobian_trixie/</link>
+      <description>
+        <![CDATA[<h4>Another phone Linux? The Reg attempts to disentangle the options</h4> <p>The latest version of Mobian, an edition of Debian aimed at mobile devices, is here, based on Debian 13 &#34;Trixie&#34;.…</p>]]>
+      </description>
+      <source:markdown>#### Another phone Linux? The Reg attempts to disentangle the options
+
+The latest version of Mobian, an edition of Debian aimed at mobile devices, is here, based on Debian 13 &#34;Trixie&#34;.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242556</guid>
+    </item>    <item>
+      <title>Gefährlicher und unsichtbarer Wurm in Visual Studio Code Extensions gefunden</title>
+      <link>https://www.heise.de/news/Gefaehrlicher-und-unsichtbarer-Wurm-in-Visual-Studio-Code-Extensions-gefunden-10789320.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Eine Schadsoftware, die Credentials und Kryptowährungen abgreift, nutzt Unicode für unsichtbaren Code und installiert einen Remote-Access-Trojaner.]]>
+      </description>
+      <source:markdown>Eine Schadsoftware, die Credentials und Kryptowährungen abgreift, nutzt Unicode für unsichtbaren Code und installiert einen Remote-Access-Trojaner.</source:markdown>
+      <guid>cid://http://heise.de/-10789320</guid>
+    </item>    <item>
+      <title>Open Source Hardware Summit 2026 kommt nach Berlin</title>
+      <link>https://www.heise.de/news/Open-Source-Hardware-Summit-2026-kommt-nach-Berlin-10778005.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der Open Source Hardware Summit 2026 findet am 23. und 24. Mai 2026 an der TU Berlin statt – ein Treffpunkt für alle, die auch für Hardware offen denken.]]>
+      </description>
+      <source:markdown>Der Open Source Hardware Summit 2026 findet am 23. und 24. Mai 2026 an der TU Berlin statt – ein Treffpunkt für alle, die auch für Hardware offen denken.</source:markdown>
+      <guid>cid://http://heise.de/-10778005</guid>
+    </item>    <item>
+      <title>heise-Angebot:  iX-Workshop: Wireshark Deep Dive – Netzwerkprobleme gezielt lösen</title>
+      <link>https://www.heise.de/news/iX-Workshop-Wireshark-Deep-Dive-Netzwerkprobleme-gezielt-loesen-10749357.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Erweitern Sie Ihre Wireshark-Kenntnisse, indem Sie reale Netzwerkprobleme analysieren und Sicherheitsbedrohungen aufdecken.]]>
+      </description>
+      <source:markdown>Erweitern Sie Ihre Wireshark-Kenntnisse, indem Sie reale Netzwerkprobleme analysieren und Sicherheitsbedrohungen aufdecken.</source:markdown>
+      <guid>cid://http://heise.de/-10749357</guid>
+    </item>    <item>
+      <title>Anti-fraud body leaks dozens of email addresses in invite mishap</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/21/cifas_email_blunder/</link>
+      <description>
+        <![CDATA[<h4>Calendar cock-up exposed recipients&#39; details</h4> <p>Anti-fraud nonprofit Cifas was left red-faced after sending out a calendar invite that exposed the email addresses of dozens of individuals working across the fraud space.…</p>]]>
+      </description>
+      <source:markdown>#### Calendar cock-up exposed recipients&#39; details
+
+Anti-fraud nonprofit Cifas was left red-faced after sending out a calendar invite that exposed the email addresses of dozens of individuals working across the fraud space.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242550</guid>
+    </item>    <item>
+      <title>Google gegen Epic: App-Store-Änderungen doch noch aufgeschoben</title>
+      <link>https://www.heise.de/news/Google-gegen-Epic-App-Store-Aenderungen-doch-noch-aufgeschoben-10789360.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Google hat nun doch etwas länger Zeit, die von einem US-Gericht angeordneten Änderungen in seinem Android-Ökosystem umzusetzen. Epic stimmt der Verzögerung zu.]]>
+      </description>
+      <source:markdown>Google hat nun doch etwas länger Zeit, die von einem US-Gericht angeordneten Änderungen in seinem Android-Ökosystem umzusetzen. Epic stimmt der Verzögerung zu.</source:markdown>
+      <guid>cid://http://heise.de/-10789360</guid>
+    </item>    <item>
+      <title>Neue iOS 26.1-Beta: Liquid Glass verbessert, Kameranerv entfernt</title>
+      <link>https://www.heise.de/news/Neue-iOS-26-1-Beta-Liquid-Glass-verbessert-Kameranerv-entfernt-10789161.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Apple hat in seiner neuesten iOS-26.1-Beta gleich zwei sehenswerte Verbesserungen integriert.]]>
+      </description>
+      <source:markdown>Apple hat in seiner neuesten iOS-26.1-Beta gleich zwei sehenswerte Verbesserungen integriert.</source:markdown>
+      <guid>cid://http://heise.de/-10789161</guid>
+    </item>    <item>
+      <title>Abermals neuer NTFS-Treiber für Linux vorgestellt</title>
+      <link>https://www.heise.de/news/Abermals-neuer-NTFS-Treiber-fuer-Linux-vorgestellt-10789388.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ein erfahrener Kernel-Hacker hat den Dateisystem-Treiber "ntfsplus" vorgestellt, der Schwächen bisheriger Lösungen vermeidet, aber keinen Freifahrtschein hat.]]>
+      </description>
+      <source:markdown>Ein erfahrener Kernel-Hacker hat den Dateisystem-Treiber &#34;ntfsplus&#34; vorgestellt, der Schwächen bisheriger Lösungen vermeidet, aber keinen Freifahrtschein hat.</source:markdown>
+      <guid>cid://http://heise.de/-10789388</guid>
+    </item>    <item>
+      <title>Jetzt patchen! Rund 7000 WatchGuard-Firewalls in Deutschland noch verwundbar</title>
+      <link>https://www.heise.de/news/Jetzt-patchen-Rund-7000-WatchGuard-Firewalls-in-Deutschland-noch-verwundbar-10789308.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Offensichtlich haben weltweit viele Admins einen wichtigen Sicherheitspatch für WatchGuard-Firebox noch nicht installiert.]]>
+      </description>
+      <source:markdown>Offensichtlich haben weltweit viele Admins einen wichtigen Sicherheitspatch für WatchGuard-Firebox noch nicht installiert.</source:markdown>
+      <guid>cid://http://heise.de/-10789308</guid>
+    </item>    <item>
+      <title>Weltraummüll: Überrest einer Rakete brennend auf Straße in Australien gestürzt</title>
+      <link>https://www.heise.de/news/Weltraummuell-Ueberrest-einer-Rakete-brennend-auf-Strasse-in-Australien-gefunden-10789340.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Im Westen Australiens ist offenbar ein Überrest einer chinesischen Rakete abgestürzt, als es gefunden wurde, hat es noch gebrannt. Untersuchungen laufen.]]>
+      </description>
+      <source:markdown>Im Westen Australiens ist offenbar ein Überrest einer chinesischen Rakete abgestürzt, als es gefunden wurde, hat es noch gebrannt. Untersuchungen laufen.</source:markdown>
+      <guid>cid://http://heise.de/-10789340</guid>
+    </item>    <item>
+      <title>Elektroauto Volvo ES90 im ersten Fahrbericht: Der leise Cruiser</title>
+      <link>https://www.heise.de/tests/Volvo-ES90-mit-800-Volt-Erste-Ausfahrt-mit-der-Nobel-Limousine-10789312.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Hat Volvo aus dem misslungenen Start des E-SUV EX90 gelernt? Eine erste kurze Probefahrt mit der Limousine ES90 gibt Anlass zur Hoffnung.]]>
+      </description>
+      <source:markdown>Hat Volvo aus dem misslungenen Start des E-SUV EX90 gelernt? Eine erste kurze Probefahrt mit der Limousine ES90 gibt Anlass zur Hoffnung.</source:markdown>
+      <guid>cid://http://heise.de/-10789312</guid>
+    </item>    <item>
+      <title>We Have the Cure. Why is Tuberculosis Still Around?</title>
+      <link>https://www.npr.org/2025/10/21/nx-s1-5552528/medical-history-science-tuberculosis-john-green</link>
+      <description>
+        <![CDATA[Tuberculosis – the world’s deadliest infectious disease – could be dormant in your system for years before you realize you have it. In the U.S., it’s relatively rare; <a href="https://www.cdc.gov/tb-data/2024-provisional/index.html"target="_blank"   >provisional data</a> shows that there were just over 10,000 cases in 2024. But in other parts of the world, especially lower-income countries, the disease is spreading much more actively. Worldwide, more than 10 million people are diagnosed with an active tuberculosis infection every year. And even though modern medicine has all the tools to cure it, over a million people around the world still die from the sickness annually.<br/><br/>Author <a href="https://www.johngreenbooks.com/"target="_blank"   >John Green</a> thinks that’s a problem. In his book Everything is Tuberculosis, he charts the spread of tuberculosis in the past to the lessons it has to teach us in the present.<br/><br/><br><em>Interested in more science and medical history? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Tuberculosis – the world’s deadliest infectious disease – could be dormant in your system for years before you realize you have it. In the U.S., it’s relatively rare; [provisional data](https://www.cdc.gov/tb-data/2024-provisional/index.html) shows that there were just over 10,000 cases in 2024. But in other parts of the world, especially lower-income countries, the disease is spreading much more actively. Worldwide, more than 10 million people are diagnosed with an active tuberculosis infection every year. And even though modern medicine has all the tools to cure it, over a million people around the world still die from the sickness annually.
+
+Author [John Green](https://www.johngreenbooks.com/) thinks that’s a problem. In his book Everything is Tuberculosis, he charts the spread of tuberculosis in the past to the lessons it has to teach us in the present.
+
+_Interested in more science and medical history? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR1833080355.mp3?t=podcast&e=nx-s1-5552528&p=510351&d=910&size=14566758" length="14566758" type="audio/mpeg" />
+      <guid>cid://798a459b-2ddb-44b0-afd3-cc367a3c1028</guid>
+    </item>    <item>
+      <title>Informatik als Pflichtfach: Immer mehr Bundesländer ziehen mit</title>
+      <link>https://www.heise.de/news/Informatik-in-immer-mehr-Bundeslaendern-Schul-Pflichtfach-10789285.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Immer mehr Bundesländer führen Informatik als Pflichtfach in der Schule ein. Doch trotz der guten beruflichen Perspektive ziehen nicht alle mit.]]>
+      </description>
+      <source:markdown>Immer mehr Bundesländer führen Informatik als Pflichtfach in der Schule ein. Doch trotz der guten beruflichen Perspektive ziehen nicht alle mit.</source:markdown>
+      <guid>cid://http://heise.de/-10789285</guid>
+    </item>    <item>
+      <title>Microsoft: Update außer der Reihe für Windows Recovery Environment</title>
+      <link>https://www.heise.de/news/Microsoft-Update-ausser-der-Reihe-fuer-Windows-Recovery-Environment-10789291.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ein ungeplantes Update für die Windows-Wiederherstellungsumgebung macht sie wieder bedienbar – auch mit USB-Keyboards und -Mäusen.]]>
+      </description>
+      <source:markdown>Ein ungeplantes Update für die Windows-Wiederherstellungsumgebung macht sie wieder bedienbar – auch mit USB-Keyboards und -Mäusen.</source:markdown>
+      <guid>cid://http://heise.de/-10789291</guid>
+    </item>    <item>
+      <title>EA schaltet &#34;The Sims Mobile&#34; ab</title>
+      <link>https://www.heise.de/news/EA-schaltet-The-Sims-Mobile-ab-10789326.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ein Mobilableger der Spielereihe "Die Sims" ist bald nicht mehr spielbar: "The Sims Mobile" wird komplett abgeschaltet. Gekaufte Inhalte gehen verloren.]]>
+      </description>
+      <source:markdown>Ein Mobilableger der Spielereihe &#34;Die Sims&#34; ist bald nicht mehr spielbar: &#34;The Sims Mobile&#34; wird komplett abgeschaltet. Gekaufte Inhalte gehen verloren.</source:markdown>
+      <guid>cid://http://heise.de/-10789326</guid>
+    </item>    <item>
+      <title>Video: Wie realistisch Zeitreisen wirklich sind</title>
+      <link>https://www.heise.de/news/Video-Wie-realistisch-Zeitreisen-wirklich-sind-10767677.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Zeitreisen geben Geschichten einen spannenden Twist. Ob sie tatsächlich möglich sein könnte, diskutieren zwei Physiker anhand ihrer liebsten Filme und Serien.]]>
+      </description>
+      <source:markdown>Zeitreisen geben Geschichten einen spannenden Twist. Ob sie tatsächlich möglich sein könnte, diskutieren zwei Physiker anhand ihrer liebsten Filme und Serien.</source:markdown>
+      <guid>cid://http://heise.de/-10767677</guid>
+    </item>    <item>
+      <title>heise-Angebot: betterCode() PHP 2025: Neuer Online-Workshop hilft beim Verstehen von KI-Tools</title>
+      <link>https://www.heise.de/news/betterCode-PHP-2025-Neuer-Online-Workshop-hilft-beim-Verstehen-von-KI-Tools-10778777.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Zum sechsten Mal findet die PHP-Konferenz im Onlineformat statt. Neu im Programm: ein Workshop, der die Teilnehmenden beim Verstehen von KI-Tools unterstützt.]]>
+      </description>
+      <source:markdown>Zum sechsten Mal findet die PHP-Konferenz im Onlineformat statt. Neu im Programm: ein Workshop, der die Teilnehmenden beim Verstehen von KI-Tools unterstützt.</source:markdown>
+      <guid>cid://http://heise.de/-10778777</guid>
+    </item>    <item>
+      <title>AWS admits more bits of its cloud broke as it recovered from DynamoDB debacle</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/21/aws_outage_update/</link>
+      <description>
+        <![CDATA[<h4>12 more hours of pain followed initial outage</h4> <p>Amazon Web Services has revealed that its efforts to recover from the massive mess at its US-EAST-1 region caused other services to fail.…</p>]]>
+      </description>
+      <source:markdown>#### 12 more hours of pain followed initial outage
+
+Amazon Web Services has revealed that its efforts to recover from the massive mess at its US-EAST-1 region caused other services to fail.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242573</guid>
+    </item>    <item>
+      <title>heise+ | Mitsubishi Outlander PHEV: Eigenwillig-geschmeidiger Plug-in-Hybrid im Test</title>
+      <link>https://www.heise.de/tests/Mitsubishi-Outlander-PHEV-Eigenwillig-geschmeidiger-Plug-in-Hybrid-im-Test-10771236.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Der Mitsubishi Outlander bringt einen technisch interessanten Plug-in-Hybrid mit. Profitiert der Kunde von dem Aufwand?]]>
+      </description>
+      <source:markdown>Der Mitsubishi Outlander bringt einen technisch interessanten Plug-in-Hybrid mit. Profitiert der Kunde von dem Aufwand?</source:markdown>
+      <guid>cid://http://heise.de/-10771236</guid>
+    </item>    <item>
+      <title>Amazon Web Services: AWS wieder im Normalbetrieb</title>
+      <link>https://www.heise.de/news/Amazon-Web-Services-AWS-wieder-im-Normalbetrieb-10789249.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Am Montag legte ein Fehler Amazons Web Services und damit diverse Internet-Dienste lahm. Amazon erklärt die Probleme.]]>
+      </description>
+      <source:markdown>Am Montag legte ein Fehler Amazons Web Services und damit diverse Internet-Dienste lahm. Amazon erklärt die Probleme.</source:markdown>
+      <guid>cid://http://heise.de/-10789249</guid>
+    </item>    <item>
+      <title>Bemannte Mondlandung: NASA-Chef droht SpaceX mit Vertragsentzug</title>
+      <link>https://www.heise.de/news/Rueckkehr-zum-Mond-NASA-Chef-droht-SpaceX-mit-Auftrag-fuer-Konkurrenten-10789259.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[SpaceX soll schon Menschen bald zurück zum Mond bringen. Die NASA erhöht nun den Druck, weil der Zeitplan nicht zu halten ist – und auch aus anderen Gründen.]]>
+      </description>
+      <source:markdown>SpaceX soll schon Menschen bald zurück zum Mond bringen. Die NASA erhöht nun den Druck, weil der Zeitplan nicht zu halten ist – und auch aus anderen Gründen.</source:markdown>
+      <guid>cid://http://heise.de/-10789259</guid>
+    </item>    <item>
+      <title>Melancholie und Wehmut: 20 Jahre &#34;Shadow of the Colossus&#34;</title>
+      <link>https://www.heise.de/hintergrund/20-Jahre-Shadow-of-the-Colossus-Gewissensbisse-zum-Mitspielen-10779125.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA["Shadow of the Colossus" gilt als letztes Meisterwerk der Playstation-2-Ära. Wir blicken zurück auf 20 Jahre Melancholie und Wehmut.]]>
+      </description>
+      <source:markdown>&#34;Shadow of the Colossus&#34; gilt als letztes Meisterwerk der Playstation-2-Ära. Wir blicken zurück auf 20 Jahre Melancholie und Wehmut.</source:markdown>
+      <guid>cid://http://heise.de/-10779125</guid>
+    </item>    <item>
+      <title>15 Jahre OpenStack: Wie ein Mars-Satellit das Rechenzentrum revolutionierte</title>
+      <link>https://www.heise.de/news/15-Jahre-OpenStack-Wie-ein-Mars-Satellit-das-Rechenzentrum-revolutionierte-10789095.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[In den vergangenen 15 Jahren ist das Cloud-Computing-Projekt stetig gewachsen. Wo liegt sein Ursprung und ist OpenStack in Zeiten von Kubernetes noch relevant?]]>
+      </description>
+      <source:markdown>In den vergangenen 15 Jahren ist das Cloud-Computing-Projekt stetig gewachsen. Wo liegt sein Ursprung und ist OpenStack in Zeiten von Kubernetes noch relevant?</source:markdown>
+      <guid>cid://http://heise.de/-10789095</guid>
+    </item>    <item>
+      <title>Dienstag: US-Gericht verbietet WhatsApp-Spionage, World aus Kolumbien verbannt</title>
+      <link>https://www.heise.de/news/Dienstag-US-Gericht-verbietet-WhatsApp-Spionage-World-aus-Kolumbien-verbannt-10789221.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Gericht untersagt Pegasus-Installation + Ende von World in Kolumbien + Batteriespeicher in Sachsen-Anhalt + Störungen bei AWS + Open Source allein keine Lösung]]>
+      </description>
+      <source:markdown>Gericht untersagt Pegasus-Installation + Ende von World in Kolumbien + Batteriespeicher in Sachsen-Anhalt + Störungen bei AWS + Open Source allein keine Lösung</source:markdown>
+      <guid>cid://http://heise.de/-10789221</guid>
+    </item>    <item>
+      <title>Alibaba reveals 82 percent GPU resource savings – but this is no DeepSeek moment</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/21/alibaba_aegaeon_gpu_scheduling_improvements/</link>
+      <description>
+        <![CDATA[<h4>Better scheduling and resource-sharing for inferencing workloads using multiple models, not a training breakthrough</h4> <p>Chinese tech giant Alibaba has published a paper detailing scheduling tech it has used to achieve impressive utilization improvements across the GPU fleet it uses to power inferencing workloads – which is nice, but not a breakthrough that will worry AI investors.…</p>]]>
+      </description>
+      <source:markdown>#### Better scheduling and resource-sharing for inferencing workloads using multiple models, not a training breakthrough
+
+Chinese tech giant Alibaba has published a paper detailing scheduling tech it has used to achieve impressive utilization improvements across the GPU fleet it uses to power inferencing workloads – which is nice, but not a breakthrough that will worry AI investors.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242572</guid>
+    </item>    <item>
+      <title>World: Kolumbien ordnet sofortige Schließung an</title>
+      <link>https://www.heise.de/news/Datenschutzverletzung-Sofortiges-Ende-von-World-in-Kolumbien-angeordnet-10789207.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Wegen Verstößen gegen Datenschutzgesetze muss das World-Projekt seine Aktivitäten in Kolumbien einstellen. Es ist der nächste in einer Reihe von Rückschlägen.]]>
+      </description>
+      <source:markdown>Wegen Verstößen gegen Datenschutzgesetze muss das World-Projekt seine Aktivitäten in Kolumbien einstellen. Es ist der nächste in einer Reihe von Rückschlägen.</source:markdown>
+      <guid>cid://http://heise.de/-10789207</guid>
+    </item>    <item>
+      <title>AI wins Imitation Game: Readers prefer Fanfic written by ChatGPT</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/21/ai_wins_imitation_game_readers/</link>
+      <description>
+        <![CDATA[<h4>Shall I refer thee to all those lawsuits about fair use? Researchers think this result makes them worth revisiting</h4> <p>Readers of texts created to use the styles of famous authors prefer works written by AI to human human-written imitations, but only after developers fine-tune AI models to understand an author’s output.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Shall I refer thee to all those lawsuits about fair use? Researchers think this result makes them worth revisiting
+
+Readers of texts created to use the styles of famous authors prefer works written by AI to human human-written imitations, but only after developers fine-tune AI models to understand an author’s output.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242568</guid>
+    </item>    <item>
+      <title>Suspected Salt Typhoon snoops lurking in European telco&#39;s network</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/20/salt_typhoon_european_telco/</link>
+      <description>
+        <![CDATA[<h4>It&#39;s Typhoon season…year round</h4> <p>China&#39;s Salt Typhoon gang appears to have successfully attacked a European telecommunications firm, according to security researchers at Darktrace.…</p>]]>
+      </description>
+      <source:markdown>#### It&#39;s Typhoon season…year round
+
+China&#39;s Salt Typhoon gang appears to have successfully attacked a European telecommunications firm, according to security researchers at Darktrace.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242567</guid>
+    </item>    <item>
       <title>Nexperia drama intensifies as Dutch chipmaker denies ousted CEO&#39;s claims of Chinese split</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/20/nexperia_drama_intensifies_ceo_china_claim/</link>
       <description>
@@ -441,9 +964,9 @@ Lloyds Banking Group claims employees save 46 minutes daily using Microsoft 365 
       <title>Solar-Batteriespeicher soll Dieselgeneratoren auf Baustellen weitgehend ersetzen</title>
       <link>https://www.heise.de/news/Solar-Batteriespeicher-soll-Dieselgeneratoren-auf-Baustellen-weitgehend-ersetzen-10779181.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
-        <![CDATA[Solar statt Diesel: Proelectic will mit seinem Solar-Batteriespeicher die Dieselgeneratoren auf Baustellen überflüssig machen. Ganz klappt das aber noch nicht.]]>
+        <![CDATA[Solar statt Diesel: Prolectic will mit seinem Solar-Batteriespeicher die Dieselgeneratoren auf Baustellen überflüssig machen. Ganz klappt das aber noch nicht.]]>
       </description>
-      <source:markdown>Solar statt Diesel: Proelectic will mit seinem Solar-Batteriespeicher die Dieselgeneratoren auf Baustellen überflüssig machen. Ganz klappt das aber noch nicht.</source:markdown>
+      <source:markdown>Solar statt Diesel: Prolectic will mit seinem Solar-Batteriespeicher die Dieselgeneratoren auf Baustellen überflüssig machen. Ganz klappt das aber noch nicht.</source:markdown>
       <guid>cid://http://heise.de/-10779181</guid>
     </item>    <item>
       <title>Rechtsstreit in Australien: Apple mit schweren Vorwürfen gegen Epic</title>
@@ -998,9 +1521,9 @@ Ruby Central, the non-profit that recently seized some Ruby open source tools fr
       <title>Meta convinces Blue Owl to cut $30B check for its Hyperion AI super cluster</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/17/meta_blue_owl_hyperion/</link>
       <description>
-        <![CDATA[<h4>Cleverly concocked deal keeps debt off Social Media empire&#39;s books</h4> <p>Facebook parent Meta has managed to convince private equity firm Blue Owl Capital to finance its 2.2 gigawatt Hyperion datacenter project in Richland Parish, Louisiana.…</p>]]>
+        <![CDATA[<h4>Deal keeps debt off Social Media empire&#39;s books</h4> <p>Facebook parent Meta has managed to convince private equity firm Blue Owl Capital to finance its 2.2 gigawatt Hyperion datacenter project in Richland Parish, Louisiana.…</p>]]>
       </description>
-      <source:markdown>#### Cleverly concocked deal keeps debt off Social Media empire&#39;s books
+      <source:markdown>#### Deal keeps debt off Social Media empire&#39;s books
 
 Facebook parent Meta has managed to convince private equity firm Blue Owl Capital to finance its 2.2 gigawatt Hyperion datacenter project in Richland Parish, Louisiana.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242546</guid>
@@ -1649,14 +2172,6 @@ Learn more about sponsor message choices: [podcastchoices.com/adchoices](https:/
       </description>
       <source:markdown>Die Online-Konferenz am 13. November bietet wertvolle Einblicke in zeitgemäße Produktentwicklung. Profis teilen ihre Erfahrungen mit OKR, KI, Jira und Nave.</source:markdown>
       <guid>cid://http://heise.de/-10751839</guid>
-    </item>    <item>
-      <title>heise+ | DNA statt Bits: Das Speichermedium der Natur als Datenspeicher</title>
-      <link>https://www.heise.de/hintergrund/DNA-statt-Bits-Das-Speichermedium-der-Natur-als-Datenspeicher-10494423.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
-      <description>
-        <![CDATA[DNA, das Speichermedium der Natur, eignet sich auch für Daten. Bis zum ersten USB-Stick mit DNA-Chip sind aber noch einige Herausforderungen zu lösen.]]>
-      </description>
-      <source:markdown>DNA, das Speichermedium der Natur, eignet sich auch für Daten. Bis zum ersten USB-Stick mit DNA-Chip sind aber noch einige Herausforderungen zu lösen.</source:markdown>
-      <guid>cid://http://heise.de/-10494423</guid>
     </item>    <item>
       <title>heise+ | Neun VPN-Anbieter im Vergleichstest</title>
       <link>https://www.heise.de/ratgeber/Neun-VPN-Anbieter-in-der-Uebersicht-10637716.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
@@ -7455,401 +7970,6 @@ The US Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday will c
         <![CDATA[Written by Alex Innanen, Atmospheric Scientist at York University Earth planning date: Friday, Sept. 26, 2025 We are continuing through the boxwork region, taking a twisty-turny path along the ridges (many of which are conveniently Curiosity-sized). One thing we’re keeping an eye out for is our next drill location in one of the hollows. Our […]]]>
       </description>
       <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-4668-4674-winding-our-way-along/</guid>
-    </item>    <item>
-      <title>California cops confused after trying to give ticket to self-driving car</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/california_cops_self_driving/</link>
-      <description>
-        <![CDATA[<h4>Don&#39;t tell Elon, he&#39;d have Tesla&#39;s Robotaxis going ludicrous speed</h4> <p>Police in a Silicon Valley suburb were flummoxed last weekend after pulling over a self-driving Waymo robo-taxi for making an illegal turn, then finding no driver they could issue with a ticket.…</p>]]>
-      </description>
-      <source:markdown>#### Don&#39;t tell Elon, he&#39;d have Tesla&#39;s Robotaxis going ludicrous speed
-
-Police in a Silicon Valley suburb were flummoxed last weekend after pulling over a self-driving Waymo robo-taxi for making an illegal turn, then finding no driver they could issue with a ticket.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242202</guid>
-    </item>    <item>
-      <title>Whitebridge AI created false and alarming reputation reports, complaint alleges</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/whitebridge_ai_reputation_reports_complaint/</link>
-      <description>
-        <![CDATA[<h4>Privacy group Noyb wants Lithuania to throw the GDPR book at &#39;em</h4> <p><strong>Updated</strong>  Whitebridge AI, based in Lithuania, faces a privacy complaint for allegedly selling &#34;reputation reports&#34; based on unlawfully collected data and AI misinformation.…</p>]]>
-      </description>
-      <source:markdown>#### Privacy group Noyb wants Lithuania to throw the GDPR book at &#39;em
-
-**Updated**  Whitebridge AI, based in Lithuania, faces a privacy complaint for allegedly selling &#34;reputation reports&#34; based on unlawfully collected data and AI misinformation.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242201</guid>
-    </item>    <item>
-      <title>Your AI conversations are a secret new treasure trove for marketers</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/profound_browser_extension_privacy_concern/</link>
-      <description>
-        <![CDATA[<h4>And they may not be seeking proper consent</h4> <p><strong>ai-pocalypse</strong>  Profound is a startup that promises to help companies understand how they appear in AI responses to customer queries. But one expert in the field thinks the AI analytics startup has been sucking up information on users&#39; AI conversations without proper consent.…</p>]]>
-      </description>
-      <source:markdown>#### And they may not be seeking proper consent
-
-**ai-pocalypse**  Profound is a startup that promises to help companies understand how they appear in AI responses to customer queries. But one expert in the field thinks the AI analytics startup has been sucking up information on users&#39; AI conversations without proper consent.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242199</guid>
-    </item>    <item>
-      <title>One line of malicious npm code led to massive Postmark email heist</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/postmark_mcp_server_code_hijacked/</link>
-      <description>
-        <![CDATA[<h4>MCP plus open source plus typosquatting equals trouble</h4> <p>A fake npm package posing as Postmark&#39;s MCP (Model Context Protocol) server silently stole potentially thousands of emails a day by adding a single line of code that secretly copied outgoing messages to an attacker-controlled address.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### MCP plus open source plus typosquatting equals trouble
-
-A fake npm package posing as Postmark&#39;s MCP (Model Context Protocol) server silently stole potentially thousands of emails a day by adding a single line of code that secretly copied outgoing messages to an attacker-controlled address.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242197</guid>
-    </item>    <item>
-      <title>Asahi runs dry as online attackers take down Japanese brewer</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/asahi_hacking_outage/</link>
-      <description>
-        <![CDATA[<h4>No personal info gulped as yet, but don&#39;t call for help</h4> <p>Japan&#39;s largest brewery biz, Asahi, has shut down distribution systems following an online attack, and local drinkers will just have to make do with stocks as they stand.…</p>]]>
-      </description>
-      <source:markdown>#### No personal info gulped as yet, but don&#39;t call for help
-
-Japan&#39;s largest brewery biz, Asahi, has shut down distribution systems following an online attack, and local drinkers will just have to make do with stocks as they stand.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242200</guid>
-    </item>    <item>
-      <title>Google’s Android developer registration requirement will kill F-Droid</title>
-      <link>https://www.osnews.com/story/143450/googles-android-developer-registration-requirement-will-kill-f-droid/</link>
-      <description>
-        <![CDATA[The consequences of Google requiring developer certification to install Android applications, even outside of Google&#8217;s own Play Store, are starting to reverberate. F-Droid, probably the single most popular non-Google application repository for Android, has made it very clear that Google&#8217;s upcoming requirement is most likely going to mean the end of F-Droid. If it were to be put into effect, the developer registration decree will end the F-Droid project and other free/open-source app distribution sources as we know them today, and the world will be deprived of the safety and security of the catalog of thousands of apps that can be trusted and verified by any and all. F-Droid’s myriad users will be left adrift, with no means to install — or even update their existing installed — applications. ↫ F-Droid&#8217;s blog post A potential loss of F-Droid would be a huge blow to anyone trying to run Android without Google&#8217;s applications and frameworks installed on their device. It&#8217;s pretty clear that Google is doing whatever it can to utterly destroy the Android Open Source Project, something I&#8217;ve been arguing is what the rumours about Google killing AOSP really mean. Why kill AOSP, when you can just make it utterly unusable and completely barren? Sadly, there isn&#8217;t much F-Droid can do. They&#8217;re proposing regulators the world over look at Google&#8217;s plans, and hopefully come to the conclusion that they&#8217;re anti-competitive. Specifically the European Union and the tools provided by the Digital Markets Act could prove useful here, but in the end, only if the will exists to use them can these tools be used in the first place. It&#8217;s dark times for the smartphone world right now, especially if you care about consumer rights and open source. iOS has always been deeply anti-consumer, and while the European Union has managed to soften some of the rough edges, nothing much has changed there. Android, on the other hand, had a thriving open source, Google-free community, but decision by decision, Google is beating it into submission and killing it off. The Android of yesteryear doesn&#8217;t exist anymore, and it&#8217;s making people who used to work on Android back during the good old times extremely sad. Jean-Baptiste Quéru, husband of OSNews&#8217; amazing and legendary previous managing editor Eugenia Loli-Queru, worded it like this a few days ago: All the tidbits of news about Android make me sad. I used to be part of the Android team. When I worked there, making the application ecosystem as open as the web was a goal. Releasing the Android source code as soon as something hit end-user devices was a goal. Being able to run your own build on actual consumer hardware was a goal. For a while after I left, there continued to be some momentum behind what I had pushed for. But, now, 12 years later, this seems to have all died. I am sad&#8230; ↫ Jean-Baptiste Quéru And so am I. Like any operating system, Android is far from perfect, but it was remarkable just how open it used to be. I guess good things just don&#8217;t survive once unbridled capitalism hits.]]>
-      </description>
-      <source:markdown>The consequences of Google requiring developer certification to install Android applications, even outside of Google’s own Play Store, are starting to reverberate. F-Droid, probably the single most popular non-Google application repository for Android, has made it very clear that Google’s upcoming requirement is most likely going to mean the end of F-Droid. If it were to be put into effect, the developer registration decree will end the F-Droid project and other free/open-source app distribution sources as we know them today, and the world will be deprived of the safety and security of the catalog of thousands of apps that can be trusted and verified by any and all. F-Droid’s myriad users will be left adrift, with no means to install — or even update their existing installed — applications. ↫ F-Droid’s blog post A potential loss of F-Droid would be a huge blow to anyone trying to run Android without Google’s applications and frameworks installed on their device. It’s pretty clear that Google is doing whatever it can to utterly destroy the Android Open Source Project, something I’ve been arguing is what the rumours about Google killing AOSP really mean. Why kill AOSP, when you can just make it utterly unusable and completely barren? Sadly, there isn’t much F-Droid can do. They’re proposing regulators the world over look at Google’s plans, and hopefully come to the conclusion that they’re anti-competitive. Specifically the European Union and the tools provided by the Digital Markets Act could prove useful here, but in the end, only if the will exists to use them can these tools be used in the first place. It’s dark times for the smartphone world right now, especially if you care about consumer rights and open source. iOS has always been deeply anti-consumer, and while the European Union has managed to soften some of the rough edges, nothing much has changed there. Android, on the other hand, had a thriving open source, Google-free community, but decision by decision, Google is beating it into submission and killing it off. The Android of yesteryear doesn’t exist anymore, and it’s making people who used to work on Android back during the good old times extremely sad. Jean-Baptiste Quéru, husband of OSNews’ amazing and legendary previous managing editor Eugenia Loli-Queru, worded it like this a few days ago: All the tidbits of news about Android make me sad. I used to be part of the Android team. When I worked there, making the application ecosystem as open as the web was a goal. Releasing the Android source code as soon as something hit end-user devices was a goal. Being able to run your own build on actual consumer hardware was a goal. For a while after I left, there continued to be some momentum behind what I had pushed for. But, now, 12 years later, this seems to have all died. I am sad… ↫ Jean-Baptiste Quéru And so am I. Like any operating system, Android is far from perfect, but it was remarkable just how open it used to be. I guess good things just don’t survive once unbridled capitalism hits.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=143450</guid>
-    </item>    <item>
-      <title>FAA decides it trusts Boeing enough to certify the safety of its own planes again</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/faa_decides_it_trusts_boeing/</link>
-      <description>
-        <![CDATA[<h4>Jet maker only gets to issue certs every other week, though, freeing up FAA inspectors to do more poking around</h4> <p>After years of relying on the FAA to certify its jets as airworthy, Boeing is finally going to be allowed to do so itself – sometimes. …</p>]]>
-      </description>
-      <source:markdown>#### Jet maker only gets to issue certs every other week, though, freeing up FAA inspectors to do more poking around
-
-After years of relying on the FAA to certify its jets as airworthy, Boeing is finally going to be allowed to do so itself – sometimes. …</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242198</guid>
-    </item>    <item>
-      <title>Forget vibe coding - Microsoft wants to make vibe working the new hotness</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/microsoft_vibe_working_office/</link>
-      <description>
-        <![CDATA[<h4>Adds more Anthropic into the mix as Redmond hedges its bets</h4> <p>Microsoft is jumping on the vibe coding bandwagon with &#34;vibe working,&#34; its name for adding AI agents to the online Office suite to help you complete your work.…</p>]]>
-      </description>
-      <source:markdown>#### Adds more Anthropic into the mix as Redmond hedges its bets
-
-Microsoft is jumping on the vibe coding bandwagon with &#34;vibe working,&#34; its name for adding AI agents to the online Office suite to help you complete your work.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242196</guid>
-    </item>    <item>
-      <title>New File Download Process for PSI Large Requests</title>
-      <link>https://science.nasa.gov/uncategorized/new-file-download-process-for-large-requestspsi-new-file-download-process/</link>
-      <description>
-        <![CDATA[A recent update to the PSI database improves how large dataset downloads are handled, resulting in more efficient processing for users. Download requests larger than 1GB are now delivered via email, rather than downloading directly from the website. This allows the system to prepare your files in the background so you can continue working without […]]]>
-      </description>
-      <guid>cid://https://science.nasa.gov/uncategorized/new-file-download-process-for-large-requestspsi-new-file-download-process/</guid>
-    </item>    <item>
-      <title>Oracle will have to borrow at least $25B a year to fund AI fantasy, says analyst</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/oracle_ai_debt/</link>
-      <description>
-        <![CDATA[<h4>Bubble, you say? OpenAI will borrow billions to pay Big Red, who will borrow billions on the hope OpenAI pays it</h4> <p>As part of its $300 billion cloud compute contract with OpenAI, Oracle may need to borrow roughly $100 billion over the next four years to build the datacenters required, according to KeyBanc&#39;s projections.…</p>]]>
-      </description>
-      <source:markdown>#### Bubble, you say? OpenAI will borrow billions to pay Big Red, who will borrow billions on the hope OpenAI pays it
-
-As part of its $300 billion cloud compute contract with OpenAI, Oracle may need to borrow roughly $100 billion over the next four years to build the datacenters required, according to KeyBanc&#39;s projections.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242194</guid>
-    </item>    <item>
-      <title>Joe A. Adam Presents Ring Sheared Drop (RSD) Research at 2025 ISSRDC</title>
-      <link>https://science.nasa.gov/uncategorized/rsd-presented-at-issrdc/</link>
-      <description>
-        <![CDATA[At the virtual 2025 ISS Research and Development Conference (ISSDRC), Joe A. Adam of Rensselaer Polytechnic Institute, presented the topic titled “Surface Science in Microgravity – Fluid Geometry in the Ring-Sheared Drop,” presented to a broad audience from academia and the scientific community during the Physical Sciences and Materials Development session. Dr. Adam provided a […]]]>
-      </description>
-      <guid>cid://https://science.nasa.gov/uncategorized/rsd-presented-at-issrdc/</guid>
-    </item>    <item>
-      <title>Archaeologists Unearth Seven Rare Wampum Beads at 17th-Century English Settlement in Canada</title>
-      <link>https://www.smithsonianmag.com/smart-news/archaeologists-unearth-seven-rare-wampum-beads-at-17th-century-english-settlement-in-canada-180987413/</link>
-      <description>
-        <![CDATA[Indigenous groups created the small beads from mollusk shells. They're the first artifacts of their kind ever found at the Colony of Avalon in Newfoundland]]>
-      </description>
-      <source:markdown>Indigenous groups created the small beads from mollusk shells. They&#39;re the first artifacts of their kind ever found at the Colony of Avalon in Newfoundland</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ah72AanzjOWnHsqsZEDJelTd1XI=/420x240/filters:focal(966x644:967x645)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/27/e2/27e21027-8c9c-46de-899e-ba94a3db83b3/wampum_beads_pic_2_2025.jpeg" length="" type="" />
-    </item>    <item>
-      <title>ChatGPT wants teens to agree to let their parents spy on them</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/chatgpt_parental_controls/</link>
-      <description>
-        <![CDATA[<h4>Good luck with that!</h4> <p>OpenAI says it is introducing parental controls to ChatGPT that will help improve the safety of teenagers using its AI chatbot. The only catch? Teens will have to allow their parents to connect to their accounts before the controls can take effect.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Good luck with that!
-
-OpenAI says it is introducing parental controls to ChatGPT that will help improve the safety of teenagers using its AI chatbot. The only catch? Teens will have to allow their parents to connect to their accounts before the controls can take effect.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242195</guid>
-    </item>    <item>
-      <title>This Frida Kahlo Self-Portrait Could Become the Most Expensive Work by a Female Artist Ever Sold at Auction</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-frida-kahlo-portrait-could-become-the-most-expensive-work-by-a-female-artist-ever-sold-at-auction-180987396/</link>
-      <description>
-        <![CDATA["The Dream (The Bed)" will go under the hammer at Sotheby's in November. Experts say it could fetch between $40 million and $60 million]]>
-      </description>
-      <source:markdown>&#34;The Dream (The Bed)&#34; will go under the hammer at Sotheby&#39;s in November. Experts say it could fetch between $40 million and $60 million</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/V4TRjx9ZlTJsH3GIf_jeaZxE6-E=/420x240/filters:focal(640x488:641x489)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/37/a1/37a12790-3eee-4dbe-a648-2a4344336aef/frida_kahlo_el_sueno_la_cama_est_40000000_-_60000000_2.jpeg" length="" type="" />
-    </item>    <item>
-      <title>Hubble Surveys Cloudy Cluster</title>
-      <link>https://www.nasa.gov/image-article/hubble-surveys-cloudy-cluster/</link>
-      <description>
-        <![CDATA[This NASA/ESA&#160;Hubble Space Telescope&#160;image released on Sept. 12, 2025, features a cloudy starscape from an impressive star cluster. This scene is in the Large Magellanic Cloud, a dwarf galaxy situated about 160,000 light-years away in the constellations Dorado and Mensa. With a mass equal to 10–20% of the mass of the Milky Way, the Large [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=919702</guid>
-    </item>    <item>
-      <title>How the Brain Balances Excitation and Inhibition</title>
-      <link>https://www.quantamagazine.org/how-the-brain-balances-excitation-and-inhibition-20250929/</link>
-      <description>
-        <![CDATA[A healthy brain maintains a harmony of neurons that excite or inhibit other neurons, but the lines between different types of cells are blurrier than researchers once thought.             <p>The post <a href="https://www.quantamagazine.org/how-the-brain-balances-excitation-and-inhibition-20250929/" target="_blank">How the Brain Balances Excitation and Inhibition</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>A healthy brain maintains a harmony of neurons that excite or inhibit other neurons, but the lines between different types of cells are blurrier than researchers once thought.
-
-The post [How the Brain Balances Excitation and Inhibition](https://www.quantamagazine.org/how-the-brain-balances-excitation-and-inhibition-20250929/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=155324</guid>
-    </item>    <item>
-      <title>Astronaut Candidates Get to Work at Johnson Space Center</title>
-      <link>https://www.nasa.gov/centers-and-facilities/johnson/astronaut-candidates-get-to-work-at-johnson-space-center/</link>
-      <description>
-        <![CDATA[NASA announced its newest class of astronaut candidates on Sept. 22, 2025, at the agency’s Johnson Space Center in Houston. After the welcome ceremony, the 10 highly qualified individuals rolled up their sleeves and prepared for the next step in their journey to the stars: nearly two years of training to become flight-eligible for missions [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.nasa.gov/?p=919998</guid>
-    </item>    <item>
-      <title>UK may already be at war with Russia, ex-MI5 head suggests</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/uk_russia_cyber_war/</link>
-      <description>
-        <![CDATA[<h4>Baroness Manningham-Buller cites Kremlin sabotage, cyberattacks, and assassinations as signs of an undeclared conflict</h4> <p>The former head of MI5 says hostile cyberattacks and intelligence operations directed by The Kremlin indicate the UK might already be at war with Russia.…</p>]]>
-      </description>
-      <source:markdown>#### Baroness Manningham-Buller cites Kremlin sabotage, cyberattacks, and assassinations as signs of an undeclared conflict
-
-The former head of MI5 says hostile cyberattacks and intelligence operations directed by The Kremlin indicate the UK might already be at war with Russia.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242190</guid>
-    </item>    <item>
-      <title>Unite: a decades-old QNX-inspired hobby operating system</title>
-      <link>https://www.osnews.com/story/143445/unite-a-decades-old-qnx-inspired-hobby-operating-system/</link>
-      <description>
-        <![CDATA[Unite is an operating system in which&#160;everything&#160;is a process, including the things that you normally would expect to be part of the kernel. The hard disk driver is a user process, so is the file system running on top of it. The namespace manager is a user process. The whole thing (in theory, see below) supports network transparency from the ground up, you can use resources of other nodes in the network just as easily as you can use local resources, just prefix them with the node ID. In the late 80’s, early 90’s I had a lot of time on my hands. While living in the Netherlands I’d run into the QNX operating system that was sold locally through a distributor. The distributors brother had need of a 386 version of that OS but Quantum Software, the producers of QNX didn’t want to release a 386 version. So I decided to write my own. ↫ Jacques Mattheij What a great story. Mattheij hasn&#8217;t done anthing or even looked at the code for this operating system he created in decades, but recently got the urge to fix it up and publish it online for all of us to see. Of course, resurrecting something this old and long untouched required some magic, and there&#8217;s still a few things which he simply just can&#8217;t get to work properly. I like how the included copy of vi is broken and adds random bits of garbage to files, and things like the mouse driver don&#8217;t work because it requires a COM port and the COM ports don&#8217;t seem to work in an emulated environment. Unite is modeled after QNX, so it uses a microkernel. It uses a stripped-down variant of the MINIX file system, only has one user but that user can run multiple sessions, and there&#8217;s a basic graphics mode with some goodies. Sadly, the graphics mode is problematic an requires some work to get going, and because you&#8217;ll need the COM ports to work to use it properly it&#8217;s a bit useless anyway at the moment. Regardless, it&#8217;s cool to see people going back to their old work and fixing it up to publish the code online.]]>
-      </description>
-      <source:markdown>Unite is an operating system in which everything is a process, including the things that you normally would expect to be part of the kernel. The hard disk driver is a user process, so is the file system running on top of it. The namespace manager is a user process. The whole thing (in theory, see below) supports network transparency from the ground up, you can use resources of other nodes in the network just as easily as you can use local resources, just prefix them with the node ID. In the late 80’s, early 90’s I had a lot of time on my hands. While living in the Netherlands I’d run into the QNX operating system that was sold locally through a distributor. The distributors brother had need of a 386 version of that OS but Quantum Software, the producers of QNX didn’t want to release a 386 version. So I decided to write my own. ↫ Jacques Mattheij What a great story. Mattheij hasn’t done anthing or even looked at the code for this operating system he created in decades, but recently got the urge to fix it up and publish it online for all of us to see. Of course, resurrecting something this old and long untouched required some magic, and there’s still a few things which he simply just can’t get to work properly. I like how the included copy of vi is broken and adds random bits of garbage to files, and things like the mouse driver don’t work because it requires a COM port and the COM ports don’t seem to work in an emulated environment. Unite is modeled after QNX, so it uses a microkernel. It uses a stripped-down variant of the MINIX file system, only has one user but that user can run multiple sessions, and there’s a basic graphics mode with some goodies. Sadly, the graphics mode is problematic an requires some work to get going, and because you’ll need the COM ports to work to use it properly it’s a bit useless anyway at the moment. Regardless, it’s cool to see people going back to their old work and fixing it up to publish the code online.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=143445</guid>
-    </item>    <item>
-      <title>Fork yeah: Valkey 9 sharpens edge against Redis</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/valkey_9/</link>
-      <description>
-        <![CDATA[<h4>Open source database adds multi-tenant clustering, safer shutdowns, and eyes life beyond caching</h4> <p>Open source key-value database Valkey is set for its ninth iteration next month, promising improved resource optimization and availability.…</p>]]>
-      </description>
-      <source:markdown>#### Open source database adds multi-tenant clustering, safer shutdowns, and eyes life beyond caching
-
-Open source key-value database Valkey is set for its ninth iteration next month, promising improved resource optimization and availability.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242180</guid>
-    </item>    <item>
-      <title>Why was Windows 3.0’s WinHelp called an online help system when it ran offline?</title>
-      <link>https://www.osnews.com/story/143443/why-was-windows-3-0s-winhelp-called-an-online-help-system-when-it-ran-offline/</link>
-      <description>
-        <![CDATA[Some time ago, I described Windows 3.0’s WinHelp as “a program for browsing online help files.” But Windows 3.0 predated the Internet, and these help files were available even if the computer was not connected to any other network. How can it be “online”? ↫ Raymond Chen at The Old New Thing I doubt this will be a conceptual problem for many people reading OSNews, but I can definitely understand especially younger people finding this a curious way of looking at the word &#8220;online&#8221;. You&#8217;ll see the concept of &#8220;online help&#8221; in quite a few systems from the &#8217;90s (and possibly earlier), so if you&#8217;re into retrocomputing you might&#8217;ve run into it as well.]]>
-      </description>
-      <source:markdown>Some time ago, I described Windows 3.0’s WinHelp as “a program for browsing online help files.” But Windows 3.0 predated the Internet, and these help files were available even if the computer was not connected to any other network. How can it be “online”? ↫ Raymond Chen at The Old New Thing I doubt this will be a conceptual problem for many people reading OSNews, but I can definitely understand especially younger people finding this a curious way of looking at the word “online”. You’ll see the concept of “online help” in quite a few systems from the ’90s (and possibly earlier), so if you’re into retrocomputing you might’ve run into it as well.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=143443</guid>
-    </item>    <item>
-      <title>NASA’s Webb Telescope Studies Moon-Forming Disk Around Massive Planet</title>
-      <link>https://science.nasa.gov/missions/webb/nasas-webb-telescope-studies-moon-forming-disk-around-massive-planet/</link>
-      <description>
-        <![CDATA[NASA’s James Webb Space Telescope has provided the first direct measurements of the chemical and physical properties of a potential moon-forming disk encircling a large exoplanet. The carbon-rich disk surrounding the world called CT Cha b, which is located 625 light-years away from Earth, is a possible construction yard for moons, although no moons are […]]]>
-      </description>
-      <guid>cid://https://science.nasa.gov/missions/webb/nasas-webb-telescope-studies-moon-forming-disk-around-massive-planet/</guid>
-    </item>    <item>
-      <title>Russia-backed Indian oil company loses bid to force SAP support as sanctions bite</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/nayara_sap_sanctions/</link>
-      <description>
-        <![CDATA[<h4>Delhi High Court denies urgent relief after vendor halts services citing EU rules</h4> <p>An Indian court has refused urgent relief to an SAP customer after the vendor withheld support due to EU sanctions introduced in the summer.…</p>]]>
-      </description>
-      <source:markdown>#### Delhi High Court denies urgent relief after vendor halts services citing EU rules
-
-An Indian court has refused urgent relief to an SAP customer after the vendor withheld support due to EU sanctions introduced in the summer.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242188</guid>
-    </item>    <item>
-      <title>Google&#39;s dev registration plan &#39;will end the F-Droid project&#39;</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/googles_dev_registration_plan_will/</link>
-      <description>
-        <![CDATA[<h4>Open source Android app store cannot exist if Google&#39;s plans go ahead, says F-Droid board member</h4> <p>The F-Droid project, which distributes open source apps for Android, will end if Google goes ahead with its plans to enforce developer registration for app installation, according to the project&#39;s board member Marc Prud&#39;hommeaux.…</p>]]>
-      </description>
-      <source:markdown>#### Open source Android app store cannot exist if Google&#39;s plans go ahead, says F-Droid board member
-
-The F-Droid project, which distributes open source apps for Android, will end if Google goes ahead with its plans to enforce developer registration for app installation, according to the project&#39;s board member Marc Prud&#39;hommeaux.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242186</guid>
-    </item>    <item>
-      <title>EU member states pile pressure on Brussels for Chips Act rethink</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/eu_chips_act_rethink/</link>
-      <description>
-        <![CDATA[<h4>Semicon Coalition presses European Commission for stronger funding, strategy, and skills drive</h4> <p>Momentum is gathering behind calls for a Chips Act 2.0 to strengthen Europe&#39;s competitiveness in the semiconductor sector amid growing geopolitical uncertainty over global markets and supply chains.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Semicon Coalition presses European Commission for stronger funding, strategy, and skills drive
-
-Momentum is gathering behind calls for a Chips Act 2.0 to strengthen Europe&#39;s competitiveness in the semiconductor sector amid growing geopolitical uncertainty over global markets and supply chains.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242187</guid>
-    </item>    <item>
-      <title>Windows 95 was too fat to install itself so needed help from the slimmer 3.1</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/chen_windows_95_install/</link>
-      <description>
-        <![CDATA[<h4>30 years on, Microsoft engineer explains why the old OS had to babysit its flashy successor</h4> <p>Veteran Microsoft engineer Raymond Chen has answered the question of why Microsoft insisted on running up a miniature Windows 3.1 rather than a diminutive Windows 95 to install the full-fat version of the latter.…</p>]]>
-      </description>
-      <source:markdown>#### 30 years on, Microsoft engineer explains why the old OS had to babysit its flashy successor
-
-Veteran Microsoft engineer Raymond Chen has answered the question of why Microsoft insisted on running up a miniature Windows 3.1 rather than a diminutive Windows 95 to install the full-fat version of the latter.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242182</guid>
-    </item>    <item>
-      <title>Engineers successfully reboost International Space Station after early Dragon abort</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/international_space_station_successfully_reboosted/</link>
-      <description>
-        <![CDATA[<h4>If at first you don&#39;t succeed, you might be SpaceX</h4> <p>NASA and SpaceX have successfully raised the orbit of the International Space Station (ISS) with a 15-minute burn of the Draco thrusters located in the trunk of the Dragon freighter.…</p>]]>
-      </description>
-      <source:markdown>#### If at first you don&#39;t succeed, you might be SpaceX
-
-NASA and SpaceX have successfully raised the orbit of the International Space Station (ISS) with a 15-minute burn of the Draco thrusters located in the trunk of the Dragon freighter.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242185</guid>
-    </item>    <item>
-      <title>Scientists Studied the Genes of a Woman Who Lived 117 Years. Here&#39;s What They Learned</title>
-      <link>https://www.smithsonianmag.com/smart-news/scientists-studied-the-genes-of-a-woman-who-lived-117-years-heres-what-they-learned-180987412/</link>
-      <description>
-        <![CDATA[Maria Branyas Morera, formerly the world’s oldest person, allowed researchers to take a detailed look at her biology before she died last year]]>
-      </description>
-      <source:markdown>Maria Branyas Morera, formerly the world’s oldest person, allowed researchers to take a detailed look at her biology before she died last year</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/QmV4hLW7PDx41reddPpa1moNOoo=/420x240/filters:focal(906x681:907x682)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c1/b2/c1b23ee2-ce3a-4c4f-adb1-c2b204730821/maria_branyas_morera_117e_aniversari.jpg" length="" type="" />
-    </item>    <item>
-      <title>Legacy Update updated – so your old Windows can be, too</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/legacy_updated_updated/</link>
-      <description>
-        <![CDATA[<h4>Need – or prefer – an EOL version of Windows? Don&#39;t panic!</h4> <p>Legacy Update is a third-party Windows Update client which can update old, unsupported versions of Windows, from Windows 10 and 11 all the way back to Windows 2000.…</p>]]>
-      </description>
-      <source:markdown>#### Need – or prefer – an EOL version of Windows? Don&#39;t panic!
-
-Legacy Update is a third-party Windows Update client which can update old, unsupported versions of Windows, from Windows 10 and 11 all the way back to Windows 2000.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242164</guid>
-    </item>    <item>
-      <title>UK minister suggests government could ditch &#39;dangerous&#39; Elon Musk&#39;s X</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/uk_government_x_twiter/</link>
-      <description>
-        <![CDATA[<h4>Ed Miliband takes aim at social media overlord for promoting violence and disinformation</h4> <p>The UK government should consider the possibility of leaving social media platform X, a high-profile minister has suggested.…</p>]]>
-      </description>
-      <source:markdown>#### Ed Miliband takes aim at social media overlord for promoting violence and disinformation
-
-The UK government should consider the possibility of leaving social media platform X, a high-profile minister has suggested.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242184</guid>
-    </item>    <item>
-      <title>Harrods blames its supplier after crims steal 430k customers’ data in fresh attack</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/harrods_blames_thirdparty_supplier_after/</link>
-      <description>
-        <![CDATA[<h4>Attackers make contact but negotiations fall on deaf ears</h4> <p>Luxury London-based retailer Harrods is facing its second cybersecurity scandal in 2025, confirming criminals not only stole 430,000 customers&#39; data in a fresh attack but have even made contact.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Attackers make contact but negotiations fall on deaf ears
-
-Luxury London-based retailer Harrods is facing its second cybersecurity scandal in 2025, confirming criminals not only stole 430,000 customers&#39; data in a fresh attack but have even made contact.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242183</guid>
-    </item>    <item>
-      <title>OpenNvidia could become the AI generation&#39;s WinTel</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/nvidia_openai_alliance_opinion_column/</link>
-      <description>
-        <![CDATA[<h4>Duo could dominate in the same way Microsoft and Intel ruled PCs for decades</h4> <p><strong>Opinion</strong>  The OpenAI and Nvidia $100 billion partnership sure sounds impressive. $100 billion isn&#39;t chicken feed, even as more and more tech companies cross the trillion-dollar mark. But what does it really mean?…</p>]]>
-      </description>
-      <source:markdown>#### Duo could dominate in the same way Microsoft and Intel ruled PCs for decades
-
-**Opinion**  The OpenAI and Nvidia $100 billion partnership sure sounds impressive. $100 billion isn&#39;t chicken feed, even as more and more tech companies cross the trillion-dollar mark. But what does it really mean?…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242129</guid>
-    </item>    <item>
-      <title>Jaguar Land Rover gets £1.5B government jump-start after cyber breakdown</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/jlr_government_loan/</link>
-      <description>
-        <![CDATA[<h4>Hundreds of thousands of workers in financial despair supported with landmark loan</h4> <p>The UK government is stepping in with financial support for Jaguar Land Rover, providing it with a hefty loan as it continues to battle the fallout from a cyberattack.…</p>]]>
-      </description>
-      <source:markdown>#### Hundreds of thousands of workers in financial despair supported with landmark loan
-
-The UK government is stepping in with financial support for Jaguar Land Rover, providing it with a hefty loan as it continues to battle the fallout from a cyberattack.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242181</guid>
-    </item>    <item>
-      <title>Digital ID, same place, different time: In this timeline, the result might surprise us</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/digital_id_opinion_column/</link>
-      <description>
-        <![CDATA[<h4>Socio political backdrop is not what it once was....</h4> <p><strong>Opinion</strong>  UK Prime Minister Keir Starmer directly addressed his new policy of mandatory digital ID in the country for 23 seconds in its effective launch speech.…</p>]]>
-      </description>
-      <source:markdown>#### Socio political backdrop is not what it once was....
-
-**Opinion**  UK Prime Minister Keir Starmer directly addressed his new policy of mandatory digital ID in the country for 23 seconds in its effective launch speech.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242163</guid>
-    </item>    <item>
-      <title>To digital natives, Microsoft&#39;s IT stack makes Google&#39;s look like a model of sanity</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/dont_even_consider_microsoft/</link>
-      <description>
-        <![CDATA[<h4>A millennial does battle with Redmond&#39;s enterprise tools and comes away reeling </h4> <p><strong>Comment</strong>  Probably the single most common argument against switching to Linux is the absolute non-negotiable requirement of many organizations to have Microsoft Exchange. Here&#39;s a fascinating glimpse of the view from the other side.…</p>]]>
-      </description>
-      <source:markdown>#### A millennial does battle with Redmond&#39;s enterprise tools and comes away reeling
-
-**Comment**  Probably the single most common argument against switching to Linux is the absolute non-negotiable requirement of many organizations to have Microsoft Exchange. Here&#39;s a fascinating glimpse of the view from the other side.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242153</guid>
-    </item>    <item>
-      <title>Submarine cable security is all at sea, and UK govt &#39;too timid&#39; to act, says report</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/submarine_cable_security_report_uk/</link>
-      <description>
-        <![CDATA[<h4>Guess how much of our direct transatlantic data capacity runs through two cables in Bude?</h4> <p><strong>Feature</strong>  The first transatlantic cable, laid in 1858, delivered a little over 700 messages before promptly dying a few weeks later. 167 years on, the undersea cables connecting the UK to the outside world process £220 billion in daily financial transactions. Now, the UK Parliament&#39;s Joint Committee on National Security Strategy (JCNSS) has told the government that it has to do a better job of protecting them.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242135</guid>
-    </item>    <item>
-      <title>When AI is trained for treachery, it becomes the perfect agent</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/when_ai_is_trained_for/</link>
-      <description>
-        <![CDATA[<h4>We’re blind to malicious AI until it hits. We can still open our eyes to stopping it</h4> <p><strong>Opinion</strong>  Last year, <em>The Register</em> reported on AI sleeper agents. A major academic study explored how to train an LLM to hide destructive behavior from its users, and how to find it before it triggered. The answers were unambiguously asymmetric — the first is easy, the second very difficult. Not what anyone wanted to hear.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242134</guid>
-    </item>    <item>
-      <title>🌱 Public AI is here</title>
-      <link>https://publicai.substack.com/p/public-ai-is-here</link>
-      <description>
-        <![CDATA[Introducing Apertus & the Public AI Inference Utility]]>
-      </description>
-      <source:markdown>Introducing Apertus &#38; the Public AI Inference Utility</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!5tE2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b63b338-35e9-4d28-a331-776967ccfa64_960x1280.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://publicai.substack.com/p/public-ai-is-here</guid>
-    </item>    <item>
-      <title>Why Do Some Hurricane Survivors Thrive After Disaster?</title>
-      <link>https://www.npr.org/2025/09/29/nx-s1-5535581/new-orleans-survivors-mental-health-ptsd-hurricane-katrina-resiliency</link>
-      <description>
-        <![CDATA[You’ve probably heard of PTSD, post-traumatic stress disorder. But what about its counterpart, post-traumatic growth?<br>The term was coined in the 90s to describe the positive psychological growth that researchers documented in people who had been through traumatic or highly stressful life events. Psychologists and sociologists conducting long-range studies on survivors of Hurricane Katrina – which hit 20 years ago and remains one of the most devastating natural disasters to hit the US – are continuing to learn more about it. <br/><br/>So how do you measure post-traumatic growth? Can it co-exist with PTSD? NPR mental health correspondent <a href="https://www.npr.org/people/578890280/rhitu-chatterjee"target="_blank"   >Rhitu Chatterjee</a> explains what scientists have found so far … and how it could help shape disaster relief efforts in the future.<br/><br/><em>Interested in more psychology and social science stories? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>You’ve probably heard of PTSD, post-traumatic stress disorder. But what about its counterpart, post-traumatic growth?
-
-The term was coined in the 90s to describe the positive psychological growth that researchers documented in people who had been through traumatic or highly stressful life events. Psychologists and sociologists conducting long-range studies on survivors of Hurricane Katrina – which hit 20 years ago and remains one of the most devastating natural disasters to hit the US – are continuing to learn more about it.
-
-So how do you measure post-traumatic growth? Can it co-exist with PTSD? NPR mental health correspondent [Rhitu Chatterjee](https://www.npr.org/people/578890280/rhitu-chatterjee) explains what scientists have found so far … and how it could help shape disaster relief efforts in the future.
-
-_Interested in more psychology and social science stories? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR7062870261.mp3?t=podcast&e=nx-s1-5535581&p=510351&d=798&size=12769116" length="12769116" type="audio/mpeg" />
-      <guid>cid://e29a52ae-0216-45e4-82bb-217c7198b5c8</guid>
-    </item>    <item>
-      <title>Intern had no idea what not to do, so nearly mangled a mainframe</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/who_me/</link>
-      <description>
-        <![CDATA[<h4>An early career lesson in the power of documentation, and the importance of exploration</h4> <p><strong>Who, Me?</strong>  <i>The Register</i> has very few rules, but one we always observe on a Monday morning is to present a new installment of Who, Me? – the reader-contributed column in which you share stories of breaking the rules, without breaking your career in the process.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242088</guid>
-    </item>    <item>
-      <title>NASA administrator says US should have ‘village’ on Moon in a decade</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/nasa_moon_prediction_iac_2025/</link>
-      <description>
-        <![CDATA[<h4><i>The Register</i> is at the world’s biggest space gabfest and just heard the world&#39;s top 6 space agency leaders speak</h4> <p><strong>IAC 2025</strong>  If the USA’s space strategy succeeds, it will run a “village” on the moon in a decade, NASA administrator Sean Duffy told the International Aeronautical Congress (IAC) in Sydney today.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242179</guid>
-    </item>    <item>
-      <title>Trump demands Microsoft fire its head of global affairs</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/trump_wants_microsoft_exec_fired/</link>
-      <description>
-        <![CDATA[<h4>Alleges bias and security problems</h4> <p>US President Donald Trump has demanded Microsoft fire its recently appointed head of global affairs Lisa Monaco.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242177</guid>
-    </item>    <item>
-      <title>Dutch teen duo arrested over alleged &#39;Wi-Fi sniffing&#39; for Russia</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/29/infosec_in_brief/</link>
-      <description>
-        <![CDATA[<h4>PLUS: Interpol recoups $439M from crims; CISA criticizes Feds security; FIFA World Cup nets dodgy domain deluge</h4> <p><strong>Infosec In Brief</strong>  Police in the Netherlands arrested two 17-year-olds last week over claims that Russian intelligence recruited them to spy on the headquarters of European law enforcement agencies.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story242173</guid>
     </item>
   </channel>
 </rss>

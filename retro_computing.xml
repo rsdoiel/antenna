@@ -4,10 +4,34 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>20 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>21 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>KIM KIM-1 which is what?</title>
+      <link>http://retro.hansotten.nl/kim-tim-kim-1-which-is-what/</link>
+      <description>
+        <![CDATA[MOS Technology started development of the 6530 RRIOT very early after/during the 6501/2 development. All in 1975. The first version of the Hardware Manual has this mention of KIM and TIM: The KIM and TIM were mentioned as Keyboard and Teletype Input Monitor, indicating these are the 6530-002 and 6530-004 RRIOT IC&#8217;s. Indeed these ICs [&#8230;]]]>
+      </description>
+      <source:markdown>MOS Technology started development of the 6530 RRIOT very early after/during the 6501/2 development. All in 1975. The first version of the Hardware Manual has this mention of KIM and TIM: The KIM and TIM were mentioned as Keyboard and Teletype Input Monitor, indicating these are the 6530-002 and 6530-004 RRIOT IC’s. Indeed these ICs \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=19125</guid>
+    </item>    <item>
+      <title>October 2025 Rougol report - RISCOSbits show plans</title>
+      <link>http://www.iconbar.com/comments/rss/news2247.html</link>
+      <description>
+        <![CDATA[The October 2025 talk featured RISCOSbits supremo Andy Marks giving us a bit of a preview of their stall for Saturday's Show.]]>
+      </description>
+      <source:markdown>The October 2025 talk featured RISCOSbits supremo Andy Marks giving us a bit of a preview of their stall for Saturday&#39;s Show.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2247.html</guid>
+    </item>    <item>
+      <title>RISCOSbits’ London treasure trove</title>
+      <link>https://www.riscository.com/2025/riscosbits-london-treasure-trove/</link>
+      <description>
+        <![CDATA[It&#8217;s now only a few more days until this year&#8217;s RISC OS London Show, which will take place on Saturday, 25th October, at the Harrow District Masonic Centre &#8211; and last night was the latest RISC OS User Group of London (ROUGOL) meeting, at which RISCOSbits gave us a teaser of what to expect from them at the show. So here&#8217;s a more detailed run down directly from the horse&#8217;s mouth RISCOSbits keyboard: We are pleased to announce that RISCOSbits will be exhibiting at the RISC OS London Show on&#8230;]]>
+      </description>
+      <source:markdown>It’s now only a few more days until this year’s RISC OS London Show, which will take place on Saturday, 25th October, at the Harrow District Masonic Centre – and last night was the latest RISC OS User Group of London (ROUGOL) meeting, at which RISCOSbits gave us a teaser of what to expect from them at the show. So here’s a more detailed run down directly from the horse’s mouth RISCOSbits keyboard: We are pleased to announce that RISCOSbits will be exhibiting at the RISC OS London Show on…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10744</guid>
+    </item>    <item>
       <title>Fireworkz Pro 2 version 2.33.00 released</title>
       <link>http://www.iconbar.com/comments/rss/news2245.html</link>
       <description>
@@ -89,7 +113,7 @@
       <source:markdown>This article tells part of the story of Looking Glass Studios. Coming out of 1998, the folks at Looking Glass Studios believed they had pretty good reason to feel optimistic about their future. With Thief, they had delivered not just their first profitable original game since 1995’s Flight Unlimited but their biggest single commercial success \[…\]</source:markdown>
       <guid>cid://https://www.filfre.net/?p=6515</guid>
     </item>    <item>
-      <title>2kSA Symbolic Assembler for the KIM-1</title>
+      <title>2K Symbolic Assembler for the KIM-1</title>
       <link>http://retro.hansotten.nl/2ksa-symbolic-assembler-for-the-kim-1/</link>
       <description>
         <![CDATA[The 2K Symbolic Assembler, by Robert Ford Denison. An assembler and editor in 2K! This small program allows to assemble a program up to 1K on a KIM-1 system with only 4K, including 2K for the assembler. One can enter program in the built-in line editor and assemble to memory. Published as a small book [&#8230;]]]>
@@ -2043,14 +2067,6 @@ Although at least one [client re-creation](https://github.com/erfg12/AOL_4.0_Emu
       <source:markdown>Linus Torvalds has announced that the latest kernel has been released with plenty of core improvements and even more hardware support.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://63d00452a5ec3a0431c3a90b3a9a5dc9</guid>
-    </item>    <item>
-      <title>WROCC October 2025 talk on Wednesday - R-Comp</title>
-      <link>http://www.iconbar.com/comments/rss/news2232.html</link>
-      <description>
-        <![CDATA[The October 2025 WROCC talk is on Wednesday 1st October and starts at at 7.45pm on Zoom.]]>
-      </description>
-      <source:markdown>The October 2025 WROCC talk is on Wednesday 1st October and starts at at 7.45pm on Zoom.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2232.html</guid>
     </item>
   </channel>
 </rss>
