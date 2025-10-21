@@ -4,10 +4,58 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>21 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>21 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Analysis and reaction to final TV debate</title>
+      <link>https://www.rte.ie/news/2025/1021/1539840-podcast-behind-the-story/</link>
+      <description>
+        <![CDATA[Watch a special live Behind the Story podcast. The bonus episode, hosted by David McCullagh, Katie Hannon and Fran McNulty, will offer in-depth analysis and reaction to the night's key moments.]]>
+      </description>
+      <source:markdown>Watch a special live Behind the Story podcast. The bonus episode, hosted by David McCullagh, Katie Hannon and Fran McNulty, will offer in-depth analysis and reaction to the night&#39;s key moments.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1021/1539840-podcast-behind-the-story/</guid>
+    </item>    <item>
+      <title>Report recommends cancelling events under Orange warnings</title>
+      <link>https://www.rte.ie/news/2025/1021/1539852-storm-eowyn/</link>
+      <description>
+        <![CDATA[Public events should be cancelled in areas under orange wind warnings, according to a review published after Storm Éowyn.]]>
+      </description>
+      <source:markdown>Public events should be cancelled in areas under orange wind warnings, according to a review published after Storm Éowyn.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1021/1539852-storm-eowyn/</guid>
+    </item>    <item>
+      <title>Gardaí clear protesters outside Citywest IPAS centre</title>
+      <link>https://www.rte.ie/news/dublin/2025/1021/1539848-citywest-protest/</link>
+      <description>
+        <![CDATA[Gardaí have begun clearing protesters from in front of the entrance of the IPAS centre at Citywest in Dublin.]]>
+      </description>
+      <source:markdown>Gardaí have begun clearing protesters from in front of the entrance of the IPAS centre at Citywest in Dublin.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/dublin/2025/1021/1539848-citywest-protest/</guid>
+    </item>    <item>
+      <title>Five-time All-Ireland winning captain Hannon retires</title>
+      <link>https://www.rte.ie/sport/hurling/2025/1021/1539846-decorated-all-ireland-winning-captain-hannon-retires/</link>
+      <description>
+        <![CDATA[Limerick's five-time All-Ireland winning captain Declan Hannon has retired from inter-county hurling.]]>
+      </description>
+      <source:markdown>Limerick&#39;s five-time All-Ireland winning captain Declan Hannon has retired from inter-county hurling.</source:markdown>
+      <guid>cid://https://www.rte.ie/sport/hurling/2025/1021/1539846-decorated-all-ireland-winning-captain-hannon-retires/</guid>
+    </item>    <item>
+      <title>More doctors needed ahead of new IP Bill, committee hears</title>
+      <link>https://www.rte.ie/news/ireland/2025/1021/1539837-asylum-seekers/</link>
+      <description>
+        <![CDATA[Ireland will need to begin training doctors now, to fulfill what is proposed in the General Scheme of the International Protection Bill 2025, according to the medical charity Safetynet.]]>
+      </description>
+      <source:markdown>Ireland will need to begin training doctors now, to fulfill what is proposed in the General Scheme of the International Protection Bill 2025, according to the medical charity Safetynet.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/1021/1539837-asylum-seekers/</guid>
+    </item>    <item>
+      <title>Towns, villages &#39;blighted by dereliction&#39;, Committee told</title>
+      <link>https://www.rte.ie/news/politics/2025/1021/1539831-dereliction-committee/</link>
+      <description>
+        <![CDATA[Cities, towns and villages around the country are "blighted by dereliction", a Committee on Housing has heard.]]>
+      </description>
+      <source:markdown>Cities, towns and villages around the country are &#34;blighted by dereliction&#34;, a Committee on Housing has heard.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/politics/2025/1021/1539831-dereliction-committee/</guid>
+    </item>    <item>
       <title>67% of adults &#39;unconcerned&#39; seeing harmful media content</title>
       <link>https://www.rte.ie/news/ireland/2025/1021/1539824-audience-attitudes/</link>
       <description>
@@ -15,6 +63,16 @@
       </description>
       <source:markdown>Audience attitudes to harmful and offensive media content are changing according to new research from Coimisiún na Meán, IFCO and the Ombudsman for Children&#39;s Office published today.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1021/1539824-audience-attitudes/</guid>
+    </item>    <item>
+      <title>Child fell off Disney cruise ship after mom told her to pose for photo on railing, police say</title>
+      <link>https://www.cbc.ca/news/world/disney-cruise-girl-overboard-9.6947353?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/7d05b7ca-50a0-44a5-b28a-f79593922435,1761073463059/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C193%2C4944%2C2781%29%3BResize%3D%28620%29' alt='A cruise ship' width='620' height='349' title='Disney Dream, a Disney Cruise Lines&apos; ship, sails to the Bahamas from Port Canaveral in Florida on Aug. 9, 2021. '/><p>A five-year-old girl who fell overboard from a Disney Dream cruise ship in June had been posing for a photo at the request of her mother, according to Florida authorities in reports obtained by CBC News. The girl and her father, who jumped in after her, were both rescued. </p>]]>
+      </description>
+      <source:markdown>![A cruise ship](https://i.cbc.ca/ais/7d05b7ca-50a0-44a5-b28a-f79593922435,1761073463059/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C193%2C4944%2C2781%29%3BResize%3D%28620%29)
+
+A five-year-old girl who fell overboard from a Disney Dream cruise ship in June had been posing for a photo at the request of her mother, according to Florida authorities in reports obtained by CBC News. The girl and her father, who jumped in after her, were both rescued.</source:markdown>
+      <guid>cid://9.6947353</guid>
     </item>    <item>
       <title>Warning of funeral delays as morgue services cut</title>
       <link>https://www.rte.ie/news/ireland/2025/1021/1539818-post-mortems-ireland/</link>
@@ -32,12 +90,12 @@
       <source:markdown>Legendary guitars, iconic glasses, and handwritten lyrics from some of the biggest names in music are going under the hammer at a London auction this week.</source:markdown>
       <guid>cid://https://www.rte.ie/entertainment/2025/1021/1539804-oasis-split-guitar-among-items-worth-l3m-at-uk-auction/</guid>
     </item>    <item>
-      <title>Renewed clashes over Connolly record ahead of debate</title>
+      <title>Candidates quizzed on immigration, foreign affairs</title>
       <link>https://www.rte.ie/news/2025/1021/1539787-presidential-election/</link>
       <description>
-        <![CDATA[Follow live updates as the candidates in the Presidential Election prepare to take part in the final debate of the campaign.]]>
+        <![CDATA[Follow updates after the final Presidential debate, where the candidates were quizzed on immigration, foreign affairs and the Irish language.]]>
       </description>
-      <source:markdown>Follow live updates as the candidates in the Presidential Election prepare to take part in the final debate of the campaign.</source:markdown>
+      <source:markdown>Follow updates after the final Presidential debate, where the candidates were quizzed on immigration, foreign affairs and the Irish language.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1021/1539787-presidential-election/</guid>
     </item>    <item>
       <title>Minister asks Tusla to investigate sexual assault case</title>
@@ -64,6 +122,16 @@
       <source:markdown>A 48-year-old man has pleaded guilty at Doire an Fhéich District Court in Conamara, Co Galway, to making an online threat to kill or cause serious harm to Tánaiste Simon Harris and his family in August of last year.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1021/1539800-patrick-grealish-court/</guid>
     </item>    <item>
+      <title>Trump-pardoned U.S. Capitol rioter charged with threatening to kill Democrat Hakeem Jeffries</title>
+      <link>https://www.cbc.ca/news/world/jan-6-rioter-pardoned-charged-death-threat-9.6947323?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/f0c79a1c-533b-407c-8477-032c6d250a3b,1761072613765/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C241%2C4622%2C2599%29%3BResize%3D%28620%29' alt='A large group of people waving flags in front of the U.S. Capitol' width='620' height='349' title='FILE - Insurrections loyal to President Donald Trump at the U.S. Capitol in Washington on Jan. 6, 2021. All eyes are on the Supreme Court in Donald Trump&apos;s federal 2020 election interference case. The conservative-majority Supreme Court&apos;s next moves could determine whether the former president stands trial in Washington ahead of the November election.'/><p>A man whose convictions for storming the U.S. Capitol were erased by President Donald Trump's mass pardons has been arrested on a charge that he threatened to kill Democratic House Minority Leader Hakeem Jeffries.</p>]]>
+      </description>
+      <source:markdown>![A large group of people waving flags in front of the U.S. Capitol](https://i.cbc.ca/ais/f0c79a1c-533b-407c-8477-032c6d250a3b,1761072613765/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C241%2C4622%2C2599%29%3BResize%3D%28620%29)
+
+A man whose convictions for storming the U.S. Capitol were erased by President Donald Trump&#39;s mass pardons has been arrested on a charge that he threatened to kill Democratic House Minority Leader Hakeem Jeffries.</source:markdown>
+      <guid>cid://9.6947323</guid>
+    </item>    <item>
       <title>Man jailed for 18 years for raping daughter and assault</title>
       <link>https://www.rte.ie/news/2025/1021/1539791-man-daughter-jail/</link>
       <description>
@@ -71,6 +139,16 @@
       </description>
       <source:markdown>A man who repeatedly raped his young daughter and subjected his former partner to a &#34;prolonged, horrific and cruel attack&#34; in which she thought she was going to be murdered has been jailed for 18 years.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1021/1539791-man-daughter-jail/</guid>
+    </item>    <item>
+      <title>Ski federation says it won&#39;t allow Russian and Belarusian athletes in 2026 Olympic qualifiers</title>
+      <link>https://www.cbc.ca/sports/olympics/winter/skiers-snowboarders-russian-belarus-barred-2026-olympic-qualifiers-9.6947310?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/dba64e39-54af-42ee-9352-ac5a3b8bb328,1761072439133/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3BResize%3D%28620%29' alt=' Russia&apos;s Yulia Stupak competes in the women&apos;s sprint free qualification event during the Olympics on February 8, 2022 at the Zhangjiakou national cross-country skiing centre in China.' width='620' height='349' title='The International Olympic Committee allows athletes from Russia and Belarus to compete as neutral athletes as it did at last year&apos;s Paris Olympics. However, the IOC allows the international federations which run each sport to decide whether to use that system in their qualifying events. '/><p>The International Ski and Snowboard Federation says its council has voted against allowing athletes from Russia and Belarus to compete in qualifiers for the upcoming Milan-Cortina Winter Olympics.</p>]]>
+      </description>
+      <source:markdown>![ Russia&#39;s Yulia Stupak competes in the women&#39;s sprint free qualification event during the Olympics on February 8, 2022 at the Zhangjiakou national cross-country skiing centre in China.](https://i.cbc.ca/ais/dba64e39-54af-42ee-9352-ac5a3b8bb328,1761072439133/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3BResize%3D%28620%29)
+
+The International Ski and Snowboard Federation says its council has voted against allowing athletes from Russia and Belarus to compete in qualifiers for the upcoming Milan-Cortina Winter Olympics.</source:markdown>
+      <guid>cid://9.6947310</guid>
     </item>    <item>
       <title>ACN Religious Freedom Report: 5 billion people face violations</title>
       <link>https://www.vaticannews.va/en/church/news/2025-10/acn-religious-freedom-report-more-than-5-billion-face-persecutio.html</link>
@@ -147,6 +225,33 @@
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-10-2025-UNOCHA-Gaza.jpg/image560x340cropped.jpg" length="33897" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/10/1166142</guid>
     </item>    <item>
+      <title>UN sounds alarm over spike in sexual violence against women in DR Congo</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166150</link>
+      <description>
+        <![CDATA[Women and girls in the Democratic Republic of the Congo (DRC) are trapped in one of the world’s worst humanitarian crises and face rampant insecurity, a senior United Nations official warned on Tuesday following a visit to the country.]]>
+      </description>
+      <source:markdown>Women and girls in the Democratic Republic of the Congo (DRC) are trapped in one of the world’s worst humanitarian crises and face rampant insecurity, a senior United Nations official warned on Tuesday following a visit to the country.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/10-10-2025-UNICEF-DR-Congo.jpg/image560x340cropped.jpg" length="17033" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166150</guid>
+    </item>    <item>
+      <title>Decade of slowing deforestation offers hope for forests</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166148</link>
+      <description>
+        <![CDATA[Lush, green and brimming with trees and wildlife, forests are the Earth’s lungs and source of livelihoods for many communities.]]>
+      </description>
+      <source:markdown>Lush, green and brimming with trees and wildlife, forests are the Earth’s lungs and source of livelihoods for many communities.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/21-10-2025-UN-News-Japan-01.jpg/image560x340cropped.jpg" length="65052" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166148</guid>
+    </item>    <item>
+      <title>Sudan: Over one million return to Khartoum amid fragile recovery</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166147</link>
+      <description>
+        <![CDATA[More than a million people have returned to Sudan’s war-ravaged capital in the past ten months, the UN migration agency said on Tuesday, warning that basic services remain shattered amid continuing disease outbreaks.]]>
+      </description>
+      <source:markdown>More than a million people have returned to Sudan’s war-ravaged capital in the past ten months, the UN migration agency said on Tuesday, warning that basic services remain shattered amid continuing disease outbreaks.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/21-10-2025_IOM_Sudan.jpg/image560x340cropped.jpg" length="36407" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166147</guid>
+    </item>    <item>
       <title>Seven gardaí injured in three incidents in Dungarvan</title>
       <link>https://www.rte.ie/news/2025/1021/1539756-dungarvan-incidents/</link>
       <description>
@@ -207,6 +312,17 @@ Indigenous Services Canada is failing to implement six past audits completed bet
     </item>    <item>
       <title>Indigenous artifacts held in Vatican Museums finally heading back to Canada</title>
       <link>https://www.cbc.ca/news/indigenous/vatican-museums-indigenous-artifacts-canada-9.6946597?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/08d290ec-b8d2-48e0-b0cc-aab10062b316,1761052356002/full/max/0/default.jpg?im=Crop%2Crect%3D%28241%2C0%2C938%2C527%29%3BResize%3D%28620%29' alt='An old kayak' width='620' height='349' title='This Inuvialuit kayak is being held at the Vatican Museums, along with several other Indigenous artifacts.'/><p>Sources tell CBC News the Vatican and the Canadian Catholic Church are making good progress toward an agreement to return Indigenous cultural objects before the end of the year, in a handoff facilitated by the Canadian Conference of Catholic Bishops.
+        </p>]]>
+      </description>
+      <source:markdown>![An old kayak](https://i.cbc.ca/ais/08d290ec-b8d2-48e0-b0cc-aab10062b316,1761052356002/full/max/0/default.jpg?im=Crop%2Crect%3D%28241%2C0%2C938%2C527%29%3BResize%3D%28620%29)
+
+Sources tell CBC News the Vatican and the Canadian Catholic Church are making good progress toward an agreement to return Indigenous cultural objects before the end of the year, in a handoff facilitated by the Canadian Conference of Catholic Bishops.</source:markdown>
+      <guid>cid://9.6946597</guid>
+    </item>    <item>
+      <title>Indigenous artifacts held in Vatican Museums finally heading back to Canada</title>
+      <link>https://www.cbc.ca/news/vatican-museums-indigenous-artifacts-canada-9.6946597?cmp=rss</link>
       <description>
         <![CDATA[<img src='https://i.cbc.ca/ais/08d290ec-b8d2-48e0-b0cc-aab10062b316,1761052356002/full/max/0/default.jpg?im=Crop%2Crect%3D%28241%2C0%2C938%2C527%29%3BResize%3D%28620%29' alt='An old kayak' width='620' height='349' title='This Inuvialuit kayak is being held at the Vatican Museums, along with several other Indigenous artifacts.'/><p>Sources tell CBC News the Vatican and the Canadian Catholic Church are making good progress toward an agreement to return Indigenous cultural objects before the end of the year, in a handoff facilitated by the Canadian Conference of Catholic Bishops.
         </p>]]>
@@ -339,6 +455,16 @@ The White House on Monday started tearing down part of the East Wing, the tradit
       </description>
       <source:markdown>Stephen Freer was running his own electrical engineering company and was surrounded by caring family.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1021/1539683-coolmine-annual-report/</guid>
+    </item>    <item>
+      <title>Bison return to a Regina neighbourhood, but this time as art</title>
+      <link>https://www.cbc.ca/news/canada/saskatchewan/bison-renew-program-murals-north-central-regina-9.6945700?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/29aa9b59-a0e7-443c-8033-c47438a12d16,1760992519086/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C446%2C5084%2C2859%29%3BResize%3D%28620%29' alt='A girl and her mother stand in front of a painted bison mural' width='620' height='349' title='Paisley (left) and her mother Erinn Paik stand and pose in front of a bison mural'/><p>Youth volunteers in the Renew Program in Regina's North Central are painting bison murals that cover unwanted graffiti. The art pieces are located all around the neighbourhood, including in alleyways.</p>]]>
+      </description>
+      <source:markdown>![A girl and her mother stand in front of a painted bison mural](https://i.cbc.ca/ais/29aa9b59-a0e7-443c-8033-c47438a12d16,1760992519086/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C446%2C5084%2C2859%29%3BResize%3D%28620%29)
+
+Youth volunteers in the Renew Program in Regina&#39;s North Central are painting bison murals that cover unwanted graffiti. The art pieces are located all around the neighbourhood, including in alleyways.</source:markdown>
+      <guid>cid://9.6945700</guid>
     </item>    <item>
       <title>Japan elects Takaichi as first female prime minister</title>
       <link>https://www.rte.ie/news/world/2025/1021/1539682-japan-prime-minister/</link>
@@ -500,12 +626,12 @@ After dangling the prospect of supplying Ukraine with Tomahawk cruise missiles, 
       <source:markdown>US President Donald Trump has said that allied nations in the Middle East are prepared to send troops into Gaza, at his request, to confront Hamas if the group does not cease its alleged violations of his peace plan.</source:markdown>
       <guid>cid://https://www.rte.ie/news/middle-east/2025/1021/1539667-middle-east/</guid>
     </item>    <item>
-      <title>Candidates set for final debate in Presidential Election</title>
+      <title>Candidates make pitches to undecided voters in debate</title>
       <link>https://www.rte.ie/news/presidential-election/2025/1021/1539664-presidential-election-debate/</link>
       <description>
-        <![CDATA[The final debate of the 2025 Presidential Election campaign will kick off tonight on RTÉ's Prime Time.]]>
+        <![CDATA[The two candidates in the Presidential Election have made pitches to undecided voters in the final TV debate of the campaign.]]>
       </description>
-      <source:markdown>The final debate of the 2025 Presidential Election campaign will kick off tonight on RTÉ&#39;s Prime Time.</source:markdown>
+      <source:markdown>The two candidates in the Presidential Election have made pitches to undecided voters in the final TV debate of the campaign.</source:markdown>
       <guid>cid://https://www.rte.ie/news/presidential-election/2025/1021/1539664-presidential-election-debate/</guid>
     </item>    <item>
       <title>Man charged in connection with sexual assault of girl</title>
@@ -691,6 +817,14 @@ A divided U.S. appeals court ruled on Monday that Donald Trump can send Natio
         <![CDATA[<img src='https://i.cbc.ca/ais/296204f1-2e2b-418e-8fb8-7c0a1ddf8b9d,1760999816016/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Louvre Museum in France.' width='620' height='349' title='Louvre Museum in France.'/><p></p>]]>
       </description>
       <source:markdown>![Louvre Museum in France.](https://i.cbc.ca/ais/296204f1-2e2b-418e-8fb8-7c0a1ddf8b9d,1760999816016/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29)</source:markdown>
+      <guid>cid://9.6945622</guid>
+    </item>    <item>
+      <title>After audacious Louvre heist, finger pointing and an identity crisis in France</title>
+      <link>https://www.cbc.ca/news/entertainment/louvre-heist-reaction-9.6945952?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/2789894f-6980-4e83-9300-30a2179f3664,1760986725225/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A crown of jewels is seen on display at the Louvre.' width='620' height='349' title='In a brazen daytime robbery, thieves use a crane to break into the Louvre museum in Paris and steal priceless jewels before escaping on motorbikes. '/><p></p>]]>
+      </description>
+      <source:markdown>![A crown of jewels is seen on display at the Louvre.](https://i.cbc.ca/ais/2789894f-6980-4e83-9300-30a2179f3664,1760986725225/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29)</source:markdown>
       <guid>cid://9.6945622</guid>
     </item>    <item>
       <title>Mining company plans to advance one of the world&#39;s biggest lithium mines on Cree territory</title>
@@ -1096,6 +1230,17 @@ U.S. envoys met Israeli Prime Minister Benjamin Netanyahu on Monday aiming to co
 
 [Read all](https://www.vaticannews.va/en/church/news/2025-10/myanmar-world-mission-sunday-yangon-children.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/church/news/2025-10/myanmar-world-mission-sunday-yangon-children.html</guid>
+    </item>    <item>
+      <title>This is how a Thunder Bay, Ont. women&#39;s group is working to better include Inuit women</title>
+      <link>https://www.cbc.ca/news/canada/thunder-bay/onwa-inuit-9.6933932?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/3fd0e418-2ebe-49e5-baf7-46ec66e93c63,1760045259450/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6000%2C3375%29%3BResize%3D%28620%29' alt='Stephanie Mikki Adams, executive director of Innuqatigit Centre for Inuit Children, Youth and Families, wearing a parka adorned with the yellow and white of the Nunavut territorial flag.' width='620' height='349' title='Stephanie Mikki Adams is the executive director of Innuqatigit Centre for Inuit Children, Youth and Families and the newest board member at ONWA.'/><p>The Ontario Native Women’s Association is expanding its efforts to better represent Inuit women across the province.  CEO Cora McGuire-Cyrette says the organization has launched its first Inuit Women’s Council and welcomed its first Inuk board member.
+        </p>]]>
+      </description>
+      <source:markdown>![Stephanie Mikki Adams, executive director of Innuqatigit Centre for Inuit Children, Youth and Families, wearing a parka adorned with the yellow and white of the Nunavut territorial flag.](https://i.cbc.ca/ais/3fd0e418-2ebe-49e5-baf7-46ec66e93c63,1760045259450/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6000%2C3375%29%3BResize%3D%28620%29)
+
+The Ontario Native Women’s Association is expanding its efforts to better represent Inuit women across the province. CEO Cora McGuire-Cyrette says the organization has launched its first Inuit Women’s Council and welcomed its first Inuk board member.</source:markdown>
+      <guid>cid://9.6933932</guid>
     </item>    <item>
       <title>Trump says US will increase tariffs on Colombia</title>
       <link>https://www.rte.ie/news/world/2025/1020/1539452-us-colombia-tariffs/</link>

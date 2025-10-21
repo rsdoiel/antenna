@@ -4,10 +4,78 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>21 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>21 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Miners Discovered a Mysterious Smoking Object in Western Australia. Experts Think It&#39;s Likely Unexpected Space Debris</title>
+      <link>https://www.smithsonianmag.com/smart-news/miners-discover-a-mysterious-smoking-object-in-western-australia-experts-think-its-likely-unexpected-space-debris-180987550/</link>
+      <description>
+        <![CDATA[Some theorize that it's a piece of a rocket—and part of a growing pile of orbiting space junk]]>
+      </description>
+      <source:markdown>Some theorize that it&#39;s a piece of a rocket—and part of a growing pile of orbiting space junk</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/EqSZ9EYjJsjPmW4184u8GMbtJtc=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b6/d0/b6d0b2a9-4381-4539-8603-6533b688e78a/smithsonian_feature_images_20.png" length="" type="" />
+    </item>    <item>
+      <title>General Motors gibt elektrischen Lieferwagen auf</title>
+      <link>https://www.heise.de/news/General-Motors-gibt-elektrischen-Lieferwagen-auf-10793766.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Fedex, DHL, Walmart und Hertz reservierten elektrische Lieferwägen von GM, aber gekauft wurde wenig. Das Brightdrop-Werk in Kanada steht still.]]>
+      </description>
+      <source:markdown>Fedex, DHL, Walmart und Hertz reservierten elektrische Lieferwägen von GM, aber gekauft wurde wenig. Das Brightdrop-Werk in Kanada steht still.</source:markdown>
+      <guid>cid://http://heise.de/-10793766</guid>
+    </item>    <item>
+      <title>Australian Rainforests Become the First to Emit More Carbon Than They Absorb</title>
+      <link>https://www.smithsonianmag.com/smart-news/australian-rainforests-become-the-first-to-emit-more-carbon-than-they-absorb-180987532/</link>
+      <description>
+        <![CDATA[A new analysis finds tropical forests in Australia are not taking in enough carbon dioxide to keep up with the emissions from their decaying trunks, holding possible implications for global ecosystems]]>
+      </description>
+      <source:markdown>A new analysis finds tropical forests in Australia are not taking in enough carbon dioxide to keep up with the emissions from their decaying trunks, holding possible implications for global ecosystems</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2VdGM2ira7CiNWQv9ww_4uKlqyI=/420x240/filters:focal(800x442:801x443)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/26/06/26060bbe-a5a2-4b91-bea8-60f76689a49c/trees_pictured_from_above.jpg" length="" type="" />
+    </item>    <item>
+      <title>AI eats leisure time, makes employees work more, study finds</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/21/ai_eats_leisure_time/</link>
+      <description>
+        <![CDATA[<h4>Rise and grind, robot overlords demand</h4> <p>AI services like OpenAI&#39;s ChatGPT have been pitched for potential productivity gains, but their effect has been to make people work more while benefiting less from their labor.…</p>]]>
+      </description>
+      <source:markdown>#### Rise and grind, robot overlords demand
+
+AI services like OpenAI&#39;s ChatGPT have been pitched for potential productivity gains, but their effect has been to make people work more while benefiting less from their labor.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242587</guid>
+    </item>    <item>
+      <title>MCP attack abuses predictable session IDs to hijack AI agents</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/21/mcp_prompt_hijacking_attack/</link>
+      <description>
+        <![CDATA[<h4>The vuln affects the Oat++ MCP implementation</h4> <p>A security flaw in the Oat++ implementation of Anthropic&#39;s Model Context Protocol (MCP) allows attackers to predict or capture session IDs from active AI conversations, hijack MCP sessions, and inject malicious responses via the oatpp-mcp server.…</p>]]>
+      </description>
+      <source:markdown>#### The vuln affects the Oat++ MCP implementation
+
+A security flaw in the Oat++ implementation of Anthropic&#39;s Model Context Protocol (MCP) allows attackers to predict or capture session IDs from active AI conversations, hijack MCP sessions, and inject malicious responses via the oatpp-mcp server.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242586</guid>
+    </item>    <item>
+      <title>7-Jähriger bestellt auf Google Play für 34.000 Euro: Papa muss zahlen</title>
+      <link>https://www.heise.de/news/7-Jaehriger-bestellt-auf-Google-Play-fuer-34-000-Euro-Papa-muss-zahlen-10793754.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ein Siebenjähriger kauft mit Papas Google-Play-Konto über 1.000 Mal Spieleinhalte. Der Vater bleibt auf dem Schaden sitzen, sagt das Landgericht Karlsruhe.]]>
+      </description>
+      <source:markdown>Ein Siebenjähriger kauft mit Papas Google-Play-Konto über 1.000 Mal Spieleinhalte. Der Vater bleibt auf dem Schaden sitzen, sagt das Landgericht Karlsruhe.</source:markdown>
+      <guid>cid://http://heise.de/-10793754</guid>
+    </item>    <item>
+      <title>These &#39;Pirate Lizards&#39; Thrive With Three Legs</title>
+      <link>https://www.smithsonianmag.com/smart-news/these-pirate-lizards-thrive-with-three-legs-180987549/</link>
+      <description>
+        <![CDATA[A new study finds that many lizards with missing limbs fare surprisingly well despite their impairment]]>
+      </description>
+      <source:markdown>A new study finds that many lizards with missing limbs fare surprisingly well despite their impairment</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/JB7aJOo9Y9TfXz4RyUCEwMajzP8=/420x240/filters:focal(600x349:601x350)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/55/ac/55ace60d-5191-4456-9bd6-ab29494614f5/american-green-anole_anolis-carolinensis_credit-tony-gamble-copy-1200x700.jpg" length="" type="" />
+    </item>    <item>
+      <title>David Hockney’s iPad Drawings of Winter&#39;s Transformation Into Spring Blow Past Estimates at Auction</title>
+      <link>https://www.smithsonianmag.com/smart-news/david-hockneys-ipad-drawings-of-winters-transformation-into-spring-blow-past-estimates-at-auction-180987543/</link>
+      <description>
+        <![CDATA[Seventeen works from the artist's 2011 series went for more than $8 million at a Sotheby's sale on October 17]]>
+      </description>
+      <source:markdown>Seventeen works from the artist&#39;s 2011 series went for more than $8 million at a Sotheby&#39;s sale on October 17</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/8MS68urTzLhdSNWkQhLpkyOjXGk=/420x240/filters:focal(2048x2770:2049x2771)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b2/c6/b2c6c2bb-ef5d-4b57-a6b9-8bcbe46b9742/hockney.jpeg" length="" type="" />
+    </item>    <item>
       <title>Top 10: Der beste günstige Mini-PC mit Windows 11 bis 300 Euro – erstaunlich gut</title>
       <link>https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-guenstige-mini-pc-mit-windows-11-bis-300-euro-erstaunlich-gut/flxjgm9?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
@@ -809,7 +877,7 @@ Windows 11 launched way back in October 2021 and has become Microsoft’s must-h
       <source:markdown>Chris Siebenmann with another interesting look at a tiny detail of UNIX history. A few years ago I wrote about the divide in chown() about who got to give away files, where BSD and V7 were on one side, restricting it to root, while System III and System V were on the other, allowing the owner to give them away too. The answer is that the restriction was added in V6, where the V6 chown(2) manual page has the same wording as V7. In Research Unix V5 and earlier, people can chown(2) away their own files; this is documented in the V4 chown(2) manual page and is what the V5 kernel code for chown() does. This behavior runs all the way back to the V1 chown() manual page, with an extra restriction that you can’t chown() setuid files. ↫ Chris Siebenmann The deeper levels of this particular rabbit hole need more exploring, though, as eventually Siebenmann hits a roadblock when trying to figure out why, exactly, the restriction was added, and why certain versions chose to not adopt the new restriction. This may be part of the lore of UNIX we won’t uncover, until one of the people involved speaks up.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=143584</guid>
     </item>    <item>
-      <title>Today is when the Amazon brain drain finally sent AWS down the spout</title>
+      <title>Amazon brain drain finally sent AWS down the spout</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/</link>
       <description>
         <![CDATA[<h4>When your best engineers log off for good, don’t be surprised when the cloud forgets how DNS works</h4> <p><strong>column</strong>  &#34;It&#39;s always DNS&#34; is a long-standing sysadmin saw, and with good reason: a disproportionate number of outages are at their heart DNS issues. And so today, as AWS is still repairing its downed cloud as this article goes to press, it becomes clear that the culprit is once again DNS. But if you or I know this, AWS certainly does.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>

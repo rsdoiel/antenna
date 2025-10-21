@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>21 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>21 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,196 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m3qczs6gfc2y</link>
+      <description>
+        <![CDATA[Good article on the challenges of water in North Guam, https://www.pacificislandtimes.com/post/dieldrin-in-our-water-a-silent-threat-to-guam-s-health]]>
+      </description>
+      <source:markdown>Good article on the challenges of water in North Guam, https://www.pacificislandtimes.com/post/dieldrin-in-our-water-a-silent-threat-to-guam-s-health</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m3qczs6gfc2y</guid>
+    </item>    <item>
+      <title>The &#38;#8216;Anti-Woke&#38;#8217; Tax That All Americans Are Paying. &#38;#8220;Tariffs are the most...</title>
+      <link>https://kottke.org/25/10/0047745-the-anti-woke-tax-that-al</link>
+      <guid>cid://tag:kottke.org,2025://13.47745</guid>
+    </item>    <item>
+      <title>Wednesday 22 October, 2025</title>
+      <link>https://memex.naughtons.org/wednesday-22-october-2025/41310/</link>
+      <description>
+        <![CDATA[Moorings Brancaster Staithe in North Norfolk last Friday evening. Quote of the Day From a blog post by Paul Krugman about Trump’s worsening delusionism: a quote from George Orwell. ”We are all capable of believing things which we know to &#8230; <a href="https://memex.naughtons.org/wednesday-22-october-2025/41310/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>Moorings Brancaster Staithe in North Norfolk last Friday evening. Quote of the Day From a blog post by Paul Krugman about Trump’s worsening delusionism: a quote from George Orwell. ”We are all capable of believing things which we know to … [Continue reading →](https://memex.naughtons.org/wednesday-22-october-2025/41310/)</source:markdown>
+      <guid>cid://https://memex.naughtons.org/?p=41310</guid>
+    </item>    <item>
+      <title>MailMaven 1.0</title>
+      <link>https://mjtsai.com/blog/2025/10/21/mailmaven-1-0/</link>
+      <description>
+        <![CDATA[SmallCubed: &#x1F389; MailMaven Version 1.0 Official Release! &#x1F389; Joe Kissell&#8217;s Take Control of MailMaven is now available as a free download. Previously: MailMaven Public Beta]]>
+      </description>
+      <source:markdown>SmallCubed: 🎉 MailMaven Version 1.0 Official Release! 🎉 Joe Kissell’s Take Control of MailMaven is now available as a free download. Previously: MailMaven Public Beta</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49718</guid>
+    </item>    <item>
+      <title>Liquid Glass Toggle in appleOS 26.1 Beta</title>
+      <link>https://mjtsai.com/blog/2025/10/21/liquid-glass-toggle-in-appleos-26-1-beta/</link>
+      <description>
+        <![CDATA[Juli Clover: Even though we&#8217;re at the fourth beta of iOS 26.1, Apple is continuing to add new features. In fact, the fourth beta has some of the biggest changes that we&#8217;ll get when iOS 26.1 releases to the public later this month. Juli Clover (Hacker News): With the fourth betas of iOS 26.1, iPadOS [&#8230;]]]>
+      </description>
+      <source:markdown>Juli Clover: Even though we’re at the fourth beta of iOS 26.1, Apple is continuing to add new features. In fact, the fourth beta has some of the biggest changes that we’ll get when iOS 26.1 releases to the public later this month. Juli Clover (Hacker News): With the fourth betas of iOS 26.1, iPadOS \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49716</guid>
+    </item>    <item>
+      <title>XCSSET Is Back</title>
+      <link>https://mjtsai.com/blog/2025/10/21/xcsset-is-back/</link>
+      <description>
+        <![CDATA[Lawrence Abrams: Microsoft Threat Intelligence reports that a new variant of the XCSSET macOS malware has been detected in limited attacks, incorporating several new features, including enhanced browser targeting, clipboard hijacking, and improved persistence mechanisms.XCSSET is a modular macOS malware that acts as an infostealer and cryptocurrency stealer, stealing Notes, cryptocurrency wallets, and browser data [&#8230;]]]>
+      </description>
+      <source:markdown>Lawrence Abrams: Microsoft Threat Intelligence reports that a new variant of the XCSSET macOS malware has been detected in limited attacks, incorporating several new features, including enhanced browser targeting, clipboard hijacking, and improved persistence mechanisms.XCSSET is a modular macOS malware that acts as an infostealer and cryptocurrency stealer, stealing Notes, cryptocurrency wallets, and browser data \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49714</guid>
+    </item>    <item>
+      <title>New essay collection from classist Emily Wilson: Crossing the Wine-Dark Sea. &#38;#8220;From...</title>
+      <link>https://kottke.org/25/10/0047743-new-collection-from-class</link>
+      <guid>cid://tag:kottke.org,2025://13.47743</guid>
+    </item>    <item>
+      <link>https://www.npr.org/2025/10/20/g-s1-94315/white-house-demolishing-east-wing-trump-ballroom</link>
+      <description>
+        <![CDATA[<p>Part of the White House East Wing is being torn down to build Trump's ballroom.</p>]]>
+      </description>
+      <source:markdown>Part of the White House East Wing is being torn down to build Trump&#39;s ballroom.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/21/1593/</guid>
+    </item>    <item>
+      <link>https://arstechnica.com/ai/2025/10/openais-new-atlas-web-browser-wants-to-let-you-chat-with-a-page/</link>
+      <description>
+        <![CDATA[<p>OpenAI looks for its “Google Chrome” moment with new Atlas web browser.</p>]]>
+      </description>
+      <source:markdown>OpenAI looks for its “Google Chrome” moment with new Atlas web browser.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/21/1591/</guid>
+    </item>    <item>
+      <title>Consumer Confusion Regarding USB Power Adapters</title>
+      <link>https://daringfireball.net/linked/2025/10/20/heer-m5-mbp-charger</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42296</guid>
+    </item>    <item>
+      <link>https://www.nytimes.com/2025/10/21/us/politics/trump-justice-department-compensation.html</link>
+      <description>
+        <![CDATA[<p>Trump Said to Demand Justice Dept. Pay Him $230 Million for Past Cases.</p>]]>
+      </description>
+      <source:markdown>Trump Said to Demand Justice Dept. Pay Him $230 Million for Past Cases.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/21/1589/</guid>
+    </item>    <item>
+      <title>Introducing ChatGPT Atlas</title>
+      <link>https://simonwillison.net/2025/Oct/21/introducing-chatgpt-atlas/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://openai.com/index/introducing-chatgpt-atlas/">Introducing ChatGPT Atlas</a></strong></p>
+        Last year OpenAI <a href="https://www.searchenginejournal.com/openai-hires-former-chrome-engineer-eyes-browser-battle/533533/">hired Chrome engineer Darin Fisher</a>, which sparked speculation they might have their own browser in the pipeline. Today it arrived.</p>
+        <p>ChatGPT Atlas is a Mac-only web browser with a variety of ChatGPT-enabled features. You can bring up a chat panel next to a web page, which will automatically be populated with the context of that page.</p>
+        <p>The "browser memories" feature is particularly notable, <a href="https://help.openai.com/en/articles/12591856-chatgpt-atlas-release-notes">described here</a>:</p>
+        <blockquote>
+        <p>If you turn on browser memories, ChatGPT will remember key details from your web browsing to improve chat responses and offer smarter suggestions—like retrieving a webpage you read a while ago. Browser memories are private to your account and under your control. You can view them all in settings, archive ones that are no longer relevant, and clear your browsing history to delete them. </p>
+        </blockquote>
+        <p>Atlas also has an experimental "agent mode" where ChatGPT can take over navigating and interacting with the page for you, accompanied by a weird sparkle overlay effect:</p>
+        <p><img alt="Screenshot of Simon Willison's Weblog showing search results for &quot;browser agents&quot; with 38 results on page 1 of 2. The first result is titled &quot;Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet&quot; and discusses security vulnerabilities in LLM-powered browser extensions. A tooltip shows &quot;Opening the first result&quot; and on the right side is a ChatGPT interface panel titled &quot;Simon Willison's Weblog&quot; with text explaining &quot;Use agent mode search this site for browser agents&quot; and &quot;Opening the first result&quot; with a description of the research intent. At the bottom of the screen is a browser notification showing &quot;browser agents&quot; in posts with &quot;Take control&quot; and &quot;Stop&quot; buttons." src="https://static.simonwillison.net/static/2025/chatgpt-atlas.jpg" /></p>
+        <p>Here's how the <a href="https://help.openai.com/en/articles/12591856-chatgpt-atlas-release-notes">help page</a> describes that mode:</p>
+        <blockquote>
+        <p>In agent mode, ChatGPT can complete end to end tasks for you like researching a meal plan, making a list of ingredients, and adding the groceries to a shopping cart ready for delivery. You're always in control: ChatGPT is trained to ask before taking many important actions, and you can pause, interrupt, or take over the browser at any time.</p>
+        <p>Agent mode runs also operates under boundaries:</p>
+        <ul>
+        <li>System access: Cannot run code in the browser, download files, or install extensions.</li>
+        <li>Data access: Cannot access other apps on your computer or your file system, read or write ChatGPT memories, access saved passwords, or use autofill data.</li>
+        <li>Browsing activity: Pages ChatGPT visits in agent mode are not added to your browsing history.</li>
+        </ul>
+        <p>You can also choose to run agent in logged out mode, and ChatGPT won't use any pre-existing cookies and won't be logged into any of your online accounts without your specific approval.</p>
+        <p>These efforts don't eliminate every risk; users should still use caution and monitor ChatGPT activities when using agent mode.</p>
+        </blockquote>
+        <p>I continue to find this entire category of <a href="https://simonwillison.net/tags/browser-agents/">browser agents</a> <em>deeply</em> confusing.</p>
+        <p>The security and privacy risks involved here still feel insurmountably high to me - I certainly won't be trusting any of these products until a bunch of security researchers have given them a very thorough beating.</p>
+        <p>I'd like to see a <em>deep</em> explanation of the steps Atlas takes to avoid prompt injection attacks. Right now it looks like the main defense is expecting the user to carefully watch what agent mode is doing at all times!</p>
+        <p>I also find these products pretty unexciting to use. I tried out agent mode and it was like watching a first-time computer user painstakingly learn to use a mouse for the first time. I have yet to find my own use-cases for when this kind of interaction feels useful to me, though I'm not ruling that out.</p>
+        <p>There was one other detail in the announcement post that caught my eye:</p>
+        <blockquote>
+        <p>Website owners can also add <a href="https://help.openai.com/en/articles/12627856-publishers-and-developers-faq#h_30e9aae450">ARIA</a> tags to improve how ChatGPT agent works for their websites in Atlas.</p>
+        </blockquote>
+        <p>Which links to this:</p>
+        <blockquote>
+        <p>ChatGPT Atlas uses ARIA tags---the same labels and roles that support screen readers---to interpret page structure and interactive elements. To improve compatibility, follow <a href="https://www.w3.org/WAI/ARIA/apg/">WAI-ARIA best practices</a> by adding descriptive roles, labels, and states to interactive elements like buttons, menus, and forms. This helps ChatGPT recognize what each element does and interact with your site more accurately.</p>
+        </blockquote>
+        <p>A neat reminder that AI "agents" share many of the characteristics of assistive technologies, and benefit from the same affordances.</p>
+        <p>The Atlas user-agent is <code>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36</code> - identical to the user-agent I get for the latest Google Chrome on macOS.
+        
+            <p><small></small>Via <a href="https://news.ycombinator.com/item?id=45658479">Hacker News</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/accessibility">accessibility</a>, <a href="https://simonwillison.net/tags/aria">aria</a>, <a href="https://simonwillison.net/tags/browsers">browsers</a>, <a href="https://simonwillison.net/tags/privacy">privacy</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/browser-agents">browser-agents</a></p>]]>
+      </description>
+      <source:markdown>**[Introducing ChatGPT Atlas](https://openai.com/index/introducing-chatgpt-atlas/)**
+
+Last year OpenAI [hired Chrome engineer Darin Fisher](https://www.searchenginejournal.com/openai-hires-former-chrome-engineer-eyes-browser-battle/533533/), which sparked speculation they might have their own browser in the pipeline. Today it arrived.
+
+ChatGPT Atlas is a Mac-only web browser with a variety of ChatGPT-enabled features. You can bring up a chat panel next to a web page, which will automatically be populated with the context of that page.
+
+The &#34;browser memories&#34; feature is particularly notable, [described here](https://help.openai.com/en/articles/12591856-chatgpt-atlas-release-notes):
+
+&#62; If you turn on browser memories, ChatGPT will remember key details from your web browsing to improve chat responses and offer smarter suggestions—like retrieving a webpage you read a while ago. Browser memories are private to your account and under your control. You can view them all in settings, archive ones that are no longer relevant, and clear your browsing history to delete them.
+
+Atlas also has an experimental &#34;agent mode&#34; where ChatGPT can take over navigating and interacting with the page for you, accompanied by a weird sparkle overlay effect:
+
+![Screenshot of Simon Willison&#39;s Weblog showing search results for &#34;browser agents&#34; with 38 results on page 1 of 2. The first result is titled &#34;Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet&#34; and discusses security vulnerabilities in LLM-powered browser extensions. A tooltip shows &#34;Opening the first result&#34; and on the right side is a ChatGPT interface panel titled &#34;Simon Willison&#39;s Weblog&#34; with text explaining &#34;Use agent mode search this site for browser agents&#34; and &#34;Opening the first result&#34; with a description of the research intent. At the bottom of the screen is a browser notification showing &#34;browser agents&#34; in posts with &#34;Take control&#34; and &#34;Stop&#34; buttons.](https://static.simonwillison.net/static/2025/chatgpt-atlas.jpg)
+
+Here&#39;s how the [help page](https://help.openai.com/en/articles/12591856-chatgpt-atlas-release-notes) describes that mode:
+
+&#62; In agent mode, ChatGPT can complete end to end tasks for you like researching a meal plan, making a list of ingredients, and adding the groceries to a shopping cart ready for delivery. You&#39;re always in control: ChatGPT is trained to ask before taking many important actions, and you can pause, interrupt, or take over the browser at any time.
+&#62;
+&#62; Agent mode runs also operates under boundaries:
+&#62;
+&#62; - System access: Cannot run code in the browser, download files, or install extensions.
+&#62; - Data access: Cannot access other apps on your computer or your file system, read or write ChatGPT memories, access saved passwords, or use autofill data.
+&#62; - Browsing activity: Pages ChatGPT visits in agent mode are not added to your browsing history.
+&#62;
+&#62; You can also choose to run agent in logged out mode, and ChatGPT won&#39;t use any pre-existing cookies and won&#39;t be logged into any of your online accounts without your specific approval.
+&#62;
+&#62; These efforts don&#39;t eliminate every risk; users should still use caution and monitor ChatGPT activities when using agent mode.
+
+I continue to find this entire category of [browser agents](https://simonwillison.net/tags/browser-agents/) _deeply_ confusing.
+
+The security and privacy risks involved here still feel insurmountably high to me - I certainly won&#39;t be trusting any of these products until a bunch of security researchers have given them a very thorough beating.
+
+I&#39;d like to see a _deep_ explanation of the steps Atlas takes to avoid prompt injection attacks. Right now it looks like the main defense is expecting the user to carefully watch what agent mode is doing at all times!
+
+I also find these products pretty unexciting to use. I tried out agent mode and it was like watching a first-time computer user painstakingly learn to use a mouse for the first time. I have yet to find my own use-cases for when this kind of interaction feels useful to me, though I&#39;m not ruling that out.
+
+There was one other detail in the announcement post that caught my eye:
+
+&#62; Website owners can also add [ARIA](https://help.openai.com/en/articles/12627856-publishers-and-developers-faq#h_30e9aae450) tags to improve how ChatGPT agent works for their websites in Atlas.
+
+Which links to this:
+
+&#62; ChatGPT Atlas uses ARIA tags---the same labels and roles that support screen readers---to interpret page structure and interactive elements. To improve compatibility, follow [WAI-ARIA best practices](https://www.w3.org/WAI/ARIA/apg/) by adding descriptive roles, labels, and states to interactive elements like buttons, menus, and forms. This helps ChatGPT recognize what each element does and interact with your site more accurately.
+
+A neat reminder that AI &#34;agents&#34; share many of the characteristics of assistive technologies, and benefit from the same affordances.
+
+The Atlas user-agent is `Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36` \- identical to the user-agent I get for the latest Google Chrome on macOS.
+
+
+
+Via [Hacker News](https://news.ycombinator.com/item?id=45658479)
+
+Tags: [accessibility](https://simonwillison.net/tags/accessibility), [aria](https://simonwillison.net/tags/aria), [browsers](https://simonwillison.net/tags/browsers), [privacy](https://simonwillison.net/tags/privacy), [security](https://simonwillison.net/tags/security), [ai](https://simonwillison.net/tags/ai), [openai](https://simonwillison.net/tags/openai), [prompt-injection](https://simonwillison.net/tags/prompt-injection), [generative-ai](https://simonwillison.net/tags/generative-ai), [ai-agents](https://simonwillison.net/tags/ai-agents), [browser-agents](https://simonwillison.net/tags/browser-agents)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/21/introducing-chatgpt-atlas/#atom-everything</guid>
+    </item>    <item>
+      <title>★ Two Excellent New iPhone Camera Apps: Not Boring’s !Camera and Adobe’s Project Indigo</title>
+      <link>https://daringfireball.net/2025/10/not_boring_camera_and_adobe_project_indigo</link>
+      <description>
+        <![CDATA[Two new(ish) iPhone camera apps that take decidedly different approaches to distinguish themselves from Apple’s built-in Camera app.]]>
+      </description>
+      <source:markdown>Two new(ish) iPhone camera apps that take decidedly different approaches to distinguish themselves from Apple’s built-in Camera app.</source:markdown>
+      <guid>cid://tag:daringfireball.net,2025://1.42295</guid>
+    </item>    <item>
+      <title>Ethan Hawke Breaks Down His Career</title>
+      <link>https://kottke.org/25/10/ethan-hawke-breaks-down-his-career</link>
+      <guid>cid://tag:kottke.org,2025://5.47744</guid>
+    </item>    <item>
+      <link>https://docs.gotosocial.org/en/latest/getting_started/</link>
+      <description>
+        <![CDATA[<p>Gotosocial is a great idea, but can't it be simpler to set up a server? If not, let's look at creating a higher level interface that can then be bridged to ActivityPub.</p>]]>
+      </description>
+      <source:markdown>Gotosocial is a great idea, but can&#39;t it be simpler to set up a server? If not, let&#39;s look at creating a higher level interface that can then be bridged to ActivityPub.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/21/1587/</guid>
     </item>    <item>
       <title>Vajra Chandrasekera has won the 2025 Ursula K. Le Guin Prize for Fiction.</title>
       <link>https://lithub.com/vajra-chandrasekera-has-won-the-2025-ursula-k-le-guin-prize-for-fiction/</link>
@@ -163,7 +353,7 @@ All will be revealed soon. In the meantime, [grab yourself a ticket to Web Day O
       <title>Depreciation</title>
       <link>https://blog.dshr.org/2025/10/depreciation.html</link>
       <description>
-        <![CDATA[<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxcUZnhTqEC4hPAPlMo4I17ELbs0p9hDEd8fIaTbX9EAp-fzbrXR33eScrOvahNmwkmtwyYKwlpaf68qB-IWUeVetlF4n8PFTG0jxfV6jcW4ZKAl__QjfdyWMetFjWiMAHIW57vA07MQS9-w2JBut0kMO3yi_jcK-8pGyJUyVmgI5ZR_4m-_xfLsWlQ/s742/DepreciationRates.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="354" data-original-width="742" height="96" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxcUZnhTqEC4hPAPlMo4I17ELbs0p9hDEd8fIaTbX9EAp-fzbrXR33eScrOvahNmwkmtwyYKwlpaf68qB-IWUeVetlF4n8PFTG0jxfV6jcW4ZKAl__QjfdyWMetFjWiMAHIW57vA07MQS9-w2JBut0kMO3yi_jcK-8pGyJUyVmgI5ZR_4m-_xfLsWlQ/w200-h96/DepreciationRates.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://paulbutler.org/2022/the-problem-with-bitcoin-miners/">Source</a></td></tr></tbody></table>
+        <![CDATA[<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxcUZnhTqEC4hPAPlMo4I17ELbs0p9hDEd8fIaTbX9EAp-fzbrXR33eScrOvahNmwkmtwyYKwlpaf68qB-IWUeVetlF4n8PFTG0jxfV6jcW4ZKAl__QjfdyWMetFjWiMAHIW57vA07MQS9-w2JBut0kMO3yi_jcK-8pGyJUyVmgI5ZR_4m-_xfLsWlQ/s742/DepreciationRates.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="354" data-original-width="742" height="96" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxcUZnhTqEC4hPAPlMo4I17ELbs0p9hDEd8fIaTbX9EAp-fzbrXR33eScrOvahNmwkmtwyYKwlpaf68qB-IWUeVetlF4n8PFTG0jxfV6jcW4ZKAl__QjfdyWMetFjWiMAHIW57vA07MQS9-w2JBut0kMO3yi_jcK-8pGyJUyVmgI5ZR_4m-_xfLsWlQ/w200-h96/DepreciationRates.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://paulbutler.org/2022/the-problem-with-bitcoin-miners/">Source</a></td></tr></tbody></table>
         More than three years ago, based on Paul Butler's <a href="https://paulbutler.org/2022/the-problem-with-bitcoin-miners/"><i>The problem with bitcoin miners</i></a>, I wrote <a href="https://blog.dshr.org/2022/05/generally-accepted-accounting-principles.html"><i>Generally Accepted Accounting Principles</i></a>. The TL;DR was that the economic life of Bitcoin mining rigs was estimated at <a href="https://doi.org/10.1016/j.resconrec.2021.105901">16 months</a>, as Moore's law in a competitive ASIC market rapidly generated more power-efficient rigs. But the Bitcoin miners's accounts were using 5-year straight-line depreciation for their rigs, which was significantly increasing their nominal profits.<br />
         <br />
         Below the fold I look at the same problem unfolding in the heart of the AI bubble.<br />
@@ -203,7 +393,7 @@ All will be revealed soon. In the meantime, [grab yourself a ticket to Web Day O
         </blockquote>
         A big chunk of the AI platforms' investment in the hardware is financed with debt. If the lenders are using a five-year life when valuing the hardware as collateral they will run into trouble too. It is rumored that Macquairie was lending against GPUs using a seven-year life.<br />
         <br />
-        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxcUZnhTqEC4hPAPlMo4I17ELbs0p9hDEd8fIaTbX9EAp-fzbrXR33eScrOvahNmwkmtwyYKwlpaf68qB-IWUeVetlF4n8PFTG0jxfV6jcW4ZKAl__QjfdyWMetFjWiMAHIW57vA07MQS9-w2JBut0kMO3yi_jcK-8pGyJUyVmgI5ZR_4m-_xfLsWlQ/s742/DepreciationRates.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="354" data-original-width="742" height="96" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxcUZnhTqEC4hPAPlMo4I17ELbs0p9hDEd8fIaTbX9EAp-fzbrXR33eScrOvahNmwkmtwyYKwlpaf68qB-IWUeVetlF4n8PFTG0jxfV6jcW4ZKAl__QjfdyWMetFjWiMAHIW57vA07MQS9-w2JBut0kMO3yi_jcK-8pGyJUyVmgI5ZR_4m-_xfLsWlQ/w200-h96/DepreciationRates.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://paulbutler.org/2022/the-problem-with-bitcoin-miners/">Source</a></td></tr></tbody></table>
+        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxcUZnhTqEC4hPAPlMo4I17ELbs0p9hDEd8fIaTbX9EAp-fzbrXR33eScrOvahNmwkmtwyYKwlpaf68qB-IWUeVetlF4n8PFTG0jxfV6jcW4ZKAl__QjfdyWMetFjWiMAHIW57vA07MQS9-w2JBut0kMO3yi_jcK-8pGyJUyVmgI5ZR_4m-_xfLsWlQ/s742/DepreciationRates.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="354" data-original-width="742" height="96" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxcUZnhTqEC4hPAPlMo4I17ELbs0p9hDEd8fIaTbX9EAp-fzbrXR33eScrOvahNmwkmtwyYKwlpaf68qB-IWUeVetlF4n8PFTG0jxfV6jcW4ZKAl__QjfdyWMetFjWiMAHIW57vA07MQS9-w2JBut0kMO3yi_jcK-8pGyJUyVmgI5ZR_4m-_xfLsWlQ/w200-h96/DepreciationRates.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://paulbutler.org/2022/the-problem-with-bitcoin-miners/">Source</a></td></tr></tbody></table>
         But as Paul Butler pointed out, straight-line depreciation over-estimates the value of older but not yet uneconomic assets. I described <a href="https://blog.dshr.org/2022/05/generally-accepted-accounting-principles.html">Butler's graph</a>:
         <blockquote>
         Butler uses historical hash rate data to compute the actual depreciation curves for mining hardware, plotting the percentage of the initial bitcoin production rate against time in quarters for each quarter since Bitcoin's inception. The graph shows that initially (bluest lines), when GPUs were introduced, they stopped producing after about 5 quarters. Recently (magenta-est lines), ASICs last longer, stopping producing after about 4 years. But for the whole of Bitcoin's existence the hardware has depreciated far faster than the GAAP's five year straight line.
@@ -243,7 +433,7 @@ All will be revealed soon. In the meantime, [grab yourself a ticket to Web Day O
         </blockquote>
         </li>
         <li>
-        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyxBP_eixY0Bbw20ofKxTalazujUZTETGv3g_Dab_xTREiTF44PDYYuxmyxkmpuLVyONDrCcXpW9RJuOuFDlI8Poszpefgsl4mqZ9ZT1yxTLb3_lvrSPqY-cRhoU48kKld3h54gM05VfZqjOv0LivqyXX1gnMYlGoZkTbxdr8az4pdypvCqviuCG8S_Byq/s697/dgx-spark.b8400a71.jpg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="389" data-original-width="697" height="112" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyxBP_eixY0Bbw20ofKxTalazujUZTETGv3g_Dab_xTREiTF44PDYYuxmyxkmpuLVyONDrCcXpW9RJuOuFDlI8Poszpefgsl4mqZ9ZT1yxTLb3_lvrSPqY-cRhoU48kKld3h54gM05VfZqjOv0LivqyXX1gnMYlGoZkTbxdr8az4pdypvCqviuCG8S_Byq/w200-h112/dgx-spark.b8400a71.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://marketplace.nvidia.com/en-us/developer/dgx-spark/?nvid=nv-int-solr-873735">Source</a></td></tr></tbody></table>And there is the risk that AI platforms will become obsolete with "good enough" AI like <a href="https://en.wikipedia.org/wiki/DeepSeek">DeepSeek</a> and "good enough" local compute such as Nvidia's <a href="https://arstechnica.com/ai/2025/10/nvidia-sells-tiny-new-computer-that-puts-big-ai-on-your-desktop/">DGX Spark</a>:<br />
+        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyxBP_eixY0Bbw20ofKxTalazujUZTETGv3g_Dab_xTREiTF44PDYYuxmyxkmpuLVyONDrCcXpW9RJuOuFDlI8Poszpefgsl4mqZ9ZT1yxTLb3_lvrSPqY-cRhoU48kKld3h54gM05VfZqjOv0LivqyXX1gnMYlGoZkTbxdr8az4pdypvCqviuCG8S_Byq/s697/dgx-spark.b8400a71.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="389" data-original-width="697" height="112" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyxBP_eixY0Bbw20ofKxTalazujUZTETGv3g_Dab_xTREiTF44PDYYuxmyxkmpuLVyONDrCcXpW9RJuOuFDlI8Poszpefgsl4mqZ9ZT1yxTLb3_lvrSPqY-cRhoU48kKld3h54gM05VfZqjOv0LivqyXX1gnMYlGoZkTbxdr8az4pdypvCqviuCG8S_Byq/w200-h112/dgx-spark.b8400a71.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://marketplace.nvidia.com/en-us/developer/dgx-spark/?nvid=nv-int-solr-873735">Source</a></td></tr></tbody></table>And there is the risk that AI platforms will become obsolete with "good enough" AI like <a href="https://en.wikipedia.org/wiki/DeepSeek">DeepSeek</a> and "good enough" local compute such as Nvidia's <a href="https://arstechnica.com/ai/2025/10/nvidia-sells-tiny-new-computer-that-puts-big-ai-on-your-desktop/">DGX Spark</a>:<br />
         <blockquote>
         a $4,000 desktop AI computer that wraps one petaflop of computing performance and 128GB of unified memory into a form factor small enough to sit on a desk.<br />
         ...<br />
@@ -257,7 +447,7 @@ All will be revealed soon. In the meantime, [grab yourself a ticket to Web Day O
         <br />
         Want an Nvidia B200 GPU accelerator? Buying one on its release in late 2024 would’ve probably cost around $50,000, which is before all the costs associated with plugging it in and switching it on. Yet by early 2025, the same hardware could be rented for around $3.20 an hour. By last month, the B200’s floor price had fallen to $2.80 per hour.
         </blockquote>
-        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0ZwZ2d1tfF5doM7EiLEMtVmQf6QmYJWV7zIJkLQYQtcpNOl7I8yCxnF4x9ul869SUbNSSsMB6A9Kl6P838Sz8z2wOqkv0_JW2NRlxXZInL5ogOIGBn2mrgt5bvRyIMYyLm6fHYz1HlAbVnNayz-AZZur5g3vjB88mYNs26gB2i-wnftL2MbCdK-E3G99Y/s1586/RelativeRental.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1026" data-original-width="1586" height="129" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0ZwZ2d1tfF5doM7EiLEMtVmQf6QmYJWV7zIJkLQYQtcpNOl7I8yCxnF4x9ul869SUbNSSsMB6A9Kl6P838Sz8z2wOqkv0_JW2NRlxXZInL5ogOIGBn2mrgt5bvRyIMYyLm6fHYz1HlAbVnNayz-AZZur5g3vjB88mYNs26gB2i-wnftL2MbCdK-E3G99Y/w200-h129/RelativeRental.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.ft.com/content/d49707ae-5d6b-473e-9e2b-487d318e6fe9">Source</a></td></tr></tbody></table>
+        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0ZwZ2d1tfF5doM7EiLEMtVmQf6QmYJWV7zIJkLQYQtcpNOl7I8yCxnF4x9ul869SUbNSSsMB6A9Kl6P838Sz8z2wOqkv0_JW2NRlxXZInL5ogOIGBn2mrgt5bvRyIMYyLm6fHYz1HlAbVnNayz-AZZur5g3vjB88mYNs26gB2i-wnftL2MbCdK-E3G99Y/s1586/RelativeRental.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1026" data-original-width="1586" height="129" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0ZwZ2d1tfF5doM7EiLEMtVmQf6QmYJWV7zIJkLQYQtcpNOl7I8yCxnF4x9ul869SUbNSSsMB6A9Kl6P838Sz8z2wOqkv0_JW2NRlxXZInL5ogOIGBn2mrgt5bvRyIMYyLm6fHYz1HlAbVnNayz-AZZur5g3vjB88mYNs26gB2i-wnftL2MbCdK-E3G99Y/w200-h129/RelativeRental.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.ft.com/content/d49707ae-5d6b-473e-9e2b-487d318e6fe9">Source</a></td></tr></tbody></table>
         That is weird. If the economic life of a B200 is 2 years at $2.80/hour it would earn only $49K, or its purchase price.  But Elder explains that <a href="https://www.ft.com/content/d49707ae-5d6b-473e-9e2b-487d318e6fe9">it isn't that simple</a>:<br />
         <blockquote>
         What might be less obvious is that among the hyperscalers — Amazon’s AWS, Microsoft’s Azure, Google and Oracle — prices have hardly budged. The result is an ever-widening gap between rates charged by the big-four and a growing number of smaller rivals.<br />
@@ -274,7 +464,83 @@ All will be revealed soon. In the meantime, [grab yourself a ticket to Web Day O
         <li>We might be overestimating the size of the GPU market if the middle-ground — meaning regular companies that want OpenAI and Anthropic to make their chatbots, summarisation tools and similar AI widgets — turns out to be <a href="https://www.ft.com/content/7052c560-4f31-4f45-bed0-cbc84453b3ce">worth less than $3tn</a>.</li>
         </ul>
         </blockquote>
-        Those are all good points.<br />]]>
+        Those are all good points.<br />
+        <h3>Update</h3>
+        I need to update today's post to cover two important posts I missed:<br />
+        <ul>
+        <li>Will Lockett's <a href="https://wlockett.medium.com/the-ai-bubble-is-far-worse-than-we-thought-f070a70a90d7"><i>The AI Bubble Is Far Worse Than We Thought</i></a> from 13<sup>th</sup> October. It describes the size of the debt fuelling the AI platform's tsunami of spending.</li>
+        <li>Ed Zitron's <a href="https://www.wheresyoured.at/costs/"><i>This Is How Much Anthropic and Cursor Spend On Amazon Web Services</i></a> from yesterday. It provides evidence for their vast excess of costs over income.</li>
+        </ul>
+        Together, they greatly amplify the message that when the IA bubble bursts, the damage will not be confined to the AI platforms, or even to technology stocks, but it will impact the banks and private capital lenders.<br />
+        <h4>Will Lockett</h4>
+        Lockett starts from an analysis by Julien Garran of MacroStrategy Partnership, pointing to the mismatch between the enormous investments the AI platforms are making and the lack of any sustainable business model to generate the <a href="https://www.bain.com/about/media-center/press-releases/20252/$2-trillion-in-new-revenue-needed-to-fund-ais-scaling-trend---bain--companys-6th-annual-global-technology-report/">$2T/year in new revenue</a> needed to provide a return.<br />
+        <br />
+        So far, Garran's analysis is hardly original, <a href="https://wlockett.medium.com/the-ai-bubble-is-far-worse-than-we-thought-f070a70a90d7">but</a>:<br />
+        <blockquote>
+        Garran used the economic analysis pioneered by economist Knut Wicksell to establish the size of this investing discrepancy, the 2008 bubble, and the dot-com bubble, and that is how he learned that <b>the AI bubble is currently four times the size of the 2008 bubble at its peak!</b>
+        </blockquote>
+        Lockett asks "<a href="https://wlockett.medium.com/the-ai-bubble-is-far-worse-than-we-thought-f070a70a90d7">is the AI bubble as connected to the outside world?</a>":<br />
+        <blockquote>
+        It seems AI companies have been growing through equity financing (selling shares of the company) rather than debt financing (borrowing money). Furthermore, investment seems to be incestuous to the tech industry; for example, OpenAI’s major investors are Microsoft and Nvidia. As such, many believed that the AI bubble is actually relatively isolated from the rest of the economy and therefore might not have as significant an impact on the wider economy when it bursts.
+        </blockquote>
+        It turns out that a large slice of the bubble spending <a href="https://wlockett.medium.com/the-ai-bubble-is-far-worse-than-we-thought-f070a70a90d7">isn't equity</a>:<br />
+        <blockquote>
+        Dario Perkins, managing director of global macro at TS Lombard, has found that many AI companies are increasingly using SPVs to raise significant amounts of debt financing off the books. This covers their tracks and obfuscates the debt, making it “look” like the company is running on equity finance instead. Due to this, it is incredibly difficult to get an accurate figure on how much of the AI industry’s expenditure and growth comes from debt — but we know it is a lot!
+        </blockquote>
+        Even the "on the books" debt <a href="https://wlockett.medium.com/the-ai-bubble-is-far-worse-than-we-thought-f070a70a90d7">is a lot</a>:<br />
+        <blockquote>
+        Goldman Sachs has found that at least $141 billion of the $500 billion in capital expenses the AI industry has spent so far this year came from debt directly tied to the main corporate body through corporate credit issuances. To give you an idea of how insane that is, the entire AI industry capital expenditure in 2024 was $127 billion. In other words, the AI industry has taken on significantly more debt so far this year than it ever spent in total last year. This also means that we know that about 30% of the AI industry’s annual expenditure for this year came from “on the books” debt.
+        </blockquote>
+        And there is plenty of <a href="https://wlockett.medium.com/the-ai-bubble-is-far-worse-than-we-thought-f070a70a90d7">"off the books" debt</a>:<br />
+        <blockquote>
+        We know that Meta is looking to raise $26 billion in debt through an SPV by the end of the year. This one deal equates to 5% of the total AI industry’s capital expenditure for this year.
+        </blockquote>
+        You have to wonder what collateral is backing this "at least" $167B in debt, and how it is being depreciated.<br />
+        <h4>Ed Zitron</h4>
+        Some of the AI platforms have non-AI free cash flows that can be diverted to paying the interest on these debts, or that could be if they hadn't already been shoveled into the AI investment cash furnace. But OpenAI, Anthropic and the other pure-play AI platforms don't. In order to pay the interest without needing to raise more equity, they need to be cash flow positive. Zitron has always been skeptical that they can be, for example <a href="https://www.wheresyoured.at/oai-business/">writing</a>:<br />
+        <blockquote>
+        To be abundantly clear, as it stands, OpenAI currently spends $2.35 to make $1.
+        </blockquote>
+        Now, Zitron has strong evidence that <a href="https://www.wheresyoured.at/costs/">he was right</a>:<br />
+        <blockquote>
+        Based on discussions with sources with direct knowledge of their AWS billing, I am able to disclose the amounts that AI firms are spending, specifically Anthropic and AI coding company Cursor, <a href="https://www.vincentschmalbach.com/cursor-is-anthropics-largest-customer-and-maxing-out-their-gpus/">its largest customer</a>.<br />
+        <br />
+        I can exclusively reveal today Anthropic’s spending on Amazon Web Services for the entirety of 2024, and for every month in 2025 up until September, and that that Anthropic’s spend on compute far exceeds that previously reported. 
+        </blockquote>
+        Zitron can <a href="https://www.wheresyoured.at/costs/">confirm that</a>:<br />
+        <blockquote>
+        Anthropic has spent more than 100% of its estimated revenue (based on reporting in the last year) on Amazon Web Services, spending $2.66 billion on compute on an estimated $2.55 billion in revenue.
+        </blockquote>
+        And what about <a href="https://www.wheresyoured.at/costs/">Cursor?</a>:<br />
+        <blockquote>
+        Additionally, Cursor’s Amazon Web Services bills more than doubled from $6.2 million in May 2025 to $12.6 million in June 2025, exacerbating a cash crunch that began when Anthropic introduced Priority Service Tiers, an aggressive rent-seeking measure that begun what I call the Subprime AI Crisis, where model providers begin jacking up the prices on their previously subsidized rates.<br />
+        <br />
+        Although Cursor obtains the majority of its compute from Anthropic — with AWS contributing a relatively small amount, and likely also taking care of other parts of its business — the data seen reveals an overall direction of travel, where the costs of compute <i>only keep on going up</i>. 
+        </blockquote>
+        Last year Anthropic likely spent more than <a href="https://www.wheresyoured.at/costs/"><i>ten times its revenue</i></a>:<br />
+        <blockquote>
+        In February of this year, The information reported that Anthropic burned $5.6 billion in 2024, and made somewhere between $400 million and $600 million in revenue<br />
+        ...<br />
+        I can confirm from a source with direct knowledge of billing that Anthropic spent $1.35 billion on Amazon Web Services in 2024, and has already spent $2.66 billion on Amazon Web Services through the end of September.<br />
+        <br />
+        Assuming that Anthropic made $600 million in revenue, this means that Anthropic spent $6.2 billion in 2024, leaving $4.85 billion in costs unaccounted for.
+        </blockquote>
+        Zitron notes that Anthropic is "<a href="https://www.wheresyoured.at/costs/">making it up in volume</a>":<br />
+        <blockquote>
+        Based on what I have been party to, the more successful Anthropic becomes, the more its services cost. <a href="https://www.wheresyoured.at/how-to-argue-with-an-ai-booster/#if-you-plotted-the-curve-of-how-the-cost-of-inference-has-been-falling-over-time-%E2%80%94-false-the-cost-of-inference-has-gone-up-over-time">The cost of inference is clearly increasing for customers</a>, but based on its escalating monthly costs, the cost of inference appears to be high for Anthropic too, though it’s impossible to tell how much of its compute is based on training versus running inference.
+        </blockquote>
+        While it is true that training these very large models is expensive, it is a one-time cost to be amortized against the huge number of inferences made against the trained model. Alas, the huge number is so huge that it <a href="https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/">dominates the one-time cost</a>:<br />
+        <blockquote>
+        As conversations with experts and AI companies made clear, inference, not training, represents an increasing majority of AI’s energy demands and will continue to do so in the near future. It’s now estimated that 80–90% of computing power for AI is used for inference. 
+        </blockquote>
+        Which explains Zitron's <a href="https://www.wheresyoured.at/costs/">observation that</a>:<br />
+        <blockquote>
+        these costs seem to increase with the amount of money Anthropic makes, meaning that the current pricing of both subscriptions and API access seems unprofitable, and must increase dramatically — from my calculations, a 100% price increase might work, but good luck retaining every single customer and their customers too! — for this company to ever become sustainable. 
+        </blockquote>
+        This confirms my prediction of price increases in June's <a href="https://blog.dshr.org/2025/06/the-back-of-ai-envelope.html"><i>The Back Of The AI Envelope</i></a>.<br />
+        <br />
+        Zitron's post is long, detailed and very much worth reading. Go and read it.<br />
+        <br />]]>
       </description>
       <source:markdown>[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxcUZnhTqEC4hPAPlMo4I17ELbs0p9hDEd8fIaTbX9EAp-fzbrXR33eScrOvahNmwkmtwyYKwlpaf68qB-IWUeVetlF4n8PFTG0jxfV6jcW4ZKAl__QjfdyWMetFjWiMAHIW57vA07MQS9-w2JBut0kMO3yi_jcK-8pGyJUyVmgI5ZR_4m-_xfLsWlQ/w200-h96/DepreciationRates.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxcUZnhTqEC4hPAPlMo4I17ELbs0p9hDEd8fIaTbX9EAp-fzbrXR33eScrOvahNmwkmtwyYKwlpaf68qB-IWUeVetlF4n8PFTG0jxfV6jcW4ZKAl__QjfdyWMetFjWiMAHIW57vA07MQS9-w2JBut0kMO3yi_jcK-8pGyJUyVmgI5ZR_4m-_xfLsWlQ/s742/DepreciationRates.png)[Source](https://paulbutler.org/2022/the-problem-with-bitcoin-miners/)
 More than three years ago, based on Paul Butler&#39;s [_The problem with bitcoin miners_](https://paulbutler.org/2022/the-problem-with-bitcoin-miners/), I wrote [_Generally Accepted Accounting Principles_](https://blog.dshr.org/2022/05/generally-accepted-accounting-principles.html). The TL;DR was that the economic life of Bitcoin mining rigs was estimated at [16 months](https://doi.org/10.1016/j.resconrec.2021.105901), as Moore&#39;s law in a competitive ASIC market rapidly generated more power-efficient rigs. But the Bitcoin miners&#39;s accounts were using 5-year straight-line depreciation for their rigs, which was significantly increasing their nominal profits.
@@ -393,7 +659,90 @@ Elder ends with a set of [possible conclusions](https://www.ft.com/content/d4970
 &#62; - The inevitable data-centre shakeout will kill lots of AI start-ups that can’t afford to pay what compute actually costs.
 &#62; - We might be overestimating the size of the GPU market if the middle-ground — meaning regular companies that want OpenAI and Anthropic to make their chatbots, summarisation tools and similar AI widgets — turns out to be [worth less than $3tn](https://www.ft.com/content/7052c560-4f31-4f45-bed0-cbc84453b3ce).
 
-Those are all good points.</source:markdown>
+Those are all good points.
+
+### Update
+
+I need to update today&#39;s post to cover two important posts I missed:
+
+- Will Lockett&#39;s [_The AI Bubble Is Far Worse Than We Thought_](https://wlockett.medium.com/the-ai-bubble-is-far-worse-than-we-thought-f070a70a90d7) from 13th October. It describes the size of the debt fuelling the AI platform&#39;s tsunami of spending.
+- Ed Zitron&#39;s [_This Is How Much Anthropic and Cursor Spend On Amazon Web Services_](https://www.wheresyoured.at/costs/) from yesterday. It provides evidence for their vast excess of costs over income.
+
+Together, they greatly amplify the message that when the IA bubble bursts, the damage will not be confined to the AI platforms, or even to technology stocks, but it will impact the banks and private capital lenders.
+
+#### Will Lockett
+
+Lockett starts from an analysis by Julien Garran of MacroStrategy Partnership, pointing to the mismatch between the enormous investments the AI platforms are making and the lack of any sustainable business model to generate the [$2T/year in new revenue](https://www.bain.com/about/media-center/press-releases/20252/$2-trillion-in-new-revenue-needed-to-fund-ais-scaling-trend---bain--companys-6th-annual-global-technology-report/) needed to provide a return.
+
+So far, Garran&#39;s analysis is hardly original, [but](https://wlockett.medium.com/the-ai-bubble-is-far-worse-than-we-thought-f070a70a90d7):
+
+&#62; Garran used the economic analysis pioneered by economist Knut Wicksell to establish the size of this investing discrepancy, the 2008 bubble, and the dot-com bubble, and that is how he learned that **the AI bubble is currently four times the size of the 2008 bubble at its peak!**
+
+Lockett asks &#34; [is the AI bubble as connected to the outside world?](https://wlockett.medium.com/the-ai-bubble-is-far-worse-than-we-thought-f070a70a90d7)&#34;:
+
+&#62; It seems AI companies have been growing through equity financing (selling shares of the company) rather than debt financing (borrowing money). Furthermore, investment seems to be incestuous to the tech industry; for example, OpenAI’s major investors are Microsoft and Nvidia. As such, many believed that the AI bubble is actually relatively isolated from the rest of the economy and therefore might not have as significant an impact on the wider economy when it bursts.
+
+It turns out that a large slice of the bubble spending [isn&#39;t equity](https://wlockett.medium.com/the-ai-bubble-is-far-worse-than-we-thought-f070a70a90d7):
+
+&#62; Dario Perkins, managing director of global macro at TS Lombard, has found that many AI companies are increasingly using SPVs to raise significant amounts of debt financing off the books. This covers their tracks and obfuscates the debt, making it “look” like the company is running on equity finance instead. Due to this, it is incredibly difficult to get an accurate figure on how much of the AI industry’s expenditure and growth comes from debt — but we know it is a lot!
+
+Even the &#34;on the books&#34; debt [is a lot](https://wlockett.medium.com/the-ai-bubble-is-far-worse-than-we-thought-f070a70a90d7):
+
+&#62; Goldman Sachs has found that at least $141 billion of the $500 billion in capital expenses the AI industry has spent so far this year came from debt directly tied to the main corporate body through corporate credit issuances. To give you an idea of how insane that is, the entire AI industry capital expenditure in 2024 was $127 billion. In other words, the AI industry has taken on significantly more debt so far this year than it ever spent in total last year. This also means that we know that about 30% of the AI industry’s annual expenditure for this year came from “on the books” debt.
+
+And there is plenty of [&#34;off the books&#34; debt](https://wlockett.medium.com/the-ai-bubble-is-far-worse-than-we-thought-f070a70a90d7):
+
+&#62; We know that Meta is looking to raise $26 billion in debt through an SPV by the end of the year. This one deal equates to 5% of the total AI industry’s capital expenditure for this year.
+
+You have to wonder what collateral is backing this &#34;at least&#34; $167B in debt, and how it is being depreciated.
+
+#### Ed Zitron
+
+Some of the AI platforms have non-AI free cash flows that can be diverted to paying the interest on these debts, or that could be if they hadn&#39;t already been shoveled into the AI investment cash furnace. But OpenAI, Anthropic and the other pure-play AI platforms don&#39;t. In order to pay the interest without needing to raise more equity, they need to be cash flow positive. Zitron has always been skeptical that they can be, for example [writing](https://www.wheresyoured.at/oai-business/):
+
+&#62; To be abundantly clear, as it stands, OpenAI currently spends $2.35 to make $1.
+
+Now, Zitron has strong evidence that [he was right](https://www.wheresyoured.at/costs/):
+
+&#62; Based on discussions with sources with direct knowledge of their AWS billing, I am able to disclose the amounts that AI firms are spending, specifically Anthropic and AI coding company Cursor, [its largest customer](https://www.vincentschmalbach.com/cursor-is-anthropics-largest-customer-and-maxing-out-their-gpus/).
+&#62;
+&#62; I can exclusively reveal today Anthropic’s spending on Amazon Web Services for the entirety of 2024, and for every month in 2025 up until September, and that that Anthropic’s spend on compute far exceeds that previously reported.
+
+Zitron can [confirm that](https://www.wheresyoured.at/costs/):
+
+&#62; Anthropic has spent more than 100% of its estimated revenue (based on reporting in the last year) on Amazon Web Services, spending $2.66 billion on compute on an estimated $2.55 billion in revenue.
+
+And what about [Cursor?](https://www.wheresyoured.at/costs/):
+
+&#62; Additionally, Cursor’s Amazon Web Services bills more than doubled from $6.2 million in May 2025 to $12.6 million in June 2025, exacerbating a cash crunch that began when Anthropic introduced Priority Service Tiers, an aggressive rent-seeking measure that begun what I call the Subprime AI Crisis, where model providers begin jacking up the prices on their previously subsidized rates.
+&#62;
+&#62; Although Cursor obtains the majority of its compute from Anthropic — with AWS contributing a relatively small amount, and likely also taking care of other parts of its business — the data seen reveals an overall direction of travel, where the costs of compute _only keep on going up_.
+
+Last year Anthropic likely spent more than [_ten times its revenue_](https://www.wheresyoured.at/costs/):
+
+&#62; In February of this year, The information reported that Anthropic burned $5.6 billion in 2024, and made somewhere between $400 million and $600 million in revenue
+&#62;
+&#62; ...
+&#62;
+&#62; I can confirm from a source with direct knowledge of billing that Anthropic spent $1.35 billion on Amazon Web Services in 2024, and has already spent $2.66 billion on Amazon Web Services through the end of September.
+&#62;
+&#62; Assuming that Anthropic made $600 million in revenue, this means that Anthropic spent $6.2 billion in 2024, leaving $4.85 billion in costs unaccounted for.
+
+Zitron notes that Anthropic is &#34; [making it up in volume](https://www.wheresyoured.at/costs/)&#34;:
+
+&#62; Based on what I have been party to, the more successful Anthropic becomes, the more its services cost. [The cost of inference is clearly increasing for customers](https://www.wheresyoured.at/how-to-argue-with-an-ai-booster/#if-you-plotted-the-curve-of-how-the-cost-of-inference-has-been-falling-over-time-%E2%80%94-false-the-cost-of-inference-has-gone-up-over-time), but based on its escalating monthly costs, the cost of inference appears to be high for Anthropic too, though it’s impossible to tell how much of its compute is based on training versus running inference.
+
+While it is true that training these very large models is expensive, it is a one-time cost to be amortized against the huge number of inferences made against the trained model. Alas, the huge number is so huge that it [dominates the one-time cost](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/):
+
+&#62; As conversations with experts and AI companies made clear, inference, not training, represents an increasing majority of AI’s energy demands and will continue to do so in the near future. It’s now estimated that 80–90% of computing power for AI is used for inference.
+
+Which explains Zitron&#39;s [observation that](https://www.wheresyoured.at/costs/):
+
+&#62; these costs seem to increase with the amount of money Anthropic makes, meaning that the current pricing of both subscriptions and API access seems unprofitable, and must increase dramatically — from my calculations, a 100% price increase might work, but good luck retaining every single customer and their customers too! — for this company to ever become sustainable.
+
+This confirms my prediction of price increases in June&#39;s [_The Back Of The AI Envelope_](https://blog.dshr.org/2025/06/the-back-of-ai-envelope.html).
+
+Zitron&#39;s post is long, detailed and very much worth reading. Go and read it.</source:markdown>
       <author>noreply@blogger.com (David.)</author>
       <guid>cid://tag:blogger.com,1999:blog-4503292949532760618.post-7959402795816862276</guid>
     </item>    <item>

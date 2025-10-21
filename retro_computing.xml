@@ -4,10 +4,27 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>21 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>21 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Xubuntu Site Possibly Hacked</title>
+      <link>http://www.linux-magazine.com/Online/News/Xubuntu-Site-Possibly-Hacked</link>
+      <description>
+        <![CDATA[<p>It appears that the Xubuntu site was hacked and briefly served up a malicious ZIP file from its download page.</p>]]>
+      </description>
+      <source:markdown>It appears that the Xubuntu site was hacked and briefly served up a malicious ZIP file from its download page.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://19c51bcb716fde50c52dcf0a6a12e83f</guid>
+    </item>    <item>
+      <title>b.log 2025/10/21 - Shein and the missing parcel, Tea v0.25c.</title>
+      <link>https://heyrick.eu/blog/entry/20251021</link>
+      <description>
+        <![CDATA[Shein and the missing parcel, Tea v0.25c.]]>
+      </description>
+      <source:markdown>Shein and the missing parcel, Tea v0.25c.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20251021</guid>
+    </item>    <item>
       <title>KIM KIM-1 which is what?</title>
       <link>http://retro.hansotten.nl/kim-tim-kim-1-which-is-what/</link>
       <description>
