@@ -4,10 +4,212 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>22 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>22 Oct 25 11:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Salt Typhoon hit governments on three continents with SharePoint attacks</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/22/salt_typhoon_sharepoint_attacks/</link>
+      <description>
+        <![CDATA[<h4>Plus spy helping spy: Typhoons teaming up</h4> <p>Security researchers now say more Chinese crews - likely including Salt Typhoon - than previously believed exploited a critical Microsoft SharePoint vulnerability, and used the flaw to target government agencies, telecommunications providers, a university, and a finance company across multiple continents.…</p>]]>
+      </description>
+      <source:markdown>#### Plus spy helping spy: Typhoons teaming up
+
+Security researchers now say more Chinese crews - likely including Salt Typhoon - than previously believed exploited a critical Microsoft SharePoint vulnerability, and used the flaw to target government agencies, telecommunications providers, a university, and a finance company across multiple continents.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242606</guid>
+    </item>    <item>
+      <title>See Renoir&#39;s Rare Drawings on Display in the First Exhibition of Its Kind Since 1921</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-renoirs-rare-drawings-on-display-in-the-first-exhibition-of-its-kind-since-1921-180987546/</link>
+      <description>
+        <![CDATA[Around 100 of the French Impressionist painter's lesser-known paper works are now on view at New York City's Morgan Library and Museum]]>
+      </description>
+      <source:markdown>Around 100 of the French Impressionist painter&#39;s lesser-known paper works are now on view at New York City&#39;s Morgan Library and Museum</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/j33Rb-j9jVHX0fvHvNrunguBay8=/420x240/filters:focal(750x493:751x494)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/08/69/086904a6-464b-447e-908c-572b4daba915/16_sheet_studies_dorsay_087-13-599248.jpg" length="" type="" />
+    </item>    <item>
+      <title>TI CEO says some customers still wary of Trump&#39;s import tax roulette</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/22/tales_of_tariff_trepidation_at/</link>
+      <description>
+        <![CDATA[<h4>Company shares lost value on slow-than-expected sales</h4> <p>The global semiconductor market is recovering, albeit at a slower pace than in previous cycles due to macroeconomic dynamics and ongoing uncertainty caused by US trade policy and tariffs, according to Texas Instruments.…</p>]]>
+      </description>
+      <source:markdown>#### Company shares lost value on slow-than-expected sales
+
+The global semiconductor market is recovering, albeit at a slower pace than in previous cycles due to macroeconomic dynamics and ongoing uncertainty caused by US trade policy and tariffs, according to Texas Instruments.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242605</guid>
+    </item>    <item>
+      <title>Defektgefahr: Datenretter raten zu Backups von älteren WD-Festplatten</title>
+      <link>https://www.heise.de/news/Defektgefahr-Datenretter-raten-zu-Backups-von-aelteren-WD-Festplatten-10798732.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Zahlreiche Western-Digital-Festplatten haben offenbar anfällige Firmware. Spätestens bei einem Klackern wird's gefährlich.]]>
+      </description>
+      <source:markdown>Zahlreiche Western-Digital-Festplatten haben offenbar anfällige Firmware. Spätestens bei einem Klackern wird&#39;s gefährlich.</source:markdown>
+      <guid>cid://http://heise.de/-10798732</guid>
+    </item>    <item>
+      <title>Richard Stallman: &#34;Chatbots sind Bullshit-Generatoren&#34;</title>
+      <link>https://www.heise.de/news/Richard-Stallman-Chatbots-sind-Bullshit-Generatoren-10798837.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der Gründer der Free Software Foundation macht auf Europatour auch Halt in München. Dort mahnt er zu mehr Einsatz von Open Source – gerade beim Staat.]]>
+      </description>
+      <source:markdown>Der Gründer der Free Software Foundation macht auf Europatour auch Halt in München. Dort mahnt er zu mehr Einsatz von Open Source – gerade beim Staat.</source:markdown>
+      <guid>cid://http://heise.de/-10798837</guid>
+    </item>    <item>
+      <title>AlmaLinux gives Btrfs a home after Red Hat kicked it out</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/22/btrfs_almalinux/</link>
+      <description>
+        <![CDATA[<h4>Not the default file system, but in the installer if you want it</h4> <p>AlmaLinux is to support the Btrfs file system in version 10.1 of its eponymous RHELative operating system.…</p>]]>
+      </description>
+      <source:markdown>#### Not the default file system, but in the installer if you want it
+
+AlmaLinux is to support the Btrfs file system in version 10.1 of its eponymous RHELative operating system.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242604</guid>
+    </item>    <item>
+      <title>Microsoft puts Office Online Server on the chopping block</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/22/microsoft_office_online_server/</link>
+      <description>
+        <![CDATA[<h4>The end is nigh, now get thee to 365</h4> <p>Microsoft will kill Office Online Server next year, creating a headache for anyone using on-premises Office web applications and the beleaguered holdouts sticking with Skype for Business Server.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### The end is nigh, now get thee to 365
+
+Microsoft will kill Office Online Server next year, creating a headache for anyone using on-premises Office web applications and the beleaguered holdouts sticking with Skype for Business Server.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242601</guid>
+    </item>    <item>
+      <title>Grounded jet engines take off again as datacenter generators</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/22/datacenter_jet_engines/</link>
+      <description>
+        <![CDATA[<h4>AI power demands drive operators to repurpose aircraft parts amid gas turbine shortages</h4> <p>AI-driven datacenter energy needs are causing a shortage of gas turbines to power generators, with some operators reportedly turning to old aircraft engines instead.…</p>]]>
+      </description>
+      <source:markdown>#### AI power demands drive operators to repurpose aircraft parts amid gas turbine shortages
+
+AI-driven datacenter energy needs are causing a shortage of gas turbines to power generators, with some operators reportedly turning to old aircraft engines instead.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242600</guid>
+    </item>    <item>
+      <title>heise+ | Marionettentheater &#34;Kleines Spiel&#34;: Münchens wohl ältester Makerspace</title>
+      <link>https://www.heise.de/hintergrund/Marionettentheater-Kleines-Spiel-Muenchens-wohl-aeltester-Makerspace-10637590.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[In dem Theater "Kleines Spiel" für Erwachsene erwachen seit fast 80 Jahren ganze Welten mithilfe alter und brandneuer Technik auf kleinstem Raum zum Leben.]]>
+      </description>
+      <source:markdown>In dem Theater &#34;Kleines Spiel&#34; für Erwachsene erwachen seit fast 80 Jahren ganze Welten mithilfe alter und brandneuer Technik auf kleinstem Raum zum Leben.</source:markdown>
+      <guid>cid://http://heise.de/-10637590</guid>
+    </item>    <item>
+      <title>Falschinformation durch KI: 45 Prozent der Antworten fehlerhaft</title>
+      <link>https://www.heise.de/news/Europaeische-Rundfunkunion-KI-Systeme-geben-Nachrichteninhalte-oft-falsch-wider-10796779.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Im Rahmen einer Studie interpretierten ChatGPT & Co. in 45 Prozent der Fälle Nachrichteninhalte fehlerhaft – unabhängig von Sprache, Region oder Plattform.]]>
+      </description>
+      <source:markdown>Im Rahmen einer Studie interpretierten ChatGPT &#38; Co. in 45 Prozent der Fälle Nachrichteninhalte fehlerhaft – unabhängig von Sprache, Region oder Plattform.</source:markdown>
+      <guid>cid://http://heise.de/-10796779</guid>
+    </item>    <item>
+      <title>Google präsentiert neuen Quantenalgorithmus &#34;Quantum Echoes&#34;</title>
+      <link>https://www.heise.de/news/Google-praesentiert-neuen-Quantenalgorithmus-Quantum-Echos-10794626.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[13.000-mal schneller als herkömmliche Methoden: Googles Algorithmus dreht die Zeit zurück und bringt reale Anwendungen für Quantencomputer in greifbare Nähe.]]>
+      </description>
+      <source:markdown>13.000-mal schneller als herkömmliche Methoden: Googles Algorithmus dreht die Zeit zurück und bringt reale Anwendungen für Quantencomputer in greifbare Nähe.</source:markdown>
+      <guid>cid://http://heise.de/-10794626</guid>
+    </item>    <item>
+      <title>Bericht: Apple fährt iPhone-Air-Produktion massiv herunter</title>
+      <link>https://www.heise.de/news/Bericht-Apple-faehrt-iPhone-Air-Produktion-massiv-herunter-10794765.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Während iPhone 17 und 17 Pro die Erwartungen übertreffen, bremst Apple die Fertigung des iPhone Air angeblich drastisch. Dies ist jetzt aus Asien zu hören.]]>
+      </description>
+      <source:markdown>Während iPhone 17 und 17 Pro die Erwartungen übertreffen, bremst Apple die Fertigung des iPhone Air angeblich drastisch. Dies ist jetzt aus Asien zu hören.</source:markdown>
+      <guid>cid://http://heise.de/-10794765</guid>
+    </item>    <item>
+      <title>Dropping Nvidia for Amazon&#39;s custom chips helped gene therapy startup Metagenomi cut AI bill 56%</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/22/aws_metagenomi_ai_inferentia/</link>
+      <description>
+        <![CDATA[<h4>It&#39;s not the size of your accelerator, it&#39;s how you use it</h4> <p>Gene editing startup Metagenomi has tapped AWS&#39;s Inferentia 2 accelerators to speed the discovery of potentially life-saving therapies, and said its efforts cost 56 percent less than it would have incurred using Nvidia GPUs.…</p>]]>
+      </description>
+      <source:markdown>#### It&#39;s not the size of your accelerator, it&#39;s how you use it
+
+Gene editing startup Metagenomi has tapped AWS&#39;s Inferentia 2 accelerators to speed the discovery of potentially life-saving therapies, and said its efforts cost 56 percent less than it would have incurred using Nvidia GPUs.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242590</guid>
+    </item>    <item>
+      <title>heise+ | Apple Vision Pro M5 im Test: Doppelt hält besser</title>
+      <link>https://www.heise.de/tests/Apple-Vision-Pro-M5-im-Test-Doppelt-haelt-besser-10793698.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Mit M5-Speed und gewichtigem Kopfband: Unser Test klärt, ob die Neuerungen der Vision Pro M5 einen handfesten Unterschied machen.]]>
+      </description>
+      <source:markdown>Mit M5-Speed und gewichtigem Kopfband: Unser Test klärt, ob die Neuerungen der Vision Pro M5 einen handfesten Unterschied machen.</source:markdown>
+      <guid>cid://http://heise.de/-10793698</guid>
+    </item>    <item>
+      <title>OpenBSD 7.8 released</title>
+      <link>https://www.osnews.com/story/143619/openbsd-7-8-released/</link>
+      <description>
+        <![CDATA[Like clockwork, every six months, we have a new OpenBSD release. OpenBSD 7.8 adds support for the Raspberry Pi 5, tons of improvements to sleep, wake, and hibernate, the TCP stack can now run in parallel on multiple processors, and so much more. DRM has been updated to match Linux 6.12.50, and drivers for the Qualcomm Snapdragon DRM subsystem and Qualcomm DisplayPort controller were added as well. The changelog is, as always, long and detailed, so head on over for the finer details. OpenBSD users will know how to upgrade, and new users can visit the download page.]]>
+      </description>
+      <source:markdown>Like clockwork, every six months, we have a new OpenBSD release. OpenBSD 7.8 adds support for the Raspberry Pi 5, tons of improvements to sleep, wake, and hibernate, the TCP stack can now run in parallel on multiple processors, and so much more. DRM has been updated to match Linux 6.12.50, and drivers for the Qualcomm Snapdragon DRM subsystem and Qualcomm DisplayPort controller were added as well. The changelog is, as always, long and detailed, so head on over for the finer details. OpenBSD users will know how to upgrade, and new users can visit the download page.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143619</guid>
+    </item>    <item>
+      <title>Kommentar zum Totalausfall bei AWS: Nichts gelernt in den letzten 30 Jahren</title>
+      <link>https://www.heise.de/meinung/Kommentar-zum-Totalausfall-bei-AWS-Nichts-gelernt-in-den-letzten-30-Jahren-10794622.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Nach dem jüngsten AWS-Ausfall muss angeblich die Multi-Cloud her. Aber das führt in die Irre – die US-Abhängigkeit ist das Kernproblem, meint Martin Loschwitz.]]>
+      </description>
+      <source:markdown>Nach dem jüngsten AWS-Ausfall muss angeblich die Multi-Cloud her. Aber das führt in die Irre – die US-Abhängigkeit ist das Kernproblem, meint Martin Loschwitz.</source:markdown>
+      <guid>cid://http://heise.de/-10794622</guid>
+    </item>    <item>
+      <title>What about the icons in pifmgr.dll?</title>
+      <link>https://www.osnews.com/story/143615/what-about-the-icons-in-pifmgr-dll/</link>
+      <description>
+        <![CDATA[Raymond Chen has another great post about some of the classic icons from Windows 95, this time focusing on pifmgr.dll. In this file, there are a variety of random-seeming icons, and it turns out they&#8217;re random for a reason: they were just a bunch a fun, generic icons intended for people to use when creating PIF files. The icons in pifmgr.dll were created just for fun. They were not created with any particular programs in mind, with one obvious exception. They were just a fun mix of icons for people to use for their own homemade shortcut files. ↫ Raymond Chen at The Old New Thing For those of us who didn&#8217;t grow up with Windows, or who, god forbid, are too young to know, PIF or personal information files are effectively shortcuts to DOS programs for use in a multitasking environment. A PIF file would not only point to the relevant DOS executable, but also contain information about the environment in which said executable was supposed to run. Their history goes back to IBM&#8217;s TopView, and Microsoft later embraced and adapted them for use in Windows.]]>
+      </description>
+      <source:markdown>Raymond Chen has another great post about some of the classic icons from Windows 95, this time focusing on pifmgr.dll. In this file, there are a variety of random-seeming icons, and it turns out they’re random for a reason: they were just a bunch a fun, generic icons intended for people to use when creating PIF files. The icons in pifmgr.dll were created just for fun. They were not created with any particular programs in mind, with one obvious exception. They were just a fun mix of icons for people to use for their own homemade shortcut files. ↫ Raymond Chen at The Old New Thing For those of us who didn’t grow up with Windows, or who, god forbid, are too young to know, PIF or personal information files are effectively shortcuts to DOS programs for use in a multitasking environment. A PIF file would not only point to the relevant DOS executable, but also contain information about the environment in which said executable was supposed to run. Their history goes back to IBM’s TopView, and Microsoft later embraced and adapted them for use in Windows.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143615</guid>
+    </item>    <item>
+      <title>UK competition cops brand Apple, Google with &#39;strategic market status&#39; for mobile</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/22/google_apple_sms_uk/</link>
+      <description>
+        <![CDATA[<h4>Designation hands CMA broad oversight of their app stores and platforms</h4> <p>The UK&#39;s competition watchdog has officially slapped Apple and Google with &#34;strategic market status,&#34; a new legal label that gives the regulator far-reaching powers to rein in how the tech giants run their empires.…</p>]]>
+      </description>
+      <source:markdown>#### Designation hands CMA broad oversight of their app stores and platforms
+
+The UK&#39;s competition watchdog has officially slapped Apple and Google with &#34;strategic market status,&#34; a new legal label that gives the regulator far-reaching powers to rein in how the tech giants run their empires.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242603</guid>
+    </item>    <item>
+      <title>Understanding driver updates through Windows Update</title>
+      <link>https://www.osnews.com/story/143613/understanding-driver-updates-through-windows-update/</link>
+      <description>
+        <![CDATA[Microsoft has published a set of short questions and answers about driver updates through Windows Update, and there&#8217;s one tidbit in there I found interesting. Driver dates might look old, but that is not true. The driver date is descriptive info set by the driver provider and can be any date they choose. When determining which driver to install, Windows Update uses targeting information set by the provider inside the driver files to determine the best driver. This lets the device provider promote the best driver, regardless of the chosen date.  ↫ Microsoft knowledge base article Whenever I do have to fiddle with Windows machines, I always wondered about why some drivers in Windows Update would show some seriously old dates. It turns out the answer is as obvious as it always tends to be: OEMs.]]>
+      </description>
+      <source:markdown>Microsoft has published a set of short questions and answers about driver updates through Windows Update, and there’s one tidbit in there I found interesting. Driver dates might look old, but that is not true. The driver date is descriptive info set by the driver provider and can be any date they choose. When determining which driver to install, Windows Update uses targeting information set by the provider inside the driver files to determine the best driver. This lets the device provider promote the best driver, regardless of the chosen date.  ↫ Microsoft knowledge base article Whenever I do have to fiddle with Windows machines, I always wondered about why some drivers in Windows Update would show some seriously old dates. It turns out the answer is as obvious as it always tends to be: OEMs.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143613</guid>
+    </item>    <item>
+      <title>Xiaomi 15T Pro im Test: Dieses Smartphone ist der Geheimtipp des Jahres</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/xiaomi-15t-pro-im-test-dieses-smartphone-ist-der-geheimtipp-des-jahres/36d5n4j?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das Xiaomi 15T Pro vereint Top-Kamera, starke Performance und lange Akkulaufzeit zum fairen Preis. Ist das der neue Underdog unter den Smartphones?]]>
+      </description>
+      <source:markdown>Das Xiaomi 15T Pro vereint Top-Kamera, starke Performance und lange Akkulaufzeit zum fairen Preis. Ist das der neue Underdog unter den Smartphones?</source:markdown>
+      <guid>cid://http://heise.de/-10794598</guid>
+    </item>    <item>
+      <title>The Game Theory of How Algorithms Can Drive Up Prices</title>
+      <link>https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/</link>
+      <description>
+        <![CDATA[Recent findings reveal that even simple pricing algorithms can make things more expensive.             <p>The post <a href="https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/" target="_blank">The Game Theory of How Algorithms Can Drive Up Prices</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Recent findings reveal that even simple pricing algorithms can make things more expensive.
+
+The post [The Game Theory of How Algorithms Can Drive Up Prices](https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=155819</guid>
+    </item>    <item>
+      <title>Forking confusing: Vulnerable Rust crate exposes uv Python packager</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/22/vulnerable_rust_crate/</link>
+      <description>
+        <![CDATA[<h4>Forks of forks of forks, but which ones are patched?</h4> <p>A vulnerability in the popular Rust crate async-tar has affected the fast uv Python package manager, which uses a forked version that&#39;s now patched – but the most widely downloaded version remains unfixed.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Forks of forks of forks, but which ones are patched?
+
+A vulnerability in the popular Rust crate async-tar has affected the fast uv Python package manager, which uses a forked version that&#39;s now patched – but the most widely downloaded version remains unfixed.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242597</guid>
+    </item>    <item>
+      <title>heise+ | Amateurfunk: Ein Einblick in das faszinierende Hobby</title>
+      <link>https://www.heise.de/hintergrund/Amateurfunk-Ein-Einblick-in-das-faszinierende-Hobby-10789101.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Mit Funkgerät, Antenne und Leidenschaft: Zwei Funkamateure zeigen, wie man sich weltweit via Funk verbindet. Ein Videobeitrag.]]>
+      </description>
+      <source:markdown>Mit Funkgerät, Antenne und Leidenschaft: Zwei Funkamateure zeigen, wie man sich weltweit via Funk verbindet. Ein Videobeitrag.</source:markdown>
+      <guid>cid://http://heise.de/-10789101</guid>
+    </item>    <item>
       <title>heise+ | c’t-Story: Das Erbe</title>
       <link>https://www.heise.de/hintergrund/c-t-Story-Das-Erbe-10643408.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
       <description>
@@ -24,7 +226,15 @@
       <source:markdown>Das &#34;KI-Update&#34; liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.</source:markdown>
       <guid>cid://http://heise.de/-10794095</guid>
     </item>    <item>
-      <title>OpenInfra Foundation: KI, digitale Souveränität und OpenStack</title>
+      <title>Meet Henri Rousseau, the Untrained Artist Who Wouldn&#39;t Quit Painting—Despite the Ridicule He Received From Critics</title>
+      <link>https://www.smithsonianmag.com/smart-news/meet-henri-rousseau-the-untrained-artist-who-wouldnt-quit-painting-despire-the-ridicule-he-received-from-critics-180987548/</link>
+      <description>
+        <![CDATA[A new retrospective at the Barnes Foundation in Philadelphia examines the career of the 20th-century French painter, who toiled in obscurity for most of his life]]>
+      </description>
+      <source:markdown>A new retrospective at the Barnes Foundation in Philadelphia examines the career of the 20th-century French painter, who toiled in obscurity for most of his life</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/7zMswz7AwVK4d4agdEiMTK2TNzQ=/420x240/filters:focal(2111x1407:2112x1408)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c9/68/c968af0f-7ad8-4599-84af-1411c25c2cdb/6461939_1.jpeg" length="" type="" />
+    </item>    <item>
+      <title>OpenInfra Foundation: Die zu vorsichtige VMware-Alternative</title>
       <link>https://www.heise.de/news/OpenInfra-Foundation-KI-digitale-Souveraenitaet-und-OpenStack-10794522.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
         <![CDATA[Die OpenInfra Foundation diskutierte auf ihrer Hauskonferenz digitale Souveränität, KI und OpenStack. Doch der Start einer VMware-Alternative kam zu kurz.]]>
@@ -35,9 +245,9 @@
       <title>Drohende Chipkrise: VW spricht von &#34;dynamischer Lage&#34;, Mercedes bleibt gelassen</title>
       <link>https://www.heise.de/news/Drohende-Chipkrise-VW-spricht-von-dynamischer-Lage-Mercedes-bleibt-gelassen-10794555.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
-        <![CDATA[Produktionsengpässen durch das Lieferverbot für den Halbleiterhersteller Nexperia sieht man bei Mercedes gelassen entgegen, bei VW hält man sie für möglich.]]>
+        <![CDATA[Produktionsengpässen durch das Lieferverbot für den Halbleiterhersteller Nexperia sieht Mercedes gelassen entgegen, VW hält sie für möglich.]]>
       </description>
-      <source:markdown>Produktionsengpässen durch das Lieferverbot für den Halbleiterhersteller Nexperia sieht man bei Mercedes gelassen entgegen, bei VW hält man sie für möglich.</source:markdown>
+      <source:markdown>Produktionsengpässen durch das Lieferverbot für den Halbleiterhersteller Nexperia sieht Mercedes gelassen entgegen, VW hält sie für möglich.</source:markdown>
       <guid>cid://http://heise.de/-10794555</guid>
     </item>    <item>
       <title>Hackbarer KI-Pod auf Kickstarter</title>

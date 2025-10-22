@@ -4,10 +4,47 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>22 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>22 Oct 25 11:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Indiscreet Jewels, by Denis Diderot</title>
+      <link>https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman</link>
+      <description>
+        <![CDATA[The Sultan of the Congo brings about philosophical inquiry and scandal when he is granted a magical ring that permits him to compel speech from the vaginas of the women of his court.]]>
+      </description>
+      <source:markdown>The Sultan of the Congo brings about philosophical inquiry and scandal when he is granted a magical ring that permits him to compel speech from the vaginas of the women of his court.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman/downloads/denis-diderot_the-indiscreet-jewels_r-freeman.epub?source=feed" length="698971" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman</guid>
+    </item>    <item>
+      <title>The Clue, by Carolyn Wells</title>
+      <link>https://standardebooks.org/ebooks/carolyn-wells/the-clue</link>
+      <description>
+        <![CDATA[A young woman is found dead under mysterious circumstances, and the discovery of a single but significant clue ends up uncovering more than anyone could have expected.]]>
+      </description>
+      <source:markdown>A young woman is found dead under mysterious circumstances, and the discovery of a single but significant clue ends up uncovering more than anyone could have expected.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/carolyn-wells/the-clue/downloads/carolyn-wells_the-clue.epub?source=feed" length="568828" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/carolyn-wells/the-clue</guid>
+    </item>    <item>
+      <title>Happy Internet Archive Day!</title>
+      <link>https://blog.archive.org/2025/10/22/happy-internet-archive-day/</link>
+      <description>
+        <![CDATA[The San Francisco Board of Supervisors has officially declared October 22, 2025, as Internet Archive Day in the City and County of San Francisco. Sponsored by Supervisor Connie Chan (District [&#8230;]]]>
+      </description>
+      <source:markdown>The San Francisco Board of Supervisors has officially declared October 22, 2025, as Internet Archive Day in the City and County of San Francisco. Sponsored by Supervisor Connie Chan (District \[…\]</source:markdown>
+      <guid>cid://https://blog.archive.org/?p=29456</guid>
+    </item>    <item>
+      <title>Federal Funding Cuts and Research Universities</title>
+      <link>https://sr.ithaka.org/blog/federal-funding-cuts-and-research-universities/</link>
+      <description>
+        <![CDATA[<p>Today, we are sharing a new resource tracking the costs of the administration’s actions on the people who make the research enterprise possible. As universities adjust their budgets to reflect these new realities, we are seeing what is likely the first wave of layoffs and program cuts. These cuts have immediate consequences for both university staff, faculty, and students and on local economies. The loss of the human expertise required to conduct and administer research, and reduced opportunities for new researchers to enter their chosen fields, will have downstream effects on scientific discovery and scholarship for years to come. </p>
+        <p>The post <a href="https://sr.ithaka.org/blog/federal-funding-cuts-and-research-universities/">Federal Funding Cuts and Research Universities</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
+      </description>
+      <source:markdown>Today, we are sharing a new resource tracking the costs of the administration’s actions on the people who make the research enterprise possible. As universities adjust their budgets to reflect these new realities, we are seeing what is likely the first wave of layoffs and program cuts. These cuts have immediate consequences for both university staff, faculty, and students and on local economies. The loss of the human expertise required to conduct and administer research, and reduced opportunities for new researchers to enter their chosen fields, will have downstream effects on scientific discovery and scholarship for years to come.
+
+The post [Federal Funding Cuts and Research Universities](https://sr.ithaka.org/blog/federal-funding-cuts-and-research-universities/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
+      <guid>cid://https://sr.ithaka.org/?p=323845</guid>
+    </item>    <item>
       <title>Guest Post – The First Year of an Open Access Initiative in Review</title>
       <link>https://scholarlykitchen.sspnet.org/2025/10/22/guest-post-the-first-year-of-an-open-access-initiative-in-review/</link>
       <description>
@@ -18,6 +55,14 @@
 
 The post [Guest Post – The First Year of an Open Access Initiative in Review](https://scholarlykitchen.sspnet.org/2025/10/22/guest-post-the-first-year-of-an-open-access-initiative-in-review/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=61118</guid>
+    </item>    <item>
+      <title>Cambridge University Press and ROR</title>
+      <link>https://ror.org/blog/2025-10-22-cambridge-university-press-ror/</link>
+      <description>
+        <![CDATA[John Lewis, Data Operations Manager at Cambridge University Press, tells us why and how Cambridge uses ROR in this latest installment of our short case study series.]]>
+      </description>
+      <source:markdown>John Lewis, Data Operations Manager at Cambridge University Press, tells us why and how Cambridge uses ROR in this latest installment of our short case study series.</source:markdown>
+      <guid>cid://https://doi.org/10.71938/xysb-vp37</guid>
     </item>    <item>
       <title>Editorial</title>
       <link>https://journal.code4lib.org/articles/18575</link>

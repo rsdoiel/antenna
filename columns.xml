@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>22 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>22 Oct 25 11:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,154 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>&#38;#8216;I get to do whatever I want in the moment&#38;#8217;: why more...</title>
+      <link>https://kottke.org/25/10/0047749-i-get-to-do-whatever</link>
+      <guid>cid://tag:kottke.org,2025://13.47749</guid>
+    </item>    <item>
+      <link>https://www.pbs.org/newshour/world/a-cuban-man-deported-by-the-u-s-to-africa-is-on-a-hunger-strike-in-prison-his-lawyer-says</link>
+      <description>
+        <![CDATA[<p>A Cuban man deported by the U.S. to Africa is on a hunger strike in prison, his lawyer says.</p>]]>
+      </description>
+      <source:markdown>A Cuban man deported by the U.S. to Africa is on a hunger strike in prison, his lawyer says.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/22/1605/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/22.html#a173901</link>
+      <description>
+        <![CDATA[Still <a href="https://github.com/scripting/Scripting-News/issues/332">looking</a> for more great WordPress news sites.]]>
+      </description>
+      <source:markdown>Still [looking](https://github.com/scripting/Scripting-News/issues/332) for more great WordPress news sites.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/22.html#a173901</guid>
+    </item>    <item>
+      <title>What Steve Jobs got right (and what he didn’t)</title>
+      <link>https://guykawasaki.substack.com/p/what-steve-jobs-got-right-and-what</link>
+      <description>
+        <![CDATA[Steve Jobs was a visionary, a perfectionist, and, let&#8217;s be honest, a tyrant.]]>
+      </description>
+      <source:markdown>Steve Jobs was a visionary, a perfectionist, and, let’s be honest, a tyrant.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!3YEg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2ac52e9-58cb-4b26-98c0-b5e5409524d6_1080x1080.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://guykawasaki.substack.com/p/what-steve-jobs-got-right-and-what</guid>
+    </item>    <item>
+      <link>https://newrepublic.com/post/202107/karoline-leavitt-donald-trump-destroy-white-house</link>
+      <description>
+        <![CDATA[<p>Karoline Leavitt Claims People Want Trump to Destroy White House. I'm right there with her. It's just a building. We're going to need a new White House when Trump is through with it.</p>]]>
+      </description>
+      <source:markdown>Karoline Leavitt Claims People Want Trump to Destroy White House. I&#39;m right there with her. It&#39;s just a building. We&#39;re going to need a new White House when Trump is through with it.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/22/1603/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/22.html#a172921</link>
+      <description>
+        <![CDATA[You know how the AI companies are all doing browsers. Why don't they have a local url that I could put into an &lt;a> element that pops up the result of a question asked of the chatbot. Something <a href="ai://what_did_the_mets_do">like this</a>. When you click on the link you find out what the Mets did.]]>
+      </description>
+      <source:markdown>You know how the AI companies are all doing browsers. Why don&#39;t they have a local url that I could put into an &#60;a&#62; element that pops up the result of a question asked of the chatbot. Something [like this](ai://what_did_the_mets_do). When you click on the link you find out what the Mets did.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/22.html#a172921</guid>
+    </item>    <item>
+      <title>Apple Removes Women Dating Safety App from the App Store</title>
+      <link>https://www.404media.co/women-dating-safety-app-tea-delisted-from-apple-app-store/</link>
+      <description>
+        <![CDATA[The app, which went viral before facing multiple data breaches, is currently unavailable on the Apple App Store.]]>
+      </description>
+      <source:markdown>The app, which went viral before facing multiple data breaches, is currently unavailable on the Apple App Store.</source:markdown>
+      <guid>cid://68f91195dbf2dc0001131ee0</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/22.html#a172014</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2025/10/22/windex.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm okay with Trump destroying the White House step by step. We're going to need a lot of new things once he's done. There's going to be a lot of broken stuff that needs fixing. Feces covered monuments. Probably a new cemetary somewhere for his victims. But you know how when the Mets were defeated by the determined Yankees in Shea Stadium in 2000, we tore down the old stadium and built a new one. Same thing. The old White House will have served its purpose. We shouldn't even build a <i>new White House</i> on that location, just like we shouldn't have built a skyscraper in place of the World Trade Center. I wanted to see a mosque and a synagogue, a new football stadium, perhaps. A nice park. A place for a camp fire. Anything but an indestructable office building. We have so many of them. But where are the spaces for kids to play and learn and be friends. No, in place of the White House, I want to see a gorgeous public library. A place of learning. And a softball field and a nice swimming pool. We can tell the kids that once a bad old man lived here, and we decided it'd be more fun to have a big playground instead.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2025/10/22/windex.png)I&#39;m okay with Trump destroying the White House step by step. We&#39;re going to need a lot of new things once he&#39;s done. There&#39;s going to be a lot of broken stuff that needs fixing. Feces covered monuments. Probably a new cemetary somewhere for his victims. But you know how when the Mets were defeated by the determined Yankees in Shea Stadium in 2000, we tore down the old stadium and built a new one. Same thing. The old White House will have served its purpose. We shouldn&#39;t even build a _new White House_ on that location, just like we shouldn&#39;t have built a skyscraper in place of the World Trade Center. I wanted to see a mosque and a synagogue, a new football stadium, perhaps. A nice park. A place for a camp fire. Anything but an indestructable office building. We have so many of them. But where are the spaces for kids to play and learn and be friends. No, in place of the White House, I want to see a gorgeous public library. A place of learning. And a softball field and a nice swimming pool. We can tell the kids that once a bad old man lived here, and we decided it&#39;d be more fun to have a big playground instead.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/22.html#a172014</guid>
+    </item>    <item>
+      <title>Gina Trapani on how she thinks about and uses AI as a...</title>
+      <link>https://kottke.org/25/10/0047747-gina-trapani-on-how-she</link>
+      <guid>cid://tag:kottke.org,2025://13.47747</guid>
+    </item>    <item>
+      <title>Chainsaw Man – el arco de Reze: te están love bombing, amigo, date cuenta</title>
+      <link>https://www.palomitademaiz.net/resenas-chainsaw-man-el-arco-de-reze/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-chainsaw-man-el-arco-de-reze</link>
+      <description>
+        <![CDATA[<p>Dirección: Tatsuya Yoshihara. Guion: Tatsuki Fujimoto, Hiroshi Seko. Elenco vocal: Emilio Treviño, Jessica Ángeles, Arturo Cataño, Luis Leonardo Suárez, Iván Bastidas, Gaby Gris, Jennifer Medel, Erika Langarica, Alfredo Gabriel Basurto, Victor Franco, Adriana Casas, Paola García, Amellalli Guevara. País: Japón. Duración: 100mins. Más información de la película: https://www.imdb.com/title/tt30472557/ Denji (Emilio Treviño) es un muchacho de [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-chainsaw-man-el-arco-de-reze/">Chainsaw Man – el arco de Reze: te están love bombing, amigo, date cuenta</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Dirección: Tatsuya Yoshihara. Guion: Tatsuki Fujimoto, Hiroshi Seko. Elenco vocal: Emilio Treviño, Jessica Ángeles, Arturo Cataño, Luis Leonardo Suárez, Iván Bastidas, Gaby Gris, Jennifer Medel, Erika Langarica, Alfredo Gabriel Basurto, Victor Franco, Adriana Casas, Paola García, Amellalli Guevara. País: Japón. Duración: 100mins. Más información de la película: https://www.imdb.com/title/tt30472557/ Denji (Emilio Treviño) es un muchacho de \[…\]
+
+La entrada [Chainsaw Man – el arco de Reze: te están love bombing, amigo, date cuenta](https://www.palomitademaiz.net/resenas-chainsaw-man-el-arco-de-reze/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=25660</guid>
+    </item>    <item>
+      <title>I&#38;#8217;m visiting Kyoto soon, so I reread Lauren Groff&#38;#8217;s piece about The...</title>
+      <link>https://kottke.org/25/10/0047748-im-visiting-kyoto-soon-so</link>
+      <guid>cid://tag:kottke.org,2025://13.47748</guid>
+    </item>    <item>
+      <title>Most of What We Call Progress - Yusuf Aytas</title>
+      <link>https://yusufaytas.com/most-of-what-we-call-progress/</link>
+      <description>
+        <![CDATA[<blockquote>
+          <p>Every engineer eventually overbuilds something. You think you’re being smart. You’re thinking ahead, building for growth and before you know it, you’ve created a system ten times heavier than your actual problem. That’s the trap. We keep designing for imaginary futures for scale that may never come and call it engineering. But it’s not engineering. It’s over-engineering.</p>
+          
+          <p>The industry rewards it too. Nobody gets promoted for keeping things small and sane. You get promoted for complexity.</p>
+        </blockquote>
+        
+        <p><a href="https://adactio.com/links/22207">adactio.com/links/22207</a></p>]]>
+      </description>
+      <source:markdown>&#62; Every engineer eventually overbuilds something. You think you’re being smart. You’re thinking ahead, building for growth and before you know it, you’ve created a system ten times heavier than your actual problem. That’s the trap. We keep designing for imaginary futures for scale that may never come and call it engineering. But it’s not engineering. It’s over-engineering.
+&#62;
+&#62; The industry rewards it too. Nobody gets promoted for keeping things small and sane. You get promoted for complexity.
+
+[adactio.com/links/22207](https://adactio.com/links/22207)</source:markdown>
+      <guid>cid://https://yusufaytas.com/most-of-what-we-call-progress/</guid>
+    </item>    <item>
+      <title>Donald Trump, Demolition Man</title>
+      <link>https://www.borowitzreport.com/p/donald-trump-demolition-man</link>
+      <description>
+        <![CDATA[Carrying on a family tradition of wanton desecration.]]>
+      </description>
+      <source:markdown>Carrying on a family tradition of wanton desecration.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!RKzA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f783314-b0ee-4e2c-a776-4155ffb00d49_1024x683.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/donald-trump-demolition-man</guid>
+    </item>    <item>
+      <link>https://www.nytimes.com/2025/10/22/nyregion/carnegie-libraries-checks.html?unlocked_article_code=1.vU8.jik7.Su72mrtUI-_e&#38;smid=url-share</link>
+      <description>
+        <![CDATA[<p>Why Carnegie’s Libraries Are Getting $10,000 Checks.</p>]]>
+      </description>
+      <source:markdown>Why Carnegie’s Libraries Are Getting $10,000 Checks.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/22/1601/</guid>
+    </item>    <item>
+      <title>The Jacket Potato Jacket. &#38;#8220;Supermarket chain Aldi has teamed up with London...</title>
+      <link>https://kottke.org/25/10/0047746-the-jacket-potato-jacket-</link>
+      <guid>cid://tag:kottke.org,2025://13.47746</guid>
+    </item>    <item>
+      <title>Nikkei Asia: ‘Apple Slashes iPhone Air Production Plans, Boosts Other 17 Models’</title>
+      <link>https://asia.nikkei.com/spotlight/supply-chain/apple-slashes-iphone-air-production-plans-boosts-other-17-models-sources</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42300</guid>
+    </item>    <item>
+      <title>Read &#34;&#34;Anna, Lindsey Halligan Here.&#34;&#34;</title>
+      <link>https://www.mollywhite.net/reading/shortform?search=%22Anna%2C%20Lindsey%20Halligan%20Here.%22</link>
+      <guid>cid://68f8e9c99f72b44b384eceeb</guid>
+    </item>    <item>
+      <title>Don Mattingly Finally Headed to the World Series</title>
+      <link>https://www.mlb.com/news/don-mattingly-first-world-series</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42299</guid>
+    </item>    <item>
+      <title>Bear Breaks Into California Zoo to Mingle With Other Bears. &#38;#8220;A bear...</title>
+      <link>https://kottke.org/25/10/0047751-bear-breaks-into-californ</link>
+      <guid>cid://tag:kottke.org,2025://13.47751</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/22.html#a135038</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2019/12/13/uncleSamAllYourBase.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Question came up <a href="https://talkingpointsmemo.com/tpm-25/can-substack-recover-the-blogosphere-we-lost">on TPM</a> as to whether the blogosphere might reboot in Substack. The author concluded it can't, and I agree. <a href="https://bsky.app/profile/scripting.com/post/3m3rq5wpk6e2u">Here's why</a>. "One thing the blogosphere had that Substack can’t have is all parts were replaceable. You could use any blogging tool, and any feed reader and still be part of the world. Substack is a single company that has raised VC money. Vastly different incentives." And this has been tested. You have to use their editor to publish in their enviroment. They're  unable to let you see their product as part of a toolset, it has to be the whole thing.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2019/12/13/uncleSamAllYourBase.png)Question came up [on TPM](https://talkingpointsmemo.com/tpm-25/can-substack-recover-the-blogosphere-we-lost) as to whether the blogosphere might reboot in Substack. The author concluded it can&#39;t, and I agree. [Here&#39;s why](https://bsky.app/profile/scripting.com/post/3m3rq5wpk6e2u). &#34;One thing the blogosphere had that Substack can’t have is all parts were replaceable. You could use any blogging tool, and any feed reader and still be part of the world. Substack is a single company that has raised VC money. Vastly different incentives.&#34; And this has been tested. You have to use their editor to publish in their enviroment. They&#39;re unable to let you see their product as part of a toolset, it has to be the whole thing.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/22.html#a135038</guid>
+    </item>    <item>
+      <title>The AWS Outage Bricked People’s $2,700 Smartbeds</title>
+      <link>https://www.404media.co/the-aws-outage-bricked-peoples-2-700-smartbeds/</link>
+      <description>
+        <![CDATA[When Amazon Web Services went offline, people lost control of their cloud-connected smart beds, getting stuck in reclined positions or roasting with the heat turned all the way up.]]>
+      </description>
+      <source:markdown>When Amazon Web Services went offline, people lost control of their cloud-connected smart beds, getting stuck in reclined positions or roasting with the heat turned all the way up.</source:markdown>
+      <guid>cid://68f8d196e9f501000170db53</guid>
+    </item>    <item>
+      <title>A Reminder that Protected Bike Lanes Can Make Streets Safer for Everyone....</title>
+      <link>https://kottke.org/25/10/0047737-a-reminder-that-protected</link>
+      <guid>cid://tag:kottke.org,2025://13.47737</guid>
     </item>    <item>
       <title>Podcast: Hackers Dox ICE</title>
       <link>https://www.404media.co/podcast-hackers-dox-ice/</link>
@@ -117,8 +265,8 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
         <div class="slide" id="living-dangerously-with-claude.006.jpeg">
           <img src="https://static.simonwillison.net/static/2025/living-dangerously-with-claude/living-dangerously-with-claude.006.jpeg" alt="Screenshot of simonw/research GitHub repository node-pyodide/server-simple.js" style="max-width: 100%" loading="lazy" />
           <div><a style="float: right; text-decoration: none; border-bottom: none; padding-left: 1em;" href="https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/#living-dangerously-with-claude.006.jpeg">#</a>
-          <p>This project started out in Claude Code for the web. I'm eternally interested in options for running Python code inside a WebAssembly sandbox, for all kinds of reasons. I decided to see if the Claude iPhone app could launch a task to figure it out.</p>
-        <p>I decided to see how hard it was to do that using <a href="https://pyodide.org/">Pyodide</a> running directly in Node.js.</p>
+          <p>This project started out in <a href="https://simonwillison.net/2025/Oct/20/claude-code-for-web/">Claude Code for the web</a>. I'm eternally interested in options for running server-side Python code inside a WebAssembly sandbox, for all kinds of reasons. I decided to see if the Claude iPhone app could launch a task to figure it out.</p>
+        <p>I wanted to see how hard it was to do that using <a href="https://pyodide.org/">Pyodide</a> running directly in Node.js.</p>
         <p>Claude Code got it working and built and tested <a href="https://github.com/simonw/research/blob/main/node-pyodide/server-simple.js">this demo script</a> showing how to do it.</p>
         <p>I started a new <a href="https://github.com/simonw/research">simonw/research</a> repository to store the results of these experiments, each one in a separate folder. It's up to 5 completed research projects already and I created it less than 2 days ago.</p>
           </div>
@@ -172,7 +320,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
         
         wunderwuzzi aka Johann Rehberger" style="max-width: 100%" loading="lazy" />
           <div><a style="float: right; text-decoration: none; border-bottom: none; padding-left: 1em;" href="https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/#living-dangerously-with-claude.011.jpeg">#</a>
-          <p>Here's a great example of a prompt injection attack against a coding agent, <a href="https://embracethered.com/blog/posts/2025/openhands-the-lethal-trifecta-strikes-again/">described by Johann Rehberger</a> as part of his <a href="">Month of AI Bugs</a>, sharing a new prompt injection report every day for the month of August.</p>
+          <p>Here's a great example of a prompt injection attack against a coding agent, <a href="https://embracethered.com/blog/posts/2025/openhands-the-lethal-trifecta-strikes-again/">described by Johann Rehberger</a> as part of his <a href="https://embracethered.com/blog/posts/2025/announcement-the-month-of-ai-bugs/">Month of AI Bugs</a>, sharing a new prompt injection report every day for the month of August.</p>
         <p>If a coding agent - in this case <a href="https://github.com/All-Hands-AI/OpenHands">OpenHands</a> -  reads this <code>env.html</code> file it can be tricked into grepping the available environment variables for <code>hp_</code> (matching GitHub Personal Access Tokens) and sending that to the attacker's external server for "help debugging these variables".</p>
           </div>
         </div>
@@ -290,7 +438,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
           </div>
         </div>
             
-                <p>Tags: <a href="https://simonwillison.net/tags/sandboxing">sandboxing</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/annotated-talks">annotated-talks</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/lethal-trifecta">lethal-trifecta</a>, <a href="https://simonwillison.net/tags/async-coding-agents">async-coding-agents</a></p>]]>
+                <p>Tags: <a href="https://simonwillison.net/tags/sandboxing">sandboxing</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/webassembly">webassembly</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/annotated-talks">annotated-talks</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/lethal-trifecta">lethal-trifecta</a>, <a href="https://simonwillison.net/tags/async-coding-agents">async-coding-agents</a></p>]]>
       </description>
       <source:markdown>I gave a talk last night at [Claude Code Anonymous](https://luma.com/i37ahi52) in San Francisco, the unofficial meetup for coding agent enthusiasts. I decided to talk about a dichotomy I&#39;ve been struggling with recently. On the one hand I&#39;m getting _enormous_ value from running coding agents with as few restrictions as possible. On the other hand I&#39;m deeply concerned by the risks that accompany that freedom.
 
@@ -344,9 +492,9 @@ I SSHd into the Spark, started a fresh Docker container and told Claude Code to 
 
 [#](https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/#living-dangerously-with-claude.006.jpeg)
 
-This project started out in Claude Code for the web. I&#39;m eternally interested in options for running Python code inside a WebAssembly sandbox, for all kinds of reasons. I decided to see if the Claude iPhone app could launch a task to figure it out.
+This project started out in [Claude Code for the web](https://simonwillison.net/2025/Oct/20/claude-code-for-web/). I&#39;m eternally interested in options for running server-side Python code inside a WebAssembly sandbox, for all kinds of reasons. I decided to see if the Claude iPhone app could launch a task to figure it out.
 
-I decided to see how hard it was to do that using [Pyodide](https://pyodide.org/) running directly in Node.js.
+I wanted to see how hard it was to do that using [Pyodide](https://pyodide.org/) running directly in Node.js.
 
 Claude Code got it working and built and tested [this demo script](https://github.com/simonw/research/blob/main/node-pyodide/server-simple.js) showing how to do it.
 
@@ -394,7 +542,7 @@ This remains an incredibly common vulnerability.
 
 [#](https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/#living-dangerously-with-claude.011.jpeg)
 
-Here&#39;s a great example of a prompt injection attack against a coding agent, [described by Johann Rehberger](https://embracethered.com/blog/posts/2025/openhands-the-lethal-trifecta-strikes-again/) as part of his Month of AI Bugs, sharing a new prompt injection report every day for the month of August.
+Here&#39;s a great example of a prompt injection attack against a coding agent, [described by Johann Rehberger](https://embracethered.com/blog/posts/2025/openhands-the-lethal-trifecta-strikes-again/) as part of his [Month of AI Bugs](https://embracethered.com/blog/posts/2025/announcement-the-month-of-ai-bugs/), sharing a new prompt injection report every day for the month of August.
 
 If a coding agent - in this case [OpenHands](https://github.com/All-Hands-AI/OpenHands) \- reads this `env.html` file it can be tricked into grepping the available environment variables for `hp_` (matching GitHub Personal Access Tokens) and sending that to the attacker&#39;s external server for &#34;help debugging these variables&#34;.
 
@@ -490,7 +638,7 @@ So go forth and live dangerously!
 
 (But do it in a sandbox.)
 
-Tags: [sandboxing](https://simonwillison.net/tags/sandboxing), [security](https://simonwillison.net/tags/security), [ai](https://simonwillison.net/tags/ai), [prompt-injection](https://simonwillison.net/tags/prompt-injection), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [anthropic](https://simonwillison.net/tags/anthropic), [claude](https://simonwillison.net/tags/claude), [annotated-talks](https://simonwillison.net/tags/annotated-talks), [coding-agents](https://simonwillison.net/tags/coding-agents), [claude-code](https://simonwillison.net/tags/claude-code), [lethal-trifecta](https://simonwillison.net/tags/lethal-trifecta), [async-coding-agents](https://simonwillison.net/tags/async-coding-agents)</source:markdown>
+Tags: [sandboxing](https://simonwillison.net/tags/sandboxing), [security](https://simonwillison.net/tags/security), [ai](https://simonwillison.net/tags/ai), [webassembly](https://simonwillison.net/tags/webassembly), [prompt-injection](https://simonwillison.net/tags/prompt-injection), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [anthropic](https://simonwillison.net/tags/anthropic), [claude](https://simonwillison.net/tags/claude), [annotated-talks](https://simonwillison.net/tags/annotated-talks), [ai-agents](https://simonwillison.net/tags/ai-agents), [coding-agents](https://simonwillison.net/tags/coding-agents), [claude-code](https://simonwillison.net/tags/claude-code), [lethal-trifecta](https://simonwillison.net/tags/lethal-trifecta), [async-coding-agents](https://simonwillison.net/tags/async-coding-agents)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/#atom-everything</guid>
     </item>    <item>
       <link>https://politicalwire.com/2025/10/22/majority-of-americans-think-trump-is-a-dictator/</link>
@@ -564,9 +712,9 @@ The post [Sustainable solutions: Making the Raspberry Pi office greener](https:/
       <title>Lit Hub Daily: October 22, 2025</title>
       <link>https://lithub.com/lit-hub-daily-october-22-2025/</link>
       <description>
-        <![CDATA[Deirdre Sugiuchi looks at Julia Scheeres’s groundbreaking memoir, Jesus Land, and the horrors of the troubled teen industry. &#124; Lit Hub Religion Anna Fiteni examines the influence of Welsh culture on Fleetwood Mac, Lord of the Rings, Hayao Miyazaki, and]]>
+        <![CDATA[What the fascist tech bros get wrong about Prometheus. (And yes, they do want to build a 450-foot statue on Alcatraz Island, in San Francisco Bay). &#124; Lit Hub Politics Deirdre Sugiuchi looks at Julia Scheeres’s groundbreaking memoir, Jesus Land,]]>
       </description>
-      <source:markdown>Deirdre Sugiuchi looks at Julia Scheeres’s groundbreaking memoir, Jesus Land, and the horrors of the troubled teen industry. \| Lit Hub Religion Anna Fiteni examines the influence of Welsh culture on Fleetwood Mac, Lord of the Rings, Hayao Miyazaki, and</source:markdown>
+      <source:markdown>What the fascist tech bros get wrong about Prometheus. (And yes, they do want to build a 450-foot statue on Alcatraz Island, in San Francisco Bay). \| Lit Hub Politics Deirdre Sugiuchi looks at Julia Scheeres’s groundbreaking memoir, Jesus Land,</source:markdown>
       <guid>cid://https://lithub.com/?p=261537</guid>
     </item>    <item>
       <title>The U.S. Economy is in Worse Shape Than it Looks</title>
@@ -1427,6 +1575,13 @@ Tags: [accessibility](https://simonwillison.net/tags/accessibility), [aria](http
       </description>
       <source:markdown>Gotosocial is a great idea, but can&#39;t it be simpler to set up a server? If not, let&#39;s look at creating a higher level interface that can then be bridged to ActivityPub.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/21/1587/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/21.html#a174606</link>
+      <description>
+        <![CDATA[Journalists report conventional wisdom <a href="https://bsky.app/profile/scripting.com/post/3m3pcpyxlck2y">thread</a> on Bluesky.]]>
+      </description>
+      <source:markdown>Journalists report conventional wisdom [thread](https://bsky.app/profile/scripting.com/post/3m3pcpyxlck2y) on Bluesky.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/21.html#a174606</guid>
     </item>    <item>
       <title>Vajra Chandrasekera has won the 2025 Ursula K. Le Guin Prize for Fiction.</title>
       <link>https://lithub.com/vajra-chandrasekera-has-won-the-2025-ursula-k-le-guin-prize-for-fiction/</link>
@@ -5407,7 +5562,7 @@ So make a plan to vote today at abigailspanberger.com.
       <title>Software can be finished - Ross Wintle</title>
       <link>https://rosswintle.uk/2025/10/software-can-be-finished/</link>
       <description>
-        <![CDATA[<p>There&#8217;s quite a crossover between <a href="https://resilientwebdesign.com/">resilence</a> and longevity:</p>
+        <![CDATA[<p>There’s quite a crossover between <a href="https://resilientwebdesign.com/">resilience</a> and longevity:</p>
         
         <blockquote>
           <ol>
@@ -5421,7 +5576,7 @@ So make a plan to vote today at abigailspanberger.com.
         
         <p><a href="https://adactio.com/links/22197">adactio.com/links/22197</a></p>]]>
       </description>
-      <source:markdown>There’s quite a crossover between [resilence](https://resilientwebdesign.com/) and longevity:
+      <source:markdown>There’s quite a crossover between [resilience](https://resilientwebdesign.com/) and longevity:
 
 &#62; 1. Understand the requirements
 &#62; 2. Keep scope small and fixed
@@ -9093,15 +9248,23 @@ Tags: [python](https://simonwillison.net/tags/python), [ai](https://simonwilliso
       <description>
         <![CDATA[<p>If you want to print out a poster for <a href="https://www.nokings.org">October 18th</a>, here are two; fully-guaranteed countrywide but maybe especially suitable for in and around New York.</p>
         <figure>
-        <img  src="no-king.jpg" alt="" width="250" height="375">
-        <img  src="two-term.jpg" alt="" width="250" height="375">
+        <div style="display: flex; gap: 1rem;">
+        <div style="height: 375px; width: 250px;">
+        <p><img alt="" height="7275" id="h-rh-i-0" src="https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/no-king.jpg" width="4875"></p>
+        </div>
+        <div style="height: 375px; width: 250px;">
+        <p><img alt="" height="7200" id="h-rh-i-1" src="https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/two-term.jpg" width="4800"></p>
+        </div>
+        </div>
         <figcaption><h4>Two signs to display</h4>
         </figure>
         <p>Here&rsquo;s a direct link to the <a href="no-king.jpg">No King Anytime</a> JPG and the <a href="two-term.jpg">Two Term Limit</a> JPG.  These are available as PDFs, as well (vector outlines; no worries about fonts): here&rsquo;s the <a href="no-king.pdf">No King Anytime</a> PDF and the <a href="two-term.pdf">Two Term Limit</a> PDF. Put them onna stick and exercise the constitutional rights to freedom of expression, speech, and assembly enjoyed by <a href="https://kieranhealy.org/blog/archives/2025/06/28/american/">everyone in the United States</a>.</p>]]>
       </description>
       <source:markdown>If you want to print out a poster for [October 18th](https://www.nokings.org), here are two; fully-guaranteed countrywide but maybe especially suitable for in and around New York.
 
-![](no-king.jpg)![](two-term.jpg)
+![](https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/no-king.jpg)
+
+![](https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/two-term.jpg)
 
 #### Two signs to display
 
