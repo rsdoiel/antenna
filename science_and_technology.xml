@@ -4,10 +4,78 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>22 Oct 25 11:11 -0700</lastBuildDate>
+    <lastBuildDate>22 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>NextSilicon Maverick-2 promises to blow away the HPC market Nvidia left behind</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/22/nextsilicon_maverick2_fill_nvidia_hpc_void/</link>
+      <description>
+        <![CDATA[<h4>The one chip startup building accelerators for something other than AI boasts performance up 10x that of modern GPUs using a fraction the power</h4> <p>Researchers and engineers working in particle physics, materials analysis, or drug discovery haven&#39;t exactly been spoiled for choice when it comes to chips capable of the highly precise double-precision calculations that these workloads depend. NextSilicon aims to change that with Maverick-2, a chip aimed not at AI but the high-performance computing (HPC) community.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### The one chip startup building accelerators for something other than AI boasts performance up 10x that of modern GPUs using a fraction the power
+
+Researchers and engineers working in particle physics, materials analysis, or drug discovery haven&#39;t exactly been spoiled for choice when it comes to chips capable of the highly precise double-precision calculations that these workloads depend. NextSilicon aims to change that with Maverick-2, a chip aimed not at AI but the high-performance computing (HPC) community.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242608</guid>
+    </item>    <item>
+      <title>These Parasitic Worms Use Static Electricity to Hitch a Ride on Flies</title>
+      <link>https://www.smithsonianmag.com/smart-news/these-parasitic-worms-use-static-electricity-to-hitch-a-ride-on-flies-180987557/</link>
+      <description>
+        <![CDATA[The tiny experiment yielded big results, showing how nematodes hop onto fruit fly hosts]]>
+      </description>
+      <source:markdown>The tiny experiment yielded big results, showing how nematodes hop onto fruit fly hosts</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/lYswxGBkJ8OqebGpX5Vrkv3VKEI=/420x240/filters:focal(1426x1646:1427x1647)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0a/4e/0a4e866f-21d6-4df2-b8ce-08136d9b5c47/fatal-attraction-elect.jpg" length="" type="" />
+    </item>    <item>
+      <title>WTF: AWS-Ausfall machte vernetzte Matratzen unbrauchbar</title>
+      <link>https://www.heise.de/news/Smarte-Matratze-nicht-schlau-Unbrauchbar-ohne-AWS-10807405.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Verbogen und zu heiß: Sündteure Matratzen haben keinen Offline-Modus. Gehen Amazon Web Services offline, können Matratzenbesitzer nicht mehr schlafen.]]>
+      </description>
+      <source:markdown>Verbogen und zu heiß: Sündteure Matratzen haben keinen Offline-Modus. Gehen Amazon Web Services offline, können Matratzenbesitzer nicht mehr schlafen.</source:markdown>
+      <guid>cid://http://heise.de/-10807405</guid>
+    </item>    <item>
+      <title>One of Frank Lloyd Wright&#39;s Rare Usonian Automatic Homes Achieves Landmark Status</title>
+      <link>https://www.smithsonianmag.com/smart-news/one-of-frank-lloyd-wrights-rare-usonian-automatic-homes-achieves-landmark-status-180987552/</link>
+      <description>
+        <![CDATA[The Kalil House, located in Manchester, New Hampshire, is one of only seven Usonian Automatics in the country]]>
+      </description>
+      <source:markdown>The Kalil House, located in Manchester, New Hampshire, is one of only seven Usonian Automatics in the country</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Q-x-O-qeT-Dls3I3r1zmnxCEQCI=/420x240/filters:focal(1434x901:1435x902)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/df/ca/dfcac665-cbe7-4ec2-a4e6-65ae85df68d9/thurman_v5_pg47_010_flw_nh_387_kalil_house_4.jpeg" length="" type="" />
+    </item>    <item>
+      <title>Meta Platforms kündigt 600 KI-Spezialisten</title>
+      <link>https://www.heise.de/news/Meta-Platforms-kuendigt-600-KI-Spezialisten-10805957.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Meta Platforms KI-Abteilung schwimmt in Geld und hat so viele Leute eingestellt, dass sie einander im Weg stehen. Jetzt müssen 600 raus.]]>
+      </description>
+      <source:markdown>Meta Platforms KI-Abteilung schwimmt in Geld und hat so viele Leute eingestellt, dass sie einander im Weg stehen. Jetzt müssen 600 raus.</source:markdown>
+      <guid>cid://http://heise.de/-10805957</guid>
+    </item>    <item>
+      <title>Reddit to Perplexity: Get your filthy hands off our forums</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/22/reddit_sues_perplexity/</link>
+      <description>
+        <![CDATA[<h4>Social media site continues legal campaign against those who take its content without a license</h4> <p>Reddit on Wednesday filed a lawsuit against Perplexity AI and three of its alleged data dealers for trafficking in unlawfully scraped information.…</p>]]>
+      </description>
+      <source:markdown>#### Social media site continues legal campaign against those who take its content without a license
+
+Reddit on Wednesday filed a lawsuit against Perplexity AI and three of its alleged data dealers for trafficking in unlawfully scraped information.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242607</guid>
+    </item>    <item>
+      <title>Urteile: Auch Aldi Nord und Edeka müssen Elektroschrott gratis zurücknehmen</title>
+      <link>https://www.heise.de/news/Urteile-Auch-Aldi-Nord-und-Edeka-muessen-Elektroschrott-gratis-zuruecknehmen-10804127.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Landgerichte haben Aldi Nord und einen Edeka-Markt dazu verurteilt, ausgediente Elektrokleingeräte unentgeltlich einzusammeln.]]>
+      </description>
+      <source:markdown>Landgerichte haben Aldi Nord und einen Edeka-Markt dazu verurteilt, ausgediente Elektrokleingeräte unentgeltlich einzusammeln.</source:markdown>
+      <guid>cid://http://heise.de/-10804127</guid>
+    </item>    <item>
+      <title>Top 10: Das beste Mittelklasse-Smartphone im Test – Top-Kameras &#38; Displays</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-mittelklasse-smartphone-im-test-top-kameras-und-displays/z2jyxsr?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ein Flaggschiff sprengt das Budget? Dann lohnt sich ein Mittelklasse-Smartphone. Von 400 bis 600 Euro gibt es Handys mit guter Kamera und starker Ausstattung.]]>
+      </description>
+      <source:markdown>Ein Flaggschiff sprengt das Budget? Dann lohnt sich ein Mittelklasse-Smartphone. Von 400 bis 600 Euro gibt es Handys mit guter Kamera und starker Ausstattung.</source:markdown>
+      <guid>cid://http://heise.de/-10796684</guid>
+    </item>    <item>
       <title>Salt Typhoon hit governments on three continents with SharePoint attacks</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/22/salt_typhoon_sharepoint_attacks/</link>
       <description>
@@ -39,9 +107,9 @@ The global semiconductor market is recovering, albeit at a slower pace than in p
       <title>Defektgefahr: Datenretter raten zu Backups von älteren WD-Festplatten</title>
       <link>https://www.heise.de/news/Defektgefahr-Datenretter-raten-zu-Backups-von-aelteren-WD-Festplatten-10798732.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
-        <![CDATA[Zahlreiche Western-Digital-Festplatten haben offenbar anfällige Firmware. Spätestens bei einem Klackern wird's gefährlich.]]>
+        <![CDATA[Zahlreiche Western-Digital-Festplatten haben offenbar Firmware mit unerwünschten Begleiterscheinungen. Vorsicht ist geboten.]]>
       </description>
-      <source:markdown>Zahlreiche Western-Digital-Festplatten haben offenbar anfällige Firmware. Spätestens bei einem Klackern wird&#39;s gefährlich.</source:markdown>
+      <source:markdown>Zahlreiche Western-Digital-Festplatten haben offenbar Firmware mit unerwünschten Begleiterscheinungen. Vorsicht ist geboten.</source:markdown>
       <guid>cid://http://heise.de/-10798732</guid>
     </item>    <item>
       <title>Richard Stallman: &#34;Chatbots sind Bullshit-Generatoren&#34;</title>

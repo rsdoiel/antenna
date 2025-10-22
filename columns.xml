@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>22 Oct 25 11:11 -0700</lastBuildDate>
+    <lastBuildDate>22 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,410 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>2025-10-22 Bots, again. I&#39;m taking it personally.</title>
+      <link>https://alexschroeder.ch/view/2025-10-22-bots-again</link>
+      <description>
+        <![CDATA[<h1 id="2025-10-22-bots-again-i-m-taking-it-personally">2025-10-22 Bots, again. I&rsquo;m taking it personally.</h1>
+        
+        <p>My auto-blocking of bots hasn’t needed much intervention in recent weeks. The
+        current average is 10,000 blocked IP ranges.
+        If you&rsquo;re interested, there&rsquo;s a
+        <a href="https://transjovian.org/view/fight-bots/index">a description of my setup</a>.</p>
+        
+        <p><img loading="lazy" src="2025-10-22-bots-again/01K7RMQ3YVE09T7ZYGSNEMBH1H.png" alt="Lots of graphs but the important one is the yellow line that’s pretty stable around 10k." /></p>
+        
+        <p>Hah, I post the above and now load is 95 and the bots are at it.</p>
+        
+        <p>What I don’t like about Munin is that when it crashes (I assume it’s the OOM
+        reaper making the rounds), then it leaves behind a lock that prevents the
+        graph from updating. Ugh.</p>
+        
+        <p><img loading="lazy" src="2025-10-22-bots-again/01K7YKFAPMFGSC0F8EBRSM66YJ.png" alt="A Munin graph showing maximum average load being 137.51 and now back to 1.24." /></p>
+        
+        <p>If you like large language models (LLMs), know that they need regular
+        training and the people training them are ruining the web for
+        everybody. You are part of this, as a consumer.</p>
+        
+        <p>Most sites don’t have the defences required, or require the execution
+        of expensive JavaScript for the CO₂ god, or require placing all your
+        visitor’s browsing data into the hands of another company, most likely
+        CloudFlare, in the USA. If you object to any of that, you must do your
+        duty and reject the use of LLMs as well. You can’t eat your cake and
+        claim to object to the rest. It would be a most incongruent position
+        to take.</p>
+        
+        <p>And since this kind of shit often happens while
+        <a href="2025-portugal">I’m on holidays</a>, the LLM friends reading this are
+        responsible, in a very small way, for pissing on me during my
+        holidays. And I resent it.</p>
+        
+        <p>I resent it very much.</p>
+        
+        <p><img loading="lazy" src="2025-10-22-bots-again/01K7YXF66MYSEQC615WGSBECN2.png" alt="Load going up to 80, again. And back down, again." /></p>
+        
+        <p>Waking up in a hotel bed, opening the balcony doors, hearing the birds
+        sing, switching on the phone and realising that load is over 100 and
+        nothing works, switching off Emacs Wiki and Community Wiki, the
+        favourite targets of the AI scrapers and thinking of the people who
+        like to use large language models.</p>
+        
+        <p>It’s the same problem as always: drive a car, see the CO₂ in the world
+        go up, “but I need it!” – yeah, but we need an earth that supports
+        human life too, idiots. Humans, where comfort is separated from
+        consequences by time and space like to choose comfort. In this case,
+        the AI comfort leads to the shut down of the open web, the
+        centralisation of what remains, the installation of barriers, and ever
+        and always: more control for fewer people. But of course, the
+        consequences are separated by time and space from the comforts of AI
+        users.</p>
+        
+        <p>Imagine a goddess of destruction with a grim smile and a thousand
+        hands and each one of them is giving you a middle finger.</p>
+        
+        <p>Load average: 142.25</p>
+        
+        <p>I switched off Community Wiki and Emacs Wiki.</p>
+        
+        <p>Coming back after a day of excursions and things seem to be working
+        fine, if I don’t switch on those two sites. These two have been
+        unavailable for a minimum of six hours and yet in the last two hours
+        Emacs Wiki still got 3537 requests.</p>
+        
+        <p>Time to ban every network of every ASN that&rsquo;s still requesting Emacs Wiki pages.</p>
+        
+        <pre><code>2h-access-log \
+        | grep '^www\.emacswiki\.org' \
+        | log-ip \
+        | asncounter --top 50 --no-prefixes 2&gt;/dev/null \
+        | awk '/^[1-9]/ &amp;&amp; $1 &gt;= 10 { print $3 }' \
+        | xargs asn-networks \
+        | xargs fail2ban-client set butlerian-jihad-week banip
+        </code></pre>
+        
+        <p>If you&rsquo;re looking for the building blocks I&rsquo;m using, see my
+        <a href="https://alexschroeder.ch/admin/">collection of admin scripts and shell functions</a>.</p>
+        
+        <p>Hours later, I switched Emacs Wiki on for a minute and load
+        immediately rose from around 1 to nearly 4 and my SSH connection
+        became slow as molasses. It&rsquo;ll remain switched off for tonight and
+        probably tomorrow, too. It depends on the kind of wifi connection I
+        have, tomorrow.</p>
+        
+        <p>Perhaps I should just hand Emacs Wiki off to somebody who&rsquo;s more into
+        it.</p>
+        
+        <p>Switching off Community Wiki and two smaller sites as well, for now.</p>
+        
+        <p><a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23Emacs">#Emacs</a></p>
+        
+        <p><strong>2025-10-22</strong>. On IRC, twb replied to my complaints about the Munin lock being left behind:</p>
+        
+        <blockquote>
+        <p>if you have systemd, just set RuntimeDirectory=%p and systemd will clean it up</p>
+        </blockquote>
+        
+        <p>Also, he&rsquo;s running <a href="https://github.com/trentbuck/collection4/blob/main/debian/service">collection4</a> instead of Munin.</p>]]>
+      </description>
+      <source:markdown># 2025-10-22 Bots, again. I’m taking it personally.
+
+My auto-blocking of bots hasn’t needed much intervention in recent weeks. The
+current average is 10,000 blocked IP ranges.
+If you’re interested, there’s a
+[a description of my setup](https://transjovian.org/view/fight-bots/index).
+
+![Lots of graphs but the important one is the yellow line that’s pretty stable around 10k.](2025-10-22-bots-again/01K7RMQ3YVE09T7ZYGSNEMBH1H.png)
+
+Hah, I post the above and now load is 95 and the bots are at it.
+
+What I don’t like about Munin is that when it crashes (I assume it’s the OOM
+reaper making the rounds), then it leaves behind a lock that prevents the
+graph from updating. Ugh.
+
+![A Munin graph showing maximum average load being 137.51 and now back to 1.24.](2025-10-22-bots-again/01K7YKFAPMFGSC0F8EBRSM66YJ.png)
+
+If you like large language models (LLMs), know that they need regular
+training and the people training them are ruining the web for
+everybody. You are part of this, as a consumer.
+
+Most sites don’t have the defences required, or require the execution
+of expensive JavaScript for the CO₂ god, or require placing all your
+visitor’s browsing data into the hands of another company, most likely
+CloudFlare, in the USA. If you object to any of that, you must do your
+duty and reject the use of LLMs as well. You can’t eat your cake and
+claim to object to the rest. It would be a most incongruent position
+to take.
+
+And since this kind of shit often happens while
+[I’m on holidays](2025-portugal), the LLM friends reading this are
+responsible, in a very small way, for pissing on me during my
+holidays. And I resent it.
+
+I resent it very much.
+
+![Load going up to 80, again. And back down, again.](2025-10-22-bots-again/01K7YXF66MYSEQC615WGSBECN2.png)
+
+Waking up in a hotel bed, opening the balcony doors, hearing the birds
+sing, switching on the phone and realising that load is over 100 and
+nothing works, switching off Emacs Wiki and Community Wiki, the
+favourite targets of the AI scrapers and thinking of the people who
+like to use large language models.
+
+It’s the same problem as always: drive a car, see the CO₂ in the world
+go up, “but I need it!” – yeah, but we need an earth that supports
+human life too, idiots. Humans, where comfort is separated from
+consequences by time and space like to choose comfort. In this case,
+the AI comfort leads to the shut down of the open web, the
+centralisation of what remains, the installation of barriers, and ever
+and always: more control for fewer people. But of course, the
+consequences are separated by time and space from the comforts of AI
+users.
+
+Imagine a goddess of destruction with a grim smile and a thousand
+hands and each one of them is giving you a middle finger.
+
+Load average: 142.25
+
+I switched off Community Wiki and Emacs Wiki.
+
+Coming back after a day of excursions and things seem to be working
+fine, if I don’t switch on those two sites. These two have been
+unavailable for a minimum of six hours and yet in the last two hours
+Emacs Wiki still got 3537 requests.
+
+Time to ban every network of every ASN that’s still requesting Emacs Wiki pages.
+
+```
+2h-access-log \
+| grep &#39;^www\.emacswiki\.org&#39; \
+| log-ip \
+| asncounter --top 50 --no-prefixes 2&#62;/dev/null \
+| awk &#39;/^[1-9]/ &#38;&#38; $1 &#62;= 10 { print $3 }&#39; \
+| xargs asn-networks \
+| xargs fail2ban-client set butlerian-jihad-week banip
+
+```
+
+If you’re looking for the building blocks I’m using, see my
+[collection of admin scripts and shell functions](https://alexschroeder.ch/admin/).
+
+Hours later, I switched Emacs Wiki on for a minute and load
+immediately rose from around 1 to nearly 4 and my SSH connection
+became slow as molasses. It’ll remain switched off for tonight and
+probably tomorrow, too. It depends on the kind of wifi connection I
+have, tomorrow.
+
+Perhaps I should just hand Emacs Wiki off to somebody who’s more into
+it.
+
+Switching off Community Wiki and two smaller sites as well, for now.
+
+[#Butlerian Jihad](/search/?q=%23Butlerian_Jihad) [#Emacs](/search/?q=%23Emacs)
+
+**2025-10-22**. On IRC, twb replied to my complaints about the Munin lock being left behind:
+
+&#62; if you have systemd, just set RuntimeDirectory=%p and systemd will clean it up
+
+Also, he’s running [collection4](https://github.com/trentbuck/collection4/blob/main/debian/service) instead of Munin.</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2025-10-22-bots-again</guid>
+    </item>    <item>
+      <title>October 21, 2022</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-21-2022-d07</link>
+      <enclosure url="https://api.substack.com/feed/podcast/176869683/2b39cd6e64a633855c18049a528fcd75.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-21-2022-d07</guid>
+    </item>    <item>
+      <title>Senate Republicans find the Bottom</title>
+      <link>https://robertreich.substack.com/p/is-there-a-bottom</link>
+      <description>
+        <![CDATA[Friends,]]>
+      </description>
+      <source:markdown>Friends,</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!ku78!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66ba86a0-ba27-4bad-b92b-5b06da77bb46_992x558.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/is-there-a-bottom</guid>
+    </item>    <item>
+      <title>Dane Stuckey (OpenAI CISO) on prompt injection risks for ChatGPT Atlas</title>
+      <link>https://simonwillison.net/2025/Oct/22/openai-ciso-on-atlas/#atom-everything</link>
+      <description>
+        <![CDATA[<p>My biggest complaint about the launch of the ChatGPT Atlas browser <a href="https://simonwillison.net/2025/Oct/21/introducing-chatgpt-atlas/">the other day</a> was the lack of details on how OpenAI are addressing prompt injection attacks. The <a href="https://openai.com/index/introducing-chatgpt-atlas/">launch post</a> mostly punted that question to <a href="https://openai.com/index/chatgpt-agent-system-card/">the System Card</a> for their "ChatGPT agent" browser automation feature from July. Since this was my single biggest question about Atlas I was disappointed not to see it addressed more directly.</p>
+        <p>OpenAI's Chief Information Security Officer Dane Stuckey just posted the most detail I've seen yet in <a href="https://twitter.com/cryps1s/status/1981037851279278414">a lengthy Twitter post</a>.</p>
+        <p>I'll quote from his post here (with my emphasis in bold) and add my own commentary.</p>
+        <p>He addresses the issue directly by name, with a good single-sentence explanation of the problem:</p>
+        <blockquote>
+        <p>One emerging risk we are very thoughtfully researching and mitigating is <strong>prompt injections, where attackers hide malicious instructions in websites, emails, or other sources, to try to trick the agent into behaving in unintended ways</strong>. The objective for attackers can be as simple as trying to bias the agent’s opinion while shopping, or as consequential as an attacker <strong>trying to get the agent to fetch and leak private data</strong>, such as sensitive information from your email, or credentials.</p>
+        </blockquote>
+        <p>We saw examples of browser agents from other vendors leaking private data in this way <a href="https://simonwillison.net/2025/Oct/21/unseeable-prompt-injections/">identified by the Brave security team just yesterday</a>.</p>
+        <blockquote>
+        <p>Our long-term goal is that you should be able to trust ChatGPT agent to use your browser, <strong>the same way you’d trust your most competent, trustworthy, and security-aware colleague</strong> or friend.</p>
+        </blockquote>
+        <p>This is an interesting way to frame the eventual goal, describing an extraordinary level of trust and competence.</p>
+        <p>As always, a big difference between AI systems and a human is that an AI system <a href="https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/">cannot be held accountable for its actions</a>. I'll let my trusted friend use my logged-in browser only because there are social consequences if they abuse that trust!</p>
+        <blockquote>
+        <p>We’re working hard to achieve that. For this launch, we’ve performed extensive red-teaming, implemented novel model training techniques to reward the model for ignoring malicious instructions, <strong>implemented overlapping guardrails and safety measures</strong>, and added new systems to detect and block such attacks. However, <strong>prompt injection remains a frontier, unsolved security problem, and our adversaries will spend significant time and resources to find ways to make ChatGPT agent fall for these attacks</strong>.</p>
+        </blockquote>
+        <p>I'm glad to see OpenAI's CISO openly acknowledging that prompt injection remains an unsolved security problem (three years after we <a href="https://simonwillison.net/2022/Sep/12/prompt-injection/">started talking about it</a>!).</p>
+        <p>That "adversaries will spend significant time and resources" thing is the root of why I don't see guardrails and safety measures as providing a credible solution to this problem.</p>
+        <p>As I've written before, in application security <a href="https://simonwillison.net/2023/May/2/prompt-injection-explained/#prompt-injection.015">99% is a failing grade</a>. If there's a way to get past the guardrails, no matter how obscure, a motivated adversarial attacker is going to figure that out.</p>
+        <p>Dane goes on to describe some of those measures:</p>
+        <blockquote>
+        <p>To protect our users, and to help improve our models against these attacks:</p>
+        <ol>
+        <li>We’ve prioritized rapid response systems to help us quickly identify block attack campaigns as we become aware of them.</li>
+        </ol>
+        </blockquote>
+        <p>I like this a lot. OpenAI have an advantage here of being a centralized system - they can monitor their entire user base for signs of new attack patterns.</p>
+        <p>It's still bad news for users that get caught out by a zero-day prompt injection, but it does at least mean that successful new attack patterns should have a small window of opportunity.</p>
+        <blockquote>
+        <ol start="2">
+        <li>We are also continuing to invest heavily in security, privacy, and safety - including research to improve the robustness of our models, security monitors, infrastructure security controls, and <strong>other techniques to help prevent these attacks via defense in depth</strong>.</li>
+        </ol>
+        </blockquote>
+        <p>"Defense in depth" always sounds good, but it worries me that it's setting up a false sense of security here. If it's harder but still possible someone is going to get through.</p>
+        <blockquote>
+        <ol start="3">
+        <li>We’ve designed Atlas to give you controls to help protect yourself. <strong>We have added a feature to allow ChatGPT agent to take action on your behalf, but without access to your credentials called “logged out mode”</strong>. We recommend this mode when you don’t need to take action within your accounts. <strong>Today, we think “logged in mode” is most appropriate for well-scoped actions on very trusted sites, where the risks of prompt injection are lower</strong>. Asking it to add ingredients to a shopping cart is generally safer than a broad or vague request like “review my emails and take whatever actions are needed.”</li>
+        </ol>
+        </blockquote>
+        <p>Logged out mode is very smart, and is already a tried and tested pattern. I frequently have Claude Code or Codex CLI fire up Playwright to interact with websites, safe in the knowledge that they won't have access to my logged-in sessions. ChatGPT's existing [agent mode](https://chatgpt.com/features/agent/) provides a similar capability.</p>
+        <p>Logged in mode is where things get scary, especially since we're delegating security decisions to end-users of the software. We've demonstrated many times over that this is an unfair burden to place on almost any user.</p>
+        <blockquote>
+        <ol start="4">
+        <li>
+        <strong>When agent is operating on sensitive sites, we have also implemented a "Watch Mode" that alerts you to the sensitive nature of the site and requires you have the tab active to watch the agent do its work</strong>. Agent will pause if you move away from the tab with sensitive information. This ensures you stay aware - and in control - of what agent actions the agent is performing. [...]</li>
+        </ol>
+        </blockquote>
+        <p>This detail is new to me: I need to spend more time with ChatGPT Atlas to see what it looks like in practice.</p>
+        <p>I tried just now using both GitHub and an online banking site and neither of them seemed to trigger "watch mode" - Atlas continued to navigate even when I had switched to another application.</p>
+        <p>Watch mode sounds reasonable in theory - similar to a driver-assisted car that requires you to keep your hands on the wheel - but I'd like to see it in action before I count it as a meaningful mitigation.</p>
+        <p>Dane closes with an analogy to computer viruses:</p>
+        <blockquote>
+        <p>New levels of intelligence and capability require the technology, society, the risk mitigation strategy to co-evolve. <strong>And as with computer viruses in the early 2000s, we think it’s important for everyone to understand responsible usage</strong>, including thinking about prompt injection attacks, so we can all learn to benefit from this technology safely.</p>
+        </blockquote>
+        <p>I don't think the average computer user ever really got the hang of staying clear of computer viruses... we're still fighting that battle today, albeit much more successfully on mobile platforms that implement tight restrictions on what software can do.</p>
+        <p>My takeaways from all of this? It's not done much to influence my overall skepticism of the entire category of browser agents, but it does at least demonstrate that OpenAI are keenly aware of the problems and are investing serious effort in finding the right mix of protections.</p>
+        <p>How well those protections work is something I expect will become clear over the next few months.</p>
+            
+                <p>Tags: <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/browser-agents">browser-agents</a></p>]]>
+      </description>
+      <source:markdown>My biggest complaint about the launch of the ChatGPT Atlas browser [the other day](https://simonwillison.net/2025/Oct/21/introducing-chatgpt-atlas/) was the lack of details on how OpenAI are addressing prompt injection attacks. The [launch post](https://openai.com/index/introducing-chatgpt-atlas/) mostly punted that question to [the System Card](https://openai.com/index/chatgpt-agent-system-card/) for their &#34;ChatGPT agent&#34; browser automation feature from July. Since this was my single biggest question about Atlas I was disappointed not to see it addressed more directly.
+
+OpenAI&#39;s Chief Information Security Officer Dane Stuckey just posted the most detail I&#39;ve seen yet in [a lengthy Twitter post](https://twitter.com/cryps1s/status/1981037851279278414).
+
+I&#39;ll quote from his post here (with my emphasis in bold) and add my own commentary.
+
+He addresses the issue directly by name, with a good single-sentence explanation of the problem:
+
+&#62; One emerging risk we are very thoughtfully researching and mitigating is **prompt injections, where attackers hide malicious instructions in websites, emails, or other sources, to try to trick the agent into behaving in unintended ways**. The objective for attackers can be as simple as trying to bias the agent’s opinion while shopping, or as consequential as an attacker **trying to get the agent to fetch and leak private data**, such as sensitive information from your email, or credentials.
+
+We saw examples of browser agents from other vendors leaking private data in this way [identified by the Brave security team just yesterday](https://simonwillison.net/2025/Oct/21/unseeable-prompt-injections/).
+
+&#62; Our long-term goal is that you should be able to trust ChatGPT agent to use your browser, **the same way you’d trust your most competent, trustworthy, and security-aware colleague** or friend.
+
+This is an interesting way to frame the eventual goal, describing an extraordinary level of trust and competence.
+
+As always, a big difference between AI systems and a human is that an AI system [cannot be held accountable for its actions](https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/). I&#39;ll let my trusted friend use my logged-in browser only because there are social consequences if they abuse that trust!
+
+&#62; We’re working hard to achieve that. For this launch, we’ve performed extensive red-teaming, implemented novel model training techniques to reward the model for ignoring malicious instructions, **implemented overlapping guardrails and safety measures**, and added new systems to detect and block such attacks. However, **prompt injection remains a frontier, unsolved security problem, and our adversaries will spend significant time and resources to find ways to make ChatGPT agent fall for these attacks**.
+
+I&#39;m glad to see OpenAI&#39;s CISO openly acknowledging that prompt injection remains an unsolved security problem (three years after we [started talking about it](https://simonwillison.net/2022/Sep/12/prompt-injection/)!).
+
+That &#34;adversaries will spend significant time and resources&#34; thing is the root of why I don&#39;t see guardrails and safety measures as providing a credible solution to this problem.
+
+As I&#39;ve written before, in application security [99% is a failing grade](https://simonwillison.net/2023/May/2/prompt-injection-explained/#prompt-injection.015). If there&#39;s a way to get past the guardrails, no matter how obscure, a motivated adversarial attacker is going to figure that out.
+
+Dane goes on to describe some of those measures:
+
+&#62; To protect our users, and to help improve our models against these attacks:
+&#62;
+&#62; 1. We’ve prioritized rapid response systems to help us quickly identify block attack campaigns as we become aware of them.
+
+I like this a lot. OpenAI have an advantage here of being a centralized system - they can monitor their entire user base for signs of new attack patterns.
+
+It&#39;s still bad news for users that get caught out by a zero-day prompt injection, but it does at least mean that successful new attack patterns should have a small window of opportunity.
+
+&#62; 2. We are also continuing to invest heavily in security, privacy, and safety - including research to improve the robustness of our models, security monitors, infrastructure security controls, and **other techniques to help prevent these attacks via defense in depth**.
+
+&#34;Defense in depth&#34; always sounds good, but it worries me that it&#39;s setting up a false sense of security here. If it&#39;s harder but still possible someone is going to get through.
+
+&#62; 3. We’ve designed Atlas to give you controls to help protect yourself. **We have added a feature to allow ChatGPT agent to take action on your behalf, but without access to your credentials called “logged out mode”**. We recommend this mode when you don’t need to take action within your accounts. **Today, we think “logged in mode” is most appropriate for well-scoped actions on very trusted sites, where the risks of prompt injection are lower**. Asking it to add ingredients to a shopping cart is generally safer than a broad or vague request like “review my emails and take whatever actions are needed.”
+
+Logged out mode is very smart, and is already a tried and tested pattern. I frequently have Claude Code or Codex CLI fire up Playwright to interact with websites, safe in the knowledge that they won&#39;t have access to my logged-in sessions. ChatGPT&#39;s existing \[agent mode\](https://chatgpt.com/features/agent/) provides a similar capability.
+
+Logged in mode is where things get scary, especially since we&#39;re delegating security decisions to end-users of the software. We&#39;ve demonstrated many times over that this is an unfair burden to place on almost any user.
+
+&#62; 4. **When agent is operating on sensitive sites, we have also implemented a &#34;Watch Mode&#34; that alerts you to the sensitive nature of the site and requires you have the tab active to watch the agent do its work**. Agent will pause if you move away from the tab with sensitive information. This ensures you stay aware - and in control - of what agent actions the agent is performing. \[...\]
+
+This detail is new to me: I need to spend more time with ChatGPT Atlas to see what it looks like in practice.
+
+I tried just now using both GitHub and an online banking site and neither of them seemed to trigger &#34;watch mode&#34; - Atlas continued to navigate even when I had switched to another application.
+
+Watch mode sounds reasonable in theory - similar to a driver-assisted car that requires you to keep your hands on the wheel - but I&#39;d like to see it in action before I count it as a meaningful mitigation.
+
+Dane closes with an analogy to computer viruses:
+
+&#62; New levels of intelligence and capability require the technology, society, the risk mitigation strategy to co-evolve. **And as with computer viruses in the early 2000s, we think it’s important for everyone to understand responsible usage**, including thinking about prompt injection attacks, so we can all learn to benefit from this technology safely.
+
+I don&#39;t think the average computer user ever really got the hang of staying clear of computer viruses... we&#39;re still fighting that battle today, albeit much more successfully on mobile platforms that implement tight restrictions on what software can do.
+
+My takeaways from all of this? It&#39;s not done much to influence my overall skepticism of the entire category of browser agents, but it does at least demonstrate that OpenAI are keenly aware of the problems and are investing serious effort in finding the right mix of protections.
+
+How well those protections work is something I expect will become clear over the next few months.
+
+Tags: [security](https://simonwillison.net/tags/security), [ai](https://simonwillison.net/tags/ai), [openai](https://simonwillison.net/tags/openai), [prompt-injection](https://simonwillison.net/tags/prompt-injection), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-agents](https://simonwillison.net/tags/ai-agents), [browser-agents](https://simonwillison.net/tags/browser-agents)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/22/openai-ciso-on-atlas/#atom-everything</guid>
+    </item>    <item>
+      <link>https://electrek.co/2025/10/22/24b-in-clean-energy-projects-scrapped-under-trump-so-far/</link>
+      <description>
+        <![CDATA[<p>$24B in clean energy projects scrapped under Trump.</p>]]>
+      </description>
+      <source:markdown>$24B in clean energy projects scrapped under Trump.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/22/1611/</guid>
+    </item>    <item>
+      <title>ChatGPT Atlas</title>
+      <link>https://mjtsai.com/blog/2025/10/22/chatgpt-atlas/</link>
+      <description>
+        <![CDATA[OpenAI (MacRumors, Reddit): Today we&#8217;re introducing ChatGPT Atlas, a new web browser built with ChatGPT at its core. [&#8230;] With Atlas, ChatGPT can come with you anywhere across the web&#8212;helping you in the window right where you are, understanding what you&#8217;re trying to do, and completing tasks for you, all without copying and pasting or [&#8230;]]]>
+      </description>
+      <source:markdown>OpenAI (MacRumors, Reddit): Today we’re introducing ChatGPT Atlas, a new web browser built with ChatGPT at its core. \[…\] With Atlas, ChatGPT can come with you anywhere across the web—helping you in the window right where you are, understanding what you’re trying to do, and completing tasks for you, all without copying and pasting or \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49735</guid>
+    </item>    <item>
+      <title>Radiccio 1.0</title>
+      <link>https://mjtsai.com/blog/2025/10/22/radiccio-1-0/</link>
+      <description>
+        <![CDATA[Crispy Crunchy Computerware (Mastodon): I wanted to go back to a simpler time. I wanted a music app that gives me easy access to my music &#x2013; organized the way I want &#x2013; and provides a comfortable, peaceful environment to listen to it. I wanted an app that provides an abundance of useful tools, but [&#8230;]]]>
+      </description>
+      <source:markdown>Crispy Crunchy Computerware (Mastodon): I wanted to go back to a simpler time. I wanted a music app that gives me easy access to my music – organized the way I want – and provides a comfortable, peaceful environment to listen to it. I wanted an app that provides an abundance of useful tools, but \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49733</guid>
+    </item>    <item>
+      <title>Five signs that Generative AI is losing traction</title>
+      <link>https://garymarcus.substack.com/p/five-signs-that-generative-ai-is</link>
+      <description>
+        <![CDATA[Usage may be declining, just as scaling &#8220;laws&#8221; seem to be losing steam]]>
+      </description>
+      <source:markdown>Usage may be declining, just as scaling “laws” seem to be losing steam</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Xuc2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c75a8ba-08f0-4600-b869-c3fcf0faaa4e_565x411.webp" length="0" type="image/jpeg" />
+      <guid>cid://https://garymarcus.substack.com/p/five-signs-that-generative-ai-is</guid>
+    </item>    <item>
+      <title>Ke Yang, Apple’s Head of ChatGPT-Like AI Search Effort, Was Poached by Meta</title>
+      <link>https://www.bloomberg.com/news/articles/2025-10-15/apple-s-newly-tapped-head-of-chatgpt-like-ai-search-effort-to-leave-for-meta</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42301</guid>
+    </item>    <item>
+      <link>https://techcrunch.com/2025/10/22/openais-atlas-is-more-about-chatgpt-than-the-web/</link>
+      <description>
+        <![CDATA[<p>OpenAI's Atlas is more about ChatGPT than the web.</p>]]>
+      </description>
+      <source:markdown>OpenAI&#39;s Atlas is more about ChatGPT than the web.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/22/1609/</guid>
+    </item>    <item>
+      <title>This podcast episode looks really interesting: Tressie McMillan Cottom, Jamelle Bouie, and...</title>
+      <link>https://kottke.org/25/10/0047750-this-podcast-episode-look</link>
+      <guid>cid://tag:kottke.org,2025://13.47750</guid>
+    </item>    <item>
+      <link>https://techcrunch.com/2025/10/22/amazon-will-buy-thousands-of-pedal-assist-cargo-vehicles-from-rivian-spinoff-also/</link>
+      <description>
+        <![CDATA[<p>Amazon will buy thousands of pedal-assist cargo vehicles from Rivian spinoff Also.</p>]]>
+      </description>
+      <source:markdown>Amazon will buy thousands of pedal-assist cargo vehicles from Rivian spinoff Also.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/22/1607/</guid>
     </item>    <item>
       <title>&#38;#8216;I get to do whatever I want in the moment&#38;#8217;: why more...</title>
       <link>https://kottke.org/25/10/0047749-i-get-to-do-whatever</link>
@@ -1102,6 +1506,10 @@ Claude Code&#39;s settings are [documented here](https://docs.claude.com/en/docs
 Tags: [coding-agents](https://simonwillison.net/tags/coding-agents), [anthropic](https://simonwillison.net/tags/anthropic), [claude-code](https://simonwillison.net/tags/claude-code), [generative-ai](https://simonwillison.net/tags/generative-ai), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/22/claude-code-logs/#atom-everything</guid>
     </item>    <item>
+      <title>ChatGPT&#39;s Atlas: The Browser That&#39;s Anti-Web</title>
+      <link>https://anildash.com/2025/10/22/atlas-anti-web-browser/</link>
+      <guid>cid://https://anildash.com/2025/10/22/atlas-anti-web-browser/</guid>
+    </item>    <item>
       <title>Mike Johnson Opts for Medically Induced Coma to Avoid Swearing in New Democratic Congresswoman</title>
       <link>https://www.borowitzreport.com/p/mike-johnson-opts-for-medically-induced</link>
       <description>
@@ -1110,198 +1518,6 @@ Tags: [coding-agents](https://simonwillison.net/tags/coding-agents), [anthropic]
       <source:markdown>“I was really hoping that people would forget about the Epstein files or that the Rapture would happen, but no such luck.”</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!0ndO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F808b961a-178d-4103-97ab-971ed9a1427c_1584x1533.heic" length="0" type="image/jpeg" />
       <guid>cid://https://www.borowitzreport.com/p/mike-johnson-opts-for-medically-induced</guid>
-    </item>    <item>
-      <title>2025-10-22 Bots, again. I&#39;m taking it personally.</title>
-      <link>https://alexschroeder.ch/view/2025-10-22-bots-again</link>
-      <description>
-        <![CDATA[<h1 id="2025-10-22-bots-again-i-m-taking-it-personally">2025-10-22 Bots, again. I&rsquo;m taking it personally.</h1>
-        
-        <p>My auto-blocking of bots hasn’t needed much intervention in recent weeks. The
-        current average is 10,000 blocked IP ranges.
-        If you&rsquo;re interested, there&rsquo;s a
-        <a href="https://transjovian.org/view/fight-bots/index">a description of my setup</a>.</p>
-        
-        <p><img loading="lazy" src="2025-10-22-bots-again/01K7RMQ3YVE09T7ZYGSNEMBH1H.png" alt="Lots of graphs but the important one is the yellow line that’s pretty stable around 10k." /></p>
-        
-        <p>Hah, I post the above and now load is 95 and the bots are at it.</p>
-        
-        <p>What I don’t like about Munin is that when it crashes (I assume it’s the OOM
-        reaper making the rounds), then it leaves behind a lock that prevents the
-        graph from updating. Ugh.</p>
-        
-        <p><img loading="lazy" src="2025-10-22-bots-again/01K7YKFAPMFGSC0F8EBRSM66YJ.png" alt="A Munin graph showing maximum average load being 137.51 and now back to 1.24." /></p>
-        
-        <p>If you like large language models (LLMs), know that they need regular
-        training and the people training them are ruining the web for
-        everybody. You are part of this, as a consumer.</p>
-        
-        <p>Most sites don’t have the defences required, or require the execution
-        of expensive JavaScript for the CO₂ god, or require placing all your
-        visitor’s browsing data into the hands of another company, most likely
-        CloudFlare, in the USA. If you object to any of that, you must do your
-        duty and reject the use of LLMs as well. You can’t eat your cake and
-        claim to object to the rest. It would be a most incongruent position
-        to take.</p>
-        
-        <p>And since this kind of shit often happens while
-        <a href="2025-portugal">I’m on holidays</a>, the LLM friends reading this are
-        responsible, in a very small way, for pissing on me during my
-        holidays. And I resent it.</p>
-        
-        <p>I resent it very much.</p>
-        
-        <p><img loading="lazy" src="2025-10-22-bots-again/01K7YXF66MYSEQC615WGSBECN2.png" alt="Load going up to 80, again. And back down, again." /></p>
-        
-        <p>Waking up in a hotel bed, opening the balcony doors, hearing the birds
-        sing, switching on the phone and realising that load is over 100 and
-        nothing works, switching off Emacs Wiki and Community Wiki, the
-        favourite targets of the AI scrapers and thinking of the people who
-        like to use large language models.</p>
-        
-        <p>It’s the same problem as always: drive a car, see the CO₂ in the world
-        go up, “but I need it!” – yeah, but we need an earth that supports
-        human life too, idiots. Humans, where comfort is separated from
-        consequences by time and space like to choose comfort. In this case,
-        the AI comfort leads to the shut down of the open web, the
-        centralisation of what remains, the installation of barriers, and ever
-        and always: more control for fewer people. But of course, the
-        consequences are separated by time and space from the comforts of AI
-        users.</p>
-        
-        <p>Imagine a goddess of destruction with a grim smile and a thousand
-        hands and each one of them is giving you a middle finger.</p>
-        
-        <p>Load average: 142.25</p>
-        
-        <p>I switched off Community Wiki and Emacs Wiki.</p>
-        
-        <p>Coming back after a day of excursions and things seem to be working
-        fine, if I don’t switch on those two sites. These two have been
-        unavailable for a minimum of six hours and yet in the last two hours
-        Emacs Wiki still got 3537 requests.</p>
-        
-        <p>Time to ban every network of every ASN that&rsquo;s still requesting Emacs Wiki pages.</p>
-        
-        <pre><code>2h-access-log \
-        | grep '^www\.emacswiki\.org' \
-        | log-ip \
-        | asncounter --top 50 --no-prefixes 2&gt;/dev/null \
-        | awk '/^[1-9]/ &amp;&amp; $1 &gt;= 10 { print $3 }' \
-        | xargs asn-networks \
-        | xargs fail2ban-client set butlerian-jihad-week banip
-        </code></pre>
-        
-        <p>If you&rsquo;re looking for the building blocks I&rsquo;m using, see my
-        <a href="https://alexschroeder.ch/admin/">collection of admin scripts and shell functions</a>.</p>
-        
-        <p>Hours later, I switched Emacs Wiki on for a minute and load
-        immediately rose from around 1 to nearly 4 and my SSH connection
-        became slow as molasses. It&rsquo;ll remain switched off for tonight and
-        probably tomorrow, too. It depends on the kind of wifi connection I
-        have, tomorrow.</p>
-        
-        <p>Perhaps I should just hand Emacs Wiki off to somebody who&rsquo;s more into
-        it.</p>
-        
-        <p>Switching off Community Wiki and two smaller sites as well, for now.</p>
-        
-        <p><a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23Emacs">#Emacs</a></p>]]>
-      </description>
-      <source:markdown># 2025-10-22 Bots, again. I’m taking it personally.
-
-My auto-blocking of bots hasn’t needed much intervention in recent weeks. The
-current average is 10,000 blocked IP ranges.
-If you’re interested, there’s a
-[a description of my setup](https://transjovian.org/view/fight-bots/index).
-
-![Lots of graphs but the important one is the yellow line that’s pretty stable around 10k.](2025-10-22-bots-again/01K7RMQ3YVE09T7ZYGSNEMBH1H.png)
-
-Hah, I post the above and now load is 95 and the bots are at it.
-
-What I don’t like about Munin is that when it crashes (I assume it’s the OOM
-reaper making the rounds), then it leaves behind a lock that prevents the
-graph from updating. Ugh.
-
-![A Munin graph showing maximum average load being 137.51 and now back to 1.24.](2025-10-22-bots-again/01K7YKFAPMFGSC0F8EBRSM66YJ.png)
-
-If you like large language models (LLMs), know that they need regular
-training and the people training them are ruining the web for
-everybody. You are part of this, as a consumer.
-
-Most sites don’t have the defences required, or require the execution
-of expensive JavaScript for the CO₂ god, or require placing all your
-visitor’s browsing data into the hands of another company, most likely
-CloudFlare, in the USA. If you object to any of that, you must do your
-duty and reject the use of LLMs as well. You can’t eat your cake and
-claim to object to the rest. It would be a most incongruent position
-to take.
-
-And since this kind of shit often happens while
-[I’m on holidays](2025-portugal), the LLM friends reading this are
-responsible, in a very small way, for pissing on me during my
-holidays. And I resent it.
-
-I resent it very much.
-
-![Load going up to 80, again. And back down, again.](2025-10-22-bots-again/01K7YXF66MYSEQC615WGSBECN2.png)
-
-Waking up in a hotel bed, opening the balcony doors, hearing the birds
-sing, switching on the phone and realising that load is over 100 and
-nothing works, switching off Emacs Wiki and Community Wiki, the
-favourite targets of the AI scrapers and thinking of the people who
-like to use large language models.
-
-It’s the same problem as always: drive a car, see the CO₂ in the world
-go up, “but I need it!” – yeah, but we need an earth that supports
-human life too, idiots. Humans, where comfort is separated from
-consequences by time and space like to choose comfort. In this case,
-the AI comfort leads to the shut down of the open web, the
-centralisation of what remains, the installation of barriers, and ever
-and always: more control for fewer people. But of course, the
-consequences are separated by time and space from the comforts of AI
-users.
-
-Imagine a goddess of destruction with a grim smile and a thousand
-hands and each one of them is giving you a middle finger.
-
-Load average: 142.25
-
-I switched off Community Wiki and Emacs Wiki.
-
-Coming back after a day of excursions and things seem to be working
-fine, if I don’t switch on those two sites. These two have been
-unavailable for a minimum of six hours and yet in the last two hours
-Emacs Wiki still got 3537 requests.
-
-Time to ban every network of every ASN that’s still requesting Emacs Wiki pages.
-
-```
-2h-access-log \
-| grep &#39;^www\.emacswiki\.org&#39; \
-| log-ip \
-| asncounter --top 50 --no-prefixes 2&#62;/dev/null \
-| awk &#39;/^[1-9]/ &#38;&#38; $1 &#62;= 10 { print $3 }&#39; \
-| xargs asn-networks \
-| xargs fail2ban-client set butlerian-jihad-week banip
-
-```
-
-If you’re looking for the building blocks I’m using, see my
-[collection of admin scripts and shell functions](https://alexschroeder.ch/admin/).
-
-Hours later, I switched Emacs Wiki on for a minute and load
-immediately rose from around 1 to nearly 4 and my SSH connection
-became slow as molasses. It’ll remain switched off for tonight and
-probably tomorrow, too. It depends on the kind of wifi connection I
-have, tomorrow.
-
-Perhaps I should just hand Emacs Wiki off to somebody who’s more into
-it.
-
-Switching off Community Wiki and two smaller sites as well, for now.
-
-[#Butlerian Jihad](/search/?q=%23Butlerian_Jihad) [#Emacs](/search/?q=%23Emacs)</source:markdown>
-      <guid>cid://https://alexschroeder.ch/view/2025-10-22-bots-again</guid>
     </item>    <item>
       <title>TEST</title>
       <link>https://lithub.com/test/</link>
@@ -1485,6 +1701,7 @@ Tags: [privacy](https://simonwillison.net/tags/privacy), [security](https://simo
         <p>I continue to find this entire category of <a href="https://simonwillison.net/tags/browser-agents/">browser agents</a> <em>deeply</em> confusing.</p>
         <p>The security and privacy risks involved here still feel insurmountably high to me - I certainly won't be trusting any of these products until a bunch of security researchers have given them a very thorough beating.</p>
         <p>I'd like to see a <em>deep</em> explanation of the steps Atlas takes to avoid prompt injection attacks. Right now it looks like the main defense is expecting the user to carefully watch what agent mode is doing at all times!</p>
+        <p><em><strong>Update</strong>: OpenAI's CISO Dane Stuckey provided exactly that <a href="https://simonwillison.net/2025/Oct/22/openai-ciso-on-atlas/">the day after the launch</a>.</em></p></p>
         <p>I also find these products pretty unexciting to use. I tried out agent mode and it was like watching a first-time computer user painstakingly learn to use a mouse for the first time. I have yet to find my own use-cases for when this kind of interaction feels useful to me, though I'm not ruling that out.</p>
         <p>There was one other detail in the announcement post that caught my eye:</p>
         <blockquote>
@@ -1535,6 +1752,8 @@ I continue to find this entire category of [browser agents](https://simonwilliso
 The security and privacy risks involved here still feel insurmountably high to me - I certainly won&#39;t be trusting any of these products until a bunch of security researchers have given them a very thorough beating.
 
 I&#39;d like to see a _deep_ explanation of the steps Atlas takes to avoid prompt injection attacks. Right now it looks like the main defense is expecting the user to carefully watch what agent mode is doing at all times!
+
+_**Update**: OpenAI&#39;s CISO Dane Stuckey provided exactly that [the day after the launch](https://simonwillison.net/2025/Oct/22/openai-ciso-on-atlas/)._
 
 I also find these products pretty unexciting to use. I tried out agent mode and it was like watching a first-time computer user painstakingly learn to use a mouse for the first time. I have yet to find my own use-cases for when this kind of interaction feels useful to me, though I&#39;m not ruling that out.
 
