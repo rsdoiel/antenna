@@ -318,5 +318,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Writing Off Code](https://christaalbrechtcrane.substack.com/feed)
 - [Brian Taylor Cohen blog](https://plus.briantylercohen.com/feed)
 - [Small World Blog](https://codetiger.github.io/blog/rss/)
+- [Karine Jean-Piere](https://www.karinejean-pierre.com/feed/rss2)
 
 
