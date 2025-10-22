@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>21 Oct 25 15:09 -0700</dateCreated>
+        <dateCreated>22 Oct 25 06:09 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -138,6 +138,7 @@
         <outline text="Joss Whittle, The rantings of a mad scientist" type="rss" xmlUrl="http://l2program.co.uk/feed" htmlUrl="http://l2program.co.uk,http://l2program.co.uk/feed" description="The rantings of a lunatic Scientist" url="http://l2program.co.uk/feed"></outline>
         <outline text="Julia Evans blog" type="atom" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="http://jvns.ca/atom.xml,http://jvns.ca" url="http://jvns.ca/atom.xml"></outline>
         <outline text="Kara Wynn blog" type="rss" xmlUrl="https://karawynn.substack.com/feed" htmlUrl="https://karawynn.substack.com,https://karawynn.substack.com/feed" description="personal essays, this time with a quarter-century more wisdom" url="https://karawynn.substack.com/feed"></outline>
+        <outline text="Karine Jean-Piere" type="rss" xmlUrl="https://www.karinejean-pierre.com/feed/rss2" htmlUrl="https://www.karinejean-pierre.com,https://www.karinejean-pierre.com/feed/rss2" url="https://www.karinejean-pierre.com/feed/rss2"></outline>
         <outline text="Keiran Healy Blog" type="rss" xmlUrl="https://kieranhealy.org/blog/index.xml" htmlUrl="https://kieranhealy.org/blog/,https://kieranhealy.org/blog/index.xml" description="Recent content in Blogs on kieranhealy.org" url="https://kieranhealy.org/blog/index.xml"></outline>
         <outline text="Keith P&#39;s blog" type="rss" xmlUrl="https://keithp.com/blog/index.rss" htmlUrl="http://keithp.com/blog/,http://keithp.com/blog/index.rss" description="keithp.com" url="http://keithp.com/blog/index.rss"></outline>
         <outline text="Kilian Valkhof&#39;s blog" type="rss" xmlUrl="http://feeds.feedburner.com/Kilianvalkhofcom" htmlUrl="https://kilianvalkhof.com,https://kilianvalkhof.com/feed/" description="Front-end &amp; user experience developer" url="https://kilianvalkhof.com/feed/"></outline>

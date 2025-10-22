@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>21 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>22 Oct 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>PhotoDesk 3.25 now available</title>
+      <link>https://www.riscository.com/2025/photodesk-3-25/</link>
+      <description>
+        <![CDATA[With the London Show now so close you can almost taste it &#8211; okay, I might be confusing the show with my snack &#8211; another software update has been announced by R-Comp, with immediate availability via !Store, and the option to buy at the show. This time the update is to PhotoDesk: We are pleased to announce that version 3.25 of PhotoDesk is now available to download for existing users via !Store. Following on from 3.24&#8217;s colossal number of changes, 3.25 is a much smaller affair, correcting a few things&#8230;]]>
+      </description>
+      <source:markdown>With the London Show now so close you can almost taste it – okay, I might be confusing the show with my snack – another software update has been announced by R-Comp, with immediate availability via !Store, and the option to buy at the show. This time the update is to PhotoDesk: We are pleased to announce that version 3.25 of PhotoDesk is now available to download for existing users via !Store. Following on from 3.24’s colossal number of changes, 3.25 is a much smaller affair, correcting a few things…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10767</guid>
+    </item>    <item>
       <title>Xubuntu Site Possibly Hacked</title>
       <link>http://www.linux-magazine.com/Online/News/Xubuntu-Site-Possibly-Hacked</link>
       <description>
@@ -2075,15 +2083,6 @@ Although at least one [client re-creation](https://github.com/erfg12/AOL_4.0_Emu
       </description>
       <source:markdown>With the introduction of the TANDY Color Computer (CoCo) 3, engineers were faced with 2 significant and implied mutually exclusive goals: To satisfy both of these goals, the CoCo 3 consolidated the MC6883/74LS783 Synchronous Address Multiplexer (SAM) and the MC6847 Video Display Generator (VDG) into a single Application Specific integrated Circuit (ASIC) while adding additional … [Continue reading More Memory? GIM’m’E!](https://www.go4retro.com/2025/09/30/more-memory-gimme/)</source:markdown>
       <guid>cid://https://www.go4retro.com/?p=1861</guid>
-    </item>    <item>
-      <title>Linux Kernel 6.17 is Available</title>
-      <link>http://www.linux-magazine.com/Online/News/Linux-Kernel-6.17-is-Available</link>
-      <description>
-        <![CDATA[<p>Linus Torvalds has announced that the latest kernel has been released with plenty of core improvements and even more hardware support.</p>]]>
-      </description>
-      <source:markdown>Linus Torvalds has announced that the latest kernel has been released with plenty of core improvements and even more hardware support.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://63d00452a5ec3a0431c3a90b3a9a5dc9</guid>
     </item>
   </channel>
 </rss>
