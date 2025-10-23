@@ -4,10 +4,21 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>23 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>23 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Value of Skepticism in the Age of AI</title>
+      <link>https://sr.ithaka.org/blog/the-value-of-skepticism-in-the-age-of-ai/</link>
+      <description>
+        <![CDATA[<p>Although generative AI literacy frameworks can be quite varied, all suggest that users bring a critical eye to what LLMs produce. Instructors must internalize this critical lens on AI outputs in order to convey that same inherent skepticism to their students. With this healthy skepticism in mind, it is key to understand when and how generative AI can enrich teaching and learning. </p>
+        <p>The post <a href="https://sr.ithaka.org/blog/the-value-of-skepticism-in-the-age-of-ai/">The Value of Skepticism in the Age of AI</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
+      </description>
+      <source:markdown>Although generative AI literacy frameworks can be quite varied, all suggest that users bring a critical eye to what LLMs produce. Instructors must internalize this critical lens on AI outputs in order to convey that same inherent skepticism to their students. With this healthy skepticism in mind, it is key to understand when and how generative AI can enrich teaching and learning.
+
+The post [The Value of Skepticism in the Age of AI](https://sr.ithaka.org/blog/the-value-of-skepticism-in-the-age-of-ai/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
+      <guid>cid://https://sr.ithaka.org/?p=323855</guid>
+    </item>    <item>
       <title>Guest Post — Replacing Public Doubt with Public Confidence: Experiments in Building Trust at Science</title>
       <link>https://scholarlykitchen.sspnet.org/2025/10/23/guest-post-replacing-public-doubt-with-public-confidence-experiments-in-building-trust-at-science/</link>
       <description>
@@ -36,6 +47,14 @@ The post [Guest Post — Replacing Public Doubt with Public Confidence: Experime
       <source:markdown>A young woman is found dead under mysterious circumstances, and the discovery of a single but significant clue ends up uncovering more than anyone could have expected.</source:markdown>
       <enclosure url="https://standardebooks.org/ebooks/carolyn-wells/the-clue/downloads/carolyn-wells_the-clue.epub?source=feed" length="568844" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/carolyn-wells/the-clue</guid>
+    </item>    <item>
+      <title>Shape the future of OpenCitations: take our Community Survey</title>
+      <link>https://opencitations.hypotheses.org/3956</link>
+      <description>
+        <![CDATA[OpenCitations has always existed thanks to and for its community, a diverse network of institutions and individuals who believe in the value of open scholarly data. As a community-based open infrastructure, our strength lies in collaboration. The insights, feedback, and experiences shared by our community partners are what help us refine our services and keep our mission aligned with the evolving global research ecosystem. To continue building an infrastructure that truly reflects the needs of the scholarly community, we’ve now launched the OpenCitations Community &#8230; <a href="https://opencitations.hypotheses.org/3956" class="more-link">Continue reading <span class="screen-reader-text">Shape the future of OpenCitations: take our Community Survey</span></a>]]>
+      </description>
+      <source:markdown>OpenCitations has always existed thanks to and for its community, a diverse network of institutions and individuals who believe in the value of open scholarly data. As a community-based open infrastructure, our strength lies in collaboration. The insights, feedback, and experiences shared by our community partners are what help us refine our services and keep our mission aligned with the evolving global research ecosystem. To continue building an infrastructure that truly reflects the needs of the scholarly community, we’ve now launched the OpenCitations Community … [Continue reading Shape the future of OpenCitations: take our Community Survey](https://opencitations.hypotheses.org/3956)</source:markdown>
+      <guid>cid://https://opencitations.hypotheses.org/?p=3956</guid>
     </item>    <item>
       <title>Happy Internet Archive Day!</title>
       <link>https://blog.archive.org/2025/10/22/happy-internet-archive-day/</link>

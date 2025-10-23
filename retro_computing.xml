@@ -4,10 +4,43 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>23 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>23 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2025/10/23 - A little more Tea.</title>
+      <link>https://heyrick.eu/blog/entry/20251023</link>
+      <description>
+        <![CDATA[A little more Tea.]]>
+      </description>
+      <source:markdown>A little more Tea.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20251023</guid>
+    </item>    <item>
+      <title>KDE Unleashes Plasma 6.5</title>
+      <link>http://www.linux-magazine.com/Online/News/KDE-Unleashes-Plasma-6.5</link>
+      <description>
+        <![CDATA[<p>The Plasma 6.5 desktop environment is now available with new features, improvements, and the usual bug fixes.</p>]]>
+      </description>
+      <source:markdown>The Plasma 6.5 desktop environment is now available with new features, improvements, and the usual bug fixes.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://462b7eb00be067c99f1aeaf266480c89</guid>
+    </item>    <item>
+      <title>Release 9d of RCI’s NVMe drivers, with NVMeTools and SMART</title>
+      <link>https://www.riscository.com/2025/rci-nvme-drivers-9d/</link>
+      <description>
+        <![CDATA[Another announcement has popped up, this time from RCI, R-Comp Interactive (aka RCI &#8211; R-Comp&#8217;s sister company), about an updated release of their NVMe drivers. This is what Andrew Rawnsley&#8217;s email said: R-Comp Interactive is pleased to announce that version 9d of our NVMe Drivers are now available. Since the drivers are already incredibly fast (up to 80% faster than competing products), and work with a wide variety of drives, the focus this time has been on expanding functionality, features and the experience for both users and developers. Headline features&#8230;]]>
+      </description>
+      <source:markdown>Another announcement has popped up, this time from RCI, R-Comp Interactive (aka RCI – R-Comp’s sister company), about an updated release of their NVMe drivers. This is what Andrew Rawnsley’s email said: R-Comp Interactive is pleased to announce that version 9d of our NVMe Drivers are now available. Since the drivers are already incredibly fast (up to 80% faster than competing products), and work with a wide variety of drives, the focus this time has been on expanding functionality, features and the experience for both users and developers. Headline features…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10775</guid>
+    </item>    <item>
+      <title>Circuit Diagram Poster, KIM Hints, First Book of KIM</title>
+      <link>http://retro.hansotten.nl/circuit-diagram-poster-kim-hints-first-book-of-kim/</link>
+      <description>
+        <![CDATA[While suffering from a bad cold I tried to entertain myself with essential KIM-1 documentation that needed version information and a good cleanup of the scans. Circuit Diagrams, the big poster. Every KIM-1 came with one. I have several of them. As far as I can see the contents stayed the same trough the years. [&#8230;]]]>
+      </description>
+      <source:markdown>While suffering from a bad cold I tried to entertain myself with essential KIM-1 documentation that needed version information and a good cleanup of the scans. Circuit Diagrams, the big poster. Every KIM-1 came with one. I have several of them. As far as I can see the contents stayed the same trough the years. \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=19133</guid>
+    </item>    <item>
       <title>RISC OS Developments London Show news – including a public Iris release</title>
       <link>https://www.riscository.com/2025/risc-os-dev-london-show-iris-release/</link>
       <description>

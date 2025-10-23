@@ -3,9 +3,9 @@
 <head>
   <meta charset="utf-8" >
   <meta name="generator" content="antenna/0.0.15" >
-  <meta name="date" content="2025-10-23T06:10:47-07:00" >
+  <meta name="date" content="2025-10-23T11:09:51-07:00" >
   <link rel="stylesheet" href="css/site.css" >
-  <link rel="alternate" type="application/rss+xml" href="columns.xml" >
+  <link href="columns.xml" rel="alternate" type="application/rss+xml" >
   <script type="module" src="modules/date_filter.js" ></script>
 </head>
 <body>
@@ -54,6 +54,220 @@
 
       <address>
         <a href="https://notes.peter-baumgartner.net/event/example/">https://notes.peter-baumgartner.net/event/example/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-23T19:00:00Z" data-link="https://blog.jim-nielsen.com/2025/ai-browsers-frontier-security/">
+      <h1>AI Browsers: Living on the Frontier of Security</h1>
+
+(date: 2025-10-23)
+      <p>
+      <p>OpenAI released their new <a href="https://notes.jim-nielsen.com/#2025-10-22T1238">“browser”</a> and <a href="https://simonwillison.net/2025/Oct/22/openai-ciso-on-atlas/">Simon Willison has the deets on its security</a>, going point-by-point through the statement from OpenAI’s Chief Information Security Officer. His post is great if you want to dive on the details. Here’s my high-level takeaway:</p>
+<p>Everything OpenAI <em>says</em> they are doing to mitigate the security concerns of an LLM paired with a browser sounds reasonable in theory. However, as their CISO says, “prompt injection remains a frontier, unsolved security problem”. So unless you want to be part of what is essentially a global experiment on the frontier of security on the internet, you might want to wait before you consider any of their promises “meaningful mitigation”.</p>
+<p>(Aside: Let’s put people on the “frontier” of security for their daily tasks, that seems totally fine right? Meanwhile, Tom MacWright has rationally argued that <a href="https://macwright.com/2025/05/29/putting-an-untrusted-chat-layer-is-a-disaster">putting an AI chatbot between users and the internet is an obvious disaster we’ll all recognize as such one day</a>.)</p>
+<p>What really strikes me after reading Simon’s article is the intersection of these two topics which have garnered a lot of attention as of late:</p>
+<ol>
+<li>npm supply chain attacks</li>
+<li>AI browsers</li>
+</ol>
+<p>This intersection seems <em>primed</em> for exploitation, especially if you consider combining different techniques we’ve seen as of late like <a href="https://snyk.io/blog/weaponizing-ai-coding-agents-for-malware-in-the-nx-malicious-package/">weaponizing LLM agents</a> and <a href="https://blog.jim-nielsen.com/2025/npm-risks/">shipping malicious code that only runs in end-users’ browsers</a>.</p>
+<p>Imagine, for a second, something like the following:</p>
+<p>You’re an attacker and you stick malicious instructions — not code, mind you, just plain-text English language prose — in your otherwise helpful lib and let people install it.</p>
+<p>No malicious code is run on the installing computer.</p>
+<p>Bundlers then combine third-party dependencies with first-party code in order to spit it out application code which gets shipped to end users.</p>
+<p>At this point, there is still zero malicious code that has executed on anyone’s computer.</p>
+<p>Then, end users w/AI browsers end up consuming these plain-text instructions that are part of your application bundle and boom, you’ve been exploited.</p>
+<p>At no point was any “malicious code” written by a bad actor “executed” by the browser engine itself. Rather, it’s the bolted on AI agent running alongside the browser engine that ingests these instructions and does something it obviously shouldn’t.</p>
+<p>In other words: it doesn’t have to be code to be an exploit. Plain-text human language is now a weaponizable exploit, which means the surface for attacks just got way bigger.</p>
+<p>But probably don’t listen to me. I’m not a security expert. However, every day that voice in the back of my head to pivot to security gets louder and louder, as it’s seemingly <a href="https://notes.jim-nielsen.com/#2025-05-24T1337">the only part of computer science that gets worse every year</a>.</p>
+<hr>
+<p>Reply via:</p>
+<p><a href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/ai-browsers-frontier-security/">Email</a>
+· <a href="https://mastodon.social/@jimniels">Mastodon</a> ·</p>
+<p><a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a></p>
+
+      <address>
+        <a href="https://blog.jim-nielsen.com/2025/ai-browsers-frontier-security/">https://blog.jim-nielsen.com/2025/ai-browsers-frontier-security/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-23T17:59:01Z" data-link="https://www.thebulwark.com/p/of-kings-and-palaces-trump-east-wing-ballroom">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-10-23)
+      <p>
+      <p>Why Democrats should commit—right now—to restoring the old East Wing of the White House.</p>
+
+      <address>
+        <a href="https://www.thebulwark.com/p/of-kings-and-palaces-trump-east-wing-ballroom">https://www.thebulwark.com/p/of-kings-and-palaces-trump-east-wing-ballroom</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-23T17:57:14Z" data-link="https://www.nytimes.com/live/2025/10/23/nyregion/nba-illegal-gambling-arrests#nba-gambling-charges">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-10-23)
+      <p>
+      <p>U.S. Details Gambling Cases Involving Pro Athletes and Mafia Families.</p>
+
+      <address>
+        <a href="https://www.nytimes.com/live/2025/10/23/nyregion/nba-illegal-gambling-arrests#nba-gambling-charges">https://www.nytimes.com/live/2025/10/23/nyregion/nba-illegal-gambling-arrests#nba-gambling-charges</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-23T17:51:35Z" data-link="https://www.anthropic.com/news/memory">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-10-23)
+      <p>
+      <p>Claude introduces memory for teams at work.</p>
+
+      <address>
+        <a href="https://www.anthropic.com/news/memory">https://www.anthropic.com/news/memory</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-23T17:30:41Z" data-link="https://www.jeffgeerling.com/blog/2025/recovering-videos-my-sony-camera-i-stupidly-deleted">
+      <h1>Recovering videos from my Sony camera that I stupidly deleted</h1>
+
+(date: 2025-10-23)
+      <p>
+      <p>Recovering videos from my Sony camera that I stupidly deleted</p>
+<p><img src="https://www.jeffgeerling.com/sites/default/files/images/sony-a6700-sd-cards-on-desk.jpeg" alt="Sony A6700 SD cards on desk"></p>
+<p>My normal process for transferring video footage from my Sony cameras to my computer is as follows:</p>
+<p>Jeff GeerlingOctober 23, 2025</p>
+
+      <address>
+        <a href="https://www.jeffgeerling.com/blog/2025/recovering-videos-my-sony-camera-i-stupidly-deleted">https://www.jeffgeerling.com/blog/2025/recovering-videos-my-sony-camera-i-stupidly-deleted</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-23T16:36:49Z" data-link="https://lithub.com/heres-the-shortlist-for-the-2025-john-dos-passos-prize/">
+      <h1>Here’s the shortlist for the 2025 John Dos Passos prize.</h1>
+
+(date: 2025-10-23)
+      <p>
+      <p>The annual John Dos Passos Prize for Literature honors the country’s most talented fiction writers for career-long contributions to the genre. First launched in 1980, the prize is the oldest literary award given by a Virginia college or university. And</p>
+
+      <address>
+        <a href="https://lithub.com/heres-the-shortlist-for-the-2025-john-dos-passos-prize/">https://lithub.com/heres-the-shortlist-for-the-2025-john-dos-passos-prize/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-23T16:28:54Z" data-link="https://www.theguardian.com/artanddesign/2025/oct/23/trump-white-house-ballroom-architecture-critic-dictator-bling">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-10-23)
+      <p>
+      <p>Architecture critic on Trump’s bulletproof ballroom bling.</p>
+
+      <address>
+        <a href="https://www.theguardian.com/artanddesign/2025/oct/23/trump-white-house-ballroom-architecture-critic-dictator-bling">https://www.theguardian.com/artanddesign/2025/oct/23/trump-white-house-ballroom-architecture-critic-dictator-bling</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-23T15:58:28Z" data-link="https://tracydurnell.com/2025/10/23/woke-up-angry/">
+      <h1>Woke up angry</h1>
+
+(date: 2025-10-23)
+      <p>
+      <p>Blissful ignorance by Andrey Mir Electronic media has extended our nervous system to the entire planet… To protect the mind from informational and empathic overload, our news “receptors” become numb, which in turn results in the desire to avoid news. If the early Internet oversupplied the amount of news, social media aggravated this overload by […]</p>
+
+      <address>
+        <a href="https://tracydurnell.com/2025/10/23/woke-up-angry/">https://tracydurnell.com/2025/10/23/woke-up-angry/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-23T15:51:23Z" data-link="https://www.404media.co/breathing-through-our-butts-declared-safe-after-first-human-trial/">
+      <h1>Breathing Through Our Butts Declared Safe After First Human Trial</h1>
+
+(date: 2025-10-23)
+      <p>
+      <p>The first application of enteral ventilation—aka breathing through the bum—to humans proved the technique is safe.</p>
+
+      <address>
+        <a href="https://www.404media.co/breathing-through-our-butts-declared-safe-after-first-human-trial/">https://www.404media.co/breathing-through-our-butts-declared-safe-after-first-human-trial/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-23T15:23:18Z" data-link="https://guykawasaki.substack.com/p/what-former-cdc-director-tom-frieden">
+      <h1>What Former CDC Director Tom Frieden Wants You to Know About Better Health</h1>
+
+(date: 2025-10-23)
+      <p>
+      <p>Dr.</p>
+
+      <address>
+        <a href="https://guykawasaki.substack.com/p/what-former-cdc-director-tom-frieden">https://guykawasaki.substack.com/p/what-former-cdc-director-tom-frieden</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-23T15:02:37Z" data-link="https://www.borowitzreport.com/p/mike-johnson-has-no-comment-after">
+      <h1>Mike Johnson Has no Comment After Trump Demolishes His Home</h1>
+
+(date: 2025-10-23)
+      <p>
+      <p>Johnson had reportedly been asleep when a backhoe came crashing through the wall of his master bedroom.</p>
+
+      <address>
+        <a href="https://www.borowitzreport.com/p/mike-johnson-has-no-comment-after">https://www.borowitzreport.com/p/mike-johnson-has-no-comment-after</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-23T14:37:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3m3uljx7wf22t">
+      <h1>@Robert's feed at BlueSky</h1>
+
+(date: 2025-10-23)
+      <p>
+      <p>This is a very accurate explanation of the whole &quot;AI in web browser&quot; problem.</p>
+<p>[contains quote post or other embedded content]</p>
+
+      <address>
+        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3m3uljx7wf22t">https://bsky.app/profile/rsdoiel.bsky.social/post/3m3uljx7wf22t</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-23T13:35:25Z" data-link="http://scripting.com/2025/10/23/133525.html?title=thinkDifferentAboutDevelopers">
+      <h1>Think different about developers</h1>
+
+(date: 2025-10-23)
+      <p>
+      <p>Tell the people who make AI's -- I want a way to have apps run in your browser that has direct connections to the AI engine, and it connects via the user's credentials, not the app devs (though you are entitled to know who the developer is). When I explored the idea of making apps for ChatGPT, this was the roadblock, I have to become a reseller of your service. Can't you figure out how to let the user pay directly? I just want to make tools, not be in the retail AI business. Feh.</p>
+<p>This is the same problem web devs have, we have to become resellers for Amazon S3. Why can't Amazon, who already has an account for every freaking person in the world, let the user own their own data, which I believe they would <em>reallllly</em> like. I don't want access to it, I just want to make great tools for them to use. And they're free to use other products with the data. This helps encourage data format standards. It's why the PC software market was so much more vibrant than the web developer market.</p>
+<p>I keep trying to explain this to people who aren't web devs, but in a position to help, and make a shitload of money, but all I get is blank stares, and &quot;we don't do that.&quot;</p>
+
+      <address>
+        <a href="http://scripting.com/2025/10/23/133525.html?title=thinkDifferentAboutDevelopers">http://scripting.com/2025/10/23/133525.html?title=thinkDifferentAboutDevelopers</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-23T13:21:04Z" data-link="http://scripting.com/2025/10/23/132104.html?title=weblogscomReviewed">
+      <h1>weblogs.com re-viewed</h1>
+
+(date: 2025-10-23)
+      <p>
+      <p>Yesterday I did some research into how weblogs.com, in 1999, tracked changes in the blogs it was following. This was a precursor to feed readers. There was a main output file called changes.xml, a reverse chronological list of sites, not feeds, feeds didn't exist yet.</p>
+<p>What the <a href="https://web.archive.org/web/20000620090706/http://www.weblogs.com/">home page</a> of weblogs.com looked like in June 2000.</p>
+<p>A <a href="https://web.archive.org/web/20000621141352/http://www.weblogs.com/about">page</a> that explained what weblogs are.</p>
+<p>A snapshot of <a href="http://scripting.com/publicfolder/misc/changes.xml">changes.xml</a> from weblogs.com on Dec 13, 2003.</p>
+<p>A <a href="https://daytona.scripting.com/search?q=changes.xml">search</a> of scripting.com for changes.xml.</p>
+<p>You can <a href="https://chatgpt.com/c/68f8f563-0ab8-8322-865a-af0cc88fa35a">ask ChatGPT</a> to tell you about changes.xml. I did, it was able to put together all the random bits that are now gone, it found them somewhere and I got a much better answer than I would have gotten if somehow all my docs had survived, and most of them did not. This btw is one of the great features of ChatGPT. Truly a miracle.</p>
+<p>BTW, here's a <a href="https://chatgpt.com/c/68f8f563-0ab8-8322-865a-af0cc88fa35a">transcript</a> of my talk with ChatGPT about this stuff. Sometimes these links don't work for everyone. I wish they would get that working, dear friends at OpenAI. This is how your word of mouth builds.</p>
+
+      <address>
+        <a href="http://scripting.com/2025/10/23/132104.html?title=weblogscomReviewed">http://scripting.com/2025/10/23/132104.html?title=weblogscomReviewed</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-23T13:10:37Z" data-link="https://www.404media.co/deepfake-tools-spread-on-social-media-research/">
+      <h1>New Research Shows Deepfake Harassment Tools Spread on Social Media and Search Engines</h1>
+
+(date: 2025-10-23)
+      <p>
+      <p>An analysis of how tools to make non-consensual sexually explicit deepfakes spread online, from the Institute for Strategic Dialogue, shows X and search engines surface these sites easily.</p>
+
+      <address>
+        <a href="https://www.404media.co/deepfake-tools-spread-on-social-media-research/">https://www.404media.co/deepfake-tools-spread-on-social-media-research/</a>
       </address>
     </article>
 
@@ -259,6 +473,18 @@
 
       <address>
         <a href="https://lithub.com/youll-see-a-lot-will-happen-when-i-die-remembering-gary-indiana/">https://lithub.com/youll-see-a-lot-will-happen-when-i-die-remembering-gary-indiana/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-23T08:58:57Z" data-link="https://lithub.com/six-essential-texts-that-explain-the-historical-importance-of-the-german-peasants-war/">
+      <h1>Six Essential Texts That Explain the Historical Importance of the German Peasants’ War</h1>
+
+(date: 2025-10-23)
+      <p>
+      <p>I began my book, Summer of Fire and Blood: The German Peasants’ War, by cycling! First I cycled from Mühlhausen to Frankenhausen, the route that the followers of the revolutionary leader Thomas Müntzer took on their way to the battle</p>
+
+      <address>
+        <a href="https://lithub.com/six-essential-texts-that-explain-the-historical-importance-of-the-german-peasants-war/">https://lithub.com/six-essential-texts-that-explain-the-historical-importance-of-the-german-peasants-war/</a>
       </address>
     </article>
 
@@ -577,6 +803,7 @@ it.</p>
 <p><code>If the user pastes and it's only available as plain text then generate HTML that is just an open &lt;pre&gt; tag and their text and a closing &lt;/pre&gt; tag</code></p>
 </blockquote>
 <p>It's quite a long prompt - it took me several minutes to type! But it covered the functionality I wanted in enough detail that I was pretty confident Claude would be able to build it.</p>
+<h4>Combining previous tools</h4>
 <p>I'm using one key technique in this prompt: I'm referencing existing tools in the same repo and telling Claude to imitate their functionality.</p>
 <p>I first wrote about this trick last March in <a href="https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/">Running OCR against PDFs and images directly in your browser</a>, where I described how a snippet of code that used PDF.js and another snippet that used Tesseract.js was enough for Claude 3 Opus to build me this <a href="https://tools.simonwillison.net/ocr">working PDF OCR tool</a>. That was actually the tool that kicked off my <a href="https://tools.simonwillison.net/">tools.simonwillison.net</a> collection in the first place, which has since grown to 139 and counting.</p>
 <p>Here I'm telling Claude that I want the RTF to HTML functionality of <a href="https://github.com/simonw/tools/blob/main/rtf-to-html.html">rtf-to-html.html</a> combined with the Gist saving functionality of <a href="https://github.com/simonw/tools/blob/main/openai-audio-output.html">openai-audio-output.html</a>.</p>
@@ -2640,6 +2867,18 @@ That is weird. If the economic life of a B200 is 2 years at <span class="math in
 
       <address>
         <a href="https://lithub.com/claire-louise-bennett-erin-somers-john-grisham-and-more-22-new-books-out-today/">https://lithub.com/claire-louise-bennett-erin-somers-john-grisham-and-more-22-new-books-out-today/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-21T12:00:00Z" data-link="https://deno.com/blog/deno-deploy-highlights">
+      <h1>My highlights from the new Deno Deploy</h1>
+
+(date: 2025-10-21)
+      <p>
+      <p>Highlights from the new version of Deno Deploy.</p>
+
+      <address>
+        <a href="https://deno.com/blog/deno-deploy-highlights">https://deno.com/blog/deno-deploy-highlights</a>
       </address>
     </article>
 
