@@ -4,10 +4,492 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>22 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>23 Oct 25 06:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>SAP says some customers are dragging their feet on contract sign-offs</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/23/sap_q3/</link>
+      <description>
+        <![CDATA[<h4>Share price dips as cloud sales outlook disappoints amid slow US public sector bookings</h4> <p>SAP disappointed investors today after reporting full-year cloud revenue at the bottom end of its guidance range, with execs saying customers in manufacturing and the public sector are taking longer to sign contracts.…</p>]]>
+      </description>
+      <source:markdown>#### Share price dips as cloud sales outlook disappoints amid slow US public sector bookings
+
+SAP disappointed investors today after reporting full-year cloud revenue at the bottom end of its guidance range, with execs saying customers in manufacturing and the public sector are taking longer to sign contracts.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242622</guid>
+    </item>    <item>
+      <title>heise+ | Wie EU-Gesetze Tracking, Profiling und personalisierte Werbung eindämmen sollen</title>
+      <link>https://www.heise.de/hintergrund/Wie-EU-Gesetze-Tracking-Profiling-und-personalisierte-Werbung-eindaemmen-sollen-10716137.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Die EU hat ein dichtes Netz aus Regeln gespannt, um Tech-Konzerne in den Griff zu bekommen. Es zeigt sich: Die US-Giganten rudern wenigstens ein wenig zurück.]]>
+      </description>
+      <source:markdown>Die EU hat ein dichtes Netz aus Regeln gespannt, um Tech-Konzerne in den Griff zu bekommen. Es zeigt sich: Die US-Giganten rudern wenigstens ein wenig zurück.</source:markdown>
+      <guid>cid://http://heise.de/-10716137</guid>
+    </item>    <item>
+      <title>Leica M EV1: Die M-Serie im Wandel – erstmals mit elektronischem Sucher</title>
+      <link>https://www.heise.de/news/Leica-M-EV1-Die-M-Serie-im-Wandel-erstmals-mit-elektronischem-Sucher-10766674.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Leica schlägt mit der Leica M EV1 ein neues Kapitel im M-System auf. Sie ist die erste Kamera der M-Reihe, die auf einen elektronischen Sucher setzt.]]>
+      </description>
+      <source:markdown>Leica schlägt mit der Leica M EV1 ein neues Kapitel im M-System auf. Sie ist die erste Kamera der M-Reihe, die auf einen elektronischen Sucher setzt.</source:markdown>
+      <guid>cid://http://heise.de/-10766674</guid>
+    </item>    <item>
+      <title>Senators accuse Smithsonian of &#39;illegal lobbying&#39; over Discovery squabbles</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/23/discovery_doj_lobbying_letter_cornyn/</link>
+      <description>
+        <![CDATA[<h4>Cornyn &amp; co ask DoJ to probe respected research institution for trying to &#39;influence&#39; public</h4> <p>The saga of the Great Space Shuttle Relocation has taken another turn after US lawmakers asked the Department of Justice to look into alleged lobbying by the Smithsonian museum to prevent a possible transfer of Discovery to Houston, Texas.…</p>]]>
+      </description>
+      <source:markdown>#### Cornyn &#38; co ask DoJ to probe respected research institution for trying to &#39;influence&#39; public
+
+The saga of the Great Space Shuttle Relocation has taken another turn after US lawmakers asked the Department of Justice to look into alleged lobbying by the Smithsonian museum to prevent a possible transfer of Discovery to Houston, Texas.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242620</guid>
+    </item>    <item>
+      <title>2,5 Stunden Social Media täglich: Wo wir besonders viel Zeit verbringen</title>
+      <link>https://www.heise.de/news/2-5-Stunden-Social-Media-taeglich-Wo-wir-besonders-viel-Zeit-verbringen-10816920.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Tiktok schlägt alle anderen Plattformen: Nutzer verbringen alleine dort über anderthalb Stunden täglich. Auch generative KI wird immer häufiger genutzt.]]>
+      </description>
+      <source:markdown>Tiktok schlägt alle anderen Plattformen: Nutzer verbringen alleine dort über anderthalb Stunden täglich. Auch generative KI wird immer häufiger genutzt.</source:markdown>
+      <guid>cid://http://heise.de/-10816920</guid>
+    </item>    <item>
+      <title>AWS: CloudWatch generiert jetzt automatisch Incident-Reports</title>
+      <link>https://www.heise.de/news/AWS-CloudWatch-generiert-jetzt-automatisch-Incident-Reports-10819046.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Amazon hat CloudWatch um automatische Incident-Report-Generierung erweitert. Das soll nur wenigen Minuten dauern – was beim eigenen Ausfall aber nicht klappte.]]>
+      </description>
+      <source:markdown>Amazon hat CloudWatch um automatische Incident-Report-Generierung erweitert. Das soll nur wenigen Minuten dauern – was beim eigenen Ausfall aber nicht klappte.</source:markdown>
+      <guid>cid://http://heise.de/-10819046</guid>
+    </item>    <item>
+      <title>LKA Niedersachsen warnt vor Guthabenkarten-Betrugsmasche</title>
+      <link>https://www.heise.de/news/LKA-Niedersachsen-warnt-vor-Guthabenkarten-Betrugsmasche-10819486.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das LKA Niedersachsen sieht eine Häufung von Betrugsversuchen, bei denen Täter sich als Bekannte ausgeben und Guthabenkarten wollen.]]>
+      </description>
+      <source:markdown>Das LKA Niedersachsen sieht eine Häufung von Betrugsversuchen, bei denen Täter sich als Bekannte ausgeben und Guthabenkarten wollen.</source:markdown>
+      <guid>cid://http://heise.de/-10819486</guid>
+    </item>    <item>
+      <title>BundID vorrübergehend offline: Login für mehrere Stunden lahmgelegt</title>
+      <link>https://www.heise.de/news/BundID-Login-fuer-mehrere-Stunden-lahmgelegt-10818030.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Persönliche Nutzerkonten von BundID waren heute Morgen für mehrere Stunden nicht erreichbar. Die Auslöser der Störungen sind derzeit unbekannt.]]>
+      </description>
+      <source:markdown>Persönliche Nutzerkonten von BundID waren heute Morgen für mehrere Stunden nicht erreichbar. Die Auslöser der Störungen sind derzeit unbekannt.</source:markdown>
+      <guid>cid://http://heise.de/-10818030</guid>
+    </item>    <item>
+      <title>General Motors killt CarPlay und Android Auto in allen Autos</title>
+      <link>https://www.heise.de/news/General-Motors-killt-CarPlay-und-Android-Auto-in-allen-Autos-10812373.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[General Motors alias GM will seinen Kunden nur noch sein eigenes Entertainmentsystem verkaufen. CarPlay muss weg – aber auch Android Auto.]]>
+      </description>
+      <source:markdown>General Motors alias GM will seinen Kunden nur noch sein eigenes Entertainmentsystem verkaufen. CarPlay muss weg – aber auch Android Auto.</source:markdown>
+      <guid>cid://http://heise.de/-10812373</guid>
+    </item>    <item>
+      <title>heise-Angebot: iX-Workshop: Microsoft Teams sicher und effizient administrieren</title>
+      <link>https://www.heise.de/news/iX-Workshop-Microsoft-Teams-sicher-und-effizient-administrieren-10749407.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Lernen Sie, wie Sie mit Microsoft Teams eine sichere und effiziente Arbeitsumgebung einrichten, verwalten und an die Bedürfnisse des Unternehmens anpassen.]]>
+      </description>
+      <source:markdown>Lernen Sie, wie Sie mit Microsoft Teams eine sichere und effiziente Arbeitsumgebung einrichten, verwalten und an die Bedürfnisse des Unternehmens anpassen.</source:markdown>
+      <guid>cid://http://heise.de/-10749407</guid>
+    </item>    <item>
+      <title>Amazon&#39;s AI specs aim to stop delivery drivers getting lost between van and porch</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/23/amazon_ai_smart_specs/</link>
+      <description>
+        <![CDATA[<h4>Why monitor staff through phones or cameras when Bezos&#39; boxshifter can strap surveillance to their heads?</h4> <p>Amazon is testing AI-powered smart glasses to help its drivers get from their vans to customers&#39; doorsteps.…</p>]]>
+      </description>
+      <source:markdown>#### Why monitor staff through phones or cameras when Bezos&#39; boxshifter can strap surveillance to their heads?
+
+Amazon is testing AI-powered smart glasses to help its drivers get from their vans to customers&#39; doorsteps.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242619</guid>
+    </item>    <item>
+      <title>Nexperia-Krise: Wirtschaftsministerium sieht &#34;erhebliche Betroffenheit&#34;</title>
+      <link>https://www.heise.de/news/Nexperia-Krise-Wirtschaftsministerium-sieht-erhebliche-Betroffenheit-10819376.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Folgen der Auseinandersetzung um den Chiphersteller Nexperia sind weiter unklar. Das Bundeswirtschaftsministerium spricht von "erheblicher Betroffenheit".]]>
+      </description>
+      <source:markdown>Die Folgen der Auseinandersetzung um den Chiphersteller Nexperia sind weiter unklar. Das Bundeswirtschaftsministerium spricht von &#34;erheblicher Betroffenheit&#34;.</source:markdown>
+      <guid>cid://http://heise.de/-10819376</guid>
+    </item>    <item>
+      <title>heise+ | Standardzoom im Test: Nikkor Z 24-70 mm f/2.8 S II</title>
+      <link>https://www.heise.de/tests/Standardzoom-im-Test-Nikkor-Z-24-70-mm-f-2-8-S-II-10793999.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Nikons Standardzoom vereint einen flexiblen Brennweitenbereich mit hoher Lichtstärke und exzellenter Leistung. Nun geht die zweite Generation ins Rennen.]]>
+      </description>
+      <source:markdown>Nikons Standardzoom vereint einen flexiblen Brennweitenbereich mit hoher Lichtstärke und exzellenter Leistung. Nun geht die zweite Generation ins Rennen.</source:markdown>
+      <guid>cid://http://heise.de/-10793999</guid>
+    </item>    <item>
+      <title>China: USA erwägen wohl Sanktionen für mit US-Software hergestellte Produkte</title>
+      <link>https://www.heise.de/news/China-USA-erwaegen-wohl-Sanktionen-fuer-mit-US-Software-hergestellte-Produkte-10816541.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Nach weiteren chinesischen Exportkontrollen für Seltene Erden diskutiert die Trump-Regierung ihre Reaktion: Auf dem Tisch liegt eine drastische Eskalation.]]>
+      </description>
+      <source:markdown>Nach weiteren chinesischen Exportkontrollen für Seltene Erden diskutiert die Trump-Regierung ihre Reaktion: Auf dem Tisch liegt eine drastische Eskalation.</source:markdown>
+      <guid>cid://http://heise.de/-10816541</guid>
+    </item>    <item>
+      <title>Autonomer Unterwassergleiter zu fünfjähriger Forschungsmission gestartet</title>
+      <link>https://www.heise.de/news/Autonomer-Unterwassergleiter-zu-fuenfjaehriger-Forschungsmission-gestartet-10815945.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der Unterwassergleiter "Redwing" soll auf einer langjährigen Forschungsmission durch die Weltmeere die Welt umrunden. Einen richtigen Antrieb besitzt er nicht.]]>
+      </description>
+      <source:markdown>Der Unterwassergleiter &#34;Redwing&#34; soll auf einer langjährigen Forschungsmission durch die Weltmeere die Welt umrunden. Einen richtigen Antrieb besitzt er nicht.</source:markdown>
+      <guid>cid://http://heise.de/-10815945</guid>
+    </item>    <item>
+      <title>Ubisoft fragt Angestellte von Massive, ob sie freiwillig gehen wollen</title>
+      <link>https://www.heise.de/news/Ubisoft-fragt-Angestellte-von-Massive-ob-sie-freiwillig-gehen-wollen-10816553.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ubisoft will Stellen bei Massive Entertainment kürzen. Wer freiwillig geht, bekommt ein Abfindungspaket.]]>
+      </description>
+      <source:markdown>Ubisoft will Stellen bei Massive Entertainment kürzen. Wer freiwillig geht, bekommt ein Abfindungspaket.</source:markdown>
+      <guid>cid://http://heise.de/-10816553</guid>
+    </item>    <item>
+      <title>System-Erweiterungen bleiben erhalten: Alter Bug aus macOS 15.3 auch in Tahoe</title>
+      <link>https://www.heise.de/news/System-Erweiterungen-bleiben-erhalten-Alter-Bug-aus-macOS-15-3-auch-in-Tahoe-10793002.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ein eigentlich behobenes Problem aus Sequoia steckt auch noch in macOS 26 Tahoe. Darauf machen Entwickler aufmerksam.]]>
+      </description>
+      <source:markdown>Ein eigentlich behobenes Problem aus Sequoia steckt auch noch in macOS 26 Tahoe. Darauf machen Entwickler aufmerksam.</source:markdown>
+      <guid>cid://http://heise.de/-10793002</guid>
+    </item>    <item>
+      <title>OpenBSD 7.8 läuft auf Raspberry Pi 5 und bekommt WPA3-Support gesponsort</title>
+      <link>https://www.heise.de/news/OpenBSD-7-8-laeuft-auf-Raspberry-Pi-5-und-bekommt-WPA3-Support-gesponsort-10815683.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[OpenBSD 7.8 bringt viele Verbesserungen im Sicherheits- und Netzwerkbereich. Neu sind etwa vertrauenswürdige VMs durch AMD Encrypted State.]]>
+      </description>
+      <source:markdown>OpenBSD 7.8 bringt viele Verbesserungen im Sicherheits- und Netzwerkbereich. Neu sind etwa vertrauenswürdige VMs durch AMD Encrypted State.</source:markdown>
+      <guid>cid://http://heise.de/-10815683</guid>
+    </item>    <item>
+      <title>Globale IT-Investitionen knacken Sechs-Billionen-Dollar-Marke</title>
+      <link>https://www.heise.de/news/Globale-IT-Investitionen-knacken-Sechs-Billionen-Dollar-Marke-10815917.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Marktforschungsfirma Gartner korrigiert ihre Prognose nach oben. Die weltweiten IT-Ausgaben sollen nun 2025 und 2026 um circa zehn Prozent zulegen.]]>
+      </description>
+      <source:markdown>Die Marktforschungsfirma Gartner korrigiert ihre Prognose nach oben. Die weltweiten IT-Ausgaben sollen nun 2025 und 2026 um circa zehn Prozent zulegen.</source:markdown>
+      <guid>cid://http://heise.de/-10815917</guid>
+    </item>    <item>
+      <title>M5 im Check: Apples erster richtiger KI-Chip ist da | Mac &#38; i-Podcast</title>
+      <link>https://www.heise.de/news/M5-im-Check-Apples-erster-richtiger-KI-Chip-ist-da-Mac-i-Podcast-10816523.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[MacBook Pro, iPad Pro und Vision Pro 2025: Wir besprechen Stärken wie Schwächen der Neulinge und analysieren Apples Chip-Marschrichtung.]]>
+      </description>
+      <source:markdown>MacBook Pro, iPad Pro und Vision Pro 2025: Wir besprechen Stärken wie Schwächen der Neulinge und analysieren Apples Chip-Marschrichtung.</source:markdown>
+      <guid>cid://http://heise.de/-10816523</guid>
+    </item>    <item>
+      <title>Microsoft threatens to ram Copilot into Exchange Server on-prem</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/23/copilot_exchange_server/</link>
+      <description>
+        <![CDATA[<h4>Survey probes interest in AI assistance for locally hosted email setups</h4> <p>Microsoft&#39;s mission to &#34;Copilot all the things&#34; has reached Exchange Server, with a survey asking if admins want the AI assistant on-prem.…</p>]]>
+      </description>
+      <source:markdown>#### Survey probes interest in AI assistance for locally hosted email setups
+
+Microsoft&#39;s mission to &#34;Copilot all the things&#34; has reached Exchange Server, with a survey asking if admins want the AI assistant on-prem.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242618</guid>
+    </item>    <item>
+      <title>Sicherheitslücken: GitLab-Entwickler raten zu zügigem Update</title>
+      <link>https://www.heise.de/news/Sicherheitsluecken-GitLab-Entwickler-raten-zu-zuegigem-Update-10812208.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Softwareentwicklungsplattform GitLab ist attackierbar. Angreifer können unter anderem DoS-Attacken ausführen.]]>
+      </description>
+      <source:markdown>Die Softwareentwicklungsplattform GitLab ist attackierbar. Angreifer können unter anderem DoS-Attacken ausführen.</source:markdown>
+      <guid>cid://http://heise.de/-10812208</guid>
+    </item>    <item>
+      <title>heise-Angebot: heise security Webinar: NIS-2 rechtssicher im Unternehmen umsetzen</title>
+      <link>https://www.heise.de/news/heise-security-Webinar-NIS-2-rechtssicher-im-Unternehmen-umsetzen-10793343.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Unser Webinar erklärt, ob Ihr Unternehmen von NIS-2 betroffen ist, welche Pflichten da auf Sie zukommen und wie Sie das praktisch hinbekommen.]]>
+      </description>
+      <source:markdown>Unser Webinar erklärt, ob Ihr Unternehmen von NIS-2 betroffen ist, welche Pflichten da auf Sie zukommen und wie Sie das praktisch hinbekommen.</source:markdown>
+      <guid>cid://http://heise.de/-10793343</guid>
+    </item>    <item>
+      <title>Webcam-Warnung: Abdeckungen können MacBook-Display zerstören</title>
+      <link>https://www.heise.de/news/Webcam-Warnung-Abdeckungen-koennen-MacBook-Display-zerstoeren-10792976.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Apple hat ein Supportdokument mit Warnhinweisen: Handelsübliche Webcam-Abdeckungen sind für MacBooks ein Problem. Das sind die Alternativen.]]>
+      </description>
+      <source:markdown>Apple hat ein Supportdokument mit Warnhinweisen: Handelsübliche Webcam-Abdeckungen sind für MacBooks ein Problem. Das sind die Alternativen.</source:markdown>
+      <guid>cid://http://heise.de/-10792976</guid>
+    </item>    <item>
+      <title>software-architektur.tv: Experiencing Generative AI mit Oliver Zeigermann</title>
+      <link>https://www.heise.de/news/software-architektur-tv-Experiencing-Generative-AI-mit-Oliver-Zeigermann-10811070.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Anhand einer Demo-Applikation sprechen Oliver Zeigermann und Lisa Maria Schäfer über das Thema generative KI.]]>
+      </description>
+      <source:markdown>Anhand einer Demo-Applikation sprechen Oliver Zeigermann und Lisa Maria Schäfer über das Thema generative KI.</source:markdown>
+      <guid>cid://http://heise.de/-10811070</guid>
+    </item>    <item>
+      <title>Microsoft stellt Office Online Server Ende 2026 ein</title>
+      <link>https://www.heise.de/news/Microsoft-stellt-Office-Online-Server-Ende-2026-ein-10812876.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Microsoft beendet den Support für Office Online Server zum 31. Dezember 2026. Betroffen sind neben On-Premises-Installationen auch Skype-for-Business-Nutzer.]]>
+      </description>
+      <source:markdown>Microsoft beendet den Support für Office Online Server zum 31. Dezember 2026. Betroffen sind neben On-Premises-Installationen auch Skype-for-Business-Nutzer.</source:markdown>
+      <guid>cid://http://heise.de/-10812876</guid>
+    </item>    <item>
+      <title>Drei Fragen und Antworten: Wireshark Certified Analyst – das Netzwerk-Zertifikat</title>
+      <link>https://www.heise.de/news/Drei-Fragen-und-Antworten-Wireshark-Certified-Analyst-das-Netzwerk-Zertifikat-10624887.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Wer seine Fähigkeit mit dem Netzanalysetool Wireshark belegen will, kann eine Prüfung ablegen und erhält ein offizielles Zertifikat der Wireshark Foundation.]]>
+      </description>
+      <source:markdown>Wer seine Fähigkeit mit dem Netzanalysetool Wireshark belegen will, kann eine Prüfung ablegen und erhält ein offizielles Zertifikat der Wireshark Foundation.</source:markdown>
+      <guid>cid://http://heise.de/-10624887</guid>
+    </item>    <item>
+      <title>SpaceX pulls plug on 2,500 Starlink terminals tied to Myanmar fraud farms</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/23/spacex_starlink_myanmar/</link>
+      <description>
+        <![CDATA[<h4>Criminal outfits had been using Musk&#39;s broadband beacons to run cyber-slavery scams across Southeast Asia</h4> <p>SpaceX says it has shut down thousands of Starlink terminals that were powering Myanmar&#39;s notorious scam compounds after its satellite network was found to be keeping human trafficking and cyber-fraud operations online in the country&#39;s lawless border zones.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Criminal outfits had been using Musk&#39;s broadband beacons to run cyber-slavery scams across Southeast Asia
+
+SpaceX says it has shut down thousands of Starlink terminals that were powering Myanmar&#39;s notorious scam compounds after its satellite network was found to be keeping human trafficking and cyber-fraud operations online in the country&#39;s lawless border zones.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242616</guid>
+    </item>    <item>
+      <title>KDE Plasma 6.5 kommt mit kurvigen Ecken</title>
+      <link>https://www.heise.de/news/KDE-Plasma-6-5-kommt-mit-kurvigen-Ecken-10813730.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die neue Version der Desktop-Umgebung KDE Plasma schleift die Fensterecken rund, verbessert die Zwischenablage und legt bei der Barrierefreiheit nach.]]>
+      </description>
+      <source:markdown>Die neue Version der Desktop-Umgebung KDE Plasma schleift die Fensterecken rund, verbessert die Zwischenablage und legt bei der Barrierefreiheit nach.</source:markdown>
+      <guid>cid://http://heise.de/-10813730</guid>
+    </item>    <item>
+      <title>JavaScript: Testing-Framework Vitest 4.0 bringt visuelles Regressionstesting</title>
+      <link>https://www.heise.de/news/JavaScript-Testing-Framework-Vitest-4-0-bringt-visuelles-Regressionstesting-10811238.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Im Major Release ist der Browser Mode stabil, der neuerdings Visual Regression Testing bietet, um optische Änderungen aufzudecken.]]>
+      </description>
+      <source:markdown>Im Major Release ist der Browser Mode stabil, der neuerdings Visual Regression Testing bietet, um optische Änderungen aufzudecken.</source:markdown>
+      <guid>cid://http://heise.de/-10811238</guid>
+    </item>    <item>
+      <title>Wohl weltgrößtes Kabelverlegeschiff &#34;Fleeming Jenkin&#34; vom Stapel gelaufen</title>
+      <link>https://www.heise.de/news/Wohl-weltgroesstes-Kabelverlegeschiff-Fleeming-Jenkin-vom-Stapel-gelaufen-10811136.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das Kabelverlegeschiff "Fleeming Jenkin" kann über 28.000 t Unterseekabel aufnehmen. Das neue Schiff soll 2026 den Betrieb in der Nordsee aufnehmen.]]>
+      </description>
+      <source:markdown>Das Kabelverlegeschiff &#34;Fleeming Jenkin&#34; kann über 28.000 t Unterseekabel aufnehmen. Das neue Schiff soll 2026 den Betrieb in der Nordsee aufnehmen.</source:markdown>
+      <guid>cid://http://heise.de/-10811136</guid>
+    </item>    <item>
+      <title>Microsoft finance slang defines the eternal optimist: The &#39;hockey stick on wheels&#39;</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/23/microsoft_hockey_stick_wheels/</link>
+      <description>
+        <![CDATA[<h4>The wheels on Copilot&#39;s hockey stick must be giving off smoke by now</h4> <p>Microsoft&#39;s finance division has a term for an overly optimistic projection that seems to march backward year after year: the hockey stick on wheels.…</p>]]>
+      </description>
+      <source:markdown>#### The wheels on Copilot&#39;s hockey stick must be giving off smoke by now
+
+Microsoft&#39;s finance division has a term for an overly optimistic projection that seems to march backward year after year: the hockey stick on wheels.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242598</guid>
+    </item>    <item>
+      <title>Prag verbannt Elektro-Tretroller ab 2026 aus der Innenstadt</title>
+      <link>https://www.heise.de/news/Prag-verbannt-Elektro-Tretroller-ab-2026-aus-der-Innenstadt-10811535.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[In der tschechischen Hauptstadt Prag dürfen nach einem Referendum und einem Stadtratsbeschluss ab 2026 keine E-Scooter mehr aufgestellt werden.]]>
+      </description>
+      <source:markdown>In der tschechischen Hauptstadt Prag dürfen nach einem Referendum und einem Stadtratsbeschluss ab 2026 keine E-Scooter mehr aufgestellt werden.</source:markdown>
+      <guid>cid://http://heise.de/-10811535</guid>
+    </item>    <item>
+      <title>heise+ |  Klimaschutz oder Greenwashing? Apples kontroverses Baum-Projekt in Brasilien</title>
+      <link>https://www.heise.de/hintergrund/Klimaschutz-oder-Greenwashing-Apples-kontroverses-Baum-Projekt-in-Brasilien-10783625.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Der Tech-Konzern Apple will mit Millionen Eukalyptusbäumen in Brasilien seine Klimabilanz aufbessern. Ökologen und Anwohner sind wenig begeistert.]]>
+      </description>
+      <source:markdown>Der Tech-Konzern Apple will mit Millionen Eukalyptusbäumen in Brasilien seine Klimabilanz aufbessern. Ökologen und Anwohner sind wenig begeistert.</source:markdown>
+      <guid>cid://http://heise.de/-10783625</guid>
+    </item>    <item>
+      <title>Großbritannien: Altersverifikation reduziert Pornoseiten-Besuche drastisch</title>
+      <link>https://www.heise.de/news/Online-Alterscheck-sorgt-fuer-weniger-Datenverkehr-auf-Pornoseiten-10811871.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Altersverifikation für Pornografie-Websites in Großbritannien führt zu deutlich weniger Besuchen. Dies meldet die britische Medienaufsicht Ofcom.]]>
+      </description>
+      <source:markdown>Altersverifikation für Pornografie-Websites in Großbritannien führt zu deutlich weniger Besuchen. Dies meldet die britische Medienaufsicht Ofcom.</source:markdown>
+      <guid>cid://http://heise.de/-10811871</guid>
+    </item>    <item>
+      <title>OpenBSD 7.8 out now, and you&#39;re not seeing double, 9front releases &#39;Release&#39;</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/23/openbsd_78_and_9front_release/</link>
+      <description>
+        <![CDATA[<h4>New version includes multithreaded TCP/IP and Raspberry Pi 5 support</h4> <p>The <a href="https://www.openbsd.org/78.html" rel="nofollow">59th version</a> of the OpenBSD operating system is here, six months after <a href="https://www.theregister.com/2025/04/29/openbsd_77_is_out/">7.7</a>, with multiple improvements in various areas.…</p>]]>
+      </description>
+      <source:markdown>#### New version includes multithreaded TCP/IP and Raspberry Pi 5 support
+
+The [59th version](https://www.openbsd.org/78.html) of the OpenBSD operating system is here, six months after [7.7](https://www.theregister.com/2025/04/29/openbsd_77_is_out/), with multiple improvements in various areas.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242602</guid>
+    </item>    <item>
+      <title>heise-Angebot: iX-Workshop: Unternehmensprozesse mit Multi-Agenten-Systemen automatisieren</title>
+      <link>https://www.heise.de/news/iX-Workshop-Unternehmensprozesse-mit-Multi-Agenten-Systemen-automatisieren-10749411.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Lernen Sie, wie Sie LLMs lokal ausführen, für spezifische Einsatzzwecke im Unternehmen konfigurieren und Prozesse mit Multi-Agenten-Systemen automatisieren.]]>
+      </description>
+      <source:markdown>Lernen Sie, wie Sie LLMs lokal ausführen, für spezifische Einsatzzwecke im Unternehmen konfigurieren und Prozesse mit Multi-Agenten-Systemen automatisieren.</source:markdown>
+      <guid>cid://http://heise.de/-10749411</guid>
+    </item>    <item>
+      <title>Paint: Microsoft rüstet KI-Stil-Änderung in Windows-Zeichenprogramm nach</title>
+      <link>https://www.heise.de/news/Paint-Windows-Zeichenprogramm-aendert-Bild-Stile-10811146.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das Windows-eigene Zeichenprogramm Paint bekommt eine neue KI-Funktion. Sie ändert den Stil von Bildern.]]>
+      </description>
+      <source:markdown>Das Windows-eigene Zeichenprogramm Paint bekommt eine neue KI-Funktion. Sie ändert den Stil von Bildern.</source:markdown>
+      <guid>cid://http://heise.de/-10811146</guid>
+    </item>    <item>
+      <title>KI dominiert Gartners Technologieausblick für 2026</title>
+      <link>https://www.heise.de/news/KI-dominiert-Gartners-Technologieausblick-fuer-2026-10794740.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Mit zehn zentralen Techtrends wollen die Marktforscher von Gartner der Unternehmens-IT Orientierung für die kommenden Jahre bieten. Einmal mehr ganz vorne: KI.]]>
+      </description>
+      <source:markdown>Mit zehn zentralen Techtrends wollen die Marktforscher von Gartner der Unternehmens-IT Orientierung für die kommenden Jahre bieten. Einmal mehr ganz vorne: KI.</source:markdown>
+      <guid>cid://http://heise.de/-10794740</guid>
+    </item>    <item>
+      <title>Amazon-Paketboten bekommen smarte Zustellbrillen</title>
+      <link>https://www.heise.de/news/Amazon-stellt-smarte-AR-Brillen-fuer-Zusteller-vor-10811142.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Amazon will den Zustellprozess vereinfachen: Smarte Brillen sollen Paketboten helfen, in komplexen Umgebungen zu navigieren, ohne sich umsehen zu müssen.]]>
+      </description>
+      <source:markdown>Amazon will den Zustellprozess vereinfachen: Smarte Brillen sollen Paketboten helfen, in komplexen Umgebungen zu navigieren, ohne sich umsehen zu müssen.</source:markdown>
+      <guid>cid://http://heise.de/-10811142</guid>
+    </item>    <item>
+      <title>UK.gov vows to hack through regulation to get benefit from AI</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/23/uk_ai_regulations/</link>
+      <description>
+        <![CDATA[<h4>Meanwhile, civil services claims 75,000 days could be saved by the tech each year</h4> <p>Ignoring the skeptics and threat of an AI bubble, the UK government is pushing ahead with AI &#34;sandboxing&#34; and backing a raft of projects it claims could benefit from red-tape cutting.…</p>]]>
+      </description>
+      <source:markdown>#### Meanwhile, civil services claims 75,000 days could be saved by the tech each year
+
+Ignoring the skeptics and threat of an AI bubble, the UK government is pushing ahead with AI &#34;sandboxing&#34; and backing a raft of projects it claims could benefit from red-tape cutting.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242599</guid>
+    </item>    <item>
+      <title>heise+ | Vom Flügel zur Diele: Wo das Recycling von Windrädern steht</title>
+      <link>https://www.heise.de/hintergrund/Vom-Fluegel-zur-Diele-Wo-das-Recycling-von-Windraedern-steht-10792918.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Alte Windräder sind ein Rohstoffschatz, für den Müll viel zu schade. Beim Recycling klemmt es. Materialmangel, Kosten und fehlende Daten bremsen den Kreislauf.]]>
+      </description>
+      <source:markdown>Alte Windräder sind ein Rohstoffschatz, für den Müll viel zu schade. Beim Recycling klemmt es. Materialmangel, Kosten und fehlende Daten bremsen den Kreislauf.</source:markdown>
+      <guid>cid://http://heise.de/-10792918</guid>
+    </item>    <item>
+      <title>Herbert Diess verlässt Volkswagen endgültig</title>
+      <link>https://www.heise.de/news/Herbert-Diess-verlaesst-Volkswagen-endgueltig-10811082.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der ehemalige Konzernchef Diess verlässt Volkswagen und geht in den Ruhestand, nachdem er zuletzt mehr Geld bekam als der aktuelle CEO.]]>
+      </description>
+      <source:markdown>Der ehemalige Konzernchef Diess verlässt Volkswagen und geht in den Ruhestand, nachdem er zuletzt mehr Geld bekam als der aktuelle CEO.</source:markdown>
+      <guid>cid://http://heise.de/-10811082</guid>
+    </item>    <item>
+      <title>Tesla: Verkaufsrekord und Gewinnrückgang</title>
+      <link>https://www.heise.de/news/Tesla-Verkaufsrekord-und-Gewinnrueckgang-10811066.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Für Tesla läuft es derzeit nicht gut. Die Marke konnte im dritten Quartal durch einen Sondereffekt zwar mehr Autos verkaufen, macht aber weniger Gewinn.]]>
+      </description>
+      <source:markdown>Für Tesla läuft es derzeit nicht gut. Die Marke konnte im dritten Quartal durch einen Sondereffekt zwar mehr Autos verkaufen, macht aber weniger Gewinn.</source:markdown>
+      <guid>cid://http://heise.de/-10811066</guid>
+    </item>    <item>
+      <title>OpenWRT: Updates schließen Sicherheitslücken in Router-Betriebssystem</title>
+      <link>https://www.heise.de/news/OpenWRT-Updates-schliessen-Sicherheitsluecken-in-Router-Betriebssystem-10811056.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Zwei als hochriskant geltende Sicherheitslücken haben die Entwickler des quelloffenen Router-Betriebssystems OpenWRT geschlossen.]]>
+      </description>
+      <source:markdown>Zwei als hochriskant geltende Sicherheitslücken haben die Entwickler des quelloffenen Router-Betriebssystems OpenWRT geschlossen.</source:markdown>
+      <guid>cid://http://heise.de/-10811056</guid>
+    </item>    <item>
+      <title>heise-Angebot: IT Summit 2025: Wie Deutschland digital souverän wird</title>
+      <link>https://www.heise.de/news/IT-Summit-2025-Wie-Deutschland-digital-souveraen-wird-10793383.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Am 11. und 12. November geht es in München um das Thema Digitale Souveränität. Experten aus Politik, Wirtschaft und Forschung zeigen Wege und Perspektiven auf.]]>
+      </description>
+      <source:markdown>Am 11. und 12. November geht es in München um das Thema Digitale Souveränität. Experten aus Politik, Wirtschaft und Forschung zeigen Wege und Perspektiven auf.</source:markdown>
+      <guid>cid://http://heise.de/-10793383</guid>
+    </item>    <item>
+      <title>Apple’s AirDrop makes weird latency spikes for Wi-Fi wonks, researcher finds</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/23/apple_airdrop_awdl_latency_research/</link>
+      <description>
+        <![CDATA[<h4>Cupertino wants you on certain channels, and pushes back if you have your own preferences</h4> <p>Networking researcher Christoff Visser has found that Apple devices cause Wi-Fi networks to “jitter” due to traffic generated by the Apple Wireless Direct Link (AWDL) tech that powers the peer-to-peer AirDrop filesharing tool.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Cupertino wants you on certain channels, and pushes back if you have your own preferences
+
+Networking researcher Christoff Visser has found that Apple devices cause Wi-Fi networks to “jitter” due to traffic generated by the Apple Wireless Direct Link (AWDL) tech that powers the peer-to-peer AirDrop filesharing tool.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242614</guid>
+    </item>    <item>
+      <title>Russland schränkt Whatsapp und Telegram erneut ein</title>
+      <link>https://www.heise.de/news/Russland-schraenkt-Whatsapp-und-Telegram-erneut-ein-10811038.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Moskau baut die Internet-Zensur seit dem Angriffskrieg auf Ukraine zunehmend aus. Nun trifft es erneut Whatsapp und Telegram – wegen angeblicher Krimineller.]]>
+      </description>
+      <source:markdown>Moskau baut die Internet-Zensur seit dem Angriffskrieg auf Ukraine zunehmend aus. Nun trifft es erneut Whatsapp und Telegram – wegen angeblicher Krimineller.</source:markdown>
+      <guid>cid://http://heise.de/-10811038</guid>
+    </item>    <item>
+      <title>Experten: Cyberangriff auf Jaguar ist teuerster in britischer Geschichte</title>
+      <link>https://www.heise.de/news/Experten-Cyberangriff-auf-Jaguar-ist-teuerster-in-britischer-Geschichte-10811032.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der Cyberangriff auf den britischen Autobauer Jaguar Land Rover war nach Einschätzung von Experten der wirtschaftlich schädlichste in der Geschichte des Landes.]]>
+      </description>
+      <source:markdown>Der Cyberangriff auf den britischen Autobauer Jaguar Land Rover war nach Einschätzung von Experten der wirtschaftlich schädlichste in der Geschichte des Landes.</source:markdown>
+      <guid>cid://http://heise.de/-10811032</guid>
+    </item>    <item>
+      <title>Donnerstag: Meta reduziert KI-Abteilung, YouTube geht gegen KI-Deepfakes vor</title>
+      <link>https://www.heise.de/news/Donnerstag-Meta-reduziert-KI-Abteilung-YouTube-geht-gegen-KI-Deepfakes-vor-10811028.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Kündigungen von KI-Spezialisten + Urheberrecht von Videoschaffenden + AWS-Ausfall stört Matratzen + Urteile stärken Elektroschrott-Rücknahmepflicht + #heiseshow]]>
+      </description>
+      <source:markdown>Kündigungen von KI-Spezialisten + Urheberrecht von Videoschaffenden + AWS-Ausfall stört Matratzen + Urteile stärken Elektroschrott-Rücknahmepflicht + #heiseshow</source:markdown>
+      <guid>cid://http://heise.de/-10811028</guid>
+    </item>    <item>
+      <title>#heiseshow: 40 Jahre 80386, Amazon und die Roboter, ChatGPT-Browser</title>
+      <link>https://www.heise.de/news/heiseshow-40-Jahre-80386-Amazon-und-die-Roboter-ChatGPT-Browser-10796379.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[In der #heiseshow: Der 80386 wird 40 Jahre alt, Amazon plant angeblich den Ersatz von Mitarbeitern durch Roboter und OpenAI startet den Browser Atlas.]]>
+      </description>
+      <source:markdown>In der #heiseshow: Der 80386 wird 40 Jahre alt, Amazon plant angeblich den Ersatz von Mitarbeitern durch Roboter und OpenAI startet den Browser Atlas.</source:markdown>
+      <guid>cid://http://heise.de/-10796379</guid>
+    </item>    <item>
+      <title>With impeccable timing, AWS debuts automated cloud incident report generator</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/23/aws_cloudwatch_automated_incident_reports/</link>
+      <description>
+        <![CDATA[<h4>We could really have used this a couple of days ago, guys</h4> <p>In the same week that a massive outage of its own cloud inconvenienced millions of customers, AWS has delivered an improved interactive incident reporting service to help its customers explain what happened when their cloud-hosted resources strike trouble.…</p>]]>
+      </description>
+      <source:markdown>#### We could really have used this a couple of days ago, guys
+
+In the same week that a massive outage of its own cloud inconvenienced millions of customers, AWS has delivered an improved interactive incident reporting service to help its customers explain what happened when their cloud-hosted resources strike trouble.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242613</guid>
+    </item>    <item>
+      <title>YouTubes neues Tool zur Gesichtserkennung soll KI-Deepfakes unterbinden</title>
+      <link>https://www.heise.de/news/YouTubes-neues-Tool-zur-Gesichtserkennung-soll-KI-Deepfakes-unterbinden-10811018.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Content-Ersteller können bei YouTube nach KI-Deepfakes ihrer Person suchen und solche Videos entfernen lassen. Dafür benötigt YouTube Ausweis und Gesichtsvideo.]]>
+      </description>
+      <source:markdown>Content-Ersteller können bei YouTube nach KI-Deepfakes ihrer Person suchen und solche Videos entfernen lassen. Dafür benötigt YouTube Ausweis und Gesichtsvideo.</source:markdown>
+      <guid>cid://http://heise.de/-10811018</guid>
+    </item>    <item>
+      <title>IBM is just not into the &#39;spend megabucks on cloudy GPUs&#39; thing, rents them instead</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/23/ibm_q3_2025/</link>
+      <description>
+        <![CDATA[<h4>Infra revenue soars and AI helps everything … except the share price</h4> <p>If IBM reveals improved profit margins or a fresh round of redundancies, AI may be the reason, because Big Blue today revealed that its own “Project Bob” developer assistance tools have improved productivity among its coders by 45 percent.…</p>]]>
+      </description>
+      <source:markdown>#### Infra revenue soars and AI helps everything … except the share price
+
+If IBM reveals improved profit margins or a fresh round of redundancies, AI may be the reason, because Big Blue today revealed that its own “Project Bob” developer assistance tools have improved productivity among its coders by 45 percent.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242612</guid>
+    </item>    <item>
+      <title>OpenAI&#39;s Atlas shrugs off security concerns over prompt injection</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/22/openai_defends_atlas_as_prompt/</link>
+      <description>
+        <![CDATA[<h4>&#39;Trust no AI&#39; says one researcher</h4> <p>OpenAI&#39;s brand new Atlas browser is more than willing to follow commands maliciously embedded in a web page, an attack type known as indirect prompt injection.…</p>]]>
+      </description>
+      <source:markdown>#### &#39;Trust no AI&#39; says one researcher
+
+OpenAI&#39;s brand new Atlas browser is more than willing to follow commands maliciously embedded in a web page, an attack type known as indirect prompt injection.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242611</guid>
+    </item>    <item>
+      <title>See This Year&#39;s Hilarious Finalists From the Nikon Comedy Wildlife Awards, From Gossiping Leopards to Breakdancing Foxes</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-this-years-hilarious-finalists-from-the-nikon-comedy-wildlife-awards-from-gossiping-leopards-to-breakdancing-foxes-180987554/</link>
+      <description>
+        <![CDATA[The 40 shortlisted photographs pair talented nature photography with humorous captures that often rely on clicking the shutter at just the right moment]]>
+      </description>
+      <source:markdown>The 40 shortlisted photographs pair talented nature photography with humorous captures that often rely on clicking the shutter at just the right moment</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/lWCAXvzXxi-8pbv6bJlaY6foC4A=/420x240/filters:focal(4752x3168:4753x3169)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c5/73/c573bcac-89a5-43cd-b3c7-cfba1317d2de/bret_saalwaechter_i-just-cant-wait-to-be-king.jpg" length="" type="" />
+    </item>    <item>
+      <title>Ex-Uber CSO is gellin&#39; like a felon with teen cyber crims, explains why they do it</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/22/exuber_cso_joe_sullivan_interview/</link>
+      <description>
+        <![CDATA[<h4>Meanwhile Sullivan&#39;s legal battle continues</h4> <p><strong>interview</strong>  Two convicted felons walk into a room at the request of a federal judge who wanted one of them - Joe Sullivan, the former Uber chief security officer found guilty of attempting to cover up a 2016 breach at the rideshare company - to help rehabilitate the other, whom the feds accused of hacking into corporate networks as a teen and participating in a &#34;significant&#34; digital heist.…</p>]]>
+      </description>
+      <source:markdown>#### Meanwhile Sullivan&#39;s legal battle continues
+
+**interview**  Two convicted felons walk into a room at the request of a federal judge who wanted one of them - Joe Sullivan, the former Uber chief security officer found guilty of attempting to cover up a 2016 breach at the rideshare company - to help rehabilitate the other, whom the feds accused of hacking into corporate networks as a teen and participating in a &#34;significant&#34; digital heist.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242610</guid>
+    </item>    <item>
       <title>NextSilicon Maverick-2 promises to blow away the HPC market Nvidia left behind</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/22/nextsilicon_maverick2_fill_nvidia_hpc_void/</link>
       <description>
@@ -489,9 +971,9 @@ China&#39;s CR450 train hit 453 km/h during pre-service trials, surpassing its C
       <title>heise+ | E-Motorräder: Warum der Markt keine Fahrt aufnimmt</title>
       <link>https://www.heise.de/ratgeber/E-Motorraeder-Warum-der-Markt-keine-Fahrt-aufnimmt-10779763.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
       <description>
-        <![CDATA[Es gibt inzwischen eine gewisse Auswahl an Elektromotorräder auf dem Markt. Doch gekauft werden sie nur höchst selten. Warum eigentlich?]]>
+        <![CDATA[Es gibt inzwischen eine gewisse Auswahl an Elektromotorrädern auf dem Markt. Doch gekauft werden sie nur höchst selten. Warum eigentlich?]]>
       </description>
-      <source:markdown>Es gibt inzwischen eine gewisse Auswahl an Elektromotorräder auf dem Markt. Doch gekauft werden sie nur höchst selten. Warum eigentlich?</source:markdown>
+      <source:markdown>Es gibt inzwischen eine gewisse Auswahl an Elektromotorrädern auf dem Markt. Doch gekauft werden sie nur höchst selten. Warum eigentlich?</source:markdown>
       <guid>cid://http://heise.de/-10779763</guid>
     </item>    <item>
       <title>Nervende Vorschau-App auf dem iPhone: Löschen hilft</title>
@@ -4011,6 +4493,14 @@ Data-hungry rail passengers will have to wait until at least 2030 before getting
 
 Meta on Wednesday entered into a partnership with Arm Holdings with the aim of helping its software run more efficiently on the British chip designer&#39;s CPUs.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242500</guid>
+    </item>    <item>
+      <title>Forgejo v13.0 is available</title>
+      <link>https://forgejo.org/2025-10-release-v13-0/</link>
+      <description>
+        <![CDATA[Forgejo v13.0 is available. A new moderation tool is available to report inappropriate user behavior or content that should be looked at by instance administrators. Two factor authentication (TOTP, etc.) can be enforced on the entire instance for all users or instance administrators. Forgejo Actions usability was improved with static checking of workflow files and access to the logs of all run attempts.]]>
+      </description>
+      <source:markdown>Forgejo v13.0 is available. A new moderation tool is available to report inappropriate user behavior or content that should be looked at by instance administrators. Two factor authentication (TOTP, etc.) can be enforced on the entire instance for all users or instance administrators. Forgejo Actions usability was improved with static checking of workflow files and access to the logs of all run attempts.</source:markdown>
+      <guid>cid://https://forgejo.org/2025-10-release-v13-0/</guid>
     </item>    <item>
       <title>Librephone battles the proprietary binary blob</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/15/fsf_librphone_vs_proprietary_binary_blog/</link>
@@ -8143,410 +8633,13 @@ Microsoft has delivered its found a way to make Crocs even uglier by using some 
 New Zealand’s Institute of IT Professionals has discovered it is insolvent and advised members it has no alternative but to enter liquidation.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242264</guid>
     </item>    <item>
-      <title>Meta will listen into AI conversations to personalize ads</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/meta_ai_use_informs_ads/</link>
+      <title>Forgejo monthly report - September 2025</title>
+      <link>https://forgejo.org/2025-09-monthly-report/</link>
       <description>
-        <![CDATA[<h4>Religion, race, health and other dicey topics supposedly exempt</h4> <p>Meta, having committed hundreds of billions to AI infrastructure and talent, says it will start using people&#39;s conversations and interactions with its AI services to create personalized content and advertising.…</p>]]>
+        <![CDATA[The Forgejo v13.0 branch has been cut and the release is scheduled for October 16. Please consider testing it out and sharing your feedback to help us improve it. Forgejo Runner v11 has been released and is now licensed under GPLv3+. Improvements were made to the documentation regarding the Runner setup. Work on improving and securing database interaction has begun. There is an ongoing strong enthusiasm for translating Forgejo.]]>
       </description>
-      <source:markdown>#### Religion, race, health and other dicey topics supposedly exempt
-
-Meta, having committed hundreds of billions to AI infrastructure and talent, says it will start using people&#39;s conversations and interactions with its AI services to create personalized content and advertising.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242263</guid>
-    </item>    <item>
-      <title>Texas man accidentally shoots cable, brings internet down</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/texas_internet_outage_gunshot/</link>
-      <description>
-        <![CDATA[<h4>And it’s not the first time gunfire has cut Spectrum’s lines</h4> <p>A stray bullet cut through a Spectrum fiber line on Friday, knocking an undisclosed number of Texans offline.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### And it’s not the first time gunfire has cut Spectrum’s lines
-
-A stray bullet cut through a Spectrum fiber line on Friday, knocking an undisclosed number of Texans offline.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242261</guid>
-    </item>    <item>
-      <title>Why Is This Remote and Rugged River in Alaska Turning Orange?</title>
-      <link>https://www.smithsonianmag.com/smart-news/why-is-this-remote-and-rugged-river-in-alaska-turning-orange-180987431/</link>
-      <description>
-        <![CDATA[New research suggests the Salmon River is full of toxic metals that are likely harming fish and other aquatic creatures]]>
-      </description>
-      <source:markdown>New research suggests the Salmon River is full of toxic metals that are likely harming fish and other aquatic creatures</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/cIMACSSTCEUVU7PP_yByg3Zs7dk=/420x240/filters:focal(1457x1817:1458x1818)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/83/d0/83d0995d-df81-40fa-aa59-1fa4c6bac39f/fig_1a.jpeg" length="" type="" />
-    </item>    <item>
-      <title>Microsoft declares bring your Copilot to work day, usurping IT authority</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/microsoft_consumer_copilot_corporate/</link>
-      <description>
-        <![CDATA[<h4>Use your home subscription with your work Microsoft 365 account</h4> <p>Your job may not support BYOD, but how about BYOC? Microsoft has declared that people can bring their personal Microsoft 365 subscriptions to work to access various Copilot features at companies that fail to provide an AI fix.…</p>]]>
-      </description>
-      <source:markdown>#### Use your home subscription with your work Microsoft 365 account
-
-Your job may not support BYOD, but how about BYOC? Microsoft has declared that people can bring their personal Microsoft 365 subscriptions to work to access various Copilot features at companies that fail to provide an AI fix.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242260</guid>
-    </item>    <item>
-      <title>After Two Years as Runner-Up, Chunk Is Finally Crowned Winner of Fat Bear Week</title>
-      <link>https://www.smithsonianmag.com/smart-news/after-two-years-as-runner-up-chunk-is-finally-crowned-winner-of-fat-bear-week-180987428/</link>
-      <description>
-        <![CDATA[The brown bear heavyweight persevered through a jaw injury this year that will permanently hinder his ability to fight and hunt]]>
-      </description>
-      <source:markdown>The brown bear heavyweight persevered through a jaw injury this year that will permanently hinder his ability to fight and hunt</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/BXlwfN8dzdnhPQ2wF3D3TkKDqpI=/420x240/filters:focal(1024x770:1025x771)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5b/6d/5b6d094c-81ca-4515-b4d3-10b64a0cfa57/54805414414_ef292e1f1f_k.jpg" length="" type="" />
-    </item>    <item>
-      <title>US gov shutdown leaves IT projects hanging, security defenders a skeleton crew</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/us_government_shutdown_it_seccurity/</link>
-      <description>
-        <![CDATA[<h4>The longer the shutdown, the less likely critical IT overhauls happen, ex federal CISO tells <i>The Register</i></h4> <p>The US government shut down at 1201 ET on October 1, halting non-essential IT modernization and leaving cybersecurity operations to run on skeleton crews.…</p>]]>
-      </description>
-      <source:markdown>#### The longer the shutdown, the less likely critical IT overhauls happen, ex federal CISO tells _The Register_
-
-The US government shut down at 1201 ET on October 1, halting non-essential IT modernization and leaving cybersecurity operations to run on skeleton crews.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242258</guid>
-    </item>    <item>
-      <title>&#39;Delightful&#39; root-access bug in Red Hat OpenShift AI allows full cluster takeover</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/critical_red_hat_openshift_ai_bug/</link>
-      <description>
-        <![CDATA[<h4>Who wouldn&#39;t want root access on cluster master nodes?</h4> <p>A 9.9 out of 10 severity bug in Red Hat&#39;s OpenShift AI service could allow a remote attacker with minimal authentication to steal data, disrupt services, and fully hijack the platform.…</p>]]>
-      </description>
-      <source:markdown>#### Who wouldn&#39;t want root access on cluster master nodes?
-
-A 9.9 out of 10 severity bug in Red Hat&#39;s OpenShift AI service could allow a remote attacker with minimal authentication to steal data, disrupt services, and fully hijack the platform.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242259</guid>
-    </item>    <item>
-      <title>The Highest Bridge in the World Just Opened in China at More Than 2,000 Feet Above the Ground</title>
-      <link>https://www.smithsonianmag.com/smart-news/the-highest-bridge-in-the-world-just-opened-in-china-at-more-than-2000-feet-above-the-ground-180987429/</link>
-      <description>
-        <![CDATA[The Huajiang Grand Canyon Bridge in Guizhou broke the record previously held by the nearby Beipanjiang Bridge]]>
-      </description>
-      <source:markdown>The Huajiang Grand Canyon Bridge in Guizhou broke the record previously held by the nearby Beipanjiang Bridge</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/VpPKGh5tNoGxVpynwsZX9E4ZcJ4=/420x240/filters:focal(3402x2268:3403x2269)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ba/b4/bab4e26b-79fd-4bf4-b923-4e6147b830b1/gettyimages-2237694682.jpeg" length="" type="" />
-    </item>    <item>
-      <title>AI has had zero effect on jobs so far, says Yale study</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/ai_isnt_taking_people_jobs/</link>
-      <description>
-        <![CDATA[<h4>Other studies are finding the same thing</h4> <p>Yale researchers say that despite the anxiety about AI taking people&#39;s jobs, there&#39;s very little evidence of it actually happening.…</p>]]>
-      </description>
-      <source:markdown>#### Other studies are finding the same thing
-
-Yale researchers say that despite the anxiety about AI taking people&#39;s jobs, there&#39;s very little evidence of it actually happening.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242255</guid>
-    </item>    <item>
-      <title>What Actually Sparks Will-o&#39;-the-Wisps? A New Study Traces the Science Behind the Mysterious, Wandering Lights</title>
-      <link>https://www.smithsonianmag.com/smart-news/what-actually-sparks-will-o-the-wisps-a-new-study-traces-the-science-behind-the-mysterious-wandering-lights-180987421/</link>
-      <description>
-        <![CDATA[The ghostly phenomenon could be the product of a chemical reaction involving methane, researchers suggest]]>
-      </description>
-      <source:markdown>The ghostly phenomenon could be the product of a chemical reaction involving methane, researchers suggest</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/JQ-ClMD9Unmzn-C6fL10uT88pzA=/420x240/filters:focal(1709x1058:1710x1059)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b9/f9/b9f9ca96-ce50-48a4-bcbf-0669a88ba662/screenshot_2025-10-01_at_20553pm.png" length="" type="" />
-    </item>    <item>
-      <title>Air Force admits SharePoint privacy issue as reports trickle out of possible breach</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/us_air_force_investigates_breach/</link>
-      <description>
-        <![CDATA[<h4>Uncle Sam can&#39;t quit Redmond</h4> <p><strong>Exclusive</strong>  The US Air Force confirmed it&#39;s investigating a &#34;privacy-related issue&#34; amid reports of a Microsoft SharePoint-related breach and subsequent service-wide shutdown, rendering mission files and other critical tools potentially unavailable to service members.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Uncle Sam can&#39;t quit Redmond
-
-**Exclusive**  The US Air Force confirmed it&#39;s investigating a &#34;privacy-related issue&#34; amid reports of a Microsoft SharePoint-related breach and subsequent service-wide shutdown, rendering mission files and other critical tools potentially unavailable to service members.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242254</guid>
-    </item>    <item>
-      <title>Aurora immutable KDE Plasma workstation: Big, slow, and confusing</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/aurora_immutable_kde_workstation/</link>
-      <description>
-        <![CDATA[<h4>Based on Universal Blue, it&#39;s akin to Fedora Kinoite with knobs on… A lot of knobs</h4> <p>Aurora, a relatively young distro from Austria, bills itself as &#34;your stable, privacy-respecting and ultimate productivity OS.&#34; These are rather bold claims, though many other Linux distros make the same promise.…</p>]]>
-      </description>
-      <source:markdown>#### Based on Universal Blue, it&#39;s akin to Fedora Kinoite with knobs on… A lot of knobs
-
-Aurora, a relatively young distro from Austria, bills itself as &#34;your stable, privacy-respecting and ultimate productivity OS.&#34; These are rather bold claims, though many other Linux distros make the same promise.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242252</guid>
-    </item>    <item>
-      <title>Nadella hands Microsoft money machine off to new commercial CEO so he can visioneer the future</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/nadella_commercial_ceo_althoff/</link>
-      <description>
-        <![CDATA[<h4>Judson Althoff gets the job of keeping the biz running</h4> <p>Microsoft boss Satya Nadella told staff on Wednesday that he&#39;s appointing Judson Althoff to a new role as CEO of the company&#39;s commercial business, so that the big boss can concentrate on Redmond&#39;s future plans and strategy.…</p>]]>
-      </description>
-      <source:markdown>#### Judson Althoff gets the job of keeping the biz running
-
-Microsoft boss Satya Nadella told staff on Wednesday that he&#39;s appointing Judson Althoff to a new role as CEO of the company&#39;s commercial business, so that the big boss can concentrate on Redmond&#39;s future plans and strategy.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242253</guid>
-    </item>    <item>
-      <title>This Fishing Vessel Went Missing Without a Trace in 1929. Divers Just Found It Off the Coast of Nantucket</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-fishing-vessel-went-missing-without-a-trace-in-1929-divers-just-found-it-off-the-coast-of-nantucket-180987427/</link>
-      <description>
-        <![CDATA[After the captain completed his required daily check-in on January 18, 1929, no one ever saw or heard from the ST "Seiner" again]]>
-      </description>
-      <source:markdown>After the captain completed his required daily check-in on January 18, 1929, no one ever saw or heard from the ST &#34;Seiner&#34; again</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/nXQpltd-_bOo_1h3Nvj_0ZzwKfQ=/420x240/filters:focal(4752x3168:4753x3169)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/de/00/de002af1-e72d-4192-9d73-3f077bab02fe/2_-_trawl_door.jpeg" length="" type="" />
-    </item>    <item>
-      <title>Hundreds of orgs urge Microsoft: don’t kill off free Windows 10 updates</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/hundreds_businesses_urge_microsoft_not_end_win10_support/</link>
-      <description>
-        <![CDATA[<h4>Petitions pile up on Satya’s desk while Windows 7 mysteriously surges back from the grave</h4> <p>With Windows 10 support set to expire on October 14, hundreds of repair shops, nonprofits, and advocacy groups are urging Microsoft to extend free and automatic security updates instead of stranding hundreds of millions of PCs.…</p>]]>
-      </description>
-      <source:markdown>#### Petitions pile up on Satya’s desk while Windows 7 mysteriously surges back from the grave
-
-With Windows 10 support set to expire on October 14, hundreds of repair shops, nonprofits, and advocacy groups are urging Microsoft to extend free and automatic security updates instead of stranding hundreds of millions of PCs.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242251</guid>
-    </item>    <item>
-      <title>Windows 11 25H2 is mostly 24H2 with bits bolted on or ripped out</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/windows_11_25h2/</link>
-      <description>
-        <![CDATA[<h4>Microsoft&#39;s Secure Future pitch lands with old bugs still in tow</h4> <p>Windows 11 25H2 has seeped out of Redmond with just two weeks left before free support for most Windows 10 versions goes down the drain.…</p>]]>
-      </description>
-      <source:markdown>#### Microsoft&#39;s Secure Future pitch lands with old bugs still in tow
-
-Windows 11 25H2 has seeped out of Redmond with just two weeks left before free support for most Windows 10 versions goes down the drain.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242250</guid>
-    </item>    <item>
-      <title>Dialing Back to Move Forward: Why the Landline Revival Signals a Future for Privacy</title>
-      <link>https://puri.sm/posts/dialing-back-to-move-forward-why-the-landline-revival-signals-a-future-for-privacy/</link>
-      <description>
-        <![CDATA[<p>On September 30, 2025, The Washington Post reported a quiet trend in Washington, D.C.: the return of landline phones among officials and journalists seeking refuge from the omnipresent surveillance of smartphones. In a recent story, NBC News spotlighted parents in Maine and Seattle who are reviving landlines for their children—creating “landline pods” so kids can connect without the addictive pull of screens or the predatory reach of social media platforms.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/dialing-back-to-move-forward-why-the-landline-revival-signals-a-future-for-privacy/">Dialing Back to Move Forward: Why the Landline Revival Signals a Future for Privacy</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>On September 30, 2025, The Washington Post reported a quiet trend in Washington, D.C.: the return of landline phones among officials and journalists seeking refuge from the omnipresent surveillance of smartphones. In a recent story, NBC News spotlighted parents in Maine and Seattle who are reviving landlines for their children—creating “landline pods” so kids can connect without the addictive pull of screens or the predatory reach of social media platforms.
-
-The post [Dialing Back to Move Forward: Why the Landline Revival Signals a Future for Privacy](https://puri.sm/posts/dialing-back-to-move-forward-why-the-landline-revival-signals-a-future-for-privacy/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=84618</guid>
-    </item>    <item>
-      <title>SpaceX rockets toward next Starship launch, set for October 13</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/spacex_sets_the_eve_of/</link>
-      <description>
-        <![CDATA[<h4>Once more with feeling...</h4> <p>SpaceX has named the date when it will try for another Starship launch without anything exploding. October 13, which is both the Columbus Day / Indigenous People&#39;s Day holiday and the last day of Windows 10 support, is the current target.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Once more with feeling...
-
-SpaceX has named the date when it will try for another Starship launch without anything exploding. October 13, which is both the Columbus Day / Indigenous People&#39;s Day holiday and the last day of Windows 10 support, is the current target.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242248</guid>
-    </item>    <item>
-      <title>OpenStack in the pink with Flamingo release that escapes ancient Python constrictions</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/openstack_flamingo_release/</link>
-      <description>
-        <![CDATA[<h4>Project boss pleased to be getting on top of technical debt</h4> <p>OpenStack has delivered its 32nd major release, named &#34;Flamingo.&#34;…</p>]]>
-      </description>
-      <source:markdown>#### Project boss pleased to be getting on top of technical debt
-
-OpenStack has delivered its 32nd major release, named &#34;Flamingo.&#34;…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242237</guid>
-    </item>    <item>
-      <title>Who Owns Your Digital Self?</title>
-      <link>https://puri.sm/posts/who-owns-your-digital-self/</link>
-      <description>
-        <![CDATA[<p>The lawsuits now circling Apple are not just about stolen phones. They are about stolen selves—stolen data, stolen memories, stolen identities.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/who-owns-your-digital-self/">Who Owns Your Digital Self?</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>The lawsuits now circling Apple are not just about stolen phones. They are about stolen selves—stolen data, stolen memories, stolen identities.
-
-The post [Who Owns Your Digital Self?](https://puri.sm/posts/who-owns-your-digital-self/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=84608</guid>
-    </item>    <item>
-      <title>Taiwan gets chippy about US request it shifts manufacturing</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/taiwan_says_it_wont_help/</link>
-      <description>
-        <![CDATA[<h4>US has threatened even higher tariffs and the possible loss of military support</h4> <p>Taiwan has rejected US demands to shift semiconductor manufacturing so that half of America&#39;s chip needs are produced domestically, as tariff negotiations with the Trump administration intensify.…</p>]]>
-      </description>
-      <source:markdown>#### US has threatened even higher tariffs and the possible loss of military support
-
-Taiwan has rejected US demands to shift semiconductor manufacturing so that half of America&#39;s chip needs are produced domestically, as tariff negotiations with the Trump administration intensify.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242247</guid>
-    </item>    <item>
-      <title>Three Decades of Research Reveal a Forgotten Medieval Castle on a Scottish Island</title>
-      <link>https://www.smithsonianmag.com/smart-news/three-decades-of-research-reveal-a-forgotten-medieval-castle-on-a-scottish-island-180987426/</link>
-      <description>
-        <![CDATA[Archaeologists say Finlaggan was the seat of power for the Lordship of the Isles. Before that, a previously unknown castle stood at the site  during the 12th and 13th centuries]]>
-      </description>
-      <source:markdown>Archaeologists say Finlaggan was the seat of power for the Lordship of the Isles. Before that, a previously unknown castle stood at the site during the 12th and 13th centuries</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/oPENaaqtTmZZzsJoXtL2XI-zLNI=/420x240/filters:focal(648x469:649x470)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a4/71/a47172f1-0402-435a-91af-581b46726de9/resized-visualisation-of-the-castle-at-finlaggan-image-david-simon.jpg" length="" type="" />
-    </item>    <item>
-      <title>A Thermometer for Measuring Quantumness</title>
-      <link>https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001/</link>
-      <description>
-        <![CDATA[“Anomalous” heat flow, which at first appears to violate the second law of thermodynamics, gives physicists a way to detect quantum entanglement without destroying it.            <p>The post <a href="https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001/" target="_blank">A Thermometer for Measuring Quantumness</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>“Anomalous” heat flow, which at first appears to violate the second law of thermodynamics, gives physicists a way to detect quantum entanglement without destroying it.
-
-The post [A Thermometer for Measuring Quantumness](https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=155374</guid>
-    </item>    <item>
-      <title>Export controls now a key factor in AI chip development – adding risk for the whole industry</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/the_risks_of_export_controls/</link>
-      <description>
-        <![CDATA[<h4>The physics of transistors and politics of trading licenses are colliding on the AI frontier</h4> <p><strong>Analysis</strong>  Few of us would have imagined that national security would play such a key role in AI hardware, even dictating its development, but here we are – in a new era of export controls.…</p>]]>
-      </description>
-      <source:markdown>#### The physics of transistors and politics of trading licenses are colliding on the AI frontier
-
-**Analysis**  Few of us would have imagined that national security would play such a key role in AI hardware, even dictating its development, but here we are – in a new era of export controls.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242175</guid>
-    </item>    <item>
-      <title>Raspberry Pi prices hiked as AI gobbles all the memory</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/raspberry_pi_price_hikes/</link>
-      <description>
-        <![CDATA[<h4>Another thing you can blame on the hypefest: demand sends HBM costs up 120% in a year</h4> <p>Raspberry Pi is upping the cost of some devices by double-digit percentages from today driven by what CEO Eben Upton calls &#34;insatiable demand for high-bandwidth memory (HBM) for AI applications.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Another thing you can blame on the hypefest: demand sends HBM costs up 120% in a year
-
-Raspberry Pi is upping the cost of some devices by double-digit percentages from today driven by what CEO Eben Upton calls &#34;insatiable demand for high-bandwidth memory (HBM) for AI applications.&#34;…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242245</guid>
-    </item>    <item>
-      <title>3.7M breach notification letters set to flood North America&#39;s mailboxes</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/north_american_data_breaches/</link>
-      <description>
-        <![CDATA[<h4>Allianz Life and WestJet lead the way, along with a niche software shop</h4> <p>A trio of companies disclosed data breaches this week affecting approximately 3.7 million customers and employees across North America.…</p>]]>
-      </description>
-      <source:markdown>#### Allianz Life and WestJet lead the way, along with a niche software shop
-
-A trio of companies disclosed data breaches this week affecting approximately 3.7 million customers and employees across North America.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242244</guid>
-    </item>    <item>
-      <title>JetBrains wants to train AI models on your code snippets</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/jetbrains_wants_your_code_to_train_ai/</link>
-      <description>
-        <![CDATA[<h4>Dangles free product licenses in return for code-related data for its training</h4> <p>IDE and developer tools biz JetBrains believes training AI models on public datasets is insufficient, and is offering free product licenses to organizations that are willing to share detailed code-related data.…</p>]]>
-      </description>
-      <source:markdown>#### Dangles free product licenses in return for code-related data for its training
-
-IDE and developer tools biz JetBrains believes training AI models on public datasets is insufficient, and is offering free product licenses to organizations that are willing to share detailed code-related data.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242243</guid>
-    </item>    <item>
-      <title>The James Webb Space Telescope Has Captured Our Galaxy’s Most Productive Star-Forming Region in Stunning Detail</title>
-      <link>https://www.smithsonianmag.com/smart-news/the-james-webb-space-telescope-has-captured-our-galaxys-most-productive-star-forming-region-in-stunning-detail-180987422/</link>
-      <description>
-        <![CDATA[Why Sagittarius B2 produces so many stars in comparison to the rest of the galactic center has remained an enduring mystery]]>
-      </description>
-      <source:markdown>Why Sagittarius B2 produces so many stars in comparison to the rest of the galactic center has remained an enduring mystery</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/H8TF2dfbFfEa01cRdEAp7BzxRwY=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4b/f9/4bf9d047-838a-42c7-81ba-9f709f51acee/smithsonian_feature_images_17.png" length="" type="" />
-    </item>    <item>
-      <title>AI agent hypefest crashing up against cautious leaders, Gartner finds</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/gartner_ai_agents/</link>
-      <description>
-        <![CDATA[<h4>Only 15% considering deployments and just 7% say it&#39;ll replace humans in next four years</h4> <p>Enterprises aren&#39;t keen on letting autonomous agents take the wheel amid fears over trust and security as research once again shows that AI hype is crashing against the rocks of reality.…</p>]]>
-      </description>
-      <source:markdown>#### Only 15% considering deployments and just 7% say it&#39;ll replace humans in next four years
-
-Enterprises aren&#39;t keen on letting autonomous agents take the wheel amid fears over trust and security as research once again shows that AI hype is crashing against the rocks of reality.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242242</guid>
-    </item>    <item>
-      <title>Judge dismisses Arm&#39;s last legal claim against Qualcomm in licensing spat</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/arms_last_legal_claim_against/</link>
-      <description>
-        <![CDATA[<h4>Chip designer tells The Reg it plans to appeal</h4> <p>Qualcomm is claiming complete victory over Arm in their licensing spat, after a court in Delaware ruled it has not breached the terms of any architecture license agreement (ALA) with the chip designer.…</p>]]>
-      </description>
-      <source:markdown>#### Chip designer tells The Reg it plans to appeal
-
-Qualcomm is claiming complete victory over Arm in their licensing spat, after a court in Delaware ruled it has not breached the terms of any architecture license agreement (ALA) with the chip designer.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242240</guid>
-    </item>    <item>
-      <title>Imgur yanks Brit access to memes as parent company faces fine</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/imgur_exits_uk/</link>
-      <description>
-        <![CDATA[<h4>ICO investigation into platform&#39;s lack of age assurance continues</h4> <p>The UK&#39;s data watchdog has described Imgur&#39;s move to block UK users as &#34;a commercial decision&#34; after signaling plans to fine parent company MediaLab.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### ICO investigation into platform&#39;s lack of age assurance continues
-
-The UK&#39;s data watchdog has described Imgur&#39;s move to block UK users as &#34;a commercial decision&#34; after signaling plans to fine parent company MediaLab.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242241</guid>
-    </item>    <item>
-      <title>Explain digital ID or watch it fizzle out, UK PM Starmer told</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/digital_id_labour_conference/</link>
-      <description>
-        <![CDATA[<h4>Politico avoids the topic at Labour conference speech, homes in on AI instead</h4> <p>UK prime minister Keir Starmer avoided mentioning the mandatory digital ID scheme in his keynote speech to the Labour Party conference amid calls for him to put meat on the bones of the plans or risk it failing fast.…</p>]]>
-      </description>
-      <source:markdown>#### Politico avoids the topic at Labour conference speech, homes in on AI instead
-
-UK prime minister Keir Starmer avoided mentioning the mandatory digital ID scheme in his keynote speech to the Labour Party conference amid calls for him to put meat on the bones of the plans or risk it failing fast.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242239</guid>
-    </item>    <item>
-      <title>Schools are swotting up on security yet still flunk recovery when cyberattacks strike</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/school_cyberattack_recovery/</link>
-      <description>
-        <![CDATA[<h4>Coursework &#39;gone forever&#39; as 10% report critical damage</h4> <p>Schools and colleges hit by cyberattacks are taking longer to restore their networks — and the consequences are severe, with students&#39; coursework being permanently lost in some cases.…</p>]]>
-      </description>
-      <source:markdown>#### Coursework &#39;gone forever&#39; as 10% report critical damage
-
-Schools and colleges hit by cyberattacks are taking longer to restore their networks — and the consequences are severe, with students&#39; coursework being permanently lost in some cases.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242217</guid>
-    </item>    <item>
-      <title>UK&#39;s digital hospital plan meets analog reality check</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/nhs_online/</link>
-      <description>
-        <![CDATA[<h4>Experts ask: Where will staff come from, and what about gran&#39;s flip phone?</h4> <p>The government has announced a new &#34;digital hospital&#34; service in England that will provide online appointments with consultants as an alternative to visiting a National Health Service (NHS) hospital.…</p>]]>
-      </description>
-      <source:markdown>#### Experts ask: Where will staff come from, and what about gran&#39;s flip phone?
-
-The government has announced a new &#34;digital hospital&#34; service in England that will provide online appointments with consultants as an alternative to visiting a National Health Service (NHS) hospital.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242221</guid>
-    </item>    <item>
-      <title>Away from Oktoberfest, Munich&#39;s museums also serve science on tap</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/geeks_guide_deutsches_museum/</link>
-      <description>
-        <![CDATA[<h4>Because sometimes you need a V2 rocket with your schnitzel</h4> <p><strong>Geek&#39;s Guide</strong>  It&#39;s September and the German city of Munich is celebrating Oktoberfest. But away from the beer tents, schnitzel, and lederhosen lies a set of museums worth visiting for the price of a few beers.…</p>]]>
-      </description>
-      <source:markdown>#### Because sometimes you need a V2 rocket with your schnitzel
-
-**Geek&#39;s Guide**  It&#39;s September and the German city of Munich is celebrating Oktoberfest. But away from the beer tents, schnitzel, and lederhosen lies a set of museums worth visiting for the price of a few beers.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242191</guid>
-    </item>    <item>
-      <title>Why Animal Scavengers Protect Your Health</title>
-      <link>https://www.npr.org/2025/10/01/nx-s1-5550344/animal-scavenger-decline-human-health</link>
-      <description>
-        <![CDATA[Worldwide, populations of scavenging animals that feed on rotting carcasses are declining. Scientists are finding that this can seriously hurt human health. NPR science reporter <a href="https://www.npr.org/people/703751120/jonathan-lambert"target="_blank"   >Jonathan Lambert</a> has been looking into how human health is intertwined with scavenging animals and why these animals’ decline could lead to more human disease. Today, he brings all he learned, including how conservation could help, to your earholes.<br/><br/><br><a href="https://www.npr.org/sections/goats-and-soda/2025/07/11/g-s1-77052/vultures-hyenas-and-rabies-scavengers-diclofenac"target="_blank"   ><strong>Check out more</strong></a><strong> of Jon’s reporting on scavengers and human health.</strong><br/><br/><em>Interested in more science behind skincare products? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Worldwide, populations of scavenging animals that feed on rotting carcasses are declining. Scientists are finding that this can seriously hurt human health. NPR science reporter [Jonathan Lambert](https://www.npr.org/people/703751120/jonathan-lambert) has been looking into how human health is intertwined with scavenging animals and why these animals’ decline could lead to more human disease. Today, he brings all he learned, including how conservation could help, to your earholes.
-
-[**Check out more**](https://www.npr.org/sections/goats-and-soda/2025/07/11/g-s1-77052/vultures-hyenas-and-rabies-scavengers-diclofenac) **of Jon’s reporting on scavengers and human health.**
-
-_Interested in more science behind skincare products? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR7609190830.mp3?t=podcast&e=nx-s1-5550344&p=510351&d=584&size=9354807" length="9354807" type="audio/mpeg" />
-      <guid>cid://34c5f35e-66e8-447a-9ef8-972542b9978b</guid>
-    </item>    <item>
-      <title>Blockchain just became an utterly mainstream part of the global financial system</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/swift_blockchain_plan/</link>
-      <description>
-        <![CDATA[<h4>SWIFT and 30 banks promise to bake it into international payment infrastructure</h4> <p>Blockchains are still synonymous with the wild world of cryptocurrencies, but on Monday, 30 banks and SWIFT – the world’s most important cross-border payment service – made them an utterly mainstream part of the global financial system.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### SWIFT and 30 banks promise to bake it into international payment infrastructure
-
-Blockchains are still synonymous with the wild world of cryptocurrencies, but on Monday, 30 banks and SWIFT – the world’s most important cross-border payment service – made them an utterly mainstream part of the global financial system.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242236</guid>
-    </item>    <item>
-      <title>Taliban impose tele-ban and take Afghanistan offline</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/afghanistan_goes_offline/</link>
-      <description>
-        <![CDATA[<h4>No internet or phones, which means no banks or commercial aviation, but lots more misery</h4> <p>Afghanistan has dropped off the global internet.…</p>]]>
-      </description>
-      <source:markdown>#### No internet or phones, which means no banks or commercial aviation, but lots more misery
-
-Afghanistan has dropped off the global internet.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242235</guid>
-    </item>    <item>
-      <title>Beijing-backed burglars master .NET to target government web servers</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/phantom_taurus_apt/</link>
-      <description>
-        <![CDATA[<h4>‘Phantom Taurus’ created custom malware to hunt secrets across Asia, Africa, and the Middle East</h4> <p>Threat-hunters at Palo Alto Networks’ Unit 42 have decided a gang they spotted two years ago is backed by China, after seeing it sling a new variety of malware.…</p>]]>
-      </description>
-      <source:markdown>#### ‘Phantom Taurus’ created custom malware to hunt secrets across Asia, Africa, and the Middle East
-
-Threat-hunters at Palo Alto Networks’ Unit 42 have decided a gang they spotted two years ago is backed by China, after seeing it sling a new variety of malware.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242234</guid>
-    </item>    <item>
-      <title>October’s Night Sky Notes: Let’s Go, LIGO!</title>
-      <link>https://science.nasa.gov/solar-system/skywatching/night-sky-network/octobers-night-sky-notes-lets-go-ligo/</link>
-      <description>
-        <![CDATA[by Kat Troche of the Astronomical Society of the Pacific September 2025 marks ten years since the first direct detection of gravitational waves as predicted by Albert Einstein’s 1916 theory of General Relativity. These invisible ripples in space were first directly detected by the Laser Interferometer Gravitational-Wave Observatory (LIGO). Traveling at the speed of light […]]]>
-      </description>
-      <source:markdown>by Kat Troche of the Astronomical Society of the Pacific September 2025 marks ten years since the first direct detection of gravitational waves as predicted by Albert Einstein’s 1916 theory of General Relativity. These invisible ripples in space were first directly detected by the Laser Interferometer Gravitational-Wave Observatory (LIGO). Traveling at the speed of light \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/solar-system/skywatching/night-sky-network/octobers-night-sky-notes-lets-go-ligo/</guid>
-    </item>    <item>
-      <title>Salesforce users grumble after Agentforce AI replaces search on some help pages</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/01/salesforce_search_agentforce/</link>
-      <description>
-        <![CDATA[<h4>This is one way to add a lot of AI users in a hurry, which Wall Street wants to see</h4> <p>Salesforce developers have called for the SaaS-y CRM giant to wind back a change that saw the AI-powered Agentforce bot replace basic search functions on some online help pages.…</p>]]>
-      </description>
-      <source:markdown>#### This is one way to add a lot of AI users in a hurry, which Wall Street wants to see
-
-Salesforce developers have called for the SaaS-y CRM giant to wind back a change that saw the AI-powered Agentforce bot replace basic search functions on some online help pages.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242231</guid>
+      <source:markdown>The Forgejo v13.0 branch has been cut and the release is scheduled for October 16. Please consider testing it out and sharing your feedback to help us improve it. Forgejo Runner v11 has been released and is now licensed under GPLv3+. Improvements were made to the documentation regarding the Runner setup. Work on improving and securing database interaction has begun. There is an ongoing strong enthusiasm for translating Forgejo.</source:markdown>
+      <guid>cid://https://forgejo.org/2025-09-monthly-report/</guid>
     </item>
   </channel>
 </rss>

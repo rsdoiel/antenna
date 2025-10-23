@@ -4,7 +4,7 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>22 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>23 Oct 25 06:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -122,10 +122,6 @@ The post [A Cheap Cut of Meat Soaked in Butter (Encore)](https://johnaugust.com/
       </description>
       <source:markdown>We’re delighted to announce the five recipients of our AI, Authorship, and the Public Interest grant awards. Chosen from a competitive pool of over 160 proposals, these grantees stood out for their thoughtful, innovative projects that align closely with our research priorities and our mission to serve the public interest.</source:markdown>
       <guid>cid://https://www.authorsalliance.org/?p=12229</guid>
-    </item>    <item>
-      <title>Write Now with Scrivener, Episode no. 55: Maria Reva, Booker Prize Longlisted Author of Endling</title>
-      <link>https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-55-maria-reva-booker-longlisted-author-of-endling</link>
-      <guid>cid://https://www.literatureandlatte.com/?p=7991</guid>
     </item>
   </channel>
 </rss>

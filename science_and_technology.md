@@ -17,6 +17,7 @@ title: Science and Technology
 
 - [Servo blog](https://servo.org/blog/feed.xml)
 - [Public AI blog](https://publicai.substack.com/feed)
+- [Forgejo](https://forgejo.org/rss.xml)
 
 # Hardware companies
 
@@ -26,3 +27,4 @@ title: Science and Technology
 # European Tech
 
 - [Heise Online](https://www.heise.de/rss/heise-atom.xml)
+- [Codeberg.org](https://blog.codeberg.org/feeds/all.atom.xml)
