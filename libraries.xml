@@ -4,7 +4,7 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>23 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>23 Oct 25 15:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -225,10 +225,10 @@ Crossref runs an open infrastructure to link research objects, entities, and act
       <title>Day in Review (October 20–23)</title>
       <link>https://www.arl.org/day-in-review/day-in-review-october-20-23/</link>
       <description>
-        <![CDATA[<p>Last Updated on October 22, 2025, 2:51 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...</p>
+        <![CDATA[<p>Last Updated on October 23, 2025, 3:21 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...</p>
         <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-october-20-23/">Day in Review (October 20–23)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on October 22, 2025, 2:51 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...
+      <source:markdown>Last Updated on October 23, 2025, 3:21 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...
 
 The post [Day in Review (October 20–23)](https://www.arl.org/day-in-review/day-in-review-october-20-23/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=46445</guid>
@@ -783,7 +783,7 @@ The post [Guest Post — Rethinking Disciplinary Data Regimes](https://scholarly
         <![CDATA[Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.]]>
       </description>
       <source:markdown>Helen Herron Taft, wife of William Howard Taft, the twenty-seventh President of the United States, recalls her life married to one of America’s most influential political figures.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/helen-herron-taft_recollections-of-full-years.epub?source=feed" length="10742348" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years/downloads/helen-herron-taft_recollections-of-full-years.epub?source=feed" length="10742347" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/helen-herron-taft/recollections-of-full-years</guid>
     </item>    <item>
       <title>Guest Post — “Have You Proved You’re Human Today?” Open Content and Web Harvesting in the AI Era</title>
