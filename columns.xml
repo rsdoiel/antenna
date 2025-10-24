@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>23 Oct 25 15:11 -0700</lastBuildDate>
+    <lastBuildDate>24 Oct 25 06:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -38,7 +38,219 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
-      <title>The Hollywood Reporter: ‘Is Jessica Chastain’s “The Savant” Ever Going to Be Released?”</title>
+      <title>Sfera Baltic boat gets another Raspberry Pi-based makeover</title>
+      <link>https://www.raspberrypi.com/news/sfera-baltic-boat-gets-another-raspberry-pi-based-makeover/</link>
+      <description>
+        <![CDATA[<p>The Sfera Baltic gets another Raspberry Pi-based upgrade to take advantage of both Raspberry Pi 5 and Compute Module 5.</p>
+        <p>The post <a href="https://www.raspberrypi.com/news/sfera-baltic-boat-gets-another-raspberry-pi-based-makeover/">Sfera Baltic boat gets another Raspberry Pi-based makeover</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
+      </description>
+      <source:markdown>The Sfera Baltic gets another Raspberry Pi-based upgrade to take advantage of both Raspberry Pi 5 and Compute Module 5.
+
+The post [Sfera Baltic boat gets another Raspberry Pi-based makeover](https://www.raspberrypi.com/news/sfera-baltic-boat-gets-another-raspberry-pi-based-makeover/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
+      <guid>cid://https://www.raspberrypi.com/?p=131076</guid>
+    </item>    <item>
+      <title>Tales from Toddlerhood</title>
+      <link>https://waitbutwhy.com/2025/10/toddler.html</link>
+      <description>
+        <![CDATA[<p>Eight thoughts from a strange and harrowing world</p>
+        <p>The post <a href="https://waitbutwhy.com/2025/10/toddler.html">Tales from Toddlerhood</a> appeared first on <a href="https://waitbutwhy.com">Wait But Why</a>.</p>]]>
+      </description>
+      <source:markdown>Eight thoughts from a strange and harrowing world
+
+The post [Tales from Toddlerhood](https://waitbutwhy.com/2025/10/toddler.html) appeared first on [Wait But Why](https://waitbutwhy.com).</source:markdown>
+      <guid>cid://https://waitbutwhy.com/?p=10661</guid>
+    </item>    <item>
+      <link>https://talkingpointsmemo.com/news/trump-military-national-guard-insurrection-act</link>
+      <description>
+        <![CDATA[<p>Trump Isn’t Waiting For The Insurrection Act To Turn The Military On American Citizens.</p>]]>
+      </description>
+      <source:markdown>Trump Isn’t Waiting For The Insurrection Act To Turn The Military On American Citizens.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/24/1649/</guid>
+    </item>    <item>
+      <title>Saturday morning tunes and tea</title>
+      <link>https://adactio.com/notes/22208</link>
+      <description>
+        <![CDATA[<img src="https://adactio.com/images/uploaded/22208/small.jpg" srcset="https://adactio.com/images/uploaded/22208/medium.jpg 1.5x, https://adactio.com/images/uploaded/22208/large.jpg 2.5x" alt="Saturday morning tunes and tea" />
+        <p>Saturday morning tunes and tea</p>]]>
+      </description>
+      <source:markdown>![Saturday morning tunes and tea](https://adactio.com/images/uploaded/22208/small.jpg)
+
+Saturday morning tunes and tea</source:markdown>
+      <guid>cid://https://adactio.com/notes/22208</guid>
+    </item>    <item>
+      <title>Part Four of The Kryptos Sculpture</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/part-four-of-the-kryptos-sculpture.html</link>
+      <description>
+        <![CDATA[<p>Two people <a href="https://www.nytimes.com/2025/10/16/science/kryptos-cia-solution-sanborn-auction.html">found the solution</a>. They used the power of research, not cryptanalysis, finding clues amongst the Sanborn papers at the Smithsonian&#8217;s Archives of American Art.</p>
+        <p>This comes as an awkward time, as Sanborn is <a href="https://www.schneier.com/blog/archives/2025/08/jim-sanborn-is-auctioning-off-the-solution-to-part-four-of-the-kryptos-sculpture.html">auctioning off</a> the solution. There were legal threats&#8212;I don&#8217;t understand their basis&#8212;and the solvers are not publishing their solution.</p>]]>
+      </description>
+      <source:markdown>Two people [found the solution](https://www.nytimes.com/2025/10/16/science/kryptos-cia-solution-sanborn-auction.html). They used the power of research, not cryptanalysis, finding clues amongst the Sanborn papers at the Smithsonian’s Archives of American Art.
+
+This comes as an awkward time, as Sanborn is [auctioning off](https://www.schneier.com/blog/archives/2025/08/jim-sanborn-is-auctioning-off-the-solution-to-part-four-of-the-kryptos-sculpture.html) the solution. There were legal threats—I don’t understand their basis—and the solvers are not publishing their solution.</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=71044</guid>
+    </item>    <item>
+      <title>Trump’s Gilded Ballroom and the Fall of the American Republic</title>
+      <link>https://paulkrugman.substack.com/p/trumps-gilded-ballroom-and-the-fall</link>
+      <description>
+        <![CDATA[Tackiness and tyranny go hand in hand]]>
+      </description>
+      <source:markdown>Tackiness and tyranny go hand in hand</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!k-P_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fad7e0f9d-d99b-4d33-b25e-a6117f283893_1920x1080.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/trumps-gilded-ballroom-and-the-fall</guid>
+    </item>    <item>
+      <title>Lit Hub Daily: October 24, 2025</title>
+      <link>https://lithub.com/lit-hub-daily-october-24-2025/</link>
+      <description>
+        <![CDATA[The seven finalists for the Center for Fiction First Novel Prize answer our questions about reading, writing, and more! &#124; Lit Hub In Conversation “She was like an exclamation point in Garamond type&#8230;” Cynthia Zarin remembers her late friend, writer]]>
+      </description>
+      <source:markdown>The seven finalists for the Center for Fiction First Novel Prize answer our questions about reading, writing, and more! \| Lit Hub In Conversation “She was like an exclamation point in Garamond type…” Cynthia Zarin remembers her late friend, writer</source:markdown>
+      <guid>cid://https://lithub.com/?p=261686</guid>
+    </item>    <item>
+      <title>Meet the Best Debut Novelists of the Year</title>
+      <link>https://lithub.com/meet-the-best-debut-novelists-of-the-year/</link>
+      <description>
+        <![CDATA[In September, the Center for Fiction announced the shortlist for their annual First Novel Prize, which celebrates debut novels and seeks to support early career writers. The shortlisted authors will each be awarded $1,000 and the winner, who will be]]>
+      </description>
+      <source:markdown>In September, the Center for Fiction announced the shortlist for their annual First Novel Prize, which celebrates debut novels and seeks to support early career writers. The shortlisted authors will each be awarded $1,000 and the winner, who will be</source:markdown>
+      <guid>cid://https://lithub.com/?p=261181</guid>
+    </item>    <item>
+      <title>The Ancient Origins of the Our Fascination With Flight</title>
+      <link>https://lithub.com/the-ancient-origins-of-the-our-fascination-with-flight/</link>
+      <description>
+        <![CDATA[Humans have always been mindful of the air. Children as young as three or four can use aerial images to find hidden treasure and navigate their neighborhoods; spatial and mapping skills appear across cultures. Something about the airborne imagination seems]]>
+      </description>
+      <source:markdown>Humans have always been mindful of the air. Children as young as three or four can use aerial images to find hidden treasure and navigate their neighborhoods; spatial and mapping skills appear across cultures. Something about the airborne imagination seems</source:markdown>
+      <guid>cid://https://lithub.com/?p=261301</guid>
+    </item>    <item>
+      <title>The Lit Hub Podcast Talks the 2025 Booker Prize Shortlist</title>
+      <link>https://lithub.com/the-lit-hub-podcast-talks-the-2025-booker-prize-shortlist/</link>
+      <description>
+        <![CDATA[A weekly behind-the-scenes dive into everything interesting, dynamic, strange, and wonderful happening in literary culture—featuring Lit Hub staff, columnists, and special guests! Hosted by Drew Broussard. Having done this show for a full year, it means we have some traditions]]>
+      </description>
+      <source:markdown>A weekly behind-the-scenes dive into everything interesting, dynamic, strange, and wonderful happening in literary culture—featuring Lit Hub staff, columnists, and special guests! Hosted by Drew Broussard. Having done this show for a full year, it means we have some traditions</source:markdown>
+      <guid>cid://https://lithub.com/?p=261667</guid>
+    </item>    <item>
+      <title>What Should You Read Next? Here Are the Best Reviewed Books of the Week</title>
+      <link>https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-10-24-2025/</link>
+      <description>
+        <![CDATA[Gish Jen&#8217;s Bad Bad Girl, Virginia Giuffre&#8217;s Nobody&#8217;s Girl, and Claire-Louise Bennett&#8217;s Big Kiss, Bye-Bye all feature among the best reviewed books of the week. Brought to you by Book Marks, Lit Hub’s home for book reviews. * Fiction 1.]]>
+      </description>
+      <source:markdown>Gish Jen’s Bad Bad Girl, Virginia Giuffre’s Nobody’s Girl, and Claire-Louise Bennett’s Big Kiss, Bye-Bye all feature among the best reviewed books of the week. Brought to you by Book Marks, Lit Hub’s home for book reviews. \* Fiction 1.</source:markdown>
+      <guid>cid://https://lithub.com/?p=261607</guid>
+    </item>    <item>
+      <title>Enjoy Your Chocolate and Champagne While It Lasts</title>
+      <link>https://lithub.com/enjoy-your-chocolate-and-champagne-while-it-lasts/</link>
+      <description>
+        <![CDATA[“I’m screwed.” That is a polite way of expressing my thoughts upon meeting the chef with whom I was supposed to prepare a banquet at the World Economic Forum. Nearly twenty-five hundred dignitaries from 140 countries had assembled in Davos,]]>
+      </description>
+      <source:markdown>“I’m screwed.” That is a polite way of expressing my thoughts upon meeting the chef with whom I was supposed to prepare a banquet at the World Economic Forum. Nearly twenty-five hundred dignitaries from 140 countries had assembled in Davos,</source:markdown>
+      <guid>cid://https://lithub.com/?p=261281</guid>
+    </item>    <item>
+      <title>When Telling Your Own Story Gets in the Way of Processing Trauma</title>
+      <link>https://lithub.com/when-telling-your-own-story-gets-in-the-way-of-processing-trauma/</link>
+      <description>
+        <![CDATA[When I made my first appointment with my therapist, Silas, I had been working on my novel for three years. I’ve always been a fast writer, and I’d finished my first book in an eighteen-month blur. But despite the fact]]>
+      </description>
+      <source:markdown>When I made my first appointment with my therapist, Silas, I had been working on my novel for three years. I’ve always been a fast writer, and I’d finished my first book in an eighteen-month blur. But despite the fact</source:markdown>
+      <guid>cid://https://lithub.com/?p=261428</guid>
+    </item>    <item>
+      <title>How Being a Writer Broke (Then Healed) My Queer Little Heart</title>
+      <link>https://lithub.com/how-being-a-writer-broke-then-healed-my-queer-little-heart/</link>
+      <description>
+        <![CDATA[In 2004, I was trying very hard to maintain my status as a masculine straight-jock-bro in the circus that is middle school, doing anything and everything to suppress the subconscious thoughts that were just starting to bubble up to my]]>
+      </description>
+      <source:markdown>In 2004, I was trying very hard to maintain my status as a masculine straight-jock-bro in the circus that is middle school, doing anything and everything to suppress the subconscious thoughts that were just starting to bubble up to my</source:markdown>
+      <guid>cid://https://lithub.com/?p=261422</guid>
+    </item>    <item>
+      <title>Remembering Writer and New Yorker Mainstay Alison Rose</title>
+      <link>https://lithub.com/remembering-writer-and-new-yorker-mainstay-alison-rose/</link>
+      <description>
+        <![CDATA[I first met Alison Rose when I was twenty-five and she was, I think, forty. It was impossible to tell. She could have been twelve, she could have been eighty. At first, writing this, I typed, typed twenty-dive; though I&#8217;ve]]>
+      </description>
+      <source:markdown>I first met Alison Rose when I was twenty-five and she was, I think, forty. It was impossible to tell. She could have been twelve, she could have been eighty. At first, writing this, I typed, typed twenty-dive; though I’ve</source:markdown>
+      <guid>cid://https://lithub.com/?p=261616</guid>
+    </item>    <item>
+      <title>Julian Brave NoiseCat on How Directing a Documentary Shaped His Memoir</title>
+      <link>https://lithub.com/julian-brave-noisecat-on-how-directing-a-documentary-shaped-his-memoir/</link>
+      <description>
+        <![CDATA[This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. A couple months after I signed the contract for my first book, We Survived the Night, I took a call from my friend and colleague Emily Kassie. Ground-penetrating radar had]]>
+      </description>
+      <source:markdown>This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. A couple months after I signed the contract for my first book, We Survived the Night, I took a call from my friend and colleague Emily Kassie. Ground-penetrating radar had</source:markdown>
+      <guid>cid://https://lithub.com/?p=261674</guid>
+    </item>    <item>
+      <link>https://gizmodo.com/dhs-little-dark-age-nazi-video-2000676359</link>
+      <description>
+        <![CDATA[<p>DHS Posts Video Featuring Song Popular With Nazi Creators.</p>]]>
+      </description>
+      <source:markdown>DHS Posts Video Featuring Song Popular With Nazi Creators.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/24/1647/</guid>
+    </item>    <item>
+      <title>The Mamdani Moment</title>
+      <link>https://robertreich.substack.com/p/the-mamdani-moment</link>
+      <description>
+        <![CDATA[And the Future of the Democratic Party]]>
+      </description>
+      <source:markdown>And the Future of the Democratic Party</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!umrg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F338f1ed6-4737-49d6-81d4-6e9a91d1432c_1200x800.webp" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/the-mamdani-moment</guid>
+    </item>    <item>
+      <title>October 23, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-23-2025</link>
+      <description>
+        <![CDATA[Julia Ainsley and Didi Martinez of NBC News reported today that Immigration and Customs Enforcement&#8217;s rush to get new recruits onto the street has meant they have pushed into their training program more than 200 people who have disqualifying criminal backgrounds, fail drug testing, or don&#8217;t meet the academic or physical requirements.]]>
+      </description>
+      <source:markdown>Julia Ainsley and Didi Martinez of NBC News reported today that Immigration and Customs Enforcement’s rush to get new recruits onto the street has meant they have pushed into their training program more than 200 people who have disqualifying criminal backgrounds, fail drug testing, or don’t meet the academic or physical requirements.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-23-2025</guid>
+    </item>    <item>
+      <title>316: Hope. Global homicide rates ↓ Deforestation too. Painting with fire. Water from air. Fiji eliminates trachoma.</title>
+      <link>https://fixthenews.com/p/316-hope-painting-with-fire-global</link>
+      <description>
+        <![CDATA[Hidden stories of progress from around the world.]]>
+      </description>
+      <source:markdown>Hidden stories of progress from around the world.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!zyQD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ff4432b-f673-4649-bd40-f8ed5f5e1f89_1160x772.avif" length="0" type="image/jpeg" />
+      <guid>cid://https://fixthenews.com/p/316-hope-painting-with-fire-global</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/23/133525.html</link>
+      <description>
+        <![CDATA[<p>Scripting News: Think different about developers.</p>]]>
+      </description>
+      <source:markdown>Scripting News: Think different about developers.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/23/1645/</guid>
+    </item>    <item>
+      <link>https://blog.lmorchard.com/2025/10/23/think-different-about-data/</link>
+      <description>
+        <![CDATA[<p>Developers shouldn't have to be data landlords.</p>]]>
+      </description>
+      <source:markdown>Developers shouldn&#39;t have to be data landlords.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/23/1643/</guid>
+    </item>    <item>
+      <title>Friday 24 October, 2025</title>
+      <link>https://memex.naughtons.org/friday-24-october-2025/41316/</link>
+      <description>
+        <![CDATA[Mr Hood, I believe? I’m always trying to photograph birds — and failing. And then my sister — who doesn’t think of herself as a photographer and possesses no fancy kit — goes on holiday in Scotland — and sends &#8230; <a href="https://memex.naughtons.org/friday-24-october-2025/41316/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>Mr Hood, I believe? I’m always trying to photograph birds — and failing. And then my sister — who doesn’t think of herself as a photographer and possesses no fancy kit — goes on holiday in Scotland — and sends … [Continue reading →](https://memex.naughtons.org/friday-24-october-2025/41316/)</source:markdown>
+      <guid>cid://https://memex.naughtons.org/?p=41316</guid>
+    </item>    <item>
+      <title>American History Be Damned</title>
+      <link>https://steady.substack.com/p/american-history-be-damned</link>
+      <description>
+        <![CDATA[Trump levels a national treasure]]>
+      </description>
+      <source:markdown>Trump levels a national treasure</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!JXer!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7317205a-9bab-4ef4-bc54-6c510eb0a676_3894x2597.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/american-history-be-damned</guid>
+    </item>    <item>
+      <title>SerpApi’s Public Customer List</title>
+      <link>https://serpapi.com/use-cases</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42309</guid>
+    </item>    <item>
+      <title>Reddit Files Lawsuit Accusing ‘Data Scraper’ Companies of Stealing Its Information</title>
+      <link>https://www.nytimes.com/2025/10/22/technology/reddit-data-scrapers-perplexity-theft.html?unlocked_article_code=1.vk8.W49v.NYfYXfBwO0Ry&#38;smid=url-share</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42308</guid>
+    </item>    <item>
+      <title>The Hollywood Reporter: ‘Is Jessica Chastain’s “The Savant” Ever Going to Be Released?’</title>
       <link>https://www.hollywoodreporter.com/tv/tv-news/jessica-chastain-the-savant-delay-will-it-be-released-apple-1236406858/</link>
       <guid>cid://tag:daringfireball.net,2025:/linked//6.42307</guid>
     </item>    <item>
@@ -2787,6 +2999,10 @@ Tags: [coding-agents](https://simonwillison.net/tags/coding-agents), [anthropic]
       <enclosure url="https://substackcdn.com/image/fetch/$s_!0ndO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F808b961a-178d-4103-97ab-971ed9a1427c_1584x1533.heic" length="0" type="image/jpeg" />
       <guid>cid://https://www.borowitzreport.com/p/mike-johnson-opts-for-medically-induced</guid>
     </item>    <item>
+      <title>Trump Said to Demand Justice Department Pay Him $230 Million for Past Cases</title>
+      <link>https://www.nytimes.com/2025/10/21/us/politics/trump-justice-department-compensation.html</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42298</guid>
+    </item>    <item>
       <title>TEST</title>
       <link>https://lithub.com/test/</link>
       <description>
@@ -2934,13 +3150,6 @@ Tags: [privacy](https://simonwillison.net/tags/privacy), [security](https://simo
       <title>Consumer Confusion Regarding USB Power Adapters</title>
       <link>https://daringfireball.net/linked/2025/10/20/heer-m5-mbp-charger</link>
       <guid>cid://tag:daringfireball.net,2025:/linked//6.42296</guid>
-    </item>    <item>
-      <link>https://www.nytimes.com/2025/10/21/us/politics/trump-justice-department-compensation.html</link>
-      <description>
-        <![CDATA[<p>Trump Said to Demand Justice Dept. Pay Him $230 Million for Past Cases.</p>]]>
-      </description>
-      <source:markdown>Trump Said to Demand Justice Dept. Pay Him $230 Million for Past Cases.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/21/1589/</guid>
     </item>    <item>
       <title>Introducing ChatGPT Atlas</title>
       <link>https://simonwillison.net/2025/Oct/21/introducing-chatgpt-atlas/#atom-everything</link>
@@ -20023,814 +20232,6 @@ Tags: [video-models](https://simonwillison.net/tags/video-models), [prompt-injec
         <![CDATA[Email was the user interface for the first AI recommendation engines.]]>
       </description>
       <source:markdown>Email was the user interface for the first AI recommendation engines.</source:markdown>
-    </item>    <item>
-      <title>Friday 3 October, 2025</title>
-      <link>https://memex.naughtons.org/friday-3-october-2025/41257/</link>
-      <description>
-        <![CDATA[School Trip Quote of the Day ”There&#8217;s no way around grief and loss: you can dodge all you want, but sooner or later you just have to go into it, through it, and, hopefully, come out the other side. The &#8230; <a href="https://memex.naughtons.org/friday-3-october-2025/41257/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <source:markdown>School Trip Quote of the Day ”There’s no way around grief and loss: you can dodge all you want, but sooner or later you just have to go into it, through it, and, hopefully, come out the other side. The … [Continue reading →](https://memex.naughtons.org/friday-3-october-2025/41257/)</source:markdown>
-      <guid>cid://https://memex.naughtons.org/?p=41257</guid>
-    </item>    <item>
-      <title>The Shutdown That Really Means Pay Up</title>
-      <link>https://steady.substack.com/p/the-shutdown-that-really-means-pay</link>
-      <description>
-        <![CDATA[First poll shows Americans blame Republicans]]>
-      </description>
-      <source:markdown>First poll shows Americans blame Republicans</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!-kTL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2c8b61f-4f4f-412c-9373-f0e50e96fdc5_8192x5464.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://steady.substack.com/p/the-shutdown-that-really-means-pay</guid>
-    </item>    <item>
-      <title>MLB Average Game Time Under Three Hours for Third Straight Year</title>
-      <link>https://www.mlb.com/news/mlb-average-game-time-under-three-hours-third-straight-year</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42239</guid>
-    </item>    <item>
-      <link>https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/</link>
-      <description>
-        <![CDATA[<p>Substack Did Not See That Coming.</p>]]>
-      </description>
-      <source:markdown>Substack Did Not See That Coming.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/02/1323/</guid>
-    </item>    <item>
-      <title>How to Export a Mac .icon File With the Proper Margins</title>
-      <link>https://mjtsai.com/blog/2025/10/02/how-to-export-a-mac-icon-file-with-the-proper-margins/</link>
-      <description>
-        <![CDATA[Tahoe Mac app icons are supposed to have margins/padding so that there&#8217;s empty space around the edge of the squircle. The opaque pixels don&#8217;t touch the edge of the canvas. Icon Composer and Xcode handle this detail for you. You design your icon without having to worry about the margin, and Xcode automatically adds it [&#8230;]]]>
-      </description>
-      <source:markdown>Tahoe Mac app icons are supposed to have margins/padding so that there’s empty space around the edge of the squircle. The opaque pixels don’t touch the edge of the canvas. Icon Composer and Xcode handle this detail for you. You design your icon without having to worry about the margin, and Xcode automatically adds it \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49469</guid>
-    </item>    <item>
-      <title>Sora App</title>
-      <link>https://mjtsai.com/blog/2025/10/02/sora-app/</link>
-      <description>
-        <![CDATA[OpenAI: Today we&#8217;re releasing Sora 2, our flagship video and audio generation model.The original Sora model from February 2024 was in many ways the GPT&#x2011;1 moment for video&#8212;the first time video generation started to seem like it was working, and simple behaviors like object permanence emerged from scaling up pre-training compute. Since then, the Sora [&#8230;]]]>
-      </description>
-      <source:markdown>OpenAI: Today we’re releasing Sora 2, our flagship video and audio generation model.The original Sora model from February 2024 was in many ways the GPT‑1 moment for video—the first time video generation started to seem like it was working, and simple behaviors like object permanence emerged from scaling up pre-training compute. Since then, the Sora \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49466</guid>
-    </item>    <item>
-      <title>Nano Banana</title>
-      <link>https://mjtsai.com/blog/2025/10/02/nano-banana/</link>
-      <description>
-        <![CDATA[Wikipedia: Nano Banana (officially Gemini 2.5 Flash Image) is an artificial intelligence image generating and editing tool created by Google. &#8220;Nano Banana&#8221; was the codename used on LMArena while the model was undergoing pre-release testing, allowing the community to evaluate its performance on real-world prompts without knowing its identity. When the company publicly released it [&#8230;]]]>
-      </description>
-      <source:markdown>Wikipedia: Nano Banana (officially Gemini 2.5 Flash Image) is an artificial intelligence image generating and editing tool created by Google. “Nano Banana” was the codename used on LMArena while the model was undergoing pre-release testing, allowing the community to evaluate its performance on real-world prompts without knowing its identity. When the company publicly released it \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49464</guid>
-    </item>    <item>
-      <title>Meta Ray-Ban Display</title>
-      <link>https://mjtsai.com/blog/2025/10/02/meta-ray-ban-display/</link>
-      <description>
-        <![CDATA[Meta (Hacker News): The wait is over. Meta Ray-Ban Display hits shelves in the US today! Priced at $799 USD, which includes the Meta Neural Band, these breakthrough AI glasses let you interact with digital content while staying fully present in the physical world. [&#8230;]Today at Connect, Mark Zuckerberg debuted the next exciting evolution of [&#8230;]]]>
-      </description>
-      <source:markdown>Meta (Hacker News): The wait is over. Meta Ray-Ban Display hits shelves in the US today! Priced at $799 USD, which includes the Meta Neural Band, these breakthrough AI glasses let you interact with digital content while staying fully present in the physical world. \[…\]Today at Connect, Mark Zuckerberg debuted the next exciting evolution of \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49462</guid>
-    </item>    <item>
-      <link>https://tilde.zone/@tomasino/115306851453260115</link>
-      <description>
-        <![CDATA[<p>Pump up the jam</p>]]>
-      </description>
-      <source:markdown>Pump up the jam</source:markdown>
-      <guid>cid://https://tilde.zone/@tomasino/115306851453260115</guid>
-    </item>    <item>
-      <link>https://www.politico.com/newsletters/digital-future-daily/2025/10/02/the-speech-wars-come-for-wikipedia-00591844</link>
-      <description>
-        <![CDATA[<p>The speech wars come for Wikipedia.</p>]]>
-      </description>
-      <source:markdown>The speech wars come for Wikipedia.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/02/1321/</guid>
-    </item>    <item>
-      <title>How to Try Chrome’s Hidden AI Model</title>
-      <link>https://petewarden.com/2025/10/02/how-to-try-chromes-hidden-ai-model/</link>
-      <description>
-        <![CDATA[There&#8217;s an LLM hiding in Chrome. Buried in the browser&#8217;s basement, behind a door with a &#8220;Beware of Leopard&#8221; sign. But I&#8217;ll show you how to find it. In a couple minutes, you&#8217;ll have a private, free chatbot running on your machine. InstructionsWe’re going to enable some developer flags in desktop Chrome so you can [&#8230;]]]>
-      </description>
-      <source:markdown>There’s an LLM hiding in Chrome. Buried in the browser’s basement, behind a door with a “Beware of Leopard” sign. But I’ll show you how to find it. In a couple minutes, you’ll have a private, free chatbot running on your machine. InstructionsWe’re going to enable some developer flags in desktop Chrome so you can \[…\]</source:markdown>
-      <guid>cid://http://petewarden.com/?p=8060</guid>
-    </item>    <item>
-      <title>Goats Over Gas</title>
-      <link>https://onefoottsunami.com/2025/10/02/goats-over-gas/</link>
-      <guid>cid://https://onefoottsunami.com/?p=29234</guid>
-    </item>    <item>
-      <title>Release Notes for Safari Technology Preview 229</title>
-      <link>https://webkit.org/blog/17447/release-notes-for-safari-technology-preview-229/</link>
-      <description>
-        <![CDATA[Safari Technology Preview Release 229 is now available for download for macOS Tahoe and macOS Sequoia.]]>
-      </description>
-      <source:markdown>Safari Technology Preview Release 229 is now available for download for macOS Tahoe and macOS Sequoia.</source:markdown>
-      <guid>cid://https://webkit.org/?p=17447</guid>
-    </item>    <item>
-      <title>A Chronology of All 113 Prints of Hokusai&#38;#8217;s The Great Wave</title>
-      <link>https://kottke.org/25/10/a-chronology-of-all-113-prints-of-hokusais-the-great-wave</link>
-      <guid>cid://tag:kottke.org,2025://5.47639</guid>
-    </item>    <item>
-      <title>Köln 75 (24vo Festival de cine alemán): la chica que salvó el jazz</title>
-      <link>https://www.palomitademaiz.net/resenas-koln-75-24vo-festival-de-cine-aleman/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-koln-75-24vo-festival-de-cine-aleman</link>
-      <description>
-        <![CDATA[<p>Dirección: Ido Fluk. Guion: Ido Fluk. Elenco:  Mala Emde, John Magaro, Alexander Scheer, Ulrich Tukur, Jördis Triebel, Michael Chernus. Países: Alemania, Polonia, Bélgica. Más información de la película: https://www.imdb.com/title/tt20414360/ Todos hemos disfrutado de la música en vivo  y de esa magia que parece surgir por pura espontaneidad. Sin embargo, ¿qué es lo que sucede detrás [&#8230;]</p>
-        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-koln-75-24vo-festival-de-cine-aleman/">Köln 75 (24vo Festival de cine alemán): la chica que salvó el jazz</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
-      </description>
-      <source:markdown>Dirección: Ido Fluk. Guion: Ido Fluk. Elenco:  Mala Emde, John Magaro, Alexander Scheer, Ulrich Tukur, Jördis Triebel, Michael Chernus. Países: Alemania, Polonia, Bélgica. Más información de la película: https://www.imdb.com/title/tt20414360/ Todos hemos disfrutado de la música en vivo  y de esa magia que parece surgir por pura espontaneidad. Sin embargo, ¿qué es lo que sucede detrás \[…\]
-
-La entrada [Köln 75 (24vo Festival de cine alemán): la chica que salvó el jazz](https://www.palomitademaiz.net/resenas-koln-75-24vo-festival-de-cine-aleman/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
-      <guid>cid://https://www.palomitademaiz.net/?p=25578</guid>
-    </item>    <item>
-      <link>https://podcasts.apple.com/us/podcast/are-you-on-the-fbis-new-watch-list-with-ken-klippenstein/id1624265228?i=1000729664403</link>
-      <description>
-        <![CDATA[<p>Are You On The FBI’s New Watch List?</p>]]>
-      </description>
-      <source:markdown>Are You On The FBI’s New Watch List?</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/02/1319/</guid>
-    </item>    <item>
-      <title>Are you ok? In a recent video, Hank Green tells his brother...</title>
-      <link>https://kottke.org/25/10/0047635-are-you-ok-in-a</link>
-      <guid>cid://tag:kottke.org,2025://13.47635</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2ae6zoes22r</link>
-      <description>
-        <![CDATA[😆
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <source:markdown>😆
-
-\[contains quote post or other embedded content\]</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m2ae6zoes22r</guid>
-    </item>    <item>
-      <title>Quentin Blake: How I Draw</title>
-      <link>https://kottke.org/25/10/quentin-blake-how-i-draw</link>
-      <guid>cid://tag:kottke.org,2025://5.47633</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115306147601440099</link>
-      <description>
-        <![CDATA[<p>Joseph documented our new Command Palette:</p><p><a href="https://blog.xogot.com/xogots-new-command-palette/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.xogot.com/xogots-new-comm</span><span class="invisible">and-palette/</span></a></p><p>Video, but I would turn down the volume - because we are not really music-compatible:</p><p><a href="https://youtu.be/HVRAfzXpYpI" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">youtu.be/HVRAfzXpYpI</span><span class="invisible"></span></a></p>]]>
-      </description>
-      <source:markdown>Joseph documented our new Command Palette:
-
-[https://blog.xogot.com/xogots-new-command-palette/](https://blog.xogot.com/xogots-new-command-palette/)
-
-Video, but I would turn down the volume - because we are not really music-compatible:
-
-[https://youtu.be/HVRAfzXpYpI](https://youtu.be/HVRAfzXpYpI)</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115306147601440099</guid>
-    </item>    <item>
-      <title>Note published on October 2, 2025 at 7:00 PM UTC</title>
-      <link>https://www.mollywhite.net/micro/entry/202510021450</link>
-      <guid>cid://68decbe5c07d15a03fd1b53c</guid>
-    </item>    <item>
-      <title>Doing It Manually</title>
-      <link>https://blog.jim-nielsen.com/2025/doing-in-manually/</link>
-      <description>
-        <![CDATA[<p>I have a standing desk that goes up and down via a manual crank.</p>
-        <p>I’ve had it for probably ten years.</p>
-        <p>Every time I raise or lower that thing, it gets my blood pumping.</p>
-        <p>I often think: “I should upgrade to one of those standing desks that goes up and down with the push of a button.”</p>
-        <p>Then there’s the other voice in my head: “Really? Are you so lazy you can’t put your snacks down, get out of your comfy chair, in your air conditioned room, and raise or lower your desk using a little elbow grease? That desk is just fine.”</p>
-        <p>While writing this, I get out of my chair, star the timer, and raise my desk to standing position. 35 seconds.</p>
-        <p>That’s the cost: 35 seconds, and an elevated heart rate. </p>
-        <p>As I have many times over the last ten years, I recommit to keeping it — mostly as a reminder that it’s ok to do some things manually. Not everything in my life needs to be available to me at the push of a button.</p>
-        
-            <hr />
-            
-        
-            <p>
-              Reply via:
-              
-        
-              <a
-                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/doing-in-manually/"
-                >Email</a
-              >
-              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
-        
-              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
-            </p>]]>
-      </description>
-      <source:markdown>I have a standing desk that goes up and down via a manual crank.
-
-I’ve had it for probably ten years.
-
-Every time I raise or lower that thing, it gets my blood pumping.
-
-I often think: “I should upgrade to one of those standing desks that goes up and down with the push of a button.”
-
-Then there’s the other voice in my head: “Really? Are you so lazy you can’t put your snacks down, get out of your comfy chair, in your air conditioned room, and raise or lower your desk using a little elbow grease? That desk is just fine.”
-
-While writing this, I get out of my chair, star the timer, and raise my desk to standing position. 35 seconds.
-
-That’s the cost: 35 seconds, and an elevated heart rate.
-
-As I have many times over the last ten years, I recommit to keeping it — mostly as a reminder that it’s ok to do some things manually. Not everything in my life needs to be available to me at the push of a button.
-
-* * *
-
-Reply via:
-
-
-[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/doing-in-manually/)
-· [Mastodon](https://mastodon.social/@jimniels) ·
-
-[Bluesky](https://bsky.app/profile/jim-nielsen.com)</source:markdown>
-      <guid>cid://https://blog.jim-nielsen.com/2025/doing-in-manually/</guid>
-    </item>    <item>
-      <title>Tiny Tubes</title>
-      <link>https://feed.tedium.co/link/15204/17177109/subminiature-tubes-transistors-raytheon-history</link>
-      <description>
-        <![CDATA[For years, subminiature vacuum tubes were looking like the future of electronics—until a key figure in their rise heard about something better.]]>
-      </description>
-      <source:markdown>For years, subminiature vacuum tubes were looking like the future of electronics—until a key figure in their rise heard about something better.</source:markdown>
-      <guid>cid://https://tedium.co/2025/10/02/subminiature-tubes-transistors-raytheon-history/</guid>
-    </item>    <item>
-      <title>The official number of exoplanets tracked by NASA has reached 6000. Astronomers...</title>
-      <link>https://kottke.org/25/10/0047634-the-official-number-of-ex</link>
-      <guid>cid://tag:kottke.org,2025://13.47634</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115306003704202257</link>
-      <description>
-        <![CDATA[<p>This app for exploring SwiftUI UI elements is adorable!</p><p><a href="https://apps.apple.com/us/app/sixd-swiftui-x-design/id6448773500" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">apps.apple.com/us/app/sixd-swi</span><span class="invisible">ftui-x-design/id6448773500</span></a></p>]]>
-      </description>
-      <source:markdown>This app for exploring SwiftUI UI elements is adorable!
-
-[https://apps.apple.com/us/app/sixd-swiftui-x-design/id6448773500](https://apps.apple.com/us/app/sixd-swiftui-x-design/id6448773500)</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115306003704202257</guid>
-    </item>    <item>
-      <title>Musician Plays the Last Stradivarius Guitar in the World, the &#38;#8220;Sabionari&#38;#8221; Made...</title>
-      <link>https://kottke.org/25/10/0047630-musician-plays-the-last-s</link>
-      <guid>cid://tag:kottke.org,2025://13.47630</guid>
-    </item>    <item>
-      <title>A company called Blackdot has built a tattooing robot. The company says...</title>
-      <link>https://kottke.org/25/10/0047604-a-company-called-blackdot</link>
-      <guid>cid://tag:kottke.org,2025://13.47604</guid>
-    </item>    <item>
-      <title>Any Coloradan with a cell phone will soon be able to access banned books for free.</title>
-      <link>https://lithub.com/any-coloradan-with-a-cell-phone-will-soon-be-able-to-access-banned-books-for-free/</link>
-      <description>
-        <![CDATA[This #BannedBookWeek, we have a lot to lament. Though some book bans have been stalled or swatted down in the courts, stealthy removal campaigns continue. At home and abroad. But as Haylee May of CPR News first reported, at least the good people of Colorado will have free speech to celebrate. Thanks to the administrators [&#8230;]]]>
-      </description>
-      <source:markdown>This #BannedBookWeek, we have a lot to lament. Though some book bans have been stalled or swatted down in the courts, stealthy removal campaigns continue. At home and abroad. But as Haylee May of CPR News first reported, at least the good people of Colorado will have free speech to celebrate. Thanks to the administrators \[…\]</source:markdown>
-      <guid>cid://https://lithub.com/?p=260600</guid>
-    </item>    <item>
-      <title>What ‘The System’ Reveals About Politics, Corruption, and Compromise</title>
-      <link>https://guykawasaki.substack.com/p/what-the-system-reveals-about-politics</link>
-      <description>
-        <![CDATA[Some careers are fascinating.]]>
-      </description>
-      <source:markdown>Some careers are fascinating.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!Y23i!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6bde2653-ce44-4597-b506-7ecffd6abc17_1080x1080.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://guykawasaki.substack.com/p/what-the-system-reveals-about-politics</guid>
-    </item>    <item>
-      <title>Folder Quick Look</title>
-      <link>https://apps.apple.com/app/id6753110395</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42238</guid>
-    </item>    <item>
-      <title>Daniel Miessler on the AI Attack/Defense Balance</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/daniel-miessler-on-the-ai-attack-defense-balance.html</link>
-      <description>
-        <![CDATA[<p>His <a href="https://danielmiessler.com/blog/will-ai-help-moreattackers-defenders">conclusion</a>:</p>
-        <blockquote><p>Context wins</p>
-        <p>Basically whoever can see the most about the target, and can hold that picture in their mind the best, will be best at finding the vulnerabilities the fastest and taking advantage of them. Or, as the defender, applying patches or mitigations the fastest.</p>
-        <p>And if you’re on the inside you know what the applications do. You know what’s important and what isn’t. And you can use all that internal knowledge to fix things­&#8212;hopefully before the baddies take advantage.</p>
-        <p>Summary and prediction</p>
-        <ol>
-        <li>Attackers will have the advantage for 3-5 years. For less-advanced defender teams, this will take much longer.
-        ...</li></ol></blockquote>]]>
-      </description>
-      <source:markdown>His [conclusion](https://danielmiessler.com/blog/will-ai-help-moreattackers-defenders):
-
-&#62; Context wins
-&#62;
-&#62; Basically whoever can see the most about the target, and can hold that picture in their mind the best, will be best at finding the vulnerabilities the fastest and taking advantage of them. Or, as the defender, applying patches or mitigations the fastest.
-&#62;
-&#62; And if you’re on the inside you know what the applications do. You know what’s important and what isn’t. And you can use all that internal knowledge to fix things­—hopefully before the baddies take advantage.
-&#62;
-&#62; Summary and prediction
-&#62;
-&#62; 1. Attackers will have the advantage for 3-5 years. For less-advanced defender teams, this will take much longer.
-&#62;    ...</source:markdown>
-      <guid>cid://https://www.schneier.com/?p=70905</guid>
-    </item>    <item>
-      <title>Have I Earned It?</title>
-      <link>https://kottke.org/25/10/have-i-earned-it</link>
-      <guid>cid://tag:kottke.org,2025://5.47632</guid>
-    </item>    <item>
-      <title>Adobe Premiere Ships for iPhone and iPad</title>
-      <link>https://news.adobe.com/news/2025/09/adobe-premiere-now-delivers-fast-pro-quality-video-editing-mobile</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42237</guid>
-    </item>    <item>
-      <title>U.K. Makes New Attempt to Access Apple Cloud Data — This Time, iCloud Backups of U.K. Citizens</title>
-      <link>https://arstechnica.com/tech-policy/2025/10/uk-once-again-demands-backdoor-to-apples-encrypted-cloud-storage/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42236</guid>
-    </item>    <item>
-      <title>U.K. Makes New Attempt to Access Apple Cloud Data — This Time, iCloud Backups of U.K. Citizens</title>
-      <link>https://www.ft.com/content/d101fd62-14f9-4f51-beff-ea41e8794265</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42236</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/10/02.html#a154641</link>
-      <description>
-        <![CDATA[New motto: Let the web be the web.]]>
-      </description>
-      <source:markdown>New motto: Let the web be the web.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/02.html#a154641</guid>
-    </item>    <item>
-      <title>A new kind of bone glue that &#38;#8220;mimics how oysters stick to...</title>
-      <link>https://kottke.org/25/10/0047631-a-new-kind-of-bone</link>
-      <guid>cid://tag:kottke.org,2025://13.47631</guid>
-    </item>    <item>
-      <title>From the Browser to the Bloodstream</title>
-      <link>https://puri.sm/posts/from-the-browser-to-the-bloodstream/</link>
-      <description>
-        <![CDATA[<p>When a company collapses, its debts and assets are tallied, auctioned, and parceled out. But what happens when the “asset” in question is your very biology? That’s the question millions of 23andMe customers now face in the wake of the company’s bankruptcy.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/from-the-browser-to-the-bloodstream/">From the Browser to the Bloodstream</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>When a company collapses, its debts and assets are tallied, auctioned, and parceled out. But what happens when the “asset” in question is your very biology? That’s the question millions of 23andMe customers now face in the wake of the company’s bankruptcy.
-
-The post [From the Browser to the Bloodstream](https://puri.sm/posts/from-the-browser-to-the-bloodstream/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=84639</guid>
-    </item>    <item>
-      <title>Government Shutdown Costs Kristi Noem Her Extensions</title>
-      <link>https://www.borowitzreport.com/p/government-shutdown-costs-kristi</link>
-      <description>
-        <![CDATA[&#8220;I feel naked without them.&#8221;]]>
-      </description>
-      <source:markdown>“I feel naked without them.”</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!lXKD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e132b87-b412-4c50-96b2-38aed81f8bbe_853x816.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/government-shutdown-costs-kristi</guid>
-    </item>    <item>
-      <title>Daniel Stenberg&#39;s note on AI assisted curl bug reports</title>
-      <link>https://simonwillison.net/2025/Oct/2/curl/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://mastodon.social/@bagder/115241241075258997">Daniel Stenberg&#x27;s note on AI assisted curl bug reports</a></strong></p>
-        Curl maintainer Daniel Stenberg on Mastodon:</p>
-        <blockquote>
-        <p>Joshua Rogers sent us a <em>massive</em> list of potential issues in #curl that he found using his set of AI assisted tools. Code analyzer style nits all over. Mostly smaller bugs, but still bugs and there could be one or two actual security flaws in there. Actually truly awesome findings.</p>
-        <p>I have already landed 22(!) bugfixes thanks to this, and I have over twice that amount of issues left to go through. Wade through perhaps.</p>
-        <p>Credited "Reported in Joshua's sarif data" if you want to look for yourself</p>
-        </blockquote>
-        <p>I searched for <code>is:pr Joshua sarif data is:closed</code> in the <code>curl</code> GitHub repository <a href="https://github.com/curl/curl/pulls?q=is%3Apr+Joshua+sarif+data+is%3Aclosed">and found 49 completed PRs so far</a>.</p>
-        <p>Joshua's own post about this: <a href="https://joshua.hu/llm-engineer-review-sast-security-ai-tools-pentesters">Hacking with AI SASTs: An overview of 'AI Security Engineers' / 'LLM Security Scanners' for Penetration Testers and Security Teams</a>. The <a href="https://joshua.hu/files/AI_SAST_PRESENTATION.pdf">accompanying presentation PDF</a> includes screenshots of some of the tools he used, which included Almanax, Amplify Security, Corgea, Gecko Security, and ZeroPath. Here's his vendor summary:</p>
-        <p><img alt="Screenshot of a presentation slide titled &quot;General Results&quot; with &quot;RACEDAY&quot; in top right corner. Three columns compare security tools: &quot;Almanax&quot; - Excellent single-function &quot;obvious&quot; results. Not so good at large/complicated code. Great at simple malicious code detection. Raw-bones solutions, not yet a mature product. &quot;Gorgoa&quot; - Discovered nearly all &quot;test-case&quot; issues. Discovered real vulns in big codebases. Tons of F/Ps. Malicious detection sucks. Excellent UI &amp; reports. Tons of bugs in UI. PR reviews failed hard. &quot;ZeroPath&quot; - Discovered all &quot;test-case&quot; issues. Intimidatingly good bug and vuln findings. Excellent PR scanning. In-built issue chatbot. Even better with policies. Extremely slow UI. Complex issuedescriptions." src="https://static.simonwillison.net/static/2025/security-vendor-slide.jpg" /></p>
-        <p>This result is especially notable because Daniel has been outspoken about the deluge of junk AI-assisted reports on "security issues" that curl has received in the past. In <a href="https://simonwillison.net/2025/May/6/daniel-stenberg/">May this year</a>, concerning HackerOne:</p>
-        <blockquote>
-        <p>We now ban every reporter INSTANTLY who submits reports we deem AI slop. A threshold has been reached. We are effectively being DDoSed. If we could, we would charge them for this waste of our time.</p>
-        </blockquote>
-        <p>He also wrote about this <a href="https://daniel.haxx.se/blog/2024/01/02/the-i-in-llm-stands-for-intelligence/">in January 2024</a>, where he included this note:</p>
-        <blockquote>
-        <p>I do however suspect that if you just add an ever so tiny (intelligent) human check to the mix, the use and outcome of any such tools will become so much better. I suspect that will be true for a long time into the future as well.</p>
-        </blockquote>
-        <p>This is yet another illustration of how much more interesting these tools are when experienced professionals use them to augment their existing skills.
-        
-            <p><small></small>Via <a href="https://news.ycombinator.com/item?id=45449348">Hacker News</a></small></p>
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/curl">curl</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/daniel-stenberg">daniel-stenberg</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a></p>]]>
-      </description>
-      <source:markdown>**[Daniel Stenberg&#39;s note on AI assisted curl bug reports](https://mastodon.social/@bagder/115241241075258997)**
-
-Curl maintainer Daniel Stenberg on Mastodon:
-
-&#62; Joshua Rogers sent us a _massive_ list of potential issues in #curl that he found using his set of AI assisted tools. Code analyzer style nits all over. Mostly smaller bugs, but still bugs and there could be one or two actual security flaws in there. Actually truly awesome findings.
-&#62;
-&#62; I have already landed 22(!) bugfixes thanks to this, and I have over twice that amount of issues left to go through. Wade through perhaps.
-&#62;
-&#62; Credited &#34;Reported in Joshua&#39;s sarif data&#34; if you want to look for yourself
-
-I searched for `is:pr Joshua sarif data is:closed` in the `curl` GitHub repository [and found 49 completed PRs so far](https://github.com/curl/curl/pulls?q=is%3Apr+Joshua+sarif+data+is%3Aclosed).
-
-Joshua&#39;s own post about this: [Hacking with AI SASTs: An overview of &#39;AI Security Engineers&#39; / &#39;LLM Security Scanners&#39; for Penetration Testers and Security Teams](https://joshua.hu/llm-engineer-review-sast-security-ai-tools-pentesters). The [accompanying presentation PDF](https://joshua.hu/files/AI_SAST_PRESENTATION.pdf) includes screenshots of some of the tools he used, which included Almanax, Amplify Security, Corgea, Gecko Security, and ZeroPath. Here&#39;s his vendor summary:
-
-![Screenshot of a presentation slide titled &#34;General Results&#34; with &#34;RACEDAY&#34; in top right corner. Three columns compare security tools: &#34;Almanax&#34; - Excellent single-function &#34;obvious&#34; results. Not so good at large/complicated code. Great at simple malicious code detection. Raw-bones solutions, not yet a mature product. &#34;Gorgoa&#34; - Discovered nearly all &#34;test-case&#34; issues. Discovered real vulns in big codebases. Tons of F/Ps. Malicious detection sucks. Excellent UI &#38; reports. Tons of bugs in UI. PR reviews failed hard. &#34;ZeroPath&#34; - Discovered all &#34;test-case&#34; issues. Intimidatingly good bug and vuln findings. Excellent PR scanning. In-built issue chatbot. Even better with policies. Extremely slow UI. Complex issuedescriptions.](https://static.simonwillison.net/static/2025/security-vendor-slide.jpg)
-
-This result is especially notable because Daniel has been outspoken about the deluge of junk AI-assisted reports on &#34;security issues&#34; that curl has received in the past. In [May this year](https://simonwillison.net/2025/May/6/daniel-stenberg/), concerning HackerOne:
-
-&#62; We now ban every reporter INSTANTLY who submits reports we deem AI slop. A threshold has been reached. We are effectively being DDoSed. If we could, we would charge them for this waste of our time.
-
-He also wrote about this [in January 2024](https://daniel.haxx.se/blog/2024/01/02/the-i-in-llm-stands-for-intelligence/), where he included this note:
-
-&#62; I do however suspect that if you just add an ever so tiny (intelligent) human check to the mix, the use and outcome of any such tools will become so much better. I suspect that will be true for a long time into the future as well.
-
-This is yet another illustration of how much more interesting these tools are when experienced professionals use them to augment their existing skills.
-
-
-
-Via [Hacker News](https://news.ycombinator.com/item?id=45449348)
-
-Tags: [curl](https://simonwillison.net/tags/curl), [security](https://simonwillison.net/tags/security), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [daniel-stenberg](https://simonwillison.net/tags/daniel-stenberg), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [ai-ethics](https://simonwillison.net/tags/ai-ethics)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/2/curl/#atom-everything</guid>
-    </item>    <item>
-      <title>A Newsletter of Humorous Writing #412</title>
-      <link>https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-412/</link>
-      <description>
-        <![CDATA[<h3><em>For September 24-30, 2025</em></h3>
-        <p>Hello and welcome to <strong>A Newsletter of Humorous Writing</strong>, a roundup of the week's finest short humor pieces and funny articles, and a celebration of the fantastic writers who wrote them. In honor of entering The Spooky Month, we’ve hidden a <em>spine-chilling </em>scare in this week’s edition… click if you dare!</p>
-        <hr/><h2>What We Enjoyed This Week</h2>
-        <p><a href="https://www.pointsincase.com/lists/in-loving-memory-of-those-who-ignored-their-mothers-unbelievable-warnings?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-412" rel="noopener noreferrer nofollow" target="_blank"><strong>In Loving Memory of Those Who Ignored Their Mothers’ Unbelievable Warnings</strong></a><strong> by </strong><a href="https://www.pointsincase.com/author/jennifer-metcalf?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-412" rel="noopener noreferrer nofollow" target="_blank"><strong>Jennifer Metcalf</strong></a> <em>(Points in Case)</em> Wonderful parody work here. Jennifer uses the form of short obituaries as a way to heighten a great observation. You can imagine the idea of “things my mom warns me about” in a more matter-of-fact format like a rant, but the format choice here adds a twist that makes this one much more memorable.</p>
-        <p><a href="https://www.mcsweeneys.net/articles/tonights-performance-wouldnt-be-possible-without?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-412" rel="noopener noreferrer nofollow" target="_blank"><strong>Tonight’s Performance Wouldn’t Be Possible Without…</strong></a><strong> by </strong><a href="https://www.instagram.com/landladyband?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-412" rel="noopener noreferrer nofollow" target="_blank"><strong>Adam Schatz</strong></a> <em>(McSweeney’s)</em> Another amazing format choice for this joke bucket. As we’ve said many times before, a joke bucket piece can be really tough, because you absolutely have to have 100% killer specifics and the jokes—Adam really delivers!</p>
-        <p><a href="https://www.mcsweeneys.net/articles/take-a-tour-of-my-five-bed-six-bath-affront-to-god?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-412" rel="noopener noreferrer nofollow" target="_blank"><strong>Take a Tour of My Five-Bed, Six-Bath Affront to God </strong></a><strong>by </strong><a href="https://www.pointsincase.com/author/patrick-coyne?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-412" rel="noopener noreferrer nofollow" target="_blank"><strong>Patrick Coyne </strong></a><em>(McSweeney’s)</em> Patrick has a ton of fun plaing with the contrast between someone bragging about their house and a someone sticking their thumb in God’s eye. The writing is particularly great when that juxtaposition is especially tight: “Over there’s the infinity pool, which literally mocks God by being both infinite and chlorinated.”</p>
-        <hr/><blockquote><p>-- AD --</p><p>Writers &amp; Comedians Wanted</p><p>Join On The Watchlist with Jay Servedio — a live late-night comedy show in the spirit of The Daily Show. A funny and fearless deconstruction of the media as we dive further into the age of misinformation. Collaborate. Perform. Profit. (Hopefully) <a href="https://docs.google.com/forms/d/1-0mYVBBKURR3g5uCs7At952PNcVgqHFdo38Zy3yd-hI/edit?usp=drivesdk&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-412" rel="noopener noreferrer nofollow" target="_blank">Apply Here!</a></p><p>---</p><p>(Do you have an ad you'd like to place in the Newsletter? <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJlHErf2PuWr5NxqLbD6dhf7s31pzCC3sBVCHJ24exAwfmgQ/viewform?usp=sf_link&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-412" rel="noopener noreferrer nofollow" target="_blank">Fill out this form!</a>)</p></blockquote>
-        <hr/><h2>An Old Favorite</h2>
-        <p><strong><em>This week's Old Favorite is a</em></strong> <a href="http://www.mcsweeneys.net/articles/celebrating-the-hilarious-work-of-brian-agler?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-412" rel="noopener noreferrer nofollow" target="_blank"><strong><em>Brian Agler</em></strong></a> <strong><em>Selection (TM)--a piece whose accompanying note was written by Brian--from </em></strong><a href="https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-109/" rel="noopener noreferrer nofollow" target="_blank"><strong><em>Newsletter #109</em></strong></a><strong><em>.</em></strong></p>
-        <p><a href="https://www.newyorker.com/humor/daily-shouts/my-ten-year-old-self-does-standup?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-412" rel="noopener noreferrer nofollow" target="_blank"><strong>My Ten-Year-Old-Self Does Standup</strong></a><strong> by </strong><a href="https://twitter.com/emmarathbone?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-412" rel="noopener noreferrer nofollow" target="_blank"><strong>Emma Rathbone</strong></a><strong> </strong><em>(New Yorker)</em> Emma Rathbone absolutely nails the voice on this one--mixing and mimicking tropes to make this whole piece feel effortless. Also--and we can't emphasize this enough--the riff on "magic" is gold.</p>
-        <p><em>Do you have an Old Favorite of your own? Let us know by filling out</em> <a href="http://forms.gle/9iALhpfsAn9mvn4p8?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-412" rel="noopener noreferrer nofollow" target="_blank"><em>this form</em></a> <em>and we may run your pick in a future edition of the newsletter. </em><a href="https://en.wikipedia.org/wiki/Ghost?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-412" rel="noopener noreferrer nofollow" target="_blank"><em>You’re safe to submit, without danger of getting totally scared…</em></a></p>
-        <hr/><h2>Updates From Your Editors and Friends of the Newsletter</h2>
-        <p>Luke’s still got two spots left in his <a href="https://docs.google.com/forms/d/e/1FAIpQLScauLuw-vsyD5jTdYAgv7fmEE2xXCqdVgctrstlwy03J5I_dw/viewform?usp=dialog&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-412" rel="noopener noreferrer nofollow" target="_blank">advanced short humor workshop starting next Wednesday</a>, and in his <a href="https://docs.google.com/forms/d/e/1FAIpQLSdZXS8c1tJzagMTvwC-cIDeWDuFEN1ina-xwK9aT7LuUgP8mA/viewform?usp=dialog&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-412" rel="noopener noreferrer nofollow" target="_blank">intro class starting a week from Saturday</a>! Check out the <a href="https://lukevburns.tumblr.com/Coaching?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-412" rel="noopener noreferrer nofollow" target="_blank">testimonials section of his website</a> to see some of the extremely nice things people have said about his feedback and workshops.</p>
-        <p>Nothing else from us! We’re cowering in the corner, hiding under a blanket!</p>]]>
-      </description>
-      <source:markdown>### _For September 24-30, 2025_
-
-Hello and welcome to **A Newsletter of Humorous Writing**, a roundup of the week&#39;s finest short humor pieces and funny articles, and a celebration of the fantastic writers who wrote them. In honor of entering The Spooky Month, we’ve hidden a _spine-chilling_ scare in this week’s edition… click if you dare!
-
-* * *
-
-## What We Enjoyed This Week
-
-[**In Loving Memory of Those Who Ignored Their Mothers’ Unbelievable Warnings**](https://www.pointsincase.com/lists/in-loving-memory-of-those-who-ignored-their-mothers-unbelievable-warnings?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-412) **by** [**Jennifer Metcalf**](https://www.pointsincase.com/author/jennifer-metcalf?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-412) _(Points in Case)_ Wonderful parody work here. Jennifer uses the form of short obituaries as a way to heighten a great observation. You can imagine the idea of “things my mom warns me about” in a more matter-of-fact format like a rant, but the format choice here adds a twist that makes this one much more memorable.
-
-[**Tonight’s Performance Wouldn’t Be Possible Without…**](https://www.mcsweeneys.net/articles/tonights-performance-wouldnt-be-possible-without?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-412) **by** [**Adam Schatz**](https://www.instagram.com/landladyband?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-412) _(McSweeney’s)_ Another amazing format choice for this joke bucket. As we’ve said many times before, a joke bucket piece can be really tough, because you absolutely have to have 100% killer specifics and the jokes—Adam really delivers!
-
-[**Take a Tour of My Five-Bed, Six-Bath Affront to God**](https://www.mcsweeneys.net/articles/take-a-tour-of-my-five-bed-six-bath-affront-to-god?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-412) **by** [**Patrick Coyne**](https://www.pointsincase.com/author/patrick-coyne?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-412) _(McSweeney’s)_ Patrick has a ton of fun plaing with the contrast between someone bragging about their house and a someone sticking their thumb in God’s eye. The writing is particularly great when that juxtaposition is especially tight: “Over there’s the infinity pool, which literally mocks God by being both infinite and chlorinated.”
-
-* * *
-
-&#62; \-\- AD --
-&#62;
-&#62; Writers &#38; Comedians Wanted
-&#62;
-&#62; Join On The Watchlist with Jay Servedio — a live late-night comedy show in the spirit of The Daily Show. A funny and fearless deconstruction of the media as we dive further into the age of misinformation. Collaborate. Perform. Profit. (Hopefully) [Apply Here!](https://docs.google.com/forms/d/1-0mYVBBKURR3g5uCs7At952PNcVgqHFdo38Zy3yd-hI/edit?usp=drivesdk&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-412)
-&#62;
-&#62; \-\-\-
-&#62;
-&#62; (Do you have an ad you&#39;d like to place in the Newsletter? [Fill out this form!](https://docs.google.com/forms/d/e/1FAIpQLSeJlHErf2PuWr5NxqLbD6dhf7s31pzCC3sBVCHJ24exAwfmgQ/viewform?usp=sf_link&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-412))
-
-* * *
-
-## An Old Favorite
-
-**_This week&#39;s Old Favorite is a_** [**_Brian Agler_**](http://www.mcsweeneys.net/articles/celebrating-the-hilarious-work-of-brian-agler?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-412) **_Selection (TM)--a piece whose accompanying note was written by Brian--from_** [**_Newsletter #109_**](https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-109/) **_._**
-
-[**My Ten-Year-Old-Self Does Standup**](https://www.newyorker.com/humor/daily-shouts/my-ten-year-old-self-does-standup?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-412) **by** [**Emma Rathbone**](https://twitter.com/emmarathbone?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-412) _(New Yorker)_ Emma Rathbone absolutely nails the voice on this one--mixing and mimicking tropes to make this whole piece feel effortless. Also--and we can&#39;t emphasize this enough--the riff on &#34;magic&#34; is gold.
-
-_Do you have an Old Favorite of your own? Let us know by filling out_ [_this form_](http://forms.gle/9iALhpfsAn9mvn4p8?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-412) _and we may run your pick in a future edition of the newsletter._ [_You’re safe to submit, without danger of getting totally scared…_](https://en.wikipedia.org/wiki/Ghost?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-412)
-
-* * *
-
-## Updates From Your Editors and Friends of the Newsletter
-
-Luke’s still got two spots left in his [advanced short humor workshop starting next Wednesday](https://docs.google.com/forms/d/e/1FAIpQLScauLuw-vsyD5jTdYAgv7fmEE2xXCqdVgctrstlwy03J5I_dw/viewform?usp=dialog&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-412), and in his [intro class starting a week from Saturday](https://docs.google.com/forms/d/e/1FAIpQLSdZXS8c1tJzagMTvwC-cIDeWDuFEN1ina-xwK9aT7LuUgP8mA/viewform?usp=dialog&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-412)! Check out the [testimonials section of his website](https://lukevburns.tumblr.com/Coaching?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-412) to see some of the extremely nice things people have said about his feedback and workshops.
-
-Nothing else from us! We’re cowering in the corner, hiding under a blanket!</source:markdown>
-      <guid>cid://https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-412/</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/10/02.html#a145833</link>
-      <description>
-        <![CDATA[Someday soon you're going to read a post here, have something quick you want to say, click on a little icon, the editor opens, you write, post, and it's on your blog. I get a pointer. I can read it, and if I want, I can attach it to my post. The writing stays in your space, so you have an archive of all your writing. We let the web be the web.]]>
-      </description>
-      <source:markdown>Someday soon you&#39;re going to read a post here, have something quick you want to say, click on a little icon, the editor opens, you write, post, and it&#39;s on your blog. I get a pointer. I can read it, and if I want, I can attach it to my post. The writing stays in your space, so you have an archive of all your writing. We let the web be the web.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/02.html#a145833</guid>
-    </item>    <item>
-      <title>Librarian leaves job after declining Melania Trump’s demand for a sword.</title>
-      <link>https://lithub.com/librarian-leaves-job-after-declining-melania-trumps-demand-for-a-sword/</link>
-      <description>
-        <![CDATA[Today in headlines I never thought anyone would I’d write, the head of the Dwight D. Eisenhower Presidential Library has resigned after a spat with Melania Trump over an original Eisenhower sword she really, really, really wanted to give to King Charles III when she and Donald visited the UK last month. According to CBS: [&#8230;]]]>
-      </description>
-      <source:markdown>Today in headlines I never thought anyone would I’d write, the head of the Dwight D. Eisenhower Presidential Library has resigned after a spat with Melania Trump over an original Eisenhower sword she really, really, really wanted to give to King Charles III when she and Donald visited the UK last month. According to CBS: \[…\]</source:markdown>
-      <guid>cid://https://lithub.com/?p=260594</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/10/02.html#a145232</link>
-      <description>
-        <![CDATA[I have a problem in the development version of WordLand. Sometimes when I bring it to the front, there's an error deep in jQuery, an event has fired and the handler is pointing to a string or number, not a function. It dies, with no stack crawl, because it was responding to a focus event or blur or something like that. Something got overwritten. I have no idea where or how it happened, but once found it will be obvious. I've been trying to figure it out with Claude and ChatGPT and I can see it's going to take a few hours of concentration and learning to figure it out. But then I realized hey -- I bet I could use the Chrome debugger to find this problem. It has Gemini built in. It has access to the running code. I don't have to act as an intermediary, gathering data, pasting stuff into the AI bot. Now I'm looking forward to doing this.]]>
-      </description>
-      <source:markdown>I have a problem in the development version of WordLand. Sometimes when I bring it to the front, there&#39;s an error deep in jQuery, an event has fired and the handler is pointing to a string or number, not a function. It dies, with no stack crawl, because it was responding to a focus event or blur or something like that. Something got overwritten. I have no idea where or how it happened, but once found it will be obvious. I&#39;ve been trying to figure it out with Claude and ChatGPT and I can see it&#39;s going to take a few hours of concentration and learning to figure it out. But then I realized hey -- I bet I could use the Chrome debugger to find this problem. It has Gemini built in. It has access to the running code. I don&#39;t have to act as an intermediary, gathering data, pasting stuff into the AI bot. Now I&#39;m looking forward to doing this.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/02.html#a145232</guid>
-    </item>    <item>
-      <title>25 years ago today, Radiohead released Kid A. This morning, I&#38;#8217;m celebrating...</title>
-      <link>https://kottke.org/25/10/0047629-25-years-ago-today-radioh</link>
-      <guid>cid://tag:kottke.org,2025://13.47629</guid>
-    </item>    <item>
-      <title>I have a very large head.</title>
-      <link>http://scripting.com/2025/10/02/144502.html?title=iHaveAVeryLargeHead</link>
-      <description>
-        <![CDATA[<p>Normal hats don't fit. Not even close.</p>
-        <p>So I buy my caps from <a href="http://BigHatStore.com/">BigHatStore.com</a>.</p>
-        <p>In prep for my trip to Ottawa later this month for WordCamp Canada, my first trip out of the country in a long time, I wanted to get a new hat. </p>
-        <p>They don't have a big selection of NBA hats, so there's no Knicks hat that fits my head.</p>
-        <p>And they didn't have any Mets hats for some reason. </p>
-        <p>I thought -- I'll get a Wisconsin hat! I went to grad school in Madison and loved it there. You know Fuck em Bucky! But they didn't have any Wisconsin hats either. </p>
-        <p>I was dejected, but noticed they <i>did</i> have Harvard hats. </p>
-        <p>So I got one. </p>
-        <p>Which reminds me of a joke a famous VC told when we were walking around on the Stanford campus in 2004. </p>
-        <p>It goes like this...</p>
-        <p>How can you tell someone went to Harvard?</p>
-        <p>Pause.</p>
-        <p>I give up.</p>
-        <p>They tell you!</p>
-        <p>Haha. </p>
-        <p>Or they wear a Harvard baseball cap.  </p>
-        <p>I plan to tell that joke a few times, while wearing the cap. :-)</p>]]>
-      </description>
-      <source:markdown>Normal hats don&#39;t fit. Not even close.
-
-So I buy my caps from [BigHatStore.com](http://BigHatStore.com/).
-
-In prep for my trip to Ottawa later this month for WordCamp Canada, my first trip out of the country in a long time, I wanted to get a new hat.
-
-They don&#39;t have a big selection of NBA hats, so there&#39;s no Knicks hat that fits my head.
-
-And they didn&#39;t have any Mets hats for some reason.
-
-I thought -- I&#39;ll get a Wisconsin hat! I went to grad school in Madison and loved it there. You know Fuck em Bucky! But they didn&#39;t have any Wisconsin hats either.
-
-I was dejected, but noticed they _did_ have Harvard hats.
-
-So I got one.
-
-Which reminds me of a joke a famous VC told when we were walking around on the Stanford campus in 2004.
-
-It goes like this...
-
-How can you tell someone went to Harvard?
-
-Pause.
-
-I give up.
-
-They tell you!
-
-Haha.
-
-Or they wear a Harvard baseball cap.
-
-I plan to tell that joke a few times, while wearing the cap. :-)</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/02/144502.html</guid>
-    </item>    <item>
-      <title>Earth Is Getting Darker, Literally, and Scientists Are Trying To Find Out Why</title>
-      <link>https://www.404media.co/earth-is-getting-darker-literally-and-scientists-are-trying-to-find-out-why/</link>
-      <description>
-        <![CDATA[For decades, scientists assumed that symmetry between the reflectivity of Earth’s hemispheres was a “fundamental property” of our planet. Now, that’s changed.]]>
-      </description>
-      <source:markdown>For decades, scientists assumed that symmetry between the reflectivity of Earth’s hemispheres was a “fundamental property” of our planet. Now, that’s changed.</source:markdown>
-      <guid>cid://68de8ee9ed336000015782b2</guid>
-    </item>    <item>
-      <title>Don&#39;t focus on the Democratic Party</title>
-      <link>http://scripting.com/2025/10/02/143655.html?title=dontFocusOnTheDemocraticParty</link>
-      <description>
-        <![CDATA[<p><img class="imgRightMargin" src="https://imgs.scripting.com/2025/10/02/letBartlet.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I don’t like the Democratic leaders in Congress, but that doesn’t matter. People say what they’re doing won’t work. I agree. But the elected Democrats swore an oath, to uphold the Constitution. With that constraint there isn’t much they can do other than try to force the Repubs to do the same, and that isn't likely to work. It hasn't so far, but it's all they can do without breaking the Constitution themselves. Think about it. All these minds, and we haven't come up with anything.</p>
-        <p>What brought this home was a comment by a Democratic congressperson saying on CNN last night no matter what they do Trump won’t obey if he doesn’t want to. It’s true. They could get Repubs in Congress to fund Obamacare, but Trump could ignore it. That’s reality. What do the pundits think they should do?</p>
-        <p>Here's the unvarnished truth. Whatever the answer is it <i>can't</i> come from the Democratic Party. </p>]]>
-      </description>
-      <source:markdown>![](https://imgs.scripting.com/2025/10/02/letBartlet.png)I don’t like the Democratic leaders in Congress, but that doesn’t matter. People say what they’re doing won’t work. I agree. But the elected Democrats swore an oath, to uphold the Constitution. With that constraint there isn’t much they can do other than try to force the Repubs to do the same, and that isn&#39;t likely to work. It hasn&#39;t so far, but it&#39;s all they can do without breaking the Constitution themselves. Think about it. All these minds, and we haven&#39;t come up with anything.
-
-What brought this home was a comment by a Democratic congressperson saying on CNN last night no matter what they do Trump won’t obey if he doesn’t want to. It’s true. They could get Repubs in Congress to fund Obamacare, but Trump could ignore it. That’s reality. What do the pundits think they should do?
-
-Here&#39;s the unvarnished truth. Whatever the answer is it _can&#39;t_ come from the Democratic Party.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/02/143655.html</guid>
-    </item>    <item>
-      <title>Generative AI in the Real World: Emmanuel Ameisen on LLM Interpretability</title>
-      <link>https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-emmanuel-ameisen-on-llm-interpretability/</link>
-      <description>
-        <![CDATA[In this episode, Ben Lorica and Anthropic interpretability researcher Emmanuel Ameisen get into the work Emmanuel’s team has been doing to better understand how LLMs like Claude work. Listen in to find out what they’ve uncovered by taking a microscopic look at how LLMs function—and just how far the analogy to the human brain holds. [&#8230;]]]>
-      </description>
-      <source:markdown>In this episode, Ben Lorica and Anthropic interpretability researcher Emmanuel Ameisen get into the work Emmanuel’s team has been doing to better understand how LLMs like Claude work. Listen in to find out what they’ve uncovered by taking a microscopic look at how LLMs function—and just how far the analogy to the human brain holds. \[…\]</source:markdown>
-      <enclosure url="https://cdn.oreillystatic.com/radar/generative-ai-real-world-podcast/GenAI_in_the_Real_World_with_Emmanuel_Ameisen.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://www.oreilly.com/radar/?post_type=podcast&#38;p=17488</guid>
-    </item>    <item>
-      <title>Red Hat Investigating Breach Impacting as Many as 28,000 Customers, Including the Navy and Congress</title>
-      <link>https://www.404media.co/red-hat-investigating-breach-impacting-as-many-as-28-000-customers-including-the-navy-and-congress/</link>
-      <description>
-        <![CDATA[A hacking group called the Crimson Collective says it pulled data from GitLab repositories connected to Red Hat's consulting business. Red Hat has confirmed it is investigating the compromise.]]>
-      </description>
-      <source:markdown>A hacking group called the Crimson Collective says it pulled data from GitLab repositories connected to Red Hat&#39;s consulting business. Red Hat has confirmed it is investigating the compromise.</source:markdown>
-      <guid>cid://68de89d7ed336000015781d5</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m27qnehn2s2c</link>
-      <description>
-        <![CDATA[Sounds fun, www.lapl.org/nature
-        https://www.lapl.org/nature]]>
-      </description>
-      <source:markdown>Sounds fun, www.lapl.org/nature
-https://www.lapl.org/nature</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m27qnehn2s2c</guid>
-    </item>    <item>
-      <title>&#38;#8220;Scientists reflect on the life and work of [Jane Goodall], whose discoveries...</title>
-      <link>https://kottke.org/25/10/0047628-scientists-reflect-on-the</link>
-      <guid>cid://tag:kottke.org,2025://13.47628</guid>
-    </item>    <item>
-      <title>OpenAI Launches Sora, a Social Feed App for AI-Generated Short Videos</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/788786/openais-new-ai-sora-ios-social-video-app-will-let-you-deepfake-your-friends</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42235</guid>
-    </item>    <item>
-      <title>[Podcast] Growing as a technical writer in the AI era</title>
-      <link>https://passo.uno/podcast-growing-as-tech-writer/</link>
-      <description>
-        <![CDATA[<p>Kate Mueller&rsquo;s <em>The Not-Boring Tech Writer</em> is one of my favorite tech writing podcasts. In <a href="https://thenotboringtechwriter.com/episodes/growing-as-a-technical-writer-in-the-ai-era-with-fabrizio-ferri-benedetti">Growing as a technical writer in the AI era</a>, Kate and I talked about the <a href="https://passo.uno/seven-action-model/">Seven-action Docs Model</a> and how to grow as a tech writer. Don&rsquo;t miss it!</p>]]>
-      </description>
-      <source:markdown>Kate Mueller’s _The Not-Boring Tech Writer_ is one of my favorite tech writing podcasts. In [Growing as a technical writer in the AI era](https://thenotboringtechwriter.com/episodes/growing-as-a-technical-writer-in-the-ai-era-with-fabrizio-ferri-benedetti), Kate and I talked about the [Seven-action Docs Model](https://passo.uno/seven-action-model/) and how to grow as a tech writer. Don’t miss it!</source:markdown>
-      <guid>cid://https://passo.uno/podcast-growing-as-tech-writer/</guid>
-    </item>    <item>
-      <title>Government Shutdown Causes Even More Confusion for U.S. Visa Applicants</title>
-      <link>https://www.404media.co/government-shutdown-visa-applications/</link>
-      <description>
-        <![CDATA[Some services needed for immigration applications, like H-1B and E3 visas, no longer have funding, while others are still operational — for now.]]>
-      </description>
-      <source:markdown>Some services needed for immigration applications, like H-1B and E3 visas, no longer have funding, while others are still operational — for now.</source:markdown>
-      <guid>cid://68de8397ed336000015780fd</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/10/02.html#a132410</link>
-      <description>
-        <![CDATA[<a href="https://wordpress.feedland.org/">Latest news</a> from WordPress. Always looking <a href="https://bsky.app/profile/scripting.com/post/3m27nxhj5dc2b">for</a> more <a href="https://mastodon.social/@davew/115304807597336222">sources</a>. <span style="font-size: 15px;">😀</span>]]>
-      </description>
-      <source:markdown>[Latest news](https://wordpress.feedland.org/) from WordPress. Always looking [for](https://bsky.app/profile/scripting.com/post/3m27nxhj5dc2b) more [sources](https://mastodon.social/@davew/115304807597336222). 😀</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/02.html#a132410</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/10/02.html#a131238</link>
-      <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2020/12/12/asGoodAsItGets.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">One of the things we can do to preserve freedom, is to resume using the open internet to communicate instead of the silos of Zuck and Musk et al. When you use the web instead of a silo you are helping build community outside, where free speech is the default. The more of us who communicate outside, the more people will be attracted. Your participation helps draw people out, where independent developers can create new tools for you without waiting for permission of big companies who own the network you're using. It's like voting. The more people do it, the stronger we all are. I've spent the last 31 years insisting on that freedom for myself as a writer and developer and sharing it with others. As people flocked to Twitter and Facebook, etc, you thought I was gone, finished, a loser. I know they think that about me. But honestly, I also knew the open internet would come back, because I knew its value, and I knew eventually the silos would reveal their <a href="https://www.npr.org/2016/11/09/500716650/donald-trump-clinches-the-presidency-in-major-upset">real cost</a>. They may appear free, but there's a <a href="https://en.wikipedia.org/wiki/Elon_Musk_salute_controversy">price to pay</a>. I hope you'll consider using the tools. If you want to get started, create a free site on wordpress.com. Just create it. That will be your home on the open social web. And btw, you don't have to agree with my politics to be part of it. That's kind of the whole point. ;-)]]>
-      </description>
-      <source:markdown>![](https://imgs.scripting.com/2020/12/12/asGoodAsItGets.png)One of the things we can do to preserve freedom, is to resume using the open internet to communicate instead of the silos of Zuck and Musk et al. When you use the web instead of a silo you are helping build community outside, where free speech is the default. The more of us who communicate outside, the more people will be attracted. Your participation helps draw people out, where independent developers can create new tools for you without waiting for permission of big companies who own the network you&#39;re using. It&#39;s like voting. The more people do it, the stronger we all are. I&#39;ve spent the last 31 years insisting on that freedom for myself as a writer and developer and sharing it with others. As people flocked to Twitter and Facebook, etc, you thought I was gone, finished, a loser. I know they think that about me. But honestly, I also knew the open internet would come back, because I knew its value, and I knew eventually the silos would reveal their [real cost](https://www.npr.org/2016/11/09/500716650/donald-trump-clinches-the-presidency-in-major-upset). They may appear free, but there&#39;s a [price to pay](https://en.wikipedia.org/wiki/Elon_Musk_salute_controversy). I hope you&#39;ll consider using the tools. If you want to get started, create a free site on wordpress.com. Just create it. That will be your home on the open social web. And btw, you don&#39;t have to agree with my politics to be part of it. That&#39;s kind of the whole point. ;-)</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/02.html#a131238</guid>
-    </item>    <item>
-      <title>Hacker Laws</title>
-      <link>https://hacker-laws.com/</link>
-      <description>
-        <![CDATA[<p>I&#8217;m fascinated by eponymous laws, and here&#8217;s a whole bunch of them gathered together, including a few I hadn&#8217;t heard of (mostly from the world of software).</p>
-        
-        <p><a href="https://adactio.com/links/22170">adactio.com/links/22170</a></p>]]>
-      </description>
-      <source:markdown>I’m fascinated by eponymous laws, and here’s a whole bunch of them gathered together, including a few I hadn’t heard of (mostly from the world of software).
-
-[adactio.com/links/22170](https://adactio.com/links/22170)</source:markdown>
-      <guid>cid://https://hacker-laws.com/</guid>
-    </item>    <item>
-      <title>Decentralizing quality || Matt Ström-Awn, designer-leader</title>
-      <link>https://matthewstrom.com/writing/decentralizing-quality/</link>
-      <description>
-        <![CDATA[<blockquote>
-          <p>I’ve personally struggled to implement a decentralized approach to quality in many of my teams. I believe in it from an academic standpoint, but in practice it works against the grain of every traditional management structure. Managers want ‘one neck to wring’ when things go wrong. Decentralized quality makes that impossible. So I’ve compromised, centralized, become the bottleneck I know slows things down. It’s easier to defend in meetings. But when I’ve managed to decentralize quality — most memorably when I was running a small agency and could write the org chart myself — I’ve been able to do some of the best work of my career.</p>
-        </blockquote>
-        
-        <p><a href="https://adactio.com/links/22169">adactio.com/links/22169</a></p>]]>
-      </description>
-      <source:markdown>&#62; I’ve personally struggled to implement a decentralized approach to quality in many of my teams. I believe in it from an academic standpoint, but in practice it works against the grain of every traditional management structure. Managers want ‘one neck to wring’ when things go wrong. Decentralized quality makes that impossible. So I’ve compromised, centralized, become the bottleneck I know slows things down. It’s easier to defend in meetings. But when I’ve managed to decentralize quality — most memorably when I was running a small agency and could write the org chart myself — I’ve been able to do some of the best work of my career.
-
-[adactio.com/links/22169](https://adactio.com/links/22169)</source:markdown>
-      <guid>cid://https://matthewstrom.com/writing/decentralizing-quality/</guid>
-    </item>    <item>
-      <link>https://ma.tt/2025/10/fight-for-open/#comment-604907</link>
-      <description>
-        <![CDATA[<p>Ever the evangelist, I suggested that Matt's new investment, Beeper, support RSS in addition to all the other protocols they support. That way you could get a message out on the IM network by posting it to a WordPress site.</p>]]>
-      </description>
-      <source:markdown>Ever the evangelist, I suggested that Matt&#39;s new investment, Beeper, support RSS in addition to all the other protocols they support. That way you could get a message out on the IM network by posting it to a WordPress site.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/02/1315/</guid>
-    </item>    <item>
-      <title>Quoting Nadia Eghbal</title>
-      <link>https://simonwillison.net/2025/Oct/2/nadia-eghbal/#atom-everything</link>
-      <description>
-        <![CDATA[<blockquote cite="https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-start-small-no-slop/88476"><p>When attention is being appropriated, producers need to weigh the costs and benefits of the transaction. To assess whether the appropriation of attention is net-positive, it’s useful to distinguish between extractive and non-extractive contributions. <strong>Extractive contributions</strong> are those where the marginal cost of reviewing and merging that contribution is greater than the marginal benefit to the project’s producers. In the case of a code contribution, it might be a pull request that’s too complex or unwieldy to review, given the potential upside</p></blockquote>
-        <p class="cite">&mdash; <a href="https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-start-small-no-slop/88476">Nadia Eghbal</a>, <em>Working in Public</em>, via the draft LLVM AI tools policy</p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/definitions">definitions</a></p>]]>
-      </description>
-      <source:markdown>&#62; When attention is being appropriated, producers need to weigh the costs and benefits of the transaction. To assess whether the appropriation of attention is net-positive, it’s useful to distinguish between extractive and non-extractive contributions. **Extractive contributions** are those where the marginal cost of reviewing and merging that contribution is greater than the marginal benefit to the project’s producers. In the case of a code contribution, it might be a pull request that’s too complex or unwieldy to review, given the potential upside
-
-— [Nadia Eghbal](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-start-small-no-slop/88476), _Working in Public_, via the draft LLVM AI tools policy
-
-Tags: [ai-ethics](https://simonwillison.net/tags/ai-ethics), [open-source](https://simonwillison.net/tags/open-source), [vibe-coding](https://simonwillison.net/tags/vibe-coding), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [generative-ai](https://simonwillison.net/tags/generative-ai), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms), [definitions](https://simonwillison.net/tags/definitions)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/2/nadia-eghbal/#atom-everything</guid>
-    </item>    <item>
-      <title>Investigators have been asked to look into the death of Hunter S. Thompson.</title>
-      <link>https://lithub.com/investigators-have-been-asked-to-look-into-the-death-of-hunter-s-thompson/</link>
-      <description>
-        <![CDATA[The death by suicide of the late, great Hunter S. Thompson in 2005, at the age of 67, is to be reexamined by the Colorado Bureau of Investigation after a request from his widow, Anita. According to NBC: The Pitkin County Sheriff’s Office recently referred the case to the Colorado Bureau of Investigation after his [&#8230;]]]>
-      </description>
-      <source:markdown>The death by suicide of the late, great Hunter S. Thompson in 2005, at the age of 67, is to be reexamined by the Colorado Bureau of Investigation after a request from his widow, Anita. According to NBC: The Pitkin County Sheriff’s Office recently referred the case to the Colorado Bureau of Investigation after his \[…\]</source:markdown>
-      <guid>cid://https://lithub.com/?p=260588</guid>
-    </item>    <item>
-      <link>https://chicago.suntimes.com/immigration/2025/10/01/massive-immigration-raid-on-chicago-apartment-building-leaves-residents-reeling-i-feel-defeated</link>
-      <description>
-        <![CDATA[<p>Massive immigration raid on Chicago apartment building leaves residents reeling: 'I feel defeated.'</p>]]>
-      </description>
-      <source:markdown>Massive immigration raid on Chicago apartment building leaves residents reeling: &#39;I feel defeated.&#39;</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/02/1311/</guid>
-    </item>    <item>
-      <title>An Autocracy of Dunces</title>
-      <link>https://paulkrugman.substack.com/p/an-autocracy-of-dunces</link>
-      <description>
-        <![CDATA[How stone-faced generals, Wall Street pushback, and a government shutdown may save America&#8217;s quickly declining democracy]]>
-      </description>
-      <source:markdown>How stone-faced generals, Wall Street pushback, and a government shutdown may save America’s quickly declining democracy</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!V0BI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29da6cd6-efa2-47e4-98cd-09ec5b0d7aaa_1200x675.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/an-autocracy-of-dunces</guid>
-    </item>    <item>
-      <title>Lit Hub Daily: October 2, 2025</title>
-      <link>https://lithub.com/lit-hub-daily-october-2-2025/</link>
-      <description>
-        <![CDATA[Emma Straub talks to Lily King about campus novels, time jumps, and her new book, Heart the Lover. &#124; Lit Hub In Conversation “It’s in trying to reach beyond our limited selves that we are, I believe, most human.” Ilana Masad on the importance of research in navigating the fact and fiction of alien abduction [&#8230;]]]>
-      </description>
-      <source:markdown>Emma Straub talks to Lily King about campus novels, time jumps, and her new book, Heart the Lover. \| Lit Hub In Conversation “It’s in trying to reach beyond our limited selves that we are, I believe, most human.” Ilana Masad on the importance of research in navigating the fact and fiction of alien abduction \[…\]</source:markdown>
-      <guid>cid://https://lithub.com/?p=260541</guid>
-    </item>    <item>
-      <title>Am I the Asshole For Being Sick to Death of All the Mediocre Speculative Fiction Out There?</title>
-      <link>https://lithub.com/am-i-the-asshole-for-being-sick-to-death-of-all-the-mediocre-speculative-fiction-out-there/</link>
-      <description>
-        <![CDATA[Hello there, dear friends! It’s once again time for Am I the Literary Asshole?, the advice column that’s kind of like your drunk uncle at a wedding who keeps forgetting that he already asked you three different times how school’s going. I’m your host, Kristen Arnett, and I finally finished moving into a new house. [&#8230;]]]>
-      </description>
-      <source:markdown>Hello there, dear friends! It’s once again time for Am I the Literary Asshole?, the advice column that’s kind of like your drunk uncle at a wedding who keeps forgetting that he already asked you three different times how school’s going. I’m your host, Kristen Arnett, and I finally finished moving into a new house. \[…\]</source:markdown>
-      <guid>cid://https://lithub.com/?p=260553</guid>
-    </item>    <item>
-      <title>Inside China’s New Wave of Conceptually Innovative Bookstores</title>
-      <link>https://lithub.com/inside-chinas-new-wave-of-conceptually-innovative-bookstores/</link>
-      <description>
-        <![CDATA[Prior to 2020, the city of Hong Kong had over one hundred bookstores, including several major chains. But the national security law passed on the heels of large demonstrations and the COVID-19 pandemic got the better of most booksellers. The same phenomenon hit the city-state of Singapore, where the book trade has distinctly declined despite [&#8230;]]]>
-      </description>
-      <source:markdown>Prior to 2020, the city of Hong Kong had over one hundred bookstores, including several major chains. But the national security law passed on the heels of large demonstrations and the COVID-19 pandemic got the better of most booksellers. The same phenomenon hit the city-state of Singapore, where the book trade has distinctly declined despite \[…\]</source:markdown>
-      <guid>cid://https://lithub.com/?p=260182</guid>
-    </item>    <item>
-      <title>5 Book Reviews You Need to Read This Week</title>
-      <link>https://lithub.com/5-book-reviews-you-need-to-read-this-week-10-2-2025/</link>
-      <description>
-        <![CDATA[Our bindle of brilliant reviews this week includes Christian Lorentzen on Thomas Pynchon’s Shadow Ticket, Grace Byron on Eliezer Yudkowsky and Nate Soares’s If Anyone Builds It, Everyone Dies, Jeet Heer on Kamala Harris’s 107 Days, Hermione Hoby on Amie Barrodale’s Trip, and Mary Turfah on Sabri Jiryis’s The Foundations of Zionism. Brought to you [&#8230;]]]>
-      </description>
-      <source:markdown>Our bindle of brilliant reviews this week includes Christian Lorentzen on Thomas Pynchon’s Shadow Ticket, Grace Byron on Eliezer Yudkowsky and Nate Soares’s If Anyone Builds It, Everyone Dies, Jeet Heer on Kamala Harris’s 107 Days, Hermione Hoby on Amie Barrodale’s Trip, and Mary Turfah on Sabri Jiryis’s The Foundations of Zionism. Brought to you \[…\]</source:markdown>
-      <guid>cid://https://lithub.com/?p=260558</guid>
-    </item>    <item>
-      <title>Lily King on Campus Novels, Time Jumps, and Having Fun While Writing</title>
-      <link>https://lithub.com/lily-king-on-campus-novels-time-jumps-and-having-fun-while-writing/</link>
-      <description>
-        <![CDATA[Writer and Books Are Magic bookstore owner Emma Straub spoke with Lily King about her new book, Heart the Lover (out now with Grove), smart characters, time jumps, and the utterly exhilarating process of finishing a novel. * Emma Straub: I loved this book Heart the Lover so much. I was describing the book to [&#8230;]]]>
-      </description>
-      <source:markdown>Writer and Books Are Magic bookstore owner Emma Straub spoke with Lily King about her new book, Heart the Lover (out now with Grove), smart characters, time jumps, and the utterly exhilarating process of finishing a novel. \* Emma Straub: I loved this book Heart the Lover so much. I was describing the book to \[…\]</source:markdown>
-      <guid>cid://https://lithub.com/?p=260104</guid>
-    </item>    <item>
-      <title>A View with a Room: How Poetry Can Save the Human Brain</title>
-      <link>https://lithub.com/a-view-with-a-room-how-poetry-can-save-the-human-brain/</link>
-      <description>
-        <![CDATA[I can’t write. It’s been over a year since I wrote a poem or anything at all, really, and this is not normal for me; I am always always writing. I’ve written my way through the hardest parts of my adult life. In fact, worry and lack of time have historically induced me to write [&#8230;]]]>
-      </description>
-      <source:markdown>I can’t write. It’s been over a year since I wrote a poem or anything at all, really, and this is not normal for me; I am always always writing. I’ve written my way through the hardest parts of my adult life. In fact, worry and lack of time have historically induced me to write \[…\]</source:markdown>
-      <guid>cid://https://lithub.com/?p=260226</guid>
-    </item>    <item>
-      <title>The Annotated Nightstand: What Anton Hur Is Reading Now, and Next</title>
-      <link>https://lithub.com/the-annotated-nightstand-what-anton-hur-is-reading-now-and-next/</link>
-      <description>
-        <![CDATA[Considering the spooky time of year has begun (which Drew Broussard and I spoke about here at the Lit Hub Podcast!), Bora Chung’s Midnight Timetable feels apt as a book to kick off the season. Anton Hur, Chung’s translator and an author in his own right of the July title Toward Eternity, is our guest [&#8230;]]]>
-      </description>
-      <source:markdown>Considering the spooky time of year has begun (which Drew Broussard and I spoke about here at the Lit Hub Podcast!), Bora Chung’s Midnight Timetable feels apt as a book to kick off the season. Anton Hur, Chung’s translator and an author in his own right of the July title Toward Eternity, is our guest \[…\]</source:markdown>
-      <guid>cid://https://lithub.com/?p=260229</guid>
-    </item>    <item>
-      <title>Funeral For a Postponed Death: On Burying Argentina’s Disappeared</title>
-      <link>https://lithub.com/funeral-for-a-postponed-death-on-burying-argentinas-disappeared/</link>
-      <description>
-        <![CDATA[Translation by Megan McDowell In the middle of August 2011, I received an email from my colleague and friend Marta Dillon. It was an invitation to the burial of Marta Taboada, her mother, who had been disappeared. The message—it wasn’t sent to me exclusively, of course; it was an open invitation—said: Friends, comrades: There are [&#8230;]]]>
-      </description>
-      <source:markdown>Translation by Megan McDowell In the middle of August 2011, I received an email from my colleague and friend Marta Dillon. It was an invitation to the burial of Marta Taboada, her mother, who had been disappeared. The message—it wasn’t sent to me exclusively, of course; it was an open invitation—said: Friends, comrades: There are \[…\]</source:markdown>
-      <guid>cid://https://lithub.com/?p=260235</guid>
-    </item>    <item>
-      <title>Re(se)a(r)ching For Connection: Navigating the Fact and Fiction of Alien Abduction Stories</title>
-      <link>https://lithub.com/researching-for-connection-navigating-the-fact-and-fiction-of-alien-abduction-stories/</link>
-      <description>
-        <![CDATA[Five years ago, my partner gave me an incredible birthday present—a digital folder full of scanned documents.  Sound boring? It was anything but. The files came from the University of New Hampshire, which houses the archives of Barney and Betty Hill, the people widely considered to be the first alien abductees and from whose experience [&#8230;]]]>
-      </description>
-      <source:markdown>Five years ago, my partner gave me an incredible birthday present—a digital folder full of scanned documents.  Sound boring? It was anything but. The files came from the University of New Hampshire, which houses the archives of Barney and Betty Hill, the people widely considered to be the first alien abductees and from whose experience \[…\]</source:markdown>
-      <guid>cid://https://lithub.com/?p=260179</guid>
-    </item>    <item>
-      <title>Trixie — the new version of Raspberry Pi OS</title>
-      <link>https://www.raspberrypi.com/news/trixie-the-new-version-of-raspberry-pi-os/</link>
-      <description>
-        <![CDATA[<p>New Raspberry Pi OS Trixie has an updated desktop theme, a new Control Centre application, easier customisation possibilities, and more.</p>
-        <p>The post <a href="https://www.raspberrypi.com/news/trixie-the-new-version-of-raspberry-pi-os/">Trixie — the new version of Raspberry Pi OS</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
-      </description>
-      <source:markdown>New Raspberry Pi OS Trixie has an updated desktop theme, a new Control Centre application, easier customisation possibilities, and more.
-
-The post [Trixie — the new version of Raspberry Pi OS](https://www.raspberrypi.com/news/trixie-the-new-version-of-raspberry-pi-os/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
-      <guid>cid://https://www.raspberrypi.com/?p=129344</guid>
-    </item>    <item>
-      <title>I’ve been through government shutdowns. This one is radically different.</title>
-      <link>https://robertreich.substack.com/p/this-shutdown-is-different</link>
-      <description>
-        <![CDATA[Here&#8217;s what&#8217;s at stake, and why Dems must hold the line.]]>
-      </description>
-      <source:markdown>Here’s what’s at stake, and why Dems must hold the line.</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/c0e4d11e-14c6-454c-8d46-c3afcb75c2a1_2100x1103.png" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/this-shutdown-is-different</guid>
-    </item>    <item>
-      <link>https://www.washingtonpost.com/business/2025/10/01/spend-save-money-jonathan-clements-death/?utm_campaign=wp_main&#38;utm_source=bluesky&#38;utm_medium=social</link>
-      <description>
-        <![CDATA[<p>If you only had a year left to live, would you still save your money?</p>]]>
-      </description>
-      <source:markdown>If you only had a year left to live, would you still save your money?</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/02/1309/</guid>
-    </item>    <item>
-      <title>October 1, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/october-1-2025</link>
-      <description>
-        <![CDATA[Last night, as the government barreled toward a shutdown, President Donald J.]]>
-      </description>
-      <source:markdown>Last night, as the government barreled toward a shutdown, President Donald J.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/october-1-2025</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m26cjqzst22i</link>
-      <description>
-        <![CDATA[Something to think on, https://www.theguardian.com/news/2025/sep/30/tonga-pacific-island-internet-underwater-cables-volcanic-eruption]]>
-      </description>
-      <source:markdown>Something to think on, https://www.theguardian.com/news/2025/sep/30/tonga-pacific-island-internet-underwater-cables-volcanic-eruption</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m26cjqzst22i</guid>
     </item>
   </channel>
 </rss>
