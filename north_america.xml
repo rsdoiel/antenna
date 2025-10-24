@@ -4,11 +4,20 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>24 Oct 25 06:11 -0700</lastBuildDate>
+    <lastBuildDate>24 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Inflation rose less than expected in September, the U.S. belatedly reports</title>
+      <title>Getting down to the nuts and bolts of the trade war</title>
+      <link>https://www.marketplace.org/episode/2025/10/24/getting-down-to-the-nuts-and-bolts-of-the-trade-war</link>
+      <description>
+        <![CDATA[<p>Small businesses are feeling the squeeze as tariffs and material costs climb. Rob Lehmann is the founder of Fair Wind Fasteners, a supplier of nuts, bolts, and screws. He explains how fluctuating import costs and trade policies are reshaping his operations. From sourcing metal to keeping prices steady for customers, we hear a firsthand view of what it takes to stay afloat in a volatile economy. Plus: President Trump said he is ending trade negotiations with Canada pardoned the founder of the Binance cryptocurrency exchange.</p>]]>
+      </description>
+      <source:markdown>Small businesses are feeling the squeeze as tariffs and material costs climb. Rob Lehmann is the founder of Fair Wind Fasteners, a supplier of nuts, bolts, and screws. He explains how fluctuating import costs and trade policies are reshaping his operations. From sourcing metal to keeping prices steady for customers, we hear a firsthand view of what it takes to stay afloat in a volatile economy. Plus: President Trump said he is ending trade negotiations with Canada pardoned the founder of the Binance cryptocurrency exchange.</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/10/24/mmr_20251024_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K8BAFCMGGBCN0NTAQYKPDMYH" length="3321361" type="audio/mpeg" />
+      <guid>cid://01K8BAFCMGGBCN0NTAQYKPDMYH</guid>
+    </item>    <item>
+      <title>Inflation ticked up 3% in September, the U.S. belatedly reports</title>
       <link>https://www.npr.org/2025/10/24/nx-s1-5584959/inflation-september-shutdown-social-security</link>
       <description>
         <![CDATA[The federal government recalled some furloughed workers specifically to produce the inflation report, which plays a key role for Social Security beneficiaries.]]>
@@ -50,6 +59,22 @@
       </description>
       <source:markdown>Sales of non-chocolate candy are growing faster than those of chocolate. With cocoa in shortage, manufacturers are changing pack sizes, adding fillers and dipping candy in &#34;white creme.&#34;</source:markdown>
       <guid>cid://https://www.npr.org/2025/10/24/nx-s1-5582259/halloween-candy-prices-chocolate-cacao</guid>
+    </item>    <item>
+      <title>Tessa Thompson Shines As a New Hedda</title>
+      <link>https://www.pastemagazine.com/movies/nia-dacosta/hedda-review-2025-tessa-thompson-nia-dacosta</link>
+      <description>
+        <![CDATA[Nia DaCosta's adaptation of Hedda Gabler has a powerhouse star, confident direction, and maybe a smidge of compromise with its source.]]>
+      </description>
+      <source:markdown>Nia DaCosta&#39;s adaptation of Hedda Gabler has a powerhouse star, confident direction, and maybe a smidge of compromise with its source.</source:markdown>
+      <guid>cid://19dfc3fa-7a16-4ea8-ba1c-5e4f21aaba9d-410743</guid>
+    </item>    <item>
+      <title>Cameron Crowe: To Begin With… Everything</title>
+      <link>https://www.pastemagazine.com/music/cameron-crowe/cameron-crowe-to-begin-with-everything</link>
+      <description>
+        <![CDATA[The profiler gets profiled. <em>Paste</em> sat down with the former <em>Rolling Stone</em> writer and <em>Almost Famous</em> filmmaker for a long talk.]]>
+      </description>
+      <source:markdown>The profiler gets profiled. _Paste_ sat down with the former _Rolling Stone_ writer and _Almost Famous_ filmmaker for a long talk.</source:markdown>
+      <guid>cid://19dfc3fa-7a16-4ea8-ba1c-5e4f21aaba9d-410748</guid>
     </item>    <item>
       <title>Cost of Living: Frightening Halloween candy costs</title>
       <link>https://www.npr.org/2025/10/24/nx-s1-5562028/cost-of-living-frightening-halloween-candy-costs</link>

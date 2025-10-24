@@ -4,10 +4,26 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>24 Oct 25 06:11 -0700</lastBuildDate>
+    <lastBuildDate>24 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Hardware discounts from R-Comp at the London Show</title>
+      <link>https://www.riscository.com/2025/rcomp-hardware-discounts-london-show/</link>
+      <description>
+        <![CDATA[With the clock counting down rapidly until I can get to the pub the doors open for tomorrow&#8217;s London Show, another announcement has arrived from R-Comp: Stop Press &#8211; We&#8217;ll be knocking 20ukp off all hardware items (over 50ukp) at the show. You don&#8217;t need to quote any adverts or phrases or claim anything special. Just money off for everyone 🙂 At the recent Show Preview user group meeting, Andrew Rawnsley of RCI demonstrated some new hardware items that had been proving popular this summer, and will be available at&#8230;]]>
+      </description>
+      <source:markdown>With the clock counting down rapidly until I can get to the pub the doors open for tomorrow’s London Show, another announcement has arrived from R-Comp: Stop Press – We’ll be knocking 20ukp off all hardware items (over 50ukp) at the show. You don’t need to quote any adverts or phrases or claim anything special. Just money off for everyone 🙂 At the recent Show Preview user group meeting, Andrew Rawnsley of RCI demonstrated some new hardware items that had been proving popular this summer, and will be available at…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10783</guid>
+    </item>    <item>
+      <title>This Week on The Analog Antiquarian</title>
+      <link>https://www.filfre.net/2025/10/this-week-on-the-analog-antiquarian/</link>
+      <description>
+        <![CDATA[Chapter 6: The Problem Child]]>
+      </description>
+      <source:markdown>Chapter 6: The Problem Child</source:markdown>
+      <guid>cid://https://www.filfre.net/?p=6532</guid>
+    </item>    <item>
       <title>Chris Hall’s last minute London Show offers</title>
       <link>https://www.riscository.com/2025/chris-hall-london-show-offers/</link>
       <description>
@@ -1999,14 +2015,6 @@ Image: Chart of common power sources with their power ratings and the resistance
       </description>
       <source:markdown>What?!?, Toilet check!, Saturday work, AI songs?, Self-perception.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20251011</guid>
-    </item>    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2025/10/this-week-on-the-analog-antiquarian/</link>
-      <description>
-        <![CDATA[Chapter 5: The New Star]]>
-      </description>
-      <source:markdown>Chapter 5: The New Star</source:markdown>
-      <guid>cid://https://www.filfre.net/?p=6526</guid>
     </item>    <item>
       <title>FDNPKG16 version 0.99.8244</title>
       <link>https://sourceforge.net/p/freedos/news/2025/10/fdnpkg16-version-0998244/</link>

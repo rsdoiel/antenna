@@ -7,10 +7,58 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>24 Oct 25 06:11 -0700</lastBuildDate>
+    <lastBuildDate>24 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>A horror film director and his son designed a Halloween maze in an actual haunted house</title>
+      <link>https://laist.com/news/los-angeles-activities/horror-film-director-designs-halloween-maze-in-haunted-house</link>
+      <description>
+        <![CDATA[For Friday and Saturday only, a Halloween haunt returns to the historic Shadow Ranch House in West Hills for the first time in 40 years.]]>
+      </description>
+      <source:markdown>For Friday and Saturday only, a Halloween haunt returns to the historic Shadow Ranch House in West Hills for the first time in 40 years.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-168e-d84d-affa-deeea4fd0000</guid>
+    </item>    <item>
+      <title>Department of Justice says it will monitor election sites in LA and OC</title>
+      <link>https://laist.com/news/politics/department-of-justice-says-it-will-monitor-election-sites-in-la-and-oc</link>
+      <description>
+        <![CDATA[The announcement on Friday comes a day before vote centers are set to open for polling across California.]]>
+      </description>
+      <source:markdown>The announcement on Friday comes a day before vote centers are set to open for polling across California.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-1732-d7ad-afff-9ff7a7c50000</guid>
+    </item>    <item>
+      <title>Are you ready for Día de los Muertos? Here’s where to buy flowers in LA</title>
+      <link>https://laist.com/news/los-angeles-activities/are-you-ready-for-dia-de-los-muertos-heres-where-to-buy-flowers-in-la</link>
+      <description>
+        <![CDATA[Marigolds can be found across L.A. ahead of the annual celebration. LAist gathered a list to help you find them.]]>
+      </description>
+      <source:markdown>Marigolds can be found across L.A. ahead of the annual celebration. LAist gathered a list to help you find them.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-1369-d84d-affa-dfebde660000</guid>
+    </item>    <item>
+      <title>California gives Planned Parenthood $140 million boost to keep clinics open</title>
+      <link>https://laist.com/news/health/california-gives-planned-parenthood-140-million-boost-to-keep-clinics-open</link>
+      <description>
+        <![CDATA[An injection of public funding is good for primary care clinics. But with more financial troubles looming, some lawmakers say more support is necessary to protect reproductive health services.]]>
+      </description>
+      <source:markdown>An injection of public funding is good for primary care clinics. But with more financial troubles looming, some lawmakers say more support is necessary to protect reproductive health services.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-16ec-d84d-affa-deeea5480000</guid>
+    </item>    <item>
+      <title>&#39;A slap in the face&#39;: Ranchers feel betrayed by Trump&#39;s plan to buy Argentine beef</title>
+      <link>https://laist.com/news/a-slap-in-the-face-ranchers-feel-betrayed-by-trumps-plan-to-buy-argentine-beef</link>
+      <description>
+        <![CDATA[Over the past few days, cattle ranchers and agricultural groups have been sounding the alarm that a plan to import more foreign beef would hurt struggling ranchers.]]>
+      </description>
+      <source:markdown>Over the past few days, cattle ranchers and agricultural groups have been sounding the alarm that a plan to import more foreign beef would hurt struggling ranchers.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-16c2-d493-a9fa-57d7fede0000</guid>
+    </item>    <item>
+      <title>Trump says he&#39;s ending trade talks with Canada over TV ads</title>
+      <link>https://laist.com/news/trump-says-hes-ending-trade-talks-with-canada-over-tv-ads</link>
+      <description>
+        <![CDATA[The abrupt announcement comes after Trump accused Canada of using a "fake" Ronald Reagan ad to sway U.S. courts, raising the stakes in an already tense trade dispute.]]>
+      </description>
+      <source:markdown>The abrupt announcement comes after Trump accused Canada of using a &#34;fake&#34; Ronald Reagan ad to sway U.S. courts, raising the stakes in an already tense trade dispute.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-16be-d6de-afbf-b6fec8170000</guid>
+    </item>    <item>
       <title>How one Altadena woman re-opened her childcare business nearly 10 months after the fires</title>
       <link>https://laist.com/news/altadena-childcare-business-eaton-fire-recovery</link>
       <description>
@@ -18,6 +66,14 @@
       </description>
       <source:markdown>Felisa Wright lost her home and her livelihood in the Eaton Fire. She didn&#39;t stop fighting to return.</source:markdown>
       <guid>cid://urn:uuid:0000019a-1347-d6de-afbf-b3ef4e630000</guid>
+    </item>    <item>
+      <title>She fell victim to a green card scam years ago. Now, an Altadena mom awaits her fate in an ICE detention center</title>
+      <link>https://laist.com/news/green-card-scam-altadena-woman-ice-detention-center-immigration</link>
+      <description>
+        <![CDATA[A Bengali immigrant who was displaced by the Eaton Fire now could be deported after falling victim to a green card scam years ago.]]>
+      </description>
+      <source:markdown>A Bengali immigrant who was displaced by the Eaton Fire now could be deported after falling victim to a green card scam years ago.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-122d-d6de-afbf-b2efe8ab0000</guid>
     </item>    <item>
       <title>A stretch of the Crenshaw Corridor has fast, reliable Wi-Fi for the first time — and it&#39;s free</title>
       <link>https://laist.com/news/crenshaw-corridor-fast-reliable-wifi-free-community-connectivity-pilot</link>
@@ -35,13 +91,13 @@
       <source:markdown>A pioneer of counterculture comic book art, R. Crumb created Zap Comix, which included iconic strips like “Fritz the Cat” and “Keep on Truckin’.” His work has attracted both a cult following and also some ire. Crumb’s first solo work in decades is now on display in L.A.</source:markdown>
       <guid>cid://urn:uuid:0000019a-125f-d84d-affa-deff66c70000</guid>
     </item>    <item>
-      <title>She fell victim to a green card scam years ago. Now, an Altadena mom awaits her fate in an ICE detention center</title>
-      <link>https://laist.com/news/green-card-scam-altadena-woman-ice-detention-center-immigration</link>
+      <title>Welcome, Blue Jays fans! Here’s a handy LA food and drink guide for the World Series</title>
+      <link>https://laist.com/news/los-angeles-activities/welcome-blue-jays-fans-heres-a-handy-la-food-and-drink-guide-for-the-world-series</link>
       <description>
-        <![CDATA[A Bengali immigrant who was displaced by the Eaton Fire now could be deported after falling victim to a green card scam years ago.]]>
+        <![CDATA[Off the field, we’re here for you.]]>
       </description>
-      <source:markdown>A Bengali immigrant who was displaced by the Eaton Fire now could be deported after falling victim to a green card scam years ago.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-122d-d6de-afbf-b2efe8ab0000</guid>
+      <source:markdown>Off the field, we’re here for you.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-0d46-d84d-affa-cfee0b190000</guid>
     </item>    <item>
       <title>LA food bank braces for surge as CalFresh benefits set to lapse</title>
       <link>https://laist.com/news/la-food-bank-braces-for-surge-as-calfresh-benefits-set-to-lapse</link>
@@ -50,14 +106,6 @@
       </description>
       <source:markdown>The Los Angeles Regional Food Bank says it’s treating the prolonged government shutdown as it would a “natural disaster” and purchasing extra food to prepare for an increase in demand.</source:markdown>
       <guid>cid://urn:uuid:0000019a-0e27-d6de-afbf-beef428f0000</guid>
-    </item>    <item>
-      <title>Welcome, Blue Jays fans! Here’s a handy LA food and drink guide for the World Series</title>
-      <link>https://laist.com/news/los-angeles-activities/welcome-blue-jays-fans-heres-a-handy-la-food-and-drink-guide-for-the-world-series</link>
-      <description>
-        <![CDATA[Off the field, we’re here for you.]]>
-      </description>
-      <source:markdown>Off the field, we’re here for you.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-0d46-d84d-affa-cfee0b190000</guid>
     </item>    <item>
       <title>Want to skip the chain lattes? Try these fall drinks from Eastside cafes instead</title>
       <link>https://laist.com/news/food/try-these-fall-drinks-from-eastside-la-cafes</link>
