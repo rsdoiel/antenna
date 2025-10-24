@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>24 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>24 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,110 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://apnews.com/article/canada-trump-tariffs-reagan-tariffs-e0e6a8f1fa49f00c9e8d08df405ee299</link>
+      <description>
+        <![CDATA[<p>Ontario premier says he'll pull ad that upset Trump.</p>]]>
+      </description>
+      <source:markdown>Ontario premier says he&#39;ll pull ad that upset Trump.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/24/1653/</guid>
+    </item>    <item>
+      <title>Meta Announces Ban on Rival AI Chatbots From WhatsApp</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/meta-will-ban-rival-ai-chatbots-from-whatsapp</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42310</guid>
+    </item>    <item>
+      <title>Friday Squid Blogging: “El Pulpo The Squid”</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-el-pulpo-the-squid.html</link>
+      <description>
+        <![CDATA[<p>There is a <a href="https://halfwheel.com/el-pulpo-the-squid/455265/">new cigar</a> named &#8220;<i>El Pulpo</i> The Squid.&#8221; Yes, that means &#8220;The Octopus The Squid.&#8221;</p>
+        <p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>
+        <p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>]]>
+      </description>
+      <source:markdown>There is a [new cigar](https://halfwheel.com/el-pulpo-the-squid/455265/) named “ _El Pulpo_ The Squid.” Yes, that means “The Octopus The Squid.”
+
+As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.
+
+[Blog moderation policy.](https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html)</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=71067</guid>
+    </item>    <item>
+      <title>A Gatecrashing Bear</title>
+      <link>https://onefoottsunami.com/2025/10/24/a-gatecrashing-bear/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29334</guid>
+    </item>    <item>
+      <link>https://gizmodo.com/white-house-blocked-on-bluesky-2000674092</link>
+      <description>
+        <![CDATA[<p>White House Invades Bluesky to Troll, Predictably Gets Mass Blocked.</p>]]>
+      </description>
+      <source:markdown>White House Invades Bluesky to Troll, Predictably Gets Mass Blocked.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/24/1651/</guid>
+    </item>    <item>
+      <title>Trump&#39;s illegal executions</title>
+      <link>https://robertreich.substack.com/p/trumps-illegal-executions</link>
+      <description>
+        <![CDATA[You or I could be next]]>
+      </description>
+      <source:markdown>You or I could be next</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!qyFU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6088a14a-4811-4ed6-90b1-1f2f5ec8bc9e_3432x3499.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/trumps-illegal-executions</guid>
+    </item>    <item>
+      <title>AI Dataset for Detecting Nudity Contained Child Sexual Abuse Images</title>
+      <link>https://www.404media.co/ai-dataset-for-detecting-nudity-contained-child-sexual-abuse-images/</link>
+      <description>
+        <![CDATA[The Canadian Centre for Child Protection  found more than 120 images of identified or known victims of CSAM in the dataset.]]>
+      </description>
+      <source:markdown>The Canadian Centre for Child Protection found more than 120 images of identified or known victims of CSAM in the dataset.</source:markdown>
+      <guid>cid://68fbdc9adbf2dc000117ff70</guid>
+    </item>    <item>
+      <title>This week’s news in Venn diagrams.</title>
+      <link>https://lithub.com/this-weeks-news-in-venn-diagrams-oct-24/</link>
+      <description>
+        <![CDATA[One week before Halloween folks, so it&#8217;s getting to be crunch time for sorting out your costume. I tend to default to wearing a ye-olden-tymes powdered wig and my old rocker vest and going as &#8220;Old School Punk,&#8221; but I&#8217;ve]]>
+      </description>
+      <source:markdown>One week before Halloween folks, so it’s getting to be crunch time for sorting out your costume. I tend to default to wearing a ye-olden-tymes powdered wig and my old rocker vest and going as “Old School Punk,” but I’ve</source:markdown>
+      <guid>cid://https://lithub.com/?p=261728</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m3xlg7dve22v</link>
+      <description>
+        <![CDATA[That's a cool looking RISC OS box.
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>That&#39;s a cool looking RISC OS box.
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m3xlg7dve22v</guid>
+    </item>    <item>
+      <title>Sky Acquired by OpenAI</title>
+      <link>https://mjtsai.com/blog/2025/10/24/sky-acquired-by-openai/</link>
+      <description>
+        <![CDATA[OpenAI (Hacker News): We will bring Sky&#8217;s deep macOS integration and product craft into ChatGPT, and all members of the team will join OpenAI. John Voorhees: I&#8217;m not surprised by this development at all. OpenAI, Anthropic, and Perplexity have all been developing features similar to what Sky could do for a while now. In addition, [&#8230;]]]>
+      </description>
+      <source:markdown>OpenAI (Hacker News): We will bring Sky’s deep macOS integration and product craft into ChatGPT, and all members of the team will join OpenAI. John Voorhees: I’m not surprised by this development at all. OpenAI, Anthropic, and Perplexity have all been developing features similar to what Sky could do for a while now. In addition, \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49775</guid>
+    </item>    <item>
+      <title>Europe vs. App Tracking Transparency</title>
+      <link>https://mjtsai.com/blog/2025/10/24/europe-vs-app-tracking-transparency/</link>
+      <description>
+        <![CDATA[Marcus Mendes: In its statement issued earlier this week to the German Press Agency, Apple said the following:&#8220;Intense lobbying efforts in Germany, Italy and other countries in Europe may force us to withdraw this feature to the detriment of European consumers. (&#8230;) We will continue to urge the relevant authorities in Germany, Italy and across [&#8230;]]]>
+      </description>
+      <source:markdown>Marcus Mendes: In its statement issued earlier this week to the German Press Agency, Apple said the following:“Intense lobbying efforts in Germany, Italy and other countries in Europe may force us to withdraw this feature to the detriment of European consumers. (…) We will continue to urge the relevant authorities in Germany, Italy and across \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49773</guid>
+    </item>    <item>
+      <title>What Happened to Apple’s Legendary Attention to Detail?</title>
+      <link>https://mjtsai.com/blog/2025/10/24/what-happened-to-apples-legendary-attention-to-detail/</link>
+      <description>
+        <![CDATA[John Ozbay (Hacker News): In my mind, &#8220;Apple&#8221; as a brand used to be synonymous with &#8220;attention to detail&#8221; but sadly, over the course of the last 8 - 10 years, their choices have become anything but detail oriented.[&#8230;]If you are privacy conscious like me, and don&#8217;t give the Reminders app permission to access your [&#8230;]]]>
+      </description>
+      <source:markdown>John Ozbay (Hacker News): In my mind, “Apple” as a brand used to be synonymous with “attention to detail” but sadly, over the course of the last 8 - 10 years, their choices have become anything but detail oriented.\[…\]If you are privacy conscious like me, and don’t give the Reminders app permission to access your \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49771</guid>
+    </item>    <item>
+      <title>Excel for iOS Borked</title>
+      <link>https://mjtsai.com/blog/2025/10/24/excel-for-ios-borked/</link>
+      <description>
+        <![CDATA[Thomas Claburn: Microsoft Excel for the past week has been hanging or crashing on iOS and iPadOS devices, to customers&#8217; great annoyance.The problems appear to have begun following the release of Excel version 2.102.1 for iOS and iPadOS on October 13, 2025. The release added support for Apple&#8217;s Liquid Glass design, which debuted with the [&#8230;]]]>
+      </description>
+      <source:markdown>Thomas Claburn: Microsoft Excel for the past week has been hanging or crashing on iOS and iPadOS devices, to customers’ great annoyance.The problems appear to have begun following the release of Excel version 2.102.1 for iOS and iPadOS on October 13, 2025. The release added support for Apple’s Liquid Glass design, which debuted with the \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49769</guid>
     </item>    <item>
       <title>a16z-Backed Startup Sells Thousands of ‘Synthetic Influencers’ to Manipulate Social Media as a Service</title>
       <link>https://www.404media.co/a16z-backed-startup-sells-thousands-of-synthetic-influencers-to-manipulate-social-media-as-a-service/</link>
@@ -363,6 +467,10 @@ This comes as an awkward time, as Sanborn is [auctioning off](https://www.schnei
       </description>
       <source:markdown>Developers shouldn&#39;t have to be data landlords.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/23/1643/</guid>
+    </item>    <item>
+      <title>Founders Over Funders. Inventors Over Investors.</title>
+      <link>https://anildash.com/2025/10/24/founders-over-funders/</link>
+      <guid>cid://https://anildash.com/2025/10/24/founders-over-funders/</guid>
     </item>    <item>
       <title>Friday 24 October, 2025</title>
       <link>https://memex.naughtons.org/friday-24-october-2025/41316/</link>

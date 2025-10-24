@@ -4,10 +4,70 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>24 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>24 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Upcoming Kwin changes extend battery life</title>
+      <link>https://www.osnews.com/story/143629/upcoming-kwin-changes-extend-battery-life/</link>
+      <description>
+        <![CDATA[I think most of us are aware that compositors use multiple planes to render our user interfaces, and in the case of KDE&#8217;s Kwin specifically, they use two planes &#8211; one for the user interface, and one specifically for the mouse cursor. Kwin developer Xaver Hugl has been working on changing Kwin to use more than just two planes, and it turns out this delivers some considerable power use reductions and thus battery life improvements. So, when can you use these changes and test them? Due to various driver issues when trying to use overlays, like slow atomic tests on AMD as well as display freezes on some AMD and NVidia GPUs, this feature is still off by default. However, if you want to experiment anyways or attempt to fix the drivers, starting from Plasma 6.5, you can set the KWIN_USE_OVERLAYS environment variable to enable the feature anyways. If you test it, please report your findings! If there’s problems in the drivers, we’d like to know and have bug reports for the GPU vendors of course, but also if things work well that would be nice to hear. ↫ Xaver Hugl Leave it to Linux graphics-related developers to uncover driver bugs in graphics drivers.]]>
+      </description>
+      <source:markdown>I think most of us are aware that compositors use multiple planes to render our user interfaces, and in the case of KDE’s Kwin specifically, they use two planes – one for the user interface, and one specifically for the mouse cursor. Kwin developer Xaver Hugl has been working on changing Kwin to use more than just two planes, and it turns out this delivers some considerable power use reductions and thus battery life improvements. So, when can you use these changes and test them? Due to various driver issues when trying to use overlays, like slow atomic tests on AMD as well as display freezes on some AMD and NVidia GPUs, this feature is still off by default. However, if you want to experiment anyways or attempt to fix the drivers, starting from Plasma 6.5, you can set the KWIN\_USE\_OVERLAYS environment variable to enable the feature anyways. If you test it, please report your findings! If there’s problems in the drivers, we’d like to know and have bug reports for the GPU vendors of course, but also if things work well that would be nice to hear. ↫ Xaver Hugl Leave it to Linux graphics-related developers to uncover driver bugs in graphics drivers.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143629</guid>
+    </item>    <item>
+      <title>High-stakes poker scam used rigged card shufflers, X-ray tables, and special glasses</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/24/mafia_and_nba_celebs_arrested/</link>
+      <description>
+        <![CDATA[<h4>31 alleged poker schemers nabbed alongside arrest of separate sports betting ring</h4> <p>The feds on Thursday charged alleged mafia associates and current and former National Basketball Association players and coaches with running rigged poker games and illegal sports betting.…</p>]]>
+      </description>
+      <source:markdown>#### 31 alleged poker schemers nabbed alongside arrest of separate sports betting ring
+
+The feds on Thursday charged alleged mafia associates and current and former National Basketball Association players and coaches with running rigged poker games and illegal sports betting.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242662</guid>
+    </item>    <item>
+      <title>Take a Virtual Tour of This Lavish Dollhouse, the Centerpiece of a New Exhibition on Everyday Life in the 17th Century</title>
+      <link>https://www.smithsonianmag.com/smart-news/take-a-virtual-tour-of-this-lavish-dollhouse-the-centerpiece-of-a-new-exhibition-on-everyday-life-in-the-17th-century-180987562/</link>
+      <description>
+        <![CDATA[Helena Bonham Carter provides an English-language tour of the Rijksmuseum's miniature masterpiece, which stands at about six and a half feet tall]]>
+      </description>
+      <source:markdown>Helena Bonham Carter provides an English-language tour of the Rijksmuseum&#39;s miniature masterpiece, which stands at about six and a half feet tall</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/HD_0XrD9HZp2VJOOfepNP2yMmJU=/420x240/filters:focal(960x731:961x732)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0d/57/0d572ad0-dfd9-4699-990e-5cf6b7476820/bk-nm-1010_kopie.jpg" length="" type="" />
+    </item>    <item>
+      <title>Slow-Motion Videos Reveal What Really Happens When Snakes Bite</title>
+      <link>https://www.smithsonianmag.com/smart-news/slow-motion-videos-reveal-what-really-happens-when-snakes-bite-180987571/</link>
+      <description>
+        <![CDATA[Different snakes put their own spin on striking their prey. Scientists captured the powerful attacks on camera]]>
+      </description>
+      <source:markdown>Different snakes put their own spin on striking their prey. Scientists captured the powerful attacks on camera</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/oo_QgZhVpwVu4ifhR9gwbPdJZ38=/420x240/filters:focal(2592x1728:2593x1729)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5e/e6/5ee6c337-4b3b-44b4-931e-4c710f8cd926/green_tree_snake_awabakal.jpg" length="" type="" />
+    </item>    <item>
+      <title>Breastfeeding Has Long Been Linked to Reducing Cancer Risk. Scientists May Have Just Discovered Why</title>
+      <link>https://www.smithsonianmag.com/smart-news/breastfeeding-has-long-been-linked-to-reducing-cancer-risk-scientists-may-have-just-discovered-why-180987567/</link>
+      <description>
+        <![CDATA[Patients with a history of breastfeeding showed higher levels of specialized immune cells in their breasts that may protect against malignant cancers]]>
+      </description>
+      <source:markdown>Patients with a history of breastfeeding showed higher levels of specialized immune cells in their breasts that may protect against malignant cancers</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/eBZjoU7u4Uuynn6GDGzn9IXvy58=/420x240/filters:focal(3000x2000:3001x2001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/64/ac/64acff96-794c-4f9b-a99a-175f99b3cbfc/gettyimages-1541869961.jpg" length="" type="" />
+    </item>    <item>
+      <title>Sneaky Mermaid attack in Microsoft 365 Copilot steals data</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/24/m365_copilot_mermaid_indirect_prompt_injection/</link>
+      <description>
+        <![CDATA[<h4>Redmond says it&#39;s fixed this particular indirect prompt injection vuln</h4> <p>Microsoft fixed a security hole in Microsoft 365 Copilot that allowed attackers to trick the AI assistant into stealing sensitive tenant data – like emails – via indirect prompt injection attacks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Redmond says it&#39;s fixed this particular indirect prompt injection vuln
+
+Microsoft fixed a security hole in Microsoft 365 Copilot that allowed attackers to trick the AI assistant into stealing sensitive tenant data – like emails – via indirect prompt injection attacks.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242660</guid>
+    </item>    <item>
+      <title>Seven Skeletons Found in a Croatian Well Were Likely Ancient Roman Soldiers Who Died During a Troubled Time for the Empire</title>
+      <link>https://www.smithsonianmag.com/smart-news/seven-skeletons-found-in-a-croatian-well-were-likely-ancient-roman-soldiers-who-died-during-a-troubled-time-for-the-empire-180987566/</link>
+      <description>
+        <![CDATA[The tall, adult men probably died during the battle of Mursa in 260 C.E., according to a new analysis of their remains]]>
+      </description>
+      <source:markdown>The tall, adult men probably died during the battle of Mursa in 260 C.E., according to a new analysis of their remains</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/9kiASB7XQY7PjAbVmrW4KHBhQw4=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d4/75/d475c6e0-e718-4a15-8f7b-ad8781729015/skeletons_in_an_ancient_well.png" length="" type="" />
+    </item>    <item>
       <title>Top 10: Die besten Fitness-Tracker im Test – Testsieger Amazfit für nur 90 Euro</title>
       <link>https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-fitness-tracker-im-test-testsieger-amazfit-fuer-nur-90-euro/nh3k090?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
