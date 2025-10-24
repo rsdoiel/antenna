@@ -7,10 +7,74 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>23 Oct 25 15:11 -0700</lastBuildDate>
+    <lastBuildDate>24 Oct 25 06:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>How one Altadena woman re-opened her childcare business nearly 10 months after the fires</title>
+      <link>https://laist.com/news/altadena-childcare-business-eaton-fire-recovery</link>
+      <description>
+        <![CDATA[Felisa Wright lost her home and her livelihood in the Eaton Fire. She didn't stop fighting to return.]]>
+      </description>
+      <source:markdown>Felisa Wright lost her home and her livelihood in the Eaton Fire. She didn&#39;t stop fighting to return.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-1347-d6de-afbf-b3ef4e630000</guid>
+    </item>    <item>
+      <title>A stretch of the Crenshaw Corridor has fast, reliable Wi-Fi for the first time — and it&#39;s free</title>
+      <link>https://laist.com/news/crenshaw-corridor-fast-reliable-wifi-free-community-connectivity-pilot</link>
+      <description>
+        <![CDATA[The project is the latest effort to bridge the digital divide in South L.A.]]>
+      </description>
+      <source:markdown>The project is the latest effort to bridge the digital divide in South L.A.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-1337-d6de-afbf-b3ff676f0000</guid>
+    </item>    <item>
+      <title>Cartoonist R. Crumb’s new work has a message: ‘Just because you’re paranoid, doesn’t mean they’re not out to get you’</title>
+      <link>https://laist.com/news/los-angeles-activities/cartoonist-r-crumb-robert-crumb-zap-comix-underground-counterculture-comics-zwirner-gallery</link>
+      <description>
+        <![CDATA[A pioneer of counterculture comic book art, R. Crumb created Zap Comix, which included iconic strips like “Fritz the Cat” and “Keep on Truckin’.” His work has attracted both a cult following and also some ire. Crumb’s first solo work in decades is now on display in L.A.]]>
+      </description>
+      <source:markdown>A pioneer of counterculture comic book art, R. Crumb created Zap Comix, which included iconic strips like “Fritz the Cat” and “Keep on Truckin’.” His work has attracted both a cult following and also some ire. Crumb’s first solo work in decades is now on display in L.A.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-125f-d84d-affa-deff66c70000</guid>
+    </item>    <item>
+      <title>She fell victim to a green card scam years ago. Now, an Altadena mom awaits her fate in an ICE detention center</title>
+      <link>https://laist.com/news/green-card-scam-altadena-woman-ice-detention-center-immigration</link>
+      <description>
+        <![CDATA[A Bengali immigrant who was displaced by the Eaton Fire now could be deported after falling victim to a green card scam years ago.]]>
+      </description>
+      <source:markdown>A Bengali immigrant who was displaced by the Eaton Fire now could be deported after falling victim to a green card scam years ago.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-122d-d6de-afbf-b2efe8ab0000</guid>
+    </item>    <item>
+      <title>LA food bank braces for surge as CalFresh benefits set to lapse</title>
+      <link>https://laist.com/news/la-food-bank-braces-for-surge-as-calfresh-benefits-set-to-lapse</link>
+      <description>
+        <![CDATA[The Los Angeles Regional Food Bank says it’s treating the prolonged government shutdown as it would a “natural disaster” and purchasing extra food to prepare for an increase in demand.]]>
+      </description>
+      <source:markdown>The Los Angeles Regional Food Bank says it’s treating the prolonged government shutdown as it would a “natural disaster” and purchasing extra food to prepare for an increase in demand.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-0e27-d6de-afbf-beef428f0000</guid>
+    </item>    <item>
+      <title>Welcome, Blue Jays fans! Here’s a handy LA food and drink guide for the World Series</title>
+      <link>https://laist.com/news/los-angeles-activities/welcome-blue-jays-fans-heres-a-handy-la-food-and-drink-guide-for-the-world-series</link>
+      <description>
+        <![CDATA[Off the field, we’re here for you.]]>
+      </description>
+      <source:markdown>Off the field, we’re here for you.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-0d46-d84d-affa-cfee0b190000</guid>
+    </item>    <item>
+      <title>Want to skip the chain lattes? Try these fall drinks from Eastside cafes instead</title>
+      <link>https://laist.com/news/food/try-these-fall-drinks-from-eastside-la-cafes</link>
+      <description>
+        <![CDATA[From calabaza lattes to pumpkin horchata, here are a few Eastside spots with seasonal drinks worth checking out.]]>
+      </description>
+      <source:markdown>From calabaza lattes to pumpkin horchata, here are a few Eastside spots with seasonal drinks worth checking out.</source:markdown>
+      <guid>cid://urn:uuid:00000199-e529-dc80-a5fb-ed79961f0000</guid>
+    </item>    <item>
+      <title>Should plants be allowed right next to your home? California may soon say no</title>
+      <link>https://laist.com/news/climate-environment/should-plants-be-allowed-right-next-to-your-home-california-may-soon-say-no</link>
+      <description>
+        <![CDATA[Debate continues about zone zero, the California rules nearing the finish line that would regulate what can be planted and stored within 5 feet of millions of homes.]]>
+      </description>
+      <source:markdown>Debate continues about zone zero, the California rules nearing the finish line that would regulate what can be planted and stored within 5 feet of millions of homes.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-1334-d84d-affa-dffeee210000</guid>
+    </item>    <item>
       <title>The loss of Kent Wong and the future of labor and immigrant rights in California</title>
       <link>https://laist.com/news/kent-wong-dead-activist-advocate-labor-immigrant-rights-california</link>
       <description>
@@ -46,7 +110,7 @@ The post [Parenting for Prevention Brings Tools and Support to Every Family](htt
       <source:markdown>The source of the seepage is an abandoned private oil well in a residential area of the Balboa Peninsula.</source:markdown>
       <guid>cid://urn:uuid:0000019a-12ab-d84d-affa-deeb08110003</guid>
     </item>    <item>
-      <title>The East Wing could fully be demolished soon, as preservationists urge caution</title>
+      <title>Trump plows ahead with East Wing demolition despite calls for caution</title>
       <link>https://laist.com/news/politics/east-wing-fully-be-demolished-soon-preservationists-urge-caution</link>
       <description>
         <![CDATA[President Donald Trump is plowing ahead with plans to build a grand ballroom where the East Wing of the White House currently stands. The plans have not gone through the committee tasked with overseeing such projects.]]>
@@ -142,7 +206,7 @@ The post [Parenting for Prevention Brings Tools and Support to Every Family](htt
       <source:markdown>Republican senators from Wisconsin and Florida have City Council President Marqueece Harris-Dawson for wide-ranging documents related to devastating fires earlier this year.</source:markdown>
       <guid>cid://urn:uuid:0000019a-1188-d84d-affa-dfea88e50000</guid>
     </item>    <item>
-      <title>Has anything changed 10 years after the largest natural gas leak in US history?</title>
+      <title>Nosebleeds, rashes and the smell of rotten eggs: Inside the aftermath of the largest methane leak in US history</title>
       <link>https://laist.com/news/climate-environment/aliso-canyon-natural-gas-blowout-ten-years-whats-changed</link>
       <description>
         <![CDATA[Regulations on gas storage facilities have been tightened since the detection of the Aliso Canyon leak, which started in 2015 and lasted nearly four months. But residents remain worried about long term health effects.]]>
@@ -2926,209 +2990,6 @@ The post [Join Us at Santa Clarita Kings Day!](https://santaclarita.gov/blog/202
       </description>
       <source:markdown>From Pasadena to West Hollywood, I retraced my steps to try spots I’d overlooked, like a ridiculously good and fantastic value $4.20 smash burger.</source:markdown>
       <guid>cid://urn:uuid:00000199-a0ba-d53c-a5fd-aebb3b060000</guid>
-    </item>    <item>
-      <title>LA County libraries forced to end digital lending services after FCC decision</title>
-      <link>https://laist.com/news/la-county-libraries-forced-to-end-digital-lending-services-fcc-decision</link>
-      <description>
-        <![CDATA[The FCC voted to end E-Rate discounts for library hotspot lending and school bus Wi-Fi.]]>
-      </description>
-      <source:markdown>The FCC voted to end E-Rate discounts for library hotspot lending and school bus Wi-Fi.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a6dc-d2a0-adbd-effdebac0000</guid>
-    </item>    <item>
-      <title>LA takes up rent control reforms that could lower annual hikes. What you need to know</title>
-      <link>https://laist.com/news/housing-homelessness/los-angeles-city-rent-control-reform-debate-delay</link>
-      <description>
-        <![CDATA[The discussions this week kicked off 380 days after a critical report came out. It's been 40 years since the formula that determines rent hikes in most L.A. apartments was last updated.]]>
-      </description>
-      <source:markdown>The discussions this week kicked off 380 days after a critical report came out. It&#39;s been 40 years since the formula that determines rent hikes in most L.A. apartments was last updated.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a6ad-d2f8-a7d9-b7edfb270000</guid>
-    </item>    <item>
-      <title>LA takes up rent control reform, one year after recommendations came out</title>
-      <link>https://laist.com/news/housing-homelessness/la-takes-up-rent-control-reform-one-year-after-recommendations-came-out</link>
-      <description>
-        <![CDATA[The formula that determines rent hikes in most L.A. apartments hasn’t been updated in 40 years. Now, those increases could be significantly lowered.]]>
-      </description>
-      <source:markdown>The formula that determines rent hikes in most L.A. apartments hasn’t been updated in 40 years. Now, those increases could be significantly lowered.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a6ad-d2f8-a7d9-b7edfb270000</guid>
-    </item>    <item>
-      <title>California gave counties power to inspect ICE detention centers. They’re not using it</title>
-      <link>https://laist.com/news/politics/california-gave-counties-power-to-inspect-ice-detention-centers</link>
-      <description>
-        <![CDATA[In the four counties where Immigration and Customs Enforcement has detention facilities, only one county health department conducts the kind of inspections that were explicitly allowed under a 2024 California law.]]>
-      </description>
-      <source:markdown>In the four counties where Immigration and Customs Enforcement has detention facilities, only one county health department conducts the kind of inspections that were explicitly allowed under a 2024 California law.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a656-d76d-a1bf-e77e079f0000</guid>
-    </item>    <item>
-      <title>How the government shutdown is taking the wind out of the Huntington Beach airshow</title>
-      <link>https://laist.com/news/politics/government-shutdown-huntington-beach-air-show</link>
-      <description>
-        <![CDATA[About half the Pacific Airshow’s 2025 lineup has been grounded because of the federal government shutdown.]]>
-      </description>
-      <source:markdown>About half the Pacific Airshow’s 2025 lineup has been grounded because of the federal government shutdown.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a5f2-d2f8-a7d9-b7ff33d00000</guid>
-    </item>    <item>
-      <title>USC asked to commit to Trump values to gain preference for grants. Newsom threatens state funding</title>
-      <link>https://laist.com/news/education/usc-asked-to-sign-commitment-to-trump-for-favorable-treatment</link>
-      <description>
-        <![CDATA[USC says it’s reviewing the letter also sent to eight other prestigious schools nationwide. California's governor vowed that any California universities that sign will lose state funding.]]>
-      </description>
-      <source:markdown>USC says it’s reviewing the letter also sent to eight other prestigious schools nationwide. California&#39;s governor vowed that any California universities that sign will lose state funding.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a648-dcc6-afdd-ee4d48410000</guid>
-    </item>    <item>
-      <title>How the federal government shutdown will affect California’s schools and students</title>
-      <link>https://laist.com/news/education/federal-government-shutdown-california-schools-effects</link>
-      <description>
-        <![CDATA[Californians should see no changes in the short term, but that could change if it drags on.]]>
-      </description>
-      <source:markdown>Californians should see no changes in the short term, but that could change if it drags on.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a62e-dc64-a9d9-febf3c630000</guid>
-    </item>    <item>
-      <title>Millions of California voters received erroneous voter guide ahead of special election</title>
-      <link>https://laist.com/news/politics/millions-of-california-voters-received-erroneous-voter-guide-ahead-of-special-election</link>
-      <description>
-        <![CDATA[California’s Secretary of State is sending postcards to correct a typo that was sent to more than 8.5 million voters.]]>
-      </description>
-      <source:markdown>California’s Secretary of State is sending postcards to correct a typo that was sent to more than 8.5 million voters.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a629-d2a0-adbd-ef7d7aaf0000</guid>
-    </item>    <item>
-      <title>The federal shutdown puts nutrition aid for millions of new parents at risk</title>
-      <link>https://laist.com/news/politics/the-federal-shutdown-puts-nutrition-aid-for-millions-of-new-parents-at-risk</link>
-      <description>
-        <![CDATA[Nearly 7 million pregnant women and young children depend on WIC for healthy foods. Advocates say funding could run out in about two weeks, leaving states to close the gap if their budgets allow.]]>
-      </description>
-      <source:markdown>Nearly 7 million pregnant women and young children depend on WIC for healthy foods. Advocates say funding could run out in about two weeks, leaving states to close the gap if their budgets allow.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a619-d2f8-a7d9-b77d34b40000</guid>
-    </item>    <item>
-      <title>Experience Culture and History at Hart Park</title>
-      <link>https://santaclarita.gov/blog/2025/10/02/experience-culture-and-history-at-hart-park/</link>
-      <description>
-        <![CDATA[<p>By Mayor Pro Tem Laurene Weste Santa Clarita’s story has always been one of history, community and preservation. It is a wonderful feeling knowing that William S. Hart Park is officially under City ownership, extending our network to 40 unique parks located across our community. This landmark, once the cherished home of silent film legend [&#8230;]</p>
-        <p>The post <a href="https://santaclarita.gov/blog/2025/10/02/experience-culture-and-history-at-hart-park/">Experience Culture and History at Hart Park</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
-      </description>
-      <source:markdown>By Mayor Pro Tem Laurene Weste Santa Clarita’s story has always been one of history, community and preservation. It is a wonderful feeling knowing that William S. Hart Park is officially under City ownership, extending our network to 40 unique parks located across our community. This landmark, once the cherished home of silent film legend \[…\]
-
-The post [Experience Culture and History at Hart Park](https://santaclarita.gov/blog/2025/10/02/experience-culture-and-history-at-hart-park/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
-      <guid>cid://https://santaclarita.gov/?p=6797</guid>
-    </item>    <item>
-      <title>Air traffic controllers helped end the last government shutdown, and may again</title>
-      <link>https://laist.com/news/air-traffic-controllers-helped-end-the-last-government-shutdown-and-may-again</link>
-      <description>
-        <![CDATA[A shortage of air traffic controllers may have played a role in ending the last government shutdown in 2019. U.S airlines are once again bracing for possible delays in commercial aviation.]]>
-      </description>
-      <source:markdown>A shortage of air traffic controllers may have played a role in ending the last government shutdown in 2019. U.S airlines are once again bracing for possible delays in commercial aviation.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a60c-d76d-a1bf-e73c00e90000</guid>
-    </item>    <item>
-      <title>What&#39;s behind the health care fight that led to the government shutdown</title>
-      <link>https://laist.com/news/politics/behind-the-health-care-fight-that-led-to-the-government-shutdown</link>
-      <description>
-        <![CDATA[It's Obamacare health insurance prices — and how much help 24 million Americans will get with their premiums — that are in dispute.]]>
-      </description>
-      <source:markdown>It&#39;s Obamacare health insurance prices — and how much help 24 million Americans will get with their premiums — that are in dispute.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a601-d2f8-a7d9-b76dd82e0000</guid>
-    </item>    <item>
-      <title>New California law restricts HOA fines to $100 per violation, giving homeowners a break</title>
-      <link>https://laist.com/news/housing-homelessness/new-california-law-restricts-hoa-fines-to-100-per-violation-giving-homeowners-a-break</link>
-      <description>
-        <![CDATA[Millions of California residents could get a break if they violate HOA rules under a new state law that caps fees at $100, without late fees or accumulating penalties.]]>
-      </description>
-      <source:markdown>Millions of California residents could get a break if they violate HOA rules under a new state law that caps fees at $100, without late fees or accumulating penalties.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a5d7-d2a0-adbd-eff7350d0000</guid>
-    </item>    <item>
-      <title>San Bernardino County Woman Hits $180K Jackpot on Ultimate Texas Hold’em at Chumash Casino Resort</title>
-      <link>https://www.independent.com/2025/10/02/san-bernardino-county-woman-hits-180k-jackpot-on-ultimate-texas-holdem-at-chumash-casino-resort/?amp=1</link>
-      <description>
-        <![CDATA[SANTA YNEZ, CA – October 2, 2025 – A San Bernardino woman recently had an 
-        incredible morning after checking out of her hotel room, winning an 
-        unforgettable hand on an Ultimate Texas Hold’em table and triggering a 
-        special jackpot worth $180,564 on Wednesday, Sept. 17 at Chumash Casino 
-        Resort.]]>
-      </description>
-      <source:markdown>SANTA YNEZ, CA – October 2, 2025 – A San Bernardino woman recently had an
-incredible morning after checking out of her hotel room, winning an
-unforgettable hand on an Ultimate Texas Hold’em table and triggering a
-special jackpot worth $180,564 on Wednesday, Sept. 17 at Chumash Casino
-Resort.</source:markdown>
-      <guid>cid://5ce1c6e64abe9e0001603b00:5ce1fd41a265cb000118d783:68e3f0a448f18a0d16c47d4d</guid>
-    </item>    <item>
-      <title>Best things to do this weekend in Los Angeles and Southern California: October 3-5</title>
-      <link>https://laist.com/news/arts-and-entertainment/best-weekend-events-los-angeles-southern-california-october-3-5</link>
-      <description>
-        <![CDATA[Meet Instagram-famous dogs and cats at PetCon, check out the Masters of Music Whistling, find the one that you want at the annual Grease sing-a-long and more.]]>
-      </description>
-      <source:markdown>Meet Instagram-famous dogs and cats at PetCon, check out the Masters of Music Whistling, find the one that you want at the annual Grease sing-a-long and more.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a56d-d76d-a1bf-e57d506f0000</guid>
-    </item>    <item>
-      <title>Affordable high-speed internet coming soon to East LA and Boyle Heights. How to get notified</title>
-      <link>https://laist.com/news/affordable-high-speed-internet-east-la-boyle-heights</link>
-      <description>
-        <![CDATA[Internet plans will start at $25 per month for qualifying households through a partnership between L.A. County and WeLink Communications.]]>
-      </description>
-      <source:markdown>Internet plans will start at $25 per month for qualifying households through a partnership between L.A. County and WeLink Communications.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a17b-d2a0-adbd-eb7f2bea0000</guid>
-    </item>    <item>
-      <title>Hours before the Eaton Fire, distribution lines failed and fire started in Altadena</title>
-      <link>https://laist.com/news/climate-environment/hours-before-the-eaton-fire-distribution-lines-failed-and-fire-started-in-altadena</link>
-      <description>
-        <![CDATA[Transmission lines have been linked to the start of the Eaton fire in January. But another kind of line — distribution lines that power homes — were also wreaking havoc before that fire sparked.]]>
-      </description>
-      <source:markdown>Transmission lines have been linked to the start of the Eaton fire in January. But another kind of line — distribution lines that power homes — were also wreaking havoc before that fire sparked.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a562-d76d-a1bf-e57ec3e70000</guid>
-    </item>    <item>
-      <title>How the LA-made ‘Gilmore Girls’ (now 25!) became synonymous with fall</title>
-      <link>https://laist.com/news/los-angeles-activities/los-angeles-made-gilmore-girls-25th-anniversary-fall-autumn</link>
-      <description>
-        <![CDATA[From sticking fake red and yellow leaves onto real trees to creating mashed potato flake snow, how the ‘Gilmore Girls’ crew created East Coast autumnal vibes ... right here in Burbank.]]>
-      </description>
-      <source:markdown>From sticking fake red and yellow leaves onto real trees to creating mashed potato flake snow, how the ‘Gilmore Girls’ crew created East Coast autumnal vibes ... right here in Burbank.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a22f-d53c-a5fd-aeaf2e8d0000</guid>
-    </item>    <item>
-      <title>Sign up for a $50 mammogram for Breast Cancer Awareness Month</title>
-      <link>https://laist.com/news/health/sign-up-50-dollar-mammogram-breast-cancer-awareness-month</link>
-      <description>
-        <![CDATA[Pomona Valley Hospital Medical Center is offering discounted preventative breast cancer screenings throughout the month of October, regardless of your insurance status.]]>
-      </description>
-      <source:markdown>Pomona Valley Hospital Medical Center is offering discounted preventative breast cancer screenings throughout the month of October, regardless of your insurance status.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a25b-d53c-a5fd-aefb25cd0000</guid>
-    </item>    <item>
-      <title>Most homeless shelters don&#39;t have childcare. Can this shelter in the Valley help change that?</title>
-      <link>https://laist.com/news/education/early-childhood-education-pre-k/homeless-shelter-free-childcare-san-fernando-valley</link>
-      <description>
-        <![CDATA[A family shelter in Woodland Hills is one of a few but growing number of shelters offering childcare services on-site.]]>
-      </description>
-      <source:markdown>A family shelter in Woodland Hills is one of a few but growing number of shelters offering childcare services on-site.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a184-d2f8-a7d9-b7edb2460000</guid>
-    </item>    <item>
-      <title>Use your phone for good: Take photos for LA Nature Quest</title>
-      <link>https://laist.com/news/climate-environment/la-nature-quest-october-inaturalist-community-science-lapl</link>
-      <description>
-        <![CDATA[Help scientists understand more about our local biodiversity.]]>
-      </description>
-      <source:markdown>Help scientists understand more about our local biodiversity.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a18b-db49-a59f-efdfe63e0002</guid>
-    </item>    <item>
-      <title>Kamasi Washington’s plan for his Blue Note residency? ‘Play a bunch of really good music&#39;</title>
-      <link>https://laist.com/news/arts-and-entertainment/kamasi-washington-blue-note-residency</link>
-      <description>
-        <![CDATA[The contemporary jazz great discusses his two-week run in his hometown of Los Angeles.]]>
-      </description>
-      <source:markdown>The contemporary jazz great discusses his two-week run in his hometown of Los Angeles.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a13e-de0c-ab9d-a3ff7fdd0002</guid>
-    </item>    <item>
-      <title>UC Irvine faculty member arrested at pro-Palestine event charged with felony vandalism</title>
-      <link>https://laist.com/news/uc-irvine-brook-haley-pro-palestine-felony-vandalism</link>
-      <description>
-        <![CDATA[The longtime lecturer was arrested in May and could face up to 3 years in state prison.]]>
-      </description>
-      <source:markdown>The longtime lecturer was arrested in May and could face up to 3 years in state prison.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a232-d8fe-a9ff-ff7349c80000</guid>
-    </item>    <item>
-      <title>Will my Social Security be affected by the government shutdown?</title>
-      <link>https://laist.com/news/politics/will-my-social-security-be-affected-by-the-government-shutdown</link>
-      <description>
-        <![CDATA[Wednesday’s government shutdown won’t affect your Social Security benefits — but other benefits could be affected.]]>
-      </description>
-      <source:markdown>Wednesday’s government shutdown won’t affect your Social Security benefits — but other benefits could be affected.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a240-d2a0-adbd-eb7541db0000</guid>
     </item>
   </channel>
 </rss>

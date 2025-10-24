@@ -4,10 +4,71 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>23 Oct 25 15:11 -0700</lastBuildDate>
+    <lastBuildDate>24 Oct 25 06:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Chris Hall’s last minute London Show offers</title>
+      <link>https://www.riscository.com/2025/chris-hall-london-show-offers/</link>
+      <description>
+        <![CDATA[One final email has landed in the RISCOSitory bunker before things get fully shut down for the duration of the London Show, and it&#8217;s from Chris Hall: The 368 page Impression User Manual (in the form of a PDF file) was originally provided free to purchasers of Impression X. This User Manual is now available in electronic form free to all users of Impression Style (which is free to download from !Store), Publisher and Publisher Plus from !Store. A printed version of the manual is still available, normal price £25,&#8230;]]>
+      </description>
+      <source:markdown>One final email has landed in the RISCOSitory bunker before things get fully shut down for the duration of the London Show, and it’s from Chris Hall: The 368 page Impression User Manual (in the form of a PDF file) was originally provided free to purchasers of Impression X. This User Manual is now available in electronic form free to all users of Impression Style (which is free to download from !Store), Publisher and Publisher Plus from !Store. A printed version of the manual is still available, normal price £25,…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10780</guid>
+    </item>    <item>
+      <title>Show offer on Impression User Manual and free software to collect</title>
+      <link>http://www.iconbar.com/comments/rss/news2252.html</link>
+      <description>
+        <![CDATA[If you don't have a copy of the Impression User manual and would like a printed copy, Chris Hall has a very special offer for you at the London Show]]>
+      </description>
+      <source:markdown>If you don&#39;t have a copy of the Impression User manual and would like a printed copy, Chris Hall has a very special offer for you at the London Show</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2252.html</guid>
+    </item>    <item>
+      <title>London Show sees launch of NetFetch 6 from R-Comp</title>
+      <link>https://www.riscository.com/2025/london-show-netfetch-6/</link>
+      <description>
+        <![CDATA[In another bit of last minute London Show news, a new version of NetFetch is being released by R-Comp. Here&#8217;s the full announcement from Andrew Rawnsley: R-Comp are launching version 6 of NetFetch at the London show, over six years since v5.5 launched at Wakefield 2019. (Spoiler &#8211; it&#8217;s live now on !Store) NetFetch provides flexible mail and news fetching for RISC OS, including anti spam and other filtering capabilities, as well as a friendly front end to RISC OS internet-related software. A version of Messenger Pro is included to&#8230;]]>
+      </description>
+      <source:markdown>In another bit of last minute London Show news, a new version of NetFetch is being released by R-Comp. Here’s the full announcement from Andrew Rawnsley: R-Comp are launching version 6 of NetFetch at the London show, over six years since v5.5 launched at Wakefield 2019. (Spoiler – it’s live now on !Store) NetFetch provides flexible mail and news fetching for RISC OS, including anti spam and other filtering capabilities, as well as a friendly front end to RISC OS internet-related software. A version of Messenger Pro is included to…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10778</guid>
+    </item>    <item>
+      <title>Last minute show news from RISCOSbits</title>
+      <link>https://www.riscository.com/2025/last-minute-london-show-riscosbits/</link>
+      <description>
+        <![CDATA[With the RISC OS London Show now only one day away, here&#8217;s a last-minute announcement from RISCOSbits: In last minute stop-press news, RISCOSbits are pleased to announce a few additions to the London Show stand. For those of you who are in the market for a RISC OS laptop, RISCOSbits may have exactly what you are looking for at the London show! We will have VERY LIMITED stock of Linux enabled, but RISC OS capable Pinebook Pros available for sale at the London show. Whilst these laptops are not fitted&#8230;]]>
+      </description>
+      <source:markdown>With the RISC OS London Show now only one day away, here’s a last-minute announcement from RISCOSbits: In last minute stop-press news, RISCOSbits are pleased to announce a few additions to the London Show stand. For those of you who are in the market for a RISC OS laptop, RISCOSbits may have exactly what you are looking for at the London show! We will have VERY LIMITED stock of Linux enabled, but RISC OS capable Pinebook Pros available for sale at the London show. Whilst these laptops are not fitted…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10756</guid>
+    </item>    <item>
+      <title>London is closer than you think</title>
+      <link>https://www.riscosopen.org/news/articles/2025/10/23/london-is-closer-than-you-think</link>
+      <description>
+        <![CDATA[<p>This year&#8217;s <a href="https://www.riscoslondonshow.co.uk/">London show</a> organised by <a href="https://rougol.jellybaby.net/"><span class="caps">ROUGOL</span></a> is this Saturday the 25th October from 11am. Shows are the perfect opportunity to meet and talk to fellow <span class="caps">RISC</span> OS users and developers about what they&#8217;re doing with our favourite operating system.</p>
+        <p><img src="/images/risc_os_open/shows/rougol2025.png" title="Show banner" alt="Show banner" /></p>
+        <h3>Venue details</h3>
+        <p>A short distance by public transport, around ten miles from Heathrow airport, less than four miles from the M1 motorway, the Harrow District Masonic Centre is closer than you think; see this Google <a href="https://maps.app.goo.gl/vqigUNhWUqDjfXEH6">map</a> for directions.</p>
+        <p>Please note: engineering work means <strong>the Bakerloo tube line is closed</strong> this weekend.</p>
+        <h3>See <span class="caps">BASIC</span> in action</h3>
+        <p>See the alpha version of <span class="caps">BBC</span> <span class="caps">BASIC</span> rewritten in C, running natively on both <span class="caps">RISC</span> OS 5 and Windows x64, and find out what&#8217;s required to get it all finished. It&#8217;s a considerable technical effort, and will pave the way for all kinds of language extensions in future.</p>
+        <p>Want to know why nightly builds of <span class="caps">BASIC</span> gained a new <a href="https://gitlab.riscosopen.org/RiscOS/Sources/Programmer/BASIC/-/merge_requests/16"><span class="caps">SYS</span>-as-a-function keyword</a> recently? It&#8217;s all part of the <a href="/content/documents/risc-os-moonshots">mission to the moon</a>.</p>]]>
+      </description>
+      <source:markdown>This year’s [London show](https://www.riscoslondonshow.co.uk/) organised by [ROUGOL](https://rougol.jellybaby.net/) is this Saturday the 25th October from 11am. Shows are the perfect opportunity to meet and talk to fellow RISC OS users and developers about what they’re doing with our favourite operating system.
+
+![Show banner](/images/risc_os_open/shows/rougol2025.png)
+
+### Venue details
+
+A short distance by public transport, around ten miles from Heathrow airport, less than four miles from the M1 motorway, the Harrow District Masonic Centre is closer than you think; see this Google [map](https://maps.app.goo.gl/vqigUNhWUqDjfXEH6) for directions.
+
+Please note: engineering work means **the Bakerloo tube line is closed** this weekend.
+
+### See BASIC in action
+
+See the alpha version of BBCBASIC rewritten in C, running natively on both RISC OS 5 and Windows x64, and find out what’s required to get it all finished. It’s a considerable technical effort, and will pave the way for all kinds of language extensions in future.
+
+Want to know why nightly builds of BASIC gained a new [SYS-as-a-function keyword](https://gitlab.riscosopen.org/RiscOS/Sources/Programmer/BASIC/-/merge_requests/16) recently? It’s all part of the [mission to the moon](/content/documents/risc-os-moonshots).</source:markdown>
+      <guid>cid://urn:uuid:f7013914-01b1-4243-acd7-6d2dbfd6161d</guid>
+    </item>    <item>
       <title>b.log 2025/10/23 - A little more Tea.</title>
       <link>https://heyrick.eu/blog/entry/20251023</link>
       <description>
@@ -48,6 +109,15 @@
       </description>
       <source:markdown>With this year’s London Show drawing ever nearer – the doors will be open to the public in just two days on 25th October, at the Harrow District Masonic Centre – another announcement has landed in the RISCOSitory bunker, and, amongst other interesting news, this one includes something we’ve all been eagerly awaiting for a very long time: a public release of web browser Iris from RISC OS Developments. Over to Andrew Rawnsley for all the gory details: Iris Releases via PackMan The Spring and Summer saw multiple beta releases…</source:markdown>
       <guid>cid://https://www.riscository.com/?p=10771</guid>
+    </item>    <item>
+      <title>PETSCII/ASCII Conversion</title>
+      <link>https://www.c64os.com/post/petsciiasciiconversion</link>
+      <description>
+        <![CDATA[<img src='https://s3.amazonaws.com/com.c64os.resources/weblog/petsciiasciiconversion/icon-petsciiascii.jpg'> Let's talk about PETSCII and ASCII, what they are and how to convert between them properly and losslessly. There are some examples on the internet that are not right, and there are some nuances that make it more complicated than it seems at first glance. ASCII was developed to standardize the codes used by different types of early computers and teletype (and teletype-like) machines. At this time, computers generated output by printing to paper. Although it is an "American" standard code of information interchange, several of the characters were designed for internationalization, by combinations that can only be done on paper. For example, the "Back Space", which became ubiquitous on PCs for "delete," on paper truly is a back "space." It causes the print head to move back one space so that it's positioned above where the previous character was printed. Symbols like, caret (^), tilde (~), and backtick (`), which we use today to mean or perform certain technical functions, are actually me. . .]]>
+      </description>
+      <source:markdown>![](https://s3.amazonaws.com/com.c64os.resources/weblog/petsciiasciiconversion/icon-petsciiascii.jpg) Let&#39;s talk about PETSCII and ASCII, what they are and how to convert between them properly and losslessly. There are some examples on the internet that are not right, and there are some nuances that make it more complicated than it seems at first glance. ASCII was developed to standardize the codes used by different types of early computers and teletype (and teletype-like) machines. At this time, computers generated output by printing to paper. Although it is an &#34;American&#34; standard code of information interchange, several of the characters were designed for internationalization, by combinations that can only be done on paper. For example, the &#34;Back Space&#34;, which became ubiquitous on PCs for &#34;delete,&#34; on paper truly is a back &#34;space.&#34; It causes the print head to move back one space so that it&#39;s positioned above where the previous character was printed. Symbols like, caret (^), tilde (~), and backtick (\`), which we use today to mean or perform certain technical functions, are actually me. . .</source:markdown>
+      <author>gregorynacu@me.com (Gregory Nacu)</author>
+      <guid>cid://https://www.c64os.com/post?p=133</guid>
     </item>    <item>
       <title>b.log 2025/10/22 - Shein and the missing parcel redux.</title>
       <link>https://heyrick.eu/blog/entry/20251022</link>
@@ -2092,38 +2162,6 @@ Although at least one [client re-creation](https://github.com/erfg12/AOL_4.0_Emu
       </description>
       <source:markdown>I have so far found 5 versions of the KIM-1 User Manual. First Edition January 1976 Second Edition March 1976 Second Edition August 1976 Rockwell branded version 1977. German version 1977 Only small updates, some errors, and the change of keyboard with SST switch right to left. All available here: KIM-1 manuals and MOS Technology \[…\]</source:markdown>
       <guid>cid://http://retro.hansotten.nl/?p=18901</guid>
-    </item>    <item>
-      <title>FDNPKG16 version 0.99.81</title>
-      <link>https://sourceforge.net/p/freedos/news/2025/10/fdnpkg16-version-0998/</link>
-      <description>
-        <![CDATA[<div class="markdown_content"><p>Developer sparky4 has been working on an updated version of the FDNPKG package manager. The new version is aimed at 16-bit, and works on an 8088 system now. The new version retries re-fetching files it couldn't download on the first attempt, and has several other small improvements throughout the code. <em>Update:</em> FDNPKG16 version 0.99.81 has a new feature: you can use a short version of the command, with or without the slash, like "li" or "/li" to display the license. The license screen also includes my contact information. This also includes several bug fixes: one fixes a bug with watt32, and another avoids a 16-bit integer overflow. You can find the latest version at the <a class="" href="https://github.com/sparky4/fdnpkg16" rel="nofollow">FDNPKG16 repository</a> on GitHub.</p></div>]]>
-      </description>
-      <source:markdown>Developer sparky4 has been working on an updated version of the FDNPKG package manager. The new version is aimed at 16-bit, and works on an 8088 system now. The new version retries re-fetching files it couldn&#39;t download on the first attempt, and has several other small improvements throughout the code. _Update:_ FDNPKG16 version 0.99.81 has a new feature: you can use a short version of the command, with or without the slash, like &#34;li&#34; or &#34;/li&#34; to display the license. The license screen also includes my contact information. This also includes several bug fixes: one fixes a bug with watt32, and another avoids a 16-bit integer overflow. You can find the latest version at the [FDNPKG16 repository](https://github.com/sparky4/fdnpkg16) on GitHub.</source:markdown>
-      <guid>cid://https://sourceforge.neta429e1e6a6522cf6eebbeecf352bbcf7b5efa581</guid>
-    </item>    <item>
-      <title>b.log 2025/10/02 - The radical left?</title>
-      <link>https://heyrick.eu/blog/entry/20251002</link>
-      <description>
-        <![CDATA[The radical left?]]>
-      </description>
-      <source:markdown>The radical left?</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20251002</guid>
-    </item>    <item>
-      <title>DOS Game Club</title>
-      <link>https://www.filfre.net/2025/10/dos-game-club/</link>
-      <description>
-        <![CDATA[I had a long talk recently with some nice folks at the DOS Game Club podcast. Our subject was one from the early days of this site, the Infocom game Planetfall. Maybe some of you will find it interesting. You can get it from the DOS Game Club homepage, or more than likely wherever you get [&#8230;]]]>
-      </description>
-      <source:markdown>I had a long talk recently with some nice folks at the DOS Game Club podcast. Our subject was one from the early days of this site, the Infocom game Planetfall. Maybe some of you will find it interesting. You can get it from the DOS Game Club homepage, or more than likely wherever you get \[…\]</source:markdown>
-      <guid>cid://https://www.filfre.net/?p=6511</guid>
-    </item>    <item>
-      <title>WROCC October 2025 meeting - R-Comp and ROD Show teaser</title>
-      <link>http://www.iconbar.com/comments/rss/news2239.html</link>
-      <description>
-        <![CDATA[Wakefield's October speaker was Andrew Rawnsley from R-Comp, giving us some updates and teasers for the London Show (in case you need more reasons to attend the Show!)]]>
-      </description>
-      <source:markdown>Wakefield&#39;s October speaker was Andrew Rawnsley from R-Comp, giving us some updates and teasers for the London Show (in case you need more reasons to attend the Show!)</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2239.html</guid>
     </item>
   </channel>
 </rss>

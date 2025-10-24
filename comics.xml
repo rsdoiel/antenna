@@ -7,7 +7,7 @@
       Commics and Graphic Novel sites on the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/comics.xml</link>
-    <lastBuildDate>23 Oct 25 15:11 -0700</lastBuildDate>
+    <lastBuildDate>24 Oct 25 06:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -43,17 +43,6 @@ A comic about a couple being addicted to screens.
 This is a comic about AI art.
 
  [View on my website](http://theoatmeal.com/comics/ai_art?no_popup=1)</source:markdown>
-    </item>    <item>
-      <title>Your brain&#39;s job</title>
-      <link>http://theoatmeal.com/comics/brain_job?no_popup=1</link>
-      <description>
-        <![CDATA[<a href="http://theoatmeal.com/comics/brain_job?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/brain_job_big.png" alt="Your brain's job" class="border0" /></a><p>A comic about what you think your brain is supposed to do</p><a href="http://theoatmeal.com/comics/brain_job?no_popup=1">View on my website</a><br /><br />]]>
-      </description>
-      <source:markdown>[![Your brain&#39;s job](https://s3.amazonaws.com/theoatmeal-img/thumbnails/brain_job_big.png)](http://theoatmeal.com/comics/brain_job?no_popup=1)
-
-A comic about what you think your brain is supposed to do
-
- [View on my website](http://theoatmeal.com/comics/brain_job?no_popup=1)</source:markdown>
     </item>
   </channel>
 </rss>

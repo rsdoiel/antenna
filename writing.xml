@@ -4,7 +4,7 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>23 Oct 25 15:11 -0700</lastBuildDate>
+    <lastBuildDate>24 Oct 25 06:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -114,14 +114,6 @@ The post [After the Hunt](https://johnaugust.com/2025/after-the-hunt) first appe
 The post [A Cheap Cut of Meat Soaked in Butter (Encore)](https://johnaugust.com/2025/a-cheap-cut-of-meat-soaked-in-butter-encore) first appeared on [John August](https://johnaugust.com).</source:markdown>
       <enclosure url="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/161RBstandard.mp3" length="50270991" type="audio/mpeg" />
       <guid>cid://https://johnaugust.com/?p=23490</guid>
-    </item>    <item>
-      <title>AI, Authorship, and the Public Interest Grant Recipients</title>
-      <link>https://www.authorsalliance.org/2025/10/02/ai-authorship-and-the-public-interest-grant-recipients/</link>
-      <description>
-        <![CDATA[We’re delighted to announce the five recipients of our AI, Authorship, and the Public Interest grant awards. Chosen from a competitive pool of over 160 proposals, these grantees stood out for their thoughtful, innovative projects that align closely with our research priorities and our mission to serve the public interest.]]>
-      </description>
-      <source:markdown>We’re delighted to announce the five recipients of our AI, Authorship, and the Public Interest grant awards. Chosen from a competitive pool of over 160 proposals, these grantees stood out for their thoughtful, innovative projects that align closely with our research priorities and our mission to serve the public interest.</source:markdown>
-      <guid>cid://https://www.authorsalliance.org/?p=12229</guid>
     </item>
   </channel>
 </rss>
