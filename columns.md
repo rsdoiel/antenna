@@ -319,5 +319,5 @@ description: Blogs, columns and snapshots from around the web.
 - [Brian Taylor Cohen blog](https://plus.briantylercohen.com/feed)
 - [Small World Blog](https://codetiger.github.io/blog/rss/)
 - [Karine Jean-Piere](https://www.karinejean-pierre.com/feed/rss2)
-
-
+- [Generative Computing Blog](https://generative-computing.github.io/blog/feed.xml)
+- [Run Away Country with Alex Wagner](https://feeds.simplecast.com/n_gL1Piz)

@@ -4,7 +4,7 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>24 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>24 Oct 25 20:29 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -2146,30 +2146,6 @@ Although at least one [client re-creation](https://github.com/erfg12/AOL_4.0_Emu
       </description>
       <source:markdown>It’s now just three weeks to go until this year’s London Show, which takes place at the Harrow District Masonic Centre on 25th October, and the first announcement from an exhibitor has already landed in the RISCOSitory bunker. In fact, the email arrived before last week’s post about the show, so keen was Paolo Zaino, the exhibitor in question, but I deliberately held it back so that it came after the show preview. Using the name ZFP Systems (the brand under which he originally provided professional services to retail outlets…</source:markdown>
       <guid>cid://https://www.riscository.com/?p=10729</guid>
-    </item>    <item>
-      <title>A Looking Glass Half Empty, Part 1: Just Lookin’ for a Hit</title>
-      <link>https://www.filfre.net/2025/10/a-looking-glass-half-empty-part-1-just-lookin-for-a-hit/</link>
-      <description>
-        <![CDATA[This article tells part of the story of Looking Glass Studios. There was some discussion about it: &#8220;Wow, gosh, it&#8217;d sure be nice if we were making more money and selling more copies so we could do crazy games of the type we want, as opposed to having to worry about how we&#8217;re going to [&#8230;]]]>
-      </description>
-      <source:markdown>This article tells part of the story of Looking Glass Studios. There was some discussion about it: “Wow, gosh, it’d sure be nice if we were making more money and selling more copies so we could do crazy games of the type we want, as opposed to having to worry about how we’re going to \[…\]</source:markdown>
-      <guid>cid://https://www.filfre.net/?p=6497</guid>
-    </item>    <item>
-      <title>RPNV Calculator v1.0.0</title>
-      <link>https://sourceforge.net/p/freedos/news/2025/10/rpnv-calculator-v100/</link>
-      <description>
-        <![CDATA[<div class="markdown_content"><p>RPNV is an RPN calculator inspired by HP Voyager calculator series, in particular the HP-10C. Davide writes "After a few months of fun I've reached a milestone and I've released a full version implementing all the functions of the HP-10C calculator including programming capability." This implements the HP-10C calculator, including 4-level stack (x,y,z,t registers), the last-x register, 10 memory registers (0 to 9), all the basic operations, and up to 99 programming instructions. You can download version 1.0.0 from <a class="" href="https://github.com/Dave1975-spring/RPNV_Calculator" rel="nofollow">RPNV at GitHub</a>.</p></div>]]>
-      </description>
-      <source:markdown>RPNV is an RPN calculator inspired by HP Voyager calculator series, in particular the HP-10C. Davide writes &#34;After a few months of fun I&#39;ve reached a milestone and I&#39;ve released a full version implementing all the functions of the HP-10C calculator including programming capability.&#34; This implements the HP-10C calculator, including 4-level stack (x,y,z,t registers), the last-x register, 10 memory registers (0 to 9), all the basic operations, and up to 99 programming instructions. You can download version 1.0.0 from [RPNV at GitHub](https://github.com/Dave1975-spring/RPNV_Calculator).</source:markdown>
-      <guid>cid://https://sourceforge.netf116d8fa63792fe91e34df96095d7daf09365d56</guid>
-    </item>    <item>
-      <title>Versions of the KIM-1 User Manual</title>
-      <link>http://retro.hansotten.nl/versions-of-the-kim-1-user-manual/</link>
-      <description>
-        <![CDATA[I have so far found 5 versions of the KIM-1 User Manual. First Edition January 1976 Second Edition March 1976 Second Edition August 1976 Rockwell branded version 1977. German version 1977 Only small updates, some errors, and the change of keyboard with SST switch right to left. All available here: KIM-1 manuals and MOS Technology [&#8230;]]]>
-      </description>
-      <source:markdown>I have so far found 5 versions of the KIM-1 User Manual. First Edition January 1976 Second Edition March 1976 Second Edition August 1976 Rockwell branded version 1977. German version 1977 Only small updates, some errors, and the change of keyboard with SST switch right to left. All available here: KIM-1 manuals and MOS Technology \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=18901</guid>
     </item>
   </channel>
 </rss>
