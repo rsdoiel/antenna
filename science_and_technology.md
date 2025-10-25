@@ -12,6 +12,7 @@ title: Science and Technology
 - [OS News](https://www.osnews.com/feed/)
 - [Caltech Magazine](https://magazine.caltech.edu/index?format=rss)
 - [NPR Short Wave](https://feeds.npr.org/510351/podcast.xml)
+- [The New Stack](https://thenewstack.io/blog/feed/)
 
 # Open Source Projects
 
