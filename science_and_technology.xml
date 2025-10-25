@@ -4,14 +4,80 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>25 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>25 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Top 10: Die besten Saugroboter im Test – Roborock, Ecovacs, Eufy, Dreame &#38; Co.</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-saugroboter-im-test-roborock-ecovacs-eufy-dreame-und-co/2dxtvlp?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Saugroboter mit Wischfunktion erleichtern den Alltag – doch nicht jedes Modell überzeugt. Wir zeigen nur die besten Modelle mit Absaug- oder Reinigungsstation.]]>
+      </description>
+      <source:markdown>Saugroboter mit Wischfunktion erleichtern den Alltag – doch nicht jedes Modell überzeugt. Wir zeigen nur die besten Modelle mit Absaug- oder Reinigungsstation.</source:markdown>
+      <guid>cid://http://heise.de/-10899839</guid>
+    </item>    <item>
+      <title>Große Zahlen und kleine, effektive Veränderungen – Fotonews der Woche 43/2025</title>
+      <link>https://www.heise.de/news/Grosse-Zahlen-und-kleine-effektive-Veraenderungen-Fotonews-der-Woche-43-2025-10865889.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Canon erreicht 170 Millionen Objektive, Leica bricht mit einer Tradition und Fujifilm bringt mit der X-T30 III eine optimierte Variante des Einsteigermodells.]]>
+      </description>
+      <source:markdown>Canon erreicht 170 Millionen Objektive, Leica bricht mit einer Tradition und Fujifilm bringt mit der X-T30 III eine optimierte Variante des Einsteigermodells.</source:markdown>
+      <guid>cid://http://heise.de/-10865889</guid>
+    </item>    <item>
+      <title>Vercel Marketplace Offers Agentic AI Building Blocks</title>
+      <link>https://thenewstack.io/vercel-marketplace-offers-agentic-ai-building-blocks/</link>
+      <description>
+        <![CDATA[<img width="1024" height="577" src="https://cdn.thenewstack.io/media/2024/04/d8b458d6-dev_news_img-2-2-1024x577.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Dev News logo" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2024/04/d8b458d6-dev_news_img-2-2.png" /><p>Vercel introduced Agents and Services to its marketplace this week, enabling developers to add AI-powered workflows to a project through</p>
+        <p>The post <a href="https://thenewstack.io/vercel-marketplace-offers-agentic-ai-building-blocks/">Vercel Marketplace Offers Agentic AI Building Blocks</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Dev News logo](https://cdn.thenewstack.io/media/2024/04/d8b458d6-dev_news_img-2-2-1024x577.png)
+
+Vercel introduced Agents and Services to its marketplace this week, enabling developers to add AI-powered workflows to a project through
+
+The post [Vercel Marketplace Offers Agentic AI Building Blocks](https://thenewstack.io/vercel-marketplace-offers-agentic-ai-building-blocks/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804244</guid>
+    </item>    <item>
+      <title>Chipmarkt: Xiaomi-Chef stimmt Smartphone-Kunden auf teure Zeiten ein</title>
+      <link>https://www.heise.de/news/Xiaomi-Chef-Steigende-Chipkosten-auch-bei-Smartphone-Preisen-spuerbar-10899894.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der chinesische Smartphone-Hersteller erklärt seine aktuelle Preispolitik. Ursächlich dürfte auch der neue Fokus entsprechender Lieferanten sein.]]>
+      </description>
+      <source:markdown>Der chinesische Smartphone-Hersteller erklärt seine aktuelle Preispolitik. Ursächlich dürfte auch der neue Fokus entsprechender Lieferanten sein.</source:markdown>
+      <guid>cid://http://heise.de/-10899894</guid>
+    </item>    <item>
+      <title>Microsoft Teams kann ab Dezember Büroanwesenheit erfassen</title>
+      <link>https://www.heise.de/news/Microsoft-Teams-kann-ab-Dezember-Bueroanwesenheit-erfassen-10899898.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Microsoft Teams erschwert die Anwesenheitsfiktion im Homeoffice: Mit einem Update wird die Plattform den Standort eines Mitarbeiters übers Büro-WLAN verfolgen.]]>
+      </description>
+      <source:markdown>Microsoft Teams erschwert die Anwesenheitsfiktion im Homeoffice: Mit einem Update wird die Plattform den Standort eines Mitarbeiters übers Büro-WLAN verfolgen.</source:markdown>
+      <guid>cid://http://heise.de/-10899898</guid>
+    </item>    <item>
+      <title>How to Manage the Growing AI Sprawl in Your SaaS Stack</title>
+      <link>https://thenewstack.io/how-to-manage-the-growing-ai-sprawl-in-your-saas-stack/</link>
+      <description>
+        <![CDATA[<img width="1024" height="683" src="https://cdn.thenewstack.io/media/2025/10/3e0782a5-matias-malka-tzih-fdkzvy-unsplash-1024x683.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/3e0782a5-matias-malka-tzih-fdkzvy-unsplash-scaled.jpg" /><p>The enterprise software landscape is experiencing an unprecedented transformation as AI capabilities become standard features across virtually every SaaS platform.</p>
+        <p>The post <a href="https://thenewstack.io/how-to-manage-the-growing-ai-sprawl-in-your-saas-stack/">How to Manage the Growing AI Sprawl in Your SaaS Stack</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/10/3e0782a5-matias-malka-tzih-fdkzvy-unsplash-1024x683.jpg)
+
+The enterprise software landscape is experiencing an unprecedented transformation as AI capabilities become standard features across virtually every SaaS platform.
+
+The post [How to Manage the Growing AI Sprawl in Your SaaS Stack](https://thenewstack.io/how-to-manage-the-growing-ai-sprawl-in-your-saas-stack/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804097</guid>
+    </item>    <item>
+      <title>Mähroboter Hookii Neomow X im Test: auch ohne GPS präzise</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/maehroboter-hookii-neomow-x-im-test-auch-ohne-gps-praezise/8xcgse9?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Drahtloses Mähen per Lidar und Kamera auf großen Flächen bis 4000 m², einfache App mit allen wichtigen Funktionen – das ist der Hookii Neomow X im Test.]]>
+      </description>
+      <source:markdown>Drahtloses Mähen per Lidar und Kamera auf großen Flächen bis 4000 m², einfache App mit allen wichtigen Funktionen – das ist der Hookii Neomow X im Test.</source:markdown>
+      <guid>cid://http://heise.de/-10899835</guid>
+    </item>    <item>
       <title>Ditch Python: 5 JavaScript Libraries for Machine Learning</title>
       <link>https://thenewstack.io/ditch-python-5-javascript-libraries-for-machine-learning/</link>
       <description>
-        <![CDATA[<img width="1024" height="573" src="https://cdn.thenewstack.io/media/2025/10/d934ed3d-javascriptlibrariesforml-1024x573.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="A library with fancy arches above the book shelves." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/d934ed3d-javascriptlibrariesforml.jpg" /><p>Python has long been the dominant language for training and using machine learning models, but that&#8217;s changing. &#8220;We&#8217;re bringing machine</p>
+        <![CDATA[<img width="1024" height="573" src="https://cdn.thenewstack.io/media/2025/10/d934ed3d-javascriptlibrariesforml-1024x573.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="A library with fancy arches above the book shelves." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/d934ed3d-javascriptlibrariesforml.jpg" /><p>Python has long been the dominant language for training and using machine learning models, but that&#8217;s changing. &#8220;We&#8217;re bringing machine</p>
         <p>The post <a href="https://thenewstack.io/ditch-python-5-javascript-libraries-for-machine-learning/">Ditch Python: 5 JavaScript Libraries for Machine Learning</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![A library with fancy arches above the book shelves.](https://cdn.thenewstack.io/media/2025/10/d934ed3d-javascriptlibrariesforml-1024x573.jpg)
@@ -134,7 +200,7 @@ Governments and private security sleuths warned that attackers are already explo
       <title>IBM’s Mellea Tackles Open Source AI’s Hidden Weakness</title>
       <link>https://thenewstack.io/ibms-mellea-tackles-open-source-ais-hidden-weakness/</link>
       <description>
-        <![CDATA[<img width="1024" height="683" src="https://cdn.thenewstack.io/media/2025/10/c89a52fb-omar-ramadan-9jb4u2omx0g-unsplash-1-1024x683.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/c89a52fb-omar-ramadan-9jb4u2omx0g-unsplash-1.jpg" /><p>RALEIGH, N.C. &#8212; Nathan Fulton remembers the moment he realized open source AI had an infrastructure problem. Senior engineers kept</p>
+        <![CDATA[<img width="1024" height="683" src="https://cdn.thenewstack.io/media/2025/10/c89a52fb-omar-ramadan-9jb4u2omx0g-unsplash-1-1024x683.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/c89a52fb-omar-ramadan-9jb4u2omx0g-unsplash-1.jpg" /><p>RALEIGH, N.C. &#8212; Nathan Fulton remembers the moment he realized open source AI had an infrastructure problem. Senior engineers kept</p>
         <p>The post <a href="https://thenewstack.io/ibms-mellea-tackles-open-source-ais-hidden-weakness/">IBM&#8217;s Mellea Tackles Open Source AI&#8217;s Hidden Weakness</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![](https://cdn.thenewstack.io/media/2025/10/c89a52fb-omar-ramadan-9jb4u2omx0g-unsplash-1-1024x683.jpg)

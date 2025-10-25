@@ -7,10 +7,19 @@
       Going Electric has feeds involving home and transportation options powered by Electricity
     </description>
     <link>https://rsdoiel.github.io/antenna/going_electric.xml</link>
-    <lastBuildDate>25 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>25 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>I Saw The 2027 Chevy Bolt In Person. It Looks Fantastic—And Still Small</title>
+      <link>https://insideevs.com/news/776958/2027-chevrolet-bolt-live-impressions/</link>
+      <description>
+        <![CDATA[Meet the new Bolt, same as the old Bolt—until you get under the skin, anyway. Here's why that's a good thing.]]>
+      </description>
+      <source:markdown>Meet the new Bolt, same as the old Bolt—until you get under the skin, anyway. Here&#39;s why that&#39;s a good thing.</source:markdown>
+      <enclosure url="https://cdn.motor1.com/images/mgl/bgGwvj/s3/2027-chevrolet-bolt.jpg" length="25216" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/776958/2027-chevrolet-bolt-live-impressions/</guid>
+    </item>    <item>
       <title>Gotion’s Colossal Battery Factory In Michigan Is Dead</title>
       <link>https://insideevs.com/news/776936/gotion-battery-factory-michigan-dead/</link>
       <description>

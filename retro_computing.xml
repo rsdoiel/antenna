@@ -4,10 +4,34 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>25 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>25 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>RISC OS London Show Report 2025</title>
+      <link>http://www.iconbar.com/comments/rss/news2248.html</link>
+      <description>
+        <![CDATA[The 2025 London Show took place in its new regular venue. Doors opened at 11am and there was the usual stands and talks. You can also see all the stands in our pictures and notes on the talks. We even had some nice weather!]]>
+      </description>
+      <source:markdown>The 2025 London Show took place in its new regular venue. Doors opened at 11am and there was the usual stands and talks. You can also see all the stands in our pictures and notes on the talks. We even had some nice weather!</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2248.html</guid>
+    </item>    <item>
+      <title>RISC OS London Show 2025 - Notes from the talks</title>
+      <link>http://www.iconbar.com/comments/rss/news2250.html</link>
+      <description>
+        <![CDATA[Here are my notes from the talks. As usual, any mistakes or omissions are mine.]]>
+      </description>
+      <source:markdown>Here are my notes from the talks. As usual, any mistakes or omissions are mine.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2250.html</guid>
+    </item>    <item>
+      <title>RISC OS London Show 2025 - pictures</title>
+      <link>http://www.iconbar.com/comments/rss/news2249.html</link>
+      <description>
+        <![CDATA[Here is a selection of pictures to show you what the event was like.....]]>
+      </description>
+      <source:markdown>Here is a selection of pictures to show you what the event was like.....</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2249.html</guid>
+    </item>    <item>
       <title>RISCOSbits last minute hardware offers at tomorrow&#39;s show</title>
       <link>http://www.iconbar.com/comments/rss/news2246.html</link>
       <description>
