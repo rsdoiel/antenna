@@ -4,10 +4,18 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>25 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>25 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Port of Houston is feeling the shock of tariffs and a stalled government</title>
+      <link>https://www.npr.org/2025/10/25/nx-s1-5582485/the-port-of-houston-is-feeling-the-shock-of-tariffs-and-a-stalled-government</link>
+      <description>
+        <![CDATA[The Port of Houston is feeling the strain as unpaid customs officers, rising tariffs, and a prolonged government shutdown disrupt trade and threaten jobs across Texas.]]>
+      </description>
+      <source:markdown>The Port of Houston is feeling the strain as unpaid customs officers, rising tariffs, and a prolonged government shutdown disrupt trade and threaten jobs across Texas.</source:markdown>
+      <guid>cid://https://www.npr.org/2025/10/25/nx-s1-5582485/the-port-of-houston-is-feeling-the-shock-of-tariffs-and-a-stalled-government</guid>
+    </item>    <item>
       <title>Not everyone’s stretching the dollar the same way</title>
       <link>https://www.marketplace.org/episode/2025/10/15/pm-1024</link>
       <description>
