@@ -7,11 +7,19 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>26 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>26 Oct 25 15:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>LAX Terminal 5 to shut down for revamp ahead of 2028 Olympics</title>
+      <title>After methane leak, Newport Beach residents are now allowed home</title>
+      <link>https://laist.com/news/after-methane-leak-newport-beach-residents-are-now-allowed-home</link>
+      <description>
+        <![CDATA[City officials announced work venting out dangerous methane gas that began Friday had been completed]]>
+      </description>
+      <source:markdown>City officials announced work venting out dangerous methane gas that began Friday had been completed</source:markdown>
+      <guid>cid://urn:uuid:0000019a-21af-d6de-afbf-b3ef5ef90000</guid>
+    </item>    <item>
+      <title>LAX Terminal 5 is getting torn down for rebuild before Olympics. What travelers need to know</title>
       <link>https://laist.com/news/transportation/lax-terminal-5-to-shut-down-for-revamp-ahead-of-2028-olympics</link>
       <description>
         <![CDATA[T5 will close down Tuesday, and airline operations will move to other terminals during construction.]]>
@@ -78,12 +86,12 @@
 The post [Animal Adoption Week Returns to Santa Clarita!](https://santaclarita.gov/blog/2025/10/25/animal-adoption-week-returns-to-santa-clarita/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
       <guid>cid://https://santaclarita.gov/?p=6878</guid>
     </item>    <item>
-      <title>A report claims left-wing terrorism is rising. The data paints a complicated picture</title>
+      <title>A controversial report claims left-wing terrorism is rising. The data paints a complicated picture</title>
       <link>https://laist.com/news/report-claims-left-wing-terrorism-rising-data-paints-complicated-picture</link>
       <description>
-        <![CDATA[While research has long held the far right to be the most persistent domestic terror threat, a controversial new report claims a reversal has taken place in 2025.]]>
+        <![CDATA[While research has long held the far right to be the most persistent domestic terror threat, a new report from the Center for Strategic and International Studies claims a reversal has taken place in 2025.]]>
       </description>
-      <source:markdown>While research has long held the far right to be the most persistent domestic terror threat, a controversial new report claims a reversal has taken place in 2025.</source:markdown>
+      <source:markdown>While research has long held the far right to be the most persistent domestic terror threat, a new report from the Center for Strategic and International Studies claims a reversal has taken place in 2025.</source:markdown>
       <guid>cid://urn:uuid:0000019a-1c3a-d84d-affa-defae9760000</guid>
     </item>    <item>
       <title>Murray Mednick, award-winning playwright and long-time SoCal theater influencer, dies at 86</title>
