@@ -4,10 +4,26 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>26 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>26 Oct 25 10:45 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Paws Up at Dogtoberfest</title>
+      <link>https://sundial.csun.edu/199222/multimedia/videos/paws-up-at-dogtoberfest/</link>
+      <description>
+        <![CDATA[Paw and beer lovers unite, Dogtoberfest is making its return to the South Coast Botanic Garden in Palos Verdes. The Bavarian-inspired event puts a furry spin on Oktoberfest. Dog owners...]]>
+      </description>
+      <source:markdown>Paw and beer lovers unite, Dogtoberfest is making its return to the South Coast Botanic Garden in Palos Verdes. The Bavarian-inspired event puts a furry spin on Oktoberfest. Dog owners...</source:markdown>
+      <guid>cid://https://sundial.csun.edu/?p=199222</guid>
+    </item>    <item>
+      <title>Women’s volleyball wins big against Long Beach State</title>
+      <link>https://sundial.csun.edu/199202/sports/womens-volleyball-wins-big-against-long-beach-state/</link>
+      <description>
+        <![CDATA[The Matadors bounced back from a shutout loss against UC Davis earlier in the week and toppled Long Beach State on Thursday night in a thriller at the Premier America...]]>
+      </description>
+      <source:markdown>The Matadors bounced back from a shutout loss against UC Davis earlier in the week and toppled Long Beach State on Thursday night in a thriller at the Premier America...</source:markdown>
+      <guid>cid://https://sundial.csun.edu/?p=199202</guid>
+    </item>    <item>
       <title>The Wombats electrify The Novo on International Wombat Day</title>
       <link>https://dailytrojan.com/2025/10/25/the-wombats-electrify-the-novo-on-international-wombat-day/</link>
       <description>

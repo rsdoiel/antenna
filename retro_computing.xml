@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>26 Oct 25 06:11 -0700</lastBuildDate>
+    <lastBuildDate>26 Oct 25 10:45 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2025/10/26 - Scanning a directory, Extended BBC BASIC,ReadCurrentTimeZone failure, Misery, Storm casualty, Pasta.</title>
+      <link>https://heyrick.eu/blog/entry/20251026</link>
+      <description>
+        <![CDATA[Scanning a directory, Extended BBC BASIC,ReadCurrentTimeZone failure, Misery, Storm casualty, Pasta.]]>
+      </description>
+      <source:markdown>Scanning a directory, Extended BBC BASIC,ReadCurrentTimeZone failure, Misery, Storm casualty, Pasta.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20251026</guid>
+    </item>    <item>
       <title>b.log 2025/10/25 - Tea v0.26.</title>
       <link>https://heyrick.eu/blog/entry/20251025</link>
       <description>

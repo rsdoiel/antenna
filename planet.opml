@@ -2,11 +2,12 @@
 <opml version="2.0">
     <head>
         <title>Planet News</title>
-        <dateCreated>26 Oct 25 06:11 -0700</dateCreated>
+        <dateCreated>26 Oct 25 10:45 -0700</dateCreated>
     </head>
     <body>
         <outline text="CBC, Indigenious News" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-Indigenous" htmlUrl="https://www.cbc.ca/news/indigenous/?cmp=rss" description="FOR PERSONAL USE ONLY"></outline>
         <outline text="CBC, World News" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-world" htmlUrl="https://www.cbc.ca/news/world/?cmp=rss" description="FOR PERSONAL USE ONLY"></outline>
+        <outline text="De Spiegel" type="rss" xmlUrl="https://www.spiegel.de/schlagzeilen/index.rss" htmlUrl="https://www.spiegel.de/,https://www.spiegel.de/schlagzeilen/index.rss" description="Deutschlands führende Nachrichtenseite. Alles Wichtige aus Politik, Wirtschaft, Sport, Kultur, Wissenschaft, Technik und mehr." url="https://www.spiegel.de/schlagzeilen/index.rss"></outline>
         <outline text="Heise Online" type="atom" xmlUrl="https://www.heise.de/rss/heise-atom.xml" htmlUrl="https://www.heise.de/rss/heise-atom.xml,https://www.heise.de/" description="Nachrichten nicht nur aus der Welt der Computer" url="https://www.heise.de/rss/heise-atom.xml"></outline>
         <outline text="PBS World Podcast" type="rss" category="News" xmlUrl="https://www.pbs.org/newshour/feeds/rss/podcasts/world" htmlUrl="https://www.pbs.org/newshour/world,https://www.pbs.org/newshour/feeds/rss/podcasts/world" description="Learn more about your world through in-depth analysis and on-the-ground reports. (Updated periodically) PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy" url="https://www.pbs.org/newshour/feeds/rss/podcasts/world"></outline>
         <outline text="RTÉ News" type="rss" xmlUrl="https://www.rte.ie/feeds/rss/?index=/news/" htmlUrl="https://www.rte.ie/news/,https://www.rte.ie/feeds/rss/?index=/news/" url="https://www.rte.ie/feeds/rss/?index=/news/"></outline>

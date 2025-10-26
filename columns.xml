@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>26 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>26 Oct 25 10:45 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,235 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>The Sad State of Macintosh Hardware Back in 2018, at the Tail End of the Intel Era</title>
+      <link>https://weblog.rogueamoeba.com/2018/06/14/on-the-sad-state-of-macintosh-hardware/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42315</guid>
+    </item>    <item>
+      <title>We Protested, Now What?</title>
+      <link>https://ourfuture.org/20251026/we-protested-now-what</link>
+      <description>
+        <![CDATA[We stand ready, and we stand together. We will resist while we still can, and impose costs when we must on those who trade away our freedoms and dignity for profits. My heart swells as I think of the more than 7 million people who poured into the streets for No Kings rallies last Sunday. [&#8230;]
+        <p><a href="https://ourfuture.org/20251026/we-protested-now-what" rel="nofollow">Source</a></p>]]>
+      </description>
+      <source:markdown>We stand ready, and we stand together. We will resist while we still can, and impose costs when we must on those who trade away our freedoms and dignity for profits. My heart swells as I think of the more than 7 million people who poured into the streets for No Kings rallies last Sunday. \[…\]
+
+[Source](https://ourfuture.org/20251026/we-protested-now-what)</source:markdown>
+      <guid>cid://https://ourfuture.org/?p=234723</guid>
+    </item>    <item>
+      <title>¿Ya protestamos, y ahora que sigue?</title>
+      <link>https://ourfuture.org/20251026/ya-protestamos-y-ahora-que-sigue</link>
+      <description>
+        <![CDATA[Estamos preparados y unidos. Resistiremos mientras podamos y, cuando sea necesario, les impondremos costos a quienes sacrifican nuestras libertades y dignidad por ganancias. Se me llena el corazón cuando pienso en las más de 7 millones de personas que salieron a las calles el domingo pasado para las manifestaciones de No Kings. En cada rincón [&#8230;]
+        <p><a href="https://ourfuture.org/20251026/ya-protestamos-y-ahora-que-sigue" rel="nofollow">Source</a></p>]]>
+      </description>
+      <source:markdown>Estamos preparados y unidos. Resistiremos mientras podamos y, cuando sea necesario, les impondremos costos a quienes sacrifican nuestras libertades y dignidad por ganancias. Se me llena el corazón cuando pienso en las más de 7 millones de personas que salieron a las calles el domingo pasado para las manifestaciones de No Kings. En cada rincón \[…\]
+
+[Source](https://ourfuture.org/20251026/ya-protestamos-y-ahora-que-sigue)</source:markdown>
+      <guid>cid://https://ourfuture.org/?p=234732</guid>
+    </item>    <item>
+      <title>Sora might have a &#39;pervert&#39; problem on its hands</title>
+      <link>https://simonwillison.net/2025/Oct/26/sora-pervert-problem/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://www.businessinsider.com/sora-video-openai-fetish-content-my-face-problem-2025-10">Sora might have a &#x27;pervert&#x27; problem on its hands</a></strong></p>
+        Katie Notopoulos turned on the Sora 2 option where anyone can make a video featuring her cameo, and then:</p>
+        <blockquote>
+        <p>I found a stranger had made a video where I appeared pregnant. A quick look at the user's profile, and I saw that this person's entire Sora profile was made up of this genre — video after video of women with big, pregnant bellies. I recognized immediately what this was: fetish content.</p>
+        </blockquote>
+        <p>This feels like an intractable problem to me: given the enormous array of fetishes it's hard to imagine a classifier that could protect people from having their likeness used in this way.</p>
+        <p>Best to be aware of this risk before turning on any settings that allow strangers to reuse your image... and that's only an option for tools that implement a robust opt-in mechanism like Sora does.
+        
+            <p><small></small>Via <a href="https://daringfireball.net/linked/2025/10/25/sora-perverts">John Gruber</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/video-models">video-models</a></p>]]>
+      </description>
+      <source:markdown>**[Sora might have a &#39;pervert&#39; problem on its hands](https://www.businessinsider.com/sora-video-openai-fetish-content-my-face-problem-2025-10)**
+
+Katie Notopoulos turned on the Sora 2 option where anyone can make a video featuring her cameo, and then:
+
+&#62; I found a stranger had made a video where I appeared pregnant. A quick look at the user&#39;s profile, and I saw that this person&#39;s entire Sora profile was made up of this genre — video after video of women with big, pregnant bellies. I recognized immediately what this was: fetish content.
+
+This feels like an intractable problem to me: given the enormous array of fetishes it&#39;s hard to imagine a classifier that could protect people from having their likeness used in this way.
+
+Best to be aware of this risk before turning on any settings that allow strangers to reuse your image... and that&#39;s only an option for tools that implement a robust opt-in mechanism like Sora does.
+
+
+
+Via [John Gruber](https://daringfireball.net/linked/2025/10/25/sora-perverts)
+
+Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [ai-ethics](https://simonwillison.net/tags/ai-ethics), [video-models](https://simonwillison.net/tags/video-models)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/26/sora-pervert-problem/#atom-everything</guid>
+    </item>    <item>
+      <title>Putting the ‘Public’ Back in Public Editor.</title>
+      <link>https://fallows.substack.com/p/putting-the-public-back-in-public</link>
+      <description>
+        <![CDATA[When the NYT eliminated its Public Editor position, it said that &#8216;readers across the internet&#8217; could do the same job, better. Here is what I learned from unexpectedly giving that system a try.]]>
+      </description>
+      <source:markdown>When the NYT eliminated its Public Editor position, it said that ‘readers across the internet’ could do the same job, better. Here is what I learned from unexpectedly giving that system a try.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!94Yk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd51739b-b6ad-4bb4-be0f-4d30879308eb_2048x1351.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://fallows.substack.com/p/putting-the-public-back-in-public</guid>
+    </item>    <item>
+      <title>2026 is the year of fine-tuned small models</title>
+      <link>https://seldo.com/posts/2026-is-the-year-of-fine-tuned-small-models</link>
+      <guid>cid://com.seldo/posts/2026-is-the-year-of-fine-tuned-small-models</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m44dzx3x6c2o</link>
+      <description>
+        <![CDATA[The erasure of our shared history gets coverage in a British paper, https://www.theguardian.com/us-news/2025/oct/26/mount-rushmore-native-american-history]]>
+      </description>
+      <source:markdown>The erasure of our shared history gets coverage in a British paper, https://www.theguardian.com/us-news/2025/oct/26/mount-rushmore-native-american-history</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m44dzx3x6c2o</guid>
+    </item>    <item>
+      <title>The Scenario Where ChatGPT’s WhatsApp Gateway Was Useful: Airplane Wi-Fi</title>
+      <link>https://daringfireball.net/linked/2025/10/24/meta-whatsapp-rival-chatbot-ban</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42314</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m446dmrxac24</link>
+      <description>
+        <![CDATA[Lots of RISC OS notes.
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>Lots of RISC OS notes.
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m446dmrxac24</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m445i2o5722x</link>
+      <description>
+        <![CDATA[Good questions. Someone should ask Mike.
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>Good questions. Someone should ask Mike.
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m445i2o5722x</guid>
+    </item>    <item>
+      <title>Responses</title>
+      <link>https://adactio.com/journal/22213</link>
+      <description>
+        <![CDATA[<p>I had a very pleasant experience last week while I was reading through the RSS feeds I’m subscribed to. I came across two blog posts that were responding to blog posts of my own.</p>
+        
+        <p><a href="https://www.robinsloan.com/lab/clarity/">Robin Sloan wrote a post clarifying his position</a> after I linked to him in <a href="https://adactio.com/journal/22177">my post about the slipperiness of the term “AI”</a>.</p>
+        
+        <p>Then <a href="https://blog.jim-nielsen.com/2025/research-alt/">Jim Nielsen wrote a deliciously satirical piece</a> in response to <a href="https://adactio.com/journal/22183">my pithy little parable about research</a>.</p>
+        
+        <p>I love it when this happens!</p>
+        
+        <p>Elizabeth Spiers recently wrote a piece called <a href="https://talkingpointsmemo.com/tpm-25/what-made-blogging-different"><cite>What Made Blogging Different?</cite></a>:</p>
+        
+        <blockquote>
+          <p>And if they wanted to respond to you, they had to do it on their own blog, and link back. The effect of this was that there were few equivalents of the worst aspects of social media that broke through.</p>
+        </blockquote>
+        
+        <p>It’s so true. I feel like a response from someone’s own website is exponentially more valuable than a response on Bluesky, Mastodon, Instagram, or any other social media platform.</p>
+        
+        <p>Don’t get me wrong: I absolutely love the way that <a href="https://brid.gy/">Brid.gy</a> will send those social-media responses right back here to my own site in the form of <a href="https://en.wikipedia.org/wiki/Webmention">webmentions</a>. It also pings me whenever someone likes or shares a post of mine. But I’ve noticed that I’m not that interested in those anymore.</p>
+        
+        <p>Maybe those low-investment actions were carried over from the old days of Twitter just because that’s the way things were always done, without us really asking whether they serve much purpose.</p>
+        
+        <p>Right now I accept these likes and shares as webmentions. I display a tally of each kind of response under my posts. But I’m not sure why I’m doing it. I don’t particularly care about these numbers. I’m pretty sure no one else cares either.</p>
+        
+        <p>If I cared, then they’d be vanity metrics. As it is they’re more like zombie metrics. I should probably just put them out of their misery.</p>]]>
+      </description>
+      <source:markdown>I had a very pleasant experience last week while I was reading through the RSS feeds I’m subscribed to. I came across two blog posts that were responding to blog posts of my own.
+
+[Robin Sloan wrote a post clarifying his position](https://www.robinsloan.com/lab/clarity/) after I linked to him in [my post about the slipperiness of the term “AI”](https://adactio.com/journal/22177).
+
+Then [Jim Nielsen wrote a deliciously satirical piece](https://blog.jim-nielsen.com/2025/research-alt/) in response to [my pithy little parable about research](https://adactio.com/journal/22183).
+
+I love it when this happens!
+
+Elizabeth Spiers recently wrote a piece called [What Made Blogging Different?](https://talkingpointsmemo.com/tpm-25/what-made-blogging-different):
+
+&#62; And if they wanted to respond to you, they had to do it on their own blog, and link back. The effect of this was that there were few equivalents of the worst aspects of social media that broke through.
+
+It’s so true. I feel like a response from someone’s own website is exponentially more valuable than a response on Bluesky, Mastodon, Instagram, or any other social media platform.
+
+Don’t get me wrong: I absolutely love the way that [Brid.gy](https://brid.gy/) will send those social-media responses right back here to my own site in the form of [webmentions](https://en.wikipedia.org/wiki/Webmention). It also pings me whenever someone likes or shares a post of mine. But I’ve noticed that I’m not that interested in those anymore.
+
+Maybe those low-investment actions were carried over from the old days of Twitter just because that’s the way things were always done, without us really asking whether they serve much purpose.
+
+Right now I accept these likes and shares as webmentions. I display a tally of each kind of response under my posts. But I’m not sure why I’m doing it. I don’t particularly care about these numbers. I’m pretty sure no one else cares either.
+
+If I cared, then they’d be vanity metrics. As it is they’re more like zombie metrics. I should probably just put them out of their misery.</source:markdown>
+      <guid>cid://https://adactio.com/journal/22213</guid>
+    </item>    <item>
+      <title>House of Dynamite</title>
+      <link>http://scripting.com/2025/10/26/141114.html?title=houseOfDynamite</link>
+      <description>
+        <![CDATA[<p><a href="https://www.metacritic.com/movie/a-house-of-dynamite/">House of Dynamite</a> is a fantastic movie, it deserved the great reviews it's getting, and I found it easy to watch, though a lot of reviewers said it wasn't. It's exactly the kind of movie I like -- political thriller with ideas rich with intrigue. Great acting and writing. It's the 2025 version of Fail Safe. Both are like stage play, but this one examines the story from all angles, very skillfully, so the story is told iteratively. </p>
+        <p>The president in this story is throughtful and deliberative with no time to think. </p>
+        <p>It's provocative because the person who would make that choice <i>now</i> just destroyed part of the most famous building in the country on a whim, presumably to show us he has the power to destroy things, which you will not doubt even slightly when you watch House of Dynamite. </p>
+        <p>As you watch the movie, hold the thought in the back of your mind. What would Trump do. There was a time when we chose presidents based on our willingness them to have them decide whether or not to launch the nukes. We lost that perspective, but the problem never went away. </p>]]>
+      </description>
+      <source:markdown>[House of Dynamite](https://www.metacritic.com/movie/a-house-of-dynamite/) is a fantastic movie, it deserved the great reviews it&#39;s getting, and I found it easy to watch, though a lot of reviewers said it wasn&#39;t. It&#39;s exactly the kind of movie I like -- political thriller with ideas rich with intrigue. Great acting and writing. It&#39;s the 2025 version of Fail Safe. Both are like stage play, but this one examines the story from all angles, very skillfully, so the story is told iteratively.
+
+The president in this story is throughtful and deliberative with no time to think.
+
+It&#39;s provocative because the person who would make that choice _now_ just destroyed part of the most famous building in the country on a whim, presumably to show us he has the power to destroy things, which you will not doubt even slightly when you watch House of Dynamite.
+
+As you watch the movie, hold the thought in the back of your mind. What would Trump do. There was a time when we chose presidents based on our willingness them to have them decide whether or not to launch the nukes. We lost that perspective, but the problem never went away.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/26/141114.html</guid>
+    </item>    <item>
+      <title>Vote your chess move</title>
+      <link>http://scripting.com/2025/10/26/140248.html?title=voteYourChessMove</link>
+      <description>
+        <![CDATA[<p><a href="https://www.thenation.com/article/archive/the-2000-election-unleashed-disaster-on-the-world-we-cant-let-that-happen-again-in-2016/">Rebecca Solnit</a>: "I think of voting as a chess move, not a valentine."</p>
+        <p>I changed the <a href="https://imgs.scripting.com/2025/10/26/deBlasioPolice.png?nodialog">header graphic</a> on Scripting News today to raise a question with NYC voters. </p>
+        <p><a href="https://en.wikipedia.org/wiki/Bill_de_Blasio">Bill de Blasio</a> was mayor. A funeral for two murdered cops. The police stand at attention, their <a href="https://imgs.scripting.com/2025/10/26/deBlasioPolice.png?nodialog">backs turned</a> on the mayor. This was a statement about him for sure, but even more about their disdain for the people who elected him, you and me, the people they're sworn to protect. I grew up in NY, and had plenty of experience with NY cops and this kind of disrespect is, from my point of view, who they are. I know they see themselves as martyrs, that's what the demonstration meant. But they also have a job to do and a chain of command.</p>
+        <p>There's a lot of pent up resentment and you can't just wish it away. The mayor, for better or worse, owns it. I can't imagine they'd have much respect for the Democratic Party nominee. Like it or not, this is the city NYers live in. </p>
+        <p>I am old enough to remember when <a href="https://en.wikipedia.org/wiki/John_Lindsay">John Lindsay</a>, a liberal Republican, back when there were such things, was the newly elected mayor in 1966 and was greeted by a transit strike, shutting down subways and buses. The unions walked all over him. Welcome to NY. </p>
+        <p>I think NYC and NYers will fare better with a <a href="https://en.wikipedia.org/wiki/Andrew_Cuomo">Andrew Cuomo</a>. </p>
+        <p>This isn't the first time I've stood up for him <a href="https://daytona.scripting.com/search?q=cuomo">on this blog</a>. He did resign in disgrace, humiliated, but I never will forget his leadership during the darkest times of Covid. Cuomo, along with <a href="https://www.nytimes.com/by/donald-g-mcneil-jr">Donald McNeil</a> at the NY Times and <a href="https://en.wikipedia.org/wiki/Anthony_Fauci">Dr Anthony Fauci</a> were the bright beams of intelligence and compassion. You may think differently, but I haven't forgotten.</p>]]>
+      </description>
+      <source:markdown>[Rebecca Solnit](https://www.thenation.com/article/archive/the-2000-election-unleashed-disaster-on-the-world-we-cant-let-that-happen-again-in-2016/): &#34;I think of voting as a chess move, not a valentine.&#34;
+
+I changed the [header graphic](https://imgs.scripting.com/2025/10/26/deBlasioPolice.png?nodialog) on Scripting News today to raise a question with NYC voters.
+
+[Bill de Blasio](https://en.wikipedia.org/wiki/Bill_de_Blasio) was mayor. A funeral for two murdered cops. The police stand at attention, their [backs turned](https://imgs.scripting.com/2025/10/26/deBlasioPolice.png?nodialog) on the mayor. This was a statement about him for sure, but even more about their disdain for the people who elected him, you and me, the people they&#39;re sworn to protect. I grew up in NY, and had plenty of experience with NY cops and this kind of disrespect is, from my point of view, who they are. I know they see themselves as martyrs, that&#39;s what the demonstration meant. But they also have a job to do and a chain of command.
+
+There&#39;s a lot of pent up resentment and you can&#39;t just wish it away. The mayor, for better or worse, owns it. I can&#39;t imagine they&#39;d have much respect for the Democratic Party nominee. Like it or not, this is the city NYers live in.
+
+I am old enough to remember when [John Lindsay](https://en.wikipedia.org/wiki/John_Lindsay), a liberal Republican, back when there were such things, was the newly elected mayor in 1966 and was greeted by a transit strike, shutting down subways and buses. The unions walked all over him. Welcome to NY.
+
+I think NYC and NYers will fare better with a [Andrew Cuomo](https://en.wikipedia.org/wiki/Andrew_Cuomo).
+
+This isn&#39;t the first time I&#39;ve stood up for him [on this blog](https://daytona.scripting.com/search?q=cuomo). He did resign in disgrace, humiliated, but I never will forget his leadership during the darkest times of Covid. Cuomo, along with [Donald McNeil](https://www.nytimes.com/by/donald-g-mcneil-jr) at the NY Times and [Dr Anthony Fauci](https://en.wikipedia.org/wiki/Anthony_Fauci) were the bright beams of intelligence and compassion. You may think differently, but I haven&#39;t forgotten.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/26/140248.html</guid>
+    </item>    <item>
+      <title>Roger Pielke Jr.’s Appallingly Bad Analysis of Billion Dollar Disasters</title>
+      <link>https://economicsfromthetopdown.com/2025/10/26/roger-pielke-jr-s-appallingly-bad-analysis-of-billion-dollar-disasters/</link>
+      <description>
+        <![CDATA[<p><img width="150" height="150" src="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/10/bdd_cover.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/10/bdd_cover.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/10/bdd_cover.png?resize=450%2C450&amp;ssl=1 450w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/10/bdd_cover.png?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/10/bdd_cover.png?resize=550%2C550&amp;ssl=1 550w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/10/bdd_cover.png?zoom=2&amp;resize=150%2C150&amp;ssl=1 300w" sizes="(max-width: 150px) 100vw, 150px" data-attachment-id="14213" data-permalink="https://economicsfromthetopdown.com/bdd_cover/" data-orig-file="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/10/bdd_cover.png?fit=1280%2C856&amp;ssl=1" data-orig-size="1280,856" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="bdd_cover" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/10/bdd_cover.png?fit=300%2C201&amp;ssl=1" data-large-file="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/10/bdd_cover.png?fit=723%2C484&amp;ssl=1" />In a recent paper called <i>Scientific integrity and U.S. “Billion Dollar Disasters”</i>, Roger Pielke Jr. published a chart that's so bad I've devoted a whole essay to debunking it.</p>
+        <p>The post <a href="https://economicsfromthetopdown.com/2025/10/26/roger-pielke-jr-s-appallingly-bad-analysis-of-billion-dollar-disasters/">Roger Pielke Jr.’s Appallingly Bad Analysis of Billion Dollar Disasters</a> appeared first on <a href="https://economicsfromthetopdown.com">Economics from the Top Down</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/10/bdd_cover.png?resize=150%2C150&#38;ssl=1)In a recent paper called _Scientific integrity and U.S. “Billion Dollar Disasters”_, Roger Pielke Jr. published a chart that&#39;s so bad I&#39;ve devoted a whole essay to debunking it.
+
+The post [Roger Pielke Jr.’s Appallingly Bad Analysis of Billion Dollar Disasters](https://economicsfromthetopdown.com/2025/10/26/roger-pielke-jr-s-appallingly-bad-analysis-of-billion-dollar-disasters/) appeared first on [Economics from the Top Down](https://economicsfromthetopdown.com).</source:markdown>
+      <enclosure url="https://economicsfromthetopdown.com/wp-content/uploads/2025/10/fix_bad_billions_20251026.mp3" length="51469445" type="audio/mpeg" />
+      <guid>cid://https://economicsfromthetopdown.com/?p=14137</guid>
+    </item>    <item>
+      <title>Layoutit Terra - CSS Terrain Generator</title>
+      <link>https://terra.layoutit.com/</link>
+      <description>
+        <![CDATA[<p>It&#8217;s wild what you can do with CSS these days!</p>
+        
+        <p><a href="https://adactio.com/links/22212">adactio.com/links/22212</a></p>]]>
+      </description>
+      <source:markdown>It’s wild what you can do with CSS these days!
+
+[adactio.com/links/22212](https://adactio.com/links/22212)</source:markdown>
+      <guid>cid://https://terra.layoutit.com/</guid>
+    </item>    <item>
+      <link>https://www.metacritic.com/movie/a-house-of-dynamite/</link>
+      <description>
+        <![CDATA[<p>A House of Dynamite deserves the stellar reviews it has been getting.</p>]]>
+      </description>
+      <source:markdown>A House of Dynamite deserves the stellar reviews it has been getting.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/26/1685/</guid>
     </item>    <item>
       <title>The AI Gold Rush Is Cover for a Class War</title>
       <link>https://jacobin.com/2025/10/artificial-intelligence-big-tech-labor/</link>
@@ -16033,13 +16262,6 @@ La entrada [La libertad de Fierro: un relato de resistencia y sanación](https:/
       <source:markdown>Finding Better Ways to Work.</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!-3Vl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2930195-1172-4e98-8038-ccd2e0f30937_792x792.heic" length="0" type="image/jpeg" />
       <guid>cid://https://guykawasaki.substack.com/p/where-leaders-go-wrong</guid>
-    </item>    <item>
-      <link>https://www.metacritic.com/movie/a-house-of-dynamite/</link>
-      <description>
-        <![CDATA[<p>A House of Dynamite sounds like a movie I'd enjoy. Like Fail Safe or Dr Strangelove.</p>]]>
-      </description>
-      <source:markdown>A House of Dynamite sounds like a movie I&#39;d enjoy. Like Fail Safe or Dr Strangelove.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/09/1457/</guid>
     </item>    <item>
       <title>The Discord Hack is Every User’s Worst Nightmare</title>
       <link>https://www.404media.co/the-discord-hack-is-every-users-worst-nightmare/</link>

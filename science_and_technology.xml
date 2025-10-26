@@ -4,14 +4,72 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>26 Oct 25 06:11 -0700</lastBuildDate>
+    <lastBuildDate>26 Oct 25 10:45 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Vorfahrt für WLAN: Digitalminister Wildberger soll 6-GHz-Band für WLAN sichern</title>
+      <link>https://www.heise.de/news/Vorfahrt-fuer-WLAN-Digitalminister-Wildberger-soll-6-GHz-Band-fuer-WLAN-sichern-10900131.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Neben Verbänden fordern Firmen wie Deutsche Glasfaser, EWE TEL, Fritz, HPE und NetCologne die komplette Freigabe des oberen 6-GHz-Bandes für WLAN auf EU-Ebene.]]>
+      </description>
+      <source:markdown>Neben Verbänden fordern Firmen wie Deutsche Glasfaser, EWE TEL, Fritz, HPE und NetCologne die komplette Freigabe des oberen 6-GHz-Bandes für WLAN auf EU-Ebene.</source:markdown>
+      <guid>cid://http://heise.de/-10900131</guid>
+    </item>    <item>
+      <title>Bundesinnenminister will &#34;Abwehrschläge&#34; gegen Cyberangriffe ermöglichen</title>
+      <link>https://www.heise.de/news/Bundesinnenminister-will-Abwehrschlaege-gegen-Cyberangriffe-ermoeglichen-10900063.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Bundesinnenminister Alexander Dobrindt möchte das Gesetz ändern, um sich besser gegen Cyberangriffe zu wehren – konkret gehe es um "Abwehrschläge".]]>
+      </description>
+      <source:markdown>Bundesinnenminister Alexander Dobrindt möchte das Gesetz ändern, um sich besser gegen Cyberangriffe zu wehren – konkret gehe es um &#34;Abwehrschläge&#34;.</source:markdown>
+      <guid>cid://http://heise.de/-10900063</guid>
+    </item>    <item>
+      <title>Microsofts Gaming Copilot macht Screenshots – aber nicht für KI-Training</title>
+      <link>https://www.heise.de/news/Microsofts-Gaming-Copilot-macht-Screenshots-aber-nicht-fuer-KI-Training-10900091.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Auf Vorwürfe, dass PC-Spieler mit der neuen Funktion überwacht würden, hat Microsoft nun reagiert. Die Antworten sind jedoch nicht ganz eindeutig.]]>
+      </description>
+      <source:markdown>Auf Vorwürfe, dass PC-Spieler mit der neuen Funktion überwacht würden, hat Microsoft nun reagiert. Die Antworten sind jedoch nicht ganz eindeutig.</source:markdown>
+      <guid>cid://http://heise.de/-10900091</guid>
+    </item>    <item>
+      <title>The AI Inflection Point Isn’t in the Cloud, It’s at the Edge</title>
+      <link>https://thenewstack.io/the-ai-inflection-point-isnt-in-the-cloud-its-at-the-edge/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/7a93734e-agentic-ai-edge-2-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Cloud-shrouded mountain" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/7a93734e-agentic-ai-edge-2.jpg" /><p>AI model development has reached an inflection point, bringing high-performance computing capabilities typically reserved for the cloud out to edge</p>
+        <p>The post <a href="https://thenewstack.io/the-ai-inflection-point-isnt-in-the-cloud-its-at-the-edge/">The AI Inflection Point Isn&#8217;t in the Cloud, It&#8217;s at the Edge</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Cloud-shrouded mountain](https://cdn.thenewstack.io/media/2025/10/7a93734e-agentic-ai-edge-2-1024x576.jpg)
+
+AI model development has reached an inflection point, bringing high-performance computing capabilities typically reserved for the cloud out to edge
+
+The post [The AI Inflection Point Isn’t in the Cloud, It’s at the Edge](https://thenewstack.io/the-ai-inflection-point-isnt-in-the-cloud-its-at-the-edge/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22803992</guid>
+    </item>    <item>
+      <title>Laptop AOC AX16 Pro im Test: Ryzen 7 und gute Verarbeitung für rund 400 Euro</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/laptop-aoc-ax16-pro-im-test-ryzen-7-und-gute-verarbeitung-fuer-rund-400-euro/hex1se8?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der AOC AX16 Pro lockt mit einem Kampfpreis und bietet dafür einen AMD Ryzen 7, 16 GB RAM und eine 512 GB große SSD. Gibt es einen Haken?]]>
+      </description>
+      <source:markdown>Der AOC AX16 Pro lockt mit einem Kampfpreis und bietet dafür einen AMD Ryzen 7, 16 GB RAM und eine 512 GB große SSD. Gibt es einen Haken?</source:markdown>
+      <guid>cid://http://heise.de/-10900003</guid>
+    </item>    <item>
+      <title>Ubuntu 25.10 Scraps X11 for Wayland: A Solid Step Forward</title>
+      <link>https://thenewstack.io/ubuntu-25-10-scraps-x11-for-wayland-a-solid-step-forward/</link>
+      <description>
+        <![CDATA[<img width="1024" height="639" src="https://cdn.thenewstack.io/media/2025/10/56364467-ubuntu2510-1024x639.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/56364467-ubuntu2510.jpg" /><p>I love a good Ubuntu release. Part of the reason is that all of that newness will trickle down to</p>
+        <p>The post <a href="https://thenewstack.io/ubuntu-25-10-scraps-x11-for-wayland-a-solid-step-forward/">Ubuntu 25.10 Scraps X11 for Wayland: A Solid Step Forward</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/10/56364467-ubuntu2510-1024x639.jpg)
+
+I love a good Ubuntu release. Part of the reason is that all of that newness will trickle down to
+
+The post [Ubuntu 25.10 Scraps X11 for Wayland: A Solid Step Forward](https://thenewstack.io/ubuntu-25-10-scraps-x11-for-wayland-a-solid-step-forward/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22803570</guid>
+    </item>    <item>
       <title>Ken Thompson Recalls Unix’s Rowdy, Lock-Picking Origins</title>
       <link>https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/</link>
       <description>
-        <![CDATA[<img width="1024" height="678" src="https://cdn.thenewstack.io/media/2025/11/91ab99cb-ken-thompson-2024-screenshot-from-computer-history-museum-acm-oral-history-1024x678.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/91ab99cb-ken-thompson-2024-screenshot-from-computer-history-museum-acm-oral-history.png" /><p>The 82-year-old Ken Thompson has some amazing memories about the earliest days of the Unix operating system &#8212; and the</p>
+        <![CDATA[<img width="1024" height="678" src="https://cdn.thenewstack.io/media/2025/11/91ab99cb-ken-thompson-2024-screenshot-from-computer-history-museum-acm-oral-history-1024x678.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/91ab99cb-ken-thompson-2024-screenshot-from-computer-history-museum-acm-oral-history.png" /><p>The 82-year-old Ken Thompson has some amazing memories about the earliest days of the Unix operating system &#8212; and the</p>
         <p>The post <a href="https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/">Ken Thompson Recalls Unix&#8217;s Rowdy, Lock-Picking Origins</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/91ab99cb-ken-thompson-2024-screenshot-from-computer-history-museum-acm-oral-history-1024x678.png)
