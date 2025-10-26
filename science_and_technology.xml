@@ -4,10 +4,23 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>26 Oct 25 10:45 -0700</lastBuildDate>
+    <lastBuildDate>26 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>OpenTelemetry Adoption Update: Rust, Prometheus and Other Speed Bumps</title>
+      <link>https://thenewstack.io/opentelemetry-adoption-update-rust-prometheus-and-other-speed-bumps/</link>
+      <description>
+        <![CDATA[<img width="1024" height="732" src="https://cdn.thenewstack.io/media/2025/10/884f56d6-john-cardamone-nxh2zbyjc4a-unsplash-1-1024x732.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/884f56d6-john-cardamone-nxh2zbyjc4a-unsplash-1.jpg" /><p>OpenTelemetry is arguably living up to its hype. The open source project for observability has evolved over the last few</p>
+        <p>The post <a href="https://thenewstack.io/opentelemetry-adoption-update-rust-prometheus-and-other-speed-bumps/">OpenTelemetry Adoption Update: Rust, Prometheus and Other Speed Bumps</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/10/884f56d6-john-cardamone-nxh2zbyjc4a-unsplash-1-1024x732.jpg)
+
+OpenTelemetry is arguably living up to its hype. The open source project for observability has evolved over the last few
+
+The post [OpenTelemetry Adoption Update: Rust, Prometheus and Other Speed Bumps](https://thenewstack.io/opentelemetry-adoption-update-rust-prometheus-and-other-speed-bumps/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804352</guid>
+    </item>    <item>
       <title>Vorfahrt für WLAN: Digitalminister Wildberger soll 6-GHz-Band für WLAN sichern</title>
       <link>https://www.heise.de/news/Vorfahrt-fuer-WLAN-Digitalminister-Wildberger-soll-6-GHz-Band-fuer-WLAN-sichern-10900131.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
@@ -35,7 +48,7 @@
       <title>The AI Inflection Point Isn’t in the Cloud, It’s at the Edge</title>
       <link>https://thenewstack.io/the-ai-inflection-point-isnt-in-the-cloud-its-at-the-edge/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/7a93734e-agentic-ai-edge-2-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Cloud-shrouded mountain" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/7a93734e-agentic-ai-edge-2.jpg" /><p>AI model development has reached an inflection point, bringing high-performance computing capabilities typically reserved for the cloud out to edge</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/7a93734e-agentic-ai-edge-2-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Cloud-shrouded mountain" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/7a93734e-agentic-ai-edge-2.jpg" /><p>AI model development has reached an inflection point, bringing high-performance computing capabilities typically reserved for the cloud out to edge</p>
         <p>The post <a href="https://thenewstack.io/the-ai-inflection-point-isnt-in-the-cloud-its-at-the-edge/">The AI Inflection Point Isn&#8217;t in the Cloud, It&#8217;s at the Edge</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![Cloud-shrouded mountain](https://cdn.thenewstack.io/media/2025/10/7a93734e-agentic-ai-edge-2-1024x576.jpg)

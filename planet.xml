@@ -4,11 +4,20 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>26 Oct 25 10:45 -0700</lastBuildDate>
+    <lastBuildDate>26 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Grünenchef Banaszak sieht »Angsträume«</title>
+      <title>Vogelgrippe: Betrieb in Neuhardenberg in Brandenburg tötet 130.000 Tiere</title>
+      <link>https://www.spiegel.de/panorama/vogelgrippe-betrieb-in-neuhardenberg-in-brandenburg-toetet-130-000-tiere-a-3226de16-eb96-4ee6-a765-168261a87dae#ref=rss</link>
+      <description>
+        <![CDATA[Der Höhepunkt der Infektionswelle ist noch nicht erreicht, dennoch sind bundesweit schon rund 400.000 Vögel gekeult worden. Besonders hart trifft es einen Betrieb in Neuhardenberg. Erstmals sind auch Wildvögel betroffen.]]>
+      </description>
+      <source:markdown>Der Höhepunkt der Infektionswelle ist noch nicht erreicht, dennoch sind bundesweit schon rund 400.000 Vögel gekeult worden. Besonders hart trifft es einen Betrieb in Neuhardenberg. Erstmals sind auch Wildvögel betroffen.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/7cf90fbb-6e29-4257-a170-907b4871c3af_w520_r2.08_fpx45.35_fpy50.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/panorama/vogelgrippe-betrieb-in-neuhardenberg-in-brandenburg-toetet-130-000-tiere-a-3226de16-eb96-4ee6-a765-168261a87dae</guid>
+    </item>    <item>
+      <title>Grünenchef Felix Banaszak sieht »Angsträume«</title>
       <link>https://www.spiegel.de/politik/deutschland/gruenenchef-banaszak-sieht-angstraeume-a-82a192e1-78b6-4994-a405-f3b5abbe6613#ref=rss</link>
       <description>
         <![CDATA[Der Grünenvorsitzende Felix Banaszak sagt, in Deutschland gebe es Orte, wo sich Menschen in der Dunkelheit kaum noch auf die Straße trauen. Darüber müsse man sprechen – allerdings nicht so wie der Bundeskanzler.]]>

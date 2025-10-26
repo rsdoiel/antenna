@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>26 Oct 25 10:45 -0700</lastBuildDate>
+    <lastBuildDate>26 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -235,6 +235,15 @@ I think NYC and NYers will fare better with a [Andrew Cuomo](https://en.wikipedi
 
 This isn&#39;t the first time I&#39;ve stood up for him [on this blog](https://daytona.scripting.com/search?q=cuomo). He did resign in disgrace, humiliated, but I never will forget his leadership during the darkest times of Covid. Cuomo, along with [Donald McNeil](https://www.nytimes.com/by/donald-g-mcneil-jr) at the NY Times and [Dr Anthony Fauci](https://en.wikipedia.org/wiki/Anthony_Fauci) were the bright beams of intelligence and compassion. You may think differently, but I haven&#39;t forgotten.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/26/140248.html</guid>
+    </item>    <item>
+      <title>432: ‘You and Frank Sinatra’, With Dan Moren</title>
+      <link>https://daringfireball.net/thetalkshow/2025/10/26/ep-432</link>
+      <description>
+        <![CDATA[Dan Moren returns to the show. Topics include Atlas, ChatGPT's new web browser (or anti-web browser) for the Mac; Apple's loss in a "landmark" regulatory lawsuit in the UK regarding App Store commission rates; multiple reports of poor sales for the iPhone Air; and Apple's M5 product announcements: MacBook Pro, iPads Pro, and Vision Pro.]]>
+      </description>
+      <source:markdown>Dan Moren returns to the show. Topics include Atlas, ChatGPT&#39;s new web browser (or anti-web browser) for the Mac; Apple&#39;s loss in a &#34;landmark&#34; regulatory lawsuit in the UK regarding App Store commission rates; multiple reports of poor sales for the iPhone Air; and Apple&#39;s M5 product announcements: MacBook Pro, iPads Pro, and Vision Pro.</source:markdown>
+      <enclosure url="https://traffic.libsyn.com/secure/daringfireball/thetalkshow-432-dan-moren.mp3" length="62016639" type="audio/mpeg" />
+      <guid>cid://https://daringfireball.net/thetalkshow/2025/10/26/ep-432</guid>
     </item>    <item>
       <title>Roger Pielke Jr.’s Appallingly Bad Analysis of Billion Dollar Disasters</title>
       <link>https://economicsfromthetopdown.com/2025/10/26/roger-pielke-jr-s-appallingly-bad-analysis-of-billion-dollar-disasters/</link>
