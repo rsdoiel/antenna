@@ -4,7 +4,7 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>25 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>26 Oct 25 06:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -2162,30 +2162,6 @@ You can see the AOL login screen faintly on the iBook&#39;s LCD. The last time I
 Although at least one [client re-creation](https://github.com/erfg12/AOL_4.0_Emu) exists, it would be more interesting to see someone develop a new AOL _server_ using modern modem emulation tools that the AOL clients can talk to. Much as QuantumLink&#39;s server responses can now be simulated, facilitating [a fan recreation](https://quantumlink.net/), and because some pieces of the old PlayNET and QLink architecture underlaid AOL, it should be possible to do the same. Although some work exists on AIM, the instant messenger component (I certainly remember plenty of unsolicited chat requests), the whole experience really ought to be preserved in some fashion because for at least a few years it was the most common way people connected to the Internet no matter its warts. However, as there&#39;s obviously no way to serial-snoop the real thing now, hopefully someone at Yahoo/Verizon can leak the source code or protocol description so it can be resurrected. Though I certainly see no reason to use the dialup service as anything other than a historical simulation now that we have hotspotting and ubiquitous Wi-Fi — and my parents cancelled their dialup account after they got cable Internet — I also point out that my mom still has the same AOL E-mail address she had back then, and it still does the job for her.</source:markdown>
       <author>noreply@blogger.com (ClassicHasClass)</author>
       <guid>cid://tag:blogger.com,1999:blog-8349470052336612452.post-7012013262726380909</guid>
-    </item>    <item>
-      <title>KazuGrid 1.0</title>
-      <link>https://sourceforge.net/p/freedos/news/2025/10/kazugrid-10/</link>
-      <description>
-        <![CDATA[<div class="markdown_content"><p>Mateusz Viste has created an interesting set of logic puzzle games for DOS: "Fire up KazuGrid and test your wits with mind-bending challenges, now in crisp VGA high resolution! Each grid is a battlefield of numbers - spot patterns, crack logic puzzles, and prove you're the ultimate gridmaster." Requires VGA and a mouse. MIT license. You can find it at the <a class="" href="https://mateusz.fr/kazugrid/" rel="nofollow">KazuGrid website</a></p></div>]]>
-      </description>
-      <source:markdown>Mateusz Viste has created an interesting set of logic puzzle games for DOS: &#34;Fire up KazuGrid and test your wits with mind-bending challenges, now in crisp VGA high resolution! Each grid is a battlefield of numbers - spot patterns, crack logic puzzles, and prove you&#39;re the ultimate gridmaster.&#34; Requires VGA and a mouse. MIT license. You can find it at the [KazuGrid website](https://mateusz.fr/kazugrid/)</source:markdown>
-      <guid>cid://https://sourceforge.net04de24a8e79a6f44f1fed8cfd654b3626b91bbba</guid>
-    </item>    <item>
-      <title>My KIM-1 collection</title>
-      <link>http://retro.hansotten.nl/my-kim-1-collection/</link>
-      <description>
-        <![CDATA[In 2024/2025 I completed my KIM-1 collection with one or two from every Revision, from first edition to Rev G, nine in total. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you search for those, ...Magazines: Compute! and Compute IIThe pages [&#8230;]]]>
-      </description>
-      <source:markdown>In 2024/2025 I completed my KIM-1 collection with one or two from every Revision, from first edition to Rev G, nine in total. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you search for those, ...Magazines: Compute! and Compute IIThe pages \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=18935</guid>
-    </item>    <item>
-      <title>ZFP Systems at the London Show</title>
-      <link>https://www.riscository.com/2025/zfp-systems-london-show/</link>
-      <description>
-        <![CDATA[It&#8217;s now just three weeks to go until this year&#8217;s London Show, which takes place at the Harrow District Masonic Centre on 25th October, and the first announcement from an exhibitor has already landed in the RISCOSitory bunker. In fact, the email arrived before last week&#8217;s post about the show, so keen was Paolo Zaino, the exhibitor in question, but I deliberately held it back so that it came after the show preview. Using the name ZFP Systems (the brand under which he originally provided professional services to retail outlets&#8230;]]>
-      </description>
-      <source:markdown>It’s now just three weeks to go until this year’s London Show, which takes place at the Harrow District Masonic Centre on 25th October, and the first announcement from an exhibitor has already landed in the RISCOSitory bunker. In fact, the email arrived before last week’s post about the show, so keen was Paolo Zaino, the exhibitor in question, but I deliberately held it back so that it came after the show preview. Using the name ZFP Systems (the brand under which he originally provided professional services to retail outlets…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10729</guid>
     </item>
   </channel>
 </rss>

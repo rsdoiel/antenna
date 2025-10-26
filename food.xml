@@ -4,10 +4,26 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>25 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>26 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>This Year’s Hottest Halloween Costume Is A Curated Selection Of Coffees From The Sprudge Roaster’s Village</title>
+      <link>https://sprudge.com/this-years-hottest-halloween-costume-is-a-bag-of-fresh-coffee-from-the-sprudge-roasters-village-457572.html</link>
+      <description>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster's Village.]]>
+      </description>
+      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster&#39;s Village.**</source:markdown>
+      <guid>cid://https://sprudge.com/?p=457572</guid>
+    </item>    <item>
+      <title>Oaxacan Coffee</title>
+      <link>https://www.tasteofhome.com/recipes/oaxacan-coffee/</link>
+      <description>
+        <![CDATA[Fans of tequila, Scotch whisky or Irish coffee will smack their lips when you serve them a warm, mezcal-spiked Oaxacan coffee.]]>
+      </description>
+      <source:markdown>Fans of tequila, Scotch whisky or Irish coffee will smack their lips when you serve them a warm, mezcal-spiked Oaxacan coffee.</source:markdown>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2191330</guid>
+    </item>    <item>
       <title>Smuckers is Suing Trader Joe’s Over Their Uncrustables Dupe</title>
       <link>https://www.bonappetit.com/story/trader-joes-smuckers-uncrustables</link>
       <description>
@@ -2982,24 +2998,6 @@ The post [50 Essential Thanksgiving Recipes](https://www.closetcooking.com/50-th
 
 [Read more](https://pepperscale.com/jalapeno-creamed-corn/#more-18554 &#34;Jalapeño Creamed Corn&#34;)</source:markdown>
       <guid>cid://https://www.pepperscale.com/?p=18554</guid>
-    </item>    <item>
-      <title>What’s A Good Creole Seasoning Substitute?</title>
-      <link>https://pepperscale.com/creole-seasoning-substitute/</link>
-      <description>
-        <![CDATA[Need Creole seasoning and none around? That’s ok — you’ve got options to fill that Southern flavor gap in your recipe. Creole seasoning may sound exotic, but most of its core ingredients are everyday pantry staples like paprika, garlic powder, oregano, and cayenne. With a ... <p class="read-more-container"><a title="What&#8217;s A Good Creole Seasoning Substitute?" class="read-more button" href="https://pepperscale.com/creole-seasoning-substitute/#more-6373" aria-label="Read more about What&#8217;s A Good Creole Seasoning Substitute?">Read more</a></p>]]>
-      </description>
-      <source:markdown>Need Creole seasoning and none around? That’s ok — you’ve got options to fill that Southern flavor gap in your recipe. Creole seasoning may sound exotic, but most of its core ingredients are everyday pantry staples like paprika, garlic powder, oregano, and cayenne. With a ...
-
-[Read more](https://pepperscale.com/creole-seasoning-substitute/#more-6373 &#34;What’s A Good Creole Seasoning Substitute?&#34;)</source:markdown>
-      <guid>cid://https://www.pepperscale.com/?p=6373</guid>
-    </item>    <item>
-      <title>12 Early Prime Day Deals on Espresso Machines from Breville, De’Longhi and Nespresso, Up to 40% Off</title>
-      <link>https://www.bonappetit.com/story/amazon-prime-day-espresso-maker-deals-2025-10-04</link>
-      <description>
-        <![CDATA[Why go to the coffee shop for espresso when the espresso can come to you?]]>
-      </description>
-      <source:markdown>Why go to the coffee shop for espresso when the espresso can come to you?</source:markdown>
-      <guid>cid://64a7674ee757a8816cf19830</guid>
     </item>
   </channel>
 </rss>

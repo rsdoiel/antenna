@@ -4,14 +4,91 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>25 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>26 Oct 25 06:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Ken Thompson Recalls Unix’s Rowdy, Lock-Picking Origins</title>
+      <link>https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/</link>
+      <description>
+        <![CDATA[<img width="1024" height="678" src="https://cdn.thenewstack.io/media/2025/11/91ab99cb-ken-thompson-2024-screenshot-from-computer-history-museum-acm-oral-history-1024x678.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/91ab99cb-ken-thompson-2024-screenshot-from-computer-history-museum-acm-oral-history.png" /><p>The 82-year-old Ken Thompson has some amazing memories about the earliest days of the Unix operating system &#8212; and the</p>
+        <p>The post <a href="https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/">Ken Thompson Recalls Unix&#8217;s Rowdy, Lock-Picking Origins</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/91ab99cb-ken-thompson-2024-screenshot-from-computer-history-museum-acm-oral-history-1024x678.png)
+
+The 82-year-old Ken Thompson has some amazing memories about the earliest days of the Unix operating system — and the
+
+The post [Ken Thompson Recalls Unix’s Rowdy, Lock-Picking Origins](https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22803845</guid>
+    </item>    <item>
+      <title>heise+ | Windows sichern mit c’t-WIMage 4: Tipps &#38; Tricks zu unserem Backup-Skript</title>
+      <link>https://www.heise.de/ratgeber/Windows-sichern-mit-c-t-WIMage-4-Tipps-Tricks-zu-unserem-Backup-Skript-10637654.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Unser Skript c’t-WIMage erstellt Kopien Ihrer Windows-Installationen, die Sie bei Bedarf auf quasi beliebiger Hardware wiederherstellen können.]]>
+      </description>
+      <source:markdown>Unser Skript c’t-WIMage erstellt Kopien Ihrer Windows-Installationen, die Sie bei Bedarf auf quasi beliebiger Hardware wiederherstellen können.</source:markdown>
+      <guid>cid://http://heise.de/-10637654</guid>
+    </item>    <item>
+      <title>Überwachung: Zivilgesellschaft warnt vor Unterzeichnen der Cybercrime-Konvention</title>
+      <link>https://www.heise.de/news/Ueberwachung-Zivilgesellschaft-warnt-vor-Unterzeichnen-der-Cybercrime-Konvention-10900035.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Bürgerrechtsorganisationen zeigen sich besorgt, dass das Abkommen der Uno gegen Cyberkriminalität grenzüberschreitend Menschenrechtsverletzungen erleichtere.]]>
+      </description>
+      <source:markdown>Bürgerrechtsorganisationen zeigen sich besorgt, dass das Abkommen der Uno gegen Cyberkriminalität grenzüberschreitend Menschenrechtsverletzungen erleichtere.</source:markdown>
+      <guid>cid://http://heise.de/-10900035</guid>
+    </item>    <item>
+      <title>heise-Angebot: Product Owner AI Day: KI-Konferenz für Produktverantwortliche</title>
+      <link>https://www.heise.de/news/Product-Owner-AI-Day-KI-Konferenz-fuer-Produktverantwortliche-10779591.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Online-Konferenz für Product Owner findet am 6. November statt. Für den Workshop gibt es einen weiteren Zusatztermin – nach drei ausgebuchten Terminen.]]>
+      </description>
+      <source:markdown>Die Online-Konferenz für Product Owner findet am 6. November statt. Für den Workshop gibt es einen weiteren Zusatztermin – nach drei ausgebuchten Terminen.</source:markdown>
+      <guid>cid://http://heise.de/-10779591</guid>
+    </item>    <item>
+      <title>Digitales Gesundheitswesen: Der Patient ist multidependent</title>
+      <link>https://www.heise.de/news/Digitales-Gesundheitswesen-Der-Patient-ist-multidependent-10749855.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[In der digitalen Gesundheitsversorgung ist die Abhängigkeit von Anbietern aus dem nicht europäischen Ausland derzeit groß. Droht das außer Kontrolle zu geraten?]]>
+      </description>
+      <source:markdown>In der digitalen Gesundheitsversorgung ist die Abhängigkeit von Anbietern aus dem nicht europäischen Ausland derzeit groß. Droht das außer Kontrolle zu geraten?</source:markdown>
+      <guid>cid://http://heise.de/-10749855</guid>
+    </item>    <item>
+      <title>In acht Schritten zur digitalen Souveränität</title>
+      <link>https://www.heise.de/hintergrund/In-acht-Schritten-zur-digitalen-Souveraenitaet-10862064.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Wir zeigen, wie Unternehmen den Einstieg in die digitale Souveränität finden. Damit legen sie das Fundament für eine sichere und unabhängige IT.]]>
+      </description>
+      <source:markdown>Wir zeigen, wie Unternehmen den Einstieg in die digitale Souveränität finden. Damit legen sie das Fundament für eine sichere und unabhängige IT.</source:markdown>
+      <guid>cid://http://heise.de/-10862064</guid>
+    </item>    <item>
+      <title>heise-Angebot: iX-Workshop: Einführung in die SAP Business Technology Platform (BTP)</title>
+      <link>https://www.heise.de/news/iX-Workshop-Einfuehrung-in-die-SAP-Business-Technology-Platform-BTP-10749444.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Lernen Sie, wie Sie mit SAP BTP Anwendungen entwickeln, Schnittstellen integrieren und Geschäftsprozesse optimieren.]]>
+      </description>
+      <source:markdown>Lernen Sie, wie Sie mit SAP BTP Anwendungen entwickeln, Schnittstellen integrieren und Geschäftsprozesse optimieren.</source:markdown>
+      <guid>cid://http://heise.de/-10749444</guid>
+    </item>    <item>
+      <title>Bericht: Digitalfunk der Bundeswehr &#34;nicht gefechtstauglich&#34;</title>
+      <link>https://www.heise.de/news/Bericht-Digitalfunk-der-Bundeswehr-nicht-gefechtstauglich-10899948.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Nach einem erfolglosen Test stellen sich weitere Fragen zum neuen Funksystem der Bundeswehr. Einem Bericht zufolge ist es nicht voll einsetzbar.]]>
+      </description>
+      <source:markdown>Nach einem erfolglosen Test stellen sich weitere Fragen zum neuen Funksystem der Bundeswehr. Einem Bericht zufolge ist es nicht voll einsetzbar.</source:markdown>
+      <guid>cid://http://heise.de/-10899948</guid>
+    </item>    <item>
+      <title>USA: Der schwierige Weg zur Hochgeschwindigkeitsnation mit der Bahn</title>
+      <link>https://www.heise.de/hintergrund/USA-Der-schwierige-Weg-zur-Hochgeschwindigkeitsnation-mit-der-Bahn-10857151.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[In den USA bedeutet schneller Verkehr vor allem Fliegen. Dabei würden sich Schnellzüge durchaus lohnen. Doch die wenigen Projekte haben es schwer.]]>
+      </description>
+      <source:markdown>In den USA bedeutet schneller Verkehr vor allem Fliegen. Dabei würden sich Schnellzüge durchaus lohnen. Doch die wenigen Projekte haben es schwer.</source:markdown>
+      <guid>cid://http://heise.de/-10857151</guid>
+    </item>    <item>
       <title>Why PyTorch Won</title>
       <link>https://thenewstack.io/why-pytorch-won/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/359ddfa9-thumbnail-19-1024x576.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Luca Antiga — CTO of Lightning AI and head of the PyTorch Foundation’s Technical Advisory Council — discussed the evolution and influence of PyTorch. Originally designed to be “Pythonic” and researcher-friendly, PyTorch’s ease of debugging and fast iteration helped it spread from academia to industry." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/359ddfa9-thumbnail-19.png" /><p>During this week&#8217;s PyTorch Conference 2025 in San Francisco, I sat down with Luca Antiga, the head of the Technical</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/359ddfa9-thumbnail-19-1024x576.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Luca Antiga — CTO of Lightning AI and head of the PyTorch Foundation’s Technical Advisory Council — discussed the evolution and influence of PyTorch. Originally designed to be “Pythonic” and researcher-friendly, PyTorch’s ease of debugging and fast iteration helped it spread from academia to industry." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/359ddfa9-thumbnail-19.png" /><p>During this week&#8217;s PyTorch Conference 2025 in San Francisco, I sat down with Luca Antiga, the head of the Technical</p>
         <p>The post <a href="https://thenewstack.io/why-pytorch-won/">Why PyTorch Won</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![Luca Antiga — CTO of Lightning AI and head of the PyTorch Foundation’s Technical Advisory Council — discussed the evolution and influence of PyTorch. Originally designed to be “Pythonic” and researcher-friendly, PyTorch’s ease of debugging and fast iteration helped it spread from academia to industry.](https://cdn.thenewstack.io/media/2025/10/359ddfa9-thumbnail-19-1024x576.png)
@@ -9615,26 +9692,6 @@ State-of-the-art AI models tend to flatter users, and that praise makes people m
 
 A new hacking contest has caused a social media kerfuffle over allegations of rule copying and plagiarism.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242312</guid>
-    </item>    <item>
-      <title>Hacked Ford screens put anti-RTO slogan above CEO’s face</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/04/ford_rto_hack/</link>
-      <description>
-        <![CDATA[<h4>Carmaker confirms screen hijack, says probe underway</h4> <p>Conference-room screens at Ford&#39;s Dearborn HQ were briefly hijacked on Thursday to display a protest image in an apparent swipe at the carmaker&#39;s return-to-office policy.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Carmaker confirms screen hijack, says probe underway
-
-Conference-room screens at Ford&#39;s Dearborn HQ were briefly hijacked on Thursday to display a protest image in an apparent swipe at the carmaker&#39;s return-to-office policy.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242313</guid>
-    </item>    <item>
-      <title>India&#39;s tech talent pipeline is sputtering</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/04/india_tech_talent_pipeline/</link>
-      <description>
-        <![CDATA[<h4>AI and new wave of offshoring mean graduates can&#39;t get gigs</h4> <p><strong>Feature</strong>  Shubh Kumar graduated from IIT Patna, one of India&#39;s famed Institutes of Technology – universities that attract millions of applicants but admit only 18,000 undergraduates.…</p>]]>
-      </description>
-      <source:markdown>#### AI and new wave of offshoring mean graduates can&#39;t get gigs
-
-**Feature**  Shubh Kumar graduated from IIT Patna, one of India&#39;s famed Institutes of Technology – universities that attract millions of applicants but admit only 18,000 undergraduates.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242267</guid>
     </item>
   </channel>
 </rss>

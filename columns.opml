@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>25 Oct 25 15:09 -0700</dateCreated>
+        <dateCreated>26 Oct 25 06:10 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -310,7 +310,7 @@
         <outline text="mrusme blog" type="rss" xmlUrl="https://xn--gckvb8fzb.com/index.xml" htmlUrl="https://xn--gckvb8fzb.com/,https://xn--gckvb8fzb.com/index.xml" description="The Journal of マリウス" url="https://xn--gckvb8fzb.com/index.xml"></outline>
         <outline text="nlnet feed" type="atom" xmlUrl="https://nlnet.nl/feed.atom" htmlUrl="https://nlnet.nl/feed.atom" url="https://nlnet.nl/feed.atom"></outline>
         <outline text="ooh.directory blog" type="rss" xmlUrl="https://ooh.directory/blog/feeds/posts.xml" htmlUrl="https://ooh.directory/blog/,https://ooh.directory/blog/feeds/posts.xml" description="Changes and events at ooh.directory" url="https://ooh.directory/blog/feeds/posts.xml"></outline>
-        <outline text="openchannels.fm" type="rss" xmlUrl="https://openchannels.fm/feed/" htmlUrl="https://openchannels.fm,https://openchannels.fm/feed/" description="Real people. Real journeys. Open Source." url="https://openchannels.fm/feed/"></outline>
+        <outline text="openchannels.fm" type="rss" xmlUrl="https://openchannels.fm/feed/" htmlUrl="https://openchannels.fm,https://openchannels.fm/feed/" description="Conversations about the Open Web" url="https://openchannels.fm/feed/"></outline>
         <outline text="p1k3.com community feed" type="atom" xmlUrl="https://p1k3.com/feed" htmlUrl="https://p1k3.com/,https://p1k3.com/feed" description="writing by brennen" url="https://p1k3.com/feed"></outline>
         <outline text="petermr&#39;s blog" type="rss" xmlUrl="https://blogs.ch.cam.ac.uk/pmr/feed/index.xml" htmlUrl="/pmr,/pmr/feed/" description="A Scientist and the Web" url="/pmr/feed/"></outline>
         <outline text="reb00ted blog (Johannes Ernst, sustainabilty done fairly)" type="rss" xmlUrl="https://reb00ted.org/index.xml" htmlUrl="https://reb00ted.org/,https://reb00ted.org/index.xml" description="Recent content on reb00ted" url="https://reb00ted.org/index.xml"></outline>

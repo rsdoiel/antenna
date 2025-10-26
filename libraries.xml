@@ -4,7 +4,7 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>25 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>26 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -854,24 +854,6 @@ The post [Guest Post — Manifesto Time: Do You Need a Publishing Manifesto?](ht
       <source:markdown>A collection of short science fiction by Isaac Asimov, ordered by date of original publication.</source:markdown>
       <enclosure url="https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction/downloads/isaac-asimov_short-science-fiction.epub?source=feed" length="502542" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction</guid>
-    </item>    <item>
-      <title>The Ponson Case, by Freeman Wills Crofts</title>
-      <link>https://standardebooks.org/ebooks/freeman-wills-crofts/the-ponson-case</link>
-      <description>
-        <![CDATA[The death of a wealthy industrialist initially seems like an accident, but soon sparks a murder inquiry.]]>
-      </description>
-      <source:markdown>The death of a wealthy industrialist initially seems like an accident, but soon sparks a murder inquiry.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/freeman-wills-crofts/the-ponson-case/downloads/freeman-wills-crofts_the-ponson-case.epub?source=feed" length="1026284" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/freeman-wills-crofts/the-ponson-case</guid>
-    </item>    <item>
-      <title>Uncle Vanya, by Anton Chekhov</title>
-      <link>https://standardebooks.org/ebooks/anton-chekhov/uncle-vanya/constance-garnett</link>
-      <description>
-        <![CDATA[An elderly professor and his young wife return to their country estate, where their family’s simmering resentments boil over.]]>
-      </description>
-      <source:markdown>An elderly professor and his young wife return to their country estate, where their family’s simmering resentments boil over.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/anton-chekhov/uncle-vanya/constance-garnett/downloads/anton-chekhov_uncle-vanya_constance-garnett.epub?source=feed" length="797651" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/anton-chekhov/uncle-vanya/constance-garnett</guid>
     </item>
   </channel>
 </rss>
