@@ -5,8 +5,8 @@ generator: home_page.yaml
 collections:
     - title: Columns
       link: columns.xml
-      file: columns.md
       description: Blogs, columns and snapshots from around the web.
+      file: columns.md
       generator: front_page.yaml
       filters:
         - UPDATE items SET status = 'review';
@@ -14,10 +14,10 @@ collections:
       dbName: columns.db
     - title: Craft
       link: craft.xml
-      file: craft.md
       description: |-
         Craft is a list of hand oriented craft and technology
         Do we really need all those power tools?
+      file: craft.md
       generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
@@ -33,8 +33,8 @@ collections:
       dbName: food.db
     - title: Going Electric
       link: going_electric.xml
-      file: going_electric.md
       description: Going Electric has feeds involving home and transportation options powered by Electricity
+      file: going_electric.md
       generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
@@ -113,10 +113,9 @@ collections:
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: small_papers.db
     - title: SoCal North
+      link: socal_north.xml
       description: |
         News and posts related to the greater North Los Angeles and adjacent counties.
-
-      link: socal_north.xml
       file: socal_north.md
       generator: front_page.yaml
       filters:
@@ -131,8 +130,8 @@ collections:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: writing.db
-    - title: Antenna
-      link: pages.xml
+    - title: Pages
+      link: https://rsdoiel.github.io/antenna/pages.xml
       file: pages.md
       generator: home_page.yaml
       filters:
@@ -140,8 +139,8 @@ collections:
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: pages.db
     - title: Comics, Graphic Novels and serials
-      description: Commics and Graphic Novel sites on the web.
       link: comics.xml
+      description: Commics and Graphic Novel sites on the web.
       file: comics.md
       generator: home_page.yaml
       filters:
