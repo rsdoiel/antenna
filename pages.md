@@ -1,5 +1,6 @@
 ---
-title: "Antenna"
+title: Pages
 ---
 
-This is an empty collection intended to hold the configuration for the pages.
+This is a placeholder for website pages.
+
