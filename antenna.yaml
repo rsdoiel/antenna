@@ -71,6 +71,7 @@ collections:
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
+        - UPDATE items SET status = 'review' WHERE link LIKE '%/commentisfree/%';
       dbName: north_america.db
     - title: Items of interest to the Pacific community and the Pacific RIM
       link: pacific.xml
