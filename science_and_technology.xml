@@ -4,10 +4,31 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>27 Oct 25 09:46 -0700</lastBuildDate>
+    <lastBuildDate>27 Oct 25 10:26 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Überwachung: Ministerpräsidenten für &#34;schnellstmögliche&#34; Vorratsdatenspeicherung</title>
+      <link>https://www.heise.de/news/Ueberwachung-Ministerpraesidenten-fuer-schnellstmoegliche-Vorratsdatenspeicherung-10924197.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Regierungschefs der Länder fordern ein "Sicherheitspaket" mit einer "unterschiedslosen Speicherungspflicht" und "möglichst umfassender" Beschattung mit KI.]]>
+      </description>
+      <source:markdown>Die Regierungschefs der Länder fordern ein &#34;Sicherheitspaket&#34; mit einer &#34;unterschiedslosen Speicherungspflicht&#34; und &#34;möglichst umfassender&#34; Beschattung mit KI.</source:markdown>
+      <guid>cid://http://heise.de/-10924197</guid>
+    </item>    <item>
+      <title>What Are AI Orchestrators and Why Do They Matter Now?</title>
+      <link>https://thenewstack.io/what-are-ai-orchestrators-and-why-do-they-matter-now/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/3ac417a1-hai-nguyen-feqhl8gq2gw-unsplash-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="orchestrator" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/3ac417a1-hai-nguyen-feqhl8gq2gw-unsplash.jpg" /><p>Orchestrators make sure that AI agents don&#8217;t work in a vacuum; they organize the components, processes and information exchange to</p>
+        <p>The post <a href="https://thenewstack.io/what-are-ai-orchestrators-and-why-do-they-matter-now/">What Are AI Orchestrators and Why Do They Matter Now?</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![orchestrator](https://cdn.thenewstack.io/media/2025/10/3ac417a1-hai-nguyen-feqhl8gq2gw-unsplash-1024x576.jpg)
+
+Orchestrators make sure that AI agents don’t work in a vacuum; they organize the components, processes and information exchange to
+
+The post [What Are AI Orchestrators and Why Do They Matter Now?](https://thenewstack.io/what-are-ai-orchestrators-and-why-do-they-matter-now/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804410</guid>
+    </item>    <item>
       <title>heise+ | Fotolocations auf Teneriffa: ein Paradies für Landschaftsfotografen</title>
       <link>https://www.heise.de/ratgeber/Fotolocations-auf-Teneriffa-ein-Paradies-fuer-Landschaftsfotografen-10725866.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
       <description>
@@ -26,7 +47,7 @@
 Iran&#39;s school for state-sponsored cyberattackers admits it suffered a breach exposing the names and other personal information of its associates and students.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242680</guid>
     </item>    <item>
-      <title>Tesla-Aktionäre sollen mit einem Aktienpaket &#34;Musks Aufmerksamkeit binden&#34;</title>
+      <title>Tesla: Musk könnte ohne neue Aktien Chefposten aufgeben</title>
       <link>https://www.heise.de/news/Tesla-Aktionaere-sollen-mit-einem-Aktienpaket-Musks-Aufmerksamkeit-binden-10922091.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
         <![CDATA[Die Tesla-Aktionäre müssen bald über ein Riesen-Aktienpaket für Elon Musk abstimmen. Der Verwaltungsrat warnt vor einem möglichen Verlust des Firmenchefs.]]>
@@ -45,7 +66,7 @@ Iran&#39;s school for state-sponsored cyberattackers admits it suffered a breach
       <title>Why Your Platform Engineering Career Is Really a Sales Job</title>
       <link>https://thenewstack.io/why-your-platform-engineering-career-is-really-a-sales-job/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/75091f38-christopher-batey-fast-flow-25-2-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Christopher Batey of Core Engineering Consulting Group (CECG) speaks about platform engineering at Fast Flow Conf, October 2025." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/75091f38-christopher-batey-fast-flow-25-2.jpg" /><p>LONDON &#8212; It turns out that platform engineer is a sales job. We&#8217;ve written a lot about how DevOps engineer</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/75091f38-christopher-batey-fast-flow-25-2-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Christopher Batey of Core Engineering Consulting Group (CECG) speaks about platform engineering at Fast Flow Conf, October 2025." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/75091f38-christopher-batey-fast-flow-25-2.jpg" /><p>LONDON &#8212; It turns out that platform engineer is a sales job. We&#8217;ve written a lot about how DevOps engineer</p>
         <p>The post <a href="https://thenewstack.io/why-your-platform-engineering-career-is-really-a-sales-job/">Why Your Platform Engineering Career Is Really a Sales Job</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![Christopher Batey of Core Engineering Consulting Group (CECG) speaks about platform engineering at Fast Flow Conf, October 2025.](https://cdn.thenewstack.io/media/2025/10/75091f38-christopher-batey-fast-flow-25-2-1024x576.jpg)
@@ -91,17 +112,17 @@ If you thought living in Europe, Canada, or Hong Kong meant you were protected f
 **Interview**  As agentic AI solutions flood the market, users will face a complex environment in terms of deployment and commercial models, with standard practices yet to be resolved, says Olawale Oladehin, AWS director, solutions architecture.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242636</guid>
     </item>    <item>
-      <title>GitHub Bets on Openness</title>
+      <title>GitHub Doubles Down on Openness for Its Next Chapter</title>
       <link>https://thenewstack.io/github-bets-on-openness/</link>
       <description>
-        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/10/5eb82662-img_2680-1024x768.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="GitHub&#039;s Octocat." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/5eb82662-img_2680-scaled.jpg" /><p>With CEO Thomas Dohmke&#8217;s departure in August and GitHub&#8217;s deeper integration into Microsoft, developers are asking what comes next for</p>
-        <p>The post <a href="https://thenewstack.io/github-bets-on-openness/">GitHub Bets on Openness</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/10/5eb82662-img_2680-1024x768.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="GitHub&#039;s Octocat." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/5eb82662-img_2680-scaled.jpg" /><p>With CEO Thomas Dohmke&#8217;s departure in August and GitHub&#8217;s deeper integration into Microsoft, developers are asking what comes next for</p>
+        <p>The post <a href="https://thenewstack.io/github-bets-on-openness/">GitHub Doubles Down on Openness for Its Next Chapter</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![GitHub&#39;s Octocat.](https://cdn.thenewstack.io/media/2025/10/5eb82662-img_2680-1024x768.jpg)
 
 With CEO Thomas Dohmke’s departure in August and GitHub’s deeper integration into Microsoft, developers are asking what comes next for
 
-The post [GitHub Bets on Openness](https://thenewstack.io/github-bets-on-openness/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+The post [GitHub Doubles Down on Openness for Its Next Chapter](https://thenewstack.io/github-bets-on-openness/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
       <guid>cid://https://thenewstack.io/?p=22804397</guid>
     </item>    <item>
       <title>Mini-PC Ninkear M8 im Test: Ryzen 7, 32 GB RAM und 1 TB SSD für unter 400 Euro</title>
@@ -541,12 +562,12 @@ The UK government&#39;s Department for Work and Pensions (DWP) has saved £4.4 m
       <source:markdown>Astronomische Aufnahmen aus der Zeit vor Sputnik enthalten Lichtpunkte, die nur einmal auftauchen. Nun wurden Hinweise auf einen künstlichen Ursprung erforscht.</source:markdown>
       <guid>cid://http://heise.de/-10900340</guid>
     </item>    <item>
-      <title>The Chinese Box and Turing Test: Is AI really intelligent?</title>
+      <title>The Chinese Box and Turing Test: AI has no intelligence at all</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/27/ai_intelligence_opinion/</link>
       <description>
-        <![CDATA[<h4>No, it&#39;s just good at mass-production copy and paste. And yes, we&#39;re correctly applying Betteridge&#39;s Law</h4> <p><strong>Opinion</strong>  Remember <a target="_blank" rel="nofollow" href="https://web.njit.edu/~ronkowit/eliza.html">ELIZA</a>? The 1966 chatbot from MIT&#39;s AI Lab convinced countless people it was intelligent using nothing but simple pattern matching and canned responses. Nearly 60 years later, ChatGPT has people making the same mistake. Chatbots don&#39;t think – they&#39;ve just gotten exponentially better at pretending.…</p>]]>
+        <![CDATA[<h4>It&#39;s just good at mass-production copy and paste</h4> <p><strong>Opinion</strong>  Remember <a target="_blank" rel="nofollow" href="https://web.njit.edu/~ronkowit/eliza.html">ELIZA</a>? The 1966 chatbot from MIT&#39;s AI Lab convinced countless people it was intelligent using nothing but simple pattern matching and canned responses. Nearly 60 years later, ChatGPT has people making the same mistake. Chatbots don&#39;t think – they&#39;ve just gotten exponentially better at pretending.…</p>]]>
       </description>
-      <source:markdown>#### No, it&#39;s just good at mass-production copy and paste. And yes, we&#39;re correctly applying Betteridge&#39;s Law
+      <source:markdown>#### It&#39;s just good at mass-production copy and paste
 
 **Opinion**  Remember [ELIZA](https://web.njit.edu/~ronkowit/eliza.html)? The 1966 chatbot from MIT&#39;s AI Lab convinced countless people it was intelligent using nothing but simple pattern matching and canned responses. Nearly 60 years later, ChatGPT has people making the same mistake. Chatbots don&#39;t think – they&#39;ve just gotten exponentially better at pretending.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242631</guid>

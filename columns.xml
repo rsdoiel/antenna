@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>27 Oct 25 09:46 -0700</lastBuildDate>
+    <lastBuildDate>27 Oct 25 10:26 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -38,6 +38,10 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <title>App Store IDs Hint at Possible iPad Versions of Pixelmator Pro, Compressor, Motion, and MainStage</title>
+      <link>https://www.macrumors.com/2025/10/27/apple-may-release-pixelmator-pro-for-ipad/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42321</guid>
+    </item>    <item>
       <link>https://www.theatlantic.com/culture/2025/10/dear-james-male-friends-nongrowth-mindset/684552/?gift=f35zZN0v_gDFE8xNwlQAHUXzcik9EreCxLp0ZfJGSL0&#38;utm_source=copy-link&#38;utm_medium=social&#38;utm_campaign=share</link>
       <description>
         <![CDATA[<p>I thought this piece would be yet another that says men are somehow inadequate, but it isn't.</p>]]>
@@ -56,7 +60,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
 La entrada [Task: perdón, redención y el peso de la culpa](https://www.palomitademaiz.net/resenas-task/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
       <guid>cid://https://www.palomitademaiz.net/?p=25672</guid>
     </item>    <item>
-      <title>Gurman Reports That Apple Is Ready to Sell Ads in Maps Starting in 2026</title>
+      <title>Gurman Reports That Apple Is Preparing to Sell Ads in Maps Starting in 2026</title>
       <link>https://www.bloomberg.com/news/newsletters/2025-10-26/what-s-next-for-the-ipad-pro-iphone-17-pro-like-vapor-chamber-apple-maps-ads-mh7nq39h</link>
       <guid>cid://tag:daringfireball.net,2025:/linked//6.42320</guid>
     </item>    <item>
@@ -5622,9 +5626,9 @@ The post [Sustainable solutions: Making the Raspberry Pi office greener](https:/
       <title>AI Is Reshaping Developer Career Paths</title>
       <link>https://www.oreilly.com/radar/ai-is-reshaping-developer-career-paths/</link>
       <description>
-        <![CDATA[This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. Read the original framework introduction and explore the complete methodology in Andrew Stellman&#8217;s O&#8217;Reilly report Critical Thinking Habits for Coding with AI. A few decades ago, I worked with a developer who was respected by everyone on our team. Much [&#8230;]]]>
+        <![CDATA[This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. A few decades ago, I worked with a developer who was respected by everyone on our team. Much of that respect came from the fact that he kept adopting new technologies that none of us had worked [&#8230;]]]>
       </description>
-      <source:markdown>This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. Read the original framework introduction and explore the complete methodology in Andrew Stellman’s O’Reilly report Critical Thinking Habits for Coding with AI. A few decades ago, I worked with a developer who was respected by everyone on our team. Much \[…\]</source:markdown>
+      <source:markdown>This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. A few decades ago, I worked with a developer who was respected by everyone on our team. Much of that respect came from the fact that he kept adopting new technologies that none of us had worked \[…\]</source:markdown>
       <guid>cid://https://www.oreilly.com/radar/?p=17579</guid>
     </item>    <item>
       <title>Failures in Face Recognition</title>
