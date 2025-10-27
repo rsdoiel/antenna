@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>27 Oct 25 10:26 -0700</lastBuildDate>
+    <lastBuildDate>27 Oct 25 12:14 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,14 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Pour une « nétiquette » de l’IA générative [en]</title>
+      <link>https://climbtothestars.org/archives/2025/10/27/pour-une-netiquette-de-lia-generative/</link>
+      <description>
+        <![CDATA[[en] L’IA générative, c’est ChatGPT, Claude et consorts. Ce sont des outils à qui on donne des instructions, et qui produisent en réponse du texte. Il y en a également à qui l’on donne des instructions, et qui produisent des images, du son, voir de la vidéo. Je n’ai pas pour objectif ici d’essayer de &#8230; <a href="https://climbtothestars.org/archives/2025/10/27/pour-une-netiquette-de-lia-generative/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Pour une «&#160;nétiquette&#160;» de l’IA générative <span class='bb-lang'>[en]</span></span>"</span></a>]]>
+      </description>
+      <source:markdown>\[en\] L’IA générative, c’est ChatGPT, Claude et consorts. Ce sont des outils à qui on donne des instructions, et qui produisent en réponse du texte. Il y en a également à qui l’on donne des instructions, et qui produisent des images, du son, voir de la vidéo. Je n’ai pas pour objectif ici d’essayer de … [Continue reading &#34;Pour une « nétiquette » de l’IA générative \[en\]&#34;](https://climbtothestars.org/archives/2025/10/27/pour-une-netiquette-de-lia-generative/)</source:markdown>
+      <guid>cid://https://climbtothestars.org/?p=10185</guid>
     </item>    <item>
       <title>App Store IDs Hint at Possible iPad Versions of Pixelmator Pro, Compressor, Motion, and MainStage</title>
       <link>https://www.macrumors.com/2025/10/27/apple-may-release-pixelmator-pro-for-ipad/</link>
@@ -5626,9 +5634,9 @@ The post [Sustainable solutions: Making the Raspberry Pi office greener](https:/
       <title>AI Is Reshaping Developer Career Paths</title>
       <link>https://www.oreilly.com/radar/ai-is-reshaping-developer-career-paths/</link>
       <description>
-        <![CDATA[This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. A few decades ago, I worked with a developer who was respected by everyone on our team. Much of that respect came from the fact that he kept adopting new technologies that none of us had worked [&#8230;]]]>
+        <![CDATA[This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. Read the original framework introduction and explore the complete methodology in Andrew Stellman&#8217;s O&#8217;Reilly report Critical Thinking Habits for Coding with AI. A few decades ago, I worked with a developer who was respected by everyone on our team. Much [&#8230;]]]>
       </description>
-      <source:markdown>This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. A few decades ago, I worked with a developer who was respected by everyone on our team. Much of that respect came from the fact that he kept adopting new technologies that none of us had worked \[…\]</source:markdown>
+      <source:markdown>This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. Read the original framework introduction and explore the complete methodology in Andrew Stellman’s O’Reilly report Critical Thinking Habits for Coding with AI. A few decades ago, I worked with a developer who was respected by everyone on our team. Much \[…\]</source:markdown>
       <guid>cid://https://www.oreilly.com/radar/?p=17579</guid>
     </item>    <item>
       <title>Failures in Face Recognition</title>
