@@ -80,6 +80,7 @@ collections:
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
+        - UPDATE items SET status = 'review' WHERE link LIKE '%/opinion/%' OR link LIKE '%/sports/%';
       dbName: pacific.db
     - title: Planet News
       link: planet.xml
