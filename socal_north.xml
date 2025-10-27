@@ -7,10 +7,18 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>27 Oct 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>27 Oct 25 09:42 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>NPR lawsuit alleges Corporation for Public Broadcasting gave in to political pressure</title>
+      <link>https://laist.com/news/public-media-giants-npr-and-cpb-are-fighting-in-court-this-week</link>
+      <description>
+        <![CDATA[NPR is accusing the Corporation for Public Broadcasting in federal court of reneging on a contract to appease the White House.]]>
+      </description>
+      <source:markdown>NPR is accusing the Corporation for Public Broadcasting in federal court of reneging on a contract to appease the White House.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-264d-dbee-a3bb-765d90110000</guid>
+    </item>    <item>
       <title>Best things to do in LA and SoCal: Oct. 27-30</title>
       <link>https://laist.com/news/arts-and-entertainment/best-events-this-week-los-angeles-southern-california-october-27-30</link>
       <description>

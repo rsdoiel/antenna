@@ -2,11 +2,11 @@
 <html lang="en-US">
 <head>
   <meta charset="utf-8" >
-  <meta name="generator" content="antenna/0.0.15" >
-  <meta name="date" content="2025-10-27T06:09:34-07:00" >
-  <link href="css/site.css" rel="stylesheet" >
+  <meta content="antenna/0.0.15" name="generator" >
+  <meta content="2025-10-27T09:42:53-07:00" name="date" >
+  <link rel="stylesheet" href="css/site.css" >
   <link rel="alternate" type="application/rss+xml" href="retro_computing.xml" >
-  <script type="module" src="modules/date_filter.js" ></script>
+  <script src="modules/date_filter.js" type="module" ></script>
 </head>
 <body>
   <header>
@@ -42,6 +42,18 @@
     <div class="article-filter">Filter by date: <input id="filter-by-date" type="date"></div>
   <section>
 
+    <article data-published="2025-10-27T13:59:36Z" data-link="http://retro.hansotten.nl/6530-replacement-board/">
+      <h1>6530 replacement board</h1>
+
+(date: 2025-10-27)
+      <p>
+      <p>Christer from Sweden built an Eduardo Casino designed KIM-1 replica. And as we know, the 6530 replacement is an issue. Not only for replica’s also for broken original KIM-1s. So he designed his own, more compact original looking adapter. He created this adapter because I wanted something that would work and look a little more […]</p>
+
+      <address>
+        <a href="http://retro.hansotten.nl/6530-replacement-board/">http://retro.hansotten.nl/6530-replacement-board/</a>
+      </address>
+    </article>
+
     <article data-published="2025-10-26T18:17:00Z" data-link="https://oldvcr.blogspot.com/2025/10/the-apple-network-server-macos-roms.html">
       <h1>The Apple Network Server MacOS ROMs have resurfaced</h1>
 
@@ -58,7 +70,7 @@
 <p><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-9EEr9EPjvj0KhoewP7xuJ9AcOXEDpbn0lfU7dZuf005rTPn9YZAwZcAjVmuV-h8YEJ7Bk32vNUdhGQgCIxT_YaQ0OCE3DG-VOxO12SI5P5lU4DyBgya4FisTCjZ50gUbmnoCP-nPwtWxz-l_njizQanEcFfgElHv0V-rZ87_MCGRasmoRDkv-kMcdQM/s3600/AM28F020.jpg"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-9EEr9EPjvj0KhoewP7xuJ9AcOXEDpbn0lfU7dZuf005rTPn9YZAwZcAjVmuV-h8YEJ7Bk32vNUdhGQgCIxT_YaQ0OCE3DG-VOxO12SI5P5lU4DyBgya4FisTCjZ50gUbmnoCP-nPwtWxz-l_njizQanEcFfgElHv0V-rZ87_MCGRasmoRDkv-kMcdQM/s320/AM28F020.jpg" alt=""></a></p>
 <p>Recently a former employee who was on the business development team for Apple's server products <a href="https://tinkerdifferent.com/threads/erics-apple-network-server-700-tinker-log.3987/#post-37621">posted on the Tinker Different boards</a>: not only did he have the mythical MacOS ROM, he had it installed in a Deep Dish booting the MacOS. Deep Dish was the code name for the planned but unreleased ANS 300, a small rackmountable version (as opposed to the rackmount plates Apple sold for the 500 and 700 which take up a whopping 19U), so here was a prototype machine running development ROMs booting an operating system it was never actually sold with. More to the point, he confirmed the Windows NT ROMs actually did exist and worked as well.</p>
 <p>Though he didn't have the NT ROMs, he did dump the two development ROMs he had (a third is in progress) which included the MacOS ROM — and now we have them for analysis. What's interesting is that both the explicit MacOS ROM and the Open Firmware 2.26b6 ROM he dumped seem capable of booting MacOS, though the 2.2 ROM has strings saying <code>MacOS is unsupported, use at your own risk.</code> and <code>MacOS requires PCI video card and external SCSI boot disk.</code> (which may lend credence to that old nerds' tale, assuming you had the right ROMs, not the 9500's). However, the full MacOS ROM reportedly &quot;just works,&quot; all the way to Mac OS 9; one wonders if with XPostFacto you could drag it into OS X that way, giving it another Unix option besides AIX, Linux and NetBSD, the driver issue notwithstanding. Though the MacOS ROM does not use the ANS's front-mounted LCD, which is one of its best features, it wouldn't seem difficult to come up with an INIT extension for it. A particularly tantalizing thought is this might also get Cyberpunk running on a Shiner for the first time since 1996, the very machine it was intended for.</p>
-<p>To make all that happen, of course, we next need to get the MacOS ROM on an actual ROM card. The ROMs this individual had were flashable and I need to do some looking at mine, and the connectors aren't common. Nevertheless, the first step is to actually <em>have</em> the ROM and now we do. I'm hopeful that this breakthrough might encourage further exploration of my favourite Apple server and that someone out there has the NT ROMs and steps forward. The Apple Network Server was always a cult favourite as one of Apple's more notorious white elephants and now almost 20 years after its introduction there may be even more fun things to do on it. If you know where to find them, post in the comments or drop me a line at ckaiser at floodgap dawt com (happy to keep you anonymous if you prefer which I have done for other former Apple engineers in the past).</p>
+<p>To make all that happen, of course, we next need to get the MacOS ROM on an actual ROM card. The ROMs this individual had were flashable and I need to do some looking at mine, and the connectors aren't common. Nevertheless, the first step is to actually <em>have</em> the ROM and now we do. I'm hopeful that this breakthrough might encourage further exploration of my favourite Apple server and that someone out there has the NT ROMs and steps forward. The Apple Network Server was always a cult favourite as one of Apple's more notorious white elephants and now almost 30 years after its introduction there may be even more fun things to do on it. If you know where to find them, post in the comments or drop me a line at ckaiser at floodgap dawt com (happy to keep you anonymous if you prefer which I have done for other former Apple engineers in the past).</p>
 
       <address>
         <a href="https://oldvcr.blogspot.com/2025/10/the-apple-network-server-macos-roms.html">https://oldvcr.blogspot.com/2025/10/the-apple-network-server-macos-roms.html</a>

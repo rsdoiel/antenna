@@ -2,9 +2,10 @@
 <opml version="2.0">
     <head>
         <title>North America</title>
-        <dateCreated>27 Oct 25 09:22 -0700</dateCreated>
+        <dateCreated>27 Oct 25 09:42 -0700</dateCreated>
     </head>
     <body>
+        <outline text="Bloomberg" type="rss" xmlUrl="https://feeds.bloomberg.com/news.rss" htmlUrl="https://www.bloomberg.com/" description="Get your latest business news, video and audio from Bloomberg"></outline>
         <outline text="CBC, Canada News" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-canada" htmlUrl="https://www.cbc.ca/news/canada/?cmp=rss" description="FOR PERSONAL USE ONLY"></outline>
         <outline text="CBC, Indigenious News" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-Indigenous" htmlUrl="https://www.cbc.ca/news/indigenous/?cmp=rss" description="FOR PERSONAL USE ONLY"></outline>
         <outline text="CBC, Top Stories" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-topstories" htmlUrl="https://www.cbc.ca/news/?cmp=rss" description="FOR PERSONAL USE ONLY"></outline>
