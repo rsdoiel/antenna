@@ -4,8 +4,8 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>27 Oct 25 09:46 -0700</lastBuildDate>
-    <generator>antenna/0.0.15</generator>
+    <lastBuildDate>27 Oct 25 10:47 -0700</lastBuildDate>
+    <generator>antenna/0.0.16-beta</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>The big divide in American news consumption is less about “left vs. right” than “active vs. passive”</title>

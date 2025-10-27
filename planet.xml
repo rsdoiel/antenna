@@ -4,10 +4,37 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>27 Oct 25 09:46 -0700</lastBuildDate>
-    <generator>antenna/0.0.15</generator>
+    <lastBuildDate>27 Oct 25 10:47 -0700</lastBuildDate>
+    <generator>antenna/0.0.16-beta</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Japan: Verbindungen zwischen Regierungspartei und Sekte im Abe-Prozess im Fokus</title>
+      <link>https://www.spiegel.de/ausland/japan-verbindungen-zwischen-regierungspartei-und-sekte-im-abe-prozess-im-fokus-a-74a51db0-1507-4fb4-bd1b-ce33ebb5f9ec#ref=rss</link>
+      <description>
+        <![CDATA[Am Dienstag beginnt der Prozess gegen den mutmaßlichen Attentäter von Ex-Premier Shinzo Abe. Der Fall hat Politik und Gesellschaft zutiefst erschüttert. Im Fokus stehen die Verstrickungen der konservativen Regierungspartei mit einer dubiosen Sekte.]]>
+      </description>
+      <source:markdown>Am Dienstag beginnt der Prozess gegen den mutmaßlichen Attentäter von Ex-Premier Shinzo Abe. Der Fall hat Politik und Gesellschaft zutiefst erschüttert. Im Fokus stehen die Verstrickungen der konservativen Regierungspartei mit einer dubiosen Sekte.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/b50d7b78-9882-488d-85f2-943f8c477dae_w520_r2.08_fpx37.98_fpy50.98.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/ausland/japan-verbindungen-zwischen-regierungspartei-und-sekte-im-abe-prozess-im-fokus-a-74a51db0-1507-4fb4-bd1b-ce33ebb5f9ec</guid>
+    </item>    <item>
+      <title>China-Politik der Bundesregierung: Härte oder Dialog mit Peking? Kommt darauf an, wen man fragt</title>
+      <link>https://www.spiegel.de/politik/deutschland/china-politik-der-bundesregierung-haerte-oder-dialog-mit-peking-kommt-darauf-an-wen-man-fragt-a-4f56285e-baf3-4843-a5bb-e7272de81f2d#ref=rss</link>
+      <description>
+        <![CDATA[CDU-Außenminister Wadephul sagt seine Chinareise ab, SPD-Vizekanzler Klingbeil plant hingegen einen Besuch. Die Bundesregierung tritt gegenüber Peking nicht geschlossen auf.]]>
+      </description>
+      <source:markdown>CDU-Außenminister Wadephul sagt seine Chinareise ab, SPD-Vizekanzler Klingbeil plant hingegen einen Besuch. Die Bundesregierung tritt gegenüber Peking nicht geschlossen auf.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/aa6623d2-ef43-4da3-8789-55697e4f7c4b_w520_r2.08_fpx66.63_fpy49.98.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/politik/deutschland/china-politik-der-bundesregierung-haerte-oder-dialog-mit-peking-kommt-darauf-an-wen-man-fragt-a-4f56285e-baf3-4843-a5bb-e7272de81f2d</guid>
+    </item>    <item>
+      <title>News des Tages: Javier Milei, Argentinien, Olympische Spiele, München, Betriebsrat</title>
+      <link>https://www.spiegel.de/politik/deutschland/news-des-tages-javier-milei-argentinien-olympische-spiele-muenchen-betriebsrat-a-b4babadd-6e05-401c-80f7-f239e687f431#ref=rss</link>
+      <description>
+        <![CDATA[München träumt nach dem Bürgerentscheid von sportlichen Sommerspielen. Milei triumphiert in Argentinien. Und Betriebsräte haben es schwer in Deutschland. Das ist die Lage am Montagabend.]]>
+      </description>
+      <source:markdown>München träumt nach dem Bürgerentscheid von sportlichen Sommerspielen. Milei triumphiert in Argentinien. Und Betriebsräte haben es schwer in Deutschland. Das ist die Lage am Montagabend.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w520_r2.08_fpx28.09_fpy49.93.png" length="0" type="image/png" />
+      <guid>cid://https://www.spiegel.de/politik/deutschland/news-des-tages-javier-milei-argentinien-olympische-spiele-muenchen-betriebsrat-a-b4babadd-6e05-401c-80f7-f239e687f431</guid>
+    </item>    <item>
       <title>Simu Liu: »Barbie«-Star bekam bei Dreharbeiten Tritte ins Gesicht</title>
       <link>https://www.spiegel.de/kultur/kino/simu-liu-barbie-star-bekam-bei-dreharbeiten-tritte-ins-gesicht-a-a5174800-009a-4472-b6b2-d5a39f52678d#ref=rss</link>
       <description>
@@ -20,9 +47,9 @@
       <title>Spanien: Katalanische Separatisten kehren sich von Minderheitsregierung ab</title>
       <link>https://www.spiegel.de/ausland/spanien-katalanische-separatisten-kehren-sich-von-minderheitsregierung-ab-a-cc960f29-9146-4f62-948d-7a59ba1b9015#ref=rss</link>
       <description>
-        <![CDATA[Für Spaniens Ministerpräsident Pedro Sánchez wird es eng. Die Partei Junts hat beschlossen, den Unterstützungspakt mit seiner Partei aufzukündigen. Der Regierungspartei fehlen nun notwendige Mehrheiten im Parlament.]]>
+        <![CDATA[Für Spaniens Ministerpräsidenten Pedro Sánchez wird es eng. Die Partei Junts hat beschlossen, den Unterstützungspakt mit seiner Partei aufzukündigen. Der Regierungspartei fehlen nun notwendige Mehrheiten im Parlament.]]>
       </description>
-      <source:markdown>Für Spaniens Ministerpräsident Pedro Sánchez wird es eng. Die Partei Junts hat beschlossen, den Unterstützungspakt mit seiner Partei aufzukündigen. Der Regierungspartei fehlen nun notwendige Mehrheiten im Parlament.</source:markdown>
+      <source:markdown>Für Spaniens Ministerpräsidenten Pedro Sánchez wird es eng. Die Partei Junts hat beschlossen, den Unterstützungspakt mit seiner Partei aufzukündigen. Der Regierungspartei fehlen nun notwendige Mehrheiten im Parlament.</source:markdown>
       <enclosure url="https://cdn.prod.www.spiegel.de/images/bbe09f28-b91b-4912-b7a9-91c9454108a0_w520_r2.08_fpx42_fpy28.jpg" length="0" type="image/jpeg" />
       <guid>cid://https://www.spiegel.de/ausland/spanien-katalanische-separatisten-kehren-sich-von-minderheitsregierung-ab-a-cc960f29-9146-4f62-948d-7a59ba1b9015</guid>
     </item>    <item>
@@ -43,10 +70,6 @@
       <source:markdown>»Leider müssen wir Sie bitten, Ihr Kind daheim zu lassen«: Diese Nachricht bekommen Eltern behinderter Kinder immer häufiger. Wie Finn und Lotte aus ihrer evangelischen Kita in Bremen ausgeschlossen wurden und warum Inklusion oft scheitert.</source:markdown>
       <enclosure url="https://cdn.prod.www.spiegel.de/images/dd348e50-e31a-47c8-84b2-388ac0ecd54d_w520_r2.08_fpx42.68_fpy50.jpg" length="0" type="image/jpeg" />
       <guid>cid://https://www.spiegel.de/panorama/bildung/inklusion-warum-kinder-mit-behinderung-oft-aus-kitas-ausgeschlossen-werden-a-479b696b-fc2a-4001-bf43-2ab93e93b318</guid>
-    </item>    <item>
-      <title>Prince Andrew, ex-wife in talks over homes - reports</title>
-      <link>https://www.rte.ie/news/uk/2025/1027/1540787-prince-andrew/</link>
-      <guid>cid://https://www.rte.ie/news/uk/2025/1027/1540787-prince-andrew/</guid>
     </item>    <item>
       <title>Israel to lift emergency status in south</title>
       <link>https://www.vaticannews.va/en/world/news/2025-10/israel-to-lift-emergency-status-in-south.html</link>
@@ -97,6 +120,14 @@
       </description>
       <source:markdown>Ten people are going on trial in Paris for sexist cyber-harassment of Brigitte Macron, in the latest case sparked by unsubstantiated gender claims thrown at the French first lady for years by some in France and beyond.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1027/1540799-cyber-harassment-france/</guid>
+    </item>    <item>
+      <title>Ten on trial over online harassment of French first lady</title>
+      <link>https://www.rte.ie/news/europe/2025/1027/1540799-cyber-harassment-france/</link>
+      <description>
+        <![CDATA[Ten people are going on trial in Paris for sexist cyber-harassment of Brigitte Macron, in the latest case sparked by unsubstantiated gender claims thrown at the French first lady for years by some in France and beyond.]]>
+      </description>
+      <source:markdown>Ten people are going on trial in Paris for sexist cyber-harassment of Brigitte Macron, in the latest case sparked by unsubstantiated gender claims thrown at the French first lady for years by some in France and beyond.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/europe/2025/1027/1540799-cyber-harassment-france/</guid>
     </item>    <item>
       <title>Björn Andrésen ist tot: »Schönster Junge der Welt« mit 70 Jahren gestorben</title>
       <link>https://www.spiegel.de/kultur/kino/bjoern-andresen-ist-tot-schoenster-junge-der-welt-mit-70-jahren-gestorben-a-1039bf09-5992-4ae7-9884-842ea75b6469#ref=rss</link>
@@ -1581,14 +1612,6 @@ The United States is expanding its facial identification program for travellers,
       <source:markdown>US President Donald Trump has said that he would not schedule any talks with Vladimir Putin unless it was clear that the Russian President was serious about making a deal to end the war in Ukraine.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2025/1025/1540617-trump-putin-ukraine/</guid>
     </item>    <item>
-      <title>Watch: Key moments from day of election of new president</title>
-      <link>https://www.rte.ie/news/ireland/2025/1025/1540613-presidential-election-key-moments/</link>
-      <guid>cid://https://www.rte.ie/news/ireland/2025/1025/1540613-presidential-election-key-moments/</guid>
-    </item>    <item>
-      <title>Watch: Catherine Connolly&#39;s speech in full</title>
-      <link>https://www.rte.ie/news/presidential-election/2025/1025/1540610-catherine-connolly-speech/</link>
-      <guid>cid://https://www.rte.ie/news/presidential-election/2025/1025/1540610-catherine-connolly-speech/</guid>
-    </item>    <item>
       <title>Profile: Connolly&#39;s long political road leads to Áras</title>
       <link>https://www.rte.ie/news/presidential-election/2025/1025/1540590-catherine-connolly-profile/</link>
       <description>
@@ -1860,14 +1883,6 @@ Two people were killed and 13 others injured in Kyiv after Russian missiles and 
       </description>
       <source:markdown>As it happened: Independent Catherine Connolly set to become the tenth President of Ireland after resounding election victory.</source:markdown>
       <guid>cid://https://www.rte.ie/news/presidential-election/2025/1025/1540513-presidential-count/</guid>
-    </item>    <item>
-      <title>Ireland&#39;s nine presidents - portraits in history</title>
-      <link>https://www.rte.ie/news/presidential-election/2025/1025/1540355-archive-presidency-ireland/</link>
-      <guid>cid://https://www.rte.ie/news/presidential-election/2025/1025/1540355-archive-presidency-ireland/</guid>
-    </item>    <item>
-      <title>Ireland&#39;s presidents - portraits in history</title>
-      <link>https://www.rte.ie/news/galleries/2025/1025/1540355-archive-presidency-ireland/</link>
-      <guid>cid://https://www.rte.ie/news/galleries/2025/1025/1540355-archive-presidency-ireland/</guid>
     </item>    <item>
       <title>Russian strikes on Ukraine kill at least two</title>
       <link>https://www.rte.ie/news/2025/1025/1540514-russian-strikes-on-ukraine-kill-at-least-two/</link>
@@ -3343,9 +3358,9 @@ The U.S. military on Wednesday launched its ninth strike against an alleged drug
       <title>Ford&#39;s anti-Trump rhetoric came up repeatedly in trade negotiations: sources</title>
       <link>https://www.cbc.ca/news/politics/ford-trump-talks-9.6954772?cmp=rss</link>
       <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/91a0b60e-ccdf-47de-898f-49eeebd7d1cc,1761573381908/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='TRUMP CANADA OCT 27 2025' width='620' height='349' title=''/><p></p>]]>
+        <![CDATA[<img src='https://i.cbc.ca/ais/e5824bde-2594-4601-ab57-d4a6b371ca96,1761582836735/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Man speaks at microphone in front of Canadian and Ontario flag draped' width='620' height='349' title='Ontario Premier Doug Ford holds press conference in Queen&apos;s Park, October 27, 2025'/><p></p>]]>
       </description>
-      <source:markdown>![TRUMP CANADA OCT 27 2025](https://i.cbc.ca/ais/91a0b60e-ccdf-47de-898f-49eeebd7d1cc,1761573381908/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29)</source:markdown>
+      <source:markdown>![Man speaks at microphone in front of Canadian and Ontario flag draped](https://i.cbc.ca/ais/e5824bde-2594-4601-ab57-d4a6b371ca96,1761582836735/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29)</source:markdown>
       <guid>cid://9.6949267</guid>
     </item>    <item>
       <title>MEP Boylan &#39;disgusted&#39; by EU suspending Israel sanctions</title>
@@ -13476,10 +13491,6 @@ Scientists Susumu Kitagawa, Richard Robson and Omar Yaghi won the 2025 Nobel Pri
       <source:markdown>More than 73,000 students are receiving the results of their Junior Cycle examinations.</source:markdown>
       <guid>cid://https://www.rte.ie/news/education/2025/1008/1537355-junior-cycle-results/</guid>
     </item>    <item>
-      <title>Budget 2026: How did a renting family and a pensioner do?</title>
-      <link>https://www.rte.ie/news/primetime/2025/1008/1537362-budget-2026-how-did-a-renting-family-and-a-pensioner-do/</link>
-      <guid>cid://https://www.rte.ie/news/primetime/2025/1008/1537362-budget-2026-how-did-a-renting-family-and-a-pensioner-do/</guid>
-    </item>    <item>
       <title>Government uses Budget tax changes to try to fix housing</title>
       <link>https://www.rte.ie/news/analysis-and-comment/2025/1008/1537349-budget-2026-analysis/</link>
       <description>
@@ -14051,10 +14062,6 @@ Worldwide solar and wind power generation has outpaced electricity demand this y
       <source:markdown>Nearly 22,000 people fled their homes in northern Mozambique in a single week last month due to a resurgence in fighting across Cabo Delgado, the UN refugee agency (UNHCR) warned on Tuesday.</source:markdown>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/07-10-2025-Mozambique-Refugees-2.jpg/image560x340cropped.jpg" length="58466" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/10/1166049</guid>
-    </item>    <item>
-      <title>Watch Live: Special Budget 2026 Six One</title>
-      <link>https://www.rte.ie/news/budget-2026/2025/1007/1537255-budget-speeches/</link>
-      <guid>cid://https://www.rte.ie/news/budget-2026/2025/1007/1537255-budget-speeches/</guid>
     </item>    <item>
       <title>Multi-use plane delivered to Defence Forces</title>
       <link>https://www.rte.ie/news/ireland/2025/1007/1537257-defence-forces-aircraft/</link>

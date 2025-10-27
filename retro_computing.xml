@@ -4,8 +4,8 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>27 Oct 25 09:46 -0700</lastBuildDate>
-    <generator>antenna/0.0.15</generator>
+    <lastBuildDate>27 Oct 25 10:47 -0700</lastBuildDate>
+    <generator>antenna/0.0.16-beta</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>6530 replacement board</title>

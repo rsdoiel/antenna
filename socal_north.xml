@@ -7,8 +7,8 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>27 Oct 25 09:46 -0700</lastBuildDate>
-    <generator>antenna/0.0.15</generator>
+    <lastBuildDate>27 Oct 25 10:47 -0700</lastBuildDate>
+    <generator>antenna/0.0.16-beta</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>NPR lawsuit alleges Corporation for Public Broadcasting gave in to political pressure</title>
@@ -197,10 +197,6 @@ The post [Animal Adoption Week Returns to Santa Clarita!](https://santaclarita.g
       </description>
       <source:markdown>Addison Barger launched the first pinch-hit grand slam in World Series history, as the Toronto Blue Jays overwhelmed the defending champion Los Angeles Dodgers in the opener Friday night in Toronto.</source:markdown>
       <guid>cid://urn:uuid:0000019a-1ae8-d6de-afbf-baea3b720000</guid>
-    </item>    <item>
-      <title>California Service Corps, National Guard Mobilize to Support Food Banks in Wake of Federal Shutdown</title>
-      <link>https://www.californiavolunteers.ca.gov/california-service-corps-national-guard-mobilize-to-support-food-banks-in-wake-of-federal-shutdown/</link>
-      <guid>cid://https://www.californiavolunteers.ca.gov/?p=84473</guid>
     </item>    <item>
       <title>Longtime LAFD leader selected to head a department recuperating after LA firestorm</title>
       <link>https://laist.com/news/politics/new-lafd-chief-selected-la-mayor-bass</link>
@@ -2152,10 +2148,6 @@ The post [Rolling Out Safety – Santa Clarita’s New Mobile Command Unit](http
       <source:markdown>Illegal harvesting of plants in the wild is leading to extinction for some species, experts say.</source:markdown>
       <guid>cid://urn:uuid:00000199-cf5b-d4dc-abdf-dfff6cc70000</guid>
     </item>    <item>
-      <title>Central Valley Invests Additional $300K in California Men’s Service Challenge after State Commits $5 Million</title>
-      <link>https://www.californiavolunteers.ca.gov/central-valley-invests-additional-300k-in-california-mens-service-challenge-after-state-commits-5-million/</link>
-      <guid>cid://https://www.californiavolunteers.ca.gov/?p=84384</guid>
-    </item>    <item>
       <title>From remote islands to the DMZ, UC Santa Barbara student hit 118 countries before turning 20</title>
       <link>https://laist.com/news/from-remote-islands-to-the-dmz-uc-santa-barbara-student-hit-118-countries-before-turning-20</link>
       <description>
@@ -2182,10 +2174,6 @@ The post [Rolling Out Safety – Santa Clarita’s New Mobile Command Unit](http
 
 The post [Western Star Dust Brings Western Heritage to Life](https://santaclarita.gov/blog/2025/10/10/western-star-dust-brings-western-heritage-to-life/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
       <guid>cid://https://santaclarita.gov/?p=6850</guid>
-    </item>    <item>
-      <title>El Valle Central invierte $300,000 adicionales en el California Men’s Service Challenge después de que el estado comprometiera $5 millones</title>
-      <link>https://www.californiavolunteers.ca.gov/el-valle-central-invierte-300000-adicionales-en-el-california-mens-service-challenge-despues-de-que-el-estado-comprometiera-5-millones/</link>
-      <guid>cid://https://www.californiavolunteers.ca.gov/?p=84393</guid>
     </item>    <item>
       <title>White House claims &#34;more than 1,000%&#34; rise in assaults on ICE agents. Data says otherwise</title>
       <link>https://laist.com/news/white-house-ice-agents-assaults-claims</link>

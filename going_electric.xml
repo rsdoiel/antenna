@@ -7,10 +7,41 @@
       Going Electric has feeds involving home and transportation options powered by Electricity
     </description>
     <link>https://rsdoiel.github.io/antenna/going_electric.xml</link>
-    <lastBuildDate>27 Oct 25 09:46 -0700</lastBuildDate>
-    <generator>antenna/0.0.15</generator>
+    <lastBuildDate>27 Oct 25 10:47 -0700</lastBuildDate>
+    <generator>antenna/0.0.16-beta</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Driving The Aptera Feels Normal—But Also Totally Alien</title>
+      <link>https://insideevs.com/news/776827/auto-focus-aptera-solar-drive/</link>
+      <description>
+        <![CDATA[This Aptera is a production-intent validation prototype, which is pretty much what customers should get when and if it hits the market.]]>
+      </description>
+      <source:markdown>This Aptera is a production-intent validation prototype, which is pretty much what customers should get when and if it hits the market.</source:markdown>
+      <enclosure url="https://cdn.motor1.com/images/mgl/Zn1Ole/s3/autofocus-aptera-drive.jpg" length="25711" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/776827/auto-focus-aptera-solar-drive/</guid>
+    </item>    <item>
+      <title>New study of 1,300 EVs busts battery degradation myths, Kia and Tesla top the list</title>
+      <link>https://electrek.co/2025/10/27/new-study-evs-busts-battery-degradation-myths-kia-tesla-top-list/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Electric-vehicles-5K-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>We are getting some critical new data on battery health from a large-scale study in Sweden, and it’s a massive blow to EV naysayers.</p>
+        
+        
+        
+        <p>The Swedish used-car marketplace <a href="https://www.mynewsdesk.com/se/kvdbil/pressreleases/stort-elbilsbatteritest-volvo-och-tesla-med-i-toppen-3411234" target="_blank" rel="noreferrer noopener">Kvdbil</a> conducted a large-scale test analyzing the “State of Health” (SoH) of over 1,300 used electric cars and plug-in hybrids (723 of which were all-electric).</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles" data-layer-viewtype="unknown" data-post-id="440726" href="https://electrek.co/2025/10/27/new-study-evs-busts-battery-degradation-myths-kia-tesla-top-list/#more-440726" class="more-link">more…</a>]]>
+      </description>
+      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2024/08/Electric-vehicles-5K-1.jpeg?quality=82&#38;strip=all&#38;w=1400)
+
+We are getting some critical new data on battery health from a large-scale study in Sweden, and it’s a massive blow to EV naysayers.
+
+The Swedish used-car marketplace [Kvdbil](https://www.mynewsdesk.com/se/kvdbil/pressreleases/stort-elbilsbatteritest-volvo-och-tesla-med-i-toppen-3411234) conducted a large-scale test analyzing the “State of Health” (SoH) of over 1,300 used electric cars and plug-in hybrids (723 of which were all-electric).
+
+ [more…](https://electrek.co/2025/10/27/new-study-evs-busts-battery-degradation-myths-kia-tesla-top-list/#more-440726)</source:markdown>
+      <guid>cid://https://electrek.co/?p=440726</guid>
+    </item>    <item>
       <title>Lucid confirms Gravity SUV has a ‘substantial order backlog,’ so no widespread discounts</title>
       <link>https://electrek.co/2025/10/27/lucid-gravity-has-substantial-order-backlog-so-no-discounts/</link>
       <description>
