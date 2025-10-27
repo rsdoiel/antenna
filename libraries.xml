@@ -4,10 +4,19 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>27 Oct 25 12:14 -0700</lastBuildDate>
+    <lastBuildDate>27 Oct 25 15:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Short Fiction, by Saki</title>
+      <link>https://standardebooks.org/ebooks/saki/short-fiction</link>
+      <description>
+        <![CDATA[A collection of short stories by Saki, ordered by date of publication.]]>
+      </description>
+      <source:markdown>A collection of short stories by Saki, ordered by date of publication.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/saki/short-fiction/downloads/saki_short-fiction.epub?source=feed" length="1261668" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/saki/short-fiction</guid>
+    </item>    <item>
       <title>Day in Review (October 27–30)</title>
       <link>https://www.arl.org/day-in-review/day-in-review-october-27-30/</link>
       <description>

@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>27 Oct 25 12:13 -0700</lastBuildDate>
+    <lastBuildDate>27 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,164 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Could China devastate the US without firing a shot?</title>
+      <link>https://garymarcus.substack.com/p/could-china-devastate-the-us-without</link>
+      <description>
+        <![CDATA[Quite possibly yes.]]>
+      </description>
+      <source:markdown>Quite possibly yes.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Ka51!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8fb2e48c-be2a-4db7-b68c-90300f00fd1e_1668x1456.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://garymarcus.substack.com/p/could-china-devastate-the-us-without</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/27.html#a213952</link>
+      <description>
+        <![CDATA[The trip to Canada really changed my perspective. Spending more time thinking than developing new stuff. One thing is for sure, we're going to depend on FeedLand more as we go two-way in WordLand. I've been <a href="https://daytona.scripting.com/search?q=%22radio%20userland%22">here</a> before. Have to let my mind mull things over before the movement resumes.]]>
+      </description>
+      <source:markdown>The trip to Canada really changed my perspective. Spending more time thinking than developing new stuff. One thing is for sure, we&#39;re going to depend on FeedLand more as we go two-way in WordLand. I&#39;ve been [here](https://daytona.scripting.com/search?q=%22radio%20userland%22) before. Have to let my mind mull things over before the movement resumes.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/27.html#a213952</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/27.html#a212851</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2019/06/14/bowling.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Made good progress on a FeedLand performance issue. The new version is running on <a href="https://feedland.org/">feedland.org</a>. We're getting ready to try it on other systems. On the way I hit a problem with the <a href="https://github.com/Automattic/wp-calypso/tree/trunk/packages/wpcom.js">wpcom package</a> that implements the WordPress API in Node.js. Apparently the new version depends on <a href="https://www.npmjs.com/package/@babel/runtime/v/8.0.0-beta.1">babel/runtime</a>, but it isn't listed as a dependency in their <a href="https://github.com/Automattic/wp-calypso/blob/trunk/packages/wpcom.js/package.json">package.json</a> file. I worked around the problem by adding that dependency in wpidentity's <a href="https://github.com/scripting/wpIdentity/blob/main/package.json">package.json</a> file, and that fixed the problem. Had trouble getting this report in their <a href="https://github.com/Automattic/wp-calypso/issues">issues</a> section.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2019/06/14/bowling.png)Made good progress on a FeedLand performance issue. The new version is running on [feedland.org](https://feedland.org/). We&#39;re getting ready to try it on other systems. On the way I hit a problem with the [wpcom package](https://github.com/Automattic/wp-calypso/tree/trunk/packages/wpcom.js) that implements the WordPress API in Node.js. Apparently the new version depends on [babel/runtime](https://www.npmjs.com/package/@babel/runtime/v/8.0.0-beta.1), but it isn&#39;t listed as a dependency in their [package.json](https://github.com/Automattic/wp-calypso/blob/trunk/packages/wpcom.js/package.json) file. I worked around the problem by adding that dependency in wpidentity&#39;s [package.json](https://github.com/scripting/wpIdentity/blob/main/package.json) file, and that fixed the problem. Had trouble getting this report in their [issues](https://github.com/Automattic/wp-calypso/issues) section.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/27.html#a212851</guid>
+    </item>    <item>
+      <title>October 26, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-26-2025-ea3</link>
+      <enclosure url="https://api.substack.com/feed/podcast/177312202/dd3e1dae2e14aba15838625c1bdeb6ca.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-26-2025-ea3</guid>
+    </item>    <item>
+      <title>★ Apple Loses Landmark U.K. Lawsuit Over App Store Commissions</title>
+      <link>https://daringfireball.net/2025/10/apple_uk_lawsuit_app_store_commissions</link>
+      <description>
+        <![CDATA[The best time to adjust the rules of the App Store — its exclusivity on app distribution for the entire iOS platform, the exclusivity of Apple’s IAP for purchasing digital content, the commission percentage splits on IAP — was over a decade ago. The next best time to make those adjustments is now.]]>
+      </description>
+      <source:markdown>The best time to adjust the rules of the App Store — its exclusivity on app distribution for the entire iOS platform, the exclusivity of Apple’s IAP for purchasing digital content, the commission percentage splits on IAP — was over a decade ago. The next best time to make those adjustments is now.</source:markdown>
+      <guid>cid://tag:daringfireball.net,2025://1.42322</guid>
+    </item>    <item>
+      <title>The PSF has withdrawn a $1.5 million proposal to US government grant program</title>
+      <link>https://simonwillison.net/2025/Oct/27/psf-withdrawn-proposal/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html">The PSF has withdrawn a $1.5 million proposal to US government grant program</a></strong></p>
+        The Python Software Foundation was recently "recommended for funding" (NSF terminology) for a $1.5m grant from the US government National Science Foundation to help improve the security of the Python software ecosystem, after an grant application process lead by Seth Larson and Loren Crary.</p>
+        <p>The PSF's annual budget is less than $6m so this is a meaningful amount of money for the organization!</p>
+        <p>We were forced to withdraw our application and turn down the funding, thanks to new language that was added to the agreement requiring us to affirm that we "do not, and will not during the term of this financial assistance award, operate any programs that advance or promote DEI, or discriminatory equity ideology in violation of Federal anti-discrimination laws."</p>
+        <p>Our legal advisors confirmed that this would not just apply to security work covered by the grant - this would apply to all of the PSF's activities.</p>
+        <p>This was not an option for us. Here's the <a href="https://www.python.org/psf/mission/">mission</a> of the PSF:</p>
+        <blockquote>
+        <p>The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers.</p>
+        </blockquote>
+        <p>If we accepted and spent the money despite this term, there was a very real risk that the money could be clawed back later. That represents an existential risk for the foundation since we would have already spent the money!</p>
+        <p>I was one of the board members who voted to reject this funding - a unanimous but tough decision. I’m proud to serve on a board that can make difficult decisions like this.</p>
+        <p>If you'd like to sponsor the PSF you can find out more <a href="https://www.python.org/sponsors/application/">on our site</a>. I'd love to see a few more of the large AI labs show up <a href="https://www.python.org/psf/sponsors/">on our top-tier visionary sponsors list</a>.
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/psf">psf</a></p>]]>
+      </description>
+      <source:markdown>**[The PSF has withdrawn a $1.5 million proposal to US government grant program](https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html)**
+
+The Python Software Foundation was recently &#34;recommended for funding&#34; (NSF terminology) for a $1.5m grant from the US government National Science Foundation to help improve the security of the Python software ecosystem, after an grant application process lead by Seth Larson and Loren Crary.
+
+The PSF&#39;s annual budget is less than $6m so this is a meaningful amount of money for the organization!
+
+We were forced to withdraw our application and turn down the funding, thanks to new language that was added to the agreement requiring us to affirm that we &#34;do not, and will not during the term of this financial assistance award, operate any programs that advance or promote DEI, or discriminatory equity ideology in violation of Federal anti-discrimination laws.&#34;
+
+Our legal advisors confirmed that this would not just apply to security work covered by the grant - this would apply to all of the PSF&#39;s activities.
+
+This was not an option for us. Here&#39;s the [mission](https://www.python.org/psf/mission/) of the PSF:
+
+&#62; The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers.
+
+If we accepted and spent the money despite this term, there was a very real risk that the money could be clawed back later. That represents an existential risk for the foundation since we would have already spent the money!
+
+I was one of the board members who voted to reject this funding - a unanimous but tough decision. I’m proud to serve on a board that can make difficult decisions like this.
+
+If you&#39;d like to sponsor the PSF you can find out more [on our site](https://www.python.org/sponsors/application/). I&#39;d love to see a few more of the large AI labs show up [on our top-tier visionary sponsors list](https://www.python.org/psf/sponsors/).
+
+
+
+Tags: [open-source](https://simonwillison.net/tags/open-source), [python](https://simonwillison.net/tags/python), [psf](https://simonwillison.net/tags/psf)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/27/psf-withdrawn-proposal/#atom-everything</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m47asuv5wk2m</link>
+      <description>
+        <![CDATA[New Jersey! Excited to join @mikiesherrill.bsky.social for a rally on 11/1.
+        
+        Make a plan to vote early or on Election Day. mikiesherrill.com/vote
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>New Jersey! Excited to join @mikiesherrill.bsky.social for a rally on 11/1.
+
+Make a plan to vote early or on Election Day. mikiesherrill.com/vote
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m47asuv5wk2m</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m47ak2s5oc2y</link>
+      <description>
+        <![CDATA[Virginia! Fired up to join @abigailspanberger.com for a rally on 11/1.
+        
+        Early voting has begun, so get out there and vote today or make a plan to vote on Election Day. 
+        abigailspanberger.com/vote/
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>Virginia! Fired up to join @abigailspanberger.com for a rally on 11/1.
+
+Early voting has begun, so get out there and vote today or make a plan to vote on Election Day.
+abigailspanberger.com/vote/
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m47ak2s5oc2y</guid>
+    </item>    <item>
+      <title>Line Wraps and the Zero-Width Joiner</title>
+      <link>https://mjtsai.com/blog/2025/10/27/line-wraps-and-the-zero-width-joiner/</link>
+      <description>
+        <![CDATA[I was reminded of this post from former Nisus developer Martin Wierschin: How does does an emoji do that in text? By using a zero-width joiner character between its constituent characters. That way software knows to display all the codes together as a single glyph or image on screen. This joiner trick is used for [&#8230;]]]>
+      </description>
+      <source:markdown>I was reminded of this post from former Nisus developer Martin Wierschin: How does does an emoji do that in text? By using a zero-width joiner character between its constituent characters. That way software knows to display all the codes together as a single glyph or image on screen. This joiner trick is used for \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49796</guid>
+    </item>    <item>
+      <title>Nisus Probably Moribund</title>
+      <link>https://mjtsai.com/blog/2025/10/27/nisus-probably-moribund/</link>
+      <description>
+        <![CDATA[Joe Kissell: For more than a year, we&#8217;ve heard scattered complaints: problems with Nisus Software&#8217;s website, particularly the user discussion forum; slow or absent responses to support requests; assorted bugs; and other issues. But earlier this week, on 22 October 2025, the reports changed to: &#8220;Did you know the Nisus website is completely down, and [&#8230;]]]>
+      </description>
+      <source:markdown>Joe Kissell: For more than a year, we’ve heard scattered complaints: problems with Nisus Software’s website, particularly the user discussion forum; slow or absent responses to support requests; assorted bugs; and other issues. But earlier this week, on 22 October 2025, the reports changed to: “Did you know the Nisus website is completely down, and \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49794</guid>
+    </item>    <item>
+      <title>Twitter to Show Link Content and Tweet Simultaneously</title>
+      <link>https://mjtsai.com/blog/2025/10/27/twitter-to-show-link-content-and-tweet-simultaneously/</link>
+      <description>
+        <![CDATA[Nikita Bier: We&#8217;re testing a new link experience, starting on iOS -- to make it easier for your followers to engage with your post while browsing links.For creators, a common complaint is that posts with links tend to get lower reach. This is because the web browser covers the post and people forget to Like [&#8230;]]]>
+      </description>
+      <source:markdown>Nikita Bier: We’re testing a new link experience, starting on iOS -- to make it easier for your followers to engage with your post while browsing links.For creators, a common complaint is that posts with links tend to get lower reach. This is because the web browser covers the post and people forget to Like \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49792</guid>
+    </item>    <item>
+      <title>Measured AI | Note to Self</title>
+      <link>https://notetoself.studio/post/measured-ai/</link>
+      <description>
+        <![CDATA[<blockquote>
+          <p>It’s <em>creepy</em> to tell people they’ll lose their jobs if they don’t use AI. It’s <em>weird</em> to assume AI critics hate progress and are resisting some inevitable future.</p>
+        </blockquote>
+        
+        <p><a href="https://adactio.com/links/22215">adactio.com/links/22215</a></p>]]>
+      </description>
+      <source:markdown>&#62; It’s _creepy_ to tell people they’ll lose their jobs if they don’t use AI. It’s _weird_ to assume AI critics hate progress and are resisting some inevitable future.
+
+[adactio.com/links/22215](https://adactio.com/links/22215)</source:markdown>
+      <guid>cid://https://notetoself.studio/post/measured-ai/</guid>
+    </item>    <item>
+      <title>&#39;House of Dynamite&#39; Is About the Zoom Call that Ends the World</title>
+      <link>https://www.404media.co/house-of-dynamite-netflix-review/</link>
+      <description>
+        <![CDATA[The general who advised Netflix’s nuclear Armageddon movie doesn’t believe in abolishing nuclear weapons.]]>
+      </description>
+      <source:markdown>The general who advised Netflix’s nuclear Armageddon movie doesn’t believe in abolishing nuclear weapons.</source:markdown>
+      <guid>cid://68ffbabcdbf2dc00011ed0c9</guid>
     </item>    <item>
       <title>Pour une « nétiquette » de l’IA générative [en]</title>
       <link>https://climbtothestars.org/archives/2025/10/27/pour-une-netiquette-de-lia-generative/</link>
@@ -2312,7 +2470,7 @@ An inch more tasteful than Trump, but Trumpian at their core.</source:markdown>
         <p>As a writer I want most is every bit of writing I’ve published turned into any kind of book I want at any time.</p>
         <p>An example of a book lurking in the archive of my blog.</p>
         <p><i>A user’s guide to FeedLand.</i></p>
-        <p>Knowing the AI would pull a users manual together on command, I’d feel more comfortable writing about it on my blog. As it is there’s a lot of good info between other blog posts.</p>
+        <p>Knowing the AI would pull a users manual together on command, I��d feel more comfortable writing about it on my blog. As it is there’s a lot of good info between other blog posts.</p>
         <p>I think it’s a great time to invest in new ideas for writers. </p>
         <p>I have pretty good search on my blog, but so much more is possible.</p>
         <p>Imagine a series of book types you could ask your AI friend to build for you from your own writing. </p>
@@ -2327,7 +2485,7 @@ An example of a book lurking in the archive of my blog.
 
 _A user’s guide to FeedLand._
 
-Knowing the AI would pull a users manual together on command, I’d feel more comfortable writing about it on my blog. As it is there’s a lot of good info between other blog posts.
+Knowing the AI would pull a users manual together on command, I��d feel more comfortable writing about it on my blog. As it is there’s a lot of good info between other blog posts.
 
 I think it’s a great time to invest in new ideas for writers.
 
@@ -5634,9 +5792,9 @@ The post [Sustainable solutions: Making the Raspberry Pi office greener](https:/
       <title>AI Is Reshaping Developer Career Paths</title>
       <link>https://www.oreilly.com/radar/ai-is-reshaping-developer-career-paths/</link>
       <description>
-        <![CDATA[This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. Read the original framework introduction and explore the complete methodology in Andrew Stellman&#8217;s O&#8217;Reilly report Critical Thinking Habits for Coding with AI. A few decades ago, I worked with a developer who was respected by everyone on our team. Much [&#8230;]]]>
+        <![CDATA[This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. A few decades ago, I worked with a developer who was respected by everyone on our team. Much of that respect came from the fact that he kept adopting new technologies that none of us had worked [&#8230;]]]>
       </description>
-      <source:markdown>This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. Read the original framework introduction and explore the complete methodology in Andrew Stellman’s O’Reilly report Critical Thinking Habits for Coding with AI. A few decades ago, I worked with a developer who was respected by everyone on our team. Much \[…\]</source:markdown>
+      <source:markdown>This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. A few decades ago, I worked with a developer who was respected by everyone on our team. Much of that respect came from the fact that he kept adopting new technologies that none of us had worked \[…\]</source:markdown>
       <guid>cid://https://www.oreilly.com/radar/?p=17579</guid>
     </item>    <item>
       <title>Failures in Face Recognition</title>

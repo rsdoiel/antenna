@@ -4,10 +4,90 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>27 Oct 25 12:14 -0700</lastBuildDate>
+    <lastBuildDate>27 Oct 25 15:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Revolut erhält die Banklizenz für Mexiko</title>
+      <link>https://www.heise.de/news/Revolut-erhaelt-die-Banklizenz-fuer-Mexiko-10934609.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die britische Neobank Revolut hat die endgültige Genehmigung für die Aufnahme des Bankbetriebs in Mexiko erhalten und nimmt bereits weitere Länder ins Visier.]]>
+      </description>
+      <source:markdown>Die britische Neobank Revolut hat die endgültige Genehmigung für die Aufnahme des Bankbetriebs in Mexiko erhalten und nimmt bereits weitere Länder ins Visier.</source:markdown>
+      <guid>cid://http://heise.de/-10934609</guid>
+    </item>    <item>
+      <title>Get ready to squint! World&#39;s smallest pixel is just 300 nm</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/27/world_smallest_oled_pixel/</link>
+      <description>
+        <![CDATA[<h4>How many 1080p screens can you fit on a pinhead? These German physicists reckon about one</h4> <p>Micro-OLED displays with 1080p (1920x1080) resolution have been around for a few years now, but a group of German researchers has taken things to the next level. They&#39;ve engineered an OLED pixel so small that an entire 1080p display could fit into a single square millimeter, potentially changing the game for wearable displays.…</p>]]>
+      </description>
+      <source:markdown>#### How many 1080p screens can you fit on a pinhead? These German physicists reckon about one
+
+Micro-OLED displays with 1080p (1920x1080) resolution have been around for a few years now, but a group of German researchers has taken things to the next level. They&#39;ve engineered an OLED pixel so small that an entire 1080p display could fit into a single square millimeter, potentially changing the game for wearable displays.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242686</guid>
+    </item>    <item>
+      <title>I’d like to speak to the Bellcore ManaGeR</title>
+      <link>https://www.osnews.com/story/143640/id-like-to-speak-to-the-bellcore-manager/</link>
+      <description>
+        <![CDATA[I love it when I discover &#8211; usually through people smarter than I &#8211; an operating system or graphical user interface I&#8217;ve never heard of. This time, we&#8217;ve got Bellcore MGR, as meticulously detailed by Nina Kalinina a few weeks ago. I love old computers, and I enjoy looking at old user interfaces immensely. I could spend a whole evening on installing an old version of MS Word and playing with it: &#8220;Ah, look, how cute, they didn&#8217;t invent scrollbars just yet&#8221;. A special place in my heart is taken by user interfaces that were historically significant and yet fell into relative obscurity (like Windows 2 or BTRON). This is why I absolutely had to try Bellcore MGR. An early windowing system (1984), it was made by the Bell Communications Research, and it looked like Plan 9&#8217;s older sister. The system was distributed over the Usenet, ported to every conceivable Unix-like system, including Minix, Linux and Coherent, and &#8211; eventually &#8211; mostly forgotten. The only two videos on YouTube that have something to do with MGR have a bit over 1000 views combined, and don&#8217;t really show it in the best light possible. And I think it&#8217;s a crying shame. ↫ Nina Kalinina The reference to Plan 9 is apt, as MGR definitely seems to function almost exactly like Plan 9&#8217;s rio graphical user interface, including things like drawing a rectangle to open a new window. Rio is an acquired taste &#8211; to put it very mildly &#8211; and it seems MGR fits the same bill. There&#8217;s also $home movie, an entire video editor for MGR, which is honestly mind-blowing considering it&#8217;s running on a mere SPARCstation in the late &#8217;80s and early &#8217;90s. It has an incredibly unique UNIXy flavour: If you don&#8217;t have 40 minutes to watch the tour, please do spend two minutes on this demo of the &#8220;$HOME MOVIE&#8221; system. It is &#8220;a suite of tools for the capture, editing and playback of window system sessions on a Sun Sparcstation&#8221; based on MGR. It is probably the most Unix way of making videos: the window manager dumps the rendering commands into a file, then the rendering commands can be altered with a set of small tools, some of which are in awk, and then these rendering commands can be packaged into a single demo. ↫ Nina Kalinina Kalinina had to more or less reverse-engineer its unique video format, too, but in doing so managed to upload the original demonstration of $movie home, narrated by its creator and created in $movie home itself, to YouTube. Kalinina also created and uploaded a ready-made hard disk image of Debian 0.93 with Bellcore MGR preinstalled for use in Qemu and 86Box.]]>
+      </description>
+      <source:markdown>I love it when I discover – usually through people smarter than I – an operating system or graphical user interface I’ve never heard of. This time, we’ve got Bellcore MGR, as meticulously detailed by Nina Kalinina a few weeks ago. I love old computers, and I enjoy looking at old user interfaces immensely. I could spend a whole evening on installing an old version of MS Word and playing with it: “Ah, look, how cute, they didn’t invent scrollbars just yet”. A special place in my heart is taken by user interfaces that were historically significant and yet fell into relative obscurity (like Windows 2 or BTRON). This is why I absolutely had to try Bellcore MGR. An early windowing system (1984), it was made by the Bell Communications Research, and it looked like Plan 9’s older sister. The system was distributed over the Usenet, ported to every conceivable Unix-like system, including Minix, Linux and Coherent, and – eventually – mostly forgotten. The only two videos on YouTube that have something to do with MGR have a bit over 1000 views combined, and don’t really show it in the best light possible. And I think it’s a crying shame. ↫ Nina Kalinina The reference to Plan 9 is apt, as MGR definitely seems to function almost exactly like Plan 9’s rio graphical user interface, including things like drawing a rectangle to open a new window. Rio is an acquired taste – to put it very mildly – and it seems MGR fits the same bill. There’s also $home movie, an entire video editor for MGR, which is honestly mind-blowing considering it’s running on a mere SPARCstation in the late ’80s and early ’90s. It has an incredibly unique UNIXy flavour: If you don’t have 40 minutes to watch the tour, please do spend two minutes on this demo of the “$HOME MOVIE” system. It is “a suite of tools for the capture, editing and playback of window system sessions on a Sun Sparcstation” based on MGR. It is probably the most Unix way of making videos: the window manager dumps the rendering commands into a file, then the rendering commands can be altered with a set of small tools, some of which are in awk, and then these rendering commands can be packaged into a single demo. ↫ Nina Kalinina Kalinina had to more or less reverse-engineer its unique video format, too, but in doing so managed to upload the original demonstration of $movie home, narrated by its creator and created in $movie home itself, to YouTube. Kalinina also created and uploaded a ready-made hard disk image of Debian 0.93 with Bellcore MGR preinstalled for use in Qemu and 86Box.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143640</guid>
+    </item>    <item>
+      <title>Python Foundation goes ride or DEI, rejects government grant with strings attached</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/27/python_foundation_abandons_15m_nsf/</link>
+      <description>
+        <![CDATA[<h4>Foundation says it won&#39;t compromise policy of inclusivity even if that cash would&#39;ve really helped</h4> <p>The Python Software Foundation (PSF) has walked away from a $1.5 million government grant and you can blame the Trump administration&#39;s war on woke for effectively weakening some open source security. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Foundation says it won&#39;t compromise policy of inclusivity even if that cash would&#39;ve really helped
+
+The Python Software Foundation (PSF) has walked away from a $1.5 million government grant and you can blame the Trump administration&#39;s war on woke for effectively weakening some open source security. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242685</guid>
+    </item>    <item>
+      <title>You Can Now Take a Stroll Down Jean-Michel Basquiat Way in New York City</title>
+      <link>https://www.smithsonianmag.com/smart-news/you-can-now-take-a-stroll-down-jean-michel-basquiat-way-in-new-york-city-180987560/</link>
+      <description>
+        <![CDATA[A stretch of lower Manhattan has been named in honor of the iconic artist, who rented a studio there from Andy Warhol between 1983 and 1988]]>
+      </description>
+      <source:markdown>A stretch of lower Manhattan has been named in honor of the iconic artist, who rented a studio there from Andy Warhol between 1983 and 1988</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/POOAA6mSOIJgYuLMH8AxRzMnrn4=/420x240/filters:focal(1024x683:1025x684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0e/56/0e5639ec-bcbd-4c0c-bf4a-0fab57e6176e/54871405600_9c8414e023_k.jpg" length="" type="" />
+    </item>    <item>
+      <title>Angriff auf Nvidia und AMD: Qualcomm kündigt neue KI-Chips an</title>
+      <link>https://www.heise.de/news/Angriff-auf-Nvidia-und-AMD-Qualcomm-kuendigt-neue-KI-Chips-an-10933589.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der US-Chipkonzern Qualcomm stellt neue KI-Beschleuniger vor. Mit diesem Schritt nimmt das Unternehmen den Markt für KI-Rechenzentren in den Blick.]]>
+      </description>
+      <source:markdown>Der US-Chipkonzern Qualcomm stellt neue KI-Beschleuniger vor. Mit diesem Schritt nimmt das Unternehmen den Markt für KI-Rechenzentren in den Blick.</source:markdown>
+      <guid>cid://http://heise.de/-10933589</guid>
+    </item>    <item>
+      <title>The Linux boot process: from power button to kernel</title>
+      <link>https://www.osnews.com/story/143638/the-linux-boot-process-from-power-button-to-kernel/</link>
+      <description>
+        <![CDATA[You press the power button. A second later a wall of text scrolls by, or a logo fades in, and eventually Linux appears. What happens in between is not magic. It is a careful handshake between tiny programs and a very literal CPU. This part follows that handshake until the very first line of C code inside the Linux kernel runs. ↫ 0xkato&#8217;s blog Exactly what it says on the tin.]]>
+      </description>
+      <source:markdown>You press the power button. A second later a wall of text scrolls by, or a logo fades in, and eventually Linux appears. What happens in between is not magic. It is a careful handshake between tiny programs and a very literal CPU. This part follows that handshake until the very first line of C code inside the Linux kernel runs. ↫ 0xkato’s blog Exactly what it says on the tin.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143638</guid>
+    </item>    <item>
+      <title>Signal president Meredith Whittaker says they had no choice but to use AWS, and that&#39;s a problem</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/27/signal_ceo_meredith_whittaker_aws_dependency/</link>
+      <description>
+        <![CDATA[<h4>&#39;The problem is the concentration of power in the infrastructure space that means there isn’t really another choice&#39;</h4> <p>Messaging service Signal may be unusual in its deployment of credible end-to-end encryption, but it shares a common availability vulnerability with many other internet services – dependence on Amazon Web Services (AWS).…</p>]]>
+      </description>
+      <source:markdown>#### &#39;The problem is the concentration of power in the infrastructure space that means there isn’t really another choice&#39;
+
+Messaging service Signal may be unusual in its deployment of credible end-to-end encryption, but it shares a common availability vulnerability with many other internet services – dependence on Amazon Web Services (AWS).…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242683</guid>
+    </item>    <item>
+      <title>Atlas vuln lets crims inject malicious prompts ChatGPT won&#39;t forget between sessions</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/27/atlas_vulnerability_memory_injection/</link>
+      <description>
+        <![CDATA[<h4>It can do a lot more than just play &#39;Eye of the Tiger&#39; daily</h4> <p>In yet another reminder to be wary of AI browsers, researchers at LayerX uncovered a vulnerability in OpenAI&#39;s Atlas that lets attackers inject malicious instructions into ChatGPT&#39;s memory using cross-site request forgery.…</p>]]>
+      </description>
+      <source:markdown>#### It can do a lot more than just play &#39;Eye of the Tiger&#39; daily
+
+In yet another reminder to be wary of AI browsers, researchers at LayerX uncovered a vulnerability in OpenAI&#39;s Atlas that lets attackers inject malicious instructions into ChatGPT&#39;s memory using cross-site request forgery.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242682</guid>
+    </item>    <item>
       <title>HPE&#39;s Discovery to succeed Frontier supercomputer with next-gen Cray tech</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/27/hpe_discovery_frontier_successor/</link>
       <description>
@@ -26,7 +106,7 @@ HPE is set to build a successor to the Frontier exascale system for America&#39;
       <source:markdown>Apple, Samsung, Google oder doch lieber Huawei? Wearables sind eine perfekte Ergänzung zum Smartphone. Wir zeigen die zehn besten Smartwatches.</source:markdown>
       <guid>cid://http://heise.de/-10923404</guid>
     </item>    <item>
-      <title>Supercomputer: HPE Discovery folgt 2027 dem Top500-Vizechampion Frontier</title>
+      <title>HPE baut Nachfolger für Supercomputer Frontier mit AMD-Technik und MI430X</title>
       <link>https://www.heise.de/news/Supercomputer-HPE-Discovery-folgt-2027-dem-Top500-Vizechampion-Frontier-10924630.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
         <![CDATA[Die nächste Generation Exascale-Supercomputer kommt ab Ende 2027 und wird AMD Epyc-Server-CPUs vom Typ "Venice" und AMDs Instinct-Beschleuniger MI430X haben.]]>
