@@ -7,10 +7,26 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>26 Oct 25 15:10 -0700</lastBuildDate>
+    <lastBuildDate>27 Oct 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Best things to do in LA and SoCal: Oct. 27-30</title>
+      <link>https://laist.com/news/arts-and-entertainment/best-events-this-week-los-angeles-southern-california-october-27-30</link>
+      <description>
+        <![CDATA[From the 'Mars Symphony' to Halloween art installations and spooky flower arranging, here’s what to see and hear in SoCal this week.]]>
+      </description>
+      <source:markdown>From the &#39;Mars Symphony&#39; to Halloween art installations and spooky flower arranging, here’s what to see and hear in SoCal this week.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-2378-d42d-a7fb-37ff57120000</guid>
+    </item>    <item>
+      <title>Headed to Dodger Stadium for the World Series? Here are the best places to eat and drink nearby</title>
+      <link>https://laist.com/news/food/headed-to-dodger-stadium-for-the-world-series-here-are-the-best-places-to-eat-and-drink-nearby</link>
+      <description>
+        <![CDATA[If you were lucky enough to score tickets to this year's World Series, chances are you're looking to grab some tasty food and drink before the game starts.]]>
+      </description>
+      <source:markdown>If you were lucky enough to score tickets to this year&#39;s World Series, chances are you&#39;re looking to grab some tasty food and drink before the game starts.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-183a-d84d-affa-defa16400000</guid>
+    </item>    <item>
       <title>After methane leak, Newport Beach residents are now allowed home</title>
       <link>https://laist.com/news/after-methane-leak-newport-beach-residents-are-now-allowed-home</link>
       <description>
@@ -2977,54 +2993,6 @@ Intertribal Powwow, celebrating six decades of cultural tradition.</source:markd
       </description>
       <source:markdown>In an extraordinary Sunday night hearing, federal District Judge Karin Immergut temporarily blocked the Trump administration from deploying federalized troops from any state to Oregon.</source:markdown>
       <guid>cid://urn:uuid:00000199-b7fc-dbfa-afdf-b7fde8460000</guid>
-    </item>    <item>
-      <title>Federal judge again blocks National Guard — including hundreds from California — from deploying to Oregon</title>
-      <link>https://laist.com/news/politics/trump-federalizes-the-national-guard-in-chicago-while-troops-arrive-in-oregon</link>
-      <description>
-        <![CDATA[The lawsuits cap a dizzying weekend of attempts by Trump to send guard members out onto American soil.]]>
-      </description>
-      <source:markdown>The lawsuits cap a dizzying weekend of attempts by Trump to send guard members out onto American soil.</source:markdown>
-      <guid>cid://urn:uuid:00000199-b6a1-dc80-a5fb-bff99c370000</guid>
-    </item>    <item>
-      <title>Trump administration orders CA National Guard to Oregon. Newsom vows legal fight</title>
-      <link>https://laist.com/news/politics/ca-guard-deployed-to-oregon</link>
-      <description>
-        <![CDATA[Newsom said the Trump administration is deploying the California troops, after a federal judge barred the federalization of Oregon’s National Guard.]]>
-      </description>
-      <source:markdown>Newsom said the Trump administration is deploying the California troops, after a federal judge barred the federalization of Oregon’s National Guard.</source:markdown>
-      <guid>cid://urn:uuid:00000199-b5bc-dafb-a599-f5fc02c00000</guid>
-    </item>    <item>
-      <title>Trump administration orders CA National Guard to Oregon. Newsom vows legal fight</title>
-      <link>https://laist.com/news/ca-guard-deployed-to-oregon</link>
-      <description>
-        <![CDATA[Newsom said the Trump administration is deploying the California troops, after a federal judge barred the federalization of Oregon’s National Guard.]]>
-      </description>
-      <source:markdown>Newsom said the Trump administration is deploying the California troops, after a federal judge barred the federalization of Oregon’s National Guard.</source:markdown>
-      <guid>cid://urn:uuid:00000199-b5bc-dafb-a599-f5fc02c00000</guid>
-    </item>    <item>
-      <title>Some Democrats share Trump&#39;s goal of forcing more homeless people into medical care</title>
-      <link>https://laist.com/news/housing-homelessness/some-democrats-share-trumps-goal-of-forcing-more-homeless-people-into-medical-care</link>
-      <description>
-        <![CDATA[President Trump says one part of the answer to homelessness is civil commitment and forced medical care. Some Democrats agree.]]>
-      </description>
-      <source:markdown>President Trump says one part of the answer to homelessness is civil commitment and forced medical care. Some Democrats agree.</source:markdown>
-      <guid>cid://urn:uuid:00000199-b4a5-dbfa-afdf-b7a59dbd0000</guid>
-    </item>    <item>
-      <title>National parks caught in the crosshairs of government shutdown</title>
-      <link>https://laist.com/news/climate-environment/national-parks-caught-in-the-crosshairs-of-government-shutdown</link>
-      <description>
-        <![CDATA[National parks across the country face conflicting demands and uncertainty as a result of the ongoing federal funding dispute.]]>
-      </description>
-      <source:markdown>National parks across the country face conflicting demands and uncertainty as a result of the ongoing federal funding dispute.</source:markdown>
-      <guid>cid://urn:uuid:00000199-b49c-dbfa-afdf-b79d4bd30002</guid>
-    </item>    <item>
-      <title>Mahjong is having a moment. This SGV event brings the youths and elders together to play</title>
-      <link>https://laist.com/news/los-angeles-activities/mahjong-is-having-a-moment-this-sgv-event-brings-the-kids-and-the-elders-together-to-play</link>
-      <description>
-        <![CDATA[Come one, come all. Intergenerational Mahjong brings people of any age, race or experience level to play the timeless tile game.]]>
-      </description>
-      <source:markdown>Come one, come all. Intergenerational Mahjong brings people of any age, race or experience level to play the timeless tile game.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a14d-d2a0-adbd-eb7d24770000</guid>
     </item>
   </channel>
 </rss>

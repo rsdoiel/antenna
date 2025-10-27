@@ -4,10 +4,21 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>26 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>27 Oct 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Guest Post — How Changes to ADA Title II Impact Libraries, and What We Can Do to Respond, Part 2</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/10/27/guest-post-how-changes-to-ada-title-ii-impact-libraries-and-what-we-can-do-to-respond-part-2/</link>
+      <description>
+        <![CDATA[<p>Today's guest blogger argues librarians have been advocates for accessibility of digital content long before ADA Title II — and they have a role in responding to the latest regulatory updates.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/10/27/guest-post-how-changes-to-ada-title-ii-impact-libraries-and-what-we-can-do-to-respond-part-2/">Guest Post — How Changes to ADA Title II Impact Libraries, and What We Can Do to Respond, Part 2</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Today&#39;s guest blogger argues librarians have been advocates for accessibility of digital content long before ADA Title II — and they have a role in responding to the latest regulatory updates.
+
+The post [Guest Post — How Changes to ADA Title II Impact Libraries, and What We Can Do to Respond, Part 2](https://scholarlykitchen.sspnet.org/2025/10/27/guest-post-how-changes-to-ada-title-ii-impact-libraries-and-what-we-can-do-to-respond-part-2/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61141</guid>
+    </item>    <item>
       <title>Celebrate 1 Trillion Web Pages with Original Net.Art Works: Internet Archive x Gray Area</title>
       <link>https://blog.archive.org/2025/10/24/celebrate-1-trillion-web-pages-with-original-net-art-works-internet-archive-x-gray-area/</link>
       <description>
@@ -269,7 +280,7 @@ The post [Day in Review (October 20–23)](https://www.arl.org/day-in-review/day
         <![CDATA[An eccentric scientist investigates a series of shocking murders that terrorize London.]]>
       </description>
       <source:markdown>An eccentric scientist investigates a series of shocking murders that terrorize London.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/john-rhode/the-murders-in-praed-street/downloads/john-rhode_the-murders-in-praed-street.epub?source=feed" length="722303" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/john-rhode/the-murders-in-praed-street/downloads/john-rhode_the-murders-in-praed-street.epub?source=feed" length="722323" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/john-rhode/the-murders-in-praed-street</guid>
     </item>    <item>
       <title>ARL Libraries Celebrate Open Access Week 2025</title>
@@ -845,15 +856,6 @@ The post [Guest Post — “Have You Proved You’re Human Today?” Open Conten
 
 The post [Guest Post — Manifesto Time: Do You Need a Publishing Manifesto?](https://scholarlykitchen.sspnet.org/2025/10/06/guest-post-manifesto-time-do-you-need-a-publishing-manifesto/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=61058</guid>
-    </item>    <item>
-      <title>Short Science Fiction, by Isaac Asimov</title>
-      <link>https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction</link>
-      <description>
-        <![CDATA[A collection of short science fiction by Isaac Asimov, ordered by date of original publication.]]>
-      </description>
-      <source:markdown>A collection of short science fiction by Isaac Asimov, ordered by date of original publication.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction/downloads/isaac-asimov_short-science-fiction.epub?source=feed" length="502542" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction</guid>
     </item>
   </channel>
 </rss>

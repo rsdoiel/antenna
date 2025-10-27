@@ -4,10 +4,465 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>26 Oct 25 15:10 -0700</lastBuildDate>
+    <lastBuildDate>27 Oct 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Cloud Native and AI: Why Open Source Needs Standards Like MCP</title>
+      <link>https://thenewstack.io/cloud-native-and-ai-why-open-source-needs-standards-like-mcp/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/3c5041d3-argocd-mcp-logo-2-1024x576.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Argo CD MCP logo" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/3c5041d3-argocd-mcp-logo-2.png" /><p>The past decade of cloud native was about scaling microservices with Kubernetes and GitOps. The next will be about how</p>
+        <p>The post <a href="https://thenewstack.io/cloud-native-and-ai-why-open-source-needs-standards-like-mcp/">Cloud Native and AI: Why Open Source Needs Standards Like MCP</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Argo CD MCP logo](https://cdn.thenewstack.io/media/2025/10/3c5041d3-argocd-mcp-logo-2-1024x576.png)
+
+The past decade of cloud native was about scaling microservices with Kubernetes and GitOps. The next will be about how
+
+The post [Cloud Native and AI: Why Open Source Needs Standards Like MCP](https://thenewstack.io/cloud-native-and-ai-why-open-source-needs-standards-like-mcp/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804261</guid>
+    </item>    <item>
+      <title>HyperOS 3: Xiaomi verpasst der 15T-Serie das große Update – weitere folgen</title>
+      <link>https://www.heise.de/news/HyperOS-3-Xiaomi-verpasst-der-15T-Serie-das-grosse-Update-weitere-folgen-10911963.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Xiaomi hat mit der Verteilung des großen Updates auf HyperOS 3 begonnen. Zuerst erhält es die 15T-Reihe.]]>
+      </description>
+      <source:markdown>Xiaomi hat mit der Verteilung des großen Updates auf HyperOS 3 begonnen. Zuerst erhält es die 15T-Reihe.</source:markdown>
+      <guid>cid://http://heise.de/-10911963</guid>
+    </item>    <item>
+      <title>Firefox: Neue Erweiterungen müssen Datenerhebung offenlegen</title>
+      <link>https://www.heise.de/news/Firefox-Neue-Erweiterungen-muessen-Datenerhebung-offenlegen-10909157.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ab November müssen neue Firefox-Erweiterungen im Manifest angeben, welche Nutzerdaten sie erheben. Und bald gilt die Regelung auch für bestehende Extensions.]]>
+      </description>
+      <source:markdown>Ab November müssen neue Firefox-Erweiterungen im Manifest angeben, welche Nutzerdaten sie erheben. Und bald gilt die Regelung auch für bestehende Extensions.</source:markdown>
+      <guid>cid://http://heise.de/-10909157</guid>
+    </item>    <item>
+      <title>Honda Prelude mit Hybridantrieb: Vernunft statt Sport</title>
+      <link>https://www.heise.de/news/Honda-Prelude-mit-Hybridantrieb-Vernunft-statt-Sport-10912074.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Honda bringt nach 25 Jahren wieder einen Prelude auf den Markt. Die Entscheidung für einen sparsamen Hybridantrieb überrascht.]]>
+      </description>
+      <source:markdown>Honda bringt nach 25 Jahren wieder einen Prelude auf den Markt. Die Entscheidung für einen sparsamen Hybridantrieb überrascht.</source:markdown>
+      <guid>cid://http://heise.de/-10912074</guid>
+    </item>    <item>
+      <title>iPhone Air: Noch mehr Berichte über Produktionsreduzierung</title>
+      <link>https://www.heise.de/news/iPhone-Air-Noch-mehr-Berichte-ueber-Produktionsreduzierung-10841282.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Apples schmalstes iPhone überhaupt verkauft sich offenbar schlechter als erwartet. Daran glaubt nun auch ein renommierter Apple-Beobachter.]]>
+      </description>
+      <source:markdown>Apples schmalstes iPhone überhaupt verkauft sich offenbar schlechter als erwartet. Daran glaubt nun auch ein renommierter Apple-Beobachter.</source:markdown>
+      <guid>cid://http://heise.de/-10841282</guid>
+    </item>    <item>
+      <title>heise+ | Produktiver entwickeln mit Dev Containers</title>
+      <link>https://www.heise.de/hintergrund/Produktiver-entwickeln-mit-Dev-Containers-10668507.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Development Containers stellen standardisierte, identische Entwicklungsumgebungen lokal oder in der Cloud bereit und erleichtern deren Einrichtung.]]>
+      </description>
+      <source:markdown>Development Containers stellen standardisierte, identische Entwicklungsumgebungen lokal oder in der Cloud bereit und erleichtern deren Einrichtung.</source:markdown>
+      <guid>cid://http://heise.de/-10668507</guid>
+    </item>    <item>
+      <title>VDA fordert Ladepflicht für Plug-in-Hybride</title>
+      <link>https://www.heise.de/news/VDA-fordert-Ladepflicht-fuer-Plug-in-Hybride-10901072.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ob Plug-in-Hybride mit Strom oder Sprit fahren, ist nutzerabhängig. Ihr realer CO₂-Ausstoß liegt viel höher als angenommen. Der VDA denkt an eine Ladepflicht.]]>
+      </description>
+      <source:markdown>Ob Plug-in-Hybride mit Strom oder Sprit fahren, ist nutzerabhängig. Ihr realer CO₂-Ausstoß liegt viel höher als angenommen. Der VDA denkt an eine Ladepflicht.</source:markdown>
+      <guid>cid://http://heise.de/-10901072</guid>
+    </item>    <item>
+      <title>Apples KI-Server &#34;made in USA&#34; fertig</title>
+      <link>https://www.heise.de/news/Apples-KI-Server-made-in-USA-fertig-10900087.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Apple hatte bereits angekündigt, KI-Technik für den internen Gebrauch in Houston herstellen zu lassen. Erste Geräte sollen nun fertig sein.]]>
+      </description>
+      <source:markdown>Apple hatte bereits angekündigt, KI-Technik für den internen Gebrauch in Houston herstellen zu lassen. Erste Geräte sollen nun fertig sein.</source:markdown>
+      <guid>cid://http://heise.de/-10900087</guid>
+    </item>    <item>
+      <title>Valkey 9.0 Debuts Multidatabase Clustering for Massive-Scale Workloads</title>
+      <link>https://thenewstack.io/valkey-9-0-debuts-multidatabase-clustering-for-massive-scale-workloads/</link>
+      <description>
+        <![CDATA[<img width="1024" height="683" src="https://cdn.thenewstack.io/media/2024/08/ec9588da-valkey-1024x683.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2024/08/ec9588da-valkey.png" /><p>The Valkey open source data store has officially released version 9.0, marking its most significant update since the project&#8217;s launch</p>
+        <p>The post <a href="https://thenewstack.io/valkey-9-0-debuts-multidatabase-clustering-for-massive-scale-workloads/">Valkey 9.0 Debuts Multidatabase Clustering for Massive-Scale Workloads</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2024/08/ec9588da-valkey-1024x683.png)
+
+The Valkey open source data store has officially released version 9.0, marking its most significant update since the project’s launch
+
+The post [Valkey 9.0 Debuts Multidatabase Clustering for Massive-Scale Workloads](https://thenewstack.io/valkey-9-0-debuts-multidatabase-clustering-for-massive-scale-workloads/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22803875</guid>
+    </item>    <item>
+      <title>Ex-CISA head thinks AI might fix code so fast we won&#39;t need security teams</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/27/jen_easterly_ai_cybersecurity/</link>
+      <description>
+        <![CDATA[<h4>Jen Easterly says most breaches stem from bad software, and smarter tech could finally clean it up</h4> <p>Ex-CISA head Jen Easterly claims AI could spell the end of the cybersecurity industry, as the sloppy software and vulnerabilities that criminals rely on will be tracked down faster than ever.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Jen Easterly says most breaches stem from bad software, and smarter tech could finally clean it up
+
+Ex-CISA head Jen Easterly claims AI could spell the end of the cybersecurity industry, as the sloppy software and vulnerabilities that criminals rely on will be tracked down faster than ever.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242673</guid>
+    </item>    <item>
+      <title>The Dinosaurs of North America Were Thriving Up Until an Asteroid Wiped Them Off the Face of the Earth, Scientists Argue</title>
+      <link>https://www.smithsonianmag.com/smart-news/dinosaurs-north-america-thriving-up-until-asteroid-wiped-them-off-face-earth-180987572/</link>
+      <description>
+        <![CDATA[A new study of dinosaur biodiversity challenges the belief that the megafauna were on their way out 66 million years ago]]>
+      </description>
+      <source:markdown>A new study of dinosaur biodiversity challenges the belief that the megafauna were on their way out 66 million years ago</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/6BJvw6W6OMwz_yT0g0FB2LGdqjE=/420x240/filters:focal(2500x1667:2501x1668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/92/31/9231a159-668a-4898-8bda-1e80c7462103/gettyimages-1312015150.jpg" length="" type="" />
+    </item>    <item>
+      <title>Saudi-arabisches Start-up bringt KI-Betriebssystem auf den Markt</title>
+      <link>https://www.heise.de/news/Saudi-arabisches-Start-up-bringt-KI-Betriebssystem-auf-den-Markt-10907387.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Alles lässt sich einfach mittels Sprache bedienen. Das ist Humain 1 – das KI-Betriebssystem des saudischen Start-ups Humain.]]>
+      </description>
+      <source:markdown>Alles lässt sich einfach mittels Sprache bedienen. Das ist Humain 1 – das KI-Betriebssystem des saudischen Start-ups Humain.</source:markdown>
+      <guid>cid://http://heise.de/-10907387</guid>
+    </item>    <item>
+      <title>Microsoft Store: Admin-Handreichung zum Enfernen vorinstallierter Apps</title>
+      <link>https://www.heise.de/news/Microsoft-Store-Admin-Handreichung-zum-Enfernen-vorinstallierter-Apps-10906622.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Microsoft will IT-Verantwortliche unterstützen und eine einfache Möglichkeit bieten, vorinstallierte Apps aus dem Store zu entfernen.]]>
+      </description>
+      <source:markdown>Microsoft will IT-Verantwortliche unterstützen und eine einfache Möglichkeit bieten, vorinstallierte Apps aus dem Store zu entfernen.</source:markdown>
+      <guid>cid://http://heise.de/-10906622</guid>
+    </item>    <item>
+      <title>JPYC gibt an den Yen gekoppelten Stablecoin heraus</title>
+      <link>https://www.heise.de/news/JPYC-gibt-an-den-Yen-gekoppelten-Stablecoin-heraus-10907515.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[In Japan ist eine neue Kryptowährung gestartet. Sie ist an die Landeswährung gekoppelt.]]>
+      </description>
+      <source:markdown>In Japan ist eine neue Kryptowährung gestartet. Sie ist an die Landeswährung gekoppelt.</source:markdown>
+      <guid>cid://http://heise.de/-10907515</guid>
+    </item>    <item>
+      <title>Airbnb-CEO und Altman-Freund hält ChatGPT für nicht bereit</title>
+      <link>https://www.heise.de/news/Airbnb-CEO-und-Altman-Freund-haelt-ChatGPT-fuer-nicht-bereit-10903271.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Brian Chesky möchte seinen Dienst, Airbnb, noch nicht an ChatGPT als App anbinden – das sei nicht robust genug.]]>
+      </description>
+      <source:markdown>Brian Chesky möchte seinen Dienst, Airbnb, noch nicht an ChatGPT als App anbinden – das sei nicht robust genug.</source:markdown>
+      <guid>cid://http://heise.de/-10903271</guid>
+    </item>    <item>
+      <title>iPad Pro: Was Apple für die nächsten Profi-Tablets plant</title>
+      <link>https://www.heise.de/news/iPad-Pro-Was-Apple-fuer-die-naechsten-Profi-Tablets-plant-10900069.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Kaum ist das iPad Pro M5 im Handel, gibt es schon einige Gerüchte zu den Nachfolgern. Ein Foldable braucht noch Zeit.]]>
+      </description>
+      <source:markdown>Kaum ist das iPad Pro M5 im Handel, gibt es schon einige Gerüchte zu den Nachfolgern. Ein Foldable braucht noch Zeit.</source:markdown>
+      <guid>cid://http://heise.de/-10900069</guid>
+    </item>    <item>
+      <title>Rust Coreutils 0.3.0: Bis zu 3,7-mal schneller als GNU-Tools</title>
+      <link>https://www.heise.de/news/Rust-Coreutils-0-3-0-Bis-zu-3-7-mal-schneller-als-GNU-Tools-10903184.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Rust-Reimplementierung klassischer Unix-Tools erreicht in Version 0.3.0 deutliche Performance-Steigerungen und verbesserte Sicherheit.]]>
+      </description>
+      <source:markdown>Die Rust-Reimplementierung klassischer Unix-Tools erreicht in Version 0.3.0 deutliche Performance-Steigerungen und verbesserte Sicherheit.</source:markdown>
+      <guid>cid://http://heise.de/-10903184</guid>
+    </item>    <item>
+      <title>heise+ | Google Pixel Watch 4 im Test</title>
+      <link>https://www.heise.de/tests/Google-Pixel-Watch-4-im-Test-10751747.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Die Pixel Watch 4 ist nachhaltiger und bringt eine überraschende Besonderheit. Wir haben getestet, wie sie sich im Alltag bewährt.]]>
+      </description>
+      <source:markdown>Die Pixel Watch 4 ist nachhaltiger und bringt eine überraschende Besonderheit. Wir haben getestet, wie sie sich im Alltag bewährt.</source:markdown>
+      <guid>cid://http://heise.de/-10751747</guid>
+    </item>    <item>
+      <title>heise-Angebot: Final Call: DevSecOps und KI – Sichere Softwareentwicklung mit der heise academy</title>
+      <link>https://www.heise.de/news/Final-Call-DevSecOps-und-KI-Sichere-Softwareentwicklung-mit-der-heise-academy-10845776.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Agile Methoden, verbunden mit modernen Sicherheitsstrategien und KI-gestützten Tools für eine zukunftssichere Softwareentwicklung.]]>
+      </description>
+      <source:markdown>Agile Methoden, verbunden mit modernen Sicherheitsstrategien und KI-gestützten Tools für eine zukunftssichere Softwareentwicklung.</source:markdown>
+      <guid>cid://http://heise.de/-10845776</guid>
+    </item>    <item>
+      <title>Elektrischer DIY-Quadkopter zweier Australier bricht Geschwindigkeitsrekord</title>
+      <link>https://www.heise.de/news/Peregreen-3-Schnellste-elektrische-DIY-Quadkopter-Drohne-fliegt-585-km-h-10904810.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Hochgeschwindigkeitsdrohne Peregreen 3 hat mit 585 km/h einen neuen Geschwindigkeitsrekord aufgestellt. Der Aufwand dafür ist hoch.]]>
+      </description>
+      <source:markdown>Die Hochgeschwindigkeitsdrohne Peregreen 3 hat mit 585 km/h einen neuen Geschwindigkeitsrekord aufgestellt. Der Aufwand dafür ist hoch.</source:markdown>
+      <guid>cid://http://heise.de/-10904810</guid>
+    </item>    <item>
+      <title>Auch mit KI: Projekt gibt Holocaust-Überlebenden &#34;Stimme für die Ewigkeit&#34;</title>
+      <link>https://www.heise.de/news/Auch-mit-KI-Projekt-gibt-Holocaust-Ueberlebenden-Stimme-fuer-Ewigkeit-10905773.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Es soll ein Lernort werden: Mit Hilfe von KI und moderner Technik werden in Essen persönliche Geschichten von Holocaust-Überlebenden für die Nachwelt gesichert.]]>
+      </description>
+      <source:markdown>Es soll ein Lernort werden: Mit Hilfe von KI und moderner Technik werden in Essen persönliche Geschichten von Holocaust-Überlebenden für die Nachwelt gesichert.</source:markdown>
+      <guid>cid://http://heise.de/-10905773</guid>
+    </item>    <item>
+      <title>Everything you know about last week&#39;s AWS outage is wrong</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/27/aws_outage_myths_reality/</link>
+      <description>
+        <![CDATA[<h4>AI wasn&#39;t the cause, and multi-cloud is for rubes</h4> <p><strong>Column</strong>  AWS put out a hefty <a target="_blank" href="https://www.theregister.com/2025/10/23/amazon_outage_postmortem/">analysis</a> of its October 20 outage, and it&#39;s apparently written in a continuing stream of consciousness before the Red Bull wore off and the author passed out after 36 straight hours of writing.…</p>]]>
+      </description>
+      <source:markdown>#### AI wasn&#39;t the cause, and multi-cloud is for rubes
+
+**Column**  AWS put out a hefty [analysis](https://www.theregister.com/2025/10/23/amazon_outage_postmortem/) of its October 20 outage, and it&#39;s apparently written in a continuing stream of consciousness before the Red Bull wore off and the author passed out after 36 straight hours of writing.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242667</guid>
+    </item>    <item>
+      <title>Reklame in Apple Maps soll schon bald starten – Bericht</title>
+      <link>https://www.heise.de/news/Bericht-Werbung-in-Apples-Karten-App-bereits-im-kommenden-Jahr-10900059.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Apple versucht, sein Servicegeschäft zu verbreitern. Die schon länger vorgesehene Karten-Reklame wird angeblich bald umgesetzt.]]>
+      </description>
+      <source:markdown>Apple versucht, sein Servicegeschäft zu verbreitern. Die schon länger vorgesehene Karten-Reklame wird angeblich bald umgesetzt.</source:markdown>
+      <guid>cid://http://heise.de/-10900059</guid>
+    </item>    <item>
+      <title>Machine learning saves £4.4M in UK.gov work and pensions fraud detection</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/27/dwp_machine_learning_savings/</link>
+      <description>
+        <![CDATA[<h4>Poor data standards across government hamper scaling, says Parliament spending watchdog</h4> <p>The UK government&#39;s Department for Work and Pensions (DWP) has saved £4.4 million over three years by using machine learning to tackle fraud, according to the National Audit Office (NAO). However, the public spending watchdog found the department&#39;s ability to expand this work is limited by fragmented IT systems and poor cross-government data standards.…</p>]]>
+      </description>
+      <source:markdown>#### Poor data standards across government hamper scaling, says Parliament spending watchdog
+
+The UK government&#39;s Department for Work and Pensions (DWP) has saved £4.4 million over three years by using machine learning to tackle fraud, according to the National Audit Office (NAO). However, the public spending watchdog found the department&#39;s ability to expand this work is limited by fragmented IT systems and poor cross-government data standards.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242668</guid>
+    </item>    <item>
+      <title>heise+ | Autorisierungskonzepte für Software: Von ABAC bis Zanzibar</title>
+      <link>https://www.heise.de/hintergrund/Autorisierungskonzepte-fuer-Software-Von-ABAC-bis-Zanzibar-10635552.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Wer darf was in einer Software? Autorisierung ist zentral für die Sicherheit von Software und Entwickler können zwischen unterschiedlichen Ansätzen wählen.]]>
+      </description>
+      <source:markdown>Wer darf was in einer Software? Autorisierung ist zentral für die Sicherheit von Software und Entwickler können zwischen unterschiedlichen Ansätzen wählen.</source:markdown>
+      <guid>cid://http://heise.de/-10635552</guid>
+    </item>    <item>
+      <title>Angreifer können Authentifizierung bei Dell Storage Manager umgehen</title>
+      <link>https://www.heise.de/news/Angreifer-koennen-Authentifizierung-bei-Dell-Storage-Manager-umgehen-10900228.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[In einer aktuellen Version von Dells Storage Manager haben die Entwickler drei Sicherheitslücken geschlossen.]]>
+      </description>
+      <source:markdown>In einer aktuellen Version von Dells Storage Manager haben die Entwickler drei Sicherheitslücken geschlossen.</source:markdown>
+      <guid>cid://http://heise.de/-10900228</guid>
+    </item>    <item>
+      <title>KI-Tools fördern Spesenbetrug: Fälschungen kaum noch erkennbar</title>
+      <link>https://www.heise.de/news/KI-Tools-foerdern-Spesenbetrug-Faelschungen-kaum-noch-erkennbar-10902468.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[KI-Tools erfreuen sich bei Arbeitnehmern zunehmender Beliebtheit – auch beim Spesenbetrug. Unternehmen stellen eine Zunahme gefälschter Belege fest.]]>
+      </description>
+      <source:markdown>KI-Tools erfreuen sich bei Arbeitnehmern zunehmender Beliebtheit – auch beim Spesenbetrug. Unternehmen stellen eine Zunahme gefälschter Belege fest.</source:markdown>
+      <guid>cid://http://heise.de/-10902468</guid>
+    </item>    <item>
+      <title>Phone 3a: NothingOS 4.0 bringt optionale Werbung auf dem Sperrbildschirm</title>
+      <link>https://www.heise.de/news/Phone-3a-NothingOS-4-0-bringt-optionale-Werbung-auf-dem-Sperrbildschirm-10901554.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das Tech-Start-up Nothing ändert seine Strategie für seine Budget-Modelle: Auf dem Sperrbildschirm zieht mit Android 16 künftig optional Werbung ein.]]>
+      </description>
+      <source:markdown>Das Tech-Start-up Nothing ändert seine Strategie für seine Budget-Modelle: Auf dem Sperrbildschirm zieht mit Android 16 künftig optional Werbung ein.</source:markdown>
+      <guid>cid://http://heise.de/-10901554</guid>
+    </item>    <item>
+      <title>Die Produktwerker: Entscheidungen vertreten, die man selbst kritisch sieht</title>
+      <link>https://www.heise.de/blog/Die-Produktwerker-Entscheidungen-vertreten-die-man-selbst-kritisch-sieht-10900326.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Oft muss man als Product Owner Entscheidungen vertreten, die man selbst nicht gutheißen kann. Wie das dennoch gut gelingt, klärt diese Podcastfolge.]]>
+      </description>
+      <source:markdown>Oft muss man als Product Owner Entscheidungen vertreten, die man selbst nicht gutheißen kann. Wie das dennoch gut gelingt, klärt diese Podcastfolge.</source:markdown>
+      <guid>cid://http://heise.de/-10900326</guid>
+    </item>    <item>
+      <title>Electron-Nerv: App zeigt, welche Programme mit macOS Tahoe Probleme machen</title>
+      <link>https://www.heise.de/news/Electron-Nerv-App-zeigt-welche-Programme-mit-macOS-Tahoe-Probleme-machen-10865895.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Slack, Discord und viele andere Cross-Platform-Apps nutzen das Electron-Framework. Das Problem: Ein Bug macht sie zu macOS 26 inkompatibel. Ein Prüftool hilft.]]>
+      </description>
+      <source:markdown>Slack, Discord und viele andere Cross-Platform-Apps nutzen das Electron-Framework. Das Problem: Ein Bug macht sie zu macOS 26 inkompatibel. Ein Prüftool hilft.</source:markdown>
+      <guid>cid://http://heise.de/-10865895</guid>
+    </item>    <item>
+      <title>Historische Sternenkataloge: Hinweise auf künstliche Satelliten vor Sputnik?</title>
+      <link>https://www.heise.de/news/Historische-Sternenkataloge-Hinweise-auf-kuenstliche-Satelliten-vor-Sputnik-10900340.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Astronomische Aufnahmen aus der Zeit vor Sputnik enthalten Lichtpunkte, die nur einmal auftauchen. Nun wurden Hinweise auf einen künstlichen Ursprung erforscht.]]>
+      </description>
+      <source:markdown>Astronomische Aufnahmen aus der Zeit vor Sputnik enthalten Lichtpunkte, die nur einmal auftauchen. Nun wurden Hinweise auf einen künstlichen Ursprung erforscht.</source:markdown>
+      <guid>cid://http://heise.de/-10900340</guid>
+    </item>    <item>
+      <title>The Chinese Box and Turing Test: Is AI really intelligent?</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/27/ai_intelligence_opinion/</link>
+      <description>
+        <![CDATA[<h4>No, it&#39;s just good at mass-production copy and paste. And yes, we&#39;re correctly applying Betteridge&#39;s Law</h4> <p><strong>Opinion</strong>  Remember <a target="_blank" rel="nofollow" href="https://web.njit.edu/~ronkowit/eliza.html">ELIZA</a>? The 1966 chatbot from MIT&#39;s AI Lab convinced countless people it was intelligent using nothing but simple pattern matching and canned responses. Nearly 60 years later, ChatGPT has people making the same mistake. Chatbots don&#39;t think – they&#39;ve just gotten exponentially better at pretending.…</p>]]>
+      </description>
+      <source:markdown>#### No, it&#39;s just good at mass-production copy and paste. And yes, we&#39;re correctly applying Betteridge&#39;s Law
+
+**Opinion**  Remember [ELIZA](https://web.njit.edu/~ronkowit/eliza.html)? The 1966 chatbot from MIT&#39;s AI Lab convinced countless people it was intelligent using nothing but simple pattern matching and canned responses. Nearly 60 years later, ChatGPT has people making the same mistake. Chatbots don&#39;t think – they&#39;ve just gotten exponentially better at pretending.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242631</guid>
+    </item>    <item>
+      <title>heise-Angebot: betterCode() .NET 10.0: Nur noch eine Woche Frühbucherrabatt</title>
+      <link>https://www.heise.de/news/betterCode-NET-10-0-Nur-noch-eine-Woche-Fruehbucherrabatt-10784711.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das ändert sich mit .NET 10.0: Die wichtigsten Neuerungen in Theorie und Praxis zeigen Expertenvorträge am 18. November und anschließende Ganztages-Workshops.]]>
+      </description>
+      <source:markdown>Das ändert sich mit .NET 10.0: Die wichtigsten Neuerungen in Theorie und Praxis zeigen Expertenvorträge am 18. November und anschließende Ganztages-Workshops.</source:markdown>
+      <guid>cid://http://heise.de/-10784711</guid>
+    </item>    <item>
+      <title>Apple trifft auf Android: Programmiersprache Swift bekommt ein Android-SDK</title>
+      <link>https://www.heise.de/news/Apple-trifft-auf-Android-Programmiersprache-Swift-bekommt-ein-Android-SDK-10900308.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das erste Preview-Release des Swift SDK for Android markiert neues Terrain in der Cross-Plattform-Entwicklung mit Apples Programmiersprache.]]>
+      </description>
+      <source:markdown>Das erste Preview-Release des Swift SDK for Android markiert neues Terrain in der Cross-Plattform-Entwicklung mit Apples Programmiersprache.</source:markdown>
+      <guid>cid://http://heise.de/-10900308</guid>
+    </item>    <item>
+      <title>Ubiquiti UniFi Access: Angreifer können sich unbefugt Zugriff verschaffen</title>
+      <link>https://www.heise.de/news/Ubiquiti-UniFi-Access-Angreifer-koennen-sich-unbefugt-Zugriff-verschaffen-10900318.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[In Ubiquitis UniFi Door Access klafft eine kritische Sicherheitslücke, die Angreifern unbefugten Zugriff ermöglicht.]]>
+      </description>
+      <source:markdown>In Ubiquitis UniFi Door Access klafft eine kritische Sicherheitslücke, die Angreifern unbefugten Zugriff ermöglicht.</source:markdown>
+      <guid>cid://http://heise.de/-10900318</guid>
+    </item>    <item>
+      <title>The perfect AWS storm has blown over, but the climate is only getting worse</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/27/aws_outage_opinion/</link>
+      <description>
+        <![CDATA[<h4>When it rains, it pours – and nobody packed an umbrella</h4> <p><strong>Opinion</strong>  When your cabbie asks you what you do for a living, and you answer &#34;tech journalist,&#34; you never get asked about cloud infrastructure in return. Bitcoin, mobile phones, AI, yes. Until last week: &#34;What&#39;s this AWS thing, then?&#34; You already knew a lot of people were having a very bad day in Bezosville, but if the news had reached an Edinburgh black cab driver, new adjectives were needed.…</p>]]>
+      </description>
+      <source:markdown>#### When it rains, it pours – and nobody packed an umbrella
+
+**Opinion**  When your cabbie asks you what you do for a living, and you answer &#34;tech journalist,&#34; you never get asked about cloud infrastructure in return. Bitcoin, mobile phones, AI, yes. Until last week: &#34;What&#39;s this AWS thing, then?&#34; You already knew a lot of people were having a very bad day in Bezosville, but if the news had reached an Edinburgh black cab driver, new adjectives were needed.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242648</guid>
+    </item>    <item>
+      <title>heise+ | Kampf gegen Schimmel: So kann Home Assistant helfen</title>
+      <link>https://www.heise.de/ratgeber/Kampf-gegen-Schimmel-So-kann-Home-Assistant-helfen-10855096.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Messen, rechnen, handeln: Mit Home Assistant und passenden Sensoren lassen sich leicht Automationen erstellen, mit denen Sie Schimmelbildung zuvorkommen.]]>
+      </description>
+      <source:markdown>Messen, rechnen, handeln: Mit Home Assistant und passenden Sensoren lassen sich leicht Automationen erstellen, mit denen Sie Schimmelbildung zuvorkommen.</source:markdown>
+      <guid>cid://http://heise.de/-10855096</guid>
+    </item>    <item>
+      <title>Nike &#34;Amplify&#34;: Motorisierter Laufschuh soll Läufer entlasten</title>
+      <link>https://www.heise.de/news/Nike-Amplify-Motorisierter-Laufschuh-soll-Laeufer-entlasten-10900312.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Nike und Dephy nutzen ein Mini-Exoskelett, um die natürliche Laufbewegung von Sportlern zu unterstützen. Das System soll sie schneller und weiter laufen lassen.]]>
+      </description>
+      <source:markdown>Nike und Dephy nutzen ein Mini-Exoskelett, um die natürliche Laufbewegung von Sportlern zu unterstützen. Das System soll sie schneller und weiter laufen lassen.</source:markdown>
+      <guid>cid://http://heise.de/-10900312</guid>
+    </item>    <item>
+      <title>Frustrated consultant &#39;went full Hulk&#39; and started smashing hardware</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/27/who_me/</link>
+      <description>
+        <![CDATA[<h4>Four back-to-back weekends of work – and disastrously bad documentation – will do that do a techie</h4> <p><strong>Who, Me?</strong>  Welcome to Monday morning and another installment of Who, Me? For the uninitiated, it&#39;s <i>The Register&#39;s</i> weekly reader-contributed column that tells tales of your greatest misses, and how you rebuilt a career afterward.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Four back-to-back weekends of work – and disastrously bad documentation – will do that do a techie
+
+**Who, Me?**  Welcome to Monday morning and another installment of Who, Me? For the uninitiated, it&#39;s _The Register&#39;s_ weekly reader-contributed column that tells tales of your greatest misses, and how you rebuilt a career afterward.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242647</guid>
+    </item>    <item>
+      <title>Canonical Academy: Ubuntu startet Zertifizierungsplattform</title>
+      <link>https://www.heise.de/news/Canonical-Academy-Ubuntu-startet-Zertifizierungsplattform-10900284.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Mit der Canonical Academy will Ubuntu praxisnahe Linux-Zertifikate etablieren. Der erste SysAdmin-Track ist ab sofort verfügbar.]]>
+      </description>
+      <source:markdown>Mit der Canonical Academy will Ubuntu praxisnahe Linux-Zertifikate etablieren. Der erste SysAdmin-Track ist ab sofort verfügbar.</source:markdown>
+      <guid>cid://http://heise.de/-10900284</guid>
+    </item>    <item>
+      <title>heise-Angebot: Passwortlose Authentifizierung mit Passkeys, FIDO, SSO und mehr</title>
+      <link>https://www.heise.de/news/iX-Workshop-Moderne-Authentifizierung-in-der-Praxis-2FA-fuer-Windows-Web-10777929.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Wie man FIDO2 und SSO in Webdienste integriert: Konzepte, Protokolle und Best Practices für eine sichere Authentifizierung mit und ohne Passwort.]]>
+      </description>
+      <source:markdown>Wie man FIDO2 und SSO in Webdienste integriert: Konzepte, Protokolle und Best Practices für eine sichere Authentifizierung mit und ohne Passwort.</source:markdown>
+      <guid>cid://http://heise.de/-10777929</guid>
+    </item>    <item>
+      <title>What Works – And Doesn’t – For Hair Loss?</title>
+      <link>https://www.npr.org/2025/10/27/nx-s1-5553489/female-hair-loss-growth-minoxidil-alopecia</link>
+      <description>
+        <![CDATA[People may think of hair loss as a guy thing. But by some estimates, half of all women experience hair loss in their lifetime. And when your social media algorithm gets a whiff? Good. Luck. There are some solutions out there based in science, but not every remedy works for every person — or every type of hair loss. (Yes, there are different types. And the type you have matters!) So today, pharmaceuticals correspondent <a href="https://www.npr.org/people/825275572/sydney-lupkin"target="_blank"   >Sydney Lupkin</a> guest hosts the show to talk about causes of hair loss and how to figure out which treatments may be best for you. <br/><br/><br><em>Interested in more science behind your health? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>People may think of hair loss as a guy thing. But by some estimates, half of all women experience hair loss in their lifetime. And when your social media algorithm gets a whiff? Good. Luck. There are some solutions out there based in science, but not every remedy works for every person — or every type of hair loss. (Yes, there are different types. And the type you have matters!) So today, pharmaceuticals correspondent [Sydney Lupkin](https://www.npr.org/people/825275572/sydney-lupkin) guest hosts the show to talk about causes of hair loss and how to figure out which treatments may be best for you.
+
+_Interested in more science behind your health? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR8879359760.mp3?t=podcast&e=nx-s1-5553489&p=510351&d=716&size=11458396" length="11458396" type="audio/mpeg" />
+      <guid>cid://f2f92dc3-ab8b-4d8d-9142-94587db5fd4b</guid>
+    </item>    <item>
+      <title>KI-Boom wird zur Klimafrage: Bevölkerung fordert Ökostrom für Rechenzentren</title>
+      <link>https://www.heise.de/news/Umfrage-Bevoelkerung-sieht-neue-Rechenzentren-kritisch-10900262.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Viele Menschen in Deutschland befürworten neue Rechenzentren nur bei zusätzlicher erneuerbarer Energie. Der KI-Boom wird jetzt zur Klimafrage.]]>
+      </description>
+      <source:markdown>Viele Menschen in Deutschland befürworten neue Rechenzentren nur bei zusätzlicher erneuerbarer Energie. Der KI-Boom wird jetzt zur Klimafrage.</source:markdown>
+      <guid>cid://http://heise.de/-10900262</guid>
+    </item>    <item>
+      <title>heise+ | Kaufberatung: Welches smarte Heizkörperthermostat das richtige für Sie ist</title>
+      <link>https://www.heise.de/tests/Kaufberatung-Welcher-Smart-Thermostat-der-richtige-fuer-Sie-ist-10751183.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Vernetzte Stellregler erleichtern es, Heizkörper auf Wohlfühltemperatur zu regeln und Verschwendung zu vermeiden. Wir zeigen, wie das auch wirklich klappt.]]>
+      </description>
+      <source:markdown>Vernetzte Stellregler erleichtern es, Heizkörper auf Wohlfühltemperatur zu regeln und Verschwendung zu vermeiden. Wir zeigen, wie das auch wirklich klappt.</source:markdown>
+      <guid>cid://http://heise.de/-10751183</guid>
+    </item>    <item>
+      <title>Preisschock bei Microsoft 365 mit Copilot: Australische Behörde reicht Klage ein</title>
+      <link>https://www.heise.de/news/Preisschock-bei-Microsoft-365-mit-Copilot-Australische-Behoerde-reicht-Klage-ein-10900222.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Nachdem Microsoft die Preise für das Office-Abo nach der Integration der Copilot-KI deutlich angehoben und eine Alternative versteckt hat, gibt es eine Klage.]]>
+      </description>
+      <source:markdown>Nachdem Microsoft die Preise für das Office-Abo nach der Integration der Copilot-KI deutlich angehoben und eine Alternative versteckt hat, gibt es eine Klage.</source:markdown>
+      <guid>cid://http://heise.de/-10900222</guid>
+    </item>    <item>
+      <title>Automattic accuses rival WordPress outfit WP Engine of ‘false advertising, and deceptive business practices’</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/27/automattic_wp_engine_counterclaim/</link>
+      <description>
+        <![CDATA[<h4>FOSS feud re-ignites with massive counter-claim</h4> <p>The long battle between Automattic and WP Engine has flared again, this time with accusations the latter company issued “false advertising”, and employed “deceptive business practices.”…</p>]]>
+      </description>
+      <source:markdown>#### FOSS feud re-ignites with massive counter-claim
+
+The long battle between Automattic and WP Engine has flared again, this time with accusations the latter company issued “false advertising”, and employed “deceptive business practices.”…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242671</guid>
+    </item>    <item>
+      <title>Präzedenzfall: US-Behörde identifiziert Darknet-Admin mit ChatGPT-Daten</title>
+      <link>https://www.heise.de/news/Praezedenzfall-US-Behoerde-identifiziert-Darknet-Admin-mit-ChatGPT-Daten-10900127.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der erste bekannt gewordene Beschlagnahmebeschluss für Nutzerdaten gegen OpenAI offenbart: US-Behörden können Prompt-Eingaben zur Strafverfolgung anfordern.]]>
+      </description>
+      <source:markdown>Der erste bekannt gewordene Beschlagnahmebeschluss für Nutzerdaten gegen OpenAI offenbart: US-Behörden können Prompt-Eingaben zur Strafverfolgung anfordern.</source:markdown>
+      <guid>cid://http://heise.de/-10900127</guid>
+    </item>    <item>
+      <title>Zwischen Fakten und Fakes: Click Boom Flash # 49 &#34;Die Macht der Bilder&#34;</title>
+      <link>https://www.heise.de/news/Zwischen-Fakten-und-Fakes-Click-Boom-Flash-49-Die-Macht-der-Bilder-10861420.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA["Ich fürchte, dass die fortschreitende Entwicklung der KI bald dazu führt, dass diese Fehler nicht mehr passieren", sagt Thomas Hoffmann über KI-Bilder.]]>
+      </description>
+      <source:markdown>&#34;Ich fürchte, dass die fortschreitende Entwicklung der KI bald dazu führt, dass diese Fehler nicht mehr passieren&#34;, sagt Thomas Hoffmann über KI-Bilder.</source:markdown>
+      <guid>cid://http://heise.de/-10861420</guid>
+    </item>    <item>
+      <title>Montag: WLAN-Frequenzstreit mit Mobilfunkern, Details zum Flughafen-Cyberangriff</title>
+      <link>https://www.heise.de/news/Montag-WLAN-Frequenzstreit-mit-Mobilfunkern-Details-zum-Flughafen-Cyberangriff-10900210.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[6-GHz-Band heiß begehrt + Ransomware oder FTP-Datenklau + Stempeln mit Microsoft Team + Preiserhöhungen wegen Speicherchips + Highspeed-Bahnprojekte der USA]]>
+      </description>
+      <source:markdown>6-GHz-Band heiß begehrt + Ransomware oder FTP-Datenklau + Stempeln mit Microsoft Team + Preiserhöhungen wegen Speicherchips + Highspeed-Bahnprojekte der USA</source:markdown>
+      <guid>cid://http://heise.de/-10900210</guid>
+    </item>    <item>
+      <title>UN Cybercrime Treaty wins dozens of signatories, to go with its many critics</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/27/un_cybercrime_convention_signed/</link>
+      <description>
+        <![CDATA[<h4>Allows surveillance and cross-border evidence sharing, which worries human rights groups</h4> <p>The United Nations on Saturday staged a signing ceremony for the Convention against Cybercrime, the world’s first agreement to combat online crime. And while 72 nations picked up the pen, critics continue to point out the convention’s flaws.…</p>]]>
+      </description>
+      <source:markdown>#### Allows surveillance and cross-border evidence sharing, which worries human rights groups
+
+The United Nations on Saturday staged a signing ceremony for the Convention against Cybercrime, the world’s first agreement to combat online crime. And while 72 nations picked up the pen, critics continue to point out the convention’s flaws.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242670</guid>
+    </item>    <item>
+      <title>Australia sues Microsoft for misleading M365 users about Copilot subscription options</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/27/asia_tech_news_roundup/</link>
+      <description>
+        <![CDATA[<h4>PLUS: China demotes tech self-sufficiency goal; Alibaba Cloud quietly quits VMware; India demands deepfake labels; and more!</h4> <p><strong>Asia In Brief</strong>  Australia’s Competition &amp; Consumer Commission on Monday commenced legal proceedings against Microsoft for allegedly misleading users of its Microsoft 365 bundle.…</p>]]>
+      </description>
+      <source:markdown>#### PLUS: China demotes tech self-sufficiency goal; Alibaba Cloud quietly quits VMware; India demands deepfake labels; and more!
+
+**Asia In Brief**  Australia’s Competition &#38; Consumer Commission on Monday commenced legal proceedings against Microsoft for allegedly misleading users of its Microsoft 365 bundle.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242669</guid>
+    </item>    <item>
+      <title>Shaq&#39;s new ride gets jaq&#39;ed in haq attaq</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/26/shaq_haq_attaq/</link>
+      <description>
+        <![CDATA[<h4>PLUS: Judge spanks NSO; Mozilla requires data use disclosures; TARmageddon meets Rust; And more!</h4> <p><strong>Infosec In Brief</strong>  Former basketball star Shaquille O&#39;Neal is 7&#39;1&#34; (215 cm), and therefore uses car customization companies to modify vehicles to fit his frame. But it appears cybercriminals have targeted Shaq’s preferred motor-modder.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### PLUS: Judge spanks NSO; Mozilla requires data use disclosures; TARmageddon meets Rust; And more!
+
+**Infosec In Brief**  Former basketball star Shaquille O&#39;Neal is 7&#39;1&#34; (215 cm), and therefore uses car customization companies to modify vehicles to fit his frame. But it appears cybercriminals have targeted Shaq’s preferred motor-modder.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242661</guid>
+    </item>    <item>
       <title>Collins Aerospace: Alte Passwörter und verzögerte Reaktion ermöglichen Datenklau</title>
       <link>https://www.heise.de/news/Collins-Aerospace-Alte-Passwoerter-und-verzoegerte-Reaktion-ermoeglichen-Datenklau-10900172.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
@@ -27,7 +482,7 @@
       <title>OpenTelemetry Adoption Update: Rust, Prometheus and Other Speed Bumps</title>
       <link>https://thenewstack.io/opentelemetry-adoption-update-rust-prometheus-and-other-speed-bumps/</link>
       <description>
-        <![CDATA[<img width="1024" height="732" src="https://cdn.thenewstack.io/media/2025/10/884f56d6-john-cardamone-nxh2zbyjc4a-unsplash-1-1024x732.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/884f56d6-john-cardamone-nxh2zbyjc4a-unsplash-1.jpg" /><p>OpenTelemetry is arguably living up to its hype. The open source project for observability has evolved over the last few</p>
+        <![CDATA[<img width="1024" height="732" src="https://cdn.thenewstack.io/media/2025/10/884f56d6-john-cardamone-nxh2zbyjc4a-unsplash-1-1024x732.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/884f56d6-john-cardamone-nxh2zbyjc4a-unsplash-1.jpg" /><p>OpenTelemetry is arguably living up to its hype. The open source project for observability has evolved over the last few</p>
         <p>The post <a href="https://thenewstack.io/opentelemetry-adoption-update-rust-prometheus-and-other-speed-bumps/">OpenTelemetry Adoption Update: Rust, Prometheus and Other Speed Bumps</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![](https://cdn.thenewstack.io/media/2025/10/884f56d6-john-cardamone-nxh2zbyjc4a-unsplash-1-1024x732.jpg)
@@ -64,7 +519,7 @@ The post [OpenTelemetry Adoption Update: Rust, Prometheus and Other Speed Bumps]
       <title>The AI Inflection Point Isn’t in the Cloud, It’s at the Edge</title>
       <link>https://thenewstack.io/the-ai-inflection-point-isnt-in-the-cloud-its-at-the-edge/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/7a93734e-agentic-ai-edge-2-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Cloud-shrouded mountain" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/7a93734e-agentic-ai-edge-2.jpg" /><p>AI model development has reached an inflection point, bringing high-performance computing capabilities typically reserved for the cloud out to edge</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/7a93734e-agentic-ai-edge-2-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Cloud-shrouded mountain" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/7a93734e-agentic-ai-edge-2.jpg" /><p>AI model development has reached an inflection point, bringing high-performance computing capabilities typically reserved for the cloud out to edge</p>
         <p>The post <a href="https://thenewstack.io/the-ai-inflection-point-isnt-in-the-cloud-its-at-the-edge/">The AI Inflection Point Isn&#8217;t in the Cloud, It&#8217;s at the Edge</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![Cloud-shrouded mountain](https://cdn.thenewstack.io/media/2025/10/7a93734e-agentic-ai-edge-2-1024x576.jpg)
@@ -139,6 +594,14 @@ The post [Ken Thompson Recalls Unix’s Rowdy, Lock-Picking Origins](https://the
       </description>
       <source:markdown>In der digitalen Gesundheitsversorgung ist die Abhängigkeit von Anbietern aus dem nicht europäischen Ausland derzeit groß. Droht das außer Kontrolle zu geraten?</source:markdown>
       <guid>cid://http://heise.de/-10749855</guid>
+    </item>    <item>
+      <title>heise+ | Amateurfunk: Ein Einblick in das faszinierende Hobby</title>
+      <link>https://www.heise.de/hintergrund/Amateurfunk-Ein-Einblick-in-das-faszinierende-Hobby-10789101.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Mit Funkgerät, Antenne und Leidenschaft: Zwei Funkamateure zeigen, wie man sich weltweit via Funk verbindet. Ein Videobeitrag.]]>
+      </description>
+      <source:markdown>Mit Funkgerät, Antenne und Leidenschaft: Zwei Funkamateure zeigen, wie man sich weltweit via Funk verbindet. Ein Videobeitrag.</source:markdown>
+      <guid>cid://http://heise.de/-10789101</guid>
     </item>    <item>
       <title>In acht Schritten zur digitalen Souveränität</title>
       <link>https://www.heise.de/hintergrund/In-acht-Schritten-zur-digitalen-Souveraenitaet-10862064.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
@@ -2546,14 +3009,6 @@ The post [The Game Theory of How Algorithms Can Drive Up Prices](https://www.qua
 
 A vulnerability in the popular Rust crate async-tar has affected the fast uv Python package manager, which uses a forked version that&#39;s now patched – but the most widely downloaded version remains unfixed.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242597</guid>
-    </item>    <item>
-      <title>heise+ | Amateurfunk: Ein Einblick in das faszinierende Hobby</title>
-      <link>https://www.heise.de/hintergrund/Amateurfunk-Ein-Einblick-in-das-faszinierende-Hobby-10789101.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
-      <description>
-        <![CDATA[Mit Funkgerät, Antenne und Leidenschaft: Zwei Funkamateure zeigen, wie man sich weltweit via Funk verbindet. Ein Videobeitrag.]]>
-      </description>
-      <source:markdown>Mit Funkgerät, Antenne und Leidenschaft: Zwei Funkamateure zeigen, wie man sich weltweit via Funk verbindet. Ein Videobeitrag.</source:markdown>
-      <guid>cid://http://heise.de/-10789101</guid>
     </item>    <item>
       <title>heise+ | c’t-Story: Das Erbe</title>
       <link>https://www.heise.de/hintergrund/c-t-Story-Das-Erbe-10643408.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
@@ -9759,26 +10214,6 @@ Learn more about sponsor message choices: [podcastchoices.com/adchoices](https:/
 
 **Who, Me?**  Oh, bother, it&#39;s Monday. But rather than curse about another working week rolling around, _The Register_ welcomes it with another instalment of Who, Me? It&#39;s the reader-contributed column in which you confess to workplace whoopsies and reveal how you survived them.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242147</guid>
-    </item>    <item>
-      <title>AI chatbots that butter you up make you worse at conflict, study finds</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/05/ai_models_flatter_users_worse_confilict/</link>
-      <description>
-        <![CDATA[<h4>Top AI models keep saying you’re right, and that’s the problem</h4> <p>State-of-the-art AI models tend to flatter users, and that praise makes people more convinced that they&#39;re right and less willing to resolve conflicts, recent research suggests.…</p>]]>
-      </description>
-      <source:markdown>#### Top AI models keep saying you’re right, and that’s the problem
-
-State-of-the-art AI models tend to flatter users, and that praise makes people more convinced that they&#39;re right and less willing to resolve conflicts, recent research suggests.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242314</guid>
-    </item>    <item>
-      <title>Hacking contest kerfuffle over copied rules pits Wiz against ZDI</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/05/zdi_wiz_hacking_contest_kerfuffle/</link>
-      <description>
-        <![CDATA[<h4>&#39;Seems like you should at least run that through ChatGPT to reword it&#39;</h4> <p>A new hacking contest has caused a social media kerfuffle over allegations of rule copying and plagiarism.…</p>]]>
-      </description>
-      <source:markdown>#### &#39;Seems like you should at least run that through ChatGPT to reword it&#39;
-
-A new hacking contest has caused a social media kerfuffle over allegations of rule copying and plagiarism.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242312</guid>
     </item>
   </channel>
 </rss>
