@@ -4,10 +4,65 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>27 Oct 25 10:53 -0700</lastBuildDate>
-    <generator>antenna/0.0.16-beta</generator>
+    <lastBuildDate>27 Oct 25 12:14 -0700</lastBuildDate>
+    <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>HPE&#39;s Discovery to succeed Frontier supercomputer with next-gen Cray tech</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/27/hpe_discovery_frontier_successor/</link>
+      <description>
+        <![CDATA[<h4>Oak Ridge&#39;s $500M system due in 2028, paired with a separate Lux AI cluster arriving two years earlier</h4> <p>HPE is set to build a successor to the Frontier exascale system for America&#39;s Oak Ridge National Laboratory, based on the next generation of its Cray supercomputer platform, plus a separate AI cluster to advance machine learning with a multi-tenant cloud-like platform.…</p>]]>
+      </description>
+      <source:markdown>#### Oak Ridge&#39;s $500M system due in 2028, paired with a separate Lux AI cluster arriving two years earlier
+
+HPE is set to build a successor to the Frontier exascale system for America&#39;s Oak Ridge National Laboratory, based on the next generation of its Cray supercomputer platform, plus a separate AI cluster to advance machine learning with a multi-tenant cloud-like platform.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242681</guid>
+    </item>    <item>
+      <title>Top 10: Die beste Smartwatch im Test – Apple Watch bleibt Testsieger</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-im-test-apple-watch-bleibt-testsieger/gee7t5m?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Apple, Samsung, Google oder doch lieber Huawei? Wearables sind eine perfekte Ergänzung zum Smartphone. Wir zeigen die zehn besten Smartwatches.]]>
+      </description>
+      <source:markdown>Apple, Samsung, Google oder doch lieber Huawei? Wearables sind eine perfekte Ergänzung zum Smartphone. Wir zeigen die zehn besten Smartwatches.</source:markdown>
+      <guid>cid://http://heise.de/-10923404</guid>
+    </item>    <item>
+      <title>Supercomputer: HPE Discovery folgt 2027 dem Top500-Vizechampion Frontier</title>
+      <link>https://www.heise.de/news/Supercomputer-HPE-Discovery-folgt-2027-dem-Top500-Vizechampion-Frontier-10924630.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die nächste Generation Exascale-Supercomputer kommt ab Ende 2027 und wird AMD Epyc-Server-CPUs vom Typ "Venice" und AMDs Instinct-Beschleuniger MI430X haben.]]>
+      </description>
+      <source:markdown>Die nächste Generation Exascale-Supercomputer kommt ab Ende 2027 und wird AMD Epyc-Server-CPUs vom Typ &#34;Venice&#34; und AMDs Instinct-Beschleuniger MI430X haben.</source:markdown>
+      <guid>cid://http://heise.de/-10924630</guid>
+    </item>    <item>
+      <title>Did Easter Island&#39;s Mysterious Moai Statues Waddle to Their Final Locations? Here&#39;s What That May Have Looked Like</title>
+      <link>https://www.smithsonianmag.com/smart-news/did-easter-islands-mysterious-moai-statues-waddle-to-their-final-locations-heres-what-that-may-have-looked-like-180987569/</link>
+      <description>
+        <![CDATA[Based on 3D modeling and testing on a moai replica, researchers think that small groups of people may have used ropes to "walk" the large statues across the island]]>
+      </description>
+      <source:markdown>Based on 3D modeling and testing on a moai replica, researchers think that small groups of people may have used ropes to &#34;walk&#34; the large statues across the island</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/OX5ngir6zTRyhqoK2dKd9OW0yDA=/420x240/filters:focal(3000x2000:3001x2001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/53/10/53103a9b-7812-46e2-97c6-0aa414821e20/gettyimages-2183724800.jpg" length="" type="" />
+    </item>    <item>
+      <title>What Does It Take for AI Agents To Deploy Infrastructure?</title>
+      <link>https://thenewstack.io/what-does-it-take-for-ai-agents-to-deploy-infrastructure/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/7bd9e335-infrastructure12-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Overhead view of criss-crossing multiple-lane freeways." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/7bd9e335-infrastructure12.jpg" /><p>AI is changing the way developers code. How much change and whether it&#8217;s all positive is the source of endless</p>
+        <p>The post <a href="https://thenewstack.io/what-does-it-take-for-ai-agents-to-deploy-infrastructure/">What Does It Take for AI Agents To Deploy Infrastructure?</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Overhead view of criss-crossing multiple-lane freeways.](https://cdn.thenewstack.io/media/2025/10/7bd9e335-infrastructure12-1024x576.jpg)
+
+AI is changing the way developers code. How much change and whether it’s all positive is the source of endless
+
+The post [What Does It Take for AI Agents To Deploy Infrastructure?](https://thenewstack.io/what-does-it-take-for-ai-agents-to-deploy-infrastructure/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804425</guid>
+    </item>    <item>
+      <title>Elektromobilität: Spulen in der Autobahn laden Fahrzeuge unterwegs</title>
+      <link>https://www.heise.de/news/Elektromobilitaet-Spulen-in-der-Autobahn-laden-Fahrzeuge-unterwegs-10926526.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[In Frankreich ist ein Autobahnteilstück mit einem induktiven Ladesystem ausgestattet worden. In einem Feldtest werden dort E-Autos während der Fahrt geladen.]]>
+      </description>
+      <source:markdown>In Frankreich ist ein Autobahnteilstück mit einem induktiven Ladesystem ausgestattet worden. In einem Feldtest werden dort E-Autos während der Fahrt geladen.</source:markdown>
+      <guid>cid://http://heise.de/-10926526</guid>
+    </item>    <item>
       <title>Überwachung: Ministerpräsidenten für &#34;schnellstmögliche&#34; Vorratsdatenspeicherung</title>
       <link>https://www.heise.de/news/Ueberwachung-Ministerpraesidenten-fuer-schnellstmoegliche-Vorratsdatenspeicherung-10924197.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
@@ -19,7 +74,7 @@
       <title>What Are AI Orchestrators and Why Do They Matter Now?</title>
       <link>https://thenewstack.io/what-are-ai-orchestrators-and-why-do-they-matter-now/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/3ac417a1-hai-nguyen-feqhl8gq2gw-unsplash-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="orchestrator" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/3ac417a1-hai-nguyen-feqhl8gq2gw-unsplash.jpg" /><p>Orchestrators make sure that AI agents don&#8217;t work in a vacuum; they organize the components, processes and information exchange to</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/3ac417a1-hai-nguyen-feqhl8gq2gw-unsplash-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="orchestrator" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/3ac417a1-hai-nguyen-feqhl8gq2gw-unsplash.jpg" /><p>Orchestrators make sure that AI agents don&#8217;t work in a vacuum; they organize the components, processes and information exchange to</p>
         <p>The post <a href="https://thenewstack.io/what-are-ai-orchestrators-and-why-do-they-matter-now/">What Are AI Orchestrators and Why Do They Matter Now?</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![orchestrator](https://cdn.thenewstack.io/media/2025/10/3ac417a1-hai-nguyen-feqhl8gq2gw-unsplash-1024x576.jpg)
@@ -37,12 +92,12 @@ The post [What Are AI Orchestrators and Why Do They Matter Now?](https://thenews
       <source:markdown>Teneriffa gilt als Touristeninsel, deren Strände von Urlaubern überfüllt sind. Die größte Kanareninsel bietet jedoch eine Fülle an eindrucksvollen Motiven.</source:markdown>
       <guid>cid://http://heise.de/-10725866</guid>
     </item>    <item>
-      <title>Breach at Iran’s cyberspy factory results in leak of student data</title>
+      <title>Iran&#39;s school for cyberspies could&#39;ve used a few more lessons in preventing breaches</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/27/breach_iran_ravin_academy/</link>
       <description>
-        <![CDATA[<h4>Ravin Academy confirms the intrusion on Telegram, says investigation continues</h4> <p>Iran&#39;s school for state-sponsored cyberattackers admits it suffered a breach exposing the names and other personal information of its associates and students.…</p>]]>
+        <![CDATA[<h4>Ravin Academy confirms the intrusion on Telegram, says student data was stolen</h4> <p>Iran&#39;s school for state-sponsored cyberattackers admits it suffered a breach exposing the names and other personal information of its associates and students.…</p>]]>
       </description>
-      <source:markdown>#### Ravin Academy confirms the intrusion on Telegram, says investigation continues
+      <source:markdown>#### Ravin Academy confirms the intrusion on Telegram, says student data was stolen
 
 Iran&#39;s school for state-sponsored cyberattackers admits it suffered a breach exposing the names and other personal information of its associates and students.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242680</guid>
@@ -66,7 +121,7 @@ Iran&#39;s school for state-sponsored cyberattackers admits it suffered a breach
       <title>Why Your Platform Engineering Career Is Really a Sales Job</title>
       <link>https://thenewstack.io/why-your-platform-engineering-career-is-really-a-sales-job/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/75091f38-christopher-batey-fast-flow-25-2-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Christopher Batey of Core Engineering Consulting Group (CECG) speaks about platform engineering at Fast Flow Conf, October 2025." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/75091f38-christopher-batey-fast-flow-25-2.jpg" /><p>LONDON &#8212; It turns out that platform engineer is a sales job. We&#8217;ve written a lot about how DevOps engineer</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/75091f38-christopher-batey-fast-flow-25-2-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Christopher Batey of Core Engineering Consulting Group (CECG) speaks about platform engineering at Fast Flow Conf, October 2025." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/75091f38-christopher-batey-fast-flow-25-2.jpg" /><p>LONDON &#8212; It turns out that platform engineer is a sales job. We&#8217;ve written a lot about how DevOps engineer</p>
         <p>The post <a href="https://thenewstack.io/why-your-platform-engineering-career-is-really-a-sales-job/">Why Your Platform Engineering Career Is Really a Sales Job</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![Christopher Batey of Core Engineering Consulting Group (CECG) speaks about platform engineering at Fast Flow Conf, October 2025.](https://cdn.thenewstack.io/media/2025/10/75091f38-christopher-batey-fast-flow-25-2-1024x576.jpg)
@@ -2021,6 +2076,10 @@ Federal prosecutors have charged a former general manager of US government defen
 
 **Hands On**  Microsoft’s Clippy was an anthropomorphic assistant ahead of his time, offering to help you with your Office 97 tasks when all you could do was type and click in response. Today, as part of a massive Copilot Fall Release, Redmond is bringing Clippy back – at least as an avatar for its new AI helper named “Mico”.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242642</guid>
+    </item>    <item>
+      <title>This month in Servo: experimental mode, Trusted Types, strokeText(), and more!</title>
+      <link>https://servo.org/blog/2025/10/24/this-month-in-servo/</link>
+      <guid>cid://https://servo.org/blog/2025/10/24/this-month-in-servo/</guid>
     </item>    <item>
       <title>Google and Anthropic wave hands about mega TPU deal worth &#39;tens of billions&#39;</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/23/google_anthropic_deal/</link>
@@ -5340,6 +5399,10 @@ Learn more about sponsor message choices: [podcastchoices.com/adchoices](https:/
       </description>
       <source:markdown>Pekings Vorwürfe an die NSA + KI-Training mit Wikipedia + Deutsche Bahn mit neuem ICE L + Kommentar zum Platzen der KI-Blase + Googles Foldable mit Entzündung</source:markdown>
       <guid>cid://http://heise.de/-10778630</guid>
+    </item>    <item>
+      <title>Servo 0.0.1 Release</title>
+      <link>https://servo.org/blog/2025/10/20/servo-0.0.1-release/</link>
+      <guid>cid://https://servo.org/blog/2025/10/20/servo-0.0.1-release/</guid>
     </item>    <item>
       <title>Balkonkraftwerk &#38; dynamischer Stromtarif: Speicher im Winter profitabel laden</title>
       <link>https://www.heise.de/bestenlisten/ratgeber/balkonkraftwerk-und-dynamischer-stromtarif-speicher-im-winter-profitabel-laden/15x65tr?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>

@@ -7,8 +7,8 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>27 Oct 25 10:53 -0700</lastBuildDate>
-    <generator>antenna/0.0.16-beta</generator>
+    <lastBuildDate>27 Oct 25 12:13 -0700</lastBuildDate>
+    <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>Example Talk</title>
@@ -38,6 +38,18 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <title>Pour une « nétiquette » de l’IA générative [en]</title>
+      <link>https://climbtothestars.org/archives/2025/10/27/pour-une-netiquette-de-lia-generative/</link>
+      <description>
+        <![CDATA[[en] L’IA générative, c’est ChatGPT, Claude et consorts. Ce sont des outils à qui on donne des instructions, et qui produisent en réponse du texte. Il y en a également à qui l’on donne des instructions, et qui produisent des images, du son, voir de la vidéo. Je n’ai pas pour objectif ici d’essayer de &#8230; <a href="https://climbtothestars.org/archives/2025/10/27/pour-une-netiquette-de-lia-generative/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Pour une «&#160;nétiquette&#160;» de l’IA générative <span class='bb-lang'>[en]</span></span>"</span></a>]]>
+      </description>
+      <source:markdown>\[en\] L’IA générative, c’est ChatGPT, Claude et consorts. Ce sont des outils à qui on donne des instructions, et qui produisent en réponse du texte. Il y en a également à qui l’on donne des instructions, et qui produisent des images, du son, voir de la vidéo. Je n’ai pas pour objectif ici d’essayer de … [Continue reading &#34;Pour une « nétiquette » de l’IA générative \[en\]&#34;](https://climbtothestars.org/archives/2025/10/27/pour-une-netiquette-de-lia-generative/)</source:markdown>
+      <guid>cid://https://climbtothestars.org/?p=10185</guid>
+    </item>    <item>
+      <title>App Store IDs Hint at Possible iPad Versions of Pixelmator Pro, Compressor, Motion, and MainStage</title>
+      <link>https://www.macrumors.com/2025/10/27/apple-may-release-pixelmator-pro-for-ipad/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42321</guid>
+    </item>    <item>
       <link>https://www.theatlantic.com/culture/2025/10/dear-james-male-friends-nongrowth-mindset/684552/?gift=f35zZN0v_gDFE8xNwlQAHUXzcik9EreCxLp0ZfJGSL0&#38;utm_source=copy-link&#38;utm_medium=social&#38;utm_campaign=share</link>
       <description>
         <![CDATA[<p>I thought this piece would be yet another that says men are somehow inadequate, but it isn't.</p>]]>
@@ -56,6 +68,10 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
 La entrada [Task: perdón, redención y el peso de la culpa](https://www.palomitademaiz.net/resenas-task/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
       <guid>cid://https://www.palomitademaiz.net/?p=25672</guid>
     </item>    <item>
+      <title>Gurman Reports That Apple Is Preparing to Sell Ads in Maps Starting in 2026</title>
+      <link>https://www.bloomberg.com/news/newsletters/2025-10-26/what-s-next-for-the-ipad-pro-iphone-17-pro-like-vapor-chamber-apple-maps-ads-mh7nq39h</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42320</guid>
+    </item>    <item>
       <title>300+ pledge to boycott the New York Times’ op-ed page over their anti-Palestinian bias.</title>
       <link>https://lithub.com/300-pledge-to-boycott-the-new-york-times-op-ed-page-over-their-anti-palestinian-bias/</link>
       <description>
@@ -71,6 +87,10 @@ La entrada [Task: perdón, redención y el peso de la culpa](https://www.palomit
       <source:markdown>Luxury Retirement Communities Are Embracing Private Clubs.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/27/1701/</guid>
     </item>    <item>
+      <title>Joe Rosensteel: ‘Creative Neglect: What About the Apps in Apple?’</title>
+      <link>https://sixcolors.com/post/2025/10/creative-neglect-what-about-the-apps-in-apple/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42319</guid>
+    </item>    <item>
       <title>Con Edison Refuses to Say How ICE Gets Its Customers’ Data</title>
       <link>https://www.404media.co/con-edison-refuses-to-say-how-ice-gets-its-customers-data/</link>
       <description>
@@ -85,6 +105,10 @@ La entrada [Task: perdón, redención y el peso de la culpa](https://www.palomit
       </description>
       <source:markdown>ICE’s Hiring Surge Is Already a Disaster.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/27/1699/</guid>
+    </item>    <item>
+      <title>Inside the Math That Detects Cheating on Sports Bets</title>
+      <link>https://www.usatoday.com/story/news/nation/2025/10/24/nba-rozier-betting-cheating-math-monitors/86857550007/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42318</guid>
     </item>    <item>
       <title>Louvre Jewel Heist</title>
       <link>https://www.schneier.com/blog/archives/2025/10/louvre-jewel-heist.html</link>
@@ -115,6 +139,10 @@ There were [security lapses](https://www.theatlantic.com/ideas/archive/2025/10/p
       <source:markdown>US is ‘on a trajectory’ toward authoritarian rule, ex-officials warn.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/27/1697/</guid>
     </item>    <item>
+      <title>Behind the Design: Adobe Premiere on iOS</title>
+      <link>https://adobe.design/stories/process/behind-the-design-adobe-premiere-on-ios</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42317</guid>
+    </item>    <item>
       <title>Zenni’s Anti-Facial Recognition Glasses are Eyewear for Our Paranoid Age</title>
       <link>https://www.404media.co/zennis-anti-facial-recognition-glasses-are-eyewear-for-our-paranoid-age/</link>
       <description>
@@ -133,6 +161,10 @@ There were [security lapses](https://www.theatlantic.com/ideas/archive/2025/10/p
 
 The post [Book of Making 2026 on sale now!](https://www.raspberrypi.com/news/book-of-making-2026-on-sale-now/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
       <guid>cid://https://www.raspberrypi.com/?p=131153</guid>
+    </item>    <item>
+      <title>The Doritos Gun</title>
+      <link>https://onefoottsunami.com/2025/10/27/the-doritos-gun/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29342</guid>
     </item>    <item>
       <title>AI Integration Is the New Moat</title>
       <link>https://www.oreilly.com/radar/integration-is-the-new-moat/</link>
@@ -1316,6 +1348,10 @@ The plant that’s growing in large green-reddish patches on the sand up here is
       <source:markdown>Fuchsia One of my favourite plants. Grows like mad in South-West Ireland where one finds some roadside hedgerowss that seem to be largely comprised of it. Quote of the Day ”The oddity of the hostility of certain thinkers and political … [Continue reading →](https://memex.naughtons.org/monday-27-october-2025/41321/)</source:markdown>
       <guid>cid://https://memex.naughtons.org/?p=41321</guid>
     </item>    <item>
+      <title>weekly retro #38: the heat is on</title>
+      <link>https://livelaugh.blog/posts/weekly-retro-38/</link>
+      <guid>cid://https://livelaugh.blog/posts/weekly-retro-38/</guid>
+    </item>    <item>
       <title>Pain management when building a startup</title>
       <link>https://maxhalford.github.io/blog/startup-pain-management/</link>
       <description>
@@ -1687,6 +1723,15 @@ Reply via:
 [Bluesky](https://bsky.app/profile/jim-nielsen.com)</source:markdown>
       <guid>cid://https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/</guid>
     </item>    <item>
+      <title>October 25, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-25-2025-40d</link>
+      <enclosure url="https://api.substack.com/feed/podcast/177199598/57fe1252a833374ef2eb5ed3df52f694.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-25-2025-40d</guid>
+    </item>    <item>
+      <title>The Sad State of Macintosh Hardware Back in 2018, at the Tail End of the Intel Era</title>
+      <link>https://weblog.rogueamoeba.com/2018/06/14/on-the-sad-state-of-macintosh-hardware/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42315</guid>
+    </item>    <item>
       <title>We Protested, Now What?</title>
       <link>https://ourfuture.org/20251026/we-protested-now-what</link>
       <description>
@@ -1751,12 +1796,20 @@ Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwill
       <enclosure url="https://substackcdn.com/image/fetch/$s_!94Yk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd51739b-b6ad-4bb4-be0f-4d30879308eb_2048x1351.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://fallows.substack.com/p/putting-the-public-back-in-public</guid>
     </item>    <item>
+      <title>2026 is the year of fine-tuned small models</title>
+      <link>https://seldo.com/posts/2026-is-the-year-of-fine-tuned-small-models</link>
+      <guid>cid://com.seldo/posts/2026-is-the-year-of-fine-tuned-small-models</guid>
+    </item>    <item>
       <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m44dzx3x6c2o</link>
       <description>
         <![CDATA[The erasure of our shared history gets coverage in a British paper, https://www.theguardian.com/us-news/2025/oct/26/mount-rushmore-native-american-history]]>
       </description>
       <source:markdown>The erasure of our shared history gets coverage in a British paper, https://www.theguardian.com/us-news/2025/oct/26/mount-rushmore-native-american-history</source:markdown>
       <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m44dzx3x6c2o</guid>
+    </item>    <item>
+      <title>The Scenario Where ChatGPT’s WhatsApp Gateway Was Useful: Airplane Wi-Fi</title>
+      <link>https://daringfireball.net/linked/2025/10/24/meta-whatsapp-rival-chatbot-ban</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42314</guid>
     </item>    <item>
       <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m446dmrxac24</link>
       <description>
@@ -1994,6 +2047,10 @@ Coco in the sun.</source:markdown>
       <source:markdown>Yesterday the Trump administration said it would not use any of the approximately $6 billion the U.S.</source:markdown>
       <guid>cid://https://heathercoxrichardson.substack.com/p/october-25-2025</guid>
     </item>    <item>
+      <title>‘Boring Is What We Wanted’</title>
+      <link>https://512pixels.net/2025/10/boring-is-what-we-wanted/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42313</guid>
+    </item>    <item>
       <title>Fake (AI) News</title>
       <link>https://statusq.org/archives/2025/10/26/13398/</link>
       <description>
@@ -2001,6 +2058,10 @@ Coco in the sun.</source:markdown>
       </description>
       <source:markdown>It appears that we still need to keep publicising the cautionary tales around AI, because people aren’t getting the message.  I was very concerned, when reading an online forum recently, to see somebody raise a (serious) health-related question, to which some other helpful person replied with many paragraphs of information pasted straight from ChatGPT.  Don’t [Continue Reading](https://statusq.org/archives/2025/10/26/13398/)</source:markdown>
       <guid>cid://https://statusq.org/?p=13398</guid>
+    </item>    <item>
+      <title>Sora Has a Pervert Problem</title>
+      <link>https://www.businessinsider.com/sora-video-openai-fetish-content-my-face-problem-2025-10</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42311</guid>
     </item>    <item>
       <title>Your Grocery Store is Ripping You Off</title>
       <link>https://robertreich.substack.com/p/your-grocery-store-is-ripping-you</link>
@@ -2010,6 +2071,11 @@ Coco in the sun.</source:markdown>
       <source:markdown>Here’s How</source:markdown>
       <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/ad5GfgrPkYo" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/your-grocery-store-is-ripping-you</guid>
+    </item>    <item>
+      <title>October 24, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-24-2025-8ef</link>
+      <enclosure url="https://api.substack.com/feed/podcast/177127161/46fe713379e7ec6e5aec44683b9f58aa.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-24-2025-8ef</guid>
     </item>    <item>
       <link>https://www.niemanlab.org/2025/10/the-wayback-machines-snapshots-of-news-homepages-plummet-after-a-breakdown-in-archiving-projects/</link>
       <description>
@@ -2571,6 +2637,10 @@ Via [@tarngerine](https://twitter.com/tarngerine/status/1981835235332698465)
 Tags: [svg](https://simonwillison.net/tags/svg), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [anthropic](https://simonwillison.net/tags/anthropic), [interpretability](https://simonwillison.net/tags/interpretability), [pelican-riding-a-bicycle](https://simonwillison.net/tags/pelican-riding-a-bicycle)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/25/visual-features-across-modalities/#atom-everything</guid>
     </item>    <item>
+      <title>A small code review prompt hack</title>
+      <link>https://blog.fsck.com/2025/10/25/code-review-prompt-hack/</link>
+      <guid>cid://https://blog.fsck.com/2025/10/25/code-review-prompt-hack/</guid>
+    </item>    <item>
       <title>claude_code_docs_map.md</title>
       <link>https://simonwillison.net/2025/Oct/24/claude-code-docs-map/#atom-everything</link>
       <description>
@@ -2640,6 +2710,10 @@ Related, I&#39;ve been asked if we&#39;ll share the subscription list for the Wo
       <source:markdown>Ontario premier says he&#39;ll pull ad that upset Trump.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/24/1653/</guid>
     </item>    <item>
+      <title>Meta Announces Ban on Rival AI Chatbots From WhatsApp</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/meta-will-ban-rival-ai-chatbots-from-whatsapp</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42310</guid>
+    </item>    <item>
       <title>Friday Squid Blogging: “El Pulpo The Squid”</title>
       <link>https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-el-pulpo-the-squid.html</link>
       <description>
@@ -2653,6 +2727,10 @@ As usual, you can also use this squid post to talk about the security stories in
 
 [Blog moderation policy.](https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html)</source:markdown>
       <guid>cid://https://www.schneier.com/?p=71067</guid>
+    </item>    <item>
+      <title>A Gatecrashing Bear</title>
+      <link>https://onefoottsunami.com/2025/10/24/a-gatecrashing-bear/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29334</guid>
     </item>    <item>
       <link>https://gizmodo.com/white-house-blocked-on-bluesky-2000674092</link>
       <description>
@@ -2878,6 +2956,11 @@ Reply via:
       </description>
       <source:markdown>Andreessen Horowitz is funding a company that clearly violates the inauthentic behavior policies of every major social media platform.</source:markdown>
       <guid>cid://68fbbbf1dbf2dc000117ea1c</guid>
+    </item>    <item>
+      <title>October 23, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-23-2025-cca</link>
+      <enclosure url="https://api.substack.com/feed/podcast/177033074/e24128018e87bdc7840a5b6c706c50bc.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-23-2025-cca</guid>
     </item>    <item>
       <title>Behind the Blog: Making Things for Humans</title>
       <link>https://www.404media.co/behind-the-blog-making-things-for-humans/</link>
@@ -3192,6 +3275,10 @@ This comes as an awkward time, as Sanborn is [auctioning off](https://www.schnei
       <source:markdown>Developers shouldn&#39;t have to be data landlords.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/23/1643/</guid>
     </item>    <item>
+      <title>Founders Over Funders. Inventors Over Investors.</title>
+      <link>https://anildash.com/2025/10/24/founders-over-funders/</link>
+      <guid>cid://https://anildash.com/2025/10/24/founders-over-funders/</guid>
+    </item>    <item>
       <title>Agents are Systems Software</title>
       <link>http://timkellogg.me/blog/2025/10/24/systems-software</link>
       <description>
@@ -3201,6 +3288,10 @@ This comes as an awkward time, as Sanborn is [auctioning off](https://www.schnei
       <source:markdown>Agents are hard to build. And when they’re done well, they’re highly generic and extendable.
 They’re systems, like web browsers or database engines.</source:markdown>
       <guid>cid://http://timkellogg.me/blog/2025/10/24/systems-software</guid>
+    </item>    <item>
+      <title>Fixing my Facebook feed with ChatGPT Atlas</title>
+      <link>https://blog.fsck.com/2025/10/24/chatgpt-atlas/</link>
+      <guid>cid://https://blog.fsck.com/2025/10/24/chatgpt-atlas/</guid>
     </item>    <item>
       <title>Friday 24 October, 2025</title>
       <link>https://memex.naughtons.org/friday-24-october-2025/41316/</link>
@@ -3218,6 +3309,18 @@ They’re systems, like web browsers or database engines.</source:markdown>
       <source:markdown>Trump levels a national treasure</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!JXer!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7317205a-9bab-4ef4-bc54-6c510eb0a676_3894x2597.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://steady.substack.com/p/american-history-be-damned</guid>
+    </item>    <item>
+      <title>SerpApi’s Public Customer List</title>
+      <link>https://serpapi.com/use-cases</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42309</guid>
+    </item>    <item>
+      <title>Reddit Files Lawsuit Accusing ‘Data Scraper’ Companies of Stealing Its Information</title>
+      <link>https://www.nytimes.com/2025/10/22/technology/reddit-data-scrapers-perplexity-theft.html?unlocked_article_code=1.vk8.W49v.NYfYXfBwO0Ry&#38;smid=url-share</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42308</guid>
+    </item>    <item>
+      <title>The Hollywood Reporter: ‘Is Jessica Chastain’s “The Savant” Ever Going to Be Released?’</title>
+      <link>https://www.hollywoodreporter.com/tv/tv-news/jessica-chastain-the-savant-delay-will-it-be-released-apple-1236406858/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42307</guid>
     </item>    <item>
       <link>http://scripting.com/2025/10/23.html#a210652</link>
       <description>
@@ -3428,6 +3531,11 @@ Reply via:
       <source:markdown>Heists are in the air. Paris is in a tizzy over recent smash and grabs at the Louvre and elsewhere. Stateside, Kelly Reichardt’s The Mastermind, featuring the people’s boyfriend Josh O’Connor as a bumbling local art thief, is hitting theaters.</source:markdown>
       <guid>cid://https://lithub.com/?p=261649</guid>
     </item>    <item>
+      <title>October 22, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-22-2025-72d</link>
+      <enclosure url="https://api.substack.com/feed/podcast/176946699/a54fc90f53d51525fd07bbfb1e3426ea.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-22-2025-72d</guid>
+    </item>    <item>
       <link>https://www.npr.org/2025/10/23/nx-s1-5583959/white-house-east-wing-demolition-ballroom-trump</link>
       <description>
         <![CDATA[<p>White House East Wing demolition almost complete, despite concern.</p>]]>
@@ -3593,6 +3701,14 @@ BTW, here&#39;s a [transcript](https://chatgpt.com/c/68f8f563-0ab8-8322-865a-af0
       <source:markdown>Meta’s Ray-Ban glasses usually include an LED that lights up when the user is recording other people. One hobbyist is charging a small fee to disable that light, and has a growing list of customers around the country.</source:markdown>
       <guid>cid://68f8ef89dbf2dc0001130a36</guid>
     </item>    <item>
+      <title>Walking the Earth</title>
+      <link>https://kottke.org/25/10/walking-the-earth</link>
+      <guid>cid://tag:kottke.org,2025://5.47757</guid>
+    </item>    <item>
+      <title>Next Stop, Carter World</title>
+      <link>https://onefoottsunami.com/2025/10/23/next-stop-carter-world/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29318</guid>
+    </item>    <item>
       <link>https://www.therepository.email/wordcamp-canada-2025-fosters-connections-between-generations-of-wordpress-users</link>
       <description>
         <![CDATA[<p>WordCamp Canada 2025 Fosters Connections Between Generations of WordPress Users.</p>]]>
@@ -3628,6 +3744,10 @@ BTW, here&#39;s a [transcript](https://chatgpt.com/c/68f8f563-0ab8-8322-865a-af0
 &#62;
 &#62; During that time, F5 said, the hackers took control of the network segment the company uses to create and distribute updates for BIG IP, a line of server appliances that F5 ...</source:markdown>
       <guid>cid://https://www.schneier.com/?p=71041</guid>
+    </item>    <item>
+      <title>&#38;#8220;I fell at the top of a mountain – and knew I...</title>
+      <link>https://kottke.org/25/10/0047756-i-fell-at-the-top</link>
+      <guid>cid://tag:kottke.org,2025://13.47756</guid>
     </item>    <item>
       <title>SVG in GTK</title>
       <link>https://blogs.gnome.org/gtk/2025/10/23/svg-in-gtk/</link>
@@ -4007,6 +4127,10 @@ The 59th version of the OpenBSD operating system is here, six months after 7.7, 
       <source:markdown>In November 2022, after I had been keeping track and adding names to this slide for a few years already, we could boast about curl having run on 89 different operating systems and only one year later we celebrated having reached 100 operating systems. This time I am back with another update and I here … [Continue reading On 110 operating systems→](https://daniel.haxx.se/blog/2025/10/23/on-110-operating-systems/)</source:markdown>
       <guid>cid://https://daniel.haxx.se/blog/?p=28418</guid>
     </item>    <item>
+      <title>A Chinese naval officer who took part in D-Day wrote an 80-page...</title>
+      <link>https://kottke.org/25/10/0047755-a-chinese-naval-officer-w</link>
+      <guid>cid://tag:kottke.org,2025://13.47755</guid>
+    </item>    <item>
       <title>October 22, 2025</title>
       <link>https://heathercoxrichardson.substack.com/p/october-22-2025</link>
       <description>
@@ -4065,6 +4189,10 @@ Tags: [law](https://simonwillison.net/tags/law), [new-york-times](https://simonw
 
 Tags: [dns](https://simonwillison.net/tags/dns), [scaling](https://simonwillison.net/tags/scaling), [aws](https://simonwillison.net/tags/aws), [postmortem](https://simonwillison.net/tags/postmortem)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/23/aws-postmortem/#atom-everything</guid>
+    </item>    <item>
+      <title>A riff on catfishing, &#38;#8220;chatfishing&#38;#8221; is using an LLM to communicate with...</title>
+      <link>https://kottke.org/25/10/0047754-a-riff-on-catfishing-chat</link>
+      <guid>cid://tag:kottke.org,2025://13.47754</guid>
     </item>    <item>
       <title>Video: Building a tool to copy-paste share terminal sessions using Claude Code for web</title>
       <link>https://simonwillison.net/2025/Oct/23/claude-code-for-web-video/#atom-everything</link>
@@ -4573,6 +4701,10 @@ Playing casual puzzle games everyday. Also started making some games but that’
 - [Tiled Words](https://tiledwords.com/)</source:markdown>
       <guid>cid://https://daverupert.com/2025/10/vibe-check-40/</guid>
     </item>    <item>
+      <title>Welcome to Union Glacier</title>
+      <link>https://kottke.org/25/10/welcome-to-union-glacier-1</link>
+      <guid>cid://tag:kottke.org,2025://5.47753</guid>
+    </item>    <item>
       <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m3t4fxzm4k2p</link>
       <description>
         <![CDATA[WTF?
@@ -4584,6 +4716,18 @@ Playing casual puzzle games everyday. Also started making some games but that’
 \[contains quote post or other embedded content\]</source:markdown>
       <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m3t4fxzm4k2p</guid>
     </item>    <item>
+      <title>Low friction FAIR interoperability using RO-Crate metadata in text analytics pipelines</title>
+      <link>https://ptsefton.com/2025/10/23/eResearch-2025-ro-crate-analytics/</link>
+      <guid>cid://https://ptsefton.com/2025/10/23/eResearch-2025-ro-crate-analytics/</guid>
+    </item>    <item>
+      <title>A new plugin for &#34;in development&#34; superpowers</title>
+      <link>https://blog.fsck.com/2025/10/23/naming-claude-plugins/</link>
+      <guid>cid://https://blog.fsck.com/2025/10/23/naming-claude-plugins/</guid>
+    </item>    <item>
+      <title>Fixing Claude Code&#39;s amnesia</title>
+      <link>https://blog.fsck.com/2025/10/23/episodic-memory/</link>
+      <guid>cid://https://blog.fsck.com/2025/10/23/episodic-memory/</guid>
+    </item>    <item>
       <title>Pitchfork Doesn’t Need Comments</title>
       <link>https://feed.tedium.co/link/15204/17191616/pitchfork-doesnt-need-comments</link>
       <description>
@@ -4591,6 +4735,10 @@ Playing casual puzzle games everyday. Also started making some games but that’
       </description>
       <source:markdown>The legendary music site’s message board is the broader internet—where people are going to agree or disagree with its ratings and keep it in the conversation. But on-site comments are apparently coming anyway.</source:markdown>
       <guid>cid://https://tedium.co/2025/10/22/pitchfork-doesnt-need-comments/</guid>
+    </item>    <item>
+      <title>GM Plans to Soon Ditch CarPlay and Android Auto on All Its Vehicles, Not Just EVs</title>
+      <link>https://www.theverge.com/transportation/804562/gm-apple-carplay-android-auto-gas-cars-mary-barra</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42306</guid>
     </item>    <item>
       <link>https://www.techpolicy.press/trump-administrations-arrival-on-bluesky-highlights-growing-pains-for-open-networks/</link>
       <description>
@@ -4606,6 +4754,18 @@ Playing casual puzzle games everyday. Also started making some games but that’
       <source:markdown>Elon Musk says he needs $1 trillion so he can control a robot army.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/22/1613/</guid>
     </item>    <item>
+      <title>New M5 Vision Pro and Dual Knit Headband Are Assembled in Vietnam, Not China</title>
+      <link>https://www.macrumors.com/2025/10/22/apple-vision-pro-now-made-in-vietnam/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42305</guid>
+    </item>    <item>
+      <title>Signal Moves Ahead on Post-Quantum Computing, But Still Sucks Ass When You Switch Phones</title>
+      <link>https://arstechnica.com/security/2025/10/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42304</guid>
+    </item>    <item>
+      <title>Apple Pulls Dating Apps Tea and TeaOnHer From the App Store</title>
+      <link>https://techcrunch.com/2025/10/22/apple-confirms-it-pulled-controversial-dating-apps-tea-and-teaonher-from-the-app-store/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42303</guid>
+    </item>    <item>
       <link>https://bsky.app/profile/barackobama.bsky.social/post/3m3swki3xcs2i</link>
       <description>
         <![CDATA[We have just over two weeks to pass Prop 50. And when we do, it will send a message of hope across the country, that change is possible if we do the work.
@@ -4617,12 +4777,21 @@ Playing casual puzzle games everyday. Also started making some games but that’
 So, let’s get to it. linktr.ee/cadem</source:markdown>
       <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m3swki3xcs2i</guid>
     </item>    <item>
+      <title>Adam Driver Says Bob Iger Nixed a Kylo Ren ‘Star Wars’ Film He Pitched With Steven Soderbergh</title>
+      <link>https://apnews.com/article/adam-driver-star-wars-soderbergh-jarmusch-4e08164d0419759f1b5b50d69864975d?ref=cupofcoffeenews.com</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42302</guid>
+    </item>    <item>
       <link>https://bsky.app/profile/barackobama.bsky.social/post/3m3sufud3q22i</link>
       <description>
         <![CDATA[Voters should pick their representatives, not the other way around. Glad to get the chance to talk to some of the volunteers and organizers doing the hard work to make sure Prop 50 passes. This vote will have critical implications, not just for California, but for our entire country.]]>
       </description>
       <source:markdown>Voters should pick their representatives, not the other way around. Glad to get the chance to talk to some of the volunteers and organizers doing the hard work to make sure Prop 50 passes. This vote will have critical implications, not just for California, but for our entire country.</source:markdown>
       <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m3sufud3q22i</guid>
+    </item>    <item>
+      <title>October 21, 2022</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-21-2022-d07</link>
+      <enclosure url="https://api.substack.com/feed/podcast/176869683/2b39cd6e64a633855c18049a528fcd75.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-21-2022-d07</guid>
     </item>    <item>
       <title>Senate Republicans Find the Bottom</title>
       <link>https://robertreich.substack.com/p/is-there-a-bottom</link>
@@ -4795,6 +4964,10 @@ Tags: [security](https://simonwillison.net/tags/security), [ai](https://simonwil
       <enclosure url="https://substackcdn.com/image/fetch/$s_!Xuc2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c75a8ba-08f0-4600-b869-c3fcf0faaa4e_565x411.webp" length="0" type="image/jpeg" />
       <guid>cid://https://garymarcus.substack.com/p/five-signs-that-generative-ai-is</guid>
     </item>    <item>
+      <title>Ke Yang, Apple’s Head of ChatGPT-Like AI Search Effort, Was Poached by Meta</title>
+      <link>https://www.bloomberg.com/news/articles/2025-10-15/apple-s-newly-tapped-head-of-chatgpt-like-ai-search-effort-to-leave-for-meta</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42301</guid>
+    </item>    <item>
       <link>https://techcrunch.com/2025/10/22/openais-atlas-is-more-about-chatgpt-than-the-web/</link>
       <description>
         <![CDATA[<p>OpenAI's Atlas is more about ChatGPT than the web.</p>]]>
@@ -4802,12 +4975,20 @@ Tags: [security](https://simonwillison.net/tags/security), [ai](https://simonwil
       <source:markdown>OpenAI&#39;s Atlas is more about ChatGPT than the web.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/22/1609/</guid>
     </item>    <item>
+      <title>This podcast episode looks really interesting: Tressie McMillan Cottom, Jamelle Bouie, and...</title>
+      <link>https://kottke.org/25/10/0047750-this-podcast-episode-look</link>
+      <guid>cid://tag:kottke.org,2025://13.47750</guid>
+    </item>    <item>
       <link>https://techcrunch.com/2025/10/22/amazon-will-buy-thousands-of-pedal-assist-cargo-vehicles-from-rivian-spinoff-also/</link>
       <description>
         <![CDATA[<p>Amazon will buy thousands of pedal-assist cargo vehicles from Rivian spinoff Also.</p>]]>
       </description>
       <source:markdown>Amazon will buy thousands of pedal-assist cargo vehicles from Rivian spinoff Also.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/22/1607/</guid>
+    </item>    <item>
+      <title>&#38;#8216;I get to do whatever I want in the moment&#38;#8217;: why more...</title>
+      <link>https://kottke.org/25/10/0047749-i-get-to-do-whatever</link>
+      <guid>cid://tag:kottke.org,2025://13.47749</guid>
     </item>    <item>
       <link>https://www.pbs.org/newshour/world/a-cuban-man-deported-by-the-u-s-to-africa-is-on-a-hunger-strike-in-prison-his-lawyer-says</link>
       <description>
@@ -4861,6 +5042,10 @@ Tags: [security](https://simonwillison.net/tags/security), [ai](https://simonwil
       <source:markdown>![](https://imgs.scripting.com/2025/10/22/windex.png)I&#39;m okay with Trump destroying the White House step by step. We&#39;re going to need a lot of new things once he&#39;s done. There&#39;s going to be a lot of broken stuff that needs fixing. Feces covered monuments. Probably a new cemetary somewhere for his victims. But you know how when the Mets were defeated by the determined Yankees in Shea Stadium in 2000, we tore down the old stadium and built a new one. Same thing. The old White House will have served its purpose. We shouldn&#39;t even build a _new White House_ on that location, just like we shouldn&#39;t have built a skyscraper in place of the World Trade Center. I wanted to see a mosque and a synagogue, a new football stadium, perhaps. A nice park. A place for a camp fire. Anything but an indestructable office building. We have so many of them. But where are the spaces for kids to play and learn and be friends. No, in place of the White House, I want to see a gorgeous public library. A place of learning. And a softball field and a nice swimming pool. We can tell the kids that once a bad old man lived here, and we decided it&#39;d be more fun to have a big playground instead.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/22.html#a172014</guid>
     </item>    <item>
+      <title>Gina Trapani on how she thinks about and uses AI as a...</title>
+      <link>https://kottke.org/25/10/0047747-gina-trapani-on-how-she</link>
+      <guid>cid://tag:kottke.org,2025://13.47747</guid>
+    </item>    <item>
       <title>Chainsaw Man – el arco de Reze: te están love bombing, amigo, date cuenta</title>
       <link>https://www.palomitademaiz.net/resenas-chainsaw-man-el-arco-de-reze/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-chainsaw-man-el-arco-de-reze</link>
       <description>
@@ -4871,6 +5056,10 @@ Tags: [security](https://simonwillison.net/tags/security), [ai](https://simonwil
 
 La entrada [Chainsaw Man – el arco de Reze: te están love bombing, amigo, date cuenta](https://www.palomitademaiz.net/resenas-chainsaw-man-el-arco-de-reze/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
       <guid>cid://https://www.palomitademaiz.net/?p=25660</guid>
+    </item>    <item>
+      <title>I&#38;#8217;m visiting Kyoto soon, so I reread Lauren Groff&#38;#8217;s piece about The...</title>
+      <link>https://kottke.org/25/10/0047748-im-visiting-kyoto-soon-so</link>
+      <guid>cid://tag:kottke.org,2025://13.47748</guid>
     </item>    <item>
       <title>Most of What We Call Progress - Yusuf Aytas</title>
       <link>https://yusufaytas.com/most-of-what-we-call-progress/</link>
@@ -4906,6 +5095,26 @@ La entrada [Chainsaw Man – el arco de Reze: te están love bombing, amigo, dat
       <source:markdown>Why Carnegie’s Libraries Are Getting $10,000 Checks.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/22/1601/</guid>
     </item>    <item>
+      <title>The Jacket Potato Jacket. &#38;#8220;Supermarket chain Aldi has teamed up with London...</title>
+      <link>https://kottke.org/25/10/0047746-the-jacket-potato-jacket-</link>
+      <guid>cid://tag:kottke.org,2025://13.47746</guid>
+    </item>    <item>
+      <title>Nikkei Asia: ‘Apple Slashes iPhone Air Production Plans, Boosts Other 17 Models’</title>
+      <link>https://asia.nikkei.com/spotlight/supply-chain/apple-slashes-iphone-air-production-plans-boosts-other-17-models-sources</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42300</guid>
+    </item>    <item>
+      <title>Read &#34;&#34;Anna, Lindsey Halligan Here.&#34;&#34;</title>
+      <link>https://www.mollywhite.net/reading/shortform?search=%22Anna%2C%20Lindsey%20Halligan%20Here.%22</link>
+      <guid>cid://68f8e9c99f72b44b384eceeb</guid>
+    </item>    <item>
+      <title>Don Mattingly Finally Headed to the World Series</title>
+      <link>https://www.mlb.com/news/don-mattingly-first-world-series</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42299</guid>
+    </item>    <item>
+      <title>Bear Breaks Into California Zoo to Mingle With Other Bears. &#38;#8220;A bear...</title>
+      <link>https://kottke.org/25/10/0047751-bear-breaks-into-californ</link>
+      <guid>cid://tag:kottke.org,2025://13.47751</guid>
+    </item>    <item>
       <link>http://scripting.com/2025/10/22.html#a135038</link>
       <description>
         <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2019/12/13/uncleSamAllYourBase.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Question came up <a href="https://talkingpointsmemo.com/tpm-25/can-substack-recover-the-blogosphere-we-lost">on TPM</a> as to whether the blogosphere might reboot in Substack. The author concluded it can't, and I agree. <a href="https://bsky.app/profile/scripting.com/post/3m3rq5wpk6e2u">Here's why</a>. "One thing the blogosphere had that Substack can’t have is all parts were replaceable. You could use any blogging tool, and any feed reader and still be part of the world. Substack is a single company that has raised VC money. Vastly different incentives." And this has been tested. You have to use their editor to publish in their enviroment. They're  unable to let you see their product as part of a toolset, it has to be the whole thing.]]>
@@ -4920,6 +5129,10 @@ La entrada [Chainsaw Man – el arco de Reze: te están love bombing, amigo, dat
       </description>
       <source:markdown>When Amazon Web Services went offline, people lost control of their cloud-connected smart beds, getting stuck in reclined positions or roasting with the heat turned all the way up.</source:markdown>
       <guid>cid://68f8d196e9f501000170db53</guid>
+    </item>    <item>
+      <title>A Reminder that Protected Bike Lanes Can Make Streets Safer for Everyone....</title>
+      <link>https://kottke.org/25/10/0047737-a-reminder-that-protected</link>
+      <guid>cid://tag:kottke.org,2025://13.47737</guid>
     </item>    <item>
       <title>Podcast: Hackers Dox ICE</title>
       <link>https://www.404media.co/podcast-hackers-dox-ice/</link>
@@ -5414,12 +5627,16 @@ The post [Sustainable solutions: Making the Raspberry Pi office greener](https:/
       <enclosure url="https://substackcdn.com/image/fetch/$s_!NWDX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3770be9f-5a3b-47bd-ad02-fca8b24d80fc_565x411.png" length="0" type="image/jpeg" />
       <guid>cid://https://garymarcus.substack.com/p/is-vibe-coding-dying</guid>
     </item>    <item>
+      <title>Smart Beds Went Dumb</title>
+      <link>https://onefoottsunami.com/2025/10/22/smart-beds-went-dumb/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29329</guid>
+    </item>    <item>
       <title>AI Is Reshaping Developer Career Paths</title>
       <link>https://www.oreilly.com/radar/ai-is-reshaping-developer-career-paths/</link>
       <description>
-        <![CDATA[This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. A few decades ago, I worked with a developer who was respected by everyone on our team. Much of that respect came from the fact that he kept adopting new technologies that none of us had worked [&#8230;]]]>
+        <![CDATA[This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. Read the original framework introduction and explore the complete methodology in Andrew Stellman&#8217;s O&#8217;Reilly report Critical Thinking Habits for Coding with AI. A few decades ago, I worked with a developer who was respected by everyone on our team. Much [&#8230;]]]>
       </description>
-      <source:markdown>This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. A few decades ago, I worked with a developer who was respected by everyone on our team. Much of that respect came from the fact that he kept adopting new technologies that none of us had worked \[…\]</source:markdown>
+      <source:markdown>This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. Read the original framework introduction and explore the complete methodology in Andrew Stellman’s O’Reilly report Critical Thinking Habits for Coding with AI. A few decades ago, I worked with a developer who was respected by everyone on our team. Much \[…\]</source:markdown>
       <guid>cid://https://www.oreilly.com/radar/?p=17579</guid>
     </item>    <item>
       <title>Failures in Face Recognition</title>
@@ -5841,6 +6058,14 @@ Claude Code&#39;s settings are [documented here](https://docs.claude.com/en/docs
 Tags: [coding-agents](https://simonwillison.net/tags/coding-agents), [anthropic](https://simonwillison.net/tags/anthropic), [claude-code](https://simonwillison.net/tags/claude-code), [generative-ai](https://simonwillison.net/tags/generative-ai), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/22/claude-code-logs/#atom-everything</guid>
     </item>    <item>
+      <title>ChatGPT&#39;s Atlas: The Browser That&#39;s Anti-Web</title>
+      <link>https://anildash.com/2025/10/22/atlas-anti-web-browser/</link>
+      <guid>cid://https://anildash.com/2025/10/22/atlas-anti-web-browser/</guid>
+    </item>    <item>
+      <title>what someone (i) who has done aerial yoga (over) 150 times brings to class</title>
+      <link>https://livelaugh.blog/posts/150-aerial-yoga-classes/</link>
+      <guid>cid://https://livelaugh.blog/posts/150-aerial-yoga-classes/</guid>
+    </item>    <item>
       <title>Mike Johnson Opts for Medically Induced Coma to Avoid Swearing in New Democratic Congresswoman</title>
       <link>https://www.borowitzreport.com/p/mike-johnson-opts-for-medically-induced</link>
       <description>
@@ -5850,6 +6075,10 @@ Tags: [coding-agents](https://simonwillison.net/tags/coding-agents), [anthropic]
       <enclosure url="https://substackcdn.com/image/fetch/$s_!0ndO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F808b961a-178d-4103-97ab-971ed9a1427c_1584x1533.heic" length="0" type="image/jpeg" />
       <guid>cid://https://www.borowitzreport.com/p/mike-johnson-opts-for-medically-induced</guid>
     </item>    <item>
+      <title>Trump Said to Demand Justice Department Pay Him $230 Million for Past Cases</title>
+      <link>https://www.nytimes.com/2025/10/21/us/politics/trump-justice-department-compensation.html</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42298</guid>
+    </item>    <item>
       <title>TEST</title>
       <link>https://lithub.com/test/</link>
       <description>
@@ -5857,6 +6086,11 @@ Tags: [coding-agents](https://simonwillison.net/tags/coding-agents), [anthropic]
       </description>
       <source:markdown>To continue reading… Become a member and get unlimited access to articles and more: Start Your Membership Already a member? Log in here.</source:markdown>
       <guid>cid://https://lithub.com/?p=261569</guid>
+    </item>    <item>
+      <title>October 20, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-20-2025-67d</link>
+      <enclosure url="https://api.substack.com/feed/podcast/176785139/5e8b72f4b0de32db99820e68146161f6.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-20-2025-67d</guid>
     </item>    <item>
       <title>Unseeable prompt injections in screenshots: more vulnerabilities in Comet and other AI browsers</title>
       <link>https://simonwillison.net/2025/Oct/21/unseeable-prompt-injections/#atom-everything</link>
@@ -5915,6 +6149,10 @@ It&#39;s not clear from the Brave post if either of these bugs were mitigated af
 Tags: [privacy](https://simonwillison.net/tags/privacy), [security](https://simonwillison.net/tags/security), [ai](https://simonwillison.net/tags/ai), [prompt-injection](https://simonwillison.net/tags/prompt-injection), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [perplexity](https://simonwillison.net/tags/perplexity), [exfiltration-attacks](https://simonwillison.net/tags/exfiltration-attacks), [ai-agents](https://simonwillison.net/tags/ai-agents), [ai-ethics](https://simonwillison.net/tags/ai-ethics), [browser-agents](https://simonwillison.net/tags/browser-agents), [brave](https://simonwillison.net/tags/brave)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/21/unseeable-prompt-injections/#atom-everything</guid>
     </item>    <item>
+      <title>1.5 Miles of Aluminum Foil Is, in Fact, No Big Whoop</title>
+      <link>https://daringfireball.net/linked/2025/10/20/london-phone-theft</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42297</guid>
+    </item>    <item>
       <title>Friends, the Sleeping Giant is Roaring</title>
       <link>https://robertreich.substack.com/p/friends-the-sleeping-giant-is-roaring</link>
       <description>
@@ -5930,6 +6168,10 @@ Tags: [privacy](https://simonwillison.net/tags/privacy), [security](https://simo
       </description>
       <source:markdown>Good article on the challenges of water in North Guam, https://www.pacificislandtimes.com/post/dieldrin-in-our-water-a-silent-threat-to-guam-s-health</source:markdown>
       <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m3qczs6gfc2y</guid>
+    </item>    <item>
+      <title>The &#38;#8216;Anti-Woke&#38;#8217; Tax That All Americans Are Paying. &#38;#8220;Tariffs are the most...</title>
+      <link>https://kottke.org/25/10/0047745-the-anti-woke-tax-that-al</link>
+      <guid>cid://tag:kottke.org,2025://13.47745</guid>
     </item>    <item>
       <title>Wednesday 22 October, 2025</title>
       <link>https://memex.naughtons.org/wednesday-22-october-2025/41310/</link>
@@ -5963,6 +6205,10 @@ Tags: [privacy](https://simonwillison.net/tags/privacy), [security](https://simo
       <source:markdown>Lawrence Abrams: Microsoft Threat Intelligence reports that a new variant of the XCSSET macOS malware has been detected in limited attacks, incorporating several new features, including enhanced browser targeting, clipboard hijacking, and improved persistence mechanisms.XCSSET is a modular macOS malware that acts as an infostealer and cryptocurrency stealer, stealing Notes, cryptocurrency wallets, and browser data \[…\]</source:markdown>
       <guid>cid://https://mjtsai.com/blog/?p=49714</guid>
     </item>    <item>
+      <title>New essay collection from classicist Emily Wilson: Crossing the Wine-Dark Sea. &#38;#8220;From...</title>
+      <link>https://kottke.org/25/10/0047743-new-collection-from-class</link>
+      <guid>cid://tag:kottke.org,2025://13.47743</guid>
+    </item>    <item>
       <link>https://www.npr.org/2025/10/20/g-s1-94315/white-house-demolishing-east-wing-trump-ballroom</link>
       <description>
         <![CDATA[<p>Part of the White House East Wing is being torn down to build Trump's ballroom.</p>]]>
@@ -5976,6 +6222,10 @@ Tags: [privacy](https://simonwillison.net/tags/privacy), [security](https://simo
       </description>
       <source:markdown>OpenAI looks for its “Google Chrome” moment with new Atlas web browser.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/21/1591/</guid>
+    </item>    <item>
+      <title>Consumer Confusion Regarding USB Power Adapters</title>
+      <link>https://daringfireball.net/linked/2025/10/20/heer-m5-mbp-charger</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42296</guid>
     </item>    <item>
       <title>Introducing ChatGPT Atlas</title>
       <link>https://simonwillison.net/2025/Oct/21/introducing-chatgpt-atlas/#atom-everything</link>
@@ -6087,6 +6337,10 @@ Tags: [accessibility](https://simonwillison.net/tags/accessibility), [aria](http
       <source:markdown>Two new(ish) iPhone camera apps that take decidedly different approaches to distinguish themselves from Apple’s built-in Camera app.</source:markdown>
       <guid>cid://tag:daringfireball.net,2025://1.42295</guid>
     </item>    <item>
+      <title>Ethan Hawke Breaks Down His Career</title>
+      <link>https://kottke.org/25/10/ethan-hawke-breaks-down-his-career</link>
+      <guid>cid://tag:kottke.org,2025://5.47744</guid>
+    </item>    <item>
       <link>https://docs.gotosocial.org/en/latest/getting_started/</link>
       <description>
         <![CDATA[<p>Gotosocial is a great idea, but can't it be simpler to set up a server? If not, let's look at creating a higher level interface that can then be bridged to ActivityPub.</p>]]>
@@ -6120,12 +6374,20 @@ Tags: [accessibility](https://simonwillison.net/tags/accessibility), [aria](http
 ![](https://imgs.scripting.com/2025/10/21/bingeworthyScreen.png)BingeWorthy screen shot.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/21/172400.html</guid>
     </item>    <item>
+      <title>Hitler, Stalin, Freud, Trotsky, and Franz Joseph all lived within a radius...</title>
+      <link>https://kottke.org/25/10/0047742-hitler-stalin-freud-trots</link>
+      <guid>cid://tag:kottke.org,2025://13.47742</guid>
+    </item>    <item>
       <link>https://arstechnica.com/space/2025/10/the-mystery-object-that-struck-a-plane-in-flight-it-was-probably-a-weather-balloon/</link>
       <description>
         <![CDATA[<p>It wasn’t space debris that struck a United Airlines plane—it was a weather balloon.</p>]]>
       </description>
       <source:markdown>It wasn’t space debris that struck a United Airlines plane—it was a weather balloon.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/21/1585/</guid>
+    </item>    <item>
+      <title>‘Apocryphal Inventions’</title>
+      <link>https://jonathanhoefler.com/inventions</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42294</guid>
     </item>    <item>
       <title>Anthropic Promises Trump Admin Its AI Is Not Woke</title>
       <link>https://www.404media.co/anthropic-promises-trump-admin-its-ai-is-not-woke/</link>
@@ -6144,6 +6406,10 @@ Tags: [accessibility](https://simonwillison.net/tags/accessibility), [aria](http
       <enclosure url="https://api.substack.com/feed/podcast/176751223/06684c67bf9a0a7d9c1e5ecb03d40df5.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://davekarpf.substack.com/p/here-lies-humanity-dead-by-fancy</guid>
     </item>    <item>
+      <title>iOS 26.1 Beta 4 Adds New Toggle for Liquid Glass: Clear or Tinted</title>
+      <link>https://9to5mac.com/2025/10/20/ios-26-1-beta-4-adds-new-setting-to-tone-down-liquid-glass-transparency/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42293</guid>
+    </item>    <item>
       <title>Quantity queries using has() selector</title>
       <link>https://css-tip.com/quantity-queries/</link>
       <description>
@@ -6155,6 +6421,14 @@ Tags: [accessibility](https://simonwillison.net/tags/accessibility), [aria](http
 
 [adactio.com/links/22206](https://adactio.com/links/22206)</source:markdown>
       <guid>cid://https://css-tip.com/quantity-queries/</guid>
+    </item>    <item>
+      <title>The Neurodivergent Genius Who Invented Formula 1 For Marbles. &#38;#8220;This is the...</title>
+      <link>https://kottke.org/25/10/0047644-the-neurodivergent-genius</link>
+      <guid>cid://tag:kottke.org,2025://13.47644</guid>
+    </item>    <item>
+      <title>Read &#34;Running a Local Paper? In This Economy?&#34;</title>
+      <link>https://www.mollywhite.net/reading/shortform?search=Running%20a%20Local%20Paper%3F%20In%20This%20Economy%3F</link>
+      <guid>cid://68f7a6f69f72b44b384e9aab</guid>
     </item>    <item>
       <title>Jake Archibald is speaking at Web Day Out</title>
       <link>https://adactio.com/journal/22205</link>
@@ -6618,6 +6892,10 @@ Zitron&#39;s post is long, detailed and very much worth reading. Go and read it.
 Just under four years after the Linux kernel gained built-in read-write access to Windows drives, an alternative option has appeared.</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242579</guid>
     </item>    <item>
+      <title>Playing Boards of Canada on a DEC PDP-1 from 1959</title>
+      <link>https://kottke.org/25/10/playing-boards-of-canada-on-a-dec-pdp-1-from-1959</link>
+      <guid>cid://tag:kottke.org,2025://5.47740</guid>
+    </item>    <item>
       <title>Transforming Website Analytics for WordPress Users with a Privacy-First Approach</title>
       <link>https://openchannels.fm/transforming-website-analytics-for-wordpress-users-with-a-privacy-first-approach/</link>
       <description>
@@ -6625,6 +6903,10 @@ Just under four years after the Linux kernel gained built-in read-write access t
       </description>
       <source:markdown>In this episode, Adam chats with the creators of Independent Analytics, a WordPress plugin focusing on user-friendly, privacy-oriented website stats. They highlight its benefits over Google Analytics and upcoming features.</source:markdown>
       <guid>cid://https://openchannels.fm/?p=111275</guid>
+    </item>    <item>
+      <title>The Sordid Mystery of a Somalian Meteorite Smuggled into China. &#38;#8220;The journey...</title>
+      <link>https://kottke.org/25/10/0047728-the-sordid-mystery-of-a</link>
+      <guid>cid://tag:kottke.org,2025://13.47728</guid>
     </item>    <item>
       <title>Claire-Louise Bennett, Erin Somers, John Grisham, and more: 23 new books out today!</title>
       <link>https://lithub.com/claire-louise-bennett-erin-somers-john-grisham-and-more-22-new-books-out-today/</link>
@@ -6641,6 +6923,10 @@ Just under four years after the Linux kernel gained built-in read-write access t
       </description>
       <source:markdown>Highlights from the new version of Deno Deploy.</source:markdown>
       <guid>cid://https://deno.com/blog/deno-deploy-highlights</guid>
+    </item>    <item>
+      <title>An Incredible Waste</title>
+      <link>https://onefoottsunami.com/2025/10/21/an-incredible-waste/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29315</guid>
     </item>    <item>
       <title>The Java Developer’s Dilemma: Part 2</title>
       <link>https://www.oreilly.com/radar/the-java-developers-dilemma-part-2/</link>
@@ -6861,6 +7147,14 @@ Tags: [phil-gyford](https://simonwillison.net/tags/phil-gyford), [computer-histo
 Tags: [prompt-injection](https://simonwillison.net/tags/prompt-injection), [security](https://simonwillison.net/tags/security), [ai-agents](https://simonwillison.net/tags/ai-agents), [bruce-schneier](https://simonwillison.net/tags/bruce-schneier), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/21/ooda-loop/#atom-everything</guid>
     </item>    <item>
+      <title>Million-Mile Tech</title>
+      <link>https://nazhamid.com/journal/million-mile-tech/</link>
+      <guid>cid://https://nazhamid.com/journal/million-mile-tech/</guid>
+    </item>    <item>
+      <title>Ira Glass&#38;#8217;s Subway Take is genuinely shocking: &#38;#8220;Every podcast is better at...</title>
+      <link>https://kottke.org/25/10/0047741-ira-glasss-subway-take-is</link>
+      <guid>cid://tag:kottke.org,2025://13.47741</guid>
+    </item>    <item>
       <link>http://scripting.com/2025/10/20.html#a013446</link>
       <description>
         <![CDATA[On my drive to Ottawa and back, I never had to wait for a charger, and it never took more than 1/2 hour to fill the battery to 80%. The chargers are often in places with restaurants or supermarkets. And it's good for my legs to get out of the car and walk for a bit.]]>
@@ -6915,6 +7209,30 @@ Tags: [prompt-injection](https://simonwillison.net/tags/prompt-injection), [secu
         <![CDATA[Bulk add notes to your subscribers]]>
       </description>
       <source:markdown>Bulk add notes to your subscribers</source:markdown>
+    </item>    <item>
+      <title>Come See Me in the Good Light</title>
+      <link>https://kottke.org/25/10/come-see-me-in-the-good-light</link>
+      <guid>cid://tag:kottke.org,2025://5.47739</guid>
+    </item>    <item>
+      <title>Inside NORAD&#38;#8217;s Cheyenne Mountain Combat Center (c. 1966)</title>
+      <link>https://kottke.org/25/10/inside-norads-cheyenne-mountain-combat-center-c-1966</link>
+      <guid>cid://tag:kottke.org,2025://5.47734</guid>
+    </item>    <item>
+      <title>[Sponsor] WorkOS: Scalable, Secure Authentication</title>
+      <link>https://workos.com/?utm_source=daringfireball&#38;utm_medium=RSS&#38;utm_campaign=q12025</link>
+      <guid>cid://tag:daringfireball.net,2025:/feeds/sponsors//11.42292</guid>
+    </item>    <item>
+      <title>Eavesdropping on Internal Networks via Unencrypted Satellites</title>
+      <link>https://satcom.sysnet.ucsd.edu/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42290</guid>
+    </item>    <item>
+      <title>When Design Drives Behavior</title>
+      <link>https://world.hey.com/jason/when-design-drives-behavior-49baf157</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42289</guid>
+    </item>    <item>
+      <title>Apple Lowered the Price of the New MacBook Pro for Most of the European Countries Where It No Longer Ships With an Included Power Adapter</title>
+      <link>https://pxlnv.com/linklog/macbook-pro-charger-brouhaha/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42288</guid>
     </item>    <item>
       <title>2025-10-20 AI Canada</title>
       <link>https://alexschroeder.ch/view/2025-10-20-ai-canada</link>
@@ -7144,6 +7462,10 @@ This industry – and this country, and this world - are nowhere near the point 
 [#Artificial Intelligence](/search/?q=%23Artificial_Intelligence)</source:markdown>
       <guid>cid://https://alexschroeder.ch/view/2025-10-20-ai-canada</guid>
     </item>    <item>
+      <title>More on the Lack of an Included Charger With New M5 MacBooks in Europe, Including the U.K. and Norway</title>
+      <link>https://daringfireball.net/linked/2025/10/16/m5-mbp-no-power-adapter-in-europe</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42287</guid>
+    </item>    <item>
       <title>The Resistance Is Growing</title>
       <link>https://steady.substack.com/p/the-resistance-is-growing</link>
       <description>
@@ -7152,6 +7474,11 @@ This industry – and this country, and this world - are nowhere near the point 
       <source:markdown>What happens next?</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!jhbW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0a83608-e778-438b-8af8-a4e87e8fb307_1024x653.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://steady.substack.com/p/the-resistance-is-growing</guid>
+    </item>    <item>
+      <title>October 19, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-19-2025-032</link>
+      <enclosure url="https://api.substack.com/feed/podcast/176684898/38a960e364a292f97503d9ca99dd4409.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-19-2025-032</guid>
     </item>    <item>
       <link>https://www.findarticles.com/why-tumblrs-costly-technical-debt-derailed-migration/</link>
       <description>
@@ -7367,6 +7694,10 @@ Someone managed to insert a compromised file into the downloads section of the w
 
 In May of 2024, I did the same trip to catch a match on Mother&#39;</source:markdown>
       <guid>cid://68f6654b8d1835000183cf9b</guid>
+    </item>    <item>
+      <title>Phil Gyford, writing about when he first got online in 1995: My...</title>
+      <link>https://kottke.org/25/10/0047730-phil-gyford-writing-about</link>
+      <guid>cid://tag:kottke.org,2025://13.47730</guid>
     </item>    <item>
       <title>Fall Classic, 5 GoodReads &#38; Happy Diwali</title>
       <link>https://om.co/2025/10/20/fall-classic-5-goodreads-happy-diwali/</link>
@@ -7840,12 +8171,28 @@ At the end when I told Claude to create a zip file of the results I could select
 Tags: [ocr](https://simonwillison.net/tags/ocr), [python](https://simonwillison.net/tags/python), [ai](https://simonwillison.net/tags/ai), [docker](https://simonwillison.net/tags/docker), [pytorch](https://simonwillison.net/tags/pytorch), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [anthropic](https://simonwillison.net/tags/anthropic), [claude](https://simonwillison.net/tags/claude), [nvidia](https://simonwillison.net/tags/nvidia), [vs-code](https://simonwillison.net/tags/vs-code), [vision-llms](https://simonwillison.net/tags/vision-llms), [deepseek](https://simonwillison.net/tags/deepseek), [llm-release](https://simonwillison.net/tags/llm-release), [coding-agents](https://simonwillison.net/tags/coding-agents), [claude-code](https://simonwillison.net/tags/claude-code), [ai-in-china](https://simonwillison.net/tags/ai-in-china)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/#atom-everything</guid>
     </item>    <item>
+      <title>Kickstarter Campaign for Ben Zotto’s ‘Go Computer Now!’, a Book on Sphere, the Nearly Forgotten Personal Computer Company</title>
+      <link>https://www.kickstarter.com/projects/bzotto/go-computer-now-the-story-of-sphere</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42286</guid>
+    </item>    <item>
       <link>https://www.dailykos.com/story/2025/10/20/2349501/-Bari-Weiss-wastes-no-time-wrecking-CBS-News?pm_campaign=blog&#38;pm_medium=rss&#38;pm_source=</link>
       <description>
         <![CDATA[<p>Bari Weiss wastes no time wrecking CBS News.</p>]]>
       </description>
       <source:markdown>Bari Weiss wastes no time wrecking CBS News.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/20/1573/</guid>
+    </item>    <item>
+      <title>How London Became a Global Hub for Phone Theft</title>
+      <link>https://www.nytimes.com/2025/10/15/world/europe/london-police-phone-theft-china-gang.html?unlocked_article_code=1.u08.0dqv.RfHSG9CDuk4i&#38;smid=url-share</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42285</guid>
+    </item>    <item>
+      <title>Apple and NBCUniversal Introduce the Apple TV and Peacock Bundle</title>
+      <link>https://www.apple.com/newsroom/2025/10/apple-and-nbcuniversal-introduce-the-apple-tv-and-peacock-bundle/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42284</guid>
+    </item>    <item>
+      <title>Counterpoint Research Claims iPhone 17 Sales Are Up Year-Over-Year in the U.S. and China</title>
+      <link>https://www.cnbc.com/2025/10/20/apple-stock-iphone-17-us-china-sales.html</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42283</guid>
     </item>    <item>
       <link>https://www.newyorkalmanack.com/2025/10/american-revolution-resistance/</link>
       <description>
@@ -7862,12 +8209,20 @@ Tags: [ocr](https://simonwillison.net/tags/ocr), [python](https://simonwillison.
       <source:markdown>Major outlets said the President dumped &#34;brown liquid&#34; that &#34;appeared to be feces&#34; in an AI-generated video. They refused to call a spade a spade, or poop, poop.</source:markdown>
       <guid>cid://68f665fd8c5580000141b851</guid>
     </item>    <item>
+      <title>David Hockney’s Xerox Prints</title>
+      <link>https://www.myartbroker.com/artist-david-hockney/articles/david-hockney-xerox-prints</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42282</guid>
+    </item>    <item>
       <link>https://world.hey.com/joan.westenberg/why-do-people-like-37signals-af7c8abf</link>
       <description>
         <![CDATA[Why Do People Like 37signals?]]>
       </description>
       <source:markdown>Why Do People Like 37signals?</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/20/1569/</guid>
+    </item>    <item>
+      <title>Sumo Tourists in London</title>
+      <link>https://kottke.org/25/10/sumo-tourists-in-london</link>
+      <guid>cid://tag:kottke.org,2025://5.47738</guid>
     </item>    <item>
       <title>How Artists Are Keeping &#39;The Lost Art&#39; of Neon Signs Alive</title>
       <link>https://www.404media.co/how-artists-are-keeping-the-lost-art-of-neon-signs-alive/</link>
@@ -7876,6 +8231,14 @@ Tags: [ocr](https://simonwillison.net/tags/ocr), [python](https://simonwillison.
       </description>
       <source:markdown>Watch 404 Media’s first short documentary, about an artist keeping real neon signs alive.</source:markdown>
       <guid>cid://68f656e58c558000013fdd52</guid>
+    </item>    <item>
+      <title>Photos From Saturday’s ‘No Kings’ Protests Across the U.S.</title>
+      <link>https://www.theatlantic.com/photography/archive/2025/10/photos-no-kings-protests-across-america/684600/?gift=xw1ABCFnadCHxRLYMsWCkxkq7lcITrmN2tq1-jBOYrA</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42281</guid>
+    </item>    <item>
+      <title>Major AWS Outage</title>
+      <link>https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42280</guid>
     </item>    <item>
       <title>Waves Of Interference</title>
       <link>https://feed.tedium.co/link/15204/17189902/computers-fcc-rf-interference-history</link>
@@ -7902,6 +8265,14 @@ Tags: [ocr](https://simonwillison.net/tags/ocr), [python](https://simonwillison.
       <enclosure url="https://substackcdn.com/image/fetch/$s_!8Vq5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d973e79-3948-4740-84d8-d24debf503be_1024x683.heic" length="0" type="image/jpeg" />
       <guid>cid://https://www.borowitzreport.com/p/george-soros-declares-bankruptcy</guid>
     </item>    <item>
+      <title>Anil Dash on The Majority AI View. &#38;#8220;Stop being so goddamn creepy...</title>
+      <link>https://kottke.org/25/10/0047732-anil-dash-on-the-majority</link>
+      <guid>cid://tag:kottke.org,2025://13.47732</guid>
+    </item>    <item>
+      <title>Note published on October 20, 2025 at 2:25 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202510201025</link>
+      <guid>cid://68f646701ecb9eb40d8c8355</guid>
+    </item>    <item>
       <title>How Virginia Giuffre Finally Vanquished Prince Andrew</title>
       <link>https://tinabrown.substack.com/p/how-virginia-giuffre-finally-vanquished</link>
       <description>
@@ -7918,6 +8289,10 @@ Tags: [ocr](https://simonwillison.net/tags/ocr), [python](https://simonwillison.
       <source:markdown>Frontier&#39;s [Simple Cross-Network Scripting](http://scripting.com/98/04/stories/simpleCrossNetworkScript.html) is one of my favorite features ever. It made procedure calls over the internet almost as simple as procedure calls inside Frontier.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/20.html#a142014</guid>
     </item>    <item>
+      <title>Nengiren&#38;#8217;s Embroidered Little Woman</title>
+      <link>https://kottke.org/25/10/nengirens-embroidered-little-woman</link>
+      <guid>cid://tag:kottke.org,2025://5.47736</guid>
+    </item>    <item>
       <link>http://scripting.com/2025/10/20.html#a134102</link>
       <description>
         <![CDATA[I wish WordPress had a "home" social network. The community is all over the place, on Twitter, Slack, Masto, Bluesky, GitHub, and probably a few other places. I hope to have a social network that is built on WordPress and RSS. It would be open to the public, and anyone could start their own, by running an easy to install piece of software on a server.]]>
@@ -7931,6 +8306,10 @@ Tags: [ocr](https://simonwillison.net/tags/ocr), [python](https://simonwillison.
       </description>
       <source:markdown>Took yesterday off, aside from a little blogging, which isn&#39;t work for me -- now on Monday, I&#39;m going to do a few warmup projects, and figuring out which big item I should focus on in my post-WordCamp experience.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/20.html#a133959</guid>
+    </item>    <item>
+      <title>I&#38;#8217;d never heard of this before: tearoom ambient, a style of music...</title>
+      <link>https://kottke.org/25/10/0047733-id-never-heard-of-this</link>
+      <guid>cid://tag:kottke.org,2025://13.47733</guid>
     </item>    <item>
       <title>Having a coffee with Mango. Confession: I can never remember the actual name of the coffee shop so in my mind it’s Mango’s.</title>
       <link>https://adactio.com/notes/22202</link>
@@ -7947,6 +8326,10 @@ Having a coffee with Mango.
 Confession: I can never remember the actual name of the coffee shop so in my mind it’s Mango’s.</source:markdown>
       <guid>cid://https://adactio.com/notes/22202</guid>
     </item>    <item>
+      <title>Apple TV to air F1 races in the US for the next...</title>
+      <link>https://kottke.org/25/10/0047731-apple-tv-to-air-f1</link>
+      <guid>cid://tag:kottke.org,2025://13.47731</guid>
+    </item>    <item>
       <title>A Human-Centered Approach to Competitive Advantage</title>
       <link>https://www.oreilly.com/radar/a-human-centered-approach-to-competitive-advantage/</link>
       <description>
@@ -7954,6 +8337,10 @@ Confession: I can never remember the actual name of the coffee shop so in my min
       </description>
       <source:markdown>In the modern enterprise, information is the new capital. While companies pour resources into artificial intelligence, many discover that technology, standing alone, delivers only expense, not transformation. The true engine of change lies not in the algorithm but in the hands and minds of the people who use it. The greatest asset an organization possesses \[…\]</source:markdown>
       <guid>cid://https://www.oreilly.com/radar/?p=17565</guid>
+    </item>    <item>
+      <title>A Ghastly Crime</title>
+      <link>https://onefoottsunami.com/2025/10/20/a-ghastly-crime/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29305</guid>
     </item>    <item>
       <title>Agentic AI’s OODA Loop Problem</title>
       <link>https://www.schneier.com/blog/archives/2025/10/agentic-ais-ooda-loop-problem.html</link>
@@ -8036,6 +8423,14 @@ Think in rooms, floors, buildings, and streets. You send an envelope from your r
       <source:markdown>Electricity generation is expected to rise. But will it grow much faster than it did in the past?</source:markdown>
       <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/6089eb27-957d-4c09-ade2-a5bffd83b82a_2304x1707.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://www.sustainabilitybynumbers.com/p/usa-electricity-growth</guid>
+    </item>    <item>
+      <title>Finished reading Mage Tank</title>
+      <link>https://www.mollywhite.net/reading/books?search=Mage%20Tank</link>
+      <guid>cid://68f682bd001c2f16683edb88</guid>
+    </item>    <item>
+      <title>Photos of the No Kings protests &#38; rallies that happened in big...</title>
+      <link>https://kottke.org/25/10/0047735-photos-of-the-no-kings</link>
+      <guid>cid://tag:kottke.org,2025://13.47735</guid>
     </item>    <item>
       <link>https://www.washingtonpost.com/politics/2025/10/19/inflatable-costumes-trump-protests/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzYwODQ2NDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzYyMjMyMzk5LCJpYXQiOjE3NjA4NDY0MDAsImp0aSI6ImE0YzM5Y2EyLWEyNjQtNDUxZC05MGY0LWFhNTliNmNiYTQ4YiIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI1LzEwLzE5L2luZmxhdGFibGUtY29zdHVtZXMtdHJ1bXAtcHJvdGVzdHMvIn0.-ktIYcZy66ygUBui5y0HiRCuh5qyxm7uh-KHadAYcRQ</link>
       <description>
@@ -8615,6 +9010,11 @@ https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and )
 ![comment count unavailable](https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&#38;ditemid=96987) comments</source:markdown>
       <guid>cid://https://liam-on-linux.dreamwidth.org/96987.html</guid>
     </item>    <item>
+      <title>October 18, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-18-2025-0f3</link>
+      <enclosure url="https://api.substack.com/feed/podcast/176577316/3a193e759f24c67f4bc7bda2ae73303a.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-18-2025-0f3</guid>
+    </item>    <item>
       <title>Sunday session in Cork</title>
       <link>https://adactio.com/notes/22201</link>
       <description>
@@ -8625,6 +9025,10 @@ https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and )
 
 Sunday session in Cork</source:markdown>
       <guid>cid://https://adactio.com/notes/22201</guid>
+    </item>    <item>
+      <title>Note published on October 19, 2025 at 4:32 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202510191231</link>
+      <guid>cid://68f512b91ecb9eb40d8c8301</guid>
     </item>    <item>
       <title>You Again [en]</title>
       <link>https://climbtothestars.org/archives/2025/10/19/you-again/</link>
@@ -9217,6 +9621,10 @@ Topic index page.
 The GSS has its own handy [data explorer](https://gssdataexplorer.norc.org) which is very useful for quickly checking on particular trends and getting a quick graph of what the data look like, or a summary view of the content of particular variables. Each help page in `gssrdoc` now links to the GSS Data Explorer page for that variable, in case you want to hop over and take a look there. Of course, the `gssrdoc` package doesn’t and isn’t meant to replace the Data Explorer; it’s just a different view of the same information, with a different use-case in mind.</source:markdown>
       <guid>cid://https://kieranhealy.org/blog/archives/2025/10/19/gssrdoc-updates/</guid>
     </item>    <item>
+      <title>Kara Walker Creates Haunted Beast From Butchered Confederate Statue</title>
+      <link>https://kottke.org/25/10/kara-walker-creates-haunted-beast-from-butchered-confederate-statue</link>
+      <guid>cid://tag:kottke.org,2025://5.47729</guid>
+    </item>    <item>
       <link>http://scripting.com/2025/10/19.html#a140456</link>
       <description>
         <![CDATA[I have to remember to <a href="https://daveverse.org/2025/10/19/what-i-did-on-my-trip-to-canada-part-1/">use WordLand</a> to post <a href="https://mastodon.social/@scripting@daveverse.org">to Mastodon</a>, because when I go in that way, I don't have a character limit and I can use styling. We were wrestling with this question at WC, how to market the feature in a way that would get people to go to WordPress to write for Mastodon. It would also be cool if you could turn on the ActivityPub connection in WordLand, without having to wade through all the menus and dialogs. Imagine if we had a <a href="https://imgs.scripting.com/2025/10/19/activityPubDialog.png">confirmation dialog</a> like this in WordLand.]]>
@@ -9281,6 +9689,10 @@ A social network that starts out with no centralization and open in every sense 
       <enclosure url="https://substackcdn.com/image/fetch/$s_!7MRk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b28c9d5-9270-4b5d-ae5c-c370890bf490_3024x4032.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://heathercoxrichardson.substack.com/p/october-18-2025</guid>
     </item>    <item>
+      <title>Consumer Reports: Protein Powders and Shakes Contain High Levels of Lead. &#38;#8220;More...</title>
+      <link>https://kottke.org/25/10/0047727-consumer-reports-protein-</link>
+      <guid>cid://tag:kottke.org,2025://13.47727</guid>
+    </item>    <item>
       <title>A Terrible Day for Trump. A Wonderful Day for America.</title>
       <link>https://www.borowitzreport.com/p/power-to-the-people</link>
       <description>
@@ -9290,6 +9702,10 @@ A social network that starts out with no centralization and open in every sense 
       <enclosure url="https://substackcdn.com/image/fetch/$s_!WOwk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08df3c4c-012c-42e9-a857-ecfef31beb18_5712x4284.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://www.borowitzreport.com/p/power-to-the-people</guid>
     </item>    <item>
+      <title>More than 170 *US citizens* have been detained and held (and &#38;#8220;dragged,...</title>
+      <link>https://kottke.org/25/10/0047726-more-than-170-us-citizens</link>
+      <guid>cid://tag:kottke.org,2025://13.47726</guid>
+    </item>    <item>
       <title>AI generated code is slop, and that&#39;s a good thing</title>
       <link>http://timkellogg.me/blog/2025/10/19/code-slop</link>
       <description>
@@ -9297,6 +9713,18 @@ A social network that starts out with no centralization and open in every sense 
       </description>
       <source:markdown>In his recent Dwarkesh podcast interview, Andrej Karpathy (now) notoriously said:</source:markdown>
       <guid>cid://http://timkellogg.me/blog/2025/10/19/code-slop</guid>
+    </item>    <item>
+      <title>weekly retro #37: boston soy iced latte party</title>
+      <link>https://livelaugh.blog/posts/weekly-retro-37/</link>
+      <guid>cid://https://livelaugh.blog/posts/weekly-retro-37/</guid>
+    </item>    <item>
+      <title>Using Government IDs for Age Assurance</title>
+      <link>https://educatedguesswork.org/posts/age-verification-id/</link>
+      <guid>cid://https://educatedguesswork.org/posts/age-verification-id/</guid>
+    </item>    <item>
+      <title>When it comes to MCPs, everything we know about API design is wrong</title>
+      <link>https://blog.fsck.com/2025/10/19/mcps-are-not-like-other-apis/</link>
+      <guid>cid://https://blog.fsck.com/2025/10/19/mcps-are-not-like-other-apis/</guid>
     </item>    <item>
       <title>2025-10-19 Every time I am on a trip, the bots strike</title>
       <link>https://alexschroeder.ch/view/2025-10-19-every-time</link>
@@ -9333,6 +9761,11 @@ At least this blog still works! Emacs Wiki and a few others are probably down, t
       <source:markdown>![](https://imgs.scripting.com/2025/10/18/saranacLakeNy.png)[Saranac Lake](https://en.wikipedia.org/wiki/Saranac_Lake,_New_York), NY.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/18.html#a215709</guid>
     </item>    <item>
+      <title>October 17, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-17-2025</link>
+      <enclosure url="https://api.substack.com/feed/podcast/176520238/b461a7c5b73b50e8f3bc9afb2ced3910.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-17-2025</guid>
+    </item>    <item>
       <link>http://scripting.com/2025/10/18.html#a211921</link>
       <description>
         <![CDATA[Back home from my trip to Ottawa. Took the scenic route through the <a href="https://en.wikipedia.org/wiki/Adirondack_Mountains">Adirondacks</a>. Had an unqualified great trip. Should've gone to a <a href="https://www.google.com/search?q=WordCamp">WordCamp</a> a long time ago. It's totally my type of people. I have a long list of things to organize, but for now it's time to catch up on sleep and rest, MLB and NBA, and make plans for the future.]]>
@@ -9348,6 +9781,10 @@ At least this blog still works! Emacs Wiki and a few others are probably down, t
       <source:markdown>If so, where does it end?</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!t438!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff38f4256-1459-46a0-b1d3-aa85fdc7d483_3500x2781.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/office-hours-should-dems-fight-fire</guid>
+    </item>    <item>
+      <title>Note published on October 18, 2025 at 8:41 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202510181640</link>
+      <guid>cid://68f3fb761ecb9eb40d8c8282</guid>
     </item>    <item>
       <title>TIL: Exploring OpenAI&#39;s deep research API model o4-mini-deep-research</title>
       <link>https://simonwillison.net/2025/Oct/18/o4-mini-deep-research/#atom-everything</link>
@@ -9684,6 +10121,10 @@ You can get drunk on the details here:
 [https://fil-c.org](https://fil-c.org)</source:markdown>
       <guid>cid://https://mastodon.social/@Migueldeicaza/115392690254816172</guid>
     </item>    <item>
+      <title>Every Televised and Filmed Joy Division Performance</title>
+      <link>https://kottke.org/25/10/every-televised-and-filmed-joy-division-performance</link>
+      <guid>cid://tag:kottke.org,2025://5.47725</guid>
+    </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115392565036553861</link>
       <description>
         <![CDATA[<p>Beautiful post explaining ATProto, the stack behind Bluesky by Dan Abramov:</p><p>overreacted.io/open-social/</p>]]>
@@ -9701,6 +10142,10 @@ overreacted.io/open-social/</source:markdown>
       <source:markdown>Reform the Insurrection Act</source:markdown>
       <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/4652644d-075a-4bb1-aba4-54078e5f2bd7_1200x860.png" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/tomorrow-and-forever-no-kings-in</guid>
+    </item>    <item>
+      <title>John Casey, the owner of one of the last rubber stamp stores...</title>
+      <link>https://kottke.org/25/10/0047646-john-casey-the-owner-of</link>
+      <guid>cid://tag:kottke.org,2025://13.47646</guid>
     </item>    <item>
       <title>Prince Andrew Announces He Will Move to America Where Government Protects Pedophiles</title>
       <link>https://www.borowitzreport.com/p/prince-andrew-announces-he-will-move</link>
@@ -9735,6 +10180,14 @@ overreacted.io/open-social/</source:markdown>
       </description>
       <source:markdown>Benioff Apologizes for Saying Trump Should Send Troops to San Francisco.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/17/1561/</guid>
+    </item>    <item>
+      <title>Read &#34;Opinion | World Liberty Financial Is a Powerful Vehicle for Those Seeking Influence&#34;</title>
+      <link>https://www.mollywhite.net/reading/shortform?search=Opinion%20%7C%20World%20Liberty%20Financial%20Is%20a%20Powerful%20Vehicle%20for%20Those%20Seeking%20Influence</link>
+      <guid>cid://68f2ba0d9f72b44b384dd080</guid>
+    </item>    <item>
+      <title>Published on Citation Needed: &#34;Anatomy of a crypto meltdown&#34;</title>
+      <link>https://citationneeded.news/anatomy-of-a-crypto-meltdown</link>
+      <guid>cid://68f2b7781ecb9eb40d8c8226</guid>
     </item>    <item>
       <link>https://mastodon.social/@evan@cosocial.ca/115391459913622676</link>
       <description>
@@ -9774,6 +10227,18 @@ As usual, you can also use this squid post to talk about the security stories in
 
 Tags: [uuid](https://simonwillison.net/tags/uuid), [postgresql](https://simonwillison.net/tags/postgresql), [privacy](https://simonwillison.net/tags/privacy), [security](https://simonwillison.net/tags/security)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/17/uuid-v7/#atom-everything</guid>
+    </item>    <item>
+      <title>The Base M5 MacBook Pro vs. the M4 MacBook Air</title>
+      <link>https://www.apple.com/mac/compare/?modelList=MacBook-Air-M4,MacBook-Pro-14-M5,MacBook-Pro-14-M4-Pro</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42277</guid>
+    </item>    <item>
+      <title>The Base M5 MacBook Pro vs. the M4 MacBook Air</title>
+      <link>https://www.apple.com/uk/mac/compare/?modelList=MacBook-Air-M4,MacBook-Pro-14-M5,MacBook-Pro-14-M4-Pro</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42277</guid>
+    </item>    <item>
+      <title>United States Mint to Release Commemorative $1 Steve Jobs Coin</title>
+      <link>https://www.usmint.gov/news/press-releases/united-states-mint-releases-2026-american-innovation-one-dollar-coin-program-designs</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42276</guid>
     </item>    <item>
       <link>https://newrepublic.com/article/201957/trump-chicago-secret-police-shot-woman-damning-info</link>
       <description>
@@ -9915,6 +10380,11 @@ So make a plan to vote today at abigailspanberger.com.
 
 [adactio.com/links/22197](https://adactio.com/links/22197)</source:markdown>
       <guid>cid://https://rosswintle.uk/2025/10/software-can-be-finished/</guid>
+    </item>    <item>
+      <title>October 16, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-16-2025-b44</link>
+      <enclosure url="https://api.substack.com/feed/podcast/176433554/812e93b4128bdd482537175abf9122bd.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-16-2025-b44</guid>
     </item>    <item>
       <title>How Does the End Begin?</title>
       <link>https://www.profgalloway.com/how-does-the-end-begin/</link>
@@ -10316,6 +10786,10 @@ Part 1 - Baseline Repo and Environments Sets shared variables and task wrappers.
       <source:markdown>I&#39;m back at [WordCamp](https://canada.wordcamp.org/2025/) in a big room waiting for [Matt Mullenweg](https://en.wikipedia.org/wiki/Matt_Mullenweg) to answer questions for the people here. Yesterday&#39;s presentation went really well, lots of smart people really interested, fantastic discussion after. A very nice web culture. I went with three slides to get started, and then talked, demo&#39;d, answered questions, and listened to ideas. Told a few jokes. Got a few laughs. It got the job done, help feed the [word of mouth](https://en.wikipedia.org/wiki/Word-of-mouth_marketing) on [WordLand](https://wordland.social/).</source:markdown>
       <guid>cid://http://scripting.com/2025/10/17.html#a140609</guid>
     </item>    <item>
+      <title>Matthew Belloni Interviews Eddy Cue on ‘The Town’</title>
+      <link>https://www.theringer.com/podcasts/the-town-with-matthew-belloni/2025/10/14/apples-true-intentions-in-hollywood-with-top-exec-eddy-cue</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42275</guid>
+    </item>    <item>
       <title>I love my wife, my wife is dead</title>
       <link>https://news.lettersofnote.com/p/i-love-my-wife-my-wife-is-dead</link>
       <description>
@@ -10343,6 +10817,14 @@ The post [Print in two-and-a-bit dimensions for build-your-own kits](https://www
       </description>
       <source:markdown>&#34;What if I could create Théâtre D’opéra Spatial as if it were physically created by hand? Not actually, of course.&#34;</source:markdown>
       <guid>cid://68f247718c5580000138c52f</guid>
+    </item>    <item>
+      <title>Apple Is the Exclusive New Broadcast Partner for Formula 1 in the U.S.</title>
+      <link>https://www.apple.com/newsroom/2025/10/apple-is-the-exclusive-new-broadcast-partner-for-formula-1-in-the-us/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42274</guid>
+    </item>    <item>
+      <title>Chicago’s Squirrel Hole</title>
+      <link>https://onefoottsunami.com/2025/10/17/chicagos-squirrel-hole/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29303</guid>
     </item>    <item>
       <link>https://missouriindependent.com/2025/10/17/what-is-an-american-are-they-christian-are-they-white/</link>
       <description>
@@ -10394,6 +10876,10 @@ The post [Print in two-and-a-bit dimensions for build-your-own kits](https://www
       </description>
       <source:markdown>Aisling Walsh on the 30-year legacy of His Dark Materials and why Philip Pullman understands that “true evil is never about the distorted cravings of a single person.” \| Lit Hub Criticism Toni Morrison explores the intimacy and humanity in</source:markdown>
       <guid>cid://https://lithub.com/?p=261272</guid>
+    </item>    <item>
+      <title>Real Photos That Look Fake</title>
+      <link>https://kottke.org/25/10/real-photos-that-look-fake</link>
+      <guid>cid://tag:kottke.org,2025://5.47721</guid>
     </item>    <item>
       <title>On the Art (and Artifice) of the Miniature</title>
       <link>https://lithub.com/on-the-art-and-artifice-of-the-miniature/</link>
@@ -10451,6 +10937,10 @@ The post [Print in two-and-a-bit dimensions for build-your-own kits](https://www
       <source:markdown>As a teenager, I desperately searched for mirrors in the media. I clung onto melancholic Belle &#38; Sebastian songs and J.D. Salinger characters. I always felt like an outsider, writing my secrets on Tumblr, just wanting to be seen and</source:markdown>
       <guid>cid://https://lithub.com/?p=260836</guid>
     </item>    <item>
+      <title>The Making of a Perfect Martini</title>
+      <link>https://kottke.org/25/10/the-making-of-a-perfect-martini</link>
+      <guid>cid://tag:kottke.org,2025://5.47722</guid>
+    </item>    <item>
       <title>The Power Map of the Trump Regime</title>
       <link>https://robertreich.substack.com/p/the-power-map-of-the-trump-regime</link>
       <description>
@@ -10467,6 +10957,10 @@ The post [Print in two-and-a-bit dimensions for build-your-own kits](https://www
       </description>
       <source:markdown>Yesterday the Trump administration announced it would pay furloughed troops by using funds Congress appropriated for research, development, testing, and evaluation (RDTE) for fiscal year 2026.</source:markdown>
       <guid>cid://https://heathercoxrichardson.substack.com/p/october-16-2025</guid>
+    </item>    <item>
+      <title>Go Computer Now! – The Story of Sphere Computers. &#38;#8220;If things had...</title>
+      <link>https://kottke.org/25/10/0047724-go-computer-now-the</link>
+      <guid>cid://tag:kottke.org,2025://13.47724</guid>
     </item>    <item>
       <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m3ekffdkfs2y</link>
       <description>
@@ -10510,6 +11004,10 @@ Office space</source:markdown>
       <source:markdown>Scattered LAPSUS$ Hunters—one of the latest amalgamations of typically young, reckless, and English-speaking hackers—posted the apparent phone numbers and addresses of hundreds of government officials, including nearly 700 from DHS.</source:markdown>
       <guid>cid://68f1a9e58c558000013896d9</guid>
     </item>    <item>
+      <title>Luis Mendo is self-publishing a book about his life as a writer/artist...</title>
+      <link>https://kottke.org/25/10/0047723-luis-mendo-is-self-publis</link>
+      <guid>cid://tag:kottke.org,2025://13.47723</guid>
+    </item>    <item>
       <title>Wikipedia Says AI Is Causing a Dangerous Decline in Human Visitors</title>
       <link>https://www.404media.co/wikipedia-says-ai-is-causing-a-dangerous-decline-in-human-visitors/</link>
       <description>
@@ -10517,6 +11015,14 @@ Office space</source:markdown>
       </description>
       <source:markdown>“With fewer visits to Wikipedia, fewer volunteers may grow and enrich the content, and fewer individual donors may support this work.”</source:markdown>
       <guid>cid://68f181258c55800001388fe2</guid>
+    </item>    <item>
+      <title>My first adventure of the day is going to the Shunkaen Bonsai...</title>
+      <link>https://kottke.org/25/10/0047720-my-first-adventure-of-the</link>
+      <guid>cid://tag:kottke.org,2025://13.47720</guid>
+    </item>    <item>
+      <title>The Majority AI View</title>
+      <link>https://anildash.com/2025/10/17/the-majority-ai-view/</link>
+      <guid>cid://https://anildash.com/2025/10/17/the-majority-ai-view/</guid>
     </item>    <item>
       <title>Public postmortem: duplicate sends</title>
       <link>https://buttondown.com/blog/incident-0021</link>
@@ -10532,6 +11038,10 @@ Office space</source:markdown>
       </description>
       <source:markdown>Momma Pigeon In the Summer of 2009, a pair of pigeons decided to have a family in our carport. This is the female, sitting placidly in the nest and paying no attention to her landlords. Quote of the Day ”I’d … [Continue reading →](https://memex.naughtons.org/friday-17-october-2025/41296/)</source:markdown>
       <guid>cid://https://memex.naughtons.org/?p=41296</guid>
+    </item>    <item>
+      <title>I&#38;#8217;m hoping to post some of my photos from Japan here when...</title>
+      <link>https://kottke.org/25/10/0047719-i-hoping-to-post-some</link>
+      <guid>cid://tag:kottke.org,2025://13.47719</guid>
     </item>    <item>
       <title>The End of Aid</title>
       <link>https://fixthenews.com/p/the-end-of-aid</link>
@@ -10552,6 +11062,10 @@ Office space</source:markdown>
 
 The post [Alexander the Great, with Mary Beard](https://therestishistory.com/alexander-the-great-with-mary-beard/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
       <guid>cid://https://therestishistory.com/alexander-the-great-with-mary-beard/</guid>
+    </item>    <item>
+      <title>I stopped into the MEGA Donki (Don Quijote) in Shibuya last night...</title>
+      <link>https://kottke.org/25/10/0047718-i-stopped-into-the-mega</link>
+      <guid>cid://tag:kottke.org,2025://13.47718</guid>
     </item>    <item>
       <title>No Kings. No Tyranny.</title>
       <link>https://steady.substack.com/p/no-kings-no-tyranny</link>
@@ -10859,6 +11373,11 @@ Tags: [definitions](https://simonwillison.net/tags/definitions), [ai](https://si
       <source:markdown>John Bolton indicted, latest Trump foe to face charges.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/16/1545/</guid>
     </item>    <item>
+      <title>October 15, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-15-2025-7dc</link>
+      <enclosure url="https://api.substack.com/feed/podcast/176360800/8b90bdf95c368da159ad3220c95c05b8.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-15-2025-7dc</guid>
+    </item>    <item>
       <title>Thursday session</title>
       <link>https://adactio.com/notes/22196</link>
       <description>
@@ -10926,6 +11445,10 @@ Thursday session</source:markdown>
       <source:markdown>Jason Kottke: I’m usually pretty go-with-the-flow as far as OS updates go, but iOS 26 / Liquid Glass is terrible: incoherent, ugly, and difficult to use. Obviously a massive design effort, but they missed the mark IMO. Juli Clover: It’s been two days since iOS 26 was released, and Apple’s new Liquid Glass design is \[…\]</source:markdown>
       <guid>cid://https://mjtsai.com/blog/?p=49651</guid>
     </item>    <item>
+      <title>M5 MacBook Pro Does Not Include a Charger in the Box in Europe</title>
+      <link>https://www.macrumors.com/2025/10/15/new-macbook-pro-lacks-charger-in-europe/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42273</guid>
+    </item>    <item>
       <title>Se mettre à la place de l’autre, littéralement [en]</title>
       <link>https://climbtothestars.org/archives/2025/10/16/se-mettre-a-la-place-de-lautre-litteralement/</link>
       <description>
@@ -10950,6 +11473,10 @@ Thursday session</source:markdown>
       <source:markdown>And also, what the heck is AGI anyway?</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!0vuc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7dad87d8-0a78-4a45-809c-cffc997f3d21_1413x2160.png" length="0" type="image/jpeg" />
       <guid>cid://https://garymarcus.substack.com/p/is-agi-the-right-goal-for-ai</guid>
+    </item>    <item>
+      <title>An iconic Philly skate locale, Love Park, was demolished in 2016 —...</title>
+      <link>https://kottke.org/25/10/0047717-an-iconic-philly-skate-lo</link>
+      <guid>cid://tag:kottke.org,2025://13.47717</guid>
     </item>    <item>
       <title>Cacería de brujas: entretenimiento mata sensibilidad</title>
       <link>https://www.palomitademaiz.net/resenas-caceria-de-brujas/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-caceria-de-brujas</link>
@@ -10978,6 +11505,10 @@ La entrada [Cacería de brujas: entretenimiento mata sensibilidad](https://www.p
 
 [https://mastodon.gamedev.place/@jamesfmilne/115384494193368755](https://mastodon.gamedev.place/@jamesfmilne/115384494193368755)</source:markdown>
       <guid>cid://https://mastodon.social/@Migueldeicaza/115384546165005222</guid>
+    </item>    <item>
+      <title>The Freedom of Enough</title>
+      <link>https://kottke.org/25/10/the-freedom-of-enough</link>
+      <guid>cid://tag:kottke.org,2025://5.47716</guid>
     </item>    <item>
       <title>A Newsletter of Humorous Writing #414</title>
       <link>https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-414/</link>
@@ -11112,6 +11643,10 @@ The post [Bookshelf application revamped for Trixie](https://www.raspberrypi.com
       <source:markdown>The plaintiffs claim that without the payment processors, which include CCBill, Epoch, and several others that process &#34;high-risk&#34; merchant payments, GirlsDoPorn would not have been a commercial enterprise to begin with.</source:markdown>
       <guid>cid://68f0fcbe8c558000013867c2</guid>
     </item>    <item>
+      <title>The 39 coolest neighbourhoods in the world in 2025, including Jimbōchō, Tokyo;...</title>
+      <link>https://kottke.org/25/10/0047715-the-39-coolest-neighbourh</link>
+      <guid>cid://tag:kottke.org,2025://13.47715</guid>
+    </item>    <item>
       <title>The dentist should let you read instead of watch TV.</title>
       <link>https://lithub.com/the-dentist-should-let-you-read-instead-of-watch-tv/</link>
       <description>
@@ -11161,6 +11696,10 @@ Jeff GeerlingOctober 16, 2025</source:markdown>
       <source:markdown>Videos demoing one of the sites have repeatedly gone viral on TikTok and other platforms recently. 404 Media verified they can locate specific peoples&#39; Tinder profiles using their photo, and found that the viral videos are produced by paid creators.</source:markdown>
       <guid>cid://68f00a0a8c55800001366a73</guid>
     </item>    <item>
+      <title>Matthew Inman of The Oatmeal: ‘A Cartoonist’s Review of AI Art’</title>
+      <link>https://theoatmeal.com/comics/ai_art</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42272</guid>
+    </item>    <item>
       <link>https://glammr.us/@IIIF/115384070708705735</link>
       <description>
         <![CDATA[<p>Are you researching, experimenting with, or fully supporting <a href="https://glammr.us/tags/IIIF" class="mention hashtag" rel="tag">#<span>IIIF</span></a> at your institution? Please help the IIIF Community better understand how IIIF is being adopted across institutions by completing this quick survey.</p><p><a href="https://forms.gle/PYWJb8VwrXu2p8US8" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">forms.gle/PYWJb8VwrXu2p8US8</span><span class="invisible"></span></a></p>]]>
@@ -11169,6 +11708,10 @@ Jeff GeerlingOctober 16, 2025</source:markdown>
 
 [https://forms.gle/PYWJb8VwrXu2p8US8](https://forms.gle/PYWJb8VwrXu2p8US8)</source:markdown>
       <guid>cid://https://glammr.us/@IIIF/115384070708705735</guid>
+    </item>    <item>
+      <title>POP Phone: a USB-C handset that you plug into your phone for...</title>
+      <link>https://kottke.org/25/10/0047713-pop-phone-a-usb-c-handset</link>
+      <guid>cid://tag:kottke.org,2025://13.47713</guid>
     </item>    <item>
       <title>ICE, Secret Service, Navy All Had Access to Flock&#39;s Nationwide Network of Cameras</title>
       <link>https://www.404media.co/ice-secret-service-navy-all-had-access-to-flocks-nationwide-network-of-cameras/</link>
@@ -11226,6 +11769,14 @@ So what I&#39;ll do is this. Present the first two in some detail, then page thr
 
 I have an idea that we can have a blogosphere that is as functional as podcasting. We just need users to get started, to get the idea off the ground. We don&#39;t have to accept the limits, we can have the full web if we want it.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/16/123053.html</guid>
+    </item>    <item>
+      <title>The Space Exploration Logo Archive</title>
+      <link>https://kottke.org/25/10/the-space-exploration-logo-archive</link>
+      <guid>cid://tag:kottke.org,2025://5.47714</guid>
+    </item>    <item>
+      <title>Used, Misled, and Doubting What’s Real</title>
+      <link>https://onefoottsunami.com/2025/10/16/chatfishing-is-quite-the-neologism/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29299</guid>
     </item>    <item>
       <title>Generative AI in the Real World: Context Engineering with Drew Breunig</title>
       <link>https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-context-engineering-with-drew-breunig/</link>
@@ -11664,6 +12215,14 @@ This doesn&#39;t mean you can&#39;t control exactly what goes into each file - y
 Tags: [coding-agents](https://simonwillison.net/tags/coding-agents), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [generative-ai](https://simonwillison.net/tags/generative-ai), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/16/coding-without-typing-the-code/#atom-everything</guid>
     </item>    <item>
+      <title>&#38;#8220;&#38;#8216;Take on Me&#38;#8217; is an ideal song for Song Exploder, because it&#38;#8217;s...</title>
+      <link>https://kottke.org/25/10/0047712-take-on-me-is-an</link>
+      <guid>cid://tag:kottke.org,2025://13.47712</guid>
+    </item>    <item>
+      <title>65 Essential Children&#38;#8217;s Books, from The Story of Ferdinand and Caps for...</title>
+      <link>https://kottke.org/25/10/0047711-65-essential-childrens-bo</link>
+      <guid>cid://tag:kottke.org,2025://13.47711</guid>
+    </item>    <item>
       <link>https://bsky.app/profile/altusds.altgov.info/post/3m3bncr2yyc2u</link>
       <description>
         <![CDATA[DC-based friends: come out and support hard working FEMA staff. Like all of us who have worked in civil service, they just want to do their (very critical) work in peace.
@@ -11675,6 +12234,14 @@ Tags: [coding-agents](https://simonwillison.net/tags/coding-agents), [ai-assiste
 \[contains quote post or other embedded content\]</source:markdown>
       <guid>cid://at://did:plc:fuovrvjiloafdym65x3oloqc/app.bsky.feed.post/3m3bncr2yyc2u</guid>
     </item>    <item>
+      <title>Richard Feynman: Fire Is Stored Sunshine</title>
+      <link>https://kottke.org/25/10/richard-feynman-fire-is-stored-sunshine-1</link>
+      <guid>cid://tag:kottke.org,2025://5.47710</guid>
+    </item>    <item>
+      <title>Where&#38;#8217;s the AI design renaissance? &#38;#8220;My hunch: vibe coding is a lot...</title>
+      <link>https://kottke.org/25/10/0047704-wheres-the-ai-design-rena</link>
+      <guid>cid://tag:kottke.org,2025://13.47704</guid>
+    </item>    <item>
       <title>Why does a Local AI Voice Agent Running on a Super-Cheap Soc Matter?</title>
       <link>https://petewarden.com/2025/10/16/why-does-a-local-ai-voice-agent-running-on-a-super-cheap-soc-matter/</link>
       <description>
@@ -11682,6 +12249,18 @@ Tags: [coding-agents](https://simonwillison.net/tags/coding-agents), [ai-assiste
       </description>
       <source:markdown>Most recent news about AI seems to involve staggering amounts of money. OpenAI and Nvidia sign a $100b data center contract. Meta offers researchers $100m salaries. VCs invested almost $200b in AI startups in the first half of 2025. Frankly, I think we’re in a massive bubble that dwarfs the dot-com boom, and we’ll look \[…\]</source:markdown>
       <guid>cid://http://petewarden.com/?p=8086</guid>
+    </item>    <item>
+      <title>29 Free and Open Source Projects Receive Grants to Build Digital Commons</title>
+      <link>https://nlnet.nl/news/2025/20251016-selection-NGI0CommonsFund.html</link>
+      <guid>cid://https://nlnet.nl/news/2025/20251016-selection-NGI0CommonsFund.html</guid>
+    </item>    <item>
+      <title>docs.rs: changed default targets</title>
+      <link>https://blog.rust-lang.org/2025/10/16/docsrs-changed-default-targets/</link>
+      <guid>cid://https://blog.rust-lang.org/2025/10/16/docsrs-changed-default-targets/</guid>
+    </item>    <item>
+      <title>Skills for Claude!</title>
+      <link>https://blog.fsck.com/2025/10/16/skills-for-claude/</link>
+      <guid>cid://https://blog.fsck.com/2025/10/16/skills-for-claude/</guid>
     </item>    <item>
       <link>https://podcasts.apple.com/us/podcast/how-russell-vought-broke-the-u-s-government/id268213039?i=1000730035128</link>
       <description>
@@ -11787,6 +12366,11 @@ Tags: [coding-agents](https://simonwillison.net/tags/coding-agents), [anthropic]
       <source:markdown>The propaganda spewing from Trump’s departments and agencies is illegal</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!16-T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1dd778a3-4530-4e6a-89d1-5062e182d93c_3432x3499.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/the-trump-regime-is-wildly-violating</guid>
+    </item>    <item>
+      <title>October 14, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-14-2025-fbd</link>
+      <enclosure url="https://api.substack.com/feed/podcast/176268248/e94fc5be2882fcda33471c011936968f.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-14-2025-fbd</guid>
     </item>    <item>
       <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m3azseoyos2e</link>
       <description>
@@ -11944,6 +12528,10 @@ La entrada [Magallanes (BIFF 11): crónica de fieras humanidades](https://www.pa
       <source:markdown>The Fax Club Experiment is an interesting book. 100 people signed up to receive a weekly prompt, via fax (!) and responded only under their assigned number. 32 people made it to the end, and the book is a selection of their responses. I enjoyed people’s deeper thoughts, separated from any knowledge of their identity. \[…\]</source:markdown>
       <guid>cid://https://cate.blog/?p=61849</guid>
     </item>    <item>
+      <title>Note published on October 15, 2025 at 5:51 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202510151350</link>
+      <guid>cid://68efdf32c07d15a03fd1b7fb</guid>
+    </item>    <item>
       <link>https://bsky.app/profile/barackobama.bsky.social/post/3m3as5p4eis26</link>
       <description>
         <![CDATA[There's always been a fight over the true story of America. I believe deeply in the story that says we’re all created equal, and that if we can treat each other with decency and respect, all of us will be better off.
@@ -11956,6 +12544,10 @@ La entrada [Magallanes (BIFF 11): crónica de fieras humanidades](https://www.pa
 I talk about this and more on the final episode of WTF with Marc Maron. Watch now:
 https://www.youtube.com/watch?v=Hb2rKGfIOrM&#38;t=184s&#34;</source:markdown>
       <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m3as5p4eis26</guid>
+    </item>    <item>
+      <title>TiVo Stops Selling DVRs</title>
+      <link>https://cordcuttersnews.com/tivo-stops-selling-dvrs-marking-the-end-of-an-era/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42270</guid>
     </item>    <item>
       <title>Plainclothes: pasar de incógnito en la vida propia</title>
       <link>https://www.palomitademaiz.net/resenas-plainclothes/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-plainclothes</link>
@@ -12012,6 +12604,10 @@ These might be my best black beans I have ever made:</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!SgJy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F094db8a0-332e-4f1a-9128-d090cb8bf84f_2400x2667.heic" length="0" type="image/jpeg" />
       <guid>cid://https://guykawasaki.substack.com/p/lost-leaders-need-a-compass</guid>
     </item>    <item>
+      <title>‘Halo Fund Announces Strategic Secondary Investment in 1Password’</title>
+      <link>https://www.businesswire.com/news/home/20251009156976/en/Halo-Fund-Announces-Strategic-Secondary-Investment-in-1Password</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42269</guid>
+    </item>    <item>
       <title>Senators Warn Saudi Arabia’s Acquisition of EA Will Be Used for ‘Foreign Influence’</title>
       <link>https://www.404media.co/senators-warn-saudi-arabias-acquisition-of-ea-will-be-used-for-foreign-influence/</link>
       <description>
@@ -12046,6 +12642,10 @@ A month after Debian 13.1&#39;s release, some of the more visible downstream for
       </description>
       <source:markdown>This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. Read the original framework introduction and explore the complete methodology in Andrew Stellman’s O’Reilly report Critical Thinking Habits for Coding with AI. AI-assisted coding is here to stay. I’ve seen many companies now require all developers to install Copilot extensions \[…\]</source:markdown>
       <guid>cid://https://www.oreilly.com/radar/?p=17557</guid>
+    </item>    <item>
+      <title>Six Is Not a Lot of Minutes</title>
+      <link>https://onefoottsunami.com/2025/10/15/six-is-not-a-lot-of-minutes/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29296</guid>
     </item>    <item>
       <title>The accomplishments of WordPress</title>
       <link>http://scripting.com/2025/10/15/120730.html?title=theAccomplishmentsOfWordpress</link>
@@ -12252,6 +12852,14 @@ A million flowers bloomed. (Podcast clients.)
 Impossible to siloize. (They tried.)</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/15/why-did-podcasting-work/</guid>
     </item>    <item>
+      <title>For instance, there is an engraved stone erected at the Buddhist Kan&#38;#8217;ei-ji...</title>
+      <link>https://kottke.org/25/10/0047709-for-instance-there-is-an</link>
+      <guid>cid://tag:kottke.org,2025://13.47709</guid>
+    </item>    <item>
+      <title>Current status: looking through Atlas Obscura&#38;#8217;s list of things to do in...</title>
+      <link>https://kottke.org/25/10/0047708-current-status-looking-th</link>
+      <guid>cid://tag:kottke.org,2025://13.47708</guid>
+    </item>    <item>
       <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m37lji2ork2x</link>
       <description>
         <![CDATA[👇truth.
@@ -12344,12 +12952,20 @@ Tags: [browsers](https://simonwillison.net/tags/browsers), [csrf](https://simonw
       <source:markdown>The government shutdown, which started on October 1, is entering its third week.</source:markdown>
       <guid>cid://https://heathercoxrichardson.substack.com/p/october-14-2025</guid>
     </item>    <item>
+      <title>Rapper 50 Cent, adjusted for inflation, is 109 Cent....</title>
+      <link>https://kottke.org/25/10/0047707-rapper-50-cent-adjusted-f</link>
+      <guid>cid://tag:kottke.org,2025://13.47707</guid>
+    </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115375253797753190</link>
       <description>
         <![CDATA[<p>In Mexico, Chipotle Chili is our umami source.</p>]]>
       </description>
       <source:markdown>In Mexico, Chipotle Chili is our umami source.</source:markdown>
       <guid>cid://https://mastodon.social/@Migueldeicaza/115375253797753190</guid>
+    </item>    <item>
+      <title>Announcing the New Rust Project Directors</title>
+      <link>https://blog.rust-lang.org/2025/10/15/announcing-the-new-rust-project-directors-2025/</link>
+      <guid>cid://https://blog.rust-lang.org/2025/10/15/announcing-the-new-rust-project-directors-2025/</guid>
     </item>    <item>
       <title>subscribers-can-access-the-portal-through-the-main-login-page</title>
       <link>https://buttondown.com/blog/portal</link>
@@ -12749,6 +13365,11 @@ Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwill
       <source:markdown>‘No Kings’ Has Republicans in Disarray.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/14/1531/</guid>
     </item>    <item>
+      <title>October 13, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-13-2025-e5a</link>
+      <enclosure url="https://api.substack.com/feed/podcast/176170727/ed66306119768d35b7636d6d5ee403b8.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-13-2025-e5a</guid>
+    </item>    <item>
       <title>Neo Network Utility 2.0</title>
       <link>https://mjtsai.com/blog/2025/10/14/neo-network-utility-2-0/</link>
       <description>
@@ -12781,6 +13402,10 @@ Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwill
       <source:markdown>Max Seelemann (on his new blog): So how do you tell if a task supports cancellation? That’s tricky to answer per-se because cancellation is voluntary behavior and needs to be represented in the task’s value or error type. If you’re lucky, cancellation support (or lack thereof) is documented.\[…\]The designated way to check for cancellation is \[…\]</source:markdown>
       <guid>cid://https://mjtsai.com/blog/?p=49621</guid>
     </item>    <item>
+      <title>‘How to Turn Liquid Glass Into a Solid Interface’</title>
+      <link>https://tidbits.com/2025/10/09/how-to-turn-liquid-glass-into-a-solid-interface/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42268</guid>
+    </item>    <item>
       <title>PureOS Crimson Development Report: September 2025</title>
       <link>https://puri.sm/posts/pureos-crimson-development-report-september-2025/</link>
       <description>
@@ -12805,6 +13430,10 @@ The post [PureOS Crimson Development Report: September 2025](https://puri.sm/pos
 
 The post [Consent On Everything?](https://puri.sm/posts/consent-on-everything/) appeared first on [Purism](https://puri.sm/).</source:markdown>
       <guid>cid://https://puri.sm/?p=84770</guid>
+    </item>    <item>
+      <title>&#38;#8220;The spread of dangerous infections that do not respond to antibiotics has...</title>
+      <link>https://kottke.org/25/10/0047706-the-spread-of-dangerous-i</link>
+      <guid>cid://tag:kottke.org,2025://13.47706</guid>
     </item>    <item>
       <title>The Surreal Practicality of Protesting As an Inflatable Frog</title>
       <link>https://www.404media.co/the-surreal-practicality-of-protesting-as-an-inflatable-frog/</link>
@@ -12867,6 +13496,18 @@ Prop 50 puts our elections back on a level playing field, preserves independent 
 
 So return your ballot today. Vote yes on 50.</source:markdown>
       <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m367jtno4k2s</guid>
+    </item>    <item>
+      <title>A House of Dynamite</title>
+      <link>https://kottke.org/25/10/a-house-of-dynamite</link>
+      <guid>cid://tag:kottke.org,2025://5.47703</guid>
+    </item>    <item>
+      <title>‘Looking for the Red Flags in Apple’s Formula 1 TV Deal’</title>
+      <link>https://sixcolors.com/post/2025/10/looking-for-the-red-flags-in-apples-formula-1-tv-deal/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42267</guid>
+    </item>    <item>
+      <title>&#38;#8220;The MUTE Series is a collection of one-take microfilms that report on...</title>
+      <link>https://kottke.org/25/10/0047643-the-mute-series-is-a</link>
+      <guid>cid://tag:kottke.org,2025://13.47643</guid>
     </item>    <item>
       <title>Upcoming Speaking Engagements</title>
       <link>https://www.schneier.com/blog/archives/2025/10/upcoming-speaking-engagements-49.html</link>
@@ -12941,6 +13582,10 @@ The post [60 Minutes Uncovers Hacks on America’s Infrastructure](https://puri.
       <enclosure url="https://substackcdn.com/image/fetch/$s_!kEEG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e9b21aa-26d3-4bf7-a4ee-53e6d1f01e46_1024x683.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://tinabrown.substack.com/p/is-trump-the-real-deal</guid>
     </item>    <item>
+      <title>A short documentary about the groundbreaking sound design of Dune: Part Two,...</title>
+      <link>https://kottke.org/25/10/0047640-a-short-documentary-about</link>
+      <guid>cid://tag:kottke.org,2025://13.47640</guid>
+    </item>    <item>
       <title>The Lifeblood of the Web · Matthias Ott</title>
       <link>https://matthiasott.com/notes/the-lifeblood-of-the-web</link>
       <description>
@@ -12997,6 +13642,10 @@ The explains _a lot_ about React-driven front-end development!
       <source:markdown>More than 10,000 images of signs, placards, quotes, photos and more are part of the crowdsourced effort from over 300 national park and monument sites around the U.S.</source:markdown>
       <guid>cid://68ee54118c5580000132413a</guid>
     </item>    <item>
+      <title>&#38;#8220;The smartest design move isn&#38;#8217;t chasing trends, it&#38;#8217;s planting the tree and...</title>
+      <link>https://kottke.org/25/10/0047673-the-smartest-design-move-</link>
+      <guid>cid://tag:kottke.org,2025://13.47673</guid>
+    </item>    <item>
       <link>https://www.mediaweek.com.au/sxsw-sydney-monica-attard-and-siobhan-mchugh-on-podcastings-democratic-dream/</link>
       <description>
         <![CDATA[<p>Attard and McHugh on podcasting's democratic dream.</p>]]>
@@ -13036,6 +13685,14 @@ The explains _a lot_ about React-driven front-end development!
       <source:markdown>Literary fiction-heads (as LH devotees usually are) must celebrate: new Brandon Taylor AND Megha Majumdar in one week?! Not to mention exciting, unputdownable novels by Quan Barry, Anna North, Adam Johnson, and a selection of compelling and masterful stories by</source:markdown>
       <guid>cid://https://lithub.com/?p=260769</guid>
     </item>    <item>
+      <title>For the last-ever episode of his WTF podcast, Marc Maron interviewed Barack...</title>
+      <link>https://kottke.org/25/10/0047705-for-the-last-ever-episode</link>
+      <guid>cid://tag:kottke.org,2025://13.47705</guid>
+    </item>    <item>
+      <title>A New Kind of ATM</title>
+      <link>https://onefoottsunami.com/2025/10/14/a-new-kind-of-atm/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29282</guid>
+    </item>    <item>
       <title>Who Was Peter Matthiessen, Really?</title>
       <link>https://lithub.com/who-was-peter-matthiessen-really/</link>
       <description>
@@ -13067,6 +13724,10 @@ The explains _a lot_ about React-driven front-end development!
       </description>
       <source:markdown>Learn the importance of focus in scaling a WordPress plugin, advocating for prioritizing core products over numerous side projects to achieve long-term success.</source:markdown>
       <guid>cid://https://openchannels.fm/?p=110790</guid>
+    </item>    <item>
+      <title>Humans of New York has taken over all of Grand Central Terminal...</title>
+      <link>https://kottke.org/25/10/0047702-humans-of-new-york-has</link>
+      <guid>cid://tag:kottke.org,2025://13.47702</guid>
     </item>    <item>
       <title>The Trump Administration’s Increased Use of Social Media Surveillance</title>
       <link>https://www.schneier.com/blog/archives/2025/10/the-trump-administrations-increased-use-of-social-media-surveillance.html</link>
@@ -13274,6 +13935,10 @@ The latest interim release of Ubuntu is here, showcasing some significant change
       <enclosure url="https://substackcdn.com/image/fetch/$s_!CdSa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11079878-9603-4814-b897-d6e32c203fca_1024x683.heic" length="0" type="image/jpeg" />
       <guid>cid://https://www.borowitzreport.com/p/trump-claims-thousands-of-chicagoans</guid>
     </item>    <item>
+      <title>[Sponsor] Mux: Video API for Developers</title>
+      <link>https://www.mux.com/video-api?utm_campaign=fireball&#38;utm_source=DF</link>
+      <guid>cid://tag:daringfireball.net,2025:/feeds/sponsors//11.42266</guid>
+    </item>    <item>
       <link>https://www.mediaite.com/politics/inherently-corrupting-obama-condemns-trump-sending-national-guard-to-chicago-says-potus-has-damaged-democracy/</link>
       <description>
         <![CDATA[<p>Obama Slams Trump For Sending National Guard to Chicago.</p>]]>
@@ -13445,6 +14110,11 @@ September 2025 has been a brutal reminder of a truth we at Purism have been voic
 The post [Code is Power!](https://puri.sm/posts/code-is-power/) appeared first on [Purism](https://puri.sm/).</source:markdown>
       <guid>cid://https://puri.sm/?p=84698</guid>
     </item>    <item>
+      <title>October 12, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-12-2025-582</link>
+      <enclosure url="https://api.substack.com/feed/podcast/176073631/247a54b817c8eb87bb4b07264264f312.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-12-2025-582</guid>
+    </item>    <item>
       <title>Los años de Fierro: el cine como acto de memoria</title>
       <link>https://www.palomitademaiz.net/resenas-los-anos-de-fierro/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-los-anos-de-fierro</link>
       <description>
@@ -13477,6 +14147,10 @@ You can order the book pretty much everywhere, and a copy signed by me [here](ht
 
 Please help spread the word. I want this book to make a splash when it’s public. Leave a review on whatever site you buy it from. Or make a TikTok video. Or do whatever you kids do these days. Is anyone a Slashdot contributor? I’d like the book to be announced there...</source:markdown>
       <guid>cid://https://www.schneier.com/?p=70952</guid>
+    </item>    <item>
+      <title>Apple Renames ‘Apple TV+’ to ‘Apple TV’</title>
+      <link>https://www.apple.com/tv-pr/news/2025/10/apple-original-films-blockbuster-feature-f1-the-movie-from-joseph-kosinski-to-make-global-streaming-debut-on-friday-december-12-2025/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42265</guid>
     </item>    <item>
       <title>Sentimental Value (MONFIC 2025): maldito (y necesario) afecto</title>
       <link>https://www.palomitademaiz.net/resenas-sentimental-value-monfic-2025/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-sentimental-value-monfic-2025</link>
@@ -13991,6 +14665,22 @@ Not all is rosy, but if there’s a place where doc tools need to grow, it’s t
 We talked about the power of conviction, decency in an age of division, and the true story of America.</source:markdown>
       <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m33dylcqh22x</guid>
     </item>    <item>
+      <title>Apple Announces the End-of-Life for Clips</title>
+      <link>https://support.apple.com/en-us/123359</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42264</guid>
+    </item>    <item>
+      <title>The World’s Largest, Most Disruptive Botnet Is Exploiting Compromised Internet-of-Things (IoT) Devices</title>
+      <link>https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42263</guid>
+    </item>    <item>
+      <title>Before Taking the Guns Out of the Bond Posters, Amazon Prime Bowdlerized the Poster for ‘Full Metal Jacket’</title>
+      <link>https://www.warhistoryonline.com/news/full-metal-jacket-born-to-kill-amazon.html</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42262</guid>
+    </item>    <item>
+      <title>Let’s Check in on the Mad King’s Spiral Into Dementia</title>
+      <link>https://truthsocial.com/@realDonaldTrump/posts/115359345947837427</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42261</guid>
+    </item>    <item>
       <title>What Happened When AI Came for Craft Beer</title>
       <link>https://www.404media.co/what-happened-when-ai-came-for-craft-beer-canadian-beer-awards-best-beer-app/</link>
       <description>
@@ -13998,6 +14688,10 @@ We talked about the power of conviction, decency in an age of division, and the 
       </description>
       <source:markdown>A prominent beer competition introduced an AI-judging tool without warning. The judges and some members of the wider brewing industry were pissed.</source:markdown>
       <guid>cid://68e91d4e1c617200015e18c4</guid>
+    </item>    <item>
+      <title>Your Chance to Snag an Original Bob Ross</title>
+      <link>https://onefoottsunami.com/2025/10/13/your-chance-to-snag-an-original-bob-ross/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29278</guid>
     </item>    <item>
       <title>TeachMeet20</title>
       <link>https://johnjohnston.info/blog/teachmeet20/</link>
@@ -14168,6 +14862,10 @@ The post [Edgeberry interface board for Raspberry Pi](https://www.raspberrypi.co
       </description>
       <source:markdown>Kaushik Gopal (via Hacker News): You have a drawer full of USB cables. Half are junk that barely charge your phone. The other half transfer data at full speed. But which is which? \[…\] The script parses macOS’s system\_profiler SPUSBHostDataType command, which produces a dense, hard-to-scan raw output\[…\] \[…\] The first version was a bash \[…\]</source:markdown>
       <guid>cid://https://mjtsai.com/blog/?p=49608</guid>
+    </item>    <item>
+      <title>This one weird trick makes the AI a better writer.</title>
+      <link>https://blog.fsck.com/2025/10/13/this-one-weird-trick-makes-the-ai-a-better-writer/</link>
+      <guid>cid://https://blog.fsck.com/2025/10/13/this-one-weird-trick-makes-the-ai-a-better-writer/</guid>
     </item>    <item>
       <title>Episode 167 - The Tape That Unwound Itself</title>
       <link>https://adventofcomputing.libsyn.com/episode-167-the-tape-that-unwound-itself</link>
@@ -14383,6 +15081,23 @@ Tags: [slashdot](https://simonwillison.net/tags/slashdot), [ai-ethics](https://s
       <enclosure url="https://substackcdn.com/image/fetch/$s_!xD2F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7972626d-243a-4c9e-868b-bb3045d0fe54_3500x2329.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://heathercoxrichardson.substack.com/p/october-11-2025</guid>
     </item>    <item>
+      <title>October 10, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-10-2025-5b0</link>
+      <enclosure url="https://api.substack.com/feed/podcast/175918366/7814aaef01a9e80f26ba6cde263fb0ff.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-10-2025-5b0</guid>
+    </item>    <item>
+      <title>Superpowers 2.0 came out yesterday and might already be obsolete.</title>
+      <link>https://blog.fsck.com/2025/10/12/superpowers-20-came-out-yesterday-and-might-already-be-obsolete/</link>
+      <guid>cid://https://blog.fsck.com/2025/10/12/superpowers-20-came-out-yesterday-and-might-already-be-obsolete/</guid>
+    </item>    <item>
+      <title>Unintended consequences of prompt framing.</title>
+      <link>https://blog.fsck.com/2025/10/12/unintended-consequences-of-prompt-framing/</link>
+      <guid>cid://https://blog.fsck.com/2025/10/12/unintended-consequences-of-prompt-framing/</guid>
+    </item>    <item>
+      <title>weekly retro #36: following pumagreg&#39;s lead during the nor&#39;easter</title>
+      <link>https://livelaugh.blog/posts/weekly-retro-36/</link>
+      <guid>cid://https://livelaugh.blog/posts/weekly-retro-36/</guid>
+    </item>    <item>
       <title>Scraping Google Calendar events</title>
       <link>https://maxhalford.github.io/blog/google-calendar-scraping/</link>
       <description>
@@ -14391,6 +15106,14 @@ Tags: [slashdot](https://simonwillison.net/tags/slashdot), [ai-ethics](https://s
       <source:markdown>At my day job we deal with enterprise customers. They pay us a subscription fee, and in return we help them in various ways to reduce their carbon footprint. To keep the boat afloat, we need to make some money. We shouldn’t spend more money than we make. So we need to keep track of our revenue and costs. Our gross margin is `(revenue - cost) / revenue`, where the cost is mostly the salaries of our employees.</source:markdown>
       <author>maxhalford25@gmail.com (Max Halford)</author>
       <guid>cid://https://maxhalford.github.io/blog/google-calendar-scraping/</guid>
+    </item>    <item>
+      <title>Optimizing the Plush Interpreter for Faster Raytracing</title>
+      <link>https://pointersgonewild.com/2025-10-12-optimizing-the-plush-interpreter-for-faster-raytracing/</link>
+      <guid>cid://https://pointersgonewild.com/2025-10-12-optimizing-the-plush-interpreter-for-faster-raytracing/</guid>
+    </item>    <item>
+      <title>Drata</title>
+      <link>https://drata.com/daring</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42260</guid>
     </item>    <item>
       <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2xac3eax22r</link>
       <description>
@@ -14509,6 +15232,10 @@ Tags: [sub-agents](https://simonwillison.net/tags/sub-agents), [coding-agents](h
       <source:markdown>Diane Keaton: Career in Photos.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/11/1493/</guid>
     </item>    <item>
+      <title>Diane Keaton, Oscar-Winning &#38;#8216;Annie Hall&#38;#8217; Star, Dies at 79....</title>
+      <link>https://kottke.org/25/10/0047701-diane-keaton-oscar-winnin</link>
+      <guid>cid://tag:kottke.org,2025://13.47701</guid>
+    </item>    <item>
       <title>Really? Qatar gets its own air force facility inside the United States? Why?</title>
       <link>https://robertreich.substack.com/p/really-qatar-gets-its-own-air-force</link>
       <description>
@@ -14586,6 +15313,10 @@ Reply via:
       </description>
       <source:markdown>\[en\] Avec un TDAH, ça revient toujours à ça: on veut faire quelque chose, quelque chose qu’on a envie de faire, pour de vrai, mais on ne le fait pas. C’est la fameuse difficulté d’initiation de tâche. Quand il s’agit de faire le ménage, les impôts ou la vaisselle, tout le monde comprend bien qu’on … [Continue reading &#34;Faire les choses qu’on veut faire \[en\]&#34;](https://climbtothestars.org/archives/2025/10/11/faire-les-choses-quon-veut-faire/)</source:markdown>
       <guid>cid://https://climbtothestars.org/?p=10180</guid>
+    </item>    <item>
+      <title>Apple Has Indefinitely Postponed Jessica Chastain’s Apple TV+ Thriller ‘The Savant’, for Political Reasons</title>
+      <link>https://deadline.com/2025/09/the-savant-jessica-chastain-postponed-apple-1236553658/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42259</guid>
     </item>    <item>
       <title>Vibing a Non-Trivial Ghostty Feature</title>
       <link>https://simonwillison.net/2025/Oct/11/vibing-a-non-trivial-ghostty-feature/#atom-everything</link>
@@ -14670,6 +15401,10 @@ Via [@mitchellh](https://twitter.com/mitchellh/status/1977016133409820684)
 Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [mitchell-hashimoto](https://simonwillison.net/tags/mitchell-hashimoto), [coding-agents](https://simonwillison.net/tags/coding-agents)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/11/vibing-a-non-trivial-ghostty-feature/#atom-everything</guid>
     </item>    <item>
+      <title>Saul Zabar, Smoked Fish Czar of Upper West Side, Dies at 97</title>
+      <link>https://www.nytimes.com/2025/10/07/dining/saul-zabar-dead.html</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42258</guid>
+    </item>    <item>
       <link>https://www.nbcnews.com/news/us-news/dancing-frogs-unicorns-protest-portland-war-zone-rcna236887</link>
       <description>
         <![CDATA[<p>Costumed protesters in Portland defy description of the city as a 'war zone.'</p>]]>
@@ -14694,6 +15429,10 @@ La entrada [It Was Just An Accident (BIFF 11): la venganza como justicia](https:
       </description>
       <source:markdown>![](https://imgs.scripting.com/2024/05/03/shootThisDog.png)I&#39;m narrating development work on my [Daveverse](https://daveverse.org/) site. If you&#39;re interested, that&#39;s where I&#39;ve been while I&#39;m shaking out core bugs in the new WordLand. These are the things I want to stay fixed and never have to screw with again. It does actually work that way in products that go through a shake-out process. [Drummer](http://drummer.land/) and [FeedLand](https://feedland.org/) both work pretty well. Sure there are bugs and things I wish worked differently, but I and a few other people use them as everyday tools. I&#39;m trying to get WordLand with its timeline function to be that way. A bunch of new hookups via HTTP and Websockets.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/11.html#a150646</guid>
+    </item>    <item>
+      <title>Amazon Hamfistedly Removed the Guns From Prime’s James Bond Movie Posters</title>
+      <link>https://www.darkhorizons.com/amazon-fixes-james-bond-art-sort-of/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42257</guid>
     </item>    <item>
       <title>Create a Phishy URL</title>
       <link>https://phishyurl.com/</link>
@@ -15029,6 +15768,10 @@ This final one is an example of a racing game. Something that you might already 
 
 ![IMG](https://cdn.gingerbeardman.com/images/posts/spreadsheet-ui-racer.png)</source:markdown>
       <guid>cid://https://blog.gingerbeardman.com/2025/10/11/how-to-tame-a-user-interface-using-a-spreadsheet/</guid>
+    </item>    <item>
+      <title>The App Store Was Always Authoritarian</title>
+      <link>https://infrequently.org/2025/10/the-app-store-was-always-authoritarian/</link>
+      <guid>cid://https://infrequently.org/2025/10/the-app-store-was-always-authoritarian/</guid>
     </item>    <item>
       <title>simonw/claude-skills</title>
       <link>https://simonwillison.net/2025/Oct/10/claude-skills/#atom-everything</link>
@@ -15422,6 +16165,10 @@ As usual, you can also use this squid post to talk about the security stories in
       <source:markdown>Qualcomm (Hacker News): Qualcomm Technologies, Inc. today announced its agreement to acquire Arduino, a premier open-source hardware and software company. The transaction accelerates Qualcomm Technologies’ strategy to empower developers by facilitating access to its unmatched portfolio of edge technologies and products.\[…\]By combining Qualcomm Technologies’ leading‑edge processing, graphics, computer vision, and AI with Arduino’s simplicity, affordability, \[…\]</source:markdown>
       <guid>cid://https://mjtsai.com/blog/?p=49600</guid>
     </item>    <item>
+      <title>Apple Newsroom on the Immersive Vision Pro Lakers Broadcasts</title>
+      <link>https://www.apple.com/newsroom/2025/10/spectrum-brings-nba-games-in-apple-immersive-to-apple-vision-pro/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42256</guid>
+    </item>    <item>
       <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2uiru4kik22</link>
       <description>
         <![CDATA[Dave Winer links to this hacker news thread, https://news.ycombinator.com/item?id=45517134
@@ -15437,6 +16184,19 @@ This got me thinking about how many people are using SQLite3 to store channel/it
 Bet there are lots of &#34;reader&#34; websites out there.</source:markdown>
       <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m2uiru4kik22</guid>
     </item>    <item>
+      <title>The Underscore Music Player</title>
+      <link>https://kottke.org/25/10/the-underscore-music-player</link>
+      <guid>cid://tag:kottke.org,2025://5.47700</guid>
+    </item>    <item>
+      <title>October 9, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-9-2025-714</link>
+      <enclosure url="https://api.substack.com/feed/podcast/175832150/3235d06a2604c298e5eb7bad6a41c946.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-9-2025-714</guid>
+    </item>    <item>
+      <title>Minute/Year is an art piece/installation where the sound occurring in a space...</title>
+      <link>https://kottke.org/25/10/0047686-minuteyear-is-an-art-piec</link>
+      <guid>cid://tag:kottke.org,2025://13.47686</guid>
+    </item>    <item>
       <title>This week’s news in Venn diagrams.</title>
       <link>https://lithub.com/this-weeks-news-in-venn-diagrams-oct-10/</link>
       <description>
@@ -15444,6 +16204,10 @@ Bet there are lots of &#34;reader&#34; websites out there.</source:markdown>
       </description>
       <source:markdown>Fittingly for the news of a new Moomin movie this week, today is Finnish Literature Day. Maybe break out some Tove Jansson, Frans Eemil Sillanpää, or Väinö Linna this weekend to celebrate? Or go all the way back and read</source:markdown>
       <guid>cid://https://lithub.com/?p=261000</guid>
+    </item>    <item>
+      <title>Missed this from a few days ago: the winners of the 2025...</title>
+      <link>https://kottke.org/25/10/0047699-missed-this-from-a-few</link>
+      <guid>cid://tag:kottke.org,2025://13.47699</guid>
     </item>    <item>
       <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2uacmtdoc26</link>
       <description>
@@ -15478,6 +16242,10 @@ https://www.godayone.org/walktober</source:markdown>
       <source:markdown>Stephen Miller Has ‘Central Role’ Probing Liberal Groups.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/10/1477/</guid>
     </item>    <item>
+      <title>ILM Visual Effects Artist Breaks Down Hidden VFX</title>
+      <link>https://kottke.org/25/10/ilm-visual-effects-artist-breaks-down-hidden-vfx</link>
+      <guid>cid://tag:kottke.org,2025://5.47698</guid>
+    </item>    <item>
       <link>https://bsky.app/profile/barackobama.bsky.social/post/3m2u4e4n35225</link>
       <description>
         <![CDATA[Congratulations to new Nobel Peace Prize laureate María Corina Machado for her courageous struggle to bring democracy to Venezuela.
@@ -15486,6 +16254,10 @@ https://www.godayone.org/walktober</source:markdown>
       <source:markdown>Congratulations to new Nobel Peace Prize laureate María Corina Machado for her courageous struggle to bring democracy to Venezuela.
 https://www.nytimes.com/live/2025/10/10/world/nobel-peace-prize</source:markdown>
       <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m2u4e4n35225</guid>
+    </item>    <item>
+      <title>An oddly fascinating video on the Barney Google comic strip, which began...</title>
+      <link>https://kottke.org/25/10/0047695-an-oddly-fascinating-vide</link>
+      <guid>cid://tag:kottke.org,2025://13.47695</guid>
     </item>    <item>
       <title>The Smashing Machine (MONFIC 2025): los machos también lloran</title>
       <link>https://www.palomitademaiz.net/resenas-the-smashing-machine/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-the-smashing-machine</link>
@@ -15513,6 +16285,10 @@ La entrada [The Smashing Machine (MONFIC 2025): los machos también lloran](http
       </description>
       <source:markdown>The wonderful Czech writer Ivan Klima died this past weekend at the age of 94. Klima lived a remarkable, principled life, having survived both the Nazi occupation of Prague (he spent three years in the concentration camp at Terezin as a</source:markdown>
       <guid>cid://https://lithub.com/?p=260982</guid>
+    </item>    <item>
+      <title>I love the synchronized waves that these Himalayan giant honey bees use...</title>
+      <link>https://kottke.org/25/10/0047694-i-love-the-synchronized-w</link>
+      <guid>cid://tag:kottke.org,2025://13.47694</guid>
     </item>    <item>
       <link>https://news.ycombinator.com/item?id=45517134</link>
       <description>
@@ -15579,6 +16355,10 @@ _Cross-posted from the [WordCamp Canada](https://canada.wordcamp.org/2025/the-so
       <source:markdown>Today&#39;s song: [Oh My Love](https://www.youtube.com/watch?v=u3QZVdqUidw), by John Lennon. I was trying to remember this song. It kept eluding me. It&#39;s not one of his most famous. It&#39;s what you experience when you fall in love. Clarity. Endless possibility. At home in your life. For the first time.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/10.html#a135904</guid>
     </item>    <item>
+      <title>Can You Recommend a Good Bookmark Manager?</title>
+      <link>https://kottke.org/25/10/can-you-recommend-a-good-bookmark-manager</link>
+      <guid>cid://tag:kottke.org,2025://5.47697</guid>
+    </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115350169147902476</link>
       <description>
         <![CDATA[<p>When you are an Apple security researcher, Christmas comes early on November 2025:</p><p><a href="https://security.apple.com/blog/apple-security-bounty-evolved/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">security.apple.com/blog/apple-</span><span class="invisible">security-bounty-evolved/</span></a></p>]]>
@@ -15597,12 +16377,20 @@ _Cross-posted from the [WordCamp Canada](https://canada.wordcamp.org/2025/the-so
       <enclosure url="https://substackcdn.com/image/fetch/$s_!da4I!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa49c2687-aa20-4008-aa09-d24d93e87153_1024x683.heic" length="0" type="image/jpeg" />
       <guid>cid://https://www.borowitzreport.com/p/trump-rallies-angry-supporters-outside</guid>
     </item>    <item>
+      <title>Venezuelan opposition leader María Corina Machado wins the Nobel Peace Prize. &#38;#8220;When...</title>
+      <link>https://kottke.org/25/10/0047696-venezuelan-opposition-lea</link>
+      <guid>cid://tag:kottke.org,2025://13.47696</guid>
+    </item>    <item>
       <link>https://daveverse.org/2025/10/10/my-favorite-apple-2/</link>
       <description>
         <![CDATA[<p>It's apple season at Adams in Kingston.</p>]]>
       </description>
       <source:markdown>It&#39;s apple season at Adams in Kingston.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/10/1473/</guid>
+    </item>    <item>
+      <title>Try Putting It in Some Rice</title>
+      <link>https://onefoottsunami.com/2025/10/10/try-putting-it-in-some-rice/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29275</guid>
     </item>    <item>
       <title>Meta Tells Workers Building Metaverse to Use AI to ‘Go 5x Faster’</title>
       <link>https://www.404media.co/meta-tells-workers-building-metaverse-to-use-ai-to-go-5x-faster/</link>
@@ -15878,6 +16666,10 @@ For the record, here’s my top ten:
       <enclosure url="https://substackcdn.com/image/fetch/$s_!NsYD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe811f810-cf26-45fa-a0df-7726af13b1ad_1992x1126.png" length="0" type="image/jpeg" />
       <guid>cid://https://fixthenews.com/p/314-a-stake-through-the-cold-dark</guid>
     </item>    <item>
+      <title>Finished reading Cul-de-sac Carnage</title>
+      <link>https://www.mollywhite.net/reading/books?search=Cul-de-sac%20Carnage</link>
+      <guid>cid://68e90d480701fd88d81b795b</guid>
+    </item>    <item>
       <title>CSS Grid: A helpful mental model and the power of grid lines</title>
       <link>https://webkit.org/blog/17474/css-grid-a-helpful-mental-model-and-the-power-of-grid-lines/</link>
       <description>
@@ -15886,12 +16678,20 @@ For the record, here’s my top ten:
       <source:markdown>Grid is a powerful, flexible tool that brings complex layouts to life.</source:markdown>
       <guid>cid://https://webkit.org/?p=17474</guid>
     </item>    <item>
+      <title>Notes on switching to Helix from vim</title>
+      <link>https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/</link>
+      <guid>cid://https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/</guid>
+    </item>    <item>
       <title>How to publish your blog and newsletter in one click</title>
       <link>https://buttondown.com/blog/wordpress-blog-to-buttondown</link>
       <description>
         <![CDATA[A Rube Goldberg machine for your ideas]]>
       </description>
       <source:markdown>A Rube Goldberg machine for your ideas</source:markdown>
+    </item>    <item>
+      <title>Humans Are Just Stochastic Parrots</title>
+      <link>https://tinyclouds/humans/</link>
+      <guid>cid://https://tinyclouds/humans/</guid>
     </item>    <item>
       <title>emailwall-and-webwall-components</title>
       <link>https://buttondown.com/blog/2025-10-10</link>
@@ -15942,6 +16742,22 @@ The post [The Trojan War, with Mary Beard](https://therestishistory.com/the-troj
       <source:markdown>‘I Got a Lot of People Believing in Me’: Robert Roberson Stares Down Death, Again.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/09/1465/</guid>
     </item>    <item>
+      <title>&#38;#8220;ShadeMap is a global simulation of mountain, building and tree shadows for...</title>
+      <link>https://kottke.org/25/10/0047648-shademap-is-a-global-simu</link>
+      <guid>cid://tag:kottke.org,2025://13.47648</guid>
+    </item>    <item>
+      <title>Finished reading Caliban&#39;s War</title>
+      <link>https://www.mollywhite.net/reading/books?search=Caliban&#39;s%20War</link>
+      <guid>cid://68e82ff57d41bab54863f3ee</guid>
+    </item>    <item>
+      <title>Some Lakers Games This Season Will Be Broadcast Live in Immersive Video for Vision Pro</title>
+      <link>https://www.techradar.com/streaming/entertainment/wish-you-could-be-courtside-at-a-lakers-game-put-your-vision-pro-back-on-and-fire-up-the-nba-app</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42255</guid>
+    </item>    <item>
+      <title>Hokusai. Thirty-Six Views of Mount Fuji.</title>
+      <link>https://kottke.org/25/10/hokusai-thirty-six-views-of-mount-fuji</link>
+      <guid>cid://tag:kottke.org,2025://5.47688</guid>
+    </item>    <item>
       <link>https://tilde.zone/@tomasino/115346294528772557</link>
       <description>
         <![CDATA[<p>Do you know who Aleister Crowley is (without looking anything up)?</p><p><radio disabled="disabled">Yes</radio><br><radio disabled="disabled">Nope</radio><br><radio disabled="disabled">Don&#39;t care, just wanna see results</radio></p>]]>
@@ -15955,12 +16771,29 @@ Nope
 Don&#39;t care, just wanna see results</source:markdown>
       <guid>cid://https://tilde.zone/@tomasino/115346294528772557</guid>
     </item>    <item>
+      <title>If you google around, there are claims of people with a max...</title>
+      <link>https://kottke.org/25/10/0047693-if-you-google-around-ther</link>
+      <guid>cid://tag:kottke.org,2025://13.47693</guid>
+    </item>    <item>
+      <title>&#38;#8220;It turns out playing God is neither difficult nor expensive.&#38;#8221; That line...</title>
+      <link>https://kottke.org/25/10/0047692-it-turns-out-playing-god</link>
+      <guid>cid://tag:kottke.org,2025://13.47692</guid>
+    </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115345806062906069</link>
       <description>
         <![CDATA[<p>This was a nice surprise!</p>]]>
       </description>
       <source:markdown>This was a nice surprise!</source:markdown>
       <guid>cid://https://mastodon.social/@Migueldeicaza/115345806062906069</guid>
+    </item>    <item>
+      <title>The Evolution of the YouTube Progress Bar (2005-2025)</title>
+      <link>https://kottke.org/25/10/the-evolution-of-the-youtube-progress-bar-2005-2025</link>
+      <guid>cid://tag:kottke.org,2025://5.47691</guid>
+    </item>    <item>
+      <title>October 8, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-8-2025-c60</link>
+      <enclosure url="https://api.substack.com/feed/podcast/175739788/5395ea04d7e1b80b30c9c94681b54fa2.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-8-2025-c60</guid>
     </item>    <item>
       <title>Indicting People Who Lied to Congress Would Overcrowd Prisons</title>
       <link>https://www.borowitzreport.com/p/indicting-people-who-lied-to-congress</link>
@@ -15977,6 +16810,10 @@ Don&#39;t care, just wanna see results</source:markdown>
       </description>
       <source:markdown>Even though Schumer is a “human flat tire” he’s right that the Dems have momentum. The message seems to be getting through that health care for Americans is what they’re voting on now. The Dems support the people, the Repubs Don’t see why they should care.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/09/1463/</guid>
+    </item>    <item>
+      <title>Area Man Has Far Greater Knowledge Of Marvel Universe Than Own Family...</title>
+      <link>https://kottke.org/25/10/0047689-area-man-has-far-greater</link>
+      <guid>cid://tag:kottke.org,2025://13.47689</guid>
     </item>    <item>
       <link>https://www.theguardian.com/us-news/2025/oct/09/anti-fascism-mark-bray-rutgers-university</link>
       <description>
@@ -16046,6 +16883,10 @@ La entrada [Las películas más esperadas del BIFF 2025](https://www.palomitadem
 \[contains quote post or other embedded content\]</source:markdown>
       <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m2rpm6e6sc24</guid>
     </item>    <item>
+      <title>Apple’s Justification for Removing DeICER From the App Store</title>
+      <link>https://migrantinsider.com/p/scoop-apple-quietly-made-ice-agents</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42254</guid>
+    </item>    <item>
       <title>The Programmer Identity Crisis ❈ Simon Højberg ❈ Principal Frontend Engineer</title>
       <link>https://hojberg.xyz/the-programmer-identity-crisis/</link>
       <description>
@@ -16059,6 +16900,10 @@ La entrada [Las películas más esperadas del BIFF 2025](https://www.palomitadem
 
 [adactio.com/links/22180](https://adactio.com/links/22180)</source:markdown>
       <guid>cid://https://hojberg.xyz/the-programmer-identity-crisis/</guid>
+    </item>    <item>
+      <title>Apple Banned an App That Simply Archived Videos of ICE Abuses</title>
+      <link>https://www.404media.co/apple-banned-an-app-that-simply-archived-videos-of-ice-abuses/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42253</guid>
     </item>    <item>
       <link>https://houston.wordcamp.org/2020/what-in-the-world-is-a-wapuu/</link>
       <description>
@@ -16074,6 +16919,10 @@ La entrada [Las películas más esperadas del BIFF 2025](https://www.palomitadem
       </description>
       <source:markdown>ICE is depraved, and every day they seem to find new ways to lash out. Their incompetence—from out-of-shape squadristi getting embarrassed in Chicago to the poorly written snivelings of racist pencil eraser Stephen Miller—hasn’t hampered their ability to hurt our</source:markdown>
       <guid>cid://https://lithub.com/?p=260935</guid>
+    </item>    <item>
+      <title>A Data Love Letter to the NYC Subway</title>
+      <link>https://kottke.org/25/10/a-data-love-letter-to-the-nyc-subway</link>
+      <guid>cid://tag:kottke.org,2025://5.47690</guid>
     </item>    <item>
       <link>http://scripting.com/2025/10/09.html#a162201</link>
       <description>
@@ -16125,6 +16974,10 @@ La entrada [La libertad de Fierro: un relato de resistencia y sanación](https:/
       </description>
       <source:markdown>A hack impacting Discord’s age verification process shows in stark terms the risk of tech companies collecting users’ ID documents. Now the hackers are posting peoples’ IDs and other sensitive information online.</source:markdown>
       <guid>cid://68e7d0388635ce0001430022</guid>
+    </item>    <item>
+      <title>&#38;#8220;We&#38;#8217;ve put together a reading list about capitalism, imperialism, policing, and the...</title>
+      <link>https://kottke.org/25/10/0047683-weve-put-together-a-readi</link>
+      <guid>cid://tag:kottke.org,2025://13.47683</guid>
     </item>    <item>
       <link>https://glammr.us/@IIIF/115344886700754300</link>
       <description>
@@ -16214,6 +17067,10 @@ _Do you have an Old Favorite of your own? Let us know by filling out_ [_this for
 
 Nothing from us this week except thanks again for eight great years of Newslettering!</source:markdown>
       <guid>cid://https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-413/</guid>
+    </item>    <item>
+      <title>An interview with Ann Goldstein, Elena Ferrante&#38;#8217;s English translator. &#38;#8220;I had never...</title>
+      <link>https://kottke.org/25/10/0047685-an-interview-with-ann-gol</link>
+      <guid>cid://tag:kottke.org,2025://13.47685</guid>
     </item>    <item>
       <title>Help Us Investigate Book Bans and Educational Censorship Around America</title>
       <link>https://www.404media.co/help-us-investigate-book-bans-and-educational-censorship-around-america/</link>
@@ -16308,6 +17165,10 @@ I call this feature Cute Paste. :-)
 A [video demo](https://www.youtube.com/watch?v=WUAX6UaHQMg).</source:markdown>
       <guid>cid://http://scripting.com/2025/10/09/133902.html</guid>
     </item>    <item>
+      <title>Bird Photographer of the Year for 2025</title>
+      <link>https://kottke.org/25/10/bird-photographer-of-the-year-for-2025</link>
+      <guid>cid://tag:kottke.org,2025://5.47687</guid>
+    </item>    <item>
       <title>National Guardsman Planned American Caliphate on Discord, Sent 3D Printed Guns to Al Qaeda, Feds Say</title>
       <link>https://www.404media.co/national-guardsman-planned-american-caliphate-on-discord-sent-3d-printed-guns-to-al-qaeda-feds-say/</link>
       <description>
@@ -16329,6 +17190,10 @@ A [video demo](https://www.youtube.com/watch?v=WUAX6UaHQMg).</source:markdown>
 
 [adactio.com/links/22179](https://adactio.com/links/22179)</source:markdown>
       <guid>cid://https://rodriguezcommaj.com//blog/why-doesnt-anything-work-anymore/</guid>
+    </item>    <item>
+      <title>Someone Should Ask the Whales What They’d Like</title>
+      <link>https://onefoottsunami.com/2025/10/09/someone-should-ask-the-whales-what-theyd-like/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29273</guid>
     </item>    <item>
       <title>Control Codegen Spend</title>
       <link>https://www.oreilly.com/radar/control-codegen-spend/</link>
@@ -16703,6 +17568,10 @@ Tags: [python](https://simonwillison.net/tags/python), [testing](https://simonwi
       <source:markdown>You need to be aware of his four-point plan</source:markdown>
       <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/31X8vrfgHqs" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/trumps-plan-to-invoke-the-insurrection</guid>
+    </item>    <item>
+      <title>Superpowers: How I&#39;m using coding agents in October 2025</title>
+      <link>https://blog.fsck.com/2025/10/09/superpowers/</link>
+      <guid>cid://https://blog.fsck.com/2025/10/09/superpowers/</guid>
     </item>    <item>
       <title>GHC 9.14.1-alpha3 is now available</title>
       <link>http://haskell.org/ghc/blog/20251007-ghc-9.14.1-alpha3-released.html</link>
@@ -17231,6 +18100,10 @@ And CodingHorror had also a nice post on it:
 [https://blog.codinghorror.com/falling-into-the-pit-of-success/](https://blog.codinghorror.com/falling-into-the-pit-of-success/)</source:markdown>
       <guid>cid://https://mastodon.social/@Migueldeicaza/115340916362541588</guid>
     </item>    <item>
+      <title>This is a lovely &#38; thoughtful essay on the messiness of teaching...</title>
+      <link>https://kottke.org/25/10/0047684-this-is-a-lovely</link>
+      <guid>cid://tag:kottke.org,2025://13.47684</guid>
+    </item>    <item>
       <title>The Great Chicago Fire</title>
       <link>https://heathercoxrichardson.substack.com/p/the-great-chicago-fire</link>
       <description>
@@ -17239,6 +18112,14 @@ And CodingHorror had also a nice post on it:
       <source:markdown>Today is the anniversary of several deadly wildfires that took place in 1871.</source:markdown>
       <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/n1S4BGvTwpc" length="0" type="image/jpeg" />
       <guid>cid://https://heathercoxrichardson.substack.com/p/the-great-chicago-fire</guid>
+    </item>    <item>
+      <title>A History of the Slave-Breeding Industry in the United States</title>
+      <link>https://kottke.org/25/10/a-history-of-the-slave-breeding-industry-in-the-united-states-1</link>
+      <guid>cid://tag:kottke.org,2025://5.47682</guid>
+    </item>    <item>
+      <title>Published on Citation Needed: &#34;Issue 94 – Backdoor deals&#34;</title>
+      <link>https://citationneeded.news/issue-94</link>
+      <guid>cid://68e6cf39c07d15a03fd1b754</guid>
     </item>    <item>
       <link>https://insideevs.com/news/774924/kia-pv5-electric-van-review/</link>
       <description>
@@ -17253,6 +18134,10 @@ And CodingHorror had also a nice post on it:
       </description>
       <source:markdown>Interesting article from the Library of Congress, https://blogs.loc.gov/thesignal/2024/11/could-artificial-intelligence-help-catalog-thousands-of-digital-library-books-an-interview-with-abigail-potter-and-caroline-saccucci/</source:markdown>
       <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m2phsmohlc2j</guid>
+    </item>    <item>
+      <title>The Oatmeal&#38;#8217;s take on AI art. &#38;#8220;When I consume Al art, it...</title>
+      <link>https://kottke.org/25/10/0047680-the-oatmeals-take-on-ai</link>
+      <guid>cid://tag:kottke.org,2025://13.47680</guid>
     </item>    <item>
       <title>Irish novelist Naoise Dolan has been abducted by Israel.</title>
       <link>https://lithub.com/irish-novelist-naoise-dolan-has-been-abducted-by-israel/</link>
@@ -17325,12 +18210,25 @@ And CodingHorror had also a nice post on it:
       <source:markdown>Jay Rosen explains his new job, as I understand it, helping non-journalists who are providing news, to do news well.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/08/1437/</guid>
     </item>    <item>
+      <title>The Family of Migrants is a new book &#38; museum exhibition that...</title>
+      <link>https://kottke.org/25/10/0047679-the-family-of-migrants-is</link>
+      <guid>cid://tag:kottke.org,2025://13.47679</guid>
+    </item>    <item>
       <link>https://www.reuters.com/world/us/most-americans-dont-want-troops-deployed-without-an-external-threat-reutersipsos-2025-10-08/</link>
       <description>
         <![CDATA[<p>Most Americans don't want troops deployed without an external threat.</p>]]>
       </description>
       <source:markdown>Most Americans don&#39;t want troops deployed without an external threat.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/08/1435/</guid>
+    </item>    <item>
+      <title>October 7, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-7-2025-1a2</link>
+      <enclosure url="https://api.substack.com/feed/podcast/175649837/114dbb4eb2daa8905b5e9c550fcd4717.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-7-2025-1a2</guid>
+    </item>    <item>
+      <title>As they labor to fight off the slop bots, Wikipedia maintains a...</title>
+      <link>https://kottke.org/25/10/0047681-as-they-labor-to-fight</link>
+      <guid>cid://tag:kottke.org,2025://13.47681</guid>
     </item>    <item>
       <title>Python 3.14 Is Here. How Fast Is It?</title>
       <link>https://simonwillison.net/2025/Oct/8/python-314-is-here-how-fast-is-it/#atom-everything</link>
@@ -17371,6 +18269,10 @@ Tags: [gil](https://simonwillison.net/tags/gil), [performance](https://simonwill
 
 Tags: [llms](https://simonwillison.net/tags/llms), [generative-ai](https://simonwillison.net/tags/generative-ai), [ai](https://simonwillison.net/tags/ai), [code-review](https://simonwillison.net/tags/code-review), [ai-ethics](https://simonwillison.net/tags/ai-ethics)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/8/simon-hojberg/#atom-everything</guid>
+    </item>    <item>
+      <title>Note published on October 8, 2025 at 5:36 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202510081335</link>
+      <guid>cid://68e6a138c07d15a03fd1b68c</guid>
     </item>    <item>
       <link>https://www.theframelab.org/good-news-jd-vances-favorite-blogger-plans-escape-from-usa/?ref=lakoff-and-duran-framelab-newsletter</link>
       <description>
@@ -17511,6 +18413,10 @@ Tags: [apple](https://simonwillison.net/tags/apple), [brent-simmons](https://sim
 &#62; You might think this sounds like it violates the Fourth Amendment, which protects American citizens from unreasonable searches and seizures without probable cause. Well, so does the American Civil Liberties Union. Norfolk, Virginia Judge Jamilah LeCruise also agrees, and in 2024 she ruled that plate-reader data obtained without a search warrant couldn’t be used against a defendant in a robbery case...</source:markdown>
       <guid>cid://https://www.schneier.com/?p=70929</guid>
     </item>    <item>
+      <title>Muhammad al-Zaqzouq writes about using his books for cooking fuel. &#38;#8220;Let&#38;#8217;s use...</title>
+      <link>https://kottke.org/25/10/0047667-muhammad-al-zaqzouq-write</link>
+      <guid>cid://tag:kottke.org,2025://13.47667</guid>
+    </item>    <item>
       <title>El sonido de la caída (24vo Festival de cine alemán): escapar de la mirada ajena</title>
       <link>https://www.palomitademaiz.net/resenas-el-sonido-de-la-caida-24vo-festival-de-cine-aleman/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-el-sonido-de-la-caida-24vo-festival-de-cine-aleman</link>
       <description>
@@ -17546,6 +18452,10 @@ Earlier this year, Crunchlabs launched [SatGus](https://space.crunchlabs.com), w
 
 Jeff GeerlingOctober 8, 2025</source:markdown>
       <guid>cid://3495 at https://www.jeffgeerling.com</guid>
+    </item>    <item>
+      <title>Knit Hello, a Simple Typeface for Knitting</title>
+      <link>https://kottke.org/25/10/knit-hello-a-simple-typeface-for-knitting</link>
+      <guid>cid://tag:kottke.org,2025://5.47678</guid>
     </item>    <item>
       <title>Some more personal news. (October, 2025)</title>
       <link>https://pressthink.org/2025/10/some-more-personal-news-october-2025/</link>
@@ -17593,6 +18503,10 @@ The post [Some more personal news. (October, 2025)](https://pressthink.org/2025/
       <source:markdown>Fellow humans. If we&#39;re competing with AI, and to some extent it seems we are, consider that they have much better writing tools than we do. If we are to put up some kind of resistance to our cyber-domination, shouldn&#39;t we invest in better writing tools for bodied-intellects like us?</source:markdown>
       <guid>cid://http://scripting.com/2025/10/08.html#a141646</guid>
     </item>    <item>
+      <title>A list of laws, theories, principles and patterns that software developers might...</title>
+      <link>https://kottke.org/25/10/0047663-a-list-of-laws-theories</link>
+      <guid>cid://tag:kottke.org,2025://13.47663</guid>
+    </item>    <item>
       <title>Abandonware of the web: do you know that there is an HTML tables API?</title>
       <link>https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/</link>
       <description>
@@ -17600,6 +18514,10 @@ The post [Some more personal news. (October, 2025)](https://pressthink.org/2025/
       </description>
       <source:markdown>When people turn data into HTML tables using JavaScript, they either use the DOM methods (createElement() and the likes), but most of the time just append a huge string and use innerHTML, which always is a security concern. However, did you know that HTML tables also have an old, forgotten API ? Using this one, \[…\]</source:markdown>
       <guid>cid://https://christianheilmann.com/?p=8711</guid>
+    </item>    <item>
+      <title>Apple Faces French Investigation Over Opt-In Siri Voice Recordings</title>
+      <link>https://www.bloomberg.com/news/articles/2025-10-06/apple-faces-probe-in-france-over-voice-recordings-made-by-siri</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42252</guid>
     </item>    <item>
       <title>How to spot the next big wave before it crests</title>
       <link>https://guykawasaki.substack.com/p/how-to-spot-the-next-big-wave-before</link>
@@ -17609,6 +18527,14 @@ The post [Some more personal news. (October, 2025)](https://pressthink.org/2025/
       <source:markdown>If there’s one thing I’ve learned from my time at Apple, Canva, and beyond, it’s this: the people who succeed aren’t just riding waves—they’re building the products and services that cause the waves.</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!tJGi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffab77f49-23fe-4bf4-b8db-aac6b0bf135d_1080x1080.heic" length="0" type="image/jpeg" />
       <guid>cid://https://guykawasaki.substack.com/p/how-to-spot-the-next-big-wave-before</guid>
+    </item>    <item>
+      <title>Katie Notopoulos on the Difference Between Sora and Meta Vibes</title>
+      <link>https://www.threads.com/@katienotopoulos/post/DPRAi3ZDUfJ</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42251</guid>
+    </item>    <item>
+      <title>‘Sora’s Slop Hits Different’</title>
+      <link>https://spyglass.org/soras-slop-hits-different/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42250</guid>
     </item>    <item>
       <link>http://scripting.com/2025/10/08.html#a134452</link>
       <description>
@@ -17926,12 +18852,20 @@ PS: One other thing. Remember, as we also noted last year, that any inference ab
       <source:markdown>The big deal with WordPress, as outlined in the [Think Different piece](http://scripting.com/2025/08/28/140604.html) is that the strong API makes WP into something quite different from what most people think it is. I think of it as an OS for writing on the web. Very analogous to what we use(d) PCs and Macs for before networks were everywhere. This came up in a thread on Bluesky about MicroPub which appears to be a redo of Metaweblog, with better identity system.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/08.html#a132933</guid>
     </item>    <item>
+      <title>Nobel Prize in Physics Is Awarded for Work in Quantum Mechanics</title>
+      <link>https://www.nytimes.com/2025/10/07/science/nobel-prize-physics.html</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42249</guid>
+    </item>    <item>
       <link>https://snyder.substack.com/p/stalinism-and-stephen-miller-video?utm_source=podcast-email&#38;publication_id=310897&#38;post_id=175571053&#38;utm_campaign=email-play-on-substack&#38;utm_content=watch_now_button&#38;r=w33x&#38;triedRedirect=true&#38;utm_medium=email</link>
       <description>
         <![CDATA[<p>Timothy Snyder: Stalinism and Stephen Miller.</p>]]>
       </description>
       <source:markdown>Timothy Snyder: Stalinism and Stephen Miller.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/08/1431/</guid>
+    </item>    <item>
+      <title>The Movies That Defined Gen X. Ferris Bueller, The Breakfast Club, Do...</title>
+      <link>https://kottke.org/25/10/0047664-the-movies-that-defined-g</link>
+      <guid>cid://tag:kottke.org,2025://13.47664</guid>
     </item>    <item>
       <title>Cocaine in Private Jets and Sex Toys: What the FBI Found on its Secretly Backdoored Chat App</title>
       <link>https://www.404media.co/cocaine-in-private-jets-and-sex-toys-what-the-fbi-found-on-its-secretly-backdoored-chat-app/</link>
@@ -17948,6 +18882,10 @@ PS: One other thing. Remember, as we also noted last year, that any inference ab
       </description>
       <source:markdown>Using WooCommerce and open source to take kitchen baking into an online cake business, embracing cake in a jar and building a vibrant brand with community support.</source:markdown>
       <guid>cid://https://openchannels.fm/?p=110428</guid>
+    </item>    <item>
+      <title>An Instant Fan Legend</title>
+      <link>https://onefoottsunami.com/2025/10/08/an-instant-fan-legend/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29261</guid>
     </item>    <item>
       <title>The AI Teaching Toolkit: Practical Guidance for Teams</title>
       <link>https://www.oreilly.com/radar/the-ai-teaching-toolkit-practical-guidance-for-teams/</link>
@@ -18363,6 +19301,23 @@ I deeply regret this error. I&#39;ve deleted various social media posts about th
 Tags: [gemini](https://simonwillison.net/tags/gemini)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/7/gemini-25-computer-use-captchas/#atom-everything</guid>
     </item>    <item>
+      <title>The trailer for Downey Wrote That, a documentary about long-time SNL writer...</title>
+      <link>https://kottke.org/25/10/0047677-the-trailer-for-downey-wr</link>
+      <guid>cid://tag:kottke.org,2025://13.47677</guid>
+    </item>    <item>
+      <title>October 6, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-6-2025-b2a</link>
+      <enclosure url="https://api.substack.com/feed/podcast/175568917/5aa80cef3f9c360dfdd69da35b97f344.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-6-2025-b2a</guid>
+    </item>    <item>
+      <title>The first new edition of Merriam-Webster’s Collegiate Dictionary in 22 years contains...</title>
+      <link>https://kottke.org/25/10/0047669-the-first-new-edition-of</link>
+      <guid>cid://tag:kottke.org,2025://13.47669</guid>
+    </item>    <item>
+      <title>The Onion made a movie about Jeffrey Epstein and they&#38;#8217;re airing it...</title>
+      <link>https://kottke.org/25/10/0047676-the-onion-made-a-movie</link>
+      <guid>cid://tag:kottke.org,2025://13.47676</guid>
+    </item>    <item>
       <link>https://www.theguardian.com/us-news/live/2025/oct/07/donald-trump-national-guard-pam-bondi-mark-carney-government-shutdown-us-politics-live-news-updates</link>
       <description>
         <![CDATA[<p>Furloughed government workers may not be entitled to back pay, reports say, as Trump claims some jobs ‘will never come back.’ Hmm. I can't imagine the unpaid workers feel too good about this.</p>]]>
@@ -18376,6 +19331,14 @@ Tags: [gemini](https://simonwillison.net/tags/gemini)</source:markdown>
       </description>
       <source:markdown>Thanks to [Tanya Weiman](https://bsky.app/profile/tanyaweiman.bsky.social/post/3m2mt5qvccs2b) for observing that this blog started [31 years ago](http://scripting.com/davenet/1994/10/07/marccantersingsagain.html). Probably the longest-running blog on the internets. Still making trouble. And as they say, still diggin. You can always tell how long it&#39;s been by [looking](https://imgs.scripting.com/2025/10/07/bottomOfPage.png) at the bottom of [any archive page](http://scripting.com/2025/08/28/140604.html), where it&#39;s constantly calculating, down to the second, how long this blog has been running.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/07.html#a193847</guid>
+    </item>    <item>
+      <title>Bob Ross paintings to be auctioned to support public TV stations after...</title>
+      <link>https://kottke.org/25/10/0047675-bob-ross-paintings-to-be</link>
+      <guid>cid://tag:kottke.org,2025://13.47675</guid>
+    </item>    <item>
+      <title>Note published on October 7, 2025 at 7:08 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202510071506</link>
+      <guid>cid://68e56530c07d15a03fd1b5cd</guid>
     </item>    <item>
       <title>ToothFairy 2.8.8</title>
       <link>https://mjtsai.com/blog/2025/10/07/toothfairy-2-8-8/</link>
@@ -18408,6 +19371,10 @@ Tags: [gemini](https://simonwillison.net/tags/gemini)</source:markdown>
       </description>
       <source:markdown>Jonathan Reed: Apple brings much more customization to our in-car displays, mainly by letting the much heralded features of CarPlay Ultra trickle down to regular CarPlay. \[…\] CarPlay has taken on the visual qualities of Liquid Glass. Since CarPlay is essentially a mirror for your iPhone, this is to be expected, but it’s been done \[…\]</source:markdown>
       <guid>cid://https://mjtsai.com/blog/?p=49551</guid>
+    </item>    <item>
+      <title>Committing to the Bit</title>
+      <link>https://kottke.org/25/10/committing-to-the-bit</link>
+      <guid>cid://tag:kottke.org,2025://5.47674</guid>
     </item>    <item>
       <title>Social Share Imagery via a Data Attribute</title>
       <link>https://blog.jim-nielsen.com/2025/og-images-via-data-attributes/</link>
@@ -18541,6 +19508,14 @@ Reply via:
       <source:markdown>Have I ever told you how delicious pistachios are?</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/07/1415/</guid>
     </item>    <item>
+      <title>What’s New or Changed in iOS 26.1 Beta 2</title>
+      <link>https://9to5mac.com/2025/10/06/everything-new-in-ios-26-1-beta-2/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42248</guid>
+    </item>    <item>
+      <title>Everything Is Becoming a Bank. &#38;#8220;Most major corporations — from airlines to...</title>
+      <link>https://kottke.org/25/10/0047665-everything-is-becoming-a-</link>
+      <guid>cid://tag:kottke.org,2025://13.47665</guid>
+    </item>    <item>
       <title>What is Windows ML</title>
       <link>https://learn.microsoft.com/en-us/windows/ai/new-windows-ml/overview</link>
       <description>
@@ -18588,6 +19563,10 @@ Reply via:
       <source:markdown>At the center of shutdown fight, health care is one of the most intractable (also consequential) issues in Congress.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/07/1409/</guid>
     </item>    <item>
+      <title>&#38;#8220;The world&#38;#8217;s wind and solar farms have generated more electricity than coal...</title>
+      <link>https://kottke.org/25/10/0047672-the-worlds-wind-and-solar</link>
+      <guid>cid://tag:kottke.org,2025://13.47672</guid>
+    </item>    <item>
       <link>https://techcrunch.com/2025/10/07/mastodon-is-taking-cues-from-bluesky-with-plans-for-its-own-starter-packs/</link>
       <description>
         <![CDATA[<p>Mastodon supports lists. It's a good feature for helping people get started.</p>]]>
@@ -18601,6 +19580,10 @@ Reply via:
       </description>
       <source:markdown>![](https://imgs.scripting.com/2024/08/17/dewey.png)Why we _all_ should love RSS. It makes the web higher level without taking anything away.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/07.html#a164125</guid>
+    </item>    <item>
+      <title>AltStore State of the Union</title>
+      <link>https://rileytestut.com/blog/2025/10/07/evolving-altstore-pal/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42247</guid>
     </item>    <item>
       <title>Sustainable solutions with Raspberry Pi: Local, zero-waste manufacturing and precious metal recovery</title>
       <link>https://www.raspberrypi.com/news/sustainable-solutions-with-raspberry-pi-local-zero-waste-manufacturing-and-precious-metal-recovery/</link>
@@ -18672,6 +19655,10 @@ Tags: [vibe-coding](https://simonwillison.net/tags/vibe-coding), [definitions](h
 La entrada [Toxic: sueños vanidosos y pesadillas de inseguridad](https://www.palomitademaiz.net/resenas-toxic/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
       <guid>cid://https://www.palomitademaiz.net/?p=25587</guid>
     </item>    <item>
+      <title>What Do You Do with the Mad That You Feel?</title>
+      <link>https://kottke.org/25/10/what-do-you-do-with-the-mad-that-you-feel</link>
+      <guid>cid://tag:kottke.org,2025://5.47662</guid>
+    </item>    <item>
       <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2mgoqc6ek2k</link>
       <description>
         <![CDATA[Interesting https://www.theguardian.com/us-news/2025/oct/06/oregon-republicans-protest-photo-south-america]]>
@@ -18726,6 +19713,14 @@ Luckily we didn’t have any checked luggage or it would’ve gotten complicated
 
 That flight we abandoned did finally take off …six hours late. By that time we were back home on the sofa eating pizza and listening to the wind gusting outside. I think we made the right choice.</source:markdown>
       <guid>cid://https://adactio.com/journal/22174</guid>
+    </item>    <item>
+      <title>Qualcomm buys open-source electronics firm Arduino. &#38;#8220;Qualcomm said Arduino &#38;#8216;will retain its...</title>
+      <link>https://kottke.org/25/10/0047670-qualcomm-buys-open-source</link>
+      <guid>cid://tag:kottke.org,2025://13.47670</guid>
+    </item>    <item>
+      <title>I missed that NIN&#38;#8217;s Tron:Ares soundtrack came out a couple of weeks...</title>
+      <link>https://kottke.org/25/10/0047671-i-missed-that-nins-tronar</link>
+      <guid>cid://tag:kottke.org,2025://13.47671</guid>
     </item>    <item>
       <title>Vibe engineering</title>
       <link>https://simonwillison.net/2025/Oct/7/vibe-engineering/#atom-everything</link>
@@ -18826,6 +19821,10 @@ Tags: [code-review](https://simonwillison.net/tags/code-review), [definitions](h
       <source:markdown>Today, the National Book Foundation announced the finalists in all five categories—Fiction, Nonfiction, Poetry, Translated Literature, and Young People’s Literature—for the 2025 National Book Awards. The winners will be announced at the 76th National Book Awards Ceremony &#38; Benefit Dinner</source:markdown>
       <guid>cid://https://lithub.com/?p=260734</guid>
     </item>    <item>
+      <title>Upcoming exhibition from the MFA in Boston: &#38;#8220;&#38;#8216;Faces in the Crowd: Street...</title>
+      <link>https://kottke.org/25/10/0047666-upcoming-exhibition-from-</link>
+      <guid>cid://tag:kottke.org,2025://13.47666</guid>
+    </item>    <item>
       <title>Q3 2025</title>
       <link>https://cate.blog/2025/10/07/q3-2025/</link>
       <description>
@@ -18901,6 +19900,10 @@ Jeff GeerlingOctober 7, 2025</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!RVrP!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe329ab45-4bd1-4644-8808-bc07527abf1b_480x480.png" length="0" type="image/jpeg" />
       <guid>cid://https://jacobsonh.substack.com/p/how-to-celebrate-a-massacre</guid>
     </item>    <item>
+      <title>Bleen Means Blgo</title>
+      <link>https://onefoottsunami.com/2025/10/07/bleen-means-blgo/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29241</guid>
+    </item>    <item>
       <title>ScotsEduBlogs Update</title>
       <link>https://johnjohnston.info/blog/scotsedublogs-update/</link>
       <description>
@@ -18919,6 +19922,14 @@ Having a little more time on my hands I&#39;d like to reinvigorate ScotEduBlogs.
 
 [https://mastodon.social/@stroughtonsmith/115332664208549324](https://mastodon.social/@stroughtonsmith/115332664208549324)</source:markdown>
       <guid>cid://https://mastodon.social/@Migueldeicaza/115332807852124823</guid>
+    </item>    <item>
+      <title>Wiley Hodges’s Open Letter to Tim Cook Regarding ICEBlock</title>
+      <link>https://substack.com/inbox/post/175351960</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42246</guid>
+    </item>    <item>
+      <title>[Sponsor] Drata</title>
+      <link>http://drata.com/daring/?utm_source=Daring_Fireball&#38;utm_medium=display&#38;utm_campaign=18991230_fy26_comm_DG_COMM_&#38;utm_content=demo_request</link>
+      <guid>cid://tag:daringfireball.net,2025:/feeds/sponsors//11.42245</guid>
     </item>    <item>
       <title>Radar Trends to Watch: October 2025</title>
       <link>https://www.oreilly.com/radar/radar-trends-to-watch-october-2025/</link>
@@ -19117,6 +20128,14 @@ Having a little more time on my hands I&#39;d like to reinvigorate ScotEduBlogs.
       </description>
       <source:markdown>The Trump Admin’s Mostly Unnoticed Move to Crack Down on the Opposition.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/06/1399/</guid>
+    </item>    <item>
+      <title>The Unexpected New Threat to Video Creators</title>
+      <link>https://anildash.com/2025/10/07/the-threat-to-video-creators/</link>
+      <guid>cid://https://anildash.com/2025/10/07/the-threat-to-video-creators/</guid>
+    </item>    <item>
+      <title>The “Don’t Ask, Don’t Tell” Era of DEI</title>
+      <link>https://anildash.com/2025/10/07/dadt-dei/</link>
+      <guid>cid://https://anildash.com/2025/10/07/dadt-dei/</guid>
     </item>    <item>
       <title>An initial investigation into WDDM on ReactOS</title>
       <link>https://reactos.org/blogs/investigating-wddm/</link>
@@ -19346,6 +20365,10 @@ Tags: [python](https://simonwillison.net/tags/python), [tools](https://simonwill
       <source:markdown>Chicago Tells Of Escalating State Violence, Including A Killing, As It Challenges National Guard Occupation.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/06/1393/</guid>
     </item>    <item>
+      <title>The Mainstream Media Is Catastrophically Failing To Meet The Moment. &#38;#8220;Mainstream media...</title>
+      <link>https://kottke.org/25/10/0047668-the-mainstream-media-is-c</link>
+      <guid>cid://tag:kottke.org,2025://13.47668</guid>
+    </item>    <item>
       <title>Trump’s Plan</title>
       <link>https://robertreich.substack.com/p/trumps-plan</link>
       <description>
@@ -19385,6 +20408,10 @@ Tags: [python](https://simonwillison.net/tags/python), [tools](https://simonwill
       <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/244fe9f2-712a-4767-b86d-4bd3b9c46e9f_1920x1372.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://aiguide.substack.com/p/do-ai-reasoning-models-abstract-and</guid>
     </item>    <item>
+      <title>The Taco Bell 50k Ultramarathon was run in Denver over the weekend....</title>
+      <link>https://kottke.org/25/10/0047659-the-taco-bell-50k-ultrama</link>
+      <guid>cid://tag:kottke.org,2025://13.47659</guid>
+    </item>    <item>
       <title>What Jane Goodall’s Life Teaches About Courage, Curiosity, and Care</title>
       <link>https://guykawasaki.substack.com/p/what-jane-goodalls-life-teaches-about</link>
       <description>
@@ -19393,6 +20420,10 @@ Tags: [python](https://simonwillison.net/tags/python), [tools](https://simonwill
       <source:markdown>This week, in a bonus episode, we honor the life of Dr.</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!4mBo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F301dc236-fda1-4731-a5a4-9b95a61a79b3_1280x853.heic" length="0" type="image/jpeg" />
       <guid>cid://https://guykawasaki.substack.com/p/what-jane-goodalls-life-teaches-about</guid>
+    </item>    <item>
+      <title>I missed this from a couple of months ago: Inside the World...</title>
+      <link>https://kottke.org/25/10/0047661-i-missed-this-from-a</link>
+      <guid>cid://tag:kottke.org,2025://13.47661</guid>
     </item>    <item>
       <link>https://bsky.app/profile/altusds.altgov.info/post/3m2kfgxnues2q</link>
       <description>
@@ -19487,6 +20518,10 @@ Unlike other sites that have disappeared, this one just changed.
 https://plainlanguage.18f.org/</source:markdown>
       <guid>cid://at://did:plc:fuovrvjiloafdym65x3oloqc/app.bsky.feed.post/3m2kdrd6ils2a</guid>
     </item>    <item>
+      <title>What Makes for a Healthy Society?</title>
+      <link>https://kottke.org/25/10/what-makes-for-a-healthy-society</link>
+      <guid>cid://tag:kottke.org,2025://5.47658</guid>
+    </item>    <item>
       <title>The House of Leaves-inspired game MyHouse.wad is just as trippy as you’d think.</title>
       <link>https://lithub.com/the-house-of-leaves-inspired-game-myhouse-wad-is-just-as-trippy-as-youd-think/</link>
       <description>
@@ -19494,6 +20529,14 @@ https://plainlanguage.18f.org/</source:markdown>
       </description>
       <source:markdown>This demon shooting video game mod might be your new favorite book. MyHouse.wad is a 2023 mod—short for modification, in this case a series of custom levels—for 1994’s Doom II, the second in a franchise of wildly influential games that</source:markdown>
       <guid>cid://https://lithub.com/?p=260755</guid>
+    </item>    <item>
+      <title>Delightful Doggie Field Trips</title>
+      <link>https://onefoottsunami.com/2025/10/06/delightful-doggie-field-trips/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29239</guid>
+    </item>    <item>
+      <title>&#38;#8220;Mary Brunkow, Fred Ramsdell, and Shimon Sakaguchi won the 2025 Nobel Prize...</title>
+      <link>https://kottke.org/25/10/0047660-mary-brunkow-fred-ramsdel</link>
+      <guid>cid://tag:kottke.org,2025://13.47660</guid>
     </item>    <item>
       <title>Epic Games Sees Benefits From Streamlined Install Flow</title>
       <link>https://mjtsai.com/blog/2025/10/06/epic-games-sees-benefits-from-streamlined-install-flow/</link>
@@ -19543,6 +20586,15 @@ https://plainlanguage.18f.org/</source:markdown>
       <source:markdown>No, we’re not doing science at California’s most beautiful lake. We’re looking for bugs. A popular cross-platform app development framework called Electron is using private and undocumented API that’s causing system-wide slowdowns in macOS Tahoe. We’re hearing from customers that some of our apps are running slowly on Tahoe and I suspect that this bug \[…\]</source:markdown>
       <guid>cid://https://furbo.org/?p=2912</guid>
     </item>    <item>
+      <title>October 5, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-5-2025-50a</link>
+      <enclosure url="https://api.substack.com/feed/podcast/175449757/6d04a7eaaa7aa30ca4fd11408fd52c46.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-5-2025-50a</guid>
+    </item>    <item>
+      <title>Empty Nest? Or Open Door?</title>
+      <link>https://kottke.org/25/10/empty-nest-or-open-door</link>
+      <guid>cid://tag:kottke.org,2025://5.47657</guid>
+    </item>    <item>
       <title>OpenAI DevDay 2025 live blog</title>
       <link>https://simonwillison.net/2025/Oct/6/openai-devday-live-blog/#atom-everything</link>
       <description>
@@ -19559,12 +20611,20 @@ _Disclosure: OpenAI provided me with a free ticket and reserved me a seat in the
 Tags: [ai](https://simonwillison.net/tags/ai), [openai](https://simonwillison.net/tags/openai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [disclosures](https://simonwillison.net/tags/disclosures), [live-blog](https://simonwillison.net/tags/live-blog)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/6/openai-devday-live-blog/#atom-everything</guid>
     </item>    <item>
+      <title>OpenAI Looks to Take 10 Percent Stake in AMD Through AI Chip Deal</title>
+      <link>https://www.cnbc.com/2025/10/06/openai-amd-chip-deal-ai.html</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42244</guid>
+    </item>    <item>
       <link>https://wordpress.feedland.org/</link>
       <description>
         <![CDATA[<p>Lots of new posts on WordPress News about WordPress of course. ;-)</p>]]>
       </description>
       <source:markdown>Lots of new posts on WordPress News about WordPress of course. ;-)</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/06/1387/</guid>
+    </item>    <item>
+      <title>How to Write in Cuneiform, the Oldest Writing System in the World....</title>
+      <link>https://kottke.org/25/10/0047594-how-to-write-in-cuneiform</link>
+      <guid>cid://tag:kottke.org,2025://13.47594</guid>
     </item>    <item>
       <link>https://archive.ph/w7gmN</link>
       <description>
@@ -19646,6 +20706,14 @@ Tags: [web](https://simonwillison.net/tags/web), [tim-berners-lee](https://simon
       <source:markdown>The electric Bronco is real, and it might be Ford’s coolest EV yet. (Only available in China.)</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/06/1377/</guid>
     </item>    <item>
+      <title>In Praise of Comfort Films</title>
+      <link>https://kottke.org/25/10/in-praise-of-comfort-films</link>
+      <guid>cid://tag:kottke.org,2025://5.47656</guid>
+    </item>    <item>
+      <title>Tim Berners-Lee: &#38;#8220;I gave the world wide web away for free because...</title>
+      <link>https://kottke.org/25/10/0047655-tim-berners-lee-i-gave-th</link>
+      <guid>cid://tag:kottke.org,2025://13.47655</guid>
+    </item>    <item>
       <link>http://scripting.com/davenet/1995/01/04/demoingsoftwareforfunprofi.html</link>
       <description>
         <![CDATA[<p>1995: Demoing Software for Fun &amp; Profit.</p>]]>
@@ -19691,6 +20759,14 @@ Tags: [web](https://simonwillison.net/tags/web), [tim-berners-lee](https://simon
       </description>
       <source:markdown>I live a full and active life. In fact, I’m probably more engaged than I’ve ever been, with faith that at least some of my ideas will play out in constructive ways over the coming years and decades. But, at 78 (still a year younger than the current US president), I am also more mortal \[…\]</source:markdown>
       <guid>cid://https://doc.searls.com/?p=19545</guid>
+    </item>    <item>
+      <title>Oh I don&#38;#8217;t know, the appearance of two perfectly overlapping fiery rings...</title>
+      <link>https://kottke.org/25/10/0047654-oh-i-dont-know-the</link>
+      <guid>cid://tag:kottke.org,2025://13.47654</guid>
+    </item>    <item>
+      <title>We Are Not Fascists, and If You Call Us Fascists, We Will...</title>
+      <link>https://kottke.org/25/10/0047653-we-are-not-fascists-and</link>
+      <guid>cid://tag:kottke.org,2025://13.47653</guid>
     </item>    <item>
       <title>Why Linking and Permalinks Are the Backbone of the Open Web</title>
       <link>https://openchannels.fm/why-linking-and-permalinks-are-the-backbone-of-the-open-web/</link>

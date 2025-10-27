@@ -4,10 +4,21 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>27 Oct 25 10:53 -0700</lastBuildDate>
-    <generator>antenna/0.0.16-beta</generator>
+    <lastBuildDate>27 Oct 25 12:14 -0700</lastBuildDate>
+    <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Day in Review (October 27–30)</title>
+      <link>https://www.arl.org/day-in-review/day-in-review-october-27-30/</link>
+      <description>
+        <![CDATA[<p>Last Updated on October 27, 2025, 2:44 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...</p>
+        <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-october-27-30/">Day in Review (October 27–30)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+      </description>
+      <source:markdown>Last Updated on October 27, 2025, 2:44 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...
+
+The post [Day in Review (October 27–30)](https://www.arl.org/day-in-review/day-in-review-october-27-30/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
+      <guid>cid://https://www.arl.org/?p=46508</guid>
+    </item>    <item>
       <title>Guest Post — How Changes to ADA Title II Impact Libraries, and What We Can Do to Respond, Part 2</title>
       <link>https://scholarlykitchen.sspnet.org/2025/10/27/guest-post-how-changes-to-ada-title-ii-impact-libraries-and-what-we-can-do-to-respond-part-2/</link>
       <description>
@@ -266,10 +277,10 @@ Crossref runs an open infrastructure to link research objects, entities, and act
       <title>Day in Review (October 20–23)</title>
       <link>https://www.arl.org/day-in-review/day-in-review-october-20-23/</link>
       <description>
-        <![CDATA[<p>Last Updated on October 23, 2025, 3:21 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...</p>
+        <![CDATA[<p>Last Updated on October 27, 2025, 2:39 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...</p>
         <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-october-20-23/">Day in Review (October 20–23)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on October 23, 2025, 3:21 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...
+      <source:markdown>Last Updated on October 27, 2025, 2:39 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...
 
 The post [Day in Review (October 20–23)](https://www.arl.org/day-in-review/day-in-review-october-20-23/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=46445</guid>
