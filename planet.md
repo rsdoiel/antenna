@@ -15,7 +15,6 @@ title: Planet News
 # Canadian Broadcasting Corporation
 
 - [CBC, World News](https://www.cbc.ca/webfeed/rss/rss-world)
-- [CBC, Indigenious News](https://www.cbc.ca/webfeed/rss/rss-Indigenous)
 
 # RTÉ, Raidió Teilifís Éireann (the Irish public broadcasting organization)
 
