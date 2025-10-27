@@ -6,7 +6,7 @@ title: North America
 
 - [Guardian](https://www.theguardian.com/us-news/rss)
 - [Zeteo](https://zeteo.com/feed)
-- [Bloomberg](https://feeds.bloomberg.com/news.rss)
+- Bloomberg https://feeds.bloomberg.com/news.rss (not sure about this feed)
 
 
 # Government News Sources
