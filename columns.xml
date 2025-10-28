@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>27 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>28 Oct 25 06:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,292 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Parenthetical Asidenotes</title>
+      <link>https://meyerweb.com/eric/thoughts/2025/10/28/parenthetical-asidenotes/</link>
+      <description>
+        <![CDATA[It’s not really a secret I have a thing for sidenotes, and thus for CSS anchored positioning.  But a thing I realized about myself is that most of my sidenotes are likely to be tiny asides commenting on the main throughline of the text, as opposed to bibliographic references or other things that usually become [&#8230;]]]>
+      </description>
+      <source:markdown>It’s not really a secret I have a thing for sidenotes, and thus for CSS anchored positioning.  But a thing I realized about myself is that most of my sidenotes are likely to be tiny asides commenting on the main throughline of the text, as opposed to bibliographic references or other things that usually become \[…\]</source:markdown>
+      <guid>cid://https://meyerweb.com/eric/thoughts/?p=5657</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115451886848864640</link>
+      <description>
+        <![CDATA[<p>This week I did a little performance work, and then retested the code “well this is amazing, it is now buttery smooth”, closed the bug.</p><p>Then I remembered I replaced the m2 iPad with and m5 iPad.</p><p>That bug is staying closed until someone complains :-)</p>]]>
+      </description>
+      <source:markdown>This week I did a little performance work, and then retested the code “well this is amazing, it is now buttery smooth”, closed the bug.
+
+Then I remembered I replaced the m2 iPad with and m5 iPad.
+
+That bug is staying closed until someone complains :-)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115451886848864640</guid>
+    </item>    <item>
+      <title>eurollm.io</title>
+      <link>https://eurollm.io/</link>
+      <description>
+        <![CDATA[<p>A different world is possible. Here, for example, is an open-source large language model from Europe, designed to support the 24 official languages of the European Union.</p>
+        
+        <p>I have no idea why <a href="https://en.wikipedia.org/wiki/.io">their top level domain is for the British Indian Ocean Territory</a>, soon to be no more. That doesn&#8217;t instil confidence.</p>
+        
+        <p><a href="https://adactio.com/links/22217">adactio.com/links/22217</a></p>]]>
+      </description>
+      <source:markdown>A different world is possible. Here, for example, is an open-source large language model from Europe, designed to support the 24 official languages of the European Union.
+
+I have no idea why [their top level domain is for the British Indian Ocean Territory](https://en.wikipedia.org/wiki/.io), soon to be no more. That doesn’t instil confidence.
+
+[adactio.com/links/22217](https://adactio.com/links/22217)</source:markdown>
+      <guid>cid://https://eurollm.io/</guid>
+    </item>    <item>
+      <title>Dithering - Part 1</title>
+      <link>https://visualrambling.space/dithering-part-1/</link>
+      <description>
+        <![CDATA[<p>A clear explanation of how image dithering works, illustrated along the way.</p>
+        
+        <p><a href="https://adactio.com/links/22216">adactio.com/links/22216</a></p>]]>
+      </description>
+      <source:markdown>A clear explanation of how image dithering works, illustrated along the way.
+
+[adactio.com/links/22216](https://adactio.com/links/22216)</source:markdown>
+      <guid>cid://https://visualrambling.space/dithering-part-1/</guid>
+    </item>    <item>
+      <title>You First, Jeff</title>
+      <link>https://onefoottsunami.com/2025/10/28/you-first-jeff/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29337</guid>
+    </item>    <item>
+      <link>https://grokipedia.com/page/Elon_Musk</link>
+      <description>
+        <![CDATA[<p>Grokipedia article for Elon Musk.</p>]]>
+      </description>
+      <source:markdown>Grokipedia article for Elon Musk.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/28/1711/</guid>
+    </item>    <item>
+      <link>https://m.youtube.com/watch?v=zZjXTdL68VU&#38;t=70s&#38;pp=2AFGkAIB0gcJCR4Bo7VqN5tD</link>
+      <description>
+        <![CDATA[<p>Rep. Stansbury: Families are about to lose their food assistance.</p>]]>
+      </description>
+      <source:markdown>Rep. Stansbury: Families are about to lose their food assistance.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/28/1709/</guid>
+    </item>    <item>
+      <title>Zadie Smith, Catherine Newman, Cameron Crowe, and more: 23 new books out today!</title>
+      <link>https://lithub.com/zadie-smith-catherine-newman-cameron-crowe-and-more-23-new-books-out-today/</link>
+      <description>
+        <![CDATA[The speed at which a New York fall flies by will never cease to astound me. Here we are, already in the last week of October, midway through a cherished, idyllic time in the city. And by that I mean,]]>
+      </description>
+      <source:markdown>The speed at which a New York fall flies by will never cease to astound me. Here we are, already in the last week of October, midway through a cherished, idyllic time in the city. And by that I mean,</source:markdown>
+      <guid>cid://https://lithub.com/?p=261455</guid>
+    </item>    <item>
+      <link>https://wapo.st/47PKzTd</link>
+      <description>
+        <![CDATA[<p>Elon Musk launches Grokipedia, an AI-powered Wikipedia rival.</p>]]>
+      </description>
+      <source:markdown>Elon Musk launches Grokipedia, an AI-powered Wikipedia rival.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/28/1707/</guid>
+    </item>    <item>
+      <title>The Java Developer’s Dilemma: Part 3</title>
+      <link>https://www.oreilly.com/radar/the-java-developers-dilemma-part-3/</link>
+      <description>
+        <![CDATA[This is the final part of a three-part series by Markus Eisele. Part 1 can be found here, and Part 2 here. In the first article we looked at the Java developer’s dilemma: the gap between flashy prototypes and the reality of enterprise production systems. In the second article we explored why new types of [&#8230;]]]>
+      </description>
+      <source:markdown>This is the final part of a three-part series by Markus Eisele. Part 1 can be found here, and Part 2 here. In the first article we looked at the Java developer’s dilemma: the gap between flashy prototypes and the reality of enterprise production systems. In the second article we explored why new types of \[…\]</source:markdown>
+      <guid>cid://https://www.oreilly.com/radar/?p=17587</guid>
+    </item>    <item>
+      <title>Secret to Happiness</title>
+      <link>https://www.borowitzreport.com/p/secret-to-happiness</link>
+      <description>
+        <![CDATA[Try this.]]>
+      </description>
+      <source:markdown>Try this.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!3FLg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1156af1-c6e0-4da4-9c2d-8d7cd0f96843_1080x880.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/secret-to-happiness</guid>
+    </item>    <item>
+      <title>Social Engineering People’s Credit Card Details</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/social-engineering-peoples-credit-card-details.html</link>
+      <description>
+        <![CDATA[<p>Good <i>Wall Street Journal</i> <a href="https://www.wsj.com/tech/cybersecurity/url-scam-texts-china-gangs-68e96097?st=XcjCtr&#038;reflink=desktopwebshare_permalink&#038;utm_source=substack&#038;utm_medium=email">article</a> on criminal gangs that scam people out of their credit card information:</p>
+        <blockquote><p>Your highway toll payment is now past due, one text warns. You have U.S. Postal Service fees to pay, another threatens. You owe the New York City Department of Finance for unpaid traffic violations.</p>
+        <p>The texts are ploys to get unsuspecting victims to fork over their credit-card details. The gangs behind the scams take advantage of this information to buy iPhones, gift cards, clothing and cosmetics.</p>
+        <p>Criminal organizations operating out of China, which investigators blame for the toll and postage messages, have used them to make more than $1 billion over the last three years, according to the Department of Homeland Security...</p></blockquote>]]>
+      </description>
+      <source:markdown>Good _Wall Street Journal_ [article](https://www.wsj.com/tech/cybersecurity/url-scam-texts-china-gangs-68e96097?st=XcjCtr&#38;reflink=desktopwebshare_permalink&#38;utm_source=substack&#38;utm_medium=email) on criminal gangs that scam people out of their credit card information:
+
+&#62; Your highway toll payment is now past due, one text warns. You have U.S. Postal Service fees to pay, another threatens. You owe the New York City Department of Finance for unpaid traffic violations.
+&#62;
+&#62; The texts are ploys to get unsuspecting victims to fork over their credit-card details. The gangs behind the scams take advantage of this information to buy iPhones, gift cards, clothing and cosmetics.
+&#62;
+&#62; Criminal organizations operating out of China, which investigators blame for the toll and postage messages, have used them to make more than $1 billion over the last three years, according to the Department of Homeland Security...</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=71053</guid>
+    </item>    <item>
+      <title>The Hunger Games Begin</title>
+      <link>https://paulkrugman.substack.com/p/the-hunger-games-begin</link>
+      <description>
+        <![CDATA[40 million Americans are about to lose food stamps]]>
+      </description>
+      <source:markdown>40 million Americans are about to lose food stamps</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Vn2x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F512e35b7-3e55-4eaf-bed3-438f69adf3a6_1428x910.png" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/the-hunger-games-begin</guid>
+    </item>    <item>
+      <title>Lit Hub Daily: October 28, 2025</title>
+      <link>https://lithub.com/lit-hub-daily-october-28-2025/</link>
+      <description>
+        <![CDATA[“If Kafka were alive today, he wouldn’t be unpublished—he’d be under NDA.” On the dangerous fine print of creative contract law. &#124; Lit Hub Craft Anthony Vinci examines space warfare, spy satellites, and espionage’s new era. &#124; Lit Hub Politics]]>
+      </description>
+      <source:markdown>“If Kafka were alive today, he wouldn’t be unpublished—he’d be under NDA.” On the dangerous fine print of creative contract law. \| Lit Hub Craft Anthony Vinci examines space warfare, spy satellites, and espionage’s new era. \| Lit Hub Politics</source:markdown>
+      <guid>cid://https://lithub.com/?p=261808</guid>
+    </item>    <item>
+      <title>Bob Dylan’s Superpower is That He Doesn’t Get Embarrassed</title>
+      <link>https://lithub.com/bob-dylans-superpower-is-that-he-doesnt-get-embarrassed/</link>
+      <description>
+        <![CDATA[To be caught in the spotlight of our pretensions is the worst kind of embarrassment there is. And so, one thing I found notable in the years I spent writing a biography of Bob Dylan and his poetic songwriting was]]>
+      </description>
+      <source:markdown>To be caught in the spotlight of our pretensions is the worst kind of embarrassment there is. And so, one thing I found notable in the years I spent writing a biography of Bob Dylan and his poetic songwriting was</source:markdown>
+      <guid>cid://https://lithub.com/?p=261483</guid>
+    </item>    <item>
+      <title>Is Space the Final Frontier of Espionage?</title>
+      <link>https://lithub.com/is-space-the-final-frontier-of-espionage/</link>
+      <description>
+        <![CDATA[The greatest explorers have also been great spies. The two professions are intimately linked, with both spies and explorers illuminating the unknown. People like Sir Richard Francis Burton exemplify this connection. Burton’s exploits and intellect are legendary. He spoke twenty-nine]]>
+      </description>
+      <source:markdown>The greatest explorers have also been great spies. The two professions are intimately linked, with both spies and explorers illuminating the unknown. People like Sir Richard Francis Burton exemplify this connection. Burton’s exploits and intellect are legendary. He spoke twenty-nine</source:markdown>
+      <guid>cid://https://lithub.com/?p=261418</guid>
+    </item>    <item>
+      <title>How the Discovery of Single-Celled Marine Organisms Resulted in One of the Most Influential Illustrated Books Ever Published</title>
+      <link>https://lithub.com/how-the-discovery-of-single-celled-marine-organisms-resulted-in-one-of-the-most-influential-illustrated-books-ever-published/</link>
+      <description>
+        <![CDATA[No creatures from the microscopic world have managed to captivate the human imagination as authoritatively as radiolarians. Since the late nineteenth century, they’ve made their existence known in art, architecture, design, and even literature. These single-celled marine organisms, which appear]]>
+      </description>
+      <source:markdown>No creatures from the microscopic world have managed to captivate the human imagination as authoritatively as radiolarians. Since the late nineteenth century, they’ve made their existence known in art, architecture, design, and even literature. These single-celled marine organisms, which appear</source:markdown>
+      <guid>cid://https://lithub.com/?p=261587</guid>
+    </item>    <item>
+      <title>Murder, Polar Bears, and Arctic Hurricanes: The Many Twists and Turns of a 2008 Whaling Research Expedition</title>
+      <link>https://lithub.com/murder-polar-bears-and-arctic-hurricanes-the-many-twists-and-turns-of-a-2008-whaling-research-expedition/</link>
+      <description>
+        <![CDATA[Explorers come from many backgrounds. Dr. Martin Nweeia started as a dental surgeon. Eventually, his interests expanded to include dental anthropology—the study of how teeth offer clues to species’ diets, health, and even evolution and migration. Nweeia gave speeches around]]>
+      </description>
+      <source:markdown>Explorers come from many backgrounds. Dr. Martin Nweeia started as a dental surgeon. Eventually, his interests expanded to include dental anthropology—the study of how teeth offer clues to species’ diets, health, and even evolution and migration. Nweeia gave speeches around</source:markdown>
+      <guid>cid://https://lithub.com/?p=261491</guid>
+    </item>    <item>
+      <title>Mother of the Revolution: How Audley Moore Influenced a Generation of Black Activists</title>
+      <link>https://lithub.com/mother-of-the-revolution-how-audley-moore-influenced-a-generation-of-black-activists/</link>
+      <description>
+        <![CDATA[Queen Mother Audley Moore’s modest Philadelphia home was where some of the country’s most famous Black nationalist leaders, like Malcolm X and members of RAM (Revolutionary Action Movement, a militant youth organization), gathered to study, strategize, and draw inspiration from]]>
+      </description>
+      <source:markdown>Queen Mother Audley Moore’s modest Philadelphia home was where some of the country’s most famous Black nationalist leaders, like Malcolm X and members of RAM (Revolutionary Action Movement, a militant youth organization), gathered to study, strategize, and draw inspiration from</source:markdown>
+      <guid>cid://https://lithub.com/?p=261372</guid>
+    </item>    <item>
+      <title>Susan Straight on Chronicling the Impact of COVID-19 in Fiction</title>
+      <link>https://lithub.com/susan-straight-on-chronicling-the-impact-of-covid-19-in-fiction/</link>
+      <description>
+        <![CDATA[Sacrament follows in natural progression Susan Straight’s bestselling novel Mecca (2022), which revolves around three characters in that date-growing city in the Coachella Valley, including Johnny Frias, a California Highway Patrol officer whose family and friends are at risk from wildfires]]>
+      </description>
+      <source:markdown>Sacrament follows in natural progression Susan Straight’s bestselling novel Mecca (2022), which revolves around three characters in that date-growing city in the Coachella Valley, including Johnny Frias, a California Highway Patrol officer whose family and friends are at risk from wildfires</source:markdown>
+      <guid>cid://https://lithub.com/?p=261362</guid>
+    </item>    <item>
+      <title>America’s Founding Fathers Had No Faith in Democracy</title>
+      <link>https://lithub.com/americas-founding-fathers-had-no-faith-in-democracy/</link>
+      <description>
+        <![CDATA[&#8220;We hold these truths to be self-evident, that all men are created equal&#8230;.&#8221; –Thomas Jefferson, The Declaration of Independence (1776) &#8220;I have never seen, to my knowledge, a man, woman, or child, that was in favor of producing a perfect]]>
+      </description>
+      <source:markdown>“We hold these truths to be self-evident, that all men are created equal….” –Thomas Jefferson, The Declaration of Independence (1776) “I have never seen, to my knowledge, a man, woman, or child, that was in favor of producing a perfect</source:markdown>
+      <guid>cid://https://lithub.com/?p=261367</guid>
+    </item>    <item>
+      <title>The Devil is a Southpaw</title>
+      <link>https://lithub.com/the-devil-is-a-southpaw/</link>
+      <description>
+        <![CDATA[His full name was Matthew Echota, a cripplingly shy, talented, smart, and handsome boy, although many poked fun at him for being short, the poor soul, trailing along like a rabbit trying to keep up—little Matthew dodging around, chasing squirrels]]>
+      </description>
+      <source:markdown>His full name was Matthew Echota, a cripplingly shy, talented, smart, and handsome boy, although many poked fun at him for being short, the poor soul, trailing along like a rabbit trying to keep up—little Matthew dodging around, chasing squirrels</source:markdown>
+      <guid>cid://https://lithub.com/?p=261023</guid>
+    </item>    <item>
+      <title>Is Elon Worth It?</title>
+      <link>https://robertreich.substack.com/p/what-really-elon-demands-a-1-trillion</link>
+      <description>
+        <![CDATA[Is he a net positive for humanity or a net negative?]]>
+      </description>
+      <source:markdown>Is he a net positive for humanity or a net negative?</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/ef5af404-a8d1-457a-8c2d-2114283c94b0_3268x2434.png" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/what-really-elon-demands-a-1-trillion</guid>
+    </item>    <item>
+      <title>&#60;default:div xmlns=&#34;http://www.w3.org/1999/xhtml&#34; class=&#34;if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14&#34;/&#62;</title>
+      <link>https://tantek.com/2025/300/t20/wikipedia-editing-anniversary</link>
+      <guid>cid://https://tantek.com/2025/300/t20/wikipedia-editing-anniversary</guid>
+    </item>    <item>
+      <title>October 27, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-27-2025</link>
+      <description>
+        <![CDATA[There is a lot going on tonight, but the world is going to have to turn without me: it&#8217;s been a long run without a break and I need to sleep.]]>
+      </description>
+      <source:markdown>There is a lot going on tonight, but the world is going to have to turn without me: it’s been a long run without a break and I need to sleep.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!2Vdu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa570979a-6a05-41b6-a9f0-d09e1a4b7f22_2048x1536.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-27-2025</guid>
+    </item>    <item>
+      <title>&#60;default:div xmlns=&#34;http://www.w3.org/1999/xhtml&#34; class=&#34;if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14&#34;/&#62;</title>
+      <link>https://tantek.com/2025/300/t19/tpac-breakouts-reactions</link>
+      <guid>cid://https://tantek.com/2025/300/t19/tpac-breakouts-reactions</guid>
+    </item>    <item>
+      <title>Quoting Aaron Boodman</title>
+      <link>https://simonwillison.net/2025/Oct/28/aaron-boodman/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="https://x.com/aboodman/status/1982898753607741502"><p>Claude doesn't make me <em>much</em> faster on the work that I am an expert on. Maybe 15-20% depending on the day.</p>
+        <p>It's the work that I don't know how to do and would have to research. Or the grunge work I don't even want to do. On this it is hard to even put a number on. Many of the projects I do with Claude day to day I just wouldn't have done at all pre-Claude.</p>
+        <p>Infinity% improvement in productivity on those.</p></blockquote>
+        <p class="cite">&mdash; <a href="https://x.com/aboodman/status/1982898753607741502">Aaron Boodman</a></p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/aaron-boodman">aaron-boodman</a></p>]]>
+      </description>
+      <source:markdown>&#62; Claude doesn&#39;t make me _much_ faster on the work that I am an expert on. Maybe 15-20% depending on the day.
+&#62;
+&#62; It&#39;s the work that I don&#39;t know how to do and would have to research. Or the grunge work I don&#39;t even want to do. On this it is hard to even put a number on. Many of the projects I do with Claude day to day I just wouldn&#39;t have done at all pre-Claude.
+&#62;
+&#62; Infinity% improvement in productivity on those.
+
+— [Aaron Boodman](https://x.com/aboodman/status/1982898753607741502)
+
+Tags: [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [claude](https://simonwillison.net/tags/claude), [generative-ai](https://simonwillison.net/tags/generative-ai), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms), [aaron-boodman](https://simonwillison.net/tags/aaron-boodman)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/28/aaron-boodman/#atom-everything</guid>
+    </item>    <item>
+      <title>As foretold by Avatar</title>
+      <link>https://doc.searls.com/2025/10/27/as-foretold-by-avatar/</link>
+      <description>
+        <![CDATA[As a half-Swede (my Mom was one), it is sad to learn that Trump has demolished Yggdrasil, the Ancient Tree of Life.]]>
+      </description>
+      <source:markdown>As a half-Swede (my Mom was one), it is sad to learn that Trump has demolished Yggdrasil, the Ancient Tree of Life.</source:markdown>
+      <guid>cid://https://doc.searls.com/2025/10/27/as-foretold-by-avatar/</guid>
+    </item>    <item>
+      <title>[Sponsor] Jaho Coffee Roaster</title>
+      <link>https://www.jaho.com/s/df</link>
+      <guid>cid://tag:daringfireball.net,2025:/feeds/sponsors//11.42323</guid>
+    </item>    <item>
+      <title>On em dashes and elipses</title>
+      <link>https://doc.searls.com/2025/10/27/on-em-dashes-and-elipses/</link>
+      <description>
+        <![CDATA[I don&#39;t know who was the first to write The em dash is dead and AI killed it. Maybe it was Jacob Schilleci in the Reno Gazette Journal, but since most of it is behind a paywall and that paper is one of many run by Gannett, I&#39;m not sure—though that&#39;s where the first link in [&#8230;]]]>
+      </description>
+      <source:markdown>I don&#39;t know who was the first to write The em dash is dead and AI killed it. Maybe it was Jacob Schilleci in the Reno Gazette Journal, but since most of it is behind a paywall and that paper is one of many run by Gannett, I&#39;m not sure—though that&#39;s where the first link in \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2025/10/27/on-em-dashes-and-elipses/</guid>
+    </item>    <item>
+      <title>A test</title>
+      <link>https://doc.searls.com/2025/10/27/a-test/</link>
+      <description>
+        <![CDATA[To see if this works with my blog. If it does stay tuned for more. Okay, I&#8217;ve been posting more, above. More importantly, I&#8217;m back in the groove with Wordland. I&#8217;d stopped while waiting for a new WordPress theme that would be friendlier to Wordland.  I haven&#8217;t moved to that theme, but Wordland is working. [&#8230;]]]>
+      </description>
+      <source:markdown>To see if this works with my blog. If it does stay tuned for more. Okay, I’ve been posting more, above. More importantly, I’m back in the groove with Wordland. I’d stopped while waiting for a new WordPress theme that would be friendlier to Wordland.  I haven’t moved to that theme, but Wordland is working. \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2025/10/27/a-test/</guid>
+    </item>    <item>
+      <link>https://m.youtube.com/watch?v=Ejoi9yfLVCc</link>
+      <description>
+        <![CDATA[<p>Medicare Advantage: Last Week Tonight with John Oliver (HBO).</p>]]>
+      </description>
+      <source:markdown>Medicare Advantage: Last Week Tonight with John Oliver (HBO).</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/27/1705/</guid>
+    </item>    <item>
+      <title>Seriously?</title>
+      <link>https://steady.substack.com/p/seriously</link>
+      <description>
+        <![CDATA[Talk of another Trump term won&#8217;t go away]]>
+      </description>
+      <source:markdown>Talk of another Trump term won’t go away</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!EWYq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf61ab17-78a9-4e27-8870-2b7ce95625aa_3808x2539.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/seriously</guid>
     </item>    <item>
       <title>Could China devastate the US without firing a shot?</title>
       <link>https://garymarcus.substack.com/p/could-china-devastate-the-us-without</link>
@@ -1510,6 +1796,10 @@ The plant that’s growing in large green-reddish patches on the sand up here is
       <link>https://livelaugh.blog/posts/weekly-retro-38/</link>
       <guid>cid://https://livelaugh.blog/posts/weekly-retro-38/</guid>
     </item>    <item>
+      <title>Porting Skills (and Superpowers) to OpenAI Codex</title>
+      <link>https://blog.fsck.com/2025/10/27/skills-for-openai-codex/</link>
+      <guid>cid://https://blog.fsck.com/2025/10/27/skills-for-openai-codex/</guid>
+    </item>    <item>
       <title>Pain management when building a startup</title>
       <link>https://maxhalford.github.io/blog/startup-pain-management/</link>
       <description>
@@ -1583,9 +1873,11 @@ https://adactio.com/journal/22213</source:markdown>
       <title>Episode 169 - Dellinger&#39;s Viruses</title>
       <link>https://adventofcomputing.libsyn.com/episode-169-dellingers-viruses</link>
       <description>
-        <![CDATA[<div> <div class="cm-bjFDAN"> <div class="sc-9628564b-0 kIMzev"> <div class="cm-bgKEqA"> <div class="cm-LIiDtl cm-wHoaYV cm-KArsEf cm-ilkIKZ"> <div class=""> <div class="cm-LIiDtl cm-wHoaYV cm-mhTrbr cm-LsBaRW"> <p>In 1981 Joe Dellinger attempted to create the perfect computer program: a virus that spread silently. In 1982 a revision of that virus broke containment. It would have remained completely hidden if it wasn't for an obscure Apple II game. Today we look at the story and motivation behind that virus, and how it slipped into the sands of time. Or... did it!? The truth is if you have an Apple II it may be infected with Dellinger's virus!</p> </div> </div> </div> </div> </div> </div> </div> <div class="sc-2c79702b-0 cVxBhp"> <div class= "cm-CjbveT cm-NPxkBI cm-kTUHea cm-giECTa cm-PpmxQT cm-bnYPun cm-PcQADW cm-bokJsc"> <div class= "cm-CjbveT cm-WLfYlv cm-GENDEJ cm-giECTa cm-PpmxQT cm-bnYPun cm-PcQADW cm-bhNYBU"> <div class= "cm-CjbveT cm-WLfYlv cm-kTUHea cm-AMMJHT cm-PpmxQT cm-bnYPun cm-PcQADW cm-bhNYBU"> <div class="cm-tpTLeG"> </div> </div> </div> </div> </div>]]>
+        <![CDATA[<div> <div class="cm-bjFDAN"> <div class="sc-9628564b-0 kIMzev"> <div class="cm-bgKEqA"> <div class="cm-LIiDtl cm-wHoaYV cm-KArsEf cm-ilkIKZ"> <div class=""> <div class="cm-LIiDtl cm-wHoaYV cm-mhTrbr cm-LsBaRW"> <p>In 1981 Joe Dellinger attempted to create the perfect computer program: a virus that spread silently. In 1982 a revision of that virus broke containment. It would have remained completely hidden if it wasn't for an obscure Apple II game. Today we look at the story and motivation behind that virus, and how it slipped into the sands of time. Or... did it!? The truth is if you have an Apple II it may be infected with Dellinger's virus!</p> <p>My main source: <a href= "https://virus.wdfiles.com/local--files/applvir/Applvir.txt">https://virus.wdfiles.com/local--files/applvir/Applvir.txt</a></p> </div> </div> </div> </div> </div> </div> </div> <div class="sc-2c79702b-0 cVxBhp"> <div class= "cm-CjbveT cm-NPxkBI cm-kTUHea cm-giECTa cm-PpmxQT cm-bnYPun cm-PcQADW cm-bokJsc"> <div class= "cm-CjbveT cm-WLfYlv cm-GENDEJ cm-giECTa cm-PpmxQT cm-bnYPun cm-PcQADW cm-bhNYBU"> <div class= "cm-CjbveT cm-WLfYlv cm-kTUHea cm-AMMJHT cm-PpmxQT cm-bnYPun cm-PcQADW cm-bhNYBU"> <div class="cm-tpTLeG"> </div> </div> </div> </div> </div>]]>
       </description>
-      <source:markdown>In 1981 Joe Dellinger attempted to create the perfect computer program: a virus that spread silently. In 1982 a revision of that virus broke containment. It would have remained completely hidden if it wasn&#39;t for an obscure Apple II game. Today we look at the story and motivation behind that virus, and how it slipped into the sands of time. Or... did it!? The truth is if you have an Apple II it may be infected with Dellinger&#39;s virus!</source:markdown>
+      <source:markdown>In 1981 Joe Dellinger attempted to create the perfect computer program: a virus that spread silently. In 1982 a revision of that virus broke containment. It would have remained completely hidden if it wasn&#39;t for an obscure Apple II game. Today we look at the story and motivation behind that virus, and how it slipped into the sands of time. Or... did it!? The truth is if you have an Apple II it may be infected with Dellinger&#39;s virus!
+
+My main source: [https://virus.wdfiles.com/local--files/applvir/Applvir.txt](https://virus.wdfiles.com/local--files/applvir/Applvir.txt)</source:markdown>
       <enclosure url="https://traffic.libsyn.com/secure/adventofcomputing/ep169_dellinger_viruses.mp3?dest-id=1206722" length="25360114" type="audio/mpeg" />
       <guid>cid://27701dee-c66e-4488-95ac-2ee78d729595</guid>
     </item>    <item>
@@ -5792,9 +6084,9 @@ The post [Sustainable solutions: Making the Raspberry Pi office greener](https:/
       <title>AI Is Reshaping Developer Career Paths</title>
       <link>https://www.oreilly.com/radar/ai-is-reshaping-developer-career-paths/</link>
       <description>
-        <![CDATA[This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. A few decades ago, I worked with a developer who was respected by everyone on our team. Much of that respect came from the fact that he kept adopting new technologies that none of us had worked [&#8230;]]]>
+        <![CDATA[This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. Read the original framework introduction and explore the complete methodology in Andrew Stellman&#8217;s O&#8217;Reilly report Critical Thinking Habits for Coding with AI. A few decades ago, I worked with a developer who was respected by everyone on our team. Much [&#8230;]]]>
       </description>
-      <source:markdown>This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. A few decades ago, I worked with a developer who was respected by everyone on our team. Much of that respect came from the fact that he kept adopting new technologies that none of us had worked \[…\]</source:markdown>
+      <source:markdown>This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. Read the original framework introduction and explore the complete methodology in Andrew Stellman’s O’Reilly report Critical Thinking Habits for Coding with AI. A few decades ago, I worked with a developer who was respected by everyone on our team. Much \[…\]</source:markdown>
       <guid>cid://https://www.oreilly.com/radar/?p=17579</guid>
     </item>    <item>
       <title>Failures in Face Recognition</title>
@@ -20302,1030 +20594,6 @@ Having a little more time on my hands I&#39;d like to reinvigorate ScotEduBlogs.
       </description>
       <source:markdown>The history of ReactOS spans a wider range than the lives of many of the people who work on it today. Incredible individuals have come and gone from the project with vastly different goals for what they want to see developed. In recent years, better hardware support has emerged as one of those goals. As ReactOS gazes towards the world of Vista and beyond, a few questions about how hardware works emerge.</source:markdown>
       <guid>cid://https://reactos.org/blogs/investigating-wddm/</guid>
-    </item>    <item>
-      <link>https://www.msnbc.com/msnbc/news/top-prosecutor-trump-pressure-charge-new-york-ag-rcna235922</link>
-      <description>
-        <![CDATA[<p>Top prosecutor refusing to charge New York AG despite Trump pressure.</p>]]>
-      </description>
-      <source:markdown>Top prosecutor refusing to charge New York AG despite Trump pressure.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/06/1397/</guid>
-    </item>    <item>
-      <link>https://therickwilson.substack.com/p/the-pardon-of-ghislaine-maxwell?r=1ne2d&#38;triedRedirect=true</link>
-      <description>
-        <![CDATA[Donald Trump feared this day would come.]]>
-      </description>
-      <source:markdown>Donald Trump feared this day would come.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/06/1395/</guid>
-    </item>    <item>
-      <title>Deloitte to pay money back to Albanese government after using AI in $440,000 report</title>
-      <link>https://simonwillison.net/2025/Oct/6/deloitte-to-pay-money-back/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report">Deloitte to pay money back to Albanese government after using AI in $440,000 report</a></strong></p>
-        Ouch:</p>
-        <blockquote>
-        <p>Deloitte will provide a partial refund to the federal government over a $440,000 report that contained several errors, after admitting it used generative artificial intelligence to help produce it.</p>
-        </blockquote>
-        <p>(I was initially confused by the "Albanese government" reference in the headline since this is a story about the Australian federal government. That's because the current Australia Prime Minister is Anthony Albanese.)</p>
-        <p>Here's <a href="https://www.dewr.gov.au/assuring-integrity-targeted-compliance-framework/resources/targeted-compliance-framework-assurance-review-final-report">the page for the report</a>. The PDF now includes this note:</p>
-        <blockquote>
-        <p>This Report was updated on 26 September 2025 and replaces the Report dated 4 July 2025. The Report has been updated to correct those citations and reference list entries which contained errors in the previously issued version, to amend the summary of the Amato proceeding which contained errors, and to make revisions to improve clarity and readability. The updates made in no way impact or affect the substantive content, findings and recommendations in the Report.</p>
-        </blockquote>
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/hallucinations">hallucinations</a></p>]]>
-      </description>
-      <source:markdown>**[Deloitte to pay money back to Albanese government after using AI in $440,000 report](https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report)**
-
-Ouch:
-
-&#62; Deloitte will provide a partial refund to the federal government over a $440,000 report that contained several errors, after admitting it used generative artificial intelligence to help produce it.
-
-(I was initially confused by the &#34;Albanese government&#34; reference in the headline since this is a story about the Australian federal government. That&#39;s because the current Australia Prime Minister is Anthony Albanese.)
-
-Here&#39;s [the page for the report](https://www.dewr.gov.au/assuring-integrity-targeted-compliance-framework/resources/targeted-compliance-framework-assurance-review-final-report). The PDF now includes this note:
-
-&#62; This Report was updated on 26 September 2025 and replaces the Report dated 4 July 2025. The Report has been updated to correct those citations and reference list entries which contained errors in the previously issued version, to amend the summary of the Amato proceeding which contained errors, and to make revisions to improve clarity and readability. The updates made in no way impact or affect the substantive content, findings and recommendations in the Report.
-
-Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-ethics](https://simonwillison.net/tags/ai-ethics), [hallucinations](https://simonwillison.net/tags/hallucinations)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/6/deloitte-to-pay-money-back/#atom-everything</guid>
-    </item>    <item>
-      <title>a system that can do work independently on behalf of the user</title>
-      <link>https://simonwillison.net/2025/Oct/6/work-independently/#atom-everything</link>
-      <description>
-        <![CDATA[<p>I've settled on agents as meaning <a href="https://simonwillison.net/2025/Sep/18/agents/">"LLMs calling tools in a loop to achieve a goal"</a> but OpenAI continue to muddy the waters with much more vague definitions. Swyx <a href="https://twitter.com/swyx/status/1975335082048246159">spotted this one</a> in the press pack OpenAI sent out for their DevDay announcements today:</p>
-        <blockquote>
-        <p><strong>How does OpenAl define an "agent"?</strong> An Al agent is a system that can do work independently on behalf of the user.</p>
-        </blockquote>
-        <p>Adding this one <a href="https://simonwillison.net/tags/agent-definitions/">to my collection</a>.</p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/agent-definitions">agent-definitions</a>, <a href="https://simonwillison.net/tags/swyx">swyx</a></p>]]>
-      </description>
-      <source:markdown>I&#39;ve settled on agents as meaning [&#34;LLMs calling tools in a loop to achieve a goal&#34;](https://simonwillison.net/2025/Sep/18/agents/) but OpenAI continue to muddy the waters with much more vague definitions. Swyx [spotted this one](https://twitter.com/swyx/status/1975335082048246159) in the press pack OpenAI sent out for their DevDay announcements today:
-
-&#62; **How does OpenAl define an &#34;agent&#34;?** An Al agent is a system that can do work independently on behalf of the user.
-
-Adding this one [to my collection](https://simonwillison.net/tags/agent-definitions/).
-
-Tags: [ai-agents](https://simonwillison.net/tags/ai-agents), [openai](https://simonwillison.net/tags/openai), [agent-definitions](https://simonwillison.net/tags/agent-definitions), [swyx](https://simonwillison.net/tags/swyx)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/6/work-independently/#atom-everything</guid>
-    </item>    <item>
-      <title>gpt-image-1-mini</title>
-      <link>https://simonwillison.net/2025/Oct/6/gpt-image-1-mini/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://platform.openai.com/docs/models/gpt-image-1-mini">gpt-image-1-mini</a></strong></p>
-        OpenAI released a new image model today: <code>gpt-image-1-mini</code>, which they describe as "A smaller image generation model that’s 80% less expensive than the large model."</p>
-        <p>They released it very quietly - I didn't hear about this in the DevDay keynote but I later spotted it on the <a href="https://openai.com/devday/">DevDay 2025 announcements page</a>.</p>
-        <p>It wasn't instantly obvious to me how to use this via their API. I ended up vibe coding a Python CLI tool for it so I could try it out.</p>
-        <p>I dumped the <a href="https://github.com/openai/openai-python/commit/9ada2c74f3f5865a2bfb19afce885cc98ad6a4b3.diff">plain text diff version</a> of the commit to the OpenAI Python library titled <a href="https://github.com/openai/openai-python/commit/9ada2c74f3f5865a2bfb19afce885cc98ad6a4b3">feat(api): dev day 2025 launches</a> into ChatGPT GPT-5 Thinking and worked with it to figure out how to use the new image model and build a script for it. Here's <a href="https://chatgpt.com/share/68e44023-7fc4-8006-8991-3be661799c9f">the transcript</a> and the <a href="https://github.com/simonw/tools/blob/main/python/openai_image.py">the openai_image.py script</a> it wrote.</p>
-        <p>I had it add inline script dependencies, so you can run it with <code>uv</code> like this:</p>
-        <pre><code>export OPENAI_API_KEY="$(llm keys get openai)"
-        uv run https://tools.simonwillison.net/python/openai_image.py "A pelican riding a bicycle"
-        </code></pre>
-        <p>It picked this illustration style without me specifying it:</p>
-        <p><img alt="A nice illustration of a pelican riding a bicycle, both pelican and bicycle are exactly as you would hope. Looks sketched, maybe colored pencils? The pelican's two legs are on the pedals but it also has a weird sort of paw on an arm on the handlebars." src="https://static.simonwillison.net/static/2025/gpt-image-1-mini-pelican.jpg" /></p>
-        <p>(This is a very different test from my normal "Generate an SVG of a pelican riding a bicycle" since it's using a dedicated image generator, not having a text-based model try to generate SVG code.)</p>
-        <p>My tool accepts a prompt, and optionally a filename (if you don't provide one it saves to a filename like <code>/tmp/image-621b29.png</code>).</p>
-        <p>It also accepts options for model and dimensions and output quality - the <code>--help</code> output lists those, you can <a href="https://tools.simonwillison.net/python/#openai_imagepy">see that here</a>.</p>
-        <p>OpenAI's pricing is a little confusing. The <a href="https://platform.openai.com/docs/models/gpt-image-1-mini">model page</a> claims low quality images should cost around half a cent and medium quality around a cent and a half. It also lists an image token price of $8/million tokens. It turns out there's a default "high" quality setting - most of the images I've generated have reported between 4,000 and 6,000 output tokens, which costs between <a href="https://www.llm-prices.com/#ot=4000&amp;oc=8">3.2</a> and <a href="https://www.llm-prices.com/#ot=6000&amp;oc=8">4.8 cents</a>.</p>
-        <p>One last demo, this time using <code>--quality low</code>:</p>
-        <pre><code> uv run https://tools.simonwillison.net/python/openai_image.py \
-          'racoon eating cheese wearing a top hat, realistic photo' \
-          /tmp/racoon-hat-photo.jpg \
-          --size 1024x1024 \
-          --output-format jpeg \
-          --quality low
-        </code></pre>
-        <p>This saved the following:</p>
-        <p><img alt="It's a square photo of a raccoon eating cheese and wearing a top hat. It looks pretty realistic." src="https://static.simonwillison.net/static/2025/racoon-hat-photo.jpg" /></p>
-        <p>And reported this to standard error:</p>
-        <pre><code>{
-          "background": "opaque",
-          "created": 1759790912,
-          "generation_time_in_s": 20.87331541599997,
-          "output_format": "jpeg",
-          "quality": "low",
-          "size": "1024x1024",
-          "usage": {
-            "input_tokens": 17,
-            "input_tokens_details": {
-              "image_tokens": 0,
-              "text_tokens": 17
-            },
-            "output_tokens": 272,
-            "total_tokens": 289
-          }
-        }
-        </code></pre>
-        <p>This took 21s, but I'm on an unreliable conference WiFi connection so I don't trust that measurement very much.</p>
-        <p>272 output tokens = <a href="https://www.llm-prices.com/#ot=272&amp;oc=8">0.2 cents</a> so this is much closer to the expected pricing from the model page.
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/tools">tools</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/text-to-image">text-to-image</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a></p>]]>
-      </description>
-      <source:markdown>**[gpt-image-1-mini](https://platform.openai.com/docs/models/gpt-image-1-mini)**
-
-OpenAI released a new image model today: `gpt-image-1-mini`, which they describe as &#34;A smaller image generation model that’s 80% less expensive than the large model.&#34;
-
-They released it very quietly - I didn&#39;t hear about this in the DevDay keynote but I later spotted it on the [DevDay 2025 announcements page](https://openai.com/devday/).
-
-It wasn&#39;t instantly obvious to me how to use this via their API. I ended up vibe coding a Python CLI tool for it so I could try it out.
-
-I dumped the [plain text diff version](https://github.com/openai/openai-python/commit/9ada2c74f3f5865a2bfb19afce885cc98ad6a4b3.diff) of the commit to the OpenAI Python library titled [feat(api): dev day 2025 launches](https://github.com/openai/openai-python/commit/9ada2c74f3f5865a2bfb19afce885cc98ad6a4b3) into ChatGPT GPT-5 Thinking and worked with it to figure out how to use the new image model and build a script for it. Here&#39;s [the transcript](https://chatgpt.com/share/68e44023-7fc4-8006-8991-3be661799c9f) and the [the openai\_image.py script](https://github.com/simonw/tools/blob/main/python/openai_image.py) it wrote.
-
-I had it add inline script dependencies, so you can run it with `uv` like this:
-
-```
-export OPENAI_API_KEY=&#34;$(llm keys get openai)&#34;
-uv run https://tools.simonwillison.net/python/openai_image.py &#34;A pelican riding a bicycle&#34;
-
-```
-
-It picked this illustration style without me specifying it:
-
-![A nice illustration of a pelican riding a bicycle, both pelican and bicycle are exactly as you would hope. Looks sketched, maybe colored pencils? The pelican&#39;s two legs are on the pedals but it also has a weird sort of paw on an arm on the handlebars.](https://static.simonwillison.net/static/2025/gpt-image-1-mini-pelican.jpg)
-
-(This is a very different test from my normal &#34;Generate an SVG of a pelican riding a bicycle&#34; since it&#39;s using a dedicated image generator, not having a text-based model try to generate SVG code.)
-
-My tool accepts a prompt, and optionally a filename (if you don&#39;t provide one it saves to a filename like `/tmp/image-621b29.png`).
-
-It also accepts options for model and dimensions and output quality - the `--help` output lists those, you can [see that here](https://tools.simonwillison.net/python/#openai_imagepy).
-
-OpenAI&#39;s pricing is a little confusing. The [model page](https://platform.openai.com/docs/models/gpt-image-1-mini) claims low quality images should cost around half a cent and medium quality around a cent and a half. It also lists an image token price of $8/million tokens. It turns out there&#39;s a default &#34;high&#34; quality setting - most of the images I&#39;ve generated have reported between 4,000 and 6,000 output tokens, which costs between [3.2](https://www.llm-prices.com/#ot=4000&#38;oc=8) and [4.8 cents](https://www.llm-prices.com/#ot=6000&#38;oc=8).
-
-One last demo, this time using `--quality low`:
-
-```
- uv run https://tools.simonwillison.net/python/openai_image.py \
-  &#39;racoon eating cheese wearing a top hat, realistic photo&#39; \
-  /tmp/racoon-hat-photo.jpg \
-  --size 1024x1024 \
-  --output-format jpeg \
-  --quality low
-
-```
-
-This saved the following:
-
-![It&#39;s a square photo of a raccoon eating cheese and wearing a top hat. It looks pretty realistic.](https://static.simonwillison.net/static/2025/racoon-hat-photo.jpg)
-
-And reported this to standard error:
-
-```
-{
-  &#34;background&#34;: &#34;opaque&#34;,
-  &#34;created&#34;: 1759790912,
-  &#34;generation_time_in_s&#34;: 20.87331541599997,
-  &#34;output_format&#34;: &#34;jpeg&#34;,
-  &#34;quality&#34;: &#34;low&#34;,
-  &#34;size&#34;: &#34;1024x1024&#34;,
-  &#34;usage&#34;: {
-    &#34;input_tokens&#34;: 17,
-    &#34;input_tokens_details&#34;: {
-      &#34;image_tokens&#34;: 0,
-      &#34;text_tokens&#34;: 17
-    },
-    &#34;output_tokens&#34;: 272,
-    &#34;total_tokens&#34;: 289
-  }
-}
-
-```
-
-This took 21s, but I&#39;m on an unreliable conference WiFi connection so I don&#39;t trust that measurement very much.
-
-272 output tokens = [0.2 cents](https://www.llm-prices.com/#ot=272&#38;oc=8) so this is much closer to the expected pricing from the model page.
-
-
-
-Tags: [python](https://simonwillison.net/tags/python), [tools](https://simonwillison.net/tags/tools), [ai](https://simonwillison.net/tags/ai), [openai](https://simonwillison.net/tags/openai), [generative-ai](https://simonwillison.net/tags/generative-ai), [uv](https://simonwillison.net/tags/uv), [text-to-image](https://simonwillison.net/tags/text-to-image), [pelican-riding-a-bicycle](https://simonwillison.net/tags/pelican-riding-a-bicycle), [vibe-coding](https://simonwillison.net/tags/vibe-coding)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/6/gpt-image-1-mini/#atom-everything</guid>
-    </item>    <item>
-      <title>The Supreme Court’s Biggest Test Yet</title>
-      <link>https://steady.substack.com/p/the-supreme-courts-biggest-test-yet</link>
-      <description>
-        <![CDATA[Will the court codify Trump&#8217;s power grab?]]>
-      </description>
-      <source:markdown>Will the court codify Trump’s power grab?</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!saup!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2225313-1eac-4493-b1a0-89cdfd20c173_6123x4084.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://steady.substack.com/p/the-supreme-courts-biggest-test-yet</guid>
-    </item>    <item>
-      <link>https://tilde.zone/@tomasino/115329589492797757</link>
-      <description>
-        <![CDATA[<p>Be kind</p>]]>
-      </description>
-      <source:markdown>Be kind</source:markdown>
-      <guid>cid://https://tilde.zone/@tomasino/115329589492797757</guid>
-    </item>    <item>
-      <link>https://talkingpointsmemo.com/where-things-stand/chicago-occupation-lawsuit-ice-national-guard</link>
-      <description>
-        <![CDATA[<p>Chicago Tells Of Escalating State Violence, Including A Killing, As It Challenges National Guard Occupation.</p>]]>
-      </description>
-      <source:markdown>Chicago Tells Of Escalating State Violence, Including A Killing, As It Challenges National Guard Occupation.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/06/1393/</guid>
-    </item>    <item>
-      <title>The Mainstream Media Is Catastrophically Failing To Meet The Moment. &#38;#8220;Mainstream media...</title>
-      <link>https://kottke.org/25/10/0047668-the-mainstream-media-is-c</link>
-      <guid>cid://tag:kottke.org,2025://13.47668</guid>
-    </item>    <item>
-      <title>Trump’s Plan</title>
-      <link>https://robertreich.substack.com/p/trumps-plan</link>
-      <description>
-        <![CDATA[To invoke the Insurrection Act]]>
-      </description>
-      <source:markdown>To invoke the Insurrection Act</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!Ig3f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4fc2221-9d08-4835-8a21-a48b1c90ecfb_3500x2829.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/trumps-plan</guid>
-    </item>    <item>
-      <link>https://electrek.co/2025/10/06/kias-smallest-ev-full-of-big-surprises/</link>
-      <description>
-        <![CDATA[<p>Kia's smallest EV is full of big surprises.</p>]]>
-      </description>
-      <source:markdown>Kia&#39;s smallest EV is full of big surprises.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/06/1391/</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/10/06.html#a210632</link>
-      <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2017/08/06/hippieBus.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I do all my shopping in ChatGPT. There must be a way to monetize that. For example, I want to buy a new backpack to carry my laptop and other mobile stuff. I should be able to set up anywhere there's wifi. I've got a modern MacBook Air, an iPad and two phones, one iOS and one Android. The main one is Android, I have to carry the iPhone because I use an Apple watch. I imagine there must be some improvements made in backpacks since I bought the last one, which was when I lived in Berkeley, in the late 00s.]]>
-      </description>
-      <source:markdown>![](https://imgs.scripting.com/2017/08/06/hippieBus.png)I do all my shopping in ChatGPT. There must be a way to monetize that. For example, I want to buy a new backpack to carry my laptop and other mobile stuff. I should be able to set up anywhere there&#39;s wifi. I&#39;ve got a modern MacBook Air, an iPad and two phones, one iOS and one Android. The main one is Android, I have to carry the iPhone because I use an Apple watch. I imagine there must be some improvements made in backpacks since I bought the last one, which was when I lived in Berkeley, in the late 00s.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/06.html#a210632</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/10/06.html#a210527</link>
-      <description>
-        <![CDATA[I've been evangelizing <a href="https://daytona.scripting.com/search?q=evangelism">evangelism</a> lately. Focus on goals and help others help us achieve them. It's a virtuous cycle, because once people figure out that they can get help by helping us, they will help us more. That is, when it works.]]>
-      </description>
-      <source:markdown>I&#39;ve been evangelizing [evangelism](https://daytona.scripting.com/search?q=evangelism) lately. Focus on goals and help others help us achieve them. It&#39;s a virtuous cycle, because once people figure out that they can get help by helping us, they will help us more. That is, when it works.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/06.html#a210527</guid>
-    </item>    <item>
-      <title>Do AI Reasoning Models Abstract and Reason Like Humans?</title>
-      <link>https://aiguide.substack.com/p/do-ai-reasoning-models-abstract-and</link>
-      <description>
-        <![CDATA[Going beyond simple accuracy for evaluating abstraction abilities]]>
-      </description>
-      <source:markdown>Going beyond simple accuracy for evaluating abstraction abilities</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/244fe9f2-712a-4767-b86d-4bd3b9c46e9f_1920x1372.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://aiguide.substack.com/p/do-ai-reasoning-models-abstract-and</guid>
-    </item>    <item>
-      <title>The Taco Bell 50k Ultramarathon was run in Denver over the weekend....</title>
-      <link>https://kottke.org/25/10/0047659-the-taco-bell-50k-ultrama</link>
-      <guid>cid://tag:kottke.org,2025://13.47659</guid>
-    </item>    <item>
-      <title>What Jane Goodall’s Life Teaches About Courage, Curiosity, and Care</title>
-      <link>https://guykawasaki.substack.com/p/what-jane-goodalls-life-teaches-about</link>
-      <description>
-        <![CDATA[This week, in a bonus episode, we honor the life of Dr.]]>
-      </description>
-      <source:markdown>This week, in a bonus episode, we honor the life of Dr.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!4mBo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F301dc236-fda1-4731-a5a4-9b95a61a79b3_1280x853.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://guykawasaki.substack.com/p/what-jane-goodalls-life-teaches-about</guid>
-    </item>    <item>
-      <title>I missed this from a couple of months ago: Inside the World...</title>
-      <link>https://kottke.org/25/10/0047661-i-missed-this-from-a</link>
-      <guid>cid://tag:kottke.org,2025://13.47661</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/altusds.altgov.info/post/3m2kfgxnues2q</link>
-      <description>
-        <![CDATA[Yes yes yes. Local elections can have meaningful impact on your life. 
-        
-        The candidates are accessible and the issues affect you more closely. 
-        
-        We're all busy, but these elections matter.
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <source:markdown>Yes yes yes. Local elections can have meaningful impact on your life.
-
-The candidates are accessible and the issues affect you more closely.
-
-We&#39;re all busy, but these elections matter.
-
-\[contains quote post or other embedded content\]</source:markdown>
-      <guid>cid://at://did:plc:fuovrvjiloafdym65x3oloqc/app.bsky.feed.post/3m2kfgxnues2q</guid>
-    </item>    <item>
-      <link>https://www.thenation.com/article/society/supreme-court-term-worst-cases/?utm_campaign=SproutSocial&#38;utm_content=The%20Nation%20Magazine&#38;utm_medium=social&#38;utm_source=bluesky</link>
-      <description>
-        <![CDATA[<p>The Supreme Court v. Democracy.</p>]]>
-      </description>
-      <source:markdown>The Supreme Court v. Democracy.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/06/1389/</guid>
-    </item>    <item>
-      <title>GPT-5 pro</title>
-      <link>https://simonwillison.net/2025/Oct/6/gpt-5-pro/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://platform.openai.com/docs/models/gpt-5-pro">GPT-5 pro</a></strong></p>
-        Here's OpenAI's model documentation for their GPT-5 pro model, released to their API today at their DevDay event.</p>
-        <p>It has similar base characteristics to <a href="https://platform.openai.com/docs/models/gpt-5">GPT-5</a>: both share a September 30, 2024 knowledge cutoff and 400,000 context limit.</p>
-        <p>GPT-5 pro has maximum output tokens 272,000 max, an increase from 128,000 for GPT-5.</p>
-        <blockquote>
-        <p>As our most advanced reasoning model, GPT-5 pro defaults to (and only supports) <code>reasoning.effort: high</code></p>
-        </blockquote>
-        <p>It's only available via OpenAI's Responses API. My <a href="https://llm.datasette.io/">LLM</a> tool doesn't support that in core yet, but the <a href="https://github.com/simonw/llm-openai-plugin">llm-openai-plugin</a> plugin does. I released <a href="https://github.com/simonw/llm-openai-plugin/releases/tag/0.7">llm-openai-plugin 0.7</a> adding support for the new model, then ran this:</p>
-        <pre><code>llm install -U llm-openai-plugin
-        llm -m openai/gpt-5-pro "Generate an SVG of a pelican riding a bicycle"
-        </code></pre>
-        <p>It's very, very slow. The model took 6 minutes 8 seconds to respond and charged me for 16 input and 9,205 output tokens. At $15/million input and $120/million output this pelican <a href="https://www.llm-prices.com/#it=16&amp;ot=9205&amp;ic=15&amp;oc=120&amp;sb=output&amp;sd=descending">cost me $1.10</a>!</p>
-        <p><img alt="It's obviously a pelican riding a bicycle. Half the spokes are missing on each wheel and the pelican is a bit squat looking." src="https://static.simonwillison.net/static/2025/gpt-5-pro.png" /></p>
-        <p>Here's <a href="https://gist.github.com/simonw/9a06ab36f486f31401fec1fc104a8ce5">the full transcript</a>. It looks visually pretty simpler to the much, much cheaper result I <a href="https://simonwillison.net/2025/Aug/7/gpt-5/#and-some-svgs-of-pelicans">got from GPT-5</a>.
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/gpt-5">gpt-5</a></p>]]>
-      </description>
-      <source:markdown>**[GPT-5 pro](https://platform.openai.com/docs/models/gpt-5-pro)**
-
-Here&#39;s OpenAI&#39;s model documentation for their GPT-5 pro model, released to their API today at their DevDay event.
-
-It has similar base characteristics to [GPT-5](https://platform.openai.com/docs/models/gpt-5): both share a September 30, 2024 knowledge cutoff and 400,000 context limit.
-
-GPT-5 pro has maximum output tokens 272,000 max, an increase from 128,000 for GPT-5.
-
-&#62; As our most advanced reasoning model, GPT-5 pro defaults to (and only supports) `reasoning.effort: high`
-
-It&#39;s only available via OpenAI&#39;s Responses API. My [LLM](https://llm.datasette.io/) tool doesn&#39;t support that in core yet, but the [llm-openai-plugin](https://github.com/simonw/llm-openai-plugin) plugin does. I released [llm-openai-plugin 0.7](https://github.com/simonw/llm-openai-plugin/releases/tag/0.7) adding support for the new model, then ran this:
-
-```
-llm install -U llm-openai-plugin
-llm -m openai/gpt-5-pro &#34;Generate an SVG of a pelican riding a bicycle&#34;
-
-```
-
-It&#39;s very, very slow. The model took 6 minutes 8 seconds to respond and charged me for 16 input and 9,205 output tokens. At $15/million input and $120/million output this pelican [cost me $1.10](https://www.llm-prices.com/#it=16&#38;ot=9205&#38;ic=15&#38;oc=120&#38;sb=output&#38;sd=descending)!
-
-![It&#39;s obviously a pelican riding a bicycle. Half the spokes are missing on each wheel and the pelican is a bit squat looking.](https://static.simonwillison.net/static/2025/gpt-5-pro.png)
-
-Here&#39;s [the full transcript](https://gist.github.com/simonw/9a06ab36f486f31401fec1fc104a8ce5). It looks visually pretty simpler to the much, much cheaper result I [got from GPT-5](https://simonwillison.net/2025/Aug/7/gpt-5/#and-some-svgs-of-pelicans).
-
-
-
-Tags: [ai](https://simonwillison.net/tags/ai), [openai](https://simonwillison.net/tags/openai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [llm-pricing](https://simonwillison.net/tags/llm-pricing), [pelican-riding-a-bicycle](https://simonwillison.net/tags/pelican-riding-a-bicycle), [llm-reasoning](https://simonwillison.net/tags/llm-reasoning), [llm-release](https://simonwillison.net/tags/llm-release), [gpt-5](https://simonwillison.net/tags/gpt-5)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/6/gpt-5-pro/#atom-everything</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/altusds.altgov.info/post/3m2kdrd6ils2a</link>
-      <description>
-        <![CDATA[Many people noticed plainlanguage.gov was migrated to https://digital.gov/topics/plain-language, where it has been *consolidated*.
-        
-        Our friends at @alt18f.bsky.social posted a version of the original content at plainlanguage.18f.org
-        
-        Unlike other sites that have disappeared, this one just changed.
-        https://plainlanguage.18f.org/]]>
-      </description>
-      <source:markdown>Many people noticed plainlanguage.gov was migrated to https://digital.gov/topics/plain-language, where it has been \*consolidated\*.
-
-Our friends at @alt18f.bsky.social posted a version of the original content at plainlanguage.18f.org
-
-Unlike other sites that have disappeared, this one just changed.
-https://plainlanguage.18f.org/</source:markdown>
-      <guid>cid://at://did:plc:fuovrvjiloafdym65x3oloqc/app.bsky.feed.post/3m2kdrd6ils2a</guid>
-    </item>    <item>
-      <title>What Makes for a Healthy Society?</title>
-      <link>https://kottke.org/25/10/what-makes-for-a-healthy-society</link>
-      <guid>cid://tag:kottke.org,2025://5.47658</guid>
-    </item>    <item>
-      <title>The House of Leaves-inspired game MyHouse.wad is just as trippy as you’d think.</title>
-      <link>https://lithub.com/the-house-of-leaves-inspired-game-myhouse-wad-is-just-as-trippy-as-youd-think/</link>
-      <description>
-        <![CDATA[This demon shooting video game mod might be your new favorite book. MyHouse.wad is a 2023 mod—short for modification, in this case a series of custom levels—for 1994&#8217;s Doom II, the second in a franchise of wildly influential games that]]>
-      </description>
-      <source:markdown>This demon shooting video game mod might be your new favorite book. MyHouse.wad is a 2023 mod—short for modification, in this case a series of custom levels—for 1994’s Doom II, the second in a franchise of wildly influential games that</source:markdown>
-      <guid>cid://https://lithub.com/?p=260755</guid>
-    </item>    <item>
-      <title>Delightful Doggie Field Trips</title>
-      <link>https://onefoottsunami.com/2025/10/06/delightful-doggie-field-trips/</link>
-      <guid>cid://https://onefoottsunami.com/?p=29239</guid>
-    </item>    <item>
-      <title>&#38;#8220;Mary Brunkow, Fred Ramsdell, and Shimon Sakaguchi won the 2025 Nobel Prize...</title>
-      <link>https://kottke.org/25/10/0047660-mary-brunkow-fred-ramsdel</link>
-      <guid>cid://tag:kottke.org,2025://13.47660</guid>
-    </item>    <item>
-      <title>Epic Games Sees Benefits From Streamlined Install Flow</title>
-      <link>https://mjtsai.com/blog/2025/10/06/epic-games-sees-benefits-from-streamlined-install-flow/</link>
-      <description>
-        <![CDATA[Epic Games (Tim Sweeney, MacRumors, The Verge, TechCrunch): In response to ongoing Digital Markets Act enforcement, Apple has significantly improved the process for installing alternative app stores from the web in the European Union with iOS 18.6 in July. They&#8217;ve reduced the install flow from 15 steps to 6, eliminating their former scare screen and [&#8230;]]]>
-      </description>
-      <source:markdown>Epic Games (Tim Sweeney, MacRumors, The Verge, TechCrunch): In response to ongoing Digital Markets Act enforcement, Apple has significantly improved the process for installing alternative app stores from the web in the European Union with iOS 18.6 in July. They’ve reduced the install flow from 15 steps to 6, eliminating their former scare screen and \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49537</guid>
-    </item>    <item>
-      <title>Helm 2.0</title>
-      <link>https://mjtsai.com/blog/2025/10/06/helm-2-0/</link>
-      <description>
-        <![CDATA[Modum (tweet): The all-in-one iOS and macOS app that enhances App Store Connect, supercharging your app updates, localization, and ASO with AI-powered tools.[&#8230;]Using Helm is up to 12x faster than using the App Store Connect website.[&#8230;]It&#8217;s easier than ever to respond using templates, translations, and AI assistance. Additionally, Helm will automatically translate the review and [&#8230;]]]>
-      </description>
-      <source:markdown>Modum (tweet): The all-in-one iOS and macOS app that enhances App Store Connect, supercharging your app updates, localization, and ASO with AI-powered tools.\[…\]Using Helm is up to 12x faster than using the App Store Connect website.\[…\]It’s easier than ever to respond using templates, translations, and AI assistance. Additionally, Helm will automatically translate the review and \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49535</guid>
-    </item>    <item>
-      <title>Bartender 6</title>
-      <link>https://mjtsai.com/blog/2025/10/06/bartender-6/</link>
-      <description>
-        <![CDATA[Applause Group: We&#8217;ve re-built Bartender from the ground up to be beautiful, performant, and reliable. Bartender has been a staple of Mac users for years, and that brought with it lots of old hacks &#38; tricks. We&#8217;ve modernised everything, from the algorithms used to move your items, through to the design of the entire app.The [&#8230;]]]>
-      </description>
-      <source:markdown>Applause Group: We’ve re-built Bartender from the ground up to be beautiful, performant, and reliable. Bartender has been a staple of Mac users for years, and that brought with it lots of old hacks &#38; tricks. We’ve modernised everything, from the algorithms used to move your items, through to the design of the entire app.The \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49533</guid>
-    </item>    <item>
-      <title>Apple Files Another Anti-Steering Appeal</title>
-      <link>https://mjtsai.com/blog/2025/10/06/apple-files-another-anti-steering-appeal/</link>
-      <description>
-        <![CDATA[Juli Clover: Startup accelerator and venture capital firm Y Combinator (YC) today filed an amicus brief supporting Epic Games in Epic&#8217;s continued legal fight with Apple. Y Combinator says that Apple&#8217;s &#8220;anti-steering restraints&#8221; have long inhibited the growth and development of technology companies that monetize goods and services through apps.The company calls on the court [&#8230;]]]>
-      </description>
-      <source:markdown>Juli Clover: Startup accelerator and venture capital firm Y Combinator (YC) today filed an amicus brief supporting Epic Games in Epic’s continued legal fight with Apple. Y Combinator says that Apple’s “anti-steering restraints” have long inhibited the growth and development of technology companies that monetize goods and services through apps.The company calls on the court \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49531</guid>
-    </item>    <item>
-      <title>Here are the most banned books of 2025.</title>
-      <link>https://lithub.com/here-are-the-most-banned-books-of-2025/</link>
-      <description>
-        <![CDATA[As we round out #BannedBooksWeek, it&#8217;s time to observe a grim new tradition. PEN America has announced its annual most-banned-books-of-the-year list. This year&#8217;s crop of &#8220;objectionable&#8221; titles may surprise you. If we consider censored books by theme, critique of an]]>
-      </description>
-      <source:markdown>As we round out #BannedBooksWeek, it’s time to observe a grim new tradition. PEN America has announced its annual most-banned-books-of-the-year list. This year’s crop of “objectionable” titles may surprise you. If we consider censored books by theme, critique of an</source:markdown>
-      <guid>cid://https://lithub.com/?p=260729</guid>
-    </item>    <item>
-      <title>Tahoe Electron Detector</title>
-      <link>https://furbo.org/2025/10/06/tahoe-electron-detector/</link>
-      <description>
-        <![CDATA[No, we&#8217;re not doing science at California&#8217;s most beautiful lake. We&#8217;re looking for bugs. A popular cross-platform app development framework called Electron is using private and undocumented API that&#8217;s causing system-wide slowdowns in macOS Tahoe. We&#8217;re hearing from customers that some of our apps are running slowly on Tahoe and I suspect that this bug [&#8230;]]]>
-      </description>
-      <source:markdown>No, we’re not doing science at California’s most beautiful lake. We’re looking for bugs. A popular cross-platform app development framework called Electron is using private and undocumented API that’s causing system-wide slowdowns in macOS Tahoe. We’re hearing from customers that some of our apps are running slowly on Tahoe and I suspect that this bug \[…\]</source:markdown>
-      <guid>cid://https://furbo.org/?p=2912</guid>
-    </item>    <item>
-      <title>October 5, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/october-5-2025-50a</link>
-      <enclosure url="https://api.substack.com/feed/podcast/175449757/6d04a7eaaa7aa30ca4fd11408fd52c46.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/october-5-2025-50a</guid>
-    </item>    <item>
-      <title>Empty Nest? Or Open Door?</title>
-      <link>https://kottke.org/25/10/empty-nest-or-open-door</link>
-      <guid>cid://tag:kottke.org,2025://5.47657</guid>
-    </item>    <item>
-      <title>OpenAI DevDay 2025 live blog</title>
-      <link>https://simonwillison.net/2025/Oct/6/openai-devday-live-blog/#atom-everything</link>
-      <description>
-        <![CDATA[<p>I'm at <a href="https://devday.openai.com/2025">OpenAI DevDay</a> in Fort Mason, San Francisco today. As <a href="https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/">I did last year</a>, I'm going to be live blogging the announcements from the kenote. Unlike last year, this year <a href="https://www.youtube.com/live/hS1YqcewH0c">there's a livestream</a>.</p>
-        
-        <p><em>Disclosure: OpenAI provided me with a free ticket and reserved me a seat in the press/influencer section for the keynote.</em></p>
-            
-                <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/disclosures">disclosures</a>, <a href="https://simonwillison.net/tags/live-blog">live-blog</a></p>]]>
-      </description>
-      <source:markdown>I&#39;m at [OpenAI DevDay](https://devday.openai.com/2025) in Fort Mason, San Francisco today. As [I did last year](https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/), I&#39;m going to be live blogging the announcements from the kenote. Unlike last year, this year [there&#39;s a livestream](https://www.youtube.com/live/hS1YqcewH0c).
-
-_Disclosure: OpenAI provided me with a free ticket and reserved me a seat in the press/influencer section for the keynote._
-
-Tags: [ai](https://simonwillison.net/tags/ai), [openai](https://simonwillison.net/tags/openai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [disclosures](https://simonwillison.net/tags/disclosures), [live-blog](https://simonwillison.net/tags/live-blog)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/6/openai-devday-live-blog/#atom-everything</guid>
-    </item>    <item>
-      <title>OpenAI Looks to Take 10 Percent Stake in AMD Through AI Chip Deal</title>
-      <link>https://www.cnbc.com/2025/10/06/openai-amd-chip-deal-ai.html</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42244</guid>
-    </item>    <item>
-      <link>https://wordpress.feedland.org/</link>
-      <description>
-        <![CDATA[<p>Lots of new posts on WordPress News about WordPress of course. ;-)</p>]]>
-      </description>
-      <source:markdown>Lots of new posts on WordPress News about WordPress of course. ;-)</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/06/1387/</guid>
-    </item>    <item>
-      <title>How to Write in Cuneiform, the Oldest Writing System in the World....</title>
-      <link>https://kottke.org/25/10/0047594-how-to-write-in-cuneiform</link>
-      <guid>cid://tag:kottke.org,2025://13.47594</guid>
-    </item>    <item>
-      <link>https://archive.ph/w7gmN</link>
-      <description>
-        <![CDATA[<p>Unmasking “Rex Feral,” Author of the Infamous Hit Man Manual.</p>]]>
-      </description>
-      <source:markdown>Unmasking “Rex Feral,” Author of the Infamous Hit Man Manual.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/06/1385/</guid>
-    </item>    <item>
-      <title>24vo Festival de cine alemán: Premios Kino y Voces abiertas</title>
-      <link>https://www.palomitademaiz.net/24vo-festival-de-cine-aleman-premios-kino-y-voces-abiertas/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=24vo-festival-de-cine-aleman-premios-kino-y-voces-abiertas</link>
-      <description>
-        <![CDATA[<p>El cine alemán demuestra que lo controversial es universal El 24° Festival de cine alemán en México, organizado por el Goethe-Institut Mexiko, cerró su fase de competencia a finales de septiembre, no solo reconociendo a las cintas con los Premios Kino, sino también consolidándose como un espacio vital para el diálogo cultural. Lejos del protocolo, [&#8230;]</p>
-        <p>La entrada <a href="https://www.palomitademaiz.net/24vo-festival-de-cine-aleman-premios-kino-y-voces-abiertas/">24vo Festival de cine alemán: Premios Kino y Voces abiertas</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
-      </description>
-      <source:markdown>El cine alemán demuestra que lo controversial es universal El 24° Festival de cine alemán en México, organizado por el Goethe-Institut Mexiko, cerró su fase de competencia a finales de septiembre, no solo reconociendo a las cintas con los Premios Kino, sino también consolidándose como un espacio vital para el diálogo cultural. Lejos del protocolo, \[…\]
-
-La entrada [24vo Festival de cine alemán: Premios Kino y Voces abiertas](https://www.palomitademaiz.net/24vo-festival-de-cine-aleman-premios-kino-y-voces-abiertas/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
-      <guid>cid://https://www.palomitademaiz.net/?p=25584</guid>
-    </item>    <item>
-      <link>https://www.theatlantic.com/ideas/archive/2025/10/miller-insurrection/684463/?gift=f35zZN0v_gDFE8xNwlQAHRWWv97cOIIFRlylC4U5_so&#38;utm_source=copy-link&#38;utm_medium=social&#38;utm_campaign=share</link>
-      <description>
-        <![CDATA[<p>Stephen Miller Is Going for Broke.</p>]]>
-      </description>
-      <source:markdown>Stephen Miller Is Going for Broke.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/06/1383/</guid>
-    </item>    <item>
-      <title>Quoting Tim Berners-Lee</title>
-      <link>https://simonwillison.net/2025/Oct/6/tim-berners-lee/#atom-everything</link>
-      <description>
-        <![CDATA[<blockquote cite="https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free"><p>I believed that giving users such a simple way to navigate the internet would unlock creativity and collaboration on a global scale. If you could put anything on it, then after a while, it would have everything on it.</p>
-        <p>But for the web to have everything on it, everyone had to be able to use it, and want to do so. This was already asking a lot. I couldn’t also ask that they pay for each search or upload they made. In order to succeed, therefore, it would have to be free. That’s why, in 1993, I convinced my Cern managers to donate the intellectual property of the world wide web, putting it into the public domain. We gave the web away to everyone.</p></blockquote>
-        <p class="cite">&mdash; <a href="https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free">Tim Berners-Lee</a>, Why I gave the world wide web away for free</p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/web">web</a>, <a href="https://simonwillison.net/tags/tim-berners-lee">tim-berners-lee</a>, <a href="https://simonwillison.net/tags/computer-history">computer-history</a></p>]]>
-      </description>
-      <source:markdown>&#62; I believed that giving users such a simple way to navigate the internet would unlock creativity and collaboration on a global scale. If you could put anything on it, then after a while, it would have everything on it.
-&#62;
-&#62; But for the web to have everything on it, everyone had to be able to use it, and want to do so. This was already asking a lot. I couldn’t also ask that they pay for each search or upload they made. In order to succeed, therefore, it would have to be free. That’s why, in 1993, I convinced my Cern managers to donate the intellectual property of the world wide web, putting it into the public domain. We gave the web away to everyone.
-
-— [Tim Berners-Lee](https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free), Why I gave the world wide web away for free
-
-Tags: [web](https://simonwillison.net/tags/web), [tim-berners-lee](https://simonwillison.net/tags/tim-berners-lee), [computer-history](https://simonwillison.net/tags/computer-history)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/6/tim-berners-lee/#atom-everything</guid>
-    </item>    <item>
-      <link>https://www.nytimes.com/interactive/2025/10/06/nyregion/07futureNYC-quiz.html</link>
-      <description>
-        <![CDATA[<p>Are You a True New Yorker? Take Our Quiz. (I have not taken the quiz yet myself.)</p>]]>
-      </description>
-      <source:markdown>Are You a True New Yorker? Take Our Quiz. (I have not taken the quiz yet myself.)</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/06/1381/</guid>
-    </item>    <item>
-      <link>https://slate.com/technology/2025/10/cbs-news-bari-weiss-the-free-press-woke.html?via=rss</link>
-      <description>
-        <![CDATA[<p>Bari Weiss is taking over CBS News as editor in chief — and its newsroom is very worried.</p>]]>
-      </description>
-      <source:markdown>Bari Weiss is taking over CBS News as editor in chief — and its newsroom is very worried.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/06/1379/</guid>
-    </item>    <item>
-      <title>Guess which top college is launching a “creator economy” program?</title>
-      <link>https://lithub.com/guess-which-top-college-is-launching-a-creator-economy-program/</link>
-      <description>
-        <![CDATA[I&#8217;ll give you a hint. They bleed orange and blue and Dinosaur B-B-Q. Last week, Syracuse University announced the launch of a new Center for the Creator Economy. The first academic hub of its kind on a U.S. college campus,]]>
-      </description>
-      <source:markdown>I’ll give you a hint. They bleed orange and blue and Dinosaur B-B-Q. Last week, Syracuse University announced the launch of a new Center for the Creator Economy. The first academic hub of its kind on a U.S. college campus,</source:markdown>
-      <guid>cid://https://lithub.com/?p=260722</guid>
-    </item>    <item>
-      <title>Ivan Klima, the best Czech novelist of his generation, has died.</title>
-      <link>https://lithub.com/ivan-klima-the-best-czech-novelist-of-his-generation-has-died/</link>
-      <description>
-        <![CDATA[One of the great Czech writers of the 20th century, Ivan Klima, died over the weekend at his home in Prague, at the age of 94. Klima lived an incredible, principled life, having survived both the Nazi concentration camp at]]>
-      </description>
-      <source:markdown>One of the great Czech writers of the 20th century, Ivan Klima, died over the weekend at his home in Prague, at the age of 94. Klima lived an incredible, principled life, having survived both the Nazi concentration camp at</source:markdown>
-      <guid>cid://https://lithub.com/?p=260731</guid>
-    </item>    <item>
-      <link>https://electrek.co/2025/10/06/ford-finally-build-an-electric-bronco-and-it-looks-wild/</link>
-      <description>
-        <![CDATA[<p>The electric Bronco is real, and it might be Ford’s coolest EV yet. (Only available in China.)</p>]]>
-      </description>
-      <source:markdown>The electric Bronco is real, and it might be Ford’s coolest EV yet. (Only available in China.)</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/06/1377/</guid>
-    </item>    <item>
-      <title>In Praise of Comfort Films</title>
-      <link>https://kottke.org/25/10/in-praise-of-comfort-films</link>
-      <guid>cid://tag:kottke.org,2025://5.47656</guid>
-    </item>    <item>
-      <title>Tim Berners-Lee: &#38;#8220;I gave the world wide web away for free because...</title>
-      <link>https://kottke.org/25/10/0047655-tim-berners-lee-i-gave-th</link>
-      <guid>cid://tag:kottke.org,2025://13.47655</guid>
-    </item>    <item>
-      <link>http://scripting.com/davenet/1995/01/04/demoingsoftwareforfunprofi.html</link>
-      <description>
-        <![CDATA[<p>1995: Demoing Software for Fun &amp; Profit.</p>]]>
-      </description>
-      <source:markdown>1995: Demoing Software for Fun &#38; Profit.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/06/1375/</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/10/06.html#a142205</link>
-      <description>
-        <![CDATA[I did a <a href="https://youtu.be/pkHV7ir0_hM?si=7UbFzFiUc77FRBGA&t=416">video demo</a> of pngWriter in Dec 2016.]]>
-      </description>
-      <source:markdown>I did a [video demo](https://youtu.be/pkHV7ir0_hM?si=7UbFzFiUc77FRBGA&#38;t=416) of pngWriter in Dec 2016.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/06.html#a142205</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/10/06.html#a141525</link>
-      <description>
-        <![CDATA[Reason #29812 you know our current writing system is broken. When you want to post something that has more than the maximum characters they post an image instead of the text. I once wasted a few months making a <a href="https://daytona.scripting.com/search?q=pngwriter">writing tool</a> for those kinds of posts, hoping that if it caught on we could have a shadow network that moved the actual text around the net between users.]]>
-      </description>
-      <source:markdown>Reason #29812 you know our current writing system is broken. When you want to post something that has more than the maximum characters they post an image instead of the text. I once wasted a few months making a [writing tool](https://daytona.scripting.com/search?q=pngwriter) for those kinds of posts, hoping that if it caught on we could have a shadow network that moved the actual text around the net between users.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/06.html#a141525</guid>
-    </item>    <item>
-      <title>The Curious About Everything Newsletter #55</title>
-      <link>https://jodiettenberg.substack.com/p/fifty-five</link>
-      <description>
-        <![CDATA[The many interesting things I read in September 2025]]>
-      </description>
-      <source:markdown>The many interesting things I read in September 2025</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!WTiq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbfd205b9-12ba-4449-8f92-874e0e8d70de_1000x734.webp" length="0" type="image/jpeg" />
-      <guid>cid://https://jodiettenberg.substack.com/p/fifty-five</guid>
-    </item>    <item>
-      <title>Libraries Can’t Get Their Loaned Books Back Because of Trump’s Tariffs</title>
-      <link>https://www.404media.co/libraries-cant-get-their-loaned-books-back-because-of-trumps-tariffs/</link>
-      <description>
-        <![CDATA[Libraries have shared their collections internationally for decades. Trump’s tariffs are throwing that system into chaos and can ‘hinder academic progress.’]]>
-      </description>
-      <source:markdown>Libraries have shared their collections internationally for decades. Trump’s tariffs are throwing that system into chaos and can ‘hinder academic progress.’</source:markdown>
-      <guid>cid://68dd6b48ed336000015753a3</guid>
-    </item>    <item>
-      <title>Leavings</title>
-      <link>https://doc.searls.com/2025/10/06/leavings/</link>
-      <description>
-        <![CDATA[I live a full and active life. In fact, I&#8217;m probably more engaged than I&#8217;ve ever been, with faith that at least some of my ideas will play out in constructive ways over the coming years and decades. But, at 78 (still a year younger than the current US president), I am also more mortal [&#8230;]]]>
-      </description>
-      <source:markdown>I live a full and active life. In fact, I’m probably more engaged than I’ve ever been, with faith that at least some of my ideas will play out in constructive ways over the coming years and decades. But, at 78 (still a year younger than the current US president), I am also more mortal \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/?p=19545</guid>
-    </item>    <item>
-      <title>Oh I don&#38;#8217;t know, the appearance of two perfectly overlapping fiery rings...</title>
-      <link>https://kottke.org/25/10/0047654-oh-i-dont-know-the</link>
-      <guid>cid://tag:kottke.org,2025://13.47654</guid>
-    </item>    <item>
-      <title>We Are Not Fascists, and If You Call Us Fascists, We Will...</title>
-      <link>https://kottke.org/25/10/0047653-we-are-not-fascists-and</link>
-      <guid>cid://tag:kottke.org,2025://13.47653</guid>
-    </item>    <item>
-      <title>Why Linking and Permalinks Are the Backbone of the Open Web</title>
-      <link>https://openchannels.fm/why-linking-and-permalinks-are-the-backbone-of-the-open-web/</link>
-      <description>
-        <![CDATA[Dave Winer talks about the open web's basics, emphasizing that linking is crucial for real connection. Platforms limiting links miss out on that vibrant web experience.]]>
-      </description>
-      <source:markdown>Dave Winer talks about the open web&#39;s basics, emphasizing that linking is crucial for real connection. Platforms limiting links miss out on that vibrant web experience.</source:markdown>
-      <guid>cid://https://openchannels.fm/?p=110377</guid>
-    </item>    <item>
-      <link>https://deadline.com/2025/10/ridley-scott-hollywood-drowning-in-mediocrity-1236570875/</link>
-      <description>
-        <![CDATA[<p>Ridley Scott Says Hollywood Is "Drowning In Mediocrity." Totally agree.</p>]]>
-      </description>
-      <source:markdown>Ridley Scott Says Hollywood Is &#34;Drowning In Mediocrity.&#34; Totally agree.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/06/1373/</guid>
-    </item>    <item>
-      <title>Purism Defends the Fourth Amendment in the Digital Age</title>
-      <link>https://puri.sm/posts/purism-defends-the-fourth-amendment-in-the-digital-age/</link>
-      <description>
-        <![CDATA[<p>A newly revealed WIRED investigation shows that the United States Government is creating a vast social media surveillance network, one that will operate around the clock and rely heavily on private contractors. Officials insist the system targets foreign nationals—but its scope and design make it inevitable that millions of Americans’ online activity will also be swept up. This is unconstitutional.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/purism-defends-the-fourth-amendment-in-the-digital-age/">Purism Defends the Fourth Amendment in the Digital Age</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>A newly revealed WIRED investigation shows that the United States Government is creating a vast social media surveillance network, one that will operate around the clock and rely heavily on private contractors. Officials insist the system targets foreign nationals—but its scope and design make it inevitable that millions of Americans’ online activity will also be swept up. This is unconstitutional.
-
-The post [Purism Defends the Fourth Amendment in the Digital Age](https://puri.sm/posts/purism-defends-the-fourth-amendment-in-the-digital-age/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=84660</guid>
-    </item>    <item>
-      <link>https://x.com/atrupar/status/1974940532410310821</link>
-      <description>
-        <![CDATA[Trump to the Navy: "We have to take care of this little gnat that's on our shoulder called the Democrats."]]>
-      </description>
-      <source:markdown>Trump to the Navy: &#34;We have to take care of this little gnat that&#39;s on our shoulder called the Democrats.&#34;</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/06/1371/</guid>
-    </item>    <item>
-      <title>Mapping the Design Space of AI Coding Assistants</title>
-      <link>https://www.oreilly.com/radar/from-autocomplete-to-agents-mapping-the-design-space-of-ai-coding-assistants/</link>
-      <description>
-        <![CDATA[Just a few years ago, AI coding assistants were little more than autocomplete curiosities—tools that could finish your variable names or suggest a line of boilerplate. Today, they’ve become an everyday part of millions of developers’ workflows, with entire products and startups built around them. Depending on who you ask, they represent either the dawn [&#8230;]]]>
-      </description>
-      <source:markdown>Just a few years ago, AI coding assistants were little more than autocomplete curiosities—tools that could finish your variable names or suggest a line of boilerplate. Today, they’ve become an everyday part of millions of developers’ workflows, with entire products and startups built around them. Depending on who you ask, they represent either the dawn \[…\]</source:markdown>
-      <guid>cid://https://www.oreilly.com/radar/?p=17493</guid>
-    </item>    <item>
-      <title>AI in the 2026 Midterm Elections</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/ai-in-the-2026-midterm-elections.html</link>
-      <description>
-        <![CDATA[<p>We are nearly one year out from the 2026 midterm elections, and it&#8217;s far too early to predict the outcomes. But it&#8217;s a safe bet that artificial intelligence technologies will once again be a major storyline.</p>
-        <p>The widespread fear that AI would be used to manipulate the 2024 US election seems rather quaint in a year where the president posts <a href="https://www.bbc.com/news/articles/cdrg8zkz8d0o">AI-generated images</a> of himself as the pope on official White House accounts. But AI is a lot more than an information manipulator. It&#8217;s also emerging as a <a href="https://www.brookings.edu/articles/trumps-executive-orders-politicize-ai/">politicized</a> issue. Political first-movers are adopting the technology, and that&#8217;s opening a ...</p>]]>
-      </description>
-      <source:markdown>We are nearly one year out from the 2026 midterm elections, and it’s far too early to predict the outcomes. But it’s a safe bet that artificial intelligence technologies will once again be a major storyline.
-
-The widespread fear that AI would be used to manipulate the 2024 US election seems rather quaint in a year where the president posts [AI-generated images](https://www.bbc.com/news/articles/cdrg8zkz8d0o) of himself as the pope on official White House accounts. But AI is a lot more than an information manipulator. It’s also emerging as a [politicized](https://www.brookings.edu/articles/trumps-executive-orders-politicize-ai/) issue. Political first-movers are adopting the technology, and that’s opening a ...</source:markdown>
-      <guid>cid://https://www.schneier.com/?p=70924</guid>
-    </item>    <item>
-      <title>Lit Hub Daily: October 6, 2025</title>
-      <link>https://lithub.com/lit-hub-daily-october-6-2025/</link>
-      <description>
-        <![CDATA[How Palestinian teacher Ikram Talaat Ahmed transformed Gaza’s displacement tents into schools: “We are nearing the end of the academic year, yet the Israeli war on Gaza continues.” &#124; Lit Hub Politics “To me, writing about sex work has always]]>
-      </description>
-      <source:markdown>How Palestinian teacher Ikram Talaat Ahmed transformed Gaza’s displacement tents into schools: “We are nearing the end of the academic year, yet the Israeli war on Gaza continues.” \| Lit Hub Politics “To me, writing about sex work has always</source:markdown>
-      <guid>cid://https://lithub.com/?p=260639</guid>
-    </item>    <item>
-      <title>State Terror, American Style</title>
-      <link>https://paulkrugman.substack.com/p/state-terror-american-style</link>
-      <description>
-        <![CDATA[Forget about &#8220;soft autocracy&#8221;]]>
-      </description>
-      <source:markdown>Forget about “soft autocracy”</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!yMXx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb703dbb-c3ad-4d45-83fa-5b3c8fb32f74_1041x694.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/state-terror-american-style</guid>
-    </item>    <item>
-      <title>Patricia Smith on How a Poet Ages</title>
-      <link>https://lithub.com/patricia-smith-on-how-a-poet-ages/</link>
-      <description>
-        <![CDATA[Nobody—and I mean NOBODY—warned me about my pubic hair. It glistened for years, springy and sprite, an Ivory Soap-scented welcome mat for lucky episodic visitors. I never gave it much thought, certainly didn’t see a need to clock in every]]>
-      </description>
-      <source:markdown>Nobody—and I mean NOBODY—warned me about my pubic hair. It glistened for years, springy and sprite, an Ivory Soap-scented welcome mat for lucky episodic visitors. I never gave it much thought, certainly didn’t see a need to clock in every</source:markdown>
-      <guid>cid://https://lithub.com/?p=260347</guid>
-    </item>    <item>
-      <title>Uncanny Prescience: Revisiting Kafka’s Amerika</title>
-      <link>https://lithub.com/uncanny-prescience-revisiting-kafkas-amerika/</link>
-      <description>
-        <![CDATA[Unlike the obsessive protagonists of The Trial and The Castle, who draw us into their labyrinthine thinking, Karl Rossmann, the naive young hero of Kafka’s Amerika or, to use Kafka’s own title, Der Verschollene (“The Missing Person”), bumbles through the]]>
-      </description>
-      <source:markdown>Unlike the obsessive protagonists of The Trial and The Castle, who draw us into their labyrinthine thinking, Karl Rossmann, the naive young hero of Kafka’s Amerika or, to use Kafka’s own title, Der Verschollene (“The Missing Person”), bumbles through the</source:markdown>
-      <guid>cid://https://lithub.com/?p=260636</guid>
-    </item>    <item>
-      <title>Teaching 200 Children in Gaza’s Refugee Camps</title>
-      <link>https://lithub.com/teaching-200-children-in-gazas-refugee-camps/</link>
-      <description>
-        <![CDATA[Before the war, I worked as an English language teacher at a kindergarten in the Gaza Strip. In the evenings, I gave private lessons to students at my own educational centre beneath my house. I had been working since university,]]>
-      </description>
-      <source:markdown>Before the war, I worked as an English language teacher at a kindergarten in the Gaza Strip. In the evenings, I gave private lessons to students at my own educational centre beneath my house. I had been working since university,</source:markdown>
-      <guid>cid://https://lithub.com/?p=260482</guid>
-    </item>    <item>
-      <title>My Child Does Not Love to Read, And I’m (Starting to Be) Okay With That</title>
-      <link>https://lithub.com/my-child-does-not-love-to-read-and-im-starting-to-be-okay-with-that/</link>
-      <description>
-        <![CDATA[Last fall in Maine, my eleven-year-old son contacted a sharpshooter and requested two deer heads. Once or twice a year on Peaks Island, where we live, a professional marksman ventures into the woods at night to cull deer and maintain]]>
-      </description>
-      <source:markdown>Last fall in Maine, my eleven-year-old son contacted a sharpshooter and requested two deer heads. Once or twice a year on Peaks Island, where we live, a professional marksman ventures into the woods at night to cull deer and maintain</source:markdown>
-      <guid>cid://https://lithub.com/?p=260246</guid>
-    </item>    <item>
-      <title>What Time Provides: Mining the Creative Unconscious For Inspiration</title>
-      <link>https://lithub.com/what-time-provides-mining-the-creative-unconscious-for-inspiration/</link>
-      <description>
-        <![CDATA[More than twenty years ago, I walked into Kremer Pigment, a small shop in lower Manhattan, and by the time I left, I had the idea for a novel—a story about pigment—and had signed up for a workshop in traditional]]>
-      </description>
-      <source:markdown>More than twenty years ago, I walked into Kremer Pigment, a small shop in lower Manhattan, and by the time I left, I had the idea for a novel—a story about pigment—and had signed up for a workshop in traditional</source:markdown>
-      <guid>cid://https://lithub.com/?p=260301</guid>
-    </item>    <item>
-      <title>How Harassment at the Strip Club Prepared Me For Publishing</title>
-      <link>https://lithub.com/how-harassment-at-the-strip-club-prepared-me-for-publishing/</link>
-      <description>
-        <![CDATA[When my essay about paying for $42,000 worth of dental work with sugar baby money first ran in HuffPost Personal, I was thrilled. Having only published in small literary magazines before, I wasn’t used to the feeling of strangers actually]]>
-      </description>
-      <source:markdown>When my essay about paying for $42,000 worth of dental work with sugar baby money first ran in HuffPost Personal, I was thrilled. Having only published in small literary magazines before, I wasn’t used to the feeling of strangers actually</source:markdown>
-      <guid>cid://https://lithub.com/?p=260548</guid>
-    </item>    <item>
-      <title>“It’s Okay But It’s Also Really Not.” When Dystopian Fiction is No Longer a Thought Experiment</title>
-      <link>https://lithub.com/its-okay-but-its-also-really-not-when-dystopian-fiction-is-no-longer-a-thought-experiment/</link>
-      <description>
-        <![CDATA[Dystopian fiction is getting real, and I’m here for it. I don’t think I’m the only one. There’s something cathartic about reading about the end of the world. As a science fiction reader and avid fan, I find that dystopian]]>
-      </description>
-      <source:markdown>Dystopian fiction is getting real, and I’m here for it. I don’t think I’m the only one. There’s something cathartic about reading about the end of the world. As a science fiction reader and avid fan, I find that dystopian</source:markdown>
-      <guid>cid://https://lithub.com/?p=260298</guid>
-    </item>    <item>
-      <title>Reading The End of the World is a Cul de Sac by Louise Kennedy.</title>
-      <link>https://adactio.com/notes/22173</link>
-      <description>
-        <![CDATA[<p>Reading The End of the World is a Cul de Sac by Louise Kennedy.</p>]]>
-      </description>
-      <source:markdown>Reading The End of the World is a Cul de Sac by Louise Kennedy.</source:markdown>
-      <guid>cid://https://adactio.com/notes/22173</guid>
-    </item>    <item>
-      <title>A Certain Lucas</title>
-      <link>https://lithub.com/a-certain-lucas/</link>
-      <description>
-        <![CDATA[Lucas, His Communications Since he not only writes but likes to go over to the other side and read what others write, Lucas is surprised sometimes at how difficult it turns out to be for him to understand some things.]]>
-      </description>
-      <source:markdown>Lucas, His Communications Since he not only writes but likes to go over to the other side and read what others write, Lucas is surprised sometimes at how difficult it turns out to be for him to understand some things.</source:markdown>
-      <guid>cid://https://lithub.com/?p=260037</guid>
-    </item>    <item>
-      <title>The Mad King’s Television</title>
-      <link>https://robertreich.substack.com/p/how-trump-gets-and-processes-information</link>
-      <description>
-        <![CDATA[How Trump is making potentially lethal decisions]]>
-      </description>
-      <source:markdown>How Trump is making potentially lethal decisions</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!PjEW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d227286-4549-4420-a7ab-c4f60daf813e_3500x2359.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/how-trump-gets-and-processes-information</guid>
-    </item>    <item>
-      <title>Ada Limón on Opening Awareness</title>
-      <link>https://lithub.com/ada-limon-on-opening-awareness/</link>
-      <description>
-        <![CDATA[First Draft: A Dialogue of Writing is a weekly show featuring in-depth interviews with fiction, nonfiction, essay writers, and poets, highlighting the voices of writers as they discuss their work, their craft, and the literary arts. Hosted by Mitzi Rapkin,]]>
-      </description>
-      <source:markdown>First Draft: A Dialogue of Writing is a weekly show featuring in-depth interviews with fiction, nonfiction, essay writers, and poets, highlighting the voices of writers as they discuss their work, their craft, and the literary arts. Hosted by Mitzi Rapkin,</source:markdown>
-      <guid>cid://https://lithub.com/?p=260279</guid>
-    </item>    <item>
-      <title>October 5, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/october-5-2025</link>
-      <description>
-        <![CDATA[On Friday the Minnesota Star Tribune reported a conversation on the messaging app Signal between one of Stephen Miller&#8217;s top deputies, Anthony Salisbury, and a senior advisor to Secretary of Defense Pete Hegseth, Patrick Weaver.]]>
-      </description>
-      <source:markdown>On Friday the Minnesota Star Tribune reported a conversation on the messaging app Signal between one of Stephen Miller’s top deputies, Anthony Salisbury, and a senior advisor to Secretary of Defense Pete Hegseth, Patrick Weaver.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/october-5-2025</guid>
-    </item>    <item>
-      <title>String of Correctly Spelled Texts from Trump Fuels Speculation That he is Dead</title>
-      <link>https://www.borowitzreport.com/p/string-of-correctly-spelled-texts</link>
-      <description>
-        <![CDATA[The texts were the work of someone with at least a seventh-grade education.]]>
-      </description>
-      <source:markdown>The texts were the work of someone with at least a seventh-grade education.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!Hrgw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30f40611-f095-4f4d-8699-aa0fbadeca4b_3300x2107.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/string-of-correctly-spelled-texts</guid>
-    </item>    <item>
-      <title>Quotation</title>
-      <link>https://inkdroid.org/2025/10/06/quotation/</link>
-      <description>
-        <![CDATA[<blockquote>
-        <p>
-        A monk asked Chao Chou, “The Ultimate Path has no difficulties–just
-        avoid picking and choosing. As soon as there are words and speech, this
-        is picking and choosing.’ So how do you help people, Teacher?”
-        </p>
-        <p>
-        Chou said, “Why don’t you quote this saying in full?” The monk said, “I
-        only remember up to here.”
-        </p>
-        <p>
-        Chou said, “It’s just this: ‘This Ultimate Path has no difficulties–just
-        avoid picking and choosing.’” <span class="citation"
-        data-cites="Cleary:2005">(<a href="#ref-Cleary:2005"
-        role="doc-biblioref">Cleary, 2005, p. 337</a>)</span>
-        </p>
-        </blockquote>
-        <div id="refs" class="references csl-bib-body hanging-indent"
-        data-entry-spacing="0" data-line-spacing="2" role="list">
-        <div id="ref-Cleary:2005" class="csl-entry" role="listitem">
-        Cleary, T. (2005). <em>The Blue Cliff Record</em>. Boston: Shambhala.
-        </div>
-        </div>]]>
-      </description>
-      <source:markdown>&#62; A monk asked Chao Chou, “The Ultimate Path has no difficulties–just
-&#62; avoid picking and choosing. As soon as there are words and speech, this
-&#62; is picking and choosing.’ So how do you help people, Teacher?”
-&#62;
-&#62; Chou said, “Why don’t you quote this saying in full?” The monk said, “I
-&#62; only remember up to here.”
-&#62;
-&#62; Chou said, “It’s just this: ‘This Ultimate Path has no difficulties–just
-&#62; avoid picking and choosing.’” ( [Cleary, 2005, p. 337](#ref-Cleary:2005))
-
-Cleary, T. (2005). _The Blue Cliff Record_. Boston: Shambhala.</source:markdown>
-      <guid>cid://https://inkdroid.org/2025/10/06/quotation/</guid>
-    </item>    <item>
-      <title>Air Travel During the Shutdown. Do I Need to Worry?</title>
-      <link>https://fallows.substack.com/p/air-travel-during-the-shutdown-do</link>
-      <description>
-        <![CDATA[Yes, but not about immediate safety risks.]]>
-      </description>
-      <source:markdown>Yes, but not about immediate safety risks.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!bD6w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb45c7da0-c342-4550-b2a1-0f4b85aa6242_1705x826.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://fallows.substack.com/p/air-travel-during-the-shutdown-do</guid>
-    </item>    <item>
-      <title>Bad bots</title>
-      <link>https://simonwillison.net/2025/Oct/6/bad-bots/#atom-everything</link>
-      <description>
-        <![CDATA[<p>Two of my public Datasette instances - for <a href="https://til.simonwillison.net/">my TILs</a> and my <a href="https://datasette.simonwillison.net/">blog's backup mirror</a> - were getting <em>hammered</em> with misbehaving bot traffic today. Scaling them up to more Fly instances got them running again but I'd rather not pay extra just so bots can crawl me harder.</p>
-        <p>The log files showed the main problem was <a href="https://docs.datasette.io/en/stable/facets.html">facets</a>: Datasette provides these by default on the table page, but they can be combined in ways that keep poorly written crawlers busy visiting different variants of the same page over and over again.</p>
-        <p>So I turned those off. I'm now running those instances with <code>--setting allow_facet off</code> (<a href="https://docs.datasette.io/en/stable/settings.html#allow-facet">described here</a>), and my logs are full of lines that look like this. The "400 Bad Request" means a bot was blocked from loading the page:</p>
-        <p><code style="word-break: break-all; overflow-wrap: anywhere;">GET /simonwillisonblog/blog_entry?_facet_date=created&amp;_facet=series_id&amp;_facet_size=max&amp;_facet=extra_head_html&amp;_sort=is_draft&amp;created__date=2012-01-30 HTTP/1.1" 400 Bad Request</code></p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/crawling">crawling</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a></p>]]>
-      </description>
-      <source:markdown>Two of my public Datasette instances - for [my TILs](https://til.simonwillison.net/) and my [blog&#39;s backup mirror](https://datasette.simonwillison.net/) \- were getting _hammered_ with misbehaving bot traffic today. Scaling them up to more Fly instances got them running again but I&#39;d rather not pay extra just so bots can crawl me harder.
-
-The log files showed the main problem was [facets](https://docs.datasette.io/en/stable/facets.html): Datasette provides these by default on the table page, but they can be combined in ways that keep poorly written crawlers busy visiting different variants of the same page over and over again.
-
-So I turned those off. I&#39;m now running those instances with `--setting allow_facet off` ( [described here](https://docs.datasette.io/en/stable/settings.html#allow-facet)), and my logs are full of lines that look like this. The &#34;400 Bad Request&#34; means a bot was blocked from loading the page:
-
-`GET /simonwillisonblog/blog_entry?_facet_date=created&#38;_facet=series_id&#38;_facet_size=max&#38;_facet=extra_head_html&#38;_sort=is_draft&#38;created__date=2012-01-30 HTTP/1.1&#34; 400 Bad Request`
-
-Tags: [crawling](https://simonwillison.net/tags/crawling), [datasette](https://simonwillison.net/tags/datasette)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/6/bad-bots/#atom-everything</guid>
-    </item>    <item>
-      <link>https://www.nytimes.com/2025/10/05/opinion/hope-grace-michigan-shooting.html?unlocked_article_code=1.rU8.ojTQ.quuyHaOI0SJn&#38;smid=url-share</link>
-      <description>
-        <![CDATA[<p>There’s a Path Out of This Divide.</p>]]>
-      </description>
-      <source:markdown>There’s a Path Out of This Divide.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/05/1369/</guid>
-    </item>    <item>
-      <title>GSoC 2025 - Support simple C++20 modules use from the Clang driver without a build system</title>
-      <link>https://blog.llvm.org/posts/2025-08-gsoc-modules-driver/</link>
-      <description>
-        <![CDATA[<p>Hi, my name is Naveen. For Google Summer of Code 2025, I’ve been working on adding native support for simple Clang and C++20 named module use from the Clang driver.This post outlines the project and its current status.</p><p>My mentor for this project was Michael Spencer.</p><h2 id="background">Background</h2><p>Modules solve many of the long-standing problems with the traditional header-based way of sharing code.</p><p>They prevent leaking macros, let you explicitly choose what to export, and can improve compile time at scale.</p><p>However, because modules must be precompiled before use, builds that rely on them need to schedule compilations in the right order, according to their imports.</p><p>At the moment, Clang’s driver lacks native support to do this, which makes even simple tests or tiny programs using modules hard to compile without first setting up a build system.</p><h2 id="goals">Goals</h2><p>The goal of this project is to extend the build system in Clang&rsquo;s driver to natievly support simple use of Clang or C++20 named modules, by integrating Clang&rsquo;s existing support for module dependency scanning.</p><p>This should also support importing the C++ Standard library modules <code>std</code> and <code>std.compat</code>, and add no overhead to cases where modules are not used.</p><p>With the feature fully implemented, the following example should compile without any issue:</p><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span> clang++ -std<span style="color:#f92672">=</span>c++23 main.cpp A.cpp -fmodules-driver -fmodules -fmodule-map-file<span style="color:#f92672">=</span>module.modulemap</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-cpp" data-lang="cpp"><span style="display:flex;"><span><span style="color:#75715e">// main.cpp</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#75715e">#include</span> <span style="color:#75715e">&#34;MyLib.h&#34;</span><span style="color:#75715e"></span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>import std;</span></span><span style="display:flex;"><span>import A;</span></span><span style="display:flex;"><span></span></span><span style="display:flex;"><span><span style="color:#66d9ef">auto</span> <span style="color:#a6e22e">main</span>() <span style="color:#f92672">-&gt;</span> <span style="color:#66d9ef">int</span> {</span></span><span style="display:flex;"><span> std<span style="color:#f92672">::</span>println(<span style="color:#e6db74">&#34;{}&#34;</span>, make_greeting(<span style="color:#e6db74">&#34;modules&#34;</span>));</span></span><span style="display:flex;"><span> std<span style="color:#f92672">::</span>println(<span style="color:#e6db74">&#34;The answer is: {}&#34;</span>, get_answer());</span></span><span style="display:flex;"><span>}</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-cpp" data-lang="cpp"><span style="display:flex;"><span><span style="color:#75715e">// A.cpp</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">export</span> module A;</span></span><span style="display:flex;"><span>import std;</span></span><span style="display:flex;"><span></span></span><span style="display:flex;"><span><span style="color:#66d9ef">export</span> <span style="color:#66d9ef">auto</span> <span style="color:#a6e22e">make_greeting</span>(std<span style="color:#f92672">::</span>string_view Name) <span style="color:#f92672">-&gt;</span> std<span style="color:#f92672">::</span>string {</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">return</span> std<span style="color:#f92672">::</span>format(<span style="color:#e6db74">&#34;Hello, {}!&#34;</span>, Name);</span></span><span style="display:flex;"><span>}</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-cpp" data-lang="cpp"><span style="display:flex;"><span><span style="color:#75715e">// module.modulemap</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>module MyLib {</span></span><span style="display:flex;"><span> header <span style="color:#e6db74">&#34;MyLib.h&#34;</span></span></span><span style="display:flex;"><span> <span style="color:#66d9ef">export</span> <span style="color:#f92672">*</span></span></span><span style="display:flex;"><span>}</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-cpp" data-lang="cpp"><span style="display:flex;"><span><span style="color:#75715e">// MyLib.h</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">auto</span> <span style="color:#a6e22e">get_answer</span>() <span style="color:#f92672">-&gt;</span> <span style="color:#66d9ef">int</span> { <span style="color:#66d9ef">return</span> <span style="color:#ae81ff">42</span>; }</span></span></code></pre></div><p>Although one of the main advantages of modules is that they can be precompiled once and reused for future uses, support for caching was not included in the scope of this GSoC project.</p><h2 id="design-overview--challenges">Design Overview &amp; Challenges</h2><figure><img src="https://blog.llvm.org/img/gsoc2025-modules-driver-design.webp" alt="Modules Driver Design"></figure><h3 id="1-check-enable-the-modules-driver">1. Check: Enable the Modules Driver?</h3><p>Once stabilized, the driver-managed module build feature should be enabled automatically for compilations which make use of C++20 named modules and have two or more source inputs.To detect named‑module usage without adding noticeable overhead to compilations that don’t use modules, we added a fast scanner that inspects the leading lines of a source input for named module directives only.</p><p>We measured compile times for building Clang with the check enabled and disabled, and profiled it using perf. The benchmarks show that the check typically makes up less than 0.1% of total compile time (<a href="https://github.com/naveen-seth/llvm-dev-cxx-modules-check-benchmark">full benchmarks</a>).</p><h3 id="2-modules-driver-logic">2. Modules Driver Logic</h3><p>At a high level, the modules driver logic can be summarized as simple as:<br>(1) scan, (2) plan the build order, and (3) reorder/modify the jobs.</p><p>Some parts introduced unique challenges:</p><h4 id="handling-of-the-standard-library-modules">Handling of the Standard library modules.</h4><p>Clang’s dependency scanning tooling uses the generated <code>-cc1</code> compilation job&rsquo;s command lines as input. Since we can’t know in advance whether a standard library module will be needed, we always build the jobs for <code>std</code> and <code>std.compat</code>. During the scanning phase, we only scan those standard library modules if a command-line source input depends on them. If a standard library module ends up unused, we drop its job and carefully remove its outputs from the linker command line.</p><h4 id="propagating-scan-diagnostics">Propagating scan diagnostics</h4><p>After completing the dependency scan, we want to forward all diagnostics generated by the scan through the driver&rsquo;s diagnostics engine.Because those diagnostics are generated outside the driver’s own invocation, they become invalid once the scan process ends.To prevent this, we serialize each scan diagnostic into an intermediate representation and deserialize it back into a regular diagnostic before emitting it.</p><h2 id="outcome">Outcome</h2><p>The current upstream draft for this feature (see <a href="https://github.com/llvm/llvm-project/pull/156248">here</a>) can successfully compile examples that use both C++20 named modules and Clang modules. Importing Standard Library modules is also supported, and the example above compiles without issues.</p><p>Additionally, the module dependency graph can be emitted as a diagnostic remark (using <code>-Rmodules-driver</code>) in the form of a DOT graph:</p><figure><img src="https://blog.llvm.org/img/gsoc2025-modules-driver-graphviz.svg" alt="Modules Driver Graph Remark"></figure><p>Regular translation units are able to import both Clang and C++20 named modules. However, importing a Clang module into a C++20 named module interface unit, or vice versa, is not yet supported.</p><h2 id="future-work">Future work</h2><p>While basic examples using modules compile correctly, there are still many command-line options and input configurations that are incompatible or may break the modules driver in unexpected ways. In the near term, I plan to fix the draft&rsquo;s remaining quirks, land this feature, and make it more robust.</p><p>In addition, the modules driver should gain support for caching precompiled module files, since caching is one of the core strengths of modules and makes up for the initial overhead they add.</p><p>In the longer term, support for imports between different kinds of module units should also be added. Because of the current design of Clang’s dependency scanning tooling, however, allowing C++20 named modules to be imported into Clang modules would require deeper architectural changes.</p><h2 id="acknowledgements">Acknowledgements</h2><p>I’d like to thank my mentor, Michael Spencer, for his invaluable help and guidance, as well as the GSoC and LLVM project admins for making this experience possible.</p><h2 id="links-to-all-prs-and-rfcs">Links to all PRs and RFCs</h2><p>Over the course of this project, I&rsquo;ve submitted the following PRs and RFCs:</p><details> <summary> Contributions </summary><p><strong>Project related</strong></p><ul><li><a href="https://github.com/llvm/llvm-project/pull/156248">#156248</a> Add initial support for driver-managed module builds.</li><li><a href="https://github.com/llvm/llvm-project/pull/155450">#155450</a> Relocate previous work due to changes in the modules driver design.</li><li><a href="https://github.com/llvm/llvm-project/pull/149900">#149900</a> Adds scanner to detect C++20 module usage.</li><li><a href="https://github.com/llvm/llvm-project/pull/148674">#148674</a> Fixes a lexing error in the dependency scanning tooling&rsquo;s scanner.</li><li><a href="https://github.com/llvm/llvm-project/pull/148685">#148685</a> Fixes a lexing error in the dependency scanning tooling&rsquo;s scanner.</li><li><a href="https://github.com/llvm/llvm-project/pull/152811">#152811</a> Allow GraphWriter specialization required for DOT graph remark.</li><li><a href="https://github.com/llvm/llvm-project/pull/145857">#145857</a> Adds support for a test for <code>clang-scan-deps</code> on Windows.</li><li><a href="https://github.com/llvm/llvm-project/pull/145221">#145221</a> Adds C++20 named module outputs to the scanning format <code>experimental-full</code> to enable combined scanning of both module kinds.</li><li><a href="https://github.com/llvm/llvm-project/pull/143950">#143950</a> Implements P2223R2 for the dependency scanning tooling&rsquo;s scanner.</li><li><a href="https://github.com/llvm/llvm-project/pull/142455">#142455</a> (NFC) Moves argument handling: Driver::BuildActions -&gt; handleArguments</li><li><a href="https://github.com/llvm/llvm-project/pull/155523">#155523</a> (NFC) Removes dead code in the dependency scanning tooling.</li></ul><p><strong>Misc. contributions</strong></p><ul><li><a href="https://github.com/llvm/llvm-project/pull/145243">#145243</a> Implements P2223R2 for <code>clang-format</code></li><li><a href="https://github.com/llvm/llvm-project/pull/141695">#141230</a> Fixes crash related to octal floating-point literals</li><li><a href="https://github.com/llvm/llvm-project/pull/139457">#139457</a> Fixes crash related to command line handling of source locations.</li></ul></details><details> <summary> RFCs </summary><ul><li><a href="https://discourse.llvm.org/t/rfc-modules-support-simple-c-20-modules-use-from-the-clang-driver-without-a-build-system/86456?u=naveen-seth">RFC: Support simple C++20 modules use from the Clang driver without a build system</a></li><li><a href="https://discourse.llvm.org/t/rfc-driver-link-the-driver-against-clangdependencyscanning-clangast-clangfrontend-clangserialization-and-clanglex/87469?u=naveen-seth">RFC: Link the Driver against clangDependencyScanning</a></li></ul></details>]]>
-      </description>
-      <source:markdown>Hi, my name is Naveen. For Google Summer of Code 2025, I’ve been working on adding native support for simple Clang and C++20 named module use from the Clang driver.This post outlines the project and its current status.
-
-My mentor for this project was Michael Spencer.
-
-## Background
-
-Modules solve many of the long-standing problems with the traditional header-based way of sharing code.
-
-They prevent leaking macros, let you explicitly choose what to export, and can improve compile time at scale.
-
-However, because modules must be precompiled before use, builds that rely on them need to schedule compilations in the right order, according to their imports.
-
-At the moment, Clang’s driver lacks native support to do this, which makes even simple tests or tiny programs using modules hard to compile without first setting up a build system.
-
-## Goals
-
-The goal of this project is to extend the build system in Clang’s driver to natievly support simple use of Clang or C++20 named modules, by integrating Clang’s existing support for module dependency scanning.
-
-This should also support importing the C++ Standard library modules `std` and `std.compat`, and add no overhead to cases where modules are not used.
-
-With the feature fully implemented, the following example should compile without any issue:
-
-```bash
- clang++ -std=c++23 main.cpp A.cpp -fmodules-driver -fmodules -fmodule-map-file=module.modulemap
-```
-
-```cpp
-// main.cpp#include &#34;MyLib.h&#34;import std;import A;auto main() -&#62; int { std::println(&#34;{}&#34;, make_greeting(&#34;modules&#34;)); std::println(&#34;The answer is: {}&#34;, get_answer());}
-```
-
-```cpp
-// A.cppexport module A;import std;export auto make_greeting(std::string_view Name) -&#62; std::string { return std::format(&#34;Hello, {}!&#34;, Name);}
-```
-
-```cpp
-// module.modulemapmodule MyLib { header &#34;MyLib.h&#34; export *}
-```
-
-```cpp
-// MyLib.hauto get_answer() -&#62; int { return 42; }
-```
-
-Although one of the main advantages of modules is that they can be precompiled once and reused for future uses, support for caching was not included in the scope of this GSoC project.
-
-## Design Overview &#38; Challenges
-
-![Modules Driver Design](https://blog.llvm.org/img/gsoc2025-modules-driver-design.webp)
-
-### 1\. Check: Enable the Modules Driver?
-
-Once stabilized, the driver-managed module build feature should be enabled automatically for compilations which make use of C++20 named modules and have two or more source inputs.To detect named‑module usage without adding noticeable overhead to compilations that don’t use modules, we added a fast scanner that inspects the leading lines of a source input for named module directives only.
-
-We measured compile times for building Clang with the check enabled and disabled, and profiled it using perf. The benchmarks show that the check typically makes up less than 0.1% of total compile time ( [full benchmarks](https://github.com/naveen-seth/llvm-dev-cxx-modules-check-benchmark)).
-
-### 2\. Modules Driver Logic
-
-At a high level, the modules driver logic can be summarized as simple as:
-
-(1) scan, (2) plan the build order, and (3) reorder/modify the jobs.
-
-Some parts introduced unique challenges:
-
-#### Handling of the Standard library modules.
-
-Clang’s dependency scanning tooling uses the generated `-cc1` compilation job’s command lines as input. Since we can’t know in advance whether a standard library module will be needed, we always build the jobs for `std` and `std.compat`. During the scanning phase, we only scan those standard library modules if a command-line source input depends on them. If a standard library module ends up unused, we drop its job and carefully remove its outputs from the linker command line.
-
-#### Propagating scan diagnostics
-
-After completing the dependency scan, we want to forward all diagnostics generated by the scan through the driver’s diagnostics engine.Because those diagnostics are generated outside the driver’s own invocation, they become invalid once the scan process ends.To prevent this, we serialize each scan diagnostic into an intermediate representation and deserialize it back into a regular diagnostic before emitting it.
-
-## Outcome
-
-The current upstream draft for this feature (see [here](https://github.com/llvm/llvm-project/pull/156248)) can successfully compile examples that use both C++20 named modules and Clang modules. Importing Standard Library modules is also supported, and the example above compiles without issues.
-
-Additionally, the module dependency graph can be emitted as a diagnostic remark (using `-Rmodules-driver`) in the form of a DOT graph:
-
-![Modules Driver Graph Remark](https://blog.llvm.org/img/gsoc2025-modules-driver-graphviz.svg)
-
-Regular translation units are able to import both Clang and C++20 named modules. However, importing a Clang module into a C++20 named module interface unit, or vice versa, is not yet supported.
-
-## Future work
-
-While basic examples using modules compile correctly, there are still many command-line options and input configurations that are incompatible or may break the modules driver in unexpected ways. In the near term, I plan to fix the draft’s remaining quirks, land this feature, and make it more robust.
-
-In addition, the modules driver should gain support for caching precompiled module files, since caching is one of the core strengths of modules and makes up for the initial overhead they add.
-
-In the longer term, support for imports between different kinds of module units should also be added. Because of the current design of Clang’s dependency scanning tooling, however, allowing C++20 named modules to be imported into Clang modules would require deeper architectural changes.
-
-## Acknowledgements
-
-I’d like to thank my mentor, Michael Spencer, for his invaluable help and guidance, as well as the GSoC and LLVM project admins for making this experience possible.
-
-## Links to all PRs and RFCs
-
-Over the course of this project, I’ve submitted the following PRs and RFCs:
-
- Contributions
-
-**Project related**
-
-- [#156248](https://github.com/llvm/llvm-project/pull/156248) Add initial support for driver-managed module builds.
-- [#155450](https://github.com/llvm/llvm-project/pull/155450) Relocate previous work due to changes in the modules driver design.
-- [#149900](https://github.com/llvm/llvm-project/pull/149900) Adds scanner to detect C++20 module usage.
-- [#148674](https://github.com/llvm/llvm-project/pull/148674) Fixes a lexing error in the dependency scanning tooling’s scanner.
-- [#148685](https://github.com/llvm/llvm-project/pull/148685) Fixes a lexing error in the dependency scanning tooling’s scanner.
-- [#152811](https://github.com/llvm/llvm-project/pull/152811) Allow GraphWriter specialization required for DOT graph remark.
-- [#145857](https://github.com/llvm/llvm-project/pull/145857) Adds support for a test for `clang-scan-deps` on Windows.
-- [#145221](https://github.com/llvm/llvm-project/pull/145221) Adds C++20 named module outputs to the scanning format `experimental-full` to enable combined scanning of both module kinds.
-- [#143950](https://github.com/llvm/llvm-project/pull/143950) Implements P2223R2 for the dependency scanning tooling’s scanner.
-- [#142455](https://github.com/llvm/llvm-project/pull/142455) (NFC) Moves argument handling: Driver::BuildActions -&#62; handleArguments
-- [#155523](https://github.com/llvm/llvm-project/pull/155523) (NFC) Removes dead code in the dependency scanning tooling.
-
-**Misc. contributions**
-
-- [#145243](https://github.com/llvm/llvm-project/pull/145243) Implements P2223R2 for `clang-format`
-- [#141230](https://github.com/llvm/llvm-project/pull/141695) Fixes crash related to octal floating-point literals
-- [#139457](https://github.com/llvm/llvm-project/pull/139457) Fixes crash related to command line handling of source locations.
-
- RFCs
-
-- [RFC: Support simple C++20 modules use from the Clang driver without a build system](https://discourse.llvm.org/t/rfc-modules-support-simple-c-20-modules-use-from-the-clang-driver-without-a-build-system/86456?u=naveen-seth)
-- [RFC: Link the Driver against clangDependencyScanning](https://discourse.llvm.org/t/rfc-driver-link-the-driver-against-clangdependencyscanning-clangast-clangfrontend-clangserialization-and-clanglex/87469?u=naveen-seth)</source:markdown>
-      <guid>cid://https://blog.llvm.org/posts/2025-08-gsoc-modules-driver/</guid>
-    </item>    <item>
-      <title>Language Support for Marginalia Search</title>
-      <link>https://www.marginalia.nu/log/a_126_multilingual/</link>
-      <description>
-        <![CDATA[One of the big ambitions for the search engine this year has been to enable searching in more languages than English, and a pilot project for this has just been completed, allowing experimental support for German, French and Swedish.
-        These changes are now live for testing, but with an extremely small corpus of documents.
-        As the search engine has been up to this point built with English in mind, some anglo-centric assumptions made it into its code.]]>
-      </description>
-      <source:markdown>One of the big ambitions for the search engine this year has been to enable searching in more languages than English, and a pilot project for this has just been completed, allowing experimental support for German, French and Swedish.
-These changes are now live for testing, but with an extremely small corpus of documents.
-As the search engine has been up to this point built with English in mind, some anglo-centric assumptions made it into its code.</source:markdown>
-      <author>kontakt@marginalia.nu (Viktor Lofgren)</author>
-      <guid>cid://https://www.marginalia.nu/log/a_126_multilingual/</guid>
-    </item>    <item>
-      <title>your-newsletter-now-has-a-qr-code</title>
-      <link>https://buttondown.com/blog/2025-10-06</link>
-      <description>
-        <![CDATA[Your newsletter now has a QR code]]>
-      </description>
-      <source:markdown>Your newsletter now has a QR code</source:markdown>
     </item>
   </channel>
 </rss>
