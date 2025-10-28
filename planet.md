@@ -23,12 +23,12 @@ title: Planet News
 # PBS (U.S. public broadcasting service)
 
 - [PBS World Podcast](https://www.pbs.org/newshour/feeds/rss/podcasts/world)
+
 # European Uniln
 
-- [De Spiegel](https://www.spiegel.de/schlagzeilen/index.rss)
 
 # Vatican
 
-- [Vatican Obervatory](https://www.vaticanobservatory.org/feed/)
 - [Vatican News](https://www.vaticannews.va/en.rss.xml)
+- [Vatican Obervatory](https://www.vaticanobservatory.org/feed/)
 

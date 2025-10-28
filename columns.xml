@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>28 Oct 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>28 Oct 25 15:43 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,23 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Well, that didn’t work</title>
+      <link>https://doc.searls.com/2025/10/28/19611/</link>
+      <description>
+        <![CDATA[I had a whole post that disappeared. This is where it would have been. The categories give a little away. Live and re-learn.]]>
+      </description>
+      <source:markdown>I had a whole post that disappeared. This is where it would have been. The categories give a little away. Live and re-learn.</source:markdown>
+      <guid>cid://https://doc.searls.com/2025/10/28/19611/</guid>
+    </item>    <item>
+      <title>This week&#39;s TO SHARE video</title>
+      <link>https://robertreich.substack.com/p/this-weeks-to-share-video</link>
+      <description>
+        <![CDATA[Why it's urgent to vote YES on California Proposition 50]]>
+      </description>
+      <source:markdown>Why it&#39;s urgent to vote YES on California Proposition 50</source:markdown>
+      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/A4HxgFNrHK8" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/this-weeks-to-share-video</guid>
     </item>    <item>
       <title>Published on Citation Needed: &#34;Issue 95 – The pardon was the payoff&#34;</title>
       <link>https://citationneeded.news/issue-95</link>
