@@ -4,17 +4,33 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>28 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>28 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>A new fellowship is all about putting the news in news creator</title>
+      <link>https://www.niemanlab.org/2025/10/a-new-fellowship-is-all-about-putting-the-news-in-news-creator/</link>
+      <description>
+        <![CDATA[It’s impossible to ignore how much social media and independent journalism have become part of the global news landscape. According to Pew, one in five Americans say they regularly get their news from an influencer; that number jumps to more than a third of Americans under thirty. A new Muck Rack report says a third...]]>
+      </description>
+      <source:markdown>It’s impossible to ignore how much social media and independent journalism have become part of the global news landscape. According to Pew, one in five Americans say they regularly get their news from an influencer; that number jumps to more than a third of Americans under thirty. A new Muck Rack report says a third...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=244295</guid>
+    </item>    <item>
+      <title>News creators get more attention in countries where traditional media struggles</title>
+      <link>https://www.niemanlab.org/2025/10/news-creators-get-more-attention-in-countries-where-traditional-media-struggles/</link>
+      <description>
+        <![CDATA[Legacy news media has long competed for audience with social media sites, video platforms, and streaming services. But a newer competitor — news creators — is pulling and retaining audiences in countries where mainstream media is struggling to keep them. A report published Tuesday by the Reuters Institute for the Study of Journalism (RISJ) identified...]]>
+      </description>
+      <source:markdown>Legacy news media has long competed for audience with social media sites, video platforms, and streaming services. But a newer competitor — news creators — is pulling and retaining audiences in countries where mainstream media is struggling to keep them. A report published Tuesday by the Reuters Institute for the Study of Journalism (RISJ) identified...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=244306</guid>
+    </item>    <item>
       <title>Alum’s short film brings a book to life</title>
       <link>https://dailytrojan.com/2025/10/28/alums-short-film-brings-a-book-to-life/</link>
       <description>
-        <![CDATA[<p>“Blooky: The Book Who Wanted to Be Found” portrays the struggle of finding purpose and community.</p>
+        <![CDATA[<p>“Blooky: The Book Who Wanted to Be Read” portrays the struggle of finding purpose and community.</p>
         <p>The post <a href="https://dailytrojan.com/2025/10/28/alums-short-film-brings-a-book-to-life/">Alum’s short film brings a book to life</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
-      <source:markdown>“Blooky: The Book Who Wanted to Be Found” portrays the struggle of finding purpose and community.
+      <source:markdown>“Blooky: The Book Who Wanted to Be Read” portrays the struggle of finding purpose and community.
 
 The post [Alum’s short film brings a book to life](https://dailytrojan.com/2025/10/28/alums-short-film-brings-a-book-to-life/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=242749</guid>

@@ -4,10 +4,159 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>28 Oct 25 11:11 -0700</lastBuildDate>
+    <lastBuildDate>28 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>This is Doom, running headless, on Ubuntu Arm… on a satellite</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/28/doom_running_in_space/</link>
+      <description>
+        <![CDATA[<h4>Ólafur Waage has an unusual take on &#34;will it run Doom?&#34;</h4> <p><strong>Ubuntu Summit</strong>  Doom takes place on Mars, but up until recently, it has only been played on Earth. However, at the Ubuntu Summit, one enterprising developer explained how he extended the well-established &#34;will it run Doom?&#34; meme all the way into space.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Ólafur Waage has an unusual take on &#34;will it run Doom?&#34;
+
+**Ubuntu Summit**  Doom takes place on Mars, but up until recently, it has only been played on Earth. However, at the Ubuntu Summit, one enterprising developer explained how he extended the well-established &#34;will it run Doom?&#34; meme all the way into space.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242711</guid>
+    </item>    <item>
+      <title>Soziale Netze werden versuchen, Unter-16-jährige Australier auszuschließen</title>
+      <link>https://www.heise.de/news/Soziale-Netze-werden-versuchen-Unter-16-jaehrige-Australier-auszuschliessen-10962304.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Meta Platforms, Snap und Tiktok beugen sich dem australischen Kinderbann. Das Ziel des Verbots werde dadurch aber nicht erreicht.]]>
+      </description>
+      <source:markdown>Meta Platforms, Snap und Tiktok beugen sich dem australischen Kinderbann. Das Ziel des Verbots werde dadurch aber nicht erreicht.</source:markdown>
+      <guid>cid://http://heise.de/-10962304</guid>
+    </item>    <item>
+      <title>Nvidia, Oracle to build 7 supercomputers for Department of Energy, including its largest ever</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/28/nvidia_oracle_supercomputers_doe/</link>
+      <description>
+        <![CDATA[<h4>100,000 Blackwell GPUs and 2,200 exaFLOPs make for a big system</h4> <p>The US Department of Energy is partnering with Nvidia and Oracle to build seven new AI supercomputers to accelerate scientific research and develop agentic AI for discovery. Two of these systems, located at Argonne National Laboratory, will together form the DOE&#39;s largest AI supercomputing infrastructure.…</p>]]>
+      </description>
+      <source:markdown>#### 100,000 Blackwell GPUs and 2,200 exaFLOPs make for a big system
+
+The US Department of Energy is partnering with Nvidia and Oracle to build seven new AI supercomputers to accelerate scientific research and develop agentic AI for discovery. Two of these systems, located at Argonne National Laboratory, will together form the DOE&#39;s largest AI supercomputing infrastructure.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242713</guid>
+    </item>    <item>
+      <title>For Two Days Each Year, These Drab Brown Toads Turn a Dazzling Neon Yellow—and Scientists Finally Know Why</title>
+      <link>https://www.smithsonianmag.com/smart-news/for-two-days-each-year-these-drab-brown-toads-turn-dazzling-neon-yellow-and-scientists-finally-know-why-180987587/</link>
+      <description>
+        <![CDATA[When monsoon rains begin to fall on the Indian subcontinent, Asian common toads congregate at temporary puddles for a frenzied, two-day mating spree]]>
+      </description>
+      <source:markdown>When monsoon rains begin to fall on the Indian subcontinent, Asian common toads congregate at temporary puddles for a frenzied, two-day mating spree</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/OkY9iqUAvQRV_cNcZqgFKbPsf_s=/420x240/filters:focal(1083x794:1084x795)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a0/1d/a01de789-0ed5-4a3f-ba02-b31ebbf84b7b/img-z3-1_517.jpg" length="" type="" />
+    </item>    <item>
+      <title>OpenIndiana 2025.10 released</title>
+      <link>https://www.osnews.com/story/143655/openindiana-2025-10-released/</link>
+      <description>
+        <![CDATA[OpenIndiana, the Illumos distribution for general use, has released its latest snapshot release, and there&#8217;s some really interesting things in there. To refresh your memory: Illumos is a fork of the final OpenSolaris release, based on Solaris 11, before Oracle closed Solaris back up. It&#8217;s been in development ever since that fateful day back in 2010, and several Illumos distributions with unique identities have sprung up around the project. OpenIndiana is one of them, and functions like a rolling release with a snapshot release every six months. OpenIndiana 2025.10 was released today, and this snapshot&#8217;s changelog covers changes over the past six months. It comes with all the latest open source packages you would expect, like the latest or at least very recent versions of Firefox, Thunderbird, LibreOffice, and much more, but the GNOME version (44.4 from 2023) is definitely a bit outdated. There&#8217;s a ton new utilities written in Rust, and the usual bug and security fixes as well, like for crucial utilities such as OpenSSL and OpenSSH, and things like Python versions 3.14 3.13, 3.12, and 3.9. A particularly interesting bullet point is maintenance work and improvements for Sun Ray support, and the changelog notes that these little thin clients are still popular among their users. I&#8217;m very deep into the world of Sun Rays at the moment, so reading that you can still use them through OpenIndiana is amazingly cool. There&#8217;s a Sun Ray metapackage that installs the necessary base components, allowing you to install Sun&#8217;s/Oracle&#8217;s original Sun Ray Server software on OpenIndiana. Even though MATE is the default desktop for OpenIndiana, the Sun Ray Server software does depend on a few GNOME components, so those will be pulled in. I&#8217;ve definitely put this on my list, once I&#8217;m done with my current Sun Ray deep dive on Solaris 10. If you&#8217;re interested in SPARC support, there&#8217;s quite a few machines that do work with the SPARC version of OpenIndiana, and recently, there&#8217;s been a lot of progress on this front. Running the SPARC version on various servers can work, but desktop use, say, on a Sun Ultra 45, is a bit more problematic due to boot issues and a lack of graphics drivers. The work is ongoing, though, and there&#8217;s been a ton of renewed interest.]]>
+      </description>
+      <source:markdown>OpenIndiana, the Illumos distribution for general use, has released its latest snapshot release, and there’s some really interesting things in there. To refresh your memory: Illumos is a fork of the final OpenSolaris release, based on Solaris 11, before Oracle closed Solaris back up. It’s been in development ever since that fateful day back in 2010, and several Illumos distributions with unique identities have sprung up around the project. OpenIndiana is one of them, and functions like a rolling release with a snapshot release every six months. OpenIndiana 2025.10 was released today, and this snapshot’s changelog covers changes over the past six months. It comes with all the latest open source packages you would expect, like the latest or at least very recent versions of Firefox, Thunderbird, LibreOffice, and much more, but the GNOME version (44.4 from 2023) is definitely a bit outdated. There’s a ton new utilities written in Rust, and the usual bug and security fixes as well, like for crucial utilities such as OpenSSL and OpenSSH, and things like Python versions 3.14 3.13, 3.12, and 3.9. A particularly interesting bullet point is maintenance work and improvements for Sun Ray support, and the changelog notes that these little thin clients are still popular among their users. I’m very deep into the world of Sun Rays at the moment, so reading that you can still use them through OpenIndiana is amazingly cool. There’s a Sun Ray metapackage that installs the necessary base components, allowing you to install Sun’s/Oracle’s original Sun Ray Server software on OpenIndiana. Even though MATE is the default desktop for OpenIndiana, the Sun Ray Server software does depend on a few GNOME components, so those will be pulled in. I’ve definitely put this on my list, once I’m done with my current Sun Ray deep dive on Solaris 10. If you’re interested in SPARC support, there’s quite a few machines that do work with the SPARC version of OpenIndiana, and recently, there’s been a lot of progress on this front. Running the SPARC version on various servers can work, but desktop use, say, on a Sun Ultra 45, is a bit more problematic due to boot issues and a lack of graphics drivers. The work is ongoing, though, and there’s been a ton of renewed interest.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143655</guid>
+    </item>    <item>
+      <title>See How Manet and Morisot&#39;s Creative Friendship Influenced Their Artistic Styles</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-how-manet-and-morisots-creative-friendship-influenced-their-artistic-styles-180987574/</link>
+      <description>
+        <![CDATA[A new exhibition in San Francisco reframes the complicated relationship between two renowned 19th-century French artists]]>
+      </description>
+      <source:markdown>A new exhibition in San Francisco reframes the complicated relationship between two renowned 19th-century French artists</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/7DwCDarikS3Jr6sL-FoRnQWH8hA=/420x240/filters:focal(1500x1129:1501x1130)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/76/01/7601d17d-b70c-4334-87c5-873a1af9eb66/morisot_ext_303422_20241118.jpg" length="" type="" />
+    </item>    <item>
+      <title>How MCP and AI are Modernizing Legacy Systems</title>
+      <link>https://thenewstack.io/how-mcp-and-ai-are-modernizing-legacy-systems/</link>
+      <description>
+        <![CDATA[<img width="1024" height="731" src="https://cdn.thenewstack.io/media/2025/10/7e8a8fc0-modernize-1024x731.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="An escalator used to represent a way to escalate modernization." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/7e8a8fc0-modernize.jpg" /><p>In many large enterprises, a hidden divide defines the technology landscape, creating a two-speed IT organization. On one side, modern,</p>
+        <p>The post <a href="https://thenewstack.io/how-mcp-and-ai-are-modernizing-legacy-systems/">How MCP and AI are Modernizing Legacy Systems</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![An escalator used to represent a way to escalate modernization.](https://cdn.thenewstack.io/media/2025/10/7e8a8fc0-modernize-1024x731.jpg)
+
+In many large enterprises, a hidden divide defines the technology landscape, creating a two-speed IT organization. On one side, modern,
+
+The post [How MCP and AI are Modernizing Legacy Systems](https://thenewstack.io/how-mcp-and-ai-are-modernizing-legacy-systems/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804520</guid>
+    </item>    <item>
+      <title>Softwarelizenzen: Bei Microsoft wechselt die Ampel auf Grün, Broadcom bleibt Rot</title>
+      <link>https://www.heise.de/news/Softwarelizenzen-Bei-Microsoft-wechselt-die-Ampel-auf-Gruen-Broadcom-bleibt-Rot-10962204.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das 3. europäische Wettbewerbsbarometer von Cloud-Anbietern unterstreicht verschärfte Probleme bei Broadcom. Lizenzbedingungen von SAP geben Anlass zur Sorge.]]>
+      </description>
+      <source:markdown>Das 3. europäische Wettbewerbsbarometer von Cloud-Anbietern unterstreicht verschärfte Probleme bei Broadcom. Lizenzbedingungen von SAP geben Anlass zur Sorge.</source:markdown>
+      <guid>cid://http://heise.de/-10962204</guid>
+    </item>    <item>
+      <title>Nvidia adds AI peanut butter to Nokia&#39;s 6G network chocolate, throws in $1 billion</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/28/nvidia_nokia_partnership_6g/</link>
+      <description>
+        <![CDATA[<h4>The pair intends to develop cellular infrastructure for running edge AI workloads</h4> <p>Nvidia CEO Jensen Huang on Tuesday announced a partnership with Nokia to integrate AI technology into its mobile network infrastructure, bringing accelerated computing to the edge and paving the way for 6G-ready networks. As part of the deal, Nvidia will invest $1 billion in Nokia. Team Green&#39;s gear will boost spectral efficiency and make AI inference more accessible from mobile devices.…</p>]]>
+      </description>
+      <source:markdown>#### The pair intends to develop cellular infrastructure for running edge AI workloads
+
+Nvidia CEO Jensen Huang on Tuesday announced a partnership with Nokia to integrate AI technology into its mobile network infrastructure, bringing accelerated computing to the edge and paving the way for 6G-ready networks. As part of the deal, Nvidia will invest $1 billion in Nokia. Team Green&#39;s gear will boost spectral efficiency and make AI inference more accessible from mobile devices.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242712</guid>
+    </item>    <item>
+      <title>Windows to automatically suggest a memory scan after a blue screen</title>
+      <link>https://www.osnews.com/story/143653/windows-to-automatically-suggest-a-memory-scan-after-a-blue-screen/</link>
+      <description>
+        <![CDATA[Microsoft is introducing a new feature in Windows to better deal with blue screens of death. In the release notes for Windows 11 Insider Preview Build 26220.6982 (Dev Channel), the company detailed that after a user experiences a blue screen, Windows will automatically perform a memory scan. We’re introducing a new feature that helps improve system reliability. If your PC experiences a bugcheck (unexpected restart), you may see a notification when signing in suggesting a quick memory scan. If you choose to run it, the system will schedule a Windows Memory Diagnostic scan to run during your next reboot (taking 5 minutes or less on average) and then continue to Windows. If a memory issue is found and mitigated, you will see a notification post-reboot. ↫ Amanda Langowski at the Windows Blogs In its current iteration, this memory scan will trigger after every single error code to collect as much data as possible, but Microsoft states it will refine and narrow the number of error codes in the future. In addition, this feature will not be available on Arm64 and systems with Administrator Protection and/or BitLocker without Secure Boot. Let&#8217;s hope this feature won&#8217;t be a nuisance, but an actually useful feature that helps people uncover memory problems that otherwise remain undiagnosed.]]>
+      </description>
+      <source:markdown>Microsoft is introducing a new feature in Windows to better deal with blue screens of death. In the release notes for Windows 11 Insider Preview Build 26220.6982 (Dev Channel), the company detailed that after a user experiences a blue screen, Windows will automatically perform a memory scan. We’re introducing a new feature that helps improve system reliability. If your PC experiences a bugcheck (unexpected restart), you may see a notification when signing in suggesting a quick memory scan. If you choose to run it, the system will schedule a Windows Memory Diagnostic scan to run during your next reboot (taking 5 minutes or less on average) and then continue to Windows. If a memory issue is found and mitigated, you will see a notification post-reboot. ↫ Amanda Langowski at the Windows Blogs In its current iteration, this memory scan will trigger after every single error code to collect as much data as possible, but Microsoft states it will refine and narrow the number of error codes in the future. In addition, this feature will not be available on Arm64 and systems with Administrator Protection and/or BitLocker without Secure Boot. Let’s hope this feature won’t be a nuisance, but an actually useful feature that helps people uncover memory problems that otherwise remain undiagnosed.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143653</guid>
+    </item>    <item>
+      <title>Weiße Flecken: Funklöcher halb so groß wie Schleswig-Holstein</title>
+      <link>https://www.heise.de/news/Weisse-Flecken-Funkloecher-halb-so-gross-wie-Schleswig-Holstein-10962212.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Mit einer Übersicht der Funklöcher in Deutschland will das Digitalministerium den Rahmen für deren Schließung abstecken. Doch oft ist das nicht so einfach.]]>
+      </description>
+      <source:markdown>Mit einer Übersicht der Funklöcher in Deutschland will das Digitalministerium den Rahmen für deren Schließung abstecken. Doch oft ist das nicht so einfach.</source:markdown>
+      <guid>cid://http://heise.de/-10962212</guid>
+    </item>    <item>
+      <title>Earth Is Getting Dimmer—and the Northern Hemisphere Is Losing Brightness Faster Than Scientists Expected</title>
+      <link>https://www.smithsonianmag.com/smart-news/earth-is-getting-dimmer-and-the-northern-hemisphere-is-losing-brightness-faster-than-scientists-expected-180987578/</link>
+      <description>
+        <![CDATA[New research challenges the idea that the hemispheres' matching brightness is a fundamental property of the planet]]>
+      </description>
+      <source:markdown>New research challenges the idea that the hemispheres&#39; matching brightness is a fundamental property of the planet</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ms1jIlpVBHzrN8aSrcLXkOdgIV0=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ba/c3/bac33cad-7454-4786-a9b1-cf6d179b297a/smithsonian_feature_images.png" length="" type="" />
+    </item>    <item>
+      <title>Dumm oder mit WLAN &#38; App: Was für eine smarte Waschmaschine ab 300 Euro spricht</title>
+      <link>https://www.heise.de/bestenlisten/ratgeber/dumm-oder-mit-wlan-und-app-was-fuer-eine-smarte-waschmaschine-ab-300-euro-spricht/wq461pv?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[WLAN und App bei der Waschmaschine? In Verbindung mit einem Smart Home kann das nervige Aufgaben erleichtern, Fehler vermeiden und Geld sparen.]]>
+      </description>
+      <source:markdown>WLAN und App bei der Waschmaschine? In Verbindung mit einem Smart Home kann das nervige Aufgaben erleichtern, Fehler vermeiden und Geld sparen.</source:markdown>
+      <guid>cid://http://heise.de/-10962087</guid>
+    </item>    <item>
+      <title>1,1 Milliarden Euro in Dresden: Globalfoundries auch als Nexperia-Ersatz</title>
+      <link>https://www.heise.de/news/Europaeische-Chips-auch-fuer-Ruestung-Merz-besucht-Globalfoundries-10962192.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Globalfoundries baut sein Dresdener Halbleiterwerk für 1,1 Milliarden Euro aus und will auch von der aktuellen Chip-Lieferkrise profitieren.]]>
+      </description>
+      <source:markdown>Globalfoundries baut sein Dresdener Halbleiterwerk für 1,1 Milliarden Euro aus und will auch von der aktuellen Chip-Lieferkrise profitieren.</source:markdown>
+      <guid>cid://http://heise.de/-10962192</guid>
+    </item>    <item>
+      <title>Android malware types like your gran to steal banking creds</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/28/android_malware_randomly_delays_texts/</link>
+      <description>
+        <![CDATA[<h4>By appearing more human, it evades detection</h4> <p>A new Android malware strain, Herodotus, steals credentials, logs keystrokes, streams victims&#39; screens, and hijacks input - but with a twist: it mimics human typing by adding random delays between keystrokes to evade behavioral fraud detection systems.…</p>]]>
+      </description>
+      <source:markdown>#### By appearing more human, it evades detection
+
+A new Android malware strain, Herodotus, steals credentials, logs keystrokes, streams victims&#39; screens, and hijacks input - but with a twist: it mimics human typing by adding random delays between keystrokes to evade behavioral fraud detection systems.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242710</guid>
+    </item>    <item>
+      <title>Python Software Foundation has bigger spine than big tech</title>
+      <link>https://www.osnews.com/story/143643/python-software-foundation-has-bigger-spine-than-big-tech/</link>
+      <description>
+        <![CDATA[Back in January 2025, the Python Software Foundation applied for a $1.5 million grant from the US government&#8217;s National Science Foundation, under the Safety, Security, and Privacy of Open Source Ecosystems program, to address structural vulnerabilities in Python and PyPI. After a lot of paperwork, their application was approved, but upon receiving the contractual agreement, the Python Software Foundation decided to back out. Why? We became concerned, however, when we were presented with the terms and conditions we would be required to agree to if we accepted the grant. These terms included affirming the statement that we “do not, and will not during the term of this financial assistance award, operate any programs that advance or promote DEI, or discriminatory equity ideology in violation of Federal anti-discrimination laws.” This restriction would apply not only to the security work directly funded by the grant, but to any and all activity of the PSF as a whole. Further, violation of this term gave the NSF the right to “claw back” previously approved and transferred funds. This would create a situation where money we’d already spent could be taken back, which would be an enormous, open-ended financial risk.  In the end, however, the PSF simply can’t agree to a statement that we won’t operate any programs that “advance or promote” diversity, equity, and inclusion, as it would be a betrayal of our mission and our community. ↫ Loren Crary at the PSF blog The fact that this is news at all is a deeply sad state of affairs, but it&#8217;s great to see at least some organisations in tech still have a spine. In a world where tech giants and their sleazy CEOs are falling over each other to lather the US president in bribes and tasteless gifts, it&#8217;s refreshing to see someone passing up on what would be an enormous amount of money for them. The PSF operates on a budget of $5 million a year, so $1.5 million would be a massive boon for the effort. The efforts of the PSF regarding outreach have been incredibly successful over the years. PyCon US had 1% female speakers in 2011, 7% in 2012, 15% in 2013, 33% in both 2014 and 2015, and 40% in 2016. &#8220;DEI&#8221; efforts usually just mean the gruntwork of reaching out to members of underrepresented groups within your community, and ensuring they feel welcome, safe, and respected. Monocultures tend to be self-destructive, whether we&#8217;re talking about operating systems or people. Having perspectives from people with different backgrounds, different life experiences, and different approaches is a massive net benefit to your organisation. Making efforts to foster such environments illegal is absolute batshit insanity, and I&#8217;m glad that unlike cowards like Tim Cook or Sundar Pichai, the Python Software Foundation has a spine and is standing up for what&#8217;s right.]]>
+      </description>
+      <source:markdown>Back in January 2025, the Python Software Foundation applied for a $1.5 million grant from the US government’s National Science Foundation, under the Safety, Security, and Privacy of Open Source Ecosystems program, to address structural vulnerabilities in Python and PyPI. After a lot of paperwork, their application was approved, but upon receiving the contractual agreement, the Python Software Foundation decided to back out. Why? We became concerned, however, when we were presented with the terms and conditions we would be required to agree to if we accepted the grant. These terms included affirming the statement that we “do not, and will not during the term of this financial assistance award, operate any programs that advance or promote DEI, or discriminatory equity ideology in violation of Federal anti-discrimination laws.” This restriction would apply not only to the security work directly funded by the grant, but to any and all activity of the PSF as a whole. Further, violation of this term gave the NSF the right to “claw back” previously approved and transferred funds. This would create a situation where money we’d already spent could be taken back, which would be an enormous, open-ended financial risk. In the end, however, the PSF simply can’t agree to a statement that we won’t operate any programs that “advance or promote” diversity, equity, and inclusion, as it would be a betrayal of our mission and our community. ↫ Loren Crary at the PSF blog The fact that this is news at all is a deeply sad state of affairs, but it’s great to see at least some organisations in tech still have a spine. In a world where tech giants and their sleazy CEOs are falling over each other to lather the US president in bribes and tasteless gifts, it’s refreshing to see someone passing up on what would be an enormous amount of money for them. The PSF operates on a budget of $5 million a year, so $1.5 million would be a massive boon for the effort. The efforts of the PSF regarding outreach have been incredibly successful over the years. PyCon US had 1% female speakers in 2011, 7% in 2012, 15% in 2013, 33% in both 2014 and 2015, and 40% in 2016. “DEI” efforts usually just mean the gruntwork of reaching out to members of underrepresented groups within your community, and ensuring they feel welcome, safe, and respected. Monocultures tend to be self-destructive, whether we’re talking about operating systems or people. Having perspectives from people with different backgrounds, different life experiences, and different approaches is a massive net benefit to your organisation. Making efforts to foster such environments illegal is absolute batshit insanity, and I’m glad that unlike cowards like Tim Cook or Sundar Pichai, the Python Software Foundation has a spine and is standing up for what’s right.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143643</guid>
+    </item>    <item>
+      <title>These Creepy Dolls Are on the Loose, Haunting the Halls of a Minnesota Museum This Halloween</title>
+      <link>https://www.smithsonianmag.com/smart-news/these-creepy-dolls-are-on-the-loose-haunting-the-halls-of-a-minnesota-museum-this-halloween-180987580/</link>
+      <description>
+        <![CDATA[To mark its seventh annual Creepy Doll Contest, the History Center of Olmsted County is inviting its vintage toy dolls to act as "amateur curators" and roam freely through its collections]]>
+      </description>
+      <source:markdown>To mark its seventh annual Creepy Doll Contest, the History Center of Olmsted County is inviting its vintage toy dolls to act as &#34;amateur curators&#34; and roam freely through its collections</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/-KMKtf9UfSibsATHL1qJCarVklc=/420x240/filters:focal(640x482:641x483)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/25/24/2524b9b4-2c51-4119-a9fd-2449ff6e39ba/doll-2731568_1280.jpg" length="" type="" />
+    </item>    <item>
       <title>Digitalministerium testet europäische digitale Identität zusammen mit der BundID</title>
       <link>https://www.heise.de/news/Digitalministerium-testet-europaeische-digitale-Identitaet-zusammen-mit-der-BundID-10962145.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
@@ -24,7 +173,7 @@
       <source:markdown>Apple stemmt sich gegen die Interoperabilitätsvorgaben der EU. Es bleibt nur noch wenig Zeit für erste konkrete Umsetzungsschritte in iOS 26. Eine Übersicht.</source:markdown>
       <guid>cid://http://heise.de/-10962109</guid>
     </item>    <item>
-      <title>Glasfaser: Digitalminister bringt alle ein einen Tisch</title>
+      <title>Glasfaser: Digitalminister bringt alle an einen Tisch</title>
       <link>https://www.heise.de/news/Digitalminister-macht-Netzausbau-zur-Chefsache-10962149.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
         <![CDATA[Im Dialog mit der Branche und den Kommunen will Digitalminister Wildberger den Netzausbau nun endlich voranbringen. Die Branche gibt sich optimistisch.]]>
@@ -45,7 +194,7 @@ OpenAI wants the Trump administration to build 100 gigawatts of additional elect
       <title>Fast, Rust-Based Zed Code Editor Finally Arrives on Windows</title>
       <link>https://thenewstack.io/fast-rust-based-zed-code-editor-finally-arrives-on-windows/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/7705cd31-ashkan-forouzani-zsy6suvzxfo-unsplashb-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Windows laptop" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/7705cd31-ashkan-forouzani-zsy6suvzxfo-unsplashb.jpg" /><p>Zed, the &#8220;next-generation&#8221; code editor from the creators of Atom and Tree-sitter, has finally arrived on Windows. Zed is a</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/7705cd31-ashkan-forouzani-zsy6suvzxfo-unsplashb-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Windows laptop" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/7705cd31-ashkan-forouzani-zsy6suvzxfo-unsplashb.jpg" /><p>Zed, the &#8220;next-generation&#8221; code editor from the creators of Atom and Tree-sitter, has finally arrived on Windows. Zed is a</p>
         <p>The post <a href="https://thenewstack.io/fast-rust-based-zed-code-editor-finally-arrives-on-windows/">Fast, Rust-Based Zed Code Editor Finally Arrives on Windows</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![Windows laptop](https://cdn.thenewstack.io/media/2025/10/7705cd31-ashkan-forouzani-zsy6suvzxfo-unsplashb-1024x576.jpg)
@@ -855,11 +1004,9 @@ Micro-OLED displays with 1080p (1920x1080) resolution have been around for a few
       <title>Python Foundation goes ride or DEI, rejects government grant with strings attached</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/27/python_foundation_abandons_15m_nsf/</link>
       <description>
-        <![CDATA[<h4>Foundation says it won&#39;t compromise policy of inclusivity even if that cash would&#39;ve really helped</h4> <p>The Python Software Foundation (PSF) has walked away from a $1.5 million government grant and you can blame the Trump administration&#39;s war on woke for effectively weakening some open source security. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+        <![CDATA[<h4>Foundation says it won&#39;t compromise policy of inclusivity even if that cash would&#39;ve really helped</h4> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
-      <source:markdown>#### Foundation says it won&#39;t compromise policy of inclusivity even if that cash would&#39;ve really helped
-
-The Python Software Foundation (PSF) has walked away from a $1.5 million government grant and you can blame the Trump administration&#39;s war on woke for effectively weakening some open source security. …</source:markdown>
+      <source:markdown>#### Foundation says it won&#39;t compromise policy of inclusivity even if that cash would&#39;ve really helped</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242685</guid>
     </item>    <item>
       <title>You Can Now Take a Stroll Down Jean-Michel Basquiat Way in New York City</title>

@@ -4,7 +4,7 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>28 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>28 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -128,7 +128,7 @@ The post [Guest Post — Replacing Public Doubt with Public Confidence: Experime
         <![CDATA[A young woman is found dead under mysterious circumstances, and the discovery of a single but significant clue ends up uncovering more than anyone could have expected.]]>
       </description>
       <source:markdown>A young woman is found dead under mysterious circumstances, and the discovery of a single but significant clue ends up uncovering more than anyone could have expected.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/carolyn-wells/the-clue/downloads/carolyn-wells_the-clue.epub?source=feed" length="568844" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/carolyn-wells/the-clue/downloads/carolyn-wells_the-clue.epub?source=feed" length="568850" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/carolyn-wells/the-clue</guid>
     </item>    <item>
       <title>Shape the future of OpenCitations: take our Community Survey</title>
@@ -708,7 +708,7 @@ The post [Welcoming a New Chef in the Kitchen and Saying Thanks to a Few Departi
         <![CDATA[An indolent detective gets a case which leads him to suspect a hitherto untouchable criminal.]]>
       </description>
       <source:markdown>An indolent detective gets a case which leads him to suspect a hitherto untouchable criminal.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/george-dilnot/the-lazy-detective/downloads/george-dilnot_the-lazy-detective.epub?source=feed" length="548084" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/george-dilnot/the-lazy-detective/downloads/george-dilnot_the-lazy-detective.epub?source=feed" length="548109" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/george-dilnot/the-lazy-detective</guid>
     </item>    <item>
       <title>The Seagull, by Anton Chekhov</title>

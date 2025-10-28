@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>28 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>28 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,98 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Published on Citation Needed: &#34;Issue 95 – The pardon was the payoff&#34;</title>
+      <link>https://citationneeded.news/issue-95</link>
+      <guid>cid://69013c201ecb9eb40d8c85ac</guid>
+    </item>    <item>
+      <title>This is Doom, running headless, on Ubuntu Arm… on a satellite</title>
+      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/10/28/doom_running_in_space/</link>
+      <description>
+        <![CDATA[<h4><span class="label">Ubuntu Summit</span> Ólafur Waage has an unusual take on &#34;will it run Doom?&#34;</h4>
+              <p>Doom takes place on Mars, but up until recently, it has only been played on Earth. However, at the Ubuntu Summit, one enterprising developer explained how he extended the well-established &#34;will it run Doom?&#34; meme all the way into space.</p>]]>
+      </description>
+      <source:markdown>#### Ubuntu Summit Ólafur Waage has an unusual take on &#34;will it run Doom?&#34;
+
+Doom takes place on Mars, but up until recently, it has only been played on Earth. However, at the Ubuntu Summit, one enterprising developer explained how he extended the well-established &#34;will it run Doom?&#34; meme all the way into space.</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242711</guid>
+    </item>    <item>
+      <title>Trump Admin’s Racist Halo Memes Are ‘A New Level of Dehumanization of Immigrants’</title>
+      <link>https://www.404media.co/trump-admins-racist-halo-memes-are-a-new-level-of-dehumanization-of-immigrants/</link>
+      <description>
+        <![CDATA["The White House just marked the end of the console wars; DHS is posting deep fried Halo memes. We are somewhere else entirely."]]>
+      </description>
+      <source:markdown>&#34;The White House just marked the end of the console wars; DHS is posting deep fried Halo memes. We are somewhere else entirely.&#34;</source:markdown>
+      <guid>cid://69013142b03958000185fcdd</guid>
+    </item>    <item>
+      <title>★ Thoughts, Observations, and Links Regarding ChatGPT Atlas</title>
+      <link>https://daringfireball.net/2025/10/thoughts_observations_and_links_regarding_chatgpt_atlas</link>
+      <description>
+        <![CDATA[Most people’s primary computing devices are their phones — and even for people whose primary devices are desktop computers, their phones are much-used satellite devices. And on both iOS and Android alike, people live their mobile digital lives through native apps, not websites.]]>
+      </description>
+      <source:markdown>Most people’s primary computing devices are their phones — and even for people whose primary devices are desktop computers, their phones are much-used satellite devices. And on both iOS and Android alike, people live their mobile digital lives through native apps, not websites.</source:markdown>
+      <guid>cid://tag:daringfireball.net,2025://1.42325</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/28.html#a194324</link>
+      <description>
+        <![CDATA[I checked out Elon Musk's <a href="https://en.wikipedia.org/wiki/Grokipedia">answer</a> to Wikipedia by going to the pages on <a href="https://grokipedia.com/page/Wikipedia">his site</a> that Wikipedia mangles the most. It looks like they basically copied Wikipedia, so it's no better or worse. They'll probably be able to improve it, because ChatGPT tells a much closer to actual-events story. Getting the story right, is more important imho than keeping democracy open to trolls.]]>
+      </description>
+      <source:markdown>I checked out Elon Musk&#39;s [answer](https://en.wikipedia.org/wiki/Grokipedia) to Wikipedia by going to the pages on [his site](https://grokipedia.com/page/Wikipedia) that Wikipedia mangles the most. It looks like they basically copied Wikipedia, so it&#39;s no better or worse. They&#39;ll probably be able to improve it, because ChatGPT tells a much closer to actual-events story. Getting the story right, is more important imho than keeping democracy open to trolls.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/28.html#a194324</guid>
+    </item>    <item>
+      <link>https://www.theatlantic.com/politics/archive/2025/10/canada-us-foreign-policy-trump/684719/?gift=f35zZN0v_gDFE8xNwlQAHarxgsf8KbwKKHzxNoBJMzk&#38;utm_source=copy-link&#38;utm_medium=social&#38;utm_campaign=share</link>
+      <description>
+        <![CDATA[<p>Canada Needs a New Bestie.</p>]]>
+      </description>
+      <source:markdown>Canada Needs a New Bestie.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/28/1723/</guid>
+    </item>    <item>
+      <link>https://wordpress.com/blog/2025/10/28/food-blog-examples/</link>
+      <description>
+        <![CDATA[<p>11 Delicious Food Blog Examples to Savor and Learn From.</p>]]>
+      </description>
+      <source:markdown>11 Delicious Food Blog Examples to Savor and Learn From.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/28/1721/</guid>
+    </item>    <item>
+      <title>On the frontier of caring</title>
+      <link>https://doc.searls.com/2025/10/28/on-the-frontier-of-caring/</link>
+      <description>
+        <![CDATA[Adopt a Station is a way to compensate for the funding lost to US public radio stations when the CPB shut down. No state is more dependent on public radio, or hurt by lost CPB funding, than Alaska. Here is a table of all the stations there, with graphs showing how much lost funding they [&#8230;]]]>
+      </description>
+      <source:markdown>Adopt a Station is a way to compensate for the funding lost to US public radio stations when the CPB shut down. No state is more dependent on public radio, or hurt by lost CPB funding, than Alaska. Here is a table of all the stations there, with graphs showing how much lost funding they \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2025/10/28/on-the-frontier-of-caring/</guid>
+    </item>    <item>
+      <title>AirTrafficDevice: Ignored, Reluctantly Fixed, No CVE, No Bounty</title>
+      <link>https://mjtsai.com/blog/2025/10/28/airtrafficdevice-ignored-reluctantly-fixed-no-cve-no-bounty/</link>
+      <description>
+        <![CDATA[Rosyna Keller: I wholly and utterly believe in the principle behind Apple&#8217;s App Tracking Transparency initiative. I therefore consider anything that is both uniquely tied to a user andavailable when &#8220;Allow Apps to Request to Track&#8220; is disabled to be a gross violation of the spirit of App Tracking Transparency.[&#8230;]While Apple has fixed 3-4 (search [&#8230;]]]>
+      </description>
+      <source:markdown>Rosyna Keller: I wholly and utterly believe in the principle behind Apple’s App Tracking Transparency initiative. I therefore consider anything that is both uniquely tied to a user andavailable when “Allow Apps to Request to Track“ is disabled to be a gross violation of the spirit of App Tracking Transparency.\[…\]While Apple has fixed 3-4 (search \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49819</guid>
+    </item>    <item>
+      <title>Reddit Sues SerpApi</title>
+      <link>https://mjtsai.com/blog/2025/10/28/reddit-sues-serpapi/</link>
+      <description>
+        <![CDATA[Mike Isaac (PDF): Practically overnight, a class of companies like SerpApi &#8212; known as &#8220;data scrapers&#8221; &#8212; found a new business selling data scraped from Google to companies looking to train their A.I. chatbots. On Wednesday, the internet message board Reddit decided to fight the data scrapers. It filed a lawsuit in the U.S. District [&#8230;]]]>
+      </description>
+      <source:markdown>Mike Isaac (PDF): Practically overnight, a class of companies like SerpApi — known as “data scrapers” — found a new business selling data scraped from Google to companies looking to train their A.I. chatbots. On Wednesday, the internet message board Reddit decided to fight the data scrapers. It filed a lawsuit in the U.S. District \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49817</guid>
+    </item>    <item>
+      <title>“LG” Spotlight Indexing Bug</title>
+      <link>https://mjtsai.com/blog/2025/10/28/lg-spotlight-indexing-bug/</link>
+      <description>
+        <![CDATA[Howard Oakley: There&#8217;s a bug in Spotlight that can prevent it from indexing any of the contents of susceptible text files. This has been present since macOS 13 Ventura if not before, and is still present in Tahoe 26.0.1. [&#8230;] To demonstrate this bug, all you need is a single UTF-8 plain text file, created [&#8230;]]]>
+      </description>
+      <source:markdown>Howard Oakley: There’s a bug in Spotlight that can prevent it from indexing any of the contents of susceptible text files. This has been present since macOS 13 Ventura if not before, and is still present in Tahoe 26.0.1. \[…\] To demonstrate this bug, all you need is a single UTF-8 plain text file, created \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49815</guid>
+    </item>    <item>
+      <title>a16z Is Funding a &#39;Speedrun&#39; to AI-Generated Hell on Earth</title>
+      <link>https://www.404media.co/a16z-is-funding-a-speedrun-to-ai-generated-hell-on-earth/</link>
+      <description>
+        <![CDATA[Do you want ‘AI-powered social orbits,’ ‘autonomous recruiting firms,’ and an ‘AI-powered credit card?’ Too bad, you’re getting them anyway.]]>
+      </description>
+      <source:markdown>Do you want ‘AI-powered social orbits,’ ‘autonomous recruiting firms,’ and an ‘AI-powered credit card?’ Too bad, you’re getting them anyway.</source:markdown>
+      <guid>cid://69010676b03958000185f425</guid>
     </item>    <item>
       <link>https://www.theatlantic.com/magazine/archive/2025/12/2026-midterms-trump-threat/684615/?gift=hVZeG3M9DnxL4CekrWGK3-2SrhMTxvxvr23JppEIh0U</link>
       <description>
@@ -231,6 +323,10 @@ Tags: [github](https://simonwillison.net/tags/github), [hardware-hacking](https:
       </description>
       <source:markdown>Ted Geisel, the doctor best known for spreading the gospel of green eggs and ham, has a deep bench of classic kid’s books. Dr. Seuss gave us cats in hats and star-bellied sneetches. He gave some of us our first</source:markdown>
       <guid>cid://https://lithub.com/?p=261883</guid>
+    </item>    <item>
+      <title>Note published on October 28, 2025 at 4:33 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202510281232</link>
+      <guid>cid://6900f0661ecb9eb40d8c856f</guid>
     </item>    <item>
       <title>&#60;default:div xmlns=&#34;http://www.w3.org/1999/xhtml&#34; class=&#34;if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14&#34;/&#62;</title>
       <link>https://tantek.com/2025/301/t1/hacktoberfest-registered-badge</link>
@@ -545,6 +641,13 @@ Remember to check back in 2029 when Backblaze plans to return to this issue.</so
       <source:markdown>The family of a dead teen girl said she&#39;d still be alive if Roblox did a better job moderating its platform.</source:markdown>
       <guid>cid://6900c35fdbf2dc00011ef834</guid>
     </item>    <item>
+      <link>https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/</link>
+      <description>
+        <![CDATA[<p>Sorry TechCrunch there's no new security risks in giving OpenAI or Perplexity the same access to our accounts that we already give Google. Someone ought to fact-check these articles at least at a basic level.</p>]]>
+      </description>
+      <source:markdown>Sorry TechCrunch there&#39;s no new security risks in giving OpenAI or Perplexity the same access to our accounts that we already give Google. Someone ought to fact-check these articles at least at a basic level.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/28/1715/</guid>
+    </item>    <item>
       <link>http://scripting.com/2019/10/28/140358.html</link>
       <description>
         <![CDATA[<p>On this day in 2019: 'Lock Him Up' is very American.</p>]]>
@@ -821,6 +924,10 @@ Tags: [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-progr
       </description>
       <source:markdown>To see if this works with my blog. If it does stay tuned for more. Okay, I’ve been posting more, above. More importantly, I’m back in the groove with Wordland. I’d stopped while waiting for a new WordPress theme that would be friendlier to Wordland.  I haven’t moved to that theme, but Wordland is working. \[…\]</source:markdown>
       <guid>cid://https://doc.searls.com/2025/10/27/a-test/</guid>
+    </item>    <item>
+      <title>Project goals for 2025H2</title>
+      <link>https://blog.rust-lang.org/2025/10/28/project-goals-2025h2/</link>
+      <guid>cid://https://blog.rust-lang.org/2025/10/28/project-goals-2025h2/</guid>
     </item>    <item>
       <title>HMAC-based security for webhooks</title>
       <link>https://buttondown.com/blog/2025-10-28</link>
@@ -3294,7 +3401,7 @@ An inch more tasteful than Trump, but Trumpian at their core.</source:markdown>
         <p>As a writer I want most is every bit of writing I’ve published turned into any kind of book I want at any time.</p>
         <p>An example of a book lurking in the archive of my blog.</p>
         <p><i>A user’s guide to FeedLand.</i></p>
-        <p>Knowing the AI would pull a users manual together on command, I��d feel more comfortable writing about it on my blog. As it is there’s a lot of good info between other blog posts.</p>
+        <p>Knowing the AI would pull a users manual together on command, I’d feel more comfortable writing about it on my blog. As it is there’s a lot of good info between other blog posts.</p>
         <p>I think it’s a great time to invest in new ideas for writers. </p>
         <p>I have pretty good search on my blog, but so much more is possible.</p>
         <p>Imagine a series of book types you could ask your AI friend to build for you from your own writing. </p>
@@ -3309,7 +3416,7 @@ An example of a book lurking in the archive of my blog.
 
 _A user’s guide to FeedLand._
 
-Knowing the AI would pull a users manual together on command, I��d feel more comfortable writing about it on my blog. As it is there’s a lot of good info between other blog posts.
+Knowing the AI would pull a users manual together on command, I’d feel more comfortable writing about it on my blog. As it is there’s a lot of good info between other blog posts.
 
 I think it’s a great time to invest in new ideas for writers.
 
@@ -3321,13 +3428,6 @@ Eventually all user&#39;s guides will be assembled by AI. In the case of softwar
 
 And of course the first docs to be produced that way would be _A user&#39;s guide to WordPress._</source:markdown>
       <guid>cid://http://scripting.com/2025/10/25/123208.html</guid>
-    </item>    <item>
-      <link>https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/</link>
-      <description>
-        <![CDATA[<p>The security risks with AI browser agents.</p>]]>
-      </description>
-      <source:markdown>The security risks with AI browser agents.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/25/1669/</guid>
     </item>    <item>
       <link>https://roberthubbell.substack.com/p/lets-teach-trump-a-lesson-voter-suppression?r=fhcm&#38;utm_medium=ios&#38;triedRedirect=true</link>
       <description>
@@ -4557,6 +4657,10 @@ Reply via:
       <source:markdown>Claude introduces memory for teams at work.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/23/1635/</guid>
     </item>    <item>
+      <title>Note published on October 23, 2025 at 5:33 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202510231332</link>
+      <guid>cid://68fa67021ecb9eb40d8c850e</guid>
+    </item>    <item>
       <title>Recovering videos from my Sony camera that I stupidly deleted</title>
       <link>https://www.jeffgeerling.com/blog/2025/recovering-videos-my-sony-camera-i-stupidly-deleted</link>
       <description>
@@ -4608,6 +4712,10 @@ Jeff GeerlingOctober 23, 2025</source:markdown>
       </description>
       <source:markdown>The first application of enteral ventilation—aka breathing through the bum—to humans proved the technique is safe.</source:markdown>
       <guid>cid://68fa4b03dbf2dc0001154f38</guid>
+    </item>    <item>
+      <title>Note published on October 23, 2025 at 3:36 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202510231129</link>
+      <guid>cid://68fa4b831ecb9eb40d8c8492</guid>
     </item>    <item>
       <title>What Former CDC Director Tom Frieden Wants You to Know About Better Health</title>
       <link>https://guykawasaki.substack.com/p/what-former-cdc-director-tom-frieden</link>
@@ -5952,6 +6060,10 @@ Tags: [security](https://simonwillison.net/tags/security), [ai](https://simonwil
       <source:markdown>Crispy Crunchy Computerware (Mastodon): I wanted to go back to a simpler time. I wanted a music app that gives me easy access to my music – organized the way I want – and provides a comfortable, peaceful environment to listen to it. I wanted an app that provides an abundance of useful tools, but \[…\]</source:markdown>
       <guid>cid://https://mjtsai.com/blog/?p=49733</guid>
     </item>    <item>
+      <title>Note published on October 22, 2025 at 7:49 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202510221548</link>
+      <guid>cid://68f935541ecb9eb40d8c843f</guid>
+    </item>    <item>
       <title>Five signs that Generative AI is losing traction</title>
       <link>https://garymarcus.substack.com/p/five-signs-that-generative-ai-is</link>
       <description>
@@ -6000,6 +6112,10 @@ Tags: [security](https://simonwillison.net/tags/security), [ai](https://simonwil
       </description>
       <source:markdown>Still [looking](https://github.com/scripting/Scripting-News/issues/332) for more great WordPress news sites.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/22.html#a173901</guid>
+    </item>    <item>
+      <title>Note published on October 22, 2025 at 5:36 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202510221331</link>
+      <guid>cid://68f916181ecb9eb40d8c83e0</guid>
     </item>    <item>
       <title>What Steve Jobs got right (and what he didn’t)</title>
       <link>https://guykawasaki.substack.com/p/what-steve-jobs-got-right-and-what</link>

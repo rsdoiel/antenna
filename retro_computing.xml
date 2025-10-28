@@ -4,10 +4,43 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>28 Oct 25 11:11 -0700</lastBuildDate>
+    <lastBuildDate>28 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Fedora 43 Has Finally Landed</title>
+      <link>http://www.linux-magazine.com/Online/News/Fedora-43-Has-Finally-Landed</link>
+      <description>
+        <![CDATA[<p>The Fedora Linux developers have announced their latest release, Fedora 43.</p>]]>
+      </description>
+      <source:markdown>The Fedora Linux developers have announced their latest release, Fedora 43.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://7e83216e095ba5044bda2408607b285a</guid>
+    </item>    <item>
+      <title>Packet Drivers Collection for FreeDOS</title>
+      <link>https://sourceforge.net/p/freedos/news/2025/10/packet-drivers-collection-for-freedos/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>In 1986 FTP Software Inc. created the PC/TCP Packet Driver specification which defined an API for sending and receiving packets over networking devices. Inside the packet driver is code to talk to a specific piece of hardware. That hardware might be a network adapter, an Ethernet chipset connected through the parallel port, or even just a plain serial port. A packet driver makes the hardware and network accessible in an easy manner. Omar Yabar has collected a ton of DOS-era packet drivers in one place, so you can easily download the one you want. Find them at the <a class="" href="https://packetdriversdos.net/" rel="nofollow">Packet Drivers Collection</a>. We can't include these in the FreeDOS distribution because they are not open source, but we <em>really</em> appreciate the hard work Omar has done to collect these for DOS fans to use!</p></div>]]>
+      </description>
+      <source:markdown>In 1986 FTP Software Inc. created the PC/TCP Packet Driver specification which defined an API for sending and receiving packets over networking devices. Inside the packet driver is code to talk to a specific piece of hardware. That hardware might be a network adapter, an Ethernet chipset connected through the parallel port, or even just a plain serial port. A packet driver makes the hardware and network accessible in an easy manner. Omar Yabar has collected a ton of DOS-era packet drivers in one place, so you can easily download the one you want. Find them at the [Packet Drivers Collection](https://packetdriversdos.net/). We can&#39;t include these in the FreeDOS distribution because they are not open source, but we _really_ appreciate the hard work Omar has done to collect these for DOS fans to use!</source:markdown>
+      <guid>cid://https://sourceforge.net6c2cb03c54dcdd28217ff9f4366ff7df2108c7eb</guid>
+    </item>    <item>
+      <title>NASM 3.01</title>
+      <link>https://sourceforge.net/p/freedos/news/2025/10/nasm-301/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>NASM is the Netwide Assembler, an open source assembler for the x86 CPU architecture, including DOS. There's a new update available now: version 3.01 mostly <a class="" href="https://www.nasm.us/docs/3.01/nasmac.html" rel="nofollow">contains fixes</a> such as: * The condition after %if or %elif would be evaluated while output is suppressed after %exitrep or %exitmacro * Fix encoding of TCVTROWPS2PHL * The unofficial but obvious alternate form TEST reg,mem was not accepted by NASM 3.00 * A new %selbits() preprocessor function and command line option * Define additional permissive patterns and fix several opcode bugs * Fix parsing of two-operand forms of x87 instructions * And other fixes. See the <a class="" href="https://www.nasm.us/docs/3.01/nasmac.html" rel="nofollow">NASM documentation</a> for more. Download the new version from <a class="" href="https://www.nasm.us/pub/nasm/releasebuilds/3.01/" rel="nofollow">the official releasebuilds 3.01</a></p></div>]]>
+      </description>
+      <source:markdown>NASM is the Netwide Assembler, an open source assembler for the x86 CPU architecture, including DOS. There&#39;s a new update available now: version 3.01 mostly [contains fixes](https://www.nasm.us/docs/3.01/nasmac.html) such as: \* The condition after %if or %elif would be evaluated while output is suppressed after %exitrep or %exitmacro \* Fix encoding of TCVTROWPS2PHL \* The unofficial but obvious alternate form TEST reg,mem was not accepted by NASM 3.00 \* A new %selbits() preprocessor function and command line option \* Define additional permissive patterns and fix several opcode bugs \* Fix parsing of two-operand forms of x87 instructions \* And other fixes. See the [NASM documentation](https://www.nasm.us/docs/3.01/nasmac.html) for more. Download the new version from [the official releasebuilds 3.01](https://www.nasm.us/pub/nasm/releasebuilds/3.01/)</source:markdown>
+      <guid>cid://https://sourceforge.net781b3ce5b3a9848489ffaf36d2b242b1c84d4d38</guid>
+    </item>    <item>
+      <title>FDNPKG16 ver. 0.99.8249</title>
+      <link>https://sourceforge.net/p/freedos/news/2025/10/fdnpkg16-ver-0998249/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>FreeDOS developer 'sparky4' has been working on an updated version of the FreeDOS package manager, FDNPKG16, which runs as a 16-bit program. There's a new release to try out, here are the release notes (slightly edited for readability): "Merged fdnpkg16 and fdnpkg86 to one program that uses httpget externally. too many issues with them separate and running like before. The older fdnpkg16 will eat memory and you cannot install hundreds of packages when it eats memory (6400) every time it called httpget, so I call it in an external simple program. Note: this does break international support for that particular area. There's a problem in fdnpkg86 with downloading files - on my recently acquired Toshiba T1200 system, it just takes too long, like over 2 hours for it to fail. But this should work now on all systems with more than 480kB of memory." You can get the latest version at <a class="" href="https://github.com/sparky4/fdnpkg16/releases" rel="nofollow">FDNPKG16 releases on GitHub</a> or more directly from <a class="" href="https://github.com/sparky4/fdnpkg16/releases/tag/0.99.8249" rel="nofollow">FDNPKG16 ver. 0.99.8249</a>.</p></div>]]>
+      </description>
+      <source:markdown>FreeDOS developer &#39;sparky4&#39; has been working on an updated version of the FreeDOS package manager, FDNPKG16, which runs as a 16-bit program. There&#39;s a new release to try out, here are the release notes (slightly edited for readability): &#34;Merged fdnpkg16 and fdnpkg86 to one program that uses httpget externally. too many issues with them separate and running like before. The older fdnpkg16 will eat memory and you cannot install hundreds of packages when it eats memory (6400) every time it called httpget, so I call it in an external simple program. Note: this does break international support for that particular area. There&#39;s a problem in fdnpkg86 with downloading files - on my recently acquired Toshiba T1200 system, it just takes too long, like over 2 hours for it to fail. But this should work now on all systems with more than 480kB of memory.&#34; You can get the latest version at [FDNPKG16 releases on GitHub](https://github.com/sparky4/fdnpkg16/releases) or more directly from [FDNPKG16 ver. 0.99.8249](https://github.com/sparky4/fdnpkg16/releases/tag/0.99.8249).</source:markdown>
+      <guid>cid://https://sourceforge.net66ecb49da7d1ea809f0df0f0fe42d1dfe258b01c</guid>
+    </item>    <item>
       <title>Archive Edition 27:6 reviewed</title>
       <link>http://www.iconbar.com/comments/rss/news2253.html</link>
       <description>
