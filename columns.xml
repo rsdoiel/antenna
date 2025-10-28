@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>28 Oct 25 06:11 -0700</lastBuildDate>
+    <lastBuildDate>28 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -38,12 +38,526 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <link>https://www.theatlantic.com/magazine/archive/2025/12/2026-midterms-trump-threat/684615/?gift=hVZeG3M9DnxL4CekrWGK3-2SrhMTxvxvr23JppEIh0U</link>
+      <description>
+        <![CDATA[<p>Donald Trump’s Plan to Subvert the Midterms Is Already Under Way.</p>]]>
+      </description>
+      <source:markdown>Donald Trump’s Plan to Subvert the Midterms Is Already Under Way.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/28/1717/</guid>
+    </item>    <item>
+      <title>Hacking the WiFi-enabled color screen GitHub Universe conference badge</title>
+      <link>https://simonwillison.net/2025/Oct/28/github-universe-badge/#atom-everything</link>
+      <description>
+        <![CDATA[<p>I'm at <a href="https://githubuniverse.com/">GitHub Universe</a> this week (thanks to a free ticket from Microsoft). Yesterday I picked up my conference badge... which incorporates a full Raspberry Pi with a battery, color screen, WiFi and bluetooth.</p>
+        <p>GitHub Universe has a tradition of hackable conference badges - the badge last year had an eInk display. This year's is a huge upgrade though - a color screen and WiFI connection makes this thing a genuinely useful little computer!</p>
+        <p><img src="https://static.simonwillison.net/static/2025/gitub-universe-badge.jpg" alt="Photo of the badge - it has a color screen with six app icons" style="max-width: 100%;" /></p>
+        <p>The only thing it's missing is a keyboard - the device instead provides five buttons total - Up, Down, A, B, C. It might be possible to get a bluetooth keyboard to work though I'll believe that when I see it - there's not a lot of space on this device for a keyboard driver.</p>
+        <p>Everything is written using MicroPython, and the device is designed to be hackable: connect it to a laptop with a USB-C cable and you can start modifying the code directly on the device.</p>
+        <h4 id="getting-setup-with-the-badge">Getting setup with the badge</h4>
+        <p>Out of the box the badge will play an opening animation (implemented as a sequence of PNG image frames) and then show a home screen with six app icons.</p>
+        <p>The default apps are mostly neat Octocat-themed demos: a flappy-bird clone, a tamagotchi-style pet, a drawing app that works like an etch-a-sketch, an IR scavenger hunt for the conference venue itself (this thing has an IR sensor too!), and a gallery app showing some images.</p>
+        <p>The sixth app is a badge app. This will show your GitHub profile image and some basic stats, but will only work if you dig out a USB-C cable and make some edits to the files on the badge directly.</p>
+        <p>I did this on a Mac. I plugged a USB-C cable into the badge which caused MacOS to treat it as an attached drive volume. In that drive are several files including <code>secrets.py</code>. Open that up, confirm the WiFi details are correct and add your GitHub username. The file should look like this:</p>
+        <pre><span class="pl-c1">WIFI_SSID</span> <span class="pl-c1">=</span> <span class="pl-s">"..."</span>
+        <span class="pl-c1">WIFI_PASSWORD</span> <span class="pl-c1">=</span> <span class="pl-s">"..."</span>
+        <span class="pl-c1">GITHUB_USERNAME</span> <span class="pl-c1">=</span> <span class="pl-s">"simonw"</span></pre>
+        <p>The badge comes with the SSID and password for the GitHub Universe WiFi network pre-populated.</p>
+        <p>That's it! Unmount the disk, hit the reboot button on the back of the badge and when it comes back up again the badge app should look something like this:</p>
+        <p><img src="https://static.simonwillison.net/static/2025/badge-profile.jpg" alt="Badge shows my GitHub avatar, plus 10,947 followers, 4,083 contribs, 893 repos" style="max-width: 100%;" /></p>
+        <h4 id="building-your-own-apps">Building your own apps</h4>
+        <p>Here's <a href="https://badger.github.io/">the official documentation</a> for building software for the badge.</p>
+        <p>When I got mine yesterday the official repo had not yet been updated, so I had to figure this out myself.</p>
+        <p>I copied all of the code across to my laptop, added it to a Git repo and then fired up Claude Code and told it:</p>
+        <blockquote>
+        <p><code>Investigate this code and add a detailed README</code></p>
+        </blockquote>
+        <p>Here's <a href="https://github.com/simonw/github-universe-2025-badge/blob/15773c7a53275e7836216c3aa9a8a781c06f7859/README.md">the result</a>, which was really useful for getting a start on understanding how it all worked.</p>
+        <p>Each of the six default apps lives in a <code>apps/</code> folder, for example <a href="https://github.com/simonw/github-universe-2025-badge/tree/main/apps/sketch">apps/sketch/</a> for the sketching app.</p>
+        <p>There's also a menu app which powers the home screen. That lives in <a href="https://github.com/simonw/github-universe-2025-badge/tree/main/apps/menu">apps/menu/</a>. You can edit code in here to add new apps that you create to that screen.</p>
+        <p>I told Claude:</p>
+        <blockquote>
+        <p><code>Add a new app to it available from the menu which shows network status and other useful debug info about the machine it is running on</code></p>
+        </blockquote>
+        <p>This was a bit of a long-shot, but it totally worked!</p>
+        <p>The first version had an error:</p>
+        <p><img src="https://static.simonwillison.net/static/2025/badge-error.jpg" alt="A stacktrace! file badgeware.py line 510 has a list index out of range error." style="max-width: 100%;" /></p>
+        <p>I OCRd that photo (with the Apple Photos app) and pasted the message into Claude Code and it fixed the problem.</p>
+        <p>This almost worked... but the addition of a seventh icon to the 2x3 grid meant that you could select the icon but it didn't scroll into view. I had Claude <a href="https://github.com/simonw/github-universe-2025-badge/commit/2a60f75db101dc1dc7568ff466ad5c97dc86b336">fix that for me too</a>.</p>
+        <p>Here's the code for <a href="https://github.com/simonw/github-universe-2025-badge/blob/main/apps/debug/__init__.py">apps/debug/__init__.py</a>, and <a href="https://gistpreview.github.io/?276d3e0c6566ddbc93adc7020ef6b439">the full Claude Code transcript</a> created using my terminal-to-HTML app <a href="https://simonwillison.net/2025/Oct/23/claude-code-for-web-video/">described here</a>.</p>
+        <p>Here are the four screens of the debug app:</p>
+        <p><img src="https://static.simonwillison.net/static/2025/badge-debug-network.jpg" alt="Network info, showing WiFi network details and IP address" style="max-width: 100%;" /></p>
+        <p><img src="https://static.simonwillison.net/static/2025/badge-debug-storage.jpg" alt="Storage screen, it has 1MB total, 72BK used. Usage 7%. CMD is /system/apps/debug" style="max-width: 100%;" /></p>
+        <p><img src="https://static.simonwillison.net/static/2025/badge-debug-system.jpg" alt="System: Platform rp2, Python 1.26.0, CPU freq 200MHz, Uptime 13m46s" style="max-width: 100%;" /></p>
+        <p><img src="https://static.simonwillison.net/static/2025/badge-debug-memory.jpg" alt="Memory info - 100KB used, 241KB total, and a usage bar. Press B to run GC." style="max-width: 100%;" /></p>
+        <h4 id="an-icon-editor">An icon editor</h4>
+        <p>The icons used on the app are 24x24 pixels. I decided it would be neat to have a web app that helps build those icons, including the ability to start by creating an icon from an emoji.</p>
+        <p>I bulit this one <a href="https://claude.ai/share/ca05bd58-859e-4ceb-b5c7-7428b348df3c">using Claude Artifacts</a>. Here's the result, now available at <a href="https://tools.simonwillison.net/icon-editor">tools.simonwillison.net/icon-editor</a>:</p>
+        <p><img src="https://static.simonwillison.net/static/2025/icon-editor.jpg" alt="A stacktrace! file badgeware.py line 510 has a list index out of range error." style="max-width: 100%;" /></p>
+        <h4 id="and-a-repl">And a REPL</h4>
+        <p>I noticed that last year's badge configuration app (which I can't find in <a href="https://github.com/badger/badger.github.io/">github.com/badger/badger.github.io</a> any more, I think they reset the history on that repo?) worked by talking to MicroPython over the Web Serial API from Chrome. Here's <a href="https://github.com/simonw/2004-badger.github.io/blob/e3501d631a987bfbc12d93c9e35bf2c64e55d052/public/script.js#L305-L394">my archived copy of that code</a>.</p>
+        <p>Wouldn't it be useful to have a REPL in a web UI that you could use to interact with the badge directly over USB?</p>
+        <p>I pointed Claude Code at a copy of that repo and told it:</p>
+        <blockquote>
+        <p><code>Based on this build a new HTML with inline JavaScript page that uses WebUSB to simply test that the connection to the badge works and then list files on that device using the same mechanism</code></p>
+        </blockquote>
+        <p>It took a bit of poking (here's <a href="https://gistpreview.github.io/?13d93a9e3b0ce1c921cd20303f2f1d84">the transcript</a>) but the result is now live at <a href="https://tools.simonwillison.net/badge-repl">tools.simonwillison.net/badge-repl</a>. It only works in Chrome - you'll need to plug the badge in with a USB-C cable and then click "Connect to Badge".</p>
+        <p><img src="https://static.simonwillison.net/static/2025/badge-repl.jpg" alt="Badge Interactive REPL. Note: This tool requires the Web Serial API (Chrome/Edge on desktop). Connect to Badge, Disconnect and Clear Terminal buttons. Then a REPL interface displaying: Ready to connect. Click &quot;Connect to Badge&quot; to start.Traceback (most recent call last):ddae88e91.dirty on 2025-10-20; GitHub Badger with RP2350 Type &quot;help()&quot; for more information.  &gt;&gt;&gt;  MicroPython v1.14-5485.gddae88e91.dirty on 2025-10-20; GitHub Badger with RP2350 Type &quot;help()&quot; for more information. &gt;&gt;&gt; os.listdir() ['icon.py', 'ui.py', 'init.py', '._init.py', '._icon.py'] &gt;&gt;&gt; machine.freq() 200000000 &gt;&gt;&gt; gc.mem_free() 159696 &gt;&gt;&gt; help() Welcome to MicroPython!" style="max-width: 100%;" /></p>
+        <h4 id="get-hacking">Get hacking</h4>
+        <p>If you're a GitHub Universe attendee I hope this is useful. The official <a href="https://badger.github.io/">badger.github.io</a> site has plenty more details to help you get started.</p>
+        <p>There isn't yet a way to get hold of this hardware outside of GitHub Universe - I know they had some supply chain challenges just getting enough badges for the conference attendees!</p>
+        <p>It's a very neat device, built for GitHub by <a href="https://www.pimoroni.com/">Pimoroni</a> in Sheffield, UK. A version of this should become generally available in the future under the name "Pimoroni Tufty 2350".</p>
+            
+                <p>Tags: <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/hardware-hacking">hardware-hacking</a>, <a href="https://simonwillison.net/tags/microsoft">microsoft</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/disclosures">disclosures</a></p>]]>
+      </description>
+      <source:markdown>I&#39;m at [GitHub Universe](https://githubuniverse.com/) this week (thanks to a free ticket from Microsoft). Yesterday I picked up my conference badge... which incorporates a full Raspberry Pi with a battery, color screen, WiFi and bluetooth.
+
+GitHub Universe has a tradition of hackable conference badges - the badge last year had an eInk display. This year&#39;s is a huge upgrade though - a color screen and WiFI connection makes this thing a genuinely useful little computer!
+
+![Photo of the badge - it has a color screen with six app icons](https://static.simonwillison.net/static/2025/gitub-universe-badge.jpg)
+
+The only thing it&#39;s missing is a keyboard - the device instead provides five buttons total - Up, Down, A, B, C. It might be possible to get a bluetooth keyboard to work though I&#39;ll believe that when I see it - there&#39;s not a lot of space on this device for a keyboard driver.
+
+Everything is written using MicroPython, and the device is designed to be hackable: connect it to a laptop with a USB-C cable and you can start modifying the code directly on the device.
+
+#### Getting setup with the badge
+
+Out of the box the badge will play an opening animation (implemented as a sequence of PNG image frames) and then show a home screen with six app icons.
+
+The default apps are mostly neat Octocat-themed demos: a flappy-bird clone, a tamagotchi-style pet, a drawing app that works like an etch-a-sketch, an IR scavenger hunt for the conference venue itself (this thing has an IR sensor too!), and a gallery app showing some images.
+
+The sixth app is a badge app. This will show your GitHub profile image and some basic stats, but will only work if you dig out a USB-C cable and make some edits to the files on the badge directly.
+
+I did this on a Mac. I plugged a USB-C cable into the badge which caused MacOS to treat it as an attached drive volume. In that drive are several files including `secrets.py`. Open that up, confirm the WiFi details are correct and add your GitHub username. The file should look like this:
+
+```
+WIFI_SSID = &#34;...&#34;
+WIFI_PASSWORD = &#34;...&#34;
+GITHUB_USERNAME = &#34;simonw&#34;
+```
+
+The badge comes with the SSID and password for the GitHub Universe WiFi network pre-populated.
+
+That&#39;s it! Unmount the disk, hit the reboot button on the back of the badge and when it comes back up again the badge app should look something like this:
+
+![Badge shows my GitHub avatar, plus 10,947 followers, 4,083 contribs, 893 repos](https://static.simonwillison.net/static/2025/badge-profile.jpg)
+
+#### Building your own apps
+
+Here&#39;s [the official documentation](https://badger.github.io/) for building software for the badge.
+
+When I got mine yesterday the official repo had not yet been updated, so I had to figure this out myself.
+
+I copied all of the code across to my laptop, added it to a Git repo and then fired up Claude Code and told it:
+
+&#62; `Investigate this code and add a detailed README`
+
+Here&#39;s [the result](https://github.com/simonw/github-universe-2025-badge/blob/15773c7a53275e7836216c3aa9a8a781c06f7859/README.md), which was really useful for getting a start on understanding how it all worked.
+
+Each of the six default apps lives in a `apps/` folder, for example [apps/sketch/](https://github.com/simonw/github-universe-2025-badge/tree/main/apps/sketch) for the sketching app.
+
+There&#39;s also a menu app which powers the home screen. That lives in [apps/menu/](https://github.com/simonw/github-universe-2025-badge/tree/main/apps/menu). You can edit code in here to add new apps that you create to that screen.
+
+I told Claude:
+
+&#62; `Add a new app to it available from the menu which shows network status and other useful debug info about the machine it is running on`
+
+This was a bit of a long-shot, but it totally worked!
+
+The first version had an error:
+
+![A stacktrace! file badgeware.py line 510 has a list index out of range error.](https://static.simonwillison.net/static/2025/badge-error.jpg)
+
+I OCRd that photo (with the Apple Photos app) and pasted the message into Claude Code and it fixed the problem.
+
+This almost worked... but the addition of a seventh icon to the 2x3 grid meant that you could select the icon but it didn&#39;t scroll into view. I had Claude [fix that for me too](https://github.com/simonw/github-universe-2025-badge/commit/2a60f75db101dc1dc7568ff466ad5c97dc86b336).
+
+Here&#39;s the code for [apps/debug/\_\_init\_\_.py](https://github.com/simonw/github-universe-2025-badge/blob/main/apps/debug/__init__.py), and [the full Claude Code transcript](https://gistpreview.github.io/?276d3e0c6566ddbc93adc7020ef6b439) created using my terminal-to-HTML app [described here](https://simonwillison.net/2025/Oct/23/claude-code-for-web-video/).
+
+Here are the four screens of the debug app:
+
+![Network info, showing WiFi network details and IP address](https://static.simonwillison.net/static/2025/badge-debug-network.jpg)
+
+![Storage screen, it has 1MB total, 72BK used. Usage 7%. CMD is /system/apps/debug](https://static.simonwillison.net/static/2025/badge-debug-storage.jpg)
+
+![System: Platform rp2, Python 1.26.0, CPU freq 200MHz, Uptime 13m46s](https://static.simonwillison.net/static/2025/badge-debug-system.jpg)
+
+![Memory info - 100KB used, 241KB total, and a usage bar. Press B to run GC.](https://static.simonwillison.net/static/2025/badge-debug-memory.jpg)
+
+#### An icon editor
+
+The icons used on the app are 24x24 pixels. I decided it would be neat to have a web app that helps build those icons, including the ability to start by creating an icon from an emoji.
+
+I bulit this one [using Claude Artifacts](https://claude.ai/share/ca05bd58-859e-4ceb-b5c7-7428b348df3c). Here&#39;s the result, now available at [tools.simonwillison.net/icon-editor](https://tools.simonwillison.net/icon-editor):
+
+![A stacktrace! file badgeware.py line 510 has a list index out of range error.](https://static.simonwillison.net/static/2025/icon-editor.jpg)
+
+#### And a REPL
+
+I noticed that last year&#39;s badge configuration app (which I can&#39;t find in [github.com/badger/badger.github.io](https://github.com/badger/badger.github.io/) any more, I think they reset the history on that repo?) worked by talking to MicroPython over the Web Serial API from Chrome. Here&#39;s [my archived copy of that code](https://github.com/simonw/2004-badger.github.io/blob/e3501d631a987bfbc12d93c9e35bf2c64e55d052/public/script.js#L305-L394).
+
+Wouldn&#39;t it be useful to have a REPL in a web UI that you could use to interact with the badge directly over USB?
+
+I pointed Claude Code at a copy of that repo and told it:
+
+&#62; `Based on this build a new HTML with inline JavaScript page that uses WebUSB to simply test that the connection to the badge works and then list files on that device using the same mechanism`
+
+It took a bit of poking (here&#39;s [the transcript](https://gistpreview.github.io/?13d93a9e3b0ce1c921cd20303f2f1d84)) but the result is now live at [tools.simonwillison.net/badge-repl](https://tools.simonwillison.net/badge-repl). It only works in Chrome - you&#39;ll need to plug the badge in with a USB-C cable and then click &#34;Connect to Badge&#34;.
+
+![Badge Interactive REPL. Note: This tool requires the Web Serial API (Chrome/Edge on desktop). Connect to Badge, Disconnect and Clear Terminal buttons. Then a REPL interface displaying: Ready to connect. Click &#34;Connect to Badge&#34; to start.Traceback (most recent call last):ddae88e91.dirty on 2025-10-20; GitHub Badger with RP2350 Type &#34;help()&#34; for more information.  &#62;&#62;&#62;  MicroPython v1.14-5485.gddae88e91.dirty on 2025-10-20; GitHub Badger with RP2350 Type &#34;help()&#34; for more information. &#62;&#62;&#62; os.listdir() [&#39;icon.py&#39;, &#39;ui.py&#39;, &#39;init.py&#39;, &#39;._init.py&#39;, &#39;._icon.py&#39;] &#62;&#62;&#62; machine.freq() 200000000 &#62;&#62;&#62; gc.mem_free() 159696 &#62;&#62;&#62; help() Welcome to MicroPython!](https://static.simonwillison.net/static/2025/badge-repl.jpg)
+
+#### Get hacking
+
+If you&#39;re a GitHub Universe attendee I hope this is useful. The official [badger.github.io](https://badger.github.io/) site has plenty more details to help you get started.
+
+There isn&#39;t yet a way to get hold of this hardware outside of GitHub Universe - I know they had some supply chain challenges just getting enough badges for the conference attendees!
+
+It&#39;s a very neat device, built for GitHub by [Pimoroni](https://www.pimoroni.com/) in Sheffield, UK. A version of this should become generally available in the future under the name &#34;Pimoroni Tufty 2350&#34;.
+
+Tags: [github](https://simonwillison.net/tags/github), [hardware-hacking](https://simonwillison.net/tags/hardware-hacking), [microsoft](https://simonwillison.net/tags/microsoft), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [claude-code](https://simonwillison.net/tags/claude-code), [disclosures](https://simonwillison.net/tags/disclosures)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/28/github-universe-badge/#atom-everything</guid>
+    </item>    <item>
+      <title>Grokipedia Is the Antithesis of Everything That Makes Wikipedia Good, Useful, and Human</title>
+      <link>https://www.404media.co/grokipedia-is-the-antithesis-of-everything-that-makes-wikipedia-good-useful-and-human/</link>
+      <description>
+        <![CDATA[Grokipedia is not a 'Wikipedia competitor.' It is a fully robotic regurgitation machine designed to protect the ego of the world’s wealthiest man.]]>
+      </description>
+      <source:markdown>Grokipedia is not a &#39;Wikipedia competitor.&#39; It is a fully robotic regurgitation machine designed to protect the ego of the world’s wealthiest man.</source:markdown>
+      <guid>cid://6900f3a9b03958000185ee3f</guid>
+    </item>    <item>
+      <title>Attention, Lorax fans: we’re getting a new Dr. Seuss book.</title>
+      <link>https://lithub.com/attention-lorax-fans-were-getting-a-new-dr-seuss-book/</link>
+      <description>
+        <![CDATA[Ted Geisel, the doctor best known for spreading the gospel of green eggs and ham, has a deep bench of classic kid&#8217;s books. Dr. Seuss gave us cats in hats and star-bellied sneetches. He gave some of us our first]]>
+      </description>
+      <source:markdown>Ted Geisel, the doctor best known for spreading the gospel of green eggs and ham, has a deep bench of classic kid’s books. Dr. Seuss gave us cats in hats and star-bellied sneetches. He gave some of us our first</source:markdown>
+      <guid>cid://https://lithub.com/?p=261883</guid>
+    </item>    <item>
+      <title>&#60;default:div xmlns=&#34;http://www.w3.org/1999/xhtml&#34; class=&#34;if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14&#34;/&#62;</title>
+      <link>https://tantek.com/2025/301/t1/hacktoberfest-registered-badge</link>
+      <guid>cid://https://tantek.com/2025/301/t1/hacktoberfest-registered-badge</guid>
+    </item>    <item>
+      <title>An Abundance of Inspiration</title>
+      <link>https://robinrendle.com/notes/an-abundance-of-inspiration/</link>
+      <guid>cid://https://robinrendle.com/notes/an-abundance-of-inspiration/</guid>
+    </item>    <item>
+      <title>Good news! A new fund will distribute $50 million to literary nonprofits.</title>
+      <link>https://lithub.com/good-news-a-new-fund-will-distribute-50-million-to-literary-nonprofits/</link>
+      <description>
+        <![CDATA[Several charitable groups—among them the Ford, Hawthornden, Lannan, MacArthur, Mellon, and Poetry foundations—are teaming up to launch the Literary Arts Fund, an effort to give the &#8220;essential yet critically underfunded&#8221; lit world a much-needed boost. The program, which earmarks funds]]>
+      </description>
+      <source:markdown>Several charitable groups—among them the Ford, Hawthornden, Lannan, MacArthur, Mellon, and Poetry foundations—are teaming up to launch the Literary Arts Fund, an effort to give the “essential yet critically underfunded” lit world a much-needed boost. The program, which earmarks funds</source:markdown>
+      <guid>cid://https://lithub.com/?p=261878</guid>
+    </item>    <item>
+      <title>Urchin (BIFF 11): ópera prima osadamente humanista</title>
+      <link>https://www.palomitademaiz.net/resenas-urchin-biff-11/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-urchin-biff-11</link>
+      <description>
+        <![CDATA[<p>Sección: Fantasmas del pasado. Dirección: Harris Dickinson. Guion: Harris Dickinson. Elenco: Frank Dillane, Megan Northam, Karyna Khymchuk, Harris Dickinson. Países: Reino Unido. Más información de la película: https://www.imdb.com/title/tt35715953/ El término anglosajón “urchin” se usa de forma peyorativa para referirse a los niños que habitan en la calle y usan prendas de vestir desgastadas. Aunque no [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-urchin-biff-11/">Urchin (BIFF 11): ópera prima osadamente humanista</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Sección: Fantasmas del pasado. Dirección: Harris Dickinson. Guion: Harris Dickinson. Elenco: Frank Dillane, Megan Northam, Karyna Khymchuk, Harris Dickinson. Países: Reino Unido. Más información de la película: https://www.imdb.com/title/tt35715953/ El término anglosajón “urchin” se usa de forma peyorativa para referirse a los niños que habitan en la calle y usan prendas de vestir desgastadas. Aunque no \[…\]
+
+La entrada [Urchin (BIFF 11): ópera prima osadamente humanista](https://www.palomitademaiz.net/resenas-urchin-biff-11/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=25674</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115452605579076623</link>
+      <description>
+        <![CDATA[<p>New mantra just dropped:<br /><a href="https://mastodon.social/@NeoNacho/115452541603549644" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@NeoNacho/1154</span><span class="invisible">52541603549644</span></a></p>]]>
+      </description>
+      <source:markdown>New mantra just dropped:
+
+[https://mastodon.social/@NeoNacho/115452541603549644](https://mastodon.social/@NeoNacho/115452541603549644)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115452605579076623</guid>
+    </item>    <item>
+      <title>Cryosleep</title>
+      <link>https://adactio.com/journal/22219</link>
+      <description>
+        <![CDATA[<p>On the last day of <a href="https://uxlondon.com/">UX London</a> this year, I was sitting and chatting with <a href="https://www.rachelcoldicutt.com/">Rachel Coldicutt</a> who was going to be giving the closing keynote. Inevitably the topic of converstation worked its way ’round to “AI”. I remember Rachel having a good laugh when I summarised my overall feeling:</p>
+        
+        <blockquote>
+          <p>I kind of wish I could go into suspended animation and be woken up when all this is over and things have settled down one way or another.</p>
+        </blockquote>
+        
+        <p>I still feel that way. <a href="https://notetoself.studio/post/measured-ai/">Like Gina</a>, I’d welcome a measured approach to this technology. <a href="https://www.anildash.com/2025/10/17/the-majority-ai-view/">As Anil puts it</a>:</p>
+        
+        <blockquote>
+          <p>Technologies like LLMs have utility, but the absurd way they&#8217;ve been over-hyped, the fact they&#8217;re being forced on everyone, and the insistence on ignoring the many valid critiques about them make it very difficult to focus on legitimate uses where they might add value.</p>
+        </blockquote>
+        
+        <p>I very much look forward to using language models (probably small and local) to automate genuinely tedious tasks. That’s a very different vision to what the slopagandists are pushing. Or, <a href="https://www.wired.com/story/ai-normal-after-ai-plateaus/">like Paul Ford says</a>:</p>
+        
+        <blockquote>
+          <p>Make it boring. That’s what’s interesting.</p>
+        </blockquote>
+        
+        <p>Fortunately, my cryosleep-awakening probably isn&#8217;t be too far off. You can smell it in the air, that whiff of <a href="https://www.wired.com/story/ai-bubble-will-burst/">a bubble about to burst</a>. And while it will almost certainly be messy, it’s long overdue.</p>
+        
+        <p><a href="https://www.wired.com/story/ai-normal-after-ai-plateaus/">Paul Ford again</a>:</p>
+        
+        <blockquote>
+          <p>I’ve felt so alienated from tech over the past couple of years. Part of it is the craven authoritarianism. It dampens the mood. But another part is the monolithic narrative—the fact that we live in a world where there seem to be only a few companies, only a few stories going at any time, and everything reduces to politics. God, please let it end.</p>
+        </blockquote>]]>
+      </description>
+      <source:markdown>On the last day of [UX London](https://uxlondon.com/) this year, I was sitting and chatting with [Rachel Coldicutt](https://www.rachelcoldicutt.com/) who was going to be giving the closing keynote. Inevitably the topic of converstation worked its way ’round to “AI”. I remember Rachel having a good laugh when I summarised my overall feeling:
+
+&#62; I kind of wish I could go into suspended animation and be woken up when all this is over and things have settled down one way or another.
+
+I still feel that way. [Like Gina](https://notetoself.studio/post/measured-ai/), I’d welcome a measured approach to this technology. [As Anil puts it](https://www.anildash.com/2025/10/17/the-majority-ai-view/):
+
+&#62; Technologies like LLMs have utility, but the absurd way they’ve been over-hyped, the fact they’re being forced on everyone, and the insistence on ignoring the many valid critiques about them make it very difficult to focus on legitimate uses where they might add value.
+
+I very much look forward to using language models (probably small and local) to automate genuinely tedious tasks. That’s a very different vision to what the slopagandists are pushing. Or, [like Paul Ford says](https://www.wired.com/story/ai-normal-after-ai-plateaus/):
+
+&#62; Make it boring. That’s what’s interesting.
+
+Fortunately, my cryosleep-awakening probably isn’t be too far off. You can smell it in the air, that whiff of [a bubble about to burst](https://www.wired.com/story/ai-bubble-will-burst/). And while it will almost certainly be messy, it’s long overdue.
+
+[Paul Ford again](https://www.wired.com/story/ai-normal-after-ai-plateaus/):
+
+&#62; I’ve felt so alienated from tech over the past couple of years. Part of it is the craven authoritarianism. It dampens the mood. But another part is the monolithic narrative—the fact that we live in a world where there seem to be only a few companies, only a few stories going at any time, and everything reduces to politics. God, please let it end.</source:markdown>
+      <guid>cid://https://adactio.com/journal/22219</guid>
+    </item>    <item>
+      <title>Rogue Goodreads Librarian Edits Site to Expose &#39;Censorship in Favor of Trump Fascism’</title>
+      <link>https://www.404media.co/rogue-goodreads-librarian-edits-site-to-expose-censorship-in-favor-of-trump-fascism/</link>
+      <description>
+        <![CDATA[“When we let powerful people’s books be protected from criticism, we give up the right to hold power accountable.”]]>
+      </description>
+      <source:markdown>“When we let powerful people’s books be protected from criticism, we give up the right to hold power accountable.”</source:markdown>
+      <guid>cid://6900e226b03958000185e773</guid>
+    </item>    <item>
+      <title>Nisus Writer: Schrödinger’s Word Processor</title>
+      <link>https://tidbits.com/2025/10/25/nisus-writer-schrodingers-word-processor/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42324</guid>
+    </item>    <item>
+      <title>ChatGPT’s Atlas: The Browser That’s Anti-Web - Anil Dash</title>
+      <link>https://www.anildash.com/2025/10/22/atlas-anti-web-browser/</link>
+      <description>
+        <![CDATA[<blockquote>
+          <p>I love the web, and this thing is bad for the web.</p>
+          
+          <ol>
+          <li>Atlas substitutes its own AI-generated content for the web, but it looks like it&#8217;s showing you the web</li>
+          <li>The user experience makes you guess what commands to type instead of clicking on links</li>
+          <li>You&#8217;re the agent for the browser, it&#8217;s not being an agent for you</li>
+          </ol>
+          
+          <p>It&#8217;s very clear that a lot of the new AI era is about dismantling the web&#8217;s original design.</p>
+        </blockquote>
+        
+        <p><a href="https://adactio.com/links/22218">adactio.com/links/22218</a></p>]]>
+      </description>
+      <source:markdown>&#62; I love the web, and this thing is bad for the web.
+&#62;
+&#62; 1. Atlas substitutes its own AI-generated content for the web, but it looks like it’s showing you the web
+&#62; 2. The user experience makes you guess what commands to type instead of clicking on links
+&#62; 3. You’re the agent for the browser, it’s not being an agent for you
+&#62;
+&#62; It’s very clear that a lot of the new AI era is about dismantling the web’s original design.
+
+[adactio.com/links/22218](https://adactio.com/links/22218)</source:markdown>
+      <guid>cid://https://www.anildash.com/2025/10/22/atlas-anti-web-browser/</guid>
+    </item>    <item>
+      <title>GSS Release</title>
+      <link>https://kieranhealy.org/blog/archives/2025/10/28/gss-release/</link>
+      <description>
+        <![CDATA[<figure><a href="https://kieranhealy.org/blog/archives/2025/10/28/gss-release/gss-immigration.png" data-fancybox>
+            <img src="https://kieranhealy.org/blog/archives/2025/10/28/gss-release/gss-immigration.png"
+                 alt="GSS immigration question"/></a><figcaption>
+                    <p>Trends in the <code>immameco</code> question.</p>
+                </figcaption>
+        </figure>
+        <p>Release 2 of the 2024 GSS cross-section and 1972-2024 culumative data are <a href="https://gss.norc.org/get-the-data.html">now available</a>. I&rsquo;ve updated <a href="https://kjhealy.github.io/gssr/"><code>gssr</code></a> and <a href="https://kjhealy.github.io/gssrdoc/"><code>gssrdoc</code></a> to incorporate them. There are quite a few changes in the data and variables, thanks in part to some changes in data collection methods and a privacy/disclosure review.</p>
+        <p>The <code>gssr</code> and <code>gssrdoc</code> packages are the nicest way to get General Social Survey data up and running in R. The figure above shows (survey-weighted) trends derived from the <a href="https://kjhealy.github.io/gssrdoc/reference/immameco.html"><code>immameco</code></a> question.</p>]]>
+      </description>
+      <source:markdown>[![GSS immigration question](https://kieranhealy.org/blog/archives/2025/10/28/gss-release/gss-immigration.png)](https://kieranhealy.org/blog/archives/2025/10/28/gss-release/gss-immigration.png)
+
+Trends in the `immameco` question.
+
+Release 2 of the 2024 GSS cross-section and 1972-2024 culumative data are [now available](https://gss.norc.org/get-the-data.html). I’ve updated [`gssr`](https://kjhealy.github.io/gssr/) and [`gssrdoc`](https://kjhealy.github.io/gssrdoc/) to incorporate them. There are quite a few changes in the data and variables, thanks in part to some changes in data collection methods and a privacy/disclosure review.
+
+The `gssr` and `gssrdoc` packages are the nicest way to get General Social Survey data up and running in R. The figure above shows (survey-weighted) trends derived from the [`immameco`](https://kjhealy.github.io/gssrdoc/reference/immameco.html) question.</source:markdown>
+      <guid>cid://https://kieranhealy.org/blog/archives/2025/10/28/gss-release/</guid>
+    </item>    <item>
+      <title>The Bathtub Curve</title>
+      <link>https://blog.dshr.org/2025/10/the-bathtub-curve.html</link>
+      <description>
+        <![CDATA[The economics of long-term data storage are critically dependent not just upon the Kryder rate, the rate at which the technology improves cost per byte, but also upon the reliability of the media over time. You want to replace media because they are no longer economic, not because they are no longer reliable despite still being economic.<br />
+        <br />
+        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvSdsUsY1pqdcH9sLvvQgIFQ5u8yJoNj7OXRXcQdKvgxpb1dFcWfOkJtsI5mXYZs7TQ1R1Hw8TAUpRRTZN5Me1EKhAuQcjKfhI6KkRnv5U2JRihfkYPhyphenhyphenU6UCpgjF1FiH9_QdLInJObFtSSGwOcfNkqJ9rpYSt1q2uM570Byj3j9lG3If4-XOBxoENi39q/s1024/Bathtub_curve.svg.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="724" data-original-width="1024" height="141" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvSdsUsY1pqdcH9sLvvQgIFQ5u8yJoNj7OXRXcQdKvgxpb1dFcWfOkJtsI5mXYZs7TQ1R1Hw8TAUpRRTZN5Me1EKhAuQcjKfhI6KkRnv5U2JRihfkYPhyphenhyphenU6UCpgjF1FiH9_QdLInJObFtSSGwOcfNkqJ9rpYSt1q2uM570Byj3j9lG3If4-XOBxoENi39q/w200-h141/Bathtub_curve.svg.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://en.wikipedia.org/wiki/Bathtub_curve">Source</a></td></tr></tbody></table>
+        For more than a decade Backblaze has been providing an important public service by publishing data on the reliability of their hard drives, and more recently their SSDs. Below the fold I comment on this month's post from their Drive Stats Team, <a href="https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/"><i>Are Hard Drives Getting Better? Let’s Revisit the Bathtub Curve</i></a>.<br />
+        <br />
+        Wikipedia defines the <a href="https://en.wikipedia.org/wiki/Bathtub_curve">Bathtub Curve</a> as a common concept in reliability engineering:<br />
+        <blockquote>
+        The 'bathtub' refers to the shape of a line that curves up at both ends, similar in shape to a bathtub. The bathtub curve has 3 regions:<br />
+        <ol>
+        <li>The first region has a decreasing failure rate due to early failures.</li>
+        <li>The middle region is a constant failure rate due to random failures.</li>
+        <li>The last region is an increasing failure rate due to wear-out failures.</li>
+        </ol>
+        </blockquote>
+        <span><a name='more'></a></span>
+        <br />
+        In 2017's <a href="https://blog.dshr.org/2017/10/storage-failures-in-field.html"><i>Storage Failures In The Field</i></a> I commented on Backblaze's observation that the 10TB and 12TB HDD generations showed much reduced infant mortality:<br />
+        <blockquote>
+        devoting engineering effort to reducing infant mortality can have a significant return on investment. A drive that fails early will be returned under warranty, costing the company money. A drive that fails after the warranty expires cannot be returned. Warranty costs must be reserved against in the company's accounts. Any reduction in the rate of early failures goes straight to the company's bottom line.
+        </blockquote>
+        Enterprise disks are typically warranted for 5 years, so a disk manufacturer is incentized to focus engineering effort on eliminating the "first region", the left side of the bathtub, and ensuring that the second region extends past the 5 year mark. Eight years ago Backblaze was starting to see that the <a href="https://arstechnica.com/gadgets/2017/10/big-hard-disks-may-be-breaking-the-bathtub-curve/">engineers were succeeding in the first region</a>:<br />
+        <blockquote>
+        While the data so far is very limited, with 1,240 disks and 14,220 aggregate drive days accumulated so far, none of these disks (both Seagate models) have failed. The low level of usage means that the disks have been installed and formatted and not much beyond that, but true infant mortality—disks that immediately expire on their first use—hasn’t become apparent.
+        </blockquote>
+        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmRDzXbUas3HJOCcRrFuXbResiGLpqgsvzWGO8laoDIqoiUEvWNUQDP8nvTXJYSpK8ya-OsziU0FbH15FgdHzM5E7oKIwS2eLf1_7-5UxdmHYMBiBqadV8lY52ov5Vb00YRrstyHJUSA22RJS4oz-RPHnWmRgmfm-5N5f6sRswNsXaoH0WkHCqjnajRdLV/s936/Bathtub_2_Legacy-comparison.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="630" data-original-width="936" height="134" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmRDzXbUas3HJOCcRrFuXbResiGLpqgsvzWGO8laoDIqoiUEvWNUQDP8nvTXJYSpK8ya-OsziU0FbH15FgdHzM5E7oKIwS2eLf1_7-5UxdmHYMBiBqadV8lY52ov5Vb00YRrstyHJUSA22RJS4oz-RPHnWmRgmfm-5N5f6sRswNsXaoH0WkHCqjnajRdLV/w200-h134/Bathtub_2_Legacy-comparison.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.backblaze.com/blog/drive-failure-over-time-the-bathtub-curve-is-leaking/">Source</a></td></tr></tbody></table>
+        Four years later in <a href="https://www.backblaze.com/blog/drive-failure-over-time-the-bathtub-curve-is-leaking/"><i>Drive Failure Over Time: The Bathtub Curve Is Leaking</i></a> Klein had some much stronger evidence:<br />
+        <blockquote>
+        The left side of the bathtub, the area of “decreasing failure rate,” is dramatically lower in 2021 than in 2013. In fact, for our 2021 curve, there is almost no left side of the bathtub, making it hard to take a bath, to say the least. We have reported how <a href="https://www.backblaze.com/blog/how-to-build-a-hard-drive-a-factory-tour/">Seagate breaks in and tests their newly manufactured hard drives</a> before shipping in an effort to lower the failure rates of their drives. Assuming all manufacturers do the same, that may explain some or all of this observation.
+        </blockquote>
+        Note that the engineers hadn't quite succeeded in the second region, as the 2021 failure rate for years 4 and 5 was noticeably higher than for younger drives. But they had succeeded in pushing the major increase in failures out beyond 5.5 years. Everything before that was less than 4% Annual Failure Rate (AFR).<br />
+        <br />
+        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVdS_BbXXAgHdtnupadIt7pznhRd_-TJGhYUE644i9V4UXxWYzPikeqcBikEyefV3Tlik_2bPJ-1EW9F8BwHzgtHHGMFYbBOvMhHRsF3Z3d9lJqVlaa-6_RB3j2Sxkvai7aNMgyMbwPxRAesjW6uB77OrhTWiV5YQANcQQ4JesmpJ3dGivHqQgPpfrp4j9/s936/Bathtub_3_Drive-failure-2025.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="578" data-original-width="936" height="124" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVdS_BbXXAgHdtnupadIt7pznhRd_-TJGhYUE644i9V4UXxWYzPikeqcBikEyefV3Tlik_2bPJ-1EW9F8BwHzgtHHGMFYbBOvMhHRsF3Z3d9lJqVlaa-6_RB3j2Sxkvai7aNMgyMbwPxRAesjW6uB77OrhTWiV5YQANcQQ4JesmpJ3dGivHqQgPpfrp4j9/w200-h124/Bathtub_3_Drive-failure-2025.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/">Source</a></td></tr></tbody></table>
+        Another four years later in the current graph things have changed quite a bit:<br />
+        <ul>
+        <li>For the first 5 years the AFR is under 2%.</li>
+        <li>For the first 5 years the AFR gradually increases, the first region has been completely eliminated.</li>
+        <li>For the three years after a 5-year warranty expires, the AFR is under 3%.</li>
+        <li>For the next two years the AFR drops, bottoming out around 1%.
+        </li><li>Everything out to 10 years has an AFR under 3%.</li>
+        <li>The third region starts with a spike at 10.5 years.</li>
+        <li>Even at 10.5 years the AFR is only just over 4%</li>
+        </ul>
+        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh90jMMDSrpHWVvJ6EE4gDEAlvdKMwYo0uKFntWX1F9cqyUpE9SqO69v3B_bAhxxLkFCFLES8MDDyp0pnTkBt-GSdT764gjH8EmAoY7do1-EY3AGbbTIVW67GFMXGM3WoYJ0ATeBswJIrUU4q3txbVYwGCWmJwMH84InBaaizHPnIK_xGoDUXTfhXm7uGc/s936/Bathtub_6_Drive-failure-total-comparison.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="580" data-original-width="936" height="124" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh90jMMDSrpHWVvJ6EE4gDEAlvdKMwYo0uKFntWX1F9cqyUpE9SqO69v3B_bAhxxLkFCFLES8MDDyp0pnTkBt-GSdT764gjH8EmAoY7do1-EY3AGbbTIVW67GFMXGM3WoYJ0ATeBswJIrUU4q3txbVYwGCWmJwMH84InBaaizHPnIK_xGoDUXTfhXm7uGc/w200-h124/Bathtub_6_Drive-failure-total-comparison.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/">Source</a></td></tr></tbody></table>
+        Backblaze's final graph puts all three sets of data in one graph and shows a dramatic improvement in drive longevity:<br />
+        <ul>
+        <li>Drives in 2013 were dramatically less reliable than in later years, both because their AFRs were consistently higher and because their AFR hit 13% after 3 years.</li>
+        <li>By 2021 the engineers had kept the AFR around 2% through the warranty, but the drives wore out rapidly in the 7th year.</li>
+        <li>Now, the drives are only showing signs of beginning to wear out at 10.5 years.</li>
+        </ul>
+        That is some serious engineering at the long end! And at the short end <a href="https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/">things are great</a>:<br />
+        <blockquote>
+        we see that the drive failure rates on the front end of the curve are also incredibly low—when a drive is between zero and one years old, we barely crack 1.30% AFR.
+        </blockquote>
+        The left side of the bathtub is really gone, improving the manufacturers' margins. But if I eyeball the 2025 graph's first 20 quarters I estimate the AFR averages 1.6%, which implies that over the 5-year warranty 8% of the drives failed. Clearly, the engineers still have work to do.<br />
+        <br />
+        Remember to check back in 2029 when Backblaze plans to return to this issue.<br />]]>
+      </description>
+      <source:markdown>The economics of long-term data storage are critically dependent not just upon the Kryder rate, the rate at which the technology improves cost per byte, but also upon the reliability of the media over time. You want to replace media because they are no longer economic, not because they are no longer reliable despite still being economic.
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvSdsUsY1pqdcH9sLvvQgIFQ5u8yJoNj7OXRXcQdKvgxpb1dFcWfOkJtsI5mXYZs7TQ1R1Hw8TAUpRRTZN5Me1EKhAuQcjKfhI6KkRnv5U2JRihfkYPhyphenhyphenU6UCpgjF1FiH9_QdLInJObFtSSGwOcfNkqJ9rpYSt1q2uM570Byj3j9lG3If4-XOBxoENi39q/w200-h141/Bathtub_curve.svg.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvSdsUsY1pqdcH9sLvvQgIFQ5u8yJoNj7OXRXcQdKvgxpb1dFcWfOkJtsI5mXYZs7TQ1R1Hw8TAUpRRTZN5Me1EKhAuQcjKfhI6KkRnv5U2JRihfkYPhyphenhyphenU6UCpgjF1FiH9_QdLInJObFtSSGwOcfNkqJ9rpYSt1q2uM570Byj3j9lG3If4-XOBxoENi39q/s1024/Bathtub_curve.svg.png)[Source](https://en.wikipedia.org/wiki/Bathtub_curve)
+For more than a decade Backblaze has been providing an important public service by publishing data on the reliability of their hard drives, and more recently their SSDs. Below the fold I comment on this month&#39;s post from their Drive Stats Team, [_Are Hard Drives Getting Better? Let’s Revisit the Bathtub Curve_](https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/).
+
+Wikipedia defines the [Bathtub Curve](https://en.wikipedia.org/wiki/Bathtub_curve) as a common concept in reliability engineering:
+
+&#62; The &#39;bathtub&#39; refers to the shape of a line that curves up at both ends, similar in shape to a bathtub. The bathtub curve has 3 regions:
+&#62;
+&#62; 1. The first region has a decreasing failure rate due to early failures.
+&#62; 2. The middle region is a constant failure rate due to random failures.
+&#62; 3. The last region is an increasing failure rate due to wear-out failures.
+
+In 2017&#39;s [_Storage Failures In The Field_](https://blog.dshr.org/2017/10/storage-failures-in-field.html) I commented on Backblaze&#39;s observation that the 10TB and 12TB HDD generations showed much reduced infant mortality:
+
+&#62; devoting engineering effort to reducing infant mortality can have a significant return on investment. A drive that fails early will be returned under warranty, costing the company money. A drive that fails after the warranty expires cannot be returned. Warranty costs must be reserved against in the company&#39;s accounts. Any reduction in the rate of early failures goes straight to the company&#39;s bottom line.
+
+Enterprise disks are typically warranted for 5 years, so a disk manufacturer is incentized to focus engineering effort on eliminating the &#34;first region&#34;, the left side of the bathtub, and ensuring that the second region extends past the 5 year mark. Eight years ago Backblaze was starting to see that the [engineers were succeeding in the first region](https://arstechnica.com/gadgets/2017/10/big-hard-disks-may-be-breaking-the-bathtub-curve/):
+
+&#62; While the data so far is very limited, with 1,240 disks and 14,220 aggregate drive days accumulated so far, none of these disks (both Seagate models) have failed. The low level of usage means that the disks have been installed and formatted and not much beyond that, but true infant mortality—disks that immediately expire on their first use—hasn’t become apparent.
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmRDzXbUas3HJOCcRrFuXbResiGLpqgsvzWGO8laoDIqoiUEvWNUQDP8nvTXJYSpK8ya-OsziU0FbH15FgdHzM5E7oKIwS2eLf1_7-5UxdmHYMBiBqadV8lY52ov5Vb00YRrstyHJUSA22RJS4oz-RPHnWmRgmfm-5N5f6sRswNsXaoH0WkHCqjnajRdLV/w200-h134/Bathtub_2_Legacy-comparison.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmRDzXbUas3HJOCcRrFuXbResiGLpqgsvzWGO8laoDIqoiUEvWNUQDP8nvTXJYSpK8ya-OsziU0FbH15FgdHzM5E7oKIwS2eLf1_7-5UxdmHYMBiBqadV8lY52ov5Vb00YRrstyHJUSA22RJS4oz-RPHnWmRgmfm-5N5f6sRswNsXaoH0WkHCqjnajRdLV/s936/Bathtub_2_Legacy-comparison.png)[Source](https://www.backblaze.com/blog/drive-failure-over-time-the-bathtub-curve-is-leaking/)
+Four years later in [_Drive Failure Over Time: The Bathtub Curve Is Leaking_](https://www.backblaze.com/blog/drive-failure-over-time-the-bathtub-curve-is-leaking/) Klein had some much stronger evidence:
+
+&#62; The left side of the bathtub, the area of “decreasing failure rate,” is dramatically lower in 2021 than in 2013. In fact, for our 2021 curve, there is almost no left side of the bathtub, making it hard to take a bath, to say the least. We have reported how [Seagate breaks in and tests their newly manufactured hard drives](https://www.backblaze.com/blog/how-to-build-a-hard-drive-a-factory-tour/) before shipping in an effort to lower the failure rates of their drives. Assuming all manufacturers do the same, that may explain some or all of this observation.
+
+Note that the engineers hadn&#39;t quite succeeded in the second region, as the 2021 failure rate for years 4 and 5 was noticeably higher than for younger drives. But they had succeeded in pushing the major increase in failures out beyond 5.5 years. Everything before that was less than 4% Annual Failure Rate (AFR).
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVdS_BbXXAgHdtnupadIt7pznhRd_-TJGhYUE644i9V4UXxWYzPikeqcBikEyefV3Tlik_2bPJ-1EW9F8BwHzgtHHGMFYbBOvMhHRsF3Z3d9lJqVlaa-6_RB3j2Sxkvai7aNMgyMbwPxRAesjW6uB77OrhTWiV5YQANcQQ4JesmpJ3dGivHqQgPpfrp4j9/w200-h124/Bathtub_3_Drive-failure-2025.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVdS_BbXXAgHdtnupadIt7pznhRd_-TJGhYUE644i9V4UXxWYzPikeqcBikEyefV3Tlik_2bPJ-1EW9F8BwHzgtHHGMFYbBOvMhHRsF3Z3d9lJqVlaa-6_RB3j2Sxkvai7aNMgyMbwPxRAesjW6uB77OrhTWiV5YQANcQQ4JesmpJ3dGivHqQgPpfrp4j9/s936/Bathtub_3_Drive-failure-2025.png)[Source](https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/)
+Another four years later in the current graph things have changed quite a bit:
+
+- For the first 5 years the AFR is under 2%.
+- For the first 5 years the AFR gradually increases, the first region has been completely eliminated.
+- For the three years after a 5-year warranty expires, the AFR is under 3%.
+- For the next two years the AFR drops, bottoming out around 1%.
+
+- Everything out to 10 years has an AFR under 3%.
+- The third region starts with a spike at 10.5 years.
+- Even at 10.5 years the AFR is only just over 4%
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh90jMMDSrpHWVvJ6EE4gDEAlvdKMwYo0uKFntWX1F9cqyUpE9SqO69v3B_bAhxxLkFCFLES8MDDyp0pnTkBt-GSdT764gjH8EmAoY7do1-EY3AGbbTIVW67GFMXGM3WoYJ0ATeBswJIrUU4q3txbVYwGCWmJwMH84InBaaizHPnIK_xGoDUXTfhXm7uGc/w200-h124/Bathtub_6_Drive-failure-total-comparison.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh90jMMDSrpHWVvJ6EE4gDEAlvdKMwYo0uKFntWX1F9cqyUpE9SqO69v3B_bAhxxLkFCFLES8MDDyp0pnTkBt-GSdT764gjH8EmAoY7do1-EY3AGbbTIVW67GFMXGM3WoYJ0ATeBswJIrUU4q3txbVYwGCWmJwMH84InBaaizHPnIK_xGoDUXTfhXm7uGc/s936/Bathtub_6_Drive-failure-total-comparison.png)[Source](https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/)
+Backblaze&#39;s final graph puts all three sets of data in one graph and shows a dramatic improvement in drive longevity:
+
+- Drives in 2013 were dramatically less reliable than in later years, both because their AFRs were consistently higher and because their AFR hit 13% after 3 years.
+- By 2021 the engineers had kept the AFR around 2% through the warranty, but the drives wore out rapidly in the 7th year.
+- Now, the drives are only showing signs of beginning to wear out at 10.5 years.
+
+That is some serious engineering at the long end! And at the short end [things are great](https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/):
+
+&#62; we see that the drive failure rates on the front end of the curve are also incredibly low—when a drive is between zero and one years old, we barely crack 1.30% AFR.
+
+The left side of the bathtub is really gone, improving the manufacturers&#39; margins. But if I eyeball the 2025 graph&#39;s first 20 quarters I estimate the AFR averages 1.6%, which implies that over the 5-year warranty 8% of the drives failed. Clearly, the engineers still have work to do.
+
+Remember to check back in 2029 when Backblaze plans to return to this issue.</source:markdown>
+      <author>noreply@blogger.com (David.)</author>
+      <guid>cid://tag:blogger.com,1999:blog-4503292949532760618.post-2677870744451345848</guid>
+    </item>    <item>
+      <title>“Will We Remain In The Shadows, Or Will We Together Step Into The Light?”</title>
+      <link>https://www.michaelmoore.com/p/will-we-remain-in-the-shadows</link>
+      <description>
+        <![CDATA[A Must-Watch Video of New York City&#8217;s Next Mayor, Zohran Mamdani. The people of New York City are on the verge of doing something historic.]]>
+      </description>
+      <source:markdown>A Must-Watch Video of New York City’s Next Mayor, Zohran Mamdani. The people of New York City are on the verge of doing something historic.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Rmfq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f481193-111c-4b8a-87dd-e2ff6a812ae4_2147x1610.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.michaelmoore.com/p/will-we-remain-in-the-shadows</guid>
+    </item>    <item>
+      <title>ICE Is Using a University Building as a Deportation Office and the University Says It Can&#39;t Do Anything About It</title>
+      <link>https://www.404media.co/ice-is-using-a-university-building-as-a-deportation-office-and-the-university-says-it-cant-do-anything-about-it/</link>
+      <description>
+        <![CDATA[The Milwaukee School of Engineering is largely powerless to kick ICE out of a building it wanted to turn into a new academic center, according to audio of a meeting obtained by 404 Media.]]>
+      </description>
+      <source:markdown>The Milwaukee School of Engineering is largely powerless to kick ICE out of a building it wanted to turn into a new academic center, according to audio of a meeting obtained by 404 Media.</source:markdown>
+      <guid>cid://6900cff7dbf2dc00011ef9f5</guid>
+    </item>    <item>
+      <title>Episode Milestones and Back Behind the Mic</title>
+      <link>https://openchannels.fm/episode-milestones-and-back-behind-the-mic/</link>
+      <description>
+        <![CDATA[Bob’s gearing up for episode 700! He reflects on milestones, announces the end of solo episodes, and hints at more guest chats ahead.]]>
+      </description>
+      <source:markdown>Bob’s gearing up for episode 700! He reflects on milestones, announces the end of solo episodes, and hints at more guest chats ahead.</source:markdown>
+      <guid>cid://https://openchannels.fm/?p=111796</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115452056698116416</link>
+      <description>
+        <![CDATA[<p>When you are an Android developer, you finally get a Xmas in October:<br /><a href="https://mastodon.social/@airspeedswift/115431245077158642" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@airspeedswift</span><span class="invisible">/115431245077158642</span></a></p>]]>
+      </description>
+      <source:markdown>When you are an Android developer, you finally get a Xmas in October:
+
+[https://mastodon.social/@airspeedswift/115431245077158642](https://mastodon.social/@airspeedswift/115431245077158642)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115452056698116416</guid>
+    </item>    <item>
+      <title>Rubble Trouble and the Trump Ballroom</title>
+      <link>https://tinabrown.substack.com/p/rubble-trouble-and-the-trump-ballroom</link>
+      <description>
+        <![CDATA[Will the gigantic pile of rubble that was once the historic East Wing of the White House come to embody America&#8217;s exhaustion with the human battering ram in the Oval Office?]]>
+      </description>
+      <source:markdown>Will the gigantic pile of rubble that was once the historic East Wing of the White House come to embody America’s exhaustion with the human battering ram in the Oval Office?</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!iQor!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72e0892a-ce51-443e-bf52-04a31474e1bf_554x382.png" length="0" type="image/jpeg" />
+      <guid>cid://https://tinabrown.substack.com/p/rubble-trouble-and-the-trump-ballroom</guid>
+    </item>    <item>
+      <title>Lawsuit Accuses a16z of Turning Roblox Into a School Shooter&#39;s Playground</title>
+      <link>https://www.404media.co/lawsuit-accuses-a16z-of-turning-roblox-into-a-school-shooters-playground/</link>
+      <description>
+        <![CDATA[The family of a dead teen girl said she'd still be alive if Roblox did a better job moderating its platform.]]>
+      </description>
+      <source:markdown>The family of a dead teen girl said she&#39;d still be alive if Roblox did a better job moderating its platform.</source:markdown>
+      <guid>cid://6900c35fdbf2dc00011ef834</guid>
+    </item>    <item>
+      <link>http://scripting.com/2019/10/28/140358.html</link>
+      <description>
+        <![CDATA[<p>On this day in 2019: 'Lock Him Up' is very American.</p>]]>
+      </description>
+      <source:markdown>On this day in 2019: &#39;Lock Him Up&#39; is very American.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/28/1713/</guid>
+    </item>    <item>
       <title>Parenthetical Asidenotes</title>
       <link>https://meyerweb.com/eric/thoughts/2025/10/28/parenthetical-asidenotes/</link>
       <description>
-        <![CDATA[It’s not really a secret I have a thing for sidenotes, and thus for CSS anchored positioning.  But a thing I realized about myself is that most of my sidenotes are likely to be tiny asides commenting on the main throughline of the text, as opposed to bibliographic references or other things that usually become [&#8230;]]]>
+        <![CDATA[In which I turn inline asides into sidenotes, but not in a way anyone should actually use.]]>
       </description>
-      <source:markdown>It’s not really a secret I have a thing for sidenotes, and thus for CSS anchored positioning.  But a thing I realized about myself is that most of my sidenotes are likely to be tiny asides commenting on the main throughline of the text, as opposed to bibliographic references or other things that usually become \[…\]</source:markdown>
+      <source:markdown>In which I turn inline asides into sidenotes, but not in a way anyone should actually use.</source:markdown>
       <guid>cid://https://meyerweb.com/eric/thoughts/?p=5657</guid>
     </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115451886848864640</link>
@@ -177,6 +691,14 @@ I have no idea why [their top level domain is for the British Indian Ocean Terri
       <source:markdown>To be caught in the spotlight of our pretensions is the worst kind of embarrassment there is. And so, one thing I found notable in the years I spent writing a biography of Bob Dylan and his poetic songwriting was</source:markdown>
       <guid>cid://https://lithub.com/?p=261483</guid>
     </item>    <item>
+      <title>America’s Founding Fathers Had No Faith in Democracy</title>
+      <link>https://lithub.com/americas-founding-fathers-had-no-faith-in-democracy/</link>
+      <description>
+        <![CDATA[&#8220;We hold these truths to be self-evident, that all men are created equal&#8230;.&#8221; –Thomas Jefferson, The Declaration of Independence (1776) &#8220;I have never seen, to my knowledge, a man, woman, or child, that was in favor of producing a perfect]]>
+      </description>
+      <source:markdown>“We hold these truths to be self-evident, that all men are created equal….” –Thomas Jefferson, The Declaration of Independence (1776) “I have never seen, to my knowledge, a man, woman, or child, that was in favor of producing a perfect</source:markdown>
+      <guid>cid://https://lithub.com/?p=261367</guid>
+    </item>    <item>
       <title>Is Space the Final Frontier of Espionage?</title>
       <link>https://lithub.com/is-space-the-final-frontier-of-espionage/</link>
       <description>
@@ -216,14 +738,6 @@ I have no idea why [their top level domain is for the British Indian Ocean Terri
       </description>
       <source:markdown>Sacrament follows in natural progression Susan Straight’s bestselling novel Mecca (2022), which revolves around three characters in that date-growing city in the Coachella Valley, including Johnny Frias, a California Highway Patrol officer whose family and friends are at risk from wildfires</source:markdown>
       <guid>cid://https://lithub.com/?p=261362</guid>
-    </item>    <item>
-      <title>America’s Founding Fathers Had No Faith in Democracy</title>
-      <link>https://lithub.com/americas-founding-fathers-had-no-faith-in-democracy/</link>
-      <description>
-        <![CDATA[&#8220;We hold these truths to be self-evident, that all men are created equal&#8230;.&#8221; –Thomas Jefferson, The Declaration of Independence (1776) &#8220;I have never seen, to my knowledge, a man, woman, or child, that was in favor of producing a perfect]]>
-      </description>
-      <source:markdown>“We hold these truths to be self-evident, that all men are created equal….” –Thomas Jefferson, The Declaration of Independence (1776) “I have never seen, to my knowledge, a man, woman, or child, that was in favor of producing a perfect</source:markdown>
-      <guid>cid://https://lithub.com/?p=261367</guid>
     </item>    <item>
       <title>The Devil is a Southpaw</title>
       <link>https://lithub.com/the-devil-is-a-southpaw/</link>
@@ -307,6 +821,13 @@ Tags: [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-progr
       </description>
       <source:markdown>To see if this works with my blog. If it does stay tuned for more. Okay, I’ve been posting more, above. More importantly, I’m back in the groove with Wordland. I’d stopped while waiting for a new WordPress theme that would be friendlier to Wordland.  I haven’t moved to that theme, but Wordland is working. \[…\]</source:markdown>
       <guid>cid://https://doc.searls.com/2025/10/27/a-test/</guid>
+    </item>    <item>
+      <title>HMAC-based security for webhooks</title>
+      <link>https://buttondown.com/blog/2025-10-28</link>
+      <description>
+        <![CDATA[HMAC-based security for webhooks]]>
+      </description>
+      <source:markdown>HMAC-based security for webhooks</source:markdown>
     </item>    <item>
       <link>https://m.youtube.com/watch?v=Ejoi9yfLVCc</link>
       <description>
@@ -1791,6 +2312,17 @@ The plant that’s growing in large green-reddish patches on the sand up here is
       </description>
       <source:markdown>Fuchsia One of my favourite plants. Grows like mad in South-West Ireland where one finds some roadside hedgerowss that seem to be largely comprised of it. Quote of the Day ”The oddity of the hostility of certain thinkers and political … [Continue reading →](https://memex.naughtons.org/monday-27-october-2025/41321/)</source:markdown>
       <guid>cid://https://memex.naughtons.org/?p=41321</guid>
+    </item>    <item>
+      <title>612. Nelson: The Final Showdown (Part 5)</title>
+      <link>https://therestishistory.com/612-nelson-the-final-showdown-part-5/</link>
+      <description>
+        <![CDATA[<p>After two years at sea chasing the combined fleet of France and Spain, what was Nelson’s next step? Upon returning to his beloved Emma, how was the heroic Nelson received? What was the terrifying Napoleon Bonaparte scheming for his fleet across the seas? And, would Britain finally face an imminent French invasion, and with it [&#8230;]</p>
+        <p>The post <a href="https://therestishistory.com/612-nelson-the-final-showdown-part-5/">612. Nelson: The Final Showdown (Part 5)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>]]>
+      </description>
+      <source:markdown>After two years at sea chasing the combined fleet of France and Spain, what was Nelson’s next step? Upon returning to his beloved Emma, how was the heroic Nelson received? What was the terrifying Napoleon Bonaparte scheming for his fleet across the seas? And, would Britain finally face an imminent French invasion, and with it \[…\]
+
+The post [612\. Nelson: The Final Showdown (Part 5)](https://therestishistory.com/612-nelson-the-final-showdown-part-5/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
+      <guid>cid://https://therestishistory.com/612-nelson-the-final-showdown-part-5/</guid>
     </item>    <item>
       <title>weekly retro #38: the heat is on</title>
       <link>https://livelaugh.blog/posts/weekly-retro-38/</link>
@@ -3760,6 +4292,17 @@ They’re systems, like web browsers or database engines.</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!JXer!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7317205a-9bab-4ef4-bc54-6c510eb0a676_3894x2597.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://steady.substack.com/p/american-history-be-damned</guid>
     </item>    <item>
+      <title>Julius Caesar, with Mary Beard</title>
+      <link>https://therestishistory.com/julius-caesar-with-mary-beard/</link>
+      <description>
+        <![CDATA[<p>What is the main difference between Julius Caesar and Alexander the Great? When did Julius Caesar become one of the major players of the Roman Republic? What was the true nature of Caesar’s relationship with Cleopatra? How did he manage to defeat his enemies to become Dictator of Rome for life? And, how did he [&#8230;]</p>
+        <p>The post <a href="https://therestishistory.com/julius-caesar-with-mary-beard/">Julius Caesar, with Mary Beard</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>]]>
+      </description>
+      <source:markdown>What is the main difference between Julius Caesar and Alexander the Great? When did Julius Caesar become one of the major players of the Roman Republic? What was the true nature of Caesar’s relationship with Cleopatra? How did he manage to defeat his enemies to become Dictator of Rome for life? And, how did he \[…\]
+
+The post [Julius Caesar, with Mary Beard](https://therestishistory.com/julius-caesar-with-mary-beard/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
+      <guid>cid://https://therestishistory.com/julius-caesar-with-mary-beard/</guid>
+    </item>    <item>
       <title>SerpApi’s Public Customer List</title>
       <link>https://serpapi.com/use-cases</link>
       <guid>cid://tag:daringfireball.net,2025:/linked//6.42309</guid>
@@ -4241,13 +4784,6 @@ BTW, here&#39;s a [transcript](https://chatgpt.com/c/68f8f563-0ab8-8322-865a-af0
       </description>
       <source:markdown>In 2025, four of my novels and two short stories were adapted either for films or as streaming TV shows. I find this befuddling, perplexing, and downright peculiar. Also—okay, yeah—pretty cool. Part of the reason lies in the startling success</source:markdown>
       <guid>cid://https://lithub.com/?p=261309</guid>
-    </item>    <item>
-      <link>https://www.anildash.com/2025/10/22/atlas-anti-web-browser/</link>
-      <description>
-        <![CDATA[<p>Someone please write a rebuttal to this Anil Dash piece. ChatGPT is a software breakthrough, like VisiCalc, Wikipedia, or the web. If their browser sucks (sounds like it does, but why no screen shots) don’t use it. That’s the rational response imho.</p>]]>
-      </description>
-      <source:markdown>Someone please write a rebuttal to this Anil Dash piece. ChatGPT is a software breakthrough, like VisiCalc, Wikipedia, or the web. If their browser sucks (sounds like it does, but why no screen shots) don’t use it. That’s the rational response imho.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/23/1621/</guid>
     </item>    <item>
       <title>5 Book Reviews You Need to Read This Week</title>
       <link>https://lithub.com/5-book-reviews-you-need-to-read-this-week-10-23-2025/</link>
@@ -5211,6 +5747,17 @@ Playing casual puzzle games everyday. Also started making some games but that’
       <title>Signal Moves Ahead on Post-Quantum Computing, But Still Sucks Ass When You Switch Phones</title>
       <link>https://arstechnica.com/security/2025/10/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement/</link>
       <guid>cid://tag:daringfireball.net,2025:/linked//6.42304</guid>
+    </item>    <item>
+      <title>611. Nelson: Bonaparte Prepares to Strike (Part 4)</title>
+      <link>https://therestishistory.com/611-nelson-bonaparte-prepares-to-strike-part-4/</link>
+      <description>
+        <![CDATA[<p>With Britain at war for more than eight long years, and her people depleted and hungry, how did her government react to the news that Napoleon Bonaparte was planning a full-scale invasion in 1801? What happened when Nelson tried to attack the French at Boulogne, and what was the terrible cost? Why was the provisional [&#8230;]</p>
+        <p>The post <a href="https://therestishistory.com/611-nelson-bonaparte-prepares-to-strike-part-4/">611. Nelson: Bonaparte Prepares to Strike (Part 4)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>]]>
+      </description>
+      <source:markdown>With Britain at war for more than eight long years, and her people depleted and hungry, how did her government react to the news that Napoleon Bonaparte was planning a full-scale invasion in 1801? What happened when Nelson tried to attack the French at Boulogne, and what was the terrible cost? Why was the provisional \[…\]
+
+The post [611\. Nelson: Bonaparte Prepares to Strike (Part 4)](https://therestishistory.com/611-nelson-bonaparte-prepares-to-strike-part-4/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
+      <guid>cid://https://therestishistory.com/611-nelson-bonaparte-prepares-to-strike-part-4/</guid>
     </item>    <item>
       <title>Apple Pulls Dating Apps Tea and TeaOnHer From the App Store</title>
       <link>https://techcrunch.com/2025/10/22/apple-confirms-it-pulled-controversial-dating-apps-tea-and-teaonher-from-the-app-store/</link>
@@ -7653,7 +8200,7 @@ Tags: [prompt-injection](https://simonwillison.net/tags/prompt-injection), [secu
 \[contains quote post or other embedded content\]</source:markdown>
       <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m3o2qs6pfc26</guid>
     </item>    <item>
-      <title>bulk-add-notes</title>
+      <title>Bulk add notes to your subscribers</title>
       <link>https://buttondown.com/blog/bulk-add-notes</link>
       <description>
         <![CDATA[Bulk add notes to your subscribers]]>
@@ -9101,7 +9648,7 @@ I’ve had a lot of fun with this project and I hope to contribute more to LLVM,
 \[16\] [https://github.com/llvm/llvm-project/pull/145967#issuecomment-3068862442](https://github.com/llvm/llvm-project/pull/145967#issuecomment-3068862442)</source:markdown>
       <guid>cid://https://blog.llvm.org/posts/2025-09-01-gsoc-ubsan-trap-messages/</guid>
     </item>    <item>
-      <title>reorder-columns</title>
+      <title>Reorder columns in your dashboard by dragging and dropping</title>
       <link>https://buttondown.com/blog/reorder-columns</link>
       <description>
         <![CDATA[Reorder columns in your dashboard by dragging and dropping]]>
@@ -9124,6 +9671,17 @@ I’ve had a lot of fun with this project and I hope to contribute more to LLVM,
       </description>
       <source:markdown>Every picture tells a story Normally this spot is reserved for photographs I’ve taken. But I thought I’d make an exception for this remarkable snap taken by a White House photographer. It shows Trump holding the telephone into which Netanyahu … [Continue reading →](https://memex.naughtons.org/monday-20-october-2025/41304/)</source:markdown>
       <guid>cid://https://memex.naughtons.org/?p=41304</guid>
+    </item>    <item>
+      <title>610. Nelson: The Battle of Copenhagen (Part 3)</title>
+      <link>https://therestishistory.com/610-nelson-the-battle-of-copenhagen-part-3/</link>
+      <description>
+        <![CDATA[<p>With fears that the powerful Danish fleet would join with the French against the British, what great gamble did Horatio Nelson take? After taking the drastic decision to attack the Danish fleet in their own harbour, what challenges did Nelson and his men face? How did the bloody Battle of Copenhagen in 1801 then unfold? [&#8230;]</p>
+        <p>The post <a href="https://therestishistory.com/610-nelson-the-battle-of-copenhagen-part-3/">610. Nelson: The Battle of Copenhagen (Part 3)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>]]>
+      </description>
+      <source:markdown>With fears that the powerful Danish fleet would join with the French against the British, what great gamble did Horatio Nelson take? After taking the drastic decision to attack the Danish fleet in their own harbour, what challenges did Nelson and his men face? How did the bloody Battle of Copenhagen in 1801 then unfold? \[…\]
+
+The post [610\. Nelson: The Battle of Copenhagen (Part 3)](https://therestishistory.com/610-nelson-the-battle-of-copenhagen-part-3/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
+      <guid>cid://https://therestishistory.com/610-nelson-the-battle-of-copenhagen-part-3/</guid>
     </item>    <item>
       <title>Episode 168 - Halt and Catch Fire</title>
       <link>https://adventofcomputing.libsyn.com/episode-168-halt-and-catch-fire</link>
@@ -12712,6 +13270,20 @@ Tags: [coding-agents](https://simonwillison.net/tags/coding-agents), [ai-assiste
       <link>https://blog.fsck.com/2025/10/16/skills-for-claude/</link>
       <guid>cid://https://blog.fsck.com/2025/10/16/skills-for-claude/</guid>
     </item>    <item>
+      <title>How Flock Theatre uses Buttondown</title>
+      <link>https://buttondown.com/blog/flock-theatre</link>
+      <description>
+        <![CDATA[I love that it is such a personal company, with actual people behind it.]]>
+      </description>
+      <source:markdown>I love that it is such a personal company, with actual people behind it.</source:markdown>
+    </item>    <item>
+      <title>How Jenny Zhang uses Buttondown</title>
+      <link>https://buttondown.com/blog/jenny-zhang</link>
+      <description>
+        <![CDATA[Jenny uses Buttondown to inspire readers to show up and show out for their communities.]]>
+      </description>
+      <source:markdown>Jenny uses Buttondown to inspire readers to show up and show out for their communities.</source:markdown>
+    </item>    <item>
       <link>https://podcasts.apple.com/us/podcast/how-russell-vought-broke-the-u-s-government/id268213039?i=1000730035128</link>
       <description>
         <![CDATA[<p>How Russell Vought Broke the U.S. Government. Totally worth a listen. Also totally depressing.</p>]]>
@@ -13417,7 +13989,7 @@ Tags: [browsers](https://simonwillison.net/tags/browsers), [csrf](https://simonw
       <link>https://blog.rust-lang.org/2025/10/15/announcing-the-new-rust-project-directors-2025/</link>
       <guid>cid://https://blog.rust-lang.org/2025/10/15/announcing-the-new-rust-project-directors-2025/</guid>
     </item>    <item>
-      <title>subscribers-can-access-the-portal-through-the-main-login-page</title>
+      <title>Subscribers can access the Portal through the main login</title>
       <link>https://buttondown.com/blog/portal</link>
       <description>
         <![CDATA[Subscribers can access the Portal through the main login]]>
@@ -17143,7 +17715,7 @@ For the record, here’s my top ten:
       <link>https://tinyclouds/humans/</link>
       <guid>cid://https://tinyclouds/humans/</guid>
     </item>    <item>
-      <title>emailwall-and-webwall-components</title>
+      <title>Emailwall and Webwall components</title>
       <link>https://buttondown.com/blog/2025-10-10</link>
       <description>
         <![CDATA[Emailwall and Webwall components]]>

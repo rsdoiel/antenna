@@ -4,10 +4,422 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>28 Oct 25 06:11 -0700</lastBuildDate>
+    <lastBuildDate>28 Oct 25 11:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Irish university loses almost €100,000 over scam email</title>
+      <link>https://www.rte.ie/news/ireland/2025/1028/1540999-irish-university-scammed/</link>
+      <description>
+        <![CDATA[An Irish technological university has been the victim of a €98,500 online scam concerning a fraudulent email that resulted in a legitimate payment to a supplier going to a rogue bank account]]>
+      </description>
+      <source:markdown>An Irish technological university has been the victim of a €98,500 online scam concerning a fraudulent email that resulted in a legitimate payment to a supplier going to a rogue bank account</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/1028/1540999-irish-university-scammed/</guid>
+    </item>    <item>
+      <title>Russia&#39;s case against teen busker stirs anger</title>
+      <link>https://www.rte.ie/news/newslens/2025/1028/1541001-diana-loginova/</link>
+      <description>
+        <![CDATA[Supporters of an 18-year-old Russian street musician arrested after performing anti-war songs in public expressed frustration at the legal case against her as she attended court.]]>
+      </description>
+      <source:markdown>Supporters of an 18-year-old Russian street musician arrested after performing anti-war songs in public expressed frustration at the legal case against her as she attended court.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/newslens/2025/1028/1541001-diana-loginova/</guid>
+    </item>    <item>
+      <title>Thüringen: Innenminister Georg Maier erneuert Spionagevorwürfe gegen die AfD</title>
+      <link>https://www.spiegel.de/politik/thueringen-innenminister-georg-maier-erneuert-spionagevorwuerfe-gegen-die-afd-a-dc9b1ece-4c49-4254-9277-95148ef3fca7#ref=rss</link>
+      <description>
+        <![CDATA[58 sogenannte Kleine Anfragen der AfD zur kritischen Infrastruktur hat Thüringens Innenministerium laut einem Bericht zusammengetragen. Für Minister Maier steckt dahinter ein System – und womöglich Spionage für Russland.]]>
+      </description>
+      <source:markdown>58 sogenannte Kleine Anfragen der AfD zur kritischen Infrastruktur hat Thüringens Innenministerium laut einem Bericht zusammengetragen. Für Minister Maier steckt dahinter ein System – und womöglich Spionage für Russland.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/efec485a-4293-4677-8092-dfb11dac07c6_w520_r2.08_fpx48_fpy32.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/politik/thueringen-innenminister-georg-maier-erneuert-spionagevorwuerfe-gegen-die-afd-a-dc9b1ece-4c49-4254-9277-95148ef3fca7</guid>
+    </item>    <item>
+      <title>Niederlande: Königin Máxima trägt jetzt Camouflage</title>
+      <link>https://www.spiegel.de/panorama/leute/niederlande-koenigin-maxima-traegt-jetzt-camouflage-a-049f43a1-e362-45dc-ace2-d3382e4c56d4#ref=rss</link>
+      <description>
+        <![CDATA[Die niederländische Königin Máxima kennt man eigentlich in Kleidern und mit Krone. Für einen Besuch beim Militär tarnte sie sich nun von Kopf bis Fuß.]]>
+      </description>
+      <source:markdown>Die niederländische Königin Máxima kennt man eigentlich in Kleidern und mit Krone. Für einen Besuch beim Militär tarnte sie sich nun von Kopf bis Fuß.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/0ccf1805-5a30-4791-a1d2-08b3ab1f71ba_w520_r2.08_fpx60_fpy45.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/panorama/leute/niederlande-koenigin-maxima-traegt-jetzt-camouflage-a-049f43a1-e362-45dc-ace2-d3382e4c56d4</guid>
+    </item>    <item>
+      <title>Garmisch-Partenkirchen: Prozessauftakt nach tödlichem Zugunglück 2022 in Oberbayern</title>
+      <link>https://www.spiegel.de/panorama/justiz/garmisch-partenkirchen-prozessauftakt-nach-toedlichem-zugunglueck-2022-in-oberbayern-a-28ce7a10-70bf-4026-aae8-d49447ace619#ref=rss</link>
+      <description>
+        <![CDATA[Fünf Menschen starben, als 2022 in Oberbayern ein Regionalexpress entgleiste. Drei Jahre später geht es vor Gericht um die Frage, wie viel Schuld zwei Bahnmitarbeiter tragen: Hätten sie das Unglück verhindern können?]]>
+      </description>
+      <source:markdown>Fünf Menschen starben, als 2022 in Oberbayern ein Regionalexpress entgleiste. Drei Jahre später geht es vor Gericht um die Frage, wie viel Schuld zwei Bahnmitarbeiter tragen: Hätten sie das Unglück verhindern können?</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/ab69093f-99e0-43f7-a668-5a16b6693e6f_w520_r2.08_fpx36.92_fpy44.94.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/panorama/justiz/garmisch-partenkirchen-prozessauftakt-nach-toedlichem-zugunglueck-2022-in-oberbayern-a-28ce7a10-70bf-4026-aae8-d49447ace619</guid>
+    </item>    <item>
+      <title>Vor Treffen von Donald Trump und Xi Jinping: So umwirbt Taiwan die Schutzmacht USA – Podcast</title>
+      <link>https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss</link>
+      <description>
+        <![CDATA[Kurz vor dem Gipfel mit Donald Trump provoziert China erneut und übt offenbar den Angriff auf Taiwan. Der Inselstaat versucht mit ungewöhnlichen Mitteln, sich den Beistand des US-Präsidenten zu sichern.]]>
+      </description>
+      <source:markdown>Kurz vor dem Gipfel mit Donald Trump provoziert China erneut und übt offenbar den Angriff auf Taiwan. Der Inselstaat versucht mit ungewöhnlichen Mitteln, sich den Beistand des US-Präsidenten zu sichern.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/4ad5148f-feeb-4f42-8833-dc156f674a5a_w520_r2.08_fpx34_fpy53.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f</guid>
+    </item>    <item>
+      <title>Vor Treffen von Donald Trump und Xi Jinping: So umwirbt Taiwan die Schutzmacht USA</title>
+      <link>https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss</link>
+      <description>
+        <![CDATA[Kurz vor dem Gipfel mit Donald Trump provoziert China erneut und übt offenbar den Angriff auf Taiwan. Der Inselstaat versucht mit ungewöhnlichen Mitteln, sich den Beistand des US-Präsidenten zu sichern.]]>
+      </description>
+      <source:markdown>Kurz vor dem Gipfel mit Donald Trump provoziert China erneut und übt offenbar den Angriff auf Taiwan. Der Inselstaat versucht mit ungewöhnlichen Mitteln, sich den Beistand des US-Präsidenten zu sichern.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/4ad5148f-feeb-4f42-8833-dc156f674a5a_w520_r2.08_fpx34_fpy53.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4</guid>
+    </item>    <item>
+      <title>Was Sydney Sweeney von Botox-Tipps mit 16 berichtet</title>
+      <link>https://www.spiegel.de/panorama/was-sydney-sweeney-von-botox-tipps-mit-16-berichtet-a-96321a7c-e8ac-4200-acc6-6487946f5255#ref=rss</link>
+      <description>
+        <![CDATA[Zuletzt machte die Schauspielerin Sydney Sweeney mit Werbung Schlagzeilen, bei der es um ihre »guten Gene« ging. Nun berichtet sie, dass ihr bereits als Jugendliche empfohlen worden sei, sich botoxen zu lassen.]]>
+      </description>
+      <source:markdown>Zuletzt machte die Schauspielerin Sydney Sweeney mit Werbung Schlagzeilen, bei der es um ihre »guten Gene« ging. Nun berichtet sie, dass ihr bereits als Jugendliche empfohlen worden sei, sich botoxen zu lassen.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/12dd658a-e360-41f6-bf57-981ae388594e_w520_r2.08_fpx58_fpy50.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/panorama/was-sydney-sweeney-von-botox-tipps-mit-16-berichtet-a-96321a7c-e8ac-4200-acc6-6487946f5255</guid>
+    </item>    <item>
+      <title>Türkei: Was bedeuten die Spionage-Vorwürfe gegen Ekrem İmamoğlu?</title>
+      <link>https://www.spiegel.de/ausland/tuerkei-was-bedeuten-die-spionage-vorwuerfe-gegen-ekrem-imamoglu-a-ece7d7af-dde2-47ec-837b-d881465ec118#ref=rss</link>
+      <description>
+        <![CDATA[Istanbuls Oberbürgermeister İmamoğlu sitzt seit März wegen Korruptionsvorwürfen in Haft. Dem Ansehen des Erdoğan-Rivalen hat das bisher kaum geschadet. Kritiker vermuten, dass deshalb nun neue Anschuldigungen gegen ihn laut werden.]]>
+      </description>
+      <source:markdown>Istanbuls Oberbürgermeister İmamoğlu sitzt seit März wegen Korruptionsvorwürfen in Haft. Dem Ansehen des Erdoğan-Rivalen hat das bisher kaum geschadet. Kritiker vermuten, dass deshalb nun neue Anschuldigungen gegen ihn laut werden.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/a42fe0c5-9d0b-45a3-a243-cce604a0278f_w520_r2.08_fpx48_fpy53.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/ausland/tuerkei-was-bedeuten-die-spionage-vorwuerfe-gegen-ekrem-imamoglu-a-ece7d7af-dde2-47ec-837b-d881465ec118</guid>
+    </item>    <item>
+      <title>SPD-Mitgliederbegehren: Das Bürgergeld schien fast vergessen, jetzt holt es die Partei ein</title>
+      <link>https://www.spiegel.de/politik/deutschland/spd-mitgliederbegehren-das-buergergeld-schien-fast-vergessen-jetzt-holt-es-die-partei-ein-a-a461e3d9-bae7-49e2-9d0c-aee0f9e19a55#ref=rss</link>
+      <description>
+        <![CDATA[Die SPD-Basis sammelt Unterschriften gegen Verschärfungen beim Bürgergeld, binnen Stunden kommen mehr als tausend zusammen. Das geplante Mitgliederbegehren kann zum Problem für die Parteichefs werden.]]>
+      </description>
+      <source:markdown>Die SPD-Basis sammelt Unterschriften gegen Verschärfungen beim Bürgergeld, binnen Stunden kommen mehr als tausend zusammen. Das geplante Mitgliederbegehren kann zum Problem für die Parteichefs werden.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/d5906670-c66c-4593-be8b-5a19ad4441d8_w520_r2.08_fpx50_fpy56.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/politik/deutschland/spd-mitgliederbegehren-das-buergergeld-schien-fast-vergessen-jetzt-holt-es-die-partei-ein-a-a461e3d9-bae7-49e2-9d0c-aee0f9e19a55</guid>
+    </item>    <item>
+      <title>EU &#39;deeply concerned&#39; after RSF capture Sudanese city</title>
+      <link>https://www.rte.ie/news/world/2025/1028/1540980-sudan/</link>
+      <description>
+        <![CDATA[The European Union has said it was "deeply concerned" by intensified violence in the western Sudanese city of El-Fasher after its capture by paramilitaries and urged "all warring parties to de-escalate".]]>
+      </description>
+      <source:markdown>The European Union has said it was &#34;deeply concerned&#34; by intensified violence in the western Sudanese city of El-Fasher after its capture by paramilitaries and urged &#34;all warring parties to de-escalate&#34;.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2025/1028/1540980-sudan/</guid>
+    </item>    <item>
+      <title>Ukraine-Krieg: Sergej Lawrow bringt Nichtangriffsgarantie für Europa ins Spiel</title>
+      <link>https://www.spiegel.de/ausland/ukraine-krieg-sergej-lawrow-bringt-nichtangriffsgarantie-fuer-europa-ins-spiel-a-b1dfad03-b44c-422d-ab5b-21acf8018e1f#ref=rss</link>
+      <description>
+        <![CDATA[Russland ist nach Worten von Außenminister Sergej Lawrow zu einer Nichtangriffsgarantie für EU- und Nato-Staaten bereit. Das ist neu, hat allerdings Kalkül.]]>
+      </description>
+      <source:markdown>Russland ist nach Worten von Außenminister Sergej Lawrow zu einer Nichtangriffsgarantie für EU- und Nato-Staaten bereit. Das ist neu, hat allerdings Kalkül.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/a069b1d3-7de7-4c33-ae1f-3980dbb2a873_w520_r2.08_fpx49_fpy25.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/ausland/ukraine-krieg-sergej-lawrow-bringt-nichtangriffsgarantie-fuer-europa-ins-spiel-a-b1dfad03-b44c-422d-ab5b-21acf8018e1f</guid>
+    </item>    <item>
+      <title>Slowakei führt Tempolimit für Fußgänger ein</title>
+      <link>https://www.spiegel.de/panorama/slowakei-fuehrt-tempolimit-fuer-fussgaenger-ein-a-59600410-09de-45c9-8fe7-bc01415f5b57#ref=rss</link>
+      <description>
+        <![CDATA[Bitte bummeln: Der slowakischen Regierung geht es auf den Gehwegen des Landes zu hektisch zu. Das neue Jahr soll entschleunigt beginnen.]]>
+      </description>
+      <source:markdown>Bitte bummeln: Der slowakischen Regierung geht es auf den Gehwegen des Landes zu hektisch zu. Das neue Jahr soll entschleunigt beginnen.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/b89458cb-e747-4853-8675-d5348c0e4291_w520_r2.08_fpx58.91_fpy48.98.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/panorama/slowakei-fuehrt-tempolimit-fuer-fussgaenger-ein-a-59600410-09de-45c9-8fe7-bc01415f5b57</guid>
+    </item>    <item>
+      <title>English tourist dies months after alleged Dublin attack</title>
+      <link>https://www.rte.ie/news/ireland/2025/1028/1540990-english-tourist-temple-bar/</link>
+      <description>
+        <![CDATA[An English tourist who was seriously injured following an alleged assault in Dublin city centre earlier this year died in hospital on Saturday.]]>
+      </description>
+      <source:markdown>An English tourist who was seriously injured following an alleged assault in Dublin city centre earlier this year died in hospital on Saturday.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/1028/1540990-english-tourist-temple-bar/</guid>
+    </item>    <item>
+      <title>Halloween: Müssen Sie sich Sorgen um Ihre schwarze Katze machen?</title>
+      <link>https://www.spiegel.de/panorama/halloween-muessen-sie-sich-sorgen-um-ihre-schwarze-katze-machen-a-307ddcb9-00ad-406d-b496-b40df5920f0b#ref=rss</link>
+      <description>
+        <![CDATA[In Spanien verbietet eine Stadt aus Sorge vor Misshandlungen an Halloween die Adoption schwarzer Katzen. Sind sie in Deutschland auch gefährdet? Tierschützer geben in diesem Punkt zwar Entwarnung – sehen aber andere Probleme.]]>
+      </description>
+      <source:markdown>In Spanien verbietet eine Stadt aus Sorge vor Misshandlungen an Halloween die Adoption schwarzer Katzen. Sind sie in Deutschland auch gefährdet? Tierschützer geben in diesem Punkt zwar Entwarnung – sehen aber andere Probleme.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/2c2dfa0c-db75-493a-ab6b-fc964e7ff5d3_w520_r2.08_fpx33.73_fpy50.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/panorama/halloween-muessen-sie-sich-sorgen-um-ihre-schwarze-katze-machen-a-307ddcb9-00ad-406d-b496-b40df5920f0b</guid>
+    </item>    <item>
+      <title>Ex-FF cllr to run in by-election for Independent Ireland</title>
+      <link>https://www.rte.ie/news/regional/2025/1028/1540984-galway-west-by-election/</link>
+      <description>
+        <![CDATA[Independent Ireland plans to run its councillor Noel Thomas, who left Fianna Fáil over a planned IPAS centre dispute two years ago, in the upcoming Galway West by-election.]]>
+      </description>
+      <source:markdown>Independent Ireland plans to run its councillor Noel Thomas, who left Fianna Fáil over a planned IPAS centre dispute two years ago, in the upcoming Galway West by-election.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/regional/2025/1028/1540984-galway-west-by-election/</guid>
+    </item>    <item>
+      <title>Pope Leo XIV: ‘Peace is holy, not war’</title>
+      <link>https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-xiv-peace-meeting-rome-colosseum-sant-egidio.html</link>
+      <description>
+        <![CDATA[<p>Pope Leo XIV joins religious leaders at Rome’s Colosseum for the Community of Sant'Egidio's annual Meeting for Peace, calling for an end to war and a renewed commitment to reconciliation and prayer. </p>
+                            <p><a href="https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-xiv-peace-meeting-rome-colosseum-sant-egidio.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>Pope Leo XIV joins religious leaders at Rome’s Colosseum for the Community of Sant&#39;Egidio&#39;s annual Meeting for Peace, calling for an end to war and a renewed commitment to reconciliation and prayer.
+
+[Read all](https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-xiv-peace-meeting-rome-colosseum-sant-egidio.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-xiv-peace-meeting-rome-colosseum-sant-egidio.html</guid>
+    </item>    <item>
+      <title>Brasilien: 20 Tote bei Polizeieinsatz in Favela in Rio de Janeiro</title>
+      <link>https://www.spiegel.de/panorama/justiz/brasilien-20-tote-bei-polizeieinsatz-in-favela-in-rio-de-janeiro-a-0aea16e2-72cc-4158-b2a4-f8e459d7834f#ref=rss</link>
+      <description>
+        <![CDATA[Das Comando Vermelho ist eines der größten Verbrechersyndikate Brasiliens. Bei einem Polizeieinsatz wurden nun mehrere Mitglieder der Gruppe getötet. Auch ein Anführer der Gang konnte gefasst werden.]]>
+      </description>
+      <source:markdown>Das Comando Vermelho ist eines der größten Verbrechersyndikate Brasiliens. Bei einem Polizeieinsatz wurden nun mehrere Mitglieder der Gruppe getötet. Auch ein Anführer der Gang konnte gefasst werden.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/e6b6330f-ce39-4c24-b140-609560f869f2_w520_r2.08_fpx33.34_fpy50.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/panorama/justiz/brasilien-20-tote-bei-polizeieinsatz-in-favela-in-rio-de-janeiro-a-0aea16e2-72cc-4158-b2a4-f8e459d7834f</guid>
+    </item>    <item>
+      <title>News des Tages: Streit über Bürgergeld, Donald Trump in Japan, Elon Musk »Grokipedia«</title>
+      <link>https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-buergergeld-donald-trump-in-japan-elon-musk-grokipedia-a-d1a40a23-1d7e-431c-b9a6-841ec4e73c14#ref=rss</link>
+      <description>
+        <![CDATA[Die SPD-Basis kritisiert die geplante Reform des Bürgergeldes. Trump staubt bei seiner Reise nach Japan vergoldete Golfbälle und ein Versprechen ab. Und Elon Musk bringt eine Wikipedia-Alternative an den Start. Das ist die Lage am Dienstagabend.]]>
+      </description>
+      <source:markdown>Die SPD-Basis kritisiert die geplante Reform des Bürgergeldes. Trump staubt bei seiner Reise nach Japan vergoldete Golfbälle und ein Versprechen ab. Und Elon Musk bringt eine Wikipedia-Alternative an den Start. Das ist die Lage am Dienstagabend.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w520_r2.08_fpx28.09_fpy49.93.png" length="0" type="image/png" />
+      <guid>cid://https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-buergergeld-donald-trump-in-japan-elon-musk-grokipedia-a-d1a40a23-1d7e-431c-b9a6-841ec4e73c14</guid>
+    </item>    <item>
+      <title>Remscheid: Ermittler finden noch mehr Waffen bei Razzia</title>
+      <link>https://www.spiegel.de/panorama/justiz/remscheid-ermittler-finden-noch-mehr-waffen-bei-razzia-a-51968655-9d77-4baf-8881-42ada4cb8151#ref=rss</link>
+      <description>
+        <![CDATA[Eine gefährliche Handgranate, scharfe Gewehre und Maschinenpistolen: Ermittler sind bei einer Durchsuchung in Remscheid auf weitere Waffen gestoßen – hinter einer Geheimtür.]]>
+      </description>
+      <source:markdown>Eine gefährliche Handgranate, scharfe Gewehre und Maschinenpistolen: Ermittler sind bei einer Durchsuchung in Remscheid auf weitere Waffen gestoßen – hinter einer Geheimtür.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/2e0bced6-b970-48a4-b3db-adee4b2defab_w520_r2.08_fpx66.67_fpy50.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/panorama/justiz/remscheid-ermittler-finden-noch-mehr-waffen-bei-razzia-a-51968655-9d77-4baf-8881-42ada4cb8151</guid>
+    </item>    <item>
+      <title>Rotterdam: Niederländer gründete sadistisches Onlinenetzwerk</title>
+      <link>https://www.spiegel.de/netzwelt/rotterdam-niederlaender-gruendete-sadistisches-onlinenetzwerk-a-e7368382-e870-4e58-b419-07f4fdab49c9#ref=rss</link>
+      <description>
+        <![CDATA[In der Onlinegruppe »No Lives Matter« sollen Jugendliche zu Angriffen auf Wehrlose auf der Straße animiert haben. Nach SPIEGEL-Informationen gab es bereits mehrere Festnahmen im Zusammenhang mit der Gruppierung.]]>
+      </description>
+      <source:markdown>In der Onlinegruppe »No Lives Matter« sollen Jugendliche zu Angriffen auf Wehrlose auf der Straße animiert haben. Nach SPIEGEL-Informationen gab es bereits mehrere Festnahmen im Zusammenhang mit der Gruppierung.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/038a9e22-f5f4-4dab-8085-1e923d7d0de2_w520_r2.08_fpx41.34_fpy50.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/netzwelt/rotterdam-niederlaender-gruendete-sadistisches-onlinenetzwerk-a-e7368382-e870-4e58-b419-07f4fdab49c9</guid>
+    </item>    <item>
+      <title>Hurrikan Melissa: Meteorologe Helge Tuschy erklärt, wie der Sturm so mächtig werden konnte</title>
+      <link>https://www.spiegel.de/wissenschaft/natur/hurrikan-melissa-meteorologe-helge-tuschy-erklaert-wie-der-sturm-so-maechtig-werden-konnte-a-43820653-abfc-44af-bc53-9c8bdf8df307#ref=rss</link>
+      <description>
+        <![CDATA[Mit Windgeschwindigkeiten von mehr als 280 Kilometern pro Stunde erreicht der Wirbelsturm »Melissa« den Inselstaat Jamaika. Ein Meteorologe erklärt, warum der Hurrikan so stark werden konnte. Und ob heftige Stürme häufiger werden.]]>
+      </description>
+      <source:markdown>Mit Windgeschwindigkeiten von mehr als 280 Kilometern pro Stunde erreicht der Wirbelsturm »Melissa« den Inselstaat Jamaika. Ein Meteorologe erklärt, warum der Hurrikan so stark werden konnte. Und ob heftige Stürme häufiger werden.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/f91b23cf-c674-4364-8357-4032799e5dc2_w520_r2.08_fpx37.68_fpy44.99.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/wissenschaft/natur/hurrikan-melissa-meteorologe-helge-tuschy-erklaert-wie-der-sturm-so-maechtig-werden-konnte-a-43820653-abfc-44af-bc53-9c8bdf8df307</guid>
+    </item>    <item>
+      <title>Russlands Unterwasserspione infiltrieren die nördlichen Meere - Technik zur Ortung von U-Booten</title>
+      <link>https://www.spiegel.de/ausland/russlands-unterwasserspione-infiltrieren-die-noerdlichen-meere-technik-zur-ortung-von-u-booten-a-f469680b-0469-4245-8661-fb783a715514#ref=rss</link>
+      <description>
+        <![CDATA[Mit modernster Sensorik will Moskau seine Flotte in der Arktis und der Ostsee schützen. Die Geräte stammen offenbar auch von westlichen Firmen – und werden wohl auch an untergegangenen Fähren angebracht.]]>
+      </description>
+      <source:markdown>Mit modernster Sensorik will Moskau seine Flotte in der Arktis und der Ostsee schützen. Die Geräte stammen offenbar auch von westlichen Firmen – und werden wohl auch an untergegangenen Fähren angebracht.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/32da993a-2bd9-4fe3-a78e-53eab42215ca_w520_r2.08_fpx40.67_fpy55.01.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/ausland/russlands-unterwasserspione-infiltrieren-die-noerdlichen-meere-technik-zur-ortung-von-u-booten-a-f469680b-0469-4245-8661-fb783a715514</guid>
+    </item>    <item>
+      <title>Hamburg: Schiff rammt wichtige Brücke</title>
+      <link>https://www.spiegel.de/panorama/hamburg-schiff-rammt-wichtige-bruecke-a-1e4954b2-aa58-456d-a88e-81d28027f05f#ref=rss</link>
+      <description>
+        <![CDATA[Ein Binnenmotorschiff ist gegen die Hamburger Freihafenelbbrücke gestoßen, Container trafen das Bauwerk. Das weckt Erinnerungen an einen früheren Unfall.]]>
+      </description>
+      <source:markdown>Ein Binnenmotorschiff ist gegen die Hamburger Freihafenelbbrücke gestoßen, Container trafen das Bauwerk. Das weckt Erinnerungen an einen früheren Unfall.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/93289668-3d0b-4099-a8a6-b71fae4c2eff_w520_r2.08_fpx65.86_fpy55.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/panorama/hamburg-schiff-rammt-wichtige-bruecke-a-1e4954b2-aa58-456d-a88e-81d28027f05f</guid>
+    </item>    <item>
+      <title>Angebliche Drogenschmuggler: 14 Tote bei drei US-Angriffen auf vier Boote im Pazifik</title>
+      <link>https://www.spiegel.de/ausland/angebliche-drogenschmuggler-14-tote-bei-drei-us-angriffen-auf-vier-boote-im-pazifik-a-c80ab32e-84a9-4d57-ac41-944635f19848#ref=rss</link>
+      <description>
+        <![CDATA[Pentagonchef Hegseth hatte es angekündigt: »Zu Tage oder zur Nacht, wir werden eure Netzwerke orten, eure Leute aufspüren, euch jagen und töten.« Jetzt hat das US-Militär erneut angebliche Drogenhändler im Pazifik getötet.]]>
+      </description>
+      <source:markdown>Pentagonchef Hegseth hatte es angekündigt: »Zu Tage oder zur Nacht, wir werden eure Netzwerke orten, eure Leute aufspüren, euch jagen und töten.« Jetzt hat das US-Militär erneut angebliche Drogenhändler im Pazifik getötet.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/add41428-0576-4b01-9061-322aa885923e_w520_r2.08_fpx49_fpy35.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/ausland/angebliche-drogenschmuggler-14-tote-bei-drei-us-angriffen-auf-vier-boote-im-pazifik-a-c80ab32e-84a9-4d57-ac41-944635f19848</guid>
+    </item>    <item>
+      <title>Inter Mailand: Torhüter Josep Martínez fährt mit Auto in Rollstuhl – 81-Jähriger tot</title>
+      <link>https://www.spiegel.de/sport/fussball/inter-mailand-torhueter-josep-martinez-faehrt-mit-auto-in-rollstuhl-81-jaehriger-tot-a-7c414d74-5d41-4a3e-8ba4-9db96fab5b94#ref=rss</link>
+      <description>
+        <![CDATA[Bei einem Unfall in Norditalien ist ein 81 Jahre alter Rollstuhlfahrer zu Tode gekommen. Der Rentner war vom Auto des Fußballtorhüters Josep Martínez erfasst worden, der derzeit bei Inter Mailand unter Vertrag steht.]]>
+      </description>
+      <source:markdown>Bei einem Unfall in Norditalien ist ein 81 Jahre alter Rollstuhlfahrer zu Tode gekommen. Der Rentner war vom Auto des Fußballtorhüters Josep Martínez erfasst worden, der derzeit bei Inter Mailand unter Vertrag steht.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/32337c23-f59f-473b-a745-8b0e23f4bcfa_w520_r2.08_fpx65.22_fpy50.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/sport/fussball/inter-mailand-torhueter-josep-martinez-faehrt-mit-auto-in-rollstuhl-81-jaehriger-tot-a-7c414d74-5d41-4a3e-8ba4-9db96fab5b94</guid>
+    </item>    <item>
+      <title>Ben &#38; Jerry&#39;s: Gründer Ben Cohen streitet mit Unilever über Eissorte zugunsten von Palästinensern</title>
+      <link>https://www.spiegel.de/wirtschaft/ben-jerrys-gruender-ben-cohen-streitet-mit-unilever-ueber-eissorte-zugunsten-von-palaestinensern-a-d3f4e357-e1d9-4657-a842-4ea2ab7f362e#ref=rss</link>
+      <description>
+        <![CDATA[Gemeinsam mit seinem Mitgründer verkaufte Ben Cohen Eiscreme als politisches Engagement. Seit der Übernahme durch den Branchenriesen Unilever befindet sich der Aktivist im Kleinkrieg – nun geht es um eine Eissorte für Palästinenser.]]>
+      </description>
+      <source:markdown>Gemeinsam mit seinem Mitgründer verkaufte Ben Cohen Eiscreme als politisches Engagement. Seit der Übernahme durch den Branchenriesen Unilever befindet sich der Aktivist im Kleinkrieg – nun geht es um eine Eissorte für Palästinenser.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/eee49aec-93dc-4dbc-af81-3e1a3fef8129_w520_r2.08_fpx41.71_fpy49.99.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/wirtschaft/ben-jerrys-gruender-ben-cohen-streitet-mit-unilever-ueber-eissorte-zugunsten-von-palaestinensern-a-d3f4e357-e1d9-4657-a842-4ea2ab7f362e</guid>
+    </item>    <item>
+      <title>Lufthansa: Passagier soll Mitreisende verletzt haben – abgebrochener Flug von Chicago nach Frankfurt</title>
+      <link>https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-passagier-soll-mitreisende-verletzt-haben-abgebrochener-flug-von-chicago-nach-frankfurt-a-e5a83d1e-5ade-4dc1-920e-1554145afe67#ref=rss</link>
+      <description>
+        <![CDATA[Am Samstag musste die Lufthansa einen Flug aus Chicago wegen eines »renitenten Passagiers« abbrechen. Nach SPIEGEL-Informationen soll der Mann mit einer Gabel herumgefuchtelt und einen Flugbegleiter geschlagen haben.]]>
+      </description>
+      <source:markdown>Am Samstag musste die Lufthansa einen Flug aus Chicago wegen eines »renitenten Passagiers« abbrechen. Nach SPIEGEL-Informationen soll der Mann mit einer Gabel herumgefuchtelt und einen Flugbegleiter geschlagen haben.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/84f77f36-42cd-48f0-a51a-0d2ba8f10455_w520_r2.08_fpx63_fpy61.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-passagier-soll-mitreisende-verletzt-haben-abgebrochener-flug-von-chicago-nach-frankfurt-a-e5a83d1e-5ade-4dc1-920e-1554145afe67</guid>
+    </item>    <item>
+      <title>Bill Gates plädiert für Wende in der globalen Klimapolitik vor Uno-Klimakonferenz</title>
+      <link>https://www.spiegel.de/wissenschaft/bill-gates-plaediert-fuer-wende-in-der-globalen-klimapolitik-vor-uno-klimakonferenz-a-88d4489e-5d1f-44a1-8494-5c2cfcea5db6#ref=rss</link>
+      <description>
+        <![CDATA[Im Vorfeld der Klimakonferenz fordert Bill Gates einen Kurswechsel in der globalen Klimapolitik: Er glaube nicht, dass die Welt untergehe. Es gebe Wichtigeres zu tun, als Temperaturziele zu verfolgen.]]>
+      </description>
+      <source:markdown>Im Vorfeld der Klimakonferenz fordert Bill Gates einen Kurswechsel in der globalen Klimapolitik: Er glaube nicht, dass die Welt untergehe. Es gebe Wichtigeres zu tun, als Temperaturziele zu verfolgen.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/316c57a2-6d70-407f-b778-7d27849e7b71_w520_r2.08_fpx43.21_fpy44.87.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/wissenschaft/bill-gates-plaediert-fuer-wende-in-der-globalen-klimapolitik-vor-uno-klimakonferenz-a-88d4489e-5d1f-44a1-8494-5c2cfcea5db6</guid>
+    </item>    <item>
+      <title>Zelensky and EU officials to meet on ceasefire plans</title>
+      <link>https://www.rte.ie/news/ukraine/2025/1028/1540972-ukraine-russia/</link>
+      <description>
+        <![CDATA[Ukrainian President Volodymyr Zelensky said that Ukrainian and European officials would meet at the end of the week to discuss the details of a ceasefire plan.]]>
+      </description>
+      <source:markdown>Ukrainian President Volodymyr Zelensky said that Ukrainian and European officials would meet at the end of the week to discuss the details of a ceasefire plan.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ukraine/2025/1028/1540972-ukraine-russia/</guid>
+    </item>    <item>
+      <title>Apple ist jetzt 4.000.000.000.000 US-Dollar wert - Rekordwert an der Börse</title>
+      <link>https://www.spiegel.de/wirtschaft/unternehmen/apple-ist-jetzt-4-000-000-000-000-us-dollar-wert-rekordwert-an-der-boerse-a-0f4299ff-1f97-4fbf-b93f-aa7d7ebc3b19#ref=rss</link>
+      <description>
+        <![CDATA[Das Unternehmen knackt erstmals die Vier-Billionen-Dollar-Marke. Microsoft und der Chipkonzern Nvidia sind allerdings noch wertvoller: Die Unternehmen profitieren vom KI-Hype.]]>
+      </description>
+      <source:markdown>Das Unternehmen knackt erstmals die Vier-Billionen-Dollar-Marke. Microsoft und der Chipkonzern Nvidia sind allerdings noch wertvoller: Die Unternehmen profitieren vom KI-Hype.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/fed29aa5-8734-4106-a0c2-eef6016da069_w520_r2.08_fpx33.33_fpy49.99.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/wirtschaft/unternehmen/apple-ist-jetzt-4-000-000-000-000-us-dollar-wert-rekordwert-an-der-boerse-a-0f4299ff-1f97-4fbf-b93f-aa7d7ebc3b19</guid>
+    </item>    <item>
+      <title>Cardinal Parolin: Vatican Children&#39;s Hospital welcomes war-zone patients</title>
+      <link>https://www.vaticannews.va/en/vatican-city/news/2025-10/parolin-bambino-gesu-child-hospital-innovation-science-research.html</link>
+      <description>
+        <![CDATA[<p>The Cardinal Secretary of State Pietro Parolin speaks about the importance of combining research and care and praises the Bambino Gesù Children’s Hospital for its work during a conference at the facility on Tuesday, October 28.</p>
+                            <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-10/parolin-bambino-gesu-child-hospital-innovation-science-research.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>The Cardinal Secretary of State Pietro Parolin speaks about the importance of combining research and care and praises the Bambino Gesù Children’s Hospital for its work during a conference at the facility on Tuesday, October 28.
+
+[Read all](https://www.vaticannews.va/en/vatican-city/news/2025-10/parolin-bambino-gesu-child-hospital-innovation-science-research.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/vatican-city/news/2025-10/parolin-bambino-gesu-child-hospital-innovation-science-research.html</guid>
+    </item>    <item>
+      <title>Köln: Frau verliert Gold in Wert von mehreren Hunderttausend Euro an Kriminelle</title>
+      <link>https://www.spiegel.de/panorama/justiz/koeln-frau-verliert-gold-in-wert-von-mehreren-hunderttausend-euro-an-kriminelle-a-c5768ddd-3dc5-4087-8040-9270563be0fd#ref=rss</link>
+      <description>
+        <![CDATA[Sie gaben sich als ausländische Investoren aus und erbeuteten so ein kleines Vermögen: In Köln ist eine Seniorin Opfer von Trickbetrügern geworden. Die Polizei sucht nun mit Phantombildern nach den Unbekannten.]]>
+      </description>
+      <source:markdown>Sie gaben sich als ausländische Investoren aus und erbeuteten so ein kleines Vermögen: In Köln ist eine Seniorin Opfer von Trickbetrügern geworden. Die Polizei sucht nun mit Phantombildern nach den Unbekannten.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/e9f1e723-f3a3-4320-87d2-efac7f1ce98e_w520_r2.08_fpx49.02_fpy49.99.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/panorama/justiz/koeln-frau-verliert-gold-in-wert-von-mehreren-hunderttausend-euro-an-kriminelle-a-c5768ddd-3dc5-4087-8040-9270563be0fd</guid>
+    </item>    <item>
+      <title>Tipico: Sportwettenanbieter für Milliardenbetrag an Konkurrenz verkauft</title>
+      <link>https://www.spiegel.de/wirtschaft/unternehmen/tipico-sportwettenanbieter-fuer-milliardenbetrag-an-konkurrenz-verkauft-a-35660447-f1f0-40ac-be82-22709777f53d#ref=rss</link>
+      <description>
+        <![CDATA[Einer der größten deutschen Anbieter für Sportwetten geht nach Frankreich. Mit dem Verkauf sollen Tipico und der Konkurrent Betclic gebündelt werden. Der neue Mehrheitseigner Banijay erhofft sich Großes von dem Geschäft.]]>
+      </description>
+      <source:markdown>Einer der größten deutschen Anbieter für Sportwetten geht nach Frankreich. Mit dem Verkauf sollen Tipico und der Konkurrent Betclic gebündelt werden. Der neue Mehrheitseigner Banijay erhofft sich Großes von dem Geschäft.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/0a2f80f2-7193-4e3d-bab5-dd8573a4f96d_w520_r2.08_fpx53.98_fpy48.98.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/wirtschaft/unternehmen/tipico-sportwettenanbieter-fuer-milliardenbetrag-an-konkurrenz-verkauft-a-35660447-f1f0-40ac-be82-22709777f53d</guid>
+    </item>    <item>
+      <title>Harassment affected Brigette Macron&#39;s health - daughter</title>
+      <link>https://www.rte.ie/news/world/2025/1028/1540962-macron-court/</link>
+      <description>
+        <![CDATA[The daughter of Brigitte Macron told a French court that unsubstantiated claims about her mother's gender had adversely affected the French first lady's health.]]>
+      </description>
+      <source:markdown>The daughter of Brigitte Macron told a French court that unsubstantiated claims about her mother&#39;s gender had adversely affected the French first lady&#39;s health.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2025/1028/1540962-macron-court/</guid>
+    </item>    <item>
+      <title>Rosneft: PCK-Raffinerie in Schwedt und andere Töchter fallen wohl nicht unter US-Sanktionen</title>
+      <link>https://www.spiegel.de/ausland/rosneft-pck-raffinerie-in-schwedt-und-andere-toechter-fallen-wohl-nicht-unter-us-sanktionen-a-c389e320-f1b9-410a-be49-c850b0f69ba2#ref=rss</link>
+      <description>
+        <![CDATA[Mit neuen Sanktionen wollen die USA die russische Ölindustrie treffen. Bedroht davon ist auch die PCK-Raffinerie in Schwedt – laut Bundesregierung ermöglicht die Trump-Regierung nun aber eine Übergangslösung.]]>
+      </description>
+      <source:markdown>Mit neuen Sanktionen wollen die USA die russische Ölindustrie treffen. Bedroht davon ist auch die PCK-Raffinerie in Schwedt – laut Bundesregierung ermöglicht die Trump-Regierung nun aber eine Übergangslösung.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/d0a551dc-b288-4738-b985-f3ce63eed477_w520_r2.08_fpx54_fpy54.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/ausland/rosneft-pck-raffinerie-in-schwedt-und-andere-toechter-fallen-wohl-nicht-unter-us-sanktionen-a-c389e320-f1b9-410a-be49-c850b0f69ba2</guid>
+    </item>    <item>
+      <title>Georgien: Regierung will größte Oppositionsparteien verbieten lassen</title>
+      <link>https://www.spiegel.de/ausland/georgien-regierung-will-groesste-oppositionsparteien-verbieten-lassen-a-2b3016ab-7ca0-45ee-8181-0ae471849a4c#ref=rss</link>
+      <description>
+        <![CDATA[Es ist die nächste Eskalationsstufe: Die Regierungspartei Georgischer Traum will ihre größten Konkurrenten im Land stark einschränken. Die Opposition beklagt einen prorussischen Kurs.]]>
+      </description>
+      <source:markdown>Es ist die nächste Eskalationsstufe: Die Regierungspartei Georgischer Traum will ihre größten Konkurrenten im Land stark einschränken. Die Opposition beklagt einen prorussischen Kurs.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/fc8ddbae-6f74-4768-8266-26718f6ba339_w520_r2.08_fpx49_fpy64.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/ausland/georgien-regierung-will-groesste-oppositionsparteien-verbieten-lassen-a-2b3016ab-7ca0-45ee-8181-0ae471849a4c</guid>
+    </item>    <item>
+      <title>Eier werden im kommenden Jahr bis zu 15 Prozent teurer - Vogelgrippe belastet Erzeuger</title>
+      <link>https://www.spiegel.de/wirtschaft/service/eier-werden-im-kommenden-jahr-bis-zu-15-prozent-teurer-vogelgrippe-belastet-erzeuger-a-4fe65834-8ae5-4386-92d7-59bb37df0fb2#ref=rss</link>
+      <description>
+        <![CDATA[Verbraucher müssen ab kommendem Jahr mehr für eine Packung Eier zahlen. Produzenten verweisen auf gestiegene Kosten und hohe Nachfrage. Die Vogelgrippe spielt dabei noch keine Rolle.]]>
+      </description>
+      <source:markdown>Verbraucher müssen ab kommendem Jahr mehr für eine Packung Eier zahlen. Produzenten verweisen auf gestiegene Kosten und hohe Nachfrage. Die Vogelgrippe spielt dabei noch keine Rolle.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/acc3e7b4-0001-0004-0000-000001172619_w520_r2.08_fpx57_fpy66.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/wirtschaft/service/eier-werden-im-kommenden-jahr-bis-zu-15-prozent-teurer-vogelgrippe-belastet-erzeuger-a-4fe65834-8ae5-4386-92d7-59bb37df0fb2</guid>
+    </item>    <item>
+      <title>Verfassungsgericht rügt Festnahmen vor Anordnung von Abschiebungshaft</title>
+      <link>https://www.spiegel.de/panorama/justiz/verfassungsgericht-ruegt-festnahmen-vor-anordnung-von-abschiebungshaft-a-c4437e6b-ad8b-4f46-8d77-3ed1bc4f0acb#ref=rss</link>
+      <description>
+        <![CDATA[Behörden nahmen Menschen für geplante Abschiebungen fest, obwohl noch gar keine Haft angeordnet war. Einige Betroffene haben sich nun erfolgreich dagegen gewehrt.]]>
+      </description>
+      <source:markdown>Behörden nahmen Menschen für geplante Abschiebungen fest, obwohl noch gar keine Haft angeordnet war. Einige Betroffene haben sich nun erfolgreich dagegen gewehrt.</source:markdown>
+      <enclosure url="https://cdn.prod.www.spiegel.de/images/3d0788d4-96c8-4d87-9ba6-f5c2b1b11398_w520_r2.08_fpx32.9_fpy49.87.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.spiegel.de/panorama/justiz/verfassungsgericht-ruegt-festnahmen-vor-anordnung-von-abschiebungshaft-a-c4437e6b-ad8b-4f46-8d77-3ed1bc4f0acb</guid>
+    </item>    <item>
+      <title>Ghana’s Cape Coast Archdiocese celebrates Jubilee Year and Diamond Anniversary</title>
+      <link>https://www.vaticannews.va/en/africa/news/2025-10/ghana-s-cape-coast-archdiocese-celebrates-jubilee-year-and-diamo.html</link>
+      <description>
+        <![CDATA[<p>The Catholic Archdiocese of Cape Coast held celebrations over the weekend to mark both the ongoing Catholic Church’s 2025 Jubilee Year and the Diamond Jubilee of the elevation of the Cape Coast Church to an Archdiocese.</p>
+                            <p><a href="https://www.vaticannews.va/en/africa/news/2025-10/ghana-s-cape-coast-archdiocese-celebrates-jubilee-year-and-diamo.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>The Catholic Archdiocese of Cape Coast held celebrations over the weekend to mark both the ongoing Catholic Church’s 2025 Jubilee Year and the Diamond Jubilee of the elevation of the Cape Coast Church to an Archdiocese.
+
+[Read all](https://www.vaticannews.va/en/africa/news/2025-10/ghana-s-cape-coast-archdiocese-celebrates-jubilee-year-and-diamo.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/africa/news/2025-10/ghana-s-cape-coast-archdiocese-celebrates-jubilee-year-and-diamo.html</guid>
+    </item>    <item>
+      <title>A newborn, a husband at the front, and volunteer work: being a woman in Ukraine today</title>
+      <link>https://www.vaticannews.va/en/church/news/2025-10/hope-story-ukraine-women-mother-children-fathers-soldiers-war.html</link>
+      <description>
+        <![CDATA[<p>Olena Mosendz, a young Ukrainian mother whose husband is fighting at the front, tells Vatican News what life is like for the many women trying to balance work and helping the war effort with caring for their families. </p>
+                            <p><a href="https://www.vaticannews.va/en/church/news/2025-10/hope-story-ukraine-women-mother-children-fathers-soldiers-war.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>Olena Mosendz, a young Ukrainian mother whose husband is fighting at the front, tells Vatican News what life is like for the many women trying to balance work and helping the war effort with caring for their families.
+
+[Read all](https://www.vaticannews.va/en/church/news/2025-10/hope-story-ukraine-women-mother-children-fathers-soldiers-war.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/church/news/2025-10/hope-story-ukraine-women-mother-children-fathers-soldiers-war.html</guid>
+    </item>    <item>
+      <title>Holy See: Space-based weaponry poses ‘genuine and grave’ threat</title>
+      <link>https://www.vaticannews.va/en/vatican-city/news/2025-10/holy-see-space-weapons-threat-peace-archbishop-caccia.html</link>
+      <description>
+        <![CDATA[<p>Archbishop Gabriele Caccia, Permanent Observer of the Holy See to the United Nations, stresses that space is a ‘common good’ to be protected for the benefit of future generations.</p>
+                            <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-10/holy-see-space-weapons-threat-peace-archbishop-caccia.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>Archbishop Gabriele Caccia, Permanent Observer of the Holy See to the United Nations, stresses that space is a ‘common good’ to be protected for the benefit of future generations.
+
+[Read all](https://www.vaticannews.va/en/vatican-city/news/2025-10/holy-see-space-weapons-threat-peace-archbishop-caccia.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/vatican-city/news/2025-10/holy-see-space-weapons-threat-peace-archbishop-caccia.html</guid>
+    </item>    <item>
+      <title>High Court continues urgent orders over vulnerable child</title>
+      <link>https://www.rte.ie/news/courts/2025/1028/1540941-high-court-orders/</link>
+      <description>
+        <![CDATA[The President of the High Court has continued urgent orders he made last week for the care and protection of a child described as very vulnerable.]]>
+      </description>
+      <source:markdown>The President of the High Court has continued urgent orders he made last week for the care and protection of a child described as very vulnerable.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/courts/2025/1028/1540941-high-court-orders/</guid>
+    </item>    <item>
+      <title>&#39;Frustration&#39; among FF TDs at leadership after election</title>
+      <link>https://www.rte.ie/news/ireland/2025/1028/1540939-fianna-fail/</link>
+      <description>
+        <![CDATA[Fianna Fáil backbenchers have aired their "frustration" after the party's "disastrous" Presidential Election campaign.]]>
+      </description>
+      <source:markdown>Fianna Fáil backbenchers have aired their &#34;frustration&#34; after the party&#39;s &#34;disastrous&#34; Presidential Election campaign.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/1028/1540939-fianna-fail/</guid>
+    </item>    <item>
+      <title>Texas sues Tylenol makers J&#38;J and Kenvue, citing unproven link between the drug and autism</title>
+      <link>https://www.cbc.ca/news/health/texas-sues-tylenol-makers-9.6956726?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/dacb9c88-643a-4e93-8c16-a6f01f20460a,1761670262343/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C296%2C5685%2C3197%29%3BResize%3D%28620%29' alt='a box and a bottle of tylenol on a store shelf beside eachother' width='620' height='349' title='An illustration photo shows Tylenol in Schwenksville, Pennsylvania, U.S. September 24, 2025.'/><p>The lawsuit by Texas Attorney General Ken Paxton comes weeks after U.S. President Donald Trump linked Tylenol use during pregnancy to autism in children. The claim is a long-standing one that researchers have not found conclusive evidence to support.</p>]]>
+      </description>
+      <source:markdown>![a box and a bottle of tylenol on a store shelf beside eachother](https://i.cbc.ca/ais/dacb9c88-643a-4e93-8c16-a6f01f20460a,1761670262343/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C296%2C5685%2C3197%29%3BResize%3D%28620%29)
+
+The lawsuit by Texas Attorney General Ken Paxton comes weeks after U.S. President Donald Trump linked Tylenol use during pregnancy to autism in children. The claim is a long-standing one that researchers have not found conclusive evidence to support.</source:markdown>
+      <guid>cid://9.6956726</guid>
+    </item>    <item>
       <title>Kenia: Urlauber aus Deutschland und Ungarn sowie Pilot sterben bei Flugzeugabsturz</title>
       <link>https://www.spiegel.de/panorama/justiz/kenia-urlauber-aus-deutschland-und-ungarn-sowie-pilot-sterben-bei-flugzeugabsturz-a-bc8560b7-f7fc-4f50-b113-4746353a35c8#ref=rss</link>
       <description>
@@ -62,6 +474,15 @@
       <enclosure url="https://cdn.prod.www.spiegel.de/images/e1c50593-90c2-4f5e-be92-69bf386ead3a_w520_r2.08_fpx30.85_fpy50.jpg" length="0" type="image/jpeg" />
       <guid>cid://https://www.spiegel.de/panorama/garmisch-partenkirchen-angeklagte-bestreiten-rechtliche-verantwortung-fuer-toedliches-zugunglueck-a-e974827b-3c79-46e4-8744-f971c02dc190</guid>
     </item>    <item>
+      <title>‘Catastrophic’ Hurricane Melissa hours from landfall in Jamaica</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166197</link>
+      <description>
+        <![CDATA[Millions in Jamaica and across the Caribbean are bracing for massive impact from Hurricane Melissa on Tuesday as the UN and partners warn of a “severe” and “immediate” threat.]]>
+      </description>
+      <source:markdown>Millions in Jamaica and across the Caribbean are bracing for massive impact from Hurricane Melissa on Tuesday as the UN and partners warn of a “severe” and “immediate” threat.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/28-10-2025-Jamaica-WFP-01.jpg/image560x340cropped.jpg" length="39013" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166197</guid>
+    </item>    <item>
       <title>80 Jahre nach Kriegsende: Die Verbrechen deutscher Zahnärzte im Nazi-Reich</title>
       <link>https://www.spiegel.de/geschichte/80-jahre-nach-kriegsende-die-verbrechen-deutscher-zahnaerzte-im-nazi-reich-a-1741c08d-53ba-41f1-9930-18b5efe4ce85#ref=rss</link>
       <description>
@@ -70,6 +491,16 @@
       <source:markdown>Deutsche Zahnmediziner begingen unter Hitler Menschenversuche und Raubmord. Nach 1945 schwieg man jahrzehntelang darüber. Jetzt bekennt sich die Zahnärzteschaft erstmals zu ihrer historischen Schuld.</source:markdown>
       <enclosure url="https://cdn.prod.www.spiegel.de/images/6289a541-a248-4f05-b5c0-3904dacb8eeb_w520_r2.08_fpx37.82_fpy49.99.jpg" length="0" type="image/jpeg" />
       <guid>cid://https://www.spiegel.de/geschichte/80-jahre-nach-kriegsende-die-verbrechen-deutscher-zahnaerzte-im-nazi-reich-a-1741c08d-53ba-41f1-9930-18b5efe4ce85</guid>
+    </item>    <item>
+      <title>U.S. strikes on alleged drug boats kill 14 people in Pacific waters, defence secretary says</title>
+      <link>https://www.cbc.ca/news/world/us-hegseth-three-deadly-boat-strikes-pacific-9.6956503?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/7980d684-2a87-49cd-9ed3-981227e88efc,1761664436385/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C93%2C3265%2C1836%29%3BResize%3D%28620%29' alt='A cleanshaven man wearing a baseball cap and suit and tie is shown gesturing and speaking behind a podium.' width='620' height='349' title='U.S. Defense Secretary Pete Hegseth speaks to soldiers and servicemen ahead of the arrival of U.S. President Donald Trump to the USS George Washington at the U.S. Navy&apos;s Yokosuka base in Yokosuka, south of Tokyo, Tuesday, Oct. 28, 2025.  '/><p>Three strikes conducted by the U.S. military on boats in the eastern Pacific Ocean killed 14 people and left one survivor, U.S. Defence Secretary Pete Hegseth said on Tuesday, alleging those on board were drug traffickers.</p>]]>
+      </description>
+      <source:markdown>![A cleanshaven man wearing a baseball cap and suit and tie is shown gesturing and speaking behind a podium.](https://i.cbc.ca/ais/7980d684-2a87-49cd-9ed3-981227e88efc,1761664436385/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C93%2C3265%2C1836%29%3BResize%3D%28620%29)
+
+Three strikes conducted by the U.S. military on boats in the eastern Pacific Ocean killed 14 people and left one survivor, U.S. Defence Secretary Pete Hegseth said on Tuesday, alleging those on board were drug traffickers.</source:markdown>
+      <guid>cid://9.6956503</guid>
     </item>    <item>
       <title>Rottweil: Mit Fleischklopfer – Mann gesteht Mord an seiner Mutter</title>
       <link>https://www.spiegel.de/panorama/justiz/rottweil-mit-fleischklopfer-mann-gesteht-mord-an-seiner-mutter-a-5e8514c0-bf29-41e0-aacc-2b8819c9cf77#ref=rss</link>
@@ -124,6 +555,14 @@
       <enclosure url="https://cdn.prod.www.spiegel.de/images/3d4eabb6-577e-4c6e-9acb-183e4d9d3041_w520_r2.08_fpx54.98_fpy29.94.jpg" length="0" type="image/jpeg" />
       <guid>cid://https://www.spiegel.de/start/julian-kamps-ex-gntm-kandidat-loest-debatte-ueber-vollzeitarbeit-aus-a-21c07e2a-212f-4839-9bdc-a2b1ff25c54a</guid>
     </item>    <item>
+      <title>Jamaican officials warn conditions will soon worsen as Hurricane Melissa approaches</title>
+      <link>https://www.cbc.ca/news/world/livestory/catastrophic-winds-rain-expected-to-hit-jamaica-cuba-with-hurricane-melissa-on-its-way-9.6956506?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/5cf48efe-925a-4016-9350-c414f88407a5,1761665198017/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='White clouds in a circular pattern with a dot in the centre, over the ocean' width='620' height='349' title='A satellite view shows Tropical Storm Melissa, over the Caribbean Sea, October 27, 2025. CSU/CIRA &amp; NOAA/Handout via REUTERS    THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. MANDATORY CREDIT.     TPX IMAGES OF THE DAY'/><p></p>]]>
+      </description>
+      <source:markdown>![White clouds in a circular pattern with a dot in the centre, over the ocean](https://i.cbc.ca/ais/5cf48efe-925a-4016-9350-c414f88407a5,1761665198017/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29)</source:markdown>
+      <guid>cid://9.6956668</guid>
+    </item>    <item>
       <title>Prinz Andrew soll Sexualstraftäter Epstein auf sein Privatanwesen geladen haben</title>
       <link>https://www.spiegel.de/ausland/prinz-andrew-soll-sexualstraftaeter-epstein-auf-sein-privatanwesen-geladen-haben-a-9349b816-55c7-4c8d-b632-e72c092b3514#ref=rss</link>
       <description>
@@ -172,12 +611,12 @@
 [Read all](https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-apostolic-letter-education-anniversary-gravissimum-educ.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/pope/news/2025-10/pope-leo-apostolic-letter-education-anniversary-gravissimum-educ.html</guid>
     </item>    <item>
-      <title>Remains of previously retrieved hostage handed to Israel</title>
+      <title>Netanyahu orders IDF to immediately carry out Gaza strike</title>
       <link>https://www.rte.ie/news/world/2025/1028/1540904-israel-gaza/</link>
       <description>
-        <![CDATA[Israel will respond after Hamas handed over human remains that did not belong to missing Israeli hostages, which Israel considers a violation of the Gaza ceasefire, Prime Minister Benjamin Netanyahu has said.]]>
+        <![CDATA[Israeli Prime Minister Benjamin Netanyahu ordered the military to immediately carry out "powerful" attacks in Gaza.]]>
       </description>
-      <source:markdown>Israel will respond after Hamas handed over human remains that did not belong to missing Israeli hostages, which Israel considers a violation of the Gaza ceasefire, Prime Minister Benjamin Netanyahu has said.</source:markdown>
+      <source:markdown>Israeli Prime Minister Benjamin Netanyahu ordered the military to immediately carry out &#34;powerful&#34; attacks in Gaza.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2025/1028/1540904-israel-gaza/</guid>
     </item>    <item>
       <title>Zivilschutz im Unterricht: Ist Alexander Dobrindts Vorschlag eine gute Idee?</title>
@@ -348,14 +787,14 @@ so beflissen, wie man es nur in Tokio beherrscht. Dennoch bleibt ein latentes Mi
       <enclosure url="https://cdn.prod.www.spiegel.de/images/7d242a43-a852-4625-ad53-a31fe95f1d53_w520_r2.08_fpx38.06_fpy44.97.jpg" length="0" type="image/jpeg" />
       <guid>cid://https://www.spiegel.de/sport/fussball/david-beckhams-henkersmahlzeit-waere-aal-in-aspik-a-2cbee5e7-dd8c-4e12-bb86-08b6247615a9</guid>
     </item>    <item>
-      <title>Israel to respond after receiving remains not belonging to missing hostages, Netanyahu says</title>
+      <title>Hamas delays hostage remains handover after Netanyahu orders &#39;powerful attacks&#39; on Gaza</title>
       <link>https://www.cbc.ca/news/world/netanyahu-israel-hamas-body-missing-hostage-9.6956347?cmp=rss</link>
       <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/05e73673-dc6a-4549-8c81-6cfab9e8839e,1761654778554/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C393%2C7543%2C4242%29%3BResize%3D%28620%29' alt='People watch as a heavy machinery operator works on a site.' width='620' height='349' title='Palestinians watch as Egyptian machinery and workers search for the bodies of hostages near a tent camp for displaced people in Hamad City, Khan Younis, in the southern Gaza Strip, Tuesday, Oct. 28, 2025. (AP Photo/Abdel Kareem Hana)'/><p>Israel will respond after Hamas handed over human remains that did not belong to missing Israeli hostages, which Israel considers a violation of the Gaza ceasefire, Prime Minister Benjamin Netanyahu said Tuesday.</p>]]>
+        <![CDATA[<img src='https://i.cbc.ca/ais/05fa9ba4-ee88-4fcb-96f1-84ef3d769e61,1761673102944/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3BResize%3D%28620%29' alt='Militants with face coverings carry a body bag as they are surrounded by people.' width='620' height='349' title='Hamas militants carry a white bag believed to contain a body, after retrieving it from a tunnel during a search for the remains of hostages in Hamad City, Khan Younis, in southern Gaza, Tuesday, Oct. 28, 2025. (AP Photo/Jehad Alshrafi)'/><p>Israeli Prime Minister Benjamin Netanyahu said Tuesday he had ordered the military to "carry out powerful attacks" in Gaza after accusing the militant group Hamas of violating a ceasefire agreement in the Palestinian territory.</p>]]>
       </description>
-      <source:markdown>![People watch as a heavy machinery operator works on a site.](https://i.cbc.ca/ais/05e73673-dc6a-4549-8c81-6cfab9e8839e,1761654778554/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C393%2C7543%2C4242%29%3BResize%3D%28620%29)
+      <source:markdown>![Militants with face coverings carry a body bag as they are surrounded by people.](https://i.cbc.ca/ais/05fa9ba4-ee88-4fcb-96f1-84ef3d769e61,1761673102944/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3BResize%3D%28620%29)
 
-Israel will respond after Hamas handed over human remains that did not belong to missing Israeli hostages, which Israel considers a violation of the Gaza ceasefire, Prime Minister Benjamin Netanyahu said Tuesday.</source:markdown>
+Israeli Prime Minister Benjamin Netanyahu said Tuesday he had ordered the military to &#34;carry out powerful attacks&#34; in Gaza after accusing the militant group Hamas of violating a ceasefire agreement in the Palestinian territory.</source:markdown>
       <guid>cid://9.6956347</guid>
     </item>    <item>
       <title>Amazon cutting 14,000 corporate jobs to spend more on AI</title>
@@ -375,6 +814,14 @@ Amazon will cut about 14,000 corporate jobs as the online retail giant ramps up 
       </description>
       <source:markdown>President Michael D Higgins is expected to leave hospital today following treatment for an infection.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1028/1540870-higgins-treatment/</guid>
+    </item>    <item>
+      <title>President Higgins returns to Áras after hospital stay</title>
+      <link>https://www.rte.ie/news/ireland/2025/1028/1540870-michael-d-higgins/</link>
+      <description>
+        <![CDATA[President Michael D Higgins has returned to Áras an Uachtaráin following treatment in hospital for an infection.]]>
+      </description>
+      <source:markdown>President Michael D Higgins has returned to Áras an Uachtaráin following treatment in hospital for an infection.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/1028/1540870-michael-d-higgins/</guid>
     </item>    <item>
       <title>Prunella Scales, sharp-tongued and long-suffering wife on Fawlty Towers, dead at 93</title>
       <link>https://www.cbc.ca/news/entertainment/obit-uk-actor-prunella-scales-obit-9.6956315?cmp=rss</link>
@@ -429,9 +876,9 @@ Actor Prunella Scales, best known as acid-tongued Sybil Fawlty in the classic Br
       <title>Jamaica, Cuba brace for Hurricane Melissa to make landfall today</title>
       <link>https://www.cbc.ca/news/world/hurricane-melissa-tuesday-st-ann-jamaica-santiago-cuba-9.6956280?cmp=rss</link>
       <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/3e71692e-b68d-4c94-b868-b827be36b74d,1761644983275/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4792%2C2695%29%3BResize%3D%28620%29' alt='A man wearing a hooded sweatshirt and shorts stands while holding a bicycle while in an alley filled with water up to his ankles.' width='620' height='349' title='A man wades through a flooded street ahead of the forecasted arrival of Hurricane Melissa in Old Harbour, Jamaica, Monday, Oct. 27, 2025. (AP Photo/Matias Delacroix)'/><p>Hurricane Melissa was set to pummel Jamaica on Tuesday as a catastrophic Category 5 storm, the strongest to lash the island since record-keeping began 174 years ago.</p>]]>
+        <![CDATA[<img src='https://i.cbc.ca/ais/ccc60458-0c8e-4ed3-97a6-5064cadebb14,1761669510746/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C223%2C4290%2C2413%29%3BResize%3D%28620%29' alt='A large wave is seen washing ashore on a cloudy day. In the distance, a dark complected, shirtless man is shown.' width='620' height='349' title='Waves splash in Kingston, Jamaica, as Hurricane Melissa approaches, Tuesday, Oct. 28, 2025.  '/><p>Hurricane Melissa was set to pummel Jamaica on Tuesday as a catastrophic Category 5 storm, the strongest to lash the island since record-keeping began 174 years ago.</p>]]>
       </description>
-      <source:markdown>![A man wearing a hooded sweatshirt and shorts stands while holding a bicycle while in an alley filled with water up to his ankles.](https://i.cbc.ca/ais/3e71692e-b68d-4c94-b868-b827be36b74d,1761644983275/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4792%2C2695%29%3BResize%3D%28620%29)
+      <source:markdown>![A large wave is seen washing ashore on a cloudy day. In the distance, a dark complected, shirtless man is shown.](https://i.cbc.ca/ais/ccc60458-0c8e-4ed3-97a6-5064cadebb14,1761669510746/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C223%2C4290%2C2413%29%3BResize%3D%28620%29)
 
 Hurricane Melissa was set to pummel Jamaica on Tuesday as a catastrophic Category 5 storm, the strongest to lash the island since record-keeping began 174 years ago.</source:markdown>
       <guid>cid://9.6956280</guid>
@@ -451,6 +898,14 @@ Hurricane Melissa was set to pummel Jamaica on Tuesday as a catastrophic Categor
       </description>
       <source:markdown>The World Meteorological Organization said it expects a catastrophic situation in Jamaica as Hurricane Melissa makes landfall with winds gusts over 300km/h, flash floods and landslides in the worst storm to hit the island this century.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1028/1540836-hurricane-melissa-weather/</guid>
+    </item>    <item>
+      <title>Hurricane Melissa makes landfall in Jamaica</title>
+      <link>https://www.rte.ie/news/2025/1028/1540836-hurricane-melissa-jamaica/</link>
+      <description>
+        <![CDATA[Hurricane Melissa has made landfall in Jamaica today as a category five hurricane, the US National Hurricane Center said in its latest advisory.]]>
+      </description>
+      <source:markdown>Hurricane Melissa has made landfall in Jamaica today as a category five hurricane, the US National Hurricane Center said in its latest advisory.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1028/1540836-hurricane-melissa-jamaica/</guid>
     </item>    <item>
       <title>Trade deal or no trade deal, China still holds crucial minerals leverage over U.S.</title>
       <link>https://www.cbc.ca/news/world/trump-xi-us-china-apec-meeting-9.6955385?cmp=rss</link>
@@ -1140,6 +1595,60 @@ The NBA, in reaction to the arrests of Miami guard Terry Rozier and Portland coa
       <source:markdown>Amid deepening global divides and economic uncertainty, the United Nations called for stronger multilateral cooperation and sweeping reforms to global financial and governance systems, emphasising the need for a “networked, multipolar world” where equity and inclusion guide decision-making.</source:markdown>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/27-10-2025-UNICEF-Lao_PDR.jpeg/image560x340cropped.jpg" length="66347" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/10/1166188</guid>
+    </item>    <item>
+      <title>World News in Brief: Funding cuts curb development, human rights in Belarus update, Ebola and mpox in Africa</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166195</link>
+      <description>
+        <![CDATA[Sharp declines in global aid are undermining decades of human rights and development progress, the UN Deputy High Commissioner for Human Rights, Nada Al Nashif, warned on Monday.]]>
+      </description>
+      <source:markdown>Sharp declines in global aid are undermining decades of human rights and development progress, the UN Deputy High Commissioner for Human Rights, Nada Al Nashif, warned on Monday.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/15-09-2022-UN-Photo-Nada-Al-Nashif.jpg/image560x340cropped.jpg" length="23062" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166195</guid>
+    </item>    <item>
+      <title>Hurricane Melissa: Caribbean braces for destructive winds and ‘catastrophic rainfall’</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166194</link>
+      <description>
+        <![CDATA[Millions of people across the Caribbean are bracing for the impact of Hurricane Melissa as it reached Category 5 status on Monday – the most powerful on the scale – defined by sustained winds of at least 157 mph (252 kmh).&nbsp;]]>
+      </description>
+      <source:markdown>Millions of people across the Caribbean are bracing for the impact of Hurricane Melissa as it reached Category 5 status on Monday – the most powerful on the scale – defined by sustained winds of at least 157 mph (252 kmh).</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/06-06-2023-Haiti-floods-03.jpg/image560x340cropped.jpg" length="59277" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166194</guid>
+    </item>    <item>
+      <title>Children at risk as winter looms amid renewed strikes in Ukraine</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166193</link>
+      <description>
+        <![CDATA[Airstrikes and ongoing conflict in Ukraine are leaving civilians – including thousands of children – without homes, power, water and basic services, as humanitarians warn the approaching winter is heightening the risks for communities along the frontlines.]]>
+      </description>
+      <source:markdown>Airstrikes and ongoing conflict in Ukraine are leaving civilians – including thousands of children – without homes, power, water and basic services, as humanitarians warn the approaching winter is heightening the risks for communities along the frontlines.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/19-02-2025-UNOCHA-Ukraine-03.jpg/image560x340cropped.jpg" length="66211" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166193</guid>
+    </item>    <item>
+      <title>Russian army committing murder in Ukraine: Independent rights commission</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166189</link>
+      <description>
+        <![CDATA[Drones operated by Russian forces have repeatedly attacked Ukrainian civilians, causing deaths, injuries and large-scale destruction, independent&nbsp;UN human rights investigators said on Monday.]]>
+      </description>
+      <source:markdown>Drones operated by Russian forces have repeatedly attacked Ukrainian civilians, causing deaths, injuries and large-scale destruction, independent UN human rights investigators said on Monday.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/10-04-2025_UNOCHA_Ukraine.jpg/image560x340cropped.jpg" length="53604" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166189</guid>
+    </item>    <item>
+      <title>Desperate need for water and food continues as Gaza families head north</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166191</link>
+      <description>
+        <![CDATA[More than 470,000 movements by civilians heading north inside the Gaza Strip have been recorded since the ceasefire began, said the UN aid coordination office (OCHA) on Monday.]]>
+      </description>
+      <source:markdown>More than 470,000 movements by civilians heading north inside the Gaza Strip have been recorded since the ceasefire began, said the UN aid coordination office (OCHA) on Monday.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/14-10-2025-WFP-Gaza-02.jpg/image560x340cropped.jpg" length="26984" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166191</guid>
+    </item>    <item>
+      <title>Risk of large-scale atrocities in Sudan’s El Fasher grows ‘by the day’</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166190</link>
+      <description>
+        <![CDATA[Grave atrocities, including summary executions are reportedly being carried out in the Darfuri regional capital of El Fasher by the Rapid Support Forces (RSF) militia, according to the UN human rights office (OHCHR).]]>
+      </description>
+      <source:markdown>Grave atrocities, including summary executions are reportedly being carried out in the Darfuri regional capital of El Fasher by the Rapid Support Forces (RSF) militia, according to the UN human rights office (OHCHR).</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/21-04-2025-UNICEF-Sudan-19.jpg/image560x340cropped.jpg" length="27703" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166190</guid>
     </item>    <item>
       <title>China fordert gegenseitigen Respekt zwischen Peking und Berlin</title>
       <link>https://www.spiegel.de/politik/deutschland/china-fordert-gegenseitigen-respekt-zwischen-peking-und-berlin-a-dcef771d-3033-40b3-a97c-98d881aad57a#ref=rss</link>
