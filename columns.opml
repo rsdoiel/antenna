@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>28 Oct 25 15:43 -0700</dateCreated>
+        <dateCreated>29 Oct 25 06:10 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -151,7 +151,7 @@
         <outline text="Letters of Note" type="rss" xmlUrl="https://lettersofnote.com/feed/" htmlUrl="https://lettersofnote.com,https://lettersofnote.com/feed/" description="Correspondence Deserving of a Wider Audience" url="https://lettersofnote.com/feed/"></outline>
         <outline text="Letters of Note" type="rss" xmlUrl="https://news.lettersofnote.com/feed" htmlUrl="https://news.lettersofnote.com,https://news.lettersofnote.com/feed" description="Nothing but history&#39;s most interesting letters. " url="https://news.lettersofnote.com/feed"></outline>
         <outline text="Liam Proven blog" type="rss" xmlUrl="https://lproven.dreamwidth.org/data/rss" htmlUrl="https://lproven.dreamwidth.org/" description="Liam&#39;s write-only LJ - Dreamwidth Studios"></outline>
-        <outline text="Liam Proven&#39;s articles at the Register" type="atom" xmlUrl="https://feed.theregister.com/atom?a=Liam%20Proven" htmlUrl="https://feed.theregister.com/atom?a=liam+proven,https://search.theregister.com/?q=&amp;author=liam+proven" description="Biting the hand that feeds IT — Enterprise Technology News and Analysis" url="https://feed.theregister.com/atom?a=liam+proven"></outline>
+        <outline text="Liam Proven&#39;s articles at the Register" type="atom" xmlUrl="https://feed.theregister.com/atom?a=Liam%20Proven" htmlUrl="https://feed.theregister.com/atom?a=Liam+Proven,https://search.theregister.com/?q=&amp;author=Liam+Proven" description="Biting the hand that feeds IT — Enterprise Technology News and Analysis" url="https://feed.theregister.com/atom?a=Liam+Proven"></outline>
         <outline text="Liam on Linux" type="rss" xmlUrl="https://liam-on-linux.dreamwidth.org/data/rss" htmlUrl="https://liam-on-linux.dreamwidth.org/" description="Liam on Linux - Dreamwidth Studios"></outline>
         <outline text="Lispy Arnuld blog" type="rss" xmlUrl="https://lispyarnuld.wordpress.com/feed/" htmlUrl="https://lispyarnuld.wordpress.com,https://lispyarnuld.wordpress.com/feed/" description="Musings on Data Science" url="https://lispyarnuld.wordpress.com/feed/"></outline>
         <outline text="LitHub" type="rss" xmlUrl="https://lithub.com/feed/" htmlUrl="https://lithub.com,https://lithub.com/feed/" description="The best of the literary web" url="https://lithub.com/feed/"></outline>

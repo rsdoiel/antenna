@@ -7,16 +7,71 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>28 Oct 25 15:43 -0700</lastBuildDate>
+    <lastBuildDate>29 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Tonight is Game 4 of the World Series. Here&#39;s what you need to know</title>
+      <title>Need food assistance? Where to go when CalFresh and WIC benefits stop on Nov. 1</title>
+      <link>https://laist.com/news/food-assistance-where-to-go-calfresh-wic-benefits-stop</link>
+      <description>
+        <![CDATA[We’ve compiled a list of resources throughout Los Angeles and Orange counties to help fill the gap while the federal shutdown continues.]]>
+      </description>
+      <source:markdown>We’ve compiled a list of resources throughout Los Angeles and Orange counties to help fill the gap while the federal shutdown continues.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-2d27-d84d-affa-efef9a610000</guid>
+    </item>    <item>
+      <title>Is your ballot signature readable? Here&#39;s how SoCal officials verify it when you vote</title>
+      <description>
+        <![CDATA[Every ballot filed in the upcoming special election requires a voter’s signature. Here's a look at how the process to verify them works.]]>
+      </description>
+      <source:markdown>Every ballot filed in the upcoming special election requires a voter’s signature. Here&#39;s a look at how the process to verify them works.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-2cdd-d6cc-a9ff-fefdfc870000</guid>
+    </item>    <item>
+      <title>Despite shutdown, WIC benefits for moms and kids continue — and you can still sign up</title>
+      <link>https://laist.com/news/education/early-childhood-education-pre-k/snap-benefits-lapse-wic-available</link>
+      <description>
+        <![CDATA[The California Department of Public Health, which administers WIC, says it has gotten additional funds from the USDA and expects “to remain fully operational through Nov. 30."]]>
+      </description>
+      <source:markdown>The California Department of Public Health, which administers WIC, says it has gotten additional funds from the USDA and expects “to remain fully operational through Nov. 30.&#34;</source:markdown>
+      <guid>cid://urn:uuid:0000019a-2d09-d84d-affa-efeb7a0a0000</guid>
+    </item>    <item>
+      <title>How Israel is winning the wars and losing the peace</title>
+      <link>https://laist.com/news/how-israel-is-winning-the-wars-and-losing-the-peace</link>
+      <description>
+        <![CDATA[Israel has strengthened its security with a series of sweeping military victories in the past two years. It has also become far more isolated internationally, with no clear path ahead.]]>
+      </description>
+      <source:markdown>Israel has strengthened its security with a series of sweeping military victories in the past two years. It has also become far more isolated internationally, with no clear path ahead.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-2e03-d84d-affa-eeeb69b00000</guid>
+    </item>    <item>
+      <title>LA County approves nearly another billion dollars for sex abuse settlement</title>
+      <link>https://laist.com/news/criminal-justice/la-county-approves-second-sex-abuse-settlement-ab-218</link>
+      <description>
+        <![CDATA[Almost half of the $828 million payout will be paid in just a few weeks.]]>
+      </description>
+      <source:markdown>Almost half of the $828 million payout will be paid in just a few weeks.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-2d32-d6cc-a9ff-ff3a55fe0000</guid>
+    </item>    <item>
+      <title>Israel launches renewed strikes in Gaza less than 3 weeks into Trump&#39;s ceasefire deal</title>
+      <link>https://laist.com/news/israel-launches-renewed-strikes-in-gaza-less-than-3-weeks-into-trumps-ceasefire-deal</link>
+      <description>
+        <![CDATA[Israel's military has begun striking the Gaza Strip again, as Israel and Hamas traded blame for violating the ceasefire brokered by President Donald Trump.]]>
+      </description>
+      <source:markdown>Israel&#39;s military has begun striking the Gaza Strip again, as Israel and Hamas traded blame for violating the ceasefire brokered by President Donald Trump.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-2d0f-d84d-affa-efef8ec30000</guid>
+    </item>    <item>
+      <title>Judge indefinitely halts shutdown layoffs, noting human toll</title>
+      <link>https://laist.com/news/politics/judge-indefinitely-halts-shutdown-layoffs-noting-human-toll</link>
+      <description>
+        <![CDATA[A federal judge in San Francisco has indefinitely halted thousands of layoffs of federal employees announced by the Trump administration since Oct. 1.]]>
+      </description>
+      <source:markdown>A federal judge in San Francisco has indefinitely halted thousands of layoffs of federal employees announced by the Trump administration since Oct. 1.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-2d01-d84d-affa-efeb4ff00000</guid>
+    </item>    <item>
+      <title>Blue Jays tie World Series 2-2</title>
       <link>https://laist.com/news/los-angeles-activities/tonight-is-game-4-of-the-world-series-heres-what-you-need-to-know</link>
       <description>
-        <![CDATA[After thrilling — and almost endless — Game 3, Shohei Ohtani takes the mound for the Dodgers.]]>
+        <![CDATA[Shohei Ohtani takes the mound for the Dodgers. Blue Jays came out on top 6-2.]]>
       </description>
-      <source:markdown>After thrilling — and almost endless — Game 3, Shohei Ohtani takes the mound for the Dodgers.</source:markdown>
+      <source:markdown>Shohei Ohtani takes the mound for the Dodgers. Blue Jays came out on top 6-2.</source:markdown>
       <guid>cid://urn:uuid:0000019a-2cd4-d6cc-a9ff-fefcdd8a0000</guid>
     </item>    <item>
       <title>LA to double recycled water capacity at Van Nuys wastewater plant</title>
@@ -867,14 +922,6 @@ The post [Parenting for Prevention Brings Tools and Support to Every Family](htt
       <source:markdown>Vice President Vance&#39;s scathing remark came as he wrapped up an Israel trip, as the Trump administration attempts to keep up momentum on the U.S.-brokered ceasefire between Israel and Hamas in Gaza.</source:markdown>
       <guid>cid://urn:uuid:0000019a-1120-d84d-affa-dfeaf7ab0000</guid>
     </item>    <item>
-      <title>School enrollment keeps going down. Here&#39;s what that means for LAUSD funding</title>
-      <link>https://laist.com/news/education/los-angeles-unified-school-district-budget-explained-gpsn-report-october-2025</link>
-      <description>
-        <![CDATA[Fewer students are enrolling at schools throughout the state, particularly in areas with high costs of living like Los Angeles, which means a future with even less money.]]>
-      </description>
-      <source:markdown>Fewer students are enrolling at schools throughout the state, particularly in areas with high costs of living like Los Angeles, which means a future with even less money.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-0cdf-d6de-afbf-beff1f1b0000</guid>
-    </item>    <item>
       <title>Cheat sheet: Your guide to Dodgers-Blue Jays&#39; intense World Series matchup</title>
       <link>https://laist.com/news/arts-and-entertainment/dodgers-blue-jays-world-series-guide</link>
       <description>
@@ -882,6 +929,14 @@ The post [Parenting for Prevention Brings Tools and Support to Every Family](htt
       </description>
       <source:markdown>We’re baaaaack! The Dodgers are in the World Series (again), and we’ve got your guide to sounding like a baseball expert.</source:markdown>
       <guid>cid://urn:uuid:0000019a-0e96-d6de-afbf-befe713b0001</guid>
+    </item>    <item>
+      <title>School enrollment keeps going down. Here&#39;s what that means for LAUSD funding</title>
+      <link>https://laist.com/news/education/los-angeles-unified-school-district-budget-explained-gpsn-report-october-2025</link>
+      <description>
+        <![CDATA[Fewer students are enrolling at schools throughout the state, particularly in areas with high costs of living like Los Angeles, which means a future with even less money.]]>
+      </description>
+      <source:markdown>Fewer students are enrolling at schools throughout the state, particularly in areas with high costs of living like Los Angeles, which means a future with even less money.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-0cdf-d6de-afbf-beff1f1b0000</guid>
     </item>    <item>
       <title>LA&#39;s most innovative cocktails are at a Japanese-inspired speakeasy behind a Mexican restaurant in Long Beach</title>
       <link>https://laist.com/news/food/las-most-innovative-cocktails-are-at-a-japanese-inspired-speakeasy-behind-a-mexican-restaurant-in-long-beach</link>
@@ -1186,13 +1241,6 @@ The post [Volunteer for the Fourth Annual Graffiti Removal Day](https://santacla
       </description>
       <source:markdown>Flauta, taquito, tacos dorados? Whatever they’re called, they’re golden, crispy and delicious.</source:markdown>
       <guid>cid://urn:uuid:00000199-caaa-dedc-a5db-dafaaa760000</guid>
-    </item>    <item>
-      <title>Orange County activists are tracking ICE in their communities and live-streaming what they find</title>
-      <description>
-        <![CDATA[Organizers say they want to empower their neighbors and dispel misinformation. Here's how they're doing it.]]>
-      </description>
-      <source:markdown>Organizers say they want to empower their neighbors and dispel misinformation. Here&#39;s how they&#39;re doing it.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-02d5-d0fc-a5df-caffc6730000</guid>
     </item>    <item>
       <title>The Dodgers want to win another World Series. The Toronto Blue Jays are in their way</title>
       <link>https://laist.com/news/the-dodgers-want-to-win-another-world-series-the-toronto-blue-jays-are-in-their-way</link>
@@ -2987,150 +3035,6 @@ demonstrations.</source:markdown>
       </description>
       <source:markdown>Bondi defended her work as attorney general, rejecting allegations that DOJ investigations and prosecutions, including the recent indictment of former FBI Director James Comey, are driven by politics.</source:markdown>
       <guid>cid://urn:uuid:00000199-c177-dbfa-afdf-c77755f80000</guid>
-    </item>    <item>
-      <title>LA considers fast-tracking construction of temporary structures for promised &#39;no build&#39; Olympics</title>
-      <link>https://laist.com/news/los-angeles-city-council-fast-track-construction-temporary-structures-2028-olympics</link>
-      <description>
-        <![CDATA[An ordinance that the L.A. City Council soon will consider would allow certain Olympics projects to skip city zoning and planning requirements.]]>
-      </description>
-      <source:markdown>An ordinance that the L.A. City Council soon will consider would allow certain Olympics projects to skip city zoning and planning requirements.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c0e4-dbfa-afdf-c7e501a80000</guid>
-    </item>    <item>
-      <title>Food assistance programs like CalFresh and WIC remain open amid government shutdown — for now</title>
-      <link>https://laist.com/news/education/early-childhood-education-pre-k/wic-calfresh-government-shutdown</link>
-      <description>
-        <![CDATA[Families can still get nutrition assistance benefits, but funding could run out if the federal government shutdown continues.]]>
-      </description>
-      <source:markdown>Families can still get nutrition assistance benefits, but funding could run out if the federal government shutdown continues.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c0ff-dc80-a5fb-edff8cdc0000</guid>
-    </item>    <item>
-      <title>California quiere oír testimonios de los inquilinos de Mike Nijjar y más como parte de demanda judicial en curso</title>
-      <link>https://laist.com/news/housing-homelessness/california-quiere-oir-testimonios-de-los-inquilinos-de-mike-nijjar-y-mas-como-parte-de-demanda-judicial-en-curso</link>
-      <description>
-        <![CDATA[Este junio, California demanadó al proprietario Mike Nijjar por discriminación y condiciones de viva antihigiénicas e inseguras adentro de sus viviendas. Ahora, el fiscal general de California, Rob Bonta, está pidiendo que los inquilinos de Nijjar compartan sus experiencias con los funcionarios estatales.]]>
-      </description>
-      <source:markdown>Este junio, California demanadó al proprietario Mike Nijjar por discriminación y condiciones de viva antihigiénicas e inseguras adentro de sus viviendas. Ahora, el fiscal general de California, Rob Bonta, está pidiendo que los inquilinos de Nijjar compartan sus experiencias con los funcionarios estatales.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c0c3-dc80-a5fb-eddba9c90000</guid>
-    </item>    <item>
-      <title>LA County says not so fast on wedding license fee increase after chapel outcry</title>
-      <link>https://laist.com/news/politics/los-angeles-county-wedding-license-fee-increase-wedding-chapels</link>
-      <description>
-        <![CDATA[The Board of Supervisors puts the brakes on a plan to increase the cost of a marriage license from $91 to $176.]]>
-      </description>
-      <source:markdown>The Board of Supervisors puts the brakes on a plan to increase the cost of a marriage license from $91 to $176.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c0d3-d5ee-a3ff-d7f39f2e0000</guid>
-    </item>    <item>
-      <title>White House floats no back pay for some furloughed federal workers despite 2019 law</title>
-      <link>https://laist.com/news/politics/white-house-floats-no-back-pay-for-some-furloughed-federal-workers-despite-2019-law</link>
-      <description>
-        <![CDATA[A new draft White House memo suggests a 2019 law signed by President Trump that guarantees that federal employees get paid after a shutdown ends would not apply to furloughed workers.]]>
-      </description>
-      <source:markdown>A new draft White House memo suggests a 2019 law signed by President Trump that guarantees that federal employees get paid after a shutdown ends would not apply to furloughed workers.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c01e-dc80-a5fb-ed5e75790000</guid>
-    </item>    <item>
-      <title>California wants to hear from Mike Nijjar’s tenants and more as part of ongoing lawsuit</title>
-      <link>https://laist.com/news/housing-homelessness/california-wants-to-hear-from-mike-nijjars-tenants-and-more-as-part-of-ongoing-lawsuit</link>
-      <description>
-        <![CDATA[Attorney General Rob Bonta is asking tenants who have experience with Mike Nijjar, one of the state's biggest landlords, to share their complaints with his office.]]>
-      </description>
-      <source:markdown>Attorney General Rob Bonta is asking tenants who have experience with Mike Nijjar, one of the state&#39;s biggest landlords, to share their complaints with his office.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c064-dc80-a5fb-ed7cac7d0000</guid>
-    </item>    <item>
-      <title>Trump’s National Guard moves are part of a dangerous plan, California AG warns</title>
-      <link>https://laist.com/news/politics/trump-national-guard-moves-dangerous-plan-california-ag-warns</link>
-      <description>
-        <![CDATA[Attorney General Rob Bonta’s comments came after a federal judge blocked President Donald Trump from dispatching California National Guard troops to Portland, Oregon.]]>
-      </description>
-      <source:markdown>Attorney General Rob Bonta’s comments came after a federal judge blocked President Donald Trump from dispatching California National Guard troops to Portland, Oregon.</source:markdown>
-      <guid>cid://urn:uuid:00000199-bf8e-dbfa-afdf-bf8f85650000</guid>
-    </item>    <item>
-      <title>Another immigrant dies in ICE custody in California, this time in the Imperial Valley</title>
-      <link>https://laist.com/news/immigrant-dies-in-ice-custody-imperial-valley-california</link>
-      <description>
-        <![CDATA[Two deaths of immigrants in ICE custody have been reported in California in two weeks.]]>
-      </description>
-      <source:markdown>Two deaths of immigrants in ICE custody have been reported in California in two weeks.</source:markdown>
-      <guid>cid://urn:uuid:00000199-bfa5-dbfa-afdf-bfa552cc0000</guid>
-    </item>    <item>
-      <title>LA County supervisors vote to investigate fraud claims in historic $4 billion settlement</title>
-      <link>https://laist.com/news/politics/la-county-ab-218-claim-fraud-investigation-historic-settlement</link>
-      <description>
-        <![CDATA[The allegations stem from a media report that primarily alleged a law firm paid some plaintiffs to sue the county.]]>
-      </description>
-      <source:markdown>The allegations stem from a media report that primarily alleged a law firm paid some plaintiffs to sue the county.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c023-d847-a9df-c6b71a6e0000</guid>
-    </item>    <item>
-      <title>No fridge? No more. Newsom signs bill requiring apartment landlords to supply appliances</title>
-      <link>https://laist.com/news/housing-homelessness/california-los-angeles-aparments-refrigerator-fridge-housing-landlord-renter-law</link>
-      <description>
-        <![CDATA[People moving to Los Angeles are regularly baffled by the region’s refrigerator-less apartments. They’ll soon be a thing of the past.]]>
-      </description>
-      <source:markdown>People moving to Los Angeles are regularly baffled by the region’s refrigerator-less apartments. They’ll soon be a thing of the past.</source:markdown>
-      <guid>cid://urn:uuid:00000199-bffc-dbfa-afdf-bffd0ea30000</guid>
-    </item>    <item>
-      <title>Protected: Registration Policy (Draft)</title>
-      <link>https://www.santaclaritalibrary.com/2025/10/07/registration-policy-draft/</link>
-      <description>
-        <![CDATA[There is no excerpt because this is a protected post.]]>
-      </description>
-      <source:markdown>There is no excerpt because this is a protected post.</source:markdown>
-      <guid>cid://https://www.santaclaritalibrary.com/?p=26483</guid>
-    </item>    <item>
-      <title>The government shutdown is snarling air travel. Officials say it could get worse</title>
-      <link>https://laist.com/news/politics/government-shutdown-air-travel-could-get-worse</link>
-      <description>
-        <![CDATA[A dozen facilities saw air traffic control shortages on Monday, delaying flights at several airports. Transportation Secretary Sean Duffy blamed "a slight tick-up in sick calls" due to the shutdown.]]>
-      </description>
-      <source:markdown>A dozen facilities saw air traffic control shortages on Monday, delaying flights at several airports. Transportation Secretary Sean Duffy blamed &#34;a slight tick-up in sick calls&#34; due to the shutdown.</source:markdown>
-      <guid>cid://urn:uuid:00000199-bfea-dbfa-afdf-bfef32250000</guid>
-    </item>    <item>
-      <title>Need help paying for college? What US citizens in mixed-status families should consider</title>
-      <link>https://laist.com/news/education/college-financial-aid-mixed-status-cadaa-fafsa-undocumented-parents</link>
-      <description>
-        <![CDATA[Experts say students shouldn't readily forgo federal aid. But a California-only program may be a good alternative in some cases.]]>
-      </description>
-      <source:markdown>Experts say students shouldn&#39;t readily forgo federal aid. But a California-only program may be a good alternative in some cases.</source:markdown>
-      <guid>cid://urn:uuid:00000199-bc22-dc80-a5fb-bd7afdeb0000</guid>
-    </item>    <item>
-      <title>Regulators know PG&#38;E, Edison are slow to hook up solar. Why are there no penalties?</title>
-      <link>https://laist.com/news/climate-environment/regulators-know-pge-edison-are-slow-to-hook-up-solar-why-are-there-no-penalties</link>
-      <description>
-        <![CDATA[PG&E and Southern California Edison are routinely late to hook up new solar panels, squeezing owners financially. Will they be punished?]]>
-      </description>
-      <source:markdown>PG&#38;E and Southern California Edison are routinely late to hook up new solar panels, squeezing owners financially. Will they be punished?</source:markdown>
-      <guid>cid://urn:uuid:00000199-bf5e-d2ed-a9fd-bfffaaa20000</guid>
-    </item>    <item>
-      <title>As the Gaza war moves into its third year, peace talks offer some hope</title>
-      <link>https://laist.com/news/as-the-gaza-war-moves-into-its-third-year-peace-talks-offer-some-hope</link>
-      <description>
-        <![CDATA[On the second anniversary of the Hamas-led attack on Israel of Oct. 7, 2023, the leaders of Israel and Hamas are pushed by Arab countries and the U.S. toward a potential end to the war.]]>
-      </description>
-      <source:markdown>On the second anniversary of the Hamas-led attack on Israel of Oct. 7, 2023, the leaders of Israel and Hamas are pushed by Arab countries and the U.S. toward a potential end to the war.</source:markdown>
-      <guid>cid://urn:uuid:00000199-bf4d-dc80-a5fb-bf5d0a8a000c</guid>
-    </item>    <item>
-      <title>Why this Boyle Heights business owner is painting over his Dodgers mural</title>
-      <link>https://laist.com/news/los-angeles-activities/boyle-heights-business-owner-painting-over-dodgers-mural</link>
-      <description>
-        <![CDATA[Distrito Catorce’s Guillermo Piñon says the team no longer reflects his community. A new mural will honor local leaders instead.]]>
-      </description>
-      <source:markdown>Distrito Catorce’s Guillermo Piñon says the team no longer reflects his community. A new mural will honor local leaders instead.</source:markdown>
-      <guid>cid://urn:uuid:00000199-bba8-d8f4-a1df-fbbff02a0000</guid>
-    </item>    <item>
-      <title>Breezy conditions for parts of SoCal</title>
-      <link>https://laist.com/news/climate-environment/breezy-conditions-for-parts-of-socal</link>
-      <description>
-        <![CDATA[Antelope Valley foothills to see gusts between 25 and 35 mph.]]>
-      </description>
-      <source:markdown>Antelope Valley foothills to see gusts between 25 and 35 mph.</source:markdown>
-      <guid>cid://urn:uuid:00000199-bb49-dc80-a5fb-bf59448d0000</guid>
-    </item>    <item>
-      <title>Want to rip up your lawn and install native plants? Here’s how to do it for free</title>
-      <link>https://laist.com/news/climate-environment/want-to-rip-up-your-lawn-and-install-native-plants-how-to-do-it-for-free</link>
-      <description>
-        <![CDATA[The program is for customers in communities that may not be able to afford turf removal or water-saving upgrades.]]>
-      </description>
-      <source:markdown>The program is for customers in communities that may not be able to afford turf removal or water-saving upgrades.</source:markdown>
-      <guid>cid://urn:uuid:00000199-ba9c-d379-a1dd-ffdef3330000</guid>
     </item>
   </channel>
 </rss>

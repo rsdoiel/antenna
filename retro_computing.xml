@@ -4,7 +4,7 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>28 Oct 25 15:43 -0700</lastBuildDate>
+    <lastBuildDate>29 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -2191,40 +2191,6 @@ Image: Chart of common power sources with their power ratings and the resistance
       </description>
       <source:markdown>Crappy fake uSD card, Paracetamol.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20251008</guid>
-    </item>    <item>
-      <title>Cairo Dock 3.6 Now Available for More Compositors</title>
-      <link>http://www.linux-magazine.com/Online/News/Cairo-Dock-3.6-Now-Available-for-More-Compositors</link>
-      <description>
-        <![CDATA[<p>If you're a fan of third-party desktop docks, then the latest release of Cairo Dock with Wayland support is for you.</p>]]>
-      </description>
-      <source:markdown>If you&#39;re a fan of third-party desktop docks, then the latest release of Cairo Dock with Wayland support is for you.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://fddfab5251f279da08544c6099b77faf</guid>
-    </item>    <item>
-      <title>System76 Unleashes Pop!_OS 24.04 Beta</title>
-      <link>http://www.linux-magazine.com/Online/News/System76-Unleashes-Pop%21_OS-24.04-Beta</link>
-      <description>
-        <![CDATA[<p>System76's first beta of Pop!_OS 24.04 is an impressive feat.</p>]]>
-      </description>
-      <source:markdown>System76&#39;s first beta of Pop!\_OS 24.04 is an impressive feat.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://8b93859614ee9f9d38ffe2f40f0f8e70</guid>
-    </item>    <item>
-      <title>b.log 2025/10/07 - Shut up Badenoch, What the hell France?, Colours, And Or Eor, White Van Man.</title>
-      <link>https://heyrick.eu/blog/entry/20251007</link>
-      <description>
-        <![CDATA[Shut up Badenoch, What the hell France?, Colours, And Or Eor, White Van Man.]]>
-      </description>
-      <source:markdown>Shut up Badenoch, What the hell France?, Colours, And Or Eor, White Van Man.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20251007</guid>
-    </item>    <item>
-      <title>KIM-1 Revisions, what changed?</title>
-      <link>http://retro.hansotten.nl/kim-1-revisions-what-changed/</link>
-      <description>
-        <![CDATA[I know of seven KIM-1 revisions, labeled Rev A-G and the first one unlabeled. Rev C is unknown! What changed between these revisions? Not much. The PCB underwent several changes around the logo area, from KIM-1 MOS to Commodore C-MOS. That happened from Rev A to Rev D, indicating the takeover by Commodore of MOS [&#8230;]]]>
-      </description>
-      <source:markdown>I know of seven KIM-1 revisions, labeled Rev A-G and the first one unlabeled. Rev C is unknown! What changed between these revisions? Not much. The PCB underwent several changes around the logo area, from KIM-1 MOS to Commodore C-MOS. That happened from Rev A to Rev D, indicating the takeover by Commodore of MOS \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=18996</guid>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>28 Oct 25 15:43 -0700</lastBuildDate>
+    <lastBuildDate>29 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -38,6 +38,249 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <title>Podcast: Grokipedia is Cringe</title>
+      <link>https://www.404media.co/podcast-grokipedia-is-cringe/</link>
+      <description>
+        <![CDATA[Why Grokipedia won't beat Wikipedia; the Windows 10 update; and a16z's plan for a wholly AI-generated internet.]]>
+      </description>
+      <source:markdown>Why Grokipedia won&#39;t beat Wikipedia; the Windows 10 update; and a16z&#39;s plan for a wholly AI-generated internet.</source:markdown>
+      <guid>cid://69020f26b039580001861956</guid>
+    </item>    <item>
+      <title>An End to Bilateral Closeness</title>
+      <link>https://onefoottsunami.com/2025/10/29/an-end-to-bilateral-closeness/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29340</guid>
+    </item>    <item>
+      <title>Develop embedded firmware for Pico using Rust or Zephyr with pico-vscode</title>
+      <link>https://www.raspberrypi.com/news/develop-embedded-firmware-for-pico-using-rust-or-zephyr-with-pico-vscode/</link>
+      <description>
+        <![CDATA[<p>Set up an embedded firmware project on Pico in minutes using Rust or Zephyr, now integrated into our official pico-vscode extension.</p>
+        <p>The post <a href="https://www.raspberrypi.com/news/develop-embedded-firmware-for-pico-using-rust-or-zephyr-with-pico-vscode/">Develop embedded firmware for Pico using Rust or Zephyr with pico-vscode</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
+      </description>
+      <source:markdown>Set up an embedded firmware project on Pico in minutes using Rust or Zephyr, now integrated into our official pico-vscode extension.
+
+The post [Develop embedded firmware for Pico using Rust or Zephyr with pico-vscode](https://www.raspberrypi.com/news/develop-embedded-firmware-for-pico-using-rust-or-zephyr-with-pico-vscode/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
+      <guid>cid://https://www.raspberrypi.com/?p=131001</guid>
+    </item>    <item>
+      <title>Signal’s Post-Quantum Cryptographic Implementation</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/signals-post-quantum-cryptographic-implementation.html</link>
+      <description>
+        <![CDATA[<p>Signal has <a href="https://signal.org/blog/spqr/">just rolled out</a> its quantum-safe cryptographic implementation.</p>
+        <p><i>Ars Technica</i> has a <a href="https://arstechnica.com/security/2025/10/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement/">really good article</a> with details:</p>
+        <blockquote><p>Ultimately, the architects settled on a creative solution. Rather than bolt KEM onto the existing double ratchet, they allowed it to remain more or less the same as it had been. Then they used the new quantum-safe ratchet to implement a parallel secure messaging system.</p>
+        <p>Now, when the protocol encrypts a message, it sources encryption keys from both the classic Double Ratchet and the new ratchet. It then mixes the two keys together (using a cryptographic key derivation function) to get a new encryption key that has all of the security of the classical Double Ratchet but now has quantum security, too...</p></blockquote>]]>
+      </description>
+      <source:markdown>Signal has [just rolled out](https://signal.org/blog/spqr/) its quantum-safe cryptographic implementation.
+
+_Ars Technica_ has a [really good article](https://arstechnica.com/security/2025/10/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement/) with details:
+
+&#62; Ultimately, the architects settled on a creative solution. Rather than bolt KEM onto the existing double ratchet, they allowed it to remain more or less the same as it had been. Then they used the new quantum-safe ratchet to implement a parallel secure messaging system.
+&#62;
+&#62; Now, when the protocol encrypts a message, it sources encryption keys from both the classic Double Ratchet and the new ratchet. It then mixes the two keys together (using a cryptographic key derivation function) to get a new encryption key that has all of the security of the classical Double Ratchet but now has quantum security, too...</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=71097</guid>
+    </item>    <item>
+      <title>How a Camping Trip Illustrates the Power of Storytelling in Tech</title>
+      <link>https://openchannels.fm/how-a-camping-trip-illustrates-the-power-of-storytelling-in-tech/</link>
+      <description>
+        <![CDATA[Rae Morey, WordPress journalist and podcast host, recently shared a story on Open Channels FM about a camping trip that revealed just how effective storytelling can be in business. After spending a rough night on the ground during a camping trip, Rae realized, “I woke up with a sore back. I’m getting old. And I [&#8230;]]]>
+      </description>
+      <source:markdown>Rae Morey, WordPress journalist and podcast host, recently shared a story on Open Channels FM about a camping trip that revealed just how effective storytelling can be in business. After spending a rough night on the ground during a camping trip, Rae realized, “I woke up with a sore back. I’m getting old. And I \[…\]</source:markdown>
+      <guid>cid://https://openchannels.fm/?p=111065</guid>
+    </item>    <item>
+      <title>Bolt Graphics unveils Zeus GPU built on RISC-V and path tracing tech</title>
+      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/10/29/bolt_graphics_zeus_gpu/</link>
+      <description>
+        <![CDATA[<h4><span class="label">Ubuntu Summit</span> Onboard cores use a Linux stack based on Ubuntu</h4>
+              <p>One of the more unexpected talks at last week&#39;s Ubuntu Summit 25.10 in London was by Antonio Salvemini of Bolt Graphics, who introduced the company&#39;s forthcoming range of Zeus graphics accelerator hardware. These are very unlike any conventional GPUs – or indeed anything else.</p>]]>
+      </description>
+      <source:markdown>#### Ubuntu Summit Onboard cores use a Linux stack based on Ubuntu
+
+One of the more unexpected talks at last week&#39;s Ubuntu Summit 25.10 in London was by Antonio Salvemini of Bolt Graphics, who introduced the company&#39;s forthcoming range of Zeus graphics accelerator hardware. These are very unlike any conventional GPUs – or indeed anything else.</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242708</guid>
+    </item>    <item>
+      <title>A Break, With Some AI</title>
+      <link>https://paulkrugman.substack.com/p/a-break-with-some-ai</link>
+      <description>
+        <![CDATA[Full service will resume tomorrow]]>
+      </description>
+      <source:markdown>Full service will resume tomorrow</source:markdown>
+      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/McYBgZrORi4" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/a-break-with-some-ai</guid>
+    </item>    <item>
+      <title>Lit Hub Daily: October 29, 2025</title>
+      <link>https://lithub.com/lit-hub-daily-october-29-2025/</link>
+      <description>
+        <![CDATA[Shane Hinton explains why writers should consider giving their books away for free. &#124; Lit Hub Craft “Del Toro loves monsters—misunderstood, sympathetic monsters—and Shelley’s Creature is the primogenitor of this tradition.” Olivia Rutigliano praises Guillermo Del Toro’s new adaptation of]]>
+      </description>
+      <source:markdown>Shane Hinton explains why writers should consider giving their books away for free. \| Lit Hub Craft “Del Toro loves monsters—misunderstood, sympathetic monsters—and Shelley’s Creature is the primogenitor of this tradition.” Olivia Rutigliano praises Guillermo Del Toro’s new adaptation of</source:markdown>
+      <guid>cid://https://lithub.com/?p=261904</guid>
+    </item>    <item>
+      <title>Rediscovering the Lost Arts of the English Woodlands</title>
+      <link>https://lithub.com/rediscovering-the-lost-arts-of-the-english-woodlands/</link>
+      <description>
+        <![CDATA[If you had visited a typical English woodland a few hundred years ago, or at pretty much any point before then, you would have been ambushed by activity. The sounds of thudding axes, rasping saws, and ale-loosened conversation reverberated through]]>
+      </description>
+      <source:markdown>If you had visited a typical English woodland a few hundred years ago, or at pretty much any point before then, you would have been ambushed by activity. The sounds of thudding axes, rasping saws, and ale-loosened conversation reverberated through</source:markdown>
+      <guid>cid://https://lithub.com/?p=261515</guid>
+    </item>    <item>
+      <title>I Built the Same App 10 Times: Evaluating Frameworks for Mobile Performance | Loren Stewart</title>
+      <link>https://www.lorenstew.art/blog/10-kanban-boards</link>
+      <description>
+        <![CDATA[<p>A very, very deep dive into like-for-like comparison of JavaScript frameworks. The takeaway:</p>
+        
+        <blockquote>
+          <p>Nuxt demonstrates that established “big three” frameworks can achieve next-gen performance when properly configured. Vue’s architecture allows competitive mobile web performance while maintaining a mature ecosystem. React and Angular show no path to similar results.</p>
+        </blockquote>
+        
+        <p>And the <em>real</em> takeaway:</p>
+        
+        <blockquote>
+          <p><strong>Mobile is the web</strong>. These measurements matter because mobile web is the primary internet for billions of people. If your app is accessible via URL, people will use it on phones with cellular connections. Optimizing for desktop and hoping mobile is good enough is backwards. The web is mobile. Build for that reality.</p>
+        </blockquote>
+        
+        <p><a href="https://adactio.com/links/22221">adactio.com/links/22221</a></p>]]>
+      </description>
+      <source:markdown>A very, very deep dive into like-for-like comparison of JavaScript frameworks. The takeaway:
+
+&#62; Nuxt demonstrates that established “big three” frameworks can achieve next-gen performance when properly configured. Vue’s architecture allows competitive mobile web performance while maintaining a mature ecosystem. React and Angular show no path to similar results.
+
+And the _real_ takeaway:
+
+&#62; **Mobile is the web**. These measurements matter because mobile web is the primary internet for billions of people. If your app is accessible via URL, people will use it on phones with cellular connections. Optimizing for desktop and hoping mobile is good enough is backwards. The web is mobile. Build for that reality.
+
+[adactio.com/links/22221](https://adactio.com/links/22221)</source:markdown>
+      <guid>cid://https://www.lorenstew.art/blog/10-kanban-boards</guid>
+    </item>    <item>
+      <title>Is it Time to Regulate React? – David Bushell – Web Dev (UK)</title>
+      <link>https://dbushell.com/2025/10/23/react-regulation/</link>
+      <description>
+        <![CDATA[<blockquote>
+          <p>React exists as a profound perversion of the web platform. React has failed upwards to widespread adoption because it provides a “developer experience” that bypasses the hard parts. Like learning HTML, or CSS, or JavaScript. Even learning React <em>itself</em> is discouraged; that’s for adults, you should use meta-frameworks. React devs are burdened with multi-megabyte monstrosities before they’ve written a single line of code. You cannot fix “too much JavaScript” with <em>more</em> JavaScript and yet React devs are trained to <code>npm install</code> until their problems become their users’ problems.</p>
+        </blockquote>
+        
+        <p><a href="https://adactio.com/links/22220">adactio.com/links/22220</a></p>]]>
+      </description>
+      <source:markdown>&#62; React exists as a profound perversion of the web platform. React has failed upwards to widespread adoption because it provides a “developer experience” that bypasses the hard parts. Like learning HTML, or CSS, or JavaScript. Even learning React _itself_ is discouraged; that’s for adults, you should use meta-frameworks. React devs are burdened with multi-megabyte monstrosities before they’ve written a single line of code. You cannot fix “too much JavaScript” with _more_ JavaScript and yet React devs are trained to `npm install` until their problems become their users’ problems.
+
+[adactio.com/links/22220](https://adactio.com/links/22220)</source:markdown>
+      <guid>cid://https://dbushell.com/2025/10/23/react-regulation/</guid>
+    </item>    <item>
+      <title>Why I Give My Books Away For Free</title>
+      <link>https://lithub.com/why-i-give-my-books-away-for-free/</link>
+      <description>
+        <![CDATA[In 2015, after the release of my first book with Burrow Press, a small press based out of Orlando, Florida, I was invited to give a reading at a public library. The book I’d always imagined I could write was]]>
+      </description>
+      <source:markdown>In 2015, after the release of my first book with Burrow Press, a small press based out of Orlando, Florida, I was invited to give a reading at a public library. The book I’d always imagined I could write was</source:markdown>
+      <guid>cid://https://lithub.com/?p=261519</guid>
+    </item>    <item>
+      <title>What Henry VIII’s Despotic Rule Can Teach Us About Today’s Tyrants</title>
+      <link>https://lithub.com/what-henry-viiis-despotic-rule-can-teach-us-about-todays-tyrants/</link>
+      <description>
+        <![CDATA[The heroine of my new novel Boleyn Traitor is Jane Boleyn—lady-in-waiting to her sister-in-law, Anne Boleyn. Although Jane played a central role in the reigns of five Tudor queens, her reputation was smeared upon her death and her personal story]]>
+      </description>
+      <source:markdown>The heroine of my new novel Boleyn Traitor is Jane Boleyn—lady-in-waiting to her sister-in-law, Anne Boleyn. Although Jane played a central role in the reigns of five Tudor queens, her reputation was smeared upon her death and her personal story</source:markdown>
+      <guid>cid://https://lithub.com/?p=261500</guid>
+    </item>    <item>
+      <title>Guillermo del Toro’s New Frankenstein Adaptation is Life-Giving</title>
+      <link>https://lithub.com/guillermo-del-toros-new-frankenstein-adaptation-is-life-giving/</link>
+      <description>
+        <![CDATA[One of the most recognizable words in our modern culture is &#8220;Frankenstein.&#8221; But in Guillermo del Toro&#8217;s magnificent new adaptation of Mary Shelley&#8217;s 1818 novel, another name (rather, the other part of that name) is much more important: &#8220;Victor.&#8221; This]]>
+      </description>
+      <source:markdown>One of the most recognizable words in our modern culture is “Frankenstein.” But in Guillermo del Toro’s magnificent new adaptation of Mary Shelley’s 1818 novel, another name (rather, the other part of that name) is much more important: “Victor.” This</source:markdown>
+      <guid>cid://https://lithub.com/?p=261702</guid>
+    </item>    <item>
+      <title>Daily Affirmations for the Dog In Your Life</title>
+      <link>https://lithub.com/daily-affirmations-for-the-dog-in-your-life/</link>
+      <description>
+        <![CDATA[My dog Tobi has been the biggest constant in my life. He came to me when I was a teenager, and we have been inseparable ever since. He went through college with me. He moved countries with me. We have]]>
+      </description>
+      <source:markdown>My dog Tobi has been the biggest constant in my life. He came to me when I was a teenager, and we have been inseparable ever since. He went through college with me. He moved countries with me. We have</source:markdown>
+      <guid>cid://https://lithub.com/?p=261471</guid>
+    </item>    <item>
+      <title>Life and Death in the Impoverished Neighborhood of Alabama Village</title>
+      <link>https://lithub.com/life-and-death-in-the-impoverished-neighborhood-of-alabama-village/</link>
+      <description>
+        <![CDATA[For a short time, a photograph of Tony “TJ” Brisker hung alone above a white wood door at Light of the Village, a church in Alabama Village, a destitute neighborhood in the Mobile suburb of Prichard in southern Alabama. Other]]>
+      </description>
+      <source:markdown>For a short time, a photograph of Tony “TJ” Brisker hung alone above a white wood door at Light of the Village, a church in Alabama Village, a destitute neighborhood in the Mobile suburb of Prichard in southern Alabama. Other</source:markdown>
+      <guid>cid://https://lithub.com/?p=261530</guid>
+    </item>    <item>
+      <title>One, None, and a Hundred Grand</title>
+      <link>https://lithub.com/one-none-and-a-hundred-grand/</link>
+      <description>
+        <![CDATA[My Wife and My Nose “What’re you up to?” my wife inquired, as she watched me hover uncharacteristically before the mirror. “Nothing,” I replied. “Or just looking up my nose. Inspecting this nostril. Pressing on it brings out a little]]>
+      </description>
+      <source:markdown>My Wife and My Nose “What’re you up to?” my wife inquired, as she watched me hover uncharacteristically before the mirror. “Nothing,” I replied. “Or just looking up my nose. Inspecting this nostril. Pressing on it brings out a little</source:markdown>
+      <guid>cid://https://lithub.com/?p=260695</guid>
+    </item>    <item>
+      <title>On the Indian Revolutionaries Who Plotted to Overthrow the British Raj From America</title>
+      <link>https://lithub.com/on-the-indian-revolutionaries-who-plotted-to-overthrow-the-british-raj-from-america/</link>
+      <description>
+        <![CDATA[Christmas morning in 1912 was simply glorious in San Francisco. Under a brilliant blue sky, a crowd of children dressed in their holiday best dragged their parents to Golden Gate Park. None other than Santa Claus himself was to preside]]>
+      </description>
+      <source:markdown>Christmas morning in 1912 was simply glorious in San Francisco. Under a brilliant blue sky, a crowd of children dressed in their holiday best dragged their parents to Golden Gate Park. None other than Santa Claus himself was to preside</source:markdown>
+      <guid>cid://https://lithub.com/?p=261406</guid>
+    </item>    <item>
+      <title>Crafting a Documentary Poetics of Resistance in the Shadow of State Violence</title>
+      <link>https://lithub.com/crafting-a-documentary-poetics-of-resistance-in-the-shadow-of-state-violence/</link>
+      <description>
+        <![CDATA[On. Off. On. Off. I flicked the light switches. Stared at the flush of the toilet. Traced the exposed brick stairwell, and let the dust dress my finger, like my home was the moon. There are no poetics yet in]]>
+      </description>
+      <source:markdown>On. Off. On. Off. I flicked the light switches. Stared at the flush of the toilet. Traced the exposed brick stairwell, and let the dust dress my finger, like my home was the moon. There are no poetics yet in</source:markdown>
+      <guid>cid://https://lithub.com/?p=261503</guid>
+    </item>    <item>
+      <title>Trump Just Announced His Police State</title>
+      <link>https://robertreich.substack.com/p/trump-just-announced-his-police-state</link>
+      <description>
+        <![CDATA[In yesterday&#8217;s address to U.S. troops]]>
+      </description>
+      <source:markdown>In yesterday’s address to U.S. troops</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!NiSb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21c56434-b7ab-4b43-b798-01aa043131ae_3500x3357.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/trump-just-announced-his-police-state</guid>
+    </item>    <item>
+      <title>October 28, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-28-2025</link>
+      <description>
+        <![CDATA[In the election of 1920, Americans handed a landslide victory to the Republicans and their presidential candidate Warren G.]]>
+      </description>
+      <source:markdown>In the election of 1920, Americans handed a landslide victory to the Republicans and their presidential candidate Warren G.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/3UrwxiGb0ws" length="0" type="image/jpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-28-2025</guid>
+    </item>    <item>
+      <title>Please join me tomorrow (Wed, October 29) at 9 am Pacific, 12 pm Eastern for my Substack Live interview with Zohran Mamdani</title>
+      <link>https://robertreich.substack.com/p/please-join-me-tomorrow-wed-october</link>
+      <description>
+        <![CDATA[Friends,]]>
+      </description>
+      <source:markdown>Friends,</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Z_uG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09d060a7-ab4e-446d-9e43-ef75ae3a0e69_760x506.webp" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/please-join-me-tomorrow-wed-october</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/28.html#a015633</link>
+      <description>
+        <![CDATA[My new <a href="https://wp.feedland.org/">WordPress News</a> page is faster and looks better on phones. Also, lots of new sources thanks to <a href="https://github.com/scripting/Scripting-News/issues/332">suggestions</a> from readers.]]>
+      </description>
+      <source:markdown>My new [WordPress News](https://wp.feedland.org/) page is faster and looks better on phones. Also, lots of new sources thanks to [suggestions](https://github.com/scripting/Scripting-News/issues/332) from readers.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/28.html#a015633</guid>
+    </item>    <item>
+      <title>Wednesday 29 October, 2025</title>
+      <link>https://memex.naughtons.org/wednesday-29-october-2025/41327/</link>
+      <description>
+        <![CDATA[Orchid in a window Quote of the Day ”For every problem, there is a solution that is simple, neat, and wrong.” H.L. Mencken Musical alternative to the morning’s radio news Teresa Carreño&#124; Venise op. 33/34 (Live in Helsinki) &#124; Michelle &#8230; <a href="https://memex.naughtons.org/wednesday-29-october-2025/41327/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>Orchid in a window Quote of the Day ”For every problem, there is a solution that is simple, neat, and wrong.” H.L. Mencken Musical alternative to the morning’s radio news Teresa Carreño\| Venise op. 33/34 (Live in Helsinki) \| Michelle … [Continue reading →](https://memex.naughtons.org/wednesday-29-october-2025/41327/)</source:markdown>
+      <guid>cid://https://memex.naughtons.org/?p=41327</guid>
+    </item>    <item>
+      <link>https://wp.feedland.org/</link>
+      <description>
+        <![CDATA[<p>My WordPress News page is faster and shows better on phones. And lots of new sources.</p>]]>
+      </description>
+      <source:markdown>My WordPress News page is faster and shows better on phones. And lots of new sources.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/28/1725/</guid>
+    </item>    <item>
+      <title>OpenAI Acquires Sky, a Still-in-Beta System-Wide AI Automation Tool for the Mac</title>
+      <link>https://openai.com/index/openai-acquires-software-applications-incorporated/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42326</guid>
+    </item>    <item>
       <title>Well, that didn’t work</title>
       <link>https://doc.searls.com/2025/10/28/19611/</link>
       <description>
@@ -46,12 +289,12 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <source:markdown>I had a whole post that disappeared. This is where it would have been. The categories give a little away. Live and re-learn.</source:markdown>
       <guid>cid://https://doc.searls.com/2025/10/28/19611/</guid>
     </item>    <item>
-      <title>This week&#39;s TO SHARE video</title>
+      <title>This week’s TO SHARE video</title>
       <link>https://robertreich.substack.com/p/this-weeks-to-share-video</link>
       <description>
-        <![CDATA[Why it's urgent to vote YES on California Proposition 50]]>
+        <![CDATA[Why it&#8217;s urgent to vote YES on California Proposition 50]]>
       </description>
-      <source:markdown>Why it&#39;s urgent to vote YES on California Proposition 50</source:markdown>
+      <source:markdown>Why it’s urgent to vote YES on California Proposition 50</source:markdown>
       <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/A4HxgFNrHK8" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/this-weeks-to-share-video</guid>
     </item>    <item>
@@ -88,9 +331,9 @@ Doom takes place on Mars, but up until recently, it has only been played on Eart
     </item>    <item>
       <link>http://scripting.com/2025/10/28.html#a194324</link>
       <description>
-        <![CDATA[I checked out Elon Musk's <a href="https://en.wikipedia.org/wiki/Grokipedia">answer</a> to Wikipedia by going to the pages on <a href="https://grokipedia.com/page/Wikipedia">his site</a> that Wikipedia mangles the most. It looks like they basically copied Wikipedia, so it's no better or worse. They'll probably be able to improve it, because ChatGPT tells a much closer to actual-events story. Getting the story right, is more important imho than keeping democracy open to trolls.]]>
+        <![CDATA[I checked out Elon Musk's <a href="https://en.wikipedia.org/wiki/Grokipedia">answer</a> to Wikipedia by going to the pages on <a href="https://grokipedia.com/page/Wikipedia">his site</a> that Wikipedia mangles the most, in my experience. It looks like they basically copied Wikipedia, if so it's no better or worse. They'll probably be able to improve it, because ChatGPT tells a much closer to actual-events story. Net-net getting the story right is more important imho than keeping democracy open to trolls.]]>
       </description>
-      <source:markdown>I checked out Elon Musk&#39;s [answer](https://en.wikipedia.org/wiki/Grokipedia) to Wikipedia by going to the pages on [his site](https://grokipedia.com/page/Wikipedia) that Wikipedia mangles the most. It looks like they basically copied Wikipedia, so it&#39;s no better or worse. They&#39;ll probably be able to improve it, because ChatGPT tells a much closer to actual-events story. Getting the story right, is more important imho than keeping democracy open to trolls.</source:markdown>
+      <source:markdown>I checked out Elon Musk&#39;s [answer](https://en.wikipedia.org/wiki/Grokipedia) to Wikipedia by going to the pages on [his site](https://grokipedia.com/page/Wikipedia) that Wikipedia mangles the most, in my experience. It looks like they basically copied Wikipedia, if so it&#39;s no better or worse. They&#39;ll probably be able to improve it, because ChatGPT tells a much closer to actual-events story. Net-net getting the story right is more important imho than keeping democracy open to trolls.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/28.html#a194324</guid>
     </item>    <item>
       <link>https://www.theatlantic.com/politics/archive/2025/10/canada-us-foreign-policy-trump/684719/?gift=f35zZN0v_gDFE8xNwlQAHarxgsf8KbwKKHzxNoBJMzk&#38;utm_source=copy-link&#38;utm_medium=social&#38;utm_campaign=share</link>
@@ -157,7 +400,7 @@ Doom takes place on Mars, but up until recently, it has only been played on Eart
       <title>Hacking the WiFi-enabled color screen GitHub Universe conference badge</title>
       <link>https://simonwillison.net/2025/Oct/28/github-universe-badge/#atom-everything</link>
       <description>
-        <![CDATA[<p>I'm at <a href="https://githubuniverse.com/">GitHub Universe</a> this week (thanks to a free ticket from Microsoft). Yesterday I picked up my conference badge... which incorporates a full Raspberry Pi with a battery, color screen, WiFi and bluetooth.</p>
+        <![CDATA[<p>I'm at <a href="https://githubuniverse.com/">GitHub Universe</a> this week (thanks to a free ticket from Microsoft). Yesterday I picked up my conference badge... which incorporates a <s>full Raspberry Pi</s> Raspberry Pi Pico microcontroller with a battery, color screen, WiFi and bluetooth.</p>
         <p>GitHub Universe has a tradition of hackable conference badges - the badge last year had an eInk display. This year's is a huge upgrade though - a color screen and WiFI connection makes this thing a genuinely useful little computer!</p>
         <p><img src="https://static.simonwillison.net/static/2025/gitub-universe-badge.jpg" alt="Photo of the badge - it has a color screen with six app icons" style="max-width: 100%;" /></p>
         <p>The only thing it's missing is a keyboard - the device instead provides five buttons total - Up, Down, A, B, C. It might be possible to get a bluetooth keyboard to work though I'll believe that when I see it - there's not a lot of space on this device for a keyboard driver.</p>
@@ -216,9 +459,9 @@ Doom takes place on Mars, but up until recently, it has only been played on Eart
         <p>There isn't yet a way to get hold of this hardware outside of GitHub Universe - I know they had some supply chain challenges just getting enough badges for the conference attendees!</p>
         <p>It's a very neat device, built for GitHub by <a href="https://www.pimoroni.com/">Pimoroni</a> in Sheffield, UK. A version of this should become generally available in the future under the name "Pimoroni Tufty 2350".</p>
             
-                <p>Tags: <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/hardware-hacking">hardware-hacking</a>, <a href="https://simonwillison.net/tags/microsoft">microsoft</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/disclosures">disclosures</a></p>]]>
+                <p>Tags: <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/hardware-hacking">hardware-hacking</a>, <a href="https://simonwillison.net/tags/microsoft">microsoft</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/raspberry-pi">raspberry-pi</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/disclosures">disclosures</a></p>]]>
       </description>
-      <source:markdown>I&#39;m at [GitHub Universe](https://githubuniverse.com/) this week (thanks to a free ticket from Microsoft). Yesterday I picked up my conference badge... which incorporates a full Raspberry Pi with a battery, color screen, WiFi and bluetooth.
+      <source:markdown>I&#39;m at [GitHub Universe](https://githubuniverse.com/) this week (thanks to a free ticket from Microsoft). Yesterday I picked up my conference badge... which incorporates a full Raspberry Pi Raspberry Pi Pico microcontroller with a battery, color screen, WiFi and bluetooth.
 
 GitHub Universe has a tradition of hackable conference badges - the badge last year had an eInk display. This year&#39;s is a huge upgrade though - a color screen and WiFI connection makes this thing a genuinely useful little computer!
 
@@ -322,7 +565,7 @@ There isn&#39;t yet a way to get hold of this hardware outside of GitHub Univers
 
 It&#39;s a very neat device, built for GitHub by [Pimoroni](https://www.pimoroni.com/) in Sheffield, UK. A version of this should become generally available in the future under the name &#34;Pimoroni Tufty 2350&#34;.
 
-Tags: [github](https://simonwillison.net/tags/github), [hardware-hacking](https://simonwillison.net/tags/hardware-hacking), [microsoft](https://simonwillison.net/tags/microsoft), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [claude-code](https://simonwillison.net/tags/claude-code), [disclosures](https://simonwillison.net/tags/disclosures)</source:markdown>
+Tags: [github](https://simonwillison.net/tags/github), [hardware-hacking](https://simonwillison.net/tags/hardware-hacking), [microsoft](https://simonwillison.net/tags/microsoft), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [raspberry-pi](https://simonwillison.net/tags/raspberry-pi), [llms](https://simonwillison.net/tags/llms), [claude-code](https://simonwillison.net/tags/claude-code), [disclosures](https://simonwillison.net/tags/disclosures)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/28/github-universe-badge/#atom-everything</guid>
     </item>    <item>
       <title>Grokipedia Is the Antithesis of Everything That Makes Wikipedia Good, Useful, and Human</title>
@@ -20417,888 +20660,6 @@ It has now been thirteen minutes that I have gone without buying LED panels, and
       </description>
       <source:markdown>A Dr. Demento superfan looks back on the novelty radio icon as he finally hangs up his microphone after a 55-year run. Oh, he pulled in a bunch of other superfans, too.</source:markdown>
       <guid>cid://https://tedium.co/2025/10/07/dr-demento-retirement-tribute/</guid>
-    </item>    <item>
-      <title>Wednesday 8 October, 2025</title>
-      <link>https://memex.naughtons.org/wednesday-8-october-2025/41271/</link>
-      <description>
-        <![CDATA[900+ and still going strong A really venerable parish church bathed in Autumnal sunshine and currently acquiring a new roof. Quote of the Day ”The great tragedy of our age is that science gathers knowledge faster than society gathers wisdom.” &#8230; <a href="https://memex.naughtons.org/wednesday-8-october-2025/41271/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <source:markdown>900+ and still going strong A really venerable parish church bathed in Autumnal sunshine and currently acquiring a new roof. Quote of the Day ”The great tragedy of our age is that science gathers knowledge faster than society gathers wisdom.” … [Continue reading →](https://memex.naughtons.org/wednesday-8-october-2025/41271/)</source:markdown>
-      <guid>cid://https://memex.naughtons.org/?p=41271</guid>
-    </item>    <item>
-      <link>https://www.theverge.com/news/795536/wordle-tv-game-show-jimmy-fallon-savannah-guthrie-nbc</link>
-      <description>
-        <![CDATA[<p>Jimmy Fallon wants to turn Wordle into a TV show.</p>]]>
-      </description>
-      <source:markdown>Jimmy Fallon wants to turn Wordle into a TV show.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/07/1419/</guid>
-    </item>    <item>
-      <title>Retraction</title>
-      <link>https://simonwillison.net/2025/Oct/7/gemini-25-computer-use-captchas/#atom-everything</link>
-      <description>
-        <![CDATA[<p>Google released a new <a href="https://blog.google/technology/google-deepmind/gemini-computer-use-model/">Gemini 2.5 Computer Use model</a> today, specially designed to help operate a GUI interface by interacting with visible elements using a virtual mouse and keyboard.</p>
-        <p>I tried the demo hosted by Browserbase at <a href="https://gemini.browserbase.com/">gemini.browserbase.com</a> and was delighted and slightly horrified when it appeared to kick things off by first navigating to Google.com and solving their CAPTCHA in order to run a search!</p>
-        
-        <p>I wrote a post about it and included <a href="https://static.simonwillison.net/static/2025/captcha-solve-gemini-2.jpg">this screenshot</a>, but then learned that Browserbase itself has CAPTCHA solving built in and, as shown <a href="https://static.simonwillison.net/static/2025/browserbase-captcha.mp4">in this longer video</a>, it was Browserbase that solved the CAPTCHA even while Gemini was thinking about doing so itself.</p>
-        
-        <p>I deeply regret this error. I've deleted various social media posts about the original entry and linked back to this retraction instead.</p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/gemini">gemini</a></p>]]>
-      </description>
-      <source:markdown>Google released a new [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/) today, specially designed to help operate a GUI interface by interacting with visible elements using a virtual mouse and keyboard.
-
-I tried the demo hosted by Browserbase at [gemini.browserbase.com](https://gemini.browserbase.com/) and was delighted and slightly horrified when it appeared to kick things off by first navigating to Google.com and solving their CAPTCHA in order to run a search!
-
-I wrote a post about it and included [this screenshot](https://static.simonwillison.net/static/2025/captcha-solve-gemini-2.jpg), but then learned that Browserbase itself has CAPTCHA solving built in and, as shown [in this longer video](https://static.simonwillison.net/static/2025/browserbase-captcha.mp4), it was Browserbase that solved the CAPTCHA even while Gemini was thinking about doing so itself.
-
-I deeply regret this error. I&#39;ve deleted various social media posts about the original entry and linked back to this retraction instead.
-
-Tags: [gemini](https://simonwillison.net/tags/gemini)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/7/gemini-25-computer-use-captchas/#atom-everything</guid>
-    </item>    <item>
-      <title>The trailer for Downey Wrote That, a documentary about long-time SNL writer...</title>
-      <link>https://kottke.org/25/10/0047677-the-trailer-for-downey-wr</link>
-      <guid>cid://tag:kottke.org,2025://13.47677</guid>
-    </item>    <item>
-      <title>October 6, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/october-6-2025-b2a</link>
-      <enclosure url="https://api.substack.com/feed/podcast/175568917/5aa80cef3f9c360dfdd69da35b97f344.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/october-6-2025-b2a</guid>
-    </item>    <item>
-      <title>The first new edition of Merriam-Webster’s Collegiate Dictionary in 22 years contains...</title>
-      <link>https://kottke.org/25/10/0047669-the-first-new-edition-of</link>
-      <guid>cid://tag:kottke.org,2025://13.47669</guid>
-    </item>    <item>
-      <title>The Onion made a movie about Jeffrey Epstein and they&#38;#8217;re airing it...</title>
-      <link>https://kottke.org/25/10/0047676-the-onion-made-a-movie</link>
-      <guid>cid://tag:kottke.org,2025://13.47676</guid>
-    </item>    <item>
-      <link>https://www.theguardian.com/us-news/live/2025/oct/07/donald-trump-national-guard-pam-bondi-mark-carney-government-shutdown-us-politics-live-news-updates</link>
-      <description>
-        <![CDATA[<p>Furloughed government workers may not be entitled to back pay, reports say, as Trump claims some jobs ‘will never come back.’ Hmm. I can't imagine the unpaid workers feel too good about this.</p>]]>
-      </description>
-      <source:markdown>Furloughed government workers may not be entitled to back pay, reports say, as Trump claims some jobs ‘will never come back.’ Hmm. I can&#39;t imagine the unpaid workers feel too good about this.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/07/1417/</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/10/07.html#a193847</link>
-      <description>
-        <![CDATA[Thanks to <a href="https://bsky.app/profile/tanyaweiman.bsky.social/post/3m2mt5qvccs2b">Tanya Weiman</a> for observing that this blog started <a href="http://scripting.com/davenet/1994/10/07/marccantersingsagain.html">31 years ago</a>. Probably the longest-running blog on the internets. Still making trouble. And as they say, still diggin.  You can always tell how long it's been by <a href="https://imgs.scripting.com/2025/10/07/bottomOfPage.png">looking</a> at the bottom of <a href="http://scripting.com/2025/08/28/140604.html">any archive page</a>, where it's constantly calculating, down to the second, how long this blog has been running.]]>
-      </description>
-      <source:markdown>Thanks to [Tanya Weiman](https://bsky.app/profile/tanyaweiman.bsky.social/post/3m2mt5qvccs2b) for observing that this blog started [31 years ago](http://scripting.com/davenet/1994/10/07/marccantersingsagain.html). Probably the longest-running blog on the internets. Still making trouble. And as they say, still diggin. You can always tell how long it&#39;s been by [looking](https://imgs.scripting.com/2025/10/07/bottomOfPage.png) at the bottom of [any archive page](http://scripting.com/2025/08/28/140604.html), where it&#39;s constantly calculating, down to the second, how long this blog has been running.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/07.html#a193847</guid>
-    </item>    <item>
-      <title>Bob Ross paintings to be auctioned to support public TV stations after...</title>
-      <link>https://kottke.org/25/10/0047675-bob-ross-paintings-to-be</link>
-      <guid>cid://tag:kottke.org,2025://13.47675</guid>
-    </item>    <item>
-      <title>Note published on October 7, 2025 at 7:08 PM UTC</title>
-      <link>https://www.mollywhite.net/micro/entry/202510071506</link>
-      <guid>cid://68e56530c07d15a03fd1b5cd</guid>
-    </item>    <item>
-      <title>ToothFairy 2.8.8</title>
-      <link>https://mjtsai.com/blog/2025/10/07/toothfairy-2-8-8/</link>
-      <description>
-        <![CDATA[ToothFairy 2.8.8 is a maintenance update of my Bluetooth menu bar utility. As annoying as Bluetooth is as a user, it&#8217;s even more so as developer. Seemingly straightforward APIs don&#8217;t work as advertised. I don&#8217;t just mean that they can fail with an error. They can fail but say that they succeeded. They can succeed [&#8230;]]]>
-      </description>
-      <source:markdown>ToothFairy 2.8.8 is a maintenance update of my Bluetooth menu bar utility. As annoying as Bluetooth is as a user, it’s even more so as developer. Seemingly straightforward APIs don’t work as advertised. I don’t just mean that they can fail with an error. They can fail but say that they succeeded. They can succeed \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49557</guid>
-    </item>    <item>
-      <title>iOS 26.1 Alarm Buttons: Slide to Stop</title>
-      <link>https://mjtsai.com/blog/2025/10/07/ios-26-1-alarm-buttons-slide-to-stop/</link>
-      <description>
-        <![CDATA[Juli Clover: With the second beta of iOS 26.1, Apple updated the design of alarms set on the iPhone, making them harder to dismiss than before. Stopping an alarm in iOS 26.1 beta 2 requires a new Slide to Stop gesture rather than a simple tap. You can continue to tap to snooze an alarm, [&#8230;]]]>
-      </description>
-      <source:markdown>Juli Clover: With the second beta of iOS 26.1, Apple updated the design of alarms set on the iPhone, making them harder to dismiss than before. Stopping an alarm in iOS 26.1 beta 2 requires a new Slide to Stop gesture rather than a simple tap. You can continue to tap to snooze an alarm, \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49555</guid>
-    </item>    <item>
-      <title>Testing CarPlay Ultra</title>
-      <link>https://mjtsai.com/blog/2025/10/07/testing-carplay-ultra/</link>
-      <description>
-        <![CDATA[Michael Teo Van Runkle: Connecting to Ultra via Bluetooth takes a minute or two longer than traditional CarPlay and includes more consent screens to cover the additional legal ramifications of the operating system sharing data with the car, and vice versa. [&#8230;] Once initiated, though, Ultra fired up straightaway every time. Much faster than the [&#8230;]]]>
-      </description>
-      <source:markdown>Michael Teo Van Runkle: Connecting to Ultra via Bluetooth takes a minute or two longer than traditional CarPlay and includes more consent screens to cover the additional legal ramifications of the operating system sharing data with the car, and vice versa. \[…\] Once initiated, though, Ultra fired up straightaway every time. Much faster than the \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49553</guid>
-    </item>    <item>
-      <title>CarPlay in iOS 26</title>
-      <link>https://mjtsai.com/blog/2025/10/07/carplay-in-ios-26/</link>
-      <description>
-        <![CDATA[Jonathan Reed: Apple brings much more customization to our in-car displays, mainly by letting the much heralded features of CarPlay Ultra trickle down to regular CarPlay. [&#8230;] CarPlay has taken on the visual qualities of Liquid Glass. Since CarPlay is essentially a mirror for your iPhone, this is to be expected, but it&#8217;s been done [&#8230;]]]>
-      </description>
-      <source:markdown>Jonathan Reed: Apple brings much more customization to our in-car displays, mainly by letting the much heralded features of CarPlay Ultra trickle down to regular CarPlay. \[…\] CarPlay has taken on the visual qualities of Liquid Glass. Since CarPlay is essentially a mirror for your iPhone, this is to be expected, but it’s been done \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49551</guid>
-    </item>    <item>
-      <title>Committing to the Bit</title>
-      <link>https://kottke.org/25/10/committing-to-the-bit</link>
-      <guid>cid://tag:kottke.org,2025://5.47674</guid>
-    </item>    <item>
-      <title>Social Share Imagery via a Data Attribute</title>
-      <link>https://blog.jim-nielsen.com/2025/og-images-via-data-attributes/</link>
-      <description>
-        <![CDATA[<p>I’ve done something few on the internet do. I’ve changed my mind.</p>
-        <p class="image-container"><img data-og-image src="https://cdn.jim-nielsen.com/blog/2025/social-share-meme.jpg" width="332" height="250" alt="Double take meme of girl with a disgusted face on one side then the same girl with a face of changed opinion. Both faces have the text “og:image” superimposed." />
-        
-        </p><p><a href="https://blog.jim-nielsen.com/2025/rip-browsers/" >A</a> <a href="https://blog.jim-nielsen.com/2025/npm-risks/" >few</a> <a href="https://blog.jim-nielsen.com/2025/my-antis/" >posts</a> on my blog have started to unfurl social share imagery.</p>
-        <p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2025/social-share-preview.png" width="543" height="601" alt="Screenshot of a post from @jimniels@mastodon.social showing a link to blog.jim-nielsen.com and an accompanying og:image preview." />
-        
-        </p><p>You might be wondering, “Wait Jim I thought you hated those things?”</p>
-        <p>It’s not that I hate social share imagery. I just think…well, <a href="https://blog.jim-nielsen.com/2021/quibbles-with-social-share-imagery/" >I’ve shared my thoughts before</a> (even made <a href="https://blog.jim-nielsen.com/2024/omgimg/" >a game</a>) so I won’t get on my soapbox.</p>
-        <p>But I think these “previews” have their place and, when used as a preview — i.e. an opportunity to graphically depict a brief portion of the actual, underlying content — these function well <em>in service of readers</em>.</p>
-        <p>For example, I often write posts that have zero images in them. They’re pure text. I don’t burden myself with the obligation to generate a graphical preview of the ideas contained in those posts.</p>
-        <p>But, sometimes, I create posts that have <a href="https://blog.jim-nielsen.com/2025/mac-app-flea-market/" >lots of imagery in them</a>, or even just <a href="https://blog.jim-nielsen.com/2025/casing-on-the-web/" >a good meme-like photo</a> and it feels like a shame to <em>not</em> surface that imagery in some way.</p>
-        <p>So, in service of that pursuit, I set out to resolve how I could do <a href="https://ogp.me" >og:images</a> in my posts.</p>
-        <p>It’s not as easy as “just stick it your front-matter” because <a href="https://blog.jim-nielsen.com/2022/markdown-sans-front-matter/" >my markdown files don’t use front-matter</a>. And I didn’t want to “just add front-matter”. I have my own idiosyncratic way of writing markdown for my blog, which means I need my own idiosyncratic way of denoting “this post has an og:image and here’s the URL”.</p>
-        <p>After giving it some thought, I realized that all my images are expressed in markdown as HTML (this lets me easily add attributes like <code>alt</code>, <code>width</code>, and <code>height</code>) so if I wanted to mark one of my images as the “preview” image for a post, I could  just add a special data attribute like so:</p>
-        <pre><code class="language language-md">You guys, I made the funniest image to depict this:
-        
-        <span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">img</span> <span class="hljs-attr">data-og-image</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;&quot;</span> <span class="hljs-attr">width</span>=<span class="hljs-string">&quot;&quot;</span> <span class="hljs-attr">height</span>=<span class="hljs-string">&quot;&quot;</span> <span class="hljs-attr">alt</span>=<span class="hljs-string">&quot;&quot;</span>&gt;</span></span>
-        
-        Isn’t that hilarious?
-        </code></pre>
-        <p>Then my markdown processor can extract that piece of meta information and surface it to each post template, essentially like this:</p>
-        <pre><code class="language language-html"><span class="hljs-tag">&lt;<span class="hljs-name">html</span>&gt;</span>
-          <span class="hljs-tag">&lt;<span class="hljs-name">title</span>&gt;</span>{post.title}<span class="hljs-tag">&lt;/<span class="hljs-name">title</span>&gt;</span>
-          {post.ogimage &amp;&amp;
-            <span class="hljs-tag">&lt;<span class="hljs-name">meta</span> <span class="hljs-attr">property</span>=<span class="hljs-string">&quot;og:image&quot;</span> <span class="hljs-attr">content</span>=<span class="hljs-string">{post.ogimage}</span>&gt;</span>}
-          <span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
-            <span class="hljs-tag">&lt;<span class="hljs-name">h1</span>&gt;</span>{post.title}<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
-            {post.content}
-        </code></pre>
-        <p>I love this because it allows me to leverage existing mechanisms in both the authoring and development processes (data attributes in HTML that become metadata on the <code>post</code> object), without needing to introduce an entirely new method of expression (e.g. front-matter).</p>
-        <p>It also feels good because:</p>
-        <ol>
-        <li><strong>It’s good for me</strong>. It doesn’t require any additional work on my part. I don’t have to create additional images for my posts. I’m merely marking images I’ve already created — which were done in service of a post’s content — as “previews” for the post.</li>
-        <li><strong>It’s good for users</strong>. Readers of my site get image previews that are actually, well, previews — e.g. a graphical representation that will contextually reappear in the post, (as opposed to an image template whose contents do nothing to provide an advanced graphical preview of what’s to follow in the post itself).</li>
-        </ol>
-        <p>It’s technology in service of content, rather than content in service of technology.</p>
-        <p>Or at least that’s what I like to tell myself :)</p>
-        
-            <hr />
-            
-        
-            <p>
-              Reply via:
-              
-        
-              <a
-                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/og-images-via-data-attributes/"
-                >Email</a
-              >
-              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
-        
-              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
-            </p>]]>
-      </description>
-      <source:markdown>I’ve done something few on the internet do. I’ve changed my mind.
-
-![Double take meme of girl with a disgusted face on one side then the same girl with a face of changed opinion. Both faces have the text “og:image” superimposed.](https://cdn.jim-nielsen.com/blog/2025/social-share-meme.jpg)
-
-[A](https://blog.jim-nielsen.com/2025/rip-browsers/) [few](https://blog.jim-nielsen.com/2025/npm-risks/) [posts](https://blog.jim-nielsen.com/2025/my-antis/) on my blog have started to unfurl social share imagery.
-
-![Screenshot of a post from @jimniels@mastodon.social showing a link to blog.jim-nielsen.com and an accompanying og:image preview.](https://cdn.jim-nielsen.com/blog/2025/social-share-preview.png)
-
-You might be wondering, “Wait Jim I thought you hated those things?”
-
-It’s not that I hate social share imagery. I just think…well, [I’ve shared my thoughts before](https://blog.jim-nielsen.com/2021/quibbles-with-social-share-imagery/) (even made [a game](https://blog.jim-nielsen.com/2024/omgimg/)) so I won’t get on my soapbox.
-
-But I think these “previews” have their place and, when used as a preview — i.e. an opportunity to graphically depict a brief portion of the actual, underlying content — these function well _in service of readers_.
-
-For example, I often write posts that have zero images in them. They’re pure text. I don’t burden myself with the obligation to generate a graphical preview of the ideas contained in those posts.
-
-But, sometimes, I create posts that have [lots of imagery in them](https://blog.jim-nielsen.com/2025/mac-app-flea-market/), or even just [a good meme-like photo](https://blog.jim-nielsen.com/2025/casing-on-the-web/) and it feels like a shame to _not_ surface that imagery in some way.
-
-So, in service of that pursuit, I set out to resolve how I could do [og:images](https://ogp.me) in my posts.
-
-It’s not as easy as “just stick it your front-matter” because [my markdown files don’t use front-matter](https://blog.jim-nielsen.com/2022/markdown-sans-front-matter/). And I didn’t want to “just add front-matter”. I have my own idiosyncratic way of writing markdown for my blog, which means I need my own idiosyncratic way of denoting “this post has an og:image and here’s the URL”.
-
-After giving it some thought, I realized that all my images are expressed in markdown as HTML (this lets me easily add attributes like `alt`, `width`, and `height`) so if I wanted to mark one of my images as the “preview” image for a post, I could just add a special data attribute like so:
-
-```language md
-You guys, I made the funniest image to depict this:
-
-&#60;img data-og-image src=&#34;&#34; width=&#34;&#34; height=&#34;&#34; alt=&#34;&#34;&#62;
-
-Isn’t that hilarious?
-
-```
-
-Then my markdown processor can extract that piece of meta information and surface it to each post template, essentially like this:
-
-```language html
-&#60;html&#62;
-  &#60;title&#62;{post.title}&#60;/title&#62;
-  {post.ogimage &#38;&#38;
-    &#60;meta property=&#34;og:image&#34; content={post.ogimage}&#62;}
-  &#60;body&#62;
-    &#60;h1&#62;{post.title}&#60;/h1&#62;
-    {post.content}
-
-```
-
-I love this because it allows me to leverage existing mechanisms in both the authoring and development processes (data attributes in HTML that become metadata on the `post` object), without needing to introduce an entirely new method of expression (e.g. front-matter).
-
-It also feels good because:
-
-1. **It’s good for me**. It doesn’t require any additional work on my part. I don’t have to create additional images for my posts. I’m merely marking images I’ve already created — which were done in service of a post’s content — as “previews” for the post.
-2. **It’s good for users**. Readers of my site get image previews that are actually, well, previews — e.g. a graphical representation that will contextually reappear in the post, (as opposed to an image template whose contents do nothing to provide an advanced graphical preview of what’s to follow in the post itself).
-
-It’s technology in service of content, rather than content in service of technology.
-
-Or at least that’s what I like to tell myself :)
-
-* * *
-
-Reply via:
-
-
-[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/og-images-via-data-attributes/)
-· [Mastodon](https://mastodon.social/@jimniels) ·
-
-[Bluesky](https://bsky.app/profile/jim-nielsen.com)</source:markdown>
-      <guid>cid://https://blog.jim-nielsen.com/2025/og-images-via-data-attributes/</guid>
-    </item>    <item>
-      <link>https://en.wikipedia.org/wiki/Pistachio</link>
-      <description>
-        <![CDATA[<p>Have I ever told you how delicious pistachios are?</p>]]>
-      </description>
-      <source:markdown>Have I ever told you how delicious pistachios are?</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/07/1415/</guid>
-    </item>    <item>
-      <title>What’s New or Changed in iOS 26.1 Beta 2</title>
-      <link>https://9to5mac.com/2025/10/06/everything-new-in-ios-26-1-beta-2/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42248</guid>
-    </item>    <item>
-      <title>Everything Is Becoming a Bank. &#38;#8220;Most major corporations — from airlines to...</title>
-      <link>https://kottke.org/25/10/0047665-everything-is-becoming-a-</link>
-      <guid>cid://tag:kottke.org,2025://13.47665</guid>
-    </item>    <item>
-      <title>What is Windows ML</title>
-      <link>https://learn.microsoft.com/en-us/windows/ai/new-windows-ml/overview</link>
-      <description>
-        <![CDATA[<p>The post <a href="https://learn.microsoft.com/en-us/windows/ai/new-windows-ml/overview">What is Windows ML</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>]]>
-      </description>
-      <source:markdown>The post [What is Windows ML](https://learn.microsoft.com/en-us/windows/ai/new-windows-ml/overview) appeared first on [Windows Developer Blog](https://blogs.windows.com/windowsdeveloper).</source:markdown>
-      <guid>cid://https://blogs.windows.com/windowsdeveloper/?p=57595</guid>
-    </item>    <item>
-      <title>Copilot+ PCs Developer Guide</title>
-      <link>https://learn.microsoft.com/en-us/windows/ai/npu-devices/</link>
-      <description>
-        <![CDATA[<p>The post <a href="https://learn.microsoft.com/en-us/windows/ai/npu-devices/">Copilot+ PCs Developer Guide</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>]]>
-      </description>
-      <source:markdown>The post [Copilot+ PCs Developer Guide](https://learn.microsoft.com/en-us/windows/ai/npu-devices/) appeared first on [Windows Developer Blog](https://blogs.windows.com/windowsdeveloper).</source:markdown>
-      <guid>cid://https://blogs.windows.com/windowsdeveloper/?p=57594</guid>
-    </item>    <item>
-      <title>Overview for the AI Toolkit for Visual Studio Code</title>
-      <link>https://learn.microsoft.com/en-us/windows/ai/toolkit/</link>
-      <description>
-        <![CDATA[<p>The post <a href="https://learn.microsoft.com/en-us/windows/ai/toolkit/">Overview for the AI Toolkit for Visual Studio Code</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>]]>
-      </description>
-      <source:markdown>The post [Overview for the AI Toolkit for Visual Studio Code](https://learn.microsoft.com/en-us/windows/ai/toolkit/) appeared first on [Windows Developer Blog](https://blogs.windows.com/windowsdeveloper).</source:markdown>
-      <guid>cid://https://blogs.windows.com/windowsdeveloper/?p=57593</guid>
-    </item>    <item>
-      <title>LoRA Fine-Tuning for Phi Silica</title>
-      <link>https://learn.microsoft.com/en-us/windows/ai/apis/phi-silica-lora?tabs=csharp0</link>
-      <description>
-        <![CDATA[<p>The post <a href="https://learn.microsoft.com/en-us/windows/ai/apis/phi-silica-lora?tabs=csharp0">LoRA Fine-Tuning for Phi Silica</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>]]>
-      </description>
-      <source:markdown>The post [LoRA Fine-Tuning for Phi Silica](https://learn.microsoft.com/en-us/windows/ai/apis/phi-silica-lora?tabs=csharp0) appeared first on [Windows Developer Blog](https://blogs.windows.com/windowsdeveloper).</source:markdown>
-      <guid>cid://https://blogs.windows.com/windowsdeveloper/?p=57592</guid>
-    </item>    <item>
-      <title>A new Moomins movie is on the way.</title>
-      <link>https://lithub.com/a-new-moomins-movie-is-on-the-way/</link>
-      <description>
-        <![CDATA[Those loveable Finnish trolls are coming to the American movies! Writer and artist Tove Jansson created the Moomins in the 1940s and the characters have since become a global phenomenon, appearing in books, comics, TV series, movies, and theme parks]]>
-      </description>
-      <source:markdown>Those loveable Finnish trolls are coming to the American movies! Writer and artist Tove Jansson created the Moomins in the 1940s and the characters have since become a global phenomenon, appearing in books, comics, TV series, movies, and theme parks</source:markdown>
-      <guid>cid://https://lithub.com/?p=260811</guid>
-    </item>    <item>
-      <link>https://www.pbs.org/newshour/politics/at-the-center-of-shutdown-fight-health-care-is-one-of-the-most-intractable-issues-in-congress</link>
-      <description>
-        <![CDATA[<p>At the center of shutdown fight, health care is one of the most intractable (also consequential) issues in Congress.</p>]]>
-      </description>
-      <source:markdown>At the center of shutdown fight, health care is one of the most intractable (also consequential) issues in Congress.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/07/1409/</guid>
-    </item>    <item>
-      <title>&#38;#8220;The world&#38;#8217;s wind and solar farms have generated more electricity than coal...</title>
-      <link>https://kottke.org/25/10/0047672-the-worlds-wind-and-solar</link>
-      <guid>cid://tag:kottke.org,2025://13.47672</guid>
-    </item>    <item>
-      <link>https://techcrunch.com/2025/10/07/mastodon-is-taking-cues-from-bluesky-with-plans-for-its-own-starter-packs/</link>
-      <description>
-        <![CDATA[<p>Mastodon supports lists. It's a good feature for helping people get started.</p>]]>
-      </description>
-      <source:markdown>Mastodon supports lists. It&#39;s a good feature for helping people get started.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/07/1407/</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/10/07.html#a164125</link>
-      <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2024/08/17/dewey.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Why we <i>all</i> should love RSS. It makes the web higher level without taking anything away.]]>
-      </description>
-      <source:markdown>![](https://imgs.scripting.com/2024/08/17/dewey.png)Why we _all_ should love RSS. It makes the web higher level without taking anything away.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/07.html#a164125</guid>
-    </item>    <item>
-      <title>AltStore State of the Union</title>
-      <link>https://rileytestut.com/blog/2025/10/07/evolving-altstore-pal/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42247</guid>
-    </item>    <item>
-      <title>Sustainable solutions with Raspberry Pi: Local, zero-waste manufacturing and precious metal recovery</title>
-      <link>https://www.raspberrypi.com/news/sustainable-solutions-with-raspberry-pi-local-zero-waste-manufacturing-and-precious-metal-recovery/</link>
-      <description>
-        <![CDATA[<p>How Raspberry Pi's partnership with Sony UK TEC in Pencoed, South Wales, ensures our manufacturing practices are environmentally sound.</p>
-        <p>The post <a href="https://www.raspberrypi.com/news/sustainable-solutions-with-raspberry-pi-local-zero-waste-manufacturing-and-precious-metal-recovery/">Sustainable solutions with Raspberry Pi: Local, zero-waste manufacturing and precious metal recovery</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
-      </description>
-      <source:markdown>How Raspberry Pi&#39;s partnership with Sony UK TEC in Pencoed, South Wales, ensures our manufacturing practices are environmentally sound.
-
-The post [Sustainable solutions with Raspberry Pi: Local, zero-waste manufacturing and precious metal recovery](https://www.raspberrypi.com/news/sustainable-solutions-with-raspberry-pi-local-zero-waste-manufacturing-and-precious-metal-recovery/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
-      <guid>cid://https://www.raspberrypi.com/?p=130006</guid>
-    </item>    <item>
-      <title>The antidote to Bigco dominance</title>
-      <link>http://scripting.com/2025/10/07/160950.html?title=theAntidoteToBigcoDominance</link>
-      <description>
-        <![CDATA[<p>Fascinating <a href="https://www.shellen.com/2025/10/07/layover-over/">blog post</a> from Jason Shellen, tech entrepreneur, formerly with Blogger and Google. Here’s my perspective on part of the story he tells about RSS and Google Reader.</p>
-        <p>Netscape gave us RSS 0.91 and it was good enough to create a new powerful layer on the web. Then Netscape blew up and a bunch of repeated efforts to kill it from big companies. I’ll leave it to others to say why, but they tried over and over to extinguish the spark. Independent developers were stubborn, we kept using the original format, and in the end the independents prevailed. </p>
-        <p>Don’t ever think bigco’s are the answer. They almost always suck the life out of open systems. If you have something good going: <b>work together</b>. It’s the antidote to bigco dominance. </p>
-        <p>If you suck up to the bigco thinking they’ll let you in, maybe they will for a short while. But what you’ll be left with may not be worth the cost. </p>
-        <p>And just because you have a job at a bigco doesn’t make you hot shit. Maybe for a moment. </p>
-        <p>This theory has a name, it’s described in the <a href="https://en.m.wikipedia.org/wiki/Prisoner%27s_dilemma">Prisoner’s Dilemma</a>, and its lesson applies in tech and in the political disaster the US has become.</p>]]>
-      </description>
-      <source:markdown>Fascinating [blog post](https://www.shellen.com/2025/10/07/layover-over/) from Jason Shellen, tech entrepreneur, formerly with Blogger and Google. Here’s my perspective on part of the story he tells about RSS and Google Reader.
-
-Netscape gave us RSS 0.91 and it was good enough to create a new powerful layer on the web. Then Netscape blew up and a bunch of repeated efforts to kill it from big companies. I’ll leave it to others to say why, but they tried over and over to extinguish the spark. Independent developers were stubborn, we kept using the original format, and in the end the independents prevailed.
-
-Don’t ever think bigco’s are the answer. They almost always suck the life out of open systems. If you have something good going: **work together**. It’s the antidote to bigco dominance.
-
-If you suck up to the bigco thinking they’ll let you in, maybe they will for a short while. But what you’ll be left with may not be worth the cost.
-
-And just because you have a job at a bigco doesn’t make you hot shit. Maybe for a moment.
-
-This theory has a name, it’s described in the [Prisoner’s Dilemma](https://en.m.wikipedia.org/wiki/Prisoner%27s_dilemma), and its lesson applies in tech and in the political disaster the US has become.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/07/160950.html</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/10/07.html#a160646</link>
-      <description>
-        <![CDATA[Try as hard as I can I still have distinct flows and more than one place where I edit. I think that's a consequence of working on WordLand. I have to use it for serious writing, otherwise how would I know if it works. Maybe I can find a way to merge flows, but not at the moment. I still have to do some copy/pasting.]]>
-      </description>
-      <source:markdown>Try as hard as I can I still have distinct flows and more than one place where I edit. I think that&#39;s a consequence of working on WordLand. I have to use it for serious writing, otherwise how would I know if it works. Maybe I can find a way to merge flows, but not at the moment. I still have to do some copy/pasting.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/07.html#a160646</guid>
-    </item>    <item>
-      <title>Quoting Thomas Klausner</title>
-      <link>https://simonwillison.net/2025/Oct/7/thomas-klausner/#atom-everything</link>
-      <description>
-        <![CDATA[<blockquote cite="https://domm.plix.at/perl/2025_10_braincoded_static_image_gallery.html"><p>For quite some I wanted to write a small static image gallery so I can share my pictures with friends and family. Of course there are a gazillion tools like this, but, well, sometimes I just want to roll my own. [...]</p>
-        <p>I used the old, well tested technique I call <strong>brain coding</strong>, where you start with an empty vim buffer and type some code (Perl, HTML, CSS) until you're happy with the result. It helps to think a bit (aka use your brain) during this process.</p></blockquote>
-        <p class="cite">&mdash; <a href="https://domm.plix.at/perl/2025_10_braincoded_static_image_gallery.html">Thomas Klausner</a>, coining "brain coding"</p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/definitions">definitions</a></p>]]>
-      </description>
-      <source:markdown>&#62; For quite some I wanted to write a small static image gallery so I can share my pictures with friends and family. Of course there are a gazillion tools like this, but, well, sometimes I just want to roll my own. \[...\]
-&#62;
-&#62; I used the old, well tested technique I call **brain coding**, where you start with an empty vim buffer and type some code (Perl, HTML, CSS) until you&#39;re happy with the result. It helps to think a bit (aka use your brain) during this process.
-
-— [Thomas Klausner](https://domm.plix.at/perl/2025_10_braincoded_static_image_gallery.html), coining &#34;brain coding&#34;
-
-Tags: [vibe-coding](https://simonwillison.net/tags/vibe-coding), [definitions](https://simonwillison.net/tags/definitions)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/7/thomas-klausner/#atom-everything</guid>
-    </item>    <item>
-      <title>Toxic: sueños vanidosos y pesadillas de inseguridad</title>
-      <link>https://www.palomitademaiz.net/resenas-toxic/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-toxic</link>
-      <description>
-        <![CDATA[<p>Dirección: Saulė Bliuvaitė. Guion: Saulė Bliuvaitė. Elenco: Vesta Matulytė, Ieva Rupeikaitė, Eglė Gabrėnaitė, Giedrius Savickas, Vilma Raubaitė, Jekaterina Makarova. País: Lituania. Más información de la película: https://www.imdb.com/title/tt30327762/ El mundo del modelaje vive de las ilusiones, no solo para los que están dentro del mismo, sino también para los que aspiran entrar a este. Por lo [&#8230;]</p>
-        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-toxic/">Toxic: sueños vanidosos y pesadillas de inseguridad</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
-      </description>
-      <source:markdown>Dirección: Saulė Bliuvaitė. Guion: Saulė Bliuvaitė. Elenco: Vesta Matulytė, Ieva Rupeikaitė, Eglė Gabrėnaitė, Giedrius Savickas, Vilma Raubaitė, Jekaterina Makarova. País: Lituania. Más información de la película: https://www.imdb.com/title/tt30327762/ El mundo del modelaje vive de las ilusiones, no solo para los que están dentro del mismo, sino también para los que aspiran entrar a este. Por lo \[…\]
-
-La entrada [Toxic: sueños vanidosos y pesadillas de inseguridad](https://www.palomitademaiz.net/resenas-toxic/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
-      <guid>cid://https://www.palomitademaiz.net/?p=25587</guid>
-    </item>    <item>
-      <title>What Do You Do with the Mad That You Feel?</title>
-      <link>https://kottke.org/25/10/what-do-you-do-with-the-mad-that-you-feel</link>
-      <guid>cid://tag:kottke.org,2025://5.47662</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2mgoqc6ek2k</link>
-      <description>
-        <![CDATA[Interesting https://www.theguardian.com/us-news/2025/oct/06/oregon-republicans-protest-photo-south-america]]>
-      </description>
-      <source:markdown>Interesting https://www.theguardian.com/us-news/2025/oct/06/oregon-republicans-protest-photo-south-america</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m2mgoqc6ek2k</guid>
-    </item>    <item>
-      <title>Decontrolled</title>
-      <link>https://adactio.com/journal/22174</link>
-      <description>
-        <![CDATA[<p>I was supposed to be in <a href="https://www.peoplesrepublicofcork.com/">Cork</a> over the weekend.</p>
-        
-        <p>Not only was it high time I paid my mother a visit, but the <a href="https://www.corkfolkfestival.com/">Cork Folk Festival</a> was happening too. So I booked some relatively cheap plane tickets for myself and <a href="https://wordridden.com/">Jessica</a> back in August and noted down the days in my calendar.</p>
-        
-        <p>We didn’t end up getting our flight. This time it wasn’t because <a href="https://adactio.com/journal/21990">I messed up the flight times</a>. We made it to Gatwick airport in plenty of time. That’s when we saw that our flight was delayed.</p>
-        
-        <p>See, <a href="https://en.wikipedia.org/wiki/Storm_Amy">Storm Amy</a> was moving in. We were hoping to get into Cork before the storm hit, but now with the flight delayed, that wasn’t likely. In fact, it was more likely that the flight would just get more and more delayed and possibly even get diverted.</p>
-        
-        <p>To start with, we settled in at the airport, prepared to spend an hour or two more than we had planned. But, sure enough, the delays kept piling up. It was time to make decision; wait it out in the hopes that we’d eventually make a very bumpy landing in Cork, or cut our losses and run.</p>
-        
-        <p>I quickly looked up flights for the next couple of weekends and spotted some cheap ones a fortnight away. I booked them and then called my mother to tell her we wouldn’t be showing up that night, but we’d see her in a couple of weeks.</p>
-        
-        <p>Alright then, time to go home.</p>
-        
-        <p>Wait a minute …how exactly are we supposed to leave the airport other than on an airplane?</p>
-        
-        <p>It turns out there’s a process called “decontrolling”. You need to find someone from the airline (or in our case, a third-party contractor operating on the airline’s behalf) who has the security privileges to walk you back out. But you still need to go through passport control …even though you never left the building.</p>
-        
-        <p>Luckily we didn’t have any checked luggage or it would’ve gotten complicated. As it was, it was just weird. It was all very <a href="https://en.wikipedia.org/wiki/The_City_%26_the_City">City And The City</a>.</p>
-        
-        <p>That flight we abandoned did finally take off …six hours late. By that time we were back home on the sofa eating pizza and listening to the wind gusting outside. I think we made the right choice.</p>]]>
-      </description>
-      <source:markdown>I was supposed to be in [Cork](https://www.peoplesrepublicofcork.com/) over the weekend.
-
-Not only was it high time I paid my mother a visit, but the [Cork Folk Festival](https://www.corkfolkfestival.com/) was happening too. So I booked some relatively cheap plane tickets for myself and [Jessica](https://wordridden.com/) back in August and noted down the days in my calendar.
-
-We didn’t end up getting our flight. This time it wasn’t because [I messed up the flight times](https://adactio.com/journal/21990). We made it to Gatwick airport in plenty of time. That’s when we saw that our flight was delayed.
-
-See, [Storm Amy](https://en.wikipedia.org/wiki/Storm_Amy) was moving in. We were hoping to get into Cork before the storm hit, but now with the flight delayed, that wasn’t likely. In fact, it was more likely that the flight would just get more and more delayed and possibly even get diverted.
-
-To start with, we settled in at the airport, prepared to spend an hour or two more than we had planned. But, sure enough, the delays kept piling up. It was time to make decision; wait it out in the hopes that we’d eventually make a very bumpy landing in Cork, or cut our losses and run.
-
-I quickly looked up flights for the next couple of weekends and spotted some cheap ones a fortnight away. I booked them and then called my mother to tell her we wouldn’t be showing up that night, but we’d see her in a couple of weeks.
-
-Alright then, time to go home.
-
-Wait a minute …how exactly are we supposed to leave the airport other than on an airplane?
-
-It turns out there’s a process called “decontrolling”. You need to find someone from the airline (or in our case, a third-party contractor operating on the airline’s behalf) who has the security privileges to walk you back out. But you still need to go through passport control …even though you never left the building.
-
-Luckily we didn’t have any checked luggage or it would’ve gotten complicated. As it was, it was just weird. It was all very [City And The City](https://en.wikipedia.org/wiki/The_City_%26_the_City).
-
-That flight we abandoned did finally take off …six hours late. By that time we were back home on the sofa eating pizza and listening to the wind gusting outside. I think we made the right choice.</source:markdown>
-      <guid>cid://https://adactio.com/journal/22174</guid>
-    </item>    <item>
-      <title>Qualcomm buys open-source electronics firm Arduino. &#38;#8220;Qualcomm said Arduino &#38;#8216;will retain its...</title>
-      <link>https://kottke.org/25/10/0047670-qualcomm-buys-open-source</link>
-      <guid>cid://tag:kottke.org,2025://13.47670</guid>
-    </item>    <item>
-      <title>I missed that NIN&#38;#8217;s Tron:Ares soundtrack came out a couple of weeks...</title>
-      <link>https://kottke.org/25/10/0047671-i-missed-that-nins-tronar</link>
-      <guid>cid://tag:kottke.org,2025://13.47671</guid>
-    </item>    <item>
-      <title>Vibe engineering</title>
-      <link>https://simonwillison.net/2025/Oct/7/vibe-engineering/#atom-everything</link>
-      <description>
-        <![CDATA[<p>I feel like <strong>vibe coding</strong> is <a href="https://simonwillison.net/2025/Mar/19/vibe-coding/">pretty well established now</a> as covering the fast, loose and irresponsible way of building software with AI - entirely prompt-driven, and with no attention paid to how the code actually works. This leaves us with a terminology gap: what should we call the other end of the spectrum, where seasoned professionals accelerate their work with LLMs while staying proudly and confidently accountable for the software they produce?</p>
-        <p>I propose we call this <strong>vibe engineering</strong>, with my tongue only partially in my cheek.</p>
-        <p>One of the lesser spoken truths of working productively with LLMs as a software engineer on non-toy-projects is that it's <em>difficult</em>. There's a lot of depth to understanding how to use the tools, there are plenty of traps to avoid, and the pace at which they can churn out working code raises the bar for what the human participant can and should be contributing.</p>
-        <p>The rise of <strong>coding agents</strong> - tools like <a href="https://www.claude.com/product/claude-code">Claude Code</a> (released February 2025), OpenAI's <a href="https://github.com/openai/codex">Codex CLI</a> (April) and <a href="https://github.com/google-gemini/gemini-cli">Gemini CLI</a> (June) that can iterate on code, actively testing and modifying it until it achieves a specified goal, has dramatically increased the usefulness of LLMs for real-world coding problems.</p>
-        <p>I'm increasingly hearing from experienced, credible software engineers who are running multiple copies of agents at once, tackling several problems in parallel and expanding the scope of what they can take on. I was skeptical of this at first but <a href="https://simonwillison.net/2025/Oct/5/parallel-coding-agents/">I've started running multiple agents myself now</a> and it's surprisingly effective, if mentally exhausting!</p>
-        <p>This feels very different from classic vibe coding, where I outsource a simple, low-stakes task to an LLM and accept the result if it appears to work. Most of my <a href="https://tools.simonwillison.net/">tools.simonwillison.net</a> collection (<a href="https://simonwillison.net/2025/Sep/4/highlighted-tools/">previously</a>) were built like that. Iterating with coding agents to produce production-quality code that I'm confident I can maintain in the future feels like a different process entirely.</p>
-        <p>It's also become clear to me that LLMs actively reward existing top tier software engineering practices:</p>
-        <ul id="techniques">
-        <li>
-        <strong>Automated testing</strong>. If your project has a robust, comprehensive and stable test suite agentic coding tools can <em>fly</em> with it. Without tests? Your agent might claim something works without having actually tested it at all, plus any new change could break an unrelated feature without you realizing it. Test-first development is particularly effective with agents that can iterate in a loop.</li>
-        <li>
-        <strong>Planning in advance</strong>. Sitting down to hack something together goes much better if you start with a high level plan. Working with an agent makes this even more important - you can iterate on the plan first, then hand it off to the agent to write the code.</li>
-        <li>
-        <strong>Comprehensive documentation</strong>. Just like human programmers, an LLM can only keep a subset of the codebase in its context at once. Being able to feed in relevant documentation lets it use APIs from other areas without reading the code first. Write good documentation first and the model may be able to build the matching implementation from that input alone.</li>
-        <li>
-        <strong>Good version control habits</strong>. Being able to undo mistakes and understand when and how something was changed is even more important when a coding agent might have made the changes. LLMs are also fiercely competent at Git - they can navigate the history themselves to track down the origin of bugs, and they're better than most developers at using <a href="https://til.simonwillison.net/git/git-bisect">git bisect</a>. Use that to your advantage.</li>
-        <li>Having <strong>effective automation</strong> in place. Continuous integration, automated formatting and linting, continuous deployment to a preview environment - all things that agentic coding tools can benefit from too. LLMs make writing quick automation scripts easier as well, which can help them then repeat tasks accurately and consistently next time.</li>
-        <li>A <strong>culture of code review</strong>. This one explains itself. If you're fast and productive at code review you're going to have a much better time working with LLMs than if you'd rather write code yourself than review the same thing written by someone (or something) else.</li>
-        <li>A <strong>very weird form of management</strong>. Getting good results out of a coding agent feels uncomfortably close to getting good results out of a human collaborator. You need to provide clear instructions, ensure they have the necessary context and provide actionable feedback on what they produce. It's a <em>lot</em> easier than working with actual people because you don't have to worry about offending or discouraging them - but any existing management experience you have will prove surprisingly useful.</li>
-        <li>Really good <strong>manual QA (quality assurance)</strong>. Beyond automated tests, you need to be really good at manually testing software, including predicting and digging into edge-cases.</li>
-        <li>Strong <strong>research skills</strong>. There are dozens of ways to solve any given coding problem. Figuring out the best options and proving an approach has always been important, and remains a blocker on unleashing an agent to write the actual code.</li>
-        <li>The ability to <strong>ship to a preview environment</strong>. If an agent builds a feature, having a way to safely preview that feature (without deploying it straight to production) makes reviews much more productive and greatly reduces the risk of shipping something broken.</li>
-        <li>An instinct for <strong>what can be outsourced</strong> to AI and what you need to manually handle yourself. This is constantly evolving as the models and tools become more effective. A big part of working effectively with LLMs is maintaining a strong intuition for when they can best be applied.</li>
-        <li>An updated <strong>sense of estimation</strong>. Estimating how long a project will take has always been one of the hardest but most important parts of being a senior engineer, especially in organizations where budget and strategy decisions are made based on those estimates. AI-assisted coding makes this <em>even harder</em> - things that used to take a long time are much faster, but estimations now depend on new factors which we're all still trying to figure out.</li>
-        </ul>
-        <p>If you're going to really exploit the capabilities of these new tools, you need to be operating <em>at the top of your game</em>. You're not just responsible for writing the code - you're researching approaches, deciding on high-level architecture, writing specifications, defining success criteria, <a href="https://simonwillison.net/2025/Sep/30/designing-agentic-loops/">designing agentic loops</a>, planning QA, managing a growing army of weird digital interns who will absolutely cheat if you give them a chance, and spending <em>so much time on code review</em>.</p>
-        <p>Almost all of these are characteristics of senior software engineers already!</p>
-        <p>AI tools <strong>amplify existing expertise</strong>. The more skills and experience you have as a software engineer the faster and better the results you can get from working with LLMs and coding agents.</p>
-        <h4 id="-vibe-engineering-really-">"Vibe engineering", really?</h4>
-        <p>Is this a stupid name? Yeah, probably. "Vibes" as a concept in AI feels a little tired at this point. "Vibe coding" itself is used by a lot of developers in a dismissive way. I'm ready to reclaim vibes for something more constructive.</p>
-        <p>I've never really liked the artificial distinction between "coders" and "engineers" - that's always smelled to me a bit like gatekeeping. But in this case a bit of gatekeeping is exactly what we need!</p>
-        <p><strong>Vibe engineering</strong> establishes a clear distinction from vibe coding. It signals that this is a different, harder and more sophisticated way of working with AI tools to build production software.</p>
-        <p>I like that this is cheeky and likely to be controversial. This whole space is still absurd in all sorts of different ways. We shouldn't take ourselves too seriously while we figure out the most productive ways to apply these new tools.</p>
-        <p>I've tried in the past to get terms like <strong><a href="https://simonwillison.net/tags/ai-assisted-programming/">AI-assisted programming</a></strong> to stick, with approximately zero success. May as well try rubbing some vibes on it and see what happens.</p>
-        <p>I also really like the clear mismatch between "vibes" and "engineering". It makes the combined term self-contradictory in a way that I find mischievous and (hopefully) sticky.</p>
-            
-                <p>Tags: <a href="https://simonwillison.net/tags/code-review">code-review</a>, <a href="https://simonwillison.net/tags/definitions">definitions</a>, <a href="https://simonwillison.net/tags/software-engineering">software-engineering</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/parallel-agents">parallel-agents</a></p>]]>
-      </description>
-      <source:markdown>I feel like **vibe coding** is [pretty well established now](https://simonwillison.net/2025/Mar/19/vibe-coding/) as covering the fast, loose and irresponsible way of building software with AI - entirely prompt-driven, and with no attention paid to how the code actually works. This leaves us with a terminology gap: what should we call the other end of the spectrum, where seasoned professionals accelerate their work with LLMs while staying proudly and confidently accountable for the software they produce?
-
-I propose we call this **vibe engineering**, with my tongue only partially in my cheek.
-
-One of the lesser spoken truths of working productively with LLMs as a software engineer on non-toy-projects is that it&#39;s _difficult_. There&#39;s a lot of depth to understanding how to use the tools, there are plenty of traps to avoid, and the pace at which they can churn out working code raises the bar for what the human participant can and should be contributing.
-
-The rise of **coding agents** \- tools like [Claude Code](https://www.claude.com/product/claude-code) (released February 2025), OpenAI&#39;s [Codex CLI](https://github.com/openai/codex) (April) and [Gemini CLI](https://github.com/google-gemini/gemini-cli) (June) that can iterate on code, actively testing and modifying it until it achieves a specified goal, has dramatically increased the usefulness of LLMs for real-world coding problems.
-
-I&#39;m increasingly hearing from experienced, credible software engineers who are running multiple copies of agents at once, tackling several problems in parallel and expanding the scope of what they can take on. I was skeptical of this at first but [I&#39;ve started running multiple agents myself now](https://simonwillison.net/2025/Oct/5/parallel-coding-agents/) and it&#39;s surprisingly effective, if mentally exhausting!
-
-This feels very different from classic vibe coding, where I outsource a simple, low-stakes task to an LLM and accept the result if it appears to work. Most of my [tools.simonwillison.net](https://tools.simonwillison.net/) collection ( [previously](https://simonwillison.net/2025/Sep/4/highlighted-tools/)) were built like that. Iterating with coding agents to produce production-quality code that I&#39;m confident I can maintain in the future feels like a different process entirely.
-
-It&#39;s also become clear to me that LLMs actively reward existing top tier software engineering practices:
-
-- **Automated testing**. If your project has a robust, comprehensive and stable test suite agentic coding tools can _fly_ with it. Without tests? Your agent might claim something works without having actually tested it at all, plus any new change could break an unrelated feature without you realizing it. Test-first development is particularly effective with agents that can iterate in a loop.
-- **Planning in advance**. Sitting down to hack something together goes much better if you start with a high level plan. Working with an agent makes this even more important - you can iterate on the plan first, then hand it off to the agent to write the code.
-- **Comprehensive documentation**. Just like human programmers, an LLM can only keep a subset of the codebase in its context at once. Being able to feed in relevant documentation lets it use APIs from other areas without reading the code first. Write good documentation first and the model may be able to build the matching implementation from that input alone.
-- **Good version control habits**. Being able to undo mistakes and understand when and how something was changed is even more important when a coding agent might have made the changes. LLMs are also fiercely competent at Git - they can navigate the history themselves to track down the origin of bugs, and they&#39;re better than most developers at using [git bisect](https://til.simonwillison.net/git/git-bisect). Use that to your advantage.
-- Having **effective automation** in place. Continuous integration, automated formatting and linting, continuous deployment to a preview environment - all things that agentic coding tools can benefit from too. LLMs make writing quick automation scripts easier as well, which can help them then repeat tasks accurately and consistently next time.
-- A **culture of code review**. This one explains itself. If you&#39;re fast and productive at code review you&#39;re going to have a much better time working with LLMs than if you&#39;d rather write code yourself than review the same thing written by someone (or something) else.
-- A **very weird form of management**. Getting good results out of a coding agent feels uncomfortably close to getting good results out of a human collaborator. You need to provide clear instructions, ensure they have the necessary context and provide actionable feedback on what they produce. It&#39;s a _lot_ easier than working with actual people because you don&#39;t have to worry about offending or discouraging them - but any existing management experience you have will prove surprisingly useful.
-- Really good **manual QA (quality assurance)**. Beyond automated tests, you need to be really good at manually testing software, including predicting and digging into edge-cases.
-- Strong **research skills**. There are dozens of ways to solve any given coding problem. Figuring out the best options and proving an approach has always been important, and remains a blocker on unleashing an agent to write the actual code.
-- The ability to **ship to a preview environment**. If an agent builds a feature, having a way to safely preview that feature (without deploying it straight to production) makes reviews much more productive and greatly reduces the risk of shipping something broken.
-- An instinct for **what can be outsourced** to AI and what you need to manually handle yourself. This is constantly evolving as the models and tools become more effective. A big part of working effectively with LLMs is maintaining a strong intuition for when they can best be applied.
-- An updated **sense of estimation**. Estimating how long a project will take has always been one of the hardest but most important parts of being a senior engineer, especially in organizations where budget and strategy decisions are made based on those estimates. AI-assisted coding makes this _even harder_ \- things that used to take a long time are much faster, but estimations now depend on new factors which we&#39;re all still trying to figure out.
-
-If you&#39;re going to really exploit the capabilities of these new tools, you need to be operating _at the top of your game_. You&#39;re not just responsible for writing the code - you&#39;re researching approaches, deciding on high-level architecture, writing specifications, defining success criteria, [designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/), planning QA, managing a growing army of weird digital interns who will absolutely cheat if you give them a chance, and spending _so much time on code review_.
-
-Almost all of these are characteristics of senior software engineers already!
-
-AI tools **amplify existing expertise**. The more skills and experience you have as a software engineer the faster and better the results you can get from working with LLMs and coding agents.
-
-#### &#34;Vibe engineering&#34;, really?
-
-Is this a stupid name? Yeah, probably. &#34;Vibes&#34; as a concept in AI feels a little tired at this point. &#34;Vibe coding&#34; itself is used by a lot of developers in a dismissive way. I&#39;m ready to reclaim vibes for something more constructive.
-
-I&#39;ve never really liked the artificial distinction between &#34;coders&#34; and &#34;engineers&#34; - that&#39;s always smelled to me a bit like gatekeeping. But in this case a bit of gatekeeping is exactly what we need!
-
-**Vibe engineering** establishes a clear distinction from vibe coding. It signals that this is a different, harder and more sophisticated way of working with AI tools to build production software.
-
-I like that this is cheeky and likely to be controversial. This whole space is still absurd in all sorts of different ways. We shouldn&#39;t take ourselves too seriously while we figure out the most productive ways to apply these new tools.
-
-I&#39;ve tried in the past to get terms like **[AI-assisted programming](https://simonwillison.net/tags/ai-assisted-programming/)** to stick, with approximately zero success. May as well try rubbing some vibes on it and see what happens.
-
-I also really like the clear mismatch between &#34;vibes&#34; and &#34;engineering&#34;. It makes the combined term self-contradictory in a way that I find mischievous and (hopefully) sticky.
-
-Tags: [code-review](https://simonwillison.net/tags/code-review), [definitions](https://simonwillison.net/tags/definitions), [software-engineering](https://simonwillison.net/tags/software-engineering), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [vibe-coding](https://simonwillison.net/tags/vibe-coding), [coding-agents](https://simonwillison.net/tags/coding-agents), [parallel-agents](https://simonwillison.net/tags/parallel-agents)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/7/vibe-engineering/#atom-everything</guid>
-    </item>    <item>
-      <title>Here are the 2025 National Book Awards finalists.</title>
-      <link>https://lithub.com/here-are-the-2025-national-book-awards-finalists/</link>
-      <description>
-        <![CDATA[Today, the National Book Foundation announced the finalists in all five categories—Fiction, Nonfiction, Poetry, Translated Literature, and Young People’s Literature—for the 2025 National Book Awards. The winners will be announced at the 76th National Book Awards Ceremony &#38; Benefit Dinner]]>
-      </description>
-      <source:markdown>Today, the National Book Foundation announced the finalists in all five categories—Fiction, Nonfiction, Poetry, Translated Literature, and Young People’s Literature—for the 2025 National Book Awards. The winners will be announced at the 76th National Book Awards Ceremony &#38; Benefit Dinner</source:markdown>
-      <guid>cid://https://lithub.com/?p=260734</guid>
-    </item>    <item>
-      <title>Upcoming exhibition from the MFA in Boston: &#38;#8220;&#38;#8216;Faces in the Crowd: Street...</title>
-      <link>https://kottke.org/25/10/0047666-upcoming-exhibition-from-</link>
-      <guid>cid://tag:kottke.org,2025://13.47666</guid>
-    </item>    <item>
-      <title>Q3 2025</title>
-      <link>https://cate.blog/2025/10/07/q3-2025/</link>
-      <description>
-        <![CDATA[I like the idea of doing a quarterly review of my annual theme, as a way to reset, re-evaluate, figure out what I want to change and celebrate what I did actually accomplish. I set my intention for the year as “health”, and in Q3 I tried to keep up momentum from Q2 whilst also [&#8230;]]]>
-      </description>
-      <source:markdown>I like the idea of doing a quarterly review of my annual theme, as a way to reset, re-evaluate, figure out what I want to change and celebrate what I did actually accomplish. I set my intention for the year as “health”, and in Q3 I tried to keep up momentum from Q2 whilst also \[…\]</source:markdown>
-      <guid>cid://https://cate.blog/?p=61771</guid>
-    </item>    <item>
-      <title>Thomas Pynchon Has Been Warning Us About American Fascism the Whole Time</title>
-      <link>https://lithub.com/thomas-pynchon-has-been-warning-us-about-american-fascism-the-whole-time/</link>
-      <description>
-        <![CDATA[Paul Thomas Anderson’s adaptations of Thomas Pynchon’s novels—first Inherent Vice in 2014, and now One Battle After Another in 2025—may be tipping the scales, with more first-time Pynchon readers finding his work through movies rather than university English departments. Throughout]]>
-      </description>
-      <source:markdown>Paul Thomas Anderson’s adaptations of Thomas Pynchon’s novels—first Inherent Vice in 2014, and now One Battle After Another in 2025—may be tipping the scales, with more first-time Pynchon readers finding his work through movies rather than university English departments. Throughout</source:markdown>
-      <guid>cid://https://lithub.com/?p=260757</guid>
-    </item>    <item>
-      <title>Why America Doesn’t Care About Trump’s Graft</title>
-      <link>https://tinabrown.substack.com/p/why-america-doesnt-care-about-trumps</link>
-      <description>
-        <![CDATA[Just when you thought the Hollywood community had proved that standing together to pressure Disney to restore the canceled Jimmy Kimmel to his late-night platform was a victory for free speech, American comedians Kevin Hart, Aziz Ansari, and Pete Davidson, et al.]]>
-      </description>
-      <source:markdown>Just when you thought the Hollywood community had proved that standing together to pressure Disney to restore the canceled Jimmy Kimmel to his late-night platform was a victory for free speech, American comedians Kevin Hart, Aziz Ansari, and Pete Davidson, et al.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!2Wyk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa986e416-0990-4686-8acf-755f8cece0d5_1024x666.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://tinabrown.substack.com/p/why-america-doesnt-care-about-trumps</guid>
-    </item>    <item>
-      <title>Sora 2 Watermark Removers Flood the Web</title>
-      <link>https://www.404media.co/sora-2-watermark-removers-flood-the-web/</link>
-      <description>
-        <![CDATA[Bypassing Sora 2's rudimentary safety features is easy and experts worry it'll lead to a new era of scams and disinformation.]]>
-      </description>
-      <source:markdown>Bypassing Sora 2&#39;s rudimentary safety features is easy and experts worry it&#39;ll lead to a new era of scams and disinformation.</source:markdown>
-      <guid>cid://68e512328635ce00013e9b2f</guid>
-    </item>    <item>
-      <title>Police Said They Surveilled Woman Who Had an Abortion for Her &#39;Safety.&#39; Court Records Show They Considered Charging Her With a Crime</title>
-      <link>https://www.404media.co/police-said-they-surveilled-woman-who-had-an-abortion-for-her-safety-court-records-show-they-considered-charging-her-with-a-crime/</link>
-      <description>
-        <![CDATA[Court records show that the narrative Flock and a Texas Sheriff's Office has told the public isn't the whole story, and that police were conducting a 'death investigation' into the abortion.]]>
-      </description>
-      <source:markdown>Court records show that the narrative Flock and a Texas Sheriff&#39;s Office has told the public isn&#39;t the whole story, and that police were conducting a &#39;death investigation&#39; into the abortion.</source:markdown>
-      <guid>cid://68e508c38635ce00013cb839</guid>
-    </item>    <item>
-      <title>Qualcomm&#39;s buying Arduino – what it means for makers</title>
-      <link>https://www.jeffgeerling.com/blog/2025/qualcomms-buying-arduino-%E2%80%93-what-it-means-makers</link>
-      <description>
-        <![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Qualcomm's buying Arduino – what it means for makers</span>
-        
-                    <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="https://www.jeffgeerling.com/sites/default/files/images/arduino-uno-q.jpg" width="700" height="371" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-882c9b1d-c545-4621-88d2-567b161572e6" data-insert-attach="{&quot;id&quot;:&quot;882c9b1d-c545-4621-88d2-567b161572e6&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Arduino Uno Q SBC microcontroller board"></p>
-        
-        <p><a href="https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i">Qualcomm just announced they're acquiring Arduino</a>, the company that introduced a whole generation of tinkerers to microcontrollers and embedded electronics.</p>
-        
-        <p>The <a href="https://amzn.to/46FlNpp">Uno R3</a> was the first microcontroller board I owned. Over a decade ago, I blinked my first LED with an Uno; the <a href="https://github.com/geerlingguy/blinky">code for that is actually still up on my GitHub</a>.</p></div>
-              <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
-        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-10-07T08:01:08-05:00" title="Tuesday, October 7, 2025 - 08:01" class="datetime">October 7, 2025</time>
-        </span>]]>
-      </description>
-      <source:markdown>Qualcomm&#39;s buying Arduino – what it means for makers
-
-![Arduino Uno Q SBC microcontroller board](https://www.jeffgeerling.com/sites/default/files/images/arduino-uno-q.jpg)
-
-[Qualcomm just announced they&#39;re acquiring Arduino](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i), the company that introduced a whole generation of tinkerers to microcontrollers and embedded electronics.
-
-The [Uno R3](https://amzn.to/46FlNpp) was the first microcontroller board I owned. Over a decade ago, I blinked my first LED with an Uno; the [code for that is actually still up on my GitHub](https://github.com/geerlingguy/blinky).
-
-Jeff GeerlingOctober 7, 2025</source:markdown>
-      <guid>cid://3502 at https://www.jeffgeerling.com</guid>
-    </item>    <item>
-      <title>HOW TO CELEBRATE A MASSACRE</title>
-      <link>https://jacobsonh.substack.com/p/how-to-celebrate-a-massacre</link>
-      <description>
-        <![CDATA[A man stopped me in Soho the other day and said, &#8216;We&#8217;re with you.&#8217; Since I don&#8217;t look like a Hammas fighter or a student from any London University you care to name, I decided I didn&#8217;t need to ask who &#8216;you&#8217; were.]]>
-      </description>
-      <source:markdown>A man stopped me in Soho the other day and said, ‘We’re with you.’ Since I don’t look like a Hammas fighter or a student from any London University you care to name, I decided I didn’t need to ask who ‘you’ were.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!RVrP!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe329ab45-4bd1-4644-8808-bc07527abf1b_480x480.png" length="0" type="image/jpeg" />
-      <guid>cid://https://jacobsonh.substack.com/p/how-to-celebrate-a-massacre</guid>
-    </item>    <item>
-      <title>Bleen Means Blgo</title>
-      <link>https://onefoottsunami.com/2025/10/07/bleen-means-blgo/</link>
-      <guid>cid://https://onefoottsunami.com/?p=29241</guid>
-    </item>    <item>
-      <title>ScotsEduBlogs Update</title>
-      <link>https://johnjohnston.info/blog/scotsedublogs-update/</link>
-      <description>
-        <![CDATA[<div><img width="620" height="469" src="https://johnjohnston.info/blog/wp-content/uploads/2025/10/seb-1200-620x469.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" srcset="https://johnjohnston.info/blog/wp-content/uploads/2025/10/seb-1200-620x469.png 620w, https://johnjohnston.info/blog/wp-content/uploads/2025/10/seb-1200-1024x774.png 1024w, https://johnjohnston.info/blog/wp-content/uploads/2025/10/seb-1200-768x580.png 768w, https://johnjohnston.info/blog/wp-content/uploads/2025/10/seb-1200-668x505.png 668w, https://johnjohnston.info/blog/wp-content/uploads/2025/10/seb-1200.png 1200w" sizes="(max-width: 620px) 100vw, 620px" data-attachment-id="21272" data-permalink="https://johnjohnston.info/blog/scotsedublogs-update/seb-1200/" data-orig-file="https://johnjohnston.info/blog/wp-content/uploads/2025/10/seb-1200.png" data-orig-size="1200,907" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="seb-1200" data-image-description="" data-image-caption="" data-medium-file="https://johnjohnston.info/blog/wp-content/uploads/2025/10/seb-1200-620x469.png" data-large-file="https://johnjohnston.info/blog/wp-content/uploads/2025/10/seb-1200-1024x774.png" /></div>Having a little more time on my hands I'd like to reinvigorate ScotEduBlogs.org The site aggregates and disseminates Scottish Educational content.]]>
-      </description>
-      <source:markdown>![](https://johnjohnston.info/blog/wp-content/uploads/2025/10/seb-1200-620x469.png)
-
-Having a little more time on my hands I&#39;d like to reinvigorate ScotEduBlogs.org The site aggregates and disseminates Scottish Educational content.</source:markdown>
-      <guid>cid://https://johnjohnston.info/blog/?p=21271</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115332807852124823</link>
-      <description>
-        <![CDATA[<p>When you are an iOS developer, every day is Xmas!<br /><a href="https://mastodon.social/@stroughtonsmith/115332664208549324" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@stroughtonsmi</span><span class="invisible">th/115332664208549324</span></a></p>]]>
-      </description>
-      <source:markdown>When you are an iOS developer, every day is Xmas!
-
-[https://mastodon.social/@stroughtonsmith/115332664208549324](https://mastodon.social/@stroughtonsmith/115332664208549324)</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115332807852124823</guid>
-    </item>    <item>
-      <title>Wiley Hodges’s Open Letter to Tim Cook Regarding ICEBlock</title>
-      <link>https://substack.com/inbox/post/175351960</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42246</guid>
-    </item>    <item>
-      <title>[Sponsor] Drata</title>
-      <link>http://drata.com/daring/?utm_source=Daring_Fireball&#38;utm_medium=display&#38;utm_campaign=18991230_fy26_comm_DG_COMM_&#38;utm_content=demo_request</link>
-      <guid>cid://tag:daringfireball.net,2025:/feeds/sponsors//11.42245</guid>
-    </item>    <item>
-      <title>Radar Trends to Watch: October 2025</title>
-      <link>https://www.oreilly.com/radar/radar-trends-to-watch-october-2025/</link>
-      <description>
-        <![CDATA[This month we have two more protocols to learn. Google has announced the Agent Payments Protocol (AP2), which is intended to help agents to engage in ecommerce—it’s largely concerned with authenticating and authorizing parties making a transaction. And the Agent Client Protocol (ACP) is concerned with communications between code editors and coding agents. When implemented, [&#8230;]]]>
-      </description>
-      <source:markdown>This month we have two more protocols to learn. Google has announced the Agent Payments Protocol (AP2), which is intended to help agents to engage in ecommerce—it’s largely concerned with authenticating and authorizing parties making a transaction. And the Agent Client Protocol (ACP) is concerned with communications between code editors and coding agents. When implemented, \[…\]</source:markdown>
-      <guid>cid://https://www.oreilly.com/radar/?p=17499</guid>
-    </item>    <item>
-      <title>How Decentralized Social Platforms Grew from Identica to Modern-Day Mastodon</title>
-      <link>https://openchannels.fm/how-decentralized-social-platforms-grew-from-identica-to-modern-day-mastodon/</link>
-      <description>
-        <![CDATA[Matthias Pfefferle discusses the Fediverse's origins and evolution with Evan Prodromou, highlighting decentralized social networks, protocols, privacy, and the future of federated systems.]]>
-      </description>
-      <source:markdown>Matthias Pfefferle discusses the Fediverse&#39;s origins and evolution with Evan Prodromou, highlighting decentralized social networks, protocols, privacy, and the future of federated systems.</source:markdown>
-      <guid>cid://https://openchannels.fm/?p=110897</guid>
-    </item>    <item>
-      <title>AI-Enabled Influence Operation Against Iran</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/ai-enabled-influence-operation-against-iran.html</link>
-      <description>
-        <![CDATA[<p>Citizen Lab has <a href="https://citizenlab.ca/2025/10/ai-enabled-io-aimed-at-overthrowing-iranian-regime/">uncovered</a> a coordinated AI-enabled influence operation against the Iranian government, probably conducted by Israel.</p>
-        <blockquote><p><strong>Key Findings</strong></p>
-        <ul>
-        <li>A coordinated network of more than 50 inauthentic X profiles is conducting an AI-enabled influence operation. The network, which we refer to as &#8220;PRISONBREAK,&#8221; is spreading narratives inciting Iranian audiences to revolt against the Islamic Republic of Iran.
-        <li>While the network was created in 2023, almost all of its activity was conducted starting in January 2025, and continues to the present day.
-        <li>The profiles&#8217; activity appears to have been synchronized, at least in part, with the military campaign that the Israel Defense Forces conducted against Iranian targets in June 2025.
-        ...</li></li></li></ul></blockquote>]]>
-      </description>
-      <source:markdown>Citizen Lab has [uncovered](https://citizenlab.ca/2025/10/ai-enabled-io-aimed-at-overthrowing-iranian-regime/) a coordinated AI-enabled influence operation against the Iranian government, probably conducted by Israel.
-
-&#62; **Key Findings**
-&#62;
-&#62; - A coordinated network of more than 50 inauthentic X profiles is conducting an AI-enabled influence operation. The network, which we refer to as “PRISONBREAK,” is spreading narratives inciting Iranian audiences to revolt against the Islamic Republic of Iran.
-&#62;
-&#62; - While the network was created in 2023, almost all of its activity was conducted starting in January 2025, and continues to the present day.
-&#62;
-&#62; - The profiles’ activity appears to have been synchronized, at least in part, with the military campaign that the Israel Defense Forces conducted against Iranian targets in June 2025.
-&#62;   ...</source:markdown>
-      <guid>cid://https://www.schneier.com/?p=70926</guid>
-    </item>    <item>
-      <title>Trump Explodes with Rage after Gavin Newsom Wins Nobel Peace Prize</title>
-      <link>https://www.borowitzreport.com/p/trump-explodes-with-rage-after-gavin</link>
-      <description>
-        <![CDATA[The committee recognized Trump with a "certificate of participation."]]>
-      </description>
-      <source:markdown>The committee recognized Trump with a &#34;certificate of participation.&#34;</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!kvxr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F751e4452-2434-4d9b-9054-0e844b4bb1fc_1024x683.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/trump-explodes-with-rage-after-gavin</guid>
-    </item>    <item>
-      <link>https://www.theguardian.com/us-news/2025/oct/06/oregon-republicans-protest-photo-south-america</link>
-      <description>
-        <![CDATA[<p>Republicans post fake image of Oregon protest – using photos of South America.</p>]]>
-      </description>
-      <source:markdown>Republicans post fake image of Oregon protest – using photos of South America.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/07/1405/</guid>
-    </item>    <item>
-      <title>Why Aren’t We Partying Like It’s 1999?</title>
-      <link>https://paulkrugman.substack.com/p/why-arent-we-partying-like-its-1999</link>
-      <description>
-        <![CDATA[Fear, not hope, permeates today&#8217;s technology hype]]>
-      </description>
-      <source:markdown>Fear, not hope, permeates today’s technology hype</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!pilo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87568aad-1543-4c2f-9e4a-7c760bc6247e_1254x982.png" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/why-arent-we-partying-like-its-1999</guid>
-    </item>    <item>
-      <title>Lit Hub Daily: October 7, 2025</title>
-      <link>https://lithub.com/lit-hub-daily-october-7-2025/</link>
-      <description>
-        <![CDATA[“The Khalidi Library represents everything the settlers cannot abide. It is a monument to, and repository of, the history and heritage of a culture they claim should not exist.” Ryan Byrnes chronicles the fight to save a medieval Palestinian library.]]>
-      </description>
-      <source:markdown>“The Khalidi Library represents everything the settlers cannot abide. It is a monument to, and repository of, the history and heritage of a culture they claim should not exist.” Ryan Byrnes chronicles the fight to save a medieval Palestinian library.</source:markdown>
-      <guid>cid://https://lithub.com/?p=260743</guid>
-    </item>    <item>
-      <title>On Translating Proust and the Art of Not Reading Ahead</title>
-      <link>https://lithub.com/on-translating-proust-and-the-art-of-not-reading-ahead/</link>
-      <description>
-        <![CDATA[Le devoir et la tâche d&#8217;un écrivain sont ceux d&#8217;un traducteur. –Marcel Proust, Le Temps retrouvé * The duty and the task of a writer are those of a translator. –The Past Recaptured, translated by Frederick A. Blossom * The]]>
-      </description>
-      <source:markdown>Le devoir et la tâche d’un écrivain sont ceux d’un traducteur. –Marcel Proust, Le Temps retrouvé \* The duty and the task of a writer are those of a translator. –The Past Recaptured, translated by Frederick A. Blossom \* The</source:markdown>
-      <guid>cid://https://lithub.com/?p=260643</guid>
-    </item>    <item>
-      <title>Inventing Gertrude Stein, Literary Cubist</title>
-      <link>https://lithub.com/inventing-gertrude-stein-literary-cubist/</link>
-      <description>
-        <![CDATA[Near the beginning of The Making of Americans, Gertrude Stein breaks off abruptly to address her reader—“but truly,” she adds, “I never feel it that there ever can be for me any such a creature, no it is this scribbled]]>
-      </description>
-      <source:markdown>Near the beginning of The Making of Americans, Gertrude Stein breaks off abruptly to address her reader—“but truly,” she adds, “I never feel it that there ever can be for me any such a creature, no it is this scribbled</source:markdown>
-      <guid>cid://https://lithub.com/?p=260341</guid>
-    </item>    <item>
-      <title>How the Collapse of Local Journalism Led to the Erosion of Community Trust</title>
-      <link>https://lithub.com/how-the-collapse-of-local-journalism-led-to-the-erosion-of-community-trust/</link>
-      <description>
-        <![CDATA[My family had once been proud of me. In March 2011, my sister Terry went to the trouble of stuffing Post‑it notes into every issue of O, the Oprah Magazine in the checkout line of her grocery store, noting, “My]]>
-      </description>
-      <source:markdown>My family had once been proud of me. In March 2011, my sister Terry went to the trouble of stuffing Post‑it notes into every issue of O, the Oprah Magazine in the checkout line of her grocery store, noting, “My</source:markdown>
-      <guid>cid://https://lithub.com/?p=260337</guid>
-    </item>    <item>
-      <title>The Race to Save a Medieval Palestinian Library</title>
-      <link>https://lithub.com/the-race-to-save-a-medieval-palestinian-library/</link>
-      <description>
-        <![CDATA[While the golden Dome of the Rock sweltered under one-hundred-degree heat a gang of heavily armed orthodox Israelis marched on a Palestinian library. Brandishing forged documents falsely claiming their ownership of the building, they enlisted the help of Israeli police]]>
-      </description>
-      <source:markdown>While the golden Dome of the Rock sweltered under one-hundred-degree heat a gang of heavily armed orthodox Israelis marched on a Palestinian library. Brandishing forged documents falsely claiming their ownership of the building, they enlisted the help of Israeli police</source:markdown>
-      <guid>cid://https://lithub.com/?p=259950</guid>
-    </item>    <item>
-      <title>Imagining a Liberated Future for Palestine</title>
-      <link>https://lithub.com/imagining-a-liberated-future-for-palestine/</link>
-      <description>
-        <![CDATA[A proper imagining of liberation cannot rest content with describing the end game: the day of liberation itself and the hard work the day after. This is only the starting point. No less important is the effort to imagine the]]>
-      </description>
-      <source:markdown>A proper imagining of liberation cannot rest content with describing the end game: the day of liberation itself and the hard work the day after. This is only the starting point. No less important is the effort to imagine the</source:markdown>
-      <guid>cid://https://lithub.com/?p=260487</guid>
-    </item>    <item>
-      <title>Why We Write the Extra Details</title>
-      <link>https://lithub.com/why-we-write-the-extra-details/</link>
-      <description>
-        <![CDATA[Some years ago, I saw Yiyun Li interviewed at an event at the Toronto Reference Library. Li, a writer whose stories are compressed and deceptively simple, spoke with humor and a certain hardness, perhaps born of the clarity of unimaginable]]>
-      </description>
-      <source:markdown>Some years ago, I saw Yiyun Li interviewed at an event at the Toronto Reference Library. Li, a writer whose stories are compressed and deceptively simple, spoke with humor and a certain hardness, perhaps born of the clarity of unimaginable</source:markdown>
-      <guid>cid://https://lithub.com/?p=260363</guid>
-    </item>    <item>
-      <link>https://wapo.st/42pfFz1</link>
-      <description>
-        <![CDATA[<p>Trump’s use of Guard may have lasting impact on cities and troops.</p>]]>
-      </description>
-      <source:markdown>Trump’s use of Guard may have lasting impact on cities and troops.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/07/1403/</guid>
-    </item>    <item>
-      <link>https://www.shellen.com/2025/10/07/layover-over/</link>
-      <description>
-        <![CDATA[<p>Fascinating post by Jason Shellen. I didn’t know that Google Reader was behind Atom. They should’ve worked with us. Guess they thought independent developers weren’t worth it. I’ve seen this pattern repeat in tech many times. Only way we win is by working together..</p>]]>
-      </description>
-      <source:markdown>Fascinating post by Jason Shellen. I didn’t know that Google Reader was behind Atom. They should’ve worked with us. Guess they thought independent developers weren’t worth it. I’ve seen this pattern repeat in tech many times. Only way we win is by working together..</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/07/1401/</guid>
-    </item>    <item>
-      <title>The Four Spent the Day Together</title>
-      <link>https://lithub.com/the-four-spent-the-day-together/</link>
-      <description>
-        <![CDATA[The Fairfield Day Academy campus was just a big, ranch-style house discreetly set in a quiet residential neighborhood. The treatment was new and Blue Cross didn’t cover it. Except for the office secretary, Dr. Bob was the only full-time person]]>
-      </description>
-      <source:markdown>The Fairfield Day Academy campus was just a big, ranch-style house discreetly set in a quiet residential neighborhood. The treatment was new and Blue Cross didn’t cover it. Except for the office secretary, Dr. Bob was the only full-time person</source:markdown>
-      <guid>cid://https://lithub.com/?p=260034</guid>
-    </item>    <item>
-      <title>What Trump doesn’t want us to know about ourselves</title>
-      <link>https://robertreich.substack.com/p/turning-out-the-lights-on-the-economy</link>
-      <description>
-        <![CDATA[How Trump is systematically concealing America from Americans]]>
-      </description>
-      <source:markdown>How Trump is systematically concealing America from Americans</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!_FYc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ec96dab-a26b-4149-98ff-f59b59228543_3500x2642.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/turning-out-the-lights-on-the-economy</guid>
-    </item>    <item>
-      <title>Thomas Pynchon, Marisa Meltzer, Chris Kraus, and more: 24 new books out today!</title>
-      <link>https://lithub.com/thomas-pynchon-marisa-meltzer-chris-kraus-and-more-24-new-books-out-today/</link>
-      <description>
-        <![CDATA[The clock struck October, and with it, we welcomed in a slew of meaty, fascinating, and binge-worthy books. At long last, Thomas Pynchon&#8217;s Shadow Ticket, a much-anticipated work by the 88-year-old author is released. In other fiction news, there&#8217;s a]]>
-      </description>
-      <source:markdown>The clock struck October, and with it, we welcomed in a slew of meaty, fascinating, and binge-worthy books. At long last, Thomas Pynchon’s Shadow Ticket, a much-anticipated work by the 88-year-old author is released. In other fiction news, there’s a</source:markdown>
-      <guid>cid://https://lithub.com/?p=260406</guid>
-    </item>    <item>
-      <title>Eliminating contrails from flying could be incredibly cheap</title>
-      <link>https://www.sustainabilitybynumbers.com/p/eliminating-contrails</link>
-      <description>
-        <![CDATA[Could we halve aviation's climate impact at a fraction of the cost of sustainable aviation fuels?]]>
-      </description>
-      <source:markdown>Could we halve aviation&#39;s climate impact at a fraction of the cost of sustainable aviation fuels?</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/92f98f9c-4402-463e-894f-474da23ef22e_728x385.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sustainabilitybynumbers.com/p/eliminating-contrails</guid>
-    </item>    <item>
-      <title>October 6, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/october-6-2025</link>
-      <description>
-        <![CDATA[If White House deputy chief of staff Stephen Miller is at the head of the administration&#8217;s deployment of federal agents against undocumented immigrants, it appears that Office of Management and Budget (OMB) director Russell Vought is running the administration&#8217;s approach to the government shutdown.]]>
-      </description>
-      <source:markdown>If White House deputy chief of staff Stephen Miller is at the head of the administration’s deployment of federal agents against undocumented immigrants, it appears that Office of Management and Budget (OMB) director Russell Vought is running the administration’s approach to the government shutdown.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/october-6-2025</guid>
-    </item>    <item>
-      <title>Can people’s minds be changed?</title>
-      <link>https://tracydurnell.com/2025/10/06/can-peoples-minds-be-changed/</link>
-      <description>
-        <![CDATA[Musing here&#8230; still thinking this all through! As we&#8217;re thinking about how best to resist fascism, I think we&#8217;re facing a fundamental question: are people entrenched in their viewpoints, or is it possible to change people&#8217;s minds? I&#8217;ve seen studies that propaganda doesn&#8217;t really work, nor do facts change people&#8217;s minds. Exposure to the other tribe [&#8230;]]]>
-      </description>
-      <source:markdown>Musing here… still thinking this all through! As we’re thinking about how best to resist fascism, I think we’re facing a fundamental question: are people entrenched in their viewpoints, or is it possible to change people’s minds? I’ve seen studies that propaganda doesn’t really work, nor do facts change people’s minds. Exposure to the other tribe \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=30464</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2l7f4dkts2b</link>
-      <description>
-        <![CDATA[Then there's this https://www.osnews.com/story/143491/the-case-against-generative-ai-the-numbers-just-dont-add-up-i-e-its-a-scam/]]>
-      </description>
-      <source:markdown>Then there&#39;s this https://www.osnews.com/story/143491/the-case-against-generative-ai-the-numbers-just-dont-add-up-i-e-its-a-scam/</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m2l7f4dkts2b</guid>
-    </item>    <item>
-      <link>https://talkingpointsmemo.com/news/the-trump-admins-mostly-unnoticed-move-to-crack-down-on-the-opposition</link>
-      <description>
-        <![CDATA[<p>The Trump Admin’s Mostly Unnoticed Move to Crack Down on the Opposition.</p>]]>
-      </description>
-      <source:markdown>The Trump Admin’s Mostly Unnoticed Move to Crack Down on the Opposition.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/06/1399/</guid>
-    </item>    <item>
-      <title>The Unexpected New Threat to Video Creators</title>
-      <link>https://anildash.com/2025/10/07/the-threat-to-video-creators/</link>
-      <guid>cid://https://anildash.com/2025/10/07/the-threat-to-video-creators/</guid>
-    </item>    <item>
-      <title>The “Don’t Ask, Don’t Tell” Era of DEI</title>
-      <link>https://anildash.com/2025/10/07/dadt-dei/</link>
-      <guid>cid://https://anildash.com/2025/10/07/dadt-dei/</guid>
-    </item>    <item>
-      <title>An initial investigation into WDDM on ReactOS</title>
-      <link>https://reactos.org/blogs/investigating-wddm/</link>
-      <description>
-        <![CDATA[The history of ReactOS spans a wider range than the lives of many of the people who work on it today. Incredible individuals have come and gone from the project with vastly different goals for what they want to see developed. In recent years, better hardware support has emerged as one of those goals. As ReactOS gazes towards the world of Vista and beyond, a few questions about how hardware works emerge.]]>
-      </description>
-      <source:markdown>The history of ReactOS spans a wider range than the lives of many of the people who work on it today. Incredible individuals have come and gone from the project with vastly different goals for what they want to see developed. In recent years, better hardware support has emerged as one of those goals. As ReactOS gazes towards the world of Vista and beyond, a few questions about how hardware works emerge.</source:markdown>
-      <guid>cid://https://reactos.org/blogs/investigating-wddm/</guid>
     </item>
   </channel>
 </rss>
