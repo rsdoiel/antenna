@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>29 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>29 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -38,6 +38,455 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <title>A National Guardsman Stands Up to Trump</title>
+      <link>https://www.borowitzreport.com/p/a-national-guardsman-stands-up-to</link>
+      <description>
+        <![CDATA[Listen now | The Andy Borowitz Show]]>
+      </description>
+      <source:markdown>Listen now \| The Andy Borowitz Show</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/177454182/5e9f70380c850b62714e754fc284c6fe.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/a-national-guardsman-stands-up-to</guid>
+    </item>    <item>
+      <title>In conversation with Zohran Mamdani</title>
+      <link>https://robertreich.substack.com/p/in-conversation-with-zohran-mamdani</link>
+      <description>
+        <![CDATA[Zohran Mamdani is getting a new generation of young people excited about politics]]>
+      </description>
+      <source:markdown>Zohran Mamdani is getting a new generation of young people excited about politics</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/177488803/8511d7312a70fee95cd3cb938ed92965.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://robertreich.substack.com/p/in-conversation-with-zohran-mamdani</guid>
+    </item>    <item>
+      <title>My Video Chat with best-selling author Jonathan Freedland about his new book, The Traitors Circle, which tells the true story of a group of aristocratic Germans who resisted the Nazis</title>
+      <link>https://tinabrown.substack.com/p/my-video-chat-with-best-selling-author</link>
+      <description>
+        <![CDATA[The book also examines the question: what kind of person stands up to tyranny?]]>
+      </description>
+      <source:markdown>The book also examines the question: what kind of person stands up to tyranny?</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/177476931/9ab20fc92f773d5a5b794650b09a7450.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://tinabrown.substack.com/p/my-video-chat-with-best-selling-author</guid>
+    </item>    <item>
+      <title>October 28, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-28-2025-559</link>
+      <enclosure url="https://api.substack.com/feed/podcast/177488026/41dc064f4529d0a86a13148b5940f928.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-28-2025-559</guid>
+    </item>    <item>
+      <title>The U.S. has revoked the visa of Nobel winner Wole Soyinka.</title>
+      <link>https://lithub.com/the-u-s-has-revoked-the-visa-of-nobel-winner-wole-soyinka/</link>
+      <description>
+        <![CDATA[The American government has revoked the visa of Wole Soyinka, the Nigerian author who won the 1986 Nobel Prize in literature, according to Al Jazeera. The writer received what he called a “rather curious love letter” from the American authorities,]]>
+      </description>
+      <source:markdown>The American government has revoked the visa of Wole Soyinka, the Nigerian author who won the 1986 Nobel Prize in literature, according to Al Jazeera. The writer received what he called a “rather curious love letter” from the American authorities,</source:markdown>
+      <guid>cid://https://lithub.com/?p=261964</guid>
+    </item>    <item>
+      <title>Bing Bonk</title>
+      <link>https://doc.searls.com/2025/10/29/bing-bonk/</link>
+      <description>
+        <![CDATA[As a geography and map freak, I loved loved loved Birds Eye views in Microsoft&#8217;s Bing Maps. Birds Eye&#8217;s advantages over Google&#8217;s and Apple&#8217;s satellite views were enormous, because all the imagery was shot from airplanes flying at low altitudes, rather than from a hundred miles up in space. Among other cool things, you could rotate your [&#8230;]]]>
+      </description>
+      <source:markdown>As a geography and map freak, I loved loved loved Birds Eye views in Microsoft’s Bing Maps. Birds Eye’s advantages over Google’s and Apple’s satellite views were enormous, because all the imagery was shot from airplanes flying at low altitudes, rather than from a hundred miles up in space. Among other cool things, you could rotate your \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2025/10/29/bing-bonk/</guid>
+    </item>    <item>
+      <title>Echoes of Connection · Matthias Ott</title>
+      <link>https://matthiasott.com/notes/echoes-of-connection</link>
+      <description>
+        <![CDATA[<p>Matthias responds to <a href="https://adactio.com/journal/22213">my pondering about the point of &#8220;likes&#8221; and &#8220;shares&#8221;</a>:</p>
+        
+        <blockquote>
+          <p>I like to think of Webmentions not as a measure of popularity. To me, they measure connection. Connection to individual people and connection to the community as a whole. Webmentions let you listen into the constant noise out there and, just like a radio telescope, pick up scarcely audible echoes of connection.</p>
+        </blockquote>
+        
+        <p><a href="https://adactio.com/links/22224">adactio.com/links/22224</a></p>]]>
+      </description>
+      <source:markdown>Matthias responds to [my pondering about the point of “likes” and “shares”](https://adactio.com/journal/22213):
+
+&#62; I like to think of Webmentions not as a measure of popularity. To me, they measure connection. Connection to individual people and connection to the community as a whole. Webmentions let you listen into the constant noise out there and, just like a radio telescope, pick up scarcely audible echoes of connection.
+
+[adactio.com/links/22224](https://adactio.com/links/22224)</source:markdown>
+      <guid>cid://https://matthiasott.com/notes/echoes-of-connection</guid>
+    </item>    <item>
+      <title>PCalc 4.11.1 for Mac</title>
+      <link>https://mastodon.social/@jamesthomson/115458178673560956</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42330</guid>
+    </item>    <item>
+      <title>Una casa de dinamita: tres caras de la misma pesadilla nuclear</title>
+      <link>https://www.palomitademaiz.net/resena-una-casa-de-dinamita/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resena-una-casa-de-dinamita</link>
+      <description>
+        <![CDATA[<p>Disponible en: Netflix. Dirección: Kathryn Bigelow. Guion: Noah Oppenheim. Elenco: Idris Elba, Rebecca Ferguson, Tracy Letts, Jared Harris, Gabriel Basso, Anthony Ramos. País: Estados Unidos. Más información de la película: https://www.imdb.com/title/tt32376165/ Una casa de dinamita llegó a Netflix el 24 de octubre, poco más de un mes después de su estreno en el Festival de [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resena-una-casa-de-dinamita/">Una casa de dinamita: tres caras de la misma pesadilla nuclear</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Disponible en: Netflix. Dirección: Kathryn Bigelow. Guion: Noah Oppenheim. Elenco: Idris Elba, Rebecca Ferguson, Tracy Letts, Jared Harris, Gabriel Basso, Anthony Ramos. País: Estados Unidos. Más información de la película: https://www.imdb.com/title/tt32376165/ Una casa de dinamita llegó a Netflix el 24 de octubre, poco más de un mes después de su estreno en el Festival de \[…\]
+
+La entrada [Una casa de dinamita: tres caras de la misma pesadilla nuclear](https://www.palomitademaiz.net/resena-una-casa-de-dinamita/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=25678</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115458219343282483</link>
+      <description>
+        <![CDATA[<p>Announcing Xogot to Xogot Remote Debugging! </p><p>Develop on one device, play on another!</p><p>Edit, code, and debug on iPad while testing your game live on iPhone.</p>]]>
+      </description>
+      <source:markdown>Announcing Xogot to Xogot Remote Debugging!
+
+Develop on one device, play on another!
+
+Edit, code, and debug on iPad while testing your game live on iPhone.</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115458219343282483</guid>
+    </item>    <item>
+      <title>56 years ago today: &#62; Talked to SRI Host to Host — IMP log, 1969-10-29 22:30, Charles S. Kline, Boelter Hall, UCLA The message: &#62; LO The ARPANET was born.</title>
+      <link>https://adactio.com/notes/22223</link>
+      <description>
+        <![CDATA[<p>56 years ago today:</p>
+        
+        <blockquote>
+          <p>Talked to SRI Host to Host</p>
+        </blockquote>
+        
+        <p>— IMP log, 1969-10-29 22:30, Charles S. Kline, Boelter Hall, UCLA</p>
+        
+        <p>The message:</p>
+        
+        <blockquote>
+          <p>LO</p>
+        </blockquote>
+        
+        <p>The ARPANET was born.</p>]]>
+      </description>
+      <source:markdown>56 years ago today:
+
+&#62; Talked to SRI Host to Host
+
+— IMP log, 1969-10-29 22:30, Charles S. Kline, Boelter Hall, UCLA
+
+The message:
+
+&#62; LO
+
+The ARPANET was born.</source:markdown>
+      <guid>cid://https://adactio.com/notes/22223</guid>
+    </item>    <item>
+      <title>Grokked &#38; Pilfered</title>
+      <link>https://feed.tedium.co/link/15204/17199158/grokipedia-content-citations-aggressive</link>
+      <description>
+        <![CDATA[Elon Musk’s new Wikipedia clone has been criticized for nicking Wikipedia. Something else it also does: Aggressively cite the Tedium archive.]]>
+      </description>
+      <source:markdown>Elon Musk’s new Wikipedia clone has been criticized for nicking Wikipedia. Something else it also does: Aggressively cite the Tedium archive.</source:markdown>
+      <guid>cid://https://tedium.co/2025/10/29/grokipedia-content-citations-aggressive/</guid>
+    </item>    <item>
+      <title>Toyota BEVs Gain Support for Apple Maps EV Routing</title>
+      <link>https://www.macrumors.com/2025/10/28/toyota-bz-apple-maps-ev-routing/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42329</guid>
+    </item>    <item>
+      <title>Samsung Shows Off Tri-Fold Smartphone at APEC Forum in Korea</title>
+      <link>https://www.macrumors.com/2025/10/28/samsung-tri-fold-smartphone-debut/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42328</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/29.html#a144414</link>
+      <description>
+        <![CDATA[Apparently last night's email didn't go out, so I re-sent them. Hopefully people didn't receive two emails.]]>
+      </description>
+      <source:markdown>Apparently last night&#39;s email didn&#39;t go out, so I re-sent them. Hopefully people didn&#39;t receive two emails.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/29.html#a144414</guid>
+    </item>    <item>
+      <link>https://www.propublica.org/article/oklahoma-oil-gas-wastewater-pollution?utm_source=mastodon&#38;utm_medium=social&#38;utm_campaign=mastodon-post</link>
+      <description>
+        <![CDATA[<p>Oklahoma Oil Regulators Failed to Stop Spread of Toxic Wastewater.</p>]]>
+      </description>
+      <source:markdown>Oklahoma Oil Regulators Failed to Stop Spread of Toxic Wastewater.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/29/1729/</guid>
+    </item>    <item>
+      <title>Jeremy Keith: Speaker profile at beyond tellerrand</title>
+      <link>https://beyondtellerrand.com/speakers/jeremy-keith</link>
+      <description>
+        <![CDATA[<p><a href="https://beyondtellerrand.com/">Beyond Tellerrand</a> has a new website and it&#8217;s beautiful!</p>
+        
+        <p>And look! Past speakers like me <a href="https://beyondtellerrand.com/speakers/jeremy-keith">get our own page</a>.</p>
+        
+        <p>In fact there&#8217;s <a href="https://beyondtellerrand.com/talks">a great big archive of all the past talks</a>—that very much deserves your support as <a href="https://beyondtellerrand.com/friends-of-bt">a friend of Beyond Tellerrand</a>.</p>
+        
+        <p><a href="https://adactio.com/links/22222">adactio.com/links/22222</a></p>]]>
+      </description>
+      <source:markdown>[Beyond Tellerrand](https://beyondtellerrand.com/) has a new website and it’s beautiful!
+
+And look! Past speakers like me [get our own page](https://beyondtellerrand.com/speakers/jeremy-keith).
+
+In fact there’s [a great big archive of all the past talks](https://beyondtellerrand.com/talks)—that very much deserves your support as [a friend of Beyond Tellerrand](https://beyondtellerrand.com/friends-of-bt).
+
+[adactio.com/links/22222](https://adactio.com/links/22222)</source:markdown>
+      <guid>cid://https://beyondtellerrand.com/speakers/jeremy-keith</guid>
+    </item>    <item>
+      <title>Trump Is Deeply Unpopular</title>
+      <link>https://www.economist.com/interactive/trump-approval-tracker</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42327</guid>
+    </item>    <item>
+      <title>ICE and CBP Agents Are Scanning Peoples’ Faces on the Street To Verify Citizenship</title>
+      <link>https://www.404media.co/ice-and-cbp-agents-are-scanning-peoples-faces-on-the-street-to-verify-citizenship/</link>
+      <description>
+        <![CDATA[Videos on social media show officers from ICE and CBP using facial recognition technology on people in the field. One expert described the practice as “pure dystopian creep.”]]>
+      </description>
+      <source:markdown>Videos on social media show officers from ICE and CBP using facial recognition technology on people in the field. One expert described the practice as “pure dystopian creep.”</source:markdown>
+      <guid>cid://69021529b03958000187fca9</guid>
+    </item>    <item>
+      <title>The Art of Asking Better Questions</title>
+      <link>https://guykawasaki.substack.com/p/the-art-of-asking-better-questions</link>
+      <description>
+        <![CDATA[One skill that can transform your career, relationships, and even your life, is the ability to ask better questions.]]>
+      </description>
+      <source:markdown>One skill that can transform your career, relationships, and even your life, is the ability to ask better questions.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!vbqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c070a50-30f9-4007-a424-ad810b60c426_1080x1080.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://guykawasaki.substack.com/p/the-art-of-asking-better-questions</guid>
+    </item>    <item>
+      <link>https://om.co/2025/10/29/why-tech-needs-personalization/</link>
+      <description>
+        <![CDATA[<p>Om: Why Tech Needs Personalization.</p>]]>
+      </description>
+      <source:markdown>Om: Why Tech Needs Personalization.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/29/1727/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/29.html#a142529</link>
+      <description>
+        <![CDATA[Before it’s too late there should be a rule that AI chatbots should not be allowed in any way to impersonate humans. We will come to see that as our biggest mistake, not stopping this before it got out of control.]]>
+      </description>
+      <source:markdown>Before it’s too late there should be a rule that AI chatbots should not be allowed in any way to impersonate humans. We will come to see that as our biggest mistake, not stopping this before it got out of control.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/29.html#a142529</guid>
+    </item>    <item>
+      <title>2025-10-22 Bots, again. I&#39;m taking it personally.</title>
+      <link>https://alexschroeder.ch/view/2025-10-22-bots-again</link>
+      <description>
+        <![CDATA[<h1 id="2025-10-22-bots-again-i-m-taking-it-personally">2025-10-22 Bots, again. I&rsquo;m taking it personally.</h1>
+        
+        <p>My auto-blocking of bots hasn’t needed much intervention in recent weeks. The
+        current average is 10,000 blocked IP ranges.
+        If you&rsquo;re interested, there&rsquo;s a
+        <a href="https://transjovian.org/view/fight-bots/index">a description of my setup</a>.</p>
+        
+        <p><img loading="lazy" src="2025-10-22-bots-again/01K7RMQ3YVE09T7ZYGSNEMBH1H.png" alt="Lots of graphs but the important one is the yellow line that’s pretty stable around 10k." /></p>
+        
+        <p>Hah, I post the above and now load is 95 and the bots are at it.</p>
+        
+        <p>What I don’t like about Munin is that when it crashes (I assume it’s the OOM
+        reaper making the rounds), then it leaves behind a lock that prevents the
+        graph from updating. Ugh.</p>
+        
+        <p><img loading="lazy" src="2025-10-22-bots-again/01K7YKFAPMFGSC0F8EBRSM66YJ.png" alt="A Munin graph showing maximum average load being 137.51 and now back to 1.24." /></p>
+        
+        <p>If you like large language models (LLMs), know that they need regular
+        training and the people training them are ruining the web for
+        everybody. You are part of this, as a consumer.</p>
+        
+        <p>Most sites don’t have the defences required, or require the execution
+        of expensive JavaScript for the CO₂ god, or require placing all your
+        visitor’s browsing data into the hands of another company, most likely
+        CloudFlare, in the USA. If you object to any of that, you must do your
+        duty and reject the use of LLMs as well. You can’t eat your cake and
+        claim to object to the rest. It would be a most incongruent position
+        to take.</p>
+        
+        <p>And since this kind of shit often happens while
+        <a href="2025-portugal">I’m on holidays</a>, the LLM friends reading this are
+        responsible, in a very small way, for pissing on me during my
+        holidays. And I resent it.</p>
+        
+        <p>I resent it very much.</p>
+        
+        <p><img loading="lazy" src="2025-10-22-bots-again/01K7YXF66MYSEQC615WGSBECN2.png" alt="Load going up to 80, again. And back down, again." /></p>
+        
+        <p>Waking up in a hotel bed, opening the balcony doors, hearing the birds
+        sing, switching on the phone and realising that load is over 100 and
+        nothing works, switching off Emacs Wiki and Community Wiki, the
+        favourite targets of the AI scrapers and thinking of the people who
+        like to use large language models.</p>
+        
+        <p>It’s the same problem as always: drive a car, see the CO₂ in the world
+        go up, “but I need it!” – yeah, but we need an earth that supports
+        human life too, idiots. Humans, where comfort is separated from
+        consequences by time and space like to choose comfort. In this case,
+        the AI comfort leads to the shut down of the open web, the
+        centralisation of what remains, the installation of barriers, and ever
+        and always: more control for fewer people. But of course, the
+        consequences are separated by time and space from the comforts of AI
+        users.</p>
+        
+        <p>Imagine a goddess of destruction with a grim smile and a thousand
+        hands and each one of them is giving you a middle finger.</p>
+        
+        <p>Load average: 142.25</p>
+        
+        <p>I switched off Community Wiki and Emacs Wiki.</p>
+        
+        <p>Coming back after a day of excursions and things seem to be working
+        fine, if I don’t switch on those two sites. These two have been
+        unavailable for a minimum of six hours and yet in the last two hours
+        Emacs Wiki still got 3537 requests.</p>
+        
+        <p>Time to ban every network of every ASN that&rsquo;s still requesting Emacs Wiki pages.</p>
+        
+        <pre><code>2h-access-log \
+        | grep '^www\.emacswiki\.org' \
+        | log-ip \
+        | asncounter --top 50 --no-prefixes 2&gt;/dev/null \
+        | awk '/^[1-9]/ &amp;&amp; $1 &gt;= 10 { print $3 }' \
+        | xargs asn-networks \
+        | xargs fail2ban-client set butlerian-jihad-week banip
+        </code></pre>
+        
+        <p>If you&rsquo;re looking for the building blocks I&rsquo;m using, see my
+        <a href="https://alexschroeder.ch/admin/">collection of admin scripts and shell functions</a>.</p>
+        
+        <p>Hours later, I switched Emacs Wiki on for a minute and load
+        immediately rose from around 1 to nearly 4 and my SSH connection
+        became slow as molasses. It&rsquo;ll remain switched off for tonight and
+        probably tomorrow, too. It depends on the kind of wifi connection I
+        have, tomorrow.</p>
+        
+        <p>Perhaps I should just hand Emacs Wiki off to somebody who&rsquo;s more into
+        it.</p>
+        
+        <p>Switching off Community Wiki and two smaller sites as well, for now.</p>
+        
+        <p><a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23Emacs">#Emacs</a></p>
+        
+        <p><strong>2025-10-22</strong>. On IRC, twb replied to my complaints about the Munin lock being left behind:</p>
+        
+        <blockquote>
+        <p>if you have systemd, just set RuntimeDirectory=%p and systemd will clean it up</p>
+        </blockquote>
+        
+        <p>Also, he&rsquo;s running <a href="https://github.com/trentbuck/collection4/blob/main/debian/service">collection4</a> instead of Munin.</p>
+        
+        <p><strong>2025-10-23</strong>. Switching Emacs Wiki back on, about nine hours ago.</p>
+        
+        <p><img loading="lazy" src="2025-10-22-bots-again-1.jpg" alt="" /></p>
+        
+        <p><strong>2025-10-29</strong>. <a class="account" href="https://infosec.exchange/@briankrebs" title="@briankrebs@infosec.exchange">@briankrebs</a> writes:</p>
+        
+        <blockquote>
+        <p><strong>Aisuru</strong>, the botnet responsible for a series of record-smashing distributed denial-of-service (DDoS) attacks this year, recently was overhauled to support a more low-key, lucrative and sustainable business: Renting hundreds of thousands of infected Internet of Things (IoT) devices to proxy services that help cybercriminals anonymize their traffic. Experts say a glut of proxies from Aisuru and other sources is fueling large-scale data harvesting efforts tied to various artificial intelligence (AI) projects, helping content scrapers evade detection by routing their traffic through residential connections that appear to be regular Internet users. &ndash; <a href="https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/">Aisuru Botnet Shifts from DDoS to Residential Proxies</a></p>
+        </blockquote>]]>
+      </description>
+      <source:markdown># 2025-10-22 Bots, again. I’m taking it personally.
+
+My auto-blocking of bots hasn’t needed much intervention in recent weeks. The
+current average is 10,000 blocked IP ranges.
+If you’re interested, there’s a
+[a description of my setup](https://transjovian.org/view/fight-bots/index).
+
+![Lots of graphs but the important one is the yellow line that’s pretty stable around 10k.](2025-10-22-bots-again/01K7RMQ3YVE09T7ZYGSNEMBH1H.png)
+
+Hah, I post the above and now load is 95 and the bots are at it.
+
+What I don’t like about Munin is that when it crashes (I assume it’s the OOM
+reaper making the rounds), then it leaves behind a lock that prevents the
+graph from updating. Ugh.
+
+![A Munin graph showing maximum average load being 137.51 and now back to 1.24.](2025-10-22-bots-again/01K7YKFAPMFGSC0F8EBRSM66YJ.png)
+
+If you like large language models (LLMs), know that they need regular
+training and the people training them are ruining the web for
+everybody. You are part of this, as a consumer.
+
+Most sites don’t have the defences required, or require the execution
+of expensive JavaScript for the CO₂ god, or require placing all your
+visitor’s browsing data into the hands of another company, most likely
+CloudFlare, in the USA. If you object to any of that, you must do your
+duty and reject the use of LLMs as well. You can’t eat your cake and
+claim to object to the rest. It would be a most incongruent position
+to take.
+
+And since this kind of shit often happens while
+[I’m on holidays](2025-portugal), the LLM friends reading this are
+responsible, in a very small way, for pissing on me during my
+holidays. And I resent it.
+
+I resent it very much.
+
+![Load going up to 80, again. And back down, again.](2025-10-22-bots-again/01K7YXF66MYSEQC615WGSBECN2.png)
+
+Waking up in a hotel bed, opening the balcony doors, hearing the birds
+sing, switching on the phone and realising that load is over 100 and
+nothing works, switching off Emacs Wiki and Community Wiki, the
+favourite targets of the AI scrapers and thinking of the people who
+like to use large language models.
+
+It’s the same problem as always: drive a car, see the CO₂ in the world
+go up, “but I need it!” – yeah, but we need an earth that supports
+human life too, idiots. Humans, where comfort is separated from
+consequences by time and space like to choose comfort. In this case,
+the AI comfort leads to the shut down of the open web, the
+centralisation of what remains, the installation of barriers, and ever
+and always: more control for fewer people. But of course, the
+consequences are separated by time and space from the comforts of AI
+users.
+
+Imagine a goddess of destruction with a grim smile and a thousand
+hands and each one of them is giving you a middle finger.
+
+Load average: 142.25
+
+I switched off Community Wiki and Emacs Wiki.
+
+Coming back after a day of excursions and things seem to be working
+fine, if I don’t switch on those two sites. These two have been
+unavailable for a minimum of six hours and yet in the last two hours
+Emacs Wiki still got 3537 requests.
+
+Time to ban every network of every ASN that’s still requesting Emacs Wiki pages.
+
+```
+2h-access-log \
+| grep &#39;^www\.emacswiki\.org&#39; \
+| log-ip \
+| asncounter --top 50 --no-prefixes 2&#62;/dev/null \
+| awk &#39;/^[1-9]/ &#38;&#38; $1 &#62;= 10 { print $3 }&#39; \
+| xargs asn-networks \
+| xargs fail2ban-client set butlerian-jihad-week banip
+
+```
+
+If you’re looking for the building blocks I’m using, see my
+[collection of admin scripts and shell functions](https://alexschroeder.ch/admin/).
+
+Hours later, I switched Emacs Wiki on for a minute and load
+immediately rose from around 1 to nearly 4 and my SSH connection
+became slow as molasses. It’ll remain switched off for tonight and
+probably tomorrow, too. It depends on the kind of wifi connection I
+have, tomorrow.
+
+Perhaps I should just hand Emacs Wiki off to somebody who’s more into
+it.
+
+Switching off Community Wiki and two smaller sites as well, for now.
+
+[#Butlerian Jihad](/search/?q=%23Butlerian_Jihad) [#Emacs](/search/?q=%23Emacs)
+
+**2025-10-22**. On IRC, twb replied to my complaints about the Munin lock being left behind:
+
+&#62; if you have systemd, just set RuntimeDirectory=%p and systemd will clean it up
+
+Also, he’s running [collection4](https://github.com/trentbuck/collection4/blob/main/debian/service) instead of Munin.
+
+**2025-10-23**. Switching Emacs Wiki back on, about nine hours ago.
+
+![](2025-10-22-bots-again-1.jpg)
+
+**2025-10-29**. [@briankrebs](https://infosec.exchange/@briankrebs &#34;@briankrebs@infosec.exchange&#34;) writes:
+
+&#62; **Aisuru**, the botnet responsible for a series of record-smashing distributed denial-of-service (DDoS) attacks this year, recently was overhauled to support a more low-key, lucrative and sustainable business: Renting hundreds of thousands of infected Internet of Things (IoT) devices to proxy services that help cybercriminals anonymize their traffic. Experts say a glut of proxies from Aisuru and other sources is fueling large-scale data harvesting efforts tied to various artificial intelligence (AI) projects, helping content scrapers evade detection by routing their traffic through residential connections that appear to be regular Internet users. – [Aisuru Botnet Shifts from DDoS to Residential Proxies](https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/)</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2025-10-22-bots-again</guid>
+    </item>    <item>
+      <title>Custom Asidenotes</title>
+      <link>https://meyerweb.com/eric/thoughts/2025/10/29/custom-asidenotes/</link>
+      <description>
+        <![CDATA[In which I turn inline asides into robustly enhanced sidenotes with CSS and just a touch of JS.]]>
+      </description>
+      <source:markdown>In which I turn inline asides into robustly enhanced sidenotes with CSS and just a touch of JS.</source:markdown>
+      <guid>cid://https://meyerweb.com/eric/thoughts/?p=5662</guid>
+    </item>    <item>
+      <title>Meta&#39;s Ray-Ban Glasses Users Film and Harass Massage Parlor Workers</title>
+      <link>https://www.404media.co/metas-ray-ban-glasses-users-film-and-harass-massage-parlor-workers/</link>
+      <description>
+        <![CDATA[“The shameless use of covert recording technology at massage parlours to gain likes, attention, and online notoriety is both disgusting and dangerous.”]]>
+      </description>
+      <source:markdown>“The shameless use of covert recording technology at massage parlours to gain likes, attention, and online notoriety is both disgusting and dangerous.”</source:markdown>
+      <guid>cid://6900f359b03958000185ee0b</guid>
+    </item>    <item>
       <title>Podcast: Grokipedia is Cringe</title>
       <link>https://www.404media.co/podcast-grokipedia-is-cringe/</link>
       <description>
@@ -45,6 +494,55 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       </description>
       <source:markdown>Why Grokipedia won&#39;t beat Wikipedia; the Windows 10 update; and a16z&#39;s plan for a wholly AI-generated internet.</source:markdown>
       <guid>cid://69020f26b039580001861956</guid>
+    </item>    <item>
+      <title>Post-Playdate: One Year Later</title>
+      <link>https://blog.gingerbeardman.com/2025/10/29/post-playdate-one-year-later/</link>
+      <description>
+        <![CDATA[<p>It’s been a year since October 2024, when I released <a href="/2024/10/08/bender-2-bend-harder-for-playdate/">my last game on the Playdate Catalog</a>. Over the course of that month, I became increasingly concerned about an undercurrent of threatening and antisocial behaviour from one particular member of the community—my frequent reports of which went unanswered. Eventually—exactly a year ago today—that tension surfaced as a campaign of targeted harassment. I was assured something would be done about it, but sadly, nothing ever was.</p>
+        
+        <p><a href="/2025/04/15/when-playdate-stopped-being-fun/">So I left the Playdate community</a>. Over the following months, I faced various forms of harassment: doxxing, unsavoury DMs, spam campaigns targeting my email, cell phone, and social media accounts, unfounded accusations—the list goes on. I can tell you, <em>this is not my idea of a fun time.</em></p>
+        
+        <p>You might think that after a year this would be old news. Sadly, it’s not. I’ve long since moved on with my life and kept creating—for platforms as exotic as the <a href="/2025/01/05/dream-ride-for-sega-dreamcast-and-emulators/">Sega Dreamcast</a> and as familiar as <a href="/2025/08/21/wormhole-for-perplexity-comet/">the web</a>. I’m proud of what I’ve achieved, and of the choices that allow me to keep doing what I do best, in spite of the people who try to put barriers in my way.</p>
+        
+        <p>While I continued creating <a href="/2025/05/09/atari-jeff-minter-game-results-jam-llamasoft-and-st-format/">award-winning games</a>, the chance to build the game of my dreams came along—made easier by being an employee at a company that would handle funding, marketing, and the practicalities, freeing me to focus on doing my best work. It was a decision I didn’t take lightly, both because of potential ethical concerns and the fear of further harassment. I sought advice from close friends and had thoughtful discussions with several of them. One friend in particular told me they hadn’t heard of the company, so we didn’t discuss it further. That was back in May.</p>
+        
+        <p>I announced my first work with the company in July—again, this friend said nothing. Then, in mid-October, <a href="https://www.linkedin.com/posts/mattsephton_super-happy-to-share-that-ive-joined-perplexity-activity-7384626318224617472-ZQJ-">I announced my new permanent position</a>, and that same friend suddenly went off the deep end. I asked what had changed since May, when they hadn’t heard of the company, and why nothing was said in July, when I first went public with my new work—yet now, in October, they were suddenly so angry. Their reply:</p>
+        
+        <blockquote>
+          <p>“One of my friends saw your post and sent it to me saying ‘oh no,’ which is how I found out. And then another friend (who you also know) also said ‘oh nooooooo.’”</p>
+        </blockquote>
+        
+        <p>So, essentially, this friend had been incited into anger by others—the same social dynamic that fuelled the harassment a year ago. And the worst part? Those two mutual friends are key figures in the Playdate scene—the very people who once promised to address the harassment are now perpetuating it, a year on. I need to find a stronger word than <em>disappointing</em>, but that will have to do for now.</p>
+        
+        <p>At this point, I’m letting things run their course and will continue to do what I do best: make games. I’m looking forward to you being able to play the next one.</p>
+        
+        <p><em>Plus ça change—the more things change, the more they stay the same.</em></p>
+        
+        <p>Have fun,<br />
+        matt</p>]]>
+      </description>
+      <source:markdown>It’s been a year since October 2024, when I released [my last game on the Playdate Catalog](/2024/10/08/bender-2-bend-harder-for-playdate/). Over the course of that month, I became increasingly concerned about an undercurrent of threatening and antisocial behaviour from one particular member of the community—my frequent reports of which went unanswered. Eventually—exactly a year ago today—that tension surfaced as a campaign of targeted harassment. I was assured something would be done about it, but sadly, nothing ever was.
+
+[So I left the Playdate community](/2025/04/15/when-playdate-stopped-being-fun/). Over the following months, I faced various forms of harassment: doxxing, unsavoury DMs, spam campaigns targeting my email, cell phone, and social media accounts, unfounded accusations—the list goes on. I can tell you, _this is not my idea of a fun time._
+
+You might think that after a year this would be old news. Sadly, it’s not. I’ve long since moved on with my life and kept creating—for platforms as exotic as the [Sega Dreamcast](/2025/01/05/dream-ride-for-sega-dreamcast-and-emulators/) and as familiar as [the web](/2025/08/21/wormhole-for-perplexity-comet/). I’m proud of what I’ve achieved, and of the choices that allow me to keep doing what I do best, in spite of the people who try to put barriers in my way.
+
+While I continued creating [award-winning games](/2025/05/09/atari-jeff-minter-game-results-jam-llamasoft-and-st-format/), the chance to build the game of my dreams came along—made easier by being an employee at a company that would handle funding, marketing, and the practicalities, freeing me to focus on doing my best work. It was a decision I didn’t take lightly, both because of potential ethical concerns and the fear of further harassment. I sought advice from close friends and had thoughtful discussions with several of them. One friend in particular told me they hadn’t heard of the company, so we didn’t discuss it further. That was back in May.
+
+I announced my first work with the company in July—again, this friend said nothing. Then, in mid-October, [I announced my new permanent position](https://www.linkedin.com/posts/mattsephton_super-happy-to-share-that-ive-joined-perplexity-activity-7384626318224617472-ZQJ-), and that same friend suddenly went off the deep end. I asked what had changed since May, when they hadn’t heard of the company, and why nothing was said in July, when I first went public with my new work—yet now, in October, they were suddenly so angry. Their reply:
+
+&#62; “One of my friends saw your post and sent it to me saying ‘oh no,’ which is how I found out. And then another friend (who you also know) also said ‘oh nooooooo.’”
+
+So, essentially, this friend had been incited into anger by others—the same social dynamic that fuelled the harassment a year ago. And the worst part? Those two mutual friends are key figures in the Playdate scene—the very people who once promised to address the harassment are now perpetuating it, a year on. I need to find a stronger word than _disappointing_, but that will have to do for now.
+
+At this point, I’m letting things run their course and will continue to do what I do best: make games. I’m looking forward to you being able to play the next one.
+
+_Plus ça change—the more things change, the more they stay the same._
+
+Have fun,
+
+matt</source:markdown>
+      <guid>cid://https://blog.gingerbeardman.com/2025/10/29/post-playdate-one-year-later/</guid>
     </item>    <item>
       <title>An End to Bilateral Closeness</title>
       <link>https://onefoottsunami.com/2025/10/29/an-end-to-bilateral-closeness/</link>
@@ -246,7 +744,7 @@ And the _real_ takeaway:
       <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/3UrwxiGb0ws" length="0" type="image/jpeg" />
       <guid>cid://https://heathercoxrichardson.substack.com/p/october-28-2025</guid>
     </item>    <item>
-      <title>Please join me tomorrow (Wed, October 29) at 9 am Pacific, 12 pm Eastern for my Substack Live interview with Zohran Mamdani</title>
+      <title>Please join me today (Wed, October 29) at 9:50 am Pacific, 12:50 pm Eastern for my Substack Live interview with Zohran Mamdani</title>
       <link>https://robertreich.substack.com/p/please-join-me-tomorrow-wed-october</link>
       <description>
         <![CDATA[Friends,]]>
@@ -269,6 +767,14 @@ And the _real_ takeaway:
       </description>
       <source:markdown>Orchid in a window Quote of the Day ”For every problem, there is a solution that is simple, neat, and wrong.” H.L. Mencken Musical alternative to the morning’s radio news Teresa Carreño\| Venise op. 33/34 (Live in Helsinki) \| Michelle … [Continue reading →](https://memex.naughtons.org/wednesday-29-october-2025/41327/)</source:markdown>
       <guid>cid://https://memex.naughtons.org/?p=41327</guid>
+    </item>    <item>
+      <title>The Green Tea Garbage Collector</title>
+      <link>https://go.dev/blog/greenteagc</link>
+      <description>
+        <![CDATA[Go 1.25 includes a new experimental garbage collector, Green Tea.]]>
+      </description>
+      <source:markdown>Go 1.25 includes a new experimental garbage collector, Green Tea.</source:markdown>
+      <guid>cid://tag:blog.golang.org,2013:blog.golang.org/greenteagc</guid>
     </item>    <item>
       <link>https://wp.feedland.org/</link>
       <description>
@@ -458,6 +964,14 @@ Doom takes place on Mars, but up until recently, it has only been played on Eart
         <p>If you're a GitHub Universe attendee I hope this is useful. The official <a href="https://badger.github.io/">badger.github.io</a> site has plenty more details to help you get started.</p>
         <p>There isn't yet a way to get hold of this hardware outside of GitHub Universe - I know they had some supply chain challenges just getting enough badges for the conference attendees!</p>
         <p>It's a very neat device, built for GitHub by <a href="https://www.pimoroni.com/">Pimoroni</a> in Sheffield, UK. A version of this should become generally available in the future under the name "Pimoroni Tufty 2350".</p>
+        
+        <h4 id="iphone-only">Update: Setup with iPhone only</h4>
+        
+        <p>If you don't have a laptop with you it's still possible to start hacking on the device using just a USB-C cable.</p>
+        
+        <p>Plug the badge into the phone, hit the reset button on the back twice to switch it into disk mode and open the iPhone Files app - the badge should appear as a mounted disk called BADGER.</p>
+        
+        <p>I used <a href="https://apps.apple.com/us/app/textastic-code-editor/id1049254261">Textastic</a> to edit that <code>secrets.py</code> and configure a new badge, then hit reset again to restart it.</p>
             
                 <p>Tags: <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/hardware-hacking">hardware-hacking</a>, <a href="https://simonwillison.net/tags/microsoft">microsoft</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/raspberry-pi">raspberry-pi</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/disclosures">disclosures</a></p>]]>
       </description>
@@ -564,6 +1078,14 @@ If you&#39;re a GitHub Universe attendee I hope this is useful. The official [ba
 There isn&#39;t yet a way to get hold of this hardware outside of GitHub Universe - I know they had some supply chain challenges just getting enough badges for the conference attendees!
 
 It&#39;s a very neat device, built for GitHub by [Pimoroni](https://www.pimoroni.com/) in Sheffield, UK. A version of this should become generally available in the future under the name &#34;Pimoroni Tufty 2350&#34;.
+
+#### Update: Setup with iPhone only
+
+If you don&#39;t have a laptop with you it&#39;s still possible to start hacking on the device using just a USB-C cable.
+
+Plug the badge into the phone, hit the reset button on the back twice to switch it into disk mode and open the iPhone Files app - the badge should appear as a mounted disk called BADGER.
+
+I used [Textastic](https://apps.apple.com/us/app/textastic-code-editor/id1049254261) to edit that `secrets.py` and configure a new badge, then hit reset again to restart it.
 
 Tags: [github](https://simonwillison.net/tags/github), [hardware-hacking](https://simonwillison.net/tags/hardware-hacking), [microsoft](https://simonwillison.net/tags/microsoft), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [raspberry-pi](https://simonwillison.net/tags/raspberry-pi), [llms](https://simonwillison.net/tags/llms), [claude-code](https://simonwillison.net/tags/claude-code), [disclosures](https://simonwillison.net/tags/disclosures)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/28/github-universe-badge/#atom-everything</guid>
@@ -870,9 +1392,9 @@ Remember to check back in 2029 when Backblaze plans to return to this issue.</so
       <title>Episode Milestones and Back Behind the Mic</title>
       <link>https://openchannels.fm/episode-milestones-and-back-behind-the-mic/</link>
       <description>
-        <![CDATA[Bob’s gearing up for episode 700! He reflects on milestones, announces the end of solo episodes, and hints at more guest chats ahead.]]>
+        <![CDATA[Bob’s gearing up for episode 700. He reflects on milestones, announces the end of solo episodes, and hints at more guest chats ahead.]]>
       </description>
-      <source:markdown>Bob’s gearing up for episode 700! He reflects on milestones, announces the end of solo episodes, and hints at more guest chats ahead.</source:markdown>
+      <source:markdown>Bob’s gearing up for episode 700. He reflects on milestones, announces the end of solo episodes, and hints at more guest chats ahead.</source:markdown>
       <guid>cid://https://openchannels.fm/?p=111796</guid>
     </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115452056698116416</link>
@@ -5238,220 +5760,6 @@ BTW, here&#39;s a [transcript](https://chatgpt.com/c/68f8f563-0ab8-8322-865a-af0
       </description>
       <source:markdown>JD Vance’s Supreme Court Plot. I’ve been listening to the Lever podcast. This episode was the most eye-opening.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/23/1617/</guid>
-    </item>    <item>
-      <title>2025-10-22 Bots, again. I&#39;m taking it personally.</title>
-      <link>https://alexschroeder.ch/view/2025-10-22-bots-again</link>
-      <description>
-        <![CDATA[<h1 id="2025-10-22-bots-again-i-m-taking-it-personally">2025-10-22 Bots, again. I&rsquo;m taking it personally.</h1>
-        
-        <p>My auto-blocking of bots hasn’t needed much intervention in recent weeks. The
-        current average is 10,000 blocked IP ranges.
-        If you&rsquo;re interested, there&rsquo;s a
-        <a href="https://transjovian.org/view/fight-bots/index">a description of my setup</a>.</p>
-        
-        <p><img loading="lazy" src="2025-10-22-bots-again/01K7RMQ3YVE09T7ZYGSNEMBH1H.png" alt="Lots of graphs but the important one is the yellow line that’s pretty stable around 10k." /></p>
-        
-        <p>Hah, I post the above and now load is 95 and the bots are at it.</p>
-        
-        <p>What I don’t like about Munin is that when it crashes (I assume it’s the OOM
-        reaper making the rounds), then it leaves behind a lock that prevents the
-        graph from updating. Ugh.</p>
-        
-        <p><img loading="lazy" src="2025-10-22-bots-again/01K7YKFAPMFGSC0F8EBRSM66YJ.png" alt="A Munin graph showing maximum average load being 137.51 and now back to 1.24." /></p>
-        
-        <p>If you like large language models (LLMs), know that they need regular
-        training and the people training them are ruining the web for
-        everybody. You are part of this, as a consumer.</p>
-        
-        <p>Most sites don’t have the defences required, or require the execution
-        of expensive JavaScript for the CO₂ god, or require placing all your
-        visitor’s browsing data into the hands of another company, most likely
-        CloudFlare, in the USA. If you object to any of that, you must do your
-        duty and reject the use of LLMs as well. You can’t eat your cake and
-        claim to object to the rest. It would be a most incongruent position
-        to take.</p>
-        
-        <p>And since this kind of shit often happens while
-        <a href="2025-portugal">I’m on holidays</a>, the LLM friends reading this are
-        responsible, in a very small way, for pissing on me during my
-        holidays. And I resent it.</p>
-        
-        <p>I resent it very much.</p>
-        
-        <p><img loading="lazy" src="2025-10-22-bots-again/01K7YXF66MYSEQC615WGSBECN2.png" alt="Load going up to 80, again. And back down, again." /></p>
-        
-        <p>Waking up in a hotel bed, opening the balcony doors, hearing the birds
-        sing, switching on the phone and realising that load is over 100 and
-        nothing works, switching off Emacs Wiki and Community Wiki, the
-        favourite targets of the AI scrapers and thinking of the people who
-        like to use large language models.</p>
-        
-        <p>It’s the same problem as always: drive a car, see the CO₂ in the world
-        go up, “but I need it!” – yeah, but we need an earth that supports
-        human life too, idiots. Humans, where comfort is separated from
-        consequences by time and space like to choose comfort. In this case,
-        the AI comfort leads to the shut down of the open web, the
-        centralisation of what remains, the installation of barriers, and ever
-        and always: more control for fewer people. But of course, the
-        consequences are separated by time and space from the comforts of AI
-        users.</p>
-        
-        <p>Imagine a goddess of destruction with a grim smile and a thousand
-        hands and each one of them is giving you a middle finger.</p>
-        
-        <p>Load average: 142.25</p>
-        
-        <p>I switched off Community Wiki and Emacs Wiki.</p>
-        
-        <p>Coming back after a day of excursions and things seem to be working
-        fine, if I don’t switch on those two sites. These two have been
-        unavailable for a minimum of six hours and yet in the last two hours
-        Emacs Wiki still got 3537 requests.</p>
-        
-        <p>Time to ban every network of every ASN that&rsquo;s still requesting Emacs Wiki pages.</p>
-        
-        <pre><code>2h-access-log \
-        | grep '^www\.emacswiki\.org' \
-        | log-ip \
-        | asncounter --top 50 --no-prefixes 2&gt;/dev/null \
-        | awk '/^[1-9]/ &amp;&amp; $1 &gt;= 10 { print $3 }' \
-        | xargs asn-networks \
-        | xargs fail2ban-client set butlerian-jihad-week banip
-        </code></pre>
-        
-        <p>If you&rsquo;re looking for the building blocks I&rsquo;m using, see my
-        <a href="https://alexschroeder.ch/admin/">collection of admin scripts and shell functions</a>.</p>
-        
-        <p>Hours later, I switched Emacs Wiki on for a minute and load
-        immediately rose from around 1 to nearly 4 and my SSH connection
-        became slow as molasses. It&rsquo;ll remain switched off for tonight and
-        probably tomorrow, too. It depends on the kind of wifi connection I
-        have, tomorrow.</p>
-        
-        <p>Perhaps I should just hand Emacs Wiki off to somebody who&rsquo;s more into
-        it.</p>
-        
-        <p>Switching off Community Wiki and two smaller sites as well, for now.</p>
-        
-        <p><a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23Emacs">#Emacs</a></p>
-        
-        <p><strong>2025-10-22</strong>. On IRC, twb replied to my complaints about the Munin lock being left behind:</p>
-        
-        <blockquote>
-        <p>if you have systemd, just set RuntimeDirectory=%p and systemd will clean it up</p>
-        </blockquote>
-        
-        <p>Also, he&rsquo;s running <a href="https://github.com/trentbuck/collection4/blob/main/debian/service">collection4</a> instead of Munin.</p>
-        
-        <p><strong>2025-10-23</strong>. Switching Emacs Wiki back on, about nine hours ago.</p>
-        
-        <p><img loading="lazy" src="2025-10-22-bots-again-1.jpg" alt="" /></p>]]>
-      </description>
-      <source:markdown># 2025-10-22 Bots, again. I’m taking it personally.
-
-My auto-blocking of bots hasn’t needed much intervention in recent weeks. The
-current average is 10,000 blocked IP ranges.
-If you’re interested, there’s a
-[a description of my setup](https://transjovian.org/view/fight-bots/index).
-
-![Lots of graphs but the important one is the yellow line that’s pretty stable around 10k.](2025-10-22-bots-again/01K7RMQ3YVE09T7ZYGSNEMBH1H.png)
-
-Hah, I post the above and now load is 95 and the bots are at it.
-
-What I don’t like about Munin is that when it crashes (I assume it’s the OOM
-reaper making the rounds), then it leaves behind a lock that prevents the
-graph from updating. Ugh.
-
-![A Munin graph showing maximum average load being 137.51 and now back to 1.24.](2025-10-22-bots-again/01K7YKFAPMFGSC0F8EBRSM66YJ.png)
-
-If you like large language models (LLMs), know that they need regular
-training and the people training them are ruining the web for
-everybody. You are part of this, as a consumer.
-
-Most sites don’t have the defences required, or require the execution
-of expensive JavaScript for the CO₂ god, or require placing all your
-visitor’s browsing data into the hands of another company, most likely
-CloudFlare, in the USA. If you object to any of that, you must do your
-duty and reject the use of LLMs as well. You can’t eat your cake and
-claim to object to the rest. It would be a most incongruent position
-to take.
-
-And since this kind of shit often happens while
-[I’m on holidays](2025-portugal), the LLM friends reading this are
-responsible, in a very small way, for pissing on me during my
-holidays. And I resent it.
-
-I resent it very much.
-
-![Load going up to 80, again. And back down, again.](2025-10-22-bots-again/01K7YXF66MYSEQC615WGSBECN2.png)
-
-Waking up in a hotel bed, opening the balcony doors, hearing the birds
-sing, switching on the phone and realising that load is over 100 and
-nothing works, switching off Emacs Wiki and Community Wiki, the
-favourite targets of the AI scrapers and thinking of the people who
-like to use large language models.
-
-It’s the same problem as always: drive a car, see the CO₂ in the world
-go up, “but I need it!” – yeah, but we need an earth that supports
-human life too, idiots. Humans, where comfort is separated from
-consequences by time and space like to choose comfort. In this case,
-the AI comfort leads to the shut down of the open web, the
-centralisation of what remains, the installation of barriers, and ever
-and always: more control for fewer people. But of course, the
-consequences are separated by time and space from the comforts of AI
-users.
-
-Imagine a goddess of destruction with a grim smile and a thousand
-hands and each one of them is giving you a middle finger.
-
-Load average: 142.25
-
-I switched off Community Wiki and Emacs Wiki.
-
-Coming back after a day of excursions and things seem to be working
-fine, if I don’t switch on those two sites. These two have been
-unavailable for a minimum of six hours and yet in the last two hours
-Emacs Wiki still got 3537 requests.
-
-Time to ban every network of every ASN that’s still requesting Emacs Wiki pages.
-
-```
-2h-access-log \
-| grep &#39;^www\.emacswiki\.org&#39; \
-| log-ip \
-| asncounter --top 50 --no-prefixes 2&#62;/dev/null \
-| awk &#39;/^[1-9]/ &#38;&#38; $1 &#62;= 10 { print $3 }&#39; \
-| xargs asn-networks \
-| xargs fail2ban-client set butlerian-jihad-week banip
-
-```
-
-If you’re looking for the building blocks I’m using, see my
-[collection of admin scripts and shell functions](https://alexschroeder.ch/admin/).
-
-Hours later, I switched Emacs Wiki on for a minute and load
-immediately rose from around 1 to nearly 4 and my SSH connection
-became slow as molasses. It’ll remain switched off for tonight and
-probably tomorrow, too. It depends on the kind of wifi connection I
-have, tomorrow.
-
-Perhaps I should just hand Emacs Wiki off to somebody who’s more into
-it.
-
-Switching off Community Wiki and two smaller sites as well, for now.
-
-[#Butlerian Jihad](/search/?q=%23Butlerian_Jihad) [#Emacs](/search/?q=%23Emacs)
-
-**2025-10-22**. On IRC, twb replied to my complaints about the Munin lock being left behind:
-
-&#62; if you have systemd, just set RuntimeDirectory=%p and systemd will clean it up
-
-Also, he’s running [collection4](https://github.com/trentbuck/collection4/blob/main/debian/service) instead of Munin.
-
-**2025-10-23**. Switching Emacs Wiki back on, about nine hours ago.
-
-![](2025-10-22-bots-again-1.jpg)</source:markdown>
-      <guid>cid://https://alexschroeder.ch/view/2025-10-22-bots-again</guid>
     </item>    <item>
       <title>OpenBSD 7.8 out now, and you&#39;re not seeing double, 9front releases &#39;Release&#39;</title>
       <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/10/23/openbsd_78_and_9front_release/</link>

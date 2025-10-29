@@ -4,10 +4,314 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>29 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>29 Oct 25 11:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>AWS Stargate-smashing Rainier AI megacluster is up and running</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/29/aws_rainier_ai_megacluster/</link>
+      <description>
+        <![CDATA[<h4>Half a million Trainium2 chips now running Anthropic workloads, with half a million more waiting in the wings</h4> <p>Never mind Sam Altman&#39;s Stargate, which is just beginning to open its portal to distant AI-fueled worlds: Amazon&#39;s competing mountain of AI compute power is already up and running. …</p>]]>
+      </description>
+      <source:markdown>#### Half a million Trainium2 chips now running Anthropic workloads, with half a million more waiting in the wings
+
+Never mind Sam Altman&#39;s Stargate, which is just beginning to open its portal to distant AI-fueled worlds: Amazon&#39;s competing mountain of AI compute power is already up and running. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242734</guid>
+    </item>    <item>
+      <title>What Good Software Supply Chain Security Looks Like</title>
+      <link>https://thenewstack.io/what-good-software-supply-chain-security-looks-like/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/5c8243c7-port-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Cargo container depot at a port." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/5c8243c7-port.jpg" /><p>Organizations running their business on open source software are faced with a more aggressive and complicated security and compliance landscape</p>
+        <p>The post <a href="https://thenewstack.io/what-good-software-supply-chain-security-looks-like/">What Good Software Supply Chain Security Looks Like </a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Cargo container depot at a port.](https://cdn.thenewstack.io/media/2025/10/5c8243c7-port-1024x576.jpg)
+
+Organizations running their business on open source software are faced with a more aggressive and complicated security and compliance landscape
+
+The post [What Good Software Supply Chain Security Looks Like](https://thenewstack.io/what-good-software-supply-chain-security-looks-like/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804608</guid>
+    </item>    <item>
+      <title>Flight simulator fans revive a classic Boeing 747 cockpit</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/29/flight_simulator_boeing_747_cockpit/</link>
+      <description>
+        <![CDATA[<h4>Think a custom Yoke is cool? Check this out...</h4> <p>How far would you take your flight simulation hobby? Perhaps some extra screens? Maybe some custom controllers? Or would you go as far as to revive a scrapped Boeing 747 cockpit to satisfy your simulation needs?…</p>]]>
+      </description>
+      <source:markdown>#### Think a custom Yoke is cool? Check this out...
+
+How far would you take your flight simulation hobby? Perhaps some extra screens? Maybe some custom controllers? Or would you go as far as to revive a scrapped Boeing 747 cockpit to satisfy your simulation needs?…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242733</guid>
+    </item>    <item>
+      <title>How Are OpenTelemetry and Fluent Bit Related?</title>
+      <link>https://thenewstack.io/how-are-opentelemetry-and-fluent-bit-related/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/de01085e-together-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="A couple of swans." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/de01085e-together.jpg" /><p>Editor&#8217;s Note: The following article is an excerpt from Chapter 1 of The Manning Book: &#8220;Fluent Bit with Kubernetes,&#8221; a</p>
+        <p>The post <a href="https://thenewstack.io/how-are-opentelemetry-and-fluent-bit-related/">How Are OpenTelemetry and Fluent Bit Related?</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![A couple of swans.](https://cdn.thenewstack.io/media/2025/10/de01085e-together-1024x576.jpg)
+
+Editor’s Note: The following article is an excerpt from Chapter 1 of The Manning Book: “Fluent Bit with Kubernetes,” a
+
+The post [How Are OpenTelemetry and Fluent Bit Related?](https://thenewstack.io/how-are-opentelemetry-and-fluent-bit-related/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804637</guid>
+    </item>    <item>
+      <title>Störung bei Microsofts Cloud: Ausfälle bei Outlook und Co. gemeldet</title>
+      <link>https://www.heise.de/news/Stoerung-bei-Microsofts-Cloud-Ausfaelle-bei-Outlook-und-Co-gemeldet-10963686.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Nutzer melden Ausfälle zahlreicher Dienste, unter anderem sind Office und Minecraft betroffen. Der Konzern untersucht einen Ausfall seines weltweiten CDNs.]]>
+      </description>
+      <source:markdown>Nutzer melden Ausfälle zahlreicher Dienste, unter anderem sind Office und Minecraft betroffen. Der Konzern untersucht einen Ausfall seines weltweiten CDNs.</source:markdown>
+      <guid>cid://http://heise.de/-10963686</guid>
+    </item>    <item>
+      <title>heise+ | Tipps zum Aufspüren von Überwachungsprogrammen auf dem Arbeitsrechner</title>
+      <link>https://www.heise.de/ratgeber/Tipps-zum-Aufspueren-von-Ueberwachungsprogrammen-auf-dem-Arbeitsrechner-9338930.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Unsichtbare Programme können Mitarbeiter ohne deren Wissen überwachen. Daher ist es gut zu wissen, ob und wie man Schnüffelprogramme aufdecken kann.]]>
+      </description>
+      <source:markdown>Unsichtbare Programme können Mitarbeiter ohne deren Wissen überwachen. Daher ist es gut zu wissen, ob und wie man Schnüffelprogramme aufdecken kann.</source:markdown>
+      <guid>cid://http://heise.de/-9338930</guid>
+    </item>    <item>
+      <title>Erste RISC-V-Grafikkarte kommt in Fahrt</title>
+      <link>https://www.heise.de/news/Erste-RISC-V-Grafikkarte-kommt-in-Fahrt-10963652.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die US-Firma Bolt Graphics führt ihre GPU Zeus mit Path-Tracing-Technik und bis zu 160 GByte RAM vor. Zeus nutzt RISC-V-Kerne.]]>
+      </description>
+      <source:markdown>Die US-Firma Bolt Graphics führt ihre GPU Zeus mit Path-Tracing-Technik und bis zu 160 GByte RAM vor. Zeus nutzt RISC-V-Kerne.</source:markdown>
+      <guid>cid://http://heise.de/-10963652</guid>
+    </item>    <item>
+      <title>heise+ | Safari-Fotografie: Mit der Leica SL3-S in Sambia</title>
+      <link>https://www.heise.de/tests/Safari-Fotografie-Mit-der-Leica-SL3-S-in-Sambia-10851575.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Was passiert, wenn man ein günstiges Sigma-Telezoom an die jüngste Spiegellose aus dem Hause Leica setzt und damit in Sambia auf Safari geht?]]>
+      </description>
+      <source:markdown>Was passiert, wenn man ein günstiges Sigma-Telezoom an die jüngste Spiegellose aus dem Hause Leica setzt und damit in Sambia auf Safari geht?</source:markdown>
+      <guid>cid://http://heise.de/-10851575</guid>
+    </item>    <item>
+      <title>heise+ | Schlösser öffnen ohne Schlüssel: Lockpicking-Guide für Einsteiger</title>
+      <link>https://www.heise.de/ratgeber/Schloesser-oeffnen-ohne-Schluessel-Lockpicking-Guide-fuer-Einsteiger-10963426.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Ohne Schlüssel zum Erfolg: Lockpicking leicht gemacht! Werkzeugtipps und Grundlagen im ausführlichen Videobeitrag]]>
+      </description>
+      <source:markdown>Ohne Schlüssel zum Erfolg: Lockpicking leicht gemacht! Werkzeugtipps und Grundlagen im ausführlichen Videobeitrag</source:markdown>
+      <guid>cid://http://heise.de/-10963426</guid>
+    </item>    <item>
+      <title>Apple verklagt Oppo wegen Diebstahls von Geschäftsgeheimnissen</title>
+      <link>https://www.heise.de/news/Apple-verklagt-Oppo-wegen-Diebstahls-von-Geschaeftsgeheimnissen-10963515.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Apple verklagt Oppo und einen Ex-Mitarbeiter wegen Diebstahls von Geschäftsgeheimnissen. Der Mitarbeiter soll Interna zur Apple Watch an Oppo gegeben haben.]]>
+      </description>
+      <source:markdown>Apple verklagt Oppo und einen Ex-Mitarbeiter wegen Diebstahls von Geschäftsgeheimnissen. Der Mitarbeiter soll Interna zur Apple Watch an Oppo gegeben haben.</source:markdown>
+      <guid>cid://http://heise.de/-10963515</guid>
+    </item>    <item>
+      <title>EY exposes 4TB+ SQL database to open internet for who knows how long</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/29/ey_exposes_4tb_sql_database/</link>
+      <description>
+        <![CDATA[<h4>The Big Four biz’s big fat fail exposed a boatload of secrets online</h4> <p>A Dutch cybersecurity outfit says its lead researcher recently stumbled upon a 4TB+ SQL Server backup file belonging to EY exposed to the web, effectively leaking the accounting and consulting megacorp&#39;s secrets.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### The Big Four biz’s big fat fail exposed a boatload of secrets online
+
+A Dutch cybersecurity outfit says its lead researcher recently stumbled upon a 4TB+ SQL Server backup file belonging to EY exposed to the web, effectively leaking the accounting and consulting megacorp&#39;s secrets.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242732</guid>
+    </item>    <item>
+      <title>New Open Source Tool from Angular Scores Vibe Code Quality</title>
+      <link>https://thenewstack.io/new-open-source-tool-from-angular-scores-vibe-code-quality/</link>
+      <description>
+        <![CDATA[<img width="1024" height="577" src="https://cdn.thenewstack.io/media/2025/10/61e1bf02-webcodegenscorer-1024x577.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="A screenshot of Web Codegen Scorer&#039;s assessment of Angular. Also pictured is Simona Cotin, a Google engineering manager who works on the Angular team." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/61e1bf02-webcodegenscorer.jpg" /><p>The Angular team at Google had a debate brewing internally: They couldn&#8217;t agree which large language model was best at</p>
+        <p>The post <a href="https://thenewstack.io/new-open-source-tool-from-angular-scores-vibe-code-quality/">New Open Source Tool from Angular Scores Vibe Code Quality</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![A screenshot of Web Codegen Scorer&#39;s assessment of Angular. Also pictured is Simona Cotin, a Google engineering manager who works on the Angular team.](https://cdn.thenewstack.io/media/2025/10/61e1bf02-webcodegenscorer-1024x577.jpg)
+
+The Angular team at Google had a debate brewing internally: They couldn’t agree which large language model was best at
+
+The post [New Open Source Tool from Angular Scores Vibe Code Quality](https://thenewstack.io/new-open-source-tool-from-angular-scores-vibe-code-quality/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804626</guid>
+    </item>    <item>
+      <title>Smile! Uncle Sam wants to scan your face on the way in – and out</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/29/us_foreigner_facial_scans/</link>
+      <description>
+        <![CDATA[<h4>Noncitizens, prepare to have your mugshot stored for up to 75 years</h4> <p>Planning to visit the United States in the near future? If so, get ready to have your picture taken – and stored for decades – upon both entry and exit under a new Customs and Border Protection rule.…</p>]]>
+      </description>
+      <source:markdown>#### Noncitizens, prepare to have your mugshot stored for up to 75 years
+
+Planning to visit the United States in the near future? If so, get ready to have your picture taken – and stored for decades – upon both entry and exit under a new Customs and Border Protection rule.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242729</guid>
+    </item>    <item>
+      <title>India to dethrone US for dev numbers as AI reshapes coding, says GitHub</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/29/india_devs_github/</link>
+      <description>
+        <![CDATA[<h4>TypeScript was ranked top programming language</h4> <p>The Indian software developer community will outgrow the US&#39;s by 2030, GitHub&#39;s Octoverse 2025 report shows. However, today, the United States remains in the lead.…</p>]]>
+      </description>
+      <source:markdown>#### TypeScript was ranked top programming language
+
+The Indian software developer community will outgrow the US&#39;s by 2030, GitHub&#39;s Octoverse 2025 report shows. However, today, the United States remains in the lead.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242727</guid>
+    </item>    <item>
+      <title>Confluent Provides a Real-Time Context Engine for AI</title>
+      <link>https://thenewstack.io/confluent-provides-a-real-time-context-engine-for-ai/</link>
+      <description>
+        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/05/6f195642-confluent-1024x768.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/05/6f195642-confluent.png" /><p>NEW ORLEANS &#8212; wants to help organizations bring their AI efforts up to speed so that AI analysis can be</p>
+        <p>The post <a href="https://thenewstack.io/confluent-provides-a-real-time-context-engine-for-ai/">Confluent Provides a Real-Time Context Engine for AI</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/05/6f195642-confluent-1024x768.png)
+
+NEW ORLEANS — wants to help organizations bring their AI efforts up to speed so that AI analysis can be
+
+The post [Confluent Provides a Real-Time Context Engine for AI](https://thenewstack.io/confluent-provides-a-real-time-context-engine-for-ai/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804711</guid>
+    </item>    <item>
+      <title>Carlinkit Tbox UHD im Test: Smarte Box bringt Youtube, Netflix &#38; Co. ins Auto</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/carlinkit-tbox-uhd-im-test-smarte-box-bringt-youtube-netflix-und-co-ins-auto/0gxh8s0?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Youtube und Netflix im Auto? Carplay und Android Auto blockieren das – die Carlinkit Tbox UHD macht Streaming trotzdem möglich.]]>
+      </description>
+      <source:markdown>Youtube und Netflix im Auto? Carplay und Android Auto blockieren das – die Carlinkit Tbox UHD macht Streaming trotzdem möglich.</source:markdown>
+      <guid>cid://http://heise.de/-10963251</guid>
+    </item>    <item>
+      <title>This Forgery Ring Tried to Sell a Fake Rembrandt for $150 Million. The Real Painting Is Hanging in an Amsterdam Museum</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-forgery-ring-tried-to-sell-fake-rembrandt-for-150-million-the-real-painting-is-hanging-in-an-amsterdam-museum-180987589/</link>
+      <description>
+        <![CDATA[The conspirators claimed that their canvas was the original, while the Rijksmuseum's was an inferior copy. They also marketed forgeries of works by Picasso, Frida Kahlo and more]]>
+      </description>
+      <source:markdown>The conspirators claimed that their canvas was the original, while the Rijksmuseum&#39;s was an inferior copy. They also marketed forgeries of works by Picasso, Frida Kahlo and more</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/-3qtDYgtPs4zaQ3HxIWzSSvg5Us=/420x240/filters:focal(2314x1631:2315x1632)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/41/66/4166de0c-ec9a-4038-9dd0-99ba765f0c12/gettyimages-2242648483.jpg" length="" type="" />
+    </item>    <item>
+      <title>Dame Emma Thompson gives the &#39;AI revolution&#39; both barrels</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/29/emma_thompson_ai/</link>
+      <description>
+        <![CDATA[<h4>Oscar-winning author and performer would prefer Copilot did not offer her writing assistance</h4> <p>Dame Emma Thompson&#39;s expletive-laden takedown of AI writing assistants may strike a chord with frustrated users everywhere.…</p>]]>
+      </description>
+      <source:markdown>#### Oscar-winning author and performer would prefer Copilot did not offer her writing assistance
+
+Dame Emma Thompson&#39;s expletive-laden takedown of AI writing assistants may strike a chord with frustrated users everywhere.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242728</guid>
+    </item>    <item>
+      <title>Medizinregistergesetz soll für unkomplizierten Datenzugang sorgen</title>
+      <link>https://www.heise.de/news/Medizinregistergesetz-soll-fuer-unkomplizierten-Datenzugang-sorgen-10962894.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ein Medizinregistergesetz soll den Zugang zu Gesundheitsdaten verbessern und Datensilos verhindern. Dazu hat das Gesundheitsministerium einen Entwurf vorgelegt.]]>
+      </description>
+      <source:markdown>Ein Medizinregistergesetz soll den Zugang zu Gesundheitsdaten verbessern und Datensilos verhindern. Dazu hat das Gesundheitsministerium einen Entwurf vorgelegt.</source:markdown>
+      <guid>cid://http://heise.de/-10962894</guid>
+    </item>    <item>
+      <title>Shadow AI: The Growing Risk IT Leaders Must Address</title>
+      <link>https://thenewstack.io/shadow-ai-the-growing-risk-it-leaders-must-address/</link>
+      <description>
+        <![CDATA[<img width="1024" height="683" src="https://cdn.thenewstack.io/media/2025/10/e0e6854f-serkan-yildiz-yjxd2mccedu-unsplash-1024x683.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/e0e6854f-serkan-yildiz-yjxd2mccedu-unsplash-scaled.jpg" /><p>As long as there have been guardrails, there have been people trying to find ways around them, from the Garden</p>
+        <p>The post <a href="https://thenewstack.io/shadow-ai-the-growing-risk-it-leaders-must-address/">Shadow AI: The Growing Risk IT Leaders Must Address</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/10/e0e6854f-serkan-yildiz-yjxd2mccedu-unsplash-1024x683.jpg)
+
+As long as there have been guardrails, there have been people trying to find ways around them, from the Garden
+
+The post [Shadow AI: The Growing Risk IT Leaders Must Address](https://thenewstack.io/shadow-ai-the-growing-risk-it-leaders-must-address/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804507</guid>
+    </item>    <item>
+      <title>Carlo Rovelli’s Radical Perspective on Reality</title>
+      <link>https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/</link>
+      <description>
+        <![CDATA[The theoretical physicist and best-selling author finds inspiration in politics and philosophy for rethinking space and time.            <p>The post <a href="https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/" target="_blank">Carlo Rovelli’s Radical Perspective on Reality</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>The theoretical physicist and best-selling author finds inspiration in politics and philosophy for rethinking space and time.
+
+The post [Carlo Rovelli’s Radical Perspective on Reality](https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=156025</guid>
+    </item>    <item>
+      <title>Studie: Immer mehr Jugendliche fürchten wegen KI um ihre berufliche Zukunft</title>
+      <link>https://www.heise.de/news/Studie-Immer-mehr-Jugendliche-fuerchten-wegen-KI-um-ihre-berufliche-Zukunft-10963307.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Junge Menschen sorgen sich um ihre berufliche Zukunft, weil KI immer weiter auf dem Vormarsch ist. Das geht aus einer aktuellen Umfrage hervor.]]>
+      </description>
+      <source:markdown>Junge Menschen sorgen sich um ihre berufliche Zukunft, weil KI immer weiter auf dem Vormarsch ist. Das geht aus einer aktuellen Umfrage hervor.</source:markdown>
+      <guid>cid://http://heise.de/-10963307</guid>
+    </item>    <item>
+      <title>Nvidia pitches Omniverse DSX as model for gigawatt-scale AI factories</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/29/nvidia_omniverse_dsx/</link>
+      <description>
+        <![CDATA[<h4>GPU giant teams with partners to create digital twin blueprint for next-gen datacenters</h4> <p>Nvidia unveiled Omniverse DSX at its GTC event in Washington DC — a blueprint for designing and operating gigawatt-scale AI datacenters using digital twin technology.…</p>]]>
+      </description>
+      <source:markdown>#### GPU giant teams with partners to create digital twin blueprint for next-gen datacenters
+
+Nvidia unveiled Omniverse DSX at its GTC event in Washington DC — a blueprint for designing and operating gigawatt-scale AI datacenters using digital twin technology.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242726</guid>
+    </item>    <item>
+      <title>Steinberg gibt Audio-Schnittstellen ASIO und VST unter Open-Source-Lizenzen frei</title>
+      <link>https://www.heise.de/news/Steinberg-gibt-Audio-Schnittstellen-ASIO-und-VST-unter-Open-Source-Lizenzen-frei-10963347.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Software-Entwickler können die Audio-Schnittstellen künftig in Open-Source-Software einbinden. Das öffnet den Weg für eine breitere Nutzung unter Linux.]]>
+      </description>
+      <source:markdown>Software-Entwickler können die Audio-Schnittstellen künftig in Open-Source-Software einbinden. Das öffnet den Weg für eine breitere Nutzung unter Linux.</source:markdown>
+      <guid>cid://http://heise.de/-10963347</guid>
+    </item>    <item>
+      <title>KI-Update kompakt: OpenAI For-Profit, GitHub AgenHQ, Halluzinationen, Spesen</title>
+      <link>https://www.heise.de/news/KI-Update-kompakt-OpenAI-For-Profit-GitHub-AgenHQ-Halluzinationen-Spesen-10963089.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das "KI-Update" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.]]>
+      </description>
+      <source:markdown>Das &#34;KI-Update&#34; liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.</source:markdown>
+      <guid>cid://http://heise.de/-10963089</guid>
+    </item>    <item>
+      <title>heise+ | Mittelklasse-Tablet mit mattem Bildschirm: Huawei MatePad 12X 2025 im Test</title>
+      <link>https://www.heise.de/tests/Mittelklasse-Tablet-mit-mattem-Bildschirm-Huawei-MatePad-12X-2025-im-Test-10747856.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Gute Hardware kann Huawei schon lange. Mittlerweile weiß der Hersteller auch gut zu kaschieren, dass er keine Google-Dienste nutzen darf.]]>
+      </description>
+      <source:markdown>Gute Hardware kann Huawei schon lange. Mittlerweile weiß der Hersteller auch gut zu kaschieren, dass er keine Google-Dienste nutzen darf.</source:markdown>
+      <guid>cid://http://heise.de/-10747856</guid>
+    </item>    <item>
+      <title>Samsung stellt erstes Trifold-Gerät aus, Vorstellung noch ausstehend</title>
+      <link>https://www.heise.de/news/Samsung-stellt-erstes-Trifold-Geraet-aus-Vorstellung-noch-ausstehend-10963311.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Samsung hat sein Trifold-Gerät erstmals ausgestellt. Eine regelrechte Vorstellung lässt aber noch auf sich warten.]]>
+      </description>
+      <source:markdown>Samsung hat sein Trifold-Gerät erstmals ausgestellt. Eine regelrechte Vorstellung lässt aber noch auf sich warten.</source:markdown>
+      <guid>cid://http://heise.de/-10963311</guid>
+    </item>    <item>
+      <title>Verkehrsdaten in Echtzeit: Bundesregierung bringt Gesetzentwurf ein</title>
+      <link>https://www.heise.de/news/Verkehrsdaten-in-Echtzeit-Bundesregierung-bringt-Gesetzentwurf-ein-10963353.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Bundesregierung will eine Plattform schaffen, auf der Echtzeitinformationen zum ÖPNV, Baustellen und Ladeinfrastruktur zur Verfügung gestellt werden.]]>
+      </description>
+      <source:markdown>Die Bundesregierung will eine Plattform schaffen, auf der Echtzeitinformationen zum ÖPNV, Baustellen und Ladeinfrastruktur zur Verfügung gestellt werden.</source:markdown>
+      <guid>cid://http://heise.de/-10963353</guid>
+    </item>    <item>
+      <title>AI layoffs to backfire: Half quietly rehired at lower pay</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/29/forrester_ai_rehiring/</link>
+      <description>
+        <![CDATA[<h4>Bosses banking on automation? 55% will regret those job cuts</h4> <p>Many organizations rushing to cut staff in the name of AI efficiency are expected to quietly rehire those roles – often &#34;offshore or at lower salary.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Bosses banking on automation? 55% will regret those job cuts
+
+Many organizations rushing to cut staff in the name of AI efficiency are expected to quietly rehire those roles – often &#34;offshore or at lower salary.&#34;…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242724</guid>
+    </item>    <item>
+      <title>dbt Labs Open Sources MetricFlow: An Independent Schema for Data Interoperability</title>
+      <link>https://thenewstack.io/dbt-labs-open-sources-metricflow-an-independent-schema-for-data-interoperability/</link>
+      <description>
+        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/10/6a1e3d52-dbt-labs-1024x768.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/6a1e3d52-dbt-labs.png" /><p>Data framework provider dbt Labs recently released as open source MetricFlow, a SQL generation tool that reinforces the dbt semantic</p>
+        <p>The post <a href="https://thenewstack.io/dbt-labs-open-sources-metricflow-an-independent-schema-for-data-interoperability/">dbt Labs Open Sources MetricFlow: An Independent Schema for Data Interoperability</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/10/6a1e3d52-dbt-labs-1024x768.png)
+
+Data framework provider dbt Labs recently released as open source MetricFlow, a SQL generation tool that reinforces the dbt semantic
+
+The post [dbt Labs Open Sources MetricFlow: An Independent Schema for Data Interoperability](https://thenewstack.io/dbt-labs-open-sources-metricflow-an-independent-schema-for-data-interoperability/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804387</guid>
+    </item>    <item>
+      <title>Für KI-Workloads: Ciscos neuer RZ-Switch auch mit Open-Source-Betriebssystem</title>
+      <link>https://www.heise.de/news/Fuer-KI-Workloads-Ciscos-neuer-RZ-Switch-auch-mit-Open-Source-Betriebssystem-10963223.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ciscos neuer Rechenzentrumsswitch mit Nvidias Spectrum-4-ASIC und Option aufs quelloffene Netzwerkbetriebssystem SONiC zielt vor allem auf KI-Workloads.]]>
+      </description>
+      <source:markdown>Ciscos neuer Rechenzentrumsswitch mit Nvidias Spectrum-4-ASIC und Option aufs quelloffene Netzwerkbetriebssystem SONiC zielt vor allem auf KI-Workloads.</source:markdown>
+      <guid>cid://http://heise.de/-10963223</guid>
+    </item>    <item>
+      <title>Collins Aerospace: Mangelhafte Passwörter ermöglichten Nachrichten an Cockpits</title>
+      <link>https://www.heise.de/news/Collins-Aerospace-Mangelhafte-Passwoerter-ermoeglichten-Nachrichten-an-Cockpits-10963151.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Durch mangelhaften Zugriffsschutz bei Collins Aerospace ließen sich Nachrichten an Flugzeug-Cockpits schicken.]]>
+      </description>
+      <source:markdown>Durch mangelhaften Zugriffsschutz bei Collins Aerospace ließen sich Nachrichten an Flugzeug-Cockpits schicken.</source:markdown>
+      <guid>cid://http://heise.de/-10963151</guid>
+    </item>    <item>
       <title>heise-Angebot: iX-Workshop: Schwachstellen aufdecken – Pentesting mit Open-Source-Tools</title>
       <link>https://www.heise.de/news/iX-Workshop-Schwachstellen-aufdecken-Pentesting-mit-Open-Source-Tools-10777957.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
@@ -16,7 +320,7 @@
       <source:markdown>Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen.</source:markdown>
       <guid>cid://http://heise.de/-10777957</guid>
     </item>    <item>
-      <title>&#34;Digitaler Blackout&#34;: Parallel zur Wahl weitgehende Internetblockade in Tansania</title>
+      <title>Tansania parallel zur Wahl fast vollständig offline</title>
       <link>https://www.heise.de/news/Digitaler-Blackout-Parallel-zur-Wahl-weitgehende-Internetblockade-in-Tansania-10963173.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
         <![CDATA[In Tansania sind die Menschen in die Wahllokale gerufen, eine richtige Auswahl haben sie nicht. Zeitgleich wurde dann wohl das Internet weitgehend blockiert.]]>
@@ -89,7 +393,7 @@ The UK government will publish a plan for handling future cloud outages after la
       <title>LogicStar AI Wants To Automate Debugging</title>
       <link>https://thenewstack.io/logicstar-ai-wants-to-automate-debugging/</link>
       <description>
-        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/10/faa6c8f6-allison-saeng-lkoqa_gl3yw-unsplash-1024x768.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/faa6c8f6-allison-saeng-lkoqa_gl3yw-unsplash.jpg" /><p>Software bugs are huge pests, wasting developers&#8217; time and slowing down release cycles. Boris Paskalev, co-founder and CEO of LogicStar</p>
+        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/10/faa6c8f6-allison-saeng-lkoqa_gl3yw-unsplash-1024x768.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/faa6c8f6-allison-saeng-lkoqa_gl3yw-unsplash.jpg" /><p>Software bugs are huge pests, wasting developers&#8217; time and slowing down release cycles. Boris Paskalev, co-founder and CEO of LogicStar</p>
         <p>The post <a href="https://thenewstack.io/logicstar-ai-wants-to-automate-debugging/">LogicStar AI Wants To Automate Debugging</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![](https://cdn.thenewstack.io/media/2025/10/faa6c8f6-allison-saeng-lkoqa_gl3yw-unsplash-1024x768.jpg)
@@ -617,7 +921,7 @@ The US Department of Energy is partnering with Nvidia and Oracle to build seven 
       <title>How MCP and AI are Modernizing Legacy Systems</title>
       <link>https://thenewstack.io/how-mcp-and-ai-are-modernizing-legacy-systems/</link>
       <description>
-        <![CDATA[<img width="1024" height="731" src="https://cdn.thenewstack.io/media/2025/10/7e8a8fc0-modernize-1024x731.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="An escalator used to represent a way to escalate modernization." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/7e8a8fc0-modernize.jpg" /><p>In many large enterprises, a hidden divide defines the technology landscape, creating a two-speed IT organization. On one side, modern,</p>
+        <![CDATA[<img width="1024" height="731" src="https://cdn.thenewstack.io/media/2025/10/7e8a8fc0-modernize-1024x731.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="An escalator used to represent a way to escalate modernization." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/7e8a8fc0-modernize.jpg" /><p>In many large enterprises, a hidden divide defines the technology landscape, creating a two-speed IT organization. On one side, modern,</p>
         <p>The post <a href="https://thenewstack.io/how-mcp-and-ai-are-modernizing-legacy-systems/">How MCP and AI are Modernizing Legacy Systems</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![An escalator used to represent a way to escalate modernization.](https://cdn.thenewstack.io/media/2025/10/7e8a8fc0-modernize-1024x731.jpg)
@@ -688,11 +992,11 @@ Nvidia CEO Jensen Huang on Tuesday announced a partnership with Nokia to integra
       <title>Android malware types like your gran to steal banking creds</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/28/android_malware_randomly_delays_texts/</link>
       <description>
-        <![CDATA[<h4>By appearing more human, it evades detection</h4> <p>A new Android malware strain, Herodotus, steals credentials, logs keystrokes, streams victims&#39; screens, and hijacks input - but with a twist: it mimics human typing by adding random delays between keystrokes to evade behavioral fraud detection systems.…</p>]]>
+        <![CDATA[<h4>By appearing more human, it evades detection</h4> <p><strong>Updated</strong>  A new Android malware strain, Herodotus, steals credentials, logs keystrokes, streams victims&#39; screens, and hijacks input - but with a twist: it mimics human typing by adding random delays between keystrokes to evade behavioral fraud detection systems.…</p>]]>
       </description>
       <source:markdown>#### By appearing more human, it evades detection
 
-A new Android malware strain, Herodotus, steals credentials, logs keystrokes, streams victims&#39; screens, and hijacks input - but with a twist: it mimics human typing by adding random delays between keystrokes to evade behavioral fraud detection systems.…</source:markdown>
+**Updated**  A new Android malware strain, Herodotus, steals credentials, logs keystrokes, streams victims&#39; screens, and hijacks input - but with a twist: it mimics human typing by adding random delays between keystrokes to evade behavioral fraud detection systems.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242710</guid>
     </item>    <item>
       <title>Python Software Foundation has bigger spine than big tech</title>
