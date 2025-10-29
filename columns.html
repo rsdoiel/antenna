@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" >
   <meta name="generator" content="antenna/0.0.15" >
-  <meta name="date" content="2025-10-29T11:09:38-07:00" >
+  <meta name="date" content="2025-10-29T15:09:58-07:00" >
   <link rel="stylesheet" href="css/site.css" >
   <link rel="alternate" type="application/rss+xml" href="columns.xml" >
   <script type="module" src="modules/date_filter.js" ></script>
@@ -54,6 +54,140 @@
 
       <address>
         <a href="https://notes.peter-baumgartner.net/event/example/">https://notes.peter-baumgartner.net/event/example/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-29T21:06:22Z" data-link="https://mastodon.social/@Migueldeicaza/115459488664455021">
+      <h1>@Miguel de Icaza Mastondon feed</h1>
+
+(date: 2025-10-29)
+      <p>
+      <p>Am I the only person that can never log into his Apple accounts every time one of those dialogs pops up, and I have to enter my password like 10 times?</p>
+<p>I swear it only happens with Apple accounts.</p>
+
+      <address>
+        <a href="https://mastodon.social/@Migueldeicaza/115459488664455021">https://mastodon.social/@Migueldeicaza/115459488664455021</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-29T20:45:53Z" data-link="https://simonwillison.net/2025/Oct/29/cursor-composer/#atom-everything">
+      <h1>Composer: Building a fast frontier model with RL</h1>
+
+(date: 2025-10-29)
+      <p>
+      <p><strong><a href="https://cursor.com/blog/composer">Composer: Building a fast frontier model with RL</a></strong></p>
+<p>Cursor released <a href="https://cursor.com/blog/2-0">Cursor 2.0 today</a>, with a refreshed UI focused on agentic coding (and running agents in parallel) and a new model that's unique to Cursor called <strong>Composer 1</strong>.</p>
+<p>As far as I can tell there's no way to call the model directly via an API, so I fired up &quot;Ask&quot; mode in Cursor's chat side panel and asked it to &quot;Generate an SVG of a pelican riding a bicycle&quot;:</p>
+<p><img src="https://static.simonwillison.net/static/2025/cursor-2.jpg" alt="Screenshot of Cursor 2 - In the chat panel I have asked the question and it spat out a bunch of SVG."></p>
+<p>Here's <a href="https://gist.github.com/simonw/e5c9176f153ca718370055ecd256fe70">the result</a>:</p>
+<p><img src="https://static.simonwillison.net/static/2025/cursor-1-pelican.png" alt="The bicycle is levitating against a blue sky. The pelican looks a little bit more like a baby chicken but does at least have a long beak."></p>
+<p>The notable thing about Composer-1 is that it is designed to be <em>fast</em>. The pelican certainly came back quickly, and in their announcement they describe it as being &quot;4x faster than similarly intelligent models&quot;.</p>
+<p>It's interesting to see Cursor investing resources in training their own code-specific model - similar to <a href="https://openai.com/index/introducing-upgrades-to-codex/">GPT-5-Codex</a> or <a href="https://github.com/QwenLM/Qwen3-Coder">Qwen3-Coder</a>. From their post:</p>
+<blockquote>
+<p>Composer is a mixture-of-experts (MoE) language model supporting long-context generation and understanding. It is specialized for software engineering through reinforcement learning (RL) in a diverse range of development environments. [...]</p>
+<p>Efficient training of large MoE models requires significant investment into building infrastructure and systems research. We built custom training infrastructure leveraging PyTorch and Ray to power asynchronous reinforcement learning at scale. We natively train our models at low precision by combining our <a href="https://cursor.com/blog/kernels">MXFP8 MoE kernels</a> with expert parallelism and hybrid sharded data parallelism, allowing us to scale training to thousands of NVIDIA GPUs with minimal communication cost. [...]</p>
+<p>During RL, we want our model to be able to call any tool in the Cursor Agent harness. These tools allow editing code, using semantic search, grepping strings, and running terminal commands. At our scale, teaching the model to effectively call these tools requires running hundreds of thousands of concurrent sandboxed coding environments in the cloud.</p>
+</blockquote>
+<p>One detail that's notably absent from their description: did they train the model from scratch, or did they start with an existing open-weights model such as something from Qwen or GLM?</p>
+<p>Cursor researcher Sasha Rush has been answering questions <a href="https://news.ycombinator.com/item?id=45748725">on Hacker News</a>, but has so far been evasive in answering questions about the base model. When directly asked &quot;is Composer a fine tune of an existing open source base model?&quot; they replied:</p>
+<blockquote>
+<p>Our primary focus is on RL post-training. We think that is the best way to get the model to be a strong interactive agent.</p>
+</blockquote>
+<p>Sasha <a href="https://news.ycombinator.com/item?id=45748725#45750784">did confirm</a> that rumors of an earlier Cursor preview model, Cheetah, being based on a model by xAI's Grok were &quot;Straight up untrue.&quot;</p>
+<p>Via <a href="https://news.ycombinator.com/item?id=45748725">Hacker News</a></p>
+<p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/cursor">cursor</a>, <a href="https://simonwillison.net/tags/parallel-agents">parallel-agents</a></p>
+
+      <address>
+        <a href="https://simonwillison.net/2025/Oct/29/cursor-composer/#atom-everything">https://simonwillison.net/2025/Oct/29/cursor-composer/#atom-everything</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-29T20:39:15Z" data-link="https://mastodon.social/@Migueldeicaza/115459382043784133">
+      <h1>@Miguel de Icaza Mastondon feed</h1>
+
+(date: 2025-10-29)
+      <p>
+      <p>Sometimes, when I get a native crash and I have no idea what happened, I paste the disassembly into aistudio and have it explain to me what is going on.</p>
+<p>It might not be able to count how many letters are in strawberry, but it can pinpoint the root cause for a bug in Apple's Objective-C runtime.</p>
+<p>This is a regression in iOS 26.1 beta:</p>
+
+      <address>
+        <a href="https://mastodon.social/@Migueldeicaza/115459382043784133">https://mastodon.social/@Migueldeicaza/115459382043784133</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-29T20:38:00Z" data-link="https://bsky.app/profile/barackobama.bsky.social/post/3m4ecirihas2r">
+      <h1>@Barack Obama @Bsky</h1>
+
+(date: 2025-10-29)
+      <p>
+      <p>Pennsylvania has an important Supreme Court race coming up on Tuesday, November 4. If you live in the Keystone State, or know someone who does, vote YES to retain three justices who will protect your fundamental rights and freedoms.</p>
+
+      <address>
+        <a href="https://bsky.app/profile/barackobama.bsky.social/post/3m4ecirihas2r">https://bsky.app/profile/barackobama.bsky.social/post/3m4ecirihas2r</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-29T20:26:02Z" data-link="https://www.inquirer.com/entertainment/media/pierre-robert-wmmr-host-death-20251029.html">
+      <h1>Local Note: WMMR’s Pierre Robert Found Dead at 70</h1>
+
+(date: 2025-10-29)
+      <p>
+      
+      <address>
+        <a href="https://www.inquirer.com/entertainment/media/pierre-robert-wmmr-host-death-20251029.html">https://www.inquirer.com/entertainment/media/pierre-robert-wmmr-host-death-20251029.html</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-29T18:43:06Z" data-link="http://scripting.com/2025/10/29/184306.html?title=honoringPeopleWhoAreAlive">
+      <h1>Honoring people who are alive</h1>
+
+(date: 2025-10-29)
+      <p>
+      <p>Wouldn't it be great if there was a holiday once a year where each of us had a virtual awards show for people we know who have special qualities that make them excellent people or friends. We put all our focus on a few personalities who have obvious defects. And we don't express public gushing love until people die. How much better our lives would be if we focused on the good, generous and creative people among us who have made our lives better?</p>
+<p>I would honor people I love because they project strength and empathy, for me that would be AOC who I'd love to have as a niece or sister, or aunt, and no doubt she'd make a great mom. I don't like Schumer because he's sad and stupid. We need someone in that role who's more like JFK or even LBJ. Confident bordering on arrogance. Someone with the <a href="https://daytona.scripting.com/search?q=gravitas">gravitas</a> Schumer doesn't project.</p>
+<p>I would give an award to <a href="https://daytona.scripting.com/search?q=%22Philippe%20Kahn%22">Philippe Kahn</a> for practical brilliance. I've learned from everyone I've competed with, and he had a practical philosophy about software I had never seen before. A feature that he saw that made the product more brilliant. They weren't huge things, but they showed he was thinking about the user. Not surprising that a few years after our competiton between Sidekick and Ready he went on to prove that a mobile phone would make a great camera. He not only thought of it, he made it work. That's the kind of spirit I admire.</p>
+<p>I was on panels with him a few times, he always had funny things to say, irreverant, sarcastic, but one time he let Bill Gates have it (he was in the room) and called him out for &quot;hogging the fast lane&quot; -- and even though I don't remember what the issue was, I do remember that I knew he was totally right.</p>
+<p>He's very much <a href="https://en.wikipedia.org/wiki/Philippe_Kahn">alive</a> as far as I know. But I think it would be nice to write our epitaphs while the people we're praising are around to hear it! So going back to the original awards, that would be a requirement, the people you call out must be alive.</p>
+
+      <address>
+        <a href="http://scripting.com/2025/10/29/184306.html?title=honoringPeopleWhoAreAlive">http://scripting.com/2025/10/29/184306.html?title=honoringPeopleWhoAreAlive</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-29T18:16:24Z" data-link="https://mjtsai.com/blog/2025/10/29/swift-6-2-notificationcenter-messages/">
+      <h1>Swift 6.2: NotificationCenter Messages</h1>
+
+(date: 2025-10-29)
+      <p>
+      <p>Holly Borla: In Swift 6.2, the Foundation library includes a modern NotificationCenter API that uses concrete notification types instead of relying on strings and untyped dictionaries for notification names and payloads. This means you can define a notification struct with stored properties, and observers can use the type without error-prone indexing and dynamic casting. Apple: […]</p>
+
+      <address>
+        <a href="https://mjtsai.com/blog/2025/10/29/swift-6-2-notificationcenter-messages/">https://mjtsai.com/blog/2025/10/29/swift-6-2-notificationcenter-messages/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-29T18:15:52Z" data-link="https://mjtsai.com/blog/2025/10/29/swift-6-2/">
+      <h1>Swift 6.2</h1>
+
+(date: 2025-10-29)
+      <p>
+      <p>Holly Borla: InlineArray is a new fixed-size array with inline storage for elements, which can be stored on the stack or directly within other types without additional heap allocation.[…]The new Span type offers safe, direct access to contiguous memory. Span maintains memory safety by ensuring the memory remains valid while you’re using it.[…]Swift 6.2 introduces […]</p>
+
+      <address>
+        <a href="https://mjtsai.com/blog/2025/10/29/swift-6-2/">https://mjtsai.com/blog/2025/10/29/swift-6-2/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-10-29T18:14:47Z" data-link="https://mjtsai.com/blog/2025/10/29/imgur-blocks-uk-users-over-age-verification/">
+      <h1>Imgur Blocks UK Users Over Age Verification</h1>
+
+(date: 2025-10-29)
+      <p>
+      <p>Imgur TOS Update (2021, via Hacker News): No nudity or sexually explicit content. Provocative, inflammatory, unsettling, or suggestive content should be marked as Mature. No hate speech, abuse or harassment. No content that condones illegal or violent activity. Connor Jones (Hacker News): The UK’s data watchdog has described Imgur’s move to block UK users as […]</p>
+
+      <address>
+        <a href="https://mjtsai.com/blog/2025/10/29/imgur-blocks-uk-users-over-age-verification/">https://mjtsai.com/blog/2025/10/29/imgur-blocks-uk-users-over-age-verification/</a>
       </address>
     </article>
 

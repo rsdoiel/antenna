@@ -4,19 +4,75 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>29 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>29 Oct 25 15:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>No FF party meeting as Taoiseach travels to Brazil</title>
+      <title>Rovers wrap up title with narrow win over Galway United</title>
+      <link>https://www.rte.ie/sport/soccer/2025/1029/1541055-rovers-wrap-up-title-with-narrow-win-over-galway-united/</link>
+      <description>
+        <![CDATA[Shamrock Rovers have won the SSE Airtricity League Men's Premier Division title after a 1-0 victory over Galway United.]]>
+      </description>
+      <source:markdown>Shamrock Rovers have won the SSE Airtricity League Men&#39;s Premier Division title after a 1-0 victory over Galway United.</source:markdown>
+      <guid>cid://https://www.rte.ie/sport/soccer/2025/1029/1541055-rovers-wrap-up-title-with-narrow-win-over-galway-united/</guid>
+    </item>    <item>
+      <title>Govt should reconsider immigration policies, says Harris</title>
+      <link>https://www.rte.ie/news/2025/1029/1541211-tanaiste-immigration/</link>
+      <description>
+        <![CDATA[Tánaiste and Fine Gael leader Simon Harris has said Ireland's asylum seeker system is not working and that the Government should reconsider existing policies "in a very serious way".]]>
+      </description>
+      <source:markdown>Tánaiste and Fine Gael leader Simon Harris has said Ireland&#39;s asylum seeker system is not working and that the Government should reconsider existing policies &#34;in a very serious way&#34;.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1029/1541211-tanaiste-immigration/</guid>
+    </item>    <item>
+      <title>Over 100 killed in Rio police crackdown on powerful gang</title>
+      <link>https://www.rte.ie/news/world/2025/1029/1541212-rio-de-janeiro/</link>
+      <description>
+        <![CDATA[Residents of a Rio de Janeiro community lined up their dead in the street after Brazil's bloodiest police raid killed at least 119 people, spotlighting the city's controversial war against drug gangs entrenched in poor neighborhoods.]]>
+      </description>
+      <source:markdown>Residents of a Rio de Janeiro community lined up their dead in the street after Brazil&#39;s bloodiest police raid killed at least 119 people, spotlighting the city&#39;s controversial war against drug gangs entrenched in poor neighborhoods.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2025/1029/1541212-rio-de-janeiro/</guid>
+    </item>    <item>
+      <title>Fastway firm&#39;s decision &#39;will have devastating effect&#39;</title>
+      <link>https://www.rte.ie/news/ireland/2025/1029/1541200-fastway/</link>
+      <description>
+        <![CDATA[The President of the Irish Road Haulage Association (IRHA) has described the decision of Fastway's parent company to enter receivership as "a huge blow".]]>
+      </description>
+      <source:markdown>The President of the Irish Road Haulage Association (IRHA) has described the decision of Fastway&#39;s parent company to enter receivership as &#34;a huge blow&#34;.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/1029/1541200-fastway/</guid>
+    </item>    <item>
+      <title>RTÉ receives complaint over climate coverage in debates</title>
+      <link>https://www.rte.ie/news/ireland/2025/1029/1541191-rte-debates/</link>
+      <description>
+        <![CDATA[RTÉ has received a letter of complaint from a group including academics, doctors and public representatives over what they described as the "omission of climate, sustainability and environmental issues" from debates held during the Presidential Election campaign.]]>
+      </description>
+      <source:markdown>RTÉ has received a letter of complaint from a group including academics, doctors and public representatives over what they described as the &#34;omission of climate, sustainability and environmental issues&#34; from debates held during the Presidential Election campaign.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/1029/1541191-rte-debates/</guid>
+    </item>    <item>
+      <title>Man who caused niece&#39;s death was &#39;reckless, dangerous&#39;</title>
+      <link>https://www.rte.ie/news/courts/2025/1029/1541190-marguerita-orourke/</link>
+      <description>
+        <![CDATA[The husband of a woman killed in a hit-and-run involving her uncle has described the defendant's behaviour as "reckless, violent and dangerous".]]>
+      </description>
+      <source:markdown>The husband of a woman killed in a hit-and-run involving her uncle has described the defendant&#39;s behaviour as &#34;reckless, violent and dangerous&#34;.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/courts/2025/1029/1541190-marguerita-orourke/</guid>
+    </item>    <item>
+      <title>Podcast: Micheál Martin&#39;s future and RTÉ back in the news</title>
+      <link>https://www.rte.ie/news/presidential-election/2025/1029/1541185-podcast-micheal-martins-future-and-rte-back-in-the-news/</link>
+      <description>
+        <![CDATA[Micheál Martin's leadership is "in more bother" than ever before, RTÉ Radio One reporter Barry Lenihan has told Behind the Story.]]>
+      </description>
+      <source:markdown>Micheál Martin&#39;s leadership is &#34;in more bother&#34; than ever before, RTÉ Radio One reporter Barry Lenihan has told Behind the Story.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/presidential-election/2025/1029/1541185-podcast-micheal-martins-future-and-rte-back-in-the-news/</guid>
+    </item>    <item>
+      <title>Taoiseach to miss FF party meeting due to Brazil trip</title>
       <link>https://www.rte.ie/news/politics/2025/1029/1541183-fianna-fail-pp/</link>
       <description>
-        <![CDATA[Fianna Fáil will not hold its weekly meeting of party TDs and senators next week as the Taoiseach Micheál Martin will be travelling to the COP summit in Brazil.]]>
+        <![CDATA[Fianna Fáil leader Micheal Martin will not attend the weekly meeting of his party's TDs and senators next week as he will be travelling to the COP summit in Brazil.]]>
       </description>
-      <source:markdown>Fianna Fáil will not hold its weekly meeting of party TDs and senators next week as the Taoiseach Micheál Martin will be travelling to the COP summit in Brazil.</source:markdown>
+      <source:markdown>Fianna Fáil leader Micheal Martin will not attend the weekly meeting of his party&#39;s TDs and senators next week as he will be travelling to the COP summit in Brazil.</source:markdown>
       <guid>cid://https://www.rte.ie/news/politics/2025/1029/1541183-fianna-fail-pp/</guid>
     </item>    <item>
-      <title>Ruling on access to children in estranged gay couple case</title>
+      <title>Man granted access to children fathered by ex-partner</title>
       <link>https://www.rte.ie/news/courts/2025/1029/1541176-father-family-law-court/</link>
       <description>
         <![CDATA[A judge has granted access to a man to two young children fathered by his ex-partner despite the father describing the man now as a "stranger" to the two children.]]>
@@ -24,7 +80,7 @@
       <source:markdown>A judge has granted access to a man to two young children fathered by his ex-partner despite the father describing the man now as a &#34;stranger&#34; to the two children.</source:markdown>
       <guid>cid://https://www.rte.ie/news/courts/2025/1029/1541176-father-family-law-court/</guid>
     </item>    <item>
-      <title>School gets State funding to pay for security for Burke</title>
+      <title>Extra State funding for security at school Burke attends</title>
       <link>https://www.rte.ie/news/2025/1029/1541180-enoch-burke/</link>
       <description>
         <![CDATA[Additional State funding is to be given to a school to help pay for security as Irish teacher Enoch Burke continues to attend school grounds.]]>
@@ -55,6 +111,16 @@
       </description>
       <source:markdown>Joe Duffy was RTÉ&#39;s highest-paid presenter, earning €351,000 in both 2024 and 2023, according to figures from RTÉ&#39;s Annual Report.</source:markdown>
       <guid>cid://https://www.rte.ie/entertainment/2025/1029/1541130-rtes-top-10-highest-paid-presenters-revealed-for-2024/</guid>
+    </item>    <item>
+      <title>Microsoft&#39;s cloud services firm Azure hit with outage, says customers should see improvement soon</title>
+      <link>https://www.cbc.ca/news/business/issues-come-just-over-a-week-after-amazon-s-cloud-service-outage-9.6958792?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/b2f3f741-a4b7-4483-a026-519938465317,1761761776617/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C371%2C5921%2C3330%29%3BResize%3D%28620%29' alt='The Microsoft logo is affixed to the side of a building.' width='620' height='349' title='A Microsoft logo is seen on an office building in New York City in this July 28, 2015 photo.'/><p>Microsoft says users of its Azure cloud portal may be not be able to access Office 365, Minecraft or other services due to issues with its global content delivery network services.</p>]]>
+      </description>
+      <source:markdown>![The Microsoft logo is affixed to the side of a building.](https://i.cbc.ca/ais/b2f3f741-a4b7-4483-a026-519938465317,1761761776617/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C371%2C5921%2C3330%29%3BResize%3D%28620%29)
+
+Microsoft says users of its Azure cloud portal may be not be able to access Office 365, Minecraft or other services due to issues with its global content delivery network services.</source:markdown>
+      <guid>cid://9.6958792</guid>
     </item>    <item>
       <title>Israeli airstrikes kill at least 100 Palestinians in Gaza</title>
       <link>https://www.vaticannews.va/en/world/news/2025-10/israel-gaza-strikes-ceasefire-deaths-palestiinians.html</link>
@@ -178,6 +244,42 @@ Olympic athletes in February will compete in Milan-Cortina, Italy and three othe
       <source:markdown>Horrific stories of mass-atrocities committed by the RSF militia continue to emerge, along with the tens of thousands of civilians who have fled the North Darfur city of El Fasher in Sudan.</source:markdown>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-10-2015-UNICEF-Darfur-06.jpg/image560x340cropped.jpg" length="38888" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/10/1166210</guid>
+    </item>    <item>
+      <title>South Sudan at risk of return to war, UN investigators warn</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166218</link>
+      <description>
+        <![CDATA[South Sudan faces a renewed slide into full-scale conflict unless urgent international action is taken, the UN-appointed independent investigative body examining human rights there warned on Wednesday.]]>
+      </description>
+      <source:markdown>South Sudan faces a renewed slide into full-scale conflict unless urgent international action is taken, the UN-appointed independent investigative body examining human rights there warned on Wednesday.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/14-08-2025-UNOCHA-South-Sudan.jpg/image560x340cropped.jpg" length="38050" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166218</guid>
+    </item>    <item>
+      <title>Hurricane Melissa: Devastation in Jamaica at levels ‘never been seen before’</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166217</link>
+      <description>
+        <![CDATA[As Hurricane Melissa moved north of Jamaica on Wednesday, the head of the UN team there said that preliminary damage assessments from the category 5 storm showed a level of devastation “never seen before” on the Caribbean island.]]>
+      </description>
+      <source:markdown>As Hurricane Melissa moved north of Jamaica on Wednesday, the head of the UN team there said that preliminary damage assessments from the category 5 storm showed a level of devastation “never seen before” on the Caribbean island.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/28-10-2015-WFP-hurricane-Melissa-02.jpg/image560x340cropped.jpg" length="32362" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166217</guid>
+    </item>    <item>
+      <title>Towards a fairer world: Leaders gather in Doha to renew social pact</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166208</link>
+      <description>
+        <![CDATA[What does it mean to build a society where everyone truly belongs? In a world increasingly shaped by digital divides, demographic shifts and climate disruption, the promise of ‘social development for all’ feels urgent, if elusive.]]>
+      </description>
+      <source:markdown>What does it mean to build a society where everyone truly belongs? In a world increasingly shaped by digital divides, demographic shifts and climate disruption, the promise of ‘social development for all’ feels urgent, if elusive.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/29-10-2025-UNICEF-Young_people_WSSD2.jpeg/image560x340cropped.jpg" length="44257" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166208</guid>
+    </item>    <item>
+      <title>Amid shifting alliances, General Assembly demands end to US embargo on Cuba</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166213</link>
+      <description>
+        <![CDATA[The UN General Assembly on Wednesday has – for the 33rd consecutive year – adopted a resolution calling for an end to the decades-long United States embargo against Cuba.]]>
+      </description>
+      <source:markdown>The UN General Assembly on Wednesday has – for the 33rd consecutive year – adopted a resolution calling for an end to the decades-long United States embargo against Cuba.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/29-10-2025-UN_Photo-GA_vote.jpeg/image560x340cropped.jpg" length="32222" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166213</guid>
     </item>    <item>
       <title>Ukraine says children&#39;s hospital hit in Russian attack</title>
       <link>https://www.rte.ie/news/ukraine/2025/1029/1541116-ukraine-russia/</link>
@@ -308,6 +410,14 @@ The Israeli military said on Wednesday that it will abide by a ceasefire accor
       <source:markdown>Minister for Arts, Culture and Media Patrick O&#39;Donovan has said he wants to hear more from RTÉ about a series of pension payments.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1029/1541012-rte-payments/</guid>
     </item>    <item>
+      <title>Historic RTÉ pension top-ups were approved, says Bakhurst</title>
+      <link>https://www.rte.ie/news/ireland/2025/1029/1541012-rte-payments-bakhurst/</link>
+      <description>
+        <![CDATA[RTÉ Director General Kevin Bakhurst has said that while some historic pension top-ups were approved at the time, the issue is how they were reported in RTÉ's "balance sheet".]]>
+      </description>
+      <source:markdown>RTÉ Director General Kevin Bakhurst has said that while some historic pension top-ups were approved at the time, the issue is how they were reported in RTÉ&#39;s &#34;balance sheet&#34;.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/1029/1541012-rte-payments-bakhurst/</guid>
+    </item>    <item>
       <title>DJ Carey in hospital, sentencing adjourned until Friday</title>
       <link>https://www.rte.ie/news/courts/2025/1029/1541045-dj-carey-court/</link>
       <description>
@@ -332,12 +442,12 @@ The Israeli military said on Wednesday that it will abide by a ceasefire accor
       <source:markdown>The Dutch are voting in a national election with a choice between doubling down on the anti-immigration nationalism of populist Geert Wilders, who sank the last conservative coalition after a fractious two years, or a return to the centre.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1029/1541052-netherlands-election/</guid>
     </item>    <item>
-      <title>Dutch go to the polls in test for Europe&#39;s far right</title>
+      <title>Exit poll suggests centrists win Dutch vote</title>
       <link>https://www.rte.ie/news/europe/2025/1029/1541052-netherlands-election/</link>
       <description>
-        <![CDATA[The Dutch are voting in a national election with a choice between doubling down on the anti-immigration nationalism of populist Geert Wilders, who sank the last conservative coalition after a fractious two years, or a return to the centre.]]>
+        <![CDATA[Dutch voters appeared to have shunned far-right leader Geert Wilders in favour of a centrist party, exit polls have suggested, after a snap election watched closely in Europe where extremists are gaining ground.]]>
       </description>
-      <source:markdown>The Dutch are voting in a national election with a choice between doubling down on the anti-immigration nationalism of populist Geert Wilders, who sank the last conservative coalition after a fractious two years, or a return to the centre.</source:markdown>
+      <source:markdown>Dutch voters appeared to have shunned far-right leader Geert Wilders in favour of a centrist party, exit polls have suggested, after a snap election watched closely in Europe where extremists are gaining ground.</source:markdown>
       <guid>cid://https://www.rte.ie/news/europe/2025/1029/1541052-netherlands-election/</guid>
     </item>    <item>
       <title>If China invades Taiwan, these islands would be on the front line. But there&#39;s little panic here</title>
@@ -365,6 +475,14 @@ CBC News visited Taiwan’s Kinmen islands, which are just a few kilometres acro
       </description>
       <source:markdown>Cubans waded through flooded houses today, and authorities in Haiti reported 20 dead as Hurricane Melissa blasted across the Caribbean after devastating swaths of Jamaica.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1029/1541050-hurricane-melissa-caribbean/</guid>
+    </item>    <item>
+      <title>First deaths from Hurricane Melissa reported in Jamaica</title>
+      <link>https://www.rte.ie/news/world/2025/1029/1541050-hurricane-melissa-caribbean/</link>
+      <description>
+        <![CDATA[Hurricane Melissa has blasted across the Caribbean, leaving 30 dead or missing in Haiti and four dead in Jamaica.]]>
+      </description>
+      <source:markdown>Hurricane Melissa has blasted across the Caribbean, leaving 30 dead or missing in Haiti and four dead in Jamaica.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2025/1029/1541050-hurricane-melissa-caribbean/</guid>
     </item>    <item>
       <title>IDF says it conducted targeted strike in northern Gaza</title>
       <link>https://www.rte.ie/news/2025/1029/1541046-middle-east/</link>
@@ -990,12 +1108,12 @@ The NBA, in reaction to the arrests of Miami guard Terry Rozier and Portland coa
       <source:markdown>![STORM-MELISSA/](https://i.cbc.ca/ais/9bcd883d-cd3d-48bb-9c57-eef36fa2692a,1761697507409/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29)</source:markdown>
       <guid>cid://9.6955632</guid>
     </item>    <item>
-      <title>Hurricane Melissa blamed for 25 deaths in Haiti, as Jamaican, Cuban officials assess damage</title>
+      <title>Hurricane Melissa blamed for dozens of deaths in the Caribbean, as Jamaican, Cuban officials assess damage</title>
       <link>https://www.cbc.ca/news/world/hurricane-melissa-bahamas-cuba-jamaica-9.6957826?cmp=rss</link>
       <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/4a617679-1efc-48c6-a667-2bf0037d8071,1761737918452/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt='Hurricane Melissa left infrastructure &apos;severely compromised,&apos; say Jamaican officials' width='620' height='349' title='Hurricane Melissa left infrastructure &apos;severely compromised,&apos; say Jamaican officials'/><p></p>]]>
+        <![CDATA[<img src='https://i.cbc.ca/ais/d9a3ada0-a9e9-45db-b537-6f3e44a76aab,1761768400092/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A person leans down and dumps water from a green bucket. They are standing in a narrow, darkened lane between tents, with water up to their ankles.' width='620' height='349' title=''/><p></p>]]>
       </description>
-      <source:markdown>![Hurricane Melissa left infrastructure &#39;severely compromised,&#39; say Jamaican officials](https://i.cbc.ca/ais/4a617679-1efc-48c6-a667-2bf0037d8071,1761737918452/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29)</source:markdown>
+      <source:markdown>![A person leans down and dumps water from a green bucket. They are standing in a narrow, darkened lane between tents, with water up to their ankles.](https://i.cbc.ca/ais/d9a3ada0-a9e9-45db-b537-6f3e44a76aab,1761768400092/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29)</source:markdown>
       <guid>cid://9.6955632</guid>
     </item>    <item>
       <title>Pope signs Apostolic Letter marking sixtieth anniversary of Gravissimum Educationis</title>
@@ -5112,7 +5230,7 @@ A divided U.S. appeals court ruled on Monday that Donald Trump can send Natio
       <source:markdown>![The Louvre Pyramid in the background. 3 police officers stand in the foreground](https://i.cbc.ca/ais/b1d58692-6209-4db1-87c0-b258faa56226,1761511986485/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3BResize%3D%28620%29)</source:markdown>
       <guid>cid://9.6945622</guid>
     </item>    <item>
-      <title>2 suspects in Louvre heist ‘partially&#39; admit their participation: prosecutor</title>
+      <title>2 suspects in Louvre heist &#39;partially&#39; admit their participation: prosecutor</title>
       <link>https://www.cbc.ca/news/world/louvre-jewel-heist-suspects-9.6958614?cmp=rss</link>
       <description>
         <![CDATA[<img src='https://i.cbc.ca/ais/15f6c2ec-be8e-450d-85ba-980160505fa9,1761758448310/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C180%2C3448%2C1939%29%3BResize%3D%28620%29' alt='Three men and a woman sit behind a long table with microphones at each of their places.' width='620' height='349' title='Paris prosecutor Laure Beccuau speaks next to Pascal Carreau, Head of the BRB (Brigade for the Repression of Banditry), Jean-Baptiste Felicite, Head of the OCBC, Central Office for Combating Trafficking in Cultural Goods, and Fabrice Gardon, Director of the Judicial Police at the Paris Police Prefecture during a press conference about the investigation into the Louvre Museum robbery in Paris, France, Oct. 29, 2025.'/><p></p>]]>

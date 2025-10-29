@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>29 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>29 Oct 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -38,6 +38,146 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115459488664455021</link>
+      <description>
+        <![CDATA[<p>Am I the only person that can never log into his Apple accounts every time one of those dialogs pops up, and I have to enter my password like 10 times?</p><p>I swear it only happens with Apple accounts.</p>]]>
+      </description>
+      <source:markdown>Am I the only person that can never log into his Apple accounts every time one of those dialogs pops up, and I have to enter my password like 10 times?
+
+I swear it only happens with Apple accounts.</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115459488664455021</guid>
+    </item>    <item>
+      <title>Composer: Building a fast frontier model with RL</title>
+      <link>https://simonwillison.net/2025/Oct/29/cursor-composer/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://cursor.com/blog/composer">Composer: Building a fast frontier model with RL</a></strong></p>
+        Cursor released <a href="https://cursor.com/blog/2-0">Cursor 2.0 today</a>, with a refreshed UI focused on agentic coding (and running agents in parallel) and a new model that's unique to Cursor called <strong>Composer&nbsp;1</strong>.</p>
+        <p>As far as I can tell there's no way to call the model directly via an API, so I fired up "Ask" mode in Cursor's chat side panel and asked it to "Generate an SVG of a pelican riding a bicycle":</p>
+        <p><img alt="Screenshot of Cursor 2 - In the chat panel I have asked the question and it spat out a bunch of SVG." src="https://static.simonwillison.net/static/2025/cursor-2.jpg" /></p>
+        <p>Here's <a href="https://gist.github.com/simonw/e5c9176f153ca718370055ecd256fe70">the result</a>:</p>
+        <p><img alt="The bicycle is levitating against a blue sky. The pelican looks a little bit more like a baby chicken but does at least have a long beak." src="https://static.simonwillison.net/static/2025/cursor-1-pelican.png" /></p>
+        <p>The notable thing about Composer-1 is that it is designed to be <em>fast</em>. The pelican certainly came back quickly, and in their announcement they describe it as being "4x faster than similarly intelligent models".</p>
+        <p>It's interesting to see Cursor investing resources in training their own code-specific model - similar to <a href="https://openai.com/index/introducing-upgrades-to-codex/">GPT-5-Codex</a> or <a href="https://github.com/QwenLM/Qwen3-Coder">Qwen3-Coder</a>. From their post:</p>
+        <blockquote>
+        <p>Composer is a mixture-of-experts (MoE) language model supporting long-context generation and understanding. It is specialized for software engineering through reinforcement learning (RL) in a diverse range of development environments. [...]</p>
+        <p>Efficient training of large MoE models requires significant investment into building infrastructure and systems research. We built custom training infrastructure leveraging PyTorch and Ray to power asynchronous reinforcement learning at scale. We natively train our models at low precision by combining our <a href="https://cursor.com/blog/kernels">MXFP8 MoE kernels</a> with expert parallelism and hybrid sharded data parallelism, allowing us to scale training to thousands of NVIDIA GPUs with minimal communication cost. [...]</p>
+        <p>During RL, we want our model to be able to call any tool in the Cursor Agent harness. These tools allow editing code, using semantic search, grepping strings, and running terminal commands. At our scale, teaching the model to effectively call these tools requires running hundreds of thousands of concurrent sandboxed coding environments in the cloud.</p>
+        </blockquote>
+        <p>One detail that's notably absent from their description: did they train the model from scratch, or did they start with an existing open-weights model such as something from Qwen or GLM?</p>
+        <p>Cursor researcher Sasha Rush has been answering questions <a href="https://news.ycombinator.com/item?id=45748725">on Hacker News</a>, but has so far been evasive in answering questions about the base model. When directly asked "is Composer a fine tune of an existing open source base model?" they replied:</p>
+        <blockquote>
+        <p>Our primary focus is on RL post-training. We think that is the best way to get the model to be a strong interactive agent.</p>
+        </blockquote>
+        <p>Sasha <a href="https://news.ycombinator.com/item?id=45748725#45750784">did confirm</a> that rumors of an earlier Cursor preview model, Cheetah, being based on a model by xAI's Grok were "Straight up untrue."
+        
+            <p><small></small>Via <a href="https://news.ycombinator.com/item?id=45748725">Hacker News</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/cursor">cursor</a>, <a href="https://simonwillison.net/tags/parallel-agents">parallel-agents</a></p>]]>
+      </description>
+      <source:markdown>**[Composer: Building a fast frontier model with RL](https://cursor.com/blog/composer)**
+
+Cursor released [Cursor 2.0 today](https://cursor.com/blog/2-0), with a refreshed UI focused on agentic coding (and running agents in parallel) and a new model that&#39;s unique to Cursor called **Composer 1**.
+
+As far as I can tell there&#39;s no way to call the model directly via an API, so I fired up &#34;Ask&#34; mode in Cursor&#39;s chat side panel and asked it to &#34;Generate an SVG of a pelican riding a bicycle&#34;:
+
+![Screenshot of Cursor 2 - In the chat panel I have asked the question and it spat out a bunch of SVG.](https://static.simonwillison.net/static/2025/cursor-2.jpg)
+
+Here&#39;s [the result](https://gist.github.com/simonw/e5c9176f153ca718370055ecd256fe70):
+
+![The bicycle is levitating against a blue sky. The pelican looks a little bit more like a baby chicken but does at least have a long beak.](https://static.simonwillison.net/static/2025/cursor-1-pelican.png)
+
+The notable thing about Composer-1 is that it is designed to be _fast_. The pelican certainly came back quickly, and in their announcement they describe it as being &#34;4x faster than similarly intelligent models&#34;.
+
+It&#39;s interesting to see Cursor investing resources in training their own code-specific model - similar to [GPT-5-Codex](https://openai.com/index/introducing-upgrades-to-codex/) or [Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder). From their post:
+
+&#62; Composer is a mixture-of-experts (MoE) language model supporting long-context generation and understanding. It is specialized for software engineering through reinforcement learning (RL) in a diverse range of development environments. \[...\]
+&#62;
+&#62; Efficient training of large MoE models requires significant investment into building infrastructure and systems research. We built custom training infrastructure leveraging PyTorch and Ray to power asynchronous reinforcement learning at scale. We natively train our models at low precision by combining our [MXFP8 MoE kernels](https://cursor.com/blog/kernels) with expert parallelism and hybrid sharded data parallelism, allowing us to scale training to thousands of NVIDIA GPUs with minimal communication cost. \[...\]
+&#62;
+&#62; During RL, we want our model to be able to call any tool in the Cursor Agent harness. These tools allow editing code, using semantic search, grepping strings, and running terminal commands. At our scale, teaching the model to effectively call these tools requires running hundreds of thousands of concurrent sandboxed coding environments in the cloud.
+
+One detail that&#39;s notably absent from their description: did they train the model from scratch, or did they start with an existing open-weights model such as something from Qwen or GLM?
+
+Cursor researcher Sasha Rush has been answering questions [on Hacker News](https://news.ycombinator.com/item?id=45748725), but has so far been evasive in answering questions about the base model. When directly asked &#34;is Composer a fine tune of an existing open source base model?&#34; they replied:
+
+&#62; Our primary focus is on RL post-training. We think that is the best way to get the model to be a strong interactive agent.
+
+Sasha [did confirm](https://news.ycombinator.com/item?id=45748725#45750784) that rumors of an earlier Cursor preview model, Cheetah, being based on a model by xAI&#39;s Grok were &#34;Straight up untrue.&#34;
+
+
+
+Via [Hacker News](https://news.ycombinator.com/item?id=45748725)
+
+Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [pelican-riding-a-bicycle](https://simonwillison.net/tags/pelican-riding-a-bicycle), [llm-release](https://simonwillison.net/tags/llm-release), [coding-agents](https://simonwillison.net/tags/coding-agents), [cursor](https://simonwillison.net/tags/cursor), [parallel-agents](https://simonwillison.net/tags/parallel-agents)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/29/cursor-composer/#atom-everything</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115459382043784133</link>
+      <description>
+        <![CDATA[<p>Sometimes, when I get a native crash and I have no idea what happened, I paste the disassembly into aistudio and have it explain to me what is going on.</p><p>It might not be able to count how many letters are in strawberry, but it can pinpoint the root cause for a bug in Apple&#39;s Objective-C runtime.</p><p>This is a regression in iOS 26.1 beta:</p>]]>
+      </description>
+      <source:markdown>Sometimes, when I get a native crash and I have no idea what happened, I paste the disassembly into aistudio and have it explain to me what is going on.
+
+It might not be able to count how many letters are in strawberry, but it can pinpoint the root cause for a bug in Apple&#39;s Objective-C runtime.
+
+This is a regression in iOS 26.1 beta:</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115459382043784133</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m4ecirihas2r</link>
+      <description>
+        <![CDATA[Pennsylvania has an important Supreme Court race coming up on Tuesday, November 4. If you live in the Keystone State, or know someone who does, vote YES to retain three justices who will protect your fundamental rights and freedoms.]]>
+      </description>
+      <source:markdown>Pennsylvania has an important Supreme Court race coming up on Tuesday, November 4. If you live in the Keystone State, or know someone who does, vote YES to retain three justices who will protect your fundamental rights and freedoms.</source:markdown>
+      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m4ecirihas2r</guid>
+    </item>    <item>
+      <title>Local Note: WMMR’s Pierre Robert Found Dead at 70</title>
+      <link>https://www.inquirer.com/entertainment/media/pierre-robert-wmmr-host-death-20251029.html</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42331</guid>
+    </item>    <item>
+      <title>Honoring people who are alive</title>
+      <link>http://scripting.com/2025/10/29/184306.html?title=honoringPeopleWhoAreAlive</link>
+      <description>
+        <![CDATA[<p>Wouldn't it be great if there was a holiday once a year where each of us had a virtual awards show for people we know who have special qualities that make them excellent people or friends. We put all our focus on a few personalities who have obvious defects. And we don't express public gushing love until people die. How much better our lives would be if we focused on the good, generous and creative people among us who have made our lives better? </p>
+        <p>I would honor people I love because they project strength and empathy, for me that would be AOC who I'd love to have as a niece or sister, or aunt, and no doubt she'd make a great mom. I don't like Schumer because he's sad and stupid. We need someone in that role who's more like JFK or even LBJ. Confident bordering on arrogance. Someone with the <a href="https://daytona.scripting.com/search?q=gravitas">gravitas</a> Schumer doesn't project. </p>
+        <p>I would give an award to <a href="https://daytona.scripting.com/search?q=%22Philippe%20Kahn%22">Philippe Kahn</a> for practical brilliance. I've learned from everyone I've competed with, and he had a practical philosophy about software I had never seen before. A feature that he saw that made the product more brilliant. They weren't huge things, but they showed he was thinking about the user. Not surprising that a few years after our competiton between Sidekick and Ready he went on to prove that a mobile phone would make a great camera. He not only thought of it, he made it work. That's the kind of spirit I admire. </p>
+        <p>I was on panels with him a few times, he always had funny things to say, irreverant, sarcastic, but one time he let Bill Gates have it (he was in the room) and called him out for "hogging the fast lane" -- and even though I don't remember what the issue was, I do remember that I knew he was totally right. </p>
+        <p>He's very much <a href="https://en.wikipedia.org/wiki/Philippe_Kahn">alive</a> as far as I know. But I think it would be nice to write our epitaphs while the people we're praising are around to hear it! So going back to the original awards, that would be a requirement, the people you call out must be alive. </p>]]>
+      </description>
+      <source:markdown>Wouldn&#39;t it be great if there was a holiday once a year where each of us had a virtual awards show for people we know who have special qualities that make them excellent people or friends. We put all our focus on a few personalities who have obvious defects. And we don&#39;t express public gushing love until people die. How much better our lives would be if we focused on the good, generous and creative people among us who have made our lives better?
+
+I would honor people I love because they project strength and empathy, for me that would be AOC who I&#39;d love to have as a niece or sister, or aunt, and no doubt she&#39;d make a great mom. I don&#39;t like Schumer because he&#39;s sad and stupid. We need someone in that role who&#39;s more like JFK or even LBJ. Confident bordering on arrogance. Someone with the [gravitas](https://daytona.scripting.com/search?q=gravitas) Schumer doesn&#39;t project.
+
+I would give an award to [Philippe Kahn](https://daytona.scripting.com/search?q=%22Philippe%20Kahn%22) for practical brilliance. I&#39;ve learned from everyone I&#39;ve competed with, and he had a practical philosophy about software I had never seen before. A feature that he saw that made the product more brilliant. They weren&#39;t huge things, but they showed he was thinking about the user. Not surprising that a few years after our competiton between Sidekick and Ready he went on to prove that a mobile phone would make a great camera. He not only thought of it, he made it work. That&#39;s the kind of spirit I admire.
+
+I was on panels with him a few times, he always had funny things to say, irreverant, sarcastic, but one time he let Bill Gates have it (he was in the room) and called him out for &#34;hogging the fast lane&#34; -- and even though I don&#39;t remember what the issue was, I do remember that I knew he was totally right.
+
+He&#39;s very much [alive](https://en.wikipedia.org/wiki/Philippe_Kahn) as far as I know. But I think it would be nice to write our epitaphs while the people we&#39;re praising are around to hear it! So going back to the original awards, that would be a requirement, the people you call out must be alive.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/29/184306.html</guid>
+    </item>    <item>
+      <title>Swift 6.2: NotificationCenter Messages</title>
+      <link>https://mjtsai.com/blog/2025/10/29/swift-6-2-notificationcenter-messages/</link>
+      <description>
+        <![CDATA[Holly Borla: In Swift 6.2, the Foundation library includes a modern NotificationCenter API that uses concrete notification types instead of relying on strings and untyped dictionaries for notification names and payloads. This means you can define a notification struct with stored properties, and observers can use the type without error-prone indexing and dynamic casting. Apple: [&#8230;]]]>
+      </description>
+      <source:markdown>Holly Borla: In Swift 6.2, the Foundation library includes a modern NotificationCenter API that uses concrete notification types instead of relying on strings and untyped dictionaries for notification names and payloads. This means you can define a notification struct with stored properties, and observers can use the type without error-prone indexing and dynamic casting. Apple: \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49833</guid>
+    </item>    <item>
+      <title>Swift 6.2</title>
+      <link>https://mjtsai.com/blog/2025/10/29/swift-6-2/</link>
+      <description>
+        <![CDATA[Holly Borla: InlineArray is a new fixed-size array with inline storage for elements, which can be stored on the stack or directly within other types without additional heap allocation.[&#8230;]The new Span type offers safe, direct access to contiguous memory. Span maintains memory safety by ensuring the memory remains valid while you&#8217;re using it.[&#8230;]Swift 6.2 introduces [&#8230;]]]>
+      </description>
+      <source:markdown>Holly Borla: InlineArray is a new fixed-size array with inline storage for elements, which can be stored on the stack or directly within other types without additional heap allocation.\[…\]The new Span type offers safe, direct access to contiguous memory. Span maintains memory safety by ensuring the memory remains valid while you’re using it.\[…\]Swift 6.2 introduces \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49831</guid>
+    </item>    <item>
+      <title>Imgur Blocks UK Users Over Age Verification</title>
+      <link>https://mjtsai.com/blog/2025/10/29/imgur-blocks-uk-users-over-age-verification/</link>
+      <description>
+        <![CDATA[Imgur TOS Update (2021, via Hacker News): No nudity or sexually explicit content. Provocative, inflammatory, unsettling, or suggestive content should be marked as Mature. No hate speech, abuse or harassment. No content that condones illegal or violent activity. Connor Jones (Hacker News): The UK&#8217;s data watchdog has described Imgur&#8217;s move to block UK users as [&#8230;]]]>
+      </description>
+      <source:markdown>Imgur TOS Update (2021, via Hacker News): No nudity or sexually explicit content. Provocative, inflammatory, unsettling, or suggestive content should be marked as Mature. No hate speech, abuse or harassment. No content that condones illegal or violent activity. Connor Jones (Hacker News): The UK’s data watchdog has described Imgur’s move to block UK users as \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49829</guid>
+    </item>    <item>
       <title>A National Guardsman Stands Up to Trump</title>
       <link>https://www.borowitzreport.com/p/a-national-guardsman-stands-up-to</link>
       <description>
@@ -53,7 +193,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
         <![CDATA[Zohran Mamdani is getting a new generation of young people excited about politics]]>
       </description>
       <source:markdown>Zohran Mamdani is getting a new generation of young people excited about politics</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/177488803/8511d7312a70fee95cd3cb938ed92965.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/177488803/4840c890bb18b130e9cd137acc74d008.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://robertreich.substack.com/p/in-conversation-with-zohran-mamdani</guid>
     </item>    <item>
       <title>My Video Chat with best-selling author Jonathan Freedland about his new book, The Traitors Circle, which tells the true story of a group of aristocratic Germans who resisted the Nazis</title>

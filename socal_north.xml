@@ -7,24 +7,88 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>29 Oct 25 11:09 -0700</lastBuildDate>
+    <lastBuildDate>29 Oct 25 15:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>The Fed is expected to cut interest rates as job market shows signs of weakness</title>
+      <title>Foster youth were significantly affected by Eaton Fire, report finds</title>
+      <link>https://laist.com/news/foster-youth-significantly-affected-by-eaton-fire</link>
+      <description>
+        <![CDATA[Report reveals importance of post-fire recovery support and services to prevent foster care entries and reentries.]]>
+      </description>
+      <source:markdown>Report reveals importance of post-fire recovery support and services to prevent foster care entries and reentries.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-31a2-de0a-a5fa-3dbebef00000</guid>
+    </item>    <item>
+      <title>LA&#39;s top federal prosecutor &#39;not lawfully serving&#39; in role, judge rules</title>
+      <link>https://laist.com/news/los-angeles-bill-essayli-us-attorney-not-lawfully-serving</link>
+      <description>
+        <![CDATA[A U.S. district judge said Bill Essayli has served in a temporary role longer than federal law allows.]]>
+      </description>
+      <source:markdown>A U.S. district judge said Bill Essayli has served in a temporary role longer than federal law allows.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-3168-d5b1-abdf-37e85b610000</guid>
+    </item>    <item>
+      <title>It’s quaint and it’s dangerous: LA County‘s last wooden boardwalk is going bye bye</title>
+      <link>https://laist.com/news/los-angeles-activities/la-county-last-wooden-boardwalk-leaving</link>
+      <description>
+        <![CDATA[Users of the century old Long Beach wooden board walk give these suggestions to safely enjoy it.]]>
+      </description>
+      <source:markdown>Users of the century old Long Beach wooden board walk give these suggestions to safely enjoy it.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-30f8-d6de-afbf-b2fa0f700000</guid>
+    </item>    <item>
+      <title>What does a rail storage yard three miles south of downtown LA have to do with a more modern Union Station?</title>
+      <link>https://laist.com/news/transportation/union-station-link-us-vernon</link>
+      <description>
+        <![CDATA[Metro’s current plan involves expanding a storage yard in Vernon to make up for the loss of space at a different yard near Union Station, incensing electeds, leaders and business owners in the city.]]>
+      </description>
+      <source:markdown>Metro’s current plan involves expanding a storage yard in Vernon to make up for the loss of space at a different yard near Union Station, incensing electeds, leaders and business owners in the city.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-310f-d84d-affa-ffef6eff0002</guid>
+    </item>    <item>
+      <title>World Series Game 5: Dodgers look for win before series returns to Blue Jays home field</title>
+      <link>https://laist.com/news/world-series-game-5-dodgers-blue-jays</link>
+      <description>
+        <![CDATA[Los Angeles and the Toronto Blue Jays are tied, 2-2, in the World Series. Game 5 tonight at Dodger Stadium will determine who has the advantage as the series heads back to Toronto.]]>
+      </description>
+      <source:markdown>Los Angeles and the Toronto Blue Jays are tied, 2-2, in the World Series. Game 5 tonight at Dodger Stadium will determine who has the advantage as the series heads back to Toronto.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-315a-d84d-affa-fffa7f870000</guid>
+    </item>    <item>
+      <title>Half a million young Californians aren’t in school or work. Most are men</title>
+      <link>https://laist.com/news/half-a-million-young-californians-arent-in-school-or-work-most-are-men</link>
+      <description>
+        <![CDATA[In California, thousands of young men are in crisis — not working and not in school. Helping them requires a multi-faceted approach.]]>
+      </description>
+      <source:markdown>In California, thousands of young men are in crisis — not working and not in school. Helping them requires a multi-faceted approach.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-3101-d03b-adfe-f38be8190000</guid>
+    </item>    <item>
+      <title>Anaheim leaders decline to put visitor, parking taxes to voters</title>
+      <link>https://laist.com/news/anaheim-leaders-decline-to-put-visitor-parking-taxes-to-voters</link>
+      <description>
+        <![CDATA[The City Council on Tuesday instead decided to look for alternatives to generating more revenue.]]>
+      </description>
+      <source:markdown>The City Council on Tuesday instead decided to look for alternatives to generating more revenue.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-3140-d6de-afbf-b3eac0050000</guid>
+    </item>    <item>
+      <title>A new surf park is coming to Orange County. Here&#39;s what it will look like</title>
+      <link>https://laist.com/news/politics/surf-park-newport-beach</link>
+      <description>
+        <![CDATA[The Newport Beach City Council approved a new artificial surf park that will replace part of an aging golf course.]]>
+      </description>
+      <source:markdown>The Newport Beach City Council approved a new artificial surf park that will replace part of an aging golf course.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-3089-d6de-afbf-b2eb2d5d0000</guid>
+    </item>    <item>
+      <title>The Fed cuts interest rates again as concerns grow about the job market</title>
       <link>https://laist.com/news/the-fed-is-expected-to-cut-interest-rates-as-job-market-shows-signs-of-weakness</link>
       <description>
-        <![CDATA[The Federal Reserve is expected to cut its benchmark interest rate by a quarter percentage point because the central bank is more concerned about the job market than it is with battling inflation.]]>
+        <![CDATA[The Federal Reserve cut its benchmark interest rate by a quarter percentage point Wednesday, because the central bank is more concerned about the job market than it is with battling inflation.]]>
       </description>
-      <source:markdown>The Federal Reserve is expected to cut its benchmark interest rate by a quarter percentage point because the central bank is more concerned about the job market than it is with battling inflation.</source:markdown>
+      <source:markdown>The Federal Reserve cut its benchmark interest rate by a quarter percentage point Wednesday, because the central bank is more concerned about the job market than it is with battling inflation.</source:markdown>
       <guid>cid://urn:uuid:0000019a-30a2-d84d-affa-feeac80a0000</guid>
     </item>    <item>
-      <title>Edison announces changes to compensation program for Eaton Fire  victims</title>
+      <title>Edison is changing how it plans to pay Eaton Fire victims. What you need to know</title>
       <link>https://laist.com/news/climate-environment/socal-edison-compensation-program-changes</link>
       <description>
-        <![CDATA[The utility, whose equipment is believed to have sparked the Eaton Fire, offers details of its plan to compensate victims for homes, businesses and other losses.]]>
+        <![CDATA[The utility, whose equipment is believed to have sparked the Eaton Fire, says payouts could come as quickly as four months after people submit a claim. But accepting the money means you'll have to forego any lawsuits.]]>
       </description>
-      <source:markdown>The utility, whose equipment is believed to have sparked the Eaton Fire, offers details of its plan to compensate victims for homes, businesses and other losses.</source:markdown>
+      <source:markdown>The utility, whose equipment is believed to have sparked the Eaton Fire, says payouts could come as quickly as four months after people submit a claim. But accepting the money means you&#39;ll have to forego any lawsuits.</source:markdown>
       <guid>cid://urn:uuid:0000019a-30ed-dcbf-abde-f2eff4320000</guid>
     </item>    <item>
       <title>Camouflaging cars and swapping license plates: How agents make immigration arrests</title>
@@ -90,12 +154,12 @@
       <source:markdown>Israel has strengthened its security with a series of sweeping military victories in the past two years. It has also become far more isolated internationally, with no clear path ahead.</source:markdown>
       <guid>cid://urn:uuid:0000019a-2e03-d84d-affa-eeeb69b00000</guid>
     </item>    <item>
-      <title>LA County approves nearly another billion dollars for sex abuse settlement</title>
+      <title>LA County approves nearly another $1 billion to settle sex abuse claims</title>
       <link>https://laist.com/news/criminal-justice/la-county-approves-second-sex-abuse-settlement-ab-218</link>
       <description>
-        <![CDATA[Almost half of the $828 million payout will be paid in just a few weeks.]]>
+        <![CDATA[Almost half of the $828 million payout will be paid in just a few weeks. That means the county will shell out close to $5 billion between this and an historic settlement approved earlier this year.]]>
       </description>
-      <source:markdown>Almost half of the $828 million payout will be paid in just a few weeks.</source:markdown>
+      <source:markdown>Almost half of the $828 million payout will be paid in just a few weeks. That means the county will shell out close to $5 billion between this and an historic settlement approved earlier this year.</source:markdown>
       <guid>cid://urn:uuid:0000019a-2d32-d6cc-a9ff-ff3a55fe0000</guid>
     </item>    <item>
       <title>Israel launches renewed strikes in Gaza less than 3 weeks into Trump&#39;s ceasefire deal</title>
