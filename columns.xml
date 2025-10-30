@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>30 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>30 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -38,6 +38,469 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <title>Chimps Are Capable of Human-Like Rational Thought, Breakthrough Study Finds</title>
+      <link>https://www.404media.co/chimps-are-capable-of-human-like-rational-thought-breakthrough-study-finds/</link>
+      <description>
+        <![CDATA[In a series of experiments, chimpanzees revised their beliefs based on new evidence, shedding light on the evolutionary origins of rational thought.]]>
+      </description>
+      <source:markdown>In a series of experiments, chimpanzees revised their beliefs based on new evidence, shedding light on the evolutionary origins of rational thought.</source:markdown>
+      <guid>cid://690370dfb0395800018a26ef</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/30.html#a174601</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2024/12/25/leftfacingsanta.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Just heard from <a href="https://inessential.com/">Brent</a> that the next version of <a href="https://github.com/Ranchero-Software/NetNewsWire/issues/3896#issuecomment-3468342615">NetNewsWire</a> will support the <a href="http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInRss">Markdown in RSS</a>. I wrote it up on my <a href="https://daveverse.org/2025/10/30/markdown-support-coming-in-netnewswire/">daveverse site</a>, which I edit with <a href="https://wordland.social/">WordLand</a>, which means it has a <a href="https://wordland.dev/scripting/237777565/rss.xml">special feed</a> that contains source:markdown elements. You can be one of the first people with markdown-support in your feed, help the bootstrap. I'm pretty sure it's going to work at this point.  If you have questions about this, you can post a comment <a href="https://github.com/scripting/Scripting-News/issues/334">here</a>.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2024/12/25/leftfacingsanta.png)Just heard from [Brent](https://inessential.com/) that the next version of [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire/issues/3896#issuecomment-3468342615) will support the [Markdown in RSS](http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInRss). I wrote it up on my [daveverse site](https://daveverse.org/2025/10/30/markdown-support-coming-in-netnewswire/), which I edit with [WordLand](https://wordland.social/), which means it has a [special feed](https://wordland.dev/scripting/237777565/rss.xml) that contains source:markdown elements. You can be one of the first people with markdown-support in your feed, help the bootstrap. I&#39;m pretty sure it&#39;s going to work at this point. If you have questions about this, you can post a comment [here](https://github.com/scripting/Scripting-News/issues/334).</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/30.html#a174601</guid>
+    </item>    <item>
+      <title>Markdown support coming in NetNewsWire</title>
+      <link>https://links.daveverse.org/2025/10/30/markdown-support-coming-in-netnewswire/</link>
+      <description>
+        <![CDATA[<p>I just got word from Brent that the next release of NetNewsWire will have support for the source:markdown element. </p>
+        
+        <p>This will help the transition to using Markdown as a fully-supported format for RSS. Right now NNW is the first mainstream product to support it. </p>
+        
+        <p>This site has an RSS feed that contains source:markdown elements. </p>
+        
+        <p>Every WordLand-written post has one of these feeds, so there is an official way to publish content that NNW will display via Markdown.</p>]]>
+      </description>
+      <source:markdown>I just got word from Brent that the next release of NetNewsWire will have support for the source:markdown element.
+
+This will help the transition to using Markdown as a fully-supported format for RSS. Right now NNW is the first mainstream product to support it.
+
+This site has an RSS feed that contains source:markdown elements.
+
+Every WordLand-written post has one of these feeds, so there is an official way to publish content that NNW will display via Markdown.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/30/markdown-support-coming-in-netnewswire/</guid>
+    </item>    <item>
+      <title>Libraries are reeling after a major distributor shutdown.</title>
+      <link>https://lithub.com/libraries-are-reeling-after-a-major-distributor-shutdown/</link>
+      <description>
+        <![CDATA[This Thursday brings bad news for book lovers. Baker &#38; Taylor, one of the largest distributors for print library books in America, is closing down—and throwing the distribution pipeline into (at least) short term chaos as a result. As 404Media]]>
+      </description>
+      <source:markdown>This Thursday brings bad news for book lovers. Baker &#38; Taylor, one of the largest distributors for print library books in America, is closing down—and throwing the distribution pipeline into (at least) short term chaos as a result. As 404Media</source:markdown>
+      <guid>cid://https://lithub.com/?p=261967</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115464185157900258</link>
+      <description>
+        <![CDATA[<p>My radicalization continues:</p><p><a href="https://www.tiktok.com/t/ZTM465w6G/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="">tiktok.com/t/ZTM465w6G/</span><span class="invisible"></span></a></p>]]>
+      </description>
+      <source:markdown>My radicalization continues:
+
+[https://www.tiktok.com/t/ZTM465w6G/](https://www.tiktok.com/t/ZTM465w6G/)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115464185157900258</guid>
+    </item>    <item>
+      <title>From Chef to Dad: David Chang’s New Definition of Success</title>
+      <link>https://guykawasaki.substack.com/p/from-chef-to-dad-david-changs-new</link>
+      <description>
+        <![CDATA[Chef David Chang knows how to burn bright without burning out.]]>
+      </description>
+      <source:markdown>Chef David Chang knows how to burn bright without burning out.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!D8Wc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F400687c0-b9c5-45e0-b6c4-2550edc3095d_1080x1080.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://guykawasaki.substack.com/p/from-chef-to-dad-david-changs-new</guid>
+    </item>    <item>
+      <title>Trump Orders Nuclear Testing As Nuke Workers Go Unpaid</title>
+      <link>https://www.404media.co/trump-orders-nuclear-testing-as-nuke-workers-go-unpaid/</link>
+      <description>
+        <![CDATA[Everyone loses and nobody wins if America decides to resume nuclear testing after a 30 year moratorium.]]>
+      </description>
+      <source:markdown>Everyone loses and nobody wins if America decides to resume nuclear testing after a 30 year moratorium.</source:markdown>
+      <guid>cid://69039054b0395800018a67bb</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/30.html#a160221</link>
+      <description>
+        <![CDATA[Since many of us now program with AI chatbot assistance, it seems it's time to think about higher level languages we can use to specify what we're doing, new kinds of computers because we now have bigger more capable minds at work.]]>
+      </description>
+      <source:markdown>Since many of us now program with AI chatbot assistance, it seems it&#39;s time to think about higher level languages we can use to specify what we&#39;re doing, new kinds of computers because we now have bigger more capable minds at work.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/30.html#a160221</guid>
+    </item>    <item>
+      <title>Aleth Gueguen is speaking at Web Day Out</title>
+      <link>https://adactio.com/journal/22225</link>
+      <description>
+        <![CDATA[<p>Almost two months ago, <a href="https://adactio.com/journal/22113">I put out the call</a> for speaker suggestions for <a href="https://webdayout.com/">Web Day Out</a>. I got some good responses—thank you to everyone who took the time to get in touch.</p>
+        
+        <p>The response that really piqued my interest was from <a href="https://alethgueguen.com/">Aleth Gueguen</a>. She proposed a talk on progressive web apps, backed up with plenty of experience. The more I thought about it, the more I realised how perfect it would be for Web Day Out.</p>
+        
+        <p>So I’m very pleased to announce that Aleth will be speaking at Web Day Out about <a href="https://webdayout.com/aleth-gueguen/#talk">progressive web apps from the trenches</a>:</p>
+        
+        <blockquote>
+          <p>Find out about the most important capabilities in progressive web apps and how to put them to work.</p>
+        </blockquote>
+        
+        <p>I’m really excited about this line-up! This is going to be a day out that you won’t want to miss. <a href="https://ti.to/clearleft/web-day-out">Get your ticket</a> for a mere £225+VAT if you haven’t already!</p>
+        
+        <p><a href="https://webdayout.com/">See you in Brighton on 12 March, 2026!</a></p>]]>
+      </description>
+      <source:markdown>Almost two months ago, [I put out the call](https://adactio.com/journal/22113) for speaker suggestions for [Web Day Out](https://webdayout.com/). I got some good responses—thank you to everyone who took the time to get in touch.
+
+The response that really piqued my interest was from [Aleth Gueguen](https://alethgueguen.com/). She proposed a talk on progressive web apps, backed up with plenty of experience. The more I thought about it, the more I realised how perfect it would be for Web Day Out.
+
+So I’m very pleased to announce that Aleth will be speaking at Web Day Out about [progressive web apps from the trenches](https://webdayout.com/aleth-gueguen/#talk):
+
+&#62; Find out about the most important capabilities in progressive web apps and how to put them to work.
+
+I’m really excited about this line-up! This is going to be a day out that you won’t want to miss. [Get your ticket](https://ti.to/clearleft/web-day-out) for a mere £225+VAT if you haven’t already!
+
+[See you in Brighton on 12 March, 2026!](https://webdayout.com/)</source:markdown>
+      <guid>cid://https://adactio.com/journal/22225</guid>
+    </item>    <item>
+      <link>https://glammr.us/@IIIF/115463786503138295</link>
+      <description>
+        <![CDATA[<p>It&#39;s the final weekend to submit a proposal for the 2026 <a href="https://glammr.us/tags/IIIF" class="mention hashtag" rel="tag">#<span>IIIF</span></a> Online Meeting. </p><p>Read the full CfP here: <a href="https://iiif.io/event/2026/online-meeting/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">iiif.io/event/2026/online-meet</span><span class="invisible">ing/</span></a></p>]]>
+      </description>
+      <source:markdown>It&#39;s the final weekend to submit a proposal for the 2026 [#IIIF](https://glammr.us/tags/IIIF) Online Meeting.
+
+Read the full CfP here: [https://iiif.io/event/2026/online-meeting/](https://iiif.io/event/2026/online-meeting/)</source:markdown>
+      <guid>cid://https://glammr.us/@IIIF/115463786503138295</guid>
+    </item>    <item>
+      <title>Someone Snuck Into a Cellebrite Microsoft Teams Call and Leaked Phone Unlocking Details</title>
+      <link>https://www.404media.co/someone-snuck-into-a-cellebrite-microsoft-teams-call-and-leaked-phone-unlocking-details/</link>
+      <description>
+        <![CDATA[The leaked slide focuses on Google Pixel phones and mentions those running the security-focused GrapheneOS operating system.]]>
+      </description>
+      <source:markdown>The leaked slide focuses on Google Pixel phones and mentions those running the security-focused GrapheneOS operating system.</source:markdown>
+      <guid>cid://690379eab0395800018a570a</guid>
+    </item>    <item>
+      <title>Trump Orders ICE Agents to Pick Crops Unharvested by Deported Immigrants</title>
+      <link>https://www.borowitzreport.com/p/trump-orders-ice-agents-to-pick-crops</link>
+      <description>
+        <![CDATA[&#8220;I didn&#8217;t sign up for this,&#8221; complained an exhausted ICE officer.]]>
+      </description>
+      <source:markdown>“I didn’t sign up for this,” complained an exhausted ICE officer.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!up-M!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd577ec6d-e909-4176-afa6-c43d565d91e7_1080x809.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/trump-orders-ice-agents-to-pick-crops</guid>
+    </item>    <item>
+      <title>A Newsletter of Humorous Writing #416</title>
+      <link>https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-416/</link>
+      <description>
+        <![CDATA[<h3><em>For October 22-28, 2025</em></h3>
+        <p>Hello and welcome to <strong>A Newsletter of Humorous Writing</strong>, a roundup of the week's finest short humor pieces and funny articles, and a celebration of the fantastic writers who wrote them. Hey guys, James here. Please don’t tell Luke, but for the fourth year in a row I’ve eaten all the Halloween candy that we’re supposed to hand out at Humorous Readings Headquarters (HRHQ). I’m not sure he’s going to buy “it all melted and was sipped up by hummingbirds” again, so if he asks, just back me up and say that you don’t know what happened to the candy or why my face is smeared in chocolate. Thanks!</p>
+        <hr/><h2>What We Enjoyed This Week</h2>
+        <p><a href="https://reductress.com/post/healthy-this-woman-just-chose-chips-over-gummy-worms-because-they-seem-more-of-the-earth/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><strong>Healthy! This Woman Just Chose Chips Over Gummy Worms Because They Seem More of the Earth</strong></a><strong> by </strong><a href="https://www.mckayleygourley.com/about?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><strong>McKayley Gourley</strong></a> <em>(Reductress)</em> This piece, written by one of our favorite writers, is filled with great lines but we want to zoom in on a very small detail: the closing phrase in the title, “They Seem More of the Earth” is excellent. It’s so specifically weird and stilted in a way that immediately conjures a character.</p>
+        <p><a href="https://medium.com/slackjaw/new-rules-for-the-moat-4b61cc9edc69?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><strong>New Rules For The Moat</strong></a><strong> by </strong><a href="https://livrariaplutao.bigcartel.com/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><strong>Luís Leal Miranda</strong></a><strong> </strong><em>(Slackjaw) </em>Very impressive breadth of exploration here. Luís hits moats from a lot of angles, which is a good reminder to really take the time to think through all the implications of your premise. It pays off!</p>
+        <p><a href="https://www.mcsweeneys.net/articles/our-wedding-gifts-ten-years-later?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><strong>Our Wedding Gifts: Ten Years Later</strong></a><strong> by </strong><a href="https://kristenmulrooney.com/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><strong>Kristen Mulrooney</strong></a> <em>(McSweeney’s)</em> Such a simple, clear pattern to this piece. Kristen has so much fun exploring and sticks the landing with a perfect final beat that caps off a bunch of threads in one go. We also love a zoodles reference.</p>
+        <hr/><blockquote><p>-- AD --</p><p>Django Gold (Colbert, the Onion) is bringing a BRAND-NEW hour (plus or minus five minutes) of stand-up comedy to the Gutter on Friday, November 7 as part of the New York Comedy Festival!</p><p>Come get silly, Django style - grab your <a href="https://www.eventbrite.com/e/django-gold-55-new-minutes-new-york-comedy-festival-tickets-1668759246829?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank">tickets</a> today!</p><hr/><p><a href="https://classes.stellaadler.com/classes/winter/devised-comedy-winter/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank">Devised Comedy @ Adler</a> from Matt Gehring</p><p>After fifteen years in comedy and five years shaping talent with Ars Nova CAMP, I’m launching the Devised Comedy Winter Immersion at Stella Adler Studio (open to all). The program takes comedy seriously, offering six original courses: Devised Comedy, Writing for Sketch, Acting for Sketch, Body &amp; Comedy, Improvisation for Stage, and Improvisation for Film/TV/Audio—taught by DC Pierson, Chet Siegel, Moujan Zolfaghari, Mahayla Laurence, and me. It’s a chance for actors to sharpen their comedic craft or comedians to deepen their acting. The goal: treat comedy with the same artistic rigor as drama.</p><p><em>(Do you have an ad you'd like to place in the Newsletter? </em><a href="https://docs.google.com/forms/d/e/1FAIpQLSeJlHErf2PuWr5NxqLbD6dhf7s31pzCC3sBVCHJ24exAwfmgQ/viewform?usp=sf_link&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><em>Fill out this form!</em></a><em>)</em></p></blockquote>
+        <hr/><h2>An Old Favorite</h2>
+        <p><strong><em>This week's Old Favorite is a</em></strong> <a href="http://www.mcsweeneys.net/articles/celebrating-the-hilarious-work-of-brian-agler?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><strong><em>Brian Agler</em></strong></a> <strong><em>Selection (TM)--a piece whose accompanying note was written by Brian--from </em></strong><a href="https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-56/" rel="noopener noreferrer nofollow" target="_blank"><strong><em>Newsletter #56</em></strong></a><strong><em>, an edition Brian pumpkin spiced.</em></strong></p>
+        <p><a href="https://www.newyorker.com/humor/daily-shouts/everything-ive-done-that-made-a-rich-old-lady-with-opera-glasses-faint-or-a-monocle-fall-out-of-a-rich-guys-eye?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><strong>Everything I've Done That Made A Rich Old Lady With Opera Glasses Faint Or A Monocle Fall Out Of A Rich Guy's Eye</strong></a> by <a href="https://twitter.com/AlexanderWatt?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><strong>Alex Watt</strong></a> <em>(New Yorker)</em> This piece was so funny, it made me want to eat a horse's ass! (Ed note: This is only funny if you've read the piece beforehand. Now, it's just weird.)</p>
+        <p><em>Do you have an Old Favorite of your own? Let us know by filling out</em> <a href="http://forms.gle/9iALhpfsAn9mvn4p8?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><em>this form</em></a> <em>and we may run your pick in a future edition of the newsletter.</em></p>
+        <hr/><h2>Updates From Your Hosts and Friends of the Show</h2>
+        <p>Luke’s still got a few spots left in two short humor workshops starting in exactly one week: A <a href="https://docs.google.com/forms/d/e/1FAIpQLScTnF1MJNoB2Hu_rpYmCxsgu8Fj2fHb71mdRf4L4nBXfBLUpA/viewform?usp=dialog&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank">Thursday afternoon class</a> and a <a href="https://docs.google.com/forms/d/e/1FAIpQLSebBNaODHpu9VfzRFDu0GjOJlKLi2nA-IxV9k5tTp92pqgyJw/viewform?usp=dialog&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank">Thursday night class</a>. Writing from past workshops has gone on to be published by <a href="https://bsky.app/profile/lukevburns.bsky.social/post/3lxzikevnws2j?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank">The New Yorker</a> (print and online), <a href="https://bsky.app/profile/lukevburns.bsky.social/post/3m3fvpjx6bs2t?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank">McSweeney’s</a>, and <a href="https://bsky.app/profile/lukevburns.bsky.social/post/3ldlqe2ftjk2x?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank">more</a>!</p>
+        <p>Oh and—James again—Luke found out about the candy so I’m going to be in time-out until the next edition. Sorry I roped you all into this!</p>]]>
+      </description>
+      <source:markdown>### _For October 22-28, 2025_
+
+Hello and welcome to **A Newsletter of Humorous Writing**, a roundup of the week&#39;s finest short humor pieces and funny articles, and a celebration of the fantastic writers who wrote them. Hey guys, James here. Please don’t tell Luke, but for the fourth year in a row I’ve eaten all the Halloween candy that we’re supposed to hand out at Humorous Readings Headquarters (HRHQ). I’m not sure he’s going to buy “it all melted and was sipped up by hummingbirds” again, so if he asks, just back me up and say that you don’t know what happened to the candy or why my face is smeared in chocolate. Thanks!
+
+* * *
+
+## What We Enjoyed This Week
+
+[**Healthy! This Woman Just Chose Chips Over Gummy Worms Because They Seem More of the Earth**](https://reductress.com/post/healthy-this-woman-just-chose-chips-over-gummy-worms-because-they-seem-more-of-the-earth/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) **by** [**McKayley Gourley**](https://www.mckayleygourley.com/about?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) _(Reductress)_ This piece, written by one of our favorite writers, is filled with great lines but we want to zoom in on a very small detail: the closing phrase in the title, “They Seem More of the Earth” is excellent. It’s so specifically weird and stilted in a way that immediately conjures a character.
+
+[**New Rules For The Moat**](https://medium.com/slackjaw/new-rules-for-the-moat-4b61cc9edc69?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) **by** [**Luís Leal Miranda**](https://livrariaplutao.bigcartel.com/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) _(Slackjaw)_ Very impressive breadth of exploration here. Luís hits moats from a lot of angles, which is a good reminder to really take the time to think through all the implications of your premise. It pays off!
+
+[**Our Wedding Gifts: Ten Years Later**](https://www.mcsweeneys.net/articles/our-wedding-gifts-ten-years-later?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) **by** [**Kristen Mulrooney**](https://kristenmulrooney.com/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) _(McSweeney’s)_ Such a simple, clear pattern to this piece. Kristen has so much fun exploring and sticks the landing with a perfect final beat that caps off a bunch of threads in one go. We also love a zoodles reference.
+
+* * *
+
+&#62; \-\- AD --
+&#62;
+&#62; Django Gold (Colbert, the Onion) is bringing a BRAND-NEW hour (plus or minus five minutes) of stand-up comedy to the Gutter on Friday, November 7 as part of the New York Comedy Festival!
+&#62;
+&#62; Come get silly, Django style - grab your [tickets](https://www.eventbrite.com/e/django-gold-55-new-minutes-new-york-comedy-festival-tickets-1668759246829?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) today!
+&#62;
+&#62; * * *
+&#62;
+&#62; [Devised Comedy @ Adler](https://classes.stellaadler.com/classes/winter/devised-comedy-winter/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) from Matt Gehring
+&#62;
+&#62; After fifteen years in comedy and five years shaping talent with Ars Nova CAMP, I’m launching the Devised Comedy Winter Immersion at Stella Adler Studio (open to all). The program takes comedy seriously, offering six original courses: Devised Comedy, Writing for Sketch, Acting for Sketch, Body &#38; Comedy, Improvisation for Stage, and Improvisation for Film/TV/Audio—taught by DC Pierson, Chet Siegel, Moujan Zolfaghari, Mahayla Laurence, and me. It’s a chance for actors to sharpen their comedic craft or comedians to deepen their acting. The goal: treat comedy with the same artistic rigor as drama.
+&#62;
+&#62; _(Do you have an ad you&#39;d like to place in the Newsletter?_ [_Fill out this form!_](https://docs.google.com/forms/d/e/1FAIpQLSeJlHErf2PuWr5NxqLbD6dhf7s31pzCC3sBVCHJ24exAwfmgQ/viewform?usp=sf_link&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) _)_
+
+* * *
+
+## An Old Favorite
+
+**_This week&#39;s Old Favorite is a_** [**_Brian Agler_**](http://www.mcsweeneys.net/articles/celebrating-the-hilarious-work-of-brian-agler?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) **_Selection (TM)--a piece whose accompanying note was written by Brian--from_** [**_Newsletter #56_**](https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-56/) **_, an edition Brian pumpkin spiced._**
+
+[**Everything I&#39;ve Done That Made A Rich Old Lady With Opera Glasses Faint Or A Monocle Fall Out Of A Rich Guy&#39;s Eye**](https://www.newyorker.com/humor/daily-shouts/everything-ive-done-that-made-a-rich-old-lady-with-opera-glasses-faint-or-a-monocle-fall-out-of-a-rich-guys-eye?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) by [**Alex Watt**](https://twitter.com/AlexanderWatt?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) _(New Yorker)_ This piece was so funny, it made me want to eat a horse&#39;s ass! (Ed note: This is only funny if you&#39;ve read the piece beforehand. Now, it&#39;s just weird.)
+
+_Do you have an Old Favorite of your own? Let us know by filling out_ [_this form_](http://forms.gle/9iALhpfsAn9mvn4p8?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) _and we may run your pick in a future edition of the newsletter._
+
+* * *
+
+## Updates From Your Hosts and Friends of the Show
+
+Luke’s still got a few spots left in two short humor workshops starting in exactly one week: A [Thursday afternoon class](https://docs.google.com/forms/d/e/1FAIpQLScTnF1MJNoB2Hu_rpYmCxsgu8Fj2fHb71mdRf4L4nBXfBLUpA/viewform?usp=dialog&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) and a [Thursday night class](https://docs.google.com/forms/d/e/1FAIpQLSebBNaODHpu9VfzRFDu0GjOJlKLi2nA-IxV9k5tTp92pqgyJw/viewform?usp=dialog&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416). Writing from past workshops has gone on to be published by [The New Yorker](https://bsky.app/profile/lukevburns.bsky.social/post/3lxzikevnws2j?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) (print and online), [McSweeney’s](https://bsky.app/profile/lukevburns.bsky.social/post/3m3fvpjx6bs2t?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416), and [more](https://bsky.app/profile/lukevburns.bsky.social/post/3ldlqe2ftjk2x?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416)!
+
+Oh and—James again—Luke found out about the candy so I’m going to be in time-out until the next edition. Sorry I roped you all into this!</source:markdown>
+      <guid>cid://https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-416/</guid>
+    </item>    <item>
+      <title>KDE tidies up Plasma 6.5 with 60-odd fixes and smoother setup for OEMs</title>
+      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/10/30/kde_65_651/</link>
+      <description>
+        <![CDATA[<h4>Big release with a lot of new features – and a few inevitable glitches</h4>
+              <p>The KDE Plasma 6.5 graphical shell arrived last week for Unix-like operating systems, and now 6.5.1 is here for the more cautious. The team&#39;s squashed over 60 bugs – and they&#39;re by no means all new.</p>]]>
+      </description>
+      <source:markdown>#### Big release with a lot of new features – and a few inevitable glitches
+
+The KDE Plasma 6.5 graphical shell arrived last week for Unix-like operating systems, and now 6.5.1 is here for the more cautious. The team&#39;s squashed over 60 bugs – and they&#39;re by no means all new.</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242755</guid>
+    </item>    <item>
+      <title>CarPlay Seems Essential for Rental Fleets</title>
+      <link>https://joe-steel.com/2025-10-22-Why-GM-Will-Give-You-Gemini-But-Not-CarPlay.html</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42334</guid>
+    </item>    <item>
+      <title>Libraries Scramble for Books After Giant Distributor Shuts Down</title>
+      <link>https://www.404media.co/libraries-scramble-for-books-after-giant-distributor-shuts-down/</link>
+      <description>
+        <![CDATA[Why it might have been and may continue to be harder to get new releases from your local library.]]>
+      </description>
+      <source:markdown>Why it might have been and may continue to be harder to get new releases from your local library.</source:markdown>
+      <guid>cid://68fbc132dbf2dc000117eff8</guid>
+    </item>    <item>
+      <title>2025-10-22 Bots, again. I&#39;m taking it personally.</title>
+      <link>https://alexschroeder.ch/view/2025-10-22-bots-again</link>
+      <description>
+        <![CDATA[<h1 id="2025-10-22-bots-again-i-m-taking-it-personally">2025-10-22 Bots, again. I&rsquo;m taking it personally.</h1>
+        
+        <p>My auto-blocking of bots hasn’t needed much intervention in recent weeks. The
+        current average is 10,000 blocked IP ranges.
+        If you&rsquo;re interested, there&rsquo;s a
+        <a href="https://transjovian.org/view/fight-bots/index">a description of my setup</a>.</p>
+        
+        <p><img loading="lazy" src="2025-10-22-bots-again/01K7RMQ3YVE09T7ZYGSNEMBH1H.png" alt="Lots of graphs but the important one is the yellow line that’s pretty stable around 10k." /></p>
+        
+        <p>Hah, I post the above and now load is 95 and the bots are at it.</p>
+        
+        <p>What I don’t like about Munin is that when it crashes (I assume it’s the OOM
+        reaper making the rounds), then it leaves behind a lock that prevents the
+        graph from updating. Ugh.</p>
+        
+        <p><img loading="lazy" src="2025-10-22-bots-again/01K7YKFAPMFGSC0F8EBRSM66YJ.png" alt="A Munin graph showing maximum average load being 137.51 and now back to 1.24." /></p>
+        
+        <p>If you like large language models (LLMs), know that they need regular
+        training and the people training them are ruining the web for
+        everybody. You are part of this, as a consumer.</p>
+        
+        <p>Most sites don’t have the defences required, or require the execution
+        of expensive JavaScript for the CO₂ god, or require placing all your
+        visitor’s browsing data into the hands of another company, most likely
+        CloudFlare, in the USA. If you object to any of that, you must do your
+        duty and reject the use of LLMs as well. You can’t eat your cake and
+        claim to object to the rest. It would be a most incongruent position
+        to take.</p>
+        
+        <p>And since this kind of shit often happens while
+        <a href="2025-portugal">I’m on holidays</a>, the LLM friends reading this are
+        responsible, in a very small way, for pissing on me during my
+        holidays. And I resent it.</p>
+        
+        <p>I resent it very much.</p>
+        
+        <p><img loading="lazy" src="2025-10-22-bots-again/01K7YXF66MYSEQC615WGSBECN2.png" alt="Load going up to 80, again. And back down, again." /></p>
+        
+        <p>Waking up in a hotel bed, opening the balcony doors, hearing the birds
+        sing, switching on the phone and realising that load is over 100 and
+        nothing works, switching off Emacs Wiki and Community Wiki, the
+        favourite targets of the AI scrapers and thinking of the people who
+        like to use large language models.</p>
+        
+        <p>It’s the same problem as always: drive a car, see the CO₂ in the world
+        go up, “but I need it!” – yeah, but we need an earth that supports
+        human life too, idiots. Humans, where comfort is separated from
+        consequences by time and space like to choose comfort. In this case,
+        the AI comfort leads to the shut down of the open web, the
+        centralisation of what remains, the installation of barriers, and ever
+        and always: more control for fewer people. But of course, the
+        consequences are separated by time and space from the comforts of AI
+        users.</p>
+        
+        <p>Imagine a goddess of destruction with a grim smile and a thousand
+        hands and each one of them is giving you a middle finger.</p>
+        
+        <p>Load average: 142.25</p>
+        
+        <p>I switched off Community Wiki and Emacs Wiki.</p>
+        
+        <p>Coming back after a day of excursions and things seem to be working
+        fine, if I don’t switch on those two sites. These two have been
+        unavailable for a minimum of six hours and yet in the last two hours
+        Emacs Wiki still got 3537 requests.</p>
+        
+        <p>Time to ban every network of every ASN that&rsquo;s still requesting Emacs Wiki pages.</p>
+        
+        <pre><code>2h-access-log \
+        | grep '^www\.emacswiki\.org' \
+        | log-ip \
+        | asncounter --top 50 --no-prefixes 2&gt;/dev/null \
+        | awk '/^[1-9]/ &amp;&amp; $1 &gt;= 10 { print $3 }' \
+        | xargs asn-networks \
+        | xargs fail2ban-client set butlerian-jihad-week banip
+        </code></pre>
+        
+        <p>If you&rsquo;re looking for the building blocks I&rsquo;m using, see my
+        <a href="https://alexschroeder.ch/admin/">collection of admin scripts and shell functions</a>.</p>
+        
+        <p>Hours later, I switched Emacs Wiki on for a minute and load
+        immediately rose from around 1 to nearly 4 and my SSH connection
+        became slow as molasses. It&rsquo;ll remain switched off for tonight and
+        probably tomorrow, too. It depends on the kind of wifi connection I
+        have, tomorrow.</p>
+        
+        <p>Perhaps I should just hand Emacs Wiki off to somebody who&rsquo;s more into
+        it.</p>
+        
+        <p>Switching off Community Wiki and two smaller sites as well, for now.</p>
+        
+        <p><a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23Emacs">#Emacs</a></p>
+        
+        <p><strong>2025-10-22</strong>. On IRC, twb replied to my complaints about the Munin lock being left behind:</p>
+        
+        <blockquote>
+        <p>if you have systemd, just set RuntimeDirectory=%p and systemd will clean it up</p>
+        </blockquote>
+        
+        <p>Also, he&rsquo;s running <a href="https://github.com/trentbuck/collection4/blob/main/debian/service">collection4</a> instead of Munin.</p>
+        
+        <p><strong>2025-10-23</strong>. Switching Emacs Wiki back on, about nine hours ago.</p>
+        
+        <p><img loading="lazy" src="2025-10-22-bots-again-1.jpg" alt="" /></p>
+        
+        <p><strong>2025-10-29</strong>. <a class="account" href="https://infosec.exchange/@briankrebs" title="@briankrebs@infosec.exchange">@briankrebs</a> writes:</p>
+        
+        <blockquote>
+        <p><strong>Aisuru</strong>, the botnet responsible for a series of record-smashing distributed denial-of-service (DDoS) attacks this year, recently was overhauled to support a more low-key, lucrative and sustainable business: Renting hundreds of thousands of infected Internet of Things (IoT) devices to proxy services that help cybercriminals anonymize their traffic. Experts say a glut of proxies from Aisuru and other sources is fueling large-scale data harvesting efforts tied to various artificial intelligence (AI) projects, helping content scrapers evade detection by routing their traffic through residential connections that appear to be regular Internet users. &ndash; <a href="https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/">Aisuru Botnet Shifts from DDoS to Residential Proxies</a></p>
+        </blockquote>
+        
+        <p><strong>2025-10-30</strong>. Bear blog is run by Herman and he&rsquo;s angry, too.</p>
+        
+        <blockquote>
+        <p>The public internet is mostly bots, many of whom are bad netizens. It&rsquo;s the most hostile it&rsquo;s ever been, and it is because of this that I feel it&rsquo;s more important than ever to take good care of the spaces that make the internet worth visiting. &ndash; <a href="https://herman.bearblog.dev/agressive-bots/">Aggressive bots ruined my weekend</a></p>
+        </blockquote>]]>
+      </description>
+      <source:markdown># 2025-10-22 Bots, again. I’m taking it personally.
+
+My auto-blocking of bots hasn’t needed much intervention in recent weeks. The
+current average is 10,000 blocked IP ranges.
+If you’re interested, there’s a
+[a description of my setup](https://transjovian.org/view/fight-bots/index).
+
+![Lots of graphs but the important one is the yellow line that’s pretty stable around 10k.](2025-10-22-bots-again/01K7RMQ3YVE09T7ZYGSNEMBH1H.png)
+
+Hah, I post the above and now load is 95 and the bots are at it.
+
+What I don’t like about Munin is that when it crashes (I assume it’s the OOM
+reaper making the rounds), then it leaves behind a lock that prevents the
+graph from updating. Ugh.
+
+![A Munin graph showing maximum average load being 137.51 and now back to 1.24.](2025-10-22-bots-again/01K7YKFAPMFGSC0F8EBRSM66YJ.png)
+
+If you like large language models (LLMs), know that they need regular
+training and the people training them are ruining the web for
+everybody. You are part of this, as a consumer.
+
+Most sites don’t have the defences required, or require the execution
+of expensive JavaScript for the CO₂ god, or require placing all your
+visitor’s browsing data into the hands of another company, most likely
+CloudFlare, in the USA. If you object to any of that, you must do your
+duty and reject the use of LLMs as well. You can’t eat your cake and
+claim to object to the rest. It would be a most incongruent position
+to take.
+
+And since this kind of shit often happens while
+[I’m on holidays](2025-portugal), the LLM friends reading this are
+responsible, in a very small way, for pissing on me during my
+holidays. And I resent it.
+
+I resent it very much.
+
+![Load going up to 80, again. And back down, again.](2025-10-22-bots-again/01K7YXF66MYSEQC615WGSBECN2.png)
+
+Waking up in a hotel bed, opening the balcony doors, hearing the birds
+sing, switching on the phone and realising that load is over 100 and
+nothing works, switching off Emacs Wiki and Community Wiki, the
+favourite targets of the AI scrapers and thinking of the people who
+like to use large language models.
+
+It’s the same problem as always: drive a car, see the CO₂ in the world
+go up, “but I need it!” – yeah, but we need an earth that supports
+human life too, idiots. Humans, where comfort is separated from
+consequences by time and space like to choose comfort. In this case,
+the AI comfort leads to the shut down of the open web, the
+centralisation of what remains, the installation of barriers, and ever
+and always: more control for fewer people. But of course, the
+consequences are separated by time and space from the comforts of AI
+users.
+
+Imagine a goddess of destruction with a grim smile and a thousand
+hands and each one of them is giving you a middle finger.
+
+Load average: 142.25
+
+I switched off Community Wiki and Emacs Wiki.
+
+Coming back after a day of excursions and things seem to be working
+fine, if I don’t switch on those two sites. These two have been
+unavailable for a minimum of six hours and yet in the last two hours
+Emacs Wiki still got 3537 requests.
+
+Time to ban every network of every ASN that’s still requesting Emacs Wiki pages.
+
+```
+2h-access-log \
+| grep &#39;^www\.emacswiki\.org&#39; \
+| log-ip \
+| asncounter --top 50 --no-prefixes 2&#62;/dev/null \
+| awk &#39;/^[1-9]/ &#38;&#38; $1 &#62;= 10 { print $3 }&#39; \
+| xargs asn-networks \
+| xargs fail2ban-client set butlerian-jihad-week banip
+
+```
+
+If you’re looking for the building blocks I’m using, see my
+[collection of admin scripts and shell functions](https://alexschroeder.ch/admin/).
+
+Hours later, I switched Emacs Wiki on for a minute and load
+immediately rose from around 1 to nearly 4 and my SSH connection
+became slow as molasses. It’ll remain switched off for tonight and
+probably tomorrow, too. It depends on the kind of wifi connection I
+have, tomorrow.
+
+Perhaps I should just hand Emacs Wiki off to somebody who’s more into
+it.
+
+Switching off Community Wiki and two smaller sites as well, for now.
+
+[#Butlerian Jihad](/search/?q=%23Butlerian_Jihad) [#Emacs](/search/?q=%23Emacs)
+
+**2025-10-22**. On IRC, twb replied to my complaints about the Munin lock being left behind:
+
+&#62; if you have systemd, just set RuntimeDirectory=%p and systemd will clean it up
+
+Also, he’s running [collection4](https://github.com/trentbuck/collection4/blob/main/debian/service) instead of Munin.
+
+**2025-10-23**. Switching Emacs Wiki back on, about nine hours ago.
+
+![](2025-10-22-bots-again-1.jpg)
+
+**2025-10-29**. [@briankrebs](https://infosec.exchange/@briankrebs &#34;@briankrebs@infosec.exchange&#34;) writes:
+
+&#62; **Aisuru**, the botnet responsible for a series of record-smashing distributed denial-of-service (DDoS) attacks this year, recently was overhauled to support a more low-key, lucrative and sustainable business: Renting hundreds of thousands of infected Internet of Things (IoT) devices to proxy services that help cybercriminals anonymize their traffic. Experts say a glut of proxies from Aisuru and other sources is fueling large-scale data harvesting efforts tied to various artificial intelligence (AI) projects, helping content scrapers evade detection by routing their traffic through residential connections that appear to be regular Internet users. – [Aisuru Botnet Shifts from DDoS to Residential Proxies](https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/)
+
+**2025-10-30**. Bear blog is run by Herman and he’s angry, too.
+
+&#62; The public internet is mostly bots, many of whom are bad netizens. It’s the most hostile it’s ever been, and it is because of this that I feel it’s more important than ever to take good care of the spaces that make the internet worth visiting. – [Aggressive bots ruined my weekend](https://herman.bearblog.dev/agressive-bots/)</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2025-10-22-bots-again</guid>
+    </item>    <item>
+      <link>http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInFeeds</link>
+      <description>
+        <![CDATA[<p>2022: Dev notes for Markdown in RSS.</p>]]>
+      </description>
+      <source:markdown>2022: Dev notes for Markdown in RSS.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/30/1737/</guid>
+    </item>    <item>
       <link>https://www.thenation.com/article/politics/donald-trump-tony-soprano-bust-out/?utm_campaign=SproutSocial&#38;utm_content=The%20Nation%20Magazine&#38;utm_medium=social&#38;utm_source=bluesky#</link>
       <description>
         <![CDATA[<p>Trump’s Tony Soprano Presidency Is Bleeding the Country Dry.</p>]]>
@@ -64,6 +527,15 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       </description>
       <source:markdown>Hello all you gals and ghouls! Welcome back to internet’s spookiest advice column, Am I the Literary Asshole?, a place where the monster mash is not only a graveyard smash, but also a drunken good time. I’m your host, Kristen</source:markdown>
       <guid>cid://https://lithub.com/?p=261982</guid>
+    </item>    <item>
+      <title>Generative AI in the Real World: Chris Butler on GenAI in Product Management</title>
+      <link>https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-product-management-in-the-age-of-ai-with-chris-butler/</link>
+      <description>
+        <![CDATA[In this episode, Ben Lorica and Chris Butler, director of product operations for GitHub&#8217;s Synapse team, chat about the experimentation Chris is doing to incorporate generative AI into the product development process—particularly with the goal of reducing toil for cross-functional teams. It isn’t just automating busywork (although there’s some of that). He and his team [&#8230;]]]>
+      </description>
+      <source:markdown>In this episode, Ben Lorica and Chris Butler, director of product operations for GitHub’s Synapse team, chat about the experimentation Chris is doing to incorporate generative AI into the product development process—particularly with the goal of reducing toil for cross-functional teams. It isn’t just automating busywork (although there’s some of that). He and his team \[…\]</source:markdown>
+      <enclosure url="https://cdn.oreillystatic.com/radar/generative-ai-real-world-podcast/GenAI_in_the_Real_World_with_Chris_Butler.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.oreilly.com/radar/?post_type=podcast&#38;p=17620</guid>
     </item>    <item>
       <title>The AI-Designed Bioweapon Arms Race</title>
       <link>https://www.schneier.com/blog/archives/2025/10/the-ai-designed-bioweapon-arms-race.html</link>
@@ -120,7 +592,7 @@ continue that legacy while evolving it into a more advanced tool.</source:markdo
       <source:markdown>Another month of books, another month of book covers: October was big, bold, and weird as all get out. I also threw in a couple of covers that I forgot in September but just couldn’t let go of…   Striking,</source:markdown>
       <guid>cid://https://lithub.com/?p=261863</guid>
     </item>    <item>
-      <title>Porn, But Also Literature: On John Cleland’s Fanny</title>
+      <title>Porn, But Also Literature: On John Cleland’s Fanny Hill</title>
       <link>https://lithub.com/porn-but-also-literature-on-john-clelands-fanny/</link>
       <description>
         <![CDATA[Banned from publication in the United States until 1966 for its assumed obscenity, immorality, and lack of literary merit, Fanny Hill, or Memoirs of a Woman of Pleasure (1749), is a novel considered to be the first original English prose erotica. An]]>
@@ -751,230 +1223,6 @@ In fact there’s [a great big archive of all the past talks](https://beyondtell
       </description>
       <source:markdown>Before it’s too late there should be a rule that AI chatbots should not be allowed in any way to impersonate humans. We will come to see that as our biggest mistake, not stopping this before it got out of control.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/29.html#a142529</guid>
-    </item>    <item>
-      <title>2025-10-22 Bots, again. I&#39;m taking it personally.</title>
-      <link>https://alexschroeder.ch/view/2025-10-22-bots-again</link>
-      <description>
-        <![CDATA[<h1 id="2025-10-22-bots-again-i-m-taking-it-personally">2025-10-22 Bots, again. I&rsquo;m taking it personally.</h1>
-        
-        <p>My auto-blocking of bots hasn’t needed much intervention in recent weeks. The
-        current average is 10,000 blocked IP ranges.
-        If you&rsquo;re interested, there&rsquo;s a
-        <a href="https://transjovian.org/view/fight-bots/index">a description of my setup</a>.</p>
-        
-        <p><img loading="lazy" src="2025-10-22-bots-again/01K7RMQ3YVE09T7ZYGSNEMBH1H.png" alt="Lots of graphs but the important one is the yellow line that’s pretty stable around 10k." /></p>
-        
-        <p>Hah, I post the above and now load is 95 and the bots are at it.</p>
-        
-        <p>What I don’t like about Munin is that when it crashes (I assume it’s the OOM
-        reaper making the rounds), then it leaves behind a lock that prevents the
-        graph from updating. Ugh.</p>
-        
-        <p><img loading="lazy" src="2025-10-22-bots-again/01K7YKFAPMFGSC0F8EBRSM66YJ.png" alt="A Munin graph showing maximum average load being 137.51 and now back to 1.24." /></p>
-        
-        <p>If you like large language models (LLMs), know that they need regular
-        training and the people training them are ruining the web for
-        everybody. You are part of this, as a consumer.</p>
-        
-        <p>Most sites don’t have the defences required, or require the execution
-        of expensive JavaScript for the CO₂ god, or require placing all your
-        visitor’s browsing data into the hands of another company, most likely
-        CloudFlare, in the USA. If you object to any of that, you must do your
-        duty and reject the use of LLMs as well. You can’t eat your cake and
-        claim to object to the rest. It would be a most incongruent position
-        to take.</p>
-        
-        <p>And since this kind of shit often happens while
-        <a href="2025-portugal">I’m on holidays</a>, the LLM friends reading this are
-        responsible, in a very small way, for pissing on me during my
-        holidays. And I resent it.</p>
-        
-        <p>I resent it very much.</p>
-        
-        <p><img loading="lazy" src="2025-10-22-bots-again/01K7YXF66MYSEQC615WGSBECN2.png" alt="Load going up to 80, again. And back down, again." /></p>
-        
-        <p>Waking up in a hotel bed, opening the balcony doors, hearing the birds
-        sing, switching on the phone and realising that load is over 100 and
-        nothing works, switching off Emacs Wiki and Community Wiki, the
-        favourite targets of the AI scrapers and thinking of the people who
-        like to use large language models.</p>
-        
-        <p>It’s the same problem as always: drive a car, see the CO₂ in the world
-        go up, “but I need it!” – yeah, but we need an earth that supports
-        human life too, idiots. Humans, where comfort is separated from
-        consequences by time and space like to choose comfort. In this case,
-        the AI comfort leads to the shut down of the open web, the
-        centralisation of what remains, the installation of barriers, and ever
-        and always: more control for fewer people. But of course, the
-        consequences are separated by time and space from the comforts of AI
-        users.</p>
-        
-        <p>Imagine a goddess of destruction with a grim smile and a thousand
-        hands and each one of them is giving you a middle finger.</p>
-        
-        <p>Load average: 142.25</p>
-        
-        <p>I switched off Community Wiki and Emacs Wiki.</p>
-        
-        <p>Coming back after a day of excursions and things seem to be working
-        fine, if I don’t switch on those two sites. These two have been
-        unavailable for a minimum of six hours and yet in the last two hours
-        Emacs Wiki still got 3537 requests.</p>
-        
-        <p>Time to ban every network of every ASN that&rsquo;s still requesting Emacs Wiki pages.</p>
-        
-        <pre><code>2h-access-log \
-        | grep '^www\.emacswiki\.org' \
-        | log-ip \
-        | asncounter --top 50 --no-prefixes 2&gt;/dev/null \
-        | awk '/^[1-9]/ &amp;&amp; $1 &gt;= 10 { print $3 }' \
-        | xargs asn-networks \
-        | xargs fail2ban-client set butlerian-jihad-week banip
-        </code></pre>
-        
-        <p>If you&rsquo;re looking for the building blocks I&rsquo;m using, see my
-        <a href="https://alexschroeder.ch/admin/">collection of admin scripts and shell functions</a>.</p>
-        
-        <p>Hours later, I switched Emacs Wiki on for a minute and load
-        immediately rose from around 1 to nearly 4 and my SSH connection
-        became slow as molasses. It&rsquo;ll remain switched off for tonight and
-        probably tomorrow, too. It depends on the kind of wifi connection I
-        have, tomorrow.</p>
-        
-        <p>Perhaps I should just hand Emacs Wiki off to somebody who&rsquo;s more into
-        it.</p>
-        
-        <p>Switching off Community Wiki and two smaller sites as well, for now.</p>
-        
-        <p><a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23Emacs">#Emacs</a></p>
-        
-        <p><strong>2025-10-22</strong>. On IRC, twb replied to my complaints about the Munin lock being left behind:</p>
-        
-        <blockquote>
-        <p>if you have systemd, just set RuntimeDirectory=%p and systemd will clean it up</p>
-        </blockquote>
-        
-        <p>Also, he&rsquo;s running <a href="https://github.com/trentbuck/collection4/blob/main/debian/service">collection4</a> instead of Munin.</p>
-        
-        <p><strong>2025-10-23</strong>. Switching Emacs Wiki back on, about nine hours ago.</p>
-        
-        <p><img loading="lazy" src="2025-10-22-bots-again-1.jpg" alt="" /></p>
-        
-        <p><strong>2025-10-29</strong>. <a class="account" href="https://infosec.exchange/@briankrebs" title="@briankrebs@infosec.exchange">@briankrebs</a> writes:</p>
-        
-        <blockquote>
-        <p><strong>Aisuru</strong>, the botnet responsible for a series of record-smashing distributed denial-of-service (DDoS) attacks this year, recently was overhauled to support a more low-key, lucrative and sustainable business: Renting hundreds of thousands of infected Internet of Things (IoT) devices to proxy services that help cybercriminals anonymize their traffic. Experts say a glut of proxies from Aisuru and other sources is fueling large-scale data harvesting efforts tied to various artificial intelligence (AI) projects, helping content scrapers evade detection by routing their traffic through residential connections that appear to be regular Internet users. &ndash; <a href="https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/">Aisuru Botnet Shifts from DDoS to Residential Proxies</a></p>
-        </blockquote>]]>
-      </description>
-      <source:markdown># 2025-10-22 Bots, again. I’m taking it personally.
-
-My auto-blocking of bots hasn’t needed much intervention in recent weeks. The
-current average is 10,000 blocked IP ranges.
-If you’re interested, there’s a
-[a description of my setup](https://transjovian.org/view/fight-bots/index).
-
-![Lots of graphs but the important one is the yellow line that’s pretty stable around 10k.](2025-10-22-bots-again/01K7RMQ3YVE09T7ZYGSNEMBH1H.png)
-
-Hah, I post the above and now load is 95 and the bots are at it.
-
-What I don’t like about Munin is that when it crashes (I assume it’s the OOM
-reaper making the rounds), then it leaves behind a lock that prevents the
-graph from updating. Ugh.
-
-![A Munin graph showing maximum average load being 137.51 and now back to 1.24.](2025-10-22-bots-again/01K7YKFAPMFGSC0F8EBRSM66YJ.png)
-
-If you like large language models (LLMs), know that they need regular
-training and the people training them are ruining the web for
-everybody. You are part of this, as a consumer.
-
-Most sites don’t have the defences required, or require the execution
-of expensive JavaScript for the CO₂ god, or require placing all your
-visitor’s browsing data into the hands of another company, most likely
-CloudFlare, in the USA. If you object to any of that, you must do your
-duty and reject the use of LLMs as well. You can’t eat your cake and
-claim to object to the rest. It would be a most incongruent position
-to take.
-
-And since this kind of shit often happens while
-[I’m on holidays](2025-portugal), the LLM friends reading this are
-responsible, in a very small way, for pissing on me during my
-holidays. And I resent it.
-
-I resent it very much.
-
-![Load going up to 80, again. And back down, again.](2025-10-22-bots-again/01K7YXF66MYSEQC615WGSBECN2.png)
-
-Waking up in a hotel bed, opening the balcony doors, hearing the birds
-sing, switching on the phone and realising that load is over 100 and
-nothing works, switching off Emacs Wiki and Community Wiki, the
-favourite targets of the AI scrapers and thinking of the people who
-like to use large language models.
-
-It’s the same problem as always: drive a car, see the CO₂ in the world
-go up, “but I need it!” – yeah, but we need an earth that supports
-human life too, idiots. Humans, where comfort is separated from
-consequences by time and space like to choose comfort. In this case,
-the AI comfort leads to the shut down of the open web, the
-centralisation of what remains, the installation of barriers, and ever
-and always: more control for fewer people. But of course, the
-consequences are separated by time and space from the comforts of AI
-users.
-
-Imagine a goddess of destruction with a grim smile and a thousand
-hands and each one of them is giving you a middle finger.
-
-Load average: 142.25
-
-I switched off Community Wiki and Emacs Wiki.
-
-Coming back after a day of excursions and things seem to be working
-fine, if I don’t switch on those two sites. These two have been
-unavailable for a minimum of six hours and yet in the last two hours
-Emacs Wiki still got 3537 requests.
-
-Time to ban every network of every ASN that’s still requesting Emacs Wiki pages.
-
-```
-2h-access-log \
-| grep &#39;^www\.emacswiki\.org&#39; \
-| log-ip \
-| asncounter --top 50 --no-prefixes 2&#62;/dev/null \
-| awk &#39;/^[1-9]/ &#38;&#38; $1 &#62;= 10 { print $3 }&#39; \
-| xargs asn-networks \
-| xargs fail2ban-client set butlerian-jihad-week banip
-
-```
-
-If you’re looking for the building blocks I’m using, see my
-[collection of admin scripts and shell functions](https://alexschroeder.ch/admin/).
-
-Hours later, I switched Emacs Wiki on for a minute and load
-immediately rose from around 1 to nearly 4 and my SSH connection
-became slow as molasses. It’ll remain switched off for tonight and
-probably tomorrow, too. It depends on the kind of wifi connection I
-have, tomorrow.
-
-Perhaps I should just hand Emacs Wiki off to somebody who’s more into
-it.
-
-Switching off Community Wiki and two smaller sites as well, for now.
-
-[#Butlerian Jihad](/search/?q=%23Butlerian_Jihad) [#Emacs](/search/?q=%23Emacs)
-
-**2025-10-22**. On IRC, twb replied to my complaints about the Munin lock being left behind:
-
-&#62; if you have systemd, just set RuntimeDirectory=%p and systemd will clean it up
-
-Also, he’s running [collection4](https://github.com/trentbuck/collection4/blob/main/debian/service) instead of Munin.
-
-**2025-10-23**. Switching Emacs Wiki back on, about nine hours ago.
-
-![](2025-10-22-bots-again-1.jpg)
-
-**2025-10-29**. [@briankrebs](https://infosec.exchange/@briankrebs &#34;@briankrebs@infosec.exchange&#34;) writes:
-
-&#62; **Aisuru**, the botnet responsible for a series of record-smashing distributed denial-of-service (DDoS) attacks this year, recently was overhauled to support a more low-key, lucrative and sustainable business: Renting hundreds of thousands of infected Internet of Things (IoT) devices to proxy services that help cybercriminals anonymize their traffic. Experts say a glut of proxies from Aisuru and other sources is fueling large-scale data harvesting efforts tied to various artificial intelligence (AI) projects, helping content scrapers evade detection by routing their traffic through residential connections that appear to be regular Internet users. – [Aisuru Botnet Shifts from DDoS to Residential Proxies](https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/)</source:markdown>
-      <guid>cid://https://alexschroeder.ch/view/2025-10-22-bots-again</guid>
     </item>    <item>
       <title>Custom Asidenotes</title>
       <link>https://meyerweb.com/eric/thoughts/2025/10/29/custom-asidenotes/</link>

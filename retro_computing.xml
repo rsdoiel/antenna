@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>30 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>30 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>ROOL adds Fortran support in latest DDE update</title>
+      <link>http://www.iconbar.com/comments/rss/news2254.html</link>
+      <description>
+        <![CDATA[ROOL clearly have big plans for the RISC OS DDE....]]>
+      </description>
+      <source:markdown>ROOL clearly have big plans for the RISC OS DDE....</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2254.html</guid>
+    </item>    <item>
       <title>Fedora 43 Has Finally Landed</title>
       <link>http://www.linux-magazine.com/Online/News/Fedora-43-Has-Finally-Landed</link>
       <description>

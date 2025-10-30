@@ -19,6 +19,7 @@ title: Science and Technology
 - [Servo blog](https://servo.org/blog/feed.xml)
 - [Public AI blog](https://publicai.substack.com/feed)
 - [Forgejo](https://forgejo.org/rss.xml)
+- [ELeuther AI blog](https://blog.eleuther.ai/index.xml)
 
 # Hardware companies
 
