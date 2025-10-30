@@ -4,10 +4,50 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>30 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>30 Oct 25 15:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>GAA says Allianz probe ongoing after Offaly vote</title>
+      <link>https://www.rte.ie/sport/football/2025/1030/1541386-gaa-says-allianz-probe-ongoing-after-offaly-vote/</link>
+      <description>
+        <![CDATA[The GAA says its ethics and integrity commission is still investigating the association's relationship with Allianz after the Offaly county board called for an end to commercial ties with the multinational company.]]>
+      </description>
+      <source:markdown>The GAA says its ethics and integrity commission is still investigating the association&#39;s relationship with Allianz after the Offaly county board called for an end to commercial ties with the multinational company.</source:markdown>
+      <guid>cid://https://www.rte.ie/sport/football/2025/1030/1541386-gaa-says-allianz-probe-ongoing-after-offaly-vote/</guid>
+    </item>    <item>
+      <title>Trump sets refugee ceiling at record-low 7,500</title>
+      <link>https://www.rte.ie/news/2025/1030/1541389-trump-refugee-ceiling/</link>
+      <description>
+        <![CDATA[US President Donald Trump set the refugee admissions ceiling at 7,500 for fiscal year 2026, the lowest cap on record, a White House document said, part of a broader effort to reshape refugee policies in the US and worldwide.]]>
+      </description>
+      <source:markdown>US President Donald Trump set the refugee admissions ceiling at 7,500 for fiscal year 2026, the lowest cap on record, a White House document said, part of a broader effort to reshape refugee policies in the US and worldwide.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1030/1541389-trump-refugee-ceiling/</guid>
+    </item>    <item>
+      <title>UK&#39;s Prince Andrew stripped of titles, forced out of home</title>
+      <link>https://www.rte.ie/news/uk/2025/1030/1541382-prince-andrew-title/</link>
+      <description>
+        <![CDATA[Britain's King Charles has stripped his brother Andrew of his title of prince and forced him out of his home, Buckingham Palace said, punishing him over his ties to the late sex offender Jeffrey Epstein.]]>
+      </description>
+      <source:markdown>Britain&#39;s King Charles has stripped his brother Andrew of his title of prince and forced him out of his home, Buckingham Palace said, punishing him over his ties to the late sex offender Jeffrey Epstein.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/uk/2025/1030/1541382-prince-andrew-title/</guid>
+    </item>    <item>
+      <title>Israel confirms identities of two deceased Gaza hostages</title>
+      <link>https://www.rte.ie/news/middle-east/2025/1030/1541379-israel-gaza-hamas/</link>
+      <description>
+        <![CDATA[Palestinian militant group Hamas has handed over two bodies of deceased Israeli hostages, a day after the tenuous Gaza ceasefire was shaken by a series of deadly Israeli strikes across the enclave.]]>
+      </description>
+      <source:markdown>Palestinian militant group Hamas has handed over two bodies of deceased Israeli hostages, a day after the tenuous Gaza ceasefire was shaken by a series of deadly Israeli strikes across the enclave.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/middle-east/2025/1030/1541379-israel-gaza-hamas/</guid>
+    </item>    <item>
+      <title>IALPA threatens strike action at ASL Airlines</title>
+      <link>https://www.rte.ie/news/2025/1030/1541376-pilots-strike-action/</link>
+      <description>
+        <![CDATA[The Irish Airline Pilots' Association has commenced a ballot of pilots employed by ASL Airlines Ireland for industrial action, up to and including strike action.]]>
+      </description>
+      <source:markdown>The Irish Airline Pilots&#39; Association has commenced a ballot of pilots employed by ASL Airlines Ireland for industrial action, up to and including strike action.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1030/1541376-pilots-strike-action/</guid>
+    </item>    <item>
       <title>Fitness-to-teach inquiry for principal who stole €100,000</title>
       <link>https://www.rte.ie/news/ireland/2025/1030/1541365-teaching-inquiry/</link>
       <description>
@@ -16,12 +56,12 @@
       <source:markdown>Lawyers for a former principal from the midlands who received a prison sentence for stealing over €100,000 from his school have claimed he would suffer &#34;double punishment&#34; if the Teaching Council were to suspend him or strike him off the register of teachers.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1030/1541365-teaching-inquiry/</guid>
     </item>    <item>
-      <title>Status Yellow wind and rain warnings for six counties</title>
+      <title>Status Yellow wind warning for four counties</title>
       <link>https://www.rte.ie/news/ireland/2025/1030/1541362-weather-warnings/</link>
       <description>
-        <![CDATA[Status Yellow warnings are in place for six counties as heavy rain and strong winds affect parts of the country.]]>
+        <![CDATA[A Status Yellow wind warning is in place for Cork, Kerry, Waterford and Wexford until 11pm.]]>
       </description>
-      <source:markdown>Status Yellow warnings are in place for six counties as heavy rain and strong winds affect parts of the country.</source:markdown>
+      <source:markdown>A Status Yellow wind warning is in place for Cork, Kerry, Waterford and Wexford until 11pm.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1030/1541362-weather-warnings/</guid>
     </item>    <item>
       <title>UK govt rules out public inquiry into Birmingham bombings</title>
@@ -48,17 +88,17 @@
       <title>Thalidomide survivors to be given medical cards by Govt</title>
       <link>https://www.rte.ie/news/health/2025/1030/1541354-thalidomide-survivors-meeting/</link>
       <description>
-        <![CDATA[The Government has met Thalidomide survivors in Dublin and outlined a series of measures to help them, including the provision of medical cards.]]>
+        <![CDATA[The Government has met thalidomide survivors in Dublin and outlined a series of measures to help them, including the provision of medical cards.]]>
       </description>
-      <source:markdown>The Government has met Thalidomide survivors in Dublin and outlined a series of measures to help them, including the provision of medical cards.</source:markdown>
+      <source:markdown>The Government has met thalidomide survivors in Dublin and outlined a series of measures to help them, including the provision of medical cards.</source:markdown>
       <guid>cid://https://www.rte.ie/news/health/2025/1030/1541354-thalidomide-survivors-meeting/</guid>
     </item>    <item>
       <title>Two men found guilty of murder of Croatian man in Dublin</title>
       <link>https://www.rte.ie/news/courts/2025/1030/1541348-josip-strok-court/</link>
       <description>
-        <![CDATA[Two men have been found guilty of the murder of Croatian national Josip Strok on a Dublin street last year.]]>
+        <![CDATA[Two men have been found guilty of the murder of Croatian man Josip Strok on a Dublin street last year.]]>
       </description>
-      <source:markdown>Two men have been found guilty of the murder of Croatian national Josip Strok on a Dublin street last year.</source:markdown>
+      <source:markdown>Two men have been found guilty of the murder of Croatian man Josip Strok on a Dublin street last year.</source:markdown>
       <guid>cid://https://www.rte.ie/news/courts/2025/1030/1541348-josip-strok-court/</guid>
     </item>    <item>
       <title>Dublin firefighter given jail term for rape in US hotel</title>
@@ -96,6 +136,16 @@
       </description>
       <source:markdown>The President of the High Court has granted an application on behalf of the Child and Family Agency Tusla for further orders relating to the care and protection of a child described as very vulnerable.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1030/1541339-child-tusla/</guid>
+    </item>    <item>
+      <title>Feds announce $7M for Hurricane Melissa relief in Caribbean countries</title>
+      <link>https://www.cbc.ca/news/politics/hurricane-melissa-relief-9.6960437?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/b91494fe-bf62-4bc2-a6aa-68c79cb0ef3a,1761752908115/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5323%2C2994%29%3BResize%3D%28620%29' alt='A dark complected young man in tshirt and shorts walks near downed power lines and train tracks' width='620' height='349' title='Residents walk through Santa Cruz, Jamaica, Wednesday, Oct. 29, 2025, after Hurricane Melissa passed.'/><p>The MP overseeing Canada's foreign aid announced $7 million in humanitarian relief for Caribbean states hit by Hurricane Melissa on Thursday.</p>]]>
+      </description>
+      <source:markdown>![A dark complected young man in tshirt and shorts walks near downed power lines and train tracks](https://i.cbc.ca/ais/b91494fe-bf62-4bc2-a6aa-68c79cb0ef3a,1761752908115/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5323%2C2994%29%3BResize%3D%28620%29)
+
+The MP overseeing Canada&#39;s foreign aid announced $7 million in humanitarian relief for Caribbean states hit by Hurricane Melissa on Thursday.</source:markdown>
+      <guid>cid://9.6960437</guid>
     </item>    <item>
       <title>Strange light in Irish skies likely SpaceX rocket debris</title>
       <link>https://www.rte.ie/news/2025/1030/1541336-mystery-lights/</link>
@@ -170,6 +220,15 @@
       <source:markdown>Reports of mass atrocities in and around the newly-captured city of El Fasher in Darfur mark a new low in Sudan&#39;s brutal civil war and the Security Council met in emergency session on Thursday morning in New York to address the rapidly deteriorating situation. Civilians are facing starvation and mass displacement as the UN continues providing lifesaving aid throughout the country. Follow our in-depth live coverage; UN News app users can go here.</source:markdown>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-10-2025_UNFPA_Sudan.jpg/image560x340cropped.jpg" length="44688" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/10/1166222</guid>
+    </item>    <item>
+      <title>‘Repeated bouts of violence’ put Syria rebuilding at risk: Independent rights investigator</title>
+      <link>https://news.un.org/feed/view/en/story/2025/10/1166226</link>
+      <description>
+        <![CDATA[Incidents of mass killings and torture in post-Assad Syria are tempering early optimism about the transitional government’s ability to put an end to entrenched cycles of violence, the head of the UN-mandated independent investigative body on Syria said on Thursday.]]>
+      </description>
+      <source:markdown>Incidents of mass killings and torture in post-Assad Syria are tempering early optimism about the transitional government’s ability to put an end to entrenched cycles of violence, the head of the UN-mandated independent investigative body on Syria said on Thursday.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/21-07-2025-WFP-Syria-10.jpg/image560x340cropped.jpg" length="32839" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/10/1166226</guid>
     </item>    <item>
       <title>Man charged in connection with €8m drug seizure in Laois</title>
       <link>https://www.rte.ie/news/courts/2025/1030/1541300-portlaoise-court/</link>
@@ -339,12 +398,12 @@
       <source:markdown>The centrist D66 party has made huge gains in Dutch elections, likely giving it the lead in government formation as the party of far-right leader Geert Wilders lost support.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1030/1541236-dutch-election/</guid>
     </item>    <item>
-      <title>Dozens dead as Hurricane Melissa batters Caribbean</title>
+      <title>Devastated Caribbean assesses Hurricane Melissa damage</title>
       <link>https://www.rte.ie/news/2025/1030/1541234-hurricane-melissa/</link>
       <description>
-        <![CDATA[Hurricane Melissa has smashed through the northern Caribbean and was seen picking up speed as it churned across open ocean towards Bermuda, leaving a trail of high winds and destruction from Jamaica to Cuba and Haiti in its wake.]]>
+        <![CDATA[Hurricane Melissa was approaching Bermuda today after tearing a path of destruction across the Caribbean that left at least 24 people dead in Haiti, and parts of Jamaica and Cuba in ruins.]]>
       </description>
-      <source:markdown>Hurricane Melissa has smashed through the northern Caribbean and was seen picking up speed as it churned across open ocean towards Bermuda, leaving a trail of high winds and destruction from Jamaica to Cuba and Haiti in its wake.</source:markdown>
+      <source:markdown>Hurricane Melissa was approaching Bermuda today after tearing a path of destruction across the Caribbean that left at least 24 people dead in Haiti, and parts of Jamaica and Cuba in ruins.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1030/1541234-hurricane-melissa/</guid>
     </item>    <item>
       <title>US to resume nuclear weapons testing, says Trump</title>
@@ -6980,6 +7039,14 @@ At the Atlantic Indigenous Tourism Summit, Wabanaki entrepreneurs across New Bru
         <![CDATA[<img src='https://i.cbc.ca/ais/16797612-3ada-48bc-b35c-30e9bcf6e0dc,1760728526293/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Man in suit' width='620' height='349' title=''/><p></p>]]>
       </description>
       <source:markdown>![Man in suit](https://i.cbc.ca/ais/16797612-3ada-48bc-b35c-30e9bcf6e0dc,1760728526293/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29)</source:markdown>
+      <guid>cid://9.6942967</guid>
+    </item>    <item>
+      <title>Prince Andrew is losing his &#39;Prince&#39; title and mansion. Here&#39;s the latest on the King&#39;s move</title>
+      <link>https://www.cbc.ca/news/world/livestory/prince-andrew-to-lose-prince-title-and-longtime-home-9.6960522?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/eeb63f18-bc8c-4e77-8dc6-41f40c82268b,1761856631101/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C244%2C5225%2C2939%29%3BResize%3D%28620%29' alt='Britain&apos;s Prince Andrew leaves Westminster Abbey following the coronation ceremony of Britain&apos;s King Charles and Queen Camilla, in London.' width='620' height='349' title='Britain&apos;s Prince Andrew leaves Westminster Abbey following the coronation ceremony of Britain&apos;s King Charles and Queen Camilla, in London'/><p></p>]]>
+      </description>
+      <source:markdown>![Britain&#39;s Prince Andrew leaves Westminster Abbey following the coronation ceremony of Britain&#39;s King Charles and Queen Camilla, in London.](https://i.cbc.ca/ais/eeb63f18-bc8c-4e77-8dc6-41f40c82268b,1761856631101/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C244%2C5225%2C2939%29%3BResize%3D%28620%29)</source:markdown>
       <guid>cid://9.6942967</guid>
     </item>    <item>
       <title>These Wabanaki entrepreneurs hold traditional teachings close in their work</title>

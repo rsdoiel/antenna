@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>30 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>30 Oct 25 15:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -38,6 +38,100 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <title>Live with Heather Cox Richardson</title>
+      <link>https://heathercoxrichardson.substack.com/p/live-with-heather-cox-richardson-031</link>
+      <description>
+        <![CDATA[A recording from Heather Cox Richardson's live video]]>
+      </description>
+      <source:markdown>A recording from Heather Cox Richardson&#39;s live video</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/177599971/36cc1a9a67019363879c85bb193fa54b.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/live-with-heather-cox-richardson-031</guid>
+    </item>    <item>
+      <title>Apple Reports Strong Q4 2025 Results</title>
+      <link>https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42335</guid>
+    </item>    <item>
+      <title>Thursday session</title>
+      <link>https://adactio.com/notes/22227</link>
+      <description>
+        <![CDATA[<img src="https://adactio.com/images/uploaded/22227/small.jpg" srcset="https://adactio.com/images/uploaded/22227/medium.jpg 1.5x, https://adactio.com/images/uploaded/22227/large.jpg 2.5x" alt="Thursday session" />
+        <p>Thursday session</p>]]>
+      </description>
+      <source:markdown>![Thursday session](https://adactio.com/images/uploaded/22227/small.jpg)
+
+Thursday session</source:markdown>
+      <guid>cid://https://adactio.com/notes/22227</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m4grdusjts27</link>
+      <description>
+        <![CDATA[I needed to see that right now.
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>I needed to see that right now.
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m4grdusjts27</guid>
+    </item>    <item>
+      <title>AI is Dunning-Kruger as a service</title>
+      <link>https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/</link>
+      <description>
+        <![CDATA[On January 6th, 1995 two bank robbers in Pittsburgh confused law enforcement by not making any attempts to conceal their faces but instead brazenly looking at security cameras as if they were invisible. The reason is that they actually thought they were. Clifton Earl Johnson had convinced his fellow in crime, McArthur Wheeler that covering [&#8230;]]]>
+      </description>
+      <source:markdown>On January 6th, 1995 two bank robbers in Pittsburgh confused law enforcement by not making any attempts to conceal their faces but instead brazenly looking at security cameras as if they were invisible. The reason is that they actually thought they were. Clifton Earl Johnson had convinced his fellow in crime, McArthur Wheeler that covering \[…\]</source:markdown>
+      <guid>cid://https://christianheilmann.com/?p=8727</guid>
+    </item>    <item>
+      <title>Andrew Cuomo Uses AI MPREG Schoolhouse Rock Bill to Attack Mamdani, Is Out of Ideas</title>
+      <link>https://www.404media.co/ai-generated-mpreg-schoolhouse-rock-ad-attacking-mamdani-is-the-sad-poliaesthetic-of-our-time/</link>
+      <description>
+        <![CDATA[Uhh, is ChatGPT the dad or?]]>
+      </description>
+      <source:markdown>Uhh, is ChatGPT the dad or?</source:markdown>
+      <guid>cid://6903b976b0395800018a73f1</guid>
+    </item>    <item>
+      <title>Release Notes for Safari Technology Preview 231</title>
+      <link>https://webkit.org/blog/17560/release-notes-for-safari-technology-preview-231/</link>
+      <description>
+        <![CDATA[Safari Technology Preview Release 231 is now available for download for macOS Tahoe and macOS Sequoia.]]>
+      </description>
+      <source:markdown>Safari Technology Preview Release 231 is now available for download for macOS Tahoe and macOS Sequoia.</source:markdown>
+      <guid>cid://https://webkit.org/?p=17560</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m4gmugm7k22q</link>
+      <description>
+        <![CDATA[California – this Election Day, vote yes on Prop 50.
+        
+        California’s Prop 50 says that if Republicans are going to abuse the system to try and hang onto power, we’re going to counteract that abuse and create a level playing field in the midterm elections. 
+        
+        Make a plan to vote yes on Prop 50.]]>
+      </description>
+      <source:markdown>California – this Election Day, vote yes on Prop 50.
+
+California’s Prop 50 says that if Republicans are going to abuse the system to try and hang onto power, we’re going to counteract that abuse and create a level playing field in the midterm elections.
+
+Make a plan to vote yes on Prop 50.</source:markdown>
+      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m4gmugm7k22q</guid>
+    </item>    <item>
+      <title>October 29, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-29-2025-e47</link>
+      <enclosure url="https://api.substack.com/feed/podcast/177593782/eae0a165e010c6bfddbff39eb702b1d1.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-29-2025-e47</guid>
+    </item>    <item>
+      <title>Simplifying music playback</title>
+      <link>https://petermolnar.net/article/music-center-no-cast/</link>
+      <description>
+        <![CDATA[I decided to throw complications away and use a tablet, and a tablet alone via it's headphone jack to the amplifier. Blasphemy, sacrilege - no separate DAC, no dedicated streamer, no NAS, no nothing.]]>
+      </description>
+      <source:markdown>I decided to throw complications away and use a tablet, and a tablet alone via it&#39;s headphone jack to the amplifier. Blasphemy, sacrilege - no separate DAC, no dedicated streamer, no NAS, no nothing.</source:markdown>
+      <guid>cid://https://petermolnar.net/article/music-center-no-cast/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/30.html#a180045</link>
+      <description>
+        <![CDATA[At the same time I heard from people at Automattic that they had successfully <a href="https://github.com/scripting/feedlandInstall">installed</a> the new version of the FeedLand software on <a href="https://feedland.com/?river=true&screenname=davewiner&catname=politics">feedland.com</a> which runs on their VIP system, so theoretically should scale as well as anything on the net. There was a serious performance problem, that, with the help of <a href="https://ohryan.ca/author/admin/">Ryan Neudorf</a> who I met in Ottawa, and Scott Hanson, longtime contributor here, was <a href="https://github.com/scripting/feedlandDev/issues/8">fixed</a>. It was a daring move, it meant that <i>all</i> the timeline-generating code in FeedLand had to be rewritten. It was worth it. If you've ever felt that FeedLand was too slow at displaying news, please try again, I think you'll be pleased.]]>
+      </description>
+      <source:markdown>At the same time I heard from people at Automattic that they had successfully [installed](https://github.com/scripting/feedlandInstall) the new version of the FeedLand software on [feedland.com](https://feedland.com/?river=true&#38;screenname=davewiner&#38;catname=politics) which runs on their VIP system, so theoretically should scale as well as anything on the net. There was a serious performance problem, that, with the help of [Ryan Neudorf](https://ohryan.ca/author/admin/) who I met in Ottawa, and Scott Hanson, longtime contributor here, was [fixed](https://github.com/scripting/feedlandDev/issues/8). It was a daring move, it meant that _all_ the timeline-generating code in FeedLand had to be rewritten. It was worth it. If you&#39;ve ever felt that FeedLand was too slow at displaying news, please try again, I think you&#39;ll be pleased.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/30.html#a180045</guid>
+    </item>    <item>
       <title>Chimps Are Capable of Human-Like Rational Thought, Breakthrough Study Finds</title>
       <link>https://www.404media.co/chimps-are-capable-of-human-like-rational-thought-breakthrough-study-finds/</link>
       <description>
@@ -48,9 +142,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>    <item>
       <link>http://scripting.com/2025/10/30.html#a174601</link>
       <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2024/12/25/leftfacingsanta.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Just heard from <a href="https://inessential.com/">Brent</a> that the next version of <a href="https://github.com/Ranchero-Software/NetNewsWire/issues/3896#issuecomment-3468342615">NetNewsWire</a> will support the <a href="http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInRss">Markdown in RSS</a>. I wrote it up on my <a href="https://daveverse.org/2025/10/30/markdown-support-coming-in-netnewswire/">daveverse site</a>, which I edit with <a href="https://wordland.social/">WordLand</a>, which means it has a <a href="https://wordland.dev/scripting/237777565/rss.xml">special feed</a> that contains source:markdown elements. You can be one of the first people with markdown-support in your feed, help the bootstrap. I'm pretty sure it's going to work at this point.  If you have questions about this, you can post a comment <a href="https://github.com/scripting/Scripting-News/issues/334">here</a>.]]>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2024/12/25/leftfacingsanta.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Just heard from <a href="https://inessential.com/">Brent Simmons</a> that the next version of <a href="https://github.com/Ranchero-Software/NetNewsWire/issues/3896#issuecomment-3468342615">NetNewsWire</a> will support the <a href="http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInRss">Markdown in RSS</a>. I wrote it up on my <a href="https://daveverse.org/2025/10/30/markdown-support-coming-in-netnewswire/">daveverse site</a>, which I edit with <a href="https://wordland.social/">WordLand</a>, which means it has a <a href="https://wordland.dev/scripting/237777565/rss.xml">special feed</a> that contains <a href="https://source.scripting.com/#1653758422000">source:markdown</a> elements. You can be one of the first people with markdown-support in your feed, and in doing so, help the bootstrap. If you have questions, post a comment <a href="https://github.com/scripting/Scripting-News/issues/334">here</a>.]]>
       </description>
-      <source:markdown>![](https://imgs.scripting.com/2024/12/25/leftfacingsanta.png)Just heard from [Brent](https://inessential.com/) that the next version of [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire/issues/3896#issuecomment-3468342615) will support the [Markdown in RSS](http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInRss). I wrote it up on my [daveverse site](https://daveverse.org/2025/10/30/markdown-support-coming-in-netnewswire/), which I edit with [WordLand](https://wordland.social/), which means it has a [special feed](https://wordland.dev/scripting/237777565/rss.xml) that contains source:markdown elements. You can be one of the first people with markdown-support in your feed, help the bootstrap. I&#39;m pretty sure it&#39;s going to work at this point. If you have questions about this, you can post a comment [here](https://github.com/scripting/Scripting-News/issues/334).</source:markdown>
+      <source:markdown>![](https://imgs.scripting.com/2024/12/25/leftfacingsanta.png)Just heard from [Brent Simmons](https://inessential.com/) that the next version of [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire/issues/3896#issuecomment-3468342615) will support the [Markdown in RSS](http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInRss). I wrote it up on my [daveverse site](https://daveverse.org/2025/10/30/markdown-support-coming-in-netnewswire/), which I edit with [WordLand](https://wordland.social/), which means it has a [special feed](https://wordland.dev/scripting/237777565/rss.xml) that contains [source:markdown](https://source.scripting.com/#1653758422000) elements. You can be one of the first people with markdown-support in your feed, and in doing so, help the bootstrap. If you have questions, post a comment [here](https://github.com/scripting/Scripting-News/issues/334).</source:markdown>
       <guid>cid://http://scripting.com/2025/10/30.html#a174601</guid>
     </item>    <item>
       <title>Markdown support coming in NetNewsWire</title>
@@ -717,6 +811,10 @@ Tags: [francois-chollet](https://simonwillison.net/tags/francois-chollet), [teac
 
 The post [613\. Nelson: Glory at Trafalgar (Part 6)](https://therestishistory.com/613-nelson-glory-at-trafalgar-part-6/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
       <guid>cid://https://therestishistory.com/613-nelson-glory-at-trafalgar-part-6/</guid>
+    </item>    <item>
+      <title>Announcing Rust 1.91.0</title>
+      <link>https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/</link>
+      <guid>cid://https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/</guid>
     </item>    <item>
       <title>You can change the color of your buttons</title>
       <link>https://buttondown.com/blog/2025-10-29</link>
@@ -2450,6 +2548,14 @@ Tags: [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-progr
         <![CDATA[I don&#39;t know who was the first to write The em dash is dead and AI killed it. Maybe it was Jacob Schilleci in the Reno Gazette Journal, but since most of it is behind a paywall and that paper is one of many run by Gannett, I&#39;m not sure—though that&#39;s where the first link in [&#8230;]]]>
       </description>
       <source:markdown>I don&#39;t know who was the first to write The em dash is dead and AI killed it. Maybe it was Jacob Schilleci in the Reno Gazette Journal, but since most of it is behind a paywall and that paper is one of many run by Gannett, I&#39;m not sure—though that&#39;s where the first link in \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2025/10/27/on-em-dashes-and-elipses/</guid>
+    </item>    <item>
+      <title>On em dashes and ellipses</title>
+      <link>https://doc.searls.com/2025/10/27/on-em-dashes-and-ellipses/</link>
+      <description>
+        <![CDATA[I don&#8217;t know who was the first to write The em dash is dead and AI killed it. Maybe it was Jacob Schilleci in the Reno Gazette Journal, but since most of it is behind a paywall and that paper is one of many run by Gannett, I&#8217;m not sure—though that&#8217;s where the first link in [&#8230;]]]>
+      </description>
+      <source:markdown>I don’t know who was the first to write The em dash is dead and AI killed it. Maybe it was Jacob Schilleci in the Reno Gazette Journal, but since most of it is behind a paywall and that paper is one of many run by Gannett, I’m not sure—though that’s where the first link in \[…\]</source:markdown>
       <guid>cid://https://doc.searls.com/2025/10/27/on-em-dashes-and-elipses/</guid>
     </item>    <item>
       <title>A test</title>
