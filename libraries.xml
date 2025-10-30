@@ -4,10 +4,21 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>29 Oct 25 15:10 -0700</lastBuildDate>
+    <lastBuildDate>30 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Guest Post — Do Academic Libraries Have a Strategy for AI?</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/10/30/guest-post-do-academic-libraries-have-a-strategy-for-ai/</link>
+      <description>
+        <![CDATA[<p>If libraries are civic institutions that structure society’s relationship to knowledge, and generative AI is poised to reshape discovery whether libraries act or not, will library leaders will develop strategies that preserve trust, equity, and sustainability?</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/10/30/guest-post-do-academic-libraries-have-a-strategy-for-ai/">Guest Post — Do Academic Libraries Have a Strategy for AI?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>If libraries are civic institutions that structure society’s relationship to knowledge, and generative AI is poised to reshape discovery whether libraries act or not, will library leaders will develop strategies that preserve trust, equity, and sustainability?
+
+The post [Guest Post — Do Academic Libraries Have a Strategy for AI?](https://scholarlykitchen.sspnet.org/2025/10/30/guest-post-do-academic-libraries-have-a-strategy-for-ai/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61162</guid>
+    </item>    <item>
       <title>The Pit, by Frank Norris</title>
       <link>https://standardebooks.org/ebooks/frank-norris/the-pit</link>
       <description>
@@ -850,25 +861,6 @@ The post [“Who Isn’t in the Room Yet?”](https://sr.ithaka.org/blog/who-isn
 
 The post [Guest Post — The Economics of AI in Academic Research](https://scholarlykitchen.sspnet.org/2025/10/09/guest-post-the-economics-of-ai-in-academic-research/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=61080</guid>
-    </item>    <item>
-      <title>Guest Post — Rethinking Disciplinary Data Regimes</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/10/08/guest-post-rethinking-disciplinary-data-regimes/</link>
-      <description>
-        <![CDATA[<p>Between a political policy environment focused on defunding and deleting data collections – an environment in which little can be trusted – and an onslaught of new AI tools that feed indiscriminately on data, bits of information at the intersection of rows and columns are appearing in headlines more than ever before. To avoid cultural memory loss, we must build systems that save what humanity needs across disciplinary silos rather than saving some archives and losing others through an accident of history.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/10/08/guest-post-rethinking-disciplinary-data-regimes/">Guest Post &#8212; Rethinking Disciplinary Data Regimes</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Between a political policy environment focused on defunding and deleting data collections – an environment in which little can be trusted – and an onslaught of new AI tools that feed indiscriminately on data, bits of information at the intersection of rows and columns are appearing in headlines more than ever before. To avoid cultural memory loss, we must build systems that save what humanity needs across disciplinary silos rather than saving some archives and losing others through an accident of history.
-
-The post [Guest Post — Rethinking Disciplinary Data Regimes](https://scholarlykitchen.sspnet.org/2025/10/08/guest-post-rethinking-disciplinary-data-regimes/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61077</guid>
-    </item>    <item>
-      <title>Journey of a Curation Request: What Happens When You Ask for an Update to ROR</title>
-      <link>https://ror.org/blog/2025-10-08-journey-of-a-curation-request/</link>
-      <description>
-        <![CDATA[Have you ever wondered exactly what happens once you request a new ROR record or suggest a change to an existing ROR record? In this blog post, we take you through all the steps involved in ROR&#39;s open, community-driven process for making sure that the information in the ROR registry is complete and accurate.]]>
-      </description>
-      <source:markdown>Have you ever wondered exactly what happens once you request a new ROR record or suggest a change to an existing ROR record? In this blog post, we take you through all the steps involved in ROR&#39;s open, community-driven process for making sure that the information in the ROR registry is complete and accurate.</source:markdown>
-      <guid>cid://https://doi.org/10.71938/T128-EA02</guid>
     </item>
   </channel>
 </rss>

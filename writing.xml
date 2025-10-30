@@ -4,7 +4,7 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>29 Oct 25 15:10 -0700</lastBuildDate>
+    <lastBuildDate>30 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -124,18 +124,6 @@ The post [After the Hunt](https://johnaugust.com/2025/after-the-hunt) first appe
       <title>2026 IFTF Microgrant Applications Now Open!</title>
       <link>http://blog.iftechfoundation.org/2025-10-12-2026-iftf-microgrant-applications-now-open.html</link>
       <guid>cid://http://blog.iftechfoundation.org/2025-10-12-2026-iftf-microgrant-applications-now-open.html</guid>
-    </item>    <item>
-      <title>Institutional Repositories and AI Scraping</title>
-      <link>https://www.authorsalliance.org/2025/10/08/institutional-repositories-and-ai-scraping/</link>
-      <description>
-        <![CDATA[We recently received a question regarding the AI scraping of Institutional Repositories, by which we mean online digital archives that [&#8230;]]]>
-      </description>
-      <source:markdown>We recently received a question regarding the AI scraping of Institutional Repositories, by which we mean online digital archives that \[…\]</source:markdown>
-      <guid>cid://https://www.authorsalliance.org/?p=12237</guid>
-    </item>    <item>
-      <title>Using Advanced Character Sketch Templates in Scrivener</title>
-      <link>https://www.literatureandlatte.com/blog/using-advanced-character-sketch-templates-in-scrivener</link>
-      <guid>cid://https://www.literatureandlatte.com/?p=8075</guid>
     </item>
   </channel>
 </rss>

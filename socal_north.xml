@@ -7,10 +7,50 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>29 Oct 25 15:10 -0700</lastBuildDate>
+    <lastBuildDate>30 Oct 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>How Erewhon finally got me through the door with the Smashing Pumpkins OG Goth smoothie</title>
+      <link>https://laist.com/news/food/how-erewhon-finally-got-me-through-the-door-with-the-smashing-pumpkins-og-goth-smoothie</link>
+      <description>
+        <![CDATA[It's spooky season, and the upscale health influencer grocery store has a new smoothie.]]>
+      </description>
+      <source:markdown>It&#39;s spooky season, and the upscale health influencer grocery store has a new smoothie.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-2ce2-d6cc-a9ff-fefa94da0000</guid>
+    </item>    <item>
+      <title>Best things to do Halloween weekend in LA and SoCal</title>
+      <link>https://laist.com/news/arts-and-entertainment/best-events-halloween-weekend-los-angeles-southern-california-2025</link>
+      <description>
+        <![CDATA[Check out Burbank’s best Halloween decorations, Día de los Muertos events, a new must-see exhibit at MOCA, and more this Halloween weekend.]]>
+      </description>
+      <source:markdown>Check out Burbank’s best Halloween decorations, Día de los Muertos events, a new must-see exhibit at MOCA, and more this Halloween weekend.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-3247-d84d-affa-feef66c40000</guid>
+    </item>    <item>
+      <title>‘I’ve never seen anything like it.’ Aggressive ICE raids led one man to ask: should I self-deport?</title>
+      <link>https://laist.com/news/ive-never-seen-anything-like-it-aggressive-ice-raids-led-one-man-to-ask-should-i-self-deport</link>
+      <description>
+        <![CDATA[Trump’s immigration crackdown is leading some longtime residents to flee the country. They leave behind fractured communities and grieving loved ones.]]>
+      </description>
+      <source:markdown>Trump’s immigration crackdown is leading some longtime residents to flee the country. They leave behind fractured communities and grieving loved ones.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-321f-d84d-affa-feff679e0000</guid>
+    </item>    <item>
+      <title>How can families keep LA’s little trick-or-treaters safe?</title>
+      <link>https://laist.com/news/education/early-childhood-education-pre-k/halloween-safety-tips-kids-children-candy-costumes-allergies</link>
+      <description>
+        <![CDATA[Most parents know the basics, but pediatricians have some quick and easy tips to keep your young children safe during Halloween.]]>
+      </description>
+      <source:markdown>Most parents know the basics, but pediatricians have some quick and easy tips to keep your young children safe during Halloween.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-3212-d84d-affa-fefa64c70000</guid>
+    </item>    <item>
+      <title>LAPD mental health teams should take lead at crisis events instead of patrol officers, city controller says</title>
+      <link>https://laist.com/news/criminal-justice/lapd-mental-health-smart-teams-crisis-events-patrol-officers-city-controllers-office</link>
+      <description>
+        <![CDATA[An assessment by City Controller Kenneth Mejia’s office makes several recommendations meant to reduce the number of incidents that end in violence.]]>
+      </description>
+      <source:markdown>An assessment by City Controller Kenneth Mejia’s office makes several recommendations meant to reduce the number of incidents that end in violence.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-31b1-d84d-affa-fffb6d4e0001</guid>
+    </item>    <item>
       <title>Foster youth were significantly affected by Eaton Fire, report finds</title>
       <link>https://laist.com/news/foster-youth-significantly-affected-by-eaton-fire</link>
       <description>
@@ -43,12 +83,12 @@
       <source:markdown>Metro’s current plan involves expanding a storage yard in Vernon to make up for the loss of space at a different yard near Union Station, incensing electeds, leaders and business owners in the city.</source:markdown>
       <guid>cid://urn:uuid:0000019a-310f-d84d-affa-ffef6eff0002</guid>
     </item>    <item>
-      <title>World Series Game 5: Dodgers look for win before series returns to Blue Jays home field</title>
+      <title>World Series Game 5: Dodgers lose to Blue Jays 6-1, now trail series 3-2</title>
       <link>https://laist.com/news/world-series-game-5-dodgers-blue-jays</link>
       <description>
-        <![CDATA[Los Angeles and the Toronto Blue Jays are tied, 2-2, in the World Series. Game 5 tonight at Dodger Stadium will determine who has the advantage as the series heads back to Toronto.]]>
+        <![CDATA[The Blue Jays now have the advantage as the series heads back to Toronto.]]>
       </description>
-      <source:markdown>Los Angeles and the Toronto Blue Jays are tied, 2-2, in the World Series. Game 5 tonight at Dodger Stadium will determine who has the advantage as the series heads back to Toronto.</source:markdown>
+      <source:markdown>The Blue Jays now have the advantage as the series heads back to Toronto.</source:markdown>
       <guid>cid://urn:uuid:0000019a-315a-d84d-affa-fffa7f870000</guid>
     </item>    <item>
       <title>Half a million young Californians aren’t in school or work. Most are men</title>
@@ -154,7 +194,7 @@
       <source:markdown>Israel has strengthened its security with a series of sweeping military victories in the past two years. It has also become far more isolated internationally, with no clear path ahead.</source:markdown>
       <guid>cid://urn:uuid:0000019a-2e03-d84d-affa-eeeb69b00000</guid>
     </item>    <item>
-      <title>LA County approves nearly another $1 billion to settle sex abuse claims</title>
+      <title>LA County approves another $828 million to settle sex abuse claims</title>
       <link>https://laist.com/news/criminal-justice/la-county-approves-second-sex-abuse-settlement-ab-218</link>
       <description>
         <![CDATA[Almost half of the $828 million payout will be paid in just a few weeks. That means the county will shell out close to $5 billion between this and an historic settlement approved earlier this year.]]>
@@ -2971,182 +3011,6 @@ demonstrations.</source:markdown>
       </description>
       <source:markdown>President Trump touted the peace deal on social media, saying all parties &#39;will be treated fairly.&#39;</source:markdown>
       <guid>cid://urn:uuid:00000199-c647-dc80-a5fb-ef5f97010000</guid>
-    </item>    <item>
-      <title>Hundreds of Angelenos in recuperative care facilities face homelessness after Health Net ends contract</title>
-      <link>https://laist.com/news/health/recuperative-care-soul-housing-health-net-discharge-contract-terminate-transition-plan-respite</link>
-      <description>
-        <![CDATA[Soul Housing was, until recently, L.A. County’s largest recuperative care provider, with more than 1,300 beds across 16 facilities.]]>
-      </description>
-      <source:markdown>Soul Housing was, until recently, L.A. County’s largest recuperative care provider, with more than 1,300 beds across 16 facilities.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c5a6-dbfa-afdf-c7a760620000</guid>
-    </item>    <item>
-      <title>Dozens of Bob Ross paintings will be auctioned to help public TV after funding cuts</title>
-      <link>https://laist.com/news/bob-ross-paintings-auction-public-tv-funding-cuts</link>
-      <description>
-        <![CDATA[Thirty of Ross' trademark landscapes will be sold at a series of auctions starting in November. He painted many of them live on The Joy of Painting, which started airing on PBS in the 1980s.]]>
-      </description>
-      <source:markdown>Thirty of Ross&#39; trademark landscapes will be sold at a series of auctions starting in November. He painted many of them live on The Joy of Painting, which started airing on PBS in the 1980s.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c5f2-dbfa-afdf-c7f723680000</guid>
-    </item>    <item>
-      <title>California voters could see faster election results under new state law</title>
-      <link>https://laist.com/news/politics/california-voters-could-see-faster-election-results-under-new-state-law</link>
-      <description>
-        <![CDATA[California is known for taking weeks to tally its ballots, causing uncertainty and frustration among voters. That could change with a faster turnaround under a new state law.]]>
-      </description>
-      <source:markdown>California is known for taking weeks to tally its ballots, causing uncertainty and frustration among voters. That could change with a faster turnaround under a new state law.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c54a-dbfa-afdf-c74fb1c70000</guid>
-    </item>    <item>
-      <title>Heads up, LA County: Taxes are due Wednesday, Oct. 15</title>
-      <link>https://laist.com/news/la-county-taxes-due-oct-15-deadline</link>
-      <description>
-        <![CDATA[L.A. County’s tax deadline was moved from April to October this year because of the January fires.]]>
-      </description>
-      <source:markdown>L.A. County’s tax deadline was moved from April to October this year because of the January fires.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c526-dc80-a5fb-ed7edaf80000</guid>
-    </item>    <item>
-      <title>Padlet removes ‘People over Papers,’ a mapping tool tracking ICE raids</title>
-      <link>https://laist.com/news/politics/padlet-removes-people-over-papers-a-mapping-tool-tracking-ice-raids</link>
-      <description>
-        <![CDATA[The crowdsourced site was taken down without warning, days after political figures called for its removal. Its creators quickly launched a replacement.]]>
-      </description>
-      <source:markdown>The crowdsourced site was taken down without warning, days after political figures called for its removal. Its creators quickly launched a replacement.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c4e0-dc80-a5fb-edf892d20000</guid>
-    </item>    <item>
-      <title>Another hospital in Southern California will close its maternity ward. Here&#39;s where things stand</title>
-      <link>https://laist.com/news/health/inland-empire-hospital-in-closing-maternity-ward</link>
-      <description>
-        <![CDATA[The closure at Corona Regional Medical Center is the latest in a string of accelerated closures across the state.]]>
-      </description>
-      <source:markdown>The closure at Corona Regional Medical Center is the latest in a string of accelerated closures across the state.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c4fa-dc80-a5fb-edfa4acf0000</guid>
-    </item>    <item>
-      <title>Newsom signs bill to prevent sex abuse in schools</title>
-      <link>https://laist.com/news/education/newsom-signs-bill-to-prevent-sex-abuse-in-schools</link>
-      <description>
-        <![CDATA[The law requires a database intended to stop teachers facing credible accusations of abuse from quitting and getting rehired at another school.]]>
-      </description>
-      <source:markdown>The law requires a database intended to stop teachers facing credible accusations of abuse from quitting and getting rehired at another school.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c4cd-d8ee-a79d-cddf383f0000</guid>
-    </item>    <item>
-      <title>‘Wonder and curiosity’ fuel a new LA-made magazine for kids</title>
-      <link>https://laist.com/news/education/los-angeles-kids-magazine-bobbety</link>
-      <description>
-        <![CDATA[In a world where even toddlers are increasingly on screens, local graphic designer Meeta Panesar has created a print magazine that invites readers to explore the world and their own creativity.]]>
-      </description>
-      <source:markdown>In a world where even toddlers are increasingly on screens, local graphic designer Meeta Panesar has created a print magazine that invites readers to explore the world and their own creativity.</source:markdown>
-      <guid>cid://urn:uuid:00000199-bb83-dc80-a5fb-bfdb2f500000</guid>
-    </item>    <item>
-      <title>Oil refinery closures leave workers searching for a job that ‘just doesn’t exist’</title>
-      <link>https://laist.com/news/oil-refinery-closures-leave-workers-searching-for-jobs</link>
-      <description>
-        <![CDATA[As two more oil refineries prepare to close in California, workers who are laid off face limited job opportunities.]]>
-      </description>
-      <source:markdown>As two more oil refineries prepare to close in California, workers who are laid off face limited job opportunities.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c487-dc80-a5fb-eddff4f80000</guid>
-    </item>    <item>
-      <title>Uber driver charged in connection with starting the Palisades Fire</title>
-      <link>https://laist.com/news/criminal-justice/palisades-fire-man-charged-arrested-la-fires</link>
-      <description>
-        <![CDATA[The Palisades Fire erupted on Jan. 7 and went on to kill 12 people and destroy more than 6,800 homes and buildings.]]>
-      </description>
-      <source:markdown>The Palisades Fire erupted on Jan. 7 and went on to kill 12 people and destroy more than 6,800 homes and buildings.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c45d-dbfa-afdf-c75d6e050001</guid>
-    </item>    <item>
-      <title>Westminster slams VietRISE&#39;s August Revolution post as &#39;communist propaganda&#39;</title>
-      <link>https://laist.com/news/politics/westminster-vietrise-august-revolution-post-communist-propaganda</link>
-      <description>
-        <![CDATA[VietRISE said the post from August was part of a series born out of the realization that many people don't know about Vietnam’s history beyond 1975.]]>
-      </description>
-      <source:markdown>VietRISE said the post from August was part of a series born out of the realization that many people don&#39;t know about Vietnam’s history beyond 1975.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c0fc-dc80-a5fb-edfc22f30000</guid>
-    </item>    <item>
-      <title>Quiet weather ahead of chance of showers later this week</title>
-      <link>https://laist.com/news/climate-environment/socal-weather-chance-of-showers-later-this-week</link>
-      <description>
-        <![CDATA[Remnants from Hurricane Priscilla could bring showers and thunderstorms to the region Thursday.]]>
-      </description>
-      <source:markdown>Remnants from Hurricane Priscilla could bring showers and thunderstorms to the region Thursday.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c088-dc80-a5fb-edd815760000</guid>
-    </item>    <item>
-      <title>LA charter reform could reshape city politics. Instead it&#39;s mired in delays and infighting</title>
-      <link>https://laist.com/news/politics/charter-reform-commission-transparency</link>
-      <description>
-        <![CDATA[Commissioners have a big agenda: expanding the City Council, switching to a ranked-choice voting and more. Nearly four months after an already delayed start, one commissioner told LAist they're still "at square one."]]>
-      </description>
-      <source:markdown>Commissioners have a big agenda: expanding the City Council, switching to a ranked-choice voting and more. Nearly four months after an already delayed start, one commissioner told LAist they&#39;re still &#34;at square one.&#34;</source:markdown>
-      <guid>cid://urn:uuid:00000199-c116-dc80-a5fb-ed5e44280000</guid>
-    </item>    <item>
-      <title>Hundreds of LA artists gather for annual summit after ‘unprecedented’ year of fires, raids and defunding</title>
-      <link>https://laist.com/news/los-angeles-activities/los-angeles-artists-gather-annual-summit-state-of-the-arts</link>
-      <description>
-        <![CDATA[Arts for L.A. advocacy group convenes Wednesday to help artists heal and renew and do the same for the L.A. communities they serve.]]>
-      </description>
-      <source:markdown>Arts for L.A. advocacy group convenes Wednesday to help artists heal and renew and do the same for the L.A. communities they serve.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c0d2-dc80-a5fb-edda1fdf0000</guid>
-    </item>    <item>
-      <title>When the next fire hits, you may be on your own. The issues plaguing LA County’s emergency response</title>
-      <link>https://laist.com/news/climate-environment/la-county-emergency-response-after-action-reports-woolsey-palisades-eaton</link>
-      <description>
-        <![CDATA[All disasters are chaotic, but an LAist review of reports produced after two wildfire incidents found similar shortcomings and similar recommendations about how to fix them.]]>
-      </description>
-      <source:markdown>All disasters are chaotic, but an LAist review of reports produced after two wildfire incidents found similar shortcomings and similar recommendations about how to fix them.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a741-d2f8-a7d9-b76d2da30000</guid>
-    </item>    <item>
-      <title>LA charter reform could reshape city politics. Instead it&#39;s mired in delays and infighting</title>
-      <link>https://laist.com/news/charter-reform-commission-transparency</link>
-      <description>
-        <![CDATA[Commissioners have a big agenda: expanding the City Council, switching to a ranked-choice voting and more. Nearly four months after an already delayed start, one commissioner told LAist they're still "at square one."]]>
-      </description>
-      <source:markdown>Commissioners have a big agenda: expanding the City Council, switching to a ranked-choice voting and more. Nearly four months after an already delayed start, one commissioner told LAist they&#39;re still &#34;at square one.&#34;</source:markdown>
-      <guid>cid://urn:uuid:00000199-c116-dc80-a5fb-ed5e44280000</guid>
-    </item>    <item>
-      <title>Proposed ballot to increase LA’s street lighting repair budget is delayed until the winter</title>
-      <link>https://laist.com/news/transportation/street-light-copper-wire-ballot</link>
-      <description>
-        <![CDATA[The city can’t approve higher fees to bolster the street light repair budget without gaining approval from property owners.]]>
-      </description>
-      <source:markdown>The city can’t approve higher fees to bolster the street light repair budget without gaining approval from property owners.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c0ae-d78b-a9d9-c0ae57090000</guid>
-    </item>    <item>
-      <title>Find legendary eateries along this weekend’s CicLAvia route in the heart of LA</title>
-      <link>https://laist.com/news/food/legendary-eateries-ciclavia-route-los-angeles</link>
-      <description>
-        <![CDATA[Bike, skate or walk through Westlake, Chinatown, Little Tokyo and Boyle Heights — and refresh yourself at these icons along the way.]]>
-      </description>
-      <source:markdown>Bike, skate or walk through Westlake, Chinatown, Little Tokyo and Boyle Heights — and refresh yourself at these icons along the way.</source:markdown>
-      <guid>cid://urn:uuid:00000199-bfa7-dbfa-afdf-bfa7a5230000</guid>
-    </item>    <item>
-      <title>Retired federal land managers say that partisan shutdown language is chilling</title>
-      <link>https://laist.com/news/democrats-take-legal-aim-at-the-radical-left-language-during-shutdown</link>
-      <description>
-        <![CDATA[A federal union argues that Trump administration language posted on federal agency websites and some emails blaming a shutdown on the "Radical Left Democrats" violates a 1939 federal law.]]>
-      </description>
-      <source:markdown>A federal union argues that Trump administration language posted on federal agency websites and some emails blaming a shutdown on the &#34;Radical Left Democrats&#34; violates a 1939 federal law.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c189-dc80-a5fb-edd94f080000</guid>
-    </item>    <item>
-      <title>These numbers show how 2 years of war have devastated Palestinian lives in Gaza</title>
-      <link>https://laist.com/news/these-numbers-show-how-2-years-of-war-have-devastated-palestinian-lives-in-gaza</link>
-      <description>
-        <![CDATA[It's been two years since Hamas-led militants attacked Israel, killing some 1,200 people and taking 251 hostages. In response, Israeli leaders promised a punishing offensive. Here are some numbers showing the war's toll.]]>
-      </description>
-      <source:markdown>It&#39;s been two years since Hamas-led militants attacked Israel, killing some 1,200 people and taking 251 hostages. In response, Israeli leaders promised a punishing offensive. Here are some numbers showing the war&#39;s toll.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c184-dc80-a5fb-eddc5ce10000</guid>
-    </item>    <item>
-      <title>The costs for Israelis of Israel&#39;s longest war</title>
-      <link>https://laist.com/news/the-costs-of-israels-longest-war-for-israelis</link>
-      <description>
-        <![CDATA[Israelis are paying heavy costs for the longest war in their history: a mental health crisis, trauma, unprecedented division during wartime, animosity abroad and apathy for Palestinian suffering.]]>
-      </description>
-      <source:markdown>Israelis are paying heavy costs for the longest war in their history: a mental health crisis, trauma, unprecedented division during wartime, animosity abroad and apathy for Palestinian suffering.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c17c-dbfa-afdf-c77df12a0000</guid>
-    </item>    <item>
-      <title>Democrats press Bondi over concerns DOJ is being weaponized to target Trump&#39;s foes</title>
-      <link>https://laist.com/news/politics/democrats-press-bondi-over-concerns-doj-is-being-weaponized-to-target-trumps-foes</link>
-      <description>
-        <![CDATA[Bondi defended her work as attorney general, rejecting allegations that DOJ investigations and prosecutions, including the recent indictment of former FBI Director James Comey, are driven by politics.]]>
-      </description>
-      <source:markdown>Bondi defended her work as attorney general, rejecting allegations that DOJ investigations and prosecutions, including the recent indictment of former FBI Director James Comey, are driven by politics.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c177-dbfa-afdf-c77755f80000</guid>
     </item>
   </channel>
 </rss>
