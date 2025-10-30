@@ -7,17 +7,65 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>30 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>30 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>How Erewhon finally got me through the door with the Smashing Pumpkins OG Goth smoothie</title>
-      <link>https://laist.com/news/food/how-erewhon-finally-got-me-through-the-door-with-the-smashing-pumpkins-og-goth-smoothie</link>
+      <title>OpenAI just cut a deal with California. Critics say it’s full of holes</title>
+      <link>https://laist.com/news/openai-just-cut-a-deal-with-california-critics-say-its-full-of-holes</link>
       <description>
-        <![CDATA[It's spooky season, and the upscale health influencer grocery store has a new smoothie.]]>
+        <![CDATA[OpenAI is converting to a for-profit and settling an investigation by California’s attorney general. Experts and advocates have concerns.]]>
       </description>
-      <source:markdown>It&#39;s spooky season, and the upscale health influencer grocery store has a new smoothie.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-2ce2-d6cc-a9ff-fefa94da0000</guid>
+      <source:markdown>OpenAI is converting to a for-profit and settling an investigation by California’s attorney general. Experts and advocates have concerns.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-35e2-d84d-affa-ffeaf2450000</guid>
+    </item>    <item>
+      <title>Trump pushes an end to medical care for transgender youth nationally</title>
+      <link>https://laist.com/news/trump-pushes-an-end-medical-care-transgender-youth-nationally</link>
+      <description>
+        <![CDATA[The White House plans to bar hospitals that treat transgender children and youth from getting any Medicare and Medicaid payments. The move would affect trans youth who have private insurance, too.]]>
+      </description>
+      <source:markdown>The White House plans to bar hospitals that treat transgender children and youth from getting any Medicare and Medicaid payments. The move would affect trans youth who have private insurance, too.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-35cd-d6cf-a9ff-7defe55b0000</guid>
+    </item>    <item>
+      <title>Trump rates meeting with China&#39;s Xi 12 out of 10, lowers tariffs</title>
+      <link>https://laist.com/news/trump-rates-meeting-with-xi-12-out-of-10-lowers-tariffs</link>
+      <description>
+        <![CDATA[President Trump said he and Chinese leader Xi Jinping "agreed to almost everything" in their nearly two-hour meeting in South Korea, which Trump said was "friendly."]]>
+      </description>
+      <source:markdown>President Trump said he and Chinese leader Xi Jinping &#34;agreed to almost everything&#34; in their nearly two-hour meeting in South Korea, which Trump said was &#34;friendly.&#34;</source:markdown>
+      <guid>cid://urn:uuid:0000019a-35de-d84d-affa-fffe827f0000</guid>
+    </item>    <item>
+      <title>Why car insurance costs have soared (and what drivers are doing about it)</title>
+      <link>https://laist.com/news/why-car-insurance-costs-have-soared-and-what-drivers-are-doing-about-it</link>
+      <description>
+        <![CDATA[Car insurance premiums have increased at twice the rate of overall inflation. They've stabilized, at least for now, but more than half of Americans say the costs are painful.]]>
+      </description>
+      <source:markdown>Car insurance premiums have increased at twice the rate of overall inflation. They&#39;ve stabilized, at least for now, but more than half of Americans say the costs are painful.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-35cc-d84d-affa-ffee00d20000</guid>
+    </item>    <item>
+      <title>Trump suggests the US will resume testing nuclear weapons</title>
+      <link>https://laist.com/news/trump-suggests-the-u-s-will-resume-testing-nuclear-weapons</link>
+      <description>
+        <![CDATA[President Donald Trump appeared to suggest the U.S. will resume testing nuclear weapons for the first time in three decades, saying it would be on an "equal basis" with Russia and China.]]>
+      </description>
+      <source:markdown>President Donald Trump appeared to suggest the U.S. will resume testing nuclear weapons for the first time in three decades, saying it would be on an &#34;equal basis&#34; with Russia and China.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-35b5-d827-a7fe-bdff92820000</guid>
+    </item>    <item>
+      <title>Trump keeps flirting with the idea of a third term. That would be unconstitutional</title>
+      <link>https://laist.com/news/politics/trump-keeps-flirting-with-the-idea-of-a-third-term-that-would-be-unconstitutional</link>
+      <description>
+        <![CDATA[A recent interview with Steve Bannon reignited chatter about whether President Trump would try to run in 2028, despite the 22nd Amendment.]]>
+      </description>
+      <source:markdown>A recent interview with Steve Bannon reignited chatter about whether President Trump would try to run in 2028, despite the 22nd Amendment.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-35b0-d6de-afbf-b7fa88a50000</guid>
+    </item>    <item>
+      <title>The teen-curated art exhibition inspired by Britney Spears</title>
+      <link>https://laist.com/news/los-angeles-activities/gen-z-curated-art-exhibition-britney-spears-orange-county-museum-of-art</link>
+      <description>
+        <![CDATA[In a biennial all about adolescence, an exhibition featuring many Y2K pieces was curated entirely by teenagers.]]>
+      </description>
+      <source:markdown>In a biennial all about adolescence, an exhibition featuring many Y2K pieces was curated entirely by teenagers.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-31f8-d1bb-a9db-39faf9690000</guid>
     </item>    <item>
       <title>Best things to do Halloween weekend in LA and SoCal</title>
       <link>https://laist.com/news/arts-and-entertainment/best-events-halloween-weekend-los-angeles-southern-california-2025</link>
@@ -26,6 +74,14 @@
       </description>
       <source:markdown>Check out Burbank’s best Halloween decorations, Día de los Muertos events, a new must-see exhibit at MOCA, and more this Halloween weekend.</source:markdown>
       <guid>cid://urn:uuid:0000019a-3247-d84d-affa-feef66c40000</guid>
+    </item>    <item>
+      <title>How Erewhon finally got me through the door with the Smashing Pumpkins OG Goth smoothie</title>
+      <link>https://laist.com/news/food/how-erewhon-finally-got-me-through-the-door-with-the-smashing-pumpkins-og-goth-smoothie</link>
+      <description>
+        <![CDATA[It's spooky season, and the upscale health influencer grocery store has a new smoothie.]]>
+      </description>
+      <source:markdown>It&#39;s spooky season, and the upscale health influencer grocery store has a new smoothie.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-2ce2-d6cc-a9ff-fefa94da0000</guid>
     </item>    <item>
       <title>‘I’ve never seen anything like it.’ Aggressive ICE raids led one man to ask: should I self-deport?</title>
       <link>https://laist.com/news/ive-never-seen-anything-like-it-aggressive-ice-raids-led-one-man-to-ask-should-i-self-deport</link>
