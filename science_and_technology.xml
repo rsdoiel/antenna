@@ -4,14 +4,144 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>31 Oct 25 11:11 -0700</lastBuildDate>
+    <lastBuildDate>31 Oct 25 15:12 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Thieves Steal More Than 1,000 Artifacts From a California Museum&#39;s Storage Facility</title>
+      <link>https://www.smithsonianmag.com/smart-news/thieves-steal-more-than-1000-artifacts-from-a-california-museums-storage-facility-180987612/</link>
+      <description>
+        <![CDATA[The "brazen" heist at the Oakland Museum of California occurred in the early morning hours of October 15. Investigators are working to track down the missing items]]>
+      </description>
+      <source:markdown>The &#34;brazen&#34; heist at the Oakland Museum of California occurred in the early morning hours of October 15. Investigators are working to track down the missing items</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/GEsuVIjV9WL2m2m8O4cgdWze9o8=/420x240/filters:focal(570x326:571x327)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1d/c8/1dc8204b-92ec-4b91-9f5d-494d5047d1fd/om-burglary-2.png" length="" type="" />
+    </item>    <item>
+      <title>Rats Are Snatching Bats Out of the Air and Eating Them—and Researchers Got It on Video</title>
+      <link>https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/</link>
+      <description>
+        <![CDATA[Rodents in northern Germany were spotted using two different hunting strategies at major urban bat hibernation sites]]>
+      </description>
+      <source:markdown>Rodents in northern Germany were spotted using two different hunting strategies at major urban bat hibernation sites</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/rBT5xPTvIpGUhErKX6Zy2eoyRvo=/420x240/filters:focal(3335x1604:3336x1605)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f0/89/f089f29e-ca4a-4fa6-befc-652ff8bbd8b1/gloza-rausch_et_al_rat_vs_bat_02.jpg" length="" type="" />
+    </item>    <item>
+      <title>Context Engineering: The Foundation for Reliable AI Agents</title>
+      <link>https://thenewstack.io/context-engineering-the-foundation-for-reliable-ai-agents/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/6bea1b77-question-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="A bunch of colorful question marks." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/6bea1b77-question.jpg" /><p>Context is king in the agentic world. Pairing a performant reasoning model like Claude, DeepSeek or GPT-5 with the right</p>
+        <p>The post <a href="https://thenewstack.io/context-engineering-the-foundation-for-reliable-ai-agents/">Context Engineering: The Foundation for Reliable AI Agents</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![A bunch of colorful question marks.](https://cdn.thenewstack.io/media/2025/10/6bea1b77-question-1024x576.jpg)
+
+Context is king in the agentic world. Pairing a performant reasoning model like Claude, DeepSeek or GPT-5 with the right
+
+The post [Context Engineering: The Foundation for Reliable AI Agents](https://thenewstack.io/context-engineering-the-foundation-for-reliable-ai-agents/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804937</guid>
+    </item>    <item>
+      <title>A Storm Battered Western Alaska, Scattering Thousands of Indigenous Artifacts Across the Sand</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-storm-battered-western-alaska-scattering-thousands-of-indigenous-artifacts-across-the-sand-180987606/</link>
+      <description>
+        <![CDATA[Archaeologists and community members in Quinhagak are racing to recover as many Yup'ik objects as possible]]>
+      </description>
+      <source:markdown>Archaeologists and community members in Quinhagak are racing to recover as many Yup&#39;ik objects as possible</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/I4MAnGIwVleovb5yVK_9ETvL0rk=/420x240/filters:focal(2449x1715:2450x1716)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f2/ef/f2ef40e8-a09c-4fdd-923f-2ad9a4410866/gettyimages-1141023575.jpg" length="" type="" />
+    </item>    <item>
+      <title>AI blew open software security, now OpenAI wants to fix it with an agent called Aardvark</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/31/openai_aardvark_agentic_security/</link>
+      <description>
+        <![CDATA[<h4>AI promises to find bugs and gaps in your apps</h4> <p>After helping expand the modern software attack surface with the rise of AI services prone to data poisoning and prompt injection, OpenAI has thrown a bone to cyber defenders.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### AI promises to find bugs and gaps in your apps
+
+After helping expand the modern software attack surface with the rise of AI services prone to data poisoning and prompt injection, OpenAI has thrown a bone to cyber defenders.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242789</guid>
+    </item>    <item>
+      <title>Datacenter biz and nuke startup join forces for Texas AI ranch</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/31/datacenter_biz_and_nuke_startup/</link>
+      <description>
+        <![CDATA[<h4>The bit barn will run on gas power first.</h4> <p>Texas is set to get another nuclear-powered datacenter project thanks to Blue Energy and Crusoe, but any atomic action isn&#39;t likely until the next decade.…</p>]]>
+      </description>
+      <source:markdown>#### The bit barn will run on gas power first.
+
+Texas is set to get another nuclear-powered datacenter project thanks to Blue Energy and Crusoe, but any atomic action isn&#39;t likely until the next decade.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242787</guid>
+    </item>    <item>
+      <title>Stop Writing Code, Start Writing Docs</title>
+      <link>https://thenewstack.io/stop-writing-code-start-writing-docs/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/f58f70ee-thumbnail-20-1024x576.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="eith Ballinger, Vice President and General Manager of Google Cloud Platform Developer Experience (GPC), about the evolution of agentic coding tools and the future of programming." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/f58f70ee-thumbnail-20.png" /><p>For this episode of The New Stack Agents, TNS Publisher Alex Williams and I talked to Keith Ballinger, the vice</p>
+        <p>The post <a href="https://thenewstack.io/stop-writing-code-start-writing-docs/">Stop Writing Code, Start Writing Docs</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![eith Ballinger, Vice President and General Manager of Google Cloud Platform Developer Experience (GPC), about the evolution of agentic coding tools and the future of programming.](https://cdn.thenewstack.io/media/2025/10/f58f70ee-thumbnail-20-1024x576.png)
+
+For this episode of The New Stack Agents, TNS Publisher Alex Williams and I talked to Keith Ballinger, the vice
+
+The post [Stop Writing Code, Start Writing Docs](https://thenewstack.io/stop-writing-code-start-writing-docs/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805042</guid>
+    </item>    <item>
+      <title>Chipkrise: Nexperia stoppt Ausfuhr von Wafern nach China</title>
+      <link>https://www.heise.de/news/Chipkrise-Nexperia-stoppt-Ausfuhr-von-Wafern-nach-China-10965827.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Trotz der Lieferprobleme bei Nexperia blieben bisher Produktionsstopps bei deutschen Autobauern aus. Doch nun droht eine Verschärfung des Konflikts.]]>
+      </description>
+      <source:markdown>Trotz der Lieferprobleme bei Nexperia blieben bisher Produktionsstopps bei deutschen Autobauern aus. Doch nun droht eine Verschärfung des Konflikts.</source:markdown>
+      <guid>cid://http://heise.de/-10965827</guid>
+    </item>    <item>
+      <title>The Promise of Redundancy: Can the Impact of a Cloud Outage Be Avoided?</title>
+      <link>https://thenewstack.io/the-promise-of-redundancy-can-the-impact-of-a-cloud-outage-be-avoided/</link>
+      <description>
+        <![CDATA[<img width="1024" height="683" src="https://cdn.thenewstack.io/media/2025/10/df99b3e5-sophia-shi-y0efzg2_ku8-unsplash-1024x683.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/df99b3e5-sophia-shi-y0efzg2_ku8-unsplash-scaled.jpg" /><p>The October 20 AWS outage was a powerful reminder of just how interconnected today&#8217;s applications and services have become. From</p>
+        <p>The post <a href="https://thenewstack.io/the-promise-of-redundancy-can-the-impact-of-a-cloud-outage-be-avoided/">The Promise of Redundancy: Can the Impact of a Cloud Outage Be Avoided? </a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/10/df99b3e5-sophia-shi-y0efzg2_ku8-unsplash-1024x683.jpg)
+
+The October 20 AWS outage was a powerful reminder of just how interconnected today’s applications and services have become. From
+
+The post [The Promise of Redundancy: Can the Impact of a Cloud Outage Be Avoided?](https://thenewstack.io/the-promise-of-redundancy-can-the-impact-of-a-cloud-outage-be-avoided/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805011</guid>
+    </item>    <item>
+      <title>A User-Focused Approach To Core Web Vitals via OpenTelemetry</title>
+      <link>https://thenewstack.io/a-user-focused-approach-to-core-web-vitals-via-opentelemetry/</link>
+      <description>
+        <![CDATA[<img width="1024" height="672" src="https://cdn.thenewstack.io/media/2025/10/dea27bd3-observability123-1024x672.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Binoculars looking out at an aircraft carrier." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/dea27bd3-observability123.jpeg" /><p>Core Web Vitals (CWVs) are some of the most standardized, user-experience-based telemetry we have for monitoring frontend performance. They&#8217;re incredibly</p>
+        <p>The post <a href="https://thenewstack.io/a-user-focused-approach-to-core-web-vitals-via-opentelemetry/">A User-Focused Approach To Core Web Vitals via OpenTelemetry</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Binoculars looking out at an aircraft carrier.](https://cdn.thenewstack.io/media/2025/10/dea27bd3-observability123-1024x672.jpeg)
+
+Core Web Vitals (CWVs) are some of the most standardized, user-experience-based telemetry we have for monitoring frontend performance. They’re incredibly
+
+The post [A User-Focused Approach To Core Web Vitals via OpenTelemetry](https://thenewstack.io/a-user-focused-approach-to-core-web-vitals-via-opentelemetry/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804903</guid>
+    </item>    <item>
+      <title>Top 10: Das beste Outdoor-Handy im Test – robust, mit Beamer, Nachtsicht &#38; Co.</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-outdoor-handy-im-test-robust-mit-beamer-nachtsicht-und-co/l7bnxjv?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Nachtsicht, Wärmebildkamera oder Monster-Akku: Outdoor-Smartphones sind nicht nur stabil und wasserdicht. Wir zeigen die besten Outdoor-Handys aus den Tests.]]>
+      </description>
+      <source:markdown>Nachtsicht, Wärmebildkamera oder Monster-Akku: Outdoor-Smartphones sind nicht nur stabil und wasserdicht. Wir zeigen die besten Outdoor-Handys aus den Tests.</source:markdown>
+      <guid>cid://http://heise.de/-10965753</guid>
+    </item>    <item>
+      <title>Ransomware gang runs ads for Microsoft Teams to pwn victims</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/31/rhysida_abuses_fake_teams_ads/</link>
+      <description>
+        <![CDATA[<h4>You click and think you&#39;re getting a download page, but get malware instead</h4> <p>Imagine searching for Microsoft Teams, seeing a text link at the top of the results, visiting it, and then getting hit with malware. The Rhysida ransomware gang, an especially insidious criminal organization that has stolen millions of people&#39;s info, has been placing fake ads for Microsoft Teams in search engines and then infecting victims who make the mistake of clicking them.…</p>]]>
+      </description>
+      <source:markdown>#### You click and think you&#39;re getting a download page, but get malware instead
+
+Imagine searching for Microsoft Teams, seeing a text link at the top of the results, visiting it, and then getting hit with malware. The Rhysida ransomware gang, an especially insidious criminal organization that has stolen millions of people&#39;s info, has been placing fake ads for Microsoft Teams in search engines and then infecting victims who make the mistake of clicking them.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242788</guid>
+    </item>    <item>
+      <title>These Mysterious &#39;Decorations&#39; in Spiderwebs Might Help Spiders Better Locate Their Prey</title>
+      <link>https://www.smithsonianmag.com/smart-news/these-mysterious-extra-touches-in-spiderwebs-might-help-spiders-better-locate-their-prey-180987600/</link>
+      <description>
+        <![CDATA[Researchers used computer models to simulate if and how these features influence prey affect vibrations of orb-weavers' webs]]>
+      </description>
+      <source:markdown>Researchers used computer models to simulate if and how these features influence prey affect vibrations of orb-weavers&#39; webs</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/VYlaTdhbzFeCvgfbz86Ab82dxb8=/420x240/filters:focal(1024x683:1025x684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/49/18/4918f5d7-67ea-4f56-9cd2-93303a5d729a/2048px-stabilimentum.jpg" length="" type="" />
+    </item>    <item>
       <title>Your AI Models Aren’t Slow, but Your Data Pipeline Might Be</title>
       <link>https://thenewstack.io/your-ai-models-arent-slow-but-your-data-pipeline-might-be/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/7b7b1ecf-streaming12-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Streams of zeros and one in bands of yellow and orange." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/7b7b1ecf-streaming12.jpg" /><p>The elephant in the engineering room right now is that most AI failures aren&#8217;t about model accuracy or even the</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/7b7b1ecf-streaming12-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Streams of zeros and one in bands of yellow and orange." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/7b7b1ecf-streaming12.jpg" /><p>The elephant in the engineering room right now is that most AI failures aren&#8217;t about model accuracy or even the</p>
         <p>The post <a href="https://thenewstack.io/your-ai-models-arent-slow-but-your-data-pipeline-might-be/">Your AI Models Aren’t Slow, but Your Data Pipeline Might Be</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![Streams of zeros and one in bands of yellow and orange.](https://cdn.thenewstack.io/media/2025/10/7b7b1ecf-streaming12-1024x576.jpg)
@@ -68,7 +198,7 @@ One of the biggest surprises of my tenure at _El Reg_ so far is the activity in 
       <title>KAITO and KubeFleet: Projects Solving AI Inference at Scale</title>
       <link>https://thenewstack.io/kaito-and-kubefleet-projects-solving-ai-inference-at-scale/</link>
       <description>
-        <![CDATA[<img width="1024" height="682" src="https://cdn.thenewstack.io/media/2025/10/1ed5b294-fall123-1024x682.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="A road through colorful fall foliage." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/1ed5b294-fall123.jpeg" /><p>Over the past year, AI inferencing has become significantly more resource-intensive due to the exponential growth in the size and</p>
+        <![CDATA[<img width="1024" height="682" src="https://cdn.thenewstack.io/media/2025/10/1ed5b294-fall123-1024x682.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="A road through colorful fall foliage." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/1ed5b294-fall123.jpeg" /><p>Over the past year, AI inferencing has become significantly more resource-intensive due to the exponential growth in the size and</p>
         <p>The post <a href="https://thenewstack.io/kaito-and-kubefleet-projects-solving-ai-inference-at-scale/">KAITO and KubeFleet: Projects Solving AI Inference at Scale</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![A road through colorful fall foliage.](https://cdn.thenewstack.io/media/2025/10/1ed5b294-fall123-1024x682.jpeg)
@@ -1473,14 +1603,14 @@ Nation-state snoops broke into Ribbon Communications – an outfit that provides
 Four years after the debut of Windows 11, Microsoft has finally fixed one of the biggest problems with its Start menu: The need to click the “All” button to view a complete list of all of your apps. A new Start menu, which gives you three different ways to view all installed programs without that extra click, is slowly rolling out to users.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242740</guid>
     </item>    <item>
-      <title>Microsoft seemingly just revealed that OpenAI lost $11.5B last quarter</title>
+      <title>Microsoft just revealed that OpenAI lost more than $11.5B last quarter</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/10/29/microsoft_earnings_q1_26_openai_loss/</link>
       <description>
-        <![CDATA[<h4>Satya has also delivered Sam most of the cash he promised</h4> <p>Microsoft reported earnings for the quarter ended Sept. 30 on Wednesday after market close and buried in its financial filings were a couple of passages suggesting that OpenAI suffered a net loss of $11.5 billion during the quarter.…</p>]]>
+        <![CDATA[<h4>Satya has also delivered Sam most of the cash he promised</h4> <p><strong>updated</strong>  Microsoft reported earnings for the quarter ended Sept. 30 on Wednesday after market close and buried in its financial filings were a couple of passages suggesting that OpenAI suffered a net loss of $11.5 billion or more during the quarter.…</p>]]>
       </description>
       <source:markdown>#### Satya has also delivered Sam most of the cash he promised
 
-Microsoft reported earnings for the quarter ended Sept. 30 on Wednesday after market close and buried in its financial filings were a couple of passages suggesting that OpenAI suffered a net loss of $11.5 billion during the quarter.…</source:markdown>
+**updated**  Microsoft reported earnings for the quarter ended Sept. 30 on Wednesday after market close and buried in its financial filings were a couple of passages suggesting that OpenAI suffered a net loss of $11.5 billion or more during the quarter.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242739</guid>
     </item>    <item>
       <title>Removing obfuscation in Minecraft: Java Edition</title>

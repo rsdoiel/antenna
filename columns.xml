@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>31 Oct 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>31 Oct 25 15:12 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,75 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Tim Bray on Grokipedia</title>
+      <link>https://www.tbray.org/ongoing/When/202x/2025/10/28/Grokipedia</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42346</guid>
+    </item>    <item>
+      <title>‘Grokipedia Is the Antithesis of Everything That Makes Wikipedia Good, Useful, and Human’</title>
+      <link>https://www.404media.co/grokipedia-is-the-antithesis-of-everything-that-makes-wikipedia-good-useful-and-human/?ref=platformer.news</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42345</guid>
+    </item>    <item>
+      <title>Friday Squid Blogging: Giant Squid at the Smithsonian</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-giant-squid-at-the-smithsonian.html</link>
+      <description>
+        <![CDATA[<p>I can&#8217;t believe that I haven&#8217;t yet posted <a href="https://naturalhistory.si.edu/explore/giant-squid">this picture</a> of a giant squid at the Smithsonian.</p>
+        <p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>
+        <p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>]]>
+      </description>
+      <source:markdown>I can’t believe that I haven’t yet posted [this picture](https://naturalhistory.si.edu/explore/giant-squid) of a giant squid at the Smithsonian.
+
+As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.
+
+[Blog moderation policy.](https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html)</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=71065</guid>
+    </item>    <item>
+      <link>https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/</link>
+      <description>
+        <![CDATA[<p>Bluesky hits 40 million users, introduces 'dislikes' beta.</p>]]>
+      </description>
+      <source:markdown>Bluesky hits 40 million users, introduces &#39;dislikes&#39; beta.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/31/1749/</guid>
+    </item>    <item>
+      <title>Denmark Backs Away From ‘Chat Control’ That Would Have Rendered E2EE Illegal in the E.U.</title>
+      <link>https://www.euractiv.com/news/danish-presidency-backs-away-from-chat-control/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42344</guid>
+    </item>    <item>
+      <title>What’s New in Shortcuts for the Apple OS 26 Releases</title>
+      <link>https://support.apple.com/en-us/125148</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42343</guid>
+    </item>    <item>
+      <title>October 30, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-30-2025-a49</link>
+      <enclosure url="https://api.substack.com/feed/podcast/177683788/ebe369eac589082f9e7d1dfa60f48e08.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-30-2025-a49</guid>
+    </item>    <item>
+      <title>Loss of Trust in U.S. Prompts International Criminal Court to Ditch Microsoft 365 for Open Source Alternative</title>
+      <link>https://www.techradar.com/pro/the-international-criminal-court-is-ditching-microsoft-software-for-an-open-source-alternative</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42342</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m4j5elgfcc23</link>
+      <description>
+        <![CDATA[More than 47 million Americans — including one in five children — don’t have reliable, affordable access to nutritious food. And as the cost of living skyrockets, more families are depending on SNAP benefits, or food stamps, to put food on the table.]]>
+      </description>
+      <source:markdown>More than 47 million Americans — including one in five children — don’t have reliable, affordable access to nutritious food. And as the cost of living skyrockets, more families are depending on SNAP benefits, or food stamps, to put food on the table.</source:markdown>
+      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m4j5elgfcc23</guid>
+    </item>    <item>
+      <title>Tim Cook Says Next-Gen Siri Still on Pace for ‘Next Year’, Along With Additional AI Partners</title>
+      <link>https://www.cnbc.com/2025/10/30/apple-aapl-earnings-report-q4-2025.html</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42341</guid>
+    </item>    <item>
+      <title>This week’s news in Venn diagrams.</title>
+      <link>https://lithub.com/this-weeks-news-in-venn-diagrams-oct-31/</link>
+      <description>
+        <![CDATA[Happy Halloween! I haven&#8217;t seen enough fun literary costumes in real life or on social media—what are the book people going as this year? The closest I&#8217;m getting is my niece dressing up as a black cat this year, which]]>
+      </description>
+      <source:markdown>Happy Halloween! I haven’t seen enough fun literary costumes in real life or on social media—what are the book people going as this year? The closest I’m getting is my niece dressing up as a black cat this year, which</source:markdown>
+      <guid>cid://https://lithub.com/?p=262135</guid>
+    </item>    <item>
+      <title>Kennedy Center Ticket Sales Have Plummeted Since Trump Takeover</title>
+      <link>https://www.washingtonpost.com/entertainment/2025/10/31/kennedy-center-sales/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42340</guid>
     </item>    <item>
       <title>Behind the Blog: Ray-Bans Are No Longer Cool or Timeless</title>
       <link>https://www.404media.co/behind-the-blog-ray-bans-are-no-longer-cool-or-timeless/</link>
@@ -104,7 +173,7 @@ Tags: [til](https://simonwillison.net/tags/til), [blogging](https://simonwilliso
       <source:markdown>Elon Musk on data centers in orbit: “SpaceX will be doing this.”</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/31/1747/</guid>
     </item>    <item>
-      <title>Joanna Stern on the 1X Neo, a Humanoid Robot Housekeeper That Is Remote-Controlled by Humans</title>
+      <title>Joanna Stern on the 1X Neo, a Humanoid ‘Robot’ Housekeeper That Is Actually Remote-Controlled by Humans</title>
       <link>https://www.wsj.com/tech/personal-tech/i-tried-the-robot-thats-coming-to-live-with-you-its-still-part-human-68515d44?st=guXssw&#38;reflink=desktopwebshare_permalink</link>
       <guid>cid://tag:daringfireball.net,2025:/linked//6.42338</guid>
     </item>    <item>
@@ -444,7 +513,7 @@ More than one Linux-adjacent vendor presented at the Ubuntu Summit, and a small 
         <![CDATA[The thing that excites me most is the seaweed.]]>
       </description>
       <source:markdown>The thing that excites me most is the seaweed.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!uA4s!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1236451f-489f-4183-aaad-828137e90b0e_800x358.gif" length="0" type="image/jpeg" />
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!DN9d!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc71e62ea-a750-494e-ae2a-22eb35098440_1689x780.png" length="0" type="image/jpeg" />
       <guid>cid://https://fixthenews.com/p/317-the-noperthedron-foodheroes-the</guid>
     </item>    <item>
       <title>An Autumn Afternoon in Washington D.C.</title>
