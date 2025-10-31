@@ -4,14 +4,265 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>31 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>31 Oct 25 11:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Your AI Models Aren’t Slow, but Your Data Pipeline Might Be</title>
+      <link>https://thenewstack.io/your-ai-models-arent-slow-but-your-data-pipeline-might-be/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/7b7b1ecf-streaming12-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Streams of zeros and one in bands of yellow and orange." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/7b7b1ecf-streaming12.jpg" /><p>The elephant in the engineering room right now is that most AI failures aren&#8217;t about model accuracy or even the</p>
+        <p>The post <a href="https://thenewstack.io/your-ai-models-arent-slow-but-your-data-pipeline-might-be/">Your AI Models Aren’t Slow, but Your Data Pipeline Might Be</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Streams of zeros and one in bands of yellow and orange.](https://cdn.thenewstack.io/media/2025/10/7b7b1ecf-streaming12-1024x576.jpg)
+
+The elephant in the engineering room right now is that most AI failures aren’t about model accuracy or even the
+
+The post [Your AI Models Aren’t Slow, but Your Data Pipeline Might Be](https://thenewstack.io/your-ai-models-arent-slow-but-your-data-pipeline-might-be/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804997</guid>
+    </item>    <item>
+      <title>WLAN-Absage: Bundesregierung will das obere 6-GHz-Band dem Mobilfunk zuweisen</title>
+      <link>https://www.heise.de/news/WLAN-Absage-Bundesregierung-will-das-obere-6-GHz-Band-dem-Mobilfunk-zuweisen-10965779.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das Digitalministerium schätzt den Frequenzbedarf der Mobilfunkbetreiber im oberen 6-GHz-Band angesichts neuer 6G-Anwendungen höher ein als den von WLAN.]]>
+      </description>
+      <source:markdown>Das Digitalministerium schätzt den Frequenzbedarf der Mobilfunkbetreiber im oberen 6-GHz-Band angesichts neuer 6G-Anwendungen höher ein als den von WLAN.</source:markdown>
+      <guid>cid://http://heise.de/-10965779</guid>
+    </item>    <item>
+      <title>Apples Familienfreigabe: Konfliktpotenzial bei einer Trennung</title>
+      <link>https://www.heise.de/news/Apples-Familienfreigabe-Konfliktpotenzial-bei-einer-Trennung-10964805.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Wenn Personen auseinander gehen, die zuvor zusammen in einer Apple-Familienfreigabe kooperiert hatten, kann es Schwierigkeiten geben. Eine Lösung fehlt.]]>
+      </description>
+      <source:markdown>Wenn Personen auseinander gehen, die zuvor zusammen in einer Apple-Familienfreigabe kooperiert hatten, kann es Schwierigkeiten geben. Eine Lösung fehlt.</source:markdown>
+      <guid>cid://http://heise.de/-10964805</guid>
+    </item>    <item>
+      <title>YouTube&#39;s AI moderator pulls Windows 11 workaround videos, calls them dangerous</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/31/ai_moderation_youtube_windows11_workaround/</link>
+      <description>
+        <![CDATA[<h4>Creators baffled as videos on local accounts, unsupported PCs vanish under ‘harmful acts’ rule</h4> <p>Is installing Windows 11 with a local account or on unsupported hardware harmful or dangerous? YouTube&#39;s AI moderation system seems to think so, as it has started pulling videos that show users how to sidestep Microsoft&#39;s setup restrictions.…</p>]]>
+      </description>
+      <source:markdown>#### Creators baffled as videos on local accounts, unsupported PCs vanish under ‘harmful acts’ rule
+
+Is installing Windows 11 with a local account or on unsupported hardware harmful or dangerous? YouTube&#39;s AI moderation system seems to think so, as it has started pulling videos that show users how to sidestep Microsoft&#39;s setup restrictions.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242785</guid>
+    </item>    <item>
+      <title>A word about comments and forums...</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/31/the_register_house_rules_forums_comments/</link>
+      <description>
+        <![CDATA[<h4>Our house, our rules</h4> <p>One of the biggest surprises of my tenure at <em>El Reg</em> so far is the activity in our <a target="_blank" href="https://forums.theregister.com/">forums</a> and article comments. <em>Reg</em> readers are engaged, opinionated, and unafraid to express themselves. I love this. Thank you for reading, and for commenting.…</p>]]>
+      </description>
+      <source:markdown>#### Our house, our rules
+
+One of the biggest surprises of my tenure at _El Reg_ so far is the activity in our [forums](https://forums.theregister.com/) and article comments. _Reg_ readers are engaged, opinionated, and unafraid to express themselves. I love this. Thank you for reading, and for commenting.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242769</guid>
+    </item>    <item>
+      <title>These Bats Glow Green Under UV Light, Joining a Growing List of Photoluminescent Mammals</title>
+      <link>https://www.smithsonianmag.com/smart-news/these-bats-glow-green-under-uv-light-joining-a-growing-list-of-photoluminescent-mammals-180987602/</link>
+      <description>
+        <![CDATA[A recent study identifies a consistent glow across six species of North American bats, but the underlying reason for the animals’ green gleam is still unclear]]>
+      </description>
+      <source:markdown>A recent study identifies a consistent glow across six species of North American bats, but the underlying reason for the animals’ green gleam is still unclear</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Rumq9Ff7dP9jvFB65CIFavmzhtA=/420x240/filters:focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a1/c9/a1c9dbab-6313-45b1-8ea7-0c013314d00d/gettyimages-533040736.jpg" length="" type="" />
+    </item>    <item>
+      <title>KAITO and KubeFleet: Projects Solving AI Inference at Scale</title>
+      <link>https://thenewstack.io/kaito-and-kubefleet-projects-solving-ai-inference-at-scale/</link>
+      <description>
+        <![CDATA[<img width="1024" height="682" src="https://cdn.thenewstack.io/media/2025/10/1ed5b294-fall123-1024x682.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="A road through colorful fall foliage." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/1ed5b294-fall123.jpeg" /><p>Over the past year, AI inferencing has become significantly more resource-intensive due to the exponential growth in the size and</p>
+        <p>The post <a href="https://thenewstack.io/kaito-and-kubefleet-projects-solving-ai-inference-at-scale/">KAITO and KubeFleet: Projects Solving AI Inference at Scale</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![A road through colorful fall foliage.](https://cdn.thenewstack.io/media/2025/10/1ed5b294-fall123-1024x682.jpeg)
+
+Over the past year, AI inferencing has become significantly more resource-intensive due to the exponential growth in the size and
+
+The post [KAITO and KubeFleet: Projects Solving AI Inference at Scale](https://thenewstack.io/kaito-and-kubefleet-projects-solving-ai-inference-at-scale/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804836</guid>
+    </item>    <item>
+      <title>Microsoft Task Manager now tasking PCs with running multiple copies of itself</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/31/microsoft_has_managed_to_break/</link>
+      <description>
+        <![CDATA[<h4>The once fearsome process killer is now a leaker of resources</h4> <p>Microsoft&#39;s ability to add bugs in the most unexpected of places has continued into its latest update to Windows 11, which spawns multiple copies of Task Manager, sucking down resources you&#39;d normally use Task Manager to kill.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### The once fearsome process killer is now a leaker of resources
+
+Microsoft&#39;s ability to add bugs in the most unexpected of places has continued into its latest update to Windows 11, which spawns multiple copies of Task Manager, sucking down resources you&#39;d normally use Task Manager to kill.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242784</guid>
+    </item>    <item>
+      <title>Why Hundreds of Taylor Swift Fans Are Flocking to See This 100-Year-Old Painting at a Museum in Germany</title>
+      <link>https://www.smithsonianmag.com/smart-news/why-hundreds-of-taylor-swift-fans-are-flocking-to-see-this-100-year-old-painting-at-a-museum-in-germany-180987588/</link>
+      <description>
+        <![CDATA[Painted around 1900, Friedrich Heyser's "Ophelia" may have been an inspiration for a popular song on the singer's latest album]]>
+      </description>
+      <source:markdown>Painted around 1900, Friedrich Heyser&#39;s &#34;Ophelia&#34; may have been an inspiration for a popular song on the singer&#39;s latest album</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/olxN-rQ4Zq-QGA-OsODucUEy990=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6c/0a/6c0aa0a5-3cc8-48b4-bcd9-d436b96745e3/ophelia.jpg" length="" type="" />
+    </item>    <item>
+      <title>Russia finally bites the cybercrooks it raised, arresting suspected Meduza infostealer devs</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/31/russia_arrests_three_meduza_cyber_suspects/</link>
+      <description>
+        <![CDATA[<h4>Rare case of the state turning on its own, but researchers say it may be doing so more often</h4> <p>Russia&#39;s Interior Ministry says police have arrested three suspects it believes helped build and spread the Meduza infostealer.…</p>]]>
+      </description>
+      <source:markdown>#### Rare case of the state turning on its own, but researchers say it may be doing so more often
+
+Russia&#39;s Interior Ministry says police have arrested three suspects it believes helped build and spread the Meduza infostealer.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242783</guid>
+    </item>    <item>
+      <title>Wende bei Chatkontrolle: Bundesregierung erfreut, Kritik aus dem Europaparlament</title>
+      <link>https://www.heise.de/news/Chatkontrolle-Bundesregierung-erfreut-Kritik-aus-dem-Europaparlament-10965744.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Reaktionen auf Dänemarks Kurswechsel bei der Chatkontrolle fallen gemischt aus. Eine Einigung rückt näher, doch die Zeit drängt.]]>
+      </description>
+      <source:markdown>Die Reaktionen auf Dänemarks Kurswechsel bei der Chatkontrolle fallen gemischt aus. Eine Einigung rückt näher, doch die Zeit drängt.</source:markdown>
+      <guid>cid://http://heise.de/-10965744</guid>
+    </item>    <item>
+      <title>Developer puts Windows 7 on a crash diet, drops it to down to 69 MB</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/31/windows_7_limbos_down_to/</link>
+      <description>
+        <![CDATA[<h4>Trim down for obsolete operating system leaves it booting, but not much else</h4> <p>Stripping Windows to the bare essentials is a favorite hobby among enthusiasts, especially as Microsoft continues loading its OS with unwanted bloat. The latest achievement is Windows 7 being reduced to 69 MB.…</p>]]>
+      </description>
+      <source:markdown>#### Trim down for obsolete operating system leaves it booting, but not much else
+
+Stripping Windows to the bare essentials is a favorite hobby among enthusiasts, especially as Microsoft continues loading its OS with unwanted bloat. The latest achievement is Windows 7 being reduced to 69 MB.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242782</guid>
+    </item>    <item>
+      <title>KI: Apple steckt mehr Geld rein – verspricht weiter neue Siri für 2026</title>
+      <link>https://www.heise.de/news/KI-Apple-steckt-mehr-Geld-rein-verspricht-weiter-neue-Siri-fuer-2026-10965464.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Neben den iPhone-Verkäufen interessierten sich Analysten bei den Apple-Zahlen vor allem für das Thema KI. Die Chefetage blieb eher schmallippig.]]>
+      </description>
+      <source:markdown>Neben den iPhone-Verkäufen interessierten sich Analysten bei den Apple-Zahlen vor allem für das Thema KI. Die Chefetage blieb eher schmallippig.</source:markdown>
+      <guid>cid://http://heise.de/-10965464</guid>
+    </item>    <item>
+      <title>Vibe Coding, Six Months Later: The Honeymoon’s Over</title>
+      <link>https://thenewstack.io/vibe-coding-six-months-later-the-honeymoons-over/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/545ad0c1-vitaly-gariev-lllzksmxe7a-unsplashb-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="frustrated person at desk" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/545ad0c1-vitaly-gariev-lllzksmxe7a-unsplashb.jpg" /><p>When vibe coding first landed in dev circles, it felt like the cool kid at the party. Suddenly, everyone is</p>
+        <p>The post <a href="https://thenewstack.io/vibe-coding-six-months-later-the-honeymoons-over/">Vibe Coding, Six Months Later: The Honeymoon’s Over</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![frustrated person at desk](https://cdn.thenewstack.io/media/2025/10/545ad0c1-vitaly-gariev-lllzksmxe7a-unsplashb-1024x576.jpg)
+
+When vibe coding first landed in dev circles, it felt like the cool kid at the party. Suddenly, everyone is
+
+The post [Vibe Coding, Six Months Later: The Honeymoon’s Over](https://thenewstack.io/vibe-coding-six-months-later-the-honeymoons-over/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804885</guid>
+    </item>    <item>
+      <title>Neue VR-Spiele im November 2025: &#34;Deadpool&#34;, &#34;Syberia&#34; &#38; &#34;Dungeons &#38; Dragons&#34;</title>
+      <link>https://www.heise.de/news/Neue-VR-Spiele-im-November-2025-Deadpool-Syberia-Dungeons-Dragons-10965639.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Im November starten gleich mehrere ambitionierte VR-Spiele, darunter ein abgedrehtes Marvel-Abenteuer, ein taktischer PvP-Shooter und ein Adventure-Klassiker.]]>
+      </description>
+      <source:markdown>Im November starten gleich mehrere ambitionierte VR-Spiele, darunter ein abgedrehtes Marvel-Abenteuer, ein taktischer PvP-Shooter und ein Adventure-Klassiker.</source:markdown>
+      <guid>cid://http://heise.de/-10965639</guid>
+    </item>    <item>
+      <title>Geplant: WhatsApp bekommt Apple-Watch-Anwendung</title>
+      <link>https://www.heise.de/news/Geplant-WhatsApp-bekommt-Apple-Watch-Anwendung-10965538.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Bislang gab es keine offizielle watchOS-Lösung für den Meta-Kommunikationsdienst. Nun startet ein erster Betatest.]]>
+      </description>
+      <source:markdown>Bislang gab es keine offizielle watchOS-Lösung für den Meta-Kommunikationsdienst. Nun startet ein erster Betatest.</source:markdown>
+      <guid>cid://http://heise.de/-10965538</guid>
+    </item>    <item>
+      <title>How Next.js Got Its Snappy Client Navs Back</title>
+      <link>https://thenewstack.io/how-next-js-got-its-snappy-client-navs-back/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/77ad73bd-samselikoffnext-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Sam Selikoff explains cache components at the annual Next.js conference." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/77ad73bd-samselikoffnext.jpg" /><p>Frontend developer Sam Selikoff, who recently joined Vercel as staff engineer, had a pressing question for the Next.js team: Why</p>
+        <p>The post <a href="https://thenewstack.io/how-next-js-got-its-snappy-client-navs-back/">How Next.js Got Its Snappy Client Navs Back</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Sam Selikoff explains cache components at the annual Next.js conference.](https://cdn.thenewstack.io/media/2025/10/77ad73bd-samselikoffnext-1024x576.jpg)
+
+Frontend developer Sam Selikoff, who recently joined Vercel as staff engineer, had a pressing question for the Next.js team: Why
+
+The post [How Next.js Got Its Snappy Client Navs Back](https://thenewstack.io/how-next-js-got-its-snappy-client-navs-back/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804859</guid>
+    </item>    <item>
+      <title>Windows-Tablet und Laptop in einem: Ninkear T40 für unter 400 Euro im Test</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/windows-tablet-und-laptop-in-einem-ninkear-t40-fuer-unter-400-euro-im-test/80mkm7g?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der Ninkear T40 vereint Windows-Tablet und günstigen Laptop in einem Gerät. Mit Intel N100, 16 GB RAM und abnehmbarer Tastatur kostet er unter 400 Euro.]]>
+      </description>
+      <source:markdown>Der Ninkear T40 vereint Windows-Tablet und günstigen Laptop in einem Gerät. Mit Intel N100, 16 GB RAM und abnehmbarer Tastatur kostet er unter 400 Euro.</source:markdown>
+      <guid>cid://http://heise.de/-10965710</guid>
+    </item>    <item>
+      <title>International Criminal Court kicks Microsoft Office to the curb</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/31/international_criminal_court_ditches_office/</link>
+      <description>
+        <![CDATA[<h4>Rough justice? Redmond out as Germany&#39;s openDesk judged a better fit</h4> <p>The International Criminal Court (ICC) is ditching Microsoft Office for a European software alternative amid mounting fears about being reliant on US technology.…</p>]]>
+      </description>
+      <source:markdown>#### Rough justice? Redmond out as Germany&#39;s openDesk judged a better fit
+
+The International Criminal Court (ICC) is ditching Microsoft Office for a European software alternative amid mounting fears about being reliant on US technology.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242781</guid>
+    </item>    <item>
+      <title>In a First, AI Models Analyze Language As Well As a Human Expert</title>
+      <link>https://www.quantamagazine.org/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert-20251031/</link>
+      <description>
+        <![CDATA[If language is what makes us human, what does it mean now that large language models have gained “metalinguistic” abilities?             <p>The post <a href="https://www.quantamagazine.org/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert-20251031/" target="_blank">In a First, AI Models Analyze Language As Well As a Human Expert</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>If language is what makes us human, what does it mean now that large language models have gained “metalinguistic” abilities?
+
+The post [In a First, AI Models Analyze Language As Well As a Human Expert](https://www.quantamagazine.org/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert-20251031/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=156088</guid>
+    </item>    <item>
+      <title>How To Use Warp’s Agentic Programming To Manage Kubernetes Clusters</title>
+      <link>https://thenewstack.io/how-to-use-warps-agentic-programming-to-manage-kubernetes-clusters/</link>
+      <description>
+        <![CDATA[<img width="1024" height="867" src="https://cdn.thenewstack.io/media/2025/10/f08b84ee-warp-1024x867.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/f08b84ee-warp.png" /><p>Warp is an agentic development environment, an AI-powered, terminal-first environment for DevOps engineers and site reliability engineers (SREs). While tools</p>
+        <p>The post <a href="https://thenewstack.io/how-to-use-warps-agentic-programming-to-manage-kubernetes-clusters/">How To Use Warp&#8217;s Agentic Programming To Manage Kubernetes Clusters</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/10/f08b84ee-warp-1024x867.png)
+
+Warp is an agentic development environment, an AI-powered, terminal-first environment for DevOps engineers and site reliability engineers (SREs). While tools
+
+The post [How To Use Warp’s Agentic Programming To Manage Kubernetes Clusters](https://thenewstack.io/how-to-use-warps-agentic-programming-to-manage-kubernetes-clusters/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22803689</guid>
+    </item>    <item>
+      <title>Attackers dig up $11M in Garden Finance crypto exploit</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/31/attackers_dig_up_11m_in/</link>
+      <description>
+        <![CDATA[<h4>Bitcoin bridge biz offers 10 percent reward to attackers if they play nice</h4> <p>Blockchain company Garden admits it was compromised and temporarily shut down its app after approximately $11 million worth of assets were stolen.…</p>]]>
+      </description>
+      <source:markdown>#### Bitcoin bridge biz offers 10 percent reward to attackers if they play nice
+
+Blockchain company Garden admits it was compromised and temporarily shut down its app after approximately $11 million worth of assets were stolen.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242778</guid>
+    </item>    <item>
+      <title>#TGIQF: Das Quiz rund um Wikipedia</title>
+      <link>https://www.heise.de/news/TGIQF-Das-Quiz-rund-um-Wikipedia-10965613.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das Weltwissen auf einer Seite: Wikipedia bietet einen schnellen Überblick über ein beliebiges Thema. Ein kleines Nerdquiz dazu.]]>
+      </description>
+      <source:markdown>Das Weltwissen auf einer Seite: Wikipedia bietet einen schnellen Überblick über ein beliebiges Thema. Ein kleines Nerdquiz dazu.</source:markdown>
+      <guid>cid://http://heise.de/-10965613</guid>
+    </item>    <item>
+      <title>Datenschutz: Bundesregierung will kleine Änderungen mit großer Wirkung</title>
+      <link>https://www.heise.de/news/Datenschutz-Bundesregierung-will-kleine-Aenderungen-mit-grosser-Wirkung-10965609.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die schwarz-rote Bundesregierung hat fast 20 Seiten Reformideen für die DSGVO an die EU-Kommission übersandt. Einige davon hätten weitreichende Auswirkungen.]]>
+      </description>
+      <source:markdown>Die schwarz-rote Bundesregierung hat fast 20 Seiten Reformideen für die DSGVO an die EU-Kommission übersandt. Einige davon hätten weitreichende Auswirkungen.</source:markdown>
+      <guid>cid://http://heise.de/-10965609</guid>
+    </item>    <item>
+      <title>Meta to sell $30B in bonds to build AI datacenters</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/31/meta_launches_30_billion_bond/</link>
+      <description>
+        <![CDATA[<h4>Zuckcorp will gladly pay you in 2065 for the eyewatering sums it is borrowing today</h4> <p>Even the world&#39;s richest companies need outside help to fulfill their datacenter dreams. Now, Meta is selling $30 billion in bonds to build out its infrastructure estate and support its ambition in AI markets. Some of these won&#39;t mature for 40 years.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Zuckcorp will gladly pay you in 2065 for the eyewatering sums it is borrowing today
+
+Even the world&#39;s richest companies need outside help to fulfill their datacenter dreams. Now, Meta is selling $30 billion in bonds to build out its infrastructure estate and support its ambition in AI markets. Some of these won&#39;t mature for 40 years.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242780</guid>
+    </item>    <item>
+      <title>heise+ | heise+ Update vom 31. Oktober 2025: Lesetipps fürs Wochenende</title>
+      <link>https://www.heise.de/news/heise-Update-vom-31-Oktober-2025-Lesetipps-fuers-Wochenende-10965369.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Der wöchentliche Newsletter von heise+ mit Quantencomputer vs. Verschlüsselung, Programmieren lernen, Ethernet-Switches, DIY-Wasserabschalter, Raumfahrtrecht]]>
+      </description>
+      <source:markdown>Der wöchentliche Newsletter von heise+ mit Quantencomputer vs. Verschlüsselung, Programmieren lernen, Ethernet-Switches, DIY-Wasserabschalter, Raumfahrtrecht</source:markdown>
+      <guid>cid://http://heise.de/-10965369</guid>
+    </item>    <item>
       <title>Building Reliable AI Requires a Lot of ‘Boring’ Engineering</title>
       <link>https://thenewstack.io/building-reliable-ai-requires-a-lot-of-boring-engineering/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/109e69d4-boring-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Exhausted worker with eyes covered with drawn eyes on sticky notes." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/109e69d4-boring.jpg" /><p>After a decade building everything from iPhone apps at early stage startups to medical AI systems at major tech companies,</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/109e69d4-boring-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Exhausted worker with eyes covered with drawn eyes on sticky notes." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/109e69d4-boring.jpg" /><p>After a decade building everything from iPhone apps at early stage startups to medical AI systems at major tech companies,</p>
         <p>The post <a href="https://thenewstack.io/building-reliable-ai-requires-a-lot-of-boring-engineering/">Building Reliable AI Requires a Lot of &#8216;Boring’ Engineering</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![Exhausted worker with eyes covered with drawn eyes on sticky notes.](https://cdn.thenewstack.io/media/2025/10/109e69d4-boring-1024x576.jpg)
@@ -42,7 +293,7 @@ SpaceX has published an update on its lunar Starship progress, and it still has 
       <title>How Cover Whale Scaled Its Developer Platform Beyond an MVP</title>
       <link>https://thenewstack.io/how-cover-whale-scaled-its-developer-platform-beyond-an-mvp/</link>
       <description>
-        <![CDATA[<img width="1024" height="682" src="https://cdn.thenewstack.io/media/2025/10/f2b841b9-trucks-1024x682.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Red truck leaving port.." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/f2b841b9-trucks.jpeg" /><p>Platform engineering is gaining traction across industries as organizations grapple with the complexity of cloud native development. Teams want to</p>
+        <![CDATA[<img width="1024" height="682" src="https://cdn.thenewstack.io/media/2025/10/f2b841b9-trucks-1024x682.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Red truck leaving port.." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/f2b841b9-trucks.jpeg" /><p>Platform engineering is gaining traction across industries as organizations grapple with the complexity of cloud native development. Teams want to</p>
         <p>The post <a href="https://thenewstack.io/how-cover-whale-scaled-its-developer-platform-beyond-an-mvp/">How Cover Whale Scaled Its Developer Platform Beyond an MVP</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![Red truck leaving port..](https://cdn.thenewstack.io/media/2025/10/f2b841b9-trucks-1024x682.jpeg)
@@ -378,10 +629,10 @@ A researcher has found a way to trick Claude into uploading private data to an a
       <title>Scientists Finally Know What This &#39;Mummified&#39; Dinosaur Looked Like</title>
       <link>https://www.smithsonianmag.com/smart-news/scientists-finally-know-what-this-mummified-dinosaur-looked-like-180987585/</link>
       <description>
-        <![CDATA[A recent study suggests the unique geology of an area in Wyoming makes it a trove of "mummified" fossils]]>
+        <![CDATA[A recent study suggests the unique geology of an area in Wyoming makes it a trove of unusually preserved fossils]]>
       </description>
-      <source:markdown>A recent study suggests the unique geology of an area in Wyoming makes it a trove of &#34;mummified&#34; fossils</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ER-0itKDWk5tRWVAFRgs3t3x2H8=/420x240/filters:focal(1440x1913:1441x1914)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8b/04/8b04fee4-77f2-4990-a9cb-ce672d4076af/dinosaur-mummies-unloc.jpg" length="" type="" />
+      <source:markdown>A recent study suggests the unique geology of an area in Wyoming makes it a trove of unusually preserved fossils</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/bXi_uIFViDlCGw26U_aWghWvy0A=/420x240/filters:focal(1440x1906:1441x1907)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8b/04/8b04fee4-77f2-4990-a9cb-ce672d4076af/dinosaur-mummies-unloc.jpg" length="" type="" />
     </item>    <item>
       <title>What Is an AI PaaS? A Guide to the Future of AI Development</title>
       <link>https://thenewstack.io/what-is-an-ai-paas-a-guide-to-the-future-of-ai-development/</link>

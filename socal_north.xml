@@ -7,19 +7,67 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>31 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>31 Oct 25 11:11 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Dictionary.com&#39;s 2025 word of the year, &#39;67,&#39; means nothing and everything at once</title>
+      <link>https://laist.com/news/dictionary-coms-2025-word-of-the-year-67</link>
+      <description>
+        <![CDATA["67," pronounced "six seven," spread from a rap song, through sports and social media, to classrooms and homes across the U.S. But even the artist who coined it struggles to define it.]]>
+      </description>
+      <source:markdown>&#34;67,&#34; pronounced &#34;six seven,&#34; spread from a rap song, through sports and social media, to classrooms and homes across the U.S. But even the artist who coined it struggles to define it.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-3b67-d84d-affa-ffefd8590000</guid>
+    </item>    <item>
+      <title>Coming to a porch near you: Live performances from your neighbors</title>
+      <link>https://laist.com/news/los-angeles-activities/coming-to-a-porch-near-you-live-performances-from-your-neighbors</link>
+      <description>
+        <![CDATA[Porchfest LA turns porches into performance spaces in East Hollywood, Los Feliz, Silver Lake, Mar Vista and Culver City this weekend.]]>
+      </description>
+      <source:markdown>Porchfest LA turns porches into performance spaces in East Hollywood, Los Feliz, Silver Lake, Mar Vista and Culver City this weekend.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-3758-decc-a5fb-37daa0030000</guid>
+    </item>    <item>
       <title>As Eaton Fire roared, Pasadena bus drivers headed to nursing homes to help: &#39;I looked to my left and it&#39;s like hell&#39;</title>
       <link>https://laist.com/news/health/eaton-fire-bus-drivers-evacuation-nursing-home-assisted-living-care-facility-altadena-pasadena-transit</link>
       <description>
         <![CDATA[Some facilities had outdated emergency plans, according to available public records reviewed by LAist.]]>
       </description>
       <source:markdown>Some facilities had outdated emergency plans, according to available public records reviewed by LAist.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-372d-d6cf-a9ff-7f2fc6f50000</guid>
+      <guid>cid://urn:uuid:0000019a-3afa-d84d-affa-fefa4a9b0000</guid>
     </item>    <item>
-      <title>Pasadena selling more than a dozen former Caltrans homes along failed 710 Freeway project</title>
+      <title>Why an interstellar comet has scientists excited</title>
+      <link>https://laist.com/news/why-an-interstellar-comet-has-scientists-excited</link>
+      <description>
+        <![CDATA[The comet could be older than our solar system. The comet is also distinct because nickel vapor was detected in the gas surrounding it.]]>
+      </description>
+      <source:markdown>The comet could be older than our solar system. The comet is also distinct because nickel vapor was detected in the gas surrounding it.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-3ade-d84d-affa-fefe15c80000</guid>
+    </item>    <item>
+      <title>A flight expert&#39;s hot take on holiday travel: &#39;Don&#39;t do it&#39;</title>
+      <link>https://laist.com/news/flight-expert-hot-take-on-holiday-travel-dont</link>
+      <description>
+        <![CDATA[But if you have to, here's some advice. Scott Keyes, the founder of the travel site Going.com (formerly Scott's Cheap Flights), shares the best days to fly and what to do if your flight gets delayed.]]>
+      </description>
+      <source:markdown>But if you have to, here&#39;s some advice. Scott Keyes, the founder of the travel site Going.com (formerly Scott&#39;s Cheap Flights), shares the best days to fly and what to do if your flight gets delayed.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-36f6-dfaa-a99f-bfffc8ad0000</guid>
+    </item>    <item>
+      <title>Diaspora, displacement and family photos at new exhibition</title>
+      <link>https://laist.com/news/diaspora-displacement-family-photos-exhibition-lace-cal-state-la-tender-excavation</link>
+      <description>
+        <![CDATA[In 'A Tender Excavation,' local artists draw on family photo archives to connect personal stories with bigger historical themes.]]>
+      </description>
+      <source:markdown>In &#39;A Tender Excavation,&#39; local artists draw on family photo archives to connect personal stories with bigger historical themes.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-3712-decc-a5fb-37da922b0000</guid>
+    </item>    <item>
+      <title>How to make one LAist reporter’s favorite ‘rice puller’</title>
+      <link>https://laist.com/news/how-to-make-one-laist-reporters-favorite-rice-puller</link>
+      <description>
+        <![CDATA[LAist reporter Yusra Farzan is of Sri Lankan descent and loves a pineapple chutney with her rice and curry.]]>
+      </description>
+      <source:markdown>LAist reporter Yusra Farzan is of Sri Lankan descent and loves a pineapple chutney with her rice and curry.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-3652-d6cf-a9ff-7f7f907d0000</guid>
+    </item>    <item>
+      <title>Pasadena selling more than a dozen former Caltrans homes along failed 710 Freeway corridor</title>
       <link>https://laist.com/news/housing-homelessness/pasadena-selling-more-than-a-dozen-former-caltrans-homes-along-failed-710-freeway-project</link>
       <description>
         <![CDATA[The historic properties have been sitting vacant for decades and were put on the market as-is, with prices ranging from $750,000 to $1.75 million.]]>
@@ -51,7 +99,7 @@
       <source:markdown>Ways to cook, recycle and even donate your pumpkin.</source:markdown>
       <guid>cid://urn:uuid:0000019a-36d2-d6cf-a9ff-7fffd86f0000</guid>
     </item>    <item>
-      <title>Five key takeaways from Trump&#39;s week in Asia</title>
+      <title>5 key takeaways from Trump&#39;s week in Asia</title>
       <link>https://laist.com/news/five-key-takeaways-from-trumps-week-in-asia</link>
       <description>
         <![CDATA[President Trump is back in Washington after spending a week in Asia. He attended the ASEAN summit in Kuala Lumpur, addressed U.S. troops in Japan and met with China's President Xi Jinping in South Korea.]]>
@@ -91,7 +139,7 @@
       <source:markdown>Hundreds of Los Angeles Unified School District schools will start serving supper to anyone 18 and under.</source:markdown>
       <guid>cid://urn:uuid:0000019a-37ab-decc-a5fb-37fba6d70000</guid>
     </item>    <item>
-      <title>California secretary of state warns of election scam</title>
+      <title>California secretary of state warns of election scam. What you should watch for</title>
       <link>https://laist.com/news/politics/california-secretary-of-state-warns-of-election-scam</link>
       <description>
         <![CDATA[A group called Ballot Now is sending messages to voters to confuse them on whether their votes have been counted.]]>

@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>31 Oct 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>31 Oct 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,254 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Behind the Blog: Ray-Bans Are No Longer Cool or Timeless</title>
+      <link>https://www.404media.co/behind-the-blog-ray-bans-are-no-longer-cool-or-timeless/</link>
+      <description>
+        <![CDATA[This week, we discuss keeping FOIA reporting in front of a paywall, Ray-Bans, and what pregnate Schoolhouse Rock bills say about our current AI-driven hellscape.]]>
+      </description>
+      <source:markdown>This week, we discuss keeping FOIA reporting in front of a paywall, Ray-Bans, and what pregnate Schoolhouse Rock bills say about our current AI-driven hellscape.</source:markdown>
+      <guid>cid://69021d4eb039580001880274</guid>
+    </item>    <item>
+      <title>Combined Affinity Studio Now Free</title>
+      <link>https://mjtsai.com/blog/2025/10/31/combined-affinity-studio-now-free/</link>
+      <description>
+        <![CDATA[Marcus Mendes (MacRumors, Hacker News, TidBITS-Talk, Mac Power Users): Affinity has announced a complete overhaul of its design suite. Starting today, the company is unifying all its tools into a single app for vector, photo, and layout work, and making it permanently free.[&#8230;]Here&#8217;s Ash Hewson, CEO of Affinity:&#8220;There&#8217;s no catch, no stripped-back version, and no [&#8230;]]]>
+      </description>
+      <source:markdown>Marcus Mendes (MacRumors, Hacker News, TidBITS-Talk, Mac Power Users): Affinity has announced a complete overhaul of its design suite. Starting today, the company is unifying all its tools into a single app for vector, photo, and layout work, and making it permanently free.\[…\]Here’s Ash Hewson, CEO of Affinity:“There’s no catch, no stripped-back version, and no \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49865</guid>
+    </item>    <item>
+      <title>Apple’s Q4 2025 Results</title>
+      <link>https://mjtsai.com/blog/2025/10/31/apples-q4-2025-results/</link>
+      <description>
+        <![CDATA[Apple (transcript, MacRumors, MacStories, Hacker News): &#8220;Today, Apple is very proud to report a September quarter revenue record of $102.5 billion, including a September quarter revenue record for iPhone and an all-time revenue record for Services,&#8221; said Tim Cook, Apple&#8217;s CEO. [&#8230;] &#8220;Our September quarter results capped off a record fiscal year, with revenue reaching [&#8230;]]]>
+      </description>
+      <source:markdown>Apple (transcript, MacRumors, MacStories, Hacker News): “Today, Apple is very proud to report a September quarter revenue record of $102.5 billion, including a September quarter revenue record for iPhone and an all-time revenue record for Services,” said Tim Cook, Apple’s CEO. \[…\] “Our September quarter results capped off a record fiscal year, with revenue reaching \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49863</guid>
+    </item>    <item>
+      <title>Swift 6.2: Observations</title>
+      <link>https://mjtsai.com/blog/2025/10/31/swift-6-2-observations/</link>
+      <description>
+        <![CDATA[Holly Borla: Swift 6.2 enables streaming transactional state changes of observable types using the new Observations async sequence type. Updates include all synchronous changes to the observable properties, and the transaction ends at the next await that suspends. This avoids redundant UI updates, improves performance, and ensures that your code reacts to a consistent snapshot [&#8230;]]]>
+      </description>
+      <source:markdown>Holly Borla: Swift 6.2 enables streaming transactional state changes of observable types using the new Observations async sequence type. Updates include all synchronous changes to the observable properties, and the transaction ends at the next await that suspends. This avoids redundant UI updates, improves performance, and ensures that your code reacts to a consistent snapshot \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49860</guid>
+    </item>    <item>
+      <title>Introduction to Erin Miller: Incidental Digital Rhetorics</title>
+      <link>https://www.digitalrhetoriccollaborative.org/2025/10/31/introduction-to-erin-miller-incidental-digital-rhetorics/</link>
+      <description>
+        <![CDATA[I’ll admit I’m probably not the first person my friends think of when they think of digital rhetorics. I’ve pulled my hair out trying to move Google Docs from one folder to another, and I avoid systems updates on my phone like the plague. I don’t have a background in coding, or website design, or [...]
+        <p><a href="https://www.digitalrhetoriccollaborative.org/2025/10/31/introduction-to-erin-miller-incidental-digital-rhetorics/" rel="nofollow">Source</a></p>]]>
+      </description>
+      <source:markdown>I’ll admit I’m probably not the first person my friends think of when they think of digital rhetorics. I’ve pulled my hair out trying to move Google Docs from one folder to another, and I avoid systems updates on my phone like the plague. I don’t have a background in coding, or website design, or \[...\]
+
+[Source](https://www.digitalrhetoriccollaborative.org/2025/10/31/introduction-to-erin-miller-incidental-digital-rhetorics/)</source:markdown>
+      <guid>cid://https://www.digitalrhetoriccollaborative.org/?p=21992</guid>
+    </item>    <item>
+      <title>October Is Over and, Shockingly, the Gold Trump Phone Still Hasn’t Shipped</title>
+      <link>https://www.theverge.com/news/810500/where-is-the-trump-phone</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42339</guid>
+    </item>    <item>
+      <title>Curiosity-driven blogging</title>
+      <link>https://simonwillison.net/2025/Oct/31/curiosity-driven/#atom-everything</link>
+      <description>
+        <![CDATA[<p>My piece this morning <a href="https://simonwillison.net/2025/Oct/31/coreweave-acquires-marimo/">about the Marimo acquisition</a> is an example of a variant of a <a href="https://til.simonwillison.net">TIL</a> - I didn't know much about CoreWeave, the acquiring company, so I poked around to answer my own questions and then wrote up what I learned as a short post. Curiosity-driven blogging if you like.</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/til">til</a>, <a href="https://simonwillison.net/tags/blogging">blogging</a></p>]]>
+      </description>
+      <source:markdown>My piece this morning [about the Marimo acquisition](https://simonwillison.net/2025/Oct/31/coreweave-acquires-marimo/) is an example of a variant of a [TIL](https://til.simonwillison.net) \- I didn&#39;t know much about CoreWeave, the acquiring company, so I poked around to answer my own questions and then wrote up what I learned as a short post. Curiosity-driven blogging if you like.
+
+Tags: [til](https://simonwillison.net/tags/til), [blogging](https://simonwillison.net/tags/blogging)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/31/curiosity-driven/#atom-everything</guid>
+    </item>    <item>
+      <link>https://arstechnica.com/space/2025/10/elon-musk-on-data-centers-in-orbit-spacex-will-be-doing-this/?utm_source=bsky&#38;utm_medium=social</link>
+      <description>
+        <![CDATA[<p>Elon Musk on data centers in orbit: “SpaceX will be doing this.”</p>]]>
+      </description>
+      <source:markdown>Elon Musk on data centers in orbit: “SpaceX will be doing this.”</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/31/1747/</guid>
+    </item>    <item>
+      <title>Joanna Stern on the 1X Neo, a Humanoid Robot Housekeeper That Is Remote-Controlled by Humans</title>
+      <link>https://www.wsj.com/tech/personal-tech/i-tried-the-robot-thats-coming-to-live-with-you-its-still-part-human-68515d44?st=guXssw&#38;reflink=desktopwebshare_permalink</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42338</guid>
+    </item>    <item>
+      <title>Lyndal Roper’s Summer of Fire and Blood has won the 2025 Cundill History Prize.</title>
+      <link>https://lithub.com/lyndal-ropers-summer-of-fire-and-blood-wins-the-2025-cundill-history-prize/</link>
+      <description>
+        <![CDATA[Summer of Fire and Blood: The German Peasants&#8217; War by Lyndal Roper, an excellent new history of one of the largest popular uprisings before the French Revolution, won this year’s Cundill History Prize and its $75,000 prize. The award, which]]>
+      </description>
+      <source:markdown>Summer of Fire and Blood: The German Peasants’ War by Lyndal Roper, an excellent new history of one of the largest popular uprisings before the French Revolution, won this year’s Cundill History Prize and its $75,000 prize. The award, which</source:markdown>
+      <guid>cid://https://lithub.com/?p=262126</guid>
+    </item>    <item>
+      <title>Here’s what’s making us happy  this  week.</title>
+      <link>https://lithub.com/heres-whats-making-us-happy-this-week-6/</link>
+      <description>
+        <![CDATA[First off—apologies, readers. I failed to report our nice things last Friday, so we have a combo week. Gratitude is abundant this Hallow&#8217;s Eve. So what&#8217;s been making us happy? In a word? Soups.  Oliver Scialdone made a killer butternut]]>
+      </description>
+      <source:markdown>First off—apologies, readers. I failed to report our nice things last Friday, so we have a combo week. Gratitude is abundant this Hallow’s Eve. So what’s been making us happy? In a word? Soups.  Oliver Scialdone made a killer butternut</source:markdown>
+      <guid>cid://https://lithub.com/?p=262113</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115469611458533448</link>
+      <description>
+        <![CDATA[<p>My Xmas won’t be complete until I get a plugin for Swift:</p><p><a href="https://aspire.dev" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">aspire.dev</span><span class="invisible"></span></a></p>]]>
+      </description>
+      <source:markdown>My Xmas won’t be complete until I get a plugin for Swift:
+
+[https://aspire.dev](https://aspire.dev)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115469611458533448</guid>
+    </item>    <item>
+      <title>No me sigas: las redes sociales como caldo de cultivo para el culto moderno</title>
+      <link>https://www.palomitademaiz.net/resenas-no-me-sigas/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-no-me-sigas</link>
+      <description>
+        <![CDATA[<p>Dirección: Ximena García Lecuona, Eduardo Lecuona. Guion: Ximena Gacía Lecuona. Elenco: Karla García Coronado, Yankel Stevan, Julia Maqueo. País: México. Duración: 83mins. Más información de la película: https://www.imdb.com/title/tt11344566/ Las películas de terror evolucionan con los años, pues suelen retratar los problemas o los miedos que aquejan a una sociedad. Por su parte, las redes sociales [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-no-me-sigas/">No me sigas: las redes sociales como caldo de cultivo para el culto moderno</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Dirección: Ximena García Lecuona, Eduardo Lecuona. Guion: Ximena Gacía Lecuona. Elenco: Karla García Coronado, Yankel Stevan, Julia Maqueo. País: México. Duración: 83mins. Más información de la película: https://www.imdb.com/title/tt11344566/ Las películas de terror evolucionan con los años, pues suelen retratar los problemas o los miedos que aquejan a una sociedad. Por su parte, las redes sociales \[…\]
+
+La entrada [No me sigas: las redes sociales como caldo de cultivo para el culto moderno](https://www.palomitademaiz.net/resenas-no-me-sigas/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=25682</guid>
+    </item>    <item>
+      <title>Big Tech Stock Pick of 2026: Amazon</title>
+      <link>https://www.profgalloway.com/big-tech-stock-pick-of-2026-amazon/</link>
+      <description>
+        <![CDATA[<p>At the end of every year, I pick a Big Tech stock I believe will outperform its peers in the coming year. My 2025 pick was Alphabet: I believed the market had overestimated the threats to Google’s search businesses by AI and antitrust. At the time, Alphabet was trading at a P/E ratio of 17, [&#8230;]</p>
+        <p>The post <a href="https://www.profgalloway.com/big-tech-stock-pick-of-2026-amazon/">Big Tech Stock Pick of 2026: Amazon</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>]]>
+      </description>
+      <source:markdown>At the end of every year, I pick a Big Tech stock I believe will outperform its peers in the coming year. My 2025 pick was Alphabet: I believed the market had overestimated the threats to Google’s search businesses by AI and antitrust. At the time, Alphabet was trading at a P/E ratio of 17, \[…\]
+
+The post [Big Tech Stock Pick of 2026: Amazon](https://www.profgalloway.com/big-tech-stock-pick-of-2026-amazon/) appeared first on [No Mercy / No Malice](https://www.profgalloway.com).</source:markdown>
+      <guid>cid://https://www.profgalloway.com/?p=216343</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/10/31.html#a150107</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2023/03/18/accordionGuy.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Good morning everyone. We're getting <a href="https://feedland.com/">feedland.com</a> back in shape. About a week ago we sorted out a long-standing performance issue. Once that was fixed, another problem cropped up, we weren't able to sign off and back on. We got that one too, this morning, and now it looks like feedland.com is finally performing well across the board. It's always been pretty stable, just churning away on feeds, reading lists, and pumping news over websockets, and all the other 3.0 type feed stuff. It feels like it's time to depend on it, even so we'll be careful, praise Murphy. The cool thing about feedland.com compared to all the other servers I've run stuff on over the years is that it scales automatically. It's on the <a href="https://wpvip.com/">VIP</a> network run by Automattic.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2023/03/18/accordionGuy.png)Good morning everyone. We&#39;re getting [feedland.com](https://feedland.com/) back in shape. About a week ago we sorted out a long-standing performance issue. Once that was fixed, another problem cropped up, we weren&#39;t able to sign off and back on. We got that one too, this morning, and now it looks like feedland.com is finally performing well across the board. It&#39;s always been pretty stable, just churning away on feeds, reading lists, and pumping news over websockets, and all the other 3.0 type feed stuff. It feels like it&#39;s time to depend on it, even so we&#39;ll be careful, praise Murphy. The cool thing about feedland.com compared to all the other servers I&#39;ve run stuff on over the years is that it scales automatically. It&#39;s on the [VIP](https://wpvip.com/) network run by Automattic.</source:markdown>
+      <guid>cid://http://scripting.com/2025/10/31.html#a150107</guid>
+    </item>    <item>
+      <link>https://newrepublic.com/article/202397/ice-chicago-halloween-noem?utm_source=newsletter&#38;utm_medium=email&#38;utm_campaign=tnr_daily&#38;vgo_ee=jGg%2B6gUD9rY04%2Ff0LJpsQ9qCW3S%2FGNitBK3Q0khUZqyfEG3y%3AgvH1MwnLCb44dbaRGMpbk1qLqI9xEWOj</link>
+      <description>
+        <![CDATA[<p>ICE Is Terrorizing Chicago for Halloween—and Parents Are Fighting Back.</p>]]>
+      </description>
+      <source:markdown>ICE Is Terrorizing Chicago for Halloween—and Parents Are Fighting Back.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/31/1745/</guid>
+    </item>    <item>
+      <title>!@#$%^&#38;ingPa55w0rds</title>
+      <link>https://doc.searls.com/2025/10/31/ingpa55w0rds/</link>
+      <description>
+        <![CDATA[I&#39;m trying to sign in to Linkedin on a second laptop, in a browser. Here is my log of how that goes: In an email Linkedin says &#34;You can finish signing in to your LinkedIn account by following the instructions that we sent to your LinkedIn App.&#34; There is nothing to click on in the [&#8230;]]]>
+      </description>
+      <source:markdown>I&#39;m trying to sign in to Linkedin on a second laptop, in a browser. Here is my log of how that goes: In an email Linkedin says &#34;You can finish signing in to your LinkedIn account by following the instructions that we sent to your LinkedIn App.&#34; There is nothing to click on in the \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2025/10/31/ingpa55w0rds/</guid>
+    </item>    <item>
+      <title>The Arduino Uno Q is a weird hybrid SBC</title>
+      <link>https://www.jeffgeerling.com/blog/2025/arduino-uno-q-weird-hybrid-sbc</link>
+      <description>
+        <![CDATA[<span class="field field--name-title field--type-string field--label-hidden">The Arduino Uno Q is a weird hybrid SBC</span>
+        
+                    <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="https://www.jeffgeerling.com/sites/default/files/images/arduino-uno-1-in-hand.jpg" width="700" height="394" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-974ca867-c50a-4b8a-9a00-95654f6b6072" data-insert-attach="{&quot;id&quot;:&quot;974ca867-c50a-4b8a-9a00-95654f6b6072&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Arduino Uno Q"></p>
+        
+        <p>The <a href="https://www.arduino.cc/product-uno-q">Arduino Uno Q</a> is... a weird board. It's the first product born out of <a href="https://www.jeffgeerling.com/blog/2025/qualcomms-buying-arduino-–-what-it-means-makers">Qualcomm's buyout of Arduino</a>.</p>
+        
+        <p>It's like if you married an Intel CPU, and a Raspberry Pi RP2040 microcontroller—oh wait, <a href="https://www.jeffgeerling.com/blog/2024/radxa-x4-sbc-unites-intel-n100-and-raspberry-pi-rp2040">Radxa's X4 did that</a>.</p>
+        
+        <p>Arduino even tried it before with their old <a href="https://docs.arduino.cc/retired/boards/arduino-yun/">Yún</a> board, which had Linux running on a MIPS CPU, married to an ATmega microcontroller.</p></div>
+              <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-10-31T09:01:28-05:00" title="Friday, October 31, 2025 - 09:01" class="datetime">October 31, 2025</time>
+        </span>]]>
+      </description>
+      <source:markdown>The Arduino Uno Q is a weird hybrid SBC
+
+![Arduino Uno Q](https://www.jeffgeerling.com/sites/default/files/images/arduino-uno-1-in-hand.jpg)
+
+The [Arduino Uno Q](https://www.arduino.cc/product-uno-q) is... a weird board. It&#39;s the first product born out of [Qualcomm&#39;s buyout of Arduino](https://www.jeffgeerling.com/blog/2025/qualcomms-buying-arduino-–-what-it-means-makers).
+
+It&#39;s like if you married an Intel CPU, and a Raspberry Pi RP2040 microcontroller—oh wait, [Radxa&#39;s X4 did that](https://www.jeffgeerling.com/blog/2024/radxa-x4-sbc-unites-intel-n100-and-raspberry-pi-rp2040).
+
+Arduino even tried it before with their old [Yún](https://docs.arduino.cc/retired/boards/arduino-yun/) board, which had Linux running on a MIPS CPU, married to an ATmega microcontroller.
+
+Jeff GeerlingOctober 31, 2025</source:markdown>
+      <guid>cid://3507 at https://www.jeffgeerling.com</guid>
+    </item>    <item>
+      <title>CoreWeave adds Marimo to their 2025 acquisition spree</title>
+      <link>https://simonwillison.net/2025/Oct/31/coreweave-acquires-marimo/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://marimo.io/blog/joining-coreweave">Marimo is Joining CoreWeave</a></strong></p>
+        I don't usually cover startup acquisitions here, but this one feels relevant to several of my interests.</p>
+        <p>Marimo (<a href="https://simonwillison.net/tags/marimo/">previously</a>) provide an open source (Apache 2 licensed) notebook tool for Python, with first-class support for an additional WebAssembly build plus an optional hosted service. It's effectively a reimagining of Jupyter notebooks as a reactive system, where cells automatically update based on changes to other cells - similar to how <a href="https://observablehq.com/">Observable</a> JavaScript notebooks work.</p>
+        <p>The first public Marimo release was in January 2024 and the tool has "been in development since 2022" (<a href="https://news.ycombinator.com/item?id=44304607#44330375">source</a>).</p>
+        <p>CoreWeave are a <em>big</em> player in the AI data center space. They started out as an Ethereum mining company in 2017, then pivoted to cloud computing infrastructure for AI companies after the 2018 cryptocurrency crash. They IPOd in March 2025 and today they operate more than 30 data centers worldwide and have announced a number of eye-wateringly sized deals with companies such as Cohere and OpenAI. I found <a href="https://en.wikipedia.org/wiki/CoreWeave">their Wikipedia page</a> very helpful.</p>
+        <p>They've also been on an acquisition spree this year, including:</p>
+        <ul>
+        <li>Weights &amp; Biases <a href="https://www.coreweave.com/blog/coreweave-completes-acquisition-of-weights-biases">in March 2025</a> (deal closed in May), the AI training observability platform.</li>
+        <li>OpenPipe <a href="https://www.coreweave.com/news/coreweave-to-acquire-openpipe-leader-in-reinforcement-learning">in September 2025</a> - a reinforcement learning platform, authors of the <a href="https://github.com/OpenPipe/ART">Agent Reinforcement Trainer</a> Apache 2 licensed open source RL framework.</li>
+        <li>Monolith AI <a href="https://investors.coreweave.com/news/news-details/2025/CoreWeave-to-Acquire-Monolith-Expanding-AI-Cloud-Platform-into-Industrial-Innovation/default.aspx">in October 2025</a>, a UK-based AI model SaaS platform focused on AI for engineering and industrial manufacturing.</li>
+        <li>And now Marimo.</li>
+        </ul>
+        <p>Marimo's own announcement emphasizes continued investment in that tool:</p>
+        <blockquote>
+        <p>Marimo is joining CoreWeave. We’re continuing to build the open-source marimo notebook, while also leveling up molab with serious compute. Our long-term mission remains the same: to build the world’s best open-source programming environment for working with data.</p>
+        <p>marimo is, and always will be, free, open-source, and permissively licensed.</p>
+        </blockquote>
+        <p>Give CoreWeave's buying spree only really started this year it's impossible to say how well these acquisitions are likely to play out - they haven't yet established a track record.
+        
+            <p><small></small>Via <a href="https://x.com/marimo_io/status/1983916371869364622">@marimo_io</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/entrepreneurship">entrepreneurship</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/startups">startups</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/jupyter">jupyter</a>, <a href="https://simonwillison.net/tags/marimo">marimo</a></p>]]>
+      </description>
+      <source:markdown>**[Marimo is Joining CoreWeave](https://marimo.io/blog/joining-coreweave)**
+
+I don&#39;t usually cover startup acquisitions here, but this one feels relevant to several of my interests.
+
+Marimo ( [previously](https://simonwillison.net/tags/marimo/)) provide an open source (Apache 2 licensed) notebook tool for Python, with first-class support for an additional WebAssembly build plus an optional hosted service. It&#39;s effectively a reimagining of Jupyter notebooks as a reactive system, where cells automatically update based on changes to other cells - similar to how [Observable](https://observablehq.com/) JavaScript notebooks work.
+
+The first public Marimo release was in January 2024 and the tool has &#34;been in development since 2022&#34; ( [source](https://news.ycombinator.com/item?id=44304607#44330375)).
+
+CoreWeave are a _big_ player in the AI data center space. They started out as an Ethereum mining company in 2017, then pivoted to cloud computing infrastructure for AI companies after the 2018 cryptocurrency crash. They IPOd in March 2025 and today they operate more than 30 data centers worldwide and have announced a number of eye-wateringly sized deals with companies such as Cohere and OpenAI. I found [their Wikipedia page](https://en.wikipedia.org/wiki/CoreWeave) very helpful.
+
+They&#39;ve also been on an acquisition spree this year, including:
+
+- Weights &#38; Biases [in March 2025](https://www.coreweave.com/blog/coreweave-completes-acquisition-of-weights-biases) (deal closed in May), the AI training observability platform.
+- OpenPipe [in September 2025](https://www.coreweave.com/news/coreweave-to-acquire-openpipe-leader-in-reinforcement-learning) \- a reinforcement learning platform, authors of the [Agent Reinforcement Trainer](https://github.com/OpenPipe/ART) Apache 2 licensed open source RL framework.
+- Monolith AI [in October 2025](https://investors.coreweave.com/news/news-details/2025/CoreWeave-to-Acquire-Monolith-Expanding-AI-Cloud-Platform-into-Industrial-Innovation/default.aspx), a UK-based AI model SaaS platform focused on AI for engineering and industrial manufacturing.
+- And now Marimo.
+
+Marimo&#39;s own announcement emphasizes continued investment in that tool:
+
+&#62; Marimo is joining CoreWeave. We’re continuing to build the open-source marimo notebook, while also leveling up molab with serious compute. Our long-term mission remains the same: to build the world’s best open-source programming environment for working with data.
+&#62;
+&#62; marimo is, and always will be, free, open-source, and permissively licensed.
+
+Give CoreWeave&#39;s buying spree only really started this year it&#39;s impossible to say how well these acquisitions are likely to play out - they haven&#39;t yet established a track record.
+
+
+
+Via [@marimo\_io](https://x.com/marimo_io/status/1983916371869364622)
+
+Tags: [entrepreneurship](https://simonwillison.net/tags/entrepreneurship), [open-source](https://simonwillison.net/tags/open-source), [python](https://simonwillison.net/tags/python), [startups](https://simonwillison.net/tags/startups), [ai](https://simonwillison.net/tags/ai), [jupyter](https://simonwillison.net/tags/jupyter), [marimo](https://simonwillison.net/tags/marimo)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Oct/31/coreweave-acquires-marimo/#atom-everything</guid>
+    </item>    <item>
+      <title>This Halloween, Bill DeBlasio Is Going as Bill de Blasio</title>
+      <link>https://onefoottsunami.com/2025/10/31/this-halloween-bill-deblasio-is-going-as-bill-de-blasio/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29358</guid>
+    </item>    <item>
+      <title>You Can&#39;t Refuse To Be Scanned by ICE&#39;s Facial Recognition App, DHS Document Says</title>
+      <link>https://www.404media.co/you-cant-refuse-to-be-scanned-by-ices-facial-recognition-app-dhs-document-says/</link>
+      <description>
+        <![CDATA[Photos captured by Mobile Fortify will be stored for 15 years, regardless of immigration or citizenship status, the document says.]]>
+      </description>
+      <source:markdown>Photos captured by Mobile Fortify will be stored for 15 years, regardless of immigration or citizenship status, the document says.</source:markdown>
+      <guid>cid://6904bc17b0395800018a9e35</guid>
+    </item>    <item>
+      <title>Dressing Up as James Carville for Halloween</title>
+      <link>https://davekarpf.substack.com/p/dressing-up-as-james-carville-for</link>
+      <description>
+        <![CDATA[My New Republic piece, discussing the "Deciding to Win" report.]]>
+      </description>
+      <source:markdown>My New Republic piece, discussing the &#34;Deciding to Win&#34; report.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!gQB1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd77b4b1d-8b95-4ed0-93f0-cae2a6b54a26_3129x1987.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://davekarpf.substack.com/p/dressing-up-as-james-carville-for</guid>
     </item>    <item>
       <link>https://www.nytimes.com/interactive/2025/10/31/opinion/trump-autocracy-democracy-report.html?unlocked_article_code=1.xk8.YE7b.J6xZvBW-6xMV&#38;smid=url-share</link>
       <description>
@@ -85,9 +333,9 @@ More than one Linux-adjacent vendor presented at the Ubuntu Summit, and a small 
       <title>Lit Hub Daily: October 31, 2025</title>
       <link>https://lithub.com/lit-hub-daily-october-31-2025/</link>
       <description>
-        <![CDATA[Jess deCourcy Hinds traces the 80-year evolution of the iconic Wednesday Addams. &#124; Lit Hub Film Catherine Newman finds some humor in the unexpected: “Anything catching on fire and crashing through the chimney into the living room is funny—but it’s]]>
+        <![CDATA[Happy Halloween from the Lit Hub Podcast! Drew Broussard reads you “The Cask of Amontillado”  as a treat. &#124; Lit Hub Radio Jess deCourcy Hinds traces the 80-year evolution of the iconic Wednesday Addams. &#124; Lit Hub Film Catherine Newman]]>
       </description>
-      <source:markdown>Jess deCourcy Hinds traces the 80-year evolution of the iconic Wednesday Addams. \| Lit Hub Film Catherine Newman finds some humor in the unexpected: “Anything catching on fire and crashing through the chimney into the living room is funny—but it’s</source:markdown>
+      <source:markdown>Happy Halloween from the Lit Hub Podcast! Drew Broussard reads you “The Cask of Amontillado”  as a treat. \| Lit Hub Radio Jess deCourcy Hinds traces the 80-year evolution of the iconic Wednesday Addams. \| Lit Hub Film Catherine Newman</source:markdown>
       <guid>cid://https://lithub.com/?p=262074</guid>
     </item>    <item>
       <title>Happy Halloween from The Lit Hub Podcast</title>
