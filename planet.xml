@@ -4,10 +4,18 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>31 Oct 25 15:12 -0700</lastBuildDate>
+    <lastBuildDate>31 Oct 25 16:36 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Dublin fire crews respond to over 600 calls</title>
+      <link>https://www.rte.ie/news/2025/1031/1541579-halloween-fire-brigade/</link>
+      <description>
+        <![CDATA[Dublin Fire Brigade said it has received 244 fire call-outs and 401 ambulance callouts this Halloween night.]]>
+      </description>
+      <source:markdown>Dublin Fire Brigade said it has received 244 fire call-outs and 401 ambulance callouts this Halloween night.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1031/1541579-halloween-fire-brigade/</guid>
+    </item>    <item>
       <title>ⓜ Full Moon-th Meetup with Brother Guy Consolmagno – November 5, 2025</title>
       <link>https://www.vaticanobservatory.org/sacred-space-astronomy/%e2%93%9c-full-moon-th-meetup-with-brother-guy-consolmagno-november-5-2025/</link>
       <description>
@@ -4675,6 +4683,14 @@ Moon Time Connections, a national Indigenous-led menstrual equity organization, 
 The U.S. military on Wednesday launched its ninth strike against an alleged drug-carrying vessel, killing three people in the waters of the eastern Pacific Ocean, U.S. Defence Secretary Pete Hegseth said on social media Wednesday.</source:markdown>
       <guid>cid://9.6949687</guid>
     </item>    <item>
+      <title>News Wrap: White House says entirety of East Wing undergoing renovation for ballroom</title>
+      <description>
+        <![CDATA[In our news wrap Wednesday, a White House official confirms that the entirety of the East Wing is undergoing "modernization and renovation" for Trump's ballroom project, the U.S. military carried out a strike on what it called a drug-smuggling vessel in the Pacific Ocean and the Louvre reopened for the first time since a heist that saw thieves make off with jewels. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy]]>
+      </description>
+      <source:markdown>In our news wrap Wednesday, a White House official confirms that the entirety of the East Wing is undergoing &#34;modernization and renovation&#34; for Trump&#39;s ballroom project, the U.S. military carried out a strike on what it called a drug-smuggling vessel in the Pacific Ocean and the Louvre reopened for the first time since a heist that saw thieves make off with jewels. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy</source:markdown>
+      <enclosure url="https://flex2.acast.com/s/pbs-newshour-world/u/d3i6fh83elv35t.cloudfront.net/static/2025/10/newswrap-20.mp3" length="4206899" type="audio/mpeg" />
+      <guid>cid://https://www.pbs.org/newshour/show/news-wrap-white-house-says-entirety-of-east-wing-undergoing-renovation-for-ballroom</guid>
+    </item>    <item>
       <title>Yellow rain warning for East Galway, Roscommon, Longford</title>
       <link>https://www.rte.ie/news/2025/1022/1540079-yellow-rain-warning/</link>
       <description>
@@ -5483,14 +5499,6 @@ The number of children in care in Manitoba is up for the first time in several y
       </description>
       <source:markdown>The two candidates in the Presidential Election made pitches to undecided voters in the final TV debate of the campaign.</source:markdown>
       <guid>cid://https://www.rte.ie/news/analysis-and-comment/2025/1021/1539869-presidential-debate-takeaways/</guid>
-    </item>    <item>
-      <title>News Wrap: GOP lawmakers signal they will not negotiate with Dems to end shutdown</title>
-      <description>
-        <![CDATA[In our news wrap Friday, Republican lawmakers signaled they're not backing down as the government shutdown extended to a 21st day, the jewels stolen in a heist at the Louvre are worth an estimated $102 million, former French President Sarkozy reported to prison to begin serving a five-year sentence and Japan's parliament elected Sanae Takaichi as the country's first female prime minister. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy]]>
-      </description>
-      <source:markdown>In our news wrap Friday, Republican lawmakers signaled they&#39;re not backing down as the government shutdown extended to a 21st day, the jewels stolen in a heist at the Louvre are worth an estimated $102 million, former French President Sarkozy reported to prison to begin serving a five-year sentence and Japan&#39;s parliament elected Sanae Takaichi as the country&#39;s first female prime minister. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy</source:markdown>
-      <enclosure url="https://flex2.acast.com/s/pbs-newshour-world/u/d3i6fh83elv35t.cloudfront.net/static/2025/10/newswrap-19.mp3" length="5671476" type="audio/mpeg" />
-      <guid>cid://https://www.pbs.org/newshour/show/news-wrap-gop-lawmakers-signal-they-will-not-negotiate-with-dems-to-end-shutdown</guid>
     </item>    <item>
       <title>Analysis and reaction to final TV debate</title>
       <link>https://www.rte.ie/news/2025/1021/1539840-podcast-behind-the-story/</link>

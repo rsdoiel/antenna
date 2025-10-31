@@ -7,10 +7,34 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>31 Oct 25 15:12 -0700</lastBuildDate>
+    <lastBuildDate>31 Oct 25 16:36 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Bass calls for investigation into LAFD handling of fire that reignited to become the devastating Palisades Fire</title>
+      <link>https://laist.com/news/climate-environment/bass-calls-for-investigation-la-fire-department-lachman-fire-palisades-fire</link>
+      <description>
+        <![CDATA[The Lachman Fire reignited several days after firefighters responded to it, becoming the deadly and destructive Palisades Fire.]]>
+      </description>
+      <source:markdown>The Lachman Fire reignited several days after firefighters responded to it, becoming the deadly and destructive Palisades Fire.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-3c68-d84d-affa-feea29c50000</guid>
+    </item>    <item>
+      <title>Remember the Dodgers fans who projected the World Series on an East LA water tank? They’re at it again</title>
+      <link>https://laist.com/news/remember-the-dodgers-fans-who-projected-the-world-series-on-an-east-la-water-tank-theyre-at-it-again</link>
+      <description>
+        <![CDATA[For the Morales family, sharing the World Series with their neighbors is about more than baseball — it’s about community and resilience.]]>
+      </description>
+      <source:markdown>For the Morales family, sharing the World Series with their neighbors is about more than baseball — it’s about community and resilience.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-3c29-d4c5-a3bf-bfeb2d9b0000</guid>
+    </item>    <item>
+      <title>The world throws away too many clothes. California designers are trying to do something about it</title>
+      <link>https://laist.com/news/los-angeles-activities/fashion-waste-sustainable-design-asu-fidm-california-designers</link>
+      <description>
+        <![CDATA[Sustainable fashion experts gather in L.A. this weekend to discuss over-production and how better to use existing clothes.]]>
+      </description>
+      <source:markdown>Sustainable fashion experts gather in L.A. this weekend to discuss over-production and how better to use existing clothes.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-3c35-dc84-abff-fc37e35f0000</guid>
+    </item>    <item>
       <title>UC Davis researchers discover new species of coastal spider, just in time for Halloween</title>
       <link>https://laist.com/news/uc-davis-researchers-discover-new-species-of-coastal-spider-just-in-time-for-halloween</link>
       <description>
@@ -51,7 +75,7 @@
       <source:markdown>Judge Indira Talwani acknowledged this will leave millions of people without assistance starting Saturday.</source:markdown>
       <guid>cid://urn:uuid:0000019a-3b9a-d6cf-a9ff-7bbf0b700000</guid>
     </item>    <item>
-      <title>World Series Game 6: Dodgers head to their last chance to stay in the running</title>
+      <title>World Series Game 6: Dodgers face win-or-go-home matchup</title>
       <link>https://laist.com/news/world-series-game-6-dodgers-blue-jays</link>
       <description>
         <![CDATA[The Toronto Blue Jays are up 3-2 after a win on Wednesday.]]>

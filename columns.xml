@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>31 Oct 25 15:12 -0700</lastBuildDate>
+    <lastBuildDate>31 Oct 25 16:35 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -38,9 +38,64 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m4jmdxzpmk2h</link>
+      <description>
+        <![CDATA[If the Federal Government and it's leadership fails to up hold the Constitution and Bill of Rights or treats it as optional,
+        does sovereignty revert to the States and Territories? 
+        
+        Just asking for a friend.]]>
+      </description>
+      <source:markdown>If the Federal Government and it&#39;s leadership fails to up hold the Constitution and Bill of Rights or treats it as optional,
+does sovereignty revert to the States and Territories?
+
+Just asking for a friend.</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m4jmdxzpmk2h</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m4jlxd4jqc2h</link>
+      <description>
+        <![CDATA[As seen on <https://memex.naughtons.org/friday-31-october-2025/41332/>. Seems true from my brief experience on this planet.
+        
+        ”Capitalism is the extraordinary belief that the nastiest of men, for the nastiest of reasons, will somehow work for the benefit of us all.
+        
+            John Maynard Keynes]]>
+      </description>
+      <source:markdown>As seen on . Seems true from my brief experience on this planet.
+
+”Capitalism is the extraordinary belief that the nastiest of men, for the nastiest of reasons, will somehow work for the benefit of us all.
+
+ John Maynard Keynes</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m4jlxd4jqc2h</guid>
+    </item>    <item>
+      <link>https://www.thenation.com/article/politics/trump-ice-snap-healthcare-cruelty/</link>
+      <description>
+        <![CDATA[<p>Trump Is Forcing Millions to Make Cruel Choices.</p>]]>
+      </description>
+      <source:markdown>Trump Is Forcing Millions to Make Cruel Choices.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/31/1753/</guid>
+    </item>    <item>
+      <title>&#60;default:div xmlns=&#34;http://www.w3.org/1999/xhtml&#34; class=&#34;if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14&#34;/&#62;</title>
+      <link>https://tantek.com/2025/304/t1/night-before-indiewebcamp-berlin</link>
+      <guid>cid://https://tantek.com/2025/304/t1/night-before-indiewebcamp-berlin</guid>
+    </item>    <item>
+      <title>Things That Go Trump in the Night</title>
+      <link>https://www.borowitzreport.com/p/things-that-go-trump-in-the-night</link>
+      <description>
+        <![CDATA[Metamucilini's Worst Nightmares]]>
+      </description>
+      <source:markdown>Metamucilini&#39;s Worst Nightmares</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!3pTJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2183d30-cf5e-46b0-b57e-f50a12b6d793_1024x608.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/things-that-go-trump-in-the-night</guid>
+    </item>    <item>
       <title>Tim Bray on Grokipedia</title>
       <link>https://www.tbray.org/ongoing/When/202x/2025/10/28/Grokipedia</link>
       <guid>cid://tag:daringfireball.net,2025:/linked//6.42346</guid>
+    </item>    <item>
+      <link>https://nypost.com/2024/06/04/us-news/121-nyc-hotels-converted-to-migrant-shelters-despite-concerns-of-cost-squeeze-on-tourists/</link>
+      <description>
+        <![CDATA[<p>NYC ‘clearly hurting’ with loss of at least 15% of its hotel rooms to migrant shelters, ballooning costs for tourists.</p>]]>
+      </description>
+      <source:markdown>NYC ‘clearly hurting’ with loss of at least 15% of its hotel rooms to migrant shelters, ballooning costs for tourists.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/10/31/1751/</guid>
     </item>    <item>
       <title>‘Grokipedia Is the Antithesis of Everything That Makes Wikipedia Good, Useful, and Human’</title>
       <link>https://www.404media.co/grokipedia-is-the-antithesis-of-everything-that-makes-wikipedia-good-useful-and-human/?ref=platformer.news</link>
@@ -515,6 +570,15 @@ More than one Linux-adjacent vendor presented at the Ubuntu Summit, and a small 
       <source:markdown>The thing that excites me most is the seaweed.</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!DN9d!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc71e62ea-a750-494e-ae2a-22eb35098440_1689x780.png" length="0" type="image/jpeg" />
       <guid>cid://https://fixthenews.com/p/317-the-noperthedron-foodheroes-the</guid>
+    </item>    <item>
+      <title>“J’avais toujours raison”</title>
+      <link>https://branko2f7.substack.com/p/javais-toujours-raison</link>
+      <description>
+        <![CDATA[A review of Raymond Aron&#8217;s "Memoires" (a long read)]]>
+      </description>
+      <source:markdown>A review of Raymond Aron’s &#34;Memoires&#34; (a long read)</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/52e5ccf8-d338-41e3-ba86-4e5721f471ba_205x292.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://branko2f7.substack.com/p/javais-toujours-raison</guid>
     </item>    <item>
       <title>An Autumn Afternoon in Washington D.C.</title>
       <link>https://fallows.substack.com/p/an-autumn-afternoon-in-washington</link>
@@ -11667,6 +11731,15 @@ Think in rooms, floors, buildings, and streets. You send an envelope from your r
       <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/6089eb27-957d-4c09-ade2-a5bffd83b82a_2304x1707.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://www.sustainabilitybynumbers.com/p/usa-electricity-growth</guid>
     </item>    <item>
+      <title>A strange encounter</title>
+      <link>https://branko2f7.substack.com/p/a-strange-encounter</link>
+      <description>
+        <![CDATA[It was a warm, almost Summer-like night in New York.]]>
+      </description>
+      <source:markdown>It was a warm, almost Summer-like night in New York.</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/f89a01a5-31c4-42ea-b447-978b588e9c5b_403x276.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://branko2f7.substack.com/p/a-strange-encounter</guid>
+    </item>    <item>
       <title>Finished reading Mage Tank</title>
       <link>https://www.mollywhite.net/reading/books?search=Mage%20Tank</link>
       <guid>cid://68f682bd001c2f16683edb88</guid>
@@ -13481,6 +13554,15 @@ As usual, you can also use this squid post to talk about the security stories in
 
 Tags: [uuid](https://simonwillison.net/tags/uuid), [postgresql](https://simonwillison.net/tags/postgresql), [privacy](https://simonwillison.net/tags/privacy), [security](https://simonwillison.net/tags/security)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/17/uuid-v7/#atom-everything</guid>
+    </item>    <item>
+      <title>Russia: An ideology for domestic purposes and another for foreign</title>
+      <link>https://branko2f7.substack.com/p/russia-an-ideology-for-domestic-purposes</link>
+      <description>
+        <![CDATA[Nationalism or internationalism or both?]]>
+      </description>
+      <source:markdown>Nationalism or internationalism or both?</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/efcc0b39-c3bf-478b-944d-de445c251a0b_509x239.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://branko2f7.substack.com/p/russia-an-ideology-for-domestic-purposes</guid>
     </item>    <item>
       <title>The Base M5 MacBook Pro vs. the M4 MacBook Air</title>
       <link>https://www.apple.com/mac/compare/?modelList=MacBook-Air-M4,MacBook-Pro-14-M5,MacBook-Pro-14-M4-Pro</link>

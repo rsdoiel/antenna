@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>31 Oct 25 15:12 -0700</dateCreated>
+        <dateCreated>31 Oct 25 16:35 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -31,6 +31,7 @@
         <outline text="Blog Marcus Fernström" type="rss" xmlUrl="https://medium.com/feed/@marcusfernstrm" htmlUrl="https://medium.com/@marcusfernstrm?source=rss-e3a3546daf59------2,https://medium.com/@marcusfernstrm/feed" description="Stories by Marcus Fernström on Medium" url="https://medium.com/@marcusfernstrm/feed"></outline>
         <outline text="Blog by Fabrizio Ferri-Benedetti" type="rss" xmlUrl="https://passo.uno/index.xml" htmlUrl="https://passo.uno/,https://passo.uno/index.xml" description="Recent content on passo.uno" url="https://passo.uno/index.xml"></outline>
         <outline text="Borowitz Report" type="rss" xmlUrl="https://www.borowitzreport.com/feed" htmlUrl="https://www.borowitzreport.com,https://www.borowitzreport.com/feed" description="Home of Truth" url="https://www.borowitzreport.com/feed"></outline>
+        <outline text="Branco Milanovic, Global Inequality and More 3.0" type="rss" xmlUrl="https://branko2f7.substack.com/feed" htmlUrl="https://branko2f7.substack.com,https://branko2f7.substack.com/feed" description="Global inequality and More 3.0" url="https://branko2f7.substack.com/feed"></outline>
         <outline text="Brett Brecker Blog (CS Prof. UCD Dublin)" type="rss" xmlUrl="https://www.brettbecker.com/feed/" htmlUrl="https://www.brettbecker.com,https://www.brettbecker.com/feed/" description="Assistant Professor, Computing Education Research" url="https://www.brettbecker.com/feed/"></outline>
         <outline text="Brian Balsamo&#39;s blog" type="rss" xmlUrl="https://bnbalsamo.github.io/feed.xml" htmlUrl="https://bnbalsamo.github.io,https://bnbalsamo.github.io/feed.xml" description="Librarian, Developer, etc." url="https://bnbalsamo.github.io/feed.xml"></outline>
         <outline text="Brian Robert Callahan blog" type="rss" xmlUrl="https://briancallahan.net/blog/feed.xml" htmlUrl="https://briancallahan.net/blog" description="academic, developer, with an eye towards a brighter techno-social life"></outline>
