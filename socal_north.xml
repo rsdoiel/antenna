@@ -7,10 +7,34 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>31 Oct 25 16:36 -0700</lastBuildDate>
+    <lastBuildDate>01 Nov 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>How the tiny city of San Fernando in the Valley avoided being swallowed up by LA</title>
+      <link>https://laist.com/news/la-history/la-san-fernando-city-founding-sfv</link>
+      <description>
+        <![CDATA[It all came down to one precious asset.]]>
+      </description>
+      <source:markdown>It all came down to one precious asset.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-3b57-d11e-a5de-3bdf01440000</guid>
+    </item>    <item>
+      <title>Angelenos are celebrating Día de los Muertos. Here’s who they’re honoring today</title>
+      <link>https://laist.com/news/angelenos-dia-de-los-muertos-who-theyre-honoring</link>
+      <description>
+        <![CDATA[LAist heard from Angelenos about their loved ones who have passed. Here’s what they shared of their favorite memories.]]>
+      </description>
+      <source:markdown>LAist heard from Angelenos about their loved ones who have passed. Here’s what they shared of their favorite memories.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-3c12-d3bb-a59a-bfd3701d0000</guid>
+    </item>    <item>
+      <title>Rabid bats are on the rise in parts of SoCal. Here&#39;s what you need to do</title>
+      <link>https://laist.com/news/climate-environment/rabid-bats-southern-california-health-warnings</link>
+      <description>
+        <![CDATA[Officials say people should take precautions, including for their pets, and steer clear of the wild animals.]]>
+      </description>
+      <source:markdown>Officials say people should take precautions, including for their pets, and steer clear of the wild animals.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-3c72-d84d-affa-fefa33a80000</guid>
+    </item>    <item>
       <title>Bass calls for investigation into LAFD handling of fire that reignited to become the devastating Palisades Fire</title>
       <link>https://laist.com/news/climate-environment/bass-calls-for-investigation-la-fire-department-lachman-fire-palisades-fire</link>
       <description>
@@ -67,20 +91,20 @@
       <source:markdown>Department of Homeland Security says man was not their intended target</source:markdown>
       <guid>cid://urn:uuid:0000019a-3b67-d11e-a5de-3bff6dd30000</guid>
     </item>    <item>
-      <title>Federal judges order administration to pay SNAP benefits but what&#39;s next remains unclear</title>
+      <title>42 million Americans rely on food benefits that expire tomorrow. What&#39;s next is unclear</title>
       <link>https://laist.com/news/politics/judge-gives-trump-administration-until-monday-to-have-a-plan-for-snap-benefits</link>
       <description>
-        <![CDATA[Judge Indira Talwani acknowledged this will leave millions of people without assistance starting Saturday.]]>
+        <![CDATA[Federal judges ordered the Trump administration in Friday to keep paying SNAP benefits. When and how much is not yet known.]]>
       </description>
-      <source:markdown>Judge Indira Talwani acknowledged this will leave millions of people without assistance starting Saturday.</source:markdown>
+      <source:markdown>Federal judges ordered the Trump administration in Friday to keep paying SNAP benefits. When and how much is not yet known.</source:markdown>
       <guid>cid://urn:uuid:0000019a-3b9a-d6cf-a9ff-7bbf0b700000</guid>
     </item>    <item>
-      <title>World Series Game 6: Dodgers face win-or-go-home matchup</title>
+      <title>Dodgers beat Blue Jays to extend World Series to Game 7 in Toronto</title>
       <link>https://laist.com/news/world-series-game-6-dodgers-blue-jays</link>
       <description>
-        <![CDATA[The Toronto Blue Jays are up 3-2 after a win on Wednesday.]]>
+        <![CDATA[The series is now tied 3-3, setting the stage for the deciding Game 7.]]>
       </description>
-      <source:markdown>The Toronto Blue Jays are up 3-2 after a win on Wednesday.</source:markdown>
+      <source:markdown>The series is now tied 3-3, setting the stage for the deciding Game 7.</source:markdown>
       <guid>cid://urn:uuid:0000019a-3b93-d84d-affa-fffb99480000</guid>
     </item>    <item>
       <title>What does &#39;67&#39; mean? Dictionary.com&#39;s 2025 word of the year has no definition</title>
@@ -190,9 +214,9 @@
       <title>Trump says Senate should scrap the filibuster to end the government shutdown</title>
       <link>https://laist.com/news/politics/trump-says-senate-should-scrap-the-filibuster-to-end-the-government-shutdown</link>
       <description>
-        <![CDATA[President Donald Trump is calling on the Senate to scrap the filibuster, so that the Republican majority can bypass Democrats and reopen the federal government.]]>
+        <![CDATA[President Trump is calling on the Senate to scrap the filibuster, so that the Republican majority can bypass Democrats and reopen the federal government.]]>
       </description>
-      <source:markdown>President Donald Trump is calling on the Senate to scrap the filibuster, so that the Republican majority can bypass Democrats and reopen the federal government.</source:markdown>
+      <source:markdown>President Trump is calling on the Senate to scrap the filibuster, so that the Republican majority can bypass Democrats and reopen the federal government.</source:markdown>
       <guid>cid://urn:uuid:0000019a-39c7-d6cf-a9ff-79ef3cc60000</guid>
     </item>    <item>
       <title>New CalOptima report finds transparency violations but no &#39;kickbacks&#39; to disgraced ex-Supervisor Andrew Do</title>
@@ -2952,215 +2976,6 @@ The post [Rolling Out Safety – Santa Clarita’s New Mobile Command Unit](http
       </description>
       <source:markdown>Illegal harvesting of plants in the wild is leading to extinction for some species, experts say.</source:markdown>
       <guid>cid://urn:uuid:00000199-cf5b-d4dc-abdf-dfff6cc70000</guid>
-    </item>    <item>
-      <title>Central Valley Invests Additional $300K in California Men’s Service Challenge after State Commits $5 Million</title>
-      <link>https://www.californiavolunteers.ca.gov/central-valley-invests-additional-300k-in-california-mens-service-challenge-after-state-commits-5-million/</link>
-      <guid>cid://https://www.californiavolunteers.ca.gov/?p=84384</guid>
-    </item>    <item>
-      <title>From remote islands to the DMZ, UC Santa Barbara student hit 118 countries before turning 20</title>
-      <link>https://laist.com/news/from-remote-islands-to-the-dmz-uc-santa-barbara-student-hit-118-countries-before-turning-20</link>
-      <description>
-        <![CDATA[Arjun Malaviya set out to travel the world on his 17th birthday in July 2023. Over 13 months, the California teenager traveled through some of the world's most populated cities and most remote villages.]]>
-      </description>
-      <source:markdown>Arjun Malaviya set out to travel the world on his 17th birthday in July 2023. Over 13 months, the California teenager traveled through some of the world&#39;s most populated cities and most remote villages.</source:markdown>
-      <guid>cid://urn:uuid:00000199-d029-dc80-a5fb-fd795dd60000</guid>
-    </item>    <item>
-      <title>Judge denies California&#39;s request to put LA County juvenile halls under state control</title>
-      <link>https://laist.com/news/criminal-justice/judge-denies-californias-request-to-put-la-county-juvenile-halls-under-state-control</link>
-      <description>
-        <![CDATA[Attorney General Rob Bonta made the request after years of scandals at the county's facilities.]]>
-      </description>
-      <source:markdown>Attorney General Rob Bonta made the request after years of scandals at the county&#39;s facilities.</source:markdown>
-      <guid>cid://urn:uuid:00000199-d019-d593-a3d9-d21928b10000</guid>
-    </item>    <item>
-      <title>Western Star Dust Brings Western Heritage to Life</title>
-      <link>https://santaclarita.gov/blog/2025/10/10/western-star-dust-brings-western-heritage-to-life/</link>
-      <description>
-        <![CDATA[<p>Augmented Reality (AR) Art Transforms Santa Clarita’s Walk of Western Stars The City of Santa Clarita is proud to announce the debut of the Western Star Dust, a new, interactive art installation that transforms the iconic Walk of Western Stars in Old Town Newhall. Created by acclaimed media artist Victoria Vesna, this Augmented Reality (AR) [&#8230;]</p>
-        <p>The post <a href="https://santaclarita.gov/blog/2025/10/10/western-star-dust-brings-western-heritage-to-life/">Western Star Dust Brings Western Heritage to Life</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
-      </description>
-      <source:markdown>Augmented Reality (AR) Art Transforms Santa Clarita’s Walk of Western Stars The City of Santa Clarita is proud to announce the debut of the Western Star Dust, a new, interactive art installation that transforms the iconic Walk of Western Stars in Old Town Newhall. Created by acclaimed media artist Victoria Vesna, this Augmented Reality (AR) \[…\]
-
-The post [Western Star Dust Brings Western Heritage to Life](https://santaclarita.gov/blog/2025/10/10/western-star-dust-brings-western-heritage-to-life/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
-      <guid>cid://https://santaclarita.gov/?p=6850</guid>
-    </item>    <item>
-      <title>El Valle Central invierte $300,000 adicionales en el California Men’s Service Challenge después de que el estado comprometiera $5 millones</title>
-      <link>https://www.californiavolunteers.ca.gov/el-valle-central-invierte-300000-adicionales-en-el-california-mens-service-challenge-despues-de-que-el-estado-comprometiera-5-millones/</link>
-      <guid>cid://https://www.californiavolunteers.ca.gov/?p=84393</guid>
-    </item>    <item>
-      <title>White House claims &#34;more than 1,000%&#34; rise in assaults on ICE agents. Data says otherwise</title>
-      <link>https://laist.com/news/white-house-ice-agents-assaults-claims</link>
-      <description>
-        <![CDATA[Immigration and Customs Enforcement officers claim assaults on their officers are up sharply since June. There's no public evidence that number is true.]]>
-      </description>
-      <source:markdown>Immigration and Customs Enforcement officers claim assaults on their officers are up sharply since June. There&#39;s no public evidence that number is true.</source:markdown>
-      <guid>cid://urn:uuid:00000199-cf71-d89a-a3b9-fff791cb0000</guid>
-    </item>    <item>
-      <title>Outdoor dining becomes a permanent fixture in California. How it will work</title>
-      <link>https://laist.com/news/food/california-outdoor-dining-new-laws-restaurant-building-permits</link>
-      <description>
-        <![CDATA[Using sidewalks and parking lot started as a way to help restaurants during the pandemic. Two news laws aim to help a still-struggling industry.]]>
-      </description>
-      <source:markdown>Using sidewalks and parking lot started as a way to help restaurants during the pandemic. Two news laws aim to help a still-struggling industry.</source:markdown>
-      <guid>cid://urn:uuid:00000199-cfbb-d633-a399-ffbf05f10000</guid>
-    </item>    <item>
-      <title>A state snake and shrub? Meet California’s newest designated state symbols</title>
-      <link>https://laist.com/news/climate-environment/new-california-state-snake-state-shrub</link>
-      <description>
-        <![CDATA[Californians, your newest state symbols are the native big berry manzanita and the giant garter snake.]]>
-      </description>
-      <source:markdown>Californians, your newest state symbols are the native big berry manzanita and the giant garter snake.</source:markdown>
-      <guid>cid://urn:uuid:00000199-cfb2-dcf2-afdb-cff796e50000</guid>
-    </item>    <item>
-      <title>Join Us for a Time-Warping Night at the Rocky Horror Picture Show</title>
-      <link>https://santaclarita.gov/blog/2025/10/10/join-us-for-a-time-warping-night-at-the-rocky-horror-picture-show/</link>
-      <description>
-        <![CDATA[<p>Calling all Transylvanians—get ready to do the Time Warp! The City of Santa Clarita invites you to an unforgettable late-night screening of the 50th anniversary of the cult-classic, The Rocky Horror Picture Show at The Centre (20880 Centre Pointe Parkway) on Friday, October 24 and Saturday, October 25 at 11:30 p.m. This two-night event features [&#8230;]</p>
-        <p>The post <a href="https://santaclarita.gov/blog/2025/10/10/join-us-for-a-time-warping-night-at-the-rocky-horror-picture-show/">Join Us for a Time-Warping Night at the Rocky Horror Picture Show</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
-      </description>
-      <source:markdown>Calling all Transylvanians—get ready to do the Time Warp! The City of Santa Clarita invites you to an unforgettable late-night screening of the 50th anniversary of the cult-classic, The Rocky Horror Picture Show at The Centre (20880 Centre Pointe Parkway) on Friday, October 24 and Saturday, October 25 at 11:30 p.m. This two-night event features \[…\]
-
-The post [Join Us for a Time-Warping Night at the Rocky Horror Picture Show](https://santaclarita.gov/blog/2025/10/10/join-us-for-a-time-warping-night-at-the-rocky-horror-picture-show/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
-      <guid>cid://https://santaclarita.gov/?p=6846</guid>
-    </item>    <item>
-      <title>This urban planner is leading tours behind Chicano-shaped spaces in East LA</title>
-      <link>https://laist.com/news/los-angeles-activities/boyle-heights-raised-urban-planner-wants-you-to-learn-the-critical-stories-behind-chicano-shaped-spaces-in-east-la</link>
-      <description>
-        <![CDATA[James Rojas’s walking tours of L.A.’s Eastside feature the landmarks of Chicano and Latino culture.]]>
-      </description>
-      <source:markdown>James Rojas’s walking tours of L.A.’s Eastside feature the landmarks of Chicano and Latino culture.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c9ef-d89a-a3b9-fdef41bf0000</guid>
-    </item>    <item>
-      <title>Newsom expands his marquee mental health program with new law. Will it help more people?</title>
-      <link>https://laist.com/news/health/newsom-expands-marquee-mental-health-program-with-new-law</link>
-      <description>
-        <![CDATA[Gov. Gavin Newsom's CARE Court has helped fewer mentally ill people than he projected. He just signed a new law that will make more people eligible for it.]]>
-      </description>
-      <source:markdown>Gov. Gavin Newsom&#39;s CARE Court has helped fewer mentally ill people than he projected. He just signed a new law that will make more people eligible for it.</source:markdown>
-      <guid>cid://urn:uuid:00000199-cf6a-dc80-a5fb-ef7a2da30000</guid>
-    </item>    <item>
-      <title>Does Prop 50 divide California communities? Depends how you measure it</title>
-      <link>https://laist.com/news/politics/does-prop-50-divide-california-communities-depends-how-you-measure-it</link>
-      <description>
-        <![CDATA[Prop. 50 would enact a congressional map that helps Democrats, but a new analysis finds it doesn’t change Californians’ representation much on other measures.]]>
-      </description>
-      <source:markdown>Prop. 50 would enact a congressional map that helps Democrats, but a new analysis finds it doesn’t change Californians’ representation much on other measures.</source:markdown>
-      <guid>cid://urn:uuid:00000199-cf09-dd37-a1f9-cf2f37ab0000</guid>
-    </item>    <item>
-      <title>Trump administration says about 4,200 federal employees face layoffs</title>
-      <link>https://laist.com/news/politics/white-house-says-substantial-layoffs-of-federal-workers-have-begun-with-few-details</link>
-      <description>
-        <![CDATA[The Trump administration says it has started the process of issuing "substantial" reduction-in-force notices to federal employees. Court filings suggest around 4,200 affected so far.]]>
-      </description>
-      <source:markdown>The Trump administration says it has started the process of issuing &#34;substantial&#34; reduction-in-force notices to federal employees. Court filings suggest around 4,200 affected so far.</source:markdown>
-      <guid>cid://urn:uuid:00000199-cf68-d89a-a3b9-ffef761a0000</guid>
-    </item>    <item>
-      <title>Skate and Scare at The Cube!</title>
-      <link>https://santaclarita.gov/blog/2025/10/10/skate-and-scare-at-the-cube/</link>
-      <description>
-        <![CDATA[<p>Get ready to glide into a frightfully good time! The Cube – Ice and Entertainment Center, Powered by FivePoint Valencia, is turning the rink into a haunted hangout for Skate and Scare on Saturday, October 25, from 1:30 to 4:30 p.m. This isn’t your average skate session – think chills, thrills and a costume contest! [&#8230;]</p>
-        <p>The post <a href="https://santaclarita.gov/blog/2025/10/10/skate-and-scare-at-the-cube/">Skate and Scare at The Cube!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
-      </description>
-      <source:markdown>Get ready to glide into a frightfully good time! The Cube – Ice and Entertainment Center, Powered by FivePoint Valencia, is turning the rink into a haunted hangout for Skate and Scare on Saturday, October 25, from 1:30 to 4:30 p.m. This isn’t your average skate session – think chills, thrills and a costume contest! \[…\]
-
-The post [Skate and Scare at The Cube!](https://santaclarita.gov/blog/2025/10/10/skate-and-scare-at-the-cube/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
-      <guid>cid://https://santaclarita.gov/?p=6842</guid>
-    </item>    <item>
-      <title>Venezuela&#39;s opposition leader María Corina Machado wins 2025 Nobel Peace Prize that Trump lobbied to get</title>
-      <link>https://laist.com/news/venezuelas-opposition-leader-maria-corina-machado-2025-nobel-peace-prize</link>
-      <description>
-        <![CDATA[The Nobel Committee cited her tireless work promoting democratic rights for the people of Venezuela. Trump's White House communications director, Steven Cheung, reacted on social media, posting: "The Nobel Committee proved they place politics over peace."]]>
-      </description>
-      <source:markdown>The Nobel Committee cited her tireless work promoting democratic rights for the people of Venezuela. Trump&#39;s White House communications director, Steven Cheung, reacted on social media, posting: &#34;The Nobel Committee proved they place politics over peace.&#34;</source:markdown>
-      <guid>cid://urn:uuid:00000199-cf28-d89a-a3b9-ffaf9f660000</guid>
-    </item>    <item>
-      <title>Newsom signs law that will allow mid-rise apartment buildings near major transit stops</title>
-      <link>https://laist.com/news/housing-homelessness/newsom-signs-law-allowing-mid-rise-apartment-buildings-near-major-transit-stops</link>
-      <description>
-        <![CDATA[After weeks of waiting, the governor signed a law overhauling local zoning to build more housing in California's biggest metro areas.]]>
-      </description>
-      <source:markdown>After weeks of waiting, the governor signed a law overhauling local zoning to build more housing in California&#39;s biggest metro areas.</source:markdown>
-      <guid>cid://urn:uuid:00000199-cf01-dc80-a5fb-ef5999440000</guid>
-    </item>    <item>
-      <title>Where has Trump suggested sending troops? In cities run by Democratic mayors</title>
-      <link>https://laist.com/news/politics/trump-suggested-sending-troops-in-cities-run-by-democratic-mayors</link>
-      <description>
-        <![CDATA[The Pentagon began withdrawing troops from Los Angeles in mid-July, but other cities could be next.]]>
-      </description>
-      <source:markdown>The Pentagon began withdrawing troops from Los Angeles in mid-July, but other cities could be next.</source:markdown>
-      <guid>cid://urn:uuid:00000199-cee3-dd37-a1f9-cee79eca0000</guid>
-    </item>    <item>
-      <title>CicLAvia hits Boyle Heights Sunday with street closures ahead, but you could get money back for parking</title>
-      <link>https://laist.com/news/transportation/ciclavia-boyle-heights-sunday-street-closures-parking</link>
-      <description>
-        <![CDATA[Expect street closures, no-parking zones and towing on Sunday, Oct. 12 — but you may be eligible for parking reimbursement.]]>
-      </description>
-      <source:markdown>Expect street closures, no-parking zones and towing on Sunday, Oct. 12 — but you may be eligible for parking reimbursement.</source:markdown>
-      <guid>cid://urn:uuid:00000199-cecb-dd37-a1f9-ceefe0ee0000</guid>
-    </item>    <item>
-      <title>Israel says it has completed a pullback of troops in Gaza</title>
-      <link>https://laist.com/news/israel-says-it-has-completed-a-pullback-of-troops-in-gaza</link>
-      <description>
-        <![CDATA[Israeli forces have completed a pullback of troops from Gaza on Friday after Israel's Cabinet approved a plan for a ceasefire aimed at ending the devastating two-year war.]]>
-      </description>
-      <source:markdown>Israeli forces have completed a pullback of troops from Gaza on Friday after Israel&#39;s Cabinet approved a plan for a ceasefire aimed at ending the devastating two-year war.</source:markdown>
-      <guid>cid://urn:uuid:00000199-ced3-dc80-a5fb-efdbb0aa0000</guid>
-    </item>    <item>
-      <title>What does death smell like? This LA perfume exhibition takes your nose into unusual territories</title>
-      <link>https://laist.com/news/los-angeles-activities/death-smell-la-perfume-exhibition-institute-for-art-and-olfaction-craft-contemporary</link>
-      <description>
-        <![CDATA[A new exhibition at the Institute for Art and Olfaction focuses on the connection between scent, cultural memory and mythology.]]>
-      </description>
-      <source:markdown>A new exhibition at the Institute for Art and Olfaction focuses on the connection between scent, cultural memory and mythology.</source:markdown>
-      <guid>cid://urn:uuid:00000199-cb7d-d2df-a1d9-dbfde9010000</guid>
-    </item>    <item>
-      <title>Here&#39;s why I think Orange County has a better food scene than Los Angeles</title>
-      <link>https://laist.com/news/food/heres-why-i-think-orange-county-has-a-better-food-scene-than-los-angeles</link>
-      <description>
-        <![CDATA[Yes, it's controversial, but let me explain.]]>
-      </description>
-      <source:markdown>Yes, it&#39;s controversial, but let me explain.</source:markdown>
-      <guid>cid://urn:uuid:00000199-a632-d76d-a1bf-e73e41040000</guid>
-    </item>    <item>
-      <title>Long Beach says its ‘Fixit’ repair clinics have diverted about 3,000 pounds of waste from landfills</title>
-      <link>https://laist.com/news/los-angeles-activities/long-beach-fixit-repair-clinics-divert-waste-from-landfills</link>
-      <description>
-        <![CDATA[The next Long Beach Fixit clinic takes place Saturday. People are encouraged to bring small appliances, toys, electronics and bicycles that need repair.]]>
-      </description>
-      <source:markdown>The next Long Beach Fixit clinic takes place Saturday. People are encouraged to bring small appliances, toys, electronics and bicycles that need repair.</source:markdown>
-      <guid>cid://urn:uuid:00000199-cb60-d89a-a3b9-ffe7197d0000</guid>
-    </item>    <item>
-      <title>Many CA cities wanted to build more housing by eliminating stair requirements. Only Culver City got it done</title>
-      <link>https://laist.com/news/housing-homelessness/california-housing-single-stair-building-codes-apartment-culver-city-los-angeles</link>
-      <description>
-        <![CDATA[What do stairs have to do with California’s housing crisis? More than you might think, says this Culver City councilmember.]]>
-      </description>
-      <source:markdown>What do stairs have to do with California’s housing crisis? More than you might think, says this Culver City councilmember.</source:markdown>
-      <guid>cid://urn:uuid:00000199-cb52-d89a-a3b9-ffd71aed0000</guid>
-    </item>    <item>
-      <title>Chaos, conflict and drones: 10 takeaways from LAFD’s report on the Palisades Fire</title>
-      <link>https://laist.com/news/climate-environment/chaos-conflict-and-drones-10-takeaways-from-lafds-report-on-the-palisades-fire</link>
-      <description>
-        <![CDATA[The report is quite critical, documenting how systemic problems endangered the lives of firefighters and the public.]]>
-      </description>
-      <source:markdown>The report is quite critical, documenting how systemic problems endangered the lives of firefighters and the public.</source:markdown>
-      <guid>cid://urn:uuid:00000199-cb59-d22c-addd-df7f95b80000</guid>
-    </item>    <item>
-      <title>Light rain arrives this weekend, but a potentially major storm could follow</title>
-      <link>https://laist.com/news/climate-environment/light-rain-arrives-this-weekend-but-a-potentially-major-storm-could-follow</link>
-      <description>
-        <![CDATA[The National Weather Service says the storm will likely pass over northern L.A. County early next week.]]>
-      </description>
-      <source:markdown>The National Weather Service says the storm will likely pass over northern L.A. County early next week.</source:markdown>
-      <guid>cid://urn:uuid:00000199-caee-dedc-a5db-dafe4c640000</guid>
-    </item>    <item>
-      <title>Once the Gaza ceasefire goes into effect, what happens next? Here&#39;s what to know</title>
-      <link>https://laist.com/news/once-the-gaza-ceasefire-goes-into-effect-what-happens-next-heres-what-to-know</link>
-      <description>
-        <![CDATA[Israel and Hamas have reached an agreement for the "first phase" of a plan promoted by President Trump to end the war in Gaza. A ceasefire is expected to go into effect after an Israeli Cabinet vote.]]>
-      </description>
-      <source:markdown>Israel and Hamas have reached an agreement for the &#34;first phase&#34; of a plan promoted by President Trump to end the war in Gaza. A ceasefire is expected to go into effect after an Israeli Cabinet vote.</source:markdown>
-      <guid>cid://urn:uuid:00000199-cc27-d5d7-a9ff-ef7f265d0000</guid>
     </item>
   </channel>
 </rss>
