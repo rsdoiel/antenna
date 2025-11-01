@@ -4,10 +4,89 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>31 Oct 25 16:36 -0700</lastBuildDate>
+    <lastBuildDate>01 Nov 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>OpenAI’s Apps SDK: A Developer’s Guide to Getting Started</title>
+      <link>https://thenewstack.io/openais-apps-sdk-a-developers-guide-to-getting-started/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/a9c3c598-ethan-currier-23jcwyguv_0-unsplash-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="app in a box" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/a9c3c598-ethan-currier-23jcwyguv_0-unsplash.jpg" /><p>&#8220;The ChatGPT app ecosystem is built on trust,&#8221; OpenAI&#8217;s guidelines for app developers proclaim. As the AI ecosystem expands, OpenAI&#8217;s</p>
+        <p>The post <a href="https://thenewstack.io/openais-apps-sdk-a-developers-guide-to-getting-started/">OpenAI’s Apps SDK: A Developer’s Guide to Getting Started</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![app in a box](https://cdn.thenewstack.io/media/2025/10/a9c3c598-ethan-currier-23jcwyguv_0-unsplash-1024x576.jpg)
+
+“The ChatGPT app ecosystem is built on trust,” OpenAI’s guidelines for app developers proclaim. As the AI ecosystem expands, OpenAI’s
+
+The post [OpenAI’s Apps SDK: A Developer’s Guide to Getting Started](https://thenewstack.io/openais-apps-sdk-a-developers-guide-to-getting-started/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805024</guid>
+    </item>    <item>
+      <title>heise-Angebot: c’t Sonderheft KI-Wissen 2/2025 – Jetzt erhältlich</title>
+      <link>https://www.heise.de/news/c-t-Sonderheft-KI-Wissen-2-2025-Jetzt-erhaeltlich-10963730.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[KI erobert alles – Medizin, Musik, Umwelt, Wirtschaft und Politik. Doch wem gehören Daten, Kreativität und Verantwortung? Antworten im neuen c’t-Sonderheft.]]>
+      </description>
+      <source:markdown>KI erobert alles – Medizin, Musik, Umwelt, Wirtschaft und Politik. Doch wem gehören Daten, Kreativität und Verantwortung? Antworten im neuen c’t-Sonderheft.</source:markdown>
+      <guid>cid://http://heise.de/-10963730</guid>
+    </item>    <item>
+      <title>AWS treibt Wachstum bei Amazon</title>
+      <link>https://www.heise.de/news/AWS-treibt-Wachstum-bei-Amazon-10965955.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Auf die Cloud-Sparte von Amazon greifen Dutzende große und kleine Unternehmen zu. Sie wuchs zuletzt so schnell wie seit Jahren nicht mehr.]]>
+      </description>
+      <source:markdown>Auf die Cloud-Sparte von Amazon greifen Dutzende große und kleine Unternehmen zu. Sie wuchs zuletzt so schnell wie seit Jahren nicht mehr.</source:markdown>
+      <guid>cid://http://heise.de/-10965955</guid>
+    </item>    <item>
+      <title>China deutet Ausnahmen von Nexperia-Lieferstopp an</title>
+      <link>https://www.heise.de/news/China-deutet-Ausnahmen-von-Nexperia-Lieferstopp-an-10965916.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Lieferprobleme bei Nexperia könnten zunehmen –  und damit auch deutsche Autoindustrie treffen. China lenkt etwas ein.]]>
+      </description>
+      <source:markdown>Die Lieferprobleme bei Nexperia könnten zunehmen – und damit auch deutsche Autoindustrie treffen. China lenkt etwas ein.</source:markdown>
+      <guid>cid://http://heise.de/-10965916</guid>
+    </item>    <item>
+      <title>heise-Angebot: iX-Workshop: Exchange Migration – von Exchange OnPrem zu Exchange Online</title>
+      <link>https://www.heise.de/news/iX-Workshop-Exchange-Migration-von-Exchange-OnPrem-zu-Exchange-Online-10963012.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[So migrieren Sie Ihren Exchange Server 2016 oder 2019 zu Exchange Online – eine Schritt-für-Schritt-Anleitung.]]>
+      </description>
+      <source:markdown>So migrieren Sie Ihren Exchange Server 2016 oder 2019 zu Exchange Online – eine Schritt-für-Schritt-Anleitung.</source:markdown>
+      <guid>cid://http://heise.de/-10963012</guid>
+    </item>    <item>
+      <title>Developer Snapshots: Kleinere News der Woche</title>
+      <link>https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-10965399.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Übersicht enthält kleine, aber interessante Meldungen zu Qt Creator, Amber, GitHub, Rust, Theia AI, Google, Apache Arrow, Rspack und OpenAPI.]]>
+      </description>
+      <source:markdown>Die Übersicht enthält kleine, aber interessante Meldungen zu Qt Creator, Amber, GitHub, Rust, Theia AI, Google, Apache Arrow, Rspack und OpenAPI.</source:markdown>
+      <guid>cid://http://heise.de/-10965399</guid>
+    </item>    <item>
+      <title>Robotic lawnmower uses AI to dodge cats, toys</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/01/robotic_lawnmower_ai/</link>
+      <description>
+        <![CDATA[<h4>The Sunseeker Elite X5 can mow on its own, but it doesn&#39;t come cheap</h4> <p>The tentacles of AI seem to be reaching everywhere, even to the humble lawnmower. We tested the Sunseeker Elite X5, a robotic mower that uses machine learning to steer around your lawn, to see what happens when artificial intelligence meets whirling blades of doom.…</p>]]>
+      </description>
+      <source:markdown>#### The Sunseeker Elite X5 can mow on its own, but it doesn&#39;t come cheap
+
+The tentacles of AI seem to be reaching everywhere, even to the humble lawnmower. We tested the Sunseeker Elite X5, a robotic mower that uses machine learning to steer around your lawn, to see what happens when artificial intelligence meets whirling blades of doom.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242764</guid>
+    </item>    <item>
+      <title>Docker Image Security – Teil 3: Minimale, sichere Container-Images selbst bauen</title>
+      <link>https://www.heise.de/hintergrund/Docker-Image-Security-Teil-3-Minimale-sichere-Container-Images-selbst-bauen-10964627.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Minimale Container-Images reduzieren Schwachstellen durch weniger Komponenten. Anleitung für eigene Images mit Ubuntu Chiseled, WolfiOS und Azure Linux.]]>
+      </description>
+      <source:markdown>Minimale Container-Images reduzieren Schwachstellen durch weniger Komponenten. Anleitung für eigene Images mit Ubuntu Chiseled, WolfiOS und Azure Linux.</source:markdown>
+      <guid>cid://http://heise.de/-10964627</guid>
+    </item>    <item>
+      <title>Digitaler Euro: Verhandlungsführer des EU-Parlaments ist gegen Online-Nutzung</title>
+      <link>https://www.heise.de/news/Digitaler-Euro-Verhandlungsfuehrer-des-EU-Parlaments-ist-gegen-Online-Nutzung-10965775.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der Berichterstatter der EU-Abgeordneten, Fernando Navarrete Rojas, will den digitalen Euro nur, wenn die Wirtschaft keine eigene einschlägige Lösung anbietet.]]>
+      </description>
+      <source:markdown>Der Berichterstatter der EU-Abgeordneten, Fernando Navarrete Rojas, will den digitalen Euro nur, wenn die Wirtschaft keine eigene einschlägige Lösung anbietet.</source:markdown>
+      <guid>cid://http://heise.de/-10965775</guid>
+    </item>    <item>
       <title>Thieves Steal More Than 1,000 Artifacts From a California Museum&#39;s Storage Facility</title>
       <link>https://www.smithsonianmag.com/smart-news/thieves-steal-more-than-1000-artifacts-from-a-california-museums-storage-facility-180987612/</link>
       <description>
@@ -27,7 +106,7 @@
       <title>Context Engineering: The Foundation for Reliable AI Agents</title>
       <link>https://thenewstack.io/context-engineering-the-foundation-for-reliable-ai-agents/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/6bea1b77-question-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="A bunch of colorful question marks." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/6bea1b77-question.jpg" /><p>Context is king in the agentic world. Pairing a performant reasoning model like Claude, DeepSeek or GPT-5 with the right</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/6bea1b77-question-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="A bunch of colorful question marks." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/6bea1b77-question.jpg" /><p>Context is king in the agentic world. Pairing a performant reasoning model like Claude, DeepSeek or GPT-5 with the right</p>
         <p>The post <a href="https://thenewstack.io/context-engineering-the-foundation-for-reliable-ai-agents/">Context Engineering: The Foundation for Reliable AI Agents</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![A bunch of colorful question marks.](https://cdn.thenewstack.io/media/2025/10/6bea1b77-question-1024x576.jpg)
@@ -12722,289 +12801,6 @@ A venture capital fund is looking for ideas that are out of bounds for tradition
 
 Most corporate laptop fleets consist primarily of PCs. However, there’s always a contingent of users who beg for Macs. Deciding who gets a Mac in your organization involves balancing IT’s need for simplicity, finance’s requirement to keep costs under control, and users’ desire to work with their preferred tools.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242416</guid>
-    </item>    <item>
-      <title>Chinese phishing kit helps scammers who send fake texts impersonate TikTok, Coinbase, others</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/chinese_phishing_kit_fraud/</link>
-      <description>
-        <![CDATA[<h4>Researchers tracking 2,158 domains hosting YYlaiyu phishing pages</h4> <p><strong>Exclusive</strong>  A Chinese-developed phishing kit hosted on thousands of domains and boasting 97 different brands to make criminals&#39; scams look more believable is driving a surge in financial fraud around the globe, according to security researchers.…</p>]]>
-      </description>
-      <source:markdown>#### Researchers tracking 2,158 domains hosting YYlaiyu phishing pages
-
-**Exclusive**  A Chinese-developed phishing kit hosted on thousands of domains and boasting 97 different brands to make criminals&#39; scams look more believable is driving a surge in financial fraud around the globe, according to security researchers.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242429</guid>
-    </item>    <item>
-      <title>A Human Face Was Carved Into This Stone Pillar in Turkey 11,000 Years Ago</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-human-face-was-carved-into-this-stone-pillar-in-turkey-11000-years-ago-180987489/</link>
-      <description>
-        <![CDATA[The T-shaped pillar is the first with a face to be found in the Stone Age archaeological sites of Turkey’s Taş Tepeler]]>
-      </description>
-      <source:markdown>The T-shaped pillar is the first with a face to be found in the Stone Age archaeological sites of Turkey’s Taş Tepeler</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/LyGDttIrPpgTZqs4gtBqa-B9vN0=/420x240/filters:focal(639x429:640x430)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/31/c2/31c2714e-14f2-44db-8059-60e3b879ed43/12000-year-old-human-faced-pillar-unearthed-in-karahantepe-marks-a-new-chapter-in-arc-3208024_2.jpeg" length="" type="" />
-    </item>    <item>
-      <title>Claude Monet&#39;s Beautiful Paintings of Venice Are Headlining an Exhibition for the First Time in More Than a Century</title>
-      <link>https://www.smithsonianmag.com/smart-news/claude-monets-beautiful-paintings-of-venice-are-headlining-an-exhibition-for-the-first-time-in-more-than-a-century-180987500/</link>
-      <description>
-        <![CDATA[The paintings came from the French Impressionist’s time in Italy with his wife, Alice, in 1908]]>
-      </description>
-      <source:markdown>The paintings came from the French Impressionist’s time in Italy with his wife, Alice, in 1908</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/v8MeGybrHmGs7ZbIL53M24uRnM8=/420x240/filters:focal(1000x705:1001x706)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c9/c5/c9c5a6b2-c4d5-4cc7-9156-b0150c3c99db/el23205.jpeg" length="" type="" />
-    </item>    <item>
-      <title>Running FreeBSD using Windows Subsystem for Linux</title>
-      <link>https://www.osnews.com/story/143517/running-freebsd-using-windows-subsystem-for-linux/</link>
-      <description>
-        <![CDATA[What if you are forced to use Windows, but want to use a real operating system instead? You could use WSL2 to use Linux inside Windows, but what if FreeBSD is more your thing? It turns out someone is working on making FreeBSD usable using WSL2. This repository hosts work-in-progress efforts to run FreeBSD inside Windows Subsystem for Linux (WSL2) with minimal to no changes to the FreeBSD base system. The project builds on the open-source components of WSL2 to enable FreeBSD to boot and run seamlessly in a Windows environment. ↫ WSL for FReeBSD GitHub page The project is experimental, and definitely not ready for production use. It&#8217;s also important to note that this project is not part of Microsoft or FreeBSD. At this point in time, FreeBSD boots using WSL2 with basic functionality, and work is currently focused on networking, I/O, and process management.]]>
-      </description>
-      <source:markdown>What if you are forced to use Windows, but want to use a real operating system instead? You could use WSL2 to use Linux inside Windows, but what if FreeBSD is more your thing? It turns out someone is working on making FreeBSD usable using WSL2. This repository hosts work-in-progress efforts to run FreeBSD inside Windows Subsystem for Linux (WSL2) with minimal to no changes to the FreeBSD base system. The project builds on the open-source components of WSL2 to enable FreeBSD to boot and run seamlessly in a Windows environment. ↫ WSL for FReeBSD GitHub page The project is experimental, and definitely not ready for production use. It’s also important to note that this project is not part of Microsoft or FreeBSD. At this point in time, FreeBSD boots using WSL2 with basic functionality, and work is currently focused on networking, I/O, and process management.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=143517</guid>
-    </item>    <item>
-      <title>Fedora’s “AI” policy process highlights rift between IBM/Red Hat and Fedora</title>
-      <link>https://www.osnews.com/story/143515/fedoras-ai-policy-process-highlights-rift-between-ibm-red-hat-and-fedora/</link>
-      <description>
-        <![CDATA[A lot of open source projects are struggling what to do with the &#8220;AI&#8221; bubble, and Fedora is no different. This whole past year, the project&#8217;s been struggling to formulate any official policies on the use of &#8220;AI&#8221;, and LWN.net&#8217;s Joe Brockmeier has just done an amazing job summarising the various positions, opinions, and people influencing this process. His conclusion: There appears to be a growing tension between what Red Hat and IBM would like to see from Fedora versus what its users and community contributors want from the project. Red Hat and IBM have already come down in favor of AI as part of their product strategies, the only real questions are what to develop and offer to the customers or partners. The Fedora community, on the other hand, has quite a few people who feel strongly against AI technologies for various ethical, practical, and social reasons. The results, so far, of turning people loose with generative AI tools on unsuspecting open-source projects has not been universally positive. People join communities to collaborate with other people, not to sift through the output of large language models. It is possible that Red Hat will persuade Fedora to formally endorse a policy of accepting AI-assisted content, but it may be at the expense of users and contributors. ↫ Joe Brockmeier at LWN.net Reading through Brockmeier&#8217;s excellent article, the various forces pulling and pushing on Fedora become quite clear, and the fact we&#8217;ve got IBM/Red Hat in favour of &#8220;AI&#8221;, and Fedora&#8217;s community of developers and users against it, shouldn&#8217;t come as a surprise to anyone. Wherever &#8220;AI&#8221; makes an appearance, it&#8217;s almost exclusively a top-down process with corporate interests pushing &#8220;AI&#8221; hard on a largely indifferent userbase. It seems Fedora is no different. The massive rift between IBM/Red Hat on one side, and the Fedora community on the other is probably best illustrated by a remark from Graham White, technical lead for the Granite AI agents at IBM. One of the earlier policy proposals referenced &#8220;AI&#8221; slop, and White was offended by this, stating: I&#8217;ve been working in the industry and building AI models for a shade over 20 years and never come across &#8220;AI slop&#8221;. This seems derogatory to me and an unnecessary addition to the policy. ↫ Graham White, as quoted by Joe Brockmeier at LWN.net Us regular users are bombarded with &#8220;AI&#8221; slop every day, and I just can&#8217;t understand how disconnected from reality you must be to not only deny it&#8217;s a problem, but to deny its existence entirely, when virtually every single Google query will drop you in &#8220;AI&#8221; muck. If such denial is commonplace within IBM/Red Hat, it&#8217;s really no wonder there&#8217;s such a big rift between them and Fedora. It is wholly unsurprising, then, that Fedora is having such a hard time formulating an &#8220;AI&#8221; policy. The current version of the proposed policy seems to view &#8220;AI&#8221; and its use in or by Fedora mildly positively, which certainly has me, as a Fedora/KDE user, on edge. I don&#8217;t want &#8220;AI&#8221; anywhere near my operating system for a whole variety of reasons, and if the upcoming vote on the new policy ends up in favour of it, I might have to consider moving away from Fedora.]]>
-      </description>
-      <source:markdown>A lot of open source projects are struggling what to do with the “AI” bubble, and Fedora is no different. This whole past year, the project’s been struggling to formulate any official policies on the use of “AI”, and LWN.net’s Joe Brockmeier has just done an amazing job summarising the various positions, opinions, and people influencing this process. His conclusion: There appears to be a growing tension between what Red Hat and IBM would like to see from Fedora versus what its users and community contributors want from the project. Red Hat and IBM have already come down in favor of AI as part of their product strategies, the only real questions are what to develop and offer to the customers or partners. The Fedora community, on the other hand, has quite a few people who feel strongly against AI technologies for various ethical, practical, and social reasons. The results, so far, of turning people loose with generative AI tools on unsuspecting open-source projects has not been universally positive. People join communities to collaborate with other people, not to sift through the output of large language models. It is possible that Red Hat will persuade Fedora to formally endorse a policy of accepting AI-assisted content, but it may be at the expense of users and contributors. ↫ Joe Brockmeier at LWN.net Reading through Brockmeier’s excellent article, the various forces pulling and pushing on Fedora become quite clear, and the fact we’ve got IBM/Red Hat in favour of “AI”, and Fedora’s community of developers and users against it, shouldn’t come as a surprise to anyone. Wherever “AI” makes an appearance, it’s almost exclusively a top-down process with corporate interests pushing “AI” hard on a largely indifferent userbase. It seems Fedora is no different. The massive rift between IBM/Red Hat on one side, and the Fedora community on the other is probably best illustrated by a remark from Graham White, technical lead for the Granite AI agents at IBM. One of the earlier policy proposals referenced “AI” slop, and White was offended by this, stating: I’ve been working in the industry and building AI models for a shade over 20 years and never come across “AI slop”. This seems derogatory to me and an unnecessary addition to the policy. ↫ Graham White, as quoted by Joe Brockmeier at LWN.net Us regular users are bombarded with “AI” slop every day, and I just can’t understand how disconnected from reality you must be to not only deny it’s a problem, but to deny its existence entirely, when virtually every single Google query will drop you in “AI” muck. If such denial is commonplace within IBM/Red Hat, it’s really no wonder there’s such a big rift between them and Fedora. It is wholly unsurprising, then, that Fedora is having such a hard time formulating an “AI” policy. The current version of the proposed policy seems to view “AI” and its use in or by Fedora mildly positively, which certainly has me, as a Fedora/KDE user, on edge. I don’t want “AI” anywhere near my operating system for a whole variety of reasons, and if the upcoming vote on the new policy ends up in favour of it, I might have to consider moving away from Fedora.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=143515</guid>
-    </item>    <item>
-      <title>OpenAI GPT-5: great taste, less filling, now with 30% less bias</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/openai_gpt5_bias/</link>
-      <description>
-        <![CDATA[<h4>AI model maker touts effort to depoliticize its product</h4> <p>OpenAI says GPT-5 has 30 percent less political bias than its prior AI models.…</p>]]>
-      </description>
-      <source:markdown>#### AI model maker touts effort to depoliticize its product
-
-OpenAI says GPT-5 has 30 percent less political bias than its prior AI models.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242426</guid>
-    </item>    <item>
-      <title>Managers are throwing entry-level workers under the bus in race to adopt AI</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/ai_is_displacing_entrylevel_professionals/</link>
-      <description>
-        <![CDATA[<h4>Does it work? Inconclusive. Still, 55% of business leaders say that adopting AI is worth the impact on workers</h4> <p><strong>ai-pocalypse</strong>  Business leaders are racing to jump aboard the AI bandwagon, and a new study from the British Standards Institution suggests young college grads are being hit hardest.…</p>]]>
-      </description>
-      <source:markdown>#### Does it work? Inconclusive. Still, 55% of business leaders say that adopting AI is worth the impact on workers
-
-**ai-pocalypse**  Business leaders are racing to jump aboard the AI bandwagon, and a new study from the British Standards Institution suggests young college grads are being hit hardest.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242425</guid>
-    </item>    <item>
-      <title>Scientists Watch Fungi Evolve in Real Time, Thanks to a Marriage Proposal in a Cheese Cave</title>
-      <link>https://www.smithsonianmag.com/smart-news/scientists-watch-fungi-evolve-in-real-time-thanks-to-a-marriage-proposal-in-a-cheese-cave-180987491/</link>
-      <description>
-        <![CDATA[A new study pinpoints a disruption in a gene that made a beloved blue cheese's rind go from green to white]]>
-      </description>
-      <source:markdown>A new study pinpoints a disruption in a gene that made a beloved blue cheese&#39;s rind go from green to white</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/7EWDkJCJSnjwxxihKrNKnVOzsF4=/420x240/filters:focal(350x230:351x231)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/96/31/96316ba0-ea3d-46a3-917a-ec28d7df2df4/low-res_photos_of_cheese_wheels_in_2016_on_left_and_in_2022_on_right.jpg" length="" type="" />
-    </item>    <item>
-      <title>Ransomware crims that exploited SharePoint 0-days add Velociraptor to their arsenal</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/ransomware_velociraptor/</link>
-      <description>
-        <![CDATA[<h4>And they’re likely still abusing the same SharePoint flaws for initial access</h4> <p>The ransomware gang caught exploiting Microsoft SharePoint zero-days over the summer has added a new tool to its arsenal: Velociraptor, an open-source digital forensics and incident response app not previously tied to ransomware incidents.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### And they’re likely still abusing the same SharePoint flaws for initial access
-
-The ransomware gang caught exploiting Microsoft SharePoint zero-days over the summer has added a new tool to its arsenal: Velociraptor, an open-source digital forensics and incident response app not previously tied to ransomware incidents.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242424</guid>
-    </item>    <item>
-      <title>Kyndryl sued for firing non-white workers, disabled vet</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/kyndryl_sued_for_firing_nonwhite/</link>
-      <description>
-        <![CDATA[<h4>Security team cuts allegedly targeted workers based on race, national origin, age, and whistleblowing</h4> <p>Five former members of Kyndryl&#39;s internal IT security team have sued the IBM spinoff alleging that they were terminated as part of a campaign targeting employees based on their race, national origin, age, disability, and whistleblowing activities.…</p>]]>
-      </description>
-      <source:markdown>#### Security team cuts allegedly targeted workers based on race, national origin, age, and whistleblowing
-
-Five former members of Kyndryl&#39;s internal IT security team have sued the IBM spinoff alleging that they were terminated as part of a campaign targeting employees based on their race, national origin, age, disability, and whistleblowing activities.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242405</guid>
-    </item>    <item>
-      <title>María Corina Machado, Venezuela&#39;s &#39;Iron Lady,&#39; Wins Nobel Peace Prize</title>
-      <link>https://www.smithsonianmag.com/smart-news/maria-corina-machado-venezuelas-iron-lady-wins-nobel-peace-prize-180987499/</link>
-      <description>
-        <![CDATA[Machado, who leads the Vente Venezuela opposition party against President Nicolás Maduro, was lauded for her "tireless work promoting democratic rights for the people of Venezuela"]]>
-      </description>
-      <source:markdown>Machado, who leads the Vente Venezuela opposition party against President Nicolás Maduro, was lauded for her &#34;tireless work promoting democratic rights for the people of Venezuela&#34;</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/hE7GgdD2YNcHRe1qhLO3s97eO7E=/420x240/filters:focal(2687x1792:2688x1793)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/53/29/5329fd73-df63-4483-93e7-76a5613be4d3/gettyimages-2193176136.jpg" length="" type="" />
-    </item>    <item>
-      <title>Senate says Nvidia chips are for America first as China tightens import controls</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/nvidia_chips_us_china/</link>
-      <description>
-        <![CDATA[<h4>Xi to the left of me, Trump is to the right; Huang I am, stuck in the middle with GPUs</h4> <p>The US Senate has passed a provision that would give US firms first dibs on advanced chips, just as China tightens customs checks on Nvidia GPUs, leaving the company caught between competing policies across the Pacific.…</p>]]>
-      </description>
-      <source:markdown>#### Xi to the left of me, Trump is to the right; Huang I am, stuck in the middle with GPUs
-
-The US Senate has passed a provision that would give US firms first dibs on advanced chips, just as China tightens customs checks on Nvidia GPUs, leaving the company caught between competing policies across the Pacific.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242422</guid>
-    </item>    <item>
-      <title>Zero-day in file-sharing software leads to RCE, and attacks are ongoing</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/zeroday_in_filesharing_software_leads/</link>
-      <description>
-        <![CDATA[<h4>Usually we’d say patch up… not this time</h4> <p>Security research firm Huntress is warning all users of Gladinet&#39;s CentreStack and Triofox file-sharing tools to urgently apply an available mitigation, as a zero-day is being actively exploited and there&#39;s no patch available.…</p>]]>
-      </description>
-      <source:markdown>#### Usually we’d say patch up… not this time
-
-Security research firm Huntress is warning all users of Gladinet&#39;s CentreStack and Triofox file-sharing tools to urgently apply an available mitigation, as a zero-day is being actively exploited and there&#39;s no patch available.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242419</guid>
-    </item>    <item>
-      <title>Microsoft lets bosses spot teams that are dodging Copilot</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/microsoft_copilot_viva_insights/</link>
-      <description>
-        <![CDATA[<h4>Viva Insights turns AI guzzling into a leaderboard</h4> <p>Microsoft is adding Copilot adoption benchmarks to Viva Insights, a tool that lets managers monitor teams to spot those that are gulping down the AI Kool-Aid fastest.…</p>]]>
-      </description>
-      <source:markdown>#### Viva Insights turns AI guzzling into a leaderboard
-
-Microsoft is adding Copilot adoption benchmarks to Viva Insights, a tool that lets managers monitor teams to spot those that are gulping down the AI Kool-Aid fastest.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242418</guid>
-    </item>    <item>
-      <title>Scientists Converted a Kidney’s Blood Type, Then Implanted It Into a Brain-Dead Patient for the First Time</title>
-      <link>https://www.smithsonianmag.com/smart-news/scientists-converted-kidney-blood-type-implanted-into-brain-dead-patient-first-time-180987483/</link>
-      <description>
-        <![CDATA[This area of research is still in the early stages, but it could someday help reduce wait times for patients needing kidney transplants]]>
-      </description>
-      <source:markdown>This area of research is still in the early stages, but it could someday help reduce wait times for patients needing kidney transplants</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/hyIVP-u6W7-ALaczvr0b4LrTvhA=/420x240/filters:focal(1249x940:1250x941)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/bd/07/bd07e280-8447-45cb-9a15-2c1a5981069c/figure-4-hmp-eco45.jpg" length="" type="" />
-    </item>    <item>
-      <title>Genes Have Harnessed Physics to Help Grow Living Things</title>
-      <link>https://www.quantamagazine.org/genes-have-harnessed-physics-to-help-grow-living-things-20251010/</link>
-      <description>
-        <![CDATA[The same pulling force that causes “tears” in a glass of wine also shapes embryos. It’s another example of how genes exploit mechanical forces for growth and development.            <p>The post <a href="https://www.quantamagazine.org/genes-have-harnessed-physics-to-help-grow-living-things-20251010/" target="_blank">Genes Have Harnessed Physics to Help Grow Living Things</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>The same pulling force that causes “tears” in a glass of wine also shapes embryos. It’s another example of how genes exploit mechanical forces for growth and development.
-
-The post [Genes Have Harnessed Physics to Help Grow Living Things](https://www.quantamagazine.org/genes-have-harnessed-physics-to-help-grow-living-things-20251010/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=155559</guid>
-    </item>    <item>
-      <title>Pro-Russia hacktivist group dies of cringe after falling into researchers&#39; trap</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/russia_hacktivists_honeytrap/</link>
-      <description>
-        <![CDATA[<h4>Forescout&#39;s phony water plant fooled TwoNet into claiming a fake cyber victory – then it quietly shut up shop</h4> <p>Security researchers say they duped pro-Russia cybercriminals into targeting a fake critical infrastructure organization, which the crew later claimed - via their Telegram group - to be a real-world attack.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Forescout&#39;s phony water plant fooled TwoNet into claiming a fake cyber victory – then it quietly shut up shop
-
-Security researchers say they duped pro-Russia cybercriminals into targeting a fake critical infrastructure organization, which the crew later claimed - via their Telegram group - to be a real-world attack.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242417</guid>
-    </item>    <item>
-      <title>Creative Hobbies Like Tango Dancing or Playing Musical Instruments May Help Keep Your Brain Young, Study Finds</title>
-      <link>https://www.smithsonianmag.com/smart-news/creative-hobbies-could-help-keep-your-brain-young-180987476/</link>
-      <description>
-        <![CDATA[Scientists discovered that talented experts had "younger" brains than those of their less experienced counterparts, and even those who only dabbled in creativity reaped benefits]]>
-      </description>
-      <source:markdown>Scientists discovered that talented experts had &#34;younger&#34; brains than those of their less experienced counterparts, and even those who only dabbled in creativity reaped benefits</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/KBXrZljVrwx_CXuI2CAmS8_tfQI=/420x240/filters:focal(2500x1667:2501x1668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/32/e5/32e5465a-3b07-41f8-ba4b-82ddb98c495b/pexels-cristian-rojas-8281157.jpg" length="" type="" />
-    </item>    <item>
-      <title>Climate goals go up in smoke as US datacenters turn to coal</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/datacenter_coal_power/</link>
-      <description>
-        <![CDATA[<h4>High gas prices and surging AI demand send operators back to the dirtiest fuel in the stack</h4> <p>US datacenters are experiencing a significant shift toward coal-powered energy due to elevated natural gas prices and rapidly growing electricity demand.…</p>]]>
-      </description>
-      <source:markdown>#### High gas prices and surging AI demand send operators back to the dirtiest fuel in the stack
-
-US datacenters are experiencing a significant shift toward coal-powered energy due to elevated natural gas prices and rapidly growing electricity demand.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242413</guid>
-    </item>    <item>
-      <title>Microsoft warns of &#39;payroll pirate&#39; crew looting US university salaries</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/microsoft_payroll_pirate/</link>
-      <description>
-        <![CDATA[<h4>Crooks phish campus staff, slip into HR systems, and quietly reroute paychecks</h4> <p>Microsoft&#39;s Threat Intelligence team has sounded the alarm over a new financially-motivated cybercrime spree that is raiding US university payroll systems.…</p>]]>
-      </description>
-      <source:markdown>#### Crooks phish campus staff, slip into HR systems, and quietly reroute paychecks
-
-Microsoft&#39;s Threat Intelligence team has sounded the alarm over a new financially-motivated cybercrime spree that is raiding US university payroll systems.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242415</guid>
-    </item>    <item>
-      <title>50 years in deep space, and Voyager still can&#39;t escape budget gravity</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/nasa_voyagers_budget/</link>
-      <description>
-        <![CDATA[<h4>Probes face 26% funding cut as NASA grapples with shutdown chaos</h4> <p>NASA&#39;s Voyager project could be facing a 26 percent budget cut while the plug is pulled on other programs, according to insiders familiar with the agency&#39;s Jet Propulsion Laboratory.…</p>]]>
-      </description>
-      <source:markdown>#### Probes face 26% funding cut as NASA grapples with shutdown chaos
-
-NASA&#39;s Voyager project could be facing a 26 percent budget cut while the plug is pulled on other programs, according to insiders familiar with the agency&#39;s Jet Propulsion Laboratory.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242409</guid>
-    </item>    <item>
-      <title>Microsoft 364 trips over its own network settings in North America</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/microsoft_365_na_outage/</link>
-      <description>
-        <![CDATA[<h4>Outage blamed on misconfigured infrastructure as users report hour-long disruption</h4> <p>Microsoft 365 services toppled over in North America last night due to an infrastructure misconfiguration.…</p>]]>
-      </description>
-      <source:markdown>#### Outage blamed on misconfigured infrastructure as users report hour-long disruption
-
-Microsoft 365 services toppled over in North America last night due to an infrastructure misconfiguration.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242412</guid>
-    </item>    <item>
-      <title>UK slaps &#39;strategic market status&#39; on Google, unlocking power to pry open search</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/cma_google_strategic_status/</link>
-      <description>
-        <![CDATA[<h4>Competition watchdog can now meddle in how the tech giant runs the biggest wing of its organization</h4> <p>The UK&#39;s competition watchdog has officially slapped Google with &#34;strategic market status,&#34; a new legal label that gives the regulator far-reaching powers to rein in how the search giant runs its empire.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Competition watchdog can now meddle in how the tech giant runs the biggest wing of its organization
-
-The UK&#39;s competition watchdog has officially slapped Google with &#34;strategic market status,&#34; a new legal label that gives the regulator far-reaching powers to rein in how the search giant runs its empire.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242414</guid>
-    </item>    <item>
-      <title>Former UK prime minister Sunak becomes human Clippy for Microsoft, Anthropic</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/former_uk_prime_minister_rishi/</link>
-      <description>
-        <![CDATA[<h4>Conservative MP told he must not lobby for corporations</h4> <p>Rishi Sunak is ready to kick-start his career with a couple of openings in the tech industry, a year after the end of his internship as the prime minister of the world&#39;s sixth-largest economy.…</p>]]>
-      </description>
-      <source:markdown>#### Conservative MP told he must not lobby for corporations
-
-Rishi Sunak is ready to kick-start his career with a couple of openings in the tech industry, a year after the end of his internship as the prime minister of the world&#39;s sixth-largest economy.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242410</guid>
-    </item>    <item>
-      <title>Cops nuke BreachForums (again) amid cybercrime supergroup extortion blitz</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/cops_seize_breachforums/</link>
-      <description>
-        <![CDATA[<h4>US and French fuzz pull the plug on Scattered Lapsus$ Hunters&#39; latest leak shop targeting Salesforce</h4> <p>US authorities have seized the latest incarnation of BreachForums, the cybercriminal bazaar recently reborn under the stewardship of the so-called <a target="_blank" href="https://www.theregister.com/2025/08/12/scattered_spidershinyhunterslapsus_cybercrime_collab/">Scattered Lapsus$ Hunters</a>, with help from French cyber cops and the Paris prosecutor&#39;s office.…</p>]]>
-      </description>
-      <source:markdown>#### US and French fuzz pull the plug on Scattered Lapsus$ Hunters&#39; latest leak shop targeting Salesforce
-
-US authorities have seized the latest incarnation of BreachForums, the cybercriminal bazaar recently reborn under the stewardship of the so-called [Scattered Lapsus$ Hunters](https://www.theregister.com/2025/08/12/scattered_spidershinyhunterslapsus_cybercrime_collab/), with help from French cyber cops and the Paris prosecutor&#39;s office.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242408</guid>
-    </item>    <item>
-      <title>UK techies&#39; union warns members after breach exposes sensitive personal details</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/prospect_union_breach/</link>
-      <description>
-        <![CDATA[<h4>Prospect apologizes for cyber gaffe affecting up to 160K members</h4> <p>UK trade union Prospect is notifying members of a breach that involved data such as sexual orientation and disabilities.…</p>]]>
-      </description>
-      <source:markdown>#### Prospect apologizes for cyber gaffe affecting up to 160K members
-
-UK trade union Prospect is notifying members of a breach that involved data such as sexual orientation and disabilities.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242407</guid>
-    </item>    <item>
-      <title>Microsoft hypes PCs with NPUs, still can&#39;t offer a good reason to buy one</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/microsoft_npu_windows_opinion/</link>
-      <description>
-        <![CDATA[<h4>AI tech not on the hardware compatibility list for now. But future Windows will need it</h4> <p><strong>Comment</strong>  Microsoft has talked up the role played by neural processing units (NPUs) in making Windows more &#34;intelligent,&#34; even though the silicon is not currently on the hardware requirements list.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### AI tech not on the hardware compatibility list for now. But future Windows will need it
-
-**Comment**  Microsoft has talked up the role played by neural processing units (NPUs) in making Windows more &#34;intelligent,&#34; even though the silicon is not currently on the hardware requirements list.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242298</guid>
-    </item>    <item>
-      <title>Why The Tropics Have A Weather Forecasting Problem</title>
-      <link>https://www.npr.org/2025/10/10/nx-s1-5570121/weather-island-science-forecast-storm</link>
-      <description>
-        <![CDATA[Weather in the tropics is decidedly different than it is in the middle latitudes. It turns out, so are the weather <em>systems </em>– the factors that create things like the daily temperature and humidity! Historically, most weather forecasting models have been based on data from high-income countries in the northern hemisphere. But different factors drive weather and climate near the equator – meaning that these weather forecast models are much less accurate at predicting weather in the tropics. This has implications for storm readiness, flooding preparedness and more. <br/><br/>Atmospheric scientist <a href="https://www.macfound.org/videos/2025-macarthur-fellow-adames-corraliza"target="_blank"   >Ángel F. Adames-Corraliza</a> is aiming to change that. His research focuses on how water vapor – humidity – plays a key role in tropical weather systems. It’s earned him a spot as one of this year’s Macarthur Fellows. <br/><br/><em>Interested in more science about how weather happens? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Weather in the tropics is decidedly different than it is in the middle latitudes. It turns out, so are the weather _systems_– the factors that create things like the daily temperature and humidity! Historically, most weather forecasting models have been based on data from high-income countries in the northern hemisphere. But different factors drive weather and climate near the equator – meaning that these weather forecast models are much less accurate at predicting weather in the tropics. This has implications for storm readiness, flooding preparedness and more.
-
-Atmospheric scientist [Ángel F. Adames-Corraliza](https://www.macfound.org/videos/2025-macarthur-fellow-adames-corraliza) is aiming to change that. His research focuses on how water vapor – humidity – plays a key role in tropical weather systems. It’s earned him a spot as one of this year’s Macarthur Fellows.
-
-_Interested in more science about how weather happens? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR6759212737.mp3?t=podcast&e=nx-s1-5570121&p=510351&d=847&size=13568671" length="13568671" type="audio/mpeg" />
-      <guid>cid://f1ab8233-58e6-4ddc-b9c1-99c3c6e363b8</guid>
-    </item>    <item>
-      <title>Client defended engineer after oil baron-turned tech support entrepreneur lied about dodgy dealings</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/10/on_call/</link>
-      <description>
-        <![CDATA[<h4>Reputations earned over years of service can work wonders</h4> <p><strong>On Call</strong>  Welcome once again to On Call, <em>The Register</em>&#39;s weekly reader-contributed column that shares your stories from the frontlines of tech support.…</p>]]>
-      </description>
-      <source:markdown>#### Reputations earned over years of service can work wonders
-
-**On Call**  Welcome once again to On Call, _The Register_&#39;s weekly reader-contributed column that shares your stories from the frontlines of tech support.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242171</guid>
     </item>
   </channel>
 </rss>
