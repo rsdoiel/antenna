@@ -4,10 +4,26 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>01 Nov 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>01 Nov 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Ireland v New Zealand - Updates</title>
+      <link>https://www.rte.ie/sport/rugby/2025/1101/1541668-ireland-v-new-zealand-updates/</link>
+      <description>
+        <![CDATA[Follow our minute by minute coverage as Ireland take on New Zealand at Soldier Field in Chicago.]]>
+      </description>
+      <source:markdown>Follow our minute by minute coverage as Ireland take on New Zealand at Soldier Field in Chicago.</source:markdown>
+      <guid>cid://https://www.rte.ie/sport/rugby/2025/1101/1541668-ireland-v-new-zealand-updates/</guid>
+    </item>    <item>
+      <title>Displaced Gazans find shelter in Yasser Arafat&#39;s villa</title>
+      <link>https://www.rte.ie/news/world/2025/1101/1541665-gaza-arafat/</link>
+      <description>
+        <![CDATA[The Gazan residence of the late Palestinian leader Yasser Arafat stands in ruins, like most other buildings in the devastated territory, but the remains of the once-lavish villa now also host several displaced families.]]>
+      </description>
+      <source:markdown>The Gazan residence of the late Palestinian leader Yasser Arafat stands in ruins, like most other buildings in the devastated territory, but the remains of the once-lavish villa now also host several displaced families.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2025/1101/1541665-gaza-arafat/</guid>
+    </item>    <item>
       <title>Ukraine sends special forces to embattled eastern city</title>
       <link>https://www.rte.ie/news/ukraine/2025/1101/1541664-ukraine-russia/</link>
       <description>
@@ -15,6 +31,16 @@
       </description>
       <source:markdown>Ukraine has deployed special forces to the embattled eastern city of Pokrovsk, where Russia has been mounting an intense assault, Kyiv&#39;s top military commander said.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ukraine/2025/1101/1541664-ukraine-russia/</guid>
+    </item>    <item>
+      <title>Trumps threatens Nigeria with military action, aid cuts over alleged anti-Christian persecution</title>
+      <link>https://www.cbc.ca/news/world/trump-nigeria-christian-persecution-claim-military-aid-9.6963332?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/c7c936f9-d4bf-4401-a56a-93866b530e9d,1762032840109/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C9100%2C5118%29%3BResize%3D%28620%29' alt='A person waves before entering an airplane.' width='620' height='349' title='President Donald Trump waves from the stairs of Air Force One as he boards upon his arrival at Joint Base Andrews, Md., Friday, Oct. 31, 2025, en route to his Mar-a-Lago estate in Palm Beach, Fla. (AP Photo/Luis M. Alvarez)'/><p>The warning of possible military action came after Nigeria's President Bola Ahmed Tinubu earlier on Saturday pushed back on Trump announcing that he was designating the West African country 'a country of particular concern' for allegedly failing to rein in the persecution of Christians.</p>]]>
+      </description>
+      <source:markdown>![A person waves before entering an airplane.](https://i.cbc.ca/ais/c7c936f9-d4bf-4401-a56a-93866b530e9d,1762032840109/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C9100%2C5118%29%3BResize%3D%28620%29)
+
+The warning of possible military action came after Nigeria&#39;s President Bola Ahmed Tinubu earlier on Saturday pushed back on Trump announcing that he was designating the West African country &#39;a country of particular concern&#39; for allegedly failing to rein in the persecution of Christians.</source:markdown>
+      <guid>cid://9.6963332</guid>
     </item>    <item>
       <title>Yates exits podcast after not sharing FF election work</title>
       <link>https://www.rte.ie/news/ireland/2025/1101/1541659-cooper-yates/</link>
@@ -24,12 +50,12 @@
       <source:markdown>Broadcaster Ivan Yates will no longer present a political podcast with Matt Cooper after it emerged that Mr Yates had not disclosed his work advising Fianna Fáil during the Presidential Election.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1101/1541659-cooper-yates/</guid>
     </item>    <item>
-      <title>Pedestrian hit by bus on Naas Road in Co Kildare</title>
+      <title>Man in 30s dies after being hit by bus in Co Kildare</title>
       <link>https://www.rte.ie/news/leinster/2025/1101/1541661-naas-crash/</link>
       <description>
-        <![CDATA[A pedestrian has been hit by a bus in a road traffic crash outside Naas in Co Kildare.]]>
+        <![CDATA[A man in his 30s has died after being hit by a bus in Co Kildare.]]>
       </description>
-      <source:markdown>A pedestrian has been hit by a bus in a road traffic crash outside Naas in Co Kildare.</source:markdown>
+      <source:markdown>A man in his 30s has died after being hit by a bus in Co Kildare.</source:markdown>
       <guid>cid://https://www.rte.ie/news/leinster/2025/1101/1541661-naas-crash/</guid>
     </item>    <item>
       <title>Watch: Passenger train crashes into truck in Netherlands</title>
@@ -40,12 +66,22 @@
       <source:markdown>Security camera footage released today shows the moment a passenger train crashed into a truck at a level crossing in the Netherlands.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2025/1101/1541660-truck-train-netherlands/</guid>
     </item>    <item>
-      <title>SSE Airtricity Men&#39;s Premier Division final day updates</title>
+      <title>Israel claims remains returned by Hamas are not of hostages</title>
+      <link>https://www.cbc.ca/news/world/israel-hamas-gaza-hostages-bodies-remains-9.6963315?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/f6739476-1cc2-4103-82ba-b5f00eaf79e6,1762028619412/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C138%2C1923%2C1081%29%3BResize%3D%28620%29' alt='People carry on a stretcher a body covered in a blanked. ' width='620' height='349' title='Hamas militants carry a dead body during a search for deceased hostages seized by Hamas during the October 7, 2023, attack on Israel, amid a ceasefire between Israel and Hamas, in Khan Younis, southern Gaza Strip, October 28, 2025. REUTERS/Ramadan Abed     TPX IMAGES OF THE DAY'/><p>The remains of three people Hamas handed over to the Red Cross in Gaza do not belong to any hostages, Israel said Saturday, in the latest setback to the U.S.-brokered ceasefire in the Israel-Hamas war.</p>]]>
+      </description>
+      <source:markdown>![People carry on a stretcher a body covered in a blanked. ](https://i.cbc.ca/ais/f6739476-1cc2-4103-82ba-b5f00eaf79e6,1762028619412/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C138%2C1923%2C1081%29%3BResize%3D%28620%29)
+
+The remains of three people Hamas handed over to the Red Cross in Gaza do not belong to any hostages, Israel said Saturday, in the latest setback to the U.S.-brokered ceasefire in the Israel-Hamas war.</source:markdown>
+      <guid>cid://9.6963315</guid>
+    </item>    <item>
+      <title>SSE Airtricity League final day results and reports</title>
       <link>https://www.rte.ie/sport/soccer/2025/1101/1541621-airtricity-league-premier-division-final-day-updates/</link>
       <description>
-        <![CDATA[Live updates from the final round of games in the 2025 SSE Airticity League Premier Division, with European places up for grabs and a battle to avoid a relegation playoff at the other end.]]>
+        <![CDATA[Bohemians finish fourth and Waterford are facing a relegation play-off after the final round of games in the 2025 SSE Airticity League Premier Division.]]>
       </description>
-      <source:markdown>Live updates from the final round of games in the 2025 SSE Airticity League Premier Division, with European places up for grabs and a battle to avoid a relegation playoff at the other end.</source:markdown>
+      <source:markdown>Bohemians finish fourth and Waterford are facing a relegation play-off after the final round of games in the 2025 SSE Airticity League Premier Division.</source:markdown>
       <guid>cid://https://www.rte.ie/sport/soccer/2025/1101/1541621-airtricity-league-premier-division-final-day-updates/</guid>
     </item>    <item>
       <title>Sudan: Atrocities in El Fasher show ‘total disregard for human life&#39;</title>
@@ -68,12 +104,22 @@
       <source:markdown>A Status Yellow rain warning has been issued for counties Clare, Kerry, Galway, and Mayo from tomorrow.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1101/1541647-status-yellow-rain/</guid>
     </item>    <item>
-      <title>Woman charged in connection with Louvre theft</title>
+      <title>2 more suspects charged over Louvre jewels heist</title>
+      <link>https://www.cbc.ca/news/world/louvre-jewels-heist-suspects-charged-9.6963239?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/3ea7a0b0-99c5-4692-976e-4f8537e7c417,1760913951308/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='People in uniform stand outside a museum building.' width='620' height='349' title='Police officers stand near the pyramid of the Louvre museum after reports of a robbery, in Paris, France, October 19, 2025. '/><p>The Paris prosecutor said Saturday two new suspects were handed preliminary charges for their alleged involvement in the crown jewels heist at the Louvre museum.</p>]]>
+      </description>
+      <source:markdown>![People in uniform stand outside a museum building.](https://i.cbc.ca/ais/3ea7a0b0-99c5-4692-976e-4f8537e7c417,1760913951308/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29)
+
+The Paris prosecutor said Saturday two new suspects were handed preliminary charges for their alleged involvement in the crown jewels heist at the Louvre museum.</source:markdown>
+      <guid>cid://9.6963239</guid>
+    </item>    <item>
+      <title>Two more suspects charged over Louvre heist</title>
       <link>https://www.rte.ie/news/world/2025/1101/1541646-louvre-theft/</link>
       <description>
-        <![CDATA[A 38-year-old woman who was arrested this week along with four other people over the unprecedented jewel theft at the Louvre last month has appeared before a magistrate who will decide whether to detain her.]]>
+        <![CDATA[Two more suspects, a man and a woman arrested this week over the jewel heist at the Louvre, have been charged and remanded in custody, prosecutors said.]]>
       </description>
-      <source:markdown>A 38-year-old woman who was arrested this week along with four other people over the unprecedented jewel theft at the Louvre last month has appeared before a magistrate who will decide whether to detain her.</source:markdown>
+      <source:markdown>Two more suspects, a man and a woman arrested this week over the jewel heist at the Louvre, have been charged and remanded in custody, prosecutors said.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2025/1101/1541646-louvre-theft/</guid>
     </item>    <item>
       <title>Pope bestows significant honour on St John Henry Newman</title>
@@ -92,6 +138,15 @@
       <source:markdown>After two years of war that kept them out of classrooms, Gaza’s children are finally returning to the classroom, surrounded by devastation – but determined to learn.</source:markdown>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/29-10-2025-UNNews-Gaza-Education-Classroom.jpg/image560x340cropped.jpg" length="45776" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/11/1166232</guid>
+    </item>    <item>
+      <title>Defending truth-tellers, from war zones to the digital frontline</title>
+      <link>https://news.un.org/feed/view/en/story/2025/11/1166244</link>
+      <description>
+        <![CDATA[Journalists risk their lives every day to bring facts to light, yet most attacks against them go unpunished.]]>
+      </description>
+      <source:markdown>Journalists risk their lives every day to bring facts to light, yet most attacks against them go unpunished.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/12-08-2025_UNNews_Gaza_Killed_Journalists_02.jpg/image560x340cropped.jpg" length="37797" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/11/1166244</guid>
     </item>    <item>
       <title>Pope: In a wartorn world, may we become builders of fraternity</title>
       <link>https://www.vaticannews.va/en/pope/news/2025-11/pope-in-a-wartorn-world-may-be-become-builders-of-fraternity.html</link>
@@ -148,12 +203,12 @@ Tanzanian President Samia Suluhu Hassan was declared on Saturday the landslide w
 [Read all](https://www.vaticannews.va/en/world/news/2025-11/women-diplomacy-peace-negotiations-clara-kessous.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/world/news/2025-11/women-diplomacy-peace-negotiations-clara-kessous.html</guid>
     </item>    <item>
-      <title>Egypt set to open grand museum designed by Irish firm</title>
+      <title>Egypt opens grand museum designed by Irish firm</title>
       <link>https://www.rte.ie/news/world/2025/1101/1541618-egypt-museum/</link>
       <description>
-        <![CDATA[After years of delays, Cairo is finally set to open the Grand Egyptian Museum - a long-awaited, billion-dollar showcase of pharaonic grandeur that Egypt hopes will help revive tourism and boost its troubled economy.]]>
+        <![CDATA[After years of delays, Cairo has opened the Grand Egyptian Museum - a long-awaited, billion-dollar showcase of pharaonic grandeur that Egypt hopes will help revive tourism and boost its troubled economy.]]>
       </description>
-      <source:markdown>After years of delays, Cairo is finally set to open the Grand Egyptian Museum - a long-awaited, billion-dollar showcase of pharaonic grandeur that Egypt hopes will help revive tourism and boost its troubled economy.</source:markdown>
+      <source:markdown>After years of delays, Cairo has opened the Grand Egyptian Museum - a long-awaited, billion-dollar showcase of pharaonic grandeur that Egypt hopes will help revive tourism and boost its troubled economy.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2025/1101/1541618-egypt-museum/</guid>
     </item>    <item>
       <title>US strikes on boats stoke fears of regional conflict</title>
@@ -295,6 +350,14 @@ Rohan Thompson was keeping a close eye on Melissa from St. Catharines, Ont., whe
       </description>
       <source:markdown>The Minister for Justice has warned of &#34;serious consequences&#34; after a fire at a building accommodating people applying for International Protection.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1101/1541586-fire-louth/</guid>
+    </item>    <item>
+      <title>Gardaí confirm IPAS centre fire was started deliberately</title>
+      <link>https://www.rte.ie/news/2025/1101/1541586-fire-louth-ipas/</link>
+      <description>
+        <![CDATA[Gardaí have confirmed that a fire at a building accommodating people applying for International Protection in Drogheda was started deliberately.]]>
+      </description>
+      <source:markdown>Gardaí have confirmed that a fire at a building accommodating people applying for International Protection in Drogheda was started deliberately.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1101/1541586-fire-louth-ipas/</guid>
     </item>    <item>
       <title>Dublin fire crews respond to over 600 calls</title>
       <link>https://www.rte.ie/news/2025/1031/1541579-halloween-fire-brigade/</link>
@@ -3815,6 +3878,14 @@ President Donald Trump has punished most U.S. trading partners with tariffs and 
 Thailand&#39;s Queen Mother Sirikit, who brought glamour and elegance to a postwar revival in the country&#39;s monarchy and who, in later years, would occasionally wade into politics, has died aged 93, the Thai Royal Household bureau said on Saturday.</source:markdown>
       <guid>cid://9.6953340</guid>
     </item>    <item>
+      <title>News Wrap: Canadian tariff ad pulled after Trump cut off trade negotiations</title>
+      <description>
+        <![CDATA[In our news wrap Friday, President Trump says he's ending trade negotiations with Canada because of a television ad making the case against U.S. tariffs, Secretary of State Rubio expressed confidence that the ceasefire deal between Israel and Hamas would hold and the Pentagon said it accepted a $130 million donation from a private donor to help pay the military during the government shutdown. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy]]>
+      </description>
+      <source:markdown>In our news wrap Friday, President Trump says he&#39;s ending trade negotiations with Canada because of a television ad making the case against U.S. tariffs, Secretary of State Rubio expressed confidence that the ceasefire deal between Israel and Hamas would hold and the Pentagon said it accepted a $130 million donation from a private donor to help pay the military during the government shutdown. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy</source:markdown>
+      <enclosure url="https://flex2.acast.com/s/pbs-newshour-world/u/d3i6fh83elv35t.cloudfront.net/static/2025/10/newswrap-22.mp3" length="4938300" type="audio/mpeg" />
+      <guid>cid://https://www.pbs.org/newshour/show/news-wrap-canadian-tariff-ad-pulled-after-trump-cut-off-trade-negotiations</guid>
+    </item>    <item>
       <title>Inuit leader replaced amid allegations of abuse</title>
       <link>https://www.cbc.ca/news/canada/manitoba/inuit-leader-allegations-9.6953213?cmp=rss</link>
       <description>
@@ -5047,14 +5118,6 @@ Moon Time Connections, a national Indigenous-led menstrual equity organization, 
 
 The U.S. military on Wednesday launched its ninth strike against an alleged drug-carrying vessel, killing three people in the waters of the eastern Pacific Ocean, U.S. Defence Secretary Pete Hegseth said on social media Wednesday.</source:markdown>
       <guid>cid://9.6949687</guid>
-    </item>    <item>
-      <title>News Wrap: White House says entirety of East Wing undergoing renovation for ballroom</title>
-      <description>
-        <![CDATA[In our news wrap Wednesday, a White House official confirms that the entirety of the East Wing is undergoing "modernization and renovation" for Trump's ballroom project, the U.S. military carried out a strike on what it called a drug-smuggling vessel in the Pacific Ocean and the Louvre reopened for the first time since a heist that saw thieves make off with jewels. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy]]>
-      </description>
-      <source:markdown>In our news wrap Wednesday, a White House official confirms that the entirety of the East Wing is undergoing &#34;modernization and renovation&#34; for Trump&#39;s ballroom project, the U.S. military carried out a strike on what it called a drug-smuggling vessel in the Pacific Ocean and the Louvre reopened for the first time since a heist that saw thieves make off with jewels. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy</source:markdown>
-      <enclosure url="https://flex2.acast.com/s/pbs-newshour-world/u/d3i6fh83elv35t.cloudfront.net/static/2025/10/newswrap-20.mp3" length="4206899" type="audio/mpeg" />
-      <guid>cid://https://www.pbs.org/newshour/show/news-wrap-white-house-says-entirety-of-east-wing-undergoing-renovation-for-ballroom</guid>
     </item>    <item>
       <title>Yellow rain warning for East Galway, Roscommon, Longford</title>
       <link>https://www.rte.ie/news/2025/1022/1540079-yellow-rain-warning/</link>

@@ -7,10 +7,45 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>01 Nov 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>01 Nov 25 15:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>&#39;I Love LA&#39; is a self-aware comedy for the chronically online</title>
+      <link>https://laist.com/news/i-love-la-is-a-self-aware-comedy-for-the-chronically-online</link>
+      <description>
+        <![CDATA[The new HBO show is the culmination of Rachel Sennott's career thus far.]]>
+      </description>
+      <source:markdown>The new HBO show is the culmination of Rachel Sennott&#39;s career thus far.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-40a2-d84d-affa-ceea988c0000</guid>
+    </item>    <item>
+      <title>With the outlook for SNAP benefits uncertain, food banks are warning of a crisis</title>
+      <link>https://laist.com/news/with-the-outlook-for-snap-benefits-uncertain-food-banks-are-warning-of-a-crisis</link>
+      <description>
+        <![CDATA[The impasse over funding the government means that the nearly 1 in 8 U.S. residents who rely on SNAP to buy groceries may be facing at least a temporary lapse in benefits.]]>
+      </description>
+      <source:markdown>The impasse over funding the government means that the nearly 1 in 8 U.S. residents who rely on SNAP to buy groceries may be facing at least a temporary lapse in benefits.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-407c-d79e-adfb-5dfe488e0000</guid>
+    </item>    <item>
+      <title>Kicking Off the Holidays with Light Up Main Street!</title>
+      <link>https://santaclarita.gov/blog/2025/11/01/kicking-off-the-holidays-with-light-up-main-street/</link>
+      <description>
+        <![CDATA[<p>By City Manager Ken Striplin Each year, one of Santa Clarita’s most treasured events transforms Old Town Newhall into a shining display of holiday cheer. On Saturday, November 15, from 4:00 to 8:00 p.m., residents are invited to join the Santa Clarita City Council for Light Up Main Street, presented by DrinkPak. This event marks [&#8230;]</p>
+        <p>The post <a href="https://santaclarita.gov/blog/2025/11/01/kicking-off-the-holidays-with-light-up-main-street/">Kicking Off the Holidays with Light Up Main Street!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
+      </description>
+      <source:markdown>By City Manager Ken Striplin Each year, one of Santa Clarita’s most treasured events transforms Old Town Newhall into a shining display of holiday cheer. On Saturday, November 15, from 4:00 to 8:00 p.m., residents are invited to join the Santa Clarita City Council for Light Up Main Street, presented by DrinkPak. This event marks \[…\]
+
+The post [Kicking Off the Holidays with Light Up Main Street!](https://santaclarita.gov/blog/2025/11/01/kicking-off-the-holidays-with-light-up-main-street/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
+      <guid>cid://https://santaclarita.gov/?p=7003</guid>
+    </item>    <item>
+      <title>Dodgers force World Series to decisive Game 7 by holding off Blue Jays 3-1</title>
+      <link>https://laist.com/news/dodgers-force-world-series-decisive-game-7-vs-blue-jays</link>
+      <description>
+        <![CDATA[Yoshinobu Yamamoto beat Toronto for the second time in a week, as the defending champion Dodgers held off the Blue Jays 3-1 on Friday night.]]>
+      </description>
+      <source:markdown>Yoshinobu Yamamoto beat Toronto for the second time in a week, as the defending champion Dodgers held off the Blue Jays 3-1 on Friday night.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-409c-d6cf-a9ff-69bf79920000</guid>
+    </item>    <item>
       <title>The Trump administration move to study aluminum in vaccines worries scientists</title>
       <link>https://laist.com/news/the-trump-administration-move-to-study-aluminum-in-vaccines-worries-scientists</link>
       <description>
@@ -27,7 +62,7 @@
       <source:markdown>It&#39;s do or die for both teams now as the Dodgers face the Blue Jays with hopes of a second straight championship on the line in Game 7 of the World Series.</source:markdown>
       <guid>cid://urn:uuid:0000019a-401d-d6cf-a9ff-693fd6650000</guid>
     </item>    <item>
-      <title>Scenes from a local food bank in LA this weekend as SNAP benefits lapse</title>
+      <title>Scenes from a food bank in LA this weekend as SNAP benefits lapse</title>
       <link>https://laist.com/news/scenes-from-a-local-food-bank-in-la-this-weekend-as-snap-benefits-lapse</link>
       <description>
         <![CDATA[Volunteers expect dozens of people to show up this Saturday to get food products as federal food assistance lapses.]]>

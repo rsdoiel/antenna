@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>01 Nov 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>01 Nov 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,39 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m4lyhfsj622k</link>
+      <description>
+        <![CDATA[It was great being back in Norfolk to help get out the vote for @abigailspanberger.com for Governor.
+        
+        Virginia – Abigail Spanberger cares about your freedoms, she will fight for your rights, and she will work every day to make your life a little bit better.]]>
+      </description>
+      <source:markdown>It was great being back in Norfolk to help get out the vote for @abigailspanberger.com for Governor.
+
+Virginia – Abigail Spanberger cares about your freedoms, she will fight for your rights, and she will work every day to make your life a little bit better.</source:markdown>
+      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m4lyhfsj622k</guid>
+    </item>    <item>
+      <title>Nation’s Top TV Critic Weighs in on Late Night</title>
+      <link>https://truthsocial.com/@realDonaldTrump/posts/115476218592581611</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42349</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m4lpzupnek25</link>
+      <description>
+        <![CDATA[Virginia! I’m here today for a very important reason: to ask you to vote for your next Governor, @abigailspanberger.com. Tune in:
+        https://youtube.com/live/OnGCVbz7ZmA?feature=share]]>
+      </description>
+      <source:markdown>Virginia! I’m here today for a very important reason: to ask you to vote for your next Governor, @abigailspanberger.com. Tune in:
+https://youtube.com/live/OnGCVbz7ZmA?feature=share</source:markdown>
+      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m4lpzupnek25</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115476010782348673</link>
+      <description>
+        <![CDATA[<p>When you are a Godot developer on iPad, every day is Xmas!</p><p><a href="https://youtu.be/zD1OCqYQ9GE" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">youtu.be/zD1OCqYQ9GE</span><span class="invisible"></span></a></p>]]>
+      </description>
+      <source:markdown>When you are a Godot developer on iPad, every day is Xmas!
+
+[https://youtu.be/zD1OCqYQ9GE](https://youtu.be/zD1OCqYQ9GE)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115476010782348673</guid>
     </item>    <item>
       <title>Quoting Julian Andres Klode</title>
       <link>https://simonwillison.net/2025/Nov/1/debian/#atom-everything</link>
@@ -338,9 +371,17 @@ Just asking for a friend.</source:markdown>
       <source:markdown>Trump Is Forcing Millions to Make Cruel Choices.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/31/1753/</guid>
     </item>    <item>
+      <title>Tim Bray on Grokipedia</title>
+      <link>https://www.tbray.org/ongoing/When/202x/2025/10/28/Grokipedia</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42346</guid>
+    </item>    <item>
       <title>&#60;default:div xmlns=&#34;http://www.w3.org/1999/xhtml&#34; class=&#34;if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14&#34;/&#62;</title>
       <link>https://tantek.com/2025/304/t1/night-before-indiewebcamp-berlin</link>
       <guid>cid://https://tantek.com/2025/304/t1/night-before-indiewebcamp-berlin</guid>
+    </item>    <item>
+      <title>‘Grokipedia Is the Antithesis of Everything That Makes Wikipedia Good, Useful, and Human’</title>
+      <link>https://www.404media.co/grokipedia-is-the-antithesis-of-everything-that-makes-wikipedia-good-useful-and-human/?ref=platformer.news</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42345</guid>
     </item>    <item>
       <title>Things That Go Trump in the Night</title>
       <link>https://www.borowitzreport.com/p/things-that-go-trump-in-the-night</link>
@@ -351,9 +392,13 @@ Just asking for a friend.</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!3pTJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2183d30-cf5e-46b0-b57e-f50a12b6d793_1024x608.png" length="0" type="image/jpeg" />
       <guid>cid://https://www.borowitzreport.com/p/things-that-go-trump-in-the-night</guid>
     </item>    <item>
-      <title>Tim Bray on Grokipedia</title>
-      <link>https://www.tbray.org/ongoing/When/202x/2025/10/28/Grokipedia</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42346</guid>
+      <title>Denmark Backs Away From ‘Chat Control’ That Would Have Rendered E2EE Illegal in the E.U.</title>
+      <link>https://www.euractiv.com/news/danish-presidency-backs-away-from-chat-control/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42344</guid>
+    </item>    <item>
+      <title>What’s New in Shortcuts for the Apple OS 26 Releases</title>
+      <link>https://support.apple.com/en-us/125148</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42343</guid>
     </item>    <item>
       <link>https://nypost.com/2024/06/04/us-news/121-nyc-hotels-converted-to-migrant-shelters-despite-concerns-of-cost-squeeze-on-tourists/</link>
       <description>
@@ -361,10 +406,6 @@ Just asking for a friend.</source:markdown>
       </description>
       <source:markdown>NYC ‘clearly hurting’ with loss of at least 15% of its hotel rooms to migrant shelters, ballooning costs for tourists.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/31/1751/</guid>
-    </item>    <item>
-      <title>‘Grokipedia Is the Antithesis of Everything That Makes Wikipedia Good, Useful, and Human’</title>
-      <link>https://www.404media.co/grokipedia-is-the-antithesis-of-everything-that-makes-wikipedia-good-useful-and-human/?ref=platformer.news</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42345</guid>
     </item>    <item>
       <title>Friday Squid Blogging: Giant Squid at the Smithsonian</title>
       <link>https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-giant-squid-at-the-smithsonian.html</link>
@@ -387,13 +428,9 @@ As usual, you can also use this squid post to talk about the security stories in
       <source:markdown>Bluesky hits 40 million users, introduces &#39;dislikes&#39; beta.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/31/1749/</guid>
     </item>    <item>
-      <title>Denmark Backs Away From ‘Chat Control’ That Would Have Rendered E2EE Illegal in the E.U.</title>
-      <link>https://www.euractiv.com/news/danish-presidency-backs-away-from-chat-control/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42344</guid>
-    </item>    <item>
-      <title>What’s New in Shortcuts for the Apple OS 26 Releases</title>
-      <link>https://support.apple.com/en-us/125148</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42343</guid>
+      <title>Loss of Trust in U.S. Prompts International Criminal Court to Ditch Microsoft 365 for Open Source Alternative</title>
+      <link>https://www.techradar.com/pro/the-international-criminal-court-is-ditching-microsoft-software-for-an-open-source-alternative</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42342</guid>
     </item>    <item>
       <title>433: ‘Meat Bags’, With Brian Mueller</title>
       <link>https://daringfireball.net/thetalkshow/2025/10/31/ep-433</link>
@@ -409,9 +446,13 @@ As usual, you can also use this squid post to talk about the security stories in
       <enclosure url="https://api.substack.com/feed/podcast/177683788/ebe369eac589082f9e7d1dfa60f48e08.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://heathercoxrichardson.substack.com/p/october-30-2025-a49</guid>
     </item>    <item>
-      <title>Loss of Trust in U.S. Prompts International Criminal Court to Ditch Microsoft 365 for Open Source Alternative</title>
-      <link>https://www.techradar.com/pro/the-international-criminal-court-is-ditching-microsoft-software-for-an-open-source-alternative</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42342</guid>
+      <title>Tim Cook Says Next-Gen Siri Still on Pace for ‘Next Year’, Along With Additional AI Partners</title>
+      <link>https://www.cnbc.com/2025/10/30/apple-aapl-earnings-report-q4-2025.html</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42341</guid>
+    </item>    <item>
+      <title>Kennedy Center Ticket Sales Have Plummeted Since Trump Takeover</title>
+      <link>https://www.washingtonpost.com/entertainment/2025/10/31/kennedy-center-sales/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42340</guid>
     </item>    <item>
       <link>https://bsky.app/profile/barackobama.bsky.social/post/3m4j5elgfcc23</link>
       <description>
@@ -420,9 +461,9 @@ As usual, you can also use this squid post to talk about the security stories in
       <source:markdown>More than 47 million Americans — including one in five children — don’t have reliable, affordable access to nutritious food. And as the cost of living skyrockets, more families are depending on SNAP benefits, or food stamps, to put food on the table.</source:markdown>
       <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m4j5elgfcc23</guid>
     </item>    <item>
-      <title>Tim Cook Says Next-Gen Siri Still on Pace for ‘Next Year’, Along With Additional AI Partners</title>
-      <link>https://www.cnbc.com/2025/10/30/apple-aapl-earnings-report-q4-2025.html</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42341</guid>
+      <title>October Is Over and, Shockingly, the Gold Trump Phone Still Hasn’t Shipped</title>
+      <link>https://www.theverge.com/news/810500/where-is-the-trump-phone</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42339</guid>
     </item>    <item>
       <title>This week’s news in Venn diagrams.</title>
       <link>https://lithub.com/this-weeks-news-in-venn-diagrams-oct-31/</link>
@@ -432,9 +473,9 @@ As usual, you can also use this squid post to talk about the security stories in
       <source:markdown>Happy Halloween! I haven’t seen enough fun literary costumes in real life or on social media—what are the book people going as this year? The closest I’m getting is my niece dressing up as a black cat this year, which</source:markdown>
       <guid>cid://https://lithub.com/?p=262135</guid>
     </item>    <item>
-      <title>Kennedy Center Ticket Sales Have Plummeted Since Trump Takeover</title>
-      <link>https://www.washingtonpost.com/entertainment/2025/10/31/kennedy-center-sales/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42340</guid>
+      <title>Joanna Stern on the 1X Neo, a Humanoid ‘Robot’ Housekeeper That Is Actually Remote-Controlled by Humans</title>
+      <link>https://www.wsj.com/tech/personal-tech/i-tried-the-robot-thats-coming-to-live-with-you-its-still-part-human-68515d44?st=guXssw&#38;reflink=desktopwebshare_permalink</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42338</guid>
     </item>    <item>
       <title>Behind the Blog: Ray-Bans Are No Longer Cool or Timeless</title>
       <link>https://www.404media.co/behind-the-blog-ray-bans-are-no-longer-cool-or-timeless/</link>
@@ -479,10 +520,6 @@ As usual, you can also use this squid post to talk about the security stories in
 [Source](https://www.digitalrhetoriccollaborative.org/2025/10/31/introduction-to-erin-miller-incidental-digital-rhetorics/)</source:markdown>
       <guid>cid://https://www.digitalrhetoriccollaborative.org/?p=21992</guid>
     </item>    <item>
-      <title>October Is Over and, Shockingly, the Gold Trump Phone Still Hasn’t Shipped</title>
-      <link>https://www.theverge.com/news/810500/where-is-the-trump-phone</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42339</guid>
-    </item>    <item>
       <title>Curiosity-driven blogging</title>
       <link>https://simonwillison.net/2025/Oct/31/curiosity-driven/#atom-everything</link>
       <description>
@@ -501,10 +538,6 @@ Tags: [til](https://simonwillison.net/tags/til), [blogging](https://simonwilliso
       </description>
       <source:markdown>Elon Musk on data centers in orbit: “SpaceX will be doing this.”</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/31/1747/</guid>
-    </item>    <item>
-      <title>Joanna Stern on the 1X Neo, a Humanoid ‘Robot’ Housekeeper That Is Actually Remote-Controlled by Humans</title>
-      <link>https://www.wsj.com/tech/personal-tech/i-tried-the-robot-thats-coming-to-live-with-you-its-still-part-human-68515d44?st=guXssw&#38;reflink=desktopwebshare_permalink</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42338</guid>
     </item>    <item>
       <title>Lyndal Roper’s Summer of Fire and Blood has won the 2025 Cundill History Prize.</title>
       <link>https://lithub.com/lyndal-ropers-summer-of-fire-and-blood-wins-the-2025-cundill-history-prize/</link>
@@ -883,6 +916,14 @@ More than one Linux-adjacent vendor presented at the Ubuntu Summit, and a small 
       <source:markdown>Autumnal berries Seen in a college garden yesterday. Quote of the Day ”Capitalism is the extraordinary belief that the nastiest of men, for the nastiest of reasons, will somehow work for the benefit of us all. John Maynard Keynes Musical … [Continue reading →](https://memex.naughtons.org/friday-31-october-2025/41332/)</source:markdown>
       <guid>cid://https://memex.naughtons.org/?p=41332</guid>
     </item>    <item>
+      <title>Jason Snell on Apple’s Quarterly Results</title>
+      <link>https://sixcolors.com/post/2025/10/apple-results-holiday-dunks-and-questions-dodged/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42337</guid>
+    </item>    <item>
+      <title>Microsoft Earnings Suggest OpenAI Lost $11.5 Billion Last Quarter</title>
+      <link>https://www.theregister.com/2025/10/29/microsoft_earnings_q1_26_openai_loss/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42336</guid>
+    </item>    <item>
       <title>Spartacus and Gladiators, with Mary Beard</title>
       <link>https://therestishistory.com/spartacus-and-gladiators-with-mary-beard/</link>
       <description>
@@ -893,14 +934,6 @@ More than one Linux-adjacent vendor presented at the Ubuntu Summit, and a small 
 
 The post [Spartacus and Gladiators, with Mary Beard](https://therestishistory.com/spartacus-and-gladiators-with-mary-beard/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
       <guid>cid://https://therestishistory.com/spartacus-and-gladiators-with-mary-beard/</guid>
-    </item>    <item>
-      <title>Jason Snell on Apple’s Quarterly Results</title>
-      <link>https://sixcolors.com/post/2025/10/apple-results-holiday-dunks-and-questions-dodged/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42337</guid>
-    </item>    <item>
-      <title>Microsoft Earnings Suggest OpenAI Lost $11.5 Billion Last Quarter</title>
-      <link>https://www.theregister.com/2025/10/29/microsoft_earnings_q1_26_openai_loss/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42336</guid>
     </item>    <item>
       <title>&#60;default:div xmlns=&#34;http://www.w3.org/1999/xhtml&#34; class=&#34;if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14&#34;/&#62;</title>
       <link>https://tantek.com/2025/303/t1/october-blogging-challenges</link>
@@ -951,6 +984,10 @@ The post [Spartacus and Gladiators, with Mary Beard](https://therestishistory.co
       <source:markdown>Every OS should have a Help system that you can ask &#34;How do I do this&#34; and it understands what you&#39;re saying. The Mac OS tries to take you to a manual with a freaking table of contents! What do I look like, a robot? Come on it&#39;s 2025. Get with it. Maybe OpenAI should buy Apple.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/30.html#a215911</guid>
     </item>    <item>
+      <title>Apple Reports Strong Q4 2025 Results</title>
+      <link>https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42335</guid>
+    </item>    <item>
       <title>Live with Heather Cox Richardson</title>
       <link>https://heathercoxrichardson.substack.com/p/live-with-heather-cox-richardson-031</link>
       <description>
@@ -959,10 +996,6 @@ The post [Spartacus and Gladiators, with Mary Beard](https://therestishistory.co
       <source:markdown>A recording from Heather Cox Richardson&#39;s live video</source:markdown>
       <enclosure url="https://api.substack.com/feed/podcast/177599971/36cc1a9a67019363879c85bb193fa54b.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://heathercoxrichardson.substack.com/p/live-with-heather-cox-richardson-031</guid>
-    </item>    <item>
-      <title>Apple Reports Strong Q4 2025 Results</title>
-      <link>https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42335</guid>
     </item>    <item>
       <title>Thursday session</title>
       <link>https://adactio.com/notes/22227</link>
@@ -1121,6 +1154,10 @@ Every WordLand-written post has one of these feeds, so there is an official way 
       <source:markdown>Since many of us now program with AI chatbot assistance, it seems it&#39;s time to think about higher level languages we can use to specify what we&#39;re doing, new kinds of computers because we now have bigger more capable minds at work.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/30.html#a160221</guid>
     </item>    <item>
+      <title>CarPlay Seems Essential for Rental Fleets</title>
+      <link>https://joe-steel.com/2025-10-22-Why-GM-Will-Give-You-Gemini-But-Not-CarPlay.html</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42334</guid>
+    </item>    <item>
       <title>Aleth Gueguen is speaking at Web Day Out</title>
       <link>https://adactio.com/journal/22225</link>
       <description>
@@ -1254,10 +1291,6 @@ Oh and—James again—Luke found out about the candy so I’m going to be in ti
 
 The KDE Plasma 6.5 graphical shell arrived last week for Unix-like operating systems, and now 6.5.1 is here for the more cautious. The team&#39;s squashed over 60 bugs – and they&#39;re by no means all new.</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242755</guid>
-    </item>    <item>
-      <title>CarPlay Seems Essential for Rental Fleets</title>
-      <link>https://joe-steel.com/2025-10-22-Why-GM-Will-Give-You-Gemini-But-Not-CarPlay.html</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42334</guid>
     </item>    <item>
       <title>Libraries Scramble for Books After Giant Distributor Shuts Down</title>
       <link>https://www.404media.co/libraries-scramble-for-books-after-giant-distributor-shuts-down/</link>
@@ -1501,6 +1534,10 @@ Also, he’s running [collection4](https://github.com/trentbuck/collection4/blob
 &#62; The public internet is mostly bots, many of whom are bad netizens. It’s the most hostile it’s ever been, and it is because of this that I feel it’s more important than ever to take good care of the spaces that make the internet worth visiting. – [Aggressive bots ruined my weekend](https://herman.bearblog.dev/agressive-bots/)</source:markdown>
       <guid>cid://https://alexschroeder.ch/view/2025-10-22-bots-again</guid>
     </item>    <item>
+      <title>‘Hi, It’s Me, Wikipedia, and I Am Ready for Your Apology’</title>
+      <link>https://www.mcsweeneys.net/articles/hi-its-me-wikipedia-and-i-am-ready-for-your-apology</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42333</guid>
+    </item>    <item>
       <link>http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInFeeds</link>
       <description>
         <![CDATA[<p>2022: Dev notes for Markdown in RSS.</p>]]>
@@ -1522,10 +1559,6 @@ Also, he’s running [collection4](https://github.com/trentbuck/collection4/blob
       </description>
       <source:markdown>As we hit 700 episodes, BobWP catches us up on the rebrand.</source:markdown>
       <guid>cid://https://openchannels.fm/?p=111766</guid>
-    </item>    <item>
-      <title>‘Hi, It’s Me, Wikipedia, and I Am Ready for Your Apology’</title>
-      <link>https://www.mcsweeneys.net/articles/hi-its-me-wikipedia-and-i-am-ready-for-your-apology</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42333</guid>
     </item>    <item>
       <title>Yes, You Are the Literary Asshole If You Use AI to Edit Your Fiction</title>
       <link>https://lithub.com/yes-you-are-the-literary-asshole-if-you-use-ai-to-edit-your-fiction/</link>
@@ -1713,6 +1746,10 @@ Tags: [francois-chollet](https://simonwillison.net/tags/francois-chollet), [teac
       <title>Proof of life! I&#38;#8217;m writing a longer post about my time in...</title>
       <link>https://kottke.org/25/10/0047759-proof-of-life-im-writing</link>
       <guid>cid://tag:kottke.org,2025://13.47759</guid>
+    </item>    <item>
+      <title>Elon Musk’s Grokipedia Launches With AI-Cloned Pages From Wikipedia</title>
+      <link>https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42332</guid>
     </item>    <item>
       <title>613. Nelson: Glory at Trafalgar (Part 6)</title>
       <link>https://therestishistory.com/613-nelson-glory-at-trafalgar-part-6/</link>
@@ -1920,10 +1957,6 @@ Via [@cognition](https://x.com/cognition/status/1983662838955831372)
 Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [pelican-riding-a-bicycle](https://simonwillison.net/tags/pelican-riding-a-bicycle), [llm-release](https://simonwillison.net/tags/llm-release), [coding-agents](https://simonwillison.net/tags/coding-agents)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/29/swe-15/#atom-everything</guid>
     </item>    <item>
-      <title>Elon Musk’s Grokipedia Launches With AI-Cloned Pages From Wikipedia</title>
-      <link>https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42332</guid>
-    </item>    <item>
       <title>MiniMax M2 &#38; Agent: Ingenious in Simplicity</title>
       <link>https://simonwillison.net/2025/Oct/29/minimax-m2/#atom-everything</link>
       <description>
@@ -2009,6 +2042,10 @@ Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwill
       <source:markdown>Friends,</source:markdown>
       <enclosure url="https://api.substack.com/feed/podcast/175067105/77b0a08d779b2a56949e3b951786a8c4.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://robertreich.substack.com/p/live-with-katie-couric-about-the</guid>
+    </item>    <item>
+      <title>Local Note: WMMR’s Pierre Robert Found Dead at 70</title>
+      <link>https://share.inquirer.com/A2DX3Y</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42331</guid>
     </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115459488664455021</link>
       <description>
@@ -2103,10 +2140,6 @@ This is a regression in iOS 26.1 beta:</source:markdown>
       <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m4ecirihas2r</guid>
     </item>    <item>
       <title>Local Note: WMMR’s Pierre Robert Found Dead at 70</title>
-      <link>https://share.inquirer.com/A2DX3Y</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42331</guid>
-    </item>    <item>
-      <title>Local Note: WMMR’s Pierre Robert Found Dead at 70</title>
       <link>https://www.inquirer.com/entertainment/media/pierre-robert-wmmr-host-death-20251029.html</link>
       <guid>cid://tag:daringfireball.net,2025:/linked//6.42331</guid>
     </item>    <item>
@@ -2181,6 +2214,10 @@ He&#39;s very much [alive](https://en.wikipedia.org/wiki/Philippe_Kahn) as far a
       <enclosure url="https://api.substack.com/feed/podcast/177476931/9ab20fc92f773d5a5b794650b09a7450.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://tinabrown.substack.com/p/my-video-chat-with-best-selling-author</guid>
     </item>    <item>
+      <title>PCalc 4.11.1 for Mac</title>
+      <link>https://mastodon.social/@jamesthomson/115458178673560956</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42330</guid>
+    </item>    <item>
       <title>October 28, 2025</title>
       <link>https://heathercoxrichardson.substack.com/p/october-28-2025-559</link>
       <enclosure url="https://api.substack.com/feed/podcast/177488026/41dc064f4529d0a86a13148b5940f928.mp3" length="0" type="audio/mpeg" />
@@ -2220,9 +2257,9 @@ He&#39;s very much [alive](https://en.wikipedia.org/wiki/Philippe_Kahn) as far a
 [adactio.com/links/22224](https://adactio.com/links/22224)</source:markdown>
       <guid>cid://https://matthiasott.com/notes/echoes-of-connection</guid>
     </item>    <item>
-      <title>PCalc 4.11.1 for Mac</title>
-      <link>https://mastodon.social/@jamesthomson/115458178673560956</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42330</guid>
+      <title>Toyota BEVs Gain Support for Apple Maps EV Routing</title>
+      <link>https://www.macrumors.com/2025/10/28/toyota-bz-apple-maps-ev-routing/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42329</guid>
     </item>    <item>
       <title>Una casa de dinamita: tres caras de la misma pesadilla nuclear</title>
       <link>https://www.palomitademaiz.net/resena-una-casa-de-dinamita/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resena-una-casa-de-dinamita</link>
@@ -2235,6 +2272,10 @@ He&#39;s very much [alive](https://en.wikipedia.org/wiki/Philippe_Kahn) as far a
 La entrada [Una casa de dinamita: tres caras de la misma pesadilla nuclear](https://www.palomitademaiz.net/resena-una-casa-de-dinamita/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
       <guid>cid://https://www.palomitademaiz.net/?p=25678</guid>
     </item>    <item>
+      <title>Samsung Shows Off Tri-Fold Smartphone at APEC Forum in Korea</title>
+      <link>https://www.macrumors.com/2025/10/28/samsung-tri-fold-smartphone-debut/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42328</guid>
+    </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115458219343282483</link>
       <description>
         <![CDATA[<p>Announcing Xogot to Xogot Remote Debugging! </p><p>Develop on one device, play on another!</p><p>Edit, code, and debug on iPad while testing your game live on iPhone.</p>]]>
@@ -2245,6 +2286,10 @@ Develop on one device, play on another!
 
 Edit, code, and debug on iPad while testing your game live on iPhone.</source:markdown>
       <guid>cid://https://mastodon.social/@Migueldeicaza/115458219343282483</guid>
+    </item>    <item>
+      <title>Trump Is Deeply Unpopular</title>
+      <link>https://www.economist.com/interactive/trump-approval-tracker</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42327</guid>
     </item>    <item>
       <title>56 years ago today: &#62; Talked to SRI Host to Host — IMP log, 1969-10-29 22:30, Charles S. Kline, Boelter Hall, UCLA The message: &#62; LO The ARPANET was born.</title>
       <link>https://adactio.com/notes/22223</link>
@@ -2286,14 +2331,6 @@ The ARPANET was born.</source:markdown>
       <source:markdown>Elon Musk’s new Wikipedia clone has been criticized for nicking Wikipedia. Something else it also does: Aggressively cite the Tedium archive.</source:markdown>
       <guid>cid://https://tedium.co/2025/10/29/grokipedia-content-citations-aggressive/</guid>
     </item>    <item>
-      <title>Toyota BEVs Gain Support for Apple Maps EV Routing</title>
-      <link>https://www.macrumors.com/2025/10/28/toyota-bz-apple-maps-ev-routing/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42329</guid>
-    </item>    <item>
-      <title>Samsung Shows Off Tri-Fold Smartphone at APEC Forum in Korea</title>
-      <link>https://www.macrumors.com/2025/10/28/samsung-tri-fold-smartphone-debut/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42328</guid>
-    </item>    <item>
       <link>http://scripting.com/2025/10/29.html#a144414</link>
       <description>
         <![CDATA[Apparently last night's email didn't go out, so I re-sent them. Hopefully people didn't receive two emails.]]>
@@ -2327,10 +2364,6 @@ In fact there’s [a great big archive of all the past talks](https://beyondtell
 
 [adactio.com/links/22222](https://adactio.com/links/22222)</source:markdown>
       <guid>cid://https://beyondtellerrand.com/speakers/jeremy-keith</guid>
-    </item>    <item>
-      <title>Trump Is Deeply Unpopular</title>
-      <link>https://www.economist.com/interactive/trump-approval-tracker</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42327</guid>
     </item>    <item>
       <title>ICE and CBP Agents Are Scanning Peoples’ Faces on the Street To Verify Citizenship</title>
       <link>https://www.404media.co/ice-and-cbp-agents-are-scanning-peoples-faces-on-the-street-to-verify-citizenship/</link>
@@ -2660,6 +2693,10 @@ And the _real_ takeaway:
       <source:markdown>Orchid in a window Quote of the Day ”For every problem, there is a solution that is simple, neat, and wrong.” H.L. Mencken Musical alternative to the morning’s radio news Teresa Carreño\| Venise op. 33/34 (Live in Helsinki) \| Michelle … [Continue reading →](https://memex.naughtons.org/wednesday-29-october-2025/41327/)</source:markdown>
       <guid>cid://https://memex.naughtons.org/?p=41327</guid>
     </item>    <item>
+      <title>OpenAI Acquires Sky, a Still-in-Beta System-Wide AI Automation Tool for the Mac</title>
+      <link>https://openai.com/index/openai-acquires-software-applications-incorporated/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42326</guid>
+    </item>    <item>
       <title>The Green Tea Garbage Collector</title>
       <link>https://go.dev/blog/greenteagc</link>
       <description>
@@ -2674,10 +2711,6 @@ And the _real_ takeaway:
       </description>
       <source:markdown>My WordPress News page is faster and shows better on phones. And lots of new sources.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/28/1725/</guid>
-    </item>    <item>
-      <title>OpenAI Acquires Sky, a Still-in-Beta System-Wide AI Automation Tool for the Mac</title>
-      <link>https://openai.com/index/openai-acquires-software-applications-incorporated/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42326</guid>
     </item>    <item>
       <title>Well, that didn’t work</title>
       <link>https://doc.searls.com/2025/10/28/19611/</link>
@@ -3002,6 +3035,10 @@ Tags: [github](https://simonwillison.net/tags/github), [hardware-hacking](https:
       <link>https://www.mollywhite.net/micro/entry/202510281232</link>
       <guid>cid://6900f0661ecb9eb40d8c856f</guid>
     </item>    <item>
+      <title>Nisus Writer: Schrödinger’s Word Processor</title>
+      <link>https://tidbits.com/2025/10/25/nisus-writer-schrodingers-word-processor/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42324</guid>
+    </item>    <item>
       <title>&#60;default:div xmlns=&#34;http://www.w3.org/1999/xhtml&#34; class=&#34;if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14&#34;/&#62;</title>
       <link>https://tantek.com/2025/301/t1/hacktoberfest-registered-badge</link>
       <guid>cid://https://tantek.com/2025/301/t1/hacktoberfest-registered-badge</guid>
@@ -3093,10 +3130,6 @@ Fortunately, my cryosleep-awakening probably isn’t be too far off. You can sme
       </description>
       <source:markdown>“When we let powerful people’s books be protected from criticism, we give up the right to hold power accountable.”</source:markdown>
       <guid>cid://6900e226b03958000185e773</guid>
-    </item>    <item>
-      <title>Nisus Writer: Schrödinger’s Word Processor</title>
-      <link>https://tidbits.com/2025/10/25/nisus-writer-schrodingers-word-processor/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42324</guid>
     </item>    <item>
       <title>ChatGPT’s Atlas: The Browser That’s Anti-Web - Anil Dash</title>
       <link>https://www.anildash.com/2025/10/22/atlas-anti-web-browser/</link>
@@ -3804,12 +3837,24 @@ abigailspanberger.com/vote/
       <link>https://www.macrumors.com/2025/10/27/apple-may-release-pixelmator-pro-for-ipad/</link>
       <guid>cid://tag:daringfireball.net,2025:/linked//6.42321</guid>
     </item>    <item>
+      <title>Gurman Reports That Apple Is Preparing to Sell Ads in Maps Starting in 2026</title>
+      <link>https://www.bloomberg.com/news/newsletters/2025-10-26/what-s-next-for-the-ipad-pro-iphone-17-pro-like-vapor-chamber-apple-maps-ads-mh7nq39h</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42320</guid>
+    </item>    <item>
+      <title>Joe Rosensteel: ‘Creative Neglect: What About the Apps in Apple?’</title>
+      <link>https://sixcolors.com/post/2025/10/creative-neglect-what-about-the-apps-in-apple/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42319</guid>
+    </item>    <item>
       <link>https://www.theatlantic.com/culture/2025/10/dear-james-male-friends-nongrowth-mindset/684552/?gift=f35zZN0v_gDFE8xNwlQAHUXzcik9EreCxLp0ZfJGSL0&#38;utm_source=copy-link&#38;utm_medium=social&#38;utm_campaign=share</link>
       <description>
         <![CDATA[<p>I thought this piece would be yet another that says men are somehow inadequate, but it isn't.</p>]]>
       </description>
       <source:markdown>I thought this piece would be yet another that says men are somehow inadequate, but it isn&#39;t.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/27/1703/</guid>
+    </item>    <item>
+      <title>Inside the Math That Detects Cheating on Sports Bets</title>
+      <link>https://www.usatoday.com/story/news/nation/2025/10/24/nba-rozier-betting-cheating-math-monitors/86857550007/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42318</guid>
     </item>    <item>
       <title>Task: perdón, redención y el peso de la culpa</title>
       <link>https://www.palomitademaiz.net/resenas-task/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-task</link>
@@ -3821,10 +3866,6 @@ abigailspanberger.com/vote/
 
 La entrada [Task: perdón, redención y el peso de la culpa](https://www.palomitademaiz.net/resenas-task/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
       <guid>cid://https://www.palomitademaiz.net/?p=25672</guid>
-    </item>    <item>
-      <title>Gurman Reports That Apple Is Preparing to Sell Ads in Maps Starting in 2026</title>
-      <link>https://www.bloomberg.com/news/newsletters/2025-10-26/what-s-next-for-the-ipad-pro-iphone-17-pro-like-vapor-chamber-apple-maps-ads-mh7nq39h</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42320</guid>
     </item>    <item>
       <title>300+ pledge to boycott the New York Times’ op-ed page over their anti-Palestinian bias.</title>
       <link>https://lithub.com/300-pledge-to-boycott-the-new-york-times-op-ed-page-over-their-anti-palestinian-bias/</link>
@@ -3841,10 +3882,6 @@ La entrada [Task: perdón, redención y el peso de la culpa](https://www.palomit
       <source:markdown>Luxury Retirement Communities Are Embracing Private Clubs.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/27/1701/</guid>
     </item>    <item>
-      <title>Joe Rosensteel: ‘Creative Neglect: What About the Apps in Apple?’</title>
-      <link>https://sixcolors.com/post/2025/10/creative-neglect-what-about-the-apps-in-apple/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42319</guid>
-    </item>    <item>
       <title>Con Edison Refuses to Say How ICE Gets Its Customers’ Data</title>
       <link>https://www.404media.co/con-edison-refuses-to-say-how-ice-gets-its-customers-data/</link>
       <description>
@@ -3860,10 +3897,6 @@ La entrada [Task: perdón, redención y el peso de la culpa](https://www.palomit
       <source:markdown>ICE’s Hiring Surge Is Already a Disaster.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/27/1699/</guid>
     </item>    <item>
-      <title>Inside the Math That Detects Cheating on Sports Bets</title>
-      <link>https://www.usatoday.com/story/news/nation/2025/10/24/nba-rozier-betting-cheating-math-monitors/86857550007/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42318</guid>
-    </item>    <item>
       <title>Louvre Jewel Heist</title>
       <link>https://www.schneier.com/blog/archives/2025/10/louvre-jewel-heist.html</link>
       <description>
@@ -3877,6 +3910,10 @@ There were [security lapses](https://www.theatlantic.com/ideas/archive/2025/10/p
 
 &#62; The Louvre, it turns out—at least certain nooks of the ancient former palace—is something like an anopticon: a place where no one is observed. The world now knows what the four thieves (two burglars and two accomplices) realized as recently as last week: The museum’s Apollo Gallery, which housed the stolen items, was monitored by a single outdoor camera angled away from its only exterior point of entry, a balcony. In other words, a free-roaming Roomba could have provided the world’s most famous museum with more information about the interior of this space. There is no surveillance footage of the break-in...</source:markdown>
       <guid>cid://https://www.schneier.com/?p=71093</guid>
+    </item>    <item>
+      <title>Behind the Design: Adobe Premiere on iOS</title>
+      <link>https://adobe.design/stories/process/behind-the-design-adobe-premiere-on-ios</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42317</guid>
     </item>    <item>
       <title>Writers Beware: On the Dangerous Fine Print of Creative Contract Law</title>
       <link>https://lithub.com/writers-beware-on-the-dangerous-fine-print-of-creative-contract-law/</link>
@@ -3892,10 +3929,6 @@ There were [security lapses](https://www.theatlantic.com/ideas/archive/2025/10/p
       </description>
       <source:markdown>US is ‘on a trajectory’ toward authoritarian rule, ex-officials warn.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/27/1697/</guid>
-    </item>    <item>
-      <title>Behind the Design: Adobe Premiere on iOS</title>
-      <link>https://adobe.design/stories/process/behind-the-design-adobe-premiere-on-ios</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42317</guid>
     </item>    <item>
       <title>Zenni’s Anti-Facial Recognition Glasses are Eyewear for Our Paranoid Age</title>
       <link>https://www.404media.co/zennis-anti-facial-recognition-glasses-are-eyewear-for-our-paranoid-age/</link>
@@ -5503,6 +5536,10 @@ Reply via:
       <link>https://weblog.rogueamoeba.com/2018/06/14/on-the-sad-state-of-macintosh-hardware/</link>
       <guid>cid://tag:daringfireball.net,2025:/linked//6.42315</guid>
     </item>    <item>
+      <title>The Scenario Where ChatGPT’s WhatsApp Gateway Was Useful: Airplane Wi-Fi</title>
+      <link>https://daringfireball.net/linked/2025/10/24/meta-whatsapp-rival-chatbot-ban</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42314</guid>
+    </item>    <item>
       <title>We Protested, Now What?</title>
       <link>https://ourfuture.org/20251026/we-protested-now-what</link>
       <description>
@@ -5577,10 +5614,6 @@ Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwill
       </description>
       <source:markdown>The erasure of our shared history gets coverage in a British paper, https://www.theguardian.com/us-news/2025/oct/26/mount-rushmore-native-american-history</source:markdown>
       <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m44dzx3x6c2o</guid>
-    </item>    <item>
-      <title>The Scenario Where ChatGPT’s WhatsApp Gateway Was Useful: Airplane Wi-Fi</title>
-      <link>https://daringfireball.net/linked/2025/10/24/meta-whatsapp-rival-chatbot-ban</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42314</guid>
     </item>    <item>
       <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m446dmrxac24</link>
       <description>
@@ -6467,16 +6500,16 @@ Related, I&#39;ve been asked if we&#39;ll share the subscription list for the Wo
 ![](https://imgs.scripting.com/2025/10/24/wordpressNewsScreen.png)Snapshot of [WordPress News](https://wp.feedland.org/) site.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/24/224033.html</guid>
     </item>    <item>
+      <title>Meta Announces Ban on Rival AI Chatbots From WhatsApp</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/meta-will-ban-rival-ai-chatbots-from-whatsapp</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42310</guid>
+    </item>    <item>
       <link>https://apnews.com/article/canada-trump-tariffs-reagan-tariffs-e0e6a8f1fa49f00c9e8d08df405ee299</link>
       <description>
         <![CDATA[<p>Ontario premier says he'll pull ad that upset Trump.</p>]]>
       </description>
       <source:markdown>Ontario premier says he&#39;ll pull ad that upset Trump.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/24/1653/</guid>
-    </item>    <item>
-      <title>Meta Announces Ban on Rival AI Chatbots From WhatsApp</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/meta-will-ban-rival-ai-chatbots-from-whatsapp</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42310</guid>
     </item>    <item>
       <title>Friday Squid Blogging: “El Pulpo The Squid”</title>
       <link>https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-el-pulpo-the-squid.html</link>
@@ -7074,6 +7107,14 @@ They’re systems, like web browsers or database engines.</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!JXer!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7317205a-9bab-4ef4-bc54-6c510eb0a676_3894x2597.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://steady.substack.com/p/american-history-be-damned</guid>
     </item>    <item>
+      <title>SerpApi’s Public Customer List</title>
+      <link>https://serpapi.com/use-cases</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42309</guid>
+    </item>    <item>
+      <title>Reddit Files Lawsuit Accusing ‘Data Scraper’ Companies of Stealing Its Information</title>
+      <link>https://www.nytimes.com/2025/10/22/technology/reddit-data-scrapers-perplexity-theft.html?unlocked_article_code=1.vk8.W49v.NYfYXfBwO0Ry&#38;smid=url-share</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42308</guid>
+    </item>    <item>
       <title>Julius Caesar, with Mary Beard</title>
       <link>https://therestishistory.com/julius-caesar-with-mary-beard/</link>
       <description>
@@ -7084,14 +7125,6 @@ They’re systems, like web browsers or database engines.</source:markdown>
 
 The post [Julius Caesar, with Mary Beard](https://therestishistory.com/julius-caesar-with-mary-beard/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
       <guid>cid://https://therestishistory.com/julius-caesar-with-mary-beard/</guid>
-    </item>    <item>
-      <title>SerpApi’s Public Customer List</title>
-      <link>https://serpapi.com/use-cases</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42309</guid>
-    </item>    <item>
-      <title>Reddit Files Lawsuit Accusing ‘Data Scraper’ Companies of Stealing Its Information</title>
-      <link>https://www.nytimes.com/2025/10/22/technology/reddit-data-scrapers-perplexity-theft.html?unlocked_article_code=1.vk8.W49v.NYfYXfBwO0Ry&#38;smid=url-share</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42308</guid>
     </item>    <item>
       <title>The Hollywood Reporter: ‘Is Jessica Chastain’s “The Savant” Ever Going to Be Released?’</title>
       <link>https://www.hollywoodreporter.com/tv/tv-news/jessica-chastain-the-savant-delay-will-it-be-released-apple-1236406858/</link>

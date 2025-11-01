@@ -4,10 +4,18 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>01 Nov 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>01 Nov 25 15:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Top 10: Balkonkraftwerk mit Speicher im Test – Top-Modelle zum Bestpreis</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-balkonkraftwerk-mit-speicher-im-test-top-modelle-zum-bestpreis/9g7b03h?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Akkus fürs Balkonkraftwerk speichern Überschussstrom für die Nacht und schlechtes Wetter. Wir zeigen die besten Speicher, um Stromkosten zu senken.]]>
+      </description>
+      <source:markdown>Akkus fürs Balkonkraftwerk speichern Überschussstrom für die Nacht und schlechtes Wetter. Wir zeigen die besten Speicher, um Stromkosten zu senken.</source:markdown>
+      <guid>cid://http://heise.de/-10965967</guid>
+    </item>    <item>
       <title>Best Linux Distros for Development</title>
       <link>https://thenewstack.io/best-linux-distros-for-development/</link>
       <description>
@@ -6073,14 +6081,6 @@ If you’re tired of worrying about your AI queries or the data you share within
 
 The post [How To Deploy a Local AI via Docker](https://thenewstack.io/how-to-deploy-a-local-ai-via-docker/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
       <guid>cid://https://thenewstack.io/?p=22803738</guid>
-    </item>    <item>
-      <title>Top 10: Balkonkraftwerk mit Speicher im Test – Top-Modelle zum Bestpreis</title>
-      <link>https://www.heise.de/bestenlisten/testsieger/top-10-balkonkraftwerk-mit-speicher-im-test-top-modelle-zum-bestpreis/9g7b03h?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Akkus fürs Balkonkraftwerk speichern Überschussstrom für die Nacht und schlechtes Wetter. Wir zeigen die besten Speicher, um Stromkosten zu senken.]]>
-      </description>
-      <source:markdown>Akkus fürs Balkonkraftwerk speichern Überschussstrom für die Nacht und schlechtes Wetter. Wir zeigen die besten Speicher, um Stromkosten zu senken.</source:markdown>
-      <guid>cid://http://heise.de/-10825841</guid>
     </item>    <item>
       <title>&#34;Bidens Krieg gegen Krypto ist vorbei&#34;: Donald Trump begnadigt Binance-Gründer</title>
       <link>https://www.heise.de/news/Bidens-Krieg-gegen-Krypto-ist-vorbei-Donald-Trump-begnadigt-Binance-Gruender-10830473.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>

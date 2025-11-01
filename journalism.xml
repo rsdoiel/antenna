@@ -4,7 +4,7 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>01 Nov 25 11:10 -0700</lastBuildDate>
+    <lastBuildDate>01 Nov 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -27,14 +27,16 @@
 The post [California grants ride-sharing drivers the right to unionize, potentially leading to higher fares](https://canyonsnews.com/uber-lyft-union/) appeared first on [Canyons News](https://canyonsnews.com).</source:markdown>
       <guid>cid://https://canyonsnews.com/?p=55763</guid>
     </item>    <item>
-      <title>UCPD investigates Gayley Avenue knife attack on multiple people</title>
+      <title>LAPD investigates Gayley Avenue stabbing of three people</title>
       <link>https://dailybruin.com/2025/11/01/ucpd-investigates-gayley-avenue-knife-attack-on-multiple-people/</link>
       <description>
-        <![CDATA[UCPD is investigating a knife attack that occurred on Gayley Avenue around 2 a.m. Saturday.&#160;
-        Multiple people were attacked by a lone person and received medical treatment, according to a Clery Timely Warning crime alert.]]>
+        <![CDATA[<em>This post was updated Nov. 1 at 2:00 p.m.</em>
+        UCPD is investigating a stabbing&#160;that occurred on Gayley Avenue around 2 a.m. Saturday.&#160;
+        Three people were attacked by a lone person and received medical treatment, according to a Clery Timely Warning crime alert.]]>
       </description>
-      <source:markdown>UCPD is investigating a knife attack that occurred on Gayley Avenue around 2 a.m. Saturday.
-Multiple people were attacked by a lone person and received medical treatment, according to a Clery Timely Warning crime alert.</source:markdown>
+      <source:markdown>_This post was updated Nov. 1 at 2:00 p.m._
+UCPD is investigating a stabbing that occurred on Gayley Avenue around 2 a.m. Saturday.
+Three people were attacked by a lone person and received medical treatment, according to a Clery Timely Warning crime alert.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=496180</guid>
     </item>    <item>
       <title>Who’s Ruled the Rankings?</title>
