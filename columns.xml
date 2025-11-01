@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>01 Nov 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>01 Nov 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,175 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Quoting Julian Andres Klode</title>
+      <link>https://simonwillison.net/2025/Nov/1/debian/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="https://lists.debian.org/debian-devel/2025/10/msg00285.html"><p>I plan to introduce hard Rust dependencies and Rust code into
+        APT, no earlier than May 2026. This extends at first to the
+        Rust compiler and standard library, and the Sequoia ecosystem.</p>
+        <p>In particular, our code to parse .deb, .ar, .tar, and the
+        HTTP signature verification code would strongly benefit
+        from memory safe languages and a stronger approach to
+        unit testing.</p>
+        <p>If you maintain a port without a working Rust toolchain,
+        please ensure it has one within the next 6 months, or
+        sunset the port.</p></blockquote>
+        <p class="cite">&mdash; <a href="https://lists.debian.org/debian-devel/2025/10/msg00285.html">Julian Andres Klode</a>, debian-devel mailing list</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/debian">debian</a>, <a href="https://simonwillison.net/tags/rust">rust</a>, <a href="https://simonwillison.net/tags/linux">linux</a></p>]]>
+      </description>
+      <source:markdown>&#62; I plan to introduce hard Rust dependencies and Rust code into
+&#62; APT, no earlier than May 2026. This extends at first to the
+&#62; Rust compiler and standard library, and the Sequoia ecosystem.
+&#62;
+&#62; In particular, our code to parse .deb, .ar, .tar, and the
+&#62; HTTP signature verification code would strongly benefit
+&#62; from memory safe languages and a stronger approach to
+&#62; unit testing.
+&#62;
+&#62; If you maintain a port without a working Rust toolchain,
+&#62; please ensure it has one within the next 6 months, or
+&#62; sunset the port.
+
+— [Julian Andres Klode](https://lists.debian.org/debian-devel/2025/10/msg00285.html), debian-devel mailing list
+
+Tags: [open-source](https://simonwillison.net/tags/open-source), [debian](https://simonwillison.net/tags/debian), [rust](https://simonwillison.net/tags/rust), [linux](https://simonwillison.net/tags/linux)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/1/debian/#atom-everything</guid>
+    </item>    <item>
+      <title>The Inside Story on how King Charles Pulled the Plug on Andrew</title>
+      <link>https://tinabrown.substack.com/p/the-inside-story-on-how-king-charles</link>
+      <description>
+        <![CDATA[How much more can the palace do to the Andrew, formerly known as Prince?]]>
+      </description>
+      <source:markdown>How much more can the palace do to the Andrew, formerly known as Prince?</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Crg6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2db9aecf-2406-457e-ba8a-52b98b03be0c_1024x683.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://tinabrown.substack.com/p/the-inside-story-on-how-king-charles</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115475587856888336</link>
+      <description>
+        <![CDATA[<p>When you are a wasm developer, every day is Xmas!</p><p><a href="https://forums.swift.org/t/swift-for-wasm-september-october-2025-updates/82966" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">forums.swift.org/t/swift-for-w</span><span class="invisible">asm-september-october-2025-updates/82966</span></a></p>]]>
+      </description>
+      <source:markdown>When you are a wasm developer, every day is Xmas!
+
+[https://forums.swift.org/t/swift-for-wasm-september-october-2025-updates/82966](https://forums.swift.org/t/swift-for-wasm-september-october-2025-updates/82966)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115475587856888336</guid>
+    </item>    <item>
+      <link>https://stateline.org/2025/10/31/food-banks-were-operating-on-fumes-even-before-snap-chaos/</link>
+      <description>
+        <![CDATA[<p>Food banks were ‘operating on fumes’ even before SNAP chaos.</p>]]>
+      </description>
+      <source:markdown>Food banks were ‘operating on fumes’ even before SNAP chaos.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/01/1759/</guid>
+    </item>    <item>
+      <title>October 31, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-31-2025-9d0</link>
+      <enclosure url="https://api.substack.com/feed/podcast/177740359/87f0c89699da15c2ef0b52ad897671c6.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-31-2025-9d0</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/01.html#a150230</link>
+      <description>
+        <![CDATA[I wrote a <a href="http://scripting.com/2025/10/29/184306.html#a184449">bit</a> about Philippe Kahn the other day, and just remembered -- I forgot to write about <a href="https://daytona.scripting.com/search?q=%22Turbo%20Pascal%22">Turbo Pascal</a>. I had been using program compilers for C and Pascal for almost a decade when it came out, and it was shockingly different in a good way. Somehow it could compile a whole program in less than a second. Years before I had developed <a href="https://daytona.scripting.com/search?q=ThinkTank">ThinkTank</a> on the Apple II and IBM PC using Pascal, and it often took <i>minutes</i> to do the same thing! This changed languages in a great way -- later I would switch to <a href="https://daytona.scripting.com/search?q=%22think%20c%22">Think C</a> that had the same instant compiling. There were other great things about Turbo Pascal, because the editor was integrated, so you could start that compilation with a single keystroke. He understood that the quicker this was, the more in a groove the developer could get. Imagine if you had to wait a minute before you could read the prose you just wrote? It used to be like that. Going back to the 70s it would sometimes take many minutes, and you could run out of time, and wouldn't be able to change the software until they added more money to your account. Like the horse and buggy days. How far we've come.]]>
+      </description>
+      <source:markdown>I wrote a [bit](http://scripting.com/2025/10/29/184306.html#a184449) about Philippe Kahn the other day, and just remembered -- I forgot to write about [Turbo Pascal](https://daytona.scripting.com/search?q=%22Turbo%20Pascal%22). I had been using program compilers for C and Pascal for almost a decade when it came out, and it was shockingly different in a good way. Somehow it could compile a whole program in less than a second. Years before I had developed [ThinkTank](https://daytona.scripting.com/search?q=ThinkTank) on the Apple II and IBM PC using Pascal, and it often took _minutes_ to do the same thing! This changed languages in a great way -- later I would switch to [Think C](https://daytona.scripting.com/search?q=%22think%20c%22) that had the same instant compiling. There were other great things about Turbo Pascal, because the editor was integrated, so you could start that compilation with a single keystroke. He understood that the quicker this was, the more in a groove the developer could get. Imagine if you had to wait a minute before you could read the prose you just wrote? It used to be like that. Going back to the 70s it would sometimes take many minutes, and you could run out of time, and wouldn&#39;t be able to change the software until they added more money to your account. Like the horse and buggy days. How far we&#39;ve come.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/01.html#a150230</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/01.html#a144405</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2022/12/19/ucsdPascalManual.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">October <a href="https://github.com/scripting/Scripting-News/blob/master/blog/opml/2025/10.opml">blog posts</a> in <a href="http://opml.org/">OPML</a>. BTW, well-kept secret, I have a <a href="https://github.com/scripting/oldSchoolBlog">Node app</a> that takes one of these outlines and publishes it to the web, in the format you see on <a href="http://scripting.com/">Scripting News</a>. If you can get your text to flow through OPML this way, you can have a replica of this site, with most of its features. And you can totally customize it in CSS.  It's open source and very stable. It's called <a href="https://github.com/scripting/oldSchoolBlog">Old School</a> and I wrote it in 2017 because I wanted my old blog back, I was fed up with trying to fit into the very small world defined by Twitter, Google Reader, Facebook and Medium. I decided then the cost was too high, and I'd be much happier if I lived within the limits of <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a>, which is far better than the text formats defined by these other projects. Now I feel hopeful about this -- because <a href="https://daytona.scripting.com/search?q=%22brent%20simmons%22">Brent</a> is supporting <a href="https://daytona.scripting.com/search?q=source%3Amarkdown">source:markdown</a> in <a href="https://netnewswire.com/">NetNewsWire</a>. This is a big thing, because it will have the power to attract authors, developers of blogging systems, and other feed reading products.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2022/12/19/ucsdPascalManual.png)October [blog posts](https://github.com/scripting/Scripting-News/blob/master/blog/opml/2025/10.opml) in [OPML](http://opml.org/). BTW, well-kept secret, I have a [Node app](https://github.com/scripting/oldSchoolBlog) that takes one of these outlines and publishes it to the web, in the format you see on [Scripting News](http://scripting.com/). If you can get your text to flow through OPML this way, you can have a replica of this site, with most of its features. And you can totally customize it in CSS. It&#39;s open source and very stable. It&#39;s called [Old School](https://github.com/scripting/oldSchoolBlog) and I wrote it in 2017 because I wanted my old blog back, I was fed up with trying to fit into the very small world defined by Twitter, Google Reader, Facebook and Medium. I decided then the cost was too high, and I&#39;d be much happier if I lived within the limits of [RSS](https://cyber.harvard.edu/rss/rss.html), which is far better than the text formats defined by these other projects. Now I feel hopeful about this -- because [Brent](https://daytona.scripting.com/search?q=%22brent%20simmons%22) is supporting [source:markdown](https://daytona.scripting.com/search?q=source%3Amarkdown) in [NetNewsWire](https://netnewswire.com/). This is a big thing, because it will have the power to attract authors, developers of blogging systems, and other feed reading products.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/01.html#a144405</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/01.html#a143832</link>
+      <description>
+        <![CDATA[Wonder if you noticed that the main difference between social media and chat is which way the new messages flow and where the tiny little text box is, at the top or the bottom.]]>
+      </description>
+      <source:markdown>Wonder if you noticed that the main difference between social media and chat is which way the new messages flow and where the tiny little text box is, at the top or the bottom.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/01.html#a143832</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/01.html#a142554</link>
+      <description>
+        <![CDATA[The unique thing about neighbors is you can try to divorce them, but no matter what you do they will still be neighbors. There are few relationships as permanent as neighbor. They don't have to listen to you. But you should listen anyway, and try to figure out how they look at the neighborhood. Probably very differently from the way you view it.]]>
+      </description>
+      <source:markdown>The unique thing about neighbors is you can try to divorce them, but no matter what you do they will still be neighbors. There are few relationships as permanent as neighbor. They don&#39;t have to listen to you. But you should listen anyway, and try to figure out how they look at the neighborhood. Probably very differently from the way you view it.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/01.html#a142554</guid>
+    </item>    <item>
+      <title>2025-11-01 COVID-19 vaccination</title>
+      <link>https://alexschroeder.ch/view/2025-11-01-covid</link>
+      <description>
+        <![CDATA[<h1 id="2025-11-01-covid-19-vaccination">2025-11-01 COVID-19 vaccination</h1>
+        
+        <p>Yesterday, at the pharmacy here in Zürich, when we asked for a Covid shot, we were told that it was only available for people 65 and older or people at-risk. I asked whether this is a matter of who pays or whether this is a matter of the state making it illegal? And what if we want to visit our parents who are around 80? The person at the desk decided to check in with the head pharmacist and came back to say that the federal department of health changed its position this week. It’s now OK to give us the shots. We still have to pay for it.</p>
+        
+        <p>How strange. Was it really forbidden to vaccinate us just a week earlier?</p>
+        
+        <p>Reading the official position of the Swiss department of health (<a href="https://www.bag.admin.ch/de/richtlinien-und-empfehlungen-zu-impfungen-und-prophylaxe">Richtlinien und Empfehlungen zu Impfungen und Prophylaxe</a>), the plan says that it&rsquo;s not &ldquo;recommended&rdquo; unless you&rsquo;re 65 or older, or at-risk. I checked the <a href="https://www.impfen-schweiz.ch/de/covid-19">Covid-19</a> site and found a sentence saying that it helped reduce the risk of post-acute sequelae. Hm, strange.</p>
+        
+        <p>I checked the <a href="https://www.bag.admin.ch/dam/de/sd-web/BTXB12Z7zZk5/covid-19-impfempfehlung-herbst-2022.pdf">BAG-Bulletin 38/2024</a> and it seems that if you&rsquo;re not at-risk, then the vaccination doesn&rsquo;t seem to affect the outcome they are looking for, namely: preventing a difficult course or a deadly outcome. That makes me think they&rsquo;re not taking into account all the non-dramatic but still consequential post-acute sequelae.</p>
+        
+        <p>I still wonder: Does vaccination help reduce the risk of post-acute sequelae if you have a light COVID-19 infection?</p>
+        
+        <p>Then again, when I skim an article such as <a href="https://doi.org/10.1002/jmv.70429">Long‐Term Sequelae of COVID‐19: A Systematic Review and Meta‐Analysis of Symptoms 3 Years Post‐SARS‐CoV‐2 Infection</a> (Rahmati, 2025), I see that they describe the work as follows:</p>
+        
+        <blockquote>
+        <p>We provide an overview of the manifestations of post-COVID-19 condition after critical illness in adults. We explore the effects on various organ systems, describe potential pathophysiological mechanisms, and consider the challenges of providing clinical care and support for survivors of critical illness with multisystem manifestations.</p>
+        </blockquote>
+        
+        <p>So I wonder: If the only known sequelae are based on studies of critical illness and if the vaccination doesn&rsquo;t help prevent critical illness if you&rsquo;re not at-risk, does it make sense not to vaccinate if you&rsquo;re not at-risk?</p>
+        
+        <p>Essentially, people like me are acting on the precautionary principle: We can&rsquo;t be sure that the non-critical illness doesn&rsquo;t do subtle damage over the long term, specially on a recurring basis, so we try to do our best.</p>
+        
+        <p>But I guess the best options are still:</p>
+        
+        <ul>
+        <li>On an individual level, avoid crowds and to wear a mask if you cannot.</li>
+        <li>On a societal level, everybody should wear a fucking mask.</li>
+        </ul>
+        
+        <p>Every time I see pictures of street life in Japan, I&rsquo;m surprised to see so many people masking and I remember seeing a lot of people masking before the pandemic when I visited Japan and Hong Kong.</p>
+        
+        <p><a class="tag" href="/search/?q=%23Corona">#Corona</a></p>
+        
+        <p><strong>2025-11-01</strong>. <a class="account" href="https://aus.social/@Steveg58" title="@Steveg58@aus.social">@Steveg58</a> quoted the following:</p>
+        
+        <blockquote>
+        <p>Among adults between the ages of 18 and 64 years, two case–control studies showed an effectiveness of 57 to 58% against hospitalization with the mRNA XBB.1.5-adapted vaccine.10,12 A third study showed similar effectiveness against hospitalization or death.21 Six studies estimated a Covid-19 vaccine effectiveness of 22 to 48% against symptomatic or medically attended infection. – <a href="https://www.nejm.org/doi/full/10.1056/NEJMsa2514268">Updated Evidence for Covid-19, RSV, and Influenza Vaccines for 2025–2026</a>, by Jake Scott et al., in New England Journal of Medicine</p>
+        </blockquote>]]>
+      </description>
+      <source:markdown># 2025-11-01 COVID-19 vaccination
+
+Yesterday, at the pharmacy here in Zürich, when we asked for a Covid shot, we were told that it was only available for people 65 and older or people at-risk. I asked whether this is a matter of who pays or whether this is a matter of the state making it illegal? And what if we want to visit our parents who are around 80? The person at the desk decided to check in with the head pharmacist and came back to say that the federal department of health changed its position this week. It’s now OK to give us the shots. We still have to pay for it.
+
+How strange. Was it really forbidden to vaccinate us just a week earlier?
+
+Reading the official position of the Swiss department of health ( [Richtlinien und Empfehlungen zu Impfungen und Prophylaxe](https://www.bag.admin.ch/de/richtlinien-und-empfehlungen-zu-impfungen-und-prophylaxe)), the plan says that it’s not “recommended” unless you’re 65 or older, or at-risk. I checked the [Covid-19](https://www.impfen-schweiz.ch/de/covid-19) site and found a sentence saying that it helped reduce the risk of post-acute sequelae. Hm, strange.
+
+I checked the [BAG-Bulletin 38/2024](https://www.bag.admin.ch/dam/de/sd-web/BTXB12Z7zZk5/covid-19-impfempfehlung-herbst-2022.pdf) and it seems that if you’re not at-risk, then the vaccination doesn’t seem to affect the outcome they are looking for, namely: preventing a difficult course or a deadly outcome. That makes me think they’re not taking into account all the non-dramatic but still consequential post-acute sequelae.
+
+I still wonder: Does vaccination help reduce the risk of post-acute sequelae if you have a light COVID-19 infection?
+
+Then again, when I skim an article such as [Long‐Term Sequelae of COVID‐19: A Systematic Review and Meta‐Analysis of Symptoms 3 Years Post‐SARS‐CoV‐2 Infection](https://doi.org/10.1002/jmv.70429) (Rahmati, 2025), I see that they describe the work as follows:
+
+&#62; We provide an overview of the manifestations of post-COVID-19 condition after critical illness in adults. We explore the effects on various organ systems, describe potential pathophysiological mechanisms, and consider the challenges of providing clinical care and support for survivors of critical illness with multisystem manifestations.
+
+So I wonder: If the only known sequelae are based on studies of critical illness and if the vaccination doesn’t help prevent critical illness if you’re not at-risk, does it make sense not to vaccinate if you’re not at-risk?
+
+Essentially, people like me are acting on the precautionary principle: We can’t be sure that the non-critical illness doesn’t do subtle damage over the long term, specially on a recurring basis, so we try to do our best.
+
+But I guess the best options are still:
+
+- On an individual level, avoid crowds and to wear a mask if you cannot.
+- On a societal level, everybody should wear a fucking mask.
+
+Every time I see pictures of street life in Japan, I’m surprised to see so many people masking and I remember seeing a lot of people masking before the pandemic when I visited Japan and Hong Kong.
+
+[#Corona](/search/?q=%23Corona)
+
+**2025-11-01**. [@Steveg58](https://aus.social/@Steveg58 &#34;@Steveg58@aus.social&#34;) quoted the following:
+
+&#62; Among adults between the ages of 18 and 64 years, two case–control studies showed an effectiveness of 57 to 58% against hospitalization with the mRNA XBB.1.5-adapted vaccine.10,12 A third study showed similar effectiveness against hospitalization or death.21 Six studies estimated a Covid-19 vaccine effectiveness of 22 to 48% against symptomatic or medically attended infection. – [Updated Evidence for Covid-19, RSV, and Influenza Vaccines for 2025–2026](https://www.nejm.org/doi/full/10.1056/NEJMsa2514268), by Jake Scott et al., in New England Journal of Medicine</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2025-11-01-covid</guid>
     </item>    <item>
       <title>There’s a Dinosaur ‘Mummy Zone.’ Here’s What Scientists Found There.</title>
       <link>https://www.404media.co/theres-a-dinosaur-mummy-zone-heres-what-scientists-found-there/</link>

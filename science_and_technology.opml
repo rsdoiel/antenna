@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Science and Technology</title>
-        <dateCreated>01 Nov 25 06:10 -0700</dateCreated>
+        <dateCreated>01 Nov 25 11:10 -0700</dateCreated>
     </head>
     <body>
         <outline text="Caltech Magazine" type="rss" xmlUrl="https://magazine.caltech.edu/index?format=rss" htmlUrl="https://magazine.caltech.edu/"></outline>
@@ -13,7 +13,7 @@
         <outline text="NASA breaking news" type="rss" xmlUrl="https://www.nasa.gov/news-release/feed/" htmlUrl="https://www.nasa.gov,https://www.nasa.gov/news-release/feed/" description="Official National Aeronautics and Space Administration Website" url="https://www.nasa.gov/news-release/feed/"></outline>
         <outline text="NPR Short Wave" type="rss" category="Science,Life Sciences,News,Daily News" xmlUrl="https://feeds.npr.org/510351/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510351/short-wave" description="New discoveries, everyday mysteries, and the science behind the headlines — in just under 15 minutes. It&#39;s science for everyone, using a lot of creativity and a little humor. Join hosts Emily Kwong and Regina Barber for science on a different wavelength.&lt;br&gt;&lt;br&gt;&lt;em&gt;If you&#39;re hooked, try Short Wave Plus. Your subscription supports the show and unlocks a sponsor-free feed. Learn more at &lt;/em&gt;&lt;em&gt;plus.npr.org/&lt;/em&gt;&lt;em&gt;shortwave&lt;/em&gt;"></outline>
         <outline text="OS News" type="rss" xmlUrl="https://www.osnews.com/feed/" htmlUrl="https://www.osnews.com,https://www.osnews.com/feed/" description="Exploring the Future of Computing" url="https://www.osnews.com/feed/"></outline>
-        <outline text="Public AI blog" type="rss" xmlUrl="https://publicai.substack.com/feed" htmlUrl="https://publicai.substack.com,https://publicai.substack.com/feed" description="A newsletter for public AI. https://publicai.network and https://publicai.co" url="https://publicai.substack.com/feed"></outline>
+        <outline text="Public AI blog" type="rss" xmlUrl="https://publicai.substack.com/feed" htmlUrl="https://publicai.substack.com,https://publicai.substack.com/feed" description="News from across the movement for public AI" url="https://publicai.substack.com/feed"></outline>
         <outline text="Purism News" type="rss" xmlUrl="https://puri.sm/feed/" htmlUrl="https://puri.sm/,https://puri.sm/feed/" description="High-quality computers that protect your freedom and privacy" url="https://puri.sm/feed/"></outline>
         <outline text="Quanta Magazine" type="rss" xmlUrl="https://www.quantamagazine.org/feed/" htmlUrl="https://www.quantamagazine.org,https://www.quantamagazine.org/feed/" description="Illuminating science" url="https://www.quantamagazine.org/feed/"></outline>
         <outline text="Servo blog" type="atom" xmlUrl="https://servo.org/blog/feed.xml" htmlUrl="https://servo.org/blog/feed.xml,https://servo.org" description="All the entries in the Servo blog." url="https://servo.org/blog/feed.xml"></outline>

@@ -4,14 +4,72 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>01 Nov 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>01 Nov 25 11:10 -0700</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Best Linux Distros for Development</title>
+      <link>https://thenewstack.io/best-linux-distros-for-development/</link>
+      <description>
+        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/10/8dd22a77-gabriel-heinzer-4mw7nkqdbyk-unsplash-1024x768.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/8dd22a77-gabriel-heinzer-4mw7nkqdbyk-unsplash.jpg" /><p>Linux has been slowly gaining popularity over the past few years for both end users and developers. There are many</p>
+        <p>The post <a href="https://thenewstack.io/best-linux-distros-for-development/">Best Linux Distros for Development</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/10/8dd22a77-gabriel-heinzer-4mw7nkqdbyk-unsplash-1024x768.jpg)
+
+Linux has been slowly gaining popularity over the past few years for both end users and developers. There are many
+
+The post [Best Linux Distros for Development](https://thenewstack.io/best-linux-distros-for-development/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804813</guid>
+    </item>    <item>
+      <title>Verwirrung um Grafiktreiber von AMD für RDNA 1 und 2 im Wartungsmodus</title>
+      <link>https://www.heise.de/news/Verwirrung-um-Grafiktreiber-von-AMD-fuer-RDNA-1-und-2-im-Wartungsmodus-10966025.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Grundlegend neue Treiber für GPUs mit RDNA 1 und  2 wird es wohl nicht mehr geben. AMD will sie dennoch ein bisschen pflegen.]]>
+      </description>
+      <source:markdown>Grundlegend neue Treiber für GPUs mit RDNA 1 und 2 wird es wohl nicht mehr geben. AMD will sie dennoch ein bisschen pflegen.</source:markdown>
+      <guid>cid://http://heise.de/-10966025</guid>
+    </item>    <item>
+      <title>Soundbar KEF Xio im Test: grandioser Klang – auch ohne Subwoofer</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/soundbar-kef-xio-im-test-grandioser-klang-auch-ohne-subwoofer/jfwrvft?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Mit 12 Lautsprechern und einer Musikleistung von 820 Watt will die KEF Xio bei Soundbars neue Maßstäbe setzen. Ob und wie gut ihr das gelingt, zeigt unser Test.]]>
+      </description>
+      <source:markdown>Mit 12 Lautsprechern und einer Musikleistung von 820 Watt will die KEF Xio bei Soundbars neue Maßstäbe setzen. Ob und wie gut ihr das gelingt, zeigt unser Test.</source:markdown>
+      <guid>cid://http://heise.de/-10965922</guid>
+    </item>    <item>
+      <title>Telco-Manager: Europas digitale Wettbewerbsfähigkeit und Sicherheit in Gefahr</title>
+      <link>https://www.heise.de/news/Telco-Manager-Europas-digitale-Wettbewerbsfaehigkeit-und-Sicherheit-in-Gefahr-10966006.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Chefs der größten Telekommunikationskonzerne Europas kritisieren in einem Brief an von der Leyen ihre große Sorge über das Zögern beim Digital Networks Act.]]>
+      </description>
+      <source:markdown>Die Chefs der größten Telekommunikationskonzerne Europas kritisieren in einem Brief an von der Leyen ihre große Sorge über das Zögern beim Digital Networks Act.</source:markdown>
+      <guid>cid://http://heise.de/-10966006</guid>
+    </item>    <item>
+      <title>JavaScript Utility Library Lodash Changing Governance Model</title>
+      <link>https://thenewstack.io/javascript-utility-library-lodash-changing-governance-model/</link>
+      <description>
+        <![CDATA[<img width="1024" height="577" src="https://cdn.thenewstack.io/media/2024/04/d8b458d6-dev_news_img-2-2-1024x577.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Dev News logo" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2024/04/d8b458d6-dev_news_img-2-2.png" /><p>Things are changing over at Lodash and the project is starting a new chapter, according to Ulises Gasc&#243;n, who is</p>
+        <p>The post <a href="https://thenewstack.io/javascript-utility-library-lodash-changing-governance-model/">JavaScript Utility Library Lodash Changing Governance Model</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Dev News logo](https://cdn.thenewstack.io/media/2024/04/d8b458d6-dev_news_img-2-2-1024x577.png)
+
+Things are changing over at Lodash and the project is starting a new chapter, according to Ulises Gascón, who is
+
+The post [JavaScript Utility Library Lodash Changing Governance Model](https://thenewstack.io/javascript-utility-library-lodash-changing-governance-model/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805043</guid>
+    </item>    <item>
+      <title>Italiens Staatsbahn will in Deutschland einsteigen</title>
+      <link>https://www.heise.de/news/Italiens-Staatsbahn-erwaegt-Einstieg-ins-Fernverkehrsgeschaeft-10965971.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die italienische Staatsbahn denkt über einen Einstieg ins deutsche Fernverkehrsgeschäft nach – und würde dort der Deutschen Bahn Konkurrenz machen.]]>
+      </description>
+      <source:markdown>Die italienische Staatsbahn denkt über einen Einstieg ins deutsche Fernverkehrsgeschäft nach – und würde dort der Deutschen Bahn Konkurrenz machen.</source:markdown>
+      <guid>cid://http://heise.de/-10965971</guid>
+    </item>    <item>
       <title>OpenAI’s Apps SDK: A Developer’s Guide to Getting Started</title>
       <link>https://thenewstack.io/openais-apps-sdk-a-developers-guide-to-getting-started/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/a9c3c598-ethan-currier-23jcwyguv_0-unsplash-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="app in a box" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/a9c3c598-ethan-currier-23jcwyguv_0-unsplash.jpg" /><p>&#8220;The ChatGPT app ecosystem is built on trust,&#8221; OpenAI&#8217;s guidelines for app developers proclaim. As the AI ecosystem expands, OpenAI&#8217;s</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/a9c3c598-ethan-currier-23jcwyguv_0-unsplash-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="app in a box" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/a9c3c598-ethan-currier-23jcwyguv_0-unsplash.jpg" /><p>&#8220;The ChatGPT app ecosystem is built on trust,&#8221; OpenAI&#8217;s guidelines for app developers proclaim. As the AI ecosystem expands, OpenAI&#8217;s</p>
         <p>The post <a href="https://thenewstack.io/openais-apps-sdk-a-developers-guide-to-getting-started/">OpenAI’s Apps SDK: A Developer’s Guide to Getting Started</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![app in a box](https://cdn.thenewstack.io/media/2025/10/a9c3c598-ethan-currier-23jcwyguv_0-unsplash-1024x576.jpg)

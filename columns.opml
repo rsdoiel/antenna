@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>01 Nov 25 06:09 -0700</dateCreated>
+        <dateCreated>01 Nov 25 11:10 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -295,6 +295,7 @@
         <outline text="Ultibo News" type="rss" xmlUrl="https://ultibo.org/feed/" htmlUrl="https://ultibo.org,https://ultibo.org/feed/" description="Make something amazing" url="https://ultibo.org/feed/"></outline>
         <outline text="Uninformative blog" type="atom" xmlUrl="https://www.uninformativ.de/blog/feeds/en.atom" htmlUrl="https://www.uninformativ.de/blog/feeds/en.atom,https://www.uninformativ.de/blog" url="https://www.uninformativ.de/blog/feeds/en.atom"></outline>
         <outline text="VoxPopuLII blog (legal informatics and open access)" type="rss" xmlUrl="https://blog.law.cornell.edu/voxpop/feed/" htmlUrl="https://blog.law.cornell.edu/voxpop,https://blog.law.cornell.edu/voxpop/feed/" description="New voices in legal information" url="https://blog.law.cornell.edu/voxpop/feed/"></outline>
+        <outline text="W. Kamau Bell blog" type="rss" xmlUrl="http://www.wkamaubell.com/blog?format=rss" htmlUrl="http://www.wkamaubell.com/blog/"></outline>
         <outline text="Wait but why blog" type="rss" xmlUrl="https://waitbutwhy.com/feed" htmlUrl="https://waitbutwhy.com/,https://waitbutwhy.com/feed" url="https://waitbutwhy.com/feed"></outline>
         <outline text="Web Dev blog" type="rss" xmlUrl="https://web.dev/static/blog/feed.xml" htmlUrl="https://web.dev/blog/" description="All of web.dev&#39;s blog posts."></outline>
         <outline text="Web Recorder" type="rss" xmlUrl="https://webrecorder.net/feed.xml" htmlUrl="https://webrecorder.net/" description="What&#39;s new in the world of web archiving"></outline>
