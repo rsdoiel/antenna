@@ -4,10 +4,26 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>02 Nov 25 06:09 -0800</lastBuildDate>
+    <lastBuildDate>02 Nov 25 11:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2025/11/02 - This is not the future we were promised, Coming Home to Tea (AI song x13), Bonus music, My 0.02 on RISC OS, DDE Update.</title>
+      <link>https://heyrick.eu/blog/entry/20251102</link>
+      <description>
+        <![CDATA[This is not the future we were promised, Coming Home to Tea (AI song x13), Bonus music, My 0.02 on RISC OS, DDE Update.]]>
+      </description>
+      <source:markdown>This is not the future we were promised, Coming Home to Tea (AI song x13), Bonus music, My 0.02 on RISC OS, DDE Update.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20251102</guid>
+    </item>    <item>
+      <title>Vintage Computing and Gaming is 20</title>
+      <link>https://www.vintagecomputing.com/index.php/archives/3620/vintage-computing-and-gaming-is-20</link>
+      <description>
+        <![CDATA[Greetings, fellow retro tech fans. 20 years ago today, I launched Vintage Computing and Gaming. The origins of the site have been well-covered elsewhere, so I&#8217;ll spare you the rehash. Just kidding, that was a rehash. I copied and pasted that first paragraph from my 15th anniversary post and changed the number. 🙂 But seriously, [&#8230;]]]>
+      </description>
+      <source:markdown>Greetings, fellow retro tech fans. 20 years ago today, I launched Vintage Computing and Gaming. The origins of the site have been well-covered elsewhere, so I’ll spare you the rehash. Just kidding, that was a rehash. I copied and pasted that first paragraph from my 15th anniversary post and changed the number. 🙂 But seriously, \[…\]</source:markdown>
+      <guid>cid://https://www.vintagecomputing.com/?p=3620</guid>
+    </item>    <item>
       <title>b.log 2025/11/01 - Yeah just drive over my lawn why don&#39;t you, Abusing a pumpkin, YouTube error 153, Toussaint.</title>
       <link>https://heyrick.eu/blog/entry/20251101</link>
       <description>

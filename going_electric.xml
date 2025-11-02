@@ -7,11 +7,20 @@
       Going Electric has feeds involving home and transportation options powered by Electricity
     </description>
     <link>https://rsdoiel.github.io/antenna/going_electric.xml</link>
-    <lastBuildDate>02 Nov 25 06:09 -0800</lastBuildDate>
+    <lastBuildDate>02 Nov 25 11:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Inside The Company Building The Absurdly Quick Fan-Powered Cars</title>
+      <title>Mandatory Charging: The Controversial Fix For Plug-In Hybrids’ Dirty Secret</title>
+      <link>https://insideevs.com/news/777595/mandatory-charging-phev-proposal-germany/</link>
+      <description>
+        <![CDATA[Germany’s biggest auto industry association wants PHEV drivers to recharge their cars more often, whether they like it or not.]]>
+      </description>
+      <source:markdown>Germany’s biggest auto industry association wants PHEV drivers to recharge their cars more often, whether they like it or not.</source:markdown>
+      <enclosure url="https://cdn.motor1.com/images/mgl/rK7lv6/s3/2025-jeep-wrangler-4xe-plug-in-hybrid.jpg" length="26716" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/777595/mandatory-charging-phev-proposal-germany/</guid>
+    </item>    <item>
+      <title>Inside The Company Building Absurdly Quick Fan-Powered Cars</title>
       <link>https://insideevs.com/news/777580/mcmurtry-automotive-speirling-video-hq/</link>
       <description>
         <![CDATA[McMurtry is the company behind the Speirling, the electric fan car that’s quicker than a Formula 1 racer.]]>

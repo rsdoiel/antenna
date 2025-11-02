@@ -4,10 +4,18 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>02 Nov 25 06:09 -0800</lastBuildDate>
+    <lastBuildDate>02 Nov 25 11:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>43 Soup Recipes You’ll Crave Year-Round</title>
+      <link>https://www.bonappetit.com/gallery/soup-recipes-ideas</link>
+      <description>
+        <![CDATA[Like miso soup with chicken and squash, Instant Pot pho, and a greens-laced riff on pasta e fagioli.]]>
+      </description>
+      <source:markdown>Like miso soup with chicken and squash, Instant Pot pho, and a greens-laced riff on pasta e fagioli.</source:markdown>
+      <guid>cid://57ec369420b96e0468469397</guid>
+    </item>    <item>
       <title>Fall Back Into A Lovely Cup Of Coffee Courtesy Of The Sprudge Roaster’s Village</title>
       <link>https://sprudge.com/fall-back-into-a-lovely-cup-of-coffee-courtesy-of-the-sprudge-roasters-village-464915.html</link>
       <description>
