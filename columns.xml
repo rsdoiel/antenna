@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>02 Nov 25 11:10 -0800</lastBuildDate>
+    <lastBuildDate>02 Nov 25 15:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,86 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/02.html#a223816</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2023/12/24/slugger.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It's the first day of "no more baseball" for the next ten months or so. I admit I don't really get involved until August. But this year was great, even though the Mets didn't make the playoffs. Congrats to my friends who are Mariners fans, they made a really good run. I was pulling for the Blue Jays, dreading a Los Angeles win, but as they say you can't always get what you want. And I don't mind that there's a victory for LA, a city that's taking the brunt of what's surely coming for NYC. Obviously they're waiting for the election to be over before they occupy the city.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2023/12/24/slugger.png)It&#39;s the first day of &#34;no more baseball&#34; for the next ten months or so. I admit I don&#39;t really get involved until August. But this year was great, even though the Mets didn&#39;t make the playoffs. Congrats to my friends who are Mariners fans, they made a really good run. I was pulling for the Blue Jays, dreading a Los Angeles win, but as they say you can&#39;t always get what you want. And I don&#39;t mind that there&#39;s a victory for LA, a city that&#39;s taking the brunt of what&#39;s surely coming for NYC. Obviously they&#39;re waiting for the election to be over before they occupy the city.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/02.html#a223816</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/02.html#a222607</link>
+      <description>
+        <![CDATA[Current <a href="https://imgs.scripting.com/2025/11/02/wordlandScreenShot.png">screen shot</a> of WordLand.]]>
+      </description>
+      <source:markdown>Current [screen shot](https://imgs.scripting.com/2025/11/02/wordlandScreenShot.png) of WordLand.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/02.html#a222607</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m4ocay5x2s2u</link>
+      <description>
+        <![CDATA[This seems like a sensible policy.
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>This seems like a sensible policy.
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m4ocay5x2s2u</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m4oc7bwczk2u</link>
+      <description>
+        <![CDATA[As an amateur historian, I jotted down some of my current thinking on social media and AI. https://rsdoiel.github.io/blog/2025/11/02/is_social_media_a_misnomer.html]]>
+      </description>
+      <source:markdown>As an amateur historian, I jotted down some of my current thinking on social media and AI. https://rsdoiel.github.io/blog/2025/11/02/is\_social\_media\_a\_misnomer.html</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m4oc7bwczk2u</guid>
+    </item>    <item>
+      <title>Playing with Ubuntu 25.10</title>
+      <link>https://smist08.wordpress.com/2025/11/02/playing-with-ubuntu-25-10/</link>
+      <description>
+        <![CDATA[Introduction Ubuntu released 25.10 back on October 9. Now that I’ve sent my two books off to production, I can have a look at a few non Assembly Language things of interest. I’ve always liked Ubuntu as it is a fairly hassle-free implementation of Debian Linux with most of the software I need and a [&#8230;]]]>
+      </description>
+      <source:markdown>Introduction Ubuntu released 25.10 back on October 9. Now that I’ve sent my two books off to production, I can have a look at a few non Assembly Language things of interest. I’ve always liked Ubuntu as it is a fairly hassle-free implementation of Debian Linux with most of the software I need and a \[…\]</source:markdown>
+      <guid>cid://http://smist08.wordpress.com/?p=3790</guid>
+    </item>    <item>
+      <title>Reviewing the 13 books I read in September and October</title>
+      <link>https://www.mollywhite.net/micro/entry/202511021430</link>
+      <guid>cid://6907b3d27034ea8afbbc11d4</guid>
+    </item>    <item>
+      <title>PyCon US 2026 call for proposals is now open</title>
+      <link>https://simonwillison.net/2025/Nov/2/pycon-us-2026/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://pycon.blogspot.com/2025/10/pycon-us-2026-call-for-proposals-now.html">PyCon US 2026 call for proposals is now open</a></strong></p>
+        PyCon US is coming to the US west coast! 2026 and 2027 will both be held in Long Beach, California - the 2026 conference is set for May 13th-19th next year.</p>
+        <p>The call for proposals just opened. Since we'll be in LA County I'd love to see talks about Python in the entertainment industry - if you know someone who could present on that topic please make sure they know about the CFP!</p>
+        <p>The deadline for submissions is December 19th 2025. There are two new tracks this year:</p>
+        <blockquote>
+        <p>PyCon US is introducing two dedicated Talk tracks to the schedule this year, "The Future of AI with Python" and "Trailblazing Python Security". For more information and how to submit your proposal, <a href="https://us.pycon.org/2026/speaking/guidelines/">visit this page</a>.</p>
+        </blockquote>
+        <p>Now is also a great time to consider sponsoring PyCon - here's <a href="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/psf_sponsor_prospectus_25-26_final_compressed.pdf">the sponsorship prospectus</a>.
+        
+            <p><small></small>Via <a href="https://bsky.app/profile/pycon.us/post/3m4j34eloes25">@pycon.us</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/call-for-proposals">call-for-proposals</a>, <a href="https://simonwillison.net/tags/conferences">conferences</a>, <a href="https://simonwillison.net/tags/pycon">pycon</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/psf">psf</a></p>]]>
+      </description>
+      <source:markdown>**[PyCon US 2026 call for proposals is now open](https://pycon.blogspot.com/2025/10/pycon-us-2026-call-for-proposals-now.html)**
+
+PyCon US is coming to the US west coast! 2026 and 2027 will both be held in Long Beach, California - the 2026 conference is set for May 13th-19th next year.
+
+The call for proposals just opened. Since we&#39;ll be in LA County I&#39;d love to see talks about Python in the entertainment industry - if you know someone who could present on that topic please make sure they know about the CFP!
+
+The deadline for submissions is December 19th 2025. There are two new tracks this year:
+
+&#62; PyCon US is introducing two dedicated Talk tracks to the schedule this year, &#34;The Future of AI with Python&#34; and &#34;Trailblazing Python Security&#34;. For more information and how to submit your proposal, [visit this page](https://us.pycon.org/2026/speaking/guidelines/).
+
+Now is also a great time to consider sponsoring PyCon - here&#39;s [the sponsorship prospectus](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/psf_sponsor_prospectus_25-26_final_compressed.pdf).
+
+
+
+Via [@pycon.us](https://bsky.app/profile/pycon.us/post/3m4j34eloes25)
+
+Tags: [call-for-proposals](https://simonwillison.net/tags/call-for-proposals), [conferences](https://simonwillison.net/tags/conferences), [pycon](https://simonwillison.net/tags/pycon), [python](https://simonwillison.net/tags/python), [psf](https://simonwillison.net/tags/psf)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/2/pycon-us-2026/#atom-everything</guid>
     </item>    <item>
       <title>November 1, 2025</title>
       <link>https://heathercoxrichardson.substack.com/p/november-1-2025-d68</link>
@@ -87,9 +167,9 @@ Mikie will work to create jobs, lower costs, and do what’s right for the peopl
     </item>    <item>
       <link>http://scripting.com/2025/11/02.html#a142341</link>
       <description>
-        <![CDATA[Since the next version of <a href="https://netnewswire.com/">NetNewsWire</a> supports <a href="https://source.scripting.com/#1653758422000">source:markdown</a>. I wanted to <a href="https://github.com/Ranchero-Software/NetNewsWire/issues/4825">show</a> how to find the feeds generated by WordLand that are compatible. We need both sides to start the bootstrap, and we have them, and my <a href="https://daveverse.org/">daveverse site</a>, which I update fairly frequently, generates a Markdown-inclusive <a href="https://wordland.social/scripting/237777565/rss.xml">feed</a>. Important for the bootstrap to have the three legs -- 1. A writing tool that generates the feature. 2. A feed reader that understands it. 3. Content available in the format.]]>
+        <![CDATA[Since the next version of <a href="https://netnewswire.com/">NetNewsWire</a> supports <a href="https://source.scripting.com/#1653758422000">source:markdown</a> I wanted to <a href="https://github.com/Ranchero-Software/NetNewsWire/issues/4825">show</a> how to find the feeds generated by WordLand that are compatible.]]>
       </description>
-      <source:markdown>Since the next version of [NetNewsWire](https://netnewswire.com/) supports [source:markdown](https://source.scripting.com/#1653758422000). I wanted to [show](https://github.com/Ranchero-Software/NetNewsWire/issues/4825) how to find the feeds generated by WordLand that are compatible. We need both sides to start the bootstrap, and we have them, and my [daveverse site](https://daveverse.org/), which I update fairly frequently, generates a Markdown-inclusive [feed](https://wordland.social/scripting/237777565/rss.xml). Important for the bootstrap to have the three legs -- 1. A writing tool that generates the feature. 2. A feed reader that understands it. 3. Content available in the format.</source:markdown>
+      <source:markdown>Since the next version of [NetNewsWire](https://netnewswire.com/) supports [source:markdown](https://source.scripting.com/#1653758422000) I wanted to [show](https://github.com/Ranchero-Software/NetNewsWire/issues/4825) how to find the feeds generated by WordLand that are compatible.</source:markdown>
       <guid>cid://http://scripting.com/2025/11/02.html#a142341</guid>
     </item>    <item>
       <link>https://www.cbsnews.com/colorado/news/flock-cameras-lead-colorado-police-wrong-suspect/</link>
@@ -101,9 +181,9 @@ Mikie will work to create jobs, lower costs, and do what’s right for the peopl
     </item>    <item>
       <link>http://scripting.com/2025/11/02.html#a132557</link>
       <description>
-        <![CDATA[I wanted to show <a href="https://www.crunchbase.com/person/jake-savin">Jake Savin</a>, an old school UserLand dev, how I edit my JavaScript code projects in <a href="http://frontier.userland.com">Frontier</a>. This is the <a href="https://github.com/scripting/feedland/blob/main/database/source.opml">source.opml</a> file for the <a href="https://www.npmjs.com/package/feedlanddatabase">feedlanddatabase</a> package, <a href="https://drummer.land/?url=https://raw.githubusercontent.com/scripting/feedland/refs/heads/main/database/source.opml">viewed</a> in my outliner, <a href="https://drummer.land/">Drummer</a>.]]>
+        <![CDATA[I wanted to show <a href="https://www.crunchbase.com/person/jake-savin">Jake Savin</a>, a UserLand dev and friend, how I edit my JavaScript code projects in my outliner. This is the <a href="https://github.com/scripting/feedland/blob/main/database/source.opml">source.opml</a> file for the <a href="https://www.npmjs.com/package/feedlanddatabase">feedlanddatabase</a> package, <a href="https://drummer.land/?url=https://raw.githubusercontent.com/scripting/feedland/refs/heads/main/database/source.opml">which you can edit</a> in Drummer.]]>
       </description>
-      <source:markdown>I wanted to show [Jake Savin](https://www.crunchbase.com/person/jake-savin), an old school UserLand dev, how I edit my JavaScript code projects in [Frontier](http://frontier.userland.com). This is the [source.opml](https://github.com/scripting/feedland/blob/main/database/source.opml) file for the [feedlanddatabase](https://www.npmjs.com/package/feedlanddatabase) package, [viewed](https://drummer.land/?url=https://raw.githubusercontent.com/scripting/feedland/refs/heads/main/database/source.opml) in my outliner, [Drummer](https://drummer.land/).</source:markdown>
+      <source:markdown>I wanted to show [Jake Savin](https://www.crunchbase.com/person/jake-savin), a UserLand dev and friend, how I edit my JavaScript code projects in my outliner. This is the [source.opml](https://github.com/scripting/feedland/blob/main/database/source.opml) file for the [feedlanddatabase](https://www.npmjs.com/package/feedlanddatabase) package, [which you can edit](https://drummer.land/?url=https://raw.githubusercontent.com/scripting/feedland/refs/heads/main/database/source.opml) in Drummer.</source:markdown>
       <guid>cid://http://scripting.com/2025/11/02.html#a132557</guid>
     </item>    <item>
       <title>Frank &#38; Ella</title>
@@ -140,9 +220,9 @@ Mikie will work to create jobs, lower costs, and do what’s right for the peopl
     </item>    <item>
       <link>http://scripting.com/2025/11/02.html#a105056</link>
       <description>
-        <![CDATA[In August 2002 I <a href="http://scripting.com/2002/08.html#When:10:23:25AM">asked</a> why RSS 1.0 is named RSS? I gathered up <a href="http://essaysfromexodus.scripting.com/whyRss10NamedRss">opinions</a> from people and published it as a single document. I didn't edit or respond, just let people speak.]]>
+        <![CDATA[In August 2002 I asked why RSS 1.0 is named RSS. I gathered up <a href="http://essaysfromexodus.scripting.com/whyRss10NamedRss">opinions</a> and published it as a single document. I didn't edit or respond, just let people speak. I think this is a legit document type. And when implemented in 2026, it should all work with pointers. They should be only one copy of the text, where the author wrote it. Technically this is totally doable. Just a few independent developers to work with to start a bootstrap. We know how to do this.]]>
       </description>
-      <source:markdown>In August 2002 I [asked](http://scripting.com/2002/08.html#When:10:23:25AM) why RSS 1.0 is named RSS? I gathered up [opinions](http://essaysfromexodus.scripting.com/whyRss10NamedRss) from people and published it as a single document. I didn&#39;t edit or respond, just let people speak.</source:markdown>
+      <source:markdown>In August 2002 I asked why RSS 1.0 is named RSS. I gathered up [opinions](http://essaysfromexodus.scripting.com/whyRss10NamedRss) and published it as a single document. I didn&#39;t edit or respond, just let people speak. I think this is a legit document type. And when implemented in 2026, it should all work with pointers. They should be only one copy of the text, where the author wrote it. Technically this is totally doable. Just a few independent developers to work with to start a bootstrap. We know how to do this.</source:markdown>
       <guid>cid://http://scripting.com/2025/11/02.html#a105056</guid>
     </item>    <item>
       <title>Sunday thought: How to cope with Trump’s chaos</title>
@@ -153,6 +233,55 @@ Mikie will work to create jobs, lower costs, and do what’s right for the peopl
       <source:markdown>Friends,</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!FCJt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6503736-ca64-4819-89bd-0fb1056e68b9_3247x2531.png" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/sunday-thought-coping-with-trumps</guid>
+    </item>    <item>
+      <title>Summary of changes for October 2025</title>
+      <link>https://100r.ca/site/log.html#oct2025</link>
+      <description>
+        <![CDATA[<p>Hey everyone!</p><p>This is the list of all the changes we've done to our projects during the month of October.</p>
+        
+        <img src="../media/content/videos/october_2025.jpg" alt="little ninj, a small ninja, is leaning happily on a pumpkin bearing the face of the Hollow creature from Scavengers Reign" loading="lazy" width="1200" height="679">
+        
+        <ul>
+          <li><b><a href="https://wiki.xxiivv.com/site/cccc" target="_blank">CCCC</a></b>, added a factorization mode.</li>
+          <li><b><a href="https://wiki.xxiivv.com/site/bagel" target="_blank">Bagel</a></b>, wrote about a cursed programming language idea where instead of cons cells, s-exp represent unordered lists.</li>
+          <li><b><a href="../site/rabbitwaves.html">Rabbit Waves</a></b>, released a new page called <a href="https://rabbitwaves.ca/site/celestial_compass.html" target="_blank">Celestial Compass</a>, and added <a href="https://rabbitwaves.ca/site/about.html" target="_blank">a button</a> for those who wish to link to the website from theirs.</li>
+          <li><b><a href="https://kokorobot.ca/site/punk_rabbits.html" target="_blank">Punk Rabbits</a></b>, completed 2 new rabbits(#55 and 56).</li>
+        </ul>
+        
+        <p>We sailed Pino back to Victoria before heading east for <a href='https://ampindustrialevents.com'>AMP Festival 2025</a>. The venue was packed! The <a href="https://www.youtube.com/watch?v=ObCjiUWll7g" target="_blank">Aliceffekt show</a>(YouTube) started with a bit of <i>radio taiso</i>, to make sure everyone had a chance to limber up, it was pretty funny.</p>
+        
+        <p>As the trees were shedding the last of their leaves, members of the Merveilles community composed a <a href="https://www.youtube.com/watch?v=NmmU1voBVeU" target="_blank">spooky mixtape</a>(<a href="https://matecha.net/hallow_2025.mp3" target="_blank">download</a>), and we folded paper to craft ourselves some homemade Halloween <a href="https://rabbits.srht.site/days/2025/11/01.html" target="_blank">masks</a>. Like every year, we carved a <a href="halloween_pumpkins.html">pumpkin</a>. This year's design was inspired by the <a href="../media/content/inventory/pumpkin_hollow.jpg" target="_blank">Hollow creature</a> from the amazing animated sci-fi series <i>Scavengers Reign</i>.</p>
+        
+        <p>We spent the rest of the month with family, seeing friends and reviewing <a href="https://rhizome.org/editorial/2025/sep/15/open-call-microgrants-2025/" target='_blank'>microgrant applications</a> for Rhizome.</p>
+        
+        <p>We have re-opened the <a href="../site/store.html">store</a> for sticker sales, but at the moment we cannot ship them to the US due to the <a href="https://www.canadapost-postescanada.ca/cpc/en/support/campaign/shipping-to-us-duty-updates.page" target="_blank">suspension of the de minimis exemption</a>. We hope to resume shipments as soon as we can figure out how to comply with the new shipping rules. The sale of our physical books to the US is unaffected. We'll end this update with the mention that <a href="../site/oquonie.html">Oquonie</a> is part of the <a href="https://play.date/games/oquonie/" target="_blank">Playdate Catalogue fall sale</a> lasting until Nov 13, 2025. Thank you to everyone who continue to explore our strange little world.</p>
+        
+        <p><b>Book Club:</b> This month we are reading <i>The Outsiders</i> by Susan E. Hinton, and <i>Madame Bovary: Provincial Manners</i> by Gustave Flaubert.</p>
+        <p><a href='https://100r.ca/site/log.html#oct2025' target='_blank'>Continue Reading</a></p>]]>
+      </description>
+      <source:markdown>Hey everyone!
+
+This is the list of all the changes we&#39;ve done to our projects during the month of October.
+
+![little ninj, a small ninja, is leaning happily on a pumpkin bearing the face of the Hollow creature from Scavengers Reign](../media/content/videos/october_2025.jpg)
+
+- **[CCCC](https://wiki.xxiivv.com/site/cccc)**, added a factorization mode.
+- **[Bagel](https://wiki.xxiivv.com/site/bagel)**, wrote about a cursed programming language idea where instead of cons cells, s-exp represent unordered lists.
+- **[Rabbit Waves](../site/rabbitwaves.html)**, released a new page called [Celestial Compass](https://rabbitwaves.ca/site/celestial_compass.html), and added [a button](https://rabbitwaves.ca/site/about.html) for those who wish to link to the website from theirs.
+- **[Punk Rabbits](https://kokorobot.ca/site/punk_rabbits.html)**, completed 2 new rabbits(#55 and 56).
+
+We sailed Pino back to Victoria before heading east for [AMP Festival 2025](https://ampindustrialevents.com). The venue was packed! The [Aliceffekt show](https://www.youtube.com/watch?v=ObCjiUWll7g)(YouTube) started with a bit of _radio taiso_, to make sure everyone had a chance to limber up, it was pretty funny.
+
+As the trees were shedding the last of their leaves, members of the Merveilles community composed a [spooky mixtape](https://www.youtube.com/watch?v=NmmU1voBVeU)( [download](https://matecha.net/hallow_2025.mp3)), and we folded paper to craft ourselves some homemade Halloween [masks](https://rabbits.srht.site/days/2025/11/01.html). Like every year, we carved a [pumpkin](halloween_pumpkins.html). This year&#39;s design was inspired by the [Hollow creature](../media/content/inventory/pumpkin_hollow.jpg) from the amazing animated sci-fi series _Scavengers Reign_.
+
+We spent the rest of the month with family, seeing friends and reviewing [microgrant applications](https://rhizome.org/editorial/2025/sep/15/open-call-microgrants-2025/) for Rhizome.
+
+We have re-opened the [store](../site/store.html) for sticker sales, but at the moment we cannot ship them to the US due to the [suspension of the de minimis exemption](https://www.canadapost-postescanada.ca/cpc/en/support/campaign/shipping-to-us-duty-updates.page). We hope to resume shipments as soon as we can figure out how to comply with the new shipping rules. The sale of our physical books to the US is unaffected. We&#39;ll end this update with the mention that [Oquonie](../site/oquonie.html) is part of the [Playdate Catalogue fall sale](https://play.date/games/oquonie/) lasting until Nov 13, 2025. Thank you to everyone who continue to explore our strange little world.
+
+**Book Club:** This month we are reading _The Outsiders_ by Susan E. Hinton, and _Madame Bovary: Provincial Manners_ by Gustave Flaubert.
+
+[Continue Reading](https://100r.ca/site/log.html#oct2025)</source:markdown>
+      <guid>cid://log.html#oct2025</guid>
     </item>    <item>
       <title>Decisions are the foundation of art</title>
       <link>https://tracydurnell.com/2025/11/01/decisions-are-the-foundation-of-art/</link>
@@ -240,6 +369,10 @@ Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwill
       </description>
       <source:markdown>And just like that, I have graduated to “better host the teens at home so at least we know where they are” years old.</source:markdown>
       <guid>cid://https://mastodon.social/@Migueldeicaza/115477347222376954</guid>
+    </item>    <item>
+      <title>weekly retro #39: hoping for a renewing november</title>
+      <link>https://livelaugh.blog/posts/weekly-retro-39/</link>
+      <guid>cid://https://livelaugh.blog/posts/weekly-retro-39/</guid>
     </item>    <item>
       <title>Send by last open or last click date</title>
       <link>https://buttondown.com/blog/send-by-date</link>
