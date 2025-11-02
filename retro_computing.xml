@@ -4,7 +4,7 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>01 Nov 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>02 Nov 25 06:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -2210,14 +2210,6 @@ Image: Chart of common power sources with their power ratings and the resistance
 2. One way around this is to use an existing metal cookie box or a large tin can bottom, but in that case, you’re stuck with the dimensions of what you can find. A metal box conducts electricity, so make sure the electric resistance wire doesn’t touch the metal. You can also pour the mortar into a plastic container and remove it once the mortar has cured. [↩︎](#fnref:2)</source:markdown>
       <enclosure url="https://solar.lowtechmagazine.com/2025/10/how-to-build-an-electric-heating-element-from-scratch/images/dithers/p1_Large_dithered.png" length="37862" type="image/png" />
       <guid>cid://https://solar.lowtechmagazine.com/2025/10/how-to-build-an-electric-heating-element-from-scratch/</guid>
-    </item>    <item>
-      <title>b.log 2025/10/11 - What?!?, Toilet check!, Saturday work, AI songs?, Self-perception.</title>
-      <link>https://heyrick.eu/blog/entry/20251011</link>
-      <description>
-        <![CDATA[What?!?, Toilet check!, Saturday work, AI songs?, Self-perception.]]>
-      </description>
-      <source:markdown>What?!?, Toilet check!, Saturday work, AI songs?, Self-perception.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20251011</guid>
     </item>
   </channel>
 </rss>

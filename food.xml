@@ -4,10 +4,18 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>01 Nov 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>02 Nov 25 06:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Fall Back Into A Lovely Cup Of Coffee Courtesy Of The Sprudge Roaster’s Village</title>
+      <link>https://sprudge.com/fall-back-into-a-lovely-cup-of-coffee-courtesy-of-the-sprudge-roasters-village-464915.html</link>
+      <description>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster's Village.]]>
+      </description>
+      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster&#39;s Village.**</source:markdown>
+      <guid>cid://https://sprudge.com/?p=464915</guid>
+    </item>    <item>
       <title>The Easy Apple Cake That Builds Community</title>
       <link>https://www.bonappetit.com/story/feel-good-food-plan-november-2025</link>
       <description>
@@ -2876,22 +2884,6 @@ October the 15th is National Mushroom Day and since mushrooms are one of my favo
 
 The post [Magical Mushroom Recipes](https://www.closetcooking.com/mushroom-recipes/) appeared first on [Closet Cooking](https://www.closetcooking.com).</source:markdown>
       <guid>cid://https://www.closetcooking.com/2017/10/15/mushroom-recipes/</guid>
-    </item>    <item>
-      <title>31 Winter Salads We’re Loving Right Now</title>
-      <link>https://www.bonappetit.com/gallery/winter-salads-recipes-ideas</link>
-      <description>
-        <![CDATA[Radicchio and squash with blue cheese dressing, charred greens with citrus, kale with pecan vinaigrette, and more.]]>
-      </description>
-      <source:markdown>Radicchio and squash with blue cheese dressing, charred greens with citrus, kale with pecan vinaigrette, and more.</source:markdown>
-      <guid>cid://61db5afdac44db807a193997</guid>
-    </item>    <item>
-      <title>Don’t Snear! Gear! And Other Things Obama Never Said But Should Have</title>
-      <link>https://sprudge.com/dont-snear-gear-and-other-things-obama-never-said-but-should-have-439192.html</link>
-      <description>
-        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. This week's selection of coffee gear.]]>
-      </description>
-      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. This week&#39;s selection of coffee gear.**</source:markdown>
-      <guid>cid://https://sprudge.com/?p=439192</guid>
     </item>
   </channel>
 </rss>

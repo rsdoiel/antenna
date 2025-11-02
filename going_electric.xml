@@ -7,10 +7,60 @@
       Going Electric has feeds involving home and transportation options powered by Electricity
     </description>
     <link>https://rsdoiel.github.io/antenna/going_electric.xml</link>
-    <lastBuildDate>01 Nov 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>02 Nov 25 06:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Inside The Company Building The Absurdly Quick Fan-Powered Cars</title>
+      <link>https://insideevs.com/news/777580/mcmurtry-automotive-speirling-video-hq/</link>
+      <description>
+        <![CDATA[McMurtry is the company behind the Speirling, the electric fan car that’s quicker than a Formula 1 racer.]]>
+      </description>
+      <source:markdown>McMurtry is the company behind the Speirling, the electric fan car that’s quicker than a Formula 1 racer.</source:markdown>
+      <enclosure url="https://cdn.motor1.com/images/mgl/G3YrGV/s3/mcmurtry-fan.jpg" length="13432" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/777580/mcmurtry-automotive-speirling-video-hq/</guid>
+    </item>    <item>
+      <title>California hits back as CARB takes legal action against truck brands</title>
+      <link>https://electrek.co/2025/11/02/california-hits-back-as-carb-takes-legal-action-against-truck-brands/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/11/carb.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Following a lawsuit brought against the California Air Resources Board (CARB) by major heavy truck manufacturers over California’s emissions requirements, CARB has struck back with fresh lawsuit of its own alleging that the manufacturers violated the terms of the 2023 Clean Truck Partnership agreement to sell cleaner vehicles.</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="california,carb,diesel" data-layer-viewtype="unknown" data-post-id="441709" href="https://electrek.co/2025/11/02/california-hits-back-as-carb-takes-legal-action-against-truck-brands/#more-441709" class="more-link">more…</a>]]>
+      </description>
+      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2025/11/carb.jpg?quality=82&#38;strip=all&#38;w=1400)
+
+Following a lawsuit brought against the California Air Resources Board (CARB) by major heavy truck manufacturers over California’s emissions requirements, CARB has struck back with fresh lawsuit of its own alleging that the manufacturers violated the terms of the 2023 Clean Truck Partnership agreement to sell cleaner vehicles.
+
+ [more…](https://electrek.co/2025/11/02/california-hits-back-as-carb-takes-legal-action-against-truck-brands/#more-441709)</source:markdown>
+      <guid>cid://https://electrek.co/?p=441709</guid>
+    </item>    <item>
+      <title>New national law will turn large parking lots into solar power farms</title>
+      <link>https://electrek.co/2025/11/02/new-national-law-will-turn-large-parking-lots-into-solar-power-farms/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/11/korea-solar.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Starting this month, parking lots in South Korea with more than 80 spaces will be <em>required</em> to install solar canopies and carports. But, unlike similar laws that have been proposed in the US, this new law doesn’t just apply to new construction – existing lots will have to comply as well!</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="solar-power,south-korea" data-layer-viewtype="unknown" data-post-id="441688" href="https://electrek.co/2025/11/02/new-national-law-will-turn-large-parking-lots-into-solar-power-farms/#more-441688" class="more-link">more…</a>]]>
+      </description>
+      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2025/11/korea-solar.jpg?quality=82&#38;strip=all&#38;w=1600)
+
+Starting this month, parking lots in South Korea with more than 80 spaces will be _required_ to install solar canopies and carports. But, unlike similar laws that have been proposed in the US, this new law doesn’t just apply to new construction – existing lots will have to comply as well!
+
+ [more…](https://electrek.co/2025/11/02/new-national-law-will-turn-large-parking-lots-into-solar-power-farms/#more-441688)</source:markdown>
+      <guid>cid://https://electrek.co/?p=441688</guid>
+    </item>    <item>
+      <title>Used BMW iXs Are A Screaming EV Deal</title>
+      <link>https://insideevs.com/news/777613/bmw-ix-used-prices/</link>
+      <description>
+        <![CDATA[The iX has all the range, space and tech you need, and used ones are going for less than 50% of MSRP.]]>
+      </description>
+      <source:markdown>The iX has all the range, space and tech you need, and used ones are going for less than 50% of MSRP.</source:markdown>
+      <enclosure url="https://cdn.motor1.com/images/mgl/NGMNrl/s3/bmw-ix-depreciation.jpg" length="29816" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/777613/bmw-ix-used-prices/</guid>
+    </item>    <item>
       <title>NHTSA is investigating Waymo robotaxis for passing stopped school bus</title>
       <link>https://electrek.co/2025/11/01/nhtsa-is-investigating-waymo-robotaxis-for-passing-stopped-school-bus/</link>
       <description>
@@ -5269,47 +5319,6 @@ What if, instead of faster chargers, we pushed for SLOWER gas pumps?
 
  [more…](https://electrek.co/2025/10/11/john-deere-adds-new-updated-gator-gx-and-gx-crew-electric-utvs-for-2026/#more-438510)</source:markdown>
       <guid>cid://https://electrek.co/?p=438510</guid>
-    </item>    <item>
-      <title>A Chinese EREV Tried To Drive 1 Million Kilometers. Here&#39;s What Broke First</title>
-      <link>https://insideevs.com/news/775394/li-auto-l9-russia-erev/</link>
-      <description>
-        <![CDATA[The Li Auto L9 made it 307,000 kilometers, or almost 200,000 miles. In the end, old-school tech let it down.]]>
-      </description>
-      <source:markdown>The Li Auto L9 made it 307,000 kilometers, or almost 200,000 miles. In the end, old-school tech let it down.</source:markdown>
-      <enclosure url="https://cdn.motor1.com/images/mgl/8AZWPW/s3/li-auto-l9.jpg" length="21375" type="image/jpeg" />
-      <guid>cid://https://insideevs.com/news/775394/li-auto-l9-russia-erev/</guid>
-    </item>    <item>
-      <title>GM hydrogen: the reports of my death are greatly exaggerated</title>
-      <link>https://electrek.co/2025/10/11/gm-hydrogen-the-reports-of-my-death-are-greatly-exaggerated/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/10/Autocar_GM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>GM has scrapped plans to build $55 million hydrogen fuel cell factory in Detroit, triggering a tsunami of headlines about the General’s future plans for hydrogen. The reality? GM isn’t scaling back its hydrogen efforts. It’s thinking bigger.</p>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="gm,honda,hydrogen" data-layer-viewtype="unknown" data-post-id="438487" href="https://electrek.co/2025/10/11/gm-hydrogen-the-reports-of-my-death-are-greatly-exaggerated/#more-438487" class="more-link">more…</a>]]>
-      </description>
-      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2025/10/Autocar_GM.jpg?quality=82&#38;strip=all&#38;w=1600)
-
-GM has scrapped plans to build $55 million hydrogen fuel cell factory in Detroit, triggering a tsunami of headlines about the General’s future plans for hydrogen. The reality? GM isn’t scaling back its hydrogen efforts. It’s thinking bigger.
-
- [more…](https://electrek.co/2025/10/11/gm-hydrogen-the-reports-of-my-death-are-greatly-exaggerated/#more-438487)</source:markdown>
-      <guid>cid://https://electrek.co/?p=438487</guid>
-    </item>    <item>
-      <title>Want EV charging at your apartment, as an owner or a renter? Click here (update)</title>
-      <link>https://electrek.co/2025/10/11/want-ev-charging-at-your-apartment-as-an-owner-or-a-renter-click-here/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/ChargePoint-Multifamily.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>EVs are great, and can unlock more transportation convenience with the ease of charging at home. But for apartment-dwellers, this can be a complicated conversation. So a nonprofit called Forth is here to help, through its Charge at Home program.</p>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="ev-charging" data-layer-viewtype="unknown" data-post-id="428599" href="https://electrek.co/2025/10/11/want-ev-charging-at-your-apartment-as-an-owner-or-a-renter-click-here/#more-428599" class="more-link">more…</a>]]>
-      </description>
-      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2025/08/ChargePoint-Multifamily.jpg?quality=82&#38;strip=all&#38;w=1200)
-
-EVs are great, and can unlock more transportation convenience with the ease of charging at home. But for apartment-dwellers, this can be a complicated conversation. So a nonprofit called Forth is here to help, through its Charge at Home program.
-
- [more…](https://electrek.co/2025/10/11/want-ev-charging-at-your-apartment-as-an-owner-or-a-renter-click-here/#more-428599)</source:markdown>
-      <guid>cid://https://electrek.co/?p=428599</guid>
     </item>
   </channel>
 </rss>

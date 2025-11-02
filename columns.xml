@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>01 Nov 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>02 Nov 25 06:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -38,6 +38,240 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <link>https://www.cbsnews.com/colorado/news/flock-cameras-lead-colorado-police-wrong-suspect/</link>
+      <description>
+        <![CDATA[<p>Flock cameras lead Colorado police to wrong suspect: "It became my job to prove my innocence."</p>]]>
+      </description>
+      <source:markdown>Flock cameras lead Colorado police to wrong suspect: &#34;It became my job to prove my innocence.&#34;</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/02/1767/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/02.html#a132557</link>
+      <description>
+        <![CDATA[I wanted to show <a href="https://www.crunchbase.com/person/jake-savin">Jake Savin</a>, an old school UserLand dev, how I edit my JavaScript code projects in <a href="http://frontier.userland.com">Frontier</a>. This is the <a href="https://github.com/scripting/feedland/blob/main/database/source.opml">source.opml</a> file for the <a href="https://www.npmjs.com/package/feedlanddatabase">feedlanddatabase</a> package, <a href="https://drummer.land/?url=https://raw.githubusercontent.com/scripting/feedland/refs/heads/main/database/source.opml">viewed</a> in my outliner, <a href="https://drummer.land/">Drummer</a>.]]>
+      </description>
+      <source:markdown>I wanted to show [Jake Savin](https://www.crunchbase.com/person/jake-savin), an old school UserLand dev, how I edit my JavaScript code projects in [Frontier](http://frontier.userland.com). This is the [source.opml](https://github.com/scripting/feedland/blob/main/database/source.opml) file for the [feedlanddatabase](https://www.npmjs.com/package/feedlanddatabase) package, [viewed](https://drummer.land/?url=https://raw.githubusercontent.com/scripting/feedland/refs/heads/main/database/source.opml) in my outliner, [Drummer](https://drummer.land/).</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/02.html#a132557</guid>
+    </item>    <item>
+      <title>Frank &#38; Ella</title>
+      <link>https://steady.substack.com/p/frank-and-ella</link>
+      <description>
+        <![CDATA[A Reason To Smile]]>
+      </description>
+      <source:markdown>A Reason To Smile</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!unwD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06498d98-44bb-40fd-85ce-ba528e12e2c2_5296x3600.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/frank-and-ella</guid>
+    </item>    <item>
+      <link>https://new365.azontree.com/?p=116160&#38;fbclid=IwY2xjawN0ML1leHRuA2FlbQIxMABicmlkETFKbEk3TDlnS2Rac3d5d1A0AR4KphJjGDsENBcT_VTur212xFiy2vSzOWZtorD4FOkDR4IXXWWZeVzlj9ogPg_aem_jARnU88q2-qfEq7QbeP2Bw</link>
+      <description>
+        <![CDATA[<p>“Don’t be foolish enough to let Pete Alonso go!” says Keith Hernandez, of the legendary slugger of the Mets.</p>]]>
+      </description>
+      <source:markdown>“Don’t be foolish enough to let Pete Alonso go!” says Keith Hernandez, of the legendary slugger of the Mets.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/02/1765/</guid>
+    </item>    <item>
+      <link>https://electrek.co/2025/11/02/new-national-law-will-turn-large-parking-lots-into-solar-power-farms/</link>
+      <description>
+        <![CDATA[<p>New (South Korean) national law will turn large parking lots into solar power farms.</p>]]>
+      </description>
+      <source:markdown>New (South Korean) national law will turn large parking lots into solar power farms.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/02/1763/</guid>
+    </item>    <item>
+      <title>The Domestic Politics and Geopolitics of Renewable Energy, Part I</title>
+      <link>https://paulkrugman.substack.com/p/the-domestic-politics-and-geopolitics</link>
+      <description>
+        <![CDATA[Trump has ceded world leadership to China. But will China do enough?]]>
+      </description>
+      <source:markdown>Trump has ceded world leadership to China. But will China do enough?</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!FZCY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24d9f78e-f694-40ac-a4b0-d0c5658ce14d_1429x744.png" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/the-domestic-politics-and-geopolitics</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/02.html#a105056</link>
+      <description>
+        <![CDATA[In August 2002 I <a href="http://scripting.com/2002/08.html#When:10:23:25AM">asked</a> why RSS 1.0 is named RSS? I gathered up <a href="http://essaysfromexodus.scripting.com/whyRss10NamedRss">opinions</a> from people and published it as a single document. I didn't edit or respond, just let people speak.]]>
+      </description>
+      <source:markdown>In August 2002 I [asked](http://scripting.com/2002/08.html#When:10:23:25AM) why RSS 1.0 is named RSS? I gathered up [opinions](http://essaysfromexodus.scripting.com/whyRss10NamedRss) from people and published it as a single document. I didn&#39;t edit or respond, just let people speak.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/02.html#a105056</guid>
+    </item>    <item>
+      <title>Sunday thought: How to cope with Trump’s chaos</title>
+      <link>https://robertreich.substack.com/p/sunday-thought-coping-with-trumps</link>
+      <description>
+        <![CDATA[Friends,]]>
+      </description>
+      <source:markdown>Friends,</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!FCJt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6503736-ca64-4819-89bd-0fb1056e68b9_3247x2531.png" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/sunday-thought-coping-with-trumps</guid>
+    </item>    <item>
+      <title>Decisions are the foundation of art</title>
+      <link>https://tracydurnell.com/2025/11/01/decisions-are-the-foundation-of-art/</link>
+      <description>
+        <![CDATA[As generative AI&#8217;s impact on the creative industries grows, I&#8217;ve been thinking about what produces art, and why graphics produced by diffusion models and text produced by LLMs are (by and large) not. And I think that, ultimately, art is the result of creative decisions, whereas generative AI removes decision-making. Prompting is ideating; it is [&#8230;]]]>
+      </description>
+      <source:markdown>As generative AI’s impact on the creative industries grows, I’ve been thinking about what produces art, and why graphics produced by diffusion models and text produced by LLMs are (by and large) not. And I think that, ultimately, art is the result of creative decisions, whereas generative AI removes decision-making. Prompting is ideating; it is \[…\]</source:markdown>
+      <guid>cid://https://tracydurnell.com/?p=29641</guid>
+    </item>    <item>
+      <title>November 1, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/november-1-2025</link>
+      <description>
+        <![CDATA[Yesterday I wrote that President Donald J.]]>
+      </description>
+      <source:markdown>Yesterday I wrote that President Donald J.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/november-1-2025</guid>
+    </item>    <item>
+      <title>How I Use Every Claude Code Feature</title>
+      <link>https://simonwillison.net/2025/Nov/2/how-i-use-every-claude-code-feature/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://blog.sshh.io/p/how-i-use-every-claude-code-feature">How I Use Every Claude Code Feature</a></strong></p>
+        Useful, detailed guide from Shrivu Shankar, a Claude Code power user. Lots of tips for both individual Claude Code usage and configuring it for larger team projects.</p>
+        <p>I appreciated Shrivu's take on MCP:</p>
+        <blockquote>
+        <p>The "Scripting" model (now formalized by Skills) is better, but it needs a secure way to access the environment. This to me is the new, more focused role for MCP.</p>
+        <p>Instead of a bloated API, an MCP should be a simple, secure gateway that provides a few powerful, high-level tools:</p>
+        <ul>
+        <li><code>download_raw_data(filters...)</code></li>
+        <li><code>take_sensitive_gated_action(args...)</code></li>
+        <li><code>execute_code_in_environment_with_state(code...)</code></li>
+        </ul>
+        <p>In this model, MCP's job isn't to abstract reality for the agent; its job is to manage the auth, networking, and security boundaries and then get out of the way.</p>
+        </blockquote>
+        <p>This makes a lot of sense to me. Most of my MCP usage with coding agents like Claude Code has been replaced by custom shell scripts for it to execute, but there's still a useful role for MCP in helping the agent access secure resources in a controlled way.
+        
+            <p><small></small>Via <a href="https://news.ycombinator.com/item?id=45786738">Hacker News</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/model-context-protocol">model-context-protocol</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a></p>]]>
+      </description>
+      <source:markdown>**[How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)**
+
+Useful, detailed guide from Shrivu Shankar, a Claude Code power user. Lots of tips for both individual Claude Code usage and configuring it for larger team projects.
+
+I appreciated Shrivu&#39;s take on MCP:
+
+&#62; The &#34;Scripting&#34; model (now formalized by Skills) is better, but it needs a secure way to access the environment. This to me is the new, more focused role for MCP.
+&#62;
+&#62; Instead of a bloated API, an MCP should be a simple, secure gateway that provides a few powerful, high-level tools:
+&#62;
+&#62; - `download_raw_data(filters...)`
+&#62; - `take_sensitive_gated_action(args...)`
+&#62; - `execute_code_in_environment_with_state(code...)`
+&#62;
+&#62; In this model, MCP&#39;s job isn&#39;t to abstract reality for the agent; its job is to manage the auth, networking, and security boundaries and then get out of the way.
+
+This makes a lot of sense to me. Most of my MCP usage with coding agents like Claude Code has been replaced by custom shell scripts for it to execute, but there&#39;s still a useful role for MCP in helping the agent access secure resources in a controlled way.
+
+
+
+Via [Hacker News](https://news.ycombinator.com/item?id=45786738)
+
+Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [model-context-protocol](https://simonwillison.net/tags/model-context-protocol), [coding-agents](https://simonwillison.net/tags/coding-agents), [claude-code](https://simonwillison.net/tags/claude-code)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/2/how-i-use-every-claude-code-feature/#atom-everything</guid>
+    </item>    <item>
+      <title>URGENT: Get Out The Vote for Zohran TOMORROW — Sunday!</title>
+      <link>https://www.michaelmoore.com/p/zohran-gotv</link>
+      <description>
+        <![CDATA[Anyone within driving distance of New York City, we need you for a few hours tomorrow (Sunday)!]]>
+      </description>
+      <source:markdown>Anyone within driving distance of New York City, we need you for a few hours tomorrow (Sunday)!</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!1zKq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F22313548-593d-45d3-b179-3a843439b6ce_2500x3126.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.michaelmoore.com/p/zohran-gotv</guid>
+    </item>    <item>
+      <link>https://snyder.substack.com/p/the-next-terrorist-attack-26b?utm_source=post-email-title&#38;publication_id=310897&#38;post_id=177756091&#38;utm_campaign=email-post-title&#38;isFreemail=true&#38;r=w33x&#38;triedRedirect=true&#38;utm_medium=email</link>
+      <description>
+        <![CDATA[<p>The Next Terrorist Attack.</p>]]>
+      </description>
+      <source:markdown>The Next Terrorist Attack.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/01/1761/</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115477347222376954</link>
+      <description>
+        <![CDATA[<p>And just like that, I have graduated to “better host the teens at home so at least we know where they are” years old.</p>]]>
+      </description>
+      <source:markdown>And just like that, I have graduated to “better host the teens at home so at least we know where they are” years old.</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115477347222376954</guid>
+    </item>    <item>
+      <title>Send by last open or last click date</title>
+      <link>https://buttondown.com/blog/send-by-date</link>
+      <description>
+        <![CDATA[Send by last open or last click date]]>
+      </description>
+      <source:markdown>Send by last open or last click date</source:markdown>
+    </item>    <item>
+      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m4m4hpvxhk2k</link>
+      <description>
+        <![CDATA[Hello, New Jersey! There’s a lot at stake in this election, and I’m here tonight to talk about why @mikiesherrill.bsky.social should be your next Governor. Watch live:
+        https://www.youtube.com/watch?v=IWRosYq4N5I]]>
+      </description>
+      <source:markdown>Hello, New Jersey! There’s a lot at stake in this election, and I’m here tonight to talk about why @mikiesherrill.bsky.social should be your next Governor. Watch live:
+https://www.youtube.com/watch?v=IWRosYq4N5I</source:markdown>
+      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m4m4hpvxhk2k</guid>
+    </item>    <item>
+      <title>Claude Code Can Debug Low-level Cryptography</title>
+      <link>https://simonwillison.net/2025/Nov/1/claude-code-cryptography/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://words.filippo.io/claude-debugging/">Claude Code Can Debug Low-level Cryptography</a></strong></p>
+        Go cryptography author Filippo Valsorda reports on some very positive results applying Claude Code to the challenge of implementing novel cryptography algorithms. After Claude was able to resolve a "fairly complex low-level bug" in fresh code he tried it against two other examples and got positive results both time.</p>
+        <p>Filippo isn't directly using Claude's solutions to the bugs, but is finding it useful for tracking down the cause and saving him a solid amount of debugging work:</p>
+        <blockquote>
+        <p>Three out of three one-shot debugging hits with no help is <em>extremely impressive</em>. Importantly, there is no need to trust the LLM or review its output when its job is just saving me an hour or two by telling me where the bug is, for me to reason about it and fix it.</p>
+        </blockquote>
+        <p>Using coding agents in this way may represent a useful entrypoint for LLM-skeptics who wouldn't <em>dream</em> of letting an autocomplete-machine writing code on their behalf.
+        
+            <p><small></small>Via <a href="https://news.ycombinator.com/item?id=45784179">Hacker News</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/cryptography">cryptography</a>, <a href="https://simonwillison.net/tags/go">go</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/filippo-valsorda">filippo-valsorda</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a></p>]]>
+      </description>
+      <source:markdown>**[Claude Code Can Debug Low-level Cryptography](https://words.filippo.io/claude-debugging/)**
+
+Go cryptography author Filippo Valsorda reports on some very positive results applying Claude Code to the challenge of implementing novel cryptography algorithms. After Claude was able to resolve a &#34;fairly complex low-level bug&#34; in fresh code he tried it against two other examples and got positive results both time.
+
+Filippo isn&#39;t directly using Claude&#39;s solutions to the bugs, but is finding it useful for tracking down the cause and saving him a solid amount of debugging work:
+
+&#62; Three out of three one-shot debugging hits with no help is _extremely impressive_. Importantly, there is no need to trust the LLM or review its output when its job is just saving me an hour or two by telling me where the bug is, for me to reason about it and fix it.
+
+Using coding agents in this way may represent a useful entrypoint for LLM-skeptics who wouldn&#39;t _dream_ of letting an autocomplete-machine writing code on their behalf.
+
+
+
+Via [Hacker News](https://news.ycombinator.com/item?id=45784179)
+
+Tags: [cryptography](https://simonwillison.net/tags/cryptography), [go](https://simonwillison.net/tags/go), [security](https://simonwillison.net/tags/security), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [filippo-valsorda](https://simonwillison.net/tags/filippo-valsorda), [coding-agents](https://simonwillison.net/tags/coding-agents), [claude-code](https://simonwillison.net/tags/claude-code)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/1/claude-code-cryptography/#atom-everything</guid>
+    </item>    <item>
+      <title>October 2025 sponsors-only newsletter</title>
+      <link>https://simonwillison.net/2025/Nov/1/sponsors-only-newsletter/#atom-everything</link>
+      <description>
+        <![CDATA[<p>I just hit send on the October edition of my <a href="https://github.com/sponsors/simonw/">sponsors-only monthly newsletter</a>. If you are a sponsor (or if you start a sponsorship now) you can <a href="https://github.com/simonw-private/monthly/blob/main/2025-10-october.md">access a copy here</a>. In the newsletter this month:</p>
+        <ul>
+        <li>Coding agents and "vibe engineering"</li>
+        <li>Claude Code for web</li>
+        <li>NVIDIA DGX Spark</li>
+        <li>Claude Skills</li>
+        <li>OpenAI DevDay and GitHub Universe</li>
+        <li>Python 3.14</li>
+        <li>October in Chinese Al model releases</li>
+        <li>Miscellaneous extras</li>
+        <li>Tools I'm using at the moment</li>
+        </ul>
+        <p>Here's <a href="https://gist.github.com/simonw/d6d4d86afc0d76767c63f23fc5137030">a copy of the September newsletter</a> as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy!</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/newsletter">newsletter</a></p>]]>
+      </description>
+      <source:markdown>I just hit send on the October edition of my [sponsors-only monthly newsletter](https://github.com/sponsors/simonw/). If you are a sponsor (or if you start a sponsorship now) you can [access a copy here](https://github.com/simonw-private/monthly/blob/main/2025-10-october.md). In the newsletter this month:
+
+- Coding agents and &#34;vibe engineering&#34;
+- Claude Code for web
+- NVIDIA DGX Spark
+- Claude Skills
+- OpenAI DevDay and GitHub Universe
+- Python 3.14
+- October in Chinese Al model releases
+- Miscellaneous extras
+- Tools I&#39;m using at the moment
+
+Here&#39;s [a copy of the September newsletter](https://gist.github.com/simonw/d6d4d86afc0d76767c63f23fc5137030) as a preview of what you&#39;ll get. Pay $10/month to stay a month ahead of the free copy!
+
+Tags: [newsletter](https://simonwillison.net/tags/newsletter)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/1/sponsors-only-newsletter/#atom-everything</guid>
+    </item>    <item>
       <link>https://bsky.app/profile/barackobama.bsky.social/post/3m4lyhfsj622k</link>
       <description>
         <![CDATA[It was great being back in Norfolk to help get out the vote for @abigailspanberger.com for Governor.
@@ -52,6 +286,10 @@ Virginia – Abigail Spanberger cares about your freedoms, she will fight for yo
       <title>Nation’s Top TV Critic Weighs in on Late Night</title>
       <link>https://truthsocial.com/@realDonaldTrump/posts/115476218592581611</link>
       <guid>cid://tag:daringfireball.net,2025:/linked//6.42349</guid>
+    </item>    <item>
+      <title>Uni Watch: 1999–2025</title>
+      <link>https://uni-watch.com/2025/10/31/uni-watch-1999-2025/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42350</guid>
     </item>    <item>
       <link>https://bsky.app/profile/barackobama.bsky.social/post/3m4lpzupnek25</link>
       <description>
@@ -282,7 +520,7 @@ Every time I see pictures of street life in Japan, I’m surprised to see so man
       <enclosure url="https://api.substack.com/feed/podcast/177692871/3c5e48ddabcc7efbd3129fdbce9399d0.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://robertreich.substack.com/p/trick-or-trump-the-coffee-klatch</guid>
     </item>    <item>
-      <title>Trump Can&#39;t Scare Us</title>
+      <title>Trump Can’t Scare Us</title>
       <link>https://robertreich.substack.com/p/trump-cant-scare-us</link>
       <description>
         <![CDATA[A thought for Halloween.]]>
@@ -18767,668 +19005,6 @@ Tags: [slashdot](https://simonwillison.net/tags/slashdot), [ai-ethics](https://s
       <title>Optimizing the Plush Interpreter for Faster Raytracing</title>
       <link>https://pointersgonewild.com/2025-10-12-optimizing-the-plush-interpreter-for-faster-raytracing/</link>
       <guid>cid://https://pointersgonewild.com/2025-10-12-optimizing-the-plush-interpreter-for-faster-raytracing/</guid>
-    </item>    <item>
-      <title>Drata</title>
-      <link>https://drata.com/daring</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42260</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m2xac3eax22r</link>
-      <description>
-        <![CDATA[Something to keep in mind
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <source:markdown>Something to keep in mind
-
-\[contains quote post or other embedded content\]</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m2xac3eax22r</guid>
-    </item>    <item>
-      <title>The Inverse Law of Conference Speaking</title>
-      <link>https://om.co/2025/10/11/the-inverse-law-of-conference-speaking/</link>
-      <description>
-        <![CDATA[When driving down to Stanford earlier this week, a good friend from my Wall Street days, Josh Baylin, called. &#8220;I&#8217;m heading to the&#160;East Coast&#160;for a conference,&#8221; he said. I&#8217;m the guy who starts peppering his friends with questions like a reporter, so I queried him about why he was going, what he wanted to achieve, and who &#8230;]]>
-      </description>
-      <source:markdown>When driving down to Stanford earlier this week, a good friend from my Wall Street days, Josh Baylin, called. “I’m heading to the East Coast for a conference,” he said. I’m the guy who starts peppering his friends with questions like a reporter, so I queried him about why he was going, what he wanted to achieve, and who …</source:markdown>
-      <enclosure url="https://om.co/wp-content/uploads/2025/10/Andy-Bechtolsheim-The-Connected-Future-of-Infrastructre-GigaOM-RoadMap-2011-om7Qp0EdDXk.mp4" length="121498987" type="video/mp4" />
-      <guid>cid://https://om.co/?p=944780</guid>
-    </item>    <item>
-      <title>Claude Code sub-agents</title>
-      <link>https://simonwillison.net/2025/Oct/11/sub-agents/#atom-everything</link>
-      <description>
-        <![CDATA[<p>Claude Code includes the ability to run sub-agents, where a separate agent loop with a fresh token context is dispatched to achieve a goal and report back when it's done. I wrote a bit about how these work <a href="https://simonwillison.net/2025/Jun/2/claude-trace/">in June</a> when I traced Claude Code's activity by intercepting its API calls.</p>
-        <p>I recently learned that you can <em>deliberately</em> trigger Claude Code to use sub-agents just by telling it to do so!</p>
-        <p>Here's an example. I ran this using Claude Code against a fresh checkout of <a href="https://github.com/simonw/datasette">simonw/datasette</a> (commit <code>ec38ad37689f3c14d307770977a17aed5efc5cb9</code>), with no additional custom instructions:</p>
-        <blockquote>
-        <p><code>Write markdown documentation for the context passed to each of the templates in this project. Use sub-agents.</code></p>
-        </blockquote>
-        <p>Here's a snippet of the output:</p>
-        <blockquote>
-        <p>⏺ I'll help you write markdown documentation for the context passed to each template in this project. Let me start by exploring the codebase to understand the template structure and then use sub-agents to document them comprehensively.</p>
-        <pre><code>⏺ Search(pattern: "**/*.html")
-          ⎿  Found 47 files (ctrl+o to expand)
-        
-        ⏺ Search(pattern: "render.*template|render_template")
-          ⎿  Found 16 files (ctrl+o to expand)
-        </code></pre>
-        <p>[...]</p>
-        <p>⏺ Now let me launch sub-agents to analyze different template contexts in parallel:</p>
-        <pre><code>⏺ Task(Document index template context)
-          ⎿  Done (12 tool uses · 86.4k tokens · 1m 13s)
-        
-        ⏺ Task(Document database template context)
-          ⎿  Done (15 tool uses · 55.4k tokens · 1m 41s)
-        
-        ⏺ Task(Document table template context)
-          ⎿  Done (14 tool uses · 85.2k tokens · 1m 44s)
-        
-        ⏺ Task(Document query/row template contexts)
-          ⎿  Done (17 tool uses · 78.7k tokens · 1m 55s)
-        
-        ⏺ Task(Document special template contexts)
-          ⎿  Done (26 tool uses · 116.1k tokens · 1m 50s)
-        </code></pre>
-        </blockquote>
-        <p>It churned away for a couple of minutes (those sub-agents execute in parallel, another benefit of this pattern) and made me this <a href="https://gist.github.com/simonw/5b7d87fe5ffa36e7a4c104fcb18fc097">
-        template_contexts.md
-        </a> markdown file. It's very comprehensive.</p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/sub-agents">sub-agents</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>]]>
-      </description>
-      <source:markdown>Claude Code includes the ability to run sub-agents, where a separate agent loop with a fresh token context is dispatched to achieve a goal and report back when it&#39;s done. I wrote a bit about how these work [in June](https://simonwillison.net/2025/Jun/2/claude-trace/) when I traced Claude Code&#39;s activity by intercepting its API calls.
-
-I recently learned that you can _deliberately_ trigger Claude Code to use sub-agents just by telling it to do so!
-
-Here&#39;s an example. I ran this using Claude Code against a fresh checkout of [simonw/datasette](https://github.com/simonw/datasette) (commit `ec38ad37689f3c14d307770977a17aed5efc5cb9`), with no additional custom instructions:
-
-&#62; `Write markdown documentation for the context passed to each of the templates in this project. Use sub-agents.`
-
-Here&#39;s a snippet of the output:
-
-&#62; ⏺ I&#39;ll help you write markdown documentation for the context passed to each template in this project. Let me start by exploring the codebase to understand the template structure and then use sub-agents to document them comprehensively.
-&#62;
-&#62; ```
-&#62; ⏺ Search(pattern: &#34;**/*.html&#34;)
-&#62;   ⎿  Found 47 files (ctrl+o to expand)
-&#62;
-&#62; ⏺ Search(pattern: &#34;render.*template|render_template&#34;)
-&#62;   ⎿  Found 16 files (ctrl+o to expand)
-&#62;
-&#62; ```
-&#62;
-&#62; \[...\]
-&#62;
-&#62; ⏺ Now let me launch sub-agents to analyze different template contexts in parallel:
-&#62;
-&#62; ```
-&#62; ⏺ Task(Document index template context)
-&#62;   ⎿  Done (12 tool uses · 86.4k tokens · 1m 13s)
-&#62;
-&#62; ⏺ Task(Document database template context)
-&#62;   ⎿  Done (15 tool uses · 55.4k tokens · 1m 41s)
-&#62;
-&#62; ⏺ Task(Document table template context)
-&#62;   ⎿  Done (14 tool uses · 85.2k tokens · 1m 44s)
-&#62;
-&#62; ⏺ Task(Document query/row template contexts)
-&#62;   ⎿  Done (17 tool uses · 78.7k tokens · 1m 55s)
-&#62;
-&#62; ⏺ Task(Document special template contexts)
-&#62;   ⎿  Done (26 tool uses · 116.1k tokens · 1m 50s)
-&#62;
-&#62; ```
-
-It churned away for a couple of minutes (those sub-agents execute in parallel, another benefit of this pattern) and made me this [template\_contexts.md](https://gist.github.com/simonw/5b7d87fe5ffa36e7a4c104fcb18fc097) markdown file. It&#39;s very comprehensive.
-
-Tags: [sub-agents](https://simonwillison.net/tags/sub-agents), [coding-agents](https://simonwillison.net/tags/coding-agents), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [claude-code](https://simonwillison.net/tags/claude-code), [generative-ai](https://simonwillison.net/tags/generative-ai), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/11/sub-agents/#atom-everything</guid>
-    </item>    <item>
-      <link>https://variety.com/gallery/diane-keaton-dies-photos-career/</link>
-      <description>
-        <![CDATA[<p>Diane Keaton: Career in Photos.</p>]]>
-      </description>
-      <source:markdown>Diane Keaton: Career in Photos.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/11/1493/</guid>
-    </item>    <item>
-      <title>Diane Keaton, Oscar-Winning &#38;#8216;Annie Hall&#38;#8217; Star, Dies at 79....</title>
-      <link>https://kottke.org/25/10/0047701-diane-keaton-oscar-winnin</link>
-      <guid>cid://tag:kottke.org,2025://13.47701</guid>
-    </item>    <item>
-      <title>Really? Qatar gets its own air force facility inside the United States? Why?</title>
-      <link>https://robertreich.substack.com/p/really-qatar-gets-its-own-air-force</link>
-      <description>
-        <![CDATA[When Trump is fighting the "enemy within" America and kicking out anyone who can't prove they belong here?]]>
-      </description>
-      <source:markdown>When Trump is fighting the &#34;enemy within&#34; America and kicking out anyone who can&#39;t prove they belong here?</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/801f7ca3-1cd7-46c9-8af6-64f794c087b0_3500x2704.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/really-qatar-gets-its-own-air-force</guid>
-    </item>    <item>
-      <link>https://www.yahoo.com/entertainment/celebrity/articles/diane-keaton-dies-79-190209996.html</link>
-      <description>
-        <![CDATA[<p>Diane Keaton Dies at 79.</p>]]>
-      </description>
-      <source:markdown>Diane Keaton Dies at 79.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/11/1491/</guid>
-    </item>    <item>
-      <title>Research Alt</title>
-      <link>https://blog.jim-nielsen.com/2025/research-alt/</link>
-      <description>
-        <![CDATA[<p><a href="https://adactio.com/journal/22183" >Jeremy imagines a scenario</a> where you’re trying to understand how someone cut themselves with a blade. It’d be hard to know how they cut themselves just by looking at the wound.</p>
-        <blockquote>
-        <p>But if you talk to the person, not only will you find out the reason, you’ll also understand their pain.</p>
-        </blockquote>
-        <p>But what if, hear me out here, instead we manufactured tiny microchips with sensors and embedded them in all blades?</p>
-        <p>Then we program them such that if they break human flesh, we send data — time, location, puncture depth, current blade sharpness, etc. — back to our servers for processing with AI.</p>
-        <p>This data will help us understand — without bias, because humans can’t be trusted — how people cut themselves. </p>
-        <p>Thus our research scales much more dramatically than talking to individual humans, widening our impact on humanity whilst simultaneously improving our product  (and bottom line)!</p>
-        <p>I am accepting venture funds for this research. You can send funds to this bitcoin address: <code>17HzyHWNrdS7GpMArshSBLpJpcvrre93P6</code>.</p>
-        
-            <hr />
-            
-        
-            <p>
-              Reply via:
-              
-        
-              <a
-                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/research-alt/"
-                >Email</a
-              >
-              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
-        
-              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
-            </p>]]>
-      </description>
-      <source:markdown>[Jeremy imagines a scenario](https://adactio.com/journal/22183) where you’re trying to understand how someone cut themselves with a blade. It’d be hard to know how they cut themselves just by looking at the wound.
-
-&#62; But if you talk to the person, not only will you find out the reason, you’ll also understand their pain.
-
-But what if, hear me out here, instead we manufactured tiny microchips with sensors and embedded them in all blades?
-
-Then we program them such that if they break human flesh, we send data — time, location, puncture depth, current blade sharpness, etc. — back to our servers for processing with AI.
-
-This data will help us understand — without bias, because humans can’t be trusted — how people cut themselves.
-
-Thus our research scales much more dramatically than talking to individual humans, widening our impact on humanity whilst simultaneously improving our product (and bottom line)!
-
-I am accepting venture funds for this research. You can send funds to this bitcoin address: `17HzyHWNrdS7GpMArshSBLpJpcvrre93P6`.
-
-* * *
-
-Reply via:
-
-
-[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/research-alt/)
-· [Mastodon](https://mastodon.social/@jimniels) ·
-
-[Bluesky](https://bsky.app/profile/jim-nielsen.com)</source:markdown>
-      <guid>cid://https://blog.jim-nielsen.com/2025/research-alt/</guid>
-    </item>    <item>
-      <title>Faire les choses qu’on veut faire [en]</title>
-      <link>https://climbtothestars.org/archives/2025/10/11/faire-les-choses-quon-veut-faire/</link>
-      <description>
-        <![CDATA[[en] Avec un TDAH, ça revient toujours à ça: on veut faire quelque chose, quelque chose qu’on a envie de faire, pour de vrai, mais on ne le fait pas. C’est la fameuse difficulté d’initiation de tâche. Quand il s’agit de faire le ménage, les impôts ou la vaisselle, tout le monde comprend bien qu&#8217;on &#8230; <a href="https://climbtothestars.org/archives/2025/10/11/faire-les-choses-quon-veut-faire/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Faire les choses qu’on veut faire <span class='bb-lang'>[en]</span></span>"</span></a>]]>
-      </description>
-      <source:markdown>\[en\] Avec un TDAH, ça revient toujours à ça: on veut faire quelque chose, quelque chose qu’on a envie de faire, pour de vrai, mais on ne le fait pas. C’est la fameuse difficulté d’initiation de tâche. Quand il s’agit de faire le ménage, les impôts ou la vaisselle, tout le monde comprend bien qu’on … [Continue reading &#34;Faire les choses qu’on veut faire \[en\]&#34;](https://climbtothestars.org/archives/2025/10/11/faire-les-choses-quon-veut-faire/)</source:markdown>
-      <guid>cid://https://climbtothestars.org/?p=10180</guid>
-    </item>    <item>
-      <title>Apple Has Indefinitely Postponed Jessica Chastain’s Apple TV+ Thriller ‘The Savant’, for Political Reasons</title>
-      <link>https://deadline.com/2025/09/the-savant-jessica-chastain-postponed-apple-1236553658/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42259</guid>
-    </item>    <item>
-      <title>Vibing a Non-Trivial Ghostty Feature</title>
-      <link>https://simonwillison.net/2025/Oct/11/vibing-a-non-trivial-ghostty-feature/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://mitchellh.com/writing/non-trivial-vibing">Vibing a Non-Trivial Ghostty Feature</a></strong></p>
-        Mitchell Hashimoto provides a comprehensive answer to the <em>frequent</em> demand for a detailed description of shipping a non-trivial production feature to an existing project using AI-assistance. In this case it's a slick unobtrusive auto-update UI for his <a href="https://ghostty.org/">Ghostty</a> terminal emulator, written in Swift.</p>
-        <p>Mitchell shares full transcripts of the 16 coding sessions he carried out using <a href="https://ampcode.com/">Amp Code</a> across 2 days and around 8 hours of computer time, at a token cost of $15.98.</p>
-        <p>Amp has the nicest shared transcript feature of any of the coding agent tools, as seen <a href="https://ampcode.com/threads/T-9fc3eb88-5aa2-45e4-8f6d-03697f53102d">in this example</a>. I'd love to see Claude Code and Codex CLI and Gemini CLI and friends imitate this.</p>
-        <p>There are plenty of useful tips in here. I like this note about the importance of a cleanup step:</p>
-        <blockquote>
-        <p>The cleanup step is really important. To cleanup effectively you have to have a pretty good understanding of the code, so this forces me to not blindly accept AI-written code. Subsequently, better organized and documented code helps future agentic sessions perform better.</p>
-        <p>I sometimes tongue-in-cheek refer to this as the "anti-slop session".</p>
-        </blockquote>
-        <p>And this on how sometimes you can write manual code in a way that puts the agent the right track:</p>
-        <blockquote>
-        <p>I spent some time manually restructured the view model. This involved switching to a tagged union rather than the struct with a bunch of optionals. I renamed some types, moved stuff around.</p>
-        <p>I knew from experience that this small bit of manual work in the middle would set the agents up for success in future sessions for both the frontend and backend. After completing it, I continued with a marathon set of cleanup sessions.</p>
-        </blockquote>
-        <p>Here's one of those refactoring prompts:</p>
-        <blockquote>
-        <p><code>Turn each @macos/Sources/Features/Update/UpdatePopoverView.swift case into a dedicated fileprivate Swift view that takes the typed value as its parameter so that we can remove the guards.</code></p>
-        </blockquote>
-        <p>Mitchell advises ending every session with a prompt like this one, asking the agent about any obvious omissions:</p>
-        <blockquote>
-        <p><code>Are there any other improvements you can see to be made with the @macos/Sources/Features/Update feature? Don't write any code. Consult the oracle. Consider parts of the code that can also get more unit tests added.</code></p>
-        </blockquote>
-        <p>("Consult the oracle" is an Amp-specific pattern for running a task through a more expensive, more capable model.)</p>
-        <p>Is this all worthwhile? Mitchell thinks so:</p>
-        <blockquote>
-        <p>Many people on the internet argue whether AI enables you to work faster or not. In this case, I think I shipped this faster than I would have if I had done it all myself, in particular because iterating on minor SwiftUI styling is so tedious and time consuming for me personally and AI does it so well.</p>
-        <p>I think the faster/slower argument for me personally is missing the thing I like the most: the AI can work for me while I step away to do other things.</p>
-        </blockquote>
-        <p>Here's <a href="https://github.com/ghostty-org/ghostty/pull/9116/files">the resulting PR</a>, which touches 21 files.
-        
-            <p><small></small>Via <a href="https://twitter.com/mitchellh/status/1977016133409820684">@mitchellh</a></small></p>
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/mitchell-hashimoto">mitchell-hashimoto</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a></p>]]>
-      </description>
-      <source:markdown>**[Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing)**
-
-Mitchell Hashimoto provides a comprehensive answer to the _frequent_ demand for a detailed description of shipping a non-trivial production feature to an existing project using AI-assistance. In this case it&#39;s a slick unobtrusive auto-update UI for his [Ghostty](https://ghostty.org/) terminal emulator, written in Swift.
-
-Mitchell shares full transcripts of the 16 coding sessions he carried out using [Amp Code](https://ampcode.com/) across 2 days and around 8 hours of computer time, at a token cost of $15.98.
-
-Amp has the nicest shared transcript feature of any of the coding agent tools, as seen [in this example](https://ampcode.com/threads/T-9fc3eb88-5aa2-45e4-8f6d-03697f53102d). I&#39;d love to see Claude Code and Codex CLI and Gemini CLI and friends imitate this.
-
-There are plenty of useful tips in here. I like this note about the importance of a cleanup step:
-
-&#62; The cleanup step is really important. To cleanup effectively you have to have a pretty good understanding of the code, so this forces me to not blindly accept AI-written code. Subsequently, better organized and documented code helps future agentic sessions perform better.
-&#62;
-&#62; I sometimes tongue-in-cheek refer to this as the &#34;anti-slop session&#34;.
-
-And this on how sometimes you can write manual code in a way that puts the agent the right track:
-
-&#62; I spent some time manually restructured the view model. This involved switching to a tagged union rather than the struct with a bunch of optionals. I renamed some types, moved stuff around.
-&#62;
-&#62; I knew from experience that this small bit of manual work in the middle would set the agents up for success in future sessions for both the frontend and backend. After completing it, I continued with a marathon set of cleanup sessions.
-
-Here&#39;s one of those refactoring prompts:
-
-&#62; `Turn each @macos/Sources/Features/Update/UpdatePopoverView.swift case into a dedicated fileprivate Swift view that takes the typed value as its parameter so that we can remove the guards.`
-
-Mitchell advises ending every session with a prompt like this one, asking the agent about any obvious omissions:
-
-&#62; `Are there any other improvements you can see to be made with the @macos/Sources/Features/Update feature? Don&#39;t write any code. Consult the oracle. Consider parts of the code that can also get more unit tests added.`
-
-(&#34;Consult the oracle&#34; is an Amp-specific pattern for running a task through a more expensive, more capable model.)
-
-Is this all worthwhile? Mitchell thinks so:
-
-&#62; Many people on the internet argue whether AI enables you to work faster or not. In this case, I think I shipped this faster than I would have if I had done it all myself, in particular because iterating on minor SwiftUI styling is so tedious and time consuming for me personally and AI does it so well.
-&#62;
-&#62; I think the faster/slower argument for me personally is missing the thing I like the most: the AI can work for me while I step away to do other things.
-
-Here&#39;s [the resulting PR](https://github.com/ghostty-org/ghostty/pull/9116/files), which touches 21 files.
-
-
-
-Via [@mitchellh](https://twitter.com/mitchellh/status/1977016133409820684)
-
-Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [mitchell-hashimoto](https://simonwillison.net/tags/mitchell-hashimoto), [coding-agents](https://simonwillison.net/tags/coding-agents)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/11/vibing-a-non-trivial-ghostty-feature/#atom-everything</guid>
-    </item>    <item>
-      <title>Saul Zabar, Smoked Fish Czar of Upper West Side, Dies at 97</title>
-      <link>https://www.nytimes.com/2025/10/07/dining/saul-zabar-dead.html</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42258</guid>
-    </item>    <item>
-      <link>https://www.nbcnews.com/news/us-news/dancing-frogs-unicorns-protest-portland-war-zone-rcna236887</link>
-      <description>
-        <![CDATA[<p>Costumed protesters in Portland defy description of the city as a 'war zone.'</p>]]>
-      </description>
-      <source:markdown>Costumed protesters in Portland defy description of the city as a &#39;war zone.&#39;</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/11/1489/</guid>
-    </item>    <item>
-      <title>It Was Just An Accident (BIFF 11): la venganza como justicia</title>
-      <link>https://www.palomitademaiz.net/resenas-it-was-just-an-accident-biff-11/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-it-was-just-an-accident-biff-11</link>
-      <description>
-        <![CDATA[<p>Sección: Masters. Dirección: Jafar Panahi. Guion: Jafar Panahi. Elenco: Vahid Mobasseri, Mariam Afshari, Ebrahim Azizi, Hadis Pakbaten, Majid Panah y Mohamad Ali Elyasmehr. Países: Irán, Francia y Luxemburgo. Más información de la película: https://www.imdb.com/title/tt36491653/ Dado que la venganza es comúnmente vista como un acto inmoral, muchos expresan entendimiento, pero piden pensar las cosas “con cabeza [&#8230;]</p>
-        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-it-was-just-an-accident-biff-11/">It Was Just An Accident (BIFF 11): la venganza como justicia</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
-      </description>
-      <source:markdown>Sección: Masters. Dirección: Jafar Panahi. Guion: Jafar Panahi. Elenco: Vahid Mobasseri, Mariam Afshari, Ebrahim Azizi, Hadis Pakbaten, Majid Panah y Mohamad Ali Elyasmehr. Países: Irán, Francia y Luxemburgo. Más información de la película: https://www.imdb.com/title/tt36491653/ Dado que la venganza es comúnmente vista como un acto inmoral, muchos expresan entendimiento, pero piden pensar las cosas “con cabeza \[…\]
-
-La entrada [It Was Just An Accident (BIFF 11): la venganza como justicia](https://www.palomitademaiz.net/resenas-it-was-just-an-accident-biff-11/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
-      <guid>cid://https://www.palomitademaiz.net/?p=25630</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/10/11.html#a150646</link>
-      <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/03/shootThisDog.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm narrating development work on my <a href="https://daveverse.org/">Daveverse</a> site. If you're interested, that's where I've been while I'm shaking out core bugs in the new WordLand. These are the things I want to stay fixed and never have to screw with again. It does actually work that way in products that go through a shake-out process. <a href="http://drummer.land/">Drummer</a> and <a href="https://feedland.org/">FeedLand</a> both work pretty well. Sure there are bugs and things I wish worked differently, but I and a few other people use them as everyday tools. I'm trying to get WordLand with its timeline function to be that way. A bunch of new hookups via HTTP and Websockets.]]>
-      </description>
-      <source:markdown>![](https://imgs.scripting.com/2024/05/03/shootThisDog.png)I&#39;m narrating development work on my [Daveverse](https://daveverse.org/) site. If you&#39;re interested, that&#39;s where I&#39;ve been while I&#39;m shaking out core bugs in the new WordLand. These are the things I want to stay fixed and never have to screw with again. It does actually work that way in products that go through a shake-out process. [Drummer](http://drummer.land/) and [FeedLand](https://feedland.org/) both work pretty well. Sure there are bugs and things I wish worked differently, but I and a few other people use them as everyday tools. I&#39;m trying to get WordLand with its timeline function to be that way. A bunch of new hookups via HTTP and Websockets.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/11.html#a150646</guid>
-    </item>    <item>
-      <title>Amazon Hamfistedly Removed the Guns From Prime’s James Bond Movie Posters</title>
-      <link>https://www.darkhorizons.com/amazon-fixes-james-bond-art-sort-of/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42257</guid>
-    </item>    <item>
-      <title>Create a Phishy URL</title>
-      <link>https://phishyurl.com/</link>
-      <description>
-        <![CDATA[<p>A URL shortener that&#8217;s dodgy by design.</p>
-        
-        <p><a href="https://adactio.com/links/22184">adactio.com/links/22184</a></p>]]>
-      </description>
-      <source:markdown>A URL shortener that’s dodgy by design.
-
-[adactio.com/links/22184](https://adactio.com/links/22184)</source:markdown>
-      <guid>cid://https://phishyurl.com/</guid>
-    </item>    <item>
-      <title>Research</title>
-      <link>https://adactio.com/journal/22183</link>
-      <description>
-        <![CDATA[<p>Suppose somebody is using a blade. Perhaps they’re in the bathroom, shaving. Or maybe they’re in the kitchen, preparing food.</p>
-        
-        <p>Suppose they cut themselves with that blade. This might have happened because the blade was too sharp. Or perhaps the blade was too dull.</p>
-        
-        <p>Either way, it’s going to be tricky to figure out the reason just by looking at the wound.</p>
-        
-        <p>But if you talk to the person, not only will you find out the reason, you’ll also understand their pain.</p>]]>
-      </description>
-      <source:markdown>Suppose somebody is using a blade. Perhaps they’re in the bathroom, shaving. Or maybe they’re in the kitchen, preparing food.
-
-Suppose they cut themselves with that blade. This might have happened because the blade was too sharp. Or perhaps the blade was too dull.
-
-Either way, it’s going to be tricky to figure out the reason just by looking at the wound.
-
-But if you talk to the person, not only will you find out the reason, you’ll also understand their pain.</source:markdown>
-      <guid>cid://https://adactio.com/journal/22183</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115355788211133970</link>
-      <description>
-        <![CDATA[<p>Nice way to start the day:</p>]]>
-      </description>
-      <source:markdown>Nice way to start the day:</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115355788211133970</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m2waufdcj22l</link>
-      <description>
-        <![CDATA[I recently sat down with three leaders who are part of the @obamafoundation.bsky.social's alumni network to hear more about their work to strengthen democracy in Hungary and Poland. They’re an example for us all. Take a look:]]>
-      </description>
-      <source:markdown>I recently sat down with three leaders who are part of the @obamafoundation.bsky.social&#39;s alumni network to hear more about their work to strengthen democracy in Hungary and Poland. They’re an example for us all. Take a look:</source:markdown>
-      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m2waufdcj22l</guid>
-    </item>    <item>
-      <title>Mole-Rats Could Hold the Key to Living Longer</title>
-      <link>https://www.404media.co/mole-rats-could-hold-the-key-to-living-longer/</link>
-      <description>
-        <![CDATA[Plus, when did claret get so good and why did Shackleton's ship Endurance sink? Historical updates aplenty.]]>
-      </description>
-      <source:markdown>Plus, when did claret get so good and why did Shackleton&#39;s ship Endurance sink? Historical updates aplenty.</source:markdown>
-      <guid>cid://68e93d2d1c617200016055a3</guid>
-    </item>    <item>
-      <title>Note on 11th October 2025</title>
-      <link>https://simonwillison.net/2025/Oct/11/uncomfortable/#atom-everything</link>
-      <description>
-        <![CDATA[<p>I'm beginning to suspect that a key skill in working effectively with coding agents is developing an intuition for when you <em>don't</em> need to closely review every line of code they produce. This feels deeply uncomfortable!</p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>]]>
-      </description>
-      <source:markdown>I&#39;m beginning to suspect that a key skill in working effectively with coding agents is developing an intuition for when you _don&#39;t_ need to closely review every line of code they produce. This feels deeply uncomfortable!
-
-Tags: [vibe-coding](https://simonwillison.net/tags/vibe-coding), [coding-agents](https://simonwillison.net/tags/coding-agents), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [generative-ai](https://simonwillison.net/tags/generative-ai), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/11/uncomfortable/#atom-everything</guid>
-    </item>    <item>
-      <link>https://tilde.zone/@tomasino/115355261364809101</link>
-      <description>
-        <![CDATA[<p>Ok, so you know how sometimes you're in the middle of a joke and you start riffing off other people and it spirals into more and more nonsense and your cackling to yourself like an old witch in the woods over her cauldron, but then someone else comes along loving the vibe and wanting to get in on it, but there's no clear road left to take and let them join you, so you paraphrase more nonsense and everyone is confused and trying to play along and you are now lost in a broken thread of hilarity in which only you and your broken sense of humor coexist?</p><p>Well, I may have accidentally written an epic poem in the style of the Icelandic Völuspá about butter, Babylon, and sexagesimal number systems. It's not funny, and you really shouldn't bother yourselves reading it.</p><p><a href="https://wiki.tomasino.org/writing/Smjorspa" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">wiki.tomasino.org/writing/Smjo</span><span class="invisible">rspa</span></a></p>]]>
-      </description>
-      <source:markdown>Ok, so you know how sometimes you&#39;re in the middle of a joke and you start riffing off other people and it spirals into more and more nonsense and your cackling to yourself like an old witch in the woods over her cauldron, but then someone else comes along loving the vibe and wanting to get in on it, but there&#39;s no clear road left to take and let them join you, so you paraphrase more nonsense and everyone is confused and trying to play along and you are now lost in a broken thread of hilarity in which only you and your broken sense of humor coexist?
-
-Well, I may have accidentally written an epic poem in the style of the Icelandic Völuspá about butter, Babylon, and sexagesimal number systems. It&#39;s not funny, and you really shouldn&#39;t bother yourselves reading it.
-
-[https://wiki.tomasino.org/writing/Smjorspa](https://wiki.tomasino.org/writing/Smjorspa)</source:markdown>
-      <guid>cid://https://tilde.zone/@tomasino/115355261364809101</guid>
-    </item>    <item>
-      <title>Talking AI With Martin Wolf</title>
-      <link>https://paulkrugman.substack.com/p/talking-ai-with-martin-wolf</link>
-      <description>
-        <![CDATA[In which we admit to being confused]]>
-      </description>
-      <source:markdown>In which we admit to being confused</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!zu9Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6be7b3a2-e37e-462e-bbf9-c4c142a796ca_1080x1080.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/talking-ai-with-martin-wolf</guid>
-    </item>    <item>
-      <title>Lit Hub Weekly: October 6 – October 10, 2025</title>
-      <link>https://lithub.com/lit-hub-weekly-october-6-october-10-2025/</link>
-      <description>
-        <![CDATA[What a 1977 Czech writers’ manifesto can teach us about “America’s decades-long drift into authoritarianism.” &#124; Lit Hub Politics “Pynchon’s United States is never black and white&#8230; It’s in the struggle against the cops, it’s in the fight between boss]]>
-      </description>
-      <source:markdown>What a 1977 Czech writers’ manifesto can teach us about “America’s decades-long drift into authoritarianism.” \| Lit Hub Politics “Pynchon’s United States is never black and white… It’s in the struggle against the cops, it’s in the fight between boss</source:markdown>
-      <guid>cid://https://lithub.com/?p=260985</guid>
-    </item>    <item>
-      <title>Vrac avant reprise de travail [fr]</title>
-      <link>https://climbtothestars.org/archives/2025/10/11/vrac-avant-reprise-de-travail/</link>
-      <description>
-        <![CDATA[[fr] Je peine à trouver du temps pour écrire, ça c&#8217;est pas nouveau. Ce qui est nouveau, c&#8217;est que je me suis rendu compte, ces derniers jours, que quand j&#8217;écris pas il y a une sorte d&#8217;accumulation de charge mentale qui se crée. Pas juste de &#8220;l&#8217;activité d&#8217;écriture&#8221; remise encore et encore à plus tard, &#8230; <a href="https://climbtothestars.org/archives/2025/10/11/vrac-avant-reprise-de-travail/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='fr'>Vrac avant reprise de travail <span class='bb-lang'>[fr]</span></span>"</span></a>]]>
-      </description>
-      <source:markdown>\[fr\] Je peine à trouver du temps pour écrire, ça c’est pas nouveau. Ce qui est nouveau, c’est que je me suis rendu compte, ces derniers jours, que quand j’écris pas il y a une sorte d’accumulation de charge mentale qui se crée. Pas juste de “l’activité d’écriture” remise encore et encore à plus tard, … [Continue reading &#34;Vrac avant reprise de travail \[fr\]&#34;](https://climbtothestars.org/archives/2025/10/11/vrac-avant-reprise-de-travail/)</source:markdown>
-      <guid>cid://https://climbtothestars.org/?p=10174</guid>
-    </item>    <item>
-      <link>https://kansasreflector.com/2025/10/11/in-1776-thomas-paine-made-the-best-case-for-fighting-kings-and-for-being-skeptical/</link>
-      <description>
-        <![CDATA[<p>In 1776, Thomas Paine made the best case for fighting kings — and for being skeptical.</p>]]>
-      </description>
-      <source:markdown>In 1776, Thomas Paine made the best case for fighting kings — and for being skeptical.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/11/1487/</guid>
-    </item>    <item>
-      <title>Trump’s War on America | The Coffee Klatch for October 11, 2025</title>
-      <link>https://robertreich.substack.com/p/trumps-war-on-america-the-coffee</link>
-      <description>
-        <![CDATA[With Heather Lofthouse and yours truly, Robert Reich]]>
-      </description>
-      <source:markdown>With Heather Lofthouse and yours truly, Robert Reich</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/175838542/050e436b780f36caf8c3412692abb2bd.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://robertreich.substack.com/p/trumps-war-on-america-the-coffee</guid>
-    </item>    <item>
-      <link>https://newrepublic.com/post/201625/trump-fascism-memo-future-historians</link>
-      <description>
-        <![CDATA[<p>Memo to Future Historians: This Is Fascism, and Millions of Us See It.</p>]]>
-      </description>
-      <source:markdown>Memo to Future Historians: This Is Fascism, and Millions of Us See It.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/11/1485/</guid>
-    </item>    <item>
-      <title>October 10, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/october-10-2025</link>
-      <description>
-        <![CDATA[All of President Donald J.]]>
-      </description>
-      <source:markdown>All of President Donald J.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/october-10-2025</guid>
-    </item>    <item>
-      <title>Weeknotes: Oct. 4-10, 2025</title>
-      <link>https://tracydurnell.com/2025/10/10/weeknotes-oct-4-10-2025/</link>
-      <description>
-        <![CDATA[Highlight of the week: bobcats!!! Looking forward to: I remembered that Seattle Restaurant Week is a thing, so I&#8217;m going to pick out a nice place to go for a belated birthday dinner at the end of the month (we rarely venture into Seattle proper) Stuff I did: 4 hours consulting 3.75 hours writing &#8212; painful [&#8230;]]]>
-      </description>
-      <source:markdown>Highlight of the week: bobcats!!! Looking forward to: I remembered that Seattle Restaurant Week is a thing, so I’m going to pick out a nice place to go for a belated birthday dinner at the end of the month (we rarely venture into Seattle proper) Stuff I did: 4 hours consulting 3.75 hours writing — painful \[…\]</source:markdown>
-      <enclosure url="http://tracydurnell.com/wp-content/uploads/2025/10/mother-and-cub-bobcat-drinking-from-bird-bath-Oct-2025-compressed.mp4" length="16085468" type="video/mp4" />
-      <guid>cid://https://tracydurnell.com/?p=30404</guid>
-    </item>    <item>
-      <title>Question: my site’s not indexed but I’m getting referrals from Google</title>
-      <link>https://tracydurnell.com/2025/10/10/question-my-sites-not-indexed-but-im-getting-referrals-from-google/</link>
-      <description>
-        <![CDATA[I attempted to post this request for help on Google Search Console Help (without links and asides) and it somehow violates their community guidelines? If you&#8217;re knowledgeable about AWStats or bots I would be grateful for your input! 😄 I do not want my personal website indexed &#8212; most importantly, I do not want my site [&#8230;]]]>
-      </description>
-      <source:markdown>I attempted to post this request for help on Google Search Console Help (without links and asides) and it somehow violates their community guidelines? If you’re knowledgeable about AWStats or bots I would be grateful for your input! 😄 I do not want my personal website indexed — most importantly, I do not want my site \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=30554</guid>
-    </item>    <item>
-      <title>An MVCC-like columnar table on S3 with constant-time deletes</title>
-      <link>https://simonwillison.net/2025/Oct/11/mvcc-s3/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://www.shayon.dev/post/2025/277/an-mvcc-like-columnar-table-on-s3-with-constant-time-deletes/">An MVCC-like columnar table on S3 with constant-time deletes</a></strong></p>
-        s3's support for conditional writes (<a href="https://simonwillison.net/2024/Nov/26/s3-conditional-writes/">previously</a>) makes it an interesting, scalable and often inexpensive platform for all kinds of database patterns.</p>
-        <p>Shayon Mukherjee presents an ingenious design for a Parquet-backed database in S3 which accepts concurrent writes, presents a single atomic view for readers and even supports reliable row deletion despite Parquet requiring a complete file rewrite in order to remove data.</p>
-        <p>The key to the design is a <code>_latest_manifest</code> JSON file at the top of the bucket, containing an integer version number. Clients use compare-and-swap to increment that version - only one client can succeed at this, so the incremented version they get back is guaranteed unique to them.</p>
-        <p>Having reserved a version number the client can write a unique manifest file for that version - <code>manifest/v00000123.json</code> - with a more complex data structure referencing the current versions of every persisted file, including the one they just uploaded.</p>
-        <p>Deleted rows are written to tombstone files as either a list of primary keys or a list of of ranges. Clients consult these when executing reads, filtering out deleted rows as part of resolving a query.</p>
-        <p>The pricing estimates are especially noteworthy:</p>
-        <blockquote>
-        <p>For a workload ingesting 6 TB/day with 2 TB of deletes and 50K queries/day:</p>
-        <ul>
-        <li>PUT requests: ~380K/day (≈4 req/s) = $1.88/day</li>
-        <li>GET requests: highly variable, depends on partitioning effectiveness<ul>
-        <li>Best case (good time-based partitioning): ~100K-200K/day = $0.04-$0.08/day</li>
-        <li>Worst case (poor partitioning, scanning many files): ~2M/day = $0.80/day</li>
-        </ul>
-        </li>
-        </ul>
-        </blockquote>
-        <p>~$3/day for ingesting 6TB of data is pretty fantastic!</p>
-        <p>Watch out for storage costs though - each new TB of data at $0.023/GB/month adds $23.55 to the ongoing monthly bill.
-        
-            <p><small></small>Via <a href="https://news.ycombinator.com/item?id=45493158">Hacked News</a></small></p>
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/aws">aws</a>, <a href="https://simonwillison.net/tags/databases">databases</a>, <a href="https://simonwillison.net/tags/s3">s3</a>, <a href="https://simonwillison.net/tags/parquet">parquet</a></p>]]>
-      </description>
-      <source:markdown>**[An MVCC-like columnar table on S3 with constant-time deletes](https://www.shayon.dev/post/2025/277/an-mvcc-like-columnar-table-on-s3-with-constant-time-deletes/)**
-
-s3&#39;s support for conditional writes ( [previously](https://simonwillison.net/2024/Nov/26/s3-conditional-writes/)) makes it an interesting, scalable and often inexpensive platform for all kinds of database patterns.
-
-Shayon Mukherjee presents an ingenious design for a Parquet-backed database in S3 which accepts concurrent writes, presents a single atomic view for readers and even supports reliable row deletion despite Parquet requiring a complete file rewrite in order to remove data.
-
-The key to the design is a `_latest_manifest` JSON file at the top of the bucket, containing an integer version number. Clients use compare-and-swap to increment that version - only one client can succeed at this, so the incremented version they get back is guaranteed unique to them.
-
-Having reserved a version number the client can write a unique manifest file for that version - `manifest/v00000123.json` \- with a more complex data structure referencing the current versions of every persisted file, including the one they just uploaded.
-
-Deleted rows are written to tombstone files as either a list of primary keys or a list of of ranges. Clients consult these when executing reads, filtering out deleted rows as part of resolving a query.
-
-The pricing estimates are especially noteworthy:
-
-&#62; For a workload ingesting 6 TB/day with 2 TB of deletes and 50K queries/day:
-&#62;
-&#62; - PUT requests: ~380K/day (≈4 req/s) = $1.88/day
-&#62; - GET requests: highly variable, depends on partitioning effectiveness
-&#62;   - Best case (good time-based partitioning): ~100K-200K/day = $0.04-$0.08/day
-&#62;   - Worst case (poor partitioning, scanning many files): ~2M/day = $0.80/day
-
-~$3/day for ingesting 6TB of data is pretty fantastic!
-
-Watch out for storage costs though - each new TB of data at $0.023/GB/month adds $23.55 to the ongoing monthly bill.
-
-
-
-Via [Hacked News](https://news.ycombinator.com/item?id=45493158)
-
-Tags: [aws](https://simonwillison.net/tags/aws), [databases](https://simonwillison.net/tags/databases), [s3](https://simonwillison.net/tags/s3), [parquet](https://simonwillison.net/tags/parquet)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/11/mvcc-s3/#atom-everything</guid>
-    </item>    <item>
-      <title>How to tame a user interface using a spreadsheet</title>
-      <link>https://blog.gingerbeardman.com/2025/10/11/how-to-tame-a-user-interface-using-a-spreadsheet/</link>
-      <description>
-        <![CDATA[<p>Many years ago, while working at Apple and running a lab at WWDC, I met a guy who was using a piece of <a href="https://en.wikipedia.org/wiki/IAd_Producer">Apple software designed for creating interactive ads</a> to design a Car Play user interface for a popular US car manufacturer. I was impressed by his ability to think outside the box and told him so. I mentioned to him how human interface designers at Apple <a href="https://www.youtube.com/watch?v=DGn7BcFGigc&amp;t=474s">were using Keynote to rapidly prototype user interfaces and animations</a>. The discussion then took a strange turn onto spreadsheets.</p>
-        
-        <hr />
-        
-        <h2 id="spreadsheets">Spreadsheets?</h2>
-        
-        <p>In my opinion, spreadsheets are one of the greatest user interface design tools ever created. I believe that the most effective tool for a job is one that gets out of the way as much as possible. Even better if it’s a tool that you already have access to, or at the very least, can use at no cost.</p>
-        
-        <p>Before you have time to load up Figma, Sketch, Photoshop, or any other design software, I’ll have already typed in my content placeholders in a spreadsheet and be most of my way towards a solution. I’ll be merging and moving cells at lightning speed—rationalising layouts, determining the optimal use of space, and creating order out of chaos.</p>
-        
-        <p>The purpose of using a tool that may seem ill-suited to the task at hand—designing user interfaces—is to liberate yourself from the clutter or baggage of content and style. This allows you to focus solely on layout, positioning, and hierarchy. You don’t have to worry about type sizes, or get bogged down with software choices. You can quickly adjust the size or structure of the screen by adding/removing rows/columns. With a spreadsheet, it’s just the keyboard between you and the perfect layout.</p>
-        
-        <hr />
-        
-        <h2 id="lets-take-your-brain-to-another-dimension">Let’s take your brain to another dimension</h2>
-        
-        <p>One frequent criticism of spreadsheets is that they are “only 2D” or that a grid isn’t versatile enough to solve your problem. But if you pay close attention, you’ll realise that spreadsheets can occupy as many dimensions as you require by using multiple sheets. Like the stack of ledger paper that was used before spreadsheets were invented. An episode of The Computer Chronicles called “The Spreadsheet Wars” aired in 1988 and has a great <a href="https://youtu.be/eAiZBUYNUBA?si=TMiXXLj1gtFwZQkp&amp;t=1154">demo of spreadsheet software Lotus 1-2-3 doing 3D spreadsheet manipulation</a> in ways that are still impressive several decades later.</p>
-        
-        <p><a href="https://archive.org/details/GridSystemsInGraphicDesignJosefMullerBrockmann">Grid systems are well known across many fields of design</a> for being a huge assist when solving layouts and rationalising problems. The grid enforces structure invisibly during the design process. A spreadsheet is a highly configurable grid system that is ready to be put to work on your problem!</p>
-        
-        <p>You might also consider the use of plain paper, graph paper, and a bitmap editor. Which might be best suited for sketching out a quick icon idea? It’s easy to understand that graph paper is more suitable than plain paper for drawing images made up of pixels, and in many situations it may be quicker and more suitable than a bitmap editor. <a href="https://www.moma.org/collection/works/188382?artist_id=38483&amp;page=1&amp;sov_referrer=artist">Susan Kare famously used a book of grid/graph paper to draw many early Macintosh icons</a> because icon creation software had yet to be invented.</p>
-        
-        <h2 id="theres-an-app-for-that">There’s an app for that</h2>
-        
-        <p>I use Apple Numbers to do most of my spreadsheet work, because it’s the one that I have easiest access to most of the time—it’s installed on both my Mac and iPhone. You might want to use Google Sheets, Microsoft Excel, or even a simpler table tool like <a href="https://smoothcsv.com">SmoothCSV</a>. There is no wrong choice.</p>
-        
-        <p>Here are some examples of layouts I’ve solved using a spreadsheet.</p>
-        
-        <hr />
-        
-        <h2 id="yoyozo">YOYOZO</h2>
-        
-        <p>Perhaps my most famous example is the stats screen of <a href="/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/">my hit game <em>YOYOZO</em></a>. With this one I already had a TTF font file that I’d created for the manual, so I went the extra mile and planned a pixel perfect layout in the right colours and everything. A fun fact you might not know: <em>YOYOZO</em> was featured in Ars Technica’s “Best Games of 2023” list, alongside Mario and Zelda. This spreadsheet thing is great!</p>
-        
-        <p class="tofigure"><img src="https://cdn.gingerbeardman.com/images/posts/spreadsheet-ui-yoyozo.png" alt="IMG" title="Pixel perfect precision using the exact font" /></p>
-        
-        <hr />
-        
-        <h2 id="enhanced-sfxr">Enhanced sfxr</h2>
-        
-        <p>This year I’ve made two enhanced versions of sfxr—<a href="https://gingerbeardman.itch.io/enhanced-sfxr-for-love2d">one for Love2D</a> and <a href="https://twitter.com/search?q=from%3Agingerbeardman%20sfxr&amp;src=typed_query&amp;f=live">one for macOS</a>—and I can’t remember which one this was done for. I usually get rid of the header rows and columns but in this instance they acted as sidebar and title bar. Regardless, whilst it might not look like much this sort of pre-planning and organisation saved a ton of time when I was working on the app. It involved no code and was done in a minute or two!</p>
-        
-        <p class="tofigure"><img src="https://cdn.gingerbeardman.com/images/posts/spreadsheet-ui-sfxr.png" alt="IMG" title="Organising the large components that make up the window" /></p>
-        
-        <hr />
-        
-        <h2 id="spindle">Spindle</h2>
-        
-        <p>Another of my “coming soon” apps is <a href="https://twitter.com/search?q=from:gingerbeardman%20spindle&amp;src=typed_query&amp;f=live">an optical media dumper whose USP is its ability to dump from multiple drives at the same time</a>. I wanted a UI that would stay mostly the same across both the setup and dumping states, and also that was easily repeatable when additional drives duplicate the app UI. The benefit of working with a grid here is that it was 1:1 transferrable to SwiftUI grid system!</p>
-        
-        <p class="tofigure"><img src="https://cdn.gingerbeardman.com/images/posts/spreadsheet-ui-spindle.png" alt="IMG" title="Two states of the same interface showing what changes and what remains the same" /></p>
-        
-        <hr />
-        
-        <h2 id="driving-game">Driving Game</h2>
-        
-        <p>This final one is an example of a racing game. Something that you might already be more familiar with and so be able to figure out how you can apply the technique to your own work. Something like Mario Kart, F-Zero, Colin McRae Rally, or WipEout. Let’s go!</p>
-        
-        <p class="tofigure"><img src="https://cdn.gingerbeardman.com/images/posts/spreadsheet-ui-racer.png" alt="IMG" title="A fairly standard driving/racing game head up display" /></p>]]>
-      </description>
-      <source:markdown>Many years ago, while working at Apple and running a lab at WWDC, I met a guy who was using a piece of [Apple software designed for creating interactive ads](https://en.wikipedia.org/wiki/IAd_Producer) to design a Car Play user interface for a popular US car manufacturer. I was impressed by his ability to think outside the box and told him so. I mentioned to him how human interface designers at Apple [were using Keynote to rapidly prototype user interfaces and animations](https://www.youtube.com/watch?v=DGn7BcFGigc&#38;t=474s). The discussion then took a strange turn onto spreadsheets.
-
-* * *
-
-## Spreadsheets?
-
-In my opinion, spreadsheets are one of the greatest user interface design tools ever created. I believe that the most effective tool for a job is one that gets out of the way as much as possible. Even better if it’s a tool that you already have access to, or at the very least, can use at no cost.
-
-Before you have time to load up Figma, Sketch, Photoshop, or any other design software, I’ll have already typed in my content placeholders in a spreadsheet and be most of my way towards a solution. I’ll be merging and moving cells at lightning speed—rationalising layouts, determining the optimal use of space, and creating order out of chaos.
-
-The purpose of using a tool that may seem ill-suited to the task at hand—designing user interfaces—is to liberate yourself from the clutter or baggage of content and style. This allows you to focus solely on layout, positioning, and hierarchy. You don’t have to worry about type sizes, or get bogged down with software choices. You can quickly adjust the size or structure of the screen by adding/removing rows/columns. With a spreadsheet, it’s just the keyboard between you and the perfect layout.
-
-* * *
-
-## Let’s take your brain to another dimension
-
-One frequent criticism of spreadsheets is that they are “only 2D” or that a grid isn’t versatile enough to solve your problem. But if you pay close attention, you’ll realise that spreadsheets can occupy as many dimensions as you require by using multiple sheets. Like the stack of ledger paper that was used before spreadsheets were invented. An episode of The Computer Chronicles called “The Spreadsheet Wars” aired in 1988 and has a great [demo of spreadsheet software Lotus 1-2-3 doing 3D spreadsheet manipulation](https://youtu.be/eAiZBUYNUBA?si=TMiXXLj1gtFwZQkp&#38;t=1154) in ways that are still impressive several decades later.
-
-[Grid systems are well known across many fields of design](https://archive.org/details/GridSystemsInGraphicDesignJosefMullerBrockmann) for being a huge assist when solving layouts and rationalising problems. The grid enforces structure invisibly during the design process. A spreadsheet is a highly configurable grid system that is ready to be put to work on your problem!
-
-You might also consider the use of plain paper, graph paper, and a bitmap editor. Which might be best suited for sketching out a quick icon idea? It’s easy to understand that graph paper is more suitable than plain paper for drawing images made up of pixels, and in many situations it may be quicker and more suitable than a bitmap editor. [Susan Kare famously used a book of grid/graph paper to draw many early Macintosh icons](https://www.moma.org/collection/works/188382?artist_id=38483&#38;page=1&#38;sov_referrer=artist) because icon creation software had yet to be invented.
-
-## There’s an app for that
-
-I use Apple Numbers to do most of my spreadsheet work, because it’s the one that I have easiest access to most of the time—it’s installed on both my Mac and iPhone. You might want to use Google Sheets, Microsoft Excel, or even a simpler table tool like [SmoothCSV](https://smoothcsv.com). There is no wrong choice.
-
-Here are some examples of layouts I’ve solved using a spreadsheet.
-
-* * *
-
-## YOYOZO
-
-Perhaps my most famous example is the stats screen of [my hit game _YOYOZO_](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/). With this one I already had a TTF font file that I’d created for the manual, so I went the extra mile and planned a pixel perfect layout in the right colours and everything. A fun fact you might not know: _YOYOZO_ was featured in Ars Technica’s “Best Games of 2023” list, alongside Mario and Zelda. This spreadsheet thing is great!
-
-![IMG](https://cdn.gingerbeardman.com/images/posts/spreadsheet-ui-yoyozo.png)
-
-* * *
-
-## Enhanced sfxr
-
-This year I’ve made two enhanced versions of sfxr— [one for Love2D](https://gingerbeardman.itch.io/enhanced-sfxr-for-love2d) and [one for macOS](https://twitter.com/search?q=from%3Agingerbeardman%20sfxr&#38;src=typed_query&#38;f=live)—and I can’t remember which one this was done for. I usually get rid of the header rows and columns but in this instance they acted as sidebar and title bar. Regardless, whilst it might not look like much this sort of pre-planning and organisation saved a ton of time when I was working on the app. It involved no code and was done in a minute or two!
-
-![IMG](https://cdn.gingerbeardman.com/images/posts/spreadsheet-ui-sfxr.png)
-
-* * *
-
-## Spindle
-
-Another of my “coming soon” apps is [an optical media dumper whose USP is its ability to dump from multiple drives at the same time](https://twitter.com/search?q=from:gingerbeardman%20spindle&#38;src=typed_query&#38;f=live). I wanted a UI that would stay mostly the same across both the setup and dumping states, and also that was easily repeatable when additional drives duplicate the app UI. The benefit of working with a grid here is that it was 1:1 transferrable to SwiftUI grid system!
-
-![IMG](https://cdn.gingerbeardman.com/images/posts/spreadsheet-ui-spindle.png)
-
-* * *
-
-## Driving Game
-
-This final one is an example of a racing game. Something that you might already be more familiar with and so be able to figure out how you can apply the technique to your own work. Something like Mario Kart, F-Zero, Colin McRae Rally, or WipEout. Let’s go!
-
-![IMG](https://cdn.gingerbeardman.com/images/posts/spreadsheet-ui-racer.png)</source:markdown>
-      <guid>cid://https://blog.gingerbeardman.com/2025/10/11/how-to-tame-a-user-interface-using-a-spreadsheet/</guid>
-    </item>    <item>
-      <title>The App Store Was Always Authoritarian</title>
-      <link>https://infrequently.org/2025/10/the-app-store-was-always-authoritarian/</link>
-      <guid>cid://https://infrequently.org/2025/10/the-app-store-was-always-authoritarian/</guid>
     </item>
   </channel>
 </rss>
