@@ -4,10 +4,538 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>02 Nov 25 15:10 -0800</lastBuildDate>
+    <lastBuildDate>03 Nov 25 06:12 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>heise+ | Gezielt trainieren: Suunto Race 2 im Test</title>
+      <link>https://www.heise.de/tests/Gezielt-trainieren-Suunto-Race-2-im-Test-10781721.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Suunto ergänzt bei seiner Sportuhr Race 2 ein Sprachfeedback und Trainingspläne. Wie gut ist die Fitness-Smartwatch?]]>
+      </description>
+      <source:markdown>Suunto ergänzt bei seiner Sportuhr Race 2 ein Sprachfeedback und Trainingspläne. Wie gut ist die Fitness-Smartwatch?</source:markdown>
+      <guid>cid://http://heise.de/-10781721</guid>
+    </item>    <item>
+      <title>KI-Update kompakt: OpenAI, Microsofts Web-Agent, selbstbewusste KI, Apple</title>
+      <link>https://www.heise.de/news/KI-Update-kompakt-OpenAI-Microsofts-Web-Agent-selbstbewusste-KI-Apple-10977251.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das "KI-Update" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.]]>
+      </description>
+      <source:markdown>Das &#34;KI-Update&#34; liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.</source:markdown>
+      <guid>cid://http://heise.de/-10977251</guid>
+    </item>    <item>
+      <title>Halbleitermangel: Zulieferer ZF rechnet mit Kurzarbeit in einigen Werken</title>
+      <link>https://www.heise.de/news/Halbleitermangel-Zulieferer-ZF-rechnet-mit-Kurzarbeit-in-einigen-Werken-10984579.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Lieferprobleme nach der Intervention bei Nexperia treffen nun auch den Auto-Zulieferer ZF. Der Konzern stellt sich auf Kurzarbeit an bestimmten Standorten ein.]]>
+      </description>
+      <source:markdown>Lieferprobleme nach der Intervention bei Nexperia treffen nun auch den Auto-Zulieferer ZF. Der Konzern stellt sich auf Kurzarbeit an bestimmten Standorten ein.</source:markdown>
+      <guid>cid://http://heise.de/-10984579</guid>
+    </item>    <item>
+      <title>Zero-Day-Lücke bei LNK-Anzeige in Windows gegen Diplomaten missbraucht</title>
+      <link>https://www.heise.de/news/Windows-Zero-Day-Luecke-bei-LNK-Anzeige-gegen-Diplomaten-missbraucht-10983101.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Microsoft hält eine Lücke in der LNK-Anzeige für nicht behebenswert. Sie wurde inzwischen gegen europäische Diplomaten missbraucht.]]>
+      </description>
+      <source:markdown>Microsoft hält eine Lücke in der LNK-Anzeige für nicht behebenswert. Sie wurde inzwischen gegen europäische Diplomaten missbraucht.</source:markdown>
+      <guid>cid://http://heise.de/-10983101</guid>
+    </item>    <item>
+      <title>Verbraucherumfrage: Irreführende Werbung beim Onlineshopping nervt</title>
+      <link>https://www.heise.de/news/Online-Shopping-Falsche-Versprechen-und-Datenschutzmaengel-aergern-Verbraucher-10984061.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Mangelnder Datenschutz beim Einkaufen im Netz ist Verbrauchern fast ein ebenso großer Dorn im Auge wie falsche Händlerversprechen, zeigt eine aktuelle Studie.]]>
+      </description>
+      <source:markdown>Mangelnder Datenschutz beim Einkaufen im Netz ist Verbrauchern fast ein ebenso großer Dorn im Auge wie falsche Händlerversprechen, zeigt eine aktuelle Studie.</source:markdown>
+      <guid>cid://http://heise.de/-10984061</guid>
+    </item>    <item>
+      <title>Agentic AI reshaping tech hiring policies, say CTOs and CIOs</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/demand_for_software_skills_ai_jobs/</link>
+      <description>
+        <![CDATA[<h4>Oh the irony: IEEE survey of senior techies finds demand for devs skills falling in AI-related roles</h4> <p>Demand for software development skills in AI-related roles is set to fall next year as agentic AI accelerates across business markets, according to an IEEE industry survey.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Oh the irony: IEEE survey of senior techies finds demand for devs skills falling in AI-related roles
+
+Demand for software development skills in AI-related roles is set to fall next year as agentic AI accelerates across business markets, according to an IEEE industry survey.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242797</guid>
+    </item>    <item>
+      <title>Migrating VMs to Kubernetes: A Roadmap for Cloud Native Enterprises</title>
+      <link>https://thenewstack.io/migrating-vms-to-kubernetes-a-roadmap-for-cloud-native-enterprises/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/98aa3d89-migratingvmstokubernetes-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Migrating VMs to Kubernetes: A Roadmap for Cloud Native Enterprises featured image shows a monarch butterfly" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/98aa3d89-migratingvmstokubernetes.jpg" /><p>This is an excerpt from the upcoming TNS eBook &#8220;Running Virtual Machines on Kubernetes: A Practical Roadmap for Enterprise Migrations&#8221;</p>
+        <p>The post <a href="https://thenewstack.io/migrating-vms-to-kubernetes-a-roadmap-for-cloud-native-enterprises/">Migrating VMs to Kubernetes: A Roadmap for Cloud Native Enterprises</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Migrating VMs to Kubernetes: A Roadmap for Cloud Native Enterprises featured image shows a monarch butterfly](https://cdn.thenewstack.io/media/2025/10/98aa3d89-migratingvmstokubernetes-1024x576.jpg)
+
+This is an excerpt from the upcoming TNS eBook “Running Virtual Machines on Kubernetes: A Practical Roadmap for Enterprise Migrations”
+
+The post [Migrating VMs to Kubernetes: A Roadmap for Cloud Native Enterprises](https://thenewstack.io/migrating-vms-to-kubernetes-a-roadmap-for-cloud-native-enterprises/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804948</guid>
+    </item>    <item>
+      <title>heise-Angebot: iX-Workshops im Dezember: Windows Server und Active Directory gezielt absichern</title>
+      <link>https://www.heise.de/news/iX-Workshops-im-Dezember-Windows-Server-und-Active-Directory-gezielt-absichern-10915477.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Erfahren Sie in unseren Präsenz-Workshops in Frankfurt und München, wie Sie Windows Server und Active Directory wirksam vor Angriffen schützen.]]>
+      </description>
+      <source:markdown>Erfahren Sie in unseren Präsenz-Workshops in Frankfurt und München, wie Sie Windows Server und Active Directory wirksam vor Angriffen schützen.</source:markdown>
+      <guid>cid://http://heise.de/-10915477</guid>
+    </item>    <item>
+      <title>Metropolitan Police hails facial recognition tech after record year for arrests</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/metropolitan_police_hails_facial_recognition/</link>
+      <description>
+        <![CDATA[<h4>But question marks remain over the tech’s biases</h4> <p>London&#39;s Metropolitan Police Service (MPS) says the hundreds of live facial recognition (LFR) deployments across the Capital last year led to 962 arrests, according to a new report on the controversial tech&#39;s use.…</p>]]>
+      </description>
+      <source:markdown>#### But question marks remain over the tech’s biases
+
+London&#39;s Metropolitan Police Service (MPS) says the hundreds of live facial recognition (LFR) deployments across the Capital last year led to 962 arrests, according to a new report on the controversial tech&#39;s use.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242796</guid>
+    </item>    <item>
+      <title>KI-Musik: Nutzer-Frust nach Einigung zwischen Universal Music und Udio</title>
+      <link>https://www.heise.de/news/KI-Musik-Nutzer-Frust-nach-Einigung-zwischen-Universal-Music-und-Udio-10980796.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Universal Music hat eine Einigung zum KI-Training mit der Udio-Plattform erzielt. Nutzer sind frustriert: Downloads gibt es nicht mehr.]]>
+      </description>
+      <source:markdown>Universal Music hat eine Einigung zum KI-Training mit der Udio-Plattform erzielt. Nutzer sind frustriert: Downloads gibt es nicht mehr.</source:markdown>
+      <guid>cid://http://heise.de/-10980796</guid>
+    </item>    <item>
+      <title>Kassenärzte warnen: Zehntausende Praxen müssen wohl bald zurück zum Papierrezept</title>
+      <link>https://www.heise.de/news/E-Rezept-bald-auf-Papier-Kassenaerzte-warnen-vor-fehlenden-Heilberufsausweisen-10979411.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der langsame Umstieg auf ECC-Verschlüsselung zwingt viele Praxen womöglich zurück zu Papier. Kassenärzte warnen die Bundesnetzagentur vor gravierenden Folgen.]]>
+      </description>
+      <source:markdown>Der langsame Umstieg auf ECC-Verschlüsselung zwingt viele Praxen womöglich zurück zu Papier. Kassenärzte warnen die Bundesnetzagentur vor gravierenden Folgen.</source:markdown>
+      <guid>cid://http://heise.de/-10979411</guid>
+    </item>    <item>
+      <title>Datenauswertung des ADAC zur Akku-Lebensdauer in Plug-In-Hybriden</title>
+      <link>https://www.heise.de/news/Datenauswertung-des-ADAC-zur-Akku-Lebensdauer-in-Plug-In-Hybriden-10978578.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Eine Datenauswertung des ADAC zum Akkuzustand zeigt gute Haltbarkeit, aber Unterschiede bei den Herstellern. Gebraucht-Käufer sollten auf einem Test bestehen.]]>
+      </description>
+      <source:markdown>Eine Datenauswertung des ADAC zum Akkuzustand zeigt gute Haltbarkeit, aber Unterschiede bei den Herstellern. Gebraucht-Käufer sollten auf einem Test bestehen.</source:markdown>
+      <guid>cid://http://heise.de/-10978578</guid>
+    </item>    <item>
+      <title>heise+ | Bildaufhübscher: Elgato Facecam 4K im Test</title>
+      <link>https://www.heise.de/tests/Bildaufhuebscher-Elgato-Facecam-4K-im-Test-10782162.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Mit Wechselfiltern und hoher Bildqualität will Elgatos Facecam 4K Streamer überzeugen. Wie schlägt sie sich gegenüber der Konkurrenz?]]>
+      </description>
+      <source:markdown>Mit Wechselfiltern und hoher Bildqualität will Elgatos Facecam 4K Streamer überzeugen. Wie schlägt sie sich gegenüber der Konkurrenz?</source:markdown>
+      <guid>cid://http://heise.de/-10782162</guid>
+    </item>    <item>
+      <title>Sexpuppen in Kinderoptik: Frankreich droht Shein</title>
+      <link>https://www.heise.de/news/Sexpuppen-in-Kinderoptik-Frankreich-droht-Shein-10979589.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Sexpuppen mit kindlichem Aussehen bei Shein rufen in Frankreich die Justiz auf den Plan. Die Plattform handelt, doch die Regierung verschärft den Ton.]]>
+      </description>
+      <source:markdown>Sexpuppen mit kindlichem Aussehen bei Shein rufen in Frankreich die Justiz auf den Plan. Die Plattform handelt, doch die Regierung verschärft den Ton.</source:markdown>
+      <guid>cid://http://heise.de/-10979589</guid>
+    </item>    <item>
+      <title>SLES 16: SUSEs Flagschiff-Linux mit KI und Post-Quantum-Krypto</title>
+      <link>https://www.heise.de/news/SLES-16-SUSEs-Flagschiff-Linux-mit-KI-und-Post-Quantum-Krypto-10977309.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[SUSEs neues Flagschiff SLES 16 bringt zahlreiche Neuerungen: Agama, Cockpit, Post-Quantum-Kryptographie und KI-Vorbereitung.]]>
+      </description>
+      <source:markdown>SUSEs neues Flagschiff SLES 16 bringt zahlreiche Neuerungen: Agama, Cockpit, Post-Quantum-Kryptographie und KI-Vorbereitung.</source:markdown>
+      <guid>cid://http://heise.de/-10977309</guid>
+    </item>    <item>
+      <title>Diskussionspapier schlägt Alarm: Google, Meta &#38; Co. dominieren Europas Seekabel</title>
+      <link>https://www.heise.de/news/Think-Tank-legt-Zehn-Punkte-Plan-fuer-europaeische-Seekabel-Strategie-vor-10980065.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Vier US-Konzerne kontrollieren 71 Prozent der Seekabel-Kapazität. Ein Brüsseler Think Tank fordert jetzt eine ganzheitliche EU-Gegenstrategie.]]>
+      </description>
+      <source:markdown>Vier US-Konzerne kontrollieren 71 Prozent der Seekabel-Kapazität. Ein Brüsseler Think Tank fordert jetzt eine ganzheitliche EU-Gegenstrategie.</source:markdown>
+      <guid>cid://http://heise.de/-10980065</guid>
+    </item>    <item>
+      <title>Phishing-Opfer geht leer aus: Versicherung lehnt SMS-Betrug ab</title>
+      <link>https://www.heise.de/news/Online-Versicherungsschutz-greift-nicht-bei-Phishing-per-SMS-10977336.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Nicht jeder Schaden, der durch digitale Täuschung entsteht, ist laut Landgericht Bielefeld direkt durch eine Hausratversicherung mit Internetschutz abgedeckt.]]>
+      </description>
+      <source:markdown>Nicht jeder Schaden, der durch digitale Täuschung entsteht, ist laut Landgericht Bielefeld direkt durch eine Hausratversicherung mit Internetschutz abgedeckt.</source:markdown>
+      <guid>cid://http://heise.de/-10977336</guid>
+    </item>    <item>
+      <title>Fliegende autonome Drohnen transportieren gemeinsam Lasten</title>
+      <link>https://www.heise.de/news/Fliegende-autonome-Drohnen-transportieren-gemeinsam-Lasten-10974248.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Gemeinsam können Drohnen schwere Lasten transportieren. Ein Algorithmus hilft bei der Koordination in der Luft.]]>
+      </description>
+      <source:markdown>Gemeinsam können Drohnen schwere Lasten transportieren. Ein Algorithmus hilft bei der Koordination in der Luft.</source:markdown>
+      <guid>cid://http://heise.de/-10974248</guid>
+    </item>    <item>
+      <title>Siri by Gemini: Apple hat sich angeblich auf Google-KI festgelegt</title>
+      <link>https://www.heise.de/news/Neue-Siri-Wie-viel-Google-steckt-in-Apples-neuer-Assistentin-10966245.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Apples KI-Abteilung kämpft weiter mit Abgängen und technischen Problemen. Bei Siri scheint sich der iPhone-Hersteller auf Google-Hilfe zu einigen.]]>
+      </description>
+      <source:markdown>Apples KI-Abteilung kämpft weiter mit Abgängen und technischen Problemen. Bei Siri scheint sich der iPhone-Hersteller auf Google-Hilfe zu einigen.</source:markdown>
+      <guid>cid://http://heise.de/-10966245</guid>
+    </item>    <item>
+      <title>Labor organizers accuse Rockstar Games of &#39;ruthless act of union busting&#39; after layoffs</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/rockstar_games_fires_staff_in/</link>
+      <description>
+        <![CDATA[<h4>Does Discord need some stars for when Management is watching?</h4> <p>The maker of the Grand Theft Auto game series, Rockstar Games, has fired more than 30 coders and graphic designers in an act described by the Independent Workers&#39; Union of Great Britain (IWGB) as &#34;the most blatant and ruthless act of union busting in the history of the games industry.&#34;…</p>]]>
+      </description>
+      <source:markdown>#### Does Discord need some stars for when Management is watching?
+
+The maker of the Grand Theft Auto game series, Rockstar Games, has fired more than 30 coders and graphic designers in an act described by the Independent Workers&#39; Union of Great Britain (IWGB) as &#34;the most blatant and ruthless act of union busting in the history of the games industry.&#34;…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242795</guid>
+    </item>    <item>
+      <title>Deutsche Unternehmen wollen nur wenig mehr für Chips aus Europa zahlen</title>
+      <link>https://www.heise.de/news/Umfrage-Chips-aus-Europa-duerften-nur-wenig-teurer-sein-10977077.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Wieviel mehr wären Unternehmen bereit, für sicherere Chiplieferketten auszugeben? Die Antwort darauf ist eindeutig.]]>
+      </description>
+      <source:markdown>Wieviel mehr wären Unternehmen bereit, für sicherere Chiplieferketten auszugeben? Die Antwort darauf ist eindeutig.</source:markdown>
+      <guid>cid://http://heise.de/-10977077</guid>
+    </item>    <item>
+      <title>Disney und Epic kooperieren für &#34;Simpsons&#34;-Monat in &#34;Fortnite&#34;</title>
+      <link>https://www.heise.de/news/Disney-und-Epic-kooperieren-fuer-Simpsons-Monat-in-Fortnite-10975903.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Epic Games und Disney veranstalten im November ein Crossover-Event von "Die Simpsons" und "Fortnite". Auf Disney+ erscheinen dazu vier Kurzvideos.]]>
+      </description>
+      <source:markdown>Epic Games und Disney veranstalten im November ein Crossover-Event von &#34;Die Simpsons&#34; und &#34;Fortnite&#34;. Auf Disney+ erscheinen dazu vier Kurzvideos.</source:markdown>
+      <guid>cid://http://heise.de/-10975903</guid>
+    </item>    <item>
+      <title>Arista kündigt ersten 3,2T-Switch an</title>
+      <link>https://www.heise.de/news/Arista-kuendigt-ersten-3-2T-Switch-an-10972466.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Mit den Switches der neuen R4-Produktfamilie will Arista seine Position im RZ- und KI-Netzwerkumfeld weiter ausbauen.]]>
+      </description>
+      <source:markdown>Mit den Switches der neuen R4-Produktfamilie will Arista seine Position im RZ- und KI-Netzwerkumfeld weiter ausbauen.</source:markdown>
+      <guid>cid://http://heise.de/-10972466</guid>
+    </item>    <item>
+      <title>APT-Umstellung auf Rust: Debian setzt exotische Ports unter Druck</title>
+      <link>https://www.heise.de/news/Debian-APT-bekommt-ab-Mai-2026-harte-Rust-Abhaengigkeit-10968522.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ab Mai 2026 wird Debian APT Rust zwingend voraussetzen. Ports ohne funktionierende Rust-Toolchain haben sechs Monate Zeit – oder werden eingestellt.]]>
+      </description>
+      <source:markdown>Ab Mai 2026 wird Debian APT Rust zwingend voraussetzen. Ports ohne funktionierende Rust-Toolchain haben sechs Monate Zeit – oder werden eingestellt.</source:markdown>
+      <guid>cid://http://heise.de/-10968522</guid>
+    </item>    <item>
+      <title>Pop!_OS deejays prepare to release holiday remix along with Cosmic v 1.0</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/cosmic_1_before_xmas/</link>
+      <description>
+        <![CDATA[<h4>Christmas is coming, the GNOME is getting fat… please put a penny in the old red hat?</h4> <p><strong>Ubuntu Summit</strong>  System76&#39;s POP!_OS is one of the more substantially modified Ubuntu based distros out there, and so it was something of a surprise to see the company&#39;s substantial presence at the Ubuntu Summit. And its stable release along with version 1.0 of its custom desktop, COSMIC, is imminent.…</p>]]>
+      </description>
+      <source:markdown>#### Christmas is coming, the GNOME is getting fat… please put a penny in the old red hat?
+
+**Ubuntu Summit**  System76&#39;s POP!\_OS is one of the more substantially modified Ubuntu based distros out there, and so it was something of a surprise to see the company&#39;s substantial presence at the Ubuntu Summit. And its stable release along with version 1.0 of its custom desktop, COSMIC, is imminent.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242786</guid>
+    </item>    <item>
+      <title>heise+ | Von Beruf Hackerjäger: Was macht eigentlich ein Threat Intelligence Researcher?</title>
+      <link>https://www.heise.de/hintergrund/Von-Beruf-Hackerjaeger-Was-macht-eigentlich-ein-Threat-Intelligence-Researcher-10820679.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Holger Unterbrink ist Threat Intelligence Researcher für Cisco. Er steht im Wettlauf mit Kriminellen. Und wird durch seine Arbeit selbst zum Angriffsziel.]]>
+      </description>
+      <source:markdown>Holger Unterbrink ist Threat Intelligence Researcher für Cisco. Er steht im Wettlauf mit Kriminellen. Und wird durch seine Arbeit selbst zum Angriffsziel.</source:markdown>
+      <guid>cid://http://heise.de/-10820679</guid>
+    </item>    <item>
+      <title>heise-Angebot: Last Call: KI und Data Science im Unternehmen – von Rohdaten zu Erkenntnissen</title>
+      <link>https://www.heise.de/news/Last-Call-KI-und-Data-Science-im-Unternehmen-von-Rohdaten-zu-Erkenntnissen-10783823.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[In fünf Sessions lernen Teilnehmende ab dem 12.11., wie sie KI und Data Science einsetzen, um Datenquellen effektiv zu erschließen und Strategien abzuleiten.]]>
+      </description>
+      <source:markdown>In fünf Sessions lernen Teilnehmende ab dem 12.11., wie sie KI und Data Science einsetzen, um Datenquellen effektiv zu erschließen und Strategien abzuleiten.</source:markdown>
+      <guid>cid://http://heise.de/-10783823</guid>
+    </item>    <item>
+      <title>The race to shore up Europe’s power grids against cyberattacks and sabotage</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/europe_power_grid_security/</link>
+      <description>
+        <![CDATA[<h4>Ukraine first to demo open source security platform to isolate incidents, stop lateral movement</h4> <p><strong>Feature</strong>  It was a sunny morning in late April when a massive power outage suddenly rippled across Spain, Portugal, and parts of southwestern France, leaving tens of millions of people without electricity for hours.…</p>]]>
+      </description>
+      <source:markdown>#### Ukraine first to demo open source security platform to isolate incidents, stop lateral movement
+
+**Feature**  It was a sunny morning in late April when a massive power outage suddenly rippled across Spain, Portugal, and parts of southwestern France, leaving tens of millions of people without electricity for hours.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242779</guid>
+    </item>    <item>
+      <title>Project Indigo: Adobe-Kamera jetzt auch für das iPhone 17 – mit Einschränkungen</title>
+      <link>https://www.heise.de/news/Project-Indigo-Adobe-Kamera-jetzt-auch-fuer-das-iPhone-17-mit-Einschraenkungen-10966227.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der Photoshop-Hersteller hat ein größeres Update für seine kostenlose Kamera-App vorgelegt. iPhone-17-Besitzer können aber noch nicht alles nutzen.]]>
+      </description>
+      <source:markdown>Der Photoshop-Hersteller hat ein größeres Update für seine kostenlose Kamera-App vorgelegt. iPhone-17-Besitzer können aber noch nicht alles nutzen.</source:markdown>
+      <guid>cid://http://heise.de/-10966227</guid>
+    </item>    <item>
+      <title>Altmans Reaktion auf OpenAIs Milliardenverlust: &#34;Es reicht&#34;</title>
+      <link>https://www.heise.de/news/Altmans-Reaktion-auf-OpenAIs-Milliardenverlust-Es-reicht-10967280.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Er kenne genug Menschen, die an Anteilen von OpenAI interessiert seien – kontert Sam Altman auf die Frage nach herben Verlusten.]]>
+      </description>
+      <source:markdown>Er kenne genug Menschen, die an Anteilen von OpenAI interessiert seien – kontert Sam Altman auf die Frage nach herben Verlusten.</source:markdown>
+      <guid>cid://http://heise.de/-10967280</guid>
+    </item>    <item>
+      <title>Upgrade oder iPhone-Wechsel: Apple erläutert, warum Akkulaufzeit reduziert ist</title>
+      <link>https://www.heise.de/news/Upgrade-oder-iPhone-Wechsel-Apple-erlaeutert-warum-Akkulaufzeit-reduziert-ist-10966231.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Frisch erworbene iPhones laufen oft nicht so, wie die User sich das wünschen. Das hat spezifische Gründe, wie Apple selbst verrät.]]>
+      </description>
+      <source:markdown>Frisch erworbene iPhones laufen oft nicht so, wie die User sich das wünschen. Das hat spezifische Gründe, wie Apple selbst verrät.</source:markdown>
+      <guid>cid://http://heise.de/-10966231</guid>
+    </item>    <item>
+      <title>Students using ChatGPT beware: Real learning takes legwork, study finds</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/chatgpt_real_understanding/</link>
+      <description>
+        <![CDATA[<h4>Boffins say outsourcing your homework leaves you sounding less knowledgeable, short on facts</h4> <p>A study of how people use ChatGPT for research has confirmed something most of us learned the hard way in school: to be a subject matter expert, you&#39;ve got to spend time swotting up.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Boffins say outsourcing your homework leaves you sounding less knowledgeable, short on facts
+
+A study of how people use ChatGPT for research has confirmed something most of us learned the hard way in school: to be a subject matter expert, you&#39;ve got to spend time swotting up.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242776</guid>
+    </item>    <item>
+      <title>Windows bekommt gemeinsames Musikhören mit Bluetooth LE Shared Audio</title>
+      <link>https://www.heise.de/news/Windows-bekommt-gemeinsames-Musikhoeren-mit-Bluetooth-LE-Shared-Audio-10967210.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Neue Windows-Insider-Vorschauen bringen "Shared Audio" für Bluetooth LE mit. Damit lässt sich der Klang auf zwei Geräten zugleich ausgeben.]]>
+      </description>
+      <source:markdown>Neue Windows-Insider-Vorschauen bringen &#34;Shared Audio&#34; für Bluetooth LE mit. Damit lässt sich der Klang auf zwei Geräten zugleich ausgeben.</source:markdown>
+      <guid>cid://http://heise.de/-10967210</guid>
+    </item>    <item>
+      <title>Kurznachrichtendienst: Bluesky will einen &#34;Dislike&#34;-Button testen</title>
+      <link>https://www.heise.de/news/Kurznachrichtendienst-Bluesky-will-einen-Dislike-Button-testen-10971073.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Damit Bluesky-User deutlicher machen können, welche Inhalte sie mögen und welche nicht, soll es bald auch eine Möglichkeit geben, diese negativ zu bewerten.]]>
+      </description>
+      <source:markdown>Damit Bluesky-User deutlicher machen können, welche Inhalte sie mögen und welche nicht, soll es bald auch eine Möglichkeit geben, diese negativ zu bewerten.</source:markdown>
+      <guid>cid://http://heise.de/-10971073</guid>
+    </item>    <item>
+      <title>heise+ | WLAN-Steuerung: Hama Smarter Garagentor-Öffner im Test</title>
+      <link>https://www.heise.de/tests/WLAN-Steuerung-Hama-Smarter-Garagentor-Oeffner-im-Test-10494648.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Die Garagentoraufrüstung ist zwar nicht ganz so smart wie der Name sagt, eignet sich aber sogar für mehr Tore, als Hama angibt.]]>
+      </description>
+      <source:markdown>Die Garagentoraufrüstung ist zwar nicht ganz so smart wie der Name sagt, eignet sich aber sogar für mehr Tore, als Hama angibt.</source:markdown>
+      <guid>cid://http://heise.de/-10494648</guid>
+    </item>    <item>
+      <title>Zeiss-Kameras und Android 16: Vivo bringt X300-Serie nach Deutschland</title>
+      <link>https://www.heise.de/news/Zeiss-Kameras-und-Android-16-Vivo-bringt-X300-Serie-nach-Deutschland-10970695.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der Hersteller Vivo meldet sich mit dem X300 und X300 Pro zurück auf dem deutschen Markt. Die Akkus fallen jedoch kleiner aus als bei den Modellen für China.]]>
+      </description>
+      <source:markdown>Der Hersteller Vivo meldet sich mit dem X300 und X300 Pro zurück auf dem deutschen Markt. Die Akkus fallen jedoch kleiner aus als bei den Modellen für China.</source:markdown>
+      <guid>cid://http://heise.de/-10970695</guid>
+    </item>    <item>
+      <title>iPad Pro M5: Minimale Verbesserungen bei der Reparierbarkeit</title>
+      <link>https://www.heise.de/news/iPad-Pro-M5-Minimale-Verbesserungen-bei-der-Reparierbarkeit-10966235.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Mit dem Spec-Bump auf den neuen M5-Chip hatten sich Reparateure Verbesserungen beim iPad Pro gewünscht. Sie werden leider nicht erfüllt.]]>
+      </description>
+      <source:markdown>Mit dem Spec-Bump auf den neuen M5-Chip hatten sich Reparateure Verbesserungen beim iPad Pro gewünscht. Sie werden leider nicht erfüllt.</source:markdown>
+      <guid>cid://http://heise.de/-10966235</guid>
+    </item>    <item>
+      <title>Snap out of it: Canonical on Flatpak friction, Core Desktop, and the future of Ubuntu</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/canonical_jon_seager_qa/</link>
+      <description>
+        <![CDATA[<h4>Jon Seager, VP of Engineering, talks exclusively to The Reg</h4> <p><strong>Ubuntu Summit</strong>  <em>The Register</em> FOSS desk sat down with Canonical&#39;s vice-president for engineering, <a target="_blank" href="https://ubuntu.com/blog/from-product-management-to-engineering-leadership-jon-seagers-career-progression-at-canonical" rel="nofollow">Jon Seager</a>, during Ubuntu Summit earlier this month. This is a heavily condensed version of our conversation.…</p>]]>
+      </description>
+      <source:markdown>#### Jon Seager, VP of Engineering, talks exclusively to The Reg
+
+**Ubuntu Summit** _The Register_ FOSS desk sat down with Canonical&#39;s vice-president for engineering, [Jon Seager](https://ubuntu.com/blog/from-product-management-to-engineering-leadership-jon-seagers-career-progression-at-canonical), during Ubuntu Summit earlier this month. This is a heavily condensed version of our conversation.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242736</guid>
+    </item>    <item>
+      <title>heise-Angebot: c&#39;t-Workshop: Kea im Praxiseinsatz – moderne DHCP-Administration</title>
+      <link>https://www.heise.de/news/c-t-Workshop-Kea-im-Praxiseinsatz-moderne-DHCP-Administration-10962617.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der c’t-Workshop vermittelt praxisnah, wie Sie Kea produktiv einsetzen, bestehende DHCP-Setups migrieren und Verwaltungsprozesse automatisieren.]]>
+      </description>
+      <source:markdown>Der c’t-Workshop vermittelt praxisnah, wie Sie Kea produktiv einsetzen, bestehende DHCP-Setups migrieren und Verwaltungsprozesse automatisieren.</source:markdown>
+      <guid>cid://http://heise.de/-10962617</guid>
+    </item>    <item>
+      <title>Reine Solardrohne hebt ohne Pufferkondensator oder Batterie ab</title>
+      <link>https://www.heise.de/news/Suedafrikanischer-Ingenieur-baut-reine-Solardrohne-10968236.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Solardrohne von Luke Maximo Bell fliegt mit dem Strom, den Solarzellen gerade liefern. Das Design der Drohne ist besonders effizient.]]>
+      </description>
+      <source:markdown>Die Solardrohne von Luke Maximo Bell fliegt mit dem Strom, den Solarzellen gerade liefern. Das Design der Drohne ist besonders effizient.</source:markdown>
+      <guid>cid://http://heise.de/-10968236</guid>
+    </item>    <item>
+      <title>100 Tage Handelsdeal: Wie Trump-Zölle die Wirtschaft treffen</title>
+      <link>https://www.heise.de/news/100-Tage-Handelsdeal-Wie-Trump-Zoelle-die-Wirtschaft-treffen-10969514.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ende Juli einigten sich Brüssel und Washington im Zollstreit. Mit dem Abkommen wurde das Schlimmste abgewendet, doch spürbare Folgen bleiben.]]>
+      </description>
+      <source:markdown>Ende Juli einigten sich Brüssel und Washington im Zollstreit. Mit dem Abkommen wurde das Schlimmste abgewendet, doch spürbare Folgen bleiben.</source:markdown>
+      <guid>cid://http://heise.de/-10969514</guid>
+    </item>    <item>
+      <title>Monitoring-Software: Schwachstellen bedrohen IBM Tivoli Monitoring und Nagios XI</title>
+      <link>https://www.heise.de/news/Monitoring-Software-IBM-Tivoli-Monitoring-und-Nagios-XI-sind-verwundbar-10968689.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Angreifer können IBM Tivoli Monitoring und Nagios XI attackieren und Dateien manipulieren oder sogar Schadcode ausführen. Sicherheitsupdates sind verfügbar.]]>
+      </description>
+      <source:markdown>Angreifer können IBM Tivoli Monitoring und Nagios XI attackieren und Dateien manipulieren oder sogar Schadcode ausführen. Sicherheitsupdates sind verfügbar.</source:markdown>
+      <guid>cid://http://heise.de/-10968689</guid>
+    </item>    <item>
+      <title>Geschmolzenes Glas: Erstmals fahrendes Fahrzeug von einem Meteoriten getroffen?</title>
+      <link>https://www.heise.de/news/Australien-Moeglicherweise-erstmals-fahrendes-Fahrzeug-von-Meteorit-getroffen-10966995.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[In Australien untersucht ein Museumsexperte, ob einem brandneuen Tesla von einem Meteoriten die Windschutzscheibe zerschlagen wurde. Noch besteht Skepsis.]]>
+      </description>
+      <source:markdown>In Australien untersucht ein Museumsexperte, ob einem brandneuen Tesla von einem Meteoriten die Windschutzscheibe zerschlagen wurde. Noch besteht Skepsis.</source:markdown>
+      <guid>cid://http://heise.de/-10966995</guid>
+    </item>    <item>
+      <title>From Intel to the infinite, Pat Gelsinger wants Christian AI to change the world</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/from_intel_to_the_infinite/</link>
+      <description>
+        <![CDATA[<h4>Taking belief in LLMs very literally indeed</h4> <p><strong>Opinion</strong>  It&#39;s not been a year since his ouster as Intel&#39;s CEO, but Pat Gelsinger is firmly back on the tech leadership pony. He&#39;s done hardware with Intel, software with VMWare. This time, it&#39;s faithware.…</p>]]>
+      </description>
+      <source:markdown>#### Taking belief in LLMs very literally indeed
+
+**Opinion**  It&#39;s not been a year since his ouster as Intel&#39;s CEO, but Pat Gelsinger is firmly back on the tech leadership pony. He&#39;s done hardware with Intel, software with VMWare. This time, it&#39;s faithware.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242772</guid>
+    </item>    <item>
+      <title>heise+ | Wissen clever organisieren: Notion, Obsidian und Anytype im Vergleich</title>
+      <link>https://www.heise.de/ratgeber/Wissen-clever-organisieren-Notion-Obsidian-und-Anytype-im-Vergleich-10767104.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Notion, Obsidian und Anytype ordnen das digitale Chaos und verwalten persönliches Wissen. Welche App sich für wen am besten eignet, erklärt unser Ratgeber.]]>
+      </description>
+      <source:markdown>Notion, Obsidian und Anytype ordnen das digitale Chaos und verwalten persönliches Wissen. Welche App sich für wen am besten eignet, erklärt unser Ratgeber.</source:markdown>
+      <guid>cid://http://heise.de/-10767104</guid>
+    </item>    <item>
+      <title>Elections: A Big Math Problem</title>
+      <link>https://www.npr.org/2025/11/03/nx-s1-5593111/voting-system-election-ballot</link>
+      <description>
+        <![CDATA[Ahead of Election Day tomorrow, millions of ballots are being cast in statewide, local and special elections. So, today, we're revisiting an episode asking: What would happen if the rules of our electoral system were changed? Producer Hannah Chinn reported on that very question, and today, with host Emily Kwong, they dive into three voting methods that are representative of alternative voting systems. They look at where these systems have been implemented, how they work and what they may mean for future elections. <br/><br/><em>Want to hear more about how math could change our lives? Email us at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em> and we might cover your idea on a future episode! </em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at</em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em> plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Ahead of Election Day tomorrow, millions of ballots are being cast in statewide, local and special elections. So, today, we&#39;re revisiting an episode asking: What would happen if the rules of our electoral system were changed? Producer Hannah Chinn reported on that very question, and today, with host Emily Kwong, they dive into three voting methods that are representative of alternative voting systems. They look at where these systems have been implemented, how they work and what they may mean for future elections.
+
+_Want to hear more about how math could change our lives? Email us at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _and we might cover your idea on a future episode!_
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR2163591932.mp3?t=podcast&e=nx-s1-5593111&p=510351&d=982&size=15720743" length="15720743" type="audio/mpeg" />
+      <guid>cid://ffd7712c-cb08-4975-b660-294589c6146a</guid>
+    </item>    <item>
+      <title>Nintendo gewinnt Gerichtsstreit gegen aufmüpfigen Streamer</title>
+      <link>https://www.heise.de/news/Nintendo-gewinnt-Gerichtsstreit-gegen-aufmuepfigen-Streamer-10966437.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ein Streamer wurde nach Klage von Nintendo zu einer Strafzahlung verurteilt. "EveryGameGuru" hatte das Verfahren systematisch ignoriert.]]>
+      </description>
+      <source:markdown>Ein Streamer wurde nach Klage von Nintendo zu einer Strafzahlung verurteilt. &#34;EveryGameGuru&#34; hatte das Verfahren systematisch ignoriert.</source:markdown>
+      <guid>cid://http://heise.de/-10966437</guid>
+    </item>    <item>
+      <title>Warnung vor Angriffen auf Lücken in VMware und XWiki</title>
+      <link>https://www.heise.de/news/Warnung-vor-Angriffen-auf-Luecken-in-VMware-und-XWiki-10966431.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Angreifer missbauchen Schwachstellen in VMware und XWiki, warnt die IT-Sicherheitsbehörde CISA. Updates stopfen die Lücken.]]>
+      </description>
+      <source:markdown>Angreifer missbauchen Schwachstellen in VMware und XWiki, warnt die IT-Sicherheitsbehörde CISA. Updates stopfen die Lücken.</source:markdown>
+      <guid>cid://http://heise.de/-10966431</guid>
+    </item>    <item>
+      <title>‘ERP down for emergency maintenance’ was code for ‘You deleted what?’</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/who_me/</link>
+      <description>
+        <![CDATA[<h4>One SQL slip-up is survivable. Not learning from the first mess meant change</h4> <p><strong>Who, Me?</strong>  Another Monday is upon us and <i>The Register</i> therefore presents a fresh instalment of Who, Me? It’s the reader-contributed confessional column in which you admit to making mistakes, and explain how you made it out alive afterwards.…</p>]]>
+      </description>
+      <source:markdown>#### One SQL slip-up is survivable. Not learning from the first mess meant change
+
+**Who, Me?**  Another Monday is upon us and _The Register_ therefore presents a fresh instalment of Who, Me? It’s the reader-contributed confessional column in which you admit to making mistakes, and explain how you made it out alive afterwards.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242775</guid>
+    </item>    <item>
+      <title>heise-Angebot: iX-Workshop: API-Design und -Entwicklung mit HTTP, REST und OpenAPI</title>
+      <link>https://www.heise.de/news/iX-Workshop-API-Design-und-Entwicklung-mit-HTTP-REST-und-OpenAPI-10915571.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Lernen Sie, wie man effiziente und benutzerfreundliche APIs entwickelt, HTTP- und REST-Standards anwendet und standardisierte Referenzdokumentationen erstellt.]]>
+      </description>
+      <source:markdown>Lernen Sie, wie man effiziente und benutzerfreundliche APIs entwickelt, HTTP- und REST-Standards anwendet und standardisierte Referenzdokumentationen erstellt.</source:markdown>
+      <guid>cid://http://heise.de/-10915571</guid>
+    </item>    <item>
+      <title>Was Sie über die elektronische Patientenakte wissen sollten</title>
+      <link>https://www.heise.de/hintergrund/ePA-3-0-Fragen-und-Antworten-zur-neuen-elektronischen-Patientenakte-10216222.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Inzwischen haben fast alle gesetzlich Versicherten eine elektronische Patientenakte. Wir beantworten häufig gestellte Fragen.]]>
+      </description>
+      <source:markdown>Inzwischen haben fast alle gesetzlich Versicherten eine elektronische Patientenakte. Wir beantworten häufig gestellte Fragen.</source:markdown>
+      <guid>cid://http://heise.de/-10216222</guid>
+    </item>    <item>
+      <title>heise+ | Fernwärme: Der Hoffnungsträger, der stark an der Verbrennung hängt</title>
+      <link>https://www.heise.de/hintergrund/Fernwaerme-Der-Hoffnungstraeger-der-stark-an-der-Verbrennung-haengt-10624114.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Fernwärme soll in Deutschland kräftig ausgebaut werden. Wir beleuchten Technik, Probleme und Chancen zentralisierter Heiztechnik.]]>
+      </description>
+      <source:markdown>Fernwärme soll in Deutschland kräftig ausgebaut werden. Wir beleuchten Technik, Probleme und Chancen zentralisierter Heiztechnik.</source:markdown>
+      <guid>cid://http://heise.de/-10624114</guid>
+    </item>    <item>
+      <title>Pornhub &#38; Co.: Auch Italien verlangt für Pornografie nun Altersverifikation</title>
+      <link>https://www.heise.de/news/Pornografie-im-Internet-Auch-Italien-verpflichtet-nun-zur-Altersverifizierung-10966343.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Den großen Pornografie-Websites in Italien bleiben weniger als zwei Wochen, um Systeme zur Altersverifizierung umzusetzen. Andernfalls drohen Geldstrafen.]]>
+      </description>
+      <source:markdown>Den großen Pornografie-Websites in Italien bleiben weniger als zwei Wochen, um Systeme zur Altersverifizierung umzusetzen. Andernfalls drohen Geldstrafen.</source:markdown>
+      <guid>cid://http://heise.de/-10966343</guid>
+    </item>    <item>
+      <title>Network operator ponders building a new submarine cable – on land</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/seacom_africa_submarine_land_cable/</link>
+      <description>
+        <![CDATA[<h4>It’s less bonkers than it sounds given the challenges of wiring Africa</h4> <p>African carrier Seacom is investigating the feasibility of building a submarine cable that would run across the heart of Africa, on land.…</p>]]>
+      </description>
+      <source:markdown>#### It’s less bonkers than it sounds given the challenges of wiring Africa
+
+African carrier Seacom is investigating the feasibility of building a submarine cable that would run across the heart of Africa, on land.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242794</guid>
+    </item>    <item>
+      <title>Podcast &#34;Die Hupe&#34;: Über die deutschen Firmenwagen</title>
+      <link>https://www.heise.de/hintergrund/Podcast-Die-Hupe-Ueber-die-deutschen-Firmenwagen-10965028.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[In dieser Folge sprechen wir mit dem Bundesverband betriebliche Mobilität e. V. (BBM) über Dienstwagen, die Debatte dazu und was sich gerade ändert.]]>
+      </description>
+      <source:markdown>In dieser Folge sprechen wir mit dem Bundesverband betriebliche Mobilität e. V. (BBM) über Dienstwagen, die Debatte dazu und was sich gerade ändert.</source:markdown>
+      <guid>cid://http://heise.de/-10965028</guid>
+    </item>    <item>
+      <title>Character.AI: US-Chatbots künftig mit Beschränkungen für Minderjährige</title>
+      <link>https://www.heise.de/news/Character-AI-US-Chatbots-kuenftig-mit-Beschraenkungen-fuer-Minderjaehrige-10966241.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Mehrere Familien klagten, weil sie den Chatbots von Character.AI eine Rolle beim Suizid ihrer Kinder zuschreiben. Die Entwicklerfirma zieht nun Konsequenzen.]]>
+      </description>
+      <source:markdown>Mehrere Familien klagten, weil sie den Chatbots von Character.AI eine Rolle beim Suizid ihrer Kinder zuschreiben. Die Entwicklerfirma zieht nun Konsequenzen.</source:markdown>
+      <guid>cid://http://heise.de/-10966241</guid>
+    </item>    <item>
+      <title>Montag: China-Mineralien für die EU, SpaceX für vereinfachte Mondmission</title>
+      <link>https://www.heise.de/news/Montag-China-Mineralien-fuer-die-EU-SpaceX-fuer-vereinfachte-Mondmission-10966335.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Import Seltener Erden + Vereinfachung zur früheren Mondlandung + OpenAI mit Milliardenverlust + Datenrückkehr aus US-Clouds + Italiens Fernzüge in Deutschland]]>
+      </description>
+      <source:markdown>Import Seltener Erden + Vereinfachung zur früheren Mondlandung + OpenAI mit Milliardenverlust + Datenrückkehr aus US-Clouds + Italiens Fernzüge in Deutschland</source:markdown>
+      <guid>cid://http://heise.de/-10966335</guid>
+    </item>    <item>
+      <title>ISPs more likely to throttle netizens who connect through carrier-grade NAT: Cloudflare</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/cloudflare_cgnat_bias_research/</link>
+      <description>
+        <![CDATA[<h4>When operators see danger, innocent users are dragged down along with bad actors</h4> <p>Before the potential of the internet was appreciated around the world, nations that understood its importance managed to scoop outsized allocations of IPv4 addresses, actions that today mean many users in the rest of the world are more likely to find their connections throttled or blocked.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### When operators see danger, innocent users are dragged down along with bad actors
+
+Before the potential of the internet was appreciated around the world, nations that understood its importance managed to scoop outsized allocations of IPv4 addresses, actions that today mean many users in the rest of the world are more likely to find their connections throttled or blocked.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242793</guid>
+    </item>    <item>
+      <title>SpaceX deutet nach verzögerten Plänen für Mondlandung &#34;einfacheres&#34; Starship an</title>
+      <link>https://www.heise.de/news/SpaceX-deutet-nach-verzoegerten-Plaenen-fuer-Mondlandung-einfacheres-Starship-an-10966325.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der Zeitplan für die Artemis-3-Mission zur bemannten US-Mondlandung ist nicht mehr zu halten. Eine Vereinfachung könnte den Prozess beschleunigen, sagt SpaceX.]]>
+      </description>
+      <source:markdown>Der Zeitplan für die Artemis-3-Mission zur bemannten US-Mondlandung ist nicht mehr zu halten. Eine Vereinfachung könnte den Prozess beschleunigen, sagt SpaceX.</source:markdown>
+      <guid>cid://http://heise.de/-10966325</guid>
+    </item>    <item>
+      <title>White House says China to lift rare earth export bans, stop probes into US tech companies</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/asia_tech_news_roundup/</link>
+      <description>
+        <![CDATA[<h4>PLUS: Google&#39;s massive AI giveaway in India; Raid on Australian software company; Alleged scam camp owner&#39;s assets seized; and more!</h4> <p><strong>Asia In Brief</strong>  Last week’s trade talks between the USA and China have seen the two countries ease some trade restrictions.…</p>]]>
+      </description>
+      <source:markdown>#### PLUS: Google&#39;s massive AI giveaway in India; Raid on Australian software company; Alleged scam camp owner&#39;s assets seized; and more!
+
+**Asia In Brief**  Last week’s trade talks between the USA and China have seen the two countries ease some trade restrictions.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242792</guid>
+    </item>    <item>
+      <title>Attackers targeting unpatched Cisco kit notice malware implant removal, install it again</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/02/cyber_exec_pleads_guilty_to/</link>
+      <description>
+        <![CDATA[<h4>PLUS: Cyber-exec admits selling secrets to Russia; LastPass isn&#39;t checking to see if you&#39;re dead; Nation-state backed Windows malware; and more</h4> <p><strong>Infosec in brief</strong>  Australia’s Signals Directorate (ASD) last Friday warned that attackers are installing an implant named “BADCANDY” on unpatched Cisco IOS XE devices and can detect deletion of their wares and reinstall their malware.…</p>]]>
+      </description>
+      <source:markdown>#### PLUS: Cyber-exec admits selling secrets to Russia; LastPass isn&#39;t checking to see if you&#39;re dead; Nation-state backed Windows malware; and more
+
+**Infosec in brief**  Australia’s Signals Directorate (ASD) last Friday warned that attackers are installing an implant named “BADCANDY” on unpatched Cisco IOS XE devices and can detect deletion of their wares and reinstall their malware.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242790</guid>
+    </item>    <item>
       <title>Debian to add hard Rust dependency to APT</title>
       <link>https://www.osnews.com/story/143696/debian-to-add-hard-rust-dependency-to-apt/</link>
       <description>
@@ -59,7 +587,7 @@
       <title>Kubernetes and AI Are Shaping the Next Generation of Platforms</title>
       <link>https://thenewstack.io/kubernetes-and-ai-are-shaping-the-next-generation-of-platforms/</link>
       <description>
-        <![CDATA[<img width="1024" height="682" src="https://cdn.thenewstack.io/media/2025/10/8f2e1ec9-wires-1024x682.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Power lines" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/8f2e1ec9-wires.jpeg" /><p>Platform engineering has emerged as one of the most significant shifts in the cloud native ecosystem. Teams everywhere are adopting</p>
+        <![CDATA[<img width="1024" height="682" src="https://cdn.thenewstack.io/media/2025/10/8f2e1ec9-wires-1024x682.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Power lines" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/8f2e1ec9-wires.jpeg" /><p>Platform engineering has emerged as one of the most significant shifts in the cloud native ecosystem. Teams everywhere are adopting</p>
         <p>The post <a href="https://thenewstack.io/kubernetes-and-ai-are-shaping-the-next-generation-of-platforms/">Kubernetes and AI Are Shaping the Next Generation of Platforms</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![Power lines](https://cdn.thenewstack.io/media/2025/10/8f2e1ec9-wires-1024x682.jpeg)
@@ -88,7 +616,7 @@ The post [Kubernetes and AI Are Shaping the Next Generation of Platforms](https:
       <title>HydraPWK2 Is a Linux Distribution That Simplifies Pentesting</title>
       <link>https://thenewstack.io/hydrapwk2-is-a-linux-distribution-that-simplifies-pentesting/</link>
       <description>
-        <![CDATA[<img width="1024" height="641" src="https://cdn.thenewstack.io/media/2025/10/c9bbe08b-hydrahero-1024x641.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/c9bbe08b-hydrahero.jpg" /><p>When you think of penetration testing (pentesting), the first thing that probably comes to mind is Kali Linux, and with</p>
+        <![CDATA[<img width="1024" height="641" src="https://cdn.thenewstack.io/media/2025/10/c9bbe08b-hydrahero-1024x641.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/c9bbe08b-hydrahero.jpg" /><p>When you think of penetration testing (pentesting), the first thing that probably comes to mind is Kali Linux, and with</p>
         <p>The post <a href="https://thenewstack.io/hydrapwk2-is-a-linux-distribution-that-simplifies-pentesting/">HydraPWK2 Is a Linux Distribution That Simplifies Pentesting</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![](https://cdn.thenewstack.io/media/2025/10/c9bbe08b-hydrahero-1024x641.jpg)
@@ -13043,16 +13571,6 @@ Learn more about sponsor message choices: [podcastchoices.com/adchoices](https:/
 
 **Who, Me?**  Welcome to another week of nimble newsifying from _The Register_, which as always kicks off the working week with a fresh instalment of Who, Me? It&#39;s the reader-contributed column in which you admit to mistakes that almost trashed your career.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242170</guid>
-    </item>    <item>
-      <title>Inside the belly of the beast: A technical walk through Intel&#39;s 18A production facility at Fab52</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/12/gelsingers_foundry_dream_lives_on/</link>
-      <description>
-        <![CDATA[<h4>Now if Lip Bu Tan can just find a willing customer</h4> <p><strong>deep dive</strong>  Not long after rejoining Intel in 2021, former CEO Pat Gelsinger announced an ambitious plan to reinvent the chipmaker as a contract semiconductor manufacturing powerhouse.…</p>]]>
-      </description>
-      <source:markdown>#### Now if Lip Bu Tan can just find a willing customer
-
-**deep dive**  Not long after rejoining Intel in 2021, former CEO Pat Gelsinger announced an ambitious plan to reinvent the chipmaker as a contract semiconductor manufacturing powerhouse.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242406</guid>
     </item>
   </channel>
 </rss>
