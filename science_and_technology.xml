@@ -4,10 +4,291 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>03 Nov 25 06:12 -0800</lastBuildDate>
+    <lastBuildDate>03 Nov 25 11:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>How Bucket Forking Brings GitHub-Style Forking To Object Storage</title>
+      <link>https://thenewstack.io/how-bucket-forking-brings-github-style-forking-to-object-storage/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/f1d0e807-bucket-forking-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="&quot;How Bucket Forking Brings GitHub-Style Forking to Object Storage&quot; featured image. Hands holding a card with diverging arrows in front of a cloudy sky" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/f1d0e807-bucket-forking.jpg" /><p>Although forking is fairly routine in code platforms like GitHub and different file systems, it&#8217;s not been a feature in</p>
+        <p>The post <a href="https://thenewstack.io/how-bucket-forking-brings-github-style-forking-to-object-storage/">How Bucket Forking Brings GitHub-Style Forking To Object Storage</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![&#34;How Bucket Forking Brings GitHub-Style Forking to Object Storage&#34; featured image. Hands holding a card with diverging arrows in front of a cloudy sky](https://cdn.thenewstack.io/media/2025/11/f1d0e807-bucket-forking-1024x576.jpg)
+
+Although forking is fairly routine in code platforms like GitHub and different file systems, it’s not been a feature in
+
+The post [How Bucket Forking Brings GitHub-Style Forking To Object Storage](https://thenewstack.io/how-bucket-forking-brings-github-style-forking-to-object-storage/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804927</guid>
+    </item>    <item>
+      <title>Monatlich kündbar: Der beste Handyvertrag im November – 20 GB 1&#38;1 für 5 Euro</title>
+      <link>https://www.heise.de/bestenlisten/deals/monatlich-kuendbar-der-beste-handyvertrag-im-november-20-gb-1und1-fuer-5-euro/evw1p7e?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die neue Drillisch-Marke Big SIM bietet 20 GB für 5 Euro, 48 GB im Telekom-Netz gibt es für 15 Euro bei Fraenk: Das sind die besten monatlich kündbaren Tarife.]]>
+      </description>
+      <source:markdown>Die neue Drillisch-Marke Big SIM bietet 20 GB für 5 Euro, 48 GB im Telekom-Netz gibt es für 15 Euro bei Fraenk: Das sind die besten monatlich kündbaren Tarife.</source:markdown>
+      <guid>cid://http://heise.de/-10992361</guid>
+    </item>    <item>
+      <title>OpenAI spreads the imaginary wealth beyond Microsoft with $38B AWS deal</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/openai_inks_38b_deal_with_aws/</link>
+      <description>
+        <![CDATA[<h4>Amazon deal still dwarfed by $250B Azure commitment made as part of OpenAI&#39;s for-profit transformation</h4> <p>OpenAI has signed a seven-year, $38 billion agreement with Amazon Web Services, adding another hyperscaler alongside Microsoft Azure for its growing AI compute needs. Where it&#39;s getting all this money was not disclosed.…</p>]]>
+      </description>
+      <source:markdown>#### Amazon deal still dwarfed by $250B Azure commitment made as part of OpenAI&#39;s for-profit transformation
+
+OpenAI has signed a seven-year, $38 billion agreement with Amazon Web Services, adding another hyperscaler alongside Microsoft Azure for its growing AI compute needs. Where it&#39;s getting all this money was not disclosed.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242807</guid>
+    </item>    <item>
+      <title>Alaska Air phones a friend to find out what caused massive October outage</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/alaska_air_group_consultants_outage/</link>
+      <description>
+        <![CDATA[<h4>Accenture to poke around the beleaguered airline&#39;s IT infrastructure</h4> <p>Alaska Airlines has called in consultants to advise it on what went wrong during a late October IT meltdown that grounded flights and wreaked havoc for two days.…</p>]]>
+      </description>
+      <source:markdown>#### Accenture to poke around the beleaguered airline&#39;s IT infrastructure
+
+Alaska Airlines has called in consultants to advise it on what went wrong during a late October IT meltdown that grounded flights and wreaked havoc for two days.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242805</guid>
+    </item>    <item>
+      <title>Kelsey Hightower on Engineering at Scale</title>
+      <link>https://thenewstack.io/kelsey-hightower-on-engineering-at-scale/</link>
+      <description>
+        <![CDATA[<img width="1024" height="574" src="https://cdn.thenewstack.io/media/2025/11/c2415171-hightower-1024x574.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Kelsey Hightower at Monster SCALE Summit 2025." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/c2415171-hightower.png" /><p>&#8220;There&#8217;s a saying I like: &#8216;Some people have good ideas. Some ideas have people.&#8217; When your idea outlives you, that&#8217;s</p>
+        <p>The post <a href="https://thenewstack.io/kelsey-hightower-on-engineering-at-scale/">Kelsey Hightower on Engineering at Scale</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Kelsey Hightower at Monster SCALE Summit 2025.](https://cdn.thenewstack.io/media/2025/11/c2415171-hightower-1024x574.png)
+
+“There’s a saying I like: ‘Some people have good ideas. Some ideas have people.’ When your idea outlives you, that’s
+
+The post [Kelsey Hightower on Engineering at Scale](https://thenewstack.io/kelsey-hightower-on-engineering-at-scale/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805193</guid>
+    </item>    <item>
+      <title>Microsoft, Alphabet throw more cash on the AI bonfire</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/tech_firms_continue_to_burn/</link>
+      <description>
+        <![CDATA[<h4>The spending will continue until ROI improves</h4> <p>Tech companies continue to sling crazy amounts of money at AI, with Microsoft announcing deals worth billions in Texas and the United Arab Emirates (UAE), while Google parent Alphabet is selling bonds in Europe to raise cash for more AI expansion.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### The spending will continue until ROI improves
+
+Tech companies continue to sling crazy amounts of money at AI, with Microsoft announcing deals worth billions in Texas and the United Arab Emirates (UAE), while Google parent Alphabet is selling bonds in Europe to raise cash for more AI expansion.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242804</guid>
+    </item>    <item>
+      <title>Druckbare Metalltinte als Lichtschalter in Lampenschirmen</title>
+      <link>https://www.heise.de/news/Sensorische-Lichtsteuerung-durch-druckbare-Metalltinten-10980032.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die leitfähige druckbare Tinte des Fraunhofer IZM macht's möglich: Leuchten ohne Schalter, die sich durch Berührung des Lampenschirms einschalten lassen.]]>
+      </description>
+      <source:markdown>Die leitfähige druckbare Tinte des Fraunhofer IZM macht&#39;s möglich: Leuchten ohne Schalter, die sich durch Berührung des Lampenschirms einschalten lassen.</source:markdown>
+      <guid>cid://http://heise.de/-10980032</guid>
+    </item>    <item>
+      <title>Cybercrooks team up with organized crime to steal pricey cargo</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/cybercriminals_team_up_with_ocgs/</link>
+      <description>
+        <![CDATA[<h4>Old-school cargo heists reborn in the cyber age</h4> <p>Cybercriminals are increasingly orchestrating lucrative cargo thefts alongside organized crime groups (OCGs) in a modern-day resurgence of attacks on freight companies.…</p>]]>
+      </description>
+      <source:markdown>#### Old-school cargo heists reborn in the cyber age
+
+Cybercriminals are increasingly orchestrating lucrative cargo thefts alongside organized crime groups (OCGs) in a modern-day resurgence of attacks on freight companies.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242803</guid>
+    </item>    <item>
+      <title>Bericht: Apple plant OLED-MacBook Air für 2028</title>
+      <link>https://www.heise.de/news/Bericht-MacBook-Air-bekommt-angeblich-2028-OLED-Display-10992806.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Bloomberg-Reporter Mark Gurman erwartet das MacBook Air mit OLED-Display für 2028. Zuvor sollen MacBook Pro und iPad-Modelle umgestellt werden.]]>
+      </description>
+      <source:markdown>Bloomberg-Reporter Mark Gurman erwartet das MacBook Air mit OLED-Display für 2028. Zuvor sollen MacBook Pro und iPad-Modelle umgestellt werden.</source:markdown>
+      <guid>cid://http://heise.de/-10992806</guid>
+    </item>    <item>
+      <title>YouTube verschärft Regeln für Spielegewalt und Glücksspiel</title>
+      <link>https://www.heise.de/news/YouTube-verschaerft-Regeln-fuer-Spielegewalt-und-Gluecksspiel-10996193.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[In zwei Wochen greifen für YouTuber neue Regeln: Drastische Gewaltdarstellungen aus Computerspielen sollen nur noch Erwachsene zu sehen bekommen.]]>
+      </description>
+      <source:markdown>In zwei Wochen greifen für YouTuber neue Regeln: Drastische Gewaltdarstellungen aus Computerspielen sollen nur noch Erwachsene zu sehen bekommen.</source:markdown>
+      <guid>cid://http://heise.de/-10996193</guid>
+    </item>    <item>
+      <title>Bundesnetzagentur verschärft Sicherheitsanforderungen für TK-Anbieter</title>
+      <link>https://www.heise.de/news/Bundesnetzagentur-verschaerft-Sicherheitsanforderungen-fuer-TK-Anbieter-10995698.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der neue Security-Katalog für Betreiber von Telekommunikationssystemen führt "Gefährdungspotenziale" ein. Strenge Regeln gelten bei hoher Gemeinwohlbedeutung.]]>
+      </description>
+      <source:markdown>Der neue Security-Katalog für Betreiber von Telekommunikationssystemen führt &#34;Gefährdungspotenziale&#34; ein. Strenge Regeln gelten bei hoher Gemeinwohlbedeutung.</source:markdown>
+      <guid>cid://http://heise.de/-10995698</guid>
+    </item>    <item>
+      <title>You Can Listen to Kandinsky&#39;s Vibrant Paintings at This New Exhibition in Paris</title>
+      <link>https://www.smithsonianmag.com/smart-news/you-can-listen-to-kandinskys-vibrant-paintings-at-this-new-exhibition-in-paris-180987581/</link>
+      <description>
+        <![CDATA[Through artworks and audio recordings, "Kandinsky: The Music of Colors" explores how music influenced the Russian artist's abstract compositions]]>
+      </description>
+      <source:markdown>Through artworks and audio recordings, &#34;Kandinsky: The Music of Colors&#34; explores how music influenced the Russian artist&#39;s abstract compositions</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/_xOq9EDhyWQcIWGzjh8oeCSOQps=/420x240/filters:focal(600x348:601x349)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/75/7b/757babc1-6624-414d-8400-e0b78a72b45c/vassily_kandinsky_1936_-_composition_ix.jpg" length="" type="" />
+    </item>    <item>
+      <title>Die ISS feiert 25. Geburtstag</title>
+      <link>https://www.heise.de/news/Die-ISS-feiert-25-Geburtstag-10993178.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Anfang November 2000 startete ein ehrgeiziges Projekt der Ost-West-Verständigung: Die erste Crew bezog die Internationale Raumstation.]]>
+      </description>
+      <source:markdown>Anfang November 2000 startete ein ehrgeiziges Projekt der Ost-West-Verständigung: Die erste Crew bezog die Internationale Raumstation.</source:markdown>
+      <guid>cid://http://heise.de/-10993178</guid>
+    </item>    <item>
+      <title>Gullible bots struggle to distinguish between facts and beliefs</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/llms_struggle_to_distinguish_facts_beliefs/</link>
+      <description>
+        <![CDATA[<h4>Researchers point to risks in high-stakes applications as well as the potential to spread misinformation</h4> <p>Large language models often fail to distinguish between factual knowledge and personal belief, and are especially poor at recognizing when a belief is false.…</p>]]>
+      </description>
+      <source:markdown>#### Researchers point to risks in high-stakes applications as well as the potential to spread misinformation
+
+Large language models often fail to distinguish between factual knowledge and personal belief, and are especially poor at recognizing when a belief is false.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242802</guid>
+    </item>    <item>
+      <title>Apache Arrow’s Final Frontier: Replacing Outdated Database Drivers</title>
+      <link>https://thenewstack.io/apache-arrows-final-frontier-replacing-outdated-database-drivers/</link>
+      <description>
+        <![CDATA[<img width="1024" height="696" src="https://cdn.thenewstack.io/media/2025/11/01917682-columnar-2-1024x696.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/01917682-columnar-2.jpg" /><p>In the past decade, there has been a Cambrian-sized explosion of new analytics-oriented databases and query engines, yet the protocols</p>
+        <p>The post <a href="https://thenewstack.io/apache-arrows-final-frontier-replacing-outdated-database-drivers/">Apache Arrow&#8217;s Final Frontier: Replacing Outdated Database Drivers</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/01917682-columnar-2-1024x696.jpg)
+
+In the past decade, there has been a Cambrian-sized explosion of new analytics-oriented databases and query engines, yet the protocols
+
+The post [Apache Arrow’s Final Frontier: Replacing Outdated Database Drivers](https://thenewstack.io/apache-arrows-final-frontier-replacing-outdated-database-drivers/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804708</guid>
+    </item>    <item>
+      <title>Londoner Polizei und Apple streiten über Umgang mit gestohlenen iPhones</title>
+      <link>https://www.heise.de/news/Londoner-Polizei-und-Apple-streiten-ueber-Umgang-mit-gestohlenen-iPhones-10992205.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Londoner Polizei und Apple streiten über Umgang mit gestohlenen iPhones. Die Polizei wirft Apple vor, eine nationale Datenbank gestohlener Geräte zu ignorieren.]]>
+      </description>
+      <source:markdown>Londoner Polizei und Apple streiten über Umgang mit gestohlenen iPhones. Die Polizei wirft Apple vor, eine nationale Datenbank gestohlener Geräte zu ignorieren.</source:markdown>
+      <guid>cid://http://heise.de/-10992205</guid>
+    </item>    <item>
+      <title>heise+ | Reale Orte in VR-Umgebungen verwandeln: &#34;Meta Hyperscape&#34; für Quest 3 im Test</title>
+      <link>https://www.heise.de/tests/Reale-Ort-in-VR-Umgebungen-verwandeln-Meta-Hyperscape-fuer-Quest-3-im-Test-10900350.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Mit "Meta Hyperscape" lassen sich aus echten Räumen fotorealistische VR-Umgebungen erschaffen. Wir haben das in Innenräumen und im Freien ausprobiert.]]>
+      </description>
+      <source:markdown>Mit &#34;Meta Hyperscape&#34; lassen sich aus echten Räumen fotorealistische VR-Umgebungen erschaffen. Wir haben das in Innenräumen und im Freien ausprobiert.</source:markdown>
+      <guid>cid://http://heise.de/-10900350</guid>
+    </item>    <item>
+      <title>Why Your Observability Strategy Should Start With SLOs</title>
+      <link>https://thenewstack.io/why-your-observability-strategy-should-start-with-slos/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/cc0913a5-observability-use-2-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Two telescope observatories, hatches open, pointed toward the night sky. Observability solutions need to be usable by non-technical stakeholders." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/cc0913a5-observability-use-2.jpg" /><p>Observability platforms often require highly skilled practitioners to make sense and use of those platforms. Ideally, a non-technical stakeholder would</p>
+        <p>The post <a href="https://thenewstack.io/why-your-observability-strategy-should-start-with-slos/">Why Your Observability Strategy Should Start With SLOs</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Two telescope observatories, hatches open, pointed toward the night sky. Observability solutions need to be usable by non-technical stakeholders.](https://cdn.thenewstack.io/media/2025/11/cc0913a5-observability-use-2-1024x576.jpg)
+
+Observability platforms often require highly skilled practitioners to make sense and use of those platforms. Ideally, a non-technical stakeholder would
+
+The post [Why Your Observability Strategy Should Start With SLOs](https://thenewstack.io/why-your-observability-strategy-should-start-with-slos/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22801807</guid>
+    </item>    <item>
+      <title>Debian demands Rust or rust in peace for legacy ports</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/debian_apt_to_require_rust/</link>
+      <description>
+        <![CDATA[<h4>Memory safety trumps retro computing: Alpha, PA-RISC, m68k, SH4 face the chop in 2026</h4> <p>Debian&#39;s APT package manager will have a &#34;hard requirement&#34; on Rust from May 2026. This move may make some rather big waves.…</p>]]>
+      </description>
+      <source:markdown>#### Memory safety trumps retro computing: Alpha, PA-RISC, m68k, SH4 face the chop in 2026
+
+Debian&#39;s APT package manager will have a &#34;hard requirement&#34; on Rust from May 2026. This move may make some rather big waves.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242801</guid>
+    </item>    <item>
+      <title>System-Monitor Glances: Große Neuerungen in Version 4.4.0</title>
+      <link>https://www.heise.de/news/Glances-4-4-0-System-Monitor-erhaelt-Python-API-und-Neofetch-Modus-10986213.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das Open-Source-Monitoring-Tool Glances lässt sich in Version 4.4.0 als Python-Bibliothek nutzen. Hinzu kommen ein Snapshot-Modus und viele Bugfixes.]]>
+      </description>
+      <source:markdown>Das Open-Source-Monitoring-Tool Glances lässt sich in Version 4.4.0 als Python-Bibliothek nutzen. Hinzu kommen ein Snapshot-Modus und viele Bugfixes.</source:markdown>
+      <guid>cid://http://heise.de/-10986213</guid>
+    </item>    <item>
+      <title>What Is a Manifold?</title>
+      <link>https://www.quantamagazine.org/what-is-a-manifold-20251103/</link>
+      <description>
+        <![CDATA[In the mid-19th century, Bernhard Riemann conceived of a new way to think about mathematical spaces, providing the foundation for modern geometry and physics.            <p>The post <a href="https://www.quantamagazine.org/what-is-a-manifold-20251103/" target="_blank">What Is a Manifold?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>In the mid-19th century, Bernhard Riemann conceived of a new way to think about mathematical spaces, providing the foundation for modern geometry and physics.
+
+The post [What Is a Manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=156189</guid>
+    </item>    <item>
+      <title>Verwirrung um Grafiktreiber von AMD für RDNA 1 und 2 im Wartungsmodus</title>
+      <link>https://www.heise.de/news/Verwirrung-um-Grafiktreiber-von-AMD-fuer-RDNA-1-und-2-im-Wartungsmodus-10966025.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Grundlegend neue Treiber für GPUs mit RDNA 1 und  2 wird es wohl nicht mehr geben. AMD will sie dennoch ein bisschen pflegen.]]>
+      </description>
+      <source:markdown>Grundlegend neue Treiber für GPUs mit RDNA 1 und 2 wird es wohl nicht mehr geben. AMD will sie dennoch ein bisschen pflegen.</source:markdown>
+      <guid>cid://http://heise.de/-10966025</guid>
+    </item>    <item>
+      <title>Researchers Discover &#39;Death Ball&#39; Sponge and Dozens of Other Bizarre Deep-Sea Creatures in the Southern Ocean</title>
+      <link>https://www.smithsonianmag.com/smart-news/researchers-discover-death-ball-sponge-and-dozens-of-other-wacky-deep-sea-creatures-in-the-southern-ocean-180987609/</link>
+      <description>
+        <![CDATA[So far, two expeditions have yielded 30 new species—and researchers say there's more to come]]>
+      </description>
+      <source:markdown>So far, two expeditions have yielded 30 new species—and researchers say there&#39;s more to come</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/mUn6mpEtg-YQ2ryfmKcl-LVHft0=/420x240/filters:focal(2505x933:2506x934)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1a/c1/1ac16c60-4c04-4514-9a2d-6cec04e06097/1_-_carnivorous_tree_sponge_-_the_nippon_foundation-nekton_ocean_census_schmidt_ocean_institute.jpg" length="" type="" />
+    </item>    <item>
+      <title>What Nobody Tells You About Building and Retaining GenAI Teams</title>
+      <link>https://thenewstack.io/what-nobody-tells-you-about-building-and-retaining-genai-teams/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/4b5564b9-rowing-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Rowing team practicing on a lake." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/4b5564b9-rowing.jpg" /><p>Building an AI team should start with hiring people who exhibit natural curiosity, grit and technical versatility across AI, machine</p>
+        <p>The post <a href="https://thenewstack.io/what-nobody-tells-you-about-building-and-retaining-genai-teams/">What Nobody Tells You About Building and Retaining GenAI Teams</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Rowing team practicing on a lake.](https://cdn.thenewstack.io/media/2025/11/4b5564b9-rowing-1024x576.jpg)
+
+Building an AI team should start with hiring people who exhibit natural curiosity, grit and technical versatility across AI, machine
+
+The post [What Nobody Tells You About Building and Retaining GenAI Teams](https://thenewstack.io/what-nobody-tells-you-about-building-and-retaining-genai-teams/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805180</guid>
+    </item>    <item>
+      <title>ESA tests bacterial powder to feed Moon and Mars crews</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/esa_launches_study_phase_of/</link>
+      <description>
+        <![CDATA[<h4>Help me, HOBI-WAN, you&#39;re my only hope for lunch</h4> <p>The European Space Agency (ESA) has coined a tortured acronym for its project to feed astronauts on long-duration missions: HOBI-WAN (Hydrogen Oxidizing Bacteria In Weightlessness As a source of Nutrition).…</p>]]>
+      </description>
+      <source:markdown>#### Help me, HOBI-WAN, you&#39;re my only hope for lunch
+
+The European Space Agency (ESA) has coined a tortured acronym for its project to feed astronauts on long-duration missions: HOBI-WAN (Hydrogen Oxidizing Bacteria In Weightlessness As a source of Nutrition).…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242800</guid>
+    </item>    <item>
+      <title>Leiser Premium Mini-PC mit Intel Ultra 9 überzeugt: Minisforum M1 Pro im Test</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/leiser-premium-mini-pc-mit-intel-ultra-9-ueberzeugt-minisforum-m1-pro-im-test/p7qgsy5?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der Minisforum M1 Pro ist ein starker Mini-PC mit Intel-CPU. Zudem bietet er Oculink, zweimal USB4, davon einer mit PD-in, und einen integrierten Lautsprecher.]]>
+      </description>
+      <source:markdown>Der Minisforum M1 Pro ist ein starker Mini-PC mit Intel-CPU. Zudem bietet er Oculink, zweimal USB4, davon einer mit PD-in, und einen integrierten Lautsprecher.</source:markdown>
+      <guid>cid://http://heise.de/-10981884</guid>
+    </item>    <item>
+      <title>Analyse: Bekommt das iPhone 18 vollwertigen Satellitenfunk?</title>
+      <link>https://www.heise.de/news/Analyse-Bekommt-das-iPhone-18-vollwertigen-Satellitenfunk-10966223.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Jahrelang beherrschen iPhones die Nutzung schmalbandigen Satellitenfunks – und genauso lange gibt es Spekulationen, dass Apple die Funktion erweitert.]]>
+      </description>
+      <source:markdown>Jahrelang beherrschen iPhones die Nutzung schmalbandigen Satellitenfunks – und genauso lange gibt es Spekulationen, dass Apple die Funktion erweitert.</source:markdown>
+      <guid>cid://http://heise.de/-10966223</guid>
+    </item>    <item>
+      <title>heise+ | Bit-Rauschen: Milliarden-Deal für AMD</title>
+      <link>https://www.heise.de/hintergrund/Bit-Rauschen-Milliarden-Deal-fuer-AMD-10653263.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[AMD tauscht KI-Beschleuniger für OpenAI gegen Firmenanteile ein. Intel zeigt die ersten Prozessoren aus 18A-Fertigung. Qualcomm gewinnt gegen ARM.]]>
+      </description>
+      <source:markdown>AMD tauscht KI-Beschleuniger für OpenAI gegen Firmenanteile ein. Intel zeigt die ersten Prozessoren aus 18A-Fertigung. Qualcomm gewinnt gegen ARM.</source:markdown>
+      <guid>cid://http://heise.de/-10653263</guid>
+    </item>    <item>
+      <title>Die Produktwerker: Wie viel Zeit darf das Erstellen von User Stories kosten?</title>
+      <link>https://www.heise.de/blog/Die-Produktwerker-Wie-viel-Zeit-darf-das-Erstellen-von-User-Stories-kosten-10984544.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Wie viel Aufwand lohnt sich für das Schreiben von User Stories? Entscheidend ist, dass Teams Zeit in gemeinsames Denken investieren, meinen die Produktwerker.]]>
+      </description>
+      <source:markdown>Wie viel Aufwand lohnt sich für das Schreiben von User Stories? Entscheidend ist, dass Teams Zeit in gemeinsames Denken investieren, meinen die Produktwerker.</source:markdown>
+      <guid>cid://http://heise.de/-10984544</guid>
+    </item>    <item>
+      <title>Pixel 7 bis 10: Google veröffentlicht überraschend zweites Oktober-Update</title>
+      <link>https://www.heise.de/news/Pixel-7-bis-10-Google-veroeffentlicht-ueberraschend-zweites-Oktober-Update-10986061.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Google hat ein neues Oktober-Update für seine Pixel-Smartphones veröffentlicht. Konkrete Neuerungen nennt der Konzern nicht, Verizon gibt erste Details preis.]]>
+      </description>
+      <source:markdown>Google hat ein neues Oktober-Update für seine Pixel-Smartphones veröffentlicht. Konkrete Neuerungen nennt der Konzern nicht, Verizon gibt erste Details preis.</source:markdown>
+      <guid>cid://http://heise.de/-10986061</guid>
+    </item>    <item>
       <title>heise+ | Gezielt trainieren: Suunto Race 2 im Test</title>
       <link>https://www.heise.de/tests/Gezielt-trainieren-Suunto-Race-2-im-Test-10781721.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
       <description>
@@ -48,12 +329,12 @@
       <source:markdown>Mangelnder Datenschutz beim Einkaufen im Netz ist Verbrauchern fast ein ebenso großer Dorn im Auge wie falsche Händlerversprechen, zeigt eine aktuelle Studie.</source:markdown>
       <guid>cid://http://heise.de/-10984061</guid>
     </item>    <item>
-      <title>Agentic AI reshaping tech hiring policies, say CTOs and CIOs</title>
+      <title>Paradox: Agentic AI dev roles are less in demand as agents take over</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/demand_for_software_skills_ai_jobs/</link>
       <description>
-        <![CDATA[<h4>Oh the irony: IEEE survey of senior techies finds demand for devs skills falling in AI-related roles</h4> <p>Demand for software development skills in AI-related roles is set to fall next year as agentic AI accelerates across business markets, according to an IEEE industry survey.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+        <![CDATA[<h4>IEEE survey of senior techies in six countries finds recrutiment for data analytics, and machine learning on the up</h4> <p>Demand for software development skills in AI-related roles is set to fall next year as agentic AI accelerates across business markets, according to an IEEE industry survey.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
-      <source:markdown>#### Oh the irony: IEEE survey of senior techies finds demand for devs skills falling in AI-related roles
+      <source:markdown>#### IEEE survey of senior techies in six countries finds recrutiment for data analytics, and machine learning on the up
 
 Demand for software development skills in AI-related roles is set to fall next year as agentic AI accelerates across business markets, according to an IEEE industry survey.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242797</guid>
@@ -61,7 +342,7 @@ Demand for software development skills in AI-related roles is set to fall next y
       <title>Migrating VMs to Kubernetes: A Roadmap for Cloud Native Enterprises</title>
       <link>https://thenewstack.io/migrating-vms-to-kubernetes-a-roadmap-for-cloud-native-enterprises/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/98aa3d89-migratingvmstokubernetes-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Migrating VMs to Kubernetes: A Roadmap for Cloud Native Enterprises featured image shows a monarch butterfly" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/98aa3d89-migratingvmstokubernetes.jpg" /><p>This is an excerpt from the upcoming TNS eBook &#8220;Running Virtual Machines on Kubernetes: A Practical Roadmap for Enterprise Migrations&#8221;</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/98aa3d89-migratingvmstokubernetes-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Migrating VMs to Kubernetes: A Roadmap for Cloud Native Enterprises featured image shows a monarch butterfly" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/98aa3d89-migratingvmstokubernetes.jpg" /><p>This is an excerpt from the upcoming TNS eBook &#8220;Running Virtual Machines on Kubernetes: A Practical Roadmap for Enterprise Migrations&#8221;</p>
         <p>The post <a href="https://thenewstack.io/migrating-vms-to-kubernetes-a-roadmap-for-cloud-native-enterprises/">Migrating VMs to Kubernetes: A Roadmap for Cloud Native Enterprises</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![Migrating VMs to Kubernetes: A Roadmap for Cloud Native Enterprises featured image shows a monarch butterfly](https://cdn.thenewstack.io/media/2025/10/98aa3d89-migratingvmstokubernetes-1024x576.jpg)
@@ -786,14 +1067,6 @@ Linux has been slowly gaining popularity over the past few years for both end us
 
 The post [Best Linux Distros for Development](https://thenewstack.io/best-linux-distros-for-development/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
       <guid>cid://https://thenewstack.io/?p=22804813</guid>
-    </item>    <item>
-      <title>Verwirrung um Grafiktreiber von AMD für RDNA 1 und 2 im Wartungsmodus</title>
-      <link>https://www.heise.de/news/Verwirrung-um-Grafiktreiber-von-AMD-fuer-RDNA-1-und-2-im-Wartungsmodus-10966025.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Grundlegend neue Treiber für GPUs mit RDNA 1 und  2 wird es wohl nicht mehr geben. AMD will sie dennoch ein bisschen pflegen.]]>
-      </description>
-      <source:markdown>Grundlegend neue Treiber für GPUs mit RDNA 1 und 2 wird es wohl nicht mehr geben. AMD will sie dennoch ein bisschen pflegen.</source:markdown>
-      <guid>cid://http://heise.de/-10966025</guid>
     </item>    <item>
       <title>Soundbar KEF Xio im Test: grandioser Klang – auch ohne Subwoofer</title>
       <link>https://www.heise.de/bestenlisten/testbericht/soundbar-kef-xio-im-test-grandioser-klang-auch-ohne-subwoofer/jfwrvft?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>

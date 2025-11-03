@@ -323,3 +323,4 @@ description: Blogs, columns and snapshots from around the web.
 - [Run Away Country with Alex Wagner](https://feeds.simplecast.com/n_gL1Piz)
 - [Branco Milanovic, Global Inequality and More 3.0](https://branko2f7.substack.com/feed)
 - [W. Kamau Bell blog](http://www.wkamaubell.com/blog?format=rss)
+- [Neoma Magazine](https://www.noemamag.com/feed/)

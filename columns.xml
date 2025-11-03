@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>03 Nov 25 06:12 -0800</lastBuildDate>
+    <lastBuildDate>03 Nov 25 11:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -38,6 +38,146 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <link>https://arstechnica.com/tech-policy/2025/11/the-internet-archive-survived-major-copyright-losses-whats-next/</link>
+      <description>
+        <![CDATA[<p>Internet Archive’s legal fights are over, but its founder mourns what was lost.</p>]]>
+      </description>
+      <source:markdown>Internet Archive’s legal fights are over, but its founder mourns what was lost.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/03/1785/</guid>
+    </item>    <item>
+      <link>https://blogrecode.com/jetpack-tools-every-blogger-should-be-using/</link>
+      <description>
+        <![CDATA[<p>Jetpack Tools Every Blogger Should Be Using In 2025.</p>]]>
+      </description>
+      <source:markdown>Jetpack Tools Every Blogger Should Be Using In 2025.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/03/1783/</guid>
+    </item>    <item>
+      <title>Talking CSS, Web Components, App Design and (gulp) AI on ShopTalk Show</title>
+      <link>https://cloudfour.com/thinks/talking-css-web-components-app-design-and-gulp-ai-on-shoptalk-show/</link>
+      <description>
+        <![CDATA[I had a blast chatting with Chris and Dave on my personal favorite podcast about building websites.]]>
+      </description>
+      <source:markdown>I had a blast chatting with Chris and Dave on my personal favorite podcast about building websites.</source:markdown>
+      <enclosure url="https://cloudfour.com/wp-content/uploads/2025/11/shoptalk-689-thumb.jpg" length="0" type="image/jpg" />
+      <guid>cid://https://cloudfour.com/?p=8422</guid>
+    </item>    <item>
+      <title>Bud Smith built a desk for his truck so he could write...</title>
+      <link>https://kottke.org/25/11/0047765-now-that-i-had-my</link>
+      <guid>cid://tag:kottke.org,2025://13.47765</guid>
+    </item>    <item>
+      <link>https://www.thenews.com.pk/latest/1354625-elon-musk-warns-work-could-soon-become-optional-in-age-of-ai</link>
+      <description>
+        <![CDATA[<p>Elon Musk warns work could soon become ‘optional’ in age of AI.</p>]]>
+      </description>
+      <source:markdown>Elon Musk warns work could soon become ‘optional’ in age of AI.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/03/1781/</guid>
+    </item>    <item>
+      <title>Quoting MiniMax</title>
+      <link>https://simonwillison.net/2025/Nov/3/minimax/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="https://x.com/minimax__ai/status/1985375617622454566"><p><strong>Interleaved thinking</strong> is essential for LLM agents: it means alternating between explicit reasoning and tool use, while carrying that reasoning forward between steps.This process significantly enhances <strong>planning, self‑correction, and reliability</strong> in long workflows. [...]</p>
+        <p>From community feedback, we've often observed failures to preserve prior-round thinking state across multi-turn interactions with M2. The root cause is that the widely-used <strong>OpenAI Chat Completion API does not support passing reasoning content back in subsequent requests</strong>. Although the Anthropic API natively supports this capability, the community has provided less support for models beyond Claude, and many applications still omit passing back the previous turns' thinking in their Anthropic API implementations. This situation has resulted in poor support for Interleaved Thinking for new models. <strong>To fully unlock M2's capabilities, preserving the reasoning process across multi-turn interactions is essential</strong>.</p></blockquote>
+        <p class="cite">&mdash; <a href="https://x.com/minimax__ai/status/1985375617622454566">MiniMax</a>, Interleaved Thinking Unlocks Reliable MiniMax-M2 Agentic Capability</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/definitions">definitions</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/ai-in-china">ai-in-china</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/minimax">minimax</a></p>]]>
+      </description>
+      <source:markdown>&#62; **Interleaved thinking** is essential for LLM agents: it means alternating between explicit reasoning and tool use, while carrying that reasoning forward between steps.This process significantly enhances **planning, self‑correction, and reliability** in long workflows. \[...\]
+&#62;
+&#62; From community feedback, we&#39;ve often observed failures to preserve prior-round thinking state across multi-turn interactions with M2. The root cause is that the widely-used **OpenAI Chat Completion API does not support passing reasoning content back in subsequent requests**. Although the Anthropic API natively supports this capability, the community has provided less support for models beyond Claude, and many applications still omit passing back the previous turns&#39; thinking in their Anthropic API implementations. This situation has resulted in poor support for Interleaved Thinking for new models. **To fully unlock M2&#39;s capabilities, preserving the reasoning process across multi-turn interactions is essential**.
+
+— [MiniMax](https://x.com/minimax__ai/status/1985375617622454566), Interleaved Thinking Unlocks Reliable MiniMax-M2 Agentic Capability
+
+Tags: [generative-ai](https://simonwillison.net/tags/generative-ai), [ai-agents](https://simonwillison.net/tags/ai-agents), [llm-reasoning](https://simonwillison.net/tags/llm-reasoning), [definitions](https://simonwillison.net/tags/definitions), [ai](https://simonwillison.net/tags/ai), [ai-in-china](https://simonwillison.net/tags/ai-in-china), [llms](https://simonwillison.net/tags/llms), [minimax](https://simonwillison.net/tags/minimax)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/3/minimax/#atom-everything</guid>
+    </item>    <item>
+      <title>Gurman Suggests That Next-Gen Siri Will Be Powered by a White-Label Version of Google Gemini Running on Apple’s Private Cloud Compute</title>
+      <link>https://www.bloomberg.com/news/newsletters/2025-11-02/apple-s-nearly-140-billion-quarter-when-ios-26-1-will-be-out-ipad-mini-revamp-mhhpy1ax</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42352</guid>
+    </item>    <item>
+      <title>Flock Logins Exposed In Malware Infections, Senator Asks FTC to Investigate the Company</title>
+      <link>https://www.404media.co/flock-logins-exposed-in-malware-infections-senator-asks-ftc-to-investigate-the-company/</link>
+      <description>
+        <![CDATA[Lawmakers say AI-camera company Flock is violating federal law by not enforcing multi-factor authentication. 404 Media previously found Flock credentials included in infostealer infections.]]>
+      </description>
+      <source:markdown>Lawmakers say AI-camera company Flock is violating federal law by not enforcing multi-factor authentication. 404 Media previously found Flock credentials included in infostealer infections.</source:markdown>
+      <guid>cid://6908cb7db039580001941070</guid>
+    </item>    <item>
+      <title>&#38;#8220;Glowing sperm helps to reveal secrets of mosquito sex.&#38;#8221; And what are...</title>
+      <link>https://kottke.org/25/11/0047760-glowing-sperm-helps-to-re</link>
+      <guid>cid://tag:kottke.org,2025://13.47760</guid>
+    </item>    <item>
+      <title>arXiv Changes Rules After Getting Spammed With AI-Generated &#39;Research&#39; Papers</title>
+      <link>https://www.404media.co/arxiv-changes-rules-after-getting-spammed-with-ai-generated-research-papers/</link>
+      <description>
+        <![CDATA[Cornell University’s academic paper repository will no longer accept Computer Science papers still under review.]]>
+      </description>
+      <source:markdown>Cornell University’s academic paper repository will no longer accept Computer Science papers still under review.</source:markdown>
+      <guid>cid://6908d80cb03958000194190f</guid>
+    </item>    <item>
+      <title>Debian demands Rust or rust in peace for legacy ports</title>
+      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/11/03/debian_apt_to_require_rust/</link>
+      <description>
+        <![CDATA[<h4>Memory safety trumps retro computing: Alpha, PA-RISC, m68k, SH4 face the chop in 2026</h4>
+              <p>Debian&#39;s APT package manager will have a &#34;hard requirement&#34; on Rust from May 2026. This move may make some rather big waves.</p>]]>
+      </description>
+      <source:markdown>#### Memory safety trumps retro computing: Alpha, PA-RISC, m68k, SH4 face the chop in 2026
+
+Debian&#39;s APT package manager will have a &#34;hard requirement&#34; on Rust from May 2026. This move may make some rather big waves.</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242801</guid>
+    </item>    <item>
+      <link>https://glammr.us/@IIIF/115486600473497447</link>
+      <description>
+        <![CDATA[<p>⏱️ Today&#39;s the final day to submit a proposal for the 2026 <a href="https://glammr.us/tags/IIIF" class="mention hashtag" rel="tag">#<span>IIIF</span></a> Online Meeting!</p><p>Read the CfP and submit: <a href="https://iiif.io/event/2026/online-meeting/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">iiif.io/event/2026/online-meet</span><span class="invisible">ing/</span></a></p>]]>
+      </description>
+      <source:markdown>⏱️ Today&#39;s the final day to submit a proposal for the 2026 [#IIIF](https://glammr.us/tags/IIIF) Online Meeting!
+
+Read the CfP and submit: [https://iiif.io/event/2026/online-meeting/](https://iiif.io/event/2026/online-meeting/)</source:markdown>
+      <guid>cid://https://glammr.us/@IIIF/115486600473497447</guid>
+    </item>    <item>
+      <title>Jazz Jungle Mix in a Japanese Rice Field</title>
+      <link>https://kottke.org/25/11/jazz-jungle-mix-in-a-japanese-rice-field</link>
+      <guid>cid://tag:kottke.org,2025://5.47766</guid>
+    </item>    <item>
+      <title>The Future of Advertising Is AI Generated Ads That Are Directly Personalized to You</title>
+      <link>https://www.404media.co/the-future-of-advertising-is-ai-generated-ads-that-are-directly-personalized-to-you/</link>
+      <description>
+        <![CDATA["Advertisers are increasingly just going to be able to give us a business objective and give us a credit card or bank account, and have the AI system basically figure out everything else."]]>
+      </description>
+      <source:markdown>&#34;Advertisers are increasingly just going to be able to give us a business objective and give us a credit card or bank account, and have the AI system basically figure out everything else.&#34;</source:markdown>
+      <guid>cid://6908be9db039580001921563</guid>
+    </item>    <item>
+      <link>https://www.newsweek.com/another-blue-jays-baserunning-error-cost-toronto-world-series-in-game-7-10978254?utm_term=Autofeed&#38;utm_medium=Social&#38;utm_source=Facebook&#38;fbclid=IwY2xjawN1niVleHRuA2FlbQIxMABicmlkETFkVGpGSmhZa3lPR3JiTWM4AR5XlE5UlQTOyrEijf__N2lKcoP-sPvI9u18FBZ48XMLQulgW0rZqvasTeUrDg_aem_j7sXchncvaRA-XRoWNZatw#Echobox=1762101821</link>
+      <description>
+        <![CDATA[<p>Blue Jays Baserunning Error Cost Toronto World Series.</p>]]>
+      </description>
+      <source:markdown>Blue Jays Baserunning Error Cost Toronto World Series.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/03/1779/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/03.html#a142907</link>
+      <description>
+        <![CDATA[Wes Felter <a href="https://x.com/wmf/status/1985051061174861856">explains</a> what <a href="https://en.wikipedia.org/wiki/Stablecoin">stablecoins</a> are for. "Stablecoins work offshore in places where dollars don't, they're faster to transfer, they mostly can't be seized, etc. It's for the margins not the mainstream."]]>
+      </description>
+      <source:markdown>Wes Felter [explains](https://x.com/wmf/status/1985051061174861856) what [stablecoins](https://en.wikipedia.org/wiki/Stablecoin) are for. &#34;Stablecoins work offshore in places where dollars don&#39;t, they&#39;re faster to transfer, they mostly can&#39;t be seized, etc. It&#39;s for the margins not the mainstream.&#34;</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/03.html#a142907</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/03.html#a142547</link>
+      <description>
+        <![CDATA[New <a href="https://shownotes.scripting.com/scripting/2025/11/03/itsFasterAndEvenSimplerThanRss.html">podcast</a> about WebSockets.]]>
+      </description>
+      <source:markdown>New [podcast](https://shownotes.scripting.com/scripting/2025/11/03/itsFasterAndEvenSimplerThanRss.html) about WebSockets.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/03.html#a142547</guid>
+    </item>    <item>
+      <title>Yessss. I noticed that a 4K remaster of Princess Mononoke was playing...</title>
+      <link>https://kottke.org/25/11/0047772-yessss-i-noticed-that-a</link>
+      <guid>cid://tag:kottke.org,2025://13.47772</guid>
+    </item>    <item>
+      <link>https://wordpress.com/blog/2009/09/07/rss-in-the-clouds/</link>
+      <description>
+        <![CDATA[<p>WordPress backgrounder on rssCloud.</p>]]>
+      </description>
+      <source:markdown>WordPress backgrounder on rssCloud.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/03/1777/</guid>
+    </item>    <item>
       <title>The Crackdown on ICE Spotting Apps (with Joshua Aaron)</title>
       <link>https://www.404media.co/the-crackdown-on-ice-spotting-apps-with-joshua-aaron/</link>
       <description>
@@ -46,9 +186,37 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <source:markdown>We speak to the creator of ICEBlock about Apple banning their app, and what this means for people trying to access information about ICE.</source:markdown>
       <guid>cid://6908a384b039580001920f7a</guid>
     </item>    <item>
+      <title>Why Engineers Can&#39;t Be Rational About Programming Languages</title>
+      <link>https://spf13.com/p/the-hidden-conversation/</link>
+      <description>
+        <![CDATA[<div class="callout callout--tip callout--icon">
+         <div class="callout__icon" aria-hidden="true">✨</div>
+         <p class="callout__title">Series Overview</p><p>This is the first in a series of posts on the true cost of a programming language.</p>
+        </div>
+        <section class="content-section content-section--type-band content-section--bg-afterglow"><h2 id="the-leadership-blindspot-how-identity-drives-multi-million-dollar-technical-debt">The Leadership Blindspot: How Identity Drives Multi-Million Dollar Technical Debt</h2>
+        <p>A programming language is the single most expensive choice a company makes, yet we treat it like a technical debate. After watching this mistake bankrupt dozens of companies and hurt hundreds more, I&rsquo;ve learned the uncomfortable truth: these decisions are rarely about technology. They&rsquo;re about identity, emotion, and ego, and they&rsquo;re destroying your velocity and budget in ways you can&rsquo;t see until it&rsquo;s too late.</p>]]>
+      </description>
+      <source:markdown>✨
+
+Series Overview
+
+This is the first in a series of posts on the true cost of a programming language.
+
+## The Leadership Blindspot: How Identity Drives Multi-Million Dollar Technical Debt
+
+A programming language is the single most expensive choice a company makes, yet we treat it like a technical debate. After watching this mistake bankrupt dozens of companies and hurt hundreds more, I’ve learned the uncomfortable truth: these decisions are rarely about technology. They’re about identity, emotion, and ego, and they’re destroying your velocity and budget in ways you can’t see until it’s too late.</source:markdown>
+      <guid>cid://https://spf13.com/p/the-hidden-conversation/</guid>
+    </item>    <item>
       <title>Better Than a Rabbit’s Foot</title>
       <link>https://onefoottsunami.com/2025/11/03/better-than-a-rabbits-foot/</link>
       <guid>cid://https://onefoottsunami.com/?p=29387</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/03.html#a132606</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2021/02/19/blueJello.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">From the beginning, I wanted FeedLand to make excellent use of WebSockets. It's an amazing technology for its power and simplicity. Basically it allows a server running in the cloud to send information to an app running in the browser, or for that matter an iOS app running on an phone. Then the question is what do you want to use the socket for? And the answer is that to make syndication <i>even simpler and faster than RSS</i>. If you want to know more, there's a <a href="https://github.com/scripting/feedlandSocket">client toolkit</a> and <a href="https://socketdemo.feedland.org/?url=wss://feedland.com:443/_ws/">demo app</a> on GitHub, open source of course. How real is it? The <a href="https://blogroll.social/">blogroll</a> on scripting.com is a sockets app, a much-improved blogroll from the ones we had 20 years ago. Also runs on WordPress sites. It's been running smoothly since March 2024. Pretty solid. And WordPress, that doesn't break formats, has supported the rssCloud protocol since 2009, and of course so does FeedLand.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2021/02/19/blueJello.png)From the beginning, I wanted FeedLand to make excellent use of WebSockets. It&#39;s an amazing technology for its power and simplicity. Basically it allows a server running in the cloud to send information to an app running in the browser, or for that matter an iOS app running on an phone. Then the question is what do you want to use the socket for? And the answer is that to make syndication _even simpler and faster than RSS_. If you want to know more, there&#39;s a [client toolkit](https://github.com/scripting/feedlandSocket) and [demo app](https://socketdemo.feedland.org/?url=wss://feedland.com:443/_ws/) on GitHub, open source of course. How real is it? The [blogroll](https://blogroll.social/) on scripting.com is a sockets app, a much-improved blogroll from the ones we had 20 years ago. Also runs on WordPress sites. It&#39;s been running smoothly since March 2024. Pretty solid. And WordPress, that doesn&#39;t break formats, has supported the rssCloud protocol since 2009, and of course so does FeedLand.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/03.html#a132606</guid>
     </item>    <item>
       <title>Bóthar</title>
       <link>https://adactio.com/journal/22228</link>
@@ -394,6 +562,146 @@ The Register FOSS desk sat down with Canonical&#39;s vice-president for engineer
 The post [614\. Walt Disney: The Great American Storyteller](https://therestishistory.com/614-walt-disney-the-great-american-storyteller/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
       <guid>cid://https://therestishistory.com/614-walt-disney-the-great-american-storyteller/</guid>
     </item>    <item>
+      <title>GSoC 2025: Introducing an ABI Lowering Library</title>
+      <link>https://blog.llvm.org/posts/2025-08-25-abi-library/</link>
+      <description>
+        <![CDATA[<h1 id="introduction">Introduction</h1><p>In this post I&rsquo;m going to outline details about a new ABI lowering library I&rsquo;ve been developing for LLVM as part of GSoC 2025! The aim was to extract the ABI logic from Clang and create a reusable library that any LLVM frontend can use for correct C interoperability.</p><h1 id="the-problem-were-solving">The Problem We&rsquo;re Solving</h1><p>At the start of the program, I wrote about the <a href="https://vortex73.github.io/rendered/GSOC_BLOG1.html">fundamental gap in LLVM&rsquo;s target abstraction</a>. The promise is simple: frontends emit LLVM IR, and LLVM handles everything else. But this promise completely breaks down when it comes to Application Binary Interface (ABI) lowering. Every LLVM frontend that wants C interoperability has to reimplement thousands of lines of target-specific ABI logic.</p><p>Here&rsquo;s what that looks like in practice:</p><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-cpp" data-lang="cpp"><span style="display:flex;"><span><span style="color:#66d9ef">struct</span> <span style="color:#a6e22e">Point</span> { <span style="color:#66d9ef">float</span> x, y; };</span></span><span style="display:flex;"><span><span style="color:#66d9ef">struct</span> <span style="color:#a6e22e">Point</span> <span style="color:#a6e22e">add_points</span>(<span style="color:#66d9ef">struct</span> <span style="color:#a6e22e">Point</span> a, <span style="color:#66d9ef">struct</span> <span style="color:#a6e22e">Point</span> b);</span></span></code></pre></div><p>Seems innocent enough, right? But generating correct LLVM IR for this requires knowing:</p><ul><li>Are the struct arguments passed in registers or memory?</li><li>If in registers, what register class is used?</li><li>Are multiple values packed into a single register?</li><li>Is the struct returned in registers or using a hidden return parameter?</li></ul><p>The answer depends on subtle ABI rules that are target-specific, constantly evolving, and absolutely critical to get right. Miss one detail and you get silent memory corruption.</p><p><a href="https://clang.godbolt.org/z/P4fMj7hjY">This godbolt link</a> shows the same simple struct using six different calling conventions across six different targets. And crucially: a frontend generating IR needs to know ALL of this before it can emit the right function signature.</p><p>As I outlined in my earlier blog post, LLVM&rsquo;s type system simply can&rsquo;t express all the information needed for correct ABI decisions. Two otherwise identical structs with different explicit alignment attributes have different ABIs. <code>__int128</code> and <code>_BitInt(128)</code> look similar but follow completely different rules.</p><h1 id="the-design">The Design</h1><div style="margin:0 auto;"> <img src="https://blog.llvm.org/img/abi_flow.png"><br/></div><h2 id="independent-abi-type-system">Independent ABI Type System</h2><p>At the heart of the library is <code>llvm::abi::Type</code>, a type system designed specifically for ABI decisions:</p><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-cpp" data-lang="cpp"><span style="display:flex;"><span><span style="color:#66d9ef">class</span> <span style="color:#a6e22e">Type</span> {</span></span><span style="display:flex;"><span><span style="color:#66d9ef">protected</span><span style="color:#f92672">:</span></span></span><span style="display:flex;"><span> TypeKind Kind;</span></span><span style="display:flex;"><span> TypeSize SizeInBits;</span></span><span style="display:flex;"><span> Align ABIAlignment;</span></span><span style="display:flex;"><span></span></span><span style="display:flex;"><span><span style="color:#66d9ef">public</span><span style="color:#f92672">:</span></span></span><span style="display:flex;"><span> TypeKind getKind() <span style="color:#66d9ef">const</span> { <span style="color:#66d9ef">return</span> Kind; }</span></span><span style="display:flex;"><span> TypeSize <span style="color:#a6e22e">getSizeInBits</span>() <span style="color:#66d9ef">const</span> { <span style="color:#66d9ef">return</span> SizeInBits; }</span></span><span style="display:flex;"><span> Align <span style="color:#a6e22e">getAlignment</span>() <span style="color:#66d9ef">const</span> { <span style="color:#66d9ef">return</span> ABIAlignment; }</span></span><span style="display:flex;"><span></span></span><span style="display:flex;"><span> <span style="color:#66d9ef">bool</span> <span style="color:#a6e22e">isInteger</span>() <span style="color:#66d9ef">const</span> { <span style="color:#66d9ef">return</span> Kind <span style="color:#f92672">==</span> TypeKind<span style="color:#f92672">::</span>Integer; }</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">bool</span> <span style="color:#a6e22e">isStruct</span>() <span style="color:#66d9ef">const</span> { <span style="color:#66d9ef">return</span> Kind <span style="color:#f92672">==</span> TypeKind<span style="color:#f92672">::</span>Struct; }</span></span><span style="display:flex;"><span> <span style="color:#75715e">// ... other predicates that matter for ABI</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>};</span></span></code></pre></div><p>It contains <strong>more information than LLVM IR types</strong> (which for instance doesn&rsquo;t distinguish between <code>__int128</code> and <code>_BitInt(128)</code>, both just <code>i128</code>), but <strong>less information than frontend types</strong> like Clang&rsquo;s QualType (which carry parsing context, sugar, and other frontend-specific concerns that don&rsquo;t matter for calling conventions).</p><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-cpp" data-lang="cpp"><span style="display:flex;"><span><span style="color:#66d9ef">class</span> <span style="color:#a6e22e">IntegerType</span> <span style="color:#f92672">:</span> <span style="color:#66d9ef">public</span> Type {</span></span><span style="display:flex;"><span><span style="color:#66d9ef">private</span><span style="color:#f92672">:</span></span></span><span style="display:flex;"><span> <span style="color:#66d9ef">bool</span> IsSigned;</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">bool</span> IsBitInt; <span style="color:#75715e">// Crucially different from __int128!</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span></span></span><span style="display:flex;"><span><span style="color:#66d9ef">public</span><span style="color:#f92672">:</span></span></span><span style="display:flex;"><span> IntegerType(<span style="color:#66d9ef">uint64_t</span> BitWidth, Align Align, <span style="color:#66d9ef">bool</span> Signed,</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">bool</span> BitInt <span style="color:#f92672">=</span> false);</span></span><span style="display:flex;"><span>};</span></span></code></pre></div><h2 id="frontend-to-abi-mapping">Frontend-to-ABI Mapping</h2><p>The <code>QualTypeMapper</code> class handles the job of converting Clang frontend types to ABI types.</p><p><strong>The ABI library is primarily intended to handle the C ABI.</strong> The C type system is relatively simple, and as such the type mapping from frontend types to ABI types is straightforward : integers map to <code>IntegerType</code>, pointers map to <code>PointerType</code>, and structs map to <code>StructType</code> with their fields and offsets preserved.</p><p>However, Clang also needs support for the C++ ABI, and the type mapping for this case is significantly more complicated. C++ object layout involves vtables, base class subobjects, virtual inheritance, and all sorts of edge cases that need to be preserved for correct ABI decisions. Here&rsquo;s an excerpt showing how <code>QualTypeMapper</code> tackles C++ inheritance:</p><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-cpp" data-lang="cpp"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> llvm<span style="color:#f92672">::</span>abi<span style="color:#f92672">::</span>StructType <span style="color:#f92672">*</span></span></span><span style="display:flex;"><span>QualTypeMapper<span style="color:#f92672">::</span>convertCXXRecordType(<span style="color:#66d9ef">const</span> CXXRecordDecl <span style="color:#f92672">*</span>RD,</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">bool</span> canPassInRegs) {</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">const</span> ASTRecordLayout <span style="color:#f92672">&amp;</span>Layout <span style="color:#f92672">=</span> ASTCtx.getASTRecordLayout(RD);</span></span><span style="display:flex;"><span> SmallVector<span style="color:#f92672">&lt;</span>llvm<span style="color:#f92672">::</span>abi<span style="color:#f92672">::</span>FieldInfo, <span style="color:#ae81ff">16</span><span style="color:#f92672">&gt;</span> Fields;</span></span><span style="display:flex;"><span> SmallVector<span style="color:#f92672">&lt;</span>llvm<span style="color:#f92672">::</span>abi<span style="color:#f92672">::</span>FieldInfo, <span style="color:#ae81ff">8</span><span style="color:#f92672">&gt;</span> BaseClasses;</span></span><span style="display:flex;"><span> SmallVector<span style="color:#f92672">&lt;</span>llvm<span style="color:#f92672">::</span>abi<span style="color:#f92672">::</span>FieldInfo, <span style="color:#ae81ff">8</span><span style="color:#f92672">&gt;</span> VirtualBaseClasses;</span></span><span style="display:flex;"><span></span></span><span style="display:flex;"><span> <span style="color:#75715e">// Handle vtable pointer for polymorphic classes</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span> <span style="color:#66d9ef">if</span> (RD<span style="color:#f92672">-&gt;</span>isPolymorphic()) {</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">const</span> llvm<span style="color:#f92672">::</span>abi<span style="color:#f92672">::</span>Type <span style="color:#f92672">*</span>VtablePointer <span style="color:#f92672">=</span></span></span><span style="display:flex;"><span> createPointerTypeForPointee(ASTCtx.VoidPtrTy);</span></span><span style="display:flex;"><span> Fields.emplace_back(VtablePointer, <span style="color:#ae81ff">0</span>);</span></span><span style="display:flex;"><span> }</span></span><span style="display:flex;"><span></span></span><span style="display:flex;"><span> <span style="color:#75715e">// Process base classes with proper offset calculation</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span> <span style="color:#66d9ef">for</span> (<span style="color:#66d9ef">const</span> <span style="color:#66d9ef">auto</span> <span style="color:#f92672">&amp;</span>Base : RD<span style="color:#f92672">-&gt;</span>bases()) {</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">const</span> llvm<span style="color:#f92672">::</span>abi<span style="color:#f92672">::</span>Type <span style="color:#f92672">*</span>BaseType <span style="color:#f92672">=</span> convertType(Base.getType());</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">uint64_t</span> BaseOffset <span style="color:#f92672">=</span> Layout.getBaseClassOffset(</span></span><span style="display:flex;"><span> Base.getType()<span style="color:#f92672">-&gt;</span>castAs<span style="color:#f92672">&lt;</span>RecordType<span style="color:#f92672">&gt;</span>()<span style="color:#f92672">-&gt;</span>getAsCXXRecordDecl()</span></span><span style="display:flex;"><span> ).getQuantity() <span style="color:#f92672">*</span> <span style="color:#ae81ff">8</span>;</span></span><span style="display:flex;"><span></span></span><span style="display:flex;"><span> <span style="color:#66d9ef">if</span> (Base.isVirtual())</span></span><span style="display:flex;"><span> VirtualBaseClasses.emplace_back(BaseType, BaseOffset);</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">else</span></span></span><span style="display:flex;"><span> BaseClasses.emplace_back(BaseType, BaseOffset);</span></span><span style="display:flex;"><span> }</span></span><span style="display:flex;"><span></span></span><span style="display:flex;"><span> <span style="color:#75715e">// ... field processing and final struct creation</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>}</span></span></code></pre></div><p>Other frontends that only need C interoperability will have a much simpler mapping task.</p><h2 id="target-specific-classification">Target-Specific Classification</h2><p>Each target implements the ABIInfo interface. I&rsquo;ll show the BPF implementation here since it&rsquo;s one of the simplest ABIs in LLVM, the classification logic fits in about 50 lines of code with straightforward rules: small aggregates go in registers, larger ones are passed indirectly.</p><p>Its worth noting that most real-world ABIs are not <em>this</em> simple - for instance targets like X86-64 are significantly more complex.</p><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-cpp" data-lang="cpp"><span style="display:flex;"><span><span style="color:#66d9ef">class</span> <span style="color:#a6e22e">BPFABIInfo</span> <span style="color:#f92672">:</span> <span style="color:#66d9ef">public</span> ABIInfo {</span></span><span style="display:flex;"><span><span style="color:#66d9ef">private</span><span style="color:#f92672">:</span></span></span><span style="display:flex;"><span> TypeBuilder <span style="color:#f92672">&amp;</span>TB;</span></span><span style="display:flex;"><span></span></span><span style="display:flex;"><span><span style="color:#66d9ef">public</span><span style="color:#f92672">:</span></span></span><span style="display:flex;"><span> BPFABIInfo(TypeBuilder <span style="color:#f92672">&amp;</span>TypeBuilder) <span style="color:#f92672">:</span> TB(TypeBuilder) {}</span></span><span style="display:flex;"><span></span></span><span style="display:flex;"><span> ABIArgInfo <span style="color:#a6e22e">classifyArgumentType</span>(<span style="color:#66d9ef">const</span> Type <span style="color:#f92672">*</span>ArgTy) <span style="color:#66d9ef">const</span> {</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">if</span> (isAggregateTypeForABI(ArgTy)) {</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">auto</span> SizeInBits <span style="color:#f92672">=</span> ArgTy<span style="color:#f92672">-&gt;</span>getSizeInBits().getFixedValue();</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">if</span> (SizeInBits <span style="color:#f92672">==</span> <span style="color:#ae81ff">0</span>)</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">return</span> ABIArgInfo<span style="color:#f92672">::</span>getIgnore();</span></span><span style="display:flex;"><span></span></span><span style="display:flex;"><span> <span style="color:#66d9ef">if</span> (SizeInBits <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">128</span>) {</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">const</span> Type <span style="color:#f92672">*</span>CoerceTy;</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">if</span> (SizeInBits <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">64</span>) {</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">auto</span> AlignedBits <span style="color:#f92672">=</span> alignTo(SizeInBits, <span style="color:#ae81ff">8</span>);</span></span><span style="display:flex;"><span> CoerceTy <span style="color:#f92672">=</span> TB.getIntegerType(AlignedBits, Align(<span style="color:#ae81ff">8</span>), false);</span></span><span style="display:flex;"><span> } <span style="color:#66d9ef">else</span> {</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">const</span> Type <span style="color:#f92672">*</span>RegTy <span style="color:#f92672">=</span> TB.getIntegerType(<span style="color:#ae81ff">64</span>, Align(<span style="color:#ae81ff">8</span>), false);</span></span><span style="display:flex;"><span> CoerceTy <span style="color:#f92672">=</span> TB.getArrayType(RegTy, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">128</span>);</span></span><span style="display:flex;"><span> }</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">return</span> ABIArgInfo<span style="color:#f92672">::</span>getDirect(CoerceTy);</span></span><span style="display:flex;"><span> }</span></span><span style="display:flex;"><span></span></span><span style="display:flex;"><span> <span style="color:#66d9ef">return</span> ABIArgInfo<span style="color:#f92672">::</span>getIndirect(ArgTy<span style="color:#f92672">-&gt;</span>getAlignment().value());</span></span><span style="display:flex;"><span> }</span></span><span style="display:flex;"><span></span></span><span style="display:flex;"><span> <span style="color:#66d9ef">if</span> (<span style="color:#66d9ef">const</span> <span style="color:#66d9ef">auto</span> <span style="color:#f92672">*</span>IntTy <span style="color:#f92672">=</span> dyn_cast<span style="color:#f92672">&lt;</span>IntegerType<span style="color:#f92672">&gt;</span>(ArgTy)) {</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">auto</span> BitWidth <span style="color:#f92672">=</span> IntTy<span style="color:#f92672">-&gt;</span>getSizeInBits().getFixedValue();</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">if</span> (IntTy<span style="color:#f92672">-&gt;</span>isBitInt() <span style="color:#f92672">&amp;&amp;</span> BitWidth <span style="color:#f92672">&gt;</span> <span style="color:#ae81ff">128</span>)</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">return</span> ABIArgInfo<span style="color:#f92672">::</span>getIndirect(ArgTy<span style="color:#f92672">-&gt;</span>getAlignment().value());</span></span><span style="display:flex;"><span></span></span><span style="display:flex;"><span> <span style="color:#66d9ef">if</span> (isPromotableInteger(IntTy))</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">return</span> ABIArgInfo<span style="color:#f92672">::</span>getExtend(ArgTy);</span></span><span style="display:flex;"><span> }</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">return</span> ABIArgInfo<span style="color:#f92672">::</span>getDirect();</span></span><span style="display:flex;"><span> }</span></span><span style="display:flex;"><span>};</span></span></code></pre></div><p>The key difference is that the ABI classification logic itself is <strong>completely independent of Clang</strong>. Any LLVM frontend can use it by implementing a mapper from their types to <code>llvm::abi::Type</code>. The library then performs ABI classification and outputs <code>llvm::abi::ABIFunctionInfo</code> with all the lowering decisions.</p><p>For Clang specifically, the <code>ABITypeMapper</code> converts those <code>llvm::abi::Type</code> results back into <code>llvm::Type</code> and populates <code>clang::CGFunctionInfo</code>, which then continues through the normal IR generation pipeline.</p><h1 id="results">Results</h1><p>The library and the new type system are implemented and working in the <a href="https://github.com/llvm/llvm-project/pull/140112">PR #140112</a>, currently enabled for BPF and X86-64 Linux targets. You can find the implementation under <code>llvm/lib/ABI/</code> with Clang integration in <code>clang/lib/CodeGen/CGCall.cpp</code>. Here&rsquo;s what we&rsquo;ve achieved so far:</p><h2 id="clean-architecture">Clean Architecture</h2><p>The three-layer separation is working beautifully. Frontend concerns, ABI classification, and IR generation are now properly separated:</p><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-cpp" data-lang="cpp"><span style="display:flex;"><span><span style="color:#75715e">// Integration point in Clang</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">if</span> (CGM.shouldUseLLVMABI()) {</span></span><span style="display:flex;"><span> SmallVector<span style="color:#f92672">&lt;</span><span style="color:#66d9ef">const</span> llvm<span style="color:#f92672">::</span>abi<span style="color:#f92672">::</span>Type <span style="color:#f92672">*</span>, <span style="color:#ae81ff">8</span><span style="color:#f92672">&gt;</span> MappedArgTypes;</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">for</span> (CanQualType ArgType : argTypes)</span></span><span style="display:flex;"><span> MappedArgTypes.push_back(getMapper().convertType(ArgType));</span></span><span style="display:flex;"><span></span></span><span style="display:flex;"><span> tempFI.reset(llvm<span style="color:#f92672">::</span>abi<span style="color:#f92672">::</span>ABIFunctionInfo<span style="color:#f92672">::</span>create(</span></span><span style="display:flex;"><span> CC, getMapper().convertType(resultType), MappedArgTypes));</span></span><span style="display:flex;"><span></span></span><span style="display:flex;"><span> CGM.fetchABIInfo(getTypeBuilder()).computeInfo(<span style="color:#f92672">*</span>tempFI);</span></span><span style="display:flex;"><span>} <span style="color:#66d9ef">else</span> {</span></span><span style="display:flex;"><span> CGM.getABIInfo().computeInfo(<span style="color:#f92672">*</span>FI); <span style="color:#75715e">// Legacy path</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>}</span></span></code></pre></div><h2 id="performance-considerations-addressed">Performance Considerations Addressed</h2><p>My earlier blog post worried about the overhead of &ldquo;an additional type system.&rdquo; The caching strategy handles this elegantly:</p><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-cpp" data-lang="cpp"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> llvm<span style="color:#f92672">::</span>abi<span style="color:#f92672">::</span>Type <span style="color:#f92672">*</span>QualTypeMapper<span style="color:#f92672">::</span>convertType(QualType QT) {</span></span><span style="display:flex;"><span> QT <span style="color:#f92672">=</span> QT.getCanonicalType().getUnqualifiedType();</span></span><span style="display:flex;"><span></span></span><span style="display:flex;"><span> <span style="color:#66d9ef">auto</span> It <span style="color:#f92672">=</span> TypeCache.find(QT);</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">if</span> (It <span style="color:#f92672">!=</span> TypeCache.end())</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">return</span> It<span style="color:#f92672">-&gt;</span>second; <span style="color:#75715e">// Cache hit - no recomputation</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span></span></span><span style="display:flex;"><span> <span style="color:#66d9ef">const</span> llvm<span style="color:#f92672">::</span>abi<span style="color:#f92672">::</span>Type <span style="color:#f92672">*</span>Result <span style="color:#f92672">=</span> <span style="color:#75715e">/* conversion logic */</span>;</span></span><span style="display:flex;"><span></span></span><span style="display:flex;"><span> <span style="color:#66d9ef">if</span> (Result)</span></span><span style="display:flex;"><span> TypeCache[QT] <span style="color:#f92672">=</span> Result;</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">return</span> Result;</span></span><span style="display:flex;"><span>}</span></span></code></pre></div><p>Combined with <code>BumpPtrAllocator</code> for type storage, the performance impact is minimal in practice.</p><div style="margin:0 auto;"> <img src="https://blog.llvm.org/img/abi_library_benchmarks.png"><br/></div><p>The results are encouraging. Most compilation stages show essentially no performance difference (well within measurement noise). The 0.20% regression in the final Clang build times is expected - we&rsquo;ve added new code to the codebase. But the actual compilation performance impact is negligible.</p><h1 id="future-work">Future Work</h1><p>There&rsquo;s still plenty to explore:</p><h2 id="upstreaming-the-progress-so-far">Upstreaming the progress so far&hellip;</h2><p>The work is being upstreamed to LLVM in stages, starting with <a href="https://github.com/llvm/llvm-project/pull/158329">PR #158329</a>. This involves addressing reviewer feedback, ensuring compatibility with existing code, and validating that the new system produces identical results to the current implementation for all supported targets.</p><h2 id="extended-target-support">Extended Target Support</h2><p>Currently the ABI library supports the BPF and X86-64 SysV ABIs, but the architecture makes adding ARM, Windows calling conventions, and other targets straightforward.</p><h2 id="cross-frontend-compatibility">Cross-Frontend Compatibility</h2><p>The real test will be when other frontends start using the library. We need to ensure that all frontends generate identical calling conventions for the same C function signature.</p><h2 id="better-integration">Better Integration</h2><p>There are still some rough edges in the Clang integration that could be smoothed out. And other LLVM projects could benefit from adopting the library.</p><h1 id="acknowledgements">Acknowledgements</h1><p>This work wouldn&rsquo;t have been possible without my amazing mentors, Nikita Popov and Maksim Levental, who provided invaluable guidance throughout the project. The LLVM community&rsquo;s feedback on the <a href="https://discourse.llvm.org/t/rfc-an-abi-lowering-library-for-llvm/84495">original RFC</a> was instrumental in shaping the design.</p><p>Special thanks to everyone who reviewed the code, provided feedback, and helped navigate all the ABI corner cases. The architecture only works because it&rsquo;s built on decades of accumulated ABI knowledge that was already present in LLVM and Clang.</p><p>Looking back at my precursor blog post from earlier this year, I&rsquo;m amazed at how much the design evolved during implementation. What started as a relatively straightforward &ldquo;extract Clang&rsquo;s ABI code&rdquo; became a much more ambitious architectural rework. But the result is something that&rsquo;s genuinely useful for the entire LLVM ecosystem.</p>]]>
+      </description>
+      <source:markdown># Introduction
+
+In this post I’m going to outline details about a new ABI lowering library I’ve been developing for LLVM as part of GSoC 2025! The aim was to extract the ABI logic from Clang and create a reusable library that any LLVM frontend can use for correct C interoperability.
+
+# The Problem We’re Solving
+
+At the start of the program, I wrote about the [fundamental gap in LLVM’s target abstraction](https://vortex73.github.io/rendered/GSOC_BLOG1.html). The promise is simple: frontends emit LLVM IR, and LLVM handles everything else. But this promise completely breaks down when it comes to Application Binary Interface (ABI) lowering. Every LLVM frontend that wants C interoperability has to reimplement thousands of lines of target-specific ABI logic.
+
+Here’s what that looks like in practice:
+
+```cpp
+struct Point { float x, y; };struct Point add_points(struct Point a, struct Point b);
+```
+
+Seems innocent enough, right? But generating correct LLVM IR for this requires knowing:
+
+- Are the struct arguments passed in registers or memory?
+- If in registers, what register class is used?
+- Are multiple values packed into a single register?
+- Is the struct returned in registers or using a hidden return parameter?
+
+The answer depends on subtle ABI rules that are target-specific, constantly evolving, and absolutely critical to get right. Miss one detail and you get silent memory corruption.
+
+[This godbolt link](https://clang.godbolt.org/z/P4fMj7hjY) shows the same simple struct using six different calling conventions across six different targets. And crucially: a frontend generating IR needs to know ALL of this before it can emit the right function signature.
+
+As I outlined in my earlier blog post, LLVM’s type system simply can’t express all the information needed for correct ABI decisions. Two otherwise identical structs with different explicit alignment attributes have different ABIs. `__int128` and `_BitInt(128)` look similar but follow completely different rules.
+
+# The Design
+
+![](https://blog.llvm.org/img/abi_flow.png)
+
+## Independent ABI Type System
+
+At the heart of the library is `llvm::abi::Type`, a type system designed specifically for ABI decisions:
+
+```cpp
+class Type {protected: TypeKind Kind; TypeSize SizeInBits; Align ABIAlignment;public: TypeKind getKind() const { return Kind; } TypeSize getSizeInBits() const { return SizeInBits; } Align getAlignment() const { return ABIAlignment; } bool isInteger() const { return Kind == TypeKind::Integer; } bool isStruct() const { return Kind == TypeKind::Struct; } // ... other predicates that matter for ABI};
+```
+
+It contains **more information than LLVM IR types** (which for instance doesn’t distinguish between `__int128` and `_BitInt(128)`, both just `i128`), but **less information than frontend types** like Clang’s QualType (which carry parsing context, sugar, and other frontend-specific concerns that don’t matter for calling conventions).
+
+```cpp
+class IntegerType : public Type {private: bool IsSigned; bool IsBitInt; // Crucially different from __int128!public: IntegerType(uint64_t BitWidth, Align Align, bool Signed, bool BitInt = false);};
+```
+
+## Frontend-to-ABI Mapping
+
+The `QualTypeMapper` class handles the job of converting Clang frontend types to ABI types.
+
+**The ABI library is primarily intended to handle the C ABI.** The C type system is relatively simple, and as such the type mapping from frontend types to ABI types is straightforward : integers map to `IntegerType`, pointers map to `PointerType`, and structs map to `StructType` with their fields and offsets preserved.
+
+However, Clang also needs support for the C++ ABI, and the type mapping for this case is significantly more complicated. C++ object layout involves vtables, base class subobjects, virtual inheritance, and all sorts of edge cases that need to be preserved for correct ABI decisions. Here’s an excerpt showing how `QualTypeMapper` tackles C++ inheritance:
+
+```cpp
+const llvm::abi::StructType *QualTypeMapper::convertCXXRecordType(const CXXRecordDecl *RD, bool canPassInRegs) { const ASTRecordLayout &#38;Layout = ASTCtx.getASTRecordLayout(RD); SmallVector&#60;llvm::abi::FieldInfo, 16&#62; Fields; SmallVector&#60;llvm::abi::FieldInfo, 8&#62; BaseClasses; SmallVector&#60;llvm::abi::FieldInfo, 8&#62; VirtualBaseClasses; // Handle vtable pointer for polymorphic classes if (RD-&#62;isPolymorphic()) { const llvm::abi::Type *VtablePointer = createPointerTypeForPointee(ASTCtx.VoidPtrTy); Fields.emplace_back(VtablePointer, 0); } // Process base classes with proper offset calculation for (const auto &#38;Base : RD-&#62;bases()) { const llvm::abi::Type *BaseType = convertType(Base.getType()); uint64_t BaseOffset = Layout.getBaseClassOffset( Base.getType()-&#62;castAs&#60;RecordType&#62;()-&#62;getAsCXXRecordDecl() ).getQuantity() * 8; if (Base.isVirtual()) VirtualBaseClasses.emplace_back(BaseType, BaseOffset); else BaseClasses.emplace_back(BaseType, BaseOffset); } // ... field processing and final struct creation}
+```
+
+Other frontends that only need C interoperability will have a much simpler mapping task.
+
+## Target-Specific Classification
+
+Each target implements the ABIInfo interface. I’ll show the BPF implementation here since it’s one of the simplest ABIs in LLVM, the classification logic fits in about 50 lines of code with straightforward rules: small aggregates go in registers, larger ones are passed indirectly.
+
+Its worth noting that most real-world ABIs are not _this_ simple - for instance targets like X86-64 are significantly more complex.
+
+```cpp
+class BPFABIInfo : public ABIInfo {private: TypeBuilder &#38;TB;public: BPFABIInfo(TypeBuilder &#38;TypeBuilder) : TB(TypeBuilder) {} ABIArgInfo classifyArgumentType(const Type *ArgTy) const { if (isAggregateTypeForABI(ArgTy)) { auto SizeInBits = ArgTy-&#62;getSizeInBits().getFixedValue(); if (SizeInBits == 0) return ABIArgInfo::getIgnore(); if (SizeInBits &#60;= 128) { const Type *CoerceTy; if (SizeInBits &#60;= 64) { auto AlignedBits = alignTo(SizeInBits, 8); CoerceTy = TB.getIntegerType(AlignedBits, Align(8), false); } else { const Type *RegTy = TB.getIntegerType(64, Align(8), false); CoerceTy = TB.getArrayType(RegTy, 2, 128); } return ABIArgInfo::getDirect(CoerceTy); } return ABIArgInfo::getIndirect(ArgTy-&#62;getAlignment().value()); } if (const auto *IntTy = dyn_cast&#60;IntegerType&#62;(ArgTy)) { auto BitWidth = IntTy-&#62;getSizeInBits().getFixedValue(); if (IntTy-&#62;isBitInt() &#38;&#38; BitWidth &#62; 128) return ABIArgInfo::getIndirect(ArgTy-&#62;getAlignment().value()); if (isPromotableInteger(IntTy)) return ABIArgInfo::getExtend(ArgTy); } return ABIArgInfo::getDirect(); }};
+```
+
+The key difference is that the ABI classification logic itself is **completely independent of Clang**. Any LLVM frontend can use it by implementing a mapper from their types to `llvm::abi::Type`. The library then performs ABI classification and outputs `llvm::abi::ABIFunctionInfo` with all the lowering decisions.
+
+For Clang specifically, the `ABITypeMapper` converts those `llvm::abi::Type` results back into `llvm::Type` and populates `clang::CGFunctionInfo`, which then continues through the normal IR generation pipeline.
+
+# Results
+
+The library and the new type system are implemented and working in the [PR #140112](https://github.com/llvm/llvm-project/pull/140112), currently enabled for BPF and X86-64 Linux targets. You can find the implementation under `llvm/lib/ABI/` with Clang integration in `clang/lib/CodeGen/CGCall.cpp`. Here’s what we’ve achieved so far:
+
+## Clean Architecture
+
+The three-layer separation is working beautifully. Frontend concerns, ABI classification, and IR generation are now properly separated:
+
+```cpp
+// Integration point in Clangif (CGM.shouldUseLLVMABI()) { SmallVector&#60;const llvm::abi::Type *, 8&#62; MappedArgTypes; for (CanQualType ArgType : argTypes) MappedArgTypes.push_back(getMapper().convertType(ArgType)); tempFI.reset(llvm::abi::ABIFunctionInfo::create( CC, getMapper().convertType(resultType), MappedArgTypes)); CGM.fetchABIInfo(getTypeBuilder()).computeInfo(*tempFI);} else { CGM.getABIInfo().computeInfo(*FI); // Legacy path}
+```
+
+## Performance Considerations Addressed
+
+My earlier blog post worried about the overhead of “an additional type system.” The caching strategy handles this elegantly:
+
+```cpp
+const llvm::abi::Type *QualTypeMapper::convertType(QualType QT) { QT = QT.getCanonicalType().getUnqualifiedType(); auto It = TypeCache.find(QT); if (It != TypeCache.end()) return It-&#62;second; // Cache hit - no recomputation const llvm::abi::Type *Result = /* conversion logic */; if (Result) TypeCache[QT] = Result; return Result;}
+```
+
+Combined with `BumpPtrAllocator` for type storage, the performance impact is minimal in practice.
+
+![](https://blog.llvm.org/img/abi_library_benchmarks.png)
+
+The results are encouraging. Most compilation stages show essentially no performance difference (well within measurement noise). The 0.20% regression in the final Clang build times is expected - we’ve added new code to the codebase. But the actual compilation performance impact is negligible.
+
+# Future Work
+
+There’s still plenty to explore:
+
+## Upstreaming the progress so far…
+
+The work is being upstreamed to LLVM in stages, starting with [PR #158329](https://github.com/llvm/llvm-project/pull/158329). This involves addressing reviewer feedback, ensuring compatibility with existing code, and validating that the new system produces identical results to the current implementation for all supported targets.
+
+## Extended Target Support
+
+Currently the ABI library supports the BPF and X86-64 SysV ABIs, but the architecture makes adding ARM, Windows calling conventions, and other targets straightforward.
+
+## Cross-Frontend Compatibility
+
+The real test will be when other frontends start using the library. We need to ensure that all frontends generate identical calling conventions for the same C function signature.
+
+## Better Integration
+
+There are still some rough edges in the Clang integration that could be smoothed out. And other LLVM projects could benefit from adopting the library.
+
+# Acknowledgements
+
+This work wouldn’t have been possible without my amazing mentors, Nikita Popov and Maksim Levental, who provided invaluable guidance throughout the project. The LLVM community’s feedback on the [original RFC](https://discourse.llvm.org/t/rfc-an-abi-lowering-library-for-llvm/84495) was instrumental in shaping the design.
+
+Special thanks to everyone who reviewed the code, provided feedback, and helped navigate all the ABI corner cases. The architecture only works because it’s built on decades of accumulated ABI knowledge that was already present in LLVM and Clang.
+
+Looking back at my precursor blog post from earlier this year, I’m amazed at how much the design evolved during implementation. What started as a relatively straightforward “extract Clang’s ABI code” became a much more ambitious architectural rework. But the result is something that’s genuinely useful for the entire LLVM ecosystem.</source:markdown>
+      <guid>cid://https://blog.llvm.org/posts/2025-08-25-abi-library/</guid>
+    </item>    <item>
+      <title>Analytics on /home</title>
+      <link>https://buttondown.com/blog/embedded-analytics</link>
+      <description>
+        <![CDATA[Embed your favorite analytics on your homepage]]>
+      </description>
+      <source:markdown>Embed your favorite analytics on your homepage</source:markdown>
+    </item>    <item>
       <title>New prompt injection papers: Agents Rule of Two and The Attacker Moves Second</title>
       <link>https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/#atom-everything</link>
       <description>
@@ -622,7 +930,7 @@ Tags: [call-for-proposals](https://simonwillison.net/tags/call-for-proposals), [
         <p>So if you leverage what they offer you, that gives you an advantage because you don’t have to build it yourself.</p>
         <p>You <em>could</em> build it yourself. You could say “No thanks, I don’t want what you have. I’ll make my own.”</p>
         <p>But you don’t have to. And odds are, whatever you do build yourself, is not likely to be as fast as the <a href="https://blog.jim-nielsen.com/2025/more-control-equals-less-performance/" >highly-optimized subsystems you can tie together in the browser</a>.</p>
-        <p>And the best part? Unlike SasS, you don’t have to pay for what the browser offers you.</p>
+        <p>And the best part? Unlike SaaS, you don’t have to pay for what the browser offers you.</p>
         <p>And because you’re not paying, it can’t be turned off if you stop paying.</p>
         <p><code>@view-transition</code>, for example, is a free API that’ll work forever.</p>
         <p>That’s a great deal. Are you taking advantage?</p>
@@ -665,7 +973,7 @@ You _could_ build it yourself. You could say “No thanks, I don’t want what y
 
 But you don’t have to. And odds are, whatever you do build yourself, is not likely to be as fast as the [highly-optimized subsystems you can tie together in the browser](https://blog.jim-nielsen.com/2025/more-control-equals-less-performance/).
 
-And the best part? Unlike SasS, you don’t have to pay for what the browser offers you.
+And the best part? Unlike SaaS, you don’t have to pay for what the browser offers you.
 
 And because you’re not paying, it can’t be turned off if you stop paying.
 
@@ -3474,7 +3782,7 @@ Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwill
         <p>This is the first plugin I've written for an Anthropic-API-compatible model. I released <a href="https://github.com/simonw/llm-anthropic/releases/tag/0.21">llm-anthropic 0.21</a> first adding the ability to customize the <code>base_url</code> parameter when using that model class. This meant the new plugin was less than <a href="https://github.com/simonw/llm-minimax/blob/0.1/llm_minimax.py">30 lines of Python</a>.
         
         
-            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/ai-in-china">ai-in-china</a></p>]]>
+            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/ai-in-china">ai-in-china</a>, <a href="https://simonwillison.net/tags/minimax">minimax</a></p>]]>
       </description>
       <source:markdown>**[MiniMax M2 &#38; Agent: Ingenious in Simplicity](https://www.minimax.io/news/minimax-m2)**
 
@@ -3517,7 +3825,7 @@ This is the first plugin I&#39;ve written for an Anthropic-API-compatible model.
 
 
 
-Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [local-llms](https://simonwillison.net/tags/local-llms), [llms](https://simonwillison.net/tags/llms), [llm](https://simonwillison.net/tags/llm), [llm-pricing](https://simonwillison.net/tags/llm-pricing), [pelican-riding-a-bicycle](https://simonwillison.net/tags/pelican-riding-a-bicycle), [llm-release](https://simonwillison.net/tags/llm-release), [ai-in-china](https://simonwillison.net/tags/ai-in-china)</source:markdown>
+Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [local-llms](https://simonwillison.net/tags/local-llms), [llms](https://simonwillison.net/tags/llms), [llm](https://simonwillison.net/tags/llm), [llm-pricing](https://simonwillison.net/tags/llm-pricing), [pelican-riding-a-bicycle](https://simonwillison.net/tags/pelican-riding-a-bicycle), [llm-release](https://simonwillison.net/tags/llm-release), [ai-in-china](https://simonwillison.net/tags/ai-in-china), [minimax](https://simonwillison.net/tags/minimax)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/29/minimax-m2/#atom-everything</guid>
     </item>    <item>
       <title>Live with Katie Couric about the Shutdown</title>
@@ -3872,19 +4180,20 @@ In fact there’s [a great big archive of all the past talks](https://beyondtell
       <enclosure url="https://substackcdn.com/image/fetch/$s_!vbqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c070a50-30f9-4007-a424-ad810b60c426_1080x1080.heic" length="0" type="image/jpeg" />
       <guid>cid://https://guykawasaki.substack.com/p/the-art-of-asking-better-questions</guid>
     </item>    <item>
-      <link>https://om.co/2025/10/29/why-tech-needs-personalization/</link>
-      <description>
-        <![CDATA[<p>Om: Why Tech Needs Personalization.</p>]]>
-      </description>
-      <source:markdown>Om: Why Tech Needs Personalization.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/29/1727/</guid>
-    </item>    <item>
       <link>http://scripting.com/2025/10/29.html#a142529</link>
       <description>
         <![CDATA[Before it’s too late there should be a rule that AI chatbots should not be allowed in any way to impersonate humans. We will come to see that as our biggest mistake, not stopping this before it got out of control.]]>
       </description>
       <source:markdown>Before it’s too late there should be a rule that AI chatbots should not be allowed in any way to impersonate humans. We will come to see that as our biggest mistake, not stopping this before it got out of control.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/29.html#a142529</guid>
+    </item>    <item>
+      <title>Why Tech Needs Personalization</title>
+      <link>https://om.co/2025/10/29/why-tech-needs-personalization/</link>
+      <description>
+        <![CDATA[Every weekend, my good buddy Hiten Shah and I&#160;head to&#160;The Coffee Movement’s Balboa Street location. They&#160;make&#160;a nice pour-over. And while&#160;it’s&#160;about&#160;a half-hour&#160;from my apartment, the coffee is worth the drive, the&#160;time,&#160;and the money.&#160;It’s&#160;a long enough drive for us to talk about life,&#160;work,&#160;and, most importantly, new ideas about&#160;technology. Sometimes,&#160;if our schedules sync up,&#160;we&#160;even&#160;go&#160;twice a week. What doesn’t &#8230;]]>
+      </description>
+      <source:markdown>Every weekend, my good buddy Hiten Shah and I head to The Coffee Movement’s Balboa Street location. They make a nice pour-over. And while it’s about a half-hour from my apartment, the coffee is worth the drive, the time, and the money. It’s a long enough drive for us to talk about life, work, and, most importantly, new ideas about technology. Sometimes, if our schedules sync up, we even go twice a week. What doesn’t …</source:markdown>
+      <guid>cid://https://om.co/?p=947377</guid>
     </item>    <item>
       <title>Custom Asidenotes</title>
       <link>https://meyerweb.com/eric/thoughts/2025/10/29/custom-asidenotes/</link>
