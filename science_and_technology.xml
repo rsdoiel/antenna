@@ -4,10 +4,98 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>03 Nov 25 11:11 -0800</lastBuildDate>
+    <lastBuildDate>03 Nov 25 15:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>MIT Sloan quietly shelves AI ransomware study after researcher calls BS</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/mit_sloan_updates_ai_ransomware_paper/</link>
+      <description>
+        <![CDATA[<h4>Even AI has doubts about the claim that &#39;80% of ransomware attacks are AI-driven&#39;</h4> <p>Do 80 percent of ransomware attacks really come from AI? MIT Sloan has now withdrawn a working paper that made that eyebrow-raising claim after criticism from security researcher Kevin Beaumont.…</p>]]>
+      </description>
+      <source:markdown>#### Even AI has doubts about the claim that &#39;80% of ransomware attacks are AI-driven&#39;
+
+Do 80 percent of ransomware attacks really come from AI? MIT Sloan has now withdrawn a working paper that made that eyebrow-raising claim after criticism from security researcher Kevin Beaumont.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242812</guid>
+    </item>    <item>
+      <title>November&#39;s Full Beaver Supermoon Peaks on Wednesday—and It Will Be the Year&#39;s Biggest</title>
+      <link>https://www.smithsonianmag.com/smart-news/novembers-full-beaver-supermoon-peaks-on-wednesday-and-will-be-the-biggest-supermoon-of-the-year-180987616/</link>
+      <description>
+        <![CDATA[Supermoons occur when full moons coincide with the moon's closest position to Earth in its orbit]]>
+      </description>
+      <source:markdown>Supermoons occur when full moons coincide with the moon&#39;s closest position to Earth in its orbit</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/77YKz6AEy5Jh8OdEkqfb-T1jG2s=/420x240/filters:focal(1024x770:1025x771)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/73/1b/731b6779-b228-4080-ba6a-0f9f40f9a490/2048px-supemoon_-_20220713.jpg" length="" type="" />
+    </item>    <item>
+      <title>Ransomware negotiator, pay thyself!</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/rogue_ransomware_negotiators/</link>
+      <description>
+        <![CDATA[<h4>Rogues committed extortion while working for infosec firms</h4> <p>A ransomware negotiator and an incident response manager at two separate cybersecurity firms have been indicted for allegedly carrying out ransomware attacks of their own against multiple US companies.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Rogues committed extortion while working for infosec firms
+
+A ransomware negotiator and an incident response manager at two separate cybersecurity firms have been indicted for allegedly carrying out ransomware attacks of their own against multiple US companies.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242813</guid>
+    </item>    <item>
+      <title>Google yanks Gemma after US senator says model ‘hallucinated’ her committing crimes</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/google_pulls_gemma_from_ai_studio/</link>
+      <description>
+        <![CDATA[<h4>Still available via API, the developer-facing AI isn&#39;t even really designed to answer general-purpose questions</h4> <p>If Google&#39;s Gemma were an employee, it might be facing HR right now. The company yanked the model from AI Studio after it allegedly invented criminal accusations about a US senator and a conservative activist. However, it seems like the aggrieved parties went out of their way to get the offending output.…</p>]]>
+      </description>
+      <source:markdown>#### Still available via API, the developer-facing AI isn&#39;t even really designed to answer general-purpose questions
+
+If Google&#39;s Gemma were an employee, it might be facing HR right now. The company yanked the model from AI Studio after it allegedly invented criminal accusations about a US senator and a conservative activist. However, it seems like the aggrieved parties went out of their way to get the offending output.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242811</guid>
+    </item>    <item>
+      <title>Sculpt OS 25.10 released</title>
+      <link>https://www.osnews.com/story/143701/sculpt-os-25-10-released/</link>
+      <description>
+        <![CDATA[In the light of this year&#8217;s roadmap focus on &#8220;rigidity, clarity, performance&#8221;, Sculpt OS 25.10 looks the same as the version 25.04 but might feel different as it includes countless under-the-hood improvements of the two preceding framework releases 25.05 and 25.08. User interaction on performance-starved platforms like the PinePhone has become visibly smoother thanks our recent CPU scheduling advances. The streamlined block-storage stack combined with various refinements of the package-installation mechanism make the on-target installation of 3rd-party components a bliss. Regarding supported hardware, we steadily follow the tireless work of the Linux kernel community. All PC driver components using Linux kernel code are now consistently based on kernel version 6.12. ↫ Sculpt OS 25.10 release announcement There&#8217;s also an optional brand new configuration format, which optionally replaces Scultp&#8217;s use of XML for this purpose. Norman Feske, one of the co-founders of Genode Labs, published an article detailing how to test this new format, which also goes much deeper into how it works. For Sculpt OS&#8217; 25.10 release, Alexander Böttcher has also released an experimental image with five different kernel to choose from. The image is for PC, and works as a live system so there&#8217;s no need to install it to explore Sculpt OS. Speaking of Alexander Böttcher, he also published an article about improvements and changes to Sculpt OS&#8217; lockscreen component. This component has existed for a very long time, and has been improved considerably over the years, and Böttcher&#8217;s article details how to install it, configure it, and use it.]]>
+      </description>
+      <source:markdown>In the light of this year’s roadmap focus on “rigidity, clarity, performance”, Sculpt OS 25.10 looks the same as the version 25.04 but might feel different as it includes countless under-the-hood improvements of the two preceding framework releases 25.05 and 25.08. User interaction on performance-starved platforms like the PinePhone has become visibly smoother thanks our recent CPU scheduling advances. The streamlined block-storage stack combined with various refinements of the package-installation mechanism make the on-target installation of 3rd-party components a bliss. Regarding supported hardware, we steadily follow the tireless work of the Linux kernel community. All PC driver components using Linux kernel code are now consistently based on kernel version 6.12. ↫ Sculpt OS 25.10 release announcement There’s also an optional brand new configuration format, which optionally replaces Scultp’s use of XML for this purpose. Norman Feske, one of the co-founders of Genode Labs, published an article detailing how to test this new format, which also goes much deeper into how it works. For Sculpt OS’ 25.10 release, Alexander Böttcher has also released an experimental image with five different kernel to choose from. The image is for PC, and works as a live system so there’s no need to install it to explore Sculpt OS. Speaking of Alexander Böttcher, he also published an article about improvements and changes to Sculpt OS’ lockscreen component. This component has existed for a very long time, and has been improved considerably over the years, and Böttcher’s article details how to install it, configure it, and use it.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143701</guid>
+    </item>    <item>
+      <title>Trump: Nvidias leistungsfähigster KI-Chip Blackwell nur für die USA</title>
+      <link>https://www.heise.de/news/Trump-Nvidias-leistungsfaehigster-KI-Chip-Blackwell-nur-fuer-die-USA-11005660.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[US-Präsident Donald Trump will neben China auch andere Länder von den fortschrittlichsten KI-Chips von Nvidia ausschließen. Darauf deuten jüngste Äußerungen.]]>
+      </description>
+      <source:markdown>US-Präsident Donald Trump will neben China auch andere Länder von den fortschrittlichsten KI-Chips von Nvidia ausschließen. Darauf deuten jüngste Äußerungen.</source:markdown>
+      <guid>cid://http://heise.de/-11005660</guid>
+    </item>    <item>
+      <title>AWS, Nvidia, CrowdStrike seek security startups to enter the arena</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/03/cybersecurity_startup_accelerator/</link>
+      <description>
+        <![CDATA[<h4>Last year&#39;s winner scored a $65M funding round on a $300M valuation</h4> <p>Cloud and AI security startups have two weeks to apply for a program that fast-tracks access to investors and mentors from Amazon Web Services, CrowdStrike, and Nvidia.…</p>]]>
+      </description>
+      <source:markdown>#### Last year&#39;s winner scored a $65M funding round on a $300M valuation
+
+Cloud and AI security startups have two weeks to apply for a program that fast-tracks access to investors and mentors from Amazon Web Services, CrowdStrike, and Nvidia.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242810</guid>
+    </item>    <item>
+      <title>This Fully Functioning Toilet Made From Solid Gold Could Sell for More Than $10 Million at Auction</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-fully-functioning-toilet-made-from-solid-gold-could-sell-for-more-than-10-million-at-auction-180987613/</link>
+      <description>
+        <![CDATA[Made by Italian artist Maurizio Cattelan, the 18-karat gold toilet weighs 220 pounds. Another version of the artwork was famously stolen in a 2019 burglary]]>
+      </description>
+      <source:markdown>Made by Italian artist Maurizio Cattelan, the 18-karat gold toilet weighs 220 pounds. Another version of the artwork was famously stolen in a 2019 burglary</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/QTufIk4xrKDGcWpffG3-HMUUNh0=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d8/e0/d8e09397-28e3-4cd7-997b-77d6af56a0b5/toilet.jpg" length="" type="" />
+    </item>    <item>
+      <title>Brüssel räumt ein: Substanzielle EU-Gelder sind an Spyware-Hersteller geflossen</title>
+      <link>https://www.heise.de/news/Bruessel-raeumt-ein-Substanzielle-EU-Gelder-sind-an-Spyware-Hersteller-geflossen-11000926.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die EU-Kommission will unverzüglich die Finanzierung von Spyware-Produzenten einstellen, die sich "schweren beruflichen Fehlverhaltens" schuldig gemacht haben.]]>
+      </description>
+      <source:markdown>Die EU-Kommission will unverzüglich die Finanzierung von Spyware-Produzenten einstellen, die sich &#34;schweren beruflichen Fehlverhaltens&#34; schuldig gemacht haben.</source:markdown>
+      <guid>cid://http://heise.de/-11000926</guid>
+    </item>    <item>
+      <title>This Tiny Tyrannosaur Could Settle a Huge Scientific Debate</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-tiny-tyrannosaur-could-settle-a-huge-scientific-debate-180987611/</link>
+      <description>
+        <![CDATA[A new analysis of a fossil unearthed in 2006 provides a fresh line of evidence that a separate tyrannosaur lineage called Nanotyrannus lived alongside the famous T. rex]]>
+      </description>
+      <source:markdown>A new analysis of a fossil unearthed in 2006 provides a fresh line of evidence that a separate tyrannosaur lineage called Nanotyrannus lived alongside the famous T. rex</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/TbgKnXWRS1Yl03f6pqp78O7Jzww=/420x240/filters:focal(1440x809:1441x810)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e8/01/e8016c27-3880-4212-95ff-d7d59aaad869/nanotyrannus-confirmed.jpg" length="" type="" />
+    </item>    <item>
       <title>How Bucket Forking Brings GitHub-Style Forking To Object Storage</title>
       <link>https://thenewstack.io/how-bucket-forking-brings-github-style-forking-to-object-storage/</link>
       <description>

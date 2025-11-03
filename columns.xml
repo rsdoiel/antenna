@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>03 Nov 25 11:11 -0800</lastBuildDate>
+    <lastBuildDate>03 Nov 25 15:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,220 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Published on Citation Needed: &#34;Trump says he has “no idea” who he just pardoned&#34;</title>
+      <link>https://citationneeded.news/trump-binance-changpeng-zhao-pardon</link>
+      <guid>cid://690931d17034ea8afbbc12dc</guid>
+    </item>    <item>
+      <title>November 2, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/november-2-2025-0d6</link>
+      <enclosure url="https://api.substack.com/feed/podcast/177931936/c876b46f508fd4e5806bd63f25ebb62a.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/november-2-2025-0d6</guid>
+    </item>    <item>
+      <title>The fetch()ening</title>
+      <link>https://simonwillison.net/2025/Nov/3/htmx-the-fetchening/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://htmx.org/essays/the-fetchening/">The fetch()ening</a></strong></p>
+        After several years of stable htmx 2.0 and a promise to never release a backwards-incompatible htmx 3 Carson Gross is technically keeping that promise... by skipping to htmx 4 instead!</p>
+        <p>The main reason is to replace <code>XMLHttpRequest</code> with <code>fetch()</code> - a change that will have enough knock-on compatibility effects to require a major version bump - so they're using that as an excuse to clean up various other accumulated design warts at the same time.</p>
+        <p>htmx is a <em>very</em> responsibly run project. Here's their plan for the upgrade:</p>
+        <blockquote>
+        <p>That said, htmx 2.0 users <em>will</em> face an upgrade project when moving to 4.0 in a way that they did not have to in moving from 1.0 to 2.0.</p>
+        <p>I am sorry about that, and want to offer three things to address it:</p>
+        <ul>
+        <li>htmx 2.0 (like htmx 1.0 &amp; intercooler.js 1.0) will be supported <em>in perpetuity</em>, so there is absolutely <em>no</em> pressure to upgrade your application: if htmx 2.0 is satisfying your hypermedia needs, you can stick with it.</li>
+        <li>We will create extensions that revert htmx 4 to htmx 2 behaviors as much as is feasible (e.g. Supporting the old implicit attribute inheritance model, at least)</li>
+        <li>We will roll htmx 4.0 out slowly, over a multi-year period. As with the htmx 1.0 -&gt; 2.0 upgrade, there will be a long period where htmx 2.x is <code>latest</code> and htmx 4.x is <code>next</code></li>
+        </ul>
+        </blockquote>
+        <p>There are lots of neat details in here about the design changes they plan to make. It's a really great piece of technical writing - I learned a bunch about htmx and picked up some good notes on API design in general from this.
+        
+            <p><small></small>Via <a href="https://news.ycombinator.com/item?id=45803358">Hacker News</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/html">html</a>, <a href="https://simonwillison.net/tags/javascript">javascript</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/htmx">htmx</a>, <a href="https://simonwillison.net/tags/carson-gross">carson-gross</a></p>]]>
+      </description>
+      <source:markdown>**[The fetch()ening](https://htmx.org/essays/the-fetchening/)**
+
+After several years of stable htmx 2.0 and a promise to never release a backwards-incompatible htmx 3 Carson Gross is technically keeping that promise... by skipping to htmx 4 instead!
+
+The main reason is to replace `XMLHttpRequest` with `fetch()` \- a change that will have enough knock-on compatibility effects to require a major version bump - so they&#39;re using that as an excuse to clean up various other accumulated design warts at the same time.
+
+htmx is a _very_ responsibly run project. Here&#39;s their plan for the upgrade:
+
+&#62; That said, htmx 2.0 users _will_ face an upgrade project when moving to 4.0 in a way that they did not have to in moving from 1.0 to 2.0.
+&#62;
+&#62; I am sorry about that, and want to offer three things to address it:
+&#62;
+&#62; - htmx 2.0 (like htmx 1.0 &#38; intercooler.js 1.0) will be supported _in perpetuity_, so there is absolutely _no_ pressure to upgrade your application: if htmx 2.0 is satisfying your hypermedia needs, you can stick with it.
+&#62; - We will create extensions that revert htmx 4 to htmx 2 behaviors as much as is feasible (e.g. Supporting the old implicit attribute inheritance model, at least)
+&#62; - We will roll htmx 4.0 out slowly, over a multi-year period. As with the htmx 1.0 -&#62; 2.0 upgrade, there will be a long period where htmx 2.x is `latest` and htmx 4.x is `next`
+
+There are lots of neat details in here about the design changes they plan to make. It&#39;s a really great piece of technical writing - I learned a bunch about htmx and picked up some good notes on API design in general from this.
+
+
+
+Via [Hacker News](https://news.ycombinator.com/item?id=45803358)
+
+Tags: [html](https://simonwillison.net/tags/html), [javascript](https://simonwillison.net/tags/javascript), [open-source](https://simonwillison.net/tags/open-source), [htmx](https://simonwillison.net/tags/htmx), [carson-gross](https://simonwillison.net/tags/carson-gross)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/3/htmx-the-fetchening/#atom-everything</guid>
+    </item>    <item>
+      <title>Quoting Barry Warsaw</title>
+      <link>https://simonwillison.net/2025/Nov/3/barry-warsaw/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131/465"><p>Dear PEP 810 authors. The Steering Council is happy to unanimously accept "<a href="https://peps.python.org/pep-0810/">PEP 810, Explicit lazy imports</a>". Congratulations! We appreciate the way you were able to build on and improve the previously discussed (and rejected) attempt at lazy imports as proposed in <a href="https://peps.python.org/pep-0690/">PEP 690</a>.</p></blockquote>
+        <p class="cite">&mdash; <a href="https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131/465">Barry Warsaw</a>, on behalf of the Python Steering Council</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/barry-warsaw">barry-warsaw</a></p>]]>
+      </description>
+      <source:markdown>&#62; Dear PEP 810 authors. The Steering Council is happy to unanimously accept &#34; [PEP 810, Explicit lazy imports](https://peps.python.org/pep-0810/)&#34;. Congratulations! We appreciate the way you were able to build on and improve the previously discussed (and rejected) attempt at lazy imports as proposed in [PEP 690](https://peps.python.org/pep-0690/).
+
+— [Barry Warsaw](https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131/465), on behalf of the Python Steering Council
+
+Tags: [python](https://simonwillison.net/tags/python), [barry-warsaw](https://simonwillison.net/tags/barry-warsaw)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/3/barry-warsaw/#atom-everything</guid>
+    </item>    <item>
+      <title>Kodak Quietly Begins Directly Selling Kodak Gold and Ultramax Film Again</title>
+      <link>https://www.404media.co/kodak-quietly-begins-directly-selling-kodak-gold-and-ultramax-film-again/</link>
+      <description>
+        <![CDATA[Kodak appears to be taking back control over the distribution of its film.]]>
+      </description>
+      <source:markdown>Kodak appears to be taking back control over the distribution of its film.</source:markdown>
+      <guid>cid://6909165516a23c00019afb05</guid>
+    </item>    <item>
+      <title>Web Version of the App Store</title>
+      <link>https://mjtsai.com/blog/2025/11/03/web-version-of-the-app-store/</link>
+      <description>
+        <![CDATA[Juli Clover: Apple launched a new App Store on the web today, allowing users to browse through and search for apps across all of its platforms.[&#8230;]There is a search interface for looking up a specific app, and clicking on &#8220;View&#8221; on any app in the store provides screenshots and information optimized for a web view. [&#8230;]]]>
+      </description>
+      <source:markdown>Juli Clover: Apple launched a new App Store on the web today, allowing users to browse through and search for apps across all of its platforms.\[…\]There is a search interface for looking up a specific app, and clicking on “View” on any app in the store provides screenshots and information optimized for a web view. \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49879</guid>
+    </item>    <item>
+      <title>iOS 18 and iOS 26 Autocorrect</title>
+      <link>https://mjtsai.com/blog/2025/11/03/ios-18-and-ios-26-autocorrect/</link>
+      <description>
+        <![CDATA[Michi NekoMichi: Ever noticed you&#8217;re getting way more typos on iPhone lately? You&#8217;re not going crazy - it&#8217;s iOS. Watch the video where he presses the U key, and the iOS keyboard confirms this visually, but then the U ends up changed to an H or a J, resulting in a word that isn&#8217;t even [&#8230;]]]>
+      </description>
+      <source:markdown>Michi NekoMichi: Ever noticed you’re getting way more typos on iPhone lately? You’re not going crazy - it’s iOS. Watch the video where he presses the U key, and the iOS keyboard confirms this visually, but then the U ends up changed to an H or a J, resulting in a word that isn’t even \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49877</guid>
+    </item>    <item>
+      <title>Lightroom Classic 15.0</title>
+      <link>https://mjtsai.com/blog/2025/11/03/lightroom-classic-15-0/</link>
+      <description>
+        <![CDATA[Adobe: Quickly select the best shots from a large set of images with Assisted Culling. [link][&#8230;]Easily stack your images based on time and visual similarity. You can also use the Stack filter in the Attribute panel. [link][&#8230;]Quickly detect and remove dust spots caused by the camera&#8217;s sensor or lens. [link][&#8230;]Achieve substantial performance improvements with enhanced [&#8230;]]]>
+      </description>
+      <source:markdown>Adobe: Quickly select the best shots from a large set of images with Assisted Culling. \[link\]\[…\]Easily stack your images based on time and visual similarity. You can also use the Stack filter in the Attribute panel. \[link\]\[…\]Quickly detect and remove dust spots caused by the camera’s sensor or lens. \[link\]\[…\]Achieve substantial performance improvements with enhanced \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49875</guid>
+    </item>    <item>
+      <title>Swift 6.2: Approachable Concurrency</title>
+      <link>https://mjtsai.com/blog/2025/11/03/swift-6-2-approachable-concurrency/</link>
+      <description>
+        <![CDATA[Holly Borla: Swift 6.2 lowers the barrier to concurrent programming with a set of changes designed to reduce boilerplate and let you write safe concurrent code more naturally:Single-threaded by default: Run your code on the main thread without explicit @MainActor annotations using the new option to isolate code to the main actor by default. This [&#8230;]]]>
+      </description>
+      <source:markdown>Holly Borla: Swift 6.2 lowers the barrier to concurrent programming with a set of changes designed to reduce boilerplate and let you write safe concurrent code more naturally:Single-threaded by default: Run your code on the main thread without explicit @MainActor annotations using the new option to isolate code to the main actor by default. This \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49873</guid>
+    </item>    <item>
+      <title>Every Tree Can Be a Buddha</title>
+      <link>https://kottke.org/25/11/every-tree-can-be-a-buddha</link>
+      <guid>cid://tag:kottke.org,2025://5.47773</guid>
+    </item>    <item>
+      <title>The case against pgvector</title>
+      <link>https://simonwillison.net/2025/Nov/3/the-case-against-pgvector/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://alex-jacobs.com/posts/the-case-against-pgvector/">The case against pgvector</a></strong></p>
+        I wasn't keen on the title of this piece but the content is great: Alex Jacobs talks through lessons learned trying to run the popular pgvector PostgreSQL vector indexing extension at scale, in particular the challenges involved in maintaining a large index with close-to-realtime updates using the IVFFlat or HNSW index types.</p>
+        <p>The section on pre-v.s.-post filtering is particularly useful:</p>
+        <blockquote>
+        <p>Okay but let's say you solve your index and insert problems. Now you have a document search system with millions of vectors. Documents have metadata---maybe they're marked as <code>draft</code>, <code>published</code>, or <code>archived</code>. A user searches for something, and you only want to return published documents.</p>
+        <p>[...] should Postgres filter on status first (pre-filter) or do the vector search first and then filter (post-filter)?</p>
+        <p>This seems like an implementation detail. It’s not. It’s the difference between queries that take 50ms and queries that take 5 seconds. It’s also the difference between returning the most relevant results and… not.</p>
+        </blockquote>
+        <p>The <a href="https://news.ycombinator.com/item?id=45798479">Hacker News thread</a> for this article attracted a robust discussion, including some fascinating comments by Discourse developer Rafael dos Santos Silva (xfalcox) about how they are using pgvector at scale:</p>
+        <blockquote>
+        <p>We [run pgvector in production] at Discourse, in thousands of databases, and it's leveraged in most of the billions of page views we serve. [...]</p>
+        <p>Also worth mentioning that we use quantization extensively:</p>
+        <ul>
+        <li>halfvec (16bit float) for storage - bit (binary vectors) for indexes</li>
+        </ul>
+        <p>Which makes the storage cost and on-going performance good enough that we could enable this in all our hosting. [...]</p>
+        <p>In Discourse embeddings power:</p>
+        <ul>
+        <li>Related Topics, a list of topics to read next, which uses embeddings of the current topic as the key to search for similar ones</li>
+        <li>Suggesting tags and categories when composing a new topic</li>
+        <li>Augmented search</li>
+        <li>RAG for uploaded files</li>
+        </ul>
+        </blockquote>
+        
+            <p><small></small>Via <a href="https://news.ycombinator.com/item?id=45798479">Hacker News</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/postgresql">postgresql</a>, <a href="https://simonwillison.net/tags/scaling">scaling</a>, <a href="https://simonwillison.net/tags/vector-search">vector-search</a>, <a href="https://simonwillison.net/tags/embeddings">embeddings</a></p>]]>
+      </description>
+      <source:markdown>**[The case against pgvector](https://alex-jacobs.com/posts/the-case-against-pgvector/)**
+
+I wasn&#39;t keen on the title of this piece but the content is great: Alex Jacobs talks through lessons learned trying to run the popular pgvector PostgreSQL vector indexing extension at scale, in particular the challenges involved in maintaining a large index with close-to-realtime updates using the IVFFlat or HNSW index types.
+
+The section on pre-v.s.-post filtering is particularly useful:
+
+&#62; Okay but let&#39;s say you solve your index and insert problems. Now you have a document search system with millions of vectors. Documents have metadata---maybe they&#39;re marked as `draft`, `published`, or `archived`. A user searches for something, and you only want to return published documents.
+&#62;
+&#62; \[...\] should Postgres filter on status first (pre-filter) or do the vector search first and then filter (post-filter)?
+&#62;
+&#62; This seems like an implementation detail. It’s not. It’s the difference between queries that take 50ms and queries that take 5 seconds. It’s also the difference between returning the most relevant results and… not.
+
+The [Hacker News thread](https://news.ycombinator.com/item?id=45798479) for this article attracted a robust discussion, including some fascinating comments by Discourse developer Rafael dos Santos Silva (xfalcox) about how they are using pgvector at scale:
+
+&#62; We \[run pgvector in production\] at Discourse, in thousands of databases, and it&#39;s leveraged in most of the billions of page views we serve. \[...\]
+&#62;
+&#62; Also worth mentioning that we use quantization extensively:
+&#62;
+&#62; - halfvec (16bit float) for storage - bit (binary vectors) for indexes
+&#62;
+&#62; Which makes the storage cost and on-going performance good enough that we could enable this in all our hosting. \[...\]
+&#62;
+&#62; In Discourse embeddings power:
+&#62;
+&#62; - Related Topics, a list of topics to read next, which uses embeddings of the current topic as the key to search for similar ones
+&#62; - Suggesting tags and categories when composing a new topic
+&#62; - Augmented search
+&#62; - RAG for uploaded files
+
+Via [Hacker News](https://news.ycombinator.com/item?id=45798479)
+
+Tags: [postgresql](https://simonwillison.net/tags/postgresql), [scaling](https://simonwillison.net/tags/scaling), [vector-search](https://simonwillison.net/tags/vector-search), [embeddings](https://simonwillison.net/tags/embeddings)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/3/the-case-against-pgvector/#atom-everything</guid>
+    </item>    <item>
+      <title>Publication Day for Book of Lives</title>
+      <link>https://margaretatwood.substack.com/p/publication-day-for-book-of-lives</link>
+      <description>
+        <![CDATA[Is almost upon us. And I'm not exactly packed. But at least I have the fuchsia satin gloves.]]>
+      </description>
+      <source:markdown>Is almost upon us. And I&#39;m not exactly packed. But at least I have the fuchsia satin gloves.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!EcoH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46f1e95b-7e9a-4bf7-b928-864d3bfa5ff1_1056x1327.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://margaretatwood.substack.com/p/publication-day-for-book-of-lives</guid>
+    </item>    <item>
+      <link>https://www.tbray.org/ongoing/When/200x/2005/07/25/Wikipedia-RSS</link>
+      <description>
+        <![CDATA[<p>Tim Bray added search on his blog, so of course I looked up myself and found we agree on the ridiculous-ness of the Wikipedia piece on RSS. ChatGPT gets the story right, so to be fair Wikipedia should warn about hallucinations too.</p>]]>
+      </description>
+      <source:markdown>Tim Bray added search on his blog, so of course I looked up myself and found we agree on the ridiculous-ness of the Wikipedia piece on RSS. ChatGPT gets the story right, so to be fair Wikipedia should warn about hallucinations too.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/03/1791/</guid>
+    </item>    <item>
+      <title>Why City Benches Are Becoming More Hostile</title>
+      <link>https://kottke.org/25/11/why-city-benches-are-becoming-more-hostile</link>
+      <guid>cid://tag:kottke.org,2025://5.47771</guid>
+    </item>    <item>
+      <link>https://www.niemanlab.org/2025/10/the-salt-lake-tribune-preparing-to-drop-its-paywall-launches-a-free-monthly-print-newspaper-for-southern-utah/</link>
+      <description>
+        <![CDATA[<p>The Salt Lake Tribune, preparing to drop its paywall, launches a free, monthly print newspaper for Southern Utah.</p>]]>
+      </description>
+      <source:markdown>The Salt Lake Tribune, preparing to drop its paywall, launches a free, monthly print newspaper for Southern Utah.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/03/1787/</guid>
+    </item>    <item>
+      <title>Note published on November 3, 2025 at 7:09 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202511031408</link>
+      <guid>cid://6908fe067034ea8afbbc1261</guid>
     </item>    <item>
       <link>https://arstechnica.com/tech-policy/2025/11/the-internet-archive-survived-major-copyright-losses-whats-next/</link>
       <description>
@@ -109,9 +323,9 @@ Tags: [generative-ai](https://simonwillison.net/tags/generative-ai), [ai-agents]
       <title>arXiv Changes Rules After Getting Spammed With AI-Generated &#39;Research&#39; Papers</title>
       <link>https://www.404media.co/arxiv-changes-rules-after-getting-spammed-with-ai-generated-research-papers/</link>
       <description>
-        <![CDATA[Cornell University’s academic paper repository will no longer accept Computer Science papers still under review.]]>
+        <![CDATA[Cornell University’s arXiv will no longer accept Computer Science reviews and position papers.]]>
       </description>
-      <source:markdown>Cornell University’s academic paper repository will no longer accept Computer Science papers still under review.</source:markdown>
+      <source:markdown>Cornell University’s arXiv will no longer accept Computer Science reviews and position papers.</source:markdown>
       <guid>cid://6908d80cb03958000194190f</guid>
     </item>    <item>
       <title>Debian demands Rust or rust in peace for legacy ports</title>
@@ -519,6 +733,14 @@ The Register FOSS desk sat down with Canonical&#39;s vice-president for engineer
       <enclosure url="https://substackcdn.com/image/fetch/$s_!v3rZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1770d56-9704-4946-ae95-43b8c2322c92_1035x787.png" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/a-wealth-tax-that-works</guid>
     </item>    <item>
+      <title>WebKit Features for Safari 26.1</title>
+      <link>https://webkit.org/blog/17541/webkit-features-for-safari-26-1/</link>
+      <description>
+        <![CDATA[Today, Safari 26.1 is available with iOS 26.1, iPadOS 26.1, macOS Sequoia 26.1 and visionOS 26.1, as well as for macOS Sequoia and macOS Sonoma.]]>
+      </description>
+      <source:markdown>Today, Safari 26.1 is available with iOS 26.1, iPadOS 26.1, macOS Sequoia 26.1 and visionOS 26.1, as well as for macOS Sequoia and macOS Sonoma.</source:markdown>
+      <guid>cid://https://webkit.org/?p=17541</guid>
+    </item>    <item>
       <title>November 2, 2025</title>
       <link>https://heathercoxrichardson.substack.com/p/november-2-2025</link>
       <description>
@@ -702,6 +924,13 @@ Looking back at my precursor blog post from earlier this year, I’m amazed at h
       </description>
       <source:markdown>Embed your favorite analytics on your homepage</source:markdown>
     </item>    <item>
+      <title>Octopus Think</title>
+      <link>https://buttondown.com/blog/octopus-think</link>
+      <description>
+        <![CDATA[Octopus Think creators, Sarah and Matt, use Buttondown to connect with customers, share updates about their apps, and other projects they are working on.]]>
+      </description>
+      <source:markdown>Octopus Think creators, Sarah and Matt, use Buttondown to connect with customers, share updates about their apps, and other projects they are working on.</source:markdown>
+    </item>    <item>
       <title>New prompt injection papers: Agents Rule of Two and The Attacker Moves Second</title>
       <link>https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/#atom-everything</link>
       <description>
@@ -717,14 +946,20 @@ Looking back at my precursor blog post from earlier this year, I’m amazed at h
         <p>It's still possible that all three properties are necessary to carry out a request. If an agent requires all three without starting a new session (i.e., with a fresh context window), then the agent should not be permitted to operate autonomously and at a minimum requires supervision --- via human-in-the-loop approval or another reliable means of validation.</p>
         </blockquote>
         <p>It's accompanied by this handy diagram:</p>
-        <p><img src="https://static.simonwillison.net/static/2025/agents-rule-of-two.jpg" alt="Venn diagram titled &quot;Choose Two&quot; showing three overlapping circles labeled A, B, and C. Circle A (top): &quot;Process untrustworthy inputs&quot; with description &quot;Externally authored data may contain prompt injection attacks that turn an agent malicious.&quot; Circle B (bottom left): &quot;Access to sensitive systems or private data&quot; with description &quot;This includes private user data, company secrets, production settings and configs, source code, and other sensitive data.&quot; Circle C (bottom right): &quot;Change state or communicate externally&quot; with description &quot;Overwrite or change state through write actions, or transmitting data to a threat actor through web requests or tool calls.&quot; The two-way overlaps between circles are labeled &quot;Safe&quot; while the center where all three circles overlap is labeled &quot;Danger&quot;." style="max-width: 100%;" /></p>
+        <p><img src="https://static.simonwillison.net/static/2025/agents-rule-of-two-updated.jpg" alt="Venn diagram titled &quot;Choose Two&quot; showing three overlapping circles labeled A, B, and C. Circle A (top): &quot;Process untrustworthy inputs&quot; with description &quot;Externally authored data may contain prompt injection attacks that turn an agent malicious.&quot; Circle B (bottom left): &quot;Access to sensitive systems or private data&quot; with description &quot;This includes private user data, company secrets, production settings and configs, source code, and other sensitive data.&quot; Circle C (bottom right): &quot;Change state or communicate externally&quot; with description &quot;Overwrite or change state through write actions, or transmitting data to a threat actor through web requests or tool calls.&quot; The two-way overlaps between circles are labeled &quot;Lower risk&quot; while the center where all three circles overlap is labeled &quot;Danger&quot;." style="max-width: 100%;" /></p>
         <p>I like this <em>a lot</em>.</p>
         <p>I've spent several years now trying to find clear ways to explain the risks of prompt injection attacks to developers who are building on top of LLMs. It's frustratingly difficult.</p>
         <p>I've had the most success with the lethal trifecta, which boils one particular class of prompt injection attack down to a simple-enough model: if your system has access to private data, exposure to untrusted content and a way to communicate externally then it's vulnerable to private data being stolen.</p>
         <p>The one problem with the lethal trifecta is that it only covers the risk of data exfiltration: there are plenty of other, even nastier risks that arise from prompt injection attacks against LLM-powered agents with access to tools which the lethal trifecta doesn't cover.</p>
         <p>The Agents Rule of Two neatly solves this, through the addition of "changing state" as a property to consider. This brings other forms of tool usage into the picture: anything that can change state triggered by untrustworthy inputs is something to be very cautious about.</p>
         <p>It's also refreshing to see another major research lab concluding that prompt injection remains an unsolved problem, and attempts to block or filter them have not proven reliable enough to depend on. The current solution is to design systems with this in mind, and the Rule of Two is a solid way to think about that.</p>
-        <p id="exception"><strong>Update</strong>: On thinking about this further there's one aspect of the Rule of Two model that doesn't work for me: the Venn diagram above marks the combination of untrustworthy inputs and the ability to change state as "safe", but that's not right. Even without access to private systems or sensitive data that pairing can still produce harmful results. Unfortunately adding an exception for that pair undermines the simplicity of the "Rule of Two" framing!</p> 
+        <p id="exception"><strong>Update</strong>: On thinking about this further there's one aspect of the Rule of Two model that doesn't work for me: the Venn diagram above marks the combination of untrustworthy inputs and the ability to change state as "safe", but that's not right. Even without access to private systems or sensitive data that pairing can still produce harmful results. Unfortunately adding an exception for that pair undermines the simplicity of the "Rule of Two" framing!</p>
+        <p id="update-2"><strong>Update 2</strong>: Mick Ayzenberg responded to this note in <a href="https://news.ycombinator.com/item?id=45794245#45802448">a comment on Hacker News</a>:</p>
+        <blockquote>
+        <p>Thanks for the feedback! One small bit of clarification, the framework would describe access to any sensitive system as part of the [B] circle, not only private systems or private data.</p>
+        <p>The intention is that an agent that has removed [B] can write state and communicate freely, but not with any systems that matter (wrt critical security outcomes for its user). An example of an agent in this state would be one that can take actions in a tight sandbox or is isolated from production.</p>
+        </blockquote>
+        <p>The Meta team also <a href="https://news.ycombinator.com/item?id=45794245#45802046">updated their post</a> to replace "safe" with "lower risk" as the label on the intersections between the different circles. I've updated my screenshots of their diagrams in this post, <a href="https://static.simonwillison.net/static/2025/agents-rule-of-two.jpg">here's the original</a> for comparison.</p>
         <p>Which brings me to the second paper...</p>
         <h4 id="the-attacker-moves-second-stronger-adaptive-attacks-bypass-defenses-against-llm-jailbreaks-and-prompt-injections">The Attacker Moves Second: Stronger Adaptive Attacks Bypass Defenses Against LLM Jailbreaks and Prompt Injections</h4>
         <p>This paper is dated 10th October 2025 <a href="https://arxiv.org/abs/2510.09023">on Arxiv</a> and comes from a heavy-hitting team of 14 authors - Milad Nasr, Nicholas Carlini, Chawin Sitawarin, Sander V. Schulhoff, Jamie Hayes, Michael Ilie, Juliette Pluto, Shuang Song, Harsh Chaudhari, Ilia Shumailov, Abhradeep Thakurta, Kai Yuanqing Xiao, Andreas Terzis, Florian Tramèr - including representatives from OpenAI, Anthropic, and Google DeepMind.</p>
@@ -775,7 +1010,7 @@ It proposes a &#34;Rule of Two&#34; that&#39;s inspired by both my own [lethal t
 
 It&#39;s accompanied by this handy diagram:
 
-![Venn diagram titled &#34;Choose Two&#34; showing three overlapping circles labeled A, B, and C. Circle A (top): &#34;Process untrustworthy inputs&#34; with description &#34;Externally authored data may contain prompt injection attacks that turn an agent malicious.&#34; Circle B (bottom left): &#34;Access to sensitive systems or private data&#34; with description &#34;This includes private user data, company secrets, production settings and configs, source code, and other sensitive data.&#34; Circle C (bottom right): &#34;Change state or communicate externally&#34; with description &#34;Overwrite or change state through write actions, or transmitting data to a threat actor through web requests or tool calls.&#34; The two-way overlaps between circles are labeled &#34;Safe&#34; while the center where all three circles overlap is labeled &#34;Danger&#34;.](https://static.simonwillison.net/static/2025/agents-rule-of-two.jpg)
+![Venn diagram titled &#34;Choose Two&#34; showing three overlapping circles labeled A, B, and C. Circle A (top): &#34;Process untrustworthy inputs&#34; with description &#34;Externally authored data may contain prompt injection attacks that turn an agent malicious.&#34; Circle B (bottom left): &#34;Access to sensitive systems or private data&#34; with description &#34;This includes private user data, company secrets, production settings and configs, source code, and other sensitive data.&#34; Circle C (bottom right): &#34;Change state or communicate externally&#34; with description &#34;Overwrite or change state through write actions, or transmitting data to a threat actor through web requests or tool calls.&#34; The two-way overlaps between circles are labeled &#34;Lower risk&#34; while the center where all three circles overlap is labeled &#34;Danger&#34;.](https://static.simonwillison.net/static/2025/agents-rule-of-two-updated.jpg)
 
 I like this _a lot_.
 
@@ -790,6 +1025,14 @@ The Agents Rule of Two neatly solves this, through the addition of &#34;changing
 It&#39;s also refreshing to see another major research lab concluding that prompt injection remains an unsolved problem, and attempts to block or filter them have not proven reliable enough to depend on. The current solution is to design systems with this in mind, and the Rule of Two is a solid way to think about that.
 
 **Update**: On thinking about this further there&#39;s one aspect of the Rule of Two model that doesn&#39;t work for me: the Venn diagram above marks the combination of untrustworthy inputs and the ability to change state as &#34;safe&#34;, but that&#39;s not right. Even without access to private systems or sensitive data that pairing can still produce harmful results. Unfortunately adding an exception for that pair undermines the simplicity of the &#34;Rule of Two&#34; framing!
+
+**Update 2**: Mick Ayzenberg responded to this note in [a comment on Hacker News](https://news.ycombinator.com/item?id=45794245#45802448):
+
+&#62; Thanks for the feedback! One small bit of clarification, the framework would describe access to any sensitive system as part of the \[B\] circle, not only private systems or private data.
+&#62;
+&#62; The intention is that an agent that has removed \[B\] can write state and communicate freely, but not with any systems that matter (wrt critical security outcomes for its user). An example of an agent in this state would be one that can take actions in a tight sandbox or is isolated from production.
+
+The Meta team also [updated their post](https://news.ycombinator.com/item?id=45794245#45802046) to replace &#34;safe&#34; with &#34;lower risk&#34; as the label on the intersections between the different circles. I&#39;ve updated my screenshots of their diagrams in this post, [here&#39;s the original](https://static.simonwillison.net/static/2025/agents-rule-of-two.jpg) for comparison.
 
 Which brings me to the second paper...
 
@@ -2724,6 +2967,48 @@ More than one Linux-adjacent vendor presented at the Ubuntu Summit, and a small 
 
 The post [Spartacus and Gladiators, with Mary Beard](https://therestishistory.com/spartacus-and-gladiators-with-mary-beard/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
       <guid>cid://https://therestishistory.com/spartacus-and-gladiators-with-mary-beard/</guid>
+    </item>    <item>
+      <title>This Month in Redox - October 2025</title>
+      <link>https://www.redox-os.org/news/this-month-251031/</link>
+      <description>
+        <![CDATA[<img src="https://www.redox-os.org/img/screenshot/servo.png" class="img-responsive"/>
+        <ul>
+        <li>Servo on Redox</li>
+        </ul>
+        <p>Redox OS is a Unix-like general-purpose microkernel-based operating system
+        written in Rust. October was a very exciting month for Redox! Here&rsquo;s all the latest news.</p>
+        <h2 id="donate-to-redox">Donate to Redox</h2>
+        <p>If you would like to support Redox, please consider donating or buying some merch!</p>
+        <ul>
+        <li><a href="https://www.redox-os.org/donate/">Donate</a></li>
+        <li><a href="https://www.patreon.com/redox_os">Patreon</a></li>
+        <li><a href="https://redox-os.creator-spring.com/">Merch</a></li>
+        </ul>
+        <h2 id="flexible-device-detection">Flexible Device Detection</h2>
+        <p>Jeremy Soller has improved the upcoming <code>hwd</code> daemon to detect and configure either ACPI or DeviceTree computers.</p>
+        <p>This addresses some of our problems with DeviceTree computers, and improves the ARM64 and RISC-V hardware support.</p>]]>
+      </description>
+      <source:markdown>![](https://www.redox-os.org/img/screenshot/servo.png)
+
+- Servo on Redox
+
+Redox OS is a Unix-like general-purpose microkernel-based operating system
+written in Rust. October was a very exciting month for Redox! Here’s all the latest news.
+
+## Donate to Redox
+
+If you would like to support Redox, please consider donating or buying some merch!
+
+- [Donate](https://www.redox-os.org/donate/)
+- [Patreon](https://www.patreon.com/redox_os)
+- [Merch](https://redox-os.creator-spring.com/)
+
+## Flexible Device Detection
+
+Jeremy Soller has improved the upcoming `hwd` daemon to detect and configure either ACPI or DeviceTree computers.
+
+This addresses some of our problems with DeviceTree computers, and improves the ARM64 and RISC-V hardware support.</source:markdown>
+      <guid>cid://https://www.redox-os.org/news/this-month-251031/</guid>
     </item>    <item>
       <title>&#60;default:div xmlns=&#34;http://www.w3.org/1999/xhtml&#34; class=&#34;if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14&#34;/&#62;</title>
       <link>https://tantek.com/2025/303/t1/october-blogging-challenges</link>
