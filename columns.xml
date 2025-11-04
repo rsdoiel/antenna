@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>03 Nov 25 15:11 -0800</lastBuildDate>
+    <lastBuildDate>04 Nov 25 06:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,245 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>How to Opt-Out of Airlines Selling Your Travel Data to the Government</title>
+      <link>https://www.404media.co/how-to-opt-out-of-airlines-selling-your-travel-data-to-the-government/</link>
+      <description>
+        <![CDATA[The Airlines Reporting Corporation (ARC), owned by major U.S. airlines, collects billions of ticketing records and sells them to the government to be searched without a warrant. I managed to opt-out of that data selling.]]>
+      </description>
+      <source:markdown>The Airlines Reporting Corporation (ARC), owned by major U.S. airlines, collects billions of ticketing records and sells them to the government to be searched without a warrant. I managed to opt-out of that data selling.</source:markdown>
+      <guid>cid://6909fcc116a23c00019b1790</guid>
+    </item>    <item>
+      <title>What’s Your Hurry?</title>
+      <link>https://onefoottsunami.com/2025/11/04/whats-your-hurry/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29366</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/04.html#a131304</link>
+      <description>
+        <![CDATA[There was a time when I thought <a href="https://apnews.com/article/dick-cheney-dies-079591b529f048489650e7569bc675d2">Dick Cheney</a> was the worst possible person to be vice president of the United States. His corruption led to what we have now. I will never love his memory. But I do remember that he <a href="https://www.themirror.com/news/us-news/dick-cheney-trump-kamala-harris-1484000">voted for Kamala Harris</a>. So, if you go deep enough, we shared the same vision for the country. As corrupt as he was, even he had a limit. We need more Republicans to do what he did. And I thank him for setting that example.]]>
+      </description>
+      <source:markdown>There was a time when I thought [Dick Cheney](https://apnews.com/article/dick-cheney-dies-079591b529f048489650e7569bc675d2) was the worst possible person to be vice president of the United States. His corruption led to what we have now. I will never love his memory. But I do remember that he [voted for Kamala Harris](https://www.themirror.com/news/us-news/dick-cheney-trump-kamala-harris-1484000). So, if you go deep enough, we shared the same vision for the country. As corrupt as he was, even he had a limit. We need more Republicans to do what he did. And I thank him for setting that example.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/04.html#a131304</guid>
+    </item>    <item>
+      <title>Cybercriminals Targeting Payroll Sites</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/cybercriminals-targeting-payroll-sites.html</link>
+      <description>
+        <![CDATA[<p>Microsoft is <a href="https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html?_m=3n%2e009a%2e3796%2ebx0ao08q8s%2e2u1l">warning</a> of a scam involving online payroll systems. Criminals use social engineering to steal people&#8217;s credentials, and then divert direct deposits into accounts that they control. Sometimes they do other things to make it harder for the victim to realize what is happening.</p>
+        <p>I feel like this kind of thing is happening everywhere, with everything. As we move more of our personal and professional lives online, we enable criminals to subvert the very systems we rely on.</p>]]>
+      </description>
+      <source:markdown>Microsoft is [warning](https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html?_m=3n%2e009a%2e3796%2ebx0ao08q8s%2e2u1l) of a scam involving online payroll systems. Criminals use social engineering to steal people’s credentials, and then divert direct deposits into accounts that they control. Sometimes they do other things to make it harder for the victim to realize what is happening.
+
+I feel like this kind of thing is happening everywhere, with everything. As we move more of our personal and professional lives online, we enable criminals to subvert the very systems we rely on.</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=71056</guid>
+    </item>    <item>
+      <title>How Hardcore is Pee-Wee German?</title>
+      <link>https://www.borowitzreport.com/p/how-hardcore-is-stephen-miller</link>
+      <description>
+        <![CDATA[I investigate.]]>
+      </description>
+      <source:markdown>I investigate.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!H1kH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9674586c-1fd2-464d-8b45-e1608a2f38d5_1024x683.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/how-hardcore-is-stephen-miller</guid>
+    </item>    <item>
+      <title>Radar Trends to Watch: November 2025</title>
+      <link>https://www.oreilly.com/radar/radar-trends-to-watch-november-2025/</link>
+      <description>
+        <![CDATA[AI has so thoroughly colonized every technical discipline that it’s becoming hard to organize items of interest in Radar Trends. Should a story go under AI or programming (or operations or biology or whatever the case may be)? Maybe it’s time to go back to a large language model that doesn’t require any electricity and [&#8230;]]]>
+      </description>
+      <source:markdown>AI has so thoroughly colonized every technical discipline that it’s becoming hard to organize items of interest in Radar Trends. Should a story go under AI or programming (or operations or biology or whatever the case may be)? Maybe it’s time to go back to a large language model that doesn’t require any electricity and \[…\]</source:markdown>
+      <guid>cid://https://www.oreilly.com/radar/?p=17640</guid>
+    </item>    <item>
+      <link>https://www.nytimes.com/2025/11/04/us/politics/dick-cheney-dead.html?unlocked_article_code=1.yk8.EvpJ.YP-PsAedTec0&#38;smid=url-share</link>
+      <description>
+        <![CDATA[<p>Dick Cheney, Powerful Vice President and Washington Insider, Dies at 84.</p>]]>
+      </description>
+      <source:markdown>Dick Cheney, Powerful Vice President and Washington Insider, Dies at 84.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/04/1797/</guid>
+    </item>    <item>
+      <title>The Big Smirk</title>
+      <link>https://paulkrugman.substack.com/p/the-big-smirk</link>
+      <description>
+        <![CDATA[The cruelty is the point, party edition]]>
+      </description>
+      <source:markdown>The cruelty is the point, party edition</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!r37w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa6b5ff79-712b-4516-8a4b-e1d7d0c444a9_1290x1630.png" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/the-big-smirk</guid>
+    </item>    <item>
+      <title>Lit Hub Daily: November 4, 2025</title>
+      <link>https://lithub.com/lit-hub-daily-november-4-2025/</link>
+      <description>
+        <![CDATA[Ana Garriga and Carmen Urbita explore the “close friendship” between Sor Juana Inés and Vicereine María Luisa. &#124; Lit Hub Biography What’s the most scientifically accurate way to write about time travel? “I found I could expound on quantum consciousness all]]>
+      </description>
+      <source:markdown>Ana Garriga and Carmen Urbita explore the “close friendship” between Sor Juana Inés and Vicereine María Luisa. \| Lit Hub Biography What’s the most scientifically accurate way to write about time travel? “I found I could expound on quantum consciousness all</source:markdown>
+      <guid>cid://https://lithub.com/?p=262221</guid>
+    </item>    <item>
+      <link>https://www.nytimes.com/2025/11/03/us/politics/gop-tucker-carlson-nick-fuentes-antisemitism.html</link>
+      <description>
+        <![CDATA[<p>You’d think Repubs know where this is leading. They’ve got their SS and Gestapo, they’re building the death camps with tax dollars, practicing on immigrants first. Ultimately they’re doing the Final Solution, but this time they’re determined to get it right.</p>]]>
+      </description>
+      <source:markdown>You’d think Repubs know where this is leading. They’ve got their SS and Gestapo, they’re building the death camps with tax dollars, practicing on immigrants first. Ultimately they’re doing the Final Solution, but this time they’re determined to get it right.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/04/1795/</guid>
+    </item>    <item>
+      <link>https://nathanwrigley.com/2025/10/29/we-need-more-silliness-on-the-web/</link>
+      <description>
+        <![CDATA[<p>We need more silliness on the web.</p>]]>
+      </description>
+      <source:markdown>We need more silliness on the web.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/04/1793/</guid>
+    </item>    <item>
+      <title>Sonic Tone Poems: Three Audio Narratives to Reshape Your Imagination</title>
+      <link>https://lithub.com/sonic-tone-poems-three-audio-narratives-to-reshape-your-imaginations/</link>
+      <description>
+        <![CDATA[I started my career in radio in the analog era of reel-to-reel tape. Editing was done by spooling the recording from one reel to another, cutting out the unwanted elements with a razor blade, and cello-taping the remaining tape back]]>
+      </description>
+      <source:markdown>I started my career in radio in the analog era of reel-to-reel tape. Editing was done by spooling the recording from one reel to another, cutting out the unwanted elements with a razor blade, and cello-taping the remaining tape back</source:markdown>
+      <guid>cid://https://lithub.com/?p=262189</guid>
+    </item>    <item>
+      <title>The Succession Crisis of Queen Elizabeth I</title>
+      <link>https://lithub.com/the-succession-crisis-of-queen-elizabeth-i/</link>
+      <description>
+        <![CDATA[On October 10, 1562, Queen Elizabeth I was staying at Hampton Court when she was taken suddenly and dangerously ill. “She is in great danger,” the Spanish ambassador Bishop Álvaro de la Quadra reported six days later. “If the Queen]]>
+      </description>
+      <source:markdown>On October 10, 1562, Queen Elizabeth I was staying at Hampton Court when she was taken suddenly and dangerously ill. “She is in great danger,” the Spanish ambassador Bishop Álvaro de la Quadra reported six days later. “If the Queen</source:markdown>
+      <guid>cid://https://lithub.com/?p=261902</guid>
+    </item>    <item>
+      <title>How Two Nuns and a Jesuit Might Persuade You to Finally Download that Dating App</title>
+      <link>https://lithub.com/how-two-nuns-and-a-jesuit-might-persuade-you-to-finally-download-that-dating-app/</link>
+      <description>
+        <![CDATA[“That you’re a woman far away / is no hindrance to my love: / for the soul, as you well know, / distance and sex don’t count.” It might sound like a queer collab between Billie Eilish and Phoebe Bridgers,]]>
+      </description>
+      <source:markdown>“That you’re a woman far away / is no hindrance to my love: / for the soul, as you well know, / distance and sex don’t count.” It might sound like a queer collab between Billie Eilish and Phoebe Bridgers,</source:markdown>
+      <guid>cid://https://lithub.com/?p=261912</guid>
+    </item>    <item>
+      <title>Finding the Truth In the Imaginary: On “Accurately” Writing About Time Travel</title>
+      <link>https://lithub.com/finding-the-truth-in-the-imaginary-on-accurately-writing-about-time-travel/</link>
+      <description>
+        <![CDATA[When I began writing Lightbreakers, I hoped it would be much easier to write than my previous novel, The Ensemble, about a classical string quartet. I grew up playing cello but am not a professional musician, so I both relied]]>
+      </description>
+      <source:markdown>When I began writing Lightbreakers, I hoped it would be much easier to write than my previous novel, The Ensemble, about a classical string quartet. I grew up playing cello but am not a professional musician, so I both relied</source:markdown>
+      <guid>cid://https://lithub.com/?p=261747</guid>
+    </item>    <item>
+      <title>Why I Saw The Bad News Bears Ten Times in the Theater as a Nine-Year-Old Boy</title>
+      <link>https://lithub.com/why-i-saw-the-bad-news-bears-ten-times-in-the-theater-as-a-nine-year-old-boy/</link>
+      <description>
+        <![CDATA[The Bad News Bears was released in movie theaters in April 1976. It was a surprise hit. One possible reason for its success was that it was a summer of weak competition, in box office terms. The two other successful movies]]>
+      </description>
+      <source:markdown>The Bad News Bears was released in movie theaters in April 1976. It was a surprise hit. One possible reason for its success was that it was a summer of weak competition, in box office terms. The two other successful movies</source:markdown>
+      <guid>cid://https://lithub.com/?p=261690</guid>
+    </item>    <item>
+      <title>Birding on the Beach: Why Fall and Winter Are Great Times to Bird Watch</title>
+      <link>https://lithub.com/birding-on-the-beach-why-fall-and-winter-are-great-times-to-bird-watch/</link>
+      <description>
+        <![CDATA[Late August days were once bittersweet for me. Growing up on the Jersey Shore, where my family were members of a rickety old beach club, I still remember the feel of the cooler air in the evenings as I pulled]]>
+      </description>
+      <source:markdown>Late August days were once bittersweet for me. Growing up on the Jersey Shore, where my family were members of a rickety old beach club, I still remember the feel of the cooler air in the evenings as I pulled</source:markdown>
+      <guid>cid://https://lithub.com/?p=261916</guid>
+    </item>    <item>
+      <title>Jodi-Ann Burey on Speechwriting, Authenticity, and Adapting Her TED Talk into a Book</title>
+      <link>https://lithub.com/jodi-ann-burey-on-speechwriting-authenticity-and-adapting-her-ted-talk-into-a-book/</link>
+      <description>
+        <![CDATA[I first met Jodi-Ann Burey at a book launch in Seattle a couple of years ago. A mutual friend introduced the two of us and mentioned that Jodi-Ann was working on a book based on her viral TEDx talk about]]>
+      </description>
+      <source:markdown>I first met Jodi-Ann Burey at a book launch in Seattle a couple of years ago. A mutual friend introduced the two of us and mentioned that Jodi-Ann was working on a book based on her viral TEDx talk about</source:markdown>
+      <guid>cid://https://lithub.com/?p=261879</guid>
+    </item>    <item>
+      <title>Margaret Atwood, Bryan Washington, Salman Rushdie, and more: 25 new books out today!</title>
+      <link>https://lithub.com/margaret-atwood-bryan-washington-salman-rushdie-and-more-25-new-books-out-today/</link>
+      <description>
+        <![CDATA[It&#8217;s the first Tuesday of a new fall month, meaning the sheer number of books coming out is reaching a fever pitch. It&#8217;s harder than ever to choose which titles to highlight in such a season, but below you will]]>
+      </description>
+      <source:markdown>It’s the first Tuesday of a new fall month, meaning the sheer number of books coming out is reaching a fever pitch. It’s harder than ever to choose which titles to highlight in such a season, but below you will</source:markdown>
+      <guid>cid://https://lithub.com/?p=261809</guid>
+    </item>    <item>
+      <title>Cursed Daughters</title>
+      <link>https://lithub.com/cursed-daughters/</link>
+      <description>
+        <![CDATA[Feranmi Falodun (the one who was cursed) was rumoured to be an especially beautiful woman. Her skin was smooth, soaking up the light; her hair was thick, long and heavy. Her laughter was said to sound like a babbling brook.]]>
+      </description>
+      <source:markdown>Feranmi Falodun (the one who was cursed) was rumoured to be an especially beautiful woman. Her skin was smooth, soaking up the light; her hair was thick, long and heavy. Her laughter was said to sound like a babbling brook.</source:markdown>
+      <guid>cid://https://lithub.com/?p=261376</guid>
+    </item>    <item>
+      <title>Yes really, curl is still developed</title>
+      <link>https://daniel.haxx.se/blog/2025/11/04/yes-really-curl-is-still-developed/</link>
+      <description>
+        <![CDATA[A lot! One of the most common reactions or questions I get about curl when I show up at conferences somewhere and do presentations: &#8212; is curl still being actively developed? How many more protocols can there be? This of course being asked by people without very close proximity or insight into the curl project &#8230; <a href="https://daniel.haxx.se/blog/2025/11/04/yes-really-curl-is-still-developed/" class="more-link">Continue reading <span class="screen-reader-text">Yes really, curl is still developed</span> <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>A lot! One of the most common reactions or questions I get about curl when I show up at conferences somewhere and do presentations: — is curl still being actively developed? How many more protocols can there be? This of course being asked by people without very close proximity or insight into the curl project … [Continue reading Yes really, curl is still developed→](https://daniel.haxx.se/blog/2025/11/04/yes-really-curl-is-still-developed/)</source:markdown>
+      <guid>cid://https://daniel.haxx.se/blog/?p=27389</guid>
+    </item>    <item>
+      <title>Office Hours: What will America learn from today’s elections?</title>
+      <link>https://robertreich.substack.com/p/office-hours-what-will-america-learn</link>
+      <description>
+        <![CDATA[Friends,]]>
+      </description>
+      <source:markdown>Friends,</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!d6bW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec8895d6-4537-494d-9476-de263bfea17a_3344x2264.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/office-hours-what-will-america-learn</guid>
+    </item>    <item>
+      <title>Deforestation in the Brazilian Amazon has fallen again in 2025</title>
+      <link>https://www.sustainabilitybynumbers.com/p/amazon-deforestation-2025</link>
+      <description>
+        <![CDATA[Progress on deforestation, but increased threats from wildfires.]]>
+      </description>
+      <source:markdown>Progress on deforestation, but increased threats from wildfires.</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/4eae8794-89e7-4c0a-ac9a-41652c86d5ee_5401x3627.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.sustainabilitybynumbers.com/p/amazon-deforestation-2025</guid>
+    </item>    <item>
+      <title>November 3, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/november-3-2025</link>
+      <description>
+        <![CDATA[At the end of her interview with President Donald J.]]>
+      </description>
+      <source:markdown>At the end of her interview with President Donald J.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/november-3-2025</guid>
+    </item>    <item>
+      <title>Quoting Steve Francia</title>
+      <link>https://simonwillison.net/2025/Nov/4/steve-francia/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="https://spf13.com/p/the-hidden-conversation/"><p>Every time an engineer evaluates a language that isn’t “theirs,” their brain is literally working against them. They’re not just analyzing technical trade offs, they’re contemplating a version of themselves that doesn’t exist yet, that feels threatening to the version that does. The Python developer reads case studies about Go’s performance and their amygdala quietly marks each one as a threat to be neutralized. The Rust advocate looks at identical problems and their Default Mode Network constructs narratives about why “only” Rust can solve them.</p>
+        <p>We’re not lying. We genuinely believe our reasoning is sound. That’s what makes identity based thinking so expensive, and so invisible.</p></blockquote>
+        <p class="cite">&mdash; <a href="https://spf13.com/p/the-hidden-conversation/">Steve Francia</a>, Why Engineers Can't Be Rational About Programming Languages</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/technical-debt">technical-debt</a>, <a href="https://simonwillison.net/tags/psychology">psychology</a>, <a href="https://simonwillison.net/tags/programming-languages">programming-languages</a></p>]]>
+      </description>
+      <source:markdown>&#62; Every time an engineer evaluates a language that isn’t “theirs,” their brain is literally working against them. They’re not just analyzing technical trade offs, they’re contemplating a version of themselves that doesn’t exist yet, that feels threatening to the version that does. The Python developer reads case studies about Go’s performance and their amygdala quietly marks each one as a threat to be neutralized. The Rust advocate looks at identical problems and their Default Mode Network constructs narratives about why “only” Rust can solve them.
+&#62;
+&#62; We’re not lying. We genuinely believe our reasoning is sound. That’s what makes identity based thinking so expensive, and so invisible.
+
+— [Steve Francia](https://spf13.com/p/the-hidden-conversation/), Why Engineers Can&#39;t Be Rational About Programming Languages
+
+Tags: [technical-debt](https://simonwillison.net/tags/technical-debt), [psychology](https://simonwillison.net/tags/psychology), [programming-languages](https://simonwillison.net/tags/programming-languages)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/4/steve-francia/#atom-everything</guid>
+    </item>    <item>
+      <title>Why Simplicity Matters in Website Analytics</title>
+      <link>https://openchannels.fm/why-simplicity-matters-in-website-analytics/</link>
+      <description>
+        <![CDATA[Website analytics are an essential part of running any site, but many people get lost in complicated dashboards and too many choices. It might seem easy to just pick the free tool everyone uses, but often these platforms cater to large organizations, making things confusing for individuals and small businesses. If you are trying to [&#8230;]]]>
+      </description>
+      <source:markdown>Website analytics are an essential part of running any site, but many people get lost in complicated dashboards and too many choices. It might seem easy to just pick the free tool everyone uses, but often these platforms cater to large organizations, making things confusing for individuals and small businesses. If you are trying to \[…\]</source:markdown>
+      <guid>cid://https://openchannels.fm/?p=111305</guid>
+    </item>    <item>
+      <title>Now’s Your Chance!</title>
+      <link>https://steady.substack.com/p/nows-your-chance</link>
+      <description>
+        <![CDATA[Why going to vote in this off-year election is so important]]>
+      </description>
+      <source:markdown>Why going to vote in this off-year election is so important</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!vy9-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64d950d1-2ca2-474d-bade-c067e21d80cc_6016x4016.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/nows-your-chance</guid>
+    </item>    <item>
+      <title>[Sponsor] Mux: Video API for Developers</title>
+      <link>https://www.mux.com/video-api?utm_campaign=fireball&#38;utm_source=DF</link>
+      <guid>cid://tag:daringfireball.net,2025:/feeds/sponsors//11.42353</guid>
+    </item>    <item>
+      <title>What the Democrats Must Do. Now!</title>
+      <link>https://robertreich.substack.com/p/what-the-democrats-must-do-now</link>
+      <description>
+        <![CDATA[Friends,]]>
+      </description>
+      <source:markdown>Friends,</source:markdown>
+      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/Uzc57eD3cWI" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/what-the-democrats-must-do-now</guid>
     </item>    <item>
       <title>Published on Citation Needed: &#34;Trump says he has “no idea” who he just pardoned&#34;</title>
       <link>https://citationneeded.news/trump-binance-changpeng-zhao-pardon</link>
@@ -783,6 +1022,18 @@ The Register FOSS desk sat down with Canonical&#39;s vice-president for engineer
 
 The post [614\. Walt Disney: The Great American Storyteller](https://therestishistory.com/614-walt-disney-the-great-american-storyteller/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
       <guid>cid://https://therestishistory.com/614-walt-disney-the-great-american-storyteller/</guid>
+    </item>    <item>
+      <title>MCP Colors: Systematically deal with prompt injection risk</title>
+      <link>http://timkellogg.me/blog/2025/11/03/colors</link>
+      <description>
+        <![CDATA[Prompt injection is annoying enough that most (all??) apps so far are mostly just
+        ignoring that it exists and hoping a solution will come along before their customer base grows
+        enough to actually care about security. There are answers!]]>
+      </description>
+      <source:markdown>Prompt injection is annoying enough that most (all??) apps so far are mostly just
+ignoring that it exists and hoping a solution will come along before their customer base grows
+enough to actually care about security. There are answers!</source:markdown>
+      <guid>cid://http://timkellogg.me/blog/2025/11/03/colors</guid>
     </item>    <item>
       <title>GSoC 2025: Introducing an ABI Lowering Library</title>
       <link>https://blog.llvm.org/posts/2025-08-25-abi-library/</link>
@@ -5688,6 +5939,10 @@ I have no idea why [their top level domain is for the British Indian Ocean Terri
 Tags: [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [claude](https://simonwillison.net/tags/claude), [generative-ai](https://simonwillison.net/tags/generative-ai), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms), [aaron-boodman](https://simonwillison.net/tags/aaron-boodman)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/28/aaron-boodman/#atom-everything</guid>
     </item>    <item>
+      <title>[Sponsor] Jaho Coffee Roaster</title>
+      <link>https://www.jaho.com/s/df</link>
+      <guid>cid://tag:daringfireball.net,2025:/feeds/sponsors//11.42323</guid>
+    </item>    <item>
       <title>As foretold by Avatar</title>
       <link>https://doc.searls.com/2025/10/27/as-foretold-by-avatar/</link>
       <description>
@@ -5695,10 +5950,6 @@ Tags: [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-progr
       </description>
       <source:markdown>As a half-Swede (my Mom was one), it is sad to learn that Trump has demolished Yggdrasil, the Ancient Tree of Life.</source:markdown>
       <guid>cid://https://doc.searls.com/2025/10/27/as-foretold-by-avatar/</guid>
-    </item>    <item>
-      <title>[Sponsor] Jaho Coffee Roaster</title>
-      <link>https://www.jaho.com/s/df</link>
-      <guid>cid://tag:daringfireball.net,2025:/feeds/sponsors//11.42323</guid>
     </item>    <item>
       <title>On em dashes and elipses</title>
       <link>https://doc.searls.com/2025/10/27/on-em-dashes-and-elipses/</link>
@@ -7938,6 +8189,10 @@ Coco in the sun.</source:markdown>
       <title>‘Boring Is What We Wanted’</title>
       <link>https://512pixels.net/2025/10/boring-is-what-we-wanted/</link>
       <guid>cid://tag:daringfireball.net,2025:/linked//6.42313</guid>
+    </item>    <item>
+      <title>WorkOS</title>
+      <link>https://workos.com/?utm_source=daringfireball&#38;utm_medium=RSS&#38;utm_campaign=q12025</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42312</guid>
     </item>    <item>
       <title>Fake (AI) News</title>
       <link>https://statusq.org/archives/2025/10/26/13398/</link>
@@ -12915,10 +13170,6 @@ Tags: [prompt-injection](https://simonwillison.net/tags/prompt-injection), [secu
       <title>Inside NORAD&#38;#8217;s Cheyenne Mountain Combat Center (c. 1966)</title>
       <link>https://kottke.org/25/10/inside-norads-cheyenne-mountain-combat-center-c-1966</link>
       <guid>cid://tag:kottke.org,2025://5.47734</guid>
-    </item>    <item>
-      <title>[Sponsor] WorkOS: Scalable, Secure Authentication</title>
-      <link>https://workos.com/?utm_source=daringfireball&#38;utm_medium=RSS&#38;utm_campaign=q12025</link>
-      <guid>cid://tag:daringfireball.net,2025:/feeds/sponsors//11.42292</guid>
     </item>    <item>
       <title>Eavesdropping on Internal Networks via Unencrypted Satellites</title>
       <link>https://satcom.sysnet.ucsd.edu/</link>
@@ -19675,947 +19926,6 @@ The latest interim release of Ubuntu is here, showcasing some significant change
       </description>
       <source:markdown>Barrett turns to Fox News, rather than the docket, to explain her silence in key rulings.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/13/1521/</guid>
-    </item>    <item>
-      <title>Trump Claims Thousands of Chicagoans Were Seen Running for Their Lives Over Weekend</title>
-      <link>https://www.borowitzreport.com/p/trump-claims-thousands-of-chicagoans</link>
-      <description>
-        <![CDATA[&#8220;You&#8217;d run, too, if you were being chased by Antifa.&#8221;]]>
-      </description>
-      <source:markdown>“You’d run, too, if you were being chased by Antifa.”</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!CdSa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11079878-9603-4814-b897-d6e32c203fca_1024x683.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/trump-claims-thousands-of-chicagoans</guid>
-    </item>    <item>
-      <title>[Sponsor] Mux: Video API for Developers</title>
-      <link>https://www.mux.com/video-api?utm_campaign=fireball&#38;utm_source=DF</link>
-      <guid>cid://tag:daringfireball.net,2025:/feeds/sponsors//11.42266</guid>
-    </item>    <item>
-      <link>https://www.mediaite.com/politics/inherently-corrupting-obama-condemns-trump-sending-national-guard-to-chicago-says-potus-has-damaged-democracy/</link>
-      <description>
-        <![CDATA[<p>Obama Slams Trump For Sending National Guard to Chicago.</p>]]>
-      </description>
-      <source:markdown>Obama Slams Trump For Sending National Guard to Chicago.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/13/1515/</guid>
-    </item>    <item>
-      <title>Good Work If You Can Keep It</title>
-      <link>https://steady.substack.com/p/good-work-if-you-can-keep-it</link>
-      <description>
-        <![CDATA[Before Trump dismantled the bureaucracy, working for the government was an honorable job]]>
-      </description>
-      <source:markdown>Before Trump dismantled the bureaucracy, working for the government was an honorable job</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!9kx_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4fa261c-c373-4ee1-92e3-1e3734c6f32b_1024x683.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://steady.substack.com/p/good-work-if-you-can-keep-it</guid>
-    </item>    <item>
-      <title>Monday session</title>
-      <link>https://adactio.com/notes/22187</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22187/small.jpg" srcset="https://adactio.com/images/uploaded/22187/medium.jpg 1.5x, https://adactio.com/images/uploaded/22187/large.jpg 2.5x" alt="Monday session" />
-        <p>Monday session</p>]]>
-      </description>
-      <source:markdown>![Monday session](https://adactio.com/images/uploaded/22187/small.jpg)
-
-Monday session</source:markdown>
-      <guid>cid://https://adactio.com/notes/22187</guid>
-    </item>    <item>
-      <title>nanochat</title>
-      <link>https://simonwillison.net/2025/Oct/13/nanochat/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://github.com/karpathy/nanochat">nanochat</a></strong></p>
-        Really interesting new project from Andrej Karpathy, described at length <a href="https://github.com/karpathy/nanochat/discussions/1">in this discussion post</a>.</p>
-        <p>It provides a full ChatGPT-style LLM, including training, inference and a web Ui, that can be trained for as little as $100:</p>
-        <blockquote>
-        <p>This repo is a full-stack implementation of an LLM like ChatGPT in a single, clean, minimal, hackable, dependency-lite codebase.</p>
-        </blockquote>
-        <p>It's around 8,000 lines of code, mostly Python (using PyTorch) plus a little bit of Rust for <a href="https://github.com/karpathy/nanochat/tree/master/rustbpe">training the tokenizer</a>.</p>
-        <p>Andrej suggests renting a 8XH100 NVIDA node for around $24/ hour to train the model. 4 hours (~$100) is enough to get a model that can hold a conversation - <a href="https://twitter.com/karpathy/status/1977755430093980034">almost coherent example here</a>. Run it for 12 hours and you get something that slightly outperforms GPT-2. I'm looking forward to hearing results from longer training runs!</p>
-        <p>The resulting model is ~561M parameters, so it should run on almost anything. I've run a 4B model on my iPhone, 561M should easily fit on even an inexpensive Raspberry Pi.</p>
-        <p>The model defaults to training on ~24GB from <a href="https://huggingface.co/datasets/karpathy/fineweb-edu-100b-shuffle">karpathy/fineweb-edu-100b-shuffle</a> derived from <a href="https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu">FineWeb-Edu</a>, and then <a href="https://github.com/karpathy/nanochat/blob/5fd0b138860a76beb60cf099fa46f74191b50941/scripts/mid_train.py">midtrains</a> on 568K examples from <a href="https://huggingface.co/datasets/HuggingFaceTB/smol-smoltalk">SmolTalk</a> (460K), <a href="https://huggingface.co/datasets/cais/mmlu">MMLU auxiliary train</a> (100K), and <a href="https://huggingface.co/datasets/openai/gsm8k">GSM8K</a> (8K), followed by <a href="https://github.com/karpathy/nanochat/blob/5fd0b138860a76beb60cf099fa46f74191b50941/scripts/chat_sft.py">supervised finetuning</a> on 21.4K examples from <a href="https://huggingface.co/datasets/allenai/ai2_arc#arc-easy-1">ARC-Easy</a> (2.3K), <a href="https://huggingface.co/datasets/allenai/ai2_arc#arc-challenge">ARC-Challenge</a> (1.1K), <a href="https://huggingface.co/datasets/openai/gsm8k">GSM8K</a> (8K), and <a href="https://huggingface.co/datasets/HuggingFaceTB/smol-smoltalk">SmolTalk</a> (10K).</p>
-        <p>Here's the code for the <a href="https://github.com/karpathy/nanochat/blob/5fd0b138860a76beb60cf099fa46f74191b50941/scripts/chat_web.py">web server</a>, which is fronted by this pleasantly succinct vanilla JavaScript <a href="https://github.com/karpathy/nanochat/blob/5fd0b138860a76beb60cf099fa46f74191b50941/nanochat/ui.html">HTML+JavaScript frontend</a>.</p>
-        <p><strong>Update</strong>: Sam Dobson pushed a build of the model to <a href="https://huggingface.co/sdobson/nanochat">sdobson/nanochat</a> on Hugging Face. It's designed to run on CUDA but I pointed Claude Code at a checkout and had it hack around until it figured out how to run it on CPU on macOS, which eventually resulted in <a href="https://gist.github.com/simonw/912623bf00d6c13cc0211508969a100a">this script</a> which I've published as a Gist. You should be able to try out the model using uv like this:</p>
-        <pre><code>cd /tmp
-        git clone https://huggingface.co/sdobson/nanochat
-        uv run https://gist.githubusercontent.com/simonw/912623bf00d6c13cc0211508969a100a/raw/80f79c6a6f1e1b5d4485368ef3ddafa5ce853131/generate_cpu.py \
-        --model-dir /tmp/nanochat \
-        --prompt "Tell me about dogs."
-        </code></pre>
-        <p>I got this (truncated because it ran out of tokens):</p>
-        <blockquote>
-        <p>I'm delighted to share my passion for dogs with you. As a veterinary doctor, I've had the privilege of helping many pet owners care for their furry friends. There's something special about training, about being a part of their lives, and about seeing their faces light up when they see their favorite treats or toys.</p>
-        <p>I've had the chance to work with over 1,000 dogs, and I must say, it's a rewarding experience. The bond between owner and pet</p>
-        </blockquote>
-        
-            <p><small></small>Via <a href="https://twitter.com/karpathy/status/1977755427569111362">@karpathy</a></small></p>
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/rust">rust</a>, <a href="https://simonwillison.net/tags/pytorch">pytorch</a>, <a href="https://simonwillison.net/tags/andrej-karpathy">andrej-karpathy</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/training-data">training-data</a>, <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/gpus">gpus</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a></p>]]>
-      </description>
-      <source:markdown>**[nanochat](https://github.com/karpathy/nanochat)**
-
-Really interesting new project from Andrej Karpathy, described at length [in this discussion post](https://github.com/karpathy/nanochat/discussions/1).
-
-It provides a full ChatGPT-style LLM, including training, inference and a web Ui, that can be trained for as little as $100:
-
-&#62; This repo is a full-stack implementation of an LLM like ChatGPT in a single, clean, minimal, hackable, dependency-lite codebase.
-
-It&#39;s around 8,000 lines of code, mostly Python (using PyTorch) plus a little bit of Rust for [training the tokenizer](https://github.com/karpathy/nanochat/tree/master/rustbpe).
-
-Andrej suggests renting a 8XH100 NVIDA node for around $24/ hour to train the model. 4 hours (~$100) is enough to get a model that can hold a conversation - [almost coherent example here](https://twitter.com/karpathy/status/1977755430093980034). Run it for 12 hours and you get something that slightly outperforms GPT-2. I&#39;m looking forward to hearing results from longer training runs!
-
-The resulting model is ~561M parameters, so it should run on almost anything. I&#39;ve run a 4B model on my iPhone, 561M should easily fit on even an inexpensive Raspberry Pi.
-
-The model defaults to training on ~24GB from [karpathy/fineweb-edu-100b-shuffle](https://huggingface.co/datasets/karpathy/fineweb-edu-100b-shuffle) derived from [FineWeb-Edu](https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu), and then [midtrains](https://github.com/karpathy/nanochat/blob/5fd0b138860a76beb60cf099fa46f74191b50941/scripts/mid_train.py) on 568K examples from [SmolTalk](https://huggingface.co/datasets/HuggingFaceTB/smol-smoltalk) (460K), [MMLU auxiliary train](https://huggingface.co/datasets/cais/mmlu) (100K), and [GSM8K](https://huggingface.co/datasets/openai/gsm8k) (8K), followed by [supervised finetuning](https://github.com/karpathy/nanochat/blob/5fd0b138860a76beb60cf099fa46f74191b50941/scripts/chat_sft.py) on 21.4K examples from [ARC-Easy](https://huggingface.co/datasets/allenai/ai2_arc#arc-easy-1) (2.3K), [ARC-Challenge](https://huggingface.co/datasets/allenai/ai2_arc#arc-challenge) (1.1K), [GSM8K](https://huggingface.co/datasets/openai/gsm8k) (8K), and [SmolTalk](https://huggingface.co/datasets/HuggingFaceTB/smol-smoltalk) (10K).
-
-Here&#39;s the code for the [web server](https://github.com/karpathy/nanochat/blob/5fd0b138860a76beb60cf099fa46f74191b50941/scripts/chat_web.py), which is fronted by this pleasantly succinct vanilla JavaScript [HTML+JavaScript frontend](https://github.com/karpathy/nanochat/blob/5fd0b138860a76beb60cf099fa46f74191b50941/nanochat/ui.html).
-
-**Update**: Sam Dobson pushed a build of the model to [sdobson/nanochat](https://huggingface.co/sdobson/nanochat) on Hugging Face. It&#39;s designed to run on CUDA but I pointed Claude Code at a checkout and had it hack around until it figured out how to run it on CPU on macOS, which eventually resulted in [this script](https://gist.github.com/simonw/912623bf00d6c13cc0211508969a100a) which I&#39;ve published as a Gist. You should be able to try out the model using uv like this:
-
-```
-cd /tmp
-git clone https://huggingface.co/sdobson/nanochat
-uv run https://gist.githubusercontent.com/simonw/912623bf00d6c13cc0211508969a100a/raw/80f79c6a6f1e1b5d4485368ef3ddafa5ce853131/generate_cpu.py \
---model-dir /tmp/nanochat \
---prompt &#34;Tell me about dogs.&#34;
-
-```
-
-I got this (truncated because it ran out of tokens):
-
-&#62; I&#39;m delighted to share my passion for dogs with you. As a veterinary doctor, I&#39;ve had the privilege of helping many pet owners care for their furry friends. There&#39;s something special about training, about being a part of their lives, and about seeing their faces light up when they see their favorite treats or toys.
-&#62;
-&#62; I&#39;ve had the chance to work with over 1,000 dogs, and I must say, it&#39;s a rewarding experience. The bond between owner and pet
-
-Via [@karpathy](https://twitter.com/karpathy/status/1977755427569111362)
-
-Tags: [python](https://simonwillison.net/tags/python), [ai](https://simonwillison.net/tags/ai), [rust](https://simonwillison.net/tags/rust), [pytorch](https://simonwillison.net/tags/pytorch), [andrej-karpathy](https://simonwillison.net/tags/andrej-karpathy), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [training-data](https://simonwillison.net/tags/training-data), [uv](https://simonwillison.net/tags/uv), [gpus](https://simonwillison.net/tags/gpus), [claude-code](https://simonwillison.net/tags/claude-code)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/13/nanochat/#atom-everything</guid>
-    </item>    <item>
-      <title>Recent camping and travel discoveries</title>
-      <link>https://a.wholelottanothing.org/recent-camping-and-travel-reviews/</link>
-      <description>
-        <![CDATA[<p>Let&apos;s be real: camping can be uncomfortable and unpleasant, which is why a lot of people don&apos;t do it. Sometimes, it even sucks, especially when it rains unexpectedly, so anything I find that takes the edge off of &quot;roughing it&quot; is welcome to me.</p>]]>
-      </description>
-      <source:markdown>Let&#39;s be real: camping can be uncomfortable and unpleasant, which is why a lot of people don&#39;t do it. Sometimes, it even sucks, especially when it rains unexpectedly, so anything I find that takes the edge off of &#34;roughing it&#34; is welcome to me.</source:markdown>
-      <guid>cid://68ed4b822f2e4d0001bb6054</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m33z6m3kik2o</link>
-      <description>
-        <![CDATA[Thread to read. 👇
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <source:markdown>Thread to read. 👇
-
-\[contains quote post or other embedded content\]</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m33z6m3kik2o</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m33z3y4vtk2o</link>
-      <description>
-        <![CDATA[Made me smile.
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <source:markdown>Made me smile.
-
-\[contains quote post or other embedded content\]</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m33z3y4vtk2o</guid>
-    </item>    <item>
-      <title>Parking Signs</title>
-      <link>https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/</link>
-      <description>
-        <![CDATA[<p>If you want to print out a poster for <a href="https://www.nokings.org">October 18th</a>, here are two; fully-guaranteed countrywide but maybe especially suitable for in and around New York.</p>
-        <figure>
-        <div style="display: flex; gap: 1rem;">
-        <div style="height: 375px; width: 250px;">
-        <p><img alt="" height="7275" id="h-rh-i-0" src="https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/no-king.jpg" width="4875"></p>
-        </div>
-        <div style="height: 375px; width: 250px;">
-        <p><img alt="" height="7200" id="h-rh-i-1" src="https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/two-term.jpg" width="4800"></p>
-        </div>
-        </div>
-        <figcaption><h4>Two signs to display</h4>
-        </figure>
-        <p>Here&rsquo;s a direct link to the <a href="no-king.jpg">No King Anytime</a> JPG and the <a href="two-term.jpg">Two Term Limit</a> JPG.  These are available as PDFs, as well (vector outlines; no worries about fonts): here&rsquo;s the <a href="no-king.pdf">No King Anytime</a> PDF and the <a href="two-term.pdf">Two Term Limit</a> PDF. Put them onna stick and exercise the constitutional rights to freedom of expression, speech, and assembly enjoyed by <a href="https://kieranhealy.org/blog/archives/2025/06/28/american/">everyone in the United States</a>.</p>]]>
-      </description>
-      <source:markdown>If you want to print out a poster for [October 18th](https://www.nokings.org), here are two; fully-guaranteed countrywide but maybe especially suitable for in and around New York.
-
-![](https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/no-king.jpg)
-
-![](https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/two-term.jpg)
-
-#### Two signs to display
-
-Here’s a direct link to the [No King Anytime](no-king.jpg) JPG and the [Two Term Limit](two-term.jpg) JPG. These are available as PDFs, as well (vector outlines; no worries about fonts): here’s the [No King Anytime](no-king.pdf) PDF and the [Two Term Limit](two-term.pdf) PDF. Put them onna stick and exercise the constitutional rights to freedom of expression, speech, and assembly enjoyed by [everyone in the United States](https://kieranhealy.org/blog/archives/2025/06/28/american/).</source:markdown>
-      <guid>cid://https://kieranhealy.org/blog/archives/2025/10/13/parking-signs/</guid>
-    </item>    <item>
-      <title>Code is Power!</title>
-      <link>https://puri.sm/posts/code-is-power/</link>
-      <description>
-        <![CDATA[<p>From Code to Control: How Big Tech Claims Ownership of the User</p>
-        <p>September 2025 has been a brutal reminder of a truth we at Purism have been voicing for years: code is power. And when that code is closed, opaque, or controlled by Big Tech vendors who prioritize convenience or monetization over user rights, the end-user becomes the product, not the principal.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/code-is-power/">Code is Power!</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>From Code to Control: How Big Tech Claims Ownership of the User
-
-September 2025 has been a brutal reminder of a truth we at Purism have been voicing for years: code is power. And when that code is closed, opaque, or controlled by Big Tech vendors who prioritize convenience or monetization over user rights, the end-user becomes the product, not the principal.
-
-The post [Code is Power!](https://puri.sm/posts/code-is-power/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=84698</guid>
-    </item>    <item>
-      <title>October 12, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/october-12-2025-582</link>
-      <enclosure url="https://api.substack.com/feed/podcast/176073631/247a54b817c8eb87bb4b07264264f312.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/october-12-2025-582</guid>
-    </item>    <item>
-      <title>Los años de Fierro: el cine como acto de memoria</title>
-      <link>https://www.palomitademaiz.net/resenas-los-anos-de-fierro/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-los-anos-de-fierro</link>
-      <description>
-        <![CDATA[<p>Dirección: Santiago Esteinou. Guion: Santiago Esteinou. Países: México, Alemania, Canadá, Estados Unidos. Más información de la película: https://www.imdb.com/title/tt3689012/ En un mundo que se mueve tan rápido que apenas alcanza para mirar al de al lado, el cine sigue siendo el refugio de las historias incómodas, dolorosas y necesarias. Los años de Fierro es justo eso: [&#8230;]</p>
-        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-los-anos-de-fierro/">Los años de Fierro: el cine como acto de memoria</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
-      </description>
-      <source:markdown>Dirección: Santiago Esteinou. Guion: Santiago Esteinou. Países: México, Alemania, Canadá, Estados Unidos. Más información de la película: https://www.imdb.com/title/tt3689012/ En un mundo que se mueve tan rápido que apenas alcanza para mirar al de al lado, el cine sigue siendo el refugio de las historias incómodas, dolorosas y necesarias. Los años de Fierro es justo eso: \[…\]
-
-La entrada [Los años de Fierro: el cine como acto de memoria](https://www.palomitademaiz.net/resenas-los-anos-de-fierro/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
-      <guid>cid://https://www.palomitademaiz.net/?p=25637</guid>
-    </item>    <item>
-      <title>The Hyped Distro</title>
-      <link>https://feed.tedium.co/link/15204/17184916/omarchy-linux-distro-commentary</link>
-      <description>
-        <![CDATA[A guy stuck in a cabin with weak internet decides to try out Omarchy and learns some stuff along the way. Will the learning curve turn you off, or the inherent ethical issues?]]>
-      </description>
-      <source:markdown>A guy stuck in a cabin with weak internet decides to try out Omarchy and learns some stuff along the way. Will the learning curve turn you off, or the inherent ethical issues?</source:markdown>
-      <guid>cid://https://tedium.co/2025/10/13/omarchy-linux-distro-commentary/</guid>
-    </item>    <item>
-      <title>Rewiring Democracy is Coming Soon</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/rewiring-democracy-is-coming-soon.html</link>
-      <description>
-        <![CDATA[<p>My latest book, <i>Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship</i>, will be published in just over a week. No reviews yet, but you can read chapters <a href="https://pghrev.com/being-a-politician/">12</a> and <a href="https://newpublic.substack.com/p/2ddffc17-a033-4f98-83fa-11376b30c6cd">34</a> (of <a href="https://www.schneier.com/books/table-of-contents/">43 chapters</a> total).</p>
-        <p>You can order the book pretty much everywhere, and a copy signed by me <a href="https://www.schneier.com/product/rewiring-democracy-hardcover/">here</a>.</p>
-        <p>Please help spread the word. I want this book to make a splash when it&#8217;s public. Leave a review on whatever site you buy it from. Or make a TikTok video. Or do whatever you kids do these days. Is anyone a Slashdot contributor? I&#8217;d like the book to be announced there...</p>]]>
-      </description>
-      <source:markdown>My latest book, _Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship_, will be published in just over a week. No reviews yet, but you can read chapters [12](https://pghrev.com/being-a-politician/) and [34](https://newpublic.substack.com/p/2ddffc17-a033-4f98-83fa-11376b30c6cd) (of [43 chapters](https://www.schneier.com/books/table-of-contents/) total).
-
-You can order the book pretty much everywhere, and a copy signed by me [here](https://www.schneier.com/product/rewiring-democracy-hardcover/).
-
-Please help spread the word. I want this book to make a splash when it’s public. Leave a review on whatever site you buy it from. Or make a TikTok video. Or do whatever you kids do these days. Is anyone a Slashdot contributor? I’d like the book to be announced there...</source:markdown>
-      <guid>cid://https://www.schneier.com/?p=70952</guid>
-    </item>    <item>
-      <title>Apple Renames ‘Apple TV+’ to ‘Apple TV’</title>
-      <link>https://www.apple.com/tv-pr/news/2025/10/apple-original-films-blockbuster-feature-f1-the-movie-from-joseph-kosinski-to-make-global-streaming-debut-on-friday-december-12-2025/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42265</guid>
-    </item>    <item>
-      <title>Sentimental Value (MONFIC 2025): maldito (y necesario) afecto</title>
-      <link>https://www.palomitademaiz.net/resenas-sentimental-value-monfic-2025/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-sentimental-value-monfic-2025</link>
-      <description>
-        <![CDATA[<p>Dirección: Joachim Trier. Guion: Joachim Trier, Eskil Vogt. Elenco: Renate Reinsve, Stellan Skarsgård, Inga Ibsdotter Lilleaas, Elle Fanning. País: Noruega. Más información de la película: https://www.imdb.com//title/tt27714581/ “Alguien me ha dicho que la soledad se esconde tras tus ojos.” Trátame Suavemente de Soda Stereo (1984) Anton Chekhov, el famoso dramaturgo ruso, escribía sus obras desde un [&#8230;]</p>
-        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-sentimental-value-monfic-2025/">Sentimental Value (MONFIC 2025): maldito (y necesario) afecto</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
-      </description>
-      <source:markdown>Dirección: Joachim Trier. Guion: Joachim Trier, Eskil Vogt. Elenco: Renate Reinsve, Stellan Skarsgård, Inga Ibsdotter Lilleaas, Elle Fanning. País: Noruega. Más información de la película: https://www.imdb.com//title/tt27714581/ “Alguien me ha dicho que la soledad se esconde tras tus ojos.” Trátame Suavemente de Soda Stereo (1984) Anton Chekhov, el famoso dramaturgo ruso, escribía sus obras desde un \[…\]
-
-La entrada [Sentimental Value (MONFIC 2025): maldito (y necesario) afecto](https://www.palomitademaiz.net/resenas-sentimental-value-monfic-2025/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
-      <guid>cid://https://www.palomitademaiz.net/?p=25635</guid>
-    </item>    <item>
-      <link>https://electrek.co/2025/10/13/toyotas-best-selling-car-electric/</link>
-      <description>
-        <![CDATA[<p>Toyota's best-selling car may finally go electric.</p>]]>
-      </description>
-      <source:markdown>Toyota&#39;s best-selling car may finally go electric.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/13/1513/</guid>
-    </item>    <item>
-      <title>The web crashes</title>
-      <link>http://scripting.com/2025/10/13/153514.html?title=theWebCrashes</link>
-      <description>
-        <![CDATA[<p>Let's remember how the web could have worked.</p>
-        <p>The ideal is to write in our blog space, and publish everywhere.</p>
-        <p>That's what we have been trying to do since Twitter came along. </p>
-        <p>Write on your main blog, cross-post everywhere it belongs. </p>
-        <p>This could have worked, and it still can. </p>
-        <p>But it can't work until we get agreement on what text is. This will be much-discussed at <a href="https://canada.wordcamp.org/2025/">WordCamp Canada</a> this week, based on what <a href="https://wordpress.com/plugins/activitypub">WordPress is doing</a> and what <a href="https://en.wikipedia.org/wiki/Evan_Prodromou">Evan Prodromou</a> will speak about and of course what I am speaking about.</p>
-        <p>Getting back on track is as simple as agreeing what text is on the web. For that we have two very good models: HTML and Markdown.  </p>
-        <p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/10/13/theWebCrashes.png"></center>Here's my slide.</div></p>]]>
-      </description>
-      <source:markdown>Let&#39;s remember how the web could have worked.
-
-The ideal is to write in our blog space, and publish everywhere.
-
-That&#39;s what we have been trying to do since Twitter came along.
-
-Write on your main blog, cross-post everywhere it belongs.
-
-This could have worked, and it still can.
-
-But it can&#39;t work until we get agreement on what text is. This will be much-discussed at [WordCamp Canada](https://canada.wordcamp.org/2025/) this week, based on what [WordPress is doing](https://wordpress.com/plugins/activitypub) and what [Evan Prodromou](https://en.wikipedia.org/wiki/Evan_Prodromou) will speak about and of course what I am speaking about.
-
-Getting back on track is as simple as agreeing what text is on the web. For that we have two very good models: HTML and Markdown.
-
-![](https://imgs.scripting.com/2025/10/13/theWebCrashes.png)Here&#39;s my slide.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/13/153514.html</guid>
-    </item>    <item>
-      <title>The killer feature of Web Components</title>
-      <link>https://daverupert.com/2025/10/custom-elements-manifest-killer-feature/</link>
-      <description>
-        <![CDATA[<img src="https://cdn.daverupert.com/posts/2025/cem.png" alt="A left right flow chart starting at Add JSDoc pointing to CEM analyze then branching off into 8 different directions: API documentation, Storybook, Language Server, Linter, React Wrappers, More Wrappers, Jest Mocks, JSX Types, Figma Code Connect, and MCP Server" width="784" height="430">
-        <p>One unsung feature in the web components space that I don’t think gets enough attention is the <a href="https://github.com/webcomponents/custom-elements-manifest">Custom Elements Manifest</a> initiative. I think it’s the killer feature of web components.</p>
-        <p>Known as “CEM” to its friends, a CEM is a community standard JSON format that surfaces information about your component APIs. <a href="https://custom-elements-manifest.open-wc.org/analyzer/getting-started/">The analyzer</a> scans your class-based component to build up a “manifest” of all the methods, events, slots, parts, tag name, and CSS variables you want to expose. It works on a single component or an entire system’s worth of components. If you want to surface more details to consumers (like accepted attributes or CSS custom properties), you can provide more context to the analyzer through JSDoc comments and/or TypeScript types – which is good code hygiene and a favor for your future self anyhow. Here’s an example from <a href="https://custom-elements-manifest.netlify.app/">the playground</a>:</p>
-        <div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="js"><span class="cm">/**
-         * @attr {boolean} disabled - disables the element
-         * @attribute {string} foo - description for foo
-         *
-         * @csspart bar - Styles the color of bar
-         *
-         * @slot - This is a default/unnamed slot
-         * @slot container - You can put some elements here
-         *
-         * @cssprop --text-color - Controls the color of foo
-         * @cssproperty [--background-color=red] - Controls the color of bar
-         *
-         * @prop {boolean} prop1 - some description
-         * @property {number} prop2 - some description
-         *
-         * @fires custom-event - some description for custom-event
-         * @fires {Event} typed-event - some description for typed-event
-         * @event {CustomEvent} typed-custom-event - some description for typed-custom-event
-         *
-         * @summary This is MyElement
-         *
-         * @tag my-element
-         * @tagname my-element
-         */</span>
-        <span class="kd">class</span> <span class="nc">MyElement</span> <span class="kd">extends</span> <span class="nc">HTMLElement</span> <span class="p">{}</span>
-        </code></pre></div></div>
-        <p>The JSDoc notation is forgiving (it supports both <code>@cssprop</code> and <code>@cssproperty</code>) and with the ability to document your <code>::part()</code> and <code>&lt;slot&gt;</code> APIs, it’s more descriptive than what you’d get with a basic TypeScript interface. Eagle-eyed observers will notice there’s a distinction made between an <code>@attribute</code> and an <code>@property</code>, that’s because those are different concepts in HTML, <em>ergo</em> different in Custom Elements. Attributes (strings, numbers, booleans) tend to reflect, properties don’t.</p>
-        <p>After that thin layer of documentation, it’s a two-liner to generate the manifest:</p>
-        <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>npm i -D @custom-elements-manifest/analyzer
-        cem analyze
-        </code></pre></div></div>
-        <p>This will generate a file called <code>custom-elements.json</code> in your package directory.</p>
-        <details style="font-family: monospace; font-size: 0.875rem;">
-          <summary>View Sample Output</summary>
-        <div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="json"><span class="p">{</span><span class="w">
-            </span><span class="nl">"schemaVersion"</span><span class="p">:</span><span class="w"> </span><span class="s2">"1.0.0"</span><span class="p">,</span><span class="w">
-            </span><span class="nl">"readme"</span><span class="p">:</span><span class="w"> </span><span class="s2">""</span><span class="p">,</span><span class="w">
-            </span><span class="nl">"modules"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
-                </span><span class="p">{</span><span class="w">
-                    </span><span class="nl">"kind"</span><span class="p">:</span><span class="w"> </span><span class="s2">"javascript-module"</span><span class="p">,</span><span class="w">
-                    </span><span class="nl">"path"</span><span class="p">:</span><span class="w"> </span><span class="s2">"src/my-element.js"</span><span class="p">,</span><span class="w">
-                    </span><span class="nl">"declarations"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
-                        </span><span class="p">{</span><span class="w">
-                            </span><span class="nl">"kind"</span><span class="p">:</span><span class="w"> </span><span class="s2">"class"</span><span class="p">,</span><span class="w">
-                            </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">""</span><span class="p">,</span><span class="w">
-                            </span><span class="nl">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"MyElement"</span><span class="p">,</span><span class="w">
-                            </span><span class="nl">"cssProperties"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
-                                </span><span class="p">{</span><span class="w">
-                                    </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Controls the color of foo"</span><span class="p">,</span><span class="w">
-                                    </span><span class="nl">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"--text-color"</span><span class="w">
-                                </span><span class="p">},</span><span class="w">
-                                </span><span class="p">{</span><span class="w">
-                                    </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Controls the color of bar"</span><span class="p">,</span><span class="w">
-                                    </span><span class="nl">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"--background-color"</span><span class="p">,</span><span class="w">
-                                    </span><span class="nl">"default"</span><span class="p">:</span><span class="w"> </span><span class="s2">"red"</span><span class="w">
-                                </span><span class="p">}</span><span class="w">
-                            </span><span class="p">],</span><span class="w">
-                            </span><span class="nl">"cssParts"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
-                                </span><span class="p">{</span><span class="w">
-                                    </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Styles the color of bar"</span><span class="p">,</span><span class="w">
-                                    </span><span class="nl">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"bar"</span><span class="w">
-                                </span><span class="p">}</span><span class="w">
-                            </span><span class="p">],</span><span class="w">
-                            </span><span class="nl">"slots"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
-                                </span><span class="p">{</span><span class="w">
-                                    </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"This is a default/unnamed slot"</span><span class="p">,</span><span class="w">
-                                    </span><span class="nl">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">""</span><span class="w">
-                                </span><span class="p">},</span><span class="w">
-                                </span><span class="p">{</span><span class="w">
-                                    </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"You can put some elements here"</span><span class="p">,</span><span class="w">
-                                    </span><span class="nl">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"container"</span><span class="w">
-                                </span><span class="p">}</span><span class="w">
-                            </span><span class="p">],</span><span class="w">
-                            </span><span class="nl">"members"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
-                                </span><span class="p">{</span><span class="w">
-                                    </span><span class="nl">"kind"</span><span class="p">:</span><span class="w"> </span><span class="s2">"field"</span><span class="p">,</span><span class="w">
-                                    </span><span class="nl">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"disabled"</span><span class="w">
-                                </span><span class="p">},</span><span class="w">
-                                </span><span class="p">{</span><span class="w">
-                                    </span><span class="nl">"kind"</span><span class="p">:</span><span class="w"> </span><span class="s2">"method"</span><span class="p">,</span><span class="w">
-                                    </span><span class="nl">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"fire"</span><span class="w">
-                                </span><span class="p">},</span><span class="w">
-                                </span><span class="p">{</span><span class="w">
-                                    </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
-                                        </span><span class="nl">"text"</span><span class="p">:</span><span class="w"> </span><span class="s2">"boolean"</span><span class="w">
-                                    </span><span class="p">},</span><span class="w">
-                                    </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"some description"</span><span class="p">,</span><span class="w">
-                                    </span><span class="nl">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"prop1"</span><span class="p">,</span><span class="w">
-                                    </span><span class="nl">"kind"</span><span class="p">:</span><span class="w"> </span><span class="s2">"field"</span><span class="w">
-                                </span><span class="p">},</span><span class="w">
-                                </span><span class="p">{</span><span class="w">
-                                    </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
-                                        </span><span class="nl">"text"</span><span class="p">:</span><span class="w"> </span><span class="s2">"number"</span><span class="w">
-                                    </span><span class="p">},</span><span class="w">
-                                    </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"some description"</span><span class="p">,</span><span class="w">
-                                    </span><span class="nl">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"prop2"</span><span class="p">,</span><span class="w">
-                                    </span><span class="nl">"kind"</span><span class="p">:</span><span class="w"> </span><span class="s2">"field"</span><span class="w">
-                                </span><span class="p">}</span><span class="w">
-                            </span><span class="p">],</span><span class="w">
-                            </span><span class="nl">"events"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
-                                </span><span class="p">{</span><span class="w">
-                                    </span><span class="nl">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"disabled-changed"</span><span class="p">,</span><span class="w">
-                                    </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
-                                        </span><span class="nl">"text"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Event"</span><span class="w">
-                                    </span><span class="p">}</span><span class="w">
-                                </span><span class="p">},</span><span class="w">
-                                </span><span class="p">{</span><span class="w">
-                                    </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"some description for custom-event"</span><span class="p">,</span><span class="w">
-                                    </span><span class="nl">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"custom-event"</span><span class="w">
-                                </span><span class="p">},</span><span class="w">
-                                </span><span class="p">{</span><span class="w">
-                                    </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
-                                        </span><span class="nl">"text"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Event"</span><span class="w">
-                                    </span><span class="p">},</span><span class="w">
-                                    </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"some description for typed-event"</span><span class="p">,</span><span class="w">
-                                    </span><span class="nl">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"typed-event"</span><span class="w">
-                                </span><span class="p">},</span><span class="w">
-                                </span><span class="p">{</span><span class="w">
-                                    </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
-                                        </span><span class="nl">"text"</span><span class="p">:</span><span class="w"> </span><span class="s2">"CustomEvent"</span><span class="w">
-                                    </span><span class="p">},</span><span class="w">
-                                    </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"some description for typed-custom-event"</span><span class="p">,</span><span class="w">
-                                    </span><span class="nl">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"typed-custom-event"</span><span class="w">
-                                </span><span class="p">}</span><span class="w">
-                            </span><span class="p">],</span><span class="w">
-                            </span><span class="nl">"attributes"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
-                                </span><span class="p">{</span><span class="w">
-                                    </span><span class="nl">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"disabled"</span><span class="p">,</span><span class="w">
-                                    </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
-                                        </span><span class="nl">"text"</span><span class="p">:</span><span class="w"> </span><span class="s2">"boolean"</span><span class="w">
-                                    </span><span class="p">},</span><span class="w">
-                                    </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"disables the element"</span><span class="w">
-                                </span><span class="p">},</span><span class="w">
-                                </span><span class="p">{</span><span class="w">
-                                    </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
-                                        </span><span class="nl">"text"</span><span class="p">:</span><span class="w"> </span><span class="s2">"string"</span><span class="w">
-                                    </span><span class="p">},</span><span class="w">
-                                    </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"description for foo"</span><span class="p">,</span><span class="w">
-                                    </span><span class="nl">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"foo"</span><span class="w">
-                                </span><span class="p">}</span><span class="w">
-                            </span><span class="p">],</span><span class="w">
-                            </span><span class="nl">"superclass"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
-                                </span><span class="nl">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"HTMLElement"</span><span class="w">
-                            </span><span class="p">},</span><span class="w">
-                            </span><span class="nl">"tagName"</span><span class="p">:</span><span class="w"> </span><span class="s2">"my-element"</span><span class="p">,</span><span class="w">
-                            </span><span class="nl">"customElement"</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span><span class="w">
-                            </span><span class="nl">"summary"</span><span class="p">:</span><span class="w"> </span><span class="s2">"This is MyElement"</span><span class="w">
-                        </span><span class="p">}</span><span class="w">
-                    </span><span class="p">],</span><span class="w">
-                    </span><span class="nl">"exports"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
-                        </span><span class="p">{</span><span class="w">
-                            </span><span class="nl">"kind"</span><span class="p">:</span><span class="w"> </span><span class="s2">"custom-element-definition"</span><span class="p">,</span><span class="w">
-                            </span><span class="nl">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"my-element"</span><span class="p">,</span><span class="w">
-                            </span><span class="nl">"declaration"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
-                                </span><span class="nl">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"MyElement"</span><span class="p">,</span><span class="w">
-                                </span><span class="nl">"module"</span><span class="p">:</span><span class="w"> </span><span class="s2">"src/my-element.js"</span><span class="w">
-                            </span><span class="p">}</span><span class="w">
-                        </span><span class="p">}</span><span class="w">
-                    </span><span class="p">]</span><span class="w">
-                </span><span class="p">}</span><span class="w">
-            </span><span class="p">]</span><span class="w">
-        </span><span class="p">}</span><span class="w">
-        </span></code></pre></div></div>
-        </details>
-        <p>API extraction through TypeScript or JSDoc isn’t a novel concept, but what I find novel is the community tooling built around it. With a Custom Element Manifest, <a href="https://custom-elements-manifest.open-wc.org/analyzer/plugins/intro/">community plugins</a> can use that information to generate files, populate dropdowns, <mark style="background: transparent; color: inherit; text-decoration: var(--accent, red) underline wavy; text-decoration-skip-ink: none; text-underline-offset: 4px;">add red squiggles</mark>, provide autocomplete, and automate a lot of the mundane meta-system DX work that comes with supporting a component library:</p>
-        <ul>
-        <li><a href="https://www.npmjs.com/package/@custom-elements-manifest/to-markdown">API Documentation</a> - Your CEM can power your readme.md and component-level documentation.</li>
-        <li><a href="https://wc-toolkit.com/integrations/storybook/">Storybook</a> - Using the Storybook plugin you can use your CEM to automate the generation of your Storybook stories.</li>
-        <li><a href="https://marketplace.visualstudio.com/items?itemName=wc-toolkit.web-components-language-server">Language Servers</a> - It can be frustrating to not have your editor recognize the HTML you invented. CEM-powered language servers solve that issue. A <a href="https://marketplace.visualstudio.com/items?itemName=pwrs.cem-language-server-vscode">few</a> <a href="https://marketplace.visualstudio.com/items?itemName=Matsuuu.custom-elements-language-server-project">options</a> <a href="https://marketplace.visualstudio.com/items?itemName=wc-toolkit.web-components-language-server">here</a>.</li>
-        <li><a href="https://wc-toolkit.com/integrations/wctools/">Linter</a> - Want to lint HTML before shipping? CEM can power this.</li>
-        <li><a href="https://www.npmjs.com/package/custom-element-react-wrappers">React Wrappers</a> - React 19 supports web components, but if you’re trying to use web components in a React &lt;= 18 project, you’ll need little wrapper shims. Creating these by hand isn’t fun and we can hand this work off to the CEM.</li>
-        <li>Other Framework Wrappers - Shims for <a href="https://www.npmjs.com/package/custom-element-solidjs-integration">SolidJS</a>, <a href="https://www.npmjs.com/package/custom-element-svelte-integration">Svelte</a>, and <a href="https://www.npmjs.com/package/custom-element-vuejs-integration">Vue.js</a>.</li>
-        <li><a href="https://www.npmjs.com/package/custom-element-jsx-integration">JSX Types</a> - JSX isn’t happy unless you add new interfaces to the JSX namespace. CEM can generate this for you.</li>
-        <li>Jest Mocks - If you’re still using Jest in <span style="font-variant-caps: small-caps;">the year of our lord 2025</span>, I feel bad for you but there are plenty of people in this situation. Jest hates Custom Elements because Custom Elements are real DOM and not VDOM. No plugin to link to (sorry!) but I have seen teams using CEM to generate Jest mocks to smooth over the process when integrating with legacy testing solutions.</li>
-        <li><a href="https://jamesiv.es/blog/frontend/javascript/2025/09/21/custom-elements-manifest-and-figma-code-connect">Figma Code Connect</a> - If you want to connect your web components to Figma, you can automate that as well.</li>
-        <li><a href="https://bennypowers.dev/cem/docs/mcp/">MCP Server</a> - If you want to give your AI Agents insights into the components available in the current project, you can install an MCP Server that parses your CEM. (<a href="https://marketplace.visualstudio.com/items?itemName=d13.vscode-web-components-ai">Couple</a> <a href="https://bennypowers.dev/cem/docs/mcp/">options</a> here)</li>
-        </ul>
-        <p><a href="https://github.com/break-stuff">Burton Smith</a> who runs <a href="https://wc-toolkit.com/">WC Toolkit</a> has been helping us roll out some of our CEM work and we’re starting to turn some of these capabilities on. One pain point I’m hoping to solve is too much boilerplate. We have a lot of files in our individual component packages to power assorted tasks and integrations and I can see a world where we generate nearly all our readmes, storybooks, and even some low-level test coverage from the CEM at build-time or run-time.</p>
-        <p>From a single file we get the following outcomes…</p>
-        <ul>
-        <li>Spend less time/energy maintaining and schlepping boilerplate code</li>
-        <li>Improve baseline test coverage and make it more predictable</li>
-        <li>Make new components easier to create, ideally speeding up development</li>
-        <li>Reduce cognitive overhead when jumping into the project</li>
-        <li>Provide a forcing function for more/better documentation</li>
-        <li>Potentially improve the design-developer bridge through Figma Code Connect and MCPs</li>
-        </ul>
-        <p>Again, I want to applaud the web components community here. There’s no VC-funded corporate overlord roadmap driving the Custom Elements Manifest initiative, just fellow enthusiasts. From a community perspective, that’s a positive signal for me. Adding it to your project is low-effort, high-impact type work and I probably only covered about a quarter of what a CEM can do for you, which goes to show a community agreeing on a standardized way to describe components is a powerful tool.</p>]]>
-      </description>
-      <source:markdown>![A left right flow chart starting at Add JSDoc pointing to CEM analyze then branching off into 8 different directions: API documentation, Storybook, Language Server, Linter, React Wrappers, More Wrappers, Jest Mocks, JSX Types, Figma Code Connect, and MCP Server](https://cdn.daverupert.com/posts/2025/cem.png)
-
-One unsung feature in the web components space that I don’t think gets enough attention is the [Custom Elements Manifest](https://github.com/webcomponents/custom-elements-manifest) initiative. I think it’s the killer feature of web components.
-
-Known as “CEM” to its friends, a CEM is a community standard JSON format that surfaces information about your component APIs. [The analyzer](https://custom-elements-manifest.open-wc.org/analyzer/getting-started/) scans your class-based component to build up a “manifest” of all the methods, events, slots, parts, tag name, and CSS variables you want to expose. It works on a single component or an entire system’s worth of components. If you want to surface more details to consumers (like accepted attributes or CSS custom properties), you can provide more context to the analyzer through JSDoc comments and/or TypeScript types – which is good code hygiene and a favor for your future self anyhow. Here’s an example from [the playground](https://custom-elements-manifest.netlify.app/):
-
-```
-/**
- * @attr {boolean} disabled - disables the element
- * @attribute {string} foo - description for foo
- *
- * @csspart bar - Styles the color of bar
- *
- * @slot - This is a default/unnamed slot
- * @slot container - You can put some elements here
- *
- * @cssprop --text-color - Controls the color of foo
- * @cssproperty [--background-color=red] - Controls the color of bar
- *
- * @prop {boolean} prop1 - some description
- * @property {number} prop2 - some description
- *
- * @fires custom-event - some description for custom-event
- * @fires {Event} typed-event - some description for typed-event
- * @event {CustomEvent} typed-custom-event - some description for typed-custom-event
- *
- * @summary This is MyElement
- *
- * @tag my-element
- * @tagname my-element
- */
-class MyElement extends HTMLElement {}
-
-```
-
-The JSDoc notation is forgiving (it supports both `@cssprop` and `@cssproperty`) and with the ability to document your `::part()` and `&#60;slot&#62;` APIs, it’s more descriptive than what you’d get with a basic TypeScript interface. Eagle-eyed observers will notice there’s a distinction made between an `@attribute` and an `@property`, that’s because those are different concepts in HTML, _ergo_ different in Custom Elements. Attributes (strings, numbers, booleans) tend to reflect, properties don’t.
-
-After that thin layer of documentation, it’s a two-liner to generate the manifest:
-
-```
-npm i -D @custom-elements-manifest/analyzer
-cem analyze
-
-```
-
-This will generate a file called `custom-elements.json` in your package directory.
-
-View Sample Output
-
-```
-{
-    &#34;schemaVersion&#34;: &#34;1.0.0&#34;,
-    &#34;readme&#34;: &#34;&#34;,
-    &#34;modules&#34;: [
-        {
-            &#34;kind&#34;: &#34;javascript-module&#34;,
-            &#34;path&#34;: &#34;src/my-element.js&#34;,
-            &#34;declarations&#34;: [
-                {
-                    &#34;kind&#34;: &#34;class&#34;,
-                    &#34;description&#34;: &#34;&#34;,
-                    &#34;name&#34;: &#34;MyElement&#34;,
-                    &#34;cssProperties&#34;: [
-                        {
-                            &#34;description&#34;: &#34;Controls the color of foo&#34;,
-                            &#34;name&#34;: &#34;--text-color&#34;
-                        },
-                        {
-                            &#34;description&#34;: &#34;Controls the color of bar&#34;,
-                            &#34;name&#34;: &#34;--background-color&#34;,
-                            &#34;default&#34;: &#34;red&#34;
-                        }
-                    ],
-                    &#34;cssParts&#34;: [
-                        {
-                            &#34;description&#34;: &#34;Styles the color of bar&#34;,
-                            &#34;name&#34;: &#34;bar&#34;
-                        }
-                    ],
-                    &#34;slots&#34;: [
-                        {
-                            &#34;description&#34;: &#34;This is a default/unnamed slot&#34;,
-                            &#34;name&#34;: &#34;&#34;
-                        },
-                        {
-                            &#34;description&#34;: &#34;You can put some elements here&#34;,
-                            &#34;name&#34;: &#34;container&#34;
-                        }
-                    ],
-                    &#34;members&#34;: [
-                        {
-                            &#34;kind&#34;: &#34;field&#34;,
-                            &#34;name&#34;: &#34;disabled&#34;
-                        },
-                        {
-                            &#34;kind&#34;: &#34;method&#34;,
-                            &#34;name&#34;: &#34;fire&#34;
-                        },
-                        {
-                            &#34;type&#34;: {
-                                &#34;text&#34;: &#34;boolean&#34;
-                            },
-                            &#34;description&#34;: &#34;some description&#34;,
-                            &#34;name&#34;: &#34;prop1&#34;,
-                            &#34;kind&#34;: &#34;field&#34;
-                        },
-                        {
-                            &#34;type&#34;: {
-                                &#34;text&#34;: &#34;number&#34;
-                            },
-                            &#34;description&#34;: &#34;some description&#34;,
-                            &#34;name&#34;: &#34;prop2&#34;,
-                            &#34;kind&#34;: &#34;field&#34;
-                        }
-                    ],
-                    &#34;events&#34;: [
-                        {
-                            &#34;name&#34;: &#34;disabled-changed&#34;,
-                            &#34;type&#34;: {
-                                &#34;text&#34;: &#34;Event&#34;
-                            }
-                        },
-                        {
-                            &#34;description&#34;: &#34;some description for custom-event&#34;,
-                            &#34;name&#34;: &#34;custom-event&#34;
-                        },
-                        {
-                            &#34;type&#34;: {
-                                &#34;text&#34;: &#34;Event&#34;
-                            },
-                            &#34;description&#34;: &#34;some description for typed-event&#34;,
-                            &#34;name&#34;: &#34;typed-event&#34;
-                        },
-                        {
-                            &#34;type&#34;: {
-                                &#34;text&#34;: &#34;CustomEvent&#34;
-                            },
-                            &#34;description&#34;: &#34;some description for typed-custom-event&#34;,
-                            &#34;name&#34;: &#34;typed-custom-event&#34;
-                        }
-                    ],
-                    &#34;attributes&#34;: [
-                        {
-                            &#34;name&#34;: &#34;disabled&#34;,
-                            &#34;type&#34;: {
-                                &#34;text&#34;: &#34;boolean&#34;
-                            },
-                            &#34;description&#34;: &#34;disables the element&#34;
-                        },
-                        {
-                            &#34;type&#34;: {
-                                &#34;text&#34;: &#34;string&#34;
-                            },
-                            &#34;description&#34;: &#34;description for foo&#34;,
-                            &#34;name&#34;: &#34;foo&#34;
-                        }
-                    ],
-                    &#34;superclass&#34;: {
-                        &#34;name&#34;: &#34;HTMLElement&#34;
-                    },
-                    &#34;tagName&#34;: &#34;my-element&#34;,
-                    &#34;customElement&#34;: true,
-                    &#34;summary&#34;: &#34;This is MyElement&#34;
-                }
-            ],
-            &#34;exports&#34;: [
-                {
-                    &#34;kind&#34;: &#34;custom-element-definition&#34;,
-                    &#34;name&#34;: &#34;my-element&#34;,
-                    &#34;declaration&#34;: {
-                        &#34;name&#34;: &#34;MyElement&#34;,
-                        &#34;module&#34;: &#34;src/my-element.js&#34;
-                    }
-                }
-            ]
-        }
-    ]
-}
-
-```
-
-API extraction through TypeScript or JSDoc isn’t a novel concept, but what I find novel is the community tooling built around it. With a Custom Element Manifest, [community plugins](https://custom-elements-manifest.open-wc.org/analyzer/plugins/intro/) can use that information to generate files, populate dropdowns, add red squiggles, provide autocomplete, and automate a lot of the mundane meta-system DX work that comes with supporting a component library:
-
-- [API Documentation](https://www.npmjs.com/package/@custom-elements-manifest/to-markdown) \- Your CEM can power your readme.md and component-level documentation.
-- [Storybook](https://wc-toolkit.com/integrations/storybook/) \- Using the Storybook plugin you can use your CEM to automate the generation of your Storybook stories.
-- [Language Servers](https://marketplace.visualstudio.com/items?itemName=wc-toolkit.web-components-language-server) \- It can be frustrating to not have your editor recognize the HTML you invented. CEM-powered language servers solve that issue. A [few](https://marketplace.visualstudio.com/items?itemName=pwrs.cem-language-server-vscode) [options](https://marketplace.visualstudio.com/items?itemName=Matsuuu.custom-elements-language-server-project) [here](https://marketplace.visualstudio.com/items?itemName=wc-toolkit.web-components-language-server).
-- [Linter](https://wc-toolkit.com/integrations/wctools/) \- Want to lint HTML before shipping? CEM can power this.
-- [React Wrappers](https://www.npmjs.com/package/custom-element-react-wrappers) \- React 19 supports web components, but if you’re trying to use web components in a React &#60;= 18 project, you’ll need little wrapper shims. Creating these by hand isn’t fun and we can hand this work off to the CEM.
-- Other Framework Wrappers - Shims for [SolidJS](https://www.npmjs.com/package/custom-element-solidjs-integration), [Svelte](https://www.npmjs.com/package/custom-element-svelte-integration), and [Vue.js](https://www.npmjs.com/package/custom-element-vuejs-integration).
-- [JSX Types](https://www.npmjs.com/package/custom-element-jsx-integration) \- JSX isn’t happy unless you add new interfaces to the JSX namespace. CEM can generate this for you.
-- Jest Mocks - If you’re still using Jest in the year of our lord 2025, I feel bad for you but there are plenty of people in this situation. Jest hates Custom Elements because Custom Elements are real DOM and not VDOM. No plugin to link to (sorry!) but I have seen teams using CEM to generate Jest mocks to smooth over the process when integrating with legacy testing solutions.
-- [Figma Code Connect](https://jamesiv.es/blog/frontend/javascript/2025/09/21/custom-elements-manifest-and-figma-code-connect) \- If you want to connect your web components to Figma, you can automate that as well.
-- [MCP Server](https://bennypowers.dev/cem/docs/mcp/) \- If you want to give your AI Agents insights into the components available in the current project, you can install an MCP Server that parses your CEM. ( [Couple](https://marketplace.visualstudio.com/items?itemName=d13.vscode-web-components-ai) [options](https://bennypowers.dev/cem/docs/mcp/) here)
-
-[Burton Smith](https://github.com/break-stuff) who runs [WC Toolkit](https://wc-toolkit.com/) has been helping us roll out some of our CEM work and we’re starting to turn some of these capabilities on. One pain point I’m hoping to solve is too much boilerplate. We have a lot of files in our individual component packages to power assorted tasks and integrations and I can see a world where we generate nearly all our readmes, storybooks, and even some low-level test coverage from the CEM at build-time or run-time.
-
-From a single file we get the following outcomes…
-
-- Spend less time/energy maintaining and schlepping boilerplate code
-- Improve baseline test coverage and make it more predictable
-- Make new components easier to create, ideally speeding up development
-- Reduce cognitive overhead when jumping into the project
-- Provide a forcing function for more/better documentation
-- Potentially improve the design-developer bridge through Figma Code Connect and MCPs
-
-Again, I want to applaud the web components community here. There’s no VC-funded corporate overlord roadmap driving the Custom Elements Manifest initiative, just fellow enthusiasts. From a community perspective, that’s a positive signal for me. Adding it to your project is low-effort, high-impact type work and I probably only covered about a quarter of what a CEM can do for you, which goes to show a community agreeing on a standardized way to describe components is a powerful tool.</source:markdown>
-      <guid>cid://https://daverupert.com/2025/10/custom-elements-manifest-killer-feature/</guid>
-    </item>    <item>
-      <title>Live</title>
-      <link>https://adactio.com/journal/22186</link>
-      <description>
-        <![CDATA[<p>I don’t get out to gigs as much as I’d like. But for some reason, the past week has been packed with live music.</p>
-        
-        <p>On Tuesday I saw <a href="https://yevagabonds.com/">Ye Vagabonds</a>. I’m particularly partial to their nice mandolin playing. It was a nice concert that felt like being in a Greenwich Village folk club in the ’60s. It’s great to see how popular Ye Vagabonds are with indie kids, even if I’m slightly perplexed by the extent of the popularity—see also <a href="https://lankumdublin.com/">Lankum</a>.</p>
-        
-        <p>On Thursday it was time for <a href="https://robertforster.net/">Robert Forster</a> and his band. I’m a huge fan of The Go-Betweens, as well as Forster’s solo work. He gave us a thoroughly enjoyable show, interspersing some select Go-Betweens tracks, including quite a few off <a href="https://en.wikipedia.org/wiki/16_Lovers_Lane"><cite>16 Lovers Lane</cite></a>.</p>
-        
-        <p>On Saturday <a href="https://wordridden.com/">Jessica</a> and I made the journey over to Lewes to see <a href="https://www.thewildernessyet.com/">The Wilderness Yet</a> at the folk club. We know Rowan and Rosie from when they used to live ‘round here and it was lovely to see and hear them again.</p>
-        
-        <p>Then last night we went out to see <a href="https://dakhabrakha.com.ua/">DakhaBrakha</a>. The Ukrainian population of Brighton came out to give them a very warm welcome. The band themselves were, unsurprisingly, brilliant. Like I said <a href="https://adactio.com/journal/20827">last time they came to town</a>:</p>
-        
-        <blockquote>
-          <p>Imagine if Tom Waits and Cocteau Twins came from Eastern Europe and joined forces. Well, DakhaBrakha are even better than that.</p>
-        </blockquote>
-        
-        <p>A good week of music from <a href="https://yevagabonds.com/">Ireland</a>, <a href="https://robertforster.net/">Australia</a>, <a href="https://www.thewildernessyet.com/">England</a>, and <a href="https://dakhabrakha.com.ua/">Ukraine</a>.</p>]]>
-      </description>
-      <source:markdown>I don’t get out to gigs as much as I’d like. But for some reason, the past week has been packed with live music.
-
-On Tuesday I saw [Ye Vagabonds](https://yevagabonds.com/). I’m particularly partial to their nice mandolin playing. It was a nice concert that felt like being in a Greenwich Village folk club in the ’60s. It’s great to see how popular Ye Vagabonds are with indie kids, even if I’m slightly perplexed by the extent of the popularity—see also [Lankum](https://lankumdublin.com/).
-
-On Thursday it was time for [Robert Forster](https://robertforster.net/) and his band. I’m a huge fan of The Go-Betweens, as well as Forster’s solo work. He gave us a thoroughly enjoyable show, interspersing some select Go-Betweens tracks, including quite a few off [16 Lovers Lane](https://en.wikipedia.org/wiki/16_Lovers_Lane).
-
-On Saturday [Jessica](https://wordridden.com/) and I made the journey over to Lewes to see [The Wilderness Yet](https://www.thewildernessyet.com/) at the folk club. We know Rowan and Rosie from when they used to live ‘round here and it was lovely to see and hear them again.
-
-Then last night we went out to see [DakhaBrakha](https://dakhabrakha.com.ua/). The Ukrainian population of Brighton came out to give them a very warm welcome. The band themselves were, unsurprisingly, brilliant. Like I said [last time they came to town](https://adactio.com/journal/20827):
-
-&#62; Imagine if Tom Waits and Cocteau Twins came from Eastern Europe and joined forces. Well, DakhaBrakha are even better than that.
-
-A good week of music from [Ireland](https://yevagabonds.com/), [Australia](https://robertforster.net/), [England](https://www.thewildernessyet.com/), and [Ukraine](https://dakhabrakha.com.ua/).</source:markdown>
-      <guid>cid://https://adactio.com/journal/22186</guid>
-    </item>    <item>
-      <title>Why I built an MCP server to check my docs (and what it taught me)</title>
-      <link>https://passo.uno/mcp-server-docs-tooling/</link>
-      <description>
-        <![CDATA[<p>If you’ve been following the AI space for a while, the MCP acronym might be a familiar sight: it’s an open standard for connecting large language models (LLMs) to tools and data. Without the ability to use tools and get data, AI agents are powerless, their knowledge limited to their training set and the context at hand. Giving in to my curiosity, I created an MCP server to demystify this piece of tech and gain a better understanding of its potential.</p>
-        <p>Not all is rosy, but if there’s a place where doc tools need to grow, it&rsquo;s this.</p>]]>
-      </description>
-      <source:markdown>If you’ve been following the AI space for a while, the MCP acronym might be a familiar sight: it’s an open standard for connecting large language models (LLMs) to tools and data. Without the ability to use tools and get data, AI agents are powerless, their knowledge limited to their training set and the context at hand. Giving in to my curiosity, I created an MCP server to demystify this piece of tech and gain a better understanding of its potential.
-
-Not all is rosy, but if there’s a place where doc tools need to grow, it’s this.</source:markdown>
-      <guid>cid://https://passo.uno/mcp-server-docs-tooling/</guid>
-    </item>    <item>
-      <link>https://canada.wordcamp.org/2025/session/beyond-microblogging-wordpress-leads-the-way-in-long-form-text-on-the-social-web/</link>
-      <description>
-        <![CDATA[<p>Evan Prodromou is talking about long-form text in the social web in Ottawa on Friday. The very important role WordPress is playing to pull the twitter-like world into the actual web instead of their limited idea of the web. Sounds like harmony to me. ;-)</p>]]>
-      </description>
-      <source:markdown>Evan Prodromou is talking about long-form text in the social web in Ottawa on Friday. The very important role WordPress is playing to pull the twitter-like world into the actual web instead of their limited idea of the web. Sounds like harmony to me. ;-)</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/13/1511/</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m33dylcqh22x</link>
-      <description>
-        <![CDATA[More than a decade ago, I sat down with @marcmaron.bsky.social in his garage to tape something new called a podcast. This time, he came to me to record his last episode. 
-        
-        We talked about the power of conviction, decency in an age of division, and the true story of America.]]>
-      </description>
-      <source:markdown>More than a decade ago, I sat down with @marcmaron.bsky.social in his garage to tape something new called a podcast. This time, he came to me to record his last episode.
-
-We talked about the power of conviction, decency in an age of division, and the true story of America.</source:markdown>
-      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m33dylcqh22x</guid>
-    </item>    <item>
-      <title>Apple Announces the End-of-Life for Clips</title>
-      <link>https://support.apple.com/en-us/123359</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42264</guid>
-    </item>    <item>
-      <title>The World’s Largest, Most Disruptive Botnet Is Exploiting Compromised Internet-of-Things (IoT) Devices</title>
-      <link>https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42263</guid>
-    </item>    <item>
-      <title>Before Taking the Guns Out of the Bond Posters, Amazon Prime Bowdlerized the Poster for ‘Full Metal Jacket’</title>
-      <link>https://www.warhistoryonline.com/news/full-metal-jacket-born-to-kill-amazon.html</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42262</guid>
-    </item>    <item>
-      <title>Let’s Check in on the Mad King’s Spiral Into Dementia</title>
-      <link>https://truthsocial.com/@realDonaldTrump/posts/115359345947837427</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42261</guid>
-    </item>    <item>
-      <title>What Happened When AI Came for Craft Beer</title>
-      <link>https://www.404media.co/what-happened-when-ai-came-for-craft-beer-canadian-beer-awards-best-beer-app/</link>
-      <description>
-        <![CDATA[A prominent beer competition introduced an AI-judging tool without warning. The judges and some members of the wider brewing industry were pissed.]]>
-      </description>
-      <source:markdown>A prominent beer competition introduced an AI-judging tool without warning. The judges and some members of the wider brewing industry were pissed.</source:markdown>
-      <guid>cid://68e91d4e1c617200015e18c4</guid>
-    </item>    <item>
-      <title>Your Chance to Snag an Original Bob Ross</title>
-      <link>https://onefoottsunami.com/2025/10/13/your-chance-to-snag-an-original-bob-ross/</link>
-      <guid>cid://https://onefoottsunami.com/?p=29278</guid>
-    </item>    <item>
-      <title>TeachMeet20</title>
-      <link>https://johnjohnston.info/blog/teachmeet20/</link>
-      <description>
-        <![CDATA[<div><img width="620" height="482" src="https://johnjohnston.info/blog/wp-content/uploads/2025/10/stamp-16.php_-620x482.jpeg" class="attachment-medium size-medium u-featured wp-post-image" alt="Four men sitting in a pub, smiling and talking, with pints of dark beer on two small tables. Bob, Ewan, Me &amp; Will at the Jolly Judge." style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://johnjohnston.info/blog/wp-content/uploads/2025/10/stamp-16.php_-620x482.jpeg 620w, https://johnjohnston.info/blog/wp-content/uploads/2025/10/stamp-16.php_-768x597.jpeg 768w, https://johnjohnston.info/blog/wp-content/uploads/2025/10/stamp-16.php_-668x519.jpeg 668w, https://johnjohnston.info/blog/wp-content/uploads/2025/10/stamp-16.php_.jpeg 1024w" sizes="(max-width: 620px) 100vw, 620px" data-attachment-id="21347" data-permalink="https://johnjohnston.info/blog/teachmeet20/stamp-16-php/" data-orig-file="https://johnjohnston.info/blog/wp-content/uploads/2025/10/stamp-16.php_.jpeg" data-orig-size="1024,796" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="stamp-16.php" data-image-description="" data-image-caption="" data-medium-file="https://johnjohnston.info/blog/wp-content/uploads/2025/10/stamp-16.php_-620x482.jpeg" data-large-file="https://johnjohnston.info/blog/wp-content/uploads/2025/10/stamp-16.php_.jpeg" /></div>Looking back at the last 20 years TeachMeet and wondering about the next 20.]]>
-      </description>
-      <source:markdown>![Four men sitting in a pub, smiling and talking, with pints of dark beer on two small tables. Bob, Ewan, Me &#38; Will at the Jolly Judge.](https://johnjohnston.info/blog/wp-content/uploads/2025/10/stamp-16.php_-620x482.jpeg)
-
-Looking back at the last 20 years TeachMeet and wondering about the next 20.</source:markdown>
-      <guid>cid://https://johnjohnston.info/blog/?p=21339</guid>
-    </item>    <item>
-      <title>Edgeberry interface board for Raspberry Pi</title>
-      <link>https://www.raspberrypi.com/news/edgeberry-interface-board-for-raspberry-pi/</link>
-      <description>
-        <![CDATA[<p>Edgeberry is a modular expansion system that turns your Raspberry Pi into a robust, adaptable IoT edge device.</p>
-        <p>The post <a href="https://www.raspberrypi.com/news/edgeberry-interface-board-for-raspberry-pi/">Edgeberry interface board for Raspberry Pi</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
-      </description>
-      <source:markdown>Edgeberry is a modular expansion system that turns your Raspberry Pi into a robust, adaptable IoT edge device.
-
-The post [Edgeberry interface board for Raspberry Pi](https://www.raspberrypi.com/news/edgeberry-interface-board-for-raspberry-pi/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
-      <guid>cid://https://www.raspberrypi.com/?p=130078</guid>
-    </item>    <item>
-      <title>The Architect’s Dilemma</title>
-      <link>https://www.oreilly.com/radar/the-architects-dilemma/</link>
-      <description>
-        <![CDATA[The agentic AI landscape is exploding. Every new framework, demo, and announcement promises to let your AI assistant book flights, query databases, and manage calendars. This rapid advancement of capabilities is thrilling for users, but for the architects and engineers building these systems, it poses a fundamental question: When should a new capability be a [&#8230;]]]>
-      </description>
-      <source:markdown>The agentic AI landscape is exploding. Every new framework, demo, and announcement promises to let your AI assistant book flights, query databases, and manage calendars. This rapid advancement of capabilities is thrilling for users, but for the architects and engineers building these systems, it poses a fundamental question: When should a new capability be a \[…\]</source:markdown>
-      <guid>cid://https://www.oreilly.com/radar/?p=17515</guid>
-    </item>    <item>
-      <title>AI and the Future of American Politics</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/ai-and-the-future-of-american-politics.html</link>
-      <description>
-        <![CDATA[<p>Two years ago, Americans anxious about the forthcoming 2024 presidential election were considering the malevolent force of an election influencer: artificial intelligence. Over the past several years, we have seen <a href="https://www.cigionline.org/articles/then-and-now-how-does-ai-electoral-interference-compare-in-2025/">plenty</a> <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1569115/full">of</a> <a href="https://www.nytimes.com/2025/06/26/technology/ai-elections-democracy.html">warning</a> <a href="https://cdn.prod.website-files.com/643ecb10be528d2c1da863cb/682f5ae442fffdff819ef830_TP%202025.2.pdf">signs</a> from elections worldwide demonstrating how AI can be used to propagate misinformation and alter the political landscape, whether by <a href="https://www.nytimes.com/2023/12/13/us/politics/trump-meme-trolls-2024.html">trolls</a> on social media, <a href="https://www.npr.org/2024/08/17/nx-s1-5079397/openai-chatgpt-iranian-group-us-election">foreign</a> <a href="https://www.nato.int/docu/review/articles/2025/02/07/algorithmic-invasions-how-information-warfare-threatens-nato-s-eastern-flank/index.html">influencers</a>, or even a <a href="https://www.nbcnews.com/politics/2024-election/democratic-operative-admits-commissioning-fake-biden-robocall-used-ai-rcna140402">street magician</a><a href="https://www.nbcnews.com/politics/2024-election/democratic-operative-admits-commissioning-fake-biden-robocall-used-ai-rcna140402">.</a> AI is poised to play a more volatile role than ever before in America&#8217;s next federal election in 2026. We can already see how different groups of political actors are approaching AI. Professional campaigners are using AI to accelerate the traditional tactics of electioneering; organizers are using it to reinvent how movements are built; and citizens are using it both to express themselves and amplify their side&#8217;s messaging. Because there are so few rules, and so little prospect of regulatory action, around AI&#8217;s role in politics, there is no oversight of these activities, and no safeguards against the dramatic potential impacts for our democracy...</p>]]>
-      </description>
-      <source:markdown>Two years ago, Americans anxious about the forthcoming 2024 presidential election were considering the malevolent force of an election influencer: artificial intelligence. Over the past several years, we have seen [plenty](https://www.cigionline.org/articles/then-and-now-how-does-ai-electoral-interference-compare-in-2025/) [of](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1569115/full) [warning](https://www.nytimes.com/2025/06/26/technology/ai-elections-democracy.html) [signs](https://cdn.prod.website-files.com/643ecb10be528d2c1da863cb/682f5ae442fffdff819ef830_TP%202025.2.pdf) from elections worldwide demonstrating how AI can be used to propagate misinformation and alter the political landscape, whether by [trolls](https://www.nytimes.com/2023/12/13/us/politics/trump-meme-trolls-2024.html) on social media, [foreign](https://www.npr.org/2024/08/17/nx-s1-5079397/openai-chatgpt-iranian-group-us-election) [influencers](https://www.nato.int/docu/review/articles/2025/02/07/algorithmic-invasions-how-information-warfare-threatens-nato-s-eastern-flank/index.html), or even a [street magician](https://www.nbcnews.com/politics/2024-election/democratic-operative-admits-commissioning-fake-biden-robocall-used-ai-rcna140402) [.](https://www.nbcnews.com/politics/2024-election/democratic-operative-admits-commissioning-fake-biden-robocall-used-ai-rcna140402) AI is poised to play a more volatile role than ever before in America’s next federal election in 2026. We can already see how different groups of political actors are approaching AI. Professional campaigners are using AI to accelerate the traditional tactics of electioneering; organizers are using it to reinvent how movements are built; and citizens are using it both to express themselves and amplify their side’s messaging. Because there are so few rules, and so little prospect of regulatory action, around AI’s role in politics, there is no oversight of these activities, and no safeguards against the dramatic potential impacts for our democracy...</source:markdown>
-      <guid>cid://https://www.schneier.com/?p=70938</guid>
-    </item>    <item>
-      <title>Americans Mystified Why Nonessential Federal Employee Still Has Job</title>
-      <link>https://www.borowitzreport.com/p/americans-mystified-why-nonessential</link>
-      <description>
-        <![CDATA[The still-employed man performs no identifiable function, Americans noted.]]>
-      </description>
-      <source:markdown>The still-employed man performs no identifiable function, Americans noted.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!Jcfh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98d8bddd-518e-49f3-8e6f-c2ef9c1f58d4_1024x683.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/americans-mystified-why-nonessential</guid>
-    </item>    <item>
-      <title>Where’s the AI design renaissance?</title>
-      <link>https://www.learnui.design/blog/wheres-the-ai-design-renaissance.html</link>
-      <description>
-        <![CDATA[<blockquote>
-          <p>I’ve had some incredibly productive moments with AI design tools. But I’ve had at least as many slogs, where I can’t get it to do some basic thing I should’ve done myself 45 minutes ago.</p>
-          
-          <p>My hunch: vibe coding is a lot like stock-picking – everyone’s always blabbing about their big wins. Ask what their annual rate of return is above the S&amp;P, and it’s a quieter conversation 🤫</p>
-          
-          <p>This, in my opinion, is how we end up with a firehose of AI hype, and yet zero signs of a software renaissance. As Mike Judge points out, the following graphs are flat: (a) new app store releases, (b) new domain names registered, (c) new Github repositories.</p>
-        </blockquote>
-        
-        <p><a href="https://adactio.com/links/22185">adactio.com/links/22185</a></p>]]>
-      </description>
-      <source:markdown>&#62; I’ve had some incredibly productive moments with AI design tools. But I’ve had at least as many slogs, where I can’t get it to do some basic thing I should’ve done myself 45 minutes ago.
-&#62;
-&#62; My hunch: vibe coding is a lot like stock-picking – everyone’s always blabbing about their big wins. Ask what their annual rate of return is above the S&#38;P, and it’s a quieter conversation 🤫
-&#62;
-&#62; This, in my opinion, is how we end up with a firehose of AI hype, and yet zero signs of a software renaissance. As Mike Judge points out, the following graphs are flat: (a) new app store releases, (b) new domain names registered, (c) new Github repositories.
-
-[adactio.com/links/22185](https://adactio.com/links/22185)</source:markdown>
-      <guid>cid://https://www.learnui.design/blog/wheres-the-ai-design-renaissance.html</guid>
-    </item>    <item>
-      <title>How Trump Is Making China Great</title>
-      <link>https://paulkrugman.substack.com/p/how-trump-is-making-china-great</link>
-      <description>
-        <![CDATA[Why we&#8217;re going to lose the trade war, and much more besides]]>
-      </description>
-      <source:markdown>Why we’re going to lose the trade war, and much more besides</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!NRMt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a269c69-c1ae-4d73-93ee-7a044b145306_1600x1067.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/how-trump-is-making-china-great</guid>
-    </item>    <item>
-      <link>https://www.amazon.com/s?k=inflatable+costumes+animal&#38;hvadid=678008782541&#38;hvdev=t&#38;hvexpln=0&#38;hvlocphy=9004823&#38;hvnetw=g&#38;hvocijid=11849710211839988697--&#38;hvqmt=e&#38;hvrand=11849710211839988697&#38;hvtargid=kwd-853217640849&#38;hydadcr=7662_13589736&#38;mcid=a110968705bf3dc79a8eef0edd9cbb57&#38;tag=googhydr-20&#38;ref=pd_sl_3b7lejpelx_e</link>
-      <description>
-        <![CDATA[<p>Amazon.com: inflatable costumes.</p>]]>
-      </description>
-      <source:markdown>Amazon.com: inflatable costumes.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/13/1509/</guid>
-    </item>    <item>
-      <title>On the Mysteries, Real and Imagined, Surrounding Christopher Columbus</title>
-      <link>https://lithub.com/on-the-mysteries-real-and-imagined-surrounding-christopher-columbus/</link>
-      <description>
-        <![CDATA[Christopher Columbus is still alive. Earlier this year, a social media post by President Trump declared that “Christopher is going to make a major comeback.” The Democrats had done “everything possible to destroy” him and replace his status “with nothing]]>
-      </description>
-      <source:markdown>Christopher Columbus is still alive. Earlier this year, a social media post by President Trump declared that “Christopher is going to make a major comeback.” The Democrats had done “everything possible to destroy” him and replace his status “with nothing</source:markdown>
-      <guid>cid://https://lithub.com/?p=260971</guid>
-    </item>    <item>
-      <title>They’re calling it a “Hate America” Rally</title>
-      <link>https://robertreich.substack.com/p/theyre-calling-it-a-hate-america</link>
-      <description>
-        <![CDATA[Rubbish. We&#8217;re rallying on Saturday because we LOVE America]]>
-      </description>
-      <source:markdown>Rubbish. We’re rallying on Saturday because we LOVE America</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!mPbM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3fff923-d351-47d7-8e7f-fe2c02510f61_3500x2612.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/theyre-calling-it-a-hate-america</guid>
-    </item>    <item>
-      <title>Slop is a symptom of capitalism</title>
-      <link>https://tracydurnell.com/2025/10/12/slop-is-a-symptom-of-capitalism/</link>
-      <description>
-        <![CDATA[Slop as a way of life by Drew Austin The subtext is that slop is being dumped on us against our will—that it’s something that happens to us—but that lets us off the hook far too easily. Most of the slop we see is still made and distributed by real people, often with no AI [&#8230;]]]>
-      </description>
-      <source:markdown>Slop as a way of life by Drew Austin The subtext is that slop is being dumped on us against our will—that it’s something that happens to us—but that lets us off the hook far too easily. Most of the slop we see is still made and distributed by real people, often with no AI \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=30578</guid>
-    </item>    <item>
-      <link>https://www.travelandleisure.com/best-small-towns-in-the-catskills-11820675</link>
-      <description>
-        <![CDATA[<p>7 Best Small Towns in the Catskills.</p>]]>
-      </description>
-      <source:markdown>7 Best Small Towns in the Catskills.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/13/1507/</guid>
-    </item>    <item>
-      <title>October 12, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/october-12-2025</link>
-      <description>
-        <![CDATA[On October 9, President Donald J.]]>
-      </description>
-      <source:markdown>On October 9, President Donald J.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/october-12-2025</guid>
-    </item>    <item>
-      <link>https://www.openculture.com/2024/10/the-evolution-of-cinema-watch-nearly-140-years-of-film-history-unfold-in-80-minutes.html</link>
-      <description>
-        <![CDATA[<p>The Evolution of Cinema: Watch Nearly 140 Years of Film History Unfold in 80 Minutes.</p>]]>
-      </description>
-      <source:markdown>The Evolution of Cinema: Watch Nearly 140 Years of Film History Unfold in 80 Minutes.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/12/1505/</guid>
-    </item>    <item>
-      <link>https://grist.org/oceans/coral-reefs-climate-tipping-point/</link>
-      <description>
-        <![CDATA[<p>Corals are disappearing, pushing Earth to first major tipping point.</p>]]>
-      </description>
-      <source:markdown>Corals are disappearing, pushing Earth to first major tipping point.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/12/1503/</guid>
-    </item>    <item>
-      <title>Clips Discontinued</title>
-      <link>https://mjtsai.com/blog/2025/10/12/clips-discontinued/</link>
-      <description>
-        <![CDATA[Eric Slivka: Apple has essentially discontinued Clips, its video-editing app designed to allow users to combine video clips, images, and photos with voice-based titles, music, filters, and graphics to create enhanced videos that can be shared on social media sites.The app has been removed from the App Store, and a support document on Apple&#8217;s site [&#8230;]]]>
-      </description>
-      <source:markdown>Eric Slivka: Apple has essentially discontinued Clips, its video-editing app designed to allow users to combine video clips, images, and photos with voice-based titles, music, filters, and graphics to create enhanced videos that can be shared on social media sites.The app has been removed from the App Store, and a support document on Apple’s site \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49614</guid>
-    </item>    <item>
-      <title>NSO Group Acquired</title>
-      <link>https://mjtsai.com/blog/2025/10/12/nso-group-acquired/</link>
-      <description>
-        <![CDATA[Lorenzo Franceschi-Bicchierai (via Hacker News): NSO spokesperson Oded Hershowitz told TechCrunch on Friday that &#8220;an American investment group has invested tens of millions of dollars in the company and has acquired controlling ownership.&#8221; Confirmation of the deal came soon after Israeli tech news website Calcalist reported Friday that a group led by Hollywood producer Robert [&#8230;]]]>
-      </description>
-      <source:markdown>Lorenzo Franceschi-Bicchierai (via Hacker News): NSO spokesperson Oded Hershowitz told TechCrunch on Friday that “an American investment group has invested tens of millions of dollars in the company and has acquired controlling ownership.” Confirmation of the deal came soon after Israeli tech news website Calcalist reported Friday that a group led by Hollywood producer Robert \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49612</guid>
-    </item>    <item>
-      <title>AI in Chrome, Neon, and Dia</title>
-      <link>https://mjtsai.com/blog/2025/10/12/ai-in-chrome-neon-and-dia/</link>
-      <description>
-        <![CDATA[Juli Clover: Google today said that Gemini AI is being integrated into the Chrome browser for the Mac and PC. Chrome users in the U.S. will get the functionality first, with Gemini able to clarify complex information on any webpage. There will be a small Gemini symbol in the upper right side of the browser [&#8230;]]]>
-      </description>
-      <source:markdown>Juli Clover: Google today said that Gemini AI is being integrated into the Chrome browser for the Mac and PC. Chrome users in the U.S. will get the functionality first, with Gemini able to clarify complex information on any webpage. There will be a small Gemini symbol in the upper right side of the browser \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49610</guid>
-    </item>    <item>
-      <title>Script to Detect Slow USB-C Cables</title>
-      <link>https://mjtsai.com/blog/2025/10/12/script-to-detect-slow-usb-c-cables/</link>
-      <description>
-        <![CDATA[Kaushik Gopal (via Hacker News): You have a drawer full of USB cables. Half are junk that barely charge your phone. The other half transfer data at full speed. But which is which? [&#8230;] The script parses macOS&#8217;s system_profiler SPUSBHostDataType command, which produces a dense, hard-to-scan raw output[&#8230;] [&#8230;] The first version was a bash [&#8230;]]]>
-      </description>
-      <source:markdown>Kaushik Gopal (via Hacker News): You have a drawer full of USB cables. Half are junk that barely charge your phone. The other half transfer data at full speed. But which is which? \[…\] The script parses macOS’s system\_profiler SPUSBHostDataType command, which produces a dense, hard-to-scan raw output\[…\] \[…\] The first version was a bash \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49608</guid>
-    </item>    <item>
-      <title>This one weird trick makes the AI a better writer.</title>
-      <link>https://blog.fsck.com/2025/10/13/this-one-weird-trick-makes-the-ai-a-better-writer/</link>
-      <guid>cid://https://blog.fsck.com/2025/10/13/this-one-weird-trick-makes-the-ai-a-better-writer/</guid>
     </item>
   </channel>
 </rss>
