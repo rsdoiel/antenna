@@ -4,10 +4,250 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>04 Nov 25 06:10 -0800</lastBuildDate>
+    <lastBuildDate>04 Nov 25 10:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>AirPods Pro und AirPods 4: Live-Übersetzung kommt nach Europa</title>
+      <link>https://www.heise.de/news/AirPods-Pro-und-AirPods-4-Live-Uebersetzung-kommt-nach-Europa-11055015.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die KI-Übersetzungsfunktion kommt im Dezember auf unterstützte iPhones und Apple-Hörer. Als Grund für die Verzögerung nennt Apple den Digital Markets Act.]]>
+      </description>
+      <source:markdown>Die KI-Übersetzungsfunktion kommt im Dezember auf unterstützte iPhones und Apple-Hörer. Als Grund für die Verzögerung nennt Apple den Digital Markets Act.</source:markdown>
+      <guid>cid://http://heise.de/-11055015</guid>
+    </item>    <item>
+      <title>Consumer Financial Protection Bureau&#39;s security falls apart amid layoffs</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/04/us_cfpb_infosec_posture_crumbles/</link>
+      <description>
+        <![CDATA[<h4>Security program fails to meet federal standards as government cuts drain resources</h4> <p>The infosec program run by the US&#39; Consumer Financial Protection Bureau (CFPB) &#34;is not effective,&#34; according to a fresh audit published by the Office of the Inspector General (OIG).…</p>]]>
+      </description>
+      <source:markdown>#### Security program fails to meet federal standards as government cuts drain resources
+
+The infosec program run by the US&#39; Consumer Financial Protection Bureau (CFPB) &#34;is not effective,&#34; according to a fresh audit published by the Office of the Inspector General (OIG).…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242839</guid>
+    </item>    <item>
+      <title>Still Unfinished After 143 Years, Barcelona&#39;s Dazzling Sagrada Familia Is Now the Tallest Church in the World</title>
+      <link>https://www.smithsonianmag.com/smart-news/still-unfinished-after-143-years-barcelonas-dazzling-sagrada-familia-now-tallest-church-in-world-180987624/</link>
+      <description>
+        <![CDATA[Last week, a new addition to the basilica—designed by architect Antoni Gaudí—brought its height to 534 feet, breaking a record set by Germany’s 530-foot-tall Ulm Minster]]>
+      </description>
+      <source:markdown>Last week, a new addition to the basilica—designed by architect Antoni Gaudí—brought its height to 534 feet, breaking a record set by Germany’s 530-foot-tall Ulm Minster</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/uPIx30xA3mizCmAVxdLnwCtTZTA=/420x240/filters:focal(4096x2731:4097x2732)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/dc/ed/dcede1e3-f216-4162-8b50-fe69a0b11c39/sagrada.jpg" length="" type="" />
+    </item>    <item>
+      <title>Why React’s ‘Boring’ Maturity Is Actually Its Main Strength</title>
+      <link>https://thenewstack.io/why-reacts-boring-maturity-is-actually-its-main-strength/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/77b1325f-mystery-cat-zoyuef32pwo-unsplashb-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="lion" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/77b1325f-mystery-cat-zoyuef32pwo-unsplashb.jpg" /><p>React has been around long enough to earn that dreaded word: Mature. In tech, &#8220;mature&#8221; often gets twisted into &#8220;obsolete,&#8221;</p>
+        <p>The post <a href="https://thenewstack.io/why-reacts-boring-maturity-is-actually-its-main-strength/">Why React’s ‘Boring’ Maturity Is Actually Its Main Strength</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![lion](https://cdn.thenewstack.io/media/2025/11/77b1325f-mystery-cat-zoyuef32pwo-unsplashb-1024x576.jpg)
+
+React has been around long enough to earn that dreaded word: Mature. In tech, “mature” often gets twisted into “obsolete,”
+
+The post [Why React’s ‘Boring’ Maturity Is Actually Its Main Strength](https://thenewstack.io/why-reacts-boring-maturity-is-actually-its-main-strength/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805389</guid>
+    </item>    <item>
+      <title>Game on! Penguin levels up as Linux finally cracks 3% on Steam</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/04/steam_on_linux_numbers_up/</link>
+      <description>
+        <![CDATA[<h4>Only a point up in a year, but that’s a 50% leap for Linux gamers</h4> <p>The latest edition of Valve&#39;s monthly Steam Hardware &amp; Software Survey is out, showing a rise in Steam usage on Linux. Penguin likes to play!…</p>]]>
+      </description>
+      <source:markdown>#### Only a point up in a year, but that’s a 50% leap for Linux gamers
+
+The latest edition of Valve&#39;s monthly Steam Hardware &#38; Software Survey is out, showing a rise in Steam usage on Linux. Penguin likes to play!…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242836</guid>
+    </item>    <item>
+      <title>Python slithers faster by adding lazy imports that load code after startup</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/04/python_to_embrace_lazy_imports/</link>
+      <description>
+        <![CDATA[<h4>PEP 810 approved following lengthy debate among developer community</h4> <p>Python programs are set to get faster startup times with PEP 810 &#34;Explicit lazy imports,&#34; which allows scripts to defer loading imported libraries until they&#39;re actually needed rather than at startup.…</p>]]>
+      </description>
+      <source:markdown>#### PEP 810 approved following lengthy debate among developer community
+
+Python programs are set to get faster startup times with PEP 810 &#34;Explicit lazy imports,&#34; which allows scripts to defer loading imported libraries until they&#39;re actually needed rather than at startup.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242837</guid>
+    </item>    <item>
+      <title>WhatsApp für die Apple Watch ist da</title>
+      <link>https://www.heise.de/news/WhatsApp-fuer-die-Apple-Watch-ist-da-11056728.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Nach über zehn Jahren Apple Watch und kurzer Testphase ist WhatsApp nun offiziell für die Smartwatch verfügbar – mit Chatfunktionen direkt am Handgelenk.]]>
+      </description>
+      <source:markdown>Nach über zehn Jahren Apple Watch und kurzer Testphase ist WhatsApp nun offiziell für die Smartwatch verfügbar – mit Chatfunktionen direkt am Handgelenk.</source:markdown>
+      <guid>cid://http://heise.de/-11056728</guid>
+    </item>    <item>
+      <title>Spionage via Online-Graumarkt: EU-Mitarbeiter durch Handy-Standortdaten entblößt</title>
+      <link>https://www.heise.de/news/Spionage-via-Online-Graumarkt-EU-Mitarbeiter-durch-Handy-Standortdaten-entbloesst-11056770.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[„Anonymisierte“ Geodaten hochrangiger EU-Offizieller sind online zu erwerben. Die Kommission verschärft die Richtlinien für Mitarbeiter, Verbote sollen kommen.]]>
+      </description>
+      <source:markdown>„Anonymisierte“ Geodaten hochrangiger EU-Offizieller sind online zu erwerben. Die Kommission verschärft die Richtlinien für Mitarbeiter, Verbote sollen kommen.</source:markdown>
+      <guid>cid://http://heise.de/-11056770</guid>
+    </item>    <item>
+      <title>heise+ | Dirac ART im Test: Wie aktive Raumkorrektur den Klang im Heimkino verbessert</title>
+      <link>https://www.heise.de/tests/Dirac-ART-im-Test-Wie-aktive-Raumkorrektur-den-Klang-im-Heimkino-verbessert-10739468.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Dirac Live ART kompensiert Resonanzen und Bassprobleme mit aktivem Gegenschall – für besseren Klang im Wohnzimmer und Heimkino. Wir messen, wir gut das klappt.]]>
+      </description>
+      <source:markdown>Dirac Live ART kompensiert Resonanzen und Bassprobleme mit aktivem Gegenschall – für besseren Klang im Wohnzimmer und Heimkino. Wir messen, wir gut das klappt.</source:markdown>
+      <guid>cid://http://heise.de/-10739468</guid>
+    </item>    <item>
+      <title>Coders paired with bot buddies work fast, but take too many shortcuts</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/04/humanhuman_code_pairs_more_talkative/</link>
+      <description>
+        <![CDATA[<h4>Trust me bro, says GitHub Copilot. And programmers just... do</h4> <p>Developers who &#34;pair code&#34; with an AI assistant stand to learn as much as they do in traditional human-human pairings, but also show a less critical attitude toward their silicon-based partner’s output, academics have found.…</p>]]>
+      </description>
+      <source:markdown>#### Trust me bro, says GitHub Copilot. And programmers just... do
+
+Developers who &#34;pair code&#34; with an AI assistant stand to learn as much as they do in traditional human-human pairings, but also show a less critical attitude toward their silicon-based partner’s output, academics have found.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242838</guid>
+    </item>    <item>
+      <title>Telekom-Rechenzentrum mit 10.000 Nvidia-GPUs entsteht in München</title>
+      <link>https://www.heise.de/news/Telekom-Rechenzentrum-mit-10-000-Nvidia-GPUs-entsteht-in-Muenchen-11056756.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[In Partnerschaft mit Nvidia baut die Telekom ein KI-Rechenzentrum in München und will damit "das Wasser testen". Die Dienste laufen unter deutscher Flagge.]]>
+      </description>
+      <source:markdown>In Partnerschaft mit Nvidia baut die Telekom ein KI-Rechenzentrum in München und will damit &#34;das Wasser testen&#34;. Die Dienste laufen unter deutscher Flagge.</source:markdown>
+      <guid>cid://http://heise.de/-11056756</guid>
+    </item>    <item>
+      <title>Kubernetes Isn’t Your AI Bottleneck — It’s Your Secret Weapon</title>
+      <link>https://thenewstack.io/kubernetes-isnt-your-ai-bottleneck-its-your-secret-weapon/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/01e2398a-woman-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Strong successful woman on a mountain flexing muscles." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/01e2398a-woman.jpg" /><p>Let&#8217;s get one thing straight: In the AI era, the only thing that matters is experimenting faster than your competition.</p>
+        <p>The post <a href="https://thenewstack.io/kubernetes-isnt-your-ai-bottleneck-its-your-secret-weapon/">Kubernetes Isn&#8217;t Your AI Bottleneck — It’s Your Secret Weapon</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Strong successful woman on a mountain flexing muscles.](https://cdn.thenewstack.io/media/2025/11/01e2398a-woman-1024x576.jpg)
+
+Let’s get one thing straight: In the AI era, the only thing that matters is experimenting faster than your competition.
+
+The post [Kubernetes Isn’t Your AI Bottleneck — It’s Your Secret Weapon](https://thenewstack.io/kubernetes-isnt-your-ai-bottleneck-its-your-secret-weapon/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805249</guid>
+    </item>    <item>
+      <title>Monopolkommission: Undurchschaubare Preise führen zu überhöhten Ladestromkosten</title>
+      <link>https://www.heise.de/news/Monopolkommission-Undurchschaubare-Preise-fuehren-zu-ueberhoehten-Ladestromkosten-11056643.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der Ausbau der E-Mobilität soll eine Schlüsselrolle für die Klimaziele des Verkehrssektors spielen. Berater der Regierung aber sehen Probleme an den Ladesäulen.]]>
+      </description>
+      <source:markdown>Der Ausbau der E-Mobilität soll eine Schlüsselrolle für die Klimaziele des Verkehrssektors spielen. Berater der Regierung aber sehen Probleme an den Ladesäulen.</source:markdown>
+      <guid>cid://http://heise.de/-11056643</guid>
+    </item>    <item>
+      <title>Remarkable New Research on Ochre &#39;Crayons&#39; Colors in Scientists&#39; Understanding of How Neanderthals Made Art</title>
+      <link>https://www.smithsonianmag.com/smart-news/remarkable-new-research-ochre-crayons-colors-scientists-understanding-how-neanderthals-made-art-180987617/</link>
+      <description>
+        <![CDATA[A recently published study suggests humans' creative inclinations go back much further than previously thought]]>
+      </description>
+      <source:markdown>A recently published study suggests humans&#39; creative inclinations go back much further than previously thought</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/LXN4tpoR_FVZP5Uw0waw1ULugc0=/420x240/filters:focal(1286x729:1287x730)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/01/24/012459a0-f699-41a1-b4cd-85bf56a97860/sciadvadx4722-f3.jpg" length="" type="" />
+    </item>    <item>
+      <title>Tesla board wants to grant Musk $1T in stock, Norway wealth fund says nope</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/04/norway_wealth_fund_says_ingen/</link>
+      <description>
+        <![CDATA[<h4>Norges Bank Investment Management votes against excessive award, automaker&#39;s share price skids</h4> <p>Norway&#39;s sovereign wealth fund has opposed Tesla CEO Elon Musk&#39;s proposed $1 trillion share award, which the carmaker&#39;s board says is necessary to retain him.…</p>]]>
+      </description>
+      <source:markdown>#### Norges Bank Investment Management votes against excessive award, automaker&#39;s share price skids
+
+Norway&#39;s sovereign wealth fund has opposed Tesla CEO Elon Musk&#39;s proposed $1 trillion share award, which the carmaker&#39;s board says is necessary to retain him.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242835</guid>
+    </item>    <item>
+      <title>Foldable-Markt in Westeuropa: Neue Konkurrenz für Samsung</title>
+      <link>https://www.heise.de/news/Foldable-Markt-in-Westeuropa-Neue-Konkurrenz-fuer-Samsung-11056615.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der Foldable-Markt in Westeuropa entwickelt sich von einem Duell zu einem Vierkampf. Hersteller wie Motorola und Google gewinnen Marktanteile hinzu.]]>
+      </description>
+      <source:markdown>Der Foldable-Markt in Westeuropa entwickelt sich von einem Duell zu einem Vierkampf. Hersteller wie Motorola und Google gewinnen Marktanteile hinzu.</source:markdown>
+      <guid>cid://http://heise.de/-11056615</guid>
+    </item>    <item>
+      <title>Das dreifache Lottchen: Apples große TV-Ambitionen | Mac &#38; i-Podcast</title>
+      <link>https://www.heise.de/news/Das-dreifache-Lottchen-Apples-grosse-TV-Ambitionen-Mac-i-Podcast-11056629.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Einen Apple-Fernseher gab es nie, ins Wohnzimmer will der Konzern trotzdem. In Episode 108 widmen wir uns Apple TV – Streaming-Dienst, App und Settop-Box.]]>
+      </description>
+      <source:markdown>Einen Apple-Fernseher gab es nie, ins Wohnzimmer will der Konzern trotzdem. In Episode 108 widmen wir uns Apple TV – Streaming-Dienst, App und Settop-Box.</source:markdown>
+      <guid>cid://http://heise.de/-11056629</guid>
+    </item>    <item>
+      <title>TrueNAS 25.10 mit NVMe-oF-Unterstützung, schneller API und neuem OpenZFS</title>
+      <link>https://www.heise.de/news/TrueNAS-25-10-mit-NVMe-oF-Unterstuetzung-schneller-API-und-neuem-OpenZFS-11056587.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[iXsystems hat TrueNAS 25.10 "Goldeye" vorgestellt, das mit NVMe-oF an superschnelle Storage-Systeme angebunden werden kann. Dazu kommen weitere neue Funktionen.]]>
+      </description>
+      <source:markdown>iXsystems hat TrueNAS 25.10 &#34;Goldeye&#34; vorgestellt, das mit NVMe-oF an superschnelle Storage-Systeme angebunden werden kann. Dazu kommen weitere neue Funktionen.</source:markdown>
+      <guid>cid://http://heise.de/-11056587</guid>
+    </item>    <item>
+      <title>Chip-Lithografie mit Röntgenstrahlung will ASML und TSMC herausfordern</title>
+      <link>https://www.heise.de/news/Chip-Lithografie-mit-Roentgenstrahlung-will-ASML-und-TSMC-herausfordern-11053963.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Peter Thiel finanziert ein Startup, das Halbleiter in den USA billiger fertigen will als TSMC – dank Strahlung aus dem Beschleuniger.]]>
+      </description>
+      <source:markdown>Peter Thiel finanziert ein Startup, das Halbleiter in den USA billiger fertigen will als TSMC – dank Strahlung aus dem Beschleuniger.</source:markdown>
+      <guid>cid://http://heise.de/-11053963</guid>
+    </item>    <item>
+      <title>RPT-1: SAP Launches a Relational Foundation Model for the Enterprise</title>
+      <link>https://thenewstack.io/rpt-1-sap-launches-a-relational-foundation-model-for-the-enterprise/</link>
+      <description>
+        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/11/2b1b7fb4-sap-teched-2025-1024x768.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="The entrance to SAP&#039;s TechEd event at Messe Berlin, Berlin, November 2024." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/2b1b7fb4-sap-teched-2025-scaled.jpg" /><p>BERLIN, GERMANY &#8212; , the German business software giant, is hosting its annual TechEd event in Berlin this week, and</p>
+        <p>The post <a href="https://thenewstack.io/rpt-1-sap-launches-a-relational-foundation-model-for-the-enterprise/">RPT-1: SAP Launches a Relational Foundation Model for the Enterprise</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![The entrance to SAP&#39;s TechEd event at Messe Berlin, Berlin, November 2024.](https://cdn.thenewstack.io/media/2025/11/2b1b7fb4-sap-teched-2025-1024x768.jpg)
+
+BERLIN, GERMANY — , the German business software giant, is hosting its annual TechEd event in Berlin this week, and
+
+The post [RPT-1: SAP Launches a Relational Foundation Model for the Enterprise](https://thenewstack.io/rpt-1-sap-launches-a-relational-foundation-model-for-the-enterprise/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805159</guid>
+    </item>    <item>
+      <title>Test: Atoto Carwave CB6B – Youtube ohne Handy, Android Auto &#38; Carplay Wireless</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/test-atoto-carwave-cb6b-youtube-ohne-handy-android-auto-und-carplay-wireless/bw744fr?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Vom Dongle zum Entertainment-Center: Der Carwave-Adapter von Atoto kombiniert Carplay, Android Auto und ein vollwertiges Android-System im Auto.]]>
+      </description>
+      <source:markdown>Vom Dongle zum Entertainment-Center: Der Carwave-Adapter von Atoto kombiniert Carplay, Android Auto und ein vollwertiges Android-System im Auto.</source:markdown>
+      <guid>cid://http://heise.de/-11051515</guid>
+    </item>    <item>
+      <title>Magie im Alltag – Die Bilder der Woche 44</title>
+      <link>https://www.heise.de/news/Magie-im-Alltag-Die-Bilder-der-Woche-44-10961863.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Von dynamischem Tanz bis zu majestätischen Hafenkränen erzählt jede Aufnahme dieser Woche ihre eigene Geschichte aus Licht und Gefühl.]]>
+      </description>
+      <source:markdown>Von dynamischem Tanz bis zu majestätischen Hafenkränen erzählt jede Aufnahme dieser Woche ihre eigene Geschichte aus Licht und Gefühl.</source:markdown>
+      <guid>cid://http://heise.de/-10961863</guid>
+    </item>    <item>
+      <title>Sharp stellt kompakte VR-Brille mit Dioptrinregler für PC und Smartphones vor</title>
+      <link>https://www.heise.de/news/Unter-200-Gramm-Sharp-will-kompakte-VR-Brille-per-Crowdfunding-veroeffentlichen-11053916.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Mit der "Xrostella VR1" will Sharp eine besonders kompakte VR-Brille anbieten, die als eines der wenigen Geräte am Markt über einen Dioptrienregler verfügt.]]>
+      </description>
+      <source:markdown>Mit der &#34;Xrostella VR1&#34; will Sharp eine besonders kompakte VR-Brille anbieten, die als eines der wenigen Geräte am Markt über einen Dioptrienregler verfügt.</source:markdown>
+      <guid>cid://http://heise.de/-11053916</guid>
+    </item>    <item>
+      <title>Pflichtprogramm für Weltraumfans: &#34;Space Explorers Ultimate Edition&#34; für Quest 3</title>
+      <link>https://www.heise.de/news/Pflichtprogramm-fuer-Weltraumfans-Space-Explorers-Ultimate-Edition-fuer-Quest-3-10789053.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die beeindruckende VR-Raumfahrtserie "Space Explorers" erhält eine neue Folge und Mixed-Reality-Inhalte. Wir haben die kostenlose neue VR-App ausprobiert.]]>
+      </description>
+      <source:markdown>Die beeindruckende VR-Raumfahrtserie &#34;Space Explorers&#34; erhält eine neue Folge und Mixed-Reality-Inhalte. Wir haben die kostenlose neue VR-App ausprobiert.</source:markdown>
+      <guid>cid://http://heise.de/-10789053</guid>
+    </item>    <item>
+      <title>Win10 still clings to over 40% of devices weeks after Microsoft pulls support</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/04/windows_10_eol/</link>
+      <description>
+        <![CDATA[<h4>Popular operating system much more sticky than Windows 7 was during its EOL</h4> <p>As the dust settles over the end of support for many versions of Windows 10, the operating system remains a significant presence in the Windows market.…</p>]]>
+      </description>
+      <source:markdown>#### Popular operating system much more sticky than Windows 7 was during its EOL
+
+As the dust settles over the end of support for many versions of Windows 10, the operating system remains a significant presence in the Windows market.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242833</guid>
+    </item>    <item>
+      <title>Introducing Agent GPA: A Framework for Enterprise-Ready AI</title>
+      <link>https://thenewstack.io/introducing-agent-gpa-a-framework-for-enterprise-ready-ai/</link>
+      <description>
+        <![CDATA[<img width="1024" height="625" src="https://cdn.thenewstack.io/media/2025/11/26ffd8f8-report-card-1024x625.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Performance survey from exceptional to poor." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/26ffd8f8-report-card.jpeg" /><p>The stakes are higher than ever for enterprises to prove that their AI agent investments are truly providing return on</p>
+        <p>The post <a href="https://thenewstack.io/introducing-agent-gpa-a-framework-for-enterprise-ready-ai/">Introducing Agent GPA: A Framework for Enterprise-Ready AI</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Performance survey from exceptional to poor.](https://cdn.thenewstack.io/media/2025/11/26ffd8f8-report-card-1024x625.jpeg)
+
+The stakes are higher than ever for enterprises to prove that their AI agent investments are truly providing return on
+
+The post [Introducing Agent GPA: A Framework for Enterprise-Ready AI](https://thenewstack.io/introducing-agent-gpa-a-framework-for-enterprise-ready-ai/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805221</guid>
+    </item>    <item>
       <title>Invasion of the message body snatchers! Teams flaw allowed crims to impersonate the boss</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/04/microsoft_teams_bugs_could_let/</link>
       <description>
@@ -26,7 +266,7 @@ Microsoft Teams, one of the world&#39;s most widely used collaboration tools, co
       <source:markdown>Exakte Messwerte spielen für manchen eine geradezu religiöse Rolle. So gesehen läutet Ichendorfs unmögliche Quadratgeschichte eine Art Götterdämmerung ein.</source:markdown>
       <guid>cid://http://heise.de/-10689437</guid>
     </item>    <item>
-      <title>Nothing rudert bei Bloatware und Werbung ein wenig zurück</title>
+      <title>Nothing lenkt bei Bloatware-Kritik ein</title>
       <link>https://www.heise.de/news/Nothing-rudert-bei-Bloatware-und-Werbung-ein-wenig-zurueck-11053969.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
         <![CDATA[Nothing rudert bei seinem Ausflug in die Bloatware-Welt ein Stück zurück. Zudem sagt der Hersteller, dass man der Community zuhöre.]]>
@@ -97,7 +337,7 @@ Researchers are seeing a &#34;dramatic&#34; increase in cybercrime involving phy
       <title>It’s Time To Build APIs for AI, Not Just For Developers</title>
       <link>https://thenewstack.io/its-time-to-build-apis-for-ai-not-just-for-developers/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/35c6b952-agent-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Person on a laptop working with AI agents." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/35c6b952-agent.jpg" /><p>For the last two decades, the principles of API design have centered around the human developer. We built systems optimized</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/35c6b952-agent-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Person on a laptop working with AI agents." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/35c6b952-agent.jpg" /><p>For the last two decades, the principles of API design have centered around the human developer. We built systems optimized</p>
         <p>The post <a href="https://thenewstack.io/its-time-to-build-apis-for-ai-not-just-for-developers/">It’s Time To Build APIs for AI, Not Just For Developers</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![Person on a laptop working with AI agents.](https://cdn.thenewstack.io/media/2025/10/35c6b952-agent-1024x576.jpg)
@@ -709,7 +949,7 @@ Cloud and AI security startups have two weeks to apply for a program that fast-t
       <title>How Bucket Forking Brings GitHub-Style Forking To Object Storage</title>
       <link>https://thenewstack.io/how-bucket-forking-brings-github-style-forking-to-object-storage/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/f1d0e807-bucket-forking-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="&quot;How Bucket Forking Brings GitHub-Style Forking to Object Storage&quot; featured image. Hands holding a card with diverging arrows in front of a cloudy sky" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/f1d0e807-bucket-forking.jpg" /><p>Although forking is fairly routine in code platforms like GitHub and different file systems, it&#8217;s not been a feature in</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/f1d0e807-bucket-forking-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="&quot;How Bucket Forking Brings GitHub-Style Forking to Object Storage&quot; featured image. Hands holding a card with diverging arrows in front of a cloudy sky" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/f1d0e807-bucket-forking.jpg" /><p>Although forking is fairly routine in code platforms like GitHub and different file systems, it&#8217;s not been a feature in</p>
         <p>The post <a href="https://thenewstack.io/how-bucket-forking-brings-github-style-forking-to-object-storage/">How Bucket Forking Brings GitHub-Style Forking To Object Storage</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![&#34;How Bucket Forking Brings GitHub-Style Forking to Object Storage&#34; featured image. Hands holding a card with diverging arrows in front of a cloudy sky](https://cdn.thenewstack.io/media/2025/11/f1d0e807-bucket-forking-1024x576.jpg)

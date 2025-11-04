@@ -7,10 +7,18 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>04 Nov 25 06:10 -0800</lastBuildDate>
+    <lastBuildDate>04 Nov 25 10:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>California quietly kills electric bike vouchers, sending money to EV incentives instead</title>
+      <link>https://laist.com/news/climate-environment/california-quietly-kills-electric-bike-vouchers-sending-money-to-ev-incentives-instead</link>
+      <description>
+        <![CDATA[The California Air Resources Board gave no public announcement but confirmed that it has redirected the e-bike program’s funds as “a recent outcome of legislative direction.”]]>
+      </description>
+      <source:markdown>The California Air Resources Board gave no public announcement but confirmed that it has redirected the e-bike program’s funds as “a recent outcome of legislative direction.”</source:markdown>
+      <guid>cid://urn:uuid:0000019a-4fbe-da6f-a59a-dfbfe8270000</guid>
+    </item>    <item>
       <title>Voters go to the polls on Proposition 50. Why it matters and what to know</title>
       <link>https://laist.com/news/politics/voters-go-to-the-polls-on-proposition-50</link>
       <description>

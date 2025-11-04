@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>04 Nov 25 06:10 -0800</lastBuildDate>
+    <lastBuildDate>04 Nov 25 10:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,206 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://electrek.co/2025/11/04/fords-30000-evs-right-around-corner/</link>
+      <description>
+        <![CDATA[<p>Ford's $30,000 EVs are right around the corner.</p>]]>
+      </description>
+      <source:markdown>Ford&#39;s $30,000 EVs are right around the corner.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/04/1805/</guid>
+    </item>    <item>
+      <title>CBP Quietly Launches Face Scanning App for Local Cops To Do Immigration Enforcement</title>
+      <link>https://www.404media.co/cbp-quietly-launches-face-scanning-app-for-local-cops-to-do-immigration-enforcement/</link>
+      <description>
+        <![CDATA[The app, called Mobile Identify and available on the Google Play Store, is specifically for local and regional law enforcement agencies working with ICE on immigration enforcement.]]>
+      </description>
+      <source:markdown>The app, called Mobile Identify and available on the Google Play Store, is specifically for local and regional law enforcement agencies working with ICE on immigration enforcement.</source:markdown>
+      <guid>cid://690a2b2416a23c00019d20e6</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m4t25242tk24</link>
+      <description>
+        <![CDATA[Thread 👇
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>Thread 👇
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m4t25242tk24</guid>
+    </item>    <item>
+      <title>&#38;#8220;Originally released in 1982, the Vectrex was a truly unique console, featuring...</title>
+      <link>https://kottke.org/25/11/0047779-originally-released-in-19</link>
+      <guid>cid://tag:kottke.org,2025://13.47779</guid>
+    </item>    <item>
+      <title>Game on! Penguin levels up as Linux finally cracks 3% on Steam</title>
+      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/11/04/steam_on_linux_numbers_up/</link>
+      <description>
+        <![CDATA[<h4>Only a point up in a year, but that’s a 50% leap for Linux gamers</h4>
+              <p>The latest edition of Valve&#39;s monthly Steam Hardware &amp; Software Survey is out, showing a rise in Steam usage on Linux. Penguin likes to play!</p>]]>
+      </description>
+      <source:markdown>#### Only a point up in a year, but that’s a 50% leap for Linux gamers
+
+The latest edition of Valve&#39;s monthly Steam Hardware &#38; Software Survey is out, showing a rise in Steam usage on Linux. Penguin likes to play!</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242836</guid>
+    </item>    <item>
+      <link>https://www.theatlantic.com/technology/2025/11/common-crawl-ai-training-data/684567/?gift=f35zZN0v_gDFE8xNwlQAHXUKBNl8LFDJLKtEWhor1_4&#38;utm_source=copy-link&#38;utm_medium=social&#38;utm_campaign=share</link>
+      <description>
+        <![CDATA[<p>Common Crawl Is Doing the AI Industry’s Dirty Work.</p>]]>
+      </description>
+      <source:markdown>Common Crawl Is Doing the AI Industry’s Dirty Work.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/04/1803/</guid>
+    </item>    <item>
+      <link>https://www.theatlantic.com/ideas/2025/11/understanding-dick-cheney/684809/?gift=f35zZN0v_gDFE8xNwlQAHb2dT77AZgYbKI7Ea-V2HxU&#38;utm_source=copy-link&#38;utm_medium=social&#38;utm_campaign=share</link>
+      <description>
+        <![CDATA[<p>David Frum: There Was Only One Dick Cheney.</p>]]>
+      </description>
+      <source:markdown>David Frum: There Was Only One Dick Cheney.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/04/1801/</guid>
+    </item>    <item>
+      <link>https://www.newyorker.com/magazine/2025/11/03/inside-the-data-centers-that-train-ai-and-drain-the-electrical-grid</link>
+      <description>
+        <![CDATA[<p>Inside the Data Centers That Train A.I. and Drain the Electrical Grid.</p>]]>
+      </description>
+      <source:markdown>Inside the Data Centers That Train A.I. and Drain the Electrical Grid.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/04/1799/</guid>
+    </item>    <item>
+      <title>MCP Colors: Systematically deal with prompt injection risk</title>
+      <link>https://simonwillison.net/2025/Nov/4/mcp-colors/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://timkellogg.me/blog/2025/11/03/colors">MCP Colors: Systematically deal with prompt injection risk</a></strong></p>
+        Tim Kellogg proposes a neat way to think about prompt injection, especially with respect to MCP tools.</p>
+        <p>Classify every tool with a color: red if it exposes the agent to untrusted (potentially malicious) instructions, blue if it involves a "critical action" - something you would not want an attacker to be able to trigger.</p>
+        <p>This means you can configure your agent to actively avoid mixing the two colors at once:</p>
+        <blockquote>
+        <p>The Chore: Go label every data input, and <strong>every tool</strong> (especially MCP tools). For MCP tools &amp; resources, you can use the _meta object to keep track of the color. The agent can decide at runtime (or earlier) if it’s gotten into an unsafe state.</p>
+        <p>Personally, I like to automate. I needed to label ~200 tools, so I put them in a spreadsheet and used an LLM to label them. That way, I could focus on being <strong>precise and clear</strong> about my criteria for what constitutes “red”, “blue” or “neither”. That way I ended up with an artifact that scales beyond my initial set of tools.</p>
+        </blockquote>
+        
+            <p><small></small>Via <a href="https://bsky.app/profile/timkellogg.me/post/3m4ridhi3ps25">@timkellogg.me</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>]]>
+      </description>
+      <source:markdown>**[MCP Colors: Systematically deal with prompt injection risk](https://timkellogg.me/blog/2025/11/03/colors)**
+
+Tim Kellogg proposes a neat way to think about prompt injection, especially with respect to MCP tools.
+
+Classify every tool with a color: red if it exposes the agent to untrusted (potentially malicious) instructions, blue if it involves a &#34;critical action&#34; - something you would not want an attacker to be able to trigger.
+
+This means you can configure your agent to actively avoid mixing the two colors at once:
+
+&#62; The Chore: Go label every data input, and **every tool** (especially MCP tools). For MCP tools &#38; resources, you can use the \_meta object to keep track of the color. The agent can decide at runtime (or earlier) if it’s gotten into an unsafe state.
+&#62;
+&#62; Personally, I like to automate. I needed to label ~200 tools, so I put them in a spreadsheet and used an LLM to label them. That way, I could focus on being **precise and clear** about my criteria for what constitutes “red”, “blue” or “neither”. That way I ended up with an artifact that scales beyond my initial set of tools.
+
+Via [@timkellogg.me](https://bsky.app/profile/timkellogg.me/post/3m4ridhi3ps25)
+
+Tags: [security](https://simonwillison.net/tags/security), [ai](https://simonwillison.net/tags/ai), [prompt-injection](https://simonwillison.net/tags/prompt-injection), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/4/mcp-colors/#atom-everything</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m4sxnj637k23</link>
+      <description>
+        <![CDATA[If nothing else, the last nine months should have made it clear that elections matter. But what’s remarkable about America is that we have the power, as citizens, to change this country by voting. Go to IWillVote.com.]]>
+      </description>
+      <source:markdown>If nothing else, the last nine months should have made it clear that elections matter. But what’s remarkable about America is that we have the power, as citizens, to change this country by voting. Go to IWillVote.com.</source:markdown>
+      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m4sxnj637k23</guid>
+    </item>    <item>
+      <title>cubic blog: The real problem with AI coding</title>
+      <link>https://www.cubic.dev/blog/the-real-problem-with-ai-coding</link>
+      <description>
+        <![CDATA[<blockquote>
+          <p>Can you ship AI-generated code without creating a maintenance nightmare six months from now? Can you debug it when it breaks? Can you modify it when requirements change? Can you onboard new engineers to a codebase they didn&#8217;t write and the AI barely explained?</p>
+          
+          <p>Most teams haven&#8217;t realized this shift yet. They&#8217;re optimizing for code generation speed while comprehension debt silently accumulates in their repos.</p>
+          
+          <p>One team I talked to spent 3 days fixing what should have been a 2-hour problem. They had &#8220;saved&#8221; time by having AI generate the initial implementation. But when it broke, they lost 70 hours trying to understand code they had never built themselves.</p>
+          
+          <p>That&#8217;s comprehension debt compounding. The time you save upfront gets charged back with interest later.</p>
+        </blockquote>
+        
+        <p><a href="https://adactio.com/links/22230">adactio.com/links/22230</a></p>]]>
+      </description>
+      <source:markdown>&#62; Can you ship AI-generated code without creating a maintenance nightmare six months from now? Can you debug it when it breaks? Can you modify it when requirements change? Can you onboard new engineers to a codebase they didn’t write and the AI barely explained?
+&#62;
+&#62; Most teams haven’t realized this shift yet. They’re optimizing for code generation speed while comprehension debt silently accumulates in their repos.
+&#62;
+&#62; One team I talked to spent 3 days fixing what should have been a 2-hour problem. They had “saved” time by having AI generate the initial implementation. But when it broke, they lost 70 hours trying to understand code they had never built themselves.
+&#62;
+&#62; That’s comprehension debt compounding. The time you save upfront gets charged back with interest later.
+
+[adactio.com/links/22230](https://adactio.com/links/22230)</source:markdown>
+      <guid>cid://https://www.cubic.dev/blog/the-real-problem-with-ai-coding</guid>
+    </item>    <item>
+      <title>Announcing UX London 2026</title>
+      <link>https://adactio.com/journal/22229</link>
+      <description>
+        <![CDATA[<p><a href="https://2026.uxlondon.com/">UX London will be back in 2026</a>. It’s on June 2nd, 3rd, and 4th:</p>
+        
+        <blockquote>
+          <p>Each day features a morning packed with inspiring talks followed by an afternoon of practical hands-on workshops. It’s the perfect blend!</p>
+        </blockquote>
+        
+        <p>As with last year, each day will be themed:</p>
+        
+        <ul>
+        <li>2 June 2026: discovery day</li>
+        <li>3 June 2026: design day</li>
+        <li>4 June 2026: delivery day</li>
+        </ul>
+        
+        <p>You can come for a single day, but for best value, you should come for all three days.</p>
+        
+        <p>I’m starting to put the line-up together now—hoping to match the excellence of last year’s event—and I’ll start announcing speakers early in the new year.</p>
+        
+        <p>But if you trust me, then I highly recommend <a href="https://ti.to/clearleft/ux-london-2026">getting a super-early bird ticket</a> now. They’ll only be available for another couple of weeks. You get a significant discount if you buy now.</p>
+        
+        <p>Oh, and while I’m in the process of putting the line-up together, you should know that <a href="https://forms.gle/5jvTr7pjy56Fp9zy6">you can submit a talk or workshop proposal</a>:</p>
+        
+        <blockquote>
+          <p>We always pay ALL our speakers for their time as well as covering the cost of accommodation and economy travel.</p>
+        </blockquote>
+        
+        <p>Don’t be shy! Pitch early, pitch often.</p>
+        
+        <p>(That said, I wouldn’t recommend pitching a talk that focuses on “AI”. It’s not just that the bubble will probably have burst by the time UX London rolls around, it’s also that UX London doesn’t tend to focus on tools, whether they’re graphic design tools like Figma or generative tools like whatever people are using to turbo-charge their output of slop. If you’ve got a case study you want to talk about that happened to use some “AI” tool, great! But don’t make that the focus of the talk. Tell me about the problem and the solution.)</p>]]>
+      </description>
+      <source:markdown>[UX London will be back in 2026](https://2026.uxlondon.com/). It’s on June 2nd, 3rd, and 4th:
+
+&#62; Each day features a morning packed with inspiring talks followed by an afternoon of practical hands-on workshops. It’s the perfect blend!
+
+As with last year, each day will be themed:
+
+- 2 June 2026: discovery day
+- 3 June 2026: design day
+- 4 June 2026: delivery day
+
+You can come for a single day, but for best value, you should come for all three days.
+
+I’m starting to put the line-up together now—hoping to match the excellence of last year’s event—and I’ll start announcing speakers early in the new year.
+
+But if you trust me, then I highly recommend [getting a super-early bird ticket](https://ti.to/clearleft/ux-london-2026) now. They’ll only be available for another couple of weeks. You get a significant discount if you buy now.
+
+Oh, and while I’m in the process of putting the line-up together, you should know that [you can submit a talk or workshop proposal](https://forms.gle/5jvTr7pjy56Fp9zy6):
+
+&#62; We always pay ALL our speakers for their time as well as covering the cost of accommodation and economy travel.
+
+Don’t be shy! Pitch early, pitch often.
+
+(That said, I wouldn’t recommend pitching a talk that focuses on “AI”. It’s not just that the bubble will probably have burst by the time UX London rolls around, it’s also that UX London doesn’t tend to focus on tools, whether they’re graphic design tools like Figma or generative tools like whatever people are using to turbo-charge their output of slop. If you’ve got a case study you want to talk about that happened to use some “AI” tool, great! But don’t make that the focus of the talk. Tell me about the problem and the solution.)</source:markdown>
+      <guid>cid://https://adactio.com/journal/22229</guid>
+    </item>    <item>
+      <title>Yes! Today is Election Day for Many Cities and States Across the Country!</title>
+      <link>https://www.michaelmoore.com/p/elections-today</link>
+      <description>
+        <![CDATA[Good morning fellow Americans in California, New York, New Jersey, Texas, Colorado, Pennsylvania, Georgia, Maine, Ohio, Michigan and others!]]>
+      </description>
+      <source:markdown>Good morning fellow Americans in California, New York, New Jersey, Texas, Colorado, Pennsylvania, Georgia, Maine, Ohio, Michigan and others!</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!CHXz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F179c34be-3a52-4b86-b9d6-64bccbae44a1_5000x2618.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.michaelmoore.com/p/elections-today</guid>
+    </item>    <item>
+      <title>Thanks to Great Wave Today, I was able to see an original...</title>
+      <link>https://kottke.org/25/11/0047781-thanks-to-great-wave-toda</link>
+      <guid>cid://tag:kottke.org,2025://13.47781</guid>
     </item>    <item>
       <title>How to Opt-Out of Airlines Selling Your Travel Data to the Government</title>
       <link>https://www.404media.co/how-to-opt-out-of-airlines-selling-your-travel-data-to-the-government/</link>
@@ -1175,7 +1375,7 @@ Looking back at my precursor blog post from earlier this year, I’m amazed at h
       </description>
       <source:markdown>Embed your favorite analytics on your homepage</source:markdown>
     </item>    <item>
-      <title>Octopus Think</title>
+      <title>How Octopus Think uses Buttondown</title>
       <link>https://buttondown.com/blog/octopus-think</link>
       <description>
         <![CDATA[Octopus Think creators, Sarah and Matt, use Buttondown to connect with customers, share updates about their apps, and other projects they are working on.]]>

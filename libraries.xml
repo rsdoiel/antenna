@@ -4,10 +4,21 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>04 Nov 25 06:10 -0800</lastBuildDate>
+    <lastBuildDate>04 Nov 25 10:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Liberal Arts in Challenging Times</title>
+      <link>https://sr.ithaka.org/blog/the-liberal-arts-in-challenging-times/</link>
+      <description>
+        <![CDATA[<p>Last month, I had the opportunity to take part in “The Liberal Arts in Challenging Times,” a webinar that explored the value of a liberal arts and sciences education and strategies for strengthening it across the higher education sector. As part of the session, I highlighted key findings from our recent report, Measuring the Economic [&#8230;]</p>
+        <p>The post <a href="https://sr.ithaka.org/blog/the-liberal-arts-in-challenging-times/">The Liberal Arts in Challenging Times</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
+      </description>
+      <source:markdown>Last month, I had the opportunity to take part in “The Liberal Arts in Challenging Times,” a webinar that explored the value of a liberal arts and sciences education and strategies for strengthening it across the higher education sector. As part of the session, I highlighted key findings from our recent report, Measuring the Economic \[…\]
+
+The post [The Liberal Arts in Challenging Times](https://sr.ithaka.org/blog/the-liberal-arts-in-challenging-times/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
+      <guid>cid://https://sr.ithaka.org/?p=323919</guid>
+    </item>    <item>
       <title>Manuscript Submissions Are Up! That’s Good, Right?</title>
       <link>https://scholarlykitchen.sspnet.org/2025/11/04/manuscript-submissions-are-up-thats-good-right/</link>
       <description>
@@ -18,6 +29,65 @@
 
 The post [Manuscript Submissions Are Up! That’s Good, Right?](https://scholarlykitchen.sspnet.org/2025/11/04/manuscript-submissions-are-up-thats-good-right/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=61183</guid>
+    </item>    <item>
+      <title>Celebrating Noyam Journals’ Metadata Award</title>
+      <link>https://www.crossref.org/blog/celebrating-noyam-journals-metadata-award/</link>
+      <description>
+        <![CDATA[<p><a href="https://noyam.org/" target="_blank">Noyam Journals</a>, based in Accra, Ghana, was recently recognised for the completeness of its metadata through the <a href="https://www.crossref.org/blog/crossref-metadata-awards/" target="_blank">Crossref Metadata Award</a>, part of our 25th anniversary celebrations. Noyam was one of six publishers worldwide to receive the award and stood out as a leader among members of our <a href="https://www.crossref.org/gem/" target="_blank">Global Equitable Membership</a> (GEM) Program.</p>
+        <p>The GEM Program supports publishers and organisations in low- and middle-income countries to participate in the global scholarly community by reducing barriers to membership and services.</p>
+        <p>Earlier this year, at our <a href="https://www.crossref.org/blog/reflections-from-crossref-accra-2025-strengthening-open-science-and-partnerships-in-ghana/" target="_blank">Crossref Accra event</a>, representatives from Noyam spoke about how registering metadata with Crossref has expanded their readership worldwide. They also encouraged other publishers and institutions in Africa to utilise Crossref’s infrastructure to enhance the visibility and impact of their work.</p>
+        <p>Following their award, we spoke with Naa Kai Amanor-Mfoafo from Noyam Journals about their approach to metadata quality. She shares her reflections in the Q&amp;A below.</p>
+        <h2 id="what-motivates-your-team-to-work-towards-high-quality-metadata">What motivates your team to work towards high-quality metadata?</h2>
+        <p>Our commitment towards high-quality metadata stems from our organisational goal to promote the dissemination of usable knowledge by publishing innovative and high-quality research content. Over the last five years, registering our metadata with Crossref has strengtheed authors&rsquo; trust as their institutions can verify quality through tools like Crossmark. For instance, many institutions use the Crossmark feature on our published articles to access the latest information about a scholarly article, including updates, corrections, or retractions.</p>
+        <h2 id="do-you-have-a-strategy-for-complete-metadata">Do you have a strategy for complete metadata?</h2>
+        <p>We prioritise inclusion of ORCID IDs, Abstracts, and References as these increase visibility of our articles. We also include Affiliations, Licenses, and Crossmark, and we use Similarity Check to help ensure research integrity.</p>
+        <p>As part of our team structure, we have a dedicated staff member responsible for ensuring that every article is assigned a Crossref DOI on the same day it is published online. Our in-house system supports this process, allowing us to capture and register all the key metadata efficiently.</p>
+        <h2 id="what-impact-of-good-metadata-can-you-see-on-your-organisation">What impact of good metadata can you see on your organisation?</h2>
+        <p>Good metadata has made a real difference for our organisation. It has helped increase the visibility and discoverability of our journal articles, making it easier for researchers and readers around the world to find and cite our work. We’ve noticed more engagement with our publications since improving our metadata, which encourages us to keep strengthening the quality of the information we register.</p>
+        <h2 id="have-you-encountered-any-challenges-in-curating-or-improving-your-metadata-and-how-did-you-address-those">Have you encountered any challenges in curating or improving your metadata, and how did you address those?</h2>
+        <p>One major challenge we’ve faced is discovering errors in previously uploaded metadata, and we haven’t yet established a systematic process for correcting them. We’re currently working to improve our workflow to help ensure the correctness of our metadata to follow Crossref’s recommended best practices.</p>
+        <h2 id="have-your-efforts-around-metadata-led-to-real-benefits-for-your-community">Have your efforts around metadata led to real benefits for your community?</h2>
+        <p>Our authors appreciate the fact that their ORCID profiles are automatically updated with their published articles once they are assigned DOIs from Crossref. They are, of course, also enjoying increased visibility of our published articles globally.</p>
+        <h2 id="looking-ahead-how-are-you-planning-to-build-on-your-metadata-quality">Looking ahead, how are you planning to build on your metadata quality?</h2>
+        <p>We need to stay informed about developments at Crossref. Once in a while, we visit the Crossref website or participate in a webinar to stay informed. For example, a few months ago, we got to know that a new record registration form had been initiated for metadata uploads through the documentation section on the Crossref website.</p>
+        <p>We advise others who are new to Crossref to focus on consistency. Ensure your organisational system includes staff dedicated to keeping your metadata up to date. Secondly, feel free to seek technical support from the Crossref team when the need arises.</p>]]>
+      </description>
+      <source:markdown>[Noyam Journals](https://noyam.org/), based in Accra, Ghana, was recently recognised for the completeness of its metadata through the [Crossref Metadata Award](https://www.crossref.org/blog/crossref-metadata-awards/), part of our 25th anniversary celebrations. Noyam was one of six publishers worldwide to receive the award and stood out as a leader among members of our [Global Equitable Membership](https://www.crossref.org/gem/) (GEM) Program.
+
+The GEM Program supports publishers and organisations in low- and middle-income countries to participate in the global scholarly community by reducing barriers to membership and services.
+
+Earlier this year, at our [Crossref Accra event](https://www.crossref.org/blog/reflections-from-crossref-accra-2025-strengthening-open-science-and-partnerships-in-ghana/), representatives from Noyam spoke about how registering metadata with Crossref has expanded their readership worldwide. They also encouraged other publishers and institutions in Africa to utilise Crossref’s infrastructure to enhance the visibility and impact of their work.
+
+Following their award, we spoke with Naa Kai Amanor-Mfoafo from Noyam Journals about their approach to metadata quality. She shares her reflections in the Q&#38;A below.
+
+## What motivates your team to work towards high-quality metadata?
+
+Our commitment towards high-quality metadata stems from our organisational goal to promote the dissemination of usable knowledge by publishing innovative and high-quality research content. Over the last five years, registering our metadata with Crossref has strengtheed authors’ trust as their institutions can verify quality through tools like Crossmark. For instance, many institutions use the Crossmark feature on our published articles to access the latest information about a scholarly article, including updates, corrections, or retractions.
+
+## Do you have a strategy for complete metadata?
+
+We prioritise inclusion of ORCID IDs, Abstracts, and References as these increase visibility of our articles. We also include Affiliations, Licenses, and Crossmark, and we use Similarity Check to help ensure research integrity.
+
+As part of our team structure, we have a dedicated staff member responsible for ensuring that every article is assigned a Crossref DOI on the same day it is published online. Our in-house system supports this process, allowing us to capture and register all the key metadata efficiently.
+
+## What impact of good metadata can you see on your organisation?
+
+Good metadata has made a real difference for our organisation. It has helped increase the visibility and discoverability of our journal articles, making it easier for researchers and readers around the world to find and cite our work. We’ve noticed more engagement with our publications since improving our metadata, which encourages us to keep strengthening the quality of the information we register.
+
+## Have you encountered any challenges in curating or improving your metadata, and how did you address those?
+
+One major challenge we’ve faced is discovering errors in previously uploaded metadata, and we haven’t yet established a systematic process for correcting them. We’re currently working to improve our workflow to help ensure the correctness of our metadata to follow Crossref’s recommended best practices.
+
+## Have your efforts around metadata led to real benefits for your community?
+
+Our authors appreciate the fact that their ORCID profiles are automatically updated with their published articles once they are assigned DOIs from Crossref. They are, of course, also enjoying increased visibility of our published articles globally.
+
+## Looking ahead, how are you planning to build on your metadata quality?
+
+We need to stay informed about developments at Crossref. Once in a while, we visit the Crossref website or participate in a webinar to stay informed. For example, a few months ago, we got to know that a new record registration form had been initiated for metadata uploads through the documentation section on the Crossref website.
+
+We advise others who are new to Crossref to focus on consistency. Ensure your organisational system includes staff dedicated to keeping your metadata up to date. Secondly, feel free to seek technical support from the Crossref team when the need arises.</source:markdown>
+      <guid>cid://https://www.crossref.org/blog/celebrating-noyam-journals-metadata-award/</guid>
     </item>    <item>
       <title>Supervisor Connie Chan Recognizes ‘Internet Archive Day’ in San Francisco</title>
       <link>https://blog.archive.org/2025/11/03/supervisor-connie-chan-recognizes-internet-archive-day-in-san-francisco/</link>
