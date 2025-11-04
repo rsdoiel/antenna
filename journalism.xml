@@ -4,10 +4,14 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>04 Nov 25 10:09 -0800</lastBuildDate>
+    <lastBuildDate>04 Nov 25 14:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Mid-Quarter Flu</title>
+      <link>https://dailybruin.com/2025/11/04/the-mid-quarter-flu/</link>
+      <guid>cid://https://dailybruin.com/?p=496413</guid>
+    </item>    <item>
       <title>In Philadelphia, a young nonprofit buys a century-old magazine</title>
       <link>https://www.niemanlab.org/2025/11/in-philadelphia-a-young-nonprofit-buys-a-century-old-magazine/</link>
       <description>
@@ -48,9 +52,9 @@ The post [‘Jeepers Creepers’ Valencia’s Halloween Run: ghosts were runners
       <title>LIVE: Special Election 2025</title>
       <link>https://sundial.csun.edu/199620/news/live-special-election-2025/</link>
       <description>
-        <![CDATA[Nov. 4 8:15 a.m.,Volunteers lead the room in applause, Taylor Parise Social worker Walid Javis entered the election center with the goal of being a more active participant of democracy. ...]]>
+        <![CDATA[Nov. 4 1 p.m., Counted advance ballots, Jaya Roberts More than 6,800,000 advance ballots have been counted prior to Election Day, as reported by PBS. This amounts to around 17.2%...]]>
       </description>
-      <source:markdown>Nov. 4 8:15 a.m.,Volunteers lead the room in applause, Taylor Parise Social worker Walid Javis entered the election center with the goal of being a more active participant of democracy. ...</source:markdown>
+      <source:markdown>Nov. 4 1 p.m., Counted advance ballots, Jaya Roberts More than 6,800,000 advance ballots have been counted prior to Election Day, as reported by PBS. This amounts to around 17.2%...</source:markdown>
       <guid>cid://https://sundial.csun.edu/?p=199620</guid>
     </item>    <item>
       <title>Put down the holiday playlist</title>
@@ -176,10 +180,12 @@ The senior guard averaged 20.4 points and 6.4 assists per game at New Mexico las
       <title>Yeh Lab researches Dark-eyed Juncos, adaptation to urban environments</title>
       <link>https://dailybruin.com/2025/11/03/yeh-lab-researches-dark-eyed-juncos-adaptation-to-urban-environments/</link>
       <description>
-        <![CDATA[Most people would not think twice about seeing a bird on UCLA&#8217;s campus.
+        <![CDATA[<em>This post was updated Nov. 4 at 11:44 a.m.</em>
+        Most people would not think twice about seeing a bird on UCLA’s campus.
         However, for researchers in the Yeh Lab, many of the birds are anything but ordinary.]]>
       </description>
-      <source:markdown>Most people would not think twice about seeing a bird on UCLA’s campus.
+      <source:markdown>_This post was updated Nov. 4 at 11:44 a.m._
+Most people would not think twice about seeing a bird on UCLA’s campus.
 However, for researchers in the Yeh Lab, many of the birds are anything but ordinary.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=496378</guid>
     </item>    <item>

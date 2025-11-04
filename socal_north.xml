@@ -7,10 +7,53 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>04 Nov 25 10:09 -0800</lastBuildDate>
+    <lastBuildDate>04 Nov 25 14:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Explore the Circle of Life at the Santa Clarita Public Library Valencia Branch</title>
+      <link>https://santaclarita.gov/blog/2025/11/04/explore-the-circle-of-life-at-the-santa-clarita-public-library-valencia-branch/</link>
+      <description>
+        <![CDATA[<p>The City of Santa Clarita is pleased to present “Circle of Life,” a solo photography exhibition by Jayme Sun Thomas, on view at the Santa Clarita Public Library Valencia Branch (23743 Valencia Boulevard), now through Wednesday, January 28, 2026. This exhibition captures the beauty, behavior and diversity of wildlife through an intimate lens, inviting viewers [&#8230;]</p>
+        <p>The post <a href="https://santaclarita.gov/blog/2025/11/04/explore-the-circle-of-life-at-the-santa-clarita-public-library-valencia-branch/">Explore the Circle of Life at the Santa Clarita Public Library Valencia Branch</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
+      </description>
+      <source:markdown>The City of Santa Clarita is pleased to present “Circle of Life,” a solo photography exhibition by Jayme Sun Thomas, on view at the Santa Clarita Public Library Valencia Branch (23743 Valencia Boulevard), now through Wednesday, January 28, 2026. This exhibition captures the beauty, behavior and diversity of wildlife through an intimate lens, inviting viewers \[…\]
+
+The post [Explore the Circle of Life at the Santa Clarita Public Library Valencia Branch](https://santaclarita.gov/blog/2025/11/04/explore-the-circle-of-life-at-the-santa-clarita-public-library-valencia-branch/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
+      <guid>cid://https://santaclarita.gov/?p=7032</guid>
+    </item>    <item>
+      <title>How much crime was there during the Palisades Fire? New report has numbers</title>
+      <link>https://laist.com/news/criminal-justice/palisades-fire-lapd-report-crime-numbers</link>
+      <description>
+        <![CDATA[An LAPD after-action report lists arrests and reports of crime, and also documents and makes recommendations on the department’s challenges in responding to the disaster.]]>
+      </description>
+      <source:markdown>An LAPD after-action report lists arrests and reports of crime, and also documents and makes recommendations on the department’s challenges in responding to the disaster.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-508d-de73-abba-d7ade5460000</guid>
+    </item>    <item>
+      <title>California faces limits as it directs health facilities to push back on immigration raids</title>
+      <link>https://laist.com/news/health/california-faces-limits-as-it-directs-health-facilities-to-push-back-on-immigration-raids</link>
+      <description>
+        <![CDATA[California now has a law requiring hospitals and clinics to improve patient privacy and have clear protocols for handling requests by immigration agents.]]>
+      </description>
+      <source:markdown>California now has a law requiring hospitals and clinics to improve patient privacy and have clear protocols for handling requests by immigration agents.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-500f-d2bc-a9df-73af05090000</guid>
+    </item>    <item>
+      <title>Malibu officials approve state-funded project that Caltrans says will make PCH safer</title>
+      <link>https://laist.com/news/transportation/malibu-officials-approve-caltrans-pch</link>
+      <description>
+        <![CDATA[The project, involving $53 million in construction costs, includes controversial plans to install sidewalks, streetlights and bike lanes.]]>
+      </description>
+      <source:markdown>The project, involving $53 million in construction costs, includes controversial plans to install sidewalks, streetlights and bike lanes.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5029-db04-a1db-daaf2b860000</guid>
+    </item>    <item>
+      <title>Educators rally for release of LA student held in immigration detention for three months</title>
+      <link>https://laist.com/news/education/educators-rally-los-angeles-reseda-high-school-student-immigration-detention-benjamin-marcelo-guerrero-cruz</link>
+      <description>
+        <![CDATA[The Reseda high schooler has been in federal immigration detention since August.]]>
+      </description>
+      <source:markdown>The Reseda high schooler has been in federal immigration detention since August.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-4b7f-d6cf-a9ff-6b7fd00a0000</guid>
+    </item>    <item>
       <title>California quietly kills electric bike vouchers, sending money to EV incentives instead</title>
       <link>https://laist.com/news/climate-environment/california-quietly-kills-electric-bike-vouchers-sending-money-to-ev-incentives-instead</link>
       <description>
@@ -19,6 +62,14 @@
       <source:markdown>The California Air Resources Board gave no public announcement but confirmed that it has redirected the e-bike program’s funds as “a recent outcome of legislative direction.”</source:markdown>
       <guid>cid://urn:uuid:0000019a-4fbe-da6f-a59a-dfbfe8270000</guid>
     </item>    <item>
+      <title>Child-care providers struggle to start over in areas burned by LA fires</title>
+      <link>https://laist.com/news/education/early-childhood-education-pre-k/altadena-eaton-fire-home-childcare-reopen-struggles</link>
+      <description>
+        <![CDATA[For family childcare providers who ran their daycares out their homes, it’s been hard to open back up months after the fire since they remain displaced.]]>
+      </description>
+      <source:markdown>For family childcare providers who ran their daycares out their homes, it’s been hard to open back up months after the fire since they remain displaced.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-4bf7-d84d-affa-cfffc20f0000</guid>
+    </item>    <item>
       <title>Voters go to the polls on Proposition 50. Why it matters and what to know</title>
       <link>https://laist.com/news/politics/voters-go-to-the-polls-on-proposition-50</link>
       <description>
@@ -26,14 +77,6 @@
       </description>
       <source:markdown>The closely watched election could influence which political party controls the House of Representatives after next year&#39;s midterms.</source:markdown>
       <guid>cid://urn:uuid:0000019a-4c4f-d6cf-a9ff-6d6f7f080000</guid>
-    </item>    <item>
-      <title>Out of a job and a home: Altadena childcare providers still struggle to reopen</title>
-      <link>https://laist.com/news/education/early-childhood-education-pre-k/altadena-eaton-fire-home-childcare-reopen-struggles</link>
-      <description>
-        <![CDATA[For family childcare providers who ran their daycares out their homes, it’s been hard to open back up months after the fire since they remain displaced.]]>
-      </description>
-      <source:markdown>For family childcare providers who ran their daycares out their homes, it’s been hard to open back up months after the fire since they remain displaced.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-4bf7-d84d-affa-cfffc20f0000</guid>
     </item>    <item>
       <title>From California to NYC: 4 races to watch this Election Day</title>
       <link>https://laist.com/news/politics/from-california-to-nyc-4-races-to-watch-this-election-day</link>

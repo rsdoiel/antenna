@@ -239,7 +239,7 @@ description: Blogs, columns and snapshots from around the web.
 - [Maurice Parker](https://vincode.io/feed.xml)
 - [Web Recorder](https://webrecorder.net/feed.xml)
 - [WoLpH blog](https://w.wol.ph/feed/)
-- [404 Media Group](https://www.404media.co/rss/)
+- 404 Media Group <https://www.404media.co/rss/>, paywalled
 - [Marc André Tanner blog (creator of vis editor)](https://www.brain-dump.org/index.xml)
 - [Brett Brecker Blog (CS Prof. UCD Dublin)](https://www.brettbecker.com/feed/)
 - [Bunnie's Studio Blog](https://www.bunniestudios.com/blog/feed/)

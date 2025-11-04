@@ -3,9 +3,9 @@
 <head>
   <meta charset="utf-8" >
   <meta name="generator" content="antenna/0.0.15" >
-  <meta name="date" content="2025-11-04T10:09:33-08:00" >
-  <link href="css/site.css" rel="stylesheet" >
-  <link rel="alternate" type="application/rss+xml" href="columns.xml" >
+  <meta content="2025-11-04T14:11:03-08:00" name="date" >
+  <link rel="stylesheet" href="css/site.css" >
+  <link href="columns.xml" rel="alternate" type="application/rss+xml" >
   <script type="module" src="modules/date_filter.js" ></script>
 </head>
 <body>
@@ -54,6 +54,408 @@
 
       <address>
         <a href="https://notes.peter-baumgartner.net/event/example/">https://notes.peter-baumgartner.net/event/example/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T21:59:34Z" data-link="https://kottke.org/25/11/0047775-stone-simulator-is-a-medi">
+      <h1> &#8220;Stone Simulator is a meditative idle game where you live as a... </h1>
+
+(date: 2025-11-04)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/11/0047775-stone-simulator-is-a-medi">https://kottke.org/25/11/0047775-stone-simulator-is-a-medi</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T21:56:46Z" data-link="https://heathercoxrichardson.substack.com/p/november-3-2025-6a0">
+      <h1>November 3, 2025</h1>
+
+(date: 2025-11-04)
+      <p>
+      
+      <address>
+        <a href="https://heathercoxrichardson.substack.com/p/november-3-2025-6a0">https://heathercoxrichardson.substack.com/p/november-3-2025-6a0</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T21:51:58Z" data-link="https://lithub.com/free-ip-ideal-candidates-for-the-next-richard-linklater-biopic/">
+      <h1>Free IP! Ideal candidates for the next Richard Linklater biopic.</h1>
+
+(date: 2025-11-04)
+      <p>
+      <p>The Texas filmmaker Richard Linklater has built much of his legacy on homage. His love runs deep, but narrow. He cares especially for the layabouts, the cranks, and the iconoclasts. From masquerading hit-men to opportunistic funeral directors, from Orson Welles</p>
+
+      <address>
+        <a href="https://lithub.com/free-ip-ideal-candidates-for-the-next-richard-linklater-biopic/">https://lithub.com/free-ip-ideal-candidates-for-the-next-richard-linklater-biopic/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T21:34:42Z" data-link="https://simonwillison.net/2025/Nov/4/datasette-10a20/#atom-everything">
+      <h1>A new SQL-powered permissions system in Datasette 1.0a20</h1>
+
+(date: 2025-11-04)
+      <p>
+      <p><a href="https://docs.datasette.io/en/latest/changelog.html#a20-2025-11-03">Datasette 1.0a20 is out</a> with the biggest breaking API change on the road to 1.0, improving how Datasette's permissions system works by migrating permission logic to SQL running in SQLite. This release involved <a href="https://github.com/simonw/datasette/compare/1.0a19...1.0a20">163 commits</a>, with 10,660 additions and 1,825 deletions, most of which was written with the help of Claude Code.</p>
+<ul>
+<li><a href="https://simonwillison.net/2025/Nov/4/datasette-10a20/#understanding-the-permissions-system">Understanding the permissions system</a></li>
+<li><a href="https://simonwillison.net/2025/Nov/4/datasette-10a20/#permissions-systems-need-to-be-able-to-efficiently-list-things">Permissions systems need to be able to efficiently list things</a></li>
+<li><a href="https://simonwillison.net/2025/Nov/4/datasette-10a20/#the-new-permission-resources-sql-plugin-hook">The new permission_resources_sql() plugin hook</a></li>
+<li><a href="https://simonwillison.net/2025/Nov/4/datasette-10a20/#hierarchies-plugins-vetoes-and-restrictions">Hierarchies, plugins, vetoes, and restrictions</a></li>
+<li><a href="https://simonwillison.net/2025/Nov/4/datasette-10a20/#new-debugging-tools">New debugging tools</a></li>
+<li><a href="https://simonwillison.net/2025/Nov/4/datasette-10a20/#the-missing-feature-list-actors-who-can-act-on-this-resource">The missing feature: list actors who can act on this resource</a></li>
+<li><a href="https://simonwillison.net/2025/Nov/4/datasette-10a20/#upgrading-plugins-for-datasette-1-0a20">Upgrading plugins for Datasette 1.0a20</a></li>
+<li><a href="https://simonwillison.net/2025/Nov/4/datasette-10a20/#using-claude-code-to-implement-this-change">Using Claude Code to implement this change</a></li>
+<li><a href="https://simonwillison.net/2025/Nov/4/datasette-10a20/#starting-with-a-proof-of-concept">Starting with a proof-of-concept</a></li>
+<li><a href="https://simonwillison.net/2025/Nov/4/datasette-10a20/#miscellaneous-tips-i-picked-up-along-the-way">Miscellaneous tips I picked up along the way</a></li>
+<li><a href="https://simonwillison.net/2025/Nov/4/datasette-10a20/#what-s-next-">What's next?</a></li>
+</ul>
+<h4>Understanding the permissions system</h4>
+<p>Datasette's <a href="https://docs.datasette.io/en/latest/authentication.html">permissions system</a> exists to answer the following question:</p>
+<blockquote>
+<p>Is this <strong>actor</strong> allowed to perform this <strong>action</strong>, optionally against this particular <strong>resource</strong>?</p>
+</blockquote>
+<p>An <strong>actor</strong> is usually a user, but might also be an automation operating via the Datasette API.</p>
+<p>An <strong>action</strong> is a thing they need to do - things like view-table, execute-sql, insert-row.</p>
+<p>A <strong>resource</strong> is the subject of the action - the database you are executing SQL against, the table you want to insert a row into.</p>
+<p>Datasette's default configuration is public but read-only: anyone can view databases and tables or execute read-only SQL queries but no-one can modify data.</p>
+<p>Datasette plugins can enable all sorts of additional ways to interact with databases, many of which need to be protected by a form of authentication Datasette also 1.0 includes <a href="https://simonwillison.net/2022/Dec/2/datasette-write-api/">a write API</a> with a need to configure who can insert, update, and delete rows or create new tables.</p>
+<p>Actors can be authenticated in a number of different ways provided by plugins using the <a href="https://docs.datasette.io/en/latest/plugin_hooks.html#actor-from-request-datasette-request">actor_from_request()</a> plugin hook. <a href="https://datasette.io/plugins/datasette-auth-passwords">datasette-auth-passwords</a> and <a href="https://datasette.io/plugins/datasette-auth-github">datasette-auth-github</a> and <a href="https://datasette.io/plugins/datasette-auth-existing-cookies">datasette-auth-existing-cookies</a> are examples of authentication plugins.</p>
+<h4>Permissions systems need to be able to efficiently list things</h4>
+<p>The previous implementation included a design flaw common to permissions systems of this nature: each permission check involved a function call which would delegate to one or more plugins and return a True/False result.</p>
+<p>This works well for single checks, but has a significant problem: what if you need to show the user a list of things they can access, for example the tables they can view?</p>
+<p>I want Datasette to be able to handle potentially thousands of tables - tables in SQLite are cheap! I don't want to have to run 1,000+ permission checks just to show the user a list of tables.</p>
+<p>Since Datasette is built on top of SQLite we already have a powerful mechanism to help solve this problem. SQLite is <em>really</em> good at filtering large numbers of records.</p>
+<h4>The new permission_resources_sql() plugin hook</h4>
+<p>The biggest change in the new release is that I've replaced the previous <code>permission_allowed(actor, action, resource)</code> plugin hook - which let a plugin determine if an actor could perform an action against a resource - with a new <a href="https://docs.datasette.io/en/latest/plugin_hooks.html#plugin-hook-permission-resources-sql">permission_resources_sql(actor, action)</a> plugin hook.</p>
+<p>Instead of returning a True/False result, this new hook returns a SQL query that returns rules helping determine the resources the current actor can execute the specified action against.</p>
+<p>Here's an example, lifted from the documentation:</p>
+<pre><code>from datasette import hookimpl
+from datasette.permissions import PermissionSQL
+
+@hookimpl
+def permission_resources_sql(datasette, actor, action):
+    if action != &quot;view-table&quot;:
+        return None
+    if not actor or actor.get(&quot;id&quot;) != &quot;alice&quot;:
+        return None
+
+    return PermissionSQL(
+        sql=&quot;&quot;&quot;
+            SELECT
+                'accounting' AS parent,
+                'sales' AS child,
+                1 AS allow,
+                'alice can view accounting/sales' AS reason
+        &quot;&quot;&quot;,
+    )
+</code></pre>
+<p>This hook grants the actor with ID &quot;alice&quot; permission to view the &quot;sales&quot; table in the &quot;accounting&quot; database.</p>
+<p>The <code>PermissionSQL</code> object should always return four columns: a parent, child, allow (1 or 0), and a reason string for debugging.</p>
+<p>When you ask Datasette to list the resources an actor can access for a specific action, it will combine the SQL returned by all installed plugins into a single query that joins against <a href="https://docs.datasette.io/en/latest/internals.html#internal-database-schema">the internal catalog tables</a> and efficiently lists all the resources the actor can access.</p>
+<p>This query can then be limited or paginated to avoid loading too many results at once.</p>
+<h4>Hierarchies, plugins, vetoes, and restrictions</h4>
+<p>Datasette has several additional requirements that make the permissions system more complicated.</p>
+<p>Datasette permissions can optionally act against a two-level <strong>hierarchy</strong>. You can grant a user the ability to insert-row against a specific table, or every table in a specific database, or every table in <em>every</em> database in that Datasette instance.</p>
+<p>Some actions can apply at the table level, others the database level and others only make sense globally - enabling a new feature that isn't tied to tables or databases, for example.</p>
+<p>Datasette currently has <a href="https://docs.datasette.io/en/latest/authentication.html#built-in-actions">ten default actions</a> but <strong>plugins</strong> that add additional features can <a href="https://docs.datasette.io/en/latest/plugin_hooks.html#register-actions-datasette">register new actions</a> to better participate in the permission systems.</p>
+<p>Datasette's permission system has a mechanism to <strong>veto</strong> permission checks - a plugin can return a deny for a specific permission check which will override any allows. This needs to be hierarchy-aware - a deny at the database level can be outvoted by an allow at the table level.</p>
+<p>Finally, Datasette includes a mechanism for applying additional <strong>restrictions</strong> to a request. This was introduced for Datasette's API - it allows a user to create an API token that can act on their behalf but is only allowed to perform a subset of their capabilities - just reading from two specific tables, for example. Restrictions are <a href="https://docs.datasette.io/en/latest/authentication.html#restricting-the-actions-that-a-token-can-perform">described in more detail</a> in the documentation.</p>
+<p>That's a lot of different moving parts for the new implementation to cover.</p>
+<h4>New debugging tools</h4>
+<p>Since permissions are critical to the security of a Datasette deployment it's vital that they are as easy to understand and debug as possible.</p>
+<p>The new alpha adds several new debugging tools, including this page that shows the full list of resources matching a specific action for the current user:</p>
+<p><img src="https://static.simonwillison.net/static/2025/datasette-allowed-resources.jpg" alt="Allowed resources. Tabs are Playground, Check, Allowed, Rules, Actions, Allow debug. There is a form where you can select an action (here view-table) and optionally filter by parent and child. Below is a table of results listing resource paths - e.g. /fixtures/name-of-table - plus parent, child and reason columns. The reason is a JSON list for example &quot;datasette.default_permissions: root user&quot;,&quot;datasette.default_permissions: default allow for view-table&quot;."></p>
+<p>And this page listing the <em>rules</em> that apply to that question - since different plugins may return different rules which get combined together:</p>
+<p><img src="https://static.simonwillison.net/static/2025/datasette-rules.jpg" alt="The rules tab for the same view-table question. Here there are two allow rules - one from datasette.default_permissions for the root user and another from default_permissions labelled default allow for view-table."></p>
+<p>This screenshot illustrates two of Datasette's built-in rules: there is a default allow for read-only operations such as view-table (which can be over-ridden by plugins) and another rule that says the root user can do anything (provided Datasette was started with the <code>--root</code> option.)</p>
+<p>Those rules are defined in the <a href="https://github.com/simonw/datasette/blob/1.0a20/datasette/default_permissions.py">datasette/default_permissions.py</a> Python module.</p>
+<h4>The missing feature: list actors who can act on this resource</h4>
+<p>There's one question that the new system cannot answer: provide a full list of actors who can perform this action against this resource.</p>
+<p>It's not possibly to provide this globally for Datasette because Datasette doesn't have a way to track what &quot;actors&quot; exist in the system. SSO plugins such as <code>datasette-auth-github</code> mean a new authenticated GitHub user might show up at any time, with the ability to perform actions despite the Datasette system never having encountered that particular username before.</p>
+<p>API tokens and actor restrictions come into play here as well. A user might create a signed API token that can perform a subset of actions on their behalf - the existence of that token can't be predicted by the permissions system.</p>
+<p>This is a notable omission, but it's also quite common in other systems. AWS cannot provide a list of all actors who have permission to access a specific S3 bucket, for example - presumably for similar reasons.</p>
+<h4>Upgrading plugins for Datasette 1.0a20</h4>
+<p>Datasette's plugin ecosystem is the reason I'm paying so much attention to ensuring Datasette 1.0 has a stable API. I don't want plugin authors to need to chase breaking changes once that 1.0 release is out.</p>
+<p>The <a href="https://docs.datasette.io/en/latest/upgrade_guide.html">Datasette upgrade guide</a> includes detailed notes on upgrades that are needed between the 0.x and 1.0 alpha releases. I've added an extensive section about the permissions changes to that document.</p>
+<p>I've also been experimenting with dumping those instructions directly into coding agent tools - Claude Code and Codex CLI - to have them upgrade existing plugins for me. This has been working <em>extremely well</em>. I've even had Claude Code <a href="https://github.com/simonw/datasette/commit/fa978ec1006297416e2cd87a2f0d3cac99283cf8">update those notes itself</a> with things it learned during an upgrade process!</p>
+<p>This is greatly helped by the fact that every single Datasette plugin has an automated test suite that demonstrates the core functionality works as expected. Coding agents can use those tests to verify that their changes have had the desired effect.</p>
+<p>I've also been leaning heavily on <code>uv</code> to help with the upgrade process. I wrote myself two new helper scripts - <code>tadd</code> and <code>radd</code> - to help test the new plugins.</p>
+<ul>
+<li><code>tadd</code> = &quot;test against datasette dev&quot; - it runs a plugin's existing test suite against the current development version of Datasette checked out on my machine. It passes extra options through to <code>pytest</code> so I can run <code>tadd -k test_name</code> or <code>tadd -x --pdb</code> as needed.</li>
+<li><code>radd</code> = &quot;run against datasette dev&quot; - it runs the latest dev <code>datasette</code> command with the plugin installed.</li>
+</ul>
+<p>The <code>tadd</code> and <code>radd</code> implementations <a href="https://til.simonwillison.net/python/uv-tests#variants-tadd-and-radd">can be found in this TIL</a>.</p>
+<p>Some of my plugin upgrades have become a one-liner to the <code>codex exec</code> command, which runs OpenAI Codex CLI with a prompt without entering interactive mode:</p>
+<pre><code>codex exec --dangerously-bypass-approvals-and-sandbox \
+&quot;Run the command tadd and look at the errors and then
+read ~/dev/datasette/docs/upgrade-1.0a20.md and apply
+fixes and run the tests again and get them to pass&quot;
+</code></pre>
+<p>There are still a bunch more to go - there's <a href="https://github.com/simonw/datasette/issues/2577">a list in this tracking issue</a> - but I expect to have the plugins I maintain all upgraded pretty quickly now that I have a solid process in place.</p>
+<h4>Using Claude Code to implement this change</h4>
+<p>This change to Datasette core <em>by far</em> the most ambitious piece of work I've ever attempted using a coding agent.</p>
+<p>Last year I agreed with the prevailing opinion that LLM assistance was much more useful for greenfield coding tasks than working on existing codebases. The amount you could usefully get done was greatly limited by the need to fit the entire codebase into the model's context window.</p>
+<p>Coding agents have entirely changed that calculation. Claude Code and Codex CLI still have relatively limited token windows - albeit larger than last year - but their ability to search through the codebase, read extra files on demand and &quot;reason&quot; about the code they are working with has made them vastly more capable.</p>
+<p>I no longer see codebase size as a limiting factor for how useful they can be.</p>
+<p>I've also spent enough time with Claude Sonnet 4.5 to build a weird level of trust in it. I can usually predict exactly what changes it will make for a prompt. If I tell it &quot;extract this code into a separate function&quot; or &quot;update every instance of this pattern&quot; I know it's likely to get it right.</p>
+<p>For something like permission code I still review everything it does, often by watching it as it works since it displays diffs in the UI.</p>
+<p>I also pay extremely close attention to the tests it's writing. Datasette 1.0a19 already had 1,439 tests, many of which exercised the existing permission system. 1.0a20 increases that to 1,583 tests. I feel very good about that, especially since most of the existing tests continued to pass without modification.</p>
+<h4>Starting with a proof-of-concept</h4>
+<p>I built several different proof-of-concept implementations of SQL permissions before settling on the final design. My <a href="https://github.com/simonw/research/tree/main/sqlite-permissions-poc">research/sqlite-permissions-poc</a> project was the one that finally convinced me of a viable approach,</p>
+<p>That one started as a <a href="https://claude.ai/share/8fd432bc-a718-4883-9978-80ab82a75c87">free ranging conversation with Claude</a>, at the end of which I told it to generate a specification which I then <a href="https://chatgpt.com/share/68f6532f-9920-8006-928a-364e15b6e9ef">fed into GPT-5</a> to implement. You can see that specification <a href="https://github.com/simonw/research/tree/main/sqlite-permissions-poc#original-prompt">at the end of the README</a>.</p>
+<p>I later fed the POC itself into Claude Code and had it implement the first version of the new Datasette system based on that previous experiment.</p>
+<p>This is admittedly a very weird way of working, but it helped me finally break through on a problem that I'd been struggling with for months.</p>
+<h4>Miscellaneous tips I picked up along the way</h4>
+<ul>
+<li>When working on anything relating to plugins it's vital to have at least a few real plugins that you upgrade in lock-step with the core changes. The <code>tadd</code> and <code>radd</code> shortcuts were invaluable for productively working on those plugins while I made changes to core.</li>
+<li>Coding agents make experiments <em>much</em> cheaper. I threw away so much code on the way to the final implementation, which was psychologically easier because the cost to create that code in the first place was so low.</li>
+<li>Tests, tests, tests. This project would have been impossible without that existing test suite. The additional tests we built along the way give me confidence that the new system is as robust as I need it to be.</li>
+<li>Claude writes good commit messages now! I finally gave in and let it write these - previously I've been determined to write them myself. It's a big time saver to be able to say &quot;write a tasteful commit message for these changes&quot;.</li>
+<li>Claude is also great at breaking up changes into smaller commits. It can also productively rewrite history to make it easier to follow, especially useful if you're still working in a branch.</li>
+<li>A really great way to review Claude's changes is with the GitHub PR interface. You can attach comments to individual lines of code and then later prompt Claude like this: <code>Use gh CLI to fetch comments on URL-to-PR and make the requested changes</code>. This is a very quick way to apply little nitpick changes - rename this function, refactor this repeated code, add types here etc.</li>
+<li>The code I write with LLMs is <em>higher quality code</em>. I usually find myself making constant trade-offs while coding: this function would be neater if I extracted this helper, it would be nice to have inline documentation here, this changing this would be good but would break a dozen tests... for each of those I have to determine if the additional time is worth the benefit. Claude can apply changes so much faster than me that these calculations have changed - almost any improvement is worth applying, no matter how trivial, because the time cost is so low.</li>
+<li>Internal tools are cheap now. The new debugging interfaces were mostly written by Claude and are significantly nicer to use and look at than the hacky versions I would have knocked out myself, if I had even taken the extra time to build them.</li>
+<li>That trick with a Markdown file full of upgrade instructions works astonishingly well - it's the same basic idea as <a href="https://simonwillison.net/2025/Oct/16/claude-skills/">Claude Skills</a>. I maintain over 100 Datasette plugins now and I expect I'll be automating all sorts of minor upgrades in the future using this technique.</li>
+</ul>
+<h4>What's next?</h4>
+<p>Now that the new alpha is out my focus is upgrading the existing plugin ecosystem to use it, and supporting other plugin authors who are doing the same.</p>
+<p>The new permissions system unlocks some key improvements to Datasette Cloud concerning finely-grained permissions for larger teams, so I'll be integrating the new alpha there this week.</p>
+<p>This is the single biggest backwards-incompatible change required before Datasette 1.0. I plan to apply the lessons I learned from this project to the other, less intimidating changes. I'm hoping this can result in a final 1.0 release before the end of the year!</p>
+<p>Tags: <a href="https://simonwillison.net/tags/plugins">plugins</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/sql">sql</a>, <a href="https://simonwillison.net/tags/sqlite">sqlite</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a>, <a href="https://simonwillison.net/tags/annotated-release-notes">annotated-release-notes</a>, <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/codex-cli">codex-cli</a></p>
+
+      <address>
+        <a href="https://simonwillison.net/2025/Nov/4/datasette-10a20/#atom-everything">https://simonwillison.net/2025/Nov/4/datasette-10a20/#atom-everything</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T20:51:45Z" data-link="https://mjtsai.com/blog/2025/11/04/macos-26-1/">
+      <h1>macOS 26.1</h1>
+
+(date: 2025-11-04)
+      <p>
+      <p>Juli Clover (release notes, security, enterprise, developer, full installer, IPSW): macOS Tahoe 26.1 adds a toggle that allows you to select a Tinted mode for Liquid Glass, adding additional opacity. There are also improvements to AirPlay and FaceTime, with Apple’s full release notes below. See also: Howard Oakley. Tim Hardwick: Apple quietly added a small […]</p>
+
+      <address>
+        <a href="https://mjtsai.com/blog/2025/11/04/macos-26-1/">https://mjtsai.com/blog/2025/11/04/macos-26-1/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T20:51:21Z" data-link="https://mjtsai.com/blog/2025/11/04/macos-15-7-2-and-14-8-2/">
+      <h1>macOS 15.7.2 and 14.8.2</h1>
+
+(date: 2025-11-04)
+      <p>
+      <p>macOS 15.7.2 (full installer, security): This update provides important security fixes and is recommended for all users. macOS 14.8.2 (full installer, security): This update provides important security fixes and is recommended for all users. Howard Oakley: To be certain the correct updates will be installed, in the Also Available section of Software Update, click on […]</p>
+
+      <address>
+        <a href="https://mjtsai.com/blog/2025/11/04/macos-15-7-2-and-14-8-2/">https://mjtsai.com/blog/2025/11/04/macos-15-7-2-and-14-8-2/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T20:51:04Z" data-link="https://mjtsai.com/blog/2025/11/04/ios-26-1/">
+      <h1>iOS 26.1</h1>
+
+(date: 2025-11-04)
+      <p>
+      <p>Juli Clover (release notes, security, enterprise, developer): iOS 26.1 adds a toggle to increase the opacity of Liquid Glass for those who want less translucency. Alarms and Timers now require a swipe to turn them off, and there’s finally an option to turn off the Lock Screen Camera swipe. Beta Profiles: Apple brings back transparent […]</p>
+
+      <address>
+        <a href="https://mjtsai.com/blog/2025/11/04/ios-26-1/">https://mjtsai.com/blog/2025/11/04/ios-26-1/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T20:50:39Z" data-link="https://mjtsai.com/blog/2025/11/04/ipados-26-1/">
+      <h1>iPadOS 26.1</h1>
+
+(date: 2025-11-04)
+      <p>
+      <p>Juli Clover (release notes, security, enterprise, developer): iPadOS 26.1 reintroduces Slide Over, a multitasking feature that was removed with the multitasking overhaul in iPadOS 26 .Slide Over works alongside the window-based multitasking functionality in iPadOS 26 , so you can open up multiple app windows and still swipe over to quickly access a Slide Over […]</p>
+
+      <address>
+        <a href="https://mjtsai.com/blog/2025/11/04/ipados-26-1/">https://mjtsai.com/blog/2025/11/04/ipados-26-1/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T20:50:19Z" data-link="https://mjtsai.com/blog/2025/11/04/watchos-26-1/">
+      <h1>watchOS 26.1</h1>
+
+(date: 2025-11-04)
+      <p>
+      <p>Juli Clover (release notes, security, developer): No new features were discovered in watchOS 26.1 during the beta testing process, and Apple’s release notes say the update includes unspecified “improvements and bug fixes.” Previously: Other appleOS 26.0.1 Releases</p>
+
+      <address>
+        <a href="https://mjtsai.com/blog/2025/11/04/watchos-26-1/">https://mjtsai.com/blog/2025/11/04/watchos-26-1/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T20:50:07Z" data-link="https://mjtsai.com/blog/2025/11/04/tvos-26-1/">
+      <h1>tvOS 26.1</h1>
+
+(date: 2025-11-04)
+      <p>
+      <p>Juli Clover (release notes, security, developer): Apple shares release notes for tvOS in its tvOS support document when new versions are released, but no new features were found during the beta testing process. Previously: Other appleOS 26.0.1 Releases</p>
+
+      <address>
+        <a href="https://mjtsai.com/blog/2025/11/04/tvos-26-1/">https://mjtsai.com/blog/2025/11/04/tvos-26-1/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T20:50:00Z" data-link="https://mjtsai.com/blog/2025/11/04/visionos-26-1/">
+      <h1>visionOS 26.1</h1>
+
+(date: 2025-11-04)
+      <p>
+      <p>Juli Clover (release notes, security, enterprise, developer): visionOS 26.1 adds a Vision Pro app for the iPad, allowing users to discover Vision Pro content and spatial experiences. The app also now supports AirPlay for viewing experiences from the Vision Pro on both iPhone and iPad. Steve Troughton-Smith: New API on NSProcessInfo in visionOS 26.1 — […]</p>
+
+      <address>
+        <a href="https://mjtsai.com/blog/2025/11/04/visionos-26-1/">https://mjtsai.com/blog/2025/11/04/visionos-26-1/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T20:49:27Z" data-link="https://mjtsai.com/blog/2025/11/04/audioos-26-1/">
+      <h1>audioOS 26.1</h1>
+
+(date: 2025-11-04)
+      <p>
+      <p>Juli Clover (release notes): According to Apple’s release notes, HomePod Software 26.1 includes performance and stability improvements. Previously: Other appleOS 26.0.1 Releases</p>
+
+      <address>
+        <a href="https://mjtsai.com/blog/2025/11/04/audioos-26-1/">https://mjtsai.com/blog/2025/11/04/audioos-26-1/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T20:44:15Z" data-link="https://kottke.org/25/11/0047770-pebbling-sending-little-l">
+      <h1> Pebbling: sending little links and memes to the people that you love.... </h1>
+
+(date: 2025-11-04)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/11/0047770-pebbling-sending-little-l">https://kottke.org/25/11/0047770-pebbling-sending-little-l</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T20:27:04Z" data-link="https://tilde.zone/@tomasino/115493307965438564">
+      <h1>@Tomosino's Mastodon feed</h1>
+
+(date: 2025-11-04)
+      <p>
+      <p>I've been <a href="https://tilde.zone/tags/writing">#writing</a> a <a href="https://tilde.zone/tags/book">#book</a> for about 25 years. It's &quot;the&quot; book in that it's scooped up several of my other story ideas and merged it into a single behemoth. It's a speculative <a href="https://tilde.zone/tags/fiction">#fiction</a> story with an alternate world, some things that characters would call <a href="https://tilde.zone/tags/magic">#magic</a>, and an epic story at the heart.</p>
+<p>This year I decided that while I won't likely finish until I retire and have time to focus on writing, I can at least bring the process and world-building forward into the public eye.</p>
+<p><a href="https://www.thehierophant.world/">The Hierophant</a></p>
+<p>You can learn all about my story, follow along, and maybe even give some input along the way.</p>
+
+      <address>
+        <a href="https://tilde.zone/@tomasino/115493307965438564">https://tilde.zone/@tomasino/115493307965438564</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T20:06:46Z" data-link="https://davekarpf.substack.com/p/bill-gatess-stunted-political-vision">
+      <h1>Bill Gates's stunted political vision</h1>
+
+(date: 2025-11-04)
+      <p>
+      <p>Bill Gates went full Llomborg. Never go full Llomborg.</p>
+
+      <address>
+        <a href="https://davekarpf.substack.com/p/bill-gatess-stunted-political-vision">https://davekarpf.substack.com/p/bill-gatess-stunted-political-vision</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T20:00:19Z" data-link="https://www.palomitademaiz.net/resenas-maldita-suerte/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-maldita-suerte">
+      <h1>Maldita suerte: apuestas insaciables</h1>
+
+(date: 2025-11-04)
+      <p>
+      <p>Dirección: Edward Berger. Guion: Rowan Joffé. Elenco: Colin Farrell, Fala Chen, Tilda Swinton, Deanie Ip. Países: Reino Unido, Alemania. Más información de la película: <a href="https://www.imdb.com/title/tt32063098/">https://www.imdb.com/title/tt32063098/</a> Los fantasmas desequilibran el mundo físico. En China, las creencias en dichos seres encuentran cabida con la denominación de hombres caucásicos que habitan el país, quienes son llamados gwailo por […]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-maldita-suerte/">Maldita suerte: apuestas insaciables</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+
+      <address>
+        <a href="https://www.palomitademaiz.net/resenas-maldita-suerte/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-maldita-suerte">https://www.palomitademaiz.net/resenas-maldita-suerte/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-maldita-suerte</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T19:25:07Z" data-link="https://kottke.org/25/11/papers">
+      <h1> Papers </h1>
+
+(date: 2025-11-04)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/11/papers">https://kottke.org/25/11/papers</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T19:22:57Z" data-link="https://mastodon.social/@Migueldeicaza/115493055885893803">
+      <h1>@Miguel de Icaza Mastondon feed</h1>
+
+(date: 2025-11-04)
+      <p>
+      <p>This is brilliant</p>
+<p><a href="https://mastodon.social/@rustfoundation/115492388036662578">https://mastodon.social/@rustfoundation/115492388036662578</a></p>
+
+      <address>
+        <a href="https://mastodon.social/@Migueldeicaza/115493055885893803">https://mastodon.social/@Migueldeicaza/115493055885893803</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T18:54:00Z" data-link="https://petermolnar.net/journal/the-office-and-the-vintage/">
+      <h1>The tiny office, the compact cassettes, and the speaker upgrades</h1>
+
+(date: 2025-11-04)
+      <p>
+      <p>Thanks to a vintage receiver that came with the cassette deck, which I got because I had to deal with my box of cassettes from my childhood days, I upgraded my office desk speakers.</p>
+
+      <address>
+        <a href="https://petermolnar.net/journal/the-office-and-the-vintage/">https://petermolnar.net/journal/the-office-and-the-vintage/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T18:41:35Z" data-link="https://www.thenation.com/article/politics/dick-cheney-war-on-terror-executive-power/#">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-11-04)
+      <p>
+      <p>His Works Completed, Dick Cheney, Mass Murderer of Iraqis and American Democracy, Dies.</p>
+
+      <address>
+        <a href="https://www.thenation.com/article/politics/dick-cheney-war-on-terror-executive-power/#">https://www.thenation.com/article/politics/dick-cheney-war-on-terror-executive-power/#</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T18:16:45Z" data-link="https://kottke.org/25/11/0047774-conde-nast-is-watering-do">
+      <h1> Conde Nast is watering down Teen Vogue by folding it into the... </h1>
+
+(date: 2025-11-04)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/11/0047774-conde-nast-is-watering-do">https://kottke.org/25/11/0047774-conde-nast-is-watering-do</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T18:14:16Z" data-link="https://www.oreilly.com/radar/balancing-cost-power-and-ai-performance/">
+      <h1>Balancing Cost, Power, and AI Performance</h1>
+
+(date: 2025-11-04)
+      <p>
+      <p>The next time you use a tool like ChatGPT or Perplexity, stop and count the total words being generated to fulfill your request. Each word results from a process called inference—the revenue-generation mechanism of AI systems where each word generated can be analyzed using basic financial and economic business principles. The goal of performing this […]</p>
+
+      <address>
+        <a href="https://www.oreilly.com/radar/balancing-cost-power-and-ai-performance/">https://www.oreilly.com/radar/balancing-cost-power-and-ai-performance/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T18:08:45Z" data-link="https://paulkrugman.substack.com/p/lets-do-lunch-2ad">
+      <h1>Let’s Do Lunch!</h1>
+
+(date: 2025-11-04)
+      <p>
+      <p>A recording from Paul Krugman and Jared Bernstein's live video</p>
+
+      <address>
+        <a href="https://paulkrugman.substack.com/p/lets-do-lunch-2ad">https://paulkrugman.substack.com/p/lets-do-lunch-2ad</a>
       </address>
     </article>
 
@@ -595,6 +997,20 @@
       
       <address>
         <a href="https://www.mux.com/video-api?utm_campaign=fireball&utm_source=DF">https://www.mux.com/video-api?utm_campaign=fireball&utm_source=DF</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-04T00:00:00Z" data-link="https://reactos.org/blogs/cbialorucki-tests-2/">
+      <h1>Progress update: fixing the ReactOS test suite</h1>
+
+(date: 2025-11-04)
+      <p>
+      <p>For many years, the ReactOS test suite was neglected. It was a random collection of our own tests and old Wine tests that were only checked against Windows Server 2003 and sometimes a random newer version of Windows up to the discretion of the contributor. The Wine tests we imported were heavily modified and the changes made weren’t always well documented.
+I’m here to clean up this mess.
+I have been deeply involved with the ReactOS project since 2023 and in May of 2024 I became an official project developer.</p>
+
+      <address>
+        <a href="https://reactos.org/blogs/cbialorucki-tests-2/">https://reactos.org/blogs/cbialorucki-tests-2/</a>
       </address>
     </article>
 
@@ -3767,7 +4183,7 @@ written in Rust. October was a very exciting month for Redox! Here’s all the l
     <article data-published="2025-10-30T18:46:00Z" data-link="https://petermolnar.net/article/music-center-no-cast/">
       <h1>Simplifying music playback</h1>
 
-(date: 2025-10-30)
+(date: 2025-10-30, updated: 2025-11-04)
       <p>
       <p>I decided to throw complications away and use a tablet, and a tablet alone via it's headphone jack to the amplifier. Blasphemy, sacrilege - no separate DAC, no dedicated streamer, no NAS, no nothing.</p>
 

@@ -4,10 +4,179 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>04 Nov 25 10:09 -0800</lastBuildDate>
+    <lastBuildDate>04 Nov 25 14:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Why Diskless Is a Game-Changer for Running Kafka at Scale</title>
+      <link>https://thenewstack.io/why-diskless-is-a-game-changer-for-running-kafka-at-scale/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/ae71e2c2-diskless-game-changer-running-kafka-scale-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Why Diskless Is a Game-Changer for Running Kafka at Scale&quot; lead image. Geometric shapes" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/ae71e2c2-diskless-game-changer-running-kafka-scale.jpg" /><p>Apache Kafka is one of the most commonly used stream-processing applications. Its high performance, low latency and open source license</p>
+        <p>The post <a href="https://thenewstack.io/why-diskless-is-a-game-changer-for-running-kafka-at-scale/">Why Diskless Is a Game-Changer for Running Kafka at Scale</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Why Diskless Is a Game-Changer for Running Kafka at Scale&#34; lead image. Geometric shapes](https://cdn.thenewstack.io/media/2025/11/ae71e2c2-diskless-game-changer-running-kafka-scale-1024x576.jpg)
+
+Apache Kafka is one of the most commonly used stream-processing applications. Its high performance, low latency and open source license
+
+The post [Why Diskless Is a Game-Changer for Running Kafka at Scale](https://thenewstack.io/why-diskless-is-a-game-changer-for-running-kafka-at-scale/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805343</guid>
+    </item>    <item>
+      <title>Fishing Line and Hooks Were Tangled in This Albatross’s Stomach. After Surgery, the Bird Is Once Again Flying Free</title>
+      <link>https://www.smithsonianmag.com/smart-news/fishing-hooks-and-line-were-tangled-in-this-albatrosss-stomach-after-surgery-the-bird-is-once-again-flying-free-180987630/</link>
+      <description>
+        <![CDATA[The juvenile Salvin's albatross was discovered by a fisherman in Anconcito, Ecuador]]>
+      </description>
+      <source:markdown>The juvenile Salvin&#39;s albatross was discovered by a fisherman in Anconcito, Ecuador</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ld53pMXXHZZUjzvmHpWvdrmcalI=/420x240/filters:focal(655x456:656x457)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/86/32/8632e7bb-99f2-46e6-8c08-7f31b29e9805/salvins_albatross_x-ray_photo_by_ruben_aleman_fundacion_juvimar.png" length="" type="" />
+    </item>    <item>
+      <title>Copilot can replace Search in latest Windows 11 test builds, but it&#39;s not a good idea</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/04/microsoft_windows_copilot_search/</link>
+      <description>
+        <![CDATA[<h4>When you opt in, your taskbar becomes an extension of the Copilot app, but with some search added in</h4> <p><strong>hands on</strong>  With Microsoft cramming Copilot into every nook and cranny of its software, it’s no surprise that everyone’s favorite AI assistant is now set to take over the search box. As of the latest Windows Insider Dev and Beta builds, the &#34;Ask Copilot anything&#34; box is available if you know how to switch it on.…</p>]]>
+      </description>
+      <source:markdown>#### When you opt in, your taskbar becomes an extension of the Copilot app, but with some search added in
+
+**hands on**  With Microsoft cramming Copilot into every nook and cranny of its software, it’s no surprise that everyone’s favorite AI assistant is now set to take over the search box. As of the latest Windows Insider Dev and Beta builds, the &#34;Ask Copilot anything&#34; box is available if you know how to switch it on.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242845</guid>
+    </item>    <item>
+      <title>Deepnote, a ‘Successor to Jupyter Notebook,’ Goes Open Source</title>
+      <link>https://thenewstack.io/deepnote-a-successor-to-jupyter-notebook-goes-open-source/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/cc49520d-jakub-jurovych-2-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Jakub Jurovych, CEO of Deepnote, at JupyterCon 2025 in San Diego." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/cc49520d-jakub-jurovych-2.jpg" /><p>SAN DIEGO &#8212; Deepnote, an analytics and data science notebook for teams, is now open source. The company has seen</p>
+        <p>The post <a href="https://thenewstack.io/deepnote-a-successor-to-jupyter-notebook-goes-open-source/">Deepnote, a ‘Successor to Jupyter Notebook,’ Goes Open Source</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Jakub Jurovych, CEO of Deepnote, at JupyterCon 2025 in San Diego.](https://cdn.thenewstack.io/media/2025/11/cc49520d-jakub-jurovych-2-1024x576.jpg)
+
+SAN DIEGO — Deepnote, an analytics and data science notebook for teams, is now open source. The company has seen
+
+The post [Deepnote, a ‘Successor to Jupyter Notebook,’ Goes Open Source](https://thenewstack.io/deepnote-a-successor-to-jupyter-notebook-goes-open-source/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805485</guid>
+    </item>    <item>
+      <title>Bundesdatenschutzbehörde erkennt ersten Dienst gegen die Cookie-Banner-Flut an</title>
+      <link>https://www.heise.de/news/Bundesdatenschutzbehoerde-erkennt-ersten-Dienst-gegen-die-Cookie-Banner-Flut-an-11056908.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der erste Dienst zur Einwilligungsverwaltung von Cookies trägt einen amtlichen Stempel. Viele Nutzer wissen gar nicht, was Cookies sind und machen.]]>
+      </description>
+      <source:markdown>Der erste Dienst zur Einwilligungsverwaltung von Cookies trägt einen amtlichen Stempel. Viele Nutzer wissen gar nicht, was Cookies sind und machen.</source:markdown>
+      <guid>cid://http://heise.de/-11056908</guid>
+    </item>    <item>
+      <title>Deploying to Amazon&#39;s cloud is a pain in the AWS younger devs won&#39;t tolerate</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/04/aws_genz_misery_nope/</link>
+      <description>
+        <![CDATA[<h4>They have no need to prove their bonafides</h4> <p>Recently, I was spinning up yet another terribly coded thing for fun because I believe in making my problems everyone else&#39;s problems, and realized something that had been nagging at me for a while: working with AWS is relatively painful.…</p>]]>
+      </description>
+      <source:markdown>#### They have no need to prove their bonafides
+
+Recently, I was spinning up yet another terribly coded thing for fun because I believe in making my problems everyone else&#39;s problems, and realized something that had been nagging at me for a while: working with AWS is relatively painful.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242844</guid>
+    </item>    <item>
+      <title>heise+ | Analyse: Wie die Dominanz von Big-Tech und der KI-Hype die Wirtschaft bedrohen</title>
+      <link>https://www.heise.de/ratgeber/Analyse-Wie-die-Dominanz-von-Big-Tech-und-der-KI-Hype-die-Wirtschaft-bedrohen-10508666.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[US-Konzerne wie Google und Amazon kontrollieren weltweit Märkte und Datenflüsse. KI verschafft ihnen nun ein neues Machtinstrument. Droht der Crash?]]>
+      </description>
+      <source:markdown>US-Konzerne wie Google und Amazon kontrollieren weltweit Märkte und Datenflüsse. KI verschafft ihnen nun ein neues Machtinstrument. Droht der Crash?</source:markdown>
+      <guid>cid://http://heise.de/-10508666</guid>
+    </item>    <item>
+      <title>IBM cutting several thousand jobs in latest layoffs</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/04/ibm_cutting_several_thousand_jobs/</link>
+      <description>
+        <![CDATA[<h4>Resource Actions expected to hit half of US Infrastructure group</h4> <p>IBM this week began notifying several thousand employees that they will be laid off, according to sources familiar with the matter. …</p>]]>
+      </description>
+      <source:markdown>#### Resource Actions expected to hit half of US Infrastructure group
+
+IBM this week began notifying several thousand employees that they will be laid off, according to sources familiar with the matter. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242846</guid>
+    </item>    <item>
+      <title>HMI-Display mit Prozessor und Dreh-Encoder von Elecrow</title>
+      <link>https://www.heise.de/news/CrowPanel-HMI-Display-mit-Prozessor-und-Dreh-Encoder-11056820.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ein rundes HMI-Display mit klickbarem Encoder: Elecrows CrowPanel kombiniert ESP32‑S3, Wi-Fi/BLE und LVGL‑Support für kompakte IoT‑Anwendungen.]]>
+      </description>
+      <source:markdown>Ein rundes HMI-Display mit klickbarem Encoder: Elecrows CrowPanel kombiniert ESP32‑S3, Wi-Fi/BLE und LVGL‑Support für kompakte IoT‑Anwendungen.</source:markdown>
+      <guid>cid://http://heise.de/-11056820</guid>
+    </item>    <item>
+      <title>Abgang von 1&#38;1 bremst Telefónica Deutschland weiter aus</title>
+      <link>https://www.heise.de/news/Abgang-von-1-1-bremst-Telefonica-Deutschland-weiter-aus-11056710.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die deutsche Telefónica-Tochter hat weiter mit der Abwanderung der Millionen 1&1-Kunden zu kämpfen. Unterdessen schmieden die Spanier offenbar Übernahmepläne.]]>
+      </description>
+      <source:markdown>Die deutsche Telefónica-Tochter hat weiter mit der Abwanderung der Millionen 1&#38;1-Kunden zu kämpfen. Unterdessen schmieden die Spanier offenbar Übernahmepläne.</source:markdown>
+      <guid>cid://http://heise.de/-11056710</guid>
+    </item>    <item>
+      <title>Budget-Modell soll MacBooks erschwinglicher machen</title>
+      <link>https://www.heise.de/news/Guenstiger-als-das-Air-Budget-MacBook-angeblich-fuer-2026-geplant-11056851.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die 1000-Euro-Marke hat Apple bei neuen Laptops bislang kaum unterschritten. Das ändert sich angeblich mit einer günstigeren Modellreihe – ohne M-Chip.]]>
+      </description>
+      <source:markdown>Die 1000-Euro-Marke hat Apple bei neuen Laptops bislang kaum unterschritten. Das ändert sich angeblich mit einer günstigeren Modellreihe – ohne M-Chip.</source:markdown>
+      <guid>cid://http://heise.de/-11056851</guid>
+    </item>    <item>
+      <title>UK judge delivers a &#39;damp squib&#39; in Getty AI training case, no clear precedent set</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/04/uk_court_getty_stability_ai/</link>
+      <description>
+        <![CDATA[<h4>Experts disagree about what the ruling means for AI training on copyrighted material</h4> <p>London&#39;s High Court has dismissed the major portions of Getty Images&#39; lawsuit against generative AI firm Stability AI for training its image-generation model on copyrighted images, which some legal experts say could weaken intellectual property laws. However, others saw daylight for trademark and copyright protection in the judge&#39;s ruling.…</p>]]>
+      </description>
+      <source:markdown>#### Experts disagree about what the ruling means for AI training on copyrighted material
+
+London&#39;s High Court has dismissed the major portions of Getty Images&#39; lawsuit against generative AI firm Stability AI for training its image-generation model on copyrighted images, which some legal experts say could weaken intellectual property laws. However, others saw daylight for trademark and copyright protection in the judge&#39;s ruling.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242842</guid>
+    </item>    <item>
+      <title>Why Agentic AI Needs a Context-Based Approach</title>
+      <link>https://thenewstack.io/why-agentic-ai-needs-a-context-based-approach/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/87c4b414-zebra-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Zebra against background of black and white stripes." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/87c4b414-zebra.jpg" /><p>The conversation around AI in engineering is shifting rapidly, moving past mere autocompletion toward full-scale reasoning and automation in engineering</p>
+        <p>The post <a href="https://thenewstack.io/why-agentic-ai-needs-a-context-based-approach/">Why Agentic AI Needs a Context-Based Approach</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Zebra against background of black and white stripes.](https://cdn.thenewstack.io/media/2025/11/87c4b414-zebra-1024x576.jpg)
+
+The conversation around AI in engineering is shifting rapidly, moving past mere autocompletion toward full-scale reasoning and automation in engineering
+
+The post [Why Agentic AI Needs a Context-Based Approach](https://thenewstack.io/why-agentic-ai-needs-a-context-based-approach/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805293</guid>
+    </item>    <item>
+      <title>Top 10: Die beste Smartwatch mit EKG im Test – Testsieger misst sogar Blutdruck</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test-testsieger-misst-sogar-blutdruck/02n25tj?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Vorhofflimmern bleibt oft unentdeckt – Smartwatches mit EKG erkennen Herzrhythmusstörungen früh. Wir zeigen die besten Modelle für die Herzgesundheit.]]>
+      </description>
+      <source:markdown>Vorhofflimmern bleibt oft unentdeckt – Smartwatches mit EKG erkennen Herzrhythmusstörungen früh. Wir zeigen die besten Modelle für die Herzgesundheit.</source:markdown>
+      <guid>cid://http://heise.de/-11056657</guid>
+    </item>    <item>
+      <title>Russian spies pack custom malware into hidden VMs on Windows machines</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/04/russian_spies_pack_custom_malware/</link>
+      <description>
+        <![CDATA[<h4>Curly COMrades strike again</h4> <p>Russia&#39;s Curly COMrades is abusing Microsoft&#39;s Hyper-V hypervisor in compromised Windows machines to create a hidden Alpine Linux-based virtual machine that bypasses endpoint security tools, giving the spies long-term network access to snoop and deploy malware.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Curly COMrades strike again
+
+Russia&#39;s Curly COMrades is abusing Microsoft&#39;s Hyper-V hypervisor in compromised Windows machines to create a hidden Alpine Linux-based virtual machine that bypasses endpoint security tools, giving the spies long-term network access to snoop and deploy malware.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242843</guid>
+    </item>    <item>
+      <title>China installiert Wind- und Solaranlagen in halsbrecherischem Tempo</title>
+      <link>https://www.heise.de/news/China-installiert-Wind-und-Solaranlagen-in-halsbrecherischem-Tempo-11056816.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[China wird oft vorgeworfen, neue Kohlekraftwerke zu bauen. Der Zuwachs bei Wind- und Solarenergie ist jedoch deutlich rasanter.]]>
+      </description>
+      <source:markdown>China wird oft vorgeworfen, neue Kohlekraftwerke zu bauen. Der Zuwachs bei Wind- und Solarenergie ist jedoch deutlich rasanter.</source:markdown>
+      <guid>cid://http://heise.de/-11056816</guid>
+    </item>    <item>
+      <title>Orcas in Mexico Have Learned to Attack Young Great White Sharks—by Flipping Them Upside Down and Eating Their Livers</title>
+      <link>https://www.smithsonianmag.com/smart-news/orcas-in-mexico-have-learned-to-attack-young-great-white-sharks-by-flipping-them-upside-down-and-eating-their-livers-180987620/</link>
+      <description>
+        <![CDATA[Researchers captured the novel behavior on video in the Gulf of California, recording three separate takedowns across two hunts carried out by members of the Moctezuma pod]]>
+      </description>
+      <source:markdown>Researchers captured the novel behavior on video in the Gulf of California, recording three separate takedowns across two hunts carried out by members of the Moctezuma pod</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/vHAEh4iI6LHhrHyqbMTo9XOOq8k=/420x240/filters:focal(452x191:453x192)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/be/97/be97d233-10d9-489f-b137-f9684a8eb9fa/orcas_hunting_white_sharks_vi_photo_by_marco_villegas.webp" length="" type="" />
+    </item>    <item>
+      <title>heise+ | iOS 26.1: 11 Tipps zu den Neuerungen</title>
+      <link>https://www.heise.de/ratgeber/iOS-26-1-11-Tipps-zu-den-Neuerungen-11056734.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Das erste große Punkt-Update macht iOS 26 rund und liefert praktische Funktionen nach. So setzen Sie die Neuerungen auf iPhone und iPad konkret ein.]]>
+      </description>
+      <source:markdown>Das erste große Punkt-Update macht iOS 26 rund und liefert praktische Funktionen nach. So setzen Sie die Neuerungen auf iPhone und iPad konkret ein.</source:markdown>
+      <guid>cid://http://heise.de/-11056734</guid>
+    </item>    <item>
       <title>AirPods Pro und AirPods 4: Live-Übersetzung kommt nach Europa</title>
       <link>https://www.heise.de/news/AirPods-Pro-und-AirPods-4-Live-Uebersetzung-kommt-nach-Europa-11055015.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
@@ -37,7 +206,7 @@ The infosec program run by the US&#39; Consumer Financial Protection Bureau (CFP
       <title>Why React’s ‘Boring’ Maturity Is Actually Its Main Strength</title>
       <link>https://thenewstack.io/why-reacts-boring-maturity-is-actually-its-main-strength/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/77b1325f-mystery-cat-zoyuef32pwo-unsplashb-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="lion" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/77b1325f-mystery-cat-zoyuef32pwo-unsplashb.jpg" /><p>React has been around long enough to earn that dreaded word: Mature. In tech, &#8220;mature&#8221; often gets twisted into &#8220;obsolete,&#8221;</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/77b1325f-mystery-cat-zoyuef32pwo-unsplashb-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="lion" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/77b1325f-mystery-cat-zoyuef32pwo-unsplashb.jpg" /><p>React has been around long enough to earn that dreaded word: Mature. In tech, &#8220;mature&#8221; often gets twisted into &#8220;obsolete,&#8221;</p>
         <p>The post <a href="https://thenewstack.io/why-reacts-boring-maturity-is-actually-its-main-strength/">Why React’s ‘Boring’ Maturity Is Actually Its Main Strength</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![lion](https://cdn.thenewstack.io/media/2025/11/77b1325f-mystery-cat-zoyuef32pwo-unsplashb-1024x576.jpg)
@@ -112,7 +281,7 @@ Developers who &#34;pair code&#34; with an AI assistant stand to learn as much a
       <title>Kubernetes Isn’t Your AI Bottleneck — It’s Your Secret Weapon</title>
       <link>https://thenewstack.io/kubernetes-isnt-your-ai-bottleneck-its-your-secret-weapon/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/01e2398a-woman-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Strong successful woman on a mountain flexing muscles." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/01e2398a-woman.jpg" /><p>Let&#8217;s get one thing straight: In the AI era, the only thing that matters is experimenting faster than your competition.</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/01e2398a-woman-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Strong successful woman on a mountain flexing muscles." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/01e2398a-woman.jpg" /><p>Let&#8217;s get one thing straight: In the AI era, the only thing that matters is experimenting faster than your competition.</p>
         <p>The post <a href="https://thenewstack.io/kubernetes-isnt-your-ai-bottleneck-its-your-secret-weapon/">Kubernetes Isn&#8217;t Your AI Bottleneck — It’s Your Secret Weapon</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![Strong successful woman on a mountain flexing muscles.](https://cdn.thenewstack.io/media/2025/11/01e2398a-woman-1024x576.jpg)

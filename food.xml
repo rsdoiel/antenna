@@ -4,10 +4,34 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>04 Nov 25 10:09 -0800</lastBuildDate>
+    <lastBuildDate>04 Nov 25 14:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>This Baking Dish Is Officially My Dedicated Focaccia Pan</title>
+      <link>https://www.bonappetit.com/story/lloyd-pans-detroit-style-pizza-pan-review</link>
+      <description>
+        <![CDATA[The difference between meh and amazing focaccia is made by what you bake it in, and this deep dish pizza pan is the best.]]>
+      </description>
+      <source:markdown>The difference between meh and amazing focaccia is made by what you bake it in, and this deep dish pizza pan is the best.</source:markdown>
+      <guid>cid://690a5e7cc8309713d0b88f95</guid>
+    </item>    <item>
+      <title>Make-Ahead Mashed Potatoes</title>
+      <link>https://www.bonappetit.com/recipe/make-ahead-mashed-potatoes</link>
+      <description>
+        <![CDATA[Make this creamy mash days ahead without sacrificing its velvety texture or buttery flavor.]]>
+      </description>
+      <source:markdown>Make this creamy mash days ahead without sacrificing its velvety texture or buttery flavor.</source:markdown>
+      <guid>cid://5bbe2e41f71c8c49e4386067</guid>
+    </item>    <item>
+      <title>Pancake Muffins</title>
+      <link>https://www.tasteofhome.com/recipes/pancake-muffins/</link>
+      <description>
+        <![CDATA[Pancake muffins fold all the essentials qualities of classic pancakes—including the maple syrup—into hand-held treats that are so easy to make.]]>
+      </description>
+      <source:markdown>Pancake muffins fold all the essentials qualities of classic pancakes—including the maple syrup—into hand-held treats that are so easy to make.</source:markdown>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2175248</guid>
+    </item>    <item>
       <title>When the Food Journalist Needs Food Stamps</title>
       <link>https://www.bonappetit.com/story/when-the-food-journalist-needs-food-stamps</link>
       <description>
@@ -37,11 +61,11 @@
       <title>Starbucks Sells Majority Stake in China Business in $4 Billion Deal</title>
       <link>https://dailycoffeenews.com/2025/11/04/starbucks-sells-majority-stake-in-china-business-in-4-billion-deal/</link>
       <description>
-        <![CDATA[<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/11/Starbucks-China-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Starbucks China 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/11/Starbucks-China-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/11/Starbucks-China-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/11/Starbucks-China-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/11/Starbucks-China-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/11/Starbucks-China-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Seattle-based coffee giant Starbucks is selling a 60% stake in its mainland China coffee shop business to Chinese private equity firm Boyu Capital in a deal valued at about...]]>
+        <![CDATA[<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/11/Starbucks-China-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Starbucks China 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/11/Starbucks-China-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/11/Starbucks-China-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/11/Starbucks-China-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/11/Starbucks-China-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/11/Starbucks-China-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Seattle-based coffee giant Starbucks is selling a 60% stake in its mainland China coffee shop business to Chinese private equity firm Boyu Capital in a deal valued at about $4...]]>
       </description>
       <source:markdown>![Starbucks China 1](https://dailycoffeenews.com/wp-content/uploads/2025/11/Starbucks-China-1-620x414.jpg)
 
-  Seattle-based coffee giant Starbucks is selling a 60% stake in its mainland China coffee shop business to Chinese private equity firm Boyu Capital in a deal valued at about...</source:markdown>
+Seattle-based coffee giant Starbucks is selling a 60% stake in its mainland China coffee shop business to Chinese private equity firm Boyu Capital in a deal valued at about $4...</source:markdown>
       <guid>cid://https://dailycoffeenews.com/?p=192094</guid>
     </item>    <item>
       <title>Nicole Good Of Cafe Imports: The Sprudge Twenty Interview</title>
@@ -110,6 +134,14 @@ The post [This New Tillamook Spread Will Give You a Perfect Grilled Cheese Every
       </description>
       <source:markdown>And yes, you should own one even if you have a dishwasher.</source:markdown>
       <guid>cid://67c9b6061fbc891c678f18a5</guid>
+    </item>    <item>
+      <title>Spinach Artichoke Dip Soup</title>
+      <link>https://www.tasteofhome.com/recipes/spinach-artichoke-dip-soup/</link>
+      <description>
+        <![CDATA[This spinach artichoke dip soup transforms creamy and cheesy spinach artichoke dip into a rich, veggie-packed, bright and brothy soup.]]>
+      </description>
+      <source:markdown>This spinach artichoke dip soup transforms creamy and cheesy spinach artichoke dip into a rich, veggie-packed, bright and brothy soup.</source:markdown>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2197604</guid>
     </item>    <item>
       <title>IRISH-STYLE CRANACHAN</title>
       <link>https://irishfoodhub.com/irish-style-cranachan/</link>
