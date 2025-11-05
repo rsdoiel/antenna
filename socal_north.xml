@@ -7,17 +7,25 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>05 Nov 25 06:10 -0800</lastBuildDate>
+    <lastBuildDate>05 Nov 25 10:12 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>The Trump administration canceled a top education award. This LA school is celebrating anyway</title>
-      <link>https://laist.com/news/education/national-blue-ribbon-school-canceled-lucille-smith-elementary-lawndale-2025</link>
+      <title>The government shutdown is now the longest in US history. See how it compares</title>
+      <link>https://laist.com/news/federal-government-shutdown-longest-in-us-history</link>
       <description>
-        <![CDATA[Lucille J. Smith Elementary was one of 31 California schools to be nominated as a National Blue Ribbon School.]]>
+        <![CDATA[As the government shutdown stretches its way into the record books, Americans are feeling its worsening impacts.]]>
       </description>
-      <source:markdown>Lucille J. Smith Elementary was one of 31 California schools to be nominated as a National Blue Ribbon School.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-5104-de73-abba-d7a458d90000</guid>
+      <source:markdown>As the government shutdown stretches its way into the record books, Americans are feeling its worsening impacts.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5513-d2bc-a9df-77b7e12d0000</guid>
+    </item>    <item>
+      <title>Proposition 50 passed in California. Here’s what you missed</title>
+      <link>https://laist.com/news/politics/proposition-50-passed-in-california-heres-what-you-missed</link>
+      <description>
+        <![CDATA[California voters backed Gov. Gavin Newsom’s plan to redraw congressional districts in favor of Democrats. It was a big night for him in his rivalry with President Donald Trump.]]>
+      </description>
+      <source:markdown>California voters backed Gov. Gavin Newsom’s plan to redraw congressional districts in favor of Democrats. It was a big night for him in his rivalry with President Donald Trump.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-54eb-d2bc-a9df-77efea590000</guid>
     </item>    <item>
       <title>New state law inspired by Pomeranian rescued from Palisades Fire aims to protect pets in disasters</title>
       <link>https://laist.com/news/politics/new-state-law-to-protect-pets-in-disasters</link>
@@ -26,6 +34,14 @@
       </description>
       <source:markdown>AB 478 was introduced by a Southern California lawmaker and goes into effect in the new year.</source:markdown>
       <guid>cid://urn:uuid:0000019a-4bdb-d6cf-a9ff-6bff27560000</guid>
+    </item>    <item>
+      <title>The Trump administration canceled a top education award. This LA school is celebrating anyway</title>
+      <link>https://laist.com/news/education/national-blue-ribbon-school-canceled-lucille-smith-elementary-lawndale-2025</link>
+      <description>
+        <![CDATA[Lucille J. Smith Elementary was one of 31 California schools to be nominated as a National Blue Ribbon School.]]>
+      </description>
+      <source:markdown>Lucille J. Smith Elementary was one of 31 California schools to be nominated as a National Blue Ribbon School.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5104-de73-abba-d7a458d90000</guid>
     </item>    <item>
       <title>Democrats had a big night. Here are 5 takeaways from the 2025 elections</title>
       <link>https://laist.com/news/politics/democrats-had-a-big-night-here-are-5-takeaways-from-the-2025-elections</link>

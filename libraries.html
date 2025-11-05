@@ -3,10 +3,10 @@
 <head>
   <meta charset="utf-8" >
   <meta name="generator" content="antenna/0.0.15" >
-  <meta name="date" content="2025-11-05T06:09:57-08:00" >
-  <link rel="stylesheet" href="css/site.css" >
+  <meta name="date" content="2025-11-05T10:12:44-08:00" >
+  <link href="css/site.css" rel="stylesheet" >
   <link rel="alternate" type="application/rss+xml" href="libraries.xml" >
-  <script type="module" src="modules/date_filter.js" ></script>
+  <script src="modules/date_filter.js" type="module" ></script>
 </head>
 <body>
   <header>
@@ -42,6 +42,31 @@
     <div class="article-filter">Filter by date: <input id="filter-by-date" type="date"></div>
   <section>
 
+    <article data-published="2025-11-05T16:23:11Z" data-link="https://sr.ithaka.org/blog/ai-literacy-in-higher-education/">
+      <h1>AI Literacy in Higher Education</h1>
+
+(date: 2025-11-05)
+      <p>
+      <p>When we launched the third cohort for the Integrating AI Literacy into the Curricula project in September, we wanted to learn about the fast evolving AI literacy landscape in higher education. In our first workshop in October, we began to see a clear pattern: across institutions types and sizes, AI literacy development in higher education is happening almost always from the ground up.</p>
+<p>The post <a href="https://sr.ithaka.org/blog/ai-literacy-in-higher-education/">AI Literacy in Higher Education</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>
+
+      <address>
+        <a href="https://sr.ithaka.org/blog/ai-literacy-in-higher-education/">https://sr.ithaka.org/blog/ai-literacy-in-higher-education/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-05T14:56:04Z" data-link="https://blog.archive.org/2025/11/05/california-state-senator-recognizes-internet-archives-remarkable-innovation-and-leadership/">
+      <h1>California State Senator Recognizes Internet Archive’s ‘Remarkable Innovation and Leadership’</h1>
+
+(date: 2025-11-05)
+      <p>
+      <p>On October 22, California State Senator Scott Wiener joined the 1 trillion celebration to recognize Internet Archive’s “remarkable innovation and leadership.” Speaking from the stage, Senator Wiener presented Brewster Kahle […]</p>
+
+      <address>
+        <a href="https://blog.archive.org/2025/11/05/california-state-senator-recognizes-internet-archives-remarkable-innovation-and-leadership/">https://blog.archive.org/2025/11/05/california-state-senator-recognizes-internet-archives-remarkable-innovation-and-leadership/</a>
+      </address>
+    </article>
+
     <article data-published="2025-11-05T12:00:00Z" data-link="https://blog.archive.org/2025/11/05/celebrating-sir-tim-berners-lee-2025-internet-archive-hero-award-recipient/">
       <h1>Celebrating Sir Tim Berners-Lee, 2025 Internet Archive Hero Award Recipient</h1>
 
@@ -64,6 +89,59 @@
 
       <address>
         <a href="https://scholarlykitchen.sspnet.org/2025/11/05/guest-post-a-systems-approach-to-research-publishing-from-fragmentation-to-cohesion/">https://scholarlykitchen.sspnet.org/2025/11/05/guest-post-a-systems-approach-to-research-publishing-from-fragmentation-to-cohesion/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-05T00:00:00Z" data-link="https://www.crossref.org/blog/announcing-changes-to-rest-api-rate-limits/">
+      <h1>Announcing changes to REST API rate limits</h1>
+
+(date: 2025-11-05)
+      <p>
+      <p>Our <a href="https://www.crossref.org/documentation/retrieve-metadata/rest-api/">REST API</a> makes all of the metadata we hold publicly available. It receives the majority of our API traffic, with around 1 billion hits per month. It’s one of the key ways that we fulfil our mission to make research objects easy to find, cite, link, assess, and reuse. From 1 December 2025, we will be revising the rate limits for the public and polite pools of the REST API to ensure that we can maintain a stable and reliable system, and that metadata is freely available to everyone.</p>
+<p>We haven’t changed the rate limits since the REST API was launched in 2013. In the past five years, the number of requests to the REST API has tripled and the number of metadata records has increased by a third, from 120 million to around 180 million. This means an increase in the resources needed to run it, and we’ve seen periods of instability where we haven’t been able to keep the API available for all users. We have decided that it is the right time to revisit rate limits to check that they’re in line with what our technology can provide and what our community needs. As a result, we will apply the following for the public and polite pools:</p>
+<p>Public pool:</p>
+<p>Request typeRate limitConcurrency limitSingle record51List of records (queries, filters, etc.)11</p>
+<p>Polite pool:</p>
+<p>Request typeRate limitConcurrency limitSingle DOI record103List of records (queries, filters, etc.)33</p>
+<p>The rate limit is the number of total requests that can be made per second. The concurrency limit is how many requests can be running at the same time. This means that for longer-running requests you may need to wait for previous requests to finish before you can make a new one.</p>
+<p>Here are some examples of single records requests:</p>
+<ul>
+<li><a href="https://api.crossref.org/v1/works/10.1002/cphy.cp010129">https://api.crossref.org/v1/works/10.1002/cphy.cp010129</a></li>
+<li><a href="https://api.crossref.org/v1/journals/0266-612X&amp;mailto=my@email.com">https://api.crossref.org/v1/journals/0266-612X&amp;mailto=my@email.com</a></li>
+</ul>
+<p>The second case here will be directed to the polite pool because an email is included using the ‘mailto’ parameter. And here are examples of requests that return lists of records:</p>
+<ul>
+<li><a href="https://api.crossref.org/v1/works?filter=from-created-date:2025-10-21T16:20,until-created-date:2025-10-21T17:00">https://api.crossref.org/v1/works?filter=from-created-date:2025-10-21T16:20,until-created-date:2025-10-21T17:00</a></li>
+<li><a href="https://api.crossref.org/v1/members/13/works&amp;mailto=my@email.com">https://api.crossref.org/v1/members/13/works&amp;mailto=my@email.com</a></li>
+<li><a href="https://api.crossref.org/v1/works?query.bibliographic=linear+dichroism&amp;mailto=my@email.com">https://api.crossref.org/v1/works?query.bibliographic=linear+dichroism&amp;mailto=my@email.com</a></li>
+</ul>
+<p>The second and third examples here will use the polite pool.</p>
+<p>Our guiding principle in making these changes is to keep all of the metadata available to everyone, all of the time. These changes to rate limits won’t restrict current users from accessing the metadata they want to retrieve, but it will make it easier for us to maintain the system now and in the future.</p>
+<h2>Which use cases do we support?</h2>
+<p>Our metadata has a broad range of applications. If you’re someone who uses the REST API, we’re glad that you are part of our community! Our mission includes making it easier to find, reuse, and assess scholarly research outputs. By using metadata, you’re helping us to fulfil that goal.</p>
+<p>The main uses of the REST API fit into several categories. The new rate limits will continue to support these, among many others:</p>
+<ul>
+<li>I have some metadata, what is the DOI?</li>
+<li>I have a DOI, what is its metadata?</li>
+<li>I want all of the metadata, just give me everything.</li>
+<li>Research on a specific topic or subset of metadata, often refreshing the results every few weeks or months.</li>
+</ul>
+<p>Rate limits can encourage responsible usage. The majority of API users make requests at a low rate and will not need to make any changes, however a few send spikes of large numbers of requests in a short space of time, sometimes making it difficult for others to access the service. These can be smoothed out by lower rate limits. Complex requests that search across large numbers of items put more pressure on our systems than requests for a single content item, so we have decided to set different rate limits for different types of request.</p>
+<h2>Who will be affected?</h2>
+<p>We estimate that the changes might affect around 40 users per week across the public and polite pools, and this is only for some of their requests. In all of the cases we’ve seen, the rate of requests could be slowed down and users would still be able to get the same results. In other words, the aim of these changes is to make the load on the API more predictable, not to reduce the total number of requests or amount of metadata transferred. No changes are being made to the <a href="https://www.crossref.org/services/metadata-retrieval/metadata-plus/">Metadata Plus</a> service or other APIs, such as the XML API and OAI-PMH endpoint.</p>
+<h2>Do I need to change how I use the API?</h2>
+<p>If you’re reading this, thank you! It’s clear that you want to be a considerate user of our services. Almost all users can continue to use the REST API in exactly the same way, you won’t need to change anything. Here is some general advice that will help you make the most of the service and ensure that you won’t encounter issues.</p>
+<ol>
+<li>Use a mailto parameter. This gives you access to the polite pool meaning higher rate limits and meaning we can get in touch with you if needed. We’ll only use your address to contact you about your API requests.</li>
+<li>Check the HTTP response status for your requests. This is always good practice and can help you identify malformed requests and where you reach rate limits.</li>
+<li>Cache results to avoid repeatedly making the same requests. Most records don’t change on a regular basis. How often you update the cache will depend on what you are interested in, but most metadata fields rarely change.</li>
+<li>If you are making a very high volume of requests or have very complex analysis to carry out, consider downloading the <a href="https://www.crossref.org/learning/public-data-file/">public data file</a> which is made available once a year and contains all of our metadata. You can update it with recent additions using the REST API.</li>
+<li>If you are relying on our metadata in a production service, <a href="https://www.crossref.org/services/metadata-retrieval/metadata-plus/">Metadata Plus</a> can provide more stability, support, and access to monthly snapshots of our entire database.</li>
+</ol>
+<p>We have more <a href="https://www.crossref.org/documentation/retrieve-metadata/rest-api/tips-for-using-the-crossref-rest-api/">tips and tricks</a> for the REST API in our documentation. If you have questions, please join the conversation on our Community Forum.</p>
+
+      <address>
+        <a href="https://www.crossref.org/blog/announcing-changes-to-rest-api-rate-limits/">https://www.crossref.org/blog/announcing-changes-to-rest-api-rate-limits/</a>
       </address>
     </article>
 

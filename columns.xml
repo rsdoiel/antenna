@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>05 Nov 25 06:09 -0800</lastBuildDate>
+    <lastBuildDate>05 Nov 25 10:12 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,138 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>USPS Lowrider Stamps</title>
+      <link>https://kottke.org/25/11/usps-lowrider-stamps</link>
+      <guid>cid://tag:kottke.org,2025://5.47768</guid>
+    </item>    <item>
+      <title>WhatsApp for Apple Watch</title>
+      <link>https://blog.whatsapp.com/introducing-whatsapp-for-apple-watch?lang=en</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42359</guid>
+    </item>    <item>
+      <title>Live with Heather Cox Richardson</title>
+      <link>https://heathercoxrichardson.substack.com/p/live-with-heather-cox-richardson-ca8</link>
+      <description>
+        <![CDATA[A recording from Heather Cox Richardson's live video]]>
+      </description>
+      <source:markdown>A recording from Heather Cox Richardson&#39;s live video</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/178093776/27855e0f31036af219ba5958b7cd48ed.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/live-with-heather-cox-richardson-ca8</guid>
+    </item>    <item>
+      <title>Thing I was not expecting: a 4-star review of Predator: Badlands from...</title>
+      <link>https://kottke.org/25/11/0047788-thing-i-was-not-expecting</link>
+      <guid>cid://tag:kottke.org,2025://13.47788</guid>
+    </item>    <item>
+      <title>When Debian won&#39;t do, Devuan 6 &#39;Excalibur&#39; Linux makes the grade</title>
+      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/11/05/devuan_6_excalibur_is_out/</link>
+      <description>
+        <![CDATA[<h4>Debian 13 base, minus systemd and RISC-V build</h4>
+              <p>Old school enough to favor Debian, but averse to systemd? Good news: Devuan 6 &#34;Excalibur&#34; is here, and all you need to do is draw it from the stone master its installer.</p>]]>
+      </description>
+      <source:markdown>#### Debian 13 base, minus systemd and RISC-V build
+
+Old school enough to favor Debian, but averse to systemd? Good news: Devuan 6 &#34;Excalibur&#34; is here, and all you need to do is draw it from the stone master its installer.</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242862</guid>
+    </item>    <item>
+      <link>https://wordpress.com/blog/2025/11/05/introducing-recommended-blogs/</link>
+      <description>
+        <![CDATA[<p>How to recommend a blog to your readers in WordPress Reader.</p>]]>
+      </description>
+      <source:markdown>How to recommend a blog to your readers in WordPress Reader.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/05/1819/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/05.html#a162748</link>
+      <description>
+        <![CDATA[Don't forget the new <a href="https://wp.feedland.org/">WordPress News</a>.]]>
+      </description>
+      <source:markdown>Don&#39;t forget the new [WordPress News](https://wp.feedland.org/).</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/05.html#a162748</guid>
+    </item>    <item>
+      <title>Apple Podcasts Is Adding AI-Generated Chapters for Podcasts Without Chapters</title>
+      <link>https://podcasters.apple.com/support/5545-enhance-episodes-with-chapters-links-more</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42358</guid>
+    </item>    <item>
+      <title>Why a new California law could change the way all Americans browse the internet</title>
+      <link>https://themarkup.org/privacy/2025/11/05/why-a-new-california-law-could-change-the-way-all-americans-browse-the-internet</link>
+      <description>
+        <![CDATA[Legislation recently enacted in California will make it easier for consumers nationwide to protect their data]]>
+      </description>
+      <source:markdown>Legislation recently enacted in California will make it easier for consumers nationwide to protect their data</source:markdown>
+      <guid>cid://tag:themarkup.org,2019,81975</guid>
+    </item>    <item>
+      <title>Epic and Google Agree to Settle Their Play Store Lawsuit, Pending Approval From Judge</title>
+      <link>https://www.theverge.com/policy/813991/epic-google-proposed-settlement</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42357</guid>
+    </item>    <item>
+      <title>Just for Fun, Some Vintage 2014 John Dvorak Claim Chowder</title>
+      <link>https://daringfireball.net/linked/2014/07/30/dvorak</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42356</guid>
+    </item>    <item>
+      <title>France enshrines need for consent into rape law in wake of Gisèle...</title>
+      <link>https://kottke.org/25/11/0047789-france-enshrines-need-for</link>
+      <guid>cid://tag:kottke.org,2025://13.47789</guid>
+    </item>    <item>
+      <title>Sorda: los sentidos de la maternidad</title>
+      <link>https://www.palomitademaiz.net/resenas-sorda/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-sorda</link>
+      <description>
+        <![CDATA[<p>Dirección: Eva Libertad. Guion: Eva Libertad. Elenco: Miriam Garlo, Álvaro Cervantes, Elena Irureta, Joaquín Notario. País: España. Más información de la película: https://www.imdb.com/title/tt26923797/ En 1983, el activista Mike Oliver propuso el modelo social de la discapacidad, un paradigma teórico que plantea que las causas que originan la discapacidad no son biomédicas, sino sociales. A través [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-sorda/">Sorda: los sentidos de la maternidad</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Dirección: Eva Libertad. Guion: Eva Libertad. Elenco: Miriam Garlo, Álvaro Cervantes, Elena Irureta, Joaquín Notario. País: España. Más información de la película: https://www.imdb.com/title/tt26923797/ En 1983, el activista Mike Oliver propuso el modelo social de la discapacidad, un paradigma teórico que plantea que las causas que originan la discapacidad no son biomédicas, sino sociales. A través \[…\]
+
+La entrada [Sorda: los sentidos de la maternidad](https://www.palomitademaiz.net/resenas-sorda/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=25541</guid>
+    </item>    <item>
+      <title>Edith Zimmerman: How I Broke My Drinking Habit. &#38;#8220;How do you fill...</title>
+      <link>https://kottke.org/25/11/0047793-edith-zimmerman-how-i-bro</link>
+      <guid>cid://tag:kottke.org,2025://13.47793</guid>
+    </item>    <item>
+      <title>The Curious About Everything Newsletter #56</title>
+      <link>https://jodiettenberg.substack.com/p/fifty-six</link>
+      <description>
+        <![CDATA[The many interesting things I read in October 2025]]>
+      </description>
+      <source:markdown>The many interesting things I read in October 2025</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!_3vB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdda57be5-0e53-44fe-b39a-42f7cbb93af1_1077x859.png" length="0" type="image/jpeg" />
+      <guid>cid://https://jodiettenberg.substack.com/p/fifty-six</guid>
+    </item>    <item>
+      <title>Tahoe’s Terrible Icons</title>
+      <link>https://onefoottsunami.com/2025/11/05/tahoes-terrible-icons/</link>
+      <guid>cid://https://onefoottsunami.com/?p=28955</guid>
+    </item>    <item>
+      <title>Workings</title>
+      <link>https://doc.searls.com/2025/11/05/workings/</link>
+      <description>
+        <![CDATA[Nitin Batjatia: The Coming Illumination: When AI Reveals How Work Really Happens. Related, from an Amazon earnings call, how Amazon will grow while shedding employees. Photos from the 41st IIW.]]>
+      </description>
+      <source:markdown>Nitin Batjatia: The Coming Illumination: When AI Reveals How Work Really Happens. Related, from an Amazon earnings call, how Amazon will grow while shedding employees. Photos from the 41st IIW.</source:markdown>
+      <guid>cid://https://doc.searls.com/2025/11/05/workings/</guid>
+    </item>    <item>
+      <title>Berghain by Rosalía, feat. Björk &#38; Yves Tumor</title>
+      <link>https://kottke.org/25/11/berghain-by-rosalia-feat-bjork-yves-tumor</link>
+      <guid>cid://tag:kottke.org,2025://5.47784</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/05.html#a142319</link>
+      <description>
+        <![CDATA[And it's undeniable, the voters said no to Schumer and the current theoretical Democratic leaders. They can't be in charge of the future, otherwise we're lost. So the voters figured it out. Let's make sure everyone hears this, they seem to be saying. You better be able to lead us or don't bother applying for the job.]]>
+      </description>
+      <source:markdown>And it&#39;s undeniable, the voters said no to Schumer and the current theoretical Democratic leaders. They can&#39;t be in charge of the future, otherwise we&#39;re lost. So the voters figured it out. Let&#39;s make sure everyone hears this, they seem to be saying. You better be able to lead us or don&#39;t bother applying for the job.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/05.html#a142319</guid>
+    </item>    <item>
+      <title>Flying Wide</title>
+      <link>https://doc.searls.com/2025/11/05/flying-wide-3/</link>
+      <description>
+        <![CDATA[The crash of UPS Airlines Flight 2976 at  Louisville Muhammad Ali International Airport (SDF) yesterday afternoon was 76 miles from here. Feels closer. A house in the middle of nowhere, Texas, contains a Boeing 727 fuselage. French words in English for airplane parts: fuselage, nacelle, aileron, empennage. This is largely because the Wright Brothers held tight [&#8230;]]]>
+      </description>
+      <source:markdown>The crash of UPS Airlines Flight 2976 at  Louisville Muhammad Ali International Airport (SDF) yesterday afternoon was 76 miles from here. Feels closer. A house in the middle of nowhere, Texas, contains a Boeing 727 fuselage. French words in English for airplane parts: fuselage, nacelle, aileron, empennage. This is largely because the Wright Brothers held tight \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2025/11/05/flying-wide-3/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/05.html#a141300</link>
+      <description>
+        <![CDATA[Every <a href="https://wp.feedland.org/">FeedLand timeline</a> has a link to its OPML subscription list under the traditional white on orange <a href="https://imgs.scripting.com/2025/11/05/xmlIcon.png">XML icon</a>.]]>
+      </description>
+      <source:markdown>Every [FeedLand timeline](https://wp.feedland.org/) has a link to its OPML subscription list under the traditional white on orange [XML icon](https://imgs.scripting.com/2025/11/05/xmlIcon.png).</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/05.html#a141300</guid>
     </item>    <item>
       <link>http://scripting.com/2025/11/05.html#a134333</link>
       <description>
@@ -96,6 +228,14 @@ As authoritarianism is rising around the world, AI-generated “slop” is overw
       <enclosure url="https://api.substack.com/feed/podcast/177901928/5e8b1c7a8080ce60e49b3f31faa00bac.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.borowitzreport.com/p/adam-kinzinger-doesnt-hold-back</guid>
     </item>    <item>
+      <title>A Brief History of American Socialism</title>
+      <link>https://lithub.com/a-brief-history-of-american-socialism/</link>
+      <description>
+        <![CDATA[“America will never be a socialist country,” declared Donald Trump in his 2019 State of the Union Address, given to a joint session of Congress. The president clearly believed that fear of such a radical transformation would help him win]]>
+      </description>
+      <source:markdown>“America will never be a socialist country,” declared Donald Trump in his 2019 State of the Union Address, given to a joint session of Congress. The president clearly believed that fear of such a radical transformation would help him win</source:markdown>
+      <guid>cid://https://lithub.com/?p=212935</guid>
+    </item>    <item>
       <title>Casio FX9000P RAM replacement</title>
       <link>https://www.raspberrypi.com/news/casio-fx9000p-ram-replacement/</link>
       <description>
@@ -121,6 +261,14 @@ The post [Casio FX9000P RAM replacement](https://www.raspberrypi.com/news/casio-
       </description>
       <source:markdown>Singles’ Day is a $150B holiday in China. Here’s why they think ‘11/11’ will catch on in the US.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/11/05/1817/</guid>
+    </item>    <item>
+      <title>What Happened to My Political Novel When I Resisted Satire and Leaned Into Idealism</title>
+      <link>https://lithub.com/what-happened-to-my-political-novel-when-i-resisted-satire-and-leaned-into-idealism/</link>
+      <description>
+        <![CDATA[When I started writing the novel that became Town &#38; Country, I imagined it as a sharp critique of urbanites flooding a trendy rural swing district, intending to skewer the obliviousness of a group of wealthy gay men and their]]>
+      </description>
+      <source:markdown>When I started writing the novel that became Town &#38; Country, I imagined it as a sharp critique of urbanites flooding a trendy rural swing district, intending to skewer the obliviousness of a group of wealthy gay men and their</source:markdown>
+      <guid>cid://https://lithub.com/?p=261968</guid>
     </item>    <item>
       <title>Famed software engineer DJB tries Fil-C… and likes what he sees</title>
       <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/11/05/djb_tries_filc_and_approves/</link>
@@ -172,14 +320,6 @@ Famed mathematician, cryptographer and coder Daniel J. Bernstein has tried out t
       </description>
       <source:markdown>Last spring, I was waiting to hear from my agent and editors about the fate of my second novel. I knew full well this was not, really, a big deal in the least; it wasn’t as if my health were</source:markdown>
       <guid>cid://https://lithub.com/?p=261716</guid>
-    </item>    <item>
-      <title>What Happened to My Political Novel When I Resisted Satire and Leaned Into Idealism</title>
-      <link>https://lithub.com/what-happened-to-my-political-novel-when-i-resisted-satire-and-leaned-into-idealism/</link>
-      <description>
-        <![CDATA[When I started writing the novel that became Town &#38; Country, I imagined it as a sharp critique of urbanites flooding a trendy rural swing district, intending to skewer the obliviousness of a group of wealthy gay men and their]]>
-      </description>
-      <source:markdown>When I started writing the novel that became Town &#38; Country, I imagined it as a sharp critique of urbanites flooding a trendy rural swing district, intending to skewer the obliviousness of a group of wealthy gay men and their</source:markdown>
-      <guid>cid://https://lithub.com/?p=261968</guid>
     </item>    <item>
       <title>The Invitation of Brevity: Ten Novels in Verse That Will Hook You</title>
       <link>https://lithub.com/the-invitation-of-brevity-ten-novels-in-verse-that-will-hook-you/</link>
@@ -259,7 +399,7 @@ Check out all of the Future Knowledge episodes at [https://archive.org/details/f
       <enclosure url="https://substackcdn.com/image/fetch/$s_!2RuR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06c2bbe4-4c6c-4c79-ade7-2b6f93485702_2502x3349.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/the-sleeping-giant-awakens</guid>
     </item>    <item>
-      <title>Quoting @belligerentbarbies</title>
+      <title>Quoting Ada James</title>
       <link>https://simonwillison.net/2025/Nov/5/brenda/#atom-everything</link>
       <description>
         <![CDATA[<blockquote cite="http://www.tiktok.com/@belligerentbarbies/video/7568380008633257271"><p>I'm worried that they put co-pilot in Excel because Excel is the beast that drives our entire economy and do you know who has tamed that beast?</p>
@@ -269,7 +409,7 @@ Check out all of the Future Knowledge episodes at [https://archive.org/details/f
         <p>She's gonna birth that formula for a financial report and then she's gonna send that financial report to a higher up and he's gonna need to make a change to the report and normally he would have sent it back to Brenda but he's like oh I have AI and AI is probably like smarter than Brenda and then the AI is gonna fuck it up real bad and he won't be able to recognize it because he doesn't understand Excel because AI hallucinates.</p>
         <p>You know who's not hallucinating?</p>
         <p>Brenda.</p></blockquote>
-        <p class="cite">&mdash; <a href="http://www.tiktok.com/@belligerentbarbies/video/7568380008633257271">@belligerentbarbies</a>, on TikTok</p>
+        <p class="cite">&mdash; <a href="http://www.tiktok.com/@belligerentbarbies/video/7568380008633257271">Ada James</a>, @belligerentbarbies on TikTok</p>
         
             <p>Tags: <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/excel">excel</a>, <a href="https://simonwillison.net/tags/hallucinations">hallucinations</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/tiktok">tiktok</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a></p>]]>
       </description>
@@ -287,7 +427,7 @@ Check out all of the Future Knowledge episodes at [https://archive.org/details/f
 &#62;
 &#62; Brenda.
 
-— [@belligerentbarbies](http://www.tiktok.com/@belligerentbarbies/video/7568380008633257271), on TikTok
+— [Ada James](http://www.tiktok.com/@belligerentbarbies/video/7568380008633257271), @belligerentbarbies on TikTok
 
 Tags: [generative-ai](https://simonwillison.net/tags/generative-ai), [ai](https://simonwillison.net/tags/ai), [excel](https://simonwillison.net/tags/excel), [hallucinations](https://simonwillison.net/tags/hallucinations), [llms](https://simonwillison.net/tags/llms), [tiktok](https://simonwillison.net/tags/tiktok), [ai-ethics](https://simonwillison.net/tags/ai-ethics)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Nov/5/brenda/#atom-everything</guid>
@@ -338,6 +478,10 @@ Tags: [generative-ai](https://simonwillison.net/tags/generative-ai), [ai](https:
       </description>
       <source:markdown>Reading room The library in Oxburgh Hall, a stately home in Norfolk with an interesting history. Quote of the Day ”Confronted with computers that can produce fluent essays, instead of being astonished at how powerful they are, it’s possible that … [Continue reading →](https://memex.naughtons.org/wednesday-5-november-2025/41347/)</source:markdown>
       <guid>cid://https://memex.naughtons.org/?p=41347</guid>
+    </item>    <item>
+      <title>Turn the volume up.</title>
+      <link>https://anildash.com/2025/11/05/turn-the-volume-up/</link>
+      <guid>cid://https://anildash.com/2025/11/05/turn-the-volume-up/</guid>
     </item>    <item>
       <title>Code execution with MCP: Building more efficient agents</title>
       <link>https://simonwillison.net/2025/Nov/4/code-execution-with-mcp/#atom-everything</link>
@@ -1430,6 +1574,65 @@ Tags: [technical-debt](https://simonwillison.net/tags/technical-debt), [psycholo
 I’m here to clean up this mess.
 I have been deeply involved with the ReactOS project since 2023 and in May of 2024 I became an official project developer.</source:markdown>
       <guid>cid://https://reactos.org/blogs/cbialorucki-tests-2/</guid>
+    </item>    <item>
+      <title>GROUP BY ALL</title>
+      <link>https://modern-sql.com/caniuse/group-by-all</link>
+      <description>
+        <![CDATA[<h1 id="main-title"><code class="command">Group by All</code>: Generate <code class="command">group by</code> from <code class="command">select</code></h1><img width="500" height="319" alt="Full BigQuery support since at least 2020-03-28. Full Oracle DB support since 23.9." src="https://modern-sql.com/caniuse/group-by-all/group-by-all.tl.png"><ol class="footnotes" type="a"><li>Removes the <code class="command">group by all</code> clause if it leads to an error that does not happen without <code class="command">group by</code> clause</li></ol><p>Some Systems allow the special <code class="command">group by all</code> syntax as a shorthand for grouping on all <code class="command">select</code> items that do not have an aggregate function.</p><pre><code>SELECT customers.id, customers.name, count(orders.id)
+          FROM customers
+          LEFT JOIN orders ON customers.id = orders.customer_id
+         <b>GROUP BY ALL</b></code></pre><p>This is equivalent to listing <code>customers.id</code> and <code>customers.name</code> in the <code class="command">group by</code> clause explicitly.</p><p>The two short-hands provided by the standard (detection of functional dependencies and <code class="command">any_value</code>) require a little more typing but provide a safety-net against accidental changes of the grouping key: If the example above is extended to also select the <code>orders.placed</code> column, it silently changes the grouping key—even if that was not intended.</p><hr/><div class="admonition-wrapper"><div class="admonition"><span class="icon"/><h4>Probably in PostgreSQL 19</h4><p><a href="https://www.depesz.com/2025/10/02/waiting-for-postgresql-19-add-group-by-all/">This feature was committed for PostgreSQL 19</a>.</p></div></div><hr/><h2 id="related">Related</h2><ul><li><p><a href="https://modern-sql.com/caniuse/T301">T301, “Functional dependencies”</a></p></li><li><p><a href="https://modern-sql.com/caniuse/any_value">The <code class="command">ANY_VALUE(…)</code> Aggregate Function: New in SQL:2023 — and a better feature from 1999</a></p></li></ul><h2 id="normative-references">Normative References</h2><p>The <code class="command">group by all</code> syntax as shown above is not covered in ISO/IEC 9075-2:2023. The keyword <code class="command">all</code> must not be mistaken for the <code class="command">&lt;set quantifier&gt;</code>, which is also allowed in <code class="command">group by</code> (T434, “GROUP BY DISTINCT”).</p><hr/><div class="admonition-wrapper"><div class="admonition"><span class="icon"/><h4>Probably in the Next Standard</h4><p><a href="https://www.postgresql.org/message-id/6db86e0b-697a-4e4b-860a-7ad9736a8e81%40postgresfriends.org">This feature is probably in the next standard</a>. However, as the standard doesn’t allow for expressions in the <code class="command">group by</code> clause, <code class="command">group by all</code> is non-conforming if items added to <code class="command">group by</code> are not just column names.</p><p>As most systems do support expressions in <code class="command">group by</code>, there is still a standardization gap that might lead to different results in different systems in a few corner cases, for example here: <code>select a + COUNT(*) OVER()</code>.<sup><small><a href="https://modern-sql.com/caniuse/group-by-all#tl" class="footnote-ref">✓✗</a></small></sup></p></div></div><hr/><p><em>“<a href="https://modern-sql.com/caniuse/group-by-all"><code class="command">Group by All</code></a>” by <a href="https://winand.at/">Markus Winand</a> was originally published at <a href="https://modern-sql.com/">Modern SQL</a>.</em></p>]]>
+      </description>
+      <source:markdown># `Group by All`: Generate `group by` from `select`
+
+![Full BigQuery support since at least 2020-03-28. Full Oracle DB support since 23.9.](https://modern-sql.com/caniuse/group-by-all/group-by-all.tl.png)
+
+1. Removes the `group by all` clause if it leads to an error that does not happen without `group by` clause
+
+Some Systems allow the special `group by all` syntax as a shorthand for grouping on all `select` items that do not have an aggregate function.
+
+```
+SELECT customers.id, customers.name, count(orders.id)
+  FROM customers
+  LEFT JOIN orders ON customers.id = orders.customer_id
+ GROUP BY ALL
+```
+
+This is equivalent to listing `customers.id` and `customers.name` in the `group by` clause explicitly.
+
+The two short-hands provided by the standard (detection of functional dependencies and `any_value`) require a little more typing but provide a safety-net against accidental changes of the grouping key: If the example above is extended to also select the `orders.placed` column, it silently changes the grouping key—even if that was not intended.
+
+* * *
+
+#### Probably in PostgreSQL 19
+
+[This feature was committed for PostgreSQL 19](https://www.depesz.com/2025/10/02/waiting-for-postgresql-19-add-group-by-all/).
+
+* * *
+
+## Related
+
+- [T301, “Functional dependencies”](https://modern-sql.com/caniuse/T301)
+
+- [The `ANY_VALUE(…)` Aggregate Function: New in SQL:2023 — and a better feature from 1999](https://modern-sql.com/caniuse/any_value)
+
+
+## Normative References
+
+The `group by all` syntax as shown above is not covered in ISO/IEC 9075-2:2023. The keyword `all` must not be mistaken for the `&#60;set quantifier&#62;`, which is also allowed in `group by` (T434, “GROUP BY DISTINCT”).
+
+* * *
+
+#### Probably in the Next Standard
+
+[This feature is probably in the next standard](https://www.postgresql.org/message-id/6db86e0b-697a-4e4b-860a-7ad9736a8e81%40postgresfriends.org). However, as the standard doesn’t allow for expressions in the `group by` clause, `group by all` is non-conforming if items added to `group by` are not just column names.
+
+As most systems do support expressions in `group by`, there is still a standardization gap that might lead to different results in different systems in a few corner cases, for example here: `select a + COUNT(*) OVER()`.[✓✗](https://modern-sql.com/caniuse/group-by-all#tl)
+
+* * *
+
+_“ [`Group by All`](https://modern-sql.com/caniuse/group-by-all)” by [Markus Winand](https://winand.at/) was originally published at [Modern SQL](https://modern-sql.com/)._</source:markdown>
+      <guid>cid://https://modern-sql.com/caniuse/group-by-all</guid>
     </item>    <item>
       <title>What the Democrats Must Do. Now!</title>
       <link>https://robertreich.substack.com/p/what-the-democrats-must-do-now</link>

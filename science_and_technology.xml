@@ -4,14 +4,270 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>05 Nov 25 06:10 -0800</lastBuildDate>
+    <lastBuildDate>05 Nov 25 10:12 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>LLMs Broke the SRE Runbook. Now What?</title>
+      <link>https://thenewstack.io/llms-broke-the-sre-runbook-now-what/</link>
+      <description>
+        <![CDATA[<p>Reliability engineers are the quiet force that keeps modern software running. After decades of refining practices on deterministic systems, many</p>
+        <p>The post <a href="https://thenewstack.io/llms-broke-the-sre-runbook-now-what/">LLMs Broke the SRE Runbook. Now What?</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>Reliability engineers are the quiet force that keeps modern software running. After decades of refining practices on deterministic systems, many
+
+The post [LLMs Broke the SRE Runbook. Now What?](https://thenewstack.io/llms-broke-the-sre-runbook-now-what/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804445</guid>
+    </item>    <item>
+      <title>Digitalfunk-Desaster der Bundeswehr: Millionen für Berater sollen es richten</title>
+      <link>https://www.heise.de/news/Digitalfunk-Desaster-der-Bundeswehr-Millionen-fuer-Berater-sollen-es-richten-11067079.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Capgemini, PwC & Co. sollen helfen, die Probleme beim Digitalfunk des Heeres in den Griff zu bekommen. Es geht um Aufträge in Höhe von knapp 160 Millionen Euro.]]>
+      </description>
+      <source:markdown>Capgemini, PwC &#38; Co. sollen helfen, die Probleme beim Digitalfunk des Heeres in den Griff zu bekommen. Es geht um Aufträge in Höhe von knapp 160 Millionen Euro.</source:markdown>
+      <guid>cid://http://heise.de/-11067079</guid>
+    </item>    <item>
+      <title>Google&#39;s $32B deal for Wiz gets the all-clear from Uncle Sam</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/05/googles_32b_wiz_acquisition_its/</link>
+      <description>
+        <![CDATA[<h4>Second time&#39;s the charm for after Wiz rejected Google&#39;s $23B offer last year</h4> <p>Google&#39;s second attempt to acquire cloud security firm Wiz is going a lot better than the first, with the Department of Justice clearing the $32 billion deal, which ranks as Google&#39;s largest-ever acquisition.…</p>]]>
+      </description>
+      <source:markdown>#### Second time&#39;s the charm for after Wiz rejected Google&#39;s $23B offer last year
+
+Google&#39;s second attempt to acquire cloud security firm Wiz is going a lot better than the first, with the Department of Justice clearing the $32 billion deal, which ranks as Google&#39;s largest-ever acquisition.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242865</guid>
+    </item>    <item>
+      <title>Anschluss an Stromnetze: Halbleiter statt Kupfer im Solid State Transformer</title>
+      <link>https://www.heise.de/news/Anschluss-an-Stromnetze-Halbleiter-statt-Kupfer-im-Solid-State-Transformer-11067013.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Um Rechenzentren oder Stromtankstellen ans Netz zu koppeln, ersetzen Solid State Transformer (SST) zunehmend klassische Transformatoren.]]>
+      </description>
+      <source:markdown>Um Rechenzentren oder Stromtankstellen ans Netz zu koppeln, ersetzen Solid State Transformer (SST) zunehmend klassische Transformatoren.</source:markdown>
+      <guid>cid://http://heise.de/-11067013</guid>
+    </item>    <item>
+      <title>Oak Ridge lab bags $125M to bolt quantum onto supercomputers</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/05/oak_ridge_125m_funding/</link>
+      <description>
+        <![CDATA[<h4>The DoE’s planned funding runs through 2030</h4> <p>America&#39;s Oak Ridge National Laboratory will receive up to $125 million through 2030 to develop hybrid computing systems that link quantum and supercomputing technologies.…</p>]]>
+      </description>
+      <source:markdown>#### The DoE’s planned funding runs through 2030
+
+America&#39;s Oak Ridge National Laboratory will receive up to $125 million through 2030 to develop hybrid computing systems that link quantum and supercomputing technologies.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242864</guid>
+    </item>    <item>
+      <title>Microsoft Launches Magentic Marketplace for AI Agents</title>
+      <link>https://thenewstack.io/microsoft-launches-magentic-marketplace-for-ai-agents/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/61978141-alex-shuper-rvrqqdweij0-unsplashb-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="magenta" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/61978141-alex-shuper-rvrqqdweij0-unsplashb.jpg" /><p>Microsoft Research has just launched an open source environment for studying agentic markets, called Magentic Marketplace. In advance of the</p>
+        <p>The post <a href="https://thenewstack.io/microsoft-launches-magentic-marketplace-for-ai-agents/">Microsoft Launches Magentic Marketplace for AI Agents</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![magenta](https://cdn.thenewstack.io/media/2025/11/61978141-alex-shuper-rvrqqdweij0-unsplashb-1024x576.jpg)
+
+Microsoft Research has just launched an open source environment for studying agentic markets, called Magentic Marketplace. In advance of the
+
+The post [Microsoft Launches Magentic Marketplace for AI Agents](https://thenewstack.io/microsoft-launches-magentic-marketplace-for-ai-agents/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805436</guid>
+    </item>    <item>
+      <title>When Debian won&#39;t do, Devuan 6 &#39;Excalibur&#39; Linux makes the grade</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/05/devuan_6_excalibur_is_out/</link>
+      <description>
+        <![CDATA[<h4>Debian 13 base, minus systemd and RISC-V build</h4> <p>Old school enough to favor Debian, but averse to systemd? Good news: Devuan 6 &#34;Excalibur&#34; is here, and all you need to do is <del>draw it from the stone</del> master its installer.…</p>]]>
+      </description>
+      <source:markdown>#### Debian 13 base, minus systemd and RISC-V build
+
+Old school enough to favor Debian, but averse to systemd? Good news: Devuan 6 &#34;Excalibur&#34; is here, and all you need to do is draw it from the stone master its installer.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242862</guid>
+    </item>    <item>
+      <title>AMD taking AI fight to Nvidia with Helios rack-scale system</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/05/amd_pins_its_hopes_on/</link>
+      <description>
+        <![CDATA[<h4>CEO Lisa Su says next-gen MI400 GPUs and architecture gaining traction with hyperscalers</h4> <p>AMD plans to launch its Helios rack-scale architecture in 2026 as a direct challenge to Nvidia in the AI infrastructure market, pending successful integration of its next-gen GPUs and processors.…</p>]]>
+      </description>
+      <source:markdown>#### CEO Lisa Su says next-gen MI400 GPUs and architecture gaining traction with hyperscalers
+
+AMD plans to launch its Helios rack-scale architecture in 2026 as a direct challenge to Nvidia in the AI infrastructure market, pending successful integration of its next-gen GPUs and processors.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242858</guid>
+    </item>    <item>
+      <title>heise+ | Gezielt trainieren: Suunto Race 2 im Test</title>
+      <link>https://www.heise.de/tests/Gezielt-trainieren-Suunto-Race-2-im-Test-10781721.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Suunto ergänzt bei seiner Sportuhr Race 2 ein Sprachfeedback und Trainingspläne. Wie gut ist die Fitness-Smartwatch?]]>
+      </description>
+      <source:markdown>Suunto ergänzt bei seiner Sportuhr Race 2 ein Sprachfeedback und Trainingspläne. Wie gut ist die Fitness-Smartwatch?</source:markdown>
+      <guid>cid://http://heise.de/-10781721</guid>
+    </item>    <item>
+      <title>Gnome wirft X11-Backend endgültig raus</title>
+      <link>https://www.heise.de/news/X11-in-Gnome-ist-Geschichte-Backend-entfernt-11066916.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Angedeutet hatte es sich schon, nun haben die Entwickler durchgezogen: Sie haben den X11-Backend-Code aus Gnome entfernt.]]>
+      </description>
+      <source:markdown>Angedeutet hatte es sich schon, nun haben die Entwickler durchgezogen: Sie haben den X11-Backend-Code aus Gnome entfernt.</source:markdown>
+      <guid>cid://http://heise.de/-11066916</guid>
+    </item>    <item>
+      <title>Dia-Browser für den Mac: Ein bisschen Arc</title>
+      <link>https://www.heise.de/news/KI-Browser-fuer-macOS-Dia-bekommt-Funktionen-aus-Arc-zurueck-11050838.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Browser Company, mittlerweile Teil von Atlassian, hat Funktionen aus Arc in Dia zurückportiert – allerdings noch etwas anders als erwünscht.]]>
+      </description>
+      <source:markdown>Die Browser Company, mittlerweile Teil von Atlassian, hat Funktionen aus Arc in Dia zurückportiert – allerdings noch etwas anders als erwünscht.</source:markdown>
+      <guid>cid://http://heise.de/-11050838</guid>
+    </item>    <item>
+      <title>Schnellere Züge für Europa: EU-Kommission will Reisezeiten bis 2040 halbieren</title>
+      <link>https://www.heise.de/news/EU-plant-Hochgeschwindigkeitsnetz-In-vier-Stunden-von-Berlin-nach-Kopenhagen-11066826.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die EU-Kommission will Europa durch schnellere Bahnverbindungen näher zusammenbringen. Bis 2040 sollen Reisezeiten drastisch sinken.]]>
+      </description>
+      <source:markdown>Die EU-Kommission will Europa durch schnellere Bahnverbindungen näher zusammenbringen. Bis 2040 sollen Reisezeiten drastisch sinken.</source:markdown>
+      <guid>cid://http://heise.de/-11066826</guid>
+    </item>    <item>
+      <title>Arbeitslos wegen KI: Laut einer Studie holen Unternehmen ihre Mitarbeiter zurück</title>
+      <link>https://www.heise.de/news/Arbeitslos-wegen-KI-Laut-einer-Studie-holen-Unternehmen-ihre-Mitarbeiter-zurueck-11066882.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Studien zeigen: Bisher können KI-Modelle menschliche Mitarbeiter nicht ersetzen. Wer entlassen wird, könnte deshalb bald wieder am selben Schreibtisch sitzen.]]>
+      </description>
+      <source:markdown>Studien zeigen: Bisher können KI-Modelle menschliche Mitarbeiter nicht ersetzen. Wer entlassen wird, könnte deshalb bald wieder am selben Schreibtisch sitzen.</source:markdown>
+      <guid>cid://http://heise.de/-11066882</guid>
+    </item>    <item>
+      <title>Beyond Basic RAG: AI Agents for Context-Aware Responses</title>
+      <link>https://thenewstack.io/beyond-basic-rag-ai-agents-for-context-aware-responses/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/e44b4a46-beyond-basic-rag-ai-agents-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="&quot;Beyond Basic RAG: AI Agents for Context-Aware Responses&quot; featured image" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/e44b4a46-beyond-basic-rag-ai-agents.jpg" /><p>It&#8217;s been fewer than three years since the first release of ChatGPT. The initial large language models (LLMs) were popular,</p>
+        <p>The post <a href="https://thenewstack.io/beyond-basic-rag-ai-agents-for-context-aware-responses/">Beyond Basic RAG: AI Agents for Context-Aware Responses</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![&#34;Beyond Basic RAG: AI Agents for Context-Aware Responses&#34; featured image](https://cdn.thenewstack.io/media/2025/11/e44b4a46-beyond-basic-rag-ai-agents-1024x576.jpg)
+
+It’s been fewer than three years since the first release of ChatGPT. The initial large language models (LLMs) were popular,
+
+The post [Beyond Basic RAG: AI Agents for Context-Aware Responses](https://thenewstack.io/beyond-basic-rag-ai-agents-for-context-aware-responses/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805349</guid>
+    </item>    <item>
+      <title>Archaeologists Unearth More Than 100 Projectiles From an Iconic Battlefield in Scotland</title>
+      <link>https://www.smithsonianmag.com/smart-news/archaeologists-unearth-more-than-100-projectiles-from-an-iconic-battlefield-in-scotland-180987641/</link>
+      <description>
+        <![CDATA[The Battle of Culloden marked the end of the Jacobite rising of 1745 and was the last pitched battle fought on British soil]]>
+      </description>
+      <source:markdown>The Battle of Culloden marked the end of the Jacobite rising of 1745 and was the last pitched battle fought on British soil</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/JFXUrR9y-luAIWNwWBoFR_3zt6M=/420x240/filters:focal(722x400:723x401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/56/98/5698ae90-7eeb-4be0-9f37-f2672b8d088e/54886045635_354374c119_k.jpg" length="" type="" />
+    </item>    <item>
+      <title>Two-fifths of SAP Americas users yet to ditch legacy ERP</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/05/two_years_out_from_support/</link>
+      <description>
+        <![CDATA[<h4>S/4HANA migration? Many still worried about business process change</h4> <p>Around two fifths of North America&#39;s SAP users have yet to begin migrating to S/4HANA with just two years until mainstream support ends for legacy systems.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### S/4HANA migration? Many still worried about business process change
+
+Around two fifths of North America&#39;s SAP users have yet to begin migrating to S/4HANA with just two years until mainstream support ends for legacy systems.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242859</guid>
+    </item>    <item>
+      <title>Pilze statt Silizium: Shiitake-Myzel zeigt Memristor-Eigenschaften</title>
+      <link>https://www.heise.de/news/Pilze-statt-Silizium-Shiitake-Myzel-zeigt-Memristor-Eigenschaften-11066754.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ein Team der Ohio State University zeigt in einer Studie: Pilzgeflecht kann elektrische Zustände speichern und wiedergeben.]]>
+      </description>
+      <source:markdown>Ein Team der Ohio State University zeigt in einer Studie: Pilzgeflecht kann elektrische Zustände speichern und wiedergeben.</source:markdown>
+      <guid>cid://http://heise.de/-11066754</guid>
+    </item>    <item>
+      <title>Diskussion um &#34;Digitalokratie&#34;: &#34;Aktuell gibt es keine digitale Souveränität&#34;</title>
+      <link>https://www.heise.de/news/Ueber-Monopole-Medienmacht-und-die-Rueckeroberung-der-digitalen-Souveraenitaet-11066578.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Was Europas digitaler Zukunft helfen könnte und wie die Befreiung aus den Fängen der Tech-Monopolisten gelingen kann, war Thema auf der KI-Woche in Stuttgart.]]>
+      </description>
+      <source:markdown>Was Europas digitaler Zukunft helfen könnte und wie die Befreiung aus den Fängen der Tech-Monopolisten gelingen kann, war Thema auf der KI-Woche in Stuttgart.</source:markdown>
+      <guid>cid://http://heise.de/-11066578</guid>
+    </item>    <item>
+      <title>Vertrag soll bis Jahresende stehen: Bayern will in die Microsoft-Cloud</title>
+      <link>https://www.heise.de/news/Vertrag-soll-bis-Jahresende-stehen-Bayern-will-in-die-Microsoft-Cloud-11066618.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Bayern will seine Behörden mit Microsoft 365 ausstatten. Kritiker rechnen mit Lizenzkosten in Milliardenhöhe und warnen vor dem Verlust digitaler Souveränität.]]>
+      </description>
+      <source:markdown>Bayern will seine Behörden mit Microsoft 365 ausstatten. Kritiker rechnen mit Lizenzkosten in Milliardenhöhe und warnen vor dem Verlust digitaler Souveränität.</source:markdown>
+      <guid>cid://http://heise.de/-11066618</guid>
+    </item>    <item>
+      <title>Thermostat für Fußbodenheizung: Aqara W500 im Test – auch für Home Assistant</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/thermostat-fuer-fussbodenheizung-aqara-w500-im-test-auch-fuer-home-assistant/g8vt4n4?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das Aqara W500 für Fußbodenheizungen unterstützt Thread oder Zigbee und lässt sich auch mit Home Assistant steuern. Was es sonst noch kann, zeigt der Test.]]>
+      </description>
+      <source:markdown>Das Aqara W500 für Fußbodenheizungen unterstützt Thread oder Zigbee und lässt sich auch mit Home Assistant steuern. Was es sonst noch kann, zeigt der Test.</source:markdown>
+      <guid>cid://http://heise.de/-11066870</guid>
+    </item>    <item>
+      <title>EU-Länder wollen 90 Prozent weniger Emissionen bis 2040</title>
+      <link>https://www.heise.de/news/EU-Laender-wollen-90-Prozent-weniger-Emissionen-bis-2040-11066866.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Nach mehr als 20 Stunden langem Feilschen steht fest: Die EU-Länder wollen den Treibhausgasausstoß bis 2040 um 90 Prozent reduzieren.]]>
+      </description>
+      <source:markdown>Nach mehr als 20 Stunden langem Feilschen steht fest: Die EU-Länder wollen den Treibhausgasausstoß bis 2040 um 90 Prozent reduzieren.</source:markdown>
+      <guid>cid://http://heise.de/-11066866</guid>
+    </item>    <item>
+      <title>How Your Brain Creates ‘Aha’ Moments and Why They Stick</title>
+      <link>https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/</link>
+      <description>
+        <![CDATA[A sudden flash of insight is a product of your brain. Neuroscientists track the neural activity underlying an “aha” and how it might boost memory.            <p>The post <a href="https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/" target="_blank">How Your Brain Creates ‘Aha’ Moments and Why They Stick</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>A sudden flash of insight is a product of your brain. Neuroscientists track the neural activity underlying an “aha” and how it might boost memory.
+
+The post [How Your Brain Creates ‘Aha’ Moments and Why They Stick](https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=155998</guid>
+    </item>    <item>
+      <title>AMD red-faced over random-number bug that kills cryptographic security</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/05/amd_promises_to_fix_chips/</link>
+      <description>
+        <![CDATA[<h4>Local privileges required to exploit flaw in Ryzen and Epyc CPUs. Some patches available, more on the way</h4> <p>AMD will issue a microcode patch for a high-severity vulnerability that could weaken cryptographic keys across Epyc and Ryzen CPUs.…</p>]]>
+      </description>
+      <source:markdown>#### Local privileges required to exploit flaw in Ryzen and Epyc CPUs. Some patches available, more on the way
+
+AMD will issue a microcode patch for a high-severity vulnerability that could weaken cryptographic keys across Epyc and Ryzen CPUs.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242861</guid>
+    </item>    <item>
+      <title>Moving From C++ to Rust? Clickhouse Has Some Advice</title>
+      <link>https://thenewstack.io/moving-from-c-to-rust-clickhouse-has-some-advice/</link>
+      <description>
+        <![CDATA[<img width="1024" height="776" src="https://cdn.thenewstack.io/media/2025/11/45338a44-jen-theodore-gvf_yldx_oy-unsplash-1024x776.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/45338a44-jen-theodore-gvf_yldx_oy-unsplash.jpg" /><p>Clickhouse is an open source analytics-oriented database system composed of 1.5 million lines of code, mostly in C++, a notoriously</p>
+        <p>The post <a href="https://thenewstack.io/moving-from-c-to-rust-clickhouse-has-some-advice/">Moving From C++ to Rust? Clickhouse Has Some Advice</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/45338a44-jen-theodore-gvf_yldx_oy-unsplash-1024x776.jpg)
+
+Clickhouse is an open source analytics-oriented database system composed of 1.5 million lines of code, mostly in C++, a notoriously
+
+The post [Moving From C++ to Rust? Clickhouse Has Some Advice](https://thenewstack.io/moving-from-c-to-rust-clickhouse-has-some-advice/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804545</guid>
+    </item>    <item>
+      <title>Arbeitsspeicher: RAM-Preise schießen hoch</title>
+      <link>https://www.heise.de/news/Arbeitsspeicher-RAM-Preise-schiessen-hoch-11066715.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Befürchtungen werden wahr: Auch in Europa steigen die Verkaufspreise für Speichermodule deutlich an. Besserung ist nicht in Sicht, weil die Nachfrage wächst.]]>
+      </description>
+      <source:markdown>Befürchtungen werden wahr: Auch in Europa steigen die Verkaufspreise für Speichermodule deutlich an. Besserung ist nicht in Sicht, weil die Nachfrage wächst.</source:markdown>
+      <guid>cid://http://heise.de/-11066715</guid>
+    </item>    <item>
+      <title>Wegen Sexpuppen-Skandal: Frankreich will Shein aussperren</title>
+      <link>https://www.heise.de/news/Sexpuppen-Skandal-Frankreich-will-Shein-sperren-11066731.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Frankreich leitet ein Verfahren zur Sperrung des chinesischen Online-Händlers Shein ein, weil er Sexpuppen mit kindlichem Aussehen angeboten hat.]]>
+      </description>
+      <source:markdown>Frankreich leitet ein Verfahren zur Sperrung des chinesischen Online-Händlers Shein ein, weil er Sexpuppen mit kindlichem Aussehen angeboten hat.</source:markdown>
+      <guid>cid://http://heise.de/-11066731</guid>
+    </item>    <item>
+      <title>Bundesregierung will Führerschein bis Ende 2026 aufs Smartphone bringen</title>
+      <link>https://www.heise.de/news/Bundesregierung-will-Fuehrerschein-bis-Ende-2026-aufs-Smartphone-bringen-11066740.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Bundesregierung hat den Gesetzentwurf aus dem Verkehrsministerium beschlossen: Bis Ende 2026 soll unter anderem der Führerschein aufs Handy wandern.]]>
+      </description>
+      <source:markdown>Die Bundesregierung hat den Gesetzentwurf aus dem Verkehrsministerium beschlossen: Bis Ende 2026 soll unter anderem der Führerschein aufs Handy wandern.</source:markdown>
+      <guid>cid://http://heise.de/-11066740</guid>
+    </item>    <item>
+      <title>Mac Studio mit M5 Ultra im kommenden Jahr</title>
+      <link>https://www.heise.de/news/Mac-Studio-mit-M5-Ultra-im-kommenden-Jahr-11066303.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Apples Workstation kommt derzeit in einer merkwürdigen Konfiguration: M4 Max trifft auf M3 Ultra. Kommendes Jahr soll alles beim M5 landen.]]>
+      </description>
+      <source:markdown>Apples Workstation kommt derzeit in einer merkwürdigen Konfiguration: M4 Max trifft auf M3 Ultra. Kommendes Jahr soll alles beim M5 landen.</source:markdown>
+      <guid>cid://http://heise.de/-11066303</guid>
+    </item>    <item>
       <title>Pulumi’s AI Agent Tackles Infrastructure Compliance Backlogs</title>
       <link>https://thenewstack.io/pulumis-ai-agent-tackles-infrastructure-compliance-backlogs/</link>
       <description>
-        <![CDATA[<img width="1024" height="683" src="https://cdn.thenewstack.io/media/2025/11/12914a68-getty-images-hbhwfqrxomu-unsplash-1024x683.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/12914a68-getty-images-hbhwfqrxomu-unsplash.jpg" /><p>Organizations struggling with massive backlogs of infrastructure policy violations can now look to Pulumi for relief, as the company today</p>
+        <![CDATA[<img width="1024" height="683" src="https://cdn.thenewstack.io/media/2025/11/12914a68-getty-images-hbhwfqrxomu-unsplash-1024x683.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/12914a68-getty-images-hbhwfqrxomu-unsplash.jpg" /><p>Organizations struggling with massive backlogs of infrastructure policy violations can now look to Pulumi for relief, as the company today</p>
         <p>The post <a href="https://thenewstack.io/pulumis-ai-agent-tackles-infrastructure-compliance-backlogs/">Pulumi&#8217;s AI Agent Tackles Infrastructure Compliance Backlogs</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/12914a68-getty-images-hbhwfqrxomu-unsplash-1024x683.jpg)
@@ -561,7 +817,7 @@ Amazon.com has sent a cease and desist letter to Perplexity in which it insists 
       <title>Fixes Required for Prometheus’ OpenTelemetry Integration</title>
       <link>https://thenewstack.io/fixes-required-for-prometheus-opentelemetry-integration/</link>
       <description>
-        <![CDATA[<img width="1024" height="683" src="https://cdn.thenewstack.io/media/2025/11/32fce064-getty-images-mx88anchvle-unsplash-1-1024x683.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/32fce064-getty-images-mx88anchvle-unsplash-1.jpg" /><p>We have covered how there have been some conflicts between OpenTelemetry and Prometheus compatibility for a number of reasons. Much</p>
+        <![CDATA[<img width="1024" height="683" src="https://cdn.thenewstack.io/media/2025/11/32fce064-getty-images-mx88anchvle-unsplash-1-1024x683.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/32fce064-getty-images-mx88anchvle-unsplash-1.jpg" /><p>We have covered how there have been some conflicts between OpenTelemetry and Prometheus compatibility for a number of reasons. Much</p>
         <p>The post <a href="https://thenewstack.io/fixes-required-for-prometheus-opentelemetry-integration/">Fixes Required for Prometheus’ OpenTelemetry Integration</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/32fce064-getty-images-mx88anchvle-unsplash-1-1024x683.jpg)
@@ -1999,14 +2255,6 @@ The European Space Agency (ESA) has coined a tortured acronym for its project to
       </description>
       <source:markdown>Google hat ein neues Oktober-Update für seine Pixel-Smartphones veröffentlicht. Konkrete Neuerungen nennt der Konzern nicht, Verizon gibt erste Details preis.</source:markdown>
       <guid>cid://http://heise.de/-10986061</guid>
-    </item>    <item>
-      <title>heise+ | Gezielt trainieren: Suunto Race 2 im Test</title>
-      <link>https://www.heise.de/tests/Gezielt-trainieren-Suunto-Race-2-im-Test-10781721.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
-      <description>
-        <![CDATA[Suunto ergänzt bei seiner Sportuhr Race 2 ein Sprachfeedback und Trainingspläne. Wie gut ist die Fitness-Smartwatch?]]>
-      </description>
-      <source:markdown>Suunto ergänzt bei seiner Sportuhr Race 2 ein Sprachfeedback und Trainingspläne. Wie gut ist die Fitness-Smartwatch?</source:markdown>
-      <guid>cid://http://heise.de/-10781721</guid>
     </item>    <item>
       <title>KI-Update kompakt: OpenAI, Microsofts Web-Agent, selbstbewusste KI, Apple</title>
       <link>https://www.heise.de/news/KI-Update-kompakt-OpenAI-Microsofts-Web-Agent-selbstbewusste-KI-Apple-10977251.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
