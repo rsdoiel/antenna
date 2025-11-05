@@ -4,10 +4,14 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>04 Nov 25 14:11 -0800</lastBuildDate>
+    <lastBuildDate>05 Nov 25 06:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Write Now with Scrivener, Episode no. 56: Alexander Rose, Historian</title>
+      <link>https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-56-alexander-rose-historian</link>
+      <guid>cid://https://www.literatureandlatte.com/?p=8356</guid>
+    </item>    <item>
       <title>What Happened To Weird?</title>
       <link>https://johnaugust.com/2025/what-happened-to-weird</link>
       <description>
@@ -142,17 +146,6 @@ The post [Scriptnotes, Episode 704: Places, Everyone, Transcript](https://johnau
       <title>Writing a Novel in November? These Tips Will Help You Hit 50,000 Words</title>
       <link>https://www.literatureandlatte.com/blog/writing-a-novel-in-november-these-tips-will-help-you-hit-50000-words</link>
       <guid>cid://https://www.literatureandlatte.com/?p=8123</guid>
-    </item>    <item>
-      <title>After the Hunt</title>
-      <link>https://johnaugust.com/2025/after-the-hunt</link>
-      <description>
-        <![CDATA[<p>John welcomes writer and actress Nora Garrett to look at how her first screenplay, After the Hunt, took her from being un-repped to working with director Luca Guadagnino. They discuss her path from acting to writing, how her script went from being rejected by screenplay competitions to landing on Julia Roberts’ desk, and how she [&#8230;]</p>
-        The post <a href="https://johnaugust.com/2025/after-the-hunt">After the Hunt</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
-      </description>
-      <source:markdown>John welcomes writer and actress Nora Garrett to look at how her first screenplay, After the Hunt, took her from being un-repped to working with director Luca Guadagnino. They discuss her path from acting to writing, how her script went from being rejected by screenplay competitions to landing on Julia Roberts’ desk, and how she \[…\]
-
-The post [After the Hunt](https://johnaugust.com/2025/after-the-hunt) first appeared on [John August](https://johnaugust.com).</source:markdown>
-      <guid>cid://https://johnaugust.com/?p=23497</guid>
     </item>
   </channel>
 </rss>

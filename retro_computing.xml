@@ -4,7 +4,7 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>04 Nov 25 14:11 -0800</lastBuildDate>
+    <lastBuildDate>05 Nov 25 06:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -655,48 +655,6 @@ Want to know why nightly builds of BASIC gained a new [SYS-as-a-function keyword
       </description>
       <source:markdown>Mark J Koch (https://github.com/CircuitMonkey/mos-kim1-replica, ‪@markjkoch.bsky.social) is designing a not so common KIM-1 replica, the KIM-1000, with building blocks he calls ‬CHIPz modules. He posted photos of his first versions, it is at this moment (October 2025) a work in progress. As you can see on the photos the CHIPz modules on a ‘motherboard’ are recognizable \[…\]</source:markdown>
       <guid>cid://http://retro.hansotten.nl/?p=19032</guid>
-    </item>    <item>
-      <title>RISCOSbits asks that you get your London Show Special Reserve orders in now</title>
-      <link>https://www.riscository.com/2025/riscosbits-london-show-special-reserve/</link>
-      <description>
-        <![CDATA[Sadly, though, they&#8217;re not asking everyone for their drinks orders for the day. It&#8217;s now a touch under two weeks (or is it a touch over one and a half?) until this year&#8217;s London Show, which takes place on the 25th October at the Harrow District Masonic Centre, and it&#8217;s time for another exhibitor announcement &#8211; this time from RISCOSbits. It seems that the team at RISCOSbits will shortly be taking &#8220;an impromptu, badly timed and slightly inconvenient holiday, immediately before the show,&#8221; which means there won&#8217;t be enough time&#8230;]]>
-      </description>
-      <source:markdown>Sadly, though, they’re not asking everyone for their drinks orders for the day. It’s now a touch under two weeks (or is it a touch over one and a half?) until this year’s London Show, which takes place on the 25th October at the Harrow District Masonic Centre, and it’s time for another exhibitor announcement – this time from RISCOSbits. It seems that the team at RISCOSbits will shortly be taking “an impromptu, badly timed and slightly inconvenient holiday, immediately before the show,” which means there won’t be enough time…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10732</guid>
-    </item>    <item>
-      <title>Linux Kernel 6.16 Reaches EOL</title>
-      <link>http://www.linux-magazine.com/Online/News/Linux-Kernel-6.16-Reaches-EOL</link>
-      <description>
-        <![CDATA[<p>Linux kernel 6.16 has reached its end of life, which means you'll need to upgrade to the next stable release, Linux kernel 6.17.</p>]]>
-      </description>
-      <source:markdown>Linux kernel 6.16 has reached its end of life, which means you&#39;ll need to upgrade to the next stable release, Linux kernel 6.17.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://06e3c9b9f5ea5120b2b5d36df0741f4d</guid>
-    </item>    <item>
-      <title>Amazon Ditches Android for a Linux-Based OS</title>
-      <link>http://www.linux-magazine.com/Online/News/Amazon-Ditches-Android-for-a-Linux-Based-OS</link>
-      <description>
-        <![CDATA[<p>Amazon has migrated from Android to the Linux-based Vega OS for its Fire TV.</p>]]>
-      </description>
-      <source:markdown>Amazon has migrated from Android to the Linux-based Vega OS for its Fire TV.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://8e48c8329f6810a7568a0293e3d952a3</guid>
-    </item>    <item>
-      <title>London Show 2025: Pre-Reserve Your RISCOSbits Hardware for collection</title>
-      <link>http://www.iconbar.com/comments/rss/news2242.html</link>
-      <description>
-        <![CDATA[RISCOSbits are prioritising having pre-built systems for customers over a general selection. So, if you are looking to acquire one of their very desirable systems at the show, you can reserve a system to collect. This also means they can spec it exactly as you want!]]>
-      </description>
-      <source:markdown>RISCOSbits are prioritising having pre-built systems for customers over a general selection. So, if you are looking to acquire one of their very desirable systems at the show, you can reserve a system to collect. This also means they can spec it exactly as you want!</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2242.html</guid>
-    </item>    <item>
-      <title>A Diagnostic Board for the KIM-1</title>
-      <link>http://retro.hansotten.nl/diagnostic-board-kim-1/</link>
-      <description>
-        <![CDATA[It all started on the VCFED forum many years ago, where people were looking for help on repairing their KIM-1 computer. A dead KIM-1 is no easy to troubleshoot, most ICs are not in IC sockets, so poking around with a scope is looking for dead signal lines is all you can do. But if [&#8230;]]]>
-      </description>
-      <source:markdown>It all started on the VCFED forum many years ago, where people were looking for help on repairing their KIM-1 computer. A dead KIM-1 is no easy to troubleshoot, most ICs are not in IC sockets, so poking around with a scope is looking for dead signal lines is all you can do. But if \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=19028</guid>
     </item>
   </channel>
 </rss>

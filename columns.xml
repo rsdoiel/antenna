@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>04 Nov 25 14:11 -0800</lastBuildDate>
+    <lastBuildDate>05 Nov 25 06:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,455 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/05.html#a134333</link>
+      <description>
+        <![CDATA[<a href="https://github.com/scripting/feedlandInstall/issues/71">New release of FeedLand</a>, v0.7.9. It's a Node.js server app, using MySQL, and I think it's stable enough that I can start linking to updates here. It's not for poets, though I do know one who got it running. Check out the feedlandInstall repo.]]>
+      </description>
+      <source:markdown>[New release of FeedLand](https://github.com/scripting/feedlandInstall/issues/71), v0.7.9. It&#39;s a Node.js server app, using MySQL, and I think it&#39;s stable enough that I can start linking to updates here. It&#39;s not for poets, though I do know one who got it running. Check out the feedlandInstall repo.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/05.html#a134333</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/05.html#a131041</link>
+      <description>
+        <![CDATA[To people who do WordPress plug-ins -- have a look at the <a href="https://github.com/scripting/feedlandSocket">feedlandSocket repo</a>. It sends notifications of news items to any subscriber, via websockets. News items are simple JSON, and contain information in the feed item, and system info like id and when it was received. This makes it easy to stream news to a plug-in running in a WordPress site, that can then do anything with the news they like. It's incredibly simple to use, and we provide all the JavaScript code you need to embed in a browser-based app. Here's a <a href="https://github.com/scripting/feedlandSocket/issues/2">place</a> where you can ask questions.]]>
+      </description>
+      <source:markdown>To people who do WordPress plug-ins -- have a look at the [feedlandSocket repo](https://github.com/scripting/feedlandSocket). It sends notifications of news items to any subscriber, via websockets. News items are simple JSON, and contain information in the feed item, and system info like id and when it was received. This makes it easy to stream news to a plug-in running in a WordPress site, that can then do anything with the news they like. It&#39;s incredibly simple to use, and we provide all the JavaScript code you need to embed in a browser-based app. Here&#39;s a [place](https://github.com/scripting/feedlandSocket/issues/2) where you can ask questions.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/05.html#a131041</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/05.html#a123249</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2025/11/05/broom.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Democrats <a href="https://finance.yahoo.com/news/democrats-score-biggest-wins-since-033721355.html">swept</a> yesterday's election. A reminder that you should ignore pundits when they say what they've been saying about Democrats since Trump won last year's election. They assume people are stupid and aren't paying attention to the prices in the supermarket. And the price of health insurance. And the mask-wearing storm troopers occupying Los Angeles and Chicago. Heather Cox Richardson <a href="https://heathercoxrichardson.substack.com/p/november-4-2025-tuesday">said</a> at the end of last night's piece that "politics will be a whole different game." Republican incumbents now know that there better be big change, or they'll all be losing next November. They may find themselves more on the people's side than Trump's, now that they know for sure the two things are different.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2025/11/05/broom.png)Democrats [swept](https://finance.yahoo.com/news/democrats-score-biggest-wins-since-033721355.html) yesterday&#39;s election. A reminder that you should ignore pundits when they say what they&#39;ve been saying about Democrats since Trump won last year&#39;s election. They assume people are stupid and aren&#39;t paying attention to the prices in the supermarket. And the price of health insurance. And the mask-wearing storm troopers occupying Los Angeles and Chicago. Heather Cox Richardson [said](https://heathercoxrichardson.substack.com/p/november-4-2025-tuesday) at the end of last night&#39;s piece that &#34;politics will be a whole different game.&#34; Republican incumbents now know that there better be big change, or they&#39;ll all be losing next November. They may find themselves more on the people&#39;s side than Trump&#39;s, now that they know for sure the two things are different.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/05.html#a123249</guid>
+    </item>    <item>
+      <title>Which Party Is in Trouble, Again?</title>
+      <link>https://paulkrugman.substack.com/p/which-party-is-in-trouble-again</link>
+      <description>
+        <![CDATA[Thoughts after a very blue night]]>
+      </description>
+      <source:markdown>Thoughts after a very blue night</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!bM93!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F419d8076-74a2-45e6-a5ad-b61b52e559cf_1482x662.png" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/which-party-is-in-trouble-again</guid>
+    </item>    <item>
+      <title>Think Smaller: The Counterintuitive Path to AI Adoption</title>
+      <link>https://www.oreilly.com/radar/think-smaller-the-counterintuitive-path-to-ai-adoption/</link>
+      <description>
+        <![CDATA[The following article originally appeared on Gradient Flow and is being reposted here with the author’s permission. We&#8217;re living through a peculiar moment in AI development. On one hand, the demos are spectacular: agents that reason and plan with apparent ease, models that compose original songs from a text prompt, and research tools that produce [&#8230;]]]>
+      </description>
+      <source:markdown>The following article originally appeared on Gradient Flow and is being reposted here with the author’s permission. We’re living through a peculiar moment in AI development. On one hand, the demos are spectacular: agents that reason and plan with apparent ease, models that compose original songs from a text prompt, and research tools that produce \[…\]</source:markdown>
+      <guid>cid://https://www.oreilly.com/radar/?p=17645</guid>
+    </item>    <item>
+      <title>Scientists Need a Positive Vision for AI</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/scientists-need-a-positive-vision-for-ai.html</link>
+      <description>
+        <![CDATA[<p>For many in the research community, it&#8217;s gotten harder to be optimistic about the impacts of <a href="https://spectrum.ieee.org/topic/artificial-intelligence/">artificial intelligence</a>.</p>
+        <p>As authoritarianism is rising around the world, AI-generated &#8220;slop&#8221; is overwhelming legitimate media, while AI-generated <a href="https://spectrum.ieee.org/tag/deepfakes">deepfakes</a> are spreading <a href="https://spectrum.ieee.org/tag/misinformation">misinformation</a> and parroting extremist messages. AI is making warfare more precise and deadly amidst intransigent conflicts. AI companies are exploiting people in the global South who work as data labelers, and profiting from content creators worldwide by using their work without license or compensation. The industry is also affecting an already-roiling climate with its ...</p>]]>
+      </description>
+      <source:markdown>For many in the research community, it’s gotten harder to be optimistic about the impacts of [artificial intelligence](https://spectrum.ieee.org/topic/artificial-intelligence/).
+
+As authoritarianism is rising around the world, AI-generated “slop” is overwhelming legitimate media, while AI-generated [deepfakes](https://spectrum.ieee.org/tag/deepfakes) are spreading [misinformation](https://spectrum.ieee.org/tag/misinformation) and parroting extremist messages. AI is making warfare more precise and deadly amidst intransigent conflicts. AI companies are exploiting people in the global South who work as data labelers, and profiting from content creators worldwide by using their work without license or compensation. The industry is also affecting an already-roiling climate with its ...</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=71112</guid>
+    </item>    <item>
+      <title>Nightmare for Republicans</title>
+      <link>https://www.borowitzreport.com/p/adam-kinzinger-doesnt-hold-back</link>
+      <description>
+        <![CDATA[Watch now | The Andy Borowitz Show]]>
+      </description>
+      <source:markdown>Watch now \| The Andy Borowitz Show</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/177901928/5e8b1c7a8080ce60e49b3f31faa00bac.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/adam-kinzinger-doesnt-hold-back</guid>
+    </item>    <item>
+      <title>Casio FX9000P RAM replacement</title>
+      <link>https://www.raspberrypi.com/news/casio-fx9000p-ram-replacement/</link>
+      <description>
+        <![CDATA[<p>A broken vintage computer has been brought back to life thanks to RP2040.</p>
+        <p>The post <a href="https://www.raspberrypi.com/news/casio-fx9000p-ram-replacement/">Casio FX9000P RAM replacement</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
+      </description>
+      <source:markdown>A broken vintage computer has been brought back to life thanks to RP2040.
+
+The post [Casio FX9000P RAM replacement](https://www.raspberrypi.com/news/casio-fx9000p-ram-replacement/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
+      <guid>cid://https://www.raspberrypi.com/?p=131365</guid>
+    </item>    <item>
+      <title>Lit Hub Daily: November 5, 2025</title>
+      <link>https://lithub.com/lit-hub-daily-november-5-2025/</link>
+      <description>
+        <![CDATA[“I could only make good art if I made bad art, too, and so I began making bad art an integral part of my creative practice.” In praise of making bad art. &#124; Lit Hub Craft Amber McBride recommends 10]]>
+      </description>
+      <source:markdown>“I could only make good art if I made bad art, too, and so I began making bad art an integral part of my creative practice.” In praise of making bad art. \| Lit Hub Craft Amber McBride recommends 10</source:markdown>
+      <guid>cid://https://lithub.com/?p=262254</guid>
+    </item>    <item>
+      <link>https://theconversation.com/singles-day-is-a-150b-holiday-in-china-heres-why-i-think-11-11-will-catch-on-in-the-us-266566</link>
+      <description>
+        <![CDATA[<p>Singles’ Day is a $150B holiday in China. Here’s why they think ‘11/11’ will catch on in the US.</p>]]>
+      </description>
+      <source:markdown>Singles’ Day is a $150B holiday in China. Here’s why they think ‘11/11’ will catch on in the US.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/05/1817/</guid>
+    </item>    <item>
+      <title>Famed software engineer DJB tries Fil-C… and likes what he sees</title>
+      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/11/05/djb_tries_filc_and_approves/</link>
+      <description>
+        <![CDATA[<h4>A ‘three-letter person’ experiments with the new type-safe C, and is impressed</h4>
+              <p>Famed mathematician, cryptographer and coder Daniel J. Bernstein has tried out the new type-safe C/C++ compiler, and he&#39;s given it a favorable report.</p>]]>
+      </description>
+      <source:markdown>#### A ‘three-letter person’ experiments with the new type-safe C, and is impressed
+
+Famed mathematician, cryptographer and coder Daniel J. Bernstein has tried out the new type-safe C/C++ compiler, and he&#39;s given it a favorable report.</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242808</guid>
+    </item>    <item>
+      <title>Carbon Offsetting is Not Going to Save the Planet</title>
+      <link>https://lithub.com/carbon-offsetting-is-not-going-to-save-the-planet/</link>
+      <description>
+        <![CDATA[There is not enough planet Earth to first turn it inside out and then turn it outside in again. Available resources do not allow for removal of the total aggregate of CO2 from the fossil fuels in stock. Instead, removal]]>
+      </description>
+      <source:markdown>There is not enough planet Earth to first turn it inside out and then turn it outside in again. Available resources do not allow for removal of the total aggregate of CO2 from the fossil fuels in stock. Instead, removal</source:markdown>
+      <guid>cid://https://lithub.com/?p=262211</guid>
+    </item>    <item>
+      <title>What Donald Trump’s Isolationism Means For America—and the World</title>
+      <link>https://lithub.com/what-donald-trumps-isolationism-means-for-america-and-the-world/</link>
+      <description>
+        <![CDATA[After the Soviet Union collapsed, the US-anchored international system—the “liberal international order”—had no serious competitors. The Warsaw Pact was gone, and so was the Soviet economic bloc. For the first time since the liberal international order’s creation, its leaders aspired]]>
+      </description>
+      <source:markdown>After the Soviet Union collapsed, the US-anchored international system—the “liberal international order”—had no serious competitors. The Warsaw Pact was gone, and so was the Soviet economic bloc. For the first time since the liberal international order’s creation, its leaders aspired</source:markdown>
+      <guid>cid://https://lithub.com/?p=261795</guid>
+    </item>    <item>
+      <title>Why Big Tech’s Abuse of Artificial Intelligence Doesn’t Need to Be Inevitable</title>
+      <link>https://lithub.com/why-big-techs-abuse-of-artificial-intelligence-doesnt-need-to-be-inevitable/</link>
+      <description>
+        <![CDATA[The story of humans versus machines In the classic film 2001: A Space Odyssey, which was released in 1968, a spaceship headed to Jupiter is equipped with an onboard computer named HAL 9000. Over time, this computer becomes a deadly]]>
+      </description>
+      <source:markdown>The story of humans versus machines In the classic film 2001: A Space Odyssey, which was released in 1968, a spaceship headed to Jupiter is equipped with an onboard computer named HAL 9000. Over time, this computer becomes a deadly</source:markdown>
+      <guid>cid://https://lithub.com/?p=261768</guid>
+    </item>    <item>
+      <title>Georgi Gospodinov on the Loss of His Father and Writing About Death</title>
+      <link>https://lithub.com/georgi-gospodinov-on-the-loss-of-his-father-and-writing-about-death/</link>
+      <description>
+        <![CDATA[Georgi Gospodinov is one of Bulgaria’s most prolific authors. He is the recipient of the International Booker Prize, the Premio Strega, and the Jan Michalski Prize for Literature, among many other accolades. Here, he spoke with his translator Angela Rodel,]]>
+      </description>
+      <source:markdown>Georgi Gospodinov is one of Bulgaria’s most prolific authors. He is the recipient of the International Booker Prize, the Premio Strega, and the Jan Michalski Prize for Literature, among many other accolades. Here, he spoke with his translator Angela Rodel,</source:markdown>
+      <guid>cid://https://lithub.com/?p=261976</guid>
+    </item>    <item>
+      <title>Creating Without Inhibition: In Praise of Making Bad Art</title>
+      <link>https://lithub.com/creating-without-inhibition-in-praise-of-making-bad-art/</link>
+      <description>
+        <![CDATA[Last spring, I was waiting to hear from my agent and editors about the fate of my second novel. I knew full well this was not, really, a big deal in the least; it wasn’t as if my health were]]>
+      </description>
+      <source:markdown>Last spring, I was waiting to hear from my agent and editors about the fate of my second novel. I knew full well this was not, really, a big deal in the least; it wasn’t as if my health were</source:markdown>
+      <guid>cid://https://lithub.com/?p=261716</guid>
+    </item>    <item>
+      <title>What Happened to My Political Novel When I Resisted Satire and Leaned Into Idealism</title>
+      <link>https://lithub.com/what-happened-to-my-political-novel-when-i-resisted-satire-and-leaned-into-idealism/</link>
+      <description>
+        <![CDATA[When I started writing the novel that became Town &#38; Country, I imagined it as a sharp critique of urbanites flooding a trendy rural swing district, intending to skewer the obliviousness of a group of wealthy gay men and their]]>
+      </description>
+      <source:markdown>When I started writing the novel that became Town &#38; Country, I imagined it as a sharp critique of urbanites flooding a trendy rural swing district, intending to skewer the obliviousness of a group of wealthy gay men and their</source:markdown>
+      <guid>cid://https://lithub.com/?p=261968</guid>
+    </item>    <item>
+      <title>The Invitation of Brevity: Ten Novels in Verse That Will Hook You</title>
+      <link>https://lithub.com/the-invitation-of-brevity-ten-novels-in-verse-that-will-hook-you/</link>
+      <description>
+        <![CDATA[I imagine the average person’s introductions to poetry involved phrases like, I don’t understand! What does it mean?! And eventually, much later in life, landing on, It’s so pretentious! A fair assessment when most of us were introduced to poetry]]>
+      </description>
+      <source:markdown>I imagine the average person’s introductions to poetry involved phrases like, I don’t understand! What does it mean?! And eventually, much later in life, landing on, It’s so pretentious! A fair assessment when most of us were introduced to poetry</source:markdown>
+      <guid>cid://https://lithub.com/?p=261991</guid>
+    </item>    <item>
+      <title>Only Son</title>
+      <link>https://lithub.com/only-son/</link>
+      <description>
+        <![CDATA[My son finds me at the edge of the pool with a second drink, working through the Sunday crossword on my phone. A timer marks how long it takes for the crossword to go from something I’m doing to something]]>
+      </description>
+      <source:markdown>My son finds me at the edge of the pool with a second drink, working through the Sunday crossword on my phone. A timer marks how long it takes for the crossword to go from something I’m doing to something</source:markdown>
+      <guid>cid://https://lithub.com/?p=261379</guid>
+    </item>    <item>
+      <title>The True Test of our Progress</title>
+      <link>https://robertreich.substack.com/p/the-true-test-of-our-progress</link>
+      <description>
+        <![CDATA[Trump has put America into reverse]]>
+      </description>
+      <source:markdown>Trump has put America into reverse</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!4YNX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1dbbfb7-ba35-4f06-801f-bc281759c5e7_640x389.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/the-true-test-of-our-progress</guid>
+    </item>    <item>
+      <title>Building and Preserving the Web: A Conversation with Sir Tim Berners-Lee and Brewster Kahle</title>
+      <link>https://archive.org/details/future-knowledge-episode-13</link>
+      <description>
+        <![CDATA[<p><strong>Sir Tim Berners-Lee</strong>, inventor of the World Wide Web, and <strong>Brewster Kahle</strong>, founder of the Internet Archive, chat with <strong>Lauren Goode</strong> of Wired about the rise of the web, its continuing and explosive impact on society, and the importance of preserving the web for our cultural history.</p><p>This conversation was hosted at The Commonwealth Club of California in San Francisco on 10/9/2025.</p><p>Check out all of the Future Knowledge episodes at <a href="https://archive.org/details/future-knowledge">https://archive.org/details/future-knowledge</a> </p>]]>
+      </description>
+      <source:markdown>**Sir Tim Berners-Lee**, inventor of the World Wide Web, and **Brewster Kahle**, founder of the Internet Archive, chat with **Lauren Goode** of Wired about the rise of the web, its continuing and explosive impact on society, and the importance of preserving the web for our cultural history.
+
+This conversation was hosted at The Commonwealth Club of California in San Francisco on 10/9/2025.
+
+Check out all of the Future Knowledge episodes at [https://archive.org/details/future-knowledge](https://archive.org/details/future-knowledge)</source:markdown>
+      <enclosure url="https://media.transistor.fm/ce6b83bd/26fad080.mp3" length="44524869" type="audio/mpeg" />
+      <guid>cid://34e4c269-cfd7-46af-931d-2696a4129d4f</guid>
+    </item>    <item>
+      <link>https://heathercoxrichardson.substack.com/p/november-4-2025-tuesday?utm_source=post-email-title&#38;publication_id=20533&#38;post_id=178057915&#38;utm_campaign=email-post-title&#38;isFreemail=true&#38;r=w33x&#38;triedRedirect=true&#38;utm_medium=email</link>
+      <description>
+        <![CDATA[<p>Heather Cox Richardson: “Today voters resoundingly rejected Trump and Trumpism, and tomorrow, politics will be a whole different game.”</p>]]>
+      </description>
+      <source:markdown>Heather Cox Richardson: “Today voters resoundingly rejected Trump and Trumpism, and tomorrow, politics will be a whole different game.”</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/05/1815/</guid>
+    </item>    <item>
+      <title>curl 8.17.0</title>
+      <link>https://daniel.haxx.se/blog/2025/11/05/curl-8-17-0/</link>
+      <description>
+        <![CDATA[Download curl from curl.se. Release presentation Numbers the 271st release11 changes56 days (total: 10,092)448 bugfixes (total: 12,537)699 commits (total: 36,725)2 new public libcurl function (total: 100)0 new curl_easy_setopt() option (total: 308)1 new curl command line option (total: 273)69 contributors, 35 new (total: 3,534)22 authors, 5 new (total: 1,415)1 security fixes (total: 170) Security CVE-2025-10966: missing &#8230; <a href="https://daniel.haxx.se/blog/2025/11/05/curl-8-17-0/" class="more-link">Continue reading <span class="screen-reader-text">curl 8.17.0</span> <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>Download curl from curl.se. Release presentation Numbers the 271st release11 changes56 days (total: 10,092)448 bugfixes (total: 12,537)699 commits (total: 36,725)2 new public libcurl function (total: 100)0 new curl\_easy\_setopt() option (total: 308)1 new curl command line option (total: 273)69 contributors, 35 new (total: 3,534)22 authors, 5 new (total: 1,415)1 security fixes (total: 170) Security CVE-2025-10966: missing … [Continue reading curl 8.17.0→](https://daniel.haxx.se/blog/2025/11/05/curl-8-17-0/)</source:markdown>
+      <guid>cid://https://daniel.haxx.se/blog/?p=28482</guid>
+    </item>    <item>
+      <title>November 4, 2025 (Tuesday)</title>
+      <link>https://heathercoxrichardson.substack.com/p/november-4-2025-tuesday</link>
+      <description>
+        <![CDATA[So much for obeying a court order, even if begrudgingly and with manufactured delay.]]>
+      </description>
+      <source:markdown>So much for obeying a court order, even if begrudgingly and with manufactured delay.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/november-4-2025-tuesday</guid>
+    </item>    <item>
+      <title>Bibliography</title>
+      <link>https://www.gregegan.net/BIBLIOGRAPHY/Bibliography.html</link>
+      <description>
+        <![CDATA[The page "Bibliography" has been updated]]>
+      </description>
+      <source:markdown>The page &#34;Bibliography&#34; has been updated</source:markdown>
+      <guid>cid://0000000231</guid>
+    </item>    <item>
+      <title>The Sleeping Giant Awakens</title>
+      <link>https://robertreich.substack.com/p/the-sleeping-giant-awakens</link>
+      <description>
+        <![CDATA[The history of today]]>
+      </description>
+      <source:markdown>The history of today</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!2RuR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06c2bbe4-4c6c-4c79-ade7-2b6f93485702_2502x3349.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/the-sleeping-giant-awakens</guid>
+    </item>    <item>
+      <title>Quoting @belligerentbarbies</title>
+      <link>https://simonwillison.net/2025/Nov/5/brenda/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="http://www.tiktok.com/@belligerentbarbies/video/7568380008633257271"><p>I'm worried that they put co-pilot in Excel because Excel is the beast that drives our entire economy and do you know who has tamed that beast?</p>
+        <p>Brenda.</p>
+        <p>Who is Brenda?</p>
+        <p>She is a mid-level employee in every finance department, in every business across this stupid nation and the Excel goddess herself descended from the heavens, kissed Brenda on her forehead and the sweat from Brenda's brow is what allows us to do capitalism. [...]</p>
+        <p>She's gonna birth that formula for a financial report and then she's gonna send that financial report to a higher up and he's gonna need to make a change to the report and normally he would have sent it back to Brenda but he's like oh I have AI and AI is probably like smarter than Brenda and then the AI is gonna fuck it up real bad and he won't be able to recognize it because he doesn't understand Excel because AI hallucinates.</p>
+        <p>You know who's not hallucinating?</p>
+        <p>Brenda.</p></blockquote>
+        <p class="cite">&mdash; <a href="http://www.tiktok.com/@belligerentbarbies/video/7568380008633257271">@belligerentbarbies</a>, on TikTok</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/excel">excel</a>, <a href="https://simonwillison.net/tags/hallucinations">hallucinations</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/tiktok">tiktok</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a></p>]]>
+      </description>
+      <source:markdown>&#62; I&#39;m worried that they put co-pilot in Excel because Excel is the beast that drives our entire economy and do you know who has tamed that beast?
+&#62;
+&#62; Brenda.
+&#62;
+&#62; Who is Brenda?
+&#62;
+&#62; She is a mid-level employee in every finance department, in every business across this stupid nation and the Excel goddess herself descended from the heavens, kissed Brenda on her forehead and the sweat from Brenda&#39;s brow is what allows us to do capitalism. \[...\]
+&#62;
+&#62; She&#39;s gonna birth that formula for a financial report and then she&#39;s gonna send that financial report to a higher up and he&#39;s gonna need to make a change to the report and normally he would have sent it back to Brenda but he&#39;s like oh I have AI and AI is probably like smarter than Brenda and then the AI is gonna fuck it up real bad and he won&#39;t be able to recognize it because he doesn&#39;t understand Excel because AI hallucinates.
+&#62;
+&#62; You know who&#39;s not hallucinating?
+&#62;
+&#62; Brenda.
+
+— [@belligerentbarbies](http://www.tiktok.com/@belligerentbarbies/video/7568380008633257271), on TikTok
+
+Tags: [generative-ai](https://simonwillison.net/tags/generative-ai), [ai](https://simonwillison.net/tags/ai), [excel](https://simonwillison.net/tags/excel), [hallucinations](https://simonwillison.net/tags/hallucinations), [llms](https://simonwillison.net/tags/llms), [tiktok](https://simonwillison.net/tags/tiktok), [ai-ethics](https://simonwillison.net/tags/ai-ethics)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/5/brenda/#atom-everything</guid>
+    </item>    <item>
+      <title>America&#38;#8217;s Dumbest Billionaires Fail to Stop Zohran Mamdani. &#38;#8220;&#38;#8230;a bunch of rich...</title>
+      <link>https://kottke.org/25/11/0047787-americas-dumbest-billiona</link>
+      <guid>cid://tag:kottke.org,2025://13.47787</guid>
+    </item>    <item>
+      <title>Nanofacts</title>
+      <link>https://doc.searls.com/2025/11/04/nanofacts/</link>
+      <description>
+        <![CDATA[I just tested out nanochat, which Turning Post says is bigger than you think. Seemed interesting, so I asked it two questions. Here is the exchange: Me: What does Mt. Everest weigh? Nanochat: Mountain Everest, the highest mountain in the world, weighs approximately 14,007 pounds (6,354 kilograms) on average. However, due to the unique geology and [&#8230;]]]>
+      </description>
+      <source:markdown>I just tested out nanochat, which Turning Post says is bigger than you think. Seemed interesting, so I asked it two questions. Here is the exchange: Me: What does Mt. Everest weigh? Nanochat: Mountain Everest, the highest mountain in the world, weighs approximately 14,007 pounds (6,354 kilograms) on average. However, due to the unique geology and \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2025/11/04/nanofacts/</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m4tzvo6jjc2p</link>
+      <description>
+        <![CDATA[Congratulations to all the Democratic candidates who won tonight. It’s a reminder that when we come together around strong, forward-looking leaders who care about the issues that matter, we can win. We’ve still got plenty of work to do, but the future looks a little bit brighter.]]>
+      </description>
+      <source:markdown>Congratulations to all the Democratic candidates who won tonight. It’s a reminder that when we come together around strong, forward-looking leaders who care about the issues that matter, we can win. We’ve still got plenty of work to do, but the future looks a little bit brighter.</source:markdown>
+      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m4tzvo6jjc2p</guid>
+    </item>    <item>
+      <title>Decision Desk HQ calls the NYC mayoral race for Zohran Mamdani. (Eric...</title>
+      <link>https://kottke.org/25/11/0047786-decision-desk-hq-calls-th</link>
+      <guid>cid://tag:kottke.org,2025://13.47786</guid>
+    </item>    <item>
+      <title>Zohran Mamdani for Mayor of New York</title>
+      <link>https://robertreich.substack.com/p/zohran-mamdani-for-mayor-of-new-york</link>
+      <description>
+        <![CDATA[The Wall Street Journal and Washington Post's editorial pages reveal why]]>
+      </description>
+      <source:markdown>The Wall Street Journal and Washington Post&#39;s editorial pages reveal why</source:markdown>
+      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/rqU0DAjg0RA" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/zohran-mamdani-for-mayor-of-new-york</guid>
+    </item>    <item>
+      <link>https://www.yahoo.com/news/articles/mediaite-q-nbc-steve-kornacki-192844908.html?guccounter=1&#38;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&#38;guce_referrer_sig=AQAAABjRhrodK9o-YT4sm0dwGgl7xwrYvil9z1FE2C4eUcX5FQzK4AdjmjVmOx4HPf479ckUhURKfhoNkZ9sUgfENfH06mRDm3jUz0K9hoq01mS2HiWW0iNV_zKFJ7IxczfTmTl-f4tJiDplJZHtc003O9F5J8V7UQd7qXUZzUJzhmZA</link>
+      <description>
+        <![CDATA[<p>Where is Steve Kornacki? NBC.</p>]]>
+      </description>
+      <source:markdown>Where is Steve Kornacki? NBC.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/04/1813/</guid>
+    </item>    <item>
+      <title>Wednesday 5 November, 2025</title>
+      <link>https://memex.naughtons.org/wednesday-5-november-2025/41347/</link>
+      <description>
+        <![CDATA[Reading room The library in Oxburgh Hall, a stately home in Norfolk with an interesting history. Quote of the Day ”Confronted with computers that can produce fluent essays, instead of being astonished at how powerful they are, it’s possible that &#8230; <a href="https://memex.naughtons.org/wednesday-5-november-2025/41347/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>Reading room The library in Oxburgh Hall, a stately home in Norfolk with an interesting history. Quote of the Day ”Confronted with computers that can produce fluent essays, instead of being astonished at how powerful they are, it’s possible that … [Continue reading →](https://memex.naughtons.org/wednesday-5-november-2025/41347/)</source:markdown>
+      <guid>cid://https://memex.naughtons.org/?p=41347</guid>
+    </item>    <item>
+      <title>Code execution with MCP: Building more efficient agents</title>
+      <link>https://simonwillison.net/2025/Nov/4/code-execution-with-mcp/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://www.anthropic.com/engineering/code-execution-with-mcp">Code execution with MCP: Building more efficient agents</a></strong></p>
+        When I <a href="https://simonwillison.net/2025/Oct/16/claude-skills/">wrote about Claude Skills</a> I mentioned that I don't use MCP at all any more when working with coding agents - I find CLI utilities and libraries like Playwright Python to be a more effective way of achieving the same goals.</p>
+        <p>This new piece from Anthropic proposes a way to bring the two worlds more closely together.</p>
+        <p>It identifies two challenges with MCP as it exists today. The first has been widely discussed before: all of those tool descriptions take up a lot of valuable real estate in the agent context even before you start using them.</p>
+        <p>The second is more subtle but equally interesting: chaining multiple MCP tools together involves passing their responses through the context, absorbing more valuable tokens and introducing chances for the LLM to make additional mistakes.</p>
+        <p>What if you could turn MCP tools into code functions instead, and then let the LLM wire them together with executable code?</p>
+        <p>Anthropic's example here imagines a system that turns MCP tools into TypeScript files on disk, looking something like this:</p>
+        <div class="highlight highlight-source-ts"><pre><span class="pl-c">// ./servers/google-drive/getDocument.ts</span>
+        <span class="pl-k">interface</span> <span class="pl-smi">GetDocumentInput</span> <span class="pl-kos">{</span>
+          <span class="pl-c1">documentId</span>: <span class="pl-smi">string</span><span class="pl-kos">;</span>
+        <span class="pl-kos">}</span>
+        <span class="pl-k">interface</span> <span class="pl-smi">GetDocumentResponse</span> <span class="pl-kos">{</span>
+          <span class="pl-c1">content</span>: <span class="pl-smi">string</span><span class="pl-kos">;</span>
+        <span class="pl-kos">}</span>
+        <span class="pl-c">/* Read a document from Google Drive */</span>
+        <span class="pl-k">export</span> <span class="pl-k">async</span> <span class="pl-k">function</span> <span class="pl-en">getDocument</span><span class="pl-kos">(</span><span class="pl-s1">input</span>: <span class="pl-smi">GetDocumentInput</span><span class="pl-kos">)</span>: <span class="pl-smi">Promise</span><span class="pl-c1">&lt;</span><span class="pl-smi">GetDocumentResponse</span><span class="pl-c1">&gt;</span> <span class="pl-kos">{</span>
+          <span class="pl-k">return</span> <span class="pl-en">callMCPTool</span><span class="pl-c1">&lt;</span><span class="pl-smi">GetDocumentResponse</span><span class="pl-c1">&gt;</span><span class="pl-kos">(</span><span class="pl-s">'google_drive__get_document'</span><span class="pl-kos">,</span> <span class="pl-s1">input</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+        <span class="pl-kos">}</span></pre></div>
+        
+        <p>This takes up no tokens at all - it's a file on disk. In a similar manner to Skills the agent can navigate the filesystem to discover these definitions on demand.</p>
+        <p>Then it can wire them together by generating code:</p>
+        <div class="highlight highlight-source-ts"><pre><span class="pl-k">const</span> <span class="pl-s1">transcript</span> <span class="pl-c1">=</span> <span class="pl-kos">(</span><span class="pl-k">await</span> <span class="pl-s1">gdrive</span><span class="pl-kos">.</span><span class="pl-en">getDocument</span><span class="pl-kos">(</span><span class="pl-kos">{</span> <span class="pl-c1">documentId</span>: <span class="pl-s">'abc123'</span> <span class="pl-kos">}</span><span class="pl-kos">)</span><span class="pl-kos">)</span><span class="pl-kos">.</span><span class="pl-c1">content</span><span class="pl-kos">;</span>
+        <span class="pl-k">await</span> <span class="pl-s1">salesforce</span><span class="pl-kos">.</span><span class="pl-en">updateRecord</span><span class="pl-kos">(</span><span class="pl-kos">{</span>
+          <span class="pl-c1">objectType</span>: <span class="pl-s">'SalesMeeting'</span><span class="pl-kos">,</span>
+          <span class="pl-c1">recordId</span>: <span class="pl-s">'00Q5f000001abcXYZ'</span><span class="pl-kos">,</span>
+          <span class="pl-c1">data</span>: <span class="pl-kos">{</span> <span class="pl-c1">Notes</span>: <span class="pl-s1">transcript</span> <span class="pl-kos">}</span>
+        <span class="pl-kos">}</span><span class="pl-kos">)</span><span class="pl-kos">;</span></pre></div>
+        
+        <p>Notably, the example here avoids round-tripping the response from the <code>gdrive.getDocument()</code> call through the model on the way to the <code>salesforce.updateRecord()</code> call - which is faster, more reliable, saves on context tokens, and avoids the model being exposed to any potentially sensitive data in that document.</p>
+        <p>This all looks very solid to me! I think it's a sensible way to take advantage of the strengths of coding agents and address some of the major drawbacks of MCP as it is usually implemented today.</p>
+        <p>There's one catch: Anthropic outline the proposal in some detail but provide no code to execute on it! Implementation is left as an exercise for the reader:</p>
+        <blockquote>
+        <p>If you implement this approach, we encourage you to share your findings with the <a href="https://modelcontextprotocol.io/community/communication">MCP community</a>.</p>
+        </blockquote>
+        
+            <p><small></small>Via <a href="https://x.com/AnthropicAI/status/1985846791842250860">@AnthropicAI</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/model-context-protocol">model-context-protocol</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a></p>]]>
+      </description>
+      <source:markdown>**[Code execution with MCP: Building more efficient agents](https://www.anthropic.com/engineering/code-execution-with-mcp)**
+
+When I [wrote about Claude Skills](https://simonwillison.net/2025/Oct/16/claude-skills/) I mentioned that I don&#39;t use MCP at all any more when working with coding agents - I find CLI utilities and libraries like Playwright Python to be a more effective way of achieving the same goals.
+
+This new piece from Anthropic proposes a way to bring the two worlds more closely together.
+
+It identifies two challenges with MCP as it exists today. The first has been widely discussed before: all of those tool descriptions take up a lot of valuable real estate in the agent context even before you start using them.
+
+The second is more subtle but equally interesting: chaining multiple MCP tools together involves passing their responses through the context, absorbing more valuable tokens and introducing chances for the LLM to make additional mistakes.
+
+What if you could turn MCP tools into code functions instead, and then let the LLM wire them together with executable code?
+
+Anthropic&#39;s example here imagines a system that turns MCP tools into TypeScript files on disk, looking something like this:
+
+```
+// ./servers/google-drive/getDocument.ts
+interface GetDocumentInput {
+  documentId: string;
+}
+interface GetDocumentResponse {
+  content: string;
+}
+/* Read a document from Google Drive */
+export async function getDocument(input: GetDocumentInput): Promise&#60;GetDocumentResponse&#62; {
+  return callMCPTool&#60;GetDocumentResponse&#62;(&#39;google_drive__get_document&#39;, input);
+}
+```
+
+This takes up no tokens at all - it&#39;s a file on disk. In a similar manner to Skills the agent can navigate the filesystem to discover these definitions on demand.
+
+Then it can wire them together by generating code:
+
+```
+const transcript = (await gdrive.getDocument({ documentId: &#39;abc123&#39; })).content;
+await salesforce.updateRecord({
+  objectType: &#39;SalesMeeting&#39;,
+  recordId: &#39;00Q5f000001abcXYZ&#39;,
+  data: { Notes: transcript }
+});
+```
+
+Notably, the example here avoids round-tripping the response from the `gdrive.getDocument()` call through the model on the way to the `salesforce.updateRecord()` call - which is faster, more reliable, saves on context tokens, and avoids the model being exposed to any potentially sensitive data in that document.
+
+This all looks very solid to me! I think it&#39;s a sensible way to take advantage of the strengths of coding agents and address some of the major drawbacks of MCP as it is usually implemented today.
+
+There&#39;s one catch: Anthropic outline the proposal in some detail but provide no code to execute on it! Implementation is left as an exercise for the reader:
+
+&#62; If you implement this approach, we encourage you to share your findings with the [MCP community](https://modelcontextprotocol.io/community/communication).
+
+Via [@AnthropicAI](https://x.com/AnthropicAI/status/1985846791842250860)
+
+Tags: [ai](https://simonwillison.net/tags/ai), [prompt-engineering](https://simonwillison.net/tags/prompt-engineering), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [anthropic](https://simonwillison.net/tags/anthropic), [model-context-protocol](https://simonwillison.net/tags/model-context-protocol), [coding-agents](https://simonwillison.net/tags/coding-agents)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/4/code-execution-with-mcp/#atom-everything</guid>
+    </item>    <item>
+      <link>https://canada.wordcamp.org/2025/wish-i-had-gone-to-wordcamp-much-sooner/</link>
+      <description>
+        <![CDATA[<p>Now the big question is which WordCamp should I go to next? 😀</p>]]>
+      </description>
+      <source:markdown>Now the big question is which WordCamp should I go to next? 😀</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/04/1811/</guid>
+    </item>    <item>
+      <link>https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/</link>
+      <description>
+        <![CDATA[<p>Amazon has told Perplexity to get its agentic browser out of its online store.</p>]]>
+      </description>
+      <source:markdown>Amazon has told Perplexity to get its agentic browser out of its online store.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/04/1809/</guid>
+    </item>    <item>
+      <title>Apple Launches New Web Interface for the App Store</title>
+      <link>https://9to5mac.com/2025/11/03/apple-launches-rich-new-web-interface-for-the-app-store/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42355</guid>
+    </item>    <item>
+      <title>Apple Releases 26.1 Updates to Its Operating Systems</title>
+      <link>https://www.macstories.net/news/apple-releases-26-1-updates-to-its-operating-systems/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42354</guid>
+    </item>    <item>
+      <title>It&#39;s not that hard to stop a Trane</title>
+      <link>https://www.jeffgeerling.com/blog/2025/its-not-hard-stop-trane</link>
+      <description>
+        <![CDATA[<span class="field field--name-title field--type-string field--label-hidden">It's not that hard to stop a Trane</span>
+        
+                    <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Six years ago, I replaced the old HVAC system that came with our house, a central forced air system installed in 1995<sup id="oldinstall"><a href="#fn:oldinstall" class="footnote-ref" role="doc-noteref">1</a></sup>.</p>
+        
+        <p>The new system is a Trane XR AC paired with an <a href="https://www.trane.com/residential/en/products/furnaces/premier-96/">S9V2 96% efficiency forced-air gas furnace</a>. And it ran great! Better efficiency, quieter, multiple fan speeds so I can circulate air and prevent stale air in some parts of the house... what's not to love?</p>
+        
+        <p>Well, apparently the engineering:</p>
+        
+        <p><img src="https://www.jeffgeerling.com/sites/default/files/images/trane-s9v2-furnace-inside.jpg" width="700" height="525" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-cb776ef8-c2df-4787-878e-7139617083e4" data-insert-attach="{&quot;id&quot;:&quot;cb776ef8-c2df-4787-878e-7139617083e4&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Trane S9V2 Forced-air variable speed gas furnace"></p></div>
+              <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-11-04T16:55:37-06:00" title="Tuesday, November 4, 2025 - 16:55" class="datetime">November 4, 2025</time>
+        </span>]]>
+      </description>
+      <source:markdown>It&#39;s not that hard to stop a Trane
+
+Six years ago, I replaced the old HVAC system that came with our house, a central forced air system installed in 1995[1](#fn:oldinstall).
+
+The new system is a Trane XR AC paired with an [S9V2 96% efficiency forced-air gas furnace](https://www.trane.com/residential/en/products/furnaces/premier-96/). And it ran great! Better efficiency, quieter, multiple fan speeds so I can circulate air and prevent stale air in some parts of the house... what&#39;s not to love?
+
+Well, apparently the engineering:
+
+![Trane S9V2 Forced-air variable speed gas furnace](https://www.jeffgeerling.com/sites/default/files/images/trane-s9v2-furnace-inside.jpg)
+
+Jeff GeerlingNovember 4, 2025</source:markdown>
+      <guid>cid://3509 at https://www.jeffgeerling.com</guid>
     </item>    <item>
       <title>&#38;#8220;Stone Simulator is a meditative idle game where you live as a...</title>
       <link>https://kottke.org/25/11/0047775-stone-simulator-is-a-medi</link>
@@ -474,9 +923,9 @@ You can learn all about my story, follow along, and maybe even give some input a
       <title>Bill Gates&#39;s stunted political vision</title>
       <link>https://davekarpf.substack.com/p/bill-gatess-stunted-political-vision</link>
       <description>
-        <![CDATA[Bill Gates went full Llomborg. Never go full Llomborg.]]>
+        <![CDATA[Bill Gates went full Lomborg. Never go full Lomborg.]]>
       </description>
-      <source:markdown>Bill Gates went full Llomborg. Never go full Llomborg.</source:markdown>
+      <source:markdown>Bill Gates went full Lomborg. Never go full Lomborg.</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!nHjp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3599bde1-9e01-45b0-b146-942f3fab6eb0_1080x604.png" length="0" type="image/jpeg" />
       <guid>cid://https://davekarpf.substack.com/p/bill-gatess-stunted-political-vision</guid>
     </item>    <item>
@@ -617,7 +1066,7 @@ The latest edition of Valve&#39;s monthly Steam Hardware &#38; Software Survey i
             <p><small></small>Via <a href="https://bsky.app/profile/timkellogg.me/post/3m4ridhi3ps25">@timkellogg.me</a></small></p>
         
         
-            <p>Tags: <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>]]>
+            <p>Tags: <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/model-context-protocol">model-context-protocol</a></p>]]>
       </description>
       <source:markdown>**[MCP Colors: Systematically deal with prompt injection risk](https://timkellogg.me/blog/2025/11/03/colors)**
 
@@ -633,7 +1082,7 @@ This means you can configure your agent to actively avoid mixing the two colors 
 
 Via [@timkellogg.me](https://bsky.app/profile/timkellogg.me/post/3m4ridhi3ps25)
 
-Tags: [security](https://simonwillison.net/tags/security), [ai](https://simonwillison.net/tags/ai), [prompt-injection](https://simonwillison.net/tags/prompt-injection), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms)</source:markdown>
+Tags: [security](https://simonwillison.net/tags/security), [ai](https://simonwillison.net/tags/ai), [prompt-injection](https://simonwillison.net/tags/prompt-injection), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [model-context-protocol](https://simonwillison.net/tags/model-context-protocol)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Nov/4/mcp-colors/#atom-everything</guid>
     </item>    <item>
       <link>https://bsky.app/profile/barackobama.bsky.social/post/3m4sxnj637k23</link>
@@ -18995,14 +19444,6 @@ Tags: [coding-agents](https://simonwillison.net/tags/coding-agents), [ai-assiste
 The post [609\. Nelson: The Gathering Storm (Part 2)](https://therestishistory.com/609-nelson-the-gathering-storm-part-2/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
       <guid>cid://https://therestishistory.com/609-nelson-the-gathering-storm-part-2/</guid>
     </item>    <item>
-      <title>Bibliography</title>
-      <link>https://www.gregegan.net/BIBLIOGRAPHY/Bibliography.html</link>
-      <description>
-        <![CDATA[The page "Bibliography" has been updated]]>
-      </description>
-      <source:markdown>The page &#34;Bibliography&#34; has been updated</source:markdown>
-      <guid>cid://0000000229</guid>
-    </item>    <item>
       <title>2025-10-14 Israel: So that we won’t say we didn’t know</title>
       <link>https://alexschroeder.ch/view/2025-10-14-israel</link>
       <description>
@@ -19688,958 +20129,6 @@ Tags: [browsers](https://simonwillison.net/tags/browsers), [csrf](https://simonw
         <![CDATA[Subscribers can access the Portal through the main login]]>
       </description>
       <source:markdown>Subscribers can access the Portal through the main login</source:markdown>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m36wkacxvc2m</link>
-      <description>
-        <![CDATA[Curious, https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4323318/notice-of-availability-of-the-final-environmental-impact-statement-and-record-o/]]>
-      </description>
-      <source:markdown>Curious, https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4323318/notice-of-availability-of-the-final-environmental-impact-statement-and-record-o/</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m36wkacxvc2m</guid>
-    </item>    <item>
-      <title>Wednesday 15 October, 2025</title>
-      <link>https://memex.naughtons.org/wednesday-15-october-2025/41290/</link>
-      <description>
-        <![CDATA[Anyone home? A neighbour’s lovely cat, who often patrols the locality to check up on who’s up and about. Quote of the Day ”I had lunch with a chess champion the other day. I knew he was a chess champion &#8230; <a href="https://memex.naughtons.org/wednesday-15-october-2025/41290/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <source:markdown>Anyone home? A neighbour’s lovely cat, who often patrols the locality to check up on who’s up and about. Quote of the Day ”I had lunch with a chess champion the other day. I knew he was a chess champion … [Continue reading →](https://memex.naughtons.org/wednesday-15-october-2025/41290/)</source:markdown>
-      <guid>cid://https://memex.naughtons.org/?p=41290</guid>
-    </item>    <item>
-      <title>NVIDIA DGX Spark: great hardware, early days for the ecosystem</title>
-      <link>https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/#atom-everything</link>
-      <description>
-        <![CDATA[<p>NVIDIA sent me a preview unit of their new <a href="https://www.nvidia.com/en-us/products/workstations/dgx-spark/">DGX Spark</a> desktop "AI supercomputer". I've never had hardware to review before! You can consider this my first ever sponsored post if you like, but they did not pay me any cash and aside from an embargo date they did not request (nor would I grant) any editorial input into what I write about the device.</p>
-        <p>The device retails for around $4,000. They officially go on sale tomorrow.</p>
-        <p>First impressions are that this is a snazzy little computer. It's similar in size to a Mac mini, but with an exciting textured surface that feels refreshingly different and a little bit <a href="https://www.indiewire.com/awards/industry/devs-cinematography-rob-hardy-alex-garland-1234583396/">science fiction</a>.</p>
-        <p><img src="https://static.simonwillison.net/static/2025/nvidia-spark.jpg" alt="A rectangular small computer, sitting horizontally on a box. It is about the width of a Mac Mini. It has a NVIDIA logo on  a reflective handle portion, then textured silver metal front, then another reflective handle at the other end. It's pretty and a bit weird looking. It sits on the box it came in, which has NVIDIA DGX Spark written on it in white text on green." style="max-width: 100%;" /></p>
-        <p>There is a <em>very</em> powerful machine tucked into that little box. Here are the specs, which I had Claude Code figure out for me by <a href="https://gist.github.com/simonw/021651a14e6c5bf9876c9c4244ed6c2d">poking around on the device itself</a>:</p>
-        <blockquote>
-        <p><strong>Hardware Specifications</strong></p>
-        <ul>
-        <li>Architecture: aarch64 (ARM64)</li>
-        <li>CPU: 20 cores
-        <ul>
-        <li>10x Cortex-X925 (performance cores)</li>
-        <li>10x Cortex-A725 (efficiency cores)</li>
-        </ul>
-        </li>
-        <li>RAM: 119 GB total (112 GB available) - <em>I’m not sure why Claude reported it differently here, the machine is listed as 128GB - it looks like a <a href="https://news.ycombinator.com/item?id=45586776#45588329">128GB == 119GiB thing</a> because Claude <a href="https://gist.github.com/simonw/021651a14e6c5bf9876c9c4244ed6c2d#file-nvidia-claude-code-txt-L41">used free -h</a></em></li>
-        <li>Storage: 3.7 TB (6% used, 3.3 TB available)</li>
-        </ul>
-        <p><strong>GPU Specifications</strong></p>
-        <ul>
-        <li>Model: NVIDIA GB10 (Blackwell architecture)</li>
-        <li>Compute Capability: sm_121 (12.1)</li>
-        <li>Memory: 119.68 GB</li>
-        <li>Multi-processor Count: 48 streaming multiprocessors</li>
-        <li>Architecture: Blackwell</li>
-        </ul>
-        </blockquote>
-        <p>Short version: this is an ARM64 device with 128GB of memory that's available to both the GPU and the 20 CPU cores at the same time, strapped onto a 4TB NVMe SSD.</p>
-        <p>The Spark is firmly targeted at “AI researchers”. It’s designed for both training and running models.</p>
-        <h4 id="the-tricky-bit-cuda-on-arm64">The tricky bit: CUDA on ARM64</h4>
-        <p>Until now almost all of my own model running experiments have taken place on a Mac. This has gotten far less painful over the past year and a half thanks to the amazing work of the <a href="https://simonwillison.net/tags/mlx/">MLX</a> team and community, but it's still left me deeply frustrated at my lack of access to the NVIDIA CUDA ecosystem. I've lost count of the number of libraries and tutorials which expect you to be able to use Hugging Face Transformers or PyTorch with CUDA, and leave you high and dry if you don't have an NVIDIA GPU to run things on.</p>
-        <p>Armed (ha) with my new NVIDIA GPU I was excited to dive into this world that had long eluded me... only to find that there was another assumption baked in to much of this software: x86 architecture for the rest of the machine.</p>
-        <p>This resulted in all kinds of unexpected new traps for me to navigate. I eventually managed to get a PyTorch 2.7 wheel for CUDA on ARM, but failed to do so for 2.8. I'm not confident there because the wheel itself is unavailable but I'm finding navigating the PyTorch ARM ecosystem pretty confusing.</p>
-        <p>NVIDIA are trying to make this easier, with mixed success. A lot of my initial challenges got easier when I found their <a href="https://docs.nvidia.com/dgx/dgx-spark/nvidia-container-runtime-for-docker.html">official Docker container</a>, so now I'm figuring out how best to use Docker with GPUs. Here's the current incantation that's been working for me:</p>
-        <div class="highlight highlight-source-shell"><pre>docker run -it --gpus=all \
-          -v /usr/local/cuda:/usr/local/cuda:ro \
-          nvcr.io/nvidia/cuda:13.0.1-devel-ubuntu24.04 \
-          bash</pre></div>
-        <p>I have not yet got my head around the difference between CUDA 12 and 13. 13 appears to be very new, and a lot of the existing tutorials and libraries appear to expect 12.</p>
-        <h4 id="the-missing-documentation-isn-t-missing-any-more">The missing documentation isn't missing any more</h4>
-        <p>When I first received this machine around a month ago there was very little in the way of documentation to help get me started. This meant climbing the steep NVIDIA+CUDA learning curve mostly on my own.</p>
-        <p>This has changed <em>substantially</em> in just the last week. NVIDIA now have extensive guides for getting things working on the Spark and they are a huge breath of fresh air - exactly the information I needed when I started exploring this hardware.</p>
-        <p>Here's the <a href="https://developer.nvidia.com/topics/ai/dgx-spark">getting started guide</a>, details on the <a href="https://build.nvidia.com/spark/dgx-dashboard/instructions">DGX dashboard web app</a>, and the essential collection of <a href="https://build.nvidia.com/spark">playbooks</a>. There's still a lot I haven't tried yet just in this official set of guides.</p>
-        <h4 id="claude-code-for-everything">Claude Code for everything</h4>
-        <p><a href="https://www.claude.com/product/claude-code">Claude Code</a> was an absolute lifesaver for me while I was trying to figure out how best to use this device. My Ubuntu skills were a little rusty, and I also needed to figure out CUDA drivers and Docker incantations and how to install the right versions of PyTorch. Claude 4.5 Sonnet is <em>much better than me</em> at all of these things.</p>
-        <p>Since many of my experiments took place in disposable Docker containers I had no qualms at all about running it in YOLO mode:</p>
-        <div class="highlight highlight-source-shell"><pre>IS_SANDBOX=1 claude --dangerously-skip-permissions</pre></div>
-        
-        <p>The <code>IS_SANDBOX=1</code> environment variable stops Claude from complaining about running as root.</p>
-        
-        <details><summary style="font-style: italic">Before I found out about IS_SANDBOX</summary>
-        
-        <p><br /><em>I was <a href="https://twitter.com/lawrencecchen/status/1978255934938886409">tipped off</a> about IS_SANDBOX after I published this article. Here's my original workaround:</em></p>
-        
-        <p>Claude understandably won't let you do this as root, even in a Docker container, so I found myself using the following incantation in a fresh <code>nvcr.io/nvidia/cuda:13.0.1-devel-ubuntu24.04</code> instance pretty often:</p>
-        <div class="highlight highlight-source-shell"><pre>apt-get update <span class="pl-k">&amp;&amp;</span> apt-get install -y sudo
-        <span class="pl-c"><span class="pl-c">#</span> pick the first free UID &gt;=1000</span>
-        U=<span class="pl-s"><span class="pl-pds">$(</span>for i <span class="pl-k">in</span> <span class="pl-s"><span class="pl-pds">$(</span>seq 1000 65000<span class="pl-pds">)</span></span><span class="pl-k">;</span> <span class="pl-k">do</span> <span class="pl-k">if</span> <span class="pl-k">!</span> getent passwd <span class="pl-smi">$i</span> <span class="pl-k">&gt;</span>/dev/null<span class="pl-k">;</span> <span class="pl-k">then</span> <span class="pl-c1">echo</span> <span class="pl-smi">$i</span><span class="pl-k">;</span> <span class="pl-c1">break</span><span class="pl-k">;</span> <span class="pl-k">fi</span><span class="pl-k">;</span> done<span class="pl-pds">)</span></span>
-        <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">"</span>Chosen UID: <span class="pl-smi">$U</span><span class="pl-pds">"</span></span>
-        <span class="pl-c"><span class="pl-c">#</span> same for a GID</span>
-        G=<span class="pl-s"><span class="pl-pds">$(</span>for i <span class="pl-k">in</span> <span class="pl-s"><span class="pl-pds">$(</span>seq 1000 65000<span class="pl-pds">)</span></span><span class="pl-k">;</span> <span class="pl-k">do</span> <span class="pl-k">if</span> <span class="pl-k">!</span> getent group <span class="pl-smi">$i</span> <span class="pl-k">&gt;</span>/dev/null<span class="pl-k">;</span> <span class="pl-k">then</span> <span class="pl-c1">echo</span> <span class="pl-smi">$i</span><span class="pl-k">;</span> <span class="pl-c1">break</span><span class="pl-k">;</span> <span class="pl-k">fi</span><span class="pl-k">;</span> done<span class="pl-pds">)</span></span>
-        <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">"</span>Chosen GID: <span class="pl-smi">$G</span><span class="pl-pds">"</span></span>
-        <span class="pl-c"><span class="pl-c">#</span> create user+group</span>
-        groupadd -g <span class="pl-s"><span class="pl-pds">"</span><span class="pl-smi">$G</span><span class="pl-pds">"</span></span> devgrp
-        useradd -m -u <span class="pl-s"><span class="pl-pds">"</span><span class="pl-smi">$U</span><span class="pl-pds">"</span></span> -g <span class="pl-s"><span class="pl-pds">"</span><span class="pl-smi">$G</span><span class="pl-pds">"</span></span> -s /bin/bash dev
-        <span class="pl-c"><span class="pl-c">#</span> enable password-less sudo:</span>
-        <span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">'</span>dev ALL=(ALL) NOPASSWD:ALL\n<span class="pl-pds">'</span></span> <span class="pl-k">&gt;</span> /etc/sudoers.d/90-dev-nopasswd
-        chmod 0440 /etc/sudoers.d/90-dev-nopasswd
-        <span class="pl-c"><span class="pl-c">#</span> Install npm</span>
-        DEBIAN_FRONTEND=noninteractive TZ=Etc/UTC apt-get install -y npm
-        <span class="pl-c"><span class="pl-c">#</span> Install Claude</span>
-        npm install -g @anthropic-ai/claude-code</pre></div>
-        <p>Then switch to the <code>dev</code> user and run Claude for the first time:</p>
-        <div class="highlight highlight-source-shell"><pre>su - dev
-        claude --dangerously-skip-permissions</pre></div>
-        
-        </details><br />
-        
-        <p>This will provide a URL which you can visit to authenticate with your Anthropic account, confirming by copying back a token and pasting it into the terminal.</p>
-        <p>Docker tip: you can create a snapshot of the current image (with Claude installed) by running <code>docker ps</code> to get the container ID and then:</p>
-        <div class="highlight highlight-source-shell"><pre>docker commit --pause=false <span class="pl-k">&lt;</span>container_id<span class="pl-k">&gt;</span> cc:snapshot</pre></div>
-        <p>Then later you can start a similar container using:</p>
-        <div class="highlight highlight-source-shell"><pre>docker run -it \
-          --gpus=all \
-          -v /usr/local/cuda:/usr/local/cuda:ro \
-          cc:snapshot bash</pre></div>
-        <p>Here's an example of the kinds of prompts I've been running in Claude Code inside the container:</p>
-        <blockquote>
-        <p><code>I want to run https://huggingface.co/unsloth/Qwen3-4B-GGUF using llama.cpp - figure out how to get llama cpp working on this machine  such that it runs with the GPU, then install it in this directory and get that model to work to serve a prompt. Goal is to get this  command to run: llama-cli -hf unsloth/Qwen3-4B-GGUF -p "I believe the meaning of life is" -n 128 -no-cnv</code></p>
-        </blockquote>
-        <p>That one worked flawlessly - Claude checked out the <code>llama.cpp</code> repo, compiled it for me and iterated on it until it could run that model on the GPU. Here's a <a href="https://gist.github.com/simonw/3e7d28d9ed222d842f729bfca46d6673">full transcript</a>, converted from Claude's <code>.jsonl</code> log format to Markdown using a script I <a href="https://github.com/simonw/tools/blob/main/python/claude_to_markdown.py">vibe coded just now</a>.</p>
-        <p>I later told it:</p>
-        <blockquote>
-        <p><code>Write out a markdown file with detailed notes on what you did. Start with the shortest form of notes on how to get a successful build, then add a full account of everything you tried, what went wrong and how you fixed it.</code></p>
-        </blockquote>
-        <p>Which produced <a href="https://gist.github.com/simonw/0942d96f616b9e328568ab27d911c8ed">this handy set of notes</a>.</p>
-        <h4 id="tailscale-was-made-for-this">Tailscale was made for this</h4>
-        <p>Having a machine like this on my local network is neat, but what's even neater is being able to access it from anywhere else in the world, from both my phone and my laptop.</p>
-        <p><a href="https://tailscale.com/">Tailscale</a> is <em>perfect</em> for this. I installed it on the Spark (using the <a href="https://tailscale.com/kb/1031/install-linux">Ubuntu instructions here</a>), signed in with my SSO account (via Google)... and the Spark showed up in the "Network Devices" panel on my laptop and phone instantly.</p>
-        <p>I can SSH in from my laptop or using the <a href="https://termius.com/free-ssh-client-for-iphone">Termius iPhone app</a> on my phone. I've also been running tools like <a href="https://openwebui.com/">Open WebUI</a> which give me a mobile-friendly web interface for interacting with LLMs on the Spark.</p>
-        <h4 id="here-comes-the-ecosystem">Here comes the ecosystem</h4>
-        <p>The embargo on these devices dropped yesterday afternoon, and it turns out a whole bunch of relevant projects have had similar preview access to myself. This is <em>fantastic news</em> as many of the things I've been trying to figure out myself suddenly got a whole lot easier.</p>
-        <p>Four particularly notable examples:</p>
-        <ul>
-        <li>Ollama <a href="https://ollama.com/blog/nvidia-spark">works out of the box</a>. They actually had a build that worked a few weeks ago, and were the first success I had running an LLM on the machine.</li>
-        <li>
-        <code>llama.cpp</code> creator Georgi Gerganov just published  <a href="https://github.com/ggml-org/llama.cpp/discussions/16578">extensive benchmark results</a> from running <code>llama.cpp</code> on a Spark. He's getting ~3,600 tokens/second to read the prompt and ~59 tokens/second to generate a response with the MXFP4 version of GPT-OSS 20B and ~817 tokens/second to read and ~18 tokens/second to generate for GLM-4.5-Air-GGUF.</li>
-        <li>LM Studio now have <a href="https://lmstudio.ai/blog/dgx-spark">a build for the Spark</a>. I haven't tried this one yet as I'm currently using my machine exclusively via SSH.</li>
-        <li>vLLM - one of the most popular engines for serving production LLMs - had <a href="https://x.com/eqhylxx/status/1977928690945360049">early access</a> and there's now an official <a href="https://catalog.ngc.nvidia.com/orgs/nvidia/containers/vllm?version=25.09-py3">NVIDIA vLLM NGC Container</a> for running their stack.</li>
-        </ul>
-        <p>Here's <a href="https://docs.unsloth.ai/new/fine-tuning-llms-with-nvidia-dgx-spark-and-unsloth">a tutorial from Unsloth</a> on fine-tuning gpt-oss-20b on the Spark.</p>
-        <h4 id="should-you-get-one-">Should you get one?</h4>
-        <p>It's a bit too early for me to provide a confident recommendation concerning this machine. As indicated above, I've had a tough time figuring out how best to put it to use, largely through my own inexperience with CUDA, ARM64 and Ubuntu GPU machines in general.</p>
-        <p>The ecosystem improvements in just the past 24 hours have been very reassuring though. I expect it will be clear within a few weeks how well supported this machine is going to be.</p>
-            
-                <p>Tags: <a href="https://simonwillison.net/tags/hardware">hardware</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/tailscale">tailscale</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/nvidia">nvidia</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/llama-cpp">llama-cpp</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/lm-studio">lm-studio</a>, <a href="https://simonwillison.net/tags/disclosures">disclosures</a></p>]]>
-      </description>
-      <source:markdown>NVIDIA sent me a preview unit of their new [DGX Spark](https://www.nvidia.com/en-us/products/workstations/dgx-spark/) desktop &#34;AI supercomputer&#34;. I&#39;ve never had hardware to review before! You can consider this my first ever sponsored post if you like, but they did not pay me any cash and aside from an embargo date they did not request (nor would I grant) any editorial input into what I write about the device.
-
-The device retails for around $4,000. They officially go on sale tomorrow.
-
-First impressions are that this is a snazzy little computer. It&#39;s similar in size to a Mac mini, but with an exciting textured surface that feels refreshingly different and a little bit [science fiction](https://www.indiewire.com/awards/industry/devs-cinematography-rob-hardy-alex-garland-1234583396/).
-
-![A rectangular small computer, sitting horizontally on a box. It is about the width of a Mac Mini. It has a NVIDIA logo on  a reflective handle portion, then textured silver metal front, then another reflective handle at the other end. It&#39;s pretty and a bit weird looking. It sits on the box it came in, which has NVIDIA DGX Spark written on it in white text on green.](https://static.simonwillison.net/static/2025/nvidia-spark.jpg)
-
-There is a _very_ powerful machine tucked into that little box. Here are the specs, which I had Claude Code figure out for me by [poking around on the device itself](https://gist.github.com/simonw/021651a14e6c5bf9876c9c4244ed6c2d):
-
-&#62; **Hardware Specifications**
-&#62;
-&#62; - Architecture: aarch64 (ARM64)
-&#62; - CPU: 20 cores
-&#62;   - 10x Cortex-X925 (performance cores)
-&#62;   - 10x Cortex-A725 (efficiency cores)
-&#62; - RAM: 119 GB total (112 GB available) - _I’m not sure why Claude reported it differently here, the machine is listed as 128GB - it looks like a [128GB == 119GiB thing](https://news.ycombinator.com/item?id=45586776#45588329) because Claude [used free -h](https://gist.github.com/simonw/021651a14e6c5bf9876c9c4244ed6c2d#file-nvidia-claude-code-txt-L41)_
-&#62; - Storage: 3.7 TB (6% used, 3.3 TB available)
-&#62;
-&#62; **GPU Specifications**
-&#62;
-&#62; - Model: NVIDIA GB10 (Blackwell architecture)
-&#62; - Compute Capability: sm\_121 (12.1)
-&#62; - Memory: 119.68 GB
-&#62; - Multi-processor Count: 48 streaming multiprocessors
-&#62; - Architecture: Blackwell
-
-Short version: this is an ARM64 device with 128GB of memory that&#39;s available to both the GPU and the 20 CPU cores at the same time, strapped onto a 4TB NVMe SSD.
-
-The Spark is firmly targeted at “AI researchers”. It’s designed for both training and running models.
-
-#### The tricky bit: CUDA on ARM64
-
-Until now almost all of my own model running experiments have taken place on a Mac. This has gotten far less painful over the past year and a half thanks to the amazing work of the [MLX](https://simonwillison.net/tags/mlx/) team and community, but it&#39;s still left me deeply frustrated at my lack of access to the NVIDIA CUDA ecosystem. I&#39;ve lost count of the number of libraries and tutorials which expect you to be able to use Hugging Face Transformers or PyTorch with CUDA, and leave you high and dry if you don&#39;t have an NVIDIA GPU to run things on.
-
-Armed (ha) with my new NVIDIA GPU I was excited to dive into this world that had long eluded me... only to find that there was another assumption baked in to much of this software: x86 architecture for the rest of the machine.
-
-This resulted in all kinds of unexpected new traps for me to navigate. I eventually managed to get a PyTorch 2.7 wheel for CUDA on ARM, but failed to do so for 2.8. I&#39;m not confident there because the wheel itself is unavailable but I&#39;m finding navigating the PyTorch ARM ecosystem pretty confusing.
-
-NVIDIA are trying to make this easier, with mixed success. A lot of my initial challenges got easier when I found their [official Docker container](https://docs.nvidia.com/dgx/dgx-spark/nvidia-container-runtime-for-docker.html), so now I&#39;m figuring out how best to use Docker with GPUs. Here&#39;s the current incantation that&#39;s been working for me:
-
-```
-docker run -it --gpus=all \
-  -v /usr/local/cuda:/usr/local/cuda:ro \
-  nvcr.io/nvidia/cuda:13.0.1-devel-ubuntu24.04 \
-  bash
-```
-
-I have not yet got my head around the difference between CUDA 12 and 13. 13 appears to be very new, and a lot of the existing tutorials and libraries appear to expect 12.
-
-#### The missing documentation isn&#39;t missing any more
-
-When I first received this machine around a month ago there was very little in the way of documentation to help get me started. This meant climbing the steep NVIDIA+CUDA learning curve mostly on my own.
-
-This has changed _substantially_ in just the last week. NVIDIA now have extensive guides for getting things working on the Spark and they are a huge breath of fresh air - exactly the information I needed when I started exploring this hardware.
-
-Here&#39;s the [getting started guide](https://developer.nvidia.com/topics/ai/dgx-spark), details on the [DGX dashboard web app](https://build.nvidia.com/spark/dgx-dashboard/instructions), and the essential collection of [playbooks](https://build.nvidia.com/spark). There&#39;s still a lot I haven&#39;t tried yet just in this official set of guides.
-
-#### Claude Code for everything
-
-[Claude Code](https://www.claude.com/product/claude-code) was an absolute lifesaver for me while I was trying to figure out how best to use this device. My Ubuntu skills were a little rusty, and I also needed to figure out CUDA drivers and Docker incantations and how to install the right versions of PyTorch. Claude 4.5 Sonnet is _much better than me_ at all of these things.
-
-Since many of my experiments took place in disposable Docker containers I had no qualms at all about running it in YOLO mode:
-
-```
-IS_SANDBOX=1 claude --dangerously-skip-permissions
-```
-
-The `IS_SANDBOX=1` environment variable stops Claude from complaining about running as root.
-
-Before I found out about IS\_SANDBOX
-
-_I was [tipped off](https://twitter.com/lawrencecchen/status/1978255934938886409) about IS\_SANDBOX after I published this article. Here&#39;s my original workaround:_
-
-Claude understandably won&#39;t let you do this as root, even in a Docker container, so I found myself using the following incantation in a fresh `nvcr.io/nvidia/cuda:13.0.1-devel-ubuntu24.04` instance pretty often:
-
-```
-apt-get update &#38;&#38; apt-get install -y sudo
-# pick the first free UID &#62;=1000
-U=$(for i in $(seq 1000 65000); do if ! getent passwd $i &#62;/dev/null; then echo $i; break; fi; done)
-echo &#34;Chosen UID: $U&#34;
-# same for a GID
-G=$(for i in $(seq 1000 65000); do if ! getent group $i &#62;/dev/null; then echo $i; break; fi; done)
-echo &#34;Chosen GID: $G&#34;
-# create user+group
-groupadd -g &#34;$G&#34; devgrp
-useradd -m -u &#34;$U&#34; -g &#34;$G&#34; -s /bin/bash dev
-# enable password-less sudo:
-printf &#39;dev ALL=(ALL) NOPASSWD:ALL\n&#39; &#62; /etc/sudoers.d/90-dev-nopasswd
-chmod 0440 /etc/sudoers.d/90-dev-nopasswd
-# Install npm
-DEBIAN_FRONTEND=noninteractive TZ=Etc/UTC apt-get install -y npm
-# Install Claude
-npm install -g @anthropic-ai/claude-code
-```
-
-Then switch to the `dev` user and run Claude for the first time:
-
-```
-su - dev
-claude --dangerously-skip-permissions
-```
-
-This will provide a URL which you can visit to authenticate with your Anthropic account, confirming by copying back a token and pasting it into the terminal.
-
-Docker tip: you can create a snapshot of the current image (with Claude installed) by running `docker ps` to get the container ID and then:
-
-```
-docker commit --pause=false &#60;container_id&#62; cc:snapshot
-```
-
-Then later you can start a similar container using:
-
-```
-docker run -it \
-  --gpus=all \
-  -v /usr/local/cuda:/usr/local/cuda:ro \
-  cc:snapshot bash
-```
-
-Here&#39;s an example of the kinds of prompts I&#39;ve been running in Claude Code inside the container:
-
-&#62; `I want to run https://huggingface.co/unsloth/Qwen3-4B-GGUF using llama.cpp - figure out how to get llama cpp working on this machine  such that it runs with the GPU, then install it in this directory and get that model to work to serve a prompt. Goal is to get this  command to run: llama-cli -hf unsloth/Qwen3-4B-GGUF -p &#34;I believe the meaning of life is&#34; -n 128 -no-cnv`
-
-That one worked flawlessly - Claude checked out the `llama.cpp` repo, compiled it for me and iterated on it until it could run that model on the GPU. Here&#39;s a [full transcript](https://gist.github.com/simonw/3e7d28d9ed222d842f729bfca46d6673), converted from Claude&#39;s `.jsonl` log format to Markdown using a script I [vibe coded just now](https://github.com/simonw/tools/blob/main/python/claude_to_markdown.py).
-
-I later told it:
-
-&#62; `Write out a markdown file with detailed notes on what you did. Start with the shortest form of notes on how to get a successful build, then add a full account of everything you tried, what went wrong and how you fixed it.`
-
-Which produced [this handy set of notes](https://gist.github.com/simonw/0942d96f616b9e328568ab27d911c8ed).
-
-#### Tailscale was made for this
-
-Having a machine like this on my local network is neat, but what&#39;s even neater is being able to access it from anywhere else in the world, from both my phone and my laptop.
-
-[Tailscale](https://tailscale.com/) is _perfect_ for this. I installed it on the Spark (using the [Ubuntu instructions here](https://tailscale.com/kb/1031/install-linux)), signed in with my SSO account (via Google)... and the Spark showed up in the &#34;Network Devices&#34; panel on my laptop and phone instantly.
-
-I can SSH in from my laptop or using the [Termius iPhone app](https://termius.com/free-ssh-client-for-iphone) on my phone. I&#39;ve also been running tools like [Open WebUI](https://openwebui.com/) which give me a mobile-friendly web interface for interacting with LLMs on the Spark.
-
-#### Here comes the ecosystem
-
-The embargo on these devices dropped yesterday afternoon, and it turns out a whole bunch of relevant projects have had similar preview access to myself. This is _fantastic news_ as many of the things I&#39;ve been trying to figure out myself suddenly got a whole lot easier.
-
-Four particularly notable examples:
-
-- Ollama [works out of the box](https://ollama.com/blog/nvidia-spark). They actually had a build that worked a few weeks ago, and were the first success I had running an LLM on the machine.
-- `llama.cpp` creator Georgi Gerganov just published [extensive benchmark results](https://github.com/ggml-org/llama.cpp/discussions/16578) from running `llama.cpp` on a Spark. He&#39;s getting ~3,600 tokens/second to read the prompt and ~59 tokens/second to generate a response with the MXFP4 version of GPT-OSS 20B and ~817 tokens/second to read and ~18 tokens/second to generate for GLM-4.5-Air-GGUF.
-- LM Studio now have [a build for the Spark](https://lmstudio.ai/blog/dgx-spark). I haven&#39;t tried this one yet as I&#39;m currently using my machine exclusively via SSH.
-- vLLM - one of the most popular engines for serving production LLMs - had [early access](https://x.com/eqhylxx/status/1977928690945360049) and there&#39;s now an official [NVIDIA vLLM NGC Container](https://catalog.ngc.nvidia.com/orgs/nvidia/containers/vllm?version=25.09-py3) for running their stack.
-
-Here&#39;s [a tutorial from Unsloth](https://docs.unsloth.ai/new/fine-tuning-llms-with-nvidia-dgx-spark-and-unsloth) on fine-tuning gpt-oss-20b on the Spark.
-
-#### Should you get one?
-
-It&#39;s a bit too early for me to provide a confident recommendation concerning this machine. As indicated above, I&#39;ve had a tough time figuring out how best to put it to use, largely through my own inexperience with CUDA, ARM64 and Ubuntu GPU machines in general.
-
-The ecosystem improvements in just the past 24 hours have been very reassuring though. I expect it will be clear within a few weeks how well supported this machine is going to be.
-
-Tags: [hardware](https://simonwillison.net/tags/hardware), [ai](https://simonwillison.net/tags/ai), [tailscale](https://simonwillison.net/tags/tailscale), [generative-ai](https://simonwillison.net/tags/generative-ai), [local-llms](https://simonwillison.net/tags/local-llms), [llms](https://simonwillison.net/tags/llms), [nvidia](https://simonwillison.net/tags/nvidia), [ollama](https://simonwillison.net/tags/ollama), [llama-cpp](https://simonwillison.net/tags/llama-cpp), [coding-agents](https://simonwillison.net/tags/coding-agents), [claude-code](https://simonwillison.net/tags/claude-code), [lm-studio](https://simonwillison.net/tags/lm-studio), [disclosures](https://simonwillison.net/tags/disclosures)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/#atom-everything</guid>
-    </item>    <item>
-      <title>Drawing App Now Available</title>
-      <link>https://puri.sm/posts/drawing-app-now-available/</link>
-      <description>
-        <![CDATA[<p>Drawing is a basic image editor that can resize, crop, or rotate an image. You can apply simple filters, insert or censor text, and manipulate a selected portion of the picture (cut/copy/paste/drag/…)</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/drawing-app-now-available/">Drawing App Now Available</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>Drawing is a basic image editor that can resize, crop, or rotate an image. You can apply simple filters, insert or censor text, and manipulate a selected portion of the picture (cut/copy/paste/drag/…)
-
-The post [Drawing App Now Available](https://puri.sm/posts/drawing-app-now-available/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <enclosure url="https://videos.puri.sm/librem5/apps/drawing.mp4" length="4953733" type="video/mp4" />
-      <guid>cid://https://puri.sm/?p=84742</guid>
-    </item>    <item>
-      <link>https://www.theguardian.com/technology/2025/oct/14/openai-chatgpt-adult-erotic-content</link>
-      <description>
-        <![CDATA[<p>OpenAI will allow verified adults to use ChatGPT to generate erotic content.</p>]]>
-      </description>
-      <source:markdown>OpenAI will allow verified adults to use ChatGPT to generate erotic content.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/14/1533/</guid>
-    </item>    <item>
-      <title>Just Talk To It - the no-bs Way of Agentic Engineering</title>
-      <link>https://simonwillison.net/2025/Oct/14/agentic-engineering/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://steipete.me/posts/just-talk-to-it">Just Talk To It - the no-bs Way of Agentic Engineering</a></strong></p>
-        Peter Steinberger's long, detailed description of his current process for using Codex CLI and GPT-5 Codex. This is information dense and full of actionable tips, plus plenty of strong opinions about the differences between Claude 4.5 an GPT-5:</p>
-        <blockquote>
-        <p>While Claude reacts well to 🚨 SCREAMING ALL-CAPS 🚨 commands that threaten it that it will imply ultimate failure and 100 kittens will die if it runs command X, that freaks out GPT-5. (Rightfully so). So drop all of that and just use words like a human.</p>
-        </blockquote>
-        <p>Peter is a <em>heavy</em> user of parallel agents:</p>
-        <blockquote>
-        <p>I've completely moved to <code>codex</code> cli as daily driver. I run between 3-8 in parallel in a 3x3 terminal grid, most of them <a href="https://x.com/steipete/status/1977771686176174352">in the same folder</a>, some experiments go in separate folders. I experimented with worktrees, PRs but always revert back to this setup as it gets stuff done the fastest.</p>
-        </blockquote>
-        <p>He shares my preference for CLI utilities over MCPs:</p>
-        <blockquote>
-        <p>I can just refer to a cli by name. I don't need any explanation in my agents file. The agent will try $randomcrap on the first call, the cli will present the help menu, context now has full info how this works and from now on we good. I don't have to pay a price for any tools, unlike MCPs which are a constant cost and garbage in my context. Use GitHub's MCP and see 23k tokens gone. Heck, they did make it better because it was almost 50.000 tokens when it first launched. Or use the <code>gh</code> cli which has basically the same feature set, models already know how to use it, and pay zero context tax.</p>
-        </blockquote>
-        <p>It's worth reading the <a href="https://steipete.me/posts/just-talk-to-it#do-you-do-spec-driven-development">section on why he abandoned spec driven development</a> in full.
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/model-context-protocol">model-context-protocol</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/codex-cli">codex-cli</a>, <a href="https://simonwillison.net/tags/parallel-agents">parallel-agents</a></p>]]>
-      </description>
-      <source:markdown>**[Just Talk To It - the no-bs Way of Agentic Engineering](https://steipete.me/posts/just-talk-to-it)**
-
-Peter Steinberger&#39;s long, detailed description of his current process for using Codex CLI and GPT-5 Codex. This is information dense and full of actionable tips, plus plenty of strong opinions about the differences between Claude 4.5 an GPT-5:
-
-&#62; While Claude reacts well to 🚨 SCREAMING ALL-CAPS 🚨 commands that threaten it that it will imply ultimate failure and 100 kittens will die if it runs command X, that freaks out GPT-5. (Rightfully so). So drop all of that and just use words like a human.
-
-Peter is a _heavy_ user of parallel agents:
-
-&#62; I&#39;ve completely moved to `codex` cli as daily driver. I run between 3-8 in parallel in a 3x3 terminal grid, most of them [in the same folder](https://x.com/steipete/status/1977771686176174352), some experiments go in separate folders. I experimented with worktrees, PRs but always revert back to this setup as it gets stuff done the fastest.
-
-He shares my preference for CLI utilities over MCPs:
-
-&#62; I can just refer to a cli by name. I don&#39;t need any explanation in my agents file. The agent will try $randomcrap on the first call, the cli will present the help menu, context now has full info how this works and from now on we good. I don&#39;t have to pay a price for any tools, unlike MCPs which are a constant cost and garbage in my context. Use GitHub&#39;s MCP and see 23k tokens gone. Heck, they did make it better because it was almost 50.000 tokens when it first launched. Or use the `gh` cli which has basically the same feature set, models already know how to use it, and pay zero context tax.
-
-It&#39;s worth reading the [section on why he abandoned spec driven development](https://steipete.me/posts/just-talk-to-it#do-you-do-spec-driven-development) in full.
-
-
-
-Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [model-context-protocol](https://simonwillison.net/tags/model-context-protocol), [coding-agents](https://simonwillison.net/tags/coding-agents), [claude-code](https://simonwillison.net/tags/claude-code), [codex-cli](https://simonwillison.net/tags/codex-cli), [parallel-agents](https://simonwillison.net/tags/parallel-agents)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/14/agentic-engineering/#atom-everything</guid>
-    </item>    <item>
-      <title>ChatGPT’s Hail Mary: Chatbots You Can Fuck</title>
-      <link>https://www.404media.co/chatgpt-erotica-age-gating-verified-adults/</link>
-      <description>
-        <![CDATA[As recent reports show OpenAI bleeding cash, and on the heels of accusations that ChatGPT caused teens and adults alike to harm themselves and others, CEO Sam Altman announced that you can soon fuck the bot.]]>
-      </description>
-      <source:markdown>As recent reports show OpenAI bleeding cash, and on the heels of accusations that ChatGPT caused teens and adults alike to harm themselves and others, CEO Sam Altman announced that you can soon fuck the bot.</source:markdown>
-      <guid>cid://68eebd458c55800001344554</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115374526939007043</link>
-      <description>
-        <![CDATA[<p>When you are an iPhone 17 user, every day is Xmas!</p><p><a href="https://youtu.be/EO2Gc__c8CM?si=uLouprrsavA5tD7B" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">youtu.be/EO2Gc__c8CM?si=uLoupr</span><span class="invisible">rsavA5tD7B</span></a></p>]]>
-      </description>
-      <source:markdown>When you are an iPhone 17 user, every day is Xmas!
-
-[https://youtu.be/EO2Gc\_\_c8CM?si=uLouprrsavA5tD7B](https://youtu.be/EO2Gc__c8CM?si=uLouprrsavA5tD7B)</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115374526939007043</guid>
-    </item>    <item>
-      <title>It&#39;s Giving Enron</title>
-      <link>https://davekarpf.substack.com/p/its-giving-enron</link>
-      <description>
-        <![CDATA[On the AI bubble, and the various echoes of the dotcom crash]]>
-      </description>
-      <source:markdown>On the AI bubble, and the various echoes of the dotcom crash</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!0K9F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbb358be-0726-45ad-870c-506262cc0b6d_404x364.png" length="0" type="image/jpeg" />
-      <guid>cid://https://davekarpf.substack.com/p/its-giving-enron</guid>
-    </item>    <item>
-      <link>https://www.thebulwark.com/p/no-kings-rally-protest-washington-dc-congress-republicans-government-shutdown-mike-johnson</link>
-      <description>
-        <![CDATA[<p>‘No Kings’ Has Republicans in Disarray.</p>]]>
-      </description>
-      <source:markdown>‘No Kings’ Has Republicans in Disarray.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/14/1531/</guid>
-    </item>    <item>
-      <title>October 13, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/october-13-2025-e5a</link>
-      <enclosure url="https://api.substack.com/feed/podcast/176170727/ed66306119768d35b7636d6d5ee403b8.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/october-13-2025-e5a</guid>
-    </item>    <item>
-      <title>Neo Network Utility 2.0</title>
-      <link>https://mjtsai.com/blog/2025/10/14/neo-network-utility-2-0/</link>
-      <description>
-        <![CDATA[Eric B&#246;hnisch-Volkmann: Here&#8217;s Neo Network Utility 2.0 with a refreshed yet familiar design for macOS Tahoe, including menu icons, pill-shaped buttons, and a modern tab view. It actually looks good in Liquid Glass.Of course we didn&#8217;t just touch it up a bit. The new version lets you open multiple windows and run commands in all [&#8230;]]]>
-      </description>
-      <source:markdown>Eric Böhnisch-Volkmann: Here’s Neo Network Utility 2.0 with a refreshed yet familiar design for macOS Tahoe, including menu icons, pill-shaped buttons, and a modern tab view. It actually looks good in Liquid Glass.Of course we didn’t just touch it up a bit. The new version lets you open multiple windows and run commands in all \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49627</guid>
-    </item>    <item>
-      <title>Juice Jacking Protection Setting Broken in iOS 26</title>
-      <link>https://mjtsai.com/blog/2025/10/14/juice-jacking-protection-setting-broken-in-ios-26/</link>
-      <description>
-        <![CDATA[Ric Ford (PDF): Researchers at Graz University of Technology discovered severe, unpatched vulnerabilities in iPhones, Android phones and other devices that facilitate attacks and data theft via malicious USB chargers. Previously known and addressed as &#8220;juice jacking,&#8221; the effective new technique has been titled &#8220;ChoiceJacking.&#8221; Adam Engst: This vulnerability exists because USB ports can simultaneously [&#8230;]]]>
-      </description>
-      <source:markdown>Ric Ford (PDF): Researchers at Graz University of Technology discovered severe, unpatched vulnerabilities in iPhones, Android phones and other devices that facilitate attacks and data theft via malicious USB chargers. Previously known and addressed as “juice jacking,” the effective new technique has been titled “ChoiceJacking.” Adam Engst: This vulnerability exists because USB ports can simultaneously \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49625</guid>
-    </item>    <item>
-      <title>Apple TV, Apple TV, Apple TV, and Apple TV</title>
-      <link>https://mjtsai.com/blog/2025/10/14/apple-tv-apple-tv-apple-tv-and-apple-tv-2/</link>
-      <description>
-        <![CDATA[Eric Slivka: Buried in its announcement about &#8220;F1: The Movie&#8221; making its streaming debut on December 12, Apple has also announced that Apple TV+ is being rebranded as simply Apple TV.[&#8230;]Apple of course offers its set-top box hardware under the Apple TV name while also offering the Apple TV app across various platforms as a [&#8230;]]]>
-      </description>
-      <source:markdown>Eric Slivka: Buried in its announcement about “F1: The Movie” making its streaming debut on December 12, Apple has also announced that Apple TV+ is being rebranded as simply Apple TV.\[…\]Apple of course offers its set-top box hardware under the Apple TV name while also offering the Apple TV app across various platforms as a \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49623</guid>
-    </item>    <item>
-      <title>Cultivated Task Cancellation</title>
-      <link>https://mjtsai.com/blog/2025/10/14/cultivated-task-cancellation/</link>
-      <description>
-        <![CDATA[Max Seelemann (on his new blog): So how do you tell if a task supports cancellation? That&#8217;s tricky to answer per-se because cancellation is voluntary behavior and needs to be represented in the task&#8217;s value or error type. If you&#8217;re lucky, cancellation support (or lack thereof) is documented.[&#8230;]The designated way to check for cancellation is [&#8230;]]]>
-      </description>
-      <source:markdown>Max Seelemann (on his new blog): So how do you tell if a task supports cancellation? That’s tricky to answer per-se because cancellation is voluntary behavior and needs to be represented in the task’s value or error type. If you’re lucky, cancellation support (or lack thereof) is documented.\[…\]The designated way to check for cancellation is \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49621</guid>
-    </item>    <item>
-      <title>‘How to Turn Liquid Glass Into a Solid Interface’</title>
-      <link>https://tidbits.com/2025/10/09/how-to-turn-liquid-glass-into-a-solid-interface/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42268</guid>
-    </item>    <item>
-      <title>PureOS Crimson Development Report: September 2025</title>
-      <link>https://puri.sm/posts/pureos-crimson-development-report-september-2025/</link>
-      <description>
-        <![CDATA[<p>Welcome back!  In our August update, we mentioned that PureOS Crimson alpha images are released.  With the alpha milestone closed, we now push on toward beta.</p>
-        <p>Now that Crimson alpha images are installable, we're focusing on the out-of-box experience - what happens when you turn on your device for the first time with PureOS Crimson.  Most of the fixes this month improve the out-of-box experience.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/pureos-crimson-development-report-september-2025/">PureOS Crimson Development Report: September 2025</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>Welcome back! In our August update, we mentioned that PureOS Crimson alpha images are released. With the alpha milestone closed, we now push on toward beta.
-
-Now that Crimson alpha images are installable, we&#39;re focusing on the out-of-box experience - what happens when you turn on your device for the first time with PureOS Crimson. Most of the fixes this month improve the out-of-box experience.
-
-The post [PureOS Crimson Development Report: September 2025](https://puri.sm/posts/pureos-crimson-development-report-september-2025/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=84727</guid>
-    </item>    <item>
-      <title>Consent On Everything?</title>
-      <link>https://puri.sm/posts/consent-on-everything/</link>
-      <description>
-        <![CDATA[<p>If you’re tired of being tricked into “Consent on Everything,” it’s time to step outside the adversary’s system.  Explore what Purism has to offer and deicide if this is a move you should take.  Equipping yourself with the Purism Ecosystem can protect you.  This is a place where your consent is real, your defaults are yours, and your digital life is finally under your control.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/consent-on-everything/">Consent On Everything?</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>If you’re tired of being tricked into “Consent on Everything,” it’s time to step outside the adversary’s system.  Explore what Purism has to offer and deicide if this is a move you should take.  Equipping yourself with the Purism Ecosystem can protect you.  This is a place where your consent is real, your defaults are yours, and your digital life is finally under your control.
-
-The post [Consent On Everything?](https://puri.sm/posts/consent-on-everything/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=84770</guid>
-    </item>    <item>
-      <title>&#38;#8220;The spread of dangerous infections that do not respond to antibiotics has...</title>
-      <link>https://kottke.org/25/10/0047706-the-spread-of-dangerous-i</link>
-      <guid>cid://tag:kottke.org,2025://13.47706</guid>
-    </item>    <item>
-      <title>The Surreal Practicality of Protesting As an Inflatable Frog</title>
-      <link>https://www.404media.co/the-surreal-practicality-of-protesting-as-an-inflatable-frog/</link>
-      <description>
-        <![CDATA[Say goodbye to the Guy Fawkes masks and hello to inflatable frogs and dinosaurs.]]>
-      </description>
-      <source:markdown>Say goodbye to the Guy Fawkes masks and hello to inflatable frogs and dinosaurs.</source:markdown>
-      <guid>cid://68ee8f6a8c558000013437e6</guid>
-    </item>    <item>
-      <title>2025-10-14 Israel: So that we won’t say we didn’t know</title>
-      <link>https://alexschroeder.ch/view/2025-10-13-israel</link>
-      <description>
-        <![CDATA[<h1 id="2025-10-14-israel-so-that-we-won-t-say-we-didn-t-know">2025-10-14 Israel: So that we won’t say we didn’t know</h1>
-        
-        <p>We are <a href="2025-portugal">travelling through Portugal these days</a>. I brought a bunch of newspapers along – to read should I manage to put down the phone. I just read <a href="https://www.woz.ch/2540/zwei-jahre-nach-dem-7-oktober/kollidierende-realitaeten/!42Q5MHJSN52K">Kollidierende Realitäten</a>, starting with a <a href="https://www.btselem.org/">B’Tselem</a> meeting, with quotes from <a href="https://en.wikipedia.org/wiki/Yuli_Novak">Yuli Novak</a>. She says she assumes 95% don’t know about their report, <a href="https://www.btselem.org/publications/202507_our_genocide">Our Genocide</a>.</p>
-        
-        <p>I see Israelis trying to so the right thing and I am reminded of the time I stood at the Paradeplatz during lunch hours, for a Just Peace in Palestine. It was <a href="2006-07-15_Electronic_Intifada_has_reports_from_Lebanon">so long ago</a>. It didn’t help. The vigils are still <a href="https://swiss-palestine-network.ch/de/wer-sind-wir/61-mahnwache-zuerich">ongoing</a>. I no longer go.</p>
-        
-        <p>Adi Argov from <a href="https://www.thedailyfile.org/">The Daily File</a> has the last word in the article: “How can the Palestinians forgive what we have done to them? Only our grandchildren might one day know.” (Translation mine.) Apparently the Israelis are so unaware of what they are doing, so certain of what their friends and family in the army are saying, of what the mainstream media are saying, of what the government is saying, that they can only explain the horror the rest of the world is expressing as anti-semitism. I’m guessing that one day they will say, like so many Germans did: “I did not know!” And they will learn, like the Germans did, that this legacy will be hard to shake. Like I once heard in <a href="https://youtube.com/watch?v=Ifh1yx8d83Y">an extremely rude voice over for Pingu</a>: “Fuck you and your entire generation!”</p>
-        
-        <p>The subtitle of The Daily File is “So that we won&rsquo;t say we didn&rsquo;t know.”</p>
-        
-        <p>If you feel like arguing, please read <a href="https://en.wikipedia.org/wiki/Casualties_of_the_Gaza_war">Casualties of the Gaza war</a>, because I’m assuming you’re one of the very people this article is about. It is not my duty to educate you. It is your duty to do the right thing and that includes the duty to educate yourself so that you can do the right thing. Nobody said it was going to be easy.</p>
-        
-        <p><a class="tag" href="/search/?q=%23Israel">#Israel</a> <a class="tag" href="/search/?q=%23Palestine">#Palestine</a></p>]]>
-      </description>
-      <source:markdown># 2025-10-14 Israel: So that we won’t say we didn’t know
-
-We are [travelling through Portugal these days](2025-portugal). I brought a bunch of newspapers along – to read should I manage to put down the phone. I just read [Kollidierende Realitäten](https://www.woz.ch/2540/zwei-jahre-nach-dem-7-oktober/kollidierende-realitaeten/!42Q5MHJSN52K), starting with a [B’Tselem](https://www.btselem.org/) meeting, with quotes from [Yuli Novak](https://en.wikipedia.org/wiki/Yuli_Novak). She says she assumes 95% don’t know about their report, [Our Genocide](https://www.btselem.org/publications/202507_our_genocide).
-
-I see Israelis trying to so the right thing and I am reminded of the time I stood at the Paradeplatz during lunch hours, for a Just Peace in Palestine. It was [so long ago](2006-07-15_Electronic_Intifada_has_reports_from_Lebanon). It didn’t help. The vigils are still [ongoing](https://swiss-palestine-network.ch/de/wer-sind-wir/61-mahnwache-zuerich). I no longer go.
-
-Adi Argov from [The Daily File](https://www.thedailyfile.org/) has the last word in the article: “How can the Palestinians forgive what we have done to them? Only our grandchildren might one day know.” (Translation mine.) Apparently the Israelis are so unaware of what they are doing, so certain of what their friends and family in the army are saying, of what the mainstream media are saying, of what the government is saying, that they can only explain the horror the rest of the world is expressing as anti-semitism. I’m guessing that one day they will say, like so many Germans did: “I did not know!” And they will learn, like the Germans did, that this legacy will be hard to shake. Like I once heard in [an extremely rude voice over for Pingu](https://youtube.com/watch?v=Ifh1yx8d83Y): “Fuck you and your entire generation!”
-
-The subtitle of The Daily File is “So that we won’t say we didn’t know.”
-
-If you feel like arguing, please read [Casualties of the Gaza war](https://en.wikipedia.org/wiki/Casualties_of_the_Gaza_war), because I’m assuming you’re one of the very people this article is about. It is not my duty to educate you. It is your duty to do the right thing and that includes the duty to educate yourself so that you can do the right thing. Nobody said it was going to be easy.
-
-[#Israel](/search/?q=%23Israel) [#Palestine](/search/?q=%23Palestine)</source:markdown>
-      <guid>cid://https://alexschroeder.ch/view/2025-10-13-israel</guid>
-    </item>    <item>
-      <link>https://arstechnica.com/ai/2025/10/nvidia-sells-tiny-new-computer-that-puts-big-ai-on-your-desktop/?utm_source=bsky&#38;utm_medium=social</link>
-      <description>
-        <![CDATA[<p>Nvidia sells tiny new computer that puts big AI on your desktop.</p>]]>
-      </description>
-      <source:markdown>Nvidia sells tiny new computer that puts big AI on your desktop.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/14/1529/</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m367jtno4k2s</link>
-      <description>
-        <![CDATA[California, this November 4th, the whole country is counting on you.
-        
-        Prop 50 puts our elections back on a level playing field, preserves independent redistricting over the long term, and lets the people decide.
-        
-        So return your ballot today. Vote yes on 50.]]>
-      </description>
-      <source:markdown>California, this November 4th, the whole country is counting on you.
-
-Prop 50 puts our elections back on a level playing field, preserves independent redistricting over the long term, and lets the people decide.
-
-So return your ballot today. Vote yes on 50.</source:markdown>
-      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m367jtno4k2s</guid>
-    </item>    <item>
-      <title>A House of Dynamite</title>
-      <link>https://kottke.org/25/10/a-house-of-dynamite</link>
-      <guid>cid://tag:kottke.org,2025://5.47703</guid>
-    </item>    <item>
-      <title>‘Looking for the Red Flags in Apple’s Formula 1 TV Deal’</title>
-      <link>https://sixcolors.com/post/2025/10/looking-for-the-red-flags-in-apples-formula-1-tv-deal/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42267</guid>
-    </item>    <item>
-      <title>&#38;#8220;The MUTE Series is a collection of one-take microfilms that report on...</title>
-      <link>https://kottke.org/25/10/0047643-the-mute-series-is-a</link>
-      <guid>cid://tag:kottke.org,2025://13.47643</guid>
-    </item>    <item>
-      <title>Upcoming Speaking Engagements</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/upcoming-speaking-engagements-49.html</link>
-      <description>
-        <![CDATA[<p>This is a current list of where and when I am scheduled to speak:</p>
-        <ul>
-        <li>Nathan E. Sanders and I will be giving a <a href="https://ash.harvard.edu/events/in-person-book-talk-rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship/">book talk</a> on <em>Rewiring Democracy</em> at the Harvard Kennedy School’s Ash Center in Cambridge, Massachusetts, USA, on October 22, 2025, at noon ET.</li>
-        <li>Nathan E. Sanders and I will be speaking and signing books at the <a href="https://www.harvard.com/event/schneier-sanders">Cambridge Public Library</a> in Cambridge, Massachusetts, USA, on October 22, 2025, at 6:00 PM ET. The event is sponsored by Harvard Bookstore.</li>
-        <li>Nathan E. Sanders and I will give a <a href="https://datasociety.net/events/a-roadmap-for-rewiring-democracy-in-the-age-of-ai/">virtual talk</a> about our book <em>Rewiring Democracy</em> on October 23, 2025, at 1:00 PM ET. The event is hosted by Data &#38; Society...</li></ul>]]>
-      </description>
-      <source:markdown>This is a current list of where and when I am scheduled to speak:
-
-- Nathan E. Sanders and I will be giving a [book talk](https://ash.harvard.edu/events/in-person-book-talk-rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship/) on _Rewiring Democracy_ at the Harvard Kennedy School’s Ash Center in Cambridge, Massachusetts, USA, on October 22, 2025, at noon ET.
-- Nathan E. Sanders and I will be speaking and signing books at the [Cambridge Public Library](https://www.harvard.com/event/schneier-sanders) in Cambridge, Massachusetts, USA, on October 22, 2025, at 6:00 PM ET. The event is sponsored by Harvard Bookstore.
-- Nathan E. Sanders and I will give a [virtual talk](https://datasociety.net/events/a-roadmap-for-rewiring-democracy-in-the-age-of-ai/) about our book _Rewiring Democracy_ on October 23, 2025, at 1:00 PM ET. The event is hosted by Data &#38; Society...</source:markdown>
-      <guid>cid://https://www.schneier.com/?p=70944</guid>
-    </item>    <item>
-      <title>Times I&#39;ve been ambushed at conferences</title>
-      <link>http://scripting.com/2025/10/14/154258.html?title=timesIveBeenAmbushedAtConferences</link>
-      <description>
-        <![CDATA[<p>Well, I think I'm done. I've got the outline for the slides complete. I can't possibly talk about all the stuff that's in the slides. Once I leave tomorrow I think perhaps I'll post a link for the slides and maybe offer a place to comment. Maybe. </p>
-        <p>I get very nervous about these things and then remember when I've prepared as much as I have for this, the talk goes quickly and people generally are nice, though I've been ambushed a few memorable times. Let's see -- Austin, Cambridge, San Francisco and Nashville come to mind. ;-)</p>
-        <p>In Austin it was because I was privileged. I was being honored because it was the 25th year of my blog, and I was one of the keynoters. I told the promoter his people wouldn't like me, and then I forgot I said it when it happened. I was stuck, I didn't want to get into a public argument with anyone. (Had I wanted to rebut, I would have said everyone in this room is privileged, just look around at how well fed and educated everyone is. We all flew in here. We live in a rich country where we are the elite of the elite. Now STFU, in my dreams.) </p>
-        <p>There have been times when I welcomed an argument...</p>
-        <p>In San Francisco, I was invited to lead a panel from the music industry about how great Napster was. This was probably in 2000 or 2001 when Napster was at its peak. It was an ambush. All the panelists made me the issue, and then they voted to kick me off the stage. I stayed there and waited until they exhausted their rage, and then asked them a question about music and Napster. Acted like nothing had happened. I had earned my place there, I was a very early industry adopter of Napster. I loved what it did for us. Imagine until then you either had to buy an album to listen to music, build a collection, or wait until it was played on the radio. (What is radio? Kind of an early form of podcasting.) People were talking about music in supermarkets and airports. This could not be stopped, I was sure of it, and they were acting like babies. I stood up and prevailed.</p>
-        <p>In Nashville, I was invited to be a sort of keynoter for a conference that was patterned after BloggerCon. I did not organize it, but I led a session, which was attended by a famous right wing blogger who I had invited to the Harvard BloggerCon. He brought a bunch of his friends, and they each said no one was listening to them but we were listening to them. I eventually sat down and let them have a session dominated by a few people repeating themselves. It was boring. </p>
-        <p>Finally I was set up by the promoters of a CMS conference which Berkman hosted at Harvard. I was the master of ceremonies. No one told me that one of my most virulent trolls was there, and when he got up to rage at me I asked him to sit down, but Charlie Nesson who was the senior educator there, and kind of naive about internet trolls, said he should speak his mind. I should have walked out at that point. I knew what was coming. It really shook me. </p>
-        <p>In Nashville a columnist in a local paper who said I caused the riot, btw. I swear to god I always take my discussion leader role seriously. I gave them all a chance to talk and they all said the same thing, almost as if they had been told to say it. </p>]]>
-      </description>
-      <source:markdown>Well, I think I&#39;m done. I&#39;ve got the outline for the slides complete. I can&#39;t possibly talk about all the stuff that&#39;s in the slides. Once I leave tomorrow I think perhaps I&#39;ll post a link for the slides and maybe offer a place to comment. Maybe.
-
-I get very nervous about these things and then remember when I&#39;ve prepared as much as I have for this, the talk goes quickly and people generally are nice, though I&#39;ve been ambushed a few memorable times. Let&#39;s see -- Austin, Cambridge, San Francisco and Nashville come to mind. ;-)
-
-In Austin it was because I was privileged. I was being honored because it was the 25th year of my blog, and I was one of the keynoters. I told the promoter his people wouldn&#39;t like me, and then I forgot I said it when it happened. I was stuck, I didn&#39;t want to get into a public argument with anyone. (Had I wanted to rebut, I would have said everyone in this room is privileged, just look around at how well fed and educated everyone is. We all flew in here. We live in a rich country where we are the elite of the elite. Now STFU, in my dreams.)
-
-There have been times when I welcomed an argument...
-
-In San Francisco, I was invited to lead a panel from the music industry about how great Napster was. This was probably in 2000 or 2001 when Napster was at its peak. It was an ambush. All the panelists made me the issue, and then they voted to kick me off the stage. I stayed there and waited until they exhausted their rage, and then asked them a question about music and Napster. Acted like nothing had happened. I had earned my place there, I was a very early industry adopter of Napster. I loved what it did for us. Imagine until then you either had to buy an album to listen to music, build a collection, or wait until it was played on the radio. (What is radio? Kind of an early form of podcasting.) People were talking about music in supermarkets and airports. This could not be stopped, I was sure of it, and they were acting like babies. I stood up and prevailed.
-
-In Nashville, I was invited to be a sort of keynoter for a conference that was patterned after BloggerCon. I did not organize it, but I led a session, which was attended by a famous right wing blogger who I had invited to the Harvard BloggerCon. He brought a bunch of his friends, and they each said no one was listening to them but we were listening to them. I eventually sat down and let them have a session dominated by a few people repeating themselves. It was boring.
-
-Finally I was set up by the promoters of a CMS conference which Berkman hosted at Harvard. I was the master of ceremonies. No one told me that one of my most virulent trolls was there, and when he got up to rage at me I asked him to sit down, but Charlie Nesson who was the senior educator there, and kind of naive about internet trolls, said he should speak his mind. I should have walked out at that point. I knew what was coming. It really shook me.
-
-In Nashville a columnist in a local paper who said I caused the riot, btw. I swear to god I always take my discussion leader role seriously. I gave them all a chance to talk and they all said the same thing, almost as if they had been told to say it.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/14/154258.html</guid>
-    </item>    <item>
-      <title>Lawyer Caught Using AI While Explaining to Court Why He Used AI</title>
-      <link>https://www.404media.co/lawyer-using-ai-fake-citations/</link>
-      <description>
-        <![CDATA[The attorney not only submitted AI-generated fake citations in a brief for his clients, but also included “multiple new AI-hallucinated citations and quotations” in the process of opposing a motion for sanctions.]]>
-      </description>
-      <source:markdown>The attorney not only submitted AI-generated fake citations in a brief for his clients, but also included “multiple new AI-hallucinated citations and quotations” in the process of opposing a motion for sanctions.</source:markdown>
-      <guid>cid://68ee64588c558000013244ad</guid>
-    </item>    <item>
-      <title>60 Minutes Uncovers Hacks on America’s Infrastructure</title>
-      <link>https://puri.sm/posts/60-minutes-uncovers-hacks-on-americas-infrastructure/</link>
-      <description>
-        <![CDATA[<p>The recent 60 Minutes segment on Chinese hacks to America’s critical infrastructure was not new news. IT was a very powerful remainder that highlighted some of the root causes of our national cyber weaknesses.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/60-minutes-uncovers-hacks-on-americas-infrastructure/">60 Minutes Uncovers Hacks on America&#8217;s Infrastructure</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>The recent 60 Minutes segment on Chinese hacks to America’s critical infrastructure was not new news. IT was a very powerful remainder that highlighted some of the root causes of our national cyber weaknesses.
-
-The post [60 Minutes Uncovers Hacks on America’s Infrastructure](https://puri.sm/posts/60-minutes-uncovers-hacks-on-americas-infrastructure/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=84732</guid>
-    </item>    <item>
-      <title>Is Trump the Real Deal?</title>
-      <link>https://tinabrown.substack.com/p/is-trump-the-real-deal</link>
-      <description>
-        <![CDATA[The whiplash makes your head hurt.]]>
-      </description>
-      <source:markdown>The whiplash makes your head hurt.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!kEEG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e9b21aa-26d3-4bf7-a4ee-53e6d1f01e46_1024x683.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://tinabrown.substack.com/p/is-trump-the-real-deal</guid>
-    </item>    <item>
-      <title>A short documentary about the groundbreaking sound design of Dune: Part Two,...</title>
-      <link>https://kottke.org/25/10/0047640-a-short-documentary-about</link>
-      <guid>cid://tag:kottke.org,2025://13.47640</guid>
-    </item>    <item>
-      <title>The Lifeblood of the Web · Matthias Ott</title>
-      <link>https://matthiasott.com/notes/the-lifeblood-of-the-web</link>
-      <description>
-        <![CDATA[<blockquote>
-          <p>If you need to convince someone – your boss, your team, your family, or also yourself – then explain that going to a conference isn’t just another trip away from “real work.” No, this is the real work: investing in your craft, your connections, your growth.</p>
-        </blockquote>
-        
-        <p>Matthias nails why should go to events …like, say, <a href="https://webdayout.com/">Web Day Out</a>.</p>
-        
-        <blockquote>
-          <p>There’s something magical about walking into a conference venue in the morning. The hum of first conversations, the smell of coffee, the anticipation, and the smiling faces. And the unspoken feeling that we all belong here, that we are here for the same reason: because we care about the same things and we all have, in some way or another, built our lives around the Web.</p>
-        </blockquote>
-        
-        <p><a href="https://adactio.com/links/22190">adactio.com/links/22190</a></p>]]>
-      </description>
-      <source:markdown>&#62; If you need to convince someone – your boss, your team, your family, or also yourself – then explain that going to a conference isn’t just another trip away from “real work.” No, this is the real work: investing in your craft, your connections, your growth.
-
-Matthias nails why should go to events …like, say, [Web Day Out](https://webdayout.com/).
-
-&#62; There’s something magical about walking into a conference venue in the morning. The hum of first conversations, the smell of coffee, the anticipation, and the smiling faces. And the unspoken feeling that we all belong here, that we are here for the same reason: because we care about the same things and we all have, in some way or another, built our lives around the Web.
-
-[adactio.com/links/22190](https://adactio.com/links/22190)</source:markdown>
-      <guid>cid://https://matthiasott.com/notes/the-lifeblood-of-the-web</guid>
-    </item>    <item>
-      <title>Default Isn’t Design</title>
-      <link>https://scribe.rip/default-isnt-design-24df33272abb</link>
-      <description>
-        <![CDATA[<blockquote>
-          <p>Framework monoculture is a psychology problem as much as a tech problem. When one approach becomes “how things are done,” we unconsciously defend it even when standards would give us a healthier, more interoperable ecosystem. Psychologists call this reflex <strong>System Justification</strong>.</p>
-        </blockquote>
-        
-        <p>The explains <em>a lot</em> about React-driven front-end development!</p>
-        
-        <blockquote>
-          <p>When a single toolset becomes <em>the</em> default, we don’t just prefer it, we build narratives that <strong>justify</strong> it. And that’s when a tool quietly becomes a gate or even a destructive force.</p>
-        </blockquote>
-        
-        <p><a href="https://adactio.com/links/22189">adactio.com/links/22189</a></p>]]>
-      </description>
-      <source:markdown>&#62; Framework monoculture is a psychology problem as much as a tech problem. When one approach becomes “how things are done,” we unconsciously defend it even when standards would give us a healthier, more interoperable ecosystem. Psychologists call this reflex **System Justification**.
-
-The explains _a lot_ about React-driven front-end development!
-
-&#62; When a single toolset becomes _the_ default, we don’t just prefer it, we build narratives that **justify** it. And that’s when a tool quietly becomes a gate or even a destructive force.
-
-[adactio.com/links/22189](https://adactio.com/links/22189)</source:markdown>
-      <guid>cid://https://scribe.rip/default-isnt-design-24df33272abb</guid>
-    </item>    <item>
-      <title>‘Save Our Signs’ Preservation Project Launches Archive of 10,000 National Park Signs</title>
-      <link>https://www.404media.co/save-our-signs-preservation-project-launches-archive-of-10-000-national-park-signs/</link>
-      <description>
-        <![CDATA[More than 10,000 images of signs, placards, quotes, photos and more are part of the crowdsourced effort from over 300 national park and monument sites around the U.S.]]>
-      </description>
-      <source:markdown>More than 10,000 images of signs, placards, quotes, photos and more are part of the crowdsourced effort from over 300 national park and monument sites around the U.S.</source:markdown>
-      <guid>cid://68ee54118c5580000132413a</guid>
-    </item>    <item>
-      <title>&#38;#8220;The smartest design move isn&#38;#8217;t chasing trends, it&#38;#8217;s planting the tree and...</title>
-      <link>https://kottke.org/25/10/0047673-the-smartest-design-move-</link>
-      <guid>cid://tag:kottke.org,2025://13.47673</guid>
-    </item>    <item>
-      <link>https://www.mediaweek.com.au/sxsw-sydney-monica-attard-and-siobhan-mchugh-on-podcastings-democratic-dream/</link>
-      <description>
-        <![CDATA[<p>Attard and McHugh on podcasting's democratic dream.</p>]]>
-      </description>
-      <source:markdown>Attard and McHugh on podcasting&#39;s democratic dream.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/14/1525/</guid>
-    </item>    <item>
-      <title>Man Stores AI-Generated ‘Robot Porn&#39; on His Government Computer, Loses Access to Nuclear Secrets</title>
-      <link>https://www.404media.co/man-stores-ai-generated-robot-porn-on-his-government-computer-loses-access-to-nuclear-secrets/</link>
-      <description>
-        <![CDATA[A man who works for the people overseeing America’s nuclear stockpile has lost his security clearance after he uploaded 187,000 pornographic images to a Department of Energy (DOE) network.]]>
-      </description>
-      <source:markdown>A man who works for the people overseeing America’s nuclear stockpile has lost his security clearance after he uploaded 187,000 pornographic images to a Department of Energy (DOE) network.</source:markdown>
-      <guid>cid://68e92eea1c617200015e5eea</guid>
-    </item>    <item>
-      <title>58 Books You Need to Read (Recommended by People Who Know)</title>
-      <link>https://lithub.com/58-books-you-need-to-read-recommended-by-people-who-know/</link>
-      <description>
-        <![CDATA[In honor of Literary Hub&#8217;s tenth birthday, we asked over 200 authors, editors, booksellers, publishing professionals, and other literary luminaries to weigh in on a few questions about the past, present, and future of the literary world. We will be]]>
-      </description>
-      <source:markdown>In honor of Literary Hub’s tenth birthday, we asked over 200 authors, editors, booksellers, publishing professionals, and other literary luminaries to weigh in on a few questions about the past, present, and future of the literary world. We will be</source:markdown>
-      <guid>cid://https://lithub.com/?p=258545</guid>
-    </item>    <item>
-      <title>Minor Black Figures</title>
-      <link>https://lithub.com/minor-black-figures/</link>
-      <description>
-        <![CDATA[That summer, they threw bombs and made signs for peace. They went into the streets and the parks and the squares, the same as they had done two years before, and three years before that, and six years before that,]]>
-      </description>
-      <source:markdown>That summer, they threw bombs and made signs for peace. They went into the streets and the parks and the squares, the same as they had done two years before, and three years before that, and six years before that,</source:markdown>
-      <guid>cid://https://lithub.com/?p=260666</guid>
-    </item>    <item>
-      <title>Brandon Taylor, Megha Majumdar, Susan Orlean, and more: 27 new books out today!</title>
-      <link>https://lithub.com/brandon-taylor-megha-majumdar-susan-orlean-and-more-27-new-books-out-today/</link>
-      <description>
-        <![CDATA[Literary fiction-heads (as LH devotees usually are) must celebrate: new Brandon Taylor AND Megha Majumdar in one week?! Not to mention exciting, unputdownable novels by Quan Barry, Anna North, Adam Johnson, and a selection of compelling and masterful stories by]]>
-      </description>
-      <source:markdown>Literary fiction-heads (as LH devotees usually are) must celebrate: new Brandon Taylor AND Megha Majumdar in one week?! Not to mention exciting, unputdownable novels by Quan Barry, Anna North, Adam Johnson, and a selection of compelling and masterful stories by</source:markdown>
-      <guid>cid://https://lithub.com/?p=260769</guid>
-    </item>    <item>
-      <title>For the last-ever episode of his WTF podcast, Marc Maron interviewed Barack...</title>
-      <link>https://kottke.org/25/10/0047705-for-the-last-ever-episode</link>
-      <guid>cid://tag:kottke.org,2025://13.47705</guid>
-    </item>    <item>
-      <title>A New Kind of ATM</title>
-      <link>https://onefoottsunami.com/2025/10/14/a-new-kind-of-atm/</link>
-      <guid>cid://https://onefoottsunami.com/?p=29282</guid>
-    </item>    <item>
-      <title>Who Was Peter Matthiessen, Really?</title>
-      <link>https://lithub.com/who-was-peter-matthiessen-really/</link>
-      <description>
-        <![CDATA[Lance Richardson began his biography of Peter Matthiessen in 2017, at one point following Matthiessen’s 1973 Himalayan trek in pursuit of enlightenment in The Snow Leopard, as well as conducting more that 200 interviews to establish and untangle Matthiessen’s importance]]>
-      </description>
-      <source:markdown>Lance Richardson began his biography of Peter Matthiessen in 2017, at one point following Matthiessen’s 1973 Himalayan trek in pursuit of enlightenment in The Snow Leopard, as well as conducting more that 200 interviews to establish and untangle Matthiessen’s importance</source:markdown>
-      <guid>cid://https://lithub.com/?p=260817</guid>
-    </item>    <item>
-      <title>It’s hard to find resources while on the transplant list. These sites want to change that</title>
-      <link>https://themarkup.org/on-borrowed-time/2025/10/14/its-hard-to-find-resources-while-on-the-transplant-list-these-sites-want-to-change-that</link>
-      <description>
-        <![CDATA[Here are seven resources to help if you need an organ transplant]]>
-      </description>
-      <source:markdown>Here are seven resources to help if you need an organ transplant</source:markdown>
-      <guid>cid://tag:themarkup.org,2019,81881</guid>
-    </item>    <item>
-      <title>Is the patient Black? Check this box for yes</title>
-      <link>https://themarkup.org/on-borrowed-time/2025/10/14/is-the-patient-black-check-this-box-for-yes</link>
-      <description>
-        <![CDATA[For years a race-based medical calculation delayed Black patients access to life-saving kidney transplants]]>
-      </description>
-      <source:markdown>For years a race-based medical calculation delayed Black patients access to life-saving kidney transplants</source:markdown>
-      <guid>cid://tag:themarkup.org,2019,81863</guid>
-    </item>    <item>
-      <title>Why Focus Matters When Building a Successful WordPress Plugin Business</title>
-      <link>https://openchannels.fm/why-focus-matters-when-building-a-successful-wordpress-plugin-business/</link>
-      <description>
-        <![CDATA[Learn the importance of focus in scaling a WordPress plugin, advocating for prioritizing core products over numerous side projects to achieve long-term success.]]>
-      </description>
-      <source:markdown>Learn the importance of focus in scaling a WordPress plugin, advocating for prioritizing core products over numerous side projects to achieve long-term success.</source:markdown>
-      <guid>cid://https://openchannels.fm/?p=110790</guid>
-    </item>    <item>
-      <title>Humans of New York has taken over all of Grand Central Terminal...</title>
-      <link>https://kottke.org/25/10/0047702-humans-of-new-york-has</link>
-      <guid>cid://tag:kottke.org,2025://13.47702</guid>
-    </item>    <item>
-      <title>The Trump Administration’s Increased Use of Social Media Surveillance</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/the-trump-administrations-increased-use-of-social-media-surveillance.html</link>
-      <description>
-        <![CDATA[<p>This chilling paragraph is in a comprehensive <a href="https://www.brookings.edu/articles/how-tech-powers-immigration-enforcement/">Brookings report</a> about the use of tech to deport people from the US:</p>
-        <blockquote><p>The administration has also adapted its methods of social media surveillance. Though agencies like <a href="https://www.brennancenter.org/our-work/research-reports/social-media-surveillance-us-government">the State Department</a> have gathered millions of handles and monitored political discussions online, the Trump administration has been more explicit in who it&#8217;s targeting. Secretary of State Marco Rubio announced a new, zero-tolerance <a href="https://www.axios.com/2025/03/06/state-department-ai-revoke-foreign-student-visas-hamas">&#8220;Catch and Revoke&#8221; strategy,</a> which uses AI to monitor the public speech of foreign nationals and <a href="https://www.forbes.com/sites/stuartanderson/2025/05/05/rubio-makes-immigration-threat-to-revoke-student-h-1b-and-other-visas/">revoke visas...</a></p></blockquote>]]>
-      </description>
-      <source:markdown>This chilling paragraph is in a comprehensive [Brookings report](https://www.brookings.edu/articles/how-tech-powers-immigration-enforcement/) about the use of tech to deport people from the US:
-
-&#62; The administration has also adapted its methods of social media surveillance. Though agencies like [the State Department](https://www.brennancenter.org/our-work/research-reports/social-media-surveillance-us-government) have gathered millions of handles and monitored political discussions online, the Trump administration has been more explicit in who it’s targeting. Secretary of State Marco Rubio announced a new, zero-tolerance [“Catch and Revoke” strategy,](https://www.axios.com/2025/03/06/state-department-ai-revoke-foreign-student-visas-hamas) which uses AI to monitor the public speech of foreign nationals and [revoke visas...](https://www.forbes.com/sites/stuartanderson/2025/05/05/rubio-makes-immigration-threat-to-revoke-student-h-1b-and-other-visas/)</source:markdown>
-      <guid>cid://https://www.schneier.com/?p=70954</guid>
-    </item>    <item>
-      <title>Enlightenment</title>
-      <link>https://www.oreilly.com/radar/enlightenment/</link>
-      <description>
-        <![CDATA[In a fascinating op-ed, David Bell, a professor of history at Princeton, argues that “AI is shedding enlightenment values.” As someone who has taught writing at a similarly prestigious university, and as someone who has written about technology for the past 35 or so years, I had a deep response. Bell’s is not the argument [&#8230;]]]>
-      </description>
-      <source:markdown>In a fascinating op-ed, David Bell, a professor of history at Princeton, argues that “AI is shedding enlightenment values.” As someone who has taught writing at a similarly prestigious university, and as someone who has written about technology for the past 35 or so years, I had a deep response. Bell’s is not the argument \[…\]</source:markdown>
-      <guid>cid://https://www.oreilly.com/radar/?p=17534</guid>
-    </item>    <item>
-      <title>How Crypto Became a Trump Trade</title>
-      <link>https://paulkrugman.substack.com/p/how-crypto-became-a-trump-trade</link>
-      <description>
-        <![CDATA[It&#8217;s primarily a vehicle for crony capitalism now]]>
-      </description>
-      <source:markdown>It’s primarily a vehicle for crony capitalism now</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!vPNz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff03ee2d9-9063-4508-a4d5-0638fd94ada1_1184x632.png" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/how-crypto-became-a-trump-trade</guid>
-    </item>    <item>
-      <title>Lit Hub Daily: October 14, 2025</title>
-      <link>https://lithub.com/lit-hub-daily-october-14-2025/</link>
-      <description>
-        <![CDATA[58 books you need to read (recommended by 42 writers, editors, and booksellers in honor of our 10th birthday!). &#124; Lit Hub Reading Lists Lukas Gage recommends his favorite celebrity memoirs by Demi Moore, Pamela Anderson, and more! &#124; Lit]]>
-      </description>
-      <source:markdown>58 books you need to read (recommended by 42 writers, editors, and booksellers in honor of our 10th birthday!). \| Lit Hub Reading Lists Lukas Gage recommends his favorite celebrity memoirs by Demi Moore, Pamela Anderson, and more! \| Lit</source:markdown>
-      <guid>cid://https://lithub.com/?p=261012</guid>
-    </item>    <item>
-      <title>Reasoning</title>
-      <link>https://adactio.com/journal/22188</link>
-      <description>
-        <![CDATA[<p><a href="https://timkadlec.com/">Tim</a> recently gave a talk at <a href="https://smashingconf.com/ny-2025">Smashing Conference in New York</a> called <cite>One Step Ahead</cite>. Based on <a href="https://noti.st/tkadlec/gIzxEG">the slides</a>, it looks like it was an excellent talk.</p>
-        
-        <p>Towards the end, <a href="https://noti.st/tkadlec/gIzxEG#s6xk0Z2">there’s a slide</a> that could be the tagline for <a href="https://webdayout.com/">Web Day Out</a>:</p>
-        
-        <blockquote>
-          <p>Betting on the browser is our best chance at long-term success.</p>
-        </blockquote>
-        
-        <p>Most of the talk focuses on two technologies that you can add to any website with just a couple of lines of code: <a href="https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API">view transitions</a> and <a href="https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API">speculation rules</a>.</p>
-        
-        <p>I’m using both of them on <a href="https://thesession.org/">The Session</a> and I can testify to their superpowers—<a href="https://adactio.com/journal/22100">super-snappy navigations</a> with <a href="https://adactio.com/journal/20195">smooth animations</a>.</p>
-        
-        <p>Honestly, that takes care of 95% of the reasons for building a single-page app (the other 5% would be around managing state, which most sites—e-commerce, publishing, whatever—don’t need to bother with). Instead build a good ol’-fashioned website with pages of HTML linked together, then apply view transitions and speculation rules.</p>
-        
-        <p>I mean, why <em>wouldn’t</em> you do that?</p>
-        
-        <p>That’s not a rhetorical question. I’m genuinely interested in the reasons why people would reject a simple declarative solution in favour of the complexity of doing everything with a big JavaScript framework.</p>
-        
-        <p>One reason might be browser support. After all, both view transitions and speculation rules are designed to be used as progressive enhancements, regardless of how many browsers happen to support them right now. If you want to attempt to have complete control, I understand why you might reach for the single-page app model, even if it means bloating the initial payload.</p>
-        
-        <p>But think about that mindset for a second. Rather than reward the browsers that support modern features, you would instead be punishing them. You’d be treating every browser the same. Instead of taking advantage of the amazing features that some browsers have, you’d rather act as though they’re no different to legacy browsers.</p>
-        
-        <p>I kind of understand the thinking behind that. You assume a level playing field by treating every browser as though they’re Internet Explorer. But what a waste! You ship tons of uneccesary code to perfectly capable browsers.</p>
-        
-        <p>That could be the tagline for React.</p>]]>
-      </description>
-      <source:markdown>[Tim](https://timkadlec.com/) recently gave a talk at [Smashing Conference in New York](https://smashingconf.com/ny-2025) called One Step Ahead. Based on [the slides](https://noti.st/tkadlec/gIzxEG), it looks like it was an excellent talk.
-
-Towards the end, [there’s a slide](https://noti.st/tkadlec/gIzxEG#s6xk0Z2) that could be the tagline for [Web Day Out](https://webdayout.com/):
-
-&#62; Betting on the browser is our best chance at long-term success.
-
-Most of the talk focuses on two technologies that you can add to any website with just a couple of lines of code: [view transitions](https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API) and [speculation rules](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API).
-
-I’m using both of them on [The Session](https://thesession.org/) and I can testify to their superpowers— [super-snappy navigations](https://adactio.com/journal/22100) with [smooth animations](https://adactio.com/journal/20195).
-
-Honestly, that takes care of 95% of the reasons for building a single-page app (the other 5% would be around managing state, which most sites—e-commerce, publishing, whatever—don’t need to bother with). Instead build a good ol’-fashioned website with pages of HTML linked together, then apply view transitions and speculation rules.
-
-I mean, why _wouldn’t_ you do that?
-
-That’s not a rhetorical question. I’m genuinely interested in the reasons why people would reject a simple declarative solution in favour of the complexity of doing everything with a big JavaScript framework.
-
-One reason might be browser support. After all, both view transitions and speculation rules are designed to be used as progressive enhancements, regardless of how many browsers happen to support them right now. If you want to attempt to have complete control, I understand why you might reach for the single-page app model, even if it means bloating the initial payload.
-
-But think about that mindset for a second. Rather than reward the browsers that support modern features, you would instead be punishing them. You’d be treating every browser the same. Instead of taking advantage of the amazing features that some browsers have, you’d rather act as though they’re no different to legacy browsers.
-
-I kind of understand the thinking behind that. You assume a level playing field by treating every browser as though they’re Internet Explorer. But what a waste! You ship tons of uneccesary code to perfectly capable browsers.
-
-That could be the tagline for React.</source:markdown>
-      <guid>cid://https://adactio.com/journal/22188</guid>
-    </item>    <item>
-      <title>On the Terrible Toll of the Last Bloody Year of WWII</title>
-      <link>https://lithub.com/on-the-terrible-toll-of-the-last-bloody-year-of-wwii/</link>
-      <description>
-        <![CDATA[The cost of the invasion in matériel and lives lost was enormous, but Allied troops were now planted on French soil. To guard against undue optimism that the war in Europe would soon be over, the war correspondents stressed the]]>
-      </description>
-      <source:markdown>The cost of the invasion in matériel and lives lost was enormous, but Allied troops were now planted on French soil. To guard against undue optimism that the war in Europe would soon be over, the war correspondents stressed the</source:markdown>
-      <guid>cid://https://lithub.com/?p=260758</guid>
-    </item>    <item>
-      <title>Lukas Gage Recommends His Favorite Celebrity Memoirs</title>
-      <link>https://lithub.com/lukas-gage-recommends-his-favorite-celebrity-memoirs/</link>
-      <description>
-        <![CDATA[Memoirs have always been a favorite genre of mine. There’s something about seeing people completely overshare, especially in the areas the bad, the ugly, or the “failures” that makes me feel less insane about my own mess. These books didn’t]]>
-      </description>
-      <source:markdown>Memoirs have always been a favorite genre of mine. There’s something about seeing people completely overshare, especially in the areas the bad, the ugly, or the “failures” that makes me feel less insane about my own mess. These books didn’t</source:markdown>
-      <guid>cid://https://lithub.com/?p=260986</guid>
-    </item>    <item>
-      <title>Quan Barry on Writing a Horror Novel Set in Antarctica</title>
-      <link>https://lithub.com/quan-barry-on-writing-a-horror-novel-set-in-antarctica/</link>
-      <description>
-        <![CDATA[Quan Barry is an award-winning playwright (and poet) as well as a novelist, skills which show in the virtuosity of the ensemble of characters she has created in The Unveiling. Her primary narrator Striker, a Black film scout booked on]]>
-      </description>
-      <source:markdown>Quan Barry is an award-winning playwright (and poet) as well as a novelist, skills which show in the virtuosity of the ensemble of characters she has created in The Unveiling. Her primary narrator Striker, a Black film scout booked on</source:markdown>
-      <guid>cid://https://lithub.com/?p=260625</guid>
-    </item>    <item>
-      <title>Lit Hub Asks: 5 Authors, 7 Questions, No Wrong Answers</title>
-      <link>https://lithub.com/lit-hub-asks-5-authors-7-questions-no-wrong-answers-october-2025/</link>
-      <description>
-        <![CDATA[The Lit Hub Author Questionnaire is a monthly interview featuring seven questions for five authors with new books. This month we talk to: Grady Chambers (Great Disasters) Julia Ioffe (Motherland: A Feminist History of Modern Russia, from Revolution to Autocracy)]]>
-      </description>
-      <source:markdown>The Lit Hub Author Questionnaire is a monthly interview featuring seven questions for five authors with new books. This month we talk to: Grady Chambers (Great Disasters) Julia Ioffe (Motherland: A Feminist History of Modern Russia, from Revolution to Autocracy)</source:markdown>
-      <guid>cid://https://lithub.com/?p=260861</guid>
-    </item>    <item>
-      <title>Poetry for Everyone: Remembering Courtney Kampa</title>
-      <link>https://lithub.com/poetry-for-everyone-remembering-courtney-kampa/</link>
-      <description>
-        <![CDATA[Courtney collected small happinesses. Red lipstick. The permanent kiss-mark on a dog’s face. Scrawling a line of poetry on a mirror in a public place. The art of forgiveness. Music. Ballet. The people who populated her life, referred to always]]>
-      </description>
-      <source:markdown>Courtney collected small happinesses. Red lipstick. The permanent kiss-mark on a dog’s face. Scrawling a line of poetry on a mirror in a public place. The art of forgiveness. Music. Ballet. The people who populated her life, referred to always</source:markdown>
-      <guid>cid://https://lithub.com/?p=260705</guid>
-    </item>    <item>
-      <title>Ubuntu 25.10 lands: Rustier and Wayland-ier, but Flatpak is broken</title>
-      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/10/14/ubuntu_2510_is_here/</link>
-      <description>
-        <![CDATA[<h4>Canonical&#39;s Questing Quokka waddles in at 5.7 GB with AppArmor woes</h4>
-              <p>The latest interim release of Ubuntu is here, showcasing some significant changes. This isn&#39;t a long-term release, yet many of its differences will be in 26.04 next year.</p>]]>
-      </description>
-      <source:markdown>#### Canonical&#39;s Questing Quokka waddles in at 5.7 GB with AppArmor woes
-
-The latest interim release of Ubuntu is here, showcasing some significant changes. This isn&#39;t a long-term release, yet many of its differences will be in 26.04 next year.</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242448</guid>
-    </item>    <item>
-      <title>Beware the Oligarchs’ Two Bubbles</title>
-      <link>https://robertreich.substack.com/p/beware-the-oligarchs-ai-bubble</link>
-      <description>
-        <![CDATA[They&#8217;re likely to burst.]]>
-      </description>
-      <source:markdown>They’re likely to burst.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!_UkF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fecbde5e8-485e-4363-9c43-af40c9d70cf3_897x632.png" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/beware-the-oligarchs-ai-bubble</guid>
-    </item>    <item>
-      <title>How Great Storytelling Builds Brand Loyalty and Differentiates Products</title>
-      <link>https://openchannels.fm/how-great-storytelling-builds-brand-loyalty-and-differentiates-products/</link>
-      <description>
-        <![CDATA[In this episode, Rae and Adam dig into why storytelling is key for brands to shine in WordPress, sharing tips on connection, differentiation, and authentic messaging.]]>
-      </description>
-      <source:markdown>In this episode, Rae and Adam dig into why storytelling is key for brands to shine in WordPress, sharing tips on connection, differentiation, and authentic messaging.</source:markdown>
-      <guid>cid://https://openchannels.fm/?p=111053</guid>
-    </item>    <item>
-      <title>October 13, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/october-13-2025</link>
-      <description>
-        <![CDATA[Last Tuesday, President Donald J.]]>
-      </description>
-      <source:markdown>Last Tuesday, President Donald J.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/october-13-2025</guid>
-    </item>    <item>
-      <title>Thirsting after oligarchs gone wild</title>
-      <link>https://tracydurnell.com/2025/10/13/thirsting-after-oligarchs-gone-wild/</link>
-      <description>
-        <![CDATA[The revenge of elitism by Kyle Chayka To be anti-elitist, however, is to stop caring about attention as a metric of quality, because those who already have it will always win. It requires caring about the people who aren’t on magazine covers and don’t have hundreds of thousands of followers. It requires engaging in smaller-scale, [&#8230;]]]>
-      </description>
-      <source:markdown>The revenge of elitism by Kyle Chayka To be anti-elitist, however, is to stop caring about attention as a metric of quality, because those who already have it will always win. It requires caring about the people who aren’t on magazine covers and don’t have hundreds of thousands of followers. It requires engaging in smaller-scale, \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=30345</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115369909617457960</link>
-      <description>
-        <![CDATA[<p>When you are a Swift developer, every day is Xmas!<br /><a href="https://hachyderm.io/@swiftserverconf/115366982775363355" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">hachyderm.io/@swiftserverconf/</span><span class="invisible">115366982775363355</span></a></p>]]>
-      </description>
-      <source:markdown>When you are a Swift developer, every day is Xmas!
-
-[https://hachyderm.io/@swiftserverconf/115366982775363355](https://hachyderm.io/@swiftserverconf/115366982775363355)</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115369909617457960</guid>
-    </item>    <item>
-      <link>https://finance.yahoo.com/news/gofundme-ceo-says-economy-is-so-challenged-people-are-raising-money-to-buy-food-144750883.html</link>
-      <description>
-        <![CDATA[<p>GoFundMe CEO says economy is so challenged people are raising money to buy food.</p>]]>
-      </description>
-      <source:markdown>GoFundMe CEO says economy is so challenged people are raising money to buy food.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/13/1523/</guid>
-    </item>    <item>
-      <link>https://www.lawdork.com/p/barrett-turns-to-fox-news-not-the-docket</link>
-      <description>
-        <![CDATA[<p>Barrett turns to Fox News, rather than the docket, to explain her silence in key rulings.</p>]]>
-      </description>
-      <source:markdown>Barrett turns to Fox News, rather than the docket, to explain her silence in key rulings.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/13/1521/</guid>
     </item>
   </channel>
 </rss>

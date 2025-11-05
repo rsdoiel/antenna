@@ -7,10 +7,66 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>04 Nov 25 14:11 -0800</lastBuildDate>
+    <lastBuildDate>05 Nov 25 06:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Trump administration canceled a top education award. This LA school is celebrating anyway</title>
+      <link>https://laist.com/news/education/national-blue-ribbon-school-canceled-lucille-smith-elementary-lawndale-2025</link>
+      <description>
+        <![CDATA[Lucille J. Smith Elementary was one of 31 California schools to be nominated as a National Blue Ribbon School.]]>
+      </description>
+      <source:markdown>Lucille J. Smith Elementary was one of 31 California schools to be nominated as a National Blue Ribbon School.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5104-de73-abba-d7a458d90000</guid>
+    </item>    <item>
+      <title>New state law inspired by Pomeranian rescued from Palisades Fire aims to protect pets in disasters</title>
+      <link>https://laist.com/news/politics/new-state-law-to-protect-pets-in-disasters</link>
+      <description>
+        <![CDATA[AB 478 was introduced by a Southern California lawmaker and goes into effect in the new year.]]>
+      </description>
+      <source:markdown>AB 478 was introduced by a Southern California lawmaker and goes into effect in the new year.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-4bdb-d6cf-a9ff-6bff27560000</guid>
+    </item>    <item>
+      <title>Democrats had a big night. Here are 5 takeaways from the 2025 elections</title>
+      <link>https://laist.com/news/politics/democrats-had-a-big-night-here-are-5-takeaways-from-the-2025-elections</link>
+      <description>
+        <![CDATA[Democrats had a good night, winning major races including governor's races in Virginia and New Jersey and a redistricting ballot measure in California, while also confronting the future of the party.]]>
+      </description>
+      <source:markdown>Democrats had a good night, winning major races including governor&#39;s races in Virginia and New Jersey and a redistricting ballot measure in California, while also confronting the future of the party.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5405-ded4-a5de-575f9c3f0000</guid>
+    </item>    <item>
+      <title>Prop 50 passes in California, boosting Democrats in fight for US House control</title>
+      <link>https://laist.com/news/politics/prop-50-passes-california-boosting-democrats-house-fight</link>
+      <description>
+        <![CDATA[California have voters approved Prop. 50, temporarily redrawing Congressional maps ahead of 2026 midterms.]]>
+      </description>
+      <source:markdown>California have voters approved Prop. 50, temporarily redrawing Congressional maps ahead of 2026 midterms.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5081-de73-abba-d7a50e4d0000</guid>
+    </item>    <item>
+      <title>Mayor Bass lifts LA’s homelessness emergency declaration</title>
+      <link>https://laist.com/news/housing-homelessness/mayor-bass-los-angeles-homeless-emergency-declaration-lifted</link>
+      <description>
+        <![CDATA[LA mayor says emergency declaration was meant to be temporary, cites progress on homelessness.]]>
+      </description>
+      <source:markdown>LA mayor says emergency declaration was meant to be temporary, cites progress on homelessness.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5197-df2c-a5be-fddf96350000</guid>
+    </item>    <item>
+      <title>Elysian Park welcomes its first monarch butterfly habitat with over 200 milkweed plants</title>
+      <link>https://laist.com/news/los-angeles-activities/elysian-park-volunteers-plant-milkweed-garden-monarch-butterfly-habitat</link>
+      <description>
+        <![CDATA[Volunteers plant hundreds of milkweed plants in hopes of supporting the dwindling Western monarch population in California.]]>
+      </description>
+      <source:markdown>Volunteers plant hundreds of milkweed plants in hopes of supporting the dwindling Western monarch population in California.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5133-de73-abba-d7b7e4840000</guid>
+    </item>    <item>
+      <title>OC supervisors approve more aggressive homelessness response, including fines, jail time</title>
+      <link>https://laist.com/news/housing-homelessness/oc-supervisors-approve-more-aggressive-homelessness-response-including-fines-jail-time</link>
+      <description>
+        <![CDATA[Unhoused people sleeping in county parks and along flood control channels can now be immediately fined or jailed.]]>
+      </description>
+      <source:markdown>Unhoused people sleeping in county parks and along flood control channels can now be immediately fined or jailed.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5103-dc4f-a1de-7b4fcac90000</guid>
+    </item>    <item>
       <title>Explore the Circle of Life at the Santa Clarita Public Library Valencia Branch</title>
       <link>https://santaclarita.gov/blog/2025/11/04/explore-the-circle-of-life-at-the-santa-clarita-public-library-valencia-branch/</link>
       <description>
@@ -487,7 +543,7 @@ and drinks throughout the resort’s eateries.</source:markdown>
       <source:markdown>LAist reporter Yusra Farzan is of Sri Lankan descent and loves a pineapple chutney with her rice and curry.</source:markdown>
       <guid>cid://urn:uuid:0000019a-3652-d6cf-a9ff-7f7f907d0000</guid>
     </item>    <item>
-      <title>A longer list of SoCal restaurants and businesses offer free and discounted food for SNAP recipients</title>
+      <title>Here are SoCal restaurants offering free food for SNAP recipients</title>
       <link>https://laist.com/news/food/socal-restaurants-step-up-to-offer-free-or-discounted-meals-for-snap-recipients</link>
       <description>
         <![CDATA[We've updated this list with additional restaurants and organizations that have stepped forward to help.]]>
@@ -844,13 +900,6 @@ The post [Costumes, Candy and Caution](https://santaclarita.gov/blog/2025/10/30/
     </item>    <item>
       <title>Is your ballot signature readable? Here&#39;s how SoCal officials verify it when you vote</title>
       <link>https://laist.com/news/politics/ballot-vote-signature-election-california</link>
-      <description>
-        <![CDATA[Every ballot filed in the upcoming special election requires a voter’s signature. Here's a look at how the process to verify them works.]]>
-      </description>
-      <source:markdown>Every ballot filed in the upcoming special election requires a voter’s signature. Here&#39;s a look at how the process to verify them works.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-2cdd-d6cc-a9ff-fefdfc870000</guid>
-    </item>    <item>
-      <title>Is your ballot signature readable? Here&#39;s how SoCal officials verify it when you vote</title>
       <description>
         <![CDATA[Every ballot filed in the upcoming special election requires a voter’s signature. Here's a look at how the process to verify them works.]]>
       </description>
@@ -2871,128 +2920,6 @@ The post [Santa Clarita’s Día de Muertos Celebration](https://santaclarita.go
       </description>
       <source:markdown>The L.A. County Board of Supervisors on Tuesday voted to declare immigration enforcement actions a local emergency.</source:markdown>
       <guid>cid://urn:uuid:00000199-e48b-d8b9-a1bf-eedb6bf10000</guid>
-    </item>    <item>
-      <title>Orange County supervisors choose outside firm to audit contracts approved under Andrew Do</title>
-      <link>https://laist.com/news/politics/orange-county-supervisors-choose-outside-firm-to-audit-contracts-approved-under-andrew-do</link>
-      <description>
-        <![CDATA[Do is currently serving a five-year prison sentence on a federal bribery charge.]]>
-      </description>
-      <source:markdown>Do is currently serving a five-year prison sentence on a federal bribery charge.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e4b9-d89a-a3b9-f5bf45ca0000</guid>
-    </item>    <item>
-      <title>California moves to protect transgender patients&#39; data from &#39;hostile actors&#39;</title>
-      <link>https://laist.com/news/health/gavin-newsom-signs-bill-to-protect-transgender-patient-data</link>
-      <description>
-        <![CDATA[Gov. Gavin Newsom signed a law that puts medical records related to gender-affirming care under seal.]]>
-      </description>
-      <source:markdown>Gov. Gavin Newsom signed a law that puts medical records related to gender-affirming care under seal.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e49c-d89a-a3b9-f59f9c400000</guid>
-    </item>    <item>
-      <title>New laws aim to ease California’s student housing crunch</title>
-      <link>https://laist.com/news/education/new-laws-aim-to-ease-californias-student-housing-crunch</link>
-      <description>
-        <![CDATA[Gov. Gavin Newsom has signed three land reform bills to encourage residential construction on or near college campuses.]]>
-      </description>
-      <source:markdown>Gov. Gavin Newsom has signed three land reform bills to encourage residential construction on or near college campuses.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e411-dda8-a3bb-f51d3cd20000</guid>
-    </item>    <item>
-      <title>California’s incarcerated firefighters to see ‘historic’ pay increase in laws Newsom signed</title>
-      <link>https://laist.com/news/politics/california-incarcerated-firefighters-to-see-historic-pay-increase</link>
-      <description>
-        <![CDATA[Hundreds of California state prisoners worked to put out this year's deadly Los Angeles fires, inspiring new laws that will improve their pay and open other opportunities.]]>
-      </description>
-      <source:markdown>Hundreds of California state prisoners worked to put out this year&#39;s deadly Los Angeles fires, inspiring new laws that will improve their pay and open other opportunities.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e3a7-dc80-a5fb-efff6c8d0000</guid>
-    </item>    <item>
-      <title>Notice of Availability of the Final Environmental Impact Statement and Record of Decision for Authorizing Changes to the Falcon Launch Program at Vandenberg Space Force Base, California</title>
-      <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4323318/notice-of-availability-of-the-final-environmental-impact-statement-and-record-o/</link>
-      <description>
-        <![CDATA[VANDENBERG SPACE FORCE BASE, Calif. – Oct. 14, 2025 – Pursuant to the National Environmental Policy Act (NEPA), the Department of the Air Force (DAF) prepared a Final Environmental Impact Statement (EIS) that includes an analysis of the potential environmental effects associated with: 
-        
-        •	The DAF’s authorization of the redevelopment of Space Launch Complex (SLC)-6 to support Falcon 9 and Falcon Heavy operations, including launch and landing at Vandenberg Space Force Base (VSFB), California;  
-        •	The DAF’s authorization of an increase in Falcon 9 launches and landings at VSFB and downrange landings in the Pacific Ocean; and 
-        •	The Federal Aviation Administration’s (FAA’s) licensing Space Exploration Technologies Corporation’s (SpaceX) Falcon operations at VSFB and approval of related airspace closures. 
-        
-        <br/>]]>
-      </description>
-      <source:markdown>VANDENBERG SPACE FORCE BASE, Calif. – Oct. 14, 2025 – Pursuant to the National Environmental Policy Act (NEPA), the Department of the Air Force (DAF) prepared a Final Environmental Impact Statement (EIS) that includes an analysis of the potential environmental effects associated with:
-
-• The DAF’s authorization of the redevelopment of Space Launch Complex (SLC)-6 to support Falcon 9 and Falcon Heavy operations, including launch and landing at Vandenberg Space Force Base (VSFB), California;
-• The DAF’s authorization of an increase in Falcon 9 launches and landings at VSFB and downrange landings in the Pacific Ocean; and
-• The Federal Aviation Administration’s (FAA’s) licensing Space Exploration Technologies Corporation’s (SpaceX) Falcon operations at VSFB and approval of related airspace closures.</source:markdown>
-      <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4323318/notice-of-availability-of-the-final-environmental-impact-statement-and-record-o/</guid>
-    </item>    <item>
-      <title>D&#39;Angelo, R&#38;B&#39;s reluctant icon, has died at 51</title>
-      <link>https://laist.com/news/arts-and-entertainment/dangelo-r-bs-reluctant-icon-has-died-at-51</link>
-      <description>
-        <![CDATA[The expressive singer made just three albums, including his 1995 debut, Brown Sugar, but retreated from the public after each. He had been battling cancer, according to a statement from his family.]]>
-      </description>
-      <source:markdown>The expressive singer made just three albums, including his 1995 debut, Brown Sugar, but retreated from the public after each. He had been battling cancer, according to a statement from his family.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e3fa-dda8-a3bb-f7ff714a0000</guid>
-    </item>    <item>
-      <title>In Marc Maron&#39;s last &#39;WTF&#39; podcast episode, Obama offers advice on closing chapters</title>
-      <link>https://laist.com/news/marc-marons-last-wtf-podcast-episode-obama-offers-advice-on-closing-chapters</link>
-      <description>
-        <![CDATA[In the final episode, Marc Maron and former President Barack Obama spoke about the legacy of the podcast, politics and moving on.]]>
-      </description>
-      <source:markdown>In the final episode, Marc Maron and former President Barack Obama spoke about the legacy of the podcast, politics and moving on.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e3a0-dc80-a5fb-eff8639b0000</guid>
-    </item>    <item>
-      <title>A fragile Gaza ceasefire is tested after Israel and Hamas swap detainees and hostages</title>
-      <link>https://laist.com/news/gaza-ceasefire-largely-holds-after-israel-and-hamas-swap-detainees-and-hostages</link>
-      <description>
-        <![CDATA[Israel and Hamas took steps toward ending the two-year war that has devastated the Gaza Strip, but hard work lies ahead.]]>
-      </description>
-      <source:markdown>Israel and Hamas took steps toward ending the two-year war that has devastated the Gaza Strip, but hard work lies ahead.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e3b8-dc80-a5fb-eff8abb60000</guid>
-    </item>    <item>
-      <title>Protecting Jewish students or chilling speech? Inside California’s ‘hardest’ fight over antisemitism</title>
-      <link>https://laist.com/news/politics/protecting-jewish-students-or-chilling-speech-inside-californias-hardest-fight-over-antisemitism</link>
-      <description>
-        <![CDATA[In the fight over preventing antisemitism in schools, no one disputes the need to protect Jewish students. Lawmakers and critics diverged sharply on how to do it.]]>
-      </description>
-      <source:markdown>In the fight over preventing antisemitism in schools, no one disputes the need to protect Jewish students. Lawmakers and critics diverged sharply on how to do it.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e37a-dc80-a5fb-ef7a8a9f0000</guid>
-    </item>    <item>
-      <title>Newsom signs bill to stem copper wire theft that’s shutting LA’s lights off</title>
-      <link>https://laist.com/news/transportation/newsom-signs-copper-wire-theft-bill</link>
-      <description>
-        <![CDATA[State Assemblyman Mark González, who represents parts of L.A., introduced the bill to strengthen penalties against illegal metal recyclers.]]>
-      </description>
-      <source:markdown>State Assemblyman Mark González, who represents parts of L.A., introduced the bill to strengthen penalties against illegal metal recyclers.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e38f-dc80-a5fb-efdfce3e0000</guid>
-    </item>    <item>
-      <title>Think your kid’s done with a booster seat? New California law says maybe not</title>
-      <link>https://laist.com/news/politics/children-booster-seat-new-california-law</link>
-      <description>
-        <![CDATA[A controversial bill that would have banned short kids from the front seat was watered down, but small children still face new seat belt rules under a new law.]]>
-      </description>
-      <source:markdown>A controversial bill that would have banned short kids from the front seat was watered down, but small children still face new seat belt rules under a new law.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e365-dc80-a5fb-ef7daacc0000</guid>
-    </item>    <item>
-      <title>LA County quietly paid a $2 million settlement to its CEO in ‘confidential’ deal</title>
-      <link>https://laist.com/news/politics/county-settlement-ceo</link>
-      <description>
-        <![CDATA[The agreement is labeled “confidential” and was not reported out publicly by the county.]]>
-      </description>
-      <source:markdown>The agreement is labeled “confidential” and was not reported out publicly by the county.</source:markdown>
-      <guid>cid://urn:uuid:00000199-df87-df6e-abbd-dfefcdae0000</guid>
-    </item>    <item>
-      <title>Kaiser nurses go on strike in the pouring rain. Here&#39;s why — and how it will affect patients</title>
-      <link>https://laist.com/news/health/kaiser-nurses-plan-to-strike-tomorrow-heres-how-it-will-affect-patients</link>
-      <description>
-        <![CDATA[Tens of thousands of workers across Southern California walk out over pay and staffing issues.]]>
-      </description>
-      <source:markdown>Tens of thousands of workers across Southern California walk out over pay and staffing issues.</source:markdown>
-      <guid>cid://urn:uuid:00000199-df9c-d150-addd-ffdc1f230000</guid>
-    </item>    <item>
-      <title>Measure A gives LA County’s cities dedicated local homelessness funding, but some say it’s not enough</title>
-      <link>https://laist.com/news/housing-homelessness/measure-a-homeless-local-solutions-funding-santa-clarita-torrance-burbank-cuts-fair</link>
-      <description>
-        <![CDATA[The new sales tax divides $96 million among L.A.’s 88 cities.]]>
-      </description>
-      <source:markdown>The new sales tax divides $96 million among L.A.’s 88 cities.</source:markdown>
-      <guid>cid://urn:uuid:00000199-df4f-d89a-a3b9-ffcfcf0e0000</guid>
     </item>
   </channel>
 </rss>
