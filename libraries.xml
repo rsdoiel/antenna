@@ -4,10 +4,28 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>05 Nov 25 10:12 -0800</lastBuildDate>
+    <lastBuildDate>05 Nov 25 14:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Blacker the Berry, by Wallace Thurman</title>
+      <link>https://standardebooks.org/ebooks/wallace-thurman/the-blacker-the-berry</link>
+      <description>
+        <![CDATA[A dark-skinned young woman moves to Harlem and becomes frustrated by colorism in the African-American community.]]>
+      </description>
+      <source:markdown>A dark-skinned young woman moves to Harlem and becomes frustrated by colorism in the African-American community.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/wallace-thurman/the-blacker-the-berry/downloads/wallace-thurman_the-blacker-the-berry.epub?source=feed" length="319010" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/wallace-thurman/the-blacker-the-berry</guid>
+    </item>    <item>
+      <title>Poetry, by Ring Lardner</title>
+      <link>https://standardebooks.org/ebooks/ring-lardner/poetry</link>
+      <description>
+        <![CDATA[A collection of poems by Ring Lardner.]]>
+      </description>
+      <source:markdown>A collection of poems by Ring Lardner.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/ring-lardner/poetry/downloads/ring-lardner_poetry.epub?source=feed" length="2353760" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/ring-lardner/poetry</guid>
+    </item>    <item>
       <title>AI Literacy in Higher Education</title>
       <link>https://sr.ithaka.org/blog/ai-literacy-in-higher-education/</link>
       <description>

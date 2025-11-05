@@ -4,17 +4,168 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>05 Nov 25 10:12 -0800</lastBuildDate>
+    <lastBuildDate>05 Nov 25 14:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>FT: Deutsche Bank sucht Ausweg aus dem Risiko der KI-Finanzierung</title>
+      <link>https://www.heise.de/news/FT-Deutsche-Bank-sucht-Ausweg-aus-dem-Risiko-der-KI-Finanzierung-11067245.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Deutsche Bank hat große Kredite für den Bau von KI-Rechenzentren vergeben. Das bedeutet geballtes Risiko für die Bank. Es gibt Auswege, aber die kosten.]]>
+      </description>
+      <source:markdown>Die Deutsche Bank hat große Kredite für den Bau von KI-Rechenzentren vergeben. Das bedeutet geballtes Risiko für die Bank. Es gibt Auswege, aber die kosten.</source:markdown>
+      <guid>cid://http://heise.de/-11067245</guid>
+    </item>    <item>
+      <title>Astronomers Detect the Brightest and Most Distant Black Hole Flare Ever Seen</title>
+      <link>https://www.smithsonianmag.com/smart-news/astronomers-detect-the-brightest-and-most-distant-black-hole-flare-ever-seen-180987647/</link>
+      <description>
+        <![CDATA[The enormous outburst was likely caused by an unfortunate star venturing too close to a supermassive black hole]]>
+      </description>
+      <source:markdown>The enormous outburst was likely caused by an unfortunate star venturing too close to a supermassive black hole</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/d6V5hbcl3k1CHnKz5DEYQxLUu24=/420x240/filters:focal(700x400:701x401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/94/52/94527324-3713-4e51-b851-eb70a93bf131/agn_tde_copy_1660max-1400x800.jpg" length="" type="" />
+    </item>    <item>
+      <title>A Short Walk in the Park Might Slow Cognitive Decline in People at Risk of Developing Alzheimer’s</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-little-bit-of-exercise-might-slow-cognitive-decline-in-people-at-risk-of-developing-alzheimers-180987645/</link>
+      <description>
+        <![CDATA[New research indicates that even moderate step counts, as low as 3,000 steps daily, were linked with delayed symptom onset]]>
+      </description>
+      <source:markdown>New research indicates that even moderate step counts, as low as 3,000 steps daily, were linked with delayed symptom onset</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/PpGgYp_74aIjreZCsEfBlEoV1eI=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7c/94/7c940cae-dbe3-4c70-a5ba-9908b14de648/15009.jpg" length="" type="" />
+    </item>    <item>
+      <title>Sony rolls out a standard way to measure bias in how AI describes what it &#39;sees&#39;</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/05/sony_ai_vision_model_benchmark/</link>
+      <description>
+        <![CDATA[<h4>Images in the test dataset were all sourced with consent</h4> <p>AI models are filled to the brim with bias, whether that&#39;s showing you a certain race of person when you ask for a pic of a criminal or assuming that a woman can&#39;t possibly be involved in a particular career when you ask for a firefighter. To deal with these issues, Sony AI has released a new dataset for testing the fairness of computer vision models, one that its makers claim was compiled in a fair and ethical way.…</p>]]>
+      </description>
+      <source:markdown>#### Images in the test dataset were all sourced with consent
+
+AI models are filled to the brim with bias, whether that&#39;s showing you a certain race of person when you ask for a pic of a criminal or assuming that a woman can&#39;t possibly be involved in a particular career when you ask for a firefighter. To deal with these issues, Sony AI has released a new dataset for testing the fairness of computer vision models, one that its makers claim was compiled in a fair and ethical way.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242869</guid>
+    </item>    <item>
+      <title>Building Multiagent Systems for Workflow Automation With CrewAI</title>
+      <link>https://thenewstack.io/building-multiagent-systems-for-workflow-automation-with-crewai/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/f270a9b7-workflows-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Person on laptop setting up a chart of workflows." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/f270a9b7-workflows.jpg" /><p>As AI agents become more capable, there&#8217;s a growing demand to orchestrate them for real-world, multistep tasks. CrewAI is a</p>
+        <p>The post <a href="https://thenewstack.io/building-multiagent-systems-for-workflow-automation-with-crewai/">Building Multiagent Systems for Workflow Automation With CrewAI</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Person on laptop setting up a chart of workflows.](https://cdn.thenewstack.io/media/2025/11/f270a9b7-workflows-1024x576.jpg)
+
+As AI agents become more capable, there’s a growing demand to orchestrate them for real-world, multistep tasks. CrewAI is a
+
+The post [Building Multiagent Systems for Workflow Automation With CrewAI](https://thenewstack.io/building-multiagent-systems-for-workflow-automation-with-crewai/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805413</guid>
+    </item>    <item>
+      <title>The Microsoft SoftCard for the Apple II: getting two processors to share the same memory</title>
+      <link>https://www.osnews.com/story/143706/the-microsoft-softcard-for-the-apple-ii-getting-two-processors-to-share-the-same-memory/</link>
+      <description>
+        <![CDATA[We talked about the Z80 SoftCard, Microsoft&#8217;s first hardware product, back in 2023, but thanks to Raymond Chen and Nicole Branagan, we&#8217;ve got some more insights. The Microsoft Z-80 SoftCard was a plug-in expansion card for the Apple II that added the ability to run CP/M software. According to Wikipedia, it was Microsoft’s first hardware product and in 1980 was the single largest revenue source for the company. ↫ Raymond Chen at The Old New Thing And Chen links to an article by Branagan from 2020, which goes into even more detail. So there I was, very happy with my Apple ][plus. But then I saw someone on the internet post, and it seems that my Apple is an overpriced box with a toy microcontroller for a CPU, while real computers use an Intel 8080, 8085 or Zilog Z80 to run something called “CP/M”… but I’ve already spent so much money on the Apple, so can I turn it into a real computer? ↫ Nicole Branagan I have a soft spot for this particular subgenre of hardware &#8211; add-in cards that allow you to run an entirely different architecture inside your computer &#8211; and soon, I&#8217;ll be diving into a particularly capable example here on OSNews.]]>
+      </description>
+      <source:markdown>We talked about the Z80 SoftCard, Microsoft’s first hardware product, back in 2023, but thanks to Raymond Chen and Nicole Branagan, we’ve got some more insights. The Microsoft Z-80 SoftCard was a plug-in expansion card for the Apple II that added the ability to run CP/M software. According to Wikipedia, it was Microsoft’s first hardware product and in 1980 was the single largest revenue source for the company. ↫ Raymond Chen at The Old New Thing And Chen links to an article by Branagan from 2020, which goes into even more detail. So there I was, very happy with my Apple \]\[plus. But then I saw someone on the internet post, and it seems that my Apple is an overpriced box with a toy microcontroller for a CPU, while real computers use an Intel 8080, 8085 or Zilog Z80 to run something called “CP/M”… but I’ve already spent so much money on the Apple, so can I turn it into a real computer? ↫ Nicole Branagan I have a soft spot for this particular subgenre of hardware – add-in cards that allow you to run an entirely different architecture inside your computer – and soon, I’ll be diving into a particularly capable example here on OSNews.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143706</guid>
+    </item>    <item>
+      <title>bluetui and restterm: two beautiful TUI applications</title>
+      <link>https://www.osnews.com/story/143704/bluetui-and-restterm-two-beautiful-tui-applications/</link>
+      <description>
+        <![CDATA[There&#8217;s something incredibly enticing and retrofuturistic about a well-designed TUI, or text-based user interface. There&#8217;s an endless list number of these, but two crossed my path these past few days, and I found them particularly appealing. First, we&#8217;ve got bluetui, an application for managing Bluetooth connections on Linux systems with bluez installed. The second is resterm. Resterm is a terminal-first client for working with&#160;HTTP,&#160;GraphQL, and&#160;gRPC&#160;services. No cloud sync, no signups, no heavy desktop app. Simple, yet feature rich, terminal client for .http/.rest files. It pairs a Vim-like-style editor with a workspace explorer, response diff, history, profiler and scripting so you can iterate on requests without leaving the keyboard. ↫ restterm GitHub page I don&#8217;t use TUIs or the command line in general all that much, but these are two excellent examples of just how beautiful and user-friendly a good text-based user interface can really be. The command line is about a lot more than just archaic, cryptic incantations designed in the 1960s.]]>
+      </description>
+      <source:markdown>There’s something incredibly enticing and retrofuturistic about a well-designed TUI, or text-based user interface. There’s an endless list number of these, but two crossed my path these past few days, and I found them particularly appealing. First, we’ve got bluetui, an application for managing Bluetooth connections on Linux systems with bluez installed. The second is resterm. Resterm is a terminal-first client for working with HTTP, GraphQL, and gRPC services. No cloud sync, no signups, no heavy desktop app. Simple, yet feature rich, terminal client for .http/.rest files. It pairs a Vim-like-style editor with a workspace explorer, response diff, history, profiler and scripting so you can iterate on requests without leaving the keyboard. ↫ restterm GitHub page I don’t use TUIs or the command line in general all that much, but these are two excellent examples of just how beautiful and user-friendly a good text-based user interface can really be. The command line is about a lot more than just archaic, cryptic incantations designed in the 1960s.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143704</guid>
+    </item>    <item>
+      <title>Gorge on Microsoft Store apps with 16-at-once installer</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/05/microsoft_multiapp_download/</link>
+      <description>
+        <![CDATA[<h4>For now it works only with the web version of the Microsoft Store</h4> <p><strong>hands on</strong>  Normally, when you install an application in Windows, it comes either from a direct download or as a single choice from the Microsoft Store. But what if you could install several different apps at the same time by creating a custom group?…</p>]]>
+      </description>
+      <source:markdown>#### For now it works only with the web version of the Microsoft Store
+
+**hands on**  Normally, when you install an application in Windows, it comes either from a direct download or as a single choice from the Microsoft Store. But what if you could install several different apps at the same time by creating a custom group?…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242868</guid>
+    </item>    <item>
+      <title>SAP Expands Its AI Stack for Developers</title>
+      <link>https://thenewstack.io/sap-expands-its-ai-stack-for-developers/</link>
+      <description>
+        <![CDATA[<img width="1024" height="683" src="https://cdn.thenewstack.io/media/2025/11/06ceccf1-sap_teched25ber_02-01009_copyright-1024x683.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/06ceccf1-sap_teched25ber_02-01009_copyright-scaled.jpg" /><p>BERLIN, GERMANY &#8212; SAP Build is the German enterprise giant&#8217;s application development and process automation solution. Increasingly, it&#8217;s become the</p>
+        <p>The post <a href="https://thenewstack.io/sap-expands-its-ai-stack-for-developers/">SAP Expands Its AI Stack for Developers</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/06ceccf1-sap_teched25ber_02-01009_copyright-1024x683.jpg)
+
+BERLIN, GERMANY — SAP Build is the German enterprise giant’s application development and process automation solution. Increasingly, it’s become the
+
+The post [SAP Expands Its AI Stack for Developers](https://thenewstack.io/sap-expands-its-ai-stack-for-developers/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805164</guid>
+    </item>    <item>
+      <title>Black Hawk chown: DARPA takes helicopter pilots out of the air for $6M</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/05/pilotless_black_hawk_darpas/</link>
+      <description>
+        <![CDATA[<h4>An hour’s tablet training and a soldier was sending the bird on autonomous errands</h4> <p>Who needs a drone when you can fly a Black Hawk from a tablet? DARPA&#39;s $6 million award to Sikorsky paid off when a National Guard soldier, trained in under an hour, used a handheld tablet to command an optionally piloted Black Hawk through multiple autonomous missions. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### An hour’s tablet training and a soldier was sending the bird on autonomous errands
+
+Who needs a drone when you can fly a Black Hawk from a tablet? DARPA&#39;s $6 million award to Sikorsky paid off when a National Guard soldier, trained in under an hour, used a handheld tablet to command an optionally piloted Black Hawk through multiple autonomous missions. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242867</guid>
+    </item>    <item>
+      <title>800-Year-Old Tower Partially Collapses Near Rome’s Colosseum, Killing a Worker Trapped Inside</title>
+      <link>https://www.smithsonianmag.com/smart-news/800-year-old-tower-partially-collapses-near-romes-colosseum-killing-a-worker-trapped-inside-180987644/</link>
+      <description>
+        <![CDATA[Octav Stroici, a 66-year-old Romanian man, was restoring the Torre dei Conti when the accident occurred on November 3. Several other workers were successfully rescued from the medieval structure]]>
+      </description>
+      <source:markdown>Octav Stroici, a 66-year-old Romanian man, was restoring the Torre dei Conti when the accident occurred on November 3. Several other workers were successfully rescued from the medieval structure</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/nbG4hcO1TFagKiLajKkCPIPN5RY=/420x240/filters:focal(507x338:508x339)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e0/c9/e0c97dc4-309e-4d1a-a080-20517b434594/roma_torre_dei_conti_aprile_2013.jpeg" length="" type="" />
+    </item>    <item>
+      <title>Copyright vs KI: Londoner Gericht hilft Bildagentur Getty Images nicht</title>
+      <link>https://www.heise.de/news/Copyright-vs-KI-Londoner-Gericht-hilft-Bildagentur-Getty-Images-nicht-11067223.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der High Court für England und Wales weist die Klage Getty Images' gegen Stability AI teils zurück, teils ab. Nur Markenrechtsverletzung bleibt.]]>
+      </description>
+      <source:markdown>Der High Court für England und Wales weist die Klage Getty Images&#39; gegen Stability AI teils zurück, teils ab. Nur Markenrechtsverletzung bleibt.</source:markdown>
+      <guid>cid://http://heise.de/-11067223</guid>
+    </item>    <item>
+      <title>Struggling With OpenTelemetry Setup? Injector Makes It Easier</title>
+      <link>https://thenewstack.io/struggling-with-opentelemetry-setup-injector-makes-it-easier/</link>
+      <description>
+        <![CDATA[<img width="1024" height="682" src="https://cdn.thenewstack.io/media/2025/11/9fbe49be-view-1024x682.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Woman on mountaintop looking out at view below." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/9fbe49be-view.jpeg" /><p>Recent findings from Splunk&#8217;s annual &#8220;State of Observability 2025 Report&#8221; are clear: OpenTelemetry has evolved from an industry standard to</p>
+        <p>The post <a href="https://thenewstack.io/struggling-with-opentelemetry-setup-injector-makes-it-easier/">Struggling With OpenTelemetry Setup? Injector Makes It Easier</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Woman on mountaintop looking out at view below.](https://cdn.thenewstack.io/media/2025/11/9fbe49be-view-1024x682.jpeg)
+
+Recent findings from Splunk’s annual “State of Observability 2025 Report” are clear: OpenTelemetry has evolved from an industry standard to
+
+The post [Struggling With OpenTelemetry Setup? Injector Makes It Easier](https://thenewstack.io/struggling-with-opentelemetry-setup-injector-makes-it-easier/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805278</guid>
+    </item>    <item>
+      <title>Top 10: Der beste Open-Ear-Kopfhörer im Test – Soundcore vor Bose &#38; Shokz</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-open-ear-kopfhoerer-im-test-soundcore-vor-bose-und-shokz/ce2xwfl?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Open-Ear-Kopfhörer lassen die Ohren frei – das ist ideal für Sport und Verkehr. Wir zeigen die zehn besten Modelle mit und ohne Knochenschall.]]>
+      </description>
+      <source:markdown>Open-Ear-Kopfhörer lassen die Ohren frei – das ist ideal für Sport und Verkehr. Wir zeigen die zehn besten Modelle mit und ohne Knochenschall.</source:markdown>
+      <guid>cid://http://heise.de/-11066997</guid>
+    </item>    <item>
+      <title>Researchers Create a New Antivenom That Can Combat Bites From 17 Snake Species, Trials in Mice Suggest</title>
+      <link>https://www.smithsonianmag.com/smart-news/researchers-create-a-new-antivenom-that-can-combat-bites-from-17-snake-species-trials-in-mice-suggest-180987629/</link>
+      <description>
+        <![CDATA[Snakebites are among the deadliest neglected tropical diseases, and scientists have long been searching for more effective ways to prevent their devastating effects]]>
+      </description>
+      <source:markdown>Snakebites are among the deadliest neglected tropical diseases, and scientists have long been searching for more effective ways to prevent their devastating effects</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/UoQ_RB0w-WgZY0IXUdQ7-rd9Xbg=/420x240/filters:focal(1500x1029:1501x1030)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e2/83/e283fdb5-fba5-41a0-bfc9-1cba2b7a70ea/mamba_snake.jpg" length="" type="" />
+    </item>    <item>
+      <title>Google-KI triumphiert bei Hurrikan-Vorhersagen – US-Modell versagt</title>
+      <link>https://www.heise.de/news/KI-schlaegt-Meteorologen-DeepMind-hatte-in-der-Hurrikan-Saison-die-Nase-vorn-11067107.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Hurrikan-Saison 2025 war ein Lackmustest für Künstliche Intelligenz in der Wettervorhersage – und Google DeepMind hat bestanden.]]>
+      </description>
+      <source:markdown>Die Hurrikan-Saison 2025 war ein Lackmustest für Künstliche Intelligenz in der Wettervorhersage – und Google DeepMind hat bestanden.</source:markdown>
+      <guid>cid://http://heise.de/-11067107</guid>
+    </item>    <item>
       <title>LLMs Broke the SRE Runbook. Now What?</title>
       <link>https://thenewstack.io/llms-broke-the-sre-runbook-now-what/</link>
       <description>
-        <![CDATA[<p>Reliability engineers are the quiet force that keeps modern software running. After decades of refining practices on deterministic systems, many</p>
+        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/11/fe7aacd2-c974-4eab-b18a-a54907fcf587-1-1024x768.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/fe7aacd2-c974-4eab-b18a-a54907fcf587-1.jpg" /><p>Reliability engineers are the quiet force that keeps modern software running. After decades of refining practices on deterministic systems, many</p>
         <p>The post <a href="https://thenewstack.io/llms-broke-the-sre-runbook-now-what/">LLMs Broke the SRE Runbook. Now What?</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
-      <source:markdown>Reliability engineers are the quiet force that keeps modern software running. After decades of refining practices on deterministic systems, many
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/fe7aacd2-c974-4eab-b18a-a54907fcf587-1-1024x768.jpg)
+
+Reliability engineers are the quiet force that keeps modern software running. After decades of refining practices on deterministic systems, many
 
 The post [LLMs Broke the SRE Runbook. Now What?](https://thenewstack.io/llms-broke-the-sre-runbook-now-what/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
       <guid>cid://https://thenewstack.io/?p=22804445</guid>
@@ -27,7 +178,7 @@ The post [LLMs Broke the SRE Runbook. Now What?](https://thenewstack.io/llms-bro
       <source:markdown>Capgemini, PwC &#38; Co. sollen helfen, die Probleme beim Digitalfunk des Heeres in den Griff zu bekommen. Es geht um Aufträge in Höhe von knapp 160 Millionen Euro.</source:markdown>
       <guid>cid://http://heise.de/-11067079</guid>
     </item>    <item>
-      <title>Google&#39;s $32B deal for Wiz gets the all-clear from Uncle Sam</title>
+      <title>Uncle Sam lets Google take Wiz for $32B</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/05/googles_32b_wiz_acquisition_its/</link>
       <description>
         <![CDATA[<h4>Second time&#39;s the charm for after Wiz rejected Google&#39;s $23B offer last year</h4> <p>Google&#39;s second attempt to acquire cloud security firm Wiz is going a lot better than the first, with the Department of Justice clearing the $32 billion deal, which ranks as Google&#39;s largest-ever acquisition.…</p>]]>
@@ -58,7 +209,7 @@ America&#39;s Oak Ridge National Laboratory will receive up to $125 million thro
       <title>Microsoft Launches Magentic Marketplace for AI Agents</title>
       <link>https://thenewstack.io/microsoft-launches-magentic-marketplace-for-ai-agents/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/61978141-alex-shuper-rvrqqdweij0-unsplashb-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="magenta" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/61978141-alex-shuper-rvrqqdweij0-unsplashb.jpg" /><p>Microsoft Research has just launched an open source environment for studying agentic markets, called Magentic Marketplace. In advance of the</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/61978141-alex-shuper-rvrqqdweij0-unsplashb-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="magenta" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/61978141-alex-shuper-rvrqqdweij0-unsplashb.jpg" /><p>Microsoft Research has just launched an open source environment for studying agentic markets, called Magentic Marketplace. In advance of the</p>
         <p>The post <a href="https://thenewstack.io/microsoft-launches-magentic-marketplace-for-ai-agents/">Microsoft Launches Magentic Marketplace for AI Agents</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![magenta](https://cdn.thenewstack.io/media/2025/11/61978141-alex-shuper-rvrqqdweij0-unsplashb-1024x576.jpg)
@@ -167,7 +318,7 @@ Around two fifths of North America&#39;s SAP users have yet to begin migrating t
       <source:markdown>Ein Team der Ohio State University zeigt in einer Studie: Pilzgeflecht kann elektrische Zustände speichern und wiedergeben.</source:markdown>
       <guid>cid://http://heise.de/-11066754</guid>
     </item>    <item>
-      <title>Diskussion um &#34;Digitalokratie&#34;: &#34;Aktuell gibt es keine digitale Souveränität&#34;</title>
+      <title>Digitalokratie: Kann Europa die digitale Freiheit zurückgewinnen?</title>
       <link>https://www.heise.de/news/Ueber-Monopole-Medienmacht-und-die-Rueckeroberung-der-digitalen-Souveraenitaet-11066578.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
         <![CDATA[Was Europas digitaler Zukunft helfen könnte und wie die Befreiung aus den Fängen der Tech-Monopolisten gelingen kann, war Thema auf der KI-Woche in Stuttgart.]]>

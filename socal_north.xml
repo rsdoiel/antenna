@@ -7,10 +7,58 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>05 Nov 25 10:12 -0800</lastBuildDate>
+    <lastBuildDate>05 Nov 25 14:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>LA Memorial Coliseum to host the 2028 Olympic closing ceremony, dropping SoFi Stadium</title>
+      <link>https://laist.com/news/la-memorial-coliseum-to-host-the-2028-olympic-closing-ceremony-dropping-sofi-stadium</link>
+      <description>
+        <![CDATA[The Los Angeles City Council voted Tuesday to conclude the Games at one venue instead of splitting the event across the city.]]>
+      </description>
+      <source:markdown>The Los Angeles City Council voted Tuesday to conclude the Games at one venue instead of splitting the event across the city.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-55da-de73-abba-d7fec3e90000</guid>
+    </item>    <item>
+      <title>January fires destroyed thousands of small businesses — most in people&#39;s homes</title>
+      <link>https://laist.com/news/january-fires-destroyed-thousands-of-small-businesses-ucla-report</link>
+      <description>
+        <![CDATA[New UCLA research shows small operations like therapists, accountants and childcare were the majority of businesses destroyed.]]>
+      </description>
+      <source:markdown>New UCLA research shows small operations like therapists, accountants and childcare were the majority of businesses destroyed.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-511e-de73-abba-d7bed34a0000</guid>
+    </item>    <item>
+      <title>Air traffic controllers warn of &#39;tipping point&#39; as US government shutdown drags on</title>
+      <link>https://laist.com/news/air-traffic-controllers-tipping-point-government-shutdown</link>
+      <description>
+        <![CDATA[The government shutdown is taking a growing toll on air traffic controllers who are working without pay. Staffing shortages led to big delays over the weekend, raising concerns about travel chaos.]]>
+      </description>
+      <source:markdown>The government shutdown is taking a growing toll on air traffic controllers who are working without pay. Staffing shortages led to big delays over the weekend, raising concerns about travel chaos.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5528-d704-a39b-556fec7a0000</guid>
+    </item>    <item>
+      <title>LAPD refuses to release crime map records, says data could lead to &#39;public panic&#39;</title>
+      <link>https://laist.com/news/lapd-records-data-refusal</link>
+      <description>
+        <![CDATA[First Amendment lawyer says LAPD denial goes against principles of public records law.]]>
+      </description>
+      <source:markdown>First Amendment lawyer says LAPD denial goes against principles of public records law.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-54b9-d2bc-a9df-77bd3b390000</guid>
+    </item>    <item>
+      <title>Land movement in Rancho Palos Verdes has slowed down, but the city is bracing for winter rains</title>
+      <link>https://laist.com/news/climate-environment/rancho-palos-verdes-land-movement-bracing-for-winter-rains</link>
+      <description>
+        <![CDATA[Despite the slowdown, the city is planning to spend millions on repairing infrastructure.]]>
+      </description>
+      <source:markdown>Despite the slowdown, the city is planning to spend millions on repairing infrastructure.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-552b-d2bc-a9df-77af80f20000</guid>
+    </item>    <item>
+      <title>California GOP files lawsuit challenging Prop 50</title>
+      <link>https://laist.com/news/politics/california-gop-files-lawsuit-challenging-prop-50</link>
+      <description>
+        <![CDATA[The lawsuit claims new congressional maps violate the 14th and 15th Amendments.]]>
+      </description>
+      <source:markdown>The lawsuit claims new congressional maps violate the 14th and 15th Amendments.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5518-de73-abba-d7bcd4480000</guid>
+    </item>    <item>
       <title>The government shutdown is now the longest in US history. See how it compares</title>
       <link>https://laist.com/news/federal-government-shutdown-longest-in-us-history</link>
       <description>
@@ -27,14 +75,6 @@
       <source:markdown>California voters backed Gov. Gavin Newsom’s plan to redraw congressional districts in favor of Democrats. It was a big night for him in his rivalry with President Donald Trump.</source:markdown>
       <guid>cid://urn:uuid:0000019a-54eb-d2bc-a9df-77efea590000</guid>
     </item>    <item>
-      <title>New state law inspired by Pomeranian rescued from Palisades Fire aims to protect pets in disasters</title>
-      <link>https://laist.com/news/politics/new-state-law-to-protect-pets-in-disasters</link>
-      <description>
-        <![CDATA[AB 478 was introduced by a Southern California lawmaker and goes into effect in the new year.]]>
-      </description>
-      <source:markdown>AB 478 was introduced by a Southern California lawmaker and goes into effect in the new year.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-4bdb-d6cf-a9ff-6bff27560000</guid>
-    </item>    <item>
       <title>The Trump administration canceled a top education award. This LA school is celebrating anyway</title>
       <link>https://laist.com/news/education/national-blue-ribbon-school-canceled-lucille-smith-elementary-lawndale-2025</link>
       <description>
@@ -42,6 +82,14 @@
       </description>
       <source:markdown>Lucille J. Smith Elementary was one of 31 California schools to be nominated as a National Blue Ribbon School.</source:markdown>
       <guid>cid://urn:uuid:0000019a-5104-de73-abba-d7a458d90000</guid>
+    </item>    <item>
+      <title>New state law inspired by Pomeranian rescued from Palisades Fire aims to protect pets in disasters</title>
+      <link>https://laist.com/news/politics/new-state-law-to-protect-pets-in-disasters</link>
+      <description>
+        <![CDATA[AB 478 was introduced by a Southern California lawmaker and goes into effect in the new year.]]>
+      </description>
+      <source:markdown>AB 478 was introduced by a Southern California lawmaker and goes into effect in the new year.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-4bdb-d6cf-a9ff-6bff27560000</guid>
     </item>    <item>
       <title>Democrats had a big night. Here are 5 takeaways from the 2025 elections</title>
       <link>https://laist.com/news/politics/democrats-had-a-big-night-here-are-5-takeaways-from-the-2025-elections</link>

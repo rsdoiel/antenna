@@ -4,10 +4,19 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>05 Nov 25 10:12 -0800</lastBuildDate>
+    <lastBuildDate>05 Nov 25 14:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>SUSE Dives into the Agentic AI Pool</title>
+      <link>http://www.linux-magazine.com/Online/News/SUSE-Dives-into-the-Agentic-AI-Pool</link>
+      <description>
+        <![CDATA[<p>SUSE becomes the first open source company to adopt agentic AI with SUSE Enterprise Linux 16.</p>]]>
+      </description>
+      <source:markdown>SUSE becomes the first open source company to adopt agentic AI with SUSE Enterprise Linux 16.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://26be7e7b690d9b1de9dd019111c54ad0</guid>
+    </item>    <item>
       <title>Linux Now Runs Most Windows Games</title>
       <link>http://www.linux-magazine.com/Online/News/Linux-Now-Runs-Most-Windows-Games</link>
       <description>

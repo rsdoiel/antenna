@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>05 Nov 25 10:12 -0800</lastBuildDate>
+    <lastBuildDate>05 Nov 25 14:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,137 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>C.D. Rose has won the 2025 Goldsmiths Prize.</title>
+      <link>https://lithub.com/c-d-rose-has-won-the-2025-goldsmiths-prize/</link>
+      <description>
+        <![CDATA[C. D. Rose has won this year&#8217;s Goldsmiths Prize for his novel We Live Here Now. Described in the press copy as &#8220;DeLillo meets Kafka,&#8221; the novel sounds absolutely wild—as befits a winner of the Goldsmiths Prize, which was launched in]]>
+      </description>
+      <source:markdown>C. D. Rose has won this year’s Goldsmiths Prize for his novel We Live Here Now. Described in the press copy as “DeLillo meets Kafka,” the novel sounds absolutely wild—as befits a winner of the Goldsmiths Prize, which was launched in</source:markdown>
+      <guid>cid://https://lithub.com/?p=262333</guid>
+    </item>    <item>
+      <title>NetNewsWire 6.2: RSS Plus Markdown</title>
+      <link>https://inessential.com/2025/11/05/rss-plus-markdown.html</link>
+      <description>
+        <![CDATA[<p>
+        <p>On the NetNewsWire blog I’ve just announced NetNewsWire 6.2 for Mac and iOS.</p>
+        
+        <p>This release is almost entirely bug fixes — but it does add a couple small features and one potentially interesting one: it now supports Markdown in RSS (via the <code>source:markdown</code> element). <a href="https://netnewswire.blog/2025/11/05/netnewswire-for-mac-and-ios.html">Read all about it</a> on the NetNewsWire blog.</p>
+        
+        <p>(And now we’re working on NetNewsWire 7, which <a href="https://netnewswire.blog/2025/10/07/the-liquid-glass-plan.html">will adopt the new Liquid Glass UI</a>.)</p>]]>
+      </description>
+      <source:markdown>On the NetNewsWire blog I’ve just announced NetNewsWire 6.2 for Mac and iOS.
+
+This release is almost entirely bug fixes — but it does add a couple small features and one potentially interesting one: it now supports Markdown in RSS (via the `source:markdown` element). [Read all about it](https://netnewswire.blog/2025/11/05/netnewswire-for-mac-and-ios.html) on the NetNewsWire blog.
+
+(And now we’re working on NetNewsWire 7, which [will adopt the new Liquid Glass UI](https://netnewswire.blog/2025/10/07/the-liquid-glass-plan.html).)</source:markdown>
+      <guid>cid://https://inessential.com/2025/11/05/rss-plus-markdown.html</guid>
+    </item>    <item>
+      <title>Lego will be releasing a fan-created bowl of ramen as an official...</title>
+      <link>https://kottke.org/25/11/0047780-lego-will-be-releasing-a</link>
+      <guid>cid://tag:kottke.org,2025://13.47780</guid>
+    </item>    <item>
+      <title>NetNewsWire 6.2 for Mac and iOS</title>
+      <link>https://netnewswire.blog/2025/11/05/netnewswire-for-mac-and-ios.html</link>
+      <description>
+        <![CDATA[<p>NetNewsWire 6.2 is on the App Store for iOS, and you can download the Mac version (or do NetNewsWire &gt; Check for Updates… if you’re already running the app).</p>
+        
+        <p>Long-time Mac users will understand when we say that this is a Snow Leopard release — it fixes a bunch of bugs, makes some things faster, and adds only a couple features.</p>
+        
+        <p>See the <a href="https://github.com/Ranchero-Software/NetNewsWire/releases/tag/mac-6.2">release notes for Mac</a> and <a href="https://github.com/Ranchero-Software/NetNewsWire/releases/tag/iOS-6.2-6202">release notes for iOS</a> for more details. (They’re largely the same.)</p>
+        
+        <p>Note also that it doesn’t adopt Liquid Glass. We’ll be doing that in NetNewsWire 7, which we’re working on now. (See <a href="https://netnewswire.blog/2025/10/07/the-liquid-glass-plan.html">The Liquid Glass Plan</a>.)</p>
+        
+        <p>All that said — there is one new feature of potential interest: we’ve added support for Markdown in RSS feeds. When the parser encounters a <code>source:markdown</code> element, we save it in the database, and the app renders the Markdown as HTML and displays it in the article view.</p>
+        
+        <p>There aren’t many feeds that include Markdown yet, but we hope that changes! You can read more about it in Dave Winer’s <a href="http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInRss">Dev notes for Markdown in RSS</a>.</p>
+        
+        <p>While we’re not sure where this feature will take us, we have some thoughts. One is that RSS and Markdown were always destined to meet in this way, and it’s about time. :) Another is that this is a part of making posting/editing/replying over the web — as opposed to closed social networks — easier. This is part of making the web itself the social network.</p>
+        
+        <p>Anyway. It’s a foundation! We keep going.</p>]]>
+      </description>
+      <source:markdown>NetNewsWire 6.2 is on the App Store for iOS, and you can download the Mac version (or do NetNewsWire &#62; Check for Updates… if you’re already running the app).
+
+Long-time Mac users will understand when we say that this is a Snow Leopard release — it fixes a bunch of bugs, makes some things faster, and adds only a couple features.
+
+See the [release notes for Mac](https://github.com/Ranchero-Software/NetNewsWire/releases/tag/mac-6.2) and [release notes for iOS](https://github.com/Ranchero-Software/NetNewsWire/releases/tag/iOS-6.2-6202) for more details. (They’re largely the same.)
+
+Note also that it doesn’t adopt Liquid Glass. We’ll be doing that in NetNewsWire 7, which we’re working on now. (See [The Liquid Glass Plan](https://netnewswire.blog/2025/10/07/the-liquid-glass-plan.html).)
+
+All that said — there is one new feature of potential interest: we’ve added support for Markdown in RSS feeds. When the parser encounters a `source:markdown` element, we save it in the database, and the app renders the Markdown as HTML and displays it in the article view.
+
+There aren’t many feeds that include Markdown yet, but we hope that changes! You can read more about it in Dave Winer’s [Dev notes for Markdown in RSS](http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInRss).
+
+While we’re not sure where this feature will take us, we have some thoughts. One is that RSS and Markdown were always destined to meet in this way, and it’s about time. :) Another is that this is a part of making posting/editing/replying over the web — as opposed to closed social networks — easier. This is part of making the web itself the social network.
+
+Anyway. It’s a foundation! We keep going.</source:markdown>
+      <guid>cid://http://NetNewsWire.micro.blog/2025/11/05/netnewswire-for-mac-and-ios.html</guid>
+    </item>    <item>
+      <title>New book just out: The Cory Arcangel Hack. &#38;#8220;This book explores three...</title>
+      <link>https://kottke.org/25/11/0047790-new-book-just-out-the</link>
+      <guid>cid://tag:kottke.org,2025://13.47790</guid>
+    </item>    <item>
+      <title>Xcode 26.1</title>
+      <link>https://mjtsai.com/blog/2025/11/05/xcode-26-1/</link>
+      <description>
+        <![CDATA[Apple (xip, downloads): Xcode 26.1 includes Swift 6.2.1 and SDKs for iOS 26.1, iPadOS 26.1, tvOS 26.1, macOS 26.1, and visionOS 26.1. Xcode 26.1 supports on-device debugging in iOS 15 and later, tvOS 15 and later, watchOS 8 and later, and visionOS. Xcode 26.1 requires a Mac running macOS Sequoia 15.6 or later. Steve Troughton-Smith: [&#8230;]]]>
+      </description>
+      <source:markdown>Apple (xip, downloads): Xcode 26.1 includes Swift 6.2.1 and SDKs for iOS 26.1, iPadOS 26.1, tvOS 26.1, macOS 26.1, and visionOS 26.1. Xcode 26.1 supports on-device debugging in iOS 15 and later, tvOS 15 and later, watchOS 8 and later, and visionOS. Xcode 26.1 requires a Mac running macOS Sequoia 15.6 or later. Steve Troughton-Smith: \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49937</guid>
+    </item>    <item>
+      <title>Forcing Copilot AI</title>
+      <link>https://mjtsai.com/blog/2025/11/05/forcing-copilot-ai/</link>
+      <description>
+        <![CDATA[Thomas Claburn (Hacker News, Slashdot): Among the software developers who use Microsoft&#8217;s GitHub, the most popular community discussion in the past 12 months has been a request for a way to block Copilot, the company&#8217;s AI service, from generating issues and pull requests in code repositories.The second most popular discussion &#x2013; where popularity is measured [&#8230;]]]>
+      </description>
+      <source:markdown>Thomas Claburn (Hacker News, Slashdot): Among the software developers who use Microsoft’s GitHub, the most popular community discussion in the past 12 months has been a request for a way to block Copilot, the company’s AI service, from generating issues and pull requests in code repositories.The second most popular discussion – where popularity is measured \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49934</guid>
+    </item>    <item>
+      <title>AI in Microsoft Edge</title>
+      <link>https://mjtsai.com/blog/2025/11/05/ai-in-microsoft-edge/</link>
+      <description>
+        <![CDATA[Tom Warren: The AI-powered mode allows Copilot to search across all your open tabs and handle tasks like booking a restaurant, and it brings the Copilot chatbot to your new tab page. [&#8230;] Copilot in Edge also supports voice navigation to locate information on a website or to open tabs with products to compare. Microsoft [&#8230;]]]>
+      </description>
+      <source:markdown>Tom Warren: The AI-powered mode allows Copilot to search across all your open tabs and handle tasks like booking a restaurant, and it brings the Copilot chatbot to your new tab page. \[…\] Copilot in Edge also supports voice navigation to locate information on a website or to open tabs with products to compare. Microsoft \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49932</guid>
+    </item>    <item>
+      <title>Bending Spoons Acquires AOL</title>
+      <link>https://mjtsai.com/blog/2025/11/05/bending-spoons-acquires-aol/</link>
+      <description>
+        <![CDATA[Sara Fischer (via Hacker News): Apollo Global Management has reached a deal to sell AOL to Italian tech holding group Bending Spoons in a deal valued at roughly $1.5 billion, Axios has learned.[&#8230;]AOL still drives hundreds of millions of dollars of free cash flow. [&#8230;] Bending Spoons CEO Luca Ferrari said AOL has around 30 [&#8230;]]]>
+      </description>
+      <source:markdown>Sara Fischer (via Hacker News): Apollo Global Management has reached a deal to sell AOL to Italian tech holding group Bending Spoons in a deal valued at roughly $1.5 billion, Axios has learned.\[…\]AOL still drives hundreds of millions of dollars of free cash flow. \[…\] Bending Spoons CEO Luca Ferrari said AOL has around 30 \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49930</guid>
+    </item>    <item>
+      <title>Helen Garner has won the 2025 Baillie Gifford Prize for Nonfiction.</title>
+      <link>https://lithub.com/helen-garner-has-won-the-2025-baillie-gifford-prize-for-nonfiction/</link>
+      <description>
+        <![CDATA[On Tuesday, Helen Garner&#8217;s How to End a Story: Collected Diaries was announced as the 2025 winner of the Baillie Gifford Prize for Nonfiction, which recognizes excellence in nonfiction from authors of any nationality published in English in the UK.]]>
+      </description>
+      <source:markdown>On Tuesday, Helen Garner’s How to End a Story: Collected Diaries was announced as the 2025 winner of the Baillie Gifford Prize for Nonfiction, which recognizes excellence in nonfiction from authors of any nationality published in English in the UK.</source:markdown>
+      <guid>cid://https://lithub.com/?p=262324</guid>
+    </item>    <item>
+      <title>There are some internet projects for which no one is clamoring, but...</title>
+      <link>https://kottke.org/25/11/0047758-there-are-some-internet-p</link>
+      <guid>cid://tag:kottke.org,2025://13.47758</guid>
+    </item>    <item>
+      <title>How to Stay Remarkable After Success</title>
+      <link>https://guykawasaki.substack.com/p/how-to-stay-remarkable-after-success</link>
+      <description>
+        <![CDATA[The humility muscle no one talks about.]]>
+      </description>
+      <source:markdown>The humility muscle no one talks about.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!lOh3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F462b05e9-bff5-47d7-99db-ad04ca251335_1080x1080.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://guykawasaki.substack.com/p/how-to-stay-remarkable-after-success</guid>
+    </item>    <item>
+      <title>November 4, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/november-4-2025</link>
+      <enclosure url="https://api.substack.com/feed/podcast/178112960/bec4c226b055668e38ac9761d55ab0f0.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/november-4-2025</guid>
+    </item>    <item>
+      <title>This Bruce Lee Stamp Kicks Ass!</title>
+      <link>https://kottke.org/25/11/this-bruce-lee-stamp-kicks-ass</link>
+      <guid>cid://tag:kottke.org,2025://5.47769</guid>
     </item>    <item>
       <title>USPS Lowrider Stamps</title>
       <link>https://kottke.org/25/11/usps-lowrider-stamps</link>
@@ -139,9 +270,9 @@ La entrada [Sorda: los sentidos de la maternidad](https://www.palomitademaiz.net
       <title>Workings</title>
       <link>https://doc.searls.com/2025/11/05/workings/</link>
       <description>
-        <![CDATA[Nitin Batjatia: The Coming Illumination: When AI Reveals How Work Really Happens. Related, from an Amazon earnings call, how Amazon will grow while shedding employees. Photos from the 41st IIW.]]>
+        <![CDATA[Photos from the 41st IIW. Also from the first Agentic Internet Workshop. Many pix among them are of our group working on MyTerms, which I believe will be the biggest advance for the Web since the Web* itself. Nitin Batjatia: The Coming Illumination: When AI Reveals How Work Really Happens. Related, from an Amazon earnings call, how [&#8230;]]]>
       </description>
-      <source:markdown>Nitin Batjatia: The Coming Illumination: When AI Reveals How Work Really Happens. Related, from an Amazon earnings call, how Amazon will grow while shedding employees. Photos from the 41st IIW.</source:markdown>
+      <source:markdown>Photos from the 41st IIW. Also from the first Agentic Internet Workshop. Many pix among them are of our group working on MyTerms, which I believe will be the biggest advance for the Web since the Web\* itself. Nitin Batjatia: The Coming Illumination: When AI Reveals How Work Really Happens. Related, from an Amazon earnings call, how \[…\]</source:markdown>
       <guid>cid://https://doc.searls.com/2025/11/05/workings/</guid>
     </item>    <item>
       <title>Berghain by Rosalía, feat. Björk &#38; Yves Tumor</title>
@@ -1147,6 +1278,18 @@ La entrada [Maldita suerte: apuestas insaciables](https://www.palomitademaiz.net
       </description>
       <source:markdown>The app, called Mobile Identify and available on the Google Play Store, is specifically for local and regional law enforcement agencies working with ICE on immigration enforcement.</source:markdown>
       <guid>cid://690a2b2416a23c00019d20e6</guid>
+    </item>    <item>
+      <title>Introduction to Funmilola Fadairo</title>
+      <link>https://www.digitalrhetoriccollaborative.org/2025/11/04/introduction-to-funmilola-fadairo/</link>
+      <description>
+        <![CDATA[My initial experience with computers began when my Dad bought our first family desktop, which we used to play Zuma games. When the adults complained that my siblings and I were getting addicted to games, we either switched to Marvis Bacon, as it was popular for teaching kids how to type quickly, or we found [...]
+        <p><a href="https://www.digitalrhetoriccollaborative.org/2025/11/04/introduction-to-funmilola-fadairo/" rel="nofollow">Source</a></p>]]>
+      </description>
+      <source:markdown>My initial experience with computers began when my Dad bought our first family desktop, which we used to play Zuma games. When the adults complained that my siblings and I were getting addicted to games, we either switched to Marvis Bacon, as it was popular for teaching kids how to type quickly, or we found \[...\]
+
+[Source](https://www.digitalrhetoriccollaborative.org/2025/11/04/introduction-to-funmilola-fadairo/)</source:markdown>
+      <enclosure url="https://www.digitalrhetoriccollaborative.org/wp-content/uploads/2025/11/Copy-of-Benin-Art-Recording-1.mp4" length="8333610" type="video/mp4" />
+      <guid>cid://https://www.digitalrhetoriccollaborative.org/?p=22001</guid>
     </item>    <item>
       <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m4t25242tk24</link>
       <description>
