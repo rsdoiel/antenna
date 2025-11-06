@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" >
   <meta name="generator" content="antenna/0.0.15" >
-  <meta name="date" content="2025-11-06T06:11:20-08:00" >
+  <meta name="date" content="2025-11-06T10:11:18-08:00" >
   <link rel="stylesheet" href="css/site.css" >
   <link rel="alternate" type="application/rss+xml" href="libraries.xml" >
   <script type="module" src="modules/date_filter.js" ></script>
@@ -64,6 +64,56 @@
 
       <address>
         <a href="https://standardebooks.org/ebooks/john-cowper-powys/wolf-solent">https://standardebooks.org/ebooks/john-cowper-powys/wolf-solent</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-06T00:00:00Z" data-link="https://www.crossref.org/blog/the-sunset-is-on-the-horizon-for-metadata-manager.-whats-next/">
+      <h1>The sunset is on the horizon for Metadata Manager. What's next?</h1>
+
+(date: 2025-11-06)
+      <p>
+      <p>TL;DR. Metadata Manager will be retired at the end of 2025. Over the past four years, we have been developing a new helper tool to replace it, and that tool has now reached a stage of maturity that means we will be able to switch off Metadata Manager by the end of the year.</p>
+<h2>How did we get here?</h2>
+<p>In 2021, we <a href="https://doi.org/10.64000/30vzx-r5x16">said</a> that we would be retiring the deprecated <a href="https://www.crossref.org/documentation/register-maintain-records/metadata-manager/">Metadata Manager</a> as soon as we can offer members a suitable replacement for registering their journal content. So this news has been a long time coming - Metadata Manager has been very challenging for us to support, and we have found it impossible to develop additional features. However, we did not want to take the final step of switching off the interface until we were able to offer a suitable replacement for members who rely on manual helper tools to register their journal content.</p>
+<p>That replacement, our new <a href="https://www.crossref.org/documentation/register-maintain-records/record-registration-form/">record registration form</a>, has now been used by many members for over a year to register their journal content. The feedback so far has been positive, and we have been able to add functionality to the tool at a pace that we are happy with.</p>
+<p>In July 2025, we contacted those members who are still using Metadata Manager to let them know that the tool will no longer be available after December 2025. So if you are affected by this news, you were probably already aware of it. But we wanted to go into a little more detail on the sunsetting of Metadata Manager, why we are doing it, and what’s next for Crossref’s content registration helper tools.</p>
+<h2>What has happened since 2021?</h2>
+<p>We have been developing the record registration form ever since that announcement in 2021. It began its life as a helper tool for registering grant records, but we knew we wanted to expand it to cover journal articles and other record types as soon as we could.</p>
+<p>To see whether the concept behind the grants form could be applied to journal content, we first built an initial prototype and tested it with a number of Crossref ambassadors and volunteers. We wanted to ensure that the tool was intuitive to use, and to understand what functionality it would need to support for it to be truly useful to our members. Following some iteration on the invaluable feedback we received from our testers, we finally released the tool to production in September 2024 and began encouraging members to use it for their real-life article deposits.</p>
+<p>We have been continuously adding new functionality since then, from additional fields for registering richer metadata to a feature that allows members to edit their articles’ metadata without having to re-enter everything into the form.</p>
+<p>Now, about two months from the target date for retiring Metadata Manager, the record registration form is used by members to register about 200 articles per day, while Metadata Manager still sees about double that volume of submissions. So we have some way left to go.</p>
+<h2>Why is now the right time to retire Metadata Manager?</h2>
+<p>2025 has been a year of addressing technical debt for Crossref. My colleague Sara wrote about this co-ordinated push towards modernising our system in her post about our <a href="https://doi.org/10.64000/wd6rx-vpq73">cloud migration</a> in the summer.</p>
+<p>Having the long-awaited replacement for Metadata Manager in place will allow us to free up the resources that have been tied up for years by troubleshooting Metadata Manager, in terms of both technology and user support, so that we can focus on projects and initiatives that align with our longer-term <a href="https://www.crossref.org/strategy/">strategy</a>.</p>
+<h2>How will we avoid the new tool developing the same problems as Metadata Manager?</h2>
+<p>As stated above, Metadata Manager has caused us many issues and headaches in different ways - but we have also learned a lot from dealing with these problems. As Bryan Vickery <a href="https://doi.org/10.64000/1a52b-7pf27">wrote in 2020</a>, Metadata Manager is “not flexible enough to easily add other record types, like books/book chapters, or to include any changes we may make to our input schema.” To address this, we built the record registration form in a <a href="https://doi.org/10.64000/cvq2e-q8t24">schema-driven way</a>, which makes it adaptable to any future schema changes. It also means that we can spin up prototypes of new forms for additional record types quite quickly.</p>
+<p>So while Metadata Manager was custom-built in a way that could only ever work for journal content, the record registration form already supports two record types and will support more in future. This is key for our goal of building a complete <a href="https://www.crossref.org/documentation/research-nexus/">research nexus</a>, which extends far beyond journal content, and even beyond “content” as such (did someone say <a href="https://www.crossref.org/services/grant-linking-system/">grants</a>?).</p>
+<h2>What happens next?</h2>
+<ul>
+<li>Metadata Manager will no longer be available from January 2026.</li>
+<li>Starting next year, if you attempt to access Metadata Manager at <a href="https://www.crossref.org/metadatamanager/">https://www.crossref.org/metadatamanager/</a>, you will be redirected to a deprecation note on <a href="https://www.crossref.org/deprecated/">https://www.crossref.org/deprecated/</a> which will link out to the new tool.</li>
+</ul>
+<h2>What options do I have for registering my journal content going forward?</h2>
+<p>If your organisation still uses Metadata Manager to register metadata for your journal articles, now is a good time to begin familiarising yourself with the <a href="https://www.crossref.org/documentation/register-maintain-records/choose-content-registration-method/">alternatives</a> available to you from 2026 forward - these include, but are not limited to, the new record registration form.</p>
+<h3>If your journal has an ISSN</h3>
+<p>We recommend you begin using the record registration form as soon as possible. Simply go to <a href="https://manage.crossref.org/records">https://manage.crossref.org/records</a> and sign in with your Crossref account credentials to register a journal article. You can also see a list of all the journal article records you have previously registered using our manual helper tools at <a href="https://manage.crossref.org/records/edit">https://manage.crossref.org/records/edit</a> and edit their metadata using the form.</p>
+<p>To help you make the switch from Metadata Manager, we will be hosting an interactive webinar on 13 November about how to transition to the new tool. <a href="https://crossref.zoom.us/webinar/register/7317600554084/WN_WF1Ykk-4SKeih4ucpTeesA">Register here</a> or look out for the recording, which will be shared in our <a href="https://www.crossref.org/events/archive/">events archive</a>.</p>
+<h3>If your journal does not have an ISSN</h3>
+<p>The record registration form currently only supports ISSNs as journal identifiers. Title-level and volume/issue-level DOIs, which are at the core of how Metadata Manager handles journal metadata, have been the cause for some of the problems we have had over the years with that particular tool. Also, Crossref DOIs have always been intended primarily as citation identifiers, and entire journals/volumes/issues are very rarely cited. For that reason, we built the Record Registration Form such that it doesn’t support registering or using journal-level DOIs.</p>
+<p>With that being said, if you do not (yet) have an ISSN for your journal for whatever reason, you can use our <a href="https://www.crossref.org/documentation/register-maintain-records/web-deposit-form/">web deposit form</a> to register your articles with journal DOI. If you do obtain an ISSN for your title later on, you can then simply begin using the record registration form from that point onward.</p>
+<h2>How will the new tool continue to be developed?</h2>
+<p>We will continue to work with our members and community to develop additional functionalities for the journal article form. Currently we are working on allowing <a href="https://www.crossref.org/documentation/principles-practices/best-practices/relationships/">relationships metadata</a> to be registered using the form.</p>
+<p>Ultimately, the goal is for the record registration form to become the one-stop shop for members who manually register and update their metadata. To this end, we are working on expanding the tool to cover additional record types - we have recently developed a prototype for registering books and chapters, and we will be looking to test this in the coming months with volunteers who are currently registering their book metadata via other avenues such as the web deposit form.</p>
+<p>If you would like to support these efforts, or you have begun using the new tool and would like to share your feedback, come join the discussion in our <a href="https://community.crossref.org/t/feedback-on-new-helper-tool/1721">community forum</a>.</p>
+<h3>References</h3>
+<ol>
+<li>Bowman, S. (2021). Next steps for Content Registration. Crossref. <a href="https://doi.org/10.64000/30vzx-r5x16">https://doi.org/10.64000/30vzx-r5x16</a></li>
+<li>Bowman, S. (2025). We’ve migrated to the cloud; we hope you didn’t notice (but maybe you did). Crossref. <a href="https://doi.org/10.64000/wd6rx-vpq73">https://doi.org/10.64000/wd6rx-vpq73</a></li>
+<li>Vale, P. (2022). Forming new relationships: Contributing to Open source. Crossref. <a href="https://doi.org/10.64000/cvq2e-q8t24">https://doi.org/10.64000/cvq2e-q8t24</a></li>
+</ol>
+
+      <address>
+        <a href="https://www.crossref.org/blog/the-sunset-is-on-the-horizon-for-metadata-manager.-whats-next/">https://www.crossref.org/blog/the-sunset-is-on-the-horizon-for-metadata-manager.-whats-next/</a>
       </address>
     </article>
 

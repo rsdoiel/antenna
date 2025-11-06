@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>06 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>06 Nov 25 10:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,500 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Erica Chenoweth on the Power of Peaceful Resistance</title>
+      <link>https://guykawasaki.substack.com/p/erica-chenoweth-on-the-power-of-peaceful</link>
+      <description>
+        <![CDATA[When democracies backslide, it&#8217;s tempting to think the solutions are out of reach.]]>
+      </description>
+      <source:markdown>When democracies backslide, it’s tempting to think the solutions are out of reach.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!xh1G!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F54cb1241-0507-49d9-9da7-87c8b9369fbb_1080x1080.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://guykawasaki.substack.com/p/erica-chenoweth-on-the-power-of-peaceful</guid>
+    </item>    <item>
+      <title>Finished reading Mage Tank 2</title>
+      <link>https://www.mollywhite.net/reading/books?search=Mage%20Tank%202</link>
+      <guid>cid://690ce07394c62d1d9ebed65e</guid>
+    </item>    <item>
+      <link>https://www.newsbreak.com/the-daily-sun-1591630/4333592703942-ag-sunday-joins-push-to-prevent-sales-of-synthetic-cannabinoids</link>
+      <description>
+        <![CDATA[<p>Pennsylvania Attorney General joins push to prevent sales of synthetic cannabinoids.</p>]]>
+      </description>
+      <source:markdown>Pennsylvania Attorney General joins push to prevent sales of synthetic cannabinoids.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/06/1825/</guid>
+    </item>    <item>
+      <title>Aiming for Fullness</title>
+      <link>https://kottke.org/25/11/aiming-for-fullness</link>
+      <guid>cid://tag:kottke.org,2025://5.47797</guid>
+    </item>    <item>
+      <title>Want to understand the Zohran phenomenon? Here’s a mini reading list.</title>
+      <link>https://lithub.com/want-to-understand-the-zohran-phenomenon-heres-a-mini-reading-list/</link>
+      <description>
+        <![CDATA[Have you thanked a bodega cat today? Remember, they won&#8217;t be getting raises under the new administration. For 51% of New York City bipeds, however, it&#8217;s a pretty great week. Zohran Mamdani, the charming upstart, will be our new mayor.]]>
+      </description>
+      <source:markdown>Have you thanked a bodega cat today? Remember, they won’t be getting raises under the new administration. For 51% of New York City bipeds, however, it’s a pretty great week. Zohran Mamdani, the charming upstart, will be our new mayor.</source:markdown>
+      <guid>cid://https://lithub.com/?p=262362</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m4xzc66jhs2y</link>
+      <description>
+        <![CDATA[For almost four decades, Nancy Pelosi has served the American people and worked to make our country better. No one was more skilled at bringing people together and getting legislation passed – and I will always be grateful for her support of the Affordable Care Act.]]>
+      </description>
+      <source:markdown>For almost four decades, Nancy Pelosi has served the American people and worked to make our country better. No one was more skilled at bringing people together and getting legislation passed – and I will always be grateful for her support of the Affordable Care Act.</source:markdown>
+      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m4xzc66jhs2y</guid>
+    </item>    <item>
+      <title>The NYC Mayor Fiction Canon (or why Adams should probably write a crime thriller).</title>
+      <link>https://lithub.com/the-nyc-mayor-fiction-canon-or-why-adams-should-probably-write-a-crime-thriller/</link>
+      <description>
+        <![CDATA[I’m excited to be writing to you from here in Mayor-elect Mamdani’s New York City. After years of bad news and then worse news, and a lifetime of disappointing mayors, it’s a strange and pleasant feeling to wake up in]]>
+      </description>
+      <source:markdown>I’m excited to be writing to you from here in Mayor-elect Mamdani’s New York City. After years of bad news and then worse news, and a lifetime of disappointing mayors, it’s a strange and pleasant feeling to wake up in</source:markdown>
+      <guid>cid://https://lithub.com/?p=262367</guid>
+    </item>    <item>
+      <title>Lego is considering making this fan-created Daft Punk set into an official...</title>
+      <link>https://kottke.org/25/11/0047799-lego-is-considering-makin</link>
+      <guid>cid://tag:kottke.org,2025://13.47799</guid>
+    </item>    <item>
+      <title>Providers</title>
+      <link>https://adactio.com/journal/22235</link>
+      <description>
+        <![CDATA[<p>If you’re building software, it’s generally a good idea to avoid the <a href="https://en.wikipedia.org/wiki/Not_invented_here">Not-Invented-Here syndrome</a>. This is when you insist on writing absolutely everything from scratch even if it would make more sense to use a third-party provider.</p>
+        
+        <p>Need your app to take payments? Don’t try to become your own payment provider—use an existing provider instead.</p>
+        
+        <p>Need your app to send email? Don’t try to code all that up yourself—just use an existing service.</p>
+        
+        <p>This same thinking seems to apply to JavaScript libraries too. If you don’t use a library or framework, you’ll just end up writing your own library or framework instead, right?</p>
+        
+        <p>Except that’s not the way that JavaScript frameworks work. At least not any more.</p>
+        
+        <p>There was a time when JavaScript libraries really did abstract away browser differences that you probably didn’t want to deal with yourself. In the early days of jQuery—before <code>querySelector</code> existed—trying to work with the DOM could be a real pain. Libraries like jQuery helped avoid that pain.</p>
+        
+        <p>Maybe it was even true in the early days of Angular and React. If you were trying to handle navigations yourself, it probably made sense to use a framework.</p>
+        
+        <p>But that’s not the case any more, and hasn’t been for quite a while.</p>
+        
+        <p>These days, client-side JavaScript frameworks don’t abstract away the underlying platform, they instead try to be an alternative. In fact, if you attempt to use web platform features, your JavaScript framework will often get in the way. You have to wait until your framework of choice supports a feature like view transitions before you get to use it.</p>
+        
+        <p>This is nuts. Developers are choosing to use tools that actively get in the way of the web platform.</p>
+        
+        <p>I think that most developers have the mental model of JavaScript frameworks completely backwards. They believe that the framework saves them time and effort (just like a payment provider or an email service). Instead these frameworks are simply limiting the possibility space of what you can do in web browsers today.</p>
+        
+        <p>When you use a JavaScript framework, that isn’t the end of your work, it’s just the beginning. You still have to write your own code that makes use of that framework. Except now your code is restricted to only what the framework can do.</p>
+        
+        <p>And yet most developers still believe that using a JavaScript framework somehow enables them to do <em>more</em>.</p>
+        
+        <p><a href="https://blog.jim-nielsen.com/2025/browser-apis-as-sass/">Jim Nielsen has a great framing on this</a>. JavaScript libraries aren’t like payment providers or email services. Rather, it’s the features built into web browsers today that are like these third-party providers. When you use these features, you’re benefiting from all the work that the browser makers have put into making them as efficient as possible:</p>
+        
+        <blockquote>
+          <p>Browser makers have teams of people who, day-in and day-out, are spending lots of time developing and optimizing new their offerings.</p>
+          
+          <p>So if you leverage what they offer you, that gives you an advantage because you don’t have to build it yourself.</p>
+        </blockquote>
+        
+        <p>Want to do nifty page transitions? Don’t use a library. Use view transitions.</p>
+        
+        <p>Want to animate parts of the page as the user scrolls? Don’t use a library. Use scroll-driven animations.</p>
+        
+        <p>Want to make something happen when the user clicks? Don’t use a library. For the love of all that is holy, <a href="https://gomakethings.com/just-use-a-button/">just use a button</a>.</p>
+        
+        <p>If you agree that using a <code>button</code> makes more sense than using a <code>div</code>, then I encourage you to apply the same thinking to everything else your app needs to do.</p>
+        
+        <p>Take advantage of all the wonderful things you can do in web browsers today. If instead you decide to use a JavaScript framework, you’re basically inventing from scratch.</p>
+        
+        <p>Except now all of your users pay the price because they’re the ones who have to download the JavaScript framework when they use your app.</p>]]>
+      </description>
+      <source:markdown>If you’re building software, it’s generally a good idea to avoid the [Not-Invented-Here syndrome](https://en.wikipedia.org/wiki/Not_invented_here). This is when you insist on writing absolutely everything from scratch even if it would make more sense to use a third-party provider.
+
+Need your app to take payments? Don’t try to become your own payment provider—use an existing provider instead.
+
+Need your app to send email? Don’t try to code all that up yourself—just use an existing service.
+
+This same thinking seems to apply to JavaScript libraries too. If you don’t use a library or framework, you’ll just end up writing your own library or framework instead, right?
+
+Except that’s not the way that JavaScript frameworks work. At least not any more.
+
+There was a time when JavaScript libraries really did abstract away browser differences that you probably didn’t want to deal with yourself. In the early days of jQuery—before `querySelector` existed—trying to work with the DOM could be a real pain. Libraries like jQuery helped avoid that pain.
+
+Maybe it was even true in the early days of Angular and React. If you were trying to handle navigations yourself, it probably made sense to use a framework.
+
+But that’s not the case any more, and hasn’t been for quite a while.
+
+These days, client-side JavaScript frameworks don’t abstract away the underlying platform, they instead try to be an alternative. In fact, if you attempt to use web platform features, your JavaScript framework will often get in the way. You have to wait until your framework of choice supports a feature like view transitions before you get to use it.
+
+This is nuts. Developers are choosing to use tools that actively get in the way of the web platform.
+
+I think that most developers have the mental model of JavaScript frameworks completely backwards. They believe that the framework saves them time and effort (just like a payment provider or an email service). Instead these frameworks are simply limiting the possibility space of what you can do in web browsers today.
+
+When you use a JavaScript framework, that isn’t the end of your work, it’s just the beginning. You still have to write your own code that makes use of that framework. Except now your code is restricted to only what the framework can do.
+
+And yet most developers still believe that using a JavaScript framework somehow enables them to do _more_.
+
+[Jim Nielsen has a great framing on this](https://blog.jim-nielsen.com/2025/browser-apis-as-sass/). JavaScript libraries aren’t like payment providers or email services. Rather, it’s the features built into web browsers today that are like these third-party providers. When you use these features, you’re benefiting from all the work that the browser makers have put into making them as efficient as possible:
+
+&#62; Browser makers have teams of people who, day-in and day-out, are spending lots of time developing and optimizing new their offerings.
+&#62;
+&#62; So if you leverage what they offer you, that gives you an advantage because you don’t have to build it yourself.
+
+Want to do nifty page transitions? Don’t use a library. Use view transitions.
+
+Want to animate parts of the page as the user scrolls? Don’t use a library. Use scroll-driven animations.
+
+Want to make something happen when the user clicks? Don’t use a library. For the love of all that is holy, [just use a button](https://gomakethings.com/just-use-a-button/).
+
+If you agree that using a `button` makes more sense than using a `div`, then I encourage you to apply the same thinking to everything else your app needs to do.
+
+Take advantage of all the wonderful things you can do in web browsers today. If instead you decide to use a JavaScript framework, you’re basically inventing from scratch.
+
+Except now all of your users pay the price because they’re the ones who have to download the JavaScript framework when they use your app.</source:markdown>
+      <guid>cid://https://adactio.com/journal/22235</guid>
+    </item>    <item>
+      <title>★ Apple and Google, Sitting in a Tree</title>
+      <link>https://daringfireball.net/2025/11/apple_and_google_sitting_in_a_tree</link>
+      <description>
+        <![CDATA[It makes sense in this scenario for neither company to want to publicize a white-label version of Gemini behind Apple Intelligence.]]>
+      </description>
+      <source:markdown>It makes sense in this scenario for neither company to want to publicize a white-label version of Gemini behind Apple Intelligence.</source:markdown>
+      <guid>cid://tag:daringfireball.net,2025://1.42362</guid>
+    </item>    <item>
+      <title>A Newsletter of Humorous Writing #417</title>
+      <link>https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-417/</link>
+      <description>
+        <![CDATA[<h3><em>For October 29-November 4, 2025</em></h3>
+        <p>Hello and welcome to <strong>A Newsletter of Humorous Writing</strong>, a roundup of the week's finest short humor pieces and funny articles, and a celebration of the fantastic writers who wrote them. We’ve been very energized by Tuesday’s elections. Most of all by the victory of our Mayor-elect Mamdani here in NYC, but we’re also heartened but the results in Virginia, California, and New Jersey. No bits today! It’s good to feel good!</p>
+        <hr/><h2>What We Enjoyed This Week</h2>
+        <p><a href="https://www.mcsweeneys.net/articles/im-your-uploaded-bloodwork-results-and-no-i-will-not-explain-myself-to-you?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-417" rel="noopener noreferrer nofollow" target="_blank"><strong>I’m Your Uploaded Bloodwork Results, and No, I Will Not Explain Myself to You</strong></a> <strong>by</strong> <a href="https://www.instagram.com/riasardana_?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-417" rel="noopener noreferrer nofollow" target="_blank"><strong>Ria Sardana</strong></a> <em>(McSweeney’s)</em> We love the specificity of this piece. A satirical critique of our obtuse and disorienting healthcare system could easily get hazy by taking a 30,000 foot POV, but Ria zooms in on one small situation which makes the critique sharper, more evocative, and much funnier.</p>
+        <p><a href="https://www.mcsweeneys.net/articles/a-brief-questionnaire-before-you-adopt-this-rescue-cat?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-417" rel="noopener noreferrer nofollow" target="_blank"><strong>A Brief Questionnaire Before You Adopt This Rescue Cat</strong></a><br/><strong>by</strong> <a href="https://www.graciebeaverkairis.com/about-me.html?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-417" rel="noopener noreferrer nofollow" target="_blank"><strong>Gracie Beaver-Kairis</strong></a> <em>(McSweeney’s)</em> This is impressive heightening! Gracie finds a lot of topics for this questionnaire, which adds a lot of variety, but never loses focus on heightening how unreasonable and overbearing the whole thing is.</p>
+        <p><a href="https://www.newyorker.com/magazine/2025/11/10/mobsters-we-have-seen-on-high?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-417" rel="noopener noreferrer nofollow" target="_blank"><strong>Mobsters We Have Seen on High</strong></a><strong> by </strong><a href="https://www.newyorker.com/contributors/susan-mulcahy?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-417" rel="noopener noreferrer nofollow" target="_blank"><strong>Susan Mulcahy</strong></a> <em>(The New Yorker)</em> Periodically we like to highlight non-short-humor pieces that are not only interesting but are also, in their own way, funny. In this case, we were drawn to the amazing details. Sometimes, a story is so odd and fun that the job of the writer is just to get out of the way. Susan lays out this tale simply and elegantly, and lets the wild facts speak for themselves—including an amazing kicker.</p>
+        <hr/><blockquote><p>-- AD --</p><p>Django Gold (Colbert, the Onion) is bringing a BRAND-NEW hour (plus or minus five minutes) of stand-up comedy to the Gutter on Friday, November 7 as part of the New York Comedy Festival!</p><p>Come get silly, Django style - grab your <a href="https://www.eventbrite.com/e/django-gold-55-new-minutes-new-york-comedy-festival-tickets-1668759246829?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-417" rel="noopener noreferrer nofollow" target="_blank">tickets</a> today!</p><hr/><p><a href="https://classes.stellaadler.com/classes/winter/devised-comedy-winter/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-417" rel="noopener noreferrer nofollow" target="_blank">Devised Comedy @ Adler</a> from Matt Gehring</p><p>After fifteen years in comedy and five years shaping talent with Ars Nova CAMP, I’m launching the Devised Comedy Winter Immersion at Stella Adler Studio (open to all). The program takes comedy seriously, offering six original courses: Devised Comedy, Writing for Sketch, Acting for Sketch, Body &amp; Comedy, Improvisation for Stage, and Improvisation for Film/TV/Audio—taught by DC Pierson, Chet Siegel, Moujan Zolfaghari, Mahayla Laurence, and me. It’s a chance for actors to sharpen their comedic craft or comedians to deepen their acting. The goal: treat comedy with the same artistic rigor as drama.</p><hr/><p><em>(Do you have an ad you'd like to place in the Newsletter? </em><a href="https://docs.google.com/forms/d/e/1FAIpQLSeJlHErf2PuWr5NxqLbD6dhf7s31pzCC3sBVCHJ24exAwfmgQ/viewform?usp=sf_link&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-417" rel="noopener noreferrer nofollow" target="_blank"><em>Fill out this form!</em></a><em>)</em></p></blockquote>
+        <hr/><h2>An Old Favorite</h2>
+        <p><a href="https://www.newyorker.com/humor/daily-shouts/realistic-schedule-for-election-day?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-59" rel="noopener noreferrer nofollow" target="_blank"><strong>Realistic Schedule for Election Day</strong></a><strong> by </strong><a href="https://twitter.com/casualafro?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-59" rel="noopener noreferrer nofollow" target="_blank"><strong>Taylor Garron</strong></a><strong> </strong><em>(McSweeney's) </em>In zooming in on our local elections this week, we were reminded of this 2018 piece, in which Taylor does a great job succinctly capturing the keyed-up anxiety of election days. Her clipped, short sentences really bring to life that now familiar out-of-breath pace.</p>
+        <p><em>Do you have an Old Favorite of your own? Let us know by filling out</em> <a href="http://forms.gle/9iALhpfsAn9mvn4p8?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-417" rel="noopener noreferrer nofollow" target="_blank"><em>this form</em></a> <em>and we may run your pick in a future edition of the newsletter.</em></p>
+        <hr/><h2>Updates From Your Editors and Friends of the Newsletter</h2>
+        <p>James had <a href="https://airmail.news/issues/2025-11-1/the-undecided-voters-of-the-new-york-mayoral-election?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-417" rel="noopener noreferrer nofollow" target="_blank">a piece in <em>Air Mail</em> about the undecided voters in this week’s NYC elections</a>: people stuck in their costumes, lighthouse keepers, the sixth borough, and more.</p>
+        <p>And a quick technical update, you can now manage your subscription to <a href="https://buttondown.com/blog/portal" rel="noopener noreferrer nofollow" target="_blank">our Newsletter by logging into Buttondown.</a> That’s right, dear readers, the power is in your hands! <em>May you wield it wisely.</em></p>]]>
+      </description>
+      <source:markdown>### _For October 29-November 4, 2025_
+
+Hello and welcome to **A Newsletter of Humorous Writing**, a roundup of the week&#39;s finest short humor pieces and funny articles, and a celebration of the fantastic writers who wrote them. We’ve been very energized by Tuesday’s elections. Most of all by the victory of our Mayor-elect Mamdani here in NYC, but we’re also heartened but the results in Virginia, California, and New Jersey. No bits today! It’s good to feel good!
+
+* * *
+
+## What We Enjoyed This Week
+
+[**I’m Your Uploaded Bloodwork Results, and No, I Will Not Explain Myself to You**](https://www.mcsweeneys.net/articles/im-your-uploaded-bloodwork-results-and-no-i-will-not-explain-myself-to-you?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-417) **by** [**Ria Sardana**](https://www.instagram.com/riasardana_?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-417) _(McSweeney’s)_ We love the specificity of this piece. A satirical critique of our obtuse and disorienting healthcare system could easily get hazy by taking a 30,000 foot POV, but Ria zooms in on one small situation which makes the critique sharper, more evocative, and much funnier.
+
+[**A Brief Questionnaire Before You Adopt This Rescue Cat**](https://www.mcsweeneys.net/articles/a-brief-questionnaire-before-you-adopt-this-rescue-cat?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-417)
+
+**by** [**Gracie Beaver-Kairis**](https://www.graciebeaverkairis.com/about-me.html?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-417) _(McSweeney’s)_ This is impressive heightening! Gracie finds a lot of topics for this questionnaire, which adds a lot of variety, but never loses focus on heightening how unreasonable and overbearing the whole thing is.
+
+[**Mobsters We Have Seen on High**](https://www.newyorker.com/magazine/2025/11/10/mobsters-we-have-seen-on-high?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-417) **by** [**Susan Mulcahy**](https://www.newyorker.com/contributors/susan-mulcahy?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-417) _(The New Yorker)_ Periodically we like to highlight non-short-humor pieces that are not only interesting but are also, in their own way, funny. In this case, we were drawn to the amazing details. Sometimes, a story is so odd and fun that the job of the writer is just to get out of the way. Susan lays out this tale simply and elegantly, and lets the wild facts speak for themselves—including an amazing kicker.
+
+* * *
+
+&#62; \-\- AD --
+&#62;
+&#62; Django Gold (Colbert, the Onion) is bringing a BRAND-NEW hour (plus or minus five minutes) of stand-up comedy to the Gutter on Friday, November 7 as part of the New York Comedy Festival!
+&#62;
+&#62; Come get silly, Django style - grab your [tickets](https://www.eventbrite.com/e/django-gold-55-new-minutes-new-york-comedy-festival-tickets-1668759246829?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-417) today!
+&#62;
+&#62; * * *
+&#62;
+&#62; [Devised Comedy @ Adler](https://classes.stellaadler.com/classes/winter/devised-comedy-winter/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-417) from Matt Gehring
+&#62;
+&#62; After fifteen years in comedy and five years shaping talent with Ars Nova CAMP, I’m launching the Devised Comedy Winter Immersion at Stella Adler Studio (open to all). The program takes comedy seriously, offering six original courses: Devised Comedy, Writing for Sketch, Acting for Sketch, Body &#38; Comedy, Improvisation for Stage, and Improvisation for Film/TV/Audio—taught by DC Pierson, Chet Siegel, Moujan Zolfaghari, Mahayla Laurence, and me. It’s a chance for actors to sharpen their comedic craft or comedians to deepen their acting. The goal: treat comedy with the same artistic rigor as drama.
+&#62;
+&#62; * * *
+&#62;
+&#62; _(Do you have an ad you&#39;d like to place in the Newsletter?_ [_Fill out this form!_](https://docs.google.com/forms/d/e/1FAIpQLSeJlHErf2PuWr5NxqLbD6dhf7s31pzCC3sBVCHJ24exAwfmgQ/viewform?usp=sf_link&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-417) _)_
+
+* * *
+
+## An Old Favorite
+
+[**Realistic Schedule for Election Day**](https://www.newyorker.com/humor/daily-shouts/realistic-schedule-for-election-day?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-59) **by** [**Taylor Garron**](https://twitter.com/casualafro?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-59) _(McSweeney&#39;s)_ In zooming in on our local elections this week, we were reminded of this 2018 piece, in which Taylor does a great job succinctly capturing the keyed-up anxiety of election days. Her clipped, short sentences really bring to life that now familiar out-of-breath pace.
+
+_Do you have an Old Favorite of your own? Let us know by filling out_ [_this form_](http://forms.gle/9iALhpfsAn9mvn4p8?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-417) _and we may run your pick in a future edition of the newsletter._
+
+* * *
+
+## Updates From Your Editors and Friends of the Newsletter
+
+James had [a piece in _Air Mail_ about the undecided voters in this week’s NYC elections](https://airmail.news/issues/2025-11-1/the-undecided-voters-of-the-new-york-mayoral-election?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-417): people stuck in their costumes, lighthouse keepers, the sixth borough, and more.
+
+And a quick technical update, you can now manage your subscription to [our Newsletter by logging into Buttondown.](https://buttondown.com/blog/portal) That’s right, dear readers, the power is in your hands! _May you wield it wisely._</source:markdown>
+      <guid>cid://https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-417/</guid>
+    </item>    <item>
+      <title>Code research projects with async coding agents like Claude Code and Codex</title>
+      <link>https://simonwillison.net/2025/Nov/6/async-code-research/#atom-everything</link>
+      <description>
+        <![CDATA[<p>I've been experimenting with a pattern for LLM usage recently that's working out really well: <strong>asynchronous code research tasks</strong>. Pick a research question, spin up an asynchronous coding agent and let it go and run some experiments and report back when it's done.</p>
+        <ul>
+          <li><a href="https://simonwillison.net/2025/Nov/6/async-code-research/#code-research">Code research</a></li>
+          <li><a href="https://simonwillison.net/2025/Nov/6/async-code-research/#coding-agents">Coding agents</a></li>
+          <li><a href="https://simonwillison.net/2025/Nov/6/async-code-research/#asynchronous-coding-agents">Asynchronous coding agents</a></li>
+          <li><a href="https://simonwillison.net/2025/Nov/6/async-code-research/#give-them-a-dedicated-github-repository">Give them a dedicated GitHub repository</a></li>
+          <li><a href="https://simonwillison.net/2025/Nov/6/async-code-research/#let-them-rip-with-unlimited-network-access">Let them rip with unlimited network access</a></li>
+          <li><a href="https://simonwillison.net/2025/Nov/6/async-code-research/#my-simonw-research-collection">My simonw/research collection</a></li>
+          <li><a href="https://simonwillison.net/2025/Nov/6/async-code-research/#this-is-total-slop-of-course">This is total slop, of course</a></li>
+          <li><a href="https://simonwillison.net/2025/Nov/6/async-code-research/#try-it-yourself">Try it yourself</a></li>
+        </ul>
+        <h4 id="code-research">Code research</h4>
+        <p>Software development benefits enormously from something I call <strong>code research</strong>. The great thing about questions about code is that they can often be definitively answered by writing and executing code.</p>
+        <p>I often see questions on forums which hint at a lack of understanding of this skill.</p>
+        <p>"Could Redis work for powering the notifications feed for my app?" is a great example. The answer is <em>always</em> "it depends", but a better answer is that a good programmer already has everything they need to answer that question for themselves. Build a proof-of-concept, simulate the patterns you expect to see in production, then run experiments to see if it's going to work.</p>
+        <p>I've been a keen practitioner of code research for a long time. Many of my most interesting projects started out as a few dozen lines of experimental code to prove to myself that something was possible.</p>
+        <h4 id="coding-agents">Coding agents</h4>
+        <p>It turns out <strong>coding agents</strong> like Claude Code and Codex are a fantastic fit for this kind of work as well. Give them the right goal and a useful environment and they'll churn through a basic research project without any further supervision.</p>
+        <p>LLMs hallucinate and make mistakes. This is far less important for code research tasks because the code itself doesn't lie: if they write code and execute it and it does the right things then they've demonstrated to both themselves and to you that something really does work.</p>
+        <p>They can't prove something is impossible - just because the coding agent couldn't find a way to do something doesn't mean it can't be done - but they can often demonstrate that something <em>is</em> possible in just a few minutes of crunching.</p>
+        <h4 id="asynchronous-coding-agents">Asynchronous coding agents</h4>
+        <p>I've used interactive coding agents like Claude Code and Codex CLI for a bunch of these, but today I'm increasingly turning to their <strong>asynchronous coding agent</strong> family members instead.</p>
+        <p>An asynchronous coding agent is a coding agent that operates on a fire-and-forget basis. You pose it a task, it churns away on a server somewhere and when it's done it files a pull request against your chosen GitHub repository.</p>
+        <p>OpenAI's <a href="https://chatgpt.com/codex">Codex Cloud</a>, Anthropic's <a href="https://claude.ai/code">Claude Code for web</a>, Google Gemini's <a href="https://jules.google/">Jules</a>, and GitHub's <a href="https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-coding-agent?utm_source=chatgpt.com">Copilot coding agent</a> are four prominent examples of this pattern.</p>
+        <p>These are <em>fantastic</em> tools for code research projects. Come up with a clear goal, turn it into a few paragraphs of prompt, set them loose and check back ten minutes later to see what they've come up with.</p>
+        <p>I'm firing off 2-3 code research projects a day right now. My own time commitment is minimal and they frequently come back with useful or interesting results.</p>
+        <h4 id="give-them-a-dedicated-github-repository">Give them a dedicated GitHub repository</h4>
+        <p>You can run a code research task against an existing GitHub repository, but I find it's much more liberating to have a separate, dedicated repository for your coding agents to run their projects in.</p>
+        <p>This frees you from being limited to research against just code you've already written, and also means you can be much less cautious about what you let the agents do.</p>
+        <p>I have two repositories that I use for this - one public, one private. I use the public one for research tasks that have no need to be private, and the private one for anything that I'm not yet ready to share with the world.</p>
+        <h4 id="let-them-rip-with-unlimited-network-access">Let them rip with unlimited network access</h4>
+        <p>The biggest benefit of a dedicated repository is that you don't need to be cautious about what the agents operating in that repository can do.</p>
+        <p>Both Codex Cloud and Claude Code for web default to running agents in a locked-down environment, with strict restrictions on how they can access the network. This makes total sense if they are running against sensitive repositories - a prompt injection attack of the <a href="https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/">lethal trifecta</a> variety could easily be used to steal sensitive code or environment variables.</p>
+        <p>If you're running in a fresh, non-sensitive repository you don't need to worry about this at all! I've configured my research repositories for full network access, which means my coding agents can install any dependencies they need, fetch data from the web and generally do anything I'd be able to do on my own computer.</p>
+        <h4 id="my-simonw-research-collection">My simonw/research collection</h4>
+        <p>Let's dive into some examples. My public research repository is at <a href="https://github.com/simonw/research">simonw/research</a> on GitHub. It currently contains 13 folders, each of which is a separate research project. I only created it two weeks ago so I'm already averaging nearly one a day!</p>
+        <p>It also includes <a href="https://github.com/simonw/research/blob/main/.github/workflows/update-readme.yml">a GitHub Workflow</a> which uses <a href="https://docs.github.com/en/github-models">GitHub Models</a> to automatically update <a href="https://github.com/simonw/research/blob/main/README.md">the README</a> file with a summary of every new project, using <a href="https://cog.readthedocs.io/">Cog</a>, <a href="https://llm.datasette.io/">LLM</a>, <a href="https://github.com/tonybaloney/llm-github-models">llm-github-models</a> and <a href="https://github.com/simonw/research/blob/b059108dfefeb05a48e1c27f7a127dc9fd648129/README.md#L9-L116">this snippet of Python</a>.</p>
+        <p>Here are a some example research projects from the repo.</p>
+        <p><strong><a href="https://github.com/simonw/research/tree/main/node-pyodide">node-pyodide</a></strong> shows an example of a <a href="https://github.com/simonw/research/blob/main/node-pyodide/server-simple.js">Node.js script</a> that runs the <a href="https://pyodide.org/">Pyodide</a> WebAssembly distribution of Python inside it - yet another of my <a href="https://simonwillison.net/tags/sandboxing+python/">ongoing attempts</a> to find a great way of running Python in a WebAssembly sandbox on a server.</p>
+        <p><strong><a href="https://github.com/simonw/research/tree/main/python-markdown-comparison">python-markdown-comparison</a></strong> (<a href="https://gistpreview.github.io/?fb07c2a3fd2d4cfb814a46696a58a00e">transcript</a>) provides a detailed performance benchmark of seven different Python Markdown libraries. I fired this one off because I stumbled across <a href="https://pypi.org/project/cmarkgfm/">cmarkgfm</a>, a Python binding around GitHub's Markdown implementation in C, and wanted to see how it compared to the other options. This one produced some charts! <code>cmarkgfm</code> came out on top by a significant margin:</p>
+        <p><img src="https://static.simonwillison.net/static/2025/markdown-performance.png" alt="Bar chart titled &quot;Relative Performance vs cmarkgfm (Large Document)&quot; comparing relative speed of markdown libraries, with marko at 52.1x, markdown2 at 16.9x, mistletoe at 14.1x, markdown at 12.9x, commonmark at 12.1x, mistune at 10.0x, and cmarkgfm at 1.0x baseline marked by a red dashed line; x-axis labeled &quot;Relative Speed (lower is better)&quot; ranging from 0 to 50+" style="max-width: 100%;" /></p>
+        <p>Here's the entire prompt I used for that project:</p>
+        <blockquote>
+        <p>Create a performance benchmark and feature comparison report on PyPI cmarkgfm compared to other popular Python markdown libraries - check all of them out from github and read the source to get an idea for features, then design and run a benchmark including generating some charts, then create a report in a new python-markdown-comparison folder (do not create a _summary.md file or edit anywhere outside of that folder). Make sure the performance chart images are directly displayed in the README.md in the folder.</p>
+        </blockquote>
+        <p>Note that I didn't specify any Markdown libraries other than <code>cmarkgfm</code> - Claude Code ran a search and found the other six by itself.</p>
+        <p><strong><a href="https://github.com/simonw/research/tree/main/cmarkgfm-in-pyodide">cmarkgfm-in-pyodide</a></strong> is a lot more fun. A neat thing about having all of my research projects in the same repository is that new projects can build on previous ones. Here I decided to see how hard it would be to get <code>cmarkgfm</code> - which has a C extension - working inside Pyodide inside Node.js. Claude successfully compiled a 88.4KB <code>cmarkgfm_pyodide-2025.10.22-cp312-cp312-emscripten_3_1_46_wasm32.whl</code> file with the necessary C extension and proved it could be loaded into Pyodide in WebAssembly inside of Node.js.</p>
+        <p>I ran this one using Claude Code on my laptop after an initial attempt failed. The starting prompt was:</p>
+        <blockquote>
+        <p>Figure out how to get the cmarkgfm markdown lover <em>[typo in prompt, this should have been "library" but it figured it out anyway]</em> for Python working in pyodide. This will be hard because it uses C so you will need to compile it to pyodide compatible webassembly somehow. Write a report on your results plus code to a new cmarkgfm-in-pyodide directory. Test it using pytest to exercise a node.js test script that calls pyodide as seen in the existing node.js and pyodide directory</p>
+        <p>There is an existing branch that was an initial attempt at this research, but which failed because it did not have Internet access. You do have Internet access. Use that existing branch to accelerate your work, but do not commit any code unless you are certain that you have successfully executed tests that prove that the pyodide module you created works correctly.</p>
+        </blockquote>
+        <p>This one gave up half way through, complaining that emscripten would take too long. I told it:</p>
+        <blockquote>
+        <p>Complete this project, actually run emscripten, I do not care how long it takes, update the report if it works</p>
+        </blockquote>
+        <p>It churned away for a bit longer and complained that the existing Python library used CFFI which isn't available in Pyodide. I asked it:</p>
+        <blockquote>
+        <p>Can you figure out how to rewrite cmarkgfm to not use FFI and to use a pyodide-friendly way of integrating that C code instead?</p>
+        </blockquote>
+        <p>... and it did. You can <a href="https://gistpreview.github.io/?6d778a8f9c4c2c005a189ff308c3bc47">see the full transcript here</a>.</p>
+        <p><strong><a href="https://github.com/simonw/research/tree/main/blog-tags-scikit-learn">blog-tags-scikit-learn</a></strong>. Taking a short break from WebAssembly, I thought it would be fun to put <a href="https://scikit-learn.org/stable/">scikit-learn</a> through its paces on a text classification task against my blog:</p>
+        <blockquote>
+        <p>Work in a new folder called blog-tags-scikit-learn</p>
+        <p>Download <code>https://datasette.simonwillison.net/simonwillisonblog.db</code> - a SQLite database. Take a look at the blog_entry table and the associated tags - a lot of the earlier entries do not have tags associated with them, where the later entries do. Design, implement and execute models to suggests tags for those earlier entries based on textual analysis against later ones</p>
+        <p>Use Python scikit learn and try several different strategies</p>
+        <p>Produce JSON of the results for each one, plus scripts for running them and a detailed markdown description</p>
+        <p>Also include an HTML page with a nice visualization of the results that works by loading those JSON files.</p>
+        </blockquote>
+        <p>This resulted in seven <code>.py</code> files, four <code>.json</code> results files and a detailed <a href="https://github.com/simonw/research/blob/main/blog-tags-scikit-learn/README.md">report</a>. (It ignored the bit about an HTML page with a nice visualization for some reason.) Not bad for a few moments of idle curiosity typed into my phone!</p>
+        <p>That's just three of the thirteen projects in the repository so far. The commit history for each one usually links to the prompt and sometimes the transcript if you want to see how they unfolded.</p>
+        <p>More recently I added a short <code>AGENTS.md</code> file to the repo with a few extra tips for my research agents. You can <a href="https://github.com/simonw/research/blob/b059108dfefeb05a48e1c27f7a127dc9fd648129/AGENTS.md">read that here</a>.</p>
+        <h4 id="this-is-total-slop-of-course">This is total slop, of course</h4>
+        <p>My preferred definition of <a href="https://simonwillison.net/2024/May/8/slop/">AI slop</a> is AI-generated content that is published without human review. I've not been reviewing these reports in great detail myself, and I wouldn't usually publish them online without some serious editing and verification.</p>
+        <p>I want to share the pattern I'm using though, so I decided to keep them quarantined in this one public <code>simonw/research</code> repository.</p>
+        <p>A tiny feature request for GitHub: I'd love to be able to mark a repository as "exclude from search indexes" such that it gets labelled with <code>&lt;meta name="robots" content="noindex"&gt;</code> tags. I still like to keep AI-generated content out of search, to avoid contributing more to the <a href="https://en.wikipedia.org/wiki/Dead_Internet_theory">dead internet</a>.</p>
+        <h4 id="try-it-yourself">Try it yourself</h4>
+        <p>It's pretty easy to get started trying out this coding agent research pattern. Create a free GitHub repository (public or private) and let some agents loose on it and see what happens.</p>
+        <p>You can run agents locally but I find the asynchronous agents to be more convenient - especially as I can run them (or trigger them from my phone) without any fear of them damaging my own machine or leaking any of my private data.</p>
+        <p>Claude Code for web offers <a href="https://support.claude.com/en/articles/12690958-claude-code-promotion">a free $250 of credits</a> for their $20/month users for a limited time (until November 18, 2025). Gemini Jules has <a href="https://jules.google/docs/usage-limits/">a free tier</a>. There are plenty of other coding agents you can try out as well.</p>
+        <p>Let me know if your research agents come back with anything interesting!</p>
+            
+                <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/slop">slop</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/jules">jules</a>, <a href="https://simonwillison.net/tags/codex-cli">codex-cli</a></p>]]>
+      </description>
+      <source:markdown>I&#39;ve been experimenting with a pattern for LLM usage recently that&#39;s working out really well: **asynchronous code research tasks**. Pick a research question, spin up an asynchronous coding agent and let it go and run some experiments and report back when it&#39;s done.
+
+- [Code research](https://simonwillison.net/2025/Nov/6/async-code-research/#code-research)
+- [Coding agents](https://simonwillison.net/2025/Nov/6/async-code-research/#coding-agents)
+- [Asynchronous coding agents](https://simonwillison.net/2025/Nov/6/async-code-research/#asynchronous-coding-agents)
+- [Give them a dedicated GitHub repository](https://simonwillison.net/2025/Nov/6/async-code-research/#give-them-a-dedicated-github-repository)
+- [Let them rip with unlimited network access](https://simonwillison.net/2025/Nov/6/async-code-research/#let-them-rip-with-unlimited-network-access)
+- [My simonw/research collection](https://simonwillison.net/2025/Nov/6/async-code-research/#my-simonw-research-collection)
+- [This is total slop, of course](https://simonwillison.net/2025/Nov/6/async-code-research/#this-is-total-slop-of-course)
+- [Try it yourself](https://simonwillison.net/2025/Nov/6/async-code-research/#try-it-yourself)
+
+#### Code research
+
+Software development benefits enormously from something I call **code research**. The great thing about questions about code is that they can often be definitively answered by writing and executing code.
+
+I often see questions on forums which hint at a lack of understanding of this skill.
+
+&#34;Could Redis work for powering the notifications feed for my app?&#34; is a great example. The answer is _always_ &#34;it depends&#34;, but a better answer is that a good programmer already has everything they need to answer that question for themselves. Build a proof-of-concept, simulate the patterns you expect to see in production, then run experiments to see if it&#39;s going to work.
+
+I&#39;ve been a keen practitioner of code research for a long time. Many of my most interesting projects started out as a few dozen lines of experimental code to prove to myself that something was possible.
+
+#### Coding agents
+
+It turns out **coding agents** like Claude Code and Codex are a fantastic fit for this kind of work as well. Give them the right goal and a useful environment and they&#39;ll churn through a basic research project without any further supervision.
+
+LLMs hallucinate and make mistakes. This is far less important for code research tasks because the code itself doesn&#39;t lie: if they write code and execute it and it does the right things then they&#39;ve demonstrated to both themselves and to you that something really does work.
+
+They can&#39;t prove something is impossible - just because the coding agent couldn&#39;t find a way to do something doesn&#39;t mean it can&#39;t be done - but they can often demonstrate that something _is_ possible in just a few minutes of crunching.
+
+#### Asynchronous coding agents
+
+I&#39;ve used interactive coding agents like Claude Code and Codex CLI for a bunch of these, but today I&#39;m increasingly turning to their **asynchronous coding agent** family members instead.
+
+An asynchronous coding agent is a coding agent that operates on a fire-and-forget basis. You pose it a task, it churns away on a server somewhere and when it&#39;s done it files a pull request against your chosen GitHub repository.
+
+OpenAI&#39;s [Codex Cloud](https://chatgpt.com/codex), Anthropic&#39;s [Claude Code for web](https://claude.ai/code), Google Gemini&#39;s [Jules](https://jules.google/), and GitHub&#39;s [Copilot coding agent](https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-coding-agent?utm_source=chatgpt.com) are four prominent examples of this pattern.
+
+These are _fantastic_ tools for code research projects. Come up with a clear goal, turn it into a few paragraphs of prompt, set them loose and check back ten minutes later to see what they&#39;ve come up with.
+
+I&#39;m firing off 2-3 code research projects a day right now. My own time commitment is minimal and they frequently come back with useful or interesting results.
+
+#### Give them a dedicated GitHub repository
+
+You can run a code research task against an existing GitHub repository, but I find it&#39;s much more liberating to have a separate, dedicated repository for your coding agents to run their projects in.
+
+This frees you from being limited to research against just code you&#39;ve already written, and also means you can be much less cautious about what you let the agents do.
+
+I have two repositories that I use for this - one public, one private. I use the public one for research tasks that have no need to be private, and the private one for anything that I&#39;m not yet ready to share with the world.
+
+#### Let them rip with unlimited network access
+
+The biggest benefit of a dedicated repository is that you don&#39;t need to be cautious about what the agents operating in that repository can do.
+
+Both Codex Cloud and Claude Code for web default to running agents in a locked-down environment, with strict restrictions on how they can access the network. This makes total sense if they are running against sensitive repositories - a prompt injection attack of the [lethal trifecta](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/) variety could easily be used to steal sensitive code or environment variables.
+
+If you&#39;re running in a fresh, non-sensitive repository you don&#39;t need to worry about this at all! I&#39;ve configured my research repositories for full network access, which means my coding agents can install any dependencies they need, fetch data from the web and generally do anything I&#39;d be able to do on my own computer.
+
+#### My simonw/research collection
+
+Let&#39;s dive into some examples. My public research repository is at [simonw/research](https://github.com/simonw/research) on GitHub. It currently contains 13 folders, each of which is a separate research project. I only created it two weeks ago so I&#39;m already averaging nearly one a day!
+
+It also includes [a GitHub Workflow](https://github.com/simonw/research/blob/main/.github/workflows/update-readme.yml) which uses [GitHub Models](https://docs.github.com/en/github-models) to automatically update [the README](https://github.com/simonw/research/blob/main/README.md) file with a summary of every new project, using [Cog](https://cog.readthedocs.io/), [LLM](https://llm.datasette.io/), [llm-github-models](https://github.com/tonybaloney/llm-github-models) and [this snippet of Python](https://github.com/simonw/research/blob/b059108dfefeb05a48e1c27f7a127dc9fd648129/README.md#L9-L116).
+
+Here are a some example research projects from the repo.
+
+**[node-pyodide](https://github.com/simonw/research/tree/main/node-pyodide)** shows an example of a [Node.js script](https://github.com/simonw/research/blob/main/node-pyodide/server-simple.js) that runs the [Pyodide](https://pyodide.org/) WebAssembly distribution of Python inside it - yet another of my [ongoing attempts](https://simonwillison.net/tags/sandboxing+python/) to find a great way of running Python in a WebAssembly sandbox on a server.
+
+**[python-markdown-comparison](https://github.com/simonw/research/tree/main/python-markdown-comparison)** ( [transcript](https://gistpreview.github.io/?fb07c2a3fd2d4cfb814a46696a58a00e)) provides a detailed performance benchmark of seven different Python Markdown libraries. I fired this one off because I stumbled across [cmarkgfm](https://pypi.org/project/cmarkgfm/), a Python binding around GitHub&#39;s Markdown implementation in C, and wanted to see how it compared to the other options. This one produced some charts! `cmarkgfm` came out on top by a significant margin:
+
+![Bar chart titled &#34;Relative Performance vs cmarkgfm (Large Document)&#34; comparing relative speed of markdown libraries, with marko at 52.1x, markdown2 at 16.9x, mistletoe at 14.1x, markdown at 12.9x, commonmark at 12.1x, mistune at 10.0x, and cmarkgfm at 1.0x baseline marked by a red dashed line; x-axis labeled &#34;Relative Speed (lower is better)&#34; ranging from 0 to 50+](https://static.simonwillison.net/static/2025/markdown-performance.png)
+
+Here&#39;s the entire prompt I used for that project:
+
+&#62; Create a performance benchmark and feature comparison report on PyPI cmarkgfm compared to other popular Python markdown libraries - check all of them out from github and read the source to get an idea for features, then design and run a benchmark including generating some charts, then create a report in a new python-markdown-comparison folder (do not create a \_summary.md file or edit anywhere outside of that folder). Make sure the performance chart images are directly displayed in the README.md in the folder.
+
+Note that I didn&#39;t specify any Markdown libraries other than `cmarkgfm` \- Claude Code ran a search and found the other six by itself.
+
+**[cmarkgfm-in-pyodide](https://github.com/simonw/research/tree/main/cmarkgfm-in-pyodide)** is a lot more fun. A neat thing about having all of my research projects in the same repository is that new projects can build on previous ones. Here I decided to see how hard it would be to get `cmarkgfm` \- which has a C extension - working inside Pyodide inside Node.js. Claude successfully compiled a 88.4KB `cmarkgfm_pyodide-2025.10.22-cp312-cp312-emscripten_3_1_46_wasm32.whl` file with the necessary C extension and proved it could be loaded into Pyodide in WebAssembly inside of Node.js.
+
+I ran this one using Claude Code on my laptop after an initial attempt failed. The starting prompt was:
+
+&#62; Figure out how to get the cmarkgfm markdown lover _\[typo in prompt, this should have been &#34;library&#34; but it figured it out anyway\]_ for Python working in pyodide. This will be hard because it uses C so you will need to compile it to pyodide compatible webassembly somehow. Write a report on your results plus code to a new cmarkgfm-in-pyodide directory. Test it using pytest to exercise a node.js test script that calls pyodide as seen in the existing node.js and pyodide directory
+&#62;
+&#62; There is an existing branch that was an initial attempt at this research, but which failed because it did not have Internet access. You do have Internet access. Use that existing branch to accelerate your work, but do not commit any code unless you are certain that you have successfully executed tests that prove that the pyodide module you created works correctly.
+
+This one gave up half way through, complaining that emscripten would take too long. I told it:
+
+&#62; Complete this project, actually run emscripten, I do not care how long it takes, update the report if it works
+
+It churned away for a bit longer and complained that the existing Python library used CFFI which isn&#39;t available in Pyodide. I asked it:
+
+&#62; Can you figure out how to rewrite cmarkgfm to not use FFI and to use a pyodide-friendly way of integrating that C code instead?
+
+... and it did. You can [see the full transcript here](https://gistpreview.github.io/?6d778a8f9c4c2c005a189ff308c3bc47).
+
+**[blog-tags-scikit-learn](https://github.com/simonw/research/tree/main/blog-tags-scikit-learn)**. Taking a short break from WebAssembly, I thought it would be fun to put [scikit-learn](https://scikit-learn.org/stable/) through its paces on a text classification task against my blog:
+
+&#62; Work in a new folder called blog-tags-scikit-learn
+&#62;
+&#62; Download `https://datasette.simonwillison.net/simonwillisonblog.db` \- a SQLite database. Take a look at the blog\_entry table and the associated tags - a lot of the earlier entries do not have tags associated with them, where the later entries do. Design, implement and execute models to suggests tags for those earlier entries based on textual analysis against later ones
+&#62;
+&#62; Use Python scikit learn and try several different strategies
+&#62;
+&#62; Produce JSON of the results for each one, plus scripts for running them and a detailed markdown description
+&#62;
+&#62; Also include an HTML page with a nice visualization of the results that works by loading those JSON files.
+
+This resulted in seven `.py` files, four `.json` results files and a detailed [report](https://github.com/simonw/research/blob/main/blog-tags-scikit-learn/README.md). (It ignored the bit about an HTML page with a nice visualization for some reason.) Not bad for a few moments of idle curiosity typed into my phone!
+
+That&#39;s just three of the thirteen projects in the repository so far. The commit history for each one usually links to the prompt and sometimes the transcript if you want to see how they unfolded.
+
+More recently I added a short `AGENTS.md` file to the repo with a few extra tips for my research agents. You can [read that here](https://github.com/simonw/research/blob/b059108dfefeb05a48e1c27f7a127dc9fd648129/AGENTS.md).
+
+#### This is total slop, of course
+
+My preferred definition of [AI slop](https://simonwillison.net/2024/May/8/slop/) is AI-generated content that is published without human review. I&#39;ve not been reviewing these reports in great detail myself, and I wouldn&#39;t usually publish them online without some serious editing and verification.
+
+I want to share the pattern I&#39;m using though, so I decided to keep them quarantined in this one public `simonw/research` repository.
+
+A tiny feature request for GitHub: I&#39;d love to be able to mark a repository as &#34;exclude from search indexes&#34; such that it gets labelled with `&#60;meta name=&#34;robots&#34; content=&#34;noindex&#34;&#62;` tags. I still like to keep AI-generated content out of search, to avoid contributing more to the [dead internet](https://en.wikipedia.org/wiki/Dead_Internet_theory).
+
+#### Try it yourself
+
+It&#39;s pretty easy to get started trying out this coding agent research pattern. Create a free GitHub repository (public or private) and let some agents loose on it and see what happens.
+
+You can run agents locally but I find the asynchronous agents to be more convenient - especially as I can run them (or trigger them from my phone) without any fear of them damaging my own machine or leaking any of my private data.
+
+Claude Code for web offers [a free $250 of credits](https://support.claude.com/en/articles/12690958-claude-code-promotion) for their $20/month users for a limited time (until November 18, 2025). Gemini Jules has [a free tier](https://jules.google/docs/usage-limits/). There are plenty of other coding agents you can try out as well.
+
+Let me know if your research agents come back with anything interesting!
+
+Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [slop](https://simonwillison.net/tags/slop), [ai-agents](https://simonwillison.net/tags/ai-agents), [coding-agents](https://simonwillison.net/tags/coding-agents), [claude-code](https://simonwillison.net/tags/claude-code), [jules](https://simonwillison.net/tags/jules), [codex-cli](https://simonwillison.net/tags/codex-cli)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/6/async-code-research/#atom-everything</guid>
+    </item>    <item>
+      <title>Australia has so much solar that it&#38;#8217;s offering everyone free electricity. &#38;#8220;The...</title>
+      <link>https://kottke.org/25/11/0047800-australia-has-so-much-sol</link>
+      <guid>cid://tag:kottke.org,2025://13.47800</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/06.html#a141323</link>
+      <description>
+        <![CDATA[I went to see a discussion between <a href="https://en.wikipedia.org/wiki/Matt_Mullenweg">Matt Mullenweg</a> and <a href="https://www.linkedin.com/in/jborthwick/">John Borthwick</a>, two people from tech who I have worked with, but hadn't seen in a while. I wanted to chat with both of them, and did, which was well-worth the journey. I <a href="https://daveverse.org/2025/11/05/mullenweg-and-borthwick/">liveblogged</a> it. My chat with Matt helped me understand what we're doing. One of the things we talked about is <a href="http://scripting.com/2025/11/06/141023.html">an idea</a> I thought he would understand and love. It relates to their podcasting client, Pocket Casts, which I use.]]>
+      </description>
+      <source:markdown>I went to see a discussion between [Matt Mullenweg](https://en.wikipedia.org/wiki/Matt_Mullenweg) and [John Borthwick](https://www.linkedin.com/in/jborthwick/), two people from tech who I have worked with, but hadn&#39;t seen in a while. I wanted to chat with both of them, and did, which was well-worth the journey. I [liveblogged](https://daveverse.org/2025/11/05/mullenweg-and-borthwick/) it. My chat with Matt helped me understand what we&#39;re doing. One of the things we talked about is [an idea](http://scripting.com/2025/11/06/141023.html) I thought he would understand and love. It relates to their podcasting client, Pocket Casts, which I use.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/06.html#a141323</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/06.html#a141041</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2022/03/21/beetle.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I went to NYC yesterday, drove both ways in the same day, which is a lot of driving. It was exceptional for me, two big cities in three weeks, Ottawa and New York. Had time to sit in Washington Square Park, then I rode a Citibike up to where I used to live near Columbus Circle. On the way I shot a video of a woman on <a href="https://www.youtube.com/watch?v=CHMExdDXEiU">West St</a> with a sign that said Honk For Democracy. I thought it was a nice shot, and typically NYers drove right by her, no honking, unfortunately. I also shot a video in <a href="https://www.youtube.com/watch?v=DKaWr35gUwM">Washington Square Park</a>. NYC is photogenic, interesting, and still where I come from, proudly.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2022/03/21/beetle.png)I went to NYC yesterday, drove both ways in the same day, which is a lot of driving. It was exceptional for me, two big cities in three weeks, Ottawa and New York. Had time to sit in Washington Square Park, then I rode a Citibike up to where I used to live near Columbus Circle. On the way I shot a video of a woman on [West St](https://www.youtube.com/watch?v=CHMExdDXEiU) with a sign that said Honk For Democracy. I thought it was a nice shot, and typically NYers drove right by her, no honking, unfortunately. I also shot a video in [Washington Square Park](https://www.youtube.com/watch?v=DKaWr35gUwM). NYC is photogenic, interesting, and still where I come from, proudly.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/06.html#a141041</guid>
+    </item>    <item>
+      <title>Dynamic OPML for Pocket Casts</title>
+      <link>http://scripting.com/2025/11/06/141023.html?title=dynamicOpmlForPocketCasts</link>
+      <description>
+        <![CDATA[<p>On its surface <a href="https://pocketcasts.com/">Pocket Casts</a> is a straightforward podcasting client. You use it on a mobile device to subscribe to shows, choose the ones you want to listen to, those go into a queue, you can move things up the list, or start another, etc. </p>
+        <p>It also has a <a href="https://pocketcasts.com/new-releases">web client</a> you can use to add and remove subscriptions, from your desktop. This is important because we discover podcasts on the desktop too. In your normal web surfing you may see a podcast you want to follow. Then how many steps does it take to add that to your subscription list on your phone? That's the trick in software design, is it too much work to justify the benefit? If it is, you won't do it. But if we can make it easy, as easy as subscribing to a news feed, you might. Ideally it should be one click followed by a confirmation.</p>
+        <p>How could this work? A new feature for <a href="https://opml.org/spec2.opml#subscriptionLists">OPML subscription lists</a>. Today it's used as the import/export format for lists. But that's a one-time thing. Instead I want to give Pocket Casts the URL of an OPML file with my podcast subscriptions from the desktop.</p>
+        <p>The same feature could be used to share my choices with other people. I already publish a podcast subscription list with the world, but since it's not connected to my podcast client, it doesn't get the attention I would give it if it did. It's more a demo of what could be.  </p>
+        <p>I decided to write up this idea publicly because I've written about the idea so many times, it's not a secret and if I had a podcast client it would already be there. If people at Automattic are excited by the potential, let's start planning the feature, and software that can plug in on the other side of the interface. I'm still learning how this works, to collaborate with a very diverse organization, spread all over the world, and they don't even all work for the same company. </p>
+        <p>If we do this feature, first it'll be largely experimental, something that podcast-loving devs will make for ourselves. As we use it we will think of ways to make it easier to use. It won't take long imho before this is a popular feature in podcast clients.</p>]]>
+      </description>
+      <source:markdown>On its surface [Pocket Casts](https://pocketcasts.com/) is a straightforward podcasting client. You use it on a mobile device to subscribe to shows, choose the ones you want to listen to, those go into a queue, you can move things up the list, or start another, etc.
+
+It also has a [web client](https://pocketcasts.com/new-releases) you can use to add and remove subscriptions, from your desktop. This is important because we discover podcasts on the desktop too. In your normal web surfing you may see a podcast you want to follow. Then how many steps does it take to add that to your subscription list on your phone? That&#39;s the trick in software design, is it too much work to justify the benefit? If it is, you won&#39;t do it. But if we can make it easy, as easy as subscribing to a news feed, you might. Ideally it should be one click followed by a confirmation.
+
+How could this work? A new feature for [OPML subscription lists](https://opml.org/spec2.opml#subscriptionLists). Today it&#39;s used as the import/export format for lists. But that&#39;s a one-time thing. Instead I want to give Pocket Casts the URL of an OPML file with my podcast subscriptions from the desktop.
+
+The same feature could be used to share my choices with other people. I already publish a podcast subscription list with the world, but since it&#39;s not connected to my podcast client, it doesn&#39;t get the attention I would give it if it did. It&#39;s more a demo of what could be.
+
+I decided to write up this idea publicly because I&#39;ve written about the idea so many times, it&#39;s not a secret and if I had a podcast client it would already be there. If people at Automattic are excited by the potential, let&#39;s start planning the feature, and software that can plug in on the other side of the interface. I&#39;m still learning how this works, to collaborate with a very diverse organization, spread all over the world, and they don&#39;t even all work for the same company.
+
+If we do this feature, first it&#39;ll be largely experimental, something that podcast-loving devs will make for ourselves. As we use it we will think of ways to make it easier to use. It won&#39;t take long imho before this is a popular feature in podcast clients.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/06/141023.html</guid>
+    </item>    <item>
+      <link>https://www.npr.org/2025/11/06/g-s1-96674/nancy-pelosi-retire?utm_medium=social&#38;utm_term=nprnews&#38;utm_source=bsky.app&#38;utm_campaign=npr</link>
+      <description>
+        <![CDATA[<p>Former Speaker Nancy Pelosi will not seek reelection.</p>]]>
+      </description>
+      <source:markdown>Former Speaker Nancy Pelosi will not seek reelection.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/06/1823/</guid>
+    </item>    <item>
+      <title>Lax Security at the Louvre</title>
+      <link>https://onefoottsunami.com/2025/11/06/lax-security-at-the-louvre/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29410</guid>
     </item>    <item>
       <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m4xofw3wfs2f</link>
       <description>
@@ -68,9 +562,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <title>Data Engineering in the Age of AI</title>
       <link>https://www.oreilly.com/radar/data-engineering-in-the-age-of-ai/</link>
       <description>
-        <![CDATA[Much like the introduction of the personal computer, the Internet, and the iPhone into the public sphere, recent developments in the AI space, from Generative AI to Agentic AI, have fundamentally changed the way people live and work. Since ChatGPT’s release in late 2022, it’s reached a threshold of 700 million users per week, approximately [&#8230;]]]>
+        <![CDATA[Much like the introduction of the personal computer, the internet, and the iPhone into the public sphere, recent developments in the AI space, from generative AI to agentic AI, have fundamentally changed the way people live and work. Since ChatGPT’s release in late 2022, it’s reached a threshold of 700 million users per week, approximately [&#8230;]]]>
       </description>
-      <source:markdown>Much like the introduction of the personal computer, the Internet, and the iPhone into the public sphere, recent developments in the AI space, from Generative AI to Agentic AI, have fundamentally changed the way people live and work. Since ChatGPT’s release in late 2022, it’s reached a threshold of 700 million users per week, approximately \[…\]</source:markdown>
+      <source:markdown>Much like the introduction of the personal computer, the internet, and the iPhone into the public sphere, recent developments in the AI space, from generative AI to agentic AI, have fundamentally changed the way people live and work. Since ChatGPT’s release in late 2022, it’s reached a threshold of 700 million users per week, approximately \[…\]</source:markdown>
       <guid>cid://https://www.oreilly.com/radar/?p=17662</guid>
     </item>    <item>
       <title>Rigged Poker Games</title>
@@ -101,7 +595,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <enclosure url="https://substackcdn.com/image/fetch/$s_!lgxQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71506af8-6964-4248-a870-6f8ac5da56fd_1713x1169.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://paulkrugman.substack.com/p/are-hispanics-americas-new-jews</guid>
     </item>    <item>
-      <title>Jensen Huang Gets It Wrong</title>
+      <title>Jensen Huang Gets It Wrong, Claude Gets It Right</title>
       <link>https://www.oreilly.com/radar/jensen-huang-gets-it-wrong/</link>
       <description>
         <![CDATA[In a recent newsletter, Ben Thompson suggested paying attention to a portion of Jensen Huang’s keynote at NVIDIA’s GPU Technology Conference (GTC) in DC, calling it “an excellent articulation of the thesis that the AI market is orders of magnitude bigger than the software market.” While I’m reluctant to contradict as astute an observer as [&#8230;]]]>
@@ -135,6 +629,14 @@ indexed and analyzable than ever before.</source:markdown>
       </description>
       <source:markdown>Stevie Nicks came up with the title of the song she has referred to as “the ballad of Stevie and Lindsey” when she saw an exit sign for Silver Spring (singular), Maryland, while Buckingham Nicks was on the road. “It</source:markdown>
       <guid>cid://https://lithub.com/?p=261778</guid>
+    </item>    <item>
+      <title>So, Do Women Have Better Sex Under Socialism?</title>
+      <link>https://lithub.com/so-do-women-have-better-sex-under-socialism/</link>
+      <description>
+        <![CDATA[When I was in my twenties, a dear friend of mine, whom I will call Lisa, worked in human resources for a large corporation in San Francisco. Lisa loved fashion, and my wardrobe still includes elegant ensembles she put together]]>
+      </description>
+      <source:markdown>When I was in my twenties, a dear friend of mine, whom I will call Lisa, worked in human resources for a large corporation in San Francisco. Lisa loved fashion, and my wardrobe still includes elegant ensembles she put together</source:markdown>
+      <guid>cid://https://lithub.com/?p=102704</guid>
     </item>    <item>
       <title>When We Devalue Art (Books!) We Devalue the Future</title>
       <link>https://lithub.com/when-we-devalue-art-books-we-devalue-the-future/</link>
@@ -390,6 +892,14 @@ The post [615\. Disneyland: The Modern American Utopia](https://therestishistory
       <source:markdown>&#34;I can see where this is going,&#34; he said.</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!9kxH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c00743d-dcfe-4046-9606-0160c017dded_1024x682.heic" length="0" type="image/jpeg" />
       <guid>cid://https://www.borowitzreport.com/p/trump-flees-to-argentina</guid>
+    </item>    <item>
+      <title>Exceptions in Cranelift and Wasmtime</title>
+      <link>https://bytecodealliance.org/articles/wasmtime-exceptions</link>
+      <description>
+        <![CDATA[This is a blog post outlining the odyssey I recently took to implement the Wasm exception-handling proposal in Wasmtime, the open-source WebAssembly engine for which I’m a core team member/maintainer, and its Cranelift compiler backend.]]>
+      </description>
+      <source:markdown>This is a blog post outlining the odyssey I recently took to implement the Wasm exception-handling proposal in Wasmtime, the open-source WebAssembly engine for which I’m a core team member/maintainer, and its Cranelift compiler backend.</source:markdown>
+      <guid>cid://https://bytecodealliance.org/articles/wasmtime-exceptions</guid>
     </item>    <item>
       <title>OpenAI probably can’t make ends meet. That’s where you come in.</title>
       <link>https://garymarcus.substack.com/p/if-you-thought-the-2008-bank-bailout</link>
@@ -2244,6 +2754,128 @@ _“ [`Group by All`](https://modern-sql.com/caniuse/group-by-all)” by [Markus
         <![CDATA[How Kalina Silverman uses Buttondown]]>
       </description>
       <source:markdown>How Kalina Silverman uses Buttondown</source:markdown>
+    </item>    <item>
+      <title>GHC 9.14.1-rc2 is now available</title>
+      <link>http://haskell.org/ghc/blog/20251104-ghc-9.14.1-rc2-released.html</link>
+      <description>
+        <![CDATA[<h1>GHC 9.14.1-rc2 is now available</h1>
+        <h4 class="text-muted">zubin - 2025-11-04</h4>
+        
+        <p>The GHC developers are very pleased to announce the availability of the
+        second release candidate of GHC 9.14.1. Binary distributions, source
+        distributions, and documentation are available at <a href="https://downloads.haskell.org/ghc/9.14.1-rc2">downloads.haskell.org</a>.</p>
+        <p>The changes from the first release candidate are:</p>
+        <ul>
+        <li>Bump the exceptions submodule to 0.10.11</li>
+        <li>Bump the os-string submodule to 2.0.8</li>
+        <li>Fix a driver regression causing an infinite loop with cyclic imports</li>
+        </ul>
+        <p>GHC 9.14 will bring a number of new features and improvements, including:</p>
+        <ul>
+        <li><p>Significant improvements in specialisation:</p>
+        <ul>
+        <li>The <code>SPECIALISE</code> pragma now allows use of type application syntax</li>
+        <li>The <code>SPECIALISE</code> pragma can be used to specialise for expression arguments
+        as well as type arguments.</li>
+        <li>Specialisation is now considerably more reliable in the presence of
+        <code>newtype</code>s</li>
+        </ul></li>
+        <li><p>Significant GHCi improvements including:</p>
+        <ul>
+        <li>Correctness and performance improvements in the bytecode interpreter</li>
+        <li>Features in the GHCi debugger</li>
+        <li>Support for multiple home units in GHCi</li>
+        </ul></li>
+        <li><p>Implementation of the <a href="https://github.com/ghc-proposals/ghc-proposals/blob/master/proposals/0682-explicit-level-imports.rst">Explicit Level Imports proposal</a></p></li>
+        <li><p><code>RequiredTypeArguments</code> can now be used in more contexts</p></li>
+        <li><p>SSE/AVX2 support in the x86 native code generator backend</p></li>
+        <li><p>A major update of the Windows toolchain and improved compatibility with
+        macOS Tahoe</p></li>
+        <li><p>… and many more</p></li>
+        </ul>
+        <p>A full accounting of changes can be found in the <a href="https://downloads.haskell.org/ghc/9.14.1-rc2/docs/users_guide/9.14.1-notes.html">release notes</a>. Given the
+        many specialisation improvements and their potential for regression, we would
+        very much appreciate testing and performance characterisation on downstream
+        workloads.</p>
+        <p>Note that while this release makes many improvements in the specialisation
+        optimisation, polymorphic specialisation will remain disabled by default in the
+        final release due to concern over regressions of the sort identified in
+        <a href="https://gitlab.haskell.org/ghc/ghc/-/issues/26329"><span>#26329</span></a>. Users needing more aggressive specialisation can explicitly
+        enable this feature with the <code>-fpolymorphic-specialisation</code> flag. Depending
+        upon our experience with 9.14.1, we may enable this feature by default in a
+        later minor release.</p>
+        <p>We would like to thank the Zw3rk stake pool, Well-Typed, Mercury, Channable,
+        Tweag I/O, Serokell, SimSpace, the Haskell Foundation, and other anonymous
+        contributors whose on-going financial and in-kind support has facilitated GHC
+        maintenance and release management over the years. Finally, this release would
+        not have been possible without the hundreds of open-source contributors whose
+        work have made the Haskell ecosystem what it is today.</p>
+        <p>As always, do give this release a try and open a <a href="https://gitlab.haskell.org/ghc/homepage/-/issues/new">ticket</a> if you see
+        anything amiss.</p>]]>
+      </description>
+      <source:markdown># GHC 9.14.1-rc2 is now available
+
+#### zubin - 2025-11-04
+
+The GHC developers are very pleased to announce the availability of the
+second release candidate of GHC 9.14.1. Binary distributions, source
+distributions, and documentation are available at [downloads.haskell.org](https://downloads.haskell.org/ghc/9.14.1-rc2).
+
+The changes from the first release candidate are:
+
+- Bump the exceptions submodule to 0.10.11
+- Bump the os-string submodule to 2.0.8
+- Fix a driver regression causing an infinite loop with cyclic imports
+
+GHC 9.14 will bring a number of new features and improvements, including:
+
+- Significant improvements in specialisation:
+
+  - The `SPECIALISE` pragma now allows use of type application syntax
+  - The `SPECIALISE` pragma can be used to specialise for expression arguments
+    as well as type arguments.
+  - Specialisation is now considerably more reliable in the presence of
+    `newtype` s
+- Significant GHCi improvements including:
+
+  - Correctness and performance improvements in the bytecode interpreter
+  - Features in the GHCi debugger
+  - Support for multiple home units in GHCi
+- Implementation of the [Explicit Level Imports proposal](https://github.com/ghc-proposals/ghc-proposals/blob/master/proposals/0682-explicit-level-imports.rst)
+
+- `RequiredTypeArguments` can now be used in more contexts
+
+- SSE/AVX2 support in the x86 native code generator backend
+
+- A major update of the Windows toolchain and improved compatibility with
+  macOS Tahoe
+
+- … and many more
+
+
+A full accounting of changes can be found in the [release notes](https://downloads.haskell.org/ghc/9.14.1-rc2/docs/users_guide/9.14.1-notes.html). Given the
+many specialisation improvements and their potential for regression, we would
+very much appreciate testing and performance characterisation on downstream
+workloads.
+
+Note that while this release makes many improvements in the specialisation
+optimisation, polymorphic specialisation will remain disabled by default in the
+final release due to concern over regressions of the sort identified in
+[#26329](https://gitlab.haskell.org/ghc/ghc/-/issues/26329). Users needing more aggressive specialisation can explicitly
+enable this feature with the `-fpolymorphic-specialisation` flag. Depending
+upon our experience with 9.14.1, we may enable this feature by default in a
+later minor release.
+
+We would like to thank the Zw3rk stake pool, Well-Typed, Mercury, Channable,
+Tweag I/O, Serokell, SimSpace, the Haskell Foundation, and other anonymous
+contributors whose on-going financial and in-kind support has facilitated GHC
+maintenance and release management over the years. Finally, this release would
+not have been possible without the hundreds of open-source contributors whose
+work have made the Haskell ecosystem what it is today.
+
+As always, do give this release a try and open a [ticket](https://gitlab.haskell.org/ghc/homepage/-/issues/new) if you see
+anything amiss.</source:markdown>
+      <guid>cid://http://haskell.org/ghc/blog/20251104-ghc-9.14.1-rc2-released.html</guid>
     </item>    <item>
       <title>What the Democrats Must Do. Now!</title>
       <link>https://robertreich.substack.com/p/what-the-democrats-must-do-now</link>
@@ -7995,6 +8627,14 @@ Tags: [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-progr
       <source:markdown>The trip to Canada really changed my perspective. Spending more time thinking than developing new stuff. One thing is for sure, we&#39;re going to depend on FeedLand more as we go two-way in WordLand. I&#39;ve been [here](https://daytona.scripting.com/search?q=%22radio%20userland%22) before. Have to let my mind mull things over before the movement resumes.</source:markdown>
       <guid>cid://http://scripting.com/2025/10/27.html#a213952</guid>
     </item>    <item>
+      <title>★ Apple Loses Landmark U.K. Lawsuit Over App Store Commissions</title>
+      <link>https://daringfireball.net/2025/10/apple_uk_lawsuit_app_store_commissions</link>
+      <description>
+        <![CDATA[The best time to adjust the rules of the App Store — its exclusivity on app distribution for the entire iOS platform, the exclusivity of Apple’s IAP for purchasing digital content, the commission percentage splits on IAP — was over a decade ago. The next best time to make those adjustments is now.]]>
+      </description>
+      <source:markdown>The best time to adjust the rules of the App Store — its exclusivity on app distribution for the entire iOS platform, the exclusivity of Apple’s IAP for purchasing digital content, the commission percentage splits on IAP — was over a decade ago. The next best time to make those adjustments is now.</source:markdown>
+      <guid>cid://tag:daringfireball.net,2025://1.42322</guid>
+    </item>    <item>
       <link>http://scripting.com/2025/10/27.html#a212851</link>
       <description>
         <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2019/06/14/bowling.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Made good progress on a FeedLand performance issue. The new version is running on <a href="https://feedland.org/">feedland.org</a>. We're getting ready to try it on other systems. On the way I hit a problem with the <a href="https://github.com/Automattic/wp-calypso/tree/trunk/packages/wpcom.js">wpcom package</a> that implements the WordPress API in Node.js. Apparently the new version depends on <a href="https://www.npmjs.com/package/@babel/runtime/v/8.0.0-beta.1">babel/runtime</a>, but it isn't listed as a dependency in their <a href="https://github.com/Automattic/wp-calypso/blob/trunk/packages/wpcom.js/package.json">package.json</a> file. I worked around the problem by adding that dependency in wpidentity's <a href="https://github.com/scripting/wpIdentity/blob/main/package.json">package.json</a> file, and that fixed the problem. Had trouble getting this report in their <a href="https://github.com/Automattic/wp-calypso/issues">issues</a> section.]]>
@@ -8006,14 +8646,6 @@ Tags: [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-progr
       <link>https://heathercoxrichardson.substack.com/p/october-26-2025-ea3</link>
       <enclosure url="https://api.substack.com/feed/podcast/177312202/dd3e1dae2e14aba15838625c1bdeb6ca.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://heathercoxrichardson.substack.com/p/october-26-2025-ea3</guid>
-    </item>    <item>
-      <title>★ Apple Loses Landmark U.K. Lawsuit Over App Store Commissions</title>
-      <link>https://daringfireball.net/2025/10/apple_uk_lawsuit_app_store_commissions</link>
-      <description>
-        <![CDATA[The best time to adjust the rules of the App Store — its exclusivity on app distribution for the entire iOS platform, the exclusivity of Apple’s IAP for purchasing digital content, the commission percentage splits on IAP — was over a decade ago. The next best time to make those adjustments is now.]]>
-      </description>
-      <source:markdown>The best time to adjust the rules of the App Store — its exclusivity on app distribution for the entire iOS platform, the exclusivity of Apple’s IAP for purchasing digital content, the commission percentage splits on IAP — was over a decade ago. The next best time to make those adjustments is now.</source:markdown>
-      <guid>cid://tag:daringfireball.net,2025://1.42322</guid>
     </item>    <item>
       <title>The PSF has withdrawn a $1.5 million proposal to US government grant program</title>
       <link>https://simonwillison.net/2025/Oct/27/psf-withdrawn-proposal/#atom-everything</link>
@@ -14153,6 +14785,14 @@ Tags: [privacy](https://simonwillison.net/tags/privacy), [security](https://simo
       <source:markdown>OpenAI looks for its “Google Chrome” moment with new Atlas web browser.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/21/1591/</guid>
     </item>    <item>
+      <title>★ Two Excellent New iPhone Camera Apps: Not Boring’s !Camera and Adobe’s Project Indigo</title>
+      <link>https://daringfireball.net/2025/10/not_boring_camera_and_adobe_project_indigo</link>
+      <description>
+        <![CDATA[Two new(ish) iPhone camera apps that take decidedly different approaches to distinguish themselves from Apple’s built-in Camera app.]]>
+      </description>
+      <source:markdown>Two new(ish) iPhone camera apps that take decidedly different approaches to distinguish themselves from Apple’s built-in Camera app.</source:markdown>
+      <guid>cid://tag:daringfireball.net,2025://1.42295</guid>
+    </item>    <item>
       <title>Consumer Confusion Regarding USB Power Adapters</title>
       <link>https://daringfireball.net/linked/2025/10/20/heer-m5-mbp-charger</link>
       <guid>cid://tag:daringfireball.net,2025:/linked//6.42296</guid>
@@ -14258,14 +14898,6 @@ Via [Hacker News](https://news.ycombinator.com/item?id=45658479)
 
 Tags: [accessibility](https://simonwillison.net/tags/accessibility), [aria](https://simonwillison.net/tags/aria), [browsers](https://simonwillison.net/tags/browsers), [privacy](https://simonwillison.net/tags/privacy), [security](https://simonwillison.net/tags/security), [ai](https://simonwillison.net/tags/ai), [openai](https://simonwillison.net/tags/openai), [prompt-injection](https://simonwillison.net/tags/prompt-injection), [generative-ai](https://simonwillison.net/tags/generative-ai), [ai-agents](https://simonwillison.net/tags/ai-agents), [browser-agents](https://simonwillison.net/tags/browser-agents)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/21/introducing-chatgpt-atlas/#atom-everything</guid>
-    </item>    <item>
-      <title>★ Two Excellent New iPhone Camera Apps: Not Boring’s !Camera and Adobe’s Project Indigo</title>
-      <link>https://daringfireball.net/2025/10/not_boring_camera_and_adobe_project_indigo</link>
-      <description>
-        <![CDATA[Two new(ish) iPhone camera apps that take decidedly different approaches to distinguish themselves from Apple’s built-in Camera app.]]>
-      </description>
-      <source:markdown>Two new(ish) iPhone camera apps that take decidedly different approaches to distinguish themselves from Apple’s built-in Camera app.</source:markdown>
-      <guid>cid://tag:daringfireball.net,2025://1.42295</guid>
     </item>    <item>
       <title>Ethan Hawke Breaks Down His Career</title>
       <link>https://kottke.org/25/10/ethan-hawke-breaks-down-his-career</link>

@@ -7,10 +7,26 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>06 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>06 Nov 25 10:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>ICE is sending a chill through the construction industry</title>
+      <link>https://laist.com/news/ice-is-sending-a-chill-through-the-construction-industry</link>
+      <description>
+        <![CDATA[The construction industry has long struggled to find enough workers. Now, industry officials say Trump's immigration crackdown is making it worse.]]>
+      </description>
+      <source:markdown>The construction industry has long struggled to find enough workers. Now, industry officials say Trump&#39;s immigration crackdown is making it worse.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5a08-d797-a7be-7eca7f340000</guid>
+    </item>    <item>
+      <title>California Attorney General says tariffs aren&#39;t a presidential power</title>
+      <link>https://laist.com/news/politics/california-attorney-general-tariffs-president-trump</link>
+      <description>
+        <![CDATA[Attorney General Rob Bonta spoke Wednesday with Consider This host Juana Summers.]]>
+      </description>
+      <source:markdown>Attorney General Rob Bonta spoke Wednesday with Consider This host Juana Summers.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-564a-df8a-a3db-566a93500000</guid>
+    </item>    <item>
       <title>A new report says California should offer more schools more fire recovery support</title>
       <link>https://laist.com/news/education/palisades-eaton-fire-pasadena-unified-lausd-fire-recovery-audit</link>
       <description>
@@ -27,21 +43,21 @@
       <source:markdown>Residents compiled testing results for 50 remediated homes. One third still contained asbestos, and 63% contained elevated levels of lead. What does that mean for safety?</source:markdown>
       <guid>cid://urn:uuid:0000019a-568e-de73-abba-d7ae99ad0000</guid>
     </item>    <item>
-      <title>Heading to Solvang and Santa Ynez? Here are some great new eateries to check out</title>
-      <link>https://laist.com/news/food/heading-to-solvang-and-santa-ynez-here-are-some-great-new-eateries-to-check-out</link>
-      <description>
-        <![CDATA[Looking for a gastronomical getaway? The Santa Ynez Valley is chock-full of new restaurants to check out.]]>
-      </description>
-      <source:markdown>Looking for a gastronomical getaway? The Santa Ynez Valley is chock-full of new restaurants to check out.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-55a4-d2bc-a9df-77a5c5610000</guid>
-    </item>    <item>
-      <title>The Olympics are a multi-billion dollar business, and LA taxpayers could end up footing the bill</title>
+      <title>The Olympics are a multi-billion dollar business. What does that mean for LA taxpayers?</title>
       <link>https://laist.com/news/los-angeles-hosting-2028-olympics-money-financial-taxpayers</link>
       <description>
         <![CDATA[The city's financial exposure is essentially unlimited in the event of budget overruns.]]>
       </description>
       <source:markdown>The city&#39;s financial exposure is essentially unlimited in the event of budget overruns.</source:markdown>
       <guid>cid://urn:uuid:0000019a-517c-ddbf-a9fe-7b7e486f0000</guid>
+    </item>    <item>
+      <title>Heading to Solvang and Santa Ynez? Check out these great new eateries</title>
+      <link>https://laist.com/news/food/heading-to-solvang-and-santa-ynez-here-are-some-great-new-eateries-to-check-out</link>
+      <description>
+        <![CDATA[Looking for a gastronomical getaway? The Santa Ynez Valley is chock-full of new restaurants to check out.]]>
+      </description>
+      <source:markdown>Looking for a gastronomical getaway? The Santa Ynez Valley is chock-full of new restaurants to check out.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-55a4-d2bc-a9df-77a5c5610000</guid>
     </item>    <item>
       <title>Welcome to the new LAist.com. We&#39;ve made improvements with you in mind</title>
       <link>https://laist.com/news/laist-news-website-relaunch-what-you-should-know</link>
