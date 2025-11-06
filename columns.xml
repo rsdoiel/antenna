@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>05 Nov 25 14:11 -0800</lastBuildDate>
+    <lastBuildDate>06 Nov 25 06:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,467 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m4xofw3wfs2f</link>
+      <description>
+        <![CDATA[Wow.
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>Wow.
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m4xofw3wfs2f</guid>
+    </item>    <item>
+      <title>“Fáilte go Knocka, fáilte go Knocka, gaelteacht nua i dtuisceart na cathrach!” https://www.youtube.com/watch?v=nH772P6YbMQ (Tá Kneecap ceart go leor, ach is fearr liom Kabin Crew!)</title>
+      <link>https://adactio.com/notes/22234</link>
+      <description>
+        <![CDATA[<p>“Fáilte go Knocka, fáilte go Knocka, gaelteacht nua i dtuisceart na cathrach!”</p>
+        
+        <p><a href="https://www.youtube.com/watch?v=nH772P6YbMQ">https://www.youtube.com/watch?v=nH772P6YbMQ</a></p>
+        
+        <p>(Tá Kneecap ceart go leor, ach is fearr liom Kabin Crew!)</p>]]>
+      </description>
+      <source:markdown>“Fáilte go Knocka, fáilte go Knocka, gaelteacht nua i dtuisceart na cathrach!”
+
+[https://www.youtube.com/watch?v=nH772P6YbMQ](https://www.youtube.com/watch?v=nH772P6YbMQ)
+
+(Tá Kneecap ceart go leor, ach is fearr liom Kabin Crew!)</source:markdown>
+      <guid>cid://https://adactio.com/notes/22234</guid>
+    </item>    <item>
+      <title>Data Engineering in the Age of AI</title>
+      <link>https://www.oreilly.com/radar/data-engineering-in-the-age-of-ai/</link>
+      <description>
+        <![CDATA[Much like the introduction of the personal computer, the Internet, and the iPhone into the public sphere, recent developments in the AI space, from Generative AI to Agentic AI, have fundamentally changed the way people live and work. Since ChatGPT’s release in late 2022, it’s reached a threshold of 700 million users per week, approximately [&#8230;]]]>
+      </description>
+      <source:markdown>Much like the introduction of the personal computer, the Internet, and the iPhone into the public sphere, recent developments in the AI space, from Generative AI to Agentic AI, have fundamentally changed the way people live and work. Since ChatGPT’s release in late 2022, it’s reached a threshold of 700 million users per week, approximately \[…\]</source:markdown>
+      <guid>cid://https://www.oreilly.com/radar/?p=17662</guid>
+    </item>    <item>
+      <title>Rigged Poker Games</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/rigged-poker-games.html</link>
+      <description>
+        <![CDATA[<p>The Department of Justice has <a href="https://www.wsj.com/sports/nba-illegal-gambling-poker-games-3e7988e4?st=ArwBJd&#038;reflink=article_copyURL_share&#038;utm_source=substack&#038;utm_medium=email">indicted</a> thirty-one people over the high-tech rigging of high-stakes poker games.</p>
+        <blockquote><p>In a typical legitimate poker game, a dealer uses a shuffling machine to shuffle the cards randomly before dealing them to all the players in a particular order.  As set forth in the indictment, the rigged games used altered shuffling machines that contained hidden technology allowing the machines to read all the cards in the deck.  Because the cards were always dealt in a particular order to the players at the table, the machines could determine which player would have the winning hand. This information was transmitted to an off-site member of the conspiracy, who then transmitted that information via cellphone back to a member of the conspiracy who was playing at the table, referred to as the &#8220;Quarterback&#8221; or &#8220;Driver.&#8221;  The Quarterback then secretly signaled this information (usually by prearranged signals like touching certain chips or other items on the table) to other co-conspirators playing at the table, who were also participants in the scheme.  Collectively, the Quarterback and other players in on the scheme (i.e., the cheating team) used this information to win poker games against unwitting victims, who sometimes lost tens or hundreds of thousands of dollars at a time. The defendants used other cheating technology as well, such as a chip tray analyzer (essentially, a poker chip tray that also secretly read all cards using hidden cameras), an x-ray table that could read cards face down on the table, and special contact lenses or eyeglasses that could read pre-marked cards. ...</p></blockquote>]]>
+      </description>
+      <source:markdown>The Department of Justice has [indicted](https://www.wsj.com/sports/nba-illegal-gambling-poker-games-3e7988e4?st=ArwBJd&#38;reflink=article_copyURL_share&#38;utm_source=substack&#38;utm_medium=email) thirty-one people over the high-tech rigging of high-stakes poker games.
+
+&#62; In a typical legitimate poker game, a dealer uses a shuffling machine to shuffle the cards randomly before dealing them to all the players in a particular order. As set forth in the indictment, the rigged games used altered shuffling machines that contained hidden technology allowing the machines to read all the cards in the deck. Because the cards were always dealt in a particular order to the players at the table, the machines could determine which player would have the winning hand. This information was transmitted to an off-site member of the conspiracy, who then transmitted that information via cellphone back to a member of the conspiracy who was playing at the table, referred to as the “Quarterback” or “Driver.” The Quarterback then secretly signaled this information (usually by prearranged signals like touching certain chips or other items on the table) to other co-conspirators playing at the table, who were also participants in the scheme. Collectively, the Quarterback and other players in on the scheme (i.e., the cheating team) used this information to win poker games against unwitting victims, who sometimes lost tens or hundreds of thousands of dollars at a time. The defendants used other cheating technology as well, such as a chip tray analyzer (essentially, a poker chip tray that also secretly read all cards using hidden cameras), an x-ray table that could read cards face down on the table, and special contact lenses or eyeglasses that could read pre-marked cards. ...</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=71116</guid>
+    </item>    <item>
+      <title>Lit Hub Daily: November 6, 2025</title>
+      <link>https://lithub.com/lit-hub-daily-november-6-2025/</link>
+      <description>
+        <![CDATA[Maris Kreizman on AI, the future, and the ongoing devaluation of the arts: “For years we’ve been grappling with the collapse of the creative middle class due to corporate greed.” &#124; Lit Hub Criticism What’s on Dorothea Lasky’s TBR? Emma]]>
+      </description>
+      <source:markdown>Maris Kreizman on AI, the future, and the ongoing devaluation of the arts: “For years we’ve been grappling with the collapse of the creative middle class due to corporate greed.” \| Lit Hub Criticism What’s on Dorothea Lasky’s TBR? Emma</source:markdown>
+      <guid>cid://https://lithub.com/?p=262314</guid>
+    </item>    <item>
+      <title>Are Hispanics America’s New Jews?</title>
+      <link>https://paulkrugman.substack.com/p/are-hispanics-americas-new-jews</link>
+      <description>
+        <![CDATA[That was the realignment that was]]>
+      </description>
+      <source:markdown>That was the realignment that was</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!lgxQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71506af8-6964-4248-a870-6f8ac5da56fd_1713x1169.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/are-hispanics-americas-new-jews</guid>
+    </item>    <item>
+      <title>Jensen Huang Gets It Wrong</title>
+      <link>https://www.oreilly.com/radar/jensen-huang-gets-it-wrong/</link>
+      <description>
+        <![CDATA[In a recent newsletter, Ben Thompson suggested paying attention to a portion of Jensen Huang’s keynote at NVIDIA’s GPU Technology Conference (GTC) in DC, calling it “an excellent articulation of the thesis that the AI market is orders of magnitude bigger than the software market.” While I’m reluctant to contradict as astute an observer as [&#8230;]]]>
+      </description>
+      <source:markdown>In a recent newsletter, Ben Thompson suggested paying attention to a portion of Jensen Huang’s keynote at NVIDIA’s GPU Technology Conference (GTC) in DC, calling it “an excellent articulation of the thesis that the AI market is orders of magnitude bigger than the software market.” While I’m reluctant to contradict as astute an observer as \[…\]</source:markdown>
+      <guid>cid://https://www.oreilly.com/radar/?p=17652</guid>
+    </item>    <item>
+      <title>Cameras, Cameras Everywhere!</title>
+      <link>https://xn--gckvb8fzb.com/cameras-cameras-everywhere/</link>
+      <description>
+        <![CDATA[We are not only more visible, but we're also more persistently recorded,
+        indexed and analyzable than ever before.]]>
+      </description>
+      <source:markdown>We are not only more visible, but we&#39;re also more persistently recorded,
+indexed and analyzable than ever before.</source:markdown>
+      <author>marius@xn--gckvb8fzb.com (Marius)</author>
+      <guid>cid:///cameras-cameras-everywhere/</guid>
+    </item>    <item>
+      <title>Ottilie Mulzet on Translating Hungarian Nobel Prize Winner László Krasznahorkai</title>
+      <link>https://lithub.com/ottilie-mulzet-on-translating-hungarian-nobel-prize-winner-laszlo-krasznahorkai/</link>
+      <description>
+        <![CDATA[Translator Ottilie Mulzet joins co-hosts Whitney Terrell and V.V. Ganeshananthan to talk about her award-winning translations of Nobel Prize winner László Krasznahorkai’s work. Mulzet, who was born in Canada and now lives in the Czech Republic, discusses how she learned]]>
+      </description>
+      <source:markdown>Translator Ottilie Mulzet joins co-hosts Whitney Terrell and V.V. Ganeshananthan to talk about her award-winning translations of Nobel Prize winner László Krasznahorkai’s work. Mulzet, who was born in Canada and now lives in the Czech Republic, discusses how she learned</source:markdown>
+      <guid>cid://https://lithub.com/?p=261613</guid>
+    </item>    <item>
+      <title>How Fleetwood Mac Helped Inspire Daisy Jones &#38; the Six</title>
+      <link>https://lithub.com/how-fleetwood-mac-helped-inspire-daisy-jones-the-six/</link>
+      <description>
+        <![CDATA[Stevie Nicks came up with the title of the song she has referred to as “the ballad of Stevie and Lindsey” when she saw an exit sign for Silver Spring (singular), Maryland, while Buckingham Nicks was on the road. “It]]>
+      </description>
+      <source:markdown>Stevie Nicks came up with the title of the song she has referred to as “the ballad of Stevie and Lindsey” when she saw an exit sign for Silver Spring (singular), Maryland, while Buckingham Nicks was on the road. “It</source:markdown>
+      <guid>cid://https://lithub.com/?p=261778</guid>
+    </item>    <item>
+      <title>When We Devalue Art (Books!) We Devalue the Future</title>
+      <link>https://lithub.com/when-we-devalue-art-books-we-devalue-the-future/</link>
+      <description>
+        <![CDATA[When you’ve spent your whole adult life working in and around book publishing you get used to hearing that people don’t read anymore and that the industry is on its last legs. There is always a crisis. In August it]]>
+      </description>
+      <source:markdown>When you’ve spent your whole adult life working in and around book publishing you get used to hearing that people don’t read anymore and that the industry is on its last legs. There is always a crisis. In August it</source:markdown>
+      <guid>cid://https://lithub.com/?p=262301</guid>
+    </item>    <item>
+      <title>The Annotated Nightstand: What Dorothea Lasky Is Reading Now, and Next</title>
+      <link>https://lithub.com/the-annotated-nightstand-what-dorothea-lasky-is-reading-now-and-next/</link>
+      <description>
+        <![CDATA[The poet Bernadette Mayer’s Memory is capacious in its scope. Mayer, the iconic poet perhaps best known for her poem tracing midwinter day in a volume of that title, took a roll of film for each day of a month]]>
+      </description>
+      <source:markdown>The poet Bernadette Mayer’s Memory is capacious in its scope. Mayer, the iconic poet perhaps best known for her poem tracing midwinter day in a volume of that title, took a roll of film for each day of a month</source:markdown>
+      <guid>cid://https://lithub.com/?p=262049</guid>
+    </item>    <item>
+      <title>5 Book Reviews You Need to Read This Week</title>
+      <link>https://lithub.com/5-book-reviews-you-need-to-read-this-week-11-6-2025/</link>
+      <description>
+        <![CDATA[Our saddlebag of superlative reviews this week includes Lily Meyer on on Ella Berman&#8217;s L.A. Women, Anthony Lane on Anthony Hopkins&#8217; We Did Ok, Kid, Kevin Power on Salman Rushdie&#8217;s The Eleventh Hour, Kristen Martin on Susan Straight&#8217;s Sacrament, and]]>
+      </description>
+      <source:markdown>Our saddlebag of superlative reviews this week includes Lily Meyer on on Ella Berman’s L.A. Women, Anthony Lane on Anthony Hopkins’ We Did Ok, Kid, Kevin Power on Salman Rushdie’s The Eleventh Hour, Kristen Martin on Susan Straight’s Sacrament, and</source:markdown>
+      <guid>cid://https://lithub.com/?p=262261</guid>
+    </item>    <item>
+      <title>How I Came to Know My Cuban Grandfather Through Archival Research</title>
+      <link>https://lithub.com/how-i-came-to-know-my-cuban-grandfather-through-archival-research/</link>
+      <description>
+        <![CDATA[My grandfather died when I was 10. He was 85 years old, which to little-kid-me meant that he was ancient. I remember him creaking barefoot around the kitchen with a box of diabetic cookies in his hand. I remember him]]>
+      </description>
+      <source:markdown>My grandfather died when I was 10. He was 85 years old, which to little-kid-me meant that he was ancient. I remember him creaking barefoot around the kitchen with a box of diabetic cookies in his hand. I remember him</source:markdown>
+      <guid>cid://https://lithub.com/?p=261865</guid>
+    </item>    <item>
+      <title>Abel Ferrara Starred in His First Feature, a Mob-Backed Porno</title>
+      <link>https://lithub.com/abel-ferrara-starred-in-his-first-feature-a-mob-backed-porno/</link>
+      <description>
+        <![CDATA[We broke up on December 7, 1974, Pearl Harbor Day. We had played out the string of this relationship. Nadia and I were living in an old house in Nyack on the Hudson River, a forty-minute drive north of Manhattan]]>
+      </description>
+      <source:markdown>We broke up on December 7, 1974, Pearl Harbor Day. We had played out the string of this relationship. Nadia and I were living in an old house in Nyack on the Hudson River, a forty-minute drive north of Manhattan</source:markdown>
+      <guid>cid://https://lithub.com/?p=262037</guid>
+    </item>    <item>
+      <title>A Different Side of the Self: On Finding Freedom By Telling My Story in English</title>
+      <link>https://lithub.com/a-different-side-of-the-self-on-finding-freedom-by-telling-my-story-in-english/</link>
+      <description>
+        <![CDATA[When it came time to write my memoir, My Name Means Fire, I chose to write it in English. There’s irony in that, of course. I wrote in English, but my name, “Atash”—which means “fire” in Persian—is where my struggles]]>
+      </description>
+      <source:markdown>When it came time to write my memoir, My Name Means Fire, I chose to write it in English. There’s irony in that, of course. I wrote in English, but my name, “Atash”—which means “fire” in Persian—is where my struggles</source:markdown>
+      <guid>cid://https://lithub.com/?p=261928</guid>
+    </item>    <item>
+      <title>2025-10-02 GitHub from the command-line</title>
+      <link>https://alexschroeder.ch/view/2025-10-02-git-cli</link>
+      <description>
+        <![CDATA[<h1 id="2025-10-02-github-from-the-command-line">2025-10-02 GitHub from the command-line</h1>
+        
+        <p>I tried both <code>git-hub</code> and <code>gh</code> and failed twice. Years ago, I tried some git-forge integration with magit in Emacs, too. It didn&rsquo;t work.</p>
+        
+        <p>In comparison, just <code>git</code> works.</p>
+        
+        <p>Somebody sends me the URL to their repository in an email with an explanation.
+        I add a &ldquo;remote&rdquo; using their name, and fetch the info I need.</p>
+        
+        <pre><code>cd ~/src/cool
+        git remote add berta https://example.org/berta/cool
+        git fetch berta
+        git checkout berta/some-feature
+        git log
+        ...
+        git checkout main
+        git merge berta/some-feature
+        </code></pre>
+        
+        <p>Something like that. And then I write a nice email back.</p>
+        
+        <p>This is not the dreaded email flow. This is working with remotes. All this requires is that all the contributors have public git repositories. These can be on GitHub (😓), GitLab, sourcehut (😄), Codeberg (😍), self-hosted, whatever.</p>
+        
+        <p>The only thing that doesn&rsquo;t work is communicating via the web interface about issues and pull requests or merge requests. Use email or instant messengers. Works for me. My projects are not popular.</p>
+        
+        <p><a class="tag" href="/search/?q=%23Git">#Git</a></p>]]>
+      </description>
+      <source:markdown># 2025-10-02 GitHub from the command-line
+
+I tried both `git-hub` and `gh` and failed twice. Years ago, I tried some git-forge integration with magit in Emacs, too. It didn’t work.
+
+In comparison, just `git` works.
+
+Somebody sends me the URL to their repository in an email with an explanation.
+I add a “remote” using their name, and fetch the info I need.
+
+```
+cd ~/src/cool
+git remote add berta https://example.org/berta/cool
+git fetch berta
+git checkout berta/some-feature
+git log
+...
+git checkout main
+git merge berta/some-feature
+
+```
+
+Something like that. And then I write a nice email back.
+
+This is not the dreaded email flow. This is working with remotes. All this requires is that all the contributors have public git repositories. These can be on GitHub (😓), GitLab, sourcehut (😄), Codeberg (😍), self-hosted, whatever.
+
+The only thing that doesn’t work is communicating via the web interface about issues and pull requests or merge requests. Use email or instant messengers. Works for me. My projects are not popular.
+
+[#Git](/search/?q=%23Git)</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2025-10-02-git-cli</guid>
+    </item>    <item>
+      <title>2025-11-06 Bye bye USA</title>
+      <link>https://alexschroeder.ch/view/2025-11-06-usa</link>
+      <description>
+        <![CDATA[<h1 id="2025-11-06-bye-bye-usa">2025-11-06 Bye bye USA</h1>
+        
+        <p>I haven&rsquo;t travelled to the US in many years. I made an exception a few years ago because my wife wanted to see <a href="Hawaii">Hawaii</a> again. Before that, I hadn&rsquo;t travelled to the US in many years, too.</p>
+        
+        <p>Those were the Snowden years. The Home Security years. The Patriot Act years. Remember?</p>
+        
+        <p>These day&rsquo;s it&rsquo;s even worse.</p>
+        
+        <p>A friend wanted some advice about moving customer data from on-premise in Switzerland to a US cloud compute provider, nominally in Switzerland. We had a long chat about political pressure and authoritarian governments. I think she challenged her team that is in charge of the long project (you know those projects where you need to answer hundreds of questions in huge Excel sheets) with the question: Would you move this data to a Chinese cloud hosting provider? Of course not, that&rsquo;s different, they said. And the two of us wondered for how long.</p>
+        
+        <p>We talked about Microsoft saying in Paris that the US government would get access to customer data on Microsoft hosts if it really wanted to, even if hosted in Europe; about the International Criminal Court (ICC) ditching Microsoft Office because Microsoft had locked them out of all their services, because the credit card institutes had locked them all out of their services, all at the behest of the US president.</p>
+        
+        <p>We talked about the Swiss army chief opposing the current move of the federal administration to the Microsoft cloud; the Swiss federal court in Lausanne not using Microsoft as far as possible; the canton of Lucerne suddenly realising what they are are about to give up with a move to Microsoft; about people saying that Switzerland should stop paying for the F-35 after one billion spent since it may or may not arrive if we pay the remaining six billion, and if it does, we don&rsquo;t know if it&rsquo;ll work, and if it works, we don&rsquo;t know if the US president won&rsquo;t disable them just to make a point.</p>
+        
+        <p>We talked about Trump and how people are no longer trusting that the US is an ally, a friend, a partner to rely on.</p>
+        
+        <p>Each example is a small event on the global scale, but together they start building up. If you&rsquo;re a C-level executive, do you want to be the person that decided handing the company keys to a company in the US, where IT leaders make $1,000,000 presents and kiss the president&rsquo;s arse at a dinner, on camera? Will they stand up for you? Of course not. Will the heads of the local branches stand up for you? Of course not.</p>
+        
+        <p>If people can avoid dealing with authoritarian strongmen, they do it. If people start dealing with organised crime, their woes never end.</p>
+        
+        <p>Switzerland has an app-based electronic payment system called TWINT. I prefer it over Visa and Mastercard. I also want to get back to using a lot of cash. I stopped that with the onset of the pandemic in 2020. But I&rsquo;m doing my part voting with my wallet.</p>
+        
+        <p>We distrust China because they&rsquo;re authoritarians. We distrust Russia because they&rsquo;re authoritarians. Why should we trust the USA since they&rsquo;re slowly turning into authoritarians.</p>
+        
+        <p><a class="tag" href="/search/?q=%23USA">#USA</a></p>]]>
+      </description>
+      <source:markdown># 2025-11-06 Bye bye USA
+
+I haven’t travelled to the US in many years. I made an exception a few years ago because my wife wanted to see [Hawaii](Hawaii) again. Before that, I hadn’t travelled to the US in many years, too.
+
+Those were the Snowden years. The Home Security years. The Patriot Act years. Remember?
+
+These day’s it’s even worse.
+
+A friend wanted some advice about moving customer data from on-premise in Switzerland to a US cloud compute provider, nominally in Switzerland. We had a long chat about political pressure and authoritarian governments. I think she challenged her team that is in charge of the long project (you know those projects where you need to answer hundreds of questions in huge Excel sheets) with the question: Would you move this data to a Chinese cloud hosting provider? Of course not, that’s different, they said. And the two of us wondered for how long.
+
+We talked about Microsoft saying in Paris that the US government would get access to customer data on Microsoft hosts if it really wanted to, even if hosted in Europe; about the International Criminal Court (ICC) ditching Microsoft Office because Microsoft had locked them out of all their services, because the credit card institutes had locked them all out of their services, all at the behest of the US president.
+
+We talked about the Swiss army chief opposing the current move of the federal administration to the Microsoft cloud; the Swiss federal court in Lausanne not using Microsoft as far as possible; the canton of Lucerne suddenly realising what they are are about to give up with a move to Microsoft; about people saying that Switzerland should stop paying for the F-35 after one billion spent since it may or may not arrive if we pay the remaining six billion, and if it does, we don’t know if it’ll work, and if it works, we don’t know if the US president won’t disable them just to make a point.
+
+We talked about Trump and how people are no longer trusting that the US is an ally, a friend, a partner to rely on.
+
+Each example is a small event on the global scale, but together they start building up. If you’re a C-level executive, do you want to be the person that decided handing the company keys to a company in the US, where IT leaders make $1,000,000 presents and kiss the president’s arse at a dinner, on camera? Will they stand up for you? Of course not. Will the heads of the local branches stand up for you? Of course not.
+
+If people can avoid dealing with authoritarian strongmen, they do it. If people start dealing with organised crime, their woes never end.
+
+Switzerland has an app-based electronic payment system called TWINT. I prefer it over Visa and Mastercard. I also want to get back to using a lot of cash. I stopped that with the onset of the pandemic in 2020. But I’m doing my part voting with my wallet.
+
+We distrust China because they’re authoritarians. We distrust Russia because they’re authoritarians. Why should we trust the USA since they’re slowly turning into authoritarians.
+
+[#USA](/search/?q=%23USA)</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2025-11-06-usa</guid>
+    </item>    <item>
+      <title>Estate</title>
+      <link>https://lithub.com/estate/</link>
+      <description>
+        <![CDATA[I can hold on now only to Pom. The rest of them have already taken what they need from me. The other morning, because I drink it so quickly, the coffee does not have time to go stale, because coffee]]>
+      </description>
+      <source:markdown>I can hold on now only to Pom. The rest of them have already taken what they need from me. The other morning, because I drink it so quickly, the coffee does not have time to go stale, because coffee</source:markdown>
+      <guid>cid://https://lithub.com/?p=261382</guid>
+    </item>    <item>
+      <title>When you think about it, the phrase “earning a living” is really quite vile.</title>
+      <link>https://adactio.com/notes/22233</link>
+      <description>
+        <![CDATA[<p>When you think about it, the phrase “earning a living” is really quite vile.</p>]]>
+      </description>
+      <source:markdown>When you think about it, the phrase “earning a living” is really quite vile.</source:markdown>
+      <guid>cid://https://adactio.com/notes/22233</guid>
+    </item>    <item>
+      <title>What’s “news” under Trump?</title>
+      <link>https://robertreich.substack.com/p/whats-the-news-under-trump</link>
+      <description>
+        <![CDATA[Friends,]]>
+      </description>
+      <source:markdown>Friends,</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!K_YM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F92bfad20-3470-447e-bdf3-94a562f0a362_3500x2642.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/whats-the-news-under-trump</guid>
+    </item>    <item>
+      <title>Failing Well: A Practical Guide to Growth for Technical Writers</title>
+      <link>https://passo.uno/failing-well-wtd-berlin-2025/</link>
+      <description>
+        <![CDATA[<p>I really enjoyed speaking at <a href="https://www.writethedocs.org/conf/berlin/2025/speakers/">Write the Docs Berlin</a> this year. My talk was a bit special, a message in a bottle for writers who are struggling — for anyone who&rsquo;s struggling in their careers, really. Here are the recording and the slides, as well as some links to the content that inspired the talk. I hope you&rsquo;ll find it useful.</p>]]>
+      </description>
+      <source:markdown>I really enjoyed speaking at [Write the Docs Berlin](https://www.writethedocs.org/conf/berlin/2025/speakers/) this year. My talk was a bit special, a message in a bottle for writers who are struggling — for anyone who’s struggling in their careers, really. Here are the recording and the slides, as well as some links to the content that inspired the talk. I hope you’ll find it useful.</source:markdown>
+      <guid>cid://https://passo.uno/failing-well-wtd-berlin-2025/</guid>
+    </item>    <item>
+      <title>Reading I Am Legend by Richard Matheson.</title>
+      <link>https://adactio.com/notes/22232</link>
+      <description>
+        <![CDATA[<p>Reading I Am Legend by Richard Matheson.</p>]]>
+      </description>
+      <source:markdown>Reading I Am Legend by Richard Matheson.</source:markdown>
+      <guid>cid://https://adactio.com/notes/22232</guid>
+    </item>    <item>
+      <title>November 5, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/november-5-2025</link>
+      <description>
+        <![CDATA[New York City mayor-elect Zohran Mamdani, a member of both the Democratic Party and the Democratic Socialists of America, began his victory speech last night with a nod to Eugene V.]]>
+      </description>
+      <source:markdown>New York City mayor-elect Zohran Mamdani, a member of both the Democratic Party and the Democratic Socialists of America, began his victory speech last night with a nod to Eugene V.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/november-5-2025</guid>
+    </item>    <item>
+      <title>Macbook Air M4s Are on Sale Again</title>
+      <link>https://kottke.org/25/11/macbook-air-m4s-are-on-sale-again</link>
+      <guid>cid://tag:kottke.org,2025://5.47796</guid>
+    </item>    <item>
+      <title>Introduction to Nicole Golden</title>
+      <link>https://www.digitalrhetoriccollaborative.org/2025/11/05/introduction-to-nicole-golden/</link>
+      <description>
+        <![CDATA[Hi there, I’m Nicole! And, I’m super excited to be a DRC Fellow this year.&#160; My relationship to technology has always centered around community. Beginning with the huge family PC my sister and I used to play around in the early 2000s Microsoft Paint (rip) to visiting each other’s Animal Crossing islands on our Switches [...]
+        <p><a href="https://www.digitalrhetoriccollaborative.org/2025/11/05/introduction-to-nicole-golden/" rel="nofollow">Source</a></p>]]>
+      </description>
+      <source:markdown>Hi there, I’m Nicole! And, I’m super excited to be a DRC Fellow this year.  My relationship to technology has always centered around community. Beginning with the huge family PC my sister and I used to play around in the early 2000s Microsoft Paint (rip) to visiting each other’s Animal Crossing islands on our Switches \[...\]
+
+[Source](https://www.digitalrhetoriccollaborative.org/2025/11/05/introduction-to-nicole-golden/)</source:markdown>
+      <guid>cid://https://www.digitalrhetoriccollaborative.org/?p=22013</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/05.html#a000956</link>
+      <description>
+        <![CDATA[I <a href="https://daveverse.org/2025/11/05/mullenweg-and-borthwick/">liveblogged</a> a chat between John Borthwick and Matt Mullenweg tonight in NYC.]]>
+      </description>
+      <source:markdown>I [liveblogged](https://daveverse.org/2025/11/05/mullenweg-and-borthwick/) a chat between John Borthwick and Matt Mullenweg tonight in NYC.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/05.html#a000956</guid>
+    </item>    <item>
+      <title>615. Disneyland: The Modern American Utopia</title>
+      <link>https://therestishistory.com/615-disneyland-the-modern-american-utopia/</link>
+      <description>
+        <![CDATA[<p>Why is Disneyland one of the most influential architectural creations of the 21st century? How did the Second World War impact Disney? And, how is Disneyland inextricably intertwined with the history of America? Join Dominic and Tom as they discuss the magical world of Disneyland, along with the fascinating history of Theme Parks, and the [&#8230;]</p>
+        <p>The post <a href="https://therestishistory.com/615-disneyland-the-modern-american-utopia/">615. Disneyland: The Modern American Utopia</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>]]>
+      </description>
+      <source:markdown>Why is Disneyland one of the most influential architectural creations of the 21st century? How did the Second World War impact Disney? And, how is Disneyland inextricably intertwined with the history of America? Join Dominic and Tom as they discuss the magical world of Disneyland, along with the fascinating history of Theme Parks, and the \[…\]
+
+The post [615\. Disneyland: The Modern American Utopia](https://therestishistory.com/615-disneyland-the-modern-american-utopia/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
+      <guid>cid://https://therestishistory.com/615-disneyland-the-modern-american-utopia/</guid>
+    </item>    <item>
+      <title>Trump Flees to Argentina</title>
+      <link>https://www.borowitzreport.com/p/trump-flees-to-argentina</link>
+      <description>
+        <![CDATA["I can see where this is going," he said.]]>
+      </description>
+      <source:markdown>&#34;I can see where this is going,&#34; he said.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!9kxH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c00743d-dcfe-4046-9606-0160c017dded_1024x682.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/trump-flees-to-argentina</guid>
+    </item>    <item>
+      <title>OpenAI probably can’t make ends meet. That’s where you come in.</title>
+      <link>https://garymarcus.substack.com/p/if-you-thought-the-2008-bank-bailout</link>
+      <description>
+        <![CDATA[If you thought the 2008 bank bailout was bad, wait til you see the 2026 AI bailout]]>
+      </description>
+      <source:markdown>If you thought the 2008 bank bailout was bad, wait til you see the 2026 AI bailout</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!hSk5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f8c0f94-409f-4835-a64c-f8b74c7cf454_1265x1235.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://garymarcus.substack.com/p/if-you-thought-the-2008-bank-bailout</guid>
+    </item>    <item>
+      <title>Regarding the Look of Notifications With Liquid Glass in iOS 26.1</title>
+      <link>https://x.com/bzamayo/status/1986077588553416872?s=12</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42361</guid>
+    </item>    <item>
+      <link>https://daveverse.org/2025/11/05/mullenweg-and-borthwick/</link>
+      <description>
+        <![CDATA[<p>Mullenweg and Borthwick. Live-blogging to the extent I can. Wifi is good here, but the audio is not great.</p>]]>
+      </description>
+      <source:markdown>Mullenweg and Borthwick. Live-blogging to the extent I can. Wifi is good here, but the audio is not great.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/05/1821/</guid>
+    </item>    <item>
+      <title>Open redirect endpoint in Datasette prior to 0.65.2 and 1.0a21</title>
+      <link>https://simonwillison.net/2025/Nov/5/open-redirect-datasette/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://github.com/simonw/datasette/security/advisories/GHSA-w832-gg5g-x44m">Open redirect endpoint in Datasette prior to 0.65.2 and 1.0a21</a></strong></p>
+        This GitHub security advisory covers two new releases of Datasette that I shipped today, both addressing <a href="https://github.com/simonw/datasette/issues/2429">the same open redirect issue</a> with a fix by <a href="https://github.com/jamesjefferies">James Jefferies</a>.</p>
+        <p><strong><a href="https://docs.datasette.io/en/stable/changelog.html#v0-65-2">Datasette 0.65.2</a></strong> fixes the bug and also adds Python 3.14 support and a <code>datasette publish cloudrun</code> fix.</p>
+        <p><strong><a href="https://docs.datasette.io/en/latest/changelog.html#a21-2025-11-05">Datasette 1.0a21</a></strong> also has that Cloud Run fix and two other small new features:</p>
+        <blockquote>
+        <ul>
+        <li>New <code>datasette --get /path --headers</code> option for inspecting the headers returned by a path. (<a href="https://github.com/simonw/datasette/issues/2578">#2578</a>)</li>
+        <li>New <code>datasette.client.get(..., skip_permission_checks=True)</code> parameter to bypass permission checks when making requests using the internal client. (<a href="https://github.com/simonw/datasette/issues/2583">#2583</a>)</li>
+        </ul>
+        </blockquote>
+        <p>I decided to include the Cloud Run deployment fix so anyone with Datasette instances deployed to Cloud Run can update them with the new patched versions.
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a>, <a href="https://simonwillison.net/tags/cloudrun">cloudrun</a>, <a href="https://simonwillison.net/tags/annotated-release-notes">annotated-release-notes</a></p>]]>
+      </description>
+      <source:markdown>**[Open redirect endpoint in Datasette prior to 0.65.2 and 1.0a21](https://github.com/simonw/datasette/security/advisories/GHSA-w832-gg5g-x44m)**
+
+This GitHub security advisory covers two new releases of Datasette that I shipped today, both addressing [the same open redirect issue](https://github.com/simonw/datasette/issues/2429) with a fix by [James Jefferies](https://github.com/jamesjefferies).
+
+**[Datasette 0.65.2](https://docs.datasette.io/en/stable/changelog.html#v0-65-2)** fixes the bug and also adds Python 3.14 support and a `datasette publish cloudrun` fix.
+
+**[Datasette 1.0a21](https://docs.datasette.io/en/latest/changelog.html#a21-2025-11-05)** also has that Cloud Run fix and two other small new features:
+
+&#62; - New `datasette --get /path --headers` option for inspecting the headers returned by a path. ( [#2578](https://github.com/simonw/datasette/issues/2578))
+&#62; - New `datasette.client.get(..., skip_permission_checks=True)` parameter to bypass permission checks when making requests using the internal client. ( [#2583](https://github.com/simonw/datasette/issues/2583))
+
+I decided to include the Cloud Run deployment fix so anyone with Datasette instances deployed to Cloud Run can update them with the new patched versions.
+
+
+
+Tags: [security](https://simonwillison.net/tags/security), [datasette](https://simonwillison.net/tags/datasette), [cloudrun](https://simonwillison.net/tags/cloudrun), [annotated-release-notes](https://simonwillison.net/tags/annotated-release-notes)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/5/open-redirect-datasette/#atom-everything</guid>
+    </item>    <item>
+      <title>Bhí RÓIS ar fheabhas anocht! Guth den scoth!</title>
+      <link>https://adactio.com/notes/22231</link>
+      <description>
+        <![CDATA[<img src="https://adactio.com/images/uploaded/22231/small.jpg" srcset="https://adactio.com/images/uploaded/22231/medium.jpg 1.5x, https://adactio.com/images/uploaded/22231/large.jpg 2.5x" alt="Bhí RÓIS ar fheabhas anocht! Guth den scoth!" />
+        <p>Bhí RÓIS ar fheabhas anocht! Guth den scoth!</p>]]>
+      </description>
+      <source:markdown>![Bhí RÓIS ar fheabhas anocht! Guth den scoth!](https://adactio.com/images/uploaded/22231/small.jpg)
+
+Bhí RÓIS ar fheabhas anocht! Guth den scoth!</source:markdown>
+      <guid>cid://https://adactio.com/notes/22231</guid>
+    </item>    <item>
+      <title>Mamdani Was a Great Candidate Who Ran a Great Campaign ... for New York City</title>
+      <link>https://www.washingtonpost.com/politics/2025/11/04/democrats-election-wins-trump/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42360</guid>
+    </item>    <item>
+      <title>Removing XSLT for a more secure browser</title>
+      <link>https://simonwillison.net/2025/Nov/5/removing-xslt/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://developer.chrome.com/docs/web-platform/deprecating-xslt">Removing XSLT for a more secure browser</a></strong></p>
+        Previously discussed <a href="https://simonwillison.net/2025/Aug/19/xslt/">back in August</a>, it looks like it's now official:</p>
+        <blockquote>
+        <p>Chrome intends to deprecate and remove XSLT from the browser. [...] We intend to remove support from version 155 (November 17, 2026). The <a href="https://github.com/mozilla/standards-positions/issues/1287#issuecomment-3227145793">Firefox</a> and <a href="https://github.com/whatwg/html/issues/11523#issuecomment-3149280766">WebKit</a> projects have also indicated plans to remove XSLT from their browser engines. [...]</p>
+        <p>The continued inclusion of XSLT 1.0 in web browsers presents a significant and unnecessary security risk. The underlying libraries that process these transformations, such as <a href="https://github.com/GNOME/libxslt">libxslt</a> (used by Chromium browsers), are complex, aging C/C++ codebases. This type of code is notoriously susceptible to memory safety vulnerabilities like buffer overflows, which can lead to arbitrary code execution.</p>
+        </blockquote>
+        <p>I mostly encounter XSLT on people's Atom/RSS feeds, converting those to a more readable format in case someone should navigate directly to that link. Jake Archibald <a href="https://jakearchibald.com/2025/making-xml-human-readable-without-xslt/">shared an alternative solution to that</a> back in September.
+        
+            <p><small></small>Via <a href="https://news.ycombinator.com/item?id=45823059">Hacker News</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/browsers">browsers</a>, <a href="https://simonwillison.net/tags/chrome">chrome</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/web-standards">web-standards</a>, <a href="https://simonwillison.net/tags/xml">xml</a>, <a href="https://simonwillison.net/tags/xslt">xslt</a>, <a href="https://simonwillison.net/tags/jake-archibald">jake-archibald</a></p>]]>
+      </description>
+      <source:markdown>**[Removing XSLT for a more secure browser](https://developer.chrome.com/docs/web-platform/deprecating-xslt)**
+
+Previously discussed [back in August](https://simonwillison.net/2025/Aug/19/xslt/), it looks like it&#39;s now official:
+
+&#62; Chrome intends to deprecate and remove XSLT from the browser. \[...\] We intend to remove support from version 155 (November 17, 2026). The [Firefox](https://github.com/mozilla/standards-positions/issues/1287#issuecomment-3227145793) and [WebKit](https://github.com/whatwg/html/issues/11523#issuecomment-3149280766) projects have also indicated plans to remove XSLT from their browser engines. \[...\]
+&#62;
+&#62; The continued inclusion of XSLT 1.0 in web browsers presents a significant and unnecessary security risk. The underlying libraries that process these transformations, such as [libxslt](https://github.com/GNOME/libxslt) (used by Chromium browsers), are complex, aging C/C++ codebases. This type of code is notoriously susceptible to memory safety vulnerabilities like buffer overflows, which can lead to arbitrary code execution.
+
+I mostly encounter XSLT on people&#39;s Atom/RSS feeds, converting those to a more readable format in case someone should navigate directly to that link. Jake Archibald [shared an alternative solution to that](https://jakearchibald.com/2025/making-xml-human-readable-without-xslt/) back in September.
+
+
+
+Via [Hacker News](https://news.ycombinator.com/item?id=45823059)
+
+Tags: [browsers](https://simonwillison.net/tags/browsers), [chrome](https://simonwillison.net/tags/chrome), [security](https://simonwillison.net/tags/security), [web-standards](https://simonwillison.net/tags/web-standards), [xml](https://simonwillison.net/tags/xml), [xslt](https://simonwillison.net/tags/xslt), [jake-archibald](https://simonwillison.net/tags/jake-archibald)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/5/removing-xslt/#atom-everything</guid>
+    </item>    <item>
+      <title>Researchers created a roof paint (a &#38;#8220;nano-engineered polymer coating&#38;#8221;) &#38;#8220;that not only...</title>
+      <link>https://kottke.org/25/11/0047777-researchers-created-a-roo</link>
+      <guid>cid://tag:kottke.org,2025://13.47777</guid>
     </item>    <item>
       <title>C.D. Rose has won the 2025 Goldsmiths Prize.</title>
       <link>https://lithub.com/c-d-rose-has-won-the-2025-goldsmiths-prize/</link>
@@ -1776,6 +2237,13 @@ As most systems do support expressions in `group by`, there is still a standardi
 
 _“ [`Group by All`](https://modern-sql.com/caniuse/group-by-all)” by [Markus Winand](https://winand.at/) was originally published at [Modern SQL](https://modern-sql.com/)._</source:markdown>
       <guid>cid://https://modern-sql.com/caniuse/group-by-all</guid>
+    </item>    <item>
+      <title>Kalina Silverman</title>
+      <link>https://buttondown.com/blog/kalina-silverman</link>
+      <description>
+        <![CDATA[How Kalina Silverman uses Buttondown]]>
+      </description>
+      <source:markdown>How Kalina Silverman uses Buttondown</source:markdown>
     </item>    <item>
       <title>What the Democrats Must Do. Now!</title>
       <link>https://robertreich.substack.com/p/what-the-democrats-must-do-now</link>
@@ -19771,710 +20239,6 @@ Tags: [coding-agents](https://simonwillison.net/tags/coding-agents), [ai-assiste
         <![CDATA[Jenny uses Buttondown to inspire readers to show up and show out for their communities.]]>
       </description>
       <source:markdown>Jenny uses Buttondown to inspire readers to show up and show out for their communities.</source:markdown>
-    </item>    <item>
-      <link>https://podcasts.apple.com/us/podcast/how-russell-vought-broke-the-u-s-government/id268213039?i=1000730035128</link>
-      <description>
-        <![CDATA[<p>How Russell Vought Broke the U.S. Government. Totally worth a listen. Also totally depressing.</p>]]>
-      </description>
-      <source:markdown>How Russell Vought Broke the U.S. Government. Totally worth a listen. Also totally depressing.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/15/1541/</guid>
-    </item>    <item>
-      <title>609. Nelson: The Gathering Storm (Part 2)</title>
-      <link>https://therestishistory.com/609-nelson-the-gathering-storm-part-2/</link>
-      <description>
-        <![CDATA[<p>After two years at sea, what happened when Horatio Nelson &#8211; now Britain’s most celebrated naval commander &#8211; finally returned home, to his wife and father? Following his involvement in the poisonous politics of Naples, his terrible treatment of the Jacobite rebels, and starting an affair with the notorious Lady Emma Hamilton, how was Nelson [&#8230;]</p>
-        <p>The post <a href="https://therestishistory.com/609-nelson-the-gathering-storm-part-2/">609. Nelson: The Gathering Storm (Part 2)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>]]>
-      </description>
-      <source:markdown>After two years at sea, what happened when Horatio Nelson – now Britain’s most celebrated naval commander – finally returned home, to his wife and father? Following his involvement in the poisonous politics of Naples, his terrible treatment of the Jacobite rebels, and starting an affair with the notorious Lady Emma Hamilton, how was Nelson \[…\]
-
-The post [609\. Nelson: The Gathering Storm (Part 2)](https://therestishistory.com/609-nelson-the-gathering-storm-part-2/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
-      <guid>cid://https://therestishistory.com/609-nelson-the-gathering-storm-part-2/</guid>
-    </item>    <item>
-      <title>2025-10-14 Israel: So that we won’t say we didn’t know</title>
-      <link>https://alexschroeder.ch/view/2025-10-14-israel</link>
-      <description>
-        <![CDATA[<h1 id="2025-10-14-israel-so-that-we-won-t-say-we-didn-t-know">2025-10-14 Israel: So that we won’t say we didn’t know</h1>
-        
-        <p>We are <a href="2025-portugal">travelling through Portugal these days</a>. I brought a bunch of newspapers along – to read should I manage to put down the phone. I just read <a href="https://www.woz.ch/2540/zwei-jahre-nach-dem-7-oktober/kollidierende-realitaeten/!42Q5MHJSN52K">Kollidierende Realitäten</a>, starting with a <a href="https://www.btselem.org/">B’Tselem</a> meeting, with quotes from <a href="https://en.wikipedia.org/wiki/Yuli_Novak">Yuli Novak</a>. She says she assumes 95% don’t know about their report, <a href="https://www.btselem.org/publications/202507_our_genocide">Our Genocide</a>.</p>
-        
-        <p>I see Israelis trying to so the right thing and I am reminded of the time I stood at the Paradeplatz in Zürich during lunch hours, “for a just peace in Palestine.” It was <a href="2006-07-15_Electronic_Intifada_has_reports_from_Lebanon">so long ago</a>. It didn’t help. The vigils are still <a href="https://swiss-palestine-network.ch/de/wer-sind-wir/61-mahnwache-zuerich">ongoing</a>. I no longer go.</p>
-        
-        <p>Adi Argov from <a href="https://www.thedailyfile.org/">The Daily File</a> has the last word in the article: “How can the Palestinians forgive what we have done to them? Only our grandchildren might one day know.” (Translation mine.)</p>
-        
-        <p>Apparently the Israelis are so unaware of what they are doing, so certain of what their friends and family in the army are saying, of what the mainstream media are saying, of what the government is saying, that they can only explain the horror the rest of the world is expressing as anti-semitism. I’m guessing that one day they will say, like so many Germans did: “I did not know!” And they will learn, like the Germans did, that this legacy will be hard to shake. Like I once heard in <a href="https://youtube.com/watch?v=Ifh1yx8d83Y">an extremely rude voice over for Pingu</a>: “Fuck you and your entire generation!”</p>
-        
-        <p>The subtitle of The Daily File is “So that we won&rsquo;t say we didn&rsquo;t know.”</p>
-        
-        <p>If you feel like arguing, please read <a href="https://en.wikipedia.org/wiki/Casualties_of_the_Gaza_war">Casualties of the Gaza war</a>, because I’m assuming you’re one of the very people this article is about. It is not my duty to educate you. It is your duty to do the right thing and that includes the duty to educate yourself so that you can do the right thing. Nobody said it was going to be easy.</p>
-        
-        <p><a class="tag" href="/search/?q=%23Israel">#Israel</a> <a class="tag" href="/search/?q=%23Palestine">#Palestine</a></p>]]>
-      </description>
-      <source:markdown># 2025-10-14 Israel: So that we won’t say we didn’t know
-
-We are [travelling through Portugal these days](2025-portugal). I brought a bunch of newspapers along – to read should I manage to put down the phone. I just read [Kollidierende Realitäten](https://www.woz.ch/2540/zwei-jahre-nach-dem-7-oktober/kollidierende-realitaeten/!42Q5MHJSN52K), starting with a [B’Tselem](https://www.btselem.org/) meeting, with quotes from [Yuli Novak](https://en.wikipedia.org/wiki/Yuli_Novak). She says she assumes 95% don’t know about their report, [Our Genocide](https://www.btselem.org/publications/202507_our_genocide).
-
-I see Israelis trying to so the right thing and I am reminded of the time I stood at the Paradeplatz in Zürich during lunch hours, “for a just peace in Palestine.” It was [so long ago](2006-07-15_Electronic_Intifada_has_reports_from_Lebanon). It didn’t help. The vigils are still [ongoing](https://swiss-palestine-network.ch/de/wer-sind-wir/61-mahnwache-zuerich). I no longer go.
-
-Adi Argov from [The Daily File](https://www.thedailyfile.org/) has the last word in the article: “How can the Palestinians forgive what we have done to them? Only our grandchildren might one day know.” (Translation mine.)
-
-Apparently the Israelis are so unaware of what they are doing, so certain of what their friends and family in the army are saying, of what the mainstream media are saying, of what the government is saying, that they can only explain the horror the rest of the world is expressing as anti-semitism. I’m guessing that one day they will say, like so many Germans did: “I did not know!” And they will learn, like the Germans did, that this legacy will be hard to shake. Like I once heard in [an extremely rude voice over for Pingu](https://youtube.com/watch?v=Ifh1yx8d83Y): “Fuck you and your entire generation!”
-
-The subtitle of The Daily File is “So that we won’t say we didn’t know.”
-
-If you feel like arguing, please read [Casualties of the Gaza war](https://en.wikipedia.org/wiki/Casualties_of_the_Gaza_war), because I’m assuming you’re one of the very people this article is about. It is not my duty to educate you. It is your duty to do the right thing and that includes the duty to educate yourself so that you can do the right thing. Nobody said it was going to be easy.
-
-[#Israel](/search/?q=%23Israel) [#Palestine](/search/?q=%23Palestine)</source:markdown>
-      <guid>cid://https://alexschroeder.ch/view/2025-10-14-israel</guid>
-    </item>    <item>
-      <title>Release Notes for Safari Technology Preview 230</title>
-      <link>https://webkit.org/blog/17504/release-notes-for-safari-technology-preview-230/</link>
-      <description>
-        <![CDATA[Safari Technology Preview Release 230 is now available for download for macOS Tahoe and macOS Sequoia.]]>
-      </description>
-      <source:markdown>Safari Technology Preview Release 230 is now available for download for macOS Tahoe and macOS Sequoia.</source:markdown>
-      <guid>cid://https://webkit.org/?p=17504</guid>
-    </item>    <item>
-      <title>★ The Just Plain M5 Chip Launches in Three Updated Products: 14-Inch MacBook Pro, iPad Pro (Both Sizes), and Some Sort of Headset Thingamajig Called Vision Pro</title>
-      <link>https://daringfireball.net/2025/10/m5_chip_launches_with_macbook_pro_ipad_pro_vision_pro</link>
-      <description>
-        <![CDATA[Thoughts and observations on the new M5 MacBook  Pro, iPad Pros, and Vision Pro.]]>
-      </description>
-      <source:markdown>Thoughts and observations on the new M5 MacBook Pro, iPad Pros, and Vision Pro.</source:markdown>
-      <guid>cid://tag:daringfireball.net,2025://1.42271</guid>
-    </item>    <item>
-      <title>Quoting Catherine Wu</title>
-      <link>https://simonwillison.net/2025/Oct/15/catherine-wu/#atom-everything</link>
-      <description>
-        <![CDATA[<blockquote cite="https://twitter.com/_catwu/status/1978509174897053925"><p>While Sonnet 4.5 remains the default [in Claude Code], Haiku 4.5 now powers the Explore subagent which can rapidly gather context on your codebase to build apps even faster.</p>
-        <p>You can select Haiku 4.5 to be your default model in /model. When selected, you’ll automatically use Sonnet 4.5 in Plan mode and Haiku 4.5 for execution for smarter plans and faster results.</p></blockquote>
-        <p class="cite">&mdash; <a href="https://twitter.com/_catwu/status/1978509174897053925">Catherine Wu</a>, Claude Code PM, Anthropic</p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/sub-agents">sub-agents</a></p>]]>
-      </description>
-      <source:markdown>&#62; While Sonnet 4.5 remains the default \[in Claude Code\], Haiku 4.5 now powers the Explore subagent which can rapidly gather context on your codebase to build apps even faster.
-&#62;
-&#62; You can select Haiku 4.5 to be your default model in /model. When selected, you’ll automatically use Sonnet 4.5 in Plan mode and Haiku 4.5 for execution for smarter plans and faster results.
-
-— [Catherine Wu](https://twitter.com/_catwu/status/1978509174897053925), Claude Code PM, Anthropic
-
-Tags: [coding-agents](https://simonwillison.net/tags/coding-agents), [anthropic](https://simonwillison.net/tags/anthropic), [claude-code](https://simonwillison.net/tags/claude-code), [generative-ai](https://simonwillison.net/tags/generative-ai), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms), [sub-agents](https://simonwillison.net/tags/sub-agents)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/15/catherine-wu/#atom-everything</guid>
-    </item>    <item>
-      <title>The Hatch Act? Wassat? Who cares?</title>
-      <link>https://robertreich.substack.com/p/the-trump-regime-is-wildly-violating</link>
-      <description>
-        <![CDATA[The propaganda spewing from Trump&#8217;s departments and agencies is illegal]]>
-      </description>
-      <source:markdown>The propaganda spewing from Trump’s departments and agencies is illegal</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!16-T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1dd778a3-4530-4e6a-89d1-5062e182d93c_3432x3499.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/the-trump-regime-is-wildly-violating</guid>
-    </item>    <item>
-      <title>October 14, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/october-14-2025-fbd</link>
-      <enclosure url="https://api.substack.com/feed/podcast/176268248/e94fc5be2882fcda33471c011936968f.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/october-14-2025-fbd</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m3azseoyos2e</link>
-      <description>
-        <![CDATA[Rethinking how I talk about  the web. I now start with hypertext as Markdown. Much easier for writers. Beats starting with HTML, CSS, JavaScript over HTTP protocol... Most of the data science people I know already are writing in Markdown. I am playing catch-up to their practice.
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <source:markdown>Rethinking how I talk about the web. I now start with hypertext as Markdown. Much easier for writers. Beats starting with HTML, CSS, JavaScript over HTTP protocol... Most of the data science people I know already are writing in Markdown. I am playing catch-up to their practice.
-
-\[contains quote post or other embedded content\]</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m3azseoyos2e</guid>
-    </item>    <item>
-      <title>Wednesday session</title>
-      <link>https://adactio.com/notes/22192</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22192/small.jpg" srcset="https://adactio.com/images/uploaded/22192/medium.jpg 1.5x, https://adactio.com/images/uploaded/22192/large.jpg 2.5x" alt="Wednesday session" />
-        <p>Wednesday session</p>]]>
-      </description>
-      <source:markdown>![Wednesday session](https://adactio.com/images/uploaded/22192/small.jpg)
-
-Wednesday session</source:markdown>
-      <guid>cid://https://adactio.com/notes/22192</guid>
-    </item>    <item>
-      <title>Introducing Claude Haiku 4.5</title>
-      <link>https://simonwillison.net/2025/Oct/15/claude-haiku-45/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://www.anthropic.com/news/claude-haiku-4-5">Introducing Claude Haiku 4.5</a></strong></p>
-        Anthropic released Claude Haiku 4.5 today, the cheapest member of the Claude 4.5 family that started with Sonnet 4.5 <a href="https://simonwillison.net/2025/Sep/29/claude-sonnet-4-5/">a couple of weeks ago</a>.</p>
-        <p>It's priced at $1/million input tokens and $5/million output tokens, slightly more expensive than Haiku 3.5 ($0.80/$4) and a <em>lot</em> more expensive than the original Claude 3 Haiku ($0.25/$1.25), both of which remain available at those prices.</p>
-        <p>It's a third of the price of Sonnet 4 and Sonnet 4.5 (both $3/$15) which is notable because Anthropic's benchmarks put it in a similar space to that older Sonnet 4 model. As they put it:</p>
-        <blockquote>
-        <p>What was recently at the frontier is now cheaper and faster. Five months ago, Claude Sonnet 4 was a state-of-the-art model. Today, Claude Haiku 4.5 gives you similar levels of coding performance but at one-third the cost and more than twice the speed.</p>
-        </blockquote>
-        <p>I've been hoping to see Anthropic release a fast, inexpensive model that's price competitive with the cheapest models from OpenAI and Gemini, currently $0.05/$0.40 (GPT-5-Nano) and $0.075/$0.30 (Gemini 2.0 Flash Lite). Haiku 4.5 certainly isn't that, it looks like they're continuing to focus squarely on the "great at code" part of the market.</p>
-        <p>The new Haiku is the first Haiku model to support reasoning. It sports a 200,000 token context window, 64,000 maximum output (up from just 8,192 for Haiku 3.5) and a "reliable knowledge cutoff" of February 2025, one month later than the January 2025 date for Sonnet 4 and 4.5 and Opus 4 and 4.1.</p>
-        <p>Something that caught my eye in the accompanying <a href="https://assets.anthropic.com/m/99128ddd009bdcb/original/Claude-Haiku-4-5-System-Card.pdf">system card</a> was this note about context length:</p>
-        <blockquote>
-        <p>For Claude Haiku 4.5, we trained the model to be explicitly context-aware, with precise information about how much context-window has been used. This has two effects: the model learns when and how to wrap up its answer when the limit is approaching, and the model learns to continue reasoning more persistently when the limit is further away. We found this intervention—along with others—to be effective at limiting agentic “laziness” (the phenomenon where models stop working on a problem prematurely, give incomplete answers, or cut corners on tasks).</p>
-        </blockquote>
-        <p>I've added the new price to <a href="https://www.llm-prices.com/">llm-prices.com</a>, released <a href="https://github.com/simonw/llm-anthropic/releases/tag/0.20">llm-anthropic 0.20</a> with the new model and updated my <a href="https://tools.simonwillison.net/haiku">Haiku-from-your-webcam</a> demo (<a href="https://github.com/simonw/tools/blob/main/haiku.html">source</a>) to use Haiku 4.5 as well.</p>
-        <p>Here's <code>llm -m claude-haiku-4.5 'Generate an SVG of a pelican riding a bicycle'</code> (<a href="https://gist.github.com/simonw/31256c523fa502eeb303b8e0bbe30eee">transcript</a>).</p>
-        <p><img alt="Described by Haiku 4.5: A whimsical illustration of a bird with a round tan body, pink beak, and orange legs riding a bicycle against a blue sky and green grass background." src="https://static.simonwillison.net/static/2025/claude-haiku-4.5-pelican.jpg" /></p>
-        <p>18 input tokens and 1513 output tokens = <a href="https://www.llm-prices.com/#it=18&amp;ot=1513&amp;ic=1&amp;oc=5">0.7583 cents</a>.
-        
-            <p><small></small>Via <a href="https://news.ycombinator.com/item?id=45595403">Hacker News</a></small></p>
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a></p>]]>
-      </description>
-      <source:markdown>**[Introducing Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5)**
-
-Anthropic released Claude Haiku 4.5 today, the cheapest member of the Claude 4.5 family that started with Sonnet 4.5 [a couple of weeks ago](https://simonwillison.net/2025/Sep/29/claude-sonnet-4-5/).
-
-It&#39;s priced at $1/million input tokens and $5/million output tokens, slightly more expensive than Haiku 3.5 ($0.80/$4) and a _lot_ more expensive than the original Claude 3 Haiku ($0.25/$1.25), both of which remain available at those prices.
-
-It&#39;s a third of the price of Sonnet 4 and Sonnet 4.5 (both $3/$15) which is notable because Anthropic&#39;s benchmarks put it in a similar space to that older Sonnet 4 model. As they put it:
-
-&#62; What was recently at the frontier is now cheaper and faster. Five months ago, Claude Sonnet 4 was a state-of-the-art model. Today, Claude Haiku 4.5 gives you similar levels of coding performance but at one-third the cost and more than twice the speed.
-
-I&#39;ve been hoping to see Anthropic release a fast, inexpensive model that&#39;s price competitive with the cheapest models from OpenAI and Gemini, currently $0.05/$0.40 (GPT-5-Nano) and $0.075/$0.30 (Gemini 2.0 Flash Lite). Haiku 4.5 certainly isn&#39;t that, it looks like they&#39;re continuing to focus squarely on the &#34;great at code&#34; part of the market.
-
-The new Haiku is the first Haiku model to support reasoning. It sports a 200,000 token context window, 64,000 maximum output (up from just 8,192 for Haiku 3.5) and a &#34;reliable knowledge cutoff&#34; of February 2025, one month later than the January 2025 date for Sonnet 4 and 4.5 and Opus 4 and 4.1.
-
-Something that caught my eye in the accompanying [system card](https://assets.anthropic.com/m/99128ddd009bdcb/original/Claude-Haiku-4-5-System-Card.pdf) was this note about context length:
-
-&#62; For Claude Haiku 4.5, we trained the model to be explicitly context-aware, with precise information about how much context-window has been used. This has two effects: the model learns when and how to wrap up its answer when the limit is approaching, and the model learns to continue reasoning more persistently when the limit is further away. We found this intervention—along with others—to be effective at limiting agentic “laziness” (the phenomenon where models stop working on a problem prematurely, give incomplete answers, or cut corners on tasks).
-
-I&#39;ve added the new price to [llm-prices.com](https://www.llm-prices.com/), released [llm-anthropic 0.20](https://github.com/simonw/llm-anthropic/releases/tag/0.20) with the new model and updated my [Haiku-from-your-webcam](https://tools.simonwillison.net/haiku) demo ( [source](https://github.com/simonw/tools/blob/main/haiku.html)) to use Haiku 4.5 as well.
-
-Here&#39;s `llm -m claude-haiku-4.5 &#39;Generate an SVG of a pelican riding a bicycle&#39;` ( [transcript](https://gist.github.com/simonw/31256c523fa502eeb303b8e0bbe30eee)).
-
-![Described by Haiku 4.5: A whimsical illustration of a bird with a round tan body, pink beak, and orange legs riding a bicycle against a blue sky and green grass background.](https://static.simonwillison.net/static/2025/claude-haiku-4.5-pelican.jpg)
-
-18 input tokens and 1513 output tokens = [0.7583 cents](https://www.llm-prices.com/#it=18&#38;ot=1513&#38;ic=1&#38;oc=5).
-
-
-
-Via [Hacker News](https://news.ycombinator.com/item?id=45595403)
-
-Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [llm](https://simonwillison.net/tags/llm), [anthropic](https://simonwillison.net/tags/anthropic), [claude](https://simonwillison.net/tags/claude), [llm-pricing](https://simonwillison.net/tags/llm-pricing), [pelican-riding-a-bicycle](https://simonwillison.net/tags/pelican-riding-a-bicycle), [llm-reasoning](https://simonwillison.net/tags/llm-reasoning), [llm-release](https://simonwillison.net/tags/llm-release)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/15/claude-haiku-45/#atom-everything</guid>
-    </item>    <item>
-      <title>Quoting Claude Haiku 4.5 System Card</title>
-      <link>https://simonwillison.net/2025/Oct/15/system-card/#atom-everything</link>
-      <description>
-        <![CDATA[<blockquote cite="https://assets.anthropic.com/m/99128ddd009bdcb/original/Claude-Haiku-4-5-System-Card.pdf"><p>Previous system cards have reported results on an expanded version of our earlier <a href="https://www.anthropic.com/research/agentic-misalignment">agentic misalignment evaluation suite</a>: three families of exotic scenarios meant to elicit the model to commit blackmail, attempt a murder, and frame someone for financial crimes. We choose not to report full results here because, similarly to Claude Sonnet 4.5, Claude Haiku 4.5 showed many clear examples of verbalized evaluation awareness on all three of the scenarios tested in this suite. Since the suite only consisted of many similar variants of three core scenarios, we expect that the model maintained high unverbalized awareness across the board, and we do not trust it to be representative of behavior in the real extreme situations the suite is meant to emulate.</p></blockquote>
-        <p class="cite">&mdash; <a href="https://assets.anthropic.com/m/99128ddd009bdcb/original/Claude-Haiku-4-5-System-Card.pdf">Claude Haiku 4.5 System Card</a></p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>]]>
-      </description>
-      <source:markdown>&#62; Previous system cards have reported results on an expanded version of our earlier [agentic misalignment evaluation suite](https://www.anthropic.com/research/agentic-misalignment): three families of exotic scenarios meant to elicit the model to commit blackmail, attempt a murder, and frame someone for financial crimes. We choose not to report full results here because, similarly to Claude Sonnet 4.5, Claude Haiku 4.5 showed many clear examples of verbalized evaluation awareness on all three of the scenarios tested in this suite. Since the suite only consisted of many similar variants of three core scenarios, we expect that the model maintained high unverbalized awareness across the board, and we do not trust it to be representative of behavior in the real extreme situations the suite is meant to emulate.
-
-— [Claude Haiku 4.5 System Card](https://assets.anthropic.com/m/99128ddd009bdcb/original/Claude-Haiku-4-5-System-Card.pdf)
-
-Tags: [ai-ethics](https://simonwillison.net/tags/ai-ethics), [anthropic](https://simonwillison.net/tags/anthropic), [claude](https://simonwillison.net/tags/claude), [generative-ai](https://simonwillison.net/tags/generative-ai), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/15/system-card/#atom-everything</guid>
-    </item>    <item>
-      <title>A great desert lies ahead of me</title>
-      <link>https://news.lettersofnote.com/p/a-great-desert-lies-ahead-of-me</link>
-      <description>
-        <![CDATA[A touching letter from Edith Wharton]]>
-      </description>
-      <source:markdown>A touching letter from Edith Wharton</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!3xuh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb529992c-cf6f-44a4-946d-9d7c189a897d_700x643.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://news.lettersofnote.com/p/a-great-desert-lies-ahead-of-me</guid>
-    </item>    <item>
-      <title>Magallanes (BIFF 11): crónica de fieras humanidades</title>
-      <link>https://www.palomitademaiz.net/resenas-magallanes-biff-11/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-magallanes-biff-11</link>
-      <description>
-        <![CDATA[<p>Sección: Masters. Dirección: Lav Diaz. Guion: Lav Diaz. Elenco: Gael García Bernal, Amado Arjay Babon, Ângela Azevedo, Hazel Orencio, Ronnie Lazaro, Tomás Alves, Roger Alan Koza. Países: Portugal, España, Filipinas, Francia, Taiwán. Más información de la película: https://www.imdb.com/title/tt36456563/  “En este Reino, aunque es poca tierra, se han hecho tantas y tan grandes crueldades que, si [&#8230;]</p>
-        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-magallanes-biff-11/">Magallanes (BIFF 11): crónica de fieras humanidades</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
-      </description>
-      <source:markdown>Sección: Masters. Dirección: Lav Diaz. Guion: Lav Diaz. Elenco: Gael García Bernal, Amado Arjay Babon, Ângela Azevedo, Hazel Orencio, Ronnie Lazaro, Tomás Alves, Roger Alan Koza. Países: Portugal, España, Filipinas, Francia, Taiwán. Más información de la película: https://www.imdb.com/title/tt36456563/  “En este Reino, aunque es poca tierra, se han hecho tantas y tan grandes crueldades que, si \[…\]
-
-La entrada [Magallanes (BIFF 11): crónica de fieras humanidades](https://www.palomitademaiz.net/resenas-magallanes-biff-11/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
-      <guid>cid://https://www.palomitademaiz.net/?p=25646</guid>
-    </item>    <item>
-      <title>MacBook Pro (M5, 2025)</title>
-      <link>https://mjtsai.com/blog/2025/10/15/macbook-pro-m5-2025/</link>
-      <description>
-        <![CDATA[Apple (Hacker News, MacRumors, Slashdot): With M5, the 14-inch MacBook Pro gets even faster, more capable, and delivers a huge leap in AI performance. [&#8230;] Additionally, it offers phenomenal battery life of up to 24 hours, so users can take their pro workflows anywhere. With the latest storage technology, the new 14-inch MacBook Pro with [&#8230;]]]>
-      </description>
-      <source:markdown>Apple (Hacker News, MacRumors, Slashdot): With M5, the 14-inch MacBook Pro gets even faster, more capable, and delivers a huge leap in AI performance. \[…\] Additionally, it offers phenomenal battery life of up to 24 hours, so users can take their pro workflows anywhere. With the latest storage technology, the new 14-inch MacBook Pro with \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49640</guid>
-    </item>    <item>
-      <title>iPad Pro (M5, 8th Generation)</title>
-      <link>https://mjtsai.com/blog/2025/10/15/ipad-pro-m5-8th-generation/</link>
-      <description>
-        <![CDATA[Apple (Hacker News, MacRumors, MacStories): M5 unlocks the most advanced iPad experience ever, packing an incredible amount of power and AI performance into the ultraportable design of iPad Pro. [&#8230;] N1, the new Apple-designed wireless networking chip, enables the latest generation of wireless technologies with support for Wi-Fi 7 on iPad Pro. The C1X modem [&#8230;]]]>
-      </description>
-      <source:markdown>Apple (Hacker News, MacRumors, MacStories): M5 unlocks the most advanced iPad experience ever, packing an incredible amount of power and AI performance into the ultraportable design of iPad Pro. \[…\] N1, the new Apple-designed wireless networking chip, enables the latest generation of wireless technologies with support for Wi-Fi 7 on iPad Pro. The C1X modem \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49638</guid>
-    </item>    <item>
-      <title>Apple Vision Pro (M5, 2025)</title>
-      <link>https://mjtsai.com/blog/2025/10/15/apple-vision-pro-m5-2025/</link>
-      <description>
-        <![CDATA[Apple (Hacker News, MacStories): Apple today introduced Apple Vision Pro with the powerful M5 chip that delivers a leap forward in performance, improved display rendering, faster AI-powered workflows, and extended battery life. The upgraded Vision Pro also comes with the soft, cushioned Dual Knit Band to help users achieve an even more comfortable fit, and [&#8230;]]]>
-      </description>
-      <source:markdown>Apple (Hacker News, MacStories): Apple today introduced Apple Vision Pro with the powerful M5 chip that delivers a leap forward in performance, improved display rendering, faster AI-powered workflows, and extended battery life. The upgraded Vision Pro also comes with the soft, cushioned Dual Knit Band to help users achieve an even more comfortable fit, and \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49636</guid>
-    </item>    <item>
-      <title>Apple M5</title>
-      <link>https://mjtsai.com/blog/2025/10/15/apple-m5/</link>
-      <description>
-        <![CDATA[Apple (Hacker News, MacRumors): Built using third-generation 3-nanometer technology, M5 introduces a next-generation 10-core GPU architecture with a Neural Accelerator in each core, enabling GPU-based AI workloads to run dramatically faster, with over 4x the peak GPU compute performance compared to M4. The GPU also offers enhanced graphics capabilities and third-generation ray tracing that combined [&#8230;]]]>
-      </description>
-      <source:markdown>Apple (Hacker News, MacRumors): Built using third-generation 3-nanometer technology, M5 introduces a next-generation 10-core GPU architecture with a Neural Accelerator in each core, enabling GPU-based AI workloads to run dramatically faster, with over 4x the peak GPU compute performance compared to M4. The GPU also offers enhanced graphics capabilities and third-generation ray tracing that combined \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49634</guid>
-    </item>    <item>
-      <title>Book: The Fax Club Experiment</title>
-      <link>https://cate.blog/2025/10/15/book-the-fax-club-experiment/</link>
-      <description>
-        <![CDATA[The Fax Club Experiment is an interesting book. 100 people signed up to receive a weekly prompt, via fax (!) and responded only under their assigned number. 32 people made it to the end, and the book is a selection of their responses. I enjoyed people&#8217;s deeper thoughts, separated from any knowledge of their identity. [&#8230;]]]>
-      </description>
-      <source:markdown>The Fax Club Experiment is an interesting book. 100 people signed up to receive a weekly prompt, via fax (!) and responded only under their assigned number. 32 people made it to the end, and the book is a selection of their responses. I enjoyed people’s deeper thoughts, separated from any knowledge of their identity. \[…\]</source:markdown>
-      <guid>cid://https://cate.blog/?p=61849</guid>
-    </item>    <item>
-      <title>Note published on October 15, 2025 at 5:51 PM UTC</title>
-      <link>https://www.mollywhite.net/micro/entry/202510151350</link>
-      <guid>cid://68efdf32c07d15a03fd1b7fb</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m3as5p4eis26</link>
-      <description>
-        <![CDATA[There's always been a fight over the true story of America. I believe deeply in the story that says we’re all created equal, and that if we can treat each other with decency and respect, all of us will be better off.
-        
-        I talk about this and more on the final episode of WTF with Marc Maron. Watch now:
-        https://www.youtube.com/watch?v=Hb2rKGfIOrM&t=184s"]]>
-      </description>
-      <source:markdown>There&#39;s always been a fight over the true story of America. I believe deeply in the story that says we’re all created equal, and that if we can treat each other with decency and respect, all of us will be better off.
-
-I talk about this and more on the final episode of WTF with Marc Maron. Watch now:
-https://www.youtube.com/watch?v=Hb2rKGfIOrM&#38;t=184s&#34;</source:markdown>
-      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m3as5p4eis26</guid>
-    </item>    <item>
-      <title>TiVo Stops Selling DVRs</title>
-      <link>https://cordcuttersnews.com/tivo-stops-selling-dvrs-marking-the-end-of-an-era/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42270</guid>
-    </item>    <item>
-      <title>Plainclothes: pasar de incógnito en la vida propia</title>
-      <link>https://www.palomitademaiz.net/resenas-plainclothes/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-plainclothes</link>
-      <description>
-        <![CDATA[<p>Dirección: Carmen Emmi. Guion: Carmen Emmi. Elenco: Tom Blyth, Russell Tovey, Amy Forsyth, Maria Dizzia, Christian Cooke, Gabe Fazio. País: Estados Unidos. Más información de la película: https://www.imdb.com/title/tt27550504/ Históricamente, la represión ha conducido a la clandestinidad. Cuando algo es mal visto socialmente, se manifiesta en miedo y vergüenza, creando submundos donde, aunque oculto, lo prohibido [&#8230;]</p>
-        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-plainclothes/">Plainclothes: pasar de incógnito en la vida propia</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
-      </description>
-      <source:markdown>Dirección: Carmen Emmi. Guion: Carmen Emmi. Elenco: Tom Blyth, Russell Tovey, Amy Forsyth, Maria Dizzia, Christian Cooke, Gabe Fazio. País: Estados Unidos. Más información de la película: https://www.imdb.com/title/tt27550504/ Históricamente, la represión ha conducido a la clandestinidad. Cuando algo es mal visto socialmente, se manifiesta en miedo y vergüenza, creando submundos donde, aunque oculto, lo prohibido \[…\]
-
-La entrada [Plainclothes: pasar de incógnito en la vida propia](https://www.palomitademaiz.net/resenas-plainclothes/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
-      <guid>cid://https://www.palomitademaiz.net/?p=25643</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m3air346r22z</link>
-      <description>
-        <![CDATA[I like the clarity in this statement of the problem for RISC OS and other 32-bit OS on newer ARM chips.
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <source:markdown>I like the clarity in this statement of the problem for RISC OS and other 32-bit OS on newer ARM chips.
-
-\[contains quote post or other embedded content\]</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m3air346r22z</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115378744720162905</link>
-      <description>
-        <![CDATA[<p>My low carb diet just ran into a brick wall.</p><p>These might be my best black beans I have ever made:</p>]]>
-      </description>
-      <source:markdown>My low carb diet just ran into a brick wall.
-
-These might be my best black beans I have ever made:</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115378744720162905</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m3ah26rcl22z</link>
-      <description>
-        <![CDATA[As is often the case Doc has interesting ideas. https://doc.searls.com/2025/10/15/my-three-hooks/]]>
-      </description>
-      <source:markdown>As is often the case Doc has interesting ideas. https://doc.searls.com/2025/10/15/my-three-hooks/</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m3ah26rcl22z</guid>
-    </item>    <item>
-      <title>The End of Windows 10 Support Is an E-Waste Disaster in the Making</title>
-      <link>https://www.404media.co/the-end-of-windows-10-support-is-an-e-waste-disaster-in-the-making/</link>
-      <description>
-        <![CDATA[In an example of egregious planned obsolescence, as many as 400 million computers will soon hit the waste stream.]]>
-      </description>
-      <source:markdown>In an example of egregious planned obsolescence, as many as 400 million computers will soon hit the waste stream.</source:markdown>
-      <guid>cid://68ee9eb68c55800001343cd0</guid>
-    </item>    <item>
-      <title>Lost Leaders Need a Compass</title>
-      <link>https://guykawasaki.substack.com/p/lost-leaders-need-a-compass</link>
-      <description>
-        <![CDATA[The Compass Your Leadership Is Missing]]>
-      </description>
-      <source:markdown>The Compass Your Leadership Is Missing</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!SgJy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F094db8a0-332e-4f1a-9128-d090cb8bf84f_2400x2667.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://guykawasaki.substack.com/p/lost-leaders-need-a-compass</guid>
-    </item>    <item>
-      <title>‘Halo Fund Announces Strategic Secondary Investment in 1Password’</title>
-      <link>https://www.businesswire.com/news/home/20251009156976/en/Halo-Fund-Announces-Strategic-Secondary-Investment-in-1Password</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42269</guid>
-    </item>    <item>
-      <title>Senators Warn Saudi Arabia’s Acquisition of EA Will Be Used for ‘Foreign Influence’</title>
-      <link>https://www.404media.co/senators-warn-saudi-arabias-acquisition-of-ea-will-be-used-for-foreign-influence/</link>
-      <description>
-        <![CDATA[‘The proposed transaction poses a number of significant foreign influence and national security risks.’]]>
-      </description>
-      <source:markdown>‘The proposed transaction poses a number of significant foreign influence and national security risks.’</source:markdown>
-      <guid>cid://68efa0428c55800001346ad3</guid>
-    </item>    <item>
-      <title>Raspberry Pi OS, LMDE, Peppermint OS join the Debian 13 club</title>
-      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/10/15/raspberry_pi_os_lmde_debian_13/</link>
-      <description>
-        <![CDATA[<h4>Downstream Linux projects line up behind the latest release</h4>
-              <p>A month after Debian 13.1&#39;s release, some of the more visible downstream forks, including Raspberry Pi OS, have decided it&#39;s time to incorporate the latest version of the main OS into their builds.</p>]]>
-      </description>
-      <source:markdown>#### Downstream Linux projects line up behind the latest release
-
-A month after Debian 13.1&#39;s release, some of the more visible downstream forks, including Raspberry Pi OS, have decided it&#39;s time to incorporate the latest version of the main OS into their builds.</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242480</guid>
-    </item>    <item>
-      <title>Podcast: Meta Tells Workers to ‘Go 5x Faster’ with AI</title>
-      <link>https://www.404media.co/podcast-meta-tells-workers-to-go-5x-faster-with-ai/</link>
-      <description>
-        <![CDATA[Meta tells its metaverse workers to push harder with AI; the massive Discord breach; and what happened when AI came for craft beer.]]>
-      </description>
-      <source:markdown>Meta tells its metaverse workers to push harder with AI; the massive Discord breach; and what happened when AI came for craft beer.</source:markdown>
-      <guid>cid://68ef97c88c558000013468b8</guid>
-    </item>    <item>
-      <title>From Habits to Tools</title>
-      <link>https://www.oreilly.com/radar/from-habits-to-tools/</link>
-      <description>
-        <![CDATA[This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. Read the original framework introduction and explore the complete methodology in Andrew Stellman’s O’Reilly report Critical Thinking Habits for Coding with AI. AI-assisted coding is here to stay. I&#8217;ve seen many companies now require all developers to install Copilot extensions [&#8230;]]]>
-      </description>
-      <source:markdown>This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. Read the original framework introduction and explore the complete methodology in Andrew Stellman’s O’Reilly report Critical Thinking Habits for Coding with AI. AI-assisted coding is here to stay. I’ve seen many companies now require all developers to install Copilot extensions \[…\]</source:markdown>
-      <guid>cid://https://www.oreilly.com/radar/?p=17557</guid>
-    </item>    <item>
-      <title>Six Is Not a Lot of Minutes</title>
-      <link>https://onefoottsunami.com/2025/10/15/six-is-not-a-lot-of-minutes/</link>
-      <guid>cid://https://onefoottsunami.com/?p=29296</guid>
-    </item>    <item>
-      <title>The accomplishments of WordPress</title>
-      <link>http://scripting.com/2025/10/15/120730.html?title=theAccomplishmentsOfWordpress</link>
-      <description>
-        <![CDATA[<p>One more slide <a href="http://scripting.com/2025/10/13/153514.html">from</a> the <a href="http://scripting.com/2025/10/12/182108.html">presentation</a>.</p>
-        <p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/10/15/accomplishmentsOfWordpress.png"></center>The accomplishments of WordPress.</div></p>
-        <p>And with that I'm off to Ottawa, seeking fame and fortune. <span class="spOldSchoolEmoji">😄</span></p>
-        <p>PS: One more <a href="https://imgs.scripting.com/2025/10/15/whyDidPodcasting.png">slide</a> for the road. </p>]]>
-      </description>
-      <source:markdown>One more slide [from](http://scripting.com/2025/10/13/153514.html) the [presentation](http://scripting.com/2025/10/12/182108.html).
-
-![](https://imgs.scripting.com/2025/10/15/accomplishmentsOfWordpress.png)The accomplishments of WordPress.
-
-And with that I&#39;m off to Ottawa, seeking fame and fortune. 😄
-
-PS: One more [slide](https://imgs.scripting.com/2025/10/15/whyDidPodcasting.png) for the road.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/15/120730.html</guid>
-    </item>    <item>
-      <title>High-precision date/time in C</title>
-      <link>https://antonz.org/vaqt/</link>
-      <description>
-        <![CDATA[Unix time, calendar time, time comparison, arithmetic, rounding, and marshaling.]]>
-      </description>
-      <source:markdown>Unix time, calendar time, time comparison, arithmetic, rounding, and marshaling.</source:markdown>
-      <guid>cid://https://antonz.org/vaqt/</guid>
-    </item>    <item>
-      <title>Qataris Reject Trump’s Idaho Offer and Demand Airbase at Mar-a-Lago</title>
-      <link>https://www.borowitzreport.com/p/qataris-reject-trumps-idaho-offer</link>
-      <description>
-        <![CDATA[&#8220;We gave you a 400-million-dollar 747. You&#8217;re not sticking us in some Idaho shithole.&#8221;]]>
-      </description>
-      <source:markdown>“We gave you a 400-million-dollar 747. You’re not sticking us in some Idaho shithole.”</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!j0GC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F536442a1-d79a-428a-bff0-d0ef2dcb47a1_1024x683.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/qataris-reject-trumps-idaho-offer</guid>
-    </item>    <item>
-      <title>Apple’s Bug Bounty Program</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/apples-bug-bounty-program.html</link>
-      <description>
-        <![CDATA[<p>Apple is now offering a <a href="https://arstechnica.com/security/2025/10/apple-ups-the-reward-for-finding-major-exploits-to-2-million/">$2M</a> <a href="https://www.csoonline.com/article/4071044/apple-bumps-rce-bug-bounties-to-2m-to-counter-commercial-spyware-vendors.html">bounty</a> for a zero-click exploit. According to <a href="https://security.apple.com/blog/apple-security-bounty-evolved/">the Apple website</a>:</p>
-        <blockquote><p>Today we’re announcing the next major chapter for Apple Security Bounty, featuring the industry’s highest rewards, expanded research categories, and a flag system for researchers to objectively demonstrate vulnerabilities and obtain accelerated awards.</p>
-        <ol>
-        <li>We’re doubling our top award to $2 million for exploit chains that can achieve similar goals as sophisticated mercenary spyware attacks. This is an unprecedented amount in the industry and the largest payout offered by any bounty program we’re aware of ­ and our bonus system, providing additional rewards for Lockdown Mode bypasses and vulnerabilities discovered in beta software, can more than double this reward, with a maximum payout in excess of $5 million. We’re also doubling or significantly increasing rewards in many other categories to encourage more intensive research. This includes $100,000 for a complete Gatekeeper bypass, and $1 million for broad unauthorized iCloud access, as no successful exploit has been demonstrated to date in either category.
-        ...</li></ol></blockquote>]]>
-      </description>
-      <source:markdown>Apple is now offering a [$2M](https://arstechnica.com/security/2025/10/apple-ups-the-reward-for-finding-major-exploits-to-2-million/) [bounty](https://www.csoonline.com/article/4071044/apple-bumps-rce-bug-bounties-to-2m-to-counter-commercial-spyware-vendors.html) for a zero-click exploit. According to [the Apple website](https://security.apple.com/blog/apple-security-bounty-evolved/):
-
-&#62; Today we’re announcing the next major chapter for Apple Security Bounty, featuring the industry’s highest rewards, expanded research categories, and a flag system for researchers to objectively demonstrate vulnerabilities and obtain accelerated awards.
-&#62;
-&#62; 1. We’re doubling our top award to $2 million for exploit chains that can achieve similar goals as sophisticated mercenary spyware attacks. This is an unprecedented amount in the industry and the largest payout offered by any bounty program we’re aware of ­ and our bonus system, providing additional rewards for Lockdown Mode bypasses and vulnerabilities discovered in beta software, can more than double this reward, with a maximum payout in excess of $5 million. We’re also doubling or significantly increasing rewards in many other categories to encourage more intensive research. This includes $100,000 for a complete Gatekeeper bypass, and $1 million for broad unauthorized iCloud access, as no successful exploit has been demonstrated to date in either category.
-&#62;    ...</source:markdown>
-      <guid>cid://https://www.schneier.com/?p=70981</guid>
-    </item>    <item>
-      <title>China Has Overtaken America</title>
-      <link>https://paulkrugman.substack.com/p/china-has-overtaken-america</link>
-      <description>
-        <![CDATA[And Trump&#8217;s policies guarantee that we will never catch up]]>
-      </description>
-      <source:markdown>And Trump’s policies guarantee that we will never catch up</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!TxD8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd57706c2-024b-412b-832d-e1c4a20f491e_1430x1238.png" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/china-has-overtaken-america</guid>
-    </item>    <item>
-      <title>Lit Hub Daily: October 15, 2025</title>
-      <link>https://lithub.com/lit-hub-daily-october-15-2025/</link>
-      <description>
-        <![CDATA[“But you are making plans / without a future and my now / is twisted into your crying.” Read “Entanglements,” a poem by Ursula K. Le Guin about cats. &#124; Lit Hub Poetry Anna North explores literature of the Roman]]>
-      </description>
-      <source:markdown>“But you are making plans / without a future and my now / is twisted into your crying.” Read “Entanglements,” a poem by Ursula K. Le Guin about cats. \| Lit Hub Poetry Anna North explores literature of the Roman</source:markdown>
-      <guid>cid://https://lithub.com/?p=261145</guid>
-    </item>    <item>
-      <title>Schleswig-Holstein waves auf Wiedersehen to Microsoft stack</title>
-      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/10/15/schleswig_holstein_open_source/</link>
-      <description>
-        <![CDATA[<h4>Germany&#39;s northernmost state bins Outlook – and tens of thousands of Redmond licenses</h4>
-              <p>Schleswig-Holstein, the northernmost state of Germany, has finally concluded one element of a long-running project to eject Microsoft from its infrastructure by giving Exchange Server the boot.</p>]]>
-      </description>
-      <source:markdown>#### Germany&#39;s northernmost state bins Outlook – and tens of thousands of Redmond licenses
-
-Schleswig-Holstein, the northernmost state of Germany, has finally concluded one element of a long-running project to eject Microsoft from its infrastructure by giving Exchange Server the boot.</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242465</guid>
-    </item>    <item>
-      <title>Magic Words: Programming the Next Generation of AI Applications</title>
-      <link>https://www.oreilly.com/radar/magic-words-programming-the-next-generation-of-ai-applications/</link>
-      <description>
-        <![CDATA[“Strange was obliged to invent most of the magic he did, working from general principles and half-remembered stories from old books.” — Susanna Clarke, Jonathan Strange &#38; Mr Norrell Fairy tales, myths, and fantasy fiction are full of magic spells. You say “abracadabra” and something profound happens.1 Say “open sesame” and the door swings open. [&#8230;]]]>
-      </description>
-      <source:markdown>“Strange was obliged to invent most of the magic he did, working from general principles and half-remembered stories from old books.” — Susanna Clarke, Jonathan Strange &#38; Mr Norrell Fairy tales, myths, and fantasy fiction are full of magic spells. You say “abracadabra” and something profound happens.1 Say “open sesame” and the door swings open. \[…\]</source:markdown>
-      <guid>cid://https://www.oreilly.com/radar/?p=17539</guid>
-    </item>    <item>
-      <title>Gesichtserkennung und Palantir: Dobrindts Überwachungspaket muss vom Tisch</title>
-      <link>https://www.ccc.de/de/updates/2025/gesichtserkennung-und-palantir-dobrindts-uberwachungspaket-muss-vom-tisch</link>
-      <description>
-        <![CDATA[Heute hat AlgorithmWatch zusammen mit Amnesty International, CCC, GFF und Ulrich Kelber ein Gutachten vorgelegt, das die Rechtswidrigkeit von Dobrindts Plänen zur biometrischen Massenüberwachung klar belegt. Auch seine unsäglichen Palantir-Ideen passen nicht in unsere Demokratie. Beide Vorhaben gehören ersatzlos gestrichen.]]>
-      </description>
-      <source:markdown>Heute hat AlgorithmWatch zusammen mit Amnesty International, CCC, GFF und Ulrich Kelber ein Gutachten vorgelegt, das die Rechtswidrigkeit von Dobrindts Plänen zur biometrischen Massenüberwachung klar belegt. Auch seine unsäglichen Palantir-Ideen passen nicht in unsere Demokratie. Beide Vorhaben gehören ersatzlos gestrichen.</source:markdown>
-      <guid>cid://https://www.ccc.de/de/993</guid>
-    </item>    <item>
-      <title>My Three Hooks</title>
-      <link>https://doc.searls.com/2025/10/15/my-three-hooks/</link>
-      <description>
-        <![CDATA[For many years, I attended an annual gathering of folks who wanted to save the Internet for future generations. Aspirational guidance was provided by the metaphor &#8220;big hooks:&#8221; ones meant for catching big fish. Since I was a kid, my life has always been about big hooks, especially ones that maximize personal and collective agency, [&#8230;]]]>
-      </description>
-      <source:markdown>For many years, I attended an annual gathering of folks who wanted to save the Internet for future generations. Aspirational guidance was provided by the metaphor “big hooks:” ones meant for catching big fish. Since I was a kid, my life has always been about big hooks, especially ones that maximize personal and collective agency, \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/?p=19428</guid>
-    </item>    <item>
-      <title>A Poem by Ursula K. Le Guin About Cats</title>
-      <link>https://lithub.com/a-poem-by-ursula-k-le-guin-about-cats/</link>
-      <description>
-        <![CDATA[“Entanglements” March 28 Black cat, amiable visitor, let’s give each other all the pleasure we can, quick, yes, sitting on each other in the sunlight and stroking each other with our hands and faces, being warm and tender and enjoyable,]]>
-      </description>
-      <source:markdown>“Entanglements” March 28 Black cat, amiable visitor, let’s give each other all the pleasure we can, quick, yes, sitting on each other in the sunlight and stroking each other with our hands and faces, being warm and tender and enjoyable,</source:markdown>
-      <guid>cid://https://lithub.com/?p=260820</guid>
-    </item>    <item>
-      <title>How Silicon Valley Became a Center of Reactionary, Anti-Democratic Politics</title>
-      <link>https://lithub.com/how-silicon-valley-became-a-center-of-reactionary-anti-democratic-politics/</link>
-      <description>
-        <![CDATA[With 881,000 people living in less than 47 square miles, San Francisco packs a tremendous amount of wealth and cultural influence into a fiercely unequal city. San Francisco is far smaller than Los Angeles, New York, London, or any of]]>
-      </description>
-      <source:markdown>With 881,000 people living in less than 47 square miles, San Francisco packs a tremendous amount of wealth and cultural influence into a fiercely unequal city. San Francisco is far smaller than Los Angeles, New York, London, or any of</source:markdown>
-      <guid>cid://https://lithub.com/?p=260685</guid>
-    </item>    <item>
-      <title>Between Taiwanese and Mandarin: Translation as a Test of Allegiance</title>
-      <link>https://lithub.com/between-china-and-america-translation-as-a-test-of-allegiance/</link>
-      <description>
-        <![CDATA[During my first semester of teaching in Taiwan, I was in the middle of a lesson on “Monsters and Ghosts” when a student’s hand shot up. His question was not really related to the content: “Teacher, do you think Taiwan]]>
-      </description>
-      <source:markdown>During my first semester of teaching in Taiwan, I was in the middle of a lesson on “Monsters and Ghosts” when a student’s hand shot up. His question was not really related to the content: “Teacher, do you think Taiwan</source:markdown>
-      <guid>cid://https://lithub.com/?p=260862</guid>
-    </item>    <item>
-      <title>Anna North Thinks About the Roman Empire All the Time</title>
-      <link>https://lithub.com/anna-north-thinks-about-the-roman-empire-all-the-time/</link>
-      <description>
-        <![CDATA[My father does not like to give unsolicited advice, and when I was going off to college, he gave me no warnings about drugs, drinking, or boys. He did, however, give me one tip: “Don’t study Latin.” He’d taken Latin]]>
-      </description>
-      <source:markdown>My father does not like to give unsolicited advice, and when I was going off to college, he gave me no warnings about drugs, drinking, or boys. He did, however, give me one tip: “Don’t study Latin.” He’d taken Latin</source:markdown>
-      <guid>cid://https://lithub.com/?p=260858</guid>
-    </item>    <item>
-      <title>Eli Rallo Is Totally Fine—Until She’s Not</title>
-      <link>https://lithub.com/eli-rallo-is-totally-fine-until-shes-not/</link>
-      <description>
-        <![CDATA[I worry so much about other people I often neglect to worry about myself. I care so much for other people I often forget to care for myself. I worry so much about other people worrying about me that I]]>
-      </description>
-      <source:markdown>I worry so much about other people I often neglect to worry about myself. I care so much for other people I often forget to care for myself. I worry so much about other people worrying about me that I</source:markdown>
-      <guid>cid://https://lithub.com/?p=261060</guid>
-    </item>    <item>
-      <title>Why is America’s First Great War of Empire Barely Remembered at Home?</title>
-      <link>https://lithub.com/why-is-americas-first-great-war-of-empire-barely-remembered-at-home/</link>
-      <description>
-        <![CDATA[At 9:39 PM on February 15, 1898, Clara Harlowe Barton was one minute away from a moment that would change her nation forever. That Tuesday night, she sat at her desk at Havana’s Hotel Inglaterra, plying through the pleas for]]>
-      </description>
-      <source:markdown>At 9:39 PM on February 15, 1898, Clara Harlowe Barton was one minute away from a moment that would change her nation forever. That Tuesday night, she sat at her desk at Havana’s Hotel Inglaterra, plying through the pleas for</source:markdown>
-      <guid>cid://https://lithub.com/?p=260717</guid>
-    </item>    <item>
-      <title>How Self-Satire Can Act as Catharsis</title>
-      <link>https://lithub.com/how-self-satire-can-act-as-catharsis/</link>
-      <description>
-        <![CDATA[Satire is often the most elegant way to interrogate society’s excesses, its shortcomings, its inequities, and its self-aggrandizement. Great satire hits a nerve. The use of humor may seem to soften the blow, but it lands a blow nonetheless on]]>
-      </description>
-      <source:markdown>Satire is often the most elegant way to interrogate society’s excesses, its shortcomings, its inequities, and its self-aggrandizement. Great satire hits a nerve. The use of humor may seem to soften the blow, but it lands a blow nonetheless on</source:markdown>
-      <guid>cid://https://lithub.com/?p=260869</guid>
-    </item>    <item>
-      <title>Happy Bad</title>
-      <link>https://lithub.com/happy-bad/</link>
-      <description>
-        <![CDATA[When Teresa first arrived, about a year back, she’d tried to smuggle in cocaine stuffed inside a ball of knitting yarn. No success! Kicks, shrieks. Sobriety. Headaches. Ravenous hunger, aversion to food. These were our dear and constant companions at]]>
-      </description>
-      <source:markdown>When Teresa first arrived, about a year back, she’d tried to smuggle in cocaine stuffed inside a ball of knitting yarn. No success! Kicks, shrieks. Sobriety. Headaches. Ravenous hunger, aversion to food. These were our dear and constant companions at</source:markdown>
-      <guid>cid://https://lithub.com/?p=260665</guid>
-    </item>    <item>
-      <title>Office Hours: REAL Peace in the Middle East?</title>
-      <link>https://robertreich.substack.com/p/office-hours-real-peace-in-the-middle</link>
-      <description>
-        <![CDATA[What&#8217;s the biggest obstacle now?]]>
-      </description>
-      <source:markdown>What’s the biggest obstacle now?</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!PJ3Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3942ef6b-8825-4be9-9957-db6af8ce0fef_621x414.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/office-hours-real-peace-in-the-middle</guid>
-    </item>    <item>
-      <title>Why did podcasting work?</title>
-      <link>https://links.daveverse.org/2025/10/15/why-did-podcasting-work/</link>
-      <description>
-        <![CDATA[<p>My theory is that we had..</p>
-        
-        <ul>
-        <li><p>An indisputable definition of audio. (MP3.)</p></li>
-        <li><p>A really simple format for programming. (RSS.)</p></li>
-        <li><p>And a popular mobile device for listening. (iPod.)</p></li>
-        </ul>
-        
-        <p>A million flowers bloomed. (Podcast clients.)</p>
-        
-        <p>Impossible to siloize. (They tried.)</p>]]>
-      </description>
-      <source:markdown>My theory is that we had..
-
-*   An indisputable definition of audio. (MP3.)
-
-*   A really simple format for programming. (RSS.)
-
-*   And a popular mobile device for listening. (iPod.)
-
-
-A million flowers bloomed. (Podcast clients.)
-
-Impossible to siloize. (They tried.)</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/15/why-did-podcasting-work/</guid>
-    </item>    <item>
-      <title>For instance, there is an engraved stone erected at the Buddhist Kan&#38;#8217;ei-ji...</title>
-      <link>https://kottke.org/25/10/0047709-for-instance-there-is-an</link>
-      <guid>cid://tag:kottke.org,2025://13.47709</guid>
-    </item>    <item>
-      <title>Current status: looking through Atlas Obscura&#38;#8217;s list of things to do in...</title>
-      <link>https://kottke.org/25/10/0047708-current-status-looking-th</link>
-      <guid>cid://tag:kottke.org,2025://13.47708</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m37lji2ork2x</link>
-      <description>
-        <![CDATA[👇truth.
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <source:markdown>👇truth.
-
-\[contains quote post or other embedded content\]</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m37lji2ork2x</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m37l4cy5a22x</link>
-      <description>
-        <![CDATA[Wow, that is bad.
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <source:markdown>Wow, that is bad.
-
-\[contains quote post or other embedded content\]</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m37l4cy5a22x</guid>
-    </item>    <item>
-      <link>https://techcrunch.com/2025/10/14/openai-has-five-years-to-turn-13-billion-into-1-trillion/</link>
-      <description>
-        <![CDATA[<p>OpenAI has five years to turn $13 billion into $1 trillion.</p>]]>
-      </description>
-      <source:markdown>OpenAI has five years to turn $13 billion into $1 trillion.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/15/1537/</guid>
-    </item>    <item>
-      <link>https://www.nytimes.com/2025/10/14/us/chicago-ice-trump.html?unlocked_article_code=1.tk8.jY2L.QjOv6M1ASWDN&#38;smid=url-share</link>
-      <description>
-        <![CDATA[<p>ICE Is Cracking Down on Chicago. Some Chicagoans Are Fighting Back.</p>]]>
-      </description>
-      <source:markdown>ICE Is Cracking Down on Chicago. Some Chicagoans Are Fighting Back.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/15/1535/</guid>
-    </item>    <item>
-      <title>A modern approach to preventing CSRF in Go</title>
-      <link>https://simonwillison.net/2025/Oct/15/csrf-in-go/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://www.alexedwards.net/blog/preventing-csrf-in-go">A modern approach to preventing CSRF in Go</a></strong></p>
-        Alex Edwards writes about the new <code>http.CrossOriginProtection</code> middleware that was added to the Go standard library in <a href="https://tip.golang.org/doc/go1.25">version 1.25</a> in August and asks:</p>
-        <blockquote>
-        <p>Have we finally reached the point where CSRF attacks can be prevented without relying on a token-based check (like double-submit cookies)?</p>
-        </blockquote>
-        <p>It looks like the answer might be <em>yes</em>, which is extremely exciting. I've been <a href="https://simonwillison.net/tags/csrf/">tracking CSRF</a> since I first learned about it <a href="https://simonwillison.net/2005/May/6/bad/">20 years ago in May 2005</a> and a cleaner solution than those janky hidden form fields would be very welcome.</p>
-        <p>The code for the new Go middleware lives in <a href="https://github.com/golang/go/blob/go1.25.0/src/net/http/csrf.go">src/net/http/csrf.go</a>. It works using the <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Sec-Fetch-Site">Sec-Fetch-Site</a> HTTP header, which Can I Use shows as having <a href="https://caniuse.com/mdn-http_headers_sec-fetch-site">94.18%</a> global availability - the holdouts are mainly IE11, iOS versions prior to iOS 17 (which came out in 2023 but can be installed on any phone released since 2017) and some other ancient browser versions.</p>
-        <p>If <code>Sec-Fetch-Site</code> is <code>same-origin</code> or <code>none</code> then the page submitting the form was either on the same origin or was navigated to directly by the user - in both cases safe from CSRF. If it's <code>cross-site</code> or <code>same-site</code> (<code>tools.simonwillison.net</code> and <code>til.simonwillison.net</code> are considered <code>same-site</code> but not <code>same-origin</code>) the submission is denied.</p>
-        <p>If that header isn't available the middleware falls back on comparing other headers: <code>Origin</code> - a value like <code>https://simonwillison.net</code> - with <code>Host</code>, a value like <code>simonwillison.net</code>. This should cover the tiny fraction of browsers that don't have the new header, though it's not clear to me if there are any weird edge-cases beyond that.</p>
-        <p>Note that this fallback comparison can't take the scheme into account since <code>Host</code> doesn't list that, so administrators are encouraged to use <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Strict-Transport-Security">HSTS</a> to protect against HTTP to HTTPS cross-origin requests.</p>
-        <p>On Lobste.rs I questioned if this would work for <code>localhost</code>, since that normally isn't served using HTTPS. Firefox security engineer Frederik Braun <a href="https://lobste.rs/s/fzw9g7/modern_approach_preventing_csrf_go#c_e24o9q">reassured me</a> that <code>*.localhost</code> is treated as a Secure Context, so gets the <code>Sec-Fetch-Site</code> header despite not being served via HTTPS.</p>
-        <p><strong>Update</strong>: Also relevant is <a href="https://words.filippo.io/csrf/">Filippo Valsorda's article in CSRF</a> which includes detailed research conducted as part of building the new Go middleware, plus this related <a href="https://bsky.app/profile/filippo.abyssdomain.expert/post/3lmyu7c25zq2o">Bluesky conversation</a> about that research from six months ago.
-        
-            <p><small></small>Via <a href="https://lobste.rs/s/fzw9g7/modern_approach_preventing_csrf_go">lobste.rs</a></small></p>
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/browsers">browsers</a>, <a href="https://simonwillison.net/tags/csrf">csrf</a>, <a href="https://simonwillison.net/tags/go">go</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/filippo-valsorda">filippo-valsorda</a></p>]]>
-      </description>
-      <source:markdown>**[A modern approach to preventing CSRF in Go](https://www.alexedwards.net/blog/preventing-csrf-in-go)**
-
-Alex Edwards writes about the new `http.CrossOriginProtection` middleware that was added to the Go standard library in [version 1.25](https://tip.golang.org/doc/go1.25) in August and asks:
-
-&#62; Have we finally reached the point where CSRF attacks can be prevented without relying on a token-based check (like double-submit cookies)?
-
-It looks like the answer might be _yes_, which is extremely exciting. I&#39;ve been [tracking CSRF](https://simonwillison.net/tags/csrf/) since I first learned about it [20 years ago in May 2005](https://simonwillison.net/2005/May/6/bad/) and a cleaner solution than those janky hidden form fields would be very welcome.
-
-The code for the new Go middleware lives in [src/net/http/csrf.go](https://github.com/golang/go/blob/go1.25.0/src/net/http/csrf.go). It works using the [Sec-Fetch-Site](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Sec-Fetch-Site) HTTP header, which Can I Use shows as having [94.18%](https://caniuse.com/mdn-http_headers_sec-fetch-site) global availability - the holdouts are mainly IE11, iOS versions prior to iOS 17 (which came out in 2023 but can be installed on any phone released since 2017) and some other ancient browser versions.
-
-If `Sec-Fetch-Site` is `same-origin` or `none` then the page submitting the form was either on the same origin or was navigated to directly by the user - in both cases safe from CSRF. If it&#39;s `cross-site` or `same-site` ( `tools.simonwillison.net` and `til.simonwillison.net` are considered `same-site` but not `same-origin`) the submission is denied.
-
-If that header isn&#39;t available the middleware falls back on comparing other headers: `Origin` \- a value like `https://simonwillison.net` \- with `Host`, a value like `simonwillison.net`. This should cover the tiny fraction of browsers that don&#39;t have the new header, though it&#39;s not clear to me if there are any weird edge-cases beyond that.
-
-Note that this fallback comparison can&#39;t take the scheme into account since `Host` doesn&#39;t list that, so administrators are encouraged to use [HSTS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Strict-Transport-Security) to protect against HTTP to HTTPS cross-origin requests.
-
-On Lobste.rs I questioned if this would work for `localhost`, since that normally isn&#39;t served using HTTPS. Firefox security engineer Frederik Braun [reassured me](https://lobste.rs/s/fzw9g7/modern_approach_preventing_csrf_go#c_e24o9q) that `*.localhost` is treated as a Secure Context, so gets the `Sec-Fetch-Site` header despite not being served via HTTPS.
-
-**Update**: Also relevant is [Filippo Valsorda&#39;s article in CSRF](https://words.filippo.io/csrf/) which includes detailed research conducted as part of building the new Go middleware, plus this related [Bluesky conversation](https://bsky.app/profile/filippo.abyssdomain.expert/post/3lmyu7c25zq2o) about that research from six months ago.
-
-
-
-Via [lobste.rs](https://lobste.rs/s/fzw9g7/modern_approach_preventing_csrf_go)
-
-Tags: [browsers](https://simonwillison.net/tags/browsers), [csrf](https://simonwillison.net/tags/csrf), [go](https://simonwillison.net/tags/go), [security](https://simonwillison.net/tags/security), [filippo-valsorda](https://simonwillison.net/tags/filippo-valsorda)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/15/csrf-in-go/#atom-everything</guid>
-    </item>    <item>
-      <title>October 14, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/october-14-2025</link>
-      <description>
-        <![CDATA[The government shutdown, which started on October 1, is entering its third week.]]>
-      </description>
-      <source:markdown>The government shutdown, which started on October 1, is entering its third week.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/october-14-2025</guid>
-    </item>    <item>
-      <title>Rapper 50 Cent, adjusted for inflation, is 109 Cent....</title>
-      <link>https://kottke.org/25/10/0047707-rapper-50-cent-adjusted-f</link>
-      <guid>cid://tag:kottke.org,2025://13.47707</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115375253797753190</link>
-      <description>
-        <![CDATA[<p>In Mexico, Chipotle Chili is our umami source.</p>]]>
-      </description>
-      <source:markdown>In Mexico, Chipotle Chili is our umami source.</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115375253797753190</guid>
-    </item>    <item>
-      <title>Announcing the New Rust Project Directors</title>
-      <link>https://blog.rust-lang.org/2025/10/15/announcing-the-new-rust-project-directors-2025/</link>
-      <guid>cid://https://blog.rust-lang.org/2025/10/15/announcing-the-new-rust-project-directors-2025/</guid>
-    </item>    <item>
-      <title>Subscribers can access the Portal through the main login</title>
-      <link>https://buttondown.com/blog/portal</link>
-      <description>
-        <![CDATA[Subscribers can access the Portal through the main login]]>
-      </description>
-      <source:markdown>Subscribers can access the Portal through the main login</source:markdown>
     </item>
   </channel>
 </rss>

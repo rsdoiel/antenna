@@ -7,10 +7,74 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>05 Nov 25 14:11 -0800</lastBuildDate>
+    <lastBuildDate>06 Nov 25 06:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>A new report says California should offer more schools more fire recovery support</title>
+      <link>https://laist.com/news/education/palisades-eaton-fire-pasadena-unified-lausd-fire-recovery-audit</link>
+      <description>
+        <![CDATA[A report from a state school advisory agency finds ongoing funding is needed to support public schools damaged by January’s wildfires.]]>
+      </description>
+      <source:markdown>A report from a state school advisory agency finds ongoing funding is needed to support public schools damaged by January’s wildfires.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5650-df8a-a3db-5670dcb50000</guid>
+    </item>    <item>
+      <title>Homes near Eaton Fire burn zone still test positive for lead and asbestos — even after cleaning</title>
+      <link>https://laist.com/news/housing-homelessness/altadena-eaton-fire-homes-post-remediation-testing-lead-asbestos</link>
+      <description>
+        <![CDATA[Residents compiled testing results for 50 remediated homes. One third still contained asbestos, and 63% contained elevated levels of lead. What does that mean for safety?]]>
+      </description>
+      <source:markdown>Residents compiled testing results for 50 remediated homes. One third still contained asbestos, and 63% contained elevated levels of lead. What does that mean for safety?</source:markdown>
+      <guid>cid://urn:uuid:0000019a-568e-de73-abba-d7ae99ad0000</guid>
+    </item>    <item>
+      <title>Heading to Solvang and Santa Ynez? Here are some great new eateries to check out</title>
+      <link>https://laist.com/news/food/heading-to-solvang-and-santa-ynez-here-are-some-great-new-eateries-to-check-out</link>
+      <description>
+        <![CDATA[Looking for a gastronomical getaway? The Santa Ynez Valley is chock-full of new restaurants to check out.]]>
+      </description>
+      <source:markdown>Looking for a gastronomical getaway? The Santa Ynez Valley is chock-full of new restaurants to check out.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-55a4-d2bc-a9df-77a5c5610000</guid>
+    </item>    <item>
+      <title>The Olympics are a multi-billion dollar business, and LA taxpayers could end up footing the bill</title>
+      <link>https://laist.com/news/los-angeles-hosting-2028-olympics-money-financial-taxpayers</link>
+      <description>
+        <![CDATA[The city's financial exposure is essentially unlimited in the event of budget overruns.]]>
+      </description>
+      <source:markdown>The city&#39;s financial exposure is essentially unlimited in the event of budget overruns.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-517c-ddbf-a9fe-7b7e486f0000</guid>
+    </item>    <item>
+      <title>Welcome to the new LAist.com. We&#39;ve made improvements with you in mind</title>
+      <link>https://laist.com/news/laist-news-website-relaunch-what-you-should-know</link>
+      <description>
+        <![CDATA[From more prominent video to easier ways to learn about the reporters bringing you the news, we're working hard to deliver engaging news and information to you.]]>
+      </description>
+      <source:markdown>From more prominent video to easier ways to learn about the reporters bringing you the news, we&#39;re working hard to deliver engaging news and information to you.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-511b-de73-abba-d7bf6a6b0000</guid>
+    </item>    <item>
+      <title>FAA will reduce air traffic by 10% at many airports to maintain safety</title>
+      <link>https://laist.com/news/faa-will-reduce-air-traffic-at-many-airports-to-maintain-safety</link>
+      <description>
+        <![CDATA[The Federal Aviation Administration will reduce air traffic at many busy airports to maintain safety during a government shutdown that has led to staffing shortages of air traffic controllers.]]>
+      </description>
+      <source:markdown>The Federal Aviation Administration will reduce air traffic at many busy airports to maintain safety during a government shutdown that has led to staffing shortages of air traffic controllers.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5676-d3d5-a59f-f776ff730001</guid>
+    </item>    <item>
+      <title>Lomita looks to double its parkland with US Navy deal</title>
+      <link>https://laist.com/news/climate-environment/la-county-lomita-baseball-field-us-navy-deal</link>
+      <description>
+        <![CDATA[The city is in the process of taking over about 6 acres of land where the local little league plays.]]>
+      </description>
+      <source:markdown>The city is in the process of taking over about 6 acres of land where the local little league plays.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-55b3-df8a-a3db-57f383900000</guid>
+    </item>    <item>
+      <title>Altadena woman who fell prey to immigration scam is ordered released from ICE detention</title>
+      <link>https://laist.com/news/altadena-woman-immigration-scam-ordered-released-from-ice-detention</link>
+      <description>
+        <![CDATA[Masuma Khan, 64, was detained at her annual immigration check in for her naturalization case.]]>
+      </description>
+      <source:markdown>Masuma Khan, 64, was detained at her annual immigration check in for her naturalization case.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5615-df8a-a3db-5675479e0000</guid>
+    </item>    <item>
       <title>LA Memorial Coliseum to host the 2028 Olympic closing ceremony, dropping SoFi Stadium</title>
       <link>https://laist.com/news/la-memorial-coliseum-to-host-the-2028-olympic-closing-ceremony-dropping-sofi-stadium</link>
       <description>
@@ -2831,159 +2895,6 @@ The post [Santa Clarita’s Día de Muertos Celebration](https://santaclarita.go
       </description>
       <source:markdown>Nearly three million containers moved through the Port of L.A. complex between July and September.</source:markdown>
       <guid>cid://urn:uuid:00000199-ea4b-dc80-a5fb-ef5b7d290000</guid>
-    </item>    <item>
-      <title>Survey of 2,300 fire survivors reflects long, steep road to recovery</title>
-      <link>https://laist.com/news/climate-environment/fire-survivors-recovery-survey</link>
-      <description>
-        <![CDATA[A new survey shows most Eaton and Palisades fire survivors face major obstacles to rebuild.]]>
-      </description>
-      <source:markdown>A new survey shows most Eaton and Palisades fire survivors face major obstacles to rebuild.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e9c5-dc1c-a3bd-e9cd2aed0000</guid>
-    </item>    <item>
-      <title>City controller tapped to help monitor LA’s compliance with agreement to create more shelter for unhoused people</title>
-      <link>https://laist.com/news/housing-homelessness/city-controller-los-angeles-compliance-agreement-create-shelter-unhoused-people</link>
-      <description>
-        <![CDATA[A federal judge wrote that Controller Kenneth Mejia is the most knowledgeable about the complex funding in the homelessness system.]]>
-      </description>
-      <source:markdown>A federal judge wrote that Controller Kenneth Mejia is the most knowledgeable about the complex funding in the homelessness system.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e9b6-dc1c-a3bd-e9ffe0650000</guid>
-    </item>    <item>
-      <title>The opening for the first part of LA Metro&#39;s D Line extension is delayed until early next year</title>
-      <link>https://laist.com/news/transportation/la-metro-d-line-extension-delay</link>
-      <description>
-        <![CDATA[Metro officials said it will be able to announce an opening date “soon.”]]>
-      </description>
-      <source:markdown>Metro officials said it will be able to announce an opening date “soon.”</source:markdown>
-      <guid>cid://urn:uuid:00000199-e9d5-dc80-a5fb-edddaacc0000</guid>
-    </item>    <item>
-      <title>LA County district attorney announces charges against 13 county employees for unemployment fraud</title>
-      <link>https://laist.com/news/criminal-justice/la-county-district-attorney-announces-charges-county-employees-unemployment-fraud</link>
-      <description>
-        <![CDATA[While working for the county, the DA’s office alleges that 13 employees fraudulently filed for unemployment, claiming to earn less than $600 a week.]]>
-      </description>
-      <source:markdown>While working for the county, the DA’s office alleges that 13 employees fraudulently filed for unemployment, claiming to earn less than $600 a week.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e99a-dc1c-a3bd-e9dfe1e40000</guid>
-    </item>    <item>
-      <title>More young people in California struggle with anxiety, stress and social media, study finds</title>
-      <link>https://laist.com/news/health/more-young-people-in-california-struggle-with-anxiety-stress-and-social-media-study-finds</link>
-      <description>
-        <![CDATA[Poor mental health is driven by affordability, gun violence, climate change and social media use, they say.]]>
-      </description>
-      <source:markdown>Poor mental health is driven by affordability, gun violence, climate change and social media use, they say.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e97c-dc1c-a3bd-e9fd18570000</guid>
-    </item>    <item>
-      <title>Newsom vetoes car dealers’ bill to hike fees on buyers</title>
-      <link>https://laist.com/news/politics/newsom-vetoes-car-dealers-bill-to-hike-fees-on-buyers</link>
-      <description>
-        <![CDATA[Gov. Gavin Newsom vetoed a bill that would have raised the fees when buying a vehicle in California and signed another to make purchase terms clear.]]>
-      </description>
-      <source:markdown>Gov. Gavin Newsom vetoed a bill that would have raised the fees when buying a vehicle in California and signed another to make purchase terms clear.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e8c9-dc1c-a3bd-e8cd21a30000</guid>
-    </item>    <item>
-      <title>42% of Americans Know Someone Who Died of Overdose</title>
-      <link>https://rand.org/pubs/podcasts/policy-minded/2025/42-percent-of-americans-know-someone-who-died-of-overdose.html</link>
-      <description>
-        <![CDATA[<p>Overdose remains the leading cause of death for Americans ages 18 to 44. RAND research shows the staggering reach of this crisis: More than 40 percent of Americans know someone who has died of a drug overdose. RAND's Alison Athey shares what's behind the numbers.</p>]]>
-      </description>
-      <source:markdown>Overdose remains the leading cause of death for Americans ages 18 to 44. RAND research shows the staggering reach of this crisis: More than 40 percent of Americans know someone who has died of a drug overdose. RAND&#39;s Alison Athey shares what&#39;s behind the numbers.</source:markdown>
-      <enclosure url="https://traffic.libsyn.com/clean/secure/policycurrents/014_Policy_Currents.mp3?dest-id=874184" length="27864492" type="audio/mpeg" />
-      <guid>cid://e775d0a9-84e9-4c72-b2f1-20fa922ca656</guid>
-    </item>    <item>
-      <title>Topanga Canyon Boulevard reopens after brief mudslide closure</title>
-      <link>https://laist.com/news/transportation/topanga-canyon-boulevard-closed-mudslide-october</link>
-      <description>
-        <![CDATA[Caltrans had earlier warned of an indefinite closure. A few hours later, more than 3 miles of the road, between PCH and Grand View Drive, reopened.]]>
-      </description>
-      <source:markdown>Caltrans had earlier warned of an indefinite closure. A few hours later, more than 3 miles of the road, between PCH and Grand View Drive, reopened.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e925-dc1c-a3bd-e9ed346e0000</guid>
-    </item>    <item>
-      <title>A Supreme Court ruling on voting rights could boost Republicans&#39; redistricting efforts</title>
-      <link>https://laist.com/news/politics/supreme-court-ruling-on-voting-rights-could-boost-republicans-redistricting-efforts</link>
-      <description>
-        <![CDATA[A Supreme Court case over Louisiana's congressional map could determine the future of Voting Rights Act protections against racial discrimination and allow Republicans to draw 19 more House seats.]]>
-      </description>
-      <source:markdown>A Supreme Court case over Louisiana&#39;s congressional map could determine the future of Voting Rights Act protections against racial discrimination and allow Republicans to draw 19 more House seats.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e8cd-dc80-a5fb-eddd0b540000</guid>
-    </item>    <item>
-      <title>California’s health insurance marketplace braces for chaos as shutdown persists</title>
-      <link>https://laist.com/news/health/californias-health-insurance-marketplace-braces-chaos-shutdown</link>
-      <description>
-        <![CDATA[If enhanced subsidies end, Covered California projects its enrollees will see their premium costs rise an average of 97%.]]>
-      </description>
-      <source:markdown>If enhanced subsidies end, Covered California projects its enrollees will see their premium costs rise an average of 97%.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e892-dc80-a5fb-eddaac0d0000</guid>
-    </item>    <item>
-      <title>California’s &#39;zone zero&#39; fire rules clash with LA’s need for shade</title>
-      <link>https://laist.com/news/climate-environment/california-zone-zero-los-angeles-shade</link>
-      <description>
-        <![CDATA[Homeowners in fire hazard zones may have to remove bushes, hedges and flowers within 5 feet of their houses — even as extreme heat becomes more dangerous.]]>
-      </description>
-      <source:markdown>Homeowners in fire hazard zones may have to remove bushes, hedges and flowers within 5 feet of their houses — even as extreme heat becomes more dangerous.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e406-dda8-a3bb-f50f8e190000</guid>
-    </item>    <item>
-      <title>Judge pauses shutdown layoffs at more than 30 federal agencies</title>
-      <link>https://laist.com/news/politics/thousands-of-federal-employees-are-getting-laid-off-will-a-judge-intervene</link>
-      <description>
-        <![CDATA[In a hearing on Wednesday, U.S. District Judge Susan Illston said the layoffs have brought a human cost that cannot be tolerated.]]>
-      </description>
-      <source:markdown>In a hearing on Wednesday, U.S. District Judge Susan Illston said the layoffs have brought a human cost that cannot be tolerated.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e7d5-dc80-a5fb-efdd7bd80000</guid>
-    </item>    <item>
-      <title>Israel keeps Gaza border crossing closed while reducing aid deliveries</title>
-      <link>https://laist.com/news/israel-keeps-gaza-border-crossing-closed-while-reducing-aid-deliveries</link>
-      <description>
-        <![CDATA[The ceasefire on Wednesday was largely holding, although Hamas described Israeli attacks in Gaza as violations of the agreement.]]>
-      </description>
-      <source:markdown>The ceasefire on Wednesday was largely holding, although Hamas described Israeli attacks in Gaza as violations of the agreement.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e7c9-de75-af9f-f7eba0e80000</guid>
-    </item>    <item>
-      <title>Supreme Court hears case that questions major plank of voting rights</title>
-      <link>https://laist.com/news/politics/supreme-court-hears-case-that-questions-major-plank-of-voting-rights</link>
-      <description>
-        <![CDATA[The Supreme Court on Wednesday hears a case that could strike down the last major part of the 1965 Voting Rights Act that remains standing.]]>
-      </description>
-      <source:markdown>The Supreme Court on Wednesday hears a case that could strike down the last major part of the 1965 Voting Rights Act that remains standing.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e7c1-d89a-a3b9-f7c760b10000</guid>
-    </item>    <item>
-      <title>Pasadena Unified faces up to $35M in cuts to resolve looming financial crisis</title>
-      <link>https://laist.com/news/education/pasadena-unified-school-district-budget-cuts-2025</link>
-      <description>
-        <![CDATA[PUSD plans to enact tens of millions of dollars in budget cuts next school year to stave off outside intervention.]]>
-      </description>
-      <source:markdown>PUSD plans to enact tens of millions of dollars in budget cuts next school year to stave off outside intervention.</source:markdown>
-      <guid>cid://urn:uuid:00000199-df4e-d89a-a3b9-ffcf79ba0000</guid>
-    </item>    <item>
-      <title>LA&#39;s official homeless tally increasingly undercounts people on the streets, RAND study finds</title>
-      <link>https://laist.com/news/housing-homelessness/lahsa-homeless-count-rand-accuracy-2025-volunteers-report-study</link>
-      <description>
-        <![CDATA[L.A. officials and volunteers undercounted in key neighborhoods by 32% this year, the study says. The agency that conducts the count says it welcomes the review but hasn't seen the numbers yet.]]>
-      </description>
-      <source:markdown>L.A. officials and volunteers undercounted in key neighborhoods by 32% this year, the study says. The agency that conducts the count says it welcomes the review but hasn&#39;t seen the numbers yet.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e554-d89a-a3b9-f5d790750000</guid>
-    </item>    <item>
-      <title>Calling young readers: You can design a bookmark for LA County libraries</title>
-      <link>https://laist.com/news/arts-and-entertainment/la-county-library-bookmark-design-contest-young-artists</link>
-      <description>
-        <![CDATA[The grand prize designs will be distributed across the library system.]]>
-      </description>
-      <source:markdown>The grand prize designs will be distributed across the library system.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e4bd-d89a-a3b9-f5bf5bf00000</guid>
-    </item>    <item>
-      <title>Food safety net for millions of SoCal residents is at risk next month if shutdown continues, officials warn</title>
-      <link>https://laist.com/news/calfresh-at-risk-if-shutdown-continues</link>
-      <description>
-        <![CDATA[CalFresh is one of several safety net programs facing a funding cliff if the shutdown — which has shown no sign of ending — drags on.]]>
-      </description>
-      <source:markdown>CalFresh is one of several safety net programs facing a funding cliff if the shutdown — which has shown no sign of ending — drags on.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e3e4-dc80-a5fb-effc96460000</guid>
-    </item>    <item>
-      <title>What does LA’s emergency declaration on the ICE raids mean?</title>
-      <link>https://laist.com/news/politics/what-does-las-emergency-declaration-on-the-ice-raids-mean</link>
-      <description>
-        <![CDATA[The L.A. County Board of Supervisors on Tuesday voted to declare immigration enforcement actions a local emergency.]]>
-      </description>
-      <source:markdown>The L.A. County Board of Supervisors on Tuesday voted to declare immigration enforcement actions a local emergency.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e48b-d8b9-a1bf-eedb6bf10000</guid>
     </item>
   </channel>
 </rss>
