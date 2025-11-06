@@ -4,10 +4,42 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>06 Nov 25 10:11 -0800</lastBuildDate>
+    <lastBuildDate>06 Nov 25 14:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Two charged in relation to fire at Drogheda IPAS centre</title>
+      <link>https://www.rte.ie/news/leinster/2025/1106/1542624-drogheda-fire-court/</link>
+      <description>
+        <![CDATA[Two men who were arrested in connection with the investigation into a fire at a building housing International Protection applicants in Co Louth have been charged and are due to appear before court.]]>
+      </description>
+      <source:markdown>Two men who were arrested in connection with the investigation into a fire at a building housing International Protection applicants in Co Louth have been charged and are due to appear before court.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/leinster/2025/1106/1542624-drogheda-fire-court/</guid>
+    </item>    <item>
+      <title>Saipan kicks off Irish premiere at Cork Film Festival</title>
+      <link>https://www.rte.ie/entertainment/2025/1106/1542598-saipan-kicks-off-irish-premiere-at-cork-film-festival/</link>
+      <description>
+        <![CDATA[The stars and filmmakers behind Saipan, a new film charting the explosive fallout between Roy Keane and Mick McCarthy during Ireland's 2002 World Cup preparations, opened the Cork International Film Festival this evening.]]>
+      </description>
+      <source:markdown>The stars and filmmakers behind Saipan, a new film charting the explosive fallout between Roy Keane and Mick McCarthy during Ireland&#39;s 2002 World Cup preparations, opened the Cork International Film Festival this evening.</source:markdown>
+      <guid>cid://https://www.rte.ie/entertainment/2025/1106/1542598-saipan-kicks-off-irish-premiere-at-cork-film-festival/</guid>
+    </item>    <item>
+      <title>&#39;Some progress&#39; in school secretaries, caretakers dispute</title>
+      <link>https://www.rte.ie/news/ireland/2025/1106/1542614-secretaries-caretakers-dispute/</link>
+      <description>
+        <![CDATA[Union sources have said that there was "some progress" made in the latest round of talks on access to pensions for school secretaries and caretakers.]]>
+      </description>
+      <source:markdown>Union sources have said that there was &#34;some progress&#34; made in the latest round of talks on access to pensions for school secretaries and caretakers.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/1106/1542614-secretaries-caretakers-dispute/</guid>
+    </item>    <item>
+      <title>Shirley Valentine actress Pauline Collins dies aged 85</title>
+      <link>https://www.rte.ie/entertainment/2025/1106/1542613-shirley-valentine-actress-pauline-collins-dies-aged-85/</link>
+      <description>
+        <![CDATA[Actress Pauline Collins, who starred in Shirley Valentine, has died at the age of 85, her family has announced.]]>
+      </description>
+      <source:markdown>Actress Pauline Collins, who starred in Shirley Valentine, has died at the age of 85, her family has announced.</source:markdown>
+      <guid>cid://https://www.rte.ie/entertainment/2025/1106/1542613-shirley-valentine-actress-pauline-collins-dies-aged-85/</guid>
+    </item>    <item>
       <title>Overcrowding contributing to deaths in prison - Inspector</title>
       <link>https://www.rte.ie/news/ireland/2025/1106/1542606-prison-report/</link>
       <description>
@@ -56,6 +88,14 @@
       <source:markdown>This year is on track to be the second or third warmest globally as an &#34;unprecedented streak&#34; of high temperatures continues, UN scientists have warned.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1106/1542589-cop30-climate-summit/</guid>
     </item>    <item>
+      <title>UN: &#39;Virtually impossible&#39; to achieve 1.5C climate target</title>
+      <link>https://www.rte.ie/news/environment/2025/1106/1542589-cop30-climate-summit/</link>
+      <description>
+        <![CDATA[This year is on track to be the second or third warmest globally as an "unprecedented streak" of high temperatures continues, UN scientists have warned.]]>
+      </description>
+      <source:markdown>This year is on track to be the second or third warmest globally as an &#34;unprecedented streak&#34; of high temperatures continues, UN scientists have warned.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/environment/2025/1106/1542589-cop30-climate-summit/</guid>
+    </item>    <item>
       <title>Israel launches strikes on Hezbollah targets in Lebanon</title>
       <link>https://www.rte.ie/news/middle-east/2025/1106/1542575-israel-hezbollah-lebanon/</link>
       <description>
@@ -64,12 +104,12 @@
       <source:markdown>The Israeli military has carried out heavy airstrikes on south Lebanon after issuing evacuation orders for three locations, saying Lebanese armed group Hezbollah was trying to rebuild its military capabilities there.</source:markdown>
       <guid>cid://https://www.rte.ie/news/middle-east/2025/1106/1542575-israel-hezbollah-lebanon/</guid>
     </item>    <item>
-      <title>Andrew&#39;s prince title and HRH style officially removed</title>
+      <title>Andrew asked to testify in US as titles formally removed</title>
       <link>https://www.rte.ie/news/world/2025/1106/1542577-andrew-hrh-title/</link>
       <description>
-        <![CDATA[Britain's King Charles III has officially stripped his disgraced brother Andrew Mountbatten Windsor of both his HRH style and his prince title.]]>
+        <![CDATA[US politicians have written to Britain's disgraced former prince Andrew requesting he sit for an interview about his friendship with sex offender Jeffrey Epstein.]]>
       </description>
-      <source:markdown>Britain&#39;s King Charles III has officially stripped his disgraced brother Andrew Mountbatten Windsor of both his HRH style and his prince title.</source:markdown>
+      <source:markdown>US politicians have written to Britain&#39;s disgraced former prince Andrew requesting he sit for an interview about his friendship with sex offender Jeffrey Epstein.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2025/1106/1542577-andrew-hrh-title/</guid>
     </item>    <item>
       <title>Pope Leo remembers Cardinal Duka as &#39;fearless proclaimer of the Gospel&#39;</title>
@@ -115,6 +155,16 @@
       </description>
       <source:markdown>A paediatric consultant doctor has described how staff in an operating theatre gasped when they saw the extent of the injuries on the face and body of a four-year-old boy.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1106/1542566-boy-injuries/</guid>
+    </item>    <item>
+      <title>Man who threw sandwich at U.S. federal agent found not guilty of assault</title>
+      <link>https://www.cbc.ca/news/world/national-guard-sandwich-thrown-verdict-9.6968277?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/1b64dcd9-be98-47a4-b445-cff016ee83d6,1762375018425/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C194%2C3663%2C2060%29%3BResize%3D%28620%29' alt='street art on a wall showing a guy throwing a sandwish' width='620' height='349' title='FILE - Posters of a person throwing a sandwich are pictured along H Street, Aug. 17, 2025, in Washington.  '/><p>The man who threw a sandwich and became symbol of resistance to U.S. President Donald Trump's D.C. law enforcement surge has been found not guilty of assault.</p>]]>
+      </description>
+      <source:markdown>![street art on a wall showing a guy throwing a sandwish](https://i.cbc.ca/ais/1b64dcd9-be98-47a4-b445-cff016ee83d6,1762375018425/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C194%2C3663%2C2060%29%3BResize%3D%28620%29)
+
+The man who threw a sandwich and became symbol of resistance to U.S. President Donald Trump&#39;s D.C. law enforcement surge has been found not guilty of assault.</source:markdown>
+      <guid>cid://9.6968277</guid>
     </item>    <item>
       <title>Pelosi, first woman to serve as House speaker, to retire</title>
       <link>https://www.rte.ie/news/us/2025/1106/1542559-nancy-pelosi-retirement/</link>
@@ -278,7 +328,7 @@
         <![CDATA[Tropical forests, vital allies in the fight against climate breakdown, are vanishing at an alarming rate. On Thursday, in a bid to help reverse this trend, Brazil launched a new initiative at a summit of world leaders in Belém, the gateway to the Amazon.]]>
       </description>
       <source:markdown>Tropical forests, vital allies in the fight against climate breakdown, are vanishing at an alarming rate. On Thursday, in a bid to help reverse this trend, Brazil launched a new initiative at a summit of world leaders in Belém, the gateway to the Amazon.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/05-11-2025-US-forest.jpg/image560x340cropped.jpg" length="75083" type="image/jpeg" />
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/10-06-2022-CIFOR-Brazil-rainforest.jpg/image560x340cropped.jpg" length="45831" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/11/1166290</guid>
     </item>    <item>
       <title>UN chief urges world leaders to drive down global warming</title>
@@ -298,6 +348,24 @@
       <source:markdown>The Second World Summit for Social Development concluded in Doha on Thursday with calls for countries to move swiftly from commitments to implementation, ensuring that the Doha Political Declaration delivers measurable progress on poverty reduction, decent work and social inclusion.</source:markdown>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2017/05/05-12-2017-escap-feat-07-1495035920.jpg/image560x340cropped.jpg" length="49864" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/11/1166291</guid>
+    </item>    <item>
+      <title>Israel has rejected over 100 aid requests since Gaza ceasefire, UN says</title>
+      <link>https://news.un.org/feed/view/en/story/2025/11/1166295</link>
+      <description>
+        <![CDATA[The United Nations said on Thursday that Israeli authorities have rejected more than 100 requests to bring relief materials into Gaza since the ceasefire began nearly a month ago.]]>
+      </description>
+      <source:markdown>The United Nations said on Thursday that Israeli authorities have rejected more than 100 requests to bring relief materials into Gaza since the ceasefire began nearly a month ago.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-10-2025-UNICEF-Gaza-01.jpg/image560x340cropped.jpg" length="28563" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/11/1166295</guid>
+    </item>    <item>
+      <title>Battlefields to wastelands: UN warns conflicts are destroying ecosystems worldwide</title>
+      <link>https://news.un.org/feed/view/en/story/2025/11/1166294</link>
+      <description>
+        <![CDATA[From Gaza to Ukraine and beyond, conflict has caused widespread death and destruction, but it has also devastated natural resources such as water systems, farmland and forests.&nbsp;]]>
+      </description>
+      <source:markdown>From Gaza to Ukraine and beyond, conflict has caused widespread death and destruction, but it has also devastated natural resources such as water systems, farmland and forests.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/19-12-2024_IOM_Somalia-02.jpg/image560x340cropped.jpg" length="36119" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/11/1166294</guid>
     </item>    <item>
       <title>Boeing officially off the hook for criminal charges in deadly crashes that killed 346 people</title>
       <link>https://www.cbc.ca/news/world/boeing-criminal-case-agreement-9.6969078?cmp=rss</link>
@@ -465,14 +533,18 @@ France&#39;s Louvre Museum began a security audit a decade ago but the recommend
       <source:markdown>Typhoon Kalmaegi made landfall in Vietnam&#39;s already storm-battered central belt today, where thousands have been evacuated from areas in the path of one of the world&#39;s deadliest cyclones this year.</source:markdown>
       <guid>cid://https://www.rte.ie/news/asia/2025/1106/1542447-philippines-vietnam-typhoon/</guid>
     </item>    <item>
-      <title>Vietnam evacuates hundreds of thousands ahead of Typhoon Kalmaegi, which left 114 dead in Philippines</title>
+      <title>Vietnam evacuates hundreds of thousands as Typhoon Kalmaegi lands after leaving 114 dead in Philippines</title>
       <link>https://www.cbc.ca/news/world/typhoon-kalmaegi-vietnam-philippine-9.6968843?cmp=rss</link>
       <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/587dd840-2ed2-4b56-aec8-ee06df95ee31,1762425989607/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2048%2C1152%29%3BResize%3D%28620%29' alt='Two cars are shown upended in muddy brown water near a line of shacks. ' width='620' height='349' title='Vehicles are stacked on top of each other due to flooding caused by Typhoon Kalmaegi, in Liloan, Cebu province, central Philippines on Thursday, Nov. 6, 2025. (AP Photo/Jacqueline Hernandez)'/><p>The death toll in the Philippines from Typhoon Kalmaegi rose to 114 with another 127 people still missing, the disaster agency said on Thursday, as the storm that devastated the country's central regions regained strength as it headed towards Vietnam.</p>]]>
+        <![CDATA[<img src='https://i.cbc.ca/ais/07a5b3e2-0ab8-433f-826e-181e39007454,1762453156049/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C708%2C6796%2C3822%29%3BResize%3D%28620%29' alt='Significant waves in a body of water are shown on a dreary-looking day with high-rises in the background.' width='620' height='349' title='TOPSHOT - Waves crash onto Quy Nhon beach ahead of the arrival of Typhoon Kalmaegi in Gia Lai province in central Vietnam on November 6, 2025. The typhoon is forecast to make landfall in central Vietnam late on November 6, bringing waves as high as eight metres (26 feet) and powerful storm surges, according to the national weather bureau. (Photo by NHAC NGUYEN / AFP) (Photo by NHAC NGUYEN/AFP via Getty Images)          '/><p>Typhoon Kalmaegi slammed into Vietnam on Thursday, forcing authorities to cancel hundreds of flights and order people to 
+        stay indoors, two days after the storm started sweeping across the Philippines, killing at least 114 people.
+         
+        </p>]]>
       </description>
-      <source:markdown>![Two cars are shown upended in muddy brown water near a line of shacks. ](https://i.cbc.ca/ais/587dd840-2ed2-4b56-aec8-ee06df95ee31,1762425989607/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2048%2C1152%29%3BResize%3D%28620%29)
+      <source:markdown>![Significant waves in a body of water are shown on a dreary-looking day with high-rises in the background.](https://i.cbc.ca/ais/07a5b3e2-0ab8-433f-826e-181e39007454,1762453156049/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C708%2C6796%2C3822%29%3BResize%3D%28620%29)
 
-The death toll in the Philippines from Typhoon Kalmaegi rose to 114 with another 127 people still missing, the disaster agency said on Thursday, as the storm that devastated the country&#39;s central regions regained strength as it headed towards Vietnam.</source:markdown>
+Typhoon Kalmaegi slammed into Vietnam on Thursday, forcing authorities to cancel hundreds of flights and order people to
+stay indoors, two days after the storm started sweeping across the Philippines, killing at least 114 people.</source:markdown>
       <guid>cid://9.6968843</guid>
     </item>    <item>
       <title>Plan to enhance Irish learning in schools announced</title>

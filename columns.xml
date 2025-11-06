@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>06 Nov 25 10:11 -0800</lastBuildDate>
+    <lastBuildDate>06 Nov 25 14:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,361 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Quoting Nathan Lambert</title>
+      <link>https://simonwillison.net/2025/Nov/6/nathan-lambert/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="https://www.interconnects.ai/p/kimi-k2-thinking-what-it-means"><p>At the start of the year, most people loosely following AI probably knew of 0 [Chinese] AI labs. Now, and towards wrapping up 2025, I’d say all of DeepSeek, Qwen, and Kimi are becoming household names. They all have seasons of their best releases and different strengths. The important thing is this’ll be a growing list. A growing share of cutting edge mindshare is shifting to China. I expect some of the likes of Z.ai, Meituan, or Ant Ling to potentially join this list next year. For some of these labs releasing top tier benchmark models, they literally started their foundation model effort after DeepSeek. It took many Chinese companies only 6 months to catch up to the open frontier in ballpark of performance, now the question is if they can offer something in a niche of the frontier that has real demand for users.</p></blockquote>
+        <p class="cite">&mdash; <a href="https://www.interconnects.ai/p/kimi-k2-thinking-what-it-means">Nathan Lambert</a>, 5 Thoughts on Kimi K2 Thinking</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/ai-in-china">ai-in-china</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/nathan-lambert">nathan-lambert</a></p>]]>
+      </description>
+      <source:markdown>&#62; At the start of the year, most people loosely following AI probably knew of 0 \[Chinese\] AI labs. Now, and towards wrapping up 2025, I’d say all of DeepSeek, Qwen, and Kimi are becoming household names. They all have seasons of their best releases and different strengths. The important thing is this’ll be a growing list. A growing share of cutting edge mindshare is shifting to China. I expect some of the likes of Z.ai, Meituan, or Ant Ling to potentially join this list next year. For some of these labs releasing top tier benchmark models, they literally started their foundation model effort after DeepSeek. It took many Chinese companies only 6 months to catch up to the open frontier in ballpark of performance, now the question is if they can offer something in a niche of the frontier that has real demand for users.
+
+— [Nathan Lambert](https://www.interconnects.ai/p/kimi-k2-thinking-what-it-means), 5 Thoughts on Kimi K2 Thinking
+
+Tags: [llms](https://simonwillison.net/tags/llms), [ai](https://simonwillison.net/tags/ai), [ai-in-china](https://simonwillison.net/tags/ai-in-china), [generative-ai](https://simonwillison.net/tags/generative-ai), [nathan-lambert](https://simonwillison.net/tags/nathan-lambert)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/6/nathan-lambert/#atom-everything</guid>
+    </item>    <item>
+      <title>All The Things [en]</title>
+      <link>https://climbtothestars.org/archives/2025/11/06/all-the-things/</link>
+      <description>
+        <![CDATA[[en] I&#8217;m writing this blog post thanks to Jeffrey. Because I kind of said I&#8217;d be able to blog today, and it&#8217;s just a bit past 8.30pm, the dishes are done, the cat has had his meds and insulin (so have I – the meds, not the insulin), even the clean laundry is in the cupboard. &#8230; <a href="https://climbtothestars.org/archives/2025/11/06/all-the-things/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>All The Things <span class='bb-lang'>[en]</span></span>"</span></a>]]>
+      </description>
+      <source:markdown>\[en\] I’m writing this blog post thanks to Jeffrey. Because I kind of said I’d be able to blog today, and it’s just a bit past 8.30pm, the dishes are done, the cat has had his meds and insulin (so have I – the meds, not the insulin), even the clean laundry is in the cupboard. … [Continue reading &#34;All The Things \[en\]&#34;](https://climbtothestars.org/archives/2025/11/06/all-the-things/)</source:markdown>
+      <guid>cid://https://climbtothestars.org/?p=10216</guid>
+    </item>    <item>
+      <title>Space Type Generator is &#38;#8220;a kinetic type generator&#38;#8221; that&#38;#8217;s a hell of...</title>
+      <link>https://kottke.org/25/11/0047778-space-type-generator-is-a</link>
+      <guid>cid://tag:kottke.org,2025://13.47778</guid>
+    </item>    <item>
+      <title>iOS 26.2 to Remove iPhone–Apple Watch Wi-Fi Sync in EU</title>
+      <link>https://mjtsai.com/blog/2025/11/06/ios-26-2-to-remove-iphone-apple-watch-wi-fi-sync-in-eu/</link>
+      <description>
+        <![CDATA[Tim Hardwick: Normally, when an iPhone connects to a new Wi-Fi network, it automatically shares the network credentials with the paired Apple Watch. This allows the watch to connect to the same network independently &#x2013; for example, when the iPhone isn&#8217;t nearby &#x2013; without the user needing to enter the password manually.The feature&#8217;s removal appears [&#8230;]]]>
+      </description>
+      <source:markdown>Tim Hardwick: Normally, when an iPhone connects to a new Wi-Fi network, it automatically shares the network credentials with the paired Apple Watch. This allows the watch to connect to the same network independently – for example, when the iPhone isn’t nearby – without the user needing to enter the password manually.The feature’s removal appears \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49957</guid>
+    </item>    <item>
+      <title>AirPods Live Translation Expands to the EU</title>
+      <link>https://mjtsai.com/blog/2025/11/06/airpods-live-translation-expands-to-the-eu/</link>
+      <description>
+        <![CDATA[Apple (9to5Mac, MacRumors, Reddit): Next month, Live Translation on AirPods will expand to the EU, making face-to-face conversations easier by helping users communicate even if they don&#8217;t speak the same language. [&#8230;] Live Translation on AirPods is available in English, French, German, Portuguese, Spanish, Italian, Chinese (Simplified and Traditional Mandarin), Japanese, and Korean when using [&#8230;]]]>
+      </description>
+      <source:markdown>Apple (9to5Mac, MacRumors, Reddit): Next month, Live Translation on AirPods will expand to the EU, making face-to-face conversations easier by helping users communicate even if they don’t speak the same language. \[…\] Live Translation on AirPods is available in English, French, German, Portuguese, Spanish, Italian, Chinese (Simplified and Traditional Mandarin), Japanese, and Korean when using \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49954</guid>
+    </item>    <item>
+      <title>Proposal to Settle Epic and Google Antitrust Case</title>
+      <link>https://mjtsai.com/blog/2025/11/06/proposal-to-settle-epic-and-google-antitrust-case/</link>
+      <description>
+        <![CDATA[Sean Hollister (PDF, Hacker News, Slashdot): Just when we thought Epic v. Google might be over, just one Supreme Court rejection away from a complete victory for Epic, both sides have agreed to settle Tuesday evening.[&#8230;]Now, instead, Google is agreeing to reduce its standard fee to 20 percent or 9 percent, depending on the kind [&#8230;]]]>
+      </description>
+      <source:markdown>Sean Hollister (PDF, Hacker News, Slashdot): Just when we thought Epic v. Google might be over, just one Supreme Court rejection away from a complete victory for Epic, both sides have agreed to settle Tuesday evening.\[…\]Now, instead, Google is agreeing to reduce its standard fee to 20 percent or 9 percent, depending on the kind \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49952</guid>
+    </item>    <item>
+      <title>Microsoft Australia Refunds for Office/Copilot Dark Pattern</title>
+      <link>https://mjtsai.com/blog/2025/11/06/microsoft-australia-refunds-for-office-copilot-dark-pattern/</link>
+      <description>
+        <![CDATA[Nassim Khadem (via Diego Barros): Microsoft has apologised to customers and said it will refund them, after the consumer watchdog alleged the tech giant misled about 2.7 million Australians over subscription costs so they would remain on more expensive plans.[&#8230;]Announcing the court action last week, the consumer watchdog slammed Microsoft for the conduct, alleging it [&#8230;]]]>
+      </description>
+      <source:markdown>Nassim Khadem (via Diego Barros): Microsoft has apologised to customers and said it will refund them, after the consumer watchdog alleged the tech giant misled about 2.7 million Australians over subscription costs so they would remain on more expensive plans.\[…\]Announcing the court action last week, the consumer watchdog slammed Microsoft for the conduct, alleging it \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49950</guid>
+    </item>    <item>
+      <title>Low Skilled Workers Are a Myth. &#38;#8220;[Minimum wage jobs] are not low-skill....</title>
+      <link>https://kottke.org/25/11/0047783-low-skilled-workers-are-a</link>
+      <guid>cid://tag:kottke.org,2025://13.47783</guid>
+    </item>    <item>
+      <link>https://electrek.co/2025/11/04/australia-has-so-much-solar-that-its-offering-everyone-free-electricity-3h-day/</link>
+      <description>
+        <![CDATA[<p>Australia has so much solar that it's offering everyone free electricity.</p>]]>
+      </description>
+      <source:markdown>Australia has so much solar that it&#39;s offering everyone free electricity.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/06/1827/</guid>
+    </item>    <item>
+      <title>How Marlon Brando Changed Acting</title>
+      <link>https://kottke.org/25/11/how-marlon-brando-changed-acting</link>
+      <guid>cid://tag:kottke.org,2025://5.47785</guid>
+    </item>    <item>
+      <title>Zepboundin&#39;: my first month on a GLP-1</title>
+      <link>https://a.wholelottanothing.org/zepboundin-my-first-month-on-a-glp-1/</link>
+      <description>
+        <![CDATA[<p>Today I finish my fourth 2.5mg injection of Zepbound, a strong GLP-1 drug, and I thought I&apos;d write about the experience of it, how I got here, and what I expect in the future. It&apos;s been wild, and after talking to half a dozen friends</p>]]>
+      </description>
+      <source:markdown>Today I finish my fourth 2.5mg injection of Zepbound, a strong GLP-1 drug, and I thought I&#39;d write about the experience of it, how I got here, and what I expect in the future. It&#39;s been wild, and after talking to half a dozen friends</source:markdown>
+      <guid>cid://690cdea692a90700017cb896</guid>
+    </item>    <item>
+      <title>OREO! OREOOREO! RE! ORE! OREORE! OREOREOREOREORE!...</title>
+      <link>https://kottke.org/25/11/0047776-oreo-oreooreo-re-ore-oreo</link>
+      <guid>cid://tag:kottke.org,2025://13.47776</guid>
+    </item>    <item>
+      <title>Video + notes on upgrading a Datasette plugin for the latest 1.0 alpha, with help from uv and OpenAI Codex CLI</title>
+      <link>https://simonwillison.net/2025/Nov/6/upgrading-datasette-plugins/#atom-everything</link>
+      <description>
+        <![CDATA[<p>I'm upgrading various plugins for compatibility with the new <a href="https://simonwillison.net/2025/Nov/4/datasette-10a20/">Datasette 1.0a20 alpha release</a> and I decided to record <a href="https://www.youtube.com/watch?v=qy4ci7AoF9Y">a video</a> of the process. This post accompanies that video with detailed additional notes.</p>
+        
+        <p><lite-youtube videoid="qy4ci7AoF9Y" js-api="js-api" title="My process for upgrading Datasette plugins with uv and OpenAI Codex CLI" playlabel="Play: My process for upgrading Datasette plugins with uv and OpenAI Codex CLI"> </lite-youtube></p>
+        
+        <h4 id="the-datasette-checkbox-plugin">The datasette-checkbox plugin</h4>
+        <p>I picked a very simple plugin to illustrate the upgrade process (possibly too simple). <a href="https://github.com/datasette/datasette-checkbox">datasette-checkbox</a> adds just one feature to Datasette: if you are viewing a table with boolean columns (detected as integer columns with names like <code>is_active</code> or <code>has_attachments</code> or <code>should_notify</code>) <em>and</em> your current user has permission to update rows in that table it adds an inline checkbox UI that looks like this:</p>
+        <p><img src="https://static.simonwillison.net/static/2025/datasette-checkbox.gif" alt="Animated demo of a table with name, is_done, should_be_deleted and is_happy columns. Each column has checkboxes, and clicking a checkboxflashes a little &quot;updated&quot; message." style="max-width: 100%;" /></p>
+        <p>I built the first version with the help of Claude back in August 2024 - details <a href="https://github.com/datasette/datasette-checkbox/issues/1#issuecomment-2294168693">in this issue comment</a>.</p>
+        <p>Most of the implementation is JavaScript that makes calls to Datasette 1.0's <a href="https://simonwillison.net/2022/Dec/2/datasette-write-api/">JSON write API</a>. The Python code just checks that the user has the necessary permissions before including the extra JavaScript.</p>
+        <h4 id="running-the-plugin-s-tests">Running the plugin's tests</h4>
+        <p>The first step in upgrading any plugin is to run its tests against the latest Datasette version.</p>
+        <p>Thankfully <code>uv</code> makes it easy to run code in scratch virtual environments that include the different code versions you want to test against.</p>
+        <p>I have a test utility called <code>tadd</code> (for "test against development Datasette") which I use for that purpose. I can run it in any plugin directory like this:</p>
+        <div class="highlight highlight-source-shell"><pre>tadd</pre></div>
+        <p>And it will run the existing plugin tests against whatever version of Datasette I have checked out in my <code>~/dev/datasette</code> directory.</p>
+        <p>You can see the full implementation of <code>tadd</code> (and its friend <code>radd</code> described below) <a href="https://til.simonwillison.net/python/uv-tests#variants-tadd-and-radd">in this TIL</a> - the basic version looks like this:</p>
+        <div class="highlight highlight-source-shell"><pre><span class="pl-c"><span class="pl-c">#!</span>/bin/sh</span>
+        uv run --no-project --isolated \
+          --with-editable <span class="pl-s"><span class="pl-pds">'</span>.[test]<span class="pl-pds">'</span></span> --with-editable <span class="pl-k">~</span>/dev/datasette \
+          python -m pytest <span class="pl-s"><span class="pl-pds">"</span><span class="pl-smi">$@</span><span class="pl-pds">"</span></span></pre></div>
+        <p>I started by running <code>tadd</code> in the <code>datasette-checkbox</code> directory, and got my first failure... but it wasn't due to permissions, it was because the <code>pyproject.toml</code> for the plugin was <a href="https://github.com/datasette/datasette-checkbox/blob/0.1a3/pyproject.toml#L13C1-L15C2">pinned</a> to a specific mismatched version of Datasette:</p>
+        <div class="highlight highlight-source-toml"><pre><span class="pl-smi">dependencies</span> = [
+            <span class="pl-s"><span class="pl-pds">"</span>datasette==1.0a19<span class="pl-pds">"</span></span>
+        ]</pre></div>
+        <p>I fixed this problem by swapping <code>==</code> to <code>&gt;=</code> and ran the tests again... and they passed! Which was a problem because I was expecting permission-related failures.</p>
+        <p>It turns out when I first wrote the plugin I was <a href="https://github.com/datasette/datasette-checkbox/blob/0.1a3/tests/test_checkbox.py">lazy with the tests</a> - they weren't actually confirming that the table page loaded without errors.</p>
+        <p>I needed to actually run the code myself to see the expected bug.</p>
+        <p>First I created myself a demo database using <a href="https://sqlite-utils.datasette.io/en/stable/cli.html#creating-tables">sqlite-utils create-table</a>:</p>
+        <div class="highlight highlight-source-shell"><pre>sqlite-utils create-table demo.db \
+          demo id integer is_checked integer --pk id</pre></div>
+        <p>Then I ran it with Datasette against the plugin's code like so:</p>
+        <div class="highlight highlight-source-shell"><pre>radd demo.db</pre></div>
+        <p>Sure enough, visiting <code>/demo/demo</code> produced a 500 error about the missing <code>Datasette.permission_allowed()</code> method.</p>
+        <p>The next step was to update the test to also trigger this error:</p>
+        <pre><span class="pl-en">@<span class="pl-s1">pytest</span>.<span class="pl-c1">mark</span>.<span class="pl-c1">asyncio</span></span>
+        <span class="pl-k">async</span> <span class="pl-k">def</span> <span class="pl-en">test_plugin_adds_javascript</span>():
+            <span class="pl-s1">datasette</span> <span class="pl-c1">=</span> <span class="pl-en">Datasette</span>()
+            <span class="pl-s1">db</span> <span class="pl-c1">=</span> <span class="pl-s1">datasette</span>.<span class="pl-c1">add_memory_database</span>(<span class="pl-s">"demo"</span>)
+            <span class="pl-k">await</span> <span class="pl-s1">db</span>.<span class="pl-c1">execute_write</span>(
+                <span class="pl-s">"CREATE TABLE IF NOT EXISTS test (id INTEGER PRIMARY KEY, is_active INTEGER)"</span>
+            )
+            <span class="pl-k">await</span> <span class="pl-s1">datasette</span>.<span class="pl-c1">invoke_startup</span>()
+            <span class="pl-s1">response</span> <span class="pl-c1">=</span> <span class="pl-k">await</span> <span class="pl-s1">datasette</span>.<span class="pl-c1">client</span>.<span class="pl-c1">get</span>(<span class="pl-s">"/demo/test"</span>)
+            <span class="pl-k">assert</span> <span class="pl-s1">response</span>.<span class="pl-c1">status_code</span> <span class="pl-c1">==</span> <span class="pl-c1">200</span></pre>
+        <p>And now <code>tadd</code> fails as expected.</p>
+        <h4 id="upgrading-the-plugin-with-codex">Upgrading the plugin with Codex</h4>
+        <p>It this point I could have manually fixed the plugin itself - which would likely have been faster given the small size of the fix - but instead I demonstrated a bash one-liner I've been using to apply these kinds of changes automatically:</p>
+        <div class="highlight highlight-source-shell"><pre>codex <span class="pl-c1">exec</span> --dangerously-bypass-approvals-and-sandbox \
+        <span class="pl-s"><span class="pl-pds">"</span>Run the command tadd and look at the errors and then</span>
+        <span class="pl-s">read ~/dev/datasette/docs/upgrade-1.0a20.md and apply</span>
+        <span class="pl-s">fixes and run the tests again and get them to pass<span class="pl-pds">"</span></span></pre></div>
+        <p><code>codex exec</code> runs OpenAI Codex in non-interactive mode - it will loop until it has finished the prompt you give it.</p>
+        <p>I tell it to consult the subset of the <a href="https://docs.datasette.io/en/latest/upgrade_guide.html#datasette-1-0a20-plugin-upgrade-guide">Datasette upgrade documentation</a> that talks about Datasette permissions and then get the <code>tadd</code> command to pass its tests.</p>
+        <p>This is an example of what I call <a href="https://simonwillison.net/2025/Sep/30/designing-agentic-loops/">designing agentic loops</a> - I gave Codex the tools it needed (<code>tadd</code>) and a clear goal and let it get to work on my behalf.</p>
+        <p>The remainder of the video covers finishing up the work - testing the fix manually, commiting my work using:</p>
+        <div class="highlight highlight-source-shell"><pre>git commit -a -m <span class="pl-s"><span class="pl-pds">"</span><span class="pl-s"><span class="pl-pds">$(</span>basename <span class="pl-s"><span class="pl-pds">"</span><span class="pl-smi">$PWD</span><span class="pl-pds">"</span></span><span class="pl-pds">)</span></span> for datasette&gt;=1.0a20<span class="pl-pds">"</span></span> \
+          -m <span class="pl-s"><span class="pl-pds">"</span>Refs https://github.com/simonw/datasette/issues/2577<span class="pl-pds">"</span></span></pre></div>
+        <p>Then shipping a <a href="https://pypi.org/project/datasette-checkbox/0.1a4/">0.1a4 release</a> to PyPI using the pattern <a href="https://til.simonwillison.net/pypi/pypi-releases-from-github">described in this TIL</a>.
+        Finally, I demonstrated that the shipped plugin worked in a fresh environment using <code>uvx</code> like this:</p>
+        <div class="highlight highlight-source-shell"><pre>uvx --prerelease=allow --with datasette-checkbox \
+          datasette --root <span class="pl-k">~</span>/dev/ecosystem/datasette-checkbox/demo.db</pre></div>
+        <p>Executing this command installs and runs a fresh Datasette instance with a fresh copy of the new alpha plugin (<code>--prerelease=allow</code>). It's a neat way of confirming that freshly released software works as expected.</p>
+        <h4 id="a-colophon-for-the-video">A colophon for the video</h4>
+        <p>This video was shot in a single take using <a href="https://www.descript.com/">Descript</a>, with no rehearsal and perilously little preparation in advance. I recorded through my AirPods and applied the "Studio Sound" filter to clean up the audio. I pasted in a <code>simonwillison.net</code> closing slide from <a href="https://simonwillison.net/2025/Oct/23/claude-code-for-web-video/">my previous video</a> and exported it locally at 1080p, then uploaded it to YouTube.</p>
+        <p>Something I learned from the Software Carpentry <a href="https://simonwillison.net/2020/Sep/26/weeknotes-software-carpentry-sqlite/">instructor training course</a> is that making mistakes in front of an audience is actively helpful - it helps them see a realistic version of how software development works and they can learn from watching you recover. I see this as a great excuse for not editing out all of my mistakes!</p>
+        <p>I'm trying to build new habits around video content that let me produce useful videos while minimizing the amount of time I spend on production.</p>
+        <p>I plan to iterate more on the format as I get more comfortable with the process. I'm hoping I can find the right balance between production time and value to viewers.</p>
+            
+                <p>Tags: <a href="https://simonwillison.net/tags/plugins">plugins</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/youtube">youtube</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/codex-cli">codex-cli</a></p>]]>
+      </description>
+      <source:markdown>I&#39;m upgrading various plugins for compatibility with the new [Datasette 1.0a20 alpha release](https://simonwillison.net/2025/Nov/4/datasette-10a20/) and I decided to record [a video](https://www.youtube.com/watch?v=qy4ci7AoF9Y) of the process. This post accompanies that video with detailed additional notes.
+
+#### The datasette-checkbox plugin
+
+I picked a very simple plugin to illustrate the upgrade process (possibly too simple). [datasette-checkbox](https://github.com/datasette/datasette-checkbox) adds just one feature to Datasette: if you are viewing a table with boolean columns (detected as integer columns with names like `is_active` or `has_attachments` or `should_notify`) _and_ your current user has permission to update rows in that table it adds an inline checkbox UI that looks like this:
+
+![Animated demo of a table with name, is_done, should_be_deleted and is_happy columns. Each column has checkboxes, and clicking a checkboxflashes a little &#34;updated&#34; message.](https://static.simonwillison.net/static/2025/datasette-checkbox.gif)
+
+I built the first version with the help of Claude back in August 2024 - details [in this issue comment](https://github.com/datasette/datasette-checkbox/issues/1#issuecomment-2294168693).
+
+Most of the implementation is JavaScript that makes calls to Datasette 1.0&#39;s [JSON write API](https://simonwillison.net/2022/Dec/2/datasette-write-api/). The Python code just checks that the user has the necessary permissions before including the extra JavaScript.
+
+#### Running the plugin&#39;s tests
+
+The first step in upgrading any plugin is to run its tests against the latest Datasette version.
+
+Thankfully `uv` makes it easy to run code in scratch virtual environments that include the different code versions you want to test against.
+
+I have a test utility called `tadd` (for &#34;test against development Datasette&#34;) which I use for that purpose. I can run it in any plugin directory like this:
+
+```
+tadd
+```
+
+And it will run the existing plugin tests against whatever version of Datasette I have checked out in my `~/dev/datasette` directory.
+
+You can see the full implementation of `tadd` (and its friend `radd` described below) [in this TIL](https://til.simonwillison.net/python/uv-tests#variants-tadd-and-radd) \- the basic version looks like this:
+
+```
+#!/bin/sh
+uv run --no-project --isolated \
+  --with-editable &#39;.[test]&#39; --with-editable ~/dev/datasette \
+  python -m pytest &#34;$@&#34;
+```
+
+I started by running `tadd` in the `datasette-checkbox` directory, and got my first failure... but it wasn&#39;t due to permissions, it was because the `pyproject.toml` for the plugin was [pinned](https://github.com/datasette/datasette-checkbox/blob/0.1a3/pyproject.toml#L13C1-L15C2) to a specific mismatched version of Datasette:
+
+```
+dependencies = [
+    &#34;datasette==1.0a19&#34;
+]
+```
+
+I fixed this problem by swapping `==` to `&#62;=` and ran the tests again... and they passed! Which was a problem because I was expecting permission-related failures.
+
+It turns out when I first wrote the plugin I was [lazy with the tests](https://github.com/datasette/datasette-checkbox/blob/0.1a3/tests/test_checkbox.py) \- they weren&#39;t actually confirming that the table page loaded without errors.
+
+I needed to actually run the code myself to see the expected bug.
+
+First I created myself a demo database using [sqlite-utils create-table](https://sqlite-utils.datasette.io/en/stable/cli.html#creating-tables):
+
+```
+sqlite-utils create-table demo.db \
+  demo id integer is_checked integer --pk id
+```
+
+Then I ran it with Datasette against the plugin&#39;s code like so:
+
+```
+radd demo.db
+```
+
+Sure enough, visiting `/demo/demo` produced a 500 error about the missing `Datasette.permission_allowed()` method.
+
+The next step was to update the test to also trigger this error:
+
+```
+@pytest.mark.asyncio
+async def test_plugin_adds_javascript():
+    datasette = Datasette()
+    db = datasette.add_memory_database(&#34;demo&#34;)
+    await db.execute_write(
+        &#34;CREATE TABLE IF NOT EXISTS test (id INTEGER PRIMARY KEY, is_active INTEGER)&#34;
+    )
+    await datasette.invoke_startup()
+    response = await datasette.client.get(&#34;/demo/test&#34;)
+    assert response.status_code == 200
+```
+
+And now `tadd` fails as expected.
+
+#### Upgrading the plugin with Codex
+
+It this point I could have manually fixed the plugin itself - which would likely have been faster given the small size of the fix - but instead I demonstrated a bash one-liner I&#39;ve been using to apply these kinds of changes automatically:
+
+```
+codex exec --dangerously-bypass-approvals-and-sandbox \
+&#34;Run the command tadd and look at the errors and then
+read ~/dev/datasette/docs/upgrade-1.0a20.md and apply
+fixes and run the tests again and get them to pass&#34;
+```
+
+`codex exec` runs OpenAI Codex in non-interactive mode - it will loop until it has finished the prompt you give it.
+
+I tell it to consult the subset of the [Datasette upgrade documentation](https://docs.datasette.io/en/latest/upgrade_guide.html#datasette-1-0a20-plugin-upgrade-guide) that talks about Datasette permissions and then get the `tadd` command to pass its tests.
+
+This is an example of what I call [designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/) \- I gave Codex the tools it needed ( `tadd`) and a clear goal and let it get to work on my behalf.
+
+The remainder of the video covers finishing up the work - testing the fix manually, commiting my work using:
+
+```
+git commit -a -m &#34;$(basename &#34;$PWD&#34;) for datasette&#62;=1.0a20&#34; \
+  -m &#34;Refs https://github.com/simonw/datasette/issues/2577&#34;
+```
+
+Then shipping a [0.1a4 release](https://pypi.org/project/datasette-checkbox/0.1a4/) to PyPI using the pattern [described in this TIL](https://til.simonwillison.net/pypi/pypi-releases-from-github).
+Finally, I demonstrated that the shipped plugin worked in a fresh environment using `uvx` like this:
+
+```
+uvx --prerelease=allow --with datasette-checkbox \
+  datasette --root ~/dev/ecosystem/datasette-checkbox/demo.db
+```
+
+Executing this command installs and runs a fresh Datasette instance with a fresh copy of the new alpha plugin ( `--prerelease=allow`). It&#39;s a neat way of confirming that freshly released software works as expected.
+
+#### A colophon for the video
+
+This video was shot in a single take using [Descript](https://www.descript.com/), with no rehearsal and perilously little preparation in advance. I recorded through my AirPods and applied the &#34;Studio Sound&#34; filter to clean up the audio. I pasted in a `simonwillison.net` closing slide from [my previous video](https://simonwillison.net/2025/Oct/23/claude-code-for-web-video/) and exported it locally at 1080p, then uploaded it to YouTube.
+
+Something I learned from the Software Carpentry [instructor training course](https://simonwillison.net/2020/Sep/26/weeknotes-software-carpentry-sqlite/) is that making mistakes in front of an audience is actively helpful - it helps them see a realistic version of how software development works and they can learn from watching you recover. I see this as a great excuse for not editing out all of my mistakes!
+
+I&#39;m trying to build new habits around video content that let me produce useful videos while minimizing the amount of time I spend on production.
+
+I plan to iterate more on the format as I get more comfortable with the process. I&#39;m hoping I can find the right balance between production time and value to viewers.
+
+Tags: [plugins](https://simonwillison.net/tags/plugins), [python](https://simonwillison.net/tags/python), [youtube](https://simonwillison.net/tags/youtube), [ai](https://simonwillison.net/tags/ai), [datasette](https://simonwillison.net/tags/datasette), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [uv](https://simonwillison.net/tags/uv), [coding-agents](https://simonwillison.net/tags/coding-agents), [codex-cli](https://simonwillison.net/tags/codex-cli)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/6/upgrading-datasette-plugins/#atom-everything</guid>
+    </item>    <item>
+      <title>November 5, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/november-5-2025-5d6</link>
+      <enclosure url="https://api.substack.com/feed/podcast/178201381/68084b6e16eadb34deff0560ba81a770.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/november-5-2025-5d6</guid>
+    </item>    <item>
+      <title>Earth&#38;#8217;s got a new moon! (Sort of.) &#38;#8220;This asteroid is part of...</title>
+      <link>https://kottke.org/25/11/0047795-earths-got-a-new-moon</link>
+      <guid>cid://tag:kottke.org,2025://13.47795</guid>
+    </item>    <item>
+      <title>Mamdani vs Sliwa/Cuomo</title>
+      <link>https://kieranhealy.org/blog/archives/2025/11/06/mamdani-vs-sliwa/cuomo/</link>
+      <description>
+        <![CDATA[<p>Mamdani&rsquo;s victory in the New York City mayoral election gave me the opportunity to draw a few maps, and also to learn a bit about incorporating additional spatial data into maps drawn in R. R is not a specialized piece of GIS software. ESRI&rsquo;s <a href="https://www.arcgis.com/">ArcGIS</a> being the 800lb gorilla in this world and <a href="https://qgis.org">QGIS</a> being the <a href="https://www.gimp.org">GIMP</a> to its Photoshop, so to speak.</p>
+        <p>Still, you can do a lot of spatial stuff in R, grounded in the <a href="https://r-spatial.github.io/sf/"><code>sf</code> package</a> and its many friends. Plus you get the benefit of all the data manipulation and analysis stuff that R is really good at. So, having gotten the precinct-level results for the election, some maps from New York City (e.g., the <a href="https://www.nyc.gov/content/planning/pages/resources/datasets/borough-boundaries">clipped borough boundaries map</a>), and <a href="https://www.mta.info/developers">GTFS data from the MTA</a> describing the structure of the subway system, I was able to draw some things. I strongly approve of the existence of the <a href="https://gtfs.org">GTFS</a>, by the way. It&rsquo;s a spec for encoding transit data and lots of cities use it. Really handy.</p>
+        <p>Anyway, here&rsquo;s a map. For each precinct with more than twenty voters, I combined the Sliwa/Cuomo vote into what we might call (purely for compactness reasons) the Slimo vote, calculated the Mamdani and Slimo vote shares as a proportion, and subtracted the former from the latter. That gets us a score raning from -1 to +1. I then cut that into bins, ten on each side of the zero line, to get deciles in each direction. That&rsquo;s what we fill the precincts with. For the map I also drew the subway stations and lines. Several lines that are right next to each other are in effect drawn on top of one another in several places, e.g. the A and the C, or the 1 and the 3, etc, but that doesn&rsquo;t matter for this map. (You may have heard that drawing transit maps meant for navigation is a really hard information design challenge.) We then use a discrete, diverging scale. Here&rsquo;s the result.</p>
+        <figure class="full-width"><a href="https://kieranhealy.org/blog/archives/2025/11/06/mamdani-vs-sliwa/cuomo/subway-mamdani-slimo.png" data-fancybox>
+            <img src="https://kieranhealy.org/blog/archives/2025/11/06/mamdani-vs-sliwa/cuomo/subway-mamdani-slimo.png"
+                 alt="Precinct-level vote shares for Mamdani vs Sliwa/Cuomo"/></a><figcaption>
+                    <p>Oh, choropleths</p>
+                </figcaption>
+        </figure>
+        <p>I chose a blue-green color gradient partly to experiment with it and partly because neither the election nor this particular cut of the data is quite the usual Blue vs Red, Democrat vs Republican. For one thing we have amalgamated two candidates on one side of the spectrum. For another, Cuomo is in some sense a Democrat, so the way voters were split is trickier than it normally would be. <a href="https://statmodeling.stat.columbia.edu/2025/11/06/if-cuomo-had-been-able-to-run-against-mamdani-head-to-head/">Andrew Gelman has some more thoughts on this today</a>.</p>
+        <p>You can see a bunch of nice neighborhood patterns, such as e.g. the Hasidic communities in Brooklyn who voted strongly for Cuomo. And you can also see evidence of the <a href="https://kieranhealy.org/blog/archives/2015/06/12/americas-ur-choropleths/">characteristic weakness of choropleths</a>, which is the way they can force a number characterizing some number of persons to be represented by a shape representing some area of space.</p>
+        <p>One solution to this is to make a dot-density map. You put a dot on the map for every person (or maybe every n people) you want to represent. Here&rsquo;s what that looks like, with a 1-to-1 representation of dots to voters.</p>
+        <figure class="full-width"><a href="https://kieranhealy.org/blog/archives/2025/11/06/mamdani-vs-sliwa/cuomo/subway-mamdani-slimo-dotmap300.png" data-fancybox>
+            <img src="https://kieranhealy.org/blog/archives/2025/11/06/mamdani-vs-sliwa/cuomo/subway-mamdani-slimo-dotmap300.png"
+                 alt="Precinct-level vote shares for Mamdani vs Sliwa/Cuomo, dot-density version"/></a><figcaption>
+                    <p>Dot dot dot.</p>
+                </figcaption>
+        </figure>
+        <p>This is better than a choropleth in some key ways. For one thing, you can see that&mdash;even in New York City&mdash;some places are both much more densely populated than others and also more likely to turn out to vote. To be clear, when I say &ldquo;each dot represents one vote&rdquo;, it&rsquo;s not as if I know the identity of any particular voter, or how they voted, or that we can precisely locate them to their home address. I promise I don&rsquo;t know that. Only the NSA and the Phone Company know that stuff. What I do know is how many votes were cast for each candidate within each of the 4,200 or so precincts. And I have a polygon that represents the shape of each precinct. So I spatially sample without replacement within each polygon to randomly place a dot for each voter within their precinct. With two million or so votes the pointillist effect ends up being quite effective.</p>
+        <figure><a href="https://kieranhealy.org/blog/archives/2025/11/06/mamdani-vs-sliwa/cuomo/subway-mamdani-slimo-detail3.png" data-fancybox>
+            <img src="https://kieranhealy.org/blog/archives/2025/11/06/mamdani-vs-sliwa/cuomo/subway-mamdani-slimo-detail3.png"
+                 alt="Precinct-level vote shares for Mamdani vs Sliwa/Cuomo, dot-density version, high-res detail"/></a><figcaption>
+                    <p>Detail of the PDF.</p>
+                </figcaption>
+        </figure>
+        <p>There are costs, of course. Color choice is harder, especially with more than one category of dot at once. The image tends to look less bright because you&rsquo;re not using a big swatch of paint across a large area. In addition, when you draw a few million dots at any kind of resolution then your file size gets big real fast. The image above is a 300dpi 4,500x4,500 pixel PNG and it&rsquo;s 10mb in size before being crushed down further (with <code>optipng</code>) to 8.6mb or so. I could make a JPG of course, which would be a lot smaller, but then you start running into the question of why you made a dot-density map in the first place, because you lose detail in the raster. Meanwhile, thanks to the wonders of multiplication, a 600dpi version of the same image is much sharper to zoom in on but is also about 34mb in size. Meanwhile a PDF, as a vector format, is even bigger, weighing in at 60MB. Rendering a PDF with that many vector elements does not make Preview or Illustrator happy, let me tell you. The benefit of course is that you can scale it up to any size you like without loss, as shown above. Because browsers are crazy and so is javascript, it&rsquo;s possible to serve up dot density maps like this in real time in a way that makes them zoomable and fluid, but that&rsquo;s not my department.</p>]]>
+      </description>
+      <source:markdown>Mamdani’s victory in the New York City mayoral election gave me the opportunity to draw a few maps, and also to learn a bit about incorporating additional spatial data into maps drawn in R. R is not a specialized piece of GIS software. ESRI’s [ArcGIS](https://www.arcgis.com/) being the 800lb gorilla in this world and [QGIS](https://qgis.org) being the [GIMP](https://www.gimp.org) to its Photoshop, so to speak.
+
+Still, you can do a lot of spatial stuff in R, grounded in the [`sf` package](https://r-spatial.github.io/sf/) and its many friends. Plus you get the benefit of all the data manipulation and analysis stuff that R is really good at. So, having gotten the precinct-level results for the election, some maps from New York City (e.g., the [clipped borough boundaries map](https://www.nyc.gov/content/planning/pages/resources/datasets/borough-boundaries)), and [GTFS data from the MTA](https://www.mta.info/developers) describing the structure of the subway system, I was able to draw some things. I strongly approve of the existence of the [GTFS](https://gtfs.org), by the way. It’s a spec for encoding transit data and lots of cities use it. Really handy.
+
+Anyway, here’s a map. For each precinct with more than twenty voters, I combined the Sliwa/Cuomo vote into what we might call (purely for compactness reasons) the Slimo vote, calculated the Mamdani and Slimo vote shares as a proportion, and subtracted the former from the latter. That gets us a score raning from -1 to +1. I then cut that into bins, ten on each side of the zero line, to get deciles in each direction. That’s what we fill the precincts with. For the map I also drew the subway stations and lines. Several lines that are right next to each other are in effect drawn on top of one another in several places, e.g. the A and the C, or the 1 and the 3, etc, but that doesn’t matter for this map. (You may have heard that drawing transit maps meant for navigation is a really hard information design challenge.) We then use a discrete, diverging scale. Here’s the result.
+
+[![Precinct-level vote shares for Mamdani vs Sliwa/Cuomo](https://kieranhealy.org/blog/archives/2025/11/06/mamdani-vs-sliwa/cuomo/subway-mamdani-slimo.png)](https://kieranhealy.org/blog/archives/2025/11/06/mamdani-vs-sliwa/cuomo/subway-mamdani-slimo.png)
+
+Oh, choropleths
+
+I chose a blue-green color gradient partly to experiment with it and partly because neither the election nor this particular cut of the data is quite the usual Blue vs Red, Democrat vs Republican. For one thing we have amalgamated two candidates on one side of the spectrum. For another, Cuomo is in some sense a Democrat, so the way voters were split is trickier than it normally would be. [Andrew Gelman has some more thoughts on this today](https://statmodeling.stat.columbia.edu/2025/11/06/if-cuomo-had-been-able-to-run-against-mamdani-head-to-head/).
+
+You can see a bunch of nice neighborhood patterns, such as e.g. the Hasidic communities in Brooklyn who voted strongly for Cuomo. And you can also see evidence of the [characteristic weakness of choropleths](https://kieranhealy.org/blog/archives/2015/06/12/americas-ur-choropleths/), which is the way they can force a number characterizing some number of persons to be represented by a shape representing some area of space.
+
+One solution to this is to make a dot-density map. You put a dot on the map for every person (or maybe every n people) you want to represent. Here’s what that looks like, with a 1-to-1 representation of dots to voters.
+
+[![Precinct-level vote shares for Mamdani vs Sliwa/Cuomo, dot-density version](https://kieranhealy.org/blog/archives/2025/11/06/mamdani-vs-sliwa/cuomo/subway-mamdani-slimo-dotmap300.png)](https://kieranhealy.org/blog/archives/2025/11/06/mamdani-vs-sliwa/cuomo/subway-mamdani-slimo-dotmap300.png)
+
+Dot dot dot.
+
+This is better than a choropleth in some key ways. For one thing, you can see that—even in New York City—some places are both much more densely populated than others and also more likely to turn out to vote. To be clear, when I say “each dot represents one vote”, it’s not as if I know the identity of any particular voter, or how they voted, or that we can precisely locate them to their home address. I promise I don’t know that. Only the NSA and the Phone Company know that stuff. What I do know is how many votes were cast for each candidate within each of the 4,200 or so precincts. And I have a polygon that represents the shape of each precinct. So I spatially sample without replacement within each polygon to randomly place a dot for each voter within their precinct. With two million or so votes the pointillist effect ends up being quite effective.
+
+[![Precinct-level vote shares for Mamdani vs Sliwa/Cuomo, dot-density version, high-res detail](https://kieranhealy.org/blog/archives/2025/11/06/mamdani-vs-sliwa/cuomo/subway-mamdani-slimo-detail3.png)](https://kieranhealy.org/blog/archives/2025/11/06/mamdani-vs-sliwa/cuomo/subway-mamdani-slimo-detail3.png)
+
+Detail of the PDF.
+
+There are costs, of course. Color choice is harder, especially with more than one category of dot at once. The image tends to look less bright because you’re not using a big swatch of paint across a large area. In addition, when you draw a few million dots at any kind of resolution then your file size gets big real fast. The image above is a 300dpi 4,500x4,500 pixel PNG and it’s 10mb in size before being crushed down further (with `optipng`) to 8.6mb or so. I could make a JPG of course, which would be a lot smaller, but then you start running into the question of why you made a dot-density map in the first place, because you lose detail in the raster. Meanwhile, thanks to the wonders of multiplication, a 600dpi version of the same image is much sharper to zoom in on but is also about 34mb in size. Meanwhile a PDF, as a vector format, is even bigger, weighing in at 60MB. Rendering a PDF with that many vector elements does not make Preview or Illustrator happy, let me tell you. The benefit of course is that you can scale it up to any size you like without loss, as shown above. Because browsers are crazy and so is javascript, it’s possible to serve up dot density maps like this in real time in a way that makes them zoomable and fluid, but that’s not my department.</source:markdown>
+      <guid>cid://https://kieranhealy.org/blog/archives/2025/11/06/mamdani-vs-sliwa/cuomo/</guid>
     </item>    <item>
       <title>Erica Chenoweth on the Power of Peaceful Resistance</title>
       <link>https://guykawasaki.substack.com/p/erica-chenoweth-on-the-power-of-peaceful</link>
@@ -344,7 +699,7 @@ And a quick technical update, you can now manage your subscription to [our Newsl
         <p>Claude Code for web offers <a href="https://support.claude.com/en/articles/12690958-claude-code-promotion">a free $250 of credits</a> for their $20/month users for a limited time (until November 18, 2025). Gemini Jules has <a href="https://jules.google/docs/usage-limits/">a free tier</a>. There are plenty of other coding agents you can try out as well.</p>
         <p>Let me know if your research agents come back with anything interesting!</p>
             
-                <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/slop">slop</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/jules">jules</a>, <a href="https://simonwillison.net/tags/codex-cli">codex-cli</a></p>]]>
+                <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/webassembly">webassembly</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/slop">slop</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/jules">jules</a>, <a href="https://simonwillison.net/tags/codex-cli">codex-cli</a></p>]]>
       </description>
       <source:markdown>I&#39;ve been experimenting with a pattern for LLM usage recently that&#39;s working out really well: **asynchronous code research tasks**. Pick a research question, spin up an asynchronous coding agent and let it go and run some experiments and report back when it&#39;s done.
 
@@ -477,7 +832,7 @@ Claude Code for web offers [a free $250 of credits](https://support.claude.com/e
 
 Let me know if your research agents come back with anything interesting!
 
-Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [slop](https://simonwillison.net/tags/slop), [ai-agents](https://simonwillison.net/tags/ai-agents), [coding-agents](https://simonwillison.net/tags/coding-agents), [claude-code](https://simonwillison.net/tags/claude-code), [jules](https://simonwillison.net/tags/jules), [codex-cli](https://simonwillison.net/tags/codex-cli)</source:markdown>
+Tags: [ai](https://simonwillison.net/tags/ai), [webassembly](https://simonwillison.net/tags/webassembly), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [slop](https://simonwillison.net/tags/slop), [ai-agents](https://simonwillison.net/tags/ai-agents), [coding-agents](https://simonwillison.net/tags/coding-agents), [claude-code](https://simonwillison.net/tags/claude-code), [jules](https://simonwillison.net/tags/jules), [codex-cli](https://simonwillison.net/tags/codex-cli)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Nov/6/async-code-research/#atom-everything</guid>
     </item>    <item>
       <title>Australia has so much solar that it&#38;#8217;s offering everyone free electricity. &#38;#8220;The...</title>
