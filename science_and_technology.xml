@@ -4,14 +4,117 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>07 Nov 25 10:09 -0800</lastBuildDate>
+    <lastBuildDate>07 Nov 25 14:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Monitor Docker Containers Across Servers With Beszel</title>
+      <link>https://thenewstack.io/monitor-docker-containers-across-servers-with-beszel/</link>
+      <description>
+        <![CDATA[<img width="1024" height="683" src="https://cdn.thenewstack.io/media/2025/11/ba911109-getty-images-l1v6ilwxkc4-unsplash-1-1024x683.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/ba911109-getty-images-l1v6ilwxkc4-unsplash-1.jpg" /><p>How many machines do you have on your network that run Docker containers? One? Two? 20? Now, how are those</p>
+        <p>The post <a href="https://thenewstack.io/monitor-docker-containers-across-servers-with-beszel/">Monitor Docker Containers Across Servers With Beszel</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/ba911109-getty-images-l1v6ilwxkc4-unsplash-1-1024x683.jpg)
+
+How many machines do you have on your network that run Docker containers? One? Two? 20? Now, how are those
+
+The post [Monitor Docker Containers Across Servers With Beszel](https://thenewstack.io/monitor-docker-containers-across-servers-with-beszel/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805575</guid>
+    </item>    <item>
+      <title>Previously unknown Landfall spyware used in 0-day attacks on Samsung phones</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/07/landfall_spyware_samsung_0days/</link>
+      <description>
+        <![CDATA[<h4>&#39;Precision espionage campaign&#39; began months before the flaw was fixed</h4> <p>A previously unknown Android spyware family called LANDFALL exploited a zero-day in Samsung Galaxy devices for nearly a year, installing surveillance code capable of recording calls, tracking locations, and harvesting photos and logs before Samsung finally patched it in April.…</p>]]>
+      </description>
+      <source:markdown>#### &#39;Precision espionage campaign&#39; began months before the flaw was fixed
+
+A previously unknown Android spyware family called LANDFALL exploited a zero-day in Samsung Galaxy devices for nearly a year, installing surveillance code capable of recording calls, tracking locations, and harvesting photos and logs before Samsung finally patched it in April.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242921</guid>
+    </item>    <item>
+      <title>One Glacier&#39;s &#39;Out of This World&#39; Retreat Might Have Set a Modern Record. Now, Scientists Pieced Together What Happened</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-glacier-shrank-quicker-than-any-in-modern-history-scientists-now-know-why-180987627/</link>
+      <description>
+        <![CDATA[New research finds that Hektoria, a grounded glacier in Antarctica, shrank with astounding speed in 2022 and 2023]]>
+      </description>
+      <source:markdown>New research finds that Hektoria, a grounded glacier in Antarctica, shrank with astounding speed in 2022 and 2023</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/_VlNpG2bWIG4kgPwNhMnhD7aol4=/420x240/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/61/22/6122cf06-2ace-4347-8ba6-04395df076f3/low-res_image_2.jpg" length="" type="" />
+    </item>    <item>
+      <title>AI benchmarks are a bad joke – and LLM makers are the ones laughing</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/</link>
+      <description>
+        <![CDATA[<h4>Study finds many tests don&#39;t measure the right things</h4> <p>AI companies regularly tout their models&#39; performance on benchmark tests as a sign of technological and intellectual superiority. But those results, widely used in marketing, may not be meaningful.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Study finds many tests don&#39;t measure the right things
+
+AI companies regularly tout their models&#39; performance on benchmark tests as a sign of technological and intellectual superiority. But those results, widely used in marketing, may not be meaningful.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242920</guid>
+    </item>    <item>
+      <title>An Enslaved Man Made Thousands of Ceramic Pots. Now, a Boston Museum Has Returned Two of Them to His Descendants</title>
+      <link>https://www.smithsonianmag.com/smart-news/an-enslaved-man-made-thousands-of-ceramic-pots-now-a-boston-museum-has-returned-two-of-them-to-his-descendants-180987642/</link>
+      <description>
+        <![CDATA[Many of David Drake's large vessels featured his signature and inscriptions, even though he created them during a time when literacy among enslaved laborers was illegal]]>
+      </description>
+      <source:markdown>Many of David Drake&#39;s large vessels featured his signature and inscriptions, even though he created them during a time when literacy among enslaved laborers was illegal</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/E47FvZbwdSkNwNhFoFBppysTUm8=/420x240/filters:focal(990x745:991x746)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c7/22/c7222308-2546-4816-8b24-a231efb70db7/drake-jar-descendents.jpg" length="" type="" />
+    </item>    <item>
+      <title>Blackwell a no-sell in China as trade deal fails to materialize</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/07/china_nvidia_blackwell/</link>
+      <description>
+        <![CDATA[<h4>Xi and Trump haven&#39;t gotten to discuss the chips, though they were supposed to</h4> <p>Nvidia&#39;s latest generation of Blackwell accelerators won&#39;t be available in China anytime soon, according to CEO Jensen Huang, who said there were no &#34;active discussions&#34; about selling the coveted chips to the Middle Kingdom.…</p>]]>
+      </description>
+      <source:markdown>#### Xi and Trump haven&#39;t gotten to discuss the chips, though they were supposed to
+
+Nvidia&#39;s latest generation of Blackwell accelerators won&#39;t be available in China anytime soon, according to CEO Jensen Huang, who said there were no &#34;active discussions&#34; about selling the coveted chips to the Middle Kingdom.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242918</guid>
+    </item>    <item>
+      <title>Top 10: Der beste höhenverstellbare Schreibtisch im Test</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-hoehenverstellbare-schreibtisch-flexispot-ist-testsieger/187xypf?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das Arbeiten im Stehen am PC fördert Gesundheit und Konzentration. Dabei helfen elektrisch höhenverstellbare Schreibtische.]]>
+      </description>
+      <source:markdown>Das Arbeiten im Stehen am PC fördert Gesundheit und Konzentration. Dabei helfen elektrisch höhenverstellbare Schreibtische.</source:markdown>
+      <guid>cid://http://heise.de/-11071238</guid>
+    </item>    <item>
+      <title>Bell bottom-era tape unearthed, could contain lost piece of Unix history</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/</link>
+      <description>
+        <![CDATA[<h4>It might have the first-ever version of UNIX written in C</h4> <p>A tape-based piece of unique Unix history may have been lying quietly in storage at the University of Utah for 50+ years. The question is whether researchers will be able to take this piece of middle-aged media and rewind it back to the 1970s to get the data off.…</p>]]>
+      </description>
+      <source:markdown>#### It might have the first-ever version of UNIX written in C
+
+A tape-based piece of unique Unix history may have been lying quietly in storage at the University of Utah for 50+ years. The question is whether researchers will be able to take this piece of middle-aged media and rewind it back to the 1970s to get the data off.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242917</guid>
+    </item>    <item>
+      <title>Iguanas Are Native, Not Invasive, on This Mexican Island, DNA Study Suggests, Rewriting Conservation Ideas</title>
+      <link>https://www.smithsonianmag.com/smart-news/iguanas-are-native-not-invasive-on-this-mexican-island-dna-study-suggests-rewriting-conservation-ideas-180987653/</link>
+      <description>
+        <![CDATA[The spiny-tailed iguanas of Clarion Island predate human presence in the Americas by tens of thousands of years, researchers say]]>
+      </description>
+      <source:markdown>The spiny-tailed iguanas of Clarion Island predate human presence in the Americas by tens of thousands of years, researchers say</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/3MxynxG7d7EIE-7D2JSQcZymVIc=/420x240/filters:focal(533x401:534x402)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/80/51/8051d006-18cc-41a1-82ba-e06c786d43c3/dscn2131_dgmcc.jpg" length="" type="" />
+    </item>    <item>
+      <title>China warns Dutch away from Nexperia as it lets chip exports resume</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/07/china_allows_nexperia_chip_exports/</link>
+      <description>
+        <![CDATA[<h4>Netherlands court still overseeing governance at the chipmaker</h4> <p>Tensions between China and the Netherlands over the state of chipmaker Nexperia have begun to ease, but the battle for company control doesn&#39;t appear to be entirely resolved yet. …</p>]]>
+      </description>
+      <source:markdown>#### Netherlands court still overseeing governance at the chipmaker
+
+Tensions between China and the Netherlands over the state of chipmaker Nexperia have begun to ease, but the battle for company control doesn&#39;t appear to be entirely resolved yet. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242915</guid>
+    </item>    <item>
+      <title>Dänisches Parlament einigt sich auf Mindestalter für Social Media</title>
+      <link>https://www.heise.de/news/Daenisches-Parlament-einigt-sich-auf-Mindestalter-fuer-Social-Media-11071262.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Jugendliche in Dänemark sollen erst mit 15 die sozialen Netzwerke nutzen dürfen, mit Sondergenehmigung der Eltern etwas früher.]]>
+      </description>
+      <source:markdown>Jugendliche in Dänemark sollen erst mit 15 die sozialen Netzwerke nutzen dürfen, mit Sondergenehmigung der Eltern etwas früher.</source:markdown>
+      <guid>cid://http://heise.de/-11071262</guid>
+    </item>    <item>
       <title>Build Terraform Modules That Your Team Will Actually Reuse</title>
       <link>https://thenewstack.io/build-terraform-modules-that-your-team-will-actually-reuse/</link>
       <description>
-        <![CDATA[<img width="1024" height="583" src="https://cdn.thenewstack.io/media/2025/11/9d4d5769-modules-1024x583.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="A collection of colorful building toys." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/9d4d5769-modules.jpg" /><p>Many organizations struggle with Terraform module adoption, experiencing challenges such as: Version fragmentation: Different projects/teams end up on different versions.</p>
+        <![CDATA[<img width="1024" height="583" src="https://cdn.thenewstack.io/media/2025/11/9d4d5769-modules-1024x583.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="A collection of colorful building toys." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/9d4d5769-modules.jpg" /><p>Many organizations struggle with Terraform module adoption, experiencing challenges such as: Version fragmentation: Different projects/teams end up on different versions.</p>
         <p>The post <a href="https://thenewstack.io/build-terraform-modules-that-your-team-will-actually-reuse/">Build Terraform Modules That Your Team Will Actually Reuse</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![A collection of colorful building toys.](https://cdn.thenewstack.io/media/2025/11/9d4d5769-modules-1024x583.jpg)
@@ -190,7 +293,7 @@ Tesla is awarding its CEO Elon Musk a package worth a possible $1 trillion, howe
       <source:markdown>Einweg-E-Zigaretten sind immer beliebter aber auch ein gravierendes Elektroschrott-Problem. Die Bundesregierung soll hier aktiv werden, fordert der Bundestag.</source:markdown>
       <guid>cid://http://heise.de/-11070819</guid>
     </item>    <item>
-      <title>&#39;Windows sucks,&#39; former Microsoft Engineer says, explains how to fix it</title>
+      <title>&#39;Windows sucks,&#39; former Microsoft engineer says, explains how to fix it</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/07/does_windows_really_suck_that/</link>
       <description>
         <![CDATA[<h4>Respecting users choices and offering a hardcore mode among key suggestions.</h4> <p>Retired Microsoft engineer Dave Plummer has waded into the argument over where Microsoft has gone wrong with Windows, suggesting that perhaps the OS needs a hardcore mode to offset some of its fluffier edges.…</p>]]>
@@ -240,9 +343,9 @@ The post [Apptainer for Docker Developers: A Comprehensive Guide](https://thenew
       <title>Intro komplett &#34;in camera&#34;: Apple baute neues Apple-TV-Logo physisch auf</title>
       <link>https://www.heise.de/news/Neues-Apple-TV-Intro-Keine-KI-kein-CGI-11070747.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
-        <![CDATA[Ein Designer hat verraten, wie Apple das neue Introvideo für seinen Streamingdienst hergestellt hat. Der Vorgang war erstaunlich aufwendig.]]>
+        <![CDATA[Die beteiligte Agentur hat verraten, wie Apple das neue Introvideo für seinen Streamingdienst hergestellt hat. Der Vorgang war erstaunlich aufwendig.]]>
       </description>
-      <source:markdown>Ein Designer hat verraten, wie Apple das neue Introvideo für seinen Streamingdienst hergestellt hat. Der Vorgang war erstaunlich aufwendig.</source:markdown>
+      <source:markdown>Die beteiligte Agentur hat verraten, wie Apple das neue Introvideo für seinen Streamingdienst hergestellt hat. Der Vorgang war erstaunlich aufwendig.</source:markdown>
       <guid>cid://http://heise.de/-11070747</guid>
     </item>    <item>
       <title>China hat Nexperia-Chip-Exportverbot aufgehoben, berichtet Zulieferer Aumovio</title>
@@ -632,7 +735,7 @@ Learn more about sponsor message choices: [podcastchoices.com/adchoices](https:/
       <source:markdown>Zum Missbrauch der seit Ende September bekannten Sicherheitslücken in Cisco-Firewalls haben Angreifer neue Wege gefunden. Tausende sind verwundbar.</source:markdown>
       <guid>cid://http://heise.de/-11068989</guid>
     </item>    <item>
-      <title>ISP help desk manager fell for ‘Internet Cleaning Day’ prank - then swore he got the joke</title>
+      <title>Help desk boss fell for ‘Internet Cleaning Day’ prank - then swore he got the joke</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/07/on_call/</link>
       <description>
         <![CDATA[<h4>Lost packets would be cleaned out of routers, dead gopher servers would be pulled out of holes …</h4> <p><strong>On Call</strong>  Welcome to another instalment of On Call, <i>The Register</i>’s Friday reader-contributed column that celebrates the fine art of tech support.…</p>]]>
@@ -809,7 +912,7 @@ The post [Future-Proof Your Strategy With an Open Source AI Playbook](https://th
 Look out, Jensen! With its TPUs, Google has shown time and time again that it&#39;s not the size of your accelerators that matters but how efficiently you can scale them in production.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242895</guid>
     </item>    <item>
-      <title>In an Out of This World Observation, a Museum Curator Filmed the Moon Getting Struck by Meteors—Twice</title>
+      <title>In an Out-of-This-World Observation, a Museum Curator Filmed the Moon Getting Struck by Meteors—Twice</title>
       <link>https://www.smithsonianmag.com/smart-news/a-museum-curator-filmed-the-moon-getting-struck-by-meteors-twice-180987655/</link>
       <description>
         <![CDATA[Lunar impacts could affect plans for future bases on the moon]]>
