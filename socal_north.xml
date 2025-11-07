@@ -7,10 +7,26 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>07 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>07 Nov 25 10:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Increasingly irrelevant, California’s Republican Party is even more isolated after Prop 50</title>
+      <link>https://laist.com/news/politics/california-republican-party-even-more-isolated-after-prop-50</link>
+      <description>
+        <![CDATA[McCarthy’s speakership kept California Republicans relevant. Now without him, and after the passage of Prop. 50, Golden State GOPers must fend for themselves.]]>
+      </description>
+      <source:markdown>McCarthy’s speakership kept California Republicans relevant. Now without him, and after the passage of Prop. 50, Golden State GOPers must fend for themselves.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5f2d-d983-a99e-ff6fbe740000</guid>
+    </item>    <item>
+      <title>The government shutdown is delaying an assistance program families use to heat homes</title>
+      <link>https://laist.com/news/government-shutdown-delays-assistance-program-families-heating-homes</link>
+      <description>
+        <![CDATA[The Low-Income Home Energy Assistance Program, or LIHEAP, helps about 6 million U.S. households pay energy bills, buy fuel or fix broken heaters. The shutdown has stalled funds.]]>
+      </description>
+      <source:markdown>The Low-Income Home Energy Assistance Program, or LIHEAP, helps about 6 million U.S. households pay energy bills, buy fuel or fix broken heaters. The shutdown has stalled funds.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5b2f-d3e2-abfa-fbff65110000</guid>
+    </item>    <item>
       <title>How did an ‘implausible’ claim about jobs created by LA’s ‘mansion tax’ get cited by watchdogs?</title>
       <link>https://laist.com/news/housing-homelessness/los-angeles-mansion-tax-measure-ula-housing-construction-jobs-citizen-oversight-committee</link>
       <description>
@@ -18,6 +34,14 @@
       </description>
       <source:markdown>A committee tasked with oversight of the city’s controversial tax said it has created 10,000 union construction jobs. LAist tracked down the claim’s origins.</source:markdown>
       <guid>cid://urn:uuid:0000019a-5b4b-d2a5-a1fa-7bcbedc00000</guid>
+    </item>    <item>
+      <title>One in Eight Adolescents and Young Adults Use AI Chatbots for Mental Health Advice</title>
+      <link>https://www.rand.org/news/press/2025/11/one-in-eight-adolescents-and-young-adults-use-ai-chatbots.html</link>
+      <description>
+        <![CDATA[About 1 in 8 U.S. adolescents and young adults use AI chatbots for mental health advice, with the behavior most common among those aged 18 to 21.]]>
+      </description>
+      <source:markdown>About 1 in 8 U.S. adolescents and young adults use AI chatbots for mental health advice, with the behavior most common among those aged 18 to 21.</source:markdown>
+      <guid>cid://https://www.rand.org/news/press/2025/11/one-in-eight-adolescents-and-young-adults-use-ai-chatbots.html</guid>
     </item>    <item>
       <title>LA Zoo welcomes first baby orangutan in 15 years</title>
       <link>https://laist.com/news/los-angeles-activities/la-zoo-new-baby-orangutan-born</link>

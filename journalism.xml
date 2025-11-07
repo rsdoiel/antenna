@@ -4,10 +4,18 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>07 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>07 Nov 25 10:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The cute yellow Old Farmer’s Almanac isn’t the one shutting down</title>
+      <link>https://www.niemanlab.org/2025/11/the-cute-yellow-old-farmers-almanac-isnt-the-one-shutting-down/</link>
+      <description>
+        <![CDATA[For years, the annual edition of the Old Farmer&#8217;s Almanac hung from a nail in my grandparents&#8217; downstairs bathroom, and I was very upset to briefly believe on Friday that it was shutting down after more than 200 years of publication. Except, good news, it&#8217;s not. The one shutting down is the Farmer&#8217;s Almanac, a...]]>
+      </description>
+      <source:markdown>For years, the annual edition of the Old Farmer’s Almanac hung from a nail in my grandparents’ downstairs bathroom, and I was very upset to briefly believe on Friday that it was shutting down after more than 200 years of publication. Except, good news, it’s not. The one shutting down is the Farmer’s Almanac, a...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=244589</guid>
+    </item>    <item>
       <title>JuJu Watkins becomes first NCAA athlete to invest in pro women’s team</title>
       <link>https://dailytrojan.com/2025/11/07/juju-watkins-becomes-first-ncaa-athlete-to-invest-in-pro-womens-team/</link>
       <description>
@@ -426,9 +434,9 @@ The University Professional and Technical Employees-Communications Workers of Am
       <title>Audiences doubt the benefits of AI-generated imagery in news are worth the risks, new study finds</title>
       <link>https://www.niemanlab.org/2025/11/audiences-doubt-the-benefits-of-ai-generated-imagery-in-news-are-worth-the-risks-new-study-finds/</link>
       <description>
-        <![CDATA[What do readers really think of AI-generated images in their news? There has been substantial research on how audiences respond to AI-generated text, but far less dedicated research on image generators. That includes the use of products like Midjourney, Adobe Firefly, and Dall-E, which has now been integrated into both ChatGPT. The release of OpenAI’s...]]>
+        <![CDATA[What do readers really think of AI-generated images in their news? There has been substantial research on how audiences respond to AI-generated text, but far less dedicated research on image generators. That includes the use of products like Midjourney, Adobe Firefly, and Dall-E, which has now been integrated into ChatGPT. The release of OpenAI’s Sora...]]>
       </description>
-      <source:markdown>What do readers really think of AI-generated images in their news? There has been substantial research on how audiences respond to AI-generated text, but far less dedicated research on image generators. That includes the use of products like Midjourney, Adobe Firefly, and Dall-E, which has now been integrated into both ChatGPT. The release of OpenAI’s...</source:markdown>
+      <source:markdown>What do readers really think of AI-generated images in their news? There has been substantial research on how audiences respond to AI-generated text, but far less dedicated research on image generators. That includes the use of products like Midjourney, Adobe Firefly, and Dall-E, which has now been integrated into ChatGPT. The release of OpenAI’s Sora...</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=244561</guid>
     </item>    <item>
       <title>Burnt</title>

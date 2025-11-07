@@ -4,14 +4,206 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>07 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>07 Nov 25 10:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Build Terraform Modules That Your Team Will Actually Reuse</title>
+      <link>https://thenewstack.io/build-terraform-modules-that-your-team-will-actually-reuse/</link>
+      <description>
+        <![CDATA[<img width="1024" height="583" src="https://cdn.thenewstack.io/media/2025/11/9d4d5769-modules-1024x583.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="A collection of colorful building toys." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/9d4d5769-modules.jpg" /><p>Many organizations struggle with Terraform module adoption, experiencing challenges such as: Version fragmentation: Different projects/teams end up on different versions.</p>
+        <p>The post <a href="https://thenewstack.io/build-terraform-modules-that-your-team-will-actually-reuse/">Build Terraform Modules That Your Team Will Actually Reuse</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![A collection of colorful building toys.](https://cdn.thenewstack.io/media/2025/11/9d4d5769-modules-1024x583.jpg)
+
+Many organizations struggle with Terraform module adoption, experiencing challenges such as: Version fragmentation: Different projects/teams end up on different versions.
+
+The post [Build Terraform Modules That Your Team Will Actually Reuse](https://thenewstack.io/build-terraform-modules-that-your-team-will-actually-reuse/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805759</guid>
+    </item>    <item>
+      <title>Google&#39;s Gemini Deep Research can now read your Gmail and rummage through Google Drive</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/07/gemini_deep_research_can_now/</link>
+      <description>
+        <![CDATA[<h4>Even with more info, web giant says agent can&#39;t be trusted to keep you healthy, wealthy, and wise</h4> <p>Google&#39;s Gemini Deep Research tool can now reach deep into Gmail, Drive, and Chat to obtain data that might be useful for answering research questions.…</p>]]>
+      </description>
+      <source:markdown>#### Even with more info, web giant says agent can&#39;t be trusted to keep you healthy, wealthy, and wise
+
+Google&#39;s Gemini Deep Research tool can now reach deep into Gmail, Drive, and Chat to obtain data that might be useful for answering research questions.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242899</guid>
+    </item>    <item>
+      <title>CEO von Telefónica Deutschland: Hesse folgt auf Haas</title>
+      <link>https://www.heise.de/news/CEO-von-Telefonica-Deutschland-Hesse-folgt-auf-Haas-11071213.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Nach der plötzlichen Trennung von Markus Haas übernimmt Santiago Argelich Hesse die Führung von Telefónica Deutschland. Er kommt vom Funkturmbetreiber Cellnex.]]>
+      </description>
+      <source:markdown>Nach der plötzlichen Trennung von Markus Haas übernimmt Santiago Argelich Hesse die Führung von Telefónica Deutschland. Er kommt vom Funkturmbetreiber Cellnex.</source:markdown>
+      <guid>cid://http://heise.de/-11071213</guid>
+    </item>    <item>
+      <title>OpenTelemetry Experts on Tough Telemetry Challenges in Mobile</title>
+      <link>https://thenewstack.io/opentelemetry-experts-on-tough-telemetry-challenges-in-mobile/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/d293a3ee-mobile-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Colorful lights with mobile phone." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/d293a3ee-mobile.jpg" /><p>The season is changing for frontend observability, as we&#8217;re seeing great community involvement in improving OpenTelemetry support for web apps</p>
+        <p>The post <a href="https://thenewstack.io/opentelemetry-experts-on-tough-telemetry-challenges-in-mobile/">OpenTelemetry Experts on Tough Telemetry Challenges in Mobile</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Colorful lights with mobile phone.](https://cdn.thenewstack.io/media/2025/11/d293a3ee-mobile-1024x576.jpg)
+
+The season is changing for frontend observability, as we’re seeing great community involvement in improving OpenTelemetry support for web apps
+
+The post [OpenTelemetry Experts on Tough Telemetry Challenges in Mobile](https://thenewstack.io/opentelemetry-experts-on-tough-telemetry-challenges-in-mobile/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805725</guid>
+    </item>    <item>
+      <title>The Term &#39;67&#39; Is &#39;Impossible to Define.&#39; It Just Became Dictionary.com&#39;s Word of the Year for 2025</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-term-67-is-impossible-to-define-it-just-became-dictionary-coms-word-of-the-year-for-2025-180987650/</link>
+      <description>
+        <![CDATA[The dictionary says the viral word, which has become particularly popular among members of Gen Alpha, is "meaningless, ubiquitous and nonsensical"]]>
+      </description>
+      <source:markdown>The dictionary says the viral word, which has become particularly popular among members of Gen Alpha, is &#34;meaningless, ubiquitous and nonsensical&#34;</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/uhQiBDLFSXFv71o1-3ZHZM4kcXU=/420x240/filters:focal(2500x1690:2501x1691)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e2/03/e2036cc5-c59b-478e-afce-a514ff09aaec/gettyimages-1127517755.jpg" length="" type="" />
+    </item>    <item>
+      <title>Verbraucherschützer: 1N Telecom ignoriert Urteil des Bundesgerichtshofs</title>
+      <link>https://www.heise.de/news/Verbraucherschuetzer-1N-Telecom-ignoriert-Urteil-des-Bundesgerichtshofs-11071150.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Nach der BGH-Ansage, dass 1N Telecom nicht einfach auf AGBs nur durch einen Link verweisen darf, versucht die Firma über einen "Vergleich" Geld einzutreiben.]]>
+      </description>
+      <source:markdown>Nach der BGH-Ansage, dass 1N Telecom nicht einfach auf AGBs nur durch einen Link verweisen darf, versucht die Firma über einen &#34;Vergleich&#34; Geld einzutreiben.</source:markdown>
+      <guid>cid://http://heise.de/-11071150</guid>
+    </item>    <item>
+      <title>Peloton ruft 833.000 Bike+-Hometrainer zurück</title>
+      <link>https://www.heise.de/news/Peloton-ruft-833-000-Bike-Hometrainer-zurueck-11070992.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Fitnessgerätehersteller Peloton muss in den USA und Kanada einen Hometrainer zurückrufen. In mehreren Fällen war die Sattelstütze gebrochen.]]>
+      </description>
+      <source:markdown>Fitnessgerätehersteller Peloton muss in den USA und Kanada einen Hometrainer zurückrufen. In mehreren Fällen war die Sattelstütze gebrochen.</source:markdown>
+      <guid>cid://http://heise.de/-11070992</guid>
+    </item>    <item>
+      <title>Fahrbericht Hyundai Ioniq 6N: Erste Pistenrunde mit dem Taycan-Konkurrenten</title>
+      <link>https://www.heise.de/tests/Fahrbericht-Hyundai-Ioniq-6N-Erste-Pistenrunde-mit-dem-Taycan-Konkurrenten-11071105.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Hyundai zeigt mit dem Ioniq 6N eine bis in Antrieb und Fahrwerk seriös sportliche Version seiner E-Limousine mit vielversprechendem Preis-Leistungs-Verhältnis.]]>
+      </description>
+      <source:markdown>Hyundai zeigt mit dem Ioniq 6N eine bis in Antrieb und Fahrwerk seriös sportliche Version seiner E-Limousine mit vielversprechendem Preis-Leistungs-Verhältnis.</source:markdown>
+      <guid>cid://http://heise.de/-11071105</guid>
+    </item>    <item>
+      <title>Tactics to End Dark Patterns in App and Web Development</title>
+      <link>https://thenewstack.io/tactics-to-end-dark-patterns-in-app-and-web-development/</link>
+      <description>
+        <![CDATA[<img width="1024" height="579" src="https://cdn.thenewstack.io/media/2025/11/a861f503-darkpatternsinwebui-1024x579.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="A pattern made with dark bars." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/a861f503-darkpatternsinwebui.jpg" /><p>Rohan Gupta of R Systems sees the value of building UI with an eye out for dark patterns at the</p>
+        <p>The post <a href="https://thenewstack.io/tactics-to-end-dark-patterns-in-app-and-web-development/">Tactics to End Dark Patterns in App and Web Development</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![A pattern made with dark bars.](https://cdn.thenewstack.io/media/2025/11/a861f503-darkpatternsinwebui-1024x579.jpg)
+
+Rohan Gupta of R Systems sees the value of building UI with an eye out for dark patterns at the
+
+The post [Tactics to End Dark Patterns in App and Web Development](https://thenewstack.io/tactics-to-end-dark-patterns-in-app-and-web-development/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805711</guid>
+    </item>    <item>
+      <title>Apple-Brief: EU-Gesetze widersprechen sich und machen Plattformen unsicher</title>
+      <link>https://www.heise.de/news/Apple-Brief-EU-Gesetze-widersprechen-sich-und-machen-Plattformen-unsicher-11071084.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Apple wirft der Europäischen Union vor, dass sich ihre Digitalgesetze gegenseitig in die Quere kommen und mobile Plattformen für Verbraucher unsicherer machen.]]>
+      </description>
+      <source:markdown>Apple wirft der Europäischen Union vor, dass sich ihre Digitalgesetze gegenseitig in die Quere kommen und mobile Plattformen für Verbraucher unsicherer machen.</source:markdown>
+      <guid>cid://http://heise.de/-11071084</guid>
+    </item>    <item>
+      <title>Erste Beta-Nutzer können Drittanbieter-Chats in WhatsApp testen</title>
+      <link>https://www.heise.de/news/Erste-Beta-Nutzer-koennen-Drittanbieter-Chats-in-WhatsApp-testen-11070940.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[WhatsApp lässt erste Beta-Nutzer den Chat mit Drittanbieter-Apps testen. Derzeit wird jedoch nur ein Messenger unterstützt.]]>
+      </description>
+      <source:markdown>WhatsApp lässt erste Beta-Nutzer den Chat mit Drittanbieter-Apps testen. Derzeit wird jedoch nur ein Messenger unterstützt.</source:markdown>
+      <guid>cid://http://heise.de/-11070940</guid>
+    </item>    <item>
+      <title>Cybercrims plant destructive time bomb malware in industrial .NET extensions</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/07/cybercriminals_plant_destructive_time_bomb/</link>
+      <description>
+        <![CDATA[<h4>Multi-year wait for destruction comes to an end for mystery attackers</h4> <p>Security experts have helped remove malicious NuGet packages planted in 2023 that were designed to destroy systems years in advance, with some payloads not due to hit until the latter part of this decade.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Multi-year wait for destruction comes to an end for mystery attackers
+
+Security experts have helped remove malicious NuGet packages planted in 2023 that were designed to destroy systems years in advance, with some payloads not due to hit until the latter part of this decade.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242908</guid>
+    </item>    <item>
+      <title>Researchers want to kill the vibe, propose better model for AI coding</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/07/researchers_detail_legible_software_model/</link>
+      <description>
+        <![CDATA[<h4>MIT researchers offer cure for illegible software</h4> <p>A pair of MIT researchers have detailed a proposed new model for software that would help both humans and AI code generators alike create better and more transparent applications. No more vibing!…</p>]]>
+      </description>
+      <source:markdown>#### MIT researchers offer cure for illegible software
+
+A pair of MIT researchers have detailed a proposed new model for software that would help both humans and AI code generators alike create better and more transparent applications. No more vibing!…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242912</guid>
+    </item>    <item>
+      <title>Thermostat für Fußbodenheizung Meross MTS215B im Test</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/thermostat-fuer-fussbodenheizung-meross-mts215b-im-test-zeigt-auch-heizverlauf/bx4c1yt?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das Meross MTS215B lässt sich dank Matter in viele Smart-Home-Zentralen integrieren. Was das Thermostat sonst noch kann, zeigt der Test.]]>
+      </description>
+      <source:markdown>Das Meross MTS215B lässt sich dank Matter in viele Smart-Home-Zentralen integrieren. Was das Thermostat sonst noch kann, zeigt der Test.</source:markdown>
+      <guid>cid://http://heise.de/-11071026</guid>
+    </item>    <item>
+      <title>Physicists Take the Imaginary Numbers Out of Quantum Mechanics</title>
+      <link>https://www.quantamagazine.org/physicists-take-the-imaginary-numbers-out-of-quantum-mechanics-20251107/</link>
+      <description>
+        <![CDATA[Quantum mechanics has at last been formulated exclusively with real numbers, bringing a mathematical puzzle at the heart of the theory into a new era of inquiry.             <p>The post <a href="https://www.quantamagazine.org/physicists-take-the-imaginary-numbers-out-of-quantum-mechanics-20251107/" target="_blank">Physicists Take the Imaginary Numbers Out of Quantum Mechanics</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Quantum mechanics has at last been formulated exclusively with real numbers, bringing a mathematical puzzle at the heart of the theory into a new era of inquiry.
+
+The post [Physicists Take the Imaginary Numbers Out of Quantum Mechanics](https://www.quantamagazine.org/physicists-take-the-imaginary-numbers-out-of-quantum-mechanics-20251107/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=156437</guid>
+    </item>    <item>
+      <title>The Search API Reset: Incumbents Retreat, Innovators Step Up</title>
+      <link>https://thenewstack.io/the-search-api-reset-incumbents-retreat-innovators-step-up/</link>
+      <description>
+        <![CDATA[<img width="1024" height="608" src="https://cdn.thenewstack.io/media/2025/11/8e80d61d-search-1024x608.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Online and internet search concept with double exposure of human hand typing on laptop keyboard and digital glowing screen with world map and search field window." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/8e80d61d-search.jpg" /><p>The search landscape is shifting. In recent months, Microsoft announced the retirement of the Bing Search API, while Google limited</p>
+        <p>The post <a href="https://thenewstack.io/the-search-api-reset-incumbents-retreat-innovators-step-up/">The Search API Reset: Incumbents Retreat, Innovators Step Up</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Online and internet search concept with double exposure of human hand typing on laptop keyboard and digital glowing screen with world map and search field window.](https://cdn.thenewstack.io/media/2025/11/8e80d61d-search-1024x608.jpg)
+
+The search landscape is shifting. In recent months, Microsoft announced the retirement of the Bing Search API, while Google limited
+
+The post [The Search API Reset: Incumbents Retreat, Innovators Step Up](https://thenewstack.io/the-search-api-reset-incumbents-retreat-innovators-step-up/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805707</guid>
+    </item>    <item>
+      <title>Steam-Spiele laufen auch auf Android (ja, wirklich)</title>
+      <link>https://www.heise.de/news/Steam-Spiele-laufen-auch-auf-Android-ja-wirklich-11070912.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Fast ohne Frickelei: Emulations-Apps wie GameHub oder Winlator bringen Windows-Spiele auf Android zum Laufen.]]>
+      </description>
+      <source:markdown>Fast ohne Frickelei: Emulations-Apps wie GameHub oder Winlator bringen Windows-Spiele auf Android zum Laufen.</source:markdown>
+      <guid>cid://http://heise.de/-11070912</guid>
+    </item>    <item>
+      <title>Musk gets approval for bumper Tesla payout but, unlike his robot, there are strings attached</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/07/musk_pay_package/</link>
+      <description>
+        <![CDATA[<h4>Behold the one trillion dollar man</h4> <p>Tesla is awarding its CEO Elon Musk a package worth a possible $1 trillion, however, it relies in part on a dramatic increase in the value of the electric vehicle manufacturer.…</p>]]>
+      </description>
+      <source:markdown>#### Behold the one trillion dollar man
+
+Tesla is awarding its CEO Elon Musk a package worth a possible $1 trillion, however, it relies in part on a dramatic increase in the value of the electric vehicle manufacturer.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242907</guid>
+    </item>    <item>
+      <title>E-Zigaretten als Wegwerfprodukt: Politik treibt Verbot voran</title>
+      <link>https://www.heise.de/news/E-Zigaretten-als-Wegwerfprodukt-Politik-treibt-Verbot-voran-11070819.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Einweg-E-Zigaretten sind immer beliebter aber auch ein gravierendes Elektroschrott-Problem. Die Bundesregierung soll hier aktiv werden, fordert der Bundestag.]]>
+      </description>
+      <source:markdown>Einweg-E-Zigaretten sind immer beliebter aber auch ein gravierendes Elektroschrott-Problem. Die Bundesregierung soll hier aktiv werden, fordert der Bundestag.</source:markdown>
+      <guid>cid://http://heise.de/-11070819</guid>
+    </item>    <item>
+      <title>&#39;Windows sucks,&#39; former Microsoft Engineer says, explains how to fix it</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/07/does_windows_really_suck_that/</link>
+      <description>
+        <![CDATA[<h4>Respecting users choices and offering a hardcore mode among key suggestions.</h4> <p>Retired Microsoft engineer Dave Plummer has waded into the argument over where Microsoft has gone wrong with Windows, suggesting that perhaps the OS needs a hardcore mode to offset some of its fluffier edges.…</p>]]>
+      </description>
+      <source:markdown>#### Respecting users choices and offering a hardcore mode among key suggestions.
+
+Retired Microsoft engineer Dave Plummer has waded into the argument over where Microsoft has gone wrong with Windows, suggesting that perhaps the OS needs a hardcore mode to offset some of its fluffier edges.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242906</guid>
+    </item>    <item>
       <title>Apptainer for Docker Developers: A Comprehensive Guide</title>
       <link>https://thenewstack.io/apptainer-for-docker-developers-a-comprehensive-guide/</link>
       <description>
-        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/11/0e5d4e75-apptainer-1024x768.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/0e5d4e75-apptainer.png" /><p>An open source container platform, Apptainer (formerly Singularity) is designed for secure, high-performance computing (HPC) environments. Unlike Docker, which dominates</p>
+        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/11/0e5d4e75-apptainer-1024x768.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/0e5d4e75-apptainer.png" /><p>An open source container platform, Apptainer (formerly Singularity) is designed for secure, high-performance computing (HPC) environments. Unlike Docker, which dominates</p>
         <p>The post <a href="https://thenewstack.io/apptainer-for-docker-developers-a-comprehensive-guide/">Apptainer for Docker Developers: A Comprehensive Guide</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/0e5d4e75-apptainer-1024x768.png)
@@ -45,7 +237,7 @@ The post [Apptainer for Docker Developers: A Comprehensive Guide](https://thenew
       <source:markdown>Ist die Firmen-IT zu gut geschützt, attackieren Angreifer gezielt Zulieferer. Knapp 28 Prozent der Firmen sind betroffen – viele davon mit spürbaren Folgen.</source:markdown>
       <guid>cid://http://heise.de/-11070823</guid>
     </item>    <item>
-      <title>Neues Apple-TV-Intro: Keine KI, kein CGI</title>
+      <title>Intro komplett &#34;in camera&#34;: Apple baute neues Apple-TV-Logo physisch auf</title>
       <link>https://www.heise.de/news/Neues-Apple-TV-Intro-Keine-KI-kein-CGI-11070747.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
         <![CDATA[Ein Designer hat verraten, wie Apple das neue Introvideo für seinen Streamingdienst hergestellt hat. Der Vorgang war erstaunlich aufwendig.]]>
@@ -352,9 +544,9 @@ The UK’s tax collector is yet to reach the levels of efficiency its investment
       <title>Rechenzentren-Boom: Großbritannien steht vor Stromanschluss-Problemen</title>
       <link>https://www.heise.de/news/Rechenzentren-Boom-Grossbritannien-steht-vor-Stromanschluss-Problemen-11069191.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <description>
-        <![CDATA[Großbritanniens Stromnetz droht zum Flaschenhals für den digitalen Ausbau. Tech-Konzerne überfluten Netzbetreiber mit spekulativen Rechenzentren-Anträgen.]]>
+        <![CDATA[Großbritanniens Stromnetz droht zum Flaschenhals für den digitalen Ausbau zu werden. Konzerne überfluten Netzbetreiber mit spekulativen Rechenzentren-Anträgen.]]>
       </description>
-      <source:markdown>Großbritanniens Stromnetz droht zum Flaschenhals für den digitalen Ausbau. Tech-Konzerne überfluten Netzbetreiber mit spekulativen Rechenzentren-Anträgen.</source:markdown>
+      <source:markdown>Großbritanniens Stromnetz droht zum Flaschenhals für den digitalen Ausbau zu werden. Konzerne überfluten Netzbetreiber mit spekulativen Rechenzentren-Anträgen.</source:markdown>
       <guid>cid://http://heise.de/-11069191</guid>
     </item>    <item>
       <title>AWS startet Planungstool für regionale Service-Verfügbarkeit</title>
