@@ -7,10 +7,58 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>06 Nov 25 14:11 -0800</lastBuildDate>
+    <lastBuildDate>07 Nov 25 06:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>How did an ‘implausible’ claim about jobs created by LA’s ‘mansion tax’ get cited by watchdogs?</title>
+      <link>https://laist.com/news/housing-homelessness/los-angeles-mansion-tax-measure-ula-housing-construction-jobs-citizen-oversight-committee</link>
+      <description>
+        <![CDATA[A committee tasked with oversight of the city’s controversial tax said it has created 10,000 union construction jobs. LAist tracked down the claim’s origins.]]>
+      </description>
+      <source:markdown>A committee tasked with oversight of the city’s controversial tax said it has created 10,000 union construction jobs. LAist tracked down the claim’s origins.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5b4b-d2a5-a1fa-7bcbedc00000</guid>
+    </item>    <item>
+      <title>LA Zoo welcomes first baby orangutan in 15 years</title>
+      <link>https://laist.com/news/los-angeles-activities/la-zoo-new-baby-orangutan-born</link>
+      <description>
+        <![CDATA[The infant boy is bonding with his mother, but visitors can see him now.]]>
+      </description>
+      <source:markdown>The infant boy is bonding with his mother, but visitors can see him now.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5b98-d3e2-abfa-fbdea4380000</guid>
+    </item>    <item>
+      <title>Trump could play politics with California disaster relief, emergency experts warn</title>
+      <link>https://laist.com/news/climate-environment/trump-politics-california-disaster-relief</link>
+      <description>
+        <![CDATA[For decades, Californians could rely on the federal government for help. “The modern era of emergency management … is forever changing,” a state official says.]]>
+      </description>
+      <source:markdown>For decades, Californians could rely on the federal government for help. “The modern era of emergency management … is forever changing,” a state official says.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5b3a-dc80-a59e-5b7f89dd0000</guid>
+    </item>    <item>
+      <title>After California&#39;s vote to counter Trump, here&#39;s where redistricting stands nationally</title>
+      <link>https://laist.com/news/politics/after-californias-vote-to-counter-trump-heres-where-redistricting-stands</link>
+      <description>
+        <![CDATA[Texas drew new lines to help the GOP win in the midterm elections. California countered this week. Republicans might have an edge in the redistricting battle as it spreads nationally.]]>
+      </description>
+      <source:markdown>Texas drew new lines to help the GOP win in the midterm elections. California countered this week. Republicans might have an edge in the redistricting battle as it spreads nationally.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5b28-d2a5-a1fa-7be9758f0000</guid>
+    </item>    <item>
+      <title>Nearly 100 oiled sea birds treated at San Pedro’s International Bird Rescue</title>
+      <link>https://laist.com/news/nearly-100-oiled-sea-birds-treated-at-san-pedros-international-bird-rescue</link>
+      <description>
+        <![CDATA[The birds come from a natural oil seep along the Ventura and Santa Barbara coasts.]]>
+      </description>
+      <source:markdown>The birds come from a natural oil seep along the Ventura and Santa Barbara coasts.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5b16-d197-afbf-7ff6d0370000</guid>
+    </item>    <item>
+      <title>Trump administration ordered to restore full SNAP benefits by Friday</title>
+      <link>https://laist.com/news/politics/trump-administration-ordered-to-restore-full-snap-benefits-by-friday</link>
+      <description>
+        <![CDATA[Judge says the government "failed to consider the harms individuals who rely on those benefits would suffer."]]>
+      </description>
+      <source:markdown>Judge says the government &#34;failed to consider the harms individuals who rely on those benefits would suffer.&#34;</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5b39-d3e2-abfa-fbff8dec0000</guid>
+    </item>    <item>
       <title>The DOJ has been firing judges with immigrant defense backgrounds</title>
       <link>https://laist.com/news/politics/doj-firing-judges-with-immigrant-defense-backgrounds</link>
       <description>
@@ -30,7 +78,7 @@
 The post [Honoring Service, Sacrifice and Community](https://santaclarita.gov/blog/2025/11/06/honoring-service-sacrifice-and-community/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
       <guid>cid://https://santaclarita.gov/?p=7027</guid>
     </item>    <item>
-      <title>The Trump administration scrubbed Blue Ribbon schools. Here are all the California winners</title>
+      <title>The Trump administration scrubbed info on &#39;Blue Ribbon&#39; schools. Here are California&#39;s winners</title>
       <link>https://laist.com/news/education/trump-administration-national-blue-ribbon-schools-california-archives</link>
       <description>
         <![CDATA[Hundreds of California schools won the National Blue Ribbon honor before the program ended in August.]]>
@@ -94,7 +142,7 @@ The post [Honoring Service, Sacrifice and Community](https://santaclarita.gov/bl
       <source:markdown>A report from a state school advisory agency finds ongoing funding is needed to support public schools damaged by January’s wildfires.</source:markdown>
       <guid>cid://urn:uuid:0000019a-5650-df8a-a3db-5670dcb50000</guid>
     </item>    <item>
-      <title>The Olympics are a multi-billion dollar business. What does that mean for LA taxpayers?</title>
+      <title>The Olympics are a multi-billion dollar business. Here&#39;s what that means for LA taxpayers</title>
       <link>https://laist.com/news/los-angeles-hosting-2028-olympics-money-financial-taxpayers</link>
       <description>
         <![CDATA[The city's financial exposure is essentially unlimited in the event of budget overruns.]]>
@@ -2791,185 +2839,6 @@ The post [Library Express: Bringing Books, Technology and Imagination to Your Ne
       </description>
       <source:markdown>The police department filed an emergency order ahead of this Saturday&#39;s No Kings protest.</source:markdown>
       <guid>cid://urn:uuid:00000199-ef76-d89a-a3b9-fff7b2460000</guid>
-    </item>    <item>
-      <title>USC rejects Trump proposal for funding in exchange for policy changes</title>
-      <link>https://laist.com/news/education/usc-rejects-trump-administration-linda-mcmahon-compact</link>
-      <description>
-        <![CDATA[The university says the compact, as the Trump administration called it, could undermine free inquiry and academic excellence.]]>
-      </description>
-      <source:markdown>The university says the compact, as the Trump administration called it, could undermine free inquiry and academic excellence.</source:markdown>
-      <guid>cid://urn:uuid:00000199-ef3d-d89a-a3b9-ffbf18080000</guid>
-    </item>    <item>
-      <title>Trash pickup is about to get more expensive for LA residents — here’s how much you’ll pay</title>
-      <link>https://laist.com/news/trash-pickup-more-expensive-for-la-residents-how-much-youll-pay</link>
-      <description>
-        <![CDATA[Residents living in single-family homes and duplexes will see monthly fees go up from $36.32 to $55.95.]]>
-      </description>
-      <source:markdown>Residents living in single-family homes and duplexes will see monthly fees go up from $36.32 to $55.95.</source:markdown>
-      <guid>cid://urn:uuid:00000199-ee7c-dc80-a5fb-ef7cd69e0000</guid>
-    </item>    <item>
-      <title>Hold onto your produce: Parts of LA County under invasive fruit fly quarantine</title>
-      <link>https://laist.com/news/climate-environment/parts-of-la-county-under-invasive-caribbean-fruit-fly-quarantine</link>
-      <description>
-        <![CDATA[Caribbean fruit flies have been detected around Montebello, prompting California’s first quarantine for the species in 40 years.]]>
-      </description>
-      <source:markdown>Caribbean fruit flies have been detected around Montebello, prompting California’s first quarantine for the species in 40 years.</source:markdown>
-      <guid>cid://urn:uuid:00000199-eedc-dce4-a3f9-eefc8d060000</guid>
-    </item>    <item>
-      <title>Kristen Bell gets candid with Larry Mantle about her career</title>
-      <link>https://laist.com/news/kristen-bell-interview-acting-comedy-career</link>
-      <description>
-        <![CDATA[The actor on creative control, learning comedy and finding her lane.]]>
-      </description>
-      <source:markdown>The actor on creative control, learning comedy and finding her lane.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e8bc-dc1c-a3bd-e8fdd61e0000</guid>
-    </item>    <item>
-      <title>LA County confirms second US case of more severe mpox strain not linked to travel</title>
-      <link>https://laist.com/news/health/la-county-confirms-second-us-case-of-more-severe-mpox-strain-not-linked-to-travel</link>
-      <description>
-        <![CDATA[Earlier this week, the city of Long Beach confirmed a case.]]>
-      </description>
-      <source:markdown>Earlier this week, the city of Long Beach confirmed a case.</source:markdown>
-      <guid>cid://urn:uuid:00000199-ee95-dce4-a3f9-eebd3ced0000</guid>
-    </item>    <item>
-      <title>The usually illegal thing you can do in San Clemente this weekend — for $1,000</title>
-      <link>https://laist.com/news/los-angeles-activities/san-clemente-pier-jumping-1000-dollars</link>
-      <description>
-        <![CDATA[This is the one time you can do this legally!]]>
-      </description>
-      <source:markdown>This is the one time you can do this legally!</source:markdown>
-      <guid>cid://urn:uuid:00000199-ee86-d89a-a3b9-ff876e200000</guid>
-    </item>    <item>
-      <title>Santa Clarita’s Día de Muertos Celebration</title>
-      <link>https://santaclarita.gov/blog/2025/10/16/santa-claritas-dia-de-muertos-celebration/</link>
-      <description>
-        <![CDATA[<p>By Mayor Bill Miranda “There is no death, people die only when we forget them. If you remember me, I will be with you always.” &#8211; Isabel Allende Celebrating culture is one of the most meaningful ways we can bring people together, preserve traditions and strengthen our sense of community. In Santa Clarita, we take [&#8230;]</p>
-        <p>The post <a href="https://santaclarita.gov/blog/2025/10/16/santa-claritas-dia-de-muertos-celebration/">Santa Clarita’s Día de Muertos Celebration</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
-      </description>
-      <source:markdown>By Mayor Bill Miranda “There is no death, people die only when we forget them. If you remember me, I will be with you always.” – Isabel Allende Celebrating culture is one of the most meaningful ways we can bring people together, preserve traditions and strengthen our sense of community. In Santa Clarita, we take \[…\]
-
-The post [Santa Clarita’s Día de Muertos Celebration](https://santaclarita.gov/blog/2025/10/16/santa-claritas-dia-de-muertos-celebration/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
-      <guid>cid://https://santaclarita.gov/?p=6855</guid>
-    </item>    <item>
-      <title>Feds announce charges alleging LA-based developers misused public homelessness money</title>
-      <link>https://laist.com/news/housing-homelessness/bill-essayli-federal-charges-homelessness-homekey</link>
-      <description>
-        <![CDATA[Prosecutor says the cases are 'just the beginning' in the federal government’s investigations into the use of billions of public funds for homelessness.]]>
-      </description>
-      <source:markdown>Prosecutor says the cases are &#39;just the beginning&#39; in the federal government’s investigations into the use of billions of public funds for homelessness.</source:markdown>
-      <guid>cid://urn:uuid:00000199-eea1-d00e-a1fd-ffbf3d9f0000</guid>
-    </item>    <item>
-      <title>NPR &#39;founding mother&#39; Susan Stamberg has died</title>
-      <link>https://laist.com/news/npr-founding-mother-susan-stamberg-has-died</link>
-      <description>
-        <![CDATA[Susan Stamberg, an original National Public Radio staffer who went on to become the first U.S. woman to anchor a nightly national news program, has died.]]>
-      </description>
-      <source:markdown>Susan Stamberg, an original National Public Radio staffer who went on to become the first U.S. woman to anchor a nightly national news program, has died.</source:markdown>
-      <guid>cid://urn:uuid:00000199-ee8e-dc80-a5fb-efdec89b0000</guid>
-    </item>    <item>
-      <title>&#39;Made In LA&#39; distills the city&#39;s enormous art scene into one exhibit</title>
-      <link>https://laist.com/news/arts-and-entertainment/made-in-la-2025</link>
-      <description>
-        <![CDATA[Paintings, sculptures, video installations and mixed-medium creations make up this review of local artists.]]>
-      </description>
-      <source:markdown>Paintings, sculptures, video installations and mixed-medium creations make up this review of local artists.</source:markdown>
-      <guid>cid://urn:uuid:00000199-ee1c-dc80-a5fb-ef5c15410000</guid>
-    </item>    <item>
-      <title>Cal State workers are getting a one-time bonus, paid for by a $144 million loan due next year</title>
-      <link>https://laist.com/news/education/cal-state-workers-are-getting-a-one-time-bonus-paid-for-by-a-144-million-loan-due-next-year</link>
-      <description>
-        <![CDATA[Cal State officials plan to use the loan to pay for one-time bonuses to faculty and staff. The loan must be repaid by July.]]>
-      </description>
-      <source:markdown>Cal State officials plan to use the loan to pay for one-time bonuses to faculty and staff. The loan must be repaid by July.</source:markdown>
-      <guid>cid://urn:uuid:00000199-ee4f-d89a-a3b9-ffcfd0a10000</guid>
-    </item>    <item>
-      <title>How LA fire survivors are handling their personal recoveries</title>
-      <link>https://laist.com/news/how-la-fire-survivors-are-handling-recovery-efforts</link>
-      <description>
-        <![CDATA[AirTalk listeners shared the challenges and success they've faced in their recoveries.]]>
-      </description>
-      <source:markdown>AirTalk listeners shared the challenges and success they&#39;ve faced in their recoveries.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e996-dc80-a5fb-eddea1410000</guid>
-    </item>    <item>
-      <title>California hospitals are suing over the state’s efforts to curb their spending</title>
-      <link>https://laist.com/news/health/california-hospitals-are-suing-over-the-states-efforts-to-curb-their-spending</link>
-      <description>
-        <![CDATA[Hospitals argue that spending caps imposed by an affordability office will result in layoffs, cuts in health care services and reduced access to care for Californians.]]>
-      </description>
-      <source:markdown>Hospitals argue that spending caps imposed by an affordability office will result in layoffs, cuts in health care services and reduced access to care for Californians.</source:markdown>
-      <guid>cid://urn:uuid:00000199-edd1-dce4-a3f9-eff9ac650000</guid>
-    </item>    <item>
-      <title>Best things to do this weekend in LA and SoCal: Oct. 17-19</title>
-      <link>https://laist.com/news/arts-and-entertainment/best-weekend-events-los-angeles-southern-california-october-17-19</link>
-      <description>
-        <![CDATA[Honor West Covina at the Crazy Ex-Girlfriend reunion, put on your boots for the Great L.A. River Cleanup, meet nocturnal plants and animals at the California Botanic Garden, catch a spooky poolside screening in Irvine and more.]]>
-      </description>
-      <source:markdown>Honor West Covina at the Crazy Ex-Girlfriend reunion, put on your boots for the Great L.A. River Cleanup, meet nocturnal plants and animals at the California Botanic Garden, catch a spooky poolside screening in Irvine and more.</source:markdown>
-      <guid>cid://urn:uuid:00000199-eda2-dc80-a5fb-edfa41740000</guid>
-    </item>    <item>
-      <title>Newsom unveils $11 state insulin for Californians: ‘We took matters into our own hands’</title>
-      <link>https://laist.com/news/health/newsom-unveils-11-state-insulin-for-californians</link>
-      <description>
-        <![CDATA[California's first insulin pens will be for sale two years after the governor’s promised delivery date in 2024.]]>
-      </description>
-      <source:markdown>California&#39;s first insulin pens will be for sale two years after the governor’s promised delivery date in 2024.</source:markdown>
-      <guid>cid://urn:uuid:00000199-edbc-dce4-a3f9-efbc418e0000</guid>
-    </item>    <item>
-      <title>At 93 years old, LA artist who helped popularize Day of the Dead gets her first solo show</title>
-      <link>https://laist.com/news/arts-and-entertainment/la-artist-who-helped-popularize-day-of-the-dead-gets-first-solo-show</link>
-      <description>
-        <![CDATA[L.A.’s preeminent altarista Ofelia Esparza’s work will be on display at the Vincent Price Museum from October to April.]]>
-      </description>
-      <source:markdown>L.A.’s preeminent altarista Ofelia Esparza’s work will be on display at the Vincent Price Museum from October to April.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e95f-d89a-a3b9-fddf34af0006</guid>
-    </item>    <item>
-      <title>Newsom signs law clarifying that landlords must clean fire debris</title>
-      <link>https://laist.com/news/housing-homelessness/landlord-tenant-fire-ash-smoke-cleaning-law-los-angeles</link>
-      <description>
-        <![CDATA[Local officials told renters they couldn’t force landlords to clean ash-covered homes. A new state law, inspired in part by LAist’s reporting, clarifies who’s responsible.]]>
-      </description>
-      <source:markdown>Local officials told renters they couldn’t force landlords to clean ash-covered homes. A new state law, inspired in part by LAist’s reporting, clarifies who’s responsible.</source:markdown>
-      <guid>cid://urn:uuid:00000199-ea08-dc1c-a3bd-eacddeda0000</guid>
-    </item>    <item>
-      <title>Mistrust in Santa Ana City Hall brews within City Council over questions about canceled state contract</title>
-      <link>https://laist.com/news/politics/mistrust-in-santa-ana-city-hall-brews-within-city-council-over-questions-about-canceled-state-contract</link>
-      <description>
-        <![CDATA[City management dropped a $7M contract with the state for childcare without telling the council.]]>
-      </description>
-      <source:markdown>City management dropped a $7M contract with the state for childcare without telling the council.</source:markdown>
-      <guid>cid://urn:uuid:00000199-ea1f-d89a-a3b9-ff9f677f0000</guid>
-    </item>    <item>
-      <title>Public immigration sweeps in LA are not new — similar tactics were used in the 1930s</title>
-      <link>https://laist.com/news/la-history/public-immigration-sweeps-in-la-are-not-new-similar-tactics-were-used-in-the-1930s</link>
-      <description>
-        <![CDATA[Similar tactics to today's ICE sweeps were seen in the city 100 years ago.]]>
-      </description>
-      <source:markdown>Similar tactics to today&#39;s ICE sweeps were seen in the city 100 years ago.</source:markdown>
-      <guid>cid://urn:uuid:00000199-df9a-d89a-a3b9-ff9fe1680000</guid>
-    </item>    <item>
-      <title>Suspect charged in connection to Palisades Fire faces new charges</title>
-      <link>https://laist.com/news/criminal-justice/suspect-charged-in-connection-to-palisades-fire-faces-new-charges</link>
-      <description>
-        <![CDATA[Jonathan Rinderknecht was indicted Wednesday with two additional felonies by a federal grand jury.]]>
-      </description>
-      <source:markdown>Jonathan Rinderknecht was indicted Wednesday with two additional felonies by a federal grand jury.</source:markdown>
-      <guid>cid://urn:uuid:00000199-ea8b-d89a-a3b9-ff8f90f60000</guid>
-    </item>    <item>
-      <title>LA County’s $2M CEO payout was over claims she was harmed by ballot measure</title>
-      <link>https://laist.com/news/la-countys-ceo-payout-ballot-measure-g</link>
-      <description>
-        <![CDATA[Davenport requested the settlement for “reputational harm, embarrassment and physical, emotional and mental distress caused by the Measure G.”]]>
-      </description>
-      <source:markdown>Davenport requested the settlement for “reputational harm, embarrassment and physical, emotional and mental distress caused by the Measure G.”</source:markdown>
-      <guid>cid://urn:uuid:00000199-ea5c-dc1c-a3bd-eadd5e0c0000</guid>
-    </item>    <item>
-      <title>Port of LA ups and downs land in good spot for holiday consumers</title>
-      <link>https://laist.com/news/port-of-la-ups-and-downs-land-in-good-spot-for-holiday-consumers</link>
-      <description>
-        <![CDATA[Nearly three million containers moved through the Port of L.A. complex between July and September.]]>
-      </description>
-      <source:markdown>Nearly three million containers moved through the Port of L.A. complex between July and September.</source:markdown>
-      <guid>cid://urn:uuid:00000199-ea4b-dc80-a5fb-ef5b7d290000</guid>
     </item>
   </channel>
 </rss>
