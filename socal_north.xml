@@ -7,10 +7,29 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>07 Nov 25 14:10 -0800</lastBuildDate>
+    <lastBuildDate>07 Nov 25 19:16 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>OC veterans tell their US House rep they can barely afford housing</title>
+      <link>https://laist.com/news/oc-veterans-us-house-rep-dave-min-housing</link>
+      <description>
+        <![CDATA[Veterans said they also have faced challenges and delays getting federal food and education benefits.]]>
+      </description>
+      <source:markdown>Veterans said they also have faced challenges and delays getting federal food and education benefits.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-60d4-d470-a5ff-f7d550410000</guid>
+    </item>    <item>
+      <title>The MAIN Announces Exciting 2026 Season Lineup</title>
+      <link>https://santaclarita.gov/blog/2025/11/07/the-main-announces-exciting-2026-season-lineup/</link>
+      <description>
+        <![CDATA[<p>An Entire Year of Comedy, Drama, Music and More! The MAIN (24266 Main Street), the 81-seat theater in Old Town Newhall, is thrilled to announce its 2026 season lineup, featuring an unforgettable mix of comedy, drama and original theatrical works that will light up the stage all year long. Next year, The MAIN is going [&#8230;]</p>
+        <p>The post <a href="https://santaclarita.gov/blog/2025/11/07/the-main-announces-exciting-2026-season-lineup/">The MAIN Announces Exciting 2026 Season Lineup</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
+      </description>
+      <source:markdown>An Entire Year of Comedy, Drama, Music and More! The MAIN (24266 Main Street), the 81-seat theater in Old Town Newhall, is thrilled to announce its 2026 season lineup, featuring an unforgettable mix of comedy, drama and original theatrical works that will light up the stage all year long. Next year, The MAIN is going \[…\]
+
+The post [The MAIN Announces Exciting 2026 Season Lineup](https://santaclarita.gov/blog/2025/11/07/the-main-announces-exciting-2026-season-lineup/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
+      <guid>cid://https://santaclarita.gov/?p=7056</guid>
+    </item>    <item>
       <title>Community Development Block Grant Funding Coming Available</title>
       <link>https://santaclarita.gov/blog/2025/11/07/community-development-block-grant-funding-coming-available-2/</link>
       <description>
@@ -2706,198 +2725,6 @@ The post [Library Express: Bringing Books, Technology and Imagination to Your Ne
       </description>
       <source:markdown>After the pandemic years hit hard, national survey shows students are getting happier.</source:markdown>
       <guid>cid://urn:uuid:00000199-f455-dc80-a5fb-fd5da30a0000</guid>
-    </item>    <item>
-      <title>Judge blocks LAPD request to lift restrictions on use of force against the press</title>
-      <link>https://laist.com/news/politics/judge-blocks-lapd-request-use-of-force-press-no-kings-protests</link>
-      <description>
-        <![CDATA[The move comes ahead of Saturday's No Kings protests.]]>
-      </description>
-      <source:markdown>The move comes ahead of Saturday&#39;s No Kings protests.</source:markdown>
-      <guid>cid://urn:uuid:00000199-f45a-dc80-a5fb-fd5ae2c40000</guid>
-    </item>    <item>
-      <title>The test for US citizenship is about to get harder</title>
-      <link>https://laist.com/news/us-citizenship-test-harder-trump-administration</link>
-      <description>
-        <![CDATA[The Trump administration says more difficult questions and other changes to the naturalization process will ensure only immigrants who are 'fully assimilated' will gain citizenship.]]>
-      </description>
-      <source:markdown>The Trump administration says more difficult questions and other changes to the naturalization process will ensure only immigrants who are &#39;fully assimilated&#39; will gain citizenship.</source:markdown>
-      <guid>cid://urn:uuid:00000199-f43e-d805-a5df-f4ff41980000</guid>
-    </item>    <item>
-      <title>Video: The Pedway, L.A.’s Forgotten Bridge Network</title>
-      <link>https://transitinglosangeles.com/2025/10/17/video-the-pedway-l-a-s-forgotten-bridge-network/</link>
-      <description>
-        <![CDATA[In Downtown Los Angeles is a network of pedestrian bridges that seem very out of place. Why were these built, what were they for, and what can you find on them today?]]>
-      </description>
-      <source:markdown>In Downtown Los Angeles is a network of pedestrian bridges that seem very out of place. Why were these built, what were they for, and what can you find on them today?</source:markdown>
-      <guid>cid://http://transitinglosangeles.com/?p=10074</guid>
-    </item>    <item>
-      <title>We found that more than 170 US citizens have been held by immigration agents. They’ve been kicked, dragged and detained for days</title>
-      <link>https://laist.com/news/propublica-ice-detention-us-citizens-investigation-review</link>
-      <description>
-        <![CDATA[The government doesn’t track how many citizens are held by immigration agents. We found more than 170 cases this year where citizens were detained at raids and protests.]]>
-      </description>
-      <source:markdown>The government doesn’t track how many citizens are held by immigration agents. We found more than 170 cases this year where citizens were detained at raids and protests.</source:markdown>
-      <guid>cid://urn:uuid:00000199-f3c6-d302-af9d-f7ee98e30000</guid>
-    </item>    <item>
-      <title>LA’s recent rain likely produced more mosquitoes. Here’s what you should know</title>
-      <link>https://laist.com/news/climate-environment/la-county-storm-mosquito-breeding-aedes-dengue-west-nile</link>
-      <description>
-        <![CDATA[The annual mosquito season is ending, but some problematic breeding water sources may have been refilled.]]>
-      </description>
-      <source:markdown>The annual mosquito season is ending, but some problematic breeding water sources may have been refilled.</source:markdown>
-      <guid>cid://urn:uuid:00000199-f381-d302-af9d-f7abf6040000</guid>
-    </item>    <item>
-      <title>LA County to pay an additional $828 million for second sex abuse settlement</title>
-      <link>https://laist.com/news/criminal-justice/la-county-settlement-sex-abuse-claim-ab-218-second-payout</link>
-      <description>
-        <![CDATA[The settlement isn’t final yet, but it’s for a second batch of civil claims from people who said they were abused as children while under the county’s care.]]>
-      </description>
-      <source:markdown>The settlement isn’t final yet, but it’s for a second batch of civil claims from people who said they were abused as children while under the county’s care.</source:markdown>
-      <guid>cid://urn:uuid:00000199-f3b3-d815-a1fb-fbff08300000</guid>
-    </item>    <item>
-      <title>Devo frontman Mark Mothersbaugh on his LA art gallery, new Netflix doc</title>
-      <link>https://laist.com/news/arts-and-entertainment/devo-mark-mothersbaugh-hollywood-bowl-netflix</link>
-      <description>
-        <![CDATA[The band is performing this weekend at the Hollywood Bowl for the first time ever.]]>
-      </description>
-      <source:markdown>The band is performing this weekend at the Hollywood Bowl for the first time ever.</source:markdown>
-      <guid>cid://urn:uuid:00000199-f36c-d805-a5df-f7ef4aac0000</guid>
-    </item>    <item>
-      <title>Third case of more severe mpox strain in LA County confirmed, investigation into potential spread underway</title>
-      <link>https://laist.com/news/health/third-case-severe-mpox-strain-la-county-investigation-into-potential-spread</link>
-      <description>
-        <![CDATA[The three cases are the only ones nationally without known travel to regions where the virus is found.]]>
-      </description>
-      <source:markdown>The three cases are the only ones nationally without known travel to regions where the virus is found.</source:markdown>
-      <guid>cid://urn:uuid:00000199-f381-df6f-a5fd-f7b778a60000</guid>
-    </item>    <item>
-      <title>The feds want to know more about the people on food stamps. How Newsom responded</title>
-      <link>https://laist.com/news/the-feds-want-to-know-more-about-the-people-on-food-stamps-how-newsom-responded</link>
-      <description>
-        <![CDATA[A new California law aims to protect private data from the federal government.]]>
-      </description>
-      <source:markdown>A new California law aims to protect private data from the federal government.</source:markdown>
-      <guid>cid://urn:uuid:00000199-f35f-d805-a5df-f7dfd52a0000</guid>
-    </item>    <item>
-      <title>Trump administration says most federal layoffs aren&#39;t blocked by court order</title>
-      <link>https://laist.com/news/politics/unions-say-white-house-plans-mass-layoff-interior-department-despite-court-order</link>
-      <description>
-        <![CDATA[The Trump administration says most of the layoffs announced last week aren't covered by a court-ordered pause that only applies to programs or offices where the union plaintiffs represent employees.]]>
-      </description>
-      <source:markdown>The Trump administration says most of the layoffs announced last week aren&#39;t covered by a court-ordered pause that only applies to programs or offices where the union plaintiffs represent employees.</source:markdown>
-      <guid>cid://urn:uuid:00000199-f349-d553-a5f9-f7fdbcca0000</guid>
-    </item>    <item>
-      <title>California to launch ‘historic’ reparations office as advocates regroup from 5 Newsom vetoes</title>
-      <link>https://laist.com/news/politics/california-to-launch-historic-reparations-office-as-advocates-regroup-from-5-newsom-vetoes</link>
-      <description>
-        <![CDATA[Gov. Gavin Newsom signed five laws advancing reparations for the descendants of enslaved people in California, but he vetoed five others. One civil rights attorney said it'll take more than one legislative cycle to fix 400 years of harm.]]>
-      </description>
-      <source:markdown>Gov. Gavin Newsom signed five laws advancing reparations for the descendants of enslaved people in California, but he vetoed five others. One civil rights attorney said it&#39;ll take more than one legislative cycle to fix 400 years of harm.</source:markdown>
-      <guid>cid://urn:uuid:00000199-f2ea-d805-a5df-f6ef67bb0000</guid>
-    </item>    <item>
-      <title>LA Mayor Karen Bass lays out her vision for 2028 LA Olympics</title>
-      <link>https://laist.com/news/2028-la-olympics-la-mayor-karen-bass-vision</link>
-      <description>
-        <![CDATA[The mayor signed an executive directive Friday mobilizing city government to ramp up preparation for the Games.]]>
-      </description>
-      <source:markdown>The mayor signed an executive directive Friday mobilizing city government to ramp up preparation for the Games.</source:markdown>
-      <guid>cid://urn:uuid:00000199-f33a-dd6c-a19d-f77fb2520000</guid>
-    </item>    <item>
-      <title>Are our superstitions valid?</title>
-      <link>https://laist.com/news/are-our-superstitions-valid</link>
-      <description>
-        <![CDATA[An expert and listeners weighed in on why so many of us are superstitious.]]>
-      </description>
-      <source:markdown>An expert and listeners weighed in on why so many of us are superstitious.</source:markdown>
-      <guid>cid://urn:uuid:00000199-ee89-dc80-a5fb-efd956da0000</guid>
-    </item>    <item>
-      <title>A classified network of SpaceX satellites is emitting a mysterious signal</title>
-      <link>https://laist.com/news/classified-network-spacex-satellites-emitting-mysterious-signal</link>
-      <description>
-        <![CDATA[An amateur satellite tracker stumbled across the signal, which is coming from Starshield satellites in a "hidden" part of the radio spectrum.]]>
-      </description>
-      <source:markdown>An amateur satellite tracker stumbled across the signal, which is coming from Starshield satellites in a &#34;hidden&#34; part of the radio spectrum.</source:markdown>
-      <guid>cid://urn:uuid:00000199-f2d4-da9c-a9d9-f6d4b9110000</guid>
-    </item>    <item>
-      <title>How do I prepare my phone for a protest?</title>
-      <link>https://laist.com/news/how-do-i-prepare-my-phone-for-a-protest</link>
-      <description>
-        <![CDATA[Simple steps to take before hitting the streets.]]>
-      </description>
-      <source:markdown>Simple steps to take before hitting the streets.</source:markdown>
-      <guid>cid://urn:uuid:00000199-eec9-dc80-a5fb-efd9afe20000</guid>
-    </item>    <item>
-      <title>No Kings protests will take place across SoCal on Saturday. Here&#39;s what you need to know</title>
-      <link>https://laist.com/news/politics/no-kings-protests-will-take-place-across-socal-on-saturday-heres-what-you-need-to-know</link>
-      <description>
-        <![CDATA[It will be the second national day of protest against President Donald Trump.]]>
-      </description>
-      <source:markdown>It will be the second national day of protest against President Donald Trump.</source:markdown>
-      <guid>cid://urn:uuid:00000199-efa2-d54e-addb-ffe2d5ae0000</guid>
-    </item>    <item>
-      <title>LA&#39;s newest food hall will transport you to an international night market</title>
-      <link>https://laist.com/news/los-angeles-activities/maydan-market-new-la-food-hall-in-west-adams</link>
-      <description>
-        <![CDATA[Restaurants share resources in the food hall in West Adams as Los Angeles reckons with increasing restaurant closures.]]>
-      </description>
-      <source:markdown>Restaurants share resources in the food hall in West Adams as Los Angeles reckons with increasing restaurant closures.</source:markdown>
-      <guid>cid://urn:uuid:00000199-c50c-dc80-a5fb-ed5cb2f00000</guid>
-    </item>    <item>
-      <title>How this LA voice actor went from car and juice commercials to ‘Demon Slayer: Infinity Castle’</title>
-      <link>https://laist.com/news/arts-and-entertainment/demon-slayer-infinity-castle-the-most-successful-anime-film-ever-kimetsu-no-yaiba</link>
-      <description>
-        <![CDATA[Demon Slayer: Infinity Castle came out this summer in Japan (and this September in the U.S.) and is now the highest-grossing anime movie of all time.]]>
-      </description>
-      <source:markdown>Demon Slayer: Infinity Castle came out this summer in Japan (and this September in the U.S.) and is now the highest-grossing anime movie of all time.</source:markdown>
-      <guid>cid://urn:uuid:00000199-ef2d-d89a-a3b9-ffaf8f610000</guid>
-    </item>    <item>
-      <title>Actor Lukas Gage&#39;s memoir captures the tragicomic spirit of San Diego in the 2000s</title>
-      <link>https://laist.com/news/arts-and-entertainment/actor-lukas-gage-memoir-i-wrote-this-for-attention-white-lotus-euphoria</link>
-      <description>
-        <![CDATA[At just 30, Lukas Gage reflects on a life already packed with drama, humor and hard-earned perspective.]]>
-      </description>
-      <source:markdown>At just 30, Lukas Gage reflects on a life already packed with drama, humor and hard-earned perspective.</source:markdown>
-      <guid>cid://urn:uuid:00000199-eed6-d89a-a3b9-ffd7921f0000</guid>
-    </item>    <item>
-      <title>No, the holes in your mail-in ballot are not for showing how you voted. Here’s what they’re actually for</title>
-      <link>https://laist.com/news/politics/holes-in-mail-in-ballot-what-theyre-actually-for</link>
-      <description>
-        <![CDATA[Viral videos have spread false claims about the envelope holes, but they’re there for specific reasons.]]>
-      </description>
-      <source:markdown>Viral videos have spread false claims about the envelope holes, but they’re there for specific reasons.</source:markdown>
-      <guid>cid://urn:uuid:00000199-edff-dce4-a3f9-efff4cf90000</guid>
-    </item>    <item>
-      <title>Get your bellies fired up for this year’s Taste of Soul</title>
-      <link>https://laist.com/news/food/get-your-bellies-fired-up-for-this-years-taste-of-soul</link>
-      <description>
-        <![CDATA[Dust off those stretchpants, folks: this year’s annual (and free!) Taste of Soul food festival is happening this weekend.]]>
-      </description>
-      <source:markdown>Dust off those stretchpants, folks: this year’s annual (and free!) Taste of Soul food festival is happening this weekend.</source:markdown>
-      <guid>cid://urn:uuid:00000199-e53f-dc80-a5fb-ed7fc5c20000</guid>
-    </item>    <item>
-      <title>How Prop 50 could slice and dice Republican strongholds in OC</title>
-      <link>https://laist.com/news/politics/proposition-50-republican-strongholds</link>
-      <description>
-        <![CDATA[California Republicans say the Democratic redistricting measure unfairly targets GOP districts.]]>
-      </description>
-      <source:markdown>California Republicans say the Democratic redistricting measure unfairly targets GOP districts.</source:markdown>
-      <guid>cid://urn:uuid:00000199-ea29-dc1c-a3bd-eaedb5250000</guid>
-    </item>    <item>
-      <title>CalOptima&#39;s audit into work of ex-Orange County Supervisor Andrew Do could soon be made public</title>
-      <link>https://laist.com/news/politics/caloptima-audit-andrew-do-orange-county</link>
-      <description>
-        <![CDATA[The board voted to release the audit report, but it will first notify named individuals and give them a chance to challenge its release.]]>
-      </description>
-      <source:markdown>The board voted to release the audit report, but it will first notify named individuals and give them a chance to challenge its release.</source:markdown>
-      <guid>cid://urn:uuid:00000199-ef87-d4be-a9bb-efe71a250000</guid>
-    </item>    <item>
-      <title>LAPD wants judge to lift an order restricting use of force against the press</title>
-      <link>https://laist.com/news/politics/lapd-use-of-force-against-press-no-kings-protests</link>
-      <description>
-        <![CDATA[The police department filed an emergency order ahead of this Saturday's No Kings protest.]]>
-      </description>
-      <source:markdown>The police department filed an emergency order ahead of this Saturday&#39;s No Kings protest.</source:markdown>
-      <guid>cid://urn:uuid:00000199-ef76-d89a-a3b9-fff7b2460000</guid>
     </item>
   </channel>
 </rss>

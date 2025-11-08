@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>07 Nov 25 14:10 -0800</lastBuildDate>
+    <lastBuildDate>07 Nov 25 19:15 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,153 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m53kxi2lkc2d</link>
+      <description>
+        <![CDATA[Read an interesting post, https://webdirections.org/blog/a-kind-of-farewell-to-the-web.
+        
+        Wrote up some adjacent thoughts about software development, frameworks and avoiding being stuck by acknowledging the success problem of 3rd party frameworks.  https://rsdoiel.github.io/blog/2025/11/07/half-life-of-frameworks.html
+        https://webdirections.org/blog/a-kind-of-farewell-to-the-web/]]>
+      </description>
+      <source:markdown>Read an interesting post, https://webdirections.org/blog/a-kind-of-farewell-to-the-web.
+
+Wrote up some adjacent thoughts about software development, frameworks and avoiding being stuck by acknowledging the success problem of 3rd party frameworks. https://rsdoiel.github.io/blog/2025/11/07/half-life-of-frameworks.html
+https://webdirections.org/blog/a-kind-of-farewell-to-the-web/</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m53kxi2lkc2d</guid>
+    </item>    <item>
+      <title>The Rule of Law, and the Failure to Defend It</title>
+      <link>https://www.notesfromthecircus.com/p/the-rule-of-law-and-the-failure-to</link>
+      <description>
+        <![CDATA[A recording from Mike Brock's live video]]>
+      </description>
+      <source:markdown>A recording from Mike Brock&#39;s live video</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/178316846/2f7819bd4a9e959dab118f22d3e1fd24.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/the-rule-of-law-and-the-failure-to</guid>
+    </item>    <item>
+      <link>https://www.reuters.com/business/finance/us-employment-report-will-not-be-published-again-government-shutdown-drags-2025-11-07/</link>
+      <description>
+        <![CDATA[<p>US employment report will not be published again as government shutdown drags on.</p>]]>
+      </description>
+      <source:markdown>US employment report will not be published again as government shutdown drags on.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/07/1835/</guid>
+    </item>    <item>
+      <title>Mastodon 4.5</title>
+      <link>https://simonwillison.net/2025/Nov/8/mastodon-45/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://blog.joinmastodon.org/2025/11/mastodon-4.5/">Mastodon 4.5</a></strong></p>
+        This new release of Mastodon adds two of my most desired features!</p>
+        <p>The first is support for quote posts. This had already become an unofficial feature in the client apps I was using (<a href="https://phanpy.social/">phanpy.social</a> on the web and <a href="https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274">Ivory</a> on iOS) but now it's officially part of Mastodon's core platform.</p>
+        <p>Much more notably though:</p>
+        <blockquote>
+        <p><strong>Fetch All Replies: Completing the Conversation Flow</strong></p>
+        <p>Users on servers running 4.4 and earlier versions have likely experienced the confusion of seeing replies appearing on other servers but not their own. Mastodon 4.5 automatically checks for missing replies upon page load and again every 15 minutes, enhancing continuity of conversations across the Fediverse.</p>
+        </blockquote>
+        <p>The absolute worst thing about Mastodon - especially if you run on your own independent server - is that the nature of the platform means you can't be guaranteed to see every reply to a post your are viewing that originated on another instance (<a href="https://simonwillison.net/2023/Sep/16/notes-on-using-a-single-person-mastodon-server/">previously</a>).</p>
+        <p>This leads to an unpleasant reply-guy effect where you find yourself replying to a post saying the exact same thing that everyone else said... because you didn't see any of the other replies before you posted!</p>
+        <p>Mastodon 4.5 finally solves this problem!</p>
+        <p>I went looking for the GitHub issue about this and found <a href="https://github.com/mastodon/mastodon/issues/22674">this one that quoted my complaint about this</a> from December 2022, which is marked as a duplicate of this <a href="https://github.com/mastodon/mastodon/issues/9409">Fetch whole conversation threads issue</a> from 2018.</p>
+        <p>So happy to see this finally resolved.
+        
+            <p><small></small>Via <a href="https://lobste.rs/s/zvyspo/mastodon_4_5">lobste.rs</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/mastodon">mastodon</a></p>]]>
+      </description>
+      <source:markdown>**[Mastodon 4.5](https://blog.joinmastodon.org/2025/11/mastodon-4.5/)**
+
+This new release of Mastodon adds two of my most desired features!
+
+The first is support for quote posts. This had already become an unofficial feature in the client apps I was using ( [phanpy.social](https://phanpy.social/) on the web and [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) on iOS) but now it&#39;s officially part of Mastodon&#39;s core platform.
+
+Much more notably though:
+
+&#62; **Fetch All Replies: Completing the Conversation Flow**
+&#62;
+&#62; Users on servers running 4.4 and earlier versions have likely experienced the confusion of seeing replies appearing on other servers but not their own. Mastodon 4.5 automatically checks for missing replies upon page load and again every 15 minutes, enhancing continuity of conversations across the Fediverse.
+
+The absolute worst thing about Mastodon - especially if you run on your own independent server - is that the nature of the platform means you can&#39;t be guaranteed to see every reply to a post your are viewing that originated on another instance ( [previously](https://simonwillison.net/2023/Sep/16/notes-on-using-a-single-person-mastodon-server/)).
+
+This leads to an unpleasant reply-guy effect where you find yourself replying to a post saying the exact same thing that everyone else said... because you didn&#39;t see any of the other replies before you posted!
+
+Mastodon 4.5 finally solves this problem!
+
+I went looking for the GitHub issue about this and found [this one that quoted my complaint about this](https://github.com/mastodon/mastodon/issues/22674) from December 2022, which is marked as a duplicate of this [Fetch whole conversation threads issue](https://github.com/mastodon/mastodon/issues/9409) from 2018.
+
+So happy to see this finally resolved.
+
+
+
+Via [lobste.rs](https://lobste.rs/s/zvyspo/mastodon_4_5)
+
+Tags: [mastodon](https://simonwillison.net/tags/mastodon)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/8/mastodon-45/#atom-everything</guid>
+    </item>    <item>
+      <title>Note published on November 7, 2025 at 11:50 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202511071849</link>
+      <guid>cid://690e85bd409db444f66ec358</guid>
+    </item>    <item>
+      <title>The Judicial Counterrevolution</title>
+      <link>https://www.notesfromthecircus.com/p/the-judicial-counterrevolution</link>
+      <description>
+        <![CDATA[How the Supreme Court Abandoned Constitutional Governance]]>
+      </description>
+      <source:markdown>How the Supreme Court Abandoned Constitutional Governance</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!RlHH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2738cda5-5381-4cd0-adb9-2dc1130905e5_7295x4869.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/the-judicial-counterrevolution</guid>
+    </item>    <item>
+      <title>What Mamdani Learned from His Mother&#38;#8217;s Films. &#38;#8220;How the ethics of the...</title>
+      <link>https://kottke.org/25/11/0047805-what-mamdani-learned-from</link>
+      <guid>cid://tag:kottke.org,2025://13.47805</guid>
+    </item>    <item>
+      <title>Acorn 8.3 With Liquid Glass</title>
+      <link>https://mjtsai.com/blog/2025/11/07/acorn-8-3-with-liquid-glass/</link>
+      <description>
+        <![CDATA[Gus Mueller: Acorn 8.3 is out and the big new feature is that it supports Liquid Glass for folks who are running macOS Tahoe (which is over 50% of Acorn 8 users at this point!). [&#8230;] But the UI was a ton of work! And I made it extra difficult on myself by making Liquid [&#8230;]]]>
+      </description>
+      <source:markdown>Gus Mueller: Acorn 8.3 is out and the big new feature is that it supports Liquid Glass for folks who are running macOS Tahoe (which is over 50% of Acorn 8 users at this point!). \[…\] But the UI was a ton of work! And I made it extra difficult on myself by making Liquid \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49975</guid>
+    </item>    <item>
+      <title>White Label Gemini on Private Cloud Compute</title>
+      <link>https://mjtsai.com/blog/2025/11/07/white-label-gemini-on-private-cloud-compute/</link>
+      <description>
+        <![CDATA[Juli Clover (Hacker News): The smarter, more capable version of Siri that Apple is developing will be powered by Google Gemini, reports Bloomberg. Apple will pay Google approximately $1 billion per year for a 1.2 trillion parameter artificial intelligence model that was developed by Google. [&#8230;] Apple will use Gemini for functions related to summarizing [&#8230;]]]>
+      </description>
+      <source:markdown>Juli Clover (Hacker News): The smarter, more capable version of Siri that Apple is developing will be powered by Google Gemini, reports Bloomberg. Apple will pay Google approximately $1 billion per year for a 1.2 trillion parameter artificial intelligence model that was developed by Google. \[…\] Apple will use Gemini for functions related to summarizing \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49973</guid>
+    </item>    <item>
+      <title>iOS 26.2: App Marketplaces and Browser Choice in Japan</title>
+      <link>https://mjtsai.com/blog/2025/11/07/ios-26-2-app-marketplaces-and-browser-choice-in-japan/</link>
+      <description>
+        <![CDATA[Tim Hardwick (Hacker News, Slashdot): Apple on Tuesday released the first beta of iOS 26.2 to developers, and it appears that the software will allow users in Japan to install alternative app marketplaces on their devices when it is released to the public in December. According to a post shared on X by @Tzzlala, iPhones [&#8230;]]]>
+      </description>
+      <source:markdown>Tim Hardwick (Hacker News, Slashdot): Apple on Tuesday released the first beta of iOS 26.2 to developers, and it appears that the software will allow users in Japan to install alternative app marketplaces on their devices when it is released to the public in December. According to a post shared on X by @Tzzlala, iPhones \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49971</guid>
+    </item>    <item>
+      <title>MainActor.assumeIsolated, Preconcurrency, and Isolated Conformances</title>
+      <link>https://mjtsai.com/blog/2025/11/07/mainactor-assumeisolated-preconcurrency-and-isolated-conformances/</link>
+      <description>
+        <![CDATA[Fatbobman: As Swift 6 gradually gains adoption, this problem becomes increasingly prominent: developers want to benefit from the concurrency safety guarantees provided by the Swift compiler, while struggling with how to make their code meet compilation requirements. This article will demonstrate the clever use of MainActor.assumeIsolated in specific scenarios through an implementation case with NSTextAttachmentViewProvider. [&#8230;]]]>
+      </description>
+      <source:markdown>Fatbobman: As Swift 6 gradually gains adoption, this problem becomes increasingly prominent: developers want to benefit from the concurrency safety guarantees provided by the Swift compiler, while struggling with how to make their code meet compilation requirements. This article will demonstrate the clever use of MainActor.assumeIsolated in specific scenarios through an implementation case with NSTextAttachmentViewProvider. \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49969</guid>
+    </item>    <item>
+      <title>A Hypnotic Display of Robots Making Tiny Springs</title>
+      <link>https://kottke.org/25/11/a-hypnotic-display-of-robots-making-tiny-springs-1</link>
+      <guid>cid://tag:kottke.org,2025://5.47804</guid>
+    </item>    <item>
+      <title>Friday Squid Blogging: Squid Game: The Challenge, Season Two</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-squid-game-the-challenge-season-two.html</link>
+      <description>
+        <![CDATA[<p>The second season of the Netflix reality competition show <i>Squid Game: The Challenge</i> has dropped. (Too many links to pick a few&#8212;search for it.)</p>
+        <p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>
+        <p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>]]>
+      </description>
+      <source:markdown>The second season of the Netflix reality competition show _Squid Game: The Challenge_ has dropped. (Too many links to pick a few—search for it.)
+
+As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.
+
+[Blog moderation policy.](https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html)</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=71143</guid>
     </item>    <item>
       <title>&#38;#8220;A trio of photographers in New Zealand have captured images of &#38;#8216;red...</title>
       <link>https://kottke.org/25/11/0047803-a-trio-of-photographers-i</link>
@@ -108,6 +255,105 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       </description>
       <source:markdown>As your proud neighborhood clearinghouse for leftie literary sentiment, most of us here at the Hub were elated by Zohran Mamdani’s big win. But we all drew different inspiration from the new Mayor. Mamdani’s triumph represents, at once, an energy</source:markdown>
       <guid>cid://https://lithub.com/?p=262411</guid>
+    </item>    <item>
+      <title>Down The Atomic Rabbit Hole</title>
+      <link>https://blog.jim-nielsen.com/2025/my-atomic-rabbithole/</link>
+      <description>
+        <![CDATA[<p>Over the years, I’ve been chewing on media related to nuclear weapons. This is my high-level, non-exhaustive documentation of my consumption — with links!</p>
+        <ul>
+        <li>📖 <a href="https://bookshop.org/p/books/the-making-of-the-atomic-bomb-richard-rhodes/51031e8da01f5db9" ><em>The Making of the Atomic Bomb</em></a> by Richard Rhodes.<ul>
+        <li>This is one of those definitive histories (it’s close to 1,000 pages and won a Pulitzer Prize). It starts with the early discoveries in physics, like the splitting of the atom, and goes up to the end of WWII. I really enjoyed this one. A definite recommendation.</li>
+        <li>📖 <a href="https://bookshop.org/p/books/dark-sun-the-making-of-the-hydrogen-bomb-richard-rhodes/f02fca9831d3aaae" ><em>Dark Sun: The Making of the Hydrogen Bomb</em></a> by Richard Rhodes is the sequel. If you want to know how we went from atomic weapons to thermonuclear ones, I think this one will do it. It was a harder read for me though. It got into a lot of the politics and espionage of the Cold War and I fizzled out on it (plus my library copy had to be returned, somebody else had it on hold). I’ll probably go pick it up again though and finish it — eventually.</li>
+        </ul>
+        </li>
+        <li>📖 <a href="https://bookshop.org/p/books/the-bomb-a-life-gerard-j-degroot/10871591" ><em>The Bomb: A Life</em></a> by Gerard J. DeGroot<ul>
+        <li>This one piqued my interest because it covers more history of the bomb after its first use, including the testing that took place in Nevada not far from where I grew up. Having had a few different friends growing up whose parents died of cancer that was attributed to being “downwinders” this part of the book hit close to home. Which reminds me of:</li>
+        <li>🎥 <a href="https://www.pbs.org/show/downwinders-and-radioactive-west/" ><em>Downwinders &amp; The Radioactive West</em></a> from PBS. Again, growing up amongst locals who saw some of the flashes of light from the tests and experienced the fallout come down in their towns, this doc hit close to home. I had two childhood friends who lost their Dads to cancer (and their families received financial compensation from the gov.  for it).</li>
+        </ul>
+        </li>
+        <li>📖 <a href="https://bookshop.org/p/books/command-and-control-nuclear-weapons-the-damascus-accident-and-the-illusion-of-safety-eric-schlosser/7186d558fb931e06" ><em>Command and Control: Nuclear Weapons, the Damascus Accident, and the Illusion of Safety</em></a> by Eric Schlosser<ul>
+        <li>Read this one years ago when it first came out. It’s a fascinating look at humans bumbling around with terrible weapons.</li>
+        <li>🎥 <a href="https://www.pbs.org/wgbh/americanexperience/films/command-and-control/" ><em>Command and Control</em></a> from PBS is the documentary version of the book. I suppose watch this first and if you want to know more, there’s a whole book for you.</li>
+        </ul>
+        </li>
+        <li>📖 <a href="https://bookshop.org/p/books/nuclear-war-a-scenario-annie-jacobsen/7bddf3d1edf02401" ><em>Nuclear War: A Scenario</em></a> by Annie Jacobsen<ul>
+        <li>Terrifying.</li>
+        <li>🎥 <a href="https://www.netflix.com/title/81744537" ><em>House of Dynamite</em></a> just came out on Netlify and is basically a dramatization of aspects of this book.</li>
+        </ul>
+        </li>
+        <li>📖 <a href="https://bookshop.org/p/books/the-button-the-new-nuclear-arms-race-and-presidential-power-from-truman-to-trump-tom-z-collina/2f18edde562f1425" ><em>The Button: The New Nuclear Arms Race and Presidential Power from Truman to Trump</em></a> by William J. Perry and Tom Z. Collina<ul>
+        <li>How did we get to a place where a single individual has sole authority to destroy humanity at a moment’s notice? Interesting because it’s written by former people in Washington, like the Sec. of Defense under Clinton, so you get a taste of the bureaucracy that surrounds the bomb.</li>
+        </ul>
+        </li>
+        <li>🎧 <a href="https://www.dancarlin.com/product/hardcore-history-59-the-destroyer-of-worlds/" ><em>Hardcore History 59 – The Destroyer of Worlds</em></a> by Dan Carlin<ul>
+        <li>First thing I’ve really listened to from Dan. It’s not exactly cutting-edge scholarship and doesn’t have academic-level historical rigor, but it’s a compelling story around how humans made something they’ve nearly destroyed themselves with various times. The part in here about the cuban missile crisis is wild. It led me to:</li>
+        <li>📖 <a href="https://bookshop.org/p/books/nuclear-folly-a-history-of-the-cuban-missile-crisis-serhii-plokhy/dbd4f5558a860cd9" ><em>Nuclear Folly: A History of the Cuban Missile Crisis</em></a> by Serhii Plokhy is a <em>deep</em> look at the Cuban Missile crisis. This is a slow burning audiobook I’m still chewing through. You know how you get excited about a topic and you’re like “I’m gonna learn all about that thing!” And then you start and it’s way more than you wanted to know so you kinda back out? That’s where I am with this one.</li>
+        </ul>
+        </li>
+        <li>🎥 <a href="https://www.pbs.org/show/bomb/" >The Bomb</a> by PBS.<ul>
+        <li>A good, short primer on the bomb. It reminds me of:</li>
+        <li>🎥  <a href="https://www.imdb.com/title/tt26227818/" ><em>Turning Point: The Bomb and the Cold War</em></a> on Netflix which is a longer, multi-episode look at the bomb during the Cold War.</li>
+        </ul>
+        </li>
+        <li>📝 Last, but not least, I gotta include at least one blog! Alex Wellerstein, a historian of science and creator of  <a href="https://nuclearsecrecy.com/nukemap/" >the nukemap</a>, blogs at <a href="https://doomsdaymachines.net" >Doomsday Machines</a> if you want something for your RSS reader.</li>
+        </ul>
+        <p>Phew!</p>
+        <p>This isn’t exhaustive, but if you’ve got recommendations I didn’t mention, send them my way.</p>
+        
+            <hr />
+            
+        
+            <p>
+              Reply via:
+              
+        
+              <a
+                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/my-atomic-rabbithole/"
+                >Email</a
+              >
+              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
+        
+              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
+            </p>]]>
+      </description>
+      <source:markdown>Over the years, I’ve been chewing on media related to nuclear weapons. This is my high-level, non-exhaustive documentation of my consumption — with links!
+
+- 📖 [_The Making of the Atomic Bomb_](https://bookshop.org/p/books/the-making-of-the-atomic-bomb-richard-rhodes/51031e8da01f5db9) by Richard Rhodes.
+  - This is one of those definitive histories (it’s close to 1,000 pages and won a Pulitzer Prize). It starts with the early discoveries in physics, like the splitting of the atom, and goes up to the end of WWII. I really enjoyed this one. A definite recommendation.
+  - 📖 [_Dark Sun: The Making of the Hydrogen Bomb_](https://bookshop.org/p/books/dark-sun-the-making-of-the-hydrogen-bomb-richard-rhodes/f02fca9831d3aaae) by Richard Rhodes is the sequel. If you want to know how we went from atomic weapons to thermonuclear ones, I think this one will do it. It was a harder read for me though. It got into a lot of the politics and espionage of the Cold War and I fizzled out on it (plus my library copy had to be returned, somebody else had it on hold). I’ll probably go pick it up again though and finish it — eventually.
+- 📖 [_The Bomb: A Life_](https://bookshop.org/p/books/the-bomb-a-life-gerard-j-degroot/10871591) by Gerard J. DeGroot
+  - This one piqued my interest because it covers more history of the bomb after its first use, including the testing that took place in Nevada not far from where I grew up. Having had a few different friends growing up whose parents died of cancer that was attributed to being “downwinders” this part of the book hit close to home. Which reminds me of:
+  - 🎥 [_Downwinders &#38; The Radioactive West_](https://www.pbs.org/show/downwinders-and-radioactive-west/) from PBS. Again, growing up amongst locals who saw some of the flashes of light from the tests and experienced the fallout come down in their towns, this doc hit close to home. I had two childhood friends who lost their Dads to cancer (and their families received financial compensation from the gov. for it).
+- 📖 [_Command and Control: Nuclear Weapons, the Damascus Accident, and the Illusion of Safety_](https://bookshop.org/p/books/command-and-control-nuclear-weapons-the-damascus-accident-and-the-illusion-of-safety-eric-schlosser/7186d558fb931e06) by Eric Schlosser
+  - Read this one years ago when it first came out. It’s a fascinating look at humans bumbling around with terrible weapons.
+  - 🎥 [_Command and Control_](https://www.pbs.org/wgbh/americanexperience/films/command-and-control/) from PBS is the documentary version of the book. I suppose watch this first and if you want to know more, there’s a whole book for you.
+- 📖 [_Nuclear War: A Scenario_](https://bookshop.org/p/books/nuclear-war-a-scenario-annie-jacobsen/7bddf3d1edf02401) by Annie Jacobsen
+  - Terrifying.
+  - 🎥 [_House of Dynamite_](https://www.netflix.com/title/81744537) just came out on Netlify and is basically a dramatization of aspects of this book.
+- 📖 [_The Button: The New Nuclear Arms Race and Presidential Power from Truman to Trump_](https://bookshop.org/p/books/the-button-the-new-nuclear-arms-race-and-presidential-power-from-truman-to-trump-tom-z-collina/2f18edde562f1425) by William J. Perry and Tom Z. Collina
+  - How did we get to a place where a single individual has sole authority to destroy humanity at a moment’s notice? Interesting because it’s written by former people in Washington, like the Sec. of Defense under Clinton, so you get a taste of the bureaucracy that surrounds the bomb.
+- 🎧 [_Hardcore History 59 – The Destroyer of Worlds_](https://www.dancarlin.com/product/hardcore-history-59-the-destroyer-of-worlds/) by Dan Carlin
+  - First thing I’ve really listened to from Dan. It’s not exactly cutting-edge scholarship and doesn’t have academic-level historical rigor, but it’s a compelling story around how humans made something they’ve nearly destroyed themselves with various times. The part in here about the cuban missile crisis is wild. It led me to:
+  - 📖 [_Nuclear Folly: A History of the Cuban Missile Crisis_](https://bookshop.org/p/books/nuclear-folly-a-history-of-the-cuban-missile-crisis-serhii-plokhy/dbd4f5558a860cd9) by Serhii Plokhy is a _deep_ look at the Cuban Missile crisis. This is a slow burning audiobook I’m still chewing through. You know how you get excited about a topic and you’re like “I’m gonna learn all about that thing!” And then you start and it’s way more than you wanted to know so you kinda back out? That’s where I am with this one.
+- 🎥 [The Bomb](https://www.pbs.org/show/bomb/) by PBS.
+  - A good, short primer on the bomb. It reminds me of:
+  - 🎥 [_Turning Point: The Bomb and the Cold War_](https://www.imdb.com/title/tt26227818/) on Netflix which is a longer, multi-episode look at the bomb during the Cold War.
+- 📝 Last, but not least, I gotta include at least one blog! Alex Wellerstein, a historian of science and creator of [the nukemap](https://nuclearsecrecy.com/nukemap/), blogs at [Doomsday Machines](https://doomsdaymachines.net) if you want something for your RSS reader.
+
+Phew!
+
+This isn’t exhaustive, but if you’ve got recommendations I didn’t mention, send them my way.
+
+* * *
+
+Reply via:
+
+
+[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/my-atomic-rabbithole/)
+· [Mastodon](https://mastodon.social/@jimniels) ·
+
+[Bluesky](https://bsky.app/profile/jim-nielsen.com)</source:markdown>
+      <guid>cid://https://blog.jim-nielsen.com/2025/my-atomic-rabbithole/</guid>
     </item>    <item>
       <title>Bell bottom-era tape unearthed, could contain lost piece of Unix history</title>
       <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/</link>
@@ -650,6 +896,15 @@ Tags: [thomas-ptacek](https://simonwillison.net/tags/thomas-ptacek), [ai](https:
       <link>https://kottke.org/25/11/0047802-cole-escola-oh-mary-is</link>
       <guid>cid://tag:kottke.org,2025://13.47802</guid>
     </item>    <item>
+      <title>Mike Solana’s Selective Populism</title>
+      <link>https://www.notesfromthecircus.com/p/mike-solanas-selective-populism</link>
+      <description>
+        <![CDATA[There&#8217;s a new species of populism emerging from Silicon Valley: billionaires performing outrage on behalf of the people they exploit.]]>
+      </description>
+      <source:markdown>There’s a new species of populism emerging from Silicon Valley: billionaires performing outrage on behalf of the people they exploit.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!UZhy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F466f3799-5b5b-411e-882f-c638c8abc4d2_3915x2610.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/mike-solanas-selective-populism</guid>
+    </item>    <item>
       <title>Why Value Outlasts Valuation</title>
       <link>https://om.co/2025/11/06/why-value-outlasts-valuation/</link>
       <description>
@@ -839,6 +1094,15 @@ Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwill
       <source:markdown>Elon Musk&#39;s $1tn pay deal approved by Tesla shareholders.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/11/06/1829/</guid>
     </item>    <item>
+      <title>Oligarchs, Accommodation, and Accountability</title>
+      <link>https://www.notesfromthecircus.com/p/oligarchs-accommodation-and-accountability</link>
+      <description>
+        <![CDATA[Why "business is business" isn't good enough, why Congress should use its contempt power, and what moral fidelity demands when democracy fights back.]]>
+      </description>
+      <source:markdown>Why &#34;business is business&#34; isn&#39;t good enough, why Congress should use its contempt power, and what moral fidelity demands when democracy fights back.</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/178215238/5c2ee497cf457ffa35aba98053551c75.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/oligarchs-accommodation-and-accountability</guid>
+    </item>    <item>
       <title>The Daft Punk Experience in Fortnite</title>
       <link>https://kottke.org/25/11/the-daft-punk-experience-in-fortnite</link>
       <guid>cid://tag:kottke.org,2025://5.47801</guid>
@@ -912,6 +1176,15 @@ Tags: [llms](https://simonwillison.net/tags/llms), [ai](https://simonwillison.ne
       </description>
       <source:markdown>Australia has so much solar that it&#39;s offering everyone free electricity.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/11/06/1827/</guid>
+    </item>    <item>
+      <title>Twelve Citizens and the Social Contract</title>
+      <link>https://www.notesfromthecircus.com/p/twelve-citizens-and-the-social-contract</link>
+      <description>
+        <![CDATA[Twelve citizens sat in a room and remembered who they were.]]>
+      </description>
+      <source:markdown>Twelve citizens sat in a room and remembered who they were.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!fqRj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa21621ec-75db-40a8-96f8-ebc59b38fe59_3663x2449.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/twelve-citizens-and-the-social-contract</guid>
     </item>    <item>
       <title>How Marlon Brando Changed Acting</title>
       <link>https://kottke.org/25/11/how-marlon-brando-changed-acting</link>
@@ -1282,6 +1555,15 @@ There are costs, of course. Color choice is harder, especially with more than on
       <title>Finished reading Mage Tank 2</title>
       <link>https://www.mollywhite.net/reading/books?search=Mage%20Tank%202</link>
       <guid>cid://690ce07394c62d1d9ebed65e</guid>
+    </item>    <item>
+      <title>Laura Ingraham Tries to Repair the Simulation. Hilarity Ensues.</title>
+      <link>https://www.notesfromthecircus.com/p/laura-ingraham-tries-to-repair-the</link>
+      <description>
+        <![CDATA[Within twenty-four hours of Republicans getting crushed in elections they&#8217;d convinced themselves were winnable, Fox News deployed the counter-move.]]>
+      </description>
+      <source:markdown>Within twenty-four hours of Republicans getting crushed in elections they’d convinced themselves were winnable, Fox News deployed the counter-move.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!upBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec164ca8-ab1e-4631-8731-a890fed7fcdb_6000x4000.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/laura-ingraham-tries-to-repair-the</guid>
     </item>    <item>
       <link>https://www.newsbreak.com/the-daily-sun-1591630/4333592703942-ag-sunday-joins-push-to-prevent-sales-of-synthetic-cannabinoids</link>
       <description>
@@ -2086,6 +2368,15 @@ We distrust China because they’re authoritarians. We distrust Russia because t
       <source:markdown>New York City mayor-elect Zohran Mamdani, a member of both the Democratic Party and the Democratic Socialists of America, began his victory speech last night with a nod to Eugene V.</source:markdown>
       <guid>cid://https://heathercoxrichardson.substack.com/p/november-5-2025</guid>
     </item>    <item>
+      <title>Live Chat: After the Elections</title>
+      <link>https://www.notesfromthecircus.com/p/live-chat-after-the-elections</link>
+      <description>
+        <![CDATA[A recording from Mike Brock's live video]]>
+      </description>
+      <source:markdown>A recording from Mike Brock&#39;s live video</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/178135729/a1156971a714ba6cd719cd289300f2c5.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/live-chat-after-the-elections</guid>
+    </item>    <item>
       <title>Macbook Air M4s Are on Sale Again</title>
       <link>https://kottke.org/25/11/macbook-air-m4s-are-on-sale-again</link>
       <guid>cid://tag:kottke.org,2025://5.47796</guid>
@@ -2391,6 +2682,15 @@ Anyway. It’s a foundation! We keep going.</source:markdown>
       <source:markdown>A recording from Heather Cox Richardson&#39;s live video</source:markdown>
       <enclosure url="https://api.substack.com/feed/podcast/178093776/27855e0f31036af219ba5958b7cd48ed.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://heathercoxrichardson.substack.com/p/live-with-heather-cox-richardson-ca8</guid>
+    </item>    <item>
+      <title>The Simulation is Collapsing</title>
+      <link>https://www.notesfromthecircus.com/p/the-simulation-is-collapsing</link>
+      <description>
+        <![CDATA[The End of Inevitability]]>
+      </description>
+      <source:markdown>The End of Inevitability</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!gFj0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9c3222f-b932-474a-8948-d37a7d96b6b3_5168x3448.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/the-simulation-is-collapsing</guid>
     </item>    <item>
       <title>Thing I was not expecting: a 4-star review of Predator: Badlands from...</title>
       <link>https://kottke.org/25/11/0047788-thing-i-was-not-expecting</link>
@@ -2791,6 +3091,15 @@ Tags: [generative-ai](https://simonwillison.net/tags/generative-ai), [ai](https:
       <title>Decision Desk HQ calls the NYC mayoral race for Zohran Mamdani. (Eric...</title>
       <link>https://kottke.org/25/11/0047786-decision-desk-hq-calls-th</link>
       <guid>cid://tag:kottke.org,2025://13.47786</guid>
+    </item>    <item>
+      <title>A Conversation with Steve Schmidt</title>
+      <link>https://www.notesfromthecircus.com/p/a-conversation-with-steve-schmidt</link>
+      <description>
+        <![CDATA[A conversation about technocracy, democratic collapse, and what comes next]]>
+      </description>
+      <source:markdown>A conversation about technocracy, democratic collapse, and what comes next</source:markdown>
+      <enclosure url="https://images.unsplash.com/photo-1574365379583-54937ea00cb8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxNnx8d2FzaGluZ3RvbiUyMGRjfGVufDB8fHx8MTc2MjMwNjIwNnww&ixlib=rb-4.1.0&q=80&w=1080" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/a-conversation-with-steve-schmidt</guid>
     </item>    <item>
       <title>Zohran Mamdani for Mayor of New York</title>
       <link>https://robertreich.substack.com/p/zohran-mamdani-for-mayor-of-new-york</link>
@@ -3387,6 +3696,15 @@ Tags: [plugins](https://simonwillison.net/tags/plugins), [projects](https://simo
       <title>Pebbling: sending little links and memes to the people that you love....</title>
       <link>https://kottke.org/25/11/0047770-pebbling-sending-little-l</link>
       <guid>cid://tag:kottke.org,2025://13.47770</guid>
+    </item>    <item>
+      <title>A Meditation on Election Day</title>
+      <link>https://www.notesfromthecircus.com/p/a-meditation-on-election-day</link>
+      <description>
+        <![CDATA[A Reflection on What It Means to Be Democratic When Democracy Falters]]>
+      </description>
+      <source:markdown>A Reflection on What It Means to Be Democratic When Democracy Falters</source:markdown>
+      <enclosure url="https://images.unsplash.com/photo-1503847752244-32e931070a43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw0MXx8Y2hpbGRyZW4lMjBwbGF5aW5nfGVufDB8fHx8MTc2MjI4ODgwOXww&ixlib=rb-4.1.0&q=80&w=1080" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/a-meditation-on-election-day</guid>
     </item>    <item>
       <link>https://tilde.zone/@tomasino/115493307965438564</link>
       <description>
@@ -4362,6 +4680,15 @@ Tags: [postgresql](https://simonwillison.net/tags/postgresql), [scaling](https:/
       <link>https://kottke.org/25/11/0047765-now-that-i-had-my</link>
       <guid>cid://tag:kottke.org,2025://13.47765</guid>
     </item>    <item>
+      <title>The Faction They Could No Longer Control</title>
+      <link>https://www.notesfromthecircus.com/p/the-faction-they-could-no-longer</link>
+      <description>
+        <![CDATA[Non-racist Republicans are shocked to discover the bargain doesn&#8217;t hold]]>
+      </description>
+      <source:markdown>Non-racist Republicans are shocked to discover the bargain doesn’t hold</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!IHr-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa14f69bb-b89d-4bcc-9c56-8f4e8217c01f_4288x2848.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/the-faction-they-could-no-longer</guid>
+    </item>    <item>
       <link>https://www.thenews.com.pk/latest/1354625-elon-musk-warns-work-could-soon-become-optional-in-age-of-ai</link>
       <description>
         <![CDATA[<p>Elon Musk warns work could soon become ‘optional’ in age of AI.</p>]]>
@@ -5254,6 +5581,15 @@ Via [@pycon.us](https://bsky.app/profile/pycon.us/post/3m4j34eloes25)
 Tags: [call-for-proposals](https://simonwillison.net/tags/call-for-proposals), [conferences](https://simonwillison.net/tags/conferences), [pycon](https://simonwillison.net/tags/pycon), [python](https://simonwillison.net/tags/python), [psf](https://simonwillison.net/tags/psf)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Nov/2/pycon-us-2026/#atom-everything</guid>
     </item>    <item>
+      <title>Liberalism’s Death Has Been Greatly Exaggerated</title>
+      <link>https://www.notesfromthecircus.com/p/liberalisms-death-has-been-greatly</link>
+      <description>
+        <![CDATA[Why the crisis everyone mourns reveals liberal tradition at its most vital]]>
+      </description>
+      <source:markdown>Why the crisis everyone mourns reveals liberal tradition at its most vital</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!nDMO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc74d5d25-5b19-421d-ba00-df7921824bf2_4031x2357.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/liberalisms-death-has-been-greatly</guid>
+    </item>    <item>
       <title>Browser APIs: The Web’s Free SaaS</title>
       <link>https://blog.jim-nielsen.com/2025/browser-apis-as-sass/</link>
       <description>
@@ -5264,7 +5600,7 @@ Tags: [call-for-proposals](https://simonwillison.net/tags/call-for-proposals), [
         <p>What would be the point of paying for an authentication service, like workOS, then re-implementing auth on your own? They have dedicated teams working on that problem. It’s unlikely you’re going to do it better than them <em>and</em> still deliver on the product you’re building.</p>
         <p>There’s a parallel here, I think, to building stuff in the browser. </p>
         <p>Browsers provide lots of features to help you deliver good websites fast to an incredibly broad and diverse audience.</p>
-        <p>Browser makers have teams of people who, day-in and day-out, are spending lots of time developing and optimizing new their offerings.</p>
+        <p>Browser makers have teams of people who, day-in and day-out, are spending lots of time developing and optimizing their offerings.</p>
         <p>So if you leverage what they offer you, that gives you an advantage because you don’t have to build it yourself.</p>
         <p>You <em>could</em> build it yourself. You could say “No thanks, I don’t want what you have. I’ll make my own.”</p>
         <p>But you don’t have to. And odds are, whatever you do build yourself, is not likely to be as fast as the <a href="https://blog.jim-nielsen.com/2025/more-control-equals-less-performance/" >highly-optimized subsystems you can tie together in the browser</a>.</p>
@@ -5303,7 +5639,7 @@ There’s a parallel here, I think, to building stuff in the browser.
 
 Browsers provide lots of features to help you deliver good websites fast to an incredibly broad and diverse audience.
 
-Browser makers have teams of people who, day-in and day-out, are spending lots of time developing and optimizing new their offerings.
+Browser makers have teams of people who, day-in and day-out, are spending lots of time developing and optimizing their offerings.
 
 So if you leverage what they offer you, that gives you an advantage because you don’t have to build it yourself.
 
@@ -6199,6 +6535,15 @@ https://youtube.com/live/OnGCVbz7ZmA?feature=share</source:markdown>
 [https://youtu.be/zD1OCqYQ9GE](https://youtu.be/zD1OCqYQ9GE)</source:markdown>
       <guid>cid://https://mastodon.social/@Migueldeicaza/115476010782348673</guid>
     </item>    <item>
+      <title>Saturday Digest at the Circus</title>
+      <link>https://www.notesfromthecircus.com/p/saturday-digest-at-the-circus-8b6</link>
+      <description>
+        <![CDATA[The week philosophy met reality]]>
+      </description>
+      <source:markdown>The week philosophy met reality</source:markdown>
+      <enclosure url="https://images.unsplash.com/photo-1611424564096-3b8838e8438b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxM3x8Y2lyY3VzfGVufDB8fHx8MTc2MjAyMTA4M3ww&ixlib=rb-4.1.0&q=80&w=1080" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/saturday-digest-at-the-circus-8b6</guid>
+    </item>    <item>
       <title>Quoting Julian Andres Klode</title>
       <link>https://simonwillison.net/2025/Nov/1/debian/#atom-everything</link>
       <description>
@@ -6704,6 +7049,15 @@ I’d like to thank [Kevin](https://kvfrans.com/) and [Sergey](https://people.ee
 _This post originally appeared on [Seohong Park’s blog](https://seohong.me/blog/rl-without-td-learning/)._</source:markdown>
       <guid>cid://http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/</guid>
     </item>    <item>
+      <title>Libertarianism is Dead</title>
+      <link>https://www.notesfromthecircus.com/p/libertarianism-is-dead</link>
+      <description>
+        <![CDATA[A Return to Liberal Tradition]]>
+      </description>
+      <source:markdown>A Return to Liberal Tradition</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!7Xzf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85328d61-fc06-48d8-973a-f89fcf26e927_4096x2730.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/libertarianism-is-dead</guid>
+    </item>    <item>
       <title>TRICK OR TRUMP? | The Coffee Klatch for Saturday, November 1, 2025</title>
       <link>https://robertreich.substack.com/p/trick-or-trump-the-coffee-klatch</link>
       <description>
@@ -6962,6 +7316,15 @@ As usual, you can also use this squid post to talk about the security stories in
 
 Tags: [til](https://simonwillison.net/tags/til), [blogging](https://simonwillison.net/tags/blogging)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/31/curiosity-driven/#atom-everything</guid>
+    </item>    <item>
+      <title>Welcome to Your Reckoning</title>
+      <link>https://www.notesfromthecircus.com/p/welcome-to-your-reckoning</link>
+      <description>
+        <![CDATA[Republicans discover&#8212;with shock!&#8212;that white supremacists were the call coming from inside the house]]>
+      </description>
+      <source:markdown>Republicans discover—with shock!—that white supremacists were the call coming from inside the house</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!8Cj1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ba23beb-aa9b-4961-b4ef-756f257841c9_5184x3456.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/welcome-to-your-reckoning</guid>
     </item>    <item>
       <link>https://arstechnica.com/space/2025/10/elon-musk-on-data-centers-in-orbit-spacex-will-be-doing-this/?utm_source=bsky&#38;utm_medium=social</link>
       <description>
@@ -7491,6 +7854,15 @@ Thursday session</source:markdown>
 
 \[contains quote post or other embedded content\]</source:markdown>
       <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m4grdusjts27</guid>
+    </item>    <item>
+      <title>The Democratic Establishment Is a Dead Man Walking</title>
+      <link>https://www.notesfromthecircus.com/p/the-democratic-establishment-is-a</link>
+      <description>
+        <![CDATA[Hakeem Jeffries thinks the path back to power for Democrats is focusing on &#8220;kitchen table issues,&#8221; waiting for Trump to self-destruct, and avoiding challenging Trump on his increasing constitutional violations in immigration enforcement, the deployment of military to cities.]]>
+      </description>
+      <source:markdown>Hakeem Jeffries thinks the path back to power for Democrats is focusing on “kitchen table issues,” waiting for Trump to self-destruct, and avoiding challenging Trump on his increasing constitutional violations in immigration enforcement, the deployment of military to cities.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!3adu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb728d1b-37f5-4581-957e-87b2c78c53dd_6224x4672.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/the-democratic-establishment-is-a</guid>
     </item>    <item>
       <title>AI is Dunning-Kruger as a service</title>
       <link>https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/</link>
@@ -9242,6 +9614,15 @@ Doom takes place on Mars, but up until recently, it has only been played on Eart
       <source:markdown>Most people’s primary computing devices are their phones — and even for people whose primary devices are desktop computers, their phones are much-used satellite devices. And on both iOS and Android alike, people live their mobile digital lives through native apps, not websites.</source:markdown>
       <guid>cid://tag:daringfireball.net,2025://1.42325</guid>
     </item>    <item>
+      <title>Tucker Carlson Just Showed Us the Future—And It’s Worse Than We Thought</title>
+      <link>https://www.notesfromthecircus.com/p/tucker-carlson-just-showed-us-the</link>
+      <description>
+        <![CDATA[Tucker Carlson sat down with Nick Fuentes yesterday.]]>
+      </description>
+      <source:markdown>Tucker Carlson sat down with Nick Fuentes yesterday.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!3XPW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73274bc1-cf08-41b6-83ed-c5ad5eda6910_7591x5319.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/tucker-carlson-just-showed-us-the</guid>
+    </item>    <item>
       <link>http://scripting.com/2025/10/28.html#a194324</link>
       <description>
         <![CDATA[I checked out Elon Musk's <a href="https://en.wikipedia.org/wiki/Grokipedia">answer</a> to Wikipedia by going to the pages on <a href="https://grokipedia.com/page/Wikipedia">his site</a> that Wikipedia mangles the most, in my experience. It looks like they basically copied Wikipedia, if so it's no better or worse. They'll probably be able to improve it, because ChatGPT tells a much closer to actual-events story. Net-net getting the story right is more important imho than keeping democracy open to trolls.]]>
@@ -9496,6 +9877,15 @@ I used [Textastic](https://apps.apple.com/us/app/textastic-code-editor/id1049254
 
 Tags: [github](https://simonwillison.net/tags/github), [hardware-hacking](https://simonwillison.net/tags/hardware-hacking), [microsoft](https://simonwillison.net/tags/microsoft), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [raspberry-pi](https://simonwillison.net/tags/raspberry-pi), [llms](https://simonwillison.net/tags/llms), [claude-code](https://simonwillison.net/tags/claude-code), [disclosures](https://simonwillison.net/tags/disclosures)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Oct/28/github-universe-badge/#atom-everything</guid>
+    </item>    <item>
+      <title>The Guillotine Still Falls</title>
+      <link>https://www.notesfromthecircus.com/p/the-guillotine-still-falls</link>
+      <description>
+        <![CDATA[A love letter to the Enlightenment that both Effective Altruism and the dictatorship of virtue forgot]]>
+      </description>
+      <source:markdown>A love letter to the Enlightenment that both Effective Altruism and the dictatorship of virtue forgot</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!6Owh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd77c6785-f8b3-4363-bba4-1fee431bf729_4513x3385.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/the-guillotine-still-falls</guid>
     </item>    <item>
       <title>Grokipedia Is the Antithesis of Everything That Makes Wikipedia Good, Useful, and Human</title>
       <link>https://www.404media.co/grokipedia-is-the-antithesis-of-everything-that-makes-wikipedia-good-useful-and-human/</link>
@@ -11594,6 +11984,15 @@ The plant that’s growing in large green-reddish patches on the sand up here is
       <source:markdown>Economist Paul Krugman probably didn’t have the Erie Canal in mind today when he wrote about the rise of renewable energy, but he could have.</source:markdown>
       <guid>cid://https://heathercoxrichardson.substack.com/p/october-26-2025</guid>
     </item>    <item>
+      <title>On My Writing Style</title>
+      <link>https://www.notesfromthecircus.com/p/on-my-writing-style</link>
+      <description>
+        <![CDATA[Because people cannot stop giving me advice on how to improve it]]>
+      </description>
+      <source:markdown>Because people cannot stop giving me advice on how to improve it</source:markdown>
+      <enclosure url="https://images.unsplash.com/photo-1501504905252-473c47e087f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw0fHx3cml0aW5nfGVufDB8fHx8MTc2MTQ3NzY3NXww&ixlib=rb-4.1.0&q=80&w=1080" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/on-my-writing-style</guid>
+    </item>    <item>
       <title>Episode II of AI &#38; Docs: MCP and the role of tech writers</title>
       <link>https://passo.uno/ai-docs-episode-ii-mcp-servers/</link>
       <description>
@@ -11616,6 +12015,15 @@ The plant that’s growing in large green-reddish patches on the sand up here is
       </description>
       <source:markdown>Fuchsia One of my favourite plants. Grows like mad in South-West Ireland where one finds some roadside hedgerowss that seem to be largely comprised of it. Quote of the Day ”The oddity of the hostility of certain thinkers and political … [Continue reading →](https://memex.naughtons.org/monday-27-october-2025/41321/)</source:markdown>
       <guid>cid://https://memex.naughtons.org/?p=41321</guid>
+    </item>    <item>
+      <title>Sunday at the Circus: What Time is it, and What Comes Next</title>
+      <link>https://www.notesfromthecircus.com/p/sunday-at-the-circus-what-time-is</link>
+      <description>
+        <![CDATA[This week&#8217;s live session picked up where &#8220;What Time is it?&#8221; left off&#8212;and went deeper into the anxieties we&#8217;re all sitting with.]]>
+      </description>
+      <source:markdown>This week’s live session picked up where “What Time is it?” left off—and went deeper into the anxieties we’re all sitting with.</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/177215735/afabe2c84b4ffc4027ceaa59e45b88dd.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/sunday-at-the-circus-what-time-is</guid>
     </item>    <item>
       <title>612. Nelson: The Final Showdown (Part 5)</title>
       <link>https://therestishistory.com/612-nelson-the-final-showdown-part-5/</link>
@@ -20271,899 +20679,6 @@ overreacted.io/open-social/</source:markdown>
       <title>John Casey, the owner of one of the last rubber stamp stores...</title>
       <link>https://kottke.org/25/10/0047646-john-casey-the-owner-of</link>
       <guid>cid://tag:kottke.org,2025://13.47646</guid>
-    </item>    <item>
-      <title>Prince Andrew Announces He Will Move to America Where Government Protects Pedophiles</title>
-      <link>https://www.borowitzreport.com/p/prince-andrew-announces-he-will-move</link>
-      <description>
-        <![CDATA[&#8220;If you&#8217;re a pedophile, Washington is a sanctuary city.&#8221;]]>
-      </description>
-      <source:markdown>“If you’re a pedophile, Washington is a sanctuary city.”</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!68bB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b3a5cd1-d68c-45b6-82a5-efe2a3987f93_3300x2308.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/prince-andrew-announces-he-will-move</guid>
-    </item>    <item>
-      <title>315: Shell-shocked. A new era of global health. GenZ ✊🏾 One Piece. Mega-batteries. School is cool.</title>
-      <link>https://fixthenews.com/p/315-shell-shocked-a-new-era-of-global</link>
-      <description>
-        <![CDATA[Hidden stories of progress from around the world.]]>
-      </description>
-      <source:markdown>Hidden stories of progress from around the world.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!FctD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f81e16f-d90c-4238-aa43-65692731da9c_1456x1092.png" length="0" type="image/jpeg" />
-      <guid>cid://https://fixthenews.com/p/315-shell-shocked-a-new-era-of-global</guid>
-    </item>    <item>
-      <title>Stand Up, Stand Together.</title>
-      <link>https://fallows.substack.com/p/stand-up-stand-together</link>
-      <description>
-        <![CDATA[Two guiding principles of the No Kings movement, and for Americans meeting this moment.]]>
-      </description>
-      <source:markdown>Two guiding principles of the No Kings movement, and for Americans meeting this moment.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!0sy1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3e1618e-6fed-4cc3-949a-380697d86844_1550x1001.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://fallows.substack.com/p/stand-up-stand-together</guid>
-    </item>    <item>
-      <link>https://www.nytimes.com/2025/10/17/us/benioff-apologizes-san-francisco.html?unlocked_article_code=1.uE8.ydpp.5N-BSH_q68_L&#38;smid=url-share</link>
-      <description>
-        <![CDATA[<p>Benioff Apologizes for Saying Trump Should Send Troops to San Francisco.</p>]]>
-      </description>
-      <source:markdown>Benioff Apologizes for Saying Trump Should Send Troops to San Francisco.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/17/1561/</guid>
-    </item>    <item>
-      <title>Read &#34;Opinion | World Liberty Financial Is a Powerful Vehicle for Those Seeking Influence&#34;</title>
-      <link>https://www.mollywhite.net/reading/shortform?search=Opinion%20%7C%20World%20Liberty%20Financial%20Is%20a%20Powerful%20Vehicle%20for%20Those%20Seeking%20Influence</link>
-      <guid>cid://68f2ba0d9f72b44b384dd080</guid>
-    </item>    <item>
-      <title>Published on Citation Needed: &#34;Anatomy of a crypto meltdown&#34;</title>
-      <link>https://citationneeded.news/anatomy-of-a-crypto-meltdown</link>
-      <guid>cid://68f2b7781ecb9eb40d8c8226</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@evan@cosocial.ca/115391459913622676</link>
-      <description>
-        <![CDATA[<p>Evan Prodromou: "How important is WordPress to the future of the Fediverse?“</p>]]>
-      </description>
-      <source:markdown>Evan Prodromou: &#34;How important is WordPress to the future of the Fediverse?“</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/17/1559/</guid>
-    </item>    <item>
-      <title>Friday Squid Blogging: Squid Inks Philippines Fisherman</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-inks-philippines-fisherman.html</link>
-      <description>
-        <![CDATA[<p>Good <a href="https://www.foxweather.com/earth-space/philippines-fisherman-face-full-squid-ink">video</a>.</p>
-        <p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>
-        <p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>]]>
-      </description>
-      <source:markdown>Good [video](https://www.foxweather.com/earth-space/philippines-fisherman-face-full-squid-ink).
-
-As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.
-
-[Blog moderation policy.](https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html)</source:markdown>
-      <guid>cid://https://www.schneier.com/?p=71027</guid>
-    </item>    <item>
-      <title>Quoting Alexander Fridriksson and Jay Miller</title>
-      <link>https://simonwillison.net/2025/Oct/17/uuid-v7/#atom-everything</link>
-      <description>
-        <![CDATA[<blockquote cite="https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support"><p>Using UUIDv7 is generally discouraged for security when the primary key is exposed to end users in external-facing applications or APIs. The main issue is that UUIDv7 incorporates a 48-bit Unix timestamp as its most significant part, meaning the identifier itself leaks the record's creation time.</p>
-        <p>This leakage is primarily a privacy concern. Attackers can use the timing data as metadata for de-anonymization or account correlation, potentially revealing activity patterns or growth rates within an organization.</p></blockquote>
-        <p class="cite">&mdash; <a href="https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support">Alexander Fridriksson and Jay Miller</a>, Exploring PostgreSQL 18's new UUIDv7 support</p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/uuid">uuid</a>, <a href="https://simonwillison.net/tags/postgresql">postgresql</a>, <a href="https://simonwillison.net/tags/privacy">privacy</a>, <a href="https://simonwillison.net/tags/security">security</a></p>]]>
-      </description>
-      <source:markdown>&#62; Using UUIDv7 is generally discouraged for security when the primary key is exposed to end users in external-facing applications or APIs. The main issue is that UUIDv7 incorporates a 48-bit Unix timestamp as its most significant part, meaning the identifier itself leaks the record&#39;s creation time.
-&#62;
-&#62; This leakage is primarily a privacy concern. Attackers can use the timing data as metadata for de-anonymization or account correlation, potentially revealing activity patterns or growth rates within an organization.
-
-— [Alexander Fridriksson and Jay Miller](https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support), Exploring PostgreSQL 18&#39;s new UUIDv7 support
-
-Tags: [uuid](https://simonwillison.net/tags/uuid), [postgresql](https://simonwillison.net/tags/postgresql), [privacy](https://simonwillison.net/tags/privacy), [security](https://simonwillison.net/tags/security)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/17/uuid-v7/#atom-everything</guid>
-    </item>    <item>
-      <title>Russia: An ideology for domestic purposes and another for foreign</title>
-      <link>https://branko2f7.substack.com/p/russia-an-ideology-for-domestic-purposes</link>
-      <description>
-        <![CDATA[Nationalism or internationalism or both?]]>
-      </description>
-      <source:markdown>Nationalism or internationalism or both?</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/efcc0b39-c3bf-478b-944d-de445c251a0b_509x239.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://branko2f7.substack.com/p/russia-an-ideology-for-domestic-purposes</guid>
-    </item>    <item>
-      <title>The Base M5 MacBook Pro vs. the M4 MacBook Air</title>
-      <link>https://www.apple.com/mac/compare/?modelList=MacBook-Air-M4,MacBook-Pro-14-M5,MacBook-Pro-14-M4-Pro</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42277</guid>
-    </item>    <item>
-      <title>The Base M5 MacBook Pro vs. the M4 MacBook Air</title>
-      <link>https://www.apple.com/uk/mac/compare/?modelList=MacBook-Air-M4,MacBook-Pro-14-M5,MacBook-Pro-14-M4-Pro</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42277</guid>
-    </item>    <item>
-      <title>United States Mint to Release Commemorative $1 Steve Jobs Coin</title>
-      <link>https://www.usmint.gov/news/press-releases/united-states-mint-releases-2026-american-innovation-one-dollar-coin-program-designs</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42276</guid>
-    </item>    <item>
-      <link>https://newrepublic.com/article/201957/trump-chicago-secret-police-shot-woman-damning-info</link>
-      <description>
-        <![CDATA[<p>Trump’s Secret Police Shot a Citizen. Then Damning New Info Emerged.</p>]]>
-      </description>
-      <source:markdown>Trump’s Secret Police Shot a Citizen. Then Damning New Info Emerged.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/17/1557/</guid>
-    </item>    <item>
-      <title>Swift Profile Recorder</title>
-      <link>https://mjtsai.com/blog/2025/10/17/swift-profile-recorder/</link>
-      <description>
-        <![CDATA[Johannes Weiss and Mitchell Allison (forum): Swift Profile Recorder, an in-process sampling profiler for Swift services, is now available as an open source project.[&#8230;]Swift Profile Recorder enables you to:Adopt profiling without extra privileges or system dependencies, allowing you to add profiling across a variety of compute environments with constrained permissions.Collect samples using curl, allowing you [&#8230;]]]>
-      </description>
-      <source:markdown>Johannes Weiss and Mitchell Allison (forum): Swift Profile Recorder, an in-process sampling profiler for Swift services, is now available as an open source project.\[…\]Swift Profile Recorder enables you to:Adopt profiling without extra privileges or system dependencies, allowing you to add profiling across a variety of compute environments with constrained permissions.Collect samples using curl, allowing you \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49685</guid>
-    </item>    <item>
-      <title>Swift Proposal: Module Selectors for Name Disambiguation</title>
-      <link>https://mjtsai.com/blog/2025/10/17/swift-proposal-module-selectors-for-name-disambiguation/</link>
-      <description>
-        <![CDATA[SE-0491 (via Becca Royal-Gordon): We propose that Swift&#8217;s grammar be extended so that, wherever an identifier is written in source code to reference a declaration, it can be prefixed by ModuleName:: to disambiguate which module the declaration is expected to come from. This syntax will provide a way to resolve several types of name ambiguities [&#8230;]]]>
-      </description>
-      <source:markdown>SE-0491 (via Becca Royal-Gordon): We propose that Swift’s grammar be extended so that, wherever an identifier is written in source code to reference a declaration, it can be prefixed by ModuleName:: to disambiguate which module the declaration is expected to come from. This syntax will provide a way to resolve several types of name ambiguities \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49683</guid>
-    </item>    <item>
-      <title>End of Support for Windows 10</title>
-      <link>https://mjtsai.com/blog/2025/10/17/end-of-support-for-windows-10/</link>
-      <description>
-        <![CDATA[Fight to Repair: A coalition of businesses, nonprofits, and elected officials (including Fight To Repair&#8217;s parent organization, the Secure Resilient Future Foundation) has formally petitioned Microsoft to extend Windows 10 support, which is currently slated to end on October 14th. With more than a billion Windows 10 devices operating globally, it is estimated that hundreds [&#8230;]]]>
-      </description>
-      <source:markdown>Fight to Repair: A coalition of businesses, nonprofits, and elected officials (including Fight To Repair’s parent organization, the Secure Resilient Future Foundation) has formally petitioned Microsoft to extend Windows 10 support, which is currently slated to end on October 14th. With more than a billion Windows 10 devices operating globally, it is estimated that hundreds \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49681</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m3fvxp6wy22w</link>
-      <description>
-        <![CDATA[As governor, I know @mikiesherrill.bsky.social will deliver for New Jersey. She has the experience and plans to drive down costs – and the integrity, grit, and commitment to service to be the kind of leader we need right now.
-        
-        Make a plan to vote today at mikiesherrill.com.
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <source:markdown>As governor, I know @mikiesherrill.bsky.social will deliver for New Jersey. She has the experience and plans to drive down costs – and the integrity, grit, and commitment to service to be the kind of leader we need right now.
-
-Make a plan to vote today at mikiesherrill.com.
-
-\[contains quote post or other embedded content\]</source:markdown>
-      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m3fvxp6wy22w</guid>
-    </item>    <item>
-      <title>Should form labels be wrapped or separate?</title>
-      <link>https://simonwillison.net/2025/Oct/17/form-labels/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://www.tpgi.com/should-form-labels-be-wrapped-or-separate/">Should form labels be wrapped or separate?</a></strong></p>
-        James Edwards notes that wrapping a form input in a label event like this has a significant downside:</p>
-        <pre><code>&lt;label&gt;Name &lt;input type="text"&gt;&lt;/label&gt;
-        </code></pre>
-        <p>It turns out both Dragon Naturally Speaking for Windows and Voice Control for macOS and iOS fail to understand this relationship!</p>
-        <p>You need to use the explicit <code>&lt;label for="element_id"&gt;</code> syntax to ensure those screen readers correctly understand the relationship between label and form field. You can still nest the input inside the label if you like:</p>
-        <pre><code>&lt;label for="idField"&gt;Name
-          &lt;input id="idField" type="text"&gt;
-        &lt;/label&gt;
-        </code></pre>
-        
-            <p><small></small>Via <a href="https://gomakethings.com/implicit-labels-arent/">Chris Ferdinandi</a></small></p>
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/accessibility">accessibility</a>, <a href="https://simonwillison.net/tags/html">html</a>, <a href="https://simonwillison.net/tags/screen-readers">screen-readers</a></p>]]>
-      </description>
-      <source:markdown>**[Should form labels be wrapped or separate?](https://www.tpgi.com/should-form-labels-be-wrapped-or-separate/)**
-
-James Edwards notes that wrapping a form input in a label event like this has a significant downside:
-
-```
-&#60;label&#62;Name &#60;input type=&#34;text&#34;&#62;&#60;/label&#62;
-
-```
-
-It turns out both Dragon Naturally Speaking for Windows and Voice Control for macOS and iOS fail to understand this relationship!
-
-You need to use the explicit `&#60;label for=&#34;element_id&#34;&#62;` syntax to ensure those screen readers correctly understand the relationship between label and form field. You can still nest the input inside the label if you like:
-
-```
-&#60;label for=&#34;idField&#34;&#62;Name
-  &#60;input id=&#34;idField&#34; type=&#34;text&#34;&#62;
-&#60;/label&#62;
-
-```
-
-Via [Chris Ferdinandi](https://gomakethings.com/implicit-labels-arent/)
-
-Tags: [accessibility](https://simonwillison.net/tags/accessibility), [html](https://simonwillison.net/tags/html), [screen-readers](https://simonwillison.net/tags/screen-readers)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/17/form-labels/#atom-everything</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m3fuamngds25</link>
-      <description>
-        <![CDATA[@abigailspanberger.com will work to stand up for Virginia families – because that’s what she’s done her entire career. As governor, she has plans to lower the cost of housing, health care, and utilities, and grow Virginia’s economy.
-        
-        So make a plan to vote today at abigailspanberger.com.
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <source:markdown>@abigailspanberger.com will work to stand up for Virginia families – because that’s what she’s done her entire career. As governor, she has plans to lower the cost of housing, health care, and utilities, and grow Virginia’s economy.
-
-So make a plan to vote today at abigailspanberger.com.
-
-\[contains quote post or other embedded content\]</source:markdown>
-      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m3fuamngds25</guid>
-    </item>    <item>
-      <title>Here’s what’s making us happy this week.</title>
-      <link>https://lithub.com/heres-whats-making-us-happy-this-week-oct17/</link>
-      <description>
-        <![CDATA[Spooky season is upon us again. (At least if you’re in the Northeast corridor.) So this week, Lit Hubbers enjoyed autumnal fare. I&#8217;m talking leaf-peeping, and freaky Fridays. We&#8217;ve got reflection and hibernation on the brain. Whether that means hunkering]]>
-      </description>
-      <source:markdown>Spooky season is upon us again. (At least if you’re in the Northeast corridor.) So this week, Lit Hubbers enjoyed autumnal fare. I’m talking leaf-peeping, and freaky Fridays. We’ve got reflection and hibernation on the brain. Whether that means hunkering</source:markdown>
-      <guid>cid://https://lithub.com/?p=261338</guid>
-    </item>    <item>
-      <title>Software can be finished - Ross Wintle</title>
-      <link>https://rosswintle.uk/2025/10/software-can-be-finished/</link>
-      <description>
-        <![CDATA[<p>There’s quite a crossover between <a href="https://resilientwebdesign.com/">resilience</a> and longevity:</p>
-        
-        <blockquote>
-          <ol>
-          <li>Understand the requirements</li>
-          <li>Keep scope small and fixed</li>
-          <li>Reduce dependencies</li>
-          <li>Produce static output</li>
-          <li>Increase Quality Assurance</li>
-          </ol>
-        </blockquote>
-        
-        <p><a href="https://adactio.com/links/22197">adactio.com/links/22197</a></p>]]>
-      </description>
-      <source:markdown>There’s quite a crossover between [resilience](https://resilientwebdesign.com/) and longevity:
-
-&#62; 1. Understand the requirements
-&#62; 2. Keep scope small and fixed
-&#62; 3. Reduce dependencies
-&#62; 4. Produce static output
-&#62; 5. Increase Quality Assurance
-
-[adactio.com/links/22197](https://adactio.com/links/22197)</source:markdown>
-      <guid>cid://https://rosswintle.uk/2025/10/software-can-be-finished/</guid>
-    </item>    <item>
-      <title>October 16, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/october-16-2025-b44</link>
-      <enclosure url="https://api.substack.com/feed/podcast/176433554/812e93b4128bdd482537175abf9122bd.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/october-16-2025-b44</guid>
-    </item>    <item>
-      <title>How Does the End Begin?</title>
-      <link>https://www.profgalloway.com/how-does-the-end-begin/</link>
-      <description>
-        <![CDATA[<p>The top 10 stocks in the S&#38;P 500 account for 40% of the index’s market cap. Since ChatGPT launched in November 2022, AI-related stocks have registered 75% of S&#38;P 500 returns, 80% of earnings growth, and 90% of capital spending growth. Meanwhile, AI investments accounted for nearly 92% of the U.S. GDP growth this year. [&#8230;]</p>
-        <p>The post <a href="https://www.profgalloway.com/how-does-the-end-begin/">How Does the End Begin?</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>]]>
-      </description>
-      <source:markdown>The top 10 stocks in the S&#38;P 500 account for 40% of the index’s market cap. Since ChatGPT launched in November 2022, AI-related stocks have registered 75% of S&#38;P 500 returns, 80% of earnings growth, and 90% of capital spending growth. Meanwhile, AI investments accounted for nearly 92% of the U.S. GDP growth this year. \[…\]
-
-The post [How Does the End Begin?](https://www.profgalloway.com/how-does-the-end-begin/) appeared first on [No Mercy / No Malice](https://www.profgalloway.com).</source:markdown>
-      <guid>cid://https://www.profgalloway.com/?p=216326</guid>
-    </item>    <item>
-      <title>Multi region cloud training Lab 8/9: Chaos Testing</title>
-      <link>https://memo.mx/posts/multi-region-series-08-chaos/</link>
-      <description>
-        <![CDATA[Problem: Validate resilience under pod kills and regional impairment.
-        Assumptions/Constraints
-        Cost note: Two clusters simulate regions. Install Chaos Mesh or Litmus Chaos, one per cluster. ASCII Diagram
-        [Chaos Mesh] | +--&gt; PodChaos: kill one pod in app=echo | +--&gt; NetworkChaos: add 200ms delay to ns=echo Effects: - Envoy retries + multiple replicas keep SLI green - p99 rises during NetworkChaos window Steps (Chaos Mesh)
-        Install the operator. Create a PodChaos to kill app pods.]]>
-      </description>
-      <source:markdown>Problem: Validate resilience under pod kills and regional impairment.
-Assumptions/Constraints
-Cost note: Two clusters simulate regions. Install Chaos Mesh or Litmus Chaos, one per cluster. ASCII Diagram
-\[Chaos Mesh\] \| +--&#62; PodChaos: kill one pod in app=echo \| +--&#62; NetworkChaos: add 200ms delay to ns=echo Effects: - Envoy retries + multiple replicas keep SLI green - p99 rises during NetworkChaos window Steps (Chaos Mesh)
-Install the operator. Create a PodChaos to kill app pods.</source:markdown>
-      <guid>cid://https://memo.mx/posts/multi-region-series-08-chaos/</guid>
-    </item>    <item>
-      <title>Multi region cloud training Lab 9/9: Load Generation and SLOs</title>
-      <link>https://memo.mx/posts/multi-region-series-09-load/</link>
-      <description>
-        <![CDATA[Problem: Prove throughput and latency targets across clusters.
-        Assumptions/Constraints
-        Cost note: Two clusters represent regions. Run k6 as a Job inside each cluster to test in region and cross region paths. ASCII Diagram
-        [k6 Job in US] ---&gt; http://echo.echo.svc.cluster.local (US svc) [k6 Job in EU] ---&gt; http://echo.echo.svc.cluster.local (EU svc) Measure: - in region p95/p99 - cross region p95/p99 (by hitting remote via gateway if desired) Steps
-        Create a ConfigMap with a k6 script.]]>
-      </description>
-      <source:markdown>Problem: Prove throughput and latency targets across clusters.
-Assumptions/Constraints
-Cost note: Two clusters represent regions. Run k6 as a Job inside each cluster to test in region and cross region paths. ASCII Diagram
-\[k6 Job in US\] ---&#62; http://echo.echo.svc.cluster.local (US svc) \[k6 Job in EU\] ---&#62; http://echo.echo.svc.cluster.local (EU svc) Measure: - in region p95/p99 - cross region p95/p99 (by hitting remote via gateway if desired) Steps
-Create a ConfigMap with a k6 script.</source:markdown>
-      <guid>cid://https://memo.mx/posts/multi-region-series-09-load/</guid>
-    </item>    <item>
-      <title>Multi Region Cloud Training Lab: Part 8 - Chaos Testing</title>
-      <link>https://memo.mx/posts/multi-region-series-part-8-chaos/</link>
-      <description>
-        <![CDATA[Problem: Validate resilience under pod kills and regional impairment.
-        Assumptions/Constraints
-        Cost note: Two clusters simulate regions. Install Chaos Mesh or Litmus Chaos, one per cluster. ASCII Diagram
-        [Chaos Mesh] | +--&gt; PodChaos: kill one pod in app=echo | +--&gt; NetworkChaos: add 200ms delay to ns=echo Effects: - Envoy retries + multiple replicas keep SLI green - p99 rises during NetworkChaos window Steps (Chaos Mesh)
-        Install the operator. Create a PodChaos to kill app pods.]]>
-      </description>
-      <source:markdown>Problem: Validate resilience under pod kills and regional impairment.
-Assumptions/Constraints
-Cost note: Two clusters simulate regions. Install Chaos Mesh or Litmus Chaos, one per cluster. ASCII Diagram
-\[Chaos Mesh\] \| +--&#62; PodChaos: kill one pod in app=echo \| +--&#62; NetworkChaos: add 200ms delay to ns=echo Effects: - Envoy retries + multiple replicas keep SLI green - p99 rises during NetworkChaos window Steps (Chaos Mesh)
-Install the operator. Create a PodChaos to kill app pods.</source:markdown>
-      <guid>cid://https://memo.mx/posts/multi-region-series-part-8-chaos/</guid>
-    </item>    <item>
-      <title>Multi Region Cloud Training Lab: Part 9 - Load Generation and SLOs</title>
-      <link>https://memo.mx/posts/multi-region-series-part-9-load/</link>
-      <description>
-        <![CDATA[Problem: Prove throughput and latency targets across clusters.
-        Assumptions/Constraints
-        Cost note: Two clusters represent regions. Run k6 as a Job inside each cluster to test in region and cross region paths. ASCII Diagram
-        [k6 Job in US] ---&gt; http://echo.echo.svc.cluster.local (US svc) [k6 Job in EU] ---&gt; http://echo.echo.svc.cluster.local (EU svc) Measure: - in region p95/p99 - cross region p95/p99 (by hitting remote via gateway if desired) Steps
-        Create a ConfigMap with a k6 script.]]>
-      </description>
-      <source:markdown>Problem: Prove throughput and latency targets across clusters.
-Assumptions/Constraints
-Cost note: Two clusters represent regions. Run k6 as a Job inside each cluster to test in region and cross region paths. ASCII Diagram
-\[k6 Job in US\] ---&#62; http://echo.echo.svc.cluster.local (US svc) \[k6 Job in EU\] ---&#62; http://echo.echo.svc.cluster.local (EU svc) Measure: - in region p95/p99 - cross region p95/p99 (by hitting remote via gateway if desired) Steps
-Create a ConfigMap with a k6 script.</source:markdown>
-      <guid>cid://https://memo.mx/posts/multi-region-series-part-9-load/</guid>
-    </item>    <item>
-      <title>Multi region cloud training Lab 7/9: CD with Istio Traffic Policy and Argo CD</title>
-      <link>https://memo.mx/posts/multi-region-series-07-cd/</link>
-      <description>
-        <![CDATA[Problem: Roll out new versions safely at high throughput.
-        Assumptions/Constraints
-        Cost note: Two clusters act as regions. Istio sidecars injected. Namespace labeled with istio-injection=enabled. ASCII Diagram
-        VirtualService +-------------------+ Request ---&gt; | 90% -&gt; subset v1 | | 10% -&gt; subset v2 | +-------------------+ | v DestinationRule (subsets + policies) - subsets: v1 (labels version=v1), v2 (version=v2) - connectionPool, outlierDetection Steps
-        Add VirtualService and DestinationRule with connection pools and outlier detection. Let Argo CD sync them per region overlay.]]>
-      </description>
-      <source:markdown>Problem: Roll out new versions safely at high throughput.
-Assumptions/Constraints
-Cost note: Two clusters act as regions. Istio sidecars injected. Namespace labeled with istio-injection=enabled. ASCII Diagram
-VirtualService +-------------------+ Request ---&#62; \| 90% -&#62; subset v1 \| \| 10% -&#62; subset v2 \| +-------------------+ \| v DestinationRule (subsets + policies) - subsets: v1 (labels version=v1), v2 (version=v2) - connectionPool, outlierDetection Steps
-Add VirtualService and DestinationRule with connection pools and outlier detection. Let Argo CD sync them per region overlay.</source:markdown>
-      <guid>cid://https://memo.mx/posts/multi-region-series-07-cd/</guid>
-    </item>    <item>
-      <title>Multi Region Cloud Training Lab: Part 7 - CD with Istio Traffic Policy and Argo CD</title>
-      <link>https://memo.mx/posts/multi-region-series-part-7-cd/</link>
-      <description>
-        <![CDATA[Problem: Roll out new versions safely at high throughput.
-        Assumptions/Constraints
-        Cost note: Two clusters act as regions. Istio sidecars injected. Namespace labeled with istio-injection=enabled. ASCII Diagram
-        VirtualService +-------------------+ Request ---&gt; | 90% -&gt; subset v1 | | 10% -&gt; subset v2 | +-------------------+ | v DestinationRule (subsets + policies) - subsets: v1 (labels version=v1), v2 (version=v2) - connectionPool, outlierDetection Steps
-        Add VirtualService and DestinationRule with connection pools and outlier detection. Let Argo CD sync them per region overlay.]]>
-      </description>
-      <source:markdown>Problem: Roll out new versions safely at high throughput.
-Assumptions/Constraints
-Cost note: Two clusters act as regions. Istio sidecars injected. Namespace labeled with istio-injection=enabled. ASCII Diagram
-VirtualService +-------------------+ Request ---&#62; \| 90% -&#62; subset v1 \| \| 10% -&#62; subset v2 \| +-------------------+ \| v DestinationRule (subsets + policies) - subsets: v1 (labels version=v1), v2 (version=v2) - connectionPool, outlierDetection Steps
-Add VirtualService and DestinationRule with connection pools and outlier detection. Let Argo CD sync them per region overlay.</source:markdown>
-      <guid>cid://https://memo.mx/posts/multi-region-series-part-7-cd/</guid>
-    </item>    <item>
-      <title>Multi region cloud training Lab 6/9: CI with GitHub Actions and Taskfile</title>
-      <link>https://memo.mx/posts/multi-region-series-06-ci/</link>
-      <description>
-        <![CDATA[Problem: Build, tag, and push images consistently.
-        Assumptions/Constraints
-        Cost note: Using two clusters only. GHCR or ECR credentials set as repo secrets. ASCII Diagram
-        [GitHub Actions CI] | | docker build/push (Taskfile) v [Registry] | | write IMAGE_TAG file and commit v [Git Repo] | v [Argo CD notices change and syncs] Steps
-        Use Taskfile in the workflow for local parity. Push image and update a tag file for GitOps. Example workflow (.]]>
-      </description>
-      <source:markdown>Problem: Build, tag, and push images consistently.
-Assumptions/Constraints
-Cost note: Using two clusters only. GHCR or ECR credentials set as repo secrets. ASCII Diagram
-\[GitHub Actions CI\] \| \| docker build/push (Taskfile) v \[Registry\] \| \| write IMAGE\_TAG file and commit v \[Git Repo\] \| v \[Argo CD notices change and syncs\] Steps
-Use Taskfile in the workflow for local parity. Push image and update a tag file for GitOps. Example workflow (.</source:markdown>
-      <guid>cid://https://memo.mx/posts/multi-region-series-06-ci/</guid>
-    </item>    <item>
-      <title>Multi Region Cloud Training Lab: Part 6 - CI with GitHub Actions and Taskfile</title>
-      <link>https://memo.mx/posts/multi-region-series-part-6-ci/</link>
-      <description>
-        <![CDATA[Problem: Build, tag, and push images consistently.
-        Assumptions/Constraints
-        Cost note: Using two clusters only. GHCR or ECR credentials set as repo secrets. ASCII Diagram
-        [GitHub Actions CI] | | docker build/push (Taskfile) v [Registry] | | write IMAGE_TAG file and commit v [Git Repo] | v [Argo CD notices change and syncs] Steps
-        Use Taskfile in the workflow for local parity. Push image and update a tag file for GitOps. Example workflow (.]]>
-      </description>
-      <source:markdown>Problem: Build, tag, and push images consistently.
-Assumptions/Constraints
-Cost note: Using two clusters only. GHCR or ECR credentials set as repo secrets. ASCII Diagram
-\[GitHub Actions CI\] \| \| docker build/push (Taskfile) v \[Registry\] \| \| write IMAGE\_TAG file and commit v \[Git Repo\] \| v \[Argo CD notices change and syncs\] Steps
-Use Taskfile in the workflow for local parity. Push image and update a tag file for GitOps. Example workflow (.</source:markdown>
-      <guid>cid://https://memo.mx/posts/multi-region-series-part-6-ci/</guid>
-    </item>    <item>
-      <title>Multi region cloud training Lab 5/9: Sample App and Overlays</title>
-      <link>https://memo.mx/posts/multi-region-series-05-app/</link>
-      <description>
-        <![CDATA[Problem: Deploy a simple HTTP service with region specific config.
-        Assumptions/Constraints
-        Cost note: Two clusters represent regions. Use Kustomize overlays keyed by region label. ASCII Diagram
-        Kustomize structure deploy/ base/echo/ -&gt; common Deployment, Service overlays/ us/echo/ -&gt; patch: REGION=us eu/echo/ -&gt; patch: REGION=eu Argo CD picks overlay by cluster label and syncs to each cluster. Steps
-        Create a tiny HTTP server. Add base manifests and overlays. Example app (app/main.go)
-        package main import ( &#34;fmt&#34;; &#34;log&#34;; &#34;net/http&#34;; &#34;os&#34; ) func main(){ region := os.]]>
-      </description>
-      <source:markdown>Problem: Deploy a simple HTTP service with region specific config.
-Assumptions/Constraints
-Cost note: Two clusters represent regions. Use Kustomize overlays keyed by region label. ASCII Diagram
-Kustomize structure deploy/ base/echo/ -&#62; common Deployment, Service overlays/ us/echo/ -&#62; patch: REGION=us eu/echo/ -&#62; patch: REGION=eu Argo CD picks overlay by cluster label and syncs to each cluster. Steps
-Create a tiny HTTP server. Add base manifests and overlays. Example app (app/main.go)
-package main import ( &#34;fmt&#34;; &#34;log&#34;; &#34;net/http&#34;; &#34;os&#34; ) func main(){ region := os.</source:markdown>
-      <guid>cid://https://memo.mx/posts/multi-region-series-05-app/</guid>
-    </item>    <item>
-      <title>Multi Region Cloud Training Lab: Part 5 - Sample App and Overlays</title>
-      <link>https://memo.mx/posts/multi-region-series-part-5-app/</link>
-      <description>
-        <![CDATA[Problem: Deploy a simple HTTP service with region specific config.
-        Assumptions/Constraints
-        Cost note: Two clusters represent regions. Use Kustomize overlays keyed by region label. ASCII Diagram
-        Kustomize structure deploy/ base/echo/ -&gt; common Deployment, Service overlays/ us/echo/ -&gt; patch: REGION=us eu/echo/ -&gt; patch: REGION=eu Argo CD picks overlay by cluster label and syncs to each cluster. Steps
-        Create a tiny HTTP server. Add base manifests and overlays. Example app (app/main.go)
-        package main import ( &#34;fmt&#34;; &#34;log&#34;; &#34;net/http&#34;; &#34;os&#34; ) func main(){ region := os.]]>
-      </description>
-      <source:markdown>Problem: Deploy a simple HTTP service with region specific config.
-Assumptions/Constraints
-Cost note: Two clusters represent regions. Use Kustomize overlays keyed by region label. ASCII Diagram
-Kustomize structure deploy/ base/echo/ -&#62; common Deployment, Service overlays/ us/echo/ -&#62; patch: REGION=us eu/echo/ -&#62; patch: REGION=eu Argo CD picks overlay by cluster label and syncs to each cluster. Steps
-Create a tiny HTTP server. Add base manifests and overlays. Example app (app/main.go)
-package main import ( &#34;fmt&#34;; &#34;log&#34;; &#34;net/http&#34;; &#34;os&#34; ) func main(){ region := os.</source:markdown>
-      <guid>cid://https://memo.mx/posts/multi-region-series-part-5-app/</guid>
-    </item>    <item>
-      <title>Multi region cloud training Lab 4/9: AWS Identity (IRSA vs Pod Identity)</title>
-      <link>https://memo.mx/posts/multi-region-series-04-identity/</link>
-      <description>
-        <![CDATA[Problem: Let workloads call AWS without node credentials.
-        Assumptions/Constraints
-        Cost note: Two clusters, not two AWS regions. Choose one path: IRSA or EKS Pod Identity. Do not mix for the same service account. ASCII Diagram
-        IRSA path Pod Identity path +-----------------------------+ +-----------------------------+ | [Pod + SA aws-sa] | | [Pod + SA aws-sa] | | token (OIDC projected) | | request to EKS agent | +--------------|--------------+ +--------------|--------------+ v v [IAM OIDC Provider] [EKS Pod Identity Agent] | | v v [STS AssumeRoleWithWebIdentity] [STS AssumeRole] | | v v [Temp creds] [Temp creds] \________________________________________/ | v [AWS APIs] Notes: IRSA supports Fargate and non EKS clusters with OIDC; Pod Identity is EKS only.]]>
-      </description>
-      <source:markdown>Problem: Let workloads call AWS without node credentials.
-Assumptions/Constraints
-Cost note: Two clusters, not two AWS regions. Choose one path: IRSA or EKS Pod Identity. Do not mix for the same service account. ASCII Diagram
-IRSA path Pod Identity path +-----------------------------+ +-----------------------------+ \| \[Pod + SA aws-sa\] \| \| \[Pod + SA aws-sa\] \| \| token (OIDC projected) \| \| request to EKS agent \| +--------------\|--------------+ +--------------\|--------------+ v v \[IAM OIDC Provider\] \[EKS Pod Identity Agent\] \| \| v v \[STS AssumeRoleWithWebIdentity\] \[STS AssumeRole\] \| \| v v \[Temp creds\] \[Temp creds\] \\\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_/ \| v \[AWS APIs\] Notes: IRSA supports Fargate and non EKS clusters with OIDC; Pod Identity is EKS only.</source:markdown>
-      <guid>cid://https://memo.mx/posts/multi-region-series-04-identity/</guid>
-    </item>    <item>
-      <title>Multi Region Cloud Training Lab: Part 4 - AWS Identity (IRSA vs Pod Identity)</title>
-      <link>https://memo.mx/posts/multi-region-series-part-4-identity/</link>
-      <description>
-        <![CDATA[Problem: Let workloads call AWS without node credentials.
-        Assumptions/Constraints
-        Cost note: Two clusters, not two AWS regions. Choose one path: IRSA or EKS Pod Identity. Do not mix for the same service account. ASCII Diagram
-        IRSA path Pod Identity path +-----------------------------+ +-----------------------------+ | [Pod + SA aws-sa] | | [Pod + SA aws-sa] | | token (OIDC projected) | | request to EKS agent | +--------------|--------------+ +--------------|--------------+ v v [IAM OIDC Provider] [EKS Pod Identity Agent] | | v v [STS AssumeRoleWithWebIdentity] [STS AssumeRole] | | v v [Temp creds] [Temp creds] \________________________________________/ | v [AWS APIs] Notes: IRSA supports Fargate and non EKS clusters with OIDC; Pod Identity is EKS only.]]>
-      </description>
-      <source:markdown>Problem: Let workloads call AWS without node credentials.
-Assumptions/Constraints
-Cost note: Two clusters, not two AWS regions. Choose one path: IRSA or EKS Pod Identity. Do not mix for the same service account. ASCII Diagram
-IRSA path Pod Identity path +-----------------------------+ +-----------------------------+ \| \[Pod + SA aws-sa\] \| \| \[Pod + SA aws-sa\] \| \| token (OIDC projected) \| \| request to EKS agent \| +--------------\|--------------+ +--------------\|--------------+ v v \[IAM OIDC Provider\] \[EKS Pod Identity Agent\] \| \| v v \[STS AssumeRoleWithWebIdentity\] \[STS AssumeRole\] \| \| v v \[Temp creds\] \[Temp creds\] \\\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_/ \| v \[AWS APIs\] Notes: IRSA supports Fargate and non EKS clusters with OIDC; Pod Identity is EKS only.</source:markdown>
-      <guid>cid://https://memo.mx/posts/multi-region-series-part-4-identity/</guid>
-    </item>    <item>
-      <title>Multi region cloud training Lab 3/9: Istio Multi Region Mesh</title>
-      <link>https://memo.mx/posts/multi-region-series-03-istio/</link>
-      <description>
-        <![CDATA[Problem: Enable east to west traffic and consistent policy across clusters.
-        Assumptions/Constraints
-        Cost note: Two clusters stand in for two regions. Same meshID, same trust domain, distinct network per cluster. ASCII Diagram
-        Cross cluster via gateway + ServiceEntry (no istioctl) +-----------+ mTLS mesh +-----------+ | Cluster US|&lt;=============&gt;| Cluster EU| | istiod | | istiod | | east-west | &lt;---15443---- | east-west | | gateway | | gateway | | echo svc | | echo svc | +-----------+ +-----------+ meshID=training-mesh, trustDomain=corp.]]>
-      </description>
-      <source:markdown>Problem: Enable east to west traffic and consistent policy across clusters.
-Assumptions/Constraints
-Cost note: Two clusters stand in for two regions. Same meshID, same trust domain, distinct network per cluster. ASCII Diagram
-Cross cluster via gateway + ServiceEntry (no istioctl) +-----------+ mTLS mesh +-----------+ \| Cluster US\|&#60;=============&#62;\| Cluster EU\| \| istiod \| \| istiod \| \| east-west \| &#60;---15443---- \| east-west \| \| gateway \| \| gateway \| \| echo svc \| \| echo svc \| +-----------+ +-----------+ meshID=training-mesh, trustDomain=corp.</source:markdown>
-      <guid>cid://https://memo.mx/posts/multi-region-series-03-istio/</guid>
-    </item>    <item>
-      <title>Multi Region Cloud Training Lab: Part 3 - Istio Multi Region Mesh</title>
-      <link>https://memo.mx/posts/multi-region-series-part-3-istio/</link>
-      <description>
-        <![CDATA[Problem: Enable east to west traffic and consistent policy across clusters.
-        Assumptions/Constraints
-        Cost note: Two clusters stand in for two regions. Same meshID, same trust domain, distinct network per cluster. ASCII Diagram
-        Cross cluster via gateway + ServiceEntry (no istioctl) +-----------+ mTLS mesh +-----------+ | Cluster US|&lt;=============&gt;| Cluster EU| | istiod | | istiod | | east-west | &lt;---15443---- | east-west | | gateway | | gateway | | echo svc | | echo svc | +-----------+ +-----------+ meshID=training-mesh, trustDomain=corp.]]>
-      </description>
-      <source:markdown>Problem: Enable east to west traffic and consistent policy across clusters.
-Assumptions/Constraints
-Cost note: Two clusters stand in for two regions. Same meshID, same trust domain, distinct network per cluster. ASCII Diagram
-Cross cluster via gateway + ServiceEntry (no istioctl) +-----------+ mTLS mesh +-----------+ \| Cluster US\|&#60;=============&#62;\| Cluster EU\| \| istiod \| \| istiod \| \| east-west \| &#60;---15443---- \| east-west \| \| gateway \| \| gateway \| \| echo svc \| \| echo svc \| +-----------+ +-----------+ meshID=training-mesh, trustDomain=corp.</source:markdown>
-      <guid>cid://https://memo.mx/posts/multi-region-series-part-3-istio/</guid>
-    </item>    <item>
-      <title>Multi region cloud training Lab 2/9: GitOps with Argo CD</title>
-      <link>https://memo.mx/posts/multi-region-series-02-argocd/</link>
-      <description>
-        <![CDATA[Problem: Deploy one app to many clusters using a single source of truth.
-        Assumptions/Constraints
-        Cost note: We mock regions with two clusters. Argo CD runs in each cluster or as a control cluster. Use ApplicationSet clusters generator. ASCII Diagram
-        [GitHub Repo (manifests)] | v [Argo CD (control)] / \ v v [Cluster US] [Cluster EU] ns echo ns echo apps synced apps synced Steps
-        Label clusters for region selection. Register clusters in Argo CD.]]>
-      </description>
-      <source:markdown>Problem: Deploy one app to many clusters using a single source of truth.
-Assumptions/Constraints
-Cost note: We mock regions with two clusters. Argo CD runs in each cluster or as a control cluster. Use ApplicationSet clusters generator. ASCII Diagram
-\[GitHub Repo (manifests)\] \| v \[Argo CD (control)\] / \ v v \[Cluster US\] \[Cluster EU\] ns echo ns echo apps synced apps synced Steps
-Label clusters for region selection. Register clusters in Argo CD.</source:markdown>
-      <guid>cid://https://memo.mx/posts/multi-region-series-02-argocd/</guid>
-    </item>    <item>
-      <title>Multi Region Cloud Training Lab: Part 2 - GitOps with Argo CD</title>
-      <link>https://memo.mx/posts/multi-region-series-part-2-argocd/</link>
-      <description>
-        <![CDATA[Problem: Deploy one app to many clusters using a single source of truth.
-        Assumptions/Constraints
-        Cost note: We mock regions with two clusters. Argo CD runs in each cluster or as a control cluster. Use ApplicationSet clusters generator. ASCII Diagram
-        [GitHub Repo (manifests)] | v [Argo CD (control)] / \ v v [Cluster US] [Cluster EU] ns echo ns echo apps synced apps synced Steps
-        Label clusters for region selection. Register clusters in Argo CD.]]>
-      </description>
-      <source:markdown>Problem: Deploy one app to many clusters using a single source of truth.
-Assumptions/Constraints
-Cost note: We mock regions with two clusters. Argo CD runs in each cluster or as a control cluster. Use ApplicationSet clusters generator. ASCII Diagram
-\[GitHub Repo (manifests)\] \| v \[Argo CD (control)\] / \ v v \[Cluster US\] \[Cluster EU\] ns echo ns echo apps synced apps synced Steps
-Label clusters for region selection. Register clusters in Argo CD.</source:markdown>
-      <guid>cid://https://memo.mx/posts/multi-region-series-part-2-argocd/</guid>
-    </item>    <item>
-      <title>Multi region cloud training Lab 1/9: Baseline Repo and Environments</title>
-      <link>https://memo.mx/posts/multi-region-series-01-baseline/</link>
-      <description>
-        <![CDATA[Problem: Standardize local commands and name the moving parts so every step is repeatable.
-        Assumptions/Constraints
-        Cost note: We mock “multi region” by using two Kubernetes clusters, not two AWS regions. App code in app/, manifests in deploy/. Kube contexts: prod-us-east-1, prod-eu-west-1. ASCII Diagram
-        [Dev Laptop] | task, kubectl v [GitHub Repo] [Registry] | | | manifests | images v v (next chapters wire Argo CD and Istio) Contexts: prod-us-east-1, prod-eu-west-1 Steps]]>
-      </description>
-      <source:markdown>Problem: Standardize local commands and name the moving parts so every step is repeatable.
-Assumptions/Constraints
-Cost note: We mock “multi region” by using two Kubernetes clusters, not two AWS regions. App code in app/, manifests in deploy/. Kube contexts: prod-us-east-1, prod-eu-west-1. ASCII Diagram
-\[Dev Laptop\] \| task, kubectl v \[GitHub Repo\] \[Registry\] \| \| \| manifests \| images v v (next chapters wire Argo CD and Istio) Contexts: prod-us-east-1, prod-eu-west-1 Steps</source:markdown>
-      <guid>cid://https://memo.mx/posts/multi-region-series-01-baseline/</guid>
-    </item>    <item>
-      <title>Multi Region Cloud Training Lab: Part 1 - Baseline Repo and Environments</title>
-      <link>https://memo.mx/posts/multi-region-series-part-1-baseline/</link>
-      <description>
-        <![CDATA[Problem: Standardize local commands and name the moving parts so every step is repeatable.
-        Assumptions/Constraints
-        Cost note: We mock “multi region” by using two Kubernetes clusters, not two AWS regions. App code in app/, manifests in deploy/. Kube contexts: prod-us-east-1, prod-eu-west-1. ASCII Diagram
-        [Dev Laptop] | task, kubectl v [GitHub Repo] [Registry] | | | manifests | images v v (next chapters wire Argo CD and Istio) Contexts: prod-us-east-1, prod-eu-west-1 Steps]]>
-      </description>
-      <source:markdown>Problem: Standardize local commands and name the moving parts so every step is repeatable.
-Assumptions/Constraints
-Cost note: We mock “multi region” by using two Kubernetes clusters, not two AWS regions. App code in app/, manifests in deploy/. Kube contexts: prod-us-east-1, prod-eu-west-1. ASCII Diagram
-\[Dev Laptop\] \| task, kubectl v \[GitHub Repo\] \[Registry\] \| \| \| manifests \| images v v (next chapters wire Argo CD and Istio) Contexts: prod-us-east-1, prod-eu-west-1 Steps</source:markdown>
-      <guid>cid://https://memo.mx/posts/multi-region-series-part-1-baseline/</guid>
-    </item>    <item>
-      <title>TOMORROW, October 18th — We Hit The Streets!</title>
-      <link>https://www.michaelmoore.com/p/no-kings-day-oct18</link>
-      <description>
-        <![CDATA[When people rise, kings fall.]]>
-      </description>
-      <source:markdown>When people rise, kings fall.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!0t5Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce386adc-00fc-431a-81b5-2fa76b6f86c7_1200x630.png" length="0" type="image/jpeg" />
-      <guid>cid://https://www.michaelmoore.com/p/no-kings-day-oct18</guid>
-    </item>    <item>
-      <title>Everything you need to know about Axl Rose’s graphic novel.</title>
-      <link>https://lithub.com/everything-you-need-to-know-about-axl-roses-graphic-novel/</link>
-      <description>
-        <![CDATA[What a time to be alive, for starters! Axl Rose, the notorious Guns N&#8217; Roses frontman, is turning his talents to the graphic novel. In a new collaboration with Sumerian Comics, a Tennessee publisher with Simon &#38; Schuster distribution, Mr.]]>
-      </description>
-      <source:markdown>What a time to be alive, for starters! Axl Rose, the notorious Guns N’ Roses frontman, is turning his talents to the graphic novel. In a new collaboration with Sumerian Comics, a Tennessee publisher with Simon &#38; Schuster distribution, Mr.</source:markdown>
-      <guid>cid://https://lithub.com/?p=261178</guid>
-    </item>    <item>
-      <title>La grazia (MONFIC 2025): moralistas, ¡favor de abstenerse!</title>
-      <link>https://www.palomitademaiz.net/resenas-la-grazia-monfic-2025/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-la-grazia-monfic-2025</link>
-      <description>
-        <![CDATA[<p>Dirección: Paolo Sorrentino. Guion: Paolo Sorrentino. Elenco: Toni Servillo, Anna Ferzetti, Massimo Venturiello, Milvia Marigliano, Linda Messerklinger. País: Italia. Más información de la película: https://www.imdb.com/title/tt34886821/ “Si no firmo, soy un torturador. Si firmo, soy un asesino.” Presidente Mariano De Santis sobre la Ley de eutanasia (La grazia, 2025). En el derecho penal, se conoce como [&#8230;]</p>
-        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-la-grazia-monfic-2025/">La grazia (MONFIC 2025): moralistas, ¡favor de abstenerse!</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
-      </description>
-      <source:markdown>Dirección: Paolo Sorrentino. Guion: Paolo Sorrentino. Elenco: Toni Servillo, Anna Ferzetti, Massimo Venturiello, Milvia Marigliano, Linda Messerklinger. País: Italia. Más información de la película: https://www.imdb.com/title/tt34886821/ “Si no firmo, soy un torturador. Si firmo, soy un asesino.” Presidente Mariano De Santis sobre la Ley de eutanasia (La grazia, 2025). En el derecho penal, se conoce como \[…\]
-
-La entrada [La grazia (MONFIC 2025): moralistas, ¡favor de abstenerse!](https://www.palomitademaiz.net/resenas-la-grazia-monfic-2025/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
-      <guid>cid://https://www.palomitademaiz.net/?p=25655</guid>
-    </item>    <item>
-      <title>Multi region cloud training</title>
-      <link>https://memo.mx/posts/multi-region-learning/</link>
-      <description>
-        <![CDATA[Train teams on multi region, high throughput, chaos tested GitOps without burning money.
-        Assumptions/Constraints
-        Money note: We mock “multi region” with two Kubernetes clusters, not two AWS regions. You have two kube contexts reachable from your workstation. You control a container registry and a GitHub repo. Optional AWS: use IRSA or EKS Pod Identity in Lab 4. Labs
-        Part 1 - Baseline Repo and Environments Sets shared variables and task wrappers.]]>
-      </description>
-      <source:markdown>Train teams on multi region, high throughput, chaos tested GitOps without burning money.
-Assumptions/Constraints
-Money note: We mock “multi region” with two Kubernetes clusters, not two AWS regions. You have two kube contexts reachable from your workstation. You control a container registry and a GitHub repo. Optional AWS: use IRSA or EKS Pod Identity in Lab 4. Labs
-Part 1 - Baseline Repo and Environments Sets shared variables and task wrappers.</source:markdown>
-      <guid>cid://https://memo.mx/posts/multi-region-learning/</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/10/17.html#a155050</link>
-      <description>
-        <![CDATA[Wouldn't it be great if there were a list of WordPress users who have turned on their ActivityPub plugin, so we know who to subscribe to on our favorite ActivityPub service.]]>
-      </description>
-      <source:markdown>Wouldn&#39;t it be great if there were a list of WordPress users who have turned on their ActivityPub plugin, so we know who to subscribe to on our favorite ActivityPub service.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/17.html#a155050</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/10/17.html#a154806</link>
-      <description>
-        <![CDATA[Evan Prodromou <a href="https://mastodon.social/@obenland/115390233060492827">explains</a> all that's happening in the WordPressOSphere in the realm of ActivityPub.]]>
-      </description>
-      <source:markdown>Evan Prodromou [explains](https://mastodon.social/@obenland/115390233060492827) all that&#39;s happening in the WordPressOSphere in the realm of ActivityPub.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/17.html#a154806</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115390249473708356</link>
-      <description>
-        <![CDATA[<p>I didn’t want to get into the nagging for a review business.   But seems necessary on the AppStore.</p>]]>
-      </description>
-      <source:markdown>I didn’t want to get into the nagging for a review business. But seems necessary on the AppStore.</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115390249473708356</guid>
-    </item>    <item>
-      <title>Behind the Blog: Engaging the Public</title>
-      <link>https://www.404media.co/behind-the-blog-engaging-the-public/</link>
-      <description>
-        <![CDATA[This week, we discuss crowdsourced resistance and a big government data dump.]]>
-      </description>
-      <source:markdown>This week, we discuss crowdsourced resistance and a big government data dump.</source:markdown>
-      <guid>cid://68f243d98c5580000138c1fa</guid>
-    </item>    <item>
-      <link>https://www.doomsdayscenario.co/p/why-i-have-hope-for-america</link>
-      <description>
-        <![CDATA[<p>Three Reasons I Still Have Hope for America.</p>]]>
-      </description>
-      <source:markdown>Three Reasons I Still Have Hope for America.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/17/1555/</guid>
-    </item>    <item>
-      <title>Mike Johnson Accuses No Kings Protesters of Blatantly Exercising First Amendment Rights</title>
-      <link>https://www.borowitzreport.com/p/mike-johnson-accuses-no-kings-protesters</link>
-      <description>
-        <![CDATA[The Speaker alleged that "far-left lunatics and Antifa members" were conspiring to take the First Amendment literally.]]>
-      </description>
-      <source:markdown>The Speaker alleged that &#34;far-left lunatics and Antifa members&#34; were conspiring to take the First Amendment literally.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!sfGA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63608db6-ca8f-4ceb-b1a3-1dfaa35bbb13_1024x683.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/mike-johnson-accuses-no-kings-protesters</guid>
-    </item>    <item>
-      <link>https://www.doomsdayscenario.co/p/there-is-no-budget-deal-to-be-made</link>
-      <description>
-        <![CDATA[<p>There is no budget "deal" to be made.</p>]]>
-      </description>
-      <source:markdown>There is no budget &#34;deal&#34; to be made.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/17/1553/</guid>
-    </item>    <item>
-      <title>Lâcher prise [en]</title>
-      <link>https://climbtothestars.org/archives/2025/10/17/lacher-prise/</link>
-      <description>
-        <![CDATA[[en] J&#8217;y bossais déjà, mais depuis mon accident, je prends des cours avancés de lâcher-prise. Avoir du temps mais ne pas avoir d&#8217;énergie, donc renoncer. Dire non à des propositions. Dire oui en sachant que j&#8217;aurais dû dire non, faire quand même et payer derrière, me promettre que la prochaine fois je dis non. Non &#8230; <a href="https://climbtothestars.org/archives/2025/10/17/lacher-prise/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Lâcher prise <span class='bb-lang'>[en]</span></span>"</span></a>]]>
-      </description>
-      <source:markdown>\[en\] J’y bossais déjà, mais depuis mon accident, je prends des cours avancés de lâcher-prise. Avoir du temps mais ne pas avoir d’énergie, donc renoncer. Dire non à des propositions. Dire oui en sachant que j’aurais dû dire non, faire quand même et payer derrière, me promettre que la prochaine fois je dis non. Non … [Continue reading &#34;Lâcher prise \[en\]&#34;](https://climbtothestars.org/archives/2025/10/17/lacher-prise/)</source:markdown>
-      <guid>cid://https://climbtothestars.org/?p=10193</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/10/17.html#a140609</link>
-      <description>
-        <![CDATA[I'm back at <a href="https://canada.wordcamp.org/2025/">WordCamp</a> in a big room waiting for <a href="https://en.wikipedia.org/wiki/Matt_Mullenweg">Matt Mullenweg</a> to answer questions for the people here. Yesterday's presentation went really well, lots of smart people really interested, fantastic discussion after. A very nice web culture. I went with three slides to get started, and then talked, demo'd, answered questions, and listened to ideas. Told a few jokes. Got a few laughs. It got the job done, help feed the <a href="https://en.wikipedia.org/wiki/Word-of-mouth_marketing">word of mouth</a> on <a href="https://wordland.social/">WordLand</a>.]]>
-      </description>
-      <source:markdown>I&#39;m back at [WordCamp](https://canada.wordcamp.org/2025/) in a big room waiting for [Matt Mullenweg](https://en.wikipedia.org/wiki/Matt_Mullenweg) to answer questions for the people here. Yesterday&#39;s presentation went really well, lots of smart people really interested, fantastic discussion after. A very nice web culture. I went with three slides to get started, and then talked, demo&#39;d, answered questions, and listened to ideas. Told a few jokes. Got a few laughs. It got the job done, help feed the [word of mouth](https://en.wikipedia.org/wiki/Word-of-mouth_marketing) on [WordLand](https://wordland.social/).</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/17.html#a140609</guid>
-    </item>    <item>
-      <title>Matthew Belloni Interviews Eddy Cue on ‘The Town’</title>
-      <link>https://www.theringer.com/podcasts/the-town-with-matthew-belloni/2025/10/14/apples-true-intentions-in-hollywood-with-top-exec-eddy-cue</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42275</guid>
-    </item>    <item>
-      <title>I love my wife, my wife is dead</title>
-      <link>https://news.lettersofnote.com/p/i-love-my-wife-my-wife-is-dead</link>
-      <description>
-        <![CDATA[A devastating letter from Richard Feynman &#8211; with a reading by Toby Jones]]>
-      </description>
-      <source:markdown>A devastating letter from Richard Feynman – with a reading by Toby Jones</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!oOTt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d3cc933-c16d-4efd-9a03-814c7d87d97b_1024x702.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://news.lettersofnote.com/p/i-love-my-wife-my-wife-is-dead</guid>
-    </item>    <item>
-      <title>Print in two-and-a-bit dimensions for build-your-own kits</title>
-      <link>https://www.raspberrypi.com/news/print-in-two-and-a-bit-dimensions-for-build-your-own-kits/</link>
-      <description>
-        <![CDATA[<p>Some 3D printing ideas for those of us nostalgic for Airfix kits.</p>
-        <p>The post <a href="https://www.raspberrypi.com/news/print-in-two-and-a-bit-dimensions-for-build-your-own-kits/">Print in two-and-a-bit dimensions for build-your-own kits</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
-      </description>
-      <source:markdown>Some 3D printing ideas for those of us nostalgic for Airfix kits.
-
-The post [Print in two-and-a-bit dimensions for build-your-own kits](https://www.raspberrypi.com/news/print-in-two-and-a-bit-dimensions-for-build-your-own-kits/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
-      <guid>cid://https://www.raspberrypi.com/?p=130919</guid>
-    </item>    <item>
-      <title>Creator of Infamous AI Painting Tells Court He&#39;s a Real Artist</title>
-      <link>https://www.404media.co/creator-of-infamous-ai-painting-tells-court-hes-a-real-artist/</link>
-      <description>
-        <![CDATA["What if I could create Théâtre D’opéra Spatial as if it were physically created by hand? Not actually, of course."]]>
-      </description>
-      <source:markdown>&#34;What if I could create Théâtre D’opéra Spatial as if it were physically created by hand? Not actually, of course.&#34;</source:markdown>
-      <guid>cid://68f247718c5580000138c52f</guid>
-    </item>    <item>
-      <title>Apple Is the Exclusive New Broadcast Partner for Formula 1 in the U.S.</title>
-      <link>https://www.apple.com/newsroom/2025/10/apple-is-the-exclusive-new-broadcast-partner-for-formula-1-in-the-us/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42274</guid>
-    </item>    <item>
-      <title>Chicago’s Squirrel Hole</title>
-      <link>https://onefoottsunami.com/2025/10/17/chicagos-squirrel-hole/</link>
-      <guid>cid://https://onefoottsunami.com/?p=29303</guid>
-    </item>    <item>
-      <link>https://missouriindependent.com/2025/10/17/what-is-an-american-are-they-christian-are-they-white/</link>
-      <description>
-        <![CDATA[<p>What is an American?  Are they Christian? Are they white?</p>]]>
-      </description>
-      <source:markdown>What is an American?  Are they Christian? Are they white?</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/17/1551/</guid>
-    </item>    <item>
-      <title>A Surprising Amount of Satellite Traffic Is Unencrypted</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/a-surprising-amount-of-satellite-traffic-is-unencrypted.html</link>
-      <description>
-        <![CDATA[<p>Here&#8217;s the <a href="https://satcom.sysnet.ucsd.edu/">summary</a>:</p>
-        <blockquote><p>We pointed a commercial-off-the-shelf satellite dish at the sky and carried out the most comprehensive public study to date of geostationary satellite communication. A shockingly large amount of sensitive traffic is being broadcast unencrypted, including critical infrastructure, internal corporate and government communications, private citizens&#8217; voice calls and SMS, and consumer Internet traffic from in-flight wifi and mobile networks. This data can be passively observed by anyone with a few hundred dollars of consumer-grade hardware. There are thousands of geostationary satellite transponders globally, and data from a single transponder may be visible from an area as large as 40% of the surface of the earth...</p></blockquote>]]>
-      </description>
-      <source:markdown>Here’s the [summary](https://satcom.sysnet.ucsd.edu/):
-
-&#62; We pointed a commercial-off-the-shelf satellite dish at the sky and carried out the most comprehensive public study to date of geostationary satellite communication. A shockingly large amount of sensitive traffic is being broadcast unencrypted, including critical infrastructure, internal corporate and government communications, private citizens’ voice calls and SMS, and consumer Internet traffic from in-flight wifi and mobile networks. This data can be passively observed by anyone with a few hundred dollars of consumer-grade hardware. There are thousands of geostationary satellite transponders globally, and data from a single transponder may be visible from an area as large as 40% of the surface of the earth...</source:markdown>
-      <guid>cid://https://www.schneier.com/?p=71022</guid>
-    </item>    <item>
-      <title>Why Philip Pullman’s Books Are More Important Than Ever in Speaking Truth to Power</title>
-      <link>https://lithub.com/why-philip-pullmans-books-are-more-important-than-ever-in-speaking-truth-to-power/</link>
-      <description>
-        <![CDATA[When we first encounter Lyra Silvertongue, neé Belacqua, she is hidden in a wardrobe and listening intently to her uncle, Lord Asriel, give a presentation to Oxford scholars on his findings about Dust. Though she is only eleven years old,]]>
-      </description>
-      <source:markdown>When we first encounter Lyra Silvertongue, neé Belacqua, she is hidden in a wardrobe and listening intently to her uncle, Lord Asriel, give a presentation to Oxford scholars on his findings about Dust. Though she is only eleven years old,</source:markdown>
-      <guid>cid://https://lithub.com/?p=261271</guid>
-    </item>    <item>
-      <title>“How Living Are His Portraits of the Dead.” Toni Morrison on the Photography of James Van Der Zee</title>
-      <link>https://lithub.com/how-living-are-his-portraits-of-the-dead-toni-morrison-on-the-photography-of-james-van-der-zee/</link>
-      <description>
-        <![CDATA[Below is Toni Morrison&#8217;s introduction to The Harlem Book of the Dead by James Van Der Zee, Owen Dodson, and Camille Billops It is fashionable these days to hear among photography lovers the cry, &#8220;Oh, those early photographers really knew how to]]>
-      </description>
-      <source:markdown>Below is Toni Morrison’s introduction to The Harlem Book of the Dead by James Van Der Zee, Owen Dodson, and Camille Billops It is fashionable these days to hear among photography lovers the cry, “Oh, those early photographers really knew how to</source:markdown>
-      <guid>cid://https://lithub.com/?p=260495</guid>
-    </item>    <item>
-      <title>America First? No, Billionaire Buddies First</title>
-      <link>https://paulkrugman.substack.com/p/america-first-no-billionaire-buddies</link>
-      <description>
-        <![CDATA[Argentina: A very Trumpy debacle]]>
-      </description>
-      <source:markdown>Argentina: A very Trumpy debacle</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!X6iW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feffda48f-8b81-4de8-908c-6331e43384d2_1286x752.png" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/america-first-no-billionaire-buddies</guid>
-    </item>    <item>
-      <title>Lit Hub Daily: October 17, 2025</title>
-      <link>https://lithub.com/lit-hub-daily-october-17-2025/</link>
-      <description>
-        <![CDATA[Aisling Walsh on the 30-year legacy of His Dark Materials and why Philip Pullman understands that “true evil is never about the distorted cravings of a single person.” &#124; Lit Hub Criticism Toni Morrison explores the intimacy and humanity in]]>
-      </description>
-      <source:markdown>Aisling Walsh on the 30-year legacy of His Dark Materials and why Philip Pullman understands that “true evil is never about the distorted cravings of a single person.” \| Lit Hub Criticism Toni Morrison explores the intimacy and humanity in</source:markdown>
-      <guid>cid://https://lithub.com/?p=261272</guid>
-    </item>    <item>
-      <title>Real Photos That Look Fake</title>
-      <link>https://kottke.org/25/10/real-photos-that-look-fake</link>
-      <guid>cid://tag:kottke.org,2025://5.47721</guid>
-    </item>    <item>
-      <title>On the Art (and Artifice) of the Miniature</title>
-      <link>https://lithub.com/on-the-art-and-artifice-of-the-miniature/</link>
-      <description>
-        <![CDATA[The Kitchen It starts here: in the kitchen. Not a full-size kitchen, of course, but rather a miniature replica of a kitchen, a tiny kitchen with a tiny table where two tiny dolls sit, blank-eyed and smiling and ready to]]>
-      </description>
-      <source:markdown>The Kitchen It starts here: in the kitchen. Not a full-size kitchen, of course, but rather a miniature replica of a kitchen, a tiny kitchen with a tiny table where two tiny dolls sit, blank-eyed and smiling and ready to</source:markdown>
-      <guid>cid://https://lithub.com/?p=261081</guid>
-    </item>    <item>
-      <title>Sue Monk Kidd on Finding a Flow State in Writing</title>
-      <link>https://lithub.com/sue-monk-kidd-on-finding-a-flow-state-in-writing/</link>
-      <description>
-        <![CDATA[This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. The creative act of writing has brought meaning into my life in myriad ways, but it made itself known initially in the expe­rience of flow. I’m referring to the sense]]>
-      </description>
-      <source:markdown>This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. The creative act of writing has brought meaning into my life in myriad ways, but it made itself known initially in the expe­rience of flow. I’m referring to the sense</source:markdown>
-      <guid>cid://https://lithub.com/?p=261233</guid>
-    </item>    <item>
-      <title>A Palestinian Daughter’s Search for Connection with Her Father, Her Past, and Her Homeland</title>
-      <link>https://lithub.com/a-palestinian-daughters-search-for-connection-with-her-father-her-past-and-her-homeland/</link>
-      <description>
-        <![CDATA[Beirut, 2001 I am twenty-four years old when they amputate Baba’s foot. He will drag it halfway around the world for one more year, but for now he has no choice but to stop and convalesce, with me by his]]>
-      </description>
-      <source:markdown>Beirut, 2001 I am twenty-four years old when they amputate Baba’s foot. He will drag it halfway around the world for one more year, but for now he has no choice but to stop and convalesce, with me by his</source:markdown>
-      <guid>cid://https://lithub.com/?p=260931</guid>
-    </item>    <item>
-      <title>A Peek into Stephen King’s Archive and Behind the Best American Curtain on The Lit Hub Podcast</title>
-      <link>https://lithub.com/a-peek-into-stephen-kings-archive-and-behind-the-best-american-curtain-on-the-lit-hub-podcast/</link>
-      <description>
-        <![CDATA[A weekly behind-the-scenes dive into everything interesting, dynamic, strange, and wonderful happening in literary culture—featuring Lit Hub staff, columnists, and special guests! Hosted by Drew Broussard. Would spooky season be complete with some Stephen King? Constant reader, I submit to]]>
-      </description>
-      <source:markdown>A weekly behind-the-scenes dive into everything interesting, dynamic, strange, and wonderful happening in literary culture—featuring Lit Hub staff, columnists, and special guests! Hosted by Drew Broussard. Would spooky season be complete with some Stephen King? Constant reader, I submit to</source:markdown>
-      <guid>cid://https://lithub.com/?p=261303</guid>
-    </item>    <item>
-      <title>Singing For Freedom: How Those Fleeing Slavery Found New Lives in the North</title>
-      <link>https://lithub.com/singing-for-freedom-how-those-fleeing-slavery-found-new-lives-in-the-north/</link>
-      <description>
-        <![CDATA[The strangeness of the experience of running away, the abrupt departure of enslavement, shocked the consciousness of those who experienced it, creating a kind of daze that animated those who built new homes around the bare chimneys of Hampton, Virginia. The whips were]]>
-      </description>
-      <source:markdown>The strangeness of the experience of running away, the abrupt departure of enslavement, shocked the consciousness of those who experienced it, creating a kind of daze that animated those who built new homes around the bare chimneys of Hampton, Virginia. The whips were</source:markdown>
-      <guid>cid://https://lithub.com/?p=260911</guid>
-    </item>    <item>
-      <title>What Should You Read Next? Here Are the Best Reviewed Books of the Week</title>
-      <link>https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-10-17-2025/</link>
-      <description>
-        <![CDATA[Megha Majumdar’s A Guardian and a Thief, Susan Orlean’s Joyride, and Brandon Taylor’s Minor Black Figures all feature among the best reviewed books of the week Brought to you by Book Marks, Lit Hub’s home for book reviews. * Fiction 1.]]>
-      </description>
-      <source:markdown>Megha Majumdar’s A Guardian and a Thief, Susan Orlean’s Joyride, and Brandon Taylor’s Minor Black Figures all feature among the best reviewed books of the week Brought to you by Book Marks, Lit Hub’s home for book reviews. \* Fiction 1.</source:markdown>
-      <guid>cid://https://lithub.com/?p=261279</guid>
-    </item>    <item>
-      <title>Looking Back on Our Cringe-Worthy Selves: A Reading List for Teenage Weirdos</title>
-      <link>https://lithub.com/looking-back-on-our-cringe-worthy-selves-a-reading-list-for-teenage-weirdos/</link>
-      <description>
-        <![CDATA[As a teenager, I desperately searched for mirrors in the media. I clung onto melancholic Belle &#38; Sebastian songs and J.D. Salinger characters. I always felt like an outsider, writing my secrets on Tumblr, just wanting to be seen and]]>
-      </description>
-      <source:markdown>As a teenager, I desperately searched for mirrors in the media. I clung onto melancholic Belle &#38; Sebastian songs and J.D. Salinger characters. I always felt like an outsider, writing my secrets on Tumblr, just wanting to be seen and</source:markdown>
-      <guid>cid://https://lithub.com/?p=260836</guid>
-    </item>    <item>
-      <title>The Making of a Perfect Martini</title>
-      <link>https://kottke.org/25/10/the-making-of-a-perfect-martini</link>
-      <guid>cid://tag:kottke.org,2025://5.47722</guid>
-    </item>    <item>
-      <title>The Power Map of the Trump Regime</title>
-      <link>https://robertreich.substack.com/p/the-power-map-of-the-trump-regime</link>
-      <description>
-        <![CDATA[Who really works for whom?]]>
-      </description>
-      <source:markdown>Who really works for whom?</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!CEY0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd1a243b-2a66-43fa-88e5-e8ca4c1b6b79_3357x3500.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/the-power-map-of-the-trump-regime</guid>
-    </item>    <item>
-      <title>October 16, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/october-16-2025</link>
-      <description>
-        <![CDATA[Yesterday the Trump administration announced it would pay furloughed troops by using funds Congress appropriated for research, development, testing, and evaluation (RDTE) for fiscal year 2026.]]>
-      </description>
-      <source:markdown>Yesterday the Trump administration announced it would pay furloughed troops by using funds Congress appropriated for research, development, testing, and evaluation (RDTE) for fiscal year 2026.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/october-16-2025</guid>
-    </item>    <item>
-      <title>Go Computer Now! – The Story of Sphere Computers. &#38;#8220;If things had...</title>
-      <link>https://kottke.org/25/10/0047724-go-computer-now-the</link>
-      <guid>cid://tag:kottke.org,2025://13.47724</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m3ekffdkfs2y</link>
-      <description>
-        <![CDATA[👀
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <source:markdown>👀
-
-\[contains quote post or other embedded content\]</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m3ekffdkfs2y</guid>
-    </item>    <item>
-      <title>Office space</title>
-      <link>https://inkdroid.org/2025/10/17/office-space/</link>
-      <description>
-        <![CDATA[<figure>
-        <a href="https://www.flickr.com/photos/inkdroid/54859895742/">
-        <img class="img-fluid" src="https://live.staticflickr.com/65535/54859895742_217decf1ba_c.jpg">
-        </a>
-        <figcaption>
-        Office space
-        </figcaption>
-        </figure>]]>
-      </description>
-      <source:markdown>[![](https://live.staticflickr.com/65535/54859895742_217decf1ba_c.jpg)](https://www.flickr.com/photos/inkdroid/54859895742/)
-Office space</source:markdown>
-      <guid>cid://https://inkdroid.org/2025/10/17/office-space/</guid>
-    </item>    <item>
-      <link>https://this.how/standards/</link>
-      <description>
-        <![CDATA[<p>Rules for standards-makers.</p>]]>
-      </description>
-      <source:markdown>Rules for standards-makers.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/16/1549/</guid>
-    </item>    <item>
-      <title>Hackers Dox Hundreds of DHS, ICE, FBI, and DOJ Officials</title>
-      <link>https://www.404media.co/hackers-dox-hundreds-of-dhs-ice-fbi-and-doj-officials/</link>
-      <description>
-        <![CDATA[Scattered LAPSUS$ Hunters—one of the latest amalgamations of typically young, reckless, and English-speaking hackers—posted the apparent phone numbers and addresses of hundreds of government officials, including nearly 700 from DHS.]]>
-      </description>
-      <source:markdown>Scattered LAPSUS$ Hunters—one of the latest amalgamations of typically young, reckless, and English-speaking hackers—posted the apparent phone numbers and addresses of hundreds of government officials, including nearly 700 from DHS.</source:markdown>
-      <guid>cid://68f1a9e58c558000013896d9</guid>
-    </item>    <item>
-      <title>Luis Mendo is self-publishing a book about his life as a writer/artist...</title>
-      <link>https://kottke.org/25/10/0047723-luis-mendo-is-self-publis</link>
-      <guid>cid://tag:kottke.org,2025://13.47723</guid>
-    </item>    <item>
-      <title>Wikipedia Says AI Is Causing a Dangerous Decline in Human Visitors</title>
-      <link>https://www.404media.co/wikipedia-says-ai-is-causing-a-dangerous-decline-in-human-visitors/</link>
-      <description>
-        <![CDATA[“With fewer visits to Wikipedia, fewer volunteers may grow and enrich the content, and fewer individual donors may support this work.”]]>
-      </description>
-      <source:markdown>“With fewer visits to Wikipedia, fewer volunteers may grow and enrich the content, and fewer individual donors may support this work.”</source:markdown>
-      <guid>cid://68f181258c55800001388fe2</guid>
-    </item>    <item>
-      <title>My first adventure of the day is going to the Shunkaen Bonsai...</title>
-      <link>https://kottke.org/25/10/0047720-my-first-adventure-of-the</link>
-      <guid>cid://tag:kottke.org,2025://13.47720</guid>
-    </item>    <item>
-      <title>The Majority AI View</title>
-      <link>https://anildash.com/2025/10/17/the-majority-ai-view/</link>
-      <guid>cid://https://anildash.com/2025/10/17/the-majority-ai-view/</guid>
-    </item>    <item>
-      <title>Public postmortem: duplicate sends</title>
-      <link>https://buttondown.com/blog/incident-0021</link>
-      <description>
-        <![CDATA[Our public postmortem for Incident #0021.]]>
-      </description>
-      <source:markdown>Our public postmortem for Incident #0021.</source:markdown>
     </item>
   </channel>
 </rss>

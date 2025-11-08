@@ -4,7 +4,7 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>07 Nov 25 14:10 -0800</lastBuildDate>
+    <lastBuildDate>07 Nov 25 19:16 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -693,30 +693,6 @@ Want to know why nightly builds of BASIC gained a new [SYS-as-a-function keyword
       </description>
       <source:markdown>The RISC OS London Show is next Saturday and there will be lots to see</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2241.html</guid>
-    </item>    <item>
-      <title>A Looking Glass Half Empty, Part 2: A Series of Unfortunate Events</title>
-      <link>https://www.filfre.net/2025/10/a-looking-glass-half-empty-part-2-a-series-of-unfortunate-events/</link>
-      <description>
-        <![CDATA[This article tells part of the story of Looking Glass Studios. Coming out of 1998, the folks at Looking Glass Studios believed they had pretty good reason to feel optimistic about their future. With Thief, they had delivered not just their first profitable original game since 1995&#8217;s Flight Unlimited but their biggest single commercial success [&#8230;]]]>
-      </description>
-      <source:markdown>This article tells part of the story of Looking Glass Studios. Coming out of 1998, the folks at Looking Glass Studios believed they had pretty good reason to feel optimistic about their future. With Thief, they had delivered not just their first profitable original game since 1995’s Flight Unlimited but their biggest single commercial success \[…\]</source:markdown>
-      <guid>cid://https://www.filfre.net/?p=6515</guid>
-    </item>    <item>
-      <title>2K Symbolic Assembler for the KIM-1</title>
-      <link>http://retro.hansotten.nl/2ksa-symbolic-assembler-for-the-kim-1/</link>
-      <description>
-        <![CDATA[The 2K Symbolic Assembler, by Robert Ford Denison. An assembler and editor in 2K! This small program allows to assemble a program up to 1K on a KIM-1 system with only 4K, including 2K for the assembler. One can enter program in the built-in line editor and assemble to memory. Published as a small book [&#8230;]]]>
-      </description>
-      <source:markdown>The 2K Symbolic Assembler, by Robert Ford Denison. An assembler and editor in 2K! This small program allows to assemble a program up to 1K on a KIM-1 system with only 4K, including 2K for the assembler. One can enter program in the built-in line editor and assemble to memory. Published as a small book \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=19058</guid>
-    </item>    <item>
-      <title>Rougol October 2025 meeting on monday - RISCOSbits Preshow teaser</title>
-      <link>http://www.iconbar.com/comments/rss/news2237.html</link>
-      <description>
-        <![CDATA[The October 2025 Rougol meeting is on Monday and is billed as a pre-show teaser from RISCOSbits]]>
-      </description>
-      <source:markdown>The October 2025 Rougol meeting is on Monday and is billed as a pre-show teaser from RISCOSbits</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2237.html</guid>
     </item>
   </channel>
 </rss>

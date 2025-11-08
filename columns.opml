@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>07 Nov 25 14:10 -0800</dateCreated>
+        <dateCreated>07 Nov 25 19:15 -0800</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -203,6 +203,7 @@
         <outline text="Nicolas Hoizey blog" type="atom" xmlUrl="https://nicolas-hoizey.com/feeds/articles.xml" htmlUrl="https://nicolas-hoizey.com/feeds/articles.xml,https://nicolas-hoizey.com/articles/" url="https://nicolas-hoizey.com/feeds/articles.xml"></outline>
         <outline text="Nora Tindall&#39;s blog" type="rss" xmlUrl="https://nora.codes/index.xml" htmlUrl="https://nora.codes/,https://nora.codes/index.xml" description="Recent content in Leonora Tindall on Nora Codes" url="https://nora.codes/index.xml"></outline>
         <outline text="Notes by Peter Baumgartner" type="rss" xmlUrl="https://notes.peter-baumgartner.net/index.xml" htmlUrl="https://notes.peter-baumgartner.net/,https://notes.peter-baumgartner.net/index.xml" description="Thought Splinters" url="https://notes.peter-baumgartner.net/index.xml"></outline>
+        <outline text="Notes from the circus" type="rss" xmlUrl="https://www.notesfromthecircus.com/feed" htmlUrl="https://www.notesfromthecircus.com,https://www.notesfromthecircus.com/feed" description="Notes From The Circus is a project to bring my lifelong passion for philosophy and liberal values to current events and understanding of the world. Big problems need big ideas. I aim to be a welcoming place for the intellectually homeless. " url="https://www.notesfromthecircus.com/feed"></outline>
         <outline text="O&#39;Reilly Radar" type="rss" xmlUrl="https://www.oreilly.com/radar/feed/" htmlUrl="https://www.oreilly.com/radar,https://www.oreilly.com/radar/feed/" description="Now, next, and beyond: Tracking need-to-know trends at the intersection of business and technology" url="https://www.oreilly.com/radar/feed/"></outline>
         <outline text="Oberon A2 repository" type="atom" xmlUrl="https://gitlab.inf.ethz.ch/felixf/oberon.atom" htmlUrl="https://gitlab.inf.ethz.ch/felixf/oberon.atom,https://gitlab.inf.ethz.ch/felixf/oberon" url="https://gitlab.inf.ethz.ch/felixf/oberon.atom"></outline>
         <outline text="Ocelot SQL GUI blog" type="rss" xmlUrl="https://ocelot.ca/blog/feed/" htmlUrl="https://ocelot.ca/blog,https://ocelot.ca/blog/feed/" description="Musings On MySQL / MariaDB Features and SQL / NoSQL Open Source DBMSs" url="https://ocelot.ca/blog/feed/"></outline>

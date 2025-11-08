@@ -4,7 +4,7 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>07 Nov 25 14:10 -0800</lastBuildDate>
+    <lastBuildDate>07 Nov 25 19:15 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -966,37 +966,6 @@ The post [Guest Post — From Language Barrier to AI Bias: The Non-Native Speake
       <source:markdown>A physician turned detective uses his psychic abilities to solve the strange cases presented to him.</source:markdown>
       <enclosure url="https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories/downloads/algernon-blackwood_john-silence-stories.epub?source=feed" length="794561" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories</guid>
-    </item>    <item>
-      <title>The House at Pooh Corner, by A. A. Milne</title>
-      <link>https://standardebooks.org/ebooks/a-a-milne/the-house-at-pooh-corner</link>
-      <description>
-        <![CDATA[A stuffed bear goes on adventures in the woods with his friends.]]>
-      </description>
-      <source:markdown>A stuffed bear goes on adventures in the woods with his friends.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/a-a-milne/the-house-at-pooh-corner/downloads/a-a-milne_the-house-at-pooh-corner.epub?source=feed" length="469060" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/a-a-milne/the-house-at-pooh-corner</guid>
-    </item>    <item>
-      <title>A New Cohort Project Focused on Centers of Teaching and Learning</title>
-      <link>https://sr.ithaka.org/blog/a-new-cohort-project-focused-on-centers-of-teaching-and-learning/</link>
-      <description>
-        <![CDATA[<p>While the rapid evolution of generative AI is transforming teaching and learning in higher education, many instructors face this shift without clear frameworks or shared strategies, placing pressure on centers for teaching and learning to develop new programming. This challenge is at the heart of a new Ithaka S+R cohort project in collaboration with the [&#8230;]</p>
-        <p>The post <a href="https://sr.ithaka.org/blog/a-new-cohort-project-focused-on-centers-of-teaching-and-learning/">A New Cohort Project Focused on Centers of Teaching and Learning</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <source:markdown>While the rapid evolution of generative AI is transforming teaching and learning in higher education, many instructors face this shift without clear frameworks or shared strategies, placing pressure on centers for teaching and learning to develop new programming. This challenge is at the heart of a new Ithaka S+R cohort project in collaboration with the \[…\]
-
-The post [A New Cohort Project Focused on Centers of Teaching and Learning](https://sr.ithaka.org/blog/a-new-cohort-project-focused-on-centers-of-teaching-and-learning/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=323833</guid>
-    </item>    <item>
-      <title>How Printing Was Revolutionized By Cake. Sort Of.</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/10/17/how-printing-was-revolutionized-by-cake-sort-of/</link>
-      <description>
-        <![CDATA[<p>Discover the flong: a papier-mâché mold that revolutionized 19th-century printing, blending ingenious tech with a dash of pastry-inspired charm.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/10/17/how-printing-was-revolutionized-by-cake-sort-of/">How Printing Was Revolutionized By Cake. Sort Of.</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Discover the flong: a papier-mâché mold that revolutionized 19th-century printing, blending ingenious tech with a dash of pastry-inspired charm.
-
-The post [How Printing Was Revolutionized By Cake. Sort Of.](https://scholarlykitchen.sspnet.org/2025/10/17/how-printing-was-revolutionized-by-cake-sort-of/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61004</guid>
     </item>
   </channel>
 </rss>

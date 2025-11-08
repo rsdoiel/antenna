@@ -324,3 +324,4 @@ description: Blogs, columns and snapshots from around the web.
 - [Branco Milanovic, Global Inequality and More 3.0](https://branko2f7.substack.com/feed)
 - [W. Kamau Bell blog](http://www.wkamaubell.com/blog?format=rss)
 - [Neoma Magazine](https://www.noemamag.com/feed/)
+- [Notes from the circus](https://www.notesfromthecircus.com/feed)
