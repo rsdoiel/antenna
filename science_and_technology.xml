@@ -4,10 +4,147 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>07 Nov 25 19:16 -0800</lastBuildDate>
+    <lastBuildDate>08 Nov 25 06:12 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Frontend or Backend: Where Full-Stack Devs Spend Their Time</title>
+      <link>https://thenewstack.io/frontend-or-backend-where-full-stack-devs-spend-their-time/</link>
+      <description>
+        <![CDATA[<img width="1024" height="577" src="https://cdn.thenewstack.io/media/2024/04/d8b458d6-dev_news_img-2-2-1024x577.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Dev News logo" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2024/04/d8b458d6-dev_news_img-2-2.png" /><p>Thinking about becoming a full-stack developer? Be forewarned: Full-stack developers are twice as likely to say that a majority of</p>
+        <p>The post <a href="https://thenewstack.io/frontend-or-backend-where-full-stack-devs-spend-their-time/">Frontend or Backend: Where Full-Stack Devs Spend Their Time</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Dev News logo](https://cdn.thenewstack.io/media/2024/04/d8b458d6-dev_news_img-2-2-1024x577.png)
+
+Thinking about becoming a full-stack developer? Be forewarned: Full-stack developers are twice as likely to say that a majority of
+
+The post [Frontend or Backend: Where Full-Stack Devs Spend Their Time](https://thenewstack.io/frontend-or-backend-where-full-stack-devs-spend-their-time/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805861</guid>
+    </item>    <item>
+      <title>heise+ | Ikea-Hack: Vom Servier- zum Werkstattwagen</title>
+      <link>https://www.heise.de/ratgeber/Ikea-Hack-Vom-Servier-zum-Werkstattwagen-10671734.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Am Beispiel des Servierwagens Bror von Ikea zeigen wir, wie sich ein Wohnaccessoire schnell in eine mobile Arbeitsfläche für die Werkstatt verwandeln lässt.]]>
+      </description>
+      <source:markdown>Am Beispiel des Servierwagens Bror von Ikea zeigen wir, wie sich ein Wohnaccessoire schnell in eine mobile Arbeitsfläche für die Werkstatt verwandeln lässt.</source:markdown>
+      <guid>cid://http://heise.de/-10671734</guid>
+    </item>    <item>
+      <title>Auch Volkswagen bekommt wieder Nexperia-Chips aus China</title>
+      <link>https://www.heise.de/news/Nexperia-liefert-wieder-aus-China-auch-an-Volkswagen-11071426.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Durch Ausnahmegenehmigungen werden wieder Nexperia-Chips exportiert. Eine umfassende Einigung ist auch in Sicht.]]>
+      </description>
+      <source:markdown>Durch Ausnahmegenehmigungen werden wieder Nexperia-Chips exportiert. Eine umfassende Einigung ist auch in Sicht.</source:markdown>
+      <guid>cid://http://heise.de/-11071426</guid>
+    </item>    <item>
+      <title>Windows 11 26H1: Unterstützung für bestimmte Prozessoren</title>
+      <link>https://www.heise.de/news/Windows-11-26H1-Unterstuetzung-fuer-bestimmte-Prozessoren-11071382.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Gerüchteküche brodelte, nun hat Microsoft eine Insider-Vorschau für Windows 11 26H1 herausgegeben. Sie unterstützt bestimmte CPUs.]]>
+      </description>
+      <source:markdown>Die Gerüchteküche brodelte, nun hat Microsoft eine Insider-Vorschau für Windows 11 26H1 herausgegeben. Sie unterstützt bestimmte CPUs.</source:markdown>
+      <guid>cid://http://heise.de/-11071382</guid>
+    </item>    <item>
+      <title>heise-Angebot: betterCode() PHP bietet Online-Workshop &#34;KI-Coding-Tools verstehen und meistern&#34;</title>
+      <link>https://www.heise.de/news/betterCode-PHP-bietet-Online-Workshop-KI-Coding-Tools-verstehen-und-meistern-11069197.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die betterCode() PHP 2025 beleuchtet am 25. November PHP 8.5, FrankenPHP und den Caddy Server – ergänzt um einen Workshop zu KI‑gestützten Coding‑Tools.]]>
+      </description>
+      <source:markdown>Die betterCode() PHP 2025 beleuchtet am 25. November PHP 8.5, FrankenPHP und den Caddy Server – ergänzt um einen Workshop zu KI‑gestützten Coding‑Tools.</source:markdown>
+      <guid>cid://http://heise.de/-11069197</guid>
+    </item>    <item>
+      <title>Meta kündigt 600 Milliarden US-Dollar KI-Investitionen an</title>
+      <link>https://www.heise.de/news/Meta-kuendigt-600-Milliarden-US-Dollar-KI-Investitionen-an-11071370.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Meta-CEO Mark Zuckerberg will Kapazitäten schaffen, um auf "optimistischste Szenarien" vorbereitet zu sein und dafür hunderte Milliarden Dollar ausgeben.]]>
+      </description>
+      <source:markdown>Meta-CEO Mark Zuckerberg will Kapazitäten schaffen, um auf &#34;optimistischste Szenarien&#34; vorbereitet zu sein und dafür hunderte Milliarden Dollar ausgeben.</source:markdown>
+      <guid>cid://http://heise.de/-11071370</guid>
+    </item>    <item>
+      <title>Who&#39;s watching the watchers? This Mozilla fellow, and her Surveillance Watch map</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/08/mozilla_fellow_al_shafei/</link>
+      <description>
+        <![CDATA[<h4>Esra&#39;a Al Shafei spoke with The Reg about the spy tech &#39;global trade&#39;</h4> <p><strong>interview</strong>  Digital rights activist Esra&#39;a Al Shafei found FinFisher spyware on her device more than a decade ago. Now she&#39;s made it her mission to surveil the companies providing surveillanceware, their customers, and their funders.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Esra&#39;a Al Shafei spoke with The Reg about the spy tech &#39;global trade&#39;
+
+**interview**  Digital rights activist Esra&#39;a Al Shafei found FinFisher spyware on her device more than a decade ago. Now she&#39;s made it her mission to surveil the companies providing surveillanceware, their customers, and their funders.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242873</guid>
+    </item>    <item>
+      <title>Analyse: Verbraucher haben mit dem Digital Markets Act größere Auswahl</title>
+      <link>https://www.heise.de/news/Analyse-Verbraucher-haben-mit-dem-Digital-Markets-Act-groessere-Auswahl-11071194.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Zu den ersten Vorteilen, die die neuen EU-Wettbewerbsregeln bieten, gehören laut Verbraucherschützern vor allem mehr Optionen rund um Apps bei Apple und Google.]]>
+      </description>
+      <source:markdown>Zu den ersten Vorteilen, die die neuen EU-Wettbewerbsregeln bieten, gehören laut Verbraucherschützern vor allem mehr Optionen rund um Apps bei Apple und Google.</source:markdown>
+      <guid>cid://http://heise.de/-11071194</guid>
+    </item>    <item>
+      <title>heise-Angebot: iX-Workshop: Nach dem Einbruch – Digital Forensics &#38; Incident Response (DFIR)</title>
+      <link>https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-10925114.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.]]>
+      </description>
+      <source:markdown>Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.</source:markdown>
+      <guid>cid://http://heise.de/-10925114</guid>
+    </item>    <item>
+      <title>LXQt 2.3.0 released</title>
+      <link>https://www.osnews.com/story/143728/lxqt-2-3-0-released/</link>
+      <description>
+        <![CDATA[LXQt, the other Qt desktop environment, released version 2.3.0. This new version comes roughly six months after 2.2.0, and continues the project&#8217;s adoption of Wayland. The enhancement of Wayland support has been continued, especially in LXQt Panel, whose Desktop Switcher is now enabled for Labwc, Niri, …. It is also equipped with a backend specifically for Wayfire. In addition, the Custom Command plugin is made more flexible, regardless of Wayland and X11. ↫ LXQt 2.3.0 release announcement The screenshot utility has been improved as well, and lxqt-qdbus has been added to lxqt-wayland-session to make qdbus commands easier to use with all kinds of Wayland compositors.]]>
+      </description>
+      <source:markdown>LXQt, the other Qt desktop environment, released version 2.3.0. This new version comes roughly six months after 2.2.0, and continues the project’s adoption of Wayland. The enhancement of Wayland support has been continued, especially in LXQt Panel, whose Desktop Switcher is now enabled for Labwc, Niri, …. It is also equipped with a backend specifically for Wayfire. In addition, the Custom Command plugin is made more flexible, regardless of Wayland and X11. ↫ LXQt 2.3.0 release announcement The screenshot utility has been improved as well, and lxqt-qdbus has been added to lxqt-wayland-session to make qdbus commands easier to use with all kinds of Wayland compositors.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143728</guid>
+    </item>    <item>
+      <title>WINE gaming in FreeBSD Jails with Bastille</title>
+      <link>https://www.osnews.com/story/143726/wine-gaming-in-freebsd-jails-with-bastille/</link>
+      <description>
+        <![CDATA[FreeBSD offers a whole bunch of technologies and tools to make gaming on the platform a lot more capable than you&#8217;d think, and this article by Pertho dives into the details. Running all your games inside a FreeBSD Jail with Wine installed into it is pretty neat. Initially, I thought this was going to be a pretty difficult and require a lot of trial and error but I was surprised at how easy it was to get this all working. I was really happy to get some of my favorite games working in a FreeBSD Jail, and having ZFS snapshots around was a great way to test things in case I needed to backtrack. ↫ Pertho at their blog No, this isn&#8217;t as easy as gaming on Linux has become, and it certainly requires a ton more work and knowledge than just installing a major Linux distribution and Steam, but for those of us who prefer a more traditional UNIX-like experience, this is a great option.]]>
+      </description>
+      <source:markdown>FreeBSD offers a whole bunch of technologies and tools to make gaming on the platform a lot more capable than you’d think, and this article by Pertho dives into the details. Running all your games inside a FreeBSD Jail with Wine installed into it is pretty neat. Initially, I thought this was going to be a pretty difficult and require a lot of trial and error but I was surprised at how easy it was to get this all working. I was really happy to get some of my favorite games working in a FreeBSD Jail, and having ZFS snapshots around was a great way to test things in case I needed to backtrack. ↫ Pertho at their blog No, this isn’t as easy as gaming on Linux has become, and it certainly requires a ton more work and knowledge than just installing a major Linux distribution and Steam, but for those of us who prefer a more traditional UNIX-like experience, this is a great option.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143726</guid>
+    </item>    <item>
+      <title>Microsoft&#39;s lack of quality control is out of control</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/08/microsoft_lacks_quality_control/</link>
+      <description>
+        <![CDATA[<h4>At one point, Microsoft&#39;s QC was legendary. Now, it&#39;s the wrong kind of legend</h4> <p><strong>OPINION</strong>  I have a habit of ironically referring to Microsoft&#39;s various self-induced whoopsies as examples of the company&#39;s &#34;legendary approach to quality control.&#34; While the robustness of Windows NT in decades past might qualify as &#34;legendary&#34;, anybody who has had to use the company&#39;s wares in recent years might quibble with the word &#34;quality.&#34;…</p>]]>
+      </description>
+      <source:markdown>#### At one point, Microsoft&#39;s QC was legendary. Now, it&#39;s the wrong kind of legend
+
+**OPINION**  I have a habit of ironically referring to Microsoft&#39;s various self-induced whoopsies as examples of the company&#39;s &#34;legendary approach to quality control.&#34; While the robustness of Windows NT in decades past might qualify as &#34;legendary&#34;, anybody who has had to use the company&#39;s wares in recent years might quibble with the word &#34;quality.&#34;…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242911</guid>
+    </item>    <item>
+      <title>Digitale Souveränität: &#34;Am Ende gilt für die US-Konzerne immer das US-Recht.&#34;</title>
+      <link>https://www.heise.de/hintergrund/Digitale-Souveraenitaet-Am-Ende-gilt-fuer-die-US-Konzerne-immer-das-US-Recht-11068538.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Durch die Trump-Regierung hat die Frage der Tech-Souveränität an Dringlichkeit gewonnen. Ein Gespräch mit Ralph Brinkhaus, was Digitalpolitik jetzt tun muss.]]>
+      </description>
+      <source:markdown>Durch die Trump-Regierung hat die Frage der Tech-Souveränität an Dringlichkeit gewonnen. Ein Gespräch mit Ralph Brinkhaus, was Digitalpolitik jetzt tun muss.</source:markdown>
+      <guid>cid://http://heise.de/-11068538</guid>
+    </item>    <item>
+      <title>Faszinierende Augenblicke – die Bilder der Woche 45</title>
+      <link>https://www.heise.de/news/Faszinierende-Augenblicke-die-Bilder-der-Woche-45-11069433.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Bilder dieser Woche begeistern durch ihre Atmosphäre, Komposition und Ausdruckskraft und zeigen das feine Gespür ihrer Fotografen für den perfekten Moment.]]>
+      </description>
+      <source:markdown>Die Bilder dieser Woche begeistern durch ihre Atmosphäre, Komposition und Ausdruckskraft und zeigen das feine Gespür ihrer Fotografen für den perfekten Moment.</source:markdown>
+      <guid>cid://http://heise.de/-11069433</guid>
+    </item>    <item>
+      <title>Developer Snapshots: Kleinere News der Woche</title>
+      <link>https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-11066369.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Übersicht enthält kleine, aber interessante Meldungen zu Jupyter, Android-Entwicklung, Vitess, GitLab, GitHub, Databricks, OpenTofu, Hermit und Parasoft.]]>
+      </description>
+      <source:markdown>Die Übersicht enthält kleine, aber interessante Meldungen zu Jupyter, Android-Entwicklung, Vitess, GitLab, GitHub, Databricks, OpenTofu, Hermit und Parasoft.</source:markdown>
+      <guid>cid://http://heise.de/-11066369</guid>
+    </item>    <item>
+      <title>Vergessen, verloren, geklaut: So helfen AirTags, GPS-Tracker &#38; Co. | c’t uplink</title>
+      <link>https://www.heise.de/news/Vergessen-verloren-geklaut-So-helfen-AirTags-GPS-Tracker-Co-c-t-uplink-11068684.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Beim Wiederfinden von verlorenen Gegenständen oder entlaufenden Haustieren können GPS-Tracker und BLE-Tags helfen. Im Podcast diskutieren wir beide Bauarten.]]>
+      </description>
+      <source:markdown>Beim Wiederfinden von verlorenen Gegenständen oder entlaufenden Haustieren können GPS-Tracker und BLE-Tags helfen. Im Podcast diskutieren wir beide Bauarten.</source:markdown>
+      <guid>cid://http://heise.de/-11068684</guid>
+    </item>    <item>
       <title>Meta can&#39;t afford its $600B love letter to Trump</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/08/meta_cant_afford_its_600b/</link>
       <description>
@@ -28,10 +165,18 @@ Meta on Friday floated plans to invest $600 billion in US infrastructure and job
 Law students at the University of North Carolina at Chapel Hill School of Law last month held a mock trial to see how AI models administer justice.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242922</guid>
     </item>    <item>
+      <title>Forgejo monthly report - October 2025</title>
+      <link>https://forgejo.org/2025-10-monthly-report/</link>
+      <description>
+        <![CDATA[Forgejo is 3 years old and was made possible by over 1,930 people and and many other free projects. Forgejo v13 was released and security vulnerabilities were fixed. Forgejo-contrib incubated new projects.]]>
+      </description>
+      <source:markdown>Forgejo is 3 years old and was made possible by over 1,930 people and and many other free projects. Forgejo v13 was released and security vulnerabilities were fixed. Forgejo-contrib incubated new projects.</source:markdown>
+      <guid>cid://https://forgejo.org/2025-10-monthly-report/</guid>
+    </item>    <item>
       <title>Search Isn’t Dead: From RAG to Agents With Vector Databases</title>
       <link>https://thenewstack.io/search-isnt-dead-from-rag-to-agents-with-vector-databases/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/ab5cab94-elastic-webinar-1024x576.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="&quot;Achieving Relevant AI with Vector Search&quot; screenshot of Dave More and Chris Pirillo" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/ab5cab94-elastic-webinar.png" /><p>Note: This article was originally published on Oct. 16, 2025, and has been updated with information from the webinar. In</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/ab5cab94-elastic-webinar-1024x576.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="&quot;Achieving Relevant AI with Vector Search&quot; screenshot of Dave More and Chris Pirillo" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/ab5cab94-elastic-webinar.png" /><p>Note: This article was originally published on Oct. 16, 2025, and has been updated with information from the webinar. In</p>
         <p>The post <a href="https://thenewstack.io/search-isnt-dead-from-rag-to-agents-with-vector-databases/">Search Isn’t Dead: From RAG to Agents With Vector Databases</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![&#34;Achieving Relevant AI with Vector Search&#34; screenshot of Dave More and Chris Pirillo](https://cdn.thenewstack.io/media/2025/10/ab5cab94-elastic-webinar-1024x576.png)

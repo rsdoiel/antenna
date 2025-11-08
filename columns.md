@@ -325,3 +325,6 @@ description: Blogs, columns and snapshots from around the web.
 - [W. Kamau Bell blog](http://www.wkamaubell.com/blog?format=rss)
 - [Neoma Magazine](https://www.noemamag.com/feed/)
 - [Notes from the circus](https://www.notesfromthecircus.com/feed)
+- [Strength in Numbere](https://www.gelliottmorris.com/feed)
+- [Telos News](https://www.telos.news/feed)
+

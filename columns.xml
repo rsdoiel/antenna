@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>07 Nov 25 19:15 -0800</lastBuildDate>
+    <lastBuildDate>08 Nov 25 06:12 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,157 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Google AI tries to speak for me</title>
+      <link>http://scripting.com/2025/11/08/134542.html?title=googleAiTriesToSpeakForMe</link>
+      <description>
+        <![CDATA[<p>Gmail started doing something incredibly offensive and invasive and I can't get it to stop doing it. </p>
+        <p>Now when I start to reply to a friend's email it writes a reply for me. If I want to speak for myself I first have to delete the message it created in my name. I don't yet have words to describe how inappropriate this is. It would be like going to a restaurant where they bring you your meal before showing you the menu. </p>
+        <p>Here's the thing Google. I know how to write, and I know how to use a keyboard. I don't need or want help from your AI thing. </p>
+        <p>After a couple of days of cleaning up Google's incestuous turds, I asked ChatGPT how to turn off this monster. It showed me where the settings are, and I turned them off, saved changes, reloaded the page, and the same fucking suggestion is there. </p>
+        <p>Here's a <a href="https://imgs.scripting.com/2025/11/08/googleSpeaksForMe.png">screen shot</a> with a big red arrow pointing to the AI's writing. Note that it signs my name to its creation. </p>
+        <p>Now they certainly haven't rolled this feature out to journalists yet, because the news would be full of rage. Journalists, like other literate people, generally have the basic ability to speak for themselves. But journalists have a pulpit that Google is probably still a little scared of. </p>
+        <p>Also, it's hard to come up with an example you can share publicly because it only does this with replies to emails from people you know. I tried it with a spam-like message and there it is willing to let you speak for yourself. </p>]]>
+      </description>
+      <source:markdown>Gmail started doing something incredibly offensive and invasive and I can&#39;t get it to stop doing it.
+
+Now when I start to reply to a friend&#39;s email it writes a reply for me. If I want to speak for myself I first have to delete the message it created in my name. I don&#39;t yet have words to describe how inappropriate this is. It would be like going to a restaurant where they bring you your meal before showing you the menu.
+
+Here&#39;s the thing Google. I know how to write, and I know how to use a keyboard. I don&#39;t need or want help from your AI thing.
+
+After a couple of days of cleaning up Google&#39;s incestuous turds, I asked ChatGPT how to turn off this monster. It showed me where the settings are, and I turned them off, saved changes, reloaded the page, and the same fucking suggestion is there.
+
+Here&#39;s a [screen shot](https://imgs.scripting.com/2025/11/08/googleSpeaksForMe.png) with a big red arrow pointing to the AI&#39;s writing. Note that it signs my name to its creation.
+
+Now they certainly haven&#39;t rolled this feature out to journalists yet, because the news would be full of rage. Journalists, like other literate people, generally have the basic ability to speak for themselves. But journalists have a pulpit that Google is probably still a little scared of.
+
+Also, it&#39;s hard to come up with an example you can share publicly because it only does this with replies to emails from people you know. I tried it with a spam-like message and there it is willing to let you speak for yourself.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/08/134542.html</guid>
+    </item>    <item>
+      <title>Podcast with Paul Krugman: What can the 2025 elections tell us about 2026?</title>
+      <link>https://www.gelliottmorris.com/p/podcast-with-paul-krugman-what-can</link>
+      <description>
+        <![CDATA[Paul asks me about what just happened in the 2025 elections, and I explain why Democratic elites and The New York Times learned the wrong lesson from 2024]]>
+      </description>
+      <source:markdown>Paul asks me about what just happened in the 2025 elections, and I explain why Democratic elites and The New York Times learned the wrong lesson from 2024</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/178322494/6e88e97301ac480ca573f4c3b4a05374.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/podcast-with-paul-krugman-what-can</guid>
+    </item>    <item>
+      <title>2025-11-06 Bye bye USA</title>
+      <link>https://alexschroeder.ch/view/2025-11-06-usa</link>
+      <description>
+        <![CDATA[<h1 id="2025-11-06-bye-bye-usa">2025-11-06 Bye bye USA</h1>
+        
+        <p>I haven&rsquo;t travelled to the US in many years. I made an exception in 2012 because my wife wanted to see <a href="Hawaii">Hawaii</a> again. Before that, I already hadn&rsquo;t travelled to the US in many years. Remember the Snowden years? The Homeland Security years? The Patriot Act years? Remember? They never ended.</p>
+        
+        <p>These day&rsquo;s it&rsquo;s even worse.</p>
+        
+        <p>A friend wanted some advice about moving customer data from on-premise in Switzerland to a US cloud compute provider, nominally in Switzerland. We had a long chat about political pressure and authoritarian governments. I think she challenged her team that is in charge of the long project (you know those projects where you need to answer hundreds of questions in huge Excel sheets) with the question: Would you move this data to a Chinese cloud hosting provider? Of course not, that&rsquo;s different, they said. And the two of us wondered for how long.</p>
+        
+        <p>We talked about Microsoft saying in Paris that the US government would get access to customer data on Microsoft hosts if it really wanted to, even if hosted in Europe; about the International Criminal Court (ICC) ditching Microsoft Office because Microsoft had locked them out of all their services, because the credit card institutes had locked them all out of their services, all at the behest of the US president.</p>
+        
+        <p>We talked about the Swiss army chief opposing the current move of the federal administration to the Microsoft cloud; the Swiss federal court in Lausanne not using Microsoft as far as possible; the canton of Lucerne suddenly realising what they are are about to give up with a move to Microsoft; about people saying that Switzerland should stop paying for the F-35 after one billion spent since it may or may not arrive if we pay the remaining six billion, and if it does, we don&rsquo;t know if it&rsquo;ll work, and if it works, we don&rsquo;t know if the US president won&rsquo;t disable them just to make a point.</p>
+        
+        <p>We talked about Trump and how people are no longer trusting that the US is an ally, a friend, a partner to rely on.</p>
+        
+        <p>Each example is a small event on the global scale, but together they start building up. If you&rsquo;re a C-level executive, do you want to be the person that decided handing the company keys to a company in the US, where IT leaders make $1,000,000 presents and kiss the president&rsquo;s arse at a dinner, on camera? Will they stand up for you? Of course not. Will the heads of the local branches stand up for you? Of course not.</p>
+        
+        <p>If people can avoid dealing with authoritarian strongmen, they do it. If people start dealing with organised crime, their woes never end.</p>
+        
+        <p>Switzerland has an app-based electronic payment system called TWINT. I prefer it over Visa and Mastercard. I also want to get back to using a lot of cash. I stopped that with the onset of the pandemic in 2020. But I&rsquo;m doing my part voting with my wallet.</p>
+        
+        <p>We distrust China because they&rsquo;re authoritarians. We distrust Russia because they&rsquo;re authoritarians. Why should we trust the USA since they&rsquo;re slowly turning into authoritarians.</p>
+        
+        <p><a class="tag" href="/search/?q=%23USA">#USA</a></p>]]>
+      </description>
+      <source:markdown># 2025-11-06 Bye bye USA
+
+I haven’t travelled to the US in many years. I made an exception in 2012 because my wife wanted to see [Hawaii](Hawaii) again. Before that, I already hadn’t travelled to the US in many years. Remember the Snowden years? The Homeland Security years? The Patriot Act years? Remember? They never ended.
+
+These day’s it’s even worse.
+
+A friend wanted some advice about moving customer data from on-premise in Switzerland to a US cloud compute provider, nominally in Switzerland. We had a long chat about political pressure and authoritarian governments. I think she challenged her team that is in charge of the long project (you know those projects where you need to answer hundreds of questions in huge Excel sheets) with the question: Would you move this data to a Chinese cloud hosting provider? Of course not, that’s different, they said. And the two of us wondered for how long.
+
+We talked about Microsoft saying in Paris that the US government would get access to customer data on Microsoft hosts if it really wanted to, even if hosted in Europe; about the International Criminal Court (ICC) ditching Microsoft Office because Microsoft had locked them out of all their services, because the credit card institutes had locked them all out of their services, all at the behest of the US president.
+
+We talked about the Swiss army chief opposing the current move of the federal administration to the Microsoft cloud; the Swiss federal court in Lausanne not using Microsoft as far as possible; the canton of Lucerne suddenly realising what they are are about to give up with a move to Microsoft; about people saying that Switzerland should stop paying for the F-35 after one billion spent since it may or may not arrive if we pay the remaining six billion, and if it does, we don’t know if it’ll work, and if it works, we don’t know if the US president won’t disable them just to make a point.
+
+We talked about Trump and how people are no longer trusting that the US is an ally, a friend, a partner to rely on.
+
+Each example is a small event on the global scale, but together they start building up. If you’re a C-level executive, do you want to be the person that decided handing the company keys to a company in the US, where IT leaders make $1,000,000 presents and kiss the president’s arse at a dinner, on camera? Will they stand up for you? Of course not. Will the heads of the local branches stand up for you? Of course not.
+
+If people can avoid dealing with authoritarian strongmen, they do it. If people start dealing with organised crime, their woes never end.
+
+Switzerland has an app-based electronic payment system called TWINT. I prefer it over Visa and Mastercard. I also want to get back to using a lot of cash. I stopped that with the onset of the pandemic in 2020. But I’m doing my part voting with my wallet.
+
+We distrust China because they’re authoritarians. We distrust Russia because they’re authoritarians. Why should we trust the USA since they’re slowly turning into authoritarians.
+
+[#USA](/search/?q=%23USA)</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2025-11-06-usa</guid>
+    </item>    <item>
+      <title>After the Dem Sweep: Talking with G. Elliott Morris</title>
+      <link>https://paulkrugman.substack.com/p/after-the-dem-sweep-talking-with</link>
+      <description>
+        <![CDATA[My polling guru on what just happened.]]>
+      </description>
+      <source:markdown>My polling guru on what just happened.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!5c7O!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15b083fd-172d-4dfe-b33f-f3bac9e7cfac_1280x720.png" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/after-the-dem-sweep-talking-with</guid>
+    </item>    <item>
+      <title>Lit Hub Weekly: November 3 – 7, 2025</title>
+      <link>https://lithub.com/lit-hub-weekly-november-3-7-2025/</link>
+      <description>
+        <![CDATA[“I could only make good art if I made bad art, too, and so I began making bad art an integral part of my creative practice.” In praise of making bad art. &#124; Lit Hub Craft Tracy Borman explores the]]>
+      </description>
+      <source:markdown>“I could only make good art if I made bad art, too, and so I began making bad art an integral part of my creative practice.” In praise of making bad art. \| Lit Hub Craft Tracy Borman explores the</source:markdown>
+      <guid>cid://https://lithub.com/?p=262415</guid>
+    </item>    <item>
+      <link>https://daveverse.org/2025/11/08/ill-wait-till-all-the-episodes-are-out/</link>
+      <description>
+        <![CDATA[<p>I’ll wait till all the episodes are out. Or let the reviewers have access to just as much of a series as the regular folk get.</p>]]>
+      </description>
+      <source:markdown>I’ll wait till all the episodes are out. Or let the reviewers have access to just as much of a series as the regular folk get.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/08/1837/</guid>
+    </item>    <item>
+      <title>Is America Over Trump? The Coffee Klatch for Saturday, November 8, 2025</title>
+      <link>https://robertreich.substack.com/p/is-america-over-trump-the-coffee</link>
+      <description>
+        <![CDATA[With Heather Lofthouse and yours truly, Robert Reich]]>
+      </description>
+      <source:markdown>With Heather Lofthouse and yours truly, Robert Reich</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/178297544/9cb6878c40d8f392760e722d154d70db.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://robertreich.substack.com/p/is-america-over-trump-the-coffee</guid>
+    </item>    <item>
+      <title>Smart is as Smart Does</title>
+      <link>https://doc.searls.com/2025/11/07/smart-is-as-smart-does/</link>
+      <description>
+        <![CDATA[Never mind that Artificial Intelligence is neither. As most of us know and understand it, AI is an answer machine. Or a know-it-all librarian who looks stuff up and gives you answers. While it uses the first person voice and speaks in a friendly style, its humanity is pure emulation. It&#8217;s not human but speaking [&#8230;]]]>
+      </description>
+      <source:markdown>Never mind that Artificial Intelligence is neither. As most of us know and understand it, AI is an answer machine. Or a know-it-all librarian who looks stuff up and gives you answers. While it uses the first person voice and speaks in a friendly style, its humanity is pure emulation. It’s not human but speaking \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/?p=19659</guid>
+    </item>    <item>
+      <title>November 7, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/november-7-2025</link>
+      <description>
+        <![CDATA[The repercussions from Tuesday&#8217;s vote, in which Democratic candidates were victorious across the country, continue to echo.]]>
+      </description>
+      <source:markdown>The repercussions from Tuesday’s vote, in which Democratic candidates were victorious across the country, continue to echo.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/november-7-2025</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m53okbnwzs2v</link>
+      <description>
+        <![CDATA[Another important read from Doc, https://doc.searls.com/2025/11/06/whos-your-agent/]]>
+      </description>
+      <source:markdown>Another important read from Doc, https://doc.searls.com/2025/11/06/whos-your-agent/</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m53okbnwzs2v</guid>
+    </item>    <item>
+      <title>Weeknotes: Nov. 1-7, 2025</title>
+      <link>https://tracydurnell.com/2025/11/07/weeknotes-nov-1-7-2025/</link>
+      <description>
+        <![CDATA[I thought &#8220;fall back&#8221; was the less disruptive time change, but this one was rough for me! 🥱 Win of the week: Mamdani and Dems won big 🙌 most people hate fascism, actually (still biting my nails over my city&#8217;s council races, two of which are within 500 votes but currently the NIMBY candidate is winning [&#8230;]]]>
+      </description>
+      <source:markdown>I thought “fall back” was the less disruptive time change, but this one was rough for me! 🥱 Win of the week: Mamdani and Dems won big 🙌 most people hate fascism, actually (still biting my nails over my city’s council races, two of which are within 500 votes but currently the NIMBY candidate is winning \[…\]</source:markdown>
+      <guid>cid://https://tracydurnell.com/?p=31309</guid>
     </item>    <item>
       <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m53kxi2lkc2d</link>
       <description>
@@ -118,6 +269,15 @@ Via [lobste.rs](https://lobste.rs/s/zvyspo/mastodon_4_5)
 Tags: [mastodon](https://simonwillison.net/tags/mastodon)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Nov/8/mastodon-45/#atom-everything</guid>
     </item>    <item>
+      <title>What Tuesday’s Results Really Mean</title>
+      <link>https://www.telos.news/p/what-tuesdays-results-really-mean</link>
+      <description>
+        <![CDATA[A conversatuon with G. Elliott Morris]]>
+      </description>
+      <source:markdown>A conversatuon with G. Elliott Morris</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/178293327/7b3692dd1054c30c95fc8753892ed334.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.telos.news/p/what-tuesdays-results-really-mean</guid>
+    </item>    <item>
       <title>Note published on November 7, 2025 at 11:50 PM UTC</title>
       <link>https://www.mollywhite.net/micro/entry/202511071849</link>
       <guid>cid://690e85bd409db444f66ec358</guid>
@@ -184,6 +344,15 @@ As usual, you can also use this squid post to talk about the security stories in
 
 [Blog moderation policy.](https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html)</source:markdown>
       <guid>cid://https://www.schneier.com/?p=71143</guid>
+    </item>    <item>
+      <title>I talk about my Friday column with Ryan Lizza</title>
+      <link>https://www.gelliottmorris.com/p/i-talk-about-my-friday-column-with</link>
+      <description>
+        <![CDATA[The 2025 election, much like 2024, was about economic anxiety and anti-incumbent sentiment &#8212; and offers few lessons about the ideological direction of the Democratic Party]]>
+      </description>
+      <source:markdown>The 2025 election, much like 2024, was about economic anxiety and anti-incumbent sentiment — and offers few lessons about the ideological direction of the Democratic Party</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/178306875/f7ad12ad26d6eb36493541a58e3be251.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/i-talk-about-my-friday-column-with</guid>
     </item>    <item>
       <title>&#38;#8220;A trio of photographers in New Zealand have captured images of &#38;#8216;red...</title>
       <link>https://kottke.org/25/11/0047803-a-trio-of-photographers-i</link>
@@ -549,6 +718,15 @@ The post [Notes on Being a Man](https://www.profgalloway.com/notes-on-being-a-ma
       </description>
       <source:markdown>[Stephanie Booth asks](http://scripting.com/2025/11/06/141023.html) about [yesterday&#39;s post](https://mastodon.social/@stephtara@indieweb.social/115506397683164576) about dynamic OPML in Pocket Casts. I responded with a few comments, and a promise to write a post to show how this works in FeedLand, which already has the feature, but unfortunately is not a podcast client.</source:markdown>
       <guid>cid://http://scripting.com/2025/11/07.html#a131557</guid>
+    </item>    <item>
+      <title>The 2024 Trump &#34;realignment&#34; is already over</title>
+      <link>https://www.gelliottmorris.com/p/trumps-winning-2024-coalition-has</link>
+      <description>
+        <![CDATA[Claims of a conservative realignment of non-whites, the working class, and young voters have been highly exaggerated]]>
+      </description>
+      <source:markdown>Claims of a conservative realignment of non-whites, the working class, and young voters have been highly exaggerated</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/cc9b5bc0-abe2-4a61-9f29-7313cf7a2384_1240x1302.webp" length="0" type="image/jpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/trumps-winning-2024-coalition-has</guid>
     </item>    <item>
       <title>Scale Tiny Projects into a Resilient Data Culture</title>
       <link>https://www.oreilly.com/radar/scale-tiny-projects-into-a-resilient-data-culture/</link>
@@ -1007,7 +1185,7 @@ The post [RIHC: Disney’s Legacy, with Bob Iger](https://therestishistory.com/r
         <blockquote>
         <p>The Kimi K2 Thinking model cost $4.6 million to train, according to a source familiar with the matter. [...] CNBC was unable to independently verify the DeepSeek or Kimi figures.</p>
         </blockquote>
-        <p>MLX developer Awni Hannun <a href="https://x.com/awnihannun/status/1986601104130646266">got it working</a> on two M3 Ultra Mac Studios:</p>
+        <p>MLX developer Awni Hannun <a href="https://x.com/awnihannun/status/1986601104130646266">got it working</a> on two 512GB M3 Ultra Mac Studios:</p>
         <blockquote>
         <p>The new 1 Trillion parameter Kimi K2 Thinking model runs well on 2 M3 Ultras in its native format - no loss in quality!</p>
         <p>The model was quantization aware trained (qat) at int4.</p>
@@ -1063,7 +1241,7 @@ CNBC quoted a source who [provided the training price](https://www.cnbc.com/2025
 
 &#62; The Kimi K2 Thinking model cost $4.6 million to train, according to a source familiar with the matter. \[...\] CNBC was unable to independently verify the DeepSeek or Kimi figures.
 
-MLX developer Awni Hannun [got it working](https://x.com/awnihannun/status/1986601104130646266) on two M3 Ultra Mac Studios:
+MLX developer Awni Hannun [got it working](https://x.com/awnihannun/status/1986601104130646266) on two 512GB M3 Ultra Mac Studios:
 
 &#62; The new 1 Trillion parameter Kimi K2 Thinking model runs well on 2 M3 Ultras in its native format - no loss in quality!
 &#62;
@@ -1506,7 +1684,8 @@ There are costs, of course. Color choice is harder, especially with more than on
                     <p>Detail of the PDF.</p>
                 </figcaption>
         </figure>
-        <p>There are costs, of course. Color choice is harder, especially with more than one category of dot at once. The image tends to look less bright because you&rsquo;re not using a big swatch of paint across a large area. The visual impression is also very sensitive to small changes in the size of the dots and to settings like their alpha transparency. The order that the layers are drawn also matters a great deal at this sort of resolution. In addition, when you draw a few million dots on a large grid of pixels then your file size gets big real fast. The main dot-density image above is a 300dpi 4,500 by 4,500 pixel PNG and it&rsquo;s 12mb in size before being crushed down further (with <code>optipng</code>) to 9mb or so. I could make a JPG of course, which would be a lot smaller, but then you start running into the question of why you made a dot-density map in the first place, because you lose detail in the raster. In fairness, you&rsquo;d still get the benefit of having larger and less densely-populated (or lower-turnout) precincts not appear fully filled-in, even if you wouldn&rsquo;t be able to zoom in at all. Meanwhile, thanks to the wonders of multiplication, a 600dpi version of the same image is much sharper to zoom in on but is also about 34mb in size. Meanwhile a PDF, as a vector format, is even bigger, weighing in at 60MB. Rendering a PDF with that many vector elements does not make Preview or Illustrator happy, let me tell you. The benefit of course is that you can scale it up to any size you like without loss, as shown above. Because browsers are crazy and so is javascript, it&rsquo;s possible to serve up dot density maps like this in real time in a way that makes them zoomable and fluid, but that&rsquo;s not my department.</p>]]>
+        <p>There are costs, of course. Color choice is harder, especially with more than one category of dot at once. The image tends to look less bright because you&rsquo;re not using a big swatch of paint across a large area. The visual impression is also very sensitive to small changes in the size of the dots and to settings like their alpha transparency. The order that the layers are drawn also matters a great deal at this sort of resolution. In addition, when you draw a few million dots on a large grid of pixels then your file size gets big real fast. The main dot-density image above is a 300dpi 4,500 by 4,500 pixel PNG and it&rsquo;s 12mb in size before being crushed down further (with <code>optipng</code>) to 9mb or so. I could make a JPG of course, which would be a lot smaller, but then you start running into the question of why you made a dot-density map in the first place, because you lose detail in the raster. In fairness, you&rsquo;d still get the benefit of having larger and less densely-populated (or lower-turnout) precincts not appear fully filled-in, even if you wouldn&rsquo;t be able to zoom in at all.</p>
+        <p>Meanwhile, thanks to the wonders of multiplication, a 600dpi version of the same image is much sharper to zoom in on but is also about 35mb in size. A PDF, which is a vector rather than a raster format, is even bigger, weighing in at 63MB. Rendering a PDF with that many vector elements does not make Preview or Illustrator happy, let me tell you. The benefit of course is that you can scale it up to any size you like without loss, as shown above. Because browsers are crazy and so is javascript, it&rsquo;s possible to serve up dot density maps like this in real time in a way that makes them zoomable and fluid, but that&rsquo;s not my department.</p>]]>
       </description>
       <source:markdown>Mamdani’s victory in the New York City mayoral election gave me the opportunity to draw a few maps, and also to learn a bit about incorporating additional spatial data into maps drawn in R. R is not a specialized piece of GIS software. ESRI’s [ArcGIS](https://www.arcgis.com/) is the 800lb gorilla in this world and [QGIS](https://qgis.org) the [GIMP](https://www.gimp.org) to its Photoshop, so to speak.
 
@@ -1540,7 +1719,9 @@ The main reason for doing this is that, from the point of view of the election, 
 
 Detail of the PDF.
 
-There are costs, of course. Color choice is harder, especially with more than one category of dot at once. The image tends to look less bright because you’re not using a big swatch of paint across a large area. The visual impression is also very sensitive to small changes in the size of the dots and to settings like their alpha transparency. The order that the layers are drawn also matters a great deal at this sort of resolution. In addition, when you draw a few million dots on a large grid of pixels then your file size gets big real fast. The main dot-density image above is a 300dpi 4,500 by 4,500 pixel PNG and it’s 12mb in size before being crushed down further (with `optipng`) to 9mb or so. I could make a JPG of course, which would be a lot smaller, but then you start running into the question of why you made a dot-density map in the first place, because you lose detail in the raster. In fairness, you’d still get the benefit of having larger and less densely-populated (or lower-turnout) precincts not appear fully filled-in, even if you wouldn’t be able to zoom in at all. Meanwhile, thanks to the wonders of multiplication, a 600dpi version of the same image is much sharper to zoom in on but is also about 34mb in size. Meanwhile a PDF, as a vector format, is even bigger, weighing in at 60MB. Rendering a PDF with that many vector elements does not make Preview or Illustrator happy, let me tell you. The benefit of course is that you can scale it up to any size you like without loss, as shown above. Because browsers are crazy and so is javascript, it’s possible to serve up dot density maps like this in real time in a way that makes them zoomable and fluid, but that’s not my department.</source:markdown>
+There are costs, of course. Color choice is harder, especially with more than one category of dot at once. The image tends to look less bright because you’re not using a big swatch of paint across a large area. The visual impression is also very sensitive to small changes in the size of the dots and to settings like their alpha transparency. The order that the layers are drawn also matters a great deal at this sort of resolution. In addition, when you draw a few million dots on a large grid of pixels then your file size gets big real fast. The main dot-density image above is a 300dpi 4,500 by 4,500 pixel PNG and it’s 12mb in size before being crushed down further (with `optipng`) to 9mb or so. I could make a JPG of course, which would be a lot smaller, but then you start running into the question of why you made a dot-density map in the first place, because you lose detail in the raster. In fairness, you’d still get the benefit of having larger and less densely-populated (or lower-turnout) precincts not appear fully filled-in, even if you wouldn’t be able to zoom in at all.
+
+Meanwhile, thanks to the wonders of multiplication, a 600dpi version of the same image is much sharper to zoom in on but is also about 35mb in size. A PDF, which is a vector rather than a raster format, is even bigger, weighing in at 63MB. Rendering a PDF with that many vector elements does not make Preview or Illustrator happy, let me tell you. The benefit of course is that you can scale it up to any size you like without loss, as shown above. Because browsers are crazy and so is javascript, it’s possible to serve up dot density maps like this in real time in a way that makes them zoomable and fluid, but that’s not my department.</source:markdown>
       <guid>cid://https://kieranhealy.org/blog/archives/2025/11/06/mamdani-vs-sliwa-and-cuomo/</guid>
     </item>    <item>
       <title>Erica Chenoweth on the Power of Peaceful Resistance</title>
@@ -2263,62 +2444,6 @@ The only thing that doesn’t work is communicating via the web interface about 
 [#Git](/search/?q=%23Git)</source:markdown>
       <guid>cid://https://alexschroeder.ch/view/2025-10-02-git-cli</guid>
     </item>    <item>
-      <title>2025-11-06 Bye bye USA</title>
-      <link>https://alexschroeder.ch/view/2025-11-06-usa</link>
-      <description>
-        <![CDATA[<h1 id="2025-11-06-bye-bye-usa">2025-11-06 Bye bye USA</h1>
-        
-        <p>I haven&rsquo;t travelled to the US in many years. I made an exception a few years ago because my wife wanted to see <a href="Hawaii">Hawaii</a> again. Before that, I hadn&rsquo;t travelled to the US in many years, too.</p>
-        
-        <p>Those were the Snowden years. The Home Security years. The Patriot Act years. Remember?</p>
-        
-        <p>These day&rsquo;s it&rsquo;s even worse.</p>
-        
-        <p>A friend wanted some advice about moving customer data from on-premise in Switzerland to a US cloud compute provider, nominally in Switzerland. We had a long chat about political pressure and authoritarian governments. I think she challenged her team that is in charge of the long project (you know those projects where you need to answer hundreds of questions in huge Excel sheets) with the question: Would you move this data to a Chinese cloud hosting provider? Of course not, that&rsquo;s different, they said. And the two of us wondered for how long.</p>
-        
-        <p>We talked about Microsoft saying in Paris that the US government would get access to customer data on Microsoft hosts if it really wanted to, even if hosted in Europe; about the International Criminal Court (ICC) ditching Microsoft Office because Microsoft had locked them out of all their services, because the credit card institutes had locked them all out of their services, all at the behest of the US president.</p>
-        
-        <p>We talked about the Swiss army chief opposing the current move of the federal administration to the Microsoft cloud; the Swiss federal court in Lausanne not using Microsoft as far as possible; the canton of Lucerne suddenly realising what they are are about to give up with a move to Microsoft; about people saying that Switzerland should stop paying for the F-35 after one billion spent since it may or may not arrive if we pay the remaining six billion, and if it does, we don&rsquo;t know if it&rsquo;ll work, and if it works, we don&rsquo;t know if the US president won&rsquo;t disable them just to make a point.</p>
-        
-        <p>We talked about Trump and how people are no longer trusting that the US is an ally, a friend, a partner to rely on.</p>
-        
-        <p>Each example is a small event on the global scale, but together they start building up. If you&rsquo;re a C-level executive, do you want to be the person that decided handing the company keys to a company in the US, where IT leaders make $1,000,000 presents and kiss the president&rsquo;s arse at a dinner, on camera? Will they stand up for you? Of course not. Will the heads of the local branches stand up for you? Of course not.</p>
-        
-        <p>If people can avoid dealing with authoritarian strongmen, they do it. If people start dealing with organised crime, their woes never end.</p>
-        
-        <p>Switzerland has an app-based electronic payment system called TWINT. I prefer it over Visa and Mastercard. I also want to get back to using a lot of cash. I stopped that with the onset of the pandemic in 2020. But I&rsquo;m doing my part voting with my wallet.</p>
-        
-        <p>We distrust China because they&rsquo;re authoritarians. We distrust Russia because they&rsquo;re authoritarians. Why should we trust the USA since they&rsquo;re slowly turning into authoritarians.</p>
-        
-        <p><a class="tag" href="/search/?q=%23USA">#USA</a></p>]]>
-      </description>
-      <source:markdown># 2025-11-06 Bye bye USA
-
-I haven’t travelled to the US in many years. I made an exception a few years ago because my wife wanted to see [Hawaii](Hawaii) again. Before that, I hadn’t travelled to the US in many years, too.
-
-Those were the Snowden years. The Home Security years. The Patriot Act years. Remember?
-
-These day’s it’s even worse.
-
-A friend wanted some advice about moving customer data from on-premise in Switzerland to a US cloud compute provider, nominally in Switzerland. We had a long chat about political pressure and authoritarian governments. I think she challenged her team that is in charge of the long project (you know those projects where you need to answer hundreds of questions in huge Excel sheets) with the question: Would you move this data to a Chinese cloud hosting provider? Of course not, that’s different, they said. And the two of us wondered for how long.
-
-We talked about Microsoft saying in Paris that the US government would get access to customer data on Microsoft hosts if it really wanted to, even if hosted in Europe; about the International Criminal Court (ICC) ditching Microsoft Office because Microsoft had locked them out of all their services, because the credit card institutes had locked them all out of their services, all at the behest of the US president.
-
-We talked about the Swiss army chief opposing the current move of the federal administration to the Microsoft cloud; the Swiss federal court in Lausanne not using Microsoft as far as possible; the canton of Lucerne suddenly realising what they are are about to give up with a move to Microsoft; about people saying that Switzerland should stop paying for the F-35 after one billion spent since it may or may not arrive if we pay the remaining six billion, and if it does, we don’t know if it’ll work, and if it works, we don’t know if the US president won’t disable them just to make a point.
-
-We talked about Trump and how people are no longer trusting that the US is an ally, a friend, a partner to rely on.
-
-Each example is a small event on the global scale, but together they start building up. If you’re a C-level executive, do you want to be the person that decided handing the company keys to a company in the US, where IT leaders make $1,000,000 presents and kiss the president’s arse at a dinner, on camera? Will they stand up for you? Of course not. Will the heads of the local branches stand up for you? Of course not.
-
-If people can avoid dealing with authoritarian strongmen, they do it. If people start dealing with organised crime, their woes never end.
-
-Switzerland has an app-based electronic payment system called TWINT. I prefer it over Visa and Mastercard. I also want to get back to using a lot of cash. I stopped that with the onset of the pandemic in 2020. But I’m doing my part voting with my wallet.
-
-We distrust China because they’re authoritarians. We distrust Russia because they’re authoritarians. Why should we trust the USA since they’re slowly turning into authoritarians.
-
-[#USA](/search/?q=%23USA)</source:markdown>
-      <guid>cid://https://alexschroeder.ch/view/2025-11-06-usa</guid>
-    </item>    <item>
       <title>Estate</title>
       <link>https://lithub.com/estate/</link>
       <description>
@@ -2899,6 +3024,15 @@ The post [Casio FX9000P RAM replacement](https://www.raspberrypi.com/news/casio-
       <source:markdown>Singles’ Day is a $150B holiday in China. Here’s why they think ‘11/11’ will catch on in the US.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/11/05/1817/</guid>
     </item>    <item>
+      <title>Seven data-driven lessons from the 2025 elections</title>
+      <link>https://www.gelliottmorris.com/p/seven-data-driven-takeaways-from</link>
+      <description>
+        <![CDATA[Democrats outran their polls and swept statewide races from Georgia to New Jersey, on an agenda of affordability and a broad anti-Trump backlash]]>
+      </description>
+      <source:markdown>Democrats outran their polls and swept statewide races from Georgia to New Jersey, on an agenda of affordability and a broad anti-Trump backlash</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!1-Ri!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feca48b1e-795a-463b-b179-7041574f23b8_1137x825.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/seven-data-driven-takeaways-from</guid>
+    </item>    <item>
       <title>What Happened to My Political Novel When I Resisted Satire and Leaned Into Idealism</title>
       <link>https://lithub.com/what-happened-to-my-political-novel-when-i-resisted-satire-and-leaned-into-idealism/</link>
       <description>
@@ -3276,6 +3410,15 @@ Well, apparently the engineering:
 
 Jeff GeerlingNovember 4, 2025</source:markdown>
       <guid>cid://3509 at https://www.jeffgeerling.com</guid>
+    </item>    <item>
+      <title>How to watch tonight&#39;s statewide election results, plus final forecasts in key races</title>
+      <link>https://www.gelliottmorris.com/p/how-to-watch-tonights-statewide-election</link>
+      <description>
+        <![CDATA[What the early and Election Day turnout data is saying in Virginia and New Jersey]]>
+      </description>
+      <source:markdown>What the early and Election Day turnout data is saying in Virginia and New Jersey</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/2aa05245-f55c-411f-90ad-e571cc397f53_600x300.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/how-to-watch-tonights-statewide-election</guid>
     </item>    <item>
       <title>&#38;#8220;Stone Simulator is a meditative idle game where you live as a...</title>
       <link>https://kottke.org/25/11/0047775-stone-simulator-is-a-medi</link>
@@ -3829,6 +3972,15 @@ La entrada [Maldita suerte: apuestas insaciables](https://www.palomitademaiz.net
       <title>&#38;#8220;Originally released in 1982, the Vectrex was a truly unique console, featuring...</title>
       <link>https://kottke.org/25/11/0047779-originally-released-in-19</link>
       <guid>cid://tag:kottke.org,2025://13.47779</guid>
+    </item>    <item>
+      <title>Election Preview With Steve Schmidt</title>
+      <link>https://www.telos.news/p/election-preview-with-steve-schmidt</link>
+      <description>
+        <![CDATA[PLUS: The courage of Jack Smith and a World Series wrap-up.]]>
+      </description>
+      <source:markdown>PLUS: The courage of Jack Smith and a World Series wrap-up.</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/177912623/d3ae3e3f8daf929d056736344b487f80.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.telos.news/p/election-preview-with-steve-schmidt</guid>
     </item>    <item>
       <title>Game on! Penguin levels up as Linux finally cracks 3% on Steam</title>
       <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/11/04/steam_on_linux_numbers_up/</link>
@@ -5750,6 +5902,15 @@ Mikie will work to create jobs, lower costs, and do what’s right for the peopl
       <source:markdown>“Don’t be foolish enough to let Pete Alonso go!” says Keith Hernandez, of the legendary slugger of the Mets.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/11/02/1765/</guid>
     </item>    <item>
+      <title>The Democrats&#39; problem in the Senate is not progressives | Weekly roundup for November 2, 2025</title>
+      <link>https://www.gelliottmorris.com/p/democrats-need-a-bigger-senate-solution</link>
+      <description>
+        <![CDATA[Their big problem is not a lack of moderates, it's nationalization of party brands. And: A new era for the exit poll; The end game of partisan gerrymandering; and how Substack's AI works. + more!]]>
+      </description>
+      <source:markdown>Their big problem is not a lack of moderates, it&#39;s nationalization of party brands. And: A new era for the exit poll; The end game of partisan gerrymandering; and how Substack&#39;s AI works. + more!</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!s8zW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07d9a2c1-489b-45f7-b5a5-56c3b42de29c_789x718.webp" length="0" type="image/jpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/democrats-need-a-bigger-senate-solution</guid>
+    </item>    <item>
       <link>https://electrek.co/2025/11/02/new-national-law-will-turn-large-parking-lots-into-solar-power-farms/</link>
       <description>
         <![CDATA[<p>New (South Korean) national law will turn large parking lots into solar power farms.</p>]]>
@@ -7517,6 +7678,15 @@ Tags: [entrepreneurship](https://simonwillison.net/tags/entrepreneurship), [open
       </description>
       <source:markdown>In Trump’s America, Are We Losing Our Democracy?</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/31/1743/</guid>
+    </item>    <item>
+      <title>New poll: Voters want Democrats to win in NJ, VA and in 2026, as they push back on Trump</title>
+      <link>https://www.gelliottmorris.com/p/new-poll-voters-want-democrats-to</link>
+      <description>
+        <![CDATA[Plus: Voters trust Democrats more than Republicans to handle the economy; a majority of voters say Trump is acting above the law; and 62% say the country is off on the wrong track]]>
+      </description>
+      <source:markdown>Plus: Voters trust Democrats more than Republicans to handle the economy; a majority of voters say Trump is acting above the law; and 62% say the country is off on the wrong track</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!TJZY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55b6c889-40f4-4357-92c1-3bfe87167be0_1240x972.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/new-poll-voters-want-democrats-to</guid>
     </item>    <item>
       <title>Will AI Strengthen or Undermine Democracy?</title>
       <link>https://www.schneier.com/blog/archives/2025/10/will-ai-strengthen-or-undermine-democracy.html</link>
@@ -9598,6 +9768,15 @@ And the _real_ takeaway:
 Doom takes place on Mars, but up until recently, it has only been played on Earth. However, at the Ubuntu Summit, one enterprising developer explained how he extended the well-established &#34;will it run Doom?&#34; meme all the way into space.</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242711</guid>
     </item>    <item>
+      <title>A Third Term for Trump?</title>
+      <link>https://www.telos.news/p/a-third-term-for-trump</link>
+      <description>
+        <![CDATA[PLUS: The destruction of the East Wing (and the corporate donors who made it happen), and Kamala Harris&#8217;s 2028 trial balloon.]]>
+      </description>
+      <source:markdown>PLUS: The destruction of the East Wing (and the corporate donors who made it happen), and Kamala Harris’s 2028 trial balloon.</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/177290566/a047c9a40da5b7106d6b47f457c5fb31.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.telos.news/p/a-third-term-for-trump</guid>
+    </item>    <item>
       <title>Trump Admin’s Racist Halo Memes Are ‘A New Level of Dehumanization of Immigrants’</title>
       <link>https://www.404media.co/trump-admins-racist-halo-memes-are-a-new-level-of-dehumanization-of-immigrants/</link>
       <description>
@@ -10313,6 +10492,15 @@ I have no idea why [their top level domain is for the British Indian Ocean Terri
       </description>
       <source:markdown>Elon Musk launches Grokipedia, an AI-powered Wikipedia rival.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/28/1707/</guid>
+    </item>    <item>
+      <title>The Strategist’s Fallacy in American politics</title>
+      <link>https://www.gelliottmorris.com/p/the-strategists-fallacy</link>
+      <description>
+        <![CDATA[The average American voter does not think about politics the way elite strategists and pundits do]]>
+      </description>
+      <source:markdown>The average American voter does not think about politics the way elite strategists and pundits do</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/c2115fea-b899-4f8a-8fe8-061023db524c_1536x863.webp" length="0" type="image/jpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/the-strategists-fallacy</guid>
     </item>    <item>
       <title>The Java Developer’s Dilemma: Part 3</title>
       <link>https://www.oreilly.com/radar/the-java-developers-dilemma-part-3/</link>
@@ -12699,6 +12887,15 @@ The post [Roger Pielke Jr.’s Appallingly Bad Analysis of Billion Dollar Disast
 Coco in the sun.</source:markdown>
       <guid>cid://https://adactio.com/notes/22209</guid>
     </item>    <item>
+      <title>The New York Times is wrong about the electoral value of moderation | Weekly roundup for October 26, 2025</title>
+      <link>https://www.gelliottmorris.com/p/the-new-york-times-makes-several</link>
+      <description>
+        <![CDATA[The paper's arguments hinge on several methodological flaws, and it dismisses valid empirical alternatives. Plus: Gerrymandering, and the Republicans' lost lead on economics]]>
+      </description>
+      <source:markdown>The paper&#39;s arguments hinge on several methodological flaws, and it dismisses valid empirical alternatives. Plus: Gerrymandering, and the Republicans&#39; lost lead on economics</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Xl5v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1f8445a-c1f2-41dc-987c-429989fe0641_2048x1024.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/the-new-york-times-makes-several</guid>
+    </item>    <item>
       <title>The Rise of Renewable Energy</title>
       <link>https://paulkrugman.substack.com/p/the-rise-of-renewable-energy</link>
       <description>
@@ -13807,6 +14004,15 @@ The post [Tales from Toddlerhood](https://waitbutwhy.com/2025/10/toddler.html) a
       </description>
       <source:markdown>Trump Isn’t Waiting For The Insurrection Act To Turn The Military On American Citizens.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/24/1649/</guid>
+    </item>    <item>
+      <title>Polls show voters now trust Democrats more to handle the economy</title>
+      <link>https://www.gelliottmorris.com/p/polls-show-voters-trust-democrats</link>
+      <description>
+        <![CDATA[The issue that sank Democrats in 2024 now threatens to do the same to Republicans in 2025 and the 2026 midterms]]>
+      </description>
+      <source:markdown>The issue that sank Democrats in 2024 now threatens to do the same to Republicans in 2025 and the 2026 midterms</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!wLSI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee85c856-c470-4a2f-b2e5-7a0664823e17_1220x1050.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/polls-show-voters-trust-democrats</guid>
     </item>    <item>
       <title>Friday morning tunes and tea</title>
       <link>https://adactio.com/notes/22208</link>
@@ -16856,6 +17062,15 @@ Tags: [accessibility](https://simonwillison.net/tags/accessibility), [aria](http
       <source:markdown>Gotosocial is a great idea, but can&#39;t it be simpler to set up a server? If not, let&#39;s look at creating a higher level interface that can then be bridged to ActivityPub.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/10/21/1587/</guid>
     </item>    <item>
+      <title>What Comes After No Kings?</title>
+      <link>https://www.telos.news/p/what-comes-after-no-kings</link>
+      <description>
+        <![CDATA[A conversation with Steve Schmidt]]>
+      </description>
+      <source:markdown>A conversation with Steve Schmidt</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/176664779/09bdd3a7dd41bf9829a2056c4f36fb8a.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.telos.news/p/what-comes-after-no-kings</guid>
+    </item>    <item>
       <link>http://scripting.com/2025/10/21.html#a174606</link>
       <description>
         <![CDATA[Journalists report conventional wisdom <a href="https://bsky.app/profile/scripting.com/post/3m3pcpyxlck2y">thread</a> on Bluesky.]]>
@@ -17435,6 +17650,15 @@ Just under four years after the Linux kernel gained built-in read-write access t
       <title>An Incredible Waste</title>
       <link>https://onefoottsunami.com/2025/10/21/an-incredible-waste/</link>
       <guid>cid://https://onefoottsunami.com/?p=29315</guid>
+    </item>    <item>
+      <title>No Kings Day numbers update; and Democrats pull ahead in national party ID polls</title>
+      <link>https://www.gelliottmorris.com/p/no-kings-numbers-update-and-democrats</link>
+      <description>
+        <![CDATA[What to make of this? Plus, the size of the anti-Trump, pro-GOP bloc; and polls on mass deportations. This is the Strength In Numbers October 2025 Q&A.]]>
+      </description>
+      <source:markdown>What to make of this? Plus, the size of the anti-Trump, pro-GOP bloc; and polls on mass deportations. This is the Strength In Numbers October 2025 Q&#38;A.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!qea3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50db95f2-a1ae-4ff5-99ee-f3787b756093_686x669.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/no-kings-numbers-update-and-democrats</guid>
     </item>    <item>
       <title>The Java Developer’s Dilemma: Part 2</title>
       <link>https://www.oreilly.com/radar/the-java-developers-dilemma-part-2/</link>
@@ -20195,6 +20419,15 @@ A social network that starts out with no centralization and open in every sense 
       <enclosure url="https://substackcdn.com/image/fetch/$s_!BK8M!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8212a3ed-0b93-4666-82ff-f27808032291_5134x3435.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://steady.substack.com/p/get-your-kicks-on-route-66</guid>
     </item>    <item>
+      <title>Shutdowns are dumb and voters hate them | Weekly roundup for October 19, 2025</title>
+      <link>https://www.gelliottmorris.com/p/voters-say-shutdowns-are-whats-wrong</link>
+      <description>
+        <![CDATA[If you&#8217;re going to shut down the government, do it because you think it's worth it. Also this week: The VRA, gerrymandering and the midterms; party favorability ratings update; + more!]]>
+      </description>
+      <source:markdown>If you’re going to shut down the government, do it because you think it&#39;s worth it. Also this week: The VRA, gerrymandering and the midterms; party favorability ratings update; + more!</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!_Gue!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1577d1c-d250-444e-a9e7-4af0c1b2a7d9_1322x718.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/voters-say-shutdowns-are-whats-wrong</guid>
+    </item>    <item>
       <title>Technology and Jobs</title>
       <link>https://paulkrugman.substack.com/p/technology-and-jobs</link>
       <description>
@@ -20212,6 +20445,15 @@ A social network that starts out with no centralization and open in every sense 
       <source:markdown>The connection between No Kings Day 2.0 and victory</source:markdown>
       <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/52fb0b0b-7de4-4f82-8330-0ed2f76fb087_3500x2651.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/sunday-thought-in-solidarity</guid>
+    </item>    <item>
+      <title>Second &#34;No Kings Day&#34; protests the largest single-day political protest ever*, with 5-6.5 million participants</title>
+      <link>https://www.gelliottmorris.com/p/second-no-kings-day-protests-likely</link>
+      <description>
+        <![CDATA[Here are the initial results from our crowdsourced crowd-counting estimates]]>
+      </description>
+      <source:markdown>Here are the initial results from our crowdsourced crowd-counting estimates</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!kYBW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b9e9def-a62c-4171-9ebe-06816fb0b49d_1240x988.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/second-no-kings-day-protests-likely</guid>
     </item>    <item>
       <title>October 18, 2025</title>
       <link>https://heathercoxrichardson.substack.com/p/october-18-2025</link>
