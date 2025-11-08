@@ -7,7 +7,7 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>08 Nov 25 06:12 -0800</lastBuildDate>
+    <lastBuildDate>08 Nov 25 10:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -26,6 +26,14 @@
       </description>
       <source:markdown>City officials and community organizers came together for a summit Thursday to strategize how to expand the Unarmed Model of Crisis Response citywide by the 2028 Olympics.</source:markdown>
       <guid>cid://urn:uuid:0000019a-600b-d922-af9b-e9cb1b710000</guid>
+    </item>    <item>
+      <title>Hundreds of Dodger fans to cut a river of blue through Griffith Park this Sunday</title>
+      <link>https://laist.com/news/los-angeles-activities/hundreds-of-dodger-fans-to-cut-a-river-of-blue-through-griffith-park-this-sunday</link>
+      <description>
+        <![CDATA[They are part of Dodgers Blue Hiking Crew, a group of diehards combining their love for the team with the great outdoors. Their celebratory hike is this weekend.]]>
+      </description>
+      <source:markdown>They are part of Dodgers Blue Hiking Crew, a group of diehards combining their love for the team with the great outdoors. Their celebratory hike is this weekend.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5b33-ddb1-a59a-df77d31e0000</guid>
     </item>    <item>
       <title>Hundreds of Dodger fans to cut a river of blue through Griffith Park this Sunday</title>
       <link>https://laist.com/hundreds-of-dodger-fans-to-cut-a-river-of-blue-through-griffith-park-this-sunday</link>

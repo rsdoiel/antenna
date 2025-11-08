@@ -7,11 +7,45 @@
       Going Electric has feeds involving home and transportation options powered by Electricity
     </description>
     <link>https://rsdoiel.github.io/antenna/going_electric.xml</link>
-    <lastBuildDate>08 Nov 25 06:12 -0800</lastBuildDate>
+    <lastBuildDate>08 Nov 25 10:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Schrödinger’s FSD: When it works well, Tesla is driving. When it doesn’t, you are.</title>
+      <title>The 800-Volt Volvo EX60 Will Be Cheaper Than You Think</title>
+      <link>https://insideevs.com/news/778303/volvo-ex60-phev-price-parity/</link>
+      <description>
+        <![CDATA[Thanks to advancements in manufacturing, as well as powertrain and batteries, the Volvo EX60 will cost plug-in hybrid money.]]>
+      </description>
+      <source:markdown>Thanks to advancements in manufacturing, as well as powertrain and batteries, the Volvo EX60 will cost plug-in hybrid money.</source:markdown>
+      <enclosure url="https://cdn.motor1.com/images/mgl/qkqoxq/s3/volvo-revela-primeiras-imagens-do-volvo-ex60.jpg" length="10148" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/778303/volvo-ex60-phev-price-parity/</guid>
+    </item>    <item>
+      <title>New Mitsubishi Eclipse electric crossover gets real with 370 miles of range</title>
+      <link>https://electrek.co/2025/11/08/new-mitsubishi-eclipse-electric-crossover-gets-real-with-370-miles-of-range/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/11/eclipse_MAIN.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>This one is bound to upset the DSM purists still out there — meet the all-new Mitsubishi Eclipse Cross, an all-electric crossover with over 370 miles of range that’s rolling out to European dealers as you read this. (!)</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="mitsubishi,renault" data-layer-viewtype="unknown" data-post-id="442787" href="https://electrek.co/2025/11/08/new-mitsubishi-eclipse-electric-crossover-gets-real-with-370-miles-of-range/#more-442787" class="more-link">more…</a>]]>
+      </description>
+      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2025/11/eclipse_MAIN.jpg?quality=82&#38;strip=all&#38;w=1400)
+
+This one is bound to upset the DSM purists still out there — meet the all-new Mitsubishi Eclipse Cross, an all-electric crossover with over 370 miles of range that’s rolling out to European dealers as you read this. (!)
+
+ [more…](https://electrek.co/2025/11/08/new-mitsubishi-eclipse-electric-crossover-gets-real-with-370-miles-of-range/#more-442787)</source:markdown>
+      <guid>cid://https://electrek.co/?p=442787</guid>
+    </item>    <item>
+      <title>Rivian Dangles A $5 Billion Payday For RJ Scaringe. Here&#39;s What It Will Take</title>
+      <link>https://insideevs.com/news/778379/rivian-rj-scaringe-billion-dollar-pay-package/</link>
+      <description>
+        <![CDATA[The new compensation plan could make Scaringe a billionaire, but only if Rivian can actually turn a profit.]]>
+      </description>
+      <source:markdown>The new compensation plan could make Scaringe a billionaire, but only if Rivian can actually turn a profit.</source:markdown>
+      <enclosure url="https://cdn.motor1.com/images/mgl/lEleXW/s3/rivian-rj-scaringe-r3.jpg" length="19362" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/778379/rivian-rj-scaringe-billion-dollar-pay-package/</guid>
+    </item>    <item>
+      <title>When Tesla’s FSD works well, it gets credit. When it doesn’t, you get blamed.</title>
       <link>https://electrek.co/2025/11/08/schrodingers-fsd-when-things-go-well-teslas-driving-when-they-dont-you-are/</link>
       <description>
         <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/tesla-autopilot-crash-florida-mcgee-monroe-county-sheriff.webp?w=1076" /></div><p>Tesla has engaged in a pattern of taking credit for the successes of its Full Self-Driving (FSD) software, even though the car still relies on an attentive driver, and yet blaming the driver rather than the software whenever things go badly.</p>
