@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>08 Nov 25 10:10 -0800</lastBuildDate>
+    <lastBuildDate>08 Nov 25 10:31 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -5182,6 +5182,18 @@ This system assigns action items and determines the importance of what is said. 
 But clever meeting attendees can manipulate this system’s record by speaking more to what the underlying AI weights for summarization and importance than to their colleagues. As a result, you can expect some meeting attendees to use language more likely to be captured in summaries, timing their interventions strategically, repeating key points, and employing formulaic phrasing that AI models are more likely to pick up on. Welcome to the world of AI summarization optimization (AISO)...</source:markdown>
       <guid>cid://https://www.schneier.com/?p=71086</guid>
     </item>    <item>
+      <title>Rogue Scholar is becoming a German Non-Profit Organization</title>
+      <link>https://blog.front-matter.io/posts/rogue-scholar-german-non-profit-organization/</link>
+      <description>
+        <![CDATA[The science blog archive Rogue Scholar started the process of becoming a German non-profit organization in 2026. This blog post summarizes the reasoning and the main steps needed to achieve this.
+        
+        Two weeks ago, I published a self-assessment of how Rogue Scholar adheres to the Principles of Open Scholarly Infrastructure]]>
+      </description>
+      <source:markdown>The science blog archive Rogue Scholar started the process of becoming a German non-profit organization in 2026. This blog post summarizes the reasoning and the main steps needed to achieve this.
+
+Two weeks ago, I published a self-assessment of how Rogue Scholar adheres to the Principles of Open Scholarly Infrastructure</source:markdown>
+      <guid>cid://https://doi.org/10.53731/rftfk-qv692</guid>
+    </item>    <item>
       <title>We’re Number Two!</title>
       <link>https://paulkrugman.substack.com/p/were-number-two</link>
       <description>
@@ -7480,6 +7492,23 @@ As usual, you can also use this squid post to talk about the security stories in
       </description>
       <source:markdown>Happy Halloween! I haven’t seen enough fun literary costumes in real life or on social media—what are the book people going as this year? The closest I’m getting is my niece dressing up as a black cat this year, which</source:markdown>
       <guid>cid://https://lithub.com/?p=262135</guid>
+    </item>    <item>
+      <title>Rogue Scholar Newsletter October 2025</title>
+      <link>https://blog.front-matter.io/posts/rogue-scholar-newsletter-october-2025/</link>
+      <description>
+        <![CDATA[This is the October issue of the monthly newsletter from the Rogue Scholar science blog archive. The newsletter reports on new blogs that have joined the platform, important technical updates in Rogue Scholar infrastructure, community updates, and other news relevant to Rogue Scholar users.
+        
+        
+        Blogs added to Rogue Scholar
+        
+        Ten]]>
+      </description>
+      <source:markdown>This is the October issue of the monthly newsletter from the Rogue Scholar science blog archive. The newsletter reports on new blogs that have joined the platform, important technical updates in Rogue Scholar infrastructure, community updates, and other news relevant to Rogue Scholar users.
+
+Blogs added to Rogue Scholar
+
+Ten</source:markdown>
+      <guid>cid://https://doi.org/10.53731/d0wwa-gwz14</guid>
     </item>    <item>
       <title>Joanna Stern on the 1X Neo, a Humanoid ‘Robot’ Housekeeper That Is Actually Remote-Controlled by Humans</title>
       <link>https://www.wsj.com/tech/personal-tech/i-tried-the-robot-thats-coming-to-live-with-you-its-still-part-human-68515d44?st=guXssw&#38;reflink=desktopwebshare_permalink</link>
@@ -10946,6 +10975,18 @@ abigailspanberger.com/vote/
       </description>
       <source:markdown>The general who advised Netflix’s nuclear Armageddon movie doesn’t believe in abolishing nuclear weapons.</source:markdown>
       <guid>cid://68ffbabcdbf2dc00011ed0c9</guid>
+    </item>    <item>
+      <title>Supporting blog contributions beyond authorship</title>
+      <link>https://blog.front-matter.io/posts/supporting-blog-contributions-beyond-authorship/</link>
+      <description>
+        <![CDATA[This week the Rogue Scholar science blog archive has launched a new feature: contributor roles. Blog posts can now have contributor roles attached to each author, and this information is shown in the Rogue Scholar and Crossref metadata.
+        
+        We have discussed contributor roles for blog posts for several months, in]]>
+      </description>
+      <source:markdown>This week the Rogue Scholar science blog archive has launched a new feature: contributor roles. Blog posts can now have contributor roles attached to each author, and this information is shown in the Rogue Scholar and Crossref metadata.
+
+We have discussed contributor roles for blog posts for several months, in</source:markdown>
+      <guid>cid://https://doi.org/10.53731/9t6xx-kht30</guid>
     </item>    <item>
       <title>Pour une « nétiquette » de l’IA générative [en]</title>
       <link>https://climbtothestars.org/archives/2025/10/27/pour-une-netiquette-de-lia-generative/</link>
@@ -19115,6 +19156,14 @@ Having a coffee with Mango.
 
 Confession: I can never remember the actual name of the coffee shop so in my mind it’s Mango’s.</source:markdown>
       <guid>cid://https://adactio.com/notes/22202</guid>
+    </item>    <item>
+      <title>Rogue Scholar follows the Principles of Open  Scholarly Infrastructure (POSI)</title>
+      <link>https://blog.front-matter.io/posts/rogue-scholar-follows-posi/</link>
+      <description>
+        <![CDATA[With this blog post, the science blog archive Rogue Scholar starts the formal process to adhere to the Principles of Open Scholarly Infrastructure (POSI). To do so, an organization has to perform a self-audit of its compliance with the principles, with a focus on principles and not hard rules. POSI]]>
+      </description>
+      <source:markdown>With this blog post, the science blog archive Rogue Scholar starts the formal process to adhere to the Principles of Open Scholarly Infrastructure (POSI). To do so, an organization has to perform a self-audit of its compliance with the principles, with a focus on principles and not hard rules. POSI</source:markdown>
+      <guid>cid://https://doi.org/10.53731/m65a8-6sm21</guid>
     </item>    <item>
       <title>Apple TV to air F1 races in the US for the next...</title>
       <link>https://kottke.org/25/10/0047731-apple-tv-to-air-f1</link>

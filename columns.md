@@ -327,4 +327,5 @@ description: Blogs, columns and snapshots from around the web.
 - [Notes from the circus](https://www.notesfromthecircus.com/feed)
 - [Strength in Numbere](https://www.gelliottmorris.com/feed)
 - [Telos News](https://www.telos.news/feed)
+- [Front Matter Blog (Martin Fenner)](https://blog.front-matter.io/atom/)
 

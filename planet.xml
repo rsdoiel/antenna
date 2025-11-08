@@ -4,10 +4,18 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>08 Nov 25 10:10 -0800</lastBuildDate>
+    <lastBuildDate>08 Nov 25 10:31 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>National Council of Family Carers holds first meeting</title>
+      <link>https://www.rte.ie/news/ireland/2025/1108/1542919-carers-council/</link>
+      <description>
+        <![CDATA[The first ever meeting of the new National Council of Family Carers was held in Dublin today.]]>
+      </description>
+      <source:markdown>The first ever meeting of the new National Council of Family Carers was held in Dublin today.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/1108/1542919-carers-council/</guid>
+    </item>    <item>
       <title>Quentin Willson, former Top Gear presenter, dies</title>
       <link>https://www.rte.ie/entertainment/2025/1108/1542907-quentin-willson-former-top-gear-presenter-dies/</link>
       <description>
