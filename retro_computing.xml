@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>09 Nov 25 10:11 -0800</lastBuildDate>
+    <lastBuildDate>09 Nov 25 14:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2025/11/09 - What a difference a day can make!, More bad English, Time changes everything.</title>
+      <link>https://heyrick.eu/blog/entry/20251109</link>
+      <description>
+        <![CDATA[What a difference a day can make!, More bad English, Time changes everything.]]>
+      </description>
+      <source:markdown>What a difference a day can make!, More bad English, Time changes everything.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20251109</guid>
+    </item>    <item>
       <title>UltimaVM: Update 2025-11-08 – More features added to Ultima – Function pointers, Code sections and more</title>
       <link>https://paolozaino.wordpress.com/2025/11/09/ultimavm-update-2025-11-08-more-features-added-to-ultima-function-pointers-code-sections-and-more/</link>
       <description>

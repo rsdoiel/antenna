@@ -4,11 +4,19 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>09 Nov 25 10:11 -0800</lastBuildDate>
+    <lastBuildDate>09 Nov 25 14:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>NFL week 10: Colts edge Falcons in Berlin, Bucs v Patriots, Vikings v Ravens and more – live</title>
+      <title>What the push for affordability reveals about wealth inequality</title>
+      <link>https://www.npr.org/2025/11/09/nx-s1-5600960/what-the-push-for-affordability-reveals-about-wealth-inequality</link>
+      <description>
+        <![CDATA[Columbia University professor and Nobel Prize laureate Joseph Stiglitz warns that unchecked inequality is pushing America toward economic and political peril.]]>
+      </description>
+      <source:markdown>Columbia University professor and Nobel Prize laureate Joseph Stiglitz warns that unchecked inequality is pushing America toward economic and political peril.</source:markdown>
+      <guid>cid://https://www.npr.org/2025/11/09/nx-s1-5600960/what-the-push-for-affordability-reveals-about-wealth-inequality</guid>
+    </item>    <item>
+      <title>NFL week 10: Dolphins stun Bills, Patriots edge out Buccaneers and Bears roar back to beat Giants – live</title>
       <link>https://www.theguardian.com/sport/live/2025/nov/09/nfl-week-10-live-vikings-ravens-jets-browns-dolphins-bills-live</link>
       <description>
         <![CDATA[<ul><li><p>Jonathan Taylor touchdown seals 31-25 OT win</p></li><li><p>Send <a href="mailto:tom.bassam.casual@theguardian.com">Graham</a> an email with your thoughts</p></li></ul><p><strong>Colts 13-7 Falcons 4:36, 1st quarter</strong></p><p>And our commentary team kindly informs us that Pierce’s brother played basketball in Germany. So him scoring today was meant to be I suppose.</p> <a href="https://www.theguardian.com/sport/live/2025/nov/09/nfl-week-10-live-vikings-ravens-jets-browns-dolphins-bills-live">Continue reading...</a>]]>
@@ -25,19 +33,19 @@ And our commentary team kindly informs us that Pierce’s brother played basketb
  [Continue reading...](https://www.theguardian.com/sport/live/2025/nov/09/nfl-week-10-live-vikings-ravens-jets-browns-dolphins-bills-live)</source:markdown>
       <guid>cid://https://www.theguardian.com/sport/live/2025/nov/09/nfl-week-10-live-vikings-ravens-jets-browns-dolphins-bills-live</guid>
     </item>    <item>
-      <title>They flew to New York to help Mamdani – now they want to bring the hope to LA</title>
-      <link>https://www.theguardian.com/us-news/2025/nov/09/new-york-zohran-mamdani-los-angeles</link>
+      <title>US agriculture department tells states to ‘undo’ Snap benefits for families in need</title>
+      <link>https://www.theguardian.com/us-news/2025/nov/09/usda-trump-undo-snap-food-aid-payments</link>
       <description>
-        <![CDATA[<p>Activists in Los Angeles say the energy from the Hollywood strikes has been reignited by the success of the mayor-elect</p><p>While the excitement for mayor-elect Zohran Mamdani has radiated through New York, his win has also energized young activists across the country – particularly some in Los Angeles, who flew to the east coast to canvass for Mamdani and now want to bring their experiences westward.</p><p>Standing near the poll site at the Metropolitan Museum of Art, Neda Davarpanah – a screenwriter and actor based in Los Angeles – was inspired by Mamdani’s campaign for mayor so she flew out to New York in late October to canvass on the Upper East Side.</p> <a href="https://www.theguardian.com/us-news/2025/nov/09/new-york-zohran-mamdani-los-angeles">Continue reading...</a>]]>
+        <![CDATA[<p>Directive comes after supreme court order allowing Trump officials to pause food aid payments amid shutdown</p><p>The US Department of Agriculture (USDA) is directing states to “immediately undo” any steps that have been taken to send out full food aid benefits to low-income Americans, following a <a href="https://www.theguardian.com/us-news/2025/nov/07/white-house-snap-november-court-order">supreme court order</a> on Friday that temporarily halted a lower court order requiring those payments.</p><p>The USDA’s directive, issued in a <a href="https://www.fns.usda.gov/snap/updated-supplemental-nutrition-assistance-program-snap-november-benefit-issuance11-8">memo</a> on Saturday, followed a supreme court order granting the <a href="https://www.theguardian.com/us-news/trump-administration">Trump administration</a>’s emergency request to pause an order for the USDA to provide full Supplemental Nutrition Assistance Program (Snap) benefits during the ongoing <a href="https://www.theguardian.com/us-news/us-federal-government-shutdown-2025">federal government shutdown</a>, which is now in its 40th day.</p> <a href="https://www.theguardian.com/us-news/2025/nov/09/usda-trump-undo-snap-food-aid-payments">Continue reading...</a>]]>
       </description>
-      <source:markdown>Activists in Los Angeles say the energy from the Hollywood strikes has been reignited by the success of the mayor-elect
+      <source:markdown>Directive comes after supreme court order allowing Trump officials to pause food aid payments amid shutdown
 
-While the excitement for mayor-elect Zohran Mamdani has radiated through New York, his win has also energized young activists across the country – particularly some in Los Angeles, who flew to the east coast to canvass for Mamdani and now want to bring their experiences westward.
+The US Department of Agriculture (USDA) is directing states to “immediately undo” any steps that have been taken to send out full food aid benefits to low-income Americans, following a [supreme court order](https://www.theguardian.com/us-news/2025/nov/07/white-house-snap-november-court-order) on Friday that temporarily halted a lower court order requiring those payments.
 
-Standing near the poll site at the Metropolitan Museum of Art, Neda Davarpanah – a screenwriter and actor based in Los Angeles – was inspired by Mamdani’s campaign for mayor so she flew out to New York in late October to canvass on the Upper East Side.
+The USDA’s directive, issued in a [memo](https://www.fns.usda.gov/snap/updated-supplemental-nutrition-assistance-program-snap-november-benefit-issuance11-8) on Saturday, followed a supreme court order granting the [Trump administration](https://www.theguardian.com/us-news/trump-administration)’s emergency request to pause an order for the USDA to provide full Supplemental Nutrition Assistance Program (Snap) benefits during the ongoing [federal government shutdown](https://www.theguardian.com/us-news/us-federal-government-shutdown-2025), which is now in its 40th day.
 
- [Continue reading...](https://www.theguardian.com/us-news/2025/nov/09/new-york-zohran-mamdani-los-angeles)</source:markdown>
-      <guid>cid://https://www.theguardian.com/us-news/2025/nov/09/new-york-zohran-mamdani-los-angeles</guid>
+ [Continue reading...](https://www.theguardian.com/us-news/2025/nov/09/usda-trump-undo-snap-food-aid-payments)</source:markdown>
+      <guid>cid://https://www.theguardian.com/us-news/2025/nov/09/usda-trump-undo-snap-food-aid-payments</guid>
     </item>    <item>
       <title>Trump weighs giving Americans $2,000 from tariff revenues in bid for support</title>
       <link>https://www.theguardian.com/us-news/2025/nov/09/trump-tariffs-refund</link>
@@ -52,6 +60,77 @@ Standing near the poll site at the Metropolitan Museum of Art, Neda Davarpanah �
 
  [Continue reading...](https://www.theguardian.com/us-news/2025/nov/09/trump-tariffs-refund)</source:markdown>
       <guid>cid://https://www.theguardian.com/us-news/2025/nov/09/trump-tariffs-refund</guid>
+    </item>    <item>
+      <title>US sports betting crisis grows as MLB’s Clase and Ortiz indicted over alleged rigged pitches</title>
+      <link>https://www.theguardian.com/sport/2025/nov/09/emmanuel-clase-luis-ortiz-gambling-allegations-baseball</link>
+      <description>
+        <![CDATA[<ul><li><p>Pair could face 65 years in prison if found guilty</p></li><li><p>NBA also caught up in its own gambling scandal</p></li></ul><p><a href="https://www.theguardian.com/sport/2025/oct/23/heats-rozier-and-blazers-coach-billups-reportedly-arrested-over-separate-gambling-claims">The betting crisis in US sports</a> has spread further after Cleveland Guardians players Emmanuel Clase and Luis Ortiz were indicted over an alleged scheme to rig pitches during games.</p><p>Bettors on baseball can gamble on whether individual pitches will be balls or strikes. Prosecutors allege claim that Ortiz was paid $5,000 for throwing an intentional ball during a game on 15 June. His teammate Clase, a three-time All-Star, is alleged to have been given $5,000 for facilitating the rigged pitch, alongside gamblers in the players’ home country of the Dominican Republic. Prosecutors claim the pair did so again in a game on 27 June, receiving $7,000 each.</p> <a href="https://www.theguardian.com/sport/2025/nov/09/emmanuel-clase-luis-ortiz-gambling-allegations-baseball">Continue reading...</a>]]>
+      </description>
+      <source:markdown>- Pair could face 65 years in prison if found guilty
+
+- NBA also caught up in its own gambling scandal
+
+
+[The betting crisis in US sports](https://www.theguardian.com/sport/2025/oct/23/heats-rozier-and-blazers-coach-billups-reportedly-arrested-over-separate-gambling-claims) has spread further after Cleveland Guardians players Emmanuel Clase and Luis Ortiz were indicted over an alleged scheme to rig pitches during games.
+
+Bettors on baseball can gamble on whether individual pitches will be balls or strikes. Prosecutors allege claim that Ortiz was paid $5,000 for throwing an intentional ball during a game on 15 June. His teammate Clase, a three-time All-Star, is alleged to have been given $5,000 for facilitating the rigged pitch, alongside gamblers in the players’ home country of the Dominican Republic. Prosecutors claim the pair did so again in a game on 27 June, receiving $7,000 each.
+
+ [Continue reading...](https://www.theguardian.com/sport/2025/nov/09/emmanuel-clase-luis-ortiz-gambling-allegations-baseball)</source:markdown>
+      <guid>cid://https://www.theguardian.com/sport/2025/nov/09/emmanuel-clase-luis-ortiz-gambling-allegations-baseball</guid>
+    </item>    <item>
+      <title>It&#39;s the Exact Right Time to Fix the Democratic Party</title>
+      <link>https://zeteo.com/p/democrats-fix-party-mamdani-trump-economy-health</link>
+      <description>
+        <![CDATA[Zohran Mamdani proved that corporate Democrats can be defeated. The intra-party fight must go on, until Democrats learn to make everyone&#8217;s lives better.]]>
+      </description>
+      <source:markdown>Zohran Mamdani proved that corporate Democrats can be defeated. The intra-party fight must go on, until Democrats learn to make everyone’s lives better.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!UyhU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5b671ab-376e-41cc-a0f6-1016d966f160_1024x683.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://zeteo.com/p/democrats-fix-party-mamdani-trump-economy-health</guid>
+    </item>    <item>
+      <title>Paul Tagliabue, NFL commissioner who oversaw lucrative era, dies at age of 84</title>
+      <link>https://www.theguardian.com/sport/2025/nov/09/paul-tagliabue-nfl-commissioner-who-oversaw-lucrative-era-dies-at-age-of-84</link>
+      <description>
+        <![CDATA[<ul><li><p>League negotiated rich TV contracts under leadership</p></li><li><p>Tagliabue was criticized over concussion action</p></li></ul><p>Paul Tagliabue, who helped usher in a lucrative era for the NFL during his 17 years as commissioner but was criticized for not taking stronger action on concussions has died at the age of 84.</p><p>NFL spokesman Brian McCarthy said Tagliabue’s family informed the league of his death in Chevy Chase, Maryland, on Sunday.</p> <a href="https://www.theguardian.com/sport/2025/nov/09/paul-tagliabue-nfl-commissioner-who-oversaw-lucrative-era-dies-at-age-of-84">Continue reading...</a>]]>
+      </description>
+      <source:markdown>- League negotiated rich TV contracts under leadership
+
+- Tagliabue was criticized over concussion action
+
+
+Paul Tagliabue, who helped usher in a lucrative era for the NFL during his 17 years as commissioner but was criticized for not taking stronger action on concussions has died at the age of 84.
+
+NFL spokesman Brian McCarthy said Tagliabue’s family informed the league of his death in Chevy Chase, Maryland, on Sunday.
+
+ [Continue reading...](https://www.theguardian.com/sport/2025/nov/09/paul-tagliabue-nfl-commissioner-who-oversaw-lucrative-era-dies-at-age-of-84)</source:markdown>
+      <guid>cid://https://www.theguardian.com/sport/2025/nov/09/paul-tagliabue-nfl-commissioner-who-oversaw-lucrative-era-dies-at-age-of-84</guid>
+    </item>    <item>
+      <title>Ghislaine Maxwell reportedly ‘much happier’ after prison transfer by Trump officials</title>
+      <link>https://www.theguardian.com/us-news/2025/nov/09/ghislaine-maxwell-trump-admin-prison-transfer</link>
+      <description>
+        <![CDATA[<p>Jeffrey Epstein associate, serving 20 years for sex-trafficking crimes, is now in minimum-security federal prison in Texas</p><p>Longtime <a href="https://www.theguardian.com/us-news/jeffrey-epstein">Jeffrey Epstein</a> associate <a href="https://www.theguardian.com/us-news/ghislaine-maxwell">Ghislaine Maxwell</a>, who is serving a 20-year prison sentence for <a href="https://www.theguardian.com/us-news/2021/dec/29/ghislaine-maxwell-sex-trafficking-trial-verdict">sex-trafficking crimes</a>, has reportedly said that she is “much, much happier” after the Trump administration transferred her to a minimum-security federal prison in Texas, according to emails obtained by <a href="https://www.nbcnews.com/news/us-news/ghislaine-maxwell-prison-emails-minimum-security-bryan-texas-rcna242218">NBC News</a>.</p><p>Maxwell, 63, was <a href="https://www.theguardian.com/us-news/2025/aug/01/ghislaine-maxwell-prison-transfer">moved</a> from a low-security prison in Tallahassee, Florida, to the minimum-security Federal Prison Camp Bryan in Texas in August –&nbsp;just days after she was <a href="https://www.theguardian.com/us-news/2025/jul/25/ghislaine-maxwell-justice-department-meeting">interviewed</a> about the Epstein case by deputy attorney general, Todd Blanche. Blanche is a former personal lawyer for <a href="https://www.theguardian.com/us-news/donaldtrump">Donald Trump</a>, who had been friends with the late Epstein – a convicted sex offender – before winning two presidencies.</p> <a href="https://www.theguardian.com/us-news/2025/nov/09/ghislaine-maxwell-trump-admin-prison-transfer">Continue reading...</a>]]>
+      </description>
+      <source:markdown>Jeffrey Epstein associate, serving 20 years for sex-trafficking crimes, is now in minimum-security federal prison in Texas
+
+Longtime [Jeffrey Epstein](https://www.theguardian.com/us-news/jeffrey-epstein) associate [Ghislaine Maxwell](https://www.theguardian.com/us-news/ghislaine-maxwell), who is serving a 20-year prison sentence for [sex-trafficking crimes](https://www.theguardian.com/us-news/2021/dec/29/ghislaine-maxwell-sex-trafficking-trial-verdict), has reportedly said that she is “much, much happier” after the Trump administration transferred her to a minimum-security federal prison in Texas, according to emails obtained by [NBC News](https://www.nbcnews.com/news/us-news/ghislaine-maxwell-prison-emails-minimum-security-bryan-texas-rcna242218).
+
+Maxwell, 63, was [moved](https://www.theguardian.com/us-news/2025/aug/01/ghislaine-maxwell-prison-transfer) from a low-security prison in Tallahassee, Florida, to the minimum-security Federal Prison Camp Bryan in Texas in August – just days after she was [interviewed](https://www.theguardian.com/us-news/2025/jul/25/ghislaine-maxwell-justice-department-meeting) about the Epstein case by deputy attorney general, Todd Blanche. Blanche is a former personal lawyer for [Donald Trump](https://www.theguardian.com/us-news/donaldtrump), who had been friends with the late Epstein – a convicted sex offender – before winning two presidencies.
+
+ [Continue reading...](https://www.theguardian.com/us-news/2025/nov/09/ghislaine-maxwell-trump-admin-prison-transfer)</source:markdown>
+      <guid>cid://https://www.theguardian.com/us-news/2025/nov/09/ghislaine-maxwell-trump-admin-prison-transfer</guid>
+    </item>    <item>
+      <title>They flew to New York to help Mamdani – now they want to bring the hope to LA</title>
+      <link>https://www.theguardian.com/us-news/2025/nov/09/new-york-zohran-mamdani-los-angeles</link>
+      <description>
+        <![CDATA[<p>Activists in Los Angeles say the energy from the Hollywood strikes has been reignited by the success of the mayor-elect</p><p>While the excitement for mayor-elect <a href="https://www.theguardian.com/us-news/zohran-mamdani">Zohran Mamdani</a> has radiated through <a href="https://www.theguardian.com/us-news/new-york">New York</a>, his win has also energized young activists across the country – particularly some in <a href="https://www.theguardian.com/us-news/los-angeles">Los Angeles</a>, who flew to the east coast to canvass for Mamdani and now want to bring their experiences westward.</p><p>Standing near the poll site at the Metropolitan Museum of Art, Neda Davarpanah – a screenwriter and actor based in Los Angeles – was inspired by Mamdani’s campaign for mayor so she flew out to New York in late October to canvass on the Upper East Side.</p> <a href="https://www.theguardian.com/us-news/2025/nov/09/new-york-zohran-mamdani-los-angeles">Continue reading...</a>]]>
+      </description>
+      <source:markdown>Activists in Los Angeles say the energy from the Hollywood strikes has been reignited by the success of the mayor-elect
+
+While the excitement for mayor-elect [Zohran Mamdani](https://www.theguardian.com/us-news/zohran-mamdani) has radiated through [New York](https://www.theguardian.com/us-news/new-york), his win has also energized young activists across the country – particularly some in [Los Angeles](https://www.theguardian.com/us-news/los-angeles), who flew to the east coast to canvass for Mamdani and now want to bring their experiences westward.
+
+Standing near the poll site at the Metropolitan Museum of Art, Neda Davarpanah – a screenwriter and actor based in Los Angeles – was inspired by Mamdani’s campaign for mayor so she flew out to New York in late October to canvass on the Upper East Side.
+
+ [Continue reading...](https://www.theguardian.com/us-news/2025/nov/09/new-york-zohran-mamdani-los-angeles)</source:markdown>
+      <guid>cid://https://www.theguardian.com/us-news/2025/nov/09/new-york-zohran-mamdani-los-angeles</guid>
     </item>    <item>
       <title>Can Donald Trump really make an NFL team name its stadium after him?</title>
       <link>https://www.theguardian.com/sport/2025/nov/09/donald-trump-stadium-name-washington-commanders-nfl</link>
@@ -68,15 +147,13 @@ That’s if [a well-sourced report from ESPN](https://www.theguardian.com/sport/
       <title>US flight cancellations rise as Sean Duffy warns travel could reduce to a ‘trickle’</title>
       <link>https://www.theguardian.com/us-news/2025/nov/09/flight-cancellations-government-shutdown</link>
       <description>
-        <![CDATA[<p>Over 2,500 flights cancelled as transportation secretary says flight reductions could reach 20% if shutdown persists</p><p>Flight cancellations and delays are set to grow as airline passengers across the United States spent the weekend grappling with those issues at major airports nationwide after the Federal Aviation Administration (FAA) mandated a 4% reduction in air traffic in response to the ongoing <a href="https://www.theguardian.com/us-news/us-federal-government-shutdown-2025">federal government shutdown</a>.</p><p>If the shutdown continues, the FAA has instructed airlines to cut 6% of flights on Tuesday – and to do the same to 10% by 14 November. The transportation secretary, Sean Duffy, has <a href="https://www.reuters.com/business/american-airlines-warns-problems-faa-flight-cuts-increase-2025-11-07/">warned</a> that flight reductions could reach 20% if the shutdown persists, and on Sunday he predicted a “substantial” number of people in the US would be unable to celebrate the upcoming holidays with their families if the shutdown wasn’t resolved.</p><p><em>The Associated Press and Reuters contributed reporting</em></p> <a href="https://www.theguardian.com/us-news/2025/nov/09/flight-cancellations-government-shutdown">Continue reading...</a>]]>
+        <![CDATA[<p>Over 2,500 flights cancelled as transportation secretary says flight reductions could reach 20% if shutdown persists</p><p>Flight cancellations and delays are set to grow as airline passengers across the United States spent the weekend grappling with those <a href="https://www.theguardian.com/us-news/2025/nov/08/flight-cancellations-government-shutdown">issues</a> at <a href="https://www.theguardian.com/us-news/2025/nov/06/list-airports-flight-cuts-faa">major airports</a> nationwide after the Federal Aviation Administration (FAA) mandated a 4% reduction in air traffic in response to the ongoing <a href="https://www.theguardian.com/us-news/us-federal-government-shutdown-2025">federal government shutdown</a>.</p><p>If the shutdown continues, the FAA has instructed airlines to cut 6% of flights on Tuesday – and to do the same to 10% by 14 November. The transportation secretary, Sean Duffy, has <a href="https://www.reuters.com/business/american-airlines-warns-problems-faa-flight-cuts-increase-2025-11-07/">warned</a> that flight reductions could reach 20% if the shutdown persists, and on Sunday he predicted a “substantial” number of people in the US would be unable to celebrate the upcoming holidays with their families if the shutdown wasn’t resolved.</p> <a href="https://www.theguardian.com/us-news/2025/nov/09/flight-cancellations-government-shutdown">Continue reading...</a>]]>
       </description>
       <source:markdown>Over 2,500 flights cancelled as transportation secretary says flight reductions could reach 20% if shutdown persists
 
-Flight cancellations and delays are set to grow as airline passengers across the United States spent the weekend grappling with those issues at major airports nationwide after the Federal Aviation Administration (FAA) mandated a 4% reduction in air traffic in response to the ongoing [federal government shutdown](https://www.theguardian.com/us-news/us-federal-government-shutdown-2025).
+Flight cancellations and delays are set to grow as airline passengers across the United States spent the weekend grappling with those [issues](https://www.theguardian.com/us-news/2025/nov/08/flight-cancellations-government-shutdown) at [major airports](https://www.theguardian.com/us-news/2025/nov/06/list-airports-flight-cuts-faa) nationwide after the Federal Aviation Administration (FAA) mandated a 4% reduction in air traffic in response to the ongoing [federal government shutdown](https://www.theguardian.com/us-news/us-federal-government-shutdown-2025).
 
 If the shutdown continues, the FAA has instructed airlines to cut 6% of flights on Tuesday – and to do the same to 10% by 14 November. The transportation secretary, Sean Duffy, has [warned](https://www.reuters.com/business/american-airlines-warns-problems-faa-flight-cuts-increase-2025-11-07/) that flight reductions could reach 20% if the shutdown persists, and on Sunday he predicted a “substantial” number of people in the US would be unable to celebrate the upcoming holidays with their families if the shutdown wasn’t resolved.
-
-_The Associated Press and Reuters contributed reporting_
 
  [Continue reading...](https://www.theguardian.com/us-news/2025/nov/09/flight-cancellations-government-shutdown)</source:markdown>
       <guid>cid://https://www.theguardian.com/us-news/2025/nov/09/flight-cancellations-government-shutdown</guid>
@@ -111,6 +188,26 @@ Thomas, who replaced starter Stefan Frei in the 89th minute with a shootout loom
 
  [Continue reading...](https://www.theguardian.com/football/2025/nov/09/mls-playoffs-lionel-messi-inter-miami-minnesota-united-seattle-sounders-fc-cincinnati-columbus-crew)</source:markdown>
       <guid>cid://https://www.theguardian.com/football/2025/nov/09/mls-playoffs-lionel-messi-inter-miami-minnesota-united-seattle-sounders-fc-cincinnati-columbus-crew</guid>
+    </item>    <item>
+      <title>Guardians&#39; Clase, Ortiz charged with taking bribes to rig pitches for bettors</title>
+      <link>https://www.cbc.ca/sports/baseball/mlb/emmanuel-clase-luis-ortiz-indicted-charges-sports-betting-mlb-9.6972814?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/8c220290-3f31-4684-80e7-e3bcfbac490f,1762717216949/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3BResize%3D%28620%29' alt='Composite photos of Cleveland Guardians pitchers Emmanuel Clase and Luis Ortiz' width='620' height='349' title='From left: Guardians pitchers Emmanuel Clase and Luis Ortiz have been on non-disciplinary paid leave since July while Major League Baseball investigated unusually high in-game betting activity when they pitched.'/><p>Cleveland Guardians pitchers Emmanuel Clase and Luis Ortiz have been charged with taking bribes from sports bettors to intentionally throw certain types of pitches, including tossing balls instead of strikes to ensure successful bets.</p>]]>
+      </description>
+      <source:markdown>![Composite photos of Cleveland Guardians pitchers Emmanuel Clase and Luis Ortiz](https://i.cbc.ca/ais/8c220290-3f31-4684-80e7-e3bcfbac490f,1762717216949/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3BResize%3D%28620%29)
+
+Cleveland Guardians pitchers Emmanuel Clase and Luis Ortiz have been charged with taking bribes from sports bettors to intentionally throw certain types of pitches, including tossing balls instead of strikes to ensure successful bets.</source:markdown>
+      <guid>cid://9.6972814</guid>
+    </item>    <item>
+      <title>Trump administration wants U.S. states to &#39;undo&#39; full payouts of SNAP food benefits</title>
+      <link>https://www.cbc.ca/news/world/trump-administration-snap-food-benefits-stamps-9.6972770?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/41c1549d-a1d7-4a2b-a068-d2f31f9ee388,1762712495403/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C126%2C5132%2C2886%29%3BResize%3D%28620%29' alt='People wait in line at a food bank.' width='620' height='349' title='Volunteer Regie Robles, right, helps residents without a vehicle navigate a drive-through food distribution at the San Antonio Food Bank for SNAP recipients and other households affected by the federal shutdown, Thursday, Nov. 6, 2025, in San Antonio. (AP Photo/Eric Gay)'/><p>U.S. President Donald Trump's administration is demanding states "undo" full SNAP food benefits paid out under judges' orders over the past week, now that the U.S. Supreme Court has stayed those rulings — marking the latest swing in a seesawing legal battle over the anti-hunger program used by 42 million Americans.</p>]]>
+      </description>
+      <source:markdown>![People wait in line at a food bank.](https://i.cbc.ca/ais/41c1549d-a1d7-4a2b-a068-d2f31f9ee388,1762712495403/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C126%2C5132%2C2886%29%3BResize%3D%28620%29)
+
+U.S. President Donald Trump&#39;s administration is demanding states &#34;undo&#34; full SNAP food benefits paid out under judges&#39; orders over the past week, now that the U.S. Supreme Court has stayed those rulings — marking the latest swing in a seesawing legal battle over the anti-hunger program used by 42 million Americans.</source:markdown>
+      <guid>cid://9.6972770</guid>
     </item>    <item>
       <title>North Carolina police officer fatally shot in hospital emergency room incident</title>
       <link>https://www.theguardian.com/us-news/2025/nov/09/north-carolina-hospital-shooting</link>
@@ -149,6 +246,16 @@ The clinic had adopted an artificial-intelligence scribe, and it was transcribin
  [Continue reading...](https://www.theguardian.com/us-news/ng-interactive/2025/nov/09/healthcare-artificial-intelligence-ai)</source:markdown>
       <guid>cid://https://www.theguardian.com/us-news/ng-interactive/2025/nov/09/healthcare-artificial-intelligence-ai</guid>
     </item>    <item>
+      <title>BBC director, head of news resign after criticism of Trump speech edits</title>
+      <link>https://www.cbc.ca/news/world/bbc-director-resigns-9.6972781?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/d3d6ca55-fd13-44c2-85c0-f0ba685c4633,1762712996775/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C390%2C3744%2C2106%29%3BResize%3D%28620%29' alt='A man&apos;s face' width='620' height='349' title='BBC Director-General Tim Davie is pictured at BBC World Service offices in London, Britain, Thursday, April 28, 2022.  (Hannah McKay/Pool via AP)'/><p>The head of the BBC and the British broadcaster's top news executive both resigned Sunday after criticism of the way the organization edited a speech by U.S. President Donald Trump. </p>]]>
+      </description>
+      <source:markdown>![A man&#39;s face](https://i.cbc.ca/ais/d3d6ca55-fd13-44c2-85c0-f0ba685c4633,1762712996775/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C390%2C3744%2C2106%29%3BResize%3D%28620%29)
+
+The head of the BBC and the British broadcaster&#39;s top news executive both resigned Sunday after criticism of the way the organization edited a speech by U.S. President Donald Trump.</source:markdown>
+      <guid>cid://9.6972781</guid>
+    </item>    <item>
       <title>Food pantries struggle in North Carolina, where 1 in 4 residents qualify for SNAP benefits</title>
       <link>https://www.npr.org/2025/11/09/nx-s1-5601066/food-pantries-struggle-in-north-carolina-where-1-in-4-residents-qualify-for-snap-benefits</link>
       <description>
@@ -156,6 +263,16 @@ The clinic had adopted an artificial-intelligence scribe, and it was transcribin
       </description>
       <source:markdown>Food pantries were running low last week in a North Carolina county where one in four residents qualifies for SNAP assistance.</source:markdown>
       <guid>cid://https://www.npr.org/2025/11/09/nx-s1-5601066/food-pantries-struggle-in-north-carolina-where-1-in-4-residents-qualify-for-snap-benefits</guid>
+    </item>    <item>
+      <title>&#39;My life has been poisoned&#39;: Quebec artist on upcoming demolition of his iconic fountain in San Francisco</title>
+      <link>https://www.cbc.ca/player/play/9.6972495?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/b54b2f8f-1dcc-4f18-bcb4-d50fe959b589,1762702909249/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3BResize%3D%28620%29' alt='Armand Vaillancourt&apos;s sculpture' width='620' height='349' title=''/><p>After standing for nearly 55 years in the middle of Embarcadero Plaza, the City of San Francisco has decided to dismantle sculptor Armand Vaillancourt's popular piece of art Québec Libre!. The decision, Vaillancourt says, leaves a blemish on his legacy. </p>]]>
+      </description>
+      <source:markdown>![Armand Vaillancourt&#39;s sculpture](https://i.cbc.ca/ais/b54b2f8f-1dcc-4f18-bcb4-d50fe959b589,1762702909249/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3BResize%3D%28620%29)
+
+After standing for nearly 55 years in the middle of Embarcadero Plaza, the City of San Francisco has decided to dismantle sculptor Armand Vaillancourt&#39;s popular piece of art Québec Libre!. The decision, Vaillancourt says, leaves a blemish on his legacy.</source:markdown>
+      <guid>cid://9.6972495</guid>
     </item>    <item>
       <title>The US will stop making pennies next year. Cash-only businesses are already affected</title>
       <link>https://www.npr.org/2025/11/09/nx-s1-5600908/the-us-will-stop-making-pennies-next-year-cash-only-businesses-are-already-affected</link>
@@ -192,6 +309,16 @@ Somehow, we don’t talk about Birmingham.
 
  [Continue reading...](https://www.theguardian.com/us-news/2025/nov/09/birmingham-alabama-homicide-rate)</source:markdown>
       <guid>cid://https://www.theguardian.com/us-news/2025/nov/09/birmingham-alabama-homicide-rate</guid>
+    </item>    <item>
+      <title>Chara, Keith, Botterill, Thornton and rest of Hockey Hall of Fame class set for Monday induction</title>
+      <link>https://www.cbc.ca/sports/hockey/nhl/chara-keith-thornton-hockey-hall-of-fame-2025-class-9.6972731?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/1cd36614-579b-4c23-ac77-a42f8990e8a5,1762711351008/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3BResize%3D%28620%29' alt='Hockey Hall of Fame inductees Duncan Keith, Joe Thornton, Brianna Decker, Zdeno Chara, Jennifer Botterill, Danièle Sauvageau and Jack Parker pose for a photograph with their rings in Toronto on November 8, 2025.' width='620' height='349' title='From left: Hockey Hall of Fame inductees Duncan Keith, Joe Thornton, Brianna Decker, Zdeno Chara and Jennifer Botterill. Danièle Sauvageau, second from right, and Jack Parker, far right, will enter as builders.'/><p>Zdeno Chara and Duncan Keith will be inducted into the Hall of Fame alongside fellow former players Joe Thornton, Alexander Mogilny, Jennifer Botterill and Brianna Decker on Monday in Toronto. Jack Parker and Danièle Sauvageau will enter as builders.</p>]]>
+      </description>
+      <source:markdown>![Hockey Hall of Fame inductees Duncan Keith, Joe Thornton, Brianna Decker, Zdeno Chara, Jennifer Botterill, Danièle Sauvageau and Jack Parker pose for a photograph with their rings in Toronto on November 8, 2025.](https://i.cbc.ca/ais/1cd36614-579b-4c23-ac77-a42f8990e8a5,1762711351008/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3BResize%3D%28620%29)
+
+Zdeno Chara and Duncan Keith will be inducted into the Hall of Fame alongside fellow former players Joe Thornton, Alexander Mogilny, Jennifer Botterill and Brianna Decker on Monday in Toronto. Jack Parker and Danièle Sauvageau will enter as builders.</source:markdown>
+      <guid>cid://9.6972731</guid>
     </item>    <item>
       <title>‘Too far? I don’t think we’ve gone far enough!’ The founder of Peta on gruesome stunts and her bloody fight for animal rights</title>
       <link>https://www.theguardian.com/us-news/2025/nov/09/ingrid-newkirk-peta-interview-animal-rights</link>
@@ -308,6 +435,16 @@ We all love a narrative, myself included. But come _on._ Even if Fritz had beate
 
  [Continue reading...](https://www.theguardian.com/sport/2025/nov/09/tennis-taylor-fritz-chris-fowler-us-open-drought-analysis)</source:markdown>
       <guid>cid://https://www.theguardian.com/sport/2025/nov/09/tennis-taylor-fritz-chris-fowler-us-open-drought-analysis</guid>
+    </item>    <item>
+      <title>The journey toward an expanded Port of Churchill has only just begun</title>
+      <link>https://www.cbc.ca/news/canada/manitoba/churchill-port-expansion-analysis-9.6972402?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/003ecb8c-4c32-4388-9d50-384abc9f7205,1762636984240/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C22%2C2000%2C1125%29%3BResize%3D%28620%29' alt='An aerial photo shows a large ship at a port.' width='620' height='349' title='Aerial view of the port of Churchill, Manitoba Friday, Oct. 5, 2007. The owners of a port and broken rail line in northern Manitoba are filing a complaint against the federal government under the North American Free Trade Agreement.'/><p>Compared to  other major projects  granted "national importance" status by Mark Carney’s Liberal government, the proposed expansion of the Port of Churchill is still a very fuzzy idea.</p>]]>
+      </description>
+      <source:markdown>![An aerial photo shows a large ship at a port.](https://i.cbc.ca/ais/003ecb8c-4c32-4388-9d50-384abc9f7205,1762636984240/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C22%2C2000%2C1125%29%3BResize%3D%28620%29)
+
+Compared to  other major projects  granted &#34;national importance&#34; status by Mark Carney’s Liberal government, the proposed expansion of the Port of Churchill is still a very fuzzy idea.</source:markdown>
+      <guid>cid://9.6972402</guid>
     </item>    <item>
       <title>Super Typhoon Fung-wong hits Philippines after more than 1 million people evacuated</title>
       <link>https://www.cbc.ca/news/world/super-typhoon-the-philippines-evacuation-9.6972581?cmp=rss</link>
@@ -486,12 +623,12 @@ A senior White House official said Trump has conveyed his wishes directly to a m
  [Continue reading...](https://www.theguardian.com/sport/2025/nov/08/trump-name-washington-commanders-stadium)</source:markdown>
       <guid>cid://https://www.theguardian.com/sport/2025/nov/08/trump-name-washington-commanders-stadium</guid>
     </item>    <item>
-      <title>DHS head reportedly authorized purchase of 10 engineless Spirit Airlines planes that airline didn’t own</title>
+      <title>Kristi Noem reportedly tried to buy 10 engineless Spirit Airlines planes that airline didn’t own</title>
       <link>https://www.theguardian.com/us-news/2025/nov/08/kristi-noem-spirit-airlines-planes</link>
       <description>
-        <![CDATA[<p>Wall Street Journal reports Kristi Noem arranged purchase to expand deportation flights and for personal travel</p><p>The secretary of the US Department of Homeland Security (DHS), <a href="https://www.theguardian.com/us-news/kristi-noem">Kristi Noem</a>, reportedly authorized the purchase of Spirit Airlines jets before discovering the airline didn’t actually own the planes – and that the aircraft lacked engines.</p><p>The bizarre anecdote was contained in a <a href="https://www.wsj.com/politics/policy/department-homeland-security-deportation-disfunction-976a0e9b?">Wall Street Journal</a> report released on Friday, which recounted how Noem and Corey Lewandowski – who managed <a href="https://www.theguardian.com/us-news/donaldtrump">Donald Trump</a>’s first winning presidential campaign – had recently arranged to buy 10 Boeing 737 aircraft from Spirit Airlines. People familiar with the situation told the paper that the two intended to use the jets to expand deportation flights – and for personal travel.</p> <a href="https://www.theguardian.com/us-news/2025/nov/08/kristi-noem-spirit-airlines-planes">Continue reading...</a>]]>
+        <![CDATA[<p>DHS secretary arranged purchase to expand deportation flights and for personal travel, Wall Street Journal reports</p><p>The secretary of the US Department of Homeland Security (DHS), <a href="https://www.theguardian.com/us-news/kristi-noem">Kristi Noem</a>, reportedly authorized the purchase of Spirit Airlines jets before discovering the airline didn’t actually own the planes – and that the aircraft lacked engines.</p><p>The bizarre anecdote was contained in a <a href="https://www.wsj.com/politics/policy/department-homeland-security-deportation-disfunction-976a0e9b?">Wall Street Journal</a> report released on Friday, which recounted how Noem and Corey Lewandowski – who managed <a href="https://www.theguardian.com/us-news/donaldtrump">Donald Trump</a>’s first winning presidential campaign – had recently arranged to buy 10 Boeing 737 aircraft from Spirit Airlines. People familiar with the situation told the paper that the two intended to use the jets to expand deportation flights – and for personal travel.</p> <a href="https://www.theguardian.com/us-news/2025/nov/08/kristi-noem-spirit-airlines-planes">Continue reading...</a>]]>
       </description>
-      <source:markdown>Wall Street Journal reports Kristi Noem arranged purchase to expand deportation flights and for personal travel
+      <source:markdown>DHS secretary arranged purchase to expand deportation flights and for personal travel, Wall Street Journal reports
 
 The secretary of the US Department of Homeland Security (DHS), [Kristi Noem](https://www.theguardian.com/us-news/kristi-noem), reportedly authorized the purchase of Spirit Airlines jets before discovering the airline didn’t actually own the planes – and that the aircraft lacked engines.
 
@@ -513,6 +650,16 @@ The video in question was reportedly taken by a user in Zion, and it shows a wom
 
  [Continue reading...](https://www.theguardian.com/us-news/2025/nov/08/tiktok-live-stream-fatal-crash-chicago)</source:markdown>
       <guid>cid://https://www.theguardian.com/us-news/2025/nov/08/tiktok-live-stream-fatal-crash-chicago</guid>
+    </item>    <item>
+      <title>Federal budget commits $1B to Arctic Infrastructure Fund</title>
+      <link>https://www.cbc.ca/player/play/9.6972427?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/8f6a54fa-2a64-458f-b398-3ed0a9fd3338,1762634149515/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='The budget proposes $1 billion over four years for Transport Canada to invest in major transportation projects in the North]' width='620' height='349' title=''/><p>The budget proposes $1 billion over four years for Transport Canada to invest in major transportation projects in the North, including airports, seaports, all-season roads and highways, for both civilian and military use. CBC News speaks with former army commander Andrew Leslie for more.</p>]]>
+      </description>
+      <source:markdown>![The budget proposes $1 billion over four years for Transport Canada to invest in major transportation projects in the North]](https://i.cbc.ca/ais/8f6a54fa-2a64-458f-b398-3ed0a9fd3338,1762634149515/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29)
+
+The budget proposes $1 billion over four years for Transport Canada to invest in major transportation projects in the North, including airports, seaports, all-season roads and highways, for both civilian and military use. CBC News speaks with former army commander Andrew Leslie for more.</source:markdown>
+      <guid>cid://9.6972427</guid>
     </item>    <item>
       <title>Canada&#39;s Indigenous veterans faced tough battles — abroad and at home</title>
       <link>https://www.cbc.ca/news/canada/indigenous-veterans-day-canada-9.6972415?cmp=rss</link>
@@ -1814,14 +1961,6 @@ A federal judge in Rhode Island [ordered the Trump administration](https://www.t
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/11/07/mmr_20251107_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K9F73FAFYZ36D6GKFVPKVSST" length="3158851" type="audio/mpeg" />
       <guid>cid://01K9F73FAFYZ36D6GKFVPKVSST</guid>
     </item>    <item>
-      <title>Sudanese fighters accused of massacres use Canadian-made rifles</title>
-      <link>https://www.cbc.ca/news/world/sudan-rsf-massacres-canadian-rifles-sterling-cross-9.6969856?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/f566b7be-f285-4cfe-ad5d-202fbdd409bb,1762536049653/full/max/0/default.jpg?im=Crop%2Crect%3D%2884%2C0%2C1424%2C801%29%3BResize%3D%28620%29' alt='Sudan Sterling Cross composite' width='620' height='349' title='A composite of images from social media featuring fighters in Sudan holding rifles with the logo of Sterling Cross Defense Systems. '/><p></p>]]>
-      </description>
-      <source:markdown>![Sudan Sterling Cross composite](https://i.cbc.ca/ais/f566b7be-f285-4cfe-ad5d-202fbdd409bb,1762536049653/full/max/0/default.jpg?im=Crop%2Crect%3D%2884%2C0%2C1424%2C801%29%3BResize%3D%28620%29)</source:markdown>
-      <guid>cid://9.6971069</guid>
-    </item>    <item>
       <title>🥩 Democrats Demand Their Pound of Flesh</title>
       <link>https://zeteo.com/p/democrats-demand-their-pound-of-flesh</link>
       <description>
@@ -2164,6 +2303,16 @@ Members of Toronto’s Sudanese community say they feel abandoned by the Canadia
 
 At least five people died in Vietnam after Typhoon Kalmaegi pummelled coastal regions with destructive winds and heavy rain, officials said on Friday, following the storm&#39;s deadly passage through the Philippines where it killed at least 188 people.</source:markdown>
       <guid>cid://9.6970507</guid>
+    </item>    <item>
+      <title>Sudanese fighters accused of massacres use Canadian-made rifles</title>
+      <link>https://www.cbc.ca/news/world/sudan-rsf-massacres-canadian-rifles-sterling-cross-9.6969856?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/377fb9e7-67d2-490a-abc7-68e161a0fd53,1762460797886/full/max/0/default.jpg?im=Crop%2Crect%3D%2875%2C0%2C1424%2C801%29%3BResize%3D%28620%29' alt='A composite of images showing Sudanese fighters in fatigues holding black sniper rifles. ' width='620' height='349' title='A composite of images from social media featuring fighters in Sudan holding rifles with the logo of Sterling Cross Defense Systems. '/><p>The Rapid Support Forces in Sudan, accused of civilian massacres, have posted numerous images posing with rifles bearing the logo of a small B.C. manufacturer called Sterling Cross Defense Systems. Experts say Canada needs to 'do better' to allow for public tracking of arms sales. </p>]]>
+      </description>
+      <source:markdown>![A composite of images showing Sudanese fighters in fatigues holding black sniper rifles. ](https://i.cbc.ca/ais/377fb9e7-67d2-490a-abc7-68e161a0fd53,1762460797886/full/max/0/default.jpg?im=Crop%2Crect%3D%2875%2C0%2C1424%2C801%29%3BResize%3D%28620%29)
+
+The Rapid Support Forces in Sudan, accused of civilian massacres, have posted numerous images posing with rifles bearing the logo of a small B.C. manufacturer called Sterling Cross Defense Systems. Experts say Canada needs to &#39;do better&#39; to allow for public tracking of arms sales.</source:markdown>
+      <guid>cid://9.6969856</guid>
     </item>    <item>
       <title>Buying a new car? Hidden cameras show some Ontario dealerships adding extra charges and features</title>
       <link>https://www.cbc.ca/news/marketplace/car-dealerships-ontario-price-9.6969143?cmp=rss</link>
@@ -3513,6 +3662,16 @@ The province&#39;s 2025 wildfire season officially ended Friday, with northweste
 RaeAnne Ellert grew up feeling isolated by her disability and found solace in online friendships. It wasn&#39;t until someone warned her that one of those friends was a potential scammer that she realized she needed to find friends and connections in the real world.</source:markdown>
       <guid>cid://9.6958571</guid>
     </item>    <item>
+      <title>Margaret Atwood is finally calling people out in her new memoir</title>
+      <link>https://www.cbc.ca/player/play/9.6968361?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/22e3d8c6-a678-41a6-b189-cbf99c81d301,1762378129404/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A woman sits in a chair for an interview.' width='620' height='349' title=''/><p>Does Margaret Atwood hold a grudge? 'I don't have a choice. I'm a Scorpio,' the celebrated Canadian novelist tells The Current in an interview about her new memoir Book of Lives.</p>]]>
+      </description>
+      <source:markdown>![A woman sits in a chair for an interview.](https://i.cbc.ca/ais/22e3d8c6-a678-41a6-b189-cbf99c81d301,1762378129404/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29)
+
+Does Margaret Atwood hold a grudge? &#39;I don&#39;t have a choice. I&#39;m a Scorpio,&#39; the celebrated Canadian novelist tells The Current in an interview about her new memoir Book of Lives.</source:markdown>
+      <guid>cid://9.6968361</guid>
+    </item>    <item>
       <title>US to cut airline traffic by 10% at 40 airports amid shutdown, Trump transport chief says</title>
       <link>https://www.theguardian.com/us-news/2025/nov/05/government-shutdown-duffy-airspace-closures</link>
       <description>
@@ -4091,6 +4250,14 @@ The Assembly of Nova Scotia Mi’kmaw Chiefs says its concerns around fish passa
     </item>    <item>
       <title>Pushing, yelling from Conservative leadership ‘sealed the deal’ on defection: d’Entremont</title>
       <link>https://www.cbc.ca/news/politics/pushing-yelling-conservative-leadership-dentremont-9.6972680?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/8dc06d6a-d4a2-4af2-9b29-1d5eb72b6bcf,1762709744940/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C90%2C1600%2C900%29%3BResize%3D%28620%29' alt='Nova Scotia MP Chris d&apos;Entremont stands in front of a Canadian flag' width='620' height='349' title=''/><p></p>]]>
+      </description>
+      <source:markdown>![Nova Scotia MP Chris d&#39;Entremont stands in front of a Canadian flag](https://i.cbc.ca/ais/8dc06d6a-d4a2-4af2-9b29-1d5eb72b6bcf,1762709744940/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C90%2C1600%2C900%29%3BResize%3D%28620%29)</source:markdown>
+      <guid>cid://9.6968098</guid>
+    </item>    <item>
+      <title>Barging into office, yelling from Conservative leadership ‘sealed the deal’ on defection: d’Entremont</title>
+      <link>https://www.cbc.ca/news/politics/yelling-conservative-leadership-dentremont-9.6972680?cmp=rss</link>
       <description>
         <![CDATA[<img src='https://i.cbc.ca/ais/8dc06d6a-d4a2-4af2-9b29-1d5eb72b6bcf,1762709744940/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C90%2C1600%2C900%29%3BResize%3D%28620%29' alt='Nova Scotia MP Chris d&apos;Entremont stands in front of a Canadian flag' width='620' height='349' title=''/><p></p>]]>
       </description>

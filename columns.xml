@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>09 Nov 25 10:11 -0800</lastBuildDate>
+    <lastBuildDate>09 Nov 25 14:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,40 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Réflexions de convalescence solitaire [en]</title>
+      <link>https://climbtothestars.org/archives/2025/11/09/reflexions-de-convalescence-solitaire/</link>
+      <description>
+        <![CDATA[[en] Notes dictées lors d&#8217;une balade le 15.08.2025, laborieusement remises un peu au propre presque trois mois plus tard. Même si la situation a évolué depuis, c&#8217;était un moment que je voulais capturer. Quand on vit seul, on n’a personne pour nous dire : “viens, on va aller se promener”, ou bien “viens, on va &#8230; <a href="https://climbtothestars.org/archives/2025/11/09/reflexions-de-convalescence-solitaire/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Réflexions de convalescence solitaire <span class='bb-lang'>[en]</span></span>"</span></a>]]>
+      </description>
+      <source:markdown>\[en\] Notes dictées lors d’une balade le 15.08.2025, laborieusement remises un peu au propre presque trois mois plus tard. Même si la situation a évolué depuis, c’était un moment que je voulais capturer. Quand on vit seul, on n’a personne pour nous dire : “viens, on va aller se promener”, ou bien “viens, on va … [Continue reading &#34;Réflexions de convalescence solitaire \[en\]&#34;](https://climbtothestars.org/archives/2025/11/09/reflexions-de-convalescence-solitaire/)</source:markdown>
+      <guid>cid://https://climbtothestars.org/?p=9968</guid>
+    </item>    <item>
+      <title>« You should make a business out of it! » [en]</title>
+      <link>https://climbtothestars.org/archives/2025/11/09/you-should-make-a-business-out-of-it/</link>
+      <description>
+        <![CDATA[[en] Or should you? Dave Sifry makes a very important point in his LinkedIn post: I wished there were always-updated travel guides that I could have pre-printed and bound and it would be a great memento to remember the trip as well. So, naturally, I thought there must be a huge opportunity in creating personalized, &#8230; <a href="https://climbtothestars.org/archives/2025/11/09/you-should-make-a-business-out-of-it/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>«&#160;You should make a business out of it!&#160;» <span class='bb-lang'>[en]</span></span>"</span></a>]]>
+      </description>
+      <source:markdown>\[en\] Or should you? Dave Sifry makes a very important point in his LinkedIn post: I wished there were always-updated travel guides that I could have pre-printed and bound and it would be a great memento to remember the trip as well. So, naturally, I thought there must be a huge opportunity in creating personalized, … [Continue reading &#34;« You should make a business out of it! » \[en\]&#34;](https://climbtothestars.org/archives/2025/11/09/you-should-make-a-business-out-of-it/)</source:markdown>
+      <guid>cid://https://climbtothestars.org/?p=10207</guid>
+    </item>    <item>
+      <link>https://www.theatlantic.com/politics/2025/11/mass-deportation-immigration/684871/?gift=UDCAY75CzHyGUPSsXwkpWv6mvMeoNr8aKfvBdHgGgpE</link>
+      <description>
+        <![CDATA[<p>Most people detained by ICE are being housed in sprawling complexes in rural areas, where the land is cheap and the protests are few.</p>]]>
+      </description>
+      <source:markdown>Most people detained by ICE are being housed in sprawling complexes in rural areas, where the land is cheap and the protests are few.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/09/1845/</guid>
+    </item>    <item>
+      <link>https://www.theatlantic.com/ideas/2025/11/federal-judge-resignation-trump/684845/?gift=N2aAVwSqDWDX9rA6Xm7u2x9g5BbtNthSJfL-dLx5JVY&#38;utm_source=copy-link&#38;utm_medium=social&#38;utm_campaign=share</link>
+      <description>
+        <![CDATA[<p>Why I Am Leaving the Federal Bench.</p>]]>
+      </description>
+      <source:markdown>Why I Am Leaving the Federal Bench.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/09/1843/</guid>
+    </item>    <item>
+      <title>Trump Wants Commanders’ New D.C. Stadium Named for Him</title>
+      <link>https://www.espn.com/nfl/story/_/id/46892115/trump-wants-commanders-stadium-named-him</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42369</guid>
     </item>    <item>
       <title>I want an I Don’t Care card for CVS</title>
       <link>https://doc.searls.com/2025/11/09/i-want-an-i-dont-care-card-for-cvs/</link>
@@ -155,9 +189,9 @@ Tags: [3d](https://simonwillison.net/tags/3d), [ray-tracing](https://simonwillis
     </item>    <item>
       <link>http://scripting.com/2025/11/09.html#a135612</link>
       <description>
-        <![CDATA[WordLand is one of the few products that works hard to make sure that it has effective competition. My goal is Working Together. That means, here, laying out a welcome mat for WordLand's competitors.]]>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2024/03/12/macpaint.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">My goal is <a href="https://daytona.scripting.com/search?q=%22working%20together%22">Working Together</a>. <a href="https://wordland.social/">WordLand</a> is one of the few products that works hard to make sure that it has effective competition. It lays out a welcome mat for competitors. That's what <a href="http://scripting.com/2025/11/08.html#a152308">DemoLand</a> is all about. I think I finished it today, have to do another review, maybe two, before making it public. It is the opposite of a product that's meant to dominate. It's more like <a href="https://daytona.scripting.com/search?q=macwrite">MacWrite</a>, to fill a niche as an invitation to others to come play. Remember in the web, all parts are replaceable.]]>
       </description>
-      <source:markdown>WordLand is one of the few products that works hard to make sure that it has effective competition. My goal is Working Together. That means, here, laying out a welcome mat for WordLand&#39;s competitors.</source:markdown>
+      <source:markdown>![](https://imgs.scripting.com/2024/03/12/macpaint.png)My goal is [Working Together](https://daytona.scripting.com/search?q=%22working%20together%22). [WordLand](https://wordland.social/) is one of the few products that works hard to make sure that it has effective competition. It lays out a welcome mat for competitors. That&#39;s what [DemoLand](http://scripting.com/2025/11/08.html#a152308) is all about. I think I finished it today, have to do another review, maybe two, before making it public. It is the opposite of a product that&#39;s meant to dominate. It&#39;s more like [MacWrite](https://daytona.scripting.com/search?q=macwrite), to fill a niche as an invitation to others to come play. Remember in the web, all parts are replaceable.</source:markdown>
       <guid>cid://http://scripting.com/2025/11/09.html#a135612</guid>
     </item>    <item>
       <link>https://daveverse.org/2025/11/09/first-thoughts-on-pluribus/</link>

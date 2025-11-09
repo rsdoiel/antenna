@@ -4,10 +4,18 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>09 Nov 25 10:11 -0800</lastBuildDate>
+    <lastBuildDate>09 Nov 25 14:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Shefflin condemns &#39;unsavoury scenes&#39; at Nowlan Park</title>
+      <link>https://www.rte.ie/sport/hurling/2025/1109/1543050-shefflin-condemns-unsavoury-scenes-at-nowlan-park/</link>
+      <description>
+        <![CDATA[Ballyhale Shamrocks boss Henry Shefflin and Kilcormac-Killoughey manager Declan Laffan both condemned a melee after their Leinster club SHC quarter-final in UPMC Nowlan Park.]]>
+      </description>
+      <source:markdown>Ballyhale Shamrocks boss Henry Shefflin and Kilcormac-Killoughey manager Declan Laffan both condemned a melee after their Leinster club SHC quarter-final in UPMC Nowlan Park.</source:markdown>
+      <guid>cid://https://www.rte.ie/sport/hurling/2025/1109/1543050-shefflin-condemns-unsavoury-scenes-at-nowlan-park/</guid>
+    </item>    <item>
       <title>Belfast-born astrophysicist prepares for space mission</title>
       <link>https://www.rte.ie/news/ireland/2025/1109/1543031-astronaut-dundalk/</link>
       <description>
@@ -48,6 +56,26 @@
       <source:markdown>Fianna Fáil MEP Billy Kelleher has said his party needs to &#34;reconnect and re-engage&#34; with young people, given its facing &#34;a demographic cliff-edge when it comes to membership, activists and voters&#34;.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1109/1543017-fianna-fail-speech/</guid>
     </item>    <item>
+      <title>Guardians&#39; Clase, Ortiz charged with taking bribes to rig pitches for bettors</title>
+      <link>https://www.cbc.ca/sports/baseball/mlb/emmanuel-clase-luis-ortiz-indicted-charges-sports-betting-mlb-9.6972814?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/8c220290-3f31-4684-80e7-e3bcfbac490f,1762717216949/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3BResize%3D%28620%29' alt='Composite photos of Cleveland Guardians pitchers Emmanuel Clase and Luis Ortiz' width='620' height='349' title='From left: Guardians pitchers Emmanuel Clase and Luis Ortiz have been on non-disciplinary paid leave since July while Major League Baseball investigated unusually high in-game betting activity when they pitched.'/><p>Cleveland Guardians pitchers Emmanuel Clase and Luis Ortiz have been charged with taking bribes from sports bettors to intentionally throw certain types of pitches, including tossing balls instead of strikes to ensure successful bets.</p>]]>
+      </description>
+      <source:markdown>![Composite photos of Cleveland Guardians pitchers Emmanuel Clase and Luis Ortiz](https://i.cbc.ca/ais/8c220290-3f31-4684-80e7-e3bcfbac490f,1762717216949/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3BResize%3D%28620%29)
+
+Cleveland Guardians pitchers Emmanuel Clase and Luis Ortiz have been charged with taking bribes from sports bettors to intentionally throw certain types of pitches, including tossing balls instead of strikes to ensure successful bets.</source:markdown>
+      <guid>cid://9.6972814</guid>
+    </item>    <item>
+      <title>Trump administration wants U.S. states to &#39;undo&#39; full payouts of SNAP food benefits</title>
+      <link>https://www.cbc.ca/news/world/trump-administration-snap-food-benefits-stamps-9.6972770?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/41c1549d-a1d7-4a2b-a068-d2f31f9ee388,1762712495403/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C126%2C5132%2C2886%29%3BResize%3D%28620%29' alt='People wait in line at a food bank.' width='620' height='349' title='Volunteer Regie Robles, right, helps residents without a vehicle navigate a drive-through food distribution at the San Antonio Food Bank for SNAP recipients and other households affected by the federal shutdown, Thursday, Nov. 6, 2025, in San Antonio. (AP Photo/Eric Gay)'/><p>U.S. President Donald Trump's administration is demanding states "undo" full SNAP food benefits paid out under judges' orders over the past week, now that the U.S. Supreme Court has stayed those rulings — marking the latest swing in a seesawing legal battle over the anti-hunger program used by 42 million Americans.</p>]]>
+      </description>
+      <source:markdown>![People wait in line at a food bank.](https://i.cbc.ca/ais/41c1549d-a1d7-4a2b-a068-d2f31f9ee388,1762712495403/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C126%2C5132%2C2886%29%3BResize%3D%28620%29)
+
+U.S. President Donald Trump&#39;s administration is demanding states &#34;undo&#34; full SNAP food benefits paid out under judges&#39; orders over the past week, now that the U.S. Supreme Court has stayed those rulings — marking the latest swing in a seesawing legal battle over the anti-hunger program used by 42 million Americans.</source:markdown>
+      <guid>cid://9.6972770</guid>
+    </item>    <item>
       <title>McDonald says Morrison waiting list report &#39;devastating&#39;</title>
       <link>https://www.rte.ie/news/2025/1109/1543009-harvey-morrison/</link>
       <description>
@@ -72,6 +100,16 @@
       <source:markdown>Minister for Nature, Heritage and Biodiversity Christopher O&#39;Sullivan has said the likening of Government rhetoric on immigration to Nigel Farage were &#34;absolutely disgraceful, scandalous&#34;.</source:markdown>
       <guid>cid://https://www.rte.ie/news/politics/2025/1109/1543005-immigration-politics/</guid>
     </item>    <item>
+      <title>BBC director, head of news resign after criticism of Trump speech edits</title>
+      <link>https://www.cbc.ca/news/world/bbc-director-resigns-9.6972781?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/d3d6ca55-fd13-44c2-85c0-f0ba685c4633,1762712996775/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C390%2C3744%2C2106%29%3BResize%3D%28620%29' alt='A man&apos;s face' width='620' height='349' title='BBC Director-General Tim Davie is pictured at BBC World Service offices in London, Britain, Thursday, April 28, 2022.  (Hannah McKay/Pool via AP)'/><p>The head of the BBC and the British broadcaster's top news executive both resigned Sunday after criticism of the way the organization edited a speech by U.S. President Donald Trump. </p>]]>
+      </description>
+      <source:markdown>![A man&#39;s face](https://i.cbc.ca/ais/d3d6ca55-fd13-44c2-85c0-f0ba685c4633,1762712996775/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C390%2C3744%2C2106%29%3BResize%3D%28620%29)
+
+The head of the BBC and the British broadcaster&#39;s top news executive both resigned Sunday after criticism of the way the organization edited a speech by U.S. President Donald Trump.</source:markdown>
+      <guid>cid://9.6972781</guid>
+    </item>    <item>
       <title>Claims BBC misled viewers with Trump edit &#39;serious&#39;</title>
       <link>https://www.rte.ie/news/2025/1109/1543008-bbc-trump-edit/</link>
       <description>
@@ -79,6 +117,14 @@
       </description>
       <source:markdown>A UK government minister has described as &#34;incredibly serious&#34; allegations over the way the BBC edited clips of US President Donald Trump in a flagship documentary programme.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1109/1543008-bbc-trump-edit/</guid>
+    </item>    <item>
+      <title>BBC Director-General Tim Davie resigns</title>
+      <link>https://www.rte.ie/news/2025/1109/1543008-bbc-director-resigns/</link>
+      <description>
+        <![CDATA[The director general of the BBC, Tim Davie, and the chief executive of news, Deborah Turness, have resigned following criticism that a BBC documentary misled viewers by editing a speech by US President Donald Trump.]]>
+      </description>
+      <source:markdown>The director general of the BBC, Tim Davie, and the chief executive of news, Deborah Turness, have resigned following criticism that a BBC documentary misled viewers by editing a speech by US President Donald Trump.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1109/1543008-bbc-director-resigns/</guid>
     </item>    <item>
       <title>Taoiseach lays wreath at Remembrance Sunday ceremony</title>
       <link>https://www.rte.ie/news/2025/1109/1542997-remembrance-sunday/</link>
@@ -99,6 +145,15 @@
 
 [Read all](https://www.vaticannews.va/en/pope/news/2025-11/pope-leo-xiv-may-we-honor-war-victims-with-ceasefires.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/pope/news/2025-11/pope-leo-xiv-may-we-honor-war-victims-with-ceasefires.html</guid>
+    </item>    <item>
+      <title>Safeguarding clean water access as climate threats rise</title>
+      <link>https://news.un.org/feed/view/en/story/2025/11/1166317</link>
+      <description>
+        <![CDATA[As health emergencies multiply linked to the climate crisis, governments are joining forces with the UN to protect access to clean water, while data indicates that 118 million people in Europe alone live near healthcare facilities lacking basic sanitation.&nbsp;&nbsp;]]>
+      </description>
+      <source:markdown>As health emergencies multiply linked to the climate crisis, governments are joining forces with the UN to protect access to clean water, while data indicates that 118 million people in Europe alone live near healthcare facilities lacking basic sanitation.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/10-4-2025_Ukraine_WHO.png/image560x340cropped.jpg" length="26240" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/11/1166317</guid>
     </item>    <item>
       <title>Ukraine scrambles for energy with &#39;zero&#39; power generation</title>
       <link>https://www.rte.ie/news/2025/1109/1542988-ukraine-russia-war/</link>
@@ -1820,6 +1875,15 @@ The man who threw a sandwich and became symbol of resistance to U.S. President D
       <source:markdown>The UN Special Adviser on genocide prevention has raised concerns over widespread allegations of war crimes committed in Sudan’s El Fasher last month, and plans to meet his African Union counterpart on Friday to discuss a coordinated response.</source:markdown>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/30-04-2025-UNICEF-Sudan.jpg/image560x340cropped.jpg" length="46821" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/11/1166300</guid>
+    </item>    <item>
+      <title>Doha: World Summit ends with renewed pledge to leave no one behind</title>
+      <link>https://news.un.org/feed/view/en/story/2025/11/1166316</link>
+      <description>
+        <![CDATA[The Second World Summit for Social Development wrapped up on Thursday with nations warning that global progress on poverty and inequality will stall unless countries move faster from promises to implementation.]]>
+      </description>
+      <source:markdown>The Second World Summit for Social Development wrapped up on Thursday with nations warning that global progress on poverty and inequality will stall unless countries move faster from promises to implementation.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/06-11-2025-WSSD2-General_02.jpg/image560x340cropped.jpg" length="34077" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/11/1166316</guid>
     </item>    <item>
       <title>Boeing officially off the hook for criminal charges in deadly crashes that killed 346 people</title>
       <link>https://www.cbc.ca/news/world/boeing-criminal-case-agreement-9.6969078?cmp=rss</link>
