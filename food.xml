@@ -4,10 +4,35 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>08 Nov 25 14:09 -0800</lastBuildDate>
+    <lastBuildDate>09 Nov 25 06:12 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>To Bean Or Not To Bean, That Is A Question That Makes No Sense Because Coffee Is A Seed</title>
+      <link>https://sprudge.com/to-bean-or-not-to-bean-that-is-a-question-that-makes-no-sense-because-coffee-is-a-seed-468796.html</link>
+      <description>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster's Village.]]>
+      </description>
+      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster&#39;s Village.**</source:markdown>
+      <guid>cid://https://sprudge.com/?p=468796</guid>
+    </item>    <item>
+      <title>Slow Cooker Recipes</title>
+      <link>https://www.closetcooking.com/slow-cooker-recipes/</link>
+      <description>
+        <![CDATA[<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/01/50-Slow-Cooker-Recipes.jpg"/></div>
+        <p>Who doesn?t love a slow cooker? I mean what&#8217;s not to love? You throw the ingredients in one in the morning and you have a meal waiting for you when you get home from work. In addition to cooking meals it&#8217;s great for keeping things warm, say at potluck?s, or dips at a party or...</p>
+        <p><a class="more-link" href="https://www.closetcooking.com/slow-cooker-recipes/">Read On &#8594;</a></p>
+        <p>The post <a href="https://www.closetcooking.com/slow-cooker-recipes/">Slow Cooker Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://www.closetcooking.com/wp-content/uploads/2018/01/50-Slow-Cooker-Recipes.jpg)
+
+Who doesn?t love a slow cooker? I mean what’s not to love? You throw the ingredients in one in the morning and you have a meal waiting for you when you get home from work. In addition to cooking meals it’s great for keeping things warm, say at potluck?s, or dips at a party or...
+
+[Read On →](https://www.closetcooking.com/slow-cooker-recipes/)
+
+The post [Slow Cooker Recipes](https://www.closetcooking.com/slow-cooker-recipes/) appeared first on [Closet Cooking](https://www.closetcooking.com).</source:markdown>
+      <guid>cid://https://www.closetcooking.com/2017/10/29/slow-cooker-recipes/</guid>
+    </item>    <item>
       <title>It Appears That Gear Is Here My Dear</title>
       <link>https://sprudge.com/it-appears-that-gear-is-here-my-dear-468803.html</link>
       <description>
@@ -2777,14 +2802,6 @@ The best, most apple-icious recipes that are a quick and easy way to enjoy apple
 
 The post [Apple-icious Recipes](https://www.closetcooking.com/20-apple-icious-recipes/) appeared first on [Closet Cooking](https://www.closetcooking.com).</source:markdown>
       <guid>cid://https://www.closetcooking.com/2017/11/05/20-apple-icious-recipes/</guid>
-    </item>    <item>
-      <title>Fried Apples and Onions</title>
-      <link>https://www.tasteofhome.com/recipes/fried-onions-and-apples/</link>
-      <description>
-        <![CDATA[Fried apples and onions infuse their contrasting flavors into a sweet and savory side for everything from pork to winter squash.]]>
-      </description>
-      <source:markdown>Fried apples and onions infuse their contrasting flavors into a sweet and savory side for everything from pork to winter squash.</source:markdown>
-      <guid>cid://http://origin-www.tasteofhome.com/recipes/fried-onions-and-apples/</guid>
     </item>
   </channel>
 </rss>
