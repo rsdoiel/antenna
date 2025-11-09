@@ -4,14 +4,59 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>09 Nov 25 06:12 -0800</lastBuildDate>
+    <lastBuildDate>09 Nov 25 10:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Canon-Preisbrecher und Leicas Reporter-SL3 – Fotonews der Woche 45/2025</title>
+      <link>https://www.heise.de/news/Canon-Preisbrecher-und-Leicas-Reporter-SL3-Fotonews-der-Woche-45-2025-11071718.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die R6 Mark III ist nicht teurer geworden, ein neues Objektiv sogar günstig. Und Leica macht Leica-Dinge. Auch für Profis.]]>
+      </description>
+      <source:markdown>Die R6 Mark III ist nicht teurer geworden, ein neues Objektiv sogar günstig. Und Leica macht Leica-Dinge. Auch für Profis.</source:markdown>
+      <guid>cid://http://heise.de/-11071718</guid>
+    </item>    <item>
+      <title>WTF: Googles KI-Phrasendreschmaschine für Fußball-Ticker</title>
+      <link>https://www.heise.de/news/Googles-KI-Phrasendreschmaschine-fuer-Fussball-Ticker-11071682.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Fünf Euro ins Phrasenschwein – selbst Google würde da arm werden. Seine offenbar KI-generierten Liveticker für die Bundesliga unterbieten jedes Niveau.]]>
+      </description>
+      <source:markdown>Fünf Euro ins Phrasenschwein – selbst Google würde da arm werden. Seine offenbar KI-generierten Liveticker für die Bundesliga unterbieten jedes Niveau.</source:markdown>
+      <guid>cid://http://heise.de/-11071682</guid>
+    </item>    <item>
+      <title>Unix: OpenSolaris Lives on in This OpenIndiana Fork</title>
+      <link>https://thenewstack.io/unix-opensolaris-lives-on-in-this-openindiana-fork/</link>
+      <description>
+        <![CDATA[<img width="1024" height="765" src="https://cdn.thenewstack.io/media/2025/11/39a41132-openindiana1-1-1024x765.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/39a41132-openindiana1-1.jpg" /><p>As someone who grew up as a Hoosier, seeing a Linux distribution named OpenIndiana warms my heart. Of course, is</p>
+        <p>The post <a href="https://thenewstack.io/unix-opensolaris-lives-on-in-this-openindiana-fork/">Unix: OpenSolaris Lives on in This OpenIndiana Fork</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/39a41132-openindiana1-1-1024x765.jpg)
+
+As someone who grew up as a Hoosier, seeing a Linux distribution named OpenIndiana warms my heart. Of course, is
+
+The post [Unix: OpenSolaris Lives on in This OpenIndiana Fork](https://thenewstack.io/unix-opensolaris-lives-on-in-this-openindiana-fork/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805306</guid>
+    </item>    <item>
+      <title>Asus Expert Book PM1 im Test: Günstiger Laptop überzeugt</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/asus-expert-book-pm1-im-test-guenstiger-laptop-mit-ryzen-5-und-16-gb-ram-ueberzeugt/jqmdlcc?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das Asus Expert Book PM1 ist ein robuster Laptop mit Ryzen 5 für unter 600 Euro. Der 15-Zöller punktet mit 16 GB RAM, zwei M.2-Slots und Fingerabdrucksensor.]]>
+      </description>
+      <source:markdown>Das Asus Expert Book PM1 ist ein robuster Laptop mit Ryzen 5 für unter 600 Euro. Der 15-Zöller punktet mit 16 GB RAM, zwei M.2-Slots und Fingerabdrucksensor.</source:markdown>
+      <guid>cid://http://heise.de/-11071602</guid>
+    </item>    <item>
+      <title>EU will DSGVO schleifen – nicht nur bei Cookie-Bannern</title>
+      <link>https://www.heise.de/news/EU-will-DSGVO-schleifen-fuer-KI-und-Cookie-Banner-11071630.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der von der EU-Kommission geplante "digitale Omnibus" würde bestehende Datenschutzrechte aufweichen. Es geht etwa um Cookies und das Training von KI-Systemen.]]>
+      </description>
+      <source:markdown>Der von der EU-Kommission geplante &#34;digitale Omnibus&#34; würde bestehende Datenschutzrechte aufweichen. Es geht etwa um Cookies und das Training von KI-Systemen.</source:markdown>
+      <guid>cid://http://heise.de/-11071630</guid>
+    </item>    <item>
       <title>PSF Gets a Donor Surge After Rejecting Anti-DEI Federal Grant</title>
       <link>https://thenewstack.io/psf-gets-a-donor-surge-after-rejecting-anti-dei-federal-grant/</link>
       <description>
-        <![CDATA[<img width="1024" height="683" src="https://cdn.thenewstack.io/media/2025/04/50c2b944-python-1024x683.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Python programming language logo." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/04/50c2b944-python.png" /><p>&#8220;The support from the Python community in response has been overwhelming,&#8221; Seth Larson told me last week. As the Python</p>
+        <![CDATA[<img width="1024" height="683" src="https://cdn.thenewstack.io/media/2025/04/50c2b944-python-1024x683.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Python programming language logo." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/04/50c2b944-python.png" /><p>&#8220;The support from the Python community in response has been overwhelming,&#8221; Seth Larson told me last week. As the Python</p>
         <p>The post <a href="https://thenewstack.io/psf-gets-a-donor-surge-after-rejecting-anti-dei-federal-grant/">PSF Gets a Donor Surge After Rejecting Anti-DEI Federal Grant</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![Python programming language logo.](https://cdn.thenewstack.io/media/2025/04/50c2b944-python-1024x683.png)

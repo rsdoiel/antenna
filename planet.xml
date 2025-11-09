@@ -4,10 +4,66 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>09 Nov 25 06:12 -0800</lastBuildDate>
+    <lastBuildDate>09 Nov 25 10:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Belfast-born astrophysicist prepares for space mission</title>
+      <link>https://www.rte.ie/news/ireland/2025/1109/1543031-astronaut-dundalk/</link>
+      <description>
+        <![CDATA[A Belfast-born astrophysicist is preparing for her first mission to space as an ESA astronaut.]]>
+      </description>
+      <source:markdown>A Belfast-born astrophysicist is preparing for her first mission to space as an ESA astronaut.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/1109/1543031-astronaut-dundalk/</guid>
+    </item>    <item>
+      <title>Gaffney seals the double for Hoops against 10-man Cork</title>
+      <link>https://www.rte.ie/sport/soccer/2025/1109/1543018-gaffney-brace-secures-rovers-double-against-cork/</link>
+      <description>
+        <![CDATA[Shamrock Rovers completed a first League of Ireland and FAI Cup double since 1987 with a 2-0 victory over 10-man Cork City at Aviva Stadium.]]>
+      </description>
+      <source:markdown>Shamrock Rovers completed a first League of Ireland and FAI Cup double since 1987 with a 2-0 victory over 10-man Cork City at Aviva Stadium.</source:markdown>
+      <guid>cid://https://www.rte.ie/sport/soccer/2025/1109/1543018-gaffney-brace-secures-rovers-double-against-cork/</guid>
+    </item>    <item>
+      <title>Govt&#39;s National Housing Plan to be published on Thursday</title>
+      <link>https://www.rte.ie/news/2025/1109/1543025-housing-plan/</link>
+      <description>
+        <![CDATA[The Government's long-awaited National Housing Plan is expected to be published on Thursday morning, and provide the overall framework for housing over the next five years and beyond.]]>
+      </description>
+      <source:markdown>The Government&#39;s long-awaited National Housing Plan is expected to be published on Thursday morning, and provide the overall framework for housing over the next five years and beyond.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1109/1543025-housing-plan/</guid>
+    </item>    <item>
+      <title>Will bird flu mean there won&#39;t be turkeys for Christmas?</title>
+      <link>https://www.rte.ie/news/2025/1109/1543021-turkeys-bird-flu/</link>
+      <description>
+        <![CDATA[Poultry farmers say there are under a "mental stress that can't be underestimated" due to the bird flu outbreak.]]>
+      </description>
+      <source:markdown>Poultry farmers say there are under a &#34;mental stress that can&#39;t be underestimated&#34; due to the bird flu outbreak.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1109/1543021-turkeys-bird-flu/</guid>
+    </item>    <item>
+      <title>FF needs to &#39;reconnect&#39; with young people, says Kelleher</title>
+      <link>https://www.rte.ie/news/2025/1109/1543017-fianna-fail-speech/</link>
+      <description>
+        <![CDATA[Fianna Fáil MEP Billy Kelleher has said his party needs to "reconnect and re-engage" with young people, given its facing "a demographic cliff-edge when it comes to membership, activists and voters".]]>
+      </description>
+      <source:markdown>Fianna Fáil MEP Billy Kelleher has said his party needs to &#34;reconnect and re-engage&#34; with young people, given its facing &#34;a demographic cliff-edge when it comes to membership, activists and voters&#34;.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1109/1543017-fianna-fail-speech/</guid>
+    </item>    <item>
+      <title>McDonald says Morrison waiting list report &#39;devastating&#39;</title>
+      <link>https://www.rte.ie/news/2025/1109/1543009-harvey-morrison/</link>
+      <description>
+        <![CDATA[The Sinn Féin leader has described as "devastating" a newspaper report that claims nine-year-old Harvey Morrison was taken off a surgery waiting list because Children's Health Ireland believed he was a palliative patient.]]>
+      </description>
+      <source:markdown>The Sinn Féin leader has described as &#34;devastating&#34; a newspaper report that claims nine-year-old Harvey Morrison was taken off a surgery waiting list because Children&#39;s Health Ireland believed he was a palliative patient.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1109/1543009-harvey-morrison/</guid>
+    </item>    <item>
+      <title>FAI Cup final: Shamrock Rovers 2-0 Cork City recap</title>
+      <link>https://www.rte.ie/sport/soccer/2025/1109/1542961-fai-cup-final-shamrock-rovers-v-cork-city-updates/</link>
+      <description>
+        <![CDATA[Shamrock Rovers have beaten Cork City 2-0 to complete the double at Aviva Stadium. Read back on how it happened here.]]>
+      </description>
+      <source:markdown>Shamrock Rovers have beaten Cork City 2-0 to complete the double at Aviva Stadium. Read back on how it happened here.</source:markdown>
+      <guid>cid://https://www.rte.ie/sport/soccer/2025/1109/1542961-fai-cup-final-shamrock-rovers-v-cork-city-updates/</guid>
+    </item>    <item>
       <title>Minister denies Govt immigration stance echoes Farage</title>
       <link>https://www.rte.ie/news/politics/2025/1109/1543005-immigration-politics/</link>
       <description>
@@ -84,12 +140,12 @@
       <source:markdown>Three people died and 15 were injured as rough seas battered the Spanish holiday island of Tenerife yesterday, emergency services have said.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1109/1542983-tenerife-rough-seas/</guid>
     </item>    <item>
-      <title>Israel says soldier&#39;s body received by Red Cross</title>
+      <title>Israel receives remains of officer killed in Gaza in 2014</title>
       <link>https://www.rte.ie/news/2025/1109/1542962-gaza-israel-hostage/</link>
       <description>
-        <![CDATA[The Israeli military has said that the Red Cross had received the remains of a hostage, which Hamas earlier announced belonged to officer Hadar Goldin, who was killed in the Gaza war of 2014.]]>
+        <![CDATA[Israel has said the remains it received earlier today from Hamas were those of Lieutenant Hadar Goldin, an Israeli officer killed in the 2014 Gaza war.]]>
       </description>
-      <source:markdown>The Israeli military has said that the Red Cross had received the remains of a hostage, which Hamas earlier announced belonged to officer Hadar Goldin, who was killed in the Gaza war of 2014.</source:markdown>
+      <source:markdown>Israel has said the remains it received earlier today from Hamas were those of Lieutenant Hadar Goldin, an Israeli officer killed in the 2014 Gaza war.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1109/1542962-gaza-israel-hostage/</guid>
     </item>    <item>
       <title>Two killed in separate single-car collisions in Tipperary</title>
@@ -100,12 +156,12 @@
       <source:markdown>Two people have died in separate single-car collisions in Co Tipperary in the early hours of the morning.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1109/1542965-fatal-collision-tipperary/</guid>
     </item>    <item>
-      <title>Super Typhoon Fung-wong makes landfall in Philippines</title>
+      <title>Two dead as super typhoon makes landfall in Philippines</title>
       <link>https://www.rte.ie/news/2025/1109/1542958-super-typhoon-philippines/</link>
       <description>
-        <![CDATA[Super Typhoon Fung-wong slammed into the Philippines' eastern seaboard, the national weather service said, after killing at least two people and forcing more than a million to evacuate their homes.]]>
+        <![CDATA[Super Typhoon Fung-Wong has made landfall in the Philippines with two fatalities reported and 1 million people evacuated ahead of one of the nation's most powerful storms this year.]]>
       </description>
-      <source:markdown>Super Typhoon Fung-wong slammed into the Philippines&#39; eastern seaboard, the national weather service said, after killing at least two people and forcing more than a million to evacuate their homes.</source:markdown>
+      <source:markdown>Super Typhoon Fung-Wong has made landfall in the Philippines with two fatalities reported and 1 million people evacuated ahead of one of the nation&#39;s most powerful storms this year.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1109/1542958-super-typhoon-philippines/</guid>
     </item>    <item>
       <title>Climate clash: why some EU countries opposed 2040 target</title>
@@ -155,22 +211,22 @@ Why then are many of the same banks involved using confidentiality clauses to po
       <title>Gaza death toll tops 69,000 as Israel and militants again exchange remains</title>
       <link>https://www.cbc.ca/news/world/israel-hamas-war-gaza-settlers-militants-9.6972582?cmp=rss</link>
       <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/ab96a5fe-052b-4bb7-a996-ec7a23da2864,1762676853060/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C309%2C5934%2C3337%29%3BResize%3D%28620%29' alt='Palestinian children stand on the rubble of destroyed buildings' width='620' height='349' title='Palestinian children stand on the rubble of destroyed buildings, amid a ceasefire between Israel and Hamas, in Jabalia, northern Gaza Strip, November 6, 2025. REUTERS/Mahmoud Issa'/><p>More than 69,000 Palestinians have been killed in the Israel-Hamas war so far, Gaza health officials said Saturday, as both sides completed the latest exchange of bodies under the terms of the tenuous ceasefire.
+        <![CDATA[<img src='https://i.cbc.ca/ais/ab96a5fe-052b-4bb7-a996-ec7a23da2864,1762702750878/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C309%2C5934%2C3337%29%3BResize%3D%28620%29' alt='Palestinian children stand on the rubble of destroyed buildings' width='620' height='349' title='Palestinian children stand on the rubble of destroyed buildings, amid a ceasefire between Israel and Hamas, in Jabalia, northern Gaza Strip, November 6, 2025. REUTERS/Mahmoud Issa'/><p>More than 69,000 Palestinians have been killed in the Israel-Hamas war so far, Gaza health officials said Saturday, as both sides completed the latest exchange of bodies under the terms of the tenuous ceasefire.
         </p>]]>
       </description>
-      <source:markdown>![Palestinian children stand on the rubble of destroyed buildings](https://i.cbc.ca/ais/ab96a5fe-052b-4bb7-a996-ec7a23da2864,1762676853060/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C309%2C5934%2C3337%29%3BResize%3D%28620%29)
+      <source:markdown>![Palestinian children stand on the rubble of destroyed buildings](https://i.cbc.ca/ais/ab96a5fe-052b-4bb7-a996-ec7a23da2864,1762702750878/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C309%2C5934%2C3337%29%3BResize%3D%28620%29)
 
 More than 69,000 Palestinians have been killed in the Israel-Hamas war so far, Gaza health officials said Saturday, as both sides completed the latest exchange of bodies under the terms of the tenuous ceasefire.</source:markdown>
       <guid>cid://9.6972582</guid>
     </item>    <item>
-      <title>Super typhoon threatens the Philippines, forcing more than 1 million people to evacuate</title>
+      <title>Super Typhoon Fung-wong hits Philippines after more than 1 million people evacuated</title>
       <link>https://www.cbc.ca/news/world/super-typhoon-the-philippines-evacuation-9.6972581?cmp=rss</link>
       <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/0777d1af-670c-4d20-8c04-df28215c1080,1762675039529/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C178%2C3432%2C1930%29%3BResize%3D%28620%29' alt='half a dozen people in rain gear, two in helmets, make their way off a bridge in the rain ' width='620' height='349' title='In this photo provided by the Philippine Coast Guard, rescuers evacuate people to safer grounds in Quezon province, eastern Philippines as Typhoon Fung-wong enters the country on Sunday Nov. 9 2025. (Philippine Coast Guard via AP)'/><p>Super Typhoon Fung-wong, the biggest storm to threaten the Philippines this year, started battering the country's northeastern coast ahead of landfall on Sunday, knocking down power, forcing the evacuation of more than a million people and prompting the defence chief to warn many others to evacuate to safety from high-risk villages before it's too late.</p>]]>
+        <![CDATA[<img src='https://i.cbc.ca/ais/0777d1af-670c-4d20-8c04-df28215c1080,1762675039529/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C178%2C3432%2C1930%29%3BResize%3D%28620%29' alt='half a dozen people in rain gear, two in helmets, make their way off a bridge in the rain ' width='620' height='349' title='In this photo provided by the Philippine Coast Guard, rescuers evacuate people to safer grounds in Quezon province, eastern Philippines as Typhoon Fung-wong enters the country on Sunday Nov. 9 2025. (Philippine Coast Guard via AP)'/><p>Super Typhoon Fung-wong slammed ashore Sunday on the northeastern coast of the Philippines, where the massive storm had already left at least two people dead and forced more than a million people to evacuate from flood- and landslide-prone areas, officials said.</p>]]>
       </description>
       <source:markdown>![half a dozen people in rain gear, two in helmets, make their way off a bridge in the rain ](https://i.cbc.ca/ais/0777d1af-670c-4d20-8c04-df28215c1080,1762675039529/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C178%2C3432%2C1930%29%3BResize%3D%28620%29)
 
-Super Typhoon Fung-wong, the biggest storm to threaten the Philippines this year, started battering the country&#39;s northeastern coast ahead of landfall on Sunday, knocking down power, forcing the evacuation of more than a million people and prompting the defence chief to warn many others to evacuate to safety from high-risk villages before it&#39;s too late.</source:markdown>
+Super Typhoon Fung-wong slammed ashore Sunday on the northeastern coast of the Philippines, where the massive storm had already left at least two people dead and forced more than a million people to evacuate from flood- and landslide-prone areas, officials said.</source:markdown>
       <guid>cid://9.6972581</guid>
     </item>    <item>
       <title>Syrian president arrives in the US - state media</title>

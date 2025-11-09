@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>09 Nov 25 06:12 -0800</lastBuildDate>
+    <lastBuildDate>09 Nov 25 10:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>UltimaVM: Update 2025-11-08 – More features added to Ultima – Function pointers, Code sections and more</title>
+      <link>https://paolozaino.wordpress.com/2025/11/09/ultimavm-update-2025-11-08-more-features-added-to-ultima-function-pointers-code-sections-and-more/</link>
+      <description>
+        <![CDATA[Given the interest Ultima has been receiving from enthusiasts and engineers, both online and at the few computer shows where I’ve demonstrated it, I think some will appreciate a more detailed look at its ongoing progress. So here’s the first of these updates. Intro If you’re new to Ultima or UltimaVM, you can find an [&#8230;]]]>
+      </description>
+      <source:markdown>Given the interest Ultima has been receiving from enthusiasts and engineers, both online and at the few computer shows where I’ve demonstrated it, I think some will appreciate a more detailed look at its ongoing progress. So here’s the first of these updates. Intro If you’re new to Ultima or UltimaVM, you can find an \[…\]</source:markdown>
+      <guid>cid://http://paolozaino.wordpress.com/?p=9756</guid>
+    </item>    <item>
       <title>How to Brew Solar Powered Coffee</title>
       <link>https://solar.lowtechmagazine.com/2025/11/how-to-brew-solar-powered-coffee/</link>
       <description>
