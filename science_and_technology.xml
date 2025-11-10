@@ -4,14 +4,246 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>10 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>10 Nov 25 10:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Exploring RTEB, a New Benchmark To Evaluate Embedding Models</title>
+      <link>https://thenewstack.io/exploring-rteb-a-new-benchmark-to-evaluate-embedding-models/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/7754a01f-models-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Hand picking up model star on wooden table," style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/7754a01f-models.jpg" /><p>With the rise of large language models (LLMs), our exposure to benchmarks &#8212; not to mention the sheer number and</p>
+        <p>The post <a href="https://thenewstack.io/exploring-rteb-a-new-benchmark-to-evaluate-embedding-models/">Exploring RTEB, a New Benchmark To Evaluate Embedding Models</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Hand picking up model star on wooden table,](https://cdn.thenewstack.io/media/2025/11/7754a01f-models-1024x576.jpg)
+
+With the rise of large language models (LLMs), our exposure to benchmarks — not to mention the sheer number and
+
+The post [Exploring RTEB, a New Benchmark To Evaluate Embedding Models](https://thenewstack.io/exploring-rteb-a-new-benchmark-to-evaluate-embedding-models/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805948</guid>
+    </item>    <item>
+      <title>How to bluff your way to AI credibility with the right buzzwords</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/10/ai_credibility_buzzwords/</link>
+      <description>
+        <![CDATA[<h4>As Gartner offers another serving of word salad, it’s time to know your skillatrophy from your pipeline choke</h4> <p>A Gartner survey of 700 CIOs indicates that, by the end of the decade, all business IT work will involve AI, while bots will do 25 percent of that work by themselves. Good news: The analyst firm claims AI causes only one percent of job losses. Bad news: You&#39;ll have to learn some new jargon.…</p>]]>
+      </description>
+      <source:markdown>#### As Gartner offers another serving of word salad, it’s time to know your skillatrophy from your pipeline choke
+
+A Gartner survey of 700 CIOs indicates that, by the end of the decade, all business IT work will involve AI, while bots will do 25 percent of that work by themselves. Good news: The analyst firm claims AI causes only one percent of job losses. Bad news: You&#39;ll have to learn some new jargon.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242937</guid>
+    </item>    <item>
+      <title>Ironclad OS project popping out Unix-like kernel in a unique mix of languages</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/10/ironclad_os_unix_like_kernel/</link>
+      <description>
+        <![CDATA[<h4>There&#39;s more to safer systems languages than Rust</h4> <p>If you&#39;re looking for a Unix-like, POSIX-compatible, real-time kernel, there&#39;s no shortage of projects trying to build one. Ironclad stands out for using the Ada programming language and its formally verifiable SPARK subset.…</p>]]>
+      </description>
+      <source:markdown>#### There&#39;s more to safer systems languages than Rust
+
+If you&#39;re looking for a Unix-like, POSIX-compatible, real-time kernel, there&#39;s no shortage of projects trying to build one. Ironclad stands out for using the Ada programming language and its formally verifiable SPARK subset.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242936</guid>
+    </item>    <item>
+      <title>Why SAP Is Opening Up Its Data and Developer Ecosystems</title>
+      <link>https://thenewstack.io/why-sap-is-opening-up-its-data-and-developer-ecosystems/</link>
+      <description>
+        <![CDATA[<img width="1024" height="767" src="https://cdn.thenewstack.io/media/2025/11/19fef1e3-img_2831-1024x767.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="SAP sign at TechEd 2025 in Berlin." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/19fef1e3-img_2831-scaled.jpg" /><p>BERLIN &#8212; One of SAP&#8217;s key themes during its TechEd 2025 event in Berlin this year was &#8220;openness.&#8221; While it&#8217;s</p>
+        <p>The post <a href="https://thenewstack.io/why-sap-is-opening-up-its-data-and-developer-ecosystems/">Why SAP Is Opening Up Its Data and Developer Ecosystems</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![SAP sign at TechEd 2025 in Berlin.](https://cdn.thenewstack.io/media/2025/11/19fef1e3-img_2831-1024x767.jpg)
+
+BERLIN — One of SAP’s key themes during its TechEd 2025 event in Berlin this year was “openness.” While it’s
+
+The post [Why SAP Is Opening Up Its Data and Developer Ecosystems](https://thenewstack.io/why-sap-is-opening-up-its-data-and-developer-ecosystems/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805717</guid>
+    </item>    <item>
+      <title>&#34;Anno 117&#34; im Test: Rom für Zuckerbäcker</title>
+      <link>https://www.heise.de/tests/Anno-117-im-Test-Rom-fuer-Zuckerbaecker-11072013.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Produktionsketten sind wichtig, aber auch nicht alles: Mit "Anno 117" bedient die Serie alte Stärken und punktet vor allem mit einer wunderschönen Antike.]]>
+      </description>
+      <source:markdown>Produktionsketten sind wichtig, aber auch nicht alles: Mit &#34;Anno 117&#34; bedient die Serie alte Stärken und punktet vor allem mit einer wunderschönen Antike.</source:markdown>
+      <guid>cid://http://heise.de/-11072013</guid>
+    </item>    <item>
+      <title>Another chance for JPEG XL? PDF will support format as &#39;preferred solution&#39;</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/10/another_chance_for_jpeg_xl/</link>
+      <description>
+        <![CDATA[<h4>Format declared obsolete by Google Chrome team wins PDF support</h4> <p>The PDF Association will add support for the JPEG XL (JXL) image format to the PDF spec, according to a recently published presentation from the org&#39;s European conference. This inclusion means that JXL may yet gain mainstream adoption, despite being declared obsolete by the Chromium team.…</p>]]>
+      </description>
+      <source:markdown>#### Format declared obsolete by Google Chrome team wins PDF support
+
+The PDF Association will add support for the JPEG XL (JXL) image format to the PDF spec, according to a recently published presentation from the org&#39;s European conference. This inclusion means that JXL may yet gain mainstream adoption, despite being declared obsolete by the Chromium team.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242934</guid>
+    </item>    <item>
+      <title>heise+ | Bundeswettbewerb KI für Schüler: Vom preisgekrönten Projekt zur Marktreife</title>
+      <link>https://www.heise.de/hintergrund/Bundeswettbewerb-KI-fuer-Schueler-Vom-preisgekroenten-Projekt-zur-Marktreife-10632160.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Jedes Jahr ruft das Tübingen AI Center Schüler dazu auf, KI-Projekte einzureichen; aus manchen werden später Produkte. Jetzt stehen die Finalisten 2025 fest.]]>
+      </description>
+      <source:markdown>Jedes Jahr ruft das Tübingen AI Center Schüler dazu auf, KI-Projekte einzureichen; aus manchen werden später Produkte. Jetzt stehen die Finalisten 2025 fest.</source:markdown>
+      <guid>cid://http://heise.de/-10632160</guid>
+    </item>    <item>
+      <title>The Netherlands Will Return a Looted 3,500-Year-Old Stone Bust to Egypt</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-netherlands-will-return-a-looted-3500-year-old-stone-bust-to-egypt-180987659/</link>
+      <description>
+        <![CDATA[The repatriation coincided with the lavish opening of the Grand Egyptian Museum, which is finally welcoming visitors after years of delays]]>
+      </description>
+      <source:markdown>The repatriation coincided with the lavish opening of the Grand Egyptian Museum, which is finally welcoming visitors after years of delays</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/FERl4FOiOTnvpeLEfA-KFOK18_8=/420x240/filters:focal(415x277:416x278)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cf/5e/cf5e3588-b63e-4b9a-a8c0-9c97fd9df96d/egyptische-stenen-sculptuur-1920x1280.png" length="" type="" />
+    </item>    <item>
+      <title>ESA will Astronautennahrung aus Luft und Urin herstellen</title>
+      <link>https://www.heise.de/news/ESA-will-Astronautennahrung-aus-Luft-und-Urin-herstellen-11072760.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die ESA entwickelt mit Solar Foods ein System zur Protein-Herstellung im All. Mikroben sollen aus Luft, Strom und Astronautenurin essbare Nährstoffe erzeugen.]]>
+      </description>
+      <source:markdown>Die ESA entwickelt mit Solar Foods ein System zur Protein-Herstellung im All. Mikroben sollen aus Luft, Strom und Astronautenurin essbare Nährstoffe erzeugen.</source:markdown>
+      <guid>cid://http://heise.de/-11072760</guid>
+    </item>    <item>
+      <title>Scientists Are Releasing the Lovingly Nicknamed &#39;Snot Otters&#39; Into Ohio Waterways in a Big Success for Conservation</title>
+      <link>https://www.smithsonianmag.com/smart-news/why-elusive-snot-otters-are-being-released-into-ohio-waterways-180987663/</link>
+      <description>
+        <![CDATA[Eastern hellbenders, the largest amphibians in North America, are in trouble, but conservationists are hard at work to help the wrinkled wonders survive]]>
+      </description>
+      <source:markdown>Eastern hellbenders, the largest amphibians in North America, are in trouble, but conservationists are hard at work to help the wrinkled wonders survive</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/3N__J7B5AeR0QjXcaCgFYOSzgRU=/420x240/filters:focal(1620x1080:1621x1081)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8c/aa/8caafbcb-29e2-4cc5-9b6a-7266f23f5ecc/hellbender_release_2025_06135_-_grahm_s_jones_columbus_zoo_and_aquarium.jpg" length="" type="" />
+    </item>    <item>
+      <title>Social Media ab 16 Jahren? Großer Bahnhof für Mindestalterforderung</title>
+      <link>https://www.heise.de/hintergrund/Social-Media-ab-16-Jahren-Grosser-Bahnhof-fuer-Mindestalterforderung-11072772.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Braucht es ein allgemeines Social-Media-Mindestalter? Dieser Frage widmete sich der Petitionsausschuss des Deutschen Bundestages am Montagmittag.]]>
+      </description>
+      <source:markdown>Braucht es ein allgemeines Social-Media-Mindestalter? Dieser Frage widmete sich der Petitionsausschuss des Deutschen Bundestages am Montagmittag.</source:markdown>
+      <guid>cid://http://heise.de/-11072772</guid>
+    </item>    <item>
+      <title>Zertifikate: BGH-Urteil bringt Anbieter von Online-Lernkursen auf die Barrikaden</title>
+      <link>https://www.heise.de/news/Zertifikate-BGH-Urteil-bringt-Anbieter-von-Online-Lernkursen-auf-die-Barrikaden-11072820.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Laut BGH sind Online-Kurse ohne behördliche Zulassung nichtig. Die Regierungskoalition hat sich vorgenommen, das Fernunterrichtsschutzgesetz zu modernisieren.]]>
+      </description>
+      <source:markdown>Laut BGH sind Online-Kurse ohne behördliche Zulassung nichtig. Die Regierungskoalition hat sich vorgenommen, das Fernunterrichtsschutzgesetz zu modernisieren.</source:markdown>
+      <guid>cid://http://heise.de/-11072820</guid>
+    </item>    <item>
+      <title>Researchers Used Space Dust to Build a Timeline of 30,000 Years of Arctic Sea Ice</title>
+      <link>https://www.smithsonianmag.com/smart-news/researchers-used-space-dust-to-build-a-timeline-of-30000-years-of-arctic-sea-ice-180987662/</link>
+      <description>
+        <![CDATA[Understanding the extent of past Arctic ice could help predict how the planet will respond to global warming]]>
+      </description>
+      <source:markdown>Understanding the extent of past Arctic ice could help predict how the planet will respond to global warming</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/1bNz8a21S7DoHbo-qij8N26LoYY=/420x240/filters:focal(768x512:769x513)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/65/71/65710850-c963-47bc-b131-7eac586cba10/blight00193297340-1536x1021.jpg" length="" type="" />
+    </item>    <item>
+      <title>Kubecon: VCluster’s K8s Platform to Manage GPUs as a Service</title>
+      <link>https://thenewstack.io/kubecon-vclusters-k8s-platform-to-manage-gpus-as-a-service/</link>
+      <description>
+        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/11/aabb5eec-vcluster-1024x768.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/aabb5eec-vcluster.png" /><p>ATLANTA &#8212; VCluster Labs (formerly Loft Labs) has released an augmented version of its namesake Kubernetes distribution, one customized for</p>
+        <p>The post <a href="https://thenewstack.io/kubecon-vclusters-k8s-platform-to-manage-gpus-as-a-service/">Kubecon: VCluster&#8217;s K8s Platform to Manage GPUs as a Service</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/aabb5eec-vcluster-1024x768.png)
+
+ATLANTA — VCluster Labs (formerly Loft Labs) has released an augmented version of its namesake Kubernetes distribution, one customized for
+
+The post [Kubecon: VCluster’s K8s Platform to Manage GPUs as a Service](https://thenewstack.io/kubecon-vclusters-k8s-platform-to-manage-gpus-as-a-service/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805905</guid>
+    </item>    <item>
+      <title>Wie Europol mit Microsoft, Palantir, Clearview &#38; Co. auf Kuschelkurs geht</title>
+      <link>https://www.heise.de/news/Wie-Europol-mit-Microsoft-Palantir-Clearview-Co-auf-Kuschelkurs-geht-11072724.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Statewatch beklagt eine unheilige Allianz zwischen Europol und US-Tech-Unternehmen, die massive Interessenkonflikte und Transparenzprobleme mit sich bringe.]]>
+      </description>
+      <source:markdown>Statewatch beklagt eine unheilige Allianz zwischen Europol und US-Tech-Unternehmen, die massive Interessenkonflikte und Transparenzprobleme mit sich bringe.</source:markdown>
+      <guid>cid://http://heise.de/-11072724</guid>
+    </item>    <item>
+      <title>Kommentar zur KI-Blase: Sam Altman mimt den Oppenheimer des 21. Jahrhunderts</title>
+      <link>https://www.heise.de/hintergrund/Kommentar-zur-KI-Blase-Sam-Altman-mimt-den-Oppenheimer-des-21-Jahrhunderts-10794233.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Trotz Milliardenverlusten und KI-Blasen-Alarm steigen die Kurse weiter. KI ist das neue Manhattan-Projekt der USA, meint Hartmut Gieselmann.]]>
+      </description>
+      <source:markdown>Trotz Milliardenverlusten und KI-Blasen-Alarm steigen die Kurse weiter. KI ist das neue Manhattan-Projekt der USA, meint Hartmut Gieselmann.</source:markdown>
+      <guid>cid://http://heise.de/-10794233</guid>
+    </item>    <item>
+      <title>Apple zeigt, wie App-Entwickler Liquid Glass einsetzen</title>
+      <link>https://www.heise.de/news/Apple-zeigt-wie-App-Entwickler-Liquid-Glass-einsetzen-11071320.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Apples nach wie vor umstrittenes neues Designsystem wird in immer mehr Anwendungen verwendet. Der Konzern hat nun eine Beispielsammlung für Devs publiziert.]]>
+      </description>
+      <source:markdown>Apples nach wie vor umstrittenes neues Designsystem wird in immer mehr Anwendungen verwendet. Der Konzern hat nun eine Beispielsammlung für Devs publiziert.</source:markdown>
+      <guid>cid://http://heise.de/-11071320</guid>
+    </item>    <item>
+      <title>KI-Boom: Rechenzentren in Deutschland wachsen rasant</title>
+      <link>https://www.heise.de/news/KI-Boom-Rechenzentren-in-Deutschland-wachsen-rasant-11072620.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der KI-Boom lässt Rechenzentrumskapazitäten in Deutschland stark wachsen. Bis 2030 soll die Leistung um 70 Prozent steigen.]]>
+      </description>
+      <source:markdown>Der KI-Boom lässt Rechenzentrumskapazitäten in Deutschland stark wachsen. Bis 2030 soll die Leistung um 70 Prozent steigen.</source:markdown>
+      <guid>cid://http://heise.de/-11072620</guid>
+    </item>    <item>
+      <title>To Have Machines Make Math Proofs, Turn Them Into a Puzzle</title>
+      <link>https://www.quantamagazine.org/to-have-machines-make-math-proofs-turn-them-into-a-puzzle-20251110/</link>
+      <description>
+        <![CDATA[Marijn Heule turns mathematical statements into something like Sudoku puzzles, then has computers go to work on them. His proofs have been called “disgusting,” but they go beyond what any human can do.            <p>The post <a href="https://www.quantamagazine.org/to-have-machines-make-math-proofs-turn-them-into-a-puzzle-20251110/" target="_blank">To Have Machines Make Math Proofs, Turn Them Into a Puzzle</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Marijn Heule turns mathematical statements into something like Sudoku puzzles, then has computers go to work on them. His proofs have been called “disgusting,” but they go beyond what any human can do.
+
+The post [To Have Machines Make Math Proofs, Turn Them Into a Puzzle](https://www.quantamagazine.org/to-have-machines-make-math-proofs-turn-them-into-a-puzzle-20251110/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=156484</guid>
+    </item>    <item>
+      <title>Windows 11 26H1 is coming ... for new processors only</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/10/microsoft_breaks_new_ground_with/</link>
+      <description>
+        <![CDATA[<h4>It&#39;s OK to look: New Canary channel build supports specific silicon while 26H2 remains the main 2026 update</h4> <p>Microsoft has confirmed that Windows 11 version 26H1 is coming, but only with changes to support &#34;specific silicon&#34; – possibly Qualcomm&#39;s latest chips due next year – meaning ordinary users are unlikely to see it soon.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### It&#39;s OK to look: New Canary channel build supports specific silicon while 26H2 remains the main 2026 update
+
+Microsoft has confirmed that Windows 11 version 26H1 is coming, but only with changes to support &#34;specific silicon&#34; – possibly Qualcomm&#39;s latest chips due next year – meaning ordinary users are unlikely to see it soon.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242932</guid>
+    </item>    <item>
+      <title>Geheimtipp im Test: &#34;Rue Valley&#34; ist mehr als das kleine &#34;Disco Elysium&#34;</title>
+      <link>https://www.heise.de/tests/Geheimtipp-Rue-Valley-im-Test-Immer-und-immer-und-immer-wieder-ein-Hit-11072556.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Im Mystery-Abenteuer "Rue Valley" gerät die Zeit aus den Fugen und zwingt einen depressiven Autor dazu, sich seinen inneren Dämonen zu stellen. Ein Geheimtipp!]]>
+      </description>
+      <source:markdown>Im Mystery-Abenteuer &#34;Rue Valley&#34; gerät die Zeit aus den Fugen und zwingt einen depressiven Autor dazu, sich seinen inneren Dämonen zu stellen. Ein Geheimtipp!</source:markdown>
+      <guid>cid://http://heise.de/-11072556</guid>
+    </item>    <item>
+      <title>Russian broker pleads guilty to profiting from Yanluowang ransomware attacks</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/10/russian_iab_pleads_guilty_to/</link>
+      <description>
+        <![CDATA[<h4>Aleksei Volkov faces years in prison, may have been working with other crews</h4> <p>A Russian national will likely face several years in US prison after pleading guilty to a range of offenses related to his work with ransomware crews.…</p>]]>
+      </description>
+      <source:markdown>#### Aleksei Volkov faces years in prison, may have been working with other crews
+
+A Russian national will likely face several years in US prison after pleading guilty to a range of offenses related to his work with ransomware crews.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242931</guid>
+    </item>    <item>
+      <title>Go Beyond DevOps With Autonomous Full-Stack Optimization</title>
+      <link>https://thenewstack.io/go-beyond-devops-with-autonomous-full-stack-optimization/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/ea2bebb6-beyond-devops-autonomous-full-stack-optimization-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="&quot;Go Beyond DevOps With Autonomous Full-Stack Optimization&quot; featured image. Robot arm stacking blocks" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/ea2bebb6-beyond-devops-autonomous-full-stack-optimization.jpg" /><p>In the days of on-premises data centers, when procurement cycles were measured in months, overprovisioning was a logical risk management</p>
+        <p>The post <a href="https://thenewstack.io/go-beyond-devops-with-autonomous-full-stack-optimization/">Go Beyond DevOps With Autonomous Full-Stack Optimization</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![&#34;Go Beyond DevOps With Autonomous Full-Stack Optimization&#34; featured image. Robot arm stacking blocks](https://cdn.thenewstack.io/media/2025/11/ea2bebb6-beyond-devops-autonomous-full-stack-optimization-1024x576.jpg)
+
+In the days of on-premises data centers, when procurement cycles were measured in months, overprovisioning was a logical risk management
+
+The post [Go Beyond DevOps With Autonomous Full-Stack Optimization](https://thenewstack.io/go-beyond-devops-with-autonomous-full-stack-optimization/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805920</guid>
+    </item>    <item>
+      <title>Amazfit T-Rex 3 Pro im Test: Robuste Sportuhr zum Top-Preis</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/amazfit-t-rex-3-pro-im-test-robuste-sportuhr-mit-gps-navigation-zum-top-preis/vx5mlvk?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Outdoor-Sportuhr Amazfit T‑Rex 3 Pro ist spürbar verbessert und sagt Garmin den Kampf an.]]>
+      </description>
+      <source:markdown>Die Outdoor-Sportuhr Amazfit T‑Rex 3 Pro ist spürbar verbessert und sagt Garmin den Kampf an.</source:markdown>
+      <guid>cid://http://heise.de/-11072562</guid>
+    </item>    <item>
+      <title>Termix 1.8.0: SSH-Client mit komplett überarbeitetem Server-Monitoring</title>
+      <link>https://www.heise.de/news/Termix-1-8-0-SSH-Client-mit-komplett-ueberarbeitetem-Server-Monitoring-11072277.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der plattformübergreifende SSH-Client erhält umfangreiche Terminal-Anpassungen, SSH-Snippets und erweiterte Server-Überwachung.]]>
+      </description>
+      <source:markdown>Der plattformübergreifende SSH-Client erhält umfangreiche Terminal-Anpassungen, SSH-Snippets und erweiterte Server-Überwachung.</source:markdown>
+      <guid>cid://http://heise.de/-11072277</guid>
+    </item>    <item>
       <title>Practitioners’ Guide to Chiseled Containers: Smaller, Faster, Safer</title>
       <link>https://thenewstack.io/practitioners-guide-to-chiseled-containers-smaller-faster-safer/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/cfffb815-chiseled-nonchisled-containers-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="&quot;Practitioners’ Guide to Chiseled Containers: Smaller, Faster, Safer&quot; featured image." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/cfffb815-chiseled-nonchisled-containers.jpg" /><p>Containerization has transformed how teams build and deploy applications, but it&#8217;s also introduced new operational challenges. Traditional container images often</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/cfffb815-chiseled-nonchisled-containers-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="&quot;Practitioners’ Guide to Chiseled Containers: Smaller, Faster, Safer&quot; featured image." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/cfffb815-chiseled-nonchisled-containers.jpg" /><p>Containerization has transformed how teams build and deploy applications, but it&#8217;s also introduced new operational challenges. Traditional container images often</p>
         <p>The post <a href="https://thenewstack.io/practitioners-guide-to-chiseled-containers-smaller-faster-safer/">Practitioners’ Guide to Chiseled Containers: Smaller, Faster, Safer</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![&#34;Practitioners’ Guide to Chiseled Containers: Smaller, Faster, Safer&#34; featured image.](https://cdn.thenewstack.io/media/2025/11/cfffb815-chiseled-nonchisled-containers-1024x576.jpg)
@@ -240,12 +472,12 @@ Allianz UK confirms it was one of the many companies that fell victim to the Clo
       <source:markdown>In Europa gilt eine Entwicklungszeit von vier Jahren für ein Auto als guter Durchschnitt. Den neuen Twingo hat Renault in 100 Wochen auf die Straße gebracht.</source:markdown>
       <guid>cid://http://heise.de/-10278224</guid>
     </item>    <item>
-      <title>Three most important factors in enterprise IT: control, control, control</title>
+      <title>Big Tech&#39;s control freak era is breaking itself apart</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/10/three_most_important_factors_in/</link>
       <description>
-        <![CDATA[<h4>We’re all out of it. How to get it back is an open secret</h4> <p><strong>Opinion</strong>  When the first generation of microcomputers landed on desktops, they promised many things. Affordability, flexibility, efficiency, all the good things still selling IT to this day. Mostly, though, they offered control.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+        <![CDATA[<h4>AI slop, Trump tantrums, and zero humans answering phones</h4> <p><strong>Opinion</strong>  When the first generation of microcomputers landed on desktops, they promised many things. Affordability, flexibility, efficiency, all the good things still selling IT to this day. Mostly, though, they offered control.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
-      <source:markdown>#### We’re all out of it. How to get it back is an open secret
+      <source:markdown>#### AI slop, Trump tantrums, and zero humans answering phones
 
 **Opinion**  When the first generation of microcomputers landed on desktops, they promised many things. Affordability, flexibility, efficiency, all the good things still selling IT to this day. Mostly, though, they offered control.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242914</guid>

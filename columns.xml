@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>10 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>10 Nov 25 10:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,157 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/10.html#a173625</link>
+      <description>
+        <![CDATA[Before I was so rudely interrupted, I was going to write a short post about how I never thought about how good Credence Clearwater is, until Andrew Hickey did a whole <a href="https://500songs.com/podcast/2714/">longish episode</a> on them. The story isn't that interesting, but the music is great, lots of fun. Never realized it. Right now I'm listening to <a href="https://www.youtube.com/watch?v=fcTQCNntGEs">Born on the Bayou</a>, lovin it.]]>
+      </description>
+      <source:markdown>Before I was so rudely interrupted, I was going to write a short post about how I never thought about how good Credence Clearwater is, until Andrew Hickey did a whole [longish episode](https://500songs.com/podcast/2714/) on them. The story isn&#39;t that interesting, but the music is great, lots of fun. Never realized it. Right now I&#39;m listening to [Born on the Bayou](https://www.youtube.com/watch?v=fcTQCNntGEs), lovin it.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/10.html#a173625</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/10.html#a173059</link>
+      <description>
+        <![CDATA[Now that Cory Doctorow has put <a href="https://daytona.scripting.com/search?q=enshitified">enshitified</a> into our vocabulary, I find myself looking for evidence of it in AI, and finding it everywhere. There is a common thread. Amazon Alexa has a really nasty habit of finishing a song by asking me if I want to listen to some other version of it. I'm sure that seems like a nice friendly thing to the product people at Amazon, but please -- I'm grooving on the energy of the song, and the last thing I'm thinking about is some asshole robot interfering with my train of thought with a question so stupid only a machine could think of it. Okay I think that qualifies for enshitification right there. Can we have a rule that AI bots must by defalt behave like a computer. I, your human overlord, the one who is paying the bills, will ask the questions. And you will not speak until you are spoken to.]]>
+      </description>
+      <source:markdown>Now that Cory Doctorow has put [enshitified](https://daytona.scripting.com/search?q=enshitified) into our vocabulary, I find myself looking for evidence of it in AI, and finding it everywhere. There is a common thread. Amazon Alexa has a really nasty habit of finishing a song by asking me if I want to listen to some other version of it. I&#39;m sure that seems like a nice friendly thing to the product people at Amazon, but please -- I&#39;m grooving on the energy of the song, and the last thing I&#39;m thinking about is some asshole robot interfering with my train of thought with a question so stupid only a machine could think of it. Okay I think that qualifies for enshitification right there. Can we have a rule that AI bots must by defalt behave like a computer. I, your human overlord, the one who is paying the bills, will ask the questions. And you will not speak until you are spoken to.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/10.html#a173059</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/10.html#a172051</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2023/07/02/validRss.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I figured since I'm out there asking everyone (nicely I hope) to add source:markdown to their feeds, it kind of sucks that <a href="http://scripting.com/rss.xml">my own feed</a> didn't support it. Now it does. I've started a <a href="https://github.com/scripting/Scripting-News/issues/336">thread on GitHub</a> to report problems, and I can see that there will be some. If your feed reader prefers markdown, you will see the problems right off, I think.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2023/07/02/validRss.png)I figured since I&#39;m out there asking everyone (nicely I hope) to add source:markdown to their feeds, it kind of sucks that [my own feed](http://scripting.com/rss.xml) didn&#39;t support it. Now it does. I&#39;ve started a [thread on GitHub](https://github.com/scripting/Scripting-News/issues/336) to report problems, and I can see that there will be some. If your feed reader prefers markdown, you will see the problems right off, I think.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/10.html#a172051</guid>
+    </item>    <item>
+      <title>Ironclad OS project popping out Unix-like kernel in a unique mix of languages</title>
+      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/11/10/ironclad_os_unix_like_kernel/</link>
+      <description>
+        <![CDATA[<h4>There&#39;s more to safer systems languages than Rust</h4>
+              <p>If you&#39;re looking for a Unix-like, POSIX-compatible, real-time kernel, there&#39;s no shortage of projects trying to build one. Ironclad stands out for using the Ada programming language and its formally verifiable SPARK subset.</p>]]>
+      </description>
+      <source:markdown>#### There&#39;s more to safer systems languages than Rust
+
+If you&#39;re looking for a Unix-like, POSIX-compatible, real-time kernel, there&#39;s no shortage of projects trying to build one. Ironclad stands out for using the Ada programming language and its formally verifiable SPARK subset.</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242936</guid>
+    </item>    <item>
+      <title>A Journey to Vietnam to Uncover the Origins of Phở. &#38;#8220;If you...</title>
+      <link>https://kottke.org/25/11/0047815-a-journey-to-vietnam-to</link>
+      <guid>cid://tag:kottke.org,2025://13.47815</guid>
+    </item>    <item>
+      <link>https://glammr.us/@IIIF/115526446038298930</link>
+      <description>
+        <![CDATA[<p>Join us on Wednesday for our November Community Call featuring a demo of DadoCM, a minimal, system-agnostic framework for describing digital objects with archival principles.</p><p>Zoom info: <a href="http://iiif.io/community" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">http://</span><span class="">iiif.io/community</span><span class="invisible"></span></a></p>]]>
+      </description>
+      <source:markdown>Join us on Wednesday for our November Community Call featuring a demo of DadoCM, a minimal, system-agnostic framework for describing digital objects with archival principles.
+
+Zoom info: [http://iiif.io/community](http://iiif.io/community)</source:markdown>
+      <guid>cid://https://glammr.us/@IIIF/115526446038298930</guid>
+    </item>    <item>
+      <title>Chuck Schumer Doesn’t Know What Time It Is</title>
+      <link>https://www.notesfromthecircus.com/p/chuck-schumer-doesnt-know-what-time</link>
+      <description>
+        <![CDATA[After forty days.]]>
+      </description>
+      <source:markdown>After forty days.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Nj3n!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd61ec14a-5f63-43e8-a653-048dc2e9ee78_4000x2667.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/chuck-schumer-doesnt-know-what-time</guid>
+    </item>    <item>
+      <title>The Shutdown Surrender</title>
+      <link>https://davekarpf.substack.com/p/the-shutdown-surrender</link>
+      <description>
+        <![CDATA[I just... I mean... Whatever.]]>
+      </description>
+      <source:markdown>I just... I mean... Whatever.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!QcfV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe21df5ea-feef-451b-833a-a568eff239ea_400x400.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://davekarpf.substack.com/p/the-shutdown-surrender</guid>
+    </item>    <item>
+      <title>Elon Musk gets roasted on his own platform by Joyce Carol Oates.</title>
+      <link>https://lithub.com/elon-musk-gets-roasted-on-his-own-platform-by-joyce-carol-oates/</link>
+      <description>
+        <![CDATA[Like an ancient cyborg culling through the ruins of a post-apocalyptic planet (twitter, derogatory), Joyce Carol Oates recently fired her full-power death ray at aspiring trillionaire Elon Musk, whose childish attempts to justify his riches prompted this, from JCO (who]]>
+      </description>
+      <source:markdown>Like an ancient cyborg culling through the ruins of a post-apocalyptic planet (twitter, derogatory), Joyce Carol Oates recently fired her full-power death ray at aspiring trillionaire Elon Musk, whose childish attempts to justify his riches prompted this, from JCO (who</source:markdown>
+      <guid>cid://https://lithub.com/?p=262485</guid>
+    </item>    <item>
+      <title>17-Year-Old Biggie Smalls Freestyling</title>
+      <link>https://kottke.org/25/11/17-year-old-biggie-smalls-freestyling-1</link>
+      <guid>cid://tag:kottke.org,2025://5.47806</guid>
+    </item>    <item>
+      <title>Donald Trump is Joe Biden now</title>
+      <link>https://www.gelliottmorris.com/p/donald-trump-is-joe-biden-now</link>
+      <description>
+        <![CDATA[The president's numbers on prices are where Biden's were during peak inflation in 2022-23.]]>
+      </description>
+      <source:markdown>The president&#39;s numbers on prices are where Biden&#39;s were during peak inflation in 2022-23.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!hAJm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f3ff9ca-d8ac-4434-ab2e-9116f4de6591_1220x836.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/donald-trump-is-joe-biden-now</guid>
+    </item>    <item>
+      <title>Minisforum stuffs an entire Arm Homelab in the MS-R1</title>
+      <link>https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1</link>
+      <description>
+        <![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Minisforum stuffs an entire Arm Homelab in the MS-R1</span>
+        
+                    <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="https://www.jeffgeerling.com/sites/default/files/images/minisforum-ms-r1-front.jpg" width="700" height="394" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-b2821174-503d-4a7d-b3e8-5cd9b17c53e6" data-insert-attach="{&quot;id&quot;:&quot;b2821174-503d-4a7d-b3e8-5cd9b17c53e6&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Minisforum MS-R1 front"></p>
+        
+        <p>The <a href="https://s.minisforum.com/4hRFZbj">Minisforum MS-R1</a> uses the same Cix CD8180 Arm SoC as the <a href="https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc">Orion O6 I reviewed earlier this year</a>. But everything else about this thing is different.</p>
+        
+        <p>What this thing <em>should</em> be, is a box that runs Linux and can compete with at least an Apple M1 Mac mini, or a mid-range Mini PC. But what we <em>got</em>... is something different.</p>
+        
+        <h2>Video</h2>
+        
+        <p>Hate reading? I also published a video on the MS-R1 on my YouTube channel. Watch it here, or scroll on past.</p></div>
+              <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-11-10T10:01:10-06:00" title="Monday, November 10, 2025 - 10:01" class="datetime">November 10, 2025</time>
+        </span>]]>
+      </description>
+      <source:markdown>Minisforum stuffs an entire Arm Homelab in the MS-R1
+
+![Minisforum MS-R1 front](https://www.jeffgeerling.com/sites/default/files/images/minisforum-ms-r1-front.jpg)
+
+The [Minisforum MS-R1](https://s.minisforum.com/4hRFZbj) uses the same Cix CD8180 Arm SoC as the [Orion O6 I reviewed earlier this year](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc). But everything else about this thing is different.
+
+What this thing _should_ be, is a box that runs Linux and can compete with at least an Apple M1 Mac mini, or a mid-range Mini PC. But what we _got_... is something different.
+
+## Video
+
+Hate reading? I also published a video on the MS-R1 on my YouTube channel. Watch it here, or scroll on past.
+
+Jeff GeerlingNovember 10, 2025</source:markdown>
+      <guid>cid://3511 at https://www.jeffgeerling.com</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/10.html#a152747</link>
+      <description>
+        <![CDATA[Good morning sports fans!]]>
+      </description>
+      <source:markdown>Good morning sports fans!</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/10.html#a152747</guid>
+    </item>    <item>
+      <title>AI-enabled Hear The World device describes its surroundings</title>
+      <link>https://www.raspberrypi.com/news/ai-enabled-hear-the-world-device-describes-its-surroundings/</link>
+      <description>
+        <![CDATA[<p>A keen photographer’s aid for visually impaired users gets Raspberry Pi to describe what the camera sees.</p>
+        <p>The post <a href="https://www.raspberrypi.com/news/ai-enabled-hear-the-world-device-describes-its-surroundings/">AI-enabled Hear The World device describes its surroundings</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
+      </description>
+      <source:markdown>A keen photographer’s aid for visually impaired users gets Raspberry Pi to describe what the camera sees.
+
+The post [AI-enabled Hear The World device describes its surroundings](https://www.raspberrypi.com/news/ai-enabled-hear-the-world-device-describes-its-surroundings/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
+      <guid>cid://https://www.raspberrypi.com/?p=131513</guid>
+    </item>    <item>
+      <title>If you&#38;#8217;re looking for a typeface with Radio Shack logo vibes, try...</title>
+      <link>https://kottke.org/25/11/0047813-if-youre-looking-for-a</link>
+      <guid>cid://tag:kottke.org,2025://13.47813</guid>
+    </item>    <item>
+      <title>You need an AI policy for docs</title>
+      <link>https://passo.uno/ai-docs-policy-contributions/</link>
+      <description>
+        <![CDATA[<p>The dam of AI-written doc contributions might be about to break. It’s already cracking for code, with posts <a href="https://news.ycombinator.com/item?id=45744209">wondering</a> how to review a vibe-coded pull request consisting of nine thousand new lines of code. In the midst of what Tom Johnson <a href="https://idratherbewriting.com/blog/ai-narrative-from-liberation-to-acceleration">describes as acceleration</a>, docs-as-code writers wonder how to contain the seemingly inescapable wave that could bury their backlogs in AI slop. The answer could lie in taking a stance. This means crafting an AI policy for docs.</p>]]>
+      </description>
+      <source:markdown>The dam of AI-written doc contributions might be about to break. It’s already cracking for code, with posts [wondering](https://news.ycombinator.com/item?id=45744209) how to review a vibe-coded pull request consisting of nine thousand new lines of code. In the midst of what Tom Johnson [describes as acceleration](https://idratherbewriting.com/blog/ai-narrative-from-liberation-to-acceleration), docs-as-code writers wonder how to contain the seemingly inescapable wave that could bury their backlogs in AI slop. The answer could lie in taking a stance. This means crafting an AI policy for docs.</source:markdown>
+      <guid>cid://https://passo.uno/ai-docs-policy-contributions/</guid>
+    </item>    <item>
+      <title>Coulou&#38;#8217;s vinyl cafe (no. 2). &#38;#8220;Even though we&#38;#8217;re traveling from jazz to...</title>
+      <link>https://kottke.org/25/11/0047809-coulous-vinyl-cafe-no-2</link>
+      <guid>cid://tag:kottke.org,2025://13.47809</guid>
     </item>    <item>
       <title>&#38;#8220;I wish we could ignore Bill Gates on the climate crisis. But...</title>
       <link>https://kottke.org/25/11/0047818-i-wish-we-could-ignore</link>
@@ -265,13 +416,13 @@ And if you’re in a decision-making position somewhere, surely you can do your 
       <enclosure url="https://substackcdn.com/image/fetch/$s_!R0XS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8d7f9dd-cfdb-4966-8d66-2557234f0483_1024x683.heic" length="0" type="image/jpeg" />
       <guid>cid://https://www.borowitzreport.com/p/nobel-peace-prize-committee-says</guid>
     </item>    <item>
-      <title>Earth to Democrats: Do NOT compromise on your shutdown demand</title>
+      <title>The Big Cave</title>
       <link>https://robertreich.substack.com/p/earth-to-democrats-do-not-compromise</link>
       <description>
-        <![CDATA[You hold the cards now. Last Tuesday's election shows it.]]>
+        <![CDATA[Democrats have no discipline. Republicans are nothing but discipline.]]>
       </description>
-      <source:markdown>You hold the cards now. Last Tuesday&#39;s election shows it.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!R6i0!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe96db34a-397b-489e-93c1-20a16c14399c_552x552.png" length="0" type="image/jpeg" />
+      <source:markdown>Democrats have no discipline. Republicans are nothing but discipline.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!3IW5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F536356eb-1fde-44f4-964a-a04314f5e00b_3500x3025.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/earth-to-democrats-do-not-compromise</guid>
     </item>    <item>
       <title>Air Travel at the Breaking Point.</title>
@@ -300,6 +451,13 @@ And if you’re in a decision-making position somewhere, surely you can do your 
 
 The post [616\. Elizabeth I: The Fall of the Axe (Part 1)](https://therestishistory.com/616-elizabeth-i-the-fall-of-the-axe-part-1/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
       <guid>cid://https://therestishistory.com/616-elizabeth-i-the-fall-of-the-axe-part-1/</guid>
+    </item>    <item>
+      <title>Custom Icons</title>
+      <link>https://buttondown.com/blog/custom-icons</link>
+      <description>
+        <![CDATA[How to add custom icons to your newsletter]]>
+      </description>
+      <source:markdown>How to add custom icons to your newsletter</source:markdown>
     </item>    <item>
       <link>http://scripting.com/2025/11/09.html#a235211</link>
       <description>
@@ -2528,7 +2686,7 @@ As usual, you can also use this squid post to talk about the security stories in
         <![CDATA[Listen now | The Andy Borowitz Show]]>
       </description>
       <source:markdown>Listen now \| The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/178201642/85e17173bc785fb06894c90370f65871.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/178201642/c5f3fde1ee3e6059ddc476bb88780888.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.borowitzreport.com/p/blue-tsunami-special</guid>
     </item>    <item>
       <title>Published on Citation Needed: &#34;Issue 96 – Redefining solvency&#34;</title>
@@ -5117,7 +5275,7 @@ As authoritarianism is rising around the world, AI-generated “slop” is overw
         <![CDATA[Watch now | The Andy Borowitz Show]]>
       </description>
       <source:markdown>Watch now \| The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/177901928/5e8b1c7a8080ce60e49b3f31faa00bac.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/177901928/cbd521a355bf203d47512219f07dd1f4.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.borowitzreport.com/p/adam-kinzinger-doesnt-hold-back</guid>
     </item>    <item>
       <title>A Brief History of American Socialism</title>
@@ -7233,7 +7391,9 @@ Dave
 
 PS: At the reunion I remember telling David Weinberger that I had hung up my [spurs](https://idioms.thefreedictionary.com/hang+up+your+spurs), I was done developing. It turned out I wasn&#39;t done. Heh. I think people like me never hang em up voluntarily. Who knows. ;-)
 
-![](https://imgs.scripting.com/2025/11/03/wordlandScreenShot.png)WordLand screen shot.</source:markdown>
+![](https://imgs.scripting.com/2025/11/03/wordlandScreenShot.png)
+
+WordLand screen shot.</source:markdown>
       <guid>cid://http://scripting.com/2025/11/03/120946.html</guid>
     </item>    <item>
       <title>AI Summarization Optimization</title>
@@ -11371,7 +11531,7 @@ He&#39;s very much [alive](https://en.wikipedia.org/wiki/Philippe_Kahn) as far a
         <![CDATA[Listen now | The Andy Borowitz Show]]>
       </description>
       <source:markdown>Listen now \| The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/177454182/5e9f70380c850b62714e754fc284c6fe.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/177454182/f1eeb3e66df6e0cdceba5c6cc2be0a51.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.borowitzreport.com/p/a-national-guardsman-stands-up-to</guid>
     </item>    <item>
       <title>In conversation with Zohran Mamdani</title>

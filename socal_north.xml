@@ -7,10 +7,66 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>10 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>10 Nov 25 10:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Supreme Court declines to revisit landmark gay marriage decision</title>
+      <link>https://laist.com/news/politics/supreme-court-declines-to-revisit-gay-marriage-decision</link>
+      <description>
+        <![CDATA[The challenge to the court's 2015 ruling came from Kim Davis, the former Kentucky clerk who refused to issue same-sex licenses after the court legalized same-sex marriage.]]>
+      </description>
+      <source:markdown>The challenge to the court&#39;s 2015 ruling came from Kim Davis, the former Kentucky clerk who refused to issue same-sex licenses after the court legalized same-sex marriage.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-6e7d-d470-a5ff-fffd475d0000</guid>
+    </item>    <item>
+      <title>Trump administration again asks Supreme Court intervene on order for full SNAP benefits</title>
+      <link>https://laist.com/news/food/trump-admin-order-to-immediately-undo-full-snap-benefits-leaves-states-scrambling</link>
+      <description>
+        <![CDATA[The administration's appeal to the high court over the Supplemental Nutrition Assistance Program comes despite new efforts to end the federal shutdown, which would render the issue moot.]]>
+      </description>
+      <source:markdown>The administration&#39;s appeal to the high court over the Supplemental Nutrition Assistance Program comes despite new efforts to end the federal shutdown, which would render the issue moot.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-6e77-d470-a5ff-fff7e3e40000</guid>
+    </item>    <item>
+      <title>Countries are gathering for climate negotiations. Here&#39;s where the US stands</title>
+      <link>https://laist.com/news/climate-environment/countries-are-gathering-for-climate-negotiations-heres-where-the-us-stands</link>
+      <description>
+        <![CDATA[Under President Trump, the U.S. has taken steps to roll back climate policies. Here are six significant changes.]]>
+      </description>
+      <source:markdown>Under President Trump, the U.S. has taken steps to roll back climate policies. Here are six significant changes.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-6e61-d392-a7ba-7feb50ff0000</guid>
+    </item>    <item>
+      <title>Who has Trump pardoned and why?</title>
+      <link>https://laist.com/news/criminal-justice/trump-ramps-up-the-insider-pardon-for-those-in-his-personal-political-orbit</link>
+      <description>
+        <![CDATA[This week, President Trump pardoned allies accused of trying to overturn the 2020 presidential election. It is part of an uptick in "insider pardons" issued in his second term, one legal expert says.]]>
+      </description>
+      <source:markdown>This week, President Trump pardoned allies accused of trying to overturn the 2020 presidential election. It is part of an uptick in &#34;insider pardons&#34; issued in his second term, one legal expert says.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-6e5b-d922-af9b-efdb8db20000</guid>
+    </item>    <item>
+      <title>Trump grants pardons to Giuliani, Meadows, others linked to 2020 election efforts</title>
+      <link>https://laist.com/news/criminal-justice/trump-grants-pardons-to-giuliani-meadows-others-linked-to-2020-election-efforts</link>
+      <description>
+        <![CDATA[The pardons include 77 allies tied to efforts to overturn the 2020 election, including Rudy Giuliani, former White House Chief of Staff Mark Meadows, and former Trump attorney Sidney Powell.]]>
+      </description>
+      <source:markdown>The pardons include 77 allies tied to efforts to overturn the 2020 election, including Rudy Giuliani, former White House Chief of Staff Mark Meadows, and former Trump attorney Sidney Powell.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-6e58-d470-a5ff-ffdd19c10000</guid>
+    </item>    <item>
+      <title>Muslim women in SoCal are creating third spaces to build community instead of ‘shrinking’ to fit in</title>
+      <link>https://laist.com/news/los-angeles-activities/muslim-women-socal-third-spaces-community</link>
+      <description>
+        <![CDATA[“ I feel like Muslim women are kind of tired of shrinking to fit into places we aren't that's not made for us.”]]>
+      </description>
+      <source:markdown>“ I feel like Muslim women are kind of tired of shrinking to fit into places we aren&#39;t that&#39;s not made for us.”</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5ff9-d922-af9b-dff93f760000</guid>
+    </item>    <item>
+      <title>Best things to do this week in LA and SoCal: Nov. 10-13</title>
+      <link>https://laist.com/news/arts-and-entertainment/best-events-weekly-los-angeles-southern-california-november-10</link>
+      <description>
+        <![CDATA[The Ojai Film Fest wraps up, Annie Leibovitz on “Women” at the Wiltern, Rodeo Drive turns on its holiday lights, a spooky new musical, and more of the best things to do this week.]]>
+      </description>
+      <source:markdown>The Ojai Film Fest wraps up, Annie Leibovitz on “Women” at the Wiltern, Rodeo Drive turns on its holiday lights, a spooky new musical, and more of the best things to do this week.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-6007-d922-af9b-e9c7921d0000</guid>
+    </item>    <item>
       <title>Your guide to SoCal Edison&#39;s Eaton Fire payout plan</title>
       <link>https://laist.com/news/climate-environment/edison-payout-guide</link>
       <description>
@@ -26,22 +82,6 @@
       </description>
       <source:markdown>Legal experts say California could go it alone if the federal government stops regulating greenhouse gases. One reason to try is to protect the state’s clean-car economy.</source:markdown>
       <guid>cid://urn:uuid:0000019a-60dc-d2d1-a5bb-eafc0d590000</guid>
-    </item>    <item>
-      <title>Best things to do this week in LA and SoCal: Nov. 10-13</title>
-      <link>https://laist.com/news/arts-and-entertainment/best-events-weekly-los-angeles-southern-california-november-10</link>
-      <description>
-        <![CDATA[The Ojai Film Fest wraps up, Annie Leibovitz on “Women” at the Wiltern, Rodeo Drive turns on its holiday lights, a spooky new musical, and more of the best things to do this week.]]>
-      </description>
-      <source:markdown>The Ojai Film Fest wraps up, Annie Leibovitz on “Women” at the Wiltern, Rodeo Drive turns on its holiday lights, a spooky new musical, and more of the best things to do this week.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-6007-d922-af9b-e9c7921d0000</guid>
-    </item>    <item>
-      <title>Muslim women in SoCal are creating third spaces to build community instead of ‘shrinking’ to fit in</title>
-      <link>https://laist.com/news/los-angeles-activities/muslim-women-socal-third-spaces-community</link>
-      <description>
-        <![CDATA[“ I feel like Muslim women are kind of tired of shrinking to fit into places we aren't that's not made for us.”]]>
-      </description>
-      <source:markdown>“ I feel like Muslim women are kind of tired of shrinking to fit into places we aren&#39;t that&#39;s not made for us.”</source:markdown>
-      <guid>cid://urn:uuid:0000019a-5ff9-d922-af9b-dff93f760000</guid>
     </item>    <item>
       <title>Senators take first step toward reopening the government after historic shutdown</title>
       <link>https://laist.com/news/politics/senators-take-first-step-toward-reopening-the-government-after-historic-shutdown</link>
@@ -66,6 +106,14 @@
       </description>
       <source:markdown>Gates plans to continue battling the liberal state government at the city attorney’s office. He says he&#39;ll run to head that office again next year.</source:markdown>
       <guid>cid://urn:uuid:0000019a-6a8b-d90e-afbf-7fbf66190000</guid>
+    </item>    <item>
+      <title>New trial date set for Uber Driver accused of starting Palisades Fire</title>
+      <link>https://laist.com/news/new-trial-date-set-for-uber-driver-accused-of-starting-palisades-fire</link>
+      <description>
+        <![CDATA[The date is now moved to April of next year.]]>
+      </description>
+      <source:markdown>The date is now moved to April of next year.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-6a1f-d3ff-a7be-7bffe1240000</guid>
     </item>    <item>
       <title>Public art protest of ICE raids asks &#39;Am I Next?&#39; Campaign features prominent Trump critics</title>
       <link>https://laist.com/news/los-angeles-activities/downtown-l-a-am-i-next-ice-art-edward-james-olmos-george-takei</link>
