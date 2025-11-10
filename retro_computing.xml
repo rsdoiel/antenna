@@ -4,7 +4,7 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>09 Nov 25 14:09 -0800</lastBuildDate>
+    <lastBuildDate>10 Nov 25 06:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -1094,22 +1094,6 @@ Want to know why nightly builds of BASIC gained a new [SYS-as-a-function keyword
       </description>
       <source:markdown>A new version of Fireworkz Pro 2 has been released by R-Comp (with availability via !Store and on CD at the RISC OS London Show on Saturday, 25th October). Over to Andrew Rawnsley for more details: We are pleased to announce the release of Fireworkz Pro version 2.33.00 as a free upgrade for existing users of 2.3x series. It is available to download now on !Store – look in your “My Software”. The new version includes a number of changes including: Improved load / save performance on modern systems (helpful…</source:markdown>
       <guid>cid://https://www.riscository.com/?p=10760</guid>
-    </item>    <item>
-      <title>b.log 2025/10/19 - The brown beverage lives!</title>
-      <link>https://heyrick.eu/blog/entry/20251019</link>
-      <description>
-        <![CDATA[The brown beverage lives!]]>
-      </description>
-      <source:markdown>The brown beverage lives!</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20251019</guid>
-    </item>    <item>
-      <title>Important travel update for the London Show</title>
-      <link>https://www.riscository.com/2025/london-show-travel-update/</link>
-      <description>
-        <![CDATA[If you&#8217;re coming to the RISC OS London Show, which at the time of writing will take place in just six days, the organisers have posted an important update for people using public transport: For those planning to travel by tube, note that the Bakerloo Line through Kenton station is closed on the day of the show. Trains from Watford And Euston to Kenton are still running. Use the Metropolitan Line to Northwick Park station instead, it is only slightly further away. More info, maps, and walking directions from the&#8230;]]>
-      </description>
-      <source:markdown>If you’re coming to the RISC OS London Show, which at the time of writing will take place in just six days, the organisers have posted an important update for people using public transport: For those planning to travel by tube, note that the Bakerloo Line through Kenton station is closed on the day of the show. Trains from Watford And Euston to Kenton are still running. Use the Metropolitan Line to Northwick Park station instead, it is only slightly further away. More info, maps, and walking directions from the…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10753</guid>
     </item>
   </channel>
 </rss>

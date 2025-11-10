@@ -4,10 +4,38 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>09 Nov 25 14:09 -0800</lastBuildDate>
+    <lastBuildDate>10 Nov 25 06:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Internet Luminaries Unite to Defend the Open Web: “Let’s Have a Game with Many Winners”</title>
+      <link>https://blog.archive.org/2025/11/10/internet-luminaries-unite-to-defend-the-open-web-lets-have-a-game-with-many-winners/</link>
+      <description>
+        <![CDATA[At Wayback to the Future: Celebrating the Open Web in Washington D.C., some of the internet’s founding figures gathered to reflect on what went wrong—and what might still be saved. [&#8230;]]]>
+      </description>
+      <source:markdown>At Wayback to the Future: Celebrating the Open Web in Washington D.C., some of the internet’s founding figures gathered to reflect on what went wrong—and what might still be saved. \[…\]</source:markdown>
+      <guid>cid://https://blog.archive.org/?p=29565</guid>
+    </item>    <item>
+      <title>Revisiting: Years and Years of Creative Commons Confusion</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/11/10/revisiting-years-and-years-of-creative-commons-confusion/</link>
+      <description>
+        <![CDATA[<p>Creative Commons licenses continue to confuse the communications community. Here we collect a decade-plus of articles looking to offer some clarity on their use.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/11/10/revisiting-years-and-years-of-creative-commons-confusion/">Revisiting: Years and Years of Creative Commons Confusion</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Creative Commons licenses continue to confuse the communications community. Here we collect a decade-plus of articles looking to offer some clarity on their use.
+
+The post [Revisiting: Years and Years of Creative Commons Confusion](https://scholarlykitchen.sspnet.org/2025/11/10/revisiting-years-and-years-of-creative-commons-confusion/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61205</guid>
+    </item>    <item>
+      <title>The Peasants, by Władysław Reymont</title>
+      <link>https://standardebooks.org/ebooks/wladyslaw-reymont/the-peasants/michael-henry-dziewicki</link>
+      <description>
+        <![CDATA[The native inhabitants of a Polish village deal with family conflicts, squabbles over land, societal unrest, and the changing of the seasons.]]>
+      </description>
+      <source:markdown>The native inhabitants of a Polish village deal with family conflicts, squabbles over land, societal unrest, and the changing of the seasons.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/wladyslaw-reymont/the-peasants/michael-henry-dziewicki/downloads/wladyslaw-reymont_the-peasants_michael-henry-dziewicki.epub?source=feed" length="1424613" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/wladyslaw-reymont/the-peasants/michael-henry-dziewicki</guid>
+    </item>    <item>
       <title>The English Constitution, by Walter Bagehot</title>
       <link>https://standardebooks.org/ebooks/walter-bagehot/the-english-constitution</link>
       <description>
@@ -957,15 +985,6 @@ The post [ARL Libraries Celebrate Open Access Week 2025](https://www.arl.org/blo
 
 The post [Guest Post — From Language Barrier to AI Bias: The Non-Native Speaker’s Dilemma in Scientific Publishing](https://scholarlykitchen.sspnet.org/2025/10/20/guest-post-from-language-barrier-to-ai-bias-the-non-native-speakers-dilemma-in-scientific-publishing/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=61104</guid>
-    </item>    <item>
-      <title>John Silence Stories, by Algernon Blackwood</title>
-      <link>https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories</link>
-      <description>
-        <![CDATA[A physician turned detective uses his psychic abilities to solve the strange cases presented to him.]]>
-      </description>
-      <source:markdown>A physician turned detective uses his psychic abilities to solve the strange cases presented to him.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories/downloads/algernon-blackwood_john-silence-stories.epub?source=feed" length="794561" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/algernon-blackwood/john-silence-stories</guid>
     </item>
   </channel>
 </rss>

@@ -7,16 +7,72 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>09 Nov 25 14:09 -0800</lastBuildDate>
+    <lastBuildDate>10 Nov 25 06:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Downtown LA lights up with faces of resistance to immigration raids</title>
+      <title>Your guide to SoCal Edison&#39;s Eaton Fire payout plan</title>
+      <link>https://laist.com/news/climate-environment/edison-payout-guide</link>
+      <description>
+        <![CDATA[We talked to experts and looked at the fine print to better understand the utility's payout plan for Eaton Fire survivors.]]>
+      </description>
+      <source:markdown>We talked to experts and looked at the fine print to better understand the utility&#39;s payout plan for Eaton Fire survivors.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-60d6-d470-a5ff-f7d798060000</guid>
+    </item>    <item>
+      <title>If Trump’s EPA abandons climate policy, could California take over on greenhouse gases?</title>
+      <link>https://laist.com/news/climate-environment/trump-epa-california-greenhouse-gases</link>
+      <description>
+        <![CDATA[Legal experts say California could go it alone if the federal government stops regulating greenhouse gases. One reason to try is to protect the state’s clean-car economy.]]>
+      </description>
+      <source:markdown>Legal experts say California could go it alone if the federal government stops regulating greenhouse gases. One reason to try is to protect the state’s clean-car economy.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-60dc-d2d1-a5bb-eafc0d590000</guid>
+    </item>    <item>
+      <title>Best things to do this week in LA and SoCal: Nov. 10-13</title>
+      <link>https://laist.com/news/arts-and-entertainment/best-events-weekly-los-angeles-southern-california-november-10</link>
+      <description>
+        <![CDATA[The Ojai Film Fest wraps up, Annie Leibovitz on “Women” at the Wiltern, Rodeo Drive turns on its holiday lights, a spooky new musical, and more of the best things to do this week.]]>
+      </description>
+      <source:markdown>The Ojai Film Fest wraps up, Annie Leibovitz on “Women” at the Wiltern, Rodeo Drive turns on its holiday lights, a spooky new musical, and more of the best things to do this week.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-6007-d922-af9b-e9c7921d0000</guid>
+    </item>    <item>
+      <title>Muslim women in SoCal are creating third spaces to build community instead of ‘shrinking’ to fit in</title>
+      <link>https://laist.com/news/los-angeles-activities/muslim-women-socal-third-spaces-community</link>
+      <description>
+        <![CDATA[“ I feel like Muslim women are kind of tired of shrinking to fit into places we aren't that's not made for us.”]]>
+      </description>
+      <source:markdown>“ I feel like Muslim women are kind of tired of shrinking to fit into places we aren&#39;t that&#39;s not made for us.”</source:markdown>
+      <guid>cid://urn:uuid:0000019a-5ff9-d922-af9b-dff93f760000</guid>
+    </item>    <item>
+      <title>Senators take first step toward reopening the government after historic shutdown</title>
+      <link>https://laist.com/news/politics/senators-take-first-step-toward-reopening-the-government-after-historic-shutdown</link>
+      <description>
+        <![CDATA[The Senate voted late Sunday evening on a compromise that could reopen the government following the longest shutdown in history.]]>
+      </description>
+      <source:markdown>The Senate voted late Sunday evening on a compromise that could reopen the government following the longest shutdown in history.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-6c0e-d922-af9b-edcf6a9f0000</guid>
+    </item>    <item>
+      <title>Judge says Education Dept. partisan out-of-office emails violated First Amendment</title>
+      <link>https://laist.com/news/education/judge-says-education-dept-partisan-out-of-office-emails-violated-first-amendment</link>
+      <description>
+        <![CDATA[A federal judge says the Trump administration "overplayed its hand" by inserting partisan language into workers' out-of-office autoreplies.]]>
+      </description>
+      <source:markdown>A federal judge says the Trump administration &#34;overplayed its hand&#34; by inserting partisan language into workers&#39; out-of-office autoreplies.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-6b73-d470-a5ff-fff734760000</guid>
+    </item>    <item>
+      <title>Huntington Beach&#39;s popular — and controversial — Michael Gates quits Justice Department</title>
+      <link>https://laist.com/news/politics/huntington-beachs-michael-gates-quits-justice-department</link>
+      <description>
+        <![CDATA[Gates plans to continue battling the liberal state government at the city attorney’s office. He says he'll run to head that office again next year.]]>
+      </description>
+      <source:markdown>Gates plans to continue battling the liberal state government at the city attorney’s office. He says he&#39;ll run to head that office again next year.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-6a8b-d90e-afbf-7fbf66190000</guid>
+    </item>    <item>
+      <title>Public art protest of ICE raids asks &#39;Am I Next?&#39; Campaign features prominent Trump critics</title>
       <link>https://laist.com/news/los-angeles-activities/downtown-l-a-am-i-next-ice-art-edward-james-olmos-george-takei</link>
       <description>
-        <![CDATA[A new public art campaign features veteran actors Edward James Olmos, George Takei and other Angelenos.]]>
+        <![CDATA[The new campaign features features veteran actors Edward James Olmos, George Takei and other Angelenos who oppose the Trump Administration's deportation policy.]]>
       </description>
-      <source:markdown>A new public art campaign features veteran actors Edward James Olmos, George Takei and other Angelenos.</source:markdown>
+      <source:markdown>The new campaign features features veteran actors Edward James Olmos, George Takei and other Angelenos who oppose the Trump Administration&#39;s deportation policy.</source:markdown>
       <guid>cid://urn:uuid:0000019a-6030-d2d1-a5bb-eab8a1b70000</guid>
     </item>    <item>
       <title>This group of retirees found community — by cleaning up the San Fernando Valley</title>
@@ -53,6 +109,14 @@ The post [Wheels in Motion for Santa Clarita’s First Roller Rink](https://sant
       <source:markdown>The high court decision gives a lower court time to consider a more lasting pause.</source:markdown>
       <guid>cid://urn:uuid:0000019a-64db-d922-af9b-eddb15880000</guid>
     </item>    <item>
+      <title>Immigration agents have new technology to identify and track people</title>
+      <link>https://laist.com/news/immigration-agents-have-new-technology-to-identify-and-track-people</link>
+      <description>
+        <![CDATA[Some Democratic members of Congress are raising legal concerns about the new technologies and are asking questions of ICE that are going unanswered.]]>
+      </description>
+      <source:markdown>Some Democratic members of Congress are raising legal concerns about the new technologies and are asking questions of ICE that are going unanswered.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-64c9-d922-af9b-edc906820000</guid>
+    </item>    <item>
       <title>What to do if your flight gets canceled because of the government shutdown</title>
       <link>https://laist.com/news/air-travel-canceled-flights-government-shutdown-what-to-do</link>
       <description>
@@ -60,6 +124,14 @@ The post [Wheels in Motion for Santa Clarita’s First Roller Rink](https://sant
       </description>
       <source:markdown>Delays and disruptions have already hit airports across the country as a result of escalating staffing shortages. New flight restrictions add another layer of uncertainty and stress for travelers.</source:markdown>
       <guid>cid://urn:uuid:0000019a-64b3-d922-af9b-edf3db190000</guid>
+    </item>    <item>
+      <title>Is the job market getting worse? As the shutdown continues, this is what we know</title>
+      <link>https://laist.com/news/job-market-unemployment-government-shutdown</link>
+      <description>
+        <![CDATA[While the government shutdown has delayed a key jobs report, there are signs and signals in the market that can tell us a lot.]]>
+      </description>
+      <source:markdown>While the government shutdown has delayed a key jobs report, there are signs and signals in the market that can tell us a lot.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-6499-dbec-a5ba-edbba41f0000</guid>
     </item>    <item>
       <title>This guy distilled 120 years of Venice history into a Monopoly-like game</title>
       <link>https://laist.com/news/los-angeles-activities/veniceopoly-board-game-venice-monopoly</link>
@@ -2700,62 +2772,6 @@ The post [Volunteer for the Fourth Annual Graffiti Removal Day](https://santacla
       </description>
       <source:markdown>Most survivors of January&#39;s fires face a massive gap in the money they need to rebuild, and funding to help is moving too slowly or nonexistent.</source:markdown>
       <guid>cid://urn:uuid:00000199-f494-dc80-a5fb-fddc2a0a0000</guid>
-    </item>    <item>
-      <title>President Trump commutes the prison sentence of George Santos</title>
-      <link>https://laist.com/news/politics/president-trump-commutes-the-prison-sentence-of-george-santos</link>
-      <description>
-        <![CDATA[The disgraced New York Republican was sentenced to more than seven years in prison after pleading guilty to a litany of federal charges, including wire fraud and identity theft.]]>
-      </description>
-      <source:markdown>The disgraced New York Republican was sentenced to more than seven years in prison after pleading guilty to a litany of federal charges, including wire fraud and identity theft.</source:markdown>
-      <guid>cid://urn:uuid:00000199-fe14-d0fc-a5df-febf773e0000</guid>
-    </item>    <item>
-      <title>Sam Rivers, bassist and founding member of Limp Bizkit, dies aged 48</title>
-      <link>https://laist.com/news/arts-and-entertainment/sam-rivers-bassist-and-founding-member-of-limp-bizkit-dies-aged-48</link>
-      <description>
-        <![CDATA["Sam Rivers wasn't just our bass player — he was pure magic. The pulse beneath every song, the calm in the chaos, the soul in the sound," Limp Bizkit said in a social media post Saturday.]]>
-      </description>
-      <source:markdown>&#34;Sam Rivers wasn&#39;t just our bass player — he was pure magic. The pulse beneath every song, the calm in the chaos, the soul in the sound,&#34; Limp Bizkit said in a social media post Saturday.</source:markdown>
-      <guid>cid://urn:uuid:00000199-fe0c-d0fc-a5df-feaf31b30000</guid>
-    </item>    <item>
-      <title>2 survivors of suspected drug vessel will be sent to home countries, Trump says</title>
-      <link>https://laist.com/news/2-survivors-of-suspected-drug-vessel-will-be-sent-to-home-countries-trump-says</link>
-      <description>
-        <![CDATA[The two survivors of an American military strike on a suspected drug-carrying vessel in the Caribbean will be sent to Ecuador and Colombia, their home countries, President Trump said.]]>
-      </description>
-      <source:markdown>The two survivors of an American military strike on a suspected drug-carrying vessel in the Caribbean will be sent to Ecuador and Colombia, their home countries, President Trump said.</source:markdown>
-      <guid>cid://urn:uuid:00000199-fd37-d0fc-a5df-fdbfebea0000</guid>
-    </item>    <item>
-      <title>Israel strikes Gaza as both Israel and Hamas accuse each other of breaching ceasefire</title>
-      <link>https://laist.com/news/israel-and-hamas-accuse-each-other-of-breaching-fragile-ceasefire-in-gaza</link>
-      <description>
-        <![CDATA[Israel said Sunday it responded after "terrorists" attacked troops operating in the Rafah area with gunfire and an anti-tank missile. Hamas said it was unaware of the clashes.]]>
-      </description>
-      <source:markdown>Israel said Sunday it responded after &#34;terrorists&#34; attacked troops operating in the Rafah area with gunfire and an anti-tank missile. Hamas said it was unaware of the clashes.</source:markdown>
-      <guid>cid://urn:uuid:00000199-fd34-d0fc-a5df-fdbfbecd0000</guid>
-    </item>    <item>
-      <title>Photos: Scenes from the No Kings Protests in SoCal and around the nation</title>
-      <link>https://laist.com/news/politics/photos-scenes-from-the-no-kings-protests-in-socal-and-around-the-nation</link>
-      <description>
-        <![CDATA[People gathered for pro-democracy protests across the country on Saturday.]]>
-      </description>
-      <source:markdown>People gathered for pro-democracy protests across the country on Saturday.</source:markdown>
-      <guid>cid://urn:uuid:00000199-fcff-d209-a199-feff6a470000</guid>
-    </item>    <item>
-      <title>Landmark mural in LA now portrays famed Filipino subject&#39;s trans identity</title>
-      <link>https://laist.com/news/arts-and-entertainment/hifi-mural-jake-zyrus-transgender-journey</link>
-      <description>
-        <![CDATA[The new image of Jake Zyrus on a mural in Historic Filipinotown was recently revealed in a dedication ceremony — years after the pop star came out as a trans man.]]>
-      </description>
-      <source:markdown>The new image of Jake Zyrus on a mural in Historic Filipinotown was recently revealed in a dedication ceremony — years after the pop star came out as a trans man.</source:markdown>
-      <guid>cid://urn:uuid:00000199-f39b-da9c-a9d9-f79f92ed0000</guid>
-    </item>    <item>
-      <title>What happened to Dairy Valley? How LA&#39;s top cow city became Cerritos</title>
-      <link>https://laist.com/news/la-history/la-county-cerritos-dairy-valley-milk-industry</link>
-      <description>
-        <![CDATA[Farmers once banded together to save the area, which had more cows than people.]]>
-      </description>
-      <source:markdown>Farmers once banded together to save the area, which had more cows than people.</source:markdown>
-      <guid>cid://urn:uuid:00000199-edde-dc80-a5fb-edde67ba0000</guid>
     </item>
   </channel>
 </rss>
