@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>10 Nov 25 10:09 -0800</lastBuildDate>
+    <lastBuildDate>10 Nov 25 14:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,96 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>David Szalay’s Flesh has won the 2025 Booker Prize.</title>
+      <link>https://lithub.com/david-szalays-flesh-has-won-the-2025-booker-prize/</link>
+      <description>
+        <![CDATA[Today, at a ceremony in London, David Szalay was awarded the 2025 Booker Prize for his novel, Flesh. The judges called it &#8220;a disquisition on the art of being alive, and all the affliction that comes along with it, but it]]>
+      </description>
+      <source:markdown>Today, at a ceremony in London, David Szalay was awarded the 2025 Booker Prize for his novel, Flesh. The judges called it “a disquisition on the art of being alive, and all the affliction that comes along with it, but it</source:markdown>
+      <guid>cid://https://lithub.com/?p=262527</guid>
+    </item>    <item>
+      <title>Going to Art Galleries Can Improve Wellbeing. &#38;#8220;Enjoying original works of art...</title>
+      <link>https://kottke.org/25/11/0047817-going-to-art-galleries-ca</link>
+      <guid>cid://tag:kottke.org,2025://13.47817</guid>
+    </item>    <item>
+      <title>A zoomable, fully searchable archive of every single page of every single...</title>
+      <link>https://kottke.org/25/11/0047819-a-zoomable-fully-searchab</link>
+      <guid>cid://tag:kottke.org,2025://13.47819</guid>
+    </item>    <item>
+      <title>November 9. 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/november-9-2025-dc5</link>
+      <enclosure url="https://api.substack.com/feed/podcast/178540240/1950f8575b75b4070e85d3c49297e25b.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/november-9-2025-dc5</guid>
+    </item>    <item>
+      <link>https://www.politico.com/news/2025/11/10/trump-threatens-replace-air-traffic-controllers-00644514</link>
+      <description>
+        <![CDATA[<p>No doubt this will comfort people flying re the safety of air travel in the US.</p>]]>
+      </description>
+      <source:markdown>No doubt this will comfort people flying re the safety of air travel in the US.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/10/1857/</guid>
+    </item>    <item>
+      <title>Apple Removes Gay Dating Apps From Chinese App Store</title>
+      <link>https://mjtsai.com/blog/2025/11/10/apple-removes-gay-dating-apps-from-chinese-app-store/</link>
+      <description>
+        <![CDATA[Zeyi Yang and Louise Matsakis (Bluesky): Apple has removed two of the most popular gay dating apps in China from the App Store after receiving an order from China&#8217;s main internet regulator and censorship authority, WIRED has learned. The move comes as reports of Blued and Finka disappearing from the iOS App Store and several [&#8230;]]]>
+      </description>
+      <source:markdown>Zeyi Yang and Louise Matsakis (Bluesky): Apple has removed two of the most popular gay dating apps in China from the App Store after receiving an order from China’s main internet regulator and censorship authority, WIRED has learned. The move comes as reports of Blued and Finka disappearing from the iOS App Store and several \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49996</guid>
+    </item>    <item>
+      <title>FSF EU Notarization Complaint</title>
+      <link>https://mjtsai.com/blog/2025/11/10/fsf-eu-notarization-complaint/</link>
+      <description>
+        <![CDATA[Free Software Foundation Europe (via Hacker News): The EU&#8217;s Digital Markets Act (DMA) aims for a structural reset of power in digital markets, a shift from corporate control toward device neutrality, where users decide what runs on their devices. For Free Software, this legislation can be a unique opportunity by finally opening closed ecosystems - [&#8230;]]]>
+      </description>
+      <source:markdown>Free Software Foundation Europe (via Hacker News): The EU’s Digital Markets Act (DMA) aims for a structural reset of power in digital markets, a shift from corporate control toward device neutrality, where users decide what runs on their devices. For Free Software, this legislation can be a unique opportunity by finally opening closed ecosystems - \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49994</guid>
+    </item>    <item>
+      <title>Notes on Harold Brodkey&#38;#8217;s 1992 essay Notes on American Fascism, which was...</title>
+      <link>https://kottke.org/25/11/0047811-notes-on-harold-brodkeys-</link>
+      <guid>cid://tag:kottke.org,2025://13.47811</guid>
+    </item>    <item>
+      <title>Thanks for Under the Radar</title>
+      <link>https://mjtsai.com/blog/2025/11/10/thanks-for-under-the-radar/</link>
+      <description>
+        <![CDATA[Under the Radar: In our final episode, we reflect on how indie app development has changed over the past decade. Marco Arment: We&#8217;re incredibly proud of our ten-year catalog of 30-minute discussions on development, marketing, monetization, work/life balance, and mental health for app developers. I really liked the 30-minute format and the breadth of topics: [&#8230;]]]>
+      </description>
+      <source:markdown>Under the Radar: In our final episode, we reflect on how indie app development has changed over the past decade. Marco Arment: We’re incredibly proud of our ten-year catalog of 30-minute discussions on development, marketing, monetization, work/life balance, and mental health for app developers. I really liked the 30-minute format and the breadth of topics: \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49992</guid>
+    </item>    <item>
+      <title>NetNewsWire 6.2</title>
+      <link>https://mjtsai.com/blog/2025/11/10/netnewswire-6-2/</link>
+      <description>
+        <![CDATA[Brent Simmons (release notes): Long-time Mac users will understand when we say that this is a Snow Leopard release &#8212; it fixes a bunch of bugs, makes some things faster, and adds only a couple features. [&#8230;] Note also that it doesn&#8217;t adopt Liquid Glass. We&#8217;ll be doing that in NetNewsWire 7, which we&#8217;re working [&#8230;]]]>
+      </description>
+      <source:markdown>Brent Simmons (release notes): Long-time Mac users will understand when we say that this is a Snow Leopard release — it fixes a bunch of bugs, makes some things faster, and adds only a couple features. \[…\] Note also that it doesn’t adopt Liquid Glass. We’ll be doing that in NetNewsWire 7, which we’re working \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=49990</guid>
+    </item>    <item>
+      <link>https://www.wsj.com/world/europe/italy-pasta-trump-tariffs-e38d86a6?st=7kfMSB</link>
+      <description>
+        <![CDATA[<p>Italian Pasta Is Poised to Disappear From American Grocery Shelves.</p>]]>
+      </description>
+      <source:markdown>Italian Pasta Is Poised to Disappear From American Grocery Shelves.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/10/1855/</guid>
+    </item>    <item>
+      <link>https://talkingpointsmemo.com/tpm-25/how-elon-musks-changes-to-x-made-our-discourse-far-stupider</link>
+      <description>
+        <![CDATA[<p>How Elon Musk’s Changes to X Made Our Discourse Far Stupider.</p>]]>
+      </description>
+      <source:markdown>How Elon Musk’s Changes to X Made Our Discourse Far Stupider.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/10/1853/</guid>
+    </item>    <item>
+      <title>Two Hours of Wellness</title>
+      <link>https://kottke.org/25/11/two-hours-of-wellness</link>
+      <guid>cid://tag:kottke.org,2025://5.47807</guid>
+    </item>    <item>
+      <title>Monday 10 November, 2025</title>
+      <link>https://memex.naughtons.org/monday-10-november-2025/41358/</link>
+      <description>
+        <![CDATA[In case of fire… … call photographer. Arles, July 2022 Quote of the Day &#8220;Fifteen years ago, the internet was an escape from the real world. Now the real world is an escape from the internet.&#8221; Noah Smith Musical alternative &#8230; <a href="https://memex.naughtons.org/monday-10-november-2025/41358/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>In case of fire… … call photographer. Arles, July 2022 Quote of the Day “Fifteen years ago, the internet was an escape from the real world. Now the real world is an escape from the internet.” Noah Smith Musical alternative … [Continue reading →](https://memex.naughtons.org/monday-10-november-2025/41358/)</source:markdown>
+      <guid>cid://https://memex.naughtons.org/?p=41358</guid>
     </item>    <item>
       <link>http://scripting.com/2025/11/10.html#a173625</link>
       <description>
@@ -451,6 +541,10 @@ And if you’re in a decision-making position somewhere, surely you can do your 
 
 The post [616\. Elizabeth I: The Fall of the Axe (Part 1)](https://therestishistory.com/616-elizabeth-i-the-fall-of-the-axe-part-1/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
       <guid>cid://https://therestishistory.com/616-elizabeth-i-the-fall-of-the-axe-part-1/</guid>
+    </item>    <item>
+      <title>Announcing Rust 1.91.1</title>
+      <link>https://blog.rust-lang.org/2025/11/10/Rust-1.91.1/</link>
+      <guid>cid://https://blog.rust-lang.org/2025/11/10/Rust-1.91.1/</guid>
     </item>    <item>
       <title>Custom Icons</title>
       <link>https://buttondown.com/blog/custom-icons</link>
@@ -2686,7 +2780,7 @@ As usual, you can also use this squid post to talk about the security stories in
         <![CDATA[Listen now | The Andy Borowitz Show]]>
       </description>
       <source:markdown>Listen now \| The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/178201642/c5f3fde1ee3e6059ddc476bb88780888.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/178201642/85e17173bc785fb06894c90370f65871.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.borowitzreport.com/p/blue-tsunami-special</guid>
     </item>    <item>
       <title>Published on Citation Needed: &#34;Issue 96 – Redefining solvency&#34;</title>
@@ -5275,7 +5369,7 @@ As authoritarianism is rising around the world, AI-generated “slop” is overw
         <![CDATA[Watch now | The Andy Borowitz Show]]>
       </description>
       <source:markdown>Watch now \| The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/177901928/cbd521a355bf203d47512219f07dd1f4.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/177901928/5e8b1c7a8080ce60e49b3f31faa00bac.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.borowitzreport.com/p/adam-kinzinger-doesnt-hold-back</guid>
     </item>    <item>
       <title>A Brief History of American Socialism</title>
@@ -11531,7 +11625,7 @@ He&#39;s very much [alive](https://en.wikipedia.org/wiki/Philippe_Kahn) as far a
         <![CDATA[Listen now | The Andy Borowitz Show]]>
       </description>
       <source:markdown>Listen now \| The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/177454182/f1eeb3e66df6e0cdceba5c6cc2be0a51.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/177454182/5e9f70380c850b62714e754fc284c6fe.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.borowitzreport.com/p/a-national-guardsman-stands-up-to</guid>
     </item>    <item>
       <title>In conversation with Zohran Mamdani</title>

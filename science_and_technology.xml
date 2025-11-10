@@ -4,14 +4,143 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>10 Nov 25 10:09 -0800</lastBuildDate>
+    <lastBuildDate>10 Nov 25 14:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>AI companies keep publishing private API keys to GitHub</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/10/ai_companies_private_api_keys_github/</link>
+      <description>
+        <![CDATA[<h4>Security biz Wiz says 65% of top AI businesses leak keys and tokens</h4> <p>Leading AI companies turn out to be no better at keeping secrets than anyone else writing code.…</p>]]>
+      </description>
+      <source:markdown>#### Security biz Wiz says 65% of top AI businesses leak keys and tokens
+
+Leading AI companies turn out to be no better at keeping secrets than anyone else writing code.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242942</guid>
+    </item>    <item>
+      <title>AI slop hits new high as fake country artist hits #1 on Billboard digital songs chart</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/10/ai_country_artist_hits_number_one/</link>
+      <description>
+        <![CDATA[<h4>It sounds a lot like everything else</h4> <p>AI slop has reached a new level of ascendancy, as a country song by an AI artist has hit number one on Billboard&#39;s Country Digital Song Sales chart.…</p>]]>
+      </description>
+      <source:markdown>#### It sounds a lot like everything else
+
+AI slop has reached a new level of ascendancy, as a country song by an AI artist has hit number one on Billboard&#39;s Country Digital Song Sales chart.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242943</guid>
+    </item>    <item>
+      <title>Amazonas-Aufforstung: Google-Deal mit brasilianischem Startup</title>
+      <link>https://www.heise.de/news/Amazonas-Aufforstung-Google-Deal-mit-brasilianischem-Startup-11072971.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Google kauft Ausgleichszertifikate für 200.000 Tonnen CO₂ von dem brasilianischen Wiederraufforstungs-Startup Mombak. Der Deal wird kurz vor der COP30 bekannt.]]>
+      </description>
+      <source:markdown>Google kauft Ausgleichszertifikate für 200.000 Tonnen CO₂ von dem brasilianischen Wiederraufforstungs-Startup Mombak. Der Deal wird kurz vor der COP30 bekannt.</source:markdown>
+      <guid>cid://http://heise.de/-11072971</guid>
+    </item>    <item>
+      <title>Process Theater vs. Technical Excellence: A Recurring Software Crisis</title>
+      <link>https://thenewstack.io/process-theater-vs-technical-excellence-a-recurring-software-crisis/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/3ae6820f-boitumelo-a2g9oixtw6k-unsplash-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/3ae6820f-boitumelo-a2g9oixtw6k-unsplash-scaled.jpg" /><p>The term &#8220;snake oil salesman&#8221; is often used to describe individuals who engage in deceptive marketing practices. Wild west characters</p>
+        <p>The post <a href="https://thenewstack.io/process-theater-vs-technical-excellence-a-recurring-software-crisis/">Process Theater vs. Technical Excellence: A Recurring Software Crisis</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/3ae6820f-boitumelo-a2g9oixtw6k-unsplash-1024x576.jpg)
+
+The term “snake oil salesman” is often used to describe individuals who engage in deceptive marketing practices. Wild west characters
+
+The post [Process Theater vs. Technical Excellence: A Recurring Software Crisis](https://thenewstack.io/process-theater-vs-technical-excellence-a-recurring-software-crisis/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805744</guid>
+    </item>    <item>
+      <title>Altman sticks a different hand out, wants tax credits instead of gov loans</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/10/altman_ai_tax_credit/</link>
+      <description>
+        <![CDATA[<h4>We can&#39;t let supply chain shortages burst the bubble boy&#39;s balloon</h4> <p>Free money is always better than a loan! OpenAI CEO Sam Altman recently said he doesn&#39;t want government-backed loans to fuel his AI ambitions, but he&#39;s more than okay with the idea of Uncle Sam handing out tax credits under the US CHIPS Act to subsidize AI server production, bit barns, and grid components.…</p>]]>
+      </description>
+      <source:markdown>#### We can&#39;t let supply chain shortages burst the bubble boy&#39;s balloon
+
+Free money is always better than a loan! OpenAI CEO Sam Altman recently said he doesn&#39;t want government-backed loans to fuel his AI ambitions, but he&#39;s more than okay with the idea of Uncle Sam handing out tax credits under the US CHIPS Act to subsidize AI server production, bit barns, and grid components.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242941</guid>
+    </item>    <item>
+      <title>Rumble kauft deutschen Cloudanbieter Northern Data</title>
+      <link>https://www.heise.de/news/Rumble-uebernimmt-deutschen-Cloudbetreiber-Northern-Data-11072950.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Truth-Social-Host Rumble steigt ins Cloudgeschäft ein und übernimmt die deutsche Cloudfirma Northern Data. Deren Aktionäre erhalten weniger als angekündigt.]]>
+      </description>
+      <source:markdown>Truth-Social-Host Rumble steigt ins Cloudgeschäft ein und übernimmt die deutsche Cloudfirma Northern Data. Deren Aktionäre erhalten weniger als angekündigt.</source:markdown>
+      <guid>cid://http://heise.de/-11072950</guid>
+    </item>    <item>
+      <title>How Distributed Databases Power Developer Platforms at Scale</title>
+      <link>https://thenewstack.io/how-distributed-databases-power-developer-platforms-at-scale/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/1c969b6f-auto-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Automotive engineer working on computer system." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/1c969b6f-auto.jpg" /><p>The path from proof of concept to production-grade system exposes a familiar pattern in enterprise software. Teams sprint toward product-market</p>
+        <p>The post <a href="https://thenewstack.io/how-distributed-databases-power-developer-platforms-at-scale/">How Distributed Databases Power Developer Platforms at Scale</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Automotive engineer working on computer system.](https://cdn.thenewstack.io/media/2025/11/1c969b6f-auto-1024x576.jpg)
+
+The path from proof of concept to production-grade system exposes a familiar pattern in enterprise software. Teams sprint toward product-market
+
+The post [How Distributed Databases Power Developer Platforms at Scale](https://thenewstack.io/how-distributed-databases-power-developer-platforms-at-scale/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806117</guid>
+    </item>    <item>
+      <title>A 5,000-Year-Old Canaanite Wine Press Has Been Discovered in Israel</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-5000-year-old-canaanite-wine-press-has-been-discovered-in-israel-180987669/</link>
+      <description>
+        <![CDATA[Researchers discovered the press, along with a ritualistic, animal-shaped “tea set,” outside the ancient site of Tel Megiddo]]>
+      </description>
+      <source:markdown>Researchers discovered the press, along with a ritualistic, animal-shaped “tea set,” outside the ancient site of Tel Megiddo</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/9rU4Ww69D2QfCl-e1a64YvNWVb4=/420x240/filters:focal(641x427:642x428)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7a/4b/7a4b6359-0676-49f8-8af9-a157f61e4cd2/one_of_the_oldest_winemaking_presses_in_the_world_discovered_in_an_excavation_photo-_yakov_sh.jpeg" length="" type="" />
+    </item>    <item>
+      <title>Critical federal cybersecurity funding set to resume as government shutdown draws to a close - for now</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/10/federal_cybersecurity_funding_set_to_resume/</link>
+      <description>
+        <![CDATA[<h4>Resolution acquiesced to by 8 Dems includes CISA Act funding, layoff reversals, and could be easily undone</h4> <p>The US Senate voted on Sunday to advance a short-term funding bill for the federal government, moving the country closer to ending its longest-ever shutdown. Part of the spending bill also restores critical cybersecurity programs that lapsed as the shutdown began. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Resolution acquiesced to by 8 Dems includes CISA Act funding, layoff reversals, and could be easily undone
+
+The US Senate voted on Sunday to advance a short-term funding bill for the federal government, moving the country closer to ending its longest-ever shutdown. Part of the spending bill also restores critical cybersecurity programs that lapsed as the shutdown began. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242939</guid>
+    </item>    <item>
+      <title>The LLM Flywheel Effect: AI That Writes and Tests Documentation</title>
+      <link>https://thenewstack.io/the-llm-flywheel-effect-ai-that-writes-and-tests-documentation/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/1188f9b7-a-c-depazdna2hc-unsplashb-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="flywheel" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/1188f9b7-a-c-depazdna2hc-unsplashb.jpg" /><p>To help a team member get up to speed on a project, I had to learn and then document how</p>
+        <p>The post <a href="https://thenewstack.io/the-llm-flywheel-effect-ai-that-writes-and-tests-documentation/">The LLM Flywheel Effect: AI That Writes and Tests Documentation</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![flywheel](https://cdn.thenewstack.io/media/2025/11/1188f9b7-a-c-depazdna2hc-unsplashb-1024x576.jpg)
+
+To help a team member get up to speed on a project, I had to learn and then document how
+
+The post [The LLM Flywheel Effect: AI That Writes and Tests Documentation](https://thenewstack.io/the-llm-flywheel-effect-ai-that-writes-and-tests-documentation/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805166</guid>
+    </item>    <item>
+      <title>Top 10: Screenbars im Test – Das beste Licht für den Schreibtisch</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-screenbar-im-test-das-beste-licht-fuer-den-schreibtisch/1y3x1w6?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Nur wenige kennen sie, fast alle brauchen sie: Screenbars. Wir zeigen die 10 besten Monitorlampen aus fast 25 Tests.]]>
+      </description>
+      <source:markdown>Nur wenige kennen sie, fast alle brauchen sie: Screenbars. Wir zeigen die 10 besten Monitorlampen aus fast 25 Tests.</source:markdown>
+      <guid>cid://http://heise.de/-11072890</guid>
+    </item>    <item>
+      <title>Phishers try to lure 5K Facebook advertisers with fake business pages</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/10/5k_facebook_advertising_customers_phishing/</link>
+      <description>
+        <![CDATA[<h4>One company alone was hit with more than 4,200 emails</h4> <p>More than 5,000 businesses that use Facebook for advertising were bombarded by tens of thousands of phishing emails in a credential- and data-stealing campaign.…</p>]]>
+      </description>
+      <source:markdown>#### One company alone was hit with more than 4,200 emails
+
+More than 5,000 businesses that use Facebook for advertising were bombarded by tens of thousands of phishing emails in a credential- and data-stealing campaign.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242940</guid>
+    </item>    <item>
+      <title>The Universe&#39;s Expansion May Be Slowing Down, Not Speeding Up, New Research Suggests</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-universes-expansion-may-be-slowing-down-not-speeding-up-new-research-suggests-180987660/</link>
+      <description>
+        <![CDATA[A new study challenges a long-held idea that the universe's expansion is accelerating]]>
+      </description>
+      <source:markdown>A new study challenges a long-held idea that the universe&#39;s expansion is accelerating</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/l4jWUjGwe7zdo6b4gIma_a7aQpo=/420x240/filters:focal(473x473:474x474)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/61/7c/617c8571-c700-468f-8032-53279f7209d5/g299-remnants-supernova-type1a-20150218.jpg" length="" type="" />
+    </item>    <item>
       <title>Exploring RTEB, a New Benchmark To Evaluate Embedding Models</title>
       <link>https://thenewstack.io/exploring-rteb-a-new-benchmark-to-evaluate-embedding-models/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/7754a01f-models-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Hand picking up model star on wooden table," style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/7754a01f-models.jpg" /><p>With the rise of large language models (LLMs), our exposure to benchmarks &#8212; not to mention the sheer number and</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/7754a01f-models-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Hand picking up model star on wooden table," style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/7754a01f-models.jpg" /><p>With the rise of large language models (LLMs), our exposure to benchmarks &#8212; not to mention the sheer number and</p>
         <p>The post <a href="https://thenewstack.io/exploring-rteb-a-new-benchmark-to-evaluate-embedding-models/">Exploring RTEB, a New Benchmark To Evaluate Embedding Models</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![Hand picking up model star on wooden table,](https://cdn.thenewstack.io/media/2025/11/7754a01f-models-1024x576.jpg)
@@ -30,6 +159,14 @@ The post [Exploring RTEB, a New Benchmark To Evaluate Embedding Models](https://
 
 A Gartner survey of 700 CIOs indicates that, by the end of the decade, all business IT work will involve AI, while bots will do 25 percent of that work by themselves. Good news: The analyst firm claims AI causes only one percent of job losses. Bad news: You&#39;ll have to learn some new jargon.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242937</guid>
+    </item>    <item>
+      <title>New Daily Pill Could Potentially Be Life-Saving for Americans With High Cholesterol Levels, Researchers Say</title>
+      <link>https://www.smithsonianmag.com/smart-news/new-daily-pill-could-potentially-be-lifesaving-americans-high-chloresterol-levels-researchers-say-180987668/</link>
+      <description>
+        <![CDATA[The medication, which significantly lowers the risk of heart attacks, could be a promising alternative to expensive and unpopular injectables]]>
+      </description>
+      <source:markdown>The medication, which significantly lowers the risk of heart attacks, could be a promising alternative to expensive and unpopular injectables</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/anVX2g_ZVvgzw0fdsDc3wBdOnJo=/420x240/filters:focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f8/d3/f8d3d015-5b1b-4991-866e-4e13ca212ff2/gettyimages-1416464231.jpg" length="" type="" />
     </item>    <item>
       <title>Ironclad OS project popping out Unix-like kernel in a unique mix of languages</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/10/ironclad_os_unix_like_kernel/</link>
@@ -367,11 +504,11 @@ SpaceX and Elon Musk are once again being called upon to rescue spacefarers — 
       <title>De-duplicating the desktops: Let&#39;s come together, right now</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/10/deduplicating_the_desktops/</link>
       <description>
-        <![CDATA[<h4>Here come old FlatPak, it comes grooving up slowly...</h4> <p><strong>Comment</strong>  The tendency of Linux developers to reinvent wheels is no secret. It&#39;s not so much the elephant in the room, as the entire jet-propelled guided ark ship full of every known and unknown member of the Proboscidea from <em>Ambelodon</em> to <em>Stegodon</em> via deinotheres, elephants, mammoths and other mastodons.…</p>]]>
+        <![CDATA[<h4>Here come old FlatPak, it comes grooving up slowly...</h4> <p><strong>opinion</strong>  The tendency of Linux developers to reinvent wheels is no secret. It&#39;s not so much the elephant in the room, as the entire jet-propelled guided ark ship full of every known and unknown member of the Proboscidea from <em>Ambelodon</em> to <em>Stegodon</em> via deinotheres, elephants, mammoths and other mastodons.…</p>]]>
       </description>
       <source:markdown>#### Here come old FlatPak, it comes grooving up slowly...
 
-**Comment**  The tendency of Linux developers to reinvent wheels is no secret. It&#39;s not so much the elephant in the room, as the entire jet-propelled guided ark ship full of every known and unknown member of the Proboscidea from _Ambelodon_ to _Stegodon_ via deinotheres, elephants, mammoths and other mastodons.…</source:markdown>
+**opinion**  The tendency of Linux developers to reinvent wheels is no secret. It&#39;s not so much the elephant in the room, as the entire jet-propelled guided ark ship full of every known and unknown member of the Proboscidea from _Ambelodon_ to _Stegodon_ via deinotheres, elephants, mammoths and other mastodons.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242910</guid>
     </item>    <item>
       <title>tvOS 26.2: Erleichtertes Management von Profilen für Kinder und Gäste</title>
