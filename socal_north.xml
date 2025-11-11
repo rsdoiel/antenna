@@ -7,10 +7,58 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>11 Nov 25 10:12 -0800</lastBuildDate>
+    <lastBuildDate>11 Nov 25 14:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>A Vietnam War Memorial in OC sits cracked and unfinished while its benefactor serves prison time</title>
+      <link>https://laist.com/news/politics/orange-county-vietnam-war-memorial-andrew-do</link>
+      <description>
+        <![CDATA[Then-Orange County Supervisor Andrew Do had directed $1 million in taxpayer dollars to a nonprofit to build the memorial. Now the memorial is likely to be demolished.]]>
+      </description>
+      <source:markdown>Then-Orange County Supervisor Andrew Do had directed $1 million in taxpayer dollars to a nonprofit to build the memorial. Now the memorial is likely to be demolished.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-7452-d76a-a7fe-f4fa7dda0000</guid>
+    </item>    <item>
+      <title>The Supreme Court will hear a challenge to grace periods for mail ballot returns</title>
+      <link>https://laist.com/news/politics/supreme-court-will-hear-challenge-to-grace-periods-for-mail-ballot-returns</link>
+      <description>
+        <![CDATA[The Supreme Court will hear a case that could decide whether states can count postmarked mail ballots that arrive after Election Day — something that about 20 states and territories currently allow.]]>
+      </description>
+      <source:markdown>The Supreme Court will hear a case that could decide whether states can count postmarked mail ballots that arrive after Election Day — something that about 20 states and territories currently allow.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-748e-d7d8-a19b-f6ae4d010000</guid>
+    </item>    <item>
+      <title>Why some homeowners rebuilding from the Palisades Fire are choosing concrete</title>
+      <link>https://laist.com/news/housing-homelessness/los-angeles-fire-palisades-eaton-rebuilding-concrete-homes-resistance-insurance</link>
+      <description>
+        <![CDATA[After their more typical wood-framed homes burned, some are now rebuilding with non-combustible materials. And they’re getting discounts from insurance companies.]]>
+      </description>
+      <source:markdown>After their more typical wood-framed homes burned, some are now rebuilding with non-combustible materials. And they’re getting discounts from insurance companies.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-7458-d0f4-a39a-fe78bfd30000</guid>
+    </item>    <item>
+      <title>Fullerton police say ICE agent pulled gun on woman recording him in Santa Ana</title>
+      <link>https://laist.com/news/fullerton-police-say-ice-agent-pulled-gun-on-woman-recording-him-in-santa-ana</link>
+      <description>
+        <![CDATA[The department said it did not "assist" the agent in enforcement, and that no crime occurred.]]>
+      </description>
+      <source:markdown>The department said it did not &#34;assist&#34; the agent in enforcement, and that no crime occurred.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-744d-da55-addb-747fb8330000</guid>
+    </item>    <item>
+      <title>Updating your name and gender on CA, federal IDs: What to know after SCOTUS’ passport ruling</title>
+      <link>https://laist.com/news/politics/updating-name-gender-ca-federal-ids-what-to-know-after-scotus-passport-ruling</link>
+      <description>
+        <![CDATA[Learn the steps to change your name and gender marker on California government IDs. Understand the requirements and processes involved.]]>
+      </description>
+      <source:markdown>Learn the steps to change your name and gender marker on California government IDs. Understand the requirements and processes involved.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-73d1-d76a-a7fe-f7fba2080000</guid>
+    </item>    <item>
+      <title>Meet Porkchop, the Aquarium of the Pacific&#39;s rescued green sea turtle</title>
+      <link>https://laist.com/news/climate-environment/porkchop-green-sea-turtle-aquarium-of-the-pacific-conservation</link>
+      <description>
+        <![CDATA[Also meet the Long Beach aquarium's new CEO, who says the aquarium is expanding conservation efforts, including with sea turtles and zebra sharks.]]>
+      </description>
+      <source:markdown>Also meet the Long Beach aquarium&#39;s new CEO, who says the aquarium is expanding conservation efforts, including with sea turtles and zebra sharks.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-7070-d4ee-a1fb-74f49e0d0000</guid>
+    </item>    <item>
       <title>As tuition keeps increasing, UC students want a bigger say on the Board of Regents</title>
       <link>https://laist.com/news/education/uc-students-board-of-regents-higher-tuition</link>
       <description>
@@ -43,7 +91,7 @@
       <source:markdown>With the contest a year away, polling shows voters want the next governor to minimize out-of-pocket health care costs, increase mental health care, and expand caregiving services.</source:markdown>
       <guid>cid://urn:uuid:0000019a-7023-d49f-abfa-f56b3f350000</guid>
     </item>    <item>
-      <title>House prepares to vote on legislation to end the shutdown after Senate</title>
+      <title>With an upcoming vote in the House, an end to the shutdown is in sight</title>
       <link>https://laist.com/news/politics/senate-approves-shutdown-ending-legislation-sending-bill-to-the-house-for-a-vote</link>
       <description>
         <![CDATA[After 41 days of a government shutdown, the U.S. Senate passed a set of bills to reopen the government. The House comes back to vote as early as Wednesday afternoon.]]>
@@ -193,6 +241,14 @@ The post [City of Santa Clarita Receives Nationally Acclaimed Finance Award for 
       <source:markdown>The pardons include 77 allies tied to efforts to overturn the 2020 election, including Rudy Giuliani, former White House Chief of Staff Mark Meadows, and former Trump attorney Sidney Powell.</source:markdown>
       <guid>cid://urn:uuid:0000019a-6e58-d470-a5ff-ffdd19c10000</guid>
     </item>    <item>
+      <title>Your guide to SoCal Edison&#39;s Eaton Fire payout plan</title>
+      <link>https://laist.com/news/climate-environment/edison-payout-guide</link>
+      <description>
+        <![CDATA[We talked to experts and looked at the fine print to better understand the utility's payout plan for Eaton Fire survivors.]]>
+      </description>
+      <source:markdown>We talked to experts and looked at the fine print to better understand the utility&#39;s payout plan for Eaton Fire survivors.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-60d6-d470-a5ff-f7d798060000</guid>
+    </item>    <item>
       <title>Muslim women in SoCal are creating third spaces to build community instead of ‘shrinking’ to fit in</title>
       <link>https://laist.com/news/los-angeles-activities/muslim-women-socal-third-spaces-community</link>
       <description>
@@ -208,14 +264,6 @@ The post [City of Santa Clarita Receives Nationally Acclaimed Finance Award for 
       </description>
       <source:markdown>The Ojai Film Fest wraps up, Annie Leibovitz on “Women” at the Wiltern, Rodeo Drive turns on its holiday lights, a spooky new musical, and more of the best things to do this week.</source:markdown>
       <guid>cid://urn:uuid:0000019a-6007-d922-af9b-e9c7921d0000</guid>
-    </item>    <item>
-      <title>Your guide to SoCal Edison&#39;s Eaton Fire payout plan</title>
-      <link>https://laist.com/news/climate-environment/edison-payout-guide</link>
-      <description>
-        <![CDATA[We talked to experts and looked at the fine print to better understand the utility's payout plan for Eaton Fire survivors.]]>
-      </description>
-      <source:markdown>We talked to experts and looked at the fine print to better understand the utility&#39;s payout plan for Eaton Fire survivors.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-60d6-d470-a5ff-f7d798060000</guid>
     </item>    <item>
       <title>If Trump’s EPA abandons climate policy, could California take over on greenhouse gases?</title>
       <link>https://laist.com/news/climate-environment/trump-epa-california-greenhouse-gases</link>

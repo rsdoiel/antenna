@@ -4,10 +4,19 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>11 Nov 25 10:12 -0800</lastBuildDate>
+    <lastBuildDate>11 Nov 25 14:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>In Darkest London, by Ada Elizabeth Chesterton</title>
+      <link>https://standardebooks.org/ebooks/ada-elizabeth-chesterton/in-darkest-london</link>
+      <description>
+        <![CDATA[A social campaigner describes her experiences living on the streets of 1920s London.]]>
+      </description>
+      <source:markdown>A social campaigner describes her experiences living on the streets of 1920s London.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/ada-elizabeth-chesterton/in-darkest-london/downloads/ada-elizabeth-chesterton_in-darkest-london.epub?source=feed" length="521891" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/ada-elizabeth-chesterton/in-darkest-london</guid>
+    </item>    <item>
       <title>Looking Back on Our Shared Digital History: “The Web We’ve Built” Mini-Doc</title>
       <link>https://blog.archive.org/2025/11/11/looking-back-on-our-shared-digital-history-the-web-weve-built-mini-doc/</link>
       <description>
@@ -71,7 +80,7 @@ The post [Revisiting: Years and Years of Creative Commons Confusion](https://sch
         <![CDATA[The native inhabitants of a Polish village deal with family conflicts, squabbles over land, societal unrest, and the changing of the seasons.]]>
       </description>
       <source:markdown>The native inhabitants of a Polish village deal with family conflicts, squabbles over land, societal unrest, and the changing of the seasons.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/wladyslaw-reymont/the-peasants/michael-henry-dziewicki/downloads/wladyslaw-reymont_the-peasants_michael-henry-dziewicki.epub?source=feed" length="1424613" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/wladyslaw-reymont/the-peasants/michael-henry-dziewicki/downloads/wladyslaw-reymont_the-peasants_michael-henry-dziewicki.epub?source=feed" length="1424637" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/wladyslaw-reymont/the-peasants/michael-henry-dziewicki</guid>
     </item>    <item>
       <title>The English Constitution, by Walter Bagehot</title>
@@ -262,7 +271,7 @@ If you would like to support these efforts, or you have begun using the new tool
         <![CDATA[A collection of poems by Ring Lardner.]]>
       </description>
       <source:markdown>A collection of poems by Ring Lardner.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/ring-lardner/poetry/downloads/ring-lardner_poetry.epub?source=feed" length="2353760" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/ring-lardner/poetry/downloads/ring-lardner_poetry.epub?source=feed" length="2353782" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/ring-lardner/poetry</guid>
     </item>    <item>
       <title>AI Literacy in Higher Education</title>
@@ -788,7 +797,7 @@ The post [Guest Post — Replacing Public Doubt with Public Confidence: Experime
         <![CDATA[The Sultan of the Congo brings about philosophical inquiry and scandal when he is granted a magical ring that permits him to compel speech from the vaginas of the women of his court.]]>
       </description>
       <source:markdown>The Sultan of the Congo brings about philosophical inquiry and scandal when he is granted a magical ring that permits him to compel speech from the vaginas of the women of his court.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman/downloads/denis-diderot_the-indiscreet-jewels_r-freeman.epub?source=feed" length="699016" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman/downloads/denis-diderot_the-indiscreet-jewels_r-freeman.epub?source=feed" length="699040" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/denis-diderot/the-indiscreet-jewels/r-freeman</guid>
     </item>    <item>
       <title>The Clue, by Carolyn Wells</title>

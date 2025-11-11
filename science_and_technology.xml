@@ -4,14 +4,80 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>11 Nov 25 10:12 -0800</lastBuildDate>
+    <lastBuildDate>11 Nov 25 14:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Wikipedia wird kostenpflichtig für KI-Bots</title>
+      <link>https://www.heise.de/news/Wikipedia-wird-kostenpflichtig-fuer-KI-Bots-11074749.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Wikimedia-Stiftung möchte das Überleben der Wikipedia im KI-Zeitalter sichern. Die Profiteure sollen für Aufwand zahlen, den sie verursachen.]]>
+      </description>
+      <source:markdown>Die Wikimedia-Stiftung möchte das Überleben der Wikipedia im KI-Zeitalter sichern. Die Profiteure sollen für Aufwand zahlen, den sie verursachen.</source:markdown>
+      <guid>cid://http://heise.de/-11074749</guid>
+    </item>    <item>
+      <title>Bundesregierung: IT-Sicherheit im Kanzleramt ist über-geheim</title>
+      <link>https://www.heise.de/news/Bundesregierung-IT-Sicherheit-im-Kanzleramt-ist-ueber-geheim-11074714.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Informationen über die IT-Infrastruktur im Kanzleramt würden laut der Exekutive das Staatswohl gefährden. Etwaige Angreifer könnten konkrete Hinweise erhalten.]]>
+      </description>
+      <source:markdown>Informationen über die IT-Infrastruktur im Kanzleramt würden laut der Exekutive das Staatswohl gefährden. Etwaige Angreifer könnten konkrete Hinweise erhalten.</source:markdown>
+      <guid>cid://http://heise.de/-11074714</guid>
+    </item>    <item>
+      <title>Debian Mandates Rust for APT, Reshaping Ubuntu and Other Linux Distros</title>
+      <link>https://thenewstack.io/debian-mandates-rust-for-apt-reshaping-ubuntu-and-other-linux-distros/</link>
+      <description>
+        <![CDATA[<img width="1024" height="584" src="https://cdn.thenewstack.io/media/2025/04/6d6504ec-rust-programming-image-1-1024x584.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/04/6d6504ec-rust-programming-image-1.jpg" /><p>One of the world&#8217;s oldest and most influential Linux distributions, Debian, has officially announced plans to restructure its development strategy</p>
+        <p>The post <a href="https://thenewstack.io/debian-mandates-rust-for-apt-reshaping-ubuntu-and-other-linux-distros/">Debian Mandates Rust for APT, Reshaping Ubuntu and Other Linux Distros</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/04/6d6504ec-rust-programming-image-1-1024x584.jpg)
+
+One of the world’s oldest and most influential Linux distributions, Debian, has officially announced plans to restructure its development strategy
+
+The post [Debian Mandates Rust for APT, Reshaping Ubuntu and Other Linux Distros](https://thenewstack.io/debian-mandates-rust-for-apt-reshaping-ubuntu-and-other-linux-distros/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805497</guid>
+    </item>    <item>
+      <title>Gigawattstunden-Netzspeicher wird in Brandenburg gebaut</title>
+      <link>https://www.heise.de/news/Gigawattstunden-Netzspeicher-wird-in-Brandenburg-gebaut-11074581.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Energiewende braucht Speicher. Der Energieversorger LEAG baut einen großen Akku in Brandenburg, der in etwa zwei Jahren in Betrieb gehen soll.]]>
+      </description>
+      <source:markdown>Die Energiewende braucht Speicher. Der Energieversorger LEAG baut einen großen Akku in Brandenburg, der in etwa zwei Jahren in Betrieb gehen soll.</source:markdown>
+      <guid>cid://http://heise.de/-11074581</guid>
+    </item>    <item>
+      <title>5,5 Milliarden Euro: Googles &#34;BIP-Booster&#34; für KI in Deutschland</title>
+      <link>https://www.heise.de/news/5-5-Milliarden-Euro-Googles-BIP-Booster-fuer-KI-in-Deutschland-11074613.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Google kündigt 5,5 Mrd. Euro Privatinvestitionen bis 2029 an für Cloud-Infrastruktur, Rechenzentren und grüne Energielösungen in Deutschland.]]>
+      </description>
+      <source:markdown>Google kündigt 5,5 Mrd. Euro Privatinvestitionen bis 2029 an für Cloud-Infrastruktur, Rechenzentren und grüne Energielösungen in Deutschland.</source:markdown>
+      <guid>cid://http://heise.de/-11074613</guid>
+    </item>    <item>
+      <title>How AI Is Pushing Kubernetes Storage Beyond Its Limits</title>
+      <link>https://thenewstack.io/how-ai-is-pushing-kubernetes-storage-beyond-its-limits/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/0a69b80e-ai-kubernetes-storage-beyond-limits-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="&quot;How AI Is Pushing Kubernetes Storage Beyond Its Limits&quot; featured image" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/0a69b80e-ai-kubernetes-storage-beyond-limits.jpg" /><p>As enterprises rush to deploy AI and data-intensive applications in Kubernetes environments, standard Container Storage Interfaces (CSIs) aren&#8217;t enough to</p>
+        <p>The post <a href="https://thenewstack.io/how-ai-is-pushing-kubernetes-storage-beyond-its-limits/">How AI Is Pushing Kubernetes Storage Beyond Its Limits</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![&#34;How AI Is Pushing Kubernetes Storage Beyond Its Limits&#34; featured image](https://cdn.thenewstack.io/media/2025/11/0a69b80e-ai-kubernetes-storage-beyond-limits-1024x576.jpg)
+
+As enterprises rush to deploy AI and data-intensive applications in Kubernetes environments, standard Container Storage Interfaces (CSIs) aren’t enough to
+
+The post [How AI Is Pushing Kubernetes Storage Beyond Its Limits](https://thenewstack.io/how-ai-is-pushing-kubernetes-storage-beyond-its-limits/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806051</guid>
+    </item>    <item>
+      <title>Top 10: Der beste Mini-Beamer mit Akku im Test</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-beamer-mit-akku-im-test-schon-ab-250-euro-gut/s34epxj?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Wer einen Projektor unterwegs nutzen will, der benötigt einen Mini-Beamer mit Akku. Wir zeigen die zehn besten Akku-Beamer aus unseren Tests.]]>
+      </description>
+      <source:markdown>Wer einen Projektor unterwegs nutzen will, der benötigt einen Mini-Beamer mit Akku. Wir zeigen die zehn besten Akku-Beamer aus unseren Tests.</source:markdown>
+      <guid>cid://http://heise.de/-11074644</guid>
+    </item>    <item>
       <title>The 4 Ways AI Code Is Breaking Your Repo (And How To Fix It)</title>
       <link>https://thenewstack.io/the-4-ways-ai-code-is-breaking-your-repo-and-how-to-fix-it/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/2057f679-irvan-smith-cwqg1n1ati0-unsplash-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/2057f679-irvan-smith-cwqg1n1ati0-unsplash-scaled.jpg" /><p>&#8220;Don&#8217;t ask the model to build your whole app. Break your request into smaller parts and generate one function, hook</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/2057f679-irvan-smith-cwqg1n1ati0-unsplash-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/2057f679-irvan-smith-cwqg1n1ati0-unsplash-scaled.jpg" /><p>&#8220;Don&#8217;t ask the model to build your whole app. Break your request into smaller parts and generate one function, hook</p>
         <p>The post <a href="https://thenewstack.io/the-4-ways-ai-code-is-breaking-your-repo-and-how-to-fix-it/">The 4 Ways AI Code Is Breaking Your Repo (And How To Fix It)</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/2057f679-irvan-smith-cwqg1n1ati0-unsplash-1024x576.jpg)

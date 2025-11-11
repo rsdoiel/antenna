@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>11 Nov 25 10:12 -0800</lastBuildDate>
+    <lastBuildDate>11 Nov 25 14:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -140,6 +140,191 @@ comprise this release.
 As always, do give this release a try and open a [ticket](https://gitlab.haskell.org/ghc/ghc/-/issues/new) if you see
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
+    </item>    <item>
+      <title>Xcode 26.1.1</title>
+      <link>https://mjtsai.com/blog/2025/11/11/xcode-26-1-1/</link>
+      <description>
+        <![CDATA[Apple (xip, downloads): Xcode 26.1.1 includes Swift 6.2.1 and SDKs for iOS 26.1, iPadOS 26.1, tvOS 26.1, macOS 26.1, and visionOS 26.1. Xcode 26.1.1 supports on-device debugging in iOS 15 and later, tvOS 15 and later, watchOS 8 and later, and visionOS. Xcode 26.1.1 requires a Mac running macOS Sequoia 15.6 or later. It&#8217;s hard [&#8230;]]]>
+      </description>
+      <source:markdown>Apple (xip, downloads): Xcode 26.1.1 includes Swift 6.2.1 and SDKs for iOS 26.1, iPadOS 26.1, tvOS 26.1, macOS 26.1, and visionOS 26.1. Xcode 26.1.1 supports on-device debugging in iOS 15 and later, tvOS 15 and later, watchOS 8 and later, and visionOS. Xcode 26.1.1 requires a Mac running macOS Sequoia 15.6 or later. It’s hard \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=50006</guid>
+    </item>    <item>
+      <title>DropDMG 3.7.1</title>
+      <link>https://mjtsai.com/blog/2025/11/11/dropdmg-3-7-1/</link>
+      <description>
+        <![CDATA[DropDMG 3.7.1 is a maintenance update of my app for disk images and archives. I continue to run into AppleScript problems with Tahoe. This script: tell application "Finder" tell window 1 set statusbar visible to true end tell end tell no longer does anything (FB20794683). If I change window to Finder window, instead of doing [&#8230;]]]>
+      </description>
+      <source:markdown>DropDMG 3.7.1 is a maintenance update of my app for disk images and archives. I continue to run into AppleScript problems with Tahoe. This script: tell application &#34;Finder&#34; tell window 1 set statusbar visible to true end tell end tell no longer does anything (FB20794683). If I change window to Finder window, instead of doing \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=50004</guid>
+    </item>    <item>
+      <title>Abstract App Icons Within Icons</title>
+      <link>https://mjtsai.com/blog/2025/11/11/abstract-app-icons-within-icons/</link>
+      <description>
+        <![CDATA[Matthew Cassinelli: The App Store icon is made up of three app icons supporting each other (like apps on the App Store do). Just like the Shortcuts is two app icons, connected in the middle (like shortcuts connecting your apps together). All these years, I thought the &#8220;new&#8221; App Store icon was just an abstract [&#8230;]]]>
+      </description>
+      <source:markdown>Matthew Cassinelli: The App Store icon is made up of three app icons supporting each other (like apps on the App Store do). Just like the Shortcuts is two app icons, connected in the middle (like shortcuts connecting your apps together). All these years, I thought the “new” App Store icon was just an abstract \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=50002</guid>
+    </item>    <item>
+      <title>Tahoe’s Terrible Icons</title>
+      <link>https://mjtsai.com/blog/2025/11/11/tahoes-terrible-icons/</link>
+      <description>
+        <![CDATA[Paul Kafasis: Apple updated their own app icons on Tahoe, for both the squircle shape as well as the new &#8220;Liquid Glass&#8221; interface. Mostly, these icons seem dumbed-down, with a loss of detail. For example, here&#8217;s Safari&#8217;s old icon from MacOS 15 (Sequoia) on the left, and the new Tahoe icon on the right.To me, [&#8230;]]]>
+      </description>
+      <source:markdown>Paul Kafasis: Apple updated their own app icons on Tahoe, for both the squircle shape as well as the new “Liquid Glass” interface. Mostly, these icons seem dumbed-down, with a loss of detail. For example, here’s Safari’s old icon from MacOS 15 (Sequoia) on the left, and the new Tahoe icon on the right.To me, \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=50000</guid>
+    </item>    <item>
+      <title>Mattias Krantz bought an octopus from the fish market and taught it...</title>
+      <link>https://kottke.org/25/11/0047825-mattias-krantz-bought-an-</link>
+      <guid>cid://tag:kottke.org,2025://13.47825</guid>
+    </item>    <item>
+      <title>November 10, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/november-10-2025-ae3</link>
+      <enclosure url="https://api.substack.com/feed/podcast/178639279/6dae0a636d0d23158ec70a3bd442593c.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/november-10-2025-ae3</guid>
+    </item>    <item>
+      <title>Tuesday session</title>
+      <link>https://adactio.com/notes/22242</link>
+      <description>
+        <![CDATA[<img src="https://adactio.com/images/uploaded/22242/small.jpg" srcset="https://adactio.com/images/uploaded/22242/medium.jpg 1.5x, https://adactio.com/images/uploaded/22242/large.jpg 2.5x" alt="Tuesday session" />
+        <p>Tuesday session</p>]]>
+      </description>
+      <source:markdown>![Tuesday session](https://adactio.com/images/uploaded/22242/small.jpg)
+
+Tuesday session</source:markdown>
+      <guid>cid://https://adactio.com/notes/22242</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m5f3ifeaz22v</link>
+      <description>
+        <![CDATA[An interesting article on the potential issues around over reliance on large language models (AI). I like that they are connecting it to an over reliance on automation generally. Something Socrates might have pointed out.
+        
+        https://www.rte.ie/news/primetime/2025/1111/1543356-outsourced-thinking-experts-consider-ais-impact-on-our-brains/]]>
+      </description>
+      <source:markdown>An interesting article on the potential issues around over reliance on large language models (AI). I like that they are connecting it to an over reliance on automation generally. Something Socrates might have pointed out.
+
+https://www.rte.ie/news/primetime/2025/1111/1543356-outsourced-thinking-experts-consider-ais-impact-on-our-brains/</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m5f3ifeaz22v</guid>
+    </item>    <item>
+      <link>https://nakedjen.com/2025/11/11/this-is-not-the-end-of-the-story/</link>
+      <description>
+        <![CDATA[<p>NakedJen has a WordPress blog.</p>]]>
+      </description>
+      <source:markdown>NakedJen has a WordPress blog.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/11/1873/</guid>
+    </item>    <item>
+      <link>https://www.manton.org/2025/11/11/markdown-in-rss.html</link>
+      <description>
+        <![CDATA[<p>Manton Reece: Markdown in RSS.</p>]]>
+      </description>
+      <source:markdown>Manton Reece: Markdown in RSS.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/11/1871/</guid>
+    </item>    <item>
+      <title>2025-11-10 Israel, once a month</title>
+      <link>https://alexschroeder.ch/view/2025-11-10-israel</link>
+      <description>
+        <![CDATA[<h1 id="2025-11-10-israel-once-a-month">2025-11-10 Israel, once a month</h1>
+        
+        <p>I&rsquo;m kind of glad I promised myself to write about the situation just once a month. That means I can look away most of the time and still feel OK.</p>
+        
+        <p>The army:</p>
+        
+        <blockquote>
+        <p>Since the start of the ceasefire agreement, at least 241 Palestinians have been killed and 619 wounded by Israeli attacks. &ndash; <a href="https://www.aljazeera.com/news/liveblog/2025/11/10/live-israeli-air-raids-hit-gaza-city-southern-lebanon">Live: Israeli air raids hit Gaza City, southern Lebanon</a>, by Caolán Magee and Tim Hume, for Al Jazeera</p>
+        </blockquote>
+        
+        <p>I wonder what the people supporting those attacks think. Did the Palestinians kill and wound so many Israelis? Or is this some imagined payback ratio? I wonder how they police their own if 100% security is worth hundreds of people killed.</p>
+        
+        <p>The settlers:</p>
+        
+        <blockquote>
+        <p>But this year’s harvest has been overshadowed by escalating Israeli settler violence. About 150 attacks have been documented so far, it said, injuring some 140 Palestinians and vandalising more than 4,200 trees. &ndash; ibid.</p>
+        </blockquote>
+        
+        <p>They&rsquo;re vandalising the trees, too.</p>
+        
+        <p>A personal boycott is the very least you can do. Also <a href="https://gaza-verified.org/">Gaza Verified</a>.</p>
+        
+        <p>And if you&rsquo;re in a decision-making position somewhere, surely you can do your part as well.</p>
+        
+        <p><a class="tag" href="/search/?q=%23Israel">#Israel</a> <a class="tag" href="/search/?q=%23Palestine">#Palestine</a></p>]]>
+      </description>
+      <source:markdown># 2025-11-10 Israel, once a month
+
+I’m kind of glad I promised myself to write about the situation just once a month. That means I can look away most of the time and still feel OK.
+
+The army:
+
+&#62; Since the start of the ceasefire agreement, at least 241 Palestinians have been killed and 619 wounded by Israeli attacks. – [Live: Israeli air raids hit Gaza City, southern Lebanon](https://www.aljazeera.com/news/liveblog/2025/11/10/live-israeli-air-raids-hit-gaza-city-southern-lebanon), by Caolán Magee and Tim Hume, for Al Jazeera
+
+I wonder what the people supporting those attacks think. Did the Palestinians kill and wound so many Israelis? Or is this some imagined payback ratio? I wonder how they police their own if 100% security is worth hundreds of people killed.
+
+The settlers:
+
+&#62; But this year’s harvest has been overshadowed by escalating Israeli settler violence. About 150 attacks have been documented so far, it said, injuring some 140 Palestinians and vandalising more than 4,200 trees. – ibid.
+
+They’re vandalising the trees, too.
+
+A personal boycott is the very least you can do. Also [Gaza Verified](https://gaza-verified.org/).
+
+And if you’re in a decision-making position somewhere, surely you can do your part as well.
+
+[#Israel](/search/?q=%23Israel) [#Palestine](/search/?q=%23Palestine)</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2025-11-10-israel</guid>
+    </item>    <item>
+      <title>Five novels to read if you’re fascinated by the Black bourgeoisie.</title>
+      <link>https://lithub.com/five-novels-to-read-if-youre-fascinated-by-the-black-bourgeoisie/</link>
+      <description>
+        <![CDATA[In a recent piece for Cultured, novelist Rob Franklin observed &#8220;a surge&#8221; in recent depictions of the Black bourgeoisie. This milieu, defined by a lifting as we climb ethos and certain cultural signifiers (Jack and Jill, Alpha Kappa Alpha, Oak]]>
+      </description>
+      <source:markdown>In a recent piece for Cultured, novelist Rob Franklin observed “a surge” in recent depictions of the Black bourgeoisie. This milieu, defined by a lifting as we climb ethos and certain cultural signifiers (Jack and Jill, Alpha Kappa Alpha, Oak</source:markdown>
+      <guid>cid://https://lithub.com/?p=262300</guid>
+    </item>    <item>
+      <link>http://scripting.com/stories/2011/01/01/theWorldIsSocialist.html</link>
+      <description>
+        <![CDATA[<p>2011: The world is socialist.</p>]]>
+      </description>
+      <source:markdown>2011: The world is socialist.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/11/1869/</guid>
+    </item>    <item>
+      <title>The trailer for Train Dreams, a film adaptation of the novella by...</title>
+      <link>https://kottke.org/25/11/0047824-the-trailer-for-train-dre</link>
+      <guid>cid://tag:kottke.org,2025://13.47824</guid>
+    </item>    <item>
+      <title>5 recent, ominous signs for Generative AI</title>
+      <link>https://garymarcus.substack.com/p/5-recent-ominous-signs-for-generative</link>
+      <description>
+        <![CDATA[November isn&#8217;t even half over]]>
+      </description>
+      <source:markdown>November isn’t even half over</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!MN5I!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9a1f096-dd5e-4cb5-896f-e18aecaebd3f_1206x1473.png" length="0" type="image/jpeg" />
+      <guid>cid://https://garymarcus.substack.com/p/5-recent-ominous-signs-for-generative</guid>
+    </item>    <item>
+      <title>Jamelle Bouie: &#38;#8220;I&#38;#8217;m gonna make a case to you that no matter...</title>
+      <link>https://kottke.org/25/11/0047823-jamelle-bouie-im-gonna-ma</link>
+      <guid>cid://tag:kottke.org,2025://13.47823</guid>
+    </item>    <item>
+      <title>Re-Introduction to Thais Rodrigues Cons</title>
+      <link>https://www.digitalrhetoriccollaborative.org/2025/11/11/re-introduction-to-thais-rodrigues-cons/</link>
+      <description>
+        <![CDATA[This year as a continuing DRC Fellow, I decided to create a video-based, multimodal introduction. If you want to read my first introduction that has my chronological history with digital platforms and technologies you can read it at this link.
+        <p><a href="https://www.digitalrhetoriccollaborative.org/2025/11/11/re-introduction-to-thais-rodrigues-cons/" rel="nofollow">Source</a></p>]]>
+      </description>
+      <source:markdown>This year as a continuing DRC Fellow, I decided to create a video-based, multimodal introduction. If you want to read my first introduction that has my chronological history with digital platforms and technologies you can read it at this link.
+
+[Source](https://www.digitalrhetoriccollaborative.org/2025/11/11/re-introduction-to-thais-rodrigues-cons/)</source:markdown>
+      <guid>cid://https://www.digitalrhetoriccollaborative.org/?p=22024</guid>
+    </item>    <item>
+      <title>They’re Not Hiding It and It&#39;s Not Irony</title>
+      <link>https://www.notesfromthecircus.com/p/theyre-not-hiding-it-and-its-not</link>
+      <description>
+        <![CDATA[The Trump administration just quietly removed a memorial to Black U.S.]]>
+      </description>
+      <source:markdown>The Trump administration just quietly removed a memorial to Black U.S.</source:markdown>
+      <enclosure url="https://images.unsplash.com/photo-1629446022659-3c2e34cb27b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw0fHxhcmxpbmd0b258ZW58MHx8fHwxNzYyODg0MTU2fDA&ixlib=rb-4.1.0&q=80&w=1080" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/theyre-not-hiding-it-and-its-not</guid>
+    </item>    <item>
+      <title>Patrick George Thinks CarPlay’s Days Are Numbered; I Doubt It</title>
+      <link>https://www.theatlantic.com/technology/2025/11/apple-carplay-general-motors/684799/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42375</guid>
     </item>    <item>
       <title>Jessica Guo: &#38;#8220;If there&#38;#8217;s something out there that calls to you, I...</title>
       <link>https://kottke.org/25/11/0047822-jessica-guo-if-theres-som</link>
@@ -1129,58 +1314,6 @@ The tendency of Linux developers to reinvent wheels is no secret. It&#39;s not s
       <source:markdown>In opposite ways, Musk and Mamdani pose the same question</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!XLxj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08670da0-eae8-4b1a-a439-788ae7a1d711_3500x2567.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/musk-and-mamdani-the-end-of-harsh</guid>
-    </item>    <item>
-      <title>2025-11-10 Israel, once a month</title>
-      <link>https://alexschroeder.ch/view/2025-11-10-israel</link>
-      <description>
-        <![CDATA[<h1 id="2025-11-10-israel-once-a-month">2025-11-10 Israel, once a month</h1>
-        
-        <p>I&rsquo;m kind of glad I promised myself to write about the situation just once a month. That means I can look away most of the time and still feel like I&rsquo;m looking away completely.</p>
-        
-        <p>The army:</p>
-        
-        <blockquote>
-        <p>Since the start of the ceasefire agreement, at least 241 Palestinians have been killed and 619 wounded by Israeli attacks. &ndash; <a href="https://www.aljazeera.com/news/liveblog/2025/11/10/live-israeli-air-raids-hit-gaza-city-southern-lebanon">Live: Israeli air raids hit Gaza City, southern Lebanon</a>, by Caolán Magee and Tim Hume, for Al Jazeera</p>
-        </blockquote>
-        
-        <p>I wonder what the people supporting those attacks think. Did the Palestinians kill and wound so many Israelis? Or is this some imagined payback ratio? I wonder how they police their own if 100% security is worth hundreds of people killed.</p>
-        
-        <p>The settlers:</p>
-        
-        <blockquote>
-        <p>But this year’s harvest has been overshadowed by escalating Israeli settler violence. About 150 attacks have been documented so far, it said, injuring some 140 Palestinians and vandalising more than 4,200 trees. &ndash; ibid.</p>
-        </blockquote>
-        
-        <p>They&rsquo;re vandalising the trees, too.</p>
-        
-        <p>A personal boycott is the very least you can do. Also <a href="https://gaza-verified.org/">Gaza Verified</a>.</p>
-        
-        <p>And if you&rsquo;re in a decision-making position somewhere, surely you can do your part as well.</p>
-        
-        <p><a class="tag" href="/search/?q=%23Israel">#Israel</a> <a class="tag" href="/search/?q=%23Palestine">#Palestine</a></p>]]>
-      </description>
-      <source:markdown># 2025-11-10 Israel, once a month
-
-I’m kind of glad I promised myself to write about the situation just once a month. That means I can look away most of the time and still feel like I’m looking away completely.
-
-The army:
-
-&#62; Since the start of the ceasefire agreement, at least 241 Palestinians have been killed and 619 wounded by Israeli attacks. – [Live: Israeli air raids hit Gaza City, southern Lebanon](https://www.aljazeera.com/news/liveblog/2025/11/10/live-israeli-air-raids-hit-gaza-city-southern-lebanon), by Caolán Magee and Tim Hume, for Al Jazeera
-
-I wonder what the people supporting those attacks think. Did the Palestinians kill and wound so many Israelis? Or is this some imagined payback ratio? I wonder how they police their own if 100% security is worth hundreds of people killed.
-
-The settlers:
-
-&#62; But this year’s harvest has been overshadowed by escalating Israeli settler violence. About 150 attacks have been documented so far, it said, injuring some 140 Palestinians and vandalising more than 4,200 trees. – ibid.
-
-They’re vandalising the trees, too.
-
-A personal boycott is the very least you can do. Also [Gaza Verified](https://gaza-verified.org/).
-
-And if you’re in a decision-making position somewhere, surely you can do your part as well.
-
-[#Israel](/search/?q=%23Israel) [#Palestine](/search/?q=%23Palestine)</source:markdown>
-      <guid>cid://https://alexschroeder.ch/view/2025-11-10-israel</guid>
     </item>    <item>
       <title>November 9, 2025</title>
       <link>https://heathercoxrichardson.substack.com/p/november-9-2025</link>
