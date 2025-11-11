@@ -4,10 +4,26 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>10 Nov 25 14:09 -0800</lastBuildDate>
+    <lastBuildDate>11 Nov 25 06:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>KIM-1 Simulator 1.5.4 published</title>
+      <link>http://retro.hansotten.nl/kim-1-simulator-1-5-4-published/</link>
+      <description>
+        <![CDATA[A fresh version of the simulator. New functionality 1. The audio tape routines interception can be switched off and on in settings. So no more popups if browsing in the -003 ROM 2. The console window stays open untouched when the LED display is chosen. When switched back to the LED display, the LED lights [&#8230;]]]>
+      </description>
+      <source:markdown>A fresh version of the simulator. New functionality 1. The audio tape routines interception can be switched off and on in settings. So no more popups if browsing in the -003 ROM 2. The console window stays open untouched when the LED display is chosen. When switched back to the LED display, the LED lights \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=19183</guid>
+    </item>    <item>
+      <title>Moving back to Linux RPCEmu on my Mac</title>
+      <link>http://www.iconbar.com/comments/rss/news2244.html</link>
+      <description>
+        <![CDATA[I am a big fan of RPCEmu which provides an excellent RISC OS environment on my Mac when I am travelling. In this post I am going to explore why I have switched back to the Linux version and cover some of the issues I encountered.]]>
+      </description>
+      <source:markdown>I am a big fan of RPCEmu which provides an excellent RISC OS environment on my Mac when I am travelling. In this post I am going to explore why I have switched back to the Linux version and cover some of the issues I encountered.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2244.html</guid>
+    </item>    <item>
       <title>TUXEDO Computers Announces a New InfinityBook</title>
       <link>http://www.linux-magazine.com/Online/News/TUXEDO-Computers-Announces-a-New-InfinityBook</link>
       <description>
@@ -1086,31 +1102,6 @@ Want to know why nightly builds of BASIC gained a new [SYS-as-a-function keyword
       </description>
       <source:markdown>It’s now only a few more days until this year’s RISC OS London Show, which will take place on Saturday, 25th October, at the Harrow District Masonic Centre – and last night was the latest RISC OS User Group of London (ROUGOL) meeting, at which RISCOSbits gave us a teaser of what to expect from them at the show. So here’s a more detailed run down directly from the horse’s mouth RISCOSbits keyboard: We are pleased to announce that RISCOSbits will be exhibiting at the RISC OS London Show on…</source:markdown>
       <guid>cid://https://www.riscository.com/?p=10744</guid>
-    </item>    <item>
-      <title>Fireworkz Pro 2 version 2.33.00 released</title>
-      <link>http://www.iconbar.com/comments/rss/news2245.html</link>
-      <description>
-        <![CDATA[R-Comp has released a free update for Fireworkz Pro]]>
-      </description>
-      <source:markdown>R-Comp has released a free update for Fireworkz Pro</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2245.html</guid>
-    </item>    <item>
-      <title>LMDE 7 Now Available</title>
-      <link>http://www.linux-magazine.com/Online/News/LMDE-7-Now-Available</link>
-      <description>
-        <![CDATA[<p>Linux Mint Debian Edition, version 7, has been officially released and is based on upstream Debian.</p>]]>
-      </description>
-      <source:markdown>Linux Mint Debian Edition, version 7, has been officially released and is based on upstream Debian.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://4e5c1de3f5d7f41e6d152fce8ef1d32a</guid>
-    </item>    <item>
-      <title>Fireworkz Pro 2 reaches version 2.33.00</title>
-      <link>https://www.riscository.com/2025/fireworkz-pro-2-33-00/</link>
-      <description>
-        <![CDATA[A new version of Fireworkz Pro 2 has been released by R-Comp (with availability via !Store and on CD at the RISC OS London Show on Saturday, 25th October). Over to Andrew Rawnsley for more details: We are pleased to announce the release of Fireworkz Pro version 2.33.00 as a free upgrade for existing users of 2.3x series. It is available to download now on !Store &#8211; look in your &#8220;My Software&#8221;. The new version includes a number of changes including: Improved load / save performance on modern systems (helpful&#8230;]]>
-      </description>
-      <source:markdown>A new version of Fireworkz Pro 2 has been released by R-Comp (with availability via !Store and on CD at the RISC OS London Show on Saturday, 25th October). Over to Andrew Rawnsley for more details: We are pleased to announce the release of Fireworkz Pro version 2.33.00 as a free upgrade for existing users of 2.3x series. It is available to download now on !Store – look in your “My Software”. The new version includes a number of changes including: Improved load / save performance on modern systems (helpful…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10760</guid>
     </item>
   </channel>
 </rss>
