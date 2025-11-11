@@ -7,10 +7,26 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>11 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>11 Nov 25 10:12 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>As tuition keeps increasing, UC students want a bigger say on the Board of Regents</title>
+      <link>https://laist.com/news/education/uc-students-board-of-regents-higher-tuition</link>
+      <description>
+        <![CDATA[To increase student representation, UC student leaders are pushing for the second seat to also have voting power.]]>
+      </description>
+      <source:markdown>To increase student representation, UC student leaders are pushing for the second seat to also have voting power.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-73b6-d0f4-a39a-fbfe13820001</guid>
+    </item>    <item>
+      <title>Trump floats tariff &#39;dividends&#39; even while plan shows major flaws</title>
+      <link>https://laist.com/news/trump-floats-tariff-dividends-plan-shows-major-flaws</link>
+      <description>
+        <![CDATA[President Donald Trump says the government will distribute checks to Americans from tariff revenue. Here's what that could mean.]]>
+      </description>
+      <source:markdown>President Donald Trump says the government will distribute checks to Americans from tariff revenue. Here&#39;s what that could mean.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-73ab-d0f4-a39a-fbeb8d210000</guid>
+    </item>    <item>
       <title>California schools now offer free preschool for 4-year-olds. Here&#39;s what kids really learn in it</title>
       <link>https://laist.com/news/education/transitional-kindergarten-california-preschool-classroom-learning-behavior</link>
       <description>
@@ -27,12 +43,12 @@
       <source:markdown>With the contest a year away, polling shows voters want the next governor to minimize out-of-pocket health care costs, increase mental health care, and expand caregiving services.</source:markdown>
       <guid>cid://urn:uuid:0000019a-7023-d49f-abfa-f56b3f350000</guid>
     </item>    <item>
-      <title>Senate approves shutdown ending legislation, sending bill to the House for a vote</title>
+      <title>House prepares to vote on legislation to end the shutdown after Senate</title>
       <link>https://laist.com/news/politics/senate-approves-shutdown-ending-legislation-sending-bill-to-the-house-for-a-vote</link>
       <description>
-        <![CDATA[After 41 days of a government shutdown, the U.S. Senate has passed a set of bills to reopen the government. Its fate in the House is uncertain.]]>
+        <![CDATA[After 41 days of a government shutdown, the U.S. Senate passed a set of bills to reopen the government. The House comes back to vote as early as Wednesday afternoon.]]>
       </description>
-      <source:markdown>After 41 days of a government shutdown, the U.S. Senate has passed a set of bills to reopen the government. Its fate in the House is uncertain.</source:markdown>
+      <source:markdown>After 41 days of a government shutdown, the U.S. Senate passed a set of bills to reopen the government. The House comes back to vote as early as Wednesday afternoon.</source:markdown>
       <guid>cid://urn:uuid:0000019a-70ca-d0a8-a9df-fdfa708b0000</guid>
     </item>    <item>
       <title>Prominent Afrikaners refuse to be &#39;pawns,&#39; and hit back at Trump&#39;s claims about South Africa</title>

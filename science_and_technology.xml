@@ -4,10 +4,167 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>11 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>11 Nov 25 10:12 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The 4 Ways AI Code Is Breaking Your Repo (And How To Fix It)</title>
+      <link>https://thenewstack.io/the-4-ways-ai-code-is-breaking-your-repo-and-how-to-fix-it/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/2057f679-irvan-smith-cwqg1n1ati0-unsplash-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/2057f679-irvan-smith-cwqg1n1ati0-unsplash-scaled.jpg" /><p>&#8220;Don&#8217;t ask the model to build your whole app. Break your request into smaller parts and generate one function, hook</p>
+        <p>The post <a href="https://thenewstack.io/the-4-ways-ai-code-is-breaking-your-repo-and-how-to-fix-it/">The 4 Ways AI Code Is Breaking Your Repo (And How To Fix It)</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/2057f679-irvan-smith-cwqg1n1ati0-unsplash-1024x576.jpg)
+
+“Don’t ask the model to build your whole app. Break your request into smaller parts and generate one function, hook
+
+The post [The 4 Ways AI Code Is Breaking Your Repo (And How To Fix It)](https://thenewstack.io/the-4-ways-ai-code-is-breaking-your-repo-and-how-to-fix-it/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805195</guid>
+    </item>    <item>
+      <title>Ein erster Ausblick auf den Mercedes GLB EQ</title>
+      <link>https://www.heise.de/news/Ein-erster-Ausblick-auf-den-Mercedes-GLB-EQ-11074427.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Mercedes erneuert nun zügig sein E-Auto-Angebot. Der GLB EQ stellt den noch aktuellen EQB in mindestens einer Hinsicht in den Schatten.]]>
+      </description>
+      <source:markdown>Mercedes erneuert nun zügig sein E-Auto-Angebot. Der GLB EQ stellt den noch aktuellen EQB in mindestens einer Hinsicht in den Schatten.</source:markdown>
+      <guid>cid://http://heise.de/-11074427</guid>
+    </item>    <item>
+      <title>FFmpeg to Google: Fund Us or Stop Sending Bugs</title>
+      <link>https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/</link>
+      <description>
+        <![CDATA[<img width="1024" height="679" src="https://cdn.thenewstack.io/media/2025/11/0c7ed4fb-allison-saeng-roanyq5ym74-unsplash-1024x679.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/0c7ed4fb-allison-saeng-roanyq5ym74-unsplash.jpg" /><p>You may never have heard of FFmpeg, but you&#8217;ve used it. This open source program&#8217;s robust multimedia framework is used</p>
+        <p>The post <a href="https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/">FFmpeg to Google: Fund Us or Stop Sending Bugs</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/0c7ed4fb-allison-saeng-roanyq5ym74-unsplash-1024x679.jpg)
+
+You may never have heard of FFmpeg, but you’ve used it. This open source program’s robust multimedia framework is used
+
+The post [FFmpeg to Google: Fund Us or Stop Sending Bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806063</guid>
+    </item>    <item>
+      <title>heise+ | Digital Detox: Apple Watch statt iPhone nutzen</title>
+      <link>https://www.heise.de/ratgeber/Digital-Detox-Apple-Watch-statt-iPhone-nutzen-10671634.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Keine zeitfressenden Social-Media-Apps, aber alle wichtigen Features für unterwegs: So gelingt Digital Detox mit der Apple Watch.]]>
+      </description>
+      <source:markdown>Keine zeitfressenden Social-Media-Apps, aber alle wichtigen Features für unterwegs: So gelingt Digital Detox mit der Apple Watch.</source:markdown>
+      <guid>cid://http://heise.de/-10671634</guid>
+    </item>    <item>
+      <title>North Korean spies turn Google&#39;s Find Hub into remote-wipe weapon</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/11/north_korean_spies_turn_googles/</link>
+      <description>
+        <![CDATA[<h4>KONNI espionage crew covertly abused Google’s Find My Device feature to remotely factory-reset Android phones</h4> <p>North Korean state-backed spies have found a new way to torch evidence of their own cyber-spying – by hijacking Google&#39;s &#34;Find Hub&#34; service to remotely wipe Android phones belonging to their South Korean targets.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### KONNI espionage crew covertly abused Google’s Find My Device feature to remotely factory-reset Android phones
+
+North Korean state-backed spies have found a new way to torch evidence of their own cyber-spying – by hijacking Google&#39;s &#34;Find Hub&#34; service to remotely wipe Android phones belonging to their South Korean targets.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242956</guid>
+    </item>    <item>
+      <title>CNCF standardisiert KI-Infrastruktur mit neuem Kubernetes-Programm</title>
+      <link>https://www.heise.de/news/CNCF-standardisiert-KI-Infrastruktur-mit-neuem-Kubernetes-Programm-11074337.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Mit dem Kubernetes-AI-Conformance-Programm legt die CNCF einen technischen Standard für KI-Plattformen vor, der Portabilität und Souveränität garantieren soll.]]>
+      </description>
+      <source:markdown>Mit dem Kubernetes-AI-Conformance-Programm legt die CNCF einen technischen Standard für KI-Plattformen vor, der Portabilität und Souveränität garantieren soll.</source:markdown>
+      <guid>cid://http://heise.de/-11074337</guid>
+    </item>    <item>
+      <title>Rocket Lab&#39;s Neutron slips to 2026: &#39;Our aim is to make it to orbit on the first try&#39;</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/11/rocket_labs_neutron_slips_2026/</link>
+      <description>
+        <![CDATA[<h4>Hungry Hippo won&#39;t move to the launchpad until next year</h4> <p>Aerospace manufacturer and launch service provider Rocket Lab has confirmed what many have long suspected: its &#34;Hungry Hippo&#34; Neutron rocket won&#39;t be hitting the launchpad until 2026 at the earliest.…</p>]]>
+      </description>
+      <source:markdown>#### Hungry Hippo won&#39;t move to the launchpad until next year
+
+Aerospace manufacturer and launch service provider Rocket Lab has confirmed what many have long suspected: its &#34;Hungry Hippo&#34; Neutron rocket won&#39;t be hitting the launchpad until 2026 at the earliest.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242957</guid>
+    </item>    <item>
+      <title>GEMA-ChatGPT-Urteil: Das kann kein Zufall sein!</title>
+      <link>https://www.heise.de/meinung/Analyse-Das-GEMA-Urteil-ruettelt-am-Selbstverstaendnis-der-KI-Branche-11074431.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ein Gerichtsurteil in München könnte weitreichende Folgen für die KI-Branche haben. Das eigentliche Dilemma erscheint kaum auflösbar, analysiert Malte Kirchner.]]>
+      </description>
+      <source:markdown>Ein Gerichtsurteil in München könnte weitreichende Folgen für die KI-Branche haben. Das eigentliche Dilemma erscheint kaum auflösbar, analysiert Malte Kirchner.</source:markdown>
+      <guid>cid://http://heise.de/-11074431</guid>
+    </item>    <item>
+      <title>VMS/XDE: an OpenVMS x86 development environment for Linux and Windows/WSL</title>
+      <link>https://www.osnews.com/story/143769/vms-xde-an-openvms-x86-development-environment-for-linux-and-windows-wsl/</link>
+      <description>
+        <![CDATA[VMS/XDE is an OpenVMS x86 development environment for Linux and WIndows (via WSL). It provides a familiar user experience for OpenVMS developers working in Linux and Windows yet offers 100% binary and file system compatilibilty with OpenVMS. VMS/XDE includes OpenVMS V9.2-3 user, supervisor and executive mode operating system environments and a set of x86 native compilers and layered products geared towards OpenVMS software development and testing. ↫ VMS/XDE website VMS/XDE is a beta version, and comes with the usual annoying OpenVMS x86 time bombs, this time exploding on 3 January 2026. If you intend to use the finalised commercial version after the beta period ends, you&#8217;ll have to employ the same licenses as regular OpenVMS. It&#8217;s a bit of a mess, but that&#8217;s the OpenVMS way, sadly &#8211; and I don&#8217;t blame them, either, as I&#8217;m sure they&#8217;re hamstrung by a ton of agreements and restrictions imposed upon them by HP. Regardless, VMS/XDE brings a zero setup OpenVMS environment to the operating system you&#8217;re already using, making it easier to develop and cross-compile for the platform. I still have absolutely no clue just how many people OpenVMS is still relevant for, but I absolutely adore the fact VMS Software Inc. is working on this. In a world where so many of its former competitors are being held hostage by corporate indifference, it&#8217;s refreshing to see VMS still moving forward.]]>
+      </description>
+      <source:markdown>VMS/XDE is an OpenVMS x86 development environment for Linux and WIndows (via WSL). It provides a familiar user experience for OpenVMS developers working in Linux and Windows yet offers 100% binary and file system compatilibilty with OpenVMS. VMS/XDE includes OpenVMS V9.2-3 user, supervisor and executive mode operating system environments and a set of x86 native compilers and layered products geared towards OpenVMS software development and testing. ↫ VMS/XDE website VMS/XDE is a beta version, and comes with the usual annoying OpenVMS x86 time bombs, this time exploding on 3 January 2026. If you intend to use the finalised commercial version after the beta period ends, you’ll have to employ the same licenses as regular OpenVMS. It’s a bit of a mess, but that’s the OpenVMS way, sadly – and I don’t blame them, either, as I’m sure they’re hamstrung by a ton of agreements and restrictions imposed upon them by HP. Regardless, VMS/XDE brings a zero setup OpenVMS environment to the operating system you’re already using, making it easier to develop and cross-compile for the platform. I still have absolutely no clue just how many people OpenVMS is still relevant for, but I absolutely adore the fact VMS Software Inc. is working on this. In a world where so many of its former competitors are being held hostage by corporate indifference, it’s refreshing to see VMS still moving forward.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143769</guid>
+    </item>    <item>
+      <title>heise+ | Banking-Software Hibiscus 2.12 mit Empfängerüberprüfung ausprobiert</title>
+      <link>https://www.heise.de/hintergrund/Open-Source-Banking-Software-Hibiscus-beherrscht-Empfaengerueberpruefung-11051462.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Hibiscus unterstützt nun die Anfang Oktober eingeführte Empfängerüberprüfung bei Überweisungen. Zu der Verzögerung kam es, weil es an Entwicklern mangelt.]]>
+      </description>
+      <source:markdown>Hibiscus unterstützt nun die Anfang Oktober eingeführte Empfängerüberprüfung bei Überweisungen. Zu der Verzögerung kam es, weil es an Entwicklern mangelt.</source:markdown>
+      <guid>cid://http://heise.de/-11051462</guid>
+    </item>    <item>
+      <title>Plasma Mobile 6.5 keeps improving</title>
+      <link>https://www.osnews.com/story/143767/plasma-mobile-6-5-keeps-improving/</link>
+      <description>
+        <![CDATA[As part of the KDE Plasma 6.5 release, we also got a new release of Plasma Mobile. As there&#8217;s a lot of changes, improvements, and new features in Plasma Mobile 6.5, the Plasma Mobile Team published a blog post to highlight them all. The biggest improvement is probably the further integration of Waydroid, a necessary evil to run Android applications until the Plasma Mobile ecosystem manages to become a bit more well-rounded. Waydroid can now be managed straight from the settings application and the quick settings dropdown. Furthermore, the lockscreen has been improved considerably, there&#8217;s been a ton of polish for the home screen and the user interface in general, the quick settings panel can now be customised to make it fit better on different form factors, the first early test version of the new Plasma mobile keyboard is included, and so much more. This is definitely a release I would want to try out, but since I don&#8217;t have any of the supported devices, I&#8217;m a bit stuck. This is, of course, one of the two major problems facing proper mobile Linux: the lack of device support. It&#8217;s improving due to the tireless work of countless volunteers, but they&#8217;re always going to be swimming upstream. The other major problem is, of course, application availability, but at least Waydroid can bridge the gap for the adventurous among us.]]>
+      </description>
+      <source:markdown>As part of the KDE Plasma 6.5 release, we also got a new release of Plasma Mobile. As there’s a lot of changes, improvements, and new features in Plasma Mobile 6.5, the Plasma Mobile Team published a blog post to highlight them all. The biggest improvement is probably the further integration of Waydroid, a necessary evil to run Android applications until the Plasma Mobile ecosystem manages to become a bit more well-rounded. Waydroid can now be managed straight from the settings application and the quick settings dropdown. Furthermore, the lockscreen has been improved considerably, there’s been a ton of polish for the home screen and the user interface in general, the quick settings panel can now be customised to make it fit better on different form factors, the first early test version of the new Plasma mobile keyboard is included, and so much more. This is definitely a release I would want to try out, but since I don’t have any of the supported devices, I’m a bit stuck. This is, of course, one of the two major problems facing proper mobile Linux: the lack of device support. It’s improving due to the tireless work of countless volunteers, but they’re always going to be swimming upstream. The other major problem is, of course, application availability, but at least Waydroid can bridge the gap for the adventurous among us.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143767</guid>
+    </item>    <item>
+      <title>React’s UseEffect Is a Crime Scene Covered in Fingerprints</title>
+      <link>https://thenewstack.io/reacts-useeffect-is-a-crime-scene-covered-in-fingerprints/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/c3fa052a-nik-a0imwikw70y-unsplashb-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="crime scene" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/c3fa052a-nik-a0imwikw70y-unsplashb.jpg" /><p>Let&#8217;s be honest: half the React codebases out there are held together by duct tape and useEffect spaghetti. Every &#8220;quick</p>
+        <p>The post <a href="https://thenewstack.io/reacts-useeffect-is-a-crime-scene-covered-in-fingerprints/">React’s UseEffect Is a Crime Scene Covered in Fingerprints</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![crime scene](https://cdn.thenewstack.io/media/2025/11/c3fa052a-nik-a0imwikw70y-unsplashb-1024x576.jpg)
+
+Let’s be honest: half the React codebases out there are held together by duct tape and useEffect spaghetti. Every “quick
+
+The post [React’s UseEffect Is a Crime Scene Covered in Fingerprints](https://thenewstack.io/reacts-useeffect-is-a-crime-scene-covered-in-fingerprints/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806254</guid>
+    </item>    <item>
+      <title>Roboup Raccoon 2 SE für kleine Gärten im Test</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/maehroboter-fuer-360-euro-roboup-raccoon-2-se-fuer-kleine-gaerten-im-test/tj0thdg?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Zum Kampfpreis von nur 360 Euro bringt Roboup seinen neuen Mähroboter Raccoon 2 SE auf den Markt. Wie gut er in der Praxis funktioniert, zeigt unser Test.]]>
+      </description>
+      <source:markdown>Zum Kampfpreis von nur 360 Euro bringt Roboup seinen neuen Mähroboter Raccoon 2 SE auf den Markt. Wie gut er in der Praxis funktioniert, zeigt unser Test.</source:markdown>
+      <guid>cid://http://heise.de/-11074351</guid>
+    </item>    <item>
+      <title>Kieler Forscher entwickeln 3D-Druckverfahren für Glas</title>
+      <link>https://www.heise.de/news/Kieler-Forscher-entwickeln-3D-Druckverfahren-fuer-Glas-11074343.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Kieler Forscher haben ein laserbasiertes 3D-Druckverfahren für Glas entwickelt. Es vereinfacht den 3D-Druck mit Glas deutlich.]]>
+      </description>
+      <source:markdown>Kieler Forscher haben ein laserbasiertes 3D-Druckverfahren für Glas entwickelt. Es vereinfacht den 3D-Druck mit Glas deutlich.</source:markdown>
+      <guid>cid://http://heise.de/-11074343</guid>
+    </item>    <item>
+      <title>EU&#39;s reforms of GDPR, AI slated by privacy activists for &#39;playing into Big Tech’s hands&#39;</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/11/eu_leaked_gdpr_ai_reforms/</link>
+      <description>
+        <![CDATA[<h4>Lobbying efforts gain ground as proposals carve myriad holes into regulations</h4> <p>Privacy advocates are condemning the European Commission&#39;s leaked plans to overhaul digital privacy legislation, accusing officials of bypassing proper legislative processes to favor Big Tech interests.…</p>]]>
+      </description>
+      <source:markdown>#### Lobbying efforts gain ground as proposals carve myriad holes into regulations
+
+Privacy advocates are condemning the European Commission&#39;s leaked plans to overhaul digital privacy legislation, accusing officials of bypassing proper legislative processes to favor Big Tech interests.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242954</guid>
+    </item>    <item>
+      <title>Aus für offenes WLAN? Vorratsdatenspeicherung gefährdet digitale Teilhabe</title>
+      <link>https://www.heise.de/news/Aus-fuer-offenes-WLAN-Vorratsdatenspeicherung-gefaehrdet-digitale-Teilhabe-11074279.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Freifunker warnen: Der Regierungsplan zum anlasslosen Protokollieren von Nutzerspuren bedroht offene WLANs. Eine Zuordnung von IP-Adressen sei kaum möglich.]]>
+      </description>
+      <source:markdown>Freifunker warnen: Der Regierungsplan zum anlasslosen Protokollieren von Nutzerspuren bedroht offene WLANs. Eine Zuordnung von IP-Adressen sei kaum möglich.</source:markdown>
+      <guid>cid://http://heise.de/-11074279</guid>
+    </item>    <item>
+      <title>BSI zur Cybersicherheit: Stabil unsicher</title>
+      <link>https://www.heise.de/news/BSI-zur-Cybersicherheit-Stabil-unsicher-11074222.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das aktuelle BSI-Lagebild zeigt eklatante Probleme auf – während der zuständige Minister auf die Wirksamkeit neuer Maßnahmen hofft.]]>
+      </description>
+      <source:markdown>Das aktuelle BSI-Lagebild zeigt eklatante Probleme auf – während der zuständige Minister auf die Wirksamkeit neuer Maßnahmen hofft.</source:markdown>
+      <guid>cid://http://heise.de/-11074222</guid>
+    </item>    <item>
       <title>US taxpayers being kept in the dark over datacenter subsidies</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/11/us_taxpayers_dc_subsidies/</link>
       <description>
@@ -71,7 +228,7 @@ The Open Worldwide Application Security Project (OWASP) just published its top 1
       <title>KubeCon: Akuity Reduces Kubernetes Guesswork With AI</title>
       <link>https://thenewstack.io/kubecon-akuity-reduces-kubernetes-guesswork-with-ai/</link>
       <description>
-        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/11/36f9288f-akuity-1024x768.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/36f9288f-akuity.png" /><p>ATLANTA &#8212; Cloud Native GitOps service provider Akuity has added generative AI aids into its Kubernetes deployment platform, in order</p>
+        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/11/36f9288f-akuity-1024x768.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/36f9288f-akuity.png" /><p>ATLANTA &#8212; Cloud Native GitOps service provider Akuity has added generative AI aids into its Kubernetes deployment platform, in order</p>
         <p>The post <a href="https://thenewstack.io/kubecon-akuity-reduces-kubernetes-guesswork-with-ai/">KubeCon: Akuity Reduces Kubernetes Guesswork With AI</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/36f9288f-akuity-1024x768.png)
@@ -620,11 +777,11 @@ Experts may be skeptical about corporate AI hype to varying degrees, but they sh
       <title>LLM side-channel attack could allow snoops to guess what you&#39;re talking about</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/11/llm_sidechannel_attack_microsoft_researcher/</link>
       <description>
-        <![CDATA[<h4>Encryption protects content, not context</h4> <p>Mischief-makers can guess the subjects being discussed with LLMs using a side-channel attack, according to Microsoft researchers. They told <em>The Register</em> that models from some providers, including Anthropic, AWS, DeepSeek, and Google, haven&#39;t been fixed, putting both personal users and enterprise communications at risk.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+        <![CDATA[<h4>Encryption protects content, not context</h4> <p><strong>Updated</strong>  Mischief-makers can guess the subjects being discussed with LLMs using a side-channel attack, according to Microsoft researchers. They told <em>The Register</em> that models from some providers, including Anthropic, AWS, DeepSeek, and Google, haven&#39;t been fixed, putting both personal users and enterprise communications at risk.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
       <source:markdown>#### Encryption protects content, not context
 
-Mischief-makers can guess the subjects being discussed with LLMs using a side-channel attack, according to Microsoft researchers. They told _The Register_ that models from some providers, including Anthropic, AWS, DeepSeek, and Google, haven&#39;t been fixed, putting both personal users and enterprise communications at risk.…</source:markdown>
+**Updated**  Mischief-makers can guess the subjects being discussed with LLMs using a side-channel attack, according to Microsoft researchers. They told _The Register_ that models from some providers, including Anthropic, AWS, DeepSeek, and Google, haven&#39;t been fixed, putting both personal users and enterprise communications at risk.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242945</guid>
     </item>    <item>
       <title>Setting up a combined 68k/PA-RISC HP-UX 9 cluster</title>

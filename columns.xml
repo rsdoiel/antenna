@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>11 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>11 Nov 25 10:12 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -140,6 +140,118 @@ comprise this release.
 As always, do give this release a try and open a [ticket](https://gitlab.haskell.org/ghc/ghc/-/issues/new) if you see
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
+    </item>    <item>
+      <title>Jessica Guo: &#38;#8220;If there&#38;#8217;s something out there that calls to you, I...</title>
+      <link>https://kottke.org/25/11/0047822-jessica-guo-if-theres-som</link>
+      <guid>cid://tag:kottke.org,2025://13.47822</guid>
+    </item>    <item>
+      <title>Frankenstein: bellos y trágicos monstruos</title>
+      <link>https://www.palomitademaiz.net/resenas-frankenstein/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-frankenstein</link>
+      <description>
+        <![CDATA[<p>Dirección: Guillermo del Toro. Guion: Guillermo del Toro, basado en la obra de Mary Shelley. Elenco: Oscar Isaac, Jacob Elordi, Christoph Waltz, Mia Goth, Felix Kammerer. Países: Estados Unidos, México. Más información de la película: https://www.imdb.com/title/tt1312221/ “Te alegrará saber que ningún contratiempo ha ensombrecido el inicio de la aventura de la que tú abrigabas tan negros [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-frankenstein/">Frankenstein: bellos y trágicos monstruos</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Dirección: Guillermo del Toro. Guion: Guillermo del Toro, basado en la obra de Mary Shelley. Elenco: Oscar Isaac, Jacob Elordi, Christoph Waltz, Mia Goth, Felix Kammerer. Países: Estados Unidos, México. Más información de la película: https://www.imdb.com/title/tt1312221/ “Te alegrará saber que ningún contratiempo ha ensombrecido el inicio de la aventura de la que tú abrigabas tan negros \[…\]
+
+La entrada [Frankenstein: bellos y trágicos monstruos](https://www.palomitademaiz.net/resenas-frankenstein/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=25705</guid>
+    </item>    <item>
+      <title>The Age of Audio, a Documentary on the History of Podcasting</title>
+      <link>https://kottke.org/25/11/the-age-of-audio-a-documentary-on-the-history-of-podcasting</link>
+      <guid>cid://tag:kottke.org,2025://5.47821</guid>
+    </item>    <item>
+      <title>Simple One-Time Passcode Inputs</title>
+      <link>https://cloudfour.com/thinks/simple-one-time-passcode-inputs/</link>
+      <description>
+        <![CDATA[Fully functional OTP entry may be easier than you think.]]>
+      </description>
+      <source:markdown>Fully functional OTP entry may be easier than you think.</source:markdown>
+      <enclosure url="https://cloudfour.com/wp-content/uploads/2025/11/otp-feature-r1.png" length="0" type="image/png" />
+      <guid>cid://https://cloudfour.com/?p=8424</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/altusds.altgov.info/post/3m5ejis74ck2h</link>
+      <description>
+        <![CDATA[Chuck Borges is an ethical, brave leader with a knack to understand complicated issues and find useful solutions. We're excited to see him run for office.
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>Chuck Borges is an ethical, brave leader with a knack to understand complicated issues and find useful solutions. We&#39;re excited to see him run for office.
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:fuovrvjiloafdym65x3oloqc/app.bsky.feed.post/3m5ejis74ck2h</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/11.html#a160013</link>
+      <description>
+        <![CDATA[<a href="https://source.scripting.com/markdown.opml">New developer notes</a> for source:markdown. Report problems <a href="https://github.com/scripting/sourceNamespaceComments/issues/5">here</a>.]]>
+      </description>
+      <source:markdown>[New developer notes](https://source.scripting.com/markdown.opml) for source:markdown. Report problems [here](https://github.com/scripting/sourceNamespaceComments/issues/5).</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/11.html#a160013</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/11.html#a155555</link>
+      <description>
+        <![CDATA[An <a href="https://gist.github.com/scripting/deca6d866b76d566b05673c94e8610de">example feed</a> that has lots of source namespace elements.]]>
+      </description>
+      <source:markdown>An [example feed](https://gist.github.com/scripting/deca6d866b76d566b05673c94e8610de) that has lots of source namespace elements.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/11.html#a155555</guid>
+    </item>    <item>
+      <title>Fonts based on the type generated by the Epson MX-80 dot matrix...</title>
+      <link>https://kottke.org/25/11/0047812-fonts-based-on-the-type</link>
+      <guid>cid://tag:kottke.org,2025://13.47812</guid>
+    </item>    <item>
+      <title>Random Mini Dungeons</title>
+      <link>https://daverupert.com/2025/11/random-mini-dungeons/</link>
+      <description>
+        <![CDATA[<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Dn5hugGEnLs?si=03I1jt3P95JJ0fnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p>I stumbled onto <a href="https://www.youtube.com/@oddartworks">Odd Artworks</a>’ <a href="https://www.youtube.com/playlist?list=PLIl5Urconwv9l998tBhv6N5_GwZG-7cxw">Random Mini Dungeon video series</a> via the algorithm. He rolls against a dice table to generate a theme and requirements and starts drawing an isomorphic dungeon on a single sheet of paper. It’s almost like a Solo-RPG meets Inktober mashup activity.</p>
+        <p>The process is straight forward: roll dice, spend an hour to an afternoon drawing the dungeon, scan it, add three layers of gray tones for shading, add color, then add glowing effects. All wrapped up in a “Draw and Talk” format, it makes for a nice predictable ASMR formula. He then collects all the dungeons and goblins he draws and puts them in a stapled zine.</p>
+        <p>The cartoony style is adorable and reminds me a bit of <a href="https://kyleferrin.bigcartel.com/">Kyle Ferrin</a> from <a href="https://ledergames.com/">Leder Games</a>’s style, who I’m fond of because I got to play DnD with Kyle once. Generating dungeons this way could be a great way to create one-shot mini-dungeons for your campaign (doubly-so if you run a campaign for kids). As a bonus you could surprise players at the end with a little artwork to remember the campaign.</p>
+        <p>Anyways, I think it’s great and adds positive vibes into the world. You can buy Odd Artwork’s zines his website: <a href="https://www.oddartworks.com/">https://www.oddartworks.com/</a></p>]]>
+      </description>
+      <source:markdown>I stumbled onto [Odd Artworks](https://www.youtube.com/@oddartworks)’ [Random Mini Dungeon video series](https://www.youtube.com/playlist?list=PLIl5Urconwv9l998tBhv6N5_GwZG-7cxw) via the algorithm. He rolls against a dice table to generate a theme and requirements and starts drawing an isomorphic dungeon on a single sheet of paper. It’s almost like a Solo-RPG meets Inktober mashup activity.
+
+The process is straight forward: roll dice, spend an hour to an afternoon drawing the dungeon, scan it, add three layers of gray tones for shading, add color, then add glowing effects. All wrapped up in a “Draw and Talk” format, it makes for a nice predictable ASMR formula. He then collects all the dungeons and goblins he draws and puts them in a stapled zine.
+
+The cartoony style is adorable and reminds me a bit of [Kyle Ferrin](https://kyleferrin.bigcartel.com/) from [Leder Games](https://ledergames.com/)’s style, who I’m fond of because I got to play DnD with Kyle once. Generating dungeons this way could be a great way to create one-shot mini-dungeons for your campaign (doubly-so if you run a campaign for kids). As a bonus you could surprise players at the end with a little artwork to remember the campaign.
+
+Anyways, I think it’s great and adds positive vibes into the world. You can buy Odd Artwork’s zines his website: [https://www.oddartworks.com/](https://www.oddartworks.com/)</source:markdown>
+      <guid>cid://https://daverupert.com/2025/11/random-mini-dungeons/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/11.html#a153700</link>
+      <description>
+        <![CDATA[As part of the process I reviewed the developer notes I <a href="http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInFeeds">posted in 2022</a>. I see why there was confusion, it was so early in the process. I'm replacing those developer notes with new ones, that's based on more practical experience.]]>
+      </description>
+      <source:markdown>As part of the process I reviewed the developer notes I [posted in 2022](http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInFeeds). I see why there was confusion, it was so early in the process. I&#39;m replacing those developer notes with new ones, that&#39;s based on more practical experience.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/11.html#a153700</guid>
+    </item>    <item>
+      <title>For a More Creative Brain, Travel. &#38;#8220;New sounds, smells, language, tastes, sensations,...</title>
+      <link>https://kottke.org/25/11/0047820-for-a-more-creative-brain</link>
+      <guid>cid://tag:kottke.org,2025://13.47820</guid>
+    </item>    <item>
+      <title>DOCTYPE magazine 🚀⌨️</title>
+      <link>https://vole.wtf/doctype/</link>
+      <description>
+        <![CDATA[<blockquote>
+          <p>’80s BASIC type-in mags are back, but this time for HTML!</p>
+          
+          <p>10 wonderful web apps, including games, toys, puzzles and utilities</p>
+          
+          <p>No coding knowledge needed, you just type</p>
+        </blockquote>
+        
+        <p><a href="https://adactio.com/links/22241">adactio.com/links/22241</a></p>]]>
+      </description>
+      <source:markdown>&#62; ’80s BASIC type-in mags are back, but this time for HTML!
+&#62;
+&#62; 10 wonderful web apps, including games, toys, puzzles and utilities
+&#62;
+&#62; No coding knowledge needed, you just type
+
+[adactio.com/links/22241](https://adactio.com/links/22241)</source:markdown>
+      <guid>cid://https://vole.wtf/doctype/</guid>
+    </item>    <item>
+      <title>&#38;#8220;China&#38;#8217;s carbon dioxide emissions have been flat or falling for 18 months,...</title>
+      <link>https://kottke.org/25/11/0047827-chinas-carbon-dioxide-emi</link>
+      <guid>cid://tag:kottke.org,2025://13.47827</guid>
     </item>    <item>
       <title>The Mad Farrago at the BBC</title>
       <link>https://tinabrown.substack.com/p/the-mad-farrago-at-the-bbc</link>
@@ -509,9 +621,9 @@ Had I really become a corporate husk of my former, carefree self, puppeteered by
       <title>★ The Software Update UI for Upgrading to MacOS 26 Tahoe Is Needlessly Confusing</title>
       <link>https://daringfireball.net/2025/11/software_update_tahoe_confusing</link>
       <description>
-        <![CDATA[Why the Info panel presented by clicking the “(i)” button *next to Sequoia* defaults to installing the upgrade to 26.1 Tahoe, I don’t know. But it sure makes it seem like we need to be more careful than we actually do if we want to stick with MacOS 15 Sequoia for now.]]>
+        <![CDATA[I don’t know what the *i* in the “ⓘ” button is supposed to stand for, but it isn’t *intuitive*.]]>
       </description>
-      <source:markdown>Why the Info panel presented by clicking the “(i)” button \*next to Sequoia\* defaults to installing the upgrade to 26.1 Tahoe, I don’t know. But it sure makes it seem like we need to be more careful than we actually do if we want to stick with MacOS 15 Sequoia for now.</source:markdown>
+      <source:markdown>I don’t know what the \*i\* in the “ⓘ” button is supposed to stand for, but it isn’t \*intuitive\*.</source:markdown>
       <guid>cid://tag:daringfireball.net,2025://1.42373</guid>
     </item>    <item>
       <title>Five Years of Apple Silicon Macs</title>
@@ -1133,6 +1245,13 @@ The post [616\. Elizabeth I: The Fall of the Axe (Part 1)](https://therestishist
         <![CDATA[How to add custom icons to your newsletter]]>
       </description>
       <source:markdown>How to add custom icons to your newsletter</source:markdown>
+    </item>    <item>
+      <title>How Kieron Gillen uses Buttondown</title>
+      <link>https://buttondown.com/blog/kieron-gillen</link>
+      <description>
+        <![CDATA[Kieron Gillen uses Buttondown to share his comics, musings, and life experiences.]]>
+      </description>
+      <source:markdown>Kieron Gillen uses Buttondown to share his comics, musings, and life experiences.</source:markdown>
     </item>    <item>
       <link>http://scripting.com/2025/11/09.html#a235211</link>
       <description>
