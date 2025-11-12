@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>12 Nov 25 06:10 -0800</lastBuildDate>
+    <lastBuildDate>12 Nov 25 10:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -141,6 +141,337 @@ As always, do give this release a try and open a [ticket](https://gitlab.haskell
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
     </item>    <item>
+      <title>I Guess They’re Down to 999 No’s for Every Yes</title>
+      <link>https://daringfireball.net/linked/2025/11/11/iphone-pocket</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42378</guid>
+    </item>    <item>
+      <title>Why Most Pitches Fail</title>
+      <link>https://guykawasaki.substack.com/p/why-most-pitches-fail</link>
+      <description>
+        <![CDATA[(and How to Nail Yours)]]>
+      </description>
+      <source:markdown>(and How to Nail Yours)</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!3gfd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8d6a50d-b82e-4b0b-a386-28ff63dfd0bf_1080x1080.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://guykawasaki.substack.com/p/why-most-pitches-fail</guid>
+    </item>    <item>
+      <title>Quoting Steve Krouse</title>
+      <link>https://simonwillison.net/2025/Nov/12/steve-krouse/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="https://x.com/stevekrouse/status/1988641250329989533"><p>The fact that MCP is a difference surface from your normal API allows you to ship MUCH faster to MCP. This has been unlocked by inference at runtime</p>
+        <p>Normal APIs are promises to developers, because developer commit code that relies on those APIs, and then walk away. If you break the API, you break the promise, and you break that code. This means a developer gets woken up at 2am to fix the code</p>
+        <p>But MCP servers are called by LLMs which dynamically read the spec every time, which allow us to constantly change the MCP server. It doesn't matter! We haven't made any promises. The LLM can figure it out afresh every time</p></blockquote>
+        <p class="cite">&mdash; <a href="https://x.com/stevekrouse/status/1988641250329989533">Steve Krouse</a></p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/model-context-protocol">model-context-protocol</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/steve-krouse">steve-krouse</a>, <a href="https://simonwillison.net/tags/apis">apis</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>]]>
+      </description>
+      <source:markdown>&#62; The fact that MCP is a difference surface from your normal API allows you to ship MUCH faster to MCP. This has been unlocked by inference at runtime
+&#62;
+&#62; Normal APIs are promises to developers, because developer commit code that relies on those APIs, and then walk away. If you break the API, you break the promise, and you break that code. This means a developer gets woken up at 2am to fix the code
+&#62;
+&#62; But MCP servers are called by LLMs which dynamically read the spec every time, which allow us to constantly change the MCP server. It doesn&#39;t matter! We haven&#39;t made any promises. The LLM can figure it out afresh every time
+
+— [Steve Krouse](https://x.com/stevekrouse/status/1988641250329989533)
+
+Tags: [model-context-protocol](https://simonwillison.net/tags/model-context-protocol), [generative-ai](https://simonwillison.net/tags/generative-ai), [steve-krouse](https://simonwillison.net/tags/steve-krouse), [apis](https://simonwillison.net/tags/apis), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/12/steve-krouse/#atom-everything</guid>
+    </item>    <item>
+      <title>22 Thanksgiving Main Dishes That Are Better Than Turkey. I&#38;#8217;ve been trying...</title>
+      <link>https://kottke.org/25/11/0047832-22-thanksgiving-main-dish</link>
+      <guid>cid://tag:kottke.org,2025://13.47832</guid>
+    </item>    <item>
+      <title>VLC&#39;s keeper of the cone nets European free software gong</title>
+      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/11/12/vlc_guru_gong/</link>
+      <description>
+        <![CDATA[<h4>Jean-Baptiste Kempf lauded for keeping the media player free of crapware</h4>
+              <p>If you don&#39;t know what app will open a random media file (or URL), VLC is the answer. It runs on everything, plays anything, and it&#39;s free – thanks to Jean-Baptiste Kempf.</p>]]>
+      </description>
+      <source:markdown>#### Jean-Baptiste Kempf lauded for keeping the media player free of crapware
+
+If you don&#39;t know what app will open a random media file (or URL), VLC is the answer. It runs on everything, plays anything, and it&#39;s free – thanks to Jean-Baptiste Kempf.</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242981</guid>
+    </item>    <item>
+      <link>https://www.404media.co/ice-plans-to-spend-180-million-on-bounty-hunters-to-stalk-immigrants/</link>
+      <description>
+        <![CDATA[<p>ICE Plans to Spend $180 Million on Bounty Hunters to Stalk Immigrants.</p>]]>
+      </description>
+      <source:markdown>ICE Plans to Spend $180 Million on Bounty Hunters to Stalk Immigrants.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/12/1875/</guid>
+    </item>    <item>
+      <title>Just as You Feared — Life in Zohran Mamdani&#38;#8217;s New York. &#38;#8220;Breakfast...</title>
+      <link>https://kottke.org/25/11/0047834-just-as-you-feared</link>
+      <guid>cid://tag:kottke.org,2025://13.47834</guid>
+    </item>    <item>
+      <title>The built-in storytelling of Rust</title>
+      <link>https://daverupert.com/2025/11/rust-storytelling/</link>
+      <description>
+        <![CDATA[<img src="https://cdn.daverupert.com/posts/2025/rust.jpg" alt="Two survival-ist looking costumed characters with weapons approach a large rusty spherical building" width="1200" height="675">
+        <p>Although I technically own the game and played it once a decade ago; I had a horrible time playing Rust. Other players called me the N-word several times, I died almost instantly, my frame rates were trash, and after three hours I put it down and never played it again. Despite that first-run experience, I’ve spent a lot of time watching Rust videos in the last month.</p>
+        <p>Rust is like a hyper-realistic version of Minecraft but way more violent. You start naked on a beach with a rock and have to farm resources, craft tools, make clothes, and build shelter. That’s where the similarities to Minecraft stop. In Rust you’re on a single island with up to 200 other people in a player-vs-player Battle Royale-like situation. Over time alliances grow into clans, shelters expand into fortified bases, and the PvP combat escalates as users craft weapons like bows, guns, and rocket launchers. And then after a set period of time, the server wipes itself and deletes everything. The story resets.</p>
+        <p>Also different than Minecraft, across the map there are a dozen or so “monuments” or zones that players need to go to complete certain tasks. Gameplay-wise, this creates a nice forcing function where players must interact over limited resources to progress in their skill trees. It also creates opportunities for PvP combat and learning a bit more about what your neighbors are doing.</p>
+        <h2>The storytelling</h2>
+        <p>What I’ve found enjoyable about Rust is that it has an element of built-in storytelling. Clan rivalries, limited resources, stealth activities, combat, forced interactions, in-game events, all topped with a challenging progression system. And because the server duration is longer than a human could ever possibly stay awake, you won’t know the state of your game until you log in the next day. Was your base raided while you slept in real life? Drama!</p>
+        <p>Those are great elements for a story! The somewhat predictable plot and building-tension-conflict loop makes for a good rhythm. The best Rust streamers understand how to extract and bottle this drama and tension. Below are some of my favorite story formats.</p>
+        <h3>Solo Survival</h3>
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/N4QO8boc0Qg?si=1i0luNsxI7t4MNRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p>Rush has clans. Sometimes large clans. When a streamer chooses to survive a wipe without teaming up it creates an instant sort of sense of tension.</p>
+        <h3>Base Building</h3>
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/va0ZtXyKmBE?si=s4grj3qNF2daJgxi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p>A lot of videos are about building big, impenetrable bases. These have a good engineering vibes… but if I must admit, once you create total security the drama dissipates… that’s why you start picking fights with other clans.</p>
+        <h3>Eco Raids</h3>
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Mk3NhkAl3l8?si=JveD3lNbocP5jAW2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p>Eco-raiding is a form of min-maxing resources by breaking into an opponent’s base without using explosives. Spending the time to level-up your skill tree to get explosives is hard and takes forever, so why not find bases where you can break-in using simple tools like hammers, spears, and molotov cocktails. There’s an element of trolling to it, exploiting offline users, but it’s there’s an element of risk to it as well. While crime doesn’t always pay, it’s fun when it does. From a digital security standpoint, it goes to show that almost everyone has an flaw to exploit in their defenses.</p>
+        <h3>Art of Rust</h3>
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MrqvpwfiRbU?si=s_79OCdHx9ZNXrQL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p>The PvP aspects of Rust seem inevitable, but some players take it beyond the pure game economy min-maxing and make something beautiful in the game spending precious hard-to-get resources on decorative tasks. It becomes a form of ephemeral art, a <a href="https://en.wikipedia.org/wiki/Mono_no_aware"><em>mono-no-aware</em></a>. There are actually art community servers that function more like Minecraft’s creative mode, if that’s your thing, but I appreciate the challenge and temporary-ness of doing it in Vanilla Rust.</p>
+        <h2>Is this PvP ASMR chill stream, chat?</h2>
+        <p>I don’t fully understand how PvP games can be chill, but it seems to work. It creates a relaxing ASMR feeling for me. When I played Rust a decade ago I had such an awful stressful time I never wanted to pick the game up again ever in my life, but here I am a decade later watching hours and hours Rust play to wind down my day. And I think it all comes down to Rust’s storytelling. I know big game shops think about this, but if I were creating a big AAA game right now I’d think a lot about how each level, match, or instance tells a cohesive story and how your players could package that up into content, which is then marketing for your game.</p>]]>
+      </description>
+      <source:markdown>![Two survival-ist looking costumed characters with weapons approach a large rusty spherical building](https://cdn.daverupert.com/posts/2025/rust.jpg)
+
+Although I technically own the game and played it once a decade ago; I had a horrible time playing Rust. Other players called me the N-word several times, I died almost instantly, my frame rates were trash, and after three hours I put it down and never played it again. Despite that first-run experience, I’ve spent a lot of time watching Rust videos in the last month.
+
+Rust is like a hyper-realistic version of Minecraft but way more violent. You start naked on a beach with a rock and have to farm resources, craft tools, make clothes, and build shelter. That’s where the similarities to Minecraft stop. In Rust you’re on a single island with up to 200 other people in a player-vs-player Battle Royale-like situation. Over time alliances grow into clans, shelters expand into fortified bases, and the PvP combat escalates as users craft weapons like bows, guns, and rocket launchers. And then after a set period of time, the server wipes itself and deletes everything. The story resets.
+
+Also different than Minecraft, across the map there are a dozen or so “monuments” or zones that players need to go to complete certain tasks. Gameplay-wise, this creates a nice forcing function where players must interact over limited resources to progress in their skill trees. It also creates opportunities for PvP combat and learning a bit more about what your neighbors are doing.
+
+## The storytelling
+
+What I’ve found enjoyable about Rust is that it has an element of built-in storytelling. Clan rivalries, limited resources, stealth activities, combat, forced interactions, in-game events, all topped with a challenging progression system. And because the server duration is longer than a human could ever possibly stay awake, you won’t know the state of your game until you log in the next day. Was your base raided while you slept in real life? Drama!
+
+Those are great elements for a story! The somewhat predictable plot and building-tension-conflict loop makes for a good rhythm. The best Rust streamers understand how to extract and bottle this drama and tension. Below are some of my favorite story formats.
+
+### Solo Survival
+
+Rush has clans. Sometimes large clans. When a streamer chooses to survive a wipe without teaming up it creates an instant sort of sense of tension.
+
+### Base Building
+
+A lot of videos are about building big, impenetrable bases. These have a good engineering vibes… but if I must admit, once you create total security the drama dissipates… that’s why you start picking fights with other clans.
+
+### Eco Raids
+
+Eco-raiding is a form of min-maxing resources by breaking into an opponent’s base without using explosives. Spending the time to level-up your skill tree to get explosives is hard and takes forever, so why not find bases where you can break-in using simple tools like hammers, spears, and molotov cocktails. There’s an element of trolling to it, exploiting offline users, but it’s there’s an element of risk to it as well. While crime doesn’t always pay, it’s fun when it does. From a digital security standpoint, it goes to show that almost everyone has an flaw to exploit in their defenses.
+
+### Art of Rust
+
+The PvP aspects of Rust seem inevitable, but some players take it beyond the pure game economy min-maxing and make something beautiful in the game spending precious hard-to-get resources on decorative tasks. It becomes a form of ephemeral art, a [_mono-no-aware_](https://en.wikipedia.org/wiki/Mono_no_aware). There are actually art community servers that function more like Minecraft’s creative mode, if that’s your thing, but I appreciate the challenge and temporary-ness of doing it in Vanilla Rust.
+
+## Is this PvP ASMR chill stream, chat?
+
+I don’t fully understand how PvP games can be chill, but it seems to work. It creates a relaxing ASMR feeling for me. When I played Rust a decade ago I had such an awful stressful time I never wanted to pick the game up again ever in my life, but here I am a decade later watching hours and hours Rust play to wind down my day. And I think it all comes down to Rust’s storytelling. I know big game shops think about this, but if I were creating a big AAA game right now I’d think a lot about how each level, match, or instance tells a cohesive story and how your players could package that up into content, which is then marketing for your game.</source:markdown>
+      <guid>cid://https://daverupert.com/2025/11/rust-storytelling/</guid>
+    </item>    <item>
+      <title>Fun-reliable side-channels for cross-container communication</title>
+      <link>https://simonwillison.net/2025/Nov/12/h4x0rchat/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://h4x0r.org/funreliable/">Fun-reliable side-channels for cross-container communication</a></strong></p>
+        Here's a very clever hack for communicating between different processes running in different containers on the same machine. It's based on clever abuse of POSIX advisory locks which allow a process to create and detect locks across byte offset ranges:</p>
+        <blockquote>
+        <p>These properties combined are enough to provide a basic cross-container side-channel primitive, because a process in one container can set a read-lock at some interval on <code>/proc/self/ns/time</code>, and a process in another container can observe the presence of that lock by querying for a hypothetically intersecting write-lock.</p>
+        </blockquote>
+        <p>I dumped <a href="https://github.com/crashappsec/h4x0rchat/blob/main/h4x0rchat.c">the C proof-of-concept</a> into GPT-5 for <a href="https://chatgpt.com/share/6914aad2-397c-8006-b404-b9ddbd900c8f">a code-level explanation</a>, then had it help me figure out how to run it in Docker. Here's the recipe that worked for me:</p>
+        <pre><code>cd /tmp
+        wget https://github.com/crashappsec/h4x0rchat/blob/9b9d0bd5b2287501335acca35d070985e4f51079/h4x0rchat.c
+        docker run --rm -it -v "$PWD:/src" \
+          -w /src gcc:13 bash -lc 'gcc -Wall -O2 \
+          -o h4x0rchat h4x0rchat.c &amp;&amp; ./h4x0rchat'
+        </code></pre>
+        <p>Run that <code>docker run</code> line in two separate terminal windows and you can chat between the two of them like this:</p>
+        <p><a style="text-decoration: none; border-bottom: none" href="https://static.simonwillison.net/static/2025/h4x0rchat.gif"><img style="max-width: 100%" alt="Animated demo. Two terminal windows. Both run that command, then start a l33t speak chat interface. Each interface asks the user for a name, then messages that are typed in one are instantly displayed in the other and vice-versa." src="https://static.simonwillison.net/static/2025/h4x0rchat.gif"></a>
+        
+            <p><small></small>Via <a href="https://lobste.rs/s/3z4pro/fun_reliable_side_channels_for_cross">lobste.rs</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/c">c</a>, <a href="https://simonwillison.net/tags/docker">docker</a></p>]]>
+      </description>
+      <source:markdown>**[Fun-reliable side-channels for cross-container communication](https://h4x0r.org/funreliable/)**
+
+Here&#39;s a very clever hack for communicating between different processes running in different containers on the same machine. It&#39;s based on clever abuse of POSIX advisory locks which allow a process to create and detect locks across byte offset ranges:
+
+&#62; These properties combined are enough to provide a basic cross-container side-channel primitive, because a process in one container can set a read-lock at some interval on `/proc/self/ns/time`, and a process in another container can observe the presence of that lock by querying for a hypothetically intersecting write-lock.
+
+I dumped [the C proof-of-concept](https://github.com/crashappsec/h4x0rchat/blob/main/h4x0rchat.c) into GPT-5 for [a code-level explanation](https://chatgpt.com/share/6914aad2-397c-8006-b404-b9ddbd900c8f), then had it help me figure out how to run it in Docker. Here&#39;s the recipe that worked for me:
+
+```
+cd /tmp
+wget https://github.com/crashappsec/h4x0rchat/blob/9b9d0bd5b2287501335acca35d070985e4f51079/h4x0rchat.c
+docker run --rm -it -v &#34;$PWD:/src&#34; \
+  -w /src gcc:13 bash -lc &#39;gcc -Wall -O2 \
+  -o h4x0rchat h4x0rchat.c &#38;&#38; ./h4x0rchat&#39;
+
+```
+
+Run that `docker run` line in two separate terminal windows and you can chat between the two of them like this:
+
+[![Animated demo. Two terminal windows. Both run that command, then start a l33t speak chat interface. Each interface asks the user for a name, then messages that are typed in one are instantly displayed in the other and vice-versa.](https://static.simonwillison.net/static/2025/h4x0rchat.gif)](https://static.simonwillison.net/static/2025/h4x0rchat.gif)
+
+Via [lobste.rs](https://lobste.rs/s/3z4pro/fun_reliable_side_channels_for_cross)
+
+Tags: [c](https://simonwillison.net/tags/c), [docker](https://simonwillison.net/tags/docker)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/12/h4x0rchat/#atom-everything</guid>
+    </item>    <item>
+      <title>Trump Orders ICE to Arrest 67,000 NFL Fans Who Booed Him</title>
+      <link>https://www.borowitzreport.com/p/trump-orders-ice-to-arrest-67000</link>
+      <description>
+        <![CDATA[The booing fans were "paid by Soros," he claimed.]]>
+      </description>
+      <source:markdown>The booing fans were &#34;paid by Soros,&#34; he claimed.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!pF7c!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffddef34c-c996-4d1a-bd27-c980e8b2ea31_3300x1901.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/trump-orders-ice-to-arrest-67000</guid>
+    </item>    <item>
+      <title>Después: la mirada femenina al duelo y la maternidad imperfecta</title>
+      <link>https://www.palomitademaiz.net/resenas-despues/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-despues</link>
+      <description>
+        <![CDATA[<p>Dirección: Sofía Gómez Córdova. Guion: Luis Briones, Sofía Gómez Córdova. Elenco: Ludwika Paleta, Nicolás Haza, Darío Rocas, Luis Velázquez, Adriana Palafox. Países: México. Más información de la película: https://www.imdb.com/title/tt14862810/ ¿Cuántas veces hemos santificado la conexión entre madre e hijo asumiendo que el amor incondicional garantiza el conocimiento absoluto? En el imaginario colectivo, este vínculo está [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-despues/">Después: la mirada femenina al duelo y la maternidad imperfecta</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Dirección: Sofía Gómez Córdova. Guion: Luis Briones, Sofía Gómez Córdova. Elenco: Ludwika Paleta, Nicolás Haza, Darío Rocas, Luis Velázquez, Adriana Palafox. Países: México. Más información de la película: https://www.imdb.com/title/tt14862810/ ¿Cuántas veces hemos santificado la conexión entre madre e hijo asumiendo que el amor incondicional garantiza el conocimiento absoluto? En el imaginario colectivo, este vínculo está \[…\]
+
+La entrada [Después: la mirada femenina al duelo y la maternidad imperfecta](https://www.palomitademaiz.net/resenas-despues/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=25710</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/12.html#a153808</link>
+      <description>
+        <![CDATA[I've <a href="https://imgs.scripting.com/2025/11/12/nnwInBlogroll.png">added</a> the NetNewsWire <a href="https://netnewswire.blog/feed">blog</a> to my <a href="https://blogroll.social/">blogroll</a>.]]>
+      </description>
+      <source:markdown>I&#39;ve [added](https://imgs.scripting.com/2025/11/12/nnwInBlogroll.png) the NetNewsWire [blog](https://netnewswire.blog/feed) to my [blogroll](https://blogroll.social/).</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/12.html#a153808</guid>
+    </item>    <item>
+      <title>Operation Space Station</title>
+      <link>https://kottke.org/25/11/operation-space-station</link>
+      <guid>cid://tag:kottke.org,2025://5.47833</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/12.html#a153121</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2023/07/02/validRss.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The big news is that there are now docs for <a href="https://source.scripting.com/markdown.opml">source:markdown</a>. The goal is to have a writer-friendly standard for text that's as useful as the one for audio has been. As with everything in RSS-land, cooperation among the different vendors was never its strong point. I hope to change that, and hope to build a network for written text as open and powerful as the one that developed for podcasting.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2023/07/02/validRss.png)The big news is that there are now docs for [source:markdown](https://source.scripting.com/markdown.opml). The goal is to have a writer-friendly standard for text that&#39;s as useful as the one for audio has been. As with everything in RSS-land, cooperation among the different vendors was never its strong point. I hope to change that, and hope to build a network for written text as open and powerful as the one that developed for podcasting.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/12.html#a153121</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/12.html#a152900</link>
+      <description>
+        <![CDATA[Fixed a longstanding performance bug on the scripting.com home page. Sometimes it'd just sit there for five seconds. Really embarrassing. It might feel faster now. <i>Still diggin!</i>]]>
+      </description>
+      <source:markdown>Fixed a longstanding performance bug on the scripting.com home page. Sometimes it&#39;d just sit there for five seconds. Really embarrassing. It might feel faster now. _Still diggin!_</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/12.html#a152900</guid>
+    </item>    <item>
+      <title>ARIatHOME</title>
+      <link>https://daverupert.com/2025/11/ariathome/</link>
+      <description>
+        <![CDATA[<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SxidYFBKDQo?si=8K0AmpyQlH4qYoyb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p>Ari Miller is a New York based beat maker who started streaming from his bedroom in 2020. He grew his following by engaging with other popular streamers but where I learned about him was his from viral street performances where he dawns a 55-lbs mobile production studio. He puts on his backpack and walks around New York city with a keyboard, a BOSS RC-505 MKII Loop Station, a microphone, and a computer to run it all through Ableton.</p>
+        <p>The beats Ari makes are incredible and his production skills are going to win him a Grammy some day. It’s all off the dome live in front of people while walking down the street. Ari doesn’t stop at beats. He takes it to the next level and invites strangers to hop on the mic and he tailors the beat to their personal style and preferences. It’s improv. It’s art. It’s music. It’s communion. There’s something pure about the creativity happening.</p>
+        <p>What I think I like best about ARIatHOME is this: <strong>Seeing creative people expressing their gifts gives me hope</strong>. I know I’m watching six hour livestreams edited down to a 15 minute supercut, but Ari seems to have no trouble finding people who have talent and can rap. It might be becuase New York is the birthplace of hip-hop, but the city isn’t short of people willing to step up to the mic and drop some bars right there in the middle of the street.</p>
+        <p>I also love that ARIatHOME reinforces the mythos that New York is a city full of characters. On every block Ari seems to find someone with more personality than I’ve ever seen in my whole life. Bombastic people with big attitudes, next-level fashion, and outrageous rhymes. It’s like everyone in New York City has that main character energy and Ari seems to be able to draw it out and put it on full display.</p>
+        <p>The world needs less apartment tours and more of this.</p>]]>
+      </description>
+      <source:markdown>Ari Miller is a New York based beat maker who started streaming from his bedroom in 2020. He grew his following by engaging with other popular streamers but where I learned about him was his from viral street performances where he dawns a 55-lbs mobile production studio. He puts on his backpack and walks around New York city with a keyboard, a BOSS RC-505 MKII Loop Station, a microphone, and a computer to run it all through Ableton.
+
+The beats Ari makes are incredible and his production skills are going to win him a Grammy some day. It’s all off the dome live in front of people while walking down the street. Ari doesn’t stop at beats. He takes it to the next level and invites strangers to hop on the mic and he tailors the beat to their personal style and preferences. It’s improv. It’s art. It’s music. It’s communion. There’s something pure about the creativity happening.
+
+What I think I like best about ARIatHOME is this: **Seeing creative people expressing their gifts gives me hope**. I know I’m watching six hour livestreams edited down to a 15 minute supercut, but Ari seems to have no trouble finding people who have talent and can rap. It might be becuase New York is the birthplace of hip-hop, but the city isn’t short of people willing to step up to the mic and drop some bars right there in the middle of the street.
+
+I also love that ARIatHOME reinforces the mythos that New York is a city full of characters. On every block Ari seems to find someone with more personality than I’ve ever seen in my whole life. Bombastic people with big attitudes, next-level fashion, and outrageous rhymes. It’s like everyone in New York City has that main character energy and Ari seems to be able to draw it out and put it on full display.
+
+The world needs less apartment tours and more of this.</source:markdown>
+      <guid>cid://https://daverupert.com/2025/11/ariathome/</guid>
+    </item>    <item>
+      <title>2025-11-12 Trains in Switzerland</title>
+      <link>https://alexschroeder.ch/view/2025-11-12-trains</link>
+      <description>
+        <![CDATA[<h1 id="2025-11-12-trains-in-switzerland">2025-11-12 Trains in Switzerland</h1>
+        
+        <p>I wonder whether one of the reasons there is significant support for the train network in Switzerland is that the autobahn between Zürich (where many people live) and Bern (where the federal government has many of its offices) is very congested and therefore many parliamentarians take the train. First hand experience changes minds?</p>
+        
+        <p>The alternative is a parliament where one of the perks is a government car. Of course you’ll want to use it. And you’ll feel the pain of congestion. So these parliamentarians are more likely to vote for bigger roads.</p>
+        
+        <p>This probably has the quality of hashtag shower thoughts but the train connection between Zürich and Bern is the busiest in all of Switzerland and I can’t help but think this must have an effect.</p>
+        
+        <p><img loading="lazy" src="2025-11-12-trains-1.jpg" alt="A map of Switzerland showing rail passenger frequency with red lines of increasing thickness and Zürich is a big blotch of red with lines stretching east and west but mostly west towards Bern. There are small inset graphs for various locations, showing the numbers go up over time except for the Covid lockdown and the following months. In 2024 the numbers are as high as ever." /></p>
+        
+        <p>Source: <a href="https://reporting.sbb.ch/_file/1283/t01ad-sbb-passagierfrequenzen-schienenverkehr-2024.pdf">PDF</a></p>
+        
+        <p>One way I could imagine going from the world of cars to the world of trains is that pesky &ldquo;fitness to drive a car&rdquo; test. When I see some older relatives, I wish they’d stop driving. But they pass the tests and they enjoy the mobility and autonomy – and they feel they are too old to learn their way around riding trains and navigating ticket apps and computers and train switching. So now I’m thinking: In a world where the parliamentarians have cars, is there a way to force them to use the train while they still are in power, while they still have the ability to adapt, to change? We could – just a thought! – make this car aptitude test super hard and start doing it at 60. Some parliamentarians would fail the test and would have to switch to train rides.</p>
+        
+        <p>Sneaky enough? Maybe not! 🤔</p>
+        
+        <p>In order to get it passed, we could frame it as “self-driving cars are the future and this move supports the new technology, supports local car makers, helps us fight car racing by foreigners and makes the roads safer again.” Many parliamentarians will overestimate their abilities and vote in favour, thinking that there is no way they would be among the ones that failed the test.</p>
+        
+        <p><a class="tag" href="/search/?q=%23Switzerland">#Switzerland</a> <a class="tag" href="/search/?q=%23Trains">#Trains</a></p>]]>
+      </description>
+      <source:markdown># 2025-11-12 Trains in Switzerland
+
+I wonder whether one of the reasons there is significant support for the train network in Switzerland is that the autobahn between Zürich (where many people live) and Bern (where the federal government has many of its offices) is very congested and therefore many parliamentarians take the train. First hand experience changes minds?
+
+The alternative is a parliament where one of the perks is a government car. Of course you’ll want to use it. And you’ll feel the pain of congestion. So these parliamentarians are more likely to vote for bigger roads.
+
+This probably has the quality of hashtag shower thoughts but the train connection between Zürich and Bern is the busiest in all of Switzerland and I can’t help but think this must have an effect.
+
+![A map of Switzerland showing rail passenger frequency with red lines of increasing thickness and Zürich is a big blotch of red with lines stretching east and west but mostly west towards Bern. There are small inset graphs for various locations, showing the numbers go up over time except for the Covid lockdown and the following months. In 2024 the numbers are as high as ever.](2025-11-12-trains-1.jpg)
+
+Source: [PDF](https://reporting.sbb.ch/_file/1283/t01ad-sbb-passagierfrequenzen-schienenverkehr-2024.pdf)
+
+One way I could imagine going from the world of cars to the world of trains is that pesky “fitness to drive a car” test. When I see some older relatives, I wish they’d stop driving. But they pass the tests and they enjoy the mobility and autonomy – and they feel they are too old to learn their way around riding trains and navigating ticket apps and computers and train switching. So now I’m thinking: In a world where the parliamentarians have cars, is there a way to force them to use the train while they still are in power, while they still have the ability to adapt, to change? We could – just a thought! – make this car aptitude test super hard and start doing it at 60. Some parliamentarians would fail the test and would have to switch to train rides.
+
+Sneaky enough? Maybe not! 🤔
+
+In order to get it passed, we could frame it as “self-driving cars are the future and this move supports the new technology, supports local car makers, helps us fight car racing by foreigners and makes the roads safer again.” Many parliamentarians will overestimate their abilities and vote in favour, thinking that there is no way they would be among the ones that failed the test.
+
+[#Switzerland](/search/?q=%23Switzerland) [#Trains](/search/?q=%23Trains)</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2025-11-12-trains</guid>
+    </item>    <item>
+      <title>What happened to the comment section? - The History of the Web</title>
+      <link>https://thehistoryoftheweb.com/what-happened-to-the-comment-section/</link>
+      <description>
+        <![CDATA[<p>I always enjoy reading Jay&#8217;s newsletter, but this was a particularly fun trip down memory lane.</p>
+        
+        <p>There&#8217;s a link to <a href="https://blog.codinghorror.com/a-blog-without-comments-is-not-a-blog/">an old post by Jeff Atwood</a> who said:</p>
+        
+        <blockquote>
+          <p>A blog without comments is not a blog.</p>
+        </blockquote>
+        
+        <p>That was responding to <a href="https://adactio.com/journal/1094">an old post of mine</a> where I declared:</p>
+        
+        <blockquote>
+          <p>Comments should be disabled 90% of the time.</p>
+        </blockquote>
+        
+        <p>That blog-to-blog conversation took place almost twenty years ago.</p>
+        
+        <p>I still enjoy <a href="https://adactio.com/journal/22213">blog-to-blog conversations today</a>.</p>
+        
+        <p><a href="https://adactio.com/links/22244">adactio.com/links/22244</a></p>]]>
+      </description>
+      <source:markdown>I always enjoy reading Jay’s newsletter, but this was a particularly fun trip down memory lane.
+
+There’s a link to [an old post by Jeff Atwood](https://blog.codinghorror.com/a-blog-without-comments-is-not-a-blog/) who said:
+
+&#62; A blog without comments is not a blog.
+
+That was responding to [an old post of mine](https://adactio.com/journal/1094) where I declared:
+
+&#62; Comments should be disabled 90% of the time.
+
+That blog-to-blog conversation took place almost twenty years ago.
+
+I still enjoy [blog-to-blog conversations today](https://adactio.com/journal/22213).
+
+[adactio.com/links/22244](https://adactio.com/links/22244)</source:markdown>
+      <guid>cid://https://thehistoryoftheweb.com/what-happened-to-the-comment-section/</guid>
+    </item>    <item>
+      <title>Meet the 2025 National Book Award Finalists. &#38;#8220;Literary Hub caught up with...</title>
+      <link>https://kottke.org/25/11/0047835-meet-the-2025-national-bo</link>
+      <guid>cid://tag:kottke.org,2025://13.47835</guid>
+    </item>    <item>
+      <title>Who and what are you?</title>
+      <link>https://doc.searls.com/2025/11/12/does-one-need-a-license-to-have-opinions-online-in-china/</link>
+      <description>
+        <![CDATA[Clara Hawking on Linkedin reports that a new law in China &#8220;says that if you want to talk about it online, you need a license to prove you know what you’re talking about. As of October 25, China now requires influencers to hold official qualifications before posting about &#8216;sensitive&#8217; topics such as education, medicine, law, [&#8230;]]]>
+      </description>
+      <source:markdown>Clara Hawking on Linkedin reports that a new law in China “says that if you want to talk about it online, you need a license to prove you know what you’re talking about. As of October 25, China now requires influencers to hold official qualifications before posting about ‘sensitive’ topics such as education, medicine, law, \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2025/11/12/does-one-need-a-license-to-have-opinions-online-in-china/</guid>
+    </item>    <item>
       <title>BREAKING: New Epstein Emails About Trump</title>
       <link>https://www.telos.news/p/breaking-new-epstein-emails-about</link>
       <description>
@@ -200,10 +531,10 @@ His conclusion:
       <title>Mozilla&#39;s Firefox 145 is heeeeeere: Buffs up privacy, bloats AI</title>
       <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/11/12/firefox_145_arrives/</link>
       <description>
-        <![CDATA[<h4>Improves tracking prevention, profile management, PDF editing, and Perplexity creeps into your address bar</h4>
+        <![CDATA[<h4><span class="label">Updated</span> Improves tracking prevention, profile management, PDF editing, and Perplexity creeps into your address bar</h4>
               <p>Firefox 145 is out, with more privacy, better profile handling, better image search for Google users… and, almost inevitably, more LLM bot integration.</p>]]>
       </description>
-      <source:markdown>#### Improves tracking prevention, profile management, PDF editing, and Perplexity creeps into your address bar
+      <source:markdown>#### Updated Improves tracking prevention, profile management, PDF editing, and Perplexity creeps into your address bar
 
 Firefox 145 is out, with more privacy, better profile handling, better image search for Google users… and, almost inevitably, more LLM bot integration.</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242962</guid>
@@ -351,46 +682,6 @@ But still, I far prefer getting a needle prick a year to days of misery. I feel 
       <source:markdown>The asymmetry explained</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!huzA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01b73beb-6e9c-4d50-8c66-3b0519fd1eb7_2586x1804.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/why-democrats-are-undisciplined-and</guid>
-    </item>    <item>
-      <title>2025-11-12 Trains in Switzerland</title>
-      <link>https://alexschroeder.ch/view/2025-11-12-trains</link>
-      <description>
-        <![CDATA[<h1 id="2025-11-12-trains-in-switzerland">2025-11-12 Trains in Switzerland</h1>
-        
-        <p>I wonder whether one of the reasons there is significant support for the train network in Switzerland is that the autobahn between Zürich (many people) and Bern (federal government is) is very congested and therefore many parliamentarians take the train. First hand experience changes minds? The alternative is a parliament where one of the perks is a government car. Of course you’ll want to use it. And you’ll feel the pain of congestion. So these parliamentarians are more likely to vote for bigger roads.</p>
-        
-        <p>This probably has the quality of hashtag shower thoughts but the train connection between Zürich and Bern is the busiest of all of Switzerland and I can’t help but think this must have an effect.</p>
-        
-        <p><img loading="lazy" src="2025-11-12-trains-1.jpg" alt="A map of Switzerland showing rail passenger frequency with red lines of increasing thickness and Zürich is a big blotch of red with lines stretching east and west but mostly west towards Bern. There are small inset graphs for various locations, showing the numbers go up over time except for the Covid lockdown and the following months. In 2024 the numbers are as high as ever." /></p>
-        
-        <p>Source: <a href="https://reporting.sbb.ch/_file/1283/t01ad-sbb-passagierfrequenzen-schienenverkehr-2024.pdf">PDF</a></p>
-        
-        <p>One way I could imagine going from the world of cars to the world of trains is that pesky fitness to drive a car test. When I see some older relatives, I wish they’d stop driving. But they pass the tests and they enjoy the mobility and autonomy – and they feel they are too old to learn their way around riding trains and navigating ticket apps and computers and train switching. So now I’m thinking: In a world where the parliamentarians have cars, is there a way to force them to use the train while they still are in power, while they still have the ability to adapt, to change? We could – just a thought! – make this car aptitude test super hard and start doing it at 60. Some parliamentarians would fail the test and would have to switch to train rides.</p>
-        
-        <p>Sneaky enough? Maybe not! 🤔</p>
-        
-        <p>In order to get it passed, we could frame it as “self-driving cars are the future and this move supports the new technology, supports local car makers, helps us fight car racing by foreigners and makes the roads safer again.” Many parliamentarians will overestimate their abilities and vote in favour, thinking that there is no way they would be among the ones that failed the test.</p>
-        
-        <p><a class="tag" href="/search/?q=%23Switzerland">#Switzerland</a> <a class="tag" href="/search/?q=%23Trains">#Trains</a></p>]]>
-      </description>
-      <source:markdown># 2025-11-12 Trains in Switzerland
-
-I wonder whether one of the reasons there is significant support for the train network in Switzerland is that the autobahn between Zürich (many people) and Bern (federal government is) is very congested and therefore many parliamentarians take the train. First hand experience changes minds? The alternative is a parliament where one of the perks is a government car. Of course you’ll want to use it. And you’ll feel the pain of congestion. So these parliamentarians are more likely to vote for bigger roads.
-
-This probably has the quality of hashtag shower thoughts but the train connection between Zürich and Bern is the busiest of all of Switzerland and I can’t help but think this must have an effect.
-
-![A map of Switzerland showing rail passenger frequency with red lines of increasing thickness and Zürich is a big blotch of red with lines stretching east and west but mostly west towards Bern. There are small inset graphs for various locations, showing the numbers go up over time except for the Covid lockdown and the following months. In 2024 the numbers are as high as ever.](2025-11-12-trains-1.jpg)
-
-Source: [PDF](https://reporting.sbb.ch/_file/1283/t01ad-sbb-passagierfrequenzen-schienenverkehr-2024.pdf)
-
-One way I could imagine going from the world of cars to the world of trains is that pesky fitness to drive a car test. When I see some older relatives, I wish they’d stop driving. But they pass the tests and they enjoy the mobility and autonomy – and they feel they are too old to learn their way around riding trains and navigating ticket apps and computers and train switching. So now I’m thinking: In a world where the parliamentarians have cars, is there a way to force them to use the train while they still are in power, while they still have the ability to adapt, to change? We could – just a thought! – make this car aptitude test super hard and start doing it at 60. Some parliamentarians would fail the test and would have to switch to train rides.
-
-Sneaky enough? Maybe not! 🤔
-
-In order to get it passed, we could frame it as “self-driving cars are the future and this move supports the new technology, supports local car makers, helps us fight car racing by foreigners and makes the roads safer again.” Many parliamentarians will overestimate their abilities and vote in favour, thinking that there is no way they would be among the ones that failed the test.
-
-[#Switzerland](/search/?q=%23Switzerland) [#Trains](/search/?q=%23Trains)</source:markdown>
-      <guid>cid://https://alexschroeder.ch/view/2025-11-12-trains</guid>
     </item>    <item>
       <title>Journey to Raspberry Pi — from CoderDojo volunteer to software engineer</title>
       <link>https://www.raspberrypi.com/news/journey-to-raspberry-pi-from-coderdojo-volunteer-to-software-engineer/</link>
