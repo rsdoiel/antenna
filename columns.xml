@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>12 Nov 25 10:10 -0800</lastBuildDate>
+    <lastBuildDate>12 Nov 25 14:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -140,6 +140,319 @@ comprise this release.
 As always, do give this release a try and open a [ticket](https://gitlab.haskell.org/ghc/ghc/-/issues/new) if you see
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
+    </item>    <item>
+      <link>https://shownotes.scripting.com/scripting/2025/11/12/sarahKendziorAndBluesky.html</link>
+      <description>
+        <![CDATA[<p>A short <a href="https://shownotes.scripting.com/scripting/2025/11/12/sarahKendziorAndBluesky.html">podcast</a> about Sarah Kendzior, Johnny Cash, Folsom Prison, and Bluesky.</p>]]>
+      </description>
+      <source:markdown>A short [podcast](https://shownotes.scripting.com/scripting/2025/11/12/sarahKendziorAndBluesky.html) about Sarah Kendzior, Johnny Cash, Folsom Prison, and Bluesky.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/12/1883/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/12.html#a215502</link>
+      <description>
+        <![CDATA[A short <a href="https://shownotes.scripting.com/scripting/2025/11/12/sarahKendziorAndBluesky.html">podcast</a> about Sarah Kendzior, Johnny Cash and Bluesky.]]>
+      </description>
+      <source:markdown>A short [podcast](https://shownotes.scripting.com/scripting/2025/11/12/sarahKendziorAndBluesky.html) about Sarah Kendzior, Johnny Cash and Bluesky.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/12.html#a215502</guid>
+    </item>    <item>
+      <title>Apple Digital ID</title>
+      <link>https://mjtsai.com/blog/2025/11/12/apple-digital-id/</link>
+      <description>
+        <![CDATA[Apple (MacRumors, Hacker News, The Verge): Apple today announced the launch of Digital ID, a new way for users to create an ID in Apple Wallet using information from their U.S. passport, and present it with the security and privacy of iPhone or Apple Watch. At launch, Digital ID acceptance will roll out first in [&#8230;]]]>
+      </description>
+      <source:markdown>Apple (MacRumors, Hacker News, The Verge): Apple today announced the launch of Digital ID, a new way for users to create an ID in Apple Wallet using information from their U.S. passport, and present it with the security and privacy of iPhone or Apple Watch. At launch, Digital ID acceptance will roll out first in \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=50020</guid>
+    </item>    <item>
+      <title>Apple-Funded Study on EU Alternative App Store Business Terms</title>
+      <link>https://mjtsai.com/blog/2025/11/12/apple-funded-study-on-eu-alternative-app-store-business-terms/</link>
+      <description>
+        <![CDATA[The Analysis Group (MacRumors, Slashdot, Hacker News): Despite commission rates typically falling by about 10 percentage points, current evidence shows that developers kept the prices of what they sold through the App Store the same or increased them more than 90% of the time.[&#8230;]Developers&#8217; decision not to pass on commission savings to EU users mirrors [&#8230;]]]>
+      </description>
+      <source:markdown>The Analysis Group (MacRumors, Slashdot, Hacker News): Despite commission rates typically falling by about 10 percentage points, current evidence shows that developers kept the prices of what they sold through the App Store the same or increased them more than 90% of the time.\[…\]Developers’ decision not to pass on commission savings to EU users mirrors \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=50018</guid>
+    </item>    <item>
+      <title>iPhone Pocket</title>
+      <link>https://mjtsai.com/blog/2025/11/12/iphone-pocket/</link>
+      <description>
+        <![CDATA[Apple (Hacker News, Slashdot): ISSEY MIYAKE and Apple today unveiled iPhone Pocket. Inspired by the concept of &#8220;a piece of cloth,&#8221; its singular 3D-knitted construction is designed to fit any iPhone as well as all pocketable items.[&#8230;]&#8220;The design of iPhone Pocket speaks to the bond between iPhone and its user, while keeping in mind that [&#8230;]]]>
+      </description>
+      <source:markdown>Apple (Hacker News, Slashdot): ISSEY MIYAKE and Apple today unveiled iPhone Pocket. Inspired by the concept of “a piece of cloth,” its singular 3D-knitted construction is designed to fit any iPhone as well as all pocketable items.\[…\]“The design of iPhone Pocket speaks to the bond between iPhone and its user, while keeping in mind that \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=50016</guid>
+    </item>    <item>
+      <link>https://substack.com/@sarahkendzior/note/c-176537092</link>
+      <description>
+        <![CDATA[<p>Sarah Kendzior's termination from Bluesky was apparently intentional, relating to her quoting the Johnny Cash "Folsom Prison Blues." What a great song. So there was some actual literature on Bluesky. Isn't that what we want?</p>]]>
+      </description>
+      <source:markdown>Sarah Kendzior&#39;s termination from Bluesky was apparently intentional, relating to her quoting the Johnny Cash &#34;Folsom Prison Blues.&#34; What a great song. So there was some actual literature on Bluesky. Isn&#39;t that what we want?</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/12/1881/</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115538782971840942</link>
+      <description>
+        <![CDATA[<p>We cooked a new feature for Godot and iOS lovers.   A plugin to Godot to deploy to Xogot on iOS or iPad:</p><p>Details: </p><p><a href="https://blog.xogot.com/introducing-xogot-connect-remote-debugging-for-godot-on-iphone-and-ipad/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.xogot.com/introducing-xog</span><span class="invisible">ot-connect-remote-debugging-for-godot-on-iphone-and-ipad/</span></a></p>]]>
+      </description>
+      <source:markdown>We cooked a new feature for Godot and iOS lovers. A plugin to Godot to deploy to Xogot on iOS or iPad:
+
+Details:
+
+[https://blog.xogot.com/introducing-xogot-connect-remote-debugging-for-godot-on-iphone-and-ipad/](https://blog.xogot.com/introducing-xogot-connect-remote-debugging-for-godot-on-iphone-and-ipad/)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115538782971840942</guid>
+    </item>    <item>
+      <title>Anton Kusters&#38;#8217; Photos of the Yakuza</title>
+      <link>https://kottke.org/25/11/anton-kusters-photos-of-the-yakuza-1</link>
+      <guid>cid://tag:kottke.org,2025://5.47836</guid>
+    </item>    <item>
+      <title>Nice Web Design Work From ‘In Common With’</title>
+      <link>https://www.incommonwith.com/collections/table-lamps</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42380</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m5hh4mw7qk2g</link>
+      <description>
+        <![CDATA[Cool.
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>Cool.
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m5hh4mw7qk2g</guid>
+    </item>    <item>
+      <title>The Zip-Off-Sleeve Uniforms Issey Miyake Designed for Sony in the Early 1980s</title>
+      <link>https://www.instagram.com/p/CT2STaKlJbM/?hl=en&#38;img_index=1</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42379</guid>
+    </item>    <item>
+      <title>A group of archaeologists has proposed &#38;#8220;applying a model of how humans...</title>
+      <link>https://kottke.org/25/11/0047830-a-group-of-archaeologists</link>
+      <guid>cid://tag:kottke.org,2025://13.47830</guid>
+    </item>    <item>
+      <title>Findings</title>
+      <link>https://doc.searls.com/2025/11/12/findings-2/</link>
+      <description>
+        <![CDATA[Toward personal AI. Balnce wants to give everyone &#34;their own personal supercomputer. &#34;You can start with a &#34;personal intent navigator&#34; app. I just downloaded mine for the iPhone. (It&#39;s mobile only so far.) We&#39;ll see how it goes.  Closer lookings Johnny Ryan says &#34;the Commission’s (and Germany’s) plan to gut EU digital rules will hurt Europe’s [&#8230;]]]>
+      </description>
+      <source:markdown>Toward personal AI. Balnce wants to give everyone &#34;their own personal supercomputer. &#34;You can start with a &#34;personal intent navigator&#34; app. I just downloaded mine for the iPhone. (It&#39;s mobile only so far.) We&#39;ll see how it goes.  Closer lookings Johnny Ryan says &#34;the Commission’s (and Germany’s) plan to gut EU digital rules will hurt Europe’s \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2025/11/12/findings-2/</guid>
+    </item>    <item>
+      <title>If Morality Had Bankruptcy Lawyers: Michael Wolff, Mike Solana, and the Age of Ethical Insolvency</title>
+      <link>https://www.notesfromthecircus.com/p/if-morality-had-bankruptcy-lawyers</link>
+      <description>
+        <![CDATA[The Marketization of Conscience in an Age Without Shame]]>
+      </description>
+      <source:markdown>The Marketization of Conscience in an Age Without Shame</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!NYYl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbf5fc67-fe56-4f86-9327-e6bbec05e1d0_8511x5674.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/if-morality-had-bankruptcy-lawyers</guid>
+    </item>    <item>
+      <title>Tahoe’s Terrible Icons: The B-Sides</title>
+      <link>https://blog.jim-nielsen.com/2025/tahoes-terrible-icons-b-sides/</link>
+      <description>
+        <![CDATA[<p>This post is a continuation of Paul Kafasis’ post <a href="https://onefoottsunami.com/2025/11/05/tahoes-terrible-icons/" >“Tahoe’s Terrible Icons”</a> where he contrasts the visual differences across a number of Apple’s updated icons in macOS Tahoe (a.k.a. the Liquid Glass update).</p>
+        <p>While Paul’s post mostly covers icons for the apps you’ll find in the primary <code>/Applications</code> folder, there’s also a subset of possibly lesser-known icons in the <code>/System/Library/CoreServices</code> folder which have suffered a similar fate.</p>
+        <p>When I first got a Mac back in college, one of the things I remember being completely intrigued by — and then later falling in love with — was how you could plumb obscure areas of the operating system and find gems, like the icons for little OS-level apps. You’d stumble on something like the “Add Printer” app and see the most beautiful printer icon you’d ever seen. Who cares what the app did, you could just stare at that icon. Admire it. Take it in. And you’d come away with a sense that <a href="https://notes.jim-nielsen.com/#2025-05-01T2142" >the people who made it really cared</a>.</p>
+        <p>Anyhow, enough reminiscing. Let’s get to the icons. I’m saving these pre-Tahoe icons for posterity’s sake because they’re beautiful. On the left is the pre-Tahoe icon, on the right is Tahoe. </p>
+        <p>(Psst: I’ve got a long-running collection of icons for <a href="https://www.iosicongallery.com" >iOS</a> and <a href="https://www.macosicongallery.com" >macOS</a> if you want some eye candy.)</p>
+        <p><code>/System/Library/CoreServices/AddPrinter</code></p>
+        <div style="display:grid;grid-template-columns:1fr 1fr">
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/add-printer.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/add-printer.png" width="512" height="512" alt="“Add Printer” app icon before macOS Tahoe" /></a>
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/add-printer-post.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/add-printer-post.png" width="512" height="512" alt="“Add Printer” app icon in macOS Tahoe" /></a>
+        </div>
+        
+        <p><code>/System/Library/CoreServices/AppleScript Utility</code></p>
+        <div style="display:grid;grid-template-columns:1fr 1fr">
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/applescript-utility.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/applescript-utility.png" width="512" height="512" alt="“AppleScript Utility” app icon before macOS Tahoe" /></a>
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/applescript-utility-post.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/applescript-utility-post.png" width="512" height="512" alt="“AppleScript Utility” app icon in macOS Tahoe" /></a>
+        </div>
+        
+        <p><code>System/Library/CoreServices/Automator Application Stub</code></p>
+        <div style="display:grid;grid-template-columns:1fr 1fr">
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/automator-application-stub.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/automator-application-stub.png" width="512" height="512" alt="“Automator Application Stub” app icon before macOS Tahoe" /></a>
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/automator-application-stub-post.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/automator-application-stub-post.png" width="512" height="512" alt="“Automator Application Stub” app icon in macOS Tahoe" /></a>
+        </div>
+        
+        <p><code>/System/Library/CoreServices/Applications/Directory Utility</code></p>
+        <div style="display:grid;grid-template-columns:1fr 1fr">
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/directory-utility.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/directory-utility.png" width="512" height="512" alt="“Directory Utility” app icon before macOS Tahoe" /></a>
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/directory-utility-post.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/directory-utility-post.png" width="512" height="512" alt="“Directory Utility” app icon in macOS Tahoe" /></a>
+        </div>
+        
+        <p><code>/System/Library/CoreServices/Erase Assistant</code></p>
+        <div style="display:grid;grid-template-columns:1fr 1fr">
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/erase-assistant.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/erase-assistant.png" width="512" height="512" alt="“Erase Assistant” app icon before macOS Tahoe" /></a>
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/erase-assistant-post.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/erase-assistant-post.png" width="512" height="512" alt="“Erase Assistant” app icon in macOS Tahoe" /></a>
+        </div>
+        
+        <p><code>/System/Library/CoreServices/Applications/Expansion Slot Utility</code></p>
+        <div style="display:grid;grid-template-columns:1fr 1fr">
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/expansion-slot-utility.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/expansion-slot-utility.png" width="512" height="512" alt="“Erase Assistant” app icon before macOS Tahoe" /></a>
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/expansion-slot-utility-post.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/expansion-slot-utility-post.png" width="512" height="512" alt="“Erase Assistant” app icon in macOS Tahoe" /></a>
+        </div>
+        
+        <p><code>/System/Library/CoreServices/Applications/Folder Actions Setup</code></p>
+        <div style="display:grid;grid-template-columns:1fr 1fr">
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/folder-actions-setup.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/folder-actions-setup.png" width="512" height="512" alt="“Folder Actions Setup” app icon before macOS Tahoe" /></a>
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/folder-actions-setup-post.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/folder-actions-setup-post.png" width="512" height="512" alt="“Folder Actions Setup” app icon in macOS Tahoe" /></a>
+        </div>
+        
+        <p><code>/System/Library/CoreServices/Install Command Line Developer Tools</code></p>
+        <div style="display:grid;grid-template-columns:1fr 1fr">
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/install-command-line-developer-tools.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/install-command-line-developer-tools.png" width="512" height="512" alt="“Install Command Line Developer Tools” app icon before macOS Tahoe" /></a>
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/install-command-line-developer-tools-post.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/install-command-line-developer-tools-post.png" width="512" height="512" alt="“Install Command Line Developer Tools” app icon in macOS Tahoe" /></a>
+        </div>
+        
+        <p><code>/System/Library/CoreServices/Installer</code></p>
+        <div style="display:grid;grid-template-columns:1fr 1fr">
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/installer.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/installer.png" width="512" height="512" alt="“Installer” app icon before macOS Tahoe" data-og-image /></a>
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/installer-post.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/installer-post.png" width="512" height="512" alt="“Installer” app icon in macOS Tahoe" /></a>
+        </div>
+        
+        <p><code>/System/Library/CoreServices/Setup Assistant</code></p>
+        <div style="display:grid;grid-template-columns:1fr 1fr">
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/setup-assistant.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/setup-assistant.png" width="512" height="512" alt="“Setup Assistant” app icon before macOS Tahoe" /></a>
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/setup-assistant-post.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/setup-assistant-post.png" width="512" height="512" alt="“Setup Assistant” app icon in macOS Tahoe" /></a>
+        </div>
+        
+        <p><code>/System/Library/CoreServices/Spotlight</code></p>
+        <div style="display:grid;grid-template-columns:1fr 1fr">
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/spotlight.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/spotlight.png" width="512" height="512" alt="“Spotlight” app icon before macOS Tahoe" /></a>
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/spotlight-post.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/spotlight-post.png" width="512" height="512" alt="“Spotlight” app icon in macOS Tahoe" /></a>
+        </div>
+        
+        <p><code>/System/Library/CoreServices/Applications/Ticket Viewer</code></p>
+        <div style="display:grid;grid-template-columns:1fr 1fr">
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/ticket-viewer.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/ticket-viewer.png" width="512" height="512" alt="“Ticket Viewer” app icon before macOS Tahoe" /></a>
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/ticket-viewer-post.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/ticket-viewer-post.png" width="512" height="512" alt="“Ticket Viewer” app icon in macOS Tahoe" /></a>
+        </div>
+        
+        <p><code>/System/Library/CoreServices/Widgetkit Simulator</code></p>
+        <div style="display:grid;grid-template-columns:1fr 1fr">
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/widgetkit-simulator.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/widgetkit-simulator.png" width="512" height="512" alt="“Widgetkit Simulator” app icon before macOS Tahoe" /></a>
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/widgetkit-simulator-post.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/widgetkit-simulator-post.png" width="512" height="512" alt="“Widgetkit Simulator” app icon in macOS Tahoe" /></a>
+        </div>
+        
+        <p><code>/System/Library/CoreServices/Applications/Wireless Diagnostics</code></p>
+        <div style="display:grid;grid-template-columns:1fr 1fr">
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/wireless-diagnostics.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/wireless-diagnostics.png" width="512" height="512" alt="“Wireless Diagnostics” app icon before macOS Tahoe" /></a>
+        <a href="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/wireless-diagnostics-post.png"><img src="https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/wireless-diagnostics-post.png" width="512" height="512" alt="“Wireless Diagnostics” app icon in macOS Tahoe" /></a>
+        </div>
+            <hr />
+            
+        
+            <p>
+              Reply via:
+              
+        
+              <a
+                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/tahoes-terrible-icons-b-sides/"
+                >Email</a
+              >
+              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
+        
+              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
+            </p>]]>
+      </description>
+      <source:markdown>This post is a continuation of Paul Kafasis’ post [“Tahoe’s Terrible Icons”](https://onefoottsunami.com/2025/11/05/tahoes-terrible-icons/) where he contrasts the visual differences across a number of Apple’s updated icons in macOS Tahoe (a.k.a. the Liquid Glass update).
+
+While Paul’s post mostly covers icons for the apps you’ll find in the primary `/Applications` folder, there’s also a subset of possibly lesser-known icons in the `/System/Library/CoreServices` folder which have suffered a similar fate.
+
+When I first got a Mac back in college, one of the things I remember being completely intrigued by — and then later falling in love with — was how you could plumb obscure areas of the operating system and find gems, like the icons for little OS-level apps. You’d stumble on something like the “Add Printer” app and see the most beautiful printer icon you’d ever seen. Who cares what the app did, you could just stare at that icon. Admire it. Take it in. And you’d come away with a sense that [the people who made it really cared](https://notes.jim-nielsen.com/#2025-05-01T2142).
+
+Anyhow, enough reminiscing. Let’s get to the icons. I’m saving these pre-Tahoe icons for posterity’s sake because they’re beautiful. On the left is the pre-Tahoe icon, on the right is Tahoe.
+
+(Psst: I’ve got a long-running collection of icons for [iOS](https://www.iosicongallery.com) and [macOS](https://www.macosicongallery.com) if you want some eye candy.)
+
+`/System/Library/CoreServices/AddPrinter`
+
+[![“Add Printer” app icon before macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/add-printer.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/add-printer.png)[![“Add Printer” app icon in macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/add-printer-post.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/add-printer-post.png)
+
+`/System/Library/CoreServices/AppleScript Utility`
+
+[![“AppleScript Utility” app icon before macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/applescript-utility.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/applescript-utility.png)[![“AppleScript Utility” app icon in macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/applescript-utility-post.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/applescript-utility-post.png)
+
+`System/Library/CoreServices/Automator Application Stub`
+
+[![“Automator Application Stub” app icon before macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/automator-application-stub.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/automator-application-stub.png)[![“Automator Application Stub” app icon in macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/automator-application-stub-post.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/automator-application-stub-post.png)
+
+`/System/Library/CoreServices/Applications/Directory Utility`
+
+[![“Directory Utility” app icon before macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/directory-utility.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/directory-utility.png)[![“Directory Utility” app icon in macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/directory-utility-post.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/directory-utility-post.png)
+
+`/System/Library/CoreServices/Erase Assistant`
+
+[![“Erase Assistant” app icon before macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/erase-assistant.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/erase-assistant.png)[![“Erase Assistant” app icon in macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/erase-assistant-post.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/erase-assistant-post.png)
+
+`/System/Library/CoreServices/Applications/Expansion Slot Utility`
+
+[![“Erase Assistant” app icon before macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/expansion-slot-utility.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/expansion-slot-utility.png)[![“Erase Assistant” app icon in macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/expansion-slot-utility-post.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/expansion-slot-utility-post.png)
+
+`/System/Library/CoreServices/Applications/Folder Actions Setup`
+
+[![“Folder Actions Setup” app icon before macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/folder-actions-setup.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/folder-actions-setup.png)[![“Folder Actions Setup” app icon in macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/folder-actions-setup-post.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/folder-actions-setup-post.png)
+
+`/System/Library/CoreServices/Install Command Line Developer Tools`
+
+[![“Install Command Line Developer Tools” app icon before macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/install-command-line-developer-tools.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/install-command-line-developer-tools.png)[![“Install Command Line Developer Tools” app icon in macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/install-command-line-developer-tools-post.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/install-command-line-developer-tools-post.png)
+
+`/System/Library/CoreServices/Installer`
+
+[![“Installer” app icon before macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/installer.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/installer.png)[![“Installer” app icon in macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/installer-post.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/installer-post.png)
+
+`/System/Library/CoreServices/Setup Assistant`
+
+[![“Setup Assistant” app icon before macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/setup-assistant.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/setup-assistant.png)[![“Setup Assistant” app icon in macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/setup-assistant-post.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/setup-assistant-post.png)
+
+`/System/Library/CoreServices/Spotlight`
+
+[![“Spotlight” app icon before macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/spotlight.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/spotlight.png)[![“Spotlight” app icon in macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/spotlight-post.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/spotlight-post.png)
+
+`/System/Library/CoreServices/Applications/Ticket Viewer`
+
+[![“Ticket Viewer” app icon before macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/ticket-viewer.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/ticket-viewer.png)[![“Ticket Viewer” app icon in macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/ticket-viewer-post.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/ticket-viewer-post.png)
+
+`/System/Library/CoreServices/Widgetkit Simulator`
+
+[![“Widgetkit Simulator” app icon before macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/widgetkit-simulator.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/widgetkit-simulator.png)[![“Widgetkit Simulator” app icon in macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/widgetkit-simulator-post.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/widgetkit-simulator-post.png)
+
+`/System/Library/CoreServices/Applications/Wireless Diagnostics`
+
+[![“Wireless Diagnostics” app icon before macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/wireless-diagnostics.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/wireless-diagnostics.png)[![“Wireless Diagnostics” app icon in macOS Tahoe](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/wireless-diagnostics-post.png)](https://cdn.jim-nielsen.com/blog/2025/tahoe-icons-pre-post/wireless-diagnostics-post.png)
+
+* * *
+
+Reply via:
+
+
+[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/tahoes-terrible-icons-b-sides/)
+· [Mastodon](https://mastodon.social/@jimniels) ·
+
+[Bluesky](https://bsky.app/profile/jim-nielsen.com)</source:markdown>
+      <guid>cid://https://blog.jim-nielsen.com/2025/tahoes-terrible-icons-b-sides/</guid>
+    </item>    <item>
+      <title>El sobreviviente: apenas y logra vivir para contarla</title>
+      <link>https://www.palomitademaiz.net/resenas-el-sobreviviente/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-el-sobreviviente</link>
+      <description>
+        <![CDATA[<p>Dirección: Edgar Wright. Guion: Edgar Wright y Michael Bacall, basado en la novela The Running Man de Stephen King. Elenco: Glen Powell, Josh Brolin, Colman Domingo, Lee Pace, Jayme Lawson, Katy O’Brian, Emilia Jones, Michael Cera. Países: Estados Unidos, Reino Unido. Más información de la película: https://www.imdb.com/title/tt14107334 A veces, lo único que necesitamos es una [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-el-sobreviviente/">El sobreviviente: apenas y logra vivir para contarla</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Dirección: Edgar Wright. Guion: Edgar Wright y Michael Bacall, basado en la novela The Running Man de Stephen King. Elenco: Glen Powell, Josh Brolin, Colman Domingo, Lee Pace, Jayme Lawson, Katy O’Brian, Emilia Jones, Michael Cera. Países: Estados Unidos, Reino Unido. Más información de la película: https://www.imdb.com/title/tt14107334 A veces, lo único que necesitamos es una \[…\]
+
+La entrada [El sobreviviente: apenas y logra vivir para contarla](https://www.palomitademaiz.net/resenas-el-sobreviviente/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=25713</guid>
+    </item>    <item>
+      <link>https://slate.com/news-and-politics/2025/11/jeffrey-epstein-files-donald-trump-democrats.html</link>
+      <description>
+        <![CDATA[<p>Dems should go all-in on everything.</p>]]>
+      </description>
+      <source:markdown>Dems should go all-in on everything.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/12/1879/</guid>
+    </item>    <item>
+      <link>https://www.nytimes.com/interactive/2025/11/12/us/epstein-emails.html?unlocked_article_code=1.0k8.ojwd.KwPmIitYd-lG&#38;smid=url-share</link>
+      <description>
+        <![CDATA[<p>Read the Jeffrey Epstein Emails That Mention Trump.</p>]]>
+      </description>
+      <source:markdown>Read the Jeffrey Epstein Emails That Mention Trump.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/12/1877/</guid>
+    </item>    <item>
+      <title>&#38;#8220;The reason there are no weird blogs anymore is that it&#38;#8217;s more...</title>
+      <link>https://kottke.org/25/11/0047831-the-reason-there-are-no</link>
+      <guid>cid://tag:kottke.org,2025://13.47831</guid>
     </item>    <item>
       <title>I Guess They’re Down to 999 No’s for Every Yes</title>
       <link>https://daringfireball.net/linked/2025/11/11/iphone-pocket</link>
@@ -343,16 +656,16 @@ La entrada [Después: la mirada femenina al duelo y la maternidad imperfecta](ht
     </item>    <item>
       <link>http://scripting.com/2025/11/12.html#a153121</link>
       <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2023/07/02/validRss.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The big news is that there are now docs for <a href="https://source.scripting.com/markdown.opml">source:markdown</a>. The goal is to have a writer-friendly standard for text that's as useful as the one for audio has been. As with everything in RSS-land, cooperation among the different vendors was never its strong point. I hope to change that, and hope to build a network for written text as open and powerful as the one that developed for podcasting.]]>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2023/07/02/validRss.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The big news is that there are now docs for <a href="https://source.scripting.com/markdown.opml">source:markdown</a>. The goal is to have a writer-friendly standard for text that's as useful as the one for audio. As with everything in RSS-land, cooperation among the different vendors was never its strong point. I hope to change that, and hope to build a network for written text as open and powerful as the one that developed for podcasting.]]>
       </description>
-      <source:markdown>![](https://imgs.scripting.com/2023/07/02/validRss.png)The big news is that there are now docs for [source:markdown](https://source.scripting.com/markdown.opml). The goal is to have a writer-friendly standard for text that&#39;s as useful as the one for audio has been. As with everything in RSS-land, cooperation among the different vendors was never its strong point. I hope to change that, and hope to build a network for written text as open and powerful as the one that developed for podcasting.</source:markdown>
+      <source:markdown>![](https://imgs.scripting.com/2023/07/02/validRss.png)The big news is that there are now docs for [source:markdown](https://source.scripting.com/markdown.opml). The goal is to have a writer-friendly standard for text that&#39;s as useful as the one for audio. As with everything in RSS-land, cooperation among the different vendors was never its strong point. I hope to change that, and hope to build a network for written text as open and powerful as the one that developed for podcasting.</source:markdown>
       <guid>cid://http://scripting.com/2025/11/12.html#a153121</guid>
     </item>    <item>
       <link>http://scripting.com/2025/11/12.html#a152900</link>
       <description>
-        <![CDATA[Fixed a longstanding performance bug on the scripting.com home page. Sometimes it'd just sit there for five seconds. Really embarrassing. It might feel faster now. <i>Still diggin!</i>]]>
+        <![CDATA[Fixed a longstanding performance bug on the scripting.com home page. Sometimes it'd just sit there for five seconds. Really embarrassing. It should feel faster now. <i>Still diggin!</i>]]>
       </description>
-      <source:markdown>Fixed a longstanding performance bug on the scripting.com home page. Sometimes it&#39;d just sit there for five seconds. Really embarrassing. It might feel faster now. _Still diggin!_</source:markdown>
+      <source:markdown>Fixed a longstanding performance bug on the scripting.com home page. Sometimes it&#39;d just sit there for five seconds. Really embarrassing. It should feel faster now. _Still diggin!_</source:markdown>
       <guid>cid://http://scripting.com/2025/11/12.html#a152900</guid>
     </item>    <item>
       <title>ARIatHOME</title>
@@ -1428,7 +1741,7 @@ This is a good night.
         <![CDATA[The Andy Borowitz Show]]>
       </description>
       <source:markdown>The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/177939872/74f9f092a34e59addc4d1eb3bb5e9271.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/177939872/178b6aa8eb702d5aeb20969ce3ac167f.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.borowitzreport.com/p/cartoonists-take-down-a-tyrant</guid>
     </item>    <item>
       <title>Insights Into Successfully Rebranding Your Podcast</title>
@@ -4433,7 +4746,7 @@ As usual, you can also use this squid post to talk about the security stories in
         <![CDATA[Listen now | The Andy Borowitz Show]]>
       </description>
       <source:markdown>Listen now \| The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/178201642/85e17173bc785fb06894c90370f65871.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/178201642/c5f3fde1ee3e6059ddc476bb88780888.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.borowitzreport.com/p/blue-tsunami-special</guid>
     </item>    <item>
       <title>Published on Citation Needed: &#34;Issue 96 – Redefining solvency&#34;</title>
@@ -7022,7 +7335,7 @@ As authoritarianism is rising around the world, AI-generated “slop” is overw
         <![CDATA[Watch now | The Andy Borowitz Show]]>
       </description>
       <source:markdown>Watch now \| The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/177901928/5e8b1c7a8080ce60e49b3f31faa00bac.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/177901928/cbd521a355bf203d47512219f07dd1f4.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.borowitzreport.com/p/adam-kinzinger-doesnt-hold-back</guid>
     </item>    <item>
       <title>A Brief History of American Socialism</title>
@@ -13289,7 +13602,7 @@ He&#39;s very much [alive](https://en.wikipedia.org/wiki/Philippe_Kahn) as far a
         <![CDATA[Listen now | The Andy Borowitz Show]]>
       </description>
       <source:markdown>Listen now \| The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/177454182/5e9f70380c850b62714e754fc284c6fe.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/177454182/f1eeb3e66df6e0cdceba5c6cc2be0a51.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.borowitzreport.com/p/a-national-guardsman-stands-up-to</guid>
     </item>    <item>
       <title>In conversation with Zohran Mamdani</title>

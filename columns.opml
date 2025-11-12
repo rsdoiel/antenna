@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>12 Nov 25 10:10 -0800</dateCreated>
+        <dateCreated>12 Nov 25 14:10 -0800</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -258,6 +258,7 @@
         <outline text="Ryan Gantz Bluesky feed" type="rss" xmlUrl="https://bsky.app/profile/did:plc:42n7zwgawer2whfwg3igqwrd/rss" htmlUrl="https://bsky.app/profile/sixfoot6.com" description="generation XYZ. he/him. design architect and cofounder Vox Media Product, goofy creative dad. i am big ball of twine with huge googly eyes glued on. look at my mouth, itsjust more twine painted with chalk!!!"></outline>
         <outline text="SKKAW Blog" type="rss" xmlUrl="https://skkaw.blog/feed/" htmlUrl="https://skkaw.blog/,https://skkaw.blog/feed/" description="Your Place for Comics, Conventions, Technology and Games" url="https://skkaw.blog/feed/"></outline>
         <outline text="San Gabriel Valley Linux User Group" type="atom" xmlUrl="https://www.sgvlug.org/feeds/all.atom.xml" htmlUrl="https://www.sgvlug.org/,https://www.sgvlug.org/feeds/all.atom.xml" description="San Gabriel Valley Linux User&#39;s Group" url="https://www.sgvlug.org/feeds/all.atom.xml"></outline>
+        <outline text="Sarah Kendzior" type="rss" xmlUrl="https://sarahkendzior.com/feed/" htmlUrl="https://sarahkendzior.com,https://sarahkendzior.com/feed/" url="https://sarahkendzior.com/feed/"></outline>
         <outline text="Sean Hinchee blog" type="rss" xmlUrl="https://seh.dev/index.xml" htmlUrl="https://seh.dev/,https://seh.dev/index.xml" description="Recent content on seh.dev" url="https://seh.dev/index.xml"></outline>
         <outline text="Seth Erickson&#39;s Mastodon feed" type="rss" xmlUrl="https://hachyderm.io/@serickson.rss" htmlUrl="https://hachyderm.io/@serickson" description="Public posts from @serickson@hachyderm.io"></outline>
         <outline text="Shady Characters blog" type="rss" xmlUrl="https://shadycharacters.co.uk/feed/" htmlUrl="https://shadycharacters.co.uk,https://shadycharacters.co.uk/feed/" description="The secret life of punctuation" url="https://shadycharacters.co.uk/feed/"></outline>
@@ -289,7 +290,7 @@
         <outline text="This is history podcast" type="rss" xmlUrl="https://therestishistory.com/feed/" htmlUrl="https://therestishistory.com/,https://therestishistory.com/feed/" description="Historians Tom Holland and Dominic Sandbrook are interrogating the past, and attempting to de-tangle the present." url="https://therestishistory.com/feed/"></outline>
         <outline text="Thomas Denney Blog" type="rss" xmlUrl="https://www.thomasdenney.co.uk/feed.xml" htmlUrl="https://www.thomasdenney.co.uk"></outline>
         <outline text="Thurston Ball blog" type="atom" xmlUrl="https://thorstenball.com/atom.xml" htmlUrl="http://thorstenball.com/atom.xml,http://thorstenball.com/" url="http://thorstenball.com/atom.xml"></outline>
-        <outline text="Tina Brown" type="rss" xmlUrl="https://tinabrown.substack.com/feed" htmlUrl="https://tinabrown.substack.com,https://tinabrown.substack.com/feed" description="Tina Brown&#39;s observations, rants, news obsessions, and human exchanges." url="https://tinabrown.substack.com/feed"></outline>
+        <outline text="Tina Brown&#39;s blog" type="rss" xmlUrl="https://tinabrown.substack.com/feed" htmlUrl="https://tinabrown.substack.com,https://tinabrown.substack.com/feed" description="Tina Brown&#39;s observations, rants, news obsessions, and human exchanges." url="https://tinabrown.substack.com/feed"></outline>
         <outline text="Tink&#39;s blog" type="atom" xmlUrl="https://tink.uk/feed.xml" htmlUrl="https://tink.uk/feed.xml,https://tink.uk/" description="A feed of the latest posts from the blog." url="https://tink.uk/feed.xml"></outline>
         <outline text="Tom Kellog blog" type="atom" xmlUrl="https://timkellogg.me/blog/atom.xml" htmlUrl="https://timkellogg.me/blog/atom.xml,https://timkellogg.me/" url="https://timkellogg.me/blog/atom.xml"></outline>
         <outline text="Tomosino&#39;s Mastodon feed" type="rss" xmlUrl="https://tilde.zone/@tomasino.rss" htmlUrl="https://tilde.zone/@tomasino" description="Public posts from @tomasino@tilde.zone"></outline>

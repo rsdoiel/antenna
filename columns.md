@@ -328,4 +328,8 @@ description: Blogs, columns and snapshots from around the web.
 - [Strength in Numbere](https://www.gelliottmorris.com/feed)
 - [Telos News](https://www.telos.news/feed)
 - [Front Matter Blog (Martin Fenner)](https://blog.front-matter.io/atom/)
+- [Tina Brown's blog](https://tinabrown.substack.com/feed)
+- [Sarah Kendzior](https://sarahkendzior.com/feed/)
+- [Sarah Kendzior, substack](https://sarahkendzior.substack.com/feed
+
 
