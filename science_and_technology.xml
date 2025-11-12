@@ -4,10 +4,253 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>12 Nov 25 06:10 -0800</lastBuildDate>
+    <lastBuildDate>12 Nov 25 10:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Why the Frontend Should Run AI Models Locally With ONNX</title>
+      <link>https://thenewstack.io/why-the-frontend-should-run-ai-models-locally-with-onnx/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/25a730a9-unlocking_ai_blackbox-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="A black box on a green background" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/25a730a9-unlocking_ai_blackbox.jpg" /><p>Frontend developers need to make a paradigm shift about how they build applications using AI models, according to Angular consultant</p>
+        <p>The post <a href="https://thenewstack.io/why-the-frontend-should-run-ai-models-locally-with-onnx/">Why the Frontend Should Run AI Models Locally With ONNX</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![A black box on a green background](https://cdn.thenewstack.io/media/2025/11/25a730a9-unlocking_ai_blackbox-1024x576.jpg)
+
+Frontend developers need to make a paradigm shift about how they build applications using AI models, according to Angular consultant
+
+The post [Why the Frontend Should Run AI Models Locally With ONNX](https://thenewstack.io/why-the-frontend-should-run-ai-models-locally-with-onnx/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806324</guid>
+    </item>    <item>
+      <title>Open Reception: Open-Source-Terminbuchungstool für Arztpraxen steht bald bereit</title>
+      <link>https://www.heise.de/hintergrund/Open-Reception-Open-Source-Terminbuchungstool-fuer-Arztpraxen-steht-bald-bereit-11076033.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Open Reception entwickelt ein Terminportal, das Praxis und Patient datenschutzfreundlich verbinden soll.]]>
+      </description>
+      <source:markdown>Open Reception entwickelt ein Terminportal, das Praxis und Patient datenschutzfreundlich verbinden soll.</source:markdown>
+      <guid>cid://http://heise.de/-11076033</guid>
+    </item>    <item>
+      <title>First stellar Coronal Mass Ejection detected beyond our Sun</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/12/scientists_spot_a_huge_explosion/</link>
+      <description>
+        <![CDATA[<h4>Red dwarf hurls plasma at speeds rarely seen from Sun, potentially stripping atmospheres from orbiting planets</h4> <p>Astronomers have made the first definitive observation of a Coronal Mass Ejection (CME) on a nearby star.…</p>]]>
+      </description>
+      <source:markdown>#### Red dwarf hurls plasma at speeds rarely seen from Sun, potentially stripping atmospheres from orbiting planets
+
+Astronomers have made the first definitive observation of a Coronal Mass Ejection (CME) on a nearby star.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242984</guid>
+    </item>    <item>
+      <title>Indien testet Fallschirme der Raumkapsel Gaganyaan</title>
+      <link>https://www.heise.de/news/Indien-testet-Fallschirme-der-Raumkapsel-Gaganyaan-11076122.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[In wenigen Jahren will Indien erstmals Menschen ins All schießen. Dafür wurde erfolgreich die Landung der Raumkapsel Gaganyaan getestet.]]>
+      </description>
+      <source:markdown>In wenigen Jahren will Indien erstmals Menschen ins All schießen. Dafür wurde erfolgreich die Landung der Raumkapsel Gaganyaan getestet.</source:markdown>
+      <guid>cid://http://heise.de/-11076122</guid>
+    </item>    <item>
+      <title>Neuer IBM-Quantenchip soll 2026 Quantenüberlegenheit beweisen</title>
+      <link>https://www.heise.de/news/Mit-Nighthawk-Chip-will-IBM-2026-Quantenueberlegenheit-erreichen-11076005.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Mit einer neu vorgestellten Quantenchip-Architektur kündigt IBM an, in den kommenden vier Jahren die Basis für wertvolle Quantencomputeranwendungen zu legen.]]>
+      </description>
+      <source:markdown>Mit einer neu vorgestellten Quantenchip-Architektur kündigt IBM an, in den kommenden vier Jahren die Basis für wertvolle Quantencomputeranwendungen zu legen.</source:markdown>
+      <guid>cid://http://heise.de/-11076005</guid>
+    </item>    <item>
+      <title>Attackers turned Citrix, Cisco 0-day exploits into custom-malware hellscape</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/12/amazon_cisco_citrix_0day_exploits/</link>
+      <description>
+        <![CDATA[<h4>Vendors (still) keep mum</h4> <p>An &#34;advanced&#34; attacker exploited CitrixBleed 2 and a max-severity Cisco Identity Services Engine (ISE) bug as zero-days to deploy custom malware, according to Amazon Chief Information Security Officer CJ Moses.…</p>]]>
+      </description>
+      <source:markdown>#### Vendors (still) keep mum
+
+An &#34;advanced&#34; attacker exploited CitrixBleed 2 and a max-severity Cisco Identity Services Engine (ISE) bug as zero-days to deploy custom malware, according to Amazon Chief Information Security Officer CJ Moses.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242982</guid>
+    </item>    <item>
+      <title>Gerade beim Sport? Dann packt Google den Geschäftsvertrag in einen Podcast</title>
+      <link>https://www.heise.de/news/Google-Jetzt-liest-die-KI-den-Geschaeftsvertrag-als-Podcast-vor-11076027.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Google Drive erhält eine neue KI-Funktion, die wichtige PDF-Dokumente automatisch in Audio-Zusammenfassungen im Podcast-Stil umwandelt.]]>
+      </description>
+      <source:markdown>Google Drive erhält eine neue KI-Funktion, die wichtige PDF-Dokumente automatisch in Audio-Zusammenfassungen im Podcast-Stil umwandelt.</source:markdown>
+      <guid>cid://http://heise.de/-11076027</guid>
+    </item>    <item>
+      <title>Uno Platform Studio 2.0 und Uno Platform 6.4: KI-Assistent und .NET-10.0-Support</title>
+      <link>https://www.heise.de/news/Uno-Platform-Studio-2-0-und-Uno-Platform-6-4-KI-Assistent-und-NET-10-0-Support-11075898.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Mit .NET 10.0 und Visual Studio 2026 kompatibel, ist die neue Uno-Platform-Version erschienen. Für die kommerzielle Variante gibt es neue KI-Features.]]>
+      </description>
+      <source:markdown>Mit .NET 10.0 und Visual Studio 2026 kompatibel, ist die neue Uno-Platform-Version erschienen. Für die kommerzielle Variante gibt es neue KI-Features.</source:markdown>
+      <guid>cid://http://heise.de/-11075898</guid>
+    </item>    <item>
+      <title>Apple knits up $230 sock for your iPhone in time for Christmas</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/12/apple_iphone_pocket/</link>
+      <description>
+        <![CDATA[<h4>Fashion house behind Jobs&#39; turtleneck helps with pricey new accessory line</h4> <p>Apple, the reassuringly expensive US technology brand, is selling a sock in which iPhone owners can house their gadget.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Fashion house behind Jobs&#39; turtleneck helps with pricey new accessory line
+
+Apple, the reassuringly expensive US technology brand, is selling a sock in which iPhone owners can house their gadget.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242983</guid>
+    </item>    <item>
+      <title>5 Ways To Transform ITOps With a Human and AI Agent Model</title>
+      <link>https://thenewstack.io/5-ways-to-transform-itops-with-a-human-and-ai-agent-model/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/ab30ee9c-agents1-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Person working through a process with AI agents." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/ab30ee9c-agents1.jpg" /><p>A new era of AI operations is here. Research reveals that over half (51%) of global companies have already deployed</p>
+        <p>The post <a href="https://thenewstack.io/5-ways-to-transform-itops-with-a-human-and-ai-agent-model/">5 Ways To Transform ITOps With a Human and AI Agent Model</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Person working through a process with AI agents.](https://cdn.thenewstack.io/media/2025/11/ab30ee9c-agents1-1024x576.jpg)
+
+A new era of AI operations is here. Research reveals that over half (51%) of global companies have already deployed
+
+The post [5 Ways To Transform ITOps With a Human and AI Agent Model](https://thenewstack.io/5-ways-to-transform-itops-with-a-human-and-ai-agent-model/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806130</guid>
+    </item>    <item>
+      <title>VLC&#39;s keeper of the cone nets European free software gong</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/12/vlc_guru_gong/</link>
+      <description>
+        <![CDATA[<h4>Jean-Baptiste Kempf lauded for keeping the media player free of crapware</h4> <p>If you don&#39;t know what app will open a random media file (or URL), VLC is the answer. It runs on everything, plays anything, and it&#39;s free – thanks to Jean-Baptiste Kempf.…</p>]]>
+      </description>
+      <source:markdown>#### Jean-Baptiste Kempf lauded for keeping the media player free of crapware
+
+If you don&#39;t know what app will open a random media file (or URL), VLC is the answer. It runs on everything, plays anything, and it&#39;s free – thanks to Jean-Baptiste Kempf.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242981</guid>
+    </item>    <item>
+      <title>heise+ | Apps zur Planung von Fotos im Praxistest</title>
+      <link>https://www.heise.de/tests/Verschiedene-Apps-zur-Planung-von-Fotos-im-Praxistest-11071939.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Von Studiolicht bis Wetterplanung: Diese Apps helfen bei der Vorbereitung Ihrer nächsten Fotoaktion.]]>
+      </description>
+      <source:markdown>Von Studiolicht bis Wetterplanung: Diese Apps helfen bei der Vorbereitung Ihrer nächsten Fotoaktion.</source:markdown>
+      <guid>cid://http://heise.de/-11071939</guid>
+    </item>    <item>
+      <title>50.000 US-Dollar für ein geklontes Haustier? Wo die Technologie nützlicher wäre</title>
+      <link>https://www.heise.de/news/50-000-US-Dollar-fuer-ein-geklontes-Haustier-Wo-die-Technologie-nuetzlicher-waere-11076054.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Einige Prominente können sich nicht von ihren Haustieren lösen und lassen sie in Klonen weiterleben. Wissenschaftler sehen hier Chancen für andere Arten.]]>
+      </description>
+      <source:markdown>Einige Prominente können sich nicht von ihren Haustieren lösen und lassen sie in Klonen weiterleben. Wissenschaftler sehen hier Chancen für andere Arten.</source:markdown>
+      <guid>cid://http://heise.de/-11076054</guid>
+    </item>    <item>
+      <title>Elderly Jews Were Among the Most Likely to Die in the Holocaust. Why Has History Forgotten About the Genocide&#39;s Oldest Victims?</title>
+      <link>https://www.smithsonianmag.com/smart-news/elderly-jews-were-among-the-most-likely-to-die-in-the-holocaust-why-has-history-forgotten-about-the-genocides-oldest-victims-180987666/</link>
+      <description>
+        <![CDATA[A new exhibition at London's Wiener Holocaust Library spotlights the unique challenges faced by European Jews who were over the age of 55 during World War II]]>
+      </description>
+      <source:markdown>A new exhibition at London&#39;s Wiener Holocaust Library spotlights the unique challenges faced by European Jews who were over the age of 55 during World War II</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/-1LnjIOiSeqab5aLuwCS7CuwPEk=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0a/5c/0a5cfcba-797d-4aa1-820f-7a4419cba2bd/woman-survivor.jpg" length="" type="" />
+    </item>    <item>
+      <title>Studie: DMA bringt Nutzern keine günstigeren App-Preise</title>
+      <link>https://www.heise.de/news/Studie-DMA-bringt-Nutzern-keine-guenstigeren-App-Preise-11075918.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Vorschriften des Digital Markets Act (DMA) sollten für mehr Wettbewerb in App Stores sorgen, doch eine neue Studie zeigt: Nutzer sehen kaum Preissenkungen.]]>
+      </description>
+      <source:markdown>Die Vorschriften des Digital Markets Act (DMA) sollten für mehr Wettbewerb in App Stores sorgen, doch eine neue Studie zeigt: Nutzer sehen kaum Preissenkungen.</source:markdown>
+      <guid>cid://http://heise.de/-11075918</guid>
+    </item>    <item>
+      <title>heise+ | Framework Laptop 16: Aufrüstbares Gaming-Notebook im Test</title>
+      <link>https://www.heise.de/tests/Framework-Laptop-16-Aufruestbares-Gaming-Notebook-im-Test-10963107.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[Das Verspechen, ein Gaming-Notebook später mit einer besseren GPU aufzurüsten, haben schon mehrere Hersteller gebrochen. Framework hält seines.]]>
+      </description>
+      <source:markdown>Das Verspechen, ein Gaming-Notebook später mit einer besseren GPU aufzurüsten, haben schon mehrere Hersteller gebrochen. Framework hält seines.</source:markdown>
+      <guid>cid://http://heise.de/-10963107</guid>
+    </item>    <item>
+      <title>Archaeologists Excavating a Roman Fort in Britain Discovered a Rare Red Gemstone Engraved With a Surprising Design</title>
+      <link>https://www.smithsonianmag.com/smart-news/archaeologists-excavating-roman-fort-britain-discovered-rare-rred-gemstone-engraved-with-surprising-design-180987674/</link>
+      <description>
+        <![CDATA[The intaglio was likely set in a signet ring and used to stamp correspondence at Bremenium, a military outpost located roughly 25 miles north of Hadrian’s Wall]]>
+      </description>
+      <source:markdown>The intaglio was likely set in a signet ring and used to stamp correspondence at Bremenium, a military outpost located roughly 25 miles north of Hadrian’s Wall</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/z-FC78aiNnyVfeELOEjUnbKZbtk=/420x240/filters:focal(741x1145:742x1146)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/01/f0/01f0de30-741d-483f-8c35-4e0c716b8200/red-rock.jpg" length="" type="" />
+    </item>    <item>
+      <title>Miniatur Wunderland Ziel von IT-Angriff: Kreditkartendaten abgeflossen</title>
+      <link>https://www.heise.de/news/Miniatur-Wunderland-Ziel-von-IT-Angriff-Kreditkartendaten-abgeflossen-11076011.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das Online-Buchungssystem des Miniatur Wunderlands wurde Ziel eines IT-Angriffs. Untersuchungen laufen derzeit noch.]]>
+      </description>
+      <source:markdown>Das Online-Buchungssystem des Miniatur Wunderlands wurde Ziel eines IT-Angriffs. Untersuchungen laufen derzeit noch.</source:markdown>
+      <guid>cid://http://heise.de/-11076011</guid>
+    </item>    <item>
+      <title>Laptop für 339 Euro überrascht: Chuwi Core Book X im Test</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/laptop-mit-ryzen-5-und-2k-display-ueberrascht-fuer-339-euro-chuwi-core-book-x-im-test/g7bcmjh?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das Chuwi Core Book X bietet für 339 Euro eine überraschend hochwertige Verarbeitung und ein scharfes 2K-Display.]]>
+      </description>
+      <source:markdown>Das Chuwi Core Book X bietet für 339 Euro eine überraschend hochwertige Verarbeitung und ein scharfes 2K-Display.</source:markdown>
+      <guid>cid://http://heise.de/-11076015</guid>
+    </item>    <item>
+      <title>New Proofs Probe Soap-Film Singularities</title>
+      <link>https://www.quantamagazine.org/new-proofs-probe-soap-film-singularities-20251112/</link>
+      <description>
+        <![CDATA[Mathematicians have broken through a long-standing barrier in the study of “minimizing surfaces,” which play an important role in both math and physics.            <p>The post <a href="https://www.quantamagazine.org/new-proofs-probe-soap-film-singularities-20251112/" target="_blank">New Proofs Probe Soap-Film Singularities</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Mathematicians have broken through a long-standing barrier in the study of “minimizing surfaces,” which play an important role in both math and physics.
+
+The post [New Proofs Probe Soap-Film Singularities](https://www.quantamagazine.org/new-proofs-probe-soap-film-singularities-20251112/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=156525</guid>
+    </item>    <item>
+      <title>How Google Is Shifting AI From the Cloud to Your Browser</title>
+      <link>https://thenewstack.io/how-google-is-shifting-ai-from-the-cloud-to-your-browser/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/8be51f64-agentic-internet-jason-mayes2-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="agentic internet" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/8be51f64-agentic-internet-jason-mayes2.jpg" /><p>The Google Web AI summit was held earlier this month as an invite-only event in Sunnyvale, Calif. After the event,</p>
+        <p>The post <a href="https://thenewstack.io/how-google-is-shifting-ai-from-the-cloud-to-your-browser/">How Google Is Shifting AI From the Cloud to Your Browser</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![agentic internet](https://cdn.thenewstack.io/media/2025/11/8be51f64-agentic-internet-jason-mayes2-1024x576.jpg)
+
+The Google Web AI summit was held earlier this month as an invite-only event in Sunnyvale, Calif. After the event,
+
+The post [How Google Is Shifting AI From the Cloud to Your Browser](https://thenewstack.io/how-google-is-shifting-ai-from-the-cloud-to-your-browser/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806261</guid>
+    </item>    <item>
+      <title>Smarter Tischtennisschläger mit Arduino</title>
+      <link>https://www.heise.de/news/Smarter-Tischtennisschlaeger-mit-Arduino-11075890.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Ein 3D-gedruckter Tischtennisschläger nutzt einen Arduino, Bewegungssensoren und KI, um Schläge zu zählen und zu bewerten.]]>
+      </description>
+      <source:markdown>Ein 3D-gedruckter Tischtennisschläger nutzt einen Arduino, Bewegungssensoren und KI, um Schläge zu zählen und zu bewerten.</source:markdown>
+      <guid>cid://http://heise.de/-11075890</guid>
+    </item>    <item>
+      <title>Webmin 2.600 mit komplett überarbeitetem Interface erschienen</title>
+      <link>https://www.heise.de/news/Webmin-2-600-Groesstes-UI-Update-der-Server-Management-Software-11075882.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Die Server-Management-Software Webmin ist jetzt in Version 2.600 verfügbar. Das Update bringt das größte UI-Redesign der Projektgeschichte.]]>
+      </description>
+      <source:markdown>Die Server-Management-Software Webmin ist jetzt in Version 2.600 verfügbar. Das Update bringt das größte UI-Redesign der Projektgeschichte.</source:markdown>
+      <guid>cid://http://heise.de/-11075882</guid>
+    </item>    <item>
+      <title>Warum objektive Schätzungen in der Softwareentwicklung nicht funktionieren</title>
+      <link>https://www.heise.de/blog/Warum-objektive-Schaetzungen-in-der-Softwareentwicklung-nicht-funktionieren-11074323.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Der geschätzte Aufwand eines Softwareprojekts bezieht sich meist auf das jeweilige Team. Aber Aufwand ist nicht objektiv und unabhängig vom Team schätzbar.]]>
+      </description>
+      <source:markdown>Der geschätzte Aufwand eines Softwareprojekts bezieht sich meist auf das jeweilige Team. Aber Aufwand ist nicht objektiv und unabhängig vom Team schätzbar.</source:markdown>
+      <guid>cid://http://heise.de/-11074323</guid>
+    </item>    <item>
+      <title>Entgelt-Verhandlungen zur Kostendämpfung bei Volkswagen vorgezogen</title>
+      <link>https://www.heise.de/news/Entgelt-Verhandlungen-zur-Kostendaempfung-bei-Volkswagen-vorgezogen-11075764.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Volkswagen will künftig Milliarden sparen, auch bei Löhnen und Gehältern. Die Verhandlungen über das Entgeltsystem beginnen nun früher als geplant.]]>
+      </description>
+      <source:markdown>Volkswagen will künftig Milliarden sparen, auch bei Löhnen und Gehältern. Die Verhandlungen über das Entgeltsystem beginnen nun früher als geplant.</source:markdown>
+      <guid>cid://http://heise.de/-11075764</guid>
+    </item>    <item>
+      <title>Broken wizard forces Microsoft to issue out-of-band Windows 10 patch</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/12/microsoft_esu_wizard_fix/</link>
+      <description>
+        <![CDATA[<h4>End of support? Not quite</h4> <p>Microsoft released an emergency out-of-band update on November 11 to fix a malfunctioning enrollment wizard that prevented eligible Windows 10 users from accessing Extended Security Updates (ESU).…</p>]]>
+      </description>
+      <source:markdown>#### End of support? Not quite
+
+Microsoft released an emergency out-of-band update on November 11 to fix a malfunctioning enrollment wizard that prevented eligible Windows 10 users from accessing Extended Security Updates (ESU).…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242975</guid>
+    </item>    <item>
+      <title>Mit 2 Monaten Verzögerung: Android 16 QPR1 landet im AOSP</title>
+      <link>https://www.heise.de/news/Mit-2-Monaten-Verzoegerung-Android-16-QPR1-landet-im-AOSP-11075822.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das Update auf Android 16 QPR1 ist endlich im AOSP angekommen. Custom-ROM-Entwickler und Bastler warteten seit zwei Monaten darauf.]]>
+      </description>
+      <source:markdown>Das Update auf Android 16 QPR1 ist endlich im AOSP angekommen. Custom-ROM-Entwickler und Bastler warteten seit zwei Monaten darauf.</source:markdown>
+      <guid>cid://http://heise.de/-11075822</guid>
+    </item>    <item>
       <title>heise+ | Mobilfunkverträge ab 50 Gigabyte: Tarifvergleich und Auswahltipps</title>
       <link>https://www.heise.de/tests/Mobilfunkvertraege-ab-50-Gigabyte-Tarifvergleich-und-Auswahltipps-10708512.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
       <description>
@@ -15,6 +258,22 @@
       </description>
       <source:markdown>Smartphonetarife mit großem Volumen gelten als teuer. Doch das stimmt längst nicht mehr. Viele Tarifschnäppchen gibt es sogar mit kurzen Vertragslaufzeiten.</source:markdown>
       <guid>cid://http://heise.de/-10708512</guid>
+    </item>    <item>
+      <title>KI-Update: Gema vs. OpenAI, KI als Machtinstrument, räumliche KI, Country-KI</title>
+      <link>https://www.heise.de/news/KI-Update-Gema-vs-OpenAI-KI-als-Machtinstrument-raeumliche-KI-Country-KI-11074906.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Das "KI-Update" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.]]>
+      </description>
+      <source:markdown>Das &#34;KI-Update&#34; liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.</source:markdown>
+      <guid>cid://http://heise.de/-11074906</guid>
+    </item>    <item>
+      <title>heise+ | Ryzen 5 7500X3D: Bezahlbare Gaming-CPU mit besonders viel Cache im Test</title>
+      <link>https://www.heise.de/tests/Ryzen-5-7500X3D-Bezahlbare-Gaming-CPU-mit-besonders-viel-Cache-im-Test-11074174.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
+      <description>
+        <![CDATA[AMD schickt einen neuen X3D-Prozessor mit sechs Kernen für unter 280 Euro ins Rennen. Doch lohnt er sich für Gamer im Vergleich zu noch günstigeren AM5-CPUs?]]>
+      </description>
+      <source:markdown>AMD schickt einen neuen X3D-Prozessor mit sechs Kernen für unter 280 Euro ins Rennen. Doch lohnt er sich für Gamer im Vergleich zu noch günstigeren AM5-CPUs?</source:markdown>
+      <guid>cid://http://heise.de/-11074174</guid>
     </item>    <item>
       <title>Avast und AVG: Kritische Sicherheitslücke stillschweigend behoben</title>
       <link>https://www.heise.de/news/Avast-und-AVG-Kritische-Sicherheitsluecke-stillschweigend-behoben-11075740.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
@@ -61,7 +320,7 @@ Microsoft has released C# 14 and .NET 10, a long-term support version, along wit
       <title>KubeCon: A Terraform Killer Built on Apple’s Pkl</title>
       <link>https://thenewstack.io/kubecon-a-terraform-killer-built-on-apples-pkl/</link>
       <description>
-        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/11/da4c886b-formae-1024x768.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/da4c886b-formae.jpg" /><p>ATLANTA &#8212;&#160;Terraform has you tripping? YAML got you cross-eyed? A startup, Platform Engineering Labs, has tackled the ongoing headache that</p>
+        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/11/da4c886b-formae-1024x768.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/da4c886b-formae.jpg" /><p>ATLANTA &#8212;&#160;Terraform has you tripping? YAML got you cross-eyed? A startup, Platform Engineering Labs, has tackled the ongoing headache that</p>
         <p>The post <a href="https://thenewstack.io/kubecon-a-terraform-killer-built-on-apples-pkl/">KubeCon: A Terraform Killer Built on Apple&#8217;s Pkl</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/da4c886b-formae-1024x768.jpg)
@@ -160,11 +419,11 @@ Broadcom will let its hardware allies self-certify their boxes as compliant with
       <title>Mozilla&#39;s Firefox 145 is heeeeeere: Buffs up privacy, bloats AI</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/12/firefox_145_arrives/</link>
       <description>
-        <![CDATA[<h4>Improves tracking prevention, profile management, PDF editing, and Perplexity creeps into your address bar</h4> <p>Firefox 145 is out, with more privacy, better profile handling, better image search for Google users… and, almost inevitably, more LLM bot integration.…</p>]]>
+        <![CDATA[<h4>Improves tracking prevention, profile management, PDF editing, and Perplexity creeps into your address bar</h4> <p><strong>Updated</strong>  Firefox 145 is out, with more privacy, better profile handling, better image search for Google users… and, almost inevitably, more LLM bot integration.…</p>]]>
       </description>
       <source:markdown>#### Improves tracking prevention, profile management, PDF editing, and Perplexity creeps into your address bar
 
-Firefox 145 is out, with more privacy, better profile handling, better image search for Google users… and, almost inevitably, more LLM bot integration.…</source:markdown>
+**Updated**  Firefox 145 is out, with more privacy, better profile handling, better image search for Google users… and, almost inevitably, more LLM bot integration.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242962</guid>
     </item>    <item>
       <title>AMD bestätigt Zen-6-Prozessoren für 2026 und nennt erste Zen-7-Details</title>
@@ -665,11 +924,11 @@ The post [FFmpeg to Google: Fund Us or Stop Sending Bugs](https://thenewstack.io
       <title>North Korean spies turn Google&#39;s Find Hub into remote-wipe weapon</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/11/north_korean_spies_turn_googles/</link>
       <description>
-        <![CDATA[<h4>KONNI espionage crew covertly abused Google’s Find My Device feature to remotely factory-reset Android phones</h4> <p>North Korean state-backed spies have found a new way to torch evidence of their own cyber-spying – by hijacking Google&#39;s &#34;Find Hub&#34; service to remotely wipe Android phones belonging to their South Korean targets.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+        <![CDATA[<h4>KONNI espionage crew covertly abused Google’s Find My Device feature to remotely factory-reset Android phones</h4> <p>North Korean state-backed spies have found a new way to torch evidence of their own cyber-spying – by hijacking Google&#39;s Find Hub service to remotely wipe Android phones belonging to their South Korean targets.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
       <source:markdown>#### KONNI espionage crew covertly abused Google’s Find My Device feature to remotely factory-reset Android phones
 
-North Korean state-backed spies have found a new way to torch evidence of their own cyber-spying – by hijacking Google&#39;s &#34;Find Hub&#34; service to remotely wipe Android phones belonging to their South Korean targets.…</source:markdown>
+North Korean state-backed spies have found a new way to torch evidence of their own cyber-spying – by hijacking Google&#39;s Find Hub service to remotely wipe Android phones belonging to their South Korean targets.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242956</guid>
     </item>    <item>
       <title>CNCF standardisiert KI-Infrastruktur mit neuem Kubernetes-Programm</title>
@@ -992,9 +1251,9 @@ UK governmental is working with the National Cyber Security Centre to understand
       <title>Battery trade war hits booming datacenter industry</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/11/analysts_forecast_bit_barn_battery/</link>
       <description>
-        <![CDATA[<h4>Tariffs can&#39;t stop cheaper, better Chinese tech, says Jefferies. Tesla is Amercia&#39;s great hope</h4> <p>Battery energy storage systems (BESS) could become standard at datacenters as AI infrastructure expand, with analysts forecasting 20 GW of capacity deployed over the next decade.…</p>]]>
+        <![CDATA[<h4>Tariffs can&#39;t stop cheaper, better Chinese tech, says Jefferies. Tesla is America&#39;s great hope</h4> <p>Battery energy storage systems (BESS) could become standard at datacenters as AI infrastructure expand, with analysts forecasting 20 GW of capacity deployed over the next decade.…</p>]]>
       </description>
-      <source:markdown>#### Tariffs can&#39;t stop cheaper, better Chinese tech, says Jefferies. Tesla is Amercia&#39;s great hope
+      <source:markdown>#### Tariffs can&#39;t stop cheaper, better Chinese tech, says Jefferies. Tesla is America&#39;s great hope
 
 Battery energy storage systems (BESS) could become standard at datacenters as AI infrastructure expand, with analysts forecasting 20 GW of capacity deployed over the next decade.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242935</guid>

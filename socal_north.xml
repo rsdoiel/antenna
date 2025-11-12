@@ -7,10 +7,26 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>12 Nov 25 06:10 -0800</lastBuildDate>
+    <lastBuildDate>12 Nov 25 10:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>On day 43 of the shutdown, a vote in the House could bring the impasse to an end</title>
+      <link>https://laist.com/news/politics/day-43-shutdown-vote-in-the-house-could-bring-the-impasse-to-an-end</link>
+      <description>
+        <![CDATA[A vote in the House expected on Wednesday could end what is now the longest shutdown on record. Democrats are decrying the plan, saying it fails to address expiring health care subsidies.]]>
+      </description>
+      <source:markdown>A vote in the House expected on Wednesday could end what is now the longest shutdown on record. Democrats are decrying the plan, saying it fails to address expiring health care subsidies.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-78ce-d942-adbf-7ede4c100000</guid>
+    </item>    <item>
+      <title>The LA Olympics schedule is out. Here&#39;s a breakdown</title>
+      <link>https://laist.com/news/the-la-olympics-schedule-is-out-heres-a-breakdown</link>
+      <description>
+        <![CDATA[Some competitions are scheduled around the summer heat.]]>
+      </description>
+      <source:markdown>Some competitions are scheduled around the summer heat.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-7543-d7d8-a19b-f7e7dcdf0000</guid>
+    </item>    <item>
       <title>Want to reshape LA city government? Here’s how you can help</title>
       <link>https://laist.com/news/politics/la-city-government-charter-reform</link>
       <description>
@@ -30,9 +46,9 @@
       <title>Why flight disruptions could linger even after the government shutdown ends</title>
       <link>https://laist.com/transportation/why-flight-disruptions-could-linger-even-after-the-government-shutdown-ends</link>
       <description>
-        <![CDATA[Airlines and aviation regulators warned that flight disruptions are likely to continue even after the government reopens. Thousands of flights have been cancelled as air traffic restrictions ramp up.]]>
+        <![CDATA[Airlines and aviation regulators warned that flight disruptions are likely to continue even after the government reopens. Thousands of flights have been canceled as air traffic restrictions ramp up.]]>
       </description>
-      <source:markdown>Airlines and aviation regulators warned that flight disruptions are likely to continue even after the government reopens. Thousands of flights have been cancelled as air traffic restrictions ramp up.</source:markdown>
+      <source:markdown>Airlines and aviation regulators warned that flight disruptions are likely to continue even after the government reopens. Thousands of flights have been canceled as air traffic restrictions ramp up.</source:markdown>
       <guid>cid://urn:uuid:0000019a-7610-d439-a99a-f6f6f4d20000</guid>
     </item>    <item>
       <title>Angelenos share their most memorable LA billboards</title>
