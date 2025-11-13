@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>13 Nov 25 10:12 -0800</lastBuildDate>
+    <lastBuildDate>13 Nov 25 14:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -141,12 +141,46 @@ As always, do give this release a try and open a [ticket](https://gitlab.haskell
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
     </item>    <item>
+      <link>http://scripting.com/2025/11/13.html#a214357</link>
+      <description>
+        <![CDATA[Some pre-dinner testing. This was correctly recognized as a new item. And I've made another change, this should be picked up as well........]]>
+      </description>
+      <source:markdown>Some pre-dinner testing. This was correctly recognized as a new item. And I&#39;ve made another change, this should be picked up as well........</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/13.html#a214357</guid>
+    </item>    <item>
+      <title>November 12, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/november-12-2025-950</link>
+      <enclosure url="https://api.substack.com/feed/podcast/178826392/1e98f4451deffcfec1df9dad4c4e61a2.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/november-12-2025-950</guid>
+    </item>    <item>
+      <title>Possible facts</title>
+      <link>https://doc.searls.com/2025/11/13/possible-facts/</link>
+      <description>
+        <![CDATA[Which is the most fun? Click on every busClick here to continue the surveyAccept the use of cookiesCreate accountReset passwordAre you still here? And is that why your famous School of Journalism got turned into the Media Department? NiemanLab: “Biased,” “boring,” “chaotic,” and “bad”: A majority of teens hold negative views of news media, report [&#8230;]]]>
+      </description>
+      <source:markdown>Which is the most fun? Click on every busClick here to continue the surveyAccept the use of cookiesCreate accountReset passwordAre you still here? And is that why your famous School of Journalism got turned into the Media Department? NiemanLab: “Biased,” “boring,” “chaotic,” and “bad”: A majority of teens hold negative views of news media, report \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2025/11/13/possible-facts/</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m5jsqhbk2s2h</link>
+      <description>
+        <![CDATA[Well stated, https://daverupert.com/2025/11/la-rinconada-peru/]]>
+      </description>
+      <source:markdown>Well stated, https://daverupert.com/2025/11/la-rinconada-peru/</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m5jsqhbk2s2h</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m5jsi6buhc2d</link>
+      <description>
+        <![CDATA[@scripting.com cool vision for evolving is writing platforms, http://scripting.com/2025/11/13.html#a165641]]>
+      </description>
+      <source:markdown>@scripting.com cool vision for evolving is writing platforms, http://scripting.com/2025/11/13.html#a165641</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m5jsi6buhc2d</guid>
+    </item>    <item>
       <title>There is Only One Way Out</title>
       <link>https://www.notesfromthecircus.com/p/there-is-only-one-way-out</link>
       <description>
-        <![CDATA[I&#8217;ve been re-watching Tony Gilroy&#8217;s masterpiece Andor. In the first season, the story reaches one of its most evocative moral crescendos when Andy Serkis&#8217; character, Kino Loy, delivers one of the most stirring monologues in contemporary screenwriting. &#8220;One way out&#8221; became the meme, the rallying cry. But nestled inside that monologue is the line that matters most:]]>
+        <![CDATA[I&#8217;ve been re-watching Tony Gilroy&#8217;s masterpiece Andor. In the first season, the story reaches one of its most evocative moral crescendos when Andy Serkis&#8217; character, Kino Loy, delivers one of the most stirring monologues in contemporary screenwriting.]]>
       </description>
-      <source:markdown>I’ve been re-watching Tony Gilroy’s masterpiece Andor. In the first season, the story reaches one of its most evocative moral crescendos when Andy Serkis’ character, Kino Loy, delivers one of the most stirring monologues in contemporary screenwriting. “One way out” became the meme, the rallying cry. But nestled inside that monologue is the line that matters most:</source:markdown>
+      <source:markdown>I’ve been re-watching Tony Gilroy’s masterpiece Andor. In the first season, the story reaches one of its most evocative moral crescendos when Andy Serkis’ character, Kino Loy, delivers one of the most stirring monologues in contemporary screenwriting.</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!aAu8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec478baa-bccb-4b12-9f43-b89c32f4e309_1506x882.png" length="0" type="image/jpeg" />
       <guid>cid://https://www.notesfromthecircus.com/p/there-is-only-one-way-out</guid>
     </item>    <item>
@@ -156,6 +190,22 @@ anything amiss.</source:markdown>
       </description>
       <source:markdown>This is lovely [https://mastodon.gamedev.place/@godotengine/115543655213589423](https://mastodon.gamedev.place/@godotengine/115543655213589423)</source:markdown>
       <guid>cid://https://mastodon.social/@Migueldeicaza/115543663283463085</guid>
+    </item>    <item>
+      <title>Ordinal Exchanges</title>
+      <link>https://kieranhealy.org/blog/archives/2025/11/13/ordinal-exchanges/</link>
+      <description>
+        <![CDATA[<figure class="full-width"><a href="https://kieranhealy.org/blog/archives/2025/11/13/ordinal-exchanges/tos-detail.png" data-fancybox>
+            <img src="https://kieranhealy.org/blog/archives/2025/11/13/ordinal-exchanges/tos-detail.png"/></a>
+        </figure>
+        <p>The <em>Socio-Economic Review</em> has published a <a href="https://academic.oup.com/ser/advance-article-abstract/doi/10.1093/ser/mwaf057/8317764">book symposium</a> on <a href="https://theordinalsociety.com"><em>The Ordinal Society</em></a> with contributions from Nitsan Chorev, J.P. Pardo-Guerra, and Greta Krippner, followed by a reply from Marion and myself. (Here&rsquo;s a <a href="https://kieranhealy/org/files/papers/tos-keeping-score.pdf">PDF of the exchange</a>.) There&rsquo;s also a symposium at the <em>Journal of Cultural Economy</em> with contributions from <a href="https://www.tandfonline.com/doi/full/10.1080/17530350.2025.2525986">Hatim A. Rahman</a>, <a href="https://www.tandfonline.com/doi/full/10.1080/17530350.2025.2523768">Juan M. del Nido</a>, <a href="https://www.tandfonline.com/doi/full/10.1080/17530350.2025.2523771">Julien Migozzi</a>, and <a href="https://www.tandfonline.com/doi/full/10.1080/17530350.2025.2531852">Michelle Jackson</a>, again with a <a href="https://www.tandfonline.com/doi/full/10.1080/17530350.2025.2523767">reply from us</a>. Finally there&rsquo;s also a new review from <a href="https://journals.sagepub.com/doi/abs/10.1177/00018392251394664">Michael Sauder in <em>ASQ</em></a> (<a href="sauder-ordinal-society.pdf">PDF</a>), which follows on reviews from <a href="https://academic.oup.com/sf/article-abstract/103/4/e18/7964715">Barbara Kiviat in <em>Social Forces</em></a> (<a href="kiviat-ordinal-society.pdf">PDF</a>), and Laura Nelson in <a href="https://www.lauraknelson.com/publication/book-review-ordinal-society/ordinal-society-review.pdf"><em>Acta Sociologica</em></a>.</p>
+        <p>As we say more than once in our replies, it&rsquo;s very gratifying to have your peers in the field take the time to read your work.</p>]]>
+      </description>
+      <source:markdown>[![](https://kieranhealy.org/blog/archives/2025/11/13/ordinal-exchanges/tos-detail.png)](https://kieranhealy.org/blog/archives/2025/11/13/ordinal-exchanges/tos-detail.png)
+
+The _Socio-Economic Review_ has published a [book symposium](https://academic.oup.com/ser/advance-article-abstract/doi/10.1093/ser/mwaf057/8317764) on [_The Ordinal Society_](https://theordinalsociety.com) with contributions from Nitsan Chorev, J.P. Pardo-Guerra, and Greta Krippner, followed by a reply from Marion and myself. (Here’s a [PDF of the exchange](https://kieranhealy/org/files/papers/tos-keeping-score.pdf).) There’s also a symposium at the _Journal of Cultural Economy_ with contributions from [Hatim A. Rahman](https://www.tandfonline.com/doi/full/10.1080/17530350.2025.2525986), [Juan M. del Nido](https://www.tandfonline.com/doi/full/10.1080/17530350.2025.2523768), [Julien Migozzi](https://www.tandfonline.com/doi/full/10.1080/17530350.2025.2523771), and [Michelle Jackson](https://www.tandfonline.com/doi/full/10.1080/17530350.2025.2531852), again with a [reply from us](https://www.tandfonline.com/doi/full/10.1080/17530350.2025.2523767). Finally there’s also a new review from [Michael Sauder in _ASQ_](https://journals.sagepub.com/doi/abs/10.1177/00018392251394664) ( [PDF](sauder-ordinal-society.pdf)), which follows on reviews from [Barbara Kiviat in _Social Forces_](https://academic.oup.com/sf/article-abstract/103/4/e18/7964715) ( [PDF](kiviat-ordinal-society.pdf)), and Laura Nelson in [_Acta Sociologica_](https://www.lauraknelson.com/publication/book-review-ordinal-society/ordinal-society-review.pdf).
+
+As we say more than once in our replies, it’s very gratifying to have your peers in the field take the time to read your work.</source:markdown>
+      <guid>cid://https://kieranhealy.org/blog/archives/2025/11/13/ordinal-exchanges/</guid>
     </item>    <item>
       <title>I’m definitely going to be sent on a side quest.</title>
       <link>https://adactio.com/notes/22250</link>
@@ -216,9 +266,9 @@ I’m definitely going to be sent on a side quest.</source:markdown>
     </item>    <item>
       <link>http://scripting.com/2025/11/13.html#a165641</link>
       <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2020/09/25/sorry.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Here's what I'm doing. I want to get all my blog posts together in one place. I still want to use Electric Drummer to write stuff for scripting.com, there's a whole system built around it being where it is. But, I want all the posts on scripting to also appear on the daveverse site, so that they first version of my discourse module can be simple to create, debug and use. So I've got the first half working, I've got a script that hooks in via WebSockets to FeedLand and is notified every time Scripting News updates. It mirrors the updates to a site on WordPress (for testing) and once it works, I'll have it send the stuff to Daveverse. That part remains to be done. Not sure if it'll be a desktop app or a server-based app. But now I need a break. ;-)]]>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2020/09/25/sorry.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Here's what I'm doing. I want to get all my blog posts together in one place. I still want to use <a href="https://docserver.scripting.com/drummer/electricDrummer.opml">Electric Drummer</a> to write stuff for scripting.com, there's a whole system built around it being where it is. But, I want all the posts on <a href="http://scripting.com/">scripting</a> to also appear on the <a href="https://daveverse.org/">daveverse</a> site, so that the first version of my discourse module can be simple to create, debug and use. So I've got the first half working, I've got a script that hooks in via <a href="https://github.com/scripting/feedlandSocket">WebSockets to FeedLand</a> and is notified every time Scripting News updates. It mirrors the updates to a site on WordPress (for testing) and once it works, I'll have it send the stuff to daveverse. That part remains to be done. Not sure if it'll be a desktop app or a server-based app. But now I need a break. ;-)]]>
       </description>
-      <source:markdown>![](https://imgs.scripting.com/2020/09/25/sorry.png)Here&#39;s what I&#39;m doing. I want to get all my blog posts together in one place. I still want to use Electric Drummer to write stuff for scripting.com, there&#39;s a whole system built around it being where it is. But, I want all the posts on scripting to also appear on the daveverse site, so that they first version of my discourse module can be simple to create, debug and use. So I&#39;ve got the first half working, I&#39;ve got a script that hooks in via WebSockets to FeedLand and is notified every time Scripting News updates. It mirrors the updates to a site on WordPress (for testing) and once it works, I&#39;ll have it send the stuff to Daveverse. That part remains to be done. Not sure if it&#39;ll be a desktop app or a server-based app. But now I need a break. ;-)</source:markdown>
+      <source:markdown>![](https://imgs.scripting.com/2020/09/25/sorry.png)Here&#39;s what I&#39;m doing. I want to get all my blog posts together in one place. I still want to use [Electric Drummer](https://docserver.scripting.com/drummer/electricDrummer.opml) to write stuff for scripting.com, there&#39;s a whole system built around it being where it is. But, I want all the posts on [scripting](http://scripting.com/) to also appear on the [daveverse](https://daveverse.org/) site, so that the first version of my discourse module can be simple to create, debug and use. So I&#39;ve got the first half working, I&#39;ve got a script that hooks in via [WebSockets to FeedLand](https://github.com/scripting/feedlandSocket) and is notified every time Scripting News updates. It mirrors the updates to a site on WordPress (for testing) and once it works, I&#39;ll have it send the stuff to daveverse. That part remains to be done. Not sure if it&#39;ll be a desktop app or a server-based app. But now I need a break. ;-)</source:markdown>
       <guid>cid://http://scripting.com/2025/11/13.html#a165641</guid>
     </item>    <item>
       <title>Alchemy - Josh Collinsworth blog</title>
@@ -311,24 +361,6 @@ James embarked on a self-imposed project to read as much fiction by former NYC m
 
 Nothing else from us this week! Too busy trying to come up with more rhymes to help people remember which TV shows are which.</source:markdown>
       <guid>cid://https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-418/</guid>
-    </item>    <item>
-      <title>Reimagine the Date Picker – David Bushell – Web Dev (UK)</title>
-      <link>https://dbushell.com/2025/11/10/pikaday/</link>
-      <description>
-        <![CDATA[<p>This is a superb way to deprecate a little JavaScript library. Now that you can just use HTML instead, <a href="https://pikaday.dbushell.com/">the website for Pikaday</a> has been turned into a guide to choosing the right design pattern for your needs. Bravo!</p>
-        
-        <blockquote>
-          <p><a href="https://pikaday.dbushell.com/">Pikaday</a> is no longer a JavaScript date picker. Pikaday is now a friendly guide for front-end developers. I want to push developers away from the classic date picker entirely. Especially fat JavaScript libraries.</p>
-        </blockquote>
-        
-        <p><a href="https://adactio.com/links/22246">adactio.com/links/22246</a></p>]]>
-      </description>
-      <source:markdown>This is a superb way to deprecate a little JavaScript library. Now that you can just use HTML instead, [the website for Pikaday](https://pikaday.dbushell.com/) has been turned into a guide to choosing the right design pattern for your needs. Bravo!
-
-&#62; [Pikaday](https://pikaday.dbushell.com/) is no longer a JavaScript date picker. Pikaday is now a friendly guide for front-end developers. I want to push developers away from the classic date picker entirely. Especially fat JavaScript libraries.
-
-[adactio.com/links/22246](https://adactio.com/links/22246)</source:markdown>
-      <guid>cid://https://dbushell.com/2025/11/10/pikaday/</guid>
     </item>    <item>
       <title>La Rinconada, Peru</title>
       <link>https://daverupert.com/2025/11/la-rinconada-peru/</link>
@@ -3287,6 +3319,14 @@ The post [AI-enabled Hear The World device describes its surroundings](https://w
       </description>
       <source:markdown>The dam of AI-written doc contributions might be about to break. It’s already cracking for code, with posts [wondering](https://news.ycombinator.com/item?id=45744209) how to review a vibe-coded pull request consisting of nine thousand new lines of code. In the midst of what Tom Johnson [describes as acceleration](https://idratherbewriting.com/blog/ai-narrative-from-liberation-to-acceleration), docs-as-code writers wonder how to contain the seemingly inescapable wave that could bury their backlogs in AI slop. The answer could lie in taking a stance. This means crafting an AI policy for docs.</source:markdown>
       <guid>cid://https://passo.uno/ai-docs-policy-contributions/</guid>
+    </item>    <item>
+      <title>Reimagine the Date Picker</title>
+      <link>https://dbushell.com/2025/11/10/pikaday/</link>
+      <description>
+        <![CDATA[Wayyyyy back in 2012 I created the best date picker in the world! Pikaday on GitHub revels in 8k braggadocious stars but this year we decided to archive the project. Pikaday was old and tired. Personally I had successfully ignored it for years. […]]]>
+      </description>
+      <source:markdown>Wayyyyy back in 2012 I created the best date picker in the world! Pikaday on GitHub revels in 8k braggadocious stars but this year we decided to archive the project. Pikaday was old and tired. Personally I had successfully ignored it for years. \[…\]</source:markdown>
+      <guid>cid://https://dbushell.com/2025/11/10/pikaday/</guid>
     </item>    <item>
       <title>Coulou&#38;#8217;s vinyl cafe (no. 2). &#38;#8220;Even though we&#38;#8217;re traveling from jazz to...</title>
       <link>https://kottke.org/25/11/0047809-coulous-vinyl-cafe-no-2</link>
@@ -12155,6 +12195,14 @@ Tags: [open-source](https://simonwillison.net/tags/open-source), [debian](https:
       <source:markdown>I wrote a [bit](http://scripting.com/2025/10/29/184306.html#a184449) about Philippe Kahn the other day, and just remembered -- I forgot to write about [Turbo Pascal](https://daytona.scripting.com/search?q=%22Turbo%20Pascal%22). I had been using program compilers for C and Pascal for almost a decade when it came out, and it was shockingly different in a good way. Somehow it could compile a whole program in less than a second. Years before I had developed [ThinkTank](https://daytona.scripting.com/search?q=ThinkTank) on the Apple II and IBM PC using Pascal, and it often took _minutes_ to do the same thing! This changed languages in a great way -- later I would switch to [Think C](https://daytona.scripting.com/search?q=%22think%20c%22) that had the same instant compiling. There were other great things about Turbo Pascal, because the editor was integrated, so you could start that compilation with a single keystroke. He understood that the quicker this was, the more in a groove the developer could get. Imagine if you had to wait a minute before you could read the prose you just wrote? It used to be like that. Going back to the 70s it would sometimes take many minutes, and you could run out of time, and wouldn&#39;t be able to change the software until they added more money to your account. Like the horse and buggy days. How far we&#39;ve come.</source:markdown>
       <guid>cid://http://scripting.com/2025/11/01.html#a150230</guid>
     </item>    <item>
+      <title>Better Alt Text</title>
+      <link>https://dbushell.com/2025/11/01/better-alt-text/</link>
+      <description>
+        <![CDATA[It’s been a rare week where I was able to (mostly) ignore client comms and do whatever I wanted! That means perusing my “todo” list, scoffing at past me for believing I’d ever do half of it, and plucking out a gem. One of those gems was a link to “Developing an alt text button for images on [James’ […]]]>
+      </description>
+      <source:markdown>It’s been a rare week where I was able to (mostly) ignore client comms and do whatever I wanted! That means perusing my “todo” list, scoffing at past me for believing I’d ever do half of it, and plucking out a gem. One of those gems was a link to “Developing an alt text button for images on \[James’ \[…\]</source:markdown>
+      <guid>cid://https://dbushell.com/2025/11/01/better-alt-text/</guid>
+    </item>    <item>
       <link>http://scripting.com/2025/11/01.html#a144405</link>
       <description>
         <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2022/12/19/ucsdPascalManual.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">October <a href="https://github.com/scripting/Scripting-News/blob/master/blog/opml/2025/10.opml">blog posts</a> in <a href="http://opml.org/">OPML</a>. BTW, well-kept secret, I have a <a href="https://github.com/scripting/oldSchoolBlog">Node app</a> that takes one of these outlines and publishes it to the web, in the format you see on <a href="http://scripting.com/">Scripting News</a>. If you can get your text to flow through OPML this way, you can have a replica of this site, with most of its features. And you can totally customize it in CSS.  It's open source and very stable. It's called <a href="https://github.com/scripting/oldSchoolBlog">Old School</a> and I wrote it in 2017 because I wanted my old blog back, I was fed up with trying to fit into the very small world defined by Twitter, Google Reader, Facebook and Medium. I decided then the cost was too high, and I'd be much happier if I lived within the limits of <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a>, which is far better than the text formats defined by these other projects. Now I feel hopeful about this -- because <a href="https://daytona.scripting.com/search?q=%22brent%20simmons%22">Brent</a> is supporting <a href="https://daytona.scripting.com/search?q=source%3Amarkdown">source:markdown</a> in <a href="https://netnewswire.com/">NetNewsWire</a>. This is a big thing, because it will have the power to attract authors, developers of blogging systems, and other feed reading products.]]>
@@ -12175,6 +12223,14 @@ Tags: [open-source](https://simonwillison.net/tags/open-source), [debian](https:
       </description>
       <source:markdown>The unique thing about neighbors is you can try to divorce them, but no matter what you do they will still be neighbors. There are few relationships as permanent as neighbor. They don&#39;t have to listen to you. But you should listen anyway, and try to figure out how they look at the neighborhood. Probably very differently from the way you view it.</source:markdown>
       <guid>cid://http://scripting.com/2025/11/01.html#a142554</guid>
+    </item>    <item>
+      <title>Intent to Deprecate and Remove Google Chrome</title>
+      <link>https://dbushell.com/2025/11/01/intent-to-deprecate-and-remove-google-chrome/</link>
+      <description>
+        <![CDATA[Summary Chrome v1.0, which all Google users adhere to, was standardized in 2008. In the meantime, alternate browsers have evolved, adding privacy features, and growing apart from the old data sharing model frozen into Chrome. This lack of advancement, coupled with the rise of privacy focused tools […]]]>
+      </description>
+      <source:markdown>Summary Chrome v1.0, which all Google users adhere to, was standardized in 2008. In the meantime, alternate browsers have evolved, adding privacy features, and growing apart from the old data sharing model frozen into Chrome. This lack of advancement, coupled with the rise of privacy focused tools \[…\]</source:markdown>
+      <guid>cid://https://dbushell.com/2025/11/01/intent-to-deprecate-and-remove-google-chrome/</guid>
     </item>    <item>
       <title>2025-11-01 COVID-19 vaccination</title>
       <link>https://alexschroeder.ch/view/2025-11-01-covid</link>
@@ -14999,20 +15055,6 @@ And the _real_ takeaway:
 [adactio.com/links/22221](https://adactio.com/links/22221)</source:markdown>
       <guid>cid://https://www.lorenstew.art/blog/10-kanban-boards</guid>
     </item>    <item>
-      <title>Is it Time to Regulate React? – David Bushell – Web Dev (UK)</title>
-      <link>https://dbushell.com/2025/10/23/react-regulation/</link>
-      <description>
-        <![CDATA[<blockquote>
-          <p>React exists as a profound perversion of the web platform. React has failed upwards to widespread adoption because it provides a “developer experience” that bypasses the hard parts. Like learning HTML, or CSS, or JavaScript. Even learning React <em>itself</em> is discouraged; that’s for adults, you should use meta-frameworks. React devs are burdened with multi-megabyte monstrosities before they’ve written a single line of code. You cannot fix “too much JavaScript” with <em>more</em> JavaScript and yet React devs are trained to <code>npm install</code> until their problems become their users’ problems.</p>
-        </blockquote>
-        
-        <p><a href="https://adactio.com/links/22220">adactio.com/links/22220</a></p>]]>
-      </description>
-      <source:markdown>&#62; React exists as a profound perversion of the web platform. React has failed upwards to widespread adoption because it provides a “developer experience” that bypasses the hard parts. Like learning HTML, or CSS, or JavaScript. Even learning React _itself_ is discouraged; that’s for adults, you should use meta-frameworks. React devs are burdened with multi-megabyte monstrosities before they’ve written a single line of code. You cannot fix “too much JavaScript” with _more_ JavaScript and yet React devs are trained to `npm install` until their problems become their users’ problems.
-
-[adactio.com/links/22220](https://adactio.com/links/22220)</source:markdown>
-      <guid>cid://https://dbushell.com/2025/10/23/react-regulation/</guid>
-    </item>    <item>
       <title>Why I Give My Books Away For Free</title>
       <link>https://lithub.com/why-i-give-my-books-away-for-free/</link>
       <description>
@@ -16384,6 +16426,14 @@ There were [security lapses](https://www.theatlantic.com/ideas/archive/2025/10/p
       <title>Behind the Design: Adobe Premiere on iOS</title>
       <link>https://adobe.design/stories/process/behind-the-design-adobe-premiere-on-ios</link>
       <guid>cid://tag:daringfireball.net,2025:/linked//6.42317</guid>
+    </item>    <item>
+      <title>Custom Cursor Accessibility</title>
+      <link>https://dbushell.com/2025/10/27/custom-cursor-accessibility/</link>
+      <description>
+        <![CDATA[For the unaware, macOS has settings or preferences or whatever it’s renamed tomorrow. Buried deep within this UI labyrinth are pointer settings. Windows has similar hidden behind Candy Crush ads and Copilot slopware. Personally, I find the default “normal” cursor ludicrously small on my 14-inch […]]]>
+      </description>
+      <source:markdown>For the unaware, macOS has settings or preferences or whatever it’s renamed tomorrow. Buried deep within this UI labyrinth are pointer settings. Windows has similar hidden behind Candy Crush ads and Copilot slopware. Personally, I find the default “normal” cursor ludicrously small on my 14-inch \[…\]</source:markdown>
+      <guid>cid://https://dbushell.com/2025/10/27/custom-cursor-accessibility/</guid>
     </item>    <item>
       <title>Writers Beware: On the Dangerous Fine Print of Creative Contract Law</title>
       <link>https://lithub.com/writers-beware-on-the-dangerous-fine-print-of-creative-contract-law/</link>
@@ -19976,6 +20026,14 @@ Jeff GeerlingOctober 23, 2025</source:markdown>
       <source:markdown>Johnson had reportedly been asleep when a backhoe came crashing through the wall of his master bedroom.</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!nhMg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7499147c-6cbf-4f99-ac2f-b70d5a233933_1080x810.heic" length="0" type="image/jpeg" />
       <guid>cid://https://www.borowitzreport.com/p/mike-johnson-has-no-comment-after</guid>
+    </item>    <item>
+      <title>Is it Time to Regulate React?</title>
+      <link>https://dbushell.com/2025/10/23/react-regulation/</link>
+      <description>
+        <![CDATA[Regulate?! Sounds like rage bait. I’ll try not to disappoint. It’s right to balk at the idea of government intervention in your sacred tech stack. Legislation from tech-ignorant bloviates? The last resort for an industry that fails to self-regulate. But I dare say React is tempting that fate! […]]]>
+      </description>
+      <source:markdown>Regulate?! Sounds like rage bait. I’ll try not to disappoint. It’s right to balk at the idea of government intervention in your sacred tech stack. Legislation from tech-ignorant bloviates? The last resort for an industry that fails to self-regulate. But I dare say React is tempting that fate! \[…\]</source:markdown>
+      <guid>cid://https://dbushell.com/2025/10/23/react-regulation/</guid>
     </item>    <item>
       <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m3uljx7wf22t</link>
       <description>

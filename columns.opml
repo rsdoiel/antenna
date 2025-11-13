@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>13 Nov 25 10:12 -0800</dateCreated>
+        <dateCreated>13 Nov 25 14:10 -0800</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -56,6 +56,7 @@
         <outline text="Curious about everything blog" type="rss" xmlUrl="https://jodiettenberg.substack.com/feed" htmlUrl="https://jodiettenberg.substack.com,https://jodiettenberg.substack.com/feed" description="A monthly roundup of the most interesting writing from around the web" url="https://jodiettenberg.substack.com/feed"></outline>
         <outline text="CutiePi Blog" type="rss" xmlUrl="https://medium.com/feed/cutiepi" htmlUrl="https://medium.com/cutiepi?source=rss----ca892aa3ed33---4,https://medium.com/feed/cutiepi" description="News and updates about cutiepi.io - Medium" url="https://medium.com/feed/cutiepi"></outline>
         <outline text="Cynthia Kiser&#39;s blog" type="atom" xmlUrl="http://cynthiakiser.com/feed.xml" htmlUrl="/feed.xml,/" description="Coding &amp; sysadmin snippets" url="/feed.xml"></outline>
+        <outline text="DAve Bushell blog" type="rss" xmlUrl="https://dbushell.com/rss.xml" htmlUrl="https://dbushell.com/blog/,https://dbushell.com/rss.xml" description="David Bushell’s Blog only feed" url="https://dbushell.com/rss.xml"></outline>
         <outline text="Dalton Caldwell Blog" type="atom" xmlUrl="http://daltoncaldwell.com/feed" htmlUrl="http://daltoncaldwell.com,http://daltoncaldwell.com/feed" url="http://daltoncaldwell.com/feed"></outline>
         <outline text="Dan Rather&#39;s Steady" type="rss" xmlUrl="https://steady.substack.com/feed" htmlUrl="https://steady.substack.com,https://steady.substack.com/feed" description="Dan Rather&#39;s steady take on a complex and chaotic world. " url="https://steady.substack.com/feed"></outline>
         <outline text="Daniel Stenberg Blog" type="rss" xmlUrl="https://daniel.haxx.se/blog/feed/" htmlUrl="https://daniel.haxx.se/blog,https://daniel.haxx.se/blog/feed/" description="curl, open source and networking" url="https://daniel.haxx.se/blog/feed/"></outline>
