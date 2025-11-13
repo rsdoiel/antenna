@@ -331,5 +331,5 @@ description: Blogs, columns and snapshots from around the web.
 - [Tina Brown's blog](https://tinabrown.substack.com/feed)
 - [Sarah Kendzior](https://sarahkendzior.com/feed/)
 - [Sarah Kendzior, substack](https://sarahkendzior.substack.com/feed
-
+- [DAve Bushell blog](https://dbushell.com/rss.xml)
 
