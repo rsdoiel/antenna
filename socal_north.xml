@@ -7,10 +7,50 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>12 Nov 25 14:11 -0800</lastBuildDate>
+    <lastBuildDate>13 Nov 25 06:24 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Artist Gary Tyler turns 40 years of wrongful imprisonment into powerful textiles</title>
+      <link>https://laist.com/news/arts-and-entertainment/artist-gary-tyler-turns-40-years-of-wrongful-imprisonment-into-powerful-textiles</link>
+      <description>
+        <![CDATA[An exhibition of Tyler’s quilts captures scenes of humanity from within the notorious Louisiana State Penitentiary.]]>
+      </description>
+      <source:markdown>An exhibition of Tyler’s quilts captures scenes of humanity from within the notorious Louisiana State Penitentiary.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-7a37-d7d8-a19b-fab7b7e80000</guid>
+    </item>    <item>
+      <title>Best things to do in LA and SoCal: Nov. 14-16</title>
+      <link>https://laist.com/news/arts-and-entertainment/best-events-weekend-los-angeles-southern-california-november-14-16</link>
+      <description>
+        <![CDATA[Benny Boy Brewery wants YOU to crush apples. Plus, Venice Open Studios and Baratunde Thurston in Long Beach.]]>
+      </description>
+      <source:markdown>Benny Boy Brewery wants YOU to crush apples. Plus, Venice Open Studios and Baratunde Thurston in Long Beach.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-7571-d7a4-abff-757505980000</guid>
+    </item>    <item>
+      <title>The longest government shutdown in US history comes to a close</title>
+      <link>https://laist.com/the-longest-government-shutdown-in-us-history-comes-to-a-close</link>
+      <description>
+        <![CDATA[President Trump signed a bill to fund the government through the end of January, ending the shutdown that has dragged on for six weeks.]]>
+      </description>
+      <source:markdown>President Trump signed a bill to fund the government through the end of January, ending the shutdown that has dragged on for six weeks.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-7b8f-d439-a99a-ffff51110000</guid>
+    </item>    <item>
+      <title>Federal judge overseeing homelessness settlement with LA will consider holding city in contempt</title>
+      <link>https://laist.com/news/federal-judge-to-consider-holding-la-in-contempt-of-court-in-homelessness-lawsuit</link>
+      <description>
+        <![CDATA[The contempt hearing is scheduled for next Wednesday. It's the latest in a long-running legal saga over the city’s response to the homelessness crisis.]]>
+      </description>
+      <source:markdown>The contempt hearing is scheduled for next Wednesday. It&#39;s the latest in a long-running legal saga over the city’s response to the homelessness crisis.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-7ac4-d439-a99a-fef6ceee0000</guid>
+    </item>    <item>
+      <title>LA reforms rent control for first time in 40 years, lowering rent hikes for most tenants</title>
+      <link>https://laist.com/news/housing-homelessness/los-angeles-city-rent-control-stabilization-vote-three-percent-increase-housing-landlord-tenant</link>
+      <description>
+        <![CDATA[Under the reforms approved by a majority of City Council members, rent hikes would be capped at 4%, even if inflation in the overall economy runs higher.]]>
+      </description>
+      <source:markdown>Under the reforms approved by a majority of City Council members, rent hikes would be capped at 4%, even if inflation in the overall economy runs higher.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-79f4-d439-a99a-fff6e9570001</guid>
+    </item>    <item>
       <title>Know Before You Go: Parking and Transportation Tips for Light Up Main Street</title>
       <link>https://santaclarita.gov/blog/2025/11/12/know-before-you-go-parking-and-transportation-tips-for-light-up-main-street/</link>
       <description>
@@ -22,7 +62,7 @@
 The post [Know Before You Go: Parking and Transportation Tips for Light Up Main Street](https://santaclarita.gov/blog/2025/11/12/know-before-you-go-parking-and-transportation-tips-for-light-up-main-street/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
       <guid>cid://https://santaclarita.gov/?p=7071</guid>
     </item>    <item>
-      <title>Brace for unpredictable and heavy rain. Evacuation warnings already issued for parts of SoCal</title>
+      <title>Get ready for flooding and mudslides. Here&#39;s the latest on the unpredictable storm headed for SoCal</title>
       <link>https://laist.com/news/climate-environment/socal-rain-forecast-evacuations-burn-zones</link>
       <description>
         <![CDATA[The upcoming storm has been tough for forecasters to nail down. The latest prediction is that the heaviest rain could arrive anytime between Thursday and Saturday.]]>
@@ -1729,9 +1769,9 @@ The post [Costumes, Candy and Caution](https://santaclarita.gov/blog/2025/10/30/
       <title>Need food assistance? Where to go when CalFresh and WIC benefits are delayed</title>
       <link>https://laist.com/news/food-assistance-where-to-go-calfresh-wic-benefits-stop</link>
       <description>
-        <![CDATA[We’ve compiled a list of resources throughout Los Angeles and Orange counties to help fill the gap while the federal shutdown continues.]]>
+        <![CDATA[We’ve compiled a list of resources throughout Los Angeles and Orange counties to help fill the gap as the effects of the federal shutdown linger.]]>
       </description>
-      <source:markdown>We’ve compiled a list of resources throughout Los Angeles and Orange counties to help fill the gap while the federal shutdown continues.</source:markdown>
+      <source:markdown>We’ve compiled a list of resources throughout Los Angeles and Orange counties to help fill the gap as the effects of the federal shutdown linger.</source:markdown>
       <guid>cid://urn:uuid:0000019a-2d27-d84d-affa-efef9a610000</guid>
     </item>    <item>
       <title>Is your ballot signature readable? Here&#39;s how SoCal officials verify it when you vote</title>
@@ -2669,165 +2709,6 @@ The post [Parenting for Prevention Brings Tools and Support to Every Family](htt
       </description>
       <source:markdown>A new study addresses the question, concluding that climate change increased the likelihood of the fires and boosted the amount of land that burned.</source:markdown>
       <guid>cid://urn:uuid:0000019a-079a-d555-a1db-cfda07a20000</guid>
-    </item>    <item>
-      <title>ICE keeps detaining pregnant immigrants — against federal policy</title>
-      <link>https://laist.com/news/politics/ice-keeps-detaining-pregnant-immigrants-against-federal-policy</link>
-      <description>
-        <![CDATA[But the number is impossible to measure since Congress let lapse a requirement that ICE report how many pregnant, postpartum and nursing immigrants are in custody.]]>
-      </description>
-      <source:markdown>But the number is impossible to measure since Congress let lapse a requirement that ICE report how many pregnant, postpartum and nursing immigrants are in custody.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-0d21-d6de-afbf-bfebb4e70000</guid>
-    </item>    <item>
-      <title>Why did a proposal to charge drivers on a troubled Rancho Palos Verdes highway stall?</title>
-      <link>https://laist.com/news/transportation/why-did-a-proposal-to-charge-drivers-on-a-troubled-rancho-palos-verdes-highway-stall</link>
-      <description>
-        <![CDATA[City staff reported a potential toll road could cost the city hundreds of thousands of dollars and take years to complete.]]>
-      </description>
-      <source:markdown>City staff reported a potential toll road could cost the city hundreds of thousands of dollars and take years to complete.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-0dc9-d86a-a39b-3dc982960000</guid>
-    </item>    <item>
-      <title>Saturday&#39;s 19th annual Santa Ynez Chumash Culture Day | Photos</title>
-      <link>https://santamariatimes.com/lifestyles/saturdays-19th-annual-santa-ynez-chumash-culture-day-photos/collection_fcebc438-e99c-4e6c-aafa-34079c3b64a1.html#2</link>
-      <description>
-        <![CDATA[The Santa Ynez Band of Chumash Indians hosted California-style Native 
-        American singing, dancing, food and games at the 19th annual Santa Ynez 
-        Chumash Culture Day on Saturday.]]>
-      </description>
-      <source:markdown>The Santa Ynez Band of Chumash Indians hosted California-style Native
-American singing, dancing, food and games at the 19th annual Santa Ynez
-Chumash Culture Day on Saturday.</source:markdown>
-      <guid>cid://5ce1c6e64abe9e0001603b00:5ce1fd41a265cb000118d783:68fa9ecb01d8c61ee9b12363</guid>
-    </item>    <item>
-      <title>Tracking Newsom’s record on pro-LGBTQ+ laws signed and vetoed this session</title>
-      <link>https://laist.com/news/politics/tracking-newsoms-record-on-pro-lgbtq-laws-signed-and-vetoed-this-session</link>
-      <description>
-        <![CDATA[Newsom signs a dozen of laws supporting LGBTQ+ community.]]>
-      </description>
-      <source:markdown>Newsom signs a dozen of laws supporting LGBTQ+ community.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-0d4d-d19a-a5da-1fef418c0000</guid>
-    </item>    <item>
-      <title>Why the legal clock is now ticking on Huntington Beach&#39;s voter ID law</title>
-      <link>https://laist.com/news/politics/huntington-beach-voter-id-law-legal-clock-now-ticking</link>
-      <description>
-        <![CDATA[A California appeals court has 90 days to issue an opinion in the controversial matter.]]>
-      </description>
-      <source:markdown>A California appeals court has 90 days to issue an opinion in the controversial matter.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-0d90-d86a-a39b-3dd0c9da0000</guid>
-    </item>    <item>
-      <title>Scam calls are on the rise. How can you protect yourself?</title>
-      <link>https://laist.com/news/scam-calls-are-on-the-rise-how-can-you-protect-yourself</link>
-      <description>
-        <![CDATA[We talk to an expert about how to safeguard yourself from those pesky robocalls.]]>
-      </description>
-      <source:markdown>We talk to an expert about how to safeguard yourself from those pesky robocalls.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-073b-d0fc-a5df-cfbb4ce40001</guid>
-    </item>    <item>
-      <title>Why California’s historic housing law gave activists a new reason to battle the bus</title>
-      <link>https://laist.com/news/housing-homelessness/why-california-housing-law-gave-activists-a-new-reason-to-battle-the-bus</link>
-      <description>
-        <![CDATA[After Gov. Gavin Newsom signed a law to allow mid-rise apartment buildings near major transit stops, opponents of new housing have a new reason to battle the bus.]]>
-      </description>
-      <source:markdown>After Gov. Gavin Newsom signed a law to allow mid-rise apartment buildings near major transit stops, opponents of new housing have a new reason to battle the bus.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-0cd0-daca-a9bf-8df89f890000</guid>
-    </item>    <item>
-      <title>Long Beach Baseball Club narrows potential team names to three. Here’s how to help decide</title>
-      <link>https://laist.com/news/long-beach-baseball-club-narrows-potential-team-names-to-three-how-to-help-decide</link>
-      <description>
-        <![CDATA[The team says each name is “VERY Long Beach” and nods to pieces of the city’s character.]]>
-      </description>
-      <source:markdown>The team says each name is “VERY Long Beach” and nods to pieces of the city’s character.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-0d22-d86a-a39b-3de260970000</guid>
-    </item>    <item>
-      <title>Newsom to deploy CA National Guard after millions at risk of delayed food assistance during shutdown</title>
-      <link>https://laist.com/news/newsom-to-deploy-ca-national-guard-delayed-food-assistance-federal-shutdown</link>
-      <description>
-        <![CDATA[The state is setting aside $80 million for support and deployment.]]>
-      </description>
-      <source:markdown>The state is setting aside $80 million for support and deployment.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-0cf6-d6de-afbf-befe31b00000</guid>
-    </item>    <item>
-      <title>‘I was born for this’: Dodgers-themed pizza palace LaSorted’s gears up to welcome World Series watchers</title>
-      <link>https://laist.com/news/los-angeles-activities/dodgers-themed-pizza-palace-lasorteds-gears-up-world-series</link>
-      <description>
-        <![CDATA[Named in honor of the beloved Dodgers manager Tommy Lasorda, the Chinatown restaurant is a shrine to the Boys in Blue.]]>
-      </description>
-      <source:markdown>Named in honor of the beloved Dodgers manager Tommy Lasorda, the Chinatown restaurant is a shrine to the Boys in Blue.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-0cee-d86a-a39b-3deee59b0000</guid>
-    </item>    <item>
-      <title>“Autumn Views” in City Hall’s First Floor Gallery</title>
-      <link>https://santaclarita.gov/blog/2025/10/22/autumn-views-in-city-halls-first-floor-gallery/</link>
-      <description>
-        <![CDATA[<p>Celebrating the Beauty, Warmth and Reflection of the Fall Season The City of Santa Clarita is pleased to present its latest art exhibition,&#160;Autumn Views, on display in the First Floor Gallery at City Hall (23920 Valencia Boulevard) now through Tuesday, December 9. A free, public reception will be held on Friday, November 14, from 6:00 [&#8230;]</p>
-        <p>The post <a href="https://santaclarita.gov/blog/2025/10/22/autumn-views-in-city-halls-first-floor-gallery/">“Autumn Views&#8221; in City Hall&#8217;s First Floor Gallery</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
-      </description>
-      <source:markdown>Celebrating the Beauty, Warmth and Reflection of the Fall Season The City of Santa Clarita is pleased to present its latest art exhibition, Autumn Views, on display in the First Floor Gallery at City Hall (23920 Valencia Boulevard) now through Tuesday, December 9. A free, public reception will be held on Friday, November 14, from 6:00 \[…\]
-
-The post [“Autumn Views” in City Hall’s First Floor Gallery](https://santaclarita.gov/blog/2025/10/22/autumn-views-in-city-halls-first-floor-gallery/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
-      <guid>cid://https://santaclarita.gov/?p=6884</guid>
-    </item>    <item>
-      <title>Trump uses &#39;common sense&#39; to make a political point. It has populist appeal</title>
-      <link>https://laist.com/news/trump-uses-common-sense-political-point-it-has-populist-appeal</link>
-      <description>
-        <![CDATA[The phrase appeals more to several demographics that strongly align with Trump, says Republican strategist Frank Luntz, including older voters, for whom he suggests it signals "a more simple past."]]>
-      </description>
-      <source:markdown>The phrase appeals more to several demographics that strongly align with Trump, says Republican strategist Frank Luntz, including older voters, for whom he suggests it signals &#34;a more simple past.&#34;</source:markdown>
-      <guid>cid://urn:uuid:0000019a-0ce3-d86a-a39b-3de3c1d40000</guid>
-    </item>    <item>
-      <title>LA to offer up to $5,000 reward to help catch copper and metal thieves</title>
-      <link>https://laist.com/news/transportation/lapd-reward-metal-theft</link>
-      <description>
-        <![CDATA[The amount of money depends on the type of offense.]]>
-      </description>
-      <source:markdown>The amount of money depends on the type of offense.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-0cc3-d6de-afbf-beeb485a0000</guid>
-    </item>    <item>
-      <title>American &#39;Bibisitters&#39; try to keep the Israel-Hamas truce on track</title>
-      <link>https://laist.com/news/american-bibisitters-try-to-keep-the-israel-hamas-truce-on-track</link>
-      <description>
-        <![CDATA[Several top U.S. officials are in Israel to shore up the Gaza ceasefire and attempt to bring about a permanent end to the war. They acknowledge the next phase poses serious challenges.]]>
-      </description>
-      <source:markdown>Several top U.S. officials are in Israel to shore up the Gaza ceasefire and attempt to bring about a permanent end to the war. They acknowledge the next phase poses serious challenges.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-0cbd-d86a-a39b-3dfd90340000</guid>
-    </item>    <item>
-      <title>The federal government is still shut down. Here&#39;s what that means across the country</title>
-      <link>https://laist.com/news/politics/federal-government-is-still-shut-down-what-it-means</link>
-      <description>
-        <![CDATA[The federal government remains shut down. The NPR Network is following the ways the shutdown is affecting services across the country.]]>
-      </description>
-      <source:markdown>The federal government remains shut down. The NPR Network is following the ways the shutdown is affecting services across the country.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-0c9e-d555-a1db-ccdefef80000</guid>
-    </item>    <item>
-      <title>Trump pick to lead watchdog agency withdraws after offensive text messages revealed</title>
-      <link>https://laist.com/news/trump-pick-to-lead-watchdog-agency-withdraws-after-offensive-text-messages-revealed</link>
-      <description>
-        <![CDATA[President Trump's pick to lead a federal watchdog agency withdrew from consideration Tuesday evening after his offensive text messages were made public and GOP senators revolted.]]>
-      </description>
-      <source:markdown>President Trump&#39;s pick to lead a federal watchdog agency withdrew from consideration Tuesday evening after his offensive text messages were made public and GOP senators revolted.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-0c51-dd50-addf-7ddf04e10000</guid>
-    </item>    <item>
-      <title>Anaheim whistleblower alleges millions in taxpayer dollars wasted</title>
-      <link>https://laist.com/news/anaheim-whistleblower</link>
-      <description>
-        <![CDATA[A tort claim obtained by LAist via a public records request alleges the Anaheim procurement department lacks basic contracting procedures and oversight.]]>
-      </description>
-      <source:markdown>A tort claim obtained by LAist via a public records request alleges the Anaheim procurement department lacks basic contracting procedures and oversight.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-07bd-d0fc-a5df-cfbf215a0000</guid>
-    </item>    <item>
-      <title>Altadena Girls pop-up creates a permanent space where teenage fire survivors can just feel normal</title>
-      <link>https://laist.com/news/altadena-girls-eaton-fire-recovery-pasadena-open-volunteer-donations</link>
-      <description>
-        <![CDATA[An effort to bring free clothes, toiletries and a sense of normalcy to girls displaced by January’s fires now has a physical home in Old Town Pasadena.]]>
-      </description>
-      <source:markdown>An effort to bring free clothes, toiletries and a sense of normalcy to girls displaced by January’s fires now has a physical home in Old Town Pasadena.</source:markdown>
-      <guid>cid://urn:uuid:00000199-bbe4-dbfa-afdf-bfe5c92d0000</guid>
-    </item>    <item>
-      <title>Recall, redux? Democrats and Republicans bring back familiar arguments in Proposition 50 battle</title>
-      <link>https://laist.com/news/politics/proposition-50-battle-democrats-republicans</link>
-      <description>
-        <![CDATA[Similar to the failed recall effort against Gov. Gavin Newsom in 2021, the vote over redistricting is turning on opinions of him and Trump.]]>
-      </description>
-      <source:markdown>Similar to the failed recall effort against Gov. Gavin Newsom in 2021, the vote over redistricting is turning on opinions of him and Trump.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-0967-d0fc-a5df-c9efd08f0000</guid>
     </item>
   </channel>
 </rss>
