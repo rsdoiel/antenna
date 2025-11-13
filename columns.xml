@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>13 Nov 25 06:23 -0800</lastBuildDate>
+    <lastBuildDate>13 Nov 25 10:12 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -140,6 +140,634 @@ comprise this release.
 As always, do give this release a try and open a [ticket](https://gitlab.haskell.org/ghc/ghc/-/issues/new) if you see
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
+    </item>    <item>
+      <title>There is Only One Way Out</title>
+      <link>https://www.notesfromthecircus.com/p/there-is-only-one-way-out</link>
+      <description>
+        <![CDATA[I&#8217;ve been re-watching Tony Gilroy&#8217;s masterpiece Andor. In the first season, the story reaches one of its most evocative moral crescendos when Andy Serkis&#8217; character, Kino Loy, delivers one of the most stirring monologues in contemporary screenwriting. &#8220;One way out&#8221; became the meme, the rallying cry. But nestled inside that monologue is the line that matters most:]]>
+      </description>
+      <source:markdown>I’ve been re-watching Tony Gilroy’s masterpiece Andor. In the first season, the story reaches one of its most evocative moral crescendos when Andy Serkis’ character, Kino Loy, delivers one of the most stirring monologues in contemporary screenwriting. “One way out” became the meme, the rallying cry. But nestled inside that monologue is the line that matters most:</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!aAu8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec478baa-bccb-4b12-9f43-b89c32f4e309_1506x882.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/there-is-only-one-way-out</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115543663283463085</link>
+      <description>
+        <![CDATA[<p>This is lovely <a href="https://mastodon.gamedev.place/@godotengine/115543655213589423" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.gamedev.place/@godote</span><span class="invisible">ngine/115543655213589423</span></a></p>]]>
+      </description>
+      <source:markdown>This is lovely [https://mastodon.gamedev.place/@godotengine/115543655213589423](https://mastodon.gamedev.place/@godotengine/115543655213589423)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115543663283463085</guid>
+    </item>    <item>
+      <title>I’m definitely going to be sent on a side quest.</title>
+      <link>https://adactio.com/notes/22250</link>
+      <description>
+        <![CDATA[<img src="https://adactio.com/images/uploaded/22250/small.jpg" srcset="https://adactio.com/images/uploaded/22250/medium.jpg 1.5x, https://adactio.com/images/uploaded/22250/large.jpg 2.5x" alt="I’m definitely going to be sent on a side quest." />
+        <p>I’m definitely going to be sent on a side quest.</p>]]>
+      </description>
+      <source:markdown>![I’m definitely going to be sent on a side quest.](https://adactio.com/images/uploaded/22250/small.jpg)
+
+I’m definitely going to be sent on a side quest.</source:markdown>
+      <guid>cid://https://adactio.com/notes/22250</guid>
+    </item>    <item>
+      <title>Brené Brown on What It Takes to Lead with Courage</title>
+      <link>https://guykawasaki.substack.com/p/brene-brown-on-what-it-takes-to-lead</link>
+      <description>
+        <![CDATA[In a world that often rewards speed over depth, Bren&#233; Brown reminds us that real strength begins with stillness.]]>
+      </description>
+      <source:markdown>In a world that often rewards speed over depth, Brené Brown reminds us that real strength begins with stillness.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Lfd5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e72c519-0c97-4e98-ae0d-6c52afe75d9f_1080x1080.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://guykawasaki.substack.com/p/brene-brown-on-what-it-takes-to-lead</guid>
+    </item>    <item>
+      <title>&#62; Technology isn’t destiny, no matter how inexorable its evolution may seem; the way its capabilities are used is as much a matter of cultural choice and historical accident as politics is, or fashion. — M. Mitchell Waldrop</title>
+      <link>https://adactio.com/notes/22249</link>
+      <description>
+        <![CDATA[<blockquote>
+          <p>Technology isn’t destiny, no matter how inexorable its evolution may seem; the way its capabilities are used is as much a matter of cultural choice and historical accident as politics is, or fashion.</p>
+        </blockquote>
+        
+        <p>— M. Mitchell Waldrop</p>]]>
+      </description>
+      <source:markdown>&#62; Technology isn’t destiny, no matter how inexorable its evolution may seem; the way its capabilities are used is as much a matter of cultural choice and historical accident as politics is, or fashion.
+
+— M. Mitchell Waldrop</source:markdown>
+      <guid>cid://https://adactio.com/notes/22249</guid>
+    </item>    <item>
+      <title>&#62; All I’ve ever wanted from life is a genuinely great SVG vector illustration of a pelican riding a bicycle. — Simon Willison, What happens if AI labs train for pelicans riding bicycles?</title>
+      <link>https://adactio.com/notes/22248</link>
+      <description>
+        <![CDATA[<blockquote>
+          <p>All I’ve ever wanted from life is a genuinely great SVG vector illustration of a pelican riding a bicycle.</p>
+        </blockquote>
+        
+        <p>— Simon Willison, <a href="https://simonwillison.net/2025/Nov/13/training-for-pelicans-riding-bicycles/">What happens if AI labs train for pelicans riding bicycles?</a></p>]]>
+      </description>
+      <source:markdown>&#62; All I’ve ever wanted from life is a genuinely great SVG vector illustration of a pelican riding a bicycle.
+
+— Simon Willison, [What happens if AI labs train for pelicans riding bicycles?](https://simonwillison.net/2025/Nov/13/training-for-pelicans-riding-bicycles/)</source:markdown>
+      <guid>cid://https://adactio.com/notes/22248</guid>
+    </item>    <item>
+      <title>She Says Trump Raped Her When She Was a Child</title>
+      <link>https://www.borowitzreport.com/p/she-says-trump-raped-her-when-she</link>
+      <description>
+        <![CDATA[The Andy Borowitz Show]]>
+      </description>
+      <source:markdown>The Andy Borowitz Show</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/178731505/596630c483122c26da082c47fcea9bfc.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/she-says-trump-raped-her-when-she</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/13.html#a165641</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2020/09/25/sorry.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Here's what I'm doing. I want to get all my blog posts together in one place. I still want to use Electric Drummer to write stuff for scripting.com, there's a whole system built around it being where it is. But, I want all the posts on scripting to also appear on the daveverse site, so that they first version of my discourse module can be simple to create, debug and use. So I've got the first half working, I've got a script that hooks in via WebSockets to FeedLand and is notified every time Scripting News updates. It mirrors the updates to a site on WordPress (for testing) and once it works, I'll have it send the stuff to Daveverse. That part remains to be done. Not sure if it'll be a desktop app or a server-based app. But now I need a break. ;-)]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2020/09/25/sorry.png)Here&#39;s what I&#39;m doing. I want to get all my blog posts together in one place. I still want to use Electric Drummer to write stuff for scripting.com, there&#39;s a whole system built around it being where it is. But, I want all the posts on scripting to also appear on the daveverse site, so that they first version of my discourse module can be simple to create, debug and use. So I&#39;ve got the first half working, I&#39;ve got a script that hooks in via WebSockets to FeedLand and is notified every time Scripting News updates. It mirrors the updates to a site on WordPress (for testing) and once it works, I&#39;ll have it send the stuff to Daveverse. That part remains to be done. Not sure if it&#39;ll be a desktop app or a server-based app. But now I need a break. ;-)</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/13.html#a165641</guid>
+    </item>    <item>
+      <title>Alchemy - Josh Collinsworth blog</title>
+      <link>https://joshcollinsworth.com/blog/alchemy</link>
+      <description>
+        <![CDATA[<blockquote>
+          <p>I am interested in art—<em>we</em> are interested in art, in any and all of its forms—<em>because</em> humans made it. That’s the very thing that makes it interesting; the <em>who</em>, the <em>how</em>, and especially the <em>why</em>.</p>
+          
+          <p>The existence of the work itself is only part of the point, and materializing an image out of thin air misses the point of art, in very much the same way that putting a football into a Waymo to drive it up and down the street for a few hours would be entirely missing the point of sports.</p>
+        </blockquote>
+        
+        <p><a href="https://adactio.com/links/22247">adactio.com/links/22247</a></p>]]>
+      </description>
+      <source:markdown>&#62; I am interested in art— _we_ are interested in art, in any and all of its forms— _because_ humans made it. That’s the very thing that makes it interesting; the _who_, the _how_, and especially the _why_.
+&#62;
+&#62; The existence of the work itself is only part of the point, and materializing an image out of thin air misses the point of art, in very much the same way that putting a football into a Waymo to drive it up and down the street for a few hours would be entirely missing the point of sports.
+
+[adactio.com/links/22247](https://adactio.com/links/22247)</source:markdown>
+      <guid>cid://https://joshcollinsworth.com/blog/alchemy</guid>
+    </item>    <item>
+      <title>A Newsletter of Humorous Writing #418</title>
+      <link>https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-418/</link>
+      <description>
+        <![CDATA[<h3><em>For November 5-11, 2025</em></h3>
+        <p>Hello and welcome to <strong>A Newsletter of Humorous Writing</strong>, a roundup of the week's finest short humor pieces and funny articles, and a celebration of the fantastic writers who wrote them. Lately, a lot of readers have been writing in to tell us about a problem that they’ve been having: They’re always getting the recent TV shows “Mare of Easttown” and “Mayor of Kingstown” confused. To help, we’ve come up with this handy rhyme: “If the town be East, with Winslet you’ll feast. If the town be Kings, then Renner it brings.” Hope that helps!</p>
+        <hr/><h2>What We Enjoyed This Week</h2>
+        <p><a href="https://www.pointsincase.com/articles/im-hosting-a-chic-party-in-a-comedy-movie-and-nobody-will-end-up-in-that-pool?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-418" rel="noopener noreferrer nofollow" target="_blank"><strong>I’m Hosting a Chic Party in a Comedy Movie and NOBODY WILL END UP IN THAT POOL</strong></a><strong> by </strong><a href="https://www.pointsincase.com/author/carly-silverman?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-418" rel="author" target="_blank"><strong>Carly Silverman</strong></a><strong> </strong><em>(Points in Case)</em> So much of the fun of this piece comes from the way that Carly lets the readers connect the dots themselves. She sets up all the different elements of this party and leaves it to us to imagine, in a very satisfying way, what it will be like when all hell eventually breaks loose. “On the docket for this soiree? Polite conversation, smiling, inoffensive jokes, tittering, sipping martinis, light sneering, watch checking, soft applause for a titillating announcement, and staying dry.”</p>
+        <p><a href="https://www.mcsweeneys.net/articles/please-consider-my-mom-kathy-for-the-next-golden-bachelorette?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-418" rel="noopener noreferrer nofollow" target="_blank"><strong>Please Consider My Mom, Kathy, for the Next <em>Golden Bachelorette</em></strong></a><strong> by </strong><a href="https://www.mcsweeneys.net/authors/emily-berge?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-418" rel="noopener noreferrer nofollow" target="_blank"><strong>Emily Berge</strong></a> <em>(McSweeney’s)</em> This is a really fun character piece, packed with tons of great details about Kathy—but we particularly love Emily’s choice to embed all those details in a letter to the producers of the <em>Golden Bachelorette</em>. Sometimes when you’re trying to write a piece based on grounded, realistic, (possibly) true-to-life details and observations, you run the risk of it starting to feel like a personal essay, particularly if you’re writing about, say, a family member. You often need some extra element to push your piece in a more premise-y, short humor-y direction, which is what precisely what the framing of this piece does. (That being said, we should be clear, we don’t know how many of the details of this piece are true vs. invented!)</p>
+        <p><a href="https://www.mcsweeneys.net/articles/little-caesars-crazy-puffs?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-418" rel="noopener noreferrer nofollow" target="_blank"><strong>Little Caesars’ Crazy Puffs</strong></a><strong> by </strong><a href="https://www.fletcherisuptosomething.com/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-418" rel="noopener noreferrer nofollow" target="_blank"><strong>Fletcher Michael</strong></a><em> (McSweeney’s)</em> Speaking of how to blend reality into something more short humor-y, check out how Fletcher cleverly uses a review of a real food product as a jumping-off point for an extremely funny character piece. “But what can I do? Not put hot slices of pizza into my pockets? Just hold it in my hands? I’m a busy guy. How am I supposed to complete all of my daily errands if I have to hold hot slices of pizza all day long?” This also features a sterling example of what we like to call a “Here we go again” ending.</p>
+        <hr/><blockquote><p>— AD —</p><p><a href="https://www.eventbrite.com/e/on-the-watchlist-with-jay-servedio-a-live-late-night-comedy-show-tickets-1962530940874?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-418" rel="noopener noreferrer nofollow" target="_blank">On The Watchlist with Jay Servedio</a> is a brand-new live late-night comedy show that blends biting satire with investigative curiosity. The show offers live sketches, field segments, and character interviews featuring an all-star cast of comedians from Second City, Upright Citizens Brigade, Brooklyn Comedy Collective, The Onion, McSweeney's, New York Comedy Club and more. Smart, silly, and unapologetically weird, On The Watchlist is equal parts comedy show, social autopsy, and media exorcism.</p><p><em>(Do you have an ad you'd like to place in the Newsletter? </em><a href="https://docs.google.com/forms/d/e/1FAIpQLSeJlHErf2PuWr5NxqLbD6dhf7s31pzCC3sBVCHJ24exAwfmgQ/viewform?usp=sf_link&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-418" rel="noopener noreferrer nofollow" target="_blank"><em>Fill out this form!</em></a><em>)</em></p></blockquote>
+        <hr/><h2>An Old Favorite</h2>
+        <p><strong><em>This week's Old Favorite is a</em></strong> <a href="http://www.mcsweeneys.net/articles/celebrating-the-hilarious-work-of-brian-agler?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-418" rel="noopener noreferrer nofollow" target="_blank"><strong><em>Brian Agler</em></strong></a> <strong><em>Selection (TM)--a piece whose accompanying note was written by Brian--from Newsletter #84.</em></strong></p>
+        <p><a href="https://www.mcsweeneys.net/articles/the-oral-history-of-this-oral-history?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-418" rel="noopener noreferrer nofollow" target="_blank"><strong>The Oral History of this Oral History</strong></a><strong> by </strong><a href="https://www.mcsweeneys.net/authors/kevin-seccia?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-418" rel="noopener noreferrer nofollow" target="_blank"><strong>Kevin Seccia</strong></a><strong> </strong><em>(McSweeney's)</em><br/>A Newsletter of Humorous Writing: The thing you've got to understand is, when we read The Oral History of this Oral History, we were blown away. We had never seen anything like it before. No one was doing that! It was an entirely new format, which, frankly, is what the humor writing world was in need of. We were so impressed by not just how funny it was, but how technically difficult it was to pull off. Kevin read this at our show and absolutely killed.</p>
+        <p>James: I remember that!</p>
+        <p>Brian: So funny!</p>
+        <p>Luke: He was great!</p>
+        <p>A Newsletter of Humorous Writing: Yeah, what they said. Anyway, it's a great piece. Give it a read.</p>
+        <p><em>Do you have an Old Favorite of your own? Let us know by filling out</em> <a href="http://forms.gle/9iALhpfsAn9mvn4p8?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-418" rel="noopener noreferrer nofollow" target="_blank"><em>this form</em></a> <em>and we may run your pick in a future edition of the newsletter.</em></p>
+        <hr/><h2>Updates From Your Editors and Friends of the Newsletter</h2>
+        <p>James embarked on a self-imposed project to read as much fiction by former NYC mayors as possible. For <em>Lit Hub, </em>he wrote about this <a href="https://lithub.com/the-nyc-mayor-fiction-canon-or-why-adams-should-probably-write-a-crime-thriller/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-418" rel="noopener noreferrer nofollow" target="_blank">NYC Mayor Fiction Canon</a> and pitched some ideas for a crime thriller by soon-to-be-ex-mayor Eric Adams.</p>
+        <p>Nothing else from us this week! Too busy trying to come up with more rhymes to help people remember which TV shows are which.</p>]]>
+      </description>
+      <source:markdown>### _For November 5-11, 2025_
+
+Hello and welcome to **A Newsletter of Humorous Writing**, a roundup of the week&#39;s finest short humor pieces and funny articles, and a celebration of the fantastic writers who wrote them. Lately, a lot of readers have been writing in to tell us about a problem that they’ve been having: They’re always getting the recent TV shows “Mare of Easttown” and “Mayor of Kingstown” confused. To help, we’ve come up with this handy rhyme: “If the town be East, with Winslet you’ll feast. If the town be Kings, then Renner it brings.” Hope that helps!
+
+* * *
+
+## What We Enjoyed This Week
+
+[**I’m Hosting a Chic Party in a Comedy Movie and NOBODY WILL END UP IN THAT POOL**](https://www.pointsincase.com/articles/im-hosting-a-chic-party-in-a-comedy-movie-and-nobody-will-end-up-in-that-pool?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-418) **by** [**Carly Silverman**](https://www.pointsincase.com/author/carly-silverman?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-418) _(Points in Case)_ So much of the fun of this piece comes from the way that Carly lets the readers connect the dots themselves. She sets up all the different elements of this party and leaves it to us to imagine, in a very satisfying way, what it will be like when all hell eventually breaks loose. “On the docket for this soiree? Polite conversation, smiling, inoffensive jokes, tittering, sipping martinis, light sneering, watch checking, soft applause for a titillating announcement, and staying dry.”
+
+[**Please Consider My Mom, Kathy, for the Next _Golden Bachelorette_**](https://www.mcsweeneys.net/articles/please-consider-my-mom-kathy-for-the-next-golden-bachelorette?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-418) **by** [**Emily Berge**](https://www.mcsweeneys.net/authors/emily-berge?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-418) _(McSweeney’s)_ This is a really fun character piece, packed with tons of great details about Kathy—but we particularly love Emily’s choice to embed all those details in a letter to the producers of the _Golden Bachelorette_. Sometimes when you’re trying to write a piece based on grounded, realistic, (possibly) true-to-life details and observations, you run the risk of it starting to feel like a personal essay, particularly if you’re writing about, say, a family member. You often need some extra element to push your piece in a more premise-y, short humor-y direction, which is what precisely what the framing of this piece does. (That being said, we should be clear, we don’t know how many of the details of this piece are true vs. invented!)
+
+[**Little Caesars’ Crazy Puffs**](https://www.mcsweeneys.net/articles/little-caesars-crazy-puffs?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-418) **by** [**Fletcher Michael**](https://www.fletcherisuptosomething.com/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-418) _(McSweeney’s)_ Speaking of how to blend reality into something more short humor-y, check out how Fletcher cleverly uses a review of a real food product as a jumping-off point for an extremely funny character piece. “But what can I do? Not put hot slices of pizza into my pockets? Just hold it in my hands? I’m a busy guy. How am I supposed to complete all of my daily errands if I have to hold hot slices of pizza all day long?” This also features a sterling example of what we like to call a “Here we go again” ending.
+
+* * *
+
+&#62; — AD —
+&#62;
+&#62; [On The Watchlist with Jay Servedio](https://www.eventbrite.com/e/on-the-watchlist-with-jay-servedio-a-live-late-night-comedy-show-tickets-1962530940874?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-418) is a brand-new live late-night comedy show that blends biting satire with investigative curiosity. The show offers live sketches, field segments, and character interviews featuring an all-star cast of comedians from Second City, Upright Citizens Brigade, Brooklyn Comedy Collective, The Onion, McSweeney&#39;s, New York Comedy Club and more. Smart, silly, and unapologetically weird, On The Watchlist is equal parts comedy show, social autopsy, and media exorcism.
+&#62;
+&#62; _(Do you have an ad you&#39;d like to place in the Newsletter?_ [_Fill out this form!_](https://docs.google.com/forms/d/e/1FAIpQLSeJlHErf2PuWr5NxqLbD6dhf7s31pzCC3sBVCHJ24exAwfmgQ/viewform?usp=sf_link&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-418) _)_
+
+* * *
+
+## An Old Favorite
+
+**_This week&#39;s Old Favorite is a_** [**_Brian Agler_**](http://www.mcsweeneys.net/articles/celebrating-the-hilarious-work-of-brian-agler?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-418) **_Selection (TM)--a piece whose accompanying note was written by Brian--from Newsletter #84._**
+
+[**The Oral History of this Oral History**](https://www.mcsweeneys.net/articles/the-oral-history-of-this-oral-history?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-418) **by** [**Kevin Seccia**](https://www.mcsweeneys.net/authors/kevin-seccia?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-418) _(McSweeney&#39;s)_
+
+A Newsletter of Humorous Writing: The thing you&#39;ve got to understand is, when we read The Oral History of this Oral History, we were blown away. We had never seen anything like it before. No one was doing that! It was an entirely new format, which, frankly, is what the humor writing world was in need of. We were so impressed by not just how funny it was, but how technically difficult it was to pull off. Kevin read this at our show and absolutely killed.
+
+James: I remember that!
+
+Brian: So funny!
+
+Luke: He was great!
+
+A Newsletter of Humorous Writing: Yeah, what they said. Anyway, it&#39;s a great piece. Give it a read.
+
+_Do you have an Old Favorite of your own? Let us know by filling out_ [_this form_](http://forms.gle/9iALhpfsAn9mvn4p8?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-418) _and we may run your pick in a future edition of the newsletter._
+
+* * *
+
+## Updates From Your Editors and Friends of the Newsletter
+
+James embarked on a self-imposed project to read as much fiction by former NYC mayors as possible. For _Lit Hub,_ he wrote about this [NYC Mayor Fiction Canon](https://lithub.com/the-nyc-mayor-fiction-canon-or-why-adams-should-probably-write-a-crime-thriller/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-418) and pitched some ideas for a crime thriller by soon-to-be-ex-mayor Eric Adams.
+
+Nothing else from us this week! Too busy trying to come up with more rhymes to help people remember which TV shows are which.</source:markdown>
+      <guid>cid://https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-418/</guid>
+    </item>    <item>
+      <title>Reimagine the Date Picker – David Bushell – Web Dev (UK)</title>
+      <link>https://dbushell.com/2025/11/10/pikaday/</link>
+      <description>
+        <![CDATA[<p>This is a superb way to deprecate a little JavaScript library. Now that you can just use HTML instead, <a href="https://pikaday.dbushell.com/">the website for Pikaday</a> has been turned into a guide to choosing the right design pattern for your needs. Bravo!</p>
+        
+        <blockquote>
+          <p><a href="https://pikaday.dbushell.com/">Pikaday</a> is no longer a JavaScript date picker. Pikaday is now a friendly guide for front-end developers. I want to push developers away from the classic date picker entirely. Especially fat JavaScript libraries.</p>
+        </blockquote>
+        
+        <p><a href="https://adactio.com/links/22246">adactio.com/links/22246</a></p>]]>
+      </description>
+      <source:markdown>This is a superb way to deprecate a little JavaScript library. Now that you can just use HTML instead, [the website for Pikaday](https://pikaday.dbushell.com/) has been turned into a guide to choosing the right design pattern for your needs. Bravo!
+
+&#62; [Pikaday](https://pikaday.dbushell.com/) is no longer a JavaScript date picker. Pikaday is now a friendly guide for front-end developers. I want to push developers away from the classic date picker entirely. Especially fat JavaScript libraries.
+
+[adactio.com/links/22246](https://adactio.com/links/22246)</source:markdown>
+      <guid>cid://https://dbushell.com/2025/11/10/pikaday/</guid>
+    </item>    <item>
+      <title>La Rinconada, Peru</title>
+      <link>https://daverupert.com/2025/11/la-rinconada-peru/</link>
+      <description>
+        <![CDATA[<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IN1M-Xi7nk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p>Above the clouds in the Peruvian Andes there is a town named <a href="https://en.wikipedia.org/wiki/La_Rinconada,_Peru">La Rinconada</a>. It holds the title of being the highest year-round settlement in the world. At one point swelling to 30,000 people, the population has dwindled some now near 12,000. The weather is cold and the oxygen is thin. It’s incredible what humans are able to tolerate to survive. Existing there is dangerous, but that’s where the problems start.</p>
+        <details>
+        <summary>A brief disclaimer before going further...</summary>
+        <p>I want to be careful to not confuse poverty problems with systemic problems. Despite the gold in the hills, La Rinconada is a poor town. One documentary suggests people end up here because that’s the only option left for them. When talking about people in poverty, it’s easy to fall into a trap of drive-by poverty tourism and say “What a mess! Can you believe people live like this?!” but this is people’s lives and I want to be respectful of that. What I want to highlight below are the systems and power structures that create this environment.</p>
+        </details>
+        <p>La Rinconada’s entire economy centers around extracting gold from Mount Ananea. Being so far away from the nearest municipality, the unregulated mining corporations (legal and illegal) are the defacto government. Workers toil under the <em>cachorreo</em> system, mining for 30 days straight without pay and then one day a month they get claim to as much ore as they can haul out on their person. Some prefer this deal, some get assigned to mine empty veins and make no money that month. Women –who aren’t allowed to work in the mines because of a belief they’d curse the mine– must sift and scavenge in the washes of waste rock or near the toxic cyanide and mercury contaminated tailing pools for discarded ore. It’s uncertain work in hazardous conditions. It takes around two to eight metric tons of ore to produce one ring.</p>
+        <p>La Rinconada is a lawless city. A small police station exists, but they are overrun by the illegal mining corporations and the gangs. In the mines and on dark streets, murders and robberies are a common occurrence. No banks, so people carry all their cash and gold making for easy marks.  The gangs traffick humans from Peru, Bolivia, and Columbia then forced them (including minors) into prostitution. It’s generally considered not a safe place. An even harsher reality for those living there permanently.</p>
+        <p>As expected with limited government services, the water in La Rinconada is not safe to drink and unmanaged waste fills the streets and alleyways. But despite all the challenges it’s still a town where people live. There is a school and there are kids playing soccer in the streets. Women sell wares in shops and offer street meats, cocoa leaves, and warm soup to hungry miners. Grass growing in concrete type of shit. A human spirit.</p>
+        <p>While the struggle to survive at the top of the world is real for the people of La Rinconada, the town is for me an allegory of what life is like under a libertarian corporatocracy; where unregulated corporations profit from unfair worker wages, where women get cast to the fringes of society, and where organized crime rules the streets. If I described La Rinconada to you under the guise of a mining colony on the Moon, you’d tell me to ease off on the dystopian sci-fi shit. But this is what’s happening <em>on Earth</em> –today– in the town closest to the Moon. It’s possible that <a href="https://www.youtube.com/channel/UCEjBDKfrqQI4TgzT9YLNT8g">this is what mining towns have always been like</a>, but all I see is the invisible hand of unfettered Capitalism and the true cost of gilded ballroom walls.</p>]]>
+      </description>
+      <source:markdown>Above the clouds in the Peruvian Andes there is a town named [La Rinconada](https://en.wikipedia.org/wiki/La_Rinconada,_Peru). It holds the title of being the highest year-round settlement in the world. At one point swelling to 30,000 people, the population has dwindled some now near 12,000. The weather is cold and the oxygen is thin. It’s incredible what humans are able to tolerate to survive. Existing there is dangerous, but that’s where the problems start.
+
+A brief disclaimer before going further...
+
+I want to be careful to not confuse poverty problems with systemic problems. Despite the gold in the hills, La Rinconada is a poor town. One documentary suggests people end up here because that’s the only option left for them. When talking about people in poverty, it’s easy to fall into a trap of drive-by poverty tourism and say “What a mess! Can you believe people live like this?!” but this is people’s lives and I want to be respectful of that. What I want to highlight below are the systems and power structures that create this environment.
+
+La Rinconada’s entire economy centers around extracting gold from Mount Ananea. Being so far away from the nearest municipality, the unregulated mining corporations (legal and illegal) are the defacto government. Workers toil under the _cachorreo_ system, mining for 30 days straight without pay and then one day a month they get claim to as much ore as they can haul out on their person. Some prefer this deal, some get assigned to mine empty veins and make no money that month. Women –who aren’t allowed to work in the mines because of a belief they’d curse the mine– must sift and scavenge in the washes of waste rock or near the toxic cyanide and mercury contaminated tailing pools for discarded ore. It’s uncertain work in hazardous conditions. It takes around two to eight metric tons of ore to produce one ring.
+
+La Rinconada is a lawless city. A small police station exists, but they are overrun by the illegal mining corporations and the gangs. In the mines and on dark streets, murders and robberies are a common occurrence. No banks, so people carry all their cash and gold making for easy marks. The gangs traffick humans from Peru, Bolivia, and Columbia then forced them (including minors) into prostitution. It’s generally considered not a safe place. An even harsher reality for those living there permanently.
+
+As expected with limited government services, the water in La Rinconada is not safe to drink and unmanaged waste fills the streets and alleyways. But despite all the challenges it’s still a town where people live. There is a school and there are kids playing soccer in the streets. Women sell wares in shops and offer street meats, cocoa leaves, and warm soup to hungry miners. Grass growing in concrete type of shit. A human spirit.
+
+While the struggle to survive at the top of the world is real for the people of La Rinconada, the town is for me an allegory of what life is like under a libertarian corporatocracy; where unregulated corporations profit from unfair worker wages, where women get cast to the fringes of society, and where organized crime rules the streets. If I described La Rinconada to you under the guise of a mining colony on the Moon, you’d tell me to ease off on the dystopian sci-fi shit. But this is what’s happening _on Earth_ –today– in the town closest to the Moon. It’s possible that [this is what mining towns have always been like](https://www.youtube.com/channel/UCEjBDKfrqQI4TgzT9YLNT8g), but all I see is the invisible hand of unfettered Capitalism and the true cost of gilded ballroom walls.</source:markdown>
+      <guid>cid://https://daverupert.com/2025/11/la-rinconada-peru/</guid>
+    </item>    <item>
+      <title>Quoting Nov 12th letter from OpenAI to Judge Ona T. Wang</title>
+      <link>https://simonwillison.net/2025/Nov/13/letter-from-openai/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="https://storage.courtlistener.com/recap/gov.uscourts.nysd.640396/gov.uscourts.nysd.640396.742.0_1.pdf"><p>On Monday, this Court entered an order requiring OpenAI to hand over to the New York Times
+        and its co-plaintiffs 20 million ChatGPT user conversations [...]</p>
+        <p>OpenAI is unaware of any court ordering wholesale production of personal information at this scale. This sets a dangerous precedent: it suggests that anyone who files a lawsuit against an AI company can demand production of tens of millions of conversations without first narrowing for relevance. This is not how discovery works in other cases: courts do not allow plaintiffs suing
+        Google to dig through the private emails of tens of millions of Gmail users irrespective of their
+        relevance. And it is not how discovery should work for generative AI tools either.</p></blockquote>
+        <p class="cite">&mdash; <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.640396/gov.uscourts.nysd.640396.742.0_1.pdf">Nov 12th letter from OpenAI to Judge Ona T. Wang</a>, re: OpenAI, Inc., Copyright Infringement Litigation</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/privacy">privacy</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/law">law</a>, <a href="https://simonwillison.net/tags/new-york-times">new-york-times</a></p>]]>
+      </description>
+      <source:markdown>&#62; On Monday, this Court entered an order requiring OpenAI to hand over to the New York Times
+&#62; and its co-plaintiffs 20 million ChatGPT user conversations \[...\]
+&#62;
+&#62; OpenAI is unaware of any court ordering wholesale production of personal information at this scale. This sets a dangerous precedent: it suggests that anyone who files a lawsuit against an AI company can demand production of tens of millions of conversations without first narrowing for relevance. This is not how discovery works in other cases: courts do not allow plaintiffs suing
+&#62; Google to dig through the private emails of tens of millions of Gmail users irrespective of their
+&#62; relevance. And it is not how discovery should work for generative AI tools either.
+
+— [Nov 12th letter from OpenAI to Judge Ona T. Wang](https://storage.courtlistener.com/recap/gov.uscourts.nysd.640396/gov.uscourts.nysd.640396.742.0_1.pdf), re: OpenAI, Inc., Copyright Infringement Litigation
+
+Tags: [openai](https://simonwillison.net/tags/openai), [privacy](https://simonwillison.net/tags/privacy), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms), [chatgpt](https://simonwillison.net/tags/chatgpt), [ai-ethics](https://simonwillison.net/tags/ai-ethics), [generative-ai](https://simonwillison.net/tags/generative-ai), [law](https://simonwillison.net/tags/law), [new-york-times](https://simonwillison.net/tags/new-york-times)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/13/letter-from-openai/#atom-everything</guid>
+    </item>    <item>
+      <title>What’s going on at  Teen Vogue?</title>
+      <link>https://lithub.com/whats-going-on-at-teen-vogue/</link>
+      <description>
+        <![CDATA[Last week, several prominent staffers at Teen Vogue—including culture editor Kaitlyn NcNab and politics editor Lex McMenamin—took to socials to share bummer news. A round of layoffs had hit half the masthead. Six writers who&#8217;d made their names covering climate change,]]>
+      </description>
+      <source:markdown>Last week, several prominent staffers at Teen Vogue—including culture editor Kaitlyn NcNab and politics editor Lex McMenamin—took to socials to share bummer news. A round of layoffs had hit half the masthead. Six writers who’d made their names covering climate change,</source:markdown>
+      <guid>cid://https://lithub.com/?p=262666</guid>
+    </item>    <item>
+      <title>What happens if AI labs train for pelicans riding bicycles?</title>
+      <link>https://simonwillison.net/2025/Nov/13/training-for-pelicans-riding-bicycles/#atom-everything</link>
+      <description>
+        <![CDATA[<p>Almost every time I share a new example of <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle/">an SVG of a pelican riding a bicycle</a> a variant of this question pops up: how do you know the labs aren't training for your benchmark?</p>
+        <p>The strongest argument is that <strong>they would get caught</strong>. If a model finally comes out that produces an excellent SVG of a pelican riding a bicycle you can bet I'm going to test it on all manner of creatures riding all sorts of transportation devices. If those are notably worse it's going to be pretty obvious what happened.</p>
+        <p>A related note here is that, if they <em>are</em> training for my benchmark, that training clearly is not going well! The very best models still produce pelicans on bicycles that look laughably awful. It's one of the reasons I've continued to find the test useful: drawing pelicans is hard! Even getting a bicycle the right shape is a challenge that few models have achieved yet.</p>
+        <p>My current favorite is still <a href="https://simonwillison.net/2025/Aug/7/gpt-5/#and-some-svgs-of-pelicans">this one from GPT-5</a>. The bicycle has all of the right pieces and the pelican is clearly pedaling it!</p>
+        <p><img src="https://static.simonwillison.net/static/2025/gpt-5-pelican.png" alt="The bicycle is really good, spokes on wheels, correct shape frame, nice pedals. The pelican has a pelican beak and long legs stretching to the pedals." style="max-width: 100%;" /></p>
+        <p>I should note that OpenAI's Aidan McLaughlin has <a href="https://x.com/aidan_mclau/status/1986255202132042164">specifically denied</a> training for this particular benchmark:</p>
+        
+        <blockquote><p>we do not hill climb on svg art</p></blockquote>
+        
+        <p>People also ask if they're training on my published collection. If they are that would be a big mistake, because a model trained on <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle/">these examples</a> will produce some <em>very</em> weird looking pelicans.</p>
+        <p>Truth be told, I'm <strong>playing the long game</strong> here. All I've ever wanted from life is a genuinely great SVG vector illustration of a pelican riding a bicycle. My dastardly multi-year plan is to trick multiple AI labs into investing vast resources to cheat at my benchmark until I get one.</p>
+            
+                <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a></p>]]>
+      </description>
+      <source:markdown>Almost every time I share a new example of [an SVG of a pelican riding a bicycle](https://simonwillison.net/tags/pelican-riding-a-bicycle/) a variant of this question pops up: how do you know the labs aren&#39;t training for your benchmark?
+
+The strongest argument is that **they would get caught**. If a model finally comes out that produces an excellent SVG of a pelican riding a bicycle you can bet I&#39;m going to test it on all manner of creatures riding all sorts of transportation devices. If those are notably worse it&#39;s going to be pretty obvious what happened.
+
+A related note here is that, if they _are_ training for my benchmark, that training clearly is not going well! The very best models still produce pelicans on bicycles that look laughably awful. It&#39;s one of the reasons I&#39;ve continued to find the test useful: drawing pelicans is hard! Even getting a bicycle the right shape is a challenge that few models have achieved yet.
+
+My current favorite is still [this one from GPT-5](https://simonwillison.net/2025/Aug/7/gpt-5/#and-some-svgs-of-pelicans). The bicycle has all of the right pieces and the pelican is clearly pedaling it!
+
+![The bicycle is really good, spokes on wheels, correct shape frame, nice pedals. The pelican has a pelican beak and long legs stretching to the pedals.](https://static.simonwillison.net/static/2025/gpt-5-pelican.png)
+
+I should note that OpenAI&#39;s Aidan McLaughlin has [specifically denied](https://x.com/aidan_mclau/status/1986255202132042164) training for this particular benchmark:
+
+&#62; we do not hill climb on svg art
+
+People also ask if they&#39;re training on my published collection. If they are that would be a big mistake, because a model trained on [these examples](https://simonwillison.net/tags/pelican-riding-a-bicycle/) will produce some _very_ weird looking pelicans.
+
+Truth be told, I&#39;m **playing the long game** here. All I&#39;ve ever wanted from life is a genuinely great SVG vector illustration of a pelican riding a bicycle. My dastardly multi-year plan is to trick multiple AI labs into investing vast resources to cheat at my benchmark until I get one.
+
+Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [pelican-riding-a-bicycle](https://simonwillison.net/tags/pelican-riding-a-bicycle)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/13/training-for-pelicans-riding-bicycles/#atom-everything</guid>
+    </item>    <item>
+      <title>Una batalla tras otra: Paul Thomas Anderson y la fragilidad de la resistencia</title>
+      <link>https://www.palomitademaiz.net/una-batalla-tras-otra-paul-thomas-anderson-y-la-fragilidad-de-la-resistencia/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=una-batalla-tras-otra-paul-thomas-anderson-y-la-fragilidad-de-la-resistencia</link>
+      <description>
+        <![CDATA[<p>Toda historia sobre resistencia es, en el fondo, una sobre la fragilidad humana. No importa cuán noble sea la causa ni cuán justa la rabia: tarde o temprano, la voluntad se erosiona, la fe se resquebraja y la esperanza se convierte en un ejercicio de supervivencia. Una batalla tras la otra, la más reciente película de [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/una-batalla-tras-otra-paul-thomas-anderson-y-la-fragilidad-de-la-resistencia/">Una batalla tras otra: Paul Thomas Anderson y la fragilidad de la resistencia</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Toda historia sobre resistencia es, en el fondo, una sobre la fragilidad humana. No importa cuán noble sea la causa ni cuán justa la rabia: tarde o temprano, la voluntad se erosiona, la fe se resquebraja y la esperanza se convierte en un ejercicio de supervivencia. Una batalla tras la otra, la más reciente película de \[…\]
+
+La entrada [Una batalla tras otra: Paul Thomas Anderson y la fragilidad de la resistencia](https://www.palomitademaiz.net/una-batalla-tras-otra-paul-thomas-anderson-y-la-fragilidad-de-la-resistencia/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=25719</guid>
+    </item>    <item>
+      <title>Metastablecoins Are Go!</title>
+      <link>https://blog.dshr.org/2025/11/metastablecoins-are-go.html</link>
+      <description>
+        <![CDATA[<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9_sJ4-HeuFLB9Hg1ozvlMJKKi4mOpqYw5EQequRZiTZc29SxWfSvynz5cHqMqAwCuemKRan54V45tqirJLBO6gC2KBg_gzpq6RkHUeXOJVu6P_9yDU6x4ZvCPbcdINMhqHF2Mm3nleCLqJUvOpeYSVCony7H0ota-KbliSpp4LU-2L7LzA2DiG5hcRXc5/s1986/UST.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1196" data-original-width="1986" height="121" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9_sJ4-HeuFLB9Hg1ozvlMJKKi4mOpqYw5EQequRZiTZc29SxWfSvynz5cHqMqAwCuemKRan54V45tqirJLBO6gC2KBg_gzpq6RkHUeXOJVu6P_9yDU6x4ZvCPbcdINMhqHF2Mm3nleCLqJUvOpeYSVCony7H0ota-KbliSpp4LU-2L7LzA2DiG5hcRXc5/w200-h121/UST.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.web3isgoinggreat.com/?id=terra-luna-token-drops-in-price-by-98-amidst-ongoing-terrausd-stablecoin-collapse">Source</a></td></tr></tbody></table>
+        Terra (UST) was suppposed to be a "stablecoin", trading very close to $1. It rapidly became the third largest such coin. From April 11<sup>th</sup> 2022 it started trading mainly around a 10% discount, and by May 11<sup>th</sup> it was essentially worthless.  The crash destroyed <a href="https://en.wikipedia.org/wiki/Terra_(blockchain)">about $45B in notional value</a>.<br />
+        <br />
+        In <a href="https://blog.dshr.org/2022/05/metastablecoins.html"><i>Metastablecoins</i></a> I pointed out that, absent the backing of a central bank, dollar "stablecoins" like UST were misnamed.  They were, as UST had shown, in fact metastable so should be called metastablecoins. <a href="https://en.wikipedia.org/wiki/Metastability">Wikipedia explains that</a>:<br />
+        <blockquote>
+          <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="background: rgb(255, 255, 255); border: 1px solid rgb(238, 238, 238); box-shadow: rgba(0, 0, 0, 0.1) 1px 1px 5px; color: #222222; float: right; margin-bottom: 0.5em; padding: 5px; position: relative;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVW9Y1suK0Bd9xlITANvaEu3Zu61maZ8Au-0GS_1EiKVujosdVRaOpb2tTKen8RAtLkkn7QYB7090jZxORYTHVH8rboqy28Vp_wqKP6CImZB7dvZCXnht8cvhuDcFkC-KT_H-pNfZVcAwI66f_cjAoA74k9828wrzoLBLfdg0Nloky70gqXA2PlkzokQ/s640/640px-Meta-stability.svg.png" style="clear: right; color: #2288bb; margin-bottom: 1em; margin-left: auto; margin-right: auto; text-decoration: none;"><img border="0" data-original-height="372" data-original-width="640" height="116" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVW9Y1suK0Bd9xlITANvaEu3Zu61maZ8Au-0GS_1EiKVujosdVRaOpb2tTKen8RAtLkkn7QYB7090jZxORYTHVH8rboqy28Vp_wqKP6CImZB7dvZCXnht8cvhuDcFkC-KT_H-pNfZVcAwI66f_cjAoA74k9828wrzoLBLfdg0Nloky70gqXA2PlkzokQ/w200-h116/640px-Meta-stability.svg.png" style="background: transparent; border: medium; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px; padding: 0px; position: relative;" width="200" /></a></td></tr><tr><td class="tr-caption" style="font-size: 10.56px; text-align: center;">By<span>&nbsp;</span><a href="https://commons.wikimedia.org/wiki/File:Meta-stability.svg" style="color: #2288bb; text-decoration: none;">Georg Wiora</a><br /></td></tr></tbody>
+          </table>
+        metastability denotes an intermediate energetic state within a dynamical system other than the system's state of least energy. A ball resting in a hollow on a slope is a simple example of metastability. If the ball is only slightly pushed, it will settle back into its hollow, but a stronger push may start the ball rolling down the slope.
+        </blockquote>
+        Exactly what the "stronger push" that sent UST into its "state of least energy" was still isn't clear, but the coin's metastability is.<br />
+        <br />
+        On July 18<sup>th</sup> this year the <a href="https://en.wikipedia.org/wiki/GENIUS_Act">GENIUS Act</a> (Guiding and Establishing National Innovation for U.S. Stablecoins Act) was signed into law. It purports to regulate metastablecoins but, like most things about cryptocurrencies, it is largely <a href="https://blog.dshr.org/2025/09/the-gaslit-asset-class.html">gaslighting</a>. Below the fold I explain why this is and discuss some recent publications about metastablecoins.<br />
+        <span><a name='more'></a></span>
+        <br />
+        The GENIUS Act was the result of <a href="https://www.followthecrypto.org/">massive campaign spending</a> and lobbying by the cryptocurrency industry, so one might reasonably doubt its effectiveness in regulating the industry. But that is only the first of many reasons for skepticism.<br />
+        <br />
+        Metatsablecoins are a technology and thus as I point out <i>ad nauseam</i> the forces driving market concentration identified by <a href="http://www.amazon.com/Increasing-Returns-Dependence-Economics-Cognition/dp/0472064967">Brian Arthur</a> are very strong. This table uses data from <a href="https://coinmarketcap.com/">coinmarketcap.com</a> to show the top 10 among the many hundreds of metastablecoins:<br />
+        <table align="center" border="3" cellspacing="0" cols="6">
+        <thead>
+        <tr><td>Rank</td><td>Symbol</td><td>Market Cap ($)</td><td>24h Volume  ($)</td><td>Cap %</td><td>Vol %</td></tr>
+        </thead><tbody>
+        <tr><td>1</td><td>USDT</td><td>183448203111</td><td>138501540115</td><td>65.0</td><td>85.3</td></tr>
+        <tr><td>2</td><td>USDC</td><td>76173651225</td><td>18071460345</td><td>27.0</td><td>11.1</td></tr>
+        <tr><td>3</td><td>USDe</td><td>8434123250</td><td>179500156</td><td>3.0</td><td>0.1</td></tr>
+        <tr><td>4</td><td>DAI</td><td>5364792025</td><td>110692712</td><td>1.9</td><td>0.07</td></tr>
+        <tr><td>5</td><td>PYUSD</td><td>3125097912</td><td>107561114</td><td>1.1</td><td>0.07</td></tr>
+        <tr><td>6</td><td>USD1</td><td>2828795709</td><td>328700270</td><td>1.0</td><td>0.20</td></tr>
+        <tr><td>7</td><td>RUSD</td><td>1027661833</td><td>108029824</td><td>0.36</td><td>0.07</td></tr>
+        <tr><td>8</td><td>FDUSD</td><td>980602153</td><td>5000038217</td><td>0.35</td><td>3.1</td></tr>
+        <tr><td>9</td><td>TUSD</td><td>492822788</td><td>40305463</td><td>0.17</td><td>0.02</td></tr>
+        <tr><td>10</td><td>USDD</td><td>408966311</td><td>6898916</td><td>0.14</td><td>0.004</td></tr>
+        </tbody>
+        </table>
+        Of the top 10, the top 2 have 92.0% of the market cap and 96.4% of the daily volume. Of the top 10, the top 4 have 96.9% of the market cap and 96.6% of the volume. The alt-metastablecoins ranked 5 and lower are buried in the random noise.<br />
+        <br />
+        So it is important to note that among the top 4 metastablecoins, the only one that the GENIUS Act regulates is USDC, with only 20% of the market cap and, more importantly, only 11% of the daily volume. The ones it does <i>not</i> regulate are:<br />
+        <ol>
+        <li>Tether (USDT) is domiciled outside the US, allegedly mostly backed by high quality liquid dollar assets (and <a href="https://www.bloomberg.com/news/articles/2025-11-11/tether-hires-top-hsbc-gold-traders-to-take-on-bullion-market">gold</a>).</li>
+        <li value="3"><a href="https://coinmetrics.substack.com/p/state-of-the-network-issue-335">Ethena (USDe)</a> is an algorithmic metastablecoin backed "by crypto-assets and delta-neutral hedging strategies in perpetual futures markets".</li>
+        <li value="4"><a href="https://en.wikipedia.org/wiki/Dai_(cryptocurrency)">DAI</a> is an algorithmic metastablecoin backed by cryptocurrencies.</li>
+        </ol>
+        Tether has long resisted meaningful regulation or even audit. Algorithmic metastablecoins, such as the late lamented Terra/Luna pair, do not conform to the GENIUS Act's idea of a "stablecoin" and, being implemented as "smart contracts" on blockchains such as Ethereum, cannot be regulated in the normal way. You can see that there are only two significant metastablecoins, one is vastly bigger than the other, and only the smaller is regulated (assuming the regulations are actually enforced).<br />
+        <br />
+        Ethena's edge over the top 2 metastablecoins is that it <a href="https://coinmetrics.substack.com/p/state-of-the-network-issue-335">generates yield</a>:<br />
+        <blockquote>
+        In practice, each dollar of USDe is created with the protocol taking two opposing positions:<br />
+        <ul>
+        <li>A long position in spot crypto-assets as collateral (primarily BTC, ETH or staked ETH) held at off-exchange custody providers.</li>
+        <li>An equal and opposite short position in perpetual futures markets on exchanges like Binance, Bybit and OKX.</li>
+        </ul>
+        This combination keeps Ethena’s exposure market-neutral, while generating yield from perpetual futures funding rates.
+        </blockquote>
+        DAI also generates yield, through the <a href="https://coinmarketcap.com/currencies/multi-collateral-dai/#About">DAI Savings Rate</a>.<br />
+        <br />
+        One might also be skeptical of how thoroughly the current administration would apply regulation to Paypal USD, linked to Peter Thiel and ranked #5, or to World Liberty Financial USD, the Trump family metastablecoin ranked #6. Thus the GENIUS Act appears to be Potempkin regulation at best.<br />
+        <br />
+        Stephan Luck of the New York Fed's <a href="https://libertystreeteconomics.newyorkfed.org/2025/10/a-historical-perspective-on-stablecoins/"><i>A Historical Perspective on Stablecoins</i></a> starts with the GENIUS Act's definition of "stablecoin":<br />
+        <blockquote>
+        Stablecoins under the Act must be fully backed one-to-one by safe, liquid assets such as U.S. dollars, short-term Treasury securities, uninsured deposits at commercial banks, or cash equivalents. Issuers may not pay interest or yields on stablecoin balances, and holders enjoy priority claims in bankruptcy. To promote transparency, issuers must provide monthly public disclosures of their reserves.
+        </blockquote>
+        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfogsgeEQn6vAIL2rEFo9J9sG_crUTtAyeA8qhVU2auangGz7u4EzGXFTosVPbkW3GE5HJvLnqFFg61Wql_crQCkQm5oR8LbdNYODb-PloB0geFb293P2NjBQm9EgUwfu0wzGKa8nCMOYgfr4xl_wFPlO6SA0B_1YjINdY0bLsSyt0N3rdxX8KpgFR9oJ-/s1408/NationalBankNotes.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1296" data-original-width="1408" height="184" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfogsgeEQn6vAIL2rEFo9J9sG_crUTtAyeA8qhVU2auangGz7u4EzGXFTosVPbkW3GE5HJvLnqFFg61Wql_crQCkQm5oR8LbdNYODb-PloB0geFb293P2NjBQm9EgUwfu0wzGKa8nCMOYgfr4xl_wFPlO6SA0B_1YjINdY0bLsSyt0N3rdxX8KpgFR9oJ-/w200-h184/NationalBankNotes.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://libertystreeteconomics.newyorkfed.org/2025/10/a-historical-perspective-on-stablecoins/">Source</a></td></tr></tbody></table>
+        Luck goes on to draw the historical parallel with "national bank notes", which circulated in the US between 1863 and 1935, <a href="https://libertystreeteconomics.newyorkfed.org/2025/10/a-historical-perspective-on-stablecoins/">writing</a>:<br />
+        <blockquote>
+        National bank notes were initially successful for two main reasons. First, given that they were traded at the same price as greenbacks and specie, they were a more useful form of money than other circulating notes. Second, bank notes faced little competition from other forms of money, such as bank deposits. Before the rise of deposit insurance, deposits were often risky investments and, historically, not a widely accepted form of payment.<br />
+        <br />
+        However, as the interbank system in the U.S. developed, the use of deposits for payments became increasingly common. While national bank notes represented around 20 percent of total bank assets by the end of 1880, that share declined thereafter, as shown in the chart below. The decline in bank notes was mirrored by the increase in deposits. This pattern is in line with a decline in the demand for bank notes and the rise of bank deposits as an alternative source of money.
+        </blockquote>
+        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaxSZ-4fm2sUQhq89gV1MfvQD_Hnp59xImgRFUtsXrG5X2UBp4QYP4__SnbgBvnYuuK2GTOFMQFmgqeN9tByFuzubUT7hsOLhcl81luYOJJFjyxO-Ld7LixllfSMVES77bn5Tyie3p8eQQ4HazPzaIG975BWUbzJLtQHDKlmkpS_kYUsQo1y-NLXjel0sz/s1280/BankOfScotland.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="853" data-original-width="1280" height="133" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaxSZ-4fm2sUQhq89gV1MfvQD_Hnp59xImgRFUtsXrG5X2UBp4QYP4__SnbgBvnYuuK2GTOFMQFmgqeN9tByFuzubUT7hsOLhcl81luYOJJFjyxO-Ld7LixllfSMVES77bn5Tyie3p8eQQ4HazPzaIG975BWUbzJLtQHDKlmkpS_kYUsQo1y-NLXjel0sz/w200-h133/BankOfScotland.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><small><a href="https://en.wikipedia.org/wiki/Banknotes_of_Scotland">Bank of Scotland</a>,<br /><a href="https://commons.wikimedia.org/wiki/User:Zeete">Zeete</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></small></td></tr></tbody></table>
+        Note the similarity with <a href="https://en.wikipedia.org/wiki/Banknotes_of_Scotland">Scottish bank notes</a> which still circulate in the UK, although treated with some suspicion in England and Wales:<br />
+        <blockquote>
+        Currently, three retail banks are allowed to print notes for circulation in Scotland: <a href="https://en.wikipedia.org/wiki/Bank_of_Scotland">Bank of Scotland</a>, <a href="https://en.wikipedia.org/wiki/Royal_Bank_of_Scotland">Royal Bank of Scotland</a>, and <a href="https://en.wikipedia.org/wiki/Clydesdale_Bank">Clydesdale Bank</a>.<br /><br />Scottish banknotes are unusual, as they are issued by retail banks (not government <a href="https://en.wikipedia.org/wiki/Central_bank">central banks</a>) and because they are not <a href="https://en.wikipedia.org/wiki/Legal_tender">legal tender</a> in the United Kingdom. They are also not legal tender in Scotland, where, in law, no banknotes (including those issued by the Bank of England) are defined as legal tender. Formally, they are classified as <a href="https://en.wikipedia.org/wiki/Promissory_note">promissory notes</a>, and the law requires that the issuing banks hold a sum of <a href="https://en.wikipedia.org/wiki/Bank_of_England_note_issues">Bank of England banknotes</a> or gold equivalent to the total value of notes issued.
+        </blockquote>
+        Luck <a href="https://libertystreeteconomics.newyorkfed.org/2025/10/a-historical-perspective-on-stablecoins/">concludes</a>:<br />
+        <blockquote>
+        This dynamic between national bank notes and bank deposits is a cautionary tale for the potential rise of stablecoins. Currently, most retail deposits pay little interest. Moreover, banks charge considerable fees for large instant payments such as wire fees. However, as stablecoins become more commonly used, the traditional centralized payment system may move to become more attractive in response. To avoid losing valuable deposits, banks may start to offer better terms on deposits or offer both higher interest and better payment services, just as they did during the National Banking Era. Alternatively, bank deposits may become “tokenized” themselves.<br />
+        <br />
+        Thus, at least for domestic payments, the footprint of stablecoins may be limited given that many potential retail depositors may stick with bank deposits.
+        </blockquote>
+        The market for regulated metastablecoins will also be limited because issuers "may not pay interest or yields on stablecoin balances", whereas the competing unregulated metastablecoins can provide "yield".<br />
+        <br />
+        Luck <a href="https://libertystreeteconomics.newyorkfed.org/2025/10/a-historical-perspective-on-stablecoins/">notes that</a>:<br />
+        <blockquote>
+        The historical experience of national bank notes illustrates that stablecoins may have a large potential to increase the demand for U.S. government debt.
+        </blockquote>
+        In <a href="https://www.bis.org/publ/work1270.htm"><i>Stablecoins and safe asset prices</i></a> Rashad Ahmed and Iñaki Aldasoro investigate this effect:<br />
+        <blockquote>
+        Inflows into stablecoins reduce three-month US Treasury yields by 2–2.5 basis points within 10 days, while outflows can have a larger impact, raising yields by 6–8 basis points. The effects are concentrated in short-term Treasury securities, with limited to no spillovers to longer-term maturities. Given its relative size, Tether (USDT) contributes the most to estimated effects, followed by Circle (USDC). These results suggest that stablecoins have already established themselves as significant players in Treasury markets. Their growth blurs the lines between cryptocurrency and traditional finance and carries implications for monetary policy, transparency of stablecoin reserves and financial stability – particularly during periods of market stress.
+        </blockquote>
+        The alternative to commercial metastablecoins is a real stablecoin, a Central Bank Digital Currency (CBDC). Back in July Christopher Smart noted a provision of the GENIUS Act in <a href="https://www.ft.com/content/f48c7e68-ed81-4185-b7c5-8b9092397adb"><i>CBDC for thee but not for me</i></a>:<br />
+        <blockquote>
+        Amid the package of crypto bills that should head to the president’s desk in a few days lurks a ban on a digital dollar. With 72 other countries <a href="https://www.atlanticcouncil.org/cbdctracker/">developing or launching</a> a central bank digital currency and another 35 studying the proposition, what does America’s legislature understand that all these others do not?<br />
+        <br />
+        The shame is that this prohibition on a central bank digital currency (CBDC) for the dollar comes as part of a mostly constructive framework for an industry that’s about to transform modern financial services. It’s as if Congress decided to hit the accelerator and the brake at the same time.
+        </blockquote>
+        The brake comes from the right wing's fear of the <a href="https://www.ft.com/content/f48c7e68-ed81-4185-b7c5-8b9092397adb">Deep State</a>:<br />
+        <blockquote>
+        They point to China’s pilot of the e-yuan as a future vision that includes the policing of Americans’ spending habits. What they neglect to say is that the government already tracks illicit spending now, within strict, court-supervised limits that would remain in place with any CBDC. They also fail to acknowledge the even more robust <a href="https://www.ecb.europa.eu/euro/digital_euro/features/privacy/html/index.en.html">privacy mechanisms</a> the European Central Bank is embedding in its CBDC design.<br />
+        </blockquote>
+        It is somewhat strange that the right thinks it is better to have companies monetizing your spending data than to have the government able to see it. There is obviously no possible way the government can buy or demand your spending data from the metastablecoin companies. But it is public on the relevant blockchain ...<br />
+        <br />
+        Smart <a href="https://www.ft.com/content/f48c7e68-ed81-4185-b7c5-8b9092397adb">observes that</a>:<br />
+        <blockquote>
+        There are perhaps more justifiable concerns about the financial stability risks that CBDCs might create. If there’s an easy way to convert bank deposits to cash, then CBDCs can facilitate a systemic bank run in a crisis without anyone lining up at a teller window. But online bank runs are already possible, as we learned from the collapse of Silicon Valley Bank in 2023. Moreover, the ECB’s plans to issue digital cash through banks and limit holdings in bank accounts will mitigate these risks.
+        </blockquote>
+        In the wake of Circle's IPO, Bryce Elder asked <a href="https://www.ft.com/content/e80ddcf1-9ad0-45cf-acc5-f9154c817250"><i>Stablecoins might revolutionise payments, but what if they don’t?</i></a>:<br />
+        <blockquote>
+        In practice, in the <a href="https://www.wsj.com/articles/BL-MBB-23780">more than 10 years</a> since their invention, stablecoins have carved <a href="https://www.ft.com/content/f40b7ac7-bb50-4712-aa7f-5219c2b18789">out a few real-world niches</a> but have not been widely adopted for anything other than crypto trading.
+        </blockquote>
+        Elder was skeptical about the  metastablecoin <a href="https://www.ft.com/content/e80ddcf1-9ad0-45cf-acc5-f9154c817250">use cases</a>:<br />
+        <blockquote>
+        Circle Payments Network, a real-time cross-border settlement system, pushed through its first transaction in May and still relies on traditional payment rails for FX translation and last-mile delivery. Crypto remittances need FX liquidity to be more efficient than the existing networks, and it’s not obvious right now where that liquidity comes from.<br />
+        <br />
+        Circle also has a project with ICE to trial using stablecoins as trading collateral. The promise is for shorter settlement periods and lower margin requirements. But since the market cap of all stablecoins currently represents less than 0.5 per cent of quarterly US equity volumes, disruption is a very long-term prospect.
+        </blockquote>
+        Finally, we can turn to Molly White for some recent reassurance that metastablecoin issuers know what they're doing:<br />
+        <ul>
+        <li>
+        First, <a href="https://www.web3isgoinggreat.com/?id=paxos-accidental-mint"><i>Paxos accidentally mints more than twice the global GDP in PayPal stablecoins</i></a>:<br />
+        <blockquote>
+        Paxos, the issuer of PayPal's PYUSD stablecoin, accidentally minted 300 trillion of the supposedly dollar-pegged token. For context, this is approximately 2.5x the global GDP, and around 125x the total number of US dollars actually in circulation.  Paxos later announced that the mint was an "internal technical error", and that they had burned the excess tokens.<br />
+        <br />
+        While PayPal promises its customers that "Reserves are held 100% in US dollar deposits, US treasuries and cash equivalents – meaning that customer funds are available for 1:1 redemption with Paxos," there clearly isn't much in the way of safeguards to ensure that is always the case. As with most stablecoin issuers, Paxos merely issues self-reported and unreviewed portfolio reports, and monthly third-party attestations (not audits) of reserves.
+        </blockquote>
+        </li>
+        <li>
+        Second, <a href="https://www.web3isgoinggreat.com/?id=elixir-shuts-down-deusd"><i>Elixir shuts down deUSD after Stream Finance halt</i></a>:<br />
+        <blockquote>
+        After the defi yield platform <a href="https://www.web3isgoinggreat.com/?id=stream-finance-loss">Stream Finance announced a $93 million loss</a>, Elixir announced it would be discontinuing its deUSD synthetic stablecoin. Stream Finance owes $68 million to Elixir, and holds around $75 million deUSD.
+        Elixir has announced that they plan to allow deUSD holders to redeem their tokens for USDC through a process that will also eliminate the risk of Stream Finance cashing out their deUSD without repaying their loan. According to Elixir, "Stream comprised of 99%+ of the lending positions (and has decided to not repay or close positions)".
+        </blockquote>
+        deUSD was the 25<sup>th</sup> largest metastablecoin with $88M market cap and volume of $64K.
+        </li></ul>
+        <br />]]>
+      </description>
+      <source:markdown>[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9_sJ4-HeuFLB9Hg1ozvlMJKKi4mOpqYw5EQequRZiTZc29SxWfSvynz5cHqMqAwCuemKRan54V45tqirJLBO6gC2KBg_gzpq6RkHUeXOJVu6P_9yDU6x4ZvCPbcdINMhqHF2Mm3nleCLqJUvOpeYSVCony7H0ota-KbliSpp4LU-2L7LzA2DiG5hcRXc5/w200-h121/UST.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9_sJ4-HeuFLB9Hg1ozvlMJKKi4mOpqYw5EQequRZiTZc29SxWfSvynz5cHqMqAwCuemKRan54V45tqirJLBO6gC2KBg_gzpq6RkHUeXOJVu6P_9yDU6x4ZvCPbcdINMhqHF2Mm3nleCLqJUvOpeYSVCony7H0ota-KbliSpp4LU-2L7LzA2DiG5hcRXc5/s1986/UST.png)[Source](https://www.web3isgoinggreat.com/?id=terra-luna-token-drops-in-price-by-98-amidst-ongoing-terrausd-stablecoin-collapse)
+Terra (UST) was suppposed to be a &#34;stablecoin&#34;, trading very close to $1. It rapidly became the third largest such coin. From April 11th 2022 it started trading mainly around a 10% discount, and by May 11th it was essentially worthless. The crash destroyed [about $45B in notional value](https://en.wikipedia.org/wiki/Terra_(blockchain)).
+
+In [_Metastablecoins_](https://blog.dshr.org/2022/05/metastablecoins.html) I pointed out that, absent the backing of a central bank, dollar &#34;stablecoins&#34; like UST were misnamed. They were, as UST had shown, in fact metastable so should be called metastablecoins. [Wikipedia explains that](https://en.wikipedia.org/wiki/Metastability):
+
+&#62; [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVW9Y1suK0Bd9xlITANvaEu3Zu61maZ8Au-0GS_1EiKVujosdVRaOpb2tTKen8RAtLkkn7QYB7090jZxORYTHVH8rboqy28Vp_wqKP6CImZB7dvZCXnht8cvhuDcFkC-KT_H-pNfZVcAwI66f_cjAoA74k9828wrzoLBLfdg0Nloky70gqXA2PlkzokQ/w200-h116/640px-Meta-stability.svg.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVW9Y1suK0Bd9xlITANvaEu3Zu61maZ8Au-0GS_1EiKVujosdVRaOpb2tTKen8RAtLkkn7QYB7090jZxORYTHVH8rboqy28Vp_wqKP6CImZB7dvZCXnht8cvhuDcFkC-KT_H-pNfZVcAwI66f_cjAoA74k9828wrzoLBLfdg0Nloky70gqXA2PlkzokQ/s640/640px-Meta-stability.svg.png)By [Georg Wiora](https://commons.wikimedia.org/wiki/File:Meta-stability.svg)
+&#62;
+&#62; metastability denotes an intermediate energetic state within a dynamical system other than the system&#39;s state of least energy. A ball resting in a hollow on a slope is a simple example of metastability. If the ball is only slightly pushed, it will settle back into its hollow, but a stronger push may start the ball rolling down the slope.
+
+Exactly what the &#34;stronger push&#34; that sent UST into its &#34;state of least energy&#34; was still isn&#39;t clear, but the coin&#39;s metastability is.
+
+On July 18th this year the [GENIUS Act](https://en.wikipedia.org/wiki/GENIUS_Act) (Guiding and Establishing National Innovation for U.S. Stablecoins Act) was signed into law. It purports to regulate metastablecoins but, like most things about cryptocurrencies, it is largely [gaslighting](https://blog.dshr.org/2025/09/the-gaslit-asset-class.html). Below the fold I explain why this is and discuss some recent publications about metastablecoins.
+
+The GENIUS Act was the result of [massive campaign spending](https://www.followthecrypto.org/) and lobbying by the cryptocurrency industry, so one might reasonably doubt its effectiveness in regulating the industry. But that is only the first of many reasons for skepticism.
+
+Metatsablecoins are a technology and thus as I point out _ad nauseam_ the forces driving market concentration identified by [Brian Arthur](http://www.amazon.com/Increasing-Returns-Dependence-Economics-Cognition/dp/0472064967) are very strong. This table uses data from [coinmarketcap.com](https://coinmarketcap.com/) to show the top 10 among the many hundreds of metastablecoins:
+
+RankSymbolMarket Cap ($)24h Volume ($)Cap %Vol %1USDT18344820311113850154011565.085.32USDC761736512251807146034527.011.13USDe84341232501795001563.00.14DAI53647920251106927121.90.075PYUSD31250979121075611141.10.076USD128287957093287002701.00.207RUSD10276618331080298240.360.078FDUSD98060215350000382170.353.19TUSD492822788403054630.170.0210USDD40896631168989160.140.004
+Of the top 10, the top 2 have 92.0% of the market cap and 96.4% of the daily volume. Of the top 10, the top 4 have 96.9% of the market cap and 96.6% of the volume. The alt-metastablecoins ranked 5 and lower are buried in the random noise.
+
+So it is important to note that among the top 4 metastablecoins, the only one that the GENIUS Act regulates is USDC, with only 20% of the market cap and, more importantly, only 11% of the daily volume. The ones it does _not_ regulate are:
+
+1. Tether (USDT) is domiciled outside the US, allegedly mostly backed by high quality liquid dollar assets (and [gold](https://www.bloomberg.com/news/articles/2025-11-11/tether-hires-top-hsbc-gold-traders-to-take-on-bullion-market)).
+2. [Ethena (USDe)](https://coinmetrics.substack.com/p/state-of-the-network-issue-335) is an algorithmic metastablecoin backed &#34;by crypto-assets and delta-neutral hedging strategies in perpetual futures markets&#34;.
+3. [DAI](https://en.wikipedia.org/wiki/Dai_(cryptocurrency)) is an algorithmic metastablecoin backed by cryptocurrencies.
+
+Tether has long resisted meaningful regulation or even audit. Algorithmic metastablecoins, such as the late lamented Terra/Luna pair, do not conform to the GENIUS Act&#39;s idea of a &#34;stablecoin&#34; and, being implemented as &#34;smart contracts&#34; on blockchains such as Ethereum, cannot be regulated in the normal way. You can see that there are only two significant metastablecoins, one is vastly bigger than the other, and only the smaller is regulated (assuming the regulations are actually enforced).
+
+Ethena&#39;s edge over the top 2 metastablecoins is that it [generates yield](https://coinmetrics.substack.com/p/state-of-the-network-issue-335):
+
+&#62; In practice, each dollar of USDe is created with the protocol taking two opposing positions:
+&#62;
+&#62; - A long position in spot crypto-assets as collateral (primarily BTC, ETH or staked ETH) held at off-exchange custody providers.
+&#62; - An equal and opposite short position in perpetual futures markets on exchanges like Binance, Bybit and OKX.
+&#62;
+&#62; This combination keeps Ethena’s exposure market-neutral, while generating yield from perpetual futures funding rates.
+
+DAI also generates yield, through the [DAI Savings Rate](https://coinmarketcap.com/currencies/multi-collateral-dai/#About).
+
+One might also be skeptical of how thoroughly the current administration would apply regulation to Paypal USD, linked to Peter Thiel and ranked #5, or to World Liberty Financial USD, the Trump family metastablecoin ranked #6. Thus the GENIUS Act appears to be Potempkin regulation at best.
+
+Stephan Luck of the New York Fed&#39;s [_A Historical Perspective on Stablecoins_](https://libertystreeteconomics.newyorkfed.org/2025/10/a-historical-perspective-on-stablecoins/) starts with the GENIUS Act&#39;s definition of &#34;stablecoin&#34;:
+
+&#62; Stablecoins under the Act must be fully backed one-to-one by safe, liquid assets such as U.S. dollars, short-term Treasury securities, uninsured deposits at commercial banks, or cash equivalents. Issuers may not pay interest or yields on stablecoin balances, and holders enjoy priority claims in bankruptcy. To promote transparency, issuers must provide monthly public disclosures of their reserves.
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfogsgeEQn6vAIL2rEFo9J9sG_crUTtAyeA8qhVU2auangGz7u4EzGXFTosVPbkW3GE5HJvLnqFFg61Wql_crQCkQm5oR8LbdNYODb-PloB0geFb293P2NjBQm9EgUwfu0wzGKa8nCMOYgfr4xl_wFPlO6SA0B_1YjINdY0bLsSyt0N3rdxX8KpgFR9oJ-/w200-h184/NationalBankNotes.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfogsgeEQn6vAIL2rEFo9J9sG_crUTtAyeA8qhVU2auangGz7u4EzGXFTosVPbkW3GE5HJvLnqFFg61Wql_crQCkQm5oR8LbdNYODb-PloB0geFb293P2NjBQm9EgUwfu0wzGKa8nCMOYgfr4xl_wFPlO6SA0B_1YjINdY0bLsSyt0N3rdxX8KpgFR9oJ-/s1408/NationalBankNotes.png)[Source](https://libertystreeteconomics.newyorkfed.org/2025/10/a-historical-perspective-on-stablecoins/)
+Luck goes on to draw the historical parallel with &#34;national bank notes&#34;, which circulated in the US between 1863 and 1935, [writing](https://libertystreeteconomics.newyorkfed.org/2025/10/a-historical-perspective-on-stablecoins/):
+
+&#62; National bank notes were initially successful for two main reasons. First, given that they were traded at the same price as greenbacks and specie, they were a more useful form of money than other circulating notes. Second, bank notes faced little competition from other forms of money, such as bank deposits. Before the rise of deposit insurance, deposits were often risky investments and, historically, not a widely accepted form of payment.
+&#62;
+&#62; However, as the interbank system in the U.S. developed, the use of deposits for payments became increasingly common. While national bank notes represented around 20 percent of total bank assets by the end of 1880, that share declined thereafter, as shown in the chart below. The decline in bank notes was mirrored by the increase in deposits. This pattern is in line with a decline in the demand for bank notes and the rise of bank deposits as an alternative source of money.
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaxSZ-4fm2sUQhq89gV1MfvQD_Hnp59xImgRFUtsXrG5X2UBp4QYP4__SnbgBvnYuuK2GTOFMQFmgqeN9tByFuzubUT7hsOLhcl81luYOJJFjyxO-Ld7LixllfSMVES77bn5Tyie3p8eQQ4HazPzaIG975BWUbzJLtQHDKlmkpS_kYUsQo1y-NLXjel0sz/w200-h133/BankOfScotland.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaxSZ-4fm2sUQhq89gV1MfvQD_Hnp59xImgRFUtsXrG5X2UBp4QYP4__SnbgBvnYuuK2GTOFMQFmgqeN9tByFuzubUT7hsOLhcl81luYOJJFjyxO-Ld7LixllfSMVES77bn5Tyie3p8eQQ4HazPzaIG975BWUbzJLtQHDKlmkpS_kYUsQo1y-NLXjel0sz/s1280/BankOfScotland.jpg)[Bank of Scotland](https://en.wikipedia.org/wiki/Banknotes_of_Scotland),
+
+[Zeete](https://commons.wikimedia.org/wiki/User:Zeete), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Note the similarity with [Scottish bank notes](https://en.wikipedia.org/wiki/Banknotes_of_Scotland) which still circulate in the UK, although treated with some suspicion in England and Wales:
+
+&#62; Currently, three retail banks are allowed to print notes for circulation in Scotland: [Bank of Scotland](https://en.wikipedia.org/wiki/Bank_of_Scotland), [Royal Bank of Scotland](https://en.wikipedia.org/wiki/Royal_Bank_of_Scotland), and [Clydesdale Bank](https://en.wikipedia.org/wiki/Clydesdale_Bank).
+&#62;
+&#62; Scottish banknotes are unusual, as they are issued by retail banks (not government [central banks](https://en.wikipedia.org/wiki/Central_bank)) and because they are not [legal tender](https://en.wikipedia.org/wiki/Legal_tender) in the United Kingdom. They are also not legal tender in Scotland, where, in law, no banknotes (including those issued by the Bank of England) are defined as legal tender. Formally, they are classified as [promissory notes](https://en.wikipedia.org/wiki/Promissory_note), and the law requires that the issuing banks hold a sum of [Bank of England banknotes](https://en.wikipedia.org/wiki/Bank_of_England_note_issues) or gold equivalent to the total value of notes issued.
+
+Luck [concludes](https://libertystreeteconomics.newyorkfed.org/2025/10/a-historical-perspective-on-stablecoins/):
+
+&#62; This dynamic between national bank notes and bank deposits is a cautionary tale for the potential rise of stablecoins. Currently, most retail deposits pay little interest. Moreover, banks charge considerable fees for large instant payments such as wire fees. However, as stablecoins become more commonly used, the traditional centralized payment system may move to become more attractive in response. To avoid losing valuable deposits, banks may start to offer better terms on deposits or offer both higher interest and better payment services, just as they did during the National Banking Era. Alternatively, bank deposits may become “tokenized” themselves.
+&#62;
+&#62; Thus, at least for domestic payments, the footprint of stablecoins may be limited given that many potential retail depositors may stick with bank deposits.
+
+The market for regulated metastablecoins will also be limited because issuers &#34;may not pay interest or yields on stablecoin balances&#34;, whereas the competing unregulated metastablecoins can provide &#34;yield&#34;.
+
+Luck [notes that](https://libertystreeteconomics.newyorkfed.org/2025/10/a-historical-perspective-on-stablecoins/):
+
+&#62; The historical experience of national bank notes illustrates that stablecoins may have a large potential to increase the demand for U.S. government debt.
+
+In [_Stablecoins and safe asset prices_](https://www.bis.org/publ/work1270.htm) Rashad Ahmed and Iñaki Aldasoro investigate this effect:
+
+&#62; Inflows into stablecoins reduce three-month US Treasury yields by 2–2.5 basis points within 10 days, while outflows can have a larger impact, raising yields by 6–8 basis points. The effects are concentrated in short-term Treasury securities, with limited to no spillovers to longer-term maturities. Given its relative size, Tether (USDT) contributes the most to estimated effects, followed by Circle (USDC). These results suggest that stablecoins have already established themselves as significant players in Treasury markets. Their growth blurs the lines between cryptocurrency and traditional finance and carries implications for monetary policy, transparency of stablecoin reserves and financial stability – particularly during periods of market stress.
+
+The alternative to commercial metastablecoins is a real stablecoin, a Central Bank Digital Currency (CBDC). Back in July Christopher Smart noted a provision of the GENIUS Act in [_CBDC for thee but not for me_](https://www.ft.com/content/f48c7e68-ed81-4185-b7c5-8b9092397adb):
+
+&#62; Amid the package of crypto bills that should head to the president’s desk in a few days lurks a ban on a digital dollar. With 72 other countries [developing or launching](https://www.atlanticcouncil.org/cbdctracker/) a central bank digital currency and another 35 studying the proposition, what does America’s legislature understand that all these others do not?
+&#62;
+&#62; The shame is that this prohibition on a central bank digital currency (CBDC) for the dollar comes as part of a mostly constructive framework for an industry that’s about to transform modern financial services. It’s as if Congress decided to hit the accelerator and the brake at the same time.
+
+The brake comes from the right wing&#39;s fear of the [Deep State](https://www.ft.com/content/f48c7e68-ed81-4185-b7c5-8b9092397adb):
+
+&#62; They point to China’s pilot of the e-yuan as a future vision that includes the policing of Americans’ spending habits. What they neglect to say is that the government already tracks illicit spending now, within strict, court-supervised limits that would remain in place with any CBDC. They also fail to acknowledge the even more robust [privacy mechanisms](https://www.ecb.europa.eu/euro/digital_euro/features/privacy/html/index.en.html) the European Central Bank is embedding in its CBDC design.
+
+It is somewhat strange that the right thinks it is better to have companies monetizing your spending data than to have the government able to see it. There is obviously no possible way the government can buy or demand your spending data from the metastablecoin companies. But it is public on the relevant blockchain ...
+
+Smart [observes that](https://www.ft.com/content/f48c7e68-ed81-4185-b7c5-8b9092397adb):
+
+&#62; There are perhaps more justifiable concerns about the financial stability risks that CBDCs might create. If there’s an easy way to convert bank deposits to cash, then CBDCs can facilitate a systemic bank run in a crisis without anyone lining up at a teller window. But online bank runs are already possible, as we learned from the collapse of Silicon Valley Bank in 2023. Moreover, the ECB’s plans to issue digital cash through banks and limit holdings in bank accounts will mitigate these risks.
+
+In the wake of Circle&#39;s IPO, Bryce Elder asked [_Stablecoins might revolutionise payments, but what if they don’t?_](https://www.ft.com/content/e80ddcf1-9ad0-45cf-acc5-f9154c817250):
+
+&#62; In practice, in the [more than 10 years](https://www.wsj.com/articles/BL-MBB-23780) since their invention, stablecoins have carved [out a few real-world niches](https://www.ft.com/content/f40b7ac7-bb50-4712-aa7f-5219c2b18789) but have not been widely adopted for anything other than crypto trading.
+
+Elder was skeptical about the metastablecoin [use cases](https://www.ft.com/content/e80ddcf1-9ad0-45cf-acc5-f9154c817250):
+
+&#62; Circle Payments Network, a real-time cross-border settlement system, pushed through its first transaction in May and still relies on traditional payment rails for FX translation and last-mile delivery. Crypto remittances need FX liquidity to be more efficient than the existing networks, and it’s not obvious right now where that liquidity comes from.
+&#62;
+&#62; Circle also has a project with ICE to trial using stablecoins as trading collateral. The promise is for shorter settlement periods and lower margin requirements. But since the market cap of all stablecoins currently represents less than 0.5 per cent of quarterly US equity volumes, disruption is a very long-term prospect.
+
+Finally, we can turn to Molly White for some recent reassurance that metastablecoin issuers know what they&#39;re doing:
+
+- First, [_Paxos accidentally mints more than twice the global GDP in PayPal stablecoins_](https://www.web3isgoinggreat.com/?id=paxos-accidental-mint):
+
+
+
+  &#62; Paxos, the issuer of PayPal&#39;s PYUSD stablecoin, accidentally minted 300 trillion of the supposedly dollar-pegged token. For context, this is approximately 2.5x the global GDP, and around 125x the total number of US dollars actually in circulation. Paxos later announced that the mint was an &#34;internal technical error&#34;, and that they had burned the excess tokens.
+  &#62;
+  &#62; While PayPal promises its customers that &#34;Reserves are held 100% in US dollar deposits, US treasuries and cash equivalents – meaning that customer funds are available for 1:1 redemption with Paxos,&#34; there clearly isn&#39;t much in the way of safeguards to ensure that is always the case. As with most stablecoin issuers, Paxos merely issues self-reported and unreviewed portfolio reports, and monthly third-party attestations (not audits) of reserves.
+
+- Second, [_Elixir shuts down deUSD after Stream Finance halt_](https://www.web3isgoinggreat.com/?id=elixir-shuts-down-deusd):
+
+
+
+  &#62; After the defi yield platform [Stream Finance announced a $93 million loss](https://www.web3isgoinggreat.com/?id=stream-finance-loss), Elixir announced it would be discontinuing its deUSD synthetic stablecoin. Stream Finance owes $68 million to Elixir, and holds around $75 million deUSD.
+  &#62; Elixir has announced that they plan to allow deUSD holders to redeem their tokens for USDC through a process that will also eliminate the risk of Stream Finance cashing out their deUSD without repaying their loan. According to Elixir, &#34;Stream comprised of 99%+ of the lending positions (and has decided to not repay or close positions)&#34;.
+
+
+  deUSD was the 25th largest metastablecoin with $88M market cap and volume of $64K.</source:markdown>
+      <author>noreply@blogger.com (David.)</author>
+      <guid>cid://tag:blogger.com,1999:blog-4503292949532760618.post-3828973381815292533</guid>
+    </item>    <item>
+      <title>Ubuntu 25.10&#39;s Rusty sudo holes quickly welded shut</title>
+      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/11/13/ubuntu_rust_sudo_hole/</link>
+      <description>
+        <![CDATA[<h4>The goal of &#39;oxidizing&#39; the Linux distro hits another bump</h4>
+              <p>Two vulnerabilities in Ubuntu 25.10&#39;s new &#34;sudo-rs&#34; command have been found, disclosed, and fixed in short order.</p>]]>
+      </description>
+      <source:markdown>#### The goal of &#39;oxidizing&#39; the Linux distro hits another bump
+
+Two vulnerabilities in Ubuntu 25.10&#39;s new &#34;sudo-rs&#34; command have been found, disclosed, and fixed in short order.</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243009</guid>
+    </item>    <item>
+      <title>Joy-Joy Feelings</title>
+      <link>https://clip.cafe/demolition-man-1993/lately-i-just-dont-feel-like-theres-anything-special-about-me/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42382</guid>
+    </item>    <item>
+      <title>The Verdict of History</title>
+      <link>https://robertreich.substack.com/p/the-verdict-of-history</link>
+      <description>
+        <![CDATA[Trump and his fascist glorification]]>
+      </description>
+      <source:markdown>Trump and his fascist glorification</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!AB0N!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36be5f2f-6a95-4227-90f1-1a90e6bae89c_680x680.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/the-verdict-of-history</guid>
+    </item>    <item>
+      <title>All Intel GPUs run on Raspberry Pi and RISC-V</title>
+      <link>https://www.jeffgeerling.com/blog/2025/all-intel-gpus-run-on-raspberry-pi-and-risc-v</link>
+      <description>
+        <![CDATA[<span class="field field--name-title field--type-string field--label-hidden">All Intel GPUs run on Raspberry Pi and RISC-V</span>
+        
+                    <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="https://www.jeffgeerling.com/sites/default/files/images/intel-arc-pi-gpu-b580-ai-llama-cpp-llm.jpeg" width="700" height="394" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-61e0159d-f6ab-417d-8e45-2682a0bbe287" data-insert-attach="{&quot;id&quot;:&quot;61e0159d-f6ab-417d-8e45-2682a0bbe287&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Intel Arc Pi GPU B580 AI Llama.cpp LLM"></p>
+        
+        <p>We finally have Intel Arc GPUs working on the Pi <em>somewhat</em> stably—it required overcoming many small hurdles, but it looks like support could land in Raspberry Pi OS if we can get <a href="https://lore.kernel.org/lkml/20250715061837.2144388-1-zhangzhijie@bosc.ac.cn/">a simple patch upstreamed</a><sup id="patchnote"><a href="#fn:patchnote" class="footnote-ref" role="doc-noteref">1</a></sup>. If that happens, all you'd need to do to use an Intel card on a Pi is install a firmware package.</p>
+        
+        <p>The cards I've spent the most time with so far are:</p></div>
+              <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-11-13T09:06:28-06:00" title="Thursday, November 13, 2025 - 09:06" class="datetime">November 13, 2025</time>
+        </span>]]>
+      </description>
+      <source:markdown>All Intel GPUs run on Raspberry Pi and RISC-V
+
+![Intel Arc Pi GPU B580 AI Llama.cpp LLM](https://www.jeffgeerling.com/sites/default/files/images/intel-arc-pi-gpu-b580-ai-llama-cpp-llm.jpeg)
+
+We finally have Intel Arc GPUs working on the Pi _somewhat_ stably—it required overcoming many small hurdles, but it looks like support could land in Raspberry Pi OS if we can get [a simple patch upstreamed](https://lore.kernel.org/lkml/20250715061837.2144388-1-zhangzhijie@bosc.ac.cn/) [1](#fn:patchnote). If that happens, all you&#39;d need to do to use an Intel card on a Pi is install a firmware package.
+
+The cards I&#39;ve spent the most time with so far are:
+
+Jeff GeerlingNovember 13, 2025</source:markdown>
+      <guid>cid://3510 at https://www.jeffgeerling.com</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/13.html#a145442</link>
+      <description>
+        <![CDATA[You will probably see a series of test posts here, as the day goes on.]]>
+      </description>
+      <source:markdown>You will probably see a series of test posts here, as the day goes on.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/13.html#a145442</guid>
+    </item>    <item>
+      <title>After 230 years, the US Mint has ended production of new pennies....</title>
+      <link>https://kottke.org/25/11/0047840-after-230-years-the-us</link>
+      <guid>cid://tag:kottke.org,2025://13.47840</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/13.html#a141708</link>
+      <description>
+        <![CDATA[Good morning. I like how things are going in FeedLand and WordLand today. The dots are starting to connect.]]>
+      </description>
+      <source:markdown>Good morning. I like how things are going in FeedLand and WordLand today. The dots are starting to connect.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/13.html#a141708</guid>
     </item>    <item>
       <title>Golden candlesticks</title>
       <link>https://daverupert.com/2025/11/golden-candlesticks/</link>
@@ -2115,7 +2743,7 @@ This is a good night.
         <![CDATA[The Andy Borowitz Show]]>
       </description>
       <source:markdown>The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/177939872/178b6aa8eb702d5aeb20969ce3ac167f.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/177939872/74f9f092a34e59addc4d1eb3bb5e9271.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.borowitzreport.com/p/cartoonists-take-down-a-tyrant</guid>
     </item>    <item>
       <title>Insights Into Successfully Rebranding Your Podcast</title>
@@ -5120,7 +5748,7 @@ As usual, you can also use this squid post to talk about the security stories in
         <![CDATA[Listen now | The Andy Borowitz Show]]>
       </description>
       <source:markdown>Listen now \| The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/178201642/c5f3fde1ee3e6059ddc476bb88780888.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/178201642/85e17173bc785fb06894c90370f65871.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.borowitzreport.com/p/blue-tsunami-special</guid>
     </item>    <item>
       <title>Published on Citation Needed: &#34;Issue 96 – Redefining solvency&#34;</title>
@@ -7719,7 +8347,7 @@ As authoritarianism is rising around the world, AI-generated “slop” is overw
         <![CDATA[Watch now | The Andy Borowitz Show]]>
       </description>
       <source:markdown>Watch now \| The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/177901928/cbd521a355bf203d47512219f07dd1f4.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/177901928/5e8b1c7a8080ce60e49b3f31faa00bac.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.borowitzreport.com/p/adam-kinzinger-doesnt-hold-back</guid>
     </item>    <item>
       <title>A Brief History of American Socialism</title>
@@ -13986,7 +14614,7 @@ He&#39;s very much [alive](https://en.wikipedia.org/wiki/Philippe_Kahn) as far a
         <![CDATA[Listen now | The Andy Borowitz Show]]>
       </description>
       <source:markdown>Listen now \| The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/177454182/f1eeb3e66df6e0cdceba5c6cc2be0a51.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/177454182/5e9f70380c850b62714e754fc284c6fe.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.borowitzreport.com/p/a-national-guardsman-stands-up-to</guid>
     </item>    <item>
       <title>In conversation with Zohran Mamdani</title>
