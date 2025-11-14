@@ -4,10 +4,38 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>14 Nov 25 10:12 -0800</lastBuildDate>
+    <lastBuildDate>14 Nov 25 14:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Five held after €2.1m drugs seizure in Dublin and Wicklow</title>
+      <link>https://www.rte.ie/news/2025/1114/1544096-cannabis-seizure/</link>
+      <description>
+        <![CDATA[Five people have been arrested following the seizure of drugs worth an estimated €2.1 million.]]>
+      </description>
+      <source:markdown>Five people have been arrested following the seizure of drugs worth an estimated €2.1 million.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1114/1544096-cannabis-seizure/</guid>
+    </item>    <item>
+      <title>Waiving anonymity important for &#39;closure,&#39; says victim</title>
+      <link>https://www.rte.ie/news/2025/1114/1544090-drogheda-indecent-assault/</link>
+      <description>
+        <![CDATA[A 76-year-old man has been remanded in custody to await sentencing after admitting he indecently assaulted two young girls in the 1970s and 1980s.]]>
+      </description>
+      <source:markdown>A 76-year-old man has been remanded in custody to await sentencing after admitting he indecently assaulted two young girls in the 1970s and 1980s.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1114/1544090-drogheda-indecent-assault/</guid>
+    </item>    <item>
+      <title>&#39;Shared Island&#39; event celebrates &#34;imagination and shared purpose&#34;</title>
+      <link>https://www.rte.ie/culture/2025/1114/1544080-shared-island-event-celebrates-imagination-and-shared-purpose/</link>
+      <guid>cid://https://www.rte.ie/culture/2025/1114/1544080-shared-island-event-celebrates-imagination-and-shared-purpose/</guid>
+    </item>    <item>
+      <title>Podcast: Why is the US military off Venezuela&#39;s coast?</title>
+      <link>https://www.rte.ie/news/2025/1114/1544062-podcast-why-is-the-us-military-off-venezuelas-coast/</link>
+      <description>
+        <![CDATA[The US military build-up in the Caribbean is not about drug smuggling, Professor Scott Lucas has told Behind the Story.]]>
+      </description>
+      <source:markdown>The US military build-up in the Caribbean is not about drug smuggling, Professor Scott Lucas has told Behind the Story.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1114/1544062-podcast-why-is-the-us-military-off-venezuelas-coast/</guid>
+    </item>    <item>
       <title>Watch: Parrott&#39;s former club praise &#39;special&#39; performance</title>
       <link>https://www.rte.ie/news/2025/1114/1544058-troy-parrott-ireland-belvedere/</link>
       <description>
@@ -91,6 +119,14 @@
       </description>
       <source:markdown>Taoiseach Micheál Martin has insisted that a review of Fianna Fáil&#39;s presidential campaign is &#34;not delayed&#34;.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1114/1544015-ff-presidential-campaign/</guid>
+    </item>    <item>
+      <title>Gavin hails resilience in first post-election appearance</title>
+      <link>https://www.rte.ie/news/ireland/2025/1114/1544015-ff-presidential-campaign-gavin/</link>
+      <description>
+        <![CDATA[Fianna Fáil's former presidential candidate Jim Gavin has hailed the importance of "resilience".]]>
+      </description>
+      <source:markdown>Fianna Fáil&#39;s former presidential candidate Jim Gavin has hailed the importance of &#34;resilience&#34;.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/1114/1544015-ff-presidential-campaign-gavin/</guid>
     </item>    <item>
       <title>Parrott the latest hero from Dublin&#39;s north inner city</title>
       <link>https://www.rte.ie/sport/soccer/2025/1114/1543951-parrott-the-latest-hero-from-dublins-north-inner-city/</link>
@@ -212,6 +248,15 @@
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-11-2023_UNICEF_Madagascar-02.jpg/image560x340cropped.jpg" length="50844" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/11/1166369</guid>
     </item>    <item>
+      <title>Indigenous protesters block COP30 entrance, demand action from Brazilian Government</title>
+      <link>https://news.un.org/feed/view/en/story/2025/11/1166373</link>
+      <description>
+        <![CDATA[Around 90 Indigenous people from the Munduruku Indigenous group staged a peaceful protest early Friday, blocking the main entrance to the Blue Zone – the restricted area set aside for negotiators – at COP30 in Belém. Access was halted for about an hour, and the army was called in to reinforce security.]]>
+      </description>
+      <source:markdown>Around 90 Indigenous people from the Munduruku Indigenous group staged a peaceful protest early Friday, blocking the main entrance to the Blue Zone – the restricted area set aside for negotiators – at COP30 in Belém. Access was halted for about an hour, and the army was called in to reinforce security.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/14-11-2025-UNFCCC-COP30-indigenous-07.jpg/image560x340cropped.jpg" length="38427" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/11/1166373</guid>
+    </item>    <item>
       <title>Cardinal David at COP30: We must not make it so easy to abuse nature</title>
       <link>https://www.vaticannews.va/en/world/news/2025-11/cardinal-david-cop-we-must-not-make-it-so-easy-to-abuse-nature.html</link>
       <description>
@@ -287,7 +332,7 @@ A man convicted of the 1979 killing of a six-year-old girl who was abducted from
       <source:markdown>The giant New Glenn rocket from billionaire Jeff Bezos&#39; space company Blue Origin launched from Florida on its debut mission for paying customers, sending two NASA satellites toward Mars and nailing the return landing of its reusable booster for the first time.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2025/1114/1543924-blue-origin/</guid>
     </item>    <item>
-      <title>Councils monitoring water levels amid risk of flooding</title>
+      <title>&#39;Don&#39;t go out unless you have to&#39; - Met Éireann</title>
       <link>https://www.rte.ie/news/2025/1114/1543908-weather-warning-blog/</link>
       <description>
         <![CDATA[Follow live developments as Status Orange and Yellow warnings are issued, with heavy rain and strong winds forecast for much of the south and east.]]>

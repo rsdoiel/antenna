@@ -4,14 +4,143 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>14 Nov 25 10:12 -0800</lastBuildDate>
+    <lastBuildDate>14 Nov 25 14:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Memory boom-bust cycle booms again as Samsung reportedly jacks memory prices 60%</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/14/samsung_price_jump/</link>
+      <description>
+        <![CDATA[<h4>Leaving buyers to cry, AI AI AI</h4> <p>If you haven&#39;t noticed, DRAM memory has gotten a lot more expensive in recent weeks. …</p>]]>
+      </description>
+      <source:markdown>#### Leaving buyers to cry, AI AI AI
+
+If you haven&#39;t noticed, DRAM memory has gotten a lot more expensive in recent weeks. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243048</guid>
+    </item>    <item>
+      <title>Developers Test Visual Studio 2026’s AI-Native Claims</title>
+      <link>https://thenewstack.io/developers-test-visual-studio-2026s-ai-native-claims/</link>
+      <description>
+        <![CDATA[<img width="1024" height="683" src="https://cdn.thenewstack.io/media/2025/11/b30d9f4e-getty-images-7tytwos8kfm-unsplash-1024x683.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/b30d9f4e-getty-images-7tytwos8kfm-unsplash.jpg" /><p>Microsoft this week made Visual Studio 2026 &#8212; the latest version of its flagship dev platform &#8212; generally available, calling</p>
+        <p>The post <a href="https://thenewstack.io/developers-test-visual-studio-2026s-ai-native-claims/">Developers Test Visual Studio 2026&#8217;s AI-Native Claims</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/b30d9f4e-getty-images-7tytwos8kfm-unsplash-1024x683.jpg)
+
+Microsoft this week made Visual Studio 2026 — the latest version of its flagship dev platform — generally available, calling
+
+The post [Developers Test Visual Studio 2026’s AI-Native Claims](https://thenewstack.io/developers-test-visual-studio-2026s-ai-native-claims/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806742</guid>
+    </item>    <item>
+      <title>Six Ancient Roman Statues Have Been Stolen From Syria&#39;s National Museum</title>
+      <link>https://www.smithsonianmag.com/smart-news/six-ancient-roman-statues-have-been-stolen-from-syrias-national-museum-180987684/</link>
+      <description>
+        <![CDATA[The theft is a serious loss for the country's cultural heritage, which had already sustained extensive damage during a long civil war]]>
+      </description>
+      <source:markdown>The theft is a serious loss for the country&#39;s cultural heritage, which had already sustained extensive damage during a long civil war</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/y5KbSO9Oty4iwk1GK0K5LD6jC18=/420x240/filters:focal(3175x2117:3176x2118)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/53/cd/53cddd15-8291-4562-aa81-530ec1ee9749/gettyimages-2192356414.jpg" length="" type="" />
+    </item>    <item>
+      <title>Researchers find hole in AI guardrails by using strings like =coffee</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/14/ai_guardrails_prompt_injections_echogram_tokens/</link>
+      <description>
+        <![CDATA[<h4>Who guards the guardrails? Often the same shoddy security as the rest of the AI stack</h4> <p>Large language models frequently ship with &#34;guardrails&#34; designed to catch malicious input and harmful output. But if you use the right word or phrase in your prompt, you can defeat these restrictions.…</p>]]>
+      </description>
+      <source:markdown>#### Who guards the guardrails? Often the same shoddy security as the rest of the AI stack
+
+Large language models frequently ship with &#34;guardrails&#34; designed to catch malicious input and harmful output. But if you use the right word or phrase in your prompt, you can defeat these restrictions.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243047</guid>
+    </item>    <item>
+      <title>Watch Suckerfish Hitch a Wild Ride on Humpback Whales in Rare Video Footage</title>
+      <link>https://www.smithsonianmag.com/smart-news/watch-suckerfish-hitch-a-wild-ride-on-humpback-whales-in-rare-video-footage-180987695/</link>
+      <description>
+        <![CDATA[Suckerfish—also known as remoras—are harmless, but the whales didn't seem to be fans of their hitchhiking]]>
+      </description>
+      <source:markdown>Suckerfish—also known as remoras—are harmless, but the whales didn&#39;t seem to be fans of their hitchhiking</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/gX0IGle4MLolwJrQMOeWoKmMrVU=/420x240/filters:focal(1408x697:1409x698)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/87/f5/87f59fd0-9cf5-48dc-9ccd-786ef6066ae6/screenshot_2025-11-14_at_114313.png" length="" type="" />
+    </item>    <item>
+      <title>Canonical Extends Ubuntu Linux Support for up to 15 Years</title>
+      <link>https://thenewstack.io/canonical-extends-ubuntu-linux-support-for-up-to-15-years/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/36476e17-talos-linux-2-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Gentoo penguin leaping happily." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/36476e17-talos-linux-2.jpg" /><p>So, you say you want really, really long-term support for your Linux? Boy, does Canonical have a deal for you!</p>
+        <p>The post <a href="https://thenewstack.io/canonical-extends-ubuntu-linux-support-for-up-to-15-years/">Canonical Extends Ubuntu Linux Support for up to 15 Years</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Gentoo penguin leaping happily.](https://cdn.thenewstack.io/media/2025/11/36476e17-talos-linux-2-1024x576.jpg)
+
+So, you say you want really, really long-term support for your Linux? Boy, does Canonical have a deal for you!
+
+The post [Canonical Extends Ubuntu Linux Support for up to 15 Years](https://thenewstack.io/canonical-extends-ubuntu-linux-support-for-up-to-15-years/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806602</guid>
+    </item>    <item>
+      <title>Fortinet finally cops to critical make-me-admin bug under active exploitation</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/14/fortinet_active_exploit_cve_2025_64446/</link>
+      <description>
+        <![CDATA[<h4>More than a month after PoC made public</h4> <p>Fortinet finally published a security advisory on Friday for a critical FortiWeb path traversal vulnerability under active exploitation – but it appears digital intruders got a month&#39;s head start.…</p>]]>
+      </description>
+      <source:markdown>#### More than a month after PoC made public
+
+Fortinet finally published a security advisory on Friday for a critical FortiWeb path traversal vulnerability under active exploitation – but it appears digital intruders got a month&#39;s head start.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243046</guid>
+    </item>    <item>
+      <title>The Florentine Diamond Was Thought to Be Lost to History. It&#39;s Actually Been Safely Tucked Away in a Canadian Bank Vault All Along</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-florentine-diamond-was-thought-to-be-lost-to-history-its-actually-been-safely-tucked-away-in-a-canadian-bank-vault-all-along-180987665/</link>
+      <description>
+        <![CDATA[Empress Zita of Bourbon-Parma wanted the jewel's location to be kept secret for 100 years after the death of her husband, Charles I, in 1922. Their descendants now plan to display it at a museum]]>
+      </description>
+      <source:markdown>Empress Zita of Bourbon-Parma wanted the jewel&#39;s location to be kept secret for 100 years after the death of her husband, Charles I, in 1922. Their descendants now plan to display it at a museum</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/qa98GBAuvaE2nD9dPgTe1aWNrL8=/420x240/filters:focal(1606x948:1607x949)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/66/ce/66cecad8-25c4-4946-988a-deb3ab74e9c7/gettyimages-3289977.jpg" length="" type="" />
+    </item>    <item>
+      <title>Canonical pushes Ubuntu LTS support even further - if you pay</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/14/canonical_ubuntu_extended_support/</link>
+      <description>
+        <![CDATA[<h4>Enterprise Linux vendors keep jostling to see who can prop up geriatric distros the longest</h4> <p>Last year, Canonical increased its paid extended support lifespan to 12 years. Now, it&#39;s increasing it again, to 15 years ... for a price.…</p>]]>
+      </description>
+      <source:markdown>#### Enterprise Linux vendors keep jostling to see who can prop up geriatric distros the longest
+
+Last year, Canonical increased its paid extended support lifespan to 12 years. Now, it&#39;s increasing it again, to 15 years ... for a price.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243044</guid>
+    </item>    <item>
+      <title>NASA Sets Launch Coverage for International Ocean Tracking Mission</title>
+      <link>https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-international-ocean-tracking-mission/</link>
+      <description>
+        <![CDATA[NASA will provide live coverage of prelaunch and launch activities for Sentinel-6B, an international mission delivering critical sea level and ocean data to protect coastal infrastructure, improve weather forecasting, and support commercial activities at sea. Launch is targeted at 12:21 a.m. EST, Monday, Nov. 17 (9:21 p.m. PST, Sunday, Nov. 16) aboard a SpaceX Falcon [&#8230;]]]>
+      </description>
+      <source:markdown>NASA will provide live coverage of prelaunch and launch activities for Sentinel-6B, an international mission delivering critical sea level and ocean data to protect coastal infrastructure, improve weather forecasting, and support commercial activities at sea. Launch is targeted at 12:21 a.m. EST, Monday, Nov. 17 (9:21 p.m. PST, Sunday, Nov. 16) aboard a SpaceX Falcon \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=926947</guid>
+    </item>    <item>
+      <title>Jupyter Deploy: The New Middle Ground Between Laptops and Enterprise</title>
+      <link>https://thenewstack.io/jupyter-deploy-the-new-middle-ground-between-laptops-and-enterprise/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/6e7af5bb-thumbnail-23-1024x576.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="At JupyterCon 2025, AWS engineer Jonathan Guinegagne, described users often struggle in an “in-between” space—needing more computing power and collaboration features than a laptop offers, but without the resources for complex cloud setups." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/6e7af5bb-thumbnail-23.png" /><p>What do educators teaching deep learning workshops, startup teams spinning up collaborative data science environments and researchers needing GPU access</p>
+        <p>The post <a href="https://thenewstack.io/jupyter-deploy-the-new-middle-ground-between-laptops-and-enterprise/">Jupyter Deploy: The New Middle Ground Between Laptops and Enterprise</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![At JupyterCon 2025, AWS engineer Jonathan Guinegagne, described users often struggle in an “in-between” space—needing more computing power and collaboration features than a laptop offers, but without the resources for complex cloud setups.](https://cdn.thenewstack.io/media/2025/11/6e7af5bb-thumbnail-23-1024x576.png)
+
+What do educators teaching deep learning workshops, startup teams spinning up collaborative data science environments and researchers needing GPU access
+
+The post [Jupyter Deploy: The New Middle Ground Between Laptops and Enterprise](https://thenewstack.io/jupyter-deploy-the-new-middle-ground-between-laptops-and-enterprise/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806525</guid>
+    </item>    <item>
+      <title>Top 10: Das beste Handy-Ladegerät bis 65 Watt im Test</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-handy-ladegeraet-bis-65-w-im-test-auch-guenstig-schnell-laden/y3c3lpe?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Um Handys zu laden, benötigt man kein teures Ladegerät. Wir zeigen die besten USB-Netzteile unter 65 Watt.]]>
+      </description>
+      <source:markdown>Um Handys zu laden, benötigt man kein teures Ladegerät. Wir zeigen die besten USB-Netzteile unter 65 Watt.</source:markdown>
+      <guid>cid://http://heise.de/-11079633</guid>
+    </item>    <item>
+      <title>Crims poison 150K+ npm packages with token-farming malware</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/14/selfreplicating_supplychain_attack_poisons_150k/</link>
+      <description>
+        <![CDATA[<h4>Amazon spilled the TEA</h4> <p>Yet another supply chain attack has hit the npm registry in what Amazon describes as &#34;one of the largest package flooding incidents in open source registry history&#34; - but with a twist. Instead of injecting credential-stealing code or ransomware into the packages, this one is a token farming campaign.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Amazon spilled the TEA
+
+Yet another supply chain attack has hit the npm registry in what Amazon describes as &#34;one of the largest package flooding incidents in open source registry history&#34; - but with a twist. Instead of injecting credential-stealing code or ransomware into the packages, this one is a token farming campaign.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243043</guid>
+    </item>    <item>
       <title>AI Agents in Legacy Systems — The Problem No One Talks About</title>
       <link>https://thenewstack.io/ai-agents-in-legacy-systems-the-problem-no-one-talks-about/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/cf0a101e-agents-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="AI agents require context to understand the meaning of their tasks." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/cf0a101e-agents.jpg" /><p>When we first began integrating AI agents into enterprise environments, I expected the challenges to come from the AI models</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/cf0a101e-agents-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="AI agents require context to understand the meaning of their tasks." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/cf0a101e-agents.jpg" /><p>When we first began integrating AI agents into enterprise environments, I expected the challenges to come from the AI models</p>
         <p>The post <a href="https://thenewstack.io/ai-agents-in-legacy-systems-the-problem-no-one-talks-about/">AI Agents in Legacy Systems — The Problem No One Talks About</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![AI agents require context to understand the meaning of their tasks.](https://cdn.thenewstack.io/media/2025/11/cf0a101e-agents-1024x576.jpg)
@@ -48,7 +177,7 @@ The post [AI Agents in Legacy Systems — The Problem No One Talks About](https:
       <title>Red Hat OpenShift 4.20 Boosts AI, Security, Hybrid Cloud</title>
       <link>https://thenewstack.io/red-hat-openshift-4-20-boosts-ai-security-hybrid-cloud/</link>
       <description>
-        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/11/ba1021f0-the-blowup-pguirt0m-m0-unsplash-1024x768.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/ba1021f0-the-blowup-pguirt0m-m0-unsplash.jpg" /><p>ATLANTA &#8212; Would it surprise you to know that &#8216;s latest OpenShift release, 4.20, comes with more AI features than</p>
+        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/11/ba1021f0-the-blowup-pguirt0m-m0-unsplash-1024x768.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/ba1021f0-the-blowup-pguirt0m-m0-unsplash.jpg" /><p>ATLANTA &#8212; Would it surprise you to know that &#8216;s latest OpenShift release, 4.20, comes with more AI features than</p>
         <p>The post <a href="https://thenewstack.io/red-hat-openshift-4-20-boosts-ai-security-hybrid-cloud/">Red Hat OpenShift 4.20 Boosts AI, Security, Hybrid Cloud</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/ba1021f0-the-blowup-pguirt0m-m0-unsplash-1024x768.jpg)
@@ -324,12 +453,12 @@ IT spending in Europe will grow 11 percent next year to hit $1.4 trillion amid a
       <source:markdown>Bislang müssen Menschen, die sich US-Fußball interessieren, extra zahlen. Nach ersten Gratispartien für Apple-TV-Kunden folgt nun das gesamte Programm.</source:markdown>
       <guid>cid://http://heise.de/-11079002</guid>
     </item>    <item>
-      <title>Tales from the pit: AI and the software engineer</title>
+      <title>Software engineer reveals the dirty little secret about AI coding assistants: They don&#39;t save much time</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/14/ai_and_the_software_engineer/</link>
       <description>
-        <![CDATA[<h4>Exploring the evolving relationship between human engineers and their algorithmic assistants</h4> <p><strong>Feature</strong>  Artificial intelligence is rapidly reshaping the way software gets built, tested, and maintained — but not in the simplistic, headline-grabbing sense of &#34;AI replacing developers.&#34;…</p>]]>
+        <![CDATA[<h4>&#39;Stay in control and think for yourself&#39;</h4> <p><strong>Feature</strong>  Artificial intelligence is rapidly reshaping the way software gets built, tested, and maintained — but not in the simplistic, headline-grabbing sense of &#34;AI replacing developers.&#34;…</p>]]>
       </description>
-      <source:markdown>#### Exploring the evolving relationship between human engineers and their algorithmic assistants
+      <source:markdown>#### &#39;Stay in control and think for yourself&#39;
 
 **Feature**  Artificial intelligence is rapidly reshaping the way software gets built, tested, and maintained — but not in the simplistic, headline-grabbing sense of &#34;AI replacing developers.&#34;…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242933</guid>

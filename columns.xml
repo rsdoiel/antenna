@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>14 Nov 25 10:12 -0800</lastBuildDate>
+    <lastBuildDate>14 Nov 25 14:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -141,6 +141,176 @@ As always, do give this release a try and open a [ticket](https://gitlab.haskell
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
     </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115550314099461877</link>
+      <description>
+        <![CDATA[<p>I shrank down SwiftGodot for those that just want to expose APIs to Godot, but do not need to control Godot, and added a  template that you can use to make your own:</p><p>This leverages the new &quot;barebones&quot; SwiftGodot work:</p><p><a href="https://github.com/migueldeicaza/SwiftGodotAppleTemplate" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/migueldeicaza/Swift</span><span class="invisible">GodotAppleTemplate</span></a></p>]]>
+      </description>
+      <source:markdown>I shrank down SwiftGodot for those that just want to expose APIs to Godot, but do not need to control Godot, and added a template that you can use to make your own:
+
+This leverages the new &#34;barebones&#34; SwiftGodot work:
+
+[https://github.com/migueldeicaza/SwiftGodotAppleTemplate](https://github.com/migueldeicaza/SwiftGodotAppleTemplate)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115550314099461877</guid>
+    </item>    <item>
+      <title>Perros: la envidia sana no existe</title>
+      <link>https://www.palomitademaiz.net/resenas-perros/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-perros</link>
+      <description>
+        <![CDATA[<p>Dirección: Gerardo Minutti. Guion: Gerardo Minutti. Elenco: Néstor Guzzini, María Elena Pérez, Marcelo Subiotto, Catalina Arrillaga, Roberto Suárez, Noelia Campo. Países: Uruguay, Argentina. Más información de la película: https://www.imdb.com/title/tt33347851/ El hombre de la calle Dice “No te aguanto más” En medio del discurso Corre bruscamente el dial Él sabe que a ese hombre Nunca lo [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-perros/">Perros: la envidia sana no existe</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Dirección: Gerardo Minutti. Guion: Gerardo Minutti. Elenco: Néstor Guzzini, María Elena Pérez, Marcelo Subiotto, Catalina Arrillaga, Roberto Suárez, Noelia Campo. Países: Uruguay, Argentina. Más información de la película: https://www.imdb.com/title/tt33347851/ El hombre de la calle Dice “No te aguanto más” En medio del discurso Corre bruscamente el dial Él sabe que a ese hombre Nunca lo \[…\]
+
+La entrada [Perros: la envidia sana no existe](https://www.palomitademaiz.net/resenas-perros/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=25725</guid>
+    </item>    <item>
+      <title>It’s a masterpiece</title>
+      <link>https://news.lettersofnote.com/p/its-a-masterpiece-8cf</link>
+      <description>
+        <![CDATA[Martin Scorsese's filmmaking idol sends some glowing feedback]]>
+      </description>
+      <source:markdown>Martin Scorsese&#39;s filmmaking idol sends some glowing feedback</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!aIcc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F119f4c72-a05f-4bcd-875a-87e0c7a5286b_594x387.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://news.lettersofnote.com/p/its-a-masterpiece-8cf</guid>
+    </item>    <item>
+      <title>&#38;#8220;A Personal Business is run by people who are truly into what...</title>
+      <link>https://kottke.org/25/11/0047814-a-personal-business-is-ru</link>
+      <guid>cid://tag:kottke.org,2025://13.47814</guid>
+    </item>    <item>
+      <title>Roadmap for Improving the Swift Type Checker</title>
+      <link>https://mjtsai.com/blog/2025/11/14/roadmap-for-improving-the-swift-type-checker/</link>
+      <description>
+        <![CDATA[Slava Pestov (Hacker News): This is all, of course, about the dreaded the compiler is unable to type-check this expression in reasonable time error. This error can appear with both valid and invalid code, and the various workarounds are unsatisfactory, to say the least. Splitting up an expression into smaller pieces, introducing type annotations, or [&#8230;]]]>
+      </description>
+      <source:markdown>Slava Pestov (Hacker News): This is all, of course, about the dreaded the compiler is unable to type-check this expression in reasonable time error. This error can appear with both valid and invalid code, and the various workarounds are unsatisfactory, to say the least. Splitting up an expression into smaller pieces, introducing type annotations, or \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=50072</guid>
+    </item>    <item>
+      <title>iPad Pro at 10</title>
+      <link>https://mjtsai.com/blog/2025/11/14/ipad-pro-at-10/</link>
+      <description>
+        <![CDATA[David Pierce (Slashdot): When the iPad Pro came along five years later &#8212; it went on sale 10 years ago today &#8212; nothing much had changed. The Pro ran all the same apps, did all the same things, had pretty much the same things in pretty much the same places. It was just bigger. Its [&#8230;]]]>
+      </description>
+      <source:markdown>David Pierce (Slashdot): When the iPad Pro came along five years later — it went on sale 10 years ago today — nothing much had changed. The Pro ran all the same apps, did all the same things, had pretty much the same things in pretty much the same places. It was just bigger. Its \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=50070</guid>
+    </item>    <item>
+      <title>Unmasking Archive.today</title>
+      <link>https://mjtsai.com/blog/2025/11/14/unmasking-archive-today/</link>
+      <description>
+        <![CDATA[Jason Koebler (Slashdot): The FBI is attempting to unmask the owner behind archive.today, a popular archiving site that is also regularly used to bypass paywalls on the internet and to avoid sending traffic to the original publishers of web content, according to a subpoena posted by the website. The FBI subpoena says it is part [&#8230;]]]>
+      </description>
+      <source:markdown>Jason Koebler (Slashdot): The FBI is attempting to unmask the owner behind archive.today, a popular archiving site that is also regularly used to bypass paywalls on the internet and to avoid sending traffic to the original publishers of web content, according to a subpoena posted by the website. The FBI subpoena says it is part \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=50068</guid>
+    </item>    <item>
+      <title>NotificationQueue and Custom Dispatch Source Coalescing</title>
+      <link>https://mjtsai.com/blog/2025/11/14/notificationqueue-and-custom-dispatch-source-coalescing/</link>
+      <description>
+        <![CDATA[I have some old code that uses NSNotificationQueue to coalesce notifications. I think this is an underappreciated class. (Even in the old days, I saw a lot more talk about +cancelPreviousPerformRequestsWithTarget:selector:object:.) My newer code uses more threads, but notification queues are not thread-safe. You can create additional queues beyond the default and have each one [&#8230;]]]>
+      </description>
+      <source:markdown>I have some old code that uses NSNotificationQueue to coalesce notifications. I think this is an underappreciated class. (Even in the old days, I saw a lot more talk about +cancelPreviousPerformRequestsWithTarget:selector:object:.) My newer code uses more threads, but notification queues are not thread-safe. You can create additional queues beyond the default and have each one \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=50066</guid>
+    </item>    <item>
+      <title>parakeet-mlx</title>
+      <link>https://simonwillison.net/2025/Nov/14/parakeet-mlx/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://github.com/senstella/parakeet-mlx">parakeet-mlx</a></strong></p>
+        Neat MLX project by Senstella bringing NVIDIA's <a href="https://huggingface.co/nvidia/parakeet-tdt-0.6b-v2">Parakeet</a> ASR (Automatic Speech Recognition, like Whisper) model to to Apple's MLX framework.</p>
+        <p>It's packaged as a Python CLI tool, so you can run it like this:</p>
+        <pre><code>uvx parakeet-mlx default_tc.mp3
+        </code></pre>
+        <p>The first time I ran this it downloaded a 2.5GB model file.</p>
+        <p>Once that was fetched it took 53 seconds to transcribe a 65MB 1hr 1m 28s podcast episode (<a href="https://accessibility-and-gen-ai.simplecast.com/episodes/ep-6-simon-willison-datasette">this one</a>) and produced <a href="https://gist.github.com/simonw/ea1dc73029bf080676839289e705a2a2">this default_tc.srt file</a> with a timestamped transcript of the audio I fed into it. The quality appears to be very high.
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/nvidia">nvidia</a>, <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/speech-to-text">speech-to-text</a></p>]]>
+      </description>
+      <source:markdown>**[parakeet-mlx](https://github.com/senstella/parakeet-mlx)**
+
+Neat MLX project by Senstella bringing NVIDIA&#39;s [Parakeet](https://huggingface.co/nvidia/parakeet-tdt-0.6b-v2) ASR (Automatic Speech Recognition, like Whisper) model to to Apple&#39;s MLX framework.
+
+It&#39;s packaged as a Python CLI tool, so you can run it like this:
+
+```
+uvx parakeet-mlx default_tc.mp3
+
+```
+
+The first time I ran this it downloaded a 2.5GB model file.
+
+Once that was fetched it took 53 seconds to transcribe a 65MB 1hr 1m 28s podcast episode ( [this one](https://accessibility-and-gen-ai.simplecast.com/episodes/ep-6-simon-willison-datasette)) and produced [this default\_tc.srt file](https://gist.github.com/simonw/ea1dc73029bf080676839289e705a2a2) with a timestamped transcript of the audio I fed into it. The quality appears to be very high.
+
+
+
+Tags: [python](https://simonwillison.net/tags/python), [ai](https://simonwillison.net/tags/ai), [nvidia](https://simonwillison.net/tags/nvidia), [uv](https://simonwillison.net/tags/uv), [mlx](https://simonwillison.net/tags/mlx), [speech-to-text](https://simonwillison.net/tags/speech-to-text)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/14/parakeet-mlx/#atom-everything</guid>
+    </item>    <item>
+      <title>Here’s what’s making us happy  this  week.</title>
+      <link>https://lithub.com/heres-whats-making-us-happy-this-week-6/</link>
+      <description>
+        <![CDATA[Good Friday, readers! Over here, we have happy feet. Music&#8217;s been getting us through these freaky days. So today, up is down and Lit Hub is&#8230;Pitchfork. McKayla Coyle and Oliver Scialdone are all about the new Rosalía. This fourth album]]>
+      </description>
+      <source:markdown>Good Friday, readers! Over here, we have happy feet. Music’s been getting us through these freaky days. So today, up is down and Lit Hub is…Pitchfork. McKayla Coyle and Oliver Scialdone are all about the new Rosalía. This fourth album</source:markdown>
+      <guid>cid://https://lithub.com/?p=262761</guid>
+    </item>    <item>
+      <title>Des “mini-podcasts” à écouter [en]</title>
+      <link>https://climbtothestars.org/archives/2025/11/14/des-mini-podcasts-a-ecouter/</link>
+      <description>
+        <![CDATA[[en] Après l&#8217;introduction d&#8217;hier (enfin à l&#8217;heure de publication, c&#8217;est avant-hier), venons-en au menu principal: une collection de podcasts en série limitée, type documentaire en x épisodes, surtout en anglais (parce qu&#8217;il y en a moins en français, tout simplement). A écouter, bien sûr. Je ne les ai pas mis dans un ordre particulier, juste &#8230; <a href="https://climbtothestars.org/archives/2025/11/14/des-mini-podcasts-a-ecouter/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Des &#8220;mini-podcasts&#8221; à écouter <span class='bb-lang'>[en]</span></span>"</span></a>]]>
+      </description>
+      <source:markdown>\[en\] Après l’introduction d’hier (enfin à l’heure de publication, c’est avant-hier), venons-en au menu principal: une collection de podcasts en série limitée, type documentaire en x épisodes, surtout en anglais (parce qu’il y en a moins en français, tout simplement). A écouter, bien sûr. Je ne les ai pas mis dans un ordre particulier, juste … [Continue reading &#34;Des “mini-podcasts” à écouter \[en\]&#34;](https://climbtothestars.org/archives/2025/11/14/des-mini-podcasts-a-ecouter/)</source:markdown>
+      <guid>cid://https://climbtothestars.org/?p=10266</guid>
+    </item>    <item>
+      <title>Canonical pushes Ubuntu LTS support even further - if you pay</title>
+      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/11/14/canonical_ubuntu_extended_support/</link>
+      <description>
+        <![CDATA[<h4>Enterprise Linux vendors keep jostling to see who can prop up geriatric distros the longest</h4>
+              <p>Last year, Canonical increased its paid extended support lifespan to 12 years. Now, it&#39;s increasing it again, to 15 years ... for a price.</p>]]>
+      </description>
+      <source:markdown>#### Enterprise Linux vendors keep jostling to see who can prop up geriatric distros the longest
+
+Last year, Canonical increased its paid extended support lifespan to 12 years. Now, it&#39;s increasing it again, to 15 years ... for a price.</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243044</guid>
+    </item>    <item>
+      <title>On Comfortable Lies and the Pain of Knowing</title>
+      <link>https://www.notesfromthecircus.com/p/on-comfortable-lies-and-the-pain</link>
+      <description>
+        <![CDATA[Truth Costs More Than Most People Are Willing to Pay]]>
+      </description>
+      <source:markdown>Truth Costs More Than Most People Are Willing to Pay</source:markdown>
+      <enclosure url="https://images.unsplash.com/photo-1697455621753-655ec695b415?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyfHxhbmNpZW50JTIwZ3JlZWNlfGVufDB8fHx8MTc2MzE0NjQ5Mnww&ixlib=rb-4.1.0&q=80&w=1080" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/on-comfortable-lies-and-the-pain</guid>
+    </item>    <item>
+      <title>Jett Brunet carves incredibly realistic duck decoys....</title>
+      <link>https://kottke.org/25/11/0047816-jett-brunet-carves-incred</link>
+      <guid>cid://tag:kottke.org,2025://13.47816</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/14.html#a182534</link>
+      <description>
+        <![CDATA[I absolutely love <a href="https://en.wikipedia.org/wiki/Pluribus_(TV_series)">Pluribus</a>, but it has the hardest freaking name to remember. I love stories like this, with new assumptions about what is, and people coping with what may or may not be great, or boring, or who knows what. I know they've got me thinking about it all the time, and that is what I like in a good televised story.]]>
+      </description>
+      <source:markdown>I absolutely love [Pluribus](https://en.wikipedia.org/wiki/Pluribus_\(TV_series\)), but it has the hardest freaking name to remember. I love stories like this, with new assumptions about what is, and people coping with what may or may not be great, or boring, or who knows what. I know they&#39;ve got me thinking about it all the time, and that is what I like in a good televised story.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/14.html#a182534</guid>
+    </item>    <item>
+      <link>https://www.msnbc.com/opinion/msnbc-opinion/trump-epstein-emails-files-republican-allies-rcna243787</link>
+      <description>
+        <![CDATA[<p>GOP splintering over the Epstein files highlights a bigger problem for Trump.</p>]]>
+      </description>
+      <source:markdown>GOP splintering over the Epstein files highlights a bigger problem for Trump.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/14/1905/</guid>
+    </item>    <item>
+      <title>MyTerms are Your Terms</title>
+      <link>https://doc.searls.com/2025/11/14/myterms-are-your-terms/</link>
+      <description>
+        <![CDATA[That&#8217;s the case I&#8217;ll be making next Tuesday in a talk at Indiana University. The subject is big—maybe the biggest in your online life. Because it&#8217;s about the only way you&#8217;ll ever really get privacy online. And that way will support far more business than is possible in the privacy-hostile surveillance-based guesswork fecosystem we have [&#8230;]]]>
+      </description>
+      <source:markdown>That’s the case I’ll be making next Tuesday in a talk at Indiana University. The subject is big—maybe the biggest in your online life. Because it’s about the only way you’ll ever really get privacy online. And that way will support far more business than is possible in the privacy-hostile surveillance-based guesswork fecosystem we have \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/?p=19729</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/14.html#a180809</link>
+      <description>
+        <![CDATA[Now I have the other half of the bridge working. <a href="http://scripting.com/2025/11/14.html#a180809">This post</a> is full of the testing I did on this, and yes it all worked. I'm going to post something new and see if it makes it through to the other side. And you get to see if it works or not. And now I'm going to make a change. Having made the change I want to see if it made it through. It's kind of remarkable to me that I got this much done in one day. That's what happens when you invested in good tools. And <a href="https://scripting4.wordpress.com/2025/11/14/467/">this is where</a> the changes have been visible, on a scratch site used just for these occasions. Tomorrow, the third day of this project, I clean up the loose ends and then we should be good to go with the posts I make on scripting showing up in daveverse. Then I can get started with the next project that depends on this.]]>
+      </description>
+      <source:markdown>Now I have the other half of the bridge working. [This post](http://scripting.com/2025/11/14.html#a180809) is full of the testing I did on this, and yes it all worked. I&#39;m going to post something new and see if it makes it through to the other side. And you get to see if it works or not. And now I&#39;m going to make a change. Having made the change I want to see if it made it through. It&#39;s kind of remarkable to me that I got this much done in one day. That&#39;s what happens when you invested in good tools. And [this is where](https://scripting4.wordpress.com/2025/11/14/467/) the changes have been visible, on a scratch site used just for these occasions. Tomorrow, the third day of this project, I clean up the loose ends and then we should be good to go with the posts I make on scripting showing up in daveverse. Then I can get started with the next project that depends on this.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/14.html#a180809</guid>
+    </item>    <item>
       <title>Closing out #ffconf with Erika’s chickens.</title>
       <link>https://adactio.com/notes/22253</link>
       <description>
@@ -256,7 +426,7 @@ Clues by Sam is great. It’s the first game in my daily puzzle routine. It make
         
                     <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>I'm working on a more in-depth test of some newer AMD GPUs on the Raspberry Pi, now that the <a href="https://www.jeffgeerling.com/blog/2025/full-egpu-acceleration-on-pi-500-15-line-patch">15 line kernel patch</a> is (IMO) nearly ready for upstreaming.</p>
         
-        <p><img src="https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-cm5-amd-radeon-ai-pro-9700.jpeg" width="700" height="394" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-36a0433b-645a-4733-8ec0-0068a4effb38" data-insert-attach="{&quot;id&quot;:&quot;36a0433b-645a-4733-8ec0-0068a4effb38&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Raspberry Pi CM5 with AMD Radeon AI Pro 9700 GPU"></p>
+        <p><img src="https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-cm5-amd-radeon-ai-pro-9700.jpg" width="700" height="394" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-5cc07605-8527-42a6-a8d3-cb958a2ac7f3" data-insert-attach="{&quot;id&quot;:&quot;5cc07605-8527-42a6-a8d3-cb958a2ac7f3&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Raspberry Pi CM5 with AMD Radeon AI Pro 9700 GPU"></p>
         
         <p>But this blog post shows how to quickly get almost <em>any</em> modern AMD GPU running on a Raspberry Pi 5, CM5, or Pi 500+, thanks to <a href="https://github.com/raspberrypi/linux/pull/7072">this patch on the Pi Linux fork</a>.</p></div>
               <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
@@ -267,7 +437,7 @@ Clues by Sam is great. It’s the first game in my daily puzzle routine. It make
 
 I&#39;m working on a more in-depth test of some newer AMD GPUs on the Raspberry Pi, now that the [15 line kernel patch](https://www.jeffgeerling.com/blog/2025/full-egpu-acceleration-on-pi-500-15-line-patch) is (IMO) nearly ready for upstreaming.
 
-![Raspberry Pi CM5 with AMD Radeon AI Pro 9700 GPU](https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-cm5-amd-radeon-ai-pro-9700.jpeg)
+![Raspberry Pi CM5 with AMD Radeon AI Pro 9700 GPU](https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-cm5-amd-radeon-ai-pro-9700.jpg)
 
 But this blog post shows how to quickly get almost _any_ modern AMD GPU running on a Raspberry Pi 5, CM5, or Pi 500+, thanks to [this patch on the Pi Linux fork](https://github.com/raspberrypi/linux/pull/7072).
 
@@ -719,9 +889,9 @@ Tags: [ai](https://simonwillison.net/tags/ai), [openai](https://simonwillison.ne
       <title>Mini Apps Partner Program</title>
       <link>https://mjtsai.com/blog/2025/11/13/mini-apps-partner-program/</link>
       <description>
-        <![CDATA[Apple (MacRumors, MacStories, Hacker News): Today, we&#8217;re introducing the Mini Apps Partner Program, which expands on the App Store&#8217;s ongoing support for apps that offer mini apps. Mini apps are self-contained experiences that are built using web technologies like HTML5 and JavaScript. This program is designed to help developers who host mini apps grow their [&#8230;]]]>
+        <![CDATA[Apple (MacRumors, MacStories, Hacker News, Slashdot): Today, we&#8217;re introducing the Mini Apps Partner Program, which expands on the App Store&#8217;s ongoing support for apps that offer mini apps. Mini apps are self-contained experiences that are built using web technologies like HTML5 and JavaScript. This program is designed to help developers who host mini apps grow [&#8230;]]]>
       </description>
-      <source:markdown>Apple (MacRumors, MacStories, Hacker News): Today, we’re introducing the Mini Apps Partner Program, which expands on the App Store’s ongoing support for apps that offer mini apps. Mini apps are self-contained experiences that are built using web technologies like HTML5 and JavaScript. This program is designed to help developers who host mini apps grow their \[…\]</source:markdown>
+      <source:markdown>Apple (MacRumors, MacStories, Hacker News, Slashdot): Today, we’re introducing the Mini Apps Partner Program, which expands on the App Store’s ongoing support for apps that offer mini apps. Mini apps are self-contained experiences that are built using web technologies like HTML5 and JavaScript. This program is designed to help developers who host mini apps grow \[…\]</source:markdown>
       <guid>cid://https://mjtsai.com/blog/?p=50045</guid>
     </item>    <item>
       <title>Apple Developer Release Notes Tracked by Git</title>
@@ -13688,14 +13858,6 @@ Tags: [til](https://simonwillison.net/tags/til), [blogging](https://simonwilliso
       </description>
       <source:markdown>Summer of Fire and Blood: The German Peasants’ War by Lyndal Roper, an excellent new history of one of the largest popular uprisings before the French Revolution, won this year’s Cundill History Prize and its $75,000 prize. The award, which</source:markdown>
       <guid>cid://https://lithub.com/?p=262126</guid>
-    </item>    <item>
-      <title>Here’s what’s making us happy  this  week.</title>
-      <link>https://lithub.com/heres-whats-making-us-happy-this-week-6/</link>
-      <description>
-        <![CDATA[First off—apologies, readers. I failed to report our nice things last Friday, so we have a combo week. Gratitude is abundant this Hallow&#8217;s Eve. So what&#8217;s been making us happy? In a word? Soups.  Oliver Scialdone made a killer butternut]]>
-      </description>
-      <source:markdown>First off—apologies, readers. I failed to report our nice things last Friday, so we have a combo week. Gratitude is abundant this Hallow’s Eve. So what’s been making us happy? In a word? Soups.  Oliver Scialdone made a killer butternut</source:markdown>
-      <guid>cid://https://lithub.com/?p=262113</guid>
     </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115469611458533448</link>
       <description>
