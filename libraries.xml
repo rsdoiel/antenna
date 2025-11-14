@@ -4,10 +4,29 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>13 Nov 25 14:10 -0800</lastBuildDate>
+    <lastBuildDate>14 Nov 25 06:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Voices Celebrating 1 Trillion Pages: Katherine Maher, President and CEO of NPR</title>
+      <link>https://blog.archive.org/2025/11/14/voices-celebrating-1-trillion-pages-katherine-maher-president-and-ceo-of-npr/</link>
+      <description>
+        <![CDATA[Katherine Maher, President and CEO of NPR, honors the Internet Archive’s milestone of 1 trillion web pages preserved as “1 trillion artifacts and snapshots of our interconnected world.” In her [&#8230;]]]>
+      </description>
+      <source:markdown>Katherine Maher, President and CEO of NPR, honors the Internet Archive’s milestone of 1 trillion web pages preserved as “1 trillion artifacts and snapshots of our interconnected world.” In her \[…\]</source:markdown>
+      <guid>cid://https://blog.archive.org/?p=29581</guid>
+    </item>    <item>
+      <title>Preserving Human Ingenuity for a Future Planet Ruled By Octopuses</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/11/14/teaching-an-octopus-to-play-the-piano/</link>
+      <description>
+        <![CDATA[<p>An engineer and musician teaches an octopus to play the piano. </p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/11/14/teaching-an-octopus-to-play-the-piano/">Preserving Human Ingenuity for a Future Planet Ruled By Octopuses</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>An engineer and musician teaches an octopus to play the piano.
+
+The post [Preserving Human Ingenuity for a Future Planet Ruled By Octopuses](https://scholarlykitchen.sspnet.org/2025/11/14/teaching-an-octopus-to-play-the-piano/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61235</guid>
+    </item>    <item>
       <title>New Report Explores Online Enrollment Trends in the Era of State Authorization Reciprocity</title>
       <link>https://sr.ithaka.org/blog/new-report-explores-online-enrollment-trends-in-the-era-of-state-authorization-reciprocity/</link>
       <description>
@@ -809,28 +828,6 @@ The post [We need to talk about citations](https://blog.scielo.org/blog/2025/10/
 
 The post [Insights from the SSP Organizational Compensation and Benefits Study](https://scholarlykitchen.sspnet.org/2025/10/24/insights-from-the-ssp-organizational-compensation-and-benefits-study/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=61137</guid>
-    </item>    <item>
-      <title>The Value of Skepticism in the Age of AI</title>
-      <link>https://sr.ithaka.org/blog/the-value-of-skepticism-in-the-age-of-ai/</link>
-      <description>
-        <![CDATA[<p>Although generative AI literacy frameworks can be quite varied, all suggest that users bring a critical eye to what LLMs produce. Instructors must internalize this critical lens on AI outputs in order to convey that same inherent skepticism to their students. With this healthy skepticism in mind, it is key to understand when and how generative AI can enrich teaching and learning. </p>
-        <p>The post <a href="https://sr.ithaka.org/blog/the-value-of-skepticism-in-the-age-of-ai/">The Value of Skepticism in the Age of AI</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <source:markdown>Although generative AI literacy frameworks can be quite varied, all suggest that users bring a critical eye to what LLMs produce. Instructors must internalize this critical lens on AI outputs in order to convey that same inherent skepticism to their students. With this healthy skepticism in mind, it is key to understand when and how generative AI can enrich teaching and learning.
-
-The post [The Value of Skepticism in the Age of AI](https://sr.ithaka.org/blog/the-value-of-skepticism-in-the-age-of-ai/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=323855</guid>
-    </item>    <item>
-      <title>Guest Post — Replacing Public Doubt with Public Confidence: Experiments in Building Trust at Science</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/10/23/guest-post-replacing-public-doubt-with-public-confidence-experiments-in-building-trust-at-science/</link>
-      <description>
-        <![CDATA[<p>Today's guest post is by Meagan Phelan of AAAS, who asks: If more research is openly available than ever before, and open is framed as a way to build trust, why isn’t public trust in science at an all-time high?</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/10/23/guest-post-replacing-public-doubt-with-public-confidence-experiments-in-building-trust-at-science/">Guest Post — Replacing Public Doubt with Public Confidence: Experiments in Building Trust at Science</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Today&#39;s guest post is by Meagan Phelan of AAAS, who asks: If more research is openly available than ever before, and open is framed as a way to build trust, why isn’t public trust in science at an all-time high?
-
-The post [Guest Post — Replacing Public Doubt with Public Confidence: Experiments in Building Trust at Science](https://scholarlykitchen.sspnet.org/2025/10/23/guest-post-replacing-public-doubt-with-public-confidence-experiments-in-building-trust-at-science/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61129</guid>
     </item>
   </channel>
 </rss>
