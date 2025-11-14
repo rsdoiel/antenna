@@ -4,10 +4,253 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>14 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>14 Nov 25 10:12 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>AI Agents in Legacy Systems — The Problem No One Talks About</title>
+      <link>https://thenewstack.io/ai-agents-in-legacy-systems-the-problem-no-one-talks-about/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/cf0a101e-agents-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="AI agents require context to understand the meaning of their tasks." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/cf0a101e-agents.jpg" /><p>When we first began integrating AI agents into enterprise environments, I expected the challenges to come from the AI models</p>
+        <p>The post <a href="https://thenewstack.io/ai-agents-in-legacy-systems-the-problem-no-one-talks-about/">AI Agents in Legacy Systems — The Problem No One Talks About</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![AI agents require context to understand the meaning of their tasks.](https://cdn.thenewstack.io/media/2025/11/cf0a101e-agents-1024x576.jpg)
+
+When we first began integrating AI agents into enterprise environments, I expected the challenges to come from the AI models
+
+The post [AI Agents in Legacy Systems — The Problem No One Talks About](https://thenewstack.io/ai-agents-in-legacy-systems-the-problem-no-one-talks-about/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806157</guid>
+    </item>    <item>
+      <title>E-Mobilität: Bundestag macht Weg frei für bidirektionales Laden</title>
+      <link>https://www.heise.de/news/E-Mobilitaet-Bundestag-macht-Weg-frei-fuer-bidirektionales-Laden-11079565.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Mit dem neuen Energiewirtschaftsgesetz wird rückgespeister Strom nicht mehr doppelt mit Netzentgelten belegt. Das soll das E-Auto-Speicherpotenzial erschließen.]]>
+      </description>
+      <source:markdown>Mit dem neuen Energiewirtschaftsgesetz wird rückgespeister Strom nicht mehr doppelt mit Netzentgelten belegt. Das soll das E-Auto-Speicherpotenzial erschließen.</source:markdown>
+      <guid>cid://http://heise.de/-11079565</guid>
+    </item>    <item>
+      <title>Mapping Dark Matter</title>
+      <link>https://www.nasa.gov/image-article/mapping-dark-matter/</link>
+      <description>
+        <![CDATA[This image released on June 30, 2025, combines data from NASA’s James Webb Space Telescope and NASA’s Chandra X-ray Observatory to visualize dark matter. Researchers used Webb’s observations to carefully measure the mass of the galaxy clusters shown here as well as the collective light emitted by stars that are no longer bound to individual [&#8230;]]]>
+      </description>
+      <source:markdown>This image released on June 30, 2025, combines data from NASA’s James Webb Space Telescope and NASA’s Chandra X-ray Observatory to visualize dark matter. Researchers used Webb’s observations to carefully measure the mass of the galaxy clusters shown here as well as the collective light emitted by stars that are no longer bound to individual \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=921213</guid>
+    </item>    <item>
+      <title>NASA Glenn Teams Win 2025 R&#38;D 100 Awards</title>
+      <link>https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-teams-win-2025-rd-100-awards/</link>
+      <description>
+        <![CDATA[NASA’s Glenn Research Center in Cleveland has earned 2025 R&#38;D 100 Awards for developing a system that delivers high-speed internet for space and co-inventing technology for a new class of soft magnetic nanocrystalline materials designed to operate at extreme temperatures. This brings NASA Glenn’s total to 130 R&#38;D 100 Awards.&#160; High-Rate Delay Tolerant Networking&#160;&#160; NASA [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s Glenn Research Center in Cleveland has earned 2025 R&#38;D 100 Awards for developing a system that delivers high-speed internet for space and co-inventing technology for a new class of soft magnetic nanocrystalline materials designed to operate at extreme temperatures. This brings NASA Glenn’s total to 130 R&#38;D 100 Awards.  High-Rate Delay Tolerant Networking   NASA \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=916495</guid>
+    </item>    <item>
+      <title>Red Hat OpenShift 4.20 Boosts AI, Security, Hybrid Cloud</title>
+      <link>https://thenewstack.io/red-hat-openshift-4-20-boosts-ai-security-hybrid-cloud/</link>
+      <description>
+        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/11/ba1021f0-the-blowup-pguirt0m-m0-unsplash-1024x768.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/ba1021f0-the-blowup-pguirt0m-m0-unsplash.jpg" /><p>ATLANTA &#8212; Would it surprise you to know that &#8216;s latest OpenShift release, 4.20, comes with more AI features than</p>
+        <p>The post <a href="https://thenewstack.io/red-hat-openshift-4-20-boosts-ai-security-hybrid-cloud/">Red Hat OpenShift 4.20 Boosts AI, Security, Hybrid Cloud</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/ba1021f0-the-blowup-pguirt0m-m0-unsplash-1024x768.jpg)
+
+ATLANTA — Would it surprise you to know that ‘s latest OpenShift release, 4.20, comes with more AI features than
+
+The post [Red Hat OpenShift 4.20 Boosts AI, Security, Hybrid Cloud](https://thenewstack.io/red-hat-openshift-4-20-boosts-ai-security-hybrid-cloud/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806465</guid>
+    </item>    <item>
+      <title>Now you can share your AI delusions with Group ChatGPT</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/14/openai_chatgpt_group_texts/</link>
+      <description>
+        <![CDATA[<h4>Just when you thought virtual collaboration couldn’t get worse, OpenAI stuffs a bot into your group conversations</h4> <p>Feel like your team&#39;s group chat is a bit lifeless? Remote coworkers not really collaborating as well as they should be? There&#39;s a new way to stir the pot now that OpenAI has piloted ChatGPT group chats: cram a chatbot into the conversation and let it chime in whenever it thinks it should.…</p>]]>
+      </description>
+      <source:markdown>#### Just when you thought virtual collaboration couldn’t get worse, OpenAI stuffs a bot into your group conversations
+
+Feel like your team&#39;s group chat is a bit lifeless? Remote coworkers not really collaborating as well as they should be? There&#39;s a new way to stir the pot now that OpenAI has piloted ChatGPT group chats: cram a chatbot into the conversation and let it chime in whenever it thinks it should.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243041</guid>
+    </item>    <item>
+      <title>Galaxy XR im Einsatz, Muse-Pencil für die Vision Pro | TNBT-Podcast</title>
+      <link>https://www.heise.de/news/Galaxy-XR-im-Einsatz-Muse-Pencil-fuer-die-Vision-Pro-TNBT-Podcast-11079541.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Themen: Erste persönliche Erfahrungen mit Samsungs Galaxy XR und Vergleich zur Vision Pro; Logitechs Muse mit tiefer visionOS-Integration.]]>
+      </description>
+      <source:markdown>Themen: Erste persönliche Erfahrungen mit Samsungs Galaxy XR und Vergleich zur Vision Pro; Logitechs Muse mit tiefer visionOS-Integration.</source:markdown>
+      <guid>cid://http://heise.de/-11079541</guid>
+    </item>    <item>
+      <title>AMD grabs more x86 share as Intel stumbles in entry-level chips</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/14/mercury_amd_intel/</link>
+      <description>
+        <![CDATA[<h4>Mercury Research blames stockpiling and low-end shortages for unusually flat CPU market</h4> <p>AMD continues to claw market share away from Intel in CPU shipments, growing faster than its rival in most segments. Meanwhile business in the x86 processor arena is unusually flat overall, likely due to stockpiling over tariff fears.…</p>]]>
+      </description>
+      <source:markdown>#### Mercury Research blames stockpiling and low-end shortages for unusually flat CPU market
+
+AMD continues to claw market share away from Intel in CPU shipments, growing faster than its rival in most segments. Meanwhile business in the x86 processor arena is unusually flat overall, likely due to stockpiling over tariff fears.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243042</guid>
+    </item>    <item>
+      <title>Project Kuiper becomes Amazon Leo as satellite network trickles into orbit</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/14/project_kuiper_amazon_leo/</link>
+      <description>
+        <![CDATA[<h4>Starlink challenger drops the codename, but full-blown service still years out</h4> <p>Amazon has rebranded its satellite broadband plan from Project Kuiper to Amazon Leo. And no, Leo doesn&#39;t stand for &#34;Late Entrants Only,&#34; even though the project is years behind Starlink and still not ready for anyone to use.…</p>]]>
+      </description>
+      <source:markdown>#### Starlink challenger drops the codename, but full-blown service still years out
+
+Amazon has rebranded its satellite broadband plan from Project Kuiper to Amazon Leo. And no, Leo doesn&#39;t stand for &#34;Late Entrants Only,&#34; even though the project is years behind Starlink and still not ready for anyone to use.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243039</guid>
+    </item>    <item>
+      <title>Mozilla kündigt &#34;KI-Fenster&#34; für Firefox an</title>
+      <link>https://www.heise.de/news/Mozilla-kuendigt-KI-Fenster-fuer-Firefox-an-11079240.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Mozilla will Firefox in die Ära der KI-Browser führen, aber einiges anders als diese machen – manche Nutzer fordern etwas ganz anderes.]]>
+      </description>
+      <source:markdown>Mozilla will Firefox in die Ära der KI-Browser führen, aber einiges anders als diese machen – manche Nutzer fordern etwas ganz anderes.</source:markdown>
+      <guid>cid://http://heise.de/-11079240</guid>
+    </item>    <item>
+      <title>PC-Speichermodul mit 128 GByte für Dual-Slot-Mainboards</title>
+      <link>https://www.heise.de/news/PC-Speichermodul-mit-128-GByte-fuer-Dual-Slot-Mainboards-11079469.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Adata kündigt ungepufferte DDR5-Speichermodule mit 128 Gigabyte Kapazität an, die sich aber nur für bestimmte Desktop-PC-Mainboards eignen.]]>
+      </description>
+      <source:markdown>Adata kündigt ungepufferte DDR5-Speichermodule mit 128 Gigabyte Kapazität an, die sich aber nur für bestimmte Desktop-PC-Mainboards eignen.</source:markdown>
+      <guid>cid://http://heise.de/-11079469</guid>
+    </item>    <item>
+      <title>FBI flags scam targeting Chinese speakers with bogus surgery bills</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/14/fbi_chinese_speaker_health_insurance/</link>
+      <description>
+        <![CDATA[<h4>Crooks spoof US insurers, threaten bogus extradition to pry loose personal data and cash</h4> <p>Chinese speakers in the US are being targeted as part of an aggressive health insurance scam campaign, the FBI warns.…</p>]]>
+      </description>
+      <source:markdown>#### Crooks spoof US insurers, threaten bogus extradition to pry loose personal data and cash
+
+Chinese speakers in the US are being targeted as part of an aggressive health insurance scam campaign, the FBI warns.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243040</guid>
+    </item>    <item>
+      <title>GPU goliaths are devouring supercomputing – and legacy storage can&#39;t feed the beast</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/14/evolving_supercomputers_hpc_ai_and/</link>
+      <description>
+        <![CDATA[<h4>VDURA boss: Your x86 clusters are obsolete, metadata is eating 20% of I/O, and every idle GPU second burns cash</h4> <p>The supercomputing landscape is fracturing. What once was a relatively unified world of massive multi-processor x86 systems has splintered into competing architectures, each racing to serve radically different masters: traditional academic workloads, extreme-scale physics simulations, and the voracious appetite of AI training runs.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### VDURA boss: Your x86 clusters are obsolete, metadata is eating 20% of I/O, and every idle GPU second burns cash
+
+The supercomputing landscape is fracturing. What once was a relatively unified world of massive multi-processor x86 systems has splintered into competing architectures, each racing to serve radically different masters: traditional academic workloads, extreme-scale physics simulations, and the voracious appetite of AI training runs.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story242979</guid>
+    </item>    <item>
+      <title>AMD nimmt Intel weitere x86-Marktanteile ab</title>
+      <link>https://www.heise.de/news/AMD-nimmt-Intel-weitere-x86-Marktanteile-ab-11079422.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Mehr als 30 Prozent der von Juli bis September verkauften x86-Prozessoren lieferte AMD. Im Vorjahr waren es erst 25 Prozent.]]>
+      </description>
+      <source:markdown>Mehr als 30 Prozent der von Juli bis September verkauften x86-Prozessoren lieferte AMD. Im Vorjahr waren es erst 25 Prozent.</source:markdown>
+      <guid>cid://http://heise.de/-11079422</guid>
+    </item>    <item>
+      <title>Zubehör für Apple-User: Juice Packs für neue iPhones, dünne &#34;Wo ist?&#34;-Karte</title>
+      <link>https://www.heise.de/news/Zubehoer-fuer-Apple-User-Juice-Packs-fuer-neue-iPhones-duenne-Wo-ist-Karte-11074437.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Mophie hat seine beliebten Juice-Pack-Akkuhüllen nun für die 2025er iPhones angepasst. Nomad liefert unterdessen eine neuartige "Wo ist?"-Karte.]]>
+      </description>
+      <source:markdown>Mophie hat seine beliebten Juice-Pack-Akkuhüllen nun für die 2025er iPhones angepasst. Nomad liefert unterdessen eine neuartige &#34;Wo ist?&#34;-Karte.</source:markdown>
+      <guid>cid://http://heise.de/-11074437</guid>
+    </item>    <item>
+      <title>Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It’s Slowing Down.</title>
+      <link>https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/</link>
+      <description>
+        <![CDATA[The physics of mixing water layers — an interplay of wind, climate and more — makes lakes work. When it stops, impacts can ripple across an ecosystem.            <p>The post <a href="https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/" target="_blank">Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It’s Slowing Down.</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>The physics of mixing water layers — an interplay of wind, climate and more — makes lakes work. When it stops, impacts can ripple across an ecosystem.
+
+The post [Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It’s Slowing Down.](https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=155411</guid>
+    </item>    <item>
+      <title>A Fire Ravaged a Historic 200-Year-Old Tavern in Ohio. These Are the Artifacts Archaeologists Found in the Wreckage</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-fire-ravaged-a-historic-200-year-old-tavern-in-ohio-these-are-the-artifacts-archaeologists-found-in-the-wreckage-180987651/</link>
+      <description>
+        <![CDATA[Excavations at the Overfield Tavern Museum revealed a treasure trove of objects, including jewelry, dishware, a bottle cork, a smoking pipe and early American currency]]>
+      </description>
+      <source:markdown>Excavations at the Overfield Tavern Museum revealed a treasure trove of objects, including jewelry, dishware, a bottle cork, a smoking pipe and early American currency</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/jRTY4dKUNbchNEMY1J4QVbIiua0=/420x240/filters:focal(1024x770:1025x771)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/26/45/26450e35-5244-4ef9-a507-6aaa810e7060/ceramic_smoking_pipe.jpeg" length="" type="" />
+    </item>    <item>
+      <title>KubeCon: Fortschritte, aber auch mehr Arbeit bei Cloud-Native und Cybersecurity</title>
+      <link>https://www.heise.de/news/KubeCon-Fortschritte-aber-auch-mehr-Arbeit-bei-Cloud-Native-und-Cybersecurity-11078678.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Angesichts wachsender Angriffsflächen bei OSS sollten Entwickler Schwachstellen beheben, Software auditieren und sichere Container-Images nutzen.]]>
+      </description>
+      <source:markdown>Angesichts wachsender Angriffsflächen bei OSS sollten Entwickler Schwachstellen beheben, Software auditieren und sichere Container-Images nutzen.</source:markdown>
+      <guid>cid://http://heise.de/-11078678</guid>
+    </item>    <item>
+      <title>Heizkörperthermostat Meross MTS150 im Test</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/heizkoerperthermostat-meross-mts150-im-test-alter-wein-im-neuen-matter-schlauch/sb5pjxs?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Dank Matter-Support des neuen Hubs MSH450 findet das Meross-Heizkörperthermostat Anschluss an vielen Smart-Home-Lösungen. Wie gut das gelingt, zeigt der Test.]]>
+      </description>
+      <source:markdown>Dank Matter-Support des neuen Hubs MSH450 findet das Meross-Heizkörperthermostat Anschluss an vielen Smart-Home-Lösungen. Wie gut das gelingt, zeigt der Test.</source:markdown>
+      <guid>cid://http://heise.de/-11079384</guid>
+    </item>    <item>
+      <title>CISA flags imminent threat as Akira ransomware starts hitting Nutanix AHV</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/14/cisa_akira_ransomware/</link>
+      <description>
+        <![CDATA[<h4>Advisory updated as leading cybercrime crew opens up its target pool</h4> <p>The US Cybersecurity and Infrastructure Security Agency (CISA) has issued new guidance to organizations on the Akira ransomware operation, which poses an imminent threat to critical sectors.…</p>]]>
+      </description>
+      <source:markdown>#### Advisory updated as leading cybercrime crew opens up its target pool
+
+The US Cybersecurity and Infrastructure Security Agency (CISA) has issued new guidance to organizations on the Akira ransomware operation, which poses an imminent threat to critical sectors.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243038</guid>
+    </item>    <item>
+      <title>Nvidia DGX Spark: Ist das wirklich der KI-&#34;Supercomputer&#34;?</title>
+      <link>https://www.heise.de/news/Duell-der-KI-Kisten-Nvidia-DGX-Spark-vs-AMD-Strix-Halo-11079206.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Was kann der "KI-Supercomputer" von Nvidia? Wir haben den DGX Spark mit einem AMD AI Max+ 395 und einem Gaming-PC verglichen. Die Ergebnisse sind erstaunlich.]]>
+      </description>
+      <source:markdown>Was kann der &#34;KI-Supercomputer&#34; von Nvidia? Wir haben den DGX Spark mit einem AMD AI Max+ 395 und einem Gaming-PC verglichen. Die Ergebnisse sind erstaunlich.</source:markdown>
+      <guid>cid://http://heise.de/-11079206</guid>
+    </item>    <item>
+      <title>OpenTelemetry Experts Share the Future of Browser Support</title>
+      <link>https://thenewstack.io/opentelemetry-experts-share-the-future-of-browser-support/</link>
+      <description>
+        <![CDATA[<img width="1024" height="587" src="https://cdn.thenewstack.io/media/2025/11/ea7d1544-browswer12-1024x587.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Google Chrome, Microsoft Edge, Firefox, Opera, Safari apps popular browsers on the iPhone screen." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/ea7d1544-browswer12.jpg" /><p>There&#8217;s a lot of momentum behind bringing better observability practices to the frontend, and a great example is the launch</p>
+        <p>The post <a href="https://thenewstack.io/opentelemetry-experts-share-the-future-of-browser-support/">OpenTelemetry Experts Share the Future of Browser Support</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Google Chrome, Microsoft Edge, Firefox, Opera, Safari apps popular browsers on the iPhone screen.](https://cdn.thenewstack.io/media/2025/11/ea7d1544-browswer12-1024x587.jpg)
+
+There’s a lot of momentum behind bringing better observability practices to the frontend, and a great example is the launch
+
+The post [OpenTelemetry Experts Share the Future of Browser Support](https://thenewstack.io/opentelemetry-experts-share-the-future-of-browser-support/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806503</guid>
+    </item>    <item>
+      <title>Retro Games opens pre-orders for THEA1200, a full-size working Amiga replica</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/14/thea1200_fullsize_amiga_replica/</link>
+      <description>
+        <![CDATA[<h4>Company behind THESPECTRUM brings the holiday season early for retro computing fans</h4> <p>Retro Games Ltd (RGL), the company behind THESPECTRUM and THEA500 Mini, has started accepting pre-orders for its full-size Amiga 1200 replica, <a target="_blank" href="https://retrogames.biz/news/thea1200-announce/" rel="nofollow">THEA1200</a>.…</p>]]>
+      </description>
+      <source:markdown>#### Company behind THESPECTRUM brings the holiday season early for retro computing fans
+
+Retro Games Ltd (RGL), the company behind THESPECTRUM and THEA500 Mini, has started accepting pre-orders for its full-size Amiga 1200 replica, [THEA1200](https://retrogames.biz/news/thea1200-announce/).…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243018</guid>
+    </item>    <item>
+      <title>Neue PC-Spiele im Dezember 2025: &#34;Terminator 2D: No Fate&#34;</title>
+      <link>https://www.heise.de/news/Neue-PC-Spiele-im-Dezember-2025-Terminator-2D-No-Fate-11079022.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <description>
+        <![CDATA[Im Dezember wird das JRPG "Octopath Traveler 0" veröffentlicht. Zudem gehen "Yakuza 0 Director's Cut" und "Terminator 2D: No Fate" an den Start.]]>
+      </description>
+      <source:markdown>Im Dezember wird das JRPG &#34;Octopath Traveler 0&#34; veröffentlicht. Zudem gehen &#34;Yakuza 0 Director&#39;s Cut&#34; und &#34;Terminator 2D: No Fate&#34; an den Start.</source:markdown>
+      <guid>cid://http://heise.de/-11079022</guid>
+    </item>    <item>
+      <title>Shenzhou-20 crew rides Shenzhou-21 home after debris strike</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/14/shenzhou20_astronauts_return/</link>
+      <description>
+        <![CDATA[<h4>Original spacecraft deemed unsafe after cracks spotted in window</h4> <p>The Shenzhou-20 astronauts have returned to Earth on the Shenzhou-21 spacecraft after engineers deemed the Shenzhou-20 vehicle unsafe following a debris strike while it was docked to the Tiangong space station.…</p>]]>
+      </description>
+      <source:markdown>#### Original spacecraft deemed unsafe after cracks spotted in window
+
+The Shenzhou-20 astronauts have returned to Earth on the Shenzhou-21 spacecraft after engineers deemed the Shenzhou-20 vehicle unsafe following a debris strike while it was docked to the Tiangong space station.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243032</guid>
+    </item>    <item>
+      <title>The Steam Machine rises again as Valve readies 2026 hardware trifecta</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/14/valve_steam_kit/</link>
+      <description>
+        <![CDATA[<h4>Linux-powered PC, Arm VR headset, and refreshed controller all land on pre-order for next year</h4> <p>The holiday season is almost upon us, but the new gear on gamers&#39; wish lists won&#39;t arrive until next year.…</p>]]>
+      </description>
+      <source:markdown>#### Linux-powered PC, Arm VR headset, and refreshed controller all land on pre-order for next year
+
+The holiday season is almost upon us, but the new gear on gamers&#39; wish lists won&#39;t arrive until next year.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243015</guid>
+    </item>    <item>
       <title>Google pitches EU on adtech fixes to dodge breakup after €2.95B slap</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/14/google_antitrust_eu_remedy/</link>
       <description>
@@ -21,7 +264,7 @@ Google has proposed a plan to the European Commission aimed at addressing antitr
       <title>Has Grafana Taken Lead in AI for Observability?</title>
       <link>https://thenewstack.io/has-grafana-taken-lead-in-ai-for-observability/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/5be23bde-observability-grafana-2-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="A seagull flying above, observing what&#039;s below. Grafana Labs has added AI-based capabilities to its observability tooling." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/5be23bde-observability-grafana-2.jpg" /><p>Grafana Labs has integrated AI support into its observability platform and panel, offering practical improvements to the observability experience. Whether</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/5be23bde-observability-grafana-2-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="A seagull flying above, observing what&#039;s below. Grafana Labs has added AI-based capabilities to its observability tooling." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/5be23bde-observability-grafana-2.jpg" /><p>Grafana Labs has integrated AI support into its observability platform and panel, offering practical improvements to the observability experience. Whether</p>
         <p>The post <a href="https://thenewstack.io/has-grafana-taken-lead-in-ai-for-observability/">Has Grafana Taken Lead in AI for Observability?</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![A seagull flying above, observing what&#39;s below. Grafana Labs has added AI-based capabilities to its observability tooling.](https://cdn.thenewstack.io/media/2025/11/5be23bde-observability-grafana-2-1024x576.jpg)
@@ -154,12 +397,12 @@ The UK Parliament&#39;s Public Accounts Committee (PAC) says the Ministry of Def
       <source:markdown>Wer in der EU lebt, kann erstmals über WhatsApp mit Nutzern anderer Messenger chatten. Was dabei funktioniert – und was nicht.</source:markdown>
       <guid>cid://http://heise.de/-11079046</guid>
     </item>    <item>
-      <title>Trillionaire fantasies, investor dreams, reality nightmares</title>
+      <title>Why Elon Musk won&#39;t ever realize the shareholder-approved Tesla payout</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/14/opinion_musk_tesla_payout/</link>
       <description>
-        <![CDATA[<h4>Why Musk won&#39;t ever realize the shareholder-approved Tesla payout</h4> <p><strong>Opinion</strong>  At Tesla&#39;s annual shareholder meeting in Austin, Texas, more than 75 percent of voting shares backed a compensation deal for CEO Elon Musk that would make him history&#39;s first trillionaire.…</p>]]>
+        <![CDATA[<h4>Trillionaire fantasies, investor dreams, reality nightmares</h4> <p><strong>Opinion</strong>  At Tesla&#39;s annual shareholder meeting in Austin, Texas, more than 75 percent of voting shares backed a compensation deal for CEO Elon Musk that would make him history&#39;s first trillionaire.…</p>]]>
       </description>
-      <source:markdown>#### Why Musk won&#39;t ever realize the shareholder-approved Tesla payout
+      <source:markdown>#### Trillionaire fantasies, investor dreams, reality nightmares
 
 **Opinion**  At Tesla&#39;s annual shareholder meeting in Austin, Texas, more than 75 percent of voting shares backed a compensation deal for CEO Elon Musk that would make him history&#39;s first trillionaire.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242963</guid>

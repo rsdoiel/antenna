@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>14 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>14 Nov 25 10:12 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -141,6 +141,106 @@ As always, do give this release a try and open a [ticket](https://gitlab.haskell
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
     </item>    <item>
+      <title>Closing out #ffconf with Erika’s chickens.</title>
+      <link>https://adactio.com/notes/22253</link>
+      <description>
+        <![CDATA[<img src="https://adactio.com/images/uploaded/22253/small.jpg" srcset="https://adactio.com/images/uploaded/22253/medium.jpg 1.5x, https://adactio.com/images/uploaded/22253/large.jpg 2.5x" alt="Closing out #ffconf with Erika’s chickens." />
+        <p>Closing out #ffconf with Erika’s chickens.</p>]]>
+      </description>
+      <source:markdown>![Closing out #ffconf with Erika’s chickens.](https://adactio.com/images/uploaded/22253/small.jpg)
+
+Closing out #ffconf with Erika’s chickens.</source:markdown>
+      <guid>cid://https://adactio.com/notes/22253</guid>
+    </item>    <item>
+      <title>This Black Fungus Might Be Healing Chernobyl By Drinking Radiation. The fungi...</title>
+      <link>https://kottke.org/25/11/0047810-this-black-fungus-might-b</link>
+      <guid>cid://tag:kottke.org,2025://13.47810</guid>
+    </item>    <item>
+      <title>Upcoming Speaking Engagements</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/upcoming-speaking-engagements-50.html</link>
+      <description>
+        <![CDATA[<p>This is a current list of where and when I am scheduled to speak:</p>
+        <ul>
+        <li>My coauthor Nathan E. Sanders and I are speaking at the Rayburn House Office Building in Washington, DC at noon ET on November 17, 2025. The event is hosted by the POPVOX Foundation and the topic is “<a href="https://www.popvox.org/events/ai-and-congress">AI and Congress: Practical Steps to Govern and Prepare</a>.”</li>
+        <li>I’m speaking on “Integrity and Trustworthy AI” at <a href="https://events.vtools.ieee.org/m/462883">North Hennepin Community College</a> in Brooklyn Park, Minnesota, USA, on Friday, November 21, 2025, at 2:00 PM CT. The event is cohosted by the college and The Twin Cities IEEE Computer Society...</li></ul>]]>
+      </description>
+      <source:markdown>This is a current list of where and when I am scheduled to speak:
+
+- My coauthor Nathan E. Sanders and I are speaking at the Rayburn House Office Building in Washington, DC at noon ET on November 17, 2025. The event is hosted by the POPVOX Foundation and the topic is “ [AI and Congress: Practical Steps to Govern and Prepare](https://www.popvox.org/events/ai-and-congress).”
+- I’m speaking on “Integrity and Trustworthy AI” at [North Hennepin Community College](https://events.vtools.ieee.org/m/462883) in Brooklyn Park, Minnesota, USA, on Friday, November 21, 2025, at 2:00 PM CT. The event is cohosted by the college and The Twin Cities IEEE Computer Society...</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=71157</guid>
+    </item>    <item>
+      <title>National Service</title>
+      <link>https://www.profgalloway.com/national-service/</link>
+      <description>
+        <![CDATA[<p>An Office Hours listener asked what I’d say to President Trump if he invited me to the White House. I’ve struggled my whole life with being right vs. being effective. So, as we’re meeting with the president … let’s focus on being effective. We don’t have much common ground, but we’re both fathers. Let’s start [&#8230;]</p>
+        <p>The post <a href="https://www.profgalloway.com/national-service/">National Service</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>]]>
+      </description>
+      <source:markdown>An Office Hours listener asked what I’d say to President Trump if he invited me to the White House. I’ve struggled my whole life with being right vs. being effective. So, as we’re meeting with the president … let’s focus on being effective. We don’t have much common ground, but we’re both fathers. Let’s start \[…\]
+
+The post [National Service](https://www.profgalloway.com/national-service/) appeared first on [No Mercy / No Malice](https://www.profgalloway.com).</source:markdown>
+      <guid>cid://https://www.profgalloway.com/?p=216354</guid>
+    </item>    <item>
+      <title>iPhone Pockets Sold Out Within Hours</title>
+      <link>https://www.macrumors.com/2025/11/14/iphone-pocket-already-selling-out/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42385</guid>
+    </item>    <item>
+      <title>Inkwell Games</title>
+      <link>https://daverupert.com/2025/11/inkwell-games/</link>
+      <description>
+        <![CDATA[<img src="https://cdn.daverupert.com/posts/2025/inkwell.jpg" alt="the cute and adorable launch buttons for Inkwell Games' games Stars and Fields" width="1200" height="630">
+        <p><a href="https://inkwellgames.com/">Inkwell Games</a> bills itself as “Daily puzzles worth thinking about” and that’s a great tagline. Right now they offer two daily puzzles: <a href="https://inkwellgames.com/games/stars">Stars</a> and <a href="https://inkwellgames.com/games/fields">Fields</a>. Both are enjoyable but I rank Stars as a bit above Fields but as I get better at understanding the patterns of Fields it’s growing on me each day.</p>
+        <p>Like the NYT, the puzzles grow in difficulty over the week and don’t feel bad if you miss a day because they’ll let you play any of other the puzzles from that week. I highly recommend Stars as a starter, it’s like Minesweeper meets Sudoku where each row, column, and box has two stars. It seems impossible at first, but over time you get a rhythm for cracking this cryptic.</p>
+        <p>One feature both Stars and Fields have that might be controversial to puzzle purists is a “Check” button. In practice this acts sort of like a “Guess” button where you’re at a dead end and have a guess, but don’t know for sure. It happens a lot in Fields where you’re staring at a grid of numbers with no clear move. Inkwell even wrote <a href="https://blog.inkwellgames.com/posts/is-looking-ahead-the-same-as-guessing-spoiler-its-not">a blog post trying to de-stigmatize looking ahead</a> which I appreciate immensely. The purist part of your brain feels guilty guessing at first, but in some ways it teaches you to trust your gut and intuition over time. I used to always need guesses in Stars and Fields but I’ve finished dozens on both now with zero guesses. That’s improvement and the wrinkles in my brain tingle with progress.</p>
+        <p>If you’re a fan of daily puzzle games, put these in your routine. The playful aesthetic of Inkwell Games’ games always bring a smile. I’m excited to try their upcoming puzzle Snakes and roll it into my daily routine.</p>]]>
+      </description>
+      <source:markdown>![the cute and adorable launch buttons for Inkwell Games&#39; games Stars and Fields](https://cdn.daverupert.com/posts/2025/inkwell.jpg)
+
+[Inkwell Games](https://inkwellgames.com/) bills itself as “Daily puzzles worth thinking about” and that’s a great tagline. Right now they offer two daily puzzles: [Stars](https://inkwellgames.com/games/stars) and [Fields](https://inkwellgames.com/games/fields). Both are enjoyable but I rank Stars as a bit above Fields but as I get better at understanding the patterns of Fields it’s growing on me each day.
+
+Like the NYT, the puzzles grow in difficulty over the week and don’t feel bad if you miss a day because they’ll let you play any of other the puzzles from that week. I highly recommend Stars as a starter, it’s like Minesweeper meets Sudoku where each row, column, and box has two stars. It seems impossible at first, but over time you get a rhythm for cracking this cryptic.
+
+One feature both Stars and Fields have that might be controversial to puzzle purists is a “Check” button. In practice this acts sort of like a “Guess” button where you’re at a dead end and have a guess, but don’t know for sure. It happens a lot in Fields where you’re staring at a grid of numbers with no clear move. Inkwell even wrote [a blog post trying to de-stigmatize looking ahead](https://blog.inkwellgames.com/posts/is-looking-ahead-the-same-as-guessing-spoiler-its-not) which I appreciate immensely. The purist part of your brain feels guilty guessing at first, but in some ways it teaches you to trust your gut and intuition over time. I used to always need guesses in Stars and Fields but I’ve finished dozens on both now with zero guesses. That’s improvement and the wrinkles in my brain tingle with progress.
+
+If you’re a fan of daily puzzle games, put these in your routine. The playful aesthetic of Inkwell Games’ games always bring a smile. I’m excited to try their upcoming puzzle Snakes and roll it into my daily routine.</source:markdown>
+      <guid>cid://https://daverupert.com/2025/11/inkwell-games/</guid>
+    </item>    <item>
+      <title>Abbott Elementary (temporada 4): cuando la madurez llega a la comedia escolar</title>
+      <link>https://www.palomitademaiz.net/resenas-abbott-elementary-temporada-4/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-abbott-elementary-temporada-4</link>
+      <description>
+        <![CDATA[<p>Disponible en: Disney Plus. Creado por: Quinta Brunson. Elenco: Quinta Brunson, Tyler James Williams, Janelle James, Lisa Ann Walter, Chris Perfetti, Sheryl Lee Ralph. País: Estados Unidos. Duración: 22 capítulos de 22 minutos cada uno. Más información de la serie: https://www.imdb.com/title/tt14218830/ Después de ganar el corazón de la audiencia y muchos reconocimientos desde su estreno [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-abbott-elementary-temporada-4/">Abbott Elementary (temporada 4): cuando la madurez llega a la comedia escolar</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Disponible en: Disney Plus. Creado por: Quinta Brunson. Elenco: Quinta Brunson, Tyler James Williams, Janelle James, Lisa Ann Walter, Chris Perfetti, Sheryl Lee Ralph. País: Estados Unidos. Duración: 22 capítulos de 22 minutos cada uno. Más información de la serie: https://www.imdb.com/title/tt14218830/ Después de ganar el corazón de la audiencia y muchos reconocimientos desde su estreno \[…\]
+
+La entrada [Abbott Elementary (temporada 4): cuando la madurez llega a la comedia escolar](https://www.palomitademaiz.net/resenas-abbott-elementary-temporada-4/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=25722</guid>
+    </item>    <item>
+      <title>The Farmers&#38;#8217; Almanac, citing a &#38;#8220;chaotic media environment&#38;#8221;, will cease publication after...</title>
+      <link>https://kottke.org/25/11/0047837-the-farmers-almanac-citin</link>
+      <guid>cid://tag:kottke.org,2025://13.47837</guid>
+    </item>    <item>
+      <title>Clues by Sam</title>
+      <link>https://daverupert.com/2025/11/clues-by-sam/</link>
+      <description>
+        <![CDATA[<img src="https://cdn.daverupert.com/posts/2025/cluesbysam.jpg" alt="A grid of emoji character tiles with names and job titles on each tile. There is one revealed tile on the edge for Pam that is green and she's saying she has 3 innocent neighbors on the edges" width="1000" height="798">
+        <p><a href="https://cluesbysam.com/">Clues By Sam</a> is a daily puzzle game where you get to uncover a criminal conspiracy by following the clues… made by <a href="https://games-by-sam.com/">Sam</a>… err… <a href="https://www.hey.gg/blog/adartis">Johannes</a>. It’s a little if-this-then-that logic puzzle where Pam implicates Bob as a criminal and because Bob is a plumber and there’s one innocent plumber then Sally is innocent. It starts simple but overtime but often the clues will feel like they lead to a dead end… but there’s always a way to solve the puzzle. It has a sudoku-like quality to it. Like the NYT crossword the difficulty scales up over the week and is a good way to burn 10 minutes.</p>
+        <p>Clues by Sam is great. It’s the first game in my daily puzzle routine. It makes me feel like the world’s greatest detective sometimes. Other times it makes me realize I’m not detail-oriented enough to be an investigator. The whole puzzle is a dopamine rush and a pang of sadness hits when I finish the puzzle for there are no more Clues By Sam left to solve that day. I think that’s a good sign of a good game; players wanting to come back. But lucky for me, Clues By Sam is now offering a puzzle pack of 50 puzzles. A nice way to hook people when they’re already addicted.</p>]]>
+      </description>
+      <source:markdown>![A grid of emoji character tiles with names and job titles on each tile. There is one revealed tile on the edge for Pam that is green and she&#39;s saying she has 3 innocent neighbors on the edges](https://cdn.daverupert.com/posts/2025/cluesbysam.jpg)
+
+[Clues By Sam](https://cluesbysam.com/) is a daily puzzle game where you get to uncover a criminal conspiracy by following the clues… made by [Sam](https://games-by-sam.com/)… err… [Johannes](https://www.hey.gg/blog/adartis). It’s a little if-this-then-that logic puzzle where Pam implicates Bob as a criminal and because Bob is a plumber and there’s one innocent plumber then Sally is innocent. It starts simple but overtime but often the clues will feel like they lead to a dead end… but there’s always a way to solve the puzzle. It has a sudoku-like quality to it. Like the NYT crossword the difficulty scales up over the week and is a good way to burn 10 minutes.
+
+Clues by Sam is great. It’s the first game in my daily puzzle routine. It makes me feel like the world’s greatest detective sometimes. Other times it makes me realize I’m not detail-oriented enough to be an investigator. The whole puzzle is a dopamine rush and a pang of sadness hits when I finish the puzzle for there are no more Clues By Sam left to solve that day. I think that’s a good sign of a good game; players wanting to come back. But lucky for me, Clues By Sam is now offering a puzzle pack of 50 puzzles. A nice way to hook people when they’re already addicted.</source:markdown>
+      <guid>cid://https://daverupert.com/2025/11/clues-by-sam/</guid>
+    </item>    <item>
+      <link>https://www.msn.com/en-in/money/news/wordpress-maker-automattic-lays-off-16-per-cent-of-workforce-amid-restructuring-efforts/ar-AA1Ccp4H?ocid=BingNewsVerp&#38;apiversion=v2&#38;noservercache=1&#38;domshim=1&#38;renderwebcomponents=1&#38;wcseo=1&#38;batchservertelemetry=1&#38;noservertelemetry=1</link>
+      <description>
+        <![CDATA[<p>WordPress-maker Automattic lays off 16 per cent of workforce amid restructuring efforts.</p>]]>
+      </description>
+      <source:markdown>WordPress-maker Automattic lays off 16 per cent of workforce amid restructuring efforts.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/14/1903/</guid>
+    </item>    <item>
       <title>Vivaldi, Yea or Nay?</title>
       <link>https://dbushell.com/2025/11/14/vivaldi-browser/</link>
       <description>
@@ -148,6 +248,64 @@ anything amiss.</source:markdown>
       </description>
       <source:markdown>I just read an opinion piece on a tech company blog. I have a general rule not to do that. Corpo blogs are biased, thinly veiled ads that are too quick to jump the gun with: “And that’s why we built \[crapware\]”, without justification. I gave this blog a chance because the author Bruce Lawson is a \[…\]</source:markdown>
       <guid>cid://https://dbushell.com/2025/11/14/vivaldi-browser/</guid>
+    </item>    <item>
+      <title>Using AMD GPUs on Raspberry Pi without recompiling Linux</title>
+      <link>https://www.jeffgeerling.com/blog/2025/using-amd-gpus-on-raspberry-pi-without-recompiling-linux</link>
+      <description>
+        <![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Using AMD GPUs on Raspberry Pi without recompiling Linux</span>
+        
+                    <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>I'm working on a more in-depth test of some newer AMD GPUs on the Raspberry Pi, now that the <a href="https://www.jeffgeerling.com/blog/2025/full-egpu-acceleration-on-pi-500-15-line-patch">15 line kernel patch</a> is (IMO) nearly ready for upstreaming.</p>
+        
+        <p><img src="https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-cm5-amd-radeon-ai-pro-9700.jpeg" width="700" height="394" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-36a0433b-645a-4733-8ec0-0068a4effb38" data-insert-attach="{&quot;id&quot;:&quot;36a0433b-645a-4733-8ec0-0068a4effb38&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Raspberry Pi CM5 with AMD Radeon AI Pro 9700 GPU"></p>
+        
+        <p>But this blog post shows how to quickly get almost <em>any</em> modern AMD GPU running on a Raspberry Pi 5, CM5, or Pi 500+, thanks to <a href="https://github.com/raspberrypi/linux/pull/7072">this patch on the Pi Linux fork</a>.</p></div>
+              <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-11-14T08:58:14-06:00" title="Friday, November 14, 2025 - 08:58" class="datetime">November 14, 2025</time>
+        </span>]]>
+      </description>
+      <source:markdown>Using AMD GPUs on Raspberry Pi without recompiling Linux
+
+I&#39;m working on a more in-depth test of some newer AMD GPUs on the Raspberry Pi, now that the [15 line kernel patch](https://www.jeffgeerling.com/blog/2025/full-egpu-acceleration-on-pi-500-15-line-patch) is (IMO) nearly ready for upstreaming.
+
+![Raspberry Pi CM5 with AMD Radeon AI Pro 9700 GPU](https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-cm5-amd-radeon-ai-pro-9700.jpeg)
+
+But this blog post shows how to quickly get almost _any_ modern AMD GPU running on a Raspberry Pi 5, CM5, or Pi 500+, thanks to [this patch on the Pi Linux fork](https://github.com/raspberrypi/linux/pull/7072).
+
+Jeff GeerlingNovember 14, 2025</source:markdown>
+      <guid>cid://3512 at https://www.jeffgeerling.com</guid>
+    </item>    <item>
+      <title>Retro Games opens pre-orders for THEA1200, a full-size working Amiga replica</title>
+      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/11/14/thea1200_fullsize_amiga_replica/</link>
+      <description>
+        <![CDATA[<h4>Company behind THESPECTRUM brings the holiday season early for retro computing fans</h4>
+              <p>Retro Games Ltd (RGL), the company behind THESPECTRUM and THEA500 Mini, has started accepting pre-orders for its full-size Amiga 1200 replica, THEA1200.</p>]]>
+      </description>
+      <source:markdown>#### Company behind THESPECTRUM brings the holiday season early for retro computing fans
+
+Retro Games Ltd (RGL), the company behind THESPECTRUM and THEA500 Mini, has started accepting pre-orders for its full-size Amiga 1200 replica, THEA1200.</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243018</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/14.html#a143526</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2022/08/08/bootstrappingByEngelbart.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It's kind of weird for me to be hanging out around WordPress, but I like it. They've been very welcoming. It's kind of like I imagine it would be for <a href="https://en.wikipedia.org/wiki/Ward_Cunningham">Ward Cunningham</a> to be working with Wikipedia. It may not have been everything he wanted from wiki's but it might be the best place for him to develop new features, most likely to have an influence on the way wikis are used in the real world. It's also kind of like it might have been if <a href="https://en.wikipedia.org/wiki/Douglas_Engelbart">Doug Engelbart</a> had been willing to hook up with Living Videotext back in the day. I had a couple of dinners with him in <a href="https://en.wikipedia.org/wiki/Palo_Alto,_California">Palo Alto</a> where I presented the idea. We had a growing user base of outliner users, our products had commercial success that weren't possible in the 60s and 70s, before there were personal computers like the Apple II or Macintosh. If he could help us, it would be good for both of us, I reasoned. He had his own codebase, and was working with a bunch of other people, and was happy with the setup. In 2025, I have ambitions for WordPress, I think it can play a bigger and different role in the web than it does. I believe there's a new class of developers and users who could benefit from the stability and scaling of WordPress. It's a good community, it's basically the web itself, which means imho that it can grow to be new things to new people. Anyway, you can see why this post has to be on both scripting.com and on my daveverse site as I discussed <a href="http://scripting.com/2025/11/13.html#a165641">yesterday</a>.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2022/08/08/bootstrappingByEngelbart.png)It&#39;s kind of weird for me to be hanging out around WordPress, but I like it. They&#39;ve been very welcoming. It&#39;s kind of like I imagine it would be for [Ward Cunningham](https://en.wikipedia.org/wiki/Ward_Cunningham) to be working with Wikipedia. It may not have been everything he wanted from wiki&#39;s but it might be the best place for him to develop new features, most likely to have an influence on the way wikis are used in the real world. It&#39;s also kind of like it might have been if [Doug Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) had been willing to hook up with Living Videotext back in the day. I had a couple of dinners with him in [Palo Alto](https://en.wikipedia.org/wiki/Palo_Alto,_California) where I presented the idea. We had a growing user base of outliner users, our products had commercial success that weren&#39;t possible in the 60s and 70s, before there were personal computers like the Apple II or Macintosh. If he could help us, it would be good for both of us, I reasoned. He had his own codebase, and was working with a bunch of other people, and was happy with the setup. In 2025, I have ambitions for WordPress, I think it can play a bigger and different role in the web than it does. I believe there&#39;s a new class of developers and users who could benefit from the stability and scaling of WordPress. It&#39;s a good community, it&#39;s basically the web itself, which means imho that it can grow to be new things to new people. Anyway, you can see why this post has to be on both scripting.com and on my daveverse site as I discussed [yesterday](http://scripting.com/2025/11/13.html#a165641).</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/14.html#a143526</guid>
+    </item>    <item>
+      <title>This seems promising: researchers have demonstrated that a &#38;#8220;nanoparticle-based vaccine can effectively...</title>
+      <link>https://kottke.org/25/11/0047841-this-seems-promising-rese</link>
+      <guid>cid://tag:kottke.org,2025://13.47841</guid>
+    </item>    <item>
+      <title>The Steam Machine rises again as Valve readies 2026 hardware trifecta</title>
+      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/11/14/valve_steam_kit/</link>
+      <description>
+        <![CDATA[<h4>Linux-powered PC, Arm VR headset, and refreshed controller all land on pre-order for next year</h4>
+              <p>The holiday season is almost upon us, but the new gear on gamers&#39; wish lists won&#39;t arrive until next year.</p>]]>
+      </description>
+      <source:markdown>#### Linux-powered PC, Arm VR headset, and refreshed controller all land on pre-order for next year
+
+The holiday season is almost upon us, but the new gear on gamers&#39; wish lists won&#39;t arrive until next year.</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243015</guid>
     </item>    <item>
       <title>GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum</title>
       <link>https://simonwillison.net/2025/Nov/14/gpt-51-system-card-addendum/#atom-everything</link>
@@ -202,9 +360,9 @@ Tags: [ai](https://simonwillison.net/tags/ai), [openai](https://simonwillison.ne
       <title>Fry Day</title>
       <link>https://doc.searls.com/2025/11/14/fry-day-2/</link>
       <description>
-        <![CDATA[Naturally The most downloaded country song is by an AI. Or Not Says here the AI bubble will burst. Geoffrey Hinton, Big AI&#39;s Cassandra, says otherwise.]]>
+        <![CDATA[This is a test I&#8217;m getting ready to re-theme two other blogs and experiment with one of them. On this blog the main change is internal: going from the classic WordPress editor to the block-based one. This one is my last in classic.ssss Naturally The most downloaded country song is by an AI. Or Not [&#8230;]]]>
       </description>
-      <source:markdown>Naturally The most downloaded country song is by an AI. Or Not Says here the AI bubble will burst. Geoffrey Hinton, Big AI&#39;s Cassandra, says otherwise.</source:markdown>
+      <source:markdown>This is a test I’m getting ready to re-theme two other blogs and experiment with one of them. On this blog the main change is internal: going from the classic WordPress editor to the block-based one. This one is my last in classic.ssss Naturally The most downloaded country song is by an AI. Or Not \[…\]</source:markdown>
       <guid>cid://https://doc.searls.com/2025/11/14/fry-day-2/</guid>
     </item>    <item>
       <title>Life after SeatGuru</title>
@@ -362,6 +520,14 @@ The post [Creating the most advanced event badge yet for the Biohacking Village 
 
 Kicking off #ffconf!</source:markdown>
       <guid>cid://https://adactio.com/notes/22251</guid>
+    </item>    <item>
+      <title>Flat Earth</title>
+      <link>https://lithub.com/flat-earth/</link>
+      <description>
+        <![CDATA[Our age difference, the Law Professor told me, was Socratic: seventeen years. An ideal gap for ideological instruction. &#160; He had medium-sized children—concealed at twentieth-century-style boarding schools—and this made him seem experienced. Still, I wasn’t young. My breasts were beginning]]>
+      </description>
+      <source:markdown>Our age difference, the Law Professor told me, was Socratic: seventeen years. An ideal gap for ideological instruction.   He had medium-sized children—concealed at twentieth-century-style boarding schools—and this made him seem experienced. Still, I wasn’t young. My breasts were beginning</source:markdown>
+      <guid>cid://https://lithub.com/?p=260681</guid>
     </item>    <item>
       <title>Office Hours: For President?</title>
       <link>https://robertreich.substack.com/p/office-hours-early-presidential-sweepstakes</link>
@@ -1428,15 +1594,15 @@ To him this is the height of luxury and power. To me it’s an embarrassment. An
       <title>Book Review: The Business of Secrets</title>
       <link>https://www.schneier.com/blog/archives/2025/11/book-review-the-business-of-secrets.html</link>
       <description>
-        <![CDATA[<p><strong>The Business of Secrets: Adventures in Selling Encryption Around the World by Fred Kinch (May 24, 2024)</strong></p>
+        <![CDATA[<p><strong><i>The Business of Secrets: Adventures in Selling Encryption Around the World</i> by Fred Kinch (May 24, 2024)</strong></p>
         <p>From the vantage point of today, it&#8217;s surreal reading about the commercial cryptography business in the 1970s. Nobody knew anything. The manufacturers didn&#8217;t know whether the cryptography they sold was any good. The customers didn&#8217;t know whether the crypto they bought was any good. Everyone pretended to know, thought they knew, or knew better than to even try to know.</p>
-        <p>The Business of Secrets is the self-published memoirs of Fred Kinch. He was founder and vice president of&#8212;mostly sales&#8212;at a US cryptographic hardware company called Datotek, from company&#8217;s founding in 1969 until 1982. It&#8217;s mostly a disjointed collection of stories about the difficulties of selling to governments worldwide, along with descriptions of the highs and (mostly) lows of foreign airlines, foreign hotels, and foreign travel in general. But it&#8217;s also about encryption...</p>]]>
+        <p><em>The Business of Secrets</em> is the self-published memoirs of Fred Kinch. He was founder and vice president of&#8212;mostly sales&#8212;at a US cryptographic hardware company called Datotek, from company&#8217;s founding in 1969 until 1982. It&#8217;s mostly a disjointed collection of stories about the difficulties of selling to governments worldwide, along with descriptions of the highs and (mostly) lows of foreign airlines, foreign hotels, and foreign travel in general. But it&#8217;s also about encryption...</p>]]>
       </description>
-      <source:markdown>**The Business of Secrets: Adventures in Selling Encryption Around the World by Fred Kinch (May 24, 2024)**
+      <source:markdown>**_The Business of Secrets: Adventures in Selling Encryption Around the World_ by Fred Kinch (May 24, 2024)**
 
 From the vantage point of today, it’s surreal reading about the commercial cryptography business in the 1970s. Nobody knew anything. The manufacturers didn’t know whether the cryptography they sold was any good. The customers didn’t know whether the crypto they bought was any good. Everyone pretended to know, thought they knew, or knew better than to even try to know.
 
-The Business of Secrets is the self-published memoirs of Fred Kinch. He was founder and vice president of—mostly sales—at a US cryptographic hardware company called Datotek, from company’s founding in 1969 until 1982. It’s mostly a disjointed collection of stories about the difficulties of selling to governments worldwide, along with descriptions of the highs and (mostly) lows of foreign airlines, foreign hotels, and foreign travel in general. But it’s also about encryption...</source:markdown>
+_The Business of Secrets_ is the self-published memoirs of Fred Kinch. He was founder and vice president of—mostly sales—at a US cryptographic hardware company called Datotek, from company’s founding in 1969 until 1982. It’s mostly a disjointed collection of stories about the difficulties of selling to governments worldwide, along with descriptions of the highs and (mostly) lows of foreign airlines, foreign hotels, and foreign travel in general. But it’s also about encryption...</source:markdown>
       <guid>cid://https://www.schneier.com/?p=71134</guid>
     </item>    <item>
       <title>The Republican Brain Doesn’t Want To Understand Health Care</title>
@@ -1540,11 +1706,11 @@ The Business of Secrets is the self-published memoirs of Fred Kinch. He was foun
       <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/11/13/mx_linux_25_infinity_released/</link>
       <description>
         <![CDATA[<h4>Systemd-free option still available if you choose that download</h4>
-              <p>MX Linux 25 &#34;Infinity&#34; is now available, and the new version has some significant differences from the 2023 release, with things that used to be boot-time choices now more loaded pre-install decisions.</p>]]>
+              <p>MX Linux 25 &#34;Infinity&#34; is now available, and the new version has some significant differences from the 2023 release, with things that used to be boot-time choices having become pre-install decisions.</p>]]>
       </description>
       <source:markdown>#### Systemd-free option still available if you choose that download
 
-MX Linux 25 &#34;Infinity&#34; is now available, and the new version has some significant differences from the 2023 release, with things that used to be boot-time choices now more loaded pre-install decisions.</source:markdown>
+MX Linux 25 &#34;Infinity&#34; is now available, and the new version has some significant differences from the 2023 release, with things that used to be boot-time choices having become pre-install decisions.</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242958</guid>
     </item>    <item>
       <link>https://www.democracydocket.com/opinion/it-was-the-epstein-shutdown-all-along/</link>
