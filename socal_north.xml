@@ -7,10 +7,37 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>15 Nov 25 10:09 -0800</lastBuildDate>
+    <lastBuildDate>15 Nov 25 14:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Right-wing media shrugs off latest Epstein document release</title>
+      <link>https://laist.com/news/right-wing-media-shrugs-off-latest-epstein-document-release</link>
+      <description>
+        <![CDATA[Epstein looms large for many conspiracy theorists, including QAnon believers.]]>
+      </description>
+      <source:markdown>Epstein looms large for many conspiracy theorists, including QAnon believers.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-8924-df0a-afda-c935fe080000</guid>
+    </item>    <item>
+      <title>Our Community Tradition Continues with Santa Clarita Kings Day</title>
+      <link>https://santaclarita.gov/blog/2025/11/15/our-community-tradition-continues-with-santa-clarita-kings-day/</link>
+      <description>
+        <![CDATA[<p>By City Manager Ken Striplin Every year, residents from across Santa Clarita make the trip to downtown Los Angeles to cheer on the Los Angeles Kings during Santa Clarita Kings Day. What began as a night of professional hockey has become something much bigger — a celebration of community, pride and our City’s growing connection [&#8230;]</p>
+        <p>The post <a href="https://santaclarita.gov/blog/2025/11/15/our-community-tradition-continues-with-santa-clarita-kings-day/">Our Community Tradition Continues with Santa Clarita Kings Day</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
+      </description>
+      <source:markdown>By City Manager Ken Striplin Every year, residents from across Santa Clarita make the trip to downtown Los Angeles to cheer on the Los Angeles Kings during Santa Clarita Kings Day. What began as a night of professional hockey has become something much bigger — a celebration of community, pride and our City’s growing connection \[…\]
+
+The post [Our Community Tradition Continues with Santa Clarita Kings Day](https://santaclarita.gov/blog/2025/11/15/our-community-tradition-continues-with-santa-clarita-kings-day/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
+      <guid>cid://https://santaclarita.gov/?p=7065</guid>
+    </item>    <item>
+      <title>Here’s the story: The ‘Brady Bunch’ house could become an LA monument</title>
+      <link>https://laist.com/news/los-angeles-activities/brady-bunch-house-historic-cultural-monument</link>
+      <description>
+        <![CDATA[The Studio City house has been nominated as a historic-cultural monument.]]>
+      </description>
+      <source:markdown>The Studio City house has been nominated as a historic-cultural monument.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-7e85-d439-a99a-fef7350f0000</guid>
+    </item>    <item>
       <title>Culver City is latest to consider public drinking area for its downtown</title>
       <link>https://laist.com/news/culver-city-to-consider-public-drinking-area-for-downtown</link>
       <description>
@@ -26,14 +53,6 @@
       </description>
       <source:markdown>The Diner Preservation Society meets at classic eateries to support and preserve the disappearing cultural gems.</source:markdown>
       <guid>cid://urn:uuid:0000019a-839a-da6c-a7fe-efda38740000</guid>
-    </item>    <item>
-      <title>Here’s the story: The ‘Brady Bunch’ house could become an LA monument</title>
-      <link>https://laist.com/news/los-angeles-activities/brady-bunch-house-historic-cultural-monument</link>
-      <description>
-        <![CDATA[The Studio City house has been nominated as a historic-cultural monument.]]>
-      </description>
-      <source:markdown>The Studio City house has been nominated as a historic-cultural monument.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-7e85-d439-a99a-fef7350f0000</guid>
     </item>    <item>
       <title>Trump can’t withhold funds or demand payment from UC, federal judge rules</title>
       <link>https://laist.com/news/education/trump-cant-withhold-funds-or-demand-payment-from-uc-federal-judge-rules</link>
@@ -190,12 +209,12 @@ The post [Check Out Student Art at the “Castaic Union School District Student 
       <source:markdown>The site in South L.A. was paid $2.3 million to provide space for up to 88 unhoused residents last fiscal year. But two observers found the site was operating at half capacity.</source:markdown>
       <guid>cid://urn:uuid:0000019a-7fcb-d490-adde-7fef18900000</guid>
     </item>    <item>
-      <title>Rain pummeled region overnight and more is coming: Here&#39;s the latest on the SoCal storm</title>
+      <title>Southern California is soaked. Here&#39;s what to expect from the rest of this rain storm</title>
       <link>https://laist.com/news/climate-environment/november-rain-storm-southern-california</link>
       <description>
-        <![CDATA[Rain total so far, and what's to come this weekend.]]>
+        <![CDATA[Some areas have seen more than 6 inches of rain, and forecasts show continued rainfall for much of Saturday.]]>
       </description>
-      <source:markdown>Rain total so far, and what&#39;s to come this weekend.</source:markdown>
+      <source:markdown>Some areas have seen more than 6 inches of rain, and forecasts show continued rainfall for much of Saturday.</source:markdown>
       <guid>cid://urn:uuid:0000019a-7a5c-d439-a99a-fefe65f80000</guid>
     </item>    <item>
       <title>LAX officials vote unanimously to build new $1.5 billion road into airport</title>

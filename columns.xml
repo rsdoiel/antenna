@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>15 Nov 25 10:09 -0800</lastBuildDate>
+    <lastBuildDate>15 Nov 25 14:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -140,6 +140,46 @@ comprise this release.
 As always, do give this release a try and open a [ticket](https://gitlab.haskell.org/ghc/ghc/-/issues/new) if you see
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
+    </item>    <item>
+      <title>llm-anthropic 0.22</title>
+      <link>https://simonwillison.net/2025/Nov/15/llm-anthropic-022/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://github.com/simonw/llm-anthropic/releases/tag/0.22">llm-anthropic 0.22</a></strong></p>
+        New release of my <code>llm-anthropic</code> plugin:</p>
+        <blockquote>
+        <ul>
+        <li>Support for Claude's new <a href="https://claude.com/blog/structured-outputs-on-the-claude-developer-platform">structured outputs</a> feature for Sonnet 4.5 and Opus 4.1. <a href="https://github.com/simonw/llm-anthropic/issues/54">#54</a></li>
+        <li>Support for the <a href="https://docs.claude.com/en/docs/agents-and-tools/tool-use/web-search-tool">web search tool</a> using <code>-o web_search 1</code> - thanks <a href="https://github.com/nmpowell">Nick Powell</a> and <a href="https://github.com/statico">Ian Langworth</a>. <a href="https://github.com/simonw/llm-anthropic/issues/30">#30</a></li>
+        </ul>
+        </blockquote>
+        <p>The plugin previously powered <a href="https://llm.datasette.io/en/stable/schemas.html">LLM schemas</a> using <a href="https://github.com/simonw/llm-anthropic/blob/0.22/llm_anthropic.py#L692-L700">this tool-call based workaround</a>. That code is still used for Anthropic's older models.</p>
+        <p>I also figured out <code>uv</code> recipes for running the plugin's test suite in an isolated environment, which are now <a href="https://github.com/simonw/llm-anthropic/blob/0.22/Justfile">baked into the new Justfile</a>.
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/uv">uv</a></p>]]>
+      </description>
+      <source:markdown>**[llm-anthropic 0.22](https://github.com/simonw/llm-anthropic/releases/tag/0.22)**
+
+New release of my `llm-anthropic` plugin:
+
+&#62; - Support for Claude&#39;s new [structured outputs](https://claude.com/blog/structured-outputs-on-the-claude-developer-platform) feature for Sonnet 4.5 and Opus 4.1. [#54](https://github.com/simonw/llm-anthropic/issues/54)
+&#62; - Support for the [web search tool](https://docs.claude.com/en/docs/agents-and-tools/tool-use/web-search-tool) using `-o web_search 1` \- thanks [Nick Powell](https://github.com/nmpowell) and [Ian Langworth](https://github.com/statico). [#30](https://github.com/simonw/llm-anthropic/issues/30)
+
+The plugin previously powered [LLM schemas](https://llm.datasette.io/en/stable/schemas.html) using [this tool-call based workaround](https://github.com/simonw/llm-anthropic/blob/0.22/llm_anthropic.py#L692-L700). That code is still used for Anthropic&#39;s older models.
+
+I also figured out `uv` recipes for running the plugin&#39;s test suite in an isolated environment, which are now [baked into the new Justfile](https://github.com/simonw/llm-anthropic/blob/0.22/Justfile).
+
+
+
+Tags: [projects](https://simonwillison.net/tags/projects), [python](https://simonwillison.net/tags/python), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [llm](https://simonwillison.net/tags/llm), [anthropic](https://simonwillison.net/tags/anthropic), [claude](https://simonwillison.net/tags/claude), [uv](https://simonwillison.net/tags/uv)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/15/llm-anthropic-022/#atom-everything</guid>
+    </item>    <item>
+      <link>https://theconversation.com/making-progress-is-more-than-making-policy-what-mamdani-can-learn-from-de-blasio-about-the-politics-of-urban-progress-269062</link>
+      <description>
+        <![CDATA[<p>Making progress is more than making policy – what Mamdani can learn from de Blasio about the politics of urban progress.</p>]]>
+      </description>
+      <source:markdown>Making progress is more than making policy – what Mamdani can learn from de Blasio about the politics of urban progress.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/15/1919/</guid>
     </item>    <item>
       <title>The Modern American Conservative Movement is Bankrupt and Anti-American</title>
       <link>https://www.notesfromthecircus.com/p/the-modern-american-conservative</link>

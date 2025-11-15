@@ -4,10 +4,34 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>15 Nov 25 10:09 -0800</lastBuildDate>
+    <lastBuildDate>15 Nov 25 14:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Unity of purpose among Opposition a boost for Bacik</title>
+      <link>https://www.rte.ie/news/2025/1115/1544200-labour-party-success/</link>
+      <description>
+        <![CDATA[Ivana Bacik went into her party conference this weekend buoyed by some success.]]>
+      </description>
+      <source:markdown>Ivana Bacik went into her party conference this weekend buoyed by some success.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2025/1115/1544200-labour-party-success/</guid>
+    </item>    <item>
+      <title>Woman in her 60s dies following house fire in Offaly</title>
+      <link>https://www.rte.ie/news/ireland/2025/1115/1544195-death-house-fire/</link>
+      <description>
+        <![CDATA[A woman in her 60s has died following a house fire in Co Offaly.]]>
+      </description>
+      <source:markdown>A woman in her 60s has died following a house fire in Co Offaly.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/1115/1544195-death-house-fire/</guid>
+    </item>    <item>
+      <title>Autumn Nations Series: Ireland 46-19 Australia - recap</title>
+      <link>https://www.rte.ie/sport/rugby/2025/1115/1544128-autumn-nations-series-ireland-v-australia-updates/</link>
+      <description>
+        <![CDATA[Look back on our minute by minute coverage as Ireland powered to an impressive win against Australia.]]>
+      </description>
+      <source:markdown>Look back on our minute by minute coverage as Ireland powered to an impressive win against Australia.</source:markdown>
+      <guid>cid://https://www.rte.ie/sport/rugby/2025/1115/1544128-autumn-nations-series-ireland-v-australia-updates/</guid>
+    </item>    <item>
       <title>Ukraine says Russian oil refinery near Moscow attacked</title>
       <link>https://www.rte.ie/news/ukraine/2025/1115/1544178-russia-ukraine/</link>
       <description>
@@ -52,12 +76,20 @@
       <source:markdown>Thousands of people gathered in Dublin today to demand that the Government delivers a &#34;just climate action policy&#34; and an end to fossil fuel power.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1115/1544168-climate-protest-dublin/</guid>
     </item>    <item>
+      <title>Thousands attend rally calling for climate action policy</title>
+      <link>https://www.rte.ie/news/ireland/2025/1115/1544168-climate-protest-dublin/</link>
+      <description>
+        <![CDATA[Thousands of people gathered in Dublin today to demand that the Government delivers a "just climate action policy" and an end to fossil fuel power.]]>
+      </description>
+      <source:markdown>Thousands of people gathered in Dublin today to demand that the Government delivers a &#34;just climate action policy&#34; and an end to fossil fuel power.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/1115/1544168-climate-protest-dublin/</guid>
+    </item>    <item>
       <title>Search for UK naval crew member off northwest coast</title>
       <link>https://www.rte.ie/news/ulster/2025/1115/1544161-search-north-west/</link>
       <description>
-        <![CDATA[A multi-agency search is under way off the northwest coast after a person was reported missing this morning.]]>
+        <![CDATA[A multi-agency search is continuing off the northwest coast tonight after a UK naval support crew member was reported missing this morning.]]>
       </description>
-      <source:markdown>A multi-agency search is under way off the northwest coast after a person was reported missing this morning.</source:markdown>
+      <source:markdown>A multi-agency search is continuing off the northwest coast tonight after a UK naval support crew member was reported missing this morning.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ulster/2025/1115/1544161-search-north-west/</guid>
     </item>    <item>
       <title>Watch: Pope Leo XIV hosts Hollywood stars at Vatican</title>
@@ -86,6 +118,24 @@ Iran confirmed on Saturday its Revolutionary Guards had seized a tanker in Gulf 
       <source:markdown>In Somalia, where six out of ten births take place without a doctor, childbirth is often a matter of survival.</source:markdown>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-11-2025-UNFPA-Somalia-01.jpg/image560x340cropped.jpg" length="24826" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/11/1166359</guid>
+    </item>    <item>
+      <title>Restoring dignity to Gaza: the cleanup begins</title>
+      <link>https://news.un.org/feed/view/en/story/2025/11/1166377</link>
+      <description>
+        <![CDATA[A large-scale campaign under the slogan “We Will Rebuild Gaza” was launched on Saturday in Gaza City, with the participation of local organisations and United Nations agencies, in an effort to begin cleaning operations and removing debris left by the war.]]>
+      </description>
+      <source:markdown>A large-scale campaign under the slogan “We Will Rebuild Gaza” was launched on Saturday in Gaza City, with the participation of local organisations and United Nations agencies, in an effort to begin cleaning operations and removing debris left by the war.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/15-11-2025-gaza-cleanup3_2.png/image560x340cropped.jpg" length="42975" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/11/1166377</guid>
+    </item>    <item>
+      <title>‘When finance flows, ambition grows”: COP30’s call for action</title>
+      <link>https://news.un.org/feed/view/en/story/2025/11/1166376</link>
+      <description>
+        <![CDATA[In Belém, Brazil, as the world turns its eyes to the Amazon where COP30 has been underway for the past week, one question looms large: can climate finance move from pledge to lifeline?]]>
+      </description>
+      <source:markdown>In Belém, Brazil, as the world turns its eyes to the Amazon where COP30 has been underway for the past week, one question looms large: can climate finance move from pledge to lifeline?</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-11-2023-CIF-Mali-solar.jpg/image560x340cropped.jpg" length="54372" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/11/1166376</guid>
     </item>    <item>
       <title>Four arrested after gardaí seize €4.4m worth of cannabis</title>
       <link>https://www.rte.ie/news/2025/1115/1544151-cannabis-drug-seizure/</link>
@@ -191,12 +241,12 @@ U.S. President Donald Trump has publicly called it quits with one of his most st
       <source:markdown>Ireland will attend the G20 Summit in Johannesburg next weekend amid a US boycott. The US President Donald Trump condemned South Africa&#39;s hosting of the summit of the world&#39;s top economies as a &#34;total disgrace&#34;.</source:markdown>
       <guid>cid://https://www.rte.ie/news/analysis-and-comment/2025/1115/1544001-ireland-to-attend-africas-first-g20-as-us-boycotts/</guid>
     </item>    <item>
-      <title>OTB must be passed &#39;in full&#39; by Christmas, says Bacik</title>
+      <title>Bacik calls on Govt to outline time frame for border poll</title>
       <link>https://www.rte.ie/news/politics/2025/1115/1544098-labour-conference/</link>
       <description>
-        <![CDATA[Labour leader Ivana Bacik has called on the Government to pass the Occupied Territories Bill "in full" by Christmas.]]>
+        <![CDATA[Labour leader Ivana Bacik has called for the Government to confirm a timeline for a "unity referendum" on Northern Ireland in her leader's address to the party's annual conference this evening.]]>
       </description>
-      <source:markdown>Labour leader Ivana Bacik has called on the Government to pass the Occupied Territories Bill &#34;in full&#34; by Christmas.</source:markdown>
+      <source:markdown>Labour leader Ivana Bacik has called for the Government to confirm a timeline for a &#34;unity referendum&#34; on Northern Ireland in her leader&#39;s address to the party&#39;s annual conference this evening.</source:markdown>
       <guid>cid://https://www.rte.ie/news/politics/2025/1115/1544098-labour-conference/</guid>
     </item>    <item>
       <title>After decade of difficulty, is Labour on an upward trend?</title>
@@ -726,7 +776,7 @@ A man convicted of the 1979 killing of a six-year-old girl who was abducted from
 Russia launched a heavy drone and missile attack on Ukraine early on Friday, killing six people in Kyiv and two more in the south in strikes on energy facilities, apartment buildings and infrastructure, Ukrainian officials said.</source:markdown>
       <guid>cid://9.6978614</guid>
     </item>    <item>
-      <title>Masa, 5, has been missing for almost 2 years. On Saturday, her family found her remains</title>
+      <title>Masa, 5, had been missing for almost 2 years. On Saturday, her family found her remains</title>
       <link>https://www.cbc.ca/news/world/gaza-rubble-bodies-search-9.6978383?cmp=rss</link>
       <description>
         <![CDATA[<img src='https://i.cbc.ca/ais/ddee483d-511a-4656-a799-310a113e9ee2,1763075174613/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3520%2C1980%29%3BResize%3D%28620%29' alt='two men sit in rubble and hold a white shoe ' width='620' height='349' title='The two men have been searching for Masa&apos;s remains in the rubble of the building she was sheltering in with her family '/><p>Mu’ayyad Ajjour and his neighbour Mohamed Zaida have searched every day among the ruins of a building, hoping to find the remains of five-year-old Masa, Ajjour's cousin, so they can give her a proper burial. Her body is one of thousands thought to be buried in the debris of the war in Gaza. On Saturday, her remains were located and her body was taken to be buried. </p>]]>
