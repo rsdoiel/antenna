@@ -7,6 +7,7 @@ title: North America
 - [Guardian](https://www.theguardian.com/us-news/rss)
 - [Zeteo](https://zeteo.com/feed)
 - Bloomberg https://feeds.bloomberg.com/news.rss (not sure about this feed)
+- [What A Day (crooked media)](https://crookedmedia.substack.com/feed)
 
 
 # Government News Sources

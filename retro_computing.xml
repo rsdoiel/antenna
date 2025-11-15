@@ -4,7 +4,7 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>14 Nov 25 14:10 -0800</lastBuildDate>
+    <lastBuildDate>15 Nov 25 06:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -943,54 +943,6 @@ To make all that happen, of course, we next need to get the MacOS ROM on an actu
       </description>
       <source:markdown>RISCOSbits have a late-breaking announcement about some last minute hardware offers tomorrow...</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2246.html</guid>
-    </item>    <item>
-      <title>Hardware discounts from R-Comp at the London Show</title>
-      <link>https://www.riscository.com/2025/rcomp-hardware-discounts-london-show/</link>
-      <description>
-        <![CDATA[With the clock counting down rapidly until I can get to the pub the doors open for tomorrow&#8217;s London Show, another announcement has arrived from R-Comp: Stop Press &#8211; We&#8217;ll be knocking 20ukp off all hardware items (over 50ukp) at the show. You don&#8217;t need to quote any adverts or phrases or claim anything special. Just money off for everyone 🙂 At the recent Show Preview user group meeting, Andrew Rawnsley of RCI demonstrated some new hardware items that had been proving popular this summer, and will be available at&#8230;]]>
-      </description>
-      <source:markdown>With the clock counting down rapidly until I can get to the pub the doors open for tomorrow’s London Show, another announcement has arrived from R-Comp: Stop Press – We’ll be knocking 20ukp off all hardware items (over 50ukp) at the show. You don’t need to quote any adverts or phrases or claim anything special. Just money off for everyone 🙂 At the recent Show Preview user group meeting, Andrew Rawnsley of RCI demonstrated some new hardware items that had been proving popular this summer, and will be available at…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10783</guid>
-    </item>    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2025/10/this-week-on-the-analog-antiquarian/</link>
-      <description>
-        <![CDATA[Chapter 6: The Problem Child Note that I won&#8217;t be publishing on The Digital Antiquarian on October 31. I&#8217;ll see you on November 7 instead. Happy Halloween!]]>
-      </description>
-      <source:markdown>Chapter 6: The Problem Child Note that I won’t be publishing on The Digital Antiquarian on October 31. I’ll see you on November 7 instead. Happy Halloween!</source:markdown>
-      <guid>cid://https://www.filfre.net/?p=6532</guid>
-    </item>    <item>
-      <title>Chris Hall’s last minute London Show offers</title>
-      <link>https://www.riscository.com/2025/chris-hall-london-show-offers/</link>
-      <description>
-        <![CDATA[One final email has landed in the RISCOSitory bunker before things get fully shut down for the duration of the London Show, and it&#8217;s from Chris Hall: The 368 page Impression User Manual (in the form of a PDF file) was originally provided free to purchasers of Impression X. This User Manual is now available in electronic form free to all users of Impression Style (which is free to download from !Store), Publisher and Publisher Plus from !Store. A printed version of the manual is still available, normal price £25,&#8230;]]>
-      </description>
-      <source:markdown>One final email has landed in the RISCOSitory bunker before things get fully shut down for the duration of the London Show, and it’s from Chris Hall: The 368 page Impression User Manual (in the form of a PDF file) was originally provided free to purchasers of Impression X. This User Manual is now available in electronic form free to all users of Impression Style (which is free to download from !Store), Publisher and Publisher Plus from !Store. A printed version of the manual is still available, normal price £25,…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10780</guid>
-    </item>    <item>
-      <title>Show offer on Impression User Manual and free software to collect</title>
-      <link>http://www.iconbar.com/comments/rss/news2252.html</link>
-      <description>
-        <![CDATA[If you don't have a copy of the Impression User manual and would like a printed copy, Chris Hall has a very special offer for you at the London Show]]>
-      </description>
-      <source:markdown>If you don&#39;t have a copy of the Impression User manual and would like a printed copy, Chris Hall has a very special offer for you at the London Show</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2252.html</guid>
-    </item>    <item>
-      <title>London Show sees launch of NetFetch 6 from R-Comp</title>
-      <link>https://www.riscository.com/2025/london-show-netfetch-6/</link>
-      <description>
-        <![CDATA[In another bit of last minute London Show news, a new version of NetFetch is being released by R-Comp. Here&#8217;s the full announcement from Andrew Rawnsley: R-Comp are launching version 6 of NetFetch at the London show, over six years since v5.5 launched at Wakefield 2019. (Spoiler &#8211; it&#8217;s live now on !Store) NetFetch provides flexible mail and news fetching for RISC OS, including anti spam and other filtering capabilities, as well as a friendly front end to RISC OS internet-related software. A version of Messenger Pro is included to&#8230;]]>
-      </description>
-      <source:markdown>In another bit of last minute London Show news, a new version of NetFetch is being released by R-Comp. Here’s the full announcement from Andrew Rawnsley: R-Comp are launching version 6 of NetFetch at the London show, over six years since v5.5 launched at Wakefield 2019. (Spoiler – it’s live now on !Store) NetFetch provides flexible mail and news fetching for RISC OS, including anti spam and other filtering capabilities, as well as a friendly front end to RISC OS internet-related software. A version of Messenger Pro is included to…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10778</guid>
-    </item>    <item>
-      <title>Last minute show news from RISCOSbits</title>
-      <link>https://www.riscository.com/2025/last-minute-london-show-riscosbits/</link>
-      <description>
-        <![CDATA[With the RISC OS London Show now only one day away, here&#8217;s a last-minute announcement from RISCOSbits: In last minute stop-press news, RISCOSbits are pleased to announce a few additions to the London Show stand. For those of you who are in the market for a RISC OS laptop, RISCOSbits may have exactly what you are looking for at the London show! We will have VERY LIMITED stock of Linux enabled, but RISC OS capable Pinebook Pros available for sale at the London show. Whilst these laptops are not fitted&#8230;]]>
-      </description>
-      <source:markdown>With the RISC OS London Show now only one day away, here’s a last-minute announcement from RISCOSbits: In last minute stop-press news, RISCOSbits are pleased to announce a few additions to the London Show stand. For those of you who are in the market for a RISC OS laptop, RISCOSbits may have exactly what you are looking for at the London show! We will have VERY LIMITED stock of Linux enabled, but RISC OS capable Pinebook Pros available for sale at the London show. Whilst these laptops are not fitted…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10756</guid>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,28 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>14 Nov 25 14:09 -0800</lastBuildDate>
+    <lastBuildDate>15 Nov 25 06:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Manalive, by G. K. Chesterton</title>
+      <link>https://standardebooks.org/ebooks/g-k-chesterton/manalive</link>
+      <description>
+        <![CDATA[An eccentric man brings chaos and happiness to a house of litigious lodgers.]]>
+      </description>
+      <source:markdown>An eccentric man brings chaos and happiness to a house of litigious lodgers.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/g-k-chesterton/manalive/downloads/g-k-chesterton_manalive.epub?source=feed" length="386596" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/g-k-chesterton/manalive</guid>
+    </item>    <item>
+      <title>The Red Thumbmark, by R. Austin Freeman</title>
+      <link>https://standardebooks.org/ebooks/r-austin-freeman/the-red-thumbmark</link>
+      <description>
+        <![CDATA[A detective struggles to prove the innocence of a man accused of stealing jewels, in the face of overwhelming evidence.]]>
+      </description>
+      <source:markdown>A detective struggles to prove the innocence of a man accused of stealing jewels, in the face of overwhelming evidence.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/r-austin-freeman/the-red-thumbmark/downloads/r-austin-freeman_the-red-thumbmark.epub?source=feed" length="648858" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/r-austin-freeman/the-red-thumbmark</guid>
+    </item>    <item>
       <title>Voices Celebrating 1 Trillion Pages: Katherine Maher, President and CEO of NPR</title>
       <link>https://blog.archive.org/2025/11/14/voices-celebrating-1-trillion-pages-katherine-maher-president-and-ceo-of-npr/</link>
       <description>
@@ -74,7 +92,7 @@ The post [The Next Open Revolution: Equity, Impact, and the Architecture of Know
         <![CDATA[A social campaigner describes her experiences living on the streets of 1920s London.]]>
       </description>
       <source:markdown>A social campaigner describes her experiences living on the streets of 1920s London.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/ada-elizabeth-chesterton/in-darkest-london/downloads/ada-elizabeth-chesterton_in-darkest-london.epub?source=feed" length="521891" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/ada-elizabeth-chesterton/in-darkest-london/downloads/ada-elizabeth-chesterton_in-darkest-london.epub?source=feed" length="521917" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/ada-elizabeth-chesterton/in-darkest-london</guid>
     </item>    <item>
       <title>Looking Back on Our Shared Digital History: “The Web We’ve Built” Mini-Doc</title>
@@ -724,7 +742,7 @@ The post [Guest Post — Do Academic Libraries Have a Strategy for AI?](https://
         <![CDATA[A couple in turn-of-the-century Chicago navigates the murky waters of greed, ambition, and loss against the backdrop of the Board of Trade’s wheat speculation pits.]]>
       </description>
       <source:markdown>A couple in turn-of-the-century Chicago navigates the murky waters of greed, ambition, and loss against the backdrop of the Board of Trade’s wheat speculation pits.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/frank-norris/the-pit/downloads/frank-norris_the-pit.epub?source=feed" length="715521" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/frank-norris/the-pit/downloads/frank-norris_the-pit.epub?source=feed" length="715529" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/frank-norris/the-pit</guid>
     </item>    <item>
       <title>A Peek Inside the Physical Archive: Where the Past Finds a Future</title>
@@ -798,36 +816,6 @@ The post [Day in Review (October 27–30)](https://www.arl.org/day-in-review/day
 
 The post [Guest Post — How Changes to ADA Title II Impact Libraries, and What We Can Do to Respond, Part 2](https://scholarlykitchen.sspnet.org/2025/10/27/guest-post-how-changes-to-ada-title-ii-impact-libraries-and-what-we-can-do-to-respond-part-2/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=61141</guid>
-    </item>    <item>
-      <title>Celebrate 1 Trillion Web Pages with Original Net.Art Works: Internet Archive x Gray Area</title>
-      <link>https://blog.archive.org/2025/10/24/celebrate-1-trillion-web-pages-with-original-net-art-works-internet-archive-x-gray-area/</link>
-      <description>
-        <![CDATA[Internet Archive x Gray Area: Trillionth Webpage Net.Art CommissionsDate: Saturday, November 1Time: 5:00 to 8:00pmLocation: Internet Archive, 300 Funston Avenue, San FranciscoAdmission: FreeREGISTER NOW! The Internet Archive has reached an [&#8230;]]]>
-      </description>
-      <source:markdown>Internet Archive x Gray Area: Trillionth Webpage Net.Art CommissionsDate: Saturday, November 1Time: 5:00 to 8:00pmLocation: Internet Archive, 300 Funston Avenue, San FranciscoAdmission: FreeREGISTER NOW! The Internet Archive has reached an \[…\]</source:markdown>
-      <guid>cid://https://blog.archive.org/?p=29468</guid>
-    </item>    <item>
-      <title>We need to talk about citations</title>
-      <link>https://blog.scielo.org/blog/2025/10/24/precisamos-falar-sobre-citacoes/#new_tab</link>
-      <description>
-        <![CDATA[<p>Citations strengthen science, but errors are still common. Such flaws distort evidence and undermine trust. Rigorous checking and editing reinforce scientific integrity. Available in Portuguese only. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/blog/2025/10/24/precisamos-falar-sobre-citacoes/#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
-        <p>The post <a href="https://blog.scielo.org/blog/2025/10/24/precisamos-falar-sobre-citacoes/#new_tab">We need to talk about citations</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p>]]>
-      </description>
-      <source:markdown>Citations strengthen science, but errors are still common. Such flaws distort evidence and undermine trust. Rigorous checking and editing reinforce scientific integrity. Available in Portuguese only. …[Read More →](https://blog.scielo.org/blog/2025/10/24/precisamos-falar-sobre-citacoes/#new_tab)
-
-The post [We need to talk about citations](https://blog.scielo.org/blog/2025/10/24/precisamos-falar-sobre-citacoes/#new_tab) first appeared on [SciELO in Perspective](https://blog.scielo.org/en).</source:markdown>
-      <guid>cid://https://blog.scielo.org/en/?p=5689</guid>
-    </item>    <item>
-      <title>Insights from the SSP Organizational Compensation and Benefits Study</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/10/24/insights-from-the-ssp-organizational-compensation-and-benefits-study/</link>
-      <description>
-        <![CDATA[<p>Building on SSP's spring results of the individual compensation and benefits study, Melanie Dolechek shares insights from the organizational survey — a slide of the survey data that provides useful benchmarks on policies and practices across publishing organizations.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/10/24/insights-from-the-ssp-organizational-compensation-and-benefits-study/">Insights from the SSP Organizational Compensation and Benefits Study</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Building on SSP&#39;s spring results of the individual compensation and benefits study, Melanie Dolechek shares insights from the organizational survey — a slide of the survey data that provides useful benchmarks on policies and practices across publishing organizations.
-
-The post [Insights from the SSP Organizational Compensation and Benefits Study](https://scholarlykitchen.sspnet.org/2025/10/24/insights-from-the-ssp-organizational-compensation-and-benefits-study/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61137</guid>
     </item>
   </channel>
 </rss>

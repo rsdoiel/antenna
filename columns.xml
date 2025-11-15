@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>14 Nov 25 14:09 -0800</lastBuildDate>
+    <lastBuildDate>15 Nov 25 06:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -140,6 +140,156 @@ comprise this release.
 As always, do give this release a try and open a [ticket](https://gitlab.haskell.org/ghc/ghc/-/issues/new) if you see
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/15.html#a135446</link>
+      <description>
+        <![CDATA[Today is one of those days I am pretty sure I have nothing to write about but as I get going I'll remember stuff to write about.]]>
+      </description>
+      <source:markdown>Today is one of those days I am pretty sure I have nothing to write about but as I get going I&#39;ll remember stuff to write about.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/15.html#a135446</guid>
+    </item>    <item>
+      <link>https://www.ms.now/msnbc/ms-now-faq</link>
+      <description>
+        <![CDATA[<p>The domain for the new MSNOW is ms.now.</p>]]>
+      </description>
+      <source:markdown>The domain for the new MSNOW is ms.now.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/15/1917/</guid>
+    </item>    <item>
+      <title>Code wikis are documentation theater as a service</title>
+      <link>https://passo.uno/ai-wikis-docs-teather-as-a-service/</link>
+      <description>
+        <![CDATA[<p><a href="https://codewiki.google/">Code Wiki</a>, a new AI tool by Google similar to <a href="https://deepwiki.org/">DeepWiki</a>, claims to generate a complete set of docs, including diagrams, from code repos. The landing page goes as far as saying “Stop documenting. No more stale docs. Ever”, a claim that made me stagger and reach for the nearest chair.</p>
+        <p>That these tools are laughably <em>bad</em> isn’t reassuring; their emergence hints at a deeper and more unsettling cultural problem.</p>]]>
+      </description>
+      <source:markdown>[Code Wiki](https://codewiki.google/), a new AI tool by Google similar to [DeepWiki](https://deepwiki.org/), claims to generate a complete set of docs, including diagrams, from code repos. The landing page goes as far as saying “Stop documenting. No more stale docs. Ever”, a claim that made me stagger and reach for the nearest chair.
+
+That these tools are laughably _bad_ isn’t reassuring; their emergence hints at a deeper and more unsettling cultural problem.</source:markdown>
+      <guid>cid://https://passo.uno/ai-wikis-docs-teather-as-a-service/</guid>
+    </item>    <item>
+      <title>On Generative AI Imagery</title>
+      <link>https://xn--gckvb8fzb.com/on-generative-ai-imagery/</link>
+      <description>
+        <![CDATA[I'm not a fan of it either. Unfortunately, generative AI seems to be the only
+        way I, as someone with little artistic talent, can _"afford"_ more
+        sophisticated graphics.]]>
+      </description>
+      <source:markdown>I&#39;m not a fan of it either. Unfortunately, generative AI seems to be the only
+way I, as someone with little artistic talent, can \_&#34;afford&#34;\_ more
+sophisticated graphics.</source:markdown>
+      <author>marius@xn--gckvb8fzb.com (Marius)</author>
+      <guid>cid:///on-generative-ai-imagery/</guid>
+    </item>    <item>
+      <link>https://www.npr.org/2025/11/15/nx-s1-5607064/guns-liberals-trump-administration-people-of-color-lgbtq-fear?utm_campaign=npr&#38;utm_medium=social&#38;utm_source=bsky.app&#38;utm_term=nprnews</link>
+      <description>
+        <![CDATA[<p>More liberals, people of color and LGBTQ Americans say they're buying guns out of fear.</p>]]>
+      </description>
+      <source:markdown>More liberals, people of color and LGBTQ Americans say they&#39;re buying guns out of fear.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/15/1915/</guid>
+    </item>    <item>
+      <title>Lit Hub Weekly: November 10 – 14, 2025</title>
+      <link>https://lithub.com/lit-hub-weekly-november-10-14-2025/</link>
+      <description>
+        <![CDATA[The 2025 National Book Award Finalists answer our questions about their books, their reading habits, and their writing lives! &#124; Lit Hub In Conversation “The sickness that once detached him from life had now made him greedy for experience.” How]]>
+      </description>
+      <source:markdown>The 2025 National Book Award Finalists answer our questions about their books, their reading habits, and their writing lives! \| Lit Hub In Conversation “The sickness that once detached him from life had now made him greedy for experience.” How</source:markdown>
+      <guid>cid://https://lithub.com/?p=262770</guid>
+    </item>    <item>
+      <title>Talking With Margaret Sullivan</title>
+      <link>https://paulkrugman.substack.com/p/talking-with-margaret-sullivan</link>
+      <description>
+        <![CDATA[The state of the media in Trump Two Year One]]>
+      </description>
+      <source:markdown>The state of the media in Trump Two Year One</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!zpIL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0df83fd2-bc5c-4204-bc2e-e3809cf14114_1280x720.png" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/talking-with-margaret-sullivan</guid>
+    </item>    <item>
+      <title>Epstein’s Revenge: The Coffee Klatch for Saturday, November 15, 2025</title>
+      <link>https://robertreich.substack.com/p/epsteins-revenge-the-coffee-klatch</link>
+      <description>
+        <![CDATA[With Heather Lofthouse and yours truly, Robert Reich]]>
+      </description>
+      <source:markdown>With Heather Lofthouse and yours truly, Robert Reich</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/178920084/20a795aa31655fe1582cfe8fd443b8ab.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://robertreich.substack.com/p/epsteins-revenge-the-coffee-klatch</guid>
+    </item>    <item>
+      <link>https://journaliststudio.google.com/pinpoint/search?collection=092314e384a58618&#38;utm_source=collection_share_link</link>
+      <description>
+        <![CDATA[<p>Search the recently released Epstein emails.</p>]]>
+      </description>
+      <source:markdown>Search the recently released Epstein emails.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/15/1913/</guid>
+    </item>    <item>
+      <link>https://www.politico.com/news/2025/11/14/donald-trump-judges-00652762</link>
+      <description>
+        <![CDATA[<p>These Reagan-appointed judges have had it with Trump.</p>]]>
+      </description>
+      <source:markdown>These Reagan-appointed judges have had it with Trump.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/15/1911/</guid>
+    </item>    <item>
+      <title>November 14, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/november-14-2025</link>
+      <description>
+        <![CDATA[In a transparent attempt to distract from the many times his own name appears in the documents from the Epstein estate members of the House Oversight Committee released Wednesday, President Donald J.]]>
+      </description>
+      <source:markdown>In a transparent attempt to distract from the many times his own name appears in the documents from the Epstein estate members of the House Oversight Committee released Wednesday, President Donald J.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/november-14-2025</guid>
+    </item>    <item>
+      <title>Weeknotes: Nov. 8-14, 2025</title>
+      <link>https://tracydurnell.com/2025/11/14/weeknotes-nov-8-14-2025/</link>
+      <description>
+        <![CDATA[Win of the week: got a tubular skylight installed over the dark stairway in the center of the house ☀️ Looking forward to: reading Sunward by William Alexander 🤖🚀 Stuff I did: 8.5 hours consulting took Tuesday off for Veteran&#8217;s Day (I aim to give myself Federal holidays off &#8212; my clients all have them [&#8230;]]]>
+      </description>
+      <source:markdown>Win of the week: got a tubular skylight installed over the dark stairway in the center of the house ☀️ Looking forward to: reading Sunward by William Alexander 🤖🚀 Stuff I did: 8.5 hours consulting took Tuesday off for Veteran’s Day (I aim to give myself Federal holidays off — my clients all have them \[…\]</source:markdown>
+      <guid>cid://https://tracydurnell.com/?p=31522</guid>
+    </item>    <item>
+      <title>The Information: Second-Gen iPhone Air Postponed Until Spring 2027, but Might Gain Second Camera</title>
+      <link>https://www.theinformation.com/briefings/apple-explores-adding-second-camera-next-iphone-air-boost-sales</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42386</guid>
+    </item>    <item>
+      <title>November 13, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/november-13-2025-201</link>
+      <enclosure url="https://api.substack.com/feed/podcast/178944339/ec5ada1f47fb66976a275cc7e761cede.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/november-13-2025-201</guid>
+    </item>    <item>
+      <title>Posting what I can’t email</title>
+      <link>https://doc.searls.com/2025/11/14/posting-what-i-cant-email/</link>
+      <description>
+        <![CDATA[The AM-FM radio business is being discussed in a mailing list I&#8217;m on, but my mail server has a spam sphincter that won&#8217;t allow linky emails to go out, no matter how non-spammy they might be. So I&#8217;m posting some of what I&#8217;m trying to say here, so I can point to it. Here is [&#8230;]]]>
+      </description>
+      <source:markdown>The AM-FM radio business is being discussed in a mailing list I’m on, but my mail server has a spam sphincter that won’t allow linky emails to go out, no matter how non-spammy they might be. So I’m posting some of what I’m trying to say here, so I can point to it. Here is \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/?p=19738</guid>
+    </item>    <item>
+      <link>https://www.nydailynews.com/2025/11/14/morgan-freeman-ai-voice-replicas-legal-action/</link>
+      <description>
+        <![CDATA[<p>Morgan Freeman taking legal action over AI replicas of his voice.</p>]]>
+      </description>
+      <source:markdown>Morgan Freeman taking legal action over AI replicas of his voice.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/14/1909/</guid>
+    </item>    <item>
+      <title>That Pornography Was for Personal Use</title>
+      <link>https://onefoottsunami.com/2025/11/14/that-pornography-was-for-personal-use/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29448</guid>
+    </item>    <item>
+      <title>Friday Squid Blogging: Pilot Whales Eat a Lot of Squid</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-pilot-whales-eat-a-lot-of-squid.html</link>
+      <description>
+        <![CDATA[<p>Short-finned pilot wales (<i>Globicephala macrorhynchus</i>) eat <a href="https://gizmodo.com/scientists-wanted-to-know-how-many-squid-pilot-whales-eat-each-day-what-they-found-was-astounding-2000685522">at lot</a> of squid:</p>
+        <blockquote><p>To figure out a short-finned pilot whale&#8217;s caloric intake, Gough says, the team had to combine data from a variety of sources, including movement data from short-lasting tags, daily feeding rates from satellite tags, body measurements collected via aerial drones, and sifting through the stomachs of unfortunate whales that ended up stranded on land.</p>
+        <p>Once the team pulled all this data together, they estimated that a typical whale will eat between 82 and 202 squid a day. To meet their energy needs, a whale will have to consume an average of 140 squid a day. Annually, that&#8217;s about 74,000 squid per whale. For all the whales in the area, that amounts to about 88,000 tons of squid eaten every year...</p></blockquote>]]>
+      </description>
+      <source:markdown>Short-finned pilot wales ( _Globicephala macrorhynchus_) eat [at lot](https://gizmodo.com/scientists-wanted-to-know-how-many-squid-pilot-whales-eat-each-day-what-they-found-was-astounding-2000685522) of squid:
+
+&#62; To figure out a short-finned pilot whale’s caloric intake, Gough says, the team had to combine data from a variety of sources, including movement data from short-lasting tags, daily feeding rates from satellite tags, body measurements collected via aerial drones, and sifting through the stomachs of unfortunate whales that ended up stranded on land.
+&#62;
+&#62; Once the team pulled all this data together, they estimated that a typical whale will eat between 82 and 202 squid a day. To meet their energy needs, a whale will have to consume an average of 140 squid a day. Annually, that’s about 74,000 squid per whale. For all the whales in the area, that amounts to about 88,000 tons of squid eaten every year...</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=71166</guid>
+    </item>    <item>
+      <link>https://www.theatlantic.com/newsletters/2025/11/michael-wolff-jeffrey-epstein-released-email-files/684937/?gift=f35zZN0v_gDFE8xNwlQAHReZ9Fiez1gV8t6pZJePtIY&#38;utm_source=copy-link&#38;utm_medium=social&#38;utm_campaign=share</link>
+      <description>
+        <![CDATA[<p>They love kicking Michael Wolff in the butt, probably because he's an independent, but they all do this.</p>]]>
+      </description>
+      <source:markdown>They love kicking Michael Wolff in the butt, probably because he&#39;s an independent, but they all do this.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/14/1907/</guid>
     </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115550314099461877</link>
       <description>
@@ -299,9 +449,9 @@ Last year, Canonical increased its paid extended support lifespan to 12 years. N
       <title>MyTerms are Your Terms</title>
       <link>https://doc.searls.com/2025/11/14/myterms-are-your-terms/</link>
       <description>
-        <![CDATA[That&#8217;s the case I&#8217;ll be making next Tuesday in a talk at Indiana University. The subject is big—maybe the biggest in your online life. Because it&#8217;s about the only way you&#8217;ll ever really get privacy online. And that way will support far more business than is possible in the privacy-hostile surveillance-based guesswork fecosystem we have [&#8230;]]]>
+        <![CDATA[That&#8217;s the case I&#8217;ll be making next Tuesday in a talk at Indiana University. The subject is big—maybe the biggest in your online life. That&#8217;s because MyTerms is the only way you&#8217;ll get binding commitments to respecting your privacy online. It will also support far more business than is possible in the privacy-hostile surveillance-based guesswork [&#8230;]]]>
       </description>
-      <source:markdown>That’s the case I’ll be making next Tuesday in a talk at Indiana University. The subject is big—maybe the biggest in your online life. Because it’s about the only way you’ll ever really get privacy online. And that way will support far more business than is possible in the privacy-hostile surveillance-based guesswork fecosystem we have \[…\]</source:markdown>
+      <source:markdown>That’s the case I’ll be making next Tuesday in a talk at Indiana University. The subject is big—maybe the biggest in your online life. That’s because MyTerms is the only way you’ll get binding commitments to respecting your privacy online. It will also support far more business than is possible in the privacy-hostile surveillance-based guesswork \[…\]</source:markdown>
       <guid>cid://https://doc.searls.com/?p=19729</guid>
     </item>    <item>
       <link>http://scripting.com/2025/11/14.html#a180809</link>
@@ -722,6 +872,14 @@ Kicking off #ffconf!</source:markdown>
       <source:markdown>This is what I learned in massage school in the 90s. To love how fear protects me, but to use my senses to compare reality to what my subconscious is scared of, and choose how I’ll respond, if I respond at all.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/11/14/1897/</guid>
     </item>    <item>
+      <title>Trump’s Ballroom Reno Derailed by Epstein</title>
+      <link>https://crooked.com/podcast/trumps-ballroom-reno-derailed-by-epstein/</link>
+      <description>
+        <![CDATA[<p>The post <a href="https://crooked.com/podcast/trumps-ballroom-reno-derailed-by-epstein/">Trump&#8217;s Ballroom Reno Derailed by Epstein</a> appeared first on <a href="https://crooked.com">Crooked Media</a>.</p>]]>
+      </description>
+      <source:markdown>The post [Trump’s Ballroom Reno Derailed by Epstein](https://crooked.com/podcast/trumps-ballroom-reno-derailed-by-epstein/) appeared first on [Crooked Media](https://crooked.com).</source:markdown>
+      <guid>cid://https://crooked.com/?post_type=pod_cast&#38;p=39304</guid>
+    </item>    <item>
       <title>November 13, 2025</title>
       <link>https://heathercoxrichardson.substack.com/p/november-13-2025</link>
       <description>
@@ -788,6 +946,18 @@ https://developer.mozilla.org/en-US/docs/Web/URI/Reference/Fragment/Text\_fragme
       </description>
       <source:markdown>Is Elon Musk delusional or lying about Tesla &#39;Full Self-Driving&#39;?</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/11/13/1893/</guid>
+    </item>    <item>
+      <title>I know you don’t want them to want AI, but…</title>
+      <link>https://anildash.com/2025/11/14/wanting-not-to-want-ai/</link>
+      <guid>cid://https://anildash.com/2025/11/14/wanting-not-to-want-ai/</guid>
+    </item>    <item>
+      <title>Go’s Sweet 16</title>
+      <link>https://go.dev/blog/16years</link>
+      <description>
+        <![CDATA[Happy Birthday, Go!]]>
+      </description>
+      <source:markdown>Happy Birthday, Go!</source:markdown>
+      <guid>cid://tag:blog.golang.org,2013:blog.golang.org/16years</guid>
     </item>    <item>
       <title>Introducing GPT-5.1 for developers</title>
       <link>https://simonwillison.net/2025/Nov/13/gpt-51/#atom-everything</link>
@@ -1764,15 +1934,15 @@ To him this is the height of luxury and power. To me it’s an embarrassment. An
       <title>Book Review: The Business of Secrets</title>
       <link>https://www.schneier.com/blog/archives/2025/11/book-review-the-business-of-secrets.html</link>
       <description>
-        <![CDATA[<p><strong><i>The Business of Secrets: Adventures in Selling Encryption Around the World</i> by Fred Kinch (May 24, 2024)</strong></p>
+        <![CDATA[<p><strong><cite>The Business of Secrets: Adventures in Selling Encryption Around the World</cite> by Fred Kinch (May 24, 2024)</strong></p>
         <p>From the vantage point of today, it&#8217;s surreal reading about the commercial cryptography business in the 1970s. Nobody knew anything. The manufacturers didn&#8217;t know whether the cryptography they sold was any good. The customers didn&#8217;t know whether the crypto they bought was any good. Everyone pretended to know, thought they knew, or knew better than to even try to know.</p>
-        <p><em>The Business of Secrets</em> is the self-published memoirs of Fred Kinch. He was founder and vice president of&#8212;mostly sales&#8212;at a US cryptographic hardware company called Datotek, from company&#8217;s founding in 1969 until 1982. It&#8217;s mostly a disjointed collection of stories about the difficulties of selling to governments worldwide, along with descriptions of the highs and (mostly) lows of foreign airlines, foreign hotels, and foreign travel in general. But it&#8217;s also about encryption...</p>]]>
+        <p><cite>The Business of Secrets</cite> is the self-published memoirs of Fred Kinch. He was founder and vice president of&#8212;mostly sales&#8212;at a US cryptographic hardware company called Datotek, from company&#8217;s founding in 1969 until 1982. It&#8217;s mostly a disjointed collection of stories about the difficulties of selling to governments worldwide, along with descriptions of the highs and (mostly) lows of foreign airlines, foreign hotels, and foreign travel in general. But it&#8217;s also about encryption...</p>]]>
       </description>
-      <source:markdown>**_The Business of Secrets: Adventures in Selling Encryption Around the World_ by Fred Kinch (May 24, 2024)**
+      <source:markdown>**The Business of Secrets: Adventures in Selling Encryption Around the World by Fred Kinch (May 24, 2024)**
 
 From the vantage point of today, it’s surreal reading about the commercial cryptography business in the 1970s. Nobody knew anything. The manufacturers didn’t know whether the cryptography they sold was any good. The customers didn’t know whether the crypto they bought was any good. Everyone pretended to know, thought they knew, or knew better than to even try to know.
 
-_The Business of Secrets_ is the self-published memoirs of Fred Kinch. He was founder and vice president of—mostly sales—at a US cryptographic hardware company called Datotek, from company’s founding in 1969 until 1982. It’s mostly a disjointed collection of stories about the difficulties of selling to governments worldwide, along with descriptions of the highs and (mostly) lows of foreign airlines, foreign hotels, and foreign travel in general. But it’s also about encryption...</source:markdown>
+The Business of Secrets is the self-published memoirs of Fred Kinch. He was founder and vice president of—mostly sales—at a US cryptographic hardware company called Datotek, from company’s founding in 1969 until 1982. It’s mostly a disjointed collection of stories about the difficulties of selling to governments worldwide, along with descriptions of the highs and (mostly) lows of foreign airlines, foreign hotels, and foreign travel in general. But it’s also about encryption...</source:markdown>
       <guid>cid://https://www.schneier.com/?p=71134</guid>
     </item>    <item>
       <title>The Republican Brain Doesn’t Want To Understand Health Care</title>
@@ -2939,6 +3109,14 @@ But still, I far prefer getting a needle prick a year to days of misery. I feel 
 The post [Journey to Raspberry Pi — from CoderDojo volunteer to software engineer](https://www.raspberrypi.com/news/journey-to-raspberry-pi-from-coderdojo-volunteer-to-software-engineer/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
       <guid>cid://https://www.raspberrypi.com/?p=131337</guid>
     </item>    <item>
+      <title>Can Democrats Lose the Downer Image? + Chris Murphy in Conversation (Crooked Con)</title>
+      <link>https://crooked.com/podcast/hasan-piker-democrats-crooked-con-jon-lovett-jessica-tarlov-tim-miller/</link>
+      <description>
+        <![CDATA[<p>The post <a href="https://crooked.com/podcast/hasan-piker-democrats-crooked-con-jon-lovett-jessica-tarlov-tim-miller/">Can Democrats Lose the Downer Image? + Chris Murphy in Conversation (Crooked Con)</a> appeared first on <a href="https://crooked.com">Crooked Media</a>.</p>]]>
+      </description>
+      <source:markdown>The post [Can Democrats Lose the Downer Image? + Chris Murphy in Conversation (Crooked Con)](https://crooked.com/podcast/hasan-piker-democrats-crooked-con-jon-lovett-jessica-tarlov-tim-miller/) appeared first on [Crooked Media](https://crooked.com).</source:markdown>
+      <guid>cid://https://crooked.com/?post_type=pod_cast&#38;p=39269</guid>
+    </item>    <item>
       <title>November 11, 2025</title>
       <link>https://heathercoxrichardson.substack.com/p/november-11-2025</link>
       <description>
@@ -3683,6 +3861,14 @@ This is a good night.
       </description>
       <source:markdown>Rebranding a podcast involves much more than updating a logo or picking a new name. It is a transformative process that requires thoughtful planning, flexibility, and perseverance. One of the most revealing parts of the journey is the way it encourages you to reevaluate how each piece fits together, from your website structure to your \[…\]</source:markdown>
       <guid>cid://https://openchannels.fm/?p=111842</guid>
+    </item>    <item>
+      <title>Shutdown for What? (Schumer’s Version)</title>
+      <link>https://crooked.com/podcast/shutdown-democrats-trump-schumer/</link>
+      <description>
+        <![CDATA[<p>The post <a href="https://crooked.com/podcast/shutdown-democrats-trump-schumer/">Shutdown for What? (Schumer&#8217;s Version)</a> appeared first on <a href="https://crooked.com">Crooked Media</a>.</p>]]>
+      </description>
+      <source:markdown>The post [Shutdown for What? (Schumer’s Version)](https://crooked.com/podcast/shutdown-democrats-trump-schumer/) appeared first on [Crooked Media](https://crooked.com).</source:markdown>
+      <guid>cid://https://crooked.com/?post_type=pod_cast&#38;p=39256</guid>
     </item>    <item>
       <title>Republicans Are Damaged by Their Own Cruelty</title>
       <link>https://paulkrugman.substack.com/p/republicans-are-damaged-by-their</link>
@@ -4893,6 +5079,14 @@ We distrust China because they’re authoritarians. We distrust Russia because t
       <source:markdown>Friends,</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!LdtV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b03279b-49f6-4463-a930-245802b16dcf_1456x1649.webp" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/sunday-thought-a-beginning</guid>
+    </item>    <item>
+      <title>How Do We Push Back on Authoritarianism? (Crooked Con)</title>
+      <link>https://crooked.com/podcast/how-do-we-push-back-on-authoritarianism-crooked-con/</link>
+      <description>
+        <![CDATA[<p>The post <a href="https://crooked.com/podcast/how-do-we-push-back-on-authoritarianism-crooked-con/">How Do We Push Back on Authoritarianism? (Crooked Con)</a> appeared first on <a href="https://crooked.com">Crooked Media</a>.</p>]]>
+      </description>
+      <source:markdown>The post [How Do We Push Back on Authoritarianism? (Crooked Con)](https://crooked.com/podcast/how-do-we-push-back-on-authoritarianism-crooked-con/) appeared first on [Crooked Media](https://crooked.com).</source:markdown>
+      <guid>cid://https://crooked.com/?post_type=pod_cast&#38;p=39226</guid>
     </item>    <item>
       <title>The Two Materialisms: Why I’m a Liberal</title>
       <link>https://www.notesfromthecircus.com/p/the-two-materialisms-why-im-a-liberal</link>
@@ -7203,6 +7397,14 @@ Thursday session</source:markdown>
 The post [Raspberry Pi power meets industrial smarts: SECO Pi Vision 10.1 CM5](https://www.raspberrypi.com/news/raspberry-pi-power-meets-industrial-smarts-seco-pi-vision-10-1-cm5/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
       <guid>cid://https://www.raspberrypi.com/?p=131384</guid>
     </item>    <item>
+      <title>Live from Occupied D.C. with Barack Obama</title>
+      <link>https://crooked.com/podcast/live-from-occupied-d-c-with-barack-obama/</link>
+      <description>
+        <![CDATA[<p>The post <a href="https://crooked.com/podcast/live-from-occupied-d-c-with-barack-obama/">Live from Occupied D.C. with Barack Obama</a> appeared first on <a href="https://crooked.com">Crooked Media</a>.</p>]]>
+      </description>
+      <source:markdown>The post [Live from Occupied D.C. with Barack Obama](https://crooked.com/podcast/live-from-occupied-d-c-with-barack-obama/) appeared first on [Crooked Media](https://crooked.com).</source:markdown>
+      <guid>cid://https://crooked.com/?post_type=pod_cast&#38;p=39209</guid>
+    </item>    <item>
       <title>Emma Donoghue on Populating Historical Fiction</title>
       <link>https://lithub.com/emma-donoghue-on-populating-historical-fiction/</link>
       <description>
@@ -9436,6 +9638,14 @@ Check out all of the Future Knowledge episodes at [https://archive.org/details/f
       <enclosure url="https://media.transistor.fm/ce6b83bd/26fad080.mp3" length="44524869" type="audio/mpeg" />
       <guid>cid://34e4c269-cfd7-46af-931d-2696a4129d4f</guid>
     </item>    <item>
+      <title>Revenge of the Libs</title>
+      <link>https://crooked.com/podcast/revenge-of-the-libs/</link>
+      <description>
+        <![CDATA[<p>The post <a href="https://crooked.com/podcast/revenge-of-the-libs/">Revenge of the Libs</a> appeared first on <a href="https://crooked.com">Crooked Media</a>.</p>]]>
+      </description>
+      <source:markdown>The post [Revenge of the Libs](https://crooked.com/podcast/revenge-of-the-libs/) appeared first on [Crooked Media](https://crooked.com).</source:markdown>
+      <guid>cid://https://crooked.com/?post_type=pod_cast&#38;p=39182</guid>
+    </item>    <item>
       <link>https://heathercoxrichardson.substack.com/p/november-4-2025-tuesday?utm_source=post-email-title&#38;publication_id=20533&#38;post_id=178057915&#38;utm_campaign=email-post-title&#38;isFreemail=true&#38;r=w33x&#38;triedRedirect=true&#38;utm_medium=email</link>
       <description>
         <![CDATA[<p>Heather Cox Richardson: “Today voters resoundingly rejected Trump and Trumpism, and tomorrow, politics will be a whole different game.”</p>]]>
@@ -10631,6 +10841,14 @@ I feel like this kind of thing is happening everywhere, with everything. As we m
       <source:markdown>Friends,</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!d6bW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec8895d6-4537-494d-9476-de263bfea17a_3344x2264.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/office-hours-what-will-america-learn</guid>
+    </item>    <item>
+      <title>Don’t Poo — Vote!</title>
+      <link>https://crooked.com/podcast/trump-60-minutes-elections-obama/</link>
+      <description>
+        <![CDATA[<p>The post <a href="https://crooked.com/podcast/trump-60-minutes-elections-obama/">Don&#8217;t Poo — Vote!</a> appeared first on <a href="https://crooked.com">Crooked Media</a>.</p>]]>
+      </description>
+      <source:markdown>The post [Don’t Poo — Vote!](https://crooked.com/podcast/trump-60-minutes-elections-obama/) appeared first on [Crooked Media](https://crooked.com).</source:markdown>
+      <guid>cid://https://crooked.com/?post_type=pod_cast&#38;p=39162</guid>
     </item>    <item>
       <title>Deforestation in the Brazilian Amazon has fallen again in 2025</title>
       <link>https://www.sustainabilitybynumbers.com/p/amazon-deforestation-2025</link>
@@ -12262,6 +12480,14 @@ Mikie will work to create jobs, lower costs, and do what’s right for the peopl
       <source:markdown>Friends,</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!FCJt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6503736-ca64-4819-89bd-0fb1056e68b9_3247x2531.png" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/sunday-thought-coping-with-trumps</guid>
+    </item>    <item>
+      <title>Debating the Trump Era with Abby Phillip</title>
+      <link>https://crooked.com/podcast/debating-the-trump-era-with-abby-phillip/</link>
+      <description>
+        <![CDATA[<p>The post <a href="https://crooked.com/podcast/debating-the-trump-era-with-abby-phillip/">Debating the Trump Era with Abby Phillip</a> appeared first on <a href="https://crooked.com">Crooked Media</a>.</p>]]>
+      </description>
+      <source:markdown>The post [Debating the Trump Era with Abby Phillip](https://crooked.com/podcast/debating-the-trump-era-with-abby-phillip/) appeared first on [Crooked Media](https://crooked.com).</source:markdown>
+      <guid>cid://https://crooked.com/?post_type=pod_cast&#38;p=39140</guid>
     </item>    <item>
       <title>Summary of changes for October 2025</title>
       <link>https://100r.ca/site/log.html#oct2025</link>
@@ -14162,6 +14388,14 @@ More than one Linux-adjacent vendor presented at the Ubuntu Summit, and a small 
       <source:markdown>Friends,</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!nlaJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8abe2667-5e87-416a-b055-2bf2c94c24dd_768x384.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/office-hours-will-rising-prices-sink</guid>
+    </item>    <item>
+      <title>Noem Won’t Rule Out Tear-Gassing Trick-or-Treaters</title>
+      <link>https://crooked.com/podcast/trump-nuclear-weapons-zohran-mamdani-noem-halloween-ice-raids/</link>
+      <description>
+        <![CDATA[<p>The post <a href="https://crooked.com/podcast/trump-nuclear-weapons-zohran-mamdani-noem-halloween-ice-raids/">Noem Won&#8217;t Rule Out Tear-Gassing Trick-or-Treaters</a> appeared first on <a href="https://crooked.com">Crooked Media</a>.</p>]]>
+      </description>
+      <source:markdown>The post [Noem Won’t Rule Out Tear-Gassing Trick-or-Treaters](https://crooked.com/podcast/trump-nuclear-weapons-zohran-mamdani-noem-halloween-ice-raids/) appeared first on [Crooked Media](https://crooked.com).</source:markdown>
+      <guid>cid://https://crooked.com/?post_type=pod_cast&#38;p=39128</guid>
     </item>    <item>
       <title>October 30, 2025</title>
       <link>https://heathercoxrichardson.substack.com/p/october-30-2025</link>
@@ -16975,6 +17209,14 @@ I have no idea why [their top level domain is for the British Indian Ocean Terri
       <source:markdown>Is he a net positive for humanity or a net negative?</source:markdown>
       <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/ef5af404-a8d1-457a-8c2d-2114283c94b0_3268x2434.png" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/what-really-elon-demands-a-1-trillion</guid>
+    </item>    <item>
+      <title>Trump’s Secret Plan for a 3rd Term</title>
+      <link>https://crooked.com/podcast/trumps-secret-plan-for-a-3rd-term/</link>
+      <description>
+        <![CDATA[<p>The post <a href="https://crooked.com/podcast/trumps-secret-plan-for-a-3rd-term/">Trump&#8217;s Secret Plan for a 3rd Term</a> appeared first on <a href="https://crooked.com">Crooked Media</a>.</p>]]>
+      </description>
+      <source:markdown>The post [Trump’s Secret Plan for a 3rd Term](https://crooked.com/podcast/trumps-secret-plan-for-a-3rd-term/) appeared first on [Crooked Media](https://crooked.com).</source:markdown>
+      <guid>cid://https://crooked.com/?post_type=pod_cast&#38;p=39058</guid>
     </item>    <item>
       <title>&#60;default:div xmlns=&#34;http://www.w3.org/1999/xhtml&#34; class=&#34;if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14&#34;/&#62;</title>
       <link>https://tantek.com/2025/300/t20/wikipedia-editing-anniversary</link>
@@ -19919,667 +20161,6 @@ Tags: [svg](https://simonwillison.net/tags/svg), [ai](https://simonwillison.net/
       <title>A small code review prompt hack</title>
       <link>https://blog.fsck.com/2025/10/25/code-review-prompt-hack/</link>
       <guid>cid://https://blog.fsck.com/2025/10/25/code-review-prompt-hack/</guid>
-    </item>    <item>
-      <title>claude_code_docs_map.md</title>
-      <link>https://simonwillison.net/2025/Oct/24/claude-code-docs-map/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://docs.claude.com/en/docs/claude-code/claude_code_docs_map.md">claude_code_docs_map.md</a></strong></p>
-        Something I'm enjoying about Claude Code is that any time you ask it questions about <em>itself</em> it runs tool calls like these:</p>
-        <p><img alt="I'll check the Claude Code documentation about bash hooks to see if there's something about the   configuration that might explain why it didn't trigger. Fetch(https://docs.claude.com/en/docs/claude-code/claude_code_docs_map.md)   ⎿  Received 25.9KB (200 OK) Fetch(https://docs.claude.com/en/docs/claude-code/hooks-guide.md)   ⎿  Received 9.4KB (200 OK) Fetch(https://docs.claude.com/en/docs/claude-code/hooks)   ⎿  Received 2.2MB (200 OK) Ah, I see the issue! The bashHook in your settings.json is checking the $PROMPT variable, but   according to the documentation, bash hooks should:    1. Use PreToolUse hooks (not a simple bash script)   2. Parse JSON input from stdin   3. Access the command via tool_input.command in the JSON " src="https://static.simonwillison.net/static/2025/claude-code-self-documentation.jpg" /></p>
-        <p>In this case I'd asked it about its "hooks" feature.</p>
-        <p>The <a href="https://docs.claude.com/en/docs/claude-code/claude_code_docs_map.md">claude_code_docs_map.md</a> file is a neat Markdown index of all of their other documentation - the same pattern advocated by <a href="https://llmstxt.org/">llms.txt</a>. Claude Code can then fetch further documentation to help it answer your question.</p>
-        <p>I intercepted the current Claude Code system prompt <a href="https://simonwillison.net/2025/Jun/2/claude-trace/">using this trick</a> and sure enough it included a note about this URL:</p>
-        <blockquote>
-        <p><code>When the user directly asks about Claude Code (eg. "can Claude Code do...", "does Claude Code have..."), or asks in second person (eg. "are you able...", "can you do..."), or asks how to use a specific Claude Code feature (eg. implement a hook, or write a slash command), use the WebFetch tool to gather information to answer the question from Claude Code docs. The list of available docs is available at https://docs.claude.com/en/docs/claude-code/claude_code_docs_map.md.</code></p>
-        </blockquote>
-        <p>I wish other LLM products - including both ChatGPT and Claude.ai themselves - would implement a similar pattern. It's infuriating how bad LLM tools are at answering questions about themselves, though unsurprising given that their model's training data pre-dates the latest version of those tools.
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/markdown">markdown</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/system-prompts">system-prompts</a></p>]]>
-      </description>
-      <source:markdown>**[claude\_code\_docs\_map.md](https://docs.claude.com/en/docs/claude-code/claude_code_docs_map.md)**
-
-Something I&#39;m enjoying about Claude Code is that any time you ask it questions about _itself_ it runs tool calls like these:
-
-![I&#39;ll check the Claude Code documentation about bash hooks to see if there&#39;s something about the   configuration that might explain why it didn&#39;t trigger. Fetch(https://docs.claude.com/en/docs/claude-code/claude_code_docs_map.md)   ⎿  Received 25.9KB (200 OK) Fetch(https://docs.claude.com/en/docs/claude-code/hooks-guide.md)   ⎿  Received 9.4KB (200 OK) Fetch(https://docs.claude.com/en/docs/claude-code/hooks)   ⎿  Received 2.2MB (200 OK) Ah, I see the issue! The bashHook in your settings.json is checking the $PROMPT variable, but   according to the documentation, bash hooks should:    1. Use PreToolUse hooks (not a simple bash script)   2. Parse JSON input from stdin   3. Access the command via tool_input.command in the JSON ](https://static.simonwillison.net/static/2025/claude-code-self-documentation.jpg)
-
-In this case I&#39;d asked it about its &#34;hooks&#34; feature.
-
-The [claude\_code\_docs\_map.md](https://docs.claude.com/en/docs/claude-code/claude_code_docs_map.md) file is a neat Markdown index of all of their other documentation - the same pattern advocated by [llms.txt](https://llmstxt.org/). Claude Code can then fetch further documentation to help it answer your question.
-
-I intercepted the current Claude Code system prompt [using this trick](https://simonwillison.net/2025/Jun/2/claude-trace/) and sure enough it included a note about this URL:
-
-&#62; `When the user directly asks about Claude Code (eg. &#34;can Claude Code do...&#34;, &#34;does Claude Code have...&#34;), or asks in second person (eg. &#34;are you able...&#34;, &#34;can you do...&#34;), or asks how to use a specific Claude Code feature (eg. implement a hook, or write a slash command), use the WebFetch tool to gather information to answer the question from Claude Code docs. The list of available docs is available at https://docs.claude.com/en/docs/claude-code/claude_code_docs_map.md.`
-
-I wish other LLM products - including both ChatGPT and Claude.ai themselves - would implement a similar pattern. It&#39;s infuriating how bad LLM tools are at answering questions about themselves, though unsurprising given that their model&#39;s training data pre-dates the latest version of those tools.
-
-
-
-Tags: [markdown](https://simonwillison.net/tags/markdown), [ai](https://simonwillison.net/tags/ai), [prompt-engineering](https://simonwillison.net/tags/prompt-engineering), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [anthropic](https://simonwillison.net/tags/anthropic), [claude-code](https://simonwillison.net/tags/claude-code), [system-prompts](https://simonwillison.net/tags/system-prompts)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/24/claude-code-docs-map/#atom-everything</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/10/24.html#a230130</link>
-      <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2025/10/08/reallySimpleBooks.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Great to see <a href="https://blog.lmorchard.com/2025/10/23/think-different-about-data/">Les Orchard</a> reading my site again. We did some <a href="https://daytona.scripting.com/search?q=%22Les%20Orchard%22">great stuff</a> together a long time ago in Frontier. He converted code from Perl (I think) to Frontier so I could use S3 for storage for users. I still use his code to this day. He's been writing of his memories of great feed reading tools of 20+ years ago, and I keep trying to tell my friend Les that the system we have now makes those products look primitive, as it should because so many years have passed. In 2022, I decided to give RSS another try. First I did a <a href="http://reallysimple.org/">top to bottom review</a> of RSS, and then I built <a href="https://feedland.org/">FeedLand</a>. If you loved feeds and mourn the day the music died, I have good news, it didn't die, you all just stopped believing it could happen.]]>
-      </description>
-      <source:markdown>![](https://imgs.scripting.com/2025/10/08/reallySimpleBooks.png)Great to see [Les Orchard](https://blog.lmorchard.com/2025/10/23/think-different-about-data/) reading my site again. We did some [great stuff](https://daytona.scripting.com/search?q=%22Les%20Orchard%22) together a long time ago in Frontier. He converted code from Perl (I think) to Frontier so I could use S3 for storage for users. I still use his code to this day. He&#39;s been writing of his memories of great feed reading tools of 20+ years ago, and I keep trying to tell my friend Les that the system we have now makes those products look primitive, as it should because so many years have passed. In 2022, I decided to give RSS another try. First I did a [top to bottom review](http://reallysimple.org/) of RSS, and then I built [FeedLand](https://feedland.org/). If you loved feeds and mourn the day the music died, I have good news, it didn&#39;t die, you all just stopped believing it could happen.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/24.html#a230130</guid>
-    </item>    <item>
-      <title>FeedLand and WordPress</title>
-      <link>http://scripting.com/2025/10/24/224033.html?title=feedlandAndWordpress</link>
-      <description>
-        <![CDATA[<p>We've had a performance issue in FeedLand that we finally think we have tracked down. I'm working slowly and carefully on a new version with the new thinking. If it works, I'll tell you more about what worked and how it affects the software, obviously for the better. </p>
-        <p>What's notable about this fix is that it came about when I was talking with people who work on the open source WordPress project at the WordCamp last week in Ottawa. One of them took an interest and puzzled it out and came up with a theory. When we tested the theory on the real data, it made a big difference. If it works in the deployed version as well as it did in the test, FeedLand will be better for this. </p>
-        <p>Related, I've been asked if we'll share the subscription list for the WordPress News site, so this gives me a chance to show that any FeedLand-managed site, by default has a white-on-orange <a href="https://imgs.scripting.com/2025/10/24/wordpressNewsScreen.png">XML icon</a>. When you click on it, you'll see the <a href="https://feedland.social/opml?screenname=davewiner&catname=wordpress">OPML list</a> for the page you were looking at. The list is dynamic, so it changes whenever the set of feeds changes. This has become a huge part of the systems we've built with FeedLand, that's why you see apps that are deployed on one server using data from a different one. The federation protocol for FeedLand is a simple and well-established standard for sharing lists of feeds, OPML over HTTP. Kind of like RSS was when we were just getting started with feeds, it's how you plug systems together. Esp if you can take advantage of the fact they're all dynamic. Also that they work really well with categories. Lots to say about FeedLand. Glad we're turning this corner now. </p>
-        <p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/10/24/wordpressNewsScreen.png"></center>Snapshot of <a href="https://wp.feedland.org/">WordPress News</a> site.</div></p>]]>
-      </description>
-      <source:markdown>We&#39;ve had a performance issue in FeedLand that we finally think we have tracked down. I&#39;m working slowly and carefully on a new version with the new thinking. If it works, I&#39;ll tell you more about what worked and how it affects the software, obviously for the better.
-
-What&#39;s notable about this fix is that it came about when I was talking with people who work on the open source WordPress project at the WordCamp last week in Ottawa. One of them took an interest and puzzled it out and came up with a theory. When we tested the theory on the real data, it made a big difference. If it works in the deployed version as well as it did in the test, FeedLand will be better for this.
-
-Related, I&#39;ve been asked if we&#39;ll share the subscription list for the WordPress News site, so this gives me a chance to show that any FeedLand-managed site, by default has a white-on-orange [XML icon](https://imgs.scripting.com/2025/10/24/wordpressNewsScreen.png). When you click on it, you&#39;ll see the [OPML list](https://feedland.social/opml?screenname=davewiner&#38;catname=wordpress) for the page you were looking at. The list is dynamic, so it changes whenever the set of feeds changes. This has become a huge part of the systems we&#39;ve built with FeedLand, that&#39;s why you see apps that are deployed on one server using data from a different one. The federation protocol for FeedLand is a simple and well-established standard for sharing lists of feeds, OPML over HTTP. Kind of like RSS was when we were just getting started with feeds, it&#39;s how you plug systems together. Esp if you can take advantage of the fact they&#39;re all dynamic. Also that they work really well with categories. Lots to say about FeedLand. Glad we&#39;re turning this corner now.
-
-![](https://imgs.scripting.com/2025/10/24/wordpressNewsScreen.png)Snapshot of [WordPress News](https://wp.feedland.org/) site.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/24/224033.html</guid>
-    </item>    <item>
-      <title>Meta Announces Ban on Rival AI Chatbots From WhatsApp</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/meta-will-ban-rival-ai-chatbots-from-whatsapp</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42310</guid>
-    </item>    <item>
-      <link>https://apnews.com/article/canada-trump-tariffs-reagan-tariffs-e0e6a8f1fa49f00c9e8d08df405ee299</link>
-      <description>
-        <![CDATA[<p>Ontario premier says he'll pull ad that upset Trump.</p>]]>
-      </description>
-      <source:markdown>Ontario premier says he&#39;ll pull ad that upset Trump.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/24/1653/</guid>
-    </item>    <item>
-      <title>Friday Squid Blogging: “El Pulpo The Squid”</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-el-pulpo-the-squid.html</link>
-      <description>
-        <![CDATA[<p>There is a <a href="https://halfwheel.com/el-pulpo-the-squid/455265/">new cigar</a> named &#8220;<i>El Pulpo</i> The Squid.&#8221; Yes, that means &#8220;The Octopus The Squid.&#8221;</p>
-        <p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>
-        <p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>]]>
-      </description>
-      <source:markdown>There is a [new cigar](https://halfwheel.com/el-pulpo-the-squid/455265/) named “ _El Pulpo_ The Squid.” Yes, that means “The Octopus The Squid.”
-
-As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.
-
-[Blog moderation policy.](https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html)</source:markdown>
-      <guid>cid://https://www.schneier.com/?p=71067</guid>
-    </item>    <item>
-      <title>A Gatecrashing Bear</title>
-      <link>https://onefoottsunami.com/2025/10/24/a-gatecrashing-bear/</link>
-      <guid>cid://https://onefoottsunami.com/?p=29334</guid>
-    </item>    <item>
-      <link>https://gizmodo.com/white-house-blocked-on-bluesky-2000674092</link>
-      <description>
-        <![CDATA[<p>White House Invades Bluesky to Troll, Predictably Gets Mass Blocked.</p>]]>
-      </description>
-      <source:markdown>White House Invades Bluesky to Troll, Predictably Gets Mass Blocked.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/24/1651/</guid>
-    </item>    <item>
-      <title>Trump’s illegal executions</title>
-      <link>https://robertreich.substack.com/p/trumps-illegal-executions</link>
-      <description>
-        <![CDATA[You or I could be next]]>
-      </description>
-      <source:markdown>You or I could be next</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!qyFU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6088a14a-4811-4ed6-90b1-1f2f5ec8bc9e_3432x3499.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/trumps-illegal-executions</guid>
-    </item>    <item>
-      <title>AI Dataset for Detecting Nudity Contained Child Sexual Abuse Images</title>
-      <link>https://www.404media.co/ai-dataset-for-detecting-nudity-contained-child-sexual-abuse-images/</link>
-      <description>
-        <![CDATA[The Canadian Centre for Child Protection  found more than 120 images of identified or known victims of CSAM in the dataset.]]>
-      </description>
-      <source:markdown>The Canadian Centre for Child Protection found more than 120 images of identified or known victims of CSAM in the dataset.</source:markdown>
-      <guid>cid://68fbdc9adbf2dc000117ff70</guid>
-    </item>    <item>
-      <title>This week’s news in Venn diagrams.</title>
-      <link>https://lithub.com/this-weeks-news-in-venn-diagrams-oct-24/</link>
-      <description>
-        <![CDATA[One week before Halloween folks, so it&#8217;s getting to be crunch time for sorting out your costume. I tend to default to wearing a ye-olden-tymes powdered wig and my old rocker vest and going as &#8220;Old School Punk,&#8221; but I&#8217;ve]]>
-      </description>
-      <source:markdown>One week before Halloween folks, so it’s getting to be crunch time for sorting out your costume. I tend to default to wearing a ye-olden-tymes powdered wig and my old rocker vest and going as “Old School Punk,” but I’ve</source:markdown>
-      <guid>cid://https://lithub.com/?p=261728</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m3xlg7dve22v</link>
-      <description>
-        <![CDATA[That's a cool looking RISC OS box.
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <source:markdown>That&#39;s a cool looking RISC OS box.
-
-\[contains quote post or other embedded content\]</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m3xlg7dve22v</guid>
-    </item>    <item>
-      <title>Sky Acquired by OpenAI</title>
-      <link>https://mjtsai.com/blog/2025/10/24/sky-acquired-by-openai/</link>
-      <description>
-        <![CDATA[OpenAI (Hacker News): We will bring Sky&#8217;s deep macOS integration and product craft into ChatGPT, and all members of the team will join OpenAI. John Voorhees: I&#8217;m not surprised by this development at all. OpenAI, Anthropic, and Perplexity have all been developing features similar to what Sky could do for a while now. In addition, [&#8230;]]]>
-      </description>
-      <source:markdown>OpenAI (Hacker News): We will bring Sky’s deep macOS integration and product craft into ChatGPT, and all members of the team will join OpenAI. John Voorhees: I’m not surprised by this development at all. OpenAI, Anthropic, and Perplexity have all been developing features similar to what Sky could do for a while now. In addition, \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49775</guid>
-    </item>    <item>
-      <title>Europe vs. App Tracking Transparency</title>
-      <link>https://mjtsai.com/blog/2025/10/24/europe-vs-app-tracking-transparency/</link>
-      <description>
-        <![CDATA[Marcus Mendes: In its statement issued earlier this week to the German Press Agency, Apple said the following:&#8220;Intense lobbying efforts in Germany, Italy and other countries in Europe may force us to withdraw this feature to the detriment of European consumers. (&#8230;) We will continue to urge the relevant authorities in Germany, Italy and across [&#8230;]]]>
-      </description>
-      <source:markdown>Marcus Mendes: In its statement issued earlier this week to the German Press Agency, Apple said the following:“Intense lobbying efforts in Germany, Italy and other countries in Europe may force us to withdraw this feature to the detriment of European consumers. (…) We will continue to urge the relevant authorities in Germany, Italy and across \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49773</guid>
-    </item>    <item>
-      <title>What Happened to Apple’s Legendary Attention to Detail?</title>
-      <link>https://mjtsai.com/blog/2025/10/24/what-happened-to-apples-legendary-attention-to-detail/</link>
-      <description>
-        <![CDATA[John Ozbay (Hacker News): In my mind, &#8220;Apple&#8221; as a brand used to be synonymous with &#8220;attention to detail&#8221; but sadly, over the course of the last 8 - 10 years, their choices have become anything but detail oriented.[&#8230;]If you are privacy conscious like me, and don&#8217;t give the Reminders app permission to access your [&#8230;]]]>
-      </description>
-      <source:markdown>John Ozbay (Hacker News): In my mind, “Apple” as a brand used to be synonymous with “attention to detail” but sadly, over the course of the last 8 - 10 years, their choices have become anything but detail oriented.\[…\]If you are privacy conscious like me, and don’t give the Reminders app permission to access your \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49771</guid>
-    </item>    <item>
-      <title>Excel for iOS Borked</title>
-      <link>https://mjtsai.com/blog/2025/10/24/excel-for-ios-borked/</link>
-      <description>
-        <![CDATA[Thomas Claburn: Microsoft Excel for the past week has been hanging or crashing on iOS and iPadOS devices, to customers&#8217; great annoyance.The problems appear to have begun following the release of Excel version 2.102.1 for iOS and iPadOS on October 13, 2025. The release added support for Apple&#8217;s Liquid Glass design, which debuted with the [&#8230;]]]>
-      </description>
-      <source:markdown>Thomas Claburn: Microsoft Excel for the past week has been hanging or crashing on iOS and iPadOS devices, to customers’ great annoyance.The problems appear to have begun following the release of Excel version 2.102.1 for iOS and iPadOS on October 13, 2025. The release added support for Apple’s Liquid Glass design, which debuted with the \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49769</guid>
-    </item>    <item>
-      <title>Everything Is Broken</title>
-      <link>https://blog.jim-nielsen.com/2025/everything-is-broken/</link>
-      <description>
-        <![CDATA[<p><a href="https://chriscoyier.net/2025/10/22/everything-is-broken/" >Chris Coyier wrote about it</a>.</p>
-        <p>Now it’s my turn.</p>
-        <p>Last week I’m flying home.</p>
-        <p>My flight gets delayed in air, then lands late so I miss my connecting flight…</p>
-        <p>[Skip over all the stuff about airline customer support, getting rebooked, etc.]</p>
-        <p>It’s ~10pm and I’m stranded overnight. I need a last-minute hotel room.</p>
-        <p>I figure I’ll try HotelTonight because that’s their shtick, right? “Incredible last-minute hotel deals” says their homepage hero banner.</p>
-        <p>I find the closest hotel, click “Purchase” it takes me to checkout, I do the whole Apple Pay thing, then it says “failed to book” because there are no more rooms left.</p>
-        <p>Ok? Would’ve been nice to know that <em>before</em> going through all the checkout stuff, but ok. I’ll find another.</p>
-        <p>Two more hotels, same deal. Click through, checkout, blah blah blah, payment won’t go through. It says there are no more rooms left.</p>
-        <p>No I’m getting frustrated. I’ll try one more time…</p>
-        <p>Same flow. Finally! Payment goes through. Confirmation number and all — I’m good to go!</p>
-        <p>I leave the airport and get a rideshare to the hotel.</p>
-        <p>Go up to the desk. “Yes, I’m checking in please.” They ask for my name. I give it.</p>
-        <p>They can’t find me.</p>
-        <p>“Oh, no…” I think.</p>
-        <p>“Do you have a reservation number?”</p>
-        <p>Hell yes I do! Right here in the email HotelTonight sent me.</p>
-        <p>I give it to them.</p>
-        <p>It’s not in their system.</p>
-        <p>“Ok well, can you get me a room?”</p>
-        <p>Nope, they are completely full for the night.</p>
-        <p>Knowing that I booked through a third-party system, and it’s not in the first-party system, I know there’s no chance I’m getting a room.</p>
-        <p>So now it’s 10:30pm. I’m in the lobby of the hotel for which I have a bogus confirmation and I begin my search for the next-closest hotel.</p>
-        <p>I know at this point I’m not using anything internet-based to make a reservation. Over-the-phone only!</p>
-        <p>I call a bunch of nearby hotels. Every one is giving me their automated phone system — “If you want to book a reservation, press 1. If you want to…”</p>
-        <p>I sit through the first couple calls and eventually connect to a human: “Do you have any rooms available tonight?” </p>
-        <p>“Yes sir, can you confirm which location you are calling for?” They don’t know because this isn’t someone at the hotel. This is a call center somewhere.</p>
-        <p>I quickly realize this ain’t gonna work.</p>
-        <p>New rule: if the number online is a centralized number that gives me your automated phone system, I’m out. Next hotel.</p>
-        <p>I just need to connect to a human at a front desk.</p>
-        <p>I call maybe 12 hotels. About two give me humans at the front desk. Both of those are booked solid for the night.</p>
-        <p>But you know what? Props to those hotels for having direct lines to a human. <em>YUGE</em> props.</p>
-        <p>A direct line to a human feels like the ultimate luxury at this point.</p>
-        <p>“Hey you got any rooms tonight? No? That’s ok. I appreciate you being there to answer my call, friend. You have a good night.”</p>
-        <p>Eventually I find a hotel 20 minutes down the road where somebody at the front desk answers and says they have a room. “It’s twice the cost since it’s our last room.” I don’t care, I book it. This is a phone call with a person at the front desk, I <em>know</em> I’m getting a room.</p>
-        <p>Postscript: I also spent several days going back and forth with a rep at HotelTonight to get a refund. I guess it’s hard to prove that their system sold me a room that did not exist.</p>
-        
-            <hr />
-            
-        
-            <p>
-              Reply via:
-              
-        
-              <a
-                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/everything-is-broken/"
-                >Email</a
-              >
-              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
-        
-              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
-            </p>]]>
-      </description>
-      <source:markdown>[Chris Coyier wrote about it](https://chriscoyier.net/2025/10/22/everything-is-broken/).
-
-Now it’s my turn.
-
-Last week I’m flying home.
-
-My flight gets delayed in air, then lands late so I miss my connecting flight…
-
-\[Skip over all the stuff about airline customer support, getting rebooked, etc.\]
-
-It’s ~10pm and I’m stranded overnight. I need a last-minute hotel room.
-
-I figure I’ll try HotelTonight because that’s their shtick, right? “Incredible last-minute hotel deals” says their homepage hero banner.
-
-I find the closest hotel, click “Purchase” it takes me to checkout, I do the whole Apple Pay thing, then it says “failed to book” because there are no more rooms left.
-
-Ok? Would’ve been nice to know that _before_ going through all the checkout stuff, but ok. I’ll find another.
-
-Two more hotels, same deal. Click through, checkout, blah blah blah, payment won’t go through. It says there are no more rooms left.
-
-No I’m getting frustrated. I’ll try one more time…
-
-Same flow. Finally! Payment goes through. Confirmation number and all — I’m good to go!
-
-I leave the airport and get a rideshare to the hotel.
-
-Go up to the desk. “Yes, I’m checking in please.” They ask for my name. I give it.
-
-They can’t find me.
-
-“Oh, no…” I think.
-
-“Do you have a reservation number?”
-
-Hell yes I do! Right here in the email HotelTonight sent me.
-
-I give it to them.
-
-It’s not in their system.
-
-“Ok well, can you get me a room?”
-
-Nope, they are completely full for the night.
-
-Knowing that I booked through a third-party system, and it’s not in the first-party system, I know there’s no chance I’m getting a room.
-
-So now it’s 10:30pm. I’m in the lobby of the hotel for which I have a bogus confirmation and I begin my search for the next-closest hotel.
-
-I know at this point I’m not using anything internet-based to make a reservation. Over-the-phone only!
-
-I call a bunch of nearby hotels. Every one is giving me their automated phone system — “If you want to book a reservation, press 1. If you want to…”
-
-I sit through the first couple calls and eventually connect to a human: “Do you have any rooms available tonight?”
-
-“Yes sir, can you confirm which location you are calling for?” They don’t know because this isn’t someone at the hotel. This is a call center somewhere.
-
-I quickly realize this ain’t gonna work.
-
-New rule: if the number online is a centralized number that gives me your automated phone system, I’m out. Next hotel.
-
-I just need to connect to a human at a front desk.
-
-I call maybe 12 hotels. About two give me humans at the front desk. Both of those are booked solid for the night.
-
-But you know what? Props to those hotels for having direct lines to a human. _YUGE_ props.
-
-A direct line to a human feels like the ultimate luxury at this point.
-
-“Hey you got any rooms tonight? No? That’s ok. I appreciate you being there to answer my call, friend. You have a good night.”
-
-Eventually I find a hotel 20 minutes down the road where somebody at the front desk answers and says they have a room. “It’s twice the cost since it’s our last room.” I don’t care, I book it. This is a phone call with a person at the front desk, I _know_ I’m getting a room.
-
-Postscript: I also spent several days going back and forth with a rep at HotelTonight to get a refund. I guess it’s hard to prove that their system sold me a room that did not exist.
-
-* * *
-
-Reply via:
-
-
-[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/everything-is-broken/)
-· [Mastodon](https://mastodon.social/@jimniels) ·
-
-[Bluesky](https://bsky.app/profile/jim-nielsen.com)</source:markdown>
-      <guid>cid://https://blog.jim-nielsen.com/2025/everything-is-broken/</guid>
-    </item>    <item>
-      <title>a16z-Backed Startup Sells Thousands of ‘Synthetic Influencers’ to Manipulate Social Media as a Service</title>
-      <link>https://www.404media.co/a16z-backed-startup-sells-thousands-of-synthetic-influencers-to-manipulate-social-media-as-a-service/</link>
-      <description>
-        <![CDATA[Andreessen Horowitz is funding a company that clearly violates the inauthentic behavior policies of every major social media platform.]]>
-      </description>
-      <source:markdown>Andreessen Horowitz is funding a company that clearly violates the inauthentic behavior policies of every major social media platform.</source:markdown>
-      <guid>cid://68fbbbf1dbf2dc000117ea1c</guid>
-    </item>    <item>
-      <title>October 23, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/october-23-2025-cca</link>
-      <enclosure url="https://api.substack.com/feed/podcast/177033074/e24128018e87bdc7840a5b6c706c50bc.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/october-23-2025-cca</guid>
-    </item>    <item>
-      <title>Behind the Blog: Making Things for Humans</title>
-      <link>https://www.404media.co/behind-the-blog-making-things-for-humans/</link>
-      <description>
-        <![CDATA[This week, we discuss Pavlovian Chartbeat response, when to say "cum," and the wave of making things for humans, by humans.]]>
-      </description>
-      <source:markdown>This week, we discuss Pavlovian Chartbeat response, when to say &#34;cum,&#34; and the wave of making things for humans, by humans.</source:markdown>
-      <guid>cid://68fb9cbbdbf2dc0001157a74</guid>
-    </item>    <item>
-      <title>Jane Schoenbrun is adapting Charles Burns’ Black Hole for TV.</title>
-      <link>https://lithub.com/jane-schoenbrun-is-adapting-charles-burns-black-hole-for-tv/</link>
-      <description>
-        <![CDATA[Netflix will be releasing a series from Jane Schoenbrun based on Charles Burns’ comic Black Hole, according to Deadline. The series doesn’t have a release date yet, but it’s hard to think of anyone better able to translate Burns’ vision]]>
-      </description>
-      <source:markdown>Netflix will be releasing a series from Jane Schoenbrun based on Charles Burns’ comic Black Hole, according to Deadline. The series doesn’t have a release date yet, but it’s hard to think of anyone better able to translate Burns’ vision</source:markdown>
-      <guid>cid://https://lithub.com/?p=261714</guid>
-    </item>    <item>
-      <title>America’s Best Bet</title>
-      <link>https://www.profgalloway.com/americas-best-bet/</link>
-      <description>
-        <![CDATA[<p>America is now one giant bet on AI. If not for the Magnificent 10, the markets would be flat for the year. There’s a different technology that offers more asymmetric upside. If we want to transform the economy — and the well-being of Americans — we should focus on GLP-1, not GPT-5. More than 40% [&#8230;]</p>
-        <p>The post <a href="https://www.profgalloway.com/americas-best-bet/">America’s Best Bet</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>]]>
-      </description>
-      <source:markdown>America is now one giant bet on AI. If not for the Magnificent 10, the markets would be flat for the year. There’s a different technology that offers more asymmetric upside. If we want to transform the economy — and the well-being of Americans — we should focus on GLP-1, not GPT-5. More than 40% \[…\]
-
-The post [America’s Best Bet](https://www.profgalloway.com/americas-best-bet/) appeared first on [No Mercy / No Malice](https://www.profgalloway.com).</source:markdown>
-      <guid>cid://https://www.profgalloway.com/?p=216336</guid>
-    </item>    <item>
-      <title>Soy Frankelda: cree en tu tinta, desafía al mundo</title>
-      <link>https://www.palomitademaiz.net/resenas-soy-frankelda/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-soy-frankelda</link>
-      <description>
-        <![CDATA[<p>Dirección: Arturo Ambriz, Roy Ambriz. Guion: Arturo Ambriz, Roy Ambriz. Elenco vocal: Mireya Mendoza. Países: México. Más información de la película: https://m.imdb.com/title/tt36639986/ Soy Frankelda no es solo un largometraje, es un hito para el cine mexicano y una declaración de amor al cine de la ficción. Desde el primer cuadro, la película dirigida por los [&#8230;]</p>
-        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-soy-frankelda/">Soy Frankelda: cree en tu tinta, desafía al mundo</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
-      </description>
-      <source:markdown>Dirección: Arturo Ambriz, Roy Ambriz. Guion: Arturo Ambriz, Roy Ambriz. Elenco vocal: Mireya Mendoza. Países: México. Más información de la película: https://m.imdb.com/title/tt36639986/ Soy Frankelda no es solo un largometraje, es un hito para el cine mexicano y una declaración de amor al cine de la ficción. Desde el primer cuadro, la película dirigida por los \[…\]
-
-La entrada [Soy Frankelda: cree en tu tinta, desafía al mundo](https://www.palomitademaiz.net/resenas-soy-frankelda/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
-      <guid>cid://https://www.palomitademaiz.net/?p=25666</guid>
-    </item>    <item>
-      <title>DHS Tries To Unmask Ice Spotting Instagram Account by Claiming It Imports Merchandise</title>
-      <link>https://www.404media.co/dhs-tries-to-unmask-ice-spotting-instagram-account-by-claiming-it-imports-merchandise/</link>
-      <description>
-        <![CDATA[There is no evidence the Instagram and Facebook account, called Montcowatch, sells anything. Lawyers from the ACLU say the move is "wildly outside the scope" of DHS' authority.]]>
-      </description>
-      <source:markdown>There is no evidence the Instagram and Facebook account, called Montcowatch, sells anything. Lawyers from the ACLU say the move is &#34;wildly outside the scope&#34; of DHS&#39; authority.</source:markdown>
-      <guid>cid://68fb9a29dbf2dc0001157a27</guid>
-    </item>    <item>
-      <title>Quoting Geoffrey Litt</title>
-      <link>https://simonwillison.net/2025/Oct/24/geoffrey-litt/#atom-everything</link>
-      <description>
-        <![CDATA[<blockquote cite="https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon"><p>A lot of people say AI will make us all "managers" or "editors"...but I think this is a dangerously incomplete view!</p>
-        <p>Personally, I'm trying to <strong>code like a surgeon</strong>.</p>
-        <p>A surgeon isn't a manager, they do the actual work! But their skills and time are highly leveraged with a support team that handles prep, secondary tasks, admin. The surgeon focuses on the important stuff they are uniquely good at. [...]</p>
-        <p>It turns out there are a LOT of secondary tasks which AI agents are now good enough to help out with. Some things I'm finding useful to hand off these days:</p>
-        <ul>
-        <li>Before attempting a big task, write a guide to relevant areas of the codebase</li>
-        <li>Spike out an attempt at a big change. Often I won't use the result but I'll review it as a sketch of where to go</li>
-        <li>Fix typescript errors or bugs which have a clear specification</li>
-        <li>Write documentation about what I'm building</li>
-        </ul>
-        <p>I often find it useful to run these secondary tasks async in the background -- while I'm eating lunch, or even literally overnight!</p>
-        <p>When I sit down for a work session, I want to feel like a surgeon walking into a prepped operating room. Everything is ready for me to do what I'm good at.</p></blockquote>
-        <p class="cite">&mdash; <a href="https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon">Geoffrey Litt</a>, channeling The Mythical Man-Month</p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/parallel-agents">parallel-agents</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/geoffrey-litt">geoffrey-litt</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>]]>
-      </description>
-      <source:markdown>&#62; A lot of people say AI will make us all &#34;managers&#34; or &#34;editors&#34;...but I think this is a dangerously incomplete view!
-&#62;
-&#62; Personally, I&#39;m trying to **code like a surgeon**.
-&#62;
-&#62; A surgeon isn&#39;t a manager, they do the actual work! But their skills and time are highly leveraged with a support team that handles prep, secondary tasks, admin. The surgeon focuses on the important stuff they are uniquely good at. \[...\]
-&#62;
-&#62; It turns out there are a LOT of secondary tasks which AI agents are now good enough to help out with. Some things I&#39;m finding useful to hand off these days:
-&#62;
-&#62; - Before attempting a big task, write a guide to relevant areas of the codebase
-&#62; - Spike out an attempt at a big change. Often I won&#39;t use the result but I&#39;ll review it as a sketch of where to go
-&#62; - Fix typescript errors or bugs which have a clear specification
-&#62; - Write documentation about what I&#39;m building
-&#62;
-&#62; I often find it useful to run these secondary tasks async in the background -- while I&#39;m eating lunch, or even literally overnight!
-&#62;
-&#62; When I sit down for a work session, I want to feel like a surgeon walking into a prepped operating room. Everything is ready for me to do what I&#39;m good at.
-
-— [Geoffrey Litt](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon), channeling The Mythical Man-Month
-
-Tags: [parallel-agents](https://simonwillison.net/tags/parallel-agents), [coding-agents](https://simonwillison.net/tags/coding-agents), [geoffrey-litt](https://simonwillison.net/tags/geoffrey-litt), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [generative-ai](https://simonwillison.net/tags/generative-ai), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/24/geoffrey-litt/#atom-everything</guid>
-    </item>    <item>
-      <title>Why do some radio towers blink?</title>
-      <link>https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink</link>
-      <description>
-        <![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Why do some radio towers blink?</span>
-        
-                    <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="yt-embed">
-        .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }<div class="embed-container"></div>
-        </div>
-        
-        <p>One day on my drive home, I saw three towers. One of them had a bunch of blinking white lights, another one had red lights that kind of faded in and out, and the third one, well, it wasn't doing anything. I'm lucky to have a radio engineer for a dad, so Dad: <em>why do some towers blink?</em></p>
-        
-        <p>Joe: Well, blinking I would call like the way you described it, "flashing", "white light", or "strobe". All these lights are to aid pilots and air traffic. helicopters, fighter planes, regular jets. So that's the purpose of it.</p>
-        
-        <p>Jeff: Well that one tower that I saw had red lights that faded in and out, but I even think there's a freestanding tower just north of here that has red and white on top.</p></div>
-              <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
-        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-10-24T09:00:54-05:00" title="Friday, October 24, 2025 - 09:00" class="datetime">October 24, 2025</time>
-        </span>]]>
-      </description>
-      <source:markdown>Why do some radio towers blink?
-
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-
-One day on my drive home, I saw three towers. One of them had a bunch of blinking white lights, another one had red lights that kind of faded in and out, and the third one, well, it wasn&#39;t doing anything. I&#39;m lucky to have a radio engineer for a dad, so Dad: _why do some towers blink?_
-
-Joe: Well, blinking I would call like the way you described it, &#34;flashing&#34;, &#34;white light&#34;, or &#34;strobe&#34;. All these lights are to aid pilots and air traffic. helicopters, fighter planes, regular jets. So that&#39;s the purpose of it.
-
-Jeff: Well that one tower that I saw had red lights that faded in and out, but I even think there&#39;s a freestanding tower just north of here that has red and white on top.
-
-Jeff GeerlingOctober 24, 2025</source:markdown>
-      <guid>cid://3506 at https://www.jeffgeerling.com</guid>
-    </item>    <item>
-      <title>The Booker Foundation is adding a children’s prize.</title>
-      <link>https://lithub.com/the-booker-foundation-is-adding-a-childrens-prize/</link>
-      <description>
-        <![CDATA[The Booker Prize Foundation is adding to its roster of rarefied literary recognitions. A new prize will recognize excellent fiction written for young readers—specifically, children ages eight to 12. As The Guardian reported this morning, the baby Booker will launch]]>
-      </description>
-      <source:markdown>The Booker Prize Foundation is adding to its roster of rarefied literary recognitions. A new prize will recognize excellent fiction written for young readers—specifically, children ages eight to 12. As The Guardian reported this morning, the baby Booker will launch</source:markdown>
-      <guid>cid://https://lithub.com/?p=261706</guid>
-    </item>    <item>
-      <title>Sfera Baltic boat gets another Raspberry Pi-based makeover</title>
-      <link>https://www.raspberrypi.com/news/sfera-baltic-boat-gets-another-raspberry-pi-based-makeover/</link>
-      <description>
-        <![CDATA[<p>The Sfera Baltic gets another Raspberry Pi-based upgrade to take advantage of both Raspberry Pi 5 and Compute Module 5.</p>
-        <p>The post <a href="https://www.raspberrypi.com/news/sfera-baltic-boat-gets-another-raspberry-pi-based-makeover/">Sfera Baltic boat gets another Raspberry Pi-based makeover</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
-      </description>
-      <source:markdown>The Sfera Baltic gets another Raspberry Pi-based upgrade to take advantage of both Raspberry Pi 5 and Compute Module 5.
-
-The post [Sfera Baltic boat gets another Raspberry Pi-based makeover](https://www.raspberrypi.com/news/sfera-baltic-boat-gets-another-raspberry-pi-based-makeover/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
-      <guid>cid://https://www.raspberrypi.com/?p=131076</guid>
-    </item>    <item>
-      <title>Tales from Toddlerhood</title>
-      <link>https://waitbutwhy.com/2025/10/toddler.html</link>
-      <description>
-        <![CDATA[<p>Eight thoughts from a strange and harrowing world</p>
-        <p>The post <a href="https://waitbutwhy.com/2025/10/toddler.html">Tales from Toddlerhood</a> appeared first on <a href="https://waitbutwhy.com">Wait But Why</a>.</p>]]>
-      </description>
-      <source:markdown>Eight thoughts from a strange and harrowing world
-
-The post [Tales from Toddlerhood](https://waitbutwhy.com/2025/10/toddler.html) appeared first on [Wait But Why](https://waitbutwhy.com).</source:markdown>
-      <guid>cid://https://waitbutwhy.com/?p=10661</guid>
-    </item>    <item>
-      <link>https://talkingpointsmemo.com/news/trump-military-national-guard-insurrection-act</link>
-      <description>
-        <![CDATA[<p>Trump Isn’t Waiting For The Insurrection Act To Turn The Military On American Citizens.</p>]]>
-      </description>
-      <source:markdown>Trump Isn’t Waiting For The Insurrection Act To Turn The Military On American Citizens.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/24/1649/</guid>
-    </item>    <item>
-      <title>Polls show voters now trust Democrats more to handle the economy</title>
-      <link>https://www.gelliottmorris.com/p/polls-show-voters-trust-democrats</link>
-      <description>
-        <![CDATA[The issue that sank Democrats in 2024 now threatens to do the same to Republicans in 2025 and the 2026 midterms]]>
-      </description>
-      <source:markdown>The issue that sank Democrats in 2024 now threatens to do the same to Republicans in 2025 and the 2026 midterms</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!wLSI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee85c856-c470-4a2f-b2e5-7a0664823e17_1220x1050.png" length="0" type="image/jpeg" />
-      <guid>cid://https://www.gelliottmorris.com/p/polls-show-voters-trust-democrats</guid>
-    </item>    <item>
-      <title>Friday morning tunes and tea</title>
-      <link>https://adactio.com/notes/22208</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22208/small.jpg" srcset="https://adactio.com/images/uploaded/22208/medium.jpg 1.5x, https://adactio.com/images/uploaded/22208/large.jpg 2.5x" alt="Friday morning tunes and tea" />
-        <p>Friday morning tunes and tea</p>]]>
-      </description>
-      <source:markdown>![Friday morning tunes and tea](https://adactio.com/images/uploaded/22208/small.jpg)
-
-Friday morning tunes and tea</source:markdown>
-      <guid>cid://https://adactio.com/notes/22208</guid>
-    </item>    <item>
-      <title>Part Four of The Kryptos Sculpture</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/part-four-of-the-kryptos-sculpture.html</link>
-      <description>
-        <![CDATA[<p>Two people <a href="https://www.nytimes.com/2025/10/16/science/kryptos-cia-solution-sanborn-auction.html">found the solution</a>. They used the power of research, not cryptanalysis, finding clues amongst the Sanborn papers at the Smithsonian&#8217;s Archives of American Art.</p>
-        <p>This comes as an awkward time, as Sanborn is <a href="https://www.schneier.com/blog/archives/2025/08/jim-sanborn-is-auctioning-off-the-solution-to-part-four-of-the-kryptos-sculpture.html">auctioning off</a> the solution. There were legal threats&#8212;I don&#8217;t understand their basis&#8212;and the solvers are not publishing their solution.</p>]]>
-      </description>
-      <source:markdown>Two people [found the solution](https://www.nytimes.com/2025/10/16/science/kryptos-cia-solution-sanborn-auction.html). They used the power of research, not cryptanalysis, finding clues amongst the Sanborn papers at the Smithsonian’s Archives of American Art.
-
-This comes as an awkward time, as Sanborn is [auctioning off](https://www.schneier.com/blog/archives/2025/08/jim-sanborn-is-auctioning-off-the-solution-to-part-four-of-the-kryptos-sculpture.html) the solution. There were legal threats—I don’t understand their basis—and the solvers are not publishing their solution.</source:markdown>
-      <guid>cid://https://www.schneier.com/?p=71044</guid>
-    </item>    <item>
-      <title>Trump’s Gilded Ballroom and the Fall of the American Republic</title>
-      <link>https://paulkrugman.substack.com/p/trumps-gilded-ballroom-and-the-fall</link>
-      <description>
-        <![CDATA[Tackiness and tyranny go hand in hand]]>
-      </description>
-      <source:markdown>Tackiness and tyranny go hand in hand</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!k-P_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fad7e0f9d-d99b-4d33-b25e-a6117f283893_1920x1080.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/trumps-gilded-ballroom-and-the-fall</guid>
-    </item>    <item>
-      <title>Lit Hub Daily: October 24, 2025</title>
-      <link>https://lithub.com/lit-hub-daily-october-24-2025/</link>
-      <description>
-        <![CDATA[The seven finalists for the Center for Fiction First Novel Prize answer our questions about reading, writing, and more! &#124; Lit Hub In Conversation “She was like an exclamation point in Garamond type&#8230;” Cynthia Zarin remembers her late friend, writer]]>
-      </description>
-      <source:markdown>The seven finalists for the Center for Fiction First Novel Prize answer our questions about reading, writing, and more! \| Lit Hub In Conversation “She was like an exclamation point in Garamond type…” Cynthia Zarin remembers her late friend, writer</source:markdown>
-      <guid>cid://https://lithub.com/?p=261686</guid>
-    </item>    <item>
-      <title>Meet the Best Debut Novelists of the Year</title>
-      <link>https://lithub.com/meet-the-best-debut-novelists-of-the-year/</link>
-      <description>
-        <![CDATA[In September, the Center for Fiction announced the shortlist for their annual First Novel Prize, which celebrates debut novels and seeks to support early career writers. The shortlisted authors will each be awarded $1,000 and the winner, who will be]]>
-      </description>
-      <source:markdown>In September, the Center for Fiction announced the shortlist for their annual First Novel Prize, which celebrates debut novels and seeks to support early career writers. The shortlisted authors will each be awarded $1,000 and the winner, who will be</source:markdown>
-      <guid>cid://https://lithub.com/?p=261181</guid>
-    </item>    <item>
-      <title>The Ancient Origins of the Our Fascination With Flight</title>
-      <link>https://lithub.com/the-ancient-origins-of-the-our-fascination-with-flight/</link>
-      <description>
-        <![CDATA[Humans have always been mindful of the air. Children as young as three or four can use aerial images to find hidden treasure and navigate their neighborhoods; spatial and mapping skills appear across cultures. Something about the airborne imagination seems]]>
-      </description>
-      <source:markdown>Humans have always been mindful of the air. Children as young as three or four can use aerial images to find hidden treasure and navigate their neighborhoods; spatial and mapping skills appear across cultures. Something about the airborne imagination seems</source:markdown>
-      <guid>cid://https://lithub.com/?p=261301</guid>
-    </item>    <item>
-      <title>The Lit Hub Podcast Talks the 2025 Booker Prize Shortlist</title>
-      <link>https://lithub.com/the-lit-hub-podcast-talks-the-2025-booker-prize-shortlist/</link>
-      <description>
-        <![CDATA[A weekly behind-the-scenes dive into everything interesting, dynamic, strange, and wonderful happening in literary culture—featuring Lit Hub staff, columnists, and special guests! Hosted by Drew Broussard. Having done this show for a full year, it means we have some traditions]]>
-      </description>
-      <source:markdown>A weekly behind-the-scenes dive into everything interesting, dynamic, strange, and wonderful happening in literary culture—featuring Lit Hub staff, columnists, and special guests! Hosted by Drew Broussard. Having done this show for a full year, it means we have some traditions</source:markdown>
-      <guid>cid://https://lithub.com/?p=261667</guid>
-    </item>    <item>
-      <title>What Should You Read Next? Here Are the Best Reviewed Books of the Week</title>
-      <link>https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-10-24-2025/</link>
-      <description>
-        <![CDATA[Gish Jen&#8217;s Bad Bad Girl, Virginia Giuffre&#8217;s Nobody&#8217;s Girl, and Claire-Louise Bennett&#8217;s Big Kiss, Bye-Bye all feature among the best reviewed books of the week. Brought to you by Book Marks, Lit Hub’s home for book reviews. * Fiction 1.]]>
-      </description>
-      <source:markdown>Gish Jen’s Bad Bad Girl, Virginia Giuffre’s Nobody’s Girl, and Claire-Louise Bennett’s Big Kiss, Bye-Bye all feature among the best reviewed books of the week. Brought to you by Book Marks, Lit Hub’s home for book reviews. \* Fiction 1.</source:markdown>
-      <guid>cid://https://lithub.com/?p=261607</guid>
-    </item>    <item>
-      <title>Enjoy Your Chocolate and Champagne While It Lasts</title>
-      <link>https://lithub.com/enjoy-your-chocolate-and-champagne-while-it-lasts/</link>
-      <description>
-        <![CDATA[“I’m screwed.” That is a polite way of expressing my thoughts upon meeting the chef with whom I was supposed to prepare a banquet at the World Economic Forum. Nearly twenty-five hundred dignitaries from 140 countries had assembled in Davos,]]>
-      </description>
-      <source:markdown>“I’m screwed.” That is a polite way of expressing my thoughts upon meeting the chef with whom I was supposed to prepare a banquet at the World Economic Forum. Nearly twenty-five hundred dignitaries from 140 countries had assembled in Davos,</source:markdown>
-      <guid>cid://https://lithub.com/?p=261281</guid>
-    </item>    <item>
-      <title>When Telling Your Own Story Gets in the Way of Processing Trauma</title>
-      <link>https://lithub.com/when-telling-your-own-story-gets-in-the-way-of-processing-trauma/</link>
-      <description>
-        <![CDATA[When I made my first appointment with my therapist, Silas, I had been working on my novel for three years. I’ve always been a fast writer, and I’d finished my first book in an eighteen-month blur. But despite the fact]]>
-      </description>
-      <source:markdown>When I made my first appointment with my therapist, Silas, I had been working on my novel for three years. I’ve always been a fast writer, and I’d finished my first book in an eighteen-month blur. But despite the fact</source:markdown>
-      <guid>cid://https://lithub.com/?p=261428</guid>
-    </item>    <item>
-      <title>How Being a Writer Broke (Then Healed) My Queer Little Heart</title>
-      <link>https://lithub.com/how-being-a-writer-broke-then-healed-my-queer-little-heart/</link>
-      <description>
-        <![CDATA[In 2004, I was trying very hard to maintain my status as a masculine straight-jock-bro in the circus that is middle school, doing anything and everything to suppress the subconscious thoughts that were just starting to bubble up to my]]>
-      </description>
-      <source:markdown>In 2004, I was trying very hard to maintain my status as a masculine straight-jock-bro in the circus that is middle school, doing anything and everything to suppress the subconscious thoughts that were just starting to bubble up to my</source:markdown>
-      <guid>cid://https://lithub.com/?p=261422</guid>
-    </item>    <item>
-      <title>Remembering Writer and New Yorker Mainstay Alison Rose</title>
-      <link>https://lithub.com/remembering-writer-and-new-yorker-mainstay-alison-rose/</link>
-      <description>
-        <![CDATA[I first met Alison Rose when I was twenty-five and she was, I think, forty. It was impossible to tell. She could have been twelve, she could have been eighty. At first, writing this, I typed, typed twenty-dive; though I&#8217;ve]]>
-      </description>
-      <source:markdown>I first met Alison Rose when I was twenty-five and she was, I think, forty. It was impossible to tell. She could have been twelve, she could have been eighty. At first, writing this, I typed, typed twenty-dive; though I’ve</source:markdown>
-      <guid>cid://https://lithub.com/?p=261616</guid>
-    </item>    <item>
-      <title>Julian Brave NoiseCat on How Directing a Documentary Shaped His Memoir</title>
-      <link>https://lithub.com/julian-brave-noisecat-on-how-directing-a-documentary-shaped-his-memoir/</link>
-      <description>
-        <![CDATA[This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. A couple months after I signed the contract for my first book, We Survived the Night, I took a call from my friend and colleague Emily Kassie. Ground-penetrating radar had]]>
-      </description>
-      <source:markdown>This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. A couple months after I signed the contract for my first book, We Survived the Night, I took a call from my friend and colleague Emily Kassie. Ground-penetrating radar had</source:markdown>
-      <guid>cid://https://lithub.com/?p=261674</guid>
-    </item>    <item>
-      <link>https://gizmodo.com/dhs-little-dark-age-nazi-video-2000676359</link>
-      <description>
-        <![CDATA[<p>DHS Posts Video Featuring Song Popular With Nazi Creators.</p>]]>
-      </description>
-      <source:markdown>DHS Posts Video Featuring Song Popular With Nazi Creators.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/24/1647/</guid>
-    </item>    <item>
-      <title>The Mamdani Moment</title>
-      <link>https://robertreich.substack.com/p/the-mamdani-moment</link>
-      <description>
-        <![CDATA[And the Future of the Democratic Party]]>
-      </description>
-      <source:markdown>And the Future of the Democratic Party</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!umrg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F338f1ed6-4737-49d6-81d4-6e9a91d1432c_1200x800.webp" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/the-mamdani-moment</guid>
-    </item>    <item>
-      <title>October 23, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/october-23-2025</link>
-      <description>
-        <![CDATA[Julia Ainsley and Didi Martinez of NBC News reported today that Immigration and Customs Enforcement&#8217;s rush to get new recruits onto the street has meant they have pushed into their training program more than 200 people who have disqualifying criminal backgrounds, fail drug testing, or don&#8217;t meet the academic or physical requirements.]]>
-      </description>
-      <source:markdown>Julia Ainsley and Didi Martinez of NBC News reported today that Immigration and Customs Enforcement’s rush to get new recruits onto the street has meant they have pushed into their training program more than 200 people who have disqualifying criminal backgrounds, fail drug testing, or don’t meet the academic or physical requirements.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/october-23-2025</guid>
-    </item>    <item>
-      <title>316: Hope. Global homicide rates ↓ Deforestation too. Painting with fire. Water from air. Fiji eliminates trachoma.</title>
-      <link>https://fixthenews.com/p/316-hope-painting-with-fire-global</link>
-      <description>
-        <![CDATA[Hidden stories of progress from around the world.]]>
-      </description>
-      <source:markdown>Hidden stories of progress from around the world.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!zyQD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ff4432b-f673-4649-bd40-f8ed5f5e1f89_1160x772.avif" length="0" type="image/jpeg" />
-      <guid>cid://https://fixthenews.com/p/316-hope-painting-with-fire-global</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/10/23/133525.html</link>
-      <description>
-        <![CDATA[<p>Scripting News: Think different about developers.</p>]]>
-      </description>
-      <source:markdown>Scripting News: Think different about developers.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/23/1645/</guid>
-    </item>    <item>
-      <link>https://blog.lmorchard.com/2025/10/23/think-different-about-data/</link>
-      <description>
-        <![CDATA[<p>Developers shouldn't have to be data landlords.</p>]]>
-      </description>
-      <source:markdown>Developers shouldn&#39;t have to be data landlords.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/23/1643/</guid>
-    </item>    <item>
-      <title>Founders Over Funders. Inventors Over Investors.</title>
-      <link>https://anildash.com/2025/10/24/founders-over-funders/</link>
-      <guid>cid://https://anildash.com/2025/10/24/founders-over-funders/</guid>
-    </item>    <item>
-      <title>Agents are Systems Software</title>
-      <link>http://timkellogg.me/blog/2025/10/24/systems-software</link>
-      <description>
-        <![CDATA[Agents are hard to build. And when they’re done well, they’re highly generic and extendable.
-        They’re systems, like web browsers or database engines.]]>
-      </description>
-      <source:markdown>Agents are hard to build. And when they’re done well, they’re highly generic and extendable.
-They’re systems, like web browsers or database engines.</source:markdown>
-      <guid>cid://http://timkellogg.me/blog/2025/10/24/systems-software</guid>
-    </item>    <item>
-      <title>Fixing my Facebook feed with ChatGPT Atlas</title>
-      <link>https://blog.fsck.com/2025/10/24/chatgpt-atlas/</link>
-      <guid>cid://https://blog.fsck.com/2025/10/24/chatgpt-atlas/</guid>
     </item>
   </channel>
 </rss>
