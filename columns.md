@@ -41,7 +41,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Shady Characters blog](https://shadycharacters.co.uk/feed/)
 - [Margaret Atwood's substack](https://margaretatwood.substack.com/feed)
 - [Miguel de Icaza's blog](https://tirania.org/blog/miguel.rss2)
-- [Pod Save America](https://crooked.com/podcast-series/pod-save-america/feed/)
 
 # People Blogs, from news.txt, evaluate and prune
 

@@ -4,14 +4,50 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>15 Nov 25 06:10 -0800</lastBuildDate>
+    <lastBuildDate>15 Nov 25 10:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>AI Code Doesn’t Survive in Production: Here’s Why</title>
+      <link>https://thenewstack.io/ai-code-doesnt-survive-in-production-heres-why/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/b326f5d6-coding-assistant-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="A programmer uses a laptop with AI coding assistant and colorful program code." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/b326f5d6-coding-assistant.jpg" /><p>I see a new demo every day that looks something like this: A single prompt generates a complete application. A</p>
+        <p>The post <a href="https://thenewstack.io/ai-code-doesnt-survive-in-production-heres-why/">AI Code Doesn&#8217;t Survive in Production: Here&#8217;s Why</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![A programmer uses a laptop with AI coding assistant and colorful program code.](https://cdn.thenewstack.io/media/2025/11/b326f5d6-coding-assistant-1024x576.jpg)
+
+I see a new demo every day that looks something like this: A single prompt generates a complete application. A
+
+The post [AI Code Doesn’t Survive in Production: Here’s Why](https://thenewstack.io/ai-code-doesnt-survive-in-production-heres-why/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22805944</guid>
+    </item>    <item>
+      <title>Snapchat Open Sources Cross-Platform UI Framework</title>
+      <link>https://thenewstack.io/snapchat-open-sources-cross-platform-ui-framework/</link>
+      <description>
+        <![CDATA[<img width="1024" height="577" src="https://cdn.thenewstack.io/media/2024/04/d8b458d6-dev_news_img-2-2-1024x577.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Dev News logo" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2024/04/d8b458d6-dev_news_img-2-2.png" /><p>For eight years, Snapchat has used Valdi, a cross-platform UI framework, in-house. Now, it has open sourced the framework. Valdi</p>
+        <p>The post <a href="https://thenewstack.io/snapchat-open-sources-cross-platform-ui-framework/">Snapchat Open Sources Cross-Platform UI Framework</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Dev News logo](https://cdn.thenewstack.io/media/2024/04/d8b458d6-dev_news_img-2-2-1024x577.png)
+
+For eight years, Snapchat has used Valdi, a cross-platform UI framework, in-house. Now, it has open sourced the framework. Valdi
+
+The post [Snapchat Open Sources Cross-Platform UI Framework](https://thenewstack.io/snapchat-open-sources-cross-platform-ui-framework/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806647</guid>
+    </item>    <item>
+      <title>Power: The answer to and source of all your AI datacenter problems</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/15/power_supercomputing/</link>
+      <description>
+        <![CDATA[<h4>Digital Realty CTO Chris Sharp weights impact of densification on the datacenter and the rise of the AI factory</h4> <p><strong>Interview</strong>  In the datacenter biz, power is the product. You either have it or you don&#39;t, Chris Sharp tells <em>El Reg</em>.…</p>]]>
+      </description>
+      <source:markdown>#### Digital Realty CTO Chris Sharp weights impact of densification on the datacenter and the rise of the AI factory
+
+**Interview**  In the datacenter biz, power is the product. You either have it or you don&#39;t, Chris Sharp tells _El Reg_.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243025</guid>
+    </item>    <item>
       <title>Visual Studio 2026 First Look: Evolution, Not Revolution</title>
       <link>https://thenewstack.io/visual-studio-2026-first-look-evolution-not-revolution/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/f07cdb96-johannes-plenio-awdgqexsxa0-unsplash-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="evolution" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/f07cdb96-johannes-plenio-awdgqexsxa0-unsplash.jpg" /><p>I&#8217;ve never entirely understood the Microsoft roadmap. I certainly enjoyed using Visual Studio 2022 (VS 2022) for C# and .NET</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/f07cdb96-johannes-plenio-awdgqexsxa0-unsplash-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="evolution" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/f07cdb96-johannes-plenio-awdgqexsxa0-unsplash.jpg" /><p>I&#8217;ve never entirely understood the Microsoft roadmap. I certainly enjoyed using Visual Studio 2022 (VS 2022) for C# and .NET</p>
         <p>The post <a href="https://thenewstack.io/visual-studio-2026-first-look-evolution-not-revolution/">Visual Studio 2026 First Look: Evolution, Not Revolution</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![evolution](https://cdn.thenewstack.io/media/2025/11/f07cdb96-johannes-plenio-awdgqexsxa0-unsplash-1024x576.jpg)

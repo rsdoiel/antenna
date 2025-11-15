@@ -4,10 +4,26 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>15 Nov 25 06:10 -0800</lastBuildDate>
+    <lastBuildDate>15 Nov 25 10:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Pyromaniac Evolution at ROUGOL – 17th November</title>
+      <link>https://www.riscository.com/2025/pyromaniac-evolution-rougol-17th-november/</link>
+      <description>
+        <![CDATA[Your next opportunity to attend a RISC OS User Group of London (ROUGOL) meeting is Monday, 17th November, where Gerph will be discussing the evolution of RISC OS Pyromaniac. If you don&#8217;t already know, RISC OS Pyromaniac is an online resource developed by Gerph that provides a semi-hosted re-implementation of RISC OS, capable of running 32-bit programs with a focus on testing software. Gerph first talked about the system to ROUGOL five years ago this month, with the last follow-up talk four years ago &#8211; and if you want to&#8230;]]>
+      </description>
+      <source:markdown>Your next opportunity to attend a RISC OS User Group of London (ROUGOL) meeting is Monday, 17th November, where Gerph will be discussing the evolution of RISC OS Pyromaniac. If you don’t already know, RISC OS Pyromaniac is an online resource developed by Gerph that provides a semi-hosted re-implementation of RISC OS, capable of running 32-bit programs with a focus on testing software. Gerph first talked about the system to ROUGOL five years ago this month, with the last follow-up talk four years ago – and if you want to…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10798</guid>
+    </item>    <item>
+      <title>Theatre talks from the London Show now on YouTube</title>
+      <link>https://www.riscository.com/2025/london-2025-theatre-talks/</link>
+      <description>
+        <![CDATA[The RISC OS London Show, which took place a few short weeks ago, maintained the usual format &#8211; a main hall where the exhibitors had their stands, and a show theatre for a selection of exhibitors to deliver short talks. If you couldn&#8217;t attend the talks on the day &#8211; or the show itself (shame on you, unless you have a good excuse) &#8211; you can now watch them online thanks to the recording and editing efforts of Leo White. If you want to watch them all in one long&#8230;]]>
+      </description>
+      <source:markdown>The RISC OS London Show, which took place a few short weeks ago, maintained the usual format – a main hall where the exhibitors had their stands, and a show theatre for a selection of exhibitors to deliver short talks. If you couldn’t attend the talks on the day – or the show itself (shame on you, unless you have a good excuse) – you can now watch them online thanks to the recording and editing efforts of Leo White. If you want to watch them all in one long…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10796</guid>
+    </item>    <item>
       <title>Rockwell AIM 65 additions</title>
       <link>http://retro.hansotten.nl/rockwell-aim-65-additions/</link>
       <description>

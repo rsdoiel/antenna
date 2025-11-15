@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>15 Nov 25 06:10 -0800</lastBuildDate>
+    <lastBuildDate>15 Nov 25 10:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -141,6 +141,81 @@ As always, do give this release a try and open a [ticket](https://gitlab.haskell
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
     </item>    <item>
+      <title>The Modern American Conservative Movement is Bankrupt and Anti-American</title>
+      <link>https://www.notesfromthecircus.com/p/the-modern-american-conservative</link>
+      <description>
+        <![CDATA[The modern American conservative movement claims the mantle of the Founders while systematically rejecting everything the Founders built.]]>
+      </description>
+      <source:markdown>The modern American conservative movement claims the mantle of the Founders while systematically rejecting everything the Founders built.</source:markdown>
+      <enclosure url="https://images.unsplash.com/photo-1597933534024-debb6104af15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw1fHxjaGljYWdvfGVufDB8fHx8MTc2MzE1NTY3MHww&ixlib=rb-4.1.0&q=80&w=1080" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/the-modern-american-conservative</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/15.html#a164056</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2025/11/15/pluribus.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Interesting thought with a small <a href="https://daytona.scripting.com/search?q=pluribus">Pluribus</a> spoiler. We should all think of our AI pseudo-people with as much disdain as Carol has for the "people" who watch over her. They aren't people, in either case. In Pluribus they give you the hint in everything they say. It's not "I think this" it's <i>we.</i> I'd like my chatbot friends to use similar language. Never behave like a person. That should be as forbidden. We'll regret not controlling this, I think.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2025/11/15/pluribus.png)Interesting thought with a small [Pluribus](https://daytona.scripting.com/search?q=pluribus) spoiler. We should all think of our AI pseudo-people with as much disdain as Carol has for the &#34;people&#34; who watch over her. They aren&#39;t people, in either case. In Pluribus they give you the hint in everything they say. It&#39;s not &#34;I think this&#34; it&#39;s _we._ I&#39;d like my chatbot friends to use similar language. Never behave like a person. That should be as forbidden. We&#39;ll regret not controlling this, I think.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/15.html#a164056</guid>
+    </item>    <item>
+      <title>More testing stuffffff</title>
+      <link>http://scripting.com/2025/11/15/161509.html?title=moreTestingStuffffff</link>
+      <description>
+        <![CDATA[<p>With any luck this will be the last of the tests for this particular feature. </p>
+        <p>If this continues to work, tomorrow or Monday I'll switch it over to cross-posting to daveverse instead of the throw-away test site. </p>
+        <p>Below are the debugging messages I used today. Nothing really happening here. ;-)</p>
+        <ul>
+        <li>This is one of those days I am pretty sure I have <i>nothing</i> to write but as I get going I'll remember stuff. Maybe. As you've probably surmised I'm still working on tests. These are called regression tests. Yesterday I got the whole thing running, but knew I still had to move things around, and turn some features off that weren't needed. So every time I do one of those things that could shake things up, I have to try it again to make sure I didn't break it. This is the <a href="https://scripting4.wordpress.com/2025/11/15/477/">page</a> I have to look at for the result. The cool thing is that the wordpress site is starting to feel like scripting.com, the software runs that quickly. But there are a lot of bits of software running all over the place that have to work in order for it to feel that solid. </li>
+        <li>How did the regression test go? Wellll, I did break a bunch of stuff. But I put the pieces back in place. And with any luck this post will show up on the other end. <i>It did.</i> </li>
+        </ul>]]>
+      </description>
+      <source:markdown>With any luck this will be the last of the tests for this particular feature.
+
+If this continues to work, tomorrow or Monday I&#39;ll switch it over to cross-posting to daveverse instead of the throw-away test site.
+
+Below are the debugging messages I used today. Nothing really happening here. ;-)
+
+*   This is one of those days I am pretty sure I have _nothing_ to write but as I get going I&#39;ll remember stuff. Maybe. As you&#39;ve probably surmised I&#39;m still working on tests. These are called regression tests. Yesterday I got the whole thing running, but knew I still had to move things around, and turn some features off that weren&#39;t needed. So every time I do one of those things that could shake things up, I have to try it again to make sure I didn&#39;t break it. This is the [page](https://scripting4.wordpress.com/2025/11/15/477/) I have to look at for the result. The cool thing is that the wordpress site is starting to feel like scripting.com, the software runs that quickly. But there are a lot of bits of software running all over the place that have to work in order for it to feel that solid.
+*   How did the regression test go? Wellll, I did break a bunch of stuff. But I put the pieces back in place. And with any luck this post will show up on the other end. _It did._</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/15/161509.html</guid>
+    </item>    <item>
+      <title>Listen to my NYT Podcast Interview. &#34;Something Happens when I Hit the Keyboard.&#34;</title>
+      <link>https://tinabrown.substack.com/p/listen-to-my-nyt-podcast-interview-f1e</link>
+      <description>
+        <![CDATA[In The Interview with the NYT, Lulu Garcia-Navarro opened by quoting from Fresh Hell: &#8220;I want to start by reading some of you to you.]]>
+      </description>
+      <source:markdown>In The Interview with the NYT, Lulu Garcia-Navarro opened by quoting from Fresh Hell: “I want to start by reading some of you to you.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!-7lD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb26d9ba8-43c2-43ca-9adb-ca2ea32af77d_1164x1200.png" length="0" type="image/jpeg" />
+      <guid>cid://https://tinabrown.substack.com/p/listen-to-my-nyt-podcast-interview-f1e</guid>
+    </item>    <item>
+      <title>Hey look</title>
+      <link>https://doc.searls.com/2025/11/15/hey-look/</link>
+      <description>
+        <![CDATA[Cluetrain is in an Epstein file, as are the names of its authors, mine misspelled. Apple launches Digital ID, a way to carry your passport on your phone for use at TSA checkpoints. A case against AI panic. Orthodox journalism has a problem with the heterodox kind. Such as Michael Wolff. Dave says it&#39;s because Wolff is independent. [&#8230;]]]>
+      </description>
+      <source:markdown>Cluetrain is in an Epstein file, as are the names of its authors, mine misspelled. Apple launches Digital ID, a way to carry your passport on your phone for use at TSA checkpoints. A case against AI panic. Orthodox journalism has a problem with the heterodox kind. Such as Michael Wolff. Dave says it&#39;s because Wolff is independent. \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2025/11/15/hey-look/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/15.html#a153558</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2019/09/25/blackLab.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I have been thinking, for years now, why not reconceive the discourse system on the social web to factor out moderation. It is the web, so anyone can add a feature any time without having to rewrite the whole web. I've been trying ideas out for years, but people preferred silos. Hoping now there are enough people to start a bootstrap. Won't be much of a discourse system if people don't course. <span class="spOldSchoolEmoji">😄</span>]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2019/09/25/blackLab.png)I have been thinking, for years now, why not reconceive the discourse system on the social web to factor out moderation. It is the web, so anyone can add a feature any time without having to rewrite the whole web. I&#39;ve been trying ideas out for years, but people preferred silos. Hoping now there are enough people to start a bootstrap. Won&#39;t be much of a discourse system if people don&#39;t course. 😄</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/15.html#a153558</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/15.html#a151359</link>
+      <description>
+        <![CDATA[Today's song: <a href="https://www.youtube.com/watch?v=AeZRYhLDLeU">Folsom Prison Blues</a>.]]>
+      </description>
+      <source:markdown>Today&#39;s song: [Folsom Prison Blues](https://www.youtube.com/watch?v=AeZRYhLDLeU).</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/15.html#a151359</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/15.html#a150634</link>
+      <description>
+        <![CDATA[Tim Bray did an <a href="https://www.tbray.org/ongoing/When/202x/2025/11/13/Kendzior-Case-Study">analysis</a> of how the Sarah Kendzior suspension on Bluesky would have played out in the MastoVerse.]]>
+      </description>
+      <source:markdown>Tim Bray did an [analysis](https://www.tbray.org/ongoing/When/202x/2025/11/13/Kendzior-Case-Study) of how the Sarah Kendzior suspension on Bluesky would have played out in the MastoVerse.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/15.html#a150634</guid>
+    </item>    <item>
       <link>http://scripting.com/2025/11/15.html#a135446</link>
       <description>
         <![CDATA[Today is one of those days I am pretty sure I have nothing to write about but as I get going I'll remember stuff to write about.]]>
@@ -158,10 +233,10 @@ anything amiss.</source:markdown>
       <title>Code wikis are documentation theater as a service</title>
       <link>https://passo.uno/ai-wikis-docs-teather-as-a-service/</link>
       <description>
-        <![CDATA[<p><a href="https://codewiki.google/">Code Wiki</a>, a new AI tool by Google similar to <a href="https://deepwiki.org/">DeepWiki</a>, claims to generate a complete set of docs, including diagrams, from code repos. The landing page goes as far as saying “Stop documenting. No more stale docs. Ever”, a claim that made me stagger and reach for the nearest chair.</p>
+        <![CDATA[<p><a href="https://codewiki.google/">Code Wiki</a>, a new AI tool by Google, claims to generate a complete set of docs, including diagrams, from code repos. The landing page goes as far as saying “Stop documenting. No more stale docs. Ever”, a claim that made me stagger and reach for the nearest chair.</p>
         <p>That these tools are laughably <em>bad</em> isn’t reassuring; their emergence hints at a deeper and more unsettling cultural problem.</p>]]>
       </description>
-      <source:markdown>[Code Wiki](https://codewiki.google/), a new AI tool by Google similar to [DeepWiki](https://deepwiki.org/), claims to generate a complete set of docs, including diagrams, from code repos. The landing page goes as far as saying “Stop documenting. No more stale docs. Ever”, a claim that made me stagger and reach for the nearest chair.
+      <source:markdown>[Code Wiki](https://codewiki.google/), a new AI tool by Google, claims to generate a complete set of docs, including diagrams, from code repos. The landing page goes as far as saying “Stop documenting. No more stale docs. Ever”, a claim that made me stagger and reach for the nearest chair.
 
 That these tools are laughably _bad_ isn’t reassuring; their emergence hints at a deeper and more unsettling cultural problem.</source:markdown>
       <guid>cid://https://passo.uno/ai-wikis-docs-teather-as-a-service/</guid>
@@ -269,6 +344,13 @@ sophisticated graphics.</source:markdown>
       <title>That Pornography Was for Personal Use</title>
       <link>https://onefoottsunami.com/2025/11/14/that-pornography-was-for-personal-use/</link>
       <guid>cid://https://onefoottsunami.com/?p=29448</guid>
+    </item>    <item>
+      <title>Open source funding in 2025</title>
+      <link>https://buttondown.com/blog/oss-pledge-2025</link>
+      <description>
+        <![CDATA[(Still) investing in the software that makes Buttondown possible]]>
+      </description>
+      <source:markdown>(Still) investing in the software that makes Buttondown possible</source:markdown>
     </item>    <item>
       <title>Friday Squid Blogging: Pilot Whales Eat a Lot of Squid</title>
       <link>https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-pilot-whales-eat-a-lot-of-squid.html</link>
