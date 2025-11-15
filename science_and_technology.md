@@ -28,5 +28,4 @@ title: Science and Technology
 
 # European Tech
 
-- [Heise Online](https://www.heise.de/rss/heise-atom.xml)
 - [Codeberg.org](https://blog.codeberg.org/feeds/all.atom.xml)
