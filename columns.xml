@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>16 Nov 25 10:12 -0800</lastBuildDate>
+    <lastBuildDate>16 Nov 25 14:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -141,6 +141,155 @@ As always, do give this release a try and open a [ticket](https://gitlab.haskell
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
     </item>    <item>
+      <title>yarrom pushed new project branch Options.Execution.Test at Felix Oliver Friedrich / Oberon A2</title>
+      <link>https://gitlab.inf.ethz.ch/felixf/oberon/-/commits/Options.Execution.Test</link>
+      <description>
+        <![CDATA[<p>
+        <strong>yarrom</strong>
+        <a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commits/Options.Execution.Test">(f3569dfd)</a>
+        <i>
+        at
+        16 Nov 22:22
+        </i>
+        </p>
+        <div class="blockquote"><p dir="auto">Execution test for Options.Mod</p></div>]]>
+      </description>
+      <source:markdown>**yarrom** [(f3569dfd)](https://gitlab.inf.ethz.ch/felixf/oberon/-/commits/Options.Execution.Test) _at_
+_16 Nov 22:22_
+
+Execution test for Options.Mod</source:markdown>
+      <guid>cid://tag:gitlab.inf.ethz.ch,2025-11-16:1888070</guid>
+    </item>    <item>
+      <title>Can I Write a Quick Blog Post? [en]</title>
+      <link>https://climbtothestars.org/archives/2025/11/16/can-i-write-a-quick-blog-post/</link>
+      <description>
+        <![CDATA[[en] This is often the question. In typical ADHD style, my difficulty getting started on something is only surpassed by my difficulty stopping something once it&#8217;s started. So, 9pm on Sunday night, tired tired tired, can I grab my keyboard and give you some news without still being up at midnight? I challenge myself. Mid-October, &#8230; <a href="https://climbtothestars.org/archives/2025/11/16/can-i-write-a-quick-blog-post/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Can I Write a Quick Blog Post? <span class='bb-lang'>[en]</span></span>"</span></a>]]>
+      </description>
+      <source:markdown>\[en\] This is often the question. In typical ADHD style, my difficulty getting started on something is only surpassed by my difficulty stopping something once it’s started. So, 9pm on Sunday night, tired tired tired, can I grab my keyboard and give you some news without still being up at midnight? I challenge myself. Mid-October, … [Continue reading &#34;Can I Write a Quick Blog Post? \[en\]&#34;](https://climbtothestars.org/archives/2025/11/16/can-i-write-a-quick-blog-post/)</source:markdown>
+      <guid>cid://https://climbtothestars.org/?p=10273</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m5rjdv4d3s2m</link>
+      <description>
+        <![CDATA[RISC OS is a fun, single user open source operating system. If you are looking for a cool platform to explore and write for here's an opportunity.
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>RISC OS is a fun, single user open source operating system. If you are looking for a cool platform to explore and write for here&#39;s an opportunity.
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m5rjdv4d3s2m</guid>
+    </item>    <item>
+      <title>yarrom pushed to project branch DuplicatesRemoval at Felix Oliver Friedrich / Oberon A2</title>
+      <link>https://gitlab.inf.ethz.ch/felixf/oberon/-/compare/f79dbc70853bc44e4ad375d231505f1649e45c00...34cd619847c339fe6ad71114621a5cf066264234</link>
+      <description>
+        <![CDATA[<p>
+        <strong>yarrom</strong>
+        <a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/compare/f79dbc70853bc44e4ad375d231505f1649e45c00...34cd619847c339fe6ad71114621a5cf066264234">(34cd6198)</a>
+        <i>
+        at
+        16 Nov 20:46
+        </i>
+        </p>
+        <div class="blockquote"><p dir="auto">Removal of duplicate tests and other sources</p></div>
+        <p>
+        <i>
+        ... and
+        4 more commits
+        </i>
+        </p>]]>
+      </description>
+      <source:markdown>**yarrom** [(34cd6198)](https://gitlab.inf.ethz.ch/felixf/oberon/-/compare/f79dbc70853bc44e4ad375d231505f1649e45c00...34cd619847c339fe6ad71114621a5cf066264234) _at_
+_16 Nov 20:46_
+
+Removal of duplicate tests and other sources
+
+_... and_
+_4 more commits_</source:markdown>
+      <guid>cid://tag:gitlab.inf.ethz.ch,2025-11-16:1888005</guid>
+    </item>    <item>
+      <title>My Discourse System (MDS)</title>
+      <link>http://scripting.com/2025/11/16/194215.html?title=myDiscourseSystemMds</link>
+      <description>
+        <![CDATA[<p><i>I wrote this as a <a href="https://doc.searls.com/2025/11/16/sun-day/#comment-45208">comment</a> on Doc's blog. </i></p>
+        <p>Doc, I’m working on a discourse system that works better than comments, imho. One thing it does is lets me use the full fidelity of the web instead of forcing me to type in yet another Inadequate Text Box (ITB) with none of the features of my blog editor.</p>
+        <p>I’m working on a Unified Text Theory (UTT) for the web. Instead of scattering Stupid Little Text Boxes (SLTBs) all over creation, let’s come up with a nice text router, that means our writing can be in one place, but through the magic of pointers, can appear to be in many places. (Actually there's nothing magical about it, pointers are very basic computer technology, when I learned to program on a <a href="https://en.wikipedia.org/wiki/PDP-11_architecture">PDP-11</a> in 1977 it very much had pointers.)</p>
+        <p>It’s mostly a matter of GOST (an acronym for Getting Our Shit Together).</p>
+        <p>All this is a preamble to say that my comment on your post can be read here.</p>
+        <p><a href="https://daveverse.org/2025/11/16/3096/">https://daveverse.org/2025/11/16/3096/</a></p>
+        <p>It’s also on scripting.com.</p>
+        <p>See how that works. You can’t really tell where it is, but if I make a change to it, somehow the change appears everywhere.</p>
+        <p>And I’m using my favorite editor to write. Not the dinky one provided by the web browser.</p>
+        <p>And of course this should be on my blog too. Damn. I’m still doing it.  </p>]]>
+      </description>
+      <source:markdown>_I wrote this as a [comment](https://doc.searls.com/2025/11/16/sun-day/#comment-45208) on Doc&#39;s blog._
+
+Doc, I’m working on a discourse system that works better than comments, imho. One thing it does is lets me use the full fidelity of the web instead of forcing me to type in yet another Inadequate Text Box (ITB) with none of the features of my blog editor.
+
+I’m working on a Unified Text Theory (UTT) for the web. Instead of scattering Stupid Little Text Boxes (SLTBs) all over creation, let’s come up with a nice text router, that means our writing can be in one place, but through the magic of pointers, can appear to be in many places. (Actually there&#39;s nothing magical about it, pointers are very basic computer technology, when I learned to program on a [PDP-11](https://en.wikipedia.org/wiki/PDP-11_architecture) in 1977 it very much had pointers.)
+
+It’s mostly a matter of GOST (an acronym for Getting Our Shit Together).
+
+All this is a preamble to say that my comment on your post can be read here.
+
+[https://daveverse.org/2025/11/16/3096/](https://daveverse.org/2025/11/16/3096/)
+
+It’s also on scripting.com.
+
+See how that works. You can’t really tell where it is, but if I make a change to it, somehow the change appears everywhere.
+
+And I’m using my favorite editor to write. Not the dinky one provided by the web browser.
+
+And of course this should be on my blog too. Damn. I’m still doing it.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/16/194215.html</guid>
+    </item>    <item>
+      <title>Upgrading to Raspberry Pi OS Trixie</title>
+      <link>https://smist08.wordpress.com/2025/11/16/upgrading-to-raspberry-pi-os-trixie/</link>
+      <description>
+        <![CDATA[Introduction I just finished the second editions of two of my books: Raspberry Pi Assembly Language Programming and RP2040 Assembly Language Programming, where one of the goals was to update the screenshots and descriptions of the operating system including the name change from Raspbian to Raspberry Pi OS. Of course as soon as the books [&#8230;]]]>
+      </description>
+      <source:markdown>Introduction I just finished the second editions of two of my books: Raspberry Pi Assembly Language Programming and RP2040 Assembly Language Programming, where one of the goals was to update the screenshots and descriptions of the operating system including the name change from Raspbian to Raspberry Pi OS. Of course as soon as the books \[…\]</source:markdown>
+      <guid>cid://http://smist08.wordpress.com/?p=3799</guid>
+    </item>    <item>
+      <title>yarrom pushed new project branch DuplicatesRemoval at Felix Oliver Friedrich / Oberon A2</title>
+      <link>https://gitlab.inf.ethz.ch/felixf/oberon/-/commits/DuplicatesRemoval</link>
+      <description>
+        <![CDATA[<p>
+        <strong>yarrom</strong>
+        <a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commits/DuplicatesRemoval">(f79dbc70)</a>
+        <i>
+        at
+        16 Nov 19:33
+        </i>
+        </p>
+        <div class="blockquote"><p dir="auto">Duplicate fonts (.ccg, .fnt, .bfnt, .ttf) removal</p></div>]]>
+      </description>
+      <source:markdown>**yarrom** [(f79dbc70)](https://gitlab.inf.ethz.ch/felixf/oberon/-/commits/DuplicatesRemoval) _at_
+_16 Nov 19:33_
+
+Duplicate fonts (.ccg, .fnt, .bfnt, .ttf) removal</source:markdown>
+      <guid>cid://tag:gitlab.inf.ethz.ch,2025-11-16:1887973</guid>
+    </item>    <item>
+      <title>Quoting Andrej Karpathy</title>
+      <link>https://simonwillison.net/2025/Nov/16/andrej-karpathy/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="https://x.com/karpathy/status/1990116666194456651"><p>With AI now, we are able to write new programs that we could never hope to write by hand before. We do it by specifying objectives (e.g. classification accuracy, reward functions), and we search the program space via gradient descent to find neural networks that work well against that objective.</p>
+        <p>This is my <a href="https://karpathy.medium.com/software-2-0-a64152b37c35">Software 2.0 blog post</a> from a while ago. In this new programming paradigm then, the new most predictive feature to look at is <strong>verifiability</strong>. If a task/job is verifiable, then it is optimizable directly or via reinforcement learning, and a neural net can be trained to work extremely well. It's about to what extent an AI can "practice" something. </p>
+        <p>The environment has to be resettable (you can start a new attempt), efficient (a lot attempts can be made), and rewardable (there is some automated process to reward any specific attempt that was made).</p></blockquote>
+        <p class="cite">&mdash; <a href="https://x.com/karpathy/status/1990116666194456651">Andrej Karpathy</a></p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/andrej-karpathy">andrej-karpathy</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>]]>
+      </description>
+      <source:markdown>&#62; With AI now, we are able to write new programs that we could never hope to write by hand before. We do it by specifying objectives (e.g. classification accuracy, reward functions), and we search the program space via gradient descent to find neural networks that work well against that objective.
+&#62;
+&#62; This is my [Software 2.0 blog post](https://karpathy.medium.com/software-2-0-a64152b37c35) from a while ago. In this new programming paradigm then, the new most predictive feature to look at is **verifiability**. If a task/job is verifiable, then it is optimizable directly or via reinforcement learning, and a neural net can be trained to work extremely well. It&#39;s about to what extent an AI can &#34;practice&#34; something.
+&#62;
+&#62; The environment has to be resettable (you can start a new attempt), efficient (a lot attempts can be made), and rewardable (there is some automated process to reward any specific attempt that was made).
+
+— [Andrej Karpathy](https://x.com/karpathy/status/1990116666194456651)
+
+Tags: [andrej-karpathy](https://simonwillison.net/tags/andrej-karpathy), [generative-ai](https://simonwillison.net/tags/generative-ai), [ai-agents](https://simonwillison.net/tags/ai-agents), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/16/andrej-karpathy/#atom-everything</guid>
+    </item>    <item>
       <link>http://scripting.com/2025/11/16.html#a155533</link>
       <description>
         <![CDATA[Follow this on Mastodon at @scripting@daveverse.org.]]>
@@ -171,9 +320,9 @@ anything amiss.</source:markdown>
     </item>    <item>
       <link>http://scripting.com/2025/11/16.html#a142346</link>
       <description>
-        <![CDATA[We ought to be thinking about a filtering system for feed readers based on loose instructions written by users, and shared on the web, to be parsed by our AI. Design your personal algorithm with an AI engine. Share the good ones with your friends, and have it work on the web, in any feed reader. There are ways to do that. If you're working on such a project, <a href="https://github.com/scripting/Scripting-News/issues/337">let's hook it up</a> to FeedLand. It does a lot of feed reading, and has a nice API for downstream feed readers. It's a good place for an AI-based filter.]]>
+        <![CDATA[We ought to be thinking about a filtering system for feed readers based on instructions written by users, and shared on the web, to be parsed by our AI. Design your personal algorithm with an AI engine. Share the good ones with your friends, and have it work on the web, in any feed reader. There are ways to do that. If you're working on such a project, <a href="https://github.com/scripting/Scripting-News/issues/337">let's hook it up</a> to FeedLand. It does a lot of feed reading, and has a nice API for downstream feed readers. It's a good place for an AI-based filter.]]>
       </description>
-      <source:markdown>We ought to be thinking about a filtering system for feed readers based on loose instructions written by users, and shared on the web, to be parsed by our AI. Design your personal algorithm with an AI engine. Share the good ones with your friends, and have it work on the web, in any feed reader. There are ways to do that. If you&#39;re working on such a project, [let&#39;s hook it up](https://github.com/scripting/Scripting-News/issues/337) to FeedLand. It does a lot of feed reading, and has a nice API for downstream feed readers. It&#39;s a good place for an AI-based filter.</source:markdown>
+      <source:markdown>We ought to be thinking about a filtering system for feed readers based on instructions written by users, and shared on the web, to be parsed by our AI. Design your personal algorithm with an AI engine. Share the good ones with your friends, and have it work on the web, in any feed reader. There are ways to do that. If you&#39;re working on such a project, [let&#39;s hook it up](https://github.com/scripting/Scripting-News/issues/337) to FeedLand. It does a lot of feed reading, and has a nice API for downstream feed readers. It&#39;s a good place for an AI-based filter.</source:markdown>
       <guid>cid://http://scripting.com/2025/11/16.html#a142346</guid>
     </item>    <item>
       <title>More Pluribus spoilage</title>
@@ -205,9 +354,9 @@ BTW, this post is the first one that&#39;s cross-posted to the [daveverse site](
       <title>Sun Day</title>
       <link>https://doc.searls.com/2025/11/16/sun-day/</link>
       <description>
-        <![CDATA[Dawn in Southern Indiana, and there isn&#39;t a cloud in the sky. And Hoosiers football remains amazing. I didn&#39;t get very far with Pluribus (it takes a lot to get me into any TV series), but I love what Dave recommends for AI chatbots: stop using the first-person singular pronoun. In other words, stop calling yourselves &#34;I.&#34; [&#8230;]]]>
+        <![CDATA[A brilliant thought experiment by Don Marti. Bonus link from Don that goes farther. Dawn in Southern Indiana, and there isn&#39;t a cloud in the sky. And Hoosiers football remains amazing. I didn&#39;t get very far with Pluribus (it takes a lot to get me into any TV series), but I love what Dave recommends for AI chatbots: [&#8230;]]]>
       </description>
-      <source:markdown>Dawn in Southern Indiana, and there isn&#39;t a cloud in the sky. And Hoosiers football remains amazing. I didn&#39;t get very far with Pluribus (it takes a lot to get me into any TV series), but I love what Dave recommends for AI chatbots: stop using the first-person singular pronoun. In other words, stop calling yourselves &#34;I.&#34; \[…\]</source:markdown>
+      <source:markdown>A brilliant thought experiment by Don Marti. Bonus link from Don that goes farther. Dawn in Southern Indiana, and there isn&#39;t a cloud in the sky. And Hoosiers football remains amazing. I didn&#39;t get very far with Pluribus (it takes a lot to get me into any TV series), but I love what Dave recommends for AI chatbots: \[…\]</source:markdown>
       <guid>cid://https://doc.searls.com/2025/11/16/sun-day/</guid>
     </item>    <item>
       <title>Trump hits a record low with political independents — in every state</title>

@@ -4,10 +4,26 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>16 Nov 25 10:12 -0800</lastBuildDate>
+    <lastBuildDate>16 Nov 25 14:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Annual day of remembrance held for road crash victims</title>
+      <link>https://www.rte.ie/news/ireland/2025/1116/1544307-day-of-remembrance/</link>
+      <description>
+        <![CDATA[A number of events took place across Ireland to mark the UN's World Day of Remembrance for Road Traffic Victims.]]>
+      </description>
+      <source:markdown>A number of events took place across Ireland to mark the UN&#39;s World Day of Remembrance for Road Traffic Victims.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/1116/1544307-day-of-remembrance/</guid>
+    </item>    <item>
+      <title>Troy Parrott&#39;s grandmother &#39;knew he was gonna do it&#39;</title>
+      <link>https://www.rte.ie/news/ireland/2025/1116/1544301-parrott-family-dublin/</link>
+      <description>
+        <![CDATA["Do you ever get a lump in your throat? He's just doing so good," said an emotional Josie Parrott this evening.]]>
+      </description>
+      <source:markdown>&#34;Do you ever get a lump in your throat? He&#39;s just doing so good,&#34; said an emotional Josie Parrott this evening.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/1116/1544301-parrott-family-dublin/</guid>
+    </item>    <item>
       <title>Netanyahu to oppose vote on Gaza stabilisation force</title>
       <link>https://www.rte.ie/news/middle-east/2025/1116/1544283-israel-gaza/</link>
       <description>
@@ -44,6 +60,28 @@
 [Read all](https://www.vaticannews.va/en/pope/news/2025-11/pope-leo-xiv-lunch-world-day-poor-paul-vi-hall.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/pope/news/2025-11/pope-leo-xiv-lunch-world-day-poor-paul-vi-hall.html</guid>
     </item>    <item>
+      <title>U.S. stations its most advanced aircraft carrier near Venezuela amid escalating show of force</title>
+      <link>https://www.cbc.ca/news/world/us-venezuela-aircraft-carrier-9.6980914?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/bfcaf7cd-bb09-40b8-8db5-7d5d0ee1c237,1763320576349/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C160%2C3000%2C1687%29%3BResize%3D%28620%29' alt='A large military aircraft carrier sails by a coast.' width='620' height='349' title='The USS Gerald R. Ford, one of the world&apos;s largest aircraft carriers, arrives in Halifax on Friday, Oct. 28, 2022. The United States Navy&apos;s most advanced aircraft carrier is on its first deployment, five years after it was commissioned into service. THE CANADIAN PRESS/Andrew Vaughan'/><p>Washington's most advanced aircraft carrier arrived in the Caribbean Sea on Sunday in a display of U.S. military power, raising questions about what the new influx of troops and weaponry could signal for the Trump administration's intentions in South America as it conducts military strikes against vessels suspected of transporting drugs.</p>]]>
+      </description>
+      <source:markdown>![A large military aircraft carrier sails by a coast.](https://i.cbc.ca/ais/bfcaf7cd-bb09-40b8-8db5-7d5d0ee1c237,1763320576349/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C160%2C3000%2C1687%29%3BResize%3D%28620%29)
+
+Washington&#39;s most advanced aircraft carrier arrived in the Caribbean Sea on Sunday in a display of U.S. military power, raising questions about what the new influx of troops and weaponry could signal for the Trump administration&#39;s intentions in South America as it conducts military strikes against vessels suspected of transporting drugs.</source:markdown>
+      <guid>cid://9.6980914</guid>
+    </item>    <item>
+      <title>Mexican government pursues second-shooter theory in 1994 political assassination that shook country</title>
+      <link>https://www.cbc.ca/news/world/mexico-colosio-shooter-9.6980661?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/6977ebe2-82eb-4d1e-bcf1-65d1398f6cbb,1763303607817/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1275%2C3040%2C1710%29%3BResize%3D%28620%29' alt='A man waves from a stage to the crowd' width='620' height='349' title='Luis Donaldo Colosio, on September 1, 1990, then president of Mexico&apos;s  Institutional Revolutionary Party, PRI, acknowledges applause at party a elelction.  '/><p>The March 23, 1994, death of Luis Donaldo Colosio, a reformer on the cusp of winning the Mexican presidency who promised a more just and democratic country, holds a space in the country's consciousness like the 1963 killing of President John F. Kennedy does in the United States. Federal authorities in Mexico recently arrested a 64-year-old man in Tijuana in connection with Colosio’s killing.
+        
+        </p>]]>
+      </description>
+      <source:markdown>![A man waves from a stage to the crowd](https://i.cbc.ca/ais/6977ebe2-82eb-4d1e-bcf1-65d1398f6cbb,1763303607817/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1275%2C3040%2C1710%29%3BResize%3D%28620%29)
+
+The March 23, 1994, death of Luis Donaldo Colosio, a reformer on the cusp of winning the Mexican presidency who promised a more just and democratic country, holds a space in the country&#39;s consciousness like the 1963 killing of President John F. Kennedy does in the United States. Federal authorities in Mexico recently arrested a 64-year-old man in Tijuana in connection with Colosio’s killing.</source:markdown>
+      <guid>cid://9.6980661</guid>
+    </item>    <item>
       <title>World Cup qualifier recap: Hungary 2-3 Ireland</title>
       <link>https://www.rte.ie/sport/soccer/2025/1116/1544239-world-cup-qualifier-hungary-v-ireland-updates/</link>
       <description>
@@ -67,6 +105,24 @@
       </description>
       <source:markdown>Rory McIlroy claimed his seventh Race to Dubai title but was edged out in a play-off by Matt Fitzpatrick at the season-ending DP World Tour Championship.</source:markdown>
       <guid>cid://https://www.rte.ie/sport/golf/2025/1116/1544265-fitzpatrick-edges-out-mcilroy-in-dubai-play-off/</guid>
+    </item>    <item>
+      <title>Lebanon: UN peacekeeping patrol targeted by Israeli tank, IDF blames ‘misidentification’</title>
+      <link>https://news.un.org/feed/view/en/story/2025/11/1166378</link>
+      <description>
+        <![CDATA[On Sunday, a foot patrol of the United Nations Interim Force in Lebanon (UNIFIL) was targeted by an Israeli army Merkava tank from a position established by Israel in Lebanese territory.]]>
+      </description>
+      <source:markdown>On Sunday, a foot patrol of the United Nations Interim Force in Lebanon (UNIFIL) was targeted by an Israeli army Merkava tank from a position established by Israel in Lebanese territory.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/17-07-2025-UNIFIL-peacekeeping-07.jpg/image560x340cropped.jpg" length="49577" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/11/1166378</guid>
+    </item>    <item>
+      <title>Ukraine faces ‘unprecedented housing crisis’</title>
+      <link>https://news.un.org/feed/view/en/story/2025/11/1166360</link>
+      <description>
+        <![CDATA[Ukraine is facing what has been described as an “unprecedented housing crisis” three and a half years after the full-scale invasion of the Eastern European country by Russia.]]>
+      </description>
+      <source:markdown>Ukraine is facing what has been described as an “unprecedented housing crisis” three and a half years after the full-scale invasion of the Eastern European country by Russia.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/17-10-2025-UNICEF-Ukraine-02.jpg/image560x340cropped.jpg" length="49102" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/11/1166360</guid>
     </item>    <item>
       <title>Shock and sadness as five &#39;precious young lives&#39; lost</title>
       <link>https://www.rte.ie/news/2025/1116/1544245-dundalk-crash-gardai/</link>
@@ -440,7 +496,7 @@ Iran confirmed on Saturday its Revolutionary Guards had seized a tanker in Gulf 
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/15-11-2025-gaza-cleanup3_2.png/image560x340cropped.jpg" length="42975" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/11/1166377</guid>
     </item>    <item>
-      <title>‘When finance flows, ambition grows”: COP30’s call for action</title>
+      <title>‘When finance flows, ambition grows’: COP30’s call for action</title>
       <link>https://news.un.org/feed/view/en/story/2025/11/1166376</link>
       <description>
         <![CDATA[In Belém, Brazil, as the world turns its eyes to the Amazon where COP30 has been underway for the past week, one question looms large: can climate finance move from pledge to lifeline?]]>
