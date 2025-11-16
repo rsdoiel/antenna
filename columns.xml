@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>16 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>16 Nov 25 10:12 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -140,6 +140,58 @@ comprise this release.
 As always, do give this release a try and open a [ticket](https://gitlab.haskell.org/ghc/ghc/-/issues/new) if you see
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/16.html#a155533</link>
+      <description>
+        <![CDATA[Follow this on Mastodon at @scripting@daveverse.org.]]>
+      </description>
+      <source:markdown>Follow this on Mastodon at @scripting@daveverse.org.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/16.html#a155533</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/16.html#a154458</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2025/11/16/tltb.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Here's a <a href="http://scripting.com/images/2025/11/16/daveverseScreenShot.png">screen shot</a> of what the <a href="https://daveverse.org/">Daveverse</a> home page looks like. It's got all the stuff from scripting.com. It's not a perfect rendering of my Old School blog, I have more features, but it's pretty good. I'll be testing this out and thinking about it now, as we go forward. But here's the milestone: I have a WordPress place to hook into now that has pretty much everything I write outside the <a href="http://scripting.com/2024/01/14/031201.html">tiny little text boxes</a>. What I write in WordLand or Drummer, the two places I write for real. The rest of it is throw away nonsense, a waste of time. No one reads anything, everyone fighting for attention.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2025/11/16/tltb.png)Here&#39;s a [screen shot](http://scripting.com/images/2025/11/16/daveverseScreenShot.png) of what the [Daveverse](https://daveverse.org/) home page looks like. It&#39;s got all the stuff from scripting.com. It&#39;s not a perfect rendering of my Old School blog, I have more features, but it&#39;s pretty good. I&#39;ll be testing this out and thinking about it now, as we go forward. But here&#39;s the milestone: I have a WordPress place to hook into now that has pretty much everything I write outside the [tiny little text boxes](http://scripting.com/2024/01/14/031201.html). What I write in WordLand or Drummer, the two places I write for real. The rest of it is throw away nonsense, a waste of time. No one reads anything, everyone fighting for attention.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/16.html#a154458</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/16.html#a153449</link>
+      <description>
+        <![CDATA[I was going to tell you how much I like the Lever podcast, and wanted to recommend it, but they make it impossible to find the RSS url for the feed. The usual hacks don't seem to work. Since I'm subscribed to it on Pocket Casts, I thought I might be able to find the URL on their <a href="https://pocketcasts.com/">web interface</a>, and it's possible I might have <a href="https://pocketcasts.com/podcast/lever-time/0b05d150-ba7d-013a-d90c-0acc26574db2">found</a> it that way. Nope. It just points to the web page for the podcast, which did not have the RSS feed. I know they must have one. I was looking for a way to download my OPML file, would be nice if you could do it from the desktop.]]>
+      </description>
+      <source:markdown>I was going to tell you how much I like the Lever podcast, and wanted to recommend it, but they make it impossible to find the RSS url for the feed. The usual hacks don&#39;t seem to work. Since I&#39;m subscribed to it on Pocket Casts, I thought I might be able to find the URL on their [web interface](https://pocketcasts.com/), and it&#39;s possible I might have [found](https://pocketcasts.com/podcast/lever-time/0b05d150-ba7d-013a-d90c-0acc26574db2) it that way. Nope. It just points to the web page for the podcast, which did not have the RSS feed. I know they must have one. I was looking for a way to download my OPML file, would be nice if you could do it from the desktop.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/16.html#a153449</guid>
+    </item>    <item>
+      <link>https://snyder.substack.com/p/the-grift-bubble</link>
+      <description>
+        <![CDATA[<p>The Grift Bubble.</p>]]>
+      </description>
+      <source:markdown>The Grift Bubble.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/16/1925/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/16.html#a142346</link>
+      <description>
+        <![CDATA[We ought to be thinking about a filtering system for feed readers based on loose instructions written by users, and shared on the web, to be parsed by our AI. Design your personal algorithm with an AI engine. Share the good ones with your friends, and have it work on the web, in any feed reader. There are ways to do that. If you're working on such a project, <a href="https://github.com/scripting/Scripting-News/issues/337">let's hook it up</a> to FeedLand. It does a lot of feed reading, and has a nice API for downstream feed readers. It's a good place for an AI-based filter.]]>
+      </description>
+      <source:markdown>We ought to be thinking about a filtering system for feed readers based on loose instructions written by users, and shared on the web, to be parsed by our AI. Design your personal algorithm with an AI engine. Share the good ones with your friends, and have it work on the web, in any feed reader. There are ways to do that. If you&#39;re working on such a project, [let&#39;s hook it up](https://github.com/scripting/Scripting-News/issues/337) to FeedLand. It does a lot of feed reading, and has a nice API for downstream feed readers. It&#39;s a good place for an AI-based filter.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/16.html#a142346</guid>
+    </item>    <item>
+      <title>More Pluribus spoilage</title>
+      <link>http://scripting.com/2025/11/16/135655.html?title=morePluribusSpoilage</link>
+      <description>
+        <![CDATA[<p><img class="imgRightMargin" src="https://imgs.scripting.com/2025/11/15/pluribus.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Spoilers follow. Like <a href="https://doc.searls.com/2025/11/16/sun-day/">Doc</a>, I have trouble getting into TV series, but not <a href="https://en.wikipedia.org/wiki/Pluribus_(TV_series)">Pluribus</a>, probably because it came from the <a href="https://en.wikipedia.org/wiki/Vince_Gilligan">showrunner</a> of Breaking Bad and Better Call Saul, two series that I have watched from beginning to end at least three times. </p>
+        <p>The star of Pluribus, <a href="https://en.wikipedia.org/wiki/Rhea_Seehorn">Rhea Seahorn</a>, was my favorite in <a href="https://en.wikipedia.org/wiki/Better_Call_Saul">Better Call Saul</a>, as Kim Wexler. So I expected a continuation of those shows, and in some sense Pluribus <i>is</i> much like them, but the main character Carol, is nothing like Kim -- who is by far the coolest character in any of the shows, and that's saying a lot. </p>
+        <p>That's okay because the <i>sweetest</i> character yet in a Vince Gilligan comedy (all these shows are comedies btw, even though the plots are super heavy), is Carol's sidekick, Zosia, played by <a href="https://en.wikipedia.org/wiki/Karolina_Wydra">Karolina Wydra</a>. She's basically the voice of the Others, but the illusion is so alluring, one character in the show has already (understandably) fallen in love with her. And we know that Carol has formed an attachment too, despite her best efforts to hate her. ;-)</p>
+        <p>BTW, this post is the first one that's cross-posted to the <a href="https://daveverse.org/2025/11/16/3096/">daveverse site</a>. There still are some things to fix, but this is a nice piece of software. Basically implements what I've been calling <a href="https://daytona.scripting.com/search?q=%22inbound%20rss%22">Inbound RSS</a>, not for a social web app, rather for WordPress (which in my mind is becoming more of a social web system every day).</p>]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2025/11/15/pluribus.png)Spoilers follow. Like [Doc](https://doc.searls.com/2025/11/16/sun-day/), I have trouble getting into TV series, but not [Pluribus](https://en.wikipedia.org/wiki/Pluribus_\(TV_series\)), probably because it came from the [showrunner](https://en.wikipedia.org/wiki/Vince_Gilligan) of Breaking Bad and Better Call Saul, two series that I have watched from beginning to end at least three times.
+
+The star of Pluribus, [Rhea Seahorn](https://en.wikipedia.org/wiki/Rhea_Seehorn), was my favorite in [Better Call Saul](https://en.wikipedia.org/wiki/Better_Call_Saul), as Kim Wexler. So I expected a continuation of those shows, and in some sense Pluribus _is_ much like them, but the main character Carol, is nothing like Kim -- who is by far the coolest character in any of the shows, and that&#39;s saying a lot.
+
+That&#39;s okay because the _sweetest_ character yet in a Vince Gilligan comedy (all these shows are comedies btw, even though the plots are super heavy), is Carol&#39;s sidekick, Zosia, played by [Karolina Wydra](https://en.wikipedia.org/wiki/Karolina_Wydra). She&#39;s basically the voice of the Others, but the illusion is so alluring, one character in the show has already (understandably) fallen in love with her. And we know that Carol has formed an attachment too, despite her best efforts to hate her. ;-)
+
+BTW, this post is the first one that&#39;s cross-posted to the [daveverse site](https://daveverse.org/2025/11/16/3096/). There still are some things to fix, but this is a nice piece of software. Basically implements what I&#39;ve been calling [Inbound RSS](https://daytona.scripting.com/search?q=%22inbound%20rss%22), not for a social web app, rather for WordPress (which in my mind is becoming more of a social web system every day).</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/16/135655.html</guid>
     </item>    <item>
       <title>‘The Gambler’</title>
       <link>https://steady.substack.com/p/the-gambler</link>
@@ -2351,7 +2403,7 @@ I’m definitely going to be sent on a side quest.</source:markdown>
         <![CDATA[The Andy Borowitz Show]]>
       </description>
       <source:markdown>The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/178731505/bdb07dcc1858478fe9d29bfa75bcb907.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/178731505/596630c483122c26da082c47fcea9bfc.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.borowitzreport.com/p/she-says-trump-raped-her-when-she</guid>
     </item>    <item>
       <link>http://scripting.com/2025/11/13.html#a165641</link>
@@ -4873,7 +4925,7 @@ This is a good night.
         <![CDATA[The Andy Borowitz Show]]>
       </description>
       <source:markdown>The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/177939872/178b6aa8eb702d5aeb20969ce3ac167f.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/177939872/74f9f092a34e59addc4d1eb3bb5e9271.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.borowitzreport.com/p/cartoonists-take-down-a-tyrant</guid>
     </item>    <item>
       <title>Insights Into Successfully Rebranding Your Podcast</title>
@@ -7910,7 +7962,7 @@ As usual, you can also use this squid post to talk about the security stories in
         <![CDATA[Listen now | The Andy Borowitz Show]]>
       </description>
       <source:markdown>Listen now \| The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/178201642/c5f3fde1ee3e6059ddc476bb88780888.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/178201642/85e17173bc785fb06894c90370f65871.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.borowitzreport.com/p/blue-tsunami-special</guid>
     </item>    <item>
       <title>Published on Citation Needed: &#34;Issue 96 – Redefining solvency&#34;</title>
@@ -10517,7 +10569,7 @@ As authoritarianism is rising around the world, AI-generated “slop” is overw
         <![CDATA[Watch now | The Andy Borowitz Show]]>
       </description>
       <source:markdown>Watch now \| The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/177901928/cbd521a355bf203d47512219f07dd1f4.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/177901928/5e8b1c7a8080ce60e49b3f31faa00bac.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.borowitzreport.com/p/adam-kinzinger-doesnt-hold-back</guid>
     </item>    <item>
       <title>A Brief History of American Socialism</title>
@@ -16832,7 +16884,7 @@ He&#39;s very much [alive](https://en.wikipedia.org/wiki/Philippe_Kahn) as far a
         <![CDATA[Listen now | The Andy Borowitz Show]]>
       </description>
       <source:markdown>Listen now \| The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/177454182/f1eeb3e66df6e0cdceba5c6cc2be0a51.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/177454182/5e9f70380c850b62714e754fc284c6fe.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.borowitzreport.com/p/a-national-guardsman-stands-up-to</guid>
     </item>    <item>
       <title>In conversation with Zohran Mamdani</title>

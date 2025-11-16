@@ -4,7 +4,7 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>16 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>16 Nov 25 10:12 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -15,6 +15,23 @@
       </description>
       <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster&#39;s Village.**</source:markdown>
       <guid>cid://https://sprudge.com/?p=472737</guid>
+    </item>    <item>
+      <title>Thanksgiving Dessert Recipes</title>
+      <link>https://www.closetcooking.com/thanksgiving-desserts/</link>
+      <description>
+        <![CDATA[<div><img src="https://www.closetcooking.com/wp-content/uploads/2017/11/Thanksgiving-Dessert-Recipes-1.jpg"/></div>
+        <p>The best dessert recipes for an amazing Thanksgiving including pies, cakes, tarts, chocolate, pumpkin, apples, etc. The turkey may be the star of the show but it&#8217;s definitely the dessert that gets all the attention! I often like to go all out with the dessert and with falls harvest around there are plenty of options....</p>
+        <p><a class="more-link" href="https://www.closetcooking.com/thanksgiving-desserts/">Read On &#8594;</a></p>
+        <p>The post <a href="https://www.closetcooking.com/thanksgiving-desserts/">Thanksgiving Dessert Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://www.closetcooking.com/wp-content/uploads/2017/11/Thanksgiving-Dessert-Recipes-1.jpg)
+
+The best dessert recipes for an amazing Thanksgiving including pies, cakes, tarts, chocolate, pumpkin, apples, etc. The turkey may be the star of the show but it’s definitely the dessert that gets all the attention! I often like to go all out with the dessert and with falls harvest around there are plenty of options....
+
+[Read On →](https://www.closetcooking.com/thanksgiving-desserts/)
+
+The post [Thanksgiving Dessert Recipes](https://www.closetcooking.com/thanksgiving-desserts/) appeared first on [Closet Cooking](https://www.closetcooking.com).</source:markdown>
+      <guid>cid://https://www.closetcooking.com/2017/11/21/thanksgiving-desserts/</guid>
     </item>    <item>
       <title>The Presto Electric Pressure Canner, Tested and Reviewed by a Chef</title>
       <link>https://www.tasteofhome.com/article/presto-electric-pressure-canner/</link>
