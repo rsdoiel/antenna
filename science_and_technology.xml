@@ -4,10 +4,18 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>15 Nov 25 14:09 -0800</lastBuildDate>
+    <lastBuildDate>16 Nov 25 06:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>NASA, European Partners Set to Launch Sentinel-6B Earth Satellite</title>
+      <link>https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6b/nasa-european-partners-set-to-launch-sentinel-6b-earth-satellite/</link>
+      <description>
+        <![CDATA[Set to track sea levels across more than 90% of Earth’s ocean, the mission must first get into orbit. Here’s what to expect.&#160;&#160; Sentinel-6B, an ocean-tracking satellite jointly developed by NASA and ESA (European Space Agency), is ready to roll out to the launch pad, packed into the payload fairing of a SpaceX Falcon 9 [&#8230;]]]>
+      </description>
+      <source:markdown>Set to track sea levels across more than 90% of Earth’s ocean, the mission must first get into orbit. Here’s what to expect.   Sentinel-6B, an ocean-tracking satellite jointly developed by NASA and ESA (European Space Agency), is ready to roll out to the launch pad, packed into the payload fairing of a SpaceX Falcon 9 \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=927124</guid>
+    </item>    <item>
       <title>AI Code Doesn’t Survive in Production: Here’s Why</title>
       <link>https://thenewstack.io/ai-code-doesnt-survive-in-production-heres-why/</link>
       <description>
@@ -15075,211 +15083,6 @@ The post [Ken Thompson Recalls Unix’s Rowdy, Lock-Picking Origins](https://the
       </description>
       <source:markdown>In den USA bedeutet schneller Verkehr vor allem Fliegen. Dabei würden sich Schnellzüge durchaus lohnen. Doch die wenigen Projekte haben es schwer.</source:markdown>
       <guid>cid://http://heise.de/-10857151</guid>
-    </item>    <item>
-      <title>Why PyTorch Won</title>
-      <link>https://thenewstack.io/why-pytorch-won/</link>
-      <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/359ddfa9-thumbnail-19-1024x576.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Luca Antiga — CTO of Lightning AI and head of the PyTorch Foundation’s Technical Advisory Council — discussed the evolution and influence of PyTorch. Originally designed to be “Pythonic” and researcher-friendly, PyTorch’s ease of debugging and fast iteration helped it spread from academia to industry." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/359ddfa9-thumbnail-19.png" /><p>During this week&#8217;s PyTorch Conference 2025 in San Francisco, I sat down with Luca Antiga, the head of the Technical</p>
-        <p>The post <a href="https://thenewstack.io/why-pytorch-won/">Why PyTorch Won</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
-      </description>
-      <source:markdown>![Luca Antiga — CTO of Lightning AI and head of the PyTorch Foundation’s Technical Advisory Council — discussed the evolution and influence of PyTorch. Originally designed to be “Pythonic” and researcher-friendly, PyTorch’s ease of debugging and fast iteration helped it spread from academia to industry.](https://cdn.thenewstack.io/media/2025/10/359ddfa9-thumbnail-19-1024x576.png)
-
-During this week’s PyTorch Conference 2025 in San Francisco, I sat down with Luca Antiga, the head of the Technical
-
-The post [Why PyTorch Won](https://thenewstack.io/why-pytorch-won/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
-      <guid>cid://https://thenewstack.io/?p=22804314</guid>
-    </item>    <item>
-      <title>AWS Adds Scope 3 Emissions Data to Customer Carbon Footprint Tool</title>
-      <link>https://thenewstack.io/aws-adds-scope-3-emissions-data-to-customer-carbon-footprint-tool/</link>
-      <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/26e44b02-aws-carbon-footprint-tool-2-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="View of Earth from space. AWS has updated its Custom Carbon Footprint Tool." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/26e44b02-aws-carbon-footprint-tool-2.jpg" /><p>has announced the second major update this year to its Customer Carbon Footprint Tool (CCFT), adding Scope 3 emissions data</p>
-        <p>The post <a href="https://thenewstack.io/aws-adds-scope-3-emissions-data-to-customer-carbon-footprint-tool/">AWS Adds Scope 3 Emissions Data to Customer Carbon Footprint Tool</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
-      </description>
-      <source:markdown>![View of Earth from space. AWS has updated its Custom Carbon Footprint Tool.](https://cdn.thenewstack.io/media/2025/10/26e44b02-aws-carbon-footprint-tool-2-1024x576.jpg)
-
-has announced the second major update this year to its Customer Carbon Footprint Tool (CCFT), adding Scope 3 emissions data
-
-The post [AWS Adds Scope 3 Emissions Data to Customer Carbon Footprint Tool](https://thenewstack.io/aws-adds-scope-3-emissions-data-to-customer-carbon-footprint-tool/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
-      <guid>cid://https://thenewstack.io/?p=22804340</guid>
-    </item>    <item>
-      <title>Top 10: Die besten Saugroboter im Test – Roborock, Ecovacs, Eufy, Dreame &#38; Co.</title>
-      <link>https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-saugroboter-im-test-roborock-ecovacs-eufy-dreame-und-co/2dxtvlp?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Saugroboter mit Wischfunktion erleichtern den Alltag – doch nicht jedes Modell überzeugt. Wir zeigen nur die besten Modelle mit Absaug- oder Reinigungsstation.]]>
-      </description>
-      <source:markdown>Saugroboter mit Wischfunktion erleichtern den Alltag – doch nicht jedes Modell überzeugt. Wir zeigen nur die besten Modelle mit Absaug- oder Reinigungsstation.</source:markdown>
-      <guid>cid://http://heise.de/-10899839</guid>
-    </item>    <item>
-      <title>Große Zahlen und kleine, effektive Veränderungen – Fotonews der Woche 43/2025</title>
-      <link>https://www.heise.de/news/Grosse-Zahlen-und-kleine-effektive-Veraenderungen-Fotonews-der-Woche-43-2025-10865889.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Canon erreicht 170 Millionen Objektive, Leica bricht mit einer Tradition und Fujifilm bringt mit der X-T30 III eine optimierte Variante des Einsteigermodells.]]>
-      </description>
-      <source:markdown>Canon erreicht 170 Millionen Objektive, Leica bricht mit einer Tradition und Fujifilm bringt mit der X-T30 III eine optimierte Variante des Einsteigermodells.</source:markdown>
-      <guid>cid://http://heise.de/-10865889</guid>
-    </item>    <item>
-      <title>Vercel Marketplace Offers Agentic AI Building Blocks</title>
-      <link>https://thenewstack.io/vercel-marketplace-offers-agentic-ai-building-blocks/</link>
-      <description>
-        <![CDATA[<img width="1024" height="577" src="https://cdn.thenewstack.io/media/2024/04/d8b458d6-dev_news_img-2-2-1024x577.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Dev News logo" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2024/04/d8b458d6-dev_news_img-2-2.png" /><p>Vercel introduced Agents and Services to its marketplace this week, enabling developers to add AI-powered workflows to a project through</p>
-        <p>The post <a href="https://thenewstack.io/vercel-marketplace-offers-agentic-ai-building-blocks/">Vercel Marketplace Offers Agentic AI Building Blocks</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
-      </description>
-      <source:markdown>![Dev News logo](https://cdn.thenewstack.io/media/2024/04/d8b458d6-dev_news_img-2-2-1024x577.png)
-
-Vercel introduced Agents and Services to its marketplace this week, enabling developers to add AI-powered workflows to a project through
-
-The post [Vercel Marketplace Offers Agentic AI Building Blocks](https://thenewstack.io/vercel-marketplace-offers-agentic-ai-building-blocks/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
-      <guid>cid://https://thenewstack.io/?p=22804244</guid>
-    </item>    <item>
-      <title>Chipmarkt: Xiaomi-Chef stimmt Smartphone-Kunden auf teure Zeiten ein</title>
-      <link>https://www.heise.de/news/Xiaomi-Chef-Steigende-Chipkosten-auch-bei-Smartphone-Preisen-spuerbar-10899894.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Der chinesische Smartphone-Hersteller erklärt seine aktuelle Preispolitik. Ursächlich dürfte auch der neue Fokus entsprechender Lieferanten sein.]]>
-      </description>
-      <source:markdown>Der chinesische Smartphone-Hersteller erklärt seine aktuelle Preispolitik. Ursächlich dürfte auch der neue Fokus entsprechender Lieferanten sein.</source:markdown>
-      <guid>cid://http://heise.de/-10899894</guid>
-    </item>    <item>
-      <title>Microsoft Teams kann ab Dezember Büroanwesenheit erfassen</title>
-      <link>https://www.heise.de/news/Microsoft-Teams-kann-ab-Dezember-Bueroanwesenheit-erfassen-10899898.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Microsoft Teams erschwert die Anwesenheitsfiktion im Homeoffice: Mit einem Update wird die Plattform den Standort eines Mitarbeiters übers Büro-WLAN verfolgen.]]>
-      </description>
-      <source:markdown>Microsoft Teams erschwert die Anwesenheitsfiktion im Homeoffice: Mit einem Update wird die Plattform den Standort eines Mitarbeiters übers Büro-WLAN verfolgen.</source:markdown>
-      <guid>cid://http://heise.de/-10899898</guid>
-    </item>    <item>
-      <title>How to Manage the Growing AI Sprawl in Your SaaS Stack</title>
-      <link>https://thenewstack.io/how-to-manage-the-growing-ai-sprawl-in-your-saas-stack/</link>
-      <description>
-        <![CDATA[<img width="1024" height="683" src="https://cdn.thenewstack.io/media/2025/10/3e0782a5-matias-malka-tzih-fdkzvy-unsplash-1024x683.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/3e0782a5-matias-malka-tzih-fdkzvy-unsplash-scaled.jpg" /><p>The enterprise software landscape is experiencing an unprecedented transformation as AI capabilities become standard features across virtually every SaaS platform.</p>
-        <p>The post <a href="https://thenewstack.io/how-to-manage-the-growing-ai-sprawl-in-your-saas-stack/">How to Manage the Growing AI Sprawl in Your SaaS Stack</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
-      </description>
-      <source:markdown>![](https://cdn.thenewstack.io/media/2025/10/3e0782a5-matias-malka-tzih-fdkzvy-unsplash-1024x683.jpg)
-
-The enterprise software landscape is experiencing an unprecedented transformation as AI capabilities become standard features across virtually every SaaS platform.
-
-The post [How to Manage the Growing AI Sprawl in Your SaaS Stack](https://thenewstack.io/how-to-manage-the-growing-ai-sprawl-in-your-saas-stack/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
-      <guid>cid://https://thenewstack.io/?p=22804097</guid>
-    </item>    <item>
-      <title>Mähroboter Hookii Neomow X im Test: auch ohne GPS präzise</title>
-      <link>https://www.heise.de/bestenlisten/testbericht/maehroboter-hookii-neomow-x-im-test-auch-ohne-gps-praezise/8xcgse9?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Drahtloses Mähen per Lidar und Kamera auf großen Flächen bis 4000 m², einfache App mit allen wichtigen Funktionen – das ist der Hookii Neomow X im Test.]]>
-      </description>
-      <source:markdown>Drahtloses Mähen per Lidar und Kamera auf großen Flächen bis 4000 m², einfache App mit allen wichtigen Funktionen – das ist der Hookii Neomow X im Test.</source:markdown>
-      <guid>cid://http://heise.de/-10899835</guid>
-    </item>    <item>
-      <title>Ditch Python: 5 JavaScript Libraries for Machine Learning</title>
-      <link>https://thenewstack.io/ditch-python-5-javascript-libraries-for-machine-learning/</link>
-      <description>
-        <![CDATA[<img width="1024" height="573" src="https://cdn.thenewstack.io/media/2025/10/d934ed3d-javascriptlibrariesforml-1024x573.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="A library with fancy arches above the book shelves." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/d934ed3d-javascriptlibrariesforml.jpg" /><p>Python has long been the dominant language for training and using machine learning models, but that&#8217;s changing. &#8220;We&#8217;re bringing machine</p>
-        <p>The post <a href="https://thenewstack.io/ditch-python-5-javascript-libraries-for-machine-learning/">Ditch Python: 5 JavaScript Libraries for Machine Learning</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
-      </description>
-      <source:markdown>![A library with fancy arches above the book shelves.](https://cdn.thenewstack.io/media/2025/10/d934ed3d-javascriptlibrariesforml-1024x573.jpg)
-
-Python has long been the dominant language for training and using machine learning models, but that’s changing. “We’re bringing machine
-
-The post [Ditch Python: 5 JavaScript Libraries for Machine Learning](https://thenewstack.io/ditch-python-5-javascript-libraries-for-machine-learning/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
-      <guid>cid://https://thenewstack.io/?p=22804061</guid>
-    </item>    <item>
-      <title>&#34;Halo: Campaign Evolved&#34; 2026 als Combat-Remake für Playstation 5</title>
-      <link>https://www.heise.de/news/Halo-Campaign-Evolved-2026-als-Combat-Remake-fuer-Playstation-5-10899865.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Einer der wichtigsten Exklusivtitel der ersten Xbox kommt nach 25 Jahren zum Konkurrenten Sony. Die Grafik wird runderneuert, Multiplayer eingeschränkt.]]>
-      </description>
-      <source:markdown>Einer der wichtigsten Exklusivtitel der ersten Xbox kommt nach 25 Jahren zum Konkurrenten Sony. Die Grafik wird runderneuert, Multiplayer eingeschränkt.</source:markdown>
-      <guid>cid://http://heise.de/-10899865</guid>
-    </item>    <item>
-      <title>heise-Angebot: iX-Workshop IT-Grundschutz-Praktiker mit Zertifikat</title>
-      <link>https://www.heise.de/news/iX-Workshop-IT-Grundschutz-Praktiker-mit-Zertifikat-10749437.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Erhalten Sie einen umfassenden Einblick in die Praxis der IT-Grundschutz-Methodik des BSI. Mit anschließender Prüfung und Zertifizierung.]]>
-      </description>
-      <source:markdown>Erhalten Sie einen umfassenden Einblick in die Praxis der IT-Grundschutz-Methodik des BSI. Mit anschließender Prüfung und Zertifizierung.</source:markdown>
-      <guid>cid://http://heise.de/-10749437</guid>
-    </item>    <item>
-      <title>Eindrucksvolle Aufnahmen: Die Bilder der Woche  43</title>
-      <link>https://www.heise.de/news/Eindrucksvolle-Aufnahmen-Die-Bilder-der-Woche-43-10854754.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Ein Blick auf Momente, in denen Licht, Form und Stimmung zu einer besonderen Komposition verschmelzen.]]>
-      </description>
-      <source:markdown>Ein Blick auf Momente, in denen Licht, Form und Stimmung zu einer besonderen Komposition verschmelzen.</source:markdown>
-      <guid>cid://http://heise.de/-10854754</guid>
-    </item>    <item>
-      <title>Trotz Chipkrise: Vorerst keine Produktionsstopps bei VW</title>
-      <link>https://www.heise.de/news/Trotz-Chipkrise-Vorerst-keine-Produktionsstopps-bei-VW-10872136.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[VW kann trotz der Lieferprobleme bei Halbleitern vorerst weiter produzieren. Zumindest nächste Woche reichen die Chips noch.]]>
-      </description>
-      <source:markdown>VW kann trotz der Lieferprobleme bei Halbleitern vorerst weiter produzieren. Zumindest nächste Woche reichen die Chips noch.</source:markdown>
-      <guid>cid://http://heise.de/-10872136</guid>
-    </item>    <item>
-      <title>MPs urge government to stop Britain&#39;s phone theft wave through tech</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/25/uk_committee_phone_theft/</link>
-      <description>
-        <![CDATA[<h4>Committee says Apple, Google, and Samsung could render stolen handsets worthless if compelled to act</h4> <p>The UK&#39;s Home Secretary should use her powers to push the tech industry to deploy stronger technical measures against the surge in phone thefts, according to a House of Commons committee.…</p>]]>
-      </description>
-      <source:markdown>#### Committee says Apple, Google, and Samsung could render stolen handsets worthless if compelled to act
-
-The UK&#39;s Home Secretary should use her powers to push the tech industry to deploy stronger technical measures against the surge in phone thefts, according to a House of Commons committee.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242650</guid>
-    </item>    <item>
-      <title>heise-Angebot: Sinnliche Fotografie: c&#39;t Fotografie 06 / 2025</title>
-      <link>https://www.heise.de/news/Sinnliche-Fotografie-c-t-Fotografie-06-2025-10828252.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Zwischen Licht und Gefühl: Fotografin Nadine Wisser zeigt, wie sinnliche Boudoir-Aufnahmen durch Nähe und Vertrauen entstehen. Technik allein reicht nicht aus.]]>
-      </description>
-      <source:markdown>Zwischen Licht und Gefühl: Fotografin Nadine Wisser zeigt, wie sinnliche Boudoir-Aufnahmen durch Nähe und Vertrauen entstehen. Technik allein reicht nicht aus.</source:markdown>
-      <guid>cid://http://heise.de/-10828252</guid>
-    </item>    <item>
-      <title>Developer Snapshots: Kleinere News der Woche</title>
-      <link>https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-10815349.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Die Übersicht enthält kleine, aber interessante Meldungen zu Grafana Tempo, Visual Studio 2026, Accessibility, GitHub, Valkey, PyTorch, Slint und Django.]]>
-      </description>
-      <source:markdown>Die Übersicht enthält kleine, aber interessante Meldungen zu Grafana Tempo, Visual Studio 2026, Accessibility, GitHub, Valkey, PyTorch, Slint und Django.</source:markdown>
-      <guid>cid://http://heise.de/-10815349</guid>
-    </item>    <item>
-      <title>WSUS-Lücke: Bereits Attacken beobachtet</title>
-      <link>https://www.heise.de/news/WSUS-Luecke-Bereits-Attacken-beobachtet-10899799.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Microsoft hat am Freitagmorgen Notfallupdates für eine WSUS-Sicherheitslücke veröffentlicht. Die wird nun im Internet angegriffen.]]>
-      </description>
-      <source:markdown>Microsoft hat am Freitagmorgen Notfallupdates für eine WSUS-Sicherheitslücke veröffentlicht. Die wird nun im Internet angegriffen.</source:markdown>
-      <guid>cid://http://heise.de/-10899799</guid>
-    </item>    <item>
-      <title>Mixed Reality 2025: &#34;Laser Dance&#34; zeigt, was heute technisch möglich ist</title>
-      <link>https://www.heise.de/tests/Neue-Messlatte-fuer-Mixed-Reality-Laser-Dance-auf-Meta-Quest-3-ausprobiert-10845762.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA["Laser Dance" demonstriert den Fortschritt der Mixed Reality auf Meta Quest 3. Wir haben die Laserbarrieren durchquert und mit dem Entwickler gesprochen.]]>
-      </description>
-      <source:markdown>&#34;Laser Dance&#34; demonstriert den Fortschritt der Mixed Reality auf Meta Quest 3. Wir haben die Laserbarrieren durchquert und mit dem Entwickler gesprochen.</source:markdown>
-      <guid>cid://http://heise.de/-10845762</guid>
-    </item>    <item>
-      <title>Kinder für Technik begeistern: Gadgets, Plattformen, Tipps | c’t uplink</title>
-      <link>https://www.heise.de/news/Kinder-fuer-Technik-begeistern-Gadgets-Plattformen-Tipps-c-t-uplink-10830393.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Programmieren mit Scratch, basteln mit dem Elektrobaukasten, Roboter selbst lenken – Kinder begreifen Technik auf verschiedensten Wegen. Wir geben Tipps.]]>
-      </description>
-      <source:markdown>Programmieren mit Scratch, basteln mit dem Elektrobaukasten, Roboter selbst lenken – Kinder begreifen Technik auf verschiedensten Wegen. Wir geben Tipps.</source:markdown>
-      <guid>cid://http://heise.de/-10830393</guid>
-    </item>    <item>
-      <title>Länder wollen Urheberpauschale für KI</title>
-      <link>https://www.heise.de/news/Laender-wollen-Urheberpauschale-fuer-KI-10868956.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Die Länder haben sich auf Eckpunkte für einen Staatsvertrag zu digitalen Medien geeinigt. Die Nutzung geschützter Werke für KI soll vergütungspflichtig werden.]]>
-      </description>
-      <source:markdown>Die Länder haben sich auf Eckpunkte für einen Staatsvertrag zu digitalen Medien geeinigt. Die Nutzung geschützter Werke für KI soll vergütungspflichtig werden.</source:markdown>
-      <guid>cid://http://heise.de/-10868956</guid>
-    </item>    <item>
-      <title>Berkeley boffins build better load balancing algo with AI</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/10/25/openevolve_ai_better_algorithms/</link>
-      <description>
-        <![CDATA[<h4>One way AI can improve on human work</h4> <p>Computer scientists at UC Berkeley say that AI models show promise as a way to discover and optimize algorithms.…</p>]]>
-      </description>
-      <source:markdown>#### One way AI can improve on human work
-
-Computer scientists at UC Berkeley say that AI models show promise as a way to discover and optimize algorithms.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242664</guid>
     </item>
   </channel>
 </rss>
