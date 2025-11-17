@@ -4,14 +4,149 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>17 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>17 Nov 25 10:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Kroah-Hartman: Linux Kernel Maintainer on CRA Open Source Impact</title>
+      <link>https://thenewstack.io/kroah-hartman-linux-kernel-maintainer-on-cra-open-source-impact/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/42c41e50-kroah-hartman-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/42c41e50-kroah-hartman.jpg" /><p>ATLANTA &#8212; Technology companies and developers are finally realizing that they&#8217;ll need to deal with the European Union&#8217;s (EU) Cyber</p>
+        <p>The post <a href="https://thenewstack.io/kroah-hartman-linux-kernel-maintainer-on-cra-open-source-impact/">Kroah-Hartman: Linux Kernel Maintainer on CRA Open Source Impact</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/42c41e50-kroah-hartman-1024x576.jpg)
+
+ATLANTA — Technology companies and developers are finally realizing that they’ll need to deal with the European Union’s (EU) Cyber
+
+The post [Kroah-Hartman: Linux Kernel Maintainer on CRA Open Source Impact](https://thenewstack.io/kroah-hartman-linux-kernel-maintainer-on-cra-open-source-impact/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806794</guid>
+    </item>    <item>
+      <title>Need AI? Dell backs up the truck and tips out servers, storage, blueprints</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/17/dell_ai_lineup/</link>
+      <description>
+        <![CDATA[<h4>Vendor leans on Nvidia tie-up so hard you can hear the GPUs squeak</h4> <p><strong>SC25</strong>  Dell continues to push itself as a one-stop shop for enterprise AI infrastructure with a wave of products and services, including updates to servers, storage, and software to expand its offerings.…</p>]]>
+      </description>
+      <source:markdown>#### Vendor leans on Nvidia tie-up so hard you can hear the GPUs squeak
+
+**SC25**  Dell continues to push itself as a one-stop shop for enterprise AI infrastructure with a wave of products and services, including updates to servers, storage, and software to expand its offerings.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243072</guid>
+    </item>    <item>
+      <title>Selling your identity to North Korean IT scammers isn&#39;t a sustainable side hustle</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/17/doj_north_korean_it_scam/</link>
+      <description>
+        <![CDATA[<h4>Four US citizens tried it, and the DoJ just secured guilty pleas from all of &#39;em</h4> <p>It sounds like easy money. North Koreans pay you to use your identity so they can get jobs working for American companies in IT. However, if you go this route, the US Department of Justice promises to catch up with you eventually.…</p>]]>
+      </description>
+      <source:markdown>#### Four US citizens tried it, and the DoJ just secured guilty pleas from all of &#39;em
+
+It sounds like easy money. North Koreans pay you to use your identity so they can get jobs working for American companies in IT. However, if you go this route, the US Department of Justice promises to catch up with you eventually.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243073</guid>
+    </item>    <item>
+      <title>Keeping GPUs Ticking Like Clockwork</title>
+      <link>https://thenewstack.io/keeping-gpus-ticking-like-clockwork/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/759d90c0-thumbnail-21-1024x576.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Clockwork&#039;s CEO Suresh Vasudevan explains that AI workloads are among the most demanding distributed applications ever, and Clockwork provides building blocks that improve visibility, performance and fault tolerance." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/759d90c0-thumbnail-21.png" /><p>For this week&#8217;s episode of The New Stack Agents, I sat down with Suresh Vasudevan, the CEO of Clockwork. I&#8217;ve</p>
+        <p>The post <a href="https://thenewstack.io/keeping-gpus-ticking-like-clockwork/">Keeping GPUs Ticking Like Clockwork</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Clockwork&#39;s CEO Suresh Vasudevan explains that AI workloads are among the most demanding distributed applications ever, and Clockwork provides building blocks that improve visibility, performance and fault tolerance.](https://cdn.thenewstack.io/media/2025/11/759d90c0-thumbnail-21-1024x576.png)
+
+For this week’s episode of The New Stack Agents, I sat down with Suresh Vasudevan, the CEO of Clockwork. I’ve
+
+The post [Keeping GPUs Ticking Like Clockwork](https://thenewstack.io/keeping-gpus-ticking-like-clockwork/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806627</guid>
+    </item>    <item>
+      <title>Agentic AI in Observability: Building Resilient, Accountable IT Systems</title>
+      <link>https://thenewstack.io/agentic-ai-in-observability-building-resilient-accountable-it-systems/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/26e15afb-agentic-ai-in-observability-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="&quot;Agentic AI in Observability: Building Resilient, Accountable IT Systems&quot; featured image" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/26e15afb-agentic-ai-in-observability.jpg" /><p>As enterprise IT systems grow more complex, maintaining visibility, performance and resilience across distributed architectures has never been more critical.</p>
+        <p>The post <a href="https://thenewstack.io/agentic-ai-in-observability-building-resilient-accountable-it-systems/">Agentic AI in Observability: Building Resilient, Accountable IT Systems</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![&#34;Agentic AI in Observability: Building Resilient, Accountable IT Systems&#34; featured image](https://cdn.thenewstack.io/media/2025/11/26e15afb-agentic-ai-in-observability-1024x576.jpg)
+
+As enterprise IT systems grow more complex, maintaining visibility, performance and resilience across distributed architectures has never been more critical.
+
+The post [Agentic AI in Observability: Building Resilient, Accountable IT Systems](https://thenewstack.io/agentic-ai-in-observability-building-resilient-accountable-it-systems/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806804</guid>
+    </item>    <item>
+      <title>Game over: Europol storms gaming platforms in extremist content sweep</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/17/game_over_europol_storms_gaming/</link>
+      <description>
+        <![CDATA[<h4>Law enforcement agency’s referral blitz hit gaming platforms hard, surfacing thousands of extremist URLs</h4> <p>Europol&#39;s Internet Referral Unit (EU IRU) says a November 13 operation across gaming and &#34;gaming-adjacent&#34; services led its partners to report thousands of URLs hosting terrorist and hate-fueled material, including 5,408 links to jihadist content, 1,070 pushing violent right-wing extremist or terrorist propaganda, and 105 tied to racist or xenophobic groups.…</p>]]>
+      </description>
+      <source:markdown>#### Law enforcement agency’s referral blitz hit gaming platforms hard, surfacing thousands of extremist URLs
+
+Europol&#39;s Internet Referral Unit (EU IRU) says a November 13 operation across gaming and &#34;gaming-adjacent&#34; services led its partners to report thousands of URLs hosting terrorist and hate-fueled material, including 5,408 links to jihadist content, 1,070 pushing violent right-wing extremist or terrorist propaganda, and 105 tied to racist or xenophobic groups.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243067</guid>
+    </item>    <item>
+      <title>Old ‘Ghost’ Theory of Quantum Gravity Makes a Comeback</title>
+      <link>https://www.quantamagazine.org/old-ghost-theory-of-quantum-gravity-makes-a-comeback-20251117/</link>
+      <description>
+        <![CDATA[Has the secret to understanding gravity been hiding in plain sight for nearly 40 years?            <p>The post <a href="https://www.quantamagazine.org/old-ghost-theory-of-quantum-gravity-makes-a-comeback-20251117/" target="_blank">Old ‘Ghost’ Theory of Quantum Gravity Makes a Comeback</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Has the secret to understanding gravity been hiding in plain sight for nearly 40 years?
+
+The post [Old ‘Ghost’ Theory of Quantum Gravity Makes a Comeback](https://www.quantamagazine.org/old-ghost-theory-of-quantum-gravity-makes-a-comeback-20251117/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=156647</guid>
+    </item>    <item>
+      <title>Windows boss defends &#39;agentic OS&#39; push as users plead for reliability</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/17/windows_agentic_os_feedback/</link>
+      <description>
+        <![CDATA[<h4>Microsoft claims it listens to feedback while complaints mount over everyday usability</h4> <p>Rather than enjoying some downtime at the weekend, Windows boss Pavan Davuluri made the classic mistake of reading the replies to his post about the operating system&#39;s &#34;agentic&#34; future.…</p>]]>
+      </description>
+      <source:markdown>#### Microsoft claims it listens to feedback while complaints mount over everyday usability
+
+Rather than enjoying some downtime at the weekend, Windows boss Pavan Davuluri made the classic mistake of reading the replies to his post about the operating system&#39;s &#34;agentic&#34; future.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243064</guid>
+    </item>    <item>
+      <title>Jeff Bezos gives CEO another go at $6.2B AI startup Prometheus</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/17/jeff_bezos_ceo_prometheus/</link>
+      <description>
+        <![CDATA[<h4>Named after titan who stole fire from the gods and was punished for eternity... Amazon warehouse staff know the feeling</h4> <p>Amazon founder Jeff Bezos is returning to the CEO seat – though not at his best-known creation.…</p>]]>
+      </description>
+      <source:markdown>#### Named after titan who stole fire from the gods and was punished for eternity... Amazon warehouse staff know the feeling
+
+Amazon founder Jeff Bezos is returning to the CEO seat – though not at his best-known creation.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243065</guid>
+    </item>    <item>
+      <title>Paleontologists Unearthed Australia&#39;s Oldest Known Crocodile Eggshells. The Reptiles&#39; Relatives May Have Hunted From the Trees</title>
+      <link>https://www.smithsonianmag.com/smart-news/paleontologists-unearthed-australias-oldest-known-crocodile-eggshells-the-reptiles-relatives-may-have-hunted-from-the-trees-180987692/</link>
+      <description>
+        <![CDATA[The eggshells belonged to an extinct group of crocs, some members of which were "drop crocs" that plunged onto prey]]>
+      </description>
+      <source:markdown>The eggshells belonged to an extinct group of crocs, some members of which were &#34;drop crocs&#34; that plunged onto prey</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/iUWeLA0oqtaEioBTsUEeolLKZow=/420x240/filters:focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/42/42/42426f6e-cf93-4e59-ad8d-78af7b5f4817/gettyimages-678390251.jpg" length="" type="" />
+    </item>    <item>
+      <title>Artist Sneaks Framed A.I. Portrait and Accompanying Label Onto a Museum&#39;s Gallery Wall</title>
+      <link>https://www.smithsonianmag.com/smart-news/artist-sneaks-framed-ai-portrait-and-accompanying-label-onto-a-museums-gallery-wall-180987691/</link>
+      <description>
+        <![CDATA[The A.I.-generated image hung in Wales' National Museum in Cardiff for a few hours before staffers and museumgoers noticed its presence]]>
+      </description>
+      <source:markdown>The A.I.-generated image hung in Wales&#39; National Museum in Cardiff for a few hours before staffers and museumgoers noticed its presence</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/aX2mPIB6UeaVCaSTlf55M0upmSo=/420x240/filters:focal(3847x2492:3848x2493)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5f/db/5fdbc7e4-4da1-4c2f-827f-3a805ba0523d/gettyimages-2197424220.jpg" length="" type="" />
+    </item>    <item>
+      <title>Overconfidence is the new zero-day as teams stumble through cyber simulations</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/17/immersive_cyber_resilience_report/</link>
+      <description>
+        <![CDATA[<h4>Readiness metrics have flatlined since 2023, with most sectors slipping backward as teams fumble crisis drills</h4> <p>Teams that think they&#39;re ready for a major cyber incident are scoring barely 22 percent accuracy and taking more than a day to contain simulated attacks, according to new data out Monday.…</p>]]>
+      </description>
+      <source:markdown>#### Readiness metrics have flatlined since 2023, with most sectors slipping backward as teams fumble crisis drills
+
+Teams that think they&#39;re ready for a major cyber incident are scoring barely 22 percent accuracy and taking more than a day to contain simulated attacks, according to new data out Monday.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243060</guid>
+    </item>    <item>
+      <title>SAP portal outage raises questions over vendor&#39;s cloud readiness</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/17/sap_for_me_outage/</link>
+      <description>
+        <![CDATA[<h4>Disruption left customers unable to track support cases, upgrades, or patching work</h4> <p>SAP has apologized for the recent outage of its SAP for Me portal, a cloud-based tool that gives users a view of their SAP functions, metrics, and service. But the downtime has opened up some reliability questions.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Disruption left customers unable to track support cases, upgrades, or patching work
+
+SAP has apologized for the recent outage of its SAP for Me portal, a cloud-based tool that gives users a view of their SAP functions, metrics, and service. But the downtime has opened up some reliability questions.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243066</guid>
+    </item>    <item>
       <title>Microsoft EVP: Embrace AI Agents to Rewire Business Processes Now</title>
       <link>https://thenewstack.io/microsoft-evp-embrace-ai-agents-to-rewire-business-processes-now/</link>
       <description>
-        <![CDATA[<img width="1024" height="679" src="https://cdn.thenewstack.io/media/2025/11/04b18c4d-rajesh-jha-microsoft-evp-of-experiences-and-devices-screenshot-from-workab-podcast-seotember-2025-1024x679.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/04b18c4d-rajesh-jha-microsoft-evp-of-experiences-and-devices-screenshot-from-workab-podcast-seotember-2025.jpg" /><p>In September, Rajesh Jha the executive VP overseeing Microsoft&#8217;s AI-powered assistant Copilot appeared on Microsoft&#8217;s &#8220;Worklab&#8221; podcast, to discuss the</p>
+        <![CDATA[<img width="1024" height="679" src="https://cdn.thenewstack.io/media/2025/11/04b18c4d-rajesh-jha-microsoft-evp-of-experiences-and-devices-screenshot-from-workab-podcast-seotember-2025-1024x679.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/04b18c4d-rajesh-jha-microsoft-evp-of-experiences-and-devices-screenshot-from-workab-podcast-seotember-2025.jpg" /><p>In September, Rajesh Jha the executive VP overseeing Microsoft&#8217;s AI-powered assistant Copilot appeared on Microsoft&#8217;s &#8220;Worklab&#8221; podcast, to discuss the</p>
         <p>The post <a href="https://thenewstack.io/microsoft-evp-embrace-ai-agents-to-rewire-business-processes-now/">Microsoft EVP: Embrace AI Agents to Rewire Business Processes Now</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/04b18c4d-rajesh-jha-microsoft-evp-of-experiences-and-devices-screenshot-from-workab-podcast-seotember-2025-1024x679.jpg)

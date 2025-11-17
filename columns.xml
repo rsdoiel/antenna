@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>17 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>17 Nov 25 10:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -140,6 +140,69 @@ comprise this release.
 As always, do give this release a try and open a [ticket](https://gitlab.haskell.org/ghc/ghc/-/issues/new) if you see
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/17.html#a174327</link>
+      <description>
+        <![CDATA[I'm chasing down what appears to be a bug in <a href="https://www.npmjs.com/package/feedlanddatabase">feedlanddatabase</a>. Items that haven't updated are being reported as having updated. Fairly sure there is a problem here. Next up, will add debugging code so I can see if my theory is correct.]]>
+      </description>
+      <source:markdown>I&#39;m chasing down what appears to be a bug in [feedlanddatabase](https://www.npmjs.com/package/feedlanddatabase). Items that haven&#39;t updated are being reported as having updated. Fairly sure there is a problem here. Next up, will add debugging code so I can see if my theory is correct.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/17.html#a174327</guid>
+    </item>    <item>
+      <title>All the Cats, Explained</title>
+      <link>https://kottke.org/25/11/all-the-cats-explained</link>
+      <guid>cid://tag:kottke.org,2025://5.47844</guid>
+    </item>    <item>
+      <title>They&#38;#8217;re making a live-action Legend of Zelda movie?...</title>
+      <link>https://kottke.org/25/11/0047850-theyre-making-a-live-acti</link>
+      <guid>cid://tag:kottke.org,2025://13.47850</guid>
+    </item>    <item>
+      <title>Traces of Home: el trauma como herencia familiar</title>
+      <link>https://www.palomitademaiz.net/resenas-traces-of-home/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-traces-of-home</link>
+      <description>
+        <![CDATA[<p>Dirección: Colette Ghunim. País: Estados Unidos. Más información del documental: https://tracesofhome.com/ ¿Qué tanto influyen en nosotros los traumas de nuestros padres? ¿Cómo nos afectan sus actitudes incomprensibles, palabras no dichas y exigencias enmarcadas en expectativas mientras crecemos? ¿Es justo ofrecerles comprensión y paciencia en su vejez cuando ellos no ofrecieron lo mismo durante nuestra niñez? Estas [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-traces-of-home/">Traces of Home: el trauma como herencia familiar</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Dirección: Colette Ghunim. País: Estados Unidos. Más información del documental: https://tracesofhome.com/ ¿Qué tanto influyen en nosotros los traumas de nuestros padres? ¿Cómo nos afectan sus actitudes incomprensibles, palabras no dichas y exigencias enmarcadas en expectativas mientras crecemos? ¿Es justo ofrecerles comprensión y paciencia en su vejez cuando ellos no ofrecieron lo mismo durante nuestra niñez? Estas \[…\]
+
+La entrada [Traces of Home: el trauma como herencia familiar](https://www.palomitademaiz.net/resenas-traces-of-home/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=25731</guid>
+    </item>    <item>
+      <title>The Sagrada Família has become the tallest church in the world, after...</title>
+      <link>https://kottke.org/25/11/0047846-the-sagrada-familia-has-b</link>
+      <guid>cid://tag:kottke.org,2025://13.47846</guid>
+    </item>    <item>
+      <title>A Pet Raccoon by the Year 2500</title>
+      <link>https://onefoottsunami.com/2025/11/17/a-pet-raccoon-by-the-year-2500/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29452</guid>
+    </item>    <item>
+      <title>A digital atlas of the Roman Empire&#38;#8217;s entire road network (180,000+ miles)....</title>
+      <link>https://kottke.org/25/11/0047845-a-digital-atlas-of-the</link>
+      <guid>cid://tag:kottke.org,2025://13.47845</guid>
+    </item>    <item>
+      <link>https://nathanwrigley.com/2025/11/17/being-certain/comment-page-1/#comment-58</link>
+      <description>
+        <![CDATA[<p>The danger of misplaced certainty.</p>]]>
+      </description>
+      <source:markdown>The danger of misplaced certainty.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/17/1937/</guid>
+    </item>    <item>
+      <link>https://electrek.co/2025/11/17/tesla-pushing-suppliers-cut-all-china-made-parts-us-cars/</link>
+      <description>
+        <![CDATA[<p>Tesla pushing suppliers to cut all China-made parts for US cars.</p>]]>
+      </description>
+      <source:markdown>Tesla pushing suppliers to cut all China-made parts for US cars.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/17/1935/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/17.html#a143301</link>
+      <description>
+        <![CDATA[The Lever podcast does have <a href="https://www.levernews.com/tag/lever-time/rss/">an RSS feed</a>. A good way to find the feed when the usual hacks don't work is to <a href="https://mastodon.social/@scripting@daveverse.org/115560121719016380">post it here</a>, where it's a matter of pride for the braintrust to dig it up. Thanks as always.  😄]]>
+      </description>
+      <source:markdown>The Lever podcast does have [an RSS feed](https://www.levernews.com/tag/lever-time/rss/). A good way to find the feed when the usual hacks don&#39;t work is to [post it here](https://mastodon.social/@scripting@daveverse.org/115560121719016380), where it&#39;s a matter of pride for the braintrust to dig it up. Thanks as always. 😄</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/17.html#a143301</guid>
+    </item>    <item>
+      <title>Skydiving the Sun</title>
+      <link>https://kottke.org/25/11/skydiving-the-sun</link>
+      <guid>cid://tag:kottke.org,2025://5.47843</guid>
     </item>    <item>
       <title>What can you build with Raspberry Pi Zero?</title>
       <link>https://www.raspberrypi.com/news/what-can-you-build-with-raspberry-pi-zero/</link>
@@ -395,6 +458,10 @@ The multi-time world champion of surfing, Kelly Slater, is famous for being [the
 
 The post [618\. Elizabeth I: The Shadow of the Tower (Part 3)](https://therestishistory.com/618-elizabeth-i-the-shadow-of-the-tower-part-3/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
       <guid>cid://https://therestishistory.com/618-elizabeth-i-the-shadow-of-the-tower-part-3/</guid>
+    </item>    <item>
+      <title>Launching the 2025 State of Rust Survey</title>
+      <link>https://blog.rust-lang.org/2025/11/17/launching-the-2025-state-of-rust-survey/</link>
+      <guid>cid://https://blog.rust-lang.org/2025/11/17/launching-the-2025-state-of-rust-survey/</guid>
     </item>    <item>
       <title>Reemerging orality and serf brain</title>
       <link>https://tracydurnell.com/2025/11/16/reemerging-orality-and-serf-brain/</link>
@@ -3911,6 +3978,13 @@ I think I got it at Eataly when I said “where are your cheapest barolos” aft
 The post [617\. Elizabeth I: Anne Boleyn’s Bastard (Part 2)](https://therestishistory.com/617-elizabeth-i-anne-boleyns-bastard-part-2/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
       <guid>cid://https://therestishistory.com/617-elizabeth-i-anne-boleyns-bastard-part-2/</guid>
     </item>    <item>
+      <link>https://shownotes.scripting.com/scripting/2025/11/12/sarahKendziorAndBluesky.html</link>
+      <description>
+        <![CDATA[<p>Quick podcast on what we can learn from Sarah Kendzior being banned by Bluesky.</p>]]>
+      </description>
+      <source:markdown>Quick podcast on what we can learn from Sarah Kendzior being banned by Bluesky.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/12/1887/</guid>
+    </item>    <item>
       <link>https://www.nytimes.com/2025/11/12/us/michael-wolff-epstein-trump-emails.html</link>
       <description>
         <![CDATA[<p>Michael Wolff, Chronicler of Elites, Advised Epstein About Trump</p>]]>
@@ -3954,13 +4028,6 @@ The post [617\. Elizabeth I: Anne Boleyn’s Bastard (Part 2)](https://therestis
       <link>https://heathercoxrichardson.substack.com/p/november-11-2025-254</link>
       <enclosure url="https://api.substack.com/feed/podcast/178738494/a361c1e5078e5ad8feb12bf0f7febf45.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://heathercoxrichardson.substack.com/p/november-11-2025-254</guid>
-    </item>    <item>
-      <link>https://shownotes.scripting.com/scripting/2025/11/12/sarahKendziorAndBluesky.html</link>
-      <description>
-        <![CDATA[<p>A short <a href="https://shownotes.scripting.com/scripting/2025/11/12/sarahKendziorAndBluesky.html">podcast</a> about Sarah Kendzior, Johnny Cash, Folsom Prison, and Bluesky.</p>]]>
-      </description>
-      <source:markdown>A short [podcast](https://shownotes.scripting.com/scripting/2025/11/12/sarahKendziorAndBluesky.html) about Sarah Kendzior, Johnny Cash, Folsom Prison, and Bluesky.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/11/12/1883/</guid>
     </item>    <item>
       <link>http://scripting.com/2025/11/12.html#a215502</link>
       <description>
