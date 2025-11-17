@@ -4,10 +4,27 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>17 Nov 25 10:11 -0800</lastBuildDate>
+    <lastBuildDate>17 Nov 25 14:16 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Happy Birthday, ADMIN Magazine!</title>
+      <link>http://www.linux-magazine.com/Online/News/Happy-Birthday-ADMIN-Magazine</link>
+      <description>
+        <![CDATA[<p>ADMIN is celebrating its 15th anniversary with issue #90.</p>]]>
+      </description>
+      <source:markdown>ADMIN is celebrating its 15th anniversary with issue #90.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://25745f80bfae82f9ec734210e281038f</guid>
+    </item>    <item>
+      <title>Developers’ fireside chat – 22nd November</title>
+      <link>https://www.riscository.com/2025/developers-fireside-chat-22nd-november/</link>
+      <description>
+        <![CDATA[The next friendly fireside chat for people interested in RISC OS software development will take place at 7:30pm on Saturday, 22nd November. Taking place online via the Zoom video conferencing service, these meetings are intended as an informal way of allowing RISC OS programmers, and anyone interested in the subject, to get together online to discuss relevant matters. There is no set agenda for these online meetings, and instead the discussion is steered by what people want to talk about. People are free to ask questions or bring up (and&#8230;]]>
+      </description>
+      <source:markdown>The next friendly fireside chat for people interested in RISC OS software development will take place at 7:30pm on Saturday, 22nd November. Taking place online via the Zoom video conferencing service, these meetings are intended as an informal way of allowing RISC OS programmers, and anyone interested in the subject, to get together online to discuss relevant matters. There is no set agenda for these online meetings, and instead the discussion is steered by what people want to talk about. People are free to ask questions or bring up (and…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10802</guid>
+    </item>    <item>
       <title>Alternative Junior Monitor</title>
       <link>http://retro.hansotten.nl/alternative-junior-monitor/</link>
       <description>

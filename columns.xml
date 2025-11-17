@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>17 Nov 25 10:11 -0800</lastBuildDate>
+    <lastBuildDate>17 Nov 25 14:16 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -141,6 +141,50 @@ As always, do give this release a try and open a [ticket](https://gitlab.haskell
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
     </item>    <item>
+      <title>Google Announces Private AI Compute</title>
+      <link>https://blog.google/technology/ai/google-private-ai-compute/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42391</guid>
+    </item>    <item>
+      <title>OpenAI: Piloting Group Chats in ChatGPT</title>
+      <link>https://openai.com/index/group-chats-in-chatgpt/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42390</guid>
+    </item>    <item>
+      <title>Stress Is an Ancient Superpower That Is Slowly Killing You</title>
+      <link>https://kottke.org/25/11/stress-is-an-ancient-superpower-that-is-slowly-killing-you</link>
+      <guid>cid://tag:kottke.org,2025://5.47852</guid>
+    </item>    <item>
+      <title>BSIM</title>
+      <link>https://doc.searls.com/2025/11/17/bsim/</link>
+      <description>
+        <![CDATA[Just a question If we Thank God It&#39;s Friday, should we Blame Satan It&#39;s Monday?]]>
+      </description>
+      <source:markdown>Just a question If we Thank God It&#39;s Friday, should we Blame Satan It&#39;s Monday?</source:markdown>
+      <guid>cid://https://doc.searls.com/2025/11/17/bsim/</guid>
+    </item>    <item>
+      <title>How to Photograph an Active Volcano Without Getting Vaporized. &#38;#8220;It&#38;#8217;s dangerous and...</title>
+      <link>https://kottke.org/25/11/0047848-how-to-photograph-an-acti</link>
+      <guid>cid://tag:kottke.org,2025://13.47848</guid>
+    </item>    <item>
+      <title>Remembering Alice Wong: Writer, Advocate, Friend</title>
+      <link>https://lithub.com/remembering-alice-wong-writer-advocate-friend/</link>
+      <description>
+        <![CDATA[Though we were in frequent conversation for a decade, I only got to meet my friend Alice Wong in person just once. And when I did, I  was a bundle of nerves—and that was before she cussed me out within]]>
+      </description>
+      <source:markdown>Though we were in frequent conversation for a decade, I only got to meet my friend Alice Wong in person just once. And when I did, I  was a bundle of nerves—and that was before she cussed me out within</source:markdown>
+      <guid>cid://https://lithub.com/?p=262858</guid>
+    </item>    <item>
+      <title>Climate Change in America: Is It Too Late to Wake Up?</title>
+      <link>https://kottke.org/25/11/climate-change-in-america-is-it-too-late-to-wake-up</link>
+      <guid>cid://tag:kottke.org,2025://5.47851</guid>
+    </item>    <item>
+      <title>Clint Smith recently talked to students around the country about the &#38;#8220;complexities...</title>
+      <link>https://kottke.org/25/11/0047856-clint-smith-recently-talk</link>
+      <guid>cid://tag:kottke.org,2025://13.47856</guid>
+    </item>    <item>
+      <title>Kevin Kelly shares some essential apps &#38; services for independent travel in...</title>
+      <link>https://kottke.org/25/11/0047854-kevin-kelly-shares-some-e</link>
+      <guid>cid://tag:kottke.org,2025://13.47854</guid>
+    </item>    <item>
       <link>http://scripting.com/2025/11/17.html#a174327</link>
       <description>
         <![CDATA[I'm chasing down what appears to be a bug in <a href="https://www.npmjs.com/package/feedlanddatabase">feedlanddatabase</a>. Items that haven't updated are being reported as having updated. Fairly sure there is a problem here. Next up, will add debugging code so I can see if my theory is correct.]]>
@@ -259,6 +303,14 @@ My TikTok video that had its audio removed years ago, got its audio back:
     </item>    <item>
       <title>What Was Literary Twitter? The Bracket</title>
       <link>https://lithub.com/what-was-literary-twitter-the-bracket/</link>
+      <description>
+        <![CDATA[We are gathered here to celebrate the brief, bright, Roman Candle life of Literary Twitter, a mesmerizing and maddening place where the most talented writers used to rub shoulders with the most unbalanced shitposters. If you’ve ever had to stop]]>
+      </description>
+      <source:markdown>We are gathered here to celebrate the brief, bright, Roman Candle life of Literary Twitter, a mesmerizing and maddening place where the most talented writers used to rub shoulders with the most unbalanced shitposters. If you’ve ever had to stop</source:markdown>
+      <guid>cid://https://lithub.com/?p=262644</guid>
+    </item>    <item>
+      <title>What Was Literary Twitter? The Bracket</title>
+      <link>https://lithub.com/what-was-literary-twitter-the-bracketwhat-was-literary-twitter-the-bracket/</link>
       <description>
         <![CDATA[We are gathered here to celebrate the brief, bright, Roman Candle life of Literary Twitter, a mesmerizing and maddening place where the most talented writers used to rub shoulders with the most unbalanced shitposters. If you’ve ever had to stop]]>
       </description>
@@ -6439,6 +6491,176 @@ The post [616\. Elizabeth I: The Fall of the Axe (Part 1)](https://therestishist
         <![CDATA[Kieron Gillen uses Buttondown to share his comics, musings, and life experiences.]]>
       </description>
       <source:markdown>Kieron Gillen uses Buttondown to share his comics, musings, and life experiences.</source:markdown>
+    </item>    <item>
+      <title>GSoC 2025: Rich Disassembler for LLDB</title>
+      <link>https://blog.llvm.org/posts/2025-08-gsoc-lldb-rich-disassembler/</link>
+      <description>
+        <![CDATA[<p>Hello! I’m Abdullah Amin, and this summer I had the exciting opportunity to participate in Google Summer of Code (GSoC) 2025 with the LLVM Compiler Infrastructure project. My project focused on extending LLDB with a <strong>Rich Disassembler</strong> that annotates machine instructions with source-level variable information.</p><p><strong>Mentors:</strong> Adrian Prantl and Jonas Devlieghere</p><hr><h2 id="project-background">Project Background</h2><p>LLDB is LLVM’s debugger, capable of source-level debugging across multiple platforms and architectures. While LLDB’s disassembler shows machine instructions, it doesn’t provide much insight into how variables from the original program map onto registers or memory.</p><p>The goal of this project was to use DWARF debug information to enhance LLDB’s disassembly with <strong>variable lifetime and location annotations</strong>. This allows developers to better understand what each register contains at a given point in time, and how variables flow across instructions.</p><p>For example, instead of just seeing register usage:</p><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>0x100000f80 &lt;+32&gt;: movq <span style="color:#f92672">(</span>%rbx,%r15,8<span style="color:#f92672">)</span>, %rdi</span></span></code></pre></div><p>…the rich disassembler can add context:</p><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>0x100000f80 &lt;+32&gt;: movq <span style="color:#f92672">(</span>%rbx,%r15,8<span style="color:#f92672">)</span>, %rdi ; i <span style="color:#f92672">=</span> r15</span></span></code></pre></div><p>This makes it much easier to reason about code, especially in optimized builds.</p><hr><h2 id="what-we-accomplished">What We Accomplished</h2><p>Over the summer, I implemented a prototype that integrates DWARF variable location ranges into LLDB’s disassembly pipeline. The key accomplishments are:</p><ul><li><p><strong>DWARFExpressionEntry API</strong><br>Added a new helper (<code>GetExpressionEntryAtAddress</code>) to expose variable location ranges from DWARF debug info.<br><em>PR: <a href="https://github.com/llvm/llvm-project/pull/144238">#144238</a></em></p></li><li><p><strong>Register-Resident Variable Annotations</strong><br>Updated the disassembler to annotate instructions when variables enter, change, or leave registers.<br><em>PR: <a href="https://github.com/llvm/llvm-project/pull/147460">#147460</a></em></p></li><li><p><strong>Stateful Variable Tracking</strong><br>Extended <code>Disassembler::PrintInstructions()</code> to track live variable states across instructions, emitting transitions such as:</p><ul><li><code>var = RDI</code> when a variable becomes live in a register</li><li><code>var = &lt;undef&gt;</code> when a variable goes out of scope<br><em>PR: <a href="https://github.com/llvm/llvm-project/pull/152887">#152887</a></em></li></ul></li><li><p><strong>Portable Tests</strong><br>Added new LLDB API tests under <code>lldb/test/API/functionalities/disassembler-variables/</code>. These use stable <code>.s</code> files (with original C seeds as comments) to generate <code>.o</code> files for disassembly. This ensures reliable, portable tests independent of compiler optimizations.<br><em>PR: <a href="https://github.com/llvm/llvm-project/pull/152887">#152887</a> <a href="https://github.com/llvm/llvm-project/pull/155942">#155942</a> <a href="https://github.com/llvm/llvm-project/pull/156026">#156026</a></em></p></li></ul><p>Example test coverage includes:</p><ul><li>Function parameters passed in registers (integer, floating point, and mixed).</li><li>Variables live across function calls.</li><li>Loop-based register rotation.</li><li>Constants and undefined ranges.</li></ul><hr><h2 id="how-to-use-it">How to use it</h2><p>The annotations are available from LLDB’s disassembler. Enable them with:</p><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#f92672">(</span>lldb<span style="color:#f92672">)</span> disassemble --variable-annotations<span style="color:#e6db74">```</span> or <span style="color:#e6db74">```</span><span style="color:#f92672">(</span>lldb<span style="color:#f92672">)</span> disassemble -v</span></span></code></pre></div><p>You can also target a specific symbol:</p><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#f92672">(</span>lldb<span style="color:#f92672">)</span> disassemble -n loop_reg_rotate --variable-annotations</span></span></code></pre></div><p>or</p><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#f92672">(</span>lldb<span style="color:#f92672">)</span> disassemble -n loop_reg_rotate -v</span></span></code></pre></div><h3 id="example">Example</h3><p>C seed (kept minimal but forces interesting register reshuffles):</p><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-c" data-lang="c"><span style="display:flex;"><span><span style="color:#a6e22e">__attribute__</span>((noinline))</span></span><span style="display:flex;"><span><span style="color:#66d9ef">int</span> <span style="color:#a6e22e">loop_reg_rotate</span>(<span style="color:#66d9ef">int</span> n, <span style="color:#66d9ef">int</span> seed) {</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">volatile</span> <span style="color:#66d9ef">int</span> acc <span style="color:#f92672">=</span> seed; <span style="color:#75715e">// keep as a named local</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span> <span style="color:#66d9ef">int</span> i <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>, j <span style="color:#f92672">=</span> <span style="color:#ae81ff">1</span>, k <span style="color:#f92672">=</span> <span style="color:#ae81ff">2</span>; <span style="color:#75715e">// extra pressure but not enough to spill</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span></span></span><span style="display:flex;"><span> <span style="color:#66d9ef">for</span> (<span style="color:#66d9ef">int</span> t <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>; t <span style="color:#f92672">&lt;</span> n; <span style="color:#f92672">++</span>t) {</span></span><span style="display:flex;"><span> <span style="color:#75715e">// Mix uses so the allocator may reshuffle regs for &#39;acc&#39;</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span> acc <span style="color:#f92672">=</span> acc <span style="color:#f92672">+</span> i;</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">asm</span> <span style="color:#a6e22e">volatile</span>(<span style="color:#e6db74">&#34;&#34;</span> <span style="color:#f92672">::</span> <span style="color:#e6db74">&#34;r&#34;</span>(acc)); <span style="color:#75715e">// pin &#39;acc&#39; live here</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span> acc <span style="color:#f92672">=</span> acc <span style="color:#f92672">^</span> j;</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">asm</span> <span style="color:#a6e22e">volatile</span>(<span style="color:#e6db74">&#34;&#34;</span> <span style="color:#f92672">::</span> <span style="color:#e6db74">&#34;r&#34;</span>(acc)); <span style="color:#75715e">// and here</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span> acc <span style="color:#f92672">=</span> acc <span style="color:#f92672">+</span> k;</span></span><span style="display:flex;"><span> i <span style="color:#f92672">^=</span> acc; j <span style="color:#f92672">+=</span> acc; k <span style="color:#f92672">^=</span> j;</span></span><span style="display:flex;"><span> }</span></span><span style="display:flex;"><span></span></span><span style="display:flex;"><span> <span style="color:#66d9ef">asm</span> <span style="color:#66d9ef">volatile</span>(<span style="color:#e6db74">&#34;&#34;</span> <span style="color:#f92672">::</span> <span style="color:#e6db74">&#34;r&#34;</span>(acc));</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">return</span> acc <span style="color:#f92672">+</span> i <span style="color:#f92672">+</span> j <span style="color:#f92672">+</span> k;</span></span><span style="display:flex;"><span>}</span></span></code></pre></div><p>Disassembly with variable annotations (excerpt):</p><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>loop_reg_rotate.o<span style="color:#e6db74">`</span>loop_reg_rotate:</span></span><span style="display:flex;"><span>0x0 &lt;+0&gt;: pushq %rbp ; n <span style="color:#f92672">=</span> RDI, seed <span style="color:#f92672">=</span> RSI</span></span><span style="display:flex;"><span>0x1 &lt;+1&gt;: movq %rsp, %rbp</span></span><span style="display:flex;"><span>0x4 &lt;+4&gt;: movl %esi, -0x4<span style="color:#f92672">(</span>%rbp<span style="color:#f92672">)</span></span></span><span style="display:flex;"><span>0x7 &lt;+7&gt;: testl %edi, %edi ; j <span style="color:#f92672">=</span> 1, k <span style="color:#f92672">=</span> 2, t <span style="color:#f92672">=</span> 0, i <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span></span></span><span style="display:flex;"><span>0x9 &lt;+9&gt;: jle 0x3d ; &lt;+61&gt; at loop_reg_rotate.c</span></span><span style="display:flex;"><span>0xb &lt;+11&gt;: xorl %eax, %eax</span></span><span style="display:flex;"><span>0xd &lt;+13&gt;: movl $0x1, %edx</span></span><span style="display:flex;"><span>0x12 &lt;+18&gt;: movl $0x2, %ecx</span></span><span style="display:flex;"><span>0x17 &lt;+23&gt;: nopw <span style="color:#f92672">(</span>%rax,%rax<span style="color:#f92672">)</span> ; j <span style="color:#f92672">=</span> RDX, k <span style="color:#f92672">=</span> RCX, i <span style="color:#f92672">=</span> RAX, t <span style="color:#f92672">=</span> &lt;undef&gt;</span></span><span style="display:flex;"><span>0x20 &lt;+32&gt;: addl %eax, -0x4<span style="color:#f92672">(</span>%rbp<span style="color:#f92672">)</span></span></span><span style="display:flex;"><span>0x23 &lt;+35&gt;: movl -0x4<span style="color:#f92672">(</span>%rbp<span style="color:#f92672">)</span>, %esi</span></span><span style="display:flex;"><span>0x26 &lt;+38&gt;: xorl %edx, -0x4<span style="color:#f92672">(</span>%rbp<span style="color:#f92672">)</span></span></span><span style="display:flex;"><span>0x29 &lt;+41&gt;: movl -0x4<span style="color:#f92672">(</span>%rbp<span style="color:#f92672">)</span>, %esi</span></span><span style="display:flex;"><span>0x2c &lt;+44&gt;: addl %ecx, -0x4<span style="color:#f92672">(</span>%rbp<span style="color:#f92672">)</span></span></span><span style="display:flex;"><span>0x2f &lt;+47&gt;: xorl -0x4<span style="color:#f92672">(</span>%rbp<span style="color:#f92672">)</span>, %eax</span></span><span style="display:flex;"><span>0x32 &lt;+50&gt;: addl -0x4<span style="color:#f92672">(</span>%rbp<span style="color:#f92672">)</span>, %edx</span></span><span style="display:flex;"><span>0x35 &lt;+53&gt;: xorl %edx, %ecx</span></span><span style="display:flex;"><span>0x37 &lt;+55&gt;: decl %edi</span></span><span style="display:flex;"><span>0x39 &lt;+57&gt;: jne 0x20 ; &lt;+32&gt; at loop_reg_rotate.c:8:9</span></span><span style="display:flex;"><span>0x3d &lt;+61&gt;: movl $0x2, %ecx ; j <span style="color:#f92672">=</span> 1, k <span style="color:#f92672">=</span> 2, i <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span></span></span><span style="display:flex;"><span>0x42 &lt;+66&gt;: movl $0x1, %edx</span></span><span style="display:flex;"><span>0x47 &lt;+71&gt;: xorl %eax, %eax</span></span><span style="display:flex;"><span>0x49 &lt;+73&gt;: movl -0x4<span style="color:#f92672">(</span>%rbp<span style="color:#f92672">)</span>, %esi ; j <span style="color:#f92672">=</span> &lt;undef&gt;, k <span style="color:#f92672">=</span> &lt;undef&gt;, i <span style="color:#f92672">=</span> &lt;undef&gt;</span></span><span style="display:flex;"><span>0x4c &lt;+76&gt;: addl %edx, %eax</span></span><span style="display:flex;"><span>0x4e &lt;+78&gt;: addl %ecx, %eax</span></span><span style="display:flex;"><span>0x50 &lt;+80&gt;: addl -0x4<span style="color:#f92672">(</span>%rbp<span style="color:#f92672">)</span>, %eax</span></span><span style="display:flex;"><span>0x53 &lt;+83&gt;: popq %rbp</span></span><span style="display:flex;"><span>0x54 &lt;+84&gt;: retq</span></span></code></pre></div><p>In this example:</p><ul><li>Function params are annotated at entry (n = RDI, seed = RSI).</li><li>Local temporaries (i, j, k) become live in specific registers and later go <undef> when they leave scope or change location.</li><li>Only transitions are printed (start/change/end), keeping the output concise.</li></ul><hr><h2 id="current-state">Current State</h2><ul><li><p><strong>Working prototype complete:</strong><br>Rich disassembly annotations are now functional for variables that reside fully in registers or constants.</p></li><li><p><strong>Tested and validated:</strong><br>A comprehensive set of tests confirm correctness across multiple scenarios, including register rotation, constants, and live-across-call variables.</p></li><li><p><strong>Upstreamed into LLVM:</strong><br>The core implementation, supporting infrastructure, and final refactoring/formatting changes have all been merged into the main LLVM repository. This means the feature is available in the latest development builds of LLDB.</p></li></ul><hr><h2 id="whats-left-to-do">What’s Left to Do</h2><p>One original goal of the project was to expose the rich disassembly annotations as <strong>structured data</strong> through LLDB’s scripting API, so that tooling can build on top of it.</p><p>While the textual annotations and stateful tracking are complete, this structured API exposure remains future work. I plan to continue working on this beyond GSoC as a follow-up contribution.</p><hr><h2 id="challenges-and-learnings">Challenges and Learnings</h2><ul><li><strong>DWARF complexity:</strong> Navigating DWARF location expressions and ranges was challenging, but I gained a deep understanding of how debuggers map source variables to registers and memory.</li><li><strong>Testing portability:</strong> Early attempts at hand-writing DWARF with <code>yaml2obj</code> proved too fragile. Switching to compiler-generated <code>.s</code> files provided stable and portable tests.</li><li><strong>Collaboration:</strong> Working with my mentors taught me the value of incremental, reviewable patches and iterative design.</li></ul><hr><h2 id="conclusion">Conclusion</h2><p>LLDB’s disassembler is a feature aimed at advanced programmers who need detailed insights into optimized machine code. With the new variable annotations, it becomes easier to understand how source-level variables map to registers and how their lifetimes evolve, bridging the gap between source code and raw assembly.</p><p>Future work will focus on structured API exposure, enabling new tooling to build on these annotations.</p><p>I am grateful to my mentors, <strong>Adrian Prantl</strong> and <strong>Jonas Devlieghere</strong>, for their guidance and support throughout the project, and to the LLVM community for reviewing and testing my work.</p><hr><h2 id="related-links">Related Links</h2><ul><li><a href="https://github.com/llvm/llvm-project/pull/144238">PR #144238: Add DWARFExpressionEntry API</a></li><li><a href="https://github.com/llvm/llvm-project/pull/147460">PR #147460: Annotate disassembly with register-resident variables</a></li><li><a href="https://github.com/llvm/llvm-project/pull/152887">PR #152887: Stateful variable-location annotations</a></li><li><a href="https://github.com/llvm/llvm-project/pull/155942">PR #155942: Fix workflow testing issues (part 1)</a></li><li><a href="https://github.com/llvm/llvm-project/pull/156026">PR #156026: Fix workflow testing issues (part 2)</a></li><li><a href="https://github.com/llvm/llvm-project/pull/156118">PR #156118: Final code formatting and refactoring</a></li><li><a href="https://github.com/llvm/llvm-project">LLVM Repository</a></li><li><a href="https://github.com/UltimateForce21">My GitHub Profile</a></li></ul>]]>
+      </description>
+      <source:markdown>Hello! I’m Abdullah Amin, and this summer I had the exciting opportunity to participate in Google Summer of Code (GSoC) 2025 with the LLVM Compiler Infrastructure project. My project focused on extending LLDB with a **Rich Disassembler** that annotates machine instructions with source-level variable information.
+
+**Mentors:** Adrian Prantl and Jonas Devlieghere
+
+* * *
+
+## Project Background
+
+LLDB is LLVM’s debugger, capable of source-level debugging across multiple platforms and architectures. While LLDB’s disassembler shows machine instructions, it doesn’t provide much insight into how variables from the original program map onto registers or memory.
+
+The goal of this project was to use DWARF debug information to enhance LLDB’s disassembly with **variable lifetime and location annotations**. This allows developers to better understand what each register contains at a given point in time, and how variables flow across instructions.
+
+For example, instead of just seeing register usage:
+
+```bash
+0x100000f80 &#60;+32&#62;: movq (%rbx,%r15,8), %rdi
+```
+
+…the rich disassembler can add context:
+
+```bash
+0x100000f80 &#60;+32&#62;: movq (%rbx,%r15,8), %rdi ; i = r15
+```
+
+This makes it much easier to reason about code, especially in optimized builds.
+
+* * *
+
+## What We Accomplished
+
+Over the summer, I implemented a prototype that integrates DWARF variable location ranges into LLDB’s disassembly pipeline. The key accomplishments are:
+
+- **DWARFExpressionEntry API**
+
+  Added a new helper ( `GetExpressionEntryAtAddress`) to expose variable location ranges from DWARF debug info.
+
+  _PR: [#144238](https://github.com/llvm/llvm-project/pull/144238)_
+
+- **Register-Resident Variable Annotations**
+
+  Updated the disassembler to annotate instructions when variables enter, change, or leave registers.
+
+  _PR: [#147460](https://github.com/llvm/llvm-project/pull/147460)_
+
+- **Stateful Variable Tracking**
+
+  Extended `Disassembler::PrintInstructions()` to track live variable states across instructions, emitting transitions such as:
+
+  - `var = RDI` when a variable becomes live in a register
+  - `var = &#60;undef&#62;` when a variable goes out of scope
+
+    _PR: [#152887](https://github.com/llvm/llvm-project/pull/152887)_
+- **Portable Tests**
+
+  Added new LLDB API tests under `lldb/test/API/functionalities/disassembler-variables/`. These use stable `.s` files (with original C seeds as comments) to generate `.o` files for disassembly. This ensures reliable, portable tests independent of compiler optimizations.
+
+  _PR: [#152887](https://github.com/llvm/llvm-project/pull/152887) [#155942](https://github.com/llvm/llvm-project/pull/155942) [#156026](https://github.com/llvm/llvm-project/pull/156026)_
+
+
+Example test coverage includes:
+
+- Function parameters passed in registers (integer, floating point, and mixed).
+- Variables live across function calls.
+- Loop-based register rotation.
+- Constants and undefined ranges.
+
+* * *
+
+## How to use it
+
+The annotations are available from LLDB’s disassembler. Enable them with:
+
+````bash
+(lldb) disassemble --variable-annotations``` or ```(lldb) disassemble -v
+````
+
+You can also target a specific symbol:
+
+```bash
+(lldb) disassemble -n loop_reg_rotate --variable-annotations
+```
+
+or
+
+```bash
+(lldb) disassemble -n loop_reg_rotate -v
+```
+
+### Example
+
+C seed (kept minimal but forces interesting register reshuffles):
+
+```c
+__attribute__((noinline))int loop_reg_rotate(int n, int seed) { volatile int acc = seed; // keep as a named local int i = 0, j = 1, k = 2; // extra pressure but not enough to spill for (int t = 0; t &#60; n; ++t) { // Mix uses so the allocator may reshuffle regs for &#39;acc&#39; acc = acc + i; asm volatile(&#34;&#34; :: &#34;r&#34;(acc)); // pin &#39;acc&#39; live here acc = acc ^ j; asm volatile(&#34;&#34; :: &#34;r&#34;(acc)); // and here acc = acc + k; i ^= acc; j += acc; k ^= j; } asm volatile(&#34;&#34; :: &#34;r&#34;(acc)); return acc + i + j + k;}
+```
+
+Disassembly with variable annotations (excerpt):
+
+```bash
+loop_reg_rotate.o`loop_reg_rotate:0x0 &#60;+0&#62;: pushq %rbp ; n = RDI, seed = RSI0x1 &#60;+1&#62;: movq %rsp, %rbp0x4 &#60;+4&#62;: movl %esi, -0x4(%rbp)0x7 &#60;+7&#62;: testl %edi, %edi ; j = 1, k = 2, t = 0, i = 00x9 &#60;+9&#62;: jle 0x3d ; &#60;+61&#62; at loop_reg_rotate.c0xb &#60;+11&#62;: xorl %eax, %eax0xd &#60;+13&#62;: movl $0x1, %edx0x12 &#60;+18&#62;: movl $0x2, %ecx0x17 &#60;+23&#62;: nopw (%rax,%rax) ; j = RDX, k = RCX, i = RAX, t = &#60;undef&#62;0x20 &#60;+32&#62;: addl %eax, -0x4(%rbp)0x23 &#60;+35&#62;: movl -0x4(%rbp), %esi0x26 &#60;+38&#62;: xorl %edx, -0x4(%rbp)0x29 &#60;+41&#62;: movl -0x4(%rbp), %esi0x2c &#60;+44&#62;: addl %ecx, -0x4(%rbp)0x2f &#60;+47&#62;: xorl -0x4(%rbp), %eax0x32 &#60;+50&#62;: addl -0x4(%rbp), %edx0x35 &#60;+53&#62;: xorl %edx, %ecx0x37 &#60;+55&#62;: decl %edi0x39 &#60;+57&#62;: jne 0x20 ; &#60;+32&#62; at loop_reg_rotate.c:8:90x3d &#60;+61&#62;: movl $0x2, %ecx ; j = 1, k = 2, i = 00x42 &#60;+66&#62;: movl $0x1, %edx0x47 &#60;+71&#62;: xorl %eax, %eax0x49 &#60;+73&#62;: movl -0x4(%rbp), %esi ; j = &#60;undef&#62;, k = &#60;undef&#62;, i = &#60;undef&#62;0x4c &#60;+76&#62;: addl %edx, %eax0x4e &#60;+78&#62;: addl %ecx, %eax0x50 &#60;+80&#62;: addl -0x4(%rbp), %eax0x53 &#60;+83&#62;: popq %rbp0x54 &#60;+84&#62;: retq
+```
+
+In this example:
+
+- Function params are annotated at entry (n = RDI, seed = RSI).
+- Local temporaries (i, j, k) become live in specific registers and later go  when they leave scope or change location.
+- Only transitions are printed (start/change/end), keeping the output concise.
+
+* * *
+
+## Current State
+
+- **Working prototype complete:**
+
+  Rich disassembly annotations are now functional for variables that reside fully in registers or constants.
+
+- **Tested and validated:**
+
+  A comprehensive set of tests confirm correctness across multiple scenarios, including register rotation, constants, and live-across-call variables.
+
+- **Upstreamed into LLVM:**
+
+  The core implementation, supporting infrastructure, and final refactoring/formatting changes have all been merged into the main LLVM repository. This means the feature is available in the latest development builds of LLDB.
+
+
+* * *
+
+## What’s Left to Do
+
+One original goal of the project was to expose the rich disassembly annotations as **structured data** through LLDB’s scripting API, so that tooling can build on top of it.
+
+While the textual annotations and stateful tracking are complete, this structured API exposure remains future work. I plan to continue working on this beyond GSoC as a follow-up contribution.
+
+* * *
+
+## Challenges and Learnings
+
+- **DWARF complexity:** Navigating DWARF location expressions and ranges was challenging, but I gained a deep understanding of how debuggers map source variables to registers and memory.
+- **Testing portability:** Early attempts at hand-writing DWARF with `yaml2obj` proved too fragile. Switching to compiler-generated `.s` files provided stable and portable tests.
+- **Collaboration:** Working with my mentors taught me the value of incremental, reviewable patches and iterative design.
+
+* * *
+
+## Conclusion
+
+LLDB’s disassembler is a feature aimed at advanced programmers who need detailed insights into optimized machine code. With the new variable annotations, it becomes easier to understand how source-level variables map to registers and how their lifetimes evolve, bridging the gap between source code and raw assembly.
+
+Future work will focus on structured API exposure, enabling new tooling to build on these annotations.
+
+I am grateful to my mentors, **Adrian Prantl** and **Jonas Devlieghere**, for their guidance and support throughout the project, and to the LLVM community for reviewing and testing my work.
+
+* * *
+
+## Related Links
+
+- [PR #144238: Add DWARFExpressionEntry API](https://github.com/llvm/llvm-project/pull/144238)
+- [PR #147460: Annotate disassembly with register-resident variables](https://github.com/llvm/llvm-project/pull/147460)
+- [PR #152887: Stateful variable-location annotations](https://github.com/llvm/llvm-project/pull/152887)
+- [PR #155942: Fix workflow testing issues (part 1)](https://github.com/llvm/llvm-project/pull/155942)
+- [PR #156026: Fix workflow testing issues (part 2)](https://github.com/llvm/llvm-project/pull/156026)
+- [PR #156118: Final code formatting and refactoring](https://github.com/llvm/llvm-project/pull/156118)
+- [LLVM Repository](https://github.com/llvm/llvm-project)
+- [My GitHub Profile](https://github.com/UltimateForce21)</source:markdown>
+      <guid>cid://https://blog.llvm.org/posts/2025-08-gsoc-lldb-rich-disassembler/</guid>
     </item>    <item>
       <link>http://scripting.com/2025/11/09.html#a235211</link>
       <description>
