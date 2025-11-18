@@ -4,10 +4,19 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>18 Nov 25 10:11 -0800</lastBuildDate>
+    <lastBuildDate>18 Nov 25 14:13 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>John Brown’s Body, by Stephen Vincent Benét</title>
+      <link>https://standardebooks.org/ebooks/stephen-vincent-benet/john-browns-body</link>
+      <description>
+        <![CDATA[The sweeping tragedy of the American Civil War is chronicled through the interwoven experiences of soldiers and civilians from both the North and the South.]]>
+      </description>
+      <source:markdown>The sweeping tragedy of the American Civil War is chronicled through the interwoven experiences of soldiers and civilians from both the North and the South.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/stephen-vincent-benet/john-browns-body/downloads/stephen-vincent-benet_john-browns-body.epub?source=feed" length="732131" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/stephen-vincent-benet/john-browns-body</guid>
+    </item>    <item>
       <title>From CNN: Inside the old church where one trillion webpages are being saved</title>
       <link>https://blog.archive.org/2025/11/18/from-cnn-inside-the-old-church-where-one-trillion-webpages-are-being-saved/</link>
       <description>
@@ -64,10 +73,10 @@ The post [In Defense of Pluralism and Diversity: A Modest Manifesto for the Futu
       <title>Day in Review (November 17–20)</title>
       <link>https://www.arl.org/day-in-review/day-in-review-november-17-20/</link>
       <description>
-        <![CDATA[<p>Last Updated on November 17, 2025, 1:46 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...</p>
+        <![CDATA[<p>Last Updated on November 18, 2025, 3:25 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...</p>
         <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-november-17-20/">Day in Review (November 17–20)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on November 17, 2025, 1:46 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...
+      <source:markdown>Last Updated on November 18, 2025, 3:25 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...
 
 The post [Day in Review (November 17–20)](https://www.arl.org/day-in-review/day-in-review-november-17-20/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=46673</guid>

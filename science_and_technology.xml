@@ -4,10 +4,132 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>18 Nov 25 10:11 -0800</lastBuildDate>
+    <lastBuildDate>18 Nov 25 14:13 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Google Launches Gemini 3 Pro</title>
+      <link>https://thenewstack.io/google-launches-gemini-3-pro/</link>
+      <description>
+        <![CDATA[<img width="1024" height="622" src="https://cdn.thenewstack.io/media/2025/11/d2b59466-gemini3-logo-1024x622.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/d2b59466-gemini3-logo.png" /><p>today launched Gemini 3 Pro, the latest iteration of its family of foundation models, with other Gemini 3 variants to</p>
+        <p>The post <a href="https://thenewstack.io/google-launches-gemini-3-pro/">Google Launches Gemini 3 Pro</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/d2b59466-gemini3-logo-1024x622.png)
+
+today launched Gemini 3 Pro, the latest iteration of its family of foundation models, with other Gemini 3 variants to
+
+The post [Google Launches Gemini 3 Pro](https://thenewstack.io/google-launches-gemini-3-pro/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806979</guid>
+    </item>    <item>
+      <title>Anthropic is at the heart of the latest billion-dollar circular AI investment bonanza</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/18/anthropic_microsoft_nvidia_ai_deals/</link>
+      <description>
+        <![CDATA[<h4>What do you get when you combine Anthropic, Microsoft, and Nvidia? A bubble that blows itself</h4> <p>It wouldn&#39;t be a week of tech news without more circular exchanges of billions of dollars between AI firms. This time around, it&#39;s a $45 billion back-scratching session involving Microsoft, Anthropic, and Nvidia, announced during Redmond&#39;s Ignite conference.…</p>]]>
+      </description>
+      <source:markdown>#### What do you get when you combine Anthropic, Microsoft, and Nvidia? A bubble that blows itself
+
+It wouldn&#39;t be a week of tech news without more circular exchanges of billions of dollars between AI firms. This time around, it&#39;s a $45 billion back-scratching session involving Microsoft, Anthropic, and Nvidia, announced during Redmond&#39;s Ignite conference.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243106</guid>
+    </item>    <item>
+      <title>Self-replicating botnet attacks Ray clusters</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/18/selfreplicating_botnet_ray_clusters/</link>
+      <description>
+        <![CDATA[<h4>Using AI to attack AI</h4> <p>Malefactors are actively attacking internet-facing Ray clusters and abusing the open source AI framework to spread a self-replicating botnet that mines for cryptocurrency, steals data, and launches distributed denial of service (DDoS) attacks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Using AI to attack AI
+
+Malefactors are actively attacking internet-facing Ray clusters and abusing the open source AI framework to spread a self-replicating botnet that mines for cryptocurrency, steals data, and launches distributed denial of service (DDoS) attacks.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243105</guid>
+    </item>    <item>
+      <title>Feel a Connection to a Celebrity You’ve Never Met? Your Bond May Be &#39;Parasocial,&#39; Which Is Cambridge Dictionary&#39;s Word of the Year for 2025</title>
+      <link>https://www.smithsonianmag.com/smart-news/feel-a-connection-to-a-celebrity-youve-never-met-your-bond-may-be-parasocial-which-is-cambridge-dictionarys-word-of-the-year-for-2025-180987711/</link>
+      <description>
+        <![CDATA[The term is used to describe "a connection that someone feels between themselves and a famous person they do not know," according to the dictionary]]>
+      </description>
+      <source:markdown>The term is used to describe &#34;a connection that someone feels between themselves and a famous person they do not know,&#34; according to the dictionary</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Thxv4_b2XVqOXEHySf_zURSwVJ8=/420x240/filters:focal(2714x1835:2715x1836)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4a/90/4a907b47-ce38-4bab-80dd-ccbebe9f2190/gettyimages-2196122888.jpg" length="" type="" />
+    </item>    <item>
+      <title>A Guide To Stress-Testing Your ML Data Pipelines</title>
+      <link>https://thenewstack.io/a-guide-to-stress-testing-your-ml-data-pipelines/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/d353b1a2-leaking-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Water spray coming out of a leaking pipe" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/d353b1a2-leaking.jpg" /><p>This is the second of two articles. Read also:&#160; Why You Should Break Your ML Pipelines on Purpose In Part</p>
+        <p>The post <a href="https://thenewstack.io/a-guide-to-stress-testing-your-ml-data-pipelines/">A Guide To Stress-Testing Your ML Data Pipelines</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Water spray coming out of a leaking pipe](https://cdn.thenewstack.io/media/2025/11/d353b1a2-leaking-1024x576.jpg)
+
+This is the second of two articles. Read also:  Why You Should Break Your ML Pipelines on Purpose In Part
+
+The post [A Guide To Stress-Testing Your ML Data Pipelines](https://thenewstack.io/a-guide-to-stress-testing-your-ml-data-pipelines/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806842</guid>
+    </item>    <item>
+      <title>Run old versions of UNIX for PDP-11 and x86 on modern hardware</title>
+      <link>https://www.osnews.com/story/143866/run-old-versions-of-unix-for-pdp-11-and-x86-on-modern-hardware/</link>
+      <description>
+        <![CDATA[The contents of this repository allow older versions of UNIX (ancient UNIX) to run easily on modern Unix-like systems (Linux, FreeBSD, macOS, among others). ↫ Run ancient UNIX GitHub page With the guides in this repository, you can easily run Versions 1/5/7 UNIX and 2.11BSD UNIX for the PDP-11 and Version 7 UNIX for x86 (ported to x86 by Robert Nordier in 1999, with patches in 2006-2007). That&#8217;s it.]]>
+      </description>
+      <source:markdown>The contents of this repository allow older versions of UNIX (ancient UNIX) to run easily on modern Unix-like systems (Linux, FreeBSD, macOS, among others). ↫ Run ancient UNIX GitHub page With the guides in this repository, you can easily run Versions 1/5/7 UNIX and 2.11BSD UNIX for the PDP-11 and Version 7 UNIX for x86 (ported to x86 by Robert Nordier in 1999, with patches in 2006-2007). That’s it.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143866</guid>
+    </item>    <item>
+      <title>RHEL 10.1 Soft Reboot Slashes Downtime for Updates</title>
+      <link>https://thenewstack.io/rhel-10-1-soft-reboot-slashes-downtime-for-updates/</link>
+      <description>
+        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/05/6e1bfd8b-red_hat-1024x768.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/05/6e1bfd8b-red_hat.png" /><p>ATLANTA &#8212; Red Hat officially released Red Hat Enterprise Linux (RHEL) 10.1 at KubeCon+CloudNativeCon North America. This is the first</p>
+        <p>The post <a href="https://thenewstack.io/rhel-10-1-soft-reboot-slashes-downtime-for-updates/">RHEL 10.1 Soft Reboot Slashes Downtime for Updates</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/05/6e1bfd8b-red_hat-1024x768.png)
+
+ATLANTA — Red Hat officially released Red Hat Enterprise Linux (RHEL) 10.1 at KubeCon+CloudNativeCon North America. This is the first
+
+The post [RHEL 10.1 Soft Reboot Slashes Downtime for Updates](https://thenewstack.io/rhel-10-1-soft-reboot-slashes-downtime-for-updates/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806566</guid>
+    </item>    <item>
+      <title>How Kubernetes Became the New Linux</title>
+      <link>https://thenewstack.io/how-kubernetes-became-the-new-linux/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/3bc1d191-for-thumbnail-4-1024x576.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="At KubeCon + CloudNativeCon North America, AWS’s Jesse Butler noted that Kubernetes has reached the same maturity Linux once did: organizations no longer build bespoke control planes but rely on shared standards. That shift influences how AWS contributes to open source, emphasizing community-wide solutions rather than AWS-specific products" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/3bc1d191-for-thumbnail-4.png" /><p>Once upon a time, major banks built their own Linux kernels because there were no distros yet. They were pioneers</p>
+        <p>The post <a href="https://thenewstack.io/how-kubernetes-became-the-new-linux/">How Kubernetes Became the New Linux</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![At KubeCon + CloudNativeCon North America, AWS’s Jesse Butler noted that Kubernetes has reached the same maturity Linux once did: organizations no longer build bespoke control planes but rely on shared standards. That shift influences how AWS contributes to open source, emphasizing community-wide solutions rather than AWS-specific products](https://cdn.thenewstack.io/media/2025/11/3bc1d191-for-thumbnail-4-1024x576.png)
+
+Once upon a time, major banks built their own Linux kernels because there were no distros yet. They were pioneers
+
+The post [How Kubernetes Became the New Linux](https://thenewstack.io/how-kubernetes-became-the-new-linux/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806838</guid>
+    </item>    <item>
+      <title>Curiosity Blog, Sols 4716-4722: Drilling Success at Nevado Sajama</title>
+      <link>https://science.nasa.gov/blog/curiosity-blog-sols-4716-4722-drilling-success-at-nevado-sajama/</link>
+      <description>
+        <![CDATA[Written by Michelle Minitti, MAHLI Deputy Principal Investigator at Framework Earth planning date: Friday, Nov. 14, 2025 From Curiosity’s ridge-top perch among the boxwork unit, the highlight of the week was the successful drilling of the “Nevado Sajama” target. The data collected by APXS, ChemCam, and MAHLI from the rover workspace and its immediate vicinity […]]]>
+      </description>
+      <source:markdown>Written by Michelle Minitti, MAHLI Deputy Principal Investigator at Framework Earth planning date: Friday, Nov. 14, 2025 From Curiosity’s ridge-top perch among the boxwork unit, the highlight of the week was the successful drilling of the “Nevado Sajama” target. The data collected by APXS, ChemCam, and MAHLI from the rover workspace and its immediate vicinity \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-4716-4722-drilling-success-at-nevado-sajama/</guid>
+    </item>    <item>
+      <title>Curiosity Blog, Sols 4709-4715: Drilling High and Low in the Boxwork Unit</title>
+      <link>https://science.nasa.gov/blog/curiosity-blog-sols-4709-4715-drilling-high-and-low-in-the-boxwork-unit/</link>
+      <description>
+        <![CDATA[Written by Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University of New Brunswick, Canada Earth planning date: Friday, Nov. 7, 2025 We are in the most intensive phase of the boxwork structures investigation — the drill campaign. The boxwork campaign group requested a pair of drilled targets — one in a hollow (the […]]]>
+      </description>
+      <source:markdown>Written by Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University of New Brunswick, Canada Earth planning date: Friday, Nov. 7, 2025 We are in the most intensive phase of the boxwork structures investigation — the drill campaign. The boxwork campaign group requested a pair of drilled targets — one in a hollow (the \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-4709-4715-drilling-high-and-low-in-the-boxwork-unit/</guid>
+    </item>    <item>
+      <title>Thousands of Mysterious Holes Dot the Landscape in Peru. Archaeologists Say They May Finally Know Why</title>
+      <link>https://www.smithsonianmag.com/smart-news/thousands-of-mysterious-holes-dot-the-landscape-in-peru-archaeologists-say-they-may-finally-know-why-180987681/</link>
+      <description>
+        <![CDATA[New research suggests the Band of Holes functioned as a barter marketplace before becoming an accounting system for the Inca]]>
+      </description>
+      <source:markdown>New research suggests the Band of Holes functioned as a barter marketplace before becoming an accounting system for the Inca</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/8itRSM6FRbVbRYoxcwebAsye-7Y=/420x240/filters:focal(800x602:801x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1e/f8/1ef81ff2-a918-4e11-8295-4314990d1cd4/cq5damweb8005992x.jpeg" length="" type="" />
+    </item>    <item>
+      <title>FCC looks to torch Biden-era cyber rules sparked by Salt Typhoon mess</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/18/fcc_salt_typhoon_rules/</link>
+      <description>
+        <![CDATA[<h4>Regulator sides with telcos that claimed new cybersecurity duties were too ‘burdensome’</h4> <p>The Federal Communications Commission (FCC) will vote this week on whether to scrap Biden-era cybersecurity rules, enacted after the Salt Typhoon attacks came to light in 2024, that required telecom carriers to adopt basic security controls.…</p>]]>
+      </description>
+      <source:markdown>#### Regulator sides with telcos that claimed new cybersecurity duties were too ‘burdensome’
+
+The Federal Communications Commission (FCC) will vote this week on whether to scrap Biden-era cybersecurity rules, enacted after the Salt Typhoon attacks came to light in 2024, that required telecom carriers to adopt basic security controls.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243101</guid>
+    </item>    <item>
       <title>China readies a lifeboat for stranded Shenzhou crew</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/18/china_readies_a_lifeboat_for/</link>
       <description>
@@ -21,7 +143,7 @@ China is preparing for an early launch of the Shenzhou-22 spacecraft to rescue t
       <title>Data Telemetry Is the Lifeline of Modern Analytics and AI</title>
       <link>https://thenewstack.io/data-telemetry-is-the-lifeline-of-modern-analytics-and-ai/</link>
       <description>
-        <![CDATA[<img width="1024" height="624" src="https://cdn.thenewstack.io/media/2025/11/96f2512f-shoes-1024x624.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Guy unpacking shoes he just bought." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/96f2512f-shoes.jpg" /><p>Imagine opening your preferred shopping app to purchase a new pair of sneakers. In a matter of seconds, you search,</p>
+        <![CDATA[<img width="1024" height="624" src="https://cdn.thenewstack.io/media/2025/11/96f2512f-shoes-1024x624.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Guy unpacking shoes he just bought." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/96f2512f-shoes.jpg" /><p>Imagine opening your preferred shopping app to purchase a new pair of sneakers. In a matter of seconds, you search,</p>
         <p>The post <a href="https://thenewstack.io/data-telemetry-is-the-lifeline-of-modern-analytics-and-ai/">Data Telemetry Is the Lifeline of Modern Analytics and AI</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![Guy unpacking shoes he just bought.](https://cdn.thenewstack.io/media/2025/11/96f2512f-shoes-1024x624.jpg)
@@ -68,6 +190,14 @@ Google pushed an emergency patch on Monday for a high-severity Chrome bug that a
 
 Gartner warns that fossil fuel dominance in on-site power generation is not sustainable, given the rapid rise in datacenter energy consumption due to AI servers.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243099</guid>
+    </item>    <item>
+      <title>Scientists Reverse Human Rejection of Pig Organ Transplant for First Time Ever</title>
+      <link>https://www.smithsonianmag.com/smart-news/scientists-prevent-human-rejection-of-pig-organ-transplant-for-first-time-ever-180987693/</link>
+      <description>
+        <![CDATA[A new study reversed transplant rejection twice, uncovering the reasons for transplant rejection on a cellular level]]>
+      </description>
+      <source:markdown>A new study reversed transplant rejection twice, uncovering the reasons for transplant rejection on a cellular level</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/9lWrhC2e5Ag4eI6S_pAHnilrFkY=/420x240/filters:focal(750x343:751x344)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/24/46/24460a5c-42b2-479e-ba24-f0d96552ddd1/nh-carrotta-nyudr-m-surg.jpg" length="" type="" />
     </item>    <item>
       <title>Outdated Samsung handset linked to fatal emergency call failure in Australia</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/18/samsung_emergency_call_failure/</link>
@@ -485,17 +615,17 @@ The post [Automation Complacency Can Compound Vibe Coding Risks](https://thenews
       <source:markdown>Digital reconstructions are bringing structures to life that may have collapsed during Mount Vesuvius&#39; eruption in 79 C.E. Researchers think these towers symbolized their owners&#39; wealth and influence</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/N1j2NLVUiedcW0dsZv7-ZQA07fo=/420x240/filters:focal(600x426:601x427)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/62/d7/62d72bf0-e0f7-4e57-a55f-80c5ebf31f9a/6030558418219159961-1200x846.jpg" length="" type="" />
     </item>    <item>
-      <title>Why ‘Store Together, Access Together’ Matters for Your Database</title>
+      <title>Data Locality vs. Independence: Which Should Your Database Prioritize?</title>
       <link>https://thenewstack.io/why-store-together-access-together-matters-for-your-database/</link>
       <description>
         <![CDATA[<img width="1024" height="601" src="https://cdn.thenewstack.io/media/2025/11/9473b935-bowlingshoes3-1024x601.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Bowling shoes stored together in a cupboard." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/9473b935-bowlingshoes3.jpg" /><p>When your application needs several pieces of data at once, the fastest approach is to read them from a single</p>
-        <p>The post <a href="https://thenewstack.io/why-store-together-access-together-matters-for-your-database/">Why &#8216;Store Together, Access Together&#8217; Matters for Your Database</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+        <p>The post <a href="https://thenewstack.io/why-store-together-access-together-matters-for-your-database/">Data Locality vs. Independence: Which Should Your Database Prioritize?</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![Bowling shoes stored together in a cupboard.](https://cdn.thenewstack.io/media/2025/11/9473b935-bowlingshoes3-1024x601.jpg)
 
 When your application needs several pieces of data at once, the fastest approach is to read them from a single
 
-The post [Why ‘Store Together, Access Together’ Matters for Your Database](https://thenewstack.io/why-store-together-access-together-matters-for-your-database/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+The post [Data Locality vs. Independence: Which Should Your Database Prioritize?](https://thenewstack.io/why-store-together-access-together-matters-for-your-database/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
       <guid>cid://https://thenewstack.io/?p=22806862</guid>
     </item>    <item>
       <title>Security researcher calls BS on Coinbase breach disclosure timeline</title>
@@ -659,9 +789,9 @@ Amazon founder Jeff Bezos is returning to the CEO seat – though not at his bes
       <title>Artist Sneaks Framed A.I. Portrait and Accompanying Label Onto a Museum&#39;s Gallery Wall</title>
       <link>https://www.smithsonianmag.com/smart-news/artist-sneaks-framed-ai-portrait-and-accompanying-label-onto-a-museums-gallery-wall-180987691/</link>
       <description>
-        <![CDATA[The A.I.-generated image hung in Wales' National Museum in Cardiff for a few hours before staffers and museumgoers noticed its presence]]>
+        <![CDATA[The artificial-intelligence-generated image hung in Wales' National Museum in Cardiff for a few hours before staffers and museumgoers noticed its presence]]>
       </description>
-      <source:markdown>The A.I.-generated image hung in Wales&#39; National Museum in Cardiff for a few hours before staffers and museumgoers noticed its presence</source:markdown>
+      <source:markdown>The artificial-intelligence-generated image hung in Wales&#39; National Museum in Cardiff for a few hours before staffers and museumgoers noticed its presence</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/aX2mPIB6UeaVCaSTlf55M0upmSo=/420x240/filters:focal(3847x2492:3848x2493)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5f/db/5fdbc7e4-4da1-4c2f-827f-3a805ba0523d/gettyimages-2197424220.jpg" length="" type="" />
     </item>    <item>
       <title>Overconfidence is the new zero-day as teams stumble through cyber simulations</title>

@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>18 Nov 25 10:11 -0800</lastBuildDate>
+    <lastBuildDate>18 Nov 25 14:13 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -141,11 +141,770 @@ As always, do give this release a try and open a [ticket](https://gitlab.haskell
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
     </item>    <item>
+      <title>Never mind Cloudflare; the electricity has gone out in our street. It’s actually kinda nice, playing mandolin by candlelight.</title>
+      <link>https://adactio.com/notes/22257</link>
+      <description>
+        <![CDATA[<p>Never mind Cloudflare; the electricity has gone out in our street.</p>
+        
+        <p>It’s actually kinda nice, playing mandolin by candlelight.</p>]]>
+      </description>
+      <source:markdown>Never mind Cloudflare; the electricity has gone out in our street.
+
+It’s actually kinda nice, playing mandolin by candlelight.</source:markdown>
+      <guid>cid://https://adactio.com/notes/22257</guid>
+    </item>    <item>
+      <title>The Strange Afterlife of Hilma af Klint, Painting&#38;#8217;s Posthumous Star. &#38;#8220;As af...</title>
+      <link>https://kottke.org/25/11/0047866-the-strange-afterlife-of-</link>
+      <guid>cid://tag:kottke.org,2025://13.47866</guid>
+    </item>    <item>
+      <link>https://tilde.zone/@tomasino/115572740068451511</link>
+      <description>
+        <![CDATA[<p>Rules of the game: </p><ul><li>Grab the nearest book.</li><li>Turn to page 42</li><li>Find the 2nd sentence</li><li>Post the sentence in a toot with the hashtag &amp; write the rules as a comment to it</li><li>Don't look for your favourite, coolest or wittiest book. Go for the closest.</li></ul>]]>
+      </description>
+      <source:markdown>Rules of the game:
+
+- Grab the nearest book.
+- Turn to page 42
+- Find the 2nd sentence
+- Post the sentence in a toot with the hashtag &#38; write the rules as a comment to it
+- Don&#39;t look for your favourite, coolest or wittiest book. Go for the closest.</source:markdown>
+      <guid>cid://https://tilde.zone/@tomasino/115572740068451511</guid>
+    </item>    <item>
+      <link>https://tilde.zone/@tomasino/115572739361163092</link>
+      <description>
+        <![CDATA[<p><a href="https://tilde.zone/tags/page42" class="mention hashtag" rel="tag">#<span>page42</span></a> </p><p>14.Bxd6 cxd6 15.cxb4 Nac6 16.a3 a5 17.b5 Nb4 18.axb4 Rc8 19.Nc3 axb4</p>]]>
+      </description>
+      <source:markdown>[#page42](https://tilde.zone/tags/page42)
+
+14.Bxd6 cxd6 15.cxb4 Nac6 16.a3 a5 17.b5 Nb4 18.axb4 Rc8 19.Nc3 axb4</source:markdown>
+      <guid>cid://https://tilde.zone/@tomasino/115572739361163092</guid>
+    </item>    <item>
+      <title>Google Antigravity</title>
+      <link>https://simonwillison.net/2025/Nov/18/google-antigravity/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://antigravity.google/">Google Antigravity</a></strong></p>
+        Google's other major release today to accompany <a href="https://simonwillison.net/2025/Nov/18/gemini-3/">Gemini 3 Pro</a>. At first glance Antigravity is yet another VS Code fork Cursor clone - it's a desktop application you install that then signs in to your Google account and provides an IDE for agentic coding against their Gemini models.</p>
+        <p>When you look closer it's actually a fair bit more interesting than that.</p>
+        <p>The best introduction right now is the official 14 minute <a href="https://www.youtube.com/watch?v=nTOVIGsqCuY">Learn the basics of Google Antigravity</a> video on YouTube, where product engineer Kevin Hou (who previously worked at Windsurf) walks through the process of building an app.</p>
+        <p>There are some interesting new ideas in Antigravity. The application itself has three "surfaces" - an agent manager dashboard, a traditional VS Code style editor and deep integration with a browser via a new Chrome extension. This plays a similar role to Playwright MCP, allowing the agent to directly test the web applications it is building.</p>
+        <p>Antigravity also introduces the concept of "artifacts" (confusingly not at all similar to <a href="https://simonwillison.net/tags/claude-artifacts/">Claude Artifacts</a>). These are Markdown documents that are automatically created as the agent works, for things like task lists, implementation plans and a "walkthrough" report showing what the agent has done once it finishes.</p>
+        <p>I tried using Antigravity to help <a href="https://github.com/simonw/llm-gemini/issues/113">add support for Gemini 3</a> to by <code>llm-gemini</code> plugin. </p>
+        <p><img alt="Screenshot of the VS Code interface showing an implementation plan to update the llm-gemini library to support the thinking_level parameter for Gemini 3 Pro Preview, with the Open Agent Manager sidebar active on the right." src="https://static.simonwillison.net/static/2025/antigravity.jpg" /></p>
+        <p>It worked OK at first then gave me an "Agent execution terminated due to model provider overload. Please try again later" error. I'm going to give it another go after they've had a chance to work through those initial launch jitters.
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/vs-code">vs-code</a></p>]]>
+      </description>
+      <source:markdown>**[Google Antigravity](https://antigravity.google/)**
+
+Google&#39;s other major release today to accompany [Gemini 3 Pro](https://simonwillison.net/2025/Nov/18/gemini-3/). At first glance Antigravity is yet another VS Code fork Cursor clone - it&#39;s a desktop application you install that then signs in to your Google account and provides an IDE for agentic coding against their Gemini models.
+
+When you look closer it&#39;s actually a fair bit more interesting than that.
+
+The best introduction right now is the official 14 minute [Learn the basics of Google Antigravity](https://www.youtube.com/watch?v=nTOVIGsqCuY) video on YouTube, where product engineer Kevin Hou (who previously worked at Windsurf) walks through the process of building an app.
+
+There are some interesting new ideas in Antigravity. The application itself has three &#34;surfaces&#34; - an agent manager dashboard, a traditional VS Code style editor and deep integration with a browser via a new Chrome extension. This plays a similar role to Playwright MCP, allowing the agent to directly test the web applications it is building.
+
+Antigravity also introduces the concept of &#34;artifacts&#34; (confusingly not at all similar to [Claude Artifacts](https://simonwillison.net/tags/claude-artifacts/)). These are Markdown documents that are automatically created as the agent works, for things like task lists, implementation plans and a &#34;walkthrough&#34; report showing what the agent has done once it finishes.
+
+I tried using Antigravity to help [add support for Gemini 3](https://github.com/simonw/llm-gemini/issues/113) to by `llm-gemini` plugin.
+
+![Screenshot of the VS Code interface showing an implementation plan to update the llm-gemini library to support the thinking_level parameter for Gemini 3 Pro Preview, with the Open Agent Manager sidebar active on the right.](https://static.simonwillison.net/static/2025/antigravity.jpg)
+
+It worked OK at first then gave me an &#34;Agent execution terminated due to model provider overload. Please try again later&#34; error. I&#39;m going to give it another go after they&#39;ve had a chance to work through those initial launch jitters.
+
+
+
+Tags: [google](https://simonwillison.net/tags/google), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [gemini](https://simonwillison.net/tags/gemini), [vs-code](https://simonwillison.net/tags/vs-code)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/18/google-antigravity/#atom-everything</guid>
+    </item>    <item>
+      <title>The Fascinating History of Tarot Card Decks: From the Renaissance to the...</title>
+      <link>https://kottke.org/25/11/0047869-the-fascinating-history-o</link>
+      <guid>cid://tag:kottke.org,2025://13.47869</guid>
+    </item>    <item>
+      <title>November 17, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/november-17-2025</link>
+      <enclosure url="https://api.substack.com/feed/podcast/179284760/a5ba9c864d968122c485277d068261a8.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/november-17-2025</guid>
+    </item>    <item>
+      <link>https://www.thebulwark.com/p/in-major-rebuke-to-trump-house-passes-jeffrey-epstein-files-resolution</link>
+      <description>
+        <![CDATA[<p>In Major Rebuke to Trump, House Passes Epstein Files Resolution.</p>]]>
+      </description>
+      <source:markdown>In Major Rebuke to Trump, House Passes Epstein Files Resolution.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/18/1941/</guid>
+    </item>    <item>
+      <title>The False Glorification of Yann LeCun</title>
+      <link>https://garymarcus.substack.com/p/the-false-glorification-of-yann-lecun</link>
+      <description>
+        <![CDATA[Don&#8217;t believe everything you read]]>
+      </description>
+      <source:markdown>Don’t believe everything you read</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Fbie!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f23da67-0ee2-4b5e-8932-ce527f014070_1237x1604.png" length="0" type="image/jpeg" />
+      <guid>cid://https://garymarcus.substack.com/p/the-false-glorification-of-yann-lecun</guid>
+    </item>    <item>
+      <title>Mary Beard: Hollywood Lied to You About Ancient Rome. Here&#38;#8217;s the Truth.</title>
+      <link>https://kottke.org/25/11/mary-beard-hollywood-lied-to-you-about-ancient-rome-heres-the-truth</link>
+      <guid>cid://tag:kottke.org,2025://5.47857</guid>
+    </item>    <item>
+      <title>When You Give a Bully Your Lunch Money</title>
+      <link>https://bsky.app/profile/atrupar.com/post/3m5wdorhxsx2u</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42398</guid>
+    </item>    <item>
+      <title>Quoting Ethan Mollick</title>
+      <link>https://simonwillison.net/2025/Nov/18/ethan-mollick/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini"><p>Three years ago, we were impressed that a machine could write a poem about otters. Less than 1,000 days later, I am debating statistical methodology with an agent that built its own research environment. The era of the chatbot is turning into the era of the digital coworker. To be very clear, Gemini 3 isn’t perfect, and it still needs a manager who can guide and check it. But it suggests that “human in the loop” is evolving from “human who fixes AI mistakes” to “human who directs AI work.” And that may be the biggest change since the release of ChatGPT.</p></blockquote>
+        <p class="cite">&mdash; <a href="https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini">Ethan Mollick</a>, Three Years from GPT-3 to Gemini 3</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/ethan-mollick">ethan-mollick</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a></p>]]>
+      </description>
+      <source:markdown>&#62; Three years ago, we were impressed that a machine could write a poem about otters. Less than 1,000 days later, I am debating statistical methodology with an agent that built its own research environment. The era of the chatbot is turning into the era of the digital coworker. To be very clear, Gemini 3 isn’t perfect, and it still needs a manager who can guide and check it. But it suggests that “human in the loop” is evolving from “human who fixes AI mistakes” to “human who directs AI work.” And that may be the biggest change since the release of ChatGPT.
+
+— [Ethan Mollick](https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini), Three Years from GPT-3 to Gemini 3
+
+Tags: [gemini](https://simonwillison.net/tags/gemini), [ethan-mollick](https://simonwillison.net/tags/ethan-mollick), [generative-ai](https://simonwillison.net/tags/generative-ai), [chatgpt](https://simonwillison.net/tags/chatgpt), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms), [ai-agents](https://simonwillison.net/tags/ai-agents)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/18/ethan-mollick/#atom-everything</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m5whmtubrc2d</link>
+      <description>
+        <![CDATA[Some toughts on text fragment links ("copy link to highlight"), posts, replies and RSS feeds.
+        
+        https://rsdoiel.github.io/blog/2025/11/17/text_fragment_links_a_social_expression.html]]>
+      </description>
+      <source:markdown>Some toughts on text fragment links (&#34;copy link to highlight&#34;), posts, replies and RSS feeds.
+
+https://rsdoiel.github.io/blog/2025/11/17/text\_fragment\_links\_a\_social\_expression.html</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m5whmtubrc2d</guid>
+    </item>    <item>
+      <title>Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark</title>
+      <link>https://simonwillison.net/2025/Nov/18/gemini-3/#atom-everything</link>
+      <description>
+        <![CDATA[<p>Google released Gemini 3 Pro today. Here's <a href="https://blog.google/products/gemini/gemini-3/">the announcement from Sundar Pichai, Demis Hassabis, and Koray Kavukcuoglu</a>, their <a href="https://blog.google/technology/developers/gemini-3-developers/">developer blog announcement from Logan Kilpatrick</a>, the <a href="https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Pro-Model-Card.pdf">Gemini 3 Pro Model Card</a>, and their <a href="https://blog.google/products/gemini/gemini-3-collection/">collection of 11 more articles</a>. It's a big release!</p>
+        <p>I had a few days of preview access to this model via <a href="https://aistudio.google.com/">AI Studio</a>. The best way to describe it is that it's <strong>Gemini 2.5 upgraded to match the leading rival models</strong>.</p>
+        <p>Gemini 3 has the same underlying characteristics as Gemini 2.5. The knowledge cutoff is the same (January 2025). It accepts 1 million input tokens, can output up to 64,000 tokens, and has multimodal inputs across text, images, audio, and video.</p>
+        <h4 id="benchmarks">Benchmarks</h4>
+        <p>Google's own reported numbers (in <a href="https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Pro-Model-Card.pdf">the model card</a>) show it scoring slightly higher against Claude 4.5 Sonnet and GPT-5.1 against most of the standard benchmarks. As always I'm waiting for independent confirmation, but I have no reason to believe those numbers are inaccurate.</p>
+        <p><img src="https://static.simonwillison.net/static/2025/gemini-3-benchmarks.jpg" alt="Table of benchmark numbers, described in full below" style="max-width: 100%;" /></p>
+        <h4 id="pricing">Pricing</h4>
+        <p>It terms of pricing it's a little more expensive than Gemini 2.5 but still cheaper than Claude Sonnet 4.5. Here's how it fits in with those other leading models:</p>
+        <center><table>
+          <thead>
+            <tr>
+              <th>Model</th>
+              <th>Input (per 1M tokens)</th>
+              <th>Output (per 1M tokens)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>GPT-5.1</td>
+              <td>$1.25</td>
+              <td>$10.00</td>
+            </tr>
+            <tr>
+              <td>Gemini 2.5 Pro</td>
+              <td>
+                ≤ 200k tokens: $1.25<br />
+                &gt; 200k tokens: $2.50
+              </td>
+              <td>
+                ≤ 200k tokens: $10.00<br />
+                &gt; 200k tokens: $15.00
+              </td>
+            </tr>
+            <tr>
+              <td><strong>Gemini 3 Pro</strong></td>
+              <td>
+                ≤ 200k tokens: $2.00<br />
+                &gt; 200k tokens: $4.00
+              </td>
+              <td>
+                ≤ 200k tokens: $12.00<br />
+                &gt; 200k tokens: $18.00
+              </td>
+            </tr>
+            <tr>
+              <td>Claude Sonnet 4.5</td>
+              <td>
+                ≤ 200k tokens: $3.00<br />
+                &gt; 200k tokens: $6.00
+              </td>
+              <td>
+                ≤ 200k tokens: $15.00<br />
+                &gt; 200k tokens: $22.50
+              </td>
+            </tr>
+            <tr>
+              <td>Claude Opus 4.1</td>
+              <td>$15.00</td>
+              <td>$75.00</td>
+            </tr>
+          </tbody>
+        </table></center>
+        <h4 id="trying-it-out-against-a-complex-image">Trying it out against a complex image</h4>
+        <p>That screenshot of the benchmarks from above looked like a good test for Gemini 3's multimodal support. I fed it that image URL and asked it to generate alt text for the image:</p>
+        <blockquote>
+        <p><code>llm -m gemini-3-pro-preview -a https://static.simonwillison.net/static/2025/gemini-3-benchmarks.jpg 'Alt text for this image, include all figures and make them comprehensible to a screen reader user'</code></p>
+        </blockquote>
+        <p>Here's what I got back:</p>
+        <blockquote>
+        <p>A comprehensive table comparing four AI models across various performance benchmarks. The columns listed are: Benchmark Name, Description, Gemini 3 Pro (highlighted in blue), Gemini 2.5 Pro, Claude Sonnet 4.5, and GPT-5.1.</p>
+        <p><strong>Humanity's Last Exam (Academic reasoning)</strong></p>
+        <ul>
+        <li>No tools: Gemini 3 Pro 37.5%, Gemini 2.5 Pro 21.6%, Claude Sonnet 4.5 13.7%, GPT-5.1 26.5%.</li>
+        <li>With search and code execution: Gemini 3 Pro 45.8% (others have no data).</li>
+        </ul>
+        <p><strong>ARC-AGI-2 (Visual reasoning puzzles; ARC Prize Verified)</strong></p>
+        <ul>
+        <li>Gemini 3 Pro 31.1%, Gemini 2.5 Pro 4.9%, Claude Sonnet 4.5 13.6%, GPT-5.1 17.6%.</li>
+        </ul>
+        <p><strong>GPQA Diamond (Scientific knowledge; No tools)</strong></p>
+        <ul>
+        <li>Gemini 3 Pro 91.9%, Gemini 2.5 Pro 86.4%, Claude Sonnet 4.5 83.4%, GPT-5.1 88.1%.</li>
+        </ul>
+        <p><strong>AIME 2025 (Mathematics)</strong></p>
+        <ul>
+        <li>No tools: Gemini 3 Pro 95.0%, Gemini 2.5 Pro 88.0%, Claude Sonnet 4.5 87.0%, GPT-5.1 94.0%.</li>
+        <li>With code execution: Gemini 3 Pro 100%, Claude Sonnet 4.5 100%.</li>
+        </ul>
+        <p><strong>MathArena Apex (Challenging Math Contest problems)</strong></p>
+        <ul>
+        <li>Gemini 3 Pro 23.4%, Gemini 2.5 Pro 0.5%, Claude Sonnet 4.5 1.6%, GPT-5.1 1.0%.</li>
+        </ul>
+        <p><strong>MMMU-Pro (Multimodal understanding and reasoning)</strong></p>
+        <ul>
+        <li>Gemini 3 Pro 81.0%, Gemini 2.5 Pro 68.0%, Claude Sonnet 4.5 68.0%, GPT-5.1 76.0%.</li>
+        </ul>
+        <p><strong>ScreenSpot-Pro (Screen understanding)</strong></p>
+        <ul>
+        <li>Gemini 3 Pro 72.7%, Gemini 2.5 Pro 11.4%, Claude Sonnet 4.5 36.2%, GPT-5.1 3.5%.</li>
+        </ul>
+        <p><strong>CharXiv Reasoning (Information synthesis from complex charts)</strong></p>
+        <ul>
+        <li>Gemini 3 Pro 81.4%, Gemini 2.5 Pro 69.6%, Claude Sonnet 4.5 68.5%, GPT-5.1 69.5%.</li>
+        </ul>
+        <p><strong>OmniDocBench 1.5 (OCR; Overall Edit Distance, lower is better)</strong></p>
+        <ul>
+        <li>Gemini 3 Pro 0.115, Gemini 2.5 Pro 0.145, Claude Sonnet 4.5 0.145, GPT-5.1 0.147.</li>
+        </ul>
+        <p><strong>Video-MMMU (Knowledge acquisition from videos)</strong></p>
+        <ul>
+        <li>Gemini 3 Pro 87.6%, Gemini 2.5 Pro 83.6%, Claude Sonnet 4.5 77.8%, GPT-5.1 80.4%.</li>
+        </ul>
+        <p><strong>LiveCodeBench Pro (Competitive coding problems; Elo Rating, higher is better)</strong></p>
+        <ul>
+        <li>Gemini 3 Pro 2,439; Gemini 2.5 Pro 1,775; Claude Sonnet 4.5 1,418; GPT-5.1 2,243.</li>
+        </ul>
+        <p><strong>Terminal-Bench 2.0 (Agentic terminal coding; Terminus-2 agent)</strong></p>
+        <ul>
+        <li>Gemini 3 Pro 54.2%, Gemini 2.5 Pro 32.6%, Claude Sonnet 4.5 42.8%, GPT-5.1 47.6%.</li>
+        </ul>
+        <p><strong>SWE-Bench Verified (Agentic coding; Single attempt)</strong></p>
+        <ul>
+        <li>Gemini 3 Pro 76.2%, Gemini 2.5 Pro 59.6%, Claude Sonnet 4.5 77.2%, GPT-5.1 76.3%.</li>
+        </ul>
+        <p><strong>t2-bench (Agentic tool use)</strong></p>
+        <ul>
+        <li>Gemini 3 Pro 85.4%, Gemini 2.5 Pro 54.9%, Claude Sonnet 4.5 84.7%, GPT-5.1 80.2%.</li>
+        </ul>
+        <p><strong>Vending-Bench 2 (Long-horizon agentic tasks; Net worth (mean), higher is better)</strong></p>
+        <ul>
+        <li>Gemini 3 Pro $5,478.16; Gemini 2.5 Pro $573.64; Claude Sonnet 4.5 $3,838.74; GPT-5.1 $1,473.43.</li>
+        </ul>
+        <p><strong>FACTS Benchmark Suite (Held out internal grounding, parametric, MM, and search retrieval benchmarks)</strong></p>
+        <ul>
+        <li>Gemini 3 Pro 70.5%, Gemini 2.5 Pro 63.4%, Claude Sonnet 4.5 50.4%, GPT-5.1 50.8%.</li>
+        </ul>
+        <p><strong>SimpleQA Verified (Parametric knowledge)</strong></p>
+        <ul>
+        <li>Gemini 3 Pro 72.1%, Gemini 2.5 Pro 54.5%, Claude Sonnet 4.5 29.3%, GPT-5.1 34.9%.</li>
+        </ul>
+        <p><strong>MMMLU (Multilingual Q&amp;A)</strong></p>
+        <ul>
+        <li>Gemini 3 Pro 91.8%, Gemini 2.5 Pro 89.5%, Claude Sonnet 4.5 89.1%, GPT-5.1 91.0%.</li>
+        </ul>
+        <p><strong>Global PIQA (Commonsense reasoning across 100 Languages and Cultures)</strong></p>
+        <ul>
+        <li>Gemini 3 Pro 93.4%, Gemini 2.5 Pro 91.5%, Claude Sonnet 4.5 90.1%, GPT-5.1 90.9%.</li>
+        </ul>
+        <p><strong>MRCR v2 (8-needle) (Long context performance)</strong></p>
+        <ul>
+        <li>128k (average): Gemini 3 Pro 77.0%, Gemini 2.5 Pro 58.0%, Claude Sonnet 4.5 47.1%, GPT-5.1 61.6%.</li>
+        <li>1M (pointwise): Gemini 3 Pro 26.3%, Gemini 2.5 Pro 16.4%, Claude Sonnet 4.5 (not supported), GPT-5.1 (not supported).</li>
+        </ul>
+        </blockquote>
+        <p>I have not checked every line of this but a loose spot-check looks accurate to me.</p>
+        <p>That prompt took 1,105 input and 3,901 output tokens, at a cost of <a href="https://www.llm-prices.com/#it=1105&amp;cit=3901&amp;ot=3901&amp;ic=2&amp;oc=12&amp;sel=gemini-3-pro-preview">5.6824 cents</a>.</p>
+        <p>I ran this follow-up prompt:</p>
+        <blockquote>
+        <p><code>llm -c 'Convert to JSON'</code></p>
+        </blockquote>
+        <p>You can see <a href="https://gist.github.com/simonw/ea7d52706557528e7eb3912cdf9250b0#response-1">the full output here</a>, which starts like this:</p>
+        <div class="highlight highlight-source-json"><pre>{
+          <span class="pl-ent">"metadata"</span>: {
+            <span class="pl-ent">"columns"</span>: [
+              <span class="pl-s"><span class="pl-pds">"</span>Benchmark<span class="pl-pds">"</span></span>,
+              <span class="pl-s"><span class="pl-pds">"</span>Description<span class="pl-pds">"</span></span>,
+              <span class="pl-s"><span class="pl-pds">"</span>Gemini 3 Pro<span class="pl-pds">"</span></span>,
+              <span class="pl-s"><span class="pl-pds">"</span>Gemini 2.5 Pro<span class="pl-pds">"</span></span>,
+              <span class="pl-s"><span class="pl-pds">"</span>Claude Sonnet 4.5<span class="pl-pds">"</span></span>,
+              <span class="pl-s"><span class="pl-pds">"</span>GPT-5.1<span class="pl-pds">"</span></span>
+            ]
+          },
+          <span class="pl-ent">"benchmarks"</span>: [
+            {
+              <span class="pl-ent">"name"</span>: <span class="pl-s"><span class="pl-pds">"</span>Humanity's Last Exam<span class="pl-pds">"</span></span>,
+              <span class="pl-ent">"description"</span>: <span class="pl-s"><span class="pl-pds">"</span>Academic reasoning<span class="pl-pds">"</span></span>,
+              <span class="pl-ent">"sub_results"</span>: [
+                {
+                  <span class="pl-ent">"condition"</span>: <span class="pl-s"><span class="pl-pds">"</span>No tools<span class="pl-pds">"</span></span>,
+                  <span class="pl-ent">"gemini_3_pro"</span>: <span class="pl-s"><span class="pl-pds">"</span>37.5%<span class="pl-pds">"</span></span>,
+                  <span class="pl-ent">"gemini_2_5_pro"</span>: <span class="pl-s"><span class="pl-pds">"</span>21.6%<span class="pl-pds">"</span></span>,
+                  <span class="pl-ent">"claude_sonnet_4_5"</span>: <span class="pl-s"><span class="pl-pds">"</span>13.7%<span class="pl-pds">"</span></span>,
+                  <span class="pl-ent">"gpt_5_1"</span>: <span class="pl-s"><span class="pl-pds">"</span>26.5%<span class="pl-pds">"</span></span>
+                },
+                {
+                  <span class="pl-ent">"condition"</span>: <span class="pl-s"><span class="pl-pds">"</span>With search and code execution<span class="pl-pds">"</span></span>,
+                  <span class="pl-ent">"gemini_3_pro"</span>: <span class="pl-s"><span class="pl-pds">"</span>45.8%<span class="pl-pds">"</span></span>,
+                  <span class="pl-ent">"gemini_2_5_pro"</span>: <span class="pl-c1">null</span>,
+                  <span class="pl-ent">"claude_sonnet_4_5"</span>: <span class="pl-c1">null</span>,
+                  <span class="pl-ent">"gpt_5_1"</span>: <span class="pl-c1">null</span>
+                }
+              ]
+            },</pre></div>
+        <h4 id="analyzing-a-city-council-meeting">Analyzing a city council meeting</h4>
+        <p>To try it out against an audio file I extracted the 3h33m of audio from the video <a href="https://www.youtube.com/watch?v=qgJ7x7R6gy0">Half Moon Bay City Council Meeting - November 4, 2025</a>. I used <code>yt-dlp</code> to get that audio:</p>
+        <div class="highlight highlight-source-shell"><pre>yt-dlp -x --audio-format m4a <span class="pl-s"><span class="pl-pds">'</span>https://www.youtube.com/watch?v=qgJ7x7R6gy0<span class="pl-pds">'</span></span></pre></div>
+        <p>That gave me a 74M m4a file, which I ran through Gemini 3 Pro like this:</p>
+        <blockquote>
+        <p><code>llm -m gemini-3-pro-preview -a /tmp/HMBCC\ 11⧸4⧸25\ -\ Half\ Moon\ Bay\ City\ Council\ Meeting\ -\ November\ 4,\ 2025\ \[qgJ7x7R6gy0\].m4a 'Output a Markdown transcript of this meeting. Include speaker names and timestamps. Start with an outline of the key meeting sections, each with a title and summary and timestamp and list of participating names. Note in bold if anyone raised their voices, interrupted each other or had disagreements. Then follow with the full transcript.'</code></p>
+        </blockquote>
+        <p>That failed with an "Internal error encountered" message, so I shrunk the file down to a more manageable 38MB using <code>ffmpeg</code>:</p>
+        <div class="highlight highlight-source-shell"><pre>ffmpeg -i <span class="pl-s"><span class="pl-pds">"</span>/private/tmp/HMB.m4a<span class="pl-pds">"</span></span> -ac 1 -ar 22050 -c:a aac -b:a 24k <span class="pl-s"><span class="pl-pds">"</span>/private/tmp/HMB_compressed.m4a<span class="pl-pds">"</span></span></pre></div>
+        <p>Then ran it again like this (for some reason I had to use <code>--attachment-type</code> this time):</p>
+        <blockquote>
+        <p><code>llm -m gemini-3-pro-preview --attachment-type /tmp/HMB_compressed.m4a 'audio/aac' 'Output a Markdown transcript of this meeting. Include speaker names and timestamps. Start with an outline of the key meeting sections, each with a title and summary and timestamp and list of participating names. Note in bold if anyone raised their voices, interrupted each other or had disagreements. Then follow with the full transcript.'</code></p>
+        </blockquote>
+        <p>This time it worked! The <a href="https://gist.github.com/simonw/0b7bc23adb6698f376aebfd700943314">full output is here</a>, but it starts like this:</p>
+        <blockquote>
+        <p>Here is the transcript of the Half Moon Bay City Council meeting.</p>
+        <h4>Meeting Outline</h4>
+        <p><strong>1. Call to Order, Updates, and Public Forum</strong></p>
+        <ul>
+        <li>
+        <strong>Summary:</strong> Mayor Brownstone calls the meeting to order. City Manager Chidester reports no reportable actions from the closed session. Announcements are made regarding food insecurity volunteers and the Diwali celebration. During the public forum, Councilmember Penrose (speaking as a citizen) warns against autocracy. Citizens speak regarding lease agreements, downtown maintenance, local music events, and homelessness outreach statistics.</li>
+        <li>
+        <strong>Timestamp:</strong> 00:00:00 - 00:13:25</li>
+        <li>
+        <strong>Participants:</strong> Mayor Brownstone, Matthew Chidester, Irma Acosta, Deborah Penrose, Jennifer Moore, Sandy Vella, Joaquin Jimenez, Anita Rees.</li>
+        </ul>
+        <p><strong>2. Consent Calendar</strong></p>
+        <ul>
+        <li>
+        <strong>Summary:</strong> The Council approves minutes from previous meetings and a resolution authorizing a licensing agreement for Seahorse Ranch. Councilmember Johnson corrects a pull request regarding abstentions on minutes.</li>
+        <li>
+        <strong>Timestamp:</strong> 00:13:25 - 00:15:15</li>
+        <li>
+        <strong>Participants:</strong> Mayor Brownstone, Councilmember Johnson, Councilmember Penrose, Vice Mayor Ruddick, Councilmember Nagengast.</li>
+        </ul>
+        <p><strong>3. Ordinance Introduction: Commercial Vitality (Item 9A)</strong></p>
+        <ul>
+        <li>
+        <strong>Summary:</strong> Staff presents a new ordinance to address neglected and empty commercial storefronts, establishing maintenance and display standards. Councilmembers discuss enforcement mechanisms, window cleanliness standards, and the need for objective guidance documents to avoid subjective enforcement.</li>
+        <li>
+        <strong>Timestamp:</strong> 00:15:15 - 00:30:45</li>
+        <li>
+        <strong>Participants:</strong> Karen Decker, Councilmember Johnson, Councilmember Nagengast, Vice Mayor Ruddick, Councilmember Penrose.</li>
+        </ul>
+        <p><strong>4. Ordinance Introduction: Building Standards &amp; Electrification (Item 9B)</strong></p>
+        <ul>
+        <li>
+        <strong>Summary:</strong> Staff introduces updates to the 2025 Building Code. A major change involves repealing the city's all-electric building requirement due to the 9th Circuit Court ruling (<em>California Restaurant Association v. City of Berkeley</em>). <strong>Public speaker Mike Ferreira expresses strong frustration and disagreement with "unelected state agencies" forcing the City to change its ordinances.</strong>
+        </li>
+        <li>
+        <strong>Timestamp:</strong> 00:30:45 - 00:45:00</li>
+        <li>
+        <strong>Participants:</strong> Ben Corrales, Keith Weiner, Joaquin Jimenez, Jeremy Levine, Mike Ferreira, Councilmember Penrose, Vice Mayor Ruddick.</li>
+        </ul>
+        <p><strong>5. Housing Element Update &amp; Adoption (Item 9C)</strong></p>
+        <ul>
+        <li>
+        <strong>Summary:</strong> Staff presents the 5th draft of the Housing Element, noting State HCD requirements to modify ADU allocations and place a measure on the ballot regarding the "Measure D" growth cap. <strong>There is significant disagreement from Councilmembers Ruddick and Penrose regarding the State's requirement to hold a ballot measure.</strong> Public speakers debate the enforceability of Measure D. <strong>Mike Ferreira interrupts the vibe to voice strong distaste for HCD's interference in local law.</strong> The Council votes to adopt the element but strikes the language committing to a ballot measure.</li>
+        <li>
+        <strong>Timestamp:</strong> 00:45:00 - 01:05:00</li>
+        <li>
+        <strong>Participants:</strong> Leslie (Staff), Joaquin Jimenez, Jeremy Levine, Mike Ferreira, Councilmember Penrose, Vice Mayor Ruddick, Councilmember Johnson.</li>
+        </ul>
+        <hr />
+        <h4>Transcript</h4>
+        <p><strong>Mayor Brownstone</strong> [00:00:00]
+        Good evening everybody and welcome to the November 4th Half Moon Bay City Council meeting. As a reminder, we have Spanish interpretation services available in person and on Zoom.</p>
+        <p><strong>Victor Hernandez (Interpreter)</strong> [00:00:35]
+        Thank you, Mr. Mayor, City Council, all city staff, members of the public. <em>[Spanish instructions provided regarding accessing the interpretation channel on Zoom and in the room.]</em> Thank you very much.</p>
+        </blockquote>
+        <p>Those first two lines of the transcript already illustrate something interesting here: Gemini 3 Pro chose NOT to include the exact text of the Spanish instructions, instead summarizing them as "[Spanish instructions provided regarding accessing the interpretation channel on Zoom and in the room.]".</p>
+        <p>I haven't spot-checked the entire 3hr33m meeting, but I've confirmed that the timestamps do not line up. The transcript closes like this:</p>
+        <blockquote>
+        <p><strong>Mayor Brownstone</strong> [01:04:00]
+        Meeting adjourned. Have a good evening.</p>
+        </blockquote>
+        <p>That actually happens <a href="https://www.youtube.com/watch?v=qgJ7x7R6gy0&amp;t=3h31m5s">at 3h31m5s</a> and the mayor says:</p>
+        <blockquote>
+        <p>Okay. Well, thanks everybody, members of the public for participating. Thank you for staff. Thank you to fellow council members. This meeting is now adjourned. Have a good evening.</p>
+        </blockquote>
+        <p>I'm disappointed about the timestamps, since mismatches there make it much harder to jump to the right point and confirm that the summarized transcript is an accurate representation of what was said.</p>
+        <p>This took 320,087 input tokens and 7,870 output tokens, for a total cost of <a href="https://www.llm-prices.com/#it=320087&amp;ot=7870&amp;ic=4&amp;oc=18">$1.42</a>.</p>
+        <h4 id="and-a-new-pelican-benchmark">And a new pelican benchmark</h4>
+        <p>Gemini 3 Pro has a new concept of a "thinking level" which can be set to low or high (and defaults to high). I tried my classic <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle/">Generate an SVG of a pelican riding a bicycle</a> prompt at both levels.</p>
+        <p>Here's low - Gemini decided to add a jaunty little hat (with a comment <a href="https://gist.github.com/simonw/70d56ba39b7cbb44985d2384004fc4a0#response">in the SVG</a> that says <code>&lt;!-- Hat (Optional Fun Detail) --&gt;</code>):</p>
+        <p><img src="https://static.simonwillison.net/static/2025/gemini-3-pelican-low.png" alt="The pelican is wearing a blue hat. It has a good beak. The bicycle is a little bit incorrect but generally a good effort." style="max-width: 100%;" /></p>
+        <p>And here's high. This is genuinely an excellent pelican, and the bicycle frame is at least the correct shape:</p>
+        <p><img src="https://static.simonwillison.net/static/2025/gemini-3-pelican-high.png" alt="The pelican is not wearing a hat. It has a good beak. The bicycle is accurate and well-drawn." style="max-width: 100%;" /></p>
+        <p>Honestly though, my pelican benchmark is beginning to feel a little bit too basic. I decided to upgrade it. Here's v2 of the benchmark, which I plan to use going forward:</p>
+        <blockquote>
+        <p><code>Generate an SVG of a California brown pelican riding a bicycle. The bicycle must have spokes and a correctly shaped bicycle frame. The pelican must have its characteristic large pouch, and there should be a clear indication of feathers. The pelican must be clearly pedaling the bicycle. The image should show the full breeding plumage of the California brown pelican.</code></p>
+        </blockquote>
+        <p>For reference, here's a photo I took of a California brown pelican recently (sadly without a bicycle):</p>
+        <p><img src="https://static.simonwillison.net/static/2025/breeding-plumage.jpg" alt="A glorious California brown pelican perched on a rock by the water. It has a yellow tint to its head and a red spot near its throat." style="max-width: 100%;" /></p>
+        <p>Here's Gemini 3 Pro's <a href="https://gist.github.com/simonw/2b9930ae1ce6f3f5e9cfe3cb31ec0c0a">attempt</a> at high thinking level for that new prompt:</p>
+        <p><img src="https://static.simonwillison.net/static/2025/gemini-3-breeding-pelican-high.png" alt="It's clearly a pelican. It has all of the requested features. It looks a bit abstract though." style="max-width: 100%;" /></p>
+        <p>And for good measure, here's that same prompt <a href="https://gist.github.com/simonw/7a655ebe42f3d428d2ea5363dad8067c">against GPT-5.1</a> - which produced this dumpy little fellow:</p>
+        <p><img src="https://static.simonwillison.net/static/2025/gpt-5-1-breeding-pelican.png" alt="The pelican is very round. Its body overlaps much of the bicycle. It has a lot of dorky charisma." style="max-width: 100%;" /></p>
+        <p>And Claude Sonnet 4.5, which <a href="https://gist.github.com/simonw/3296af92e4328dd4740385e6a4a2ac35">didn't do quite as well</a>:</p>
+        <p><img src="https://static.simonwillison.net/static/2025/claude-sonnet-4-5-breeding-pelican.png" alt="Oh dear. It has all of the requested components, but the bicycle is a bit wrong and the pelican is arranged in a very awkward shape." style="max-width: 100%;" /></p>
+            
+                <p>Tags: <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a></p>]]>
+      </description>
+      <source:markdown>Google released Gemini 3 Pro today. Here&#39;s [the announcement from Sundar Pichai, Demis Hassabis, and Koray Kavukcuoglu](https://blog.google/products/gemini/gemini-3/), their [developer blog announcement from Logan Kilpatrick](https://blog.google/technology/developers/gemini-3-developers/), the [Gemini 3 Pro Model Card](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Pro-Model-Card.pdf), and their [collection of 11 more articles](https://blog.google/products/gemini/gemini-3-collection/). It&#39;s a big release!
+
+I had a few days of preview access to this model via [AI Studio](https://aistudio.google.com/). The best way to describe it is that it&#39;s **Gemini 2.5 upgraded to match the leading rival models**.
+
+Gemini 3 has the same underlying characteristics as Gemini 2.5. The knowledge cutoff is the same (January 2025). It accepts 1 million input tokens, can output up to 64,000 tokens, and has multimodal inputs across text, images, audio, and video.
+
+#### Benchmarks
+
+Google&#39;s own reported numbers (in [the model card](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Pro-Model-Card.pdf)) show it scoring slightly higher against Claude 4.5 Sonnet and GPT-5.1 against most of the standard benchmarks. As always I&#39;m waiting for independent confirmation, but I have no reason to believe those numbers are inaccurate.
+
+![Table of benchmark numbers, described in full below](https://static.simonwillison.net/static/2025/gemini-3-benchmarks.jpg)
+
+#### Pricing
+
+It terms of pricing it&#39;s a little more expensive than Gemini 2.5 but still cheaper than Claude Sonnet 4.5. Here&#39;s how it fits in with those other leading models:
+
+ModelInput (per 1M tokens)Output (per 1M tokens)GPT-5.1$1.25$10.00Gemini 2.5 Pro
+ ≤ 200k tokens: $1.25
+
+ \&#62; 200k tokens: $2.50
+
+ ≤ 200k tokens: $10.00
+
+ \&#62; 200k tokens: $15.00
+ **Gemini 3 Pro**
+ ≤ 200k tokens: $2.00
+
+ \&#62; 200k tokens: $4.00
+
+ ≤ 200k tokens: $12.00
+
+ \&#62; 200k tokens: $18.00
+ Claude Sonnet 4.5
+ ≤ 200k tokens: $3.00
+
+ \&#62; 200k tokens: $6.00
+
+ ≤ 200k tokens: $15.00
+
+ \&#62; 200k tokens: $22.50
+ Claude Opus 4.1$15.00$75.00
+
+#### Trying it out against a complex image
+
+That screenshot of the benchmarks from above looked like a good test for Gemini 3&#39;s multimodal support. I fed it that image URL and asked it to generate alt text for the image:
+
+&#62; `llm -m gemini-3-pro-preview -a https://static.simonwillison.net/static/2025/gemini-3-benchmarks.jpg &#39;Alt text for this image, include all figures and make them comprehensible to a screen reader user&#39;`
+
+Here&#39;s what I got back:
+
+&#62; A comprehensive table comparing four AI models across various performance benchmarks. The columns listed are: Benchmark Name, Description, Gemini 3 Pro (highlighted in blue), Gemini 2.5 Pro, Claude Sonnet 4.5, and GPT-5.1.
+&#62;
+&#62; **Humanity&#39;s Last Exam (Academic reasoning)**
+&#62;
+&#62; - No tools: Gemini 3 Pro 37.5%, Gemini 2.5 Pro 21.6%, Claude Sonnet 4.5 13.7%, GPT-5.1 26.5%.
+&#62; - With search and code execution: Gemini 3 Pro 45.8% (others have no data).
+&#62;
+&#62; **ARC-AGI-2 (Visual reasoning puzzles; ARC Prize Verified)**
+&#62;
+&#62; - Gemini 3 Pro 31.1%, Gemini 2.5 Pro 4.9%, Claude Sonnet 4.5 13.6%, GPT-5.1 17.6%.
+&#62;
+&#62; **GPQA Diamond (Scientific knowledge; No tools)**
+&#62;
+&#62; - Gemini 3 Pro 91.9%, Gemini 2.5 Pro 86.4%, Claude Sonnet 4.5 83.4%, GPT-5.1 88.1%.
+&#62;
+&#62; **AIME 2025 (Mathematics)**
+&#62;
+&#62; - No tools: Gemini 3 Pro 95.0%, Gemini 2.5 Pro 88.0%, Claude Sonnet 4.5 87.0%, GPT-5.1 94.0%.
+&#62; - With code execution: Gemini 3 Pro 100%, Claude Sonnet 4.5 100%.
+&#62;
+&#62; **MathArena Apex (Challenging Math Contest problems)**
+&#62;
+&#62; - Gemini 3 Pro 23.4%, Gemini 2.5 Pro 0.5%, Claude Sonnet 4.5 1.6%, GPT-5.1 1.0%.
+&#62;
+&#62; **MMMU-Pro (Multimodal understanding and reasoning)**
+&#62;
+&#62; - Gemini 3 Pro 81.0%, Gemini 2.5 Pro 68.0%, Claude Sonnet 4.5 68.0%, GPT-5.1 76.0%.
+&#62;
+&#62; **ScreenSpot-Pro (Screen understanding)**
+&#62;
+&#62; - Gemini 3 Pro 72.7%, Gemini 2.5 Pro 11.4%, Claude Sonnet 4.5 36.2%, GPT-5.1 3.5%.
+&#62;
+&#62; **CharXiv Reasoning (Information synthesis from complex charts)**
+&#62;
+&#62; - Gemini 3 Pro 81.4%, Gemini 2.5 Pro 69.6%, Claude Sonnet 4.5 68.5%, GPT-5.1 69.5%.
+&#62;
+&#62; **OmniDocBench 1.5 (OCR; Overall Edit Distance, lower is better)**
+&#62;
+&#62; - Gemini 3 Pro 0.115, Gemini 2.5 Pro 0.145, Claude Sonnet 4.5 0.145, GPT-5.1 0.147.
+&#62;
+&#62; **Video-MMMU (Knowledge acquisition from videos)**
+&#62;
+&#62; - Gemini 3 Pro 87.6%, Gemini 2.5 Pro 83.6%, Claude Sonnet 4.5 77.8%, GPT-5.1 80.4%.
+&#62;
+&#62; **LiveCodeBench Pro (Competitive coding problems; Elo Rating, higher is better)**
+&#62;
+&#62; - Gemini 3 Pro 2,439; Gemini 2.5 Pro 1,775; Claude Sonnet 4.5 1,418; GPT-5.1 2,243.
+&#62;
+&#62; **Terminal-Bench 2.0 (Agentic terminal coding; Terminus-2 agent)**
+&#62;
+&#62; - Gemini 3 Pro 54.2%, Gemini 2.5 Pro 32.6%, Claude Sonnet 4.5 42.8%, GPT-5.1 47.6%.
+&#62;
+&#62; **SWE-Bench Verified (Agentic coding; Single attempt)**
+&#62;
+&#62; - Gemini 3 Pro 76.2%, Gemini 2.5 Pro 59.6%, Claude Sonnet 4.5 77.2%, GPT-5.1 76.3%.
+&#62;
+&#62; **t2-bench (Agentic tool use)**
+&#62;
+&#62; - Gemini 3 Pro 85.4%, Gemini 2.5 Pro 54.9%, Claude Sonnet 4.5 84.7%, GPT-5.1 80.2%.
+&#62;
+&#62; **Vending-Bench 2 (Long-horizon agentic tasks; Net worth (mean), higher is better)**
+&#62;
+&#62; - Gemini 3 Pro $5,478.16; Gemini 2.5 Pro $573.64; Claude Sonnet 4.5 $3,838.74; GPT-5.1 $1,473.43.
+&#62;
+&#62; **FACTS Benchmark Suite (Held out internal grounding, parametric, MM, and search retrieval benchmarks)**
+&#62;
+&#62; - Gemini 3 Pro 70.5%, Gemini 2.5 Pro 63.4%, Claude Sonnet 4.5 50.4%, GPT-5.1 50.8%.
+&#62;
+&#62; **SimpleQA Verified (Parametric knowledge)**
+&#62;
+&#62; - Gemini 3 Pro 72.1%, Gemini 2.5 Pro 54.5%, Claude Sonnet 4.5 29.3%, GPT-5.1 34.9%.
+&#62;
+&#62; **MMMLU (Multilingual Q&#38;A)**
+&#62;
+&#62; - Gemini 3 Pro 91.8%, Gemini 2.5 Pro 89.5%, Claude Sonnet 4.5 89.1%, GPT-5.1 91.0%.
+&#62;
+&#62; **Global PIQA (Commonsense reasoning across 100 Languages and Cultures)**
+&#62;
+&#62; - Gemini 3 Pro 93.4%, Gemini 2.5 Pro 91.5%, Claude Sonnet 4.5 90.1%, GPT-5.1 90.9%.
+&#62;
+&#62; **MRCR v2 (8-needle) (Long context performance)**
+&#62;
+&#62; - 128k (average): Gemini 3 Pro 77.0%, Gemini 2.5 Pro 58.0%, Claude Sonnet 4.5 47.1%, GPT-5.1 61.6%.
+&#62; - 1M (pointwise): Gemini 3 Pro 26.3%, Gemini 2.5 Pro 16.4%, Claude Sonnet 4.5 (not supported), GPT-5.1 (not supported).
+
+I have not checked every line of this but a loose spot-check looks accurate to me.
+
+That prompt took 1,105 input and 3,901 output tokens, at a cost of [5.6824 cents](https://www.llm-prices.com/#it=1105&#38;cit=3901&#38;ot=3901&#38;ic=2&#38;oc=12&#38;sel=gemini-3-pro-preview).
+
+I ran this follow-up prompt:
+
+&#62; `llm -c &#39;Convert to JSON&#39;`
+
+You can see [the full output here](https://gist.github.com/simonw/ea7d52706557528e7eb3912cdf9250b0#response-1), which starts like this:
+
+```
+{
+  &#34;metadata&#34;: {
+    &#34;columns&#34;: [
+      &#34;Benchmark&#34;,
+      &#34;Description&#34;,
+      &#34;Gemini 3 Pro&#34;,
+      &#34;Gemini 2.5 Pro&#34;,
+      &#34;Claude Sonnet 4.5&#34;,
+      &#34;GPT-5.1&#34;
+    ]
+  },
+  &#34;benchmarks&#34;: [
+    {
+      &#34;name&#34;: &#34;Humanity&#39;s Last Exam&#34;,
+      &#34;description&#34;: &#34;Academic reasoning&#34;,
+      &#34;sub_results&#34;: [
+        {
+          &#34;condition&#34;: &#34;No tools&#34;,
+          &#34;gemini_3_pro&#34;: &#34;37.5%&#34;,
+          &#34;gemini_2_5_pro&#34;: &#34;21.6%&#34;,
+          &#34;claude_sonnet_4_5&#34;: &#34;13.7%&#34;,
+          &#34;gpt_5_1&#34;: &#34;26.5%&#34;
+        },
+        {
+          &#34;condition&#34;: &#34;With search and code execution&#34;,
+          &#34;gemini_3_pro&#34;: &#34;45.8%&#34;,
+          &#34;gemini_2_5_pro&#34;: null,
+          &#34;claude_sonnet_4_5&#34;: null,
+          &#34;gpt_5_1&#34;: null
+        }
+      ]
+    },
+```
+
+#### Analyzing a city council meeting
+
+To try it out against an audio file I extracted the 3h33m of audio from the video [Half Moon Bay City Council Meeting - November 4, 2025](https://www.youtube.com/watch?v=qgJ7x7R6gy0). I used `yt-dlp` to get that audio:
+
+```
+yt-dlp -x --audio-format m4a &#39;https://www.youtube.com/watch?v=qgJ7x7R6gy0&#39;
+```
+
+That gave me a 74M m4a file, which I ran through Gemini 3 Pro like this:
+
+&#62; `llm -m gemini-3-pro-preview -a /tmp/HMBCC\ 11⧸4⧸25\ -\ Half\ Moon\ Bay\ City\ Council\ Meeting\ -\ November\ 4,\ 2025\ \[qgJ7x7R6gy0\].m4a &#39;Output a Markdown transcript of this meeting. Include speaker names and timestamps. Start with an outline of the key meeting sections, each with a title and summary and timestamp and list of participating names. Note in bold if anyone raised their voices, interrupted each other or had disagreements. Then follow with the full transcript.&#39;`
+
+That failed with an &#34;Internal error encountered&#34; message, so I shrunk the file down to a more manageable 38MB using `ffmpeg`:
+
+```
+ffmpeg -i &#34;/private/tmp/HMB.m4a&#34; -ac 1 -ar 22050 -c:a aac -b:a 24k &#34;/private/tmp/HMB_compressed.m4a&#34;
+```
+
+Then ran it again like this (for some reason I had to use `--attachment-type` this time):
+
+&#62; `llm -m gemini-3-pro-preview --attachment-type /tmp/HMB_compressed.m4a &#39;audio/aac&#39; &#39;Output a Markdown transcript of this meeting. Include speaker names and timestamps. Start with an outline of the key meeting sections, each with a title and summary and timestamp and list of participating names. Note in bold if anyone raised their voices, interrupted each other or had disagreements. Then follow with the full transcript.&#39;`
+
+This time it worked! The [full output is here](https://gist.github.com/simonw/0b7bc23adb6698f376aebfd700943314), but it starts like this:
+
+&#62; Here is the transcript of the Half Moon Bay City Council meeting.
+&#62;
+&#62; #### Meeting Outline
+&#62;
+&#62; **1\. Call to Order, Updates, and Public Forum**
+&#62;
+&#62; - **Summary:** Mayor Brownstone calls the meeting to order. City Manager Chidester reports no reportable actions from the closed session. Announcements are made regarding food insecurity volunteers and the Diwali celebration. During the public forum, Councilmember Penrose (speaking as a citizen) warns against autocracy. Citizens speak regarding lease agreements, downtown maintenance, local music events, and homelessness outreach statistics.
+&#62; - **Timestamp:** 00:00:00 - 00:13:25
+&#62; - **Participants:** Mayor Brownstone, Matthew Chidester, Irma Acosta, Deborah Penrose, Jennifer Moore, Sandy Vella, Joaquin Jimenez, Anita Rees.
+&#62;
+&#62; **2\. Consent Calendar**
+&#62;
+&#62; - **Summary:** The Council approves minutes from previous meetings and a resolution authorizing a licensing agreement for Seahorse Ranch. Councilmember Johnson corrects a pull request regarding abstentions on minutes.
+&#62; - **Timestamp:** 00:13:25 - 00:15:15
+&#62; - **Participants:** Mayor Brownstone, Councilmember Johnson, Councilmember Penrose, Vice Mayor Ruddick, Councilmember Nagengast.
+&#62;
+&#62; **3\. Ordinance Introduction: Commercial Vitality (Item 9A)**
+&#62;
+&#62; - **Summary:** Staff presents a new ordinance to address neglected and empty commercial storefronts, establishing maintenance and display standards. Councilmembers discuss enforcement mechanisms, window cleanliness standards, and the need for objective guidance documents to avoid subjective enforcement.
+&#62; - **Timestamp:** 00:15:15 - 00:30:45
+&#62; - **Participants:** Karen Decker, Councilmember Johnson, Councilmember Nagengast, Vice Mayor Ruddick, Councilmember Penrose.
+&#62;
+&#62; **4\. Ordinance Introduction: Building Standards &#38; Electrification (Item 9B)**
+&#62;
+&#62; - **Summary:** Staff introduces updates to the 2025 Building Code. A major change involves repealing the city&#39;s all-electric building requirement due to the 9th Circuit Court ruling ( _California Restaurant Association v. City of Berkeley_). **Public speaker Mike Ferreira expresses strong frustration and disagreement with &#34;unelected state agencies&#34; forcing the City to change its ordinances.**
+&#62; - **Timestamp:** 00:30:45 - 00:45:00
+&#62; - **Participants:** Ben Corrales, Keith Weiner, Joaquin Jimenez, Jeremy Levine, Mike Ferreira, Councilmember Penrose, Vice Mayor Ruddick.
+&#62;
+&#62; **5\. Housing Element Update &#38; Adoption (Item 9C)**
+&#62;
+&#62; - **Summary:** Staff presents the 5th draft of the Housing Element, noting State HCD requirements to modify ADU allocations and place a measure on the ballot regarding the &#34;Measure D&#34; growth cap. **There is significant disagreement from Councilmembers Ruddick and Penrose regarding the State&#39;s requirement to hold a ballot measure.** Public speakers debate the enforceability of Measure D. **Mike Ferreira interrupts the vibe to voice strong distaste for HCD&#39;s interference in local law.** The Council votes to adopt the element but strikes the language committing to a ballot measure.
+&#62; - **Timestamp:** 00:45:00 - 01:05:00
+&#62; - **Participants:** Leslie (Staff), Joaquin Jimenez, Jeremy Levine, Mike Ferreira, Councilmember Penrose, Vice Mayor Ruddick, Councilmember Johnson.
+&#62;
+&#62; * * *
+&#62;
+&#62; #### Transcript
+&#62;
+&#62; **Mayor Brownstone** \[00:00:00\]
+&#62; Good evening everybody and welcome to the November 4th Half Moon Bay City Council meeting. As a reminder, we have Spanish interpretation services available in person and on Zoom.
+&#62;
+&#62; **Victor Hernandez (Interpreter)** \[00:00:35\]
+&#62; Thank you, Mr. Mayor, City Council, all city staff, members of the public. _\[Spanish instructions provided regarding accessing the interpretation channel on Zoom and in the room.\]_ Thank you very much.
+
+Those first two lines of the transcript already illustrate something interesting here: Gemini 3 Pro chose NOT to include the exact text of the Spanish instructions, instead summarizing them as &#34;\[Spanish instructions provided regarding accessing the interpretation channel on Zoom and in the room.\]&#34;.
+
+I haven&#39;t spot-checked the entire 3hr33m meeting, but I&#39;ve confirmed that the timestamps do not line up. The transcript closes like this:
+
+&#62; **Mayor Brownstone** \[01:04:00\]
+&#62; Meeting adjourned. Have a good evening.
+
+That actually happens [at 3h31m5s](https://www.youtube.com/watch?v=qgJ7x7R6gy0&#38;t=3h31m5s) and the mayor says:
+
+&#62; Okay. Well, thanks everybody, members of the public for participating. Thank you for staff. Thank you to fellow council members. This meeting is now adjourned. Have a good evening.
+
+I&#39;m disappointed about the timestamps, since mismatches there make it much harder to jump to the right point and confirm that the summarized transcript is an accurate representation of what was said.
+
+This took 320,087 input tokens and 7,870 output tokens, for a total cost of [$1.42](https://www.llm-prices.com/#it=320087&#38;ot=7870&#38;ic=4&#38;oc=18).
+
+#### And a new pelican benchmark
+
+Gemini 3 Pro has a new concept of a &#34;thinking level&#34; which can be set to low or high (and defaults to high). I tried my classic [Generate an SVG of a pelican riding a bicycle](https://simonwillison.net/tags/pelican-riding-a-bicycle/) prompt at both levels.
+
+Here&#39;s low - Gemini decided to add a jaunty little hat (with a comment [in the SVG](https://gist.github.com/simonw/70d56ba39b7cbb44985d2384004fc4a0#response) that says `&#60;!-- Hat (Optional Fun Detail) --&#62;`):
+
+![The pelican is wearing a blue hat. It has a good beak. The bicycle is a little bit incorrect but generally a good effort.](https://static.simonwillison.net/static/2025/gemini-3-pelican-low.png)
+
+And here&#39;s high. This is genuinely an excellent pelican, and the bicycle frame is at least the correct shape:
+
+![The pelican is not wearing a hat. It has a good beak. The bicycle is accurate and well-drawn.](https://static.simonwillison.net/static/2025/gemini-3-pelican-high.png)
+
+Honestly though, my pelican benchmark is beginning to feel a little bit too basic. I decided to upgrade it. Here&#39;s v2 of the benchmark, which I plan to use going forward:
+
+&#62; `Generate an SVG of a California brown pelican riding a bicycle. The bicycle must have spokes and a correctly shaped bicycle frame. The pelican must have its characteristic large pouch, and there should be a clear indication of feathers. The pelican must be clearly pedaling the bicycle. The image should show the full breeding plumage of the California brown pelican.`
+
+For reference, here&#39;s a photo I took of a California brown pelican recently (sadly without a bicycle):
+
+![A glorious California brown pelican perched on a rock by the water. It has a yellow tint to its head and a red spot near its throat.](https://static.simonwillison.net/static/2025/breeding-plumage.jpg)
+
+Here&#39;s Gemini 3 Pro&#39;s [attempt](https://gist.github.com/simonw/2b9930ae1ce6f3f5e9cfe3cb31ec0c0a) at high thinking level for that new prompt:
+
+![It&#39;s clearly a pelican. It has all of the requested features. It looks a bit abstract though.](https://static.simonwillison.net/static/2025/gemini-3-breeding-pelican-high.png)
+
+And for good measure, here&#39;s that same prompt [against GPT-5.1](https://gist.github.com/simonw/7a655ebe42f3d428d2ea5363dad8067c) \- which produced this dumpy little fellow:
+
+![The pelican is very round. Its body overlaps much of the bicycle. It has a lot of dorky charisma.](https://static.simonwillison.net/static/2025/gpt-5-1-breeding-pelican.png)
+
+And Claude Sonnet 4.5, which [didn&#39;t do quite as well](https://gist.github.com/simonw/3296af92e4328dd4740385e6a4a2ac35):
+
+![Oh dear. It has all of the requested components, but the bicycle is a bit wrong and the pelican is arranged in a very awkward shape.](https://static.simonwillison.net/static/2025/claude-sonnet-4-5-breeding-pelican.png)
+
+Tags: [google](https://simonwillison.net/tags/google), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [llm](https://simonwillison.net/tags/llm), [gemini](https://simonwillison.net/tags/gemini), [llm-pricing](https://simonwillison.net/tags/llm-pricing), [pelican-riding-a-bicycle](https://simonwillison.net/tags/pelican-riding-a-bicycle), [llm-reasoning](https://simonwillison.net/tags/llm-reasoning), [llm-release](https://simonwillison.net/tags/llm-release)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/18/gemini-3/#atom-everything</guid>
+    </item>    <item>
+      <title>Black Mirror is not a Pinterest board.</title>
+      <link>https://davekarpf.substack.com/p/black-mirror-is-not-a-pinterest-board</link>
+      <description>
+        <![CDATA[Part 1 in what I really hope doesn't become a series]]>
+      </description>
+      <source:markdown>Part 1 in what I really hope doesn&#39;t become a series</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/68be74d9-97b2-417d-911f-ed50e7a62f31_1124x942.png" length="0" type="image/jpeg" />
+      <guid>cid://https://davekarpf.substack.com/p/black-mirror-is-not-a-pinterest-board</guid>
+    </item>    <item>
+      <title>Raccoons Are Showing Early Signs of Domestication. &#38;#8220;City-dwelling raccoons seem to be...</title>
+      <link>https://kottke.org/25/11/0047870-raccoons-are-showing-earl</link>
+      <guid>cid://tag:kottke.org,2025://13.47870</guid>
+    </item>    <item>
+      <title>Heaven is a Place on Earth</title>
+      <link>https://www.notesfromthecircus.com/p/heaven-is-a-place-on-earth</link>
+      <description>
+        <![CDATA[A Meditation on Loss]]>
+      </description>
+      <source:markdown>A Meditation on Loss</source:markdown>
+      <enclosure url="https://images.unsplash.com/photo-1620843823185-9e0810394a46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyNHx8aGVhdmVufGVufDB8fHx8MTc2MzQxNDA5NXww&ixlib=rb-4.1.0&q=80&w=1080" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/heaven-is-a-place-on-earth</guid>
+    </item>    <item>
+      <title>Gurman Says Apple Has No Plans to Update the Mac Pro</title>
+      <link>https://www.bloomberg.com/news/newsletters/2025-11-16/apple-s-iphone-road-map-iphone-air-2-iphone-18-mac-pro-future-tesla-carplay-mi1q4l2o</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42397</guid>
+    </item>    <item>
       <link>http://scripting.com/2025/11/18.html#a175706</link>
       <description>
-        <![CDATA[A feed that <a href="https://en.wikipedia.org/wiki/Aaron_Swartz">Aaron Swartz</a> put up early in RSS times was a <a href="http://www.aaronsw.com/2002/feeds/pgessays.rss">feed of Paul Graham essays</a>. The feed items have no guid or pubDate. The way FeedLand is coded right now for detecting changes, it sees all these items as updating every time we read the feed. Okay we have to make it a little bit smarter.]]>
+        <![CDATA[A feed that <a href="https://en.wikipedia.org/wiki/Aaron_Swartz">Aaron Swartz</a> put up early in RSS times was a <a href="http://www.aaronsw.com/2002/feeds/pgessays.rss">feed of Paul Graham essays</a>. The feed items have no guid or pubDate. The way FeedLand is coded right now for detecting changes, it sees all these items as updating every time we read the feed. Okay we have to make it a little bit smarter. <i>Done.</i>]]>
       </description>
-      <source:markdown>A feed that [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) put up early in RSS times was a [feed of Paul Graham essays](http://www.aaronsw.com/2002/feeds/pgessays.rss). The feed items have no guid or pubDate. The way FeedLand is coded right now for detecting changes, it sees all these items as updating every time we read the feed. Okay we have to make it a little bit smarter.</source:markdown>
+      <source:markdown>A feed that [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) put up early in RSS times was a [feed of Paul Graham essays](http://www.aaronsw.com/2002/feeds/pgessays.rss). The feed items have no guid or pubDate. The way FeedLand is coded right now for detecting changes, it sees all these items as updating every time we read the feed. Okay we have to make it a little bit smarter. _Done._</source:markdown>
       <guid>cid://http://scripting.com/2025/11/18.html#a175706</guid>
     </item>    <item>
       <title>Magnetikpunk: Playing Vintage Reel-to-Reel Tapes as Musical Instruments</title>
@@ -166,9 +925,9 @@ anything amiss.</source:markdown>
     </item>    <item>
       <link>http://scripting.com/2025/11/18.html#a171722</link>
       <description>
-        <![CDATA[What I'm doing now is preparing FeedLand to reliably do things we haven't had it do yet, at least not at scale. It has one important feature most other feed management systems don't have, dynamic OPML lists that I keep touting here. I have a product that can both generate them and use them on behalf of users. But it's a lot more fun if there are other products that can do the same. It means we can build networks of feed sharing apps, no kidding -- it's going to do new things for us the same way RSS did new things for us 22 years ago. Now it can be fun when there are more FeedLand instances out there. It'd be more fun if they were products like Overcast or Pocket Casts. Sometimes companies like Apple or Microsoft show up in these little projects, it has happened (Apple supported XML-RPC, for example. Microsoft supported Frontier in MSIE on the Mac.).]]>
+        <![CDATA[I'm preparing FeedLand to reliably do things we haven't had it do yet, at least not at scale. It has one important feature most other feed management systems don't have, dynamic OPML lists that I keep touting here. I have a product that can both generate them and use them on behalf of users. But it's a lot more fun if there are other products that can do the same. It means we can build networks of feed sharing apps, no kidding -- it's going to do new things for us the same way RSS did new things for us 22 years ago. Now it can be fun when there are more FeedLand instances out there. It'd be more fun if they were products like Overcast or Pocket Casts. Sometimes companies like Apple or Microsoft show up in these little projects, it has happened (Apple supported XML-RPC, for example. Microsoft supported Frontier in MSIE on the Mac.).]]>
       </description>
-      <source:markdown>What I&#39;m doing now is preparing FeedLand to reliably do things we haven&#39;t had it do yet, at least not at scale. It has one important feature most other feed management systems don&#39;t have, dynamic OPML lists that I keep touting here. I have a product that can both generate them and use them on behalf of users. But it&#39;s a lot more fun if there are other products that can do the same. It means we can build networks of feed sharing apps, no kidding -- it&#39;s going to do new things for us the same way RSS did new things for us 22 years ago. Now it can be fun when there are more FeedLand instances out there. It&#39;d be more fun if they were products like Overcast or Pocket Casts. Sometimes companies like Apple or Microsoft show up in these little projects, it has happened (Apple supported XML-RPC, for example. Microsoft supported Frontier in MSIE on the Mac.).</source:markdown>
+      <source:markdown>I&#39;m preparing FeedLand to reliably do things we haven&#39;t had it do yet, at least not at scale. It has one important feature most other feed management systems don&#39;t have, dynamic OPML lists that I keep touting here. I have a product that can both generate them and use them on behalf of users. But it&#39;s a lot more fun if there are other products that can do the same. It means we can build networks of feed sharing apps, no kidding -- it&#39;s going to do new things for us the same way RSS did new things for us 22 years ago. Now it can be fun when there are more FeedLand instances out there. It&#39;d be more fun if they were products like Overcast or Pocket Casts. Sometimes companies like Apple or Microsoft show up in these little projects, it has happened (Apple supported XML-RPC, for example. Microsoft supported Frontier in MSIE on the Mac.).</source:markdown>
       <guid>cid://http://scripting.com/2025/11/18.html#a171722</guid>
     </item>    <item>
       <link>http://scripting.com/2025/11/18.html#a171051</link>
@@ -197,9 +956,9 @@ anything amiss.</source:markdown>
     </item>    <item>
       <link>http://scripting.com/2025/11/18.html#a163206</link>
       <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2023/05/17/theBrain.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm looking into the problem in feedlanddatabase I <a href="http://scripting.com/2025/11/17.html#a174327">mentioned</a> yesterday. I bet it'll turn out there are a bunch of issues that have been there for a long time, but don't show up in the user interface of the product. I'm still developing good techniques for debugging Node.js server apps. Recently, I've developed new tools that make these bugs show themselves, like <a href="https://socketdemo.feedland.com/">socketdemo</a>. I added some new capabilities to it in the JavaScript console that make the updates visible. If you open the console in the debugger while it's running you'll see what I'm talking about, <a href="http://scripting.com/images/2025/11/18/console.png">screen shot</a>. Sometimes to debug a problem that doesn't have a UI you have to give it a UI.]]>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2023/05/17/theBrain.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm looking into the problems in feedlanddatabase I <a href="http://scripting.com/2025/11/17.html#a174327">mentioned</a> yesterday. I bet it'll turn out there are a bunch of issues that have been there for a long time, but don't show up in the user interface of the product. I'm still developing good techniques for debugging Node.js server apps. Recently, I've developed new tools that make these bugs show themselves, like <a href="https://socketdemo.feedland.com/">socketdemo</a>. I added some new capabilities to it in the JavaScript console that make the updates visible. If you open the console in the debugger while it's running you'll see what I'm talking about, <a href="http://scripting.com/images/2025/11/18/console.png">screen shot</a>. Sometimes to debug a problem that doesn't have a UI you have to give it a UI.]]>
       </description>
-      <source:markdown>![](https://imgs.scripting.com/2023/05/17/theBrain.png)I&#39;m looking into the problem in feedlanddatabase I [mentioned](http://scripting.com/2025/11/17.html#a174327) yesterday. I bet it&#39;ll turn out there are a bunch of issues that have been there for a long time, but don&#39;t show up in the user interface of the product. I&#39;m still developing good techniques for debugging Node.js server apps. Recently, I&#39;ve developed new tools that make these bugs show themselves, like [socketdemo](https://socketdemo.feedland.com/). I added some new capabilities to it in the JavaScript console that make the updates visible. If you open the console in the debugger while it&#39;s running you&#39;ll see what I&#39;m talking about, [screen shot](http://scripting.com/images/2025/11/18/console.png). Sometimes to debug a problem that doesn&#39;t have a UI you have to give it a UI.</source:markdown>
+      <source:markdown>![](https://imgs.scripting.com/2023/05/17/theBrain.png)I&#39;m looking into the problems in feedlanddatabase I [mentioned](http://scripting.com/2025/11/17.html#a174327) yesterday. I bet it&#39;ll turn out there are a bunch of issues that have been there for a long time, but don&#39;t show up in the user interface of the product. I&#39;m still developing good techniques for debugging Node.js server apps. Recently, I&#39;ve developed new tools that make these bugs show themselves, like [socketdemo](https://socketdemo.feedland.com/). I added some new capabilities to it in the JavaScript console that make the updates visible. If you open the console in the debugger while it&#39;s running you&#39;ll see what I&#39;m talking about, [screen shot](http://scripting.com/images/2025/11/18/console.png). Sometimes to debug a problem that doesn&#39;t have a UI you have to give it a UI.</source:markdown>
       <guid>cid://http://scripting.com/2025/11/18.html#a163206</guid>
     </item>    <item>
       <title>Testing HTML Light DOM Web Components: Easier Than Expected!</title>
