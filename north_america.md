@@ -8,6 +8,7 @@ title: North America
 - [Zeteo](https://zeteo.com/feed)
 - Bloomberg https://feeds.bloomberg.com/news.rss (not sure about this feed)
 - [What A Day (crooked media)](https://crookedmedia.substack.com/feed)
+- [Federal News Network](https://federalnewsnetwork.com/feed/)
 
 
 # Government News Sources
