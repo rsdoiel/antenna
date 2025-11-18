@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>18 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>18 Nov 25 10:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -141,6 +141,136 @@ As always, do give this release a try and open a [ticket](https://gitlab.haskell
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
     </item>    <item>
+      <link>http://scripting.com/2025/11/18.html#a175706</link>
+      <description>
+        <![CDATA[A feed that <a href="https://en.wikipedia.org/wiki/Aaron_Swartz">Aaron Swartz</a> put up early in RSS times was a <a href="http://www.aaronsw.com/2002/feeds/pgessays.rss">feed of Paul Graham essays</a>. The feed items have no guid or pubDate. The way FeedLand is coded right now for detecting changes, it sees all these items as updating every time we read the feed. Okay we have to make it a little bit smarter.]]>
+      </description>
+      <source:markdown>A feed that [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) put up early in RSS times was a [feed of Paul Graham essays](http://www.aaronsw.com/2002/feeds/pgessays.rss). The feed items have no guid or pubDate. The way FeedLand is coded right now for detecting changes, it sees all these items as updating every time we read the feed. Okay we have to make it a little bit smarter.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/18.html#a175706</guid>
+    </item>    <item>
+      <title>Magnetikpunk: Playing Vintage Reel-to-Reel Tapes as Musical Instruments</title>
+      <link>https://kottke.org/25/11/magnetikpunk-playing-vintage-reel-to-reel-tapes-as-musical-instruments</link>
+      <guid>cid://tag:kottke.org,2025://5.47865</guid>
+    </item>    <item>
+      <title>Raspberry Pi Assembly Language Programming – Second Edition</title>
+      <link>https://smist08.wordpress.com/2025/11/18/raspberry-pi-assembly-language-programming-second-edition/</link>
+      <description>
+        <![CDATA[Introduction The first edition of Raspberry Pi Assembly Language Programming was published back in October of 2019. Since then quite a bit has changed and this book requires a major revision to stay up to date. I started writing the book with a Raspberry Pi 3, which has 1Gig of RAM and then in July [&#8230;]]]>
+      </description>
+      <source:markdown>Introduction The first edition of Raspberry Pi Assembly Language Programming was published back in October of 2019. Since then quite a bit has changed and this book requires a major revision to stay up to date. I started writing the book with a Raspberry Pi 3, which has 1Gig of RAM and then in July \[…\]</source:markdown>
+      <guid>cid://http://smist08.wordpress.com/?p=3808</guid>
+    </item>    <item>
+      <title>Cloudflare Suffered Hours Long Outage (Which Brought Down Daring Fireball, Among Thousands of Other Sites)</title>
+      <link>https://www.theguardian.com/technology/live/2025/nov/18/cloudflare-down-internet-outage-latest-live-news-updates</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42396</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/18.html#a171722</link>
+      <description>
+        <![CDATA[What I'm doing now is preparing FeedLand to reliably do things we haven't had it do yet, at least not at scale. It has one important feature most other feed management systems don't have, dynamic OPML lists that I keep touting here. I have a product that can both generate them and use them on behalf of users. But it's a lot more fun if there are other products that can do the same. It means we can build networks of feed sharing apps, no kidding -- it's going to do new things for us the same way RSS did new things for us 22 years ago. Now it can be fun when there are more FeedLand instances out there. It'd be more fun if they were products like Overcast or Pocket Casts. Sometimes companies like Apple or Microsoft show up in these little projects, it has happened (Apple supported XML-RPC, for example. Microsoft supported Frontier in MSIE on the Mac.).]]>
+      </description>
+      <source:markdown>What I&#39;m doing now is preparing FeedLand to reliably do things we haven&#39;t had it do yet, at least not at scale. It has one important feature most other feed management systems don&#39;t have, dynamic OPML lists that I keep touting here. I have a product that can both generate them and use them on behalf of users. But it&#39;s a lot more fun if there are other products that can do the same. It means we can build networks of feed sharing apps, no kidding -- it&#39;s going to do new things for us the same way RSS did new things for us 22 years ago. Now it can be fun when there are more FeedLand instances out there. It&#39;d be more fun if they were products like Overcast or Pocket Casts. Sometimes companies like Apple or Microsoft show up in these little projects, it has happened (Apple supported XML-RPC, for example. Microsoft supported Frontier in MSIE on the Mac.).</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/18.html#a171722</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/18.html#a171051</link>
+      <description>
+        <![CDATA[BTW, one of the areas of breakage is in our handling of source:markdown. What changed? There are now feeds I didn't create (ie "in the wild")  that have source:markdown elements. This bug is 100% my doing. The feeds are fine. These are the kinds of bugs you like to find, and fix.]]>
+      </description>
+      <source:markdown>BTW, one of the areas of breakage is in our handling of source:markdown. What changed? There are now feeds I didn&#39;t create (ie &#34;in the wild&#34;) that have source:markdown elements. This bug is 100% my doing. The feeds are fine. These are the kinds of bugs you like to find, and fix.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/18.html#a171051</guid>
+    </item>    <item>
+      <title>The winners of the LIT Lighting Design Awards, encompassing the best work...</title>
+      <link>https://kottke.org/25/11/0047853-the-winners-of-the-lit</link>
+      <guid>cid://tag:kottke.org,2025://13.47853</guid>
+    </item>    <item>
+      <title>Three Years from GPT-3 to Gemini 3</title>
+      <link>https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini</link>
+      <description>
+        <![CDATA[From chatbots to agents]]>
+      </description>
+      <source:markdown>From chatbots to agents</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!f-5x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe20744fc-7146-409d-8eff-519e9a2d13d7_2181x1296.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini</guid>
+    </item>    <item>
+      <title>Life in London With an Android Phone</title>
+      <link>https://www.londoncentric.media/p/london-phone-thieves-prefer-android-iphone-l</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42395</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/18.html#a163206</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2023/05/17/theBrain.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm looking into the problem in feedlanddatabase I <a href="http://scripting.com/2025/11/17.html#a174327">mentioned</a> yesterday. I bet it'll turn out there are a bunch of issues that have been there for a long time, but don't show up in the user interface of the product. I'm still developing good techniques for debugging Node.js server apps. Recently, I've developed new tools that make these bugs show themselves, like <a href="https://socketdemo.feedland.com/">socketdemo</a>. I added some new capabilities to it in the JavaScript console that make the updates visible. If you open the console in the debugger while it's running you'll see what I'm talking about, <a href="http://scripting.com/images/2025/11/18/console.png">screen shot</a>. Sometimes to debug a problem that doesn't have a UI you have to give it a UI.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2023/05/17/theBrain.png)I&#39;m looking into the problem in feedlanddatabase I [mentioned](http://scripting.com/2025/11/17.html#a174327) yesterday. I bet it&#39;ll turn out there are a bunch of issues that have been there for a long time, but don&#39;t show up in the user interface of the product. I&#39;m still developing good techniques for debugging Node.js server apps. Recently, I&#39;ve developed new tools that make these bugs show themselves, like [socketdemo](https://socketdemo.feedland.com/). I added some new capabilities to it in the JavaScript console that make the updates visible. If you open the console in the debugger while it&#39;s running you&#39;ll see what I&#39;m talking about, [screen shot](http://scripting.com/images/2025/11/18/console.png). Sometimes to debug a problem that doesn&#39;t have a UI you have to give it a UI.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/18.html#a163206</guid>
+    </item>    <item>
+      <title>Testing HTML Light DOM Web Components: Easier Than Expected!</title>
+      <link>https://cloudfour.com/thinks/testing-html-light-dom-web-components-easier-than-expected/</link>
+      <description>
+        <![CDATA[Testing HTML Light DOM web components wasn't so scary after all. Some testing notes and patterns from a recent project.]]>
+      </description>
+      <source:markdown>Testing HTML Light DOM web components wasn&#39;t so scary after all. Some testing notes and patterns from a recent project.</source:markdown>
+      <enclosure url="https://cloudfour.com/wp-content/uploads/2025/11/light-dom-wc-test-feature-r1-1.jpg" length="0" type="image/jpg" />
+      <guid>cid://https://cloudfour.com/?p=8430</guid>
+    </item>    <item>
+      <title>A Beloved Clothing Store Closed. A Customer Bought All 4,500 Items. &#38;#8220;Ms....</title>
+      <link>https://kottke.org/25/11/0047862-a-beloved-clothing-store-</link>
+      <guid>cid://tag:kottke.org,2025://13.47862</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115571578066393889</link>
+      <description>
+        <![CDATA[<p>From <span class="h-card" translate="no"><a href="https://mamot.fr/@pluralistic" class="u-url mention">@<span>pluralistic</span></a></span> </p><p><a href="https://doctorow.medium.com/https-pluralistic-net-2025-11-18-im-not-bad-im-just-drawn-that-way-8cde6fd19a8a" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">doctorow.medium.com/https-plur</span><span class="invisible">alistic-net-2025-11-18-im-not-bad-im-just-drawn-that-way-8cde6fd19a8a</span></a></p>]]>
+      </description>
+      <source:markdown>From [@pluralistic](https://mamot.fr/@pluralistic)
+
+[https://doctorow.medium.com/https-pluralistic-net-2025-11-18-im-not-bad-im-just-drawn-that-way-8cde6fd19a8a](https://doctorow.medium.com/https-pluralistic-net-2025-11-18-im-not-bad-im-just-drawn-that-way-8cde6fd19a8a)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115571578066393889</guid>
+    </item>    <item>
+      <title>Ignite 2025: Furthering Windows as the premier platform for developers, governed by security</title>
+      <link>https://blogs.windows.com/windowsdeveloper/2025/11/18/ignite-2025-furthering-windows-as-the-premier-platform-for-developers-governed-by-security/</link>
+      <description>
+        <![CDATA[<h2>Continuing Windows evolution as a secure open platform for AI and Agents</h2>
+        <p>At Build, we <a href="https://blogs.windows.com/windowsdeveloper/2025/05/19/advancing-windows-for-ai-development-new-platform-capabilities-and-tools-introduced-at-build
+        </p>
+        <p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/11/18/ignite-2025-furthering-windows-as-the-premier-platform-for-developers-governed-by-security/">Ignite 2025: Furthering Windows as the premier platform for developers, governed by security</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>]]>
+      </description>
+      <source:markdown>## Continuing Windows evolution as a secure open platform for AI and Agents
+
+At Build, we [Ignite 2025: Furthering Windows as the premier platform for developers, governed by security](https://blogs.windows.com/windowsdeveloper/2025/05/19/advancing-windows-for-ai-development-new-platform-capabilities-and-tools-introduced-at-build
+&#60;/p&#62;
+&#60;p&#62;The post &#60;a href=) appeared first on [Windows Developer Blog](https://blogs.windows.com/windowsdeveloper).</source:markdown>
+      <guid>cid://https://blogs.windows.com/windowsdeveloper/?p=57599</guid>
+    </item>    <item>
+      <title>Football Stadium Turned Community Garden</title>
+      <link>https://kottke.org/25/11/football-stadium-turned-community-garden</link>
+      <guid>cid://tag:kottke.org,2025://5.47864</guid>
+    </item>    <item>
+      <title>The 2025 Cercador Prize goes to The Queen of Swords.</title>
+      <link>https://lithub.com/the-2025-cercador-prize-goes-to-the-queen-of-swords/</link>
+      <description>
+        <![CDATA[This week, the Cercador Prize announced Christina MacSweeney as the winner of the 2025 prize for her translation of Jazmina Barrera&#8217;s The Queen of Swords, out from Two Lines Press. This is the third year of the Cercador Prize, which]]>
+      </description>
+      <source:markdown>This week, the Cercador Prize announced Christina MacSweeney as the winner of the 2025 prize for her translation of Jazmina Barrera’s The Queen of Swords, out from Two Lines Press. This is the third year of the Cercador Prize, which</source:markdown>
+      <guid>cid://https://lithub.com/?p=262912</guid>
+    </item>    <item>
+      <title>&#60;default:div xmlns=&#34;http://www.w3.org/1999/xhtml&#34; class=&#34;if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14&#34;/&#62;</title>
+      <link>https://tantek.com/2025/322/t1/modular-website-dns-cdn-webhost</link>
+      <guid>cid://https://tantek.com/2025/322/t1/modular-website-dns-cdn-webhost</guid>
+    </item>    <item>
+      <title>Behind Infinite Jest’s new 30th anniversary redesign.</title>
+      <link>https://lithub.com/behind-infinite-jests-new-30th-anniversary-redesign/</link>
+      <description>
+        <![CDATA[On February 3, 2026, Back Bay Books will publish a special edition of David Foster Wallace&#8217;s Infinite Jest, complete with a new cover and a new foreword by Michelle Zauner of Japanese Breakfast, to celebrate the cult American novel&#8217;s 30th anniversary.]]>
+      </description>
+      <source:markdown>On February 3, 2026, Back Bay Books will publish a special edition of David Foster Wallace’s Infinite Jest, complete with a new cover and a new foreword by Michelle Zauner of Japanese Breakfast, to celebrate the cult American novel’s 30th anniversary.</source:markdown>
+      <guid>cid://https://lithub.com/?p=262802</guid>
+    </item>    <item>
+      <title>What Was Literary Twitter? The Bracket *Day 2*</title>
+      <link>https://lithub.com/what-was-literary-twitter-the-bracket-day-2/</link>
+      <description>
+        <![CDATA[Welcome to day two of What Was Literary Twitter! Plenty of you voted yesterday in our first round of polling, and it was exciting to go though the results. The top seeds sailed through, YA won all its match-ups, and]]>
+      </description>
+      <source:markdown>Welcome to day two of What Was Literary Twitter! Plenty of you voted yesterday in our first round of polling, and it was exciting to go though the results. The top seeds sailed through, YA won all its match-ups, and</source:markdown>
+      <guid>cid://https://lithub.com/?p=262892</guid>
+    </item>    <item>
       <title>The Paint Sign</title>
       <link>https://onefoottsunami.com/2025/11/18/the-paint-sign/</link>
       <guid>cid://https://onefoottsunami.com/?p=29450</guid>
@@ -201,9 +331,9 @@ In 2008, social media was just emerging into the mainstream. [Facebook](https://
       <title>Lit Hub Daily: November 18, 2025</title>
       <link>https://lithub.com/lit-hub-daily-november-18-2025/</link>
       <description>
-        <![CDATA[Steven W. Thrasher remembers writer, advocate, and friend Alice Wong: “Alice helped decolonize disability communities of their (often) white-centered nature and acted as a bridge between so many interdependent related struggles.” &#124; Lit Hub Biography Orlando Reade explores the intersection of]]>
+        <![CDATA[Steven W. Thrasher remembers writer, advocate, and friend Alice Wong: “Alice helped decolonize disability communities of their (often) white-centered nature and acted as a bridge between so many interdependent related struggles.” &#124; Lit Hub Biography After some first round upsets, 32]]>
       </description>
-      <source:markdown>Steven W. Thrasher remembers writer, advocate, and friend Alice Wong: “Alice helped decolonize disability communities of their (often) white-centered nature and acted as a bridge between so many interdependent related struggles.” \| Lit Hub Biography Orlando Reade explores the intersection of</source:markdown>
+      <source:markdown>Steven W. Thrasher remembers writer, advocate, and friend Alice Wong: “Alice helped decolonize disability communities of their (often) white-centered nature and acted as a bridge between so many interdependent related struggles.” \| Lit Hub Biography After some first round upsets, 32</source:markdown>
       <guid>cid://https://lithub.com/?p=262859</guid>
     </item>    <item>
       <title>Quiet Time</title>
@@ -214,6 +344,17 @@ In 2008, social media was just emerging into the mainstream. [Facebook](https://
       <source:markdown>Today in euphemisms</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!7DJq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b15f833-ceaf-4ead-84fc-09d235496745_1752x554.heic" length="0" type="image/jpeg" />
       <guid>cid://https://paulkrugman.substack.com/p/quiet-time</guid>
+    </item>    <item>
+      <title>Latest Servo release hints at a real Rust alternative to Chromium</title>
+      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/11/18/servo_002_arrives/</link>
+      <description>
+        <![CDATA[<h4>As Mozilla stumbles into &#39;AI everywhere,&#39; you might be glad of a non-Google browser engine</h4>
+              <p>Servo is an all-new and all-Rust browser rendering engine. As Mozilla falters, it&#39;s the world&#39;s best option for avoiding a Google monopoly.</p>]]>
+      </description>
+      <source:markdown>#### As Mozilla stumbles into &#39;AI everywhere,&#39; you might be glad of a non-Google browser engine
+
+Servo is an all-new and all-Rust browser rendering engine. As Mozilla falters, it&#39;s the world&#39;s best option for avoiding a Google monopoly.</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243068</guid>
     </item>    <item>
       <title>The premature sheen</title>
       <link>https://adactio.com/journal/22256</link>
@@ -415,6 +556,10 @@ Front page of the BBC right now.</source:markdown>
       <enclosure url="https://api.substack.com/feed/podcast/179204198/9c452905dd730df3ab8f4c03a0f25621.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.notesfromthecircus.com/p/on-propaganda-power-and-the-fight</guid>
     </item>    <item>
+      <title>Apple Introduces Digital ID</title>
+      <link>https://www.apple.com/newsroom/2025/11/apple-introduces-digital-id-a-new-way-to-create-and-present-an-id-in-apple-wallet/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42394</guid>
+    </item>    <item>
       <title>Cave-Man</title>
       <link>https://steady.substack.com/p/cave-man</link>
       <description>
@@ -432,6 +577,117 @@ Front page of the BBC right now.</source:markdown>
       <source:markdown>Olivia had just returned from a reporting trip—at least that’s what she told me it was—and her Herschel backpack, the one with the flap that never quite closed properly, was tossed beside our bed, its contents scattered on the floor.</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!F8mY!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2f0c25e-c634-41fb-bac5-b904590ae08b_1158x1158.png" length="0" type="image/jpeg" />
       <guid>cid://https://www.telos.news/p/part-1-how-i-found-out</guid>
+    </item>    <item>
+      <title>Google Summer of Code 2025 results</title>
+      <link>https://blog.rust-lang.org/2025/11/18/gsoc-2025-results/</link>
+      <guid>cid://https://blog.rust-lang.org/2025/11/18/gsoc-2025-results/</guid>
+    </item>    <item>
+      <title>Template change history</title>
+      <link>https://buttondown.com/blog/template-history</link>
+      <description>
+        <![CDATA[Template change history]]>
+      </description>
+      <source:markdown>Template change history</source:markdown>
+    </item>    <item>
+      <title>Meta Has Deprecated the Messenger Apps for Mac and Windows Too</title>
+      <link>https://9to5mac.com/2025/10/16/meta-is-killing-off-messengers-mac-app-for-unknown-reasons/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42393</guid>
+    </item>    <item>
+      <title>The fate of “small” open source</title>
+      <link>https://simonwillison.net/2025/Nov/17/the-fate-of-small-open-source/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/">The fate of “small” open source</a></strong></p>
+        Nolan Lawson asks if LLM assistance means that the category of tiny open source libraries like his own <a href="https://github.com/nolanlawson/blob-util">blob-util</a> is destined to fade away.</p>
+        <p>Why take on additional supply chain risks adding another dependency when an LLM can likely kick out the subset of functionality needed by your own code to-order?</p>
+        <blockquote>
+        <p>I still believe in open source, and I’m still doing it (in fits and starts). But one thing has become clear to me: the era of small, low-value libraries like <code>blob-util</code> is over. They were already on their way out thanks to Node.js and the browser taking on more and more of their functionality (see <code>node:glob</code>, <code>structuredClone</code>, etc.), but LLMs are the final nail in the coffin.</p>
+        </blockquote>
+        <p>I've been thinking about a similar issue myself recently as well.</p>
+        <p>Quite a few of my own open source projects exist to solve problems that are frustratingly hard to figure out. <a href="https://github.com/simonw/s3-credentials">s3-credentials</a> is a great example of this: it solves the problem of creating read-only or read-write credentials for an S3 bucket - something that I've always found infuriatingly difficult since you need to know to craft an IAM policy that looks something <a href="https://s3-credentials.readthedocs.io/en/stable/policy-documents.html#read-only">like this</a>:</p>
+        <pre><code>{
+          "Version": "2012-10-17",
+          "Statement": [
+            {
+              "Effect": "Allow",
+              "Action": [
+                "s3:ListBucket",
+                "s3:GetBucketLocation"
+              ],
+              "Resource": [
+                "arn:aws:s3:::my-s3-bucket"
+              ]
+            },
+            {
+              "Effect": "Allow",
+              "Action": [
+                "s3:GetObject",
+                "s3:GetObjectAcl",
+                "s3:GetObjectLegalHold",
+                "s3:GetObjectRetention",
+                "s3:GetObjectTagging"
+              ],
+              "Resource": [
+                "arn:aws:s3:::my-s3-bucket/*"
+              ]
+            }
+          ]
+        }
+        </code></pre>
+        <p>Modern LLMs are very good at S3 IAM polices, to the point that if I needed to solve this problem today I doubt I would find it frustrating enough to justify finding or creating a reusable library to help.
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/nolan-lawson">nolan-lawson</a></p>]]>
+      </description>
+      <source:markdown>**[The fate of “small” open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/)**
+
+Nolan Lawson asks if LLM assistance means that the category of tiny open source libraries like his own [blob-util](https://github.com/nolanlawson/blob-util) is destined to fade away.
+
+Why take on additional supply chain risks adding another dependency when an LLM can likely kick out the subset of functionality needed by your own code to-order?
+
+&#62; I still believe in open source, and I’m still doing it (in fits and starts). But one thing has become clear to me: the era of small, low-value libraries like `blob-util` is over. They were already on their way out thanks to Node.js and the browser taking on more and more of their functionality (see `node:glob`, `structuredClone`, etc.), but LLMs are the final nail in the coffin.
+
+I&#39;ve been thinking about a similar issue myself recently as well.
+
+Quite a few of my own open source projects exist to solve problems that are frustratingly hard to figure out. [s3-credentials](https://github.com/simonw/s3-credentials) is a great example of this: it solves the problem of creating read-only or read-write credentials for an S3 bucket - something that I&#39;ve always found infuriatingly difficult since you need to know to craft an IAM policy that looks something [like this](https://s3-credentials.readthedocs.io/en/stable/policy-documents.html#read-only):
+
+```
+{
+  &#34;Version&#34;: &#34;2012-10-17&#34;,
+  &#34;Statement&#34;: [
+    {
+      &#34;Effect&#34;: &#34;Allow&#34;,
+      &#34;Action&#34;: [
+        &#34;s3:ListBucket&#34;,
+        &#34;s3:GetBucketLocation&#34;
+      ],
+      &#34;Resource&#34;: [
+        &#34;arn:aws:s3:::my-s3-bucket&#34;
+      ]
+    },
+    {
+      &#34;Effect&#34;: &#34;Allow&#34;,
+      &#34;Action&#34;: [
+        &#34;s3:GetObject&#34;,
+        &#34;s3:GetObjectAcl&#34;,
+        &#34;s3:GetObjectLegalHold&#34;,
+        &#34;s3:GetObjectRetention&#34;,
+        &#34;s3:GetObjectTagging&#34;
+      ],
+      &#34;Resource&#34;: [
+        &#34;arn:aws:s3:::my-s3-bucket/*&#34;
+      ]
+    }
+  ]
+}
+
+```
+
+Modern LLMs are very good at S3 IAM polices, to the point that if I needed to solve this problem today I doubt I would find it frustrating enough to justify finding or creating a reusable library to help.
+
+
+
+Tags: [open-source](https://simonwillison.net/tags/open-source), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [nolan-lawson](https://simonwillison.net/tags/nolan-lawson)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/17/the-fate-of-small-open-source/#atom-everything</guid>
     </item>    <item>
       <title>Why Trump Doesn&#39;t Stand a Chance of Killing the Epstein Story</title>
       <link>https://tinabrown.substack.com/p/why-trump-doesnt-stand-a-chance-of</link>
@@ -452,6 +708,10 @@ Front page of the BBC right now.</source:markdown>
       <title>How Mira Nair Built the World That Made Zohran Mamdani. &#38;#8220;Zohran has...</title>
       <link>https://kottke.org/25/11/0047859-how-mira-nair-built-the</link>
       <guid>cid://tag:kottke.org,2025://13.47859</guid>
+    </item>    <item>
+      <title>[Sponsor] Clerk for iOS</title>
+      <link>https://go.clerk.com/QO9JV9f</link>
+      <guid>cid://tag:daringfireball.net,2025:/feeds/sponsors//11.42392</guid>
     </item>    <item>
       <title>November 16, 2025</title>
       <link>https://heathercoxrichardson.substack.com/p/november-16-2025-392</link>
@@ -7041,6 +7301,10 @@ I am grateful to my mentors, **Adrian Prantl** and **Jonas Devlieghere**, for th
       <source:markdown>\[en\] Or should you? Dave Sifry makes a very important point in his LinkedIn post: I wished there were always-updated travel guides that I could have pre-printed and bound and it would be a great memento to remember the trip as well. So, naturally, I thought there must be a huge opportunity in creating personalized, … [Continue reading &#34;« You should make a business out of it! » \[en\]&#34;](https://climbtothestars.org/archives/2025/11/09/you-should-make-a-business-out-of-it/)</source:markdown>
       <guid>cid://https://climbtothestars.org/?p=10207</guid>
     </item>    <item>
+      <title>Mux: Video API for Developers</title>
+      <link>https://www.mux.com/video-api?utm_campaign=fireball&#38;utm_source=DF</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42370</guid>
+    </item>    <item>
       <link>https://www.theatlantic.com/politics/2025/11/mass-deportation-immigration/684871/?gift=UDCAY75CzHyGUPSsXwkpWv6mvMeoNr8aKfvBdHgGgpE</link>
       <description>
         <![CDATA[<p>Most people detained by ICE are being housed in sprawling complexes in rural areas, where the land is cheap and the protests are few.</p>]]>
@@ -13242,10 +13506,6 @@ Tags: [technical-debt](https://simonwillison.net/tags/technical-debt), [psycholo
       <source:markdown>Why going to vote in this off-year election is so important</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!vy9-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64d950d1-2ca2-474d-bade-c067e21d80cc_6016x4016.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://steady.substack.com/p/nows-your-chance</guid>
-    </item>    <item>
-      <title>[Sponsor] Mux: Video API for Developers</title>
-      <link>https://www.mux.com/video-api?utm_campaign=fireball&#38;utm_source=DF</link>
-      <guid>cid://tag:daringfireball.net,2025:/feeds/sponsors//11.42353</guid>
     </item>    <item>
       <title>Progress update: fixing the ReactOS test suite</title>
       <link>https://reactos.org/blogs/cbialorucki-tests-2/</link>

@@ -4,10 +4,179 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>18 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>18 Nov 25 10:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>China readies a lifeboat for stranded Shenzhou crew</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/18/china_readies_a_lifeboat_for/</link>
+      <description>
+        <![CDATA[<h4>Stuck on the Tiangong station with a cracked capsule for company</h4> <p>China is preparing for an early launch of the Shenzhou-22 spacecraft to rescue the crew of Shenzou-21, who were left stranded aboard the Tiangong space station after their emergency rescue of the Shenzou-20 crew earlier this month.…</p>]]>
+      </description>
+      <source:markdown>#### Stuck on the Tiangong station with a cracked capsule for company
+
+China is preparing for an early launch of the Shenzhou-22 spacecraft to rescue the crew of Shenzou-21, who were left stranded aboard the Tiangong space station after their emergency rescue of the Shenzou-20 crew earlier this month.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243100</guid>
+    </item>    <item>
+      <title>Data Telemetry Is the Lifeline of Modern Analytics and AI</title>
+      <link>https://thenewstack.io/data-telemetry-is-the-lifeline-of-modern-analytics-and-ai/</link>
+      <description>
+        <![CDATA[<img width="1024" height="624" src="https://cdn.thenewstack.io/media/2025/11/96f2512f-shoes-1024x624.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Guy unpacking shoes he just bought." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/96f2512f-shoes.jpg" /><p>Imagine opening your preferred shopping app to purchase a new pair of sneakers. In a matter of seconds, you search,</p>
+        <p>The post <a href="https://thenewstack.io/data-telemetry-is-the-lifeline-of-modern-analytics-and-ai/">Data Telemetry Is the Lifeline of Modern Analytics and AI</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Guy unpacking shoes he just bought.](https://cdn.thenewstack.io/media/2025/11/96f2512f-shoes-1024x624.jpg)
+
+Imagine opening your preferred shopping app to purchase a new pair of sneakers. In a matter of seconds, you search,
+
+The post [Data Telemetry Is the Lifeline of Modern Analytics and AI](https://thenewstack.io/data-telemetry-is-the-lifeline-of-modern-analytics-and-ai/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806637</guid>
+    </item>    <item>
+      <title>Take fight to the enemy, US cyber boss says</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/18/the_us_wants_to_go/</link>
+      <description>
+        <![CDATA[<h4>When? Sean Cairncross wouldn&#39;t say</h4> <p>America is fed up with being the prime target for foreign hackers. So US National Cyber Director Sean Cairncross says Uncle Sam is going on the offensive – he just isn&#39;t saying when.…</p>]]>
+      </description>
+      <source:markdown>#### When? Sean Cairncross wouldn&#39;t say
+
+America is fed up with being the prime target for foreign hackers. So US National Cyber Director Sean Cairncross says Uncle Sam is going on the offensive – he just isn&#39;t saying when.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243103</guid>
+    </item>    <item>
+      <title>NASA Telescopes View Spiral Galaxy</title>
+      <link>https://www.nasa.gov/image-article/nasa-telescopes-view-spiral-galaxy/</link>
+      <description>
+        <![CDATA[NGC 1068, a relatively nearby spiral galaxy, appears in this image released on July 23, 2025. The galaxy contains a black hole at its center that is twice as massive as the Milky Way’s. NASA’s Chandra X-ray Observatory data shows a million-mile-per-hour wind is being driven from NGC 1068’s black hole and lighting up the [&#8230;]]]>
+      </description>
+      <source:markdown>NGC 1068, a relatively nearby spiral galaxy, appears in this image released on July 23, 2025. The galaxy contains a black hole at its center that is twice as massive as the Milky Way’s. NASA’s Chandra X-ray Observatory data shows a million-mile-per-hour wind is being driven from NGC 1068’s black hole and lighting up the \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=927898</guid>
+    </item>    <item>
+      <title>Google Chrome bug exploited as an 0-day - patch now or risk full system compromise</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/18/google_chrome_seventh_0_day/</link>
+      <description>
+        <![CDATA[<h4>Seventh Chrome 0-day this year</h4> <p>Google pushed an emergency patch on Monday for a high-severity Chrome bug that attackers have already found and exploited in the wild.…</p>]]>
+      </description>
+      <source:markdown>#### Seventh Chrome 0-day this year
+
+Google pushed an emergency patch on Monday for a high-severity Chrome bug that attackers have already found and exploited in the wild.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243102</guid>
+    </item>    <item>
+      <title>Datacenter fossil fuel habit &#39;not sustainable&#39; as AI workloads soar</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/18/fossil_fuel_ai_datacenter/</link>
+      <description>
+        <![CDATA[<h4>Rising AI power demand is straining grids and pushing operators toward hydrogen, batteries, geothermal, and nuclear</h4> <p>Gartner warns that fossil fuel dominance in on-site power generation is not sustainable, given the rapid rise in datacenter energy consumption due to AI servers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Rising AI power demand is straining grids and pushing operators toward hydrogen, batteries, geothermal, and nuclear
+
+Gartner warns that fossil fuel dominance in on-site power generation is not sustainable, given the rapid rise in datacenter energy consumption due to AI servers.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243099</guid>
+    </item>    <item>
+      <title>Outdated Samsung handset linked to fatal emergency call failure in Australia</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/18/samsung_emergency_call_failure/</link>
+      <description>
+        <![CDATA[<h4>Carrier insists network wasn&#39;t at fault when smartphone couldn&#39;t reach 000</h4> <p>A Sydney resident died after their Samsung handset failed to connect to 000, Australia&#39;s primary emergency number, triggering a stark warning from telco TPG that outdated mobile software could be a matter of life or death.…</p>]]>
+      </description>
+      <source:markdown>#### Carrier insists network wasn&#39;t at fault when smartphone couldn&#39;t reach 000
+
+A Sydney resident died after their Samsung handset failed to connect to 000, Australia&#39;s primary emergency number, triggering a stark warning from telco TPG that outdated mobile software could be a matter of life or death.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243098</guid>
+    </item>    <item>
+      <title>Microsoft issues patch to tackle Windows 10 Extended Security Updates failures</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/18/windows_10_esu_patch/</link>
+      <description>
+        <![CDATA[<h4>Users who thought they were safely in the program hit errors on day one</h4> <p>Microsoft has shipped a fix for commercial customers who believed they were enrolled in the Extended Security Updates (ESU) program but received error messages on the first Patch Tuesday after support ended.…</p>]]>
+      </description>
+      <source:markdown>#### Users who thought they were safely in the program hit errors on day one
+
+Microsoft has shipped a fix for commercial customers who believed they were enrolled in the Extended Security Updates (ESU) program but received error messages on the first Patch Tuesday after support ended.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243091</guid>
+    </item>    <item>
+      <title>Antigravity Is Google’s New Agentic Development Platform</title>
+      <link>https://thenewstack.io/antigravity-is-googles-new-agentic-development-platform/</link>
+      <description>
+        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/09/8a4e910d-kai-wenzel-06mhffyv6yy-unsplash-scaled-1024x768.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/09/8a4e910d-kai-wenzel-06mhffyv6yy-unsplash-scaled.jpg" /><p>today launched Antigravity, its latest experiment in building an agentic development platform. Powered by the new Gemini 3 model, Antigravity</p>
+        <p>The post <a href="https://thenewstack.io/antigravity-is-googles-new-agentic-development-platform/">Antigravity Is Google&#8217;s New Agentic Development Platform</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/09/8a4e910d-kai-wenzel-06mhffyv6yy-unsplash-scaled-1024x768.jpg)
+
+today launched Antigravity, its latest experiment in building an agentic development platform. Powered by the new Gemini 3 model, Antigravity
+
+The post [Antigravity Is Google’s New Agentic Development Platform](https://thenewstack.io/antigravity-is-googles-new-agentic-development-platform/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806958</guid>
+    </item>    <item>
+      <title>How Azure Copilot’s New Agents Automate DevOps and SecOps</title>
+      <link>https://thenewstack.io/how-azure-copilots-new-agents-automate-devops-and-secops/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/e43d3b67-getty-images-0iu74atvidu-unsplash-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="azure" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/e43d3b67-getty-images-0iu74atvidu-unsplash.jpg" /><p>There are over 200 different services available on Azure, with thousands of resource types. At the Ignite conference this week,</p>
+        <p>The post <a href="https://thenewstack.io/how-azure-copilots-new-agents-automate-devops-and-secops/">How Azure Copilot’s New Agents Automate DevOps and SecOps</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![azure](https://cdn.thenewstack.io/media/2025/11/e43d3b67-getty-images-0iu74atvidu-unsplash-1024x576.jpg)
+
+There are over 200 different services available on Azure, with thousands of resource types. At the Ignite conference this week,
+
+The post [How Azure Copilot’s New Agents Automate DevOps and SecOps](https://thenewstack.io/how-azure-copilots-new-agents-automate-devops-and-secops/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22807009</guid>
+    </item>    <item>
+      <title>Miami Beach&#39;s Newest Art Installation Is Underwater—and It Doubles as a Habitat for Fish and Coral</title>
+      <link>https://www.smithsonianmag.com/smart-news/miami-beachs-newest-art-installation-is-underwaterand-it-doubles-as-a-habitat-for-fish-and-coral-180987704/</link>
+      <description>
+        <![CDATA[Crews lowered 22 concrete cars to the ocean floor to create "Concrete Coral," an installation by artist Leandro Erlich. The piece is the first phase of a project called REEFLINE]]>
+      </description>
+      <source:markdown>Crews lowered 22 concrete cars to the ocean floor to create &#34;Concrete Coral,&#34; an installation by artist Leandro Erlich. The piece is the first phase of a project called REEFLINE</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/G8NX5MsEYpWlP8KKA8FGAzZgs_o=/420x240/filters:focal(1920x1097:1921x1098)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/74/dc/74dc4232-caa2-404a-af61-88d714b0e8f6/concretecoral_courtesy_brittany_weber_britmeh.jpg" length="" type="" />
+    </item>    <item>
+      <title>Scientists Extract the Oldest RNA Ever Found, Revealing How a Woolly Mammoth’s Genes May Have Functioned 40,000 Years Ago</title>
+      <link>https://www.smithsonianmag.com/smart-news/Scientists-Extract-the-Oldest-RNA-Ever-Found-Revealing-How-a-Woolly-Mammoths-Genes-May-Have-Functioned-40000-Years-Ago-180987701/</link>
+      <description>
+        <![CDATA[The frozen remains of a juvenile woolly mammoth named Yuka preserved details about the animal’s last moments alive]]>
+      </description>
+      <source:markdown>The frozen remains of a juvenile woolly mammoth named Yuka preserved details about the animal’s last moments alive</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/iYDUvY9CzIyb17HyJLZW4TZFEdA=/420x240/filters:focal(384x274:385x275)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6e/78/6e789e99-6b3c-432e-83c3-1cf42cf9117b/yuka_legs.jpg" length="" type="" />
+    </item>    <item>
+      <title>The Future of Secure Development: Faster and Safer Code</title>
+      <link>https://thenewstack.io/the-future-of-secure-development-faster-and-safer-code/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/dcd7a51e-code12-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Technology background" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/dcd7a51e-code12.jpg" /><p>Software has always been built on a tension between speed and safety. Development teams push for faster release cycles, while</p>
+        <p>The post <a href="https://thenewstack.io/the-future-of-secure-development-faster-and-safer-code/">The Future of Secure Development: Faster and Safer Code</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Technology background](https://cdn.thenewstack.io/media/2025/11/dcd7a51e-code12-1024x576.jpg)
+
+Software has always been built on a tension between speed and safety. Development teams push for faster release cycles, while
+
+The post [The Future of Secure Development: Faster and Safer Code](https://thenewstack.io/the-future-of-secure-development-faster-and-safer-code/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806716</guid>
+    </item>    <item>
+      <title>Brussels eyes AWS, Azure for gatekeeper tag in cloud clampdown</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/18/amazon_microsoft_cloud_dma/</link>
+      <description>
+        <![CDATA[<h4>European Commission probes whether Amazon and Microsoft wield outsized control under Digital Markets Act</h4> <p>The European Commission has launched investigations into Amazon and Microsoft&#39;s cloud services, and plans to review if legislation introduced in 2022 is being applied effectively to the cloud market.…</p>]]>
+      </description>
+      <source:markdown>#### European Commission probes whether Amazon and Microsoft wield outsized control under Digital Markets Act
+
+The European Commission has launched investigations into Amazon and Microsoft&#39;s cloud services, and plans to review if legislation introduced in 2022 is being applied effectively to the cloud market.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243096</guid>
+    </item>    <item>
+      <title>NetApp claims ex-CTO built a secret cloud platform then sold it to VAST Data</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/18/netapp_cto_lawsuit/</link>
+      <description>
+        <![CDATA[<h4>Lawsuit alleges he poached staff, lifted trade secrets, and set up Red Stapler before quitting</h4> <p>NetApp has accused its former senior vice president and CTO of secretly building a rival cloud control platform while still on its payroll, triggering an urgent legal scramble.…</p>]]>
+      </description>
+      <source:markdown>#### Lawsuit alleges he poached staff, lifted trade secrets, and set up Red Stapler before quitting
+
+NetApp has accused its former senior vice president and CTO of secretly building a rival cloud control platform while still on its payroll, triggering an urgent legal scramble.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243095</guid>
+    </item>    <item>
+      <title>Confidence: Spotify Gives Developers a Platform for Experiments</title>
+      <link>https://thenewstack.io/confidence-spotify-gives-developers-a-platform-for-experiments/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/137e7b0a-tyson-singer-spotify-2-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Tyson Singer, SVP at Spotify. The streaming giant just released into GA its Portal, which includes the Confidence experiment platform built in." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/137e7b0a-tyson-singer-spotify-2.jpg" /><p>If you are experimenting with AI &#8212; and if you aren&#8217;t, you&#8217;ll soon be left irrevocably behind &#8212; you need</p>
+        <p>The post <a href="https://thenewstack.io/confidence-spotify-gives-developers-a-platform-for-experiments/">Confidence: Spotify Gives Developers a Platform for Experiments</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Tyson Singer, SVP at Spotify. The streaming giant just released into GA its Portal, which includes the Confidence experiment platform built in.](https://cdn.thenewstack.io/media/2025/11/137e7b0a-tyson-singer-spotify-2-1024x576.jpg)
+
+If you are experimenting with AI — and if you aren’t, you’ll soon be left irrevocably behind — you need
+
+The post [Confidence: Spotify Gives Developers a Platform for Experiments](https://thenewstack.io/confidence-spotify-gives-developers-a-platform-for-experiments/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806817</guid>
+    </item>    <item>
       <title>Linus Torvalds is OK with vibe coding as long as it&#39;s not used for anything that matters</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/18/linus_torvalds_vibe_coding/</link>
       <description>
@@ -21,11 +190,11 @@ Linux and Git inventor Linus Torvalds discussed AI in software development in an
       <title>Cloudflare coughs, half the internet catches a cold</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/18/cloudflare_outage/</link>
       <description>
-        <![CDATA[<h4>Outage leaves users staring at error pages while recovery crawls along</h4> <p><strong>Breaking</strong>  Internet services provider Cloudflare is suffering a major outage that has knocked chunks of the web offline – including <em>The Register</em>.…</p>]]>
+        <![CDATA[<h4>Outage leaves users staring at error pages while recovery crawls along</h4> <p><strong>Updated</strong>  Internet services provider Cloudflare is suffering a major outage that has knocked chunks of the web offline – including <em>The Register</em>.…</p>]]>
       </description>
       <source:markdown>#### Outage leaves users staring at error pages while recovery crawls along
 
-**Breaking**  Internet services provider Cloudflare is suffering a major outage that has knocked chunks of the web offline – including _The Register_.…</source:markdown>
+**Updated**  Internet services provider Cloudflare is suffering a major outage that has knocked chunks of the web offline – including _The Register_.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243094</guid>
     </item>    <item>
       <title>Zoomers are officially worse at passwords than 80-year-olds</title>
@@ -175,10 +344,23 @@ VMware has admitted that its guidance about the hardware needed to run its vSAN 
 **Interview**  Scientific computing is about to undergo a period of rapid change as workloads inject AI.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243081</guid>
     </item>    <item>
+      <title>Unblock DevEx by Getting Observability Tools Out of The Way</title>
+      <link>https://thenewstack.io/unblock-devex-by-getting-observability-tools-out-of-their-way/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/4986fbb3-dynatrace-webinar-nov2025-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Dynatrace webinar screenshot" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/4986fbb3-dynatrace-webinar-nov2025.jpg" /><p>This was originally published on Oct. 23, 2025, and has been updated with new information. Software developers&#8217; relationship with their</p>
+        <p>The post <a href="https://thenewstack.io/unblock-devex-by-getting-observability-tools-out-of-their-way/">Unblock DevEx by Getting Observability Tools Out of The Way</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Dynatrace webinar screenshot](https://cdn.thenewstack.io/media/2025/10/4986fbb3-dynatrace-webinar-nov2025-1024x576.jpg)
+
+This was originally published on Oct. 23, 2025, and has been updated with new information. Software developers’ relationship with their
+
+The post [Unblock DevEx by Getting Observability Tools Out of The Way](https://thenewstack.io/unblock-devex-by-getting-observability-tools-out-of-their-way/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22804174</guid>
+    </item>    <item>
       <title>Scaling AI Interactions: How to Load Balance Streamable MCP</title>
       <link>https://thenewstack.io/scaling-ai-interactions-how-to-load-balance-streamable-mcp/</link>
       <description>
-        <![CDATA[<img width="1024" height="512" src="https://cdn.thenewstack.io/media/2025/11/8d4227b9-image2-1024x512.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/8d4227b9-image2.png" /><p>The Model Context Protocol (MCP) is evolving. With the recent adoption of Streamable HTTP in early 2025, the protocol is</p>
+        <![CDATA[<img width="1024" height="512" src="https://cdn.thenewstack.io/media/2025/11/8d4227b9-image2-1024x512.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/8d4227b9-image2.png" /><p>The Model Context Protocol (MCP) is evolving. With the recent adoption of Streamable HTTP in early 2025, the protocol is</p>
         <p>The post <a href="https://thenewstack.io/scaling-ai-interactions-how-to-load-balance-streamable-mcp/">Scaling AI Interactions: How to Load Balance Streamable MCP</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/8d4227b9-image2-1024x512.png)
@@ -3776,17 +3958,17 @@ SAP insists customers wanting &#34;innovation&#34; such as AI must upgrade to it
       <title>The Future Of Immune Health Might Be Here</title>
       <link>https://www.npr.org/2025/11/12/nx-s1-5580487/immune-health-test-immunome-precision-medicine</link>
       <description>
-        <![CDATA[<p dir="ltr"><a href="http://www.davidewingduncan.com/"target="_blank"   >David Ewing Duncan</a> has spent the last 25 years being poked and prodded in the name of science. He’s signed up for hundreds of tests because, as a journalist, he writes about emerging health breakthroughs. He says one recent test contains more useful data than anything he’s seen to date. He talks to host <a href="https://www.npr.org/people/767284140/emily-kwong"target="_blank"   >Emily Kwong</a> about his score on the Immune Health Metric, which was developed by immunologist <a href="https://medicine.yale.edu/profile/john-tsang/"target="_blank"   >John Tsang</a>. Together, David and John explain why immune health is so central to overall health and how a simple blood test could one day predict disease before it starts.<p dir="ltr"><em><a href="https://www.humanimmunomeproject.org/"target="_blank"   >Learn more</a> about the Human Immunome Project.</em><p dir="ltr"><em><a href="https://www.technologyreview.com/2025/10/09/1125376/how-healthy-am-i-my-immunome-knows-the-score/"target="_blank"   >Read</a> David’s full article about his experience with the Immune Health Metric. The piece is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live.</em><p dir="ltr"><em>Interested in more health science? Email us your question at <a href="mailto:shortwave@npr.org"target="_blank"   >shortwave@npr.org</a>.</em><p dir="ltr"><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at <a href="http://plus.npr.org/shortwave"target="_blank"   >plus.npr.org/shortwave</a>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+        <![CDATA[<a href="http://www.davidewingduncan.com/"target="_blank"   >David Ewing Duncan</a> has spent the last 25 years being poked and prodded in the name of science. He’s signed up for hundreds of tests because, as a journalist, he writes about emerging health breakthroughs. He says one recent test contains more useful data than anything he’s seen to date. He talks to host <a href="https://www.npr.org/people/767284140/emily-kwong"target="_blank"   >Emily Kwong</a> about his score on the Immune Health Metric, which was developed by immunologist <a href="https://medicine.yale.edu/profile/john-tsang/"target="_blank"   >John Tsang</a>. Together, David and John explain why immune health is so central to overall health and how a simple blood test could one day predict disease before it starts.<br/><br/><a href="https://www.humanimmunomeproject.org/"target="_blank"   ><em>Learn more</em></a><em> about the Human Immunome Project.</em><br/><br/><a href="https://www.technologyreview.com/2025/10/09/1125376/how-healthy-am-i-my-immunome-knows-the-score/"target="_blank"   ><em>Read</em></a><em> David’s full article about his experience with the Immune Health Metric. The piece is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. Read the story on </em><a href="https://www.aventine.org/technology/human-immunome-immune-system-test-john-tsang"target="_blank"   ><em>Aventine's website here</em></a><em>. </em><br/><br/><em>Interested in more health science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
       </description>
       <source:markdown>[David Ewing Duncan](http://www.davidewingduncan.com/) has spent the last 25 years being poked and prodded in the name of science. He’s signed up for hundreds of tests because, as a journalist, he writes about emerging health breakthroughs. He says one recent test contains more useful data than anything he’s seen to date. He talks to host [Emily Kwong](https://www.npr.org/people/767284140/emily-kwong) about his score on the Immune Health Metric, which was developed by immunologist [John Tsang](https://medicine.yale.edu/profile/john-tsang/). Together, David and John explain why immune health is so central to overall health and how a simple blood test could one day predict disease before it starts.
 
-_[Learn more](https://www.humanimmunomeproject.org/) about the Human Immunome Project._
+[_Learn more_](https://www.humanimmunomeproject.org/) _about the Human Immunome Project._
 
-_[Read](https://www.technologyreview.com/2025/10/09/1125376/how-healthy-am-i-my-immunome-knows-the-score/) David’s full article about his experience with the Immune Health Metric. The piece is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live._
+[_Read_](https://www.technologyreview.com/2025/10/09/1125376/how-healthy-am-i-my-immunome-knows-the-score/) _David’s full article about his experience with the Immune Health Metric. The piece is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. Read the story on_ [_Aventine&#39;s website here_](https://www.aventine.org/technology/human-immunome-immune-system-test-john-tsang) _._
 
-_Interested in more health science? Email us your question at [shortwave@npr.org](mailto:shortwave@npr.org)._
+_Interested in more health science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
 
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at [plus.npr.org/shortwave](http://plus.npr.org/shortwave)._
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
 
 Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
 
