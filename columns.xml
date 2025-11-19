@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>19 Nov 25 06:10 -0800</lastBuildDate>
+    <lastBuildDate>19 Nov 25 12:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -141,6 +141,300 @@ As always, do give this release a try and open a [ticket](https://gitlab.haskell
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
     </item>    <item>
+      <title>Attach Xcode to Multiple Processes</title>
+      <link>https://mjtsai.com/blog/2025/11/19/attach-to-multiple-processes/</link>
+      <description>
+        <![CDATA[Daniel Jalkut: For these scenarios, Xcode provides a handy checkbox that can be used to automatically attach when one of an app&#8217;s XPC services is launched. Look deep in the &#8220;Options&#8221; tab of the scheme editor&#8217;s &#8220;Run Action&#8221; page[&#8230;] While this feature is great for XPC services in particular, there are many caveats. For example, [&#8230;]]]>
+      </description>
+      <source:markdown>Daniel Jalkut: For these scenarios, Xcode provides a handy checkbox that can be used to automatically attach when one of an app’s XPC services is launched. Look deep in the “Options” tab of the scheme editor’s “Run Action” page\[…\] While this feature is great for XPC services in particular, there are many caveats. For example, \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=50110</guid>
+    </item>    <item>
+      <title>Cloudflare Outage Cause by Database Permissions</title>
+      <link>https://mjtsai.com/blog/2025/11/19/cloudflare-outage-cause-by-database-permissions/</link>
+      <description>
+        <![CDATA[Matthew Prince (Hacker News): The issue was not caused, directly or indirectly, by a cyber attack or malicious activity of any kind. Instead, it was triggered by a change to one of our database systems' permissions which caused the database to output multiple entries into a &#8220;feature file&#8221; used by our Bot Management system. That [&#8230;]]]>
+      </description>
+      <source:markdown>Matthew Prince (Hacker News): The issue was not caused, directly or indirectly, by a cyber attack or malicious activity of any kind. Instead, it was triggered by a change to one of our database systems&#39; permissions which caused the database to output multiple entries into a “feature file” used by our Bot Management system. That \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=50108</guid>
+    </item>    <item>
+      <title>Gemini 3.0 and Antigravity</title>
+      <link>https://mjtsai.com/blog/2025/11/19/gemini-3-0-and-antigravity/</link>
+      <description>
+        <![CDATA[Google (MacRumors, The Verge, Hacker News, model card, Hacker News): And now we&#8217;re introducing Gemini 3, our most intelligent model, that combines all of Gemini&#8217;s capabilities together so you can bring any idea to life.It&#8217;s state-of-the-art in reasoning, built to grasp depth and nuance &#8212; whether it&#8217;s perceiving the subtle clues in a creative idea, [&#8230;]]]>
+      </description>
+      <source:markdown>Google (MacRumors, The Verge, Hacker News, model card, Hacker News): And now we’re introducing Gemini 3, our most intelligent model, that combines all of Gemini’s capabilities together so you can bring any idea to life.It’s state-of-the-art in reasoning, built to grasp depth and nuance — whether it’s perceiving the subtle clues in a creative idea, \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=50106</guid>
+    </item>    <item>
+      <title>Apple Announces Finalists for the 2025 App Store Awards</title>
+      <link>https://www.apple.com/newsroom/2025/11/apple-announces-finalists-for-the-2025-app-store-awards/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42403</guid>
+    </item>    <item>
+      <title>The Librarians</title>
+      <link>https://kottke.org/25/11/the-librarians</link>
+      <guid>cid://tag:kottke.org,2025://5.47881</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m5yxoldbnk2r</link>
+      <description>
+        <![CDATA[A little self-defense against the AT bot swarms, https://alexschroeder.ch/view/2025-11-17-ublock-origin]]>
+      </description>
+      <source:markdown>A little self-defense against the AT bot swarms, https://alexschroeder.ch/view/2025-11-17-ublock-origin</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m5yxoldbnk2r</guid>
+    </item>    <item>
+      <title>NASA&#38;#8217;s Perseverance rover scooped up a rock that might prove there was...</title>
+      <link>https://kottke.org/25/11/0047876-nasas-perseverance-rover-</link>
+      <guid>cid://tag:kottke.org,2025://13.47876</guid>
+    </item>    <item>
+      <title>Podcast Notes: Feross Aboukhadijeh on The Changelog</title>
+      <link>https://blog.jim-nielsen.com/2025/notes-from-changelog-with-feross/</link>
+      <description>
+        <![CDATA[<p>I enjoyed listening to <a href="https://feross.org" >Feross Aboukhadijeh</a>, founder and CEO of the security firm Socket, on the <a href="https://changelog.com/friends/111" >Changelog podcast “npm under siege”</a>. The cat-and-mouse nature of security is a kind of infinite source of novel content, like a series of heist movies that never produces the same plot so you can never quite guess what happens next.</p>
+        <p>I like how succintly Feross points out the paradox of trying to keep your software safe by upgrading packages on npm:</p>
+        <blockquote>
+        <p>The faster you upgrade your packages, the safer you are from software vulnerabilities. But then the faster you upgrade the more vulnerable you are to supply chain attacks</p>
+        </blockquote>
+        <p>He points out (and I learned) that <a href="https://pnpm.io/settings#minimumreleaseage" >pnpm has a feature called <code>minimumReleaseAge</code></a> that lets you avoid installing anything super new. So you can, for example, specify: “Don’t install anything published in the last 24 hours.”</p>
+        <p>In other words: let’s slow down a bit. Maybe we don’t need immediacy in everything, including software updates. Maybe <a href="https://blog.jim-nielsen.com/2025/more-friction-please/" >a little friction is good</a>.</p>
+        <p>And if security vulnerabilities are what it took to drive us to this realization, perhaps it’s a blessing in disguise.</p>
+        <p>(Until the long running cat-and-mouse game of security brings us a bad actor who decides to exercise a little patience and creates some kind of vulnerability whose only recourse requires immediate upgrades and disabling the <code>minimumRelaseAge</code> flag, lol.)</p>
+        <p>Later in the podcast Feross is asked whether, if he was the benevolent dictator of npm, he would do things the same. He says “yes”. Why? Because the trade-offs of “trust most people to do the right thing and make it easy for them” feels like the better decision over “lock it down and make it harder for everyone”. He’s a self proclaimed optimist:</p>
+        <blockquote>
+        <p>There’s so much good created when you just trust people and you hope for the best.</p>
+        </blockquote>
+        <p>Obviously Feross has an entire business based on the vulnerabilities of npm, so his incentives are such that if he did change things, he might not exist ha. So read that how you will. </p>
+        <p>But I like his optimistic perspective: try not to let a few bad actors ruin the experience for everyone. Maybe we can keep the levers where they are and try to clean up what remains.</p>
+        
+            <hr />
+            
+        
+            <p>
+              Reply via:
+              
+        
+              <a
+                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/notes-from-changelog-with-feross/"
+                >Email</a
+              >
+              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
+        
+              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
+            </p>]]>
+      </description>
+      <source:markdown>I enjoyed listening to [Feross Aboukhadijeh](https://feross.org), founder and CEO of the security firm Socket, on the [Changelog podcast “npm under siege”](https://changelog.com/friends/111). The cat-and-mouse nature of security is a kind of infinite source of novel content, like a series of heist movies that never produces the same plot so you can never quite guess what happens next.
+
+I like how succintly Feross points out the paradox of trying to keep your software safe by upgrading packages on npm:
+
+&#62; The faster you upgrade your packages, the safer you are from software vulnerabilities. But then the faster you upgrade the more vulnerable you are to supply chain attacks
+
+He points out (and I learned) that [pnpm has a feature called `minimumReleaseAge`](https://pnpm.io/settings#minimumreleaseage) that lets you avoid installing anything super new. So you can, for example, specify: “Don’t install anything published in the last 24 hours.”
+
+In other words: let’s slow down a bit. Maybe we don’t need immediacy in everything, including software updates. Maybe [a little friction is good](https://blog.jim-nielsen.com/2025/more-friction-please/).
+
+And if security vulnerabilities are what it took to drive us to this realization, perhaps it’s a blessing in disguise.
+
+(Until the long running cat-and-mouse game of security brings us a bad actor who decides to exercise a little patience and creates some kind of vulnerability whose only recourse requires immediate upgrades and disabling the `minimumRelaseAge` flag, lol.)
+
+Later in the podcast Feross is asked whether, if he was the benevolent dictator of npm, he would do things the same. He says “yes”. Why? Because the trade-offs of “trust most people to do the right thing and make it easy for them” feels like the better decision over “lock it down and make it harder for everyone”. He’s a self proclaimed optimist:
+
+&#62; There’s so much good created when you just trust people and you hope for the best.
+
+Obviously Feross has an entire business based on the vulnerabilities of npm, so his incentives are such that if he did change things, he might not exist ha. So read that how you will.
+
+But I like his optimistic perspective: try not to let a few bad actors ruin the experience for everyone. Maybe we can keep the levers where they are and try to clean up what remains.
+
+* * *
+
+Reply via:
+
+
+[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/notes-from-changelog-with-feross/)
+· [Mastodon](https://mastodon.social/@jimniels) ·
+
+[Bluesky](https://bsky.app/profile/jim-nielsen.com)</source:markdown>
+      <guid>cid://https://blog.jim-nielsen.com/2025/notes-from-changelog-with-feross/</guid>
+    </item>    <item>
+      <title>They Don’t Understand Orwell. At All.</title>
+      <link>https://www.notesfromthecircus.com/p/they-dont-understand-orwell-at-all</link>
+      <description>
+        <![CDATA[On censorship and hypocrisy.]]>
+      </description>
+      <source:markdown>On censorship and hypocrisy.</source:markdown>
+      <enclosure url="https://images.unsplash.com/photo-1640826028382-e209fad88fa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw4fHxvcndlbGx8ZW58MHx8fHwxNzYzNTc0MzA0fDA&ixlib=rb-4.1.0&q=80&w=1080" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/they-dont-understand-orwell-at-all</guid>
+    </item>    <item>
+      <title>Iowa City Made Its Buses Free. Traffic Cleared, and So Did the...</title>
+      <link>https://kottke.org/25/11/0047883-iowa-city-made-its-buses</link>
+      <guid>cid://tag:kottke.org,2025://13.47883</guid>
+    </item>    <item>
+      <title>&#38;#8220;Geothermal is underdeveloped, and its upfront costs can be high, but it&#38;#8217;s...</title>
+      <link>https://kottke.org/25/11/0047878-geothermal-is-underdevelo</link>
+      <guid>cid://tag:kottke.org,2025://13.47878</guid>
+    </item>    <item>
+      <title>Two books with AI-generated covers have been disqualified from New Zealand’s top book prize.</title>
+      <link>https://lithub.com/two-books-with-ai-generated-covers-have-been-disqualified-from-new-zealands-top-book-prize/</link>
+      <description>
+        <![CDATA[Somewhere on the goofy/sad spectrum in AI slop news, today two novels up for the prestigious Ockham New Zealand Book Award were disqualified on the basis of their AI cover art. Obligate Carnivore, a story collection by Stephanie Johnson, and]]>
+      </description>
+      <source:markdown>Somewhere on the goofy/sad spectrum in AI slop news, today two novels up for the prestigious Ockham New Zealand Book Award were disqualified on the basis of their AI cover art. Obligate Carnivore, a story collection by Stephanie Johnson, and</source:markdown>
+      <guid>cid://https://lithub.com/?p=263095</guid>
+    </item>    <item>
+      <title>Cloudflare CEO Matthew Prince Explains, in Detail, and Apologizes for Yesterday’s Global Outage</title>
+      <link>https://blog.cloudflare.com/18-november-2025-outage/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42402</guid>
+    </item>    <item>
+      <title>How Agentic AI Empowers Architecture Governance</title>
+      <link>https://www.oreilly.com/radar/how-agentic-ai-empowers-architecture-governance/</link>
+      <description>
+        <![CDATA[One of the principles in our upcoming book Architecture as Code is the ability for architects to design automated governance checks for important architectural concerns, creating fast feedback loops when things go awry. This idea isn&#8217;t new—Neal and his coauthors Rebecca Parsons and Patrick Kua espoused this idea back in 2017 in the first edition [&#8230;]]]>
+      </description>
+      <source:markdown>One of the principles in our upcoming book Architecture as Code is the ability for architects to design automated governance checks for important architectural concerns, creating fast feedback loops when things go awry. This idea isn’t new—Neal and his coauthors Rebecca Parsons and Patrick Kua espoused this idea back in 2017 in the first edition \[…\]</source:markdown>
+      <guid>cid://https://www.oreilly.com/radar/?p=17726</guid>
+    </item>    <item>
+      <title>Hot take on Google’s Gemini 3</title>
+      <link>https://garymarcus.substack.com/p/hot-take-on-googles-gemini-3</link>
+      <description>
+        <![CDATA[Still no AGI, but it may nonetheless represent serious threats both to OpenAI and Nvidia]]>
+      </description>
+      <source:markdown>Still no AGI, but it may nonetheless represent serious threats both to OpenAI and Nvidia</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!0q9-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc913ee4e-58ef-480a-907f-e574139345eb_1152x1116.png" length="0" type="image/jpeg" />
+      <guid>cid://https://garymarcus.substack.com/p/hot-take-on-googles-gemini-3</guid>
+    </item>    <item>
+      <title>Tim Cook Among Attendees of Last Night’s Black-Tie White House Dinner Honoring Journalist-Murdering Tyrant Mohammed bin Salman of Saudi Arabia</title>
+      <link>https://www.nytimes.com/2025/11/18/us/politics/trump-saudi-dinner-guests.html?unlocked_article_code=1.2U8.clG6.uxuqC4aodHYk&#38;smid=url-share</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42401</guid>
+    </item>    <item>
+      <title>On Seeing Clearly Without Losing Your Mind</title>
+      <link>https://www.notesfromthecircus.com/p/on-seeing-clearly-without-losing</link>
+      <description>
+        <![CDATA[Because some people are numb.]]>
+      </description>
+      <source:markdown>Because some people are numb.</source:markdown>
+      <enclosure url="https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxMXx8c3Vuc2V0fGVufDB8fHx8MTc2MzQ4OTg1MXww&ixlib=rb-4.1.0&q=80&w=1080" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/on-seeing-clearly-without-losing</guid>
+    </item>    <item>
+      <title>Big Opinion, Big Budget</title>
+      <link>https://feed.tedium.co/link/15204/17213014/patreon-new-york-times-op-ed</link>
+      <description>
+        <![CDATA[The New York Times’ choice to publish a video op-ed by the CEO of Patreon points at why exec-produced video op-eds might be a bad idea.]]>
+      </description>
+      <source:markdown>The New York Times’ choice to publish a video op-ed by the CEO of Patreon points at why exec-produced video op-eds might be a bad idea.</source:markdown>
+      <guid>cid://https://tedium.co/2025/11/19/patreon-new-york-times-op-ed/</guid>
+    </item>    <item>
+      <title>Rainy Day Jazz Vinyl Set. &#38;#8220;Plenty of ballads, blues and heart-warming songs...</title>
+      <link>https://kottke.org/25/11/0047882-rainy-day-jazz-vinyl-set</link>
+      <guid>cid://tag:kottke.org,2025://13.47882</guid>
+    </item>    <item>
+      <title>How to think like a beginner, even when you’re an expert</title>
+      <link>https://guykawasaki.substack.com/p/how-to-think-like-a-beginner-even</link>
+      <description>
+        <![CDATA[One of the greatest dangers of expertise is the illusion of knowing it all.]]>
+      </description>
+      <source:markdown>One of the greatest dangers of expertise is the illusion of knowing it all.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!RzCi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17d108af-2a19-4dd6-8b96-f9226e93fb72_1080x1080.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://guykawasaki.substack.com/p/how-to-think-like-a-beginner-even</guid>
+    </item>    <item>
+      <title>Rejected pitches for the live-action  Eloise.</title>
+      <link>https://lithub.com/rejected-pitches-for-the-live-action-eloise/</link>
+      <description>
+        <![CDATA[Eloise, the OG enfant terrible best known for causing mayhem at the Plaza Hotel, is getting a live adaptation. And an unlikely duo is behind it: Ryan Reynolds and Amy Sherman-Palladino, of Deadpool and Gilmore Girls, respectively. The beloved 50s]]>
+      </description>
+      <source:markdown>Eloise, the OG enfant terrible best known for causing mayhem at the Plaza Hotel, is getting a live adaptation. And an unlikely duo is behind it: Ryan Reynolds and Amy Sherman-Palladino, of Deadpool and Gilmore Girls, respectively. The beloved 50s</source:markdown>
+      <guid>cid://https://lithub.com/?p=263074</guid>
+    </item>    <item>
+      <title>Can You Drive West to Lengthen the Sunset?</title>
+      <link>https://kottke.org/25/11/can-you-drive-west-to-lengthen-the-sunset</link>
+      <guid>cid://tag:kottke.org,2025://5.47858</guid>
+    </item>    <item>
+      <title>David Chisnall (*Now with 50% more sarcasm!*): “I think this needs to be repeated…”</title>
+      <link>https://infosec.exchange/@david_chisnall/115270162462304611</link>
+      <description>
+        <![CDATA[<blockquote>
+          <p>Machine learning is <em>amazing</em> if … the value of a correct answer is much higher than the cost of an incorrect answer.</p>
+        </blockquote>
+        
+        <p>Related to <a href="https://adactio.com/links/22258">Laissez-faire Cognitive Debt</a>:</p>
+        
+        <blockquote>
+          <p>And that&#8217;s where I start to get really annoyed by a lot of the LLM hype.  It&#8217;s pushing machine-learning approaches into places where there are significant harms for sometimes giving the wrong answer.  And it&#8217;s doing so while trying to outsource the liability to the customers who are using these machines in ways in which they are advertised as working.  It&#8217;s great for translation!  Unless a mistranslated word could kill a business deal or start a war.  It&#8217;s great for summarisation!  Unless missing a key point could cost you a load of money.  It&#8217;s great for writing code!  Unless a security vulnerability would cost you lost revenue or a copyright infringement lawsuit from having accidentally put something from the training set directly in your codebase in contravention of its license would kill your business.  And so on.  Lots of risks that are outsourced and liabilities that are passed directly to the user.</p>
+        </blockquote>
+        
+        <p><a href="https://adactio.com/links/22259">adactio.com/links/22259</a></p>]]>
+      </description>
+      <source:markdown>&#62; Machine learning is _amazing_ if … the value of a correct answer is much higher than the cost of an incorrect answer.
+
+Related to [Laissez-faire Cognitive Debt](https://adactio.com/links/22258):
+
+&#62; And that’s where I start to get really annoyed by a lot of the LLM hype. It’s pushing machine-learning approaches into places where there are significant harms for sometimes giving the wrong answer. And it’s doing so while trying to outsource the liability to the customers who are using these machines in ways in which they are advertised as working. It’s great for translation! Unless a mistranslated word could kill a business deal or start a war. It’s great for summarisation! Unless missing a key point could cost you a load of money. It’s great for writing code! Unless a security vulnerability would cost you lost revenue or a copyright infringement lawsuit from having accidentally put something from the training set directly in your codebase in contravention of its license would kill your business. And so on. Lots of risks that are outsourced and liabilities that are passed directly to the user.
+
+[adactio.com/links/22259](https://adactio.com/links/22259)</source:markdown>
+      <guid>cid://https://infosec.exchange/@david_chisnall/115270162462304611</guid>
+    </item>    <item>
+      <title>Our favorite Literary Twitter moments: Jessie Gaynor on Joyce Carol Oates</title>
+      <link>https://lithub.com/our-favorite-literary-twitter-moments-jessie-gaynor-on-joyce-carol-oates/</link>
+      <description>
+        <![CDATA[Pulling together the 64 original Literary Twitter moments and incidents to create our winter game, What Was Literary Twitter? The Bracket, required the vast institutional memory of the entire Lit Hub team, who each had their personal favorite e-dramas to]]>
+      </description>
+      <source:markdown>Pulling together the 64 original Literary Twitter moments and incidents to create our winter game, What Was Literary Twitter? The Bracket, required the vast institutional memory of the entire Lit Hub team, who each had their personal favorite e-dramas to</source:markdown>
+      <guid>cid://https://lithub.com/?p=263003</guid>
+    </item>    <item>
+      <title>How thousands of students are growing plants in space with Raspberry Pi</title>
+      <link>https://www.raspberrypi.com/news/how-thousands-of-students-are-growing-plants-in-space-with-raspberry-pi/</link>
+      <description>
+        <![CDATA[<p>ExoLab uses Raspberry Pi to connect students around the world with real scientific research taking place aboard the ISS.</p>
+        <p>The post <a href="https://www.raspberrypi.com/news/how-thousands-of-students-are-growing-plants-in-space-with-raspberry-pi/">How thousands of students are growing plants in space with Raspberry Pi</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
+      </description>
+      <source:markdown>ExoLab uses Raspberry Pi to connect students around the world with real scientific research taking place aboard the ISS.
+
+The post [How thousands of students are growing plants in space with Raspberry Pi](https://www.raspberrypi.com/news/how-thousands-of-students-are-growing-plants-in-space-with-raspberry-pi/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
+      <enclosure url="https://www.raspberrypi.com/app/uploads/2020/11/ISS-Mimic-20sec-clip.mov" length="7213" type="video/quicktime" />
+      <guid>cid://https://www.raspberrypi.com/?p=130449</guid>
+    </item>    <item>
+      <title>CDC officials confirm that the US is two months away from measles...</title>
+      <link>https://kottke.org/25/11/0047877-cdc-officials-confirm-tha</link>
+      <guid>cid://tag:kottke.org,2025://13.47877</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/19.html</link>
+      <description>
+        <![CDATA[The news gets everything wrong about the nouns of our political system. They talk about Repubs and Dems, but the real power is with the people.]]>
+      </description>
+      <source:markdown>The news gets everything wrong about the nouns of our political system. They talk about Repubs and Dems, but the real power is with the people.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/19/1943/</guid>
+    </item>    <item>
+      <title>What Was Literary Twitter? The Bracket *Day 3*</title>
+      <link>https://lithub.com/what-was-literary-twitter-the-bracket-day-3/</link>
+      <description>
+        <![CDATA[Welcome to the third day of voting! We’re down to just 16, and it’s getting harder for me to discern how this thing will shake out, to be honest. Unsurprisingly, a few top seeds remain—bad art friend and cat person—and]]>
+      </description>
+      <source:markdown>Welcome to the third day of voting! We’re down to just 16, and it’s getting harder for me to discern how this thing will shake out, to be honest. Unsurprisingly, a few top seeds remain—bad art friend and cat person—and</source:markdown>
+      <guid>cid://https://lithub.com/?p=262998</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/19.html#a140306</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2022/12/23/masto.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">One of the reasons Mastodon doesn't get credit for being "on the web" is that there's been no buzz about the ActivityPub support in WordPress. Ghost has been beating the drum about their ActivityPub support for (many) months. I don't know if they're actually there yet, I've never knowingly seen something from Ghost on Mastodon. I sent an email to Matt this morning suggesting that we promote the incredible connection between WordPress and Mastodon via ActivityPub. In the early days of the blogosphere we had the same problem, there was no good way to see who was writing, so we started a site called weblogs.com, which ping'd each site that we knew about to see if it had changed, if so it went to the top of a list that was published at <a href="https://daytona.scripting.com/search?q=weblogs.com">weblogs.com</a>. So if you wanted to find out what's new you'd just go there. It got more complicated over time, as the blogosphere grew at a very fast clip. We could do that for WordPress sites on ActivityPub by pointing to their site from a weblogs.com-like site. There's no shame in telling the world about the cool new technology you've made, esp when it will make life so much more interesting! But it can't do that if they don't know it's there. Let's do some promotion. :-)]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2022/12/23/masto.png)One of the reasons Mastodon doesn&#39;t get credit for being &#34;on the web&#34; is that there&#39;s been no buzz about the ActivityPub support in WordPress. Ghost has been beating the drum about their ActivityPub support for (many) months. I don&#39;t know if they&#39;re actually there yet, I&#39;ve never knowingly seen something from Ghost on Mastodon. I sent an email to Matt this morning suggesting that we promote the incredible connection between WordPress and Mastodon via ActivityPub. In the early days of the blogosphere we had the same problem, there was no good way to see who was writing, so we started a site called weblogs.com, which ping&#39;d each site that we knew about to see if it had changed, if so it went to the top of a list that was published at [weblogs.com](https://daytona.scripting.com/search?q=weblogs.com). So if you wanted to find out what&#39;s new you&#39;d just go there. It got more complicated over time, as the blogosphere grew at a very fast clip. We could do that for WordPress sites on ActivityPub by pointing to their site from a weblogs.com-like site. There&#39;s no shame in telling the world about the cool new technology you&#39;ve made, esp when it will make life so much more interesting! But it can&#39;t do that if they don&#39;t know it&#39;s there. Let&#39;s do some promotion. :-)</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/19.html#a140306</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/19.html#a140139</link>
+      <description>
+        <![CDATA[If Bluesky and Mastodon were "on the web" they would already interop because friends that's what the freaking web does. They behave like closed off silos, and until that changes, they can't claim to be on the web. Don't sell out the web so cheap. It really means something to be on the web.]]>
+      </description>
+      <source:markdown>If Bluesky and Mastodon were &#34;on the web&#34; they would already interop because friends that&#39;s what the freaking web does. They behave like closed off silos, and until that changes, they can&#39;t claim to be on the web. Don&#39;t sell out the web so cheap. It really means something to be on the web.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/19.html#a140139</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/19.html#a140036</link>
+      <description>
+        <![CDATA[I love the <a href="https://ms.now/">domain</a> for MSNOW. Just before it came out, Jeff Jarvis wondered on all the social networks why it wasn't msnow.com. Well, because they found an even better domain.]]>
+      </description>
+      <source:markdown>I love the [domain](https://ms.now/) for MSNOW. Just before it came out, Jeff Jarvis wondered on all the social networks why it wasn&#39;t msnow.com. Well, because they found an even better domain.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/19.html#a140036</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/19.html#a135037</link>
+      <description>
+        <![CDATA[The news gets everything wrong about the nouns of our political system. They talk about Repubs and Dems, but the real power is with the people.  Something that Heather Cox Richardson said so eloquently in this week's <a href="https://podcasts.apple.com/us/podcast/heather-cox-richardson-people-are-starved-for-facts/id1817225413?i=1000736787935">podcast</a> with Nicolle Wallace. I know I recommended it yesterday, but please do listen to this and don't forget it. When you're watching <a href="https://ms.now/">MSNOW</a> you're getting the wrong nouns. I think this problem could be solved by moving every show on <a href="https://ms.now/">MSNOW</a> to a different American city. The people on the panels should come to work in Detroit, St Louis, Phonenix, Denver, Charleston, Cleveland, Seattle, places like that. Get out of NY and DC. Really connect yourself to the whole country. That would rock a lot of boats.]]>
+      </description>
+      <source:markdown>The news gets everything wrong about the nouns of our political system. They talk about Repubs and Dems, but the real power is with the people. Something that Heather Cox Richardson said so eloquently in this week&#39;s [podcast](https://podcasts.apple.com/us/podcast/heather-cox-richardson-people-are-starved-for-facts/id1817225413?i=1000736787935) with Nicolle Wallace. I know I recommended it yesterday, but please do listen to this and don&#39;t forget it. When you&#39;re watching [MSNOW](https://ms.now/) you&#39;re getting the wrong nouns. I think this problem could be solved by moving every show on [MSNOW](https://ms.now/) to a different American city. The people on the panels should come to work in Detroit, St Louis, Phonenix, Denver, Charleston, Cleveland, Seattle, places like that. Get out of NY and DC. Really connect yourself to the whole country. That would rock a lot of boats.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/19.html#a135037</guid>
+    </item>    <item>
       <title>The Only GM EV1 Ever Publicly Sold</title>
       <link>https://onefoottsunami.com/2025/11/19/the-only-gm-ev1-ever-publicly-sold/</link>
       <guid>cid://https://onefoottsunami.com/?p=29458</guid>
@@ -202,9 +496,9 @@ anything amiss.</source:markdown>
       <title>Lit Hub Daily: November 19, 2025</title>
       <link>https://lithub.com/lit-hub-daily-november-19-2025/</link>
       <description>
-        <![CDATA[How do we know aliens do science? “Just because aliens arrive with snazzy blasters doesn’t mean they can explain how they work, or that they even care to know.” &#124; Lit Hub Science Violet Kupersmith considers the stylistic and thematic]]>
+        <![CDATA[On day three of our What was Literary Twitter? bracket, some top seeds remain in the game, but the upsets haven’t stopped. Vote here to help your favorite literary internet moments keep climbing! &#124; Lit Hub How do we know aliens]]>
       </description>
-      <source:markdown>How do we know aliens do science? “Just because aliens arrive with snazzy blasters doesn’t mean they can explain how they work, or that they even care to know.” \| Lit Hub Science Violet Kupersmith considers the stylistic and thematic</source:markdown>
+      <source:markdown>On day three of our What was Literary Twitter? bracket, some top seeds remain in the game, but the upsets haven’t stopped. Vote here to help your favorite literary internet moments keep climbing! \| Lit Hub How do we know aliens</source:markdown>
       <guid>cid://https://lithub.com/?p=263042</guid>
     </item>    <item>
       <title>CPython may go Rusty, but older platforms risk getting iced out</title>
@@ -221,9 +515,9 @@ The Python community is chewing over a new idea: allowing the C-based reference 
       <title>Build to Last</title>
       <link>https://www.oreilly.com/radar/build-to-last/</link>
       <description>
-        <![CDATA[The following originally appears on fast.ai and is reposted here with the author’s permission. I’ve spent decades teaching people to code, building tools that help developers work more effectively, and championing the idea that programming should be accessible to everyone. Through fast.ai, I’ve helped millions learn not just to use AI, but to understand it [&#8230;]]]>
+        <![CDATA[The following originally appears on fast.ai and is reposted here with the author’s permission. I’ve spent decades teaching people to code, building tools that help developers work more effectively, and championing the idea that programming should be accessible to everyone. Through fast.ai, I’ve helped millions learn not just to use AI but to understand it [&#8230;]]]>
       </description>
-      <source:markdown>The following originally appears on fast.ai and is reposted here with the author’s permission. I’ve spent decades teaching people to code, building tools that help developers work more effectively, and championing the idea that programming should be accessible to everyone. Through fast.ai, I’ve helped millions learn not just to use AI, but to understand it \[…\]</source:markdown>
+      <source:markdown>The following originally appears on fast.ai and is reposted here with the author’s permission. I’ve spent decades teaching people to code, building tools that help developers work more effectively, and championing the idea that programming should be accessible to everyone. Through fast.ai, I’ve helped millions learn not just to use AI but to understand it \[…\]</source:markdown>
       <guid>cid://https://www.oreilly.com/radar/?p=17722</guid>
     </item>    <item>
       <title>2025-11-19 uBlock Origin</title>
@@ -439,6 +733,98 @@ Tags: [scaling](https://simonwillison.net/tags/scaling), [postmortem](https://si
 \[contains quote post or other embedded content\]</source:markdown>
       <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m5xihwtbrk2m</guid>
     </item>    <item>
+      <title>LOUD BIBFRAME?</title>
+      <link>https://inkdroid.org/2025/11/19/loud-bibframe/</link>
+      <description>
+        <![CDATA[<p>
+        I gave a lightning talk at <a
+        href="https://forum.swib.org/t/swib25-lightning-talks/937">SWIB</a> this
+        year about <a href="https://www.loc.gov/bibframe/">BIBFRAME</a> and the
+        idea of <a href="https://linked.art/loud/">Linked Open Usable Data</a>
+        (LOUD). Basically it rehashes ideas I already shared in <a
+        href="https://inkdroid.org/2024/02/14/publishing-jsonld/">this post</a>,
+        but in the context of recent work in the <a
+        href="https://bluecore.info/">Blue Core</a> project, as well as Rob
+        Sanderson’s articulation of <a href="https://linked.art/loud/">LOUD</a>.
+        I completely agree that <a href="https://iiif.io">IIIF</a>, and also the
+        <a href="https://jointhefediverse.net/learn/">Fediverse</a>, offer
+        examples of how Linked Data projects can achieve wide decentralized
+        deployments, with a wide variety of interoperable tools. Having a shared
+        context and consistent JSON-LD framing are an essential part of that.
+        </p>
+        <p>
+        Here’s the video of me practicing to stay within the allotted four
+        minutes :)
+        </p>
+        <figure>
+        <video controls width="100%" src="/videos/loud-bibframe.mp4">
+        <figcaption>
+        SWIB Lightning Talk: LOUD BIBFRAME?
+        </figcaption>
+        </figure>
+        <p>
+        After the presentation in the chat I learned from Niklas Lindstrom that
+        the National Library of Sweden make framed BIBFRAME JSON-LD with a
+        context available from <a
+        href="https://libris.kb.se/api/docs/en/reference/crud_get/">LIBRIS</a>.
+        I think this highlights how to do this well.
+        </p>
+        <p>
+        The example from LIBRIS also illustrates how there are pressures for
+        creating a local JSON-LD Context, because you can add other
+        vocabularies, or even add your own local vocabularies to it. Perhaps one
+        way forward here would be to agree on a shared BIBFRAME context for
+        interoperability, and then add other contexts as needed using JSON-LD’s
+        <a
+        href="https://www.w3.org/TR/2014/REC-json-ld-20140116/#advanced-context-usage">support
+        for multiple contexts</a>?
+        </p>
+        <p>
+        I also learned from Adrian Pohl that there was a <a
+        href="https://blog.lobid.org/2019/01/31/bibframe-dataset.html">SWIB18
+        Workshop</a> focused on creating a JSON-LD Context for BIBFRAME data. So
+        this is not a new idea. But perhaps it is an idea whose time has come
+        since the inability to reliably work with BIBFRAME as JSON is a
+        significant barrier to BIBFRAME becoming a viable replacement for MARC.
+        </p>]]>
+      </description>
+      <source:markdown>I gave a lightning talk at [SWIB](https://forum.swib.org/t/swib25-lightning-talks/937) this
+year about [BIBFRAME](https://www.loc.gov/bibframe/) and the
+idea of [Linked Open Usable Data](https://linked.art/loud/)
+(LOUD). Basically it rehashes ideas I already shared in [this post](https://inkdroid.org/2024/02/14/publishing-jsonld/),
+but in the context of recent work in the [Blue Core](https://bluecore.info/) project, as well as Rob
+Sanderson’s articulation of [LOUD](https://linked.art/loud/).
+I completely agree that [IIIF](https://iiif.io), and also the
+[Fediverse](https://jointhefediverse.net/learn/), offer
+examples of how Linked Data projects can achieve wide decentralized
+deployments, with a wide variety of interoperable tools. Having a shared
+context and consistent JSON-LD framing are an essential part of that.
+
+Here’s the video of me practicing to stay within the allotted four
+minutes :)
+
+SWIB Lightning Talk: LOUD BIBFRAME?
+
+After the presentation in the chat I learned from Niklas Lindstrom that
+the National Library of Sweden make framed BIBFRAME JSON-LD with a
+context available from [LIBRIS](https://libris.kb.se/api/docs/en/reference/crud_get/).
+I think this highlights how to do this well.
+
+The example from LIBRIS also illustrates how there are pressures for
+creating a local JSON-LD Context, because you can add other
+vocabularies, or even add your own local vocabularies to it. Perhaps one
+way forward here would be to agree on a shared BIBFRAME context for
+interoperability, and then add other contexts as needed using JSON-LD’s
+[support\
+for multiple contexts](https://www.w3.org/TR/2014/REC-json-ld-20140116/#advanced-context-usage)?
+
+I also learned from Adrian Pohl that there was a [SWIB18\
+Workshop](https://blog.lobid.org/2019/01/31/bibframe-dataset.html) focused on creating a JSON-LD Context for BIBFRAME data. So
+this is not a new idea. But perhaps it is an idea whose time has come
+since the inability to reliably work with BIBFRAME as JSON is a
+significant barrier to BIBFRAME becoming a viable replacement for MARC.</source:markdown>
+      <guid>cid://https://inkdroid.org/2025/11/19/loud-bibframe/</guid>
+    </item>    <item>
       <title>Needy Software</title>
       <link>https://mjtsai.com/blog/2025/11/18/needy-software/</link>
       <description>
@@ -492,6 +878,29 @@ Tags: [scaling](https://simonwillison.net/tags/scaling), [postmortem](https://si
       <title>FOSDEM CfP: Submit Talks for the Funding FOSS Devroom</title>
       <link>https://nlnet.nl/news/2025/20251119-fosdem-funding-foss.html</link>
       <guid>cid://https://nlnet.nl/news/2025/20251119-fosdem-funding-foss.html</guid>
+    </item>    <item>
+      <title>A Function Inliner for Wasmtime and Cranelift</title>
+      <link>https://bytecodealliance.org/articles/inliner</link>
+      <description>
+        <![CDATA[Function inlining is one of the most important compiler optimizations, not because of its direct effects, but because of the follow-up optimizations it unlocks. It may reveal, for example, that an otherwise-unknown function parameter value is bound to a constant argument, which makes a conditional branch unconditional, which in turn exposes that the function will always return the same value. Inlining is the catalyst of modern compiler optimization.]]>
+      </description>
+      <source:markdown>Function inlining is one of the most important compiler optimizations, not because of its direct effects, but because of the follow-up optimizations it unlocks. It may reveal, for example, that an otherwise-unknown function parameter value is bound to a constant argument, which makes a conditional branch unconditional, which in turn exposes that the function will always return the same value. Inlining is the catalyst of modern compiler optimization.</source:markdown>
+      <guid>cid://https://bytecodealliance.org/articles/inliner</guid>
+    </item>    <item>
+      <title>Project goals update — October 2025</title>
+      <link>https://blog.rust-lang.org/2025/11/19/project-goals-update-october-2025/</link>
+      <guid>cid://https://blog.rust-lang.org/2025/11/19/project-goals-update-october-2025/</guid>
+    </item>    <item>
+      <title>Project goals update — September 2025</title>
+      <link>https://blog.rust-lang.org/2025/11/19/Project-Goals-2025-September-Update/</link>
+      <guid>cid://https://blog.rust-lang.org/2025/11/19/Project-Goals-2025-September-Update/</guid>
+    </item>    <item>
+      <title>Gift subscriptions directly from your subscribe page</title>
+      <link>https://buttondown.com/blog/2025-11-19</link>
+      <description>
+        <![CDATA[Gift subscriptions directly from your subscribe page]]>
+      </description>
+      <source:markdown>Gift subscriptions directly from your subscribe page</source:markdown>
     </item>    <item>
       <title>Sir, This Is a McDonald’s</title>
       <link>https://www.thebulwark.com/p/trump-is-not-have-all-the-mentals-cognitive-functioning?r=9x4vy</link>

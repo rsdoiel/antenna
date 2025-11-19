@@ -31,6 +31,7 @@ title: Library and Archives organizations
 - [Open Citation blog at Hypotheses.org](https://opencitations.hypotheses.org/feed)
 - [ROR Research ID Blog](https://ror.org/feed.xml)
 
-# Librarian Blogs
+# Librarian Blogs, Newsletters and Journals
 
 - [The Distant Librarian}(https://distlib.pival.me/feed/)
+- [Library Jounral](https://www.infodocket.com/feed/)

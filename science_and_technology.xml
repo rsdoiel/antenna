@@ -4,14 +4,269 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>19 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>19 Nov 25 12:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Why Rushing AI Adoption Leads to Low-Quality ‘Workslop’</title>
+      <link>https://thenewstack.io/why-rushing-ai-adoption-leads-to-low-quality-workslop/</link>
+      <description>
+        <![CDATA[<img width="1024" height="681" src="https://cdn.thenewstack.io/media/2025/11/04aa5a63-pigs-1024x681.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Pigs in mud" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/04aa5a63-pigs.jpeg" /><p>New AI solutions continue to emerge, and models are steadily improving. Yet, despite the rapid pace of AI innovation, the</p>
+        <p>The post <a href="https://thenewstack.io/why-rushing-ai-adoption-leads-to-low-quality-workslop/">Why Rushing AI Adoption Leads to Low-Quality &#8216;Workslop&#8217;</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Pigs in mud](https://cdn.thenewstack.io/media/2025/11/04aa5a63-pigs-1024x681.jpeg)
+
+New AI solutions continue to emerge, and models are steadily improving. Yet, despite the rapid pace of AI innovation, the
+
+The post [Why Rushing AI Adoption Leads to Low-Quality ‘Workslop’](https://thenewstack.io/why-rushing-ai-adoption-leads-to-low-quality-workslop/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806730</guid>
+    </item>    <item>
+      <title>It’s Time To Kill Staging: The Case for Testing in Production</title>
+      <link>https://thenewstack.io/its-time-to-kill-staging-the-case-for-testing-in-production/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/d46d97aa-lines-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="People standing in line, representing the bottleneck that staging becomes." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/d46d97aa-lines.jpg" /><p>Staging has always been a necessary evil. New approaches to isolation and on-demand sandboxes have finally made it just plain</p>
+        <p>The post <a href="https://thenewstack.io/its-time-to-kill-staging-the-case-for-testing-in-production/">It&#8217;s Time To Kill Staging: The Case for Testing in Production</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![People standing in line, representing the bottleneck that staging becomes.](https://cdn.thenewstack.io/media/2025/11/d46d97aa-lines-1024x576.jpg)
+
+Staging has always been a necessary evil. New approaches to isolation and on-demand sandboxes have finally made it just plain
+
+The post [It’s Time To Kill Staging: The Case for Testing in Production](https://thenewstack.io/its-time-to-kill-staging-the-case-for-testing-in-production/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22807083</guid>
+    </item>    <item>
+      <title>Pegasus XL rocket dusted off to rescue NASA’s Swift observatory from fiery demise</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/19/pegasus_fly_again_rescue_swift/</link>
+      <description>
+        <![CDATA[<h4>Air-launched antique picked for tricky low-inclination orbit job</h4> <p>NASA&#39;s Neil Gehrels Swift Observatory, facing the risk of an uncontrolled dive back to Earth, is set for a rescue ride on a Pegasus XL, the air-dropped rocket that hasn&#39;t flown since 2021.…</p>]]>
+      </description>
+      <source:markdown>#### Air-launched antique picked for tricky low-inclination orbit job
+
+NASA&#39;s Neil Gehrels Swift Observatory, facing the risk of an uncontrolled dive back to Earth, is set for a rescue ride on a Pegasus XL, the air-dropped rocket that hasn&#39;t flown since 2021.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243128</guid>
+    </item>    <item>
+      <title>Forensic Analysis Identifies Skeleton as a Medieval Hungarian Duke Who Was Brutally Murdered 750 Years Ago</title>
+      <link>https://www.smithsonianmag.com/smart-news/forensic-analysis-identifies-skeleton-as-a-medieval-hungarian-duke-who-was-brutally-murdered-750-years-ago-180987700/</link>
+      <description>
+        <![CDATA[Based on DNA evidence and numerous cut marks on the bones, scientists think that multiple assailants attacked Béla, Duke of Macsó, in 1272. The victim was likely unarmed and unprotected by armor]]>
+      </description>
+      <source:markdown>Based on DNA evidence and numerous cut marks on the bones, scientists think that multiple assailants attacked Béla, Duke of Macsó, in 1272. The victim was likely unarmed and unprotected by armor</source:markdown>
+      <enclosure url="https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8e/e5/8ee540ca-7c0d-4b2a-81b1-8f1def834fd1/skull.gif" length="" type="" />
+    </item>    <item>
+      <title>A 3-Question Framework for Making Ethical Tech Decisions</title>
+      <link>https://thenewstack.io/a-3-question-framework-for-making-ethical-tech-decisions/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/45d5fa6d-thumbnail-24-1024x576.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="In this episode of The New Stack Makers, software designer and bioethics fellow Meag Doherty reflects on the ethical tensions that surfaced while launching the NIH All of Us Researcher Workbench." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/45d5fa6d-thumbnail-24.png" /><p>What happens when 15,000 researchers using Jupyter Notebooks for genomic research hit a wall between open science principles and federal</p>
+        <p>The post <a href="https://thenewstack.io/a-3-question-framework-for-making-ethical-tech-decisions/">A 3-Question Framework for Making Ethical Tech Decisions</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![In this episode of The New Stack Makers, software designer and bioethics fellow Meag Doherty reflects on the ethical tensions that surfaced while launching the NIH All of Us Researcher Workbench.](https://cdn.thenewstack.io/media/2025/11/45d5fa6d-thumbnail-24-1024x576.png)
+
+What happens when 15,000 researchers using Jupyter Notebooks for genomic research hit a wall between open science principles and federal
+
+The post [A 3-Question Framework for Making Ethical Tech Decisions](https://thenewstack.io/a-3-question-framework-for-making-ethical-tech-decisions/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22807084</guid>
+    </item>    <item>
+      <title>Amazon security boss: Hostile countries use cyber targeting for physical military strikes</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/19/amazon_cso_warfare_cyber_kinetic/</link>
+      <description>
+        <![CDATA[<h4>And companies are getting caught in the crossfire</h4> <p><strong>interview</strong>  Warfare has become a joint cyber-kinetic endeavor, with nations using cyber operations to scope out targets before launching missiles. And private companies, including shipping, transportation, and electronics manufacturers, are getting caught in the crossfire, according to Amazon.…</p>]]>
+      </description>
+      <source:markdown>#### And companies are getting caught in the crossfire
+
+**interview**  Warfare has become a joint cyber-kinetic endeavor, with nations using cyber operations to scope out targets before launching missiles. And private companies, including shipping, transportation, and electronics manufacturers, are getting caught in the crossfire, according to Amazon.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243130</guid>
+    </item>    <item>
+      <title>DARPA making low-hanging satellites that use air to move</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/19/darpas_vleo_satellite_program_advances/</link>
+      <description>
+        <![CDATA[<h4>Skim the atmosphere and air-breathing VLEO sats can theoretically maintain orbit</h4> <p>DARPA is on the verge of reaching a new low - an orbital one - as the Defense Department&#39;s research arm moves its Very Low Earth Orbit (VLEO) Otter satellite program into the production phase. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Skim the atmosphere and air-breathing VLEO sats can theoretically maintain orbit
+
+DARPA is on the verge of reaching a new low - an orbital one - as the Defense Department&#39;s research arm moves its Very Low Earth Orbit (VLEO) Otter satellite program into the production phase. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243127</guid>
+    </item>    <item>
+      <title>OpenAI Says Its New Codex-Max Model Is Better, Faster and Cheaper</title>
+      <link>https://thenewstack.io/openai-says-its-new-codex-max-model-is-better-faster-and-cheaper/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/8ed87b67-sam-altman-openai-devday-2-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Audience watches OpenAI CEO Sam Altman speak at his company&#039;s DevDay in 2025. (Credit: The New Stack)." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/8ed87b67-sam-altman-openai-devday-2.jpg" /><p>OpenAI today launched GPT-5.1-Codex-Max, a new variant of its GPT-5.1-Codex foundation model that was specifically trained to excel at coding</p>
+        <p>The post <a href="https://thenewstack.io/openai-says-its-new-codex-max-model-is-better-faster-and-cheaper/">OpenAI Says Its New Codex-Max Model Is Better, Faster and Cheaper</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Audience watches OpenAI CEO Sam Altman speak at his company&#39;s DevDay in 2025. (Credit: The New Stack).](https://cdn.thenewstack.io/media/2025/11/8ed87b67-sam-altman-openai-devday-2-1024x576.jpg)
+
+OpenAI today launched GPT-5.1-Codex-Max, a new variant of its GPT-5.1-Codex foundation model that was specifically trained to excel at coding
+
+The post [OpenAI Says Its New Codex-Max Model Is Better, Faster and Cheaper](https://thenewstack.io/openai-says-its-new-codex-max-model-is-better-faster-and-cheaper/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22807184</guid>
+    </item>    <item>
+      <title>TESTING – DUMMY DOC</title>
+      <link>https://science.nasa.gov/uncategorized/testing-dummy-doc/</link>
+      <description>
+        <![CDATA[BLAH BLAH BLAH]]>
+      </description>
+      <source:markdown>BLAH BLAH BLAH</source:markdown>
+      <guid>cid://https://science.nasa.gov/uncategorized/testing-dummy-doc/</guid>
+    </item>    <item>
+      <title>Canada ups its European Space Agency bet 10x with $376M</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/19/canada_european_space_agency/</link>
+      <description>
+        <![CDATA[<h4>Massive jump in spending shows the Great White North isn’t betting everything on NASA</h4> <p>Canada will boost its investment in European Space Agency (ESA) programs by CA$528.5 million ($376 million USD), a tenfold increase, according to the Canadian Space Agency.…</p>]]>
+      </description>
+      <source:markdown>#### Massive jump in spending shows the Great White North isn’t betting everything on NASA
+
+Canada will boost its investment in European Space Agency (ESA) programs by CA$528.5 million ($376 million USD), a tenfold increase, according to the Canadian Space Agency.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243125</guid>
+    </item>    <item>
+      <title>Ford rolls into the Xen Project as hypervisor gears up for autos</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/19/xen_4_21/</link>
+      <description>
+        <![CDATA[<h4>Version 4.21 also brings advances in the datacenter, on ARM, and RISC-V</h4> <p>The Xen Project today delivered a major release of its hypervisor and associated tools, including contributions from automaker Ford, which quietly joined the project in June.…</p>]]>
+      </description>
+      <source:markdown>#### Version 4.21 also brings advances in the datacenter, on ARM, and RISC-V
+
+The Xen Project today delivered a major release of its hypervisor and associated tools, including contributions from automaker Ford, which quietly joined the project in June.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243113</guid>
+    </item>    <item>
+      <title>How Amazon Prepares for Black Friday</title>
+      <link>https://thenewstack.io/how-amazon-prepares-for-black-friday/</link>
+      <description>
+        <![CDATA[<img width="1024" height="678" src="https://cdn.thenewstack.io/media/2025/11/8b294ee9-puzzle-creative-v4ncwsb6a_u-unsplash-1024x678.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/8b294ee9-puzzle-creative-v4ncwsb6a_u-unsplash.jpg" /><p>ATLANTA &#8212; When running a web-scale operation, reacting to increased demand means you are already behind the curve, advised a</p>
+        <p>The post <a href="https://thenewstack.io/how-amazon-prepares-for-black-friday/">How Amazon Prepares for Black Friday</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/8b294ee9-puzzle-creative-v4ncwsb6a_u-unsplash-1024x678.jpg)
+
+ATLANTA — When running a web-scale operation, reacting to increased demand means you are already behind the curve, advised a
+
+The post [How Amazon Prepares for Black Friday](https://thenewstack.io/how-amazon-prepares-for-black-friday/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806616</guid>
+    </item>    <item>
+      <title>The Paintings of Camille Pissarro, the &#39;First Impressionist,&#39; Are Finally Getting the Attention They Deserve</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-paintings-of-camille-pissarro-the-first-impressionist-are-finally-getting-the-attention-they-deserve-180987697/</link>
+      <description>
+        <![CDATA["The Honest Eye: Camille Pissarro's Impressionism," the first major U.S. exhibition of the artist in 40 years, is now open at the Denver Art Museum]]>
+      </description>
+      <source:markdown>&#34;The Honest Eye: Camille Pissarro&#39;s Impressionism,&#34; the first major U.S. exhibition of the artist in 40 years, is now open at the Denver Art Museum</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/4qI5NceUuqwLe9BlEOciSECIGAI=/420x240/filters:focal(700x480:701x481)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b5/15/b515ae01-0efe-4c11-bdae-42a6d41f3d6f/the-garden-of-les-mathurins.jpg" length="" type="" />
+    </item>    <item>
+      <title>Watch a Wolf Cleverly Raid a Crab Trap for a Snack. It Might Be the First Evidence of a Wild Canid Using a Tool</title>
+      <link>https://www.smithsonianmag.com/smart-news/watch-a-wolf-cleverly-raid-a-crab-trap-for-a-snack-it-might-be-the-first-evidence-of-a-wild-canid-using-a-tool-180987709/</link>
+      <description>
+        <![CDATA[Footage from British Columbia shows just how intelligent wild wolves can be, but scientists are divided as to whether the behavior constitutes tool use]]>
+      </description>
+      <source:markdown>Footage from British Columbia shows just how intelligent wild wolves can be, but scientists are divided as to whether the behavior constitutes tool use</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/TPSL1AQ8qAeecTL0rf4Vn3iOtpA=/420x240/filters:focal(1064x730:1065x731)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d6/46/d646ac45-ce0c-437e-8829-5e0ab86f30c3/ece372348-fig-0001-m.jpg" length="" type="" />
+    </item>    <item>
+      <title>US pumps $1B into Three Mile Island nuclear plant reboot to keep AI datacenters fed</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/19/us_three_mile_island_loan/</link>
+      <description>
+        <![CDATA[<h4>A reactor at the site suffered a partial meltdown in 1979</h4> <p>The Trump administration is so eager to get extra power into the grid that it is offering a $1 billion loan to Constellation Energy to help it restart the infamous Three Mile Island nuclear facility.…</p>]]>
+      </description>
+      <source:markdown>#### A reactor at the site suffered a partial meltdown in 1979
+
+The Trump administration is so eager to get extra power into the grid that it is offering a $1 billion loan to Constellation Energy to help it restart the infamous Three Mile Island nuclear facility.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243123</guid>
+    </item>    <item>
+      <title>San Jose&#39;s &#39;warrantless&#39; license plate queries land cops in court</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/19/san_jose_alpr_suit/</link>
+      <description>
+        <![CDATA[<h4>Digital rights groups argue cameras used to unconstitutionally surveil locals</h4> <p>The Electronic Frontier Foundation (EFF) and American Civil Liberties Union of Northern California (ACLU-NC) are suing the City of San Jose and its police department over alleged abuses of automatic license plate recognition (ALPR) technology.…</p>]]>
+      </description>
+      <source:markdown>#### Digital rights groups argue cameras used to unconstitutionally surveil locals
+
+The Electronic Frontier Foundation (EFF) and American Civil Liberties Union of Northern California (ACLU-NC) are suing the City of San Jose and its police department over alleged abuses of automatic license plate recognition (ALPR) technology.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243124</guid>
+    </item>    <item>
+      <title>NASA Cassini Study Finds Organics ‘Fresh’ From Ocean of Enceladus</title>
+      <link>https://www.nasa.gov/missions/cassini/nasa-cassini-study-finds-organics-fresh-from-ocean-of-enceladus/</link>
+      <description>
+        <![CDATA[Researchers dove deep into information gathered from the ice grains that were collected during a close and super-fast flyby through a plume of Saturn’s icy moon. A new analysis of data from NASA’s Cassini mission found evidence of previously undetected organic compounds in a plume of ice particles ejected from the ocean that lies under [&#8230;]]]>
+      </description>
+      <source:markdown>Researchers dove deep into information gathered from the ice grains that were collected during a close and super-fast flyby through a plume of Saturn’s icy moon. A new analysis of data from NASA’s Cassini mission found evidence of previously undetected organic compounds in a plume of ice particles ejected from the ocean that lies under \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=921355</guid>
+    </item>    <item>
+      <title>Webb First to Show 4 Dust Shells ‘Spiraling’ Apep, Limits Long Orbit</title>
+      <link>https://science.nasa.gov/missions/webb/webb-first-to-show-4-dust-shells-spiraling-apep-limits-long-orbit/</link>
+      <description>
+        <![CDATA[NASA’s James Webb Space Telescope has delivered a first of its kind: a crisp mid-infrared image of a system of four serpentine spirals of dust, one expanding beyond the next in precisely the same pattern. (The fourth is almost transparent, at the edges of Webb’s image.) Observations taken prior to Webb only detected one shell, […]]]>
+      </description>
+      <source:markdown>NASA’s James Webb Space Telescope has delivered a first of its kind: a crisp mid-infrared image of a system of four serpentine spirals of dust, one expanding beyond the next in precisely the same pattern. (The fourth is almost transparent, at the edges of Webb’s image.) Observations taken prior to Webb only detected one shell, \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/webb/webb-first-to-show-4-dust-shells-spiraling-apep-limits-long-orbit/</guid>
+    </item>    <item>
+      <title>There’s No SKU for AI: A 3-Box Framework to Avoid AI Failures</title>
+      <link>https://thenewstack.io/theres-no-sku-for-ai-a-3-box-framework-to-avoid-ai-failures/</link>
+      <description>
+        <![CDATA[<img width="1024" height="632" src="https://cdn.thenewstack.io/media/2025/11/52557766-buying-1024x632.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Man checking the label on a product in a store." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/52557766-buying.jpg" /><p>The numbers are sobering. A highly publicized report from MIT shows that 95% of generative AI pilots at companies are</p>
+        <p>The post <a href="https://thenewstack.io/theres-no-sku-for-ai-a-3-box-framework-to-avoid-ai-failures/">There’s No SKU for AI: A 3-Box Framework to Avoid AI Failures</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Man checking the label on a product in a store.](https://cdn.thenewstack.io/media/2025/11/52557766-buying-1024x632.jpg)
+
+The numbers are sobering. A highly publicized report from MIT shows that 95% of generative AI pilots at companies are
+
+The post [There’s No SKU for AI: A 3-Box Framework to Avoid AI Failures](https://thenewstack.io/theres-no-sku-for-ai-a-3-box-framework-to-avoid-ai-failures/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22807060</guid>
+    </item>    <item>
+      <title>Cosmic Paradox Reveals the Awful Consequence of an Observer-Free Universe</title>
+      <link>https://www.quantamagazine.org/cosmic-paradox-reveals-the-awful-consequence-of-an-observer-free-universe-20251119/</link>
+      <description>
+        <![CDATA[Encouraged by successes in understanding black holes, theoretical physicists are applying what they’ve learned to whole universes. What they’re finding has them questioning fundamental assumptions about how physics ought to be done.            <p>The post <a href="https://www.quantamagazine.org/cosmic-paradox-reveals-the-awful-consequence-of-an-observer-free-universe-20251119/" target="_blank">Cosmic Paradox Reveals the Awful Consequence of an Observer-Free Universe</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Encouraged by successes in understanding black holes, theoretical physicists are applying what they’ve learned to whole universes. What they’re finding has them questioning fundamental assumptions about how physics ought to be done.
+
+The post [Cosmic Paradox Reveals the Awful Consequence of an Observer-Free Universe](https://www.quantamagazine.org/cosmic-paradox-reveals-the-awful-consequence-of-an-observer-free-universe-20251119/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=156694</guid>
+    </item>    <item>
+      <title>Why Launch-Time Reliability Is Especially Critical</title>
+      <link>https://thenewstack.io/why-launch-time-reliability-is-especially-critical/</link>
+      <description>
+        <![CDATA[<img width="1024" height="682" src="https://cdn.thenewstack.io/media/2025/11/3eaa2c74-balloon-1024x682.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="People launching a hot air balloon." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/3eaa2c74-balloon.jpeg" /><p>Ensuring the reliability of a new product or feature at launch is crucial. Wherever it sits in an organization&#8217;s offering,</p>
+        <p>The post <a href="https://thenewstack.io/why-launch-time-reliability-is-especially-critical/">Why Launch-Time Reliability Is Especially Critical </a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![People launching a hot air balloon.](https://cdn.thenewstack.io/media/2025/11/3eaa2c74-balloon-1024x682.jpeg)
+
+Ensuring the reliability of a new product or feature at launch is crucial. Wherever it sits in an organization’s offering,
+
+The post [Why Launch-Time Reliability Is Especially Critical](https://thenewstack.io/why-launch-time-reliability-is-especially-critical/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22807050</guid>
+    </item>    <item>
+      <title>Presencia el lanzamiento de Artemis II</title>
+      <link>https://www.nasa.gov/general/presencia-el-lanzamiento-de-artemis-ii/</link>
+      <description>
+        <![CDATA[Los creadores digitales y usuarios de redes sociales están invitados a inscribirse para asistir al lanzamiento de la misión Artemis&#160;II de la NASA. El cohete Sistema de Lanzamiento Espacial (SLS, por sus siglas en inglés) de la agencia lanzará al espacio la nave espacial Orion desde el complejo de lanzamientos&#160;39B en el Centro Espacial Kennedy [&#8230;]]]>
+      </description>
+      <source:markdown>Los creadores digitales y usuarios de redes sociales están invitados a inscribirse para asistir al lanzamiento de la misión Artemis II de la NASA. El cohete Sistema de Lanzamiento Espacial (SLS, por sus siglas en inglés) de la agencia lanzará al espacio la nave espacial Orion desde el complejo de lanzamientos 39B en el Centro Espacial Kennedy \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=928216</guid>
+    </item>    <item>
+      <title>Experience the Launch of Artemis II</title>
+      <link>https://www.nasa.gov/general/experience-the-launch-of-artemis-ii/</link>
+      <description>
+        <![CDATA[Lee esta nota en español aquí Digital creators and social media users are invited to register to attend the launch of the NASA’s Artemis II mission. The agency’s SLS (Space Launch System) rocket will launch the Orion spacecraft from Launch Complex 39B at NASA’s Kennedy Space Center in Florida. Four astronauts aboard will fly around [&#8230;]]]>
+      </description>
+      <source:markdown>Lee esta nota en español aquí Digital creators and social media users are invited to register to attend the launch of the NASA’s Artemis II mission. The agency’s SLS (Space Launch System) rocket will launch the Orion spacecraft from Launch Complex 39B at NASA’s Kennedy Space Center in Florida. Four astronauts aboard will fly around \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=927947</guid>
+    </item>    <item>
+      <title>Mastodon CEO steps down with €1M payout and a deep sigh</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/19/mastodon_ceo_steps_down/</link>
+      <description>
+        <![CDATA[<h4>Burnout and slowing growth push Eugen Rochko into an advisory role after nearly a decade in charge</h4> <p>Eugen Rochko, CEO and founder of decentralized social network Mastodon, is stepping down after nearly a decade at the helm and walking away with a sizable exit payment.…</p>]]>
+      </description>
+      <source:markdown>#### Burnout and slowing growth push Eugen Rochko into an advisory role after nearly a decade in charge
+
+Eugen Rochko, CEO and founder of decentralized social network Mastodon, is stepping down after nearly a decade at the helm and walking away with a sizable exit payment.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243122</guid>
+    </item>    <item>
+      <title>Commodity memory prices set to double as fabs pivot to AI market</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/19/commodity_memory_price_rise/</link>
+      <description>
+        <![CDATA[<h4>Analysts warn LPDDR4 supply is tightening fast with shift to higher-end components</h4> <p>Memory prices could soon be double what they were earlier this year as chipmakers switch to advanced products to target the AI market, leaving a shortfall of more mature chips such as those meeting the LPDDR4 standard.…</p>]]>
+      </description>
+      <source:markdown>#### Analysts warn LPDDR4 supply is tightening fast with shift to higher-end components
+
+Memory prices could soon be double what they were earlier this year as chipmakers switch to advanced products to target the AI market, leaving a shortfall of more mature chips such as those meeting the LPDDR4 standard.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243120</guid>
+    </item>    <item>
       <title>6 Pillars for a Best in Class API Strategy</title>
       <link>https://thenewstack.io/6-pillars-for-a-best-in-class-api-strategy/</link>
       <description>
-        <![CDATA[<img width="1024" height="577" src="https://cdn.thenewstack.io/media/2025/11/41637c77-pillarsofapis-1024x577.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Greek Pillars symbolizing the Pillars of an API platform" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/41637c77-pillarsofapis.jpg" /><p>An AI Gateway won&#8217;t solve all of a developer&#8217;s API problems, Jason Ehmke told audiences at the Kong API Summit</p>
+        <![CDATA[<img width="1024" height="577" src="https://cdn.thenewstack.io/media/2025/11/41637c77-pillarsofapis-1024x577.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Greek Pillars symbolizing the Pillars of an API platform" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/41637c77-pillarsofapis.jpg" /><p>An AI Gateway won&#8217;t solve all of a developer&#8217;s API problems, Jason Ehmke told audiences at the Kong API Summit</p>
         <p>The post <a href="https://thenewstack.io/6-pillars-for-a-best-in-class-api-strategy/">6 Pillars for a Best in Class API Strategy</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![Greek Pillars symbolizing the Pillars of an API platform](https://cdn.thenewstack.io/media/2025/11/41637c77-pillarsofapis-1024x577.jpg)
@@ -168,17 +423,17 @@ Cloudflare CEO Matthew Prince has admitted that the cause of its massive Tuesday
 &#34;We love moving packets,&#34; declared Anil Varanasi, CEO and co-founder of Meter, on a stage overlooking San Francisco Bay at the networking startup&#39;s annual networking event. He continued, &#34;This crowd probably knows this intimately, but everything in the world is packets. Regardless of what type of work you do, it is just packets all the way down.&#34;…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243108</guid>
     </item>    <item>
-      <title>AWS Kiro Brings Automated Reasoning to Agentic Development</title>
+      <title>AWS’ Kiro to Bring Automated Reasoning to Agentic Development</title>
       <link>https://thenewstack.io/aws-kiro-brings-automated-reasoning-to-agentic-development/</link>
       <description>
         <![CDATA[<img width="1024" height="640" src="https://cdn.thenewstack.io/media/2025/11/1ccc3b6b-volodymyr-hryshchenko-ini8gnms190-unsplash-1024x640.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/1ccc3b6b-volodymyr-hryshchenko-ini8gnms190-unsplash.jpg" /><p>Now generally available, Kiro is an agentic IDE that enables organizations to move beyond &#8220;vibe coding&#8221; to structured development that</p>
-        <p>The post <a href="https://thenewstack.io/aws-kiro-brings-automated-reasoning-to-agentic-development/">AWS Kiro Brings Automated Reasoning to Agentic Development</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+        <p>The post <a href="https://thenewstack.io/aws-kiro-brings-automated-reasoning-to-agentic-development/">AWS&#8217; Kiro to Bring Automated Reasoning to Agentic Development</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/1ccc3b6b-volodymyr-hryshchenko-ini8gnms190-unsplash-1024x640.jpg)
 
 Now generally available, Kiro is an agentic IDE that enables organizations to move beyond “vibe coding” to structured development that
 
-The post [AWS Kiro Brings Automated Reasoning to Agentic Development](https://thenewstack.io/aws-kiro-brings-automated-reasoning-to-agentic-development/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+The post [AWS’ Kiro to Bring Automated Reasoning to Agentic Development](https://thenewstack.io/aws-kiro-brings-automated-reasoning-to-agentic-development/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
       <guid>cid://https://thenewstack.io/?p=22807125</guid>
     </item>    <item>
       <title>Microsoft warns its new “AI” agents in Windows can install malware</title>
@@ -390,7 +645,7 @@ Google pushed an emergency patch on Monday for a high-severity Chrome bug that a
 Gartner warns that fossil fuel dominance in on-site power generation is not sustainable, given the rapid rise in datacenter energy consumption due to AI servers.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243099</guid>
     </item>    <item>
-      <title>Scientists Reverse Human Rejection of Pig Organ Transplant for First Time Ever</title>
+      <title>Scientists Reverse Human Rejection of Pig Organ Transplant for First Time</title>
       <link>https://www.smithsonianmag.com/smart-news/scientists-prevent-human-rejection-of-pig-organ-transplant-for-first-time-ever-180987693/</link>
       <description>
         <![CDATA[A new study reversed transplant rejection twice, uncovering the reasons for transplant rejection on a cellular level]]>
@@ -950,9 +1205,9 @@ Europol&#39;s Internet Referral Unit (EU IRU) says a November 13 operation acros
       <title>Old ‘Ghost’ Theory of Quantum Gravity Makes a Comeback</title>
       <link>https://www.quantamagazine.org/old-ghost-theory-of-quantum-gravity-makes-a-comeback-20251117/</link>
       <description>
-        <![CDATA[Has the secret to understanding gravity been hiding in plain sight for nearly 40 years?            <p>The post <a href="https://www.quantamagazine.org/old-ghost-theory-of-quantum-gravity-makes-a-comeback-20251117/" target="_blank">Old ‘Ghost’ Theory of Quantum Gravity Makes a Comeback</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+        <![CDATA[Has the secret to understanding gravity been hiding in plain sight for nearly 50 years?            <p>The post <a href="https://www.quantamagazine.org/old-ghost-theory-of-quantum-gravity-makes-a-comeback-20251117/" target="_blank">Old ‘Ghost’ Theory of Quantum Gravity Makes a Comeback</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
       </description>
-      <source:markdown>Has the secret to understanding gravity been hiding in plain sight for nearly 40 years?
+      <source:markdown>Has the secret to understanding gravity been hiding in plain sight for nearly 50 years?
 
 The post [Old ‘Ghost’ Theory of Quantum Gravity Makes a Comeback](https://www.quantamagazine.org/old-ghost-theory-of-quantum-gravity-makes-a-comeback-20251117/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
       <guid>cid://https://www.quantamagazine.org/?p=156647</guid>

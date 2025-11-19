@@ -4,7 +4,7 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>19 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>19 Nov 25 12:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -39,6 +39,15 @@ The post [Guest Post — Science as Story, Memory as Infrastructure: A Conversat
       <enclosure url="https://standardebooks.org/ebooks/stephen-vincent-benet/john-browns-body/downloads/stephen-vincent-benet_john-browns-body.epub?source=feed" length="732131" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/stephen-vincent-benet/john-browns-body</guid>
     </item>    <item>
+      <title>AI + Google Scholar: Say Hello to Google Scholar Labs</title>
+      <link>https://www.infodocket.com/2025/11/18/ai-google-scholar-say-hello-to-google-scholar-labs/</link>
+      <description>
+        <![CDATA[If you&#8217;ve been wondering if or when Google would begin offering AI technology with Google Scholar, so have we. As of this hour (1pm EST) you don&#8217;t have to wonder any longer. A new experimental feature (as of today available to a limited number of logged-in users, waitlist for others&#8230;including me), Google Scholar Labs, is [&#8230;]]]>
+      </description>
+      <source:markdown>If you’ve been wondering if or when Google would begin offering AI technology with Google Scholar, so have we. As of this hour (1pm EST) you don’t have to wonder any longer. A new experimental feature (as of today available to a limited number of logged-in users, waitlist for others…including me), Google Scholar Labs, is \[…\]</source:markdown>
+      <enclosure url="https://www.infodocket.com/wp-content/uploads/2025/11/Scholar-Labs-Demo-1.mp4" length="17038176" type="video/mp4" />
+      <guid>cid://https://www.infodocket.com/?p=167327</guid>
+    </item>    <item>
       <title>From CNN: Inside the old church where one trillion webpages are being saved</title>
       <link>https://blog.archive.org/2025/11/18/from-cnn-inside-the-old-church-where-one-trillion-webpages-are-being-saved/</link>
       <description>
@@ -46,6 +55,22 @@ The post [Guest Post — Science as Story, Memory as Infrastructure: A Conversat
       </description>
       <source:markdown>From CNN: The Internet Archive has been saving web history for nearly 30 years. CNN’s Hadas Gold goes inside its headquarters to see how the archive is innovating for the \[…\]</source:markdown>
       <guid>cid://https://blog.archive.org/?p=29634</guid>
+    </item>    <item>
+      <title>Allen Institute for Artificial Intelligence (Ai2) Releases DR-Tulu: “An Open, End-To-End Training Recipe For Long-Form Deep Research”</title>
+      <link>https://www.infodocket.com/2025/11/18/allen-institute-for-artificial-intelligence-releases-ai2-dr-tulu-an-open-end-to-end-training-recipe-for-long-form-deep-research/</link>
+      <description>
+        <![CDATA[From an Allen Institute for Artificial Intelligence (AI2) Announcement: Deep research is about building agentic systems that can plan, search, and synthesize information from diverse sources to produce in-depth, well-attributed answers to complex questions. Done well, these capabilities could accelerate scientific discovery and allow students and professionals to explore unfamiliar domains with expert-level rigor, backed [&#8230;]]]>
+      </description>
+      <source:markdown>From an Allen Institute for Artificial Intelligence (AI2) Announcement: Deep research is about building agentic systems that can plan, search, and synthesize information from diverse sources to produce in-depth, well-attributed answers to complex questions. Done well, these capabilities could accelerate scientific discovery and allow students and professionals to explore unfamiliar domains with expert-level rigor, backed \[…\]</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=167334</guid>
+    </item>    <item>
+      <title>Report From UK: “Libraries Coordinate on Book Disposal to Safeguard Rare Texts”</title>
+      <link>https://www.infodocket.com/2025/11/18/report-from-uk-libraries-coordinate-on-book-disposal-to-safeguard-rare-texts/</link>
+      <description>
+        <![CDATA[From Times Higher Education (THE): Plans to ensure that at least seven copies of every scholarly book are kept across UK libraries will help enrich research resources and safeguard rare texts rather than push institutions to downsize their collections, librarians have insisted. [Clip] To address these worries over space and the disposal of potentially valuable [&#8230;]]]>
+      </description>
+      <source:markdown>From Times Higher Education (THE): Plans to ensure that at least seven copies of every scholarly book are kept across UK libraries will help enrich research resources and safeguard rare texts rather than push institutions to downsize their collections, librarians have insisted. \[Clip\] To address these worries over space and the disposal of potentially valuable \[…\]</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=167328</guid>
     </item>    <item>
       <title>Meet Merrilee Proffitt, Director of Democracy’s Library US</title>
       <link>https://blog.archive.org/2025/11/18/meet-merrilee-proffitt-director-of-democracys-library-us/</link>
@@ -95,10 +120,10 @@ The post [In Defense of Pluralism and Diversity: A Modest Manifesto for the Futu
       <title>Day in Review (November 17–20)</title>
       <link>https://www.arl.org/day-in-review/day-in-review-november-17-20/</link>
       <description>
-        <![CDATA[<p>Last Updated on November 18, 2025, 3:25 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...</p>
+        <![CDATA[<p>Last Updated on November 19, 2025, 2:31 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...</p>
         <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-november-17-20/">Day in Review (November 17–20)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on November 18, 2025, 3:25 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...
+      <source:markdown>Last Updated on November 19, 2025, 2:31 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...
 
 The post [Day in Review (November 17–20)](https://www.arl.org/day-in-review/day-in-review-november-17-20/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=46673</guid>
@@ -111,6 +136,14 @@ The post [Day in Review (November 17–20)](https://www.arl.org/day-in-review/da
       <source:markdown>Internet Archive’s Community Webs program has received a grant from the Council on Library and Information Resources (CLIR) and their Digitizing Hidden Collections program to digitize and provide open access \[…\]</source:markdown>
       <guid>cid://https://blog.archive.org/?p=29462</guid>
     </item>    <item>
+      <title>EveryLibrary Institute Signs Declaration to Protect Academic Research from U.S. Government Censorship</title>
+      <link>https://www.infodocket.com/2025/11/17/everylibrary-institute-signs-declaration-to-protect-academic-research-from-u-s-government-censorship/</link>
+      <description>
+        <![CDATA[Here&#8217;s the Full Text of the EveryLibrary Institute Statement The EveryLibrary Institute, a national 501(c)(3) nonprofit dedicated to research, training, and programmatic support for libraries, has joined the #DefendResearch coalition in signing the Declaration to Defend Research Against U.S. Government Censorship, a shared call for institutions, publishers, and policymakers to protect academic freedom and resist [&#8230;]]]>
+      </description>
+      <source:markdown>Here’s the Full Text of the EveryLibrary Institute Statement The EveryLibrary Institute, a national 501(c)(3) nonprofit dedicated to research, training, and programmatic support for libraries, has joined the #DefendResearch coalition in signing the Declaration to Defend Research Against U.S. Government Censorship, a shared call for institutions, publishers, and policymakers to protect academic freedom and resist \[…\]</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=167310</guid>
+    </item>    <item>
       <title>The Global Transition Has Already Happened – It’s Just Not the One You Expected (Part 1 of 2)</title>
       <link>https://scholarlykitchen.sspnet.org/2025/11/17/the-global-transition-has-already-happened-its-just-not-the-one-you-expected-part-1-of-2/</link>
       <description>
@@ -121,6 +154,14 @@ The post [Day in Review (November 17–20)](https://www.arl.org/day-in-review/da
 
 The post [The Global Transition Has Already Happened – It’s Just Not the One You Expected (Part 1 of 2)](https://scholarlykitchen.sspnet.org/2025/11/17/the-global-transition-has-already-happened-its-just-not-the-one-you-expected-part-1-of-2/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=61238</guid>
+    </item>    <item>
+      <title>New Journal Article: “Archive Workers’ Information Needs and How Their Expert Knowledge Influences Information Searching and Collection Curation: An Interview Study”</title>
+      <link>https://www.infodocket.com/2025/11/15/new-journal-article-archive-workers-information-needs-and-how-their-expert-knowledge-influences-information-searching-and-collection-curation-an-interview-study/</link>
+      <description>
+        <![CDATA[The article (full text) linked below was recently published by Information Research. Title Archive Workers&#8217; Information Needs and How Their Expert Knowledge Influences Information Searching and Collection Curation: An Interview Study Authors Nils Pharo Oslo Metropolitan University Pia BorlundOslo Oslo Metropolitan University Ying-Hsang Liu Uppsala University, Sweden Source Information Research an International Electronic Journal 30(3), [&#8230;]]]>
+      </description>
+      <source:markdown>The article (full text) linked below was recently published by Information Research. Title Archive Workers’ Information Needs and How Their Expert Knowledge Influences Information Searching and Collection Curation: An Interview Study Authors Nils Pharo Oslo Metropolitan University Pia BorlundOslo Oslo Metropolitan University Ying-Hsang Liu Uppsala University, Sweden Source Information Research an International Electronic Journal 30(3), \[…\]</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=167308</guid>
     </item>    <item>
       <title>Manalive, by G. K. Chesterton</title>
       <link>https://standardebooks.org/ebooks/g-k-chesterton/manalive</link>
@@ -140,6 +181,22 @@ The post [The Global Transition Has Already Happened – It’s Just Not the One
       <enclosure url="https://standardebooks.org/ebooks/r-austin-freeman/the-red-thumbmark/downloads/r-austin-freeman_the-red-thumbmark.epub?source=feed" length="648858" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/r-austin-freeman/the-red-thumbmark</guid>
     </item>    <item>
+      <title>New Preprint: Rethinking Science in the Age of Artificial Intelligence</title>
+      <link>https://www.infodocket.com/2025/11/14/new-preprint-rethinking-science-in-the-age-of-artificial-intelligence/</link>
+      <description>
+        <![CDATA[The preprint linked below was recently posted on arXiv. Title Rethinking Science in the Age of Artificial Intelligence Authors Maksim E. Eren Los Alamos National Laboratory Dorianis M. Perez Los Alamos National Laboratory Source via ArXiv DOI: 10.48550/arXiv.2511.1052 Abstract Artificial intelligence (AI) is reshaping how research is conceived, conducted, and communicated across fields from chemistry [&#8230;]]]>
+      </description>
+      <source:markdown>The preprint linked below was recently posted on arXiv. Title Rethinking Science in the Age of Artificial Intelligence Authors Maksim E. Eren Los Alamos National Laboratory Dorianis M. Perez Los Alamos National Laboratory Source via ArXiv DOI: 10.48550/arXiv.2511.1052 Abstract Artificial intelligence (AI) is reshaping how research is conceived, conducted, and communicated across fields from chemistry \[…\]</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=167307</guid>
+    </item>    <item>
+      <title>Center for Research Libraries (CRL) Goes Live on TIND ILS for Print Archives Preservation Registry (PAPR)</title>
+      <link>https://www.infodocket.com/2025/11/14/center-for-research-libraries-crl-goes-live-on-tind-ils-for-print-archives-preservation-registry-papr/</link>
+      <description>
+        <![CDATA[From a TIND Release: The Center for Research Libraries (CRL) has launched its new Print Archives Preservation Registry (PAPR) on the TIND ILS platform, completing the second of three TIND systems now in production at CRL. The new PAPR serves as a modern, hosted data lake, replacing CRL’s locally built infrastructure with a scalable environment for [&#8230;]]]>
+      </description>
+      <source:markdown>From a TIND Release: The Center for Research Libraries (CRL) has launched its new Print Archives Preservation Registry (PAPR) on the TIND ILS platform, completing the second of three TIND systems now in production at CRL. The new PAPR serves as a modern, hosted data lake, replacing CRL’s locally built infrastructure with a scalable environment for \[…\]</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=167301</guid>
+    </item>    <item>
       <title>Voices Celebrating 1 Trillion Pages: Katherine Maher, President and CEO of NPR</title>
       <link>https://blog.archive.org/2025/11/14/voices-celebrating-1-trillion-pages-katherine-maher-president-and-ceo-of-npr/</link>
       <description>
@@ -158,6 +215,25 @@ The post [The Global Transition Has Already Happened – It’s Just Not the One
 
 The post [Preserving Human Ingenuity for a Future Planet Ruled By Octopuses](https://scholarlykitchen.sspnet.org/2025/11/14/teaching-an-octopus-to-play-the-piano/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=61235</guid>
+    </item>    <item>
+      <title>Honouring Indigenous Data Sovereignty in Ceremony and Practice: A Collaborative Pathway at the University of Alberta</title>
+      <link>https://www.arl.org/blog/honouring-indigenous-data-sovereignty-in-ceremony-and-practice-a-collaborative-pathway-at-the-university-of-alberta/</link>
+      <description>
+        <![CDATA[<p>Last Updated on November 19, 2025, 10:39 am ET Over the past few years, a number of Canadian postsecondary institutions have begun initiating Indigenous data sovereignty initiatives. However, very few...</p>
+        <p>The post <a href="https://www.arl.org/blog/honouring-indigenous-data-sovereignty-in-ceremony-and-practice-a-collaborative-pathway-at-the-university-of-alberta/">Honouring Indigenous Data Sovereignty in Ceremony and Practice: A Collaborative Pathway at the University of Alberta</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+      </description>
+      <source:markdown>Last Updated on November 19, 2025, 10:39 am ET Over the past few years, a number of Canadian postsecondary institutions have begun initiating Indigenous data sovereignty initiatives. However, very few...
+
+The post [Honouring Indigenous Data Sovereignty in Ceremony and Practice: A Collaborative Pathway at the University of Alberta](https://www.arl.org/blog/honouring-indigenous-data-sovereignty-in-ceremony-and-practice-a-collaborative-pathway-at-the-university-of-alberta/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
+      <guid>cid://https://www.arl.org/?p=46652</guid>
+    </item>    <item>
+      <title>Google’s NotebookLM Begins Rolling Out “Deep Research” Feature and Support For More File Formats Including Google Sheets and MS Word</title>
+      <link>https://www.infodocket.com/2025/11/13/googles-notebooklm-begins-rolling-out-of-deep-research-feature-and-support-for-more-file-formats-including-google-sheets-and-ms-word/</link>
+      <description>
+        <![CDATA[From a Google Blog Post: Here’s what makes NotebookLM&#8217;s Deep Research different: the report is just the beginning. You can add the report and its sources directly into your notebook. You can continue to add other sources while Deep Research runs in the background, helping you assemble a rich knowledge base on any topic without leaving [&#8230;]]]>
+      </description>
+      <source:markdown>From a Google Blog Post: Here’s what makes NotebookLM’s Deep Research different: the report is just the beginning. You can add the report and its sources directly into your notebook. You can continue to add other sources while Deep Research runs in the background, helping you assemble a rich knowledge base on any topic without leaving \[…\]</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=167297</guid>
     </item>    <item>
       <title>New Report Explores Online Enrollment Trends in the Era of State Authorization Reciprocity</title>
       <link>https://sr.ithaka.org/blog/new-report-explores-online-enrollment-trends-in-the-era-of-state-authorization-reciprocity/</link>
@@ -180,6 +256,14 @@ The post [New Report Explores Online Enrollment Trends in the Era of State Autho
 
 The post [Ask the Chefs: What’s Your Favorite AI Hack?](https://scholarlykitchen.sspnet.org/2025/11/13/ask-the-chefs-whats-your-favorite-ai-hack/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=61226</guid>
+    </item>    <item>
+      <title>Washington Post: How People Really Use ChatGPT, According to 47,000 Conversations Shared Online</title>
+      <link>https://www.infodocket.com/2025/11/12/washington-post-how-people-really-use-chatgpt-according-to-47000-conversations-shared-online/</link>
+      <description>
+        <![CDATA[From The Washington Post: A collection of 47,000 publicly shared ChatGPT conversations compiled by The Washington Post sheds light on the reasons people turn to the chatbot and the deeply intimate role it plays in many lives. The conversations were made public by ChatGPT users who created shareable links to their chats that were later [&#8230;]]]>
+      </description>
+      <source:markdown>From The Washington Post: A collection of 47,000 publicly shared ChatGPT conversations compiled by The Washington Post sheds light on the reasons people turn to the chatbot and the deeply intimate role it plays in many lives. The conversations were made public by ChatGPT users who created shareable links to their chats that were later \[…\]</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=167295</guid>
     </item>    <item>
       <title>Voices Celebrating 1 Trillion Pages: Vint Cerf, Internet Pioneer</title>
       <link>https://blog.archive.org/2025/11/12/voices-celebrating-1-trillion-pages-vint-cerf-internet-pioneer/</link>
@@ -238,6 +322,14 @@ The post [Impact Metrics on Publisher Platforms: Who Shows What Where?](https://
 
 The post [Day in Review (November 10–13)](https://www.arl.org/day-in-review/day-in-review-november-10-13/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=46621</guid>
+    </item>    <item>
+      <title>Journal Article: Artificial Intelligence Regulation Matures: Landscapes of the USA, European Union, and China</title>
+      <link>https://www.infodocket.com/2025/11/10/journal-article-artificial-intelligence-regulation-matures-landscapes-of-the-usa-european-union-and-china/</link>
+      <description>
+        <![CDATA[The article (full text) linked below was recently published by IFLA Journal. Title Artificial Intelligence Regulation Matures: Landscapes of the USA, European Union, and China Author Leo S. Lo University of Virginia Source IFLA Journal Online First DOI: 10.1177/03400352251384915 Abstract Between 2023 and July 2025, artificial intelligence (AI) governance in the USA, European Union, and [&#8230;]]]>
+      </description>
+      <source:markdown>The article (full text) linked below was recently published by IFLA Journal. Title Artificial Intelligence Regulation Matures: Landscapes of the USA, European Union, and China Author Leo S. Lo University of Virginia Source IFLA Journal Online First DOI: 10.1177/03400352251384915 Abstract Between 2023 and July 2025, artificial intelligence (AI) governance in the USA, European Union, and \[…\]</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=167292</guid>
     </item>    <item>
       <title>Voices Celebrating 1 Trillion Pages: Peter Gabriel, Musician</title>
       <link>https://blog.archive.org/2025/11/10/voices-celebrating-1-trillion-pages-peter-gabriel-musician/</link>

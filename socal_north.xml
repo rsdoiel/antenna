@@ -7,10 +7,50 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>19 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>19 Nov 25 12:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Rancho Palos Verdes landslide escapes immediate major damage from record-breaking November rains</title>
+      <link>https://laist.com/news/rancho-palos-verdes-landslide-november-rains</link>
+      <description>
+        <![CDATA[With more storms on the way, that could change.]]>
+      </description>
+      <source:markdown>With more storms on the way, that could change.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-9d81-d00b-a3da-9dd5bef70000</guid>
+    </item>    <item>
+      <title>Gift Guide: Local and artisan-made treasures infuse meaning into your gift-giving</title>
+      <link>https://laist.com/news/los-angeles-activities/laist-gift-guide-2025-artisan-local-gifts</link>
+      <description>
+        <![CDATA[Nail polish inspired by a painting, a handmade-in-Hollywood bracelet, bowls fashioned from a single piece of wood — these artisan-made items are never going to be regifted.]]>
+      </description>
+      <source:markdown>Nail polish inspired by a painting, a handmade-in-Hollywood bracelet, bowls fashioned from a single piece of wood — these artisan-made items are never going to be regifted.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-99cf-d00b-a3da-9ddfa7400000</guid>
+    </item>    <item>
+      <title>A $6M grant aims to rebuild an Altadena bungalow court lost to the Eaton Fire</title>
+      <link>https://laist.com/news/housing-homelessness/eaton-fire-rebuilding-rental-units</link>
+      <description>
+        <![CDATA[Philanthropic funds helped purchase a burned lot that used to have 14 rental units. Supporters hope the project can be a model for rebuilding equitably for renters.]]>
+      </description>
+      <source:markdown>Philanthropic funds helped purchase a burned lot that used to have 14 rental units. Supporters hope the project can be a model for rebuilding equitably for renters.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-9992-d21c-affe-bbf286e80000</guid>
+    </item>    <item>
+      <title>Billionaire activist Tom Steyer joins race to succeed Newsom as California governor</title>
+      <link>https://laist.com/news/politics/billionaire-tom-steyer-joins-california-governor-race</link>
+      <description>
+        <![CDATA[The billionaire climate activist, who ran unsuccessfully for president in 2020, joins a crowded field with no clear frontrunner.]]>
+      </description>
+      <source:markdown>The billionaire climate activist, who ran unsuccessfully for president in 2020, joins a crowded field with no clear frontrunner.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-9cf9-d00b-a3da-9dfd764f0000</guid>
+    </item>    <item>
+      <title>White House intervened on behalf of accused sex trafficker Andrew Tate during federal investigation</title>
+      <link>https://laist.com/news/criminal-justice/white-house-intervened-on-behalf-of-accused-sex-trafficker-andrew-tate-during-a-federal-investigation</link>
+      <description>
+        <![CDATA[Federal authorities were chided for seizing electronic devices from Tate and his brother, and told to return them, records and interviews show. Experts said the intervention was highly inappropriate.]]>
+      </description>
+      <source:markdown>Federal authorities were chided for seizing electronic devices from Tate and his brother, and told to return them, records and interviews show. Experts said the intervention was highly inappropriate.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-9cd0-d00b-a3da-9dd4e4ef0000</guid>
+    </item>    <item>
       <title>What’s behind the latest LAX People Mover delay?</title>
       <link>https://laist.com/transportation/lax-people-mover-delay</link>
       <description>
@@ -223,6 +263,14 @@
       <source:markdown>Thousands of University of California campus and health center employees are on a two-day strike after stalled negotiations.</source:markdown>
       <guid>cid://urn:uuid:0000019a-9304-d17f-abba-dfd6dca10000</guid>
     </item>    <item>
+      <title>Gift Guide: The IYKYK list for real ones across Southern California</title>
+      <link>https://laist.com/news/los-angeles-activities/gift-guide-los-angeles-if-you-know-you-know</link>
+      <description>
+        <![CDATA[If you know Altadena Hardware, Pomona's 6 Ps logo, Chef's Coffee Shop ... then you know.]]>
+      </description>
+      <source:markdown>If you know Altadena Hardware, Pomona&#39;s 6 Ps logo, Chef&#39;s Coffee Shop ... then you know.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-8493-dbac-afdf-87930c590000</guid>
+    </item>    <item>
       <title>Gift Guide: Put these under a tree for the gardeners and plant parents in your life</title>
       <link>https://laist.com/news/los-angeles-activities/gift-guide-2025-gardeners-and-plant-parents</link>
       <description>
@@ -238,14 +286,6 @@
       </description>
       <source:markdown>The AirTalk host recommends coffee table books about Art Deco and car culture, as well as a book about Shohei Ohtani and a guide to Hollywood careers.</source:markdown>
       <guid>cid://urn:uuid:0000019a-7521-d7d8-a19b-f7a527d80000</guid>
-    </item>    <item>
-      <title>Gift Guide: The IYKYK list for real ones across Southern California</title>
-      <link>https://laist.com/news/los-angeles-activities/gift-guide-los-angeles-if-you-know-you-know</link>
-      <description>
-        <![CDATA[If you know Altadena Hardware, Pomona's 6 Ps logo, Chef's Coffee Shop ... then you know.]]>
-      </description>
-      <source:markdown>If you know Altadena Hardware, Pomona&#39;s 6 Ps logo, Chef&#39;s Coffee Shop ... then you know.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-8493-dbac-afdf-87930c590000</guid>
     </item>    <item>
       <title>Justice Department official told prosecutors that US should &#39;just sink&#39; drug boats</title>
       <link>https://laist.com/news/politics/justice-department-official-told-prosecutors-that-us-should-just-sink-drug-boats</link>
@@ -263,6 +303,14 @@
       <source:markdown>There is renewed criticism over the names of military and DHS operations, including the most recent, Operation Charlotte&#39;s Web.</source:markdown>
       <guid>cid://urn:uuid:0000019a-92b6-d4bc-adda-f7f7bae40000</guid>
     </item>    <item>
+      <title>Best things to do this week in LA and SoCal: Nov. 17-20</title>
+      <link>https://laist.com/news/arts-and-entertainment/best-events-weekly-los-angeles-southern-california-november-17</link>
+      <description>
+        <![CDATA[Nth Power jam at the Mint, the lights at Manhattan Beach Pier, Miranda July moderates a timely film screening at the LGBT Center and more of the best things to do this week.]]>
+      </description>
+      <source:markdown>Nth Power jam at the Mint, the lights at Manhattan Beach Pier, Miranda July moderates a timely film screening at the LGBT Center and more of the best things to do this week.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-8403-dbac-afdf-871351910000</guid>
+    </item>    <item>
       <title>Pasadena Unified weighs $25 million in budget cuts to athletics, arts and libraries</title>
       <link>https://laist.com/news/education/pasadena-unified-school-district-staff-recommended-budget-cuts-30-million-board-meeting</link>
       <description>
@@ -278,14 +326,6 @@
       </description>
       <source:markdown>Each year, the Citadel Outlets in Commerce aims for the world&#39;s tallest fresh-cut Christmas tree.</source:markdown>
       <guid>cid://urn:uuid:0000019a-853d-d43d-a9db-9f3f4ae70000</guid>
-    </item>    <item>
-      <title>Best things to do this week in LA and SoCal: Nov. 17-20</title>
-      <link>https://laist.com/news/arts-and-entertainment/best-events-weekly-los-angeles-southern-california-november-17</link>
-      <description>
-        <![CDATA[Nth Power jam at the Mint, the lights at Manhattan Beach Pier, Miranda July moderates a timely film screening at the LGBT Center and more of the best things to do this week.]]>
-      </description>
-      <source:markdown>Nth Power jam at the Mint, the lights at Manhattan Beach Pier, Miranda July moderates a timely film screening at the LGBT Center and more of the best things to do this week.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-8403-dbac-afdf-871351910000</guid>
     </item>    <item>
       <title>FAA to lift all restrictions on commercial flights</title>
       <link>https://laist.com/transportation/faa-to-lift-all-restrictions-on-commercial-flights</link>

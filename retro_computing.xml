@@ -4,16 +4,24 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>19 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>19 Nov 25 12:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2025/11/19 - Presentations of The London Show, Sheiny Spammy.</title>
+      <link>https://heyrick.eu/blog/entry/20251119</link>
+      <description>
+        <![CDATA[Presentations of The London Show, Sheiny Spammy.]]>
+      </description>
+      <source:markdown>Presentations of The London Show, Sheiny Spammy.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20251119</guid>
+    </item>    <item>
       <title>Valve Announces Pending Release of Steam Machine</title>
       <link>http://www.linux-magazine.com/Online/News/Valve-Announces-Pending-Release-of-Steam-Machine</link>
       <description>
-        <![CDATA[<p>Shout it to the heavens: the Steam Machine, powered by Linux, is set to arrive in 2026.</p>]]>
+        <![CDATA[<p>Shout it to the heavens: Steam Machine, powered by Linux, is set to arrive in 2026.</p>]]>
       </description>
-      <source:markdown>Shout it to the heavens: the Steam Machine, powered by Linux, is set to arrive in 2026.</source:markdown>
+      <source:markdown>Shout it to the heavens: Steam Machine, powered by Linux, is set to arrive in 2026.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://d2ec275891364e48dbe7c96955583d02</guid>
     </item>    <item>
