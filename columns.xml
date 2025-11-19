@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>18 Nov 25 14:13 -0800</lastBuildDate>
+    <lastBuildDate>19 Nov 25 06:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -141,6 +141,452 @@ As always, do give this release a try and open a [ticket](https://gitlab.haskell
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
     </item>    <item>
+      <title>The Only GM EV1 Ever Publicly Sold</title>
+      <link>https://onefoottsunami.com/2025/11/19/the-only-gm-ev1-ever-publicly-sold/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29458</guid>
+    </item>    <item>
+      <title>Laissez-faire Cognitive Debt – Smithery</title>
+      <link>https://smithery.com/2025/11/19/laissez-faire-cognitive-debt/</link>
+      <description>
+        <![CDATA[<blockquote>
+          <p>I think of Cognitive Debt as ‘where we have the answers, but not the thinking that went into producing those answers&#8217;.</p>
+          
+          <p>Lately, I have started noticing examples of not just where the debt is being accrued, but who then has the responsibility to pick it up and repay it.</p>
+          
+          <p>Too often, an LLM doesn’t replace the need for thinking in a group setting, but simply creates <em>more</em> work for others.</p>
+        </blockquote>
+        
+        <p><a href="https://adactio.com/links/22258">adactio.com/links/22258</a></p>]]>
+      </description>
+      <source:markdown>&#62; I think of Cognitive Debt as ‘where we have the answers, but not the thinking that went into producing those answers’.
+&#62;
+&#62; Lately, I have started noticing examples of not just where the debt is being accrued, but who then has the responsibility to pick it up and repay it.
+&#62;
+&#62; Too often, an LLM doesn’t replace the need for thinking in a group setting, but simply creates _more_ work for others.
+
+[adactio.com/links/22258](https://adactio.com/links/22258)</source:markdown>
+      <guid>cid://https://smithery.com/2025/11/19/laissez-faire-cognitive-debt/</guid>
+    </item>    <item>
+      <title>The Saudification of America Is Under Way. &#38;#8220;Jamal Khashoggi&#38;#8217;s plight and murder...</title>
+      <link>https://kottke.org/25/11/0047875-the-saudification-of-amer</link>
+      <guid>cid://tag:kottke.org,2025://13.47875</guid>
+    </item>    <item>
+      <title>Legal Restrictions on Vulnerability Disclosure</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/legal-restrictions-on-vulnerability-disclosure.html</link>
+      <description>
+        <![CDATA[<p>Kendra Albert gave an <a href="https://www.youtube.com/watch?v=lUe3uUvIyT0">excellent talk</a> at USENIX Security this year, pointing out that the legal agreements surrounding vulnerability disclosure muzzle researchers while allowing companies to not fix the vulnerabilities&#8212;exactly the opposite of what the responsible disclosure movement of the early 2000s was supposed to prevent. This is the talk.</p>
+        <blockquote><p>Thirty years ago, a debate raged over whether vulnerability disclosure was good for computer security. On one side, full disclosure advocates argued that software bugs weren&#8217;t getting fixed and wouldn&#8217;t get fixed if companies that made insecure software wasn&#8217;t called out publicly. On the other side, companies argued that full disclosure led to exploitation of unpatched vulnerabilities, especially if they were hard to fix. After blog posts, public debates, and countless mailing list flame wars, there emerged a compromise solution: coordinated vulnerability disclosure, where vulnerabilities were disclosed after a period of confidentiality where vendors can attempt to fix things. Although full disclosure fell out of fashion, disclosure won and security through obscurity lost. We&#8217;ve lived happily ever after since...</p></blockquote>]]>
+      </description>
+      <source:markdown>Kendra Albert gave an [excellent talk](https://www.youtube.com/watch?v=lUe3uUvIyT0) at USENIX Security this year, pointing out that the legal agreements surrounding vulnerability disclosure muzzle researchers while allowing companies to not fix the vulnerabilities—exactly the opposite of what the responsible disclosure movement of the early 2000s was supposed to prevent. This is the talk.
+
+&#62; Thirty years ago, a debate raged over whether vulnerability disclosure was good for computer security. On one side, full disclosure advocates argued that software bugs weren’t getting fixed and wouldn’t get fixed if companies that made insecure software wasn’t called out publicly. On the other side, companies argued that full disclosure led to exploitation of unpatched vulnerabilities, especially if they were hard to fix. After blog posts, public debates, and countless mailing list flame wars, there emerged a compromise solution: coordinated vulnerability disclosure, where vulnerabilities were disclosed after a period of confidentiality where vendors can attempt to fix things. Although full disclosure fell out of fashion, disclosure won and security through obscurity lost. We’ve lived happily ever after since...</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=71198</guid>
+    </item>    <item>
+      <title>Reminder: Crypto Is a Trump Trade</title>
+      <link>https://paulkrugman.substack.com/p/reminder-crypto-is-a-trump-trade</link>
+      <description>
+        <![CDATA[The industry bought a president. Bad investment?]]>
+      </description>
+      <source:markdown>The industry bought a president. Bad investment?</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!_xVi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff95af6b-b99e-4454-8b9d-0f7c07b4f546_1431x954.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/reminder-crypto-is-a-trump-trade</guid>
+    </item>    <item>
+      <title>Open Tabs</title>
+      <link>https://openchannels.fm/the-everyday-chaos-of-open-tabs-and-browser-battles/</link>
+      <description>
+        <![CDATA[Bob and Nathan explore the chaos of browser tabs. One hoards thousands, while the other balances life with two. Tune in for witty banter, tech quirks, and questionable life advice.]]>
+      </description>
+      <source:markdown>Bob and Nathan explore the chaos of browser tabs. One hoards thousands, while the other balances life with two. Tune in for witty banter, tech quirks, and questionable life advice.</source:markdown>
+      <guid>cid://https://openchannels.fm/?p=112264</guid>
+    </item>    <item>
+      <title>Lit Hub Daily: November 19, 2025</title>
+      <link>https://lithub.com/lit-hub-daily-november-19-2025/</link>
+      <description>
+        <![CDATA[How do we know aliens do science? “Just because aliens arrive with snazzy blasters doesn’t mean they can explain how they work, or that they even care to know.” &#124; Lit Hub Science Violet Kupersmith considers the stylistic and thematic]]>
+      </description>
+      <source:markdown>How do we know aliens do science? “Just because aliens arrive with snazzy blasters doesn’t mean they can explain how they work, or that they even care to know.” \| Lit Hub Science Violet Kupersmith considers the stylistic and thematic</source:markdown>
+      <guid>cid://https://lithub.com/?p=263042</guid>
+    </item>    <item>
+      <title>CPython may go Rusty, but older platforms risk getting iced out</title>
+      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/11/19/cpython_may_use_rust/</link>
+      <description>
+        <![CDATA[<h4>Preliminary proposal is already provoking debate</h4>
+              <p>The Python community is chewing over a new idea: allowing the C-based reference implementation, CPython, to incorporate Rust. It&#39;s only at the &#34;pre-PEP&#34; stage, but it&#39;s already sparked lively debate.</p>]]>
+      </description>
+      <source:markdown>#### Preliminary proposal is already provoking debate
+
+The Python community is chewing over a new idea: allowing the C-based reference implementation, CPython, to incorporate Rust. It&#39;s only at the &#34;pre-PEP&#34; stage, but it&#39;s already sparked lively debate.</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243097</guid>
+    </item>    <item>
+      <title>Build to Last</title>
+      <link>https://www.oreilly.com/radar/build-to-last/</link>
+      <description>
+        <![CDATA[The following originally appears on fast.ai and is reposted here with the author’s permission. I’ve spent decades teaching people to code, building tools that help developers work more effectively, and championing the idea that programming should be accessible to everyone. Through fast.ai, I’ve helped millions learn not just to use AI, but to understand it [&#8230;]]]>
+      </description>
+      <source:markdown>The following originally appears on fast.ai and is reposted here with the author’s permission. I’ve spent decades teaching people to code, building tools that help developers work more effectively, and championing the idea that programming should be accessible to everyone. Through fast.ai, I’ve helped millions learn not just to use AI, but to understand it \[…\]</source:markdown>
+      <guid>cid://https://www.oreilly.com/radar/?p=17722</guid>
+    </item>    <item>
+      <title>2025-11-19 uBlock Origin</title>
+      <link>https://alexschroeder.ch/view/2025-11-17-ublock-origin</link>
+      <description>
+        <![CDATA[<h1 id="2025-11-19-ublock-origin">2025-11-19 uBlock Origin</h1>
+        
+        <p>You all use uBlock Origin? Good.
+        Today I saw a post by <a class="account" href="https://bananachips.club/@lichen" title="@lichen@bananachips.club">@lichen</a> with the following uBlock Origin rules to get rid of AI stuff when using GitHub. Love it.</p>
+        
+        <pre><code>github.com##.AppHeader-CopilotChat
+        github.com##copilot-dashboard-entrypoint
+        github.com##.prc-ButtonGroup-ButtonGroup-vcMeG.DiffLinesMenu-module__diff-button-container--UrMbh
+        github.com##.DiffHeaderAskCopilotButton-module__askCopilotButton--XnBQK.prc-Button-ButtonBase-c50BI
+        github.com###copilot-md-menu-anchor-new_comment_field
+        github.com##a[href^=&quot;copilot-workspace.githubnext.c&quot;]
+        github.com###copilot-md-menu-anchor-pull_request_body
+        github.com##.lnwIhU.Box-sc-g0xbh4-0 &gt; .octicon-copilot.octicon &gt; path
+        github.com##li:has(&gt; ul &gt; li#query-builder-test-result-ask-copilot)
+        github.com##li.ActionList-sectionDivider[aria-hidden=&quot;true&quot;]
+        github.com##div:has(&gt; button[data-testid=&quot;copilot-ask-menu&quot;])
+        github.com##div[data-test-id=&quot;copilot-actions-chat-button&quot;]
+        github.com##div.dropdown-divider:has(+span[data-target=&quot;copilot-diff-entry.menuItemsSlot&quot;])
+        github.com##span[data-target=&quot;copilot-diff-entry.menuItemsSlot&quot;]
+        github.com##react-partial[partial-name=&quot;copilot-code-chat&quot;]
+        github.com##.copilotPreview__container
+        github.com##button[id^=&quot;copilot-md-menu-anchor&quot;]
+        github.com##div:has(&gt; button[id^=&quot;copilot-md-menu-anchor&quot;]) + hr
+        github.com##li:has(&gt; ul &gt; li#query-builder-test-result-chat-with-copilot)
+        github.com##span:has(&gt; p &gt; span[data-assignee-name=&quot;Copilot&quot;])
+        github.com##div:has(&gt; div &gt; div &gt; a[data-testid=&quot;open-in-copilot-agent-button&quot;])
+        github.com##command-palette-item[data-item-id=&quot;2918418660&quot;]
+        github.com##li.prc-ActionList-Divider-rsZFG
+        github.com##li:has-text(/Ask about this diff/)
+        github.com##div[class*=&quot;CopilotWorkspaceButton&quot;]
+        github.com##li[class=&quot;ActionListItem ActionListItem--hasSubItem&quot;]:has(ul &gt; li[data-item-id=&quot;repo_settings_copilot_swe_agent&quot;])
+        github.com##svg.octicon.octicon-copilot
+        github.com##span[class=&quot;ActionListItem-label&quot;]:has-text(Copilot)
+        github.com##li:has(&gt; div &gt; span:has-text(/Explain error/))
+        github.com##div[class*=&quot;CopilotAgentModeButton&quot;]
+        github.com##button:has(&gt; span:has-text(/Try the new experience/))
+        github.com##g-emoji[alias=&quot;sparkles&quot;]
+        github.com##inline-machine-translation
+        </code></pre>
+        
+        <p><a class="tag" href="/search/?q=%23Firefox">#Firefox</a> <a class="tag" href="/search/?q=%23AI">#AI</a> <a class="tag" href="/search/?q=%23uBlock_Origin">#uBlock Origin</a></p>
+        
+        <p><strong>2025-11-19</strong>. I must add, though, that I&rsquo;ve been deleting a lot of my repositories and forks of repositories from GitHub. I don&rsquo;t want to support the AI hype. I have some of these repositories <a href="https://src.alexschroeder.ch/">on my own server</a>. There rest live on in forks elsewhere, or not at all, and my server will go down with me as well one day. It&rsquo;s a lot like paper libraries. If people don&rsquo;t copy the stuff they like, it is lost.</p>]]>
+      </description>
+      <source:markdown># 2025-11-19 uBlock Origin
+
+You all use uBlock Origin? Good.
+Today I saw a post by [@lichen](https://bananachips.club/@lichen &#34;@lichen@bananachips.club&#34;) with the following uBlock Origin rules to get rid of AI stuff when using GitHub. Love it.
+
+```
+github.com##.AppHeader-CopilotChat
+github.com##copilot-dashboard-entrypoint
+github.com##.prc-ButtonGroup-ButtonGroup-vcMeG.DiffLinesMenu-module__diff-button-container--UrMbh
+github.com##.DiffHeaderAskCopilotButton-module__askCopilotButton--XnBQK.prc-Button-ButtonBase-c50BI
+github.com###copilot-md-menu-anchor-new_comment_field
+github.com##a[href^=&#34;copilot-workspace.githubnext.c&#34;]
+github.com###copilot-md-menu-anchor-pull_request_body
+github.com##.lnwIhU.Box-sc-g0xbh4-0 &#62; .octicon-copilot.octicon &#62; path
+github.com##li:has(&#62; ul &#62; li#query-builder-test-result-ask-copilot)
+github.com##li.ActionList-sectionDivider[aria-hidden=&#34;true&#34;]
+github.com##div:has(&#62; button[data-testid=&#34;copilot-ask-menu&#34;])
+github.com##div[data-test-id=&#34;copilot-actions-chat-button&#34;]
+github.com##div.dropdown-divider:has(+span[data-target=&#34;copilot-diff-entry.menuItemsSlot&#34;])
+github.com##span[data-target=&#34;copilot-diff-entry.menuItemsSlot&#34;]
+github.com##react-partial[partial-name=&#34;copilot-code-chat&#34;]
+github.com##.copilotPreview__container
+github.com##button[id^=&#34;copilot-md-menu-anchor&#34;]
+github.com##div:has(&#62; button[id^=&#34;copilot-md-menu-anchor&#34;]) + hr
+github.com##li:has(&#62; ul &#62; li#query-builder-test-result-chat-with-copilot)
+github.com##span:has(&#62; p &#62; span[data-assignee-name=&#34;Copilot&#34;])
+github.com##div:has(&#62; div &#62; div &#62; a[data-testid=&#34;open-in-copilot-agent-button&#34;])
+github.com##command-palette-item[data-item-id=&#34;2918418660&#34;]
+github.com##li.prc-ActionList-Divider-rsZFG
+github.com##li:has-text(/Ask about this diff/)
+github.com##div[class*=&#34;CopilotWorkspaceButton&#34;]
+github.com##li[class=&#34;ActionListItem ActionListItem--hasSubItem&#34;]:has(ul &#62; li[data-item-id=&#34;repo_settings_copilot_swe_agent&#34;])
+github.com##svg.octicon.octicon-copilot
+github.com##span[class=&#34;ActionListItem-label&#34;]:has-text(Copilot)
+github.com##li:has(&#62; div &#62; span:has-text(/Explain error/))
+github.com##div[class*=&#34;CopilotAgentModeButton&#34;]
+github.com##button:has(&#62; span:has-text(/Try the new experience/))
+github.com##g-emoji[alias=&#34;sparkles&#34;]
+github.com##inline-machine-translation
+
+```
+
+[#Firefox](/search/?q=%23Firefox) [#AI](/search/?q=%23AI) [#uBlock Origin](/search/?q=%23uBlock_Origin)
+
+**2025-11-19**. I must add, though, that I’ve been deleting a lot of my repositories and forks of repositories from GitHub. I don’t want to support the AI hype. I have some of these repositories [on my own server](https://src.alexschroeder.ch/). There rest live on in forks elsewhere, or not at all, and my server will go down with me as well one day. It’s a lot like paper libraries. If people don’t copy the stuff they like, it is lost.</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2025-11-17-ublock-origin</guid>
+    </item>    <item>
+      <title>From Breezes to Tornadoes: What Happens When the Wind Turns Deadly?</title>
+      <link>https://lithub.com/from-breezes-to-tornadoes-what-happens-when-the-wind-turns-deadly/</link>
+      <description>
+        <![CDATA[A robust and lustily blowing gale can be an invigorating happening. Ever since childhood I have listened to the nightly BBC broadcast of the Shipping Forecast, created a century ago for all those vessels—fishing boats, mainly—that were doing their business]]>
+      </description>
+      <source:markdown>A robust and lustily blowing gale can be an invigorating happening. Ever since childhood I have listened to the nightly BBC broadcast of the Shipping Forecast, created a century ago for all those vessels—fishing boats, mainly—that were doing their business</source:markdown>
+      <guid>cid://https://lithub.com/?p=262470</guid>
+    </item>    <item>
+      <title>What If Aliens Don’t Actually Do Science?</title>
+      <link>https://lithub.com/what-if-aliens-dont-actually-do-science/</link>
+      <description>
+        <![CDATA[Before we can achieve an interspecies scientific mind meld with visiting aliens and crack the secrets of the Universe, we have a few pesky problems to take care of. We are eager to download alien textbooks on deep conceptual questions]]>
+      </description>
+      <source:markdown>Before we can achieve an interspecies scientific mind meld with visiting aliens and crack the secrets of the Universe, we have a few pesky problems to take care of. We are eager to download alien textbooks on deep conceptual questions</source:markdown>
+      <guid>cid://https://lithub.com/?p=262586</guid>
+    </item>    <item>
+      <title>The Enduring Global Legacy of the French Revolution</title>
+      <link>https://lithub.com/the-enduring-global-legacy-of-the-french-revolution/</link>
+      <description>
+        <![CDATA[Debate over the causes and consequences of the French Revolution has never abated. Complex events always have complex interpretations, and if they also have a political and ideological dimension, as is the case here, the difficulties multiply. The historian Albert]]>
+      </description>
+      <source:markdown>Debate over the causes and consequences of the French Revolution has never abated. Complex events always have complex interpretations, and if they also have a political and ideological dimension, as is the case here, the difficulties multiply. The historian Albert</source:markdown>
+      <guid>cid://https://lithub.com/?p=262642</guid>
+    </item>    <item>
+      <title>Feminism, Freedom and the Accusatory “You.” On Elaine Kraf’s Find Him!</title>
+      <link>https://lithub.com/feminism-freedom-and-the-accusatory-you-on-elaine-krafs-find-him/</link>
+      <description>
+        <![CDATA[Find Him!, Elaine Kraf ’s third novel, was first published in 1977 by the experimental author-run Fiction Collective. The book is dedicated to you. And throughout it, you, the reader, will be addressed directly, questioned, sometimes taunted by the novel’s]]>
+      </description>
+      <source:markdown>Find Him!, Elaine Kraf ’s third novel, was first published in 1977 by the experimental author-run Fiction Collective. The book is dedicated to you. And throughout it, you, the reader, will be addressed directly, questioned, sometimes taunted by the novel’s</source:markdown>
+      <guid>cid://https://lithub.com/?p=262453</guid>
+    </item>    <item>
+      <title>“Tremor,” a Poem by Fatema Abdoolcarim</title>
+      <link>https://lithub.com/tremor-a-poem-by-fatema-abdoolcarim/</link>
+      <description>
+        <![CDATA[I hear him before I see him. An underbelly of bright white light a ghost in the shadows. With pitch black eyes he sees into pitch blackness. Swooping softly in figure ∞’s— immensity held open in his wings held almost]]>
+      </description>
+      <source:markdown>I hear him before I see him. An underbelly of bright white light a ghost in the shadows. With pitch black eyes he sees into pitch blackness. Swooping softly in figure ∞’s— immensity held open in his wings held almost</source:markdown>
+      <guid>cid://https://lithub.com/?p=262544</guid>
+    </item>    <item>
+      <title>Where Time and Space Collide: In Praise of Old Maps</title>
+      <link>https://lithub.com/where-time-and-space-collide-in-praise-of-old-maps/</link>
+      <description>
+        <![CDATA[“Maps are funny things because they appear to be the reality, and yet they give you a tremendous opportunity to dream.” –Peter Barber * Not long into my searches of the Map Library I grew impatient to make discoveries and]]>
+      </description>
+      <source:markdown>“Maps are funny things because they appear to be the reality, and yet they give you a tremendous opportunity to dream.” –Peter Barber \* Not long into my searches of the Map Library I grew impatient to make discoveries and</source:markdown>
+      <guid>cid://https://lithub.com/?p=262632</guid>
+    </item>    <item>
+      <title>Find Him!</title>
+      <link>https://lithub.com/find-him/</link>
+      <description>
+        <![CDATA[The first word I remember is the word “chew.” Fat fist clutching the handle of a large spoon, up in into my mouth, covered with black hairs, gray ones and random brown dots is what my eyes remember of their]]>
+      </description>
+      <source:markdown>The first word I remember is the word “chew.” Fat fist clutching the handle of a large spoon, up in into my mouth, covered with black hairs, gray ones and random brown dots is what my eyes remember of their</source:markdown>
+      <guid>cid://https://lithub.com/?p=261624</guid>
+    </item>    <item>
+      <title>Honor and Shame in the Era of Trump and Epstein</title>
+      <link>https://robertreich.substack.com/p/honor-and-shame-in-the-era-of-trump</link>
+      <description>
+        <![CDATA[Honor comes with wealth. The only exception is pedophilia.]]>
+      </description>
+      <source:markdown>Honor comes with wealth. The only exception is pedophilia.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!3pFx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05fc228c-9cc5-4ec6-af22-39b59e4885c3_1280x853.avif" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/honor-and-shame-in-the-era-of-trump</guid>
+    </item>    <item>
+      <title>Music and Copyright in the Era of Taylor Swift</title>
+      <link>https://archive.org/details/future-knowledge-episode-14</link>
+      <description>
+        <![CDATA[<p>In this conversation, <strong>Michael Menna</strong> and <strong>Anjali Vats</strong> unpack how copyright law really works for musicians outside the mainstream. While stars like Taylor Swift make headlines for reclaiming their masters, countless “fringe musicians” navigate a system that often privileges profit over creativity. Together, Menna and Vats examine the gap between copyright’s ideals and its realities—exploring how power, access, and inequity shape who benefits from the music economy and what a fairer future might look like.</p><p>This conversation was recorded on 09/11/2025.</p><p>Check out all of the Future Knowledge episodes at <a href="https://archive.org/details/future-knowledge">https://archive.org/details/future-knowledge</a> </p>]]>
+      </description>
+      <source:markdown>In this conversation, **Michael Menna** and **Anjali Vats** unpack how copyright law really works for musicians outside the mainstream. While stars like Taylor Swift make headlines for reclaiming their masters, countless “fringe musicians” navigate a system that often privileges profit over creativity. Together, Menna and Vats examine the gap between copyright’s ideals and its realities—exploring how power, access, and inequity shape who benefits from the music economy and what a fairer future might look like.
+
+This conversation was recorded on 09/11/2025.
+
+Check out all of the Future Knowledge episodes at [https://archive.org/details/future-knowledge](https://archive.org/details/future-knowledge)</source:markdown>
+      <enclosure url="https://media.transistor.fm/47c6d119/94c04070.mp3" length="39983415" type="audio/mpeg" />
+      <guid>cid://50a9162d-4725-48cb-a4c7-3835b715849d</guid>
+    </item>    <item>
+      <title>Quoting Matthew Prince</title>
+      <link>https://simonwillison.net/2025/Nov/19/matthew-prince/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="https://blog.cloudflare.com/18-november-2025-outage/"><p>Cloudflare's network began experiencing significant failures to deliver core network traffic [...] triggered by a change to one of our database systems' permissions which caused the database to output multiple entries into a “feature file” used by our Bot Management system. That feature file, in turn, doubled in size. The larger-than-expected feature file was then propagated to all the machines that make up our network. [...] The software had a limit on the size of the feature file that was below its doubled size. That caused the software to fail. [...]</p>
+        <p>This resulted in the following panic which in turn resulted in a 5xx error:</p>
+        <p><code>thread fl2_worker_thread panicked: called Result::unwrap() on an Err value</code></p></blockquote>
+        <p class="cite">&mdash; <a href="https://blog.cloudflare.com/18-november-2025-outage/">Matthew Prince</a>, Cloudflare outage on November 18, 2025</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/scaling">scaling</a>, <a href="https://simonwillison.net/tags/postmortem">postmortem</a>, <a href="https://simonwillison.net/tags/cloudflare">cloudflare</a>, <a href="https://simonwillison.net/tags/rust">rust</a></p>]]>
+      </description>
+      <source:markdown>&#62; Cloudflare&#39;s network began experiencing significant failures to deliver core network traffic \[...\] triggered by a change to one of our database systems&#39; permissions which caused the database to output multiple entries into a “feature file” used by our Bot Management system. That feature file, in turn, doubled in size. The larger-than-expected feature file was then propagated to all the machines that make up our network. \[...\] The software had a limit on the size of the feature file that was below its doubled size. That caused the software to fail. \[...\]
+&#62;
+&#62; This resulted in the following panic which in turn resulted in a 5xx error:
+&#62;
+&#62; `thread fl2_worker_thread panicked: called Result::unwrap() on an Err value`
+
+— [Matthew Prince](https://blog.cloudflare.com/18-november-2025-outage/), Cloudflare outage on November 18, 2025
+
+Tags: [scaling](https://simonwillison.net/tags/scaling), [postmortem](https://simonwillison.net/tags/postmortem), [cloudflare](https://simonwillison.net/tags/cloudflare), [rust](https://simonwillison.net/tags/rust)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/19/matthew-prince/#atom-everything</guid>
+    </item>    <item>
+      <title>November 18, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/november-18-2025</link>
+      <description>
+        <![CDATA[For three hot days, from July 1 to July 3, 1863, more than 150,000 soldiers from the armies of the United States of America and the Confederate States of America slashed at each other in the hills and through the fields around Gettysburg, Pennsylvania.]]>
+      </description>
+      <source:markdown>For three hot days, from July 1 to July 3, 1863, more than 150,000 soldiers from the armies of the United States of America and the Confederate States of America slashed at each other in the hills and through the fields around Gettysburg, Pennsylvania.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/qe_LQbeIQhQ" length="0" type="image/jpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/november-18-2025</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m5xihwtbrk2m</link>
+      <description>
+        <![CDATA[An action plan.
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>An action plan.
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m5xihwtbrk2m</guid>
+    </item>    <item>
+      <title>Needy Software</title>
+      <link>https://mjtsai.com/blog/2025/11/18/needy-software/</link>
+      <description>
+        <![CDATA[Nikita Prokopov: But recently (a decade, more or less), this relationship has subtly changed. Newer programs (which are called apps now, yes, I know) started to want things from you.[&#8230;]This got so bad that when a program doesn&#8217;t ask you to create an account, it feels refreshing.[&#8230;]Everybody is checking for updates all the time. Some [&#8230;]]]>
+      </description>
+      <source:markdown>Nikita Prokopov: But recently (a decade, more or less), this relationship has subtly changed. Newer programs (which are called apps now, yes, I know) started to want things from you.\[…\]This got so bad that when a program doesn’t ask you to create an account, it feels refreshing.\[…\]Everybody is checking for updates all the time. Some \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=50101</guid>
+    </item>    <item>
+      <title>Apple Succession Planning</title>
+      <link>https://mjtsai.com/blog/2025/11/18/apple-succession-planning/</link>
+      <description>
+        <![CDATA[Anthony Ha (MacRumors, Hacker News): Apple is getting serious about succession planning, according to a new report in The Financial Times.The company&#8217;s board and senior executives are reportedly preparing for the possibility that Tim Cook could step down as CEO as soon as early next year.[&#8230;]Apple&#8217;s senior vice president of hardware engineering John Ternus is [&#8230;]]]>
+      </description>
+      <source:markdown>Anthony Ha (MacRumors, Hacker News): Apple is getting serious about succession planning, according to a new report in The Financial Times.The company’s board and senior executives are reportedly preparing for the possibility that Tim Cook could step down as CEO as soon as early next year.\[…\]Apple’s senior vice president of hardware engineering John Ternus is \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=50099</guid>
+    </item>    <item>
+      <title>iOS 26.2: Third-Party Voice Assistants in Japan</title>
+      <link>https://mjtsai.com/blog/2025/11/18/ios-26-2-third-party-voice-assistants-in-japan/</link>
+      <description>
+        <![CDATA[Juli Clover: Following signs of new Side Button functionality in the iOS 26.2 beta 3 update, Apple developer documentation has confirmed that assigning a third-party voice assistant to the Side Button will be a feature available to iPhone users in Japan. [&#8230;] Apple makes it clear that the option to activate a third-party personal assistant [&#8230;]]]>
+      </description>
+      <source:markdown>Juli Clover: Following signs of new Side Button functionality in the iOS 26.2 beta 3 update, Apple developer documentation has confirmed that assigning a third-party voice assistant to the Side Button will be a feature available to iPhone users in Japan. \[…\] Apple makes it clear that the option to activate a third-party personal assistant \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=50097</guid>
+    </item>    <item>
+      <title>Wednesday 19 November, 2025</title>
+      <link>https://memex.naughtons.org/wednesday-19-november-2025/41385/</link>
+      <description>
+        <![CDATA[Man Ray’s spectacles? I’ve always been fascinated by Man Ray, the surrealist painter and photographer. Yesterday, I was struck by the shadows cast by this pair of spectacles in strong sunlight, and thought of him. So I pressed the button, &#8230; <a href="https://memex.naughtons.org/wednesday-19-november-2025/41385/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>Man Ray’s spectacles? I’ve always been fascinated by Man Ray, the surrealist painter and photographer. Yesterday, I was struck by the shadows cast by this pair of spectacles in strong sunlight, and thought of him. So I pressed the button, … [Continue reading →](https://memex.naughtons.org/wednesday-19-november-2025/41385/)</source:markdown>
+      <guid>cid://https://memex.naughtons.org/?p=41385</guid>
+    </item>    <item>
+      <title>The Child Rape Allegations Against Trump: New Information</title>
+      <link>https://www.borowitzreport.com/p/the-child-rape-allegations-against</link>
+      <description>
+        <![CDATA[The Andy Borowitz Show]]>
+      </description>
+      <source:markdown>The Andy Borowitz Show</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/179256645/d4f02314087bd49328796dead9312015.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/the-child-rape-allegations-against</guid>
+    </item>    <item>
+      <title>If we don’t raise wages at the bottom, we’re all cooked</title>
+      <link>https://robertreich.substack.com/p/if-we-dont-raise-wages-at-the-bottom</link>
+      <description>
+        <![CDATA[The Big Mac has a problem that&#8217;s partly due to the corporation that makes Big Macs]]>
+      </description>
+      <source:markdown>The Big Mac has a problem that’s partly due to the corporation that makes Big Macs</source:markdown>
+      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/W8OWhw-GXUU" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/if-we-dont-raise-wages-at-the-bottom</guid>
+    </item>    <item>
+      <title>FOSDEM CfP: Submit Talks for the Funding FOSS Devroom</title>
+      <link>https://nlnet.nl/news/2025/20251119-fosdem-funding-foss.html</link>
+      <guid>cid://https://nlnet.nl/news/2025/20251119-fosdem-funding-foss.html</guid>
+    </item>    <item>
+      <title>Sir, This Is a McDonald’s</title>
+      <link>https://www.thebulwark.com/p/trump-is-not-have-all-the-mentals-cognitive-functioning?r=9x4vy</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42399</guid>
+    </item>    <item>
+      <title>llm-gemini 0.27</title>
+      <link>https://simonwillison.net/2025/Nov/18/llm-gemini/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://github.com/simonw/llm-gemini/releases/tag/0.27">llm-gemini 0.27</a></strong></p>
+        New release of my LLM plugin for Google's Gemini models:</p>
+        <blockquote>
+        <ul>
+        <li>Support for nested schemas in Pydantic, thanks <a href="https://github.com/billpugh">Bill Pugh</a>. <a href="https://github.com/simonw/llm-gemini/pull/107">#107</a></li>
+        <li>Now tests against Python 3.14.</li>
+        <li>Support for YouTube URLs as attachments and the <code>media_resolution</code> option. Thanks, <a href="https://github.com/shuane">Duane Milne</a>. <a href="https://github.com/simonw/llm-gemini/pull/112">#112</a></li>
+        <li>New model: <code>gemini-3-pro-preview</code>. <a href="https://github.com/simonw/llm-gemini/issues/113">#113</a></li>
+        </ul>
+        </blockquote>
+        <p>The YouTube URL feature is particularly neat, taking advantage of <a href="https://ai.google.dev/gemini-api/docs/video-understanding#youtube">this API feature</a>. I used it against the <a href="https://simonwillison.net/2025/Nov/18/google-antigravity/">Google Antigravity launch video</a>:</p>
+        <pre><code>llm -m gemini-3-pro-preview \
+         -a 'https://www.youtube.com/watch?v=nTOVIGsqCuY' \
+         'Summary, with detailed notes about what this thing is and how it differs from regular VS Code, then a complete detailed transcript with timestamps'
+        </code></pre>
+        <p>Here's <a href="https://gist.github.com/simonw/9f30318ab47e0d177b4b523bb71d9540">the result</a>. A spot-check of the timestamps against points in the video shows them to be exactly right.
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/youtube">youtube</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a></p>]]>
+      </description>
+      <source:markdown>**[llm-gemini 0.27](https://github.com/simonw/llm-gemini/releases/tag/0.27)**
+
+New release of my LLM plugin for Google&#39;s Gemini models:
+
+&#62; - Support for nested schemas in Pydantic, thanks [Bill Pugh](https://github.com/billpugh). [#107](https://github.com/simonw/llm-gemini/pull/107)
+&#62; - Now tests against Python 3.14.
+&#62; - Support for YouTube URLs as attachments and the `media_resolution` option. Thanks, [Duane Milne](https://github.com/shuane). [#112](https://github.com/simonw/llm-gemini/pull/112)
+&#62; - New model: `gemini-3-pro-preview`. [#113](https://github.com/simonw/llm-gemini/issues/113)
+
+The YouTube URL feature is particularly neat, taking advantage of [this API feature](https://ai.google.dev/gemini-api/docs/video-understanding#youtube). I used it against the [Google Antigravity launch video](https://simonwillison.net/2025/Nov/18/google-antigravity/):
+
+```
+llm -m gemini-3-pro-preview \
+ -a &#39;https://www.youtube.com/watch?v=nTOVIGsqCuY&#39; \
+ &#39;Summary, with detailed notes about what this thing is and how it differs from regular VS Code, then a complete detailed transcript with timestamps&#39;
+
+```
+
+Here&#39;s [the result](https://gist.github.com/simonw/9f30318ab47e0d177b4b523bb71d9540). A spot-check of the timestamps against points in the video shows them to be exactly right.
+
+
+
+Tags: [projects](https://simonwillison.net/tags/projects), [youtube](https://simonwillison.net/tags/youtube), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [llm](https://simonwillison.net/tags/llm), [gemini](https://simonwillison.net/tags/gemini)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/18/llm-gemini/#atom-everything</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/18.html#a225905</link>
+      <description>
+        <![CDATA[Highly recommend this week's <a href="https://podcasts.apple.com/us/podcast/heather-cox-richardson-people-are-starved-for-facts/id1817225413?i=1000736787935">conversation</a> between Nicolle Wallace and Heather Cox Richardson. The contrast of their points of view is dramatic, the election wasn't a win for the Dems, it was a victory for the people.]]>
+      </description>
+      <source:markdown>Highly recommend this week&#39;s [conversation](https://podcasts.apple.com/us/podcast/heather-cox-richardson-people-are-starved-for-facts/id1817225413?i=1000736787935) between Nicolle Wallace and Heather Cox Richardson. The contrast of their points of view is dramatic, the election wasn&#39;t a win for the Dems, it was a victory for the people.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/18.html#a225905</guid>
+    </item>    <item>
+      <title>Making Dark Chocolate Hilarious</title>
+      <link>https://kottke.org/25/11/making-dark-chocolate-hilarious</link>
+      <guid>cid://tag:kottke.org,2025://5.47863</guid>
+    </item>    <item>
+      <title>MacWhisper has Automatic Speaker Recognition now</title>
+      <link>https://simonwillison.net/2025/Nov/18/macwhisper-speaker-recognition/#atom-everything</link>
+      <description>
+        <![CDATA[<p>Inspired by <a href="https://news.ycombinator.com/item?id=45970519#45971014">this conversation</a> on Hacker News I decided to upgrade <a href="https://goodsnooze.gumroad.com/l/macwhisper">MacWhisper</a> to try out NVIDIA Parakeet and the new Automatic Speaker Recognition feature.</p>
+        <p>It appears to work really well! Here's the result against <a href="https://static.simonwillison.net/static/2025/HMB-nov-4-2025.m4a">this 39.7MB m4a file</a> from my <a href="https://simonwillison.net/2025/Nov/18/gemini-3/#analyzing-a-city-council-meeting">Gemini 3 Pro write-up</a> this morning:</p>
+        <p><img alt="A screenshot of the MacWhisper transcription application interface displaying a file named &quot;HMB_compressed.&quot; The center panel shows a transcript of a City Council meeting. Speaker 2 begins, &quot;Thank you, Mr. Mayor, uh City Council... Victor Hernandez, Spanish interpreter,&quot; followed by Spanish instructions: &quot;Buenas noches, les queremos dejar saber a todos ustedes que pueden acceder lo que es el canal de Zoom...&quot; Speaker 1 responds, &quot;Thank you. Appreciate that. Can we please have a roll call?&quot; Speaker 3 then calls out &quot;Councilmember Johnson?&quot; and &quot;Councilmember Nagengast?&quot; to which Speaker 1 answers, &quot;Here.&quot; The interface includes metadata on the right indicating the model &quot;Parakeet v3&quot; and a total word count of 26,109." src="https://static.simonwillison.net/static/2025/macwhisper-parakeet.jpg" /></p>
+        <p>You can export the transcript with both timestamps and speaker names using the Share -&gt; Segments &gt; .json menu item:</p>
+        <p><img alt="A close-up of the MacWhisper interface showing the export dropdown menu with &quot;Segments&quot; selected. A secondary menu lists various file formats including .txt, .csv, and .pdf, with a red arrow pointing specifically to the &quot;.json&quot; option, set against the background of the meeting transcript." src="https://static.simonwillison.net/static/2025/macwhisper-export.jpg" /></p>
+        <p>Here's <a href="https://gist.github.com/simonw/2149eb880142561b8fccf1866bc16767">the resulting JSON</a>.</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/whisper">whisper</a>, <a href="https://simonwillison.net/tags/nvidia">nvidia</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/speech-to-text">speech-to-text</a>, <a href="https://simonwillison.net/tags/macwhisper">macwhisper</a></p>]]>
+      </description>
+      <source:markdown>Inspired by [this conversation](https://news.ycombinator.com/item?id=45970519#45971014) on Hacker News I decided to upgrade [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) to try out NVIDIA Parakeet and the new Automatic Speaker Recognition feature.
+
+It appears to work really well! Here&#39;s the result against [this 39.7MB m4a file](https://static.simonwillison.net/static/2025/HMB-nov-4-2025.m4a) from my [Gemini 3 Pro write-up](https://simonwillison.net/2025/Nov/18/gemini-3/#analyzing-a-city-council-meeting) this morning:
+
+![A screenshot of the MacWhisper transcription application interface displaying a file named &#34;HMB_compressed.&#34; The center panel shows a transcript of a City Council meeting. Speaker 2 begins, &#34;Thank you, Mr. Mayor, uh City Council... Victor Hernandez, Spanish interpreter,&#34; followed by Spanish instructions: &#34;Buenas noches, les queremos dejar saber a todos ustedes que pueden acceder lo que es el canal de Zoom...&#34; Speaker 1 responds, &#34;Thank you. Appreciate that. Can we please have a roll call?&#34; Speaker 3 then calls out &#34;Councilmember Johnson?&#34; and &#34;Councilmember Nagengast?&#34; to which Speaker 1 answers, &#34;Here.&#34; The interface includes metadata on the right indicating the model &#34;Parakeet v3&#34; and a total word count of 26,109.](https://static.simonwillison.net/static/2025/macwhisper-parakeet.jpg)
+
+You can export the transcript with both timestamps and speaker names using the Share -&#62; Segments &#62; .json menu item:
+
+![A close-up of the MacWhisper interface showing the export dropdown menu with &#34;Segments&#34; selected. A secondary menu lists various file formats including .txt, .csv, and .pdf, with a red arrow pointing specifically to the &#34;.json&#34; option, set against the background of the meeting transcript.](https://static.simonwillison.net/static/2025/macwhisper-export.jpg)
+
+Here&#39;s [the resulting JSON](https://gist.github.com/simonw/2149eb880142561b8fccf1866bc16767).
+
+Tags: [whisper](https://simonwillison.net/tags/whisper), [nvidia](https://simonwillison.net/tags/nvidia), [ai](https://simonwillison.net/tags/ai), [speech-to-text](https://simonwillison.net/tags/speech-to-text), [macwhisper](https://simonwillison.net/tags/macwhisper)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/18/macwhisper-speaker-recognition/#atom-everything</guid>
+    </item>    <item>
+      <title>Edward O. Wilson in 2009: &#38;#8220;The real problem of humanity is the...</title>
+      <link>https://kottke.org/25/11/0047871-edward-o-wilson-in-2009</link>
+      <guid>cid://tag:kottke.org,2025://13.47871</guid>
+    </item>    <item>
       <title>Never mind Cloudflare; the electricity has gone out in our street. It’s actually kinda nice, playing mandolin by candlelight.</title>
       <link>https://adactio.com/notes/22257</link>
       <description>
@@ -193,7 +639,7 @@ It’s actually kinda nice, playing mandolin by candlelight.</source:markdown>
         <p>It worked OK at first then gave me an "Agent execution terminated due to model provider overload. Please try again later" error. I'm going to give it another go after they've had a chance to work through those initial launch jitters.
         
         
-            <p>Tags: <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/vs-code">vs-code</a></p>]]>
+            <p>Tags: <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/vs-code">vs-code</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a></p>]]>
       </description>
       <source:markdown>**[Google Antigravity](https://antigravity.google/)**
 
@@ -215,7 +661,7 @@ It worked OK at first then gave me an &#34;Agent execution terminated due to mod
 
 
 
-Tags: [google](https://simonwillison.net/tags/google), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [gemini](https://simonwillison.net/tags/gemini), [vs-code](https://simonwillison.net/tags/vs-code)</source:markdown>
+Tags: [google](https://simonwillison.net/tags/google), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [gemini](https://simonwillison.net/tags/gemini), [vs-code](https://simonwillison.net/tags/vs-code), [coding-agents](https://simonwillison.net/tags/coding-agents)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Nov/18/google-antigravity/#atom-everything</guid>
     </item>    <item>
       <title>The Fascinating History of Tarot Card Decks: From the Renaissance to the...</title>
@@ -573,6 +1019,7 @@ https://rsdoiel.github.io/blog/2025/11/17/text\_fragment\_links\_a\_social\_expr
         <p><img src="https://static.simonwillison.net/static/2025/gpt-5-1-breeding-pelican.png" alt="The pelican is very round. Its body overlaps much of the bicycle. It has a lot of dorky charisma." style="max-width: 100%;" /></p>
         <p>And Claude Sonnet 4.5, which <a href="https://gist.github.com/simonw/3296af92e4328dd4740385e6a4a2ac35">didn't do quite as well</a>:</p>
         <p><img src="https://static.simonwillison.net/static/2025/claude-sonnet-4-5-breeding-pelican.png" alt="Oh dear. It has all of the requested components, but the bicycle is a bit wrong and the pelican is arranged in a very awkward shape." style="max-width: 100%;" /></p>
+        <p>None of the models seem to have caught on to the crucial detail that the California brown pelican is not, in fact, brown.</p>
             
                 <p>Tags: <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a></p>]]>
       </description>
@@ -871,6 +1318,8 @@ And Claude Sonnet 4.5, which [didn&#39;t do quite as well](https://gist.github.c
 
 ![Oh dear. It has all of the requested components, but the bicycle is a bit wrong and the pelican is arranged in a very awkward shape.](https://static.simonwillison.net/static/2025/claude-sonnet-4-5-breeding-pelican.png)
 
+None of the models seem to have caught on to the crucial detail that the California brown pelican is not, in fact, brown.
+
 Tags: [google](https://simonwillison.net/tags/google), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [llm](https://simonwillison.net/tags/llm), [gemini](https://simonwillison.net/tags/gemini), [llm-pricing](https://simonwillison.net/tags/llm-pricing), [pelican-riding-a-bicycle](https://simonwillison.net/tags/pelican-riding-a-bicycle), [llm-reasoning](https://simonwillison.net/tags/llm-reasoning), [llm-release](https://simonwillison.net/tags/llm-release)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Nov/18/gemini-3/#atom-everything</guid>
     </item>    <item>
@@ -899,6 +1348,15 @@ Tags: [google](https://simonwillison.net/tags/google), [ai](https://simonwilliso
       <title>Gurman Says Apple Has No Plans to Update the Mac Pro</title>
       <link>https://www.bloomberg.com/news/newsletters/2025-11-16/apple-s-iphone-road-map-iphone-air-2-iphone-18-mac-pro-future-tesla-carplay-mi1q4l2o</link>
       <guid>cid://tag:daringfireball.net,2025:/linked//6.42397</guid>
+    </item>    <item>
+      <title>434: ‘Knee-Jerk Contrarian’, With Dan Frommer</title>
+      <link>https://daringfireball.net/thetalkshow/2025/11/18/ep-434</link>
+      <description>
+        <![CDATA[Special guest Dan Frommer returns to the show. Topics include the indie media business, the iPhone Pocket, the iPhone Air (including rumors about the second generation model), AI “personalities”, and five years of Apple Silicon Macs. Also, six years of Dan’s site, The New Consumer.]]>
+      </description>
+      <source:markdown>Special guest Dan Frommer returns to the show. Topics include the indie media business, the iPhone Pocket, the iPhone Air (including rumors about the second generation model), AI “personalities”, and five years of Apple Silicon Macs. Also, six years of Dan’s site, The New Consumer.</source:markdown>
+      <enclosure url="https://traffic.libsyn.com/secure/daringfireball/thetalkshow-434-dan-frommer.mp3" length="55002746" type="audio/mpeg" />
+      <guid>cid://https://daringfireball.net/thetalkshow/2025/11/18/ep-434</guid>
     </item>    <item>
       <link>http://scripting.com/2025/11/18.html#a175706</link>
       <description>
@@ -982,6 +1440,10 @@ Tags: [google](https://simonwillison.net/tags/google), [ai](https://simonwilliso
 
 [https://doctorow.medium.com/https-pluralistic-net-2025-11-18-im-not-bad-im-just-drawn-that-way-8cde6fd19a8a](https://doctorow.medium.com/https-pluralistic-net-2025-11-18-im-not-bad-im-just-drawn-that-way-8cde6fd19a8a)</source:markdown>
       <guid>cid://https://mastodon.social/@Migueldeicaza/115571578066393889</guid>
+    </item>    <item>
+      <title>Fantastic and useful little design touch on this website that sells lighting...</title>
+      <link>https://kottke.org/25/11/0047860-fantastic-and-useful-litt</link>
+      <guid>cid://tag:kottke.org,2025://13.47860</guid>
     </item>    <item>
       <title>Ignite 2025: Furthering Windows as the premier platform for developers, governed by security</title>
       <link>https://blogs.windows.com/windowsdeveloper/2025/11/18/ignite-2025-furthering-windows-as-the-premier-platform-for-developers-governed-by-security/</link>
@@ -4685,7 +5147,7 @@ Tags: [openai](https://simonwillison.net/tags/openai), [privacy](https://simonwi
         <blockquote><p>we do not hill climb on svg art</p></blockquote>
         
         <p>People also ask if they're training on my published collection. If they are that would be a big mistake, because a model trained on <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle/">these examples</a> will produce some <em>very</em> weird looking pelicans.</p>
-        <p>Truth be told, I'm <strong>playing the long game</strong> here. All I've ever wanted from life is a genuinely great SVG vector illustration of a pelican riding a bicycle. My dastardly multi-year plan is to trick multiple AI labs into investing vast resources to cheat at my benchmark until I get one.</p>
+        <p id="dastardly-scheme">Truth be told, I'm <strong>playing the long game</strong> here. All I've ever wanted from life is a genuinely great SVG vector illustration of a pelican riding a bicycle. My dastardly multi-year plan is to trick multiple AI labs into investing vast resources to cheat at my benchmark until I get one.</p>
             
                 <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a></p>]]>
       </description>
@@ -19672,992 +20134,6 @@ And the _real_ takeaway:
       </description>
       <source:markdown>Go 1.25 includes a new experimental garbage collector, Green Tea.</source:markdown>
       <guid>cid://tag:blog.golang.org,2013:blog.golang.org/greenteagc</guid>
-    </item>    <item>
-      <link>https://wp.feedland.org/</link>
-      <description>
-        <![CDATA[<p>My WordPress News page is faster and shows better on phones. And lots of new sources.</p>]]>
-      </description>
-      <source:markdown>My WordPress News page is faster and shows better on phones. And lots of new sources.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/28/1725/</guid>
-    </item>    <item>
-      <title>Well, that didn’t work</title>
-      <link>https://doc.searls.com/2025/10/28/19611/</link>
-      <description>
-        <![CDATA[I had a whole post that disappeared. This is where it would have been. The categories give a little away. Live and re-learn.]]>
-      </description>
-      <source:markdown>I had a whole post that disappeared. This is where it would have been. The categories give a little away. Live and re-learn.</source:markdown>
-      <guid>cid://https://doc.searls.com/2025/10/28/19611/</guid>
-    </item>    <item>
-      <title>This week’s TO SHARE video</title>
-      <link>https://robertreich.substack.com/p/this-weeks-to-share-video</link>
-      <description>
-        <![CDATA[Why it&#8217;s urgent to vote YES on California Proposition 50]]>
-      </description>
-      <source:markdown>Why it’s urgent to vote YES on California Proposition 50</source:markdown>
-      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/A4HxgFNrHK8" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/this-weeks-to-share-video</guid>
-    </item>    <item>
-      <title>Published on Citation Needed: &#34;Issue 95 – The pardon was the payoff&#34;</title>
-      <link>https://citationneeded.news/issue-95</link>
-      <guid>cid://69013c201ecb9eb40d8c85ac</guid>
-    </item>    <item>
-      <title>This is Doom, running headless, on Ubuntu Arm… on a satellite</title>
-      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/10/28/doom_running_in_space/</link>
-      <description>
-        <![CDATA[<h4><span class="label">Ubuntu Summit</span> Ólafur Waage has an unusual take on &#34;will it run Doom?&#34;</h4>
-              <p>Doom takes place on Mars, but up until recently, it has only been played on Earth. However, at the Ubuntu Summit, one enterprising developer explained how he extended the well-established &#34;will it run Doom?&#34; meme all the way into space.</p>]]>
-      </description>
-      <source:markdown>#### Ubuntu Summit Ólafur Waage has an unusual take on &#34;will it run Doom?&#34;
-
-Doom takes place on Mars, but up until recently, it has only been played on Earth. However, at the Ubuntu Summit, one enterprising developer explained how he extended the well-established &#34;will it run Doom?&#34; meme all the way into space.</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242711</guid>
-    </item>    <item>
-      <title>A Third Term for Trump?</title>
-      <link>https://www.telos.news/p/a-third-term-for-trump</link>
-      <description>
-        <![CDATA[PLUS: The destruction of the East Wing (and the corporate donors who made it happen), and Kamala Harris&#8217;s 2028 trial balloon.]]>
-      </description>
-      <source:markdown>PLUS: The destruction of the East Wing (and the corporate donors who made it happen), and Kamala Harris’s 2028 trial balloon.</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/177290566/a047c9a40da5b7106d6b47f457c5fb31.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://www.telos.news/p/a-third-term-for-trump</guid>
-    </item>    <item>
-      <title>Trump Admin’s Racist Halo Memes Are ‘A New Level of Dehumanization of Immigrants’</title>
-      <link>https://www.404media.co/trump-admins-racist-halo-memes-are-a-new-level-of-dehumanization-of-immigrants/</link>
-      <description>
-        <![CDATA["The White House just marked the end of the console wars; DHS is posting deep fried Halo memes. We are somewhere else entirely."]]>
-      </description>
-      <source:markdown>&#34;The White House just marked the end of the console wars; DHS is posting deep fried Halo memes. We are somewhere else entirely.&#34;</source:markdown>
-      <guid>cid://69013142b03958000185fcdd</guid>
-    </item>    <item>
-      <title>★ Thoughts, Observations, and Links Regarding ChatGPT Atlas</title>
-      <link>https://daringfireball.net/2025/10/thoughts_observations_and_links_regarding_chatgpt_atlas</link>
-      <description>
-        <![CDATA[Most people’s primary computing devices are their phones — and even for people whose primary devices are desktop computers, their phones are much-used satellite devices. And on both iOS and Android alike, people live their mobile digital lives through native apps, not websites.]]>
-      </description>
-      <source:markdown>Most people’s primary computing devices are their phones — and even for people whose primary devices are desktop computers, their phones are much-used satellite devices. And on both iOS and Android alike, people live their mobile digital lives through native apps, not websites.</source:markdown>
-      <guid>cid://tag:daringfireball.net,2025://1.42325</guid>
-    </item>    <item>
-      <title>Tucker Carlson Just Showed Us the Future—And It’s Worse Than We Thought</title>
-      <link>https://www.notesfromthecircus.com/p/tucker-carlson-just-showed-us-the</link>
-      <description>
-        <![CDATA[Tucker Carlson sat down with Nick Fuentes yesterday.]]>
-      </description>
-      <source:markdown>Tucker Carlson sat down with Nick Fuentes yesterday.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!3XPW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73274bc1-cf08-41b6-83ed-c5ad5eda6910_7591x5319.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.notesfromthecircus.com/p/tucker-carlson-just-showed-us-the</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/10/28.html#a194324</link>
-      <description>
-        <![CDATA[I checked out Elon Musk's <a href="https://en.wikipedia.org/wiki/Grokipedia">answer</a> to Wikipedia by going to the pages on <a href="https://grokipedia.com/page/Wikipedia">his site</a> that Wikipedia mangles the most, in my experience. It looks like they basically copied Wikipedia, if so it's no better or worse. They'll probably be able to improve it, because ChatGPT tells a much closer to actual-events story. Net-net getting the story right is more important imho than keeping democracy open to trolls.]]>
-      </description>
-      <source:markdown>I checked out Elon Musk&#39;s [answer](https://en.wikipedia.org/wiki/Grokipedia) to Wikipedia by going to the pages on [his site](https://grokipedia.com/page/Wikipedia) that Wikipedia mangles the most, in my experience. It looks like they basically copied Wikipedia, if so it&#39;s no better or worse. They&#39;ll probably be able to improve it, because ChatGPT tells a much closer to actual-events story. Net-net getting the story right is more important imho than keeping democracy open to trolls.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/28.html#a194324</guid>
-    </item>    <item>
-      <link>https://www.theatlantic.com/politics/archive/2025/10/canada-us-foreign-policy-trump/684719/?gift=f35zZN0v_gDFE8xNwlQAHarxgsf8KbwKKHzxNoBJMzk&#38;utm_source=copy-link&#38;utm_medium=social&#38;utm_campaign=share</link>
-      <description>
-        <![CDATA[<p>Canada Needs a New Bestie.</p>]]>
-      </description>
-      <source:markdown>Canada Needs a New Bestie.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/28/1723/</guid>
-    </item>    <item>
-      <link>https://wordpress.com/blog/2025/10/28/food-blog-examples/</link>
-      <description>
-        <![CDATA[<p>11 Delicious Food Blog Examples to Savor and Learn From.</p>]]>
-      </description>
-      <source:markdown>11 Delicious Food Blog Examples to Savor and Learn From.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/28/1721/</guid>
-    </item>    <item>
-      <title>On the frontier of caring</title>
-      <link>https://doc.searls.com/2025/10/28/on-the-frontier-of-caring/</link>
-      <description>
-        <![CDATA[Adopt a Station is a way to compensate for the funding lost to US public radio stations when the CPB shut down. No state is more dependent on public radio, or hurt by lost CPB funding, than Alaska. Here is a table of all the stations there, with graphs showing how much lost funding they [&#8230;]]]>
-      </description>
-      <source:markdown>Adopt a Station is a way to compensate for the funding lost to US public radio stations when the CPB shut down. No state is more dependent on public radio, or hurt by lost CPB funding, than Alaska. Here is a table of all the stations there, with graphs showing how much lost funding they \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/2025/10/28/on-the-frontier-of-caring/</guid>
-    </item>    <item>
-      <title>AirTrafficDevice: Ignored, Reluctantly Fixed, No CVE, No Bounty</title>
-      <link>https://mjtsai.com/blog/2025/10/28/airtrafficdevice-ignored-reluctantly-fixed-no-cve-no-bounty/</link>
-      <description>
-        <![CDATA[Rosyna Keller: I wholly and utterly believe in the principle behind Apple&#8217;s App Tracking Transparency initiative. I therefore consider anything that is both uniquely tied to a user andavailable when &#8220;Allow Apps to Request to Track&#8220; is disabled to be a gross violation of the spirit of App Tracking Transparency.[&#8230;]While Apple has fixed 3-4 (search [&#8230;]]]>
-      </description>
-      <source:markdown>Rosyna Keller: I wholly and utterly believe in the principle behind Apple’s App Tracking Transparency initiative. I therefore consider anything that is both uniquely tied to a user andavailable when “Allow Apps to Request to Track“ is disabled to be a gross violation of the spirit of App Tracking Transparency.\[…\]While Apple has fixed 3-4 (search \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49819</guid>
-    </item>    <item>
-      <title>Reddit Sues SerpApi</title>
-      <link>https://mjtsai.com/blog/2025/10/28/reddit-sues-serpapi/</link>
-      <description>
-        <![CDATA[Mike Isaac (PDF): Practically overnight, a class of companies like SerpApi &#8212; known as &#8220;data scrapers&#8221; &#8212; found a new business selling data scraped from Google to companies looking to train their A.I. chatbots. On Wednesday, the internet message board Reddit decided to fight the data scrapers. It filed a lawsuit in the U.S. District [&#8230;]]]>
-      </description>
-      <source:markdown>Mike Isaac (PDF): Practically overnight, a class of companies like SerpApi — known as “data scrapers” — found a new business selling data scraped from Google to companies looking to train their A.I. chatbots. On Wednesday, the internet message board Reddit decided to fight the data scrapers. It filed a lawsuit in the U.S. District \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49817</guid>
-    </item>    <item>
-      <title>“LG” Spotlight Indexing Bug</title>
-      <link>https://mjtsai.com/blog/2025/10/28/lg-spotlight-indexing-bug/</link>
-      <description>
-        <![CDATA[Howard Oakley: There&#8217;s a bug in Spotlight that can prevent it from indexing any of the contents of susceptible text files. This has been present since macOS 13 Ventura if not before, and is still present in Tahoe 26.0.1. [&#8230;] To demonstrate this bug, all you need is a single UTF-8 plain text file, created [&#8230;]]]>
-      </description>
-      <source:markdown>Howard Oakley: There’s a bug in Spotlight that can prevent it from indexing any of the contents of susceptible text files. This has been present since macOS 13 Ventura if not before, and is still present in Tahoe 26.0.1. \[…\] To demonstrate this bug, all you need is a single UTF-8 plain text file, created \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49815</guid>
-    </item>    <item>
-      <title>a16z Is Funding a &#39;Speedrun&#39; to AI-Generated Hell on Earth</title>
-      <link>https://www.404media.co/a16z-is-funding-a-speedrun-to-ai-generated-hell-on-earth/</link>
-      <description>
-        <![CDATA[Do you want ‘AI-powered social orbits,’ ‘autonomous recruiting firms,’ and an ‘AI-powered credit card?’ Too bad, you’re getting them anyway.]]>
-      </description>
-      <source:markdown>Do you want ‘AI-powered social orbits,’ ‘autonomous recruiting firms,’ and an ‘AI-powered credit card?’ Too bad, you’re getting them anyway.</source:markdown>
-      <guid>cid://69010676b03958000185f425</guid>
-    </item>    <item>
-      <link>https://www.theatlantic.com/magazine/archive/2025/12/2026-midterms-trump-threat/684615/?gift=hVZeG3M9DnxL4CekrWGK3-2SrhMTxvxvr23JppEIh0U</link>
-      <description>
-        <![CDATA[<p>Donald Trump’s Plan to Subvert the Midterms Is Already Under Way.</p>]]>
-      </description>
-      <source:markdown>Donald Trump’s Plan to Subvert the Midterms Is Already Under Way.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/28/1717/</guid>
-    </item>    <item>
-      <title>Hacking the WiFi-enabled color screen GitHub Universe conference badge</title>
-      <link>https://simonwillison.net/2025/Oct/28/github-universe-badge/#atom-everything</link>
-      <description>
-        <![CDATA[<p>I'm at <a href="https://githubuniverse.com/">GitHub Universe</a> this week (thanks to a free ticket from Microsoft). Yesterday I picked up my conference badge... which incorporates a <s>full Raspberry Pi</s> Raspberry Pi Pico microcontroller with a battery, color screen, WiFi and bluetooth.</p>
-        <p>GitHub Universe has a tradition of hackable conference badges - the badge last year had an eInk display. This year's is a huge upgrade though - a color screen and WiFI connection makes this thing a genuinely useful little computer!</p>
-        <p><img src="https://static.simonwillison.net/static/2025/gitub-universe-badge.jpg" alt="Photo of the badge - it has a color screen with six app icons" style="max-width: 100%;" /></p>
-        <p>The only thing it's missing is a keyboard - the device instead provides five buttons total - Up, Down, A, B, C. It might be possible to get a bluetooth keyboard to work though I'll believe that when I see it - there's not a lot of space on this device for a keyboard driver.</p>
-        <p>Everything is written using MicroPython, and the device is designed to be hackable: connect it to a laptop with a USB-C cable and you can start modifying the code directly on the device.</p>
-        <h4 id="getting-setup-with-the-badge">Getting setup with the badge</h4>
-        <p>Out of the box the badge will play an opening animation (implemented as a sequence of PNG image frames) and then show a home screen with six app icons.</p>
-        <p>The default apps are mostly neat Octocat-themed demos: a flappy-bird clone, a tamagotchi-style pet, a drawing app that works like an etch-a-sketch, an IR scavenger hunt for the conference venue itself (this thing has an IR sensor too!), and a gallery app showing some images.</p>
-        <p>The sixth app is a badge app. This will show your GitHub profile image and some basic stats, but will only work if you dig out a USB-C cable and make some edits to the files on the badge directly.</p>
-        <p>I did this on a Mac. I plugged a USB-C cable into the badge which caused MacOS to treat it as an attached drive volume. In that drive are several files including <code>secrets.py</code>. Open that up, confirm the WiFi details are correct and add your GitHub username. The file should look like this:</p>
-        <pre><span class="pl-c1">WIFI_SSID</span> <span class="pl-c1">=</span> <span class="pl-s">"..."</span>
-        <span class="pl-c1">WIFI_PASSWORD</span> <span class="pl-c1">=</span> <span class="pl-s">"..."</span>
-        <span class="pl-c1">GITHUB_USERNAME</span> <span class="pl-c1">=</span> <span class="pl-s">"simonw"</span></pre>
-        <p>The badge comes with the SSID and password for the GitHub Universe WiFi network pre-populated.</p>
-        <p>That's it! Unmount the disk, hit the reboot button on the back of the badge and when it comes back up again the badge app should look something like this:</p>
-        <p><img src="https://static.simonwillison.net/static/2025/badge-profile.jpg" alt="Badge shows my GitHub avatar, plus 10,947 followers, 4,083 contribs, 893 repos" style="max-width: 100%;" /></p>
-        <h4 id="building-your-own-apps">Building your own apps</h4>
-        <p>Here's <a href="https://badger.github.io/">the official documentation</a> for building software for the badge.</p>
-        <p>When I got mine yesterday the official repo had not yet been updated, so I had to figure this out myself.</p>
-        <p>I copied all of the code across to my laptop, added it to a Git repo and then fired up Claude Code and told it:</p>
-        <blockquote>
-        <p><code>Investigate this code and add a detailed README</code></p>
-        </blockquote>
-        <p>Here's <a href="https://github.com/simonw/github-universe-2025-badge/blob/15773c7a53275e7836216c3aa9a8a781c06f7859/README.md">the result</a>, which was really useful for getting a start on understanding how it all worked.</p>
-        <p>Each of the six default apps lives in a <code>apps/</code> folder, for example <a href="https://github.com/simonw/github-universe-2025-badge/tree/main/apps/sketch">apps/sketch/</a> for the sketching app.</p>
-        <p>There's also a menu app which powers the home screen. That lives in <a href="https://github.com/simonw/github-universe-2025-badge/tree/main/apps/menu">apps/menu/</a>. You can edit code in here to add new apps that you create to that screen.</p>
-        <p>I told Claude:</p>
-        <blockquote>
-        <p><code>Add a new app to it available from the menu which shows network status and other useful debug info about the machine it is running on</code></p>
-        </blockquote>
-        <p>This was a bit of a long-shot, but it totally worked!</p>
-        <p>The first version had an error:</p>
-        <p><img src="https://static.simonwillison.net/static/2025/badge-error.jpg" alt="A stacktrace! file badgeware.py line 510 has a list index out of range error." style="max-width: 100%;" /></p>
-        <p>I OCRd that photo (with the Apple Photos app) and pasted the message into Claude Code and it fixed the problem.</p>
-        <p>This almost worked... but the addition of a seventh icon to the 2x3 grid meant that you could select the icon but it didn't scroll into view. I had Claude <a href="https://github.com/simonw/github-universe-2025-badge/commit/2a60f75db101dc1dc7568ff466ad5c97dc86b336">fix that for me too</a>.</p>
-        <p>Here's the code for <a href="https://github.com/simonw/github-universe-2025-badge/blob/main/apps/debug/__init__.py">apps/debug/__init__.py</a>, and <a href="https://gistpreview.github.io/?276d3e0c6566ddbc93adc7020ef6b439">the full Claude Code transcript</a> created using my terminal-to-HTML app <a href="https://simonwillison.net/2025/Oct/23/claude-code-for-web-video/">described here</a>.</p>
-        <p>Here are the four screens of the debug app:</p>
-        <p><img src="https://static.simonwillison.net/static/2025/badge-debug-network.jpg" alt="Network info, showing WiFi network details and IP address" style="max-width: 100%;" /></p>
-        <p><img src="https://static.simonwillison.net/static/2025/badge-debug-storage.jpg" alt="Storage screen, it has 1MB total, 72BK used. Usage 7%. CMD is /system/apps/debug" style="max-width: 100%;" /></p>
-        <p><img src="https://static.simonwillison.net/static/2025/badge-debug-system.jpg" alt="System: Platform rp2, Python 1.26.0, CPU freq 200MHz, Uptime 13m46s" style="max-width: 100%;" /></p>
-        <p><img src="https://static.simonwillison.net/static/2025/badge-debug-memory.jpg" alt="Memory info - 100KB used, 241KB total, and a usage bar. Press B to run GC." style="max-width: 100%;" /></p>
-        <h4 id="an-icon-editor">An icon editor</h4>
-        <p>The icons used on the app are 24x24 pixels. I decided it would be neat to have a web app that helps build those icons, including the ability to start by creating an icon from an emoji.</p>
-        <p>I bulit this one <a href="https://claude.ai/share/ca05bd58-859e-4ceb-b5c7-7428b348df3c">using Claude Artifacts</a>. Here's the result, now available at <a href="https://tools.simonwillison.net/icon-editor">tools.simonwillison.net/icon-editor</a>:</p>
-        <p><img src="https://static.simonwillison.net/static/2025/icon-editor.jpg" alt="A stacktrace! file badgeware.py line 510 has a list index out of range error." style="max-width: 100%;" /></p>
-        <h4 id="and-a-repl">And a REPL</h4>
-        <p>I noticed that last year's badge configuration app (which I can't find in <a href="https://github.com/badger/badger.github.io/">github.com/badger/badger.github.io</a> any more, I think they reset the history on that repo?) worked by talking to MicroPython over the Web Serial API from Chrome. Here's <a href="https://github.com/simonw/2004-badger.github.io/blob/e3501d631a987bfbc12d93c9e35bf2c64e55d052/public/script.js#L305-L394">my archived copy of that code</a>.</p>
-        <p>Wouldn't it be useful to have a REPL in a web UI that you could use to interact with the badge directly over USB?</p>
-        <p>I pointed Claude Code at a copy of that repo and told it:</p>
-        <blockquote>
-        <p><code>Based on this build a new HTML with inline JavaScript page that uses WebUSB to simply test that the connection to the badge works and then list files on that device using the same mechanism</code></p>
-        </blockquote>
-        <p>It took a bit of poking (here's <a href="https://gistpreview.github.io/?13d93a9e3b0ce1c921cd20303f2f1d84">the transcript</a>) but the result is now live at <a href="https://tools.simonwillison.net/badge-repl">tools.simonwillison.net/badge-repl</a>. It only works in Chrome - you'll need to plug the badge in with a USB-C cable and then click "Connect to Badge".</p>
-        <p><img src="https://static.simonwillison.net/static/2025/badge-repl.jpg" alt="Badge Interactive REPL. Note: This tool requires the Web Serial API (Chrome/Edge on desktop). Connect to Badge, Disconnect and Clear Terminal buttons. Then a REPL interface displaying: Ready to connect. Click &quot;Connect to Badge&quot; to start.Traceback (most recent call last):ddae88e91.dirty on 2025-10-20; GitHub Badger with RP2350 Type &quot;help()&quot; for more information.  &gt;&gt;&gt;  MicroPython v1.14-5485.gddae88e91.dirty on 2025-10-20; GitHub Badger with RP2350 Type &quot;help()&quot; for more information. &gt;&gt;&gt; os.listdir() ['icon.py', 'ui.py', 'init.py', '._init.py', '._icon.py'] &gt;&gt;&gt; machine.freq() 200000000 &gt;&gt;&gt; gc.mem_free() 159696 &gt;&gt;&gt; help() Welcome to MicroPython!" style="max-width: 100%;" /></p>
-        <h4 id="get-hacking">Get hacking</h4>
-        <p>If you're a GitHub Universe attendee I hope this is useful. The official <a href="https://badger.github.io/">badger.github.io</a> site has plenty more details to help you get started.</p>
-        <p>There isn't yet a way to get hold of this hardware outside of GitHub Universe - I know they had some supply chain challenges just getting enough badges for the conference attendees!</p>
-        <p>It's a very neat device, built for GitHub by <a href="https://www.pimoroni.com/">Pimoroni</a> in Sheffield, UK. A version of this should become generally available in the future under the name "Pimoroni Tufty 2350".</p>
-        
-        <h4 id="iphone-only">Update: Setup with iPhone only</h4>
-        
-        <p>If you don't have a laptop with you it's still possible to start hacking on the device using just a USB-C cable.</p>
-        
-        <p>Plug the badge into the phone, hit the reset button on the back twice to switch it into disk mode and open the iPhone Files app - the badge should appear as a mounted disk called BADGER.</p>
-        
-        <p>I used <a href="https://apps.apple.com/us/app/textastic-code-editor/id1049254261">Textastic</a> to edit that <code>secrets.py</code> and configure a new badge, then hit reset again to restart it.</p>
-            
-                <p>Tags: <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/hardware-hacking">hardware-hacking</a>, <a href="https://simonwillison.net/tags/microsoft">microsoft</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/raspberry-pi">raspberry-pi</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/disclosures">disclosures</a></p>]]>
-      </description>
-      <source:markdown>I&#39;m at [GitHub Universe](https://githubuniverse.com/) this week (thanks to a free ticket from Microsoft). Yesterday I picked up my conference badge... which incorporates a full Raspberry Pi Raspberry Pi Pico microcontroller with a battery, color screen, WiFi and bluetooth.
-
-GitHub Universe has a tradition of hackable conference badges - the badge last year had an eInk display. This year&#39;s is a huge upgrade though - a color screen and WiFI connection makes this thing a genuinely useful little computer!
-
-![Photo of the badge - it has a color screen with six app icons](https://static.simonwillison.net/static/2025/gitub-universe-badge.jpg)
-
-The only thing it&#39;s missing is a keyboard - the device instead provides five buttons total - Up, Down, A, B, C. It might be possible to get a bluetooth keyboard to work though I&#39;ll believe that when I see it - there&#39;s not a lot of space on this device for a keyboard driver.
-
-Everything is written using MicroPython, and the device is designed to be hackable: connect it to a laptop with a USB-C cable and you can start modifying the code directly on the device.
-
-#### Getting setup with the badge
-
-Out of the box the badge will play an opening animation (implemented as a sequence of PNG image frames) and then show a home screen with six app icons.
-
-The default apps are mostly neat Octocat-themed demos: a flappy-bird clone, a tamagotchi-style pet, a drawing app that works like an etch-a-sketch, an IR scavenger hunt for the conference venue itself (this thing has an IR sensor too!), and a gallery app showing some images.
-
-The sixth app is a badge app. This will show your GitHub profile image and some basic stats, but will only work if you dig out a USB-C cable and make some edits to the files on the badge directly.
-
-I did this on a Mac. I plugged a USB-C cable into the badge which caused MacOS to treat it as an attached drive volume. In that drive are several files including `secrets.py`. Open that up, confirm the WiFi details are correct and add your GitHub username. The file should look like this:
-
-```
-WIFI_SSID = &#34;...&#34;
-WIFI_PASSWORD = &#34;...&#34;
-GITHUB_USERNAME = &#34;simonw&#34;
-```
-
-The badge comes with the SSID and password for the GitHub Universe WiFi network pre-populated.
-
-That&#39;s it! Unmount the disk, hit the reboot button on the back of the badge and when it comes back up again the badge app should look something like this:
-
-![Badge shows my GitHub avatar, plus 10,947 followers, 4,083 contribs, 893 repos](https://static.simonwillison.net/static/2025/badge-profile.jpg)
-
-#### Building your own apps
-
-Here&#39;s [the official documentation](https://badger.github.io/) for building software for the badge.
-
-When I got mine yesterday the official repo had not yet been updated, so I had to figure this out myself.
-
-I copied all of the code across to my laptop, added it to a Git repo and then fired up Claude Code and told it:
-
-&#62; `Investigate this code and add a detailed README`
-
-Here&#39;s [the result](https://github.com/simonw/github-universe-2025-badge/blob/15773c7a53275e7836216c3aa9a8a781c06f7859/README.md), which was really useful for getting a start on understanding how it all worked.
-
-Each of the six default apps lives in a `apps/` folder, for example [apps/sketch/](https://github.com/simonw/github-universe-2025-badge/tree/main/apps/sketch) for the sketching app.
-
-There&#39;s also a menu app which powers the home screen. That lives in [apps/menu/](https://github.com/simonw/github-universe-2025-badge/tree/main/apps/menu). You can edit code in here to add new apps that you create to that screen.
-
-I told Claude:
-
-&#62; `Add a new app to it available from the menu which shows network status and other useful debug info about the machine it is running on`
-
-This was a bit of a long-shot, but it totally worked!
-
-The first version had an error:
-
-![A stacktrace! file badgeware.py line 510 has a list index out of range error.](https://static.simonwillison.net/static/2025/badge-error.jpg)
-
-I OCRd that photo (with the Apple Photos app) and pasted the message into Claude Code and it fixed the problem.
-
-This almost worked... but the addition of a seventh icon to the 2x3 grid meant that you could select the icon but it didn&#39;t scroll into view. I had Claude [fix that for me too](https://github.com/simonw/github-universe-2025-badge/commit/2a60f75db101dc1dc7568ff466ad5c97dc86b336).
-
-Here&#39;s the code for [apps/debug/\_\_init\_\_.py](https://github.com/simonw/github-universe-2025-badge/blob/main/apps/debug/__init__.py), and [the full Claude Code transcript](https://gistpreview.github.io/?276d3e0c6566ddbc93adc7020ef6b439) created using my terminal-to-HTML app [described here](https://simonwillison.net/2025/Oct/23/claude-code-for-web-video/).
-
-Here are the four screens of the debug app:
-
-![Network info, showing WiFi network details and IP address](https://static.simonwillison.net/static/2025/badge-debug-network.jpg)
-
-![Storage screen, it has 1MB total, 72BK used. Usage 7%. CMD is /system/apps/debug](https://static.simonwillison.net/static/2025/badge-debug-storage.jpg)
-
-![System: Platform rp2, Python 1.26.0, CPU freq 200MHz, Uptime 13m46s](https://static.simonwillison.net/static/2025/badge-debug-system.jpg)
-
-![Memory info - 100KB used, 241KB total, and a usage bar. Press B to run GC.](https://static.simonwillison.net/static/2025/badge-debug-memory.jpg)
-
-#### An icon editor
-
-The icons used on the app are 24x24 pixels. I decided it would be neat to have a web app that helps build those icons, including the ability to start by creating an icon from an emoji.
-
-I bulit this one [using Claude Artifacts](https://claude.ai/share/ca05bd58-859e-4ceb-b5c7-7428b348df3c). Here&#39;s the result, now available at [tools.simonwillison.net/icon-editor](https://tools.simonwillison.net/icon-editor):
-
-![A stacktrace! file badgeware.py line 510 has a list index out of range error.](https://static.simonwillison.net/static/2025/icon-editor.jpg)
-
-#### And a REPL
-
-I noticed that last year&#39;s badge configuration app (which I can&#39;t find in [github.com/badger/badger.github.io](https://github.com/badger/badger.github.io/) any more, I think they reset the history on that repo?) worked by talking to MicroPython over the Web Serial API from Chrome. Here&#39;s [my archived copy of that code](https://github.com/simonw/2004-badger.github.io/blob/e3501d631a987bfbc12d93c9e35bf2c64e55d052/public/script.js#L305-L394).
-
-Wouldn&#39;t it be useful to have a REPL in a web UI that you could use to interact with the badge directly over USB?
-
-I pointed Claude Code at a copy of that repo and told it:
-
-&#62; `Based on this build a new HTML with inline JavaScript page that uses WebUSB to simply test that the connection to the badge works and then list files on that device using the same mechanism`
-
-It took a bit of poking (here&#39;s [the transcript](https://gistpreview.github.io/?13d93a9e3b0ce1c921cd20303f2f1d84)) but the result is now live at [tools.simonwillison.net/badge-repl](https://tools.simonwillison.net/badge-repl). It only works in Chrome - you&#39;ll need to plug the badge in with a USB-C cable and then click &#34;Connect to Badge&#34;.
-
-![Badge Interactive REPL. Note: This tool requires the Web Serial API (Chrome/Edge on desktop). Connect to Badge, Disconnect and Clear Terminal buttons. Then a REPL interface displaying: Ready to connect. Click &#34;Connect to Badge&#34; to start.Traceback (most recent call last):ddae88e91.dirty on 2025-10-20; GitHub Badger with RP2350 Type &#34;help()&#34; for more information.  &#62;&#62;&#62;  MicroPython v1.14-5485.gddae88e91.dirty on 2025-10-20; GitHub Badger with RP2350 Type &#34;help()&#34; for more information. &#62;&#62;&#62; os.listdir() [&#39;icon.py&#39;, &#39;ui.py&#39;, &#39;init.py&#39;, &#39;._init.py&#39;, &#39;._icon.py&#39;] &#62;&#62;&#62; machine.freq() 200000000 &#62;&#62;&#62; gc.mem_free() 159696 &#62;&#62;&#62; help() Welcome to MicroPython!](https://static.simonwillison.net/static/2025/badge-repl.jpg)
-
-#### Get hacking
-
-If you&#39;re a GitHub Universe attendee I hope this is useful. The official [badger.github.io](https://badger.github.io/) site has plenty more details to help you get started.
-
-There isn&#39;t yet a way to get hold of this hardware outside of GitHub Universe - I know they had some supply chain challenges just getting enough badges for the conference attendees!
-
-It&#39;s a very neat device, built for GitHub by [Pimoroni](https://www.pimoroni.com/) in Sheffield, UK. A version of this should become generally available in the future under the name &#34;Pimoroni Tufty 2350&#34;.
-
-#### Update: Setup with iPhone only
-
-If you don&#39;t have a laptop with you it&#39;s still possible to start hacking on the device using just a USB-C cable.
-
-Plug the badge into the phone, hit the reset button on the back twice to switch it into disk mode and open the iPhone Files app - the badge should appear as a mounted disk called BADGER.
-
-I used [Textastic](https://apps.apple.com/us/app/textastic-code-editor/id1049254261) to edit that `secrets.py` and configure a new badge, then hit reset again to restart it.
-
-Tags: [github](https://simonwillison.net/tags/github), [hardware-hacking](https://simonwillison.net/tags/hardware-hacking), [microsoft](https://simonwillison.net/tags/microsoft), [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [raspberry-pi](https://simonwillison.net/tags/raspberry-pi), [llms](https://simonwillison.net/tags/llms), [claude-code](https://simonwillison.net/tags/claude-code), [disclosures](https://simonwillison.net/tags/disclosures)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/28/github-universe-badge/#atom-everything</guid>
-    </item>    <item>
-      <title>The Guillotine Still Falls</title>
-      <link>https://www.notesfromthecircus.com/p/the-guillotine-still-falls</link>
-      <description>
-        <![CDATA[A love letter to the Enlightenment that both Effective Altruism and the dictatorship of virtue forgot]]>
-      </description>
-      <source:markdown>A love letter to the Enlightenment that both Effective Altruism and the dictatorship of virtue forgot</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!6Owh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd77c6785-f8b3-4363-bba4-1fee431bf729_4513x3385.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.notesfromthecircus.com/p/the-guillotine-still-falls</guid>
-    </item>    <item>
-      <title>Grokipedia Is the Antithesis of Everything That Makes Wikipedia Good, Useful, and Human</title>
-      <link>https://www.404media.co/grokipedia-is-the-antithesis-of-everything-that-makes-wikipedia-good-useful-and-human/</link>
-      <description>
-        <![CDATA[Grokipedia is not a 'Wikipedia competitor.' It is a fully robotic regurgitation machine designed to protect the ego of the world’s wealthiest man.]]>
-      </description>
-      <source:markdown>Grokipedia is not a &#39;Wikipedia competitor.&#39; It is a fully robotic regurgitation machine designed to protect the ego of the world’s wealthiest man.</source:markdown>
-      <guid>cid://6900f3a9b03958000185ee3f</guid>
-    </item>    <item>
-      <title>Attention, Lorax fans: we’re getting a new Dr. Seuss book.</title>
-      <link>https://lithub.com/attention-lorax-fans-were-getting-a-new-dr-seuss-book/</link>
-      <description>
-        <![CDATA[Ted Geisel, the doctor best known for spreading the gospel of green eggs and ham, has a deep bench of classic kid&#8217;s books. Dr. Seuss gave us cats in hats and star-bellied sneetches. He gave some of us our first]]>
-      </description>
-      <source:markdown>Ted Geisel, the doctor best known for spreading the gospel of green eggs and ham, has a deep bench of classic kid’s books. Dr. Seuss gave us cats in hats and star-bellied sneetches. He gave some of us our first</source:markdown>
-      <guid>cid://https://lithub.com/?p=261883</guid>
-    </item>    <item>
-      <title>Note published on October 28, 2025 at 4:33 PM UTC</title>
-      <link>https://www.mollywhite.net/micro/entry/202510281232</link>
-      <guid>cid://6900f0661ecb9eb40d8c856f</guid>
-    </item>    <item>
-      <title>Nisus Writer: Schrödinger’s Word Processor</title>
-      <link>https://tidbits.com/2025/10/25/nisus-writer-schrodingers-word-processor/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42324</guid>
-    </item>    <item>
-      <title>&#60;default:div xmlns=&#34;http://www.w3.org/1999/xhtml&#34; class=&#34;if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14&#34;/&#62;</title>
-      <link>https://tantek.com/2025/301/t1/hacktoberfest-registered-badge</link>
-      <guid>cid://https://tantek.com/2025/301/t1/hacktoberfest-registered-badge</guid>
-    </item>    <item>
-      <title>An Abundance of Inspiration</title>
-      <link>https://robinrendle.com/notes/an-abundance-of-inspiration/</link>
-      <guid>cid://https://robinrendle.com/notes/an-abundance-of-inspiration/</guid>
-    </item>    <item>
-      <title>Good news! A new fund will distribute $50 million to literary nonprofits.</title>
-      <link>https://lithub.com/good-news-a-new-fund-will-distribute-50-million-to-literary-nonprofits/</link>
-      <description>
-        <![CDATA[Several charitable groups—among them the Ford, Hawthornden, Lannan, MacArthur, Mellon, and Poetry foundations—are teaming up to launch the Literary Arts Fund, an effort to give the &#8220;essential yet critically underfunded&#8221; lit world a much-needed boost. The program, which earmarks funds]]>
-      </description>
-      <source:markdown>Several charitable groups—among them the Ford, Hawthornden, Lannan, MacArthur, Mellon, and Poetry foundations—are teaming up to launch the Literary Arts Fund, an effort to give the “essential yet critically underfunded” lit world a much-needed boost. The program, which earmarks funds</source:markdown>
-      <guid>cid://https://lithub.com/?p=261878</guid>
-    </item>    <item>
-      <title>Urchin (BIFF 11): ópera prima osadamente humanista</title>
-      <link>https://www.palomitademaiz.net/resenas-urchin-biff-11/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-urchin-biff-11</link>
-      <description>
-        <![CDATA[<p>Sección: Fantasmas del pasado. Dirección: Harris Dickinson. Guion: Harris Dickinson. Elenco: Frank Dillane, Megan Northam, Karyna Khymchuk, Harris Dickinson. Países: Reino Unido. Más información de la película: https://www.imdb.com/title/tt35715953/ El término anglosajón “urchin” se usa de forma peyorativa para referirse a los niños que habitan en la calle y usan prendas de vestir desgastadas. Aunque no [&#8230;]</p>
-        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-urchin-biff-11/">Urchin (BIFF 11): ópera prima osadamente humanista</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
-      </description>
-      <source:markdown>Sección: Fantasmas del pasado. Dirección: Harris Dickinson. Guion: Harris Dickinson. Elenco: Frank Dillane, Megan Northam, Karyna Khymchuk, Harris Dickinson. Países: Reino Unido. Más información de la película: https://www.imdb.com/title/tt35715953/ El término anglosajón “urchin” se usa de forma peyorativa para referirse a los niños que habitan en la calle y usan prendas de vestir desgastadas. Aunque no \[…\]
-
-La entrada [Urchin (BIFF 11): ópera prima osadamente humanista](https://www.palomitademaiz.net/resenas-urchin-biff-11/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
-      <guid>cid://https://www.palomitademaiz.net/?p=25674</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115452605579076623</link>
-      <description>
-        <![CDATA[<p>New mantra just dropped:<br /><a href="https://mastodon.social/@NeoNacho/115452541603549644" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@NeoNacho/1154</span><span class="invisible">52541603549644</span></a></p>]]>
-      </description>
-      <source:markdown>New mantra just dropped:
-
-[https://mastodon.social/@NeoNacho/115452541603549644](https://mastodon.social/@NeoNacho/115452541603549644)</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115452605579076623</guid>
-    </item>    <item>
-      <title>Cryosleep</title>
-      <link>https://adactio.com/journal/22219</link>
-      <description>
-        <![CDATA[<p>On the last day of <a href="https://uxlondon.com/">UX London</a> this year, I was sitting and chatting with <a href="https://www.rachelcoldicutt.com/">Rachel Coldicutt</a> who was going to be giving the closing keynote. Inevitably the topic of converstation worked its way ’round to “AI”. I remember Rachel having a good laugh when I summarised my overall feeling:</p>
-        
-        <blockquote>
-          <p>I kind of wish I could go into suspended animation and be woken up when all this is over and things have settled down one way or another.</p>
-        </blockquote>
-        
-        <p>I still feel that way. <a href="https://notetoself.studio/post/measured-ai/">Like Gina</a>, I’d welcome a measured approach to this technology. <a href="https://www.anildash.com/2025/10/17/the-majority-ai-view/">As Anil puts it</a>:</p>
-        
-        <blockquote>
-          <p>Technologies like LLMs have utility, but the absurd way they&#8217;ve been over-hyped, the fact they&#8217;re being forced on everyone, and the insistence on ignoring the many valid critiques about them make it very difficult to focus on legitimate uses where they might add value.</p>
-        </blockquote>
-        
-        <p>I very much look forward to using language models (probably small and local) to automate genuinely tedious tasks. That’s a very different vision to what the slopagandists are pushing. Or, <a href="https://www.wired.com/story/ai-normal-after-ai-plateaus/">like Paul Ford says</a>:</p>
-        
-        <blockquote>
-          <p>Make it boring. That’s what’s interesting.</p>
-        </blockquote>
-        
-        <p>Fortunately, my cryosleep-awakening probably isn&#8217;t be too far off. You can smell it in the air, that whiff of <a href="https://www.wired.com/story/ai-bubble-will-burst/">a bubble about to burst</a>. And while it will almost certainly be messy, it’s long overdue.</p>
-        
-        <p><a href="https://www.wired.com/story/ai-normal-after-ai-plateaus/">Paul Ford again</a>:</p>
-        
-        <blockquote>
-          <p>I’ve felt so alienated from tech over the past couple of years. Part of it is the craven authoritarianism. It dampens the mood. But another part is the monolithic narrative—the fact that we live in a world where there seem to be only a few companies, only a few stories going at any time, and everything reduces to politics. God, please let it end.</p>
-        </blockquote>]]>
-      </description>
-      <source:markdown>On the last day of [UX London](https://uxlondon.com/) this year, I was sitting and chatting with [Rachel Coldicutt](https://www.rachelcoldicutt.com/) who was going to be giving the closing keynote. Inevitably the topic of converstation worked its way ’round to “AI”. I remember Rachel having a good laugh when I summarised my overall feeling:
-
-&#62; I kind of wish I could go into suspended animation and be woken up when all this is over and things have settled down one way or another.
-
-I still feel that way. [Like Gina](https://notetoself.studio/post/measured-ai/), I’d welcome a measured approach to this technology. [As Anil puts it](https://www.anildash.com/2025/10/17/the-majority-ai-view/):
-
-&#62; Technologies like LLMs have utility, but the absurd way they’ve been over-hyped, the fact they’re being forced on everyone, and the insistence on ignoring the many valid critiques about them make it very difficult to focus on legitimate uses where they might add value.
-
-I very much look forward to using language models (probably small and local) to automate genuinely tedious tasks. That’s a very different vision to what the slopagandists are pushing. Or, [like Paul Ford says](https://www.wired.com/story/ai-normal-after-ai-plateaus/):
-
-&#62; Make it boring. That’s what’s interesting.
-
-Fortunately, my cryosleep-awakening probably isn’t be too far off. You can smell it in the air, that whiff of [a bubble about to burst](https://www.wired.com/story/ai-bubble-will-burst/). And while it will almost certainly be messy, it’s long overdue.
-
-[Paul Ford again](https://www.wired.com/story/ai-normal-after-ai-plateaus/):
-
-&#62; I’ve felt so alienated from tech over the past couple of years. Part of it is the craven authoritarianism. It dampens the mood. But another part is the monolithic narrative—the fact that we live in a world where there seem to be only a few companies, only a few stories going at any time, and everything reduces to politics. God, please let it end.</source:markdown>
-      <guid>cid://https://adactio.com/journal/22219</guid>
-    </item>    <item>
-      <title>Rogue Goodreads Librarian Edits Site to Expose &#39;Censorship in Favor of Trump Fascism’</title>
-      <link>https://www.404media.co/rogue-goodreads-librarian-edits-site-to-expose-censorship-in-favor-of-trump-fascism/</link>
-      <description>
-        <![CDATA[“When we let powerful people’s books be protected from criticism, we give up the right to hold power accountable.”]]>
-      </description>
-      <source:markdown>“When we let powerful people’s books be protected from criticism, we give up the right to hold power accountable.”</source:markdown>
-      <guid>cid://6900e226b03958000185e773</guid>
-    </item>    <item>
-      <title>ChatGPT’s Atlas: The Browser That’s Anti-Web - Anil Dash</title>
-      <link>https://www.anildash.com/2025/10/22/atlas-anti-web-browser/</link>
-      <description>
-        <![CDATA[<blockquote>
-          <p>I love the web, and this thing is bad for the web.</p>
-          
-          <ol>
-          <li>Atlas substitutes its own AI-generated content for the web, but it looks like it&#8217;s showing you the web</li>
-          <li>The user experience makes you guess what commands to type instead of clicking on links</li>
-          <li>You&#8217;re the agent for the browser, it&#8217;s not being an agent for you</li>
-          </ol>
-          
-          <p>It&#8217;s very clear that a lot of the new AI era is about dismantling the web&#8217;s original design.</p>
-        </blockquote>
-        
-        <p><a href="https://adactio.com/links/22218">adactio.com/links/22218</a></p>]]>
-      </description>
-      <source:markdown>&#62; I love the web, and this thing is bad for the web.
-&#62;
-&#62; 1. Atlas substitutes its own AI-generated content for the web, but it looks like it’s showing you the web
-&#62; 2. The user experience makes you guess what commands to type instead of clicking on links
-&#62; 3. You’re the agent for the browser, it’s not being an agent for you
-&#62;
-&#62; It’s very clear that a lot of the new AI era is about dismantling the web’s original design.
-
-[adactio.com/links/22218](https://adactio.com/links/22218)</source:markdown>
-      <guid>cid://https://www.anildash.com/2025/10/22/atlas-anti-web-browser/</guid>
-    </item>    <item>
-      <title>GSS Release</title>
-      <link>https://kieranhealy.org/blog/archives/2025/10/28/gss-release/</link>
-      <description>
-        <![CDATA[<figure><a href="https://kieranhealy.org/blog/archives/2025/10/28/gss-release/gss-immigration.png" data-fancybox>
-            <img src="https://kieranhealy.org/blog/archives/2025/10/28/gss-release/gss-immigration.png"
-                 alt="GSS immigration question"/></a><figcaption>
-                    <p>Trends in the <code>immameco</code> question.</p>
-                </figcaption>
-        </figure>
-        <p>Release 2 of the 2024 GSS cross-section and 1972-2024 culumative data are <a href="https://gss.norc.org/get-the-data.html">now available</a>. I&rsquo;ve updated <a href="https://kjhealy.github.io/gssr/"><code>gssr</code></a> and <a href="https://kjhealy.github.io/gssrdoc/"><code>gssrdoc</code></a> to incorporate them. There are quite a few changes in the data and variables, thanks in part to some changes in data collection methods and a privacy/disclosure review.</p>
-        <p>The <code>gssr</code> and <code>gssrdoc</code> packages are the nicest way to get General Social Survey data up and running in R. The figure above shows (survey-weighted) trends derived from the <a href="https://kjhealy.github.io/gssrdoc/reference/immameco.html"><code>immameco</code></a> question.</p>]]>
-      </description>
-      <source:markdown>[![GSS immigration question](https://kieranhealy.org/blog/archives/2025/10/28/gss-release/gss-immigration.png)](https://kieranhealy.org/blog/archives/2025/10/28/gss-release/gss-immigration.png)
-
-Trends in the `immameco` question.
-
-Release 2 of the 2024 GSS cross-section and 1972-2024 culumative data are [now available](https://gss.norc.org/get-the-data.html). I’ve updated [`gssr`](https://kjhealy.github.io/gssr/) and [`gssrdoc`](https://kjhealy.github.io/gssrdoc/) to incorporate them. There are quite a few changes in the data and variables, thanks in part to some changes in data collection methods and a privacy/disclosure review.
-
-The `gssr` and `gssrdoc` packages are the nicest way to get General Social Survey data up and running in R. The figure above shows (survey-weighted) trends derived from the [`immameco`](https://kjhealy.github.io/gssrdoc/reference/immameco.html) question.</source:markdown>
-      <guid>cid://https://kieranhealy.org/blog/archives/2025/10/28/gss-release/</guid>
-    </item>    <item>
-      <title>The Bathtub Curve</title>
-      <link>https://blog.dshr.org/2025/10/the-bathtub-curve.html</link>
-      <description>
-        <![CDATA[The economics of long-term data storage are critically dependent not just upon the Kryder rate, the rate at which the technology improves cost per byte, but also upon the reliability of the media over time. You want to replace media because they are no longer economic, not because they are no longer reliable despite still being economic.<br />
-        <br />
-        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvSdsUsY1pqdcH9sLvvQgIFQ5u8yJoNj7OXRXcQdKvgxpb1dFcWfOkJtsI5mXYZs7TQ1R1Hw8TAUpRRTZN5Me1EKhAuQcjKfhI6KkRnv5U2JRihfkYPhyphenhyphenU6UCpgjF1FiH9_QdLInJObFtSSGwOcfNkqJ9rpYSt1q2uM570Byj3j9lG3If4-XOBxoENi39q/s1024/Bathtub_curve.svg.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="724" data-original-width="1024" height="141" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvSdsUsY1pqdcH9sLvvQgIFQ5u8yJoNj7OXRXcQdKvgxpb1dFcWfOkJtsI5mXYZs7TQ1R1Hw8TAUpRRTZN5Me1EKhAuQcjKfhI6KkRnv5U2JRihfkYPhyphenhyphenU6UCpgjF1FiH9_QdLInJObFtSSGwOcfNkqJ9rpYSt1q2uM570Byj3j9lG3If4-XOBxoENi39q/w200-h141/Bathtub_curve.svg.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://en.wikipedia.org/wiki/Bathtub_curve">Source</a></td></tr></tbody></table>
-        For more than a decade Backblaze has been providing an important public service by publishing data on the reliability of their hard drives, and more recently their SSDs. Below the fold I comment on this month's post from their Drive Stats Team, <a href="https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/"><i>Are Hard Drives Getting Better? Let’s Revisit the Bathtub Curve</i></a>.<br />
-        <br />
-        Wikipedia defines the <a href="https://en.wikipedia.org/wiki/Bathtub_curve">Bathtub Curve</a> as a common concept in reliability engineering:<br />
-        <blockquote>
-        The 'bathtub' refers to the shape of a line that curves up at both ends, similar in shape to a bathtub. The bathtub curve has 3 regions:<br />
-        <ol>
-        <li>The first region has a decreasing failure rate due to early failures.</li>
-        <li>The middle region is a constant failure rate due to random failures.</li>
-        <li>The last region is an increasing failure rate due to wear-out failures.</li>
-        </ol>
-        </blockquote>
-        <span><a name='more'></a></span>
-        <br />
-        In 2017's <a href="https://blog.dshr.org/2017/10/storage-failures-in-field.html"><i>Storage Failures In The Field</i></a> I commented on Backblaze's observation that the 10TB and 12TB HDD generations showed much reduced infant mortality:<br />
-        <blockquote>
-        devoting engineering effort to reducing infant mortality can have a significant return on investment. A drive that fails early will be returned under warranty, costing the company money. A drive that fails after the warranty expires cannot be returned. Warranty costs must be reserved against in the company's accounts. Any reduction in the rate of early failures goes straight to the company's bottom line.
-        </blockquote>
-        Enterprise disks are typically warranted for 5 years, so a disk manufacturer is incentized to focus engineering effort on eliminating the "first region", the left side of the bathtub, and ensuring that the second region extends past the 5 year mark. Eight years ago Backblaze was starting to see that the <a href="https://arstechnica.com/gadgets/2017/10/big-hard-disks-may-be-breaking-the-bathtub-curve/">engineers were succeeding in the first region</a>:<br />
-        <blockquote>
-        While the data so far is very limited, with 1,240 disks and 14,220 aggregate drive days accumulated so far, none of these disks (both Seagate models) have failed. The low level of usage means that the disks have been installed and formatted and not much beyond that, but true infant mortality—disks that immediately expire on their first use—hasn’t become apparent.
-        </blockquote>
-        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmRDzXbUas3HJOCcRrFuXbResiGLpqgsvzWGO8laoDIqoiUEvWNUQDP8nvTXJYSpK8ya-OsziU0FbH15FgdHzM5E7oKIwS2eLf1_7-5UxdmHYMBiBqadV8lY52ov5Vb00YRrstyHJUSA22RJS4oz-RPHnWmRgmfm-5N5f6sRswNsXaoH0WkHCqjnajRdLV/s936/Bathtub_2_Legacy-comparison.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="630" data-original-width="936" height="134" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmRDzXbUas3HJOCcRrFuXbResiGLpqgsvzWGO8laoDIqoiUEvWNUQDP8nvTXJYSpK8ya-OsziU0FbH15FgdHzM5E7oKIwS2eLf1_7-5UxdmHYMBiBqadV8lY52ov5Vb00YRrstyHJUSA22RJS4oz-RPHnWmRgmfm-5N5f6sRswNsXaoH0WkHCqjnajRdLV/w200-h134/Bathtub_2_Legacy-comparison.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.backblaze.com/blog/drive-failure-over-time-the-bathtub-curve-is-leaking/">Source</a></td></tr></tbody></table>
-        Four years later in <a href="https://www.backblaze.com/blog/drive-failure-over-time-the-bathtub-curve-is-leaking/"><i>Drive Failure Over Time: The Bathtub Curve Is Leaking</i></a> Klein had some much stronger evidence:<br />
-        <blockquote>
-        The left side of the bathtub, the area of “decreasing failure rate,” is dramatically lower in 2021 than in 2013. In fact, for our 2021 curve, there is almost no left side of the bathtub, making it hard to take a bath, to say the least. We have reported how <a href="https://www.backblaze.com/blog/how-to-build-a-hard-drive-a-factory-tour/">Seagate breaks in and tests their newly manufactured hard drives</a> before shipping in an effort to lower the failure rates of their drives. Assuming all manufacturers do the same, that may explain some or all of this observation.
-        </blockquote>
-        Note that the engineers hadn't quite succeeded in the second region, as the 2021 failure rate for years 4 and 5 was noticeably higher than for younger drives. But they had succeeded in pushing the major increase in failures out beyond 5.5 years. Everything before that was less than 4% Annual Failure Rate (AFR).<br />
-        <br />
-        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVdS_BbXXAgHdtnupadIt7pznhRd_-TJGhYUE644i9V4UXxWYzPikeqcBikEyefV3Tlik_2bPJ-1EW9F8BwHzgtHHGMFYbBOvMhHRsF3Z3d9lJqVlaa-6_RB3j2Sxkvai7aNMgyMbwPxRAesjW6uB77OrhTWiV5YQANcQQ4JesmpJ3dGivHqQgPpfrp4j9/s936/Bathtub_3_Drive-failure-2025.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="578" data-original-width="936" height="124" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVdS_BbXXAgHdtnupadIt7pznhRd_-TJGhYUE644i9V4UXxWYzPikeqcBikEyefV3Tlik_2bPJ-1EW9F8BwHzgtHHGMFYbBOvMhHRsF3Z3d9lJqVlaa-6_RB3j2Sxkvai7aNMgyMbwPxRAesjW6uB77OrhTWiV5YQANcQQ4JesmpJ3dGivHqQgPpfrp4j9/w200-h124/Bathtub_3_Drive-failure-2025.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/">Source</a></td></tr></tbody></table>
-        Another four years later in the current graph things have changed quite a bit:<br />
-        <ul>
-        <li>For the first 5 years the AFR is under 2%.</li>
-        <li>For the first 5 years the AFR gradually increases, the first region has been completely eliminated.</li>
-        <li>For the three years after a 5-year warranty expires, the AFR is under 3%.</li>
-        <li>For the next two years the AFR drops, bottoming out around 1%.
-        </li><li>Everything out to 10 years has an AFR under 3%.</li>
-        <li>The third region starts with a spike at 10.5 years.</li>
-        <li>Even at 10.5 years the AFR is only just over 4%</li>
-        </ul>
-        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh90jMMDSrpHWVvJ6EE4gDEAlvdKMwYo0uKFntWX1F9cqyUpE9SqO69v3B_bAhxxLkFCFLES8MDDyp0pnTkBt-GSdT764gjH8EmAoY7do1-EY3AGbbTIVW67GFMXGM3WoYJ0ATeBswJIrUU4q3txbVYwGCWmJwMH84InBaaizHPnIK_xGoDUXTfhXm7uGc/s936/Bathtub_6_Drive-failure-total-comparison.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="580" data-original-width="936" height="124" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh90jMMDSrpHWVvJ6EE4gDEAlvdKMwYo0uKFntWX1F9cqyUpE9SqO69v3B_bAhxxLkFCFLES8MDDyp0pnTkBt-GSdT764gjH8EmAoY7do1-EY3AGbbTIVW67GFMXGM3WoYJ0ATeBswJIrUU4q3txbVYwGCWmJwMH84InBaaizHPnIK_xGoDUXTfhXm7uGc/w200-h124/Bathtub_6_Drive-failure-total-comparison.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/">Source</a></td></tr></tbody></table>
-        Backblaze's final graph puts all three sets of data in one graph and shows a dramatic improvement in drive longevity:<br />
-        <ul>
-        <li>Drives in 2013 were dramatically less reliable than in later years, both because their AFRs were consistently higher and because their AFR hit 13% after 3 years.</li>
-        <li>By 2021 the engineers had kept the AFR around 2% through the warranty, but the drives wore out rapidly in the 7th year.</li>
-        <li>Now, the drives are only showing signs of beginning to wear out at 10.5 years.</li>
-        </ul>
-        That is some serious engineering at the long end! And at the short end <a href="https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/">things are great</a>:<br />
-        <blockquote>
-        we see that the drive failure rates on the front end of the curve are also incredibly low—when a drive is between zero and one years old, we barely crack 1.30% AFR.
-        </blockquote>
-        The left side of the bathtub is really gone, improving the manufacturers' margins. But if I eyeball the 2025 graph's first 20 quarters I estimate the AFR averages 1.6%, which implies that over the 5-year warranty 8% of the drives failed. Clearly, the engineers still have work to do.<br />
-        <br />
-        Remember to check back in 2029 when Backblaze plans to return to this issue.<br />]]>
-      </description>
-      <source:markdown>The economics of long-term data storage are critically dependent not just upon the Kryder rate, the rate at which the technology improves cost per byte, but also upon the reliability of the media over time. You want to replace media because they are no longer economic, not because they are no longer reliable despite still being economic.
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvSdsUsY1pqdcH9sLvvQgIFQ5u8yJoNj7OXRXcQdKvgxpb1dFcWfOkJtsI5mXYZs7TQ1R1Hw8TAUpRRTZN5Me1EKhAuQcjKfhI6KkRnv5U2JRihfkYPhyphenhyphenU6UCpgjF1FiH9_QdLInJObFtSSGwOcfNkqJ9rpYSt1q2uM570Byj3j9lG3If4-XOBxoENi39q/w200-h141/Bathtub_curve.svg.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvSdsUsY1pqdcH9sLvvQgIFQ5u8yJoNj7OXRXcQdKvgxpb1dFcWfOkJtsI5mXYZs7TQ1R1Hw8TAUpRRTZN5Me1EKhAuQcjKfhI6KkRnv5U2JRihfkYPhyphenhyphenU6UCpgjF1FiH9_QdLInJObFtSSGwOcfNkqJ9rpYSt1q2uM570Byj3j9lG3If4-XOBxoENi39q/s1024/Bathtub_curve.svg.png)[Source](https://en.wikipedia.org/wiki/Bathtub_curve)
-For more than a decade Backblaze has been providing an important public service by publishing data on the reliability of their hard drives, and more recently their SSDs. Below the fold I comment on this month&#39;s post from their Drive Stats Team, [_Are Hard Drives Getting Better? Let’s Revisit the Bathtub Curve_](https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/).
-
-Wikipedia defines the [Bathtub Curve](https://en.wikipedia.org/wiki/Bathtub_curve) as a common concept in reliability engineering:
-
-&#62; The &#39;bathtub&#39; refers to the shape of a line that curves up at both ends, similar in shape to a bathtub. The bathtub curve has 3 regions:
-&#62;
-&#62; 1. The first region has a decreasing failure rate due to early failures.
-&#62; 2. The middle region is a constant failure rate due to random failures.
-&#62; 3. The last region is an increasing failure rate due to wear-out failures.
-
-In 2017&#39;s [_Storage Failures In The Field_](https://blog.dshr.org/2017/10/storage-failures-in-field.html) I commented on Backblaze&#39;s observation that the 10TB and 12TB HDD generations showed much reduced infant mortality:
-
-&#62; devoting engineering effort to reducing infant mortality can have a significant return on investment. A drive that fails early will be returned under warranty, costing the company money. A drive that fails after the warranty expires cannot be returned. Warranty costs must be reserved against in the company&#39;s accounts. Any reduction in the rate of early failures goes straight to the company&#39;s bottom line.
-
-Enterprise disks are typically warranted for 5 years, so a disk manufacturer is incentized to focus engineering effort on eliminating the &#34;first region&#34;, the left side of the bathtub, and ensuring that the second region extends past the 5 year mark. Eight years ago Backblaze was starting to see that the [engineers were succeeding in the first region](https://arstechnica.com/gadgets/2017/10/big-hard-disks-may-be-breaking-the-bathtub-curve/):
-
-&#62; While the data so far is very limited, with 1,240 disks and 14,220 aggregate drive days accumulated so far, none of these disks (both Seagate models) have failed. The low level of usage means that the disks have been installed and formatted and not much beyond that, but true infant mortality—disks that immediately expire on their first use—hasn’t become apparent.
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmRDzXbUas3HJOCcRrFuXbResiGLpqgsvzWGO8laoDIqoiUEvWNUQDP8nvTXJYSpK8ya-OsziU0FbH15FgdHzM5E7oKIwS2eLf1_7-5UxdmHYMBiBqadV8lY52ov5Vb00YRrstyHJUSA22RJS4oz-RPHnWmRgmfm-5N5f6sRswNsXaoH0WkHCqjnajRdLV/w200-h134/Bathtub_2_Legacy-comparison.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmRDzXbUas3HJOCcRrFuXbResiGLpqgsvzWGO8laoDIqoiUEvWNUQDP8nvTXJYSpK8ya-OsziU0FbH15FgdHzM5E7oKIwS2eLf1_7-5UxdmHYMBiBqadV8lY52ov5Vb00YRrstyHJUSA22RJS4oz-RPHnWmRgmfm-5N5f6sRswNsXaoH0WkHCqjnajRdLV/s936/Bathtub_2_Legacy-comparison.png)[Source](https://www.backblaze.com/blog/drive-failure-over-time-the-bathtub-curve-is-leaking/)
-Four years later in [_Drive Failure Over Time: The Bathtub Curve Is Leaking_](https://www.backblaze.com/blog/drive-failure-over-time-the-bathtub-curve-is-leaking/) Klein had some much stronger evidence:
-
-&#62; The left side of the bathtub, the area of “decreasing failure rate,” is dramatically lower in 2021 than in 2013. In fact, for our 2021 curve, there is almost no left side of the bathtub, making it hard to take a bath, to say the least. We have reported how [Seagate breaks in and tests their newly manufactured hard drives](https://www.backblaze.com/blog/how-to-build-a-hard-drive-a-factory-tour/) before shipping in an effort to lower the failure rates of their drives. Assuming all manufacturers do the same, that may explain some or all of this observation.
-
-Note that the engineers hadn&#39;t quite succeeded in the second region, as the 2021 failure rate for years 4 and 5 was noticeably higher than for younger drives. But they had succeeded in pushing the major increase in failures out beyond 5.5 years. Everything before that was less than 4% Annual Failure Rate (AFR).
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVdS_BbXXAgHdtnupadIt7pznhRd_-TJGhYUE644i9V4UXxWYzPikeqcBikEyefV3Tlik_2bPJ-1EW9F8BwHzgtHHGMFYbBOvMhHRsF3Z3d9lJqVlaa-6_RB3j2Sxkvai7aNMgyMbwPxRAesjW6uB77OrhTWiV5YQANcQQ4JesmpJ3dGivHqQgPpfrp4j9/w200-h124/Bathtub_3_Drive-failure-2025.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVdS_BbXXAgHdtnupadIt7pznhRd_-TJGhYUE644i9V4UXxWYzPikeqcBikEyefV3Tlik_2bPJ-1EW9F8BwHzgtHHGMFYbBOvMhHRsF3Z3d9lJqVlaa-6_RB3j2Sxkvai7aNMgyMbwPxRAesjW6uB77OrhTWiV5YQANcQQ4JesmpJ3dGivHqQgPpfrp4j9/s936/Bathtub_3_Drive-failure-2025.png)[Source](https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/)
-Another four years later in the current graph things have changed quite a bit:
-
-- For the first 5 years the AFR is under 2%.
-- For the first 5 years the AFR gradually increases, the first region has been completely eliminated.
-- For the three years after a 5-year warranty expires, the AFR is under 3%.
-- For the next two years the AFR drops, bottoming out around 1%.
-
-- Everything out to 10 years has an AFR under 3%.
-- The third region starts with a spike at 10.5 years.
-- Even at 10.5 years the AFR is only just over 4%
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh90jMMDSrpHWVvJ6EE4gDEAlvdKMwYo0uKFntWX1F9cqyUpE9SqO69v3B_bAhxxLkFCFLES8MDDyp0pnTkBt-GSdT764gjH8EmAoY7do1-EY3AGbbTIVW67GFMXGM3WoYJ0ATeBswJIrUU4q3txbVYwGCWmJwMH84InBaaizHPnIK_xGoDUXTfhXm7uGc/w200-h124/Bathtub_6_Drive-failure-total-comparison.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh90jMMDSrpHWVvJ6EE4gDEAlvdKMwYo0uKFntWX1F9cqyUpE9SqO69v3B_bAhxxLkFCFLES8MDDyp0pnTkBt-GSdT764gjH8EmAoY7do1-EY3AGbbTIVW67GFMXGM3WoYJ0ATeBswJIrUU4q3txbVYwGCWmJwMH84InBaaizHPnIK_xGoDUXTfhXm7uGc/s936/Bathtub_6_Drive-failure-total-comparison.png)[Source](https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/)
-Backblaze&#39;s final graph puts all three sets of data in one graph and shows a dramatic improvement in drive longevity:
-
-- Drives in 2013 were dramatically less reliable than in later years, both because their AFRs were consistently higher and because their AFR hit 13% after 3 years.
-- By 2021 the engineers had kept the AFR around 2% through the warranty, but the drives wore out rapidly in the 7th year.
-- Now, the drives are only showing signs of beginning to wear out at 10.5 years.
-
-That is some serious engineering at the long end! And at the short end [things are great](https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/):
-
-&#62; we see that the drive failure rates on the front end of the curve are also incredibly low—when a drive is between zero and one years old, we barely crack 1.30% AFR.
-
-The left side of the bathtub is really gone, improving the manufacturers&#39; margins. But if I eyeball the 2025 graph&#39;s first 20 quarters I estimate the AFR averages 1.6%, which implies that over the 5-year warranty 8% of the drives failed. Clearly, the engineers still have work to do.
-
-Remember to check back in 2029 when Backblaze plans to return to this issue.</source:markdown>
-      <author>noreply@blogger.com (David.)</author>
-      <guid>cid://tag:blogger.com,1999:blog-4503292949532760618.post-2677870744451345848</guid>
-    </item>    <item>
-      <title>“Will We Remain In The Shadows, Or Will We Together Step Into The Light?”</title>
-      <link>https://www.michaelmoore.com/p/will-we-remain-in-the-shadows</link>
-      <description>
-        <![CDATA[A Must-Watch Video of New York City&#8217;s Next Mayor, Zohran Mamdani. The people of New York City are on the verge of doing something historic.]]>
-      </description>
-      <source:markdown>A Must-Watch Video of New York City’s Next Mayor, Zohran Mamdani. The people of New York City are on the verge of doing something historic.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!Rmfq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f481193-111c-4b8a-87dd-e2ff6a812ae4_2147x1610.png" length="0" type="image/jpeg" />
-      <guid>cid://https://www.michaelmoore.com/p/will-we-remain-in-the-shadows</guid>
-    </item>    <item>
-      <title>ICE Is Using a University Building as a Deportation Office and the University Says It Can&#39;t Do Anything About It</title>
-      <link>https://www.404media.co/ice-is-using-a-university-building-as-a-deportation-office-and-the-university-says-it-cant-do-anything-about-it/</link>
-      <description>
-        <![CDATA[The Milwaukee School of Engineering is largely powerless to kick ICE out of a building it wanted to turn into a new academic center, according to audio of a meeting obtained by 404 Media.]]>
-      </description>
-      <source:markdown>The Milwaukee School of Engineering is largely powerless to kick ICE out of a building it wanted to turn into a new academic center, according to audio of a meeting obtained by 404 Media.</source:markdown>
-      <guid>cid://6900cff7dbf2dc00011ef9f5</guid>
-    </item>    <item>
-      <title>Episode Milestones and Back Behind the Mic</title>
-      <link>https://openchannels.fm/episode-milestones-and-back-behind-the-mic/</link>
-      <description>
-        <![CDATA[Bob’s gearing up for episode 700. He reflects on milestones, announces the end of solo episodes, and hints at more guest chats ahead.]]>
-      </description>
-      <source:markdown>Bob’s gearing up for episode 700. He reflects on milestones, announces the end of solo episodes, and hints at more guest chats ahead.</source:markdown>
-      <guid>cid://https://openchannels.fm/?p=111796</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115452056698116416</link>
-      <description>
-        <![CDATA[<p>When you are an Android developer, you finally get a Xmas in October:<br /><a href="https://mastodon.social/@airspeedswift/115431245077158642" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@airspeedswift</span><span class="invisible">/115431245077158642</span></a></p>]]>
-      </description>
-      <source:markdown>When you are an Android developer, you finally get a Xmas in October:
-
-[https://mastodon.social/@airspeedswift/115431245077158642](https://mastodon.social/@airspeedswift/115431245077158642)</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115452056698116416</guid>
-    </item>    <item>
-      <title>Rubble Trouble and the Trump Ballroom</title>
-      <link>https://tinabrown.substack.com/p/rubble-trouble-and-the-trump-ballroom</link>
-      <description>
-        <![CDATA[Will the gigantic pile of rubble that was once the historic East Wing of the White House come to embody America&#8217;s exhaustion with the human battering ram in the Oval Office?]]>
-      </description>
-      <source:markdown>Will the gigantic pile of rubble that was once the historic East Wing of the White House come to embody America’s exhaustion with the human battering ram in the Oval Office?</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!iQor!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72e0892a-ce51-443e-bf52-04a31474e1bf_554x382.png" length="0" type="image/jpeg" />
-      <guid>cid://https://tinabrown.substack.com/p/rubble-trouble-and-the-trump-ballroom</guid>
-    </item>    <item>
-      <title>Lawsuit Accuses a16z of Turning Roblox Into a School Shooter&#39;s Playground</title>
-      <link>https://www.404media.co/lawsuit-accuses-a16z-of-turning-roblox-into-a-school-shooters-playground/</link>
-      <description>
-        <![CDATA[The family of a dead teen girl said she'd still be alive if Roblox did a better job moderating its platform.]]>
-      </description>
-      <source:markdown>The family of a dead teen girl said she&#39;d still be alive if Roblox did a better job moderating its platform.</source:markdown>
-      <guid>cid://6900c35fdbf2dc00011ef834</guid>
-    </item>    <item>
-      <link>https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/</link>
-      <description>
-        <![CDATA[<p>Sorry TechCrunch there's no new security risks in giving OpenAI or Perplexity the same access to our accounts that we already give Google. Someone ought to fact-check these articles at least at a basic level.</p>]]>
-      </description>
-      <source:markdown>Sorry TechCrunch there&#39;s no new security risks in giving OpenAI or Perplexity the same access to our accounts that we already give Google. Someone ought to fact-check these articles at least at a basic level.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/28/1715/</guid>
-    </item>    <item>
-      <link>http://scripting.com/2019/10/28/140358.html</link>
-      <description>
-        <![CDATA[<p>On this day in 2019: 'Lock Him Up' is very American.</p>]]>
-      </description>
-      <source:markdown>On this day in 2019: &#39;Lock Him Up&#39; is very American.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/28/1713/</guid>
-    </item>    <item>
-      <title>Parenthetical Asidenotes</title>
-      <link>https://meyerweb.com/eric/thoughts/2025/10/28/parenthetical-asidenotes/</link>
-      <description>
-        <![CDATA[In which I turn inline asides into sidenotes, but not in a way anyone should actually use.]]>
-      </description>
-      <source:markdown>In which I turn inline asides into sidenotes, but not in a way anyone should actually use.</source:markdown>
-      <guid>cid://https://meyerweb.com/eric/thoughts/?p=5657</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115451886848864640</link>
-      <description>
-        <![CDATA[<p>This week I did a little performance work, and then retested the code “well this is amazing, it is now buttery smooth”, closed the bug.</p><p>Then I remembered I replaced the m2 iPad with and m5 iPad.</p><p>That bug is staying closed until someone complains :-)</p>]]>
-      </description>
-      <source:markdown>This week I did a little performance work, and then retested the code “well this is amazing, it is now buttery smooth”, closed the bug.
-
-Then I remembered I replaced the m2 iPad with and m5 iPad.
-
-That bug is staying closed until someone complains :-)</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115451886848864640</guid>
-    </item>    <item>
-      <title>eurollm.io</title>
-      <link>https://eurollm.io/</link>
-      <description>
-        <![CDATA[<p>A different world is possible. Here, for example, is an open-source large language model from Europe, designed to support the 24 official languages of the European Union.</p>
-        
-        <p>I have no idea why <a href="https://en.wikipedia.org/wiki/.io">their top level domain is for the British Indian Ocean Territory</a>, soon to be no more. That doesn&#8217;t instil confidence.</p>
-        
-        <p><a href="https://adactio.com/links/22217">adactio.com/links/22217</a></p>]]>
-      </description>
-      <source:markdown>A different world is possible. Here, for example, is an open-source large language model from Europe, designed to support the 24 official languages of the European Union.
-
-I have no idea why [their top level domain is for the British Indian Ocean Territory](https://en.wikipedia.org/wiki/.io), soon to be no more. That doesn’t instil confidence.
-
-[adactio.com/links/22217](https://adactio.com/links/22217)</source:markdown>
-      <guid>cid://https://eurollm.io/</guid>
-    </item>    <item>
-      <title>Dithering - Part 1</title>
-      <link>https://visualrambling.space/dithering-part-1/</link>
-      <description>
-        <![CDATA[<p>A clear explanation of how image dithering works, illustrated along the way.</p>
-        
-        <p><a href="https://adactio.com/links/22216">adactio.com/links/22216</a></p>]]>
-      </description>
-      <source:markdown>A clear explanation of how image dithering works, illustrated along the way.
-
-[adactio.com/links/22216](https://adactio.com/links/22216)</source:markdown>
-      <guid>cid://https://visualrambling.space/dithering-part-1/</guid>
-    </item>    <item>
-      <title>You First, Jeff</title>
-      <link>https://onefoottsunami.com/2025/10/28/you-first-jeff/</link>
-      <guid>cid://https://onefoottsunami.com/?p=29337</guid>
-    </item>    <item>
-      <link>https://grokipedia.com/page/Elon_Musk</link>
-      <description>
-        <![CDATA[<p>Grokipedia article for Elon Musk.</p>]]>
-      </description>
-      <source:markdown>Grokipedia article for Elon Musk.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/28/1711/</guid>
-    </item>    <item>
-      <link>https://m.youtube.com/watch?v=zZjXTdL68VU&#38;t=70s&#38;pp=2AFGkAIB0gcJCR4Bo7VqN5tD</link>
-      <description>
-        <![CDATA[<p>Rep. Stansbury: Families are about to lose their food assistance.</p>]]>
-      </description>
-      <source:markdown>Rep. Stansbury: Families are about to lose their food assistance.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/28/1709/</guid>
-    </item>    <item>
-      <title>Zadie Smith, Catherine Newman, Cameron Crowe, and more: 23 new books out today!</title>
-      <link>https://lithub.com/zadie-smith-catherine-newman-cameron-crowe-and-more-23-new-books-out-today/</link>
-      <description>
-        <![CDATA[The speed at which a New York fall flies by will never cease to astound me. Here we are, already in the last week of October, midway through a cherished, idyllic time in the city. And by that I mean,]]>
-      </description>
-      <source:markdown>The speed at which a New York fall flies by will never cease to astound me. Here we are, already in the last week of October, midway through a cherished, idyllic time in the city. And by that I mean,</source:markdown>
-      <guid>cid://https://lithub.com/?p=261455</guid>
-    </item>    <item>
-      <link>https://wapo.st/47PKzTd</link>
-      <description>
-        <![CDATA[<p>Elon Musk launches Grokipedia, an AI-powered Wikipedia rival.</p>]]>
-      </description>
-      <source:markdown>Elon Musk launches Grokipedia, an AI-powered Wikipedia rival.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/28/1707/</guid>
-    </item>    <item>
-      <title>The Strategist’s Fallacy in American politics</title>
-      <link>https://www.gelliottmorris.com/p/the-strategists-fallacy</link>
-      <description>
-        <![CDATA[The average American voter does not think about politics the way elite strategists and pundits do]]>
-      </description>
-      <source:markdown>The average American voter does not think about politics the way elite strategists and pundits do</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/c2115fea-b899-4f8a-8fe8-061023db524c_1536x863.webp" length="0" type="image/jpeg" />
-      <guid>cid://https://www.gelliottmorris.com/p/the-strategists-fallacy</guid>
-    </item>    <item>
-      <title>The Java Developer’s Dilemma: Part 3</title>
-      <link>https://www.oreilly.com/radar/the-java-developers-dilemma-part-3/</link>
-      <description>
-        <![CDATA[This is the final part of a three-part series by Markus Eisele. Part 1 can be found here, and Part 2 here. In the first article we looked at the Java developer’s dilemma: the gap between flashy prototypes and the reality of enterprise production systems. In the second article we explored why new types of [&#8230;]]]>
-      </description>
-      <source:markdown>This is the final part of a three-part series by Markus Eisele. Part 1 can be found here, and Part 2 here. In the first article we looked at the Java developer’s dilemma: the gap between flashy prototypes and the reality of enterprise production systems. In the second article we explored why new types of \[…\]</source:markdown>
-      <guid>cid://https://www.oreilly.com/radar/?p=17587</guid>
-    </item>    <item>
-      <title>Secret to Happiness</title>
-      <link>https://www.borowitzreport.com/p/secret-to-happiness</link>
-      <description>
-        <![CDATA[Try this.]]>
-      </description>
-      <source:markdown>Try this.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!3FLg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1156af1-c6e0-4da4-9c2d-8d7cd0f96843_1080x880.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/secret-to-happiness</guid>
-    </item>    <item>
-      <title>Social Engineering People’s Credit Card Details</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/social-engineering-peoples-credit-card-details.html</link>
-      <description>
-        <![CDATA[<p>Good <i>Wall Street Journal</i> <a href="https://www.wsj.com/tech/cybersecurity/url-scam-texts-china-gangs-68e96097?st=XcjCtr&#038;reflink=desktopwebshare_permalink&#038;utm_source=substack&#038;utm_medium=email">article</a> on criminal gangs that scam people out of their credit card information:</p>
-        <blockquote><p>Your highway toll payment is now past due, one text warns. You have U.S. Postal Service fees to pay, another threatens. You owe the New York City Department of Finance for unpaid traffic violations.</p>
-        <p>The texts are ploys to get unsuspecting victims to fork over their credit-card details. The gangs behind the scams take advantage of this information to buy iPhones, gift cards, clothing and cosmetics.</p>
-        <p>Criminal organizations operating out of China, which investigators blame for the toll and postage messages, have used them to make more than $1 billion over the last three years, according to the Department of Homeland Security...</p></blockquote>]]>
-      </description>
-      <source:markdown>Good _Wall Street Journal_ [article](https://www.wsj.com/tech/cybersecurity/url-scam-texts-china-gangs-68e96097?st=XcjCtr&#38;reflink=desktopwebshare_permalink&#38;utm_source=substack&#38;utm_medium=email) on criminal gangs that scam people out of their credit card information:
-
-&#62; Your highway toll payment is now past due, one text warns. You have U.S. Postal Service fees to pay, another threatens. You owe the New York City Department of Finance for unpaid traffic violations.
-&#62;
-&#62; The texts are ploys to get unsuspecting victims to fork over their credit-card details. The gangs behind the scams take advantage of this information to buy iPhones, gift cards, clothing and cosmetics.
-&#62;
-&#62; Criminal organizations operating out of China, which investigators blame for the toll and postage messages, have used them to make more than $1 billion over the last three years, according to the Department of Homeland Security...</source:markdown>
-      <guid>cid://https://www.schneier.com/?p=71053</guid>
-    </item>    <item>
-      <title>The Hunger Games Begin</title>
-      <link>https://paulkrugman.substack.com/p/the-hunger-games-begin</link>
-      <description>
-        <![CDATA[40 million Americans are about to lose food stamps]]>
-      </description>
-      <source:markdown>40 million Americans are about to lose food stamps</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!Vn2x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F512e35b7-3e55-4eaf-bed3-438f69adf3a6_1428x910.png" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/the-hunger-games-begin</guid>
-    </item>    <item>
-      <title>Lit Hub Daily: October 28, 2025</title>
-      <link>https://lithub.com/lit-hub-daily-october-28-2025/</link>
-      <description>
-        <![CDATA[“If Kafka were alive today, he wouldn’t be unpublished—he’d be under NDA.” On the dangerous fine print of creative contract law. &#124; Lit Hub Craft Anthony Vinci examines space warfare, spy satellites, and espionage’s new era. &#124; Lit Hub Politics]]>
-      </description>
-      <source:markdown>“If Kafka were alive today, he wouldn’t be unpublished—he’d be under NDA.” On the dangerous fine print of creative contract law. \| Lit Hub Craft Anthony Vinci examines space warfare, spy satellites, and espionage’s new era. \| Lit Hub Politics</source:markdown>
-      <guid>cid://https://lithub.com/?p=261808</guid>
-    </item>    <item>
-      <title>Bob Dylan’s Superpower is That He Doesn’t Get Embarrassed</title>
-      <link>https://lithub.com/bob-dylans-superpower-is-that-he-doesnt-get-embarrassed/</link>
-      <description>
-        <![CDATA[To be caught in the spotlight of our pretensions is the worst kind of embarrassment there is. And so, one thing I found notable in the years I spent writing a biography of Bob Dylan and his poetic songwriting was]]>
-      </description>
-      <source:markdown>To be caught in the spotlight of our pretensions is the worst kind of embarrassment there is. And so, one thing I found notable in the years I spent writing a biography of Bob Dylan and his poetic songwriting was</source:markdown>
-      <guid>cid://https://lithub.com/?p=261483</guid>
-    </item>    <item>
-      <title>America’s Founding Fathers Had No Faith in Democracy</title>
-      <link>https://lithub.com/americas-founding-fathers-had-no-faith-in-democracy/</link>
-      <description>
-        <![CDATA[&#8220;We hold these truths to be self-evident, that all men are created equal&#8230;.&#8221; –Thomas Jefferson, The Declaration of Independence (1776) &#8220;I have never seen, to my knowledge, a man, woman, or child, that was in favor of producing a perfect]]>
-      </description>
-      <source:markdown>“We hold these truths to be self-evident, that all men are created equal….” –Thomas Jefferson, The Declaration of Independence (1776) “I have never seen, to my knowledge, a man, woman, or child, that was in favor of producing a perfect</source:markdown>
-      <guid>cid://https://lithub.com/?p=261367</guid>
-    </item>    <item>
-      <title>Is Space the Final Frontier of Espionage?</title>
-      <link>https://lithub.com/is-space-the-final-frontier-of-espionage/</link>
-      <description>
-        <![CDATA[The greatest explorers have also been great spies. The two professions are intimately linked, with both spies and explorers illuminating the unknown. People like Sir Richard Francis Burton exemplify this connection. Burton’s exploits and intellect are legendary. He spoke twenty-nine]]>
-      </description>
-      <source:markdown>The greatest explorers have also been great spies. The two professions are intimately linked, with both spies and explorers illuminating the unknown. People like Sir Richard Francis Burton exemplify this connection. Burton’s exploits and intellect are legendary. He spoke twenty-nine</source:markdown>
-      <guid>cid://https://lithub.com/?p=261418</guid>
-    </item>    <item>
-      <title>How the Discovery of Single-Celled Marine Organisms Resulted in One of the Most Influential Illustrated Books Ever Published</title>
-      <link>https://lithub.com/how-the-discovery-of-single-celled-marine-organisms-resulted-in-one-of-the-most-influential-illustrated-books-ever-published/</link>
-      <description>
-        <![CDATA[No creatures from the microscopic world have managed to captivate the human imagination as authoritatively as radiolarians. Since the late nineteenth century, they’ve made their existence known in art, architecture, design, and even literature. These single-celled marine organisms, which appear]]>
-      </description>
-      <source:markdown>No creatures from the microscopic world have managed to captivate the human imagination as authoritatively as radiolarians. Since the late nineteenth century, they’ve made their existence known in art, architecture, design, and even literature. These single-celled marine organisms, which appear</source:markdown>
-      <guid>cid://https://lithub.com/?p=261587</guid>
-    </item>    <item>
-      <title>Murder, Polar Bears, and Arctic Hurricanes: The Many Twists and Turns of a 2008 Whaling Research Expedition</title>
-      <link>https://lithub.com/murder-polar-bears-and-arctic-hurricanes-the-many-twists-and-turns-of-a-2008-whaling-research-expedition/</link>
-      <description>
-        <![CDATA[Explorers come from many backgrounds. Dr. Martin Nweeia started as a dental surgeon. Eventually, his interests expanded to include dental anthropology—the study of how teeth offer clues to species’ diets, health, and even evolution and migration. Nweeia gave speeches around]]>
-      </description>
-      <source:markdown>Explorers come from many backgrounds. Dr. Martin Nweeia started as a dental surgeon. Eventually, his interests expanded to include dental anthropology—the study of how teeth offer clues to species’ diets, health, and even evolution and migration. Nweeia gave speeches around</source:markdown>
-      <guid>cid://https://lithub.com/?p=261491</guid>
-    </item>    <item>
-      <title>Mother of the Revolution: How Audley Moore Influenced a Generation of Black Activists</title>
-      <link>https://lithub.com/mother-of-the-revolution-how-audley-moore-influenced-a-generation-of-black-activists/</link>
-      <description>
-        <![CDATA[Queen Mother Audley Moore’s modest Philadelphia home was where some of the country’s most famous Black nationalist leaders, like Malcolm X and members of RAM (Revolutionary Action Movement, a militant youth organization), gathered to study, strategize, and draw inspiration from]]>
-      </description>
-      <source:markdown>Queen Mother Audley Moore’s modest Philadelphia home was where some of the country’s most famous Black nationalist leaders, like Malcolm X and members of RAM (Revolutionary Action Movement, a militant youth organization), gathered to study, strategize, and draw inspiration from</source:markdown>
-      <guid>cid://https://lithub.com/?p=261372</guid>
-    </item>    <item>
-      <title>Susan Straight on Chronicling the Impact of COVID-19 in Fiction</title>
-      <link>https://lithub.com/susan-straight-on-chronicling-the-impact-of-covid-19-in-fiction/</link>
-      <description>
-        <![CDATA[Sacrament follows in natural progression Susan Straight’s bestselling novel Mecca (2022), which revolves around three characters in that date-growing city in the Coachella Valley, including Johnny Frias, a California Highway Patrol officer whose family and friends are at risk from wildfires]]>
-      </description>
-      <source:markdown>Sacrament follows in natural progression Susan Straight’s bestselling novel Mecca (2022), which revolves around three characters in that date-growing city in the Coachella Valley, including Johnny Frias, a California Highway Patrol officer whose family and friends are at risk from wildfires</source:markdown>
-      <guid>cid://https://lithub.com/?p=261362</guid>
-    </item>    <item>
-      <title>The Devil is a Southpaw</title>
-      <link>https://lithub.com/the-devil-is-a-southpaw/</link>
-      <description>
-        <![CDATA[His full name was Matthew Echota, a cripplingly shy, talented, smart, and handsome boy, although many poked fun at him for being short, the poor soul, trailing along like a rabbit trying to keep up—little Matthew dodging around, chasing squirrels]]>
-      </description>
-      <source:markdown>His full name was Matthew Echota, a cripplingly shy, talented, smart, and handsome boy, although many poked fun at him for being short, the poor soul, trailing along like a rabbit trying to keep up—little Matthew dodging around, chasing squirrels</source:markdown>
-      <guid>cid://https://lithub.com/?p=261023</guid>
-    </item>    <item>
-      <title>Is Elon Worth It?</title>
-      <link>https://robertreich.substack.com/p/what-really-elon-demands-a-1-trillion</link>
-      <description>
-        <![CDATA[Is he a net positive for humanity or a net negative?]]>
-      </description>
-      <source:markdown>Is he a net positive for humanity or a net negative?</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/ef5af404-a8d1-457a-8c2d-2114283c94b0_3268x2434.png" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/what-really-elon-demands-a-1-trillion</guid>
-    </item>    <item>
-      <title>Trump’s Secret Plan for a 3rd Term</title>
-      <link>https://crooked.com/podcast/trumps-secret-plan-for-a-3rd-term/</link>
-      <description>
-        <![CDATA[<p>The post <a href="https://crooked.com/podcast/trumps-secret-plan-for-a-3rd-term/">Trump&#8217;s Secret Plan for a 3rd Term</a> appeared first on <a href="https://crooked.com">Crooked Media</a>.</p>]]>
-      </description>
-      <source:markdown>The post [Trump’s Secret Plan for a 3rd Term](https://crooked.com/podcast/trumps-secret-plan-for-a-3rd-term/) appeared first on [Crooked Media](https://crooked.com).</source:markdown>
-      <guid>cid://https://crooked.com/?post_type=pod_cast&#38;p=39058</guid>
-    </item>    <item>
-      <title>&#60;default:div xmlns=&#34;http://www.w3.org/1999/xhtml&#34; class=&#34;if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14&#34;/&#62;</title>
-      <link>https://tantek.com/2025/300/t20/wikipedia-editing-anniversary</link>
-      <guid>cid://https://tantek.com/2025/300/t20/wikipedia-editing-anniversary</guid>
-    </item>    <item>
-      <title>October 27, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/october-27-2025</link>
-      <description>
-        <![CDATA[There is a lot going on tonight, but the world is going to have to turn without me: it&#8217;s been a long run without a break and I need to sleep.]]>
-      </description>
-      <source:markdown>There is a lot going on tonight, but the world is going to have to turn without me: it’s been a long run without a break and I need to sleep.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!2Vdu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa570979a-6a05-41b6-a9f0-d09e1a4b7f22_2048x1536.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/october-27-2025</guid>
-    </item>    <item>
-      <title>&#60;default:div xmlns=&#34;http://www.w3.org/1999/xhtml&#34; class=&#34;if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14&#34;/&#62;</title>
-      <link>https://tantek.com/2025/300/t19/tpac-breakouts-reactions</link>
-      <guid>cid://https://tantek.com/2025/300/t19/tpac-breakouts-reactions</guid>
-    </item>    <item>
-      <title>Quoting Aaron Boodman</title>
-      <link>https://simonwillison.net/2025/Oct/28/aaron-boodman/#atom-everything</link>
-      <description>
-        <![CDATA[<blockquote cite="https://x.com/aboodman/status/1982898753607741502"><p>Claude doesn't make me <em>much</em> faster on the work that I am an expert on. Maybe 15-20% depending on the day.</p>
-        <p>It's the work that I don't know how to do and would have to research. Or the grunge work I don't even want to do. On this it is hard to even put a number on. Many of the projects I do with Claude day to day I just wouldn't have done at all pre-Claude.</p>
-        <p>Infinity% improvement in productivity on those.</p></blockquote>
-        <p class="cite">&mdash; <a href="https://x.com/aboodman/status/1982898753607741502">Aaron Boodman</a></p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/aaron-boodman">aaron-boodman</a></p>]]>
-      </description>
-      <source:markdown>&#62; Claude doesn&#39;t make me _much_ faster on the work that I am an expert on. Maybe 15-20% depending on the day.
-&#62;
-&#62; It&#39;s the work that I don&#39;t know how to do and would have to research. Or the grunge work I don&#39;t even want to do. On this it is hard to even put a number on. Many of the projects I do with Claude day to day I just wouldn&#39;t have done at all pre-Claude.
-&#62;
-&#62; Infinity% improvement in productivity on those.
-
-— [Aaron Boodman](https://x.com/aboodman/status/1982898753607741502)
-
-Tags: [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [claude](https://simonwillison.net/tags/claude), [generative-ai](https://simonwillison.net/tags/generative-ai), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms), [aaron-boodman](https://simonwillison.net/tags/aaron-boodman)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/28/aaron-boodman/#atom-everything</guid>
-    </item>    <item>
-      <title>As foretold by Avatar</title>
-      <link>https://doc.searls.com/2025/10/27/as-foretold-by-avatar/</link>
-      <description>
-        <![CDATA[As a half-Swede (my Mom was one), it is sad to learn that Trump has demolished Yggdrasil, the Ancient Tree of Life.]]>
-      </description>
-      <source:markdown>As a half-Swede (my Mom was one), it is sad to learn that Trump has demolished Yggdrasil, the Ancient Tree of Life.</source:markdown>
-      <guid>cid://https://doc.searls.com/2025/10/27/as-foretold-by-avatar/</guid>
-    </item>    <item>
-      <title>On em dashes and elipses</title>
-      <link>https://doc.searls.com/2025/10/27/on-em-dashes-and-elipses/</link>
-      <description>
-        <![CDATA[I don&#39;t know who was the first to write The em dash is dead and AI killed it. Maybe it was Jacob Schilleci in the Reno Gazette Journal, but since most of it is behind a paywall and that paper is one of many run by Gannett, I&#39;m not sure—though that&#39;s where the first link in [&#8230;]]]>
-      </description>
-      <source:markdown>I don&#39;t know who was the first to write The em dash is dead and AI killed it. Maybe it was Jacob Schilleci in the Reno Gazette Journal, but since most of it is behind a paywall and that paper is one of many run by Gannett, I&#39;m not sure—though that&#39;s where the first link in \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/2025/10/27/on-em-dashes-and-elipses/</guid>
-    </item>    <item>
-      <title>On em dashes and ellipses</title>
-      <link>https://doc.searls.com/2025/10/27/on-em-dashes-and-ellipses/</link>
-      <description>
-        <![CDATA[I don&#8217;t know who was the first to write The em dash is dead and AI killed it. Maybe it was Jacob Schilleci in the Reno Gazette Journal, but since most of it is behind a paywall and that paper is one of many run by Gannett, I&#8217;m not sure—though that&#8217;s where the first link in [&#8230;]]]>
-      </description>
-      <source:markdown>I don’t know who was the first to write The em dash is dead and AI killed it. Maybe it was Jacob Schilleci in the Reno Gazette Journal, but since most of it is behind a paywall and that paper is one of many run by Gannett, I’m not sure—though that’s where the first link in \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/2025/10/27/on-em-dashes-and-elipses/</guid>
-    </item>    <item>
-      <title>A test</title>
-      <link>https://doc.searls.com/2025/10/27/a-test/</link>
-      <description>
-        <![CDATA[To see if this works with my blog. If it does stay tuned for more. Okay, I&#8217;ve been posting more, above. More importantly, I&#8217;m back in the groove with Wordland. I&#8217;d stopped while waiting for a new WordPress theme that would be friendlier to Wordland.  I haven&#8217;t moved to that theme, but Wordland is working. [&#8230;]]]>
-      </description>
-      <source:markdown>To see if this works with my blog. If it does stay tuned for more. Okay, I’ve been posting more, above. More importantly, I’m back in the groove with Wordland. I’d stopped while waiting for a new WordPress theme that would be friendlier to Wordland.  I haven’t moved to that theme, but Wordland is working. \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/2025/10/27/a-test/</guid>
-    </item>    <item>
-      <title>Project goals for 2025H2</title>
-      <link>https://blog.rust-lang.org/2025/10/28/project-goals-2025h2/</link>
-      <guid>cid://https://blog.rust-lang.org/2025/10/28/project-goals-2025h2/</guid>
-    </item>    <item>
-      <title>HMAC-based security for webhooks</title>
-      <link>https://buttondown.com/blog/2025-10-28</link>
-      <description>
-        <![CDATA[HMAC-based security for webhooks]]>
-      </description>
-      <source:markdown>HMAC-based security for webhooks</source:markdown>
     </item>
   </channel>
 </rss>
