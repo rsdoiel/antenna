@@ -4,7 +4,7 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>19 Nov 25 12:10 -0800</lastBuildDate>
+    <lastBuildDate>19 Nov 25 16:42 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -168,18 +168,6 @@ The post [Scriptnotes, Episode 707: After the Hunt, Transcript](https://johnaugu
 
 The post [Read the first 30 pages of the Scriptnotes book](https://johnaugust.com/2025/first-30-scriptnotes-book) first appeared on [John August](https://johnaugust.com).</source:markdown>
       <guid>cid://https://johnaugust.com/?p=23524</guid>
-    </item>    <item>
-      <title>Open? When Site Restrictions and Clauses Undermine Open Access</title>
-      <link>https://www.authorsalliance.org/2025/10/29/open-when-site-restrictions-and-clauses-undermine-open-access/</link>
-      <description>
-        <![CDATA[Open access publishing has transformed the way research circulates. In principle, open access means that anyone, anywhere, can read and reuse scholarly work without financial, legal, or technical barriers. But in practice, many works labeled as "open" are quietly constrained by restrictions that limit how they can be used, especially by machines.]]>
-      </description>
-      <source:markdown>Open access publishing has transformed the way research circulates. In principle, open access means that anyone, anywhere, can read and reuse scholarly work without financial, legal, or technical barriers. But in practice, many works labeled as &#34;open&#34; are quietly constrained by restrictions that limit how they can be used, especially by machines.</source:markdown>
-      <guid>cid://https://www.authorsalliance.org/?p=12308</guid>
-    </item>    <item>
-      <title>Keep Track of Point-of-View Characters and Timelines in Scrivener’s Corkboard</title>
-      <link>https://www.literatureandlatte.com/blog/keep-track-of-point-of-view-characters-and-timelines-in-scriveners-corkboard</link>
-      <guid>cid://https://www.literatureandlatte.com/?p=8247</guid>
     </item>
   </channel>
 </rss>

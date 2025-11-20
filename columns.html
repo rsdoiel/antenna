@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" >
   <meta name="generator" content="antenna/0.0.15" >
-  <meta content="2025-11-19T12:10:29-08:00" name="date" >
+  <meta content="2025-11-19T16:42:07-08:00" name="date" >
   <link rel="stylesheet" href="css/site.css" >
   <link rel="alternate" type="application/rss+xml" href="columns.xml" >
   <script type="module" src="modules/date_filter.js" ></script>
@@ -109,6 +109,372 @@ anything amiss.</p>
 
       <address>
         <a href="http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html">http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-20T00:00:46Z" data-link="https://mastodon.social/@Migueldeicaza/115579082944109054">
+      <h1>@Miguel de Icaza Mastondon feed</h1>
+
+(date: 2025-11-20)
+      <p>
+      <p>Godot and iOS friends, been working on some GameCenter bindings, and this forced me to do some big upgrades to SwiftGodot.</p>
+<p>I think what I have so far is nicer than Apple’s Unity plugin (api is about the same, but my glueing chops are more tasteful than theirs):</p>
+<p><a href="https://github.com/migueldeicaza/GodotApplePlugins">https://github.com/migueldeicaza/GodotApplePlugins</a></p>
+
+      <address>
+        <a href="https://mastodon.social/@Migueldeicaza/115579082944109054">https://mastodon.social/@Migueldeicaza/115579082944109054</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-19T23:35:41Z" data-link="https://garymarcus.substack.com/p/mayday-the-white-house-is-attempting">
+      <h1>Mayday: The White House is attempting to circumvent Congress and crush the rights of individual states to regulate AI. </h1>
+
+(date: 2025-11-19)
+      <p>
+      <p>This is really not good, and just got worse.</p>
+
+      <address>
+        <a href="https://garymarcus.substack.com/p/mayday-the-white-house-is-attempting">https://garymarcus.substack.com/p/mayday-the-white-house-is-attempting</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-19T23:15:10Z" data-link="https://simonwillison.net/2025/Nov/19/gpt-51-codex-max/#atom-everything">
+      <h1>Building more with GPT-5.1-Codex-Max</h1>
+
+(date: 2025-11-19)
+      <p>
+      <p><strong><a href="https://openai.com/index/gpt-5-1-codex-max/">Building more with GPT-5.1-Codex-Max</a></strong></p>
+<p>Hot on the heels of yesterday's <a href="https://simonwillison.net/2025/Nov/18/gemini-3/">Gemini 3 Pro release</a> comes a new model from OpenAI called GPT-5.1-Codex-Max.</p>
+<p>(Remember when GPT-5 was meant to bring in a new era of less confusing model names? That didn't last!)</p>
+<p>It's currently only available through their <a href="https://developers.openai.com/codex/cli/">Codex CLI coding agent</a>, where it's the new default model:</p>
+<blockquote>
+<p>Starting today, GPT‑5.1-Codex-Max will replace GPT‑5.1-Codex as the default model in Codex surfaces. Unlike GPT‑5.1, which is a general-purpose model, we recommend using GPT‑5.1-Codex-Max and the Codex family of models only for agentic coding tasks in Codex or Codex-like environments.</p>
+</blockquote>
+<p>It's not available via the API yet but should be shortly.</p>
+<p>The timing of this release is interesting given that Gemini 3 Pro appears to have aced almost all of the benchmarks just yesterday. It's reminiscent of the period in 2024 when OpenAI consistently made big announcements that happened to coincide with Gemini releases.</p>
+<p>OpenAI's self-reported <a href="https://openai.com/index/introducing-swe-bench-verified/">SWE-Bench Verified</a> score is particularly notable: 76.5% for thinking level &quot;high&quot; and 77.9% for the new &quot;xhigh&quot;. That was the one benchmark where Gemini 3 Pro was out-performed by Claude Sonnet 4.5 - Gemini 3 Pro got 76.2% and Sonnet 4.5 got 77.2%. OpenAI now have the highest scoring model there by a full .7 of a percentage point!</p>
+<p>They also report a score of 58.1% on <a href="https://www.tbench.ai/leaderboard/terminal-bench/2.0">Terminal Bench 2.0</a>, beating Gemini 3 Pro's 54.2% (and Sonnet 4.5's 42.8%.)</p>
+<p>The most intriguing part of this announcement concerns the model's approach to long context problems:</p>
+<blockquote>
+<p>GPT‑5.1-Codex-Max is built for long-running, detailed work. It’s our first model natively trained to operate across multiple context windows through a process called <em>compaction</em>, coherently working over millions of tokens in a single task. [...]</p>
+<p>Compaction enables GPT‑5.1-Codex-Max to complete tasks that would have previously failed due to context-window limits, such as complex refactors and long-running agent loops by pruning its history while preserving the most important context over long horizons. In Codex applications, GPT‑5.1-Codex-Max automatically compacts its session when it approaches its context window limit, giving it a fresh context window. It repeats this process until the task is completed.</p>
+</blockquote>
+<p>There's a lot of confusion <a href="https://news.ycombinator.com/item?id=45982649">on Hacker News</a> about what this actually means. Claude Code already does a version of compaction, automatically summarizing previous turns when the context runs out. Does this just mean that Codex-Max is better at that process?</p>
+<p>I had it draw me a couple of pelicans by typing &quot;Generate an SVG of a pelican riding a bicycle&quot; directly into the Codex CLI tool. Here's thinking level medium:</p>
+<p><img src="https://static.simonwillison.net/static/2025/codex-max-medium.jpg" alt="A flat-style illustration shows a white, round-bodied bird with an orange beak pedaling a red-framed bicycle with thin black wheels along a sandy beach, with a calm blue ocean and clear sky in the background."></p>
+<p>And here's thinking level &quot;xhigh&quot;:</p>
+<p><img src="https://static.simonwillison.net/static/2025/codex-max-xhigh.jpg" alt="A plump white bird with an orange beak and small black eyes crouches low on a blue bicycle with oversized dark wheels, shown racing forward with motion lines against a soft gradient blue sky."></p>
+<p>I also tried xhigh on the my <a href="https://simonwillison.net/2025/Nov/18/gemini-3/#and-a-new-pelican-benchmark">longer pelican test prompt</a>, which came out like this:</p>
+<p><img src="https://static.simonwillison.net/static/2025/codex-breeding-max-xhigh.jpg" alt="A stylized dark gray bird with layered wings, a yellow head crest, and a long brown beak leans forward in a racing pose on a black-framed bicycle, riding across a glossy blue surface under a pale sky."></p>
+<p>Also today: <a href="https://x.com/openai/status/1991266192905179613">GPT-5.1 Pro is rolling out today to all Pro users</a>. According to the <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">ChatGPT release notes</a>:</p>
+<blockquote>
+<p>GPT-5.1 Pro is rolling out today for all ChatGPT Pro users and is available in the model picker. GPT-5 Pro will remain available as a legacy model for 90 days before being retired.</p>
+</blockquote>
+<p>That's a pretty fast deprecation cycle for the GPT-5 Pro model that was released just three months ago.</p>
+<p>Via <a href="https://news.ycombinator.com/item?id=45982649">Hacker News</a></p>
+<p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/evals">evals</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/gpt-5">gpt-5</a>, <a href="https://simonwillison.net/tags/codex-cli">codex-cli</a></p>
+
+      <address>
+        <a href="https://simonwillison.net/2025/Nov/19/gpt-51-codex-max/#atom-everything">https://simonwillison.net/2025/Nov/19/gpt-51-codex-max/#atom-everything</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-19T23:09:42Z" data-link="https://liam-on-linux.dreamwidth.org/97149.html">
+      <h1>How the Linux-vs-BSD culture clash looked in the 1980s/1990s</h1>
+
+(date: 2025-11-19)
+      <p>
+      <p>(Repurposed <a href="https://news.ycombinator.com/item?id=45963329">HN comment.</a>)</p>
+<p>The BSD/Linux thing was there right from the start, but it was more complicated than a simple us-vs-them. The thing is that there were a whole bunch of competing commercial Unix-like OSes in the 1980s.</p>
+<p>But there were other prejudices as well.</p>
+<p>In Proper Grown-Up Unix terms, PCs were toys, poorly-made weird little things that were no more than office equipment. So nothing worth using ran on the 386.</p>
+<p>There was no local bus yet, no IDE or EIDE, slow AT expansion bus, no processor cache, and so on -- meaning a forest of proprietary or semi-proprietary extensions and buses and special slots. This opened up a market for a vendor to port to Brand X PCs and Brand X's own weird storage and display.</p>
+<p>Enter Interactive Corp, which tried to combat this, and worked on Unix ports for various vendors' hardware. Expensive OS for expensive machines.</p>
+<p>And there was SCO which wasn't proud, wasn't fancy, ran on commodity kit, and didn't try to be a general purpose OS like that white lab-coat brigade expected. So SCO Xenix worked, and you could run apps on it, but in the box there was no C compiler, no networking, no X11, nothing. It was a runtime-only OS and it was still expensive.</p>
+<p>Everyone sneered at it but it did the job. I put in a lot of it.</p>
+<p>Then if you weren't paying, someone else was who would never see the word &quot;Unix&quot;, there were all the vastly expensive RISC boxes with their vastly expensive expansions and vastly expensive -- well, everything. Sun, HP, DEC, IBM, SGI, loads of company would sell you rooms full of workstations, single-user minicomputers with big screens. They cost as much as a house.</p>
+<p>Actual BSD ran on actual minicomputers that cost as much as a small street of houses and those dudes wouldn't even look at PCs.</p>
+<p>Which left a market for enterprising vendors squeezing Unix-like things onto low end kit.</p>
+<p>Various flavours of BSD, including BSD/OS; SCO Xenix in both 286 and 386 versions; Interactive 386ix; several vendors' own-brand licensed Unixes, including Dell, later, an official Intel one that mainly ran on Intel's own pizza-box workstations.</p>
+<p>And all the proprietary computer vendors entered the game too. Commodore did Unix for high-end Amigas; Atari did Unix for high-end STs; Acorn did Unix for high-end Archimedes; Apple did Unix for high-end Macs, allegedly originally just to get a US military deal; etc. etc.</p>
+<p>All these are still $1000 per instance OSes though.</p>
+<p>Then, universally scorned, MWC Coherent, a real Unix-like OS for $99... and QNX, which was apparently good but mainly focused on real-time stuff, and cost more than the casual could afford.</p>
+<p>(As a European I never saw this but it was in all the ads in all the US mags. There was a lot of &quot;cheap&quot; American stuff we didn't get over here, like paid-for shareware. We had metered phone calls so no BBS scene. Only rich Americans got that stuff.)</p>
+<p>Coherent was so good that AT&amp;T accused them of theft and sent Dennis Ritchie around to check. He came back and said, no, it's legit.</p>
+<p>And Andy Tanenbaum's Minix, a toy for students, not for real work, but essentially free with a book.</p>
+<p>These latter indirectly showed that you _could_ copy AT&amp;T's holy grail and make it work, so while Richard Stallman was building all the tools but choosing the wrong kernel and sabotaging the whole thing, along came this Finnish kid with his learning exercise, and excited beardies on Usenet said that it actually worked and it was at least as good as Minix and was getting to Coherent levels.</p>
+<p>So the point is, there was a spectrum, from legendary machines made from purest unobtainium, to ludicrously expensive x86 stuff for very specific (and ludicrously expensive models) of PC kit, to the still ludicrously expensive SCO that got no respect, to &quot;cheap&quot; stuff that nobody had in Europe because it had no business purpose. There was legendary free stuff in America but it only ran on room sized computers that cost as much as a lottery win, so I never saw it. &quot;Free&quot; as in &quot;it's free if you're so rich it doesn't matter.&quot;</p>
+<p>And &quot;free&quot; shareware that was &quot;free&quot; as in &quot;the phone bill to get it will cost more than just buying a commercial version in a shiny box&quot;.</p>
+<p>But there _was_ a spectrum, from vastly expensive to &quot;a small business will pay for this&quot;, down to theoretical stuff in America that you could dream about... which paved the way until the point where an ordinary PC was a 32-bit machine with a memory management unit and hundreds of megs of disk and several megs of RAM, and suddenly, this Lin-Min-Gnu-ix thing was doable, if you had a beard and a checked shirt with black jeans and wore hiking boots every day.</p>
+<p><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&amp;ditemid=97149" alt="comment count unavailable"> comments</p>
+
+      <address>
+        <a href="https://liam-on-linux.dreamwidth.org/97149.html">https://liam-on-linux.dreamwidth.org/97149.html</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-19T22:46:01Z" data-link="https://www.mollywhite.net/reading/shortform?search=The%20Charlie%20Kirk%20purge%3A%20How%20600%20Americans%20were%20punished%20in%20a%20pro-Trump%20crackdown">
+      <h1>Read "The Charlie Kirk purge: How 600 Americans were punished in a pro-Trump crackdown"</h1>
+
+(date: 2025-11-19)
+      <p>
+      
+      <address>
+        <a href="https://www.mollywhite.net/reading/shortform?search=The%20Charlie%20Kirk%20purge%3A%20How%20600%20Americans%20were%20punished%20in%20a%20pro-Trump%20crackdown">https://www.mollywhite.net/reading/shortform?search=The%20Charlie%20Kirk%20purge%3A%20How%20600%20Americans%20were%20punished%20in%20a%20pro-Trump%20crackdown</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-19T22:37:17Z" data-link="https://citationneeded.news/issue-97">
+      <h1>Published on Citation Needed: "Issue 97 – This is hardship"</h1>
+
+(date: 2025-11-19)
+      <p>
+      
+      <address>
+        <a href="https://citationneeded.news/issue-97">https://citationneeded.news/issue-97</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-19T22:00:34Z" data-link="https://simonwillison.net/2025/Nov/19/how-i-automate-my-substack-newsletter/#atom-everything">
+      <h1>How I automate my Substack newsletter with content from my blog</h1>
+
+(date: 2025-11-19)
+      <p>
+      <p>I sent out <a href="https://simonw.substack.com/p/trying-out-gemini-3-pro-with-audio">my weekly-ish Substack newsletter</a> this morning and took the opportunity to record <a href="https://www.youtube.com/watch?v=BoPZltKDM-s">a YouTube video</a> demonstrating my process and describing the different components that make it work. There's a <em>lot</em> of digital duct tape involved, taking the content from Django+Heroku+PostgreSQL to GitHub Actions to SQLite+Datasette+Fly.io to JavaScript+Observable and finally to Substack.</p>
+<p>The core process is the same as I described <a href="https://simonwillison.net/2023/Apr/4/substack-observable/">back in 2023</a>. I have an Observable notebook called <a href="https://observablehq.com/@simonw/blog-to-newsletter">blog-to-newsletter</a> which fetches content from my blog's database, filters out anything that has been in the newsletter before, formats what's left as HTML and offers a big &quot;Copy rich text newsletter to clipboard&quot; button.</p>
+<p><img src="https://static.simonwillison.net/static/2025/copy-to-newsletter.jpg" alt="Screenshot of the interface. An item in a list says 9080: Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark. A huge button reads Copy rich text newsletter to clipboard - below is a smaller button that says Copy just the links/quotes/TILs. A Last X days slider is set to 2. There are checkboxes for SKip content sent in prior newsletters and only include post content prior to the cutoff comment."></p>
+<p>I click that button, paste the result into the Substack editor, tweak a few things and hit send. The whole process usually takes just a few minutes.</p>
+<p>I make very minor edits:</p>
+<ul>
+<li>I set the title and the subheading for the newsletter. This is often a direct copy of the title of the featured blog post.</li>
+<li>Substack turns YouTube URLs into embeds, which often isn't what I want - especially if I have a YouTube URL inside a code example.</li>
+<li>Blocks of preformatted text often have an extra blank line at the end, which I remove.</li>
+<li>Occasionally I'll make a content edit - removing a piece of content that doesn't fit the newsletter, or fixing a time reference like &quot;yesterday&quot; that doesn't make sense any more.</li>
+<li>I pick the featured image for the newsletter and add some tags.</li>
+</ul>
+<p>That's the whole process!</p>
+<h4>The Observable notebook</h4>
+<p>The most important cell in the Observable notebook is this one:</p>
+<pre><code>raw_content = {
+  return await (
+    await fetch(
+      `https://datasette.simonwillison.net/simonwillisonblog.json?sql=${encodeURIComponent(
+        sql
+      )}&amp;_shape=array&amp;numdays=${numDays}`
+    )
+  ).json();
+}
+</code></pre>
+<p>This uses the JavaScript <code>fetch()</code> function to pull data from my blog's Datasette instance, using a very complex SQL query that is composed elsewhere in the notebook.</p>
+<p>Here's a link to <a href="https://datasette.simonwillison.net/simonwillisonblog?sql=with+content+as+%28%0D%0A++select%0D%0A++++id%2C%0D%0A++++%27entry%27+as+type%2C%0D%0A++++title%2C%0D%0A++++created%2C%0D%0A++++slug%2C%0D%0A++++%27%3Ch3%3E%3Ca+href%3D%22%27+%7C%7C+%27https%3A%2F%2Fsimonwillison.net%2F%27+%7C%7C+strftime%28%27%25Y%2F%27%2C+created%29%0D%0A++++++%7C%7C+substr%28%27JanFebMarAprMayJunJulAugSepOctNovDec%27%2C+%28strftime%28%27%25m%27%2C+created%29+-+1%29+*+3+%2B+1%2C+3%29+%0D%0A++++++%7C%7C+%27%2F%27+%7C%7C+cast%28strftime%28%27%25d%27%2C+created%29+as+integer%29+%7C%7C+%27%2F%27+%7C%7C+slug+%7C%7C+%27%2F%27+%7C%7C+%27%22%3E%27+%0D%0A++++++%7C%7C+title+%7C%7C+%27%3C%2Fa%3E+-+%27+%7C%7C+date%28created%29+%7C%7C+%27%3C%2Fh3%3E%27+%7C%7C+body%0D%0A++++++as+html%2C%0D%0A++++%27null%27+as+json%2C%0D%0A++++%27%27+as+external_url%0D%0A++from+blog_entry%0D%0A++union+all%0D%0A++select%0D%0A++++id%2C%0D%0A++++%27blogmark%27+as+type%2C%0D%0A++++link_title%2C%0D%0A++++created%2C%0D%0A++++slug%2C%0D%0A++++%27%3Cp%3E%3Cstrong%3ELink%3C%2Fstrong%3E+%27+%7C%7C+date%28created%29+%7C%7C+%27+%3Ca+href%3D%22%27%7C%7C+link_url+%7C%7C+%27%22%3E%27%0D%0A++++++%7C%7C+link_title+%7C%7C+%27%3C%2Fa%3E%3A%3C%2Fp%3E%3Cp%3E%27+%7C%7C+%27+%27+%7C%7C+replace%28commentary%2C+%27%0D%0A%27%2C+%27%3Cbr%3E%27%29+%7C%7C+%27%3C%2Fp%3E%27%0D%0A++++++as+html%2C%0D%0A++++json_object%28%0D%0A++++++%27created%27%2C+date%28created%29%2C%0D%0A++++++%27link_url%27%2C+link_url%2C%0D%0A++++++%27link_title%27%2C+link_title%2C%0D%0A++++++%27commentary%27%2C+commentary%2C%0D%0A++++++%27use_markdown%27%2C+use_markdown%0D%0A++++%29+as+json%2C%0D%0A++link_url+as+external_url%0D%0A++from+blog_blogmark%0D%0A++union+all%0D%0A++select%0D%0A++++id%2C%0D%0A++++%27quotation%27+as+type%2C%0D%0A++++source%2C%0D%0A++++created%2C%0D%0A++++slug%2C%0D%0A++++%27%3Cstrong%3Equote%3C%2Fstrong%3E+%27+%7C%7C+date%28created%29+%7C%7C%0D%0A++++%27%3Cblockquote%3E%3Cp%3E%3Cem%3E%27+%7C%7C%0D%0A++++replace%28quotation%2C+%27%0D%0A%27%2C+%27%3Cbr%3E%27%29+%7C%7C+%0D%0A++++%27%3C%2Fem%3E%3C%2Fp%3E%3C%2Fblockquote%3E%3Cp%3E%3Ca+href%3D%22%27+%7C%7C%0D%0A++++coalesce%28source_url%2C+%27%23%27%29+%7C%7C+%27%22%3E%27+%7C%7C+source+%7C%7C+%27%3C%2Fa%3E%27+%7C%7C%0D%0A++++case+%0D%0A++++++++when+nullif%28trim%28context%29%2C+%27%27%29+is+not+null+%0D%0A++++++++then+%27%2C+%27+%7C%7C+context+%0D%0A++++++++else+%27%27+%0D%0A++++end+%7C%7C%0D%0A++++%27%3C%2Fp%3E%27+as+html%2C%0D%0A++++%27null%27+as+json%2C%0D%0A++++source_url+as+external_url%0D%0A++from+blog_quotation%0D%0A++union+all%0D%0A++select%0D%0A++++id%2C%0D%0A++++%27note%27+as+type%2C%0D%0A++++case%0D%0A++++++when+title+is+not+null+and+title+%3C%3E+%27%27+then+title%0D%0A++++++else+%27Note+on+%27+%7C%7C+date%28created%29%0D%0A++++end%2C%0D%0A++++created%2C%0D%0A++++slug%2C%0D%0A++++%27No+HTML%27%2C%0D%0A++++json_object%28%0D%0A++++++%27created%27%2C+date%28created%29%2C%0D%0A++++++%27link_url%27%2C+%27https%3A%2F%2Fsimonwillison.net%2F%27+%7C%7C+strftime%28%27%25Y%2F%27%2C+created%29%0D%0A++++++%7C%7C+substr%28%27JanFebMarAprMayJunJulAugSepOctNovDec%27%2C+%28strftime%28%27%25m%27%2C+created%29+-+1%29+*+3+%2B+1%2C+3%29+%0D%0A++++++%7C%7C+%27%2F%27+%7C%7C+cast%28strftime%28%27%25d%27%2C+created%29+as+integer%29+%7C%7C+%27%2F%27+%7C%7C+slug+%7C%7C+%27%2F%27%2C%0D%0A++++++%27link_title%27%2C+%27%27%2C%0D%0A++++++%27commentary%27%2C+body%2C%0D%0A++++++%27use_markdown%27%2C+1%0D%0A++++%29%2C%0D%0A++++%27%27+as+external_url%0D%0A++from+blog_note%0D%0A++union+all%0D%0A++select%0D%0A++++rowid%2C%0D%0A++++%27til%27+as+type%2C%0D%0A++++title%2C%0D%0A++++created%2C%0D%0A++++%27null%27+as+slug%2C%0D%0A++++%27%3Cp%3E%3Cstrong%3ETIL%3C%2Fstrong%3E+%27+%7C%7C+date%28created%29+%7C%7C+%27+%3Ca+href%3D%22%27%7C%7C+%27https%3A%2F%2Ftil.simonwillison.net%2F%27+%7C%7C+topic+%7C%7C+%27%2F%27+%7C%7C+slug+%7C%7C+%27%22%3E%27+%7C%7C+title+%7C%7C+%27%3C%2Fa%3E%3A%27+%7C%7C+%27+%27+%7C%7C+substr%28html%2C+1%2C+instr%28html%2C+%27%3C%2Fp%3E%27%29+-+1%29+%7C%7C+%27+%26%238230%3B%3C%2Fp%3E%27+as+html%2C%0D%0A++++%27null%27+as+json%2C%0D%0A++++%27https%3A%2F%2Ftil.simonwillison.net%2F%27+%7C%7C+topic+%7C%7C+%27%2F%27+%7C%7C+slug+as+external_url%0D%0A++from+til%0D%0A%29%2C%0D%0Acollected+as+%28%0D%0A++select%0D%0A++++id%2C%0D%0A++++type%2C%0D%0A++++title%2C%0D%0A++++case%0D%0A++++++when+type+%3D+%27til%27%0D%0A++++++then+external_url%0D%0A++++++else+%27https%3A%2F%2Fsimonwillison.net%2F%27+%7C%7C+strftime%28%27%25Y%2F%27%2C+created%29%0D%0A++++++%7C%7C+substr%28%27JanFebMarAprMayJunJulAugSepOctNovDec%27%2C+%28strftime%28%27%25m%27%2C+created%29+-+1%29+*+3+%2B+1%2C+3%29+%7C%7C+%0D%0A++++++%27%2F%27+%7C%7C+cast%28strftime%28%27%25d%27%2C+created%29+as+integer%29+%7C%7C+%27%2F%27+%7C%7C+slug+%7C%7C+%27%2F%27%0D%0A++++++end+as+url%2C%0D%0A++++created%2C%0D%0A++++html%2C%0D%0A++++json%2C%0D%0A++++external_url%2C%0D%0A++++case%0D%0A++++++when+type+%3D+%27entry%27+then+%28%0D%0A++++++++select+json_group_array%28tag%29%0D%0A++++++++from+blog_tag%0D%0A++++++++join+blog_entry_tags+on+blog_tag.id+%3D+blog_entry_tags.tag_id%0D%0A++++++++where+blog_entry_tags.entry_id+%3D+content.id%0D%0A++++++%29%0D%0A++++++when+type+%3D+%27blogmark%27+then+%28%0D%0A++++++++select+json_group_array%28tag%29%0D%0A++++++++from+blog_tag%0D%0A++++++++join+blog_blogmark_tags+on+blog_tag.id+%3D+blog_blogmark_tags.tag_id%0D%0A++++++++where+blog_blogmark_tags.blogmark_id+%3D+content.id%0D%0A++++++%29%0D%0A++++++when+type+%3D+%27quotation%27+then+%28%0D%0A++++++++select+json_group_array%28tag%29%0D%0A++++++++from+blog_tag%0D%0A++++++++join+blog_quotation_tags+on+blog_tag.id+%3D+blog_quotation_tags.tag_id%0D%0A++++++++where+blog_quotation_tags.quotation_id+%3D+content.id%0D%0A++++++%29%0D%0A++++++else+%27%5B%5D%27%0D%0A++++end+as+tags%0D%0A++from+content%0D%0A++where+created+%3E%3D+date%28%27now%27%2C+%27-%27+%7C%7C+%3Anumdays+%7C%7C+%27+days%27%29+++%0D%0A++order+by+created+desc%0D%0A%29%0D%0Aselect+id%2C+type%2C+title%2C+url%2C+created%2C+html%2C+json%2C+external_url%2C+tags%0D%0Afrom+collected+%0D%0Aorder+by+%0D%0A++case+type+%0D%0A++++when+%27entry%27+then+0+%0D%0A++++else+1+%0D%0A++end%2C%0D%0A++case+type+%0D%0A++++when+%27entry%27+then+created+%0D%0A++++else+-strftime%28%27%25s%27%2C+created%29+%0D%0A++end+desc%3B&amp;numdays=7">see and execute that query</a> directly in Datasette. It's 143 lines of convoluted SQL that assembles most of the HTML for the newsletter using SQLite string concatenation! An illustrative snippet:</p>
+<pre><code>with content as (
+  select
+    id,
+    'entry' as type,
+    title,
+    created,
+    slug,
+    '&lt;h3&gt;&lt;a href=&quot;' || 'https://simonwillison.net/' || strftime('%Y/', created)
+      || substr('JanFebMarAprMayJunJulAugSepOctNovDec', (strftime('%m', created) - 1) * 3 + 1, 3)
+      || '/' || cast(strftime('%d', created) as integer) || '/' || slug || '/' || '&quot;&gt;'
+      || title || '&lt;/a&gt; - ' || date(created) || '&lt;/h3&gt;' || body
+      as html,
+    'null' as json,
+    '' as external_url
+  from blog_entry
+  union all
+  # ...
+</code></pre>
+<p>My blog's URLs look like <code>/2025/Nov/18/gemini-3/</code> - this SQL constructs that three letter month abbreviation from the month number using a substring operation.</p>
+<p>This is a <em>terrible</em> way to assemble HTML, but I've stuck with it because it amuses me.</p>
+<p>The rest of the Observable notebook takes that data, filters out anything that links to content mentioned in the previous newsletters and composes it into a block of HTML that can be copied using that big button.</p>
+<p>Here's the recipe it uses to turn HTML into rich text content on a clipboard suitable for Substack. I can't remember how I figured this out but it's very effective:</p>
+<pre><code>Object.assign(
+  html`&lt;button style=&quot;font-size: 1.4em; padding: 0.3em 1em; font-weight: bold;&quot;&gt;Copy rich text newsletter to clipboard`,
+  {
+    onclick: () =&gt; {
+      const htmlContent = newsletterHTML;
+      // Create a temporary element to hold the HTML content
+      const tempElement = document.createElement(&quot;div&quot;);
+      tempElement.innerHTML = htmlContent;
+      document.body.appendChild(tempElement);
+      // Select the HTML content
+      const range = document.createRange();
+      range.selectNode(tempElement);
+      // Copy the selected HTML content to the clipboard
+      const selection = window.getSelection();
+      selection.removeAllRanges();
+      selection.addRange(range);
+      document.execCommand(&quot;copy&quot;);
+      selection.removeAllRanges();
+      document.body.removeChild(tempElement);
+    }
+  }
+)
+</code></pre>
+<h4>From Django+Postgresql to Datasette+SQLite</h4>
+<p>My blog itself is a Django application hosted on Heroku, with data stored in Heroku PostgreSQL. Here's <a href="https://github.com/simonw/simonwillisonblog">the source code for that Django application</a>. I use the Django admin as my CMS.</p>
+<p><a href="https://datasette.io/">Datasette</a> provides a JSON API over a SQLite database... which means something needs to convert that PostgreSQL database into a SQLite database that Datasette can use.</p>
+<p>My system for doing that lives in the <a href="https://github.com/simonw/simonwillisonblog-backup">simonw/simonwillisonblog-backup</a> GitHub repository. It uses GitHub Actions on a schedule that executes every two hours, fetching the latest data from PostgreSQL and converting that to SQLite.</p>
+<p>My <a href="https://github.com/simonw/db-to-sqlite">db-to-sqlite</a> tool is responsible for that conversion. I call it <a href="https://github.com/simonw/simonwillisonblog-backup/blob/dc5b9df272134ce051a5280b4de6d4daa9b2a9fc/.github/workflows/backup.yml#L44-L62">like this</a>:</p>
+<pre><code>db-to-sqlite \
+  $(heroku config:get DATABASE_URL -a simonwillisonblog | sed s/postgres:/postgresql+psycopg2:/) \
+  simonwillisonblog.db \
+  --table auth_permission \
+  --table auth_user \
+  --table blog_blogmark \
+  --table blog_blogmark_tags \
+  --table blog_entry \
+  --table blog_entry_tags \
+  --table blog_quotation \
+  --table blog_quotation_tags \
+  --table blog_note \
+  --table blog_note_tags \
+  --table blog_tag \
+  --table blog_previoustagname \
+  --table blog_series \
+  --table django_content_type \
+  --table redirects_redirect
+</code></pre>
+<p>That <code>heroku config:get DATABASE_URL</code> command uses Heroku credentials in an environment variable to fetch the database connection URL for my blog's PostgreSQL database (and fixes a small difference in the URL scheme).</p>
+<p><code>db-to-sqlite</code> can then export that data and write it to a SQLite database file called <code>simonwillisonblog.db</code>.</p>
+<p>The <code>--table</code> options specify the tables that should be included in the export.</p>
+<p>The repository does more than just that conversion: it also exports the resulting data to JSON files that live in the repository, which gives me a <a href="https://github.com/simonw/simonwillisonblog-backup/commits/main/simonwillisonblog">commit history</a> of changes I make to my content. This is a cheap way to get a revision history of my blog content without having to mess around with detailed history tracking inside the Django application itself.</p>
+<p>At the <a href="https://github.com/simonw/simonwillisonblog-backup/blob/dc5b9df272134ce051a5280b4de6d4daa9b2a9fc/.github/workflows/backup.yml#L200-L204">end of my GitHub Actions workflow</a> is this code that publishes the resulting database to Datasette running on <a href="https://fly.io/">Fly.io</a> using the <a href="https://datasette.io/plugins/datasette-publish-fly">datasette publish fly</a> plugin:</p>
+<pre><code>datasette publish fly simonwillisonblog.db \
+  -m metadata.yml \
+  --app simonwillisonblog-backup \
+  --branch 1.0a2 \
+  --extra-options &quot;--setting sql_time_limit_ms 15000 --setting truncate_cells_html 10000 --setting allow_facet off&quot; \
+  --install datasette-block-robots \
+  # ... more plugins
+</code></pre>
+<p>As you can see, there are a lot of moving parts! Surprisingly it all mostly just works - I rarely have to intervene in the process, and the cost of those different components is pleasantly low.</p>
+<p>Tags: <a href="https://simonwillison.net/tags/blogging">blogging</a>, <a href="https://simonwillison.net/tags/django">django</a>, <a href="https://simonwillison.net/tags/javascript">javascript</a>, <a href="https://simonwillison.net/tags/postgresql">postgresql</a>, <a href="https://simonwillison.net/tags/sql">sql</a>, <a href="https://simonwillison.net/tags/sqlite">sqlite</a>, <a href="https://simonwillison.net/tags/youtube">youtube</a>, <a href="https://simonwillison.net/tags/heroku">heroku</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a>, <a href="https://simonwillison.net/tags/observable">observable</a>, <a href="https://simonwillison.net/tags/github-actions">github-actions</a>, <a href="https://simonwillison.net/tags/fly">fly</a>, <a href="https://simonwillison.net/tags/newsletter">newsletter</a></p>
+
+      <address>
+        <a href="https://simonwillison.net/2025/Nov/19/how-i-automate-my-substack-newsletter/#atom-everything">https://simonwillison.net/2025/Nov/19/how-i-automate-my-substack-newsletter/#atom-everything</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-19T21:46:42Z" data-link="https://www.borowitzreport.com/p/lindsey-halligan-reveals-her-dream">
+      <h1>Lindsey Halligan Reveals Her Dream is to Someday Go to Law School</h1>
+
+(date: 2025-11-19)
+      <p>
+      <p>“Ever since I was a little kid I’ve always dreamed of being a lawyer.”</p>
+
+      <address>
+        <a href="https://www.borowitzreport.com/p/lindsey-halligan-reveals-her-dream">https://www.borowitzreport.com/p/lindsey-halligan-reveals-her-dream</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-19T21:45:23Z" data-link="https://www.mlb.com/news/mlb-announces-media-rights-deals-with-espn-nbc-netflix">
+      <h1>Contrary to Rumors, Apple Will Continue Broadcasting ‘Friday Night Baseball’</h1>
+
+(date: 2025-11-19)
+      <p>
+      
+      <address>
+        <a href="https://www.mlb.com/news/mlb-announces-media-rights-deals-with-espn-nbc-netflix">https://www.mlb.com/news/mlb-announces-media-rights-deals-with-espn-nbc-netflix</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-19T21:30:34Z" data-link="https://robertreich.substack.com/p/the-real-danger-to-press-freedom">
+      <h1>The real danger to press freedom has nothing to do with Trump's personal insults. </h1>
+
+(date: 2025-11-19)
+      <p>
+      <p>And everything to do with his threats to corporate media's profits.</p>
+
+      <address>
+        <a href="https://robertreich.substack.com/p/the-real-danger-to-press-freedom">https://robertreich.substack.com/p/the-real-danger-to-press-freedom</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-19T21:09:22Z" data-link="https://tilde.zone/@tomasino/115578408990050196">
+      <h1>@Tomosino's Mastodon feed</h1>
+
+(date: 2025-11-19)
+      <p>
+      <p>I'm listening to this middle grade book I vaguely remember from 5th grade. It's called The Castle in the Attic. This recording has a full cast. The voice of the silver knight struck my memory because he sounds really similar to the voice of August Strindberg from the early 2000s Flash cartoon, &quot;Strindberg and Helium&quot;. Know what I'm talking about? No?</p>
+<p><a href="https://youtu.be/-xT-vp-6jvY?si=qCxpiqgUgjHWKuW0">https://youtu.be/-xT-vp-6jvY?si=qCxpiqgUgjHWKuW0</a></p>
+<p>There! Now you do.</p>
+<p>The agony becomes intolerable.</p>
+
+      <address>
+        <a href="https://tilde.zone/@tomasino/115578408990050196">https://tilde.zone/@tomasino/115578408990050196</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-19T20:56:20Z" data-link="https://lithub.com/wicked-on-the-brain-watch-the-original-1910-film-adaptation-of-the-wizard-of-oz/">
+      <h1>Wicked  on the brain? Watch the original 1910 film adaptation of  The Wizard of Oz.</h1>
+
+(date: 2025-11-19)
+      <p>
+      <p>If you’ve been watching the trials of the Wicked press tour with bated breath—or if you’ve been clenching your wand for nine straight months, just waiting for the release of a certain cash-grabby sequel—boy, have I got a hump day</p>
+
+      <address>
+        <a href="https://lithub.com/wicked-on-the-brain-watch-the-original-1910-film-adaptation-of-the-wizard-of-oz/">https://lithub.com/wicked-on-the-brain-watch-the-original-1910-film-adaptation-of-the-wizard-of-oz/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-19T20:51:13Z" data-link="https://adactio.com/notes/22260">
+      <h1>Wednesday session</h1>
+
+(date: 2025-11-19)
+      <p>
+      <p><img src="https://adactio.com/images/uploaded/22260/small.jpg" alt="Wednesday session"></p>
+<p>Wednesday session</p>
+
+      <address>
+        <a href="https://adactio.com/notes/22260">https://adactio.com/notes/22260</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-19T20:29:24Z" data-link="https://mastodon.social/@arroz/115577670987313083">
+      <h1>Cloudflare’s Uptime and Scale</h1>
+
+(date: 2025-11-19, updated: 2025-11-20)
+      <p>
+      
+      <address>
+        <a href="https://mastodon.social/@arroz/115577670987313083">https://mastodon.social/@arroz/115577670987313083</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-19T20:26:33Z" data-link="https://heathercoxrichardson.substack.com/p/november-18-2025-0bf">
+      <h1>November 18, 2025</h1>
+
+(date: 2025-11-19)
+      <p>
+      
+      <address>
+        <a href="https://heathercoxrichardson.substack.com/p/november-18-2025-0bf">https://heathercoxrichardson.substack.com/p/november-18-2025-0bf</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-19T20:19:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3m5z3acci722r">
+      <h1>@Robert's feed at BlueSky</h1>
+
+(date: 2025-11-19)
+      <p>
+      <p>Stumbled on this, link-to-text.github.io, kinda handy for testing things.<a href="https://link-to-text.github.io/">https://link-to-text.github.io/</a></p>
+
+      <address>
+        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3m5z3acci722r">https://bsky.app/profile/rsdoiel.bsky.social/post/3m5z3acci722r</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-19T20:14:56Z" data-link="https://tilde.zone/@tomasino/115578194905119761">
+      <h1>@Tomosino's Mastodon feed</h1>
+
+(date: 2025-11-19)
+      <p>
+      <p>This was my source book. Petrosian is my chess hero</p>
+
+      <address>
+        <a href="https://tilde.zone/@tomasino/115578194905119761">https://tilde.zone/@tomasino/115578194905119761</a>
       </address>
     </article>
 
@@ -799,7 +1165,7 @@ github.com##inline-machine-translation
 <p>This resulted in the following panic which in turn resulted in a 5xx error:</p>
 <p><code>thread fl2_worker_thread panicked: called Result::unwrap() on an Err value</code></p>
 </blockquote>
-<p>— <a href="https://blog.cloudflare.com/18-november-2025-outage/">Matthew Prince</a>, Cloudflare outage on November 18, 2025</p>
+<p>— <a href="https://blog.cloudflare.com/18-november-2025-outage/">Matthew Prince</a>, Cloudflare outage on November 18, 2025, <a href="https://news.ycombinator.com/item?id=45973709#45974320">see also this comment</a></p>
 <p>Tags: <a href="https://simonwillison.net/tags/scaling">scaling</a>, <a href="https://simonwillison.net/tags/postmortem">postmortem</a>, <a href="https://simonwillison.net/tags/cloudflare">cloudflare</a>, <a href="https://simonwillison.net/tags/rust">rust</a></p>
 
       <address>
@@ -1003,7 +1369,7 @@ significant barrier to BIBFRAME becoming a viable replacement for MARC.</p>
     <article data-published="2025-11-18T23:04:12Z" data-link="https://www.thebulwark.com/p/trump-is-not-have-all-the-mentals-cognitive-functioning?r=9x4vy">
       <h1>Sir, This Is a McDonald’s</h1>
 
-(date: 2025-11-18, updated: 2025-11-19)
+(date: 2025-11-18, updated: 2025-11-20)
       <p>
       
       <address>
@@ -1166,6 +1532,17 @@ significant barrier to BIBFRAME becoming a viable replacement for MARC.</p>
 
       <address>
         <a href="https://simonwillison.net/2025/Nov/18/google-antigravity/#atom-everything">https://simonwillison.net/2025/Nov/18/google-antigravity/#atom-everything</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-18T20:31:13Z" data-link="https://www.mollywhite.net/micro/entry/202511181530">
+      <h1>Note published on November 18, 2025 at 8:31 PM UTC</h1>
+
+(date: 2025-11-18)
+      <p>
+      
+      <address>
+        <a href="https://www.mollywhite.net/micro/entry/202511181530">https://www.mollywhite.net/micro/entry/202511181530</a>
       </address>
     </article>
 
@@ -8250,6 +8627,17 @@ Had I really become a corporate husk of my former, carefree self, puppeteered by
       </address>
     </article>
 
+    <article data-published="2025-11-10T23:49:18Z" data-link="https://www.mollywhite.net/micro/entry/202511101848">
+      <h1>Note published on November 10, 2025 at 11:49 PM UTC</h1>
+
+(date: 2025-11-10)
+      <p>
+      
+      <address>
+        <a href="https://www.mollywhite.net/micro/entry/202511101848">https://www.mollywhite.net/micro/entry/202511101848</a>
+      </address>
+    </article>
+
     <article data-published="2025-11-10T23:27:18Z" data-link="https://adactio.com/notes/22240">
       <h1>Gatehouse</h1>
 
@@ -8626,6 +9014,17 @@ Had I really become a corporate husk of my former, carefree self, puppeteered by
 
       <address>
         <a href="https://lithub.com/elon-musk-gets-roasted-on-his-own-platform-by-joyce-carol-oates/">https://lithub.com/elon-musk-gets-roasted-on-his-own-platform-by-joyce-carol-oates/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-10T16:12:25Z" data-link="https://www.mollywhite.net/micro/entry/202511101112">
+      <h1>Note published on November 10, 2025 at 4:12 PM UTC</h1>
+
+(date: 2025-11-10)
+      <p>
+      
+      <address>
+        <a href="https://www.mollywhite.net/micro/entry/202511101112">https://www.mollywhite.net/micro/entry/202511101112</a>
       </address>
     </article>
 
@@ -19250,881 +19649,6 @@ anything amiss.</p>
 
       <address>
         <a href="http://haskell.org/ghc/blog/20251030-ghc-9.14.1-rc1-released.html">http://haskell.org/ghc/blog/20251030-ghc-9.14.1-rc1-released.html</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T23:59:20Z" data-link="https://simonwillison.net/2025/Oct/29/swe-15/#atom-everything">
-      <h1>Introducing SWE-1.5: Our Fast Agent Model</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p><strong><a href="https://cognition.ai/blog/swe-1-5">Introducing SWE-1.5: Our Fast Agent Model</a></strong></p>
-<p>Here's the second fast coding model released by a coding agent IDE in the same day - the first was <a href="https://simonwillison.net/2025/Oct/29/cursor-composer/">Composer-1 by Cursor</a>. This time it's Windsurf releasing SWE-1.5:</p>
-<blockquote>
-<p>Today we’re releasing SWE-1.5, the latest in our family of models optimized for software engineering. It is a frontier-size model with hundreds of billions of parameters that achieves near-SOTA coding performance. It also sets a new standard for speed: we partnered with Cerebras to serve it at up to 950 tok/s – 6x faster than Haiku 4.5 and 13x faster than Sonnet 4.5.</p>
-</blockquote>
-<p>Like Composer-1 it's only available via their editor, no separate API yet. Also like Composer-1 they don't appear willing to share details of the &quot;leading open-source base model&quot; they based their new model on.</p>
-<p>I asked it to generate an SVG of a pelican riding a bicycle and got this:</p>
-<p><img src="https://static.simonwillison.net/static/2025/swe-pelican.png" alt="Bicycle has a red upside down Y shaped frame, pelican is a bit dumpy, it does at least have a long sharp beak."></p>
-<p>This one felt <em>really fast</em>. Partnering with Cerebras for inference is a very smart move.</p>
-<p>They share a lot of details about their training process in the post:</p>
-<blockquote>
-<p>SWE-1.5 is trained on our state-of-the-art cluster of thousands of GB200 NVL72 chips. We believe SWE-1.5 may be the first public production model trained on the new GB200 generation. [...]</p>
-<p>Our RL rollouts require high-fidelity environments with code execution and even web browsing. To achieve this, we leveraged our VM hypervisor <code>otterlink</code> that  allows us to scale <strong>Devin</strong> to tens of thousands of concurrent machines (learn more about <a href="https://cognition.ai/blog/blockdiff#why-incremental-vm-snapshots">blockdiff</a>). This enabled us to smoothly support very high concurrency and ensure the training environment is aligned with our Devin production environments.</p>
-</blockquote>
-<p>That's <em>another</em> similarity to Cursor's Composer-1! Cursor talked about how they ran &quot;hundreds of thousands of concurrent sandboxed coding environments in the cloud&quot; in <a href="https://cursor.com/blog/composer">their description of their RL training</a> as well.</p>
-<p>This is a notable trend: if you want to build a really great agentic coding tool there's clearly a lot to be said for using reinforcement learning to fine-tune a model against your own custom set of tools using large numbers of sandboxed simulated coding environments as part of that process.</p>
-<p><strong>Update</strong>: <a href="https://x.com/zai_org/status/1984076614951420273">I think it's built on GLM</a>.</p>
-<p>Via <a href="https://x.com/cognition/status/1983662838955831372">@cognition</a></p>
-<p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a></p>
-
-      <address>
-        <a href="https://simonwillison.net/2025/Oct/29/swe-15/#atom-everything">https://simonwillison.net/2025/Oct/29/swe-15/#atom-everything</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T22:49:47Z" data-link="https://simonwillison.net/2025/Oct/29/minimax-m2/#atom-everything">
-      <h1>MiniMax M2 & Agent: Ingenious in Simplicity</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p><strong><a href="https://www.minimax.io/news/minimax-m2">MiniMax M2 &amp; Agent: Ingenious in Simplicity</a></strong></p>
-<p>MiniMax M2 was released on Monday 27th October by MiniMax, a Chinese AI lab founded in December 2021.</p>
-<p>It's a very promising model. Their self-reported benchmark scores show it as comparable to Claude Sonnet 4, and Artificial Analysis <a href="https://x.com/ArtificialAnlys/status/1982714153375854998">are ranking it</a> as the best currently available open weight model according to their intelligence score:</p>
-<blockquote>
-<p>MiniMax’s M2 achieves a new all-time-high Intelligence Index score for an open weights model and offers impressive efficiency with only 10B active parameters (200B total). [...]</p>
-<p>The model’s strengths include tool use and instruction following (as shown by Tau2 Bench and IFBench). As such, while M2 likely excels at agentic use cases it may underperform other open weights leaders such as DeepSeek V3.2 and Qwen3 235B at some generalist tasks. This is in line with a number of recent open weights model releases from Chinese AI labs which focus on agentic capabilities, likely pointing to a heavy post-training emphasis on RL.</p>
-</blockquote>
-<p>The size is particularly significant: the model weights are 230GB <a href="https://huggingface.co/MiniMaxAI/MiniMax-M2">on Hugging Face</a>, significantly smaller than other high performing open weight models. That's small enough to run on a 256GB Mac Studio, and the MLX community <a href="https://huggingface.co/mlx-community/MiniMax-M2-8bit">have that working already</a>.</p>
-<p>MiniMax offer their own API, and recommend using their Anthropic-compatible endpoint and the official Anthropic SDKs to access it. MiniMax Head of Engineering Skyler Miao<a href="https://x.com/SkylerMiao7/status/1982989507252367687">provided some background on that</a>:</p>
-<blockquote>
-<p>M2 is a agentic thinking model, it do interleaved thinking like sonnet 4.5, which means every response will contain its thought content.
-Its very important for M2 to keep the chain of thought. So we must make sure the history thought passed back to the model.
-Anthropic API support it for sure, as sonnet needs it as well. OpenAI only support it in their new Response API, no support for in ChatCompletion.</p>
-</blockquote>
-<p>MiniMax are offering the new model via their API for free until November 7th, after which the cost will be <span class="math inline">\(0.30/million input tokens and \)</span>1.20/million output tokens - similar in price to Gemini 2.5 Flash and GPT-5 Mini, see <a href="https://www.llm-prices.com/#it=51&amp;ot=4017&amp;sel=minimax-m2%2Cgpt-5-mini%2Cclaude-3-haiku%2Cgemini-2.5-flash-lite%2Cgemini-2.5-flash">price comparison here</a> on my <a href="https://www.llm-prices.com/">llm-prices.com</a> site.</p>
-<p>I released a new plugin for <a href="https://llm.datasette.io/">LLM</a> called <a href="https://github.com/simonw/llm-minimax">llm-minimax</a> providing support for M2 via the MiniMax API:</p>
-<pre><code>llm install llm-minimax
-llm keys set minimax
-# Paste key here
-llm -m m2 -o max_tokens 10000 &quot;Generate an SVG of a pelican riding a bicycle&quot;
-
-</code></pre>
-<p>Here's <a href="https://gist.github.com/simonw/da79447830dc431c067a93648b338be6">the result</a>:</p>
-<p><img src="https://static.simonwillison.net/static/2025/m2-pelican.png" alt="Biycle is good though obscured by the pelican. Pelican has an impressive triple beak and is stretched along the bicycle frame. Not clear if it can pedal or what it is sitting on."></p>
-<p>51 input, 4,017 output. At <span class="math inline">\(0.30/m input and \)</span>1.20/m output that pelican would cost 0.4836 cents - less than half a cent.</p>
-<p>This is the first plugin I've written for an Anthropic-API-compatible model. I released <a href="https://github.com/simonw/llm-anthropic/releases/tag/0.21">llm-anthropic 0.21</a> first adding the ability to customize the <code>base_url</code> parameter when using that model class. This meant the new plugin was less than <a href="https://github.com/simonw/llm-minimax/blob/0.1/llm_minimax.py">30 lines of Python</a>.</p>
-<p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/ai-in-china">ai-in-china</a>, <a href="https://simonwillison.net/tags/minimax">minimax</a></p>
-
-      <address>
-        <a href="https://simonwillison.net/2025/Oct/29/minimax-m2/#atom-everything">https://simonwillison.net/2025/Oct/29/minimax-m2/#atom-everything</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T22:00:37Z" data-link="https://robertreich.substack.com/p/live-with-katie-couric-about-the">
-      <h1>Live with Katie Couric about the Shutdown</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Friends,</p>
-
-      <address>
-        <a href="https://robertreich.substack.com/p/live-with-katie-couric-about-the">https://robertreich.substack.com/p/live-with-katie-couric-about-the</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T21:26:02Z" data-link="https://share.inquirer.com/A2DX3Y">
-      <h1>Local Note: WMMR’s Pierre Robert Found Dead at 70</h1>
-
-(date: 2025-10-29)
-      <p>
-      
-      <address>
-        <a href="https://share.inquirer.com/A2DX3Y">https://share.inquirer.com/A2DX3Y</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T21:06:22Z" data-link="https://mastodon.social/@Migueldeicaza/115459488664455021">
-      <h1>@Miguel de Icaza Mastondon feed</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Am I the only person that can never log into his Apple accounts every time one of those dialogs pops up, and I have to enter my password like 10 times?</p>
-<p>I swear it only happens with Apple accounts.</p>
-
-      <address>
-        <a href="https://mastodon.social/@Migueldeicaza/115459488664455021">https://mastodon.social/@Migueldeicaza/115459488664455021</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T20:45:53Z" data-link="https://simonwillison.net/2025/Oct/29/cursor-composer/#atom-everything">
-      <h1>Composer: Building a fast frontier model with RL</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p><strong><a href="https://cursor.com/blog/composer">Composer: Building a fast frontier model with RL</a></strong></p>
-<p>Cursor released <a href="https://cursor.com/blog/2-0">Cursor 2.0 today</a>, with a refreshed UI focused on agentic coding (and running agents in parallel) and a new model that's unique to Cursor called <strong>Composer 1</strong>.</p>
-<p>As far as I can tell there's no way to call the model directly via an API, so I fired up &quot;Ask&quot; mode in Cursor's chat side panel and asked it to &quot;Generate an SVG of a pelican riding a bicycle&quot;:</p>
-<p><img src="https://static.simonwillison.net/static/2025/cursor-2.jpg" alt="Screenshot of Cursor 2 - In the chat panel I have asked the question and it spat out a bunch of SVG."></p>
-<p>Here's <a href="https://gist.github.com/simonw/e5c9176f153ca718370055ecd256fe70">the result</a>:</p>
-<p><img src="https://static.simonwillison.net/static/2025/cursor-1-pelican.png" alt="The bicycle is levitating against a blue sky. The pelican looks a little bit more like a baby chicken but does at least have a long beak."></p>
-<p>The notable thing about Composer-1 is that it is designed to be <em>fast</em>. The pelican certainly came back quickly, and in their announcement they describe it as being &quot;4x faster than similarly intelligent models&quot;.</p>
-<p>It's interesting to see Cursor investing resources in training their own code-specific model - similar to <a href="https://openai.com/index/introducing-upgrades-to-codex/">GPT-5-Codex</a> or <a href="https://github.com/QwenLM/Qwen3-Coder">Qwen3-Coder</a>. From their post:</p>
-<blockquote>
-<p>Composer is a mixture-of-experts (MoE) language model supporting long-context generation and understanding. It is specialized for software engineering through reinforcement learning (RL) in a diverse range of development environments. [...]</p>
-<p>Efficient training of large MoE models requires significant investment into building infrastructure and systems research. We built custom training infrastructure leveraging PyTorch and Ray to power asynchronous reinforcement learning at scale. We natively train our models at low precision by combining our <a href="https://cursor.com/blog/kernels">MXFP8 MoE kernels</a> with expert parallelism and hybrid sharded data parallelism, allowing us to scale training to thousands of NVIDIA GPUs with minimal communication cost. [...]</p>
-<p>During RL, we want our model to be able to call any tool in the Cursor Agent harness. These tools allow editing code, using semantic search, grepping strings, and running terminal commands. At our scale, teaching the model to effectively call these tools requires running hundreds of thousands of concurrent sandboxed coding environments in the cloud.</p>
-</blockquote>
-<p>One detail that's notably absent from their description: did they train the model from scratch, or did they start with an existing open-weights model such as something from Qwen or GLM?</p>
-<p>Cursor researcher Sasha Rush has been answering questions <a href="https://news.ycombinator.com/item?id=45748725">on Hacker News</a>, but has so far been evasive in answering questions about the base model. When directly asked &quot;is Composer a fine tune of an existing open source base model?&quot; they replied:</p>
-<blockquote>
-<p>Our primary focus is on RL post-training. We think that is the best way to get the model to be a strong interactive agent.</p>
-</blockquote>
-<p>Sasha <a href="https://news.ycombinator.com/item?id=45748725#45750784">did confirm</a> that rumors of an earlier Cursor preview model, Cheetah, being based on a model by xAI's Grok were &quot;Straight up untrue.&quot;</p>
-<p>Via <a href="https://news.ycombinator.com/item?id=45748725">Hacker News</a></p>
-<p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/cursor">cursor</a>, <a href="https://simonwillison.net/tags/parallel-agents">parallel-agents</a></p>
-
-      <address>
-        <a href="https://simonwillison.net/2025/Oct/29/cursor-composer/#atom-everything">https://simonwillison.net/2025/Oct/29/cursor-composer/#atom-everything</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T20:39:15Z" data-link="https://mastodon.social/@Migueldeicaza/115459382043784133">
-      <h1>@Miguel de Icaza Mastondon feed</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Sometimes, when I get a native crash and I have no idea what happened, I paste the disassembly into aistudio and have it explain to me what is going on.</p>
-<p>It might not be able to count how many letters are in strawberry, but it can pinpoint the root cause for a bug in Apple's Objective-C runtime.</p>
-<p>This is a regression in iOS 26.1 beta:</p>
-
-      <address>
-        <a href="https://mastodon.social/@Migueldeicaza/115459382043784133">https://mastodon.social/@Migueldeicaza/115459382043784133</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T20:38:00Z" data-link="https://bsky.app/profile/barackobama.bsky.social/post/3m4ecirihas2r">
-      <h1>@Barack Obama @Bsky</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Pennsylvania has an important Supreme Court race coming up on Tuesday, November 4. If you live in the Keystone State, or know someone who does, vote YES to retain three justices who will protect your fundamental rights and freedoms.</p>
-
-      <address>
-        <a href="https://bsky.app/profile/barackobama.bsky.social/post/3m4ecirihas2r">https://bsky.app/profile/barackobama.bsky.social/post/3m4ecirihas2r</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T20:26:02Z" data-link="https://www.inquirer.com/entertainment/media/pierre-robert-wmmr-host-death-20251029.html">
-      <h1>Local Note: WMMR’s Pierre Robert Found Dead at 70</h1>
-
-(date: 2025-10-29)
-      <p>
-      
-      <address>
-        <a href="https://www.inquirer.com/entertainment/media/pierre-robert-wmmr-host-death-20251029.html">https://www.inquirer.com/entertainment/media/pierre-robert-wmmr-host-death-20251029.html</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T18:43:06Z" data-link="http://scripting.com/2025/10/29/184306.html?title=honoringPeopleWhoAreAlive">
-      <h1>Honoring people who are alive</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Wouldn't it be great if there was a holiday once a year where each of us had a virtual awards show for people we know who have special qualities that make them excellent people or friends. We put all our focus on a few personalities who have obvious defects. And we don't express public gushing love until people die. How much better our lives would be if we focused on the good, generous and creative people among us who have made our lives better?</p>
-<p>I would honor people I love because they project strength and empathy, for me that would be AOC who I'd love to have as a niece or sister, or aunt, and no doubt she'd make a great mom. I don't like Schumer because he's sad and stupid. We need someone in that role who's more like JFK or even LBJ. Confident bordering on arrogance. Someone with the <a href="https://daytona.scripting.com/search?q=gravitas">gravitas</a> Schumer doesn't project.</p>
-<p>I would give an award to <a href="https://daytona.scripting.com/search?q=%22Philippe%20Kahn%22">Philippe Kahn</a> for practical brilliance. I've learned from everyone I've competed with, and he had a practical philosophy about software I had never seen before. A feature that he saw that made the product more brilliant. They weren't huge things, but they showed he was thinking about the user. Not surprising that a few years after our competiton between Sidekick and Ready he went on to prove that a mobile phone would make a great camera. He not only thought of it, he made it work. That's the kind of spirit I admire.</p>
-<p>I was on panels with him a few times, he always had funny things to say, irreverant, sarcastic, but one time he let Bill Gates have it (he was in the room) and called him out for &quot;hogging the fast lane&quot; -- and even though I don't remember what the issue was, I do remember that I knew he was totally right.</p>
-<p>He's very much <a href="https://en.wikipedia.org/wiki/Philippe_Kahn">alive</a> as far as I know. But I think it would be nice to write our epitaphs while the people we're praising are around to hear it! So going back to the original awards, that would be a requirement, the people you call out must be alive.</p>
-
-      <address>
-        <a href="http://scripting.com/2025/10/29/184306.html?title=honoringPeopleWhoAreAlive">http://scripting.com/2025/10/29/184306.html?title=honoringPeopleWhoAreAlive</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T18:16:24Z" data-link="https://mjtsai.com/blog/2025/10/29/swift-6-2-notificationcenter-messages/">
-      <h1>Swift 6.2: NotificationCenter Messages</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Holly Borla: In Swift 6.2, the Foundation library includes a modern NotificationCenter API that uses concrete notification types instead of relying on strings and untyped dictionaries for notification names and payloads. This means you can define a notification struct with stored properties, and observers can use the type without error-prone indexing and dynamic casting. Apple: […]</p>
-
-      <address>
-        <a href="https://mjtsai.com/blog/2025/10/29/swift-6-2-notificationcenter-messages/">https://mjtsai.com/blog/2025/10/29/swift-6-2-notificationcenter-messages/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T18:15:52Z" data-link="https://mjtsai.com/blog/2025/10/29/swift-6-2/">
-      <h1>Swift 6.2</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Holly Borla: InlineArray is a new fixed-size array with inline storage for elements, which can be stored on the stack or directly within other types without additional heap allocation.[…]The new Span type offers safe, direct access to contiguous memory. Span maintains memory safety by ensuring the memory remains valid while you’re using it.[…]Swift 6.2 introduces […]</p>
-
-      <address>
-        <a href="https://mjtsai.com/blog/2025/10/29/swift-6-2/">https://mjtsai.com/blog/2025/10/29/swift-6-2/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T18:14:47Z" data-link="https://mjtsai.com/blog/2025/10/29/imgur-blocks-uk-users-over-age-verification/">
-      <h1>Imgur Blocks UK Users Over Age Verification</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Imgur TOS Update (2021, via Hacker News): No nudity or sexually explicit content. Provocative, inflammatory, unsettling, or suggestive content should be marked as Mature. No hate speech, abuse or harassment. No content that condones illegal or violent activity. Connor Jones (Hacker News): The UK’s data watchdog has described Imgur’s move to block UK users as […]</p>
-
-      <address>
-        <a href="https://mjtsai.com/blog/2025/10/29/imgur-blocks-uk-users-over-age-verification/">https://mjtsai.com/blog/2025/10/29/imgur-blocks-uk-users-over-age-verification/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T18:03:00Z" data-link="https://www.borowitzreport.com/p/a-national-guardsman-stands-up-to">
-      <h1>A National Guardsman Stands Up to Trump</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Listen now | The Andy Borowitz Show</p>
-
-      <address>
-        <a href="https://www.borowitzreport.com/p/a-national-guardsman-stands-up-to">https://www.borowitzreport.com/p/a-national-guardsman-stands-up-to</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T17:24:56Z" data-link="https://robertreich.substack.com/p/in-conversation-with-zohran-mamdani">
-      <h1>In conversation with Zohran Mamdani</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Zohran Mamdani is getting a new generation of young people excited about politics</p>
-
-      <address>
-        <a href="https://robertreich.substack.com/p/in-conversation-with-zohran-mamdani">https://robertreich.substack.com/p/in-conversation-with-zohran-mamdani</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T17:02:39Z" data-link="https://tinabrown.substack.com/p/my-video-chat-with-best-selling-author">
-      <h1>My Video Chat with best-selling author Jonathan Freedland about his new book, The Traitors Circle, which tells the true story of a group of aristocratic Germans who resisted the Nazis</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>The book also examines the question: what kind of person stands up to tyranny?</p>
-
-      <address>
-        <a href="https://tinabrown.substack.com/p/my-video-chat-with-best-selling-author">https://tinabrown.substack.com/p/my-video-chat-with-best-selling-author</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T17:00:28Z" data-link="https://mastodon.social/@jamesthomson/115458178673560956">
-      <h1>PCalc 4.11.1 for Mac</h1>
-
-(date: 2025-10-29)
-      <p>
-      
-      <address>
-        <a href="https://mastodon.social/@jamesthomson/115458178673560956">https://mastodon.social/@jamesthomson/115458178673560956</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T16:53:55Z" data-link="https://heathercoxrichardson.substack.com/p/october-28-2025-559">
-      <h1>October 28, 2025</h1>
-
-(date: 2025-10-29)
-      <p>
-      
-      <address>
-        <a href="https://heathercoxrichardson.substack.com/p/october-28-2025-559">https://heathercoxrichardson.substack.com/p/october-28-2025-559</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T16:40:46Z" data-link="https://lithub.com/the-u-s-has-revoked-the-visa-of-nobel-winner-wole-soyinka/">
-      <h1>The U.S. has revoked the visa of Nobel winner Wole Soyinka.</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>The American government has revoked the visa of Wole Soyinka, the Nigerian author who won the 1986 Nobel Prize in literature, according to Al Jazeera. The writer received what he called a “rather curious love letter” from the American authorities,</p>
-
-      <address>
-        <a href="https://lithub.com/the-u-s-has-revoked-the-visa-of-nobel-winner-wole-soyinka/">https://lithub.com/the-u-s-has-revoked-the-visa-of-nobel-winner-wole-soyinka/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T16:33:46Z" data-link="https://doc.searls.com/2025/10/29/bing-bonk/">
-      <h1>Bing Bonk</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>As a geography and map freak, I loved loved loved Birds Eye views in Microsoft’s Bing Maps. Birds Eye’s advantages over Google’s and Apple’s satellite views were enormous, because all the imagery was shot from airplanes flying at low altitudes, rather than from a hundred miles up in space. Among other cool things, you could rotate your […]</p>
-
-      <address>
-        <a href="https://doc.searls.com/2025/10/29/bing-bonk/">https://doc.searls.com/2025/10/29/bing-bonk/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T16:28:27Z" data-link="https://matthiasott.com/notes/echoes-of-connection">
-      <h1>Echoes of Connection · Matthias Ott</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Matthias responds to <a href="https://adactio.com/journal/22213">my pondering about the point of “likes” and “shares”</a>:</p>
-<blockquote>
-<p>I like to think of Webmentions not as a measure of popularity. To me, they measure connection. Connection to individual people and connection to the community as a whole. Webmentions let you listen into the constant noise out there and, just like a radio telescope, pick up scarcely audible echoes of connection.</p>
-</blockquote>
-<p><a href="https://adactio.com/links/22224">adactio.com/links/22224</a></p>
-
-      <address>
-        <a href="https://matthiasott.com/notes/echoes-of-connection">https://matthiasott.com/notes/echoes-of-connection</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T16:14:29Z" data-link="https://www.macrumors.com/2025/10/28/toyota-bz-apple-maps-ev-routing/">
-      <h1>Toyota BEVs Gain Support for Apple Maps EV Routing</h1>
-
-(date: 2025-10-29)
-      <p>
-      
-      <address>
-        <a href="https://www.macrumors.com/2025/10/28/toyota-bz-apple-maps-ev-routing/">https://www.macrumors.com/2025/10/28/toyota-bz-apple-maps-ev-routing/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T16:03:25Z" data-link="https://www.mollywhite.net/micro/entry/202510291202">
-      <h1>Note published on October 29, 2025 at 4:03 PM UTC</h1>
-
-(date: 2025-10-29)
-      <p>
-      
-      <address>
-        <a href="https://www.mollywhite.net/micro/entry/202510291202">https://www.mollywhite.net/micro/entry/202510291202</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T16:00:00Z" data-link="https://www.palomitademaiz.net/resena-una-casa-de-dinamita/?utm_source=rss&utm_medium=rss&utm_campaign=resena-una-casa-de-dinamita">
-      <h1>Una casa de dinamita: tres caras de la misma pesadilla nuclear</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Disponible en: Netflix. Dirección: Kathryn Bigelow. Guion: Noah Oppenheim. Elenco: Idris Elba, Rebecca Ferguson, Tracy Letts, Jared Harris, Gabriel Basso, Anthony Ramos. País: Estados Unidos. Más información de la película: <a href="https://www.imdb.com/title/tt32376165/">https://www.imdb.com/title/tt32376165/</a> Una casa de dinamita llegó a Netflix el 24 de octubre, poco más de un mes después de su estreno en el Festival de […]</p>
-<p>La entrada <a href="https://www.palomitademaiz.net/resena-una-casa-de-dinamita/">Una casa de dinamita: tres caras de la misma pesadilla nuclear</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
-
-      <address>
-        <a href="https://www.palomitademaiz.net/resena-una-casa-de-dinamita/?utm_source=rss&utm_medium=rss&utm_campaign=resena-una-casa-de-dinamita">https://www.palomitademaiz.net/resena-una-casa-de-dinamita/?utm_source=rss&utm_medium=rss&utm_campaign=resena-una-casa-de-dinamita</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T15:51:30Z" data-link="https://www.macrumors.com/2025/10/28/samsung-tri-fold-smartphone-debut/">
-      <h1>Samsung Shows Off Tri-Fold Smartphone at APEC Forum in Korea</h1>
-
-(date: 2025-10-29)
-      <p>
-      
-      <address>
-        <a href="https://www.macrumors.com/2025/10/28/samsung-tri-fold-smartphone-debut/">https://www.macrumors.com/2025/10/28/samsung-tri-fold-smartphone-debut/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T15:43:34Z" data-link="https://mastodon.social/@Migueldeicaza/115458219343282483">
-      <h1>@Miguel de Icaza Mastondon feed</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Announcing Xogot to Xogot Remote Debugging!</p>
-<p>Develop on one device, play on another!</p>
-<p>Edit, code, and debug on iPad while testing your game live on iPhone.</p>
-
-      <address>
-        <a href="https://mastodon.social/@Migueldeicaza/115458219343282483">https://mastodon.social/@Migueldeicaza/115458219343282483</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T15:40:28Z" data-link="https://www.economist.com/interactive/trump-approval-tracker">
-      <h1>Trump Is Deeply Unpopular</h1>
-
-(date: 2025-10-29)
-      <p>
-      
-      <address>
-        <a href="https://www.economist.com/interactive/trump-approval-tracker">https://www.economist.com/interactive/trump-approval-tracker</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T15:25:56Z" data-link="https://adactio.com/notes/22223">
-      <h1>56 years ago today: > Talked to SRI Host to Host — IMP log, 1969-10-29 22:30, Charles S. Kline, Boelter Hall, UCLA The message: > LO The ARPANET was born.</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>56 years ago today:</p>
-<blockquote>
-<p>Talked to SRI Host to Host</p>
-</blockquote>
-<p>— IMP log, 1969-10-29 22:30, Charles S. Kline, Boelter Hall, UCLA</p>
-<p>The message:</p>
-<blockquote>
-<p>LO</p>
-</blockquote>
-<p>The ARPANET was born.</p>
-
-      <address>
-        <a href="https://adactio.com/notes/22223">https://adactio.com/notes/22223</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T15:22:00Z" data-link="https://feed.tedium.co/link/15204/17199158/grokipedia-content-citations-aggressive">
-      <h1>Grokked & Pilfered</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Elon Musk’s new Wikipedia clone has been criticized for nicking Wikipedia. Something else it also does: Aggressively cite the Tedium archive.</p>
-
-      <address>
-        <a href="https://feed.tedium.co/link/15204/17199158/grokipedia-content-citations-aggressive">https://feed.tedium.co/link/15204/17199158/grokipedia-content-citations-aggressive</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T14:44:14Z" data-link="http://scripting.com/2025/10/29.html#a144414">
-      <h1>@Dave Winer's Scripting News</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Apparently last night's email didn't go out, so I re-sent them. Hopefully people didn't receive two emails.</p>
-
-      <address>
-        <a href="http://scripting.com/2025/10/29.html#a144414">http://scripting.com/2025/10/29.html#a144414</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T14:44:02Z" data-link="https://www.propublica.org/article/oklahoma-oil-gas-wastewater-pollution?utm_source=mastodon&utm_medium=social&utm_campaign=mastodon-post">
-      <h1>@Dave Winer's linkblog</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Oklahoma Oil Regulators Failed to Stop Spread of Toxic Wastewater.</p>
-
-      <address>
-        <a href="https://www.propublica.org/article/oklahoma-oil-gas-wastewater-pollution?utm_source=mastodon&utm_medium=social&utm_campaign=mastodon-post">https://www.propublica.org/article/oklahoma-oil-gas-wastewater-pollution?utm_source=mastodon&utm_medium=social&utm_campaign=mastodon-post</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T14:42:20Z" data-link="https://beyondtellerrand.com/speakers/jeremy-keith">
-      <h1>Jeremy Keith: Speaker profile at beyond tellerrand</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p><a href="https://beyondtellerrand.com/">Beyond Tellerrand</a> has a new website and it’s beautiful!</p>
-<p>And look! Past speakers like me <a href="https://beyondtellerrand.com/speakers/jeremy-keith">get our own page</a>.</p>
-<p>In fact there’s <a href="https://beyondtellerrand.com/talks">a great big archive of all the past talks</a>—that very much deserves your support as <a href="https://beyondtellerrand.com/friends-of-bt">a friend of Beyond Tellerrand</a>.</p>
-<p><a href="https://adactio.com/links/22222">adactio.com/links/22222</a></p>
-
-      <address>
-        <a href="https://beyondtellerrand.com/speakers/jeremy-keith">https://beyondtellerrand.com/speakers/jeremy-keith</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T14:40:03Z" data-link="https://www.404media.co/ice-and-cbp-agents-are-scanning-peoples-faces-on-the-street-to-verify-citizenship/">
-      <h1>ICE and CBP Agents Are Scanning Peoples’ Faces on the Street To Verify Citizenship</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Videos on social media show officers from ICE and CBP using facial recognition technology on people in the field. One expert described the practice as “pure dystopian creep.”</p>
-
-      <address>
-        <a href="https://www.404media.co/ice-and-cbp-agents-are-scanning-peoples-faces-on-the-street-to-verify-citizenship/">https://www.404media.co/ice-and-cbp-agents-are-scanning-peoples-faces-on-the-street-to-verify-citizenship/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T14:31:08Z" data-link="https://guykawasaki.substack.com/p/the-art-of-asking-better-questions">
-      <h1>The Art of Asking Better Questions</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>One skill that can transform your career, relationships, and even your life, is the ability to ask better questions.</p>
-
-      <address>
-        <a href="https://guykawasaki.substack.com/p/the-art-of-asking-better-questions">https://guykawasaki.substack.com/p/the-art-of-asking-better-questions</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T14:25:29Z" data-link="http://scripting.com/2025/10/29.html#a142529">
-      <h1>@Dave Winer's Scripting News</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Before it’s too late there should be a rule that AI chatbots should not be allowed in any way to impersonate humans. We will come to see that as our biggest mistake, not stopping this before it got out of control.</p>
-
-      <address>
-        <a href="http://scripting.com/2025/10/29.html#a142529">http://scripting.com/2025/10/29.html#a142529</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T13:45:00Z" data-link="https://om.co/2025/10/29/why-tech-needs-personalization/">
-      <h1>Why Tech Needs Personalization</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Every weekend, my good buddy Hiten Shah and I head to The Coffee Movement’s Balboa Street location. They make a nice pour-over. And while it’s about a half-hour from my apartment, the coffee is worth the drive, the time, and the money. It’s a long enough drive for us to talk about life, work, and, most importantly, new ideas about technology. Sometimes, if our schedules sync up, we even go twice a week. What doesn’t …</p>
-
-      <address>
-        <a href="https://om.co/2025/10/29/why-tech-needs-personalization/">https://om.co/2025/10/29/why-tech-needs-personalization/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T13:19:29Z" data-link="https://meyerweb.com/eric/thoughts/2025/10/29/custom-asidenotes/">
-      <h1>Custom Asidenotes</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>In which I turn inline asides into robustly enhanced sidenotes with CSS and just a touch of JS.</p>
-
-      <address>
-        <a href="https://meyerweb.com/eric/thoughts/2025/10/29/custom-asidenotes/">https://meyerweb.com/eric/thoughts/2025/10/29/custom-asidenotes/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T13:11:26Z" data-link="https://www.404media.co/metas-ray-ban-glasses-users-film-and-harass-massage-parlor-workers/">
-      <h1>Meta's Ray-Ban Glasses Users Film and Harass Massage Parlor Workers</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>“The shameless use of covert recording technology at massage parlours to gain likes, attention, and online notoriety is both disgusting and dangerous.”</p>
-
-      <address>
-        <a href="https://www.404media.co/metas-ray-ban-glasses-users-film-and-harass-massage-parlor-workers/">https://www.404media.co/metas-ray-ban-glasses-users-film-and-harass-massage-parlor-workers/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T13:01:32Z" data-link="https://www.404media.co/podcast-grokipedia-is-cringe/">
-      <h1>Podcast: Grokipedia is Cringe</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Why Grokipedia won't beat Wikipedia; the Windows 10 update; and a16z's plan for a wholly AI-generated internet.</p>
-
-      <address>
-        <a href="https://www.404media.co/podcast-grokipedia-is-cringe/">https://www.404media.co/podcast-grokipedia-is-cringe/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T12:12:00Z" data-link="https://blog.gingerbeardman.com/2025/10/29/post-playdate-one-year-later/">
-      <h1>Post-Playdate: One Year Later</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>It’s been a year since October 2024, when I released <a href="/2024/10/08/bender-2-bend-harder-for-playdate/">my last game on the Playdate Catalog</a>. Over the course of that month, I became increasingly concerned about an undercurrent of threatening and antisocial behaviour from one particular developer in the community—my frequent reports of which went unanswered. Eventually—exactly a year ago today—that tension surfaced as a campaign of targeted harassment. I was assured something would be done about it, but sadly, nothing ever was.</p>
-<p><a href="/2025/04/15/when-playdate-stopped-being-fun/">So I left the Playdate community</a>. Over the following months, I faced various forms of harassment: doxxing, unsavoury DMs, spam campaigns targeting my email, cell phone, and social media accounts, unfounded accusations—the list goes on. I can tell you, <em>this is not my idea of a fun time.</em></p>
-<p>You might think that after a year this would be old news. Sadly, it’s not. I’ve long since moved on with my life and kept creating—for platforms as exotic as the <a href="/2025/01/05/dream-ride-for-sega-dreamcast-and-emulators/">Sega Dreamcast</a> and as familiar as <a href="/2025/08/21/wormhole-for-perplexity-comet/">the web</a>. I’m proud of what I’ve achieved, and of the choices that allow me to keep doing what I do best, regardless of the people who try to put barriers in my way.</p>
-<p>While I continued creating <a href="/2025/05/09/atari-jeff-minter-game-results-jam-llamasoft-and-st-format/">award-winning games</a>, the chance to build the game of my dreams came along—made easier by being an employee at a company that would handle funding, marketing, and the practicalities, freeing me to focus on doing my best work. It was a decision I didn’t take lightly, both because of potential ethical concerns and the fear of further harassment. I sought advice from close friends and had thoughtful discussions with several of them. One friend in particular told me they hadn’t heard of the company, so we didn’t discuss it further. That was back in May.</p>
-<p>I announced my first work with the company in July—again, this friend said nothing. Then, in mid-October, <a href="https://www.linkedin.com/posts/mattsephton_super-happy-to-share-that-ive-joined-perplexity-activity-7384626318224617472-ZQJ-">I announced my new permanent position</a>, and that same friend suddenly went off the deep end. I asked what had changed since May, when they hadn’t heard of the company, and why nothing was said in July, when I first went public with my new work—yet now, in October, they were suddenly so angry. Their reply:</p>
-<blockquote>
-<p>“One of my friends saw your post and sent it to me saying ‘oh no,’ which is how I found out. And then another friend (who you also know) also said ‘oh nooooooo.’”</p>
-</blockquote>
-<p>So, essentially, this friend had been incited into anger by others—the same social dynamic that fuelled the harassment a year ago. And the worst part? Those two mutual friends are key figures in the Playdate scene—the very people who once promised to address the harassment are now perpetuating it, a year on. I need to find a stronger word than <em>disappointing</em>, but that will have to do for now.</p>
-<p>At this point, I’m letting things run their course and will continue to do what I do best: make games. I’m looking forward to you being able to play the next one.</p>
-<p><em>Plus ça change—the more things change, the more they stay the same.</em></p>
-<p>Have fun,</p>
-<p>matt</p>
-
-      <address>
-        <a href="https://blog.gingerbeardman.com/2025/10/29/post-playdate-one-year-later/">https://blog.gingerbeardman.com/2025/10/29/post-playdate-one-year-later/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T12:04:40Z" data-link="https://onefoottsunami.com/2025/10/29/an-end-to-bilateral-closeness/">
-      <h1>An End to Bilateral Closeness</h1>
-
-(date: 2025-10-29)
-      <p>
-      
-      <address>
-        <a href="https://onefoottsunami.com/2025/10/29/an-end-to-bilateral-closeness/">https://onefoottsunami.com/2025/10/29/an-end-to-bilateral-closeness/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T12:03:23Z" data-link="https://www.raspberrypi.com/news/develop-embedded-firmware-for-pico-using-rust-or-zephyr-with-pico-vscode/">
-      <h1>Develop embedded firmware for Pico using Rust or Zephyr with pico-vscode</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Set up an embedded firmware project on Pico in minutes using Rust or Zephyr, now integrated into our official pico-vscode extension.</p>
-<p>The post <a href="https://www.raspberrypi.com/news/develop-embedded-firmware-for-pico-using-rust-or-zephyr-with-pico-vscode/">Develop embedded firmware for Pico using Rust or Zephyr with pico-vscode</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
-
-      <address>
-        <a href="https://www.raspberrypi.com/news/develop-embedded-firmware-for-pico-using-rust-or-zephyr-with-pico-vscode/">https://www.raspberrypi.com/news/develop-embedded-firmware-for-pico-using-rust-or-zephyr-with-pico-vscode/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T11:09:57Z" data-link="https://www.schneier.com/blog/archives/2025/10/signals-post-quantum-cryptographic-implementation.html">
-      <h1>Signal’s Post-Quantum Cryptographic Implementation</h1>
-
-(date: 2025-10-29, updated: 2025-10-28)
-      <p>
-      <p>Signal has <a href="https://signal.org/blog/spqr/">just rolled out</a> its quantum-safe cryptographic implementation.</p>
-<p><em>Ars Technica</em> has a <a href="https://arstechnica.com/security/2025/10/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement/">really good article</a> with details:</p>
-<blockquote>
-<p>Ultimately, the architects settled on a creative solution. Rather than bolt KEM onto the existing double ratchet, they allowed it to remain more or less the same as it had been. Then they used the new quantum-safe ratchet to implement a parallel secure messaging system.</p>
-<p>Now, when the protocol encrypts a message, it sources encryption keys from both the classic Double Ratchet and the new ratchet. It then mixes the two keys together (using a cryptographic key derivation function) to get a new encryption key that has all of the security of the classical Double Ratchet but now has quantum security, too...</p>
-</blockquote>
-
-      <address>
-        <a href="https://www.schneier.com/blog/archives/2025/10/signals-post-quantum-cryptographic-implementation.html">https://www.schneier.com/blog/archives/2025/10/signals-post-quantum-cryptographic-implementation.html</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T10:54:38Z" data-link="https://openchannels.fm/how-a-camping-trip-illustrates-the-power-of-storytelling-in-tech/">
-      <h1>How a Camping Trip Illustrates the Power of Storytelling in Tech</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Rae Morey, WordPress journalist and podcast host, recently shared a story on Open Channels FM about a camping trip that revealed just how effective storytelling can be in business. After spending a rough night on the ground during a camping trip, Rae realized, “I woke up with a sore back. I’m getting old. And I […]</p>
-
-      <address>
-        <a href="https://openchannels.fm/how-a-camping-trip-illustrates-the-power-of-storytelling-in-tech/">https://openchannels.fm/how-a-camping-trip-illustrates-the-power-of-storytelling-in-tech/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T10:36:30Z" data-link="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/10/29/bolt_graphics_zeus_gpu/">
-      <h1>Bolt Graphics unveils Zeus GPU built on RISC-V and path tracing tech</h1>
-
-(date: 2025-10-29)
-      <p>
-      <h4>Ubuntu Summit Onboard cores use a Linux stack based on Ubuntu</h4>
-<p>One of the more unexpected talks at last week's Ubuntu Summit 25.10 in London was by Antonio Salvemini of Bolt Graphics, who introduced the company's forthcoming range of Zeus graphics accelerator hardware. These are very unlike any conventional GPUs – or indeed anything else.</p>
-
-      <address>
-        <a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/10/29/bolt_graphics_zeus_gpu/">https://go.theregister.com/i/cfa/https://www.theregister.com/2025/10/29/bolt_graphics_zeus_gpu/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T10:30:27Z" data-link="https://paulkrugman.substack.com/p/a-break-with-some-ai">
-      <h1>A Break, With Some AI</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Full service will resume tomorrow</p>
-
-      <address>
-        <a href="https://paulkrugman.substack.com/p/a-break-with-some-ai">https://paulkrugman.substack.com/p/a-break-with-some-ai</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T10:30:16Z" data-link="https://lithub.com/lit-hub-daily-october-29-2025/">
-      <h1>Lit Hub Daily: October 29, 2025</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Shane Hinton explains why writers should consider giving their books away for free. | Lit Hub Craft “Del Toro loves monsters—misunderstood, sympathetic monsters—and Shelley’s Creature is the primogenitor of this tradition.” Olivia Rutigliano praises Guillermo Del Toro’s new adaptation of</p>
-
-      <address>
-        <a href="https://lithub.com/lit-hub-daily-october-29-2025/">https://lithub.com/lit-hub-daily-october-29-2025/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T09:58:40Z" data-link="https://lithub.com/rediscovering-the-lost-arts-of-the-english-woodlands/">
-      <h1>Rediscovering the Lost Arts of the English Woodlands</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>If you had visited a typical English woodland a few hundred years ago, or at pretty much any point before then, you would have been ambushed by activity. The sounds of thudding axes, rasping saws, and ale-loosened conversation reverberated through</p>
-
-      <address>
-        <a href="https://lithub.com/rediscovering-the-lost-arts-of-the-english-woodlands/">https://lithub.com/rediscovering-the-lost-arts-of-the-english-woodlands/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T09:10:46Z" data-link="https://www.lorenstew.art/blog/10-kanban-boards">
-      <h1>I Built the Same App 10 Times: Evaluating Frameworks for Mobile Performance | Loren Stewart</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>A very, very deep dive into like-for-like comparison of JavaScript frameworks. The takeaway:</p>
-<blockquote>
-<p>Nuxt demonstrates that established “big three” frameworks can achieve next-gen performance when properly configured. Vue’s architecture allows competitive mobile web performance while maintaining a mature ecosystem. React and Angular show no path to similar results.</p>
-</blockquote>
-<p>And the <em>real</em> takeaway:</p>
-<blockquote>
-<p><strong>Mobile is the web</strong>. These measurements matter because mobile web is the primary internet for billions of people. If your app is accessible via URL, people will use it on phones with cellular connections. Optimizing for desktop and hoping mobile is good enough is backwards. The web is mobile. Build for that reality.</p>
-</blockquote>
-<p><a href="https://adactio.com/links/22221">adactio.com/links/22221</a></p>
-
-      <address>
-        <a href="https://www.lorenstew.art/blog/10-kanban-boards">https://www.lorenstew.art/blog/10-kanban-boards</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T08:59:50Z" data-link="https://lithub.com/why-i-give-my-books-away-for-free/">
-      <h1>Why I Give My Books Away For Free</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>In 2015, after the release of my first book with Burrow Press, a small press based out of Orlando, Florida, I was invited to give a reading at a public library. The book I’d always imagined I could write was</p>
-
-      <address>
-        <a href="https://lithub.com/why-i-give-my-books-away-for-free/">https://lithub.com/why-i-give-my-books-away-for-free/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T08:59:46Z" data-link="https://lithub.com/what-henry-viiis-despotic-rule-can-teach-us-about-todays-tyrants/">
-      <h1>What Henry VIII’s Despotic Rule Can Teach Us About Today’s Tyrants</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>The heroine of my new novel Boleyn Traitor is Jane Boleyn—lady-in-waiting to her sister-in-law, Anne Boleyn. Although Jane played a central role in the reigns of five Tudor queens, her reputation was smeared upon her death and her personal story</p>
-
-      <address>
-        <a href="https://lithub.com/what-henry-viiis-despotic-rule-can-teach-us-about-todays-tyrants/">https://lithub.com/what-henry-viiis-despotic-rule-can-teach-us-about-todays-tyrants/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T08:59:30Z" data-link="https://lithub.com/guillermo-del-toros-new-frankenstein-adaptation-is-life-giving/">
-      <h1>Guillermo del Toro’s New Frankenstein Adaptation is Life-Giving</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>One of the most recognizable words in our modern culture is “Frankenstein.” But in Guillermo del Toro’s magnificent new adaptation of Mary Shelley’s 1818 novel, another name (rather, the other part of that name) is much more important: “Victor.” This</p>
-
-      <address>
-        <a href="https://lithub.com/guillermo-del-toros-new-frankenstein-adaptation-is-life-giving/">https://lithub.com/guillermo-del-toros-new-frankenstein-adaptation-is-life-giving/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T08:58:45Z" data-link="https://lithub.com/daily-affirmations-for-the-dog-in-your-life/">
-      <h1>Daily Affirmations for the Dog In Your Life</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>My dog Tobi has been the biggest constant in my life. He came to me when I was a teenager, and we have been inseparable ever since. He went through college with me. He moved countries with me. We have</p>
-
-      <address>
-        <a href="https://lithub.com/daily-affirmations-for-the-dog-in-your-life/">https://lithub.com/daily-affirmations-for-the-dog-in-your-life/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T08:58:33Z" data-link="https://lithub.com/life-and-death-in-the-impoverished-neighborhood-of-alabama-village/">
-      <h1>Life and Death in the Impoverished Neighborhood of Alabama Village</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>For a short time, a photograph of Tony “TJ” Brisker hung alone above a white wood door at Light of the Village, a church in Alabama Village, a destitute neighborhood in the Mobile suburb of Prichard in southern Alabama. Other</p>
-
-      <address>
-        <a href="https://lithub.com/life-and-death-in-the-impoverished-neighborhood-of-alabama-village/">https://lithub.com/life-and-death-in-the-impoverished-neighborhood-of-alabama-village/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T08:58:20Z" data-link="https://lithub.com/one-none-and-a-hundred-grand/">
-      <h1>One, None, and a Hundred Grand</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>My Wife and My Nose “What’re you up to?” my wife inquired, as she watched me hover uncharacteristically before the mirror. “Nothing,” I replied. “Or just looking up my nose. Inspecting this nostril. Pressing on it brings out a little</p>
-
-      <address>
-        <a href="https://lithub.com/one-none-and-a-hundred-grand/">https://lithub.com/one-none-and-a-hundred-grand/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T08:58:04Z" data-link="https://lithub.com/on-the-indian-revolutionaries-who-plotted-to-overthrow-the-british-raj-from-america/">
-      <h1>On the Indian Revolutionaries Who Plotted to Overthrow the British Raj From America</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Christmas morning in 1912 was simply glorious in San Francisco. Under a brilliant blue sky, a crowd of children dressed in their holiday best dragged their parents to Golden Gate Park. None other than Santa Claus himself was to preside</p>
-
-      <address>
-        <a href="https://lithub.com/on-the-indian-revolutionaries-who-plotted-to-overthrow-the-british-raj-from-america/">https://lithub.com/on-the-indian-revolutionaries-who-plotted-to-overthrow-the-british-raj-from-america/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T08:58:03Z" data-link="https://lithub.com/crafting-a-documentary-poetics-of-resistance-in-the-shadow-of-state-violence/">
-      <h1>Crafting a Documentary Poetics of Resistance in the Shadow of State Violence</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>On. Off. On. Off. I flicked the light switches. Stared at the flush of the toilet. Traced the exposed brick stairwell, and let the dust dress my finger, like my home was the moon. There are no poetics yet in</p>
-
-      <address>
-        <a href="https://lithub.com/crafting-a-documentary-poetics-of-resistance-in-the-shadow-of-state-violence/">https://lithub.com/crafting-a-documentary-poetics-of-resistance-in-the-shadow-of-state-violence/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T08:02:24Z" data-link="https://robertreich.substack.com/p/trump-just-announced-his-police-state">
-      <h1>Trump Just Announced His Police State</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>In yesterday’s address to U.S. troops</p>
-
-      <address>
-        <a href="https://robertreich.substack.com/p/trump-just-announced-his-police-state">https://robertreich.substack.com/p/trump-just-announced-his-police-state</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T04:32:23Z" data-link="https://heathercoxrichardson.substack.com/p/october-28-2025">
-      <h1>October 28, 2025</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>In the election of 1920, Americans handed a landslide victory to the Republicans and their presidential candidate Warren G.</p>
-
-      <address>
-        <a href="https://heathercoxrichardson.substack.com/p/october-28-2025">https://heathercoxrichardson.substack.com/p/october-28-2025</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T04:04:18Z" data-link="https://robertreich.substack.com/p/please-join-me-tomorrow-wed-october">
-      <h1>Please join me today (Wed, October 29) at 9:50 am Pacific, 12:50 pm Eastern for my Substack Live interview with Zohran Mamdani</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Friends,</p>
-
-      <address>
-        <a href="https://robertreich.substack.com/p/please-join-me-tomorrow-wed-october">https://robertreich.substack.com/p/please-join-me-tomorrow-wed-october</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T01:56:33Z" data-link="http://scripting.com/2025/10/28.html#a015633">
-      <h1>@Dave Winer's Scripting News</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>My new <a href="https://wp.feedland.org/">WordPress News</a> page is faster and looks better on phones. Also, lots of new sources thanks to <a href="https://github.com/scripting/Scripting-News/issues/332">suggestions</a> from readers.</p>
-
-      <address>
-        <a href="http://scripting.com/2025/10/28.html#a015633">http://scripting.com/2025/10/28.html#a015633</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T00:44:34Z" data-link="https://memex.naughtons.org/wednesday-29-october-2025/41327/">
-      <h1>Wednesday 29 October, 2025</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Orchid in a window Quote of the Day ”For every problem, there is a solution that is simple, neat, and wrong.” H.L. Mencken Musical alternative to the morning’s radio news Teresa Carreño| Venise op. 33/34 (Live in Helsinki) | Michelle … <a href="https://memex.naughtons.org/wednesday-29-october-2025/41327/">Continue reading →</a></p>
-
-      <address>
-        <a href="https://memex.naughtons.org/wednesday-29-october-2025/41327/">https://memex.naughtons.org/wednesday-29-october-2025/41327/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T00:21:09Z" data-link="https://openai.com/index/openai-acquires-software-applications-incorporated/">
-      <h1>OpenAI Acquires Sky, a Still-in-Beta System-Wide AI Automation Tool for the Mac</h1>
-
-(date: 2025-10-29)
-      <p>
-      
-      <address>
-        <a href="https://openai.com/index/openai-acquires-software-applications-incorporated/">https://openai.com/index/openai-acquires-software-applications-incorporated/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-29T00:00:00Z" data-link="https://go.dev/blog/greenteagc">
-      <h1>The Green Tea Garbage Collector</h1>
-
-(date: 2025-10-29)
-      <p>
-      <p>Go 1.25 includes a new experimental garbage collector, Green Tea.</p>
-
-      <address>
-        <a href="https://go.dev/blog/greenteagc">https://go.dev/blog/greenteagc</a>
       </address>
     </article>
   </section>

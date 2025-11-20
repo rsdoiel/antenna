@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Library and Archives organizations</title>
-        <dateCreated>19 Nov 25 12:10 -0800</dateCreated>
+        <dateCreated>19 Nov 25 16:42 -0800</dateCreated>
     </head>
     <body>
         <outline text="Association of Research Libraries News" type="rss" xmlUrl="https://www.arl.org/feed/" htmlUrl="https://www.arl.org/,https://www.arl.org/feed/" url="https://www.arl.org/feed/"></outline>
@@ -18,6 +18,7 @@
         <outline text="Jonny Saunders blog" type="rss" xmlUrl="https://jon-e.net/blog/feed.xml" htmlUrl="/bloghttps://jon-e.net,https://jon-e.net/blog/feed.xml" description="Things i gone and done" url="https://jon-e.net/blog/feed.xml"></outline>
         <outline text="Library Jounral" type="rss" xmlUrl="https://www.infodocket.com/feed/" htmlUrl="https://www.infodocket.com,https://www.infodocket.com/feed/" description="Information Industry News from Gary Price" url="https://www.infodocket.com/feed/"></outline>
         <outline text="Library of Congress" type="rss" xmlUrl="https://blogs.loc.gov/thesignal/feed/" htmlUrl="https://blogs.loc.gov/thesignal,https://blogs.loc.gov/thesignal/feed/" description="Digital Happenings at the Library of Congress" url="https://blogs.loc.gov/thesignal/feed/"></outline>
+        <outline text="Library of Congress Labs" type="rss" xmlUrl="https://www.loc.gov/rss/labs-letter.xml" htmlUrl="https://www.loc.gov/rss/labs-letter.xml" description="A regular roundup of news from Library of Congress Labs, encouraging innovation and driving our digital strategy."></outline>
         <outline text="Open Citation blog at Hypotheses.org" type="rss" xmlUrl="https://opencitations.hypotheses.org/feed" htmlUrl="https://opencitations.hypotheses.org,https://opencitations.hypotheses.org/feed" description="The blog of the OpenCitations Infrastructure" url="https://opencitations.hypotheses.org/feed"></outline>
         <outline text="Parachute blog" type="rss" category="knowledge discovery,repositories" xmlUrl="https://theparachute.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://theparachute.blogspot.com/" description="It only works when it is open —  ⓐ I claim no rights other than attribution"></outline>
         <outline text="ROR Research ID Blog" type="atom" xmlUrl="https://ror.org/feed.xml" htmlUrl="https://ror.org/feed.xml,https://ror.org/index.xml,https://ror.org/" description="The Research Organization Registry (ROR) is a global, community-led registry of open persistent identifiers for research and funding organizations." url="https://ror.org/feed.xml"></outline>
