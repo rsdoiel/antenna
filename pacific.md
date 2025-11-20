@@ -8,6 +8,8 @@ title: Items of interest to the Pacific community and the Pacific RIM
 # Universities and Research Organizations
 
 - [University of the South Pacific (Fiji)](https://www.usp.ac.fj/feed/)
+- [Pacific Center for Island Security](https://pacificcenterforislandsecurity.com/feed/)
+- [Pacific Winds](https://pcisguam.substack.com/feed)
 
 # Commercial News Papers, Guam and the Northern Marianas, Republic of Belau
 

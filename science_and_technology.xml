@@ -4,14 +4,247 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>20 Nov 25 07:10 -0800</lastBuildDate>
+    <lastBuildDate>20 Nov 25 12:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Ai2’s Olmo 3 Pushes the Envelope for Open Source LLM Performance</title>
+      <link>https://thenewstack.io/ai2s-olmo-3-pushes-the-envelope-for-open-source-llm-performance/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/4fa70f40-igor-omilaev-9xtksci9crg-unsplash-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/4fa70f40-igor-omilaev-9xtksci9crg-unsplash-scaled.jpg" /><p>The Allen Institute of AI (Ai2) today launched Olmo 3, the latest in its family of state-of-the-art, open source large</p>
+        <p>The post <a href="https://thenewstack.io/ai2s-olmo-3-pushes-the-envelope-for-open-source-llm-performance/">Ai2&#8217;s Olmo 3 Pushes the Envelope for Open Source LLM Performance</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/4fa70f40-igor-omilaev-9xtksci9crg-unsplash-1024x576.jpg)
+
+The Allen Institute of AI (Ai2) today launched Olmo 3, the latest in its family of state-of-the-art, open source large
+
+The post [Ai2’s Olmo 3 Pushes the Envelope for Open Source LLM Performance](https://thenewstack.io/ai2s-olmo-3-pushes-the-envelope-for-open-source-llm-performance/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22807378</guid>
+    </item>    <item>
+      <title>NASA Sets Coverage for Crew Launch to Join Station Expedition</title>
+      <link>https://www.nasa.gov/news-release/nasa-sets-coverage-for-crew-launch-to-join-station-expedition/</link>
+      <description>
+        <![CDATA[NASA astronaut Chris Williams will launch aboard the Roscosmos Soyuz MS-28 spacecraft to the International Space Station on Thursday, Nov. 27, accompanied by cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev, where they will join the Expedition 73 crew advancing scientific research. Williams, Kud-Sverchkov, and Mikaev will lift off at 4:27 a.m. EST (2:27 p.m. Baikonur time) [&#8230;]]]>
+      </description>
+      <source:markdown>NASA astronaut Chris Williams will launch aboard the Roscosmos Soyuz MS-28 spacecraft to the International Space Station on Thursday, Nov. 27, accompanied by cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev, where they will join the Expedition 73 crew advancing scientific research. Williams, Kud-Sverchkov, and Mikaev will lift off at 4:27 a.m. EST (2:27 p.m. Baikonur time) \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=929020</guid>
+    </item>    <item>
+      <title>LLM-generated malware is improving, but don&#39;t expect autonomous attacks tomorrow</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/20/llmgenerated_malware_improving/</link>
+      <description>
+        <![CDATA[<h4>Researchers tried to get ChatGPT to do evil, but it didn&#39;t do a good job</h4> <p>LLMs are getting better at writing malware - but they&#39;re still not ready for prime time.…</p>]]>
+      </description>
+      <source:markdown>#### Researchers tried to get ChatGPT to do evil, but it didn&#39;t do a good job
+
+LLMs are getting better at writing malware - but they&#39;re still not ready for prime time.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243157</guid>
+    </item>    <item>
+      <title>Adam Jacob on Why Scaling Is ‘The Funnest Game’</title>
+      <link>https://thenewstack.io/adam-jacob-on-why-scaling-is-the-funnest-game/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/f49a7aea-jacob-1024x576.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Adam Jacob" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/f49a7aea-jacob.png" /><p>&#8220;There&#8217;s no funner game than the at-scale technology game. But if you play it, some people will hate you for</p>
+        <p>The post <a href="https://thenewstack.io/adam-jacob-on-why-scaling-is-the-funnest-game/">Adam Jacob on Why Scaling Is ‘The Funnest Game’</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Adam Jacob](https://cdn.thenewstack.io/media/2025/11/f49a7aea-jacob-1024x576.png)
+
+“There’s no funner game than the at-scale technology game. But if you play it, some people will hate you for
+
+The post [Adam Jacob on Why Scaling Is ‘The Funnest Game’](https://thenewstack.io/adam-jacob-on-why-scaling-is-the-funnest-game/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22807166</guid>
+    </item>    <item>
+      <title>Watch the Record-Breaking Auction of This Gustav Klimt Portrait, Which Just Became the Second Most Expensive Painting Ever Sold</title>
+      <link>https://www.smithsonianmag.com/smart-news/watch-the-record-breaking-auction-of-this-gustav-klimt-portrait-which-just-became-the-second-most-expensive-painting-ever-sold-180987723/</link>
+      <description>
+        <![CDATA["Portrait of Elisabeth Lederer," which played a role in protecting the life of its Jewish subject during the Holocaust, sold at Sotheby's for a historic $236.4 million. It's also the most expensive modern artwork ever auctioned]]>
+      </description>
+      <source:markdown>&#34;Portrait of Elisabeth Lederer,&#34; which played a role in protecting the life of its Jewish subject during the Holocaust, sold at Sotheby&#39;s for a historic $236.4 million. It&#39;s also the most expensive modern artwork ever auctioned</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/gH1DIFryVbdduQSW4aW1rG_oZHg=/420x240/filters:focal(2150x1454:2151x1455)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/88/42/8842d8b4-cab0-4213-91f0-311a2ccf15df/gettyimages-2245543576.jpg" length="" type="" />
+    </item>    <item>
+      <title>Don&#39;t spill your guts to your chatbot friend - it&#39;ll hoover up that info for training</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/20/experts_warns_house_of_privacy/</link>
+      <description>
+        <![CDATA[<h4>LLM makers may be training on user chat with few privacy safeguards, lawmakers hear</h4> <p>The US House of Representatives has heard that LLM builders can exploit users’ conversations for further training and commercial benefit with little oversight or concern for privacy risks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### LLM makers may be training on user chat with few privacy safeguards, lawmakers hear
+
+The US House of Representatives has heard that LLM builders can exploit users’ conversations for further training and commercial benefit with little oversight or concern for privacy risks.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243156</guid>
+    </item>    <item>
+      <title>Trump, Republicans try again to stop states from regulating AI</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/20/trump_republicans_trying_again_to/</link>
+      <description>
+        <![CDATA[<h4>If at first you don’t succeed, swing again - Big Tech certainly isn’t complaining</h4> <p>The Trump administration and congressional Republicans are trying again to eliminate state-level AI regulations in favor of a federal standard. The plan faces opposition from many state governments and civil-society organizations, while AI vendors have welcomed it.…</p>]]>
+      </description>
+      <source:markdown>#### If at first you don’t succeed, swing again - Big Tech certainly isn’t complaining
+
+The Trump administration and congressional Republicans are trying again to eliminate state-level AI regulations in favor of a federal standard. The plan faces opposition from many state governments and civil-society organizations, while AI vendors have welcomed it.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243155</guid>
+    </item>    <item>
+      <title>Building a Cloud-to-Edge Architecture Across 40K Global Locations</title>
+      <link>https://thenewstack.io/building-a-cloud-to-edge-architecture-across-40k-global-locations/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/fc1da5ae-cloud-to-edge-architecture-webinar-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="&quot;Building a Cloud-to-Edge Architecture Across 40K Global Locations&quot; featured image" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/fc1da5ae-cloud-to-edge-architecture-webinar.jpg" /><p>Edge at any kind of distributed scale requires new management approaches that account for edge idiosyncrasies, like poor connectivity, limited</p>
+        <p>The post <a href="https://thenewstack.io/building-a-cloud-to-edge-architecture-across-40k-global-locations/">Building a Cloud-to-Edge Architecture Across 40K Global Locations</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![&#34;Building a Cloud-to-Edge Architecture Across 40K Global Locations&#34; featured image](https://cdn.thenewstack.io/media/2025/11/fc1da5ae-cloud-to-edge-architecture-webinar-1024x576.jpg)
+
+Edge at any kind of distributed scale requires new management approaches that account for edge idiosyncrasies, like poor connectivity, limited
+
+The post [Building a Cloud-to-Edge Architecture Across 40K Global Locations](https://thenewstack.io/building-a-cloud-to-edge-architecture-across-40k-global-locations/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22807309</guid>
+    </item>    <item>
+      <title>NASA Fuels Discovery from Earth to Sky: One Crayon at a Time</title>
+      <link>https://science.nasa.gov/learning-resources/science-activation/nasa-fuels-discovery-from-earth-to-sky-one-crayon-at-a-time/</link>
+      <description>
+        <![CDATA[A collaboration between the NASA Earth Science Education Collaborative (NESEC) and Earth to Sky (ETS) – an exciting, growing partnership between NASA, the National Park Service, and other federal, state, and local organizations – is facilitating the implementation of a simple, yet incredibly effective activity that will help millions of national park visitors connect with […]]]>
+      </description>
+      <source:markdown>A collaboration between the NASA Earth Science Education Collaborative (NESEC) and Earth to Sky (ETS) – an exciting, growing partnership between NASA, the National Park Service, and other federal, state, and local organizations – is facilitating the implementation of a simple, yet incredibly effective activity that will help millions of national park visitors connect with \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/learning-resources/science-activation/nasa-fuels-discovery-from-earth-to-sky-one-crayon-at-a-time/</guid>
+    </item>    <item>
+      <title>NASA Progresses Toward Artemis II Moon Mission</title>
+      <link>https://www.nasa.gov/missions/artemis/artemis-2/nasa-progresses-toward-artemis-ii-moon-mission/</link>
+      <description>
+        <![CDATA[As 2026 nears, NASA continues moving forward to launching and flying Artemis II, the first crewed mission under the Artemis campaign, no later than April next year. NASA&#8217;s Orion spacecraft, complete with its launch abort system escape tower, is now integrated with the SLS (Space Launch System) rocket in the Vehicle Assembly Building (VAB) at [&#8230;]]]>
+      </description>
+      <source:markdown>As 2026 nears, NASA continues moving forward to launching and flying Artemis II, the first crewed mission under the Artemis campaign, no later than April next year. NASA’s Orion spacecraft, complete with its launch abort system escape tower, is now integrated with the SLS (Space Launch System) rocket in the Vehicle Assembly Building (VAB) at \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=928610</guid>
+    </item>    <item>
+      <title>NASA’s Quesst Mission Marks X-59’s Historic First Flight</title>
+      <link>https://www.nasa.gov/image-article/nasas-quesst-mission-marks-x-59s-historic-first-flight/</link>
+      <description>
+        <![CDATA[NASA’s X-59 quiet supersonic research aircraft took off for its historic first flight on Oct. 28 at 11:14 a.m. EDT from Lockheed Martin Skunk Works in Palmdale, California. The one-of-a-kind aircraft flew for 67 minutes before landing and taxiing to NASA’s Armstrong Flight Research Center in Edwards, California. NASA test pilot Nils Larson flew the [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s X-59 quiet supersonic research aircraft took off for its historic first flight on Oct. 28 at 11:14 a.m. EDT from Lockheed Martin Skunk Works in Palmdale, California. The one-of-a-kind aircraft flew for 67 minutes before landing and taxiing to NASA’s Armstrong Flight Research Center in Edwards, California. NASA test pilot Nils Larson flew the \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=928770</guid>
+    </item>    <item>
+      <title>NASA, Aerospace Corporation Study Sharpens Focus on Ammonia Emissions</title>
+      <link>https://www.nasa.gov/missions/maia/nasa-aerospace-corporation-study-sharpens-focus-on-ammonia-emissions/</link>
+      <description>
+        <![CDATA[The pungent gas contributes to fine airborne particulate pollution, which endangers human health when inhaled and absorbed in the bloodstream.&#160; A recent study led by scientists at NASA’s Jet Propulsion Laboratory in Southern California and the nonprofit Aerospace Corporation shows how high-resolution maps of ground-level ammonia plumes can be generated with airborne sensors, highlighting a [&#8230;]]]>
+      </description>
+      <source:markdown>The pungent gas contributes to fine airborne particulate pollution, which endangers human health when inhaled and absorbed in the bloodstream.  A recent study led by scientists at NASA’s Jet Propulsion Laboratory in Southern California and the nonprofit Aerospace Corporation shows how high-resolution maps of ground-level ammonia plumes can be generated with airborne sensors, highlighting a \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=928915</guid>
+    </item>    <item>
+      <title>Thunderbird 145 finally adds ‘native’ Exchange support</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/20/thunderbird_microsoft_exchange_support/</link>
+      <description>
+        <![CDATA[<h4>EWS-powered email only for now, with calendars and contacts still on the to-do list</h4> <p>It&#39;s easy to forget in the FOSS world, but Exchange still runs most corporate email – and the new version of Thunderbird can talk to it directly.…</p>]]>
+      </description>
+      <source:markdown>#### EWS-powered email only for now, with calendars and contacts still on the to-do list
+
+It&#39;s easy to forget in the FOSS world, but Exchange still runs most corporate email – and the new version of Thunderbird can talk to it directly.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243152</guid>
+    </item>    <item>
+      <title>How Can We Solve Observability’s Data Capture and Spending Problem?</title>
+      <link>https://thenewstack.io/how-can-we-solve-observabilitys-data-capture-and-spending-problem/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/7405467b-thumbnail-25-1024x576.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="In a conversation at KubeCon + CloudNativeCon North America, IBM’s Jacob Yackenovich emphasized the importance of collecting high-granularity, full-capture data to avoid missing critical performance signals across hybrid application stacks that blend legacy and cloud-native components." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/7405467b-thumbnail-25.png" /><p>The so-called &#8220;DevOps practitioner&#8221; can be a developer, an operations team member, a site reliability engineer or a business stakeholder.</p>
+        <p>The post <a href="https://thenewstack.io/how-can-we-solve-observabilitys-data-capture-and-spending-problem/">How Can We Solve Observability&#8217;s Data Capture and Spending Problem?</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![In a conversation at KubeCon + CloudNativeCon North America, IBM’s Jacob Yackenovich emphasized the importance of collecting high-granularity, full-capture data to avoid missing critical performance signals across hybrid application stacks that blend legacy and cloud-native components.](https://cdn.thenewstack.io/media/2025/11/7405467b-thumbnail-25-1024x576.png)
+
+The so-called “DevOps practitioner” can be a developer, an operations team member, a site reliability engineer or a business stakeholder.
+
+The post [How Can We Solve Observability’s Data Capture and Spending Problem?](https://thenewstack.io/how-can-we-solve-observabilitys-data-capture-and-spending-problem/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22807189</guid>
+    </item>    <item>
+      <title>Fired techie admits sabotaging ex-employer, causing $862K in damage</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/20/it_contractor_sabotage/</link>
+      <description>
+        <![CDATA[<h4>PowerShell script locked thousands of workers out of their accounts</h4> <p>An Ohio IT contractor has pleaded guilty to breaking into his former employer&#39;s systems and causing nearly $1 million worth of damage after being fired.…</p>]]>
+      </description>
+      <source:markdown>#### PowerShell script locked thousands of workers out of their accounts
+
+An Ohio IT contractor has pleaded guilty to breaking into his former employer&#39;s systems and causing nearly $1 million worth of damage after being fired.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243153</guid>
+    </item>    <item>
+      <title>X-59 First Flight Media Resources</title>
+      <link>https://www.nasa.gov/missions/quesst/x-59-first-flight-media-resources/</link>
+      <description>
+        <![CDATA[​Media Contact Quesst Media Lead:&#160;Kristen Hatfield,&#160;757-817-5522 First Flight Videos First Flight Highlight Reel (1:43) First Flight Extended B-Roll (7:39) Articles NASA’s X-59 Completes First Flight, Prepares for More Flight Testing First Flight Images More X-59 imagery is available in NASA&#8217;s Quesst Image Gallery Historical Resources Taxi Test B-Roll X-59 reveal Biographies Peter Coen Cathy Bahm [&#8230;]]]>
+      </description>
+      <source:markdown>​Media Contact Quesst Media Lead: Kristen Hatfield, 757-817-5522 First Flight Videos First Flight Highlight Reel (1:43) First Flight Extended B-Roll (7:39) Articles NASA’s X-59 Completes First Flight, Prepares for More Flight Testing First Flight Images More X-59 imagery is available in NASA’s Quesst Image Gallery Historical Resources Taxi Test B-Roll X-59 reveal Biographies Peter Coen Cathy Bahm \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=922077</guid>
+    </item>    <item>
+      <title>Nvidia pushes out hotfix after Windows 11 October update tanks gaming performance</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/20/nvidia_windows_11_hotfix/</link>
+      <description>
+        <![CDATA[<h4>Quick and dirty driver aims to undo slowdown introduced in OS patch</h4> <p>The Windows 11 October 2025 Update is still causing headaches for users of Microsoft&#39;s flagship operating system.…</p>]]>
+      </description>
+      <source:markdown>#### Quick and dirty driver aims to undo slowdown introduced in OS patch
+
+The Windows 11 October 2025 Update is still causing headaches for users of Microsoft&#39;s flagship operating system.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243150</guid>
+    </item>    <item>
+      <title>AWS under pressure as big three battle to eat the cloud market</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/20/aws_loses_market_share_azure_google/</link>
+      <description>
+        <![CDATA[<h4>Google and Microsoft are catching up, while Oracle and neoclouds are growing from a small base</h4> <p>The big three cloud companies are all growing thanks to an expanding market, but Amazon is under increasing pressure from Microsoft and Google, while newcomers are on the rise.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Google and Microsoft are catching up, while Oracle and neoclouds are growing from a small base
+
+The big three cloud companies are all growing thanks to an expanding market, but Amazon is under increasing pressure from Microsoft and Google, while newcomers are on the rise.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243151</guid>
+    </item>    <item>
+      <title>I Am Artemis: Ethan Jacobs</title>
+      <link>https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-ethan-jacobs/</link>
+      <description>
+        <![CDATA[Listen to this audio excerpt from Ethan Jacobs, a helicopter pilot and member of the Colorado Army National Guard developing a foundational flight training course for Artemis astronauts: High above the Rocky Mountains, Ethan Jacobs is helping NASA preparing to land people on the Moon for the first time in more than 50 years. NASA [&#8230;]]]>
+      </description>
+      <source:markdown>Listen to this audio excerpt from Ethan Jacobs, a helicopter pilot and member of the Colorado Army National Guard developing a foundational flight training course for Artemis astronauts: High above the Rocky Mountains, Ethan Jacobs is helping NASA preparing to land people on the Moon for the first time in more than 50 years. NASA \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=928523</guid>
+    </item>    <item>
+      <title>TP-Link accuses rival Netgear of &#39;smear campaign&#39; over alleged China ties</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/20/tplink_sues_netgear/</link>
+      <description>
+        <![CDATA[<h4>Networking vendor claims rival helped portray it as a national-security risk in the US</h4> <p>TP-Link is suing rival networking vendor Netgear, alleging that the rival and its CEO carried out a smear campaign by falsely suggesting, it says, that the biz had been infiltrated by the Chinese government.…</p>]]>
+      </description>
+      <source:markdown>#### Networking vendor claims rival helped portray it as a national-security risk in the US
+
+TP-Link is suing rival networking vendor Netgear, alleging that the rival and its CEO carried out a smear campaign by falsely suggesting, it says, that the biz had been infiltrated by the Chinese government.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243148</guid>
+    </item>    <item>
+      <title>Composable Platforms: Why You Need One</title>
+      <link>https://thenewstack.io/composable-platforms-why-you-need-one/</link>
+      <description>
+        <![CDATA[<img width="1024" height="682" src="https://cdn.thenewstack.io/media/2025/11/3a60d02b-platform12-1024x682.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="A railway station platform" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/3a60d02b-platform12.jpeg" /><p>The current IT landscape is plagued by stagnation, stemming from both technical and business challenges, making organizations extremely risk-averse. This</p>
+        <p>The post <a href="https://thenewstack.io/composable-platforms-why-you-need-one/">Composable Platforms: Why You Need One</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![A railway station platform](https://cdn.thenewstack.io/media/2025/11/3a60d02b-platform12-1024x682.jpeg)
+
+The current IT landscape is plagued by stagnation, stemming from both technical and business challenges, making organizations extremely risk-averse. This
+
+The post [Composable Platforms: Why You Need One](https://thenewstack.io/composable-platforms-why-you-need-one/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22807160</guid>
+    </item>    <item>
+      <title>New Citizen Science Proposals Funded in 2025</title>
+      <link>https://science.nasa.gov/get-involved/citizen-science/new-citizen-science-proposals-funded-in-2025/</link>
+      <description>
+        <![CDATA[NASA has selected 10 new citizen science proposals for funding in 2025. These selections provide a preview of what’s coming next for NASA citizen science. Note that these investigations are research grants: some of them will result in new opportunities for the public, while others will analyze or build on results from earlier citizen science projects.]]>
+      </description>
+      <source:markdown>NASA has selected 10 new citizen science proposals for funding in 2025. These selections provide a preview of what’s coming next for NASA citizen science. Note that these investigations are research grants: some of them will result in new opportunities for the public, while others will analyze or build on results from earlier citizen science projects.</source:markdown>
+      <guid>cid://https://science.nasa.gov/get-involved/citizen-science/new-citizen-science-proposals-funded-in-2025/</guid>
+    </item>    <item>
+      <title>Hundreds of Australian Bagpipers Attempt to Set World Record While Playing AC/DC</title>
+      <link>https://www.smithsonianmag.com/smart-news/hundreds-of-australian-bagpipers-attempt-to-set-world-record-while-playing-acdc-180987714/</link>
+      <description>
+        <![CDATA[The performance of "It's a Long Way to the Top (If You Wanna Rock ’n’ Roll)" took place a few days before the band played its first show in Australia in a decade]]>
+      </description>
+      <source:markdown>The performance of &#34;It&#39;s a Long Way to the Top (If You Wanna Rock ’n’ Roll)&#34; took place a few days before the band played its first show in Australia in a decade</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/wz25jW6r8MQl_dOH6iiQFlLByvY=/420x240/filters:focal(3875x2583:3876x2584)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6f/0f/6f0f5fc8-3db4-4229-b625-e9cfc693a59a/gettyimages-2246292052.jpg" length="" type="" />
+    </item>    <item>
+      <title>NASA’s TESS Spacecraft Triples Size of Pleiades Star Cluster</title>
+      <link>https://science.nasa.gov/missions/tess/nasas-tess-spacecraft-triples-size-of-pleiades-star-cluster/</link>
+      <description>
+        <![CDATA[Astronomers have revolutionized our understanding of a collection of stars in the northern sky called the Pleiades. They used data from NASA’s TESS (Transiting Exoplanet Survey Satellite) and other observatories as NASA explores the secrets of the universe for the benefit of all, from the Moon to Mars and beyond. By examining the rotation, chemistry, […]]]>
+      </description>
+      <source:markdown>Astronomers have revolutionized our understanding of a collection of stars in the northern sky called the Pleiades. They used data from NASA’s TESS (Transiting Exoplanet Survey Satellite) and other observatories as NASA explores the secrets of the universe for the benefit of all, from the Moon to Mars and beyond. By examining the rotation, chemistry, \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/tess/nasas-tess-spacecraft-triples-size-of-pleiades-star-cluster/</guid>
+    </item>    <item>
       <title>3-Hour Cloudflare Outage Knocks Out AI Chatbots, Shopify</title>
       <link>https://thenewstack.io/3-hour-cloudflare-outage-knocks-out-ai-chatbots-shopify/</link>
       <description>
-        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/11/29fe1696-cloudflare-1024x768.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/29fe1696-cloudflare.png" /><p>On Nov. 18, 2025, Cloudflare experienced a major outage lasting several hours that disrupted access to numerous popular websites and</p>
+        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/11/29fe1696-cloudflare-1024x768.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/29fe1696-cloudflare.png" /><p>On Nov. 18, 2025, Cloudflare experienced a major outage lasting several hours that disrupted access to numerous popular websites and</p>
         <p>The post <a href="https://thenewstack.io/3-hour-cloudflare-outage-knocks-out-ai-chatbots-shopify/">3-Hour Cloudflare Outage Knocks Out AI Chatbots, Shopify</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/29fe1696-cloudflare-1024x768.png)
@@ -20,6 +253,14 @@ On Nov. 18, 2025, Cloudflare experienced a major outage lasting several hours th
 
 The post [3-Hour Cloudflare Outage Knocks Out AI Chatbots, Shopify](https://thenewstack.io/3-hour-cloudflare-outage-knocks-out-ai-chatbots-shopify/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
       <guid>cid://https://thenewstack.io/?p=22807255</guid>
+    </item>    <item>
+      <title>NASA’s Roman Could Bring New Waves of Information on Galaxy’s Stars</title>
+      <link>https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-could-bring-new-waves-of-information-on-galaxys-stars/</link>
+      <description>
+        <![CDATA[Lee esta nota de prensa en español aqui. A team of researchers has confirmed stars ring loud and clear in a “key” that will harmonize well with the science goals and capabilities of NASA’s upcoming Nancy Grace Roman Space Telescope. Stars’ turbulent natures produce waves that cause fluctuations in their overall brightness. By studying these [&#8230;]]]>
+      </description>
+      <source:markdown>Lee esta nota de prensa en español aqui. A team of researchers has confirmed stars ring loud and clear in a “key” that will harmonize well with the science goals and capabilities of NASA’s upcoming Nancy Grace Roman Space Telescope. Stars’ turbulent natures produce waves that cause fluctuations in their overall brightness. By studying these \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=927315</guid>
     </item>    <item>
       <title>Education boards left gates wide open for PowerSchool mega-breach, say watchdogs</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/20/powerschool_breach_reports/</link>
@@ -44,7 +285,7 @@ Google and atomic power biz Westinghouse Electric claim that AI will speed const
       <title>The React Component Pyramid Scheme: An Over-Engineering Crisis</title>
       <link>https://thenewstack.io/the-react-component-pyramid-scheme-an-over-engineering-crisis/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/7552f648-getty-images-00hj4dtxkw0-unsplashb-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="pyramids" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/7552f648-getty-images-00hj4dtxkw0-unsplashb.jpg" /><p>At some point, we stopped writing React components and started worshiping them. The mantra of &#8220;reusability&#8221; turned from a best</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/7552f648-getty-images-00hj4dtxkw0-unsplashb-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="pyramids" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/7552f648-getty-images-00hj4dtxkw0-unsplashb.jpg" /><p>At some point, we stopped writing React components and started worshiping them. The mantra of &#8220;reusability&#8221; turned from a best</p>
         <p>The post <a href="https://thenewstack.io/the-react-component-pyramid-scheme-an-over-engineering-crisis/">The React Component Pyramid Scheme: An Over-Engineering Crisis</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![pyramids](https://cdn.thenewstack.io/media/2025/11/7552f648-getty-images-00hj4dtxkw0-unsplashb-1024x576.jpg)
@@ -779,17 +1020,17 @@ It wouldn&#39;t be a week of tech news without more circular exchanges of billio
       <source:markdown>The term is used to describe &#34;a connection that someone feels between themselves and a famous person they do not know,&#34; according to the dictionary</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Thxv4_b2XVqOXEHySf_zURSwVJ8=/420x240/filters:focal(2714x1835:2715x1836)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4a/90/4a907b47-ce38-4bab-80dd-ccbebe9f2190/gettyimages-2196122888.jpg" length="" type="" />
     </item>    <item>
-      <title>A Guide To Stress-Testing Your ML Data Pipelines</title>
+      <title>How to Stress-Test Your ML Data Pipelines</title>
       <link>https://thenewstack.io/a-guide-to-stress-testing-your-ml-data-pipelines/</link>
       <description>
         <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/d353b1a2-leaking-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Water spray coming out of a leaking pipe" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/d353b1a2-leaking.jpg" /><p>This is the second of two articles. Read also:&#160; Why You Should Break Your ML Pipelines on Purpose In Part</p>
-        <p>The post <a href="https://thenewstack.io/a-guide-to-stress-testing-your-ml-data-pipelines/">A Guide To Stress-Testing Your ML Data Pipelines</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+        <p>The post <a href="https://thenewstack.io/a-guide-to-stress-testing-your-ml-data-pipelines/">How to Stress-Test Your ML Data Pipelines</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![Water spray coming out of a leaking pipe](https://cdn.thenewstack.io/media/2025/11/d353b1a2-leaking-1024x576.jpg)
 
 This is the second of two articles. Read also:  Why You Should Break Your ML Pipelines on Purpose In Part
 
-The post [A Guide To Stress-Testing Your ML Data Pipelines](https://thenewstack.io/a-guide-to-stress-testing-your-ml-data-pipelines/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+The post [How to Stress-Test Your ML Data Pipelines](https://thenewstack.io/a-guide-to-stress-testing-your-ml-data-pipelines/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
       <guid>cid://https://thenewstack.io/?p=22806842</guid>
     </item>    <item>
       <title>Run old versions of UNIX for PDP-11 and x86 on modern hardware</title>

@@ -4,10 +4,39 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>20 Nov 25 07:10 -0800</lastBuildDate>
+    <lastBuildDate>20 Nov 25 12:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Episode IV - A New Hope</title>
+      <link>https://www.riscosopen.org/news/articles/2025/11/20/episode-iv-a-new-hope</link>
+      <description>
+        <![CDATA[<p>Not only did 1977 see the release of space opera <a href="https://www.disneyplus.com/en-gb/welcome/star-wars">Star Wars &#8211; A New Hope</a>, but it was also a year famous for the release of Fortran 77, the follow up to Fortran IV and &#8217;66.</p>
+        <h3>Your compliance is imperative</h3>
+        <p>Fortran is one of a family of <em>imperative</em> programming languages, and was originally short for <b>For</b>mula <b>Tran</b>slation. Finding applications in scientific fields such as modelling of weather systems, molecular structure, and of course calculating star ship propulsion vectors.</p>
+        <p><img src="/images/risc_os_open/xwing.jpg" title="Wireframe X-Wing" alt="Wireframe X-Wing" /><br />
+        <small>Image available as wallpaper from <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1941346742">r33v01v3</a> via Steam</small></p>
+        <p>As described in our <a href="/content/documents/dde-faq"><span class="caps">FAQ</span></a> the imperative languages are in the class of languages that the Norcroft compiler supports, and we&#8217;ve long known from odd scraps of evidence such as the <a href="http://www.computinghistory.org.uk/det/34486/Acorn-RISC-iX-User-Guide/"><span class="caps">RISC</span> iX User Guide</a> that there was a Fortran version at one time which went alongside the C language we&#8217;re so much more familiar with.</p>
+        <p>With help from Codemist a search of their archives managed to locate a partial copy last worked on in the 1990s on a backup tape stowed inside an old R2-unit.</p>
+        <p>Joining the Fortran front end &#8211; the part of the compiler which deals with language specifics &#8211; with the rest of the contemporary tools creates the <code>f77</code> compiler. In addition, a brand new 200+ page manual describes its use in detail, along with <span class="caps">ANSI</span> runtime library.</p>]]>
+      </description>
+      <source:markdown>Not only did 1977 see the release of space opera [Star Wars – A New Hope](https://www.disneyplus.com/en-gb/welcome/star-wars), but it was also a year famous for the release of Fortran 77, the follow up to Fortran IV and ’66.
+
+### Your compliance is imperative
+
+Fortran is one of a family of _imperative_ programming languages, and was originally short for **For** mula **Tran** slation. Finding applications in scientific fields such as modelling of weather systems, molecular structure, and of course calculating star ship propulsion vectors.
+
+![Wireframe X-Wing](/images/risc_os_open/xwing.jpg)
+
+Image available as wallpaper from [r33v01v3](https://steamcommunity.com/sharedfiles/filedetails/?id=1941346742) via Steam
+
+As described in our [FAQ](/content/documents/dde-faq) the imperative languages are in the class of languages that the Norcroft compiler supports, and we’ve long known from odd scraps of evidence such as the [RISC iX User Guide](http://www.computinghistory.org.uk/det/34486/Acorn-RISC-iX-User-Guide/) that there was a Fortran version at one time which went alongside the C language we’re so much more familiar with.
+
+With help from Codemist a search of their archives managed to locate a partial copy last worked on in the 1990s on a backup tape stowed inside an old R2-unit.
+
+Joining the Fortran front end – the part of the compiler which deals with language specifics – with the rest of the contemporary tools creates the `f77` compiler. In addition, a brand new 200+ page manual describes its use in detail, along with ANSI runtime library.</source:markdown>
+      <guid>cid://urn:uuid:ae0fa91d-adb3-4c3e-a87d-f38464b3f4fd</guid>
+    </item>    <item>
       <title>Announcing the TIB 2025 Advent Calendar</title>
       <link>http://www.iconbar.com/comments/rss/news2259.html</link>
       <description>

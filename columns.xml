@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>20 Nov 25 07:10 -0800</lastBuildDate>
+    <lastBuildDate>20 Nov 25 12:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -141,6 +141,393 @@ As always, do give this release a try and open a [ticket](https://gitlab.haskell
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
     </item>    <item>
+      <link>https://m.youtube.com/shorts/JGhXnOo3yuw</link>
+      <description>
+        <![CDATA[<p>Democrats to Troops: Don’t Follow Unlawful Orders.</p>]]>
+      </description>
+      <source:markdown>Democrats to Troops: Don’t Follow Unlawful Orders.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/20/1955/</guid>
+    </item>    <item>
+      <title>On shovels, Nvidia, and the AI Gold Rush</title>
+      <link>https://garymarcus.substack.com/p/nvidias-earnings-report-and-the-calculus</link>
+      <description>
+        <![CDATA[Nvidia leapt up a few points today, after last night&#8217;s earning&#8217;s call, and Barron&#8217;s raced to report how grandly things were going, posting this headline at 10:28 am est.]]>
+      </description>
+      <source:markdown>Nvidia leapt up a few points today, after last night’s earning’s call, and Barron’s raced to report how grandly things were going, posting this headline at 10:28 am est.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!YTxv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F898214ba-b59a-4f65-b196-85340f79dbc8_1647x1456.png" length="0" type="image/jpeg" />
+      <guid>cid://https://garymarcus.substack.com/p/nvidias-earnings-report-and-the-calculus</guid>
+    </item>    <item>
+      <title>Dog-Centered Design</title>
+      <link>https://onefoottsunami.com/2025/11/20/dog-centered-design/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29487</guid>
+    </item>    <item>
+      <title>What Every Woman Needs to Know About the Healthcare System</title>
+      <link>https://guykawasaki.substack.com/p/what-every-woman-needs-to-know-about</link>
+      <description>
+        <![CDATA[Healthcare can feel like a maze&#8212;especially for women.]]>
+      </description>
+      <source:markdown>Healthcare can feel like a maze—especially for women.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!t6Vv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f27c8f7-fb36-4b4c-a9f9-5ea76eb4bd19_1080x1080.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://guykawasaki.substack.com/p/what-every-woman-needs-to-know-about</guid>
+    </item>    <item>
+      <title>Thunderbird 145 finally adds ‘native’ Exchange support</title>
+      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/11/20/thunderbird_microsoft_exchange_support/</link>
+      <description>
+        <![CDATA[<h4>EWS-powered email only for now, with calendars and contacts still on the to-do list</h4>
+              <p>It&#39;s easy to forget in the FOSS world, but Exchange still runs most corporate email – and the new version of Thunderbird can talk to it directly.</p>]]>
+      </description>
+      <source:markdown>#### EWS-powered email only for now, with calendars and contacts still on the to-do list
+
+It&#39;s easy to forget in the FOSS world, but Exchange still runs most corporate email – and the new version of Thunderbird can talk to it directly.</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243152</guid>
+    </item>    <item>
+      <title>Nano Banana Pro aka gemini-3-pro-image-preview is the best available image generation model</title>
+      <link>https://simonwillison.net/2025/Nov/20/nano-banana-pro/#atom-everything</link>
+      <description>
+        <![CDATA[<p>Hot on the heels of Tuesday's <a href="https://simonwillison.net/2025/Nov/18/gemini-3/">Gemini 3 Pro</a> release, today it's <a href="https://blog.google/technology/ai/nano-banana-pro/">Nano Banana Pro</a>, also known as <a href="https://deepmind.google/models/gemini-image/pro/">Gemini 3 Pro Image</a>. I've had a few days of preview access and this is an <em>astonishingly</em> capable image generation model.</p>
+        <p>As is often the case, the most useful low-level details can be found in <a href="https://ai.google.dev/gemini-api/docs/image-generation#gemini-3-capabilities">the API documentation</a>:</p>
+        <blockquote>
+        <p>Designed to tackle the most challenging workflows through advanced reasoning, it excels at complex, multi-turn creation and modification tasks.</p>
+        <ul>
+        <li>
+        <strong>High-resolution output</strong>: Built-in generation capabilities for 1K, 2K, and 4K visuals.</li>
+        <li>
+        <strong>Advanced text rendering</strong>: Capable of generating legible, stylized text for infographics, menus, diagrams, and marketing assets.</li>
+        <li>
+        <strong>Grounding with Google Search</strong>: The model can use Google Search as a tool to verify facts and generate imagery based on real-time data (e.g., current weather maps, stock charts, recent events).</li>
+        <li>
+        <strong>Thinking mode</strong>: The model utilizes a "thinking" process to reason through complex prompts. It generates interim "thought images" (visible in the backend but not charged) to refine the composition before producing the final high-quality output.</li>
+        <li>
+        <strong>Up to 14 reference images</strong>: You can now mix up to 14 reference images to produce the final image.</li>
+        </ul>
+        <p>[...] These 14 images can include the following:</p>
+        <ul>
+        <li>Up to 6 images of objects with high-fidelity to include in the final image</li>
+        <li>Up to 5 images of humans to maintain character consistency</li>
+        </ul>
+        </blockquote>
+        <h4 id="trying-out-some-detailed-instruction-image-prompts">Trying out some detailed instruction image prompts</h4>
+        <p>Max Woolf published <a href="https://minimaxir.com/2025/11/nano-banana-prompts/#hello-nano-banana">the definitive guide to prompting Nano Banana</a> just a few days ago. I decided to try his example prompts against the new model, requesting results in 4K.</p>
+        <p>Here's what I got for his first test prompt, using Google's <a href="https://aistudio.google.com/">AI Studio</a>:</p>
+        <blockquote>
+        <p><code>Create an image of a three-dimensional pancake in the shape of a skull, garnished on top with blueberries and maple syrup.</code></p>
+        </blockquote>
+        <p>Here's what I got:</p>
+        <p><img src="https://static.simonwillison.net/static/2025/pancake-skull-1.jpg" alt="A very detailed quality photo of a skull made of pancake batter, blueberries on top, maple syrup dripping down, maple syrup bottle in the background." style="max-width: 100%;" /></p>
+        <p>The result came out as a 24.1MB, 5632 × 3072 pixel PNG file. I don't want to serve that on my own blog so here's <a href="https://drive.google.com/file/d/1QV3pcW1KfbTRQscavNh6ld9PyqG4BRes/view?usp=drive_link">a Google Drive link for the original</a>.</p>
+        <p>Then I ran his follow-up prompt:</p>
+        <pre><code>Make ALL of the following edits to the image:
+        - Put a strawberry in the left eye socket.
+        - Put a blackberry in the right eye socket.
+        - Put a mint garnish on top of the pancake.
+        - Change the plate to a plate-shaped chocolate-chip cookie.
+        - Add happy people to the background.
+        </code></pre>
+        <p><img src="https://static.simonwillison.net/static/2025/pancake-skull-2.jpg" alt="It's the exact same skull with the requested edits made - mint garnish on the blueberries, a strawberry in the left hand eye socket (from our perspective, technically the skull's right hand socket), a blackberry in the other, the plate is now a plate-sized chocolate chip cookie (admittedly on a regular plate) and there are four happy peo ple in the background." style="max-width: 100%;" /></p>
+        <p>I'll note that it did put the plate-sized cookie on a regular plate. Here's <a href="https://drive.google.com/file/d/18AzhM-BUZAfLGoHWl6MQW_UW9ju4km-i/view?usp=drive_link">the 24.9MB PNG</a>.</p>
+        <p>The new model isn't cheap. Here's <a href="https://ai.google.dev/gemini-api/docs/pricing#gemini-3-pro-image-preview">the API pricing</a>: it's 24 cents for a 4K image and 13.4 cents for a 1K or 2K image. Image inputs are 6.7 cents each.</p>
+        <p>If you use all 14 reference images to create a 4K output that's $1.18 for a single API call (plus a few more cents to cover your text prompt, charged at $2.00 per million tokens.)</p> 
+        <p>Unlike most of Google's other models it also isn't available for free via AI Studio: you have to configure an API key with billing in order to use the model there.</p>
+        <h4 id="creating-an-infographic">Creating an infographic</h4>
+        <p>So this thing is great at following instructions. How about rendering text?</p>
+        <p>I tried this prompt, this time using the Gemini consumer app in "thinking" mode (which now uses Nano Banana Pro for image generation). <a href="https://gemini.google.com/share/d40fe391f309">Here's a share link</a> - my prompt was:</p>
+        <blockquote>
+        <p>Infographic explaining how the Datasette open source project works</p>
+        </blockquote>
+        <p>This is a great opportunity to test its ability to run searches (aka "Grounding with Google Search"). Here's what it created based on that 9 word prompt:</p>
+        <p><img src="https://static.simonwillison.net/static/2025/nano-banana-datasette.jpg" alt="Described by Gemini 3 Pro: A technical architecture diagram titled &quot;How Datasette Works: From Raw Data to Explorable API,&quot; illustrating a workflow from left to right. 1. &quot;RAW DATA SOURCES&quot; include &quot;CSV&quot;, &quot;JSON&quot;, &quot;Excel (XLSX)&quot;, and &quot;Log Files&quot;. 2. These flow into &quot;DATA PREPARATION &amp; CONVERSION&quot; using tools &quot;csvs-to-sqlite&quot; and &quot;sqlite-utils&quot; to create a &quot;SQLite DATABASE&quot;. 3. This feeds into the central &quot;DATASETTE APPLICATION CORE,&quot; a stack comprising &quot;Data Ingestion (Read-Only)&quot;, &quot;Query Engine (SQL)&quot;, &quot;API Layer (JSON)&quot;, and &quot;Web UI Rendering&quot;. 4. A &quot;PLUGIN ECOSYSTEM&quot; connects below the core, listing &quot;Vega Charts&quot;, &quot;Cluster Maps&quot;, &quot;Full-Text Search&quot;, and &quot;Custom Renderers&quot;. 5. To the right, the core branches into &quot;OUTPUT &amp; INTERFACES&quot;: an &quot;Interactive Web Interface (Explore, Filter, Facet)&quot;, a &quot;JSON API (Programmatic Access)&quot; showing a snippet {&quot;data&quot;: [...]}, and a &quot;SQL EDITOR Custom SQL Queries&quot; showing SELECT * FROM.... 6. The API output connects to &quot;PUBLISHING &amp; DEPLOYMENT&quot; via a terminal command datasette publish cloudrun my.db leading to deployment targets &quot;Heroku&quot;, &quot;Google Cloud Run&quot;, &quot;Fly.io&quot;, and &quot;Vercel&quot;." style="max-width: 100%;" /></p>
+        <p>That's a pretty extraordinary result for such a simple prompt. The text is all spelled correctly and rendered without glitches. The content is solid too - it even included logos for the most popular publish platforms, and a tiny thumbnail of the Datasette UI which is close-enough for an infographic.</p>
+        <p>"Data Ingestion (Read-Only)" is a bit off. Everything else looks great to me.</p>
+        <p>Here's the thinking trace for that image generation process:</p>
+        <blockquote>
+        <p><strong>Initiating Datasette Infographic</strong></p>
+        <p>I'm starting a detailed infographic about the Datasette project. I plan to use Google Search to gather specific information about its core processes, which I will then visualize in a multi-panel diagram.</p>
+        <p><strong>Developing the Datasette workflow</strong></p>
+        <p>I am visualizing the Datasette workflow as described in the search results. I'm focusing on the conversion of data from different formats into a SQLite database, which is then presented as a web application complete with a user interface and JSON output.</p>
+        <p><strong>Visualizing Datasette Workflow</strong></p>
+        <p>I've sketched out the initial structure for the infographic, focusing on a flowchart style. The key components include data input from diverse sources, conversion to SQLite, the Datasette core application, its main features (web UI, JSON API, SQL querying), ecosystem plugins, and finally, deployment options. I aim for clear icons and labels to represent each step. Now I will focus on refining the flow and clarifying the relationships between the parts.</p>
+        <p><strong>Defining Core Datasette Stages</strong></p>
+        <p>I've sketched out the initial infographic structure. I have identified the key components, focusing on visual representation of the data flow and the key benefits and features of the system. I have made updates to the flowchart with clear icons and labels. Now I'm working to expand the data input section and refine the visual representation of each step.</p>
+        <p><strong>Constructing Datasette Infographic</strong></p>
+        <p>I am translating the current Datasette workflow outline into visual elements. The input section will show icons for different data formats. I've sketched the data conversion stage with clear illustrations of the necessary tools. I will add a depiction of the Datasette core application, showcasing its interfaces and functions. The plugin ecosystem and deployment options will follow. Now, I am refining the visual representation.</p>
+        <p><strong>Analyzing Datasette's Architecture</strong></p>
+        <p>I'm currently working on representing the Datasette open-source project's architecture visually. I've broken it down into key components: raw data processing, SQLite conversion, core application functionalities, plugin integration, and deployment methods. I'm focusing on creating a clear, linear representation to show the workflow.</p>
+        <p><strong>Mapping the Datasette Flow</strong></p>
+        <p>I've crafted a comprehensive graphic to illustrate Datasette's operation. It spans the data ingestion, SQLite conversion, main application features, plugin interactions, and deployment stages, aiming for clarity and a logical flow.</p>
+        </blockquote>
+        <h4 id="detecting-generated-images-with-synthid">Detecting generated images with SynthID</h4>
+        <p>This note from the <a href="https://blog.google/technology/ai/nano-banana-pro/">announcement post</a> caught my eye:</p>
+        <blockquote>
+        <p>We believe it's critical to know when an image is AI-generated. This is why all media generated by Google's tools are embedded with our imperceptible <a href="https://deepmind.google/models/synthid/">SynthID</a> digital watermark.</p>
+        <p>Today, we are putting a powerful verification tool directly in consumers' hands: you can now upload an image into the Gemini app and simply ask if it was generated by Google AI, thanks to SynthID technology. We are starting with images, but will expand to audio and video soon.</p>
+        </blockquote>
+        <p>Last night I used Nano Banana Pro to generate a fake photograph of raccoons stealing our food delivery, then scrubbed out the little diamond icon using the Apple Photos "cleanup" tool. I uploaded that Gemini app and asked "Was this image created with AI?":</p>
+        <p><img src="https://static.simonwillison.net/static/2025/nano-banana-detected.jpg" alt="Screenshot of a mobile chat interface displaying a conversation about AI image detection. The user has uploaded a photo showing two raccoons on a porch; one raccoon reaches inside a paper bag a bench while the other stands on the ground looking up at it. The conversation title reads &quot;AI Image Creation Confirmed&quot;. The user asks, &quot;Was this image created with ai?&quot; The AI response, labeled &quot;Analysis &amp; 1 more&quot;, states: &quot;Yes, it appears that all or part of this image was created with Google AI. SynthID detected a watermark in 25-50% of the image.&quot;" style="max-width: 100%;" /></p>
+        <p>It replied:</p>
+        <blockquote>
+        <p>Yes, it appears that all or part of this image was created with Google Al. SynthID detected a watermark in 25-50% of the image.</p>
+        </blockquote>
+        <p>Presumably that 25-50% figure is because the rest of the photo was taken by me - it was just the raccoons that were added by Nano Banana Pro.</p>
+            
+                <p>Tags: <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/text-to-image">text-to-image</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/nano-banana">nano-banana</a></p>]]>
+      </description>
+      <source:markdown>Hot on the heels of Tuesday&#39;s [Gemini 3 Pro](https://simonwillison.net/2025/Nov/18/gemini-3/) release, today it&#39;s [Nano Banana Pro](https://blog.google/technology/ai/nano-banana-pro/), also known as [Gemini 3 Pro Image](https://deepmind.google/models/gemini-image/pro/). I&#39;ve had a few days of preview access and this is an _astonishingly_ capable image generation model.
+
+As is often the case, the most useful low-level details can be found in [the API documentation](https://ai.google.dev/gemini-api/docs/image-generation#gemini-3-capabilities):
+
+&#62; Designed to tackle the most challenging workflows through advanced reasoning, it excels at complex, multi-turn creation and modification tasks.
+&#62;
+&#62; - **High-resolution output**: Built-in generation capabilities for 1K, 2K, and 4K visuals.
+&#62; - **Advanced text rendering**: Capable of generating legible, stylized text for infographics, menus, diagrams, and marketing assets.
+&#62; - **Grounding with Google Search**: The model can use Google Search as a tool to verify facts and generate imagery based on real-time data (e.g., current weather maps, stock charts, recent events).
+&#62; - **Thinking mode**: The model utilizes a &#34;thinking&#34; process to reason through complex prompts. It generates interim &#34;thought images&#34; (visible in the backend but not charged) to refine the composition before producing the final high-quality output.
+&#62; - **Up to 14 reference images**: You can now mix up to 14 reference images to produce the final image.
+&#62;
+&#62; \[...\] These 14 images can include the following:
+&#62;
+&#62; - Up to 6 images of objects with high-fidelity to include in the final image
+&#62; - Up to 5 images of humans to maintain character consistency
+
+#### Trying out some detailed instruction image prompts
+
+Max Woolf published [the definitive guide to prompting Nano Banana](https://minimaxir.com/2025/11/nano-banana-prompts/#hello-nano-banana) just a few days ago. I decided to try his example prompts against the new model, requesting results in 4K.
+
+Here&#39;s what I got for his first test prompt, using Google&#39;s [AI Studio](https://aistudio.google.com/):
+
+&#62; `Create an image of a three-dimensional pancake in the shape of a skull, garnished on top with blueberries and maple syrup.`
+
+Here&#39;s what I got:
+
+![A very detailed quality photo of a skull made of pancake batter, blueberries on top, maple syrup dripping down, maple syrup bottle in the background.](https://static.simonwillison.net/static/2025/pancake-skull-1.jpg)
+
+The result came out as a 24.1MB, 5632 × 3072 pixel PNG file. I don&#39;t want to serve that on my own blog so here&#39;s [a Google Drive link for the original](https://drive.google.com/file/d/1QV3pcW1KfbTRQscavNh6ld9PyqG4BRes/view?usp=drive_link).
+
+Then I ran his follow-up prompt:
+
+```
+Make ALL of the following edits to the image:
+- Put a strawberry in the left eye socket.
+- Put a blackberry in the right eye socket.
+- Put a mint garnish on top of the pancake.
+- Change the plate to a plate-shaped chocolate-chip cookie.
+- Add happy people to the background.
+
+```
+
+![It&#39;s the exact same skull with the requested edits made - mint garnish on the blueberries, a strawberry in the left hand eye socket (from our perspective, technically the skull&#39;s right hand socket), a blackberry in the other, the plate is now a plate-sized chocolate chip cookie (admittedly on a regular plate) and there are four happy peo ple in the background.](https://static.simonwillison.net/static/2025/pancake-skull-2.jpg)
+
+I&#39;ll note that it did put the plate-sized cookie on a regular plate. Here&#39;s [the 24.9MB PNG](https://drive.google.com/file/d/18AzhM-BUZAfLGoHWl6MQW_UW9ju4km-i/view?usp=drive_link).
+
+The new model isn&#39;t cheap. Here&#39;s [the API pricing](https://ai.google.dev/gemini-api/docs/pricing#gemini-3-pro-image-preview): it&#39;s 24 cents for a 4K image and 13.4 cents for a 1K or 2K image. Image inputs are 6.7 cents each.
+
+If you use all 14 reference images to create a 4K output that&#39;s $1.18 for a single API call (plus a few more cents to cover your text prompt, charged at $2.00 per million tokens.)
+
+Unlike most of Google&#39;s other models it also isn&#39;t available for free via AI Studio: you have to configure an API key with billing in order to use the model there.
+
+#### Creating an infographic
+
+So this thing is great at following instructions. How about rendering text?
+
+I tried this prompt, this time using the Gemini consumer app in &#34;thinking&#34; mode (which now uses Nano Banana Pro for image generation). [Here&#39;s a share link](https://gemini.google.com/share/d40fe391f309) \- my prompt was:
+
+&#62; Infographic explaining how the Datasette open source project works
+
+This is a great opportunity to test its ability to run searches (aka &#34;Grounding with Google Search&#34;). Here&#39;s what it created based on that 9 word prompt:
+
+![Described by Gemini 3 Pro: A technical architecture diagram titled &#34;How Datasette Works: From Raw Data to Explorable API,&#34; illustrating a workflow from left to right. 1. &#34;RAW DATA SOURCES&#34; include &#34;CSV&#34;, &#34;JSON&#34;, &#34;Excel (XLSX)&#34;, and &#34;Log Files&#34;. 2. These flow into &#34;DATA PREPARATION &#38; CONVERSION&#34; using tools &#34;csvs-to-sqlite&#34; and &#34;sqlite-utils&#34; to create a &#34;SQLite DATABASE&#34;. 3. This feeds into the central &#34;DATASETTE APPLICATION CORE,&#34; a stack comprising &#34;Data Ingestion (Read-Only)&#34;, &#34;Query Engine (SQL)&#34;, &#34;API Layer (JSON)&#34;, and &#34;Web UI Rendering&#34;. 4. A &#34;PLUGIN ECOSYSTEM&#34; connects below the core, listing &#34;Vega Charts&#34;, &#34;Cluster Maps&#34;, &#34;Full-Text Search&#34;, and &#34;Custom Renderers&#34;. 5. To the right, the core branches into &#34;OUTPUT &#38; INTERFACES&#34;: an &#34;Interactive Web Interface (Explore, Filter, Facet)&#34;, a &#34;JSON API (Programmatic Access)&#34; showing a snippet {&#34;data&#34;: [...]}, and a &#34;SQL EDITOR Custom SQL Queries&#34; showing SELECT * FROM.... 6. The API output connects to &#34;PUBLISHING &#38; DEPLOYMENT&#34; via a terminal command datasette publish cloudrun my.db leading to deployment targets &#34;Heroku&#34;, &#34;Google Cloud Run&#34;, &#34;Fly.io&#34;, and &#34;Vercel&#34;.](https://static.simonwillison.net/static/2025/nano-banana-datasette.jpg)
+
+That&#39;s a pretty extraordinary result for such a simple prompt. The text is all spelled correctly and rendered without glitches. The content is solid too - it even included logos for the most popular publish platforms, and a tiny thumbnail of the Datasette UI which is close-enough for an infographic.
+
+&#34;Data Ingestion (Read-Only)&#34; is a bit off. Everything else looks great to me.
+
+Here&#39;s the thinking trace for that image generation process:
+
+&#62; **Initiating Datasette Infographic**
+&#62;
+&#62; I&#39;m starting a detailed infographic about the Datasette project. I plan to use Google Search to gather specific information about its core processes, which I will then visualize in a multi-panel diagram.
+&#62;
+&#62; **Developing the Datasette workflow**
+&#62;
+&#62; I am visualizing the Datasette workflow as described in the search results. I&#39;m focusing on the conversion of data from different formats into a SQLite database, which is then presented as a web application complete with a user interface and JSON output.
+&#62;
+&#62; **Visualizing Datasette Workflow**
+&#62;
+&#62; I&#39;ve sketched out the initial structure for the infographic, focusing on a flowchart style. The key components include data input from diverse sources, conversion to SQLite, the Datasette core application, its main features (web UI, JSON API, SQL querying), ecosystem plugins, and finally, deployment options. I aim for clear icons and labels to represent each step. Now I will focus on refining the flow and clarifying the relationships between the parts.
+&#62;
+&#62; **Defining Core Datasette Stages**
+&#62;
+&#62; I&#39;ve sketched out the initial infographic structure. I have identified the key components, focusing on visual representation of the data flow and the key benefits and features of the system. I have made updates to the flowchart with clear icons and labels. Now I&#39;m working to expand the data input section and refine the visual representation of each step.
+&#62;
+&#62; **Constructing Datasette Infographic**
+&#62;
+&#62; I am translating the current Datasette workflow outline into visual elements. The input section will show icons for different data formats. I&#39;ve sketched the data conversion stage with clear illustrations of the necessary tools. I will add a depiction of the Datasette core application, showcasing its interfaces and functions. The plugin ecosystem and deployment options will follow. Now, I am refining the visual representation.
+&#62;
+&#62; **Analyzing Datasette&#39;s Architecture**
+&#62;
+&#62; I&#39;m currently working on representing the Datasette open-source project&#39;s architecture visually. I&#39;ve broken it down into key components: raw data processing, SQLite conversion, core application functionalities, plugin integration, and deployment methods. I&#39;m focusing on creating a clear, linear representation to show the workflow.
+&#62;
+&#62; **Mapping the Datasette Flow**
+&#62;
+&#62; I&#39;ve crafted a comprehensive graphic to illustrate Datasette&#39;s operation. It spans the data ingestion, SQLite conversion, main application features, plugin interactions, and deployment stages, aiming for clarity and a logical flow.
+
+#### Detecting generated images with SynthID
+
+This note from the [announcement post](https://blog.google/technology/ai/nano-banana-pro/) caught my eye:
+
+&#62; We believe it&#39;s critical to know when an image is AI-generated. This is why all media generated by Google&#39;s tools are embedded with our imperceptible [SynthID](https://deepmind.google/models/synthid/) digital watermark.
+&#62;
+&#62; Today, we are putting a powerful verification tool directly in consumers&#39; hands: you can now upload an image into the Gemini app and simply ask if it was generated by Google AI, thanks to SynthID technology. We are starting with images, but will expand to audio and video soon.
+
+Last night I used Nano Banana Pro to generate a fake photograph of raccoons stealing our food delivery, then scrubbed out the little diamond icon using the Apple Photos &#34;cleanup&#34; tool. I uploaded that Gemini app and asked &#34;Was this image created with AI?&#34;:
+
+![Screenshot of a mobile chat interface displaying a conversation about AI image detection. The user has uploaded a photo showing two raccoons on a porch; one raccoon reaches inside a paper bag a bench while the other stands on the ground looking up at it. The conversation title reads &#34;AI Image Creation Confirmed&#34;. The user asks, &#34;Was this image created with ai?&#34; The AI response, labeled &#34;Analysis &#38; 1 more&#34;, states: &#34;Yes, it appears that all or part of this image was created with Google AI. SynthID detected a watermark in 25-50% of the image.&#34;](https://static.simonwillison.net/static/2025/nano-banana-detected.jpg)
+
+It replied:
+
+&#62; Yes, it appears that all or part of this image was created with Google Al. SynthID detected a watermark in 25-50% of the image.
+
+Presumably that 25-50% figure is because the rest of the photo was taken by me - it was just the raccoons that were added by Nano Banana Pro.
+
+Tags: [google](https://simonwillison.net/tags/google), [ai](https://simonwillison.net/tags/ai), [datasette](https://simonwillison.net/tags/datasette), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [gemini](https://simonwillison.net/tags/gemini), [text-to-image](https://simonwillison.net/tags/text-to-image), [llm-release](https://simonwillison.net/tags/llm-release), [nano-banana](https://simonwillison.net/tags/nano-banana)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/20/nano-banana-pro/#atom-everything</guid>
+    </item>    <item>
+      <title>Responsive Letter Spacing</title>
+      <link>https://cloudfour.com/thinks/responsive-letter-spacing/</link>
+      <description>
+        <![CDATA[Minimizing the readability impact of a typographic brand requirement.]]>
+      </description>
+      <source:markdown>Minimizing the readability impact of a typographic brand requirement.</source:markdown>
+      <enclosure url="https://cloudfour.com/wp-content/uploads/2025/11/letter-spacing-feature-r3.png" length="0" type="image/png" />
+      <guid>cid://https://cloudfour.com/?p=8252</guid>
+    </item>    <item>
+      <title>Join me Friday at 11:30amET for a Live Dishy Chat about all things Epstein, MBS, and this Insane Week in News</title>
+      <link>https://tinabrown.substack.com/p/join-me-friday-at-1130amet-for-a</link>
+      <description>
+        <![CDATA[Inviting you to share and swap thoughts with me on what Trump is so afraid of from the Epstein file dump, Rep.]]>
+      </description>
+      <source:markdown>Inviting you to share and swap thoughts with me on what Trump is so afraid of from the Epstein file dump, Rep.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!vIEt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e48981a-0a70-437e-8cb1-eb63ef4b7eaa_760x1264.png" length="0" type="image/jpeg" />
+      <guid>cid://https://tinabrown.substack.com/p/join-me-friday-at-1130amet-for-a</guid>
+    </item>    <item>
+      <title>Trump Boasts That His Funeral Will Have Much Bigger Turnout Than Cheney’s</title>
+      <link>https://www.borowitzreport.com/p/trump-boasts-that-his-funeral-will</link>
+      <description>
+        <![CDATA["My funeral will draw MILLIONS!" he claimed.]]>
+      </description>
+      <source:markdown>&#34;My funeral will draw MILLIONS!&#34; he claimed.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!nYB6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7335a29c-8f28-4dfa-b9e6-81c5c6b90463_1024x683.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/trump-boasts-that-his-funeral-will</guid>
+    </item>    <item>
+      <title>La sombra del Catire: la penitencia del bandolero y el silencio de la tierra hostil</title>
+      <link>https://www.palomitademaiz.net/resenas-la-sombra-del-catire/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-la-sombra-del-catire</link>
+      <description>
+        <![CDATA[<p>Dirección: Jorge Hernández Aldana. Guion: Jorge Hernández Aldana. Elenco: Francisco Denis, Tatiana Mabo, Giovanni García, Jorge Dakar. Países: México, Venezuela. Más información de la película: https://m.imdb.com/title/tt15203010/ El cine latinoamericano, en sus dramas más profundos, a menudo nos confronta con la idea de la tierra como herencia, castigo y testigo. En La sombra del Catire, la [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-la-sombra-del-catire/">La sombra del Catire: la penitencia del bandolero y el silencio de la tierra hostil</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Dirección: Jorge Hernández Aldana. Guion: Jorge Hernández Aldana. Elenco: Francisco Denis, Tatiana Mabo, Giovanni García, Jorge Dakar. Países: México, Venezuela. Más información de la película: https://m.imdb.com/title/tt15203010/ El cine latinoamericano, en sus dramas más profundos, a menudo nos confronta con la idea de la tierra como herencia, castigo y testigo. En La sombra del Catire, la \[…\]
+
+La entrada [La sombra del Catire: la penitencia del bandolero y el silencio de la tierra hostil](https://www.palomitademaiz.net/resenas-la-sombra-del-catire/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=25738</guid>
+    </item>    <item>
+      <title>A Newsletter of Humorous Writing #419</title>
+      <link>https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-419/</link>
+      <description>
+        <![CDATA[<h3><em>For November 12-18, 2025</em></h3>
+        <p>Hello and welcome to <strong>A Newsletter of Humorous Writing</strong>, a roundup of the week's finest short humor pieces and funny articles, and a celebration of the fantastic writers who wrote them. We’re excited to announce our next <strong>Hangout of Humorous Writing</strong> will be on Wednesday, December 10th at 6PM! Join us at Peculier pub to celebrate the end of the year and meet other humor writers and humor writing fans.</p>
+        <figure><img alt="A Hangout of Humorous Writing Join us for an end of the year get-together with humor writers and humor writing fans. Hosted by Luke &amp; James, editors of A Newsletter of Humorous Writing. Peculier Pub 145 Bleecker St. NYC Wednesday 12/10, 6 PM" draggable="false" src="https://assets.buttondown.email/images/5df00058-58b4-4e51-a7e4-b05e233c1b44.jpg?w=960&amp;fit=max" width="200"/><figcaption></figcaption></figure>
+        <hr/><h2>What We Enjoyed This Week</h2>
+        <p><a href="https://www.newyorker.com/magazine/2025/11/24/effigies-of-me?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-419" rel="noopener noreferrer nofollow" target="_blank"><strong>Effigies of Me</strong></a><strong> by </strong><a href="https://deepthoughtsbyjackhandey.com/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-419" rel="noopener noreferrer nofollow" target="_blank"><strong>Jack Handey</strong></a> <em>(The New Yorker)</em> Classic Jack Handey from top to bottom: A hilariously absurd premise that only he could have thought of, amazing specifics, and fantastic turns of phrase. “Some customers question the idea of paying money to the very same person they’re hanging or burning. To them I say that we make the very best effigies of me. Each one is stuffed with the finest French rags and rare old newspapers—some even collectible.“</p>
+        <p><a href="https://granta.com/connecting-the-dots/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-419" rel="noopener noreferrer nofollow" target="_blank"><strong>Connecting the Dots</strong></a><strong> by </strong><a href="https://madelinecash.com/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-419" rel="noopener noreferrer nofollow" target="_blank"><strong>Madeline Cash</strong></a> <em>(Granta)</em> Not a traditional short humor piece, but a funny exploration of a particular texting tic that we suspect many of our readers will have encountered. (Or perhaps engaged in themselves…) This also reminded us in the best way of the McSweeney’s classic, <a href="https://www.mcsweeneys.net/articles/hemingway-or-my-mothers-email?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-419" rel="noopener noreferrer nofollow" target="_blank">Hemingway or My Mother’s Email?</a></p>
+        <p><a href="https://www.pointsincase.com/lists/evidence-that-my-kids-daycare-may-actually-be-a-blues-joint?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-419" rel="noopener noreferrer nofollow" target="_blank"><strong>Evidence That My Kid’s Daycare May Actually Be a Blues Joint</strong></a><strong> by </strong><a href="https://www.pointsincase.com/author/tommy-smith?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-419" rel="noopener noreferrer nofollow" target="_blank"><strong>Tommy Smith</strong></a> <em>(Points in Case)</em> Tommy has a lot of fun with how oblivious the narrator of this piece is and how they calmly accept all the weird stuff that’s going on at the daycare: "I guess it’s also strange that instead of being picked up, he is let out in front of our house at 4:00 AM by a 1978 Buick Regal." This is packed with tons of great blues joint details and specifics too.</p>
+        <hr/><blockquote><p>YOUR AD HERE!</p><p>Do you have an ad you'd like to place in the Newsletter? <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJlHErf2PuWr5NxqLbD6dhf7s31pzCC3sBVCHJ24exAwfmgQ/viewform?usp=sf_link&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-419" rel="noopener noreferrer nofollow" target="_blank">Fill out this form!</a></p><p>And feel free to send us an email if you have questions.</p></blockquote>
+        <hr/><h2>An Old Favorite</h2>
+        <p><a href="https://www.mcsweeneys.net/articles/bad-names-for-undercover-police-officers?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-419" rel="noopener noreferrer nofollow" target="_blank"><strong>Bad Names for Undercover Police Officers</strong></a><strong> by </strong><a href="https://www.instagram.com/thegreatnorthwendy/?hl=en&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-419" rel="noopener noreferrer nofollow" target="_blank"><strong>Wendy Molyneux</strong></a> <em>(McSweeney’s)</em> A short-but-sweet list piece by one of the great McSweeney’s contributors, Wendy Molyneux. Brief, high-concept list pieces like this were staples of McSweeney’s back in the day, and we always have a good time revisiting them. And if you like this piece, you might want to pick up the very funny print collection of McSweeney’s lists, <a href="https://www.penguinrandomhouse.com/books/112654/mountain-man-dance-moves-by-by-the-editors-of-mcsweeneys/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-419" rel="noopener noreferrer nofollow" target="_blank">Mountain Man Dance Moves</a></p>
+        <p><em>Do you have an Old Favorite of your own? Let us know by filling out</em> <a href="http://forms.gle/9iALhpfsAn9mvn4p8?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-419" rel="noopener noreferrer nofollow" target="_blank"><em>this form</em></a> <em>and we may run your pick in a future edition of the newsletter.</em></p>
+        <hr/><h2>Updates From Your Hosts and Friends of the Show</h2>
+        <p>Over at <strong>Lit Hub</strong>, James and the staff have been running a <strong>bracket to figure out What Was Literary Twitter?</strong> They compiled a list of the best tweets, scandals, and hot takes, ordered them in a bracket, and set them loose to be voted on by our readers. We’re into <a href="https://lithub.com/what-was-literary-twitter-the-bracket-day-4/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-419" rel="noopener noreferrer nofollow" target="_blank"><strong>the fourth round (which you can vote on right now!),</strong></a> but if you want to see the write-ups for all 64 of the first round picks, check out <a href="https://lithub.com/what-was-literary-twitter-the-bracketwhat-was-literary-twitter-the-bracket/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-419" rel="noopener noreferrer nofollow" target="_blank"><strong>the first post, here!</strong></a></p>
+        <p>Luke’s got a whole bunch of <a href="https://lukevburns.tumblr.com/UpcomingWorkshops?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-419" rel="noopener noreferrer nofollow" target="_blank"><strong>short humor writing workshops</strong></a><strong> starting in January</strong> (including an <a href="https://docs.google.com/forms/d/e/1FAIpQLScFxfmNay9xwJyNhV8x0vy0Ehe0UrBccYBqHh4mahetmKcspQ/viewform?usp=dialog&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-419" rel="noopener noreferrer nofollow" target="_blank">intro workshop</a>)! Get a jump on those <strong>new year writing resolutions</strong> by getting notes and feedback in a supportive environment, and meeting other funny folks.</p>]]>
+      </description>
+      <source:markdown>### _For November 12-18, 2025_
+
+Hello and welcome to **A Newsletter of Humorous Writing**, a roundup of the week&#39;s finest short humor pieces and funny articles, and a celebration of the fantastic writers who wrote them. We’re excited to announce our next **Hangout of Humorous Writing** will be on Wednesday, December 10th at 6PM! Join us at Peculier pub to celebrate the end of the year and meet other humor writers and humor writing fans.
+
+![A Hangout of Humorous Writing Join us for an end of the year get-together with humor writers and humor writing fans. Hosted by Luke &#38; James, editors of A Newsletter of Humorous Writing. Peculier Pub 145 Bleecker St. NYC Wednesday 12/10, 6 PM](https://assets.buttondown.email/images/5df00058-58b4-4e51-a7e4-b05e233c1b44.jpg?w=960&#38;fit=max)
+
+* * *
+
+## What We Enjoyed This Week
+
+[**Effigies of Me**](https://www.newyorker.com/magazine/2025/11/24/effigies-of-me?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-419) **by** [**Jack Handey**](https://deepthoughtsbyjackhandey.com/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-419) _(The New Yorker)_ Classic Jack Handey from top to bottom: A hilariously absurd premise that only he could have thought of, amazing specifics, and fantastic turns of phrase. “Some customers question the idea of paying money to the very same person they’re hanging or burning. To them I say that we make the very best effigies of me. Each one is stuffed with the finest French rags and rare old newspapers—some even collectible.“
+
+[**Connecting the Dots**](https://granta.com/connecting-the-dots/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-419) **by** [**Madeline Cash**](https://madelinecash.com/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-419) _(Granta)_ Not a traditional short humor piece, but a funny exploration of a particular texting tic that we suspect many of our readers will have encountered. (Or perhaps engaged in themselves…) This also reminded us in the best way of the McSweeney’s classic, [Hemingway or My Mother’s Email?](https://www.mcsweeneys.net/articles/hemingway-or-my-mothers-email?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-419)
+
+[**Evidence That My Kid’s Daycare May Actually Be a Blues Joint**](https://www.pointsincase.com/lists/evidence-that-my-kids-daycare-may-actually-be-a-blues-joint?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-419) **by** [**Tommy Smith**](https://www.pointsincase.com/author/tommy-smith?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-419) _(Points in Case)_ Tommy has a lot of fun with how oblivious the narrator of this piece is and how they calmly accept all the weird stuff that’s going on at the daycare: &#34;I guess it’s also strange that instead of being picked up, he is let out in front of our house at 4:00 AM by a 1978 Buick Regal.&#34; This is packed with tons of great blues joint details and specifics too.
+
+* * *
+
+&#62; YOUR AD HERE!
+&#62;
+&#62; Do you have an ad you&#39;d like to place in the Newsletter? [Fill out this form!](https://docs.google.com/forms/d/e/1FAIpQLSeJlHErf2PuWr5NxqLbD6dhf7s31pzCC3sBVCHJ24exAwfmgQ/viewform?usp=sf_link&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-419)
+&#62;
+&#62; And feel free to send us an email if you have questions.
+
+* * *
+
+## An Old Favorite
+
+[**Bad Names for Undercover Police Officers**](https://www.mcsweeneys.net/articles/bad-names-for-undercover-police-officers?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-419) **by** [**Wendy Molyneux**](https://www.instagram.com/thegreatnorthwendy/?hl=en&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-419) _(McSweeney’s)_ A short-but-sweet list piece by one of the great McSweeney’s contributors, Wendy Molyneux. Brief, high-concept list pieces like this were staples of McSweeney’s back in the day, and we always have a good time revisiting them. And if you like this piece, you might want to pick up the very funny print collection of McSweeney’s lists, [Mountain Man Dance Moves](https://www.penguinrandomhouse.com/books/112654/mountain-man-dance-moves-by-by-the-editors-of-mcsweeneys/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-419)
+
+_Do you have an Old Favorite of your own? Let us know by filling out_ [_this form_](http://forms.gle/9iALhpfsAn9mvn4p8?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-419) _and we may run your pick in a future edition of the newsletter._
+
+* * *
+
+## Updates From Your Hosts and Friends of the Show
+
+Over at **Lit Hub**, James and the staff have been running a **bracket to figure out What Was Literary Twitter?** They compiled a list of the best tweets, scandals, and hot takes, ordered them in a bracket, and set them loose to be voted on by our readers. We’re into [**the fourth round (which you can vote on right now!),**](https://lithub.com/what-was-literary-twitter-the-bracket-day-4/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-419) but if you want to see the write-ups for all 64 of the first round picks, check out [**the first post, here!**](https://lithub.com/what-was-literary-twitter-the-bracketwhat-was-literary-twitter-the-bracket/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-419)
+
+Luke’s got a whole bunch of [**short humor writing workshops**](https://lukevburns.tumblr.com/UpcomingWorkshops?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-419) **starting in January** (including an [intro workshop](https://docs.google.com/forms/d/e/1FAIpQLScFxfmNay9xwJyNhV8x0vy0Ehe0UrBccYBqHh4mahetmKcspQ/viewform?usp=dialog&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-419))! Get a jump on those **new year writing resolutions** by getting notes and feedback in a supportive environment, and meeting other funny folks.</source:markdown>
+      <guid>cid://https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-419/</guid>
+    </item>    <item>
+      <title>A Bright Light Has Gone Out</title>
+      <link>https://kottke.org/25/11/a-bright-light-has-gone-out</link>
+      <guid>cid://tag:kottke.org,2025://5.47885</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/20.html#a155104</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2022/10/24/rssCoffeeMug.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm working today in the internals of FeedLand, specifically the code that determines if an item has changed. When we check a feed, we check each item, if the item already exists, we look at each of the values stored for the item compared with their new values in the feed, and if any have changed, we broadcast the message that the item has changed. I'm doing a complete review of this, based on actual data, and found there were a fair number of places we were calling a change, when nothing that mattered had changed. Now I'm debating whether or not a <i>pubDate</i> change should be seen as an item change. My initial thought when we were working on RSS, was that the pubDate should <i>never</i> change. In the real world of publishing I don't think the publication date changes. Right? Of course some feeds do change the pubDate because that's the <i>art of feeds</i> (sorry for the sarcasm). But I don't think FeedLand should call that a change. Wondering what other feed developers do? So I asked ChatGPT. This is incredibly valuable <a href="https://chatgpt.com/share/691f3cff-6998-8012-b505-8734bf11630f">research</a>. One thing I learned is that people use <i>atom:updated.</i> It's true RSS 2.0 has no item that says when an item updated. Anyway net-net, the consensus is that a change in pubDate is not a change. I don't think I'm going to make it immutable though.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2022/10/24/rssCoffeeMug.png)I&#39;m working today in the internals of FeedLand, specifically the code that determines if an item has changed. When we check a feed, we check each item, if the item already exists, we look at each of the values stored for the item compared with their new values in the feed, and if any have changed, we broadcast the message that the item has changed. I&#39;m doing a complete review of this, based on actual data, and found there were a fair number of places we were calling a change, when nothing that mattered had changed. Now I&#39;m debating whether or not a _pubDate_ change should be seen as an item change. My initial thought when we were working on RSS, was that the pubDate should _never_ change. In the real world of publishing I don&#39;t think the publication date changes. Right? Of course some feeds do change the pubDate because that&#39;s the _art of feeds_ (sorry for the sarcasm). But I don&#39;t think FeedLand should call that a change. Wondering what other feed developers do? So I asked ChatGPT. This is incredibly valuable [research](https://chatgpt.com/share/691f3cff-6998-8012-b505-8734bf11630f). One thing I learned is that people use _atom:updated._ It&#39;s true RSS 2.0 has no item that says when an item updated. Anyway net-net, the consensus is that a change in pubDate is not a change. I don&#39;t think I&#39;m going to make it immutable though.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/20.html#a155104</guid>
+    </item>    <item>
+      <title>How to silence the fan on a CM5 after shutdown</title>
+      <link>https://www.jeffgeerling.com/blog/2025/how-silence-fan-on-cm5-after-shutdown</link>
+      <description>
+        <![CDATA[<span class="field field--name-title field--type-string field--label-hidden">How to silence the fan on a CM5 after shutdown</span>
+        
+                    <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Out of the box, if you buy a Raspberry Pi Compute Module 5, install it on the official CM5 IO Board, and install a fan on it (e.g. my current favorite, the <a href="https://www.digikey.com/en/products/detail/edatec/ED-CM5ACOOLER/25696857">EDAtec CM5 Active Cooler</a>), you'll notice the fan ramps up to 100% speed after you shut down the Pi.</p>
+        
+        <p><img src="https://www.jeffgeerling.com/sites/default/files/images/cm5-io-board-fan-running.jpeg" width="700" height="467" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-7c1b92a7-22fa-44a4-abf5-66b38d1e234e" data-insert-attach="{&quot;id&quot;:&quot;7c1b92a7-22fa-44a4-abf5-66b38d1e234e&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="CM5 IO Board - Fan spinning"></p>
+        
+        <p>That's not fun, since at least for a couple of my CM5s, they are more often powered down than running, creating a slight cacophany!</p></div>
+              <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-11-20T09:27:40-06:00" title="Thursday, November 20, 2025 - 09:27" class="datetime">November 20, 2025</time>
+        </span>]]>
+      </description>
+      <source:markdown>How to silence the fan on a CM5 after shutdown
+
+Out of the box, if you buy a Raspberry Pi Compute Module 5, install it on the official CM5 IO Board, and install a fan on it (e.g. my current favorite, the [EDAtec CM5 Active Cooler](https://www.digikey.com/en/products/detail/edatec/ED-CM5ACOOLER/25696857)), you&#39;ll notice the fan ramps up to 100% speed after you shut down the Pi.
+
+![CM5 IO Board - Fan spinning](https://www.jeffgeerling.com/sites/default/files/images/cm5-io-board-fan-running.jpeg)
+
+That&#39;s not fun, since at least for a couple of my CM5s, they are more often powered down than running, creating a slight cacophany!
+
+Jeff GeerlingNovember 20, 2025</source:markdown>
+      <guid>cid://3514 at https://www.jeffgeerling.com</guid>
+    </item>    <item>
+      <title>My Pace</title>
+      <link>https://kottke.org/25/11/my-pace</link>
+      <guid>cid://tag:kottke.org,2025://5.47872</guid>
+    </item>    <item>
       <title>Our favorite Literary Twitter moments: Drew Broussard on “come over at do bring coke now”</title>
       <link>https://lithub.com/our-favorite-literary-twitter-moments-drew-broussard-on-come-over-at-do-bring-coke-now/</link>
       <description>
@@ -223,9 +610,9 @@ See you in Brighton on 12 March 2026!</source:markdown>
     </item>    <item>
       <link>http://scripting.com/2025/11/20.html#a143930</link>
       <description>
-        <![CDATA[The new <a href="https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence">Amazon Alexa with AI</a> has the same basic problem of all AI bots, it acts as if it's human, with a level of intimacy that you really don't want to think about, because Alexa is in your house, with you, listening, all the time. Calling attention to an idea that there's a <i>human</i> there spying on you is bad -- Alexa depends on the opposite impression, that it's just a computer. I really think AI's should give up the pretense that they're human, but this one should be first.]]>
+        <![CDATA[The new <a href="https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence">Amazon Alexa with AI</a> has the same basic problem of all AI bots, it acts as if it's human, with a level of intimacy that you really don't want to think about, because Alexa is in your house, with you, listening, all the time. Calling attention to an idea that there's a psuedo-human spying on you is bad. Alexa depends on the opposite impression, that it's just a computer. I think AI's should give up the pretense that they're human, and this one should be first.]]>
       </description>
-      <source:markdown>The new [Amazon Alexa with AI](https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence) has the same basic problem of all AI bots, it acts as if it&#39;s human, with a level of intimacy that you really don&#39;t want to think about, because Alexa is in your house, with you, listening, all the time. Calling attention to an idea that there&#39;s a _human_ there spying on you is bad -- Alexa depends on the opposite impression, that it&#39;s just a computer. I really think AI&#39;s should give up the pretense that they&#39;re human, but this one should be first.</source:markdown>
+      <source:markdown>The new [Amazon Alexa with AI](https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence) has the same basic problem of all AI bots, it acts as if it&#39;s human, with a level of intimacy that you really don&#39;t want to think about, because Alexa is in your house, with you, listening, all the time. Calling attention to an idea that there&#39;s a psuedo-human spying on you is bad. Alexa depends on the opposite impression, that it&#39;s just a computer. I think AI&#39;s should give up the pretense that they&#39;re human, and this one should be first.</source:markdown>
       <guid>cid://http://scripting.com/2025/11/20.html#a143930</guid>
     </item>    <item>
       <title>Electronic drum business cards built on RP2040</title>
@@ -591,6 +978,10 @@ I think what I have so far is nicer than Apple’s Unity plugin (api is about th
       <title>The End of The World is Nigh (ish)</title>
       <link>https://ptsefton.com/2025/11/20/eotwin/</link>
       <guid>cid://https://ptsefton.com/2025/11/20/eotwin/</guid>
+    </item>    <item>
+      <title>Switching to Rust&#39;s own mangling scheme on nightly</title>
+      <link>https://blog.rust-lang.org/2025/11/20/switching-to-v0-mangling-on-nightly/</link>
+      <guid>cid://https://blog.rust-lang.org/2025/11/20/switching-to-v0-mangling-on-nightly/</guid>
     </item>    <item>
       <title>Mayday: The White House is attempting to circumvent Congress and crush the rights of individual states to regulate AI.</title>
       <link>https://garymarcus.substack.com/p/mayday-the-white-house-is-attempting</link>
@@ -1760,7 +2151,7 @@ significant barrier to BIBFRAME becoming a viable replacement for MARC.</source:
       </description>
       <source:markdown>Gift subscriptions directly from your subscribe page</source:markdown>
     </item>    <item>
-      <title>How Igor Ranc uses Buttondown</title>
+      <title>How Igor Ranc built Berlin&#39;s largest English-language tech newsletter</title>
       <link>https://buttondown.com/blog/igor-ranc</link>
       <description>
         <![CDATA[Igor’s weekly newsletter informs Berlin’s expats of important tech business news, job opportunities, and professional resources in and around Berlin.]]>
@@ -9584,7 +9975,7 @@ The post [616\. Elizabeth I: The Fall of the Axe (Part 1)](https://therestishist
       </description>
       <source:markdown>How to add custom icons to your newsletter</source:markdown>
     </item>    <item>
-      <title>How Kieron Gillen uses Buttondown</title>
+      <title>How Kieron Gillen markets comics without having a real job</title>
       <link>https://buttondown.com/blog/kieron-gillen</link>
       <description>
         <![CDATA[Kieron Gillen uses Buttondown to share his comics, musings, and life experiences.]]>
@@ -16077,7 +16468,7 @@ As most systems do support expressions in `group by`, there is still a standardi
 _“ [`Group by All`](https://modern-sql.com/caniuse/group-by-all)” by [Markus Winand](https://winand.at/) was originally published at [Modern SQL](https://modern-sql.com/)._</source:markdown>
       <guid>cid://https://modern-sql.com/caniuse/group-by-all</guid>
     </item>    <item>
-      <title>How Kalina Silverman uses Buttondown</title>
+      <title>How Kalina Silverman helps people skip small talk and make meaningful connections</title>
       <link>https://buttondown.com/blog/kalina-silverman</link>
       <description>
         <![CDATA[Kalina makes Big Talk with her newsletter.]]>
@@ -17136,7 +17527,7 @@ Looking back at my precursor blog post from earlier this year, I’m amazed at h
       </description>
       <source:markdown>Embed your favorite analytics on your homepage</source:markdown>
     </item>    <item>
-      <title>How Octopus Think uses Buttondown</title>
+      <title>How Octopus Think connects with customers and shares app updates</title>
       <link>https://buttondown.com/blog/octopus-think</link>
       <description>
         <![CDATA[Octopus Think creators, Sarah and Matt, use Buttondown to connect with customers, share updates about their apps, and other projects they are working on.]]>
