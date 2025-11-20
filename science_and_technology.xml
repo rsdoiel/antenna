@@ -4,14 +4,47 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>20 Nov 25 06:10 -0800</lastBuildDate>
+    <lastBuildDate>20 Nov 25 07:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>3-Hour Cloudflare Outage Knocks Out AI Chatbots, Shopify</title>
+      <link>https://thenewstack.io/3-hour-cloudflare-outage-knocks-out-ai-chatbots-shopify/</link>
+      <description>
+        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/11/29fe1696-cloudflare-1024x768.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/29fe1696-cloudflare.png" /><p>On Nov. 18, 2025, Cloudflare experienced a major outage lasting several hours that disrupted access to numerous popular websites and</p>
+        <p>The post <a href="https://thenewstack.io/3-hour-cloudflare-outage-knocks-out-ai-chatbots-shopify/">3-Hour Cloudflare Outage Knocks Out AI Chatbots, Shopify</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/29fe1696-cloudflare-1024x768.png)
+
+On Nov. 18, 2025, Cloudflare experienced a major outage lasting several hours that disrupted access to numerous popular websites and
+
+The post [3-Hour Cloudflare Outage Knocks Out AI Chatbots, Shopify](https://thenewstack.io/3-hour-cloudflare-outage-knocks-out-ai-chatbots-shopify/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22807255</guid>
+    </item>    <item>
+      <title>Education boards left gates wide open for PowerSchool mega-breach, say watchdogs</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/20/powerschool_breach_reports/</link>
+      <description>
+        <![CDATA[<h4>Privacy cops say attack wasn&#39;t just bad luck but a result of sloppy homework</h4> <p>Canadian privacy watchdogs say that school boards must shoulder part of the blame for the PowerSchool mega-breach, not just the ed-tech giant that lost control of millions of student and staff records.…</p>]]>
+      </description>
+      <source:markdown>#### Privacy cops say attack wasn&#39;t just bad luck but a result of sloppy homework
+
+Canadian privacy watchdogs say that school boards must shoulder part of the blame for the PowerSchool mega-breach, not just the ed-tech giant that lost control of millions of student and staff records.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243147</guid>
+    </item>    <item>
+      <title>Google and Westinghouse lean on AI to speed US nuclear plant builds</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/20/westinghouse_google_ai_reactors/</link>
+      <description>
+        <![CDATA[<h4>Pair say digital twin-powered scheduling will cut costs, shrink timelines for 10 planned reactors</h4> <p>Google and atomic power biz Westinghouse Electric claim that AI will speed construction and cut the cost of building the new US power plants it is planning in response to rising demands for energy to fuel AI.…</p>]]>
+      </description>
+      <source:markdown>#### Pair say digital twin-powered scheduling will cut costs, shrink timelines for 10 planned reactors
+
+Google and atomic power biz Westinghouse Electric claim that AI will speed construction and cut the cost of building the new US power plants it is planning in response to rising demands for energy to fuel AI.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243146</guid>
+    </item>    <item>
       <title>The React Component Pyramid Scheme: An Over-Engineering Crisis</title>
       <link>https://thenewstack.io/the-react-component-pyramid-scheme-an-over-engineering-crisis/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/7552f648-getty-images-00hj4dtxkw0-unsplashb-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="pyramids" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/7552f648-getty-images-00hj4dtxkw0-unsplashb.jpg" /><p>At some point, we stopped writing React components and started worshiping them. The mantra of &#8220;reusability&#8221; turned from a best</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/7552f648-getty-images-00hj4dtxkw0-unsplashb-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="pyramids" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/7552f648-getty-images-00hj4dtxkw0-unsplashb.jpg" /><p>At some point, we stopped writing React components and started worshiping them. The mantra of &#8220;reusability&#8221; turned from a best</p>
         <p>The post <a href="https://thenewstack.io/the-react-component-pyramid-scheme-an-over-engineering-crisis/">The React Component Pyramid Scheme: An Over-Engineering Crisis</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![pyramids](https://cdn.thenewstack.io/media/2025/11/7552f648-getty-images-00hj4dtxkw0-unsplashb-1024x576.jpg)
@@ -24,7 +57,7 @@ The post [The React Component Pyramid Scheme: An Over-Engineering Crisis](https:
       <title>5 Engineering Skills to Prioritize in the AI-Driven Era</title>
       <link>https://thenewstack.io/5-engineering-skills-to-prioritize-in-the-ai-driven-era/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/be12e8c8-problem-solving-1024x576.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Collage about problem solving: image of woman, brain, laptop, phones, squiggles." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/be12e8c8-problem-solving.jpeg" /><p>The field of software engineering is at a major turning point, the most pivotal point of change since the invention</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/be12e8c8-problem-solving-1024x576.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Collage about problem solving: image of woman, brain, laptop, phones, squiggles." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/be12e8c8-problem-solving.jpeg" /><p>The field of software engineering is at a major turning point, the most pivotal point of change since the invention</p>
         <p>The post <a href="https://thenewstack.io/5-engineering-skills-to-prioritize-in-the-ai-driven-era/">5 Engineering Skills to Prioritize in the AI-Driven Era</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![Collage about problem solving: image of woman, brain, laptop, phones, squiggles.](https://cdn.thenewstack.io/media/2025/11/be12e8c8-problem-solving-1024x576.jpeg)

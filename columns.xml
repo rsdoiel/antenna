@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>20 Nov 25 06:10 -0800</lastBuildDate>
+    <lastBuildDate>20 Nov 25 07:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -141,6 +141,108 @@ As always, do give this release a try and open a [ticket](https://gitlab.haskell
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
     </item>    <item>
+      <title>Our favorite Literary Twitter moments: Drew Broussard on “come over at do bring coke now”</title>
+      <link>https://lithub.com/our-favorite-literary-twitter-moments-drew-broussard-on-come-over-at-do-bring-coke-now/</link>
+      <description>
+        <![CDATA[Pulling together the 64 original Literary Twitter moments and incidents to create our winter game, What Was Literary Twitter? The Bracket, required the vast institutional memory of the entire Lit Hub team, who each had their personal favorite e-dramas to]]>
+      </description>
+      <source:markdown>Pulling together the 64 original Literary Twitter moments and incidents to create our winter game, What Was Literary Twitter? The Bracket, required the vast institutional memory of the entire Lit Hub team, who each had their personal favorite e-dramas to</source:markdown>
+      <guid>cid://https://lithub.com/?p=263006</guid>
+    </item>    <item>
+      <title>Manuel Matuzovič is speaking at Web Day Out</title>
+      <link>https://adactio.com/journal/22261</link>
+      <description>
+        <![CDATA[<p>The line-up for <a href="https://webdayout.com/">Web Day Out</a> is now complete! The final speaker to be added to the line-up is the one and only <a href="https://matuzo.at/">Manuel Matuzovič</a>.</p>
+        
+        <p>You may know Manuel from his superb <a href="https://accessibility-cookbook.com/">Web Accessibility Cookbook</a> (full disclosure: I had the honour of writing <a href="https://adactio.com/articles/21876">the foreword</a> to that book). Or perhaps you’re familiar with the crimes against markup that he documents at <a href="https://htmhell.dev/">HTMHell</a>. But at Web Day Out, he’s going to be talking about CSS.</p>
+        
+        <p>The past few years have seen a veritable explosion in CSS capabilities. It’s one thing to hear about all the new stuff in CSS, but how do you actually start using it?</p>
+        
+        <p>You may need to unlearn what you have previously learned. That’s what <a href="https://webdayout.com/manuel-matuzovic/#talk">Manuel’s talk</a> will be covering:</p>
+        
+        <blockquote>
+          <p>Manuel built a new project from scratch with modern CSS and questioned every line of code he wrote.</p>
+          
+          <p>In this talk, he presents what he has learned and encourages you to review your best practices.</p>
+        </blockquote>
+        
+        <p>You can see why I’m so excited about this—it’s <em>perfect</em> for <a href="https://webdayout.com/agenda/">the agenda of Web Day Out</a>:</p>
+        
+        <blockquote>
+          <p>Do you feel like you’re missing out on some of the latest advances in HTML, CSS, and JavaScript APIs? Web Day Out is your chance to get up to speed on what matters.</p>
+        </blockquote>
+        
+        <p>There’ll be eight brilliant speakers for your entertainment:</p>
+        
+        <ol>
+        <li><a href="https://webdayout.com/jemima-abu/">Jemima Abu</a></li>
+        <li><a href="https://webdayout.com/rachel-andrew/">Rachel Andrew</a></li>
+        <li><a href="https://webdayout.com/jake-archibald/">Jake Archibald</a></li>
+        <li><a href="https://webdayout.com/aleth-gueguen/">Aleth Gueguen</a></li>
+        <li><a href="https://webdayout.com/manuel-matuzovic/">Manuel Matuzovič</a></li>
+        <li><a href="https://webdayout.com/lola-odelola/">Lola Odelola</a></li>
+        <li><a href="https://webdayout.com/harry-roberts/">Harry Roberts</a></li>
+        <li><a href="https://webdayout.com/richard-rutter/">Richard Rutter</a></li>
+        </ol>
+        
+        <p>You won’t want to miss this, so <a href="https://ti.to/clearleft/web-day-out">get your ticket now</a> for the ludicrously reasonable price of just £225+VAT!</p>
+        
+        <p>See you in Brighton on 12 March 2026!</p>]]>
+      </description>
+      <source:markdown>The line-up for [Web Day Out](https://webdayout.com/) is now complete! The final speaker to be added to the line-up is the one and only [Manuel Matuzovič](https://matuzo.at/).
+
+You may know Manuel from his superb [Web Accessibility Cookbook](https://accessibility-cookbook.com/) (full disclosure: I had the honour of writing [the foreword](https://adactio.com/articles/21876) to that book). Or perhaps you’re familiar with the crimes against markup that he documents at [HTMHell](https://htmhell.dev/). But at Web Day Out, he’s going to be talking about CSS.
+
+The past few years have seen a veritable explosion in CSS capabilities. It’s one thing to hear about all the new stuff in CSS, but how do you actually start using it?
+
+You may need to unlearn what you have previously learned. That’s what [Manuel’s talk](https://webdayout.com/manuel-matuzovic/#talk) will be covering:
+
+&#62; Manuel built a new project from scratch with modern CSS and questioned every line of code he wrote.
+&#62;
+&#62; In this talk, he presents what he has learned and encourages you to review your best practices.
+
+You can see why I’m so excited about this—it’s _perfect_ for [the agenda of Web Day Out](https://webdayout.com/agenda/):
+
+&#62; Do you feel like you’re missing out on some of the latest advances in HTML, CSS, and JavaScript APIs? Web Day Out is your chance to get up to speed on what matters.
+
+There’ll be eight brilliant speakers for your entertainment:
+
+1. [Jemima Abu](https://webdayout.com/jemima-abu/)
+2. [Rachel Andrew](https://webdayout.com/rachel-andrew/)
+3. [Jake Archibald](https://webdayout.com/jake-archibald/)
+4. [Aleth Gueguen](https://webdayout.com/aleth-gueguen/)
+5. [Manuel Matuzovič](https://webdayout.com/manuel-matuzovic/)
+6. [Lola Odelola](https://webdayout.com/lola-odelola/)
+7. [Harry Roberts](https://webdayout.com/harry-roberts/)
+8. [Richard Rutter](https://webdayout.com/richard-rutter/)
+
+You won’t want to miss this, so [get your ticket now](https://ti.to/clearleft/web-day-out) for the ludicrously reasonable price of just £225+VAT!
+
+See you in Brighton on 12 March 2026!</source:markdown>
+      <guid>cid://https://adactio.com/journal/22261</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/20.html#a143930</link>
+      <description>
+        <![CDATA[The new <a href="https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence">Amazon Alexa with AI</a> has the same basic problem of all AI bots, it acts as if it's human, with a level of intimacy that you really don't want to think about, because Alexa is in your house, with you, listening, all the time. Calling attention to an idea that there's a <i>human</i> there spying on you is bad -- Alexa depends on the opposite impression, that it's just a computer. I really think AI's should give up the pretense that they're human, but this one should be first.]]>
+      </description>
+      <source:markdown>The new [Amazon Alexa with AI](https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence) has the same basic problem of all AI bots, it acts as if it&#39;s human, with a level of intimacy that you really don&#39;t want to think about, because Alexa is in your house, with you, listening, all the time. Calling attention to an idea that there&#39;s a _human_ there spying on you is bad -- Alexa depends on the opposite impression, that it&#39;s just a computer. I really think AI&#39;s should give up the pretense that they&#39;re human, but this one should be first.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/20.html#a143930</guid>
+    </item>    <item>
+      <title>Electronic drum business cards built on RP2040</title>
+      <link>https://www.raspberrypi.com/news/electronic-drum-business-cards-built-on-rp2040/</link>
+      <description>
+        <![CDATA[<p>This electronic business card powered by RP2040 ensures your name will be drummed into the recipient's mind.</p>
+        <p>The post <a href="https://www.raspberrypi.com/news/electronic-drum-business-cards-built-on-rp2040/">Electronic drum business cards built on RP2040</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
+      </description>
+      <source:markdown>This electronic business card powered by RP2040 ensures your name will be drummed into the recipient&#39;s mind.
+
+The post [Electronic drum business cards built on RP2040](https://www.raspberrypi.com/news/electronic-drum-business-cards-built-on-rp2040/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
+      <guid>cid://https://www.raspberrypi.com/?p=131785</guid>
+    </item>    <item>
+      <title>Stigler&#38;#8217;s law of eponymy: &#38;#8220;No scientific discovery is named after its original...</title>
+      <link>https://kottke.org/25/11/0047874-stiglers-law-of-eponymy-n</link>
+      <guid>cid://tag:kottke.org,2025://13.47874</guid>
+    </item>    <item>
       <title>What Was Literary Twitter? The Bracket *Day 4*</title>
       <link>https://lithub.com/what-was-literary-twitter-the-bracket-day-4/</link>
       <description>
@@ -214,9 +316,9 @@ anything amiss.</source:markdown>
       <title>Lit Hub Daily: November 20, 2025</title>
       <link>https://lithub.com/lit-hub-daily-november-20-2025/</link>
       <description>
-        <![CDATA[“Each of these cultural moments, be it Swift’s protection of family values, Sweeney’s promotion of eugenics, or DiCaprio’s contributions to eco-imperialism, serve to reinforce the same ideological architecture that McCarthyism once codified through law and propaganda.” On the new Red]]>
+        <![CDATA[Only eight remain in our What Was Literary Twitter? bracket. What will the final four look like? Vote here to find out! &#124; Lit Hub “Each of these cultural moments, be it Swift’s protection of family values, Sweeney’s promotion of]]>
       </description>
-      <source:markdown>“Each of these cultural moments, be it Swift’s protection of family values, Sweeney’s promotion of eugenics, or DiCaprio’s contributions to eco-imperialism, serve to reinforce the same ideological architecture that McCarthyism once codified through law and propaganda.” On the new Red</source:markdown>
+      <source:markdown>Only eight remain in our What Was Literary Twitter? bracket. What will the final four look like? Vote here to find out! \| Lit Hub “Each of these cultural moments, be it Swift’s protection of family values, Sweeney’s promotion of</source:markdown>
       <guid>cid://https://lithub.com/?p=263105</guid>
     </item>    <item>
       <link>https://news.gallup.com/poll/696494/americans-show-consensus-democracy-related-matters.aspx</link>
@@ -1265,9 +1367,9 @@ The post [How thousands of students are growing plants in space with Raspberry P
     </item>    <item>
       <link>http://scripting.com/2025/11/19.html#a140139</link>
       <description>
-        <![CDATA[If Bluesky and Mastodon were "on the web" they would already interop because friends that's what the freaking web does. They behave like closed off silos, and until that changes, they can't claim to be on the web. Don't sell out the web so cheap. It really means something to be on the web.]]>
+        <![CDATA[IOne of the nice things about the new AI Amazon Alexa is you can say “Alexa, play that funky music white boy” and it will do it.f Bluesky and Mastodon were "on the web" they would already interop because friends that's what the freaking web does. They behave like closed off silos, and until that changes, they can't claim to be on the web. Don't sell out the web so cheap. It really means something to be on the web.]]>
       </description>
-      <source:markdown>If Bluesky and Mastodon were &#34;on the web&#34; they would already interop because friends that&#39;s what the freaking web does. They behave like closed off silos, and until that changes, they can&#39;t claim to be on the web. Don&#39;t sell out the web so cheap. It really means something to be on the web.</source:markdown>
+      <source:markdown>IOne of the nice things about the new AI Amazon Alexa is you can say “Alexa, play that funky music white boy” and it will do it.f Bluesky and Mastodon were &#34;on the web&#34; they would already interop because friends that&#39;s what the freaking web does. They behave like closed off silos, and until that changes, they can&#39;t claim to be on the web. Don&#39;t sell out the web so cheap. It really means something to be on the web.</source:markdown>
       <guid>cid://http://scripting.com/2025/11/19.html#a140139</guid>
     </item>    <item>
       <link>http://scripting.com/2025/11/19.html#a140036</link>

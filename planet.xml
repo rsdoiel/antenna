@@ -4,10 +4,34 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>20 Nov 25 06:10 -0800</lastBuildDate>
+    <lastBuildDate>20 Nov 25 07:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Migrants to UK could face 30 year wait for residency</title>
+      <link>https://www.rte.ie/news/uk/2025/1120/1544987-uk-migration/</link>
+      <description>
+        <![CDATA[Migrants to the UK could only be eligible for benefits and social housing once they become British citizens and those in the country illegally could have to wait up to 30 years for long-term residency in the UK under new plans.]]>
+      </description>
+      <source:markdown>Migrants to the UK could only be eligible for benefits and social housing once they become British citizens and those in the country illegally could have to wait up to 30 years for long-term residency in the UK under new plans.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/uk/2025/1120/1544987-uk-migration/</guid>
+    </item>    <item>
+      <title>Donohoe urges library investment in final Dáil speech</title>
+      <link>https://www.rte.ie/news/politics/2025/1120/1544993-paschal-donohoe-final-speech/</link>
+      <description>
+        <![CDATA[Former minister for finance Paschal Donohoe has delivered his final speech in the Dáil, calling on his successor, Tánaiste Simon Harris, to continue to prioritise funding for libraries.]]>
+      </description>
+      <source:markdown>Former minister for finance Paschal Donohoe has delivered his final speech in the Dáil, calling on his successor, Tánaiste Simon Harris, to continue to prioritise funding for libraries.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/politics/2025/1120/1544993-paschal-donohoe-final-speech/</guid>
+    </item>    <item>
+      <title>Light aircraft crashes near Tramore, Co Waterford</title>
+      <link>https://www.rte.ie/news/ireland/2025/1120/1544989-tramore-plane/</link>
+      <description>
+        <![CDATA[A small civil plane has crashed in Co Waterford. Multiple emergency service crews are responding to the incident near Tramore.]]>
+      </description>
+      <source:markdown>A small civil plane has crashed in Co Waterford. Multiple emergency service crews are responding to the incident near Tramore.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/1120/1544989-tramore-plane/</guid>
+    </item>    <item>
       <title>Woman jailed for &#39;campaign of terror&#39; against ex-partner</title>
       <link>https://www.rte.ie/news/courts/2025/1120/1544984-harassment-funico/</link>
       <description>
@@ -68,6 +92,14 @@
       <source:markdown>A 30-year-old man has been sentenced to 12 years in prison, with the final two years suspended, for an attack in Co Monaghan that left his aunt with permanent and life-altering brain injuries.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1120/1544959-nyal-tumelty-court/</guid>
     </item>    <item>
+      <title>Criticism of &#39;heartbreaking&#39; sentence for attack on aunt</title>
+      <link>https://www.rte.ie/news/courts/2025/1120/1544959-nyal-tumelty-court/</link>
+      <description>
+        <![CDATA[The family of a woman attacked by her nephew in Co Monaghan has expressed disappointment after he was sentenced to 12 years in prison, with the final two years suspended.]]>
+      </description>
+      <source:markdown>The family of a woman attacked by her nephew in Co Monaghan has expressed disappointment after he was sentenced to 12 years in prison, with the final two years suspended.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/courts/2025/1120/1544959-nyal-tumelty-court/</guid>
+    </item>    <item>
       <title>‘Our Treasures Within’ brings Pope Francis’ message to children</title>
       <link>https://www.vaticannews.va/en/world/news/2025-11/our-treasures-within-childrens-book-peter-paul-reynolds-francis.html</link>
       <description>
@@ -96,12 +128,12 @@
       <source:markdown>Three people have been charged by police investigating the alleged mishandling of cremated remains and alleged funeral plan fraud in Scotland.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2025/1120/1544956-scotland-funeral-fraud/</guid>
     </item>    <item>
-      <title>World Cup play-off draw recap - Ireland to face Czechia</title>
+      <title>World Cup play-off draw recap - Ireland to face Czechs</title>
       <link>https://www.rte.ie/sport/soccer/2025/1120/1544929-world-cup-european-qualifying-play-off-draw-updates/</link>
       <description>
-        <![CDATA[The Republic of Ireland will travel to Czechia in the World Cup play-off semi-finals next March, with the winners hosting Denmark or North Macedonia, after confirmation at today's FIFA draw in Switzerland.]]>
+        <![CDATA[The Republic of Ireland will travel to Czech Republic in the World Cup play-off semi-finals next March, with the winners hosting Denmark or North Macedonia, after confirmation at today's FIFA draw in Switzerland.]]>
       </description>
-      <source:markdown>The Republic of Ireland will travel to Czechia in the World Cup play-off semi-finals next March, with the winners hosting Denmark or North Macedonia, after confirmation at today&#39;s FIFA draw in Switzerland.</source:markdown>
+      <source:markdown>The Republic of Ireland will travel to Czech Republic in the World Cup play-off semi-finals next March, with the winners hosting Denmark or North Macedonia, after confirmation at today&#39;s FIFA draw in Switzerland.</source:markdown>
       <guid>cid://https://www.rte.ie/sport/soccer/2025/1120/1544929-world-cup-european-qualifying-play-off-draw-updates/</guid>
     </item>    <item>
       <title>Some employers trying to avoid pension auto-enrolment</title>
@@ -147,9 +179,9 @@
       <title>Commission eyes measures to boost supplementary pensions</title>
       <link>https://www.rte.ie/news/business/2025/1120/1544940-commission-eyes-measures-to-boost-supplementary-pensions/</link>
       <description>
-        <![CDATA[The European Commission will today propose measures to boost supplementary pensions amid concerns that a shrinking workforce and ageing populations will mean that national pensions will become stretched over time.]]>
+        <![CDATA[The European Commission will propose measures to boost supplementary pensions amid concerns that a shrinking workforce and ageing populations will mean that national pensions will become stretched over time.]]>
       </description>
-      <source:markdown>The European Commission will today propose measures to boost supplementary pensions amid concerns that a shrinking workforce and ageing populations will mean that national pensions will become stretched over time.</source:markdown>
+      <source:markdown>The European Commission will propose measures to boost supplementary pensions amid concerns that a shrinking workforce and ageing populations will mean that national pensions will become stretched over time.</source:markdown>
       <guid>cid://https://www.rte.ie/news/business/2025/1120/1544940-commission-eyes-measures-to-boost-supplementary-pensions/</guid>
     </item>    <item>
       <title>Woman charged over online threats against Simon Harris</title>
@@ -159,6 +191,16 @@
       </description>
       <source:markdown>A 40-year-old woman has appeared in court charged with making threats to Tánaiste Simon Harris and his family.</source:markdown>
       <guid>cid://https://www.rte.ie/news/courts/2025/1120/1544932-sandra-barry-court/</guid>
+    </item>    <item>
+      <title>Deadly Israeli strikes in Gaza continue into Thursday, with 32 killed in past 24 hours</title>
+      <link>https://www.cbc.ca/news/world/gaza-israel-airstrikes-9.6985911?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/48346a19-3c92-471d-be2f-08e525c33b6d,1763646825046/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C317%2C5500%2C3093%29%3BResize%3D%28620%29' alt='A young girl cries as another woman holds her in her arms.' width='620' height='349' title='Mourners react as they attend the funeral of Palestinians who, according to medics, were killed in overnight Israeli strikes, at Al-Shifa Hospital in Gaza City, November 20, 2025. REUTERS/Dawoud Abu Alkas     TPX IMAGES OF THE DAY'/><p>Israeli airstrikes killed five people and wounded 18 others in Khan Younis in the southern Gaza Strip on Thursday, local health authorities said, after Hamas and Israel accused each other of violating an increasingly fragile six-week-old truce.</p>]]>
+      </description>
+      <source:markdown>![A young girl cries as another woman holds her in her arms.](https://i.cbc.ca/ais/48346a19-3c92-471d-be2f-08e525c33b6d,1763646825046/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C317%2C5500%2C3093%29%3BResize%3D%28620%29)
+
+Israeli airstrikes killed five people and wounded 18 others in Khan Younis in the southern Gaza Strip on Thursday, local health authorities said, after Hamas and Israel accused each other of violating an increasingly fragile six-week-old truce.</source:markdown>
+      <guid>cid://9.6985911</guid>
     </item>    <item>
       <title>Ukraine: Archbishop of Ternopil asks for prayers after deadly bombing</title>
       <link>https://www.vaticannews.va/en/church/news/2025-11/ukraine-ternopil-russian-attacks-archbishop-martynyuk.html</link>
@@ -171,6 +213,14 @@
 
 [Read all](https://www.vaticannews.va/en/church/news/2025-11/ukraine-ternopil-russian-attacks-archbishop-martynyuk.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/church/news/2025-11/ukraine-ternopil-russian-attacks-archbishop-martynyuk.html</guid>
+    </item>    <item>
+      <title>European countries push back against U.S.-Russia peace plan for Ukraine</title>
+      <link>https://www.cbc.ca/news/world/livestory/ukraine-russia-us-peace-deal-9.6985918?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/52c2b493-88e7-4c7c-8bb4-2ec601f8978d,1763645250186/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3000%2C1687%29%3BResize%3D%28620%29' alt='Two men shake hands before an American flag. One man has a Ukrainian flag on her arm.' width='620' height='349' title='Ukrainian Defence Minister Denys Shmyhal, right, with U.S. Secretary of the Army Dan Driscoll in Kyiv, Ukraine yesterday.'/><p></p>]]>
+      </description>
+      <source:markdown>![Two men shake hands before an American flag. One man has a Ukrainian flag on her arm.](https://i.cbc.ca/ais/52c2b493-88e7-4c7c-8bb4-2ec601f8978d,1763645250186/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3000%2C1687%29%3BResize%3D%28620%29)</source:markdown>
+      <guid>cid://9.6985918</guid>
     </item>    <item>
       <title>Ireland will stand resolutely with Ukraine, says McEntee</title>
       <link>https://www.rte.ie/news/europe/2025/1120/1544912-eu-foreign-ministers/</link>
@@ -218,7 +268,7 @@ Ukraine and Europe must be consulted on any efforts to end Russia&#39;s invasion
       <source:markdown>Israel&#39;s expulsion of tens of thousands of Palestinians from three Occupied West Bank refugee camps early this year amounts to war crimes and crimes against humanity, Human Rights Watch has said.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2025/1120/1544899-west-bank/</guid>
     </item>    <item>
-      <title>Ukraine, EU must be on board with peace plan - Kallas</title>
+      <title>EU pushes back on US-backed peace plan for Ukraine</title>
       <link>https://www.rte.ie/news/world/2025/1120/1544898-ukraine-russia/</link>
       <description>
         <![CDATA[European countries have pushed back against a US-backed peace plan for Ukraine that sources said would require Kyiv to give up more land and partially disarm, conditions long seen by Ukraine's allies as tantamount to capitulation.]]>
@@ -834,6 +884,18 @@ Pope Leo has come out in support of a rare special message released by the U.S. 
 
 [Read all](https://www.vaticannews.va/en/pope/news/2025-11/pope-at-audience-19-november-2025.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/pope/news/2025-11/pope-at-audience-19-november-2025.html</guid>
+    </item>    <item>
+      <title>President of Caritas Lebanon says Pope’s visit will give a voice to those who are suffering</title>
+      <link>https://www.vaticannews.va/en/church/news/2025-11/pope-leo-xiv-lebanon-caritas-visit-solidarity-charity.html</link>
+      <description>
+        <![CDATA[<p>Father Michel Abboud, President of Caritas Lebanon, speaks to Vatican News about how Pope Leo XIV’s upcoming visit to the country will encourage them in their work and and give renewed confidence to all the Lebanese people. </p>
+                            <p><a href="https://www.vaticannews.va/en/church/news/2025-11/pope-leo-xiv-lebanon-caritas-visit-solidarity-charity.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>Father Michel Abboud, President of Caritas Lebanon, speaks to Vatican News about how Pope Leo XIV’s upcoming visit to the country will encourage them in their work and and give renewed confidence to all the Lebanese people.
+
+[Read all](https://www.vaticannews.va/en/church/news/2025-11/pope-leo-xiv-lebanon-caritas-visit-solidarity-charity.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/church/news/2025-11/pope-leo-xiv-lebanon-caritas-visit-solidarity-charity.html</guid>
     </item>    <item>
       <title>Former U.S. treasury secretary Larry Summers takes leave from Harvard over Epstein emails</title>
       <link>https://www.cbc.ca/news/world/larry-summers-epstein-emails-9.6984337?cmp=rss</link>
