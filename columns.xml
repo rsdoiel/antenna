@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>19 Nov 25 16:42 -0800</lastBuildDate>
+    <lastBuildDate>20 Nov 25 06:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -141,6 +141,340 @@ As always, do give this release a try and open a [ticket](https://gitlab.haskell
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
     </item>    <item>
+      <title>What Was Literary Twitter? The Bracket *Day 4*</title>
+      <link>https://lithub.com/what-was-literary-twitter-the-bracket-day-4/</link>
+      <description>
+        <![CDATA[It’s day four, and only 8 out of original 64 are left after yesterday&#8217;s voting! The polls today will determine who wins their quadrant (or is it “region”? Or “zone”? We’re not sports people) and advances to the semifinals. It’s]]>
+      </description>
+      <source:markdown>It’s day four, and only 8 out of original 64 are left after yesterday’s voting! The polls today will determine who wins their quadrant (or is it “region”? Or “zone”? We’re not sports people) and advances to the semifinals. It’s</source:markdown>
+      <guid>cid://https://lithub.com/?p=263114</guid>
+    </item>    <item>
+      <link>https://this.how/davewiner/myLinkblog.opml</link>
+      <description>
+        <![CDATA[<p>My linkblog is an RSS feed.</p>]]>
+      </description>
+      <source:markdown>My linkblog is an RSS feed.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/20/1953/</guid>
+    </item>    <item>
+      <link>https://en.wikipedia.org/wiki/Colorado-style_pizza</link>
+      <description>
+        <![CDATA[<p>Colorado-style pizza.</p>]]>
+      </description>
+      <source:markdown>Colorado-style pizza.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/20/1951/</guid>
+    </item>    <item>
+      <link>https://www.mediaite.com/opinion/the-olivia-nuzzi-comeback-is-everything-wrong-with-modern-media/</link>
+      <description>
+        <![CDATA[<p>Olivia Nuzzi’s Comeback Exposes a Broken Media System.</p>]]>
+      </description>
+      <source:markdown>Olivia Nuzzi’s Comeback Exposes a Broken Media System.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/20/1949/</guid>
+    </item>    <item>
+      <title>The hidden axis: the left-right spectrum has a non-ideology problem</title>
+      <link>https://www.gelliottmorris.com/p/not-just-left-vs-right-most-voters</link>
+      <description>
+        <![CDATA[Most voters want a party that emphasizes cost of living issues and makes the world a better place. Few Americans think in solidly ideologically terms. "Moderates" are mostly non-ideological.]]>
+      </description>
+      <source:markdown>Most voters want a party that emphasizes cost of living issues and makes the world a better place. Few Americans think in solidly ideologically terms. &#34;Moderates&#34; are mostly non-ideological.</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/466d9034-4f00-4f1d-9b5f-14468bcd3ded_933x680.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/not-just-left-vs-right-most-voters</guid>
+    </item>    <item>
+      <title>Generative AI in the Real World: The LLMOps Shift with Abi Aryan</title>
+      <link>https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-the-llmops-shift-with-abi-aryan/</link>
+      <description>
+        <![CDATA[MLOps is dead. Well, not really, but for many the job is evolving into LLMOps. In this episode, Abide AI founder and LLMOps author Abi Aryan joins Ben to discuss what LLMOps is and why it’s needed, particularly for agentic AI systems. Listen in to hear why LLMOps requires a new way of thinking about [&#8230;]]]>
+      </description>
+      <source:markdown>MLOps is dead. Well, not really, but for many the job is evolving into LLMOps. In this episode, Abide AI founder and LLMOps author Abi Aryan joins Ben to discuss what LLMOps is and why it’s needed, particularly for agentic AI systems. Listen in to hear why LLMOps requires a new way of thinking about \[…\]</source:markdown>
+      <enclosure url="https://cdn.oreillystatic.com/radar/generative-ai-real-world-podcast/GenAI_in_the_Real_World_Abi_Aryan.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.oreilly.com/radar/?post_type=podcast&#38;p=17736</guid>
+    </item>    <item>
+      <title>Scam USPS and E-Z Pass Texts and Websites</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/scam-usps-and-e-z-pass-texts-and-websites.html</link>
+      <description>
+        <![CDATA[<p>Google has filed a complaint in court that <a href="https://arstechnica.com/tech-policy/2025/11/google-vows-to-stop-scam-e-z-pass-and-usps-texts-plaguing-americans/">details the scam</a>:</p>
+        <blockquote><p>In a complaint filed Wednesday, the tech giant accused &#8220;a cybercriminal group in China&#8221; of selling &#8220;phishing for dummies&#8221; kits. The kits help unsavvy fraudsters easily “execute a large-scale phishing campaign,” tricking hordes of unsuspecting people into “disclosing sensitive information like passwords, credit card numbers, or banking information, often by impersonating well-known brands, government agencies, or even people the victim knows.”</p>
+        <p>These branded &#8220;Lighthouse&#8221; kits offer two versions of software, depending on whether bad actors want to launch SMS and e-commerce scams. &#8220;Members may subscribe to weekly, monthly, seasonal, annual, or permanent licenses,&#8221; Google alleged. Kits include &#8220;hundreds of templates for fake websites, domain set-up tools for those fake websites, and other features designed to dupe victims into believing they are entering sensitive information on a legitimate website.&#8221;...</p></blockquote>]]>
+      </description>
+      <source:markdown>Google has filed a complaint in court that [details the scam](https://arstechnica.com/tech-policy/2025/11/google-vows-to-stop-scam-e-z-pass-and-usps-texts-plaguing-americans/):
+
+&#62; In a complaint filed Wednesday, the tech giant accused “a cybercriminal group in China” of selling “phishing for dummies” kits. The kits help unsavvy fraudsters easily “execute a large-scale phishing campaign,” tricking hordes of unsuspecting people into “disclosing sensitive information like passwords, credit card numbers, or banking information, often by impersonating well-known brands, government agencies, or even people the victim knows.”
+&#62;
+&#62; These branded “Lighthouse” kits offer two versions of software, depending on whether bad actors want to launch SMS and e-commerce scams. “Members may subscribe to weekly, monthly, seasonal, annual, or permanent licenses,” Google alleged. Kits include “hundreds of templates for fake websites, domain set-up tools for those fake websites, and other features designed to dupe victims into believing they are entering sensitive information on a legitimate website.”...</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=71200</guid>
+    </item>    <item>
+      <title>The Vibecession Deepens</title>
+      <link>https://paulkrugman.substack.com/p/the-vibecession-deepens</link>
+      <description>
+        <![CDATA[And even I am somewhat surprised]]>
+      </description>
+      <source:markdown>And even I am somewhat surprised</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!-LNp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7895b0b6-c91f-4561-9198-7725daba823c_680x626.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/the-vibecession-deepens</guid>
+    </item>    <item>
+      <title>Lit Hub Daily: November 20, 2025</title>
+      <link>https://lithub.com/lit-hub-daily-november-20-2025/</link>
+      <description>
+        <![CDATA[“Each of these cultural moments, be it Swift’s protection of family values, Sweeney’s promotion of eugenics, or DiCaprio’s contributions to eco-imperialism, serve to reinforce the same ideological architecture that McCarthyism once codified through law and propaganda.” On the new Red]]>
+      </description>
+      <source:markdown>“Each of these cultural moments, be it Swift’s protection of family values, Sweeney’s promotion of eugenics, or DiCaprio’s contributions to eco-imperialism, serve to reinforce the same ideological architecture that McCarthyism once codified through law and propaganda.” On the new Red</source:markdown>
+      <guid>cid://https://lithub.com/?p=263105</guid>
+    </item>    <item>
+      <link>https://news.gallup.com/poll/696494/americans-show-consensus-democracy-related-matters.aspx</link>
+      <description>
+        <![CDATA[<p>Americans Show Consensus on Many Democracy-Related Matters.</p>]]>
+      </description>
+      <source:markdown>Americans Show Consensus on Many Democracy-Related Matters.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/20/1947/</guid>
+    </item>    <item>
+      <title>Amid the MAHA Anti-Vaxxers at the Texas Book Festival</title>
+      <link>https://lithub.com/amid-the-maha-anti-vaxxers-at-the-texas-book-festival/</link>
+      <description>
+        <![CDATA[When I walked into the hotel lobby the first person I saw was a woman with enormous lips wearing a T-shirt that said BAN ASSAULT VACCINES. Wow, Austin really has changed, I thought. I used to come to the Texas]]>
+      </description>
+      <source:markdown>When I walked into the hotel lobby the first person I saw was a woman with enormous lips wearing a T-shirt that said BAN ASSAULT VACCINES. Wow, Austin really has changed, I thought. I used to come to the Texas</source:markdown>
+      <guid>cid://https://lithub.com/?p=263094</guid>
+    </item>    <item>
+      <title>Pygmalion’s Chatbot: Vanessa Chang on Intimacy in the Age of AI</title>
+      <link>https://lithub.com/pygmalions-chatbot-vanessa-chang-on-intimacy-in-the-age-of-ai/</link>
+      <description>
+        <![CDATA[When OpenAI CEO Sam Altman announced that ChatGPT would soon be able to talk dirty, the Internet erupted in equal parts fascination and moral panic. Think pieces proliferated, debating the ethics of algorithmic sexuality and scorning the tech company’s professed]]>
+      </description>
+      <source:markdown>When OpenAI CEO Sam Altman announced that ChatGPT would soon be able to talk dirty, the Internet erupted in equal parts fascination and moral panic. Think pieces proliferated, debating the ethics of algorithmic sexuality and scorning the tech company’s professed</source:markdown>
+      <guid>cid://https://lithub.com/?p=262699</guid>
+    </item>    <item>
+      <title>Systemd 259 release candidate flexes musl support – with long list of caveats</title>
+      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/11/20/rc_systemd_259/</link>
+      <description>
+        <![CDATA[<h4>PostmarketOS pushed for the change, but devs warn it may not last</h4>
+              <p>Along with new functionality, systemd is broadening its distro support even further, which will surely delight members of the wider Linux community.</p>]]>
+      </description>
+      <source:markdown>#### PostmarketOS pushed for the change, but devs warn it may not last
+
+Along with new functionality, systemd is broadening its distro support even further, which will surely delight members of the wider Linux community.</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243129</guid>
+    </item>    <item>
+      <title>On the Venerated—and Exploited—Legacy of Anne Frank</title>
+      <link>https://lithub.com/on-the-venerated-and-exploited-legacy-of-anne-frank/</link>
+      <description>
+        <![CDATA[It’s her. A silhouette at the window, emerging from the shadows, just a girl. She learns over the ledge, drawn, no doubt by laughter she’s heard in the street: it’s coming from an elegant procession of people in satin gowns]]>
+      </description>
+      <source:markdown>It’s her. A silhouette at the window, emerging from the shadows, just a girl. She learns over the ledge, drawn, no doubt by laughter she’s heard in the street: it’s coming from an elegant procession of people in satin gowns</source:markdown>
+      <guid>cid://https://lithub.com/?p=262728</guid>
+    </item>    <item>
+      <title>How the Psychological Burden of Debt Impacts Our Physical Health</title>
+      <link>https://lithub.com/how-the-psychological-burden-of-debt-impacts-our-physical-health/</link>
+      <description>
+        <![CDATA[I learned that my mother had a severe gambling addiction and had borrowed money from many of her family members, maxed out all her credit cards and, then, when all the credit lines had collapsed, she’d taken money from her]]>
+      </description>
+      <source:markdown>I learned that my mother had a severe gambling addiction and had borrowed money from many of her family members, maxed out all her credit cards and, then, when all the credit lines had collapsed, she’d taken money from her</source:markdown>
+      <guid>cid://https://lithub.com/?p=262566</guid>
+    </item>    <item>
+      <title>Madeleine Arenivar on the Rhythm of Translation, Preserving Poetic Language, and Letting a Novel’s Voice Shine</title>
+      <link>https://lithub.com/madeleine-arenivar-on-the-rhythm-of-translation-preserving-poetic-language-and-letting-a-novels-voice-shine/</link>
+      <description>
+        <![CDATA[The translator Madeleine Arenivar, who lives in Quito, Ecuador, was a student in perhaps the most enjoyable class I’ve ever taught: an online translation course whose participants were, without exception, eager, gifted, and giving. We were unanimously delighted with Madeleine’s]]>
+      </description>
+      <source:markdown>The translator Madeleine Arenivar, who lives in Quito, Ecuador, was a student in perhaps the most enjoyable class I’ve ever taught: an online translation course whose participants were, without exception, eager, gifted, and giving. We were unanimously delighted with Madeleine’s</source:markdown>
+      <guid>cid://https://lithub.com/?p=262668</guid>
+    </item>    <item>
+      <title>On Zohran Mamdani, Taylor Swift, and the Evolution of the Red Scare</title>
+      <link>https://lithub.com/on-zohran-mamdani-taylor-swift-and-the-evolution-of-the-red-scare/</link>
+      <description>
+        <![CDATA[On Friday, November 7, President Trump issued a proclamation asserting the week of November 2 to 8 as “Anti-Communism Week.” The announcement conjectured that “for more than a century, communism has brought nothing but ruin” to the world. It went]]>
+      </description>
+      <source:markdown>On Friday, November 7, President Trump issued a proclamation asserting the week of November 2 to 8 as “Anti-Communism Week.” The announcement conjectured that “for more than a century, communism has brought nothing but ruin” to the world. It went</source:markdown>
+      <guid>cid://https://lithub.com/?p=262997</guid>
+    </item>    <item>
+      <title>5 Book Reviews You Need to Read This Week</title>
+      <link>https://lithub.com/5-book-reviews-you-need-to-read-this-week-11-20-2025/</link>
+      <description>
+        <![CDATA[Our treasure chest of terrific reviews this week includes Robert Pinsky on The Poems of Seamus Heaney, Hanif Abdurraqib on John Edgar Wideman’s Languages of Home, John Banville on Selected Letters of John Updike, Dwight Garner on Jan Kerouac’s Baby]]>
+      </description>
+      <source:markdown>Our treasure chest of terrific reviews this week includes Robert Pinsky on The Poems of Seamus Heaney, Hanif Abdurraqib on John Edgar Wideman’s Languages of Home, John Banville on Selected Letters of John Updike, Dwight Garner on Jan Kerouac’s Baby</source:markdown>
+      <guid>cid://https://lithub.com/?p=262893</guid>
+    </item>    <item>
+      <title>Memory Burn</title>
+      <link>https://lithub.com/memory-burn/</link>
+      <description>
+        <![CDATA[Sometimes, things are so clear in your mind that you remember everything: images, parts of strangers’ faces, empty rooms, sounds and words, someone’s voice. But the thing you remember most of all are the falls. &#160; One Christmas, you are]]>
+      </description>
+      <source:markdown>Sometimes, things are so clear in your mind that you remember everything: images, parts of strangers’ faces, empty rooms, sounds and words, someone’s voice. But the thing you remember most of all are the falls.   One Christmas, you are</source:markdown>
+      <guid>cid://https://lithub.com/?p=261400</guid>
+    </item>    <item>
+      <title>Antisemitism in Trumpworld?</title>
+      <link>https://robertreich.substack.com/p/antisemitism-in-trumpworld</link>
+      <description>
+        <![CDATA[It is an inherent part of neofascism]]>
+      </description>
+      <source:markdown>It is an inherent part of neofascism</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!FGeO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda2a8fa4-5a6b-4345-bc34-8a023e3af494_1456x1528.webp" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/antisemitism-in-trumpworld</guid>
+    </item>    <item>
+      <title>November 19, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/november-19-2025</link>
+      <description>
+        <![CDATA[Yesterday the House of Representatives passed the Epstein Files Transparency Act.]]>
+      </description>
+      <source:markdown>Yesterday the House of Representatives passed the Epstein Files Transparency Act.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/november-19-2025</guid>
+    </item>    <item>
+      <title>2025-11-19 uBlock Origin vs. GitHub</title>
+      <link>https://alexschroeder.ch/view/2025-11-17-ublock-origin</link>
+      <description>
+        <![CDATA[<h1 id="2025-11-19-ublock-origin-vs-github">2025-11-19 uBlock Origin vs. GitHub</h1>
+        
+        <p>You all use uBlock Origin? Good.
+        Today I saw a post by <a class="account" href="https://bananachips.club/@lichen" title="@lichen@bananachips.club">@lichen</a> with the following uBlock Origin rules to get rid of AI stuff when using GitHub. Love it.</p>
+        
+        <pre><code>github.com##.AppHeader-CopilotChat
+        github.com##copilot-dashboard-entrypoint
+        github.com##.prc-ButtonGroup-ButtonGroup-vcMeG.DiffLinesMenu-module__diff-button-container--UrMbh
+        github.com##.DiffHeaderAskCopilotButton-module__askCopilotButton--XnBQK.prc-Button-ButtonBase-c50BI
+        github.com###copilot-md-menu-anchor-new_comment_field
+        github.com##a[href^=&quot;copilot-workspace.githubnext.c&quot;]
+        github.com###copilot-md-menu-anchor-pull_request_body
+        github.com##.lnwIhU.Box-sc-g0xbh4-0 &gt; .octicon-copilot.octicon &gt; path
+        github.com##li:has(&gt; ul &gt; li#query-builder-test-result-ask-copilot)
+        github.com##li.ActionList-sectionDivider[aria-hidden=&quot;true&quot;]
+        github.com##div:has(&gt; button[data-testid=&quot;copilot-ask-menu&quot;])
+        github.com##div[data-test-id=&quot;copilot-actions-chat-button&quot;]
+        github.com##div.dropdown-divider:has(+span[data-target=&quot;copilot-diff-entry.menuItemsSlot&quot;])
+        github.com##span[data-target=&quot;copilot-diff-entry.menuItemsSlot&quot;]
+        github.com##react-partial[partial-name=&quot;copilot-code-chat&quot;]
+        github.com##.copilotPreview__container
+        github.com##button[id^=&quot;copilot-md-menu-anchor&quot;]
+        github.com##div:has(&gt; button[id^=&quot;copilot-md-menu-anchor&quot;]) + hr
+        github.com##li:has(&gt; ul &gt; li#query-builder-test-result-chat-with-copilot)
+        github.com##span:has(&gt; p &gt; span[data-assignee-name=&quot;Copilot&quot;])
+        github.com##div:has(&gt; div &gt; div &gt; a[data-testid=&quot;open-in-copilot-agent-button&quot;])
+        github.com##command-palette-item[data-item-id=&quot;2918418660&quot;]
+        github.com##li.prc-ActionList-Divider-rsZFG
+        github.com##li:has-text(/Ask about this diff/)
+        github.com##div[class*=&quot;CopilotWorkspaceButton&quot;]
+        github.com##li[class=&quot;ActionListItem ActionListItem--hasSubItem&quot;]:has(ul &gt; li[data-item-id=&quot;repo_settings_copilot_swe_agent&quot;])
+        github.com##svg.octicon.octicon-copilot
+        github.com##span[class=&quot;ActionListItem-label&quot;]:has-text(Copilot)
+        github.com##li:has(&gt; div &gt; span:has-text(/Explain error/))
+        github.com##div[class*=&quot;CopilotAgentModeButton&quot;]
+        github.com##button:has(&gt; span:has-text(/Try the new experience/))
+        github.com##g-emoji[alias=&quot;sparkles&quot;]
+        github.com##inline-machine-translation
+        </code></pre>
+        
+        <p><a class="tag" href="/search/?q=%23Firefox">#Firefox</a> <a class="tag" href="/search/?q=%23AI">#AI</a> <a class="tag" href="/search/?q=%23uBlock_Origin">#uBlock Origin</a></p>
+        
+        <p><strong>2025-11-19</strong>. I must add, though, that I&rsquo;ve been deleting a lot of my repositories and forks of repositories from GitHub. I don&rsquo;t want to support the AI hype. I have some of these repositories <a href="https://src.alexschroeder.ch/">on my own server</a>. There rest live on in forks elsewhere, or not at all, and my server will go down with me as well one day. It&rsquo;s a lot like paper libraries. If people don&rsquo;t copy the stuff they like, it is lost.</p>]]>
+      </description>
+      <source:markdown># 2025-11-19 uBlock Origin vs. GitHub
+
+You all use uBlock Origin? Good.
+Today I saw a post by [@lichen](https://bananachips.club/@lichen &#34;@lichen@bananachips.club&#34;) with the following uBlock Origin rules to get rid of AI stuff when using GitHub. Love it.
+
+```
+github.com##.AppHeader-CopilotChat
+github.com##copilot-dashboard-entrypoint
+github.com##.prc-ButtonGroup-ButtonGroup-vcMeG.DiffLinesMenu-module__diff-button-container--UrMbh
+github.com##.DiffHeaderAskCopilotButton-module__askCopilotButton--XnBQK.prc-Button-ButtonBase-c50BI
+github.com###copilot-md-menu-anchor-new_comment_field
+github.com##a[href^=&#34;copilot-workspace.githubnext.c&#34;]
+github.com###copilot-md-menu-anchor-pull_request_body
+github.com##.lnwIhU.Box-sc-g0xbh4-0 &#62; .octicon-copilot.octicon &#62; path
+github.com##li:has(&#62; ul &#62; li#query-builder-test-result-ask-copilot)
+github.com##li.ActionList-sectionDivider[aria-hidden=&#34;true&#34;]
+github.com##div:has(&#62; button[data-testid=&#34;copilot-ask-menu&#34;])
+github.com##div[data-test-id=&#34;copilot-actions-chat-button&#34;]
+github.com##div.dropdown-divider:has(+span[data-target=&#34;copilot-diff-entry.menuItemsSlot&#34;])
+github.com##span[data-target=&#34;copilot-diff-entry.menuItemsSlot&#34;]
+github.com##react-partial[partial-name=&#34;copilot-code-chat&#34;]
+github.com##.copilotPreview__container
+github.com##button[id^=&#34;copilot-md-menu-anchor&#34;]
+github.com##div:has(&#62; button[id^=&#34;copilot-md-menu-anchor&#34;]) + hr
+github.com##li:has(&#62; ul &#62; li#query-builder-test-result-chat-with-copilot)
+github.com##span:has(&#62; p &#62; span[data-assignee-name=&#34;Copilot&#34;])
+github.com##div:has(&#62; div &#62; div &#62; a[data-testid=&#34;open-in-copilot-agent-button&#34;])
+github.com##command-palette-item[data-item-id=&#34;2918418660&#34;]
+github.com##li.prc-ActionList-Divider-rsZFG
+github.com##li:has-text(/Ask about this diff/)
+github.com##div[class*=&#34;CopilotWorkspaceButton&#34;]
+github.com##li[class=&#34;ActionListItem ActionListItem--hasSubItem&#34;]:has(ul &#62; li[data-item-id=&#34;repo_settings_copilot_swe_agent&#34;])
+github.com##svg.octicon.octicon-copilot
+github.com##span[class=&#34;ActionListItem-label&#34;]:has-text(Copilot)
+github.com##li:has(&#62; div &#62; span:has-text(/Explain error/))
+github.com##div[class*=&#34;CopilotAgentModeButton&#34;]
+github.com##button:has(&#62; span:has-text(/Try the new experience/))
+github.com##g-emoji[alias=&#34;sparkles&#34;]
+github.com##inline-machine-translation
+
+```
+
+[#Firefox](/search/?q=%23Firefox) [#AI](/search/?q=%23AI) [#uBlock Origin](/search/?q=%23uBlock_Origin)
+
+**2025-11-19**. I must add, though, that I’ve been deleting a lot of my repositories and forks of repositories from GitHub. I don’t want to support the AI hype. I have some of these repositories [on my own server](https://src.alexschroeder.ch/). There rest live on in forks elsewhere, or not at all, and my server will go down with me as well one day. It’s a lot like paper libraries. If people don’t copy the stuff they like, it is lost.</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2025-11-17-ublock-origin</guid>
+    </item>    <item>
+      <title>A Man Died Hog-Tied in ICE Custody. They Called It Suicide.</title>
+      <link>https://www.notesfromthecircus.com/p/a-man-died-hog-tied-in-ice-custody</link>
+      <description>
+        <![CDATA[Chaofeng Ge, a 32-year-old Chinese immigrant, died in ICE custody in Pennsylvania on August 5th.]]>
+      </description>
+      <source:markdown>Chaofeng Ge, a 32-year-old Chinese immigrant, died in ICE custody in Pennsylvania on August 5th.</source:markdown>
+      <enclosure url="https://images.unsplash.com/photo-1554702781-ce40d39ae66a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw5fHxwcmlzb24lMjBjZWxsfGVufDB8fHx8MTc2MzYxNjYzNnww&ixlib=rb-4.1.0&q=80&w=1080" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/a-man-died-hog-tied-in-ice-custody</guid>
+    </item>    <item>
+      <title>320: Aha! Lost Worlds. Mongolia 💚 Colombia. Tuberculosis 🛑✋. Uninterrupted toolmaking.</title>
+      <link>https://fixthenews.com/p/320-aha-lost-worlds-mongolia-colombia</link>
+      <description>
+        <![CDATA[It&#8217;s a nice feeling when your brain suddenly comes up with an answer.]]>
+      </description>
+      <source:markdown>It’s a nice feeling when your brain suddenly comes up with an answer.</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/270f8fec-c9ff-4997-8f0e-b21a63cc8f8a_678x535.png" length="0" type="image/jpeg" />
+      <guid>cid://https://fixthenews.com/p/320-aha-lost-worlds-mongolia-colombia</guid>
+    </item>    <item>
+      <link>https://prisonjournalismproject.org/2025/11/18/leaving-prison-at-an-old-age/?utm_source=Bluesky&#38;utm_medium=social&#38;utm_campaign=PJP-Bluesky</link>
+      <description>
+        <![CDATA[<p>Why Older People Worry About Leaving Prison.</p>]]>
+      </description>
+      <source:markdown>Why Older People Worry About Leaving Prison.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/19/1945/</guid>
+    </item>    <item>
+      <title>Quoting Nicholas Carlini</title>
+      <link>https://simonwillison.net/2025/Nov/20/nicholas-carlini/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html"><p>Previously, when malware developers wanted to go and monetize their exploits, they would do exactly one thing: encrypt every file on a person's computer and request a ransome to decrypt the files. In the future I think this will change.</p>
+        <p>LLMs allow attackers to instead process every file on the victim's computer, and tailor a blackmail letter specifically towards that person. One person may be having an affair on their spouse. Another may have lied on their resume. A third may have cheated on an exam at school. It is unlikely that any one person has done any of these specific things, but it is very likely that there exists something that is blackmailable for every person. Malware + LLMs, given access to a person's computer, can find that and monetize it.</p></blockquote>
+        <p class="cite">&mdash; <a href="https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html">Nicholas Carlini</a>, Are large language models worth it? Misuse: malware at scale</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/nicholas-carlini">nicholas-carlini</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>]]>
+      </description>
+      <source:markdown>&#62; Previously, when malware developers wanted to go and monetize their exploits, they would do exactly one thing: encrypt every file on a person&#39;s computer and request a ransome to decrypt the files. In the future I think this will change.
+&#62;
+&#62; LLMs allow attackers to instead process every file on the victim&#39;s computer, and tailor a blackmail letter specifically towards that person. One person may be having an affair on their spouse. Another may have lied on their resume. A third may have cheated on an exam at school. It is unlikely that any one person has done any of these specific things, but it is very likely that there exists something that is blackmailable for every person. Malware + LLMs, given access to a person&#39;s computer, can find that and monetize it.
+
+— [Nicholas Carlini](https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html), Are large language models worth it? Misuse: malware at scale
+
+Tags: [ai-ethics](https://simonwillison.net/tags/ai-ethics), [generative-ai](https://simonwillison.net/tags/generative-ai), [nicholas-carlini](https://simonwillison.net/tags/nicholas-carlini), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/20/nicholas-carlini/#atom-everything</guid>
+    </item>    <item>
+      <link>https://tilde.zone/@tomasino/115579288238723796</link>
+      <description>
+        <![CDATA[<p><a href="https://www.thehierophant.world/blog/mapping-the-stars/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">thehierophant.world/blog/mappi</span><span class="invisible">ng-the-stars/</span></a></p><p>Where I blog about the latest efforts on my world map. Why did I turn the night sky into a world? Why did I use constellations to craft nations? And what does it have to do with the themes in the book?</p>]]>
+      </description>
+      <source:markdown>[https://www.thehierophant.world/blog/mapping-the-stars/](https://www.thehierophant.world/blog/mapping-the-stars/)
+
+Where I blog about the latest efforts on my world map. Why did I turn the night sky into a world? Why did I use constellations to craft nations? And what does it have to do with the themes in the book?</source:markdown>
+      <guid>cid://https://tilde.zone/@tomasino/115579288238723796</guid>
+    </item>    <item>
+      <title>619.  Elizabeth I: The Virgin Queen (Part 4)</title>
+      <link>https://therestishistory.com/619-elizabeth-i-the-virgin-queen-part-4/</link>
+      <description>
+        <![CDATA[<p>How was Elizabeth I finally crowned Queen of England, after long years of perilous waiting? Why was her early reign so fraught with danger? Who was William Cecil, Elizabeth’s new secretary, and the key political player of her rule? And, why was she so determined to remain the unmarried, ‘ Virgin Queen’? Join Tom and [&#8230;]</p>
+        <p>The post <a href="https://therestishistory.com/619-elizabeth-i-the-virgin-queen-part-4/">619.  Elizabeth I: The Virgin Queen (Part 4)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>]]>
+      </description>
+      <source:markdown>How was Elizabeth I finally crowned Queen of England, after long years of perilous waiting? Why was her early reign so fraught with danger? Who was William Cecil, Elizabeth’s new secretary, and the key political player of her rule? And, why was she so determined to remain the unmarried, ‘ Virgin Queen’? Join Tom and \[…\]
+
+The post [619\. Elizabeth I: The Virgin Queen (Part 4)](https://therestishistory.com/619-elizabeth-i-the-virgin-queen-part-4/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
+      <guid>cid://https://therestishistory.com/619-elizabeth-i-the-virgin-queen-part-4/</guid>
+    </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115579082944109054</link>
       <description>
         <![CDATA[<p>Godot and iOS friends, been working on some GameCenter bindings, and this forced me to do some big upgrades to SwiftGodot.</p><p>I think what I have so far is nicer than Apple’s Unity plugin (api is about the same, but my glueing chops are more tasteful than theirs):</p><p><a href="https://github.com/migueldeicaza/GodotApplePlugins" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/migueldeicaza/Godot</span><span class="invisible">ApplePlugins</span></a></p>]]>
@@ -151,6 +485,10 @@ I think what I have so far is nicer than Apple’s Unity plugin (api is about th
 
 [https://github.com/migueldeicaza/GodotApplePlugins](https://github.com/migueldeicaza/GodotApplePlugins)</source:markdown>
       <guid>cid://https://mastodon.social/@Migueldeicaza/115579082944109054</guid>
+    </item>    <item>
+      <title>The End of The World is Nigh (ish)</title>
+      <link>https://ptsefton.com/2025/11/20/eotwin/</link>
+      <guid>cid://https://ptsefton.com/2025/11/20/eotwin/</guid>
     </item>    <item>
       <title>Mayday: The White House is attempting to circumvent Congress and crush the rights of individual states to regulate AI.</title>
       <link>https://garymarcus.substack.com/p/mayday-the-white-house-is-attempting</link>
@@ -172,7 +510,7 @@ I think what I have so far is nicer than Apple’s Unity plugin (api is about th
         <p>Starting today, GPT‑5.1-Codex-Max will replace GPT‑5.1-Codex as the default model in Codex surfaces. Unlike GPT‑5.1, which is a general-purpose model, we recommend using GPT‑5.1-Codex-Max and the Codex family of models only for agentic coding tasks in Codex or Codex-like environments.</p>
         </blockquote>
         <p>It's not available via the API yet but should be shortly.</p>
-        <p>The timing of this release is interesting given that Gemini 3 Pro appears to have aced almost all of the benchmarks just yesterday. It's reminiscent of the period in 2024 when OpenAI consistently made big announcements that happened to coincide with Gemini releases.</p>
+        <p>The timing of this release is interesting given that Gemini 3 Pro appears to have <a href="https://simonwillison.net/2025/Nov/18/gemini-3/#benchmarks">aced almost all of the benchmarks</a> just yesterday. It's reminiscent of the period in 2024 when OpenAI consistently made big announcements that happened to coincide with Gemini releases.</p>
         <p>OpenAI's self-reported <a href="https://openai.com/index/introducing-swe-bench-verified/">SWE-Bench Verified</a> score is particularly notable: 76.5% for thinking level "high" and 77.9% for the new "xhigh". That was the one benchmark where Gemini 3 Pro was out-performed by Claude Sonnet 4.5 - Gemini 3 Pro got 76.2% and Sonnet 4.5 got 77.2%. OpenAI now have the highest scoring model there by a full .7 of a percentage point!</p>
         <p>They also report a score of 58.1% on <a href="https://www.tbench.ai/leaderboard/terminal-bench/2.0">Terminal Bench 2.0</a>, beating Gemini 3 Pro's 54.2% (and Sonnet 4.5's 42.8%.)</p>
         <p>The most intriguing part of this announcement concerns the model's approach to long context problems:</p>
@@ -210,7 +548,7 @@ It&#39;s currently only available through their [Codex CLI coding agent](https:/
 
 It&#39;s not available via the API yet but should be shortly.
 
-The timing of this release is interesting given that Gemini 3 Pro appears to have aced almost all of the benchmarks just yesterday. It&#39;s reminiscent of the period in 2024 when OpenAI consistently made big announcements that happened to coincide with Gemini releases.
+The timing of this release is interesting given that Gemini 3 Pro appears to have [aced almost all of the benchmarks](https://simonwillison.net/2025/Nov/18/gemini-3/#benchmarks) just yesterday. It&#39;s reminiscent of the period in 2024 when OpenAI consistently made big announcements that happened to coincide with Gemini releases.
 
 OpenAI&#39;s self-reported [SWE-Bench Verified](https://openai.com/index/introducing-swe-bench-verified/) score is particularly notable: 76.5% for thinking level &#34;high&#34; and 77.9% for the new &#34;xhigh&#34;. That was the one benchmark where Gemini 3 Pro was out-performed by Claude Sonnet 4.5 - Gemini 3 Pro got 76.2% and Sonnet 4.5 got 77.2%. OpenAI now have the highest scoring model there by a full .7 of a percentage point!
 
@@ -586,12 +924,12 @@ Tags: [blogging](https://simonwillison.net/tags/blogging), [django](https://simo
       <link>https://www.mlb.com/news/mlb-announces-media-rights-deals-with-espn-nbc-netflix</link>
       <guid>cid://tag:daringfireball.net,2025:/linked//6.42405</guid>
     </item>    <item>
-      <title>The real danger to press freedom has nothing to do with Trump&#39;s personal insults.</title>
+      <title>The real danger to press freedom has nothing to do with Trump’s personal insults</title>
       <link>https://robertreich.substack.com/p/the-real-danger-to-press-freedom</link>
       <description>
-        <![CDATA[And everything to do with his threats to corporate media's profits.]]>
+        <![CDATA[And everything to do with his threats to corporate media&#8217;s profits.]]>
       </description>
-      <source:markdown>And everything to do with his threats to corporate media&#39;s profits.</source:markdown>
+      <source:markdown>And everything to do with his threats to corporate media’s profits.</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!srdt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34e1a2b8-6844-4f77-a0f4-3d6ddb0fd065_3203x2583.png" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/the-real-danger-to-press-freedom</guid>
     </item>    <item>
@@ -1031,100 +1369,6 @@ The Python community is chewing over a new idea: allowing the C-based reference 
       <source:markdown>The following originally appears on fast.ai and is reposted here with the author’s permission. I’ve spent decades teaching people to code, building tools that help developers work more effectively, and championing the idea that programming should be accessible to everyone. Through fast.ai, I’ve helped millions learn not just to use AI but to understand it \[…\]</source:markdown>
       <guid>cid://https://www.oreilly.com/radar/?p=17722</guid>
     </item>    <item>
-      <title>2025-11-19 uBlock Origin</title>
-      <link>https://alexschroeder.ch/view/2025-11-17-ublock-origin</link>
-      <description>
-        <![CDATA[<h1 id="2025-11-19-ublock-origin">2025-11-19 uBlock Origin</h1>
-        
-        <p>You all use uBlock Origin? Good.
-        Today I saw a post by <a class="account" href="https://bananachips.club/@lichen" title="@lichen@bananachips.club">@lichen</a> with the following uBlock Origin rules to get rid of AI stuff when using GitHub. Love it.</p>
-        
-        <pre><code>github.com##.AppHeader-CopilotChat
-        github.com##copilot-dashboard-entrypoint
-        github.com##.prc-ButtonGroup-ButtonGroup-vcMeG.DiffLinesMenu-module__diff-button-container--UrMbh
-        github.com##.DiffHeaderAskCopilotButton-module__askCopilotButton--XnBQK.prc-Button-ButtonBase-c50BI
-        github.com###copilot-md-menu-anchor-new_comment_field
-        github.com##a[href^=&quot;copilot-workspace.githubnext.c&quot;]
-        github.com###copilot-md-menu-anchor-pull_request_body
-        github.com##.lnwIhU.Box-sc-g0xbh4-0 &gt; .octicon-copilot.octicon &gt; path
-        github.com##li:has(&gt; ul &gt; li#query-builder-test-result-ask-copilot)
-        github.com##li.ActionList-sectionDivider[aria-hidden=&quot;true&quot;]
-        github.com##div:has(&gt; button[data-testid=&quot;copilot-ask-menu&quot;])
-        github.com##div[data-test-id=&quot;copilot-actions-chat-button&quot;]
-        github.com##div.dropdown-divider:has(+span[data-target=&quot;copilot-diff-entry.menuItemsSlot&quot;])
-        github.com##span[data-target=&quot;copilot-diff-entry.menuItemsSlot&quot;]
-        github.com##react-partial[partial-name=&quot;copilot-code-chat&quot;]
-        github.com##.copilotPreview__container
-        github.com##button[id^=&quot;copilot-md-menu-anchor&quot;]
-        github.com##div:has(&gt; button[id^=&quot;copilot-md-menu-anchor&quot;]) + hr
-        github.com##li:has(&gt; ul &gt; li#query-builder-test-result-chat-with-copilot)
-        github.com##span:has(&gt; p &gt; span[data-assignee-name=&quot;Copilot&quot;])
-        github.com##div:has(&gt; div &gt; div &gt; a[data-testid=&quot;open-in-copilot-agent-button&quot;])
-        github.com##command-palette-item[data-item-id=&quot;2918418660&quot;]
-        github.com##li.prc-ActionList-Divider-rsZFG
-        github.com##li:has-text(/Ask about this diff/)
-        github.com##div[class*=&quot;CopilotWorkspaceButton&quot;]
-        github.com##li[class=&quot;ActionListItem ActionListItem--hasSubItem&quot;]:has(ul &gt; li[data-item-id=&quot;repo_settings_copilot_swe_agent&quot;])
-        github.com##svg.octicon.octicon-copilot
-        github.com##span[class=&quot;ActionListItem-label&quot;]:has-text(Copilot)
-        github.com##li:has(&gt; div &gt; span:has-text(/Explain error/))
-        github.com##div[class*=&quot;CopilotAgentModeButton&quot;]
-        github.com##button:has(&gt; span:has-text(/Try the new experience/))
-        github.com##g-emoji[alias=&quot;sparkles&quot;]
-        github.com##inline-machine-translation
-        </code></pre>
-        
-        <p><a class="tag" href="/search/?q=%23Firefox">#Firefox</a> <a class="tag" href="/search/?q=%23AI">#AI</a> <a class="tag" href="/search/?q=%23uBlock_Origin">#uBlock Origin</a></p>
-        
-        <p><strong>2025-11-19</strong>. I must add, though, that I&rsquo;ve been deleting a lot of my repositories and forks of repositories from GitHub. I don&rsquo;t want to support the AI hype. I have some of these repositories <a href="https://src.alexschroeder.ch/">on my own server</a>. There rest live on in forks elsewhere, or not at all, and my server will go down with me as well one day. It&rsquo;s a lot like paper libraries. If people don&rsquo;t copy the stuff they like, it is lost.</p>]]>
-      </description>
-      <source:markdown># 2025-11-19 uBlock Origin
-
-You all use uBlock Origin? Good.
-Today I saw a post by [@lichen](https://bananachips.club/@lichen &#34;@lichen@bananachips.club&#34;) with the following uBlock Origin rules to get rid of AI stuff when using GitHub. Love it.
-
-```
-github.com##.AppHeader-CopilotChat
-github.com##copilot-dashboard-entrypoint
-github.com##.prc-ButtonGroup-ButtonGroup-vcMeG.DiffLinesMenu-module__diff-button-container--UrMbh
-github.com##.DiffHeaderAskCopilotButton-module__askCopilotButton--XnBQK.prc-Button-ButtonBase-c50BI
-github.com###copilot-md-menu-anchor-new_comment_field
-github.com##a[href^=&#34;copilot-workspace.githubnext.c&#34;]
-github.com###copilot-md-menu-anchor-pull_request_body
-github.com##.lnwIhU.Box-sc-g0xbh4-0 &#62; .octicon-copilot.octicon &#62; path
-github.com##li:has(&#62; ul &#62; li#query-builder-test-result-ask-copilot)
-github.com##li.ActionList-sectionDivider[aria-hidden=&#34;true&#34;]
-github.com##div:has(&#62; button[data-testid=&#34;copilot-ask-menu&#34;])
-github.com##div[data-test-id=&#34;copilot-actions-chat-button&#34;]
-github.com##div.dropdown-divider:has(+span[data-target=&#34;copilot-diff-entry.menuItemsSlot&#34;])
-github.com##span[data-target=&#34;copilot-diff-entry.menuItemsSlot&#34;]
-github.com##react-partial[partial-name=&#34;copilot-code-chat&#34;]
-github.com##.copilotPreview__container
-github.com##button[id^=&#34;copilot-md-menu-anchor&#34;]
-github.com##div:has(&#62; button[id^=&#34;copilot-md-menu-anchor&#34;]) + hr
-github.com##li:has(&#62; ul &#62; li#query-builder-test-result-chat-with-copilot)
-github.com##span:has(&#62; p &#62; span[data-assignee-name=&#34;Copilot&#34;])
-github.com##div:has(&#62; div &#62; div &#62; a[data-testid=&#34;open-in-copilot-agent-button&#34;])
-github.com##command-palette-item[data-item-id=&#34;2918418660&#34;]
-github.com##li.prc-ActionList-Divider-rsZFG
-github.com##li:has-text(/Ask about this diff/)
-github.com##div[class*=&#34;CopilotWorkspaceButton&#34;]
-github.com##li[class=&#34;ActionListItem ActionListItem--hasSubItem&#34;]:has(ul &#62; li[data-item-id=&#34;repo_settings_copilot_swe_agent&#34;])
-github.com##svg.octicon.octicon-copilot
-github.com##span[class=&#34;ActionListItem-label&#34;]:has-text(Copilot)
-github.com##li:has(&#62; div &#62; span:has-text(/Explain error/))
-github.com##div[class*=&#34;CopilotAgentModeButton&#34;]
-github.com##button:has(&#62; span:has-text(/Try the new experience/))
-github.com##g-emoji[alias=&#34;sparkles&#34;]
-github.com##inline-machine-translation
-
-```
-
-[#Firefox](/search/?q=%23Firefox) [#AI](/search/?q=%23AI) [#uBlock Origin](/search/?q=%23uBlock_Origin)
-
-**2025-11-19**. I must add, though, that I’ve been deleting a lot of my repositories and forks of repositories from GitHub. I don’t want to support the AI hype. I have some of these repositories [on my own server](https://src.alexschroeder.ch/). There rest live on in forks elsewhere, or not at all, and my server will go down with me as well one day. It’s a lot like paper libraries. If people don’t copy the stuff they like, it is lost.</source:markdown>
-      <guid>cid://https://alexschroeder.ch/view/2025-11-17-ublock-origin</guid>
-    </item>    <item>
       <title>From Breezes to Tornadoes: What Happens When the Wind Turns Deadly?</title>
       <link>https://lithub.com/from-breezes-to-tornadoes-what-happens-when-the-wind-turns-deadly/</link>
       <description>
@@ -1293,9 +1537,10 @@ Tags: [scaling](https://simonwillison.net/tags/scaling), [postmortem](https://si
         <p>
         I also learned from Adrian Pohl that there was a <a
         href="https://blog.lobid.org/2019/01/31/bibframe-dataset.html">SWIB18
-        Workshop</a> focused on creating a JSON-LD Context for BIBFRAME data. So
-        this is not a new idea. But perhaps it is an idea whose time has come
-        since the inability to reliably work with BIBFRAME as JSON is a
+        Workshop</a> focused on LOUD and JSON-LD (see also <a
+        href="https://hbz.github.io/swib18-workshop/">these slides</a>). So this
+        is not a new idea by any means. But perhaps it is an idea whose time has
+        come since the inability to reliably work with BIBFRAME as JSON is a
         significant barrier to BIBFRAME becoming a viable replacement for MARC.
         </p>]]>
       </description>
@@ -1330,9 +1575,9 @@ interoperability, and then add other contexts as needed using JSON-LD’s
 for multiple contexts](https://www.w3.org/TR/2014/REC-json-ld-20140116/#advanced-context-usage)?
 
 I also learned from Adrian Pohl that there was a [SWIB18\
-Workshop](https://blog.lobid.org/2019/01/31/bibframe-dataset.html) focused on creating a JSON-LD Context for BIBFRAME data. So
-this is not a new idea. But perhaps it is an idea whose time has come
-since the inability to reliably work with BIBFRAME as JSON is a
+Workshop](https://blog.lobid.org/2019/01/31/bibframe-dataset.html) focused on LOUD and JSON-LD (see also [these slides](https://hbz.github.io/swib18-workshop/)). So this
+is not a new idea by any means. But perhaps it is an idea whose time has
+come since the inability to reliably work with BIBFRAME as JSON is a
 significant barrier to BIBFRAME becoming a viable replacement for MARC.</source:markdown>
       <guid>cid://https://inkdroid.org/2025/11/19/loud-bibframe/</guid>
     </item>    <item>
@@ -1412,6 +1657,13 @@ significant barrier to BIBFRAME becoming a viable replacement for MARC.</source:
         <![CDATA[Gift subscriptions directly from your subscribe page]]>
       </description>
       <source:markdown>Gift subscriptions directly from your subscribe page</source:markdown>
+    </item>    <item>
+      <title>How Igor Ranc uses Buttondown</title>
+      <link>https://buttondown.com/blog/igor-ranc</link>
+      <description>
+        <![CDATA[Igor’s weekly newsletter informs Berlin’s expats of important tech business news, job opportunities, and professional resources in and around Berlin.]]>
+      </description>
+      <source:markdown>Igor’s weekly newsletter informs Berlin’s expats of important tech business news, job opportunities, and professional resources in and around Berlin.</source:markdown>
     </item>    <item>
       <title>Sir, This Is a McDonald’s</title>
       <link>https://www.thebulwark.com/p/trump-is-not-have-all-the-mentals-cognitive-functioning?r=9x4vy</link>
@@ -14426,14 +14678,6 @@ Check out all of the Future Knowledge episodes at [https://archive.org/details/f
       </description>
       <source:markdown>So much for obeying a court order, even if begrudgingly and with manufactured delay.</source:markdown>
       <guid>cid://https://heathercoxrichardson.substack.com/p/november-4-2025-tuesday</guid>
-    </item>    <item>
-      <title>Bibliography</title>
-      <link>https://www.gregegan.net/BIBLIOGRAPHY/Bibliography.html</link>
-      <description>
-        <![CDATA[The page "Bibliography" has been updated]]>
-      </description>
-      <source:markdown>The page &#34;Bibliography&#34; has been updated</source:markdown>
-      <guid>cid://0000000231</guid>
     </item>    <item>
       <title>The Sleeping Giant Awakens</title>
       <link>https://robertreich.substack.com/p/the-sleeping-giant-awakens</link>
