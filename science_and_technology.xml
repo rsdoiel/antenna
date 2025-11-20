@@ -4,10 +4,104 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>19 Nov 25 16:42 -0800</lastBuildDate>
+    <lastBuildDate>20 Nov 25 06:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The React Component Pyramid Scheme: An Over-Engineering Crisis</title>
+      <link>https://thenewstack.io/the-react-component-pyramid-scheme-an-over-engineering-crisis/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/7552f648-getty-images-00hj4dtxkw0-unsplashb-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="pyramids" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/7552f648-getty-images-00hj4dtxkw0-unsplashb.jpg" /><p>At some point, we stopped writing React components and started worshiping them. The mantra of &#8220;reusability&#8221; turned from a best</p>
+        <p>The post <a href="https://thenewstack.io/the-react-component-pyramid-scheme-an-over-engineering-crisis/">The React Component Pyramid Scheme: An Over-Engineering Crisis</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![pyramids](https://cdn.thenewstack.io/media/2025/11/7552f648-getty-images-00hj4dtxkw0-unsplashb-1024x576.jpg)
+
+At some point, we stopped writing React components and started worshiping them. The mantra of “reusability” turned from a best
+
+The post [The React Component Pyramid Scheme: An Over-Engineering Crisis](https://thenewstack.io/the-react-component-pyramid-scheme-an-over-engineering-crisis/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22807149</guid>
+    </item>    <item>
+      <title>5 Engineering Skills to Prioritize in the AI-Driven Era</title>
+      <link>https://thenewstack.io/5-engineering-skills-to-prioritize-in-the-ai-driven-era/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/be12e8c8-problem-solving-1024x576.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Collage about problem solving: image of woman, brain, laptop, phones, squiggles." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/be12e8c8-problem-solving.jpeg" /><p>The field of software engineering is at a major turning point, the most pivotal point of change since the invention</p>
+        <p>The post <a href="https://thenewstack.io/5-engineering-skills-to-prioritize-in-the-ai-driven-era/">5 Engineering Skills to Prioritize in the AI-Driven Era</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Collage about problem solving: image of woman, brain, laptop, phones, squiggles.](https://cdn.thenewstack.io/media/2025/11/be12e8c8-problem-solving-1024x576.jpeg)
+
+The field of software engineering is at a major turning point, the most pivotal point of change since the invention
+
+The post [5 Engineering Skills to Prioritize in the AI-Driven Era](https://thenewstack.io/5-engineering-skills-to-prioritize-in-the-ai-driven-era/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22807067</guid>
+    </item>    <item>
+      <title>These Parasitic Ant Queens Found a Sneaky Way to Stage a Coup: Trick a Colony Into Killing its Mother</title>
+      <link>https://www.smithsonianmag.com/smart-news/these-parasitic-ant-queens-found-a-sneaky-way-to-stage-a-coup-trick-a-colony-into-killing-its-mother-180987707/</link>
+      <description>
+        <![CDATA[While ant queen violence is well-known, scientists recently documented the first evidence of parasite-induced matricide]]>
+      </description>
+      <source:markdown>While ant queen violence is well-known, scientists recently documented the first evidence of parasite-induced matricide</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/YdY1nrcEIVxlg2tRkwDaaiGQAck=/420x240/filters:focal(640x360:641x361)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e8/91/e8917d42-4b76-46e2-bfea-381df79f24ce/parasitic-ant-tricks-w.jpg" length="" type="" />
+    </item>    <item>
+      <title>Palo Alto kit sees massive surge in malicious activity amid mystery traffic flood</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/20/palo_alto_traffic_flood/</link>
+      <description>
+        <![CDATA[<h4>GlobalProtect login endpoints targeted, sparking concern that something bigger may be brewing</h4> <p>Malicious traffic targeting Palo Alto Networks&#39; GlobalProtect portals surged almost 40-fold in the space of 24 hours, hitting a 90-day high and putting defenders on alert for whatever comes next.…</p>]]>
+      </description>
+      <source:markdown>#### GlobalProtect login endpoints targeted, sparking concern that something bigger may be brewing
+
+Malicious traffic targeting Palo Alto Networks&#39; GlobalProtect portals surged almost 40-fold in the space of 24 hours, hitting a 90-day high and putting defenders on alert for whatever comes next.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243145</guid>
+    </item>    <item>
+      <title>Systemd 259 release candidate flexes musl support – with long list of caveats</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/20/rc_systemd_259/</link>
+      <description>
+        <![CDATA[<h4>PostmarketOS pushed for the change, but devs warn it may not last</h4> <p>Along with new functionality, systemd is broadening its distro support even further, which will surely delight members of the wider Linux community.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### PostmarketOS pushed for the change, but devs warn it may not last
+
+Along with new functionality, systemd is broadening its distro support even further, which will surely delight members of the wider Linux community.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243129</guid>
+    </item>    <item>
+      <title>Manchester hits snooze again on joining Palantir-run NHS data platform</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/20/manchester_nhs_fdp_deferred/</link>
+      <description>
+        <![CDATA[<h4>Care board still waiting for evidence that it will be in the best interests of the population</h4> <p>Greater Manchester Integrated Care Board (ICB) has again put off its adoption of an NHS data platform prescribed by the UK government and run by Palantir until there is more evidence that it will be in the &#34;best interests&#34; of the city&#39;s population.…</p>]]>
+      </description>
+      <source:markdown>#### Care board still waiting for evidence that it will be in the best interests of the population
+
+Greater Manchester Integrated Care Board (ICB) has again put off its adoption of an NHS data platform prescribed by the UK government and run by Palantir until there is more evidence that it will be in the &#34;best interests&#34; of the city&#39;s population.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243126</guid>
+    </item>    <item>
+      <title>Eleven years after Lenovo acquired IBM’s x86 server biz, profits are still elusive</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/20/lenovo_q2_2026/</link>
+      <description>
+        <![CDATA[<h4>PC sales are pushing upwards nicely, but AI PCs only account for a third of the new fleet</h4> <p>Lenovo has again said its enterprise hardware business is on the cusp of becoming consistently profitable, despite the division again posting a loss after massive revenue growth.…</p>]]>
+      </description>
+      <source:markdown>#### PC sales are pushing upwards nicely, but AI PCs only account for a third of the new fleet
+
+Lenovo has again said its enterprise hardware business is on the cusp of becoming consistently profitable, despite the division again posting a loss after massive revenue growth.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243139</guid>
+    </item>    <item>
+      <title>Palo Alto CEO tips nation-states to weaponize quantum computing by 2029</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/20/palo_alto_q1_2026/</link>
+      <description>
+        <![CDATA[<h4>Company thinks you’ll contemplate replacing most security kit in the next few years to stay safe</h4> <p>Palo Alto Networks CEO Nikesh Arora has suggested hostile nation-states will possess quantum computers in 2029, or even a little earlier, at which point most security appliances will need to be replaced.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Company thinks you’ll contemplate replacing most security kit in the next few years to stay safe
+
+Palo Alto Networks CEO Nikesh Arora has suggested hostile nation-states will possess quantum computers in 2029, or even a little earlier, at which point most security appliances will need to be replaced.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243138</guid>
+    </item>    <item>
+      <title>US, UK, Australia sanction Lockbit gang’s hosting provider</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/20/russian_bph_medialand_sanctioned/</link>
+      <description>
+        <![CDATA[<h4>‘Bulletproof’ hosts partly dodged the last attack of this sort</h4> <p>Cybercrime fighters in the US, UK, and Australia have imposed sanctions on several Russia-linked entities they claim provide hosting services to ransomware gangs Lockbit, BlackSuit, and Play.…</p>]]>
+      </description>
+      <source:markdown>#### ‘Bulletproof’ hosts partly dodged the last attack of this sort
+
+Cybercrime fighters in the US, UK, and Australia have imposed sanctions on several Russia-linked entities they claim provide hosting services to ransomware gangs Lockbit, BlackSuit, and Play.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243136</guid>
+    </item>    <item>
       <title>It&#39;s a good time to be the arms dealer for the AI boom</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/19/nvidia_earnings_q3_2025/</link>
       <description>
@@ -147,7 +241,7 @@ A pair of bipartisan senators wants to hold social media giants accountable for 
       <title>Hummingbird: Red Hat’s Answer to Alpine, Ubuntu Chiseled, Wolfi</title>
       <link>https://thenewstack.io/hummingbird-red-hats-answer-to-alpine-ubuntu-chiseled-wolfi/</link>
       <description>
-        <![CDATA[<img width="1024" height="689" src="https://cdn.thenewstack.io/media/2025/11/f7458409-getty-images-njrp-x3anjk-unsplash-1024x689.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/f7458409-getty-images-njrp-x3anjk-unsplash.jpg" /><p>Linux powerhouse &#160;has unveiled Project Hummingbird, a new initiative designed to accelerate cloud native development by delivering micro-sized container images</p>
+        <![CDATA[<img width="1024" height="689" src="https://cdn.thenewstack.io/media/2025/11/f7458409-getty-images-njrp-x3anjk-unsplash-1024x689.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/f7458409-getty-images-njrp-x3anjk-unsplash.jpg" /><p>Linux powerhouse &#160;has unveiled Project Hummingbird, a new initiative designed to accelerate cloud native development by delivering micro-sized container images</p>
         <p>The post <a href="https://thenewstack.io/hummingbird-red-hats-answer-to-alpine-ubuntu-chiseled-wolfi/">Hummingbird: Red Hat&#8217;s Answer to Alpine, Ubuntu Chiseled, Wolfi</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/f7458409-getty-images-njrp-x3anjk-unsplash-1024x689.jpg)
@@ -160,7 +254,7 @@ The post [Hummingbird: Red Hat’s Answer to Alpine, Ubuntu Chiseled, Wolfi](htt
       <title>Why Rushing AI Adoption Leads to Low-Quality ‘Workslop’</title>
       <link>https://thenewstack.io/why-rushing-ai-adoption-leads-to-low-quality-workslop/</link>
       <description>
-        <![CDATA[<img width="1024" height="681" src="https://cdn.thenewstack.io/media/2025/11/04aa5a63-pigs-1024x681.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Pigs in mud" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/04aa5a63-pigs.jpeg" /><p>New AI solutions continue to emerge, and models are steadily improving. Yet, despite the rapid pace of AI innovation, the</p>
+        <![CDATA[<img width="1024" height="681" src="https://cdn.thenewstack.io/media/2025/11/04aa5a63-pigs-1024x681.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Pigs in mud" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/04aa5a63-pigs.jpeg" /><p>New AI solutions continue to emerge, and models are steadily improving. Yet, despite the rapid pace of AI innovation, the</p>
         <p>The post <a href="https://thenewstack.io/why-rushing-ai-adoption-leads-to-low-quality-workslop/">Why Rushing AI Adoption Leads to Low-Quality &#8216;Workslop&#8217;</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![Pigs in mud](https://cdn.thenewstack.io/media/2025/11/04aa5a63-pigs-1024x681.jpeg)
@@ -405,11 +499,11 @@ Eugen Rochko, CEO and founder of decentralized social network Mastodon, is stepp
       <title>Commodity memory prices set to double as fabs pivot to AI market</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/19/commodity_memory_price_rise/</link>
       <description>
-        <![CDATA[<h4>Analysts warn LPDDR4 supply is tightening fast with shift to higher-end components</h4> <p>Memory prices could soon be double what they were earlier this year as chipmakers switch to advanced products to target the AI market, leaving a shortfall of more mature chips such as those meeting the LPDDR4 standard.…</p>]]>
+        <![CDATA[<h4>Analysts warn LPDDR4 supply is tightening fast with shift to higher-end components</h4> <p><strong>Updated</strong>  Memory prices could soon be double what they were earlier this year as chipmakers switch to advanced products to target the AI market, leaving a shortfall of more mature chips such as those meeting the LPDDR4 standard.…</p>]]>
       </description>
       <source:markdown>#### Analysts warn LPDDR4 supply is tightening fast with shift to higher-end components
 
-Memory prices could soon be double what they were earlier this year as chipmakers switch to advanced products to target the AI market, leaving a shortfall of more mature chips such as those meeting the LPDDR4 standard.…</source:markdown>
+**Updated**  Memory prices could soon be double what they were earlier this year as chipmakers switch to advanced products to target the AI market, leaving a shortfall of more mature chips such as those meeting the LPDDR4 standard.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243120</guid>
     </item>    <item>
       <title>6 Pillars for a Best in Class API Strategy</title>

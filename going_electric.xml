@@ -7,10 +7,53 @@
       Going Electric has feeds involving home and transportation options powered by Electricity
     </description>
     <link>https://rsdoiel.github.io/antenna/going_electric.xml</link>
-    <lastBuildDate>19 Nov 25 16:42 -0800</lastBuildDate>
+    <lastBuildDate>20 Nov 25 06:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Waymo&#39;s Driverless Taxis Are Going To Even More U.S. Cities. They&#39;ll Be Over 20 Soon</title>
+      <link>https://insideevs.com/news/779467/waymo-20-cities-robotaxi-expansion/</link>
+      <description>
+        <![CDATA[The Google-owned autonomous taxi service added Minneapolis, Tampa and New Orleans to its growth plans on Thursday.]]>
+      </description>
+      <source:markdown>The Google-owned autonomous taxi service added Minneapolis, Tampa and New Orleans to its growth plans on Thursday.</source:markdown>
+      <enclosure url="https://cdn.motor1.com/images/mgl/3Wm0OK/s3/waymo-hyundai-ioniq-5.jpg" length="22347" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/779467/waymo-20-cities-robotaxi-expansion/</guid>
+    </item>    <item>
+      <title>Pedego granted new life, getting bought by Hong Kong e-bike brand Urtopia</title>
+      <link>https://electrek.co/2025/11/20/pedego-gets-new-life-getting-bought-by-hong-kong-e-bike-brand-urtopia/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/pedego-cargo-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Pedego, one of the most recognizable names from the early days of American e-bike brands, is entering a new era. The company has been acquired by the “US-based” ownership group behind the Asian e-bike brand Urtopia, a relatively young, tech-forward electric bike brand known for carbon fiber e-bikes with built-in connectivity and smart features. The result is a newly formed New Pedego Holdings Inc., which both companies are pitching not as a takeover, but as a reboot designed to modernize Pedego and rebuild the dealer network that once made it a retail powerhouse.</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="444612" href="https://electrek.co/2025/11/20/pedego-gets-new-life-getting-bought-by-hong-kong-e-bike-brand-urtopia/#more-444612" class="more-link">more…</a>]]>
+      </description>
+      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2024/05/pedego-cargo-header.jpg?quality=82&#38;strip=all&#38;w=1600)
+
+Pedego, one of the most recognizable names from the early days of American e-bike brands, is entering a new era. The company has been acquired by the “US-based” ownership group behind the Asian e-bike brand Urtopia, a relatively young, tech-forward electric bike brand known for carbon fiber e-bikes with built-in connectivity and smart features. The result is a newly formed New Pedego Holdings Inc., which both companies are pitching not as a takeover, but as a reboot designed to modernize Pedego and rebuild the dealer network that once made it a retail powerhouse.
+
+ [more…](https://electrek.co/2025/11/20/pedego-gets-new-life-getting-bought-by-hong-kong-e-bike-brand-urtopia/#more-444612)</source:markdown>
+      <guid>cid://https://electrek.co/?p=444612</guid>
+    </item>    <item>
+      <title>The 2026 Ford E-Transit Gets A Few Improvements And A Price Bump</title>
+      <link>https://insideevs.com/news/779514/2026-ford-e-transit-interior-battery-charging-range/</link>
+      <description>
+        <![CDATA[Not much has changed on the outside, but the electric Transit van is now a little more modern inside. It’s also more expensive.]]>
+      </description>
+      <source:markdown>Not much has changed on the outside, but the electric Transit van is now a little more modern inside. It’s also more expensive.</source:markdown>
+      <enclosure url="https://cdn.motor1.com/images/mgl/nAgw2l/s3/2025-ford-e-transit.jpg" length="25958" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/779514/2026-ford-e-transit-interior-battery-charging-range/</guid>
+    </item>    <item>
+      <title>Car Subscription App Autonomy To Add Over 1,000 Polestar, Volvo EVs To Its Fleet</title>
+      <link>https://insideevs.com/news/779489/autonomy-car-subscription-app-volvo-polestar-tesla-fleet/</link>
+      <description>
+        <![CDATA[More Tesla Model 3 and Model Y EVs will also join the long-term rental fleet.]]>
+      </description>
+      <source:markdown>More Tesla Model 3 and Model Y EVs will also join the long-term rental fleet.</source:markdown>
+      <enclosure url="https://cdn.motor1.com/images/mgl/XBq2ke/s3/polestar-2.jpg" length="21845" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/779489/autonomy-car-subscription-app-volvo-polestar-tesla-fleet/</guid>
+    </item>    <item>
       <title>The EU Is Spending Big To Install Thousands More DC Fast Chargers</title>
       <link>https://insideevs.com/news/779413/eu-dc-fast-chargers-grant-2025/</link>
       <description>
@@ -395,7 +438,7 @@ For those brave enough to power through their gritted teeth and keep reading, le
       <enclosure url="https://cdn.motor1.com/images/mgl/ko6plY/s3/waymo-jaguar-i-pace.jpg" length="28584" type="image/jpeg" />
       <guid>cid://https://insideevs.com/news/779398/waymo-more-cities-us-2026/</guid>
     </item>    <item>
-      <title>Tesla Gets Approval To Launch Robotaxi Service In Arizona–Without Safety Monitors</title>
+      <title>Tesla Gets Approval To Launch Robotaxi Service In Arizona (Updated)</title>
       <link>https://insideevs.com/news/779371/tesla-robotaxi-permit-arizona/</link>
       <description>
         <![CDATA[The company received a ride-hailing permit from the state’s Department of Transportation, allowing it to offer paid rides.]]>
