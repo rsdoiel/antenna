@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>21 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>21 Nov 25 12:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Mr Roberts Goes to Hollywood, Part 1: A Digital Anvil</title>
+      <link>https://www.filfre.net/2025/11/mr-roberts-goes-to-hollywood-part-1-a-digital-anvil/</link>
+      <description>
+        <![CDATA[This article tells part of the story of Chris Roberts. What I&#8217;d really like to do is a game where you could travel from planet to planet &#8212; and there would be hundreds of planets &#8212; with full 3D action. You could go down and explore each planet in detail and interact with all sorts [&#8230;]]]>
+      </description>
+      <source:markdown>This article tells part of the story of Chris Roberts. What I’d really like to do is a game where you could travel from planet to planet — and there would be hundreds of planets — with full 3D action. You could go down and explore each planet in detail and interact with all sorts \[…\]</source:markdown>
+      <guid>cid://https://www.filfre.net/?p=6546</guid>
+    </item>    <item>
       <title>Fireside developer chat on saturday night</title>
       <link>http://www.iconbar.com/comments/rss/news2265.html</link>
       <description>

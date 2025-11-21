@@ -4,14 +4,222 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>21 Nov 25 06:11 -0800</lastBuildDate>
+    <lastBuildDate>21 Nov 25 12:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>What To Know Before Building Fluent Bit Plugins With Go</title>
+      <link>https://thenewstack.io/what-to-know-before-building-fluent-bit-plugins-with-go/</link>
+      <description>
+        <![CDATA[<img width="1024" height="682" src="https://cdn.thenewstack.io/media/2025/11/65e41250-birds-1024x682.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Birds taking off from water." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/65e41250-birds.jpeg" /><p>Editor&#8217;s note: The following article is an excerpt from the Manning book: &#8220;Fluent Bit with Kubernetes,&#8221; a practical guide on</p>
+        <p>The post <a href="https://thenewstack.io/what-to-know-before-building-fluent-bit-plugins-with-go/">What To Know Before Building Fluent Bit Plugins With Go</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Birds taking off from water.](https://cdn.thenewstack.io/media/2025/11/65e41250-birds-1024x682.jpeg)
+
+Editor’s note: The following article is an excerpt from the Manning book: “Fluent Bit with Kubernetes,” a practical guide on
+
+The post [What To Know Before Building Fluent Bit Plugins With Go](https://thenewstack.io/what-to-know-before-building-fluent-bit-plugins-with-go/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22807366</guid>
+    </item>    <item>
+      <title>A Frida Kahlo Painting Just Became the Most Expensive Work by a Female Artist Ever Auctioned</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-frida-kahlo-painting-just-became-the-most-expensive-work-by-a-female-artist-ever-auctioned-180987735/</link>
+      <description>
+        <![CDATA["The Dream (The Bed)," a self-portrait created in 1940, sold for $54.7 million. The previous record holder, Georgia O'Keeffe's "Jimson Weed/White Flower No. 1," went for $44.4 million in 2014]]>
+      </description>
+      <source:markdown>&#34;The Dream (The Bed),&#34; a self-portrait created in 1940, sold for $54.7 million. The previous record holder, Georgia O&#39;Keeffe&#39;s &#34;Jimson Weed/White Flower No. 1,&#34; went for $44.4 million in 2014</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Md3SelrL6TSgGgRwhsIfq5l0DoA=/420x240/filters:focal(2000x1352:2001x1353)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1c/32/1c320882-64f6-4c44-a61d-a85d263d25de/sothebys2025_1120_191831-0363_alive.jpeg" length="" type="" />
+    </item>    <item>
+      <title>ShinyHunters &#39;does not like Salesforce at all,&#39; claims the crew accessed Gainsight 3 months ago</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/21/shinyhunters_salesforce_gainsight_breach/</link>
+      <description>
+        <![CDATA[<h4>&#39;I have compromised other known OAuth apps,&#39; Shiny tells The Reg</h4> <p><strong>EXCLUSIVE</strong>  ShinyHunters has claimed responsibility for the Gainsight breach that allowed the data thieves to snarf data from hundreds more Salesforce customers.…</p>]]>
+      </description>
+      <source:markdown>#### &#39;I have compromised other known OAuth apps,&#39; Shiny tells The Reg
+
+**EXCLUSIVE**  ShinyHunters has claimed responsibility for the Gainsight breach that allowed the data thieves to snarf data from hundreds more Salesforce customers.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243188</guid>
+    </item>    <item>
+      <title>Makers slam Qualcomm for tightening the clamps on Arduino</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/21/adafruit_makers_unhappy_with_arduino/</link>
+      <description>
+        <![CDATA[<h4>But the Wiring folks were disenchanted even before Qualcomm swallowed Arduino</h4> <p>Qualcomm quietly rewrote the terms of service for its newest acquisition, programmable microcontroller and SBC maker Arduino, drawing intense fire from the maker community for grabbing additional rights to user-generated content on its platform and prohibiting reverse-engineering of what was once very open software.…</p>]]>
+      </description>
+      <source:markdown>#### But the Wiring folks were disenchanted even before Qualcomm swallowed Arduino
+
+Qualcomm quietly rewrote the terms of service for its newest acquisition, programmable microcontroller and SBC maker Arduino, drawing intense fire from the maker community for grabbing additional rights to user-generated content on its platform and prohibiting reverse-engineering of what was once very open software.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243187</guid>
+    </item>    <item>
+      <title>Urban Raccoons Are Showing Signs of Early Domestication, With Shorter Snouts Than Their Rural Cousins</title>
+      <link>https://www.smithsonianmag.com/smart-news/urban-raccoons-are-showing-signs-of-early-domestication-with-shorter-snouts-than-their-rural-cousins-180987729/</link>
+      <description>
+        <![CDATA[The shorter faces of these city-dwelling trash bandits offer a telltale sign of domestication and line up with a leading hypothesis about animals that adapt to human-dominated environments, according to a new study]]>
+      </description>
+      <source:markdown>The shorter faces of these city-dwelling trash bandits offer a telltale sign of domestication and line up with a leading hypothesis about animals that adapt to human-dominated environments, according to a new study</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/g6jfnIYcuXCuk1mn4VinQda7OZU=/420x240/filters:focal(1024x683:1025x684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/89/c8/89c88817-0f5a-4379-91f5-78cdc5f6c1d9/54307050509_672c246427_k.jpg" length="" type="" />
+    </item>    <item>
+      <title>Is Spec-Driven Development Key for Infrastructure Automation?</title>
+      <link>https://thenewstack.io/is-spec-driven-development-key-for-infrastructure-automation/</link>
+      <description>
+        <![CDATA[<img width="1024" height="508" src="https://cdn.thenewstack.io/media/2025/11/dcfbd784-desktop_spec_driven_development__4x-1024x508.webp" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Spec-driven development" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/dcfbd784-desktop_spec_driven_development__4x-scaled.webp" /><p>Since GitHub Universe and the announcement of GitHub Spec Kit, spec-driven development (SDD) has taken the dev world by storm.</p>
+        <p>The post <a href="https://thenewstack.io/is-spec-driven-development-key-for-infrastructure-automation/">Is Spec-Driven Development Key for Infrastructure Automation?</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Spec-driven development](https://cdn.thenewstack.io/media/2025/11/dcfbd784-desktop_spec_driven_development__4x-1024x508.webp)
+
+Since GitHub Universe and the announcement of GitHub Spec Kit, spec-driven development (SDD) has taken the dev world by storm.
+
+The post [Is Spec-Driven Development Key for Infrastructure Automation?](https://thenewstack.io/is-spec-driven-development-key-for-infrastructure-automation/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22807308</guid>
+    </item>    <item>
+      <title>10 Years of Students Helping NASA Grow Space Food with Growing Beyond Earth</title>
+      <link>https://science.nasa.gov/learning-resources/science-activation/10-years-of-students-helping-nasa-grow-space-food-with-growing-beyond-earth/</link>
+      <description>
+        <![CDATA[Nearly 1,250 middle and high school students from 71 schools around the world joined Fairchild Tropical Botanic Garden for the Growing Beyond Earth (GBE) Student Launch Chat with the Scientists, marking an inspiring milestone in the program’s 10th anniversary year. The live session, held in collaboration with NASA, connected classrooms directly with Dr. Gioia Massa […]]]>
+      </description>
+      <source:markdown>Nearly 1,250 middle and high school students from 71 schools around the world joined Fairchild Tropical Botanic Garden for the Growing Beyond Earth (GBE) Student Launch Chat with the Scientists, marking an inspiring milestone in the program’s 10th anniversary year. The live session, held in collaboration with NASA, connected classrooms directly with Dr. Gioia Massa \[…\]</source:markdown>
+    </item>    <item>
+      <title>More Than a Dozen NASA Spacecraft Have Laid Eyes on Interstellar Comet 3I/ATLAS. Now, You Can View New Images That They Captured</title>
+      <link>https://www.smithsonianmag.com/smart-news/more-than-a-dozen-nasa-spacecraft-have-laid-eyes-on-interstellar-comet-3iatlas-now-you-can-view-new-images-that-they-captured-180987725/</link>
+      <description>
+        <![CDATA[The space agency got a close look at the interstellar visitor over the past few months as it zipped by Mars and the sun]]>
+      </description>
+      <source:markdown>The space agency got a close look at the interstellar visitor over the past few months as it zipped by Mars and the sun</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/GCUNtCJ-_m3uFD0iEr-fDrXtjxk=/420x240/filters:focal(415x344:416x345)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3d/9d/3d9d1a24-42b8-47e4-b3c1-ca777f527ddf/mro_hirise-clean_final.jpeg" length="" type="" />
+    </item>    <item>
+      <title>These Bach Compositions Were Lost to History. They Were Just Performed for the First Time in 300 Years—and You Can Listen to Them</title>
+      <link>https://www.smithsonianmag.com/smart-news/these-bach-compositions-were-lost-to-history-they-were-just-performed-for-the-first-time-in-300-years-and-you-can-listen-to-them-180987727/</link>
+      <description>
+        <![CDATA[After discovering the two pieces in the 1990s, researchers have finally concluded that they were created by the famous German composer. An organist performed them for audiences on November 17]]>
+      </description>
+      <source:markdown>After discovering the two pieces in the 1990s, researchers have finally concluded that they were created by the famous German composer. An organist performed them for audiences on November 17</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/hzIDFBgVuI55Bqeumo7ra8_TdPE=/420x240/filters:focal(644x429:645x430)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/41/ac/41acc9fe-dd09-4af4-9a59-a9dea0668f7f/585354957_1288709326616785_2109774569865603218_n_1.jpeg" length="" type="" />
+    </item>    <item>
+      <title>When AI Starts Seeing and Hearing, IT Must Start Rethinking</title>
+      <link>https://thenewstack.io/when-ai-starts-seeing-and-hearing-it-must-start-rethinking/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/f4243816-sound1-1024x576.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Collage of sound images" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/f4243816-sound1.jpeg" /><p>In 2026, enterprises will find themselves navigating a seismic shift in AI. Gone are the days when text-only models ruled</p>
+        <p>The post <a href="https://thenewstack.io/when-ai-starts-seeing-and-hearing-it-must-start-rethinking/">When AI Starts Seeing and Hearing, IT Must Start Rethinking</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Collage of sound images](https://cdn.thenewstack.io/media/2025/11/f4243816-sound1-1024x576.jpeg)
+
+In 2026, enterprises will find themselves navigating a seismic shift in AI. Gone are the days when text-only models ruled
+
+The post [When AI Starts Seeing and Hearing, IT Must Start Rethinking](https://thenewstack.io/when-ai-starts-seeing-and-hearing-it-must-start-rethinking/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806953</guid>
+    </item>    <item>
+      <title>Pentagon pumps $29.9M into bid to turn waste into critical minerals</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/21/dod_elementusa_award/</link>
+      <description>
+        <![CDATA[<h4>It&#39;s unclear how much scandium and gallium ElementUSA will contribute to the supply chain, or when</h4> <p>The US Department of Defense is asserting its desire to be an integral part of the American rare earths and critical minerals supply chain with a deal to establish a domestic pipeline of gallium and scandium production.…</p>]]>
+      </description>
+      <source:markdown>#### It&#39;s unclear how much scandium and gallium ElementUSA will contribute to the supply chain, or when
+
+The US Department of Defense is asserting its desire to be an integral part of the American rare earths and critical minerals supply chain with a deal to establish a domestic pipeline of gallium and scandium production.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243186</guid>
+    </item>    <item>
+      <title>Hubble Captures Puzzling Galaxy</title>
+      <link>https://www.nasa.gov/image-article/hubble-captures-puzzling-galaxy/</link>
+      <description>
+        <![CDATA[This NASA/ESA&#160;Hubble Space Telescope&#160;image features a galaxy that’s hard to categorize. The galaxy in question is NGC 2775, which lies 67 million light-years away in the constellation Cancer (the Crab). NGC 2775 sports a smooth, featureless center that is devoid of gas, resembling an elliptical galaxy. It also has a dusty ring with patchy star [&#8230;]]]>
+      </description>
+      <source:markdown>This NASA/ESA Hubble Space Telescope image features a galaxy that’s hard to categorize. The galaxy in question is NGC 2775, which lies 67 million light-years away in the constellation Cancer (the Crab). NGC 2775 sports a smooth, featureless center that is devoid of gas, resembling an elliptical galaxy. It also has a dusty ring with patchy star \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=929435</guid>
+    </item>    <item>
+      <title>Big Red borrows a lot of green, hopes AI will put it in the black</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/21/oracle_ai_adventures/</link>
+      <description>
+        <![CDATA[<h4>Cost of insuring against Oracle debt default spikes as September seems a long time ago</h4> <p><strong>opinion</strong>  The weather&#39;s cooling, and so is Wall Street&#39;s patience with Oracle&#39;s AI makeover. Big Red is spending big, and the risk metrics aren&#39;t looking cozy.…</p>]]>
+      </description>
+      <source:markdown>#### Cost of insuring against Oracle debt default spikes as September seems a long time ago
+
+**opinion**  The weather&#39;s cooling, and so is Wall Street&#39;s patience with Oracle&#39;s AI makeover. Big Red is spending big, and the risk metrics aren&#39;t looking cozy.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243184</guid>
+    </item>    <item>
+      <title>Rhyme is the key to set AIs free when verse outsmarts security</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/21/poetry_llm_guardrails/</link>
+      <description>
+        <![CDATA[<h4>Poetry proves potent jailbreak tool for today&#39;s top models</h4> <p>Are you a wizard with words? Do you like money without caring how you get it? You could be in luck now that a new role in cybercrime appears to have opened up – poetic LLM jailbreaking.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Poetry proves potent jailbreak tool for today&#39;s top models
+
+Are you a wizard with words? Do you like money without caring how you get it? You could be in luck now that a new role in cybercrime appears to have opened up – poetic LLM jailbreaking.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243183</guid>
+    </item>    <item>
+      <title>Why Load Tests Lie: Harsh Truth About AI Agent Performance</title>
+      <link>https://thenewstack.io/why-load-tests-lie-harsh-truth-about-ai-agent-performance/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/f6257182-truth-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Speeding train with street sign pointing the way to truth." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/f6257182-truth.jpg" /><p>Picture this: Your team just ran load tests with 10,000 concurrent users hammering your shiny new AI-powered customer service platform.</p>
+        <p>The post <a href="https://thenewstack.io/why-load-tests-lie-harsh-truth-about-ai-agent-performance/">Why Load Tests Lie: Harsh Truth About AI Agent Performance</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Speeding train with street sign pointing the way to truth.](https://cdn.thenewstack.io/media/2025/11/f6257182-truth-1024x576.jpg)
+
+Picture this: Your team just ran load tests with 10,000 concurrent users hammering your shiny new AI-powered customer service platform.
+
+The post [Why Load Tests Lie: Harsh Truth About AI Agent Performance](https://thenewstack.io/why-load-tests-lie-harsh-truth-about-ai-agent-performance/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806535</guid>
+    </item>    <item>
+      <title>A New Bridge Links the Strange Math of Infinity to Computer Science</title>
+      <link>https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/</link>
+      <description>
+        <![CDATA[Descriptive set theorists study the niche mathematics of infinity. Now, they’ve shown that their problems can be rewritten in the concrete language of algorithms.            <p>The post <a href="https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/" target="_blank">A New Bridge Links the Strange Math of Infinity to Computer Science</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Descriptive set theorists study the niche mathematics of infinity. Now, they’ve shown that their problems can be rewritten in the concrete language of algorithms.
+
+The post [A New Bridge Links the Strange Math of Infinity to Computer Science](https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=156762</guid>
+    </item>    <item>
+      <title>Google&#39;s AI is eating your email by default. Here&#39;s how to shut its mouth</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/21/google_workspace_smart_features/</link>
+      <description>
+        <![CDATA[<h4>Want out of those new &#39;smart features&#39;? We’ve got you covered</h4> <p>Google&#39;s &#34;don&#39;t be evil&#34; ethos is so 2015. These days, the Chocolate Factory is all about integrating users with bots, whether they like it or not. Now, it&#39;s rolling out Workspace &#34;smart features&#34; that process personal content with AI, and many users are finding the settings enabled by default.…</p>]]>
+      </description>
+      <source:markdown>#### Want out of those new &#39;smart features&#39;? We’ve got you covered
+
+Google&#39;s &#34;don&#39;t be evil&#34; ethos is so 2015. These days, the Chocolate Factory is all about integrating users with bots, whether they like it or not. Now, it&#39;s rolling out Workspace &#34;smart features&#34; that process personal content with AI, and many users are finding the settings enabled by default.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243181</guid>
+    </item>    <item>
+      <title>What is BioSentinel?</title>
+      <link>https://www.nasa.gov/centers-and-facilities/ames/what-is-biosentinel/</link>
+      <description>
+        <![CDATA[Editor’s Note: This article was updated Nov. 21, 2025 shortly after BioSentinel&#8217;s mission marked three years of operation in deep space. Astronauts live in a pretty extreme environment aboard the&#160;International Space Station. Orbiting about 250 miles above the Earth in the weightlessness of microgravity, they rely on&#160;commercial cargo missions&#160;about every two months to deliver new [&#8230;]]]>
+      </description>
+      <source:markdown>Editor’s Note: This article was updated Nov. 21, 2025 shortly after BioSentinel’s mission marked three years of operation in deep space. Astronauts live in a pretty extreme environment aboard the International Space Station. Orbiting about 250 miles above the Earth in the weightlessness of microgravity, they rely on commercial cargo missions about every two months to deliver new \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?migration=converted-node-437890</guid>
+    </item>    <item>
+      <title>Taking Your Observability Strategy to the Next Level</title>
+      <link>https://thenewstack.io/taking-your-observability-strategy-to-the-next-level/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/1d96e48b-landscape-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Person on a cliff looking out over clouds below." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/1d96e48b-landscape.jpg" /><p>Observability strategy is a tricky concept. Everyone wants to talk about it, but nobody can agree on how they&#8217;re talking</p>
+        <p>The post <a href="https://thenewstack.io/taking-your-observability-strategy-to-the-next-level/">Taking Your Observability Strategy to the Next Level</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Person on a cliff looking out over clouds below.](https://cdn.thenewstack.io/media/2025/11/1d96e48b-landscape-1024x576.jpg)
+
+Observability strategy is a tricky concept. Everyone wants to talk about it, but nobody can agree on how they’re talking
+
+The post [Taking Your Observability Strategy to the Next Level](https://thenewstack.io/taking-your-observability-strategy-to-the-next-level/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22807295</guid>
+    </item>    <item>
+      <title>25 Years of Scientific Discovery Aboard the International Space Station</title>
+      <link>https://www.nasa.gov/missions/station/iss-research/25-year-of-scientific-discovery-aboard-international-space-station/</link>
+      <description>
+        <![CDATA[November marks 25 years of human presence aboard the International Space Station, a testament to international collaboration and human ingenuity. Since the first crew arrived on Nov. 2, 2000, NASA and its partners have conducted thousands of research investigations and technology demonstrations to advance exploration of the Moon and Mars and benefit life on Earth. [&#8230;]]]>
+      </description>
+      <source:markdown>November marks 25 years of human presence aboard the International Space Station, a testament to international collaboration and human ingenuity. Since the first crew arrived on Nov. 2, 2000, NASA and its partners have conducted thousands of research investigations and technology demonstrations to advance exploration of the Moon and Mars and benefit life on Earth. \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=928948</guid>
+    </item>    <item>
+      <title>SpaceX loses debut V3 Super Heavy in ground test mishap</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/21/spacex_super_heavy_mishap/</link>
+      <description>
+        <![CDATA[<h4>Redesigned booster ruptures during early checks, delaying latest Starship iteration</h4> <p>SpaceX has responded to Blue Origin&#39;s announcement of a heftier version of its New Glenn rocket in the only way it knows how – by accidentally destroying a Starship booster.…</p>]]>
+      </description>
+      <source:markdown>#### Redesigned booster ruptures during early checks, delaying latest Starship iteration
+
+SpaceX has responded to Blue Origin&#39;s announcement of a heftier version of its New Glenn rocket in the only way it knows how – by accidentally destroying a Starship booster.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243180</guid>
+    </item>    <item>
       <title>Tutorial: Implement a Nginx Gateway Fabric as an Alternative to Ingress</title>
       <link>https://thenewstack.io/tutorial-implement-a-nginx-gateway-fabric-as-an-alternative-to-ingress/</link>
       <description>
-        <![CDATA[<img width="1024" height="679" src="https://cdn.thenewstack.io/media/2025/11/9466f8ec-alexey-taktarov-_a6erb7nlfg-unsplash-1-1024x679.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/9466f8ec-alexey-taktarov-_a6erb7nlfg-unsplash-1.jpg" /><p>The Kubernetes ecosystem is undergoing a fundamental shift in how it manages external traffic. On Nov. 12, 2025, Kubernetes announced</p>
+        <![CDATA[<img width="1024" height="679" src="https://cdn.thenewstack.io/media/2025/11/9466f8ec-alexey-taktarov-_a6erb7nlfg-unsplash-1-1024x679.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/9466f8ec-alexey-taktarov-_a6erb7nlfg-unsplash-1.jpg" /><p>The Kubernetes ecosystem is undergoing a fundamental shift in how it manages external traffic. On Nov. 12, 2025, Kubernetes announced</p>
         <p>The post <a href="https://thenewstack.io/tutorial-implement-a-nginx-gateway-fabric-as-an-alternative-to-ingress/">Tutorial: Implement a Nginx Gateway Fabric as an Alternative to Ingress</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/9466f8ec-alexey-taktarov-_a6erb7nlfg-unsplash-1-1024x679.jpg)
@@ -57,11 +265,11 @@ Microsoft developer boss Scott Hanselman saved the company&#39;s Ignite shindig 
       <title>Magician forgets password to his own hand after RFID chip implant</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/21/magician_password_hand_rfid/</link>
       <description>
-        <![CDATA[<h4>Storing credentials safely and securely is the real trick</h4> <p>It&#39;s important to have your login in hand, literally. Zi Teng Wang, a UK magician who implanted an RFID chip in his appendage, has admitted losing access to it because he forgot the password.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+        <![CDATA[<h4>Storing credentials safely and securely is the real trick</h4> <p>It&#39;s important to have your login in hand, literally. Zi Teng Wang, a magician who implanted an RFID chip in his appendage, has admitted losing access to it because he forgot the password.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
       <source:markdown>#### Storing credentials safely and securely is the real trick
 
-It&#39;s important to have your login in hand, literally. Zi Teng Wang, a UK magician who implanted an RFID chip in his appendage, has admitted losing access to it because he forgot the password.…</source:markdown>
+It&#39;s important to have your login in hand, literally. Zi Teng Wang, a magician who implanted an RFID chip in his appendage, has admitted losing access to it because he forgot the password.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243178</guid>
     </item>    <item>
       <title>Russia-linked crooks bought a bank for Christmas to launder cyber loot</title>
@@ -671,6 +879,17 @@ The post [5 Engineering Skills to Prioritize in the AI-Driven Era](https://thene
       </description>
       <source:markdown>While ant queen violence is well-known, scientists recently documented the first evidence of parasite-induced matricide</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/YdY1nrcEIVxlg2tRkwDaaiGQAck=/420x240/filters:focal(640x360:641x361)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e8/91/e8917d42-4b76-46e2-bfea-381df79f24ce/parasitic-ant-tricks-w.jpg" length="" type="" />
+    </item>    <item>
+      <title>Thunderbird Pro November 2025 Update</title>
+      <link>https://blog.thunderbird.net/2025/11/thunderbird-pro-november-2025-update/</link>
+      <description>
+        <![CDATA[<p>Welcome back to the latest update on our progress with Thunderbird Pro, a set of additional subscription services designed to enhance the email client you know, while providing a powerful open-source alternative to many of the big tech offerings available today. These services include Appointment, an easy to use scheduling tool; Send, which offers end-to-end [&#8230;]</p>
+        <p>The post <a href="https://blog.thunderbird.net/2025/11/thunderbird-pro-november-2025-update/">Thunderbird Pro November 2025 Update</a> appeared first on <a href="https://blog.thunderbird.net">The Thunderbird Blog</a>.</p>]]>
+      </description>
+      <source:markdown>Welcome back to the latest update on our progress with Thunderbird Pro, a set of additional subscription services designed to enhance the email client you know, while providing a powerful open-source alternative to many of the big tech offerings available today. These services include Appointment, an easy to use scheduling tool; Send, which offers end-to-end \[…\]
+
+The post [Thunderbird Pro November 2025 Update](https://blog.thunderbird.net/2025/11/thunderbird-pro-november-2025-update/) appeared first on [The Thunderbird Blog](https://blog.thunderbird.net).</source:markdown>
+      <guid>cid://https://blog.thunderbird.net/?p=4106</guid>
     </item>    <item>
       <title>Palo Alto kit sees massive surge in malicious activity amid mystery traffic flood</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/20/palo_alto_traffic_flood/</link>
@@ -1579,6 +1798,17 @@ The post [How Azure Copilot’s New Agents Automate DevOps and SecOps](https://t
       </description>
       <source:markdown>Crews lowered 22 concrete cars to the ocean floor to create &#34;Concrete Coral,&#34; an installation by artist Leandro Erlich. The piece is the first phase of a project called REEFLINE</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/G8NX5MsEYpWlP8KKA8FGAzZgs_o=/420x240/filters:focal(1920x1097:1921x1098)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/74/dc/74dc4232-caa2-404a-af61-88d714b0e8f6/concretecoral_courtesy_brittany_weber_britmeh.jpg" length="" type="" />
+    </item>    <item>
+      <title>Thunderbird Adds Native Microsoft Exchange Email Support</title>
+      <link>https://blog.thunderbird.net/2025/11/thunderbird-adds-native-microsoft-exchange-email-support/</link>
+      <description>
+        <![CDATA[<p>If your organization uses Microsoft Exchange-based email, you’ll be happy to hear that Thunderbird’s latest monthly Release version 145, now officially supports native access via the Exchange Web Services (EWS) protocol. With EWS now built directly into Thunderbird, a third-party add-on is no longer required for email functionality. Calendar and address book support for Exchange [&#8230;]</p>
+        <p>The post <a href="https://blog.thunderbird.net/2025/11/thunderbird-adds-native-microsoft-exchange-email-support/">Thunderbird Adds Native Microsoft Exchange Email Support</a> appeared first on <a href="https://blog.thunderbird.net">The Thunderbird Blog</a>.</p>]]>
+      </description>
+      <source:markdown>If your organization uses Microsoft Exchange-based email, you’ll be happy to hear that Thunderbird’s latest monthly Release version 145, now officially supports native access via the Exchange Web Services (EWS) protocol. With EWS now built directly into Thunderbird, a third-party add-on is no longer required for email functionality. Calendar and address book support for Exchange \[…\]
+
+The post [Thunderbird Adds Native Microsoft Exchange Email Support](https://blog.thunderbird.net/2025/11/thunderbird-adds-native-microsoft-exchange-email-support/) appeared first on [The Thunderbird Blog](https://blog.thunderbird.net).</source:markdown>
+      <guid>cid://https://blog.thunderbird.net/?p=4086</guid>
     </item>    <item>
       <title>Scientists Extract the Oldest RNA Ever Found, Revealing How a Woolly Mammoth’s Genes May Have Functioned 40,000 Years Ago</title>
       <link>https://www.smithsonianmag.com/smart-news/Scientists-Extract-the-Oldest-RNA-Ever-Found-Revealing-How-a-Woolly-Mammoths-Genes-May-Have-Functioned-40000-Years-Ago-180987701/</link>
@@ -2661,6 +2891,17 @@ When we first began integrating AI agents into enterprise environments, I expect
 
 The post [AI Agents in Legacy Systems — The Problem No One Talks About](https://thenewstack.io/ai-agents-in-legacy-systems-the-problem-no-one-talks-about/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
       <guid>cid://https://thenewstack.io/?p=22806157</guid>
+    </item>    <item>
+      <title>VIDEO: An Android Retrospective</title>
+      <link>https://blog.thunderbird.net/2025/11/video-an-android-retrospective/</link>
+      <description>
+        <![CDATA[<p>If you can believe it, Thunderbird for Android has been out for just over a year! In this episode of our Community Office Hours, Heather and Monica check back in with the mobile team after our chat with them back in January. Sr. Software Engineer Wolf Montwé and our new Manager of Mobile Apps, Jon [&#8230;]</p>
+        <p>The post <a href="https://blog.thunderbird.net/2025/11/video-an-android-retrospective/">VIDEO: An Android Retrospective</a> appeared first on <a href="https://blog.thunderbird.net">The Thunderbird Blog</a>.</p>]]>
+      </description>
+      <source:markdown>If you can believe it, Thunderbird for Android has been out for just over a year! In this episode of our Community Office Hours, Heather and Monica check back in with the mobile team after our chat with them back in January. Sr. Software Engineer Wolf Montwé and our new Manager of Mobile Apps, Jon \[…\]
+
+The post [VIDEO: An Android Retrospective](https://blog.thunderbird.net/2025/11/video-an-android-retrospective/) appeared first on [The Thunderbird Blog](https://blog.thunderbird.net).</source:markdown>
+      <guid>cid://https://blog.thunderbird.net/?p=4076</guid>
     </item>    <item>
       <title>E-Mobilität: Bundestag macht Weg frei für bidirektionales Laden</title>
       <link>https://www.heise.de/news/E-Mobilitaet-Bundestag-macht-Weg-frei-fuer-bidirektionales-Laden-11079565.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>

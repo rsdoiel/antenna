@@ -4,10 +4,26 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>21 Nov 25 06:10 -0800</lastBuildDate>
+    <lastBuildDate>21 Nov 25 12:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>La Bamba suena más fuerte que nunca en CSUN</title>
+      <link>https://sundial.csun.edu/200522/featured/la-bamba-suena-mas-fuerte-que-nunca-en-csun/</link>
+      <description>
+        <![CDATA[La emblemática película La Bamba hizo vibrar al público la noche del martes 18 de noviembre, durante una proyección especial en el Teatro Armer, ubicado en Manzanita Hall de CSUN....]]>
+      </description>
+      <source:markdown>La emblemática película La Bamba hizo vibrar al público la noche del martes 18 de noviembre, durante una proyección especial en el Teatro Armer, ubicado en Manzanita Hall de CSUN....</source:markdown>
+      <guid>cid://https://sundial.csun.edu/?p=200522</guid>
+    </item>    <item>
+      <title>New and upcoming November book releases</title>
+      <link>https://sundial.csun.edu/200518/arts-entertainment/new-and-upcoming-november-book-releases/</link>
+      <description>
+        <![CDATA[Check out something new or stick to a genre you love from these new titles releasing in November. This list explores books from a variety of genres, including fantasy, romance...]]>
+      </description>
+      <source:markdown>Check out something new or stick to a genre you love from these new titles releasing in November. This list explores books from a variety of genres, including fantasy, romance...</source:markdown>
+      <guid>cid://https://sundial.csun.edu/?p=200518</guid>
+    </item>    <item>
       <title>Librería le trae libros bilingües a comunidad latina</title>
       <link>https://dailytrojan.com/2025/11/21/libreria-le-trae-libros-bilingues-a-comunidad-latina-2/</link>
       <description>

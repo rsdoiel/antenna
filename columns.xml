@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>21 Nov 25 06:10 -0800</lastBuildDate>
+    <lastBuildDate>21 Nov 25 12:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -141,6 +141,207 @@ As always, do give this release a try and open a [ticket](https://gitlab.haskell
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
     </item>    <item>
+      <link>https://blog.mozilla.org/en/mozilla/rewiring-mozilla-ai-and-web/</link>
+      <description>
+        <![CDATA[<p>I beg to differ. The reason Mozilla replaced MSIE to the extent that it did is that Microsoft wasn’t doing anything about the malware that came in through their browser.</p>]]>
+      </description>
+      <source:markdown>I beg to differ. The reason Mozilla replaced MSIE to the extent that it did is that Microsoft wasn’t doing anything about the malware that came in through their browser.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/21/1970/</guid>
+    </item>    <item>
+      <title>More on Rewiring Democracy</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/71226.html</link>
+      <description>
+        <![CDATA[<p>It&#8217;s been a month since <a href="https://www.schneier.com/books/rewiring-democracy/"><i>Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship</i></a> was published. From what we know, sales are good.</p>
+        <p>Some of the book&#8217;s forty-three chapters are available online: chapters <a href="https://time.com/7331883/how-ai-will-transform-democracy/">2</a>,  <a href="https://pghrev.com/being-a-politician/">12</a>, <a href="https://thepreamble.com/p/rewiring-democracy">28</a>, <a href="https://newpublic.substack.com/p/2ddffc17-a033-4f98-83fa-11376b30c6cd">34</a>, <a href="https://ai-frontiers.org/articles/ai-will-be-your-personal-political-proxy">38</a>, and <a href="https://builtin.com/articles/principles-ai-democracy">41</a>.</p>
+        <p>We need more reviews&#8212;six on Amazon is <a href="https://www.amazon.com/Rewiring-Democracy-Transform-Government-Citizenship/dp/0262049945">not enough</a>, and no one has yet posted a viral TikTok review. One review was <a href="https://www.nature.com/articles/d41586-025-03718-w">published</a> in <i>Nature</i> and another on the RSA Conference <a href="https://www.rsaconference.com/library/blog/bens-book-of-the-month-rewiring-democracy">website</a>, but more would be better. If you&#8217;ve read the book, please leave a review somewhere.</p>
+        <p>My coauthor and I have been doing all sort of book events, both online and in person. This ...</p>]]>
+      </description>
+      <source:markdown>It’s been a month since [_Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship_](https://www.schneier.com/books/rewiring-democracy/) was published. From what we know, sales are good.
+
+Some of the book’s forty-three chapters are available online: chapters [2](https://time.com/7331883/how-ai-will-transform-democracy/), [12](https://pghrev.com/being-a-politician/), [28](https://thepreamble.com/p/rewiring-democracy), [34](https://newpublic.substack.com/p/2ddffc17-a033-4f98-83fa-11376b30c6cd), [38](https://ai-frontiers.org/articles/ai-will-be-your-personal-political-proxy), and [41](https://builtin.com/articles/principles-ai-democracy).
+
+We need more reviews—six on Amazon is [not enough](https://www.amazon.com/Rewiring-Democracy-Transform-Government-Citizenship/dp/0262049945), and no one has yet posted a viral TikTok review. One review was [published](https://www.nature.com/articles/d41586-025-03718-w) in _Nature_ and another on the RSA Conference [website](https://www.rsaconference.com/library/blog/bens-book-of-the-month-rewiring-democracy), but more would be better. If you’ve read the book, please leave a review somewhere.
+
+My coauthor and I have been doing all sort of book events, both online and in person. This ...</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=71226</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m65wduyxkc2m</link>
+      <description>
+        <![CDATA[There are real serious costs to the AI enthusiast who don't want to actually write software but have it written for them. 
+        
+        Here's a good example of the problem experience by the OCaml folks. 
+        
+        https://alexschroeder.ch/view/2025-11-21-ai-code]]>
+      </description>
+      <source:markdown>There are real serious costs to the AI enthusiast who don&#39;t want to actually write software but have it written for them.
+
+Here&#39;s a good example of the problem experience by the OCaml folks.
+
+https://alexschroeder.ch/view/2025-11-21-ai-code</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m65wduyxkc2m</guid>
+    </item>    <item>
+      <link>https://github.com/scotthansonde/wordlandBaseline/issues/42#issuecomment-3564022243</link>
+      <description>
+        <![CDATA[<p>rssCloud pings emanating from self-hosted WordPress site.</p>]]>
+      </description>
+      <source:markdown>rssCloud pings emanating from self-hosted WordPress site.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/21/1966/</guid>
+    </item>    <item>
+      <title>This week’s news in Venn diagrams.</title>
+      <link>https://lithub.com/this-weeks-news-in-venn-diagrams-nov-21/</link>
+      <description>
+        <![CDATA[With our &#8220;What was Literary Twitter?&#8221; bracket (don&#8217;t forget to vote!) and the National Book Awards happening all in the same week, I&#8217;ve been very sleepy lately. Please send any tips on waking up that aren&#8217;t &#8220;coffee&#8221; or &#8220;saying &#8216;come]]>
+      </description>
+      <source:markdown>With our “What was Literary Twitter?” bracket (don’t forget to vote!) and the National Book Awards happening all in the same week, I’ve been very sleepy lately. Please send any tips on waking up that aren’t “coffee” or “saying ‘come</source:markdown>
+      <guid>cid://https://lithub.com/?p=263235</guid>
+    </item>    <item>
+      <title>Here’s what’s making us happy  this  week.</title>
+      <link>https://lithub.com/heres-whats-making-us-happy-this-week-nov21/</link>
+      <description>
+        <![CDATA[Such a lot, readers! Forget your troubles, and come on over to Lit Hub! A lot of the gang got together IRL this week, thanks to the National Book Awards. Emily Temple is thrilled to confirm that several colleagues previously]]>
+      </description>
+      <source:markdown>Such a lot, readers! Forget your troubles, and come on over to Lit Hub! A lot of the gang got together IRL this week, thanks to the National Book Awards. Emily Temple is thrilled to confirm that several colleagues previously</source:markdown>
+      <guid>cid://https://lithub.com/?p=263233</guid>
+    </item>    <item>
+      <title>The Coward’s Bargain: How “Realism” Became a Doctrine of Submission</title>
+      <link>https://www.notesfromthecircus.com/p/the-cowards-bargain-how-realism-became</link>
+      <description>
+        <![CDATA[On Trump's "Peace Deal".]]>
+      </description>
+      <source:markdown>On Trump&#39;s &#34;Peace Deal&#34;.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Cl4-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa56714cb-04d6-438c-8427-76fa0f1eae8b_3900x2600.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/the-cowards-bargain-how-realism-became</guid>
+    </item>    <item>
+      <title>We should all be using dependency cooldowns</title>
+      <link>https://simonwillison.net/2025/Nov/21/dependency-cooldowns/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns">We should all be using dependency cooldowns</a></strong></p>
+        William Woodruff gives a name to a sensible strategy for managing dependencies while reducing the chances of a surprise supply chain attack: <strong>dependency cooldowns</strong>.</p>
+        <p>Supply chain attacks happen when an attacker compromises a widely used open source package and publishes a new version with an exploit. These are usually spotted <em>very</em> quickly, so an attack often only has a few hours of effective window before the problem is identified and the compromised package is pulled.</p>
+        <p>You are most at risk if you're automatically applying upgrades the same day they are released.</p>
+        <p>William says:</p>
+        <blockquote>
+        <p>I <strong>love</strong> cooldowns for several reasons:</p>
+        <ul>
+        <li>They're empirically effective, per above. They won't stop <em>all</em> attackers, but they <em>do</em> stymie the majority of high-visibiity, mass-impact supply chain attacks that have become more common.</li>
+        <li>They're <em>incredibly</em> easy to implement. Moreover, they're <strong>literally free</strong> to implement in most cases: most people can use <a href="https://docs.github.com/en/code-security/dependabot/working-with-dependabot/dependabot-options-reference#cooldown-">Dependabot's functionality</a>, <a href="https://docs.renovatebot.com/key-concepts/minimum-release-age/">Renovate's functionality</a>, or the functionality build directly into their package manager</li>
+        </ul>
+        </blockquote>
+        <p>The one counter-argument to this is that sometimes an upgrade fixes a security vulnerability, and in those cases every hour of delay in upgrading as an hour when an attacker could exploit the new issue against your software.</p>
+        <p>I see that as an argument for carefully monitoring the release notes of your dependencies, and paying special attention to security advisories. I'm a big fan of the <a href="https://github.com/advisories">GitHub Advisory Database</a> for that kind of information.
+        
+            <p><small></small>Via <a href="https://news.ycombinator.com/item?id=46005111">Hacker News</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/definitions">definitions</a>, <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/packaging">packaging</a>, <a href="https://simonwillison.net/tags/supply-chain">supply-chain</a></p>]]>
+      </description>
+      <source:markdown>**[We should all be using dependency cooldowns](https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns)**
+
+William Woodruff gives a name to a sensible strategy for managing dependencies while reducing the chances of a surprise supply chain attack: **dependency cooldowns**.
+
+Supply chain attacks happen when an attacker compromises a widely used open source package and publishes a new version with an exploit. These are usually spotted _very_ quickly, so an attack often only has a few hours of effective window before the problem is identified and the compromised package is pulled.
+
+You are most at risk if you&#39;re automatically applying upgrades the same day they are released.
+
+William says:
+
+&#62; I **love** cooldowns for several reasons:
+&#62;
+&#62; - They&#39;re empirically effective, per above. They won&#39;t stop _all_ attackers, but they _do_ stymie the majority of high-visibiity, mass-impact supply chain attacks that have become more common.
+&#62; - They&#39;re _incredibly_ easy to implement. Moreover, they&#39;re **literally free** to implement in most cases: most people can use [Dependabot&#39;s functionality](https://docs.github.com/en/code-security/dependabot/working-with-dependabot/dependabot-options-reference#cooldown-), [Renovate&#39;s functionality](https://docs.renovatebot.com/key-concepts/minimum-release-age/), or the functionality build directly into their package manager
+
+The one counter-argument to this is that sometimes an upgrade fixes a security vulnerability, and in those cases every hour of delay in upgrading as an hour when an attacker could exploit the new issue against your software.
+
+I see that as an argument for carefully monitoring the release notes of your dependencies, and paying special attention to security advisories. I&#39;m a big fan of the [GitHub Advisory Database](https://github.com/advisories) for that kind of information.
+
+
+
+Via [Hacker News](https://news.ycombinator.com/item?id=46005111)
+
+Tags: [definitions](https://simonwillison.net/tags/definitions), [github](https://simonwillison.net/tags/github), [open-source](https://simonwillison.net/tags/open-source), [packaging](https://simonwillison.net/tags/packaging), [supply-chain](https://simonwillison.net/tags/supply-chain)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/21/dependency-cooldowns/#atom-everything</guid>
+    </item>    <item>
+      <title>Fun Stunt to Promote ‘Pluribus’: An Ask Me Anything on Reddit With Carol Sturka</title>
+      <link>https://www.reddit.com/r/tvPlus/comments/1p1lnf4/im_carol_sturka_author_of_bloodsong_of_wycaro_ask/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42407</guid>
+    </item>    <item>
+      <title>Beso de tres: una romcom retro en todo el sentido de la palabra</title>
+      <link>https://www.palomitademaiz.net/resenas-beso-de-tres/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-beso-de-tres</link>
+      <description>
+        <![CDATA[<p>Dirección: Chad Hartigan. Guion: Ethan Ogilby. Elenco: Zoey Deutsch, Jonah Hauer-King, Ruby Cruz, Jaboukie Young-White, Kristin Slaysman. País: Estados Unidos. Más información de la película: https://www.imdb.com/title/tt21187592 En algún lugar del mundo, un o una fan de las comedias románticas de la década del 2000 pidió un deseo a una pata de mono. “Por favor”, dijo [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-beso-de-tres/">Beso de tres: una romcom retro en todo el sentido de la palabra</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Dirección: Chad Hartigan. Guion: Ethan Ogilby. Elenco: Zoey Deutsch, Jonah Hauer-King, Ruby Cruz, Jaboukie Young-White, Kristin Slaysman. País: Estados Unidos. Más información de la película: https://www.imdb.com/title/tt21187592 En algún lugar del mundo, un o una fan de las comedias románticas de la década del 2000 pidió un deseo a una pata de mono. “Por favor”, dijo \[…\]
+
+La entrada [Beso de tres: una romcom retro en todo el sentido de la palabra](https://www.palomitademaiz.net/resenas-beso-de-tres/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=25742</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/21.html#a155706</link>
+      <description>
+        <![CDATA[I'm continuing to work on the way FeedLand detects changes in feed items. This morning I did a careful study of the function that gets a guid for an item in conjunction with ChatGPT. It would be so much easier if RSS 2.0 required an item-level &lt;guid> element, but it doesn't. That was the philosophy, all item-level values are optional except for a couple. My notes are <a href="https://github.com/scripting/feedlandDev/issues/11#issuecomment-3563675430">here</a>.]]>
+      </description>
+      <source:markdown>I&#39;m continuing to work on the way FeedLand detects changes in feed items. This morning I did a careful study of the function that gets a guid for an item in conjunction with ChatGPT. It would be so much easier if RSS 2.0 required an item-level &#60;guid&#62; element, but it doesn&#39;t. That was the philosophy, all item-level values are optional except for a couple. My notes are [here](https://github.com/scripting/feedlandDev/issues/11#issuecomment-3563675430).</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/21.html#a155706</guid>
+    </item>    <item>
+      <title>Can “adversarial poetry” save us from AI?</title>
+      <link>https://lithub.com/can-adversarial-poetry-save-us-from-ai/</link>
+      <description>
+        <![CDATA[Turns out, the Terminator movies would have been more realistic if Sarah Conner had a poetry MFA. In a new paper titled “Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models”, a team of researchers have found]]>
+      </description>
+      <source:markdown>Turns out, the Terminator movies would have been more realistic if Sarah Conner had a poetry MFA. In a new paper titled “Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models”, a team of researchers have found</source:markdown>
+      <guid>cid://https://lithub.com/?p=263220</guid>
+    </item>    <item>
+      <title>The Next Opioid Crisis</title>
+      <link>https://www.profgalloway.com/the-next-opioid-crisis/</link>
+      <description>
+        <![CDATA[<p>Today you can “trade” on the outcome of thousands of future events, from the Fed decision next month to the Grammy Awards in February. Without leaving the house, you can wager on Taylor Swift’s wedding or Time magazine’s person of the year. One of Kalshi’s MIT-trained founders says their platform is “like the stock market, [&#8230;]</p>
+        <p>The post <a href="https://www.profgalloway.com/the-next-opioid-crisis/">The Next Opioid Crisis</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>]]>
+      </description>
+      <source:markdown>Today you can “trade” on the outcome of thousands of future events, from the Fed decision next month to the Grammy Awards in February. Without leaving the house, you can wager on Taylor Swift’s wedding or Time magazine’s person of the year. One of Kalshi’s MIT-trained founders says their platform is “like the stock market, \[…\]
+
+The post [The Next Opioid Crisis](https://www.profgalloway.com/the-next-opioid-crisis/) appeared first on [No Mercy / No Malice](https://www.profgalloway.com).</source:markdown>
+      <guid>cid://https://www.profgalloway.com/?p=216360</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/21.html#a153818</link>
+      <description>
+        <![CDATA[Good morning sports fans!]]>
+      </description>
+      <source:markdown>Good morning sports fans!</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/21.html#a153818</guid>
+    </item>    <item>
+      <title>Air Lab is the Flipper Zero of air quality monitors</title>
+      <link>https://www.jeffgeerling.com/blog/2025/air-lab-flipper-zero-air-quality-monitors</link>
+      <description>
+        <![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Air Lab is the Flipper Zero of air quality monitors</span>
+        
+                    <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="https://www.jeffgeerling.com/sites/default/files/images/air-lab-aqi-monitor-hero.jpeg" width="700" height="394" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-c0184d83-ec55-486a-90c4-5559c0fe187d" data-insert-attach="{&quot;id&quot;:&quot;c0184d83-ec55-486a-90c4-5559c0fe187d&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Air Lab AQI Monitor Professor Robin"></p>
+        
+        <p>This air quality monitor costs $250. It's called the <a href="https://networkedartifacts.com/airlab">Air Lab</a>, and I've been using it to measure the air in my car, home, studio, and a few events over the past few months. And in using it over the course of a road trip I learned to not run recirculate in my car quite as often—more on that later.</p>
+        
+        <p><a href="https://networkedartifacts.com">Networked Artifacts</a> built in some personality:</p></div>
+              <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-11-21T09:02:27-06:00" title="Friday, November 21, 2025 - 09:02" class="datetime">November 21, 2025</time>
+        </span>]]>
+      </description>
+      <source:markdown>Air Lab is the Flipper Zero of air quality monitors
+
+![Air Lab AQI Monitor Professor Robin](https://www.jeffgeerling.com/sites/default/files/images/air-lab-aqi-monitor-hero.jpeg)
+
+This air quality monitor costs $250. It&#39;s called the [Air Lab](https://networkedartifacts.com/airlab), and I&#39;ve been using it to measure the air in my car, home, studio, and a few events over the past few months. And in using it over the course of a road trip I learned to not run recirculate in my car quite as often—more on that later.
+
+[Networked Artifacts](https://networkedartifacts.com) built in some personality:
+
+Jeff GeerlingNovember 21, 2025</source:markdown>
+      <guid>cid://3513 at https://www.jeffgeerling.com</guid>
+    </item>    <item>
+      <title>Our favorite Literary Twitter moments: James Folta on the Paris Review Tweet.</title>
+      <link>https://lithub.com/our-favorite-literary-twitter-moments-james-folta-on-the-paris-review-tweet/</link>
+      <description>
+        <![CDATA[Pulling together the 64 original Literary Twitter moments and incidents to create our winter game, What Was Literary Twitter? The Bracket, required the vast institutional memory of the entire Lit Hub team, who each had their personal favorite e-dramas to]]>
+      </description>
+      <source:markdown>Pulling together the 64 original Literary Twitter moments and incidents to create our winter game, What Was Literary Twitter? The Bracket, required the vast institutional memory of the entire Lit Hub team, who each had their personal favorite e-dramas to</source:markdown>
+      <guid>cid://https://lithub.com/?p=263110</guid>
+    </item>    <item>
       <title>Croissant Update and Dexie</title>
       <link>https://dbushell.com/2025/11/21/croissant-update-and-dexie/</link>
       <description>
@@ -271,7 +472,7 @@ It’s a contribution that is very big. 40 commits touching 147 files. It’s hu
       <source:markdown>Harvard Law School Library releases first complete set of digitized Nuremberg Trials records.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/11/21/1963/</guid>
     </item>    <item>
-      <title>WWDB</title>
+      <title>WWBD</title>
       <link>https://onefoottsunami.com/2025/11/21/wwdb/</link>
       <guid>cid://https://onefoottsunami.com/?p=29492</guid>
     </item>    <item>
@@ -338,6 +539,14 @@ It’s a contribution that is very big. 40 commits touching 147 files. It’s hu
 
 Looking for a fun project? Why not port ZORK to Gemini?</source:markdown>
       <guid>cid://https://tilde.zone/@tomasino/115587164053320389</guid>
+    </item>    <item>
+      <title>On the Death of Tech Idealism (and Rise of the Homeless) in Northern California</title>
+      <link>https://lithub.com/on-the-death-of-tech-idealism-and-rise-of-the-homeless-in-northern-california/</link>
+      <description>
+        <![CDATA[Fuckers. I couldn’t get the word out of my head, because he wouldn’t stop saying it. I was sitting in the tiled courtyard of the Mediterranean-style home of an old acquaintance, a venture capitalist and serial tech entrepreneur, who lived]]>
+      </description>
+      <source:markdown>Fuckers. I couldn’t get the word out of my head, because he wouldn’t stop saying it. I was sitting in the tiled courtyard of the Mediterranean-style home of an old acquaintance, a venture capitalist and serial tech entrepreneur, who lived</source:markdown>
+      <guid>cid://https://lithub.com/?p=262769</guid>
     </item>    <item>
       <title>What Should You Read Next? Here Are the Best Reviewed Books of the Week</title>
       <link>https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-11-21-2025/</link>

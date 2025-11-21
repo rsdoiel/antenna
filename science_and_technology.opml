@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Science and Technology</title>
-        <dateCreated>21 Nov 25 06:11 -0800</dateCreated>
+        <dateCreated>21 Nov 25 12:11 -0800</dateCreated>
     </head>
     <body>
         <outline text="Caltech Magazine" type="rss" xmlUrl="https://magazine.caltech.edu/index?format=rss" htmlUrl="https://magazine.caltech.edu/"></outline>
@@ -22,5 +22,6 @@
         <outline text="The Hidden Brain Podcast" type="rss" xmlUrl="https://feeds.npr.org/423302056/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=423302056" description="Recent episodes of Hidden Brain podcast can now be found at hiddenbrain.org. Hidden Brain helps curious people understand the world-&lt;em&gt;– and themselves. Using science and storytelling, &lt;em&gt;Hidden Brain&lt;/em&gt;&#39;s host Shankar Vedantam reveals the unconscious patterns that drive human behavior, the biases that shape our choices, and the triggers that direct the course of our relationships.&lt;/em&gt;"></outline>
         <outline text="The New Stack" type="rss" xmlUrl="https://thenewstack.io/blog/feed/" htmlUrl="https://thenewstack.io/blog/,https://thenewstack.io/blog/feed/" url="https://thenewstack.io/blog/feed/"></outline>
         <outline text="The Register (UK I.T. News)" type="atom" xmlUrl="https://www.theregister.com/headlines.atom" htmlUrl="https://www.theregister.com/headlines.atom,https://www.theregister.com/" description="Biting the hand that feeds IT — Enterprise Technology News and Analysis" url="https://www.theregister.com/headlines.atom"></outline>
+        <outline text="Thunderbird Pro" type="rss" xmlUrl="https://blog.thunderbird.net/feed/" htmlUrl="https://blog.thunderbird.net/,https://blog.thunderbird.net/feed/" description="News, previews, and guides from the Thunderbird Team" url="https://blog.thunderbird.net/feed/"></outline>
     </body>
 </opml>
