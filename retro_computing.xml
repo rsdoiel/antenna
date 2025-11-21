@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>20 Nov 25 12:09 -0800</lastBuildDate>
+    <lastBuildDate>21 Nov 25 06:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Fireside developer chat on saturday night</title>
+      <link>http://www.iconbar.com/comments/rss/news2265.html</link>
+      <description>
+        <![CDATA[It definitely feels like the bleak mid-winter. So why not have a cosy saturday night in. Throw another log on the file and join some very informal and friendly chat with other RISC OS developers online.]]>
+      </description>
+      <source:markdown>It definitely feels like the bleak mid-winter. So why not have a cosy saturday night in. Throw another log on the file and join some very informal and friendly chat with other RISC OS developers online.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2265.html</guid>
+    </item>    <item>
       <title>Episode IV - A New Hope</title>
       <link>https://www.riscosopen.org/news/articles/2025/11/20/episode-iv-a-new-hope</link>
       <description>
@@ -998,14 +1006,6 @@ The post [Bytes and Likes](https://computerhistory.org/stories/bytes-and-likes/)
       </description>
       <source:markdown>Some things we noticed this month. What did you see?</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2236.html</guid>
-    </item>    <item>
-      <title>ROOL adds Fortran support in latest DDE update</title>
-      <link>http://www.iconbar.com/comments/rss/news2254.html</link>
-      <description>
-        <![CDATA[ROOL clearly have big plans for the RISC OS DDE....]]>
-      </description>
-      <source:markdown>ROOL clearly have big plans for the RISC OS DDE....</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2254.html</guid>
     </item>
   </channel>
 </rss>

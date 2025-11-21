@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>20 Nov 25 12:09 -0800</lastBuildDate>
+    <lastBuildDate>21 Nov 25 06:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -141,6 +141,401 @@ As always, do give this release a try and open a [ticket](https://gitlab.haskell
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
     </item>    <item>
+      <title>Croissant Update and Dexie</title>
+      <link>https://dbushell.com/2025/11/21/croissant-update-and-dexie/</link>
+      <description>
+        <![CDATA[Croissant v0.5 has been released! I have improved the favicon fetcher from the last update. Croissant will now go HTML spelunking because not enough blogs have a default favicon.ico. I have added a “Close as Unread” button to the end of the reader view. […]]]>
+      </description>
+      <source:markdown>Croissant v0.5 has been released! I have improved the favicon fetcher from the last update. Croissant will now go HTML spelunking because not enough blogs have a default favicon.ico. I have added a “Close as Unread” button to the end of the reader view. \[…\]</source:markdown>
+      <guid>cid://https://dbushell.com/2025/11/21/croissant-update-and-dexie/</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/altusds.altgov.info/post/3m65fxxmmo22c</link>
+      <description>
+        <![CDATA[Chuck is a true hero who wants to serve Maryland. He's building a campaign around true public service. 
+        
+        If you have it in your budget to give to someone who will truly serve the people, please help.
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>Chuck is a true hero who wants to serve Maryland. He&#39;s building a campaign around true public service.
+
+If you have it in your budget to give to someone who will truly serve the people, please help.
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:fuovrvjiloafdym65x3oloqc/app.bsky.feed.post/3m65fxxmmo22c</guid>
+    </item>    <item>
+      <title>What Was Literary Twitter? The Bracket *Day 5*</title>
+      <link>https://lithub.com/what-was-literary-twitter-the-bracket-day-5/</link>
+      <description>
+        <![CDATA[Day five and only four remain! Pour out a cold plum for yesterday’s runner-ups, including “This Is Just To Say,” bad art friend, and the transparency and advocacy campaign #PublishingPaidMe The four that are left are some of the most]]>
+      </description>
+      <source:markdown>Day five and only four remain! Pour out a cold plum for yesterday’s runner-ups, including “This Is Just To Say,” bad art friend, and the transparency and advocacy campaign #PublishingPaidMe The four that are left are some of the most</source:markdown>
+      <guid>cid://https://lithub.com/?p=263186</guid>
+    </item>    <item>
+      <title>2025-11-21 AI contributes code on GitHub</title>
+      <link>https://alexschroeder.ch/view/2025-11-21-ai-code</link>
+      <description>
+        <![CDATA[<h1 id="2025-11-21-ai-contributes-code-on-github">2025-11-21 AI contributes code on GitHub</h1>
+        
+        <p>I&rsquo;m reading through <a href="https://github.com/ocaml/ocaml/pull/14369">DWARF v5 Debugging Support for OCaml Native Compiler</a>.
+        It&rsquo;s a contribution that is very big. 40 commits touching 147 files. It&rsquo;s huge. The author is asking for a review by the maintainers. They don&rsquo;t like it.</p>
+        
+        <blockquote>
+        <p><strong>joelreymont</strong>: This PR adds DWARF v5 debug information to the OCaml native compiler, allowing proper source-level debugging in GDB and LLDB. …</p>
+        
+        <p><strong>gasche</strong>: According to the copyright headers, all the new source files in this PR have been written by Mark Shinwell (@mshinwell), or maybe are directly derived from his work. This seems plausible (a lot of it seems heavily inspired by the DWARF support in the oxcaml repository, which I suppose has been written by Mark indeed), but is it actually the case? (If your work is so heavily derived from Mark&rsquo;s work, maybe it would make sense to credit him in the PR description, or in the webpage you created specifically to advertise for this work?)</p>
+        
+        <p><strong>tmcgilchrist</strong>: This seems to be largely a copy of the work done in OxCaml by @mshinwell and @spiessimon and others, including the missing features like DWARF information for OO, changes to the shapes constructors, the python based printers rather than built-in LLDB/GDB language plugin, and other things. I mentioned in #14353 (comment) that this is still being worked on and isn&rsquo;t ready for upstreaming (in my opinion as someone working on it). With that, I&rsquo;m hesitant to spend the time reviewing this in full.</p>
+        
+        <p><strong>yallop</strong>: … @joelreymont, could you please explain where you obtained the code in this PR?</p>
+        
+        <p><strong>joelreymont</strong>: It’s not where I obtained this PR but how.</p>
+        
+        <p>Claude Sonnet 4.5 (Claude Code) wrote most of it with ChatGPT 5 (Codex) reviewing and Claude addressing issues in each review. Codex wrote the last 10% or so when Claude kept getting stuck.</p>
+        
+        <p>I did not write a single line of code but carefully shepherded AI over the course of several days and kept it on the straight and narrow.</p>
+        
+        <p>…</p>
+        
+        <p>My work was just directing, shaping, cajoling and reviewing.</p>
+        
+        <p><strong>gasche</strong>: There is an obvious problem with copyright if you reuse large amounts of people&rsquo;s code. The fact that the tool that produced the code attributes its copyright to a real human is a clear sign that something is an issue. (You might also wonder if that human agrees with being described as the author of code that you yourself introduce in the compiler.) At this point, merging the code in the compiler would be a legal liability.</p>
+        
+        <p>There hasn&rsquo;t been a design discussion for which approach should be chosen to integrate this feature. We would appreciate people discussing design before they dump 13K-lines PRs on us. In fact, it&rsquo;s a bit worse in this case: people that are expert on this topic and actively working on this feature ( @tmcgilchrist above ) have given you design advice and made recommendations for how to contribute in a way that they felt would be productive. As far as I can tell you did not take this feedback into account.</p>
+        
+        <p>This humongous amount of code is hard to review, and very lightly tested. (You are only testing that basic functionality works.) Inevitably the code will be full of problems, and we (the maintainers of the compiler) will have to pay the cost of fixing them. But maintaining large pieces of plausible-in-general-but-weird-in-the-details code is a large burden.</p>
+        
+        <p>As you might know, the OCaml compiler codebase suffers from a lack of people available to do code reviews and maintenance. … Your approach of submitting very large relatively-low-effort PRs creates a very real risk of bringing the Pull-Request system to a halt, especially given that, in my personal experience, reviewing AI-written code is more taxing that reviewing human-written code.</p>
+        
+        <p>You may think that the answer to that is to also automate the review process, or (more plausibly) to lower our quality standards: we can accept PRs based on simple/lightweight tests (themselves AI-generated), and if users find issues we can quickly use automated tools to fix them, basically having our users perform the testing work that is missing. But so far we have not decided to work in this way (and this has very real costs for users of the compiler), so these potential solutions are not available.</p>
+        
+        <p>Finally, you seem to not give a thought about the fact that your contributions demand work of other people. The fact that you were able to generate large amount of code that passes test is interesting, but that&rsquo;s only 20% of the work, the other 80% are to get the feature discussed, reviewed and integrated, and this work will be paid by you and others. But you only focus on the initial writing phase and you personal success, over-communicate on this, and do not appear to realize that this has very real costs on others. For example, a few days ago you sent a PR that was a complete waste of our collective maintenance time (…), we wasted this time, and you never apologized.</p>
+        
+        <p>If your intent is to demonstrate that you personally know how to generate large amount of code that provide useful functionality and pass basic test, in a complex software project, then I think you have succeeded; congratulations. But if you are also hoping to demonstrate that they can be successfully integrated by upstream software projects, following the existing collaboration practices of the project, this is a complete failure. Maybe being a bit less tone-deaf and discussing things with people before you throw hundreds or thousands of lines at them would be a first step. But personally at this point I wish that you would do your &ldquo;scientific experiments&rdquo; (your words) on another software project, and I have personally decided that I will not invest any more time looking at your PRs for the next six months.</p>
+        
+        <p><strong>joelreymont</strong>: Here&rsquo;s the AI-written copyright analysis …</p>
+        
+        <p><strong>gasche</strong>: I will go ahead and close this PR. …</p>
+        </blockquote>
+        
+        <p><a class="tag" href="/search/?q=%23AI">#AI</a> <a class="tag" href="/search/?q=%23Programming">#Programming</a></p>]]>
+      </description>
+      <source:markdown># 2025-11-21 AI contributes code on GitHub
+
+I’m reading through [DWARF v5 Debugging Support for OCaml Native Compiler](https://github.com/ocaml/ocaml/pull/14369).
+It’s a contribution that is very big. 40 commits touching 147 files. It’s huge. The author is asking for a review by the maintainers. They don’t like it.
+
+&#62; **joelreymont**: This PR adds DWARF v5 debug information to the OCaml native compiler, allowing proper source-level debugging in GDB and LLDB. …
+&#62;
+&#62; **gasche**: According to the copyright headers, all the new source files in this PR have been written by Mark Shinwell (@mshinwell), or maybe are directly derived from his work. This seems plausible (a lot of it seems heavily inspired by the DWARF support in the oxcaml repository, which I suppose has been written by Mark indeed), but is it actually the case? (If your work is so heavily derived from Mark’s work, maybe it would make sense to credit him in the PR description, or in the webpage you created specifically to advertise for this work?)
+&#62;
+&#62; **tmcgilchrist**: This seems to be largely a copy of the work done in OxCaml by @mshinwell and @spiessimon and others, including the missing features like DWARF information for OO, changes to the shapes constructors, the python based printers rather than built-in LLDB/GDB language plugin, and other things. I mentioned in #14353 (comment) that this is still being worked on and isn’t ready for upstreaming (in my opinion as someone working on it). With that, I’m hesitant to spend the time reviewing this in full.
+&#62;
+&#62; **yallop**: … @joelreymont, could you please explain where you obtained the code in this PR?
+&#62;
+&#62; **joelreymont**: It’s not where I obtained this PR but how.
+&#62;
+&#62; Claude Sonnet 4.5 (Claude Code) wrote most of it with ChatGPT 5 (Codex) reviewing and Claude addressing issues in each review. Codex wrote the last 10% or so when Claude kept getting stuck.
+&#62;
+&#62; I did not write a single line of code but carefully shepherded AI over the course of several days and kept it on the straight and narrow.
+&#62;
+&#62; …
+&#62;
+&#62; My work was just directing, shaping, cajoling and reviewing.
+&#62;
+&#62; **gasche**: There is an obvious problem with copyright if you reuse large amounts of people’s code. The fact that the tool that produced the code attributes its copyright to a real human is a clear sign that something is an issue. (You might also wonder if that human agrees with being described as the author of code that you yourself introduce in the compiler.) At this point, merging the code in the compiler would be a legal liability.
+&#62;
+&#62; There hasn’t been a design discussion for which approach should be chosen to integrate this feature. We would appreciate people discussing design before they dump 13K-lines PRs on us. In fact, it’s a bit worse in this case: people that are expert on this topic and actively working on this feature ( @tmcgilchrist above ) have given you design advice and made recommendations for how to contribute in a way that they felt would be productive. As far as I can tell you did not take this feedback into account.
+&#62;
+&#62; This humongous amount of code is hard to review, and very lightly tested. (You are only testing that basic functionality works.) Inevitably the code will be full of problems, and we (the maintainers of the compiler) will have to pay the cost of fixing them. But maintaining large pieces of plausible-in-general-but-weird-in-the-details code is a large burden.
+&#62;
+&#62; As you might know, the OCaml compiler codebase suffers from a lack of people available to do code reviews and maintenance. … Your approach of submitting very large relatively-low-effort PRs creates a very real risk of bringing the Pull-Request system to a halt, especially given that, in my personal experience, reviewing AI-written code is more taxing that reviewing human-written code.
+&#62;
+&#62; You may think that the answer to that is to also automate the review process, or (more plausibly) to lower our quality standards: we can accept PRs based on simple/lightweight tests (themselves AI-generated), and if users find issues we can quickly use automated tools to fix them, basically having our users perform the testing work that is missing. But so far we have not decided to work in this way (and this has very real costs for users of the compiler), so these potential solutions are not available.
+&#62;
+&#62; Finally, you seem to not give a thought about the fact that your contributions demand work of other people. The fact that you were able to generate large amount of code that passes test is interesting, but that’s only 20% of the work, the other 80% are to get the feature discussed, reviewed and integrated, and this work will be paid by you and others. But you only focus on the initial writing phase and you personal success, over-communicate on this, and do not appear to realize that this has very real costs on others. For example, a few days ago you sent a PR that was a complete waste of our collective maintenance time (…), we wasted this time, and you never apologized.
+&#62;
+&#62; If your intent is to demonstrate that you personally know how to generate large amount of code that provide useful functionality and pass basic test, in a complex software project, then I think you have succeeded; congratulations. But if you are also hoping to demonstrate that they can be successfully integrated by upstream software projects, following the existing collaboration practices of the project, this is a complete failure. Maybe being a bit less tone-deaf and discussing things with people before you throw hundreds or thousands of lines at them would be a first step. But personally at this point I wish that you would do your “scientific experiments” (your words) on another software project, and I have personally decided that I will not invest any more time looking at your PRs for the next six months.
+&#62;
+&#62; **joelreymont**: Here’s the AI-written copyright analysis …
+&#62;
+&#62; **gasche**: I will go ahead and close this PR. …
+
+[#AI](/search/?q=%23AI) [#Programming](/search/?q=%23Programming)</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2025-11-21-ai-code</guid>
+    </item>    <item>
+      <link>https://hls.harvard.edu/today/harvard-law-school-library-releases-first-complete-set-of-digitized-nuremberg-trials-records/</link>
+      <description>
+        <![CDATA[<p>Harvard Law School Library releases first complete set of digitized Nuremberg Trials records.</p>]]>
+      </description>
+      <source:markdown>Harvard Law School Library releases first complete set of digitized Nuremberg Trials records.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/21/1963/</guid>
+    </item>    <item>
+      <title>WWDB</title>
+      <link>https://onefoottsunami.com/2025/11/21/wwdb/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29492</guid>
+    </item>    <item>
+      <link>https://wapo.st/48nkqMN</link>
+      <description>
+        <![CDATA[<p>How billionaires took over American politics.</p>]]>
+      </description>
+      <source:markdown>How billionaires took over American politics.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/21/1961/</guid>
+    </item>    <item>
+      <title>Democrats expand lead in U.S. House polls this week</title>
+      <link>https://www.gelliottmorris.com/p/democrats-expand-lead-in-us-house</link>
+      <description>
+        <![CDATA[Recent polls have shown a big shift toward the Democrats in the House generic ballot. If historical patterns of out-party gains continue in 2026, Democrats could see a larger "blue wave" than in 2018.]]>
+      </description>
+      <source:markdown>Recent polls have shown a big shift toward the Democrats in the House generic ballot. If historical patterns of out-party gains continue in 2026, Democrats could see a larger &#34;blue wave&#34; than in 2018.</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/faa050b6-1dea-4c33-8387-30676495d159_1243x887.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/democrats-expand-lead-in-us-house</guid>
+    </item>    <item>
+      <title>AI as Cyberattacker</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/ai-as-cyberattacker.html</link>
+      <description>
+        <![CDATA[<p>From <a href="https://www.anthropic.com/news/disrupting-AI-espionage">Anthropic</a>:</p>
+        <blockquote><p>In mid-September 2025, we detected suspicious activity that later investigation determined to be a highly sophisticated espionage campaign. The attackers used AI’s “agentic” capabilities to an unprecedented degree­&#8212;using AI not just as an advisor, but to execute the cyberattacks themselves.</p>
+        <p>The threat actor&#8212;­whom we assess with high confidence was a Chinese state-sponsored group&#8212;­manipulated our Claude Code tool into attempting infiltration into roughly thirty global targets and succeeded in a small number of cases. The operation targeted large tech companies, financial institutions, chemical manufacturing companies, and government agencies. We believe this is the first documented case of a large-scale cyberattack executed without substantial human intervention...</p></blockquote>]]>
+      </description>
+      <source:markdown>From [Anthropic](https://www.anthropic.com/news/disrupting-AI-espionage):
+
+&#62; In mid-September 2025, we detected suspicious activity that later investigation determined to be a highly sophisticated espionage campaign. The attackers used AI’s “agentic” capabilities to an unprecedented degree­—using AI not just as an advisor, but to execute the cyberattacks themselves.
+&#62;
+&#62; The threat actor—­whom we assess with high confidence was a Chinese state-sponsored group—­manipulated our Claude Code tool into attempting infiltration into roughly thirty global targets and succeeded in a small number of cases. The operation targeted large tech companies, financial institutions, chemical manufacturing companies, and government agencies. We believe this is the first documented case of a large-scale cyberattack executed without substantial human intervention...</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=71202</guid>
+    </item>    <item>
+      <title>Hard Landings</title>
+      <link>https://paulkrugman.substack.com/p/hard-landings</link>
+      <description>
+        <![CDATA[No, not talking about my flight]]>
+      </description>
+      <source:markdown>No, not talking about my flight</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!tCrK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d89951a-5dda-4998-a932-4f19fee71a0b_1394x850.png" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/hard-landings</guid>
+    </item>    <item>
+      <title>Lit Hub Daily: November 21, 2025</title>
+      <link>https://lithub.com/lit-hub-daily-november-21-2025/</link>
+      <description>
+        <![CDATA[Only two match-ups remain before we move on to the final round! Vote in our What Was Literary Twitter? bracket to determine the greatest moment of the literary internet. &#124; Lit Hub Melissa Broder revisits the “Christian mysticism, absurdism, existentialism,]]>
+      </description>
+      <source:markdown>Only two match-ups remain before we move on to the final round! Vote in our What Was Literary Twitter? bracket to determine the greatest moment of the literary internet. \| Lit Hub Melissa Broder revisits the “Christian mysticism, absurdism, existentialism,</source:markdown>
+      <guid>cid://https://lithub.com/?p=263176</guid>
+    </item>    <item>
+      <title>Giving Up on The New York Times and Remembering Literary Twitter on The Lit Hub Podcast</title>
+      <link>https://lithub.com/giving-up-on-the-new-york-times-and-remembering-literary-twitter-on-the-lit-hub-podcast/</link>
+      <description>
+        <![CDATA[A weekly behind-the-scenes dive into everything interesting, dynamic, strange, and wonderful happening in literary culture—featuring Lit Hub staff, columnists, and special guests! Hosted by Drew Broussard. A time of celebration is now upon us: the literary awards year has closed,]]>
+      </description>
+      <source:markdown>A weekly behind-the-scenes dive into everything interesting, dynamic, strange, and wonderful happening in literary culture—featuring Lit Hub staff, columnists, and special guests! Hosted by Drew Broussard. A time of celebration is now upon us: the literary awards year has closed,</source:markdown>
+      <guid>cid://https://lithub.com/?p=263183</guid>
+    </item>    <item>
+      <link>https://tilde.zone/@tomasino/115587164053320389</link>
+      <description>
+        <![CDATA[<p><a href="https://github.com/historicalsource/zork1" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/historicalsource/zo</span><span class="invisible">rk1</span></a></p><p>Looking for a fun project? Why not port ZORK to Gemini?</p>]]>
+      </description>
+      <source:markdown>[https://github.com/historicalsource/zork1](https://github.com/historicalsource/zork1)
+
+Looking for a fun project? Why not port ZORK to Gemini?</source:markdown>
+      <guid>cid://https://tilde.zone/@tomasino/115587164053320389</guid>
+    </item>    <item>
+      <title>What Should You Read Next? Here Are the Best Reviewed Books of the Week</title>
+      <link>https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-11-21-2025/</link>
+      <description>
+        <![CDATA[Joy Williams’s The Pelican Child, John Edgar Wideman’s Languages of Home, and Solvej Balle’s On the Calculation of Volume (Book III) all feature among the best reviewed books of the week. Brought to you by Book Marks, Lit Hub’s home]]>
+      </description>
+      <source:markdown>Joy Williams’s The Pelican Child, John Edgar Wideman’s Languages of Home, and Solvej Balle’s On the Calculation of Volume (Book III) all feature among the best reviewed books of the week. Brought to you by Book Marks, Lit Hub’s home</source:markdown>
+      <guid>cid://https://lithub.com/?p=263172</guid>
+    </item>    <item>
+      <title>Melissa Broder on Jennifer Dawson’s Forgotten 1961 Classic The Ha-Ha</title>
+      <link>https://lithub.com/melissa-broder-on-jennifer-dawsons-forgotten-1961-classic-the-ha-ha/</link>
+      <description>
+        <![CDATA[In The Ha-Ha, Jennifer Dawson relies on her own history as a patient in a psychiatric hospital to tell the story of Josephine Traughton, a young woman who suffers a breakdown while studying at Oxford in the 1950s and is]]>
+      </description>
+      <source:markdown>In The Ha-Ha, Jennifer Dawson relies on her own history as a patient in a psychiatric hospital to tell the story of Josephine Traughton, a young woman who suffers a breakdown while studying at Oxford in the 1950s and is</source:markdown>
+      <guid>cid://https://lithub.com/?p=262790</guid>
+    </item>    <item>
+      <title>On the Many—and Contradictory—Histories of Mt. Rushmore</title>
+      <link>https://lithub.com/on-the-many-and-contradictory-histories-of-mt-rushmore/</link>
+      <description>
+        <![CDATA[Back at Mount Rushmore the following day, I looked at the four presidents from the Grand View Terrace, the only spot at the actual memorial that offers an uninterrupted frontal view of Gutzon Borglum’s sculpture. Because of this, the terrace]]>
+      </description>
+      <source:markdown>Back at Mount Rushmore the following day, I looked at the four presidents from the Grand View Terrace, the only spot at the actual memorial that offers an uninterrupted frontal view of Gutzon Borglum’s sculpture. Because of this, the terrace</source:markdown>
+      <guid>cid://https://lithub.com/?p=262482</guid>
+    </item>    <item>
+      <title>Outdoor Manual: Benjamin Wood on Taking It Outside</title>
+      <link>https://lithub.com/outdoor-manual-benjamin-wood-on-taking-it-outside/</link>
+      <description>
+        <![CDATA[This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. Every story has an equilibrium to be disturbed, and this one opens with a stranger on my doorstep. He stands bright-eyed beneath my porchlight with a sheepdog at his heel.]]>
+      </description>
+      <source:markdown>This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. Every story has an equilibrium to be disturbed, and this one opens with a stranger on my doorstep. He stands bright-eyed beneath my porchlight with a sheepdog at his heel.</source:markdown>
+      <guid>cid://https://lithub.com/?p=263147</guid>
+    </item>    <item>
+      <title>“The Machine”</title>
+      <link>https://lithub.com/the-machine/</link>
+      <description>
+        <![CDATA[On Friday as always I built the damn machine. As always I washed each individual part—the hopper, the spigot, the nozzle, the pump, the washers, the gaskets, the nuts, the screws—with scalding-hot water and soap. I dried each individual part]]>
+      </description>
+      <source:markdown>On Friday as always I built the damn machine. As always I washed each individual part—the hopper, the spigot, the nozzle, the pump, the washers, the gaskets, the nuts, the screws—with scalding-hot water and soap. I dried each individual part</source:markdown>
+      <guid>cid://https://lithub.com/?p=262087</guid>
+    </item>    <item>
+      <title>Thursday session</title>
+      <link>https://adactio.com/notes/22262</link>
+      <description>
+        <![CDATA[<img src="https://adactio.com/images/uploaded/22262/small.jpg" srcset="https://adactio.com/images/uploaded/22262/medium.jpg 1.5x, https://adactio.com/images/uploaded/22262/large.jpg 2.5x" alt="Thursday session" />
+        <p>Thursday session</p>]]>
+      </description>
+      <source:markdown>![Thursday session](https://adactio.com/images/uploaded/22262/small.jpg)
+
+Thursday session</source:markdown>
+      <guid>cid://https://adactio.com/notes/22262</guid>
+    </item>    <item>
+      <title>New Host Nathan Wrigley Brings Chaos to Open Channels FM</title>
+      <link>https://openchannels.fm/new-host-nathan-wrigley-brings-chaos-to-open-channels-fm/</link>
+      <description>
+        <![CDATA[At WordCamp Europe, BobWP and Nathan cooked up "The Shit Show" podcast, discussing everything from penguins to soap. Tune in for quirky insights and Nathan’s endless droning.]]>
+      </description>
+      <source:markdown>At WordCamp Europe, BobWP and Nathan cooked up &#34;The Shit Show&#34; podcast, discussing everything from penguins to soap. Tune in for quirky insights and Nathan’s endless droning.</source:markdown>
+      <guid>cid://https://openchannels.fm/?p=112374</guid>
+    </item>    <item>
+      <title>Office Hours: How long will it take us to recover from Trump?</title>
+      <link>https://robertreich.substack.com/p/office-hours-how-long-will-it-take</link>
+      <description>
+        <![CDATA[If we ever will?]]>
+      </description>
+      <source:markdown>If we ever will?</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!jxd6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F885f7d73-75db-459f-9eea-08d4893a460c_3500x2533.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/office-hours-how-long-will-it-take</guid>
+    </item>    <item>
+      <title>Linklings</title>
+      <link>https://doc.searls.com/2025/11/21/linklings-2/</link>
+      <description>
+        <![CDATA[Hiss After AM Cuts, Tesla Dropping FM Radio From Entry Level Models. I want one Companion Intelligence looks very close to what I&#39;ve been calling for here. What&#39;s the opposite? Darius Van Arman has a lot to say about market concentration. (For reasons I can&#39;t grok, the long headline is uncopyable.)]]>
+      </description>
+      <source:markdown>Hiss After AM Cuts, Tesla Dropping FM Radio From Entry Level Models. I want one Companion Intelligence looks very close to what I&#39;ve been calling for here. What&#39;s the opposite? Darius Van Arman has a lot to say about market concentration. (For reasons I can&#39;t grok, the long headline is uncopyable.)</source:markdown>
+      <guid>cid://https://doc.searls.com/2025/11/21/linklings-2/</guid>
+    </item>    <item>
+      <title>We’ll see</title>
+      <link>https://doc.searls.com/2025/11/20/well-see/</link>
+      <description>
+        <![CDATA[Daniel Barkhuff has a serious one-liner bio (&#8220;Husband, Dad, Emergency Medicine physician, Veteran&#8221;) and speaks with earned authority from all of them, especially the last two. His latest, On Living Memory, reminds me of two dads. One is my father, who re-enlisted in 1944 at age 35, because he wanted to fight in The War. Among other [&#8230;]]]>
+      </description>
+      <source:markdown>Daniel Barkhuff has a serious one-liner bio (“Husband, Dad, Emergency Medicine physician, Veteran”) and speaks with earned authority from all of them, especially the last two. His latest, On Living Memory, reminds me of two dads. One is my father, who re-enlisted in 1944 at age 35, because he wanted to fight in The War. Among other \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2025/11/20/well-see/</guid>
+    </item>    <item>
+      <title>November 20, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/november-20-2025</link>
+      <description>
+        <![CDATA[Trump spent this morning calling a group of military veterans in Congress traitors and saying they &#8220;should be ARRESTED AND PUT ON TRIAL.&#8221; Their crime, in Trump&#8217;s eyes, was their release Tuesday of a video reminding military and intelligence officers that they must refuse illegal orders.]]>
+      </description>
+      <source:markdown>Trump spent this morning calling a group of military veterans in Congress traitors and saying they “should be ARRESTED AND PUT ON TRIAL.” Their crime, in Trump’s eyes, was their release Tuesday of a video reminding military and intelligence officers that they must refuse illegal orders.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/november-20-2025</guid>
+    </item>    <item>
+      <link>https://www.theatlantic.com/newsletters/2025/11/atlantic-online-1995-early-internet/685004/?utm_source=www.status.news&#38;utm_medium=newsletter&#38;utm_campaign=bending-to-breitbart&#38;_bhlid=cd6387de7e040434f40959fe79ced839e9cc1efa</link>
+      <description>
+        <![CDATA[<p>The earliest days of The Atlantic Online.</p>]]>
+      </description>
+      <source:markdown>The earliest days of The Atlantic Online.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/20/1959/</guid>
+    </item>    <item>
+      <link>https://politicalwire.com/2025/11/20/slotkin-gets-security-detail-after-trumps-remarks/</link>
+      <description>
+        <![CDATA[<p>Slotkin Gets Security Detail After Trump’s Remarks.</p>]]>
+      </description>
+      <source:markdown>Slotkin Gets Security Detail After Trump’s Remarks.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/20/1957/</guid>
+    </item>    <item>
+      <title>Grid: how grid-template-areas offer a visual solution for your code</title>
+      <link>https://webkit.org/blog/17620/grid-how-grid-template-areas-offer-a-visual-solution-for-your-code/</link>
+      <description>
+        <![CDATA[Using grid lines is a flexible and powerful way to place your elements on a grid, but, when looking at the code, it might be a bit hard to visualize.]]>
+      </description>
+      <source:markdown>Using grid lines is a flexible and powerful way to place your elements on a grid, but, when looking at the code, it might be a bit hard to visualize.</source:markdown>
+      <guid>cid://https://webkit.org/?p=17620</guid>
+    </item>    <item>
+      <title>‘Pixar: The Early Days’ — Never-Before-Seen 1996 Interview With Steve Jobs</title>
+      <link>https://stevejobsarchive.com/stories/pixar-early-days</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42406</guid>
+    </item>    <item>
+      <title>Friday 21 November, 2025</title>
+      <link>https://memex.naughtons.org/friday-21-november-2025/41391/</link>
+      <description>
+        <![CDATA[The view from… nowhere I was brooding on something that the French painter Paul Delaroche is reputed to have said after seeing one of the first daguerreotypes in the late 1830s or early 1840s: “From today painting is dead”. Given &#8230; <a href="https://memex.naughtons.org/friday-21-november-2025/41391/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>The view from… nowhere I was brooding on something that the French painter Paul Delaroche is reputed to have said after seeing one of the first daguerreotypes in the late 1830s or early 1840s: “From today painting is dead”. Given … [Continue reading →](https://memex.naughtons.org/friday-21-november-2025/41391/)</source:markdown>
+      <guid>cid://https://memex.naughtons.org/?p=41391</guid>
+    </item>    <item>
+      <title>What the hell is ActivityPub?</title>
+      <link>https://buttondown.com/blog/what-is-activitypub</link>
+      <description>
+        <![CDATA[Making social networking more like email.]]>
+      </description>
+      <source:markdown>Making social networking more like email.</source:markdown>
+    </item>    <item>
+      <title>The Only Thing That&#39;s Real</title>
+      <link>https://www.notesfromthecircus.com/p/the-only-thing-thats-real</link>
+      <description>
+        <![CDATA[A Meditation on The Real]]>
+      </description>
+      <source:markdown>A Meditation on The Real</source:markdown>
+      <enclosure url="https://images.unsplash.com/photo-1606241018160-4985a8ab5dec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxNXx8bWlycm9yfGVufDB8fHx8MTc2MzU5NjUyNnww&ixlib=rb-4.1.0&q=80&w=1080" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/the-only-thing-thats-real</guid>
+    </item>    <item>
+      <title>Despicable</title>
+      <link>https://steady.substack.com/p/despicable</link>
+      <description>
+        <![CDATA[The bully-in-chief is targeting women in the White House press corps]]>
+      </description>
+      <source:markdown>The bully-in-chief is targeting women in the White House press corps</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!aetk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5bcad95a-fa75-4f60-a4e4-28cbb35a1dce_6675x4450.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/despicable</guid>
+    </item>    <item>
+      <title>November 19, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/november-19-2025-338</link>
+      <enclosure url="https://api.substack.com/feed/podcast/179502682/f8fcc999309afed78249b085e74a1fff.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/november-19-2025-338</guid>
+    </item>    <item>
+      <title>The Salience Game</title>
+      <link>https://www.notesfromthecircus.com/p/the-salience-game</link>
+      <description>
+        <![CDATA[How The Free Press Manufactures Permission to Vote for Tyranny]]>
+      </description>
+      <source:markdown>How The Free Press Manufactures Permission to Vote for Tyranny</source:markdown>
+      <enclosure url="https://images.unsplash.com/photo-1483706600674-e0c87d3fe85b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxfHxzaGh8ZW58MHx8fHwxNzYzNjI2ODc4fDA&ixlib=rb-4.1.0&q=80&w=1080" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/the-salience-game</guid>
+    </item>    <item>
+      <title>(No) MainActor by Default</title>
+      <link>https://mjtsai.com/blog/2025/11/20/no-mainactor-by-default/</link>
+      <description>
+        <![CDATA[Matt Massicotte (Mastodon): Swift 6.2 gives you the ability make MainActor the default isolation. Unlike the rest of the features introduced as part of &#8220;Approachable Concurrency&#8221;, this is a long-term mode. It is optional and will remain so. However, this mode is enabled for new app targets in Xcode 26. And many people take this [&#8230;]]]>
+      </description>
+      <source:markdown>Matt Massicotte (Mastodon): Swift 6.2 gives you the ability make MainActor the default isolation. Unlike the rest of the features introduced as part of “Approachable Concurrency”, this is a long-term mode. It is optional and will remain so. However, this mode is enabled for new app targets in Xcode 26. And many people take this \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=50122</guid>
+    </item>    <item>
+      <title>Europe Scaling Back GDPR and AI Laws</title>
+      <link>https://mjtsai.com/blog/2025/11/20/europe-scaling-back-gdpr-and-ai-laws/</link>
+      <description>
+        <![CDATA[Robert Hart and Dominic Preston (Hacker News, MacRumors): Under intense pressure from industry and the US government, Brussels is stripping protections from its flagship General Data Protection Regulation (GDPR) &#8212; including simplifying its infamous cookie permission pop-ups &#8212; and relaxing or delaying landmark AI rules in an effort to cut red tape and revive sluggish [&#8230;]]]>
+      </description>
+      <source:markdown>Robert Hart and Dominic Preston (Hacker News, MacRumors): Under intense pressure from industry and the US government, Brussels is stripping protections from its flagship General Data Protection Regulation (GDPR) — including simplifying its infamous cookie permission pop-ups — and relaxing or delaying landmark AI rules in an effort to cut red tape and revive sluggish \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=50120</guid>
+    </item>    <item>
+      <title>Sketch Copenhagen</title>
+      <link>https://mjtsai.com/blog/2025/11/20/sketch-copenhagen/</link>
+      <description>
+        <![CDATA[Freddie Harrison (Mastodon, Pieter Omvlee): Early on in the process, we prototyped various approaches to the sidebar and Inspector, including floating options (the new default in Tahoe) and glass materials. Ultimately, we went custom here, with fixed sidebars that felt less distracting in the context of a canvas-based design tool. Another area we went custom [&#8230;]]]>
+      </description>
+      <source:markdown>Freddie Harrison (Mastodon, Pieter Omvlee): Early on in the process, we prototyped various approaches to the sidebar and Inspector, including floating options (the new default in Tahoe) and glass materials. Ultimately, we went custom here, with fixed sidebars that felt less distracting in the context of a canvas-based design tool. Another area we went custom \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=50118</guid>
+    </item>    <item>
+      <title>Mastodon CEO Steps Down</title>
+      <link>https://mjtsai.com/blog/2025/11/20/mastodon-ceo-steps-down/</link>
+      <description>
+        <![CDATA[Eugen Rochko (via Hacker News): After nearly 10 years, I am stepping down as the CEO of Mastodon and transferring my ownership of the trademark and other assets to the Mastodon non-profit. Over the course of my time at Mastodon, I have centered myself less and less in our outward communications, and to some degree, [&#8230;]]]>
+      </description>
+      <source:markdown>Eugen Rochko (via Hacker News): After nearly 10 years, I am stepping down as the CEO of Mastodon and transferring my ownership of the trademark and other assets to the Mastodon non-profit. Over the course of my time at Mastodon, I have centered myself less and less in our outward communications, and to some degree, \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=50116</guid>
+    </item>    <item>
       <link>https://m.youtube.com/shorts/JGhXnOo3yuw</link>
       <description>
         <![CDATA[<p>Democrats to Troops: Don’t Follow Unlawful Orders.</p>]]>
@@ -206,13 +601,13 @@ It&#39;s easy to forget in the FOSS world, but Exchange still runs most corporat
         <li>Up to 5 images of humans to maintain character consistency</li>
         </ul>
         </blockquote>
+        <p>There is also a short (6 page) <a href="https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Pro-Image-Model-Card.pdf">model card PDF</a> which lists the following as "new capabilities" compared to the previous Nano Banana: Multi character editing, Chart editing, Text editing, Factuality - Edu, Multi-input 1-3, Infographics, Doodle editing, Visual design.</p>
         <h4 id="trying-out-some-detailed-instruction-image-prompts">Trying out some detailed instruction image prompts</h4>
         <p>Max Woolf published <a href="https://minimaxir.com/2025/11/nano-banana-prompts/#hello-nano-banana">the definitive guide to prompting Nano Banana</a> just a few days ago. I decided to try his example prompts against the new model, requesting results in 4K.</p>
         <p>Here's what I got for his first test prompt, using Google's <a href="https://aistudio.google.com/">AI Studio</a>:</p>
         <blockquote>
         <p><code>Create an image of a three-dimensional pancake in the shape of a skull, garnished on top with blueberries and maple syrup.</code></p>
         </blockquote>
-        <p>Here's what I got:</p>
         <p><img src="https://static.simonwillison.net/static/2025/pancake-skull-1.jpg" alt="A very detailed quality photo of a skull made of pancake batter, blueberries on top, maple syrup dripping down, maple syrup bottle in the background." style="max-width: 100%;" /></p>
         <p>The result came out as a 24.1MB, 5632 × 3072 pixel PNG file. I don't want to serve that on my own blog so here's <a href="https://drive.google.com/file/d/1QV3pcW1KfbTRQscavNh6ld9PyqG4BRes/view?usp=drive_link">a Google Drive link for the original</a>.</p>
         <p>Then I ran his follow-up prompt:</p>
@@ -225,8 +620,7 @@ It&#39;s easy to forget in the FOSS world, but Exchange still runs most corporat
         </code></pre>
         <p><img src="https://static.simonwillison.net/static/2025/pancake-skull-2.jpg" alt="It's the exact same skull with the requested edits made - mint garnish on the blueberries, a strawberry in the left hand eye socket (from our perspective, technically the skull's right hand socket), a blackberry in the other, the plate is now a plate-sized chocolate chip cookie (admittedly on a regular plate) and there are four happy peo ple in the background." style="max-width: 100%;" /></p>
         <p>I'll note that it did put the plate-sized cookie on a regular plate. Here's <a href="https://drive.google.com/file/d/18AzhM-BUZAfLGoHWl6MQW_UW9ju4km-i/view?usp=drive_link">the 24.9MB PNG</a>.</p>
-        <p>The new model isn't cheap. Here's <a href="https://ai.google.dev/gemini-api/docs/pricing#gemini-3-pro-image-preview">the API pricing</a>: it's 24 cents for a 4K image and 13.4 cents for a 1K or 2K image. Image inputs are 6.7 cents each.</p>
-        <p>If you use all 14 reference images to create a 4K output that's $1.18 for a single API call (plus a few more cents to cover your text prompt, charged at $2.00 per million tokens.)</p> 
+        <p>The new model isn't cheap. Here's <a href="https://ai.google.dev/gemini-api/docs/pricing#gemini-3-pro-image-preview">the API pricing</a>: it's 24 cents for a 4K image and 13.4 cents for a 1K or 2K image. Image inputs are 0.11 cents (just over 1/10th of a cent) each - an earlier version of their pricing page incorrectly said 6.7 cents each but that's now been fixed.</p>
         <p>Unlike most of Google's other models it also isn't available for free via AI Studio: you have to configure an API key with billing in order to use the model there.</p>
         <h4 id="creating-an-infographic">Creating an infographic</h4>
         <p>So this thing is great at following instructions. How about rendering text?</p>
@@ -288,6 +682,8 @@ As is often the case, the most useful low-level details can be found in [the API
 &#62; - Up to 6 images of objects with high-fidelity to include in the final image
 &#62; - Up to 5 images of humans to maintain character consistency
 
+There is also a short (6 page) [model card PDF](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Pro-Image-Model-Card.pdf) which lists the following as &#34;new capabilities&#34; compared to the previous Nano Banana: Multi character editing, Chart editing, Text editing, Factuality - Edu, Multi-input 1-3, Infographics, Doodle editing, Visual design.
+
 #### Trying out some detailed instruction image prompts
 
 Max Woolf published [the definitive guide to prompting Nano Banana](https://minimaxir.com/2025/11/nano-banana-prompts/#hello-nano-banana) just a few days ago. I decided to try his example prompts against the new model, requesting results in 4K.
@@ -295,8 +691,6 @@ Max Woolf published [the definitive guide to prompting Nano Banana](https://mini
 Here&#39;s what I got for his first test prompt, using Google&#39;s [AI Studio](https://aistudio.google.com/):
 
 &#62; `Create an image of a three-dimensional pancake in the shape of a skull, garnished on top with blueberries and maple syrup.`
-
-Here&#39;s what I got:
 
 ![A very detailed quality photo of a skull made of pancake batter, blueberries on top, maple syrup dripping down, maple syrup bottle in the background.](https://static.simonwillison.net/static/2025/pancake-skull-1.jpg)
 
@@ -318,9 +712,7 @@ Make ALL of the following edits to the image:
 
 I&#39;ll note that it did put the plate-sized cookie on a regular plate. Here&#39;s [the 24.9MB PNG](https://drive.google.com/file/d/18AzhM-BUZAfLGoHWl6MQW_UW9ju4km-i/view?usp=drive_link).
 
-The new model isn&#39;t cheap. Here&#39;s [the API pricing](https://ai.google.dev/gemini-api/docs/pricing#gemini-3-pro-image-preview): it&#39;s 24 cents for a 4K image and 13.4 cents for a 1K or 2K image. Image inputs are 6.7 cents each.
-
-If you use all 14 reference images to create a 4K output that&#39;s $1.18 for a single API call (plus a few more cents to cover your text prompt, charged at $2.00 per million tokens.)
+The new model isn&#39;t cheap. Here&#39;s [the API pricing](https://ai.google.dev/gemini-api/docs/pricing#gemini-3-pro-image-preview): it&#39;s 24 cents for a 4K image and 13.4 cents for a 1K or 2K image. Image inputs are 0.11 cents (just over 1/10th of a cent) each - an earlier version of their pricing page incorrectly said 6.7 cents each but that&#39;s now been fixed.
 
 Unlike most of Google&#39;s other models it also isn&#39;t available for free via AI Studio: you have to configure an API key with billing in order to use the model there.
 
@@ -20021,990 +20413,6 @@ This addresses some of our problems with DeviceTree computers, and improves the 
         <![CDATA[Improvements to the paid subscriptions setup experience]]>
       </description>
       <source:markdown>Improvements to the paid subscriptions setup experience</source:markdown>
-    </item>    <item>
-      <title>&#60;default:div xmlns=&#34;http://www.w3.org/1999/xhtml&#34; class=&#34;if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14&#34;/&#62;</title>
-      <link>https://tantek.com/2025/303/t1/october-blogging-challenges</link>
-      <guid>cid://https://tantek.com/2025/303/t1/october-blogging-challenges</guid>
-    </item>    <item>
-      <title>Swift 6.2: Subprocess</title>
-      <link>https://mjtsai.com/blog/2025/10/30/swift-6-2-subprocess/</link>
-      <description>
-        <![CDATA[Holly Borla: Swift 6.2 introduces a new Subprocess package that offers a streamlined, concurrency&#x2011;friendly API for launching and managing external processes. SF-0007: The existing Foundation API for spawning a process, NSTask, originated in Objective-C. It was subsequently renamed to Process in Swift. As the language has continued to evolve, Process has not kept up. It [&#8230;]]]>
-      </description>
-      <source:markdown>Holly Borla: Swift 6.2 introduces a new Subprocess package that offers a streamlined, concurrency‑friendly API for launching and managing external processes. SF-0007: The existing Foundation API for spawning a process, NSTask, originated in Objective-C. It was subsequently renamed to Process in Swift. As the language has continued to evolve, Process has not kept up. It \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49853</guid>
-    </item>    <item>
-      <title>NeoFinder 9.0</title>
-      <link>https://mjtsai.com/blog/2025/10/30/neofinder-9-0/</link>
-      <description>
-        <![CDATA[Norbert Doerner: New Cataloging engine with more speed and reliability [&#8230;] Ability to move files to new folders inside a Catalog Text Replacements for the XMP Editor for faster annotations [&#8230;] Image Capture to import photos and videos from connected cameras, including adding XMP presets, and store them in a date based folder structure [guide] [&#8230;]]]>
-      </description>
-      <source:markdown>Norbert Doerner: New Cataloging engine with more speed and reliability \[…\] Ability to move files to new folders inside a Catalog Text Replacements for the XMP Editor for faster annotations \[…\] Image Capture to import photos and videos from connected cameras, including adding XMP presets, and store them in a date based folder structure \[guide\] \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=49851</guid>
-    </item>    <item>
-      <title>Museum Theft Is a Victimless Crime</title>
-      <link>https://onefoottsunami.com/2025/10/30/museum-theft-is-a-victimless-crime/</link>
-      <guid>cid://https://onefoottsunami.com/?p=29356</guid>
-    </item>    <item>
-      <title>Have We Reached The Tipping Point?</title>
-      <link>https://steady.substack.com/p/have-we-reached-the-tipping-point</link>
-      <description>
-        <![CDATA[The president has stooped to using hunger as a political gambit]]>
-      </description>
-      <source:markdown>The president has stooped to using hunger as a political gambit</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!p_Iw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F364f0258-70e4-4a08-9914-446d2203ddce_6000x4000.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://steady.substack.com/p/have-we-reached-the-tipping-point</guid>
-    </item>    <item>
-      <title>That time some rando turned me into a meme coin</title>
-      <link>https://cloudfour.com/thinks/that-time-some-rando-turned-me-into-a-meme-coin/</link>
-      <description>
-        <![CDATA["I think someone made one of my tweets into a meme coin." She said, "I'm not sure I know what those words mean." I replied, "I'm not sure I do either."]]>
-      </description>
-      <source:markdown>&#34;I think someone made one of my tweets into a meme coin.&#34; She said, &#34;I&#39;m not sure I know what those words mean.&#34; I replied, &#34;I&#39;m not sure I do either.&#34;</source:markdown>
-      <enclosure url="https://cloudfour.com/wp-content/uploads/2025/10/grigs-coin-feature-r2.jpg" length="0" type="image/jpg" />
-      <guid>cid://https://cloudfour.com/?p=8299</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/10/30.html#a215911</link>
-      <description>
-        <![CDATA[Every OS should have a Help system that you can ask "How do I do this" and it understands what you're saying. The Mac OS tries to take you to a manual with a freaking table of contents! What do I look like, a robot? Come on it's 2025. Get with it. Maybe OpenAI should buy Apple.]]>
-      </description>
-      <source:markdown>Every OS should have a Help system that you can ask &#34;How do I do this&#34; and it understands what you&#39;re saying. The Mac OS tries to take you to a manual with a freaking table of contents! What do I look like, a robot? Come on it&#39;s 2025. Get with it. Maybe OpenAI should buy Apple.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/30.html#a215911</guid>
-    </item>    <item>
-      <title>Apple Reports Strong Q4 2025 Results</title>
-      <link>https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42335</guid>
-    </item>    <item>
-      <title>Live with Heather Cox Richardson</title>
-      <link>https://heathercoxrichardson.substack.com/p/live-with-heather-cox-richardson-031</link>
-      <description>
-        <![CDATA[A recording from Heather Cox Richardson's live video]]>
-      </description>
-      <source:markdown>A recording from Heather Cox Richardson&#39;s live video</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/177599971/36cc1a9a67019363879c85bb193fa54b.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/live-with-heather-cox-richardson-031</guid>
-    </item>    <item>
-      <title>Thursday session</title>
-      <link>https://adactio.com/notes/22227</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22227/small.jpg" srcset="https://adactio.com/images/uploaded/22227/medium.jpg 1.5x, https://adactio.com/images/uploaded/22227/large.jpg 2.5x" alt="Thursday session" />
-        <p>Thursday session</p>]]>
-      </description>
-      <source:markdown>![Thursday session](https://adactio.com/images/uploaded/22227/small.jpg)
-
-Thursday session</source:markdown>
-      <guid>cid://https://adactio.com/notes/22227</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m4grdusjts27</link>
-      <description>
-        <![CDATA[I needed to see that right now.
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <source:markdown>I needed to see that right now.
-
-\[contains quote post or other embedded content\]</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m4grdusjts27</guid>
-    </item>    <item>
-      <title>The Democratic Establishment Is a Dead Man Walking</title>
-      <link>https://www.notesfromthecircus.com/p/the-democratic-establishment-is-a</link>
-      <description>
-        <![CDATA[Hakeem Jeffries thinks the path back to power for Democrats is focusing on &#8220;kitchen table issues,&#8221; waiting for Trump to self-destruct, and avoiding challenging Trump on his increasing constitutional violations in immigration enforcement, the deployment of military to cities.]]>
-      </description>
-      <source:markdown>Hakeem Jeffries thinks the path back to power for Democrats is focusing on “kitchen table issues,” waiting for Trump to self-destruct, and avoiding challenging Trump on his increasing constitutional violations in immigration enforcement, the deployment of military to cities.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!3adu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb728d1b-37f5-4581-957e-87b2c78c53dd_6224x4672.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.notesfromthecircus.com/p/the-democratic-establishment-is-a</guid>
-    </item>    <item>
-      <title>AI is Dunning-Kruger as a service</title>
-      <link>https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/</link>
-      <description>
-        <![CDATA[On January 6th, 1995 two bank robbers in Pittsburgh confused law enforcement by not making any attempts to conceal their faces but instead brazenly looking at security cameras as if they were invisible. The reason is that they actually thought they were. Clifton Earl Johnson had convinced his fellow in crime, McArthur Wheeler that covering [&#8230;]]]>
-      </description>
-      <source:markdown>On January 6th, 1995 two bank robbers in Pittsburgh confused law enforcement by not making any attempts to conceal their faces but instead brazenly looking at security cameras as if they were invisible. The reason is that they actually thought they were. Clifton Earl Johnson had convinced his fellow in crime, McArthur Wheeler that covering \[…\]</source:markdown>
-      <guid>cid://https://christianheilmann.com/?p=8727</guid>
-    </item>    <item>
-      <title>Andrew Cuomo Uses AI MPREG Schoolhouse Rock Bill to Attack Mamdani, Is Out of Ideas</title>
-      <link>https://www.404media.co/ai-generated-mpreg-schoolhouse-rock-ad-attacking-mamdani-is-the-sad-poliaesthetic-of-our-time/</link>
-      <description>
-        <![CDATA[Uhh, is ChatGPT the dad or?]]>
-      </description>
-      <source:markdown>Uhh, is ChatGPT the dad or?</source:markdown>
-      <guid>cid://6903b976b0395800018a73f1</guid>
-    </item>    <item>
-      <title>Release Notes for Safari Technology Preview 231</title>
-      <link>https://webkit.org/blog/17560/release-notes-for-safari-technology-preview-231/</link>
-      <description>
-        <![CDATA[Safari Technology Preview Release 231 is now available for download for macOS Tahoe and macOS Sequoia.]]>
-      </description>
-      <source:markdown>Safari Technology Preview Release 231 is now available for download for macOS Tahoe and macOS Sequoia.</source:markdown>
-      <guid>cid://https://webkit.org/?p=17560</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m4gmugm7k22q</link>
-      <description>
-        <![CDATA[California – this Election Day, vote yes on Prop 50.
-        
-        California’s Prop 50 says that if Republicans are going to abuse the system to try and hang onto power, we’re going to counteract that abuse and create a level playing field in the midterm elections. 
-        
-        Make a plan to vote yes on Prop 50.]]>
-      </description>
-      <source:markdown>California – this Election Day, vote yes on Prop 50.
-
-California’s Prop 50 says that if Republicans are going to abuse the system to try and hang onto power, we’re going to counteract that abuse and create a level playing field in the midterm elections.
-
-Make a plan to vote yes on Prop 50.</source:markdown>
-      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m4gmugm7k22q</guid>
-    </item>    <item>
-      <title>October 29, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/october-29-2025-e47</link>
-      <enclosure url="https://api.substack.com/feed/podcast/177593782/eae0a165e010c6bfddbff39eb702b1d1.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/october-29-2025-e47</guid>
-    </item>    <item>
-      <title>Simplifying music playback</title>
-      <link>https://petermolnar.net/article/music-center-no-cast/</link>
-      <description>
-        <![CDATA[I decided to throw complications away and use a tablet, and a tablet alone via it's headphone jack to the amplifier. Blasphemy, sacrilege - no separate DAC, no dedicated streamer, no NAS, no nothing.]]>
-      </description>
-      <source:markdown>I decided to throw complications away and use a tablet, and a tablet alone via it&#39;s headphone jack to the amplifier. Blasphemy, sacrilege - no separate DAC, no dedicated streamer, no NAS, no nothing.</source:markdown>
-      <guid>cid://https://petermolnar.net/article/music-center-no-cast/</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/10/30.html#a180045</link>
-      <description>
-        <![CDATA[At the same time I heard from people at Automattic that they had successfully <a href="https://github.com/scripting/feedlandInstall">installed</a> the new version of the FeedLand software on <a href="https://feedland.com/?river=true&screenname=davewiner&catname=politics">feedland.com</a> which runs on their VIP system, so theoretically should scale as well as anything on the net. There was a serious performance problem, that, with the help of <a href="https://ohryan.ca/author/admin/">Ryan Neudorf</a> who I met in Ottawa, and Scott Hanson, longtime contributor here, was <a href="https://github.com/scripting/feedlandDev/issues/8">fixed</a>. It was a daring move, it meant that <i>all</i> the timeline-generating code in FeedLand had to be rewritten. It was worth it. If you've ever felt that FeedLand was too slow at displaying news, please try again, I think you'll be pleased.]]>
-      </description>
-      <source:markdown>At the same time I heard from people at Automattic that they had successfully [installed](https://github.com/scripting/feedlandInstall) the new version of the FeedLand software on [feedland.com](https://feedland.com/?river=true&#38;screenname=davewiner&#38;catname=politics) which runs on their VIP system, so theoretically should scale as well as anything on the net. There was a serious performance problem, that, with the help of [Ryan Neudorf](https://ohryan.ca/author/admin/) who I met in Ottawa, and Scott Hanson, longtime contributor here, was [fixed](https://github.com/scripting/feedlandDev/issues/8). It was a daring move, it meant that _all_ the timeline-generating code in FeedLand had to be rewritten. It was worth it. If you&#39;ve ever felt that FeedLand was too slow at displaying news, please try again, I think you&#39;ll be pleased.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/30.html#a180045</guid>
-    </item>    <item>
-      <title>Chimps Are Capable of Human-Like Rational Thought, Breakthrough Study Finds</title>
-      <link>https://www.404media.co/chimps-are-capable-of-human-like-rational-thought-breakthrough-study-finds/</link>
-      <description>
-        <![CDATA[In a series of experiments, chimpanzees revised their beliefs based on new evidence, shedding light on the evolutionary origins of rational thought.]]>
-      </description>
-      <source:markdown>In a series of experiments, chimpanzees revised their beliefs based on new evidence, shedding light on the evolutionary origins of rational thought.</source:markdown>
-      <guid>cid://690370dfb0395800018a26ef</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/10/30.html#a174601</link>
-      <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2024/12/25/leftfacingsanta.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Just heard from <a href="https://inessential.com/">Brent Simmons</a> that the next version of <a href="https://github.com/Ranchero-Software/NetNewsWire/issues/3896#issuecomment-3468342615">NetNewsWire</a> will support the <a href="http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInRss">Markdown in RSS</a>. I wrote it up on my <a href="https://daveverse.org/2025/10/30/markdown-support-coming-in-netnewswire/">daveverse site</a>, which I edit with <a href="https://wordland.social/">WordLand</a>, which means it has a <a href="https://wordland.dev/scripting/237777565/rss.xml">special feed</a> that contains <a href="https://source.scripting.com/#1653758422000">source:markdown</a> elements. You can be one of the first people with markdown-support in your feed, and in doing so, help the bootstrap. If you have questions, post a comment <a href="https://github.com/scripting/Scripting-News/issues/334">here</a>.]]>
-      </description>
-      <source:markdown>![](https://imgs.scripting.com/2024/12/25/leftfacingsanta.png)Just heard from [Brent Simmons](https://inessential.com/) that the next version of [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire/issues/3896#issuecomment-3468342615) will support the [Markdown in RSS](http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInRss). I wrote it up on my [daveverse site](https://daveverse.org/2025/10/30/markdown-support-coming-in-netnewswire/), which I edit with [WordLand](https://wordland.social/), which means it has a [special feed](https://wordland.dev/scripting/237777565/rss.xml) that contains [source:markdown](https://source.scripting.com/#1653758422000) elements. You can be one of the first people with markdown-support in your feed, and in doing so, help the bootstrap. If you have questions, post a comment [here](https://github.com/scripting/Scripting-News/issues/334).</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/30.html#a174601</guid>
-    </item>    <item>
-      <title>Markdown support coming in NetNewsWire</title>
-      <link>https://links.daveverse.org/2025/10/30/markdown-support-coming-in-netnewswire/</link>
-      <description>
-        <![CDATA[<p>I just got word from Brent that the next release of NetNewsWire will have support for the source:markdown element. </p>
-        
-        <p>This will help the transition to using Markdown as a fully-supported format for RSS. Right now NNW is the first mainstream product to support it. </p>
-        
-        <p>This site has an RSS feed that contains source:markdown elements. </p>
-        
-        <p>Every WordLand-written post has one of these feeds, so there is an official way to publish content that NNW will display via Markdown.</p>]]>
-      </description>
-      <source:markdown>I just got word from Brent that the next release of NetNewsWire will have support for the source:markdown element.
-
-This will help the transition to using Markdown as a fully-supported format for RSS. Right now NNW is the first mainstream product to support it.
-
-This site has an RSS feed that contains source:markdown elements.
-
-Every WordLand-written post has one of these feeds, so there is an official way to publish content that NNW will display via Markdown.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/30/markdown-support-coming-in-netnewswire/</guid>
-    </item>    <item>
-      <title>Libraries are reeling after a major distributor shutdown.</title>
-      <link>https://lithub.com/libraries-are-reeling-after-a-major-distributor-shutdown/</link>
-      <description>
-        <![CDATA[This Thursday brings bad news for book lovers. Baker &#38; Taylor, one of the largest distributors for print library books in America, is closing down—and throwing the distribution pipeline into (at least) short term chaos as a result. As 404Media]]>
-      </description>
-      <source:markdown>This Thursday brings bad news for book lovers. Baker &#38; Taylor, one of the largest distributors for print library books in America, is closing down—and throwing the distribution pipeline into (at least) short term chaos as a result. As 404Media</source:markdown>
-      <guid>cid://https://lithub.com/?p=261967</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115464185157900258</link>
-      <description>
-        <![CDATA[<p>My radicalization continues:</p><p><a href="https://www.tiktok.com/t/ZTM465w6G/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="">tiktok.com/t/ZTM465w6G/</span><span class="invisible"></span></a></p>]]>
-      </description>
-      <source:markdown>My radicalization continues:
-
-[https://www.tiktok.com/t/ZTM465w6G/](https://www.tiktok.com/t/ZTM465w6G/)</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115464185157900258</guid>
-    </item>    <item>
-      <title>From Chef to Dad: David Chang’s New Definition of Success</title>
-      <link>https://guykawasaki.substack.com/p/from-chef-to-dad-david-changs-new</link>
-      <description>
-        <![CDATA[Chef David Chang knows how to burn bright without burning out.]]>
-      </description>
-      <source:markdown>Chef David Chang knows how to burn bright without burning out.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!D8Wc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F400687c0-b9c5-45e0-b6c4-2550edc3095d_1080x1080.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://guykawasaki.substack.com/p/from-chef-to-dad-david-changs-new</guid>
-    </item>    <item>
-      <title>Trump Orders Nuclear Testing As Nuke Workers Go Unpaid</title>
-      <link>https://www.404media.co/trump-orders-nuclear-testing-as-nuke-workers-go-unpaid/</link>
-      <description>
-        <![CDATA[Everyone loses and nobody wins if America decides to resume nuclear testing after a 30 year moratorium.]]>
-      </description>
-      <source:markdown>Everyone loses and nobody wins if America decides to resume nuclear testing after a 30 year moratorium.</source:markdown>
-      <guid>cid://69039054b0395800018a67bb</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/10/30.html#a160221</link>
-      <description>
-        <![CDATA[Since many of us now program with AI chatbot assistance, it seems it's time to think about higher level languages we can use to specify what we're doing, new kinds of computers because we now have bigger more capable minds at work.]]>
-      </description>
-      <source:markdown>Since many of us now program with AI chatbot assistance, it seems it&#39;s time to think about higher level languages we can use to specify what we&#39;re doing, new kinds of computers because we now have bigger more capable minds at work.</source:markdown>
-      <guid>cid://http://scripting.com/2025/10/30.html#a160221</guid>
-    </item>    <item>
-      <title>CarPlay Seems Essential for Rental Fleets</title>
-      <link>https://joe-steel.com/2025-10-22-Why-GM-Will-Give-You-Gemini-But-Not-CarPlay.html</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42334</guid>
-    </item>    <item>
-      <title>Aleth Gueguen is speaking at Web Day Out</title>
-      <link>https://adactio.com/journal/22225</link>
-      <description>
-        <![CDATA[<p>Almost two months ago, <a href="https://adactio.com/journal/22113">I put out the call</a> for speaker suggestions for <a href="https://webdayout.com/">Web Day Out</a>. I got some good responses—thank you to everyone who took the time to get in touch.</p>
-        
-        <p>The response that really piqued my interest was from <a href="https://alethgueguen.com/">Aleth Gueguen</a>. She proposed a talk on progressive web apps, backed up with plenty of experience. The more I thought about it, the more I realised how perfect it would be for Web Day Out.</p>
-        
-        <p>So I’m very pleased to announce that Aleth will be speaking at Web Day Out about <a href="https://webdayout.com/aleth-gueguen/#talk">progressive web apps from the trenches</a>:</p>
-        
-        <blockquote>
-          <p>Find out about the most important capabilities in progressive web apps and how to put them to work.</p>
-        </blockquote>
-        
-        <p>I’m really excited about this line-up! This is going to be a day out that you won’t want to miss. <a href="https://ti.to/clearleft/web-day-out">Get your ticket</a> for a mere £225+VAT if you haven’t already!</p>
-        
-        <p><a href="https://webdayout.com/">See you in Brighton on 12 March, 2026!</a></p>]]>
-      </description>
-      <source:markdown>Almost two months ago, [I put out the call](https://adactio.com/journal/22113) for speaker suggestions for [Web Day Out](https://webdayout.com/). I got some good responses—thank you to everyone who took the time to get in touch.
-
-The response that really piqued my interest was from [Aleth Gueguen](https://alethgueguen.com/). She proposed a talk on progressive web apps, backed up with plenty of experience. The more I thought about it, the more I realised how perfect it would be for Web Day Out.
-
-So I’m very pleased to announce that Aleth will be speaking at Web Day Out about [progressive web apps from the trenches](https://webdayout.com/aleth-gueguen/#talk):
-
-&#62; Find out about the most important capabilities in progressive web apps and how to put them to work.
-
-I’m really excited about this line-up! This is going to be a day out that you won’t want to miss. [Get your ticket](https://ti.to/clearleft/web-day-out) for a mere £225+VAT if you haven’t already!
-
-[See you in Brighton on 12 March, 2026!](https://webdayout.com/)</source:markdown>
-      <guid>cid://https://adactio.com/journal/22225</guid>
-    </item>    <item>
-      <link>https://glammr.us/@IIIF/115463786503138295</link>
-      <description>
-        <![CDATA[<p>It&#39;s the final weekend to submit a proposal for the 2026 <a href="https://glammr.us/tags/IIIF" class="mention hashtag" rel="tag">#<span>IIIF</span></a> Online Meeting. </p><p>Read the full CfP here: <a href="https://iiif.io/event/2026/online-meeting/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">iiif.io/event/2026/online-meet</span><span class="invisible">ing/</span></a></p>]]>
-      </description>
-      <source:markdown>It&#39;s the final weekend to submit a proposal for the 2026 [#IIIF](https://glammr.us/tags/IIIF) Online Meeting.
-
-Read the full CfP here: [https://iiif.io/event/2026/online-meeting/](https://iiif.io/event/2026/online-meeting/)</source:markdown>
-      <guid>cid://https://glammr.us/@IIIF/115463786503138295</guid>
-    </item>    <item>
-      <title>Note published on October 30, 2025 at 3:12 PM UTC</title>
-      <link>https://www.mollywhite.net/micro/entry/202510301111</link>
-      <guid>cid://690380607034ea8afbbc1154</guid>
-    </item>    <item>
-      <title>Someone Snuck Into a Cellebrite Microsoft Teams Call and Leaked Phone Unlocking Details</title>
-      <link>https://www.404media.co/someone-snuck-into-a-cellebrite-microsoft-teams-call-and-leaked-phone-unlocking-details/</link>
-      <description>
-        <![CDATA[The leaked slide focuses on Google Pixel phones and mentions those running the security-focused GrapheneOS operating system.]]>
-      </description>
-      <source:markdown>The leaked slide focuses on Google Pixel phones and mentions those running the security-focused GrapheneOS operating system.</source:markdown>
-      <guid>cid://690379eab0395800018a570a</guid>
-    </item>    <item>
-      <title>Trump Orders ICE Agents to Pick Crops Unharvested by Deported Immigrants</title>
-      <link>https://www.borowitzreport.com/p/trump-orders-ice-agents-to-pick-crops</link>
-      <description>
-        <![CDATA[&#8220;I didn&#8217;t sign up for this,&#8221; complained an exhausted ICE officer.]]>
-      </description>
-      <source:markdown>“I didn’t sign up for this,” complained an exhausted ICE officer.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!up-M!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd577ec6d-e909-4176-afa6-c43d565d91e7_1080x809.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/trump-orders-ice-agents-to-pick-crops</guid>
-    </item>    <item>
-      <title>A Newsletter of Humorous Writing #416</title>
-      <link>https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-416/</link>
-      <description>
-        <![CDATA[<h3><em>For October 22-28, 2025</em></h3>
-        <p>Hello and welcome to <strong>A Newsletter of Humorous Writing</strong>, a roundup of the week's finest short humor pieces and funny articles, and a celebration of the fantastic writers who wrote them. Hey guys, James here. Please don’t tell Luke, but for the fourth year in a row I’ve eaten all the Halloween candy that we’re supposed to hand out at Humorous Readings Headquarters (HRHQ). I’m not sure he’s going to buy “it all melted and was sipped up by hummingbirds” again, so if he asks, just back me up and say that you don’t know what happened to the candy or why my face is smeared in chocolate. Thanks!</p>
-        <hr/><h2>What We Enjoyed This Week</h2>
-        <p><a href="https://reductress.com/post/healthy-this-woman-just-chose-chips-over-gummy-worms-because-they-seem-more-of-the-earth/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><strong>Healthy! This Woman Just Chose Chips Over Gummy Worms Because They Seem More of the Earth</strong></a><strong> by </strong><a href="https://www.mckayleygourley.com/about?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><strong>McKayley Gourley</strong></a> <em>(Reductress)</em> This piece, written by one of our favorite writers, is filled with great lines but we want to zoom in on a very small detail: the closing phrase in the title, “They Seem More of the Earth” is excellent. It’s so specifically weird and stilted in a way that immediately conjures a character.</p>
-        <p><a href="https://medium.com/slackjaw/new-rules-for-the-moat-4b61cc9edc69?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><strong>New Rules For The Moat</strong></a><strong> by </strong><a href="https://livrariaplutao.bigcartel.com/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><strong>Luís Leal Miranda</strong></a><strong> </strong><em>(Slackjaw) </em>Very impressive breadth of exploration here. Luís hits moats from a lot of angles, which is a good reminder to really take the time to think through all the implications of your premise. It pays off!</p>
-        <p><a href="https://www.mcsweeneys.net/articles/our-wedding-gifts-ten-years-later?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><strong>Our Wedding Gifts: Ten Years Later</strong></a><strong> by </strong><a href="https://kristenmulrooney.com/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><strong>Kristen Mulrooney</strong></a> <em>(McSweeney’s)</em> Such a simple, clear pattern to this piece. Kristen has so much fun exploring and sticks the landing with a perfect final beat that caps off a bunch of threads in one go. We also love a zoodles reference.</p>
-        <hr/><blockquote><p>-- AD --</p><p>Django Gold (Colbert, the Onion) is bringing a BRAND-NEW hour (plus or minus five minutes) of stand-up comedy to the Gutter on Friday, November 7 as part of the New York Comedy Festival!</p><p>Come get silly, Django style - grab your <a href="https://www.eventbrite.com/e/django-gold-55-new-minutes-new-york-comedy-festival-tickets-1668759246829?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank">tickets</a> today!</p><hr/><p><a href="https://classes.stellaadler.com/classes/winter/devised-comedy-winter/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank">Devised Comedy @ Adler</a> from Matt Gehring</p><p>After fifteen years in comedy and five years shaping talent with Ars Nova CAMP, I’m launching the Devised Comedy Winter Immersion at Stella Adler Studio (open to all). The program takes comedy seriously, offering six original courses: Devised Comedy, Writing for Sketch, Acting for Sketch, Body &amp; Comedy, Improvisation for Stage, and Improvisation for Film/TV/Audio—taught by DC Pierson, Chet Siegel, Moujan Zolfaghari, Mahayla Laurence, and me. It’s a chance for actors to sharpen their comedic craft or comedians to deepen their acting. The goal: treat comedy with the same artistic rigor as drama.</p><p><em>(Do you have an ad you'd like to place in the Newsletter? </em><a href="https://docs.google.com/forms/d/e/1FAIpQLSeJlHErf2PuWr5NxqLbD6dhf7s31pzCC3sBVCHJ24exAwfmgQ/viewform?usp=sf_link&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><em>Fill out this form!</em></a><em>)</em></p></blockquote>
-        <hr/><h2>An Old Favorite</h2>
-        <p><strong><em>This week's Old Favorite is a</em></strong> <a href="http://www.mcsweeneys.net/articles/celebrating-the-hilarious-work-of-brian-agler?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><strong><em>Brian Agler</em></strong></a> <strong><em>Selection (TM)--a piece whose accompanying note was written by Brian--from </em></strong><a href="https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-56/" rel="noopener noreferrer nofollow" target="_blank"><strong><em>Newsletter #56</em></strong></a><strong><em>, an edition Brian pumpkin spiced.</em></strong></p>
-        <p><a href="https://www.newyorker.com/humor/daily-shouts/everything-ive-done-that-made-a-rich-old-lady-with-opera-glasses-faint-or-a-monocle-fall-out-of-a-rich-guys-eye?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><strong>Everything I've Done That Made A Rich Old Lady With Opera Glasses Faint Or A Monocle Fall Out Of A Rich Guy's Eye</strong></a> by <a href="https://twitter.com/AlexanderWatt?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><strong>Alex Watt</strong></a> <em>(New Yorker)</em> This piece was so funny, it made me want to eat a horse's ass! (Ed note: This is only funny if you've read the piece beforehand. Now, it's just weird.)</p>
-        <p><em>Do you have an Old Favorite of your own? Let us know by filling out</em> <a href="http://forms.gle/9iALhpfsAn9mvn4p8?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><em>this form</em></a> <em>and we may run your pick in a future edition of the newsletter.</em></p>
-        <hr/><h2>Updates From Your Hosts and Friends of the Show</h2>
-        <p>Luke’s still got a few spots left in two short humor workshops starting in exactly one week: A <a href="https://docs.google.com/forms/d/e/1FAIpQLScTnF1MJNoB2Hu_rpYmCxsgu8Fj2fHb71mdRf4L4nBXfBLUpA/viewform?usp=dialog&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank">Thursday afternoon class</a> and a <a href="https://docs.google.com/forms/d/e/1FAIpQLSebBNaODHpu9VfzRFDu0GjOJlKLi2nA-IxV9k5tTp92pqgyJw/viewform?usp=dialog&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank">Thursday night class</a>. Writing from past workshops has gone on to be published by <a href="https://bsky.app/profile/lukevburns.bsky.social/post/3lxzikevnws2j?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank">The New Yorker</a> (print and online), <a href="https://bsky.app/profile/lukevburns.bsky.social/post/3m3fvpjx6bs2t?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank">McSweeney’s</a>, and <a href="https://bsky.app/profile/lukevburns.bsky.social/post/3ldlqe2ftjk2x?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank">more</a>!</p>
-        <p>Oh and—James again—Luke found out about the candy so I’m going to be in time-out until the next edition. Sorry I roped you all into this!</p>]]>
-      </description>
-      <source:markdown>### _For October 22-28, 2025_
-
-Hello and welcome to **A Newsletter of Humorous Writing**, a roundup of the week&#39;s finest short humor pieces and funny articles, and a celebration of the fantastic writers who wrote them. Hey guys, James here. Please don’t tell Luke, but for the fourth year in a row I’ve eaten all the Halloween candy that we’re supposed to hand out at Humorous Readings Headquarters (HRHQ). I’m not sure he’s going to buy “it all melted and was sipped up by hummingbirds” again, so if he asks, just back me up and say that you don’t know what happened to the candy or why my face is smeared in chocolate. Thanks!
-
-* * *
-
-## What We Enjoyed This Week
-
-[**Healthy! This Woman Just Chose Chips Over Gummy Worms Because They Seem More of the Earth**](https://reductress.com/post/healthy-this-woman-just-chose-chips-over-gummy-worms-because-they-seem-more-of-the-earth/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) **by** [**McKayley Gourley**](https://www.mckayleygourley.com/about?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) _(Reductress)_ This piece, written by one of our favorite writers, is filled with great lines but we want to zoom in on a very small detail: the closing phrase in the title, “They Seem More of the Earth” is excellent. It’s so specifically weird and stilted in a way that immediately conjures a character.
-
-[**New Rules For The Moat**](https://medium.com/slackjaw/new-rules-for-the-moat-4b61cc9edc69?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) **by** [**Luís Leal Miranda**](https://livrariaplutao.bigcartel.com/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) _(Slackjaw)_ Very impressive breadth of exploration here. Luís hits moats from a lot of angles, which is a good reminder to really take the time to think through all the implications of your premise. It pays off!
-
-[**Our Wedding Gifts: Ten Years Later**](https://www.mcsweeneys.net/articles/our-wedding-gifts-ten-years-later?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) **by** [**Kristen Mulrooney**](https://kristenmulrooney.com/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) _(McSweeney’s)_ Such a simple, clear pattern to this piece. Kristen has so much fun exploring and sticks the landing with a perfect final beat that caps off a bunch of threads in one go. We also love a zoodles reference.
-
-* * *
-
-&#62; \-\- AD --
-&#62;
-&#62; Django Gold (Colbert, the Onion) is bringing a BRAND-NEW hour (plus or minus five minutes) of stand-up comedy to the Gutter on Friday, November 7 as part of the New York Comedy Festival!
-&#62;
-&#62; Come get silly, Django style - grab your [tickets](https://www.eventbrite.com/e/django-gold-55-new-minutes-new-york-comedy-festival-tickets-1668759246829?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) today!
-&#62;
-&#62; * * *
-&#62;
-&#62; [Devised Comedy @ Adler](https://classes.stellaadler.com/classes/winter/devised-comedy-winter/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) from Matt Gehring
-&#62;
-&#62; After fifteen years in comedy and five years shaping talent with Ars Nova CAMP, I’m launching the Devised Comedy Winter Immersion at Stella Adler Studio (open to all). The program takes comedy seriously, offering six original courses: Devised Comedy, Writing for Sketch, Acting for Sketch, Body &#38; Comedy, Improvisation for Stage, and Improvisation for Film/TV/Audio—taught by DC Pierson, Chet Siegel, Moujan Zolfaghari, Mahayla Laurence, and me. It’s a chance for actors to sharpen their comedic craft or comedians to deepen their acting. The goal: treat comedy with the same artistic rigor as drama.
-&#62;
-&#62; _(Do you have an ad you&#39;d like to place in the Newsletter?_ [_Fill out this form!_](https://docs.google.com/forms/d/e/1FAIpQLSeJlHErf2PuWr5NxqLbD6dhf7s31pzCC3sBVCHJ24exAwfmgQ/viewform?usp=sf_link&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) _)_
-
-* * *
-
-## An Old Favorite
-
-**_This week&#39;s Old Favorite is a_** [**_Brian Agler_**](http://www.mcsweeneys.net/articles/celebrating-the-hilarious-work-of-brian-agler?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) **_Selection (TM)--a piece whose accompanying note was written by Brian--from_** [**_Newsletter #56_**](https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-56/) **_, an edition Brian pumpkin spiced._**
-
-[**Everything I&#39;ve Done That Made A Rich Old Lady With Opera Glasses Faint Or A Monocle Fall Out Of A Rich Guy&#39;s Eye**](https://www.newyorker.com/humor/daily-shouts/everything-ive-done-that-made-a-rich-old-lady-with-opera-glasses-faint-or-a-monocle-fall-out-of-a-rich-guys-eye?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) by [**Alex Watt**](https://twitter.com/AlexanderWatt?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) _(New Yorker)_ This piece was so funny, it made me want to eat a horse&#39;s ass! (Ed note: This is only funny if you&#39;ve read the piece beforehand. Now, it&#39;s just weird.)
-
-_Do you have an Old Favorite of your own? Let us know by filling out_ [_this form_](http://forms.gle/9iALhpfsAn9mvn4p8?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) _and we may run your pick in a future edition of the newsletter._
-
-* * *
-
-## Updates From Your Hosts and Friends of the Show
-
-Luke’s still got a few spots left in two short humor workshops starting in exactly one week: A [Thursday afternoon class](https://docs.google.com/forms/d/e/1FAIpQLScTnF1MJNoB2Hu_rpYmCxsgu8Fj2fHb71mdRf4L4nBXfBLUpA/viewform?usp=dialog&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) and a [Thursday night class](https://docs.google.com/forms/d/e/1FAIpQLSebBNaODHpu9VfzRFDu0GjOJlKLi2nA-IxV9k5tTp92pqgyJw/viewform?usp=dialog&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416). Writing from past workshops has gone on to be published by [The New Yorker](https://bsky.app/profile/lukevburns.bsky.social/post/3lxzikevnws2j?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) (print and online), [McSweeney’s](https://bsky.app/profile/lukevburns.bsky.social/post/3m3fvpjx6bs2t?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416), and [more](https://bsky.app/profile/lukevburns.bsky.social/post/3ldlqe2ftjk2x?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416)!
-
-Oh and—James again—Luke found out about the candy so I’m going to be in time-out until the next edition. Sorry I roped you all into this!</source:markdown>
-      <guid>cid://https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-416/</guid>
-    </item>    <item>
-      <title>KDE tidies up Plasma 6.5 with 60-odd fixes and smoother setup for OEMs</title>
-      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/10/30/kde_65_651/</link>
-      <description>
-        <![CDATA[<h4>Big release with a lot of new features – and a few inevitable glitches</h4>
-              <p>The KDE Plasma 6.5 graphical shell arrived last week for Unix-like operating systems, and now 6.5.1 is here for the more cautious. The team&#39;s squashed over 60 bugs – and they&#39;re by no means all new.</p>]]>
-      </description>
-      <source:markdown>#### Big release with a lot of new features – and a few inevitable glitches
-
-The KDE Plasma 6.5 graphical shell arrived last week for Unix-like operating systems, and now 6.5.1 is here for the more cautious. The team&#39;s squashed over 60 bugs – and they&#39;re by no means all new.</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242755</guid>
-    </item>    <item>
-      <title>Libraries Scramble for Books After Giant Distributor Shuts Down</title>
-      <link>https://www.404media.co/libraries-scramble-for-books-after-giant-distributor-shuts-down/</link>
-      <description>
-        <![CDATA[Why it might have been and may continue to be harder to get new releases from your local library.]]>
-      </description>
-      <source:markdown>Why it might have been and may continue to be harder to get new releases from your local library.</source:markdown>
-      <guid>cid://68fbc132dbf2dc000117eff8</guid>
-    </item>    <item>
-      <title>2025-10-22 Bots, again. I&#39;m taking it personally.</title>
-      <link>https://alexschroeder.ch/view/2025-10-22-bots-again</link>
-      <description>
-        <![CDATA[<h1 id="2025-10-22-bots-again-i-m-taking-it-personally">2025-10-22 Bots, again. I&rsquo;m taking it personally.</h1>
-        
-        <p>My auto-blocking of bots hasn’t needed much intervention in recent weeks. The
-        current average is 10,000 blocked IP ranges.
-        If you&rsquo;re interested, there&rsquo;s a
-        <a href="https://transjovian.org/view/fight-bots/index">a description of my setup</a>.</p>
-        
-        <p><img loading="lazy" src="2025-10-22-bots-again/01K7RMQ3YVE09T7ZYGSNEMBH1H.png" alt="Lots of graphs but the important one is the yellow line that’s pretty stable around 10k." /></p>
-        
-        <p>Hah, I post the above and now load is 95 and the bots are at it.</p>
-        
-        <p>What I don’t like about Munin is that when it crashes (I assume it’s the OOM
-        reaper making the rounds), then it leaves behind a lock that prevents the
-        graph from updating. Ugh.</p>
-        
-        <p><img loading="lazy" src="2025-10-22-bots-again/01K7YKFAPMFGSC0F8EBRSM66YJ.png" alt="A Munin graph showing maximum average load being 137.51 and now back to 1.24." /></p>
-        
-        <p>If you like large language models (LLMs), know that they need regular
-        training and the people training them are ruining the web for
-        everybody. You are part of this, as a consumer.</p>
-        
-        <p>Most sites don’t have the defences required, or require the execution
-        of expensive JavaScript for the CO₂ god, or require placing all your
-        visitor’s browsing data into the hands of another company, most likely
-        CloudFlare, in the USA. If you object to any of that, you must do your
-        duty and reject the use of LLMs as well. You can’t eat your cake and
-        claim to object to the rest. It would be a most incongruent position
-        to take.</p>
-        
-        <p>And since this kind of shit often happens while
-        <a href="2025-portugal">I’m on holidays</a>, the LLM friends reading this are
-        responsible, in a very small way, for pissing on me during my
-        holidays. And I resent it.</p>
-        
-        <p>I resent it very much.</p>
-        
-        <p><img loading="lazy" src="2025-10-22-bots-again/01K7YXF66MYSEQC615WGSBECN2.png" alt="Load going up to 80, again. And back down, again." /></p>
-        
-        <p>Waking up in a hotel bed, opening the balcony doors, hearing the birds
-        sing, switching on the phone and realising that load is over 100 and
-        nothing works, switching off Emacs Wiki and Community Wiki, the
-        favourite targets of the AI scrapers and thinking of the people who
-        like to use large language models.</p>
-        
-        <p>It’s the same problem as always: drive a car, see the CO₂ in the world
-        go up, “but I need it!” – yeah, but we need an earth that supports
-        human life too, idiots. Humans, where comfort is separated from
-        consequences by time and space like to choose comfort. In this case,
-        the AI comfort leads to the shut down of the open web, the
-        centralisation of what remains, the installation of barriers, and ever
-        and always: more control for fewer people. But of course, the
-        consequences are separated by time and space from the comforts of AI
-        users.</p>
-        
-        <p>Imagine a goddess of destruction with a grim smile and a thousand
-        hands and each one of them is giving you a middle finger.</p>
-        
-        <p>Load average: 142.25</p>
-        
-        <p>I switched off Community Wiki and Emacs Wiki.</p>
-        
-        <p>Coming back after a day of excursions and things seem to be working
-        fine, if I don’t switch on those two sites. These two have been
-        unavailable for a minimum of six hours and yet in the last two hours
-        Emacs Wiki still got 3537 requests.</p>
-        
-        <p>Time to ban every network of every ASN that&rsquo;s still requesting Emacs Wiki pages.</p>
-        
-        <pre><code>2h-access-log \
-        | grep '^www\.emacswiki\.org' \
-        | log-ip \
-        | asncounter --top 50 --no-prefixes 2&gt;/dev/null \
-        | awk '/^[1-9]/ &amp;&amp; $1 &gt;= 10 { print $3 }' \
-        | xargs asn-networks \
-        | xargs fail2ban-client set butlerian-jihad-week banip
-        </code></pre>
-        
-        <p>If you&rsquo;re looking for the building blocks I&rsquo;m using, see my
-        <a href="https://alexschroeder.ch/admin/">collection of admin scripts and shell functions</a>.</p>
-        
-        <p>Hours later, I switched Emacs Wiki on for a minute and load
-        immediately rose from around 1 to nearly 4 and my SSH connection
-        became slow as molasses. It&rsquo;ll remain switched off for tonight and
-        probably tomorrow, too. It depends on the kind of wifi connection I
-        have, tomorrow.</p>
-        
-        <p>Perhaps I should just hand Emacs Wiki off to somebody who&rsquo;s more into
-        it.</p>
-        
-        <p>Switching off Community Wiki and two smaller sites as well, for now.</p>
-        
-        <p><a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23Emacs">#Emacs</a></p>
-        
-        <p><strong>2025-10-22</strong>. On IRC, twb replied to my complaints about the Munin lock being left behind:</p>
-        
-        <blockquote>
-        <p>if you have systemd, just set RuntimeDirectory=%p and systemd will clean it up</p>
-        </blockquote>
-        
-        <p>Also, he&rsquo;s running <a href="https://github.com/trentbuck/collection4/blob/main/debian/service">collection4</a> instead of Munin.</p>
-        
-        <p><strong>2025-10-23</strong>. Switching Emacs Wiki back on, about nine hours ago.</p>
-        
-        <p><img loading="lazy" src="2025-10-22-bots-again-1.jpg" alt="" /></p>
-        
-        <p><strong>2025-10-29</strong>. <a class="account" href="https://infosec.exchange/@briankrebs" title="@briankrebs@infosec.exchange">@briankrebs</a> writes:</p>
-        
-        <blockquote>
-        <p><strong>Aisuru</strong>, the botnet responsible for a series of record-smashing distributed denial-of-service (DDoS) attacks this year, recently was overhauled to support a more low-key, lucrative and sustainable business: Renting hundreds of thousands of infected Internet of Things (IoT) devices to proxy services that help cybercriminals anonymize their traffic. Experts say a glut of proxies from Aisuru and other sources is fueling large-scale data harvesting efforts tied to various artificial intelligence (AI) projects, helping content scrapers evade detection by routing their traffic through residential connections that appear to be regular Internet users. &ndash; <a href="https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/">Aisuru Botnet Shifts from DDoS to Residential Proxies</a></p>
-        </blockquote>
-        
-        <p><strong>2025-10-30</strong>. Bear blog is run by Herman and he&rsquo;s angry, too.</p>
-        
-        <blockquote>
-        <p>The public internet is mostly bots, many of whom are bad netizens. It&rsquo;s the most hostile it&rsquo;s ever been, and it is because of this that I feel it&rsquo;s more important than ever to take good care of the spaces that make the internet worth visiting. &ndash; <a href="https://herman.bearblog.dev/agressive-bots/">Aggressive bots ruined my weekend</a></p>
-        </blockquote>]]>
-      </description>
-      <source:markdown># 2025-10-22 Bots, again. I’m taking it personally.
-
-My auto-blocking of bots hasn’t needed much intervention in recent weeks. The
-current average is 10,000 blocked IP ranges.
-If you’re interested, there’s a
-[a description of my setup](https://transjovian.org/view/fight-bots/index).
-
-![Lots of graphs but the important one is the yellow line that’s pretty stable around 10k.](2025-10-22-bots-again/01K7RMQ3YVE09T7ZYGSNEMBH1H.png)
-
-Hah, I post the above and now load is 95 and the bots are at it.
-
-What I don’t like about Munin is that when it crashes (I assume it’s the OOM
-reaper making the rounds), then it leaves behind a lock that prevents the
-graph from updating. Ugh.
-
-![A Munin graph showing maximum average load being 137.51 and now back to 1.24.](2025-10-22-bots-again/01K7YKFAPMFGSC0F8EBRSM66YJ.png)
-
-If you like large language models (LLMs), know that they need regular
-training and the people training them are ruining the web for
-everybody. You are part of this, as a consumer.
-
-Most sites don’t have the defences required, or require the execution
-of expensive JavaScript for the CO₂ god, or require placing all your
-visitor’s browsing data into the hands of another company, most likely
-CloudFlare, in the USA. If you object to any of that, you must do your
-duty and reject the use of LLMs as well. You can’t eat your cake and
-claim to object to the rest. It would be a most incongruent position
-to take.
-
-And since this kind of shit often happens while
-[I’m on holidays](2025-portugal), the LLM friends reading this are
-responsible, in a very small way, for pissing on me during my
-holidays. And I resent it.
-
-I resent it very much.
-
-![Load going up to 80, again. And back down, again.](2025-10-22-bots-again/01K7YXF66MYSEQC615WGSBECN2.png)
-
-Waking up in a hotel bed, opening the balcony doors, hearing the birds
-sing, switching on the phone and realising that load is over 100 and
-nothing works, switching off Emacs Wiki and Community Wiki, the
-favourite targets of the AI scrapers and thinking of the people who
-like to use large language models.
-
-It’s the same problem as always: drive a car, see the CO₂ in the world
-go up, “but I need it!” – yeah, but we need an earth that supports
-human life too, idiots. Humans, where comfort is separated from
-consequences by time and space like to choose comfort. In this case,
-the AI comfort leads to the shut down of the open web, the
-centralisation of what remains, the installation of barriers, and ever
-and always: more control for fewer people. But of course, the
-consequences are separated by time and space from the comforts of AI
-users.
-
-Imagine a goddess of destruction with a grim smile and a thousand
-hands and each one of them is giving you a middle finger.
-
-Load average: 142.25
-
-I switched off Community Wiki and Emacs Wiki.
-
-Coming back after a day of excursions and things seem to be working
-fine, if I don’t switch on those two sites. These two have been
-unavailable for a minimum of six hours and yet in the last two hours
-Emacs Wiki still got 3537 requests.
-
-Time to ban every network of every ASN that’s still requesting Emacs Wiki pages.
-
-```
-2h-access-log \
-| grep &#39;^www\.emacswiki\.org&#39; \
-| log-ip \
-| asncounter --top 50 --no-prefixes 2&#62;/dev/null \
-| awk &#39;/^[1-9]/ &#38;&#38; $1 &#62;= 10 { print $3 }&#39; \
-| xargs asn-networks \
-| xargs fail2ban-client set butlerian-jihad-week banip
-
-```
-
-If you’re looking for the building blocks I’m using, see my
-[collection of admin scripts and shell functions](https://alexschroeder.ch/admin/).
-
-Hours later, I switched Emacs Wiki on for a minute and load
-immediately rose from around 1 to nearly 4 and my SSH connection
-became slow as molasses. It’ll remain switched off for tonight and
-probably tomorrow, too. It depends on the kind of wifi connection I
-have, tomorrow.
-
-Perhaps I should just hand Emacs Wiki off to somebody who’s more into
-it.
-
-Switching off Community Wiki and two smaller sites as well, for now.
-
-[#Butlerian Jihad](/search/?q=%23Butlerian_Jihad) [#Emacs](/search/?q=%23Emacs)
-
-**2025-10-22**. On IRC, twb replied to my complaints about the Munin lock being left behind:
-
-&#62; if you have systemd, just set RuntimeDirectory=%p and systemd will clean it up
-
-Also, he’s running [collection4](https://github.com/trentbuck/collection4/blob/main/debian/service) instead of Munin.
-
-**2025-10-23**. Switching Emacs Wiki back on, about nine hours ago.
-
-![](2025-10-22-bots-again-1.jpg)
-
-**2025-10-29**. [@briankrebs](https://infosec.exchange/@briankrebs &#34;@briankrebs@infosec.exchange&#34;) writes:
-
-&#62; **Aisuru**, the botnet responsible for a series of record-smashing distributed denial-of-service (DDoS) attacks this year, recently was overhauled to support a more low-key, lucrative and sustainable business: Renting hundreds of thousands of infected Internet of Things (IoT) devices to proxy services that help cybercriminals anonymize their traffic. Experts say a glut of proxies from Aisuru and other sources is fueling large-scale data harvesting efforts tied to various artificial intelligence (AI) projects, helping content scrapers evade detection by routing their traffic through residential connections that appear to be regular Internet users. – [Aisuru Botnet Shifts from DDoS to Residential Proxies](https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/)
-
-**2025-10-30**. Bear blog is run by Herman and he’s angry, too.
-
-&#62; The public internet is mostly bots, many of whom are bad netizens. It’s the most hostile it’s ever been, and it is because of this that I feel it’s more important than ever to take good care of the spaces that make the internet worth visiting. – [Aggressive bots ruined my weekend](https://herman.bearblog.dev/agressive-bots/)</source:markdown>
-      <guid>cid://https://alexschroeder.ch/view/2025-10-22-bots-again</guid>
-    </item>    <item>
-      <title>‘Hi, It’s Me, Wikipedia, and I Am Ready for Your Apology’</title>
-      <link>https://www.mcsweeneys.net/articles/hi-its-me-wikipedia-and-i-am-ready-for-your-apology</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42333</guid>
-    </item>    <item>
-      <link>http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInFeeds</link>
-      <description>
-        <![CDATA[<p>2022: Dev notes for Markdown in RSS.</p>]]>
-      </description>
-      <source:markdown>2022: Dev notes for Markdown in RSS.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/30/1737/</guid>
-    </item>    <item>
-      <link>https://www.thenation.com/article/politics/donald-trump-tony-soprano-bust-out/?utm_campaign=SproutSocial&#38;utm_content=The%20Nation%20Magazine&#38;utm_medium=social&#38;utm_source=bluesky#</link>
-      <description>
-        <![CDATA[<p>Trump’s Tony Soprano Presidency Is Bleeding the Country Dry.</p>]]>
-      </description>
-      <source:markdown>Trump’s Tony Soprano Presidency Is Bleeding the Country Dry.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/30/1735/</guid>
-    </item>    <item>
-      <title>Episode 700 and The Biggest Lesson Learned With a Rebrand</title>
-      <link>https://openchannels.fm/episode-700-and-the-biggest-lesson-learned-with-a-rebrand/</link>
-      <description>
-        <![CDATA[As we hit 700 episodes, BobWP catches us up on the rebrand.]]>
-      </description>
-      <source:markdown>As we hit 700 episodes, BobWP catches us up on the rebrand.</source:markdown>
-      <guid>cid://https://openchannels.fm/?p=111766</guid>
-    </item>    <item>
-      <title>Yes, You Are the Literary Asshole If You Use AI to Edit Your Fiction</title>
-      <link>https://lithub.com/yes-you-are-the-literary-asshole-if-you-use-ai-to-edit-your-fiction/</link>
-      <description>
-        <![CDATA[Hello all you gals and ghouls! Welcome back to internet’s spookiest advice column, Am I the Literary Asshole?, a place where the monster mash is not only a graveyard smash, but also a drunken good time. I’m your host, Kristen]]>
-      </description>
-      <source:markdown>Hello all you gals and ghouls! Welcome back to internet’s spookiest advice column, Am I the Literary Asshole?, a place where the monster mash is not only a graveyard smash, but also a drunken good time. I’m your host, Kristen</source:markdown>
-      <guid>cid://https://lithub.com/?p=261982</guid>
-    </item>    <item>
-      <title>Generative AI in the Real World: Chris Butler on GenAI in Product Management</title>
-      <link>https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-product-management-in-the-age-of-ai-with-chris-butler/</link>
-      <description>
-        <![CDATA[In this episode, Ben Lorica and Chris Butler, director of product operations for GitHub&#8217;s Synapse team, chat about the experimentation Chris is doing to incorporate generative AI into the product development process—particularly with the goal of reducing toil for cross-functional teams. It isn’t just automating busywork (although there’s some of that). He and his team [&#8230;]]]>
-      </description>
-      <source:markdown>In this episode, Ben Lorica and Chris Butler, director of product operations for GitHub’s Synapse team, chat about the experimentation Chris is doing to incorporate generative AI into the product development process—particularly with the goal of reducing toil for cross-functional teams. It isn’t just automating busywork (although there’s some of that). He and his team \[…\]</source:markdown>
-      <enclosure url="https://cdn.oreillystatic.com/radar/generative-ai-real-world-podcast/GenAI_in_the_Real_World_with_Chris_Butler.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://www.oreilly.com/radar/?post_type=podcast&#38;p=17620</guid>
-    </item>    <item>
-      <title>The AI-Designed Bioweapon Arms Race</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/the-ai-designed-bioweapon-arms-race.html</link>
-      <description>
-        <![CDATA[<p>Interesting <a href="https://arstechnica.com/science/2025/10/do-ai-designed-proteins-create-a-biosecurity-vulnerability/">article</a> about the arms race between AI systems that invent/design new biological pathogens, and AI systems that detect them before they&#8217;re created:</p>
-        <blockquote><p>The team started with a basic test: use AI tools to design variants of the toxin ricin, then test them against the software that is used to screen DNA orders. The results of the test suggested there was a risk of dangerous protein variants slipping past existing screening software, so the situation was treated like the equivalent of a zero-day vulnerability.</p>
-        <p>[&#8230;]</p>
-        <p>Details of that original test are ...</p></blockquote>]]>
-      </description>
-      <source:markdown>Interesting [article](https://arstechnica.com/science/2025/10/do-ai-designed-proteins-create-a-biosecurity-vulnerability/) about the arms race between AI systems that invent/design new biological pathogens, and AI systems that detect them before they’re created:
-
-&#62; The team started with a basic test: use AI tools to design variants of the toxin ricin, then test them against the software that is used to screen DNA orders. The results of the test suggested there was a risk of dangerous protein variants slipping past existing screening software, so the situation was treated like the equivalent of a zero-day vulnerability.
-&#62;
-&#62; \[…\]
-&#62;
-&#62; Details of that original test are ...</source:markdown>
-      <guid>cid://https://www.schneier.com/?p=71059</guid>
-    </item>    <item>
-      <title>Lit Hub Daily: October 30, 2025</title>
-      <link>https://lithub.com/lit-hub-daily-october-30-2025/</link>
-      <description>
-        <![CDATA[Our list of October’s best book covers also includes some bonus covers from September! &#124; Lit Hub Design Speaking of book covers, Celia Mattison wants to know: Why do so many of them have sheep? &#124; Lit Hub Art Books]]>
-      </description>
-      <source:markdown>Our list of October’s best book covers also includes some bonus covers from September! \| Lit Hub Design Speaking of book covers, Celia Mattison wants to know: Why do so many of them have sheep? \| Lit Hub Art Books</source:markdown>
-      <guid>cid://https://lithub.com/?p=261972</guid>
-    </item>    <item>
-      <title>How We Lost the Trade War</title>
-      <link>https://paulkrugman.substack.com/p/how-we-lost-the-trade-war</link>
-      <description>
-        <![CDATA[Tariff uncertainty may be waning, but the damage will persist]]>
-      </description>
-      <source:markdown>Tariff uncertainty may be waning, but the damage will persist</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!3pk-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b08d377-fc2f-4ecf-a3fd-ca65619e97ad_1431x802.png" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/how-we-lost-the-trade-war</guid>
-    </item>    <item>
-      <title>Zeit v1</title>
-      <link>https://xn--gckvb8fzb.com/zeit-v1/</link>
-      <description>
-        <![CDATA[Nearly five years after its initial release, _Zeit_ has stood the _test of
-        time_ (_hah_), and with the complete rewrite that is _Zeit v1_, I hope to
-        continue that legacy while evolving it into a more advanced tool.]]>
-      </description>
-      <source:markdown>Nearly five years after its initial release, \_Zeit\_ has stood the \_test of
-time\_ (\_hah\_), and with the complete rewrite that is \_Zeit v1\_, I hope to
-continue that legacy while evolving it into a more advanced tool.</source:markdown>
-      <author>marius@xn--gckvb8fzb.com (Marius)</author>
-      <guid>cid:///zeit-v1/</guid>
-    </item>    <item>
-      <title>The 11 Best Book Covers of October</title>
-      <link>https://lithub.com/the-11-best-book-covers-of-october-2/</link>
-      <description>
-        <![CDATA[Another month of books, another month of book covers: October was big, bold, and weird as all get out. I also threw in a couple of covers that I forgot in September but just couldn&#8217;t let go of&#8230; &#160; Striking,]]>
-      </description>
-      <source:markdown>Another month of books, another month of book covers: October was big, bold, and weird as all get out. I also threw in a couple of covers that I forgot in September but just couldn’t let go of…   Striking,</source:markdown>
-      <guid>cid://https://lithub.com/?p=261863</guid>
-    </item>    <item>
-      <title>Porn, But Also Literature: On John Cleland’s Fanny Hill</title>
-      <link>https://lithub.com/porn-but-also-literature-on-john-clelands-fanny/</link>
-      <description>
-        <![CDATA[Banned from publication in the United States until 1966 for its assumed obscenity, immorality, and lack of literary merit, Fanny Hill, or Memoirs of a Woman of Pleasure (1749), is a novel considered to be the first original English prose erotica. An]]>
-      </description>
-      <source:markdown>Banned from publication in the United States until 1966 for its assumed obscenity, immorality, and lack of literary merit, Fanny Hill, or Memoirs of a Woman of Pleasure (1749), is a novel considered to be the first original English prose erotica. An</source:markdown>
-      <guid>cid://https://lithub.com/?p=261468</guid>
-    </item>    <item>
-      <title>What’s With All the Sheep on Book Covers?</title>
-      <link>https://lithub.com/whats-with-all-the-sheep-on-book-covers/</link>
-      <description>
-        <![CDATA[Think back to the last time you saw a sheep. Where were you—some grassy rolling hills? A dusty petting zoo? Or was it, maybe, in a bookstore? Maybe in the new releases, on the cover of Midnight Timetable, Bora Chung’s]]>
-      </description>
-      <source:markdown>Think back to the last time you saw a sheep. Where were you—some grassy rolling hills? A dusty petting zoo? Or was it, maybe, in a bookstore? Maybe in the new releases, on the cover of Midnight Timetable, Bora Chung’s</source:markdown>
-      <guid>cid://https://lithub.com/?p=261733</guid>
-    </item>    <item>
-      <title>The Literary Film &#38; TV You Need to Stream in November</title>
-      <link>https://lithub.com/the-literary-film-tv-you-need-to-stream-in-november-3/</link>
-      <description>
-        <![CDATA[Every month, all the major streaming services add a host of newly acquired (or just plain new) shows, movies, and documentaries into their ever-rotating libraries. So what’s a dedicated reader to watch? Well, whatever you want, of course, but the]]>
-      </description>
-      <source:markdown>Every month, all the major streaming services add a host of newly acquired (or just plain new) shows, movies, and documentaries into their ever-rotating libraries. So what’s a dedicated reader to watch? Well, whatever you want, of course, but the</source:markdown>
-      <guid>cid://https://lithub.com/?p=261908</guid>
-    </item>    <item>
-      <title>A Fictional Inquiry</title>
-      <link>https://lithub.com/a-fictional-inquiry/</link>
-      <description>
-        <![CDATA[A Fictional Inquiry tells of an unnamed narrator visiting Trieste and London to retrace the footsteps of a fabled literary figure. The novel is inspired by the life of Trieste-born Roberto (“Bobi”) Bazlen, who helped found one of Italy’s most]]>
-      </description>
-      <source:markdown>A Fictional Inquiry tells of an unnamed narrator visiting Trieste and London to retrace the footsteps of a fabled literary figure. The novel is inspired by the life of Trieste-born Roberto (“Bobi”) Bazlen, who helped found one of Italy’s most</source:markdown>
-      <guid>cid://https://lithub.com/?p=261025</guid>
-    </item>    <item>
-      <title>5 Book Reviews You Need to Read This Week</title>
-      <link>https://lithub.com/5-book-reviews-you-need-to-read-this-week-10-30-2025/</link>
-      <description>
-        <![CDATA[Our mixum-gatherum of marvelous reviews this week includes Becca Rothfeld on Karine Jean-Pierre’s Independent, Dwight Garner on Cameron Crowe’s The Uncool, Dan Piepenbring on Kate Eichhorn’s School Yearbook, Josh Billings on Helen DeWitt and Ilya Gridneff’s Your Name Here, and]]>
-      </description>
-      <source:markdown>Our mixum-gatherum of marvelous reviews this week includes Becca Rothfeld on Karine Jean-Pierre’s Independent, Dwight Garner on Cameron Crowe’s The Uncool, Dan Piepenbring on Kate Eichhorn’s School Yearbook, Josh Billings on Helen DeWitt and Ilya Gridneff’s Your Name Here, and</source:markdown>
-      <guid>cid://https://lithub.com/?p=261899</guid>
-    </item>    <item>
-      <title>The Most Anticipated Audiobooks of November</title>
-      <link>https://lithub.com/the-most-anticipated-audiobooks-of-november/</link>
-      <description>
-        <![CDATA[Each month, our friends at AudioFile Magazine share a curated list of the best audiobooks for your literary listening pleasure. * AUGUST FICTION We Love You, Bunny: Bunny, Book 2 by Mona Awad &#124; Read by Sophie Amoss AudioFile Earphones Award [Simon]]>
-      </description>
-      <source:markdown>Each month, our friends at AudioFile Magazine share a curated list of the best audiobooks for your literary listening pleasure. \* AUGUST FICTION We Love You, Bunny: Bunny, Book 2 by Mona Awad \| Read by Sophie Amoss AudioFile Earphones Award \[Simon</source:markdown>
-      <guid>cid://https://lithub.com/?p=261590</guid>
-    </item>    <item>
-      <title>Paradise Lost! R.E.M.! The Village Voice! 21 books out in paperback this November.</title>
-      <link>https://lithub.com/paradise-lost-r-e-m-the-village-voice-21-books-out-in-paperback-this-november/</link>
-      <description>
-        <![CDATA[It&#8217;s November, and I&#8217;m happy to be back with a new slew of book recommendations. I&#8217;ll be taking a step back from my weekly round-ups for the moment, but I&#8217;ll still be here at the end of each month to]]>
-      </description>
-      <source:markdown>It’s November, and I’m happy to be back with a new slew of book recommendations. I’ll be taking a step back from my weekly round-ups for the moment, but I’ll still be here at the end of each month to</source:markdown>
-      <guid>cid://https://lithub.com/?p=261787</guid>
-    </item>    <item>
-      <title>Name that Ware, October 2025</title>
-      <link>https://www.bunniestudios.com/blog/2025/name-that-ware-october-2025/</link>
-      <description>
-        <![CDATA[The Ware for October 2025 is shown below. Thanks to Juan C. for contributing this curious ware! I really can&#8217;t get enough of how the whole device is integrated with a multi-layer stacked PCB. I imagine that inside the middle of the stack there could be some interesting circuitry going on, too. I redacted one [&#8230;]]]>
-      </description>
-      <source:markdown>The Ware for October 2025 is shown below. Thanks to Juan C. for contributing this curious ware! I really can’t get enough of how the whole device is integrated with a multi-layer stacked PCB. I imagine that inside the middle of the stack there could be some interesting circuitry going on, too. I redacted one \[…\]</source:markdown>
-      <guid>cid://https://www.bunniestudios.com/blog/?p=7450</guid>
-    </item>    <item>
-      <title>Winner, Name that Ware September 2025</title>
-      <link>https://www.bunniestudios.com/blog/2025/winner-name-that-ware-september-2025/</link>
-      <description>
-        <![CDATA[The Ware from September 2025 is a Hotronic AF 75 time base corrector. Really great comment thread, it was fun to read the sleuthing work and thought process behind the guesses. And yah, those SRAM chips make me nostalgic &#8211; I remember how expensive those were! Back when 32kiB cost real money. A couple folks [&#8230;]]]>
-      </description>
-      <source:markdown>The Ware from September 2025 is a Hotronic AF 75 time base corrector. Really great comment thread, it was fun to read the sleuthing work and thought process behind the guesses. And yah, those SRAM chips make me nostalgic – I remember how expensive those were! Back when 32kiB cost real money. A couple folks \[…\]</source:markdown>
-      <guid>cid://https://www.bunniestudios.com/blog/?p=7448</guid>
-    </item>    <item>
-      <title>The Five Ingredients of Zohran’s Secret Sauce</title>
-      <link>https://robertreich.substack.com/p/the-five-ingredients-of-zorhans-secret</link>
-      <description>
-        <![CDATA[Anyone who wants to lead America out of the Trumpian darkness can do so with these]]>
-      </description>
-      <source:markdown>Anyone who wants to lead America out of the Trumpian darkness can do so with these</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!jIVE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff76f1f11-a2a0-4cbd-b481-069ba88cde55_686x386.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/the-five-ingredients-of-zorhans-secret</guid>
-    </item>    <item>
-      <title>New to the web platform in October</title>
-      <link>https://web.dev/blog/web-platform-10-2025?hl=en</link>
-      <description>
-        <![CDATA[Discover some of the interesting features that have landed in stable and beta web browsers during October 2025.]]>
-      </description>
-      <source:markdown>Discover some of the interesting features that have landed in stable and beta web browsers during October 2025.</source:markdown>
-      <guid>cid://https://web.dev/blog/web-platform-10-2025?hl=en</guid>
-    </item>    <item>
-      <link>https://www.semafor.com/article/10/29/2025/british-newspaper-spoke-to-the-wrong-deblasio-not-an-imposter</link>
-      <description>
-        <![CDATA[<p>British newspaper spoke to the wrong Bill DeBlasio, not an ‘imposter.’</p>]]>
-      </description>
-      <source:markdown>British newspaper spoke to the wrong Bill DeBlasio, not an ‘imposter.’</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/10/30/1733/</guid>
-    </item>    <item>
-      <title>October 29, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/october-29-2025</link>
-      <description>
-        <![CDATA[Today is the twenty-ninth day of the government shutdown, and the House of Representatives is still on break as House speaker Mike Johnson (R-LA) continues to try to force the Senate to pass the House measure to fund the government without negotiating over the Democrats&#8217; demand for the extension of the premium tax credit without which healthcare premiums will skyrocket.]]>
-      </description>
-      <source:markdown>Today is the twenty-ninth day of the government shutdown, and the House of Representatives is still on break as House speaker Mike Johnson (R-LA) continues to try to force the Senate to pass the House measure to fund the government without negotiating over the Democrats’ demand for the extension of the premium tax credit without which healthcare premiums will skyrocket.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/october-29-2025</guid>
-    </item>    <item>
-      <title>Quoting François Chollet</title>
-      <link>https://simonwillison.net/2025/Oct/30/francois-chollet/#atom-everything</link>
-      <description>
-        <![CDATA[<blockquote cite="https://x.com/fchollet/status/1983279755823853724"><p>To really understand a concept, you have to "invent" it yourself in some capacity. Understanding doesn't come from passive content consumption. It is always self-built. It is an active, high-agency, self-directed process of creating and debugging your own mental models.</p></blockquote>
-        <p class="cite">&mdash; <a href="https://x.com/fchollet/status/1983279755823853724">François Chollet</a></p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/francois-chollet">francois-chollet</a>, <a href="https://simonwillison.net/tags/teaching">teaching</a></p>]]>
-      </description>
-      <source:markdown>&#62; To really understand a concept, you have to &#34;invent&#34; it yourself in some capacity. Understanding doesn&#39;t come from passive content consumption. It is always self-built. It is an active, high-agency, self-directed process of creating and debugging your own mental models.
-
-— [François Chollet](https://x.com/fchollet/status/1983279755823853724)
-
-Tags: [francois-chollet](https://simonwillison.net/tags/francois-chollet), [teaching](https://simonwillison.net/tags/teaching)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Oct/30/francois-chollet/#atom-everything</guid>
-    </item>    <item>
-      <title>Proof of life! I&#38;#8217;m writing a longer post about my time in...</title>
-      <link>https://kottke.org/25/10/0047759-proof-of-life-im-writing</link>
-      <guid>cid://tag:kottke.org,2025://13.47759</guid>
-    </item>    <item>
-      <title>Elon Musk’s Grokipedia Launches With AI-Cloned Pages From Wikipedia</title>
-      <link>https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42332</guid>
-    </item>    <item>
-      <title>613. Nelson: Glory at Trafalgar (Part 6)</title>
-      <link>https://therestishistory.com/613-nelson-glory-at-trafalgar-part-6/</link>
-      <description>
-        <![CDATA[<p>How did the British fleet prepare for war, on the morning of the Battle of Trafalgar? With the flags of both fleets flying and both Nelson and the French admiral Villeneuve glittering in their uniforms, how did the two fleets finally collide? Amidst the rivers of blood, the blast of canons, the flying splinters, and [&#8230;]</p>
-        <p>The post <a href="https://therestishistory.com/613-nelson-glory-at-trafalgar-part-6/">613. Nelson: Glory at Trafalgar (Part 6)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>]]>
-      </description>
-      <source:markdown>How did the British fleet prepare for war, on the morning of the Battle of Trafalgar? With the flags of both fleets flying and both Nelson and the French admiral Villeneuve glittering in their uniforms, how did the two fleets finally collide? Amidst the rivers of blood, the blast of canons, the flying splinters, and \[…\]
-
-The post [613\. Nelson: Glory at Trafalgar (Part 6)](https://therestishistory.com/613-nelson-glory-at-trafalgar-part-6/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
-      <guid>cid://https://therestishistory.com/613-nelson-glory-at-trafalgar-part-6/</guid>
-    </item>    <item>
-      <title>Announcing Rust 1.91.0</title>
-      <link>https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/</link>
-      <guid>cid://https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/</guid>
-    </item>    <item>
-      <title>You can change the color of your buttons</title>
-      <link>https://buttondown.com/blog/2025-10-29</link>
-      <description>
-        <![CDATA[You can change the color of your buttons]]>
-      </description>
-      <source:markdown>You can change the color of your buttons</source:markdown>
-    </item>    <item>
-      <title>GHC 9.14.1-rc1 is now available</title>
-      <link>http://haskell.org/ghc/blog/20251030-ghc-9.14.1-rc1-released.html</link>
-      <description>
-        <![CDATA[<h1>GHC 9.14.1-rc1 is now available</h1>
-        <h4 class="text-muted">bgamari - 2025-10-30</h4>
-        
-        <p>The GHC developers are very pleased to announce the availability of the
-        release candidate of GHC 9.14.1. Binary distributions, source
-        distributions, and documentation are available at <a href="https://downloads.haskell.org/ghc/9.14.1-rc1">downloads.haskell.org</a>.</p>
-        <p>GHC 9.14 will bring a number of new features and improvements, including:</p>
-        <ul>
-        <li><p>Significant improvements in specialisation:</p>
-        <ul>
-        <li>The <code>SPECIALISE</code> pragma now allows use of type application syntax</li>
-        <li>The <code>SPECIALISE</code> pragma can be used to specialise for expression arguments
-        as well as type arguments.</li>
-        <li>Specialisation is now considerably more reliable in the presence of
-        <code>newtype</code>s</li>
-        </ul></li>
-        <li><p>Significant GHCi improvements including:</p>
-        <ul>
-        <li>Correctness and performance improvements in the bytecode interpreter</li>
-        <li>Features in the GHCi debugger</li>
-        <li>Support for multiple home units in GHCi</li>
-        </ul></li>
-        <li><p>Implementation of the <a href="https://github.com/ghc-proposals/ghc-proposals/blob/master/proposals/0682-explicit-level-imports.rst">Explicit Level Imports proposal</a></p></li>
-        <li><p><code>RequiredTypeArguments</code> can now be used in more contexts</p></li>
-        <li><p>SSE/AVX2 support in the x86 native code generator backend</p></li>
-        <li><p>A major update of the Windows toolchain and improved compatibility with
-        macOS Tahoe</p></li>
-        <li><p>… and many more</p></li>
-        </ul>
-        <p>A full accounting of changes can be found in the <a href="https://downloads.haskell.org/ghc/9.14.1-rc1/docs/users_guide/9.14.1-notes.html">release notes</a>. Given the
-        many specialisation improvements and their potential for regression, we would
-        very much appreciate testing and performance characterisation on downstream
-        workloads.</p>
-        <p>Note that while this release makes many improvements in the specialisation
-        optimisation, polymorphic specialisation will remain disabled by default in the
-        final release due to concern over regressions of the sort identified in
-        <a href="https://gitlab.haskell.org/ghc/ghc/-/issues/26329"><span>#26329</span></a>. Users needing more aggressive specialisation can explicitly
-        enable this feature with the <code>-fpolymorphic-specialisation</code> flag. Depending
-        upon our experience with 9.14.1, we may enable this feature by default in a
-        later minor release.</p>
-        <p>This is the first and hopefully last release candidate prerelease of 9.14.1.
-        This comes later than expected in part due to work on resolving a regression
-        in macOS 26 (<a href="https://gitlab.haskell.org/ghc/ghc/-/issues/26166"><span>#26166</span></a>) which threatened the usability of the
-        release. This prerelease includes a fix to this regression; naturally, please
-        open a ticket if you encounter any trouble when using this release on macOS
-        Tahoe or recent XCode releases. We expect that this fix will be backported to GHC
-        9.12 and 9.10 in the coming months.</p>
-        <p>We would like to thank the Zw3rk stake pool, Well-Typed, Mercury, Channable,
-        Tweag I/O, Serokell, SimSpace, the Haskell Foundation, and other anonymous
-        contributors whose on-going financial and in-kind support has facilitated GHC
-        maintenance and release management over the years. Finally, this release would
-        not have been possible without the hundreds of open-source contributors whose
-        work have made the Haskell ecosystem what it is today.</p>
-        <p>As always, do give this release a try and open a <a href="https://gitlab.haskell.org/ghc/homepage/-/issues/new">ticket</a> if you see
-        anything amiss.</p>]]>
-      </description>
-      <source:markdown># GHC 9.14.1-rc1 is now available
-
-#### bgamari - 2025-10-30
-
-The GHC developers are very pleased to announce the availability of the
-release candidate of GHC 9.14.1. Binary distributions, source
-distributions, and documentation are available at [downloads.haskell.org](https://downloads.haskell.org/ghc/9.14.1-rc1).
-
-GHC 9.14 will bring a number of new features and improvements, including:
-
-- Significant improvements in specialisation:
-
-  - The `SPECIALISE` pragma now allows use of type application syntax
-  - The `SPECIALISE` pragma can be used to specialise for expression arguments
-    as well as type arguments.
-  - Specialisation is now considerably more reliable in the presence of
-    `newtype` s
-- Significant GHCi improvements including:
-
-  - Correctness and performance improvements in the bytecode interpreter
-  - Features in the GHCi debugger
-  - Support for multiple home units in GHCi
-- Implementation of the [Explicit Level Imports proposal](https://github.com/ghc-proposals/ghc-proposals/blob/master/proposals/0682-explicit-level-imports.rst)
-
-- `RequiredTypeArguments` can now be used in more contexts
-
-- SSE/AVX2 support in the x86 native code generator backend
-
-- A major update of the Windows toolchain and improved compatibility with
-  macOS Tahoe
-
-- … and many more
-
-
-A full accounting of changes can be found in the [release notes](https://downloads.haskell.org/ghc/9.14.1-rc1/docs/users_guide/9.14.1-notes.html). Given the
-many specialisation improvements and their potential for regression, we would
-very much appreciate testing and performance characterisation on downstream
-workloads.
-
-Note that while this release makes many improvements in the specialisation
-optimisation, polymorphic specialisation will remain disabled by default in the
-final release due to concern over regressions of the sort identified in
-[#26329](https://gitlab.haskell.org/ghc/ghc/-/issues/26329). Users needing more aggressive specialisation can explicitly
-enable this feature with the `-fpolymorphic-specialisation` flag. Depending
-upon our experience with 9.14.1, we may enable this feature by default in a
-later minor release.
-
-This is the first and hopefully last release candidate prerelease of 9.14.1.
-This comes later than expected in part due to work on resolving a regression
-in macOS 26 ( [#26166](https://gitlab.haskell.org/ghc/ghc/-/issues/26166)) which threatened the usability of the
-release. This prerelease includes a fix to this regression; naturally, please
-open a ticket if you encounter any trouble when using this release on macOS
-Tahoe or recent XCode releases. We expect that this fix will be backported to GHC
-9.12 and 9.10 in the coming months.
-
-We would like to thank the Zw3rk stake pool, Well-Typed, Mercury, Channable,
-Tweag I/O, Serokell, SimSpace, the Haskell Foundation, and other anonymous
-contributors whose on-going financial and in-kind support has facilitated GHC
-maintenance and release management over the years. Finally, this release would
-not have been possible without the hundreds of open-source contributors whose
-work have made the Haskell ecosystem what it is today.
-
-As always, do give this release a try and open a [ticket](https://gitlab.haskell.org/ghc/homepage/-/issues/new) if you see
-anything amiss.</source:markdown>
-      <guid>cid://http://haskell.org/ghc/blog/20251030-ghc-9.14.1-rc1-released.html</guid>
     </item>
   </channel>
 </rss>

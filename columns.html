@@ -2,10 +2,10 @@
 <html lang="en-US">
 <head>
   <meta charset="utf-8" >
-  <meta name="generator" content="antenna/0.0.15" >
-  <meta name="date" content="2025-11-20T12:09:32-08:00" >
+  <meta content="antenna/0.0.15" name="generator" >
+  <meta name="date" content="2025-11-21T06:10:46-08:00" >
   <link rel="stylesheet" href="css/site.css" >
-  <link rel="alternate" type="application/rss+xml" href="columns.xml" >
+  <link href="columns.xml" rel="alternate" type="application/rss+xml" >
   <script type="module" src="modules/date_filter.js" ></script>
 </head>
 <body>
@@ -112,6 +112,490 @@ anything amiss.</p>
       </address>
     </article>
 
+    <article data-published="2025-11-21T15:00:00Z" data-link="https://dbushell.com/2025/11/21/croissant-update-and-dexie/">
+      <h1>Croissant Update and Dexie</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>Croissant v0.5 has been released! I have improved the favicon fetcher from the last update. Croissant will now go HTML spelunking because not enough blogs have a default favicon.ico. I have added a “Close as Unread” button to the end of the reader view. […]</p>
+
+      <address>
+        <a href="https://dbushell.com/2025/11/21/croissant-update-and-dexie/">https://dbushell.com/2025/11/21/croissant-update-and-dexie/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T13:42:00Z" data-link="https://bsky.app/profile/altusds.altgov.info/post/3m65fxxmmo22c">
+      <h1>@Feed for Alt USDS</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>Chuck is a true hero who wants to serve Maryland. He's building a campaign around true public service.</p>
+<p>If you have it in your budget to give to someone who will truly serve the people, please help.</p>
+<p>[contains quote post or other embedded content]</p>
+
+      <address>
+        <a href="https://bsky.app/profile/altusds.altgov.info/post/3m65fxxmmo22c">https://bsky.app/profile/altusds.altgov.info/post/3m65fxxmmo22c</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T13:23:56Z" data-link="https://lithub.com/what-was-literary-twitter-the-bracket-day-5/">
+      <h1>What Was Literary Twitter? The Bracket *Day 5*</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>Day five and only four remain! Pour out a cold plum for yesterday’s runner-ups, including “This Is Just To Say,” bad art friend, and the transparency and advocacy campaign #PublishingPaidMe The four that are left are some of the most</p>
+
+      <address>
+        <a href="https://lithub.com/what-was-literary-twitter-the-bracket-day-5/">https://lithub.com/what-was-literary-twitter-the-bracket-day-5/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T13:15:23Z" data-link="https://alexschroeder.ch/view/2025-11-21-ai-code">
+      <h1>2025-11-21 AI contributes code on GitHub</h1>
+
+(date: 2025-11-21)
+      <p>
+      <h1>2025-11-21 AI contributes code on GitHub</h1>
+<p>I’m reading through <a href="https://github.com/ocaml/ocaml/pull/14369">DWARF v5 Debugging Support for OCaml Native Compiler</a>.
+It’s a contribution that is very big. 40 commits touching 147 files. It’s huge. The author is asking for a review by the maintainers. They don’t like it.</p>
+<blockquote>
+<p><strong>joelreymont</strong>: This PR adds DWARF v5 debug information to the OCaml native compiler, allowing proper source-level debugging in GDB and LLDB. …</p>
+<p><strong>gasche</strong>: According to the copyright headers, all the new source files in this PR have been written by Mark Shinwell (@mshinwell), or maybe are directly derived from his work. This seems plausible (a lot of it seems heavily inspired by the DWARF support in the oxcaml repository, which I suppose has been written by Mark indeed), but is it actually the case? (If your work is so heavily derived from Mark’s work, maybe it would make sense to credit him in the PR description, or in the webpage you created specifically to advertise for this work?)</p>
+<p><strong>tmcgilchrist</strong>: This seems to be largely a copy of the work done in OxCaml by @mshinwell and @spiessimon and others, including the missing features like DWARF information for OO, changes to the shapes constructors, the python based printers rather than built-in LLDB/GDB language plugin, and other things. I mentioned in #14353 (comment) that this is still being worked on and isn’t ready for upstreaming (in my opinion as someone working on it). With that, I’m hesitant to spend the time reviewing this in full.</p>
+<p><strong>yallop</strong>: … @joelreymont, could you please explain where you obtained the code in this PR?</p>
+<p><strong>joelreymont</strong>: It’s not where I obtained this PR but how.</p>
+<p>Claude Sonnet 4.5 (Claude Code) wrote most of it with ChatGPT 5 (Codex) reviewing and Claude addressing issues in each review. Codex wrote the last 10% or so when Claude kept getting stuck.</p>
+<p>I did not write a single line of code but carefully shepherded AI over the course of several days and kept it on the straight and narrow.</p>
+<p>…</p>
+<p>My work was just directing, shaping, cajoling and reviewing.</p>
+<p><strong>gasche</strong>: There is an obvious problem with copyright if you reuse large amounts of people’s code. The fact that the tool that produced the code attributes its copyright to a real human is a clear sign that something is an issue. (You might also wonder if that human agrees with being described as the author of code that you yourself introduce in the compiler.) At this point, merging the code in the compiler would be a legal liability.</p>
+<p>There hasn’t been a design discussion for which approach should be chosen to integrate this feature. We would appreciate people discussing design before they dump 13K-lines PRs on us. In fact, it’s a bit worse in this case: people that are expert on this topic and actively working on this feature ( @tmcgilchrist above ) have given you design advice and made recommendations for how to contribute in a way that they felt would be productive. As far as I can tell you did not take this feedback into account.</p>
+<p>This humongous amount of code is hard to review, and very lightly tested. (You are only testing that basic functionality works.) Inevitably the code will be full of problems, and we (the maintainers of the compiler) will have to pay the cost of fixing them. But maintaining large pieces of plausible-in-general-but-weird-in-the-details code is a large burden.</p>
+<p>As you might know, the OCaml compiler codebase suffers from a lack of people available to do code reviews and maintenance. … Your approach of submitting very large relatively-low-effort PRs creates a very real risk of bringing the Pull-Request system to a halt, especially given that, in my personal experience, reviewing AI-written code is more taxing that reviewing human-written code.</p>
+<p>You may think that the answer to that is to also automate the review process, or (more plausibly) to lower our quality standards: we can accept PRs based on simple/lightweight tests (themselves AI-generated), and if users find issues we can quickly use automated tools to fix them, basically having our users perform the testing work that is missing. But so far we have not decided to work in this way (and this has very real costs for users of the compiler), so these potential solutions are not available.</p>
+<p>Finally, you seem to not give a thought about the fact that your contributions demand work of other people. The fact that you were able to generate large amount of code that passes test is interesting, but that’s only 20% of the work, the other 80% are to get the feature discussed, reviewed and integrated, and this work will be paid by you and others. But you only focus on the initial writing phase and you personal success, over-communicate on this, and do not appear to realize that this has very real costs on others. For example, a few days ago you sent a PR that was a complete waste of our collective maintenance time (…), we wasted this time, and you never apologized.</p>
+<p>If your intent is to demonstrate that you personally know how to generate large amount of code that provide useful functionality and pass basic test, in a complex software project, then I think you have succeeded; congratulations. But if you are also hoping to demonstrate that they can be successfully integrated by upstream software projects, following the existing collaboration practices of the project, this is a complete failure. Maybe being a bit less tone-deaf and discussing things with people before you throw hundreds or thousands of lines at them would be a first step. But personally at this point I wish that you would do your “scientific experiments” (your words) on another software project, and I have personally decided that I will not invest any more time looking at your PRs for the next six months.</p>
+<p><strong>joelreymont</strong>: Here’s the AI-written copyright analysis …</p>
+<p><strong>gasche</strong>: I will go ahead and close this PR. …</p>
+</blockquote>
+<p><a href="/search/?q=%23AI">#AI</a> <a href="/search/?q=%23Programming">#Programming</a></p>
+
+      <address>
+        <a href="https://alexschroeder.ch/view/2025-11-21-ai-code">https://alexschroeder.ch/view/2025-11-21-ai-code</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T13:14:37Z" data-link="https://hls.harvard.edu/today/harvard-law-school-library-releases-first-complete-set-of-digitized-nuremberg-trials-records/">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>Harvard Law School Library releases first complete set of digitized Nuremberg Trials records.</p>
+
+      <address>
+        <a href="https://hls.harvard.edu/today/harvard-law-school-library-releases-first-complete-set-of-digitized-nuremberg-trials-records/">https://hls.harvard.edu/today/harvard-law-school-library-releases-first-complete-set-of-digitized-nuremberg-trials-records/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T13:10:33Z" data-link="https://onefoottsunami.com/2025/11/21/wwdb/">
+      <h1>WWDB</h1>
+
+(date: 2025-11-21)
+      <p>
+      
+      <address>
+        <a href="https://onefoottsunami.com/2025/11/21/wwdb/">https://onefoottsunami.com/2025/11/21/wwdb/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T13:03:23Z" data-link="https://wapo.st/48nkqMN">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>How billionaires took over American politics.</p>
+
+      <address>
+        <a href="https://wapo.st/48nkqMN">https://wapo.st/48nkqMN</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T12:30:59Z" data-link="https://www.gelliottmorris.com/p/democrats-expand-lead-in-us-house">
+      <h1>Democrats expand lead in U.S. House polls this week</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>Recent polls have shown a big shift toward the Democrats in the House generic ballot. If historical patterns of out-party gains continue in 2026, Democrats could see a larger &quot;blue wave&quot; than in 2018.</p>
+
+      <address>
+        <a href="https://www.gelliottmorris.com/p/democrats-expand-lead-in-us-house">https://www.gelliottmorris.com/p/democrats-expand-lead-in-us-house</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T12:01:36Z" data-link="https://www.schneier.com/blog/archives/2025/11/ai-as-cyberattacker.html">
+      <h1>AI as Cyberattacker</h1>
+
+(date: 2025-11-21, updated: 2025-11-18)
+      <p>
+      <p>From <a href="https://www.anthropic.com/news/disrupting-AI-espionage">Anthropic</a>:</p>
+<blockquote>
+<p>In mid-September 2025, we detected suspicious activity that later investigation determined to be a highly sophisticated espionage campaign. The attackers used AI’s “agentic” capabilities to an unprecedented degree­—using AI not just as an advisor, but to execute the cyberattacks themselves.</p>
+<p>The threat actor—­whom we assess with high confidence was a Chinese state-sponsored group—­manipulated our Claude Code tool into attempting infiltration into roughly thirty global targets and succeeded in a small number of cases. The operation targeted large tech companies, financial institutions, chemical manufacturing companies, and government agencies. We believe this is the first documented case of a large-scale cyberattack executed without substantial human intervention...</p>
+</blockquote>
+
+      <address>
+        <a href="https://www.schneier.com/blog/archives/2025/11/ai-as-cyberattacker.html">https://www.schneier.com/blog/archives/2025/11/ai-as-cyberattacker.html</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T11:30:48Z" data-link="https://paulkrugman.substack.com/p/hard-landings">
+      <h1>Hard Landings</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>No, not talking about my flight</p>
+
+      <address>
+        <a href="https://paulkrugman.substack.com/p/hard-landings">https://paulkrugman.substack.com/p/hard-landings</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T11:30:00Z" data-link="https://lithub.com/lit-hub-daily-november-21-2025/">
+      <h1>Lit Hub Daily: November 21, 2025</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>Only two match-ups remain before we move on to the final round! Vote in our What Was Literary Twitter? bracket to determine the greatest moment of the literary internet. | Lit Hub Melissa Broder revisits the “Christian mysticism, absurdism, existentialism,</p>
+
+      <address>
+        <a href="https://lithub.com/lit-hub-daily-november-21-2025/">https://lithub.com/lit-hub-daily-november-21-2025/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T10:45:08Z" data-link="https://lithub.com/giving-up-on-the-new-york-times-and-remembering-literary-twitter-on-the-lit-hub-podcast/">
+      <h1>Giving Up on The New York Times and Remembering Literary Twitter on The Lit Hub Podcast</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>A weekly behind-the-scenes dive into everything interesting, dynamic, strange, and wonderful happening in literary culture—featuring Lit Hub staff, columnists, and special guests! Hosted by Drew Broussard. A time of celebration is now upon us: the literary awards year has closed,</p>
+
+      <address>
+        <a href="https://lithub.com/giving-up-on-the-new-york-times-and-remembering-literary-twitter-on-the-lit-hub-podcast/">https://lithub.com/giving-up-on-the-new-york-times-and-remembering-literary-twitter-on-the-lit-hub-podcast/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T10:15:54Z" data-link="https://tilde.zone/@tomasino/115587164053320389">
+      <h1>@Tomosino's Mastodon feed</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p><a href="https://github.com/historicalsource/zork1">https://github.com/historicalsource/zork1</a></p>
+<p>Looking for a fun project? Why not port ZORK to Gemini?</p>
+
+      <address>
+        <a href="https://tilde.zone/@tomasino/115587164053320389">https://tilde.zone/@tomasino/115587164053320389</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T09:59:19Z" data-link="https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-11-21-2025/">
+      <h1>What Should You Read Next? Here Are the Best Reviewed Books of the Week</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>Joy Williams’s The Pelican Child, John Edgar Wideman’s Languages of Home, and Solvej Balle’s On the Calculation of Volume (Book III) all feature among the best reviewed books of the week. Brought to you by Book Marks, Lit Hub’s home</p>
+
+      <address>
+        <a href="https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-11-21-2025/">https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-11-21-2025/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T09:58:24Z" data-link="https://lithub.com/melissa-broder-on-jennifer-dawsons-forgotten-1961-classic-the-ha-ha/">
+      <h1>Melissa Broder on Jennifer Dawson’s Forgotten 1961 Classic The Ha-Ha</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>In The Ha-Ha, Jennifer Dawson relies on her own history as a patient in a psychiatric hospital to tell the story of Josephine Traughton, a young woman who suffers a breakdown while studying at Oxford in the 1950s and is</p>
+
+      <address>
+        <a href="https://lithub.com/melissa-broder-on-jennifer-dawsons-forgotten-1961-classic-the-ha-ha/">https://lithub.com/melissa-broder-on-jennifer-dawsons-forgotten-1961-classic-the-ha-ha/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T09:58:19Z" data-link="https://lithub.com/on-the-many-and-contradictory-histories-of-mt-rushmore/">
+      <h1>On the Many—and Contradictory—Histories of Mt. Rushmore</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>Back at Mount Rushmore the following day, I looked at the four presidents from the Grand View Terrace, the only spot at the actual memorial that offers an uninterrupted frontal view of Gutzon Borglum’s sculpture. Because of this, the terrace</p>
+
+      <address>
+        <a href="https://lithub.com/on-the-many-and-contradictory-histories-of-mt-rushmore/">https://lithub.com/on-the-many-and-contradictory-histories-of-mt-rushmore/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T09:58:09Z" data-link="https://lithub.com/outdoor-manual-benjamin-wood-on-taking-it-outside/">
+      <h1>Outdoor Manual: Benjamin Wood on Taking It Outside</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. Every story has an equilibrium to be disturbed, and this one opens with a stranger on my doorstep. He stands bright-eyed beneath my porchlight with a sheepdog at his heel.</p>
+
+      <address>
+        <a href="https://lithub.com/outdoor-manual-benjamin-wood-on-taking-it-outside/">https://lithub.com/outdoor-manual-benjamin-wood-on-taking-it-outside/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T09:36:06Z" data-link="https://lithub.com/the-machine/">
+      <h1>“The Machine”</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>On Friday as always I built the damn machine. As always I washed each individual part—the hopper, the spigot, the nozzle, the pump, the washers, the gaskets, the nuts, the screws—with scalding-hot water and soap. I dried each individual part</p>
+
+      <address>
+        <a href="https://lithub.com/the-machine/">https://lithub.com/the-machine/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T09:25:51Z" data-link="https://adactio.com/notes/22262">
+      <h1>Thursday session</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p><img src="https://adactio.com/images/uploaded/22262/small.jpg" alt="Thursday session"></p>
+<p>Thursday session</p>
+
+      <address>
+        <a href="https://adactio.com/notes/22262">https://adactio.com/notes/22262</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T09:15:00Z" data-link="https://openchannels.fm/new-host-nathan-wrigley-brings-chaos-to-open-channels-fm/">
+      <h1>New Host Nathan Wrigley Brings Chaos to Open Channels FM</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>At WordCamp Europe, BobWP and Nathan cooked up &quot;The Shit Show&quot; podcast, discussing everything from penguins to soap. Tune in for quirky insights and Nathan’s endless droning.</p>
+
+      <address>
+        <a href="https://openchannels.fm/new-host-nathan-wrigley-brings-chaos-to-open-channels-fm/">https://openchannels.fm/new-host-nathan-wrigley-brings-chaos-to-open-channels-fm/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T09:02:29Z" data-link="https://robertreich.substack.com/p/office-hours-how-long-will-it-take">
+      <h1>Office Hours: How long will it take us to recover from Trump? </h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>If we ever will?</p>
+
+      <address>
+        <a href="https://robertreich.substack.com/p/office-hours-how-long-will-it-take">https://robertreich.substack.com/p/office-hours-how-long-will-it-take</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T08:49:37Z" data-link="https://doc.searls.com/2025/11/21/linklings-2/">
+      <h1>Linklings</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>Hiss After AM Cuts, Tesla Dropping FM Radio From Entry Level Models. I want one Companion Intelligence looks very close to what I've been calling for here. What's the opposite? Darius Van Arman has a lot to say about market concentration. (For reasons I can't grok, the long headline is uncopyable.)</p>
+
+      <address>
+        <a href="https://doc.searls.com/2025/11/21/linklings-2/">https://doc.searls.com/2025/11/21/linklings-2/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T07:50:33Z" data-link="https://doc.searls.com/2025/11/20/well-see/">
+      <h1>We’ll see</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>Daniel Barkhuff has a serious one-liner bio (“Husband, Dad, Emergency Medicine physician, Veteran”) and speaks with earned authority from all of them, especially the last two. His latest, On Living Memory, reminds me of two dads. One is my father, who re-enlisted in 1944 at age 35, because he wanted to fight in The War. Among other […]</p>
+
+      <address>
+        <a href="https://doc.searls.com/2025/11/20/well-see/">https://doc.searls.com/2025/11/20/well-see/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T07:50:11Z" data-link="https://heathercoxrichardson.substack.com/p/november-20-2025">
+      <h1>November 20, 2025 </h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>Trump spent this morning calling a group of military veterans in Congress traitors and saying they “should be ARRESTED AND PUT ON TRIAL.” Their crime, in Trump’s eyes, was their release Tuesday of a video reminding military and intelligence officers that they must refuse illegal orders.</p>
+
+      <address>
+        <a href="https://heathercoxrichardson.substack.com/p/november-20-2025">https://heathercoxrichardson.substack.com/p/november-20-2025</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T04:07:45Z" data-link="https://www.theatlantic.com/newsletters/2025/11/atlantic-online-1995-early-internet/685004/?utm_source=www.status.news&utm_medium=newsletter&utm_campaign=bending-to-breitbart&_bhlid=cd6387de7e040434f40959fe79ced839e9cc1efa">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>The earliest days of The Atlantic Online.</p>
+
+      <address>
+        <a href="https://www.theatlantic.com/newsletters/2025/11/atlantic-online-1995-early-internet/685004/?utm_source=www.status.news&utm_medium=newsletter&utm_campaign=bending-to-breitbart&_bhlid=cd6387de7e040434f40959fe79ced839e9cc1efa">https://www.theatlantic.com/newsletters/2025/11/atlantic-online-1995-early-internet/685004/?utm_source=www.status.news&utm_medium=newsletter&utm_campaign=bending-to-breitbart&_bhlid=cd6387de7e040434f40959fe79ced839e9cc1efa</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T03:11:00Z" data-link="https://politicalwire.com/2025/11/20/slotkin-gets-security-detail-after-trumps-remarks/">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>Slotkin Gets Security Detail After Trump’s Remarks.</p>
+
+      <address>
+        <a href="https://politicalwire.com/2025/11/20/slotkin-gets-security-detail-after-trumps-remarks/">https://politicalwire.com/2025/11/20/slotkin-gets-security-detail-after-trumps-remarks/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T01:00:18Z" data-link="https://webkit.org/blog/17620/grid-how-grid-template-areas-offer-a-visual-solution-for-your-code/">
+      <h1>Grid: how grid-template-areas offer a visual solution for your code</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>Using grid lines is a flexible and powerful way to place your elements on a grid, but, when looking at the code, it might be a bit hard to visualize.</p>
+
+      <address>
+        <a href="https://webkit.org/blog/17620/grid-how-grid-template-areas-offer-a-visual-solution-for-your-code/">https://webkit.org/blog/17620/grid-how-grid-template-areas-offer-a-visual-solution-for-your-code/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T00:21:40Z" data-link="https://stevejobsarchive.com/stories/pixar-early-days">
+      <h1>‘Pixar: The Early Days’ — Never-Before-Seen 1996 Interview With Steve Jobs</h1>
+
+(date: 2025-11-21)
+      <p>
+      
+      <address>
+        <a href="https://stevejobsarchive.com/stories/pixar-early-days">https://stevejobsarchive.com/stories/pixar-early-days</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T00:09:55Z" data-link="https://memex.naughtons.org/friday-21-november-2025/41391/">
+      <h1>Friday 21 November, 2025</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>The view from… nowhere I was brooding on something that the French painter Paul Delaroche is reputed to have said after seeing one of the first daguerreotypes in the late 1830s or early 1840s: “From today painting is dead”. Given … <a href="https://memex.naughtons.org/friday-21-november-2025/41391/">Continue reading →</a></p>
+
+      <address>
+        <a href="https://memex.naughtons.org/friday-21-november-2025/41391/">https://memex.naughtons.org/friday-21-november-2025/41391/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-21T00:00:00Z" data-link="https://buttondown.com/blog/what-is-activitypub">
+      <h1>What the hell is ActivityPub?</h1>
+
+(date: 2025-11-21)
+      <p>
+      <p>Making social networking more like email.</p>
+
+      <address>
+        <a href="https://buttondown.com/blog/what-is-activitypub">https://buttondown.com/blog/what-is-activitypub</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-20T23:22:32Z" data-link="https://www.notesfromthecircus.com/p/the-only-thing-thats-real">
+      <h1>The Only Thing That's Real</h1>
+
+(date: 2025-11-20)
+      <p>
+      <p>A Meditation on The Real</p>
+
+      <address>
+        <a href="https://www.notesfromthecircus.com/p/the-only-thing-thats-real">https://www.notesfromthecircus.com/p/the-only-thing-thats-real</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-20T23:17:41Z" data-link="https://steady.substack.com/p/despicable">
+      <h1>Despicable</h1>
+
+(date: 2025-11-20)
+      <p>
+      <p>The bully-in-chief is targeting women in the White House press corps</p>
+
+      <address>
+        <a href="https://steady.substack.com/p/despicable">https://steady.substack.com/p/despicable</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-20T22:22:55Z" data-link="https://heathercoxrichardson.substack.com/p/november-19-2025-338">
+      <h1>November 19, 2025</h1>
+
+(date: 2025-11-20)
+      <p>
+      
+      <address>
+        <a href="https://heathercoxrichardson.substack.com/p/november-19-2025-338">https://heathercoxrichardson.substack.com/p/november-19-2025-338</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-20T22:05:07Z" data-link="https://www.notesfromthecircus.com/p/the-salience-game">
+      <h1>The Salience Game</h1>
+
+(date: 2025-11-20)
+      <p>
+      <p>How The Free Press Manufactures Permission to Vote for Tyranny</p>
+
+      <address>
+        <a href="https://www.notesfromthecircus.com/p/the-salience-game">https://www.notesfromthecircus.com/p/the-salience-game</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-20T21:17:12Z" data-link="https://mjtsai.com/blog/2025/11/20/no-mainactor-by-default/">
+      <h1>(No) MainActor by Default</h1>
+
+(date: 2025-11-20)
+      <p>
+      <p>Matt Massicotte (Mastodon): Swift 6.2 gives you the ability make MainActor the default isolation. Unlike the rest of the features introduced as part of “Approachable Concurrency”, this is a long-term mode. It is optional and will remain so. However, this mode is enabled for new app targets in Xcode 26. And many people take this […]</p>
+
+      <address>
+        <a href="https://mjtsai.com/blog/2025/11/20/no-mainactor-by-default/">https://mjtsai.com/blog/2025/11/20/no-mainactor-by-default/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-20T21:17:03Z" data-link="https://mjtsai.com/blog/2025/11/20/europe-scaling-back-gdpr-and-ai-laws/">
+      <h1>Europe Scaling Back GDPR and AI Laws</h1>
+
+(date: 2025-11-20)
+      <p>
+      <p>Robert Hart and Dominic Preston (Hacker News, MacRumors): Under intense pressure from industry and the US government, Brussels is stripping protections from its flagship General Data Protection Regulation (GDPR) — including simplifying its infamous cookie permission pop-ups — and relaxing or delaying landmark AI rules in an effort to cut red tape and revive sluggish […]</p>
+
+      <address>
+        <a href="https://mjtsai.com/blog/2025/11/20/europe-scaling-back-gdpr-and-ai-laws/">https://mjtsai.com/blog/2025/11/20/europe-scaling-back-gdpr-and-ai-laws/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-20T21:16:55Z" data-link="https://mjtsai.com/blog/2025/11/20/sketch-copenhagen/">
+      <h1>Sketch Copenhagen</h1>
+
+(date: 2025-11-20)
+      <p>
+      <p>Freddie Harrison (Mastodon, Pieter Omvlee): Early on in the process, we prototyped various approaches to the sidebar and Inspector, including floating options (the new default in Tahoe) and glass materials. Ultimately, we went custom here, with fixed sidebars that felt less distracting in the context of a canvas-based design tool. Another area we went custom […]</p>
+
+      <address>
+        <a href="https://mjtsai.com/blog/2025/11/20/sketch-copenhagen/">https://mjtsai.com/blog/2025/11/20/sketch-copenhagen/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-11-20T21:16:45Z" data-link="https://mjtsai.com/blog/2025/11/20/mastodon-ceo-steps-down/">
+      <h1>Mastodon CEO Steps Down</h1>
+
+(date: 2025-11-20)
+      <p>
+      <p>Eugen Rochko (via Hacker News): After nearly 10 years, I am stepping down as the CEO of Mastodon and transferring my ownership of the trademark and other assets to the Mastodon non-profit. Over the course of my time at Mastodon, I have centered myself less and less in our outward communications, and to some degree, […]</p>
+
+      <address>
+        <a href="https://mjtsai.com/blog/2025/11/20/mastodon-ceo-steps-down/">https://mjtsai.com/blog/2025/11/20/mastodon-ceo-steps-down/</a>
+      </address>
+    </article>
+
     <article data-published="2025-11-20T19:34:06Z" data-link="https://m.youtube.com/shorts/JGhXnOo3yuw">
       <h1>@Dave Winer's linkblog</h1>
 
@@ -194,13 +678,13 @@ anything amiss.</p>
 <li>Up to 5 images of humans to maintain character consistency</li>
 </ul>
 </blockquote>
+<p>There is also a short (6 page) <a href="https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Pro-Image-Model-Card.pdf">model card PDF</a> which lists the following as &quot;new capabilities&quot; compared to the previous Nano Banana: Multi character editing, Chart editing, Text editing, Factuality - Edu, Multi-input 1-3, Infographics, Doodle editing, Visual design.</p>
 <h4>Trying out some detailed instruction image prompts</h4>
 <p>Max Woolf published <a href="https://minimaxir.com/2025/11/nano-banana-prompts/#hello-nano-banana">the definitive guide to prompting Nano Banana</a> just a few days ago. I decided to try his example prompts against the new model, requesting results in 4K.</p>
 <p>Here's what I got for his first test prompt, using Google's <a href="https://aistudio.google.com/">AI Studio</a>:</p>
 <blockquote>
 <p><code>Create an image of a three-dimensional pancake in the shape of a skull, garnished on top with blueberries and maple syrup.</code></p>
 </blockquote>
-<p>Here's what I got:</p>
 <p><img src="https://static.simonwillison.net/static/2025/pancake-skull-1.jpg" alt="A very detailed quality photo of a skull made of pancake batter, blueberries on top, maple syrup dripping down, maple syrup bottle in the background."></p>
 <p>The result came out as a 24.1MB, 5632 × 3072 pixel PNG file. I don't want to serve that on my own blog so here's <a href="https://drive.google.com/file/d/1QV3pcW1KfbTRQscavNh6ld9PyqG4BRes/view?usp=drive_link">a Google Drive link for the original</a>.</p>
 <p>Then I ran his follow-up prompt:</p>
@@ -214,8 +698,7 @@ anything amiss.</p>
 </code></pre>
 <p><img src="https://static.simonwillison.net/static/2025/pancake-skull-2.jpg" alt="It's the exact same skull with the requested edits made - mint garnish on the blueberries, a strawberry in the left hand eye socket (from our perspective, technically the skull's right hand socket), a blackberry in the other, the plate is now a plate-sized chocolate chip cookie (admittedly on a regular plate) and there are four happy peo ple in the background."></p>
 <p>I'll note that it did put the plate-sized cookie on a regular plate. Here's <a href="https://drive.google.com/file/d/18AzhM-BUZAfLGoHWl6MQW_UW9ju4km-i/view?usp=drive_link">the 24.9MB PNG</a>.</p>
-<p>The new model isn't cheap. Here's <a href="https://ai.google.dev/gemini-api/docs/pricing#gemini-3-pro-image-preview">the API pricing</a>: it's 24 cents for a 4K image and 13.4 cents for a 1K or 2K image. Image inputs are 6.7 cents each.</p>
-<p>If you use all 14 reference images to create a 4K output that's <span class="math inline">\(1.18 for a single API call (plus a few more cents to cover your text prompt, charged at \)</span>2.00 per million tokens.)</p>
+<p>The new model isn't cheap. Here's <a href="https://ai.google.dev/gemini-api/docs/pricing#gemini-3-pro-image-preview">the API pricing</a>: it's 24 cents for a 4K image and 13.4 cents for a 1K or 2K image. Image inputs are 0.11 cents (just over 1/10th of a cent) each - an earlier version of their pricing page incorrectly said 6.7 cents each but that's now been fixed.</p>
 <p>Unlike most of Google's other models it also isn't available for free via AI Studio: you have to configure an API key with billing in order to use the model there.</p>
 <h4>Creating an infographic</h4>
 <p>So this thing is great at following instructions. How about rendering text?</p>
@@ -19369,1012 +19852,6 @@ written in Rust. October was a very exciting month for Redox! Here’s all the l
 
       <address>
         <a href="https://buttondown.com/blog/paid-subscriptions-setup-improvements">https://buttondown.com/blog/paid-subscriptions-setup-improvements</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T23:27:00Z" data-link="https://tantek.com/2025/303/t1/october-blogging-challenges">
-      <h1><default:div xmlns="http://www.w3.org/1999/xhtml" class="if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14"/></h1>
-
-(date: 2025-10-30)
-      <p>
-      
-      <address>
-        <a href="https://tantek.com/2025/303/t1/october-blogging-challenges">https://tantek.com/2025/303/t1/october-blogging-challenges</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T23:21:35Z" data-link="https://mjtsai.com/blog/2025/10/30/swift-6-2-subprocess/">
-      <h1>Swift 6.2: Subprocess</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Holly Borla: Swift 6.2 introduces a new Subprocess package that offers a streamlined, concurrency‑friendly API for launching and managing external processes. SF-0007: The existing Foundation API for spawning a process, NSTask, originated in Objective-C. It was subsequently renamed to Process in Swift. As the language has continued to evolve, Process has not kept up. It […]</p>
-
-      <address>
-        <a href="https://mjtsai.com/blog/2025/10/30/swift-6-2-subprocess/">https://mjtsai.com/blog/2025/10/30/swift-6-2-subprocess/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T23:21:21Z" data-link="https://mjtsai.com/blog/2025/10/30/neofinder-9-0/">
-      <h1>NeoFinder 9.0</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Norbert Doerner: New Cataloging engine with more speed and reliability […] Ability to move files to new folders inside a Catalog Text Replacements for the XMP Editor for faster annotations […] Image Capture to import photos and videos from connected cameras, including adding XMP presets, and store them in a date based folder structure [guide] […]</p>
-
-      <address>
-        <a href="https://mjtsai.com/blog/2025/10/30/neofinder-9-0/">https://mjtsai.com/blog/2025/10/30/neofinder-9-0/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T22:22:34Z" data-link="https://onefoottsunami.com/2025/10/30/museum-theft-is-a-victimless-crime/">
-      <h1>Museum Theft Is a Victimless Crime</h1>
-
-(date: 2025-10-30)
-      <p>
-      
-      <address>
-        <a href="https://onefoottsunami.com/2025/10/30/museum-theft-is-a-victimless-crime/">https://onefoottsunami.com/2025/10/30/museum-theft-is-a-victimless-crime/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T22:17:13Z" data-link="https://steady.substack.com/p/have-we-reached-the-tipping-point">
-      <h1>Have We Reached The Tipping Point?</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>The president has stooped to using hunger as a political gambit</p>
-
-      <address>
-        <a href="https://steady.substack.com/p/have-we-reached-the-tipping-point">https://steady.substack.com/p/have-we-reached-the-tipping-point</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T22:10:49Z" data-link="https://cloudfour.com/thinks/that-time-some-rando-turned-me-into-a-meme-coin/">
-      <h1>That time some rando turned me into a meme coin</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>&quot;I think someone made one of my tweets into a meme coin.&quot; She said, &quot;I'm not sure I know what those words mean.&quot; I replied, &quot;I'm not sure I do either.&quot;</p>
-
-      <address>
-        <a href="https://cloudfour.com/thinks/that-time-some-rando-turned-me-into-a-meme-coin/">https://cloudfour.com/thinks/that-time-some-rando-turned-me-into-a-meme-coin/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T21:59:11Z" data-link="http://scripting.com/2025/10/30.html#a215911">
-      <h1>@Dave Winer's Scripting News</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Every OS should have a Help system that you can ask &quot;How do I do this&quot; and it understands what you're saying. The Mac OS tries to take you to a manual with a freaking table of contents! What do I look like, a robot? Come on it's 2025. Get with it. Maybe OpenAI should buy Apple.</p>
-
-      <address>
-        <a href="http://scripting.com/2025/10/30.html#a215911">http://scripting.com/2025/10/30.html#a215911</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T21:51:20Z" data-link="https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/">
-      <h1>Apple Reports Strong Q4 2025 Results</h1>
-
-(date: 2025-10-30, updated: 2025-10-31)
-      <p>
-      
-      <address>
-        <a href="https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/">https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T21:04:06Z" data-link="https://heathercoxrichardson.substack.com/p/live-with-heather-cox-richardson-031">
-      <h1>Live with Heather Cox Richardson</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>A recording from Heather Cox Richardson's live video</p>
-
-      <address>
-        <a href="https://heathercoxrichardson.substack.com/p/live-with-heather-cox-richardson-031">https://heathercoxrichardson.substack.com/p/live-with-heather-cox-richardson-031</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T20:28:25Z" data-link="https://adactio.com/notes/22227">
-      <h1>Thursday session</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p><img src="https://adactio.com/images/uploaded/22227/small.jpg" alt="Thursday session"></p>
-<p>Thursday session</p>
-
-      <address>
-        <a href="https://adactio.com/notes/22227">https://adactio.com/notes/22227</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T20:09:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3m4grdusjts27">
-      <h1>@Robert's feed at BlueSky</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>I needed to see that right now.</p>
-<p>[contains quote post or other embedded content]</p>
-
-      <address>
-        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3m4grdusjts27">https://bsky.app/profile/rsdoiel.bsky.social/post/3m4grdusjts27</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T20:00:14Z" data-link="https://www.notesfromthecircus.com/p/the-democratic-establishment-is-a">
-      <h1>The Democratic Establishment Is a Dead Man Walking</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Hakeem Jeffries thinks the path back to power for Democrats is focusing on “kitchen table issues,” waiting for Trump to self-destruct, and avoiding challenging Trump on his increasing constitutional violations in immigration enforcement, the deployment of military to cities.</p>
-
-      <address>
-        <a href="https://www.notesfromthecircus.com/p/the-democratic-establishment-is-a">https://www.notesfromthecircus.com/p/the-democratic-establishment-is-a</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T19:52:36Z" data-link="https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/">
-      <h1>AI is Dunning-Kruger as a service</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>On January 6th, 1995 two bank robbers in Pittsburgh confused law enforcement by not making any attempts to conceal their faces but instead brazenly looking at security cameras as if they were invisible. The reason is that they actually thought they were. Clifton Earl Johnson had convinced his fellow in crime, McArthur Wheeler that covering […]</p>
-
-      <address>
-        <a href="https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/">https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T19:25:28Z" data-link="https://www.404media.co/ai-generated-mpreg-schoolhouse-rock-ad-attacking-mamdani-is-the-sad-poliaesthetic-of-our-time/">
-      <h1>Andrew Cuomo Uses AI MPREG Schoolhouse Rock Bill to Attack Mamdani, Is Out of Ideas</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Uhh, is ChatGPT the dad or?</p>
-
-      <address>
-        <a href="https://www.404media.co/ai-generated-mpreg-schoolhouse-rock-ad-attacking-mamdani-is-the-sad-poliaesthetic-of-our-time/">https://www.404media.co/ai-generated-mpreg-schoolhouse-rock-ad-attacking-mamdani-is-the-sad-poliaesthetic-of-our-time/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T19:19:53Z" data-link="https://webkit.org/blog/17560/release-notes-for-safari-technology-preview-231/">
-      <h1>Release Notes for Safari Technology Preview 231</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Safari Technology Preview Release 231 is now available for download for macOS Tahoe and macOS Sequoia.</p>
-
-      <address>
-        <a href="https://webkit.org/blog/17560/release-notes-for-safari-technology-preview-231/">https://webkit.org/blog/17560/release-notes-for-safari-technology-preview-231/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T18:49:00Z" data-link="https://bsky.app/profile/barackobama.bsky.social/post/3m4gmugm7k22q">
-      <h1>@Barack Obama @Bsky</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>California – this Election Day, vote yes on Prop 50.</p>
-<p>California’s Prop 50 says that if Republicans are going to abuse the system to try and hang onto power, we’re going to counteract that abuse and create a level playing field in the midterm elections.</p>
-<p>Make a plan to vote yes on Prop 50.</p>
-
-      <address>
-        <a href="https://bsky.app/profile/barackobama.bsky.social/post/3m4gmugm7k22q">https://bsky.app/profile/barackobama.bsky.social/post/3m4gmugm7k22q</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T18:46:04Z" data-link="https://heathercoxrichardson.substack.com/p/october-29-2025-e47">
-      <h1>October 29, 2025</h1>
-
-(date: 2025-10-30)
-      <p>
-      
-      <address>
-        <a href="https://heathercoxrichardson.substack.com/p/october-29-2025-e47">https://heathercoxrichardson.substack.com/p/october-29-2025-e47</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T18:46:00Z" data-link="https://petermolnar.net/article/music-center-no-cast/">
-      <h1>Simplifying music playback</h1>
-
-(date: 2025-10-30, updated: 2025-11-04)
-      <p>
-      <p>I decided to throw complications away and use a tablet, and a tablet alone via it's headphone jack to the amplifier. Blasphemy, sacrilege - no separate DAC, no dedicated streamer, no NAS, no nothing.</p>
-
-      <address>
-        <a href="https://petermolnar.net/article/music-center-no-cast/">https://petermolnar.net/article/music-center-no-cast/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T18:00:45Z" data-link="http://scripting.com/2025/10/30.html#a180045">
-      <h1>@Dave Winer's Scripting News</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>At the same time I heard from people at Automattic that they had successfully <a href="https://github.com/scripting/feedlandInstall">installed</a> the new version of the FeedLand software on <a href="https://feedland.com/?river=true&amp;screenname=davewiner&amp;catname=politics">feedland.com</a> which runs on their VIP system, so theoretically should scale as well as anything on the net. There was a serious performance problem, that, with the help of <a href="https://ohryan.ca/author/admin/">Ryan Neudorf</a> who I met in Ottawa, and Scott Hanson, longtime contributor here, was <a href="https://github.com/scripting/feedlandDev/issues/8">fixed</a>. It was a daring move, it meant that <em>all</em> the timeline-generating code in FeedLand had to be rewritten. It was worth it. If you've ever felt that FeedLand was too slow at displaying news, please try again, I think you'll be pleased.</p>
-
-      <address>
-        <a href="http://scripting.com/2025/10/30.html#a180045">http://scripting.com/2025/10/30.html#a180045</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T18:00:37Z" data-link="https://www.404media.co/chimps-are-capable-of-human-like-rational-thought-breakthrough-study-finds/">
-      <h1>Chimps Are Capable of Human-Like Rational Thought, Breakthrough Study Finds</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>In a series of experiments, chimpanzees revised their beliefs based on new evidence, shedding light on the evolutionary origins of rational thought.</p>
-
-      <address>
-        <a href="https://www.404media.co/chimps-are-capable-of-human-like-rational-thought-breakthrough-study-finds/">https://www.404media.co/chimps-are-capable-of-human-like-rational-thought-breakthrough-study-finds/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T17:46:01Z" data-link="http://scripting.com/2025/10/30.html#a174601">
-      <h1>@Dave Winer's Scripting News</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p><img src="https://imgs.scripting.com/2024/12/25/leftfacingsanta.png" alt="">Just heard from <a href="https://inessential.com/">Brent Simmons</a> that the next version of <a href="https://github.com/Ranchero-Software/NetNewsWire/issues/3896#issuecomment-3468342615">NetNewsWire</a> will support the <a href="http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInRss">Markdown in RSS</a>. I wrote it up on my <a href="https://daveverse.org/2025/10/30/markdown-support-coming-in-netnewswire/">daveverse site</a>, which I edit with <a href="https://wordland.social/">WordLand</a>, which means it has a <a href="https://wordland.dev/scripting/237777565/rss.xml">special feed</a> that contains <a href="https://source.scripting.com/#1653758422000">source:markdown</a> elements. You can be one of the first people with markdown-support in your feed, and in doing so, help the bootstrap. If you have questions, post a comment <a href="https://github.com/scripting/Scripting-News/issues/334">here</a>.</p>
-
-      <address>
-        <a href="http://scripting.com/2025/10/30.html#a174601">http://scripting.com/2025/10/30.html#a174601</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T17:28:45Z" data-link="https://links.daveverse.org/2025/10/30/markdown-support-coming-in-netnewswire/">
-      <h1>Markdown support coming in NetNewsWire</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>I just got word from Brent that the next release of NetNewsWire will have support for the source:markdown element.</p>
-<p>This will help the transition to using Markdown as a fully-supported format for RSS. Right now NNW is the first mainstream product to support it.</p>
-<p>This site has an RSS feed that contains source:markdown elements.</p>
-<p>Every WordLand-written post has one of these feeds, so there is an official way to publish content that NNW will display via Markdown.</p>
-
-      <address>
-        <a href="https://links.daveverse.org/2025/10/30/markdown-support-coming-in-netnewswire/">https://links.daveverse.org/2025/10/30/markdown-support-coming-in-netnewswire/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T17:22:47Z" data-link="https://lithub.com/libraries-are-reeling-after-a-major-distributor-shutdown/">
-      <h1>Libraries are reeling after a major distributor shutdown.</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>This Thursday brings bad news for book lovers. Baker &amp; Taylor, one of the largest distributors for print library books in America, is closing down—and throwing the distribution pipeline into (at least) short term chaos as a result. As 404Media</p>
-
-      <address>
-        <a href="https://lithub.com/libraries-are-reeling-after-a-major-distributor-shutdown/">https://lithub.com/libraries-are-reeling-after-a-major-distributor-shutdown/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T17:00:45Z" data-link="https://mastodon.social/@Migueldeicaza/115464185157900258">
-      <h1>@Miguel de Icaza Mastondon feed</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>My radicalization continues:</p>
-<p><a href="https://www.tiktok.com/t/ZTM465w6G/">https://www.tiktok.com/t/ZTM465w6G/</a></p>
-
-      <address>
-        <a href="https://mastodon.social/@Migueldeicaza/115464185157900258">https://mastodon.social/@Migueldeicaza/115464185157900258</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T16:55:35Z" data-link="https://guykawasaki.substack.com/p/from-chef-to-dad-david-changs-new">
-      <h1>From Chef to Dad: David Chang’s New Definition of Success</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Chef David Chang knows how to burn bright without burning out.</p>
-
-      <address>
-        <a href="https://guykawasaki.substack.com/p/from-chef-to-dad-david-changs-new">https://guykawasaki.substack.com/p/from-chef-to-dad-david-changs-new</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T16:22:42Z" data-link="https://www.404media.co/trump-orders-nuclear-testing-as-nuke-workers-go-unpaid/">
-      <h1>Trump Orders Nuclear Testing As Nuke Workers Go Unpaid</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Everyone loses and nobody wins if America decides to resume nuclear testing after a 30 year moratorium.</p>
-
-      <address>
-        <a href="https://www.404media.co/trump-orders-nuclear-testing-as-nuke-workers-go-unpaid/">https://www.404media.co/trump-orders-nuclear-testing-as-nuke-workers-go-unpaid/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T16:02:21Z" data-link="http://scripting.com/2025/10/30.html#a160221">
-      <h1>@Dave Winer's Scripting News</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Since many of us now program with AI chatbot assistance, it seems it's time to think about higher level languages we can use to specify what we're doing, new kinds of computers because we now have bigger more capable minds at work.</p>
-
-      <address>
-        <a href="http://scripting.com/2025/10/30.html#a160221">http://scripting.com/2025/10/30.html#a160221</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T15:30:58Z" data-link="https://joe-steel.com/2025-10-22-Why-GM-Will-Give-You-Gemini-But-Not-CarPlay.html">
-      <h1>CarPlay Seems Essential for Rental Fleets</h1>
-
-(date: 2025-10-30)
-      <p>
-      
-      <address>
-        <a href="https://joe-steel.com/2025-10-22-Why-GM-Will-Give-You-Gemini-But-Not-CarPlay.html">https://joe-steel.com/2025-10-22-Why-GM-Will-Give-You-Gemini-But-Not-CarPlay.html</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T15:26:12Z" data-link="https://adactio.com/journal/22225">
-      <h1>Aleth Gueguen is speaking at Web Day Out</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Almost two months ago, <a href="https://adactio.com/journal/22113">I put out the call</a> for speaker suggestions for <a href="https://webdayout.com/">Web Day Out</a>. I got some good responses—thank you to everyone who took the time to get in touch.</p>
-<p>The response that really piqued my interest was from <a href="https://alethgueguen.com/">Aleth Gueguen</a>. She proposed a talk on progressive web apps, backed up with plenty of experience. The more I thought about it, the more I realised how perfect it would be for Web Day Out.</p>
-<p>So I’m very pleased to announce that Aleth will be speaking at Web Day Out about <a href="https://webdayout.com/aleth-gueguen/#talk">progressive web apps from the trenches</a>:</p>
-<blockquote>
-<p>Find out about the most important capabilities in progressive web apps and how to put them to work.</p>
-</blockquote>
-<p>I’m really excited about this line-up! This is going to be a day out that you won’t want to miss. <a href="https://ti.to/clearleft/web-day-out">Get your ticket</a> for a mere £225+VAT if you haven’t already!</p>
-<p><a href="https://webdayout.com/">See you in Brighton on 12 March, 2026!</a></p>
-
-      <address>
-        <a href="https://adactio.com/journal/22225">https://adactio.com/journal/22225</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T15:19:22Z" data-link="https://glammr.us/@IIIF/115463786503138295">
-      <h1>@IIIF Mastodon feed</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>It's the final weekend to submit a proposal for the 2026 <a href="https://glammr.us/tags/IIIF">#IIIF</a> Online Meeting.</p>
-<p>Read the full CfP here: <a href="https://iiif.io/event/2026/online-meeting/">https://iiif.io/event/2026/online-meeting/</a></p>
-
-      <address>
-        <a href="https://glammr.us/@IIIF/115463786503138295">https://glammr.us/@IIIF/115463786503138295</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T15:12:32Z" data-link="https://www.mollywhite.net/micro/entry/202510301111">
-      <h1>Note published on October 30, 2025 at 3:12 PM UTC</h1>
-
-(date: 2025-10-30)
-      <p>
-      
-      <address>
-        <a href="https://www.mollywhite.net/micro/entry/202510301111">https://www.mollywhite.net/micro/entry/202510301111</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T15:10:29Z" data-link="https://www.404media.co/someone-snuck-into-a-cellebrite-microsoft-teams-call-and-leaked-phone-unlocking-details/">
-      <h1>Someone Snuck Into a Cellebrite Microsoft Teams Call and Leaked Phone Unlocking Details</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>The leaked slide focuses on Google Pixel phones and mentions those running the security-focused GrapheneOS operating system.</p>
-
-      <address>
-        <a href="https://www.404media.co/someone-snuck-into-a-cellebrite-microsoft-teams-call-and-leaked-phone-unlocking-details/">https://www.404media.co/someone-snuck-into-a-cellebrite-microsoft-teams-call-and-leaked-phone-unlocking-details/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T15:02:07Z" data-link="https://www.borowitzreport.com/p/trump-orders-ice-agents-to-pick-crops">
-      <h1>Trump Orders ICE Agents to Pick Crops Unharvested by Deported Immigrants</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>“I didn’t sign up for this,” complained an exhausted ICE officer.</p>
-
-      <address>
-        <a href="https://www.borowitzreport.com/p/trump-orders-ice-agents-to-pick-crops">https://www.borowitzreport.com/p/trump-orders-ice-agents-to-pick-crops</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T15:00:00Z" data-link="https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-416/">
-      <h1>A Newsletter of Humorous Writing #416</h1>
-
-(date: 2025-10-30)
-      <p>
-      <h3><em>For October 22-28, 2025</em></h3>
-<p>Hello and welcome to <strong>A Newsletter of Humorous Writing</strong>, a roundup of the week's finest short humor pieces and funny articles, and a celebration of the fantastic writers who wrote them. Hey guys, James here. Please don’t tell Luke, but for the fourth year in a row I’ve eaten all the Halloween candy that we’re supposed to hand out at Humorous Readings Headquarters (HRHQ). I’m not sure he’s going to buy “it all melted and was sipped up by hummingbirds” again, so if he asks, just back me up and say that you don’t know what happened to the candy or why my face is smeared in chocolate. Thanks!</p>
-<hr>
-<h2>What We Enjoyed This Week</h2>
-<p><a href="https://reductress.com/post/healthy-this-woman-just-chose-chips-over-gummy-worms-because-they-seem-more-of-the-earth/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416"><strong>Healthy! This Woman Just Chose Chips Over Gummy Worms Because They Seem More of the Earth</strong></a> <strong>by</strong> <a href="https://www.mckayleygourley.com/about?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416"><strong>McKayley Gourley</strong></a> <em>(Reductress)</em> This piece, written by one of our favorite writers, is filled with great lines but we want to zoom in on a very small detail: the closing phrase in the title, “They Seem More of the Earth” is excellent. It’s so specifically weird and stilted in a way that immediately conjures a character.</p>
-<p><a href="https://medium.com/slackjaw/new-rules-for-the-moat-4b61cc9edc69?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416"><strong>New Rules For The Moat</strong></a> <strong>by</strong> <a href="https://livrariaplutao.bigcartel.com/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416"><strong>Luís Leal Miranda</strong></a> <em>(Slackjaw)</em> Very impressive breadth of exploration here. Luís hits moats from a lot of angles, which is a good reminder to really take the time to think through all the implications of your premise. It pays off!</p>
-<p><a href="https://www.mcsweeneys.net/articles/our-wedding-gifts-ten-years-later?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416"><strong>Our Wedding Gifts: Ten Years Later</strong></a> <strong>by</strong> <a href="https://kristenmulrooney.com/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416"><strong>Kristen Mulrooney</strong></a> <em>(McSweeney’s)</em> Such a simple, clear pattern to this piece. Kristen has so much fun exploring and sticks the landing with a perfect final beat that caps off a bunch of threads in one go. We also love a zoodles reference.</p>
-<hr>
-<blockquote>
-<p>-- AD --</p>
-<p>Django Gold (Colbert, the Onion) is bringing a BRAND-NEW hour (plus or minus five minutes) of stand-up comedy to the Gutter on Friday, November 7 as part of the New York Comedy Festival!</p>
-<p>Come get silly, Django style - grab your <a href="https://www.eventbrite.com/e/django-gold-55-new-minutes-new-york-comedy-festival-tickets-1668759246829?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416">tickets</a> today!</p>
-<hr>
-<p><a href="https://classes.stellaadler.com/classes/winter/devised-comedy-winter/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416">Devised Comedy @ Adler</a> from Matt Gehring</p>
-<p>After fifteen years in comedy and five years shaping talent with Ars Nova CAMP, I’m launching the Devised Comedy Winter Immersion at Stella Adler Studio (open to all). The program takes comedy seriously, offering six original courses: Devised Comedy, Writing for Sketch, Acting for Sketch, Body &amp; Comedy, Improvisation for Stage, and Improvisation for Film/TV/Audio—taught by DC Pierson, Chet Siegel, Moujan Zolfaghari, Mahayla Laurence, and me. It’s a chance for actors to sharpen their comedic craft or comedians to deepen their acting. The goal: treat comedy with the same artistic rigor as drama.</p>
-<p><em>(Do you have an ad you'd like to place in the Newsletter?</em> <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJlHErf2PuWr5NxqLbD6dhf7s31pzCC3sBVCHJ24exAwfmgQ/viewform?usp=sf_link&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416"><em>Fill out this form!</em></a> <em>)</em></p>
-</blockquote>
-<hr>
-<h2>An Old Favorite</h2>
-<p><strong><em>This week's Old Favorite is a</em></strong> <a href="http://www.mcsweeneys.net/articles/celebrating-the-hilarious-work-of-brian-agler?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416"><strong><em>Brian Agler</em></strong></a> <strong><em>Selection (TM)--a piece whose accompanying note was written by Brian--from</em></strong> <a href="https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-56/"><strong><em>Newsletter #56</em></strong></a> <strong><em>, an edition Brian pumpkin spiced.</em></strong></p>
-<p><a href="https://www.newyorker.com/humor/daily-shouts/everything-ive-done-that-made-a-rich-old-lady-with-opera-glasses-faint-or-a-monocle-fall-out-of-a-rich-guys-eye?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416"><strong>Everything I've Done That Made A Rich Old Lady With Opera Glasses Faint Or A Monocle Fall Out Of A Rich Guy's Eye</strong></a> by <a href="https://twitter.com/AlexanderWatt?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416"><strong>Alex Watt</strong></a> <em>(New Yorker)</em> This piece was so funny, it made me want to eat a horse's ass! (Ed note: This is only funny if you've read the piece beforehand. Now, it's just weird.)</p>
-<p><em>Do you have an Old Favorite of your own? Let us know by filling out</em> <a href="http://forms.gle/9iALhpfsAn9mvn4p8?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416"><em>this form</em></a> <em>and we may run your pick in a future edition of the newsletter.</em></p>
-<hr>
-<h2>Updates From Your Hosts and Friends of the Show</h2>
-<p>Luke’s still got a few spots left in two short humor workshops starting in exactly one week: A <a href="https://docs.google.com/forms/d/e/1FAIpQLScTnF1MJNoB2Hu_rpYmCxsgu8Fj2fHb71mdRf4L4nBXfBLUpA/viewform?usp=dialog&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416">Thursday afternoon class</a> and a <a href="https://docs.google.com/forms/d/e/1FAIpQLSebBNaODHpu9VfzRFDu0GjOJlKLi2nA-IxV9k5tTp92pqgyJw/viewform?usp=dialog&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416">Thursday night class</a>. Writing from past workshops has gone on to be published by <a href="https://bsky.app/profile/lukevburns.bsky.social/post/3lxzikevnws2j?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416">The New Yorker</a> (print and online), <a href="https://bsky.app/profile/lukevburns.bsky.social/post/3m3fvpjx6bs2t?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416">McSweeney’s</a>, and <a href="https://bsky.app/profile/lukevburns.bsky.social/post/3ldlqe2ftjk2x?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416">more</a>!</p>
-<p>Oh and—James again—Luke found out about the candy so I’m going to be in time-out until the next edition. Sorry I roped you all into this!</p>
-
-      <address>
-        <a href="https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-416/">https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-416/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T14:51:50Z" data-link="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/10/30/kde_65_651/">
-      <h1>KDE tidies up Plasma 6.5 with 60-odd fixes and smoother setup for OEMs</h1>
-
-(date: 2025-10-30)
-      <p>
-      <h4>Big release with a lot of new features – and a few inevitable glitches</h4>
-<p>The KDE Plasma 6.5 graphical shell arrived last week for Unix-like operating systems, and now 6.5.1 is here for the more cautious. The team's squashed over 60 bugs – and they're by no means all new.</p>
-
-      <address>
-        <a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/10/30/kde_65_651/">https://go.theregister.com/i/cfa/https://www.theregister.com/2025/10/30/kde_65_651/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T14:02:39Z" data-link="https://www.404media.co/libraries-scramble-for-books-after-giant-distributor-shuts-down/">
-      <h1>Libraries Scramble for Books After Giant Distributor Shuts Down</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Why it might have been and may continue to be harder to get new releases from your local library.</p>
-
-      <address>
-        <a href="https://www.404media.co/libraries-scramble-for-books-after-giant-distributor-shuts-down/">https://www.404media.co/libraries-scramble-for-books-after-giant-distributor-shuts-down/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T13:28:36Z" data-link="https://alexschroeder.ch/view/2025-10-22-bots-again">
-      <h1>2025-10-22 Bots, again. I'm taking it personally.</h1>
-
-(date: 2025-10-30)
-      <p>
-      <h1>2025-10-22 Bots, again. I’m taking it personally.</h1>
-<p>My auto-blocking of bots hasn’t needed much intervention in recent weeks. The
-current average is 10,000 blocked IP ranges.
-If you’re interested, there’s a<a href="https://transjovian.org/view/fight-bots/index">a description of my setup</a>.</p>
-<p><img src="2025-10-22-bots-again/01K7RMQ3YVE09T7ZYGSNEMBH1H.png" alt="Lots of graphs but the important one is the yellow line that’s pretty stable around 10k."></p>
-<p>Hah, I post the above and now load is 95 and the bots are at it.</p>
-<p>What I don’t like about Munin is that when it crashes (I assume it’s the OOM
-reaper making the rounds), then it leaves behind a lock that prevents the
-graph from updating. Ugh.</p>
-<p><img src="2025-10-22-bots-again/01K7YKFAPMFGSC0F8EBRSM66YJ.png" alt="A Munin graph showing maximum average load being 137.51 and now back to 1.24."></p>
-<p>If you like large language models (LLMs), know that they need regular
-training and the people training them are ruining the web for
-everybody. You are part of this, as a consumer.</p>
-<p>Most sites don’t have the defences required, or require the execution
-of expensive JavaScript for the CO₂ god, or require placing all your
-visitor’s browsing data into the hands of another company, most likely
-CloudFlare, in the USA. If you object to any of that, you must do your
-duty and reject the use of LLMs as well. You can’t eat your cake and
-claim to object to the rest. It would be a most incongruent position
-to take.</p>
-<p>And since this kind of shit often happens while<a href="2025-portugal">I’m on holidays</a>, the LLM friends reading this are
-responsible, in a very small way, for pissing on me during my
-holidays. And I resent it.</p>
-<p>I resent it very much.</p>
-<p><img src="2025-10-22-bots-again/01K7YXF66MYSEQC615WGSBECN2.png" alt="Load going up to 80, again. And back down, again."></p>
-<p>Waking up in a hotel bed, opening the balcony doors, hearing the birds
-sing, switching on the phone and realising that load is over 100 and
-nothing works, switching off Emacs Wiki and Community Wiki, the
-favourite targets of the AI scrapers and thinking of the people who
-like to use large language models.</p>
-<p>It’s the same problem as always: drive a car, see the CO₂ in the world
-go up, “but I need it!” – yeah, but we need an earth that supports
-human life too, idiots. Humans, where comfort is separated from
-consequences by time and space like to choose comfort. In this case,
-the AI comfort leads to the shut down of the open web, the
-centralisation of what remains, the installation of barriers, and ever
-and always: more control for fewer people. But of course, the
-consequences are separated by time and space from the comforts of AI
-users.</p>
-<p>Imagine a goddess of destruction with a grim smile and a thousand
-hands and each one of them is giving you a middle finger.</p>
-<p>Load average: 142.25</p>
-<p>I switched off Community Wiki and Emacs Wiki.</p>
-<p>Coming back after a day of excursions and things seem to be working
-fine, if I don’t switch on those two sites. These two have been
-unavailable for a minimum of six hours and yet in the last two hours
-Emacs Wiki still got 3537 requests.</p>
-<p>Time to ban every network of every ASN that’s still requesting Emacs Wiki pages.</p>
-<pre><code>2h-access-log \
-| grep '^www\.emacswiki\.org' \
-| log-ip \
-| asncounter --top 50 --no-prefixes 2&gt;/dev/null \
-| awk '/^[1-9]/ &amp;&amp; $1 &gt;= 10 { print $3 }' \
-| xargs asn-networks \
-| xargs fail2ban-client set butlerian-jihad-week banip
-
-</code></pre>
-<p>If you’re looking for the building blocks I’m using, see my<a href="https://alexschroeder.ch/admin/">collection of admin scripts and shell functions</a>.</p>
-<p>Hours later, I switched Emacs Wiki on for a minute and load
-immediately rose from around 1 to nearly 4 and my SSH connection
-became slow as molasses. It’ll remain switched off for tonight and
-probably tomorrow, too. It depends on the kind of wifi connection I
-have, tomorrow.</p>
-<p>Perhaps I should just hand Emacs Wiki off to somebody who’s more into
-it.</p>
-<p>Switching off Community Wiki and two smaller sites as well, for now.</p>
-<p><a href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a href="/search/?q=%23Emacs">#Emacs</a></p>
-<p><strong>2025-10-22</strong>. On IRC, twb replied to my complaints about the Munin lock being left behind:</p>
-<blockquote>
-<p>if you have systemd, just set RuntimeDirectory=%p and systemd will clean it up</p>
-</blockquote>
-<p>Also, he’s running <a href="https://github.com/trentbuck/collection4/blob/main/debian/service">collection4</a> instead of Munin.</p>
-<p><strong>2025-10-23</strong>. Switching Emacs Wiki back on, about nine hours ago.</p>
-<p><img src="2025-10-22-bots-again-1.jpg" alt=""></p>
-<p><strong>2025-10-29</strong>. <a href="https://infosec.exchange/@briankrebs" title="@briankrebs@infosec.exchange">@briankrebs</a> writes:</p>
-<blockquote>
-<p><strong>Aisuru</strong>, the botnet responsible for a series of record-smashing distributed denial-of-service (DDoS) attacks this year, recently was overhauled to support a more low-key, lucrative and sustainable business: Renting hundreds of thousands of infected Internet of Things (IoT) devices to proxy services that help cybercriminals anonymize their traffic. Experts say a glut of proxies from Aisuru and other sources is fueling large-scale data harvesting efforts tied to various artificial intelligence (AI) projects, helping content scrapers evade detection by routing their traffic through residential connections that appear to be regular Internet users. – <a href="https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/">Aisuru Botnet Shifts from DDoS to Residential Proxies</a></p>
-</blockquote>
-<p><strong>2025-10-30</strong>. Bear blog is run by Herman and he’s angry, too.</p>
-<blockquote>
-<p>The public internet is mostly bots, many of whom are bad netizens. It’s the most hostile it’s ever been, and it is because of this that I feel it’s more important than ever to take good care of the spaces that make the internet worth visiting. – <a href="https://herman.bearblog.dev/agressive-bots/">Aggressive bots ruined my weekend</a></p>
-</blockquote>
-
-      <address>
-        <a href="https://alexschroeder.ch/view/2025-10-22-bots-again">https://alexschroeder.ch/view/2025-10-22-bots-again</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T12:52:38Z" data-link="https://www.mcsweeneys.net/articles/hi-its-me-wikipedia-and-i-am-ready-for-your-apology">
-      <h1>‘Hi, It’s Me, Wikipedia, and I Am Ready for Your Apology’</h1>
-
-(date: 2025-10-30)
-      <p>
-      
-      <address>
-        <a href="https://www.mcsweeneys.net/articles/hi-its-me-wikipedia-and-i-am-ready-for-your-apology">https://www.mcsweeneys.net/articles/hi-its-me-wikipedia-and-i-am-ready-for-your-apology</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T12:29:48Z" data-link="http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInFeeds">
-      <h1>@Dave Winer's linkblog</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>2022: Dev notes for Markdown in RSS.</p>
-
-      <address>
-        <a href="http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInFeeds">http://scripting.com/2022/07/19/152235.html?title=devNotesForMarkdownInFeeds</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T12:25:08Z" data-link="https://www.thenation.com/article/politics/donald-trump-tony-soprano-bust-out/?utm_campaign=SproutSocial&utm_content=The%20Nation%20Magazine&utm_medium=social&utm_source=bluesky#">
-      <h1>@Dave Winer's linkblog</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Trump’s Tony Soprano Presidency Is Bleeding the Country Dry.</p>
-
-      <address>
-        <a href="https://www.thenation.com/article/politics/donald-trump-tony-soprano-bust-out/?utm_campaign=SproutSocial&utm_content=The%20Nation%20Magazine&utm_medium=social&utm_source=bluesky#">https://www.thenation.com/article/politics/donald-trump-tony-soprano-bust-out/?utm_campaign=SproutSocial&utm_content=The%20Nation%20Magazine&utm_medium=social&utm_source=bluesky#</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T12:24:00Z" data-link="https://openchannels.fm/episode-700-and-the-biggest-lesson-learned-with-a-rebrand/">
-      <h1>Episode 700 and The Biggest Lesson Learned With a Rebrand</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>As we hit 700 episodes, BobWP catches us up on the rebrand.</p>
-
-      <address>
-        <a href="https://openchannels.fm/episode-700-and-the-biggest-lesson-learned-with-a-rebrand/">https://openchannels.fm/episode-700-and-the-biggest-lesson-learned-with-a-rebrand/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T11:34:57Z" data-link="https://lithub.com/yes-you-are-the-literary-asshole-if-you-use-ai-to-edit-your-fiction/">
-      <h1>Yes, You Are the Literary Asshole If You Use AI to Edit Your Fiction</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Hello all you gals and ghouls! Welcome back to internet’s spookiest advice column, Am I the Literary Asshole?, a place where the monster mash is not only a graveyard smash, but also a drunken good time. I’m your host, Kristen</p>
-
-      <address>
-        <a href="https://lithub.com/yes-you-are-the-literary-asshole-if-you-use-ai-to-edit-your-fiction/">https://lithub.com/yes-you-are-the-literary-asshole-if-you-use-ai-to-edit-your-fiction/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T11:29:41Z" data-link="https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-product-management-in-the-age-of-ai-with-chris-butler/">
-      <h1>Generative AI in the Real World: Chris Butler on GenAI in Product Management</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>In this episode, Ben Lorica and Chris Butler, director of product operations for GitHub’s Synapse team, chat about the experimentation Chris is doing to incorporate generative AI into the product development process—particularly with the goal of reducing toil for cross-functional teams. It isn’t just automating busywork (although there’s some of that). He and his team […]</p>
-
-      <address>
-        <a href="https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-product-management-in-the-age-of-ai-with-chris-butler/">https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-product-management-in-the-age-of-ai-with-chris-butler/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T11:05:16Z" data-link="https://www.schneier.com/blog/archives/2025/10/the-ai-designed-bioweapon-arms-race.html">
-      <h1>The AI-Designed Bioweapon Arms Race</h1>
-
-(date: 2025-10-30, updated: 2025-10-20)
-      <p>
-      <p>Interesting <a href="https://arstechnica.com/science/2025/10/do-ai-designed-proteins-create-a-biosecurity-vulnerability/">article</a> about the arms race between AI systems that invent/design new biological pathogens, and AI systems that detect them before they’re created:</p>
-<blockquote>
-<p>The team started with a basic test: use AI tools to design variants of the toxin ricin, then test them against the software that is used to screen DNA orders. The results of the test suggested there was a risk of dangerous protein variants slipping past existing screening software, so the situation was treated like the equivalent of a zero-day vulnerability.</p>
-<p>[…]</p>
-<p>Details of that original test are ...</p>
-</blockquote>
-
-      <address>
-        <a href="https://www.schneier.com/blog/archives/2025/10/the-ai-designed-bioweapon-arms-race.html">https://www.schneier.com/blog/archives/2025/10/the-ai-designed-bioweapon-arms-race.html</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T10:30:49Z" data-link="https://lithub.com/lit-hub-daily-october-30-2025/">
-      <h1>Lit Hub Daily: October 30, 2025</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Our list of October’s best book covers also includes some bonus covers from September! | Lit Hub Design Speaking of book covers, Celia Mattison wants to know: Why do so many of them have sheep? | Lit Hub Art Books</p>
-
-      <address>
-        <a href="https://lithub.com/lit-hub-daily-october-30-2025/">https://lithub.com/lit-hub-daily-october-30-2025/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T10:27:26Z" data-link="https://paulkrugman.substack.com/p/how-we-lost-the-trade-war">
-      <h1>How We Lost the Trade War</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Tariff uncertainty may be waning, but the damage will persist</p>
-
-      <address>
-        <a href="https://paulkrugman.substack.com/p/how-we-lost-the-trade-war">https://paulkrugman.substack.com/p/how-we-lost-the-trade-war</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T09:28:08Z" data-link="https://xn--gckvb8fzb.com/zeit-v1/">
-      <h1>Zeit v1</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Nearly five years after its initial release, _Zeit_ has stood the _test of
-time_ (_hah_), and with the complete rewrite that is _Zeit v1_, I hope to
-continue that legacy while evolving it into a more advanced tool.</p>
-
-      <address>
-        <a href="https://xn--gckvb8fzb.com/zeit-v1/">https://xn--gckvb8fzb.com/zeit-v1/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T08:59:51Z" data-link="https://lithub.com/the-11-best-book-covers-of-october-2/">
-      <h1>The 11 Best Book Covers of October</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Another month of books, another month of book covers: October was big, bold, and weird as all get out. I also threw in a couple of covers that I forgot in September but just couldn’t let go of…   Striking,</p>
-
-      <address>
-        <a href="https://lithub.com/the-11-best-book-covers-of-october-2/">https://lithub.com/the-11-best-book-covers-of-october-2/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T08:59:45Z" data-link="https://lithub.com/porn-but-also-literature-on-john-clelands-fanny/">
-      <h1>Porn, But Also Literature: On John Cleland’s Fanny Hill</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Banned from publication in the United States until 1966 for its assumed obscenity, immorality, and lack of literary merit, Fanny Hill, or Memoirs of a Woman of Pleasure (1749), is a novel considered to be the first original English prose erotica. An</p>
-
-      <address>
-        <a href="https://lithub.com/porn-but-also-literature-on-john-clelands-fanny/">https://lithub.com/porn-but-also-literature-on-john-clelands-fanny/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T08:59:42Z" data-link="https://lithub.com/whats-with-all-the-sheep-on-book-covers/">
-      <h1>What’s With All the Sheep on Book Covers?</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Think back to the last time you saw a sheep. Where were you—some grassy rolling hills? A dusty petting zoo? Or was it, maybe, in a bookstore? Maybe in the new releases, on the cover of Midnight Timetable, Bora Chung’s</p>
-
-      <address>
-        <a href="https://lithub.com/whats-with-all-the-sheep-on-book-covers/">https://lithub.com/whats-with-all-the-sheep-on-book-covers/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T08:59:21Z" data-link="https://lithub.com/the-literary-film-tv-you-need-to-stream-in-november-3/">
-      <h1>The Literary Film & TV You Need to Stream in November</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Every month, all the major streaming services add a host of newly acquired (or just plain new) shows, movies, and documentaries into their ever-rotating libraries. So what’s a dedicated reader to watch? Well, whatever you want, of course, but the</p>
-
-      <address>
-        <a href="https://lithub.com/the-literary-film-tv-you-need-to-stream-in-november-3/">https://lithub.com/the-literary-film-tv-you-need-to-stream-in-november-3/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T08:59:11Z" data-link="https://lithub.com/a-fictional-inquiry/">
-      <h1>A Fictional Inquiry</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>A Fictional Inquiry tells of an unnamed narrator visiting Trieste and London to retrace the footsteps of a fabled literary figure. The novel is inspired by the life of Trieste-born Roberto (“Bobi”) Bazlen, who helped found one of Italy’s most</p>
-
-      <address>
-        <a href="https://lithub.com/a-fictional-inquiry/">https://lithub.com/a-fictional-inquiry/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T08:58:59Z" data-link="https://lithub.com/5-book-reviews-you-need-to-read-this-week-10-30-2025/">
-      <h1>5 Book Reviews You Need to Read This Week</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Our mixum-gatherum of marvelous reviews this week includes Becca Rothfeld on Karine Jean-Pierre’s Independent, Dwight Garner on Cameron Crowe’s The Uncool, Dan Piepenbring on Kate Eichhorn’s School Yearbook, Josh Billings on Helen DeWitt and Ilya Gridneff’s Your Name Here, and</p>
-
-      <address>
-        <a href="https://lithub.com/5-book-reviews-you-need-to-read-this-week-10-30-2025/">https://lithub.com/5-book-reviews-you-need-to-read-this-week-10-30-2025/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T08:58:50Z" data-link="https://lithub.com/the-most-anticipated-audiobooks-of-november/">
-      <h1>The Most Anticipated Audiobooks of November</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Each month, our friends at AudioFile Magazine share a curated list of the best audiobooks for your literary listening pleasure. * AUGUST FICTION We Love You, Bunny: Bunny, Book 2 by Mona Awad | Read by Sophie Amoss AudioFile Earphones Award [Simon</p>
-
-      <address>
-        <a href="https://lithub.com/the-most-anticipated-audiobooks-of-november/">https://lithub.com/the-most-anticipated-audiobooks-of-november/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T08:34:16Z" data-link="https://lithub.com/paradise-lost-r-e-m-the-village-voice-21-books-out-in-paperback-this-november/">
-      <h1>Paradise Lost! R.E.M.! The Village Voice! 21 books out in paperback this November.</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>It’s November, and I’m happy to be back with a new slew of book recommendations. I’ll be taking a step back from my weekly round-ups for the moment, but I’ll still be here at the end of each month to</p>
-
-      <address>
-        <a href="https://lithub.com/paradise-lost-r-e-m-the-village-voice-21-books-out-in-paperback-this-november/">https://lithub.com/paradise-lost-r-e-m-the-village-voice-21-books-out-in-paperback-this-november/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T08:21:53Z" data-link="https://www.bunniestudios.com/blog/2025/name-that-ware-october-2025/">
-      <h1>Name that Ware, October 2025</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>The Ware for October 2025 is shown below. Thanks to Juan C. for contributing this curious ware! I really can’t get enough of how the whole device is integrated with a multi-layer stacked PCB. I imagine that inside the middle of the stack there could be some interesting circuitry going on, too. I redacted one […]</p>
-
-      <address>
-        <a href="https://www.bunniestudios.com/blog/2025/name-that-ware-october-2025/">https://www.bunniestudios.com/blog/2025/name-that-ware-october-2025/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T08:13:24Z" data-link="https://www.bunniestudios.com/blog/2025/winner-name-that-ware-september-2025/">
-      <h1>Winner, Name that Ware September 2025</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>The Ware from September 2025 is a Hotronic AF 75 time base corrector. Really great comment thread, it was fun to read the sleuthing work and thought process behind the guesses. And yah, those SRAM chips make me nostalgic – I remember how expensive those were! Back when 32kiB cost real money. A couple folks […]</p>
-
-      <address>
-        <a href="https://www.bunniestudios.com/blog/2025/winner-name-that-ware-september-2025/">https://www.bunniestudios.com/blog/2025/winner-name-that-ware-september-2025/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T08:02:09Z" data-link="https://robertreich.substack.com/p/the-five-ingredients-of-zorhans-secret">
-      <h1>The Five Ingredients of Zohran’s Secret Sauce</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Anyone who wants to lead America out of the Trumpian darkness can do so with these</p>
-
-      <address>
-        <a href="https://robertreich.substack.com/p/the-five-ingredients-of-zorhans-secret">https://robertreich.substack.com/p/the-five-ingredients-of-zorhans-secret</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T07:00:00Z" data-link="https://web.dev/blog/web-platform-10-2025?hl=en">
-      <h1>New to the web platform in October</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Discover some of the interesting features that have landed in stable and beta web browsers during October 2025.</p>
-
-      <address>
-        <a href="https://web.dev/blog/web-platform-10-2025?hl=en">https://web.dev/blog/web-platform-10-2025?hl=en</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T06:29:30Z" data-link="https://www.semafor.com/article/10/29/2025/british-newspaper-spoke-to-the-wrong-deblasio-not-an-imposter">
-      <h1>@Dave Winer's linkblog</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>British newspaper spoke to the wrong Bill DeBlasio, not an ‘imposter.’</p>
-
-      <address>
-        <a href="https://www.semafor.com/article/10/29/2025/british-newspaper-spoke-to-the-wrong-deblasio-not-an-imposter">https://www.semafor.com/article/10/29/2025/british-newspaper-spoke-to-the-wrong-deblasio-not-an-imposter</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T05:30:59Z" data-link="https://heathercoxrichardson.substack.com/p/october-29-2025">
-      <h1>October 29, 2025</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>Today is the twenty-ninth day of the government shutdown, and the House of Representatives is still on break as House speaker Mike Johnson (R-LA) continues to try to force the Senate to pass the House measure to fund the government without negotiating over the Democrats’ demand for the extension of the premium tax credit without which healthcare premiums will skyrocket.</p>
-
-      <address>
-        <a href="https://heathercoxrichardson.substack.com/p/october-29-2025">https://heathercoxrichardson.substack.com/p/october-29-2025</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T02:37:18Z" data-link="https://simonwillison.net/2025/Oct/30/francois-chollet/#atom-everything">
-      <h1>Quoting François Chollet</h1>
-
-(date: 2025-10-30)
-      <p>
-      <blockquote>
-<p>To really understand a concept, you have to &quot;invent&quot; it yourself in some capacity. Understanding doesn't come from passive content consumption. It is always self-built. It is an active, high-agency, self-directed process of creating and debugging your own mental models.</p>
-</blockquote>
-<p>— <a href="https://x.com/fchollet/status/1983279755823853724">François Chollet</a></p>
-<p>Tags: <a href="https://simonwillison.net/tags/francois-chollet">francois-chollet</a>, <a href="https://simonwillison.net/tags/teaching">teaching</a></p>
-
-      <address>
-        <a href="https://simonwillison.net/2025/Oct/30/francois-chollet/#atom-everything">https://simonwillison.net/2025/Oct/30/francois-chollet/#atom-everything</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T01:36:15Z" data-link="https://kottke.org/25/10/0047759-proof-of-life-im-writing">
-      <h1> Proof of life! I&#8217;m writing a longer post about my time in... </h1>
-
-(date: 2025-10-30)
-      <p>
-      
-      <address>
-        <a href="https://kottke.org/25/10/0047759-proof-of-life-im-writing">https://kottke.org/25/10/0047759-proof-of-life-im-writing</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T00:06:53Z" data-link="https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied">
-      <h1>Elon Musk’s Grokipedia Launches With AI-Cloned Pages From Wikipedia</h1>
-
-(date: 2025-10-30)
-      <p>
-      
-      <address>
-        <a href="https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied">https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T00:05:00Z" data-link="https://therestishistory.com/613-nelson-glory-at-trafalgar-part-6/">
-      <h1>613. Nelson: Glory at Trafalgar (Part 6)</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>How did the British fleet prepare for war, on the morning of the Battle of Trafalgar? With the flags of both fleets flying and both Nelson and the French admiral Villeneuve glittering in their uniforms, how did the two fleets finally collide? Amidst the rivers of blood, the blast of canons, the flying splinters, and […]</p>
-<p>The post <a href="https://therestishistory.com/613-nelson-glory-at-trafalgar-part-6/">613. Nelson: Glory at Trafalgar (Part 6)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>
-
-      <address>
-        <a href="https://therestishistory.com/613-nelson-glory-at-trafalgar-part-6/">https://therestishistory.com/613-nelson-glory-at-trafalgar-part-6/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T00:00:00Z" data-link="https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/">
-      <h1>Announcing Rust 1.91.0</h1>
-
-(date: 2025-10-30)
-      <p>
-      
-      <address>
-        <a href="https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/">https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T00:00:00Z" data-link="https://buttondown.com/blog/2025-10-29">
-      <h1>You can change the color of your buttons</h1>
-
-(date: 2025-10-30)
-      <p>
-      <p>You can change the color of your buttons</p>
-
-      <address>
-        <a href="https://buttondown.com/blog/2025-10-29">https://buttondown.com/blog/2025-10-29</a>
-      </address>
-    </article>
-
-    <article data-published="2025-10-30T00:00:00Z" data-link="http://haskell.org/ghc/blog/20251030-ghc-9.14.1-rc1-released.html">
-      <h1>GHC 9.14.1-rc1 is now available</h1>
-
-(date: 2025-10-30)
-      <p>
-      <h1>GHC 9.14.1-rc1 is now available</h1>
-<h4>bgamari - 2025-10-30</h4>
-<p>The GHC developers are very pleased to announce the availability of the
-release candidate of GHC 9.14.1. Binary distributions, source
-distributions, and documentation are available at <a href="https://downloads.haskell.org/ghc/9.14.1-rc1">downloads.haskell.org</a>.</p>
-<p>GHC 9.14 will bring a number of new features and improvements, including:</p>
-<ul>
-<li>
-<p>Significant improvements in specialisation:</p>
-<ul>
-<li>The <code>SPECIALISE</code> pragma now allows use of type application syntax</li>
-<li>The <code>SPECIALISE</code> pragma can be used to specialise for expression arguments
-as well as type arguments.</li>
-<li>Specialisation is now considerably more reliable in the presence of<code>newtype</code> s</li>
-</ul>
-</li>
-<li>
-<p>Significant GHCi improvements including:</p>
-<ul>
-<li>Correctness and performance improvements in the bytecode interpreter</li>
-<li>Features in the GHCi debugger</li>
-<li>Support for multiple home units in GHCi</li>
-</ul>
-</li>
-<li>
-<p>Implementation of the <a href="https://github.com/ghc-proposals/ghc-proposals/blob/master/proposals/0682-explicit-level-imports.rst">Explicit Level Imports proposal</a></p>
-</li>
-<li>
-<p><code>RequiredTypeArguments</code> can now be used in more contexts</p>
-</li>
-<li>
-<p>SSE/AVX2 support in the x86 native code generator backend</p>
-</li>
-<li>
-<p>A major update of the Windows toolchain and improved compatibility with
-macOS Tahoe</p>
-</li>
-<li>
-<p>… and many more</p>
-</li>
-</ul>
-<p>A full accounting of changes can be found in the <a href="https://downloads.haskell.org/ghc/9.14.1-rc1/docs/users_guide/9.14.1-notes.html">release notes</a>. Given the
-many specialisation improvements and their potential for regression, we would
-very much appreciate testing and performance characterisation on downstream
-workloads.</p>
-<p>Note that while this release makes many improvements in the specialisation
-optimisation, polymorphic specialisation will remain disabled by default in the
-final release due to concern over regressions of the sort identified in<a href="https://gitlab.haskell.org/ghc/ghc/-/issues/26329">#26329</a>. Users needing more aggressive specialisation can explicitly
-enable this feature with the <code>-fpolymorphic-specialisation</code> flag. Depending
-upon our experience with 9.14.1, we may enable this feature by default in a
-later minor release.</p>
-<p>This is the first and hopefully last release candidate prerelease of 9.14.1.
-This comes later than expected in part due to work on resolving a regression
-in macOS 26 ( <a href="https://gitlab.haskell.org/ghc/ghc/-/issues/26166">#26166</a>) which threatened the usability of the
-release. This prerelease includes a fix to this regression; naturally, please
-open a ticket if you encounter any trouble when using this release on macOS
-Tahoe or recent XCode releases. We expect that this fix will be backported to GHC
-9.12 and 9.10 in the coming months.</p>
-<p>We would like to thank the Zw3rk stake pool, Well-Typed, Mercury, Channable,
-Tweag I/O, Serokell, SimSpace, the Haskell Foundation, and other anonymous
-contributors whose on-going financial and in-kind support has facilitated GHC
-maintenance and release management over the years. Finally, this release would
-not have been possible without the hundreds of open-source contributors whose
-work have made the Haskell ecosystem what it is today.</p>
-<p>As always, do give this release a try and open a <a href="https://gitlab.haskell.org/ghc/homepage/-/issues/new">ticket</a> if you see
-anything amiss.</p>
-
-      <address>
-        <a href="http://haskell.org/ghc/blog/20251030-ghc-9.14.1-rc1-released.html">http://haskell.org/ghc/blog/20251030-ghc-9.14.1-rc1-released.html</a>
       </address>
     </article>
   </section>
