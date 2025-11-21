@@ -20,6 +20,7 @@ title: Science and Technology
 - [Public AI blog](https://publicai.substack.com/feed)
 - [Forgejo](https://forgejo.org/rss.xml)
 - [ELeuther AI blog](https://blog.eleuther.ai/index.xml)
+- [Thunderbird Pro](https://blog.thunderbird.net/feed/)
 
 # Hardware companies
 
