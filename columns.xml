@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>22 Nov 25 12:11 -0800</lastBuildDate>
+    <lastBuildDate>22 Nov 25 14:38 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,20 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>November 21, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/november-21-2025-0f2</link>
+      <enclosure url="https://api.substack.com/feed/podcast/179679509/ad82f1c53349f68a0c67230d42b6ff75.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/november-21-2025-0f2</guid>
+    </item>    <item>
+      <title>Liberalism Misremembered, Democracy Misunderstood</title>
+      <link>https://www.notesfromthecircus.com/p/liberalism-misremembered-democracy</link>
+      <description>
+        <![CDATA[Some weekend political philosophy talk.]]>
+      </description>
+      <source:markdown>Some weekend political philosophy talk.</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/179655056/f2c4af4fb9962783e47616c2fa71cb01.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/liberalism-misremembered-democracy</guid>
     </item>    <item>
       <title>A child’s Halloween in Ireland</title>
       <link>https://adactio.com/journal/22263</link>
@@ -194,15 +208,6 @@ But do watch This Is Going To Hurt. Sorry it&#39;s only seven episodes, I would 
       </description>
       <source:markdown>Win of the week: I was brave and went in person to speak at a public hearing in favor of a local housing project! 😱 Maybe winging it was not my most eloquent moment, but I did it 🦾 (Not going to look it up and rewatch tho 😅) Looking forward to: new attic insulation \[…\]</source:markdown>
       <guid>cid://https://tracydurnell.com/?p=31650</guid>
-    </item>    <item>
-      <title>Part 2: She Did It Again</title>
-      <link>https://www.telos.news/p/part-2-she-did-it-again</link>
-      <description>
-        <![CDATA[If you are new to this series, start here.]]>
-      </description>
-      <source:markdown>If you are new to this series, start here.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!F8mY!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2f0c25e-c634-41fb-bac5-b904590ae08b_1158x1158.png" length="0" type="image/jpeg" />
-      <guid>cid://https://www.telos.news/p/part-2-she-did-it-again</guid>
     </item>    <item>
       <title>November 20, 2025</title>
       <link>https://heathercoxrichardson.substack.com/p/november-20-2025-682</link>
@@ -4331,15 +4336,6 @@ Front page of the BBC right now.</source:markdown>
       <source:markdown>Pressure forces the president to fold</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!N0Xz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7008147-03a6-49bf-b421-72ae9e1d485f_8256x5504.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://steady.substack.com/p/cave-man</guid>
-    </item>    <item>
-      <title>Part 1: How I Found Out</title>
-      <link>https://www.telos.news/p/part-1-how-i-found-out</link>
-      <description>
-        <![CDATA[Olivia had just returned from a reporting trip&#8212;at least that&#8217;s what she told me it was&#8212;and her Herschel backpack, the one with the flap that never quite closed properly, was tossed beside our bed, its contents scattered on the floor.]]>
-      </description>
-      <source:markdown>Olivia had just returned from a reporting trip—at least that’s what she told me it was—and her Herschel backpack, the one with the flap that never quite closed properly, was tossed beside our bed, its contents scattered on the floor.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!F8mY!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2f0c25e-c634-41fb-bac5-b904590ae08b_1158x1158.png" length="0" type="image/jpeg" />
-      <guid>cid://https://www.telos.news/p/part-1-how-i-found-out</guid>
     </item>    <item>
       <title>Google Summer of Code 2025 results</title>
       <link>https://blog.rust-lang.org/2025/11/18/gsoc-2025-results/</link>
@@ -9081,15 +9077,6 @@ I still enjoy [blog-to-blog conversations today](https://adactio.com/journal/222
       <source:markdown>Clara Hawking on Linkedin reports that a new law in China “says that if you want to talk about it online, you need a license to prove you know what you’re talking about. As of October 25, China now requires influencers to hold official qualifications before posting about ‘sensitive’ topics such as education, medicine, law, \[…\]</source:markdown>
       <guid>cid://https://doc.searls.com/2025/11/12/does-one-need-a-license-to-have-opinions-online-in-china/</guid>
     </item>    <item>
-      <title>BREAKING: New Epstein Emails About Trump</title>
-      <link>https://www.telos.news/p/breaking-new-epstein-emails-about</link>
-      <description>
-        <![CDATA[The correspondence between Jeffrey Epstein and two associates raises new questions about the relationship between Epstein and Trump.]]>
-      </description>
-      <source:markdown>The correspondence between Jeffrey Epstein and two associates raises new questions about the relationship between Epstein and Trump.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!yl5w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f5abe18-2470-4f42-8ea2-84044b8e7ddd_8441x5923.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.telos.news/p/breaking-new-epstein-emails-about</guid>
-    </item>    <item>
       <title>The iPhone Mankini</title>
       <link>https://onefoottsunami.com/2025/11/12/the-iphone-mankini/</link>
       <guid>cid://https://onefoottsunami.com/?p=29436</guid>
@@ -13135,15 +13122,6 @@ Via [lobste.rs](https://lobste.rs/s/zvyspo/mastodon_4_5)
 Tags: [mastodon](https://simonwillison.net/tags/mastodon)</source:markdown>
       <guid>cid://https://simonwillison.net/2025/Nov/8/mastodon-45/#atom-everything</guid>
     </item>    <item>
-      <title>What Tuesday’s Results Really Mean</title>
-      <link>https://www.telos.news/p/what-tuesdays-results-really-mean</link>
-      <description>
-        <![CDATA[A conversatuon with G. Elliott Morris]]>
-      </description>
-      <source:markdown>A conversatuon with G. Elliott Morris</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/178293327/7b3692dd1054c30c95fc8753892ed334.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://www.telos.news/p/what-tuesdays-results-really-mean</guid>
-    </item>    <item>
       <title>Note published on November 7, 2025 at 11:50 PM UTC</title>
       <link>https://www.mollywhite.net/micro/entry/202511071849</link>
       <guid>cid://690e85bd409db444f66ec358</guid>
@@ -16856,15 +16834,6 @@ La entrada [Maldita suerte: apuestas insaciables](https://www.palomitademaiz.net
       <title>&#38;#8220;Originally released in 1982, the Vectrex was a truly unique console, featuring...</title>
       <link>https://kottke.org/25/11/0047779-originally-released-in-19</link>
       <guid>cid://tag:kottke.org,2025://13.47779</guid>
-    </item>    <item>
-      <title>Election Preview With Steve Schmidt</title>
-      <link>https://www.telos.news/p/election-preview-with-steve-schmidt</link>
-      <description>
-        <![CDATA[PLUS: The courage of Jack Smith and a World Series wrap-up.]]>
-      </description>
-      <source:markdown>PLUS: The courage of Jack Smith and a World Series wrap-up.</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/177912623/d3ae3e3f8daf929d056736344b487f80.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://www.telos.news/p/election-preview-with-steve-schmidt</guid>
     </item>    <item>
       <title>Game on! Penguin levels up as Linux finally cracks 3% on Steam</title>
       <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/11/04/steam_on_linux_numbers_up/</link>
