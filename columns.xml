@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>22 Nov 25 06:12 -0800</lastBuildDate>
+    <lastBuildDate>22 Nov 25 12:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -38,6 +38,91 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <title>A child’s Halloween in Ireland</title>
+      <link>https://adactio.com/journal/22263</link>
+      <description>
+        <![CDATA[<p>As part of their on-stage banter, The Dubliners used to quip that “All the books that are banned in Ireland should be published in Irish, to encourage more people to learn their native tongue.”</p>
+        
+        <p>There was no shortage of banned books back in the day. I’m reading one of them now. <a href="https://en.wikipedia.org/wiki/The_Country_Girls"><cite>The Country Girls</cite></a> by Edna O’Brien.</p>
+        
+        <p>About halfway through the book, I read this passage:</p>
+        
+        <blockquote>
+          <p>The parcels for the Halloween party were coming every day. I couldn’t ask my father for one because a man is not able to do these things, so I wrote to him for money instead and a day girl brought me a <strong>barmbrack, apples, and monkey-nuts</strong>.</p>
+        </blockquote>
+        
+        <p>Emphasis mine, because that little list sounded so familiar to me.</p>
+        
+        <p>Back in 2011, I wrote a <a href="https://v5.jasonsantamaria.com/articles/category/candygram/">candygram</a> for <a href="https://v5.jasonsantamaria.com/">Jason</a>. It was called <a href="https://v5.jasonsantamaria.com/articles/monkey-nuts-barmbrack-and-apples/"><cite>Monkey nuts, barmbrack and apples</cite></a>.</p>
+        
+        <p>It’s not exactly Edna O’Brien, but looking back at it fifteen years on, I think it turned out okay.</p>]]>
+      </description>
+      <source:markdown>As part of their on-stage banter, The Dubliners used to quip that “All the books that are banned in Ireland should be published in Irish, to encourage more people to learn their native tongue.”
+
+There was no shortage of banned books back in the day. I’m reading one of them now. [The Country Girls](https://en.wikipedia.org/wiki/The_Country_Girls) by Edna O’Brien.
+
+About halfway through the book, I read this passage:
+
+&#62; The parcels for the Halloween party were coming every day. I couldn’t ask my father for one because a man is not able to do these things, so I wrote to him for money instead and a day girl brought me a **barmbrack, apples, and monkey-nuts**.
+
+Emphasis mine, because that little list sounded so familiar to me.
+
+Back in 2011, I wrote a [candygram](https://v5.jasonsantamaria.com/articles/category/candygram/) for [Jason](https://v5.jasonsantamaria.com/). It was called [Monkey nuts, barmbrack and apples](https://v5.jasonsantamaria.com/articles/monkey-nuts-barmbrack-and-apples/).
+
+It’s not exactly Edna O’Brien, but looking back at it fifteen years on, I think it turned out okay.</source:markdown>
+      <guid>cid://https://adactio.com/journal/22263</guid>
+    </item>    <item>
+      <title>Virtualizing Ubuntu on an M-series Mac</title>
+      <link>https://smist08.wordpress.com/2025/11/22/virtualizing-ubuntu-on-an-m-series-mac/</link>
+      <description>
+        <![CDATA[Introduction Recently, I had a look at Ubuntu 25.10 running in a virtual machine running on my old Windows laptop. I chose this as I figured VMWare was the easiest way to get running quickly. When I downloaded Ubuntu, I noticed there was an ARM64 version posted right alongside the Intel/AMD one. This made me [&#8230;]]]>
+      </description>
+      <source:markdown>Introduction Recently, I had a look at Ubuntu 25.10 running in a virtual machine running on my old Windows laptop. I chose this as I figured VMWare was the easiest way to get running quickly. When I downloaded Ubuntu, I noticed there was an ARM64 version posted right alongside the Intel/AMD one. This made me \[…\]</source:markdown>
+      <guid>cid://http://smist08.wordpress.com/?p=3815</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115594351085666431</link>
+      <description>
+        <![CDATA[<p>Apple Friends, Xcode is bundling 48 megs worth of SwiftSyntax code into my iOS libraries and binaries because I defined some <span class="h-card" translate="no"><a href="https://mastodon.social/@macros" class="u-url mention">@<span>macros</span></a></span> on my code.</p><p>The library does not reference or consume SwiftSyntax.   In fact, a test with SwiftPM shows that it works correctly for a standalone executable, but for iOS it just gratuitously bundles it</p><p>It is rendering my Godot Apple plugin unusable by people, with over 150 megs of code.</p><p>I could really use your help, self contained test case here: FB21126349</p>]]>
+      </description>
+      <source:markdown>Apple Friends, Xcode is bundling 48 megs worth of SwiftSyntax code into my iOS libraries and binaries because I defined some [@macros](https://mastodon.social/@macros) on my code.
+
+The library does not reference or consume SwiftSyntax. In fact, a test with SwiftPM shows that it works correctly for a standalone executable, but for iOS it just gratuitously bundles it
+
+It is rendering my Godot Apple plugin unusable by people, with over 150 megs of code.
+
+I could really use your help, self contained test case here: FB21126349</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115594351085666431</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/22.html#a153251</link>
+      <description>
+        <![CDATA[The new <a href="https://github.com/scripting/feedlandInstall/issues/72">FeedLand release</a> is ready. It's installed on feedland.org, not on feedland.com yet.]]>
+      </description>
+      <source:markdown>The new [FeedLand release](https://github.com/scripting/feedlandInstall/issues/72) is ready. It&#39;s installed on feedland.org, not on feedland.com yet.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/22.html#a153251</guid>
+    </item>    <item>
+      <title>I don&#39;t eat dog food thank you</title>
+      <link>http://scripting.com/2025/11/22/141926.html?title=iDontEatDogFoodThankYou</link>
+      <description>
+        <![CDATA[<p>Loving a series I just heard about, <a href="https://www.metacritic.com/tv/this-is-going-to-hurt/">This Is Going To Hurt</a>. </p>
+        <p>I discovered it the usual tedious way, scrolling through newly available shows on one of the streaming services with my iPad handy and when I see one that looks interesting, I look it up on Metacritic. If the rating is below 60, I don't look any further, but this show was rated 91, which is a very high rating. It's a British medical drama, the characters and story are fantastic, you can see that right from the beginning. They do show a lot of surgery details, I wish they didn't, I just can't watch that stuff. But I hold the iPad up to block the screen when it gets hard to watch, and I judge from the dialog when the gore is over. </p>
+        <p>Another thing I can't stomach are pictures of dog food, esp <i>people</i> eating dog food. If you have a similar phobia, episode 4 of Pluribus, which is as usual great, is hard to watch, but the segment where a character eats dog food is self contained. </p>
+        <p>There also a commercial for dog food that opens with a chunk of the most disgusting dog food, from a company that makes dog food that looks like human food. They're challenging you with a question, would you eat this shit? Well no! -- and I don't want to look at it either dammit. It's why I don't like the term dogfooding, ie people using their own products. As much as I love dogs, the people who use my software are not dogs, and my software is not dog food. </p>
+        <p>Also I want to add that I have a vague memory of actually eating dog food when I was a small child with a bunch of equally young friends because we were curious about what it was like. My memory is that it isn't bad. But the memory for me, now as an adult, is nauseating. I like eating human food, even though I'm sure in other contexts it's equally disgusting. </p>
+        <p>But do watch This Is Going To Hurt. Sorry it's only seven episodes, I would have loved it to continue for another few seasons. I have one more episode left to watch, though it totally could have ended after six episodes. </p>]]>
+      </description>
+      <source:markdown>Loving a series I just heard about, [This Is Going To Hurt](https://www.metacritic.com/tv/this-is-going-to-hurt/).
+
+I discovered it the usual tedious way, scrolling through newly available shows on one of the streaming services with my iPad handy and when I see one that looks interesting, I look it up on Metacritic. If the rating is below 60, I don&#39;t look any further, but this show was rated 91, which is a very high rating. It&#39;s a British medical drama, the characters and story are fantastic, you can see that right from the beginning. They do show a lot of surgery details, I wish they didn&#39;t, I just can&#39;t watch that stuff. But I hold the iPad up to block the screen when it gets hard to watch, and I judge from the dialog when the gore is over.
+
+Another thing I can&#39;t stomach are pictures of dog food, esp _people_ eating dog food. If you have a similar phobia, episode 4 of Pluribus, which is as usual great, is hard to watch, but the segment where a character eats dog food is self contained.
+
+There also a commercial for dog food that opens with a chunk of the most disgusting dog food, from a company that makes dog food that looks like human food. They&#39;re challenging you with a question, would you eat this shit? Well no! -- and I don&#39;t want to look at it either dammit. It&#39;s why I don&#39;t like the term dogfooding, ie people using their own products. As much as I love dogs, the people who use my software are not dogs, and my software is not dog food.
+
+Also I want to add that I have a vague memory of actually eating dog food when I was a small child with a bunch of equally young friends because we were curious about what it was like. My memory is that it isn&#39;t bad. But the memory for me, now as an adult, is nauseating. I like eating human food, even though I&#39;m sure in other contexts it&#39;s equally disgusting.
+
+But do watch This Is Going To Hurt. Sorry it&#39;s only seven episodes, I would have loved it to continue for another few seasons. I have one more episode left to watch, though it totally could have ended after six episodes.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/22/141926.html</guid>
+    </item>    <item>
       <link>https://github.com/scotthansonde/rsscloud-ping</link>
       <description>
         <![CDATA[<p>Scott Hanson put together an rssCloud plugin for WordPress sites.</p>]]>
@@ -63,9 +148,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <title>Saturdaze</title>
       <link>https://doc.searls.com/2025/11/22/saturdaze/</link>
       <description>
-        <![CDATA[In case you thought there was real competition in Big AI Steven Levy says there is only one AI company. He calls it The Blob. S****iri will use Gemini? That&#39;s what it says here. Also, for reasons I don&#39;t know, the word &#34;Siri&#34; in the subhead above is typed exactly that way, yet turns into [&#8230;]]]>
+        <![CDATA[Exceedingly common, turns out I was excited to see and shoot a butterfly (above) that a search (remember that?) tells me is a Common Buckeye. The News in Hues Poynter says  Nexstar hopes to get its bid to buy Tegna  (politically speaking) red-lit. It&#8217;s one more way the Redstream eats the Mainstream. Heavy Earth is two [&#8230;]]]>
       </description>
-      <source:markdown>In case you thought there was real competition in Big AI Steven Levy says there is only one AI company. He calls it The Blob. S\*\*\*\*iri will use Gemini? That&#39;s what it says here. Also, for reasons I don&#39;t know, the word &#34;Siri&#34; in the subhead above is typed exactly that way, yet turns into \[…\]</source:markdown>
+      <source:markdown>Exceedingly common, turns out I was excited to see and shoot a butterfly (above) that a search (remember that?) tells me is a Common Buckeye. The News in Hues Poynter says  Nexstar hopes to get its bid to buy Tegna  (politically speaking) red-lit. It’s one more way the Redstream eats the Mainstream. Heavy Earth is two \[…\]</source:markdown>
       <guid>cid://https://doc.searls.com/2025/11/22/saturdaze/</guid>
     </item>    <item>
       <title>Talking With Hasan Minhaj</title>
@@ -241,6 +326,13 @@ As always, do give this release a try and open a [ticket](https://gitlab.haskell
 anything amiss.</source:markdown>
       <guid>cid://http://haskell.org/ghc/blog/20251111-ghc-9.12.3-rc2-released.html</guid>
     </item>    <item>
+      <title>Auto-activating RSS reader subscriptions</title>
+      <link>https://buttondown.com/blog/2025-11-22-auto-activating-rss-reader-subscriptions</link>
+      <description>
+        <![CDATA[Auto-activating RSS reader subscriptions]]>
+      </description>
+      <source:markdown>Auto-activating RSS reader subscriptions</source:markdown>
+    </item>    <item>
       <title>My Afternoon With The Last Living Prosecutor of Nazi War Criminals</title>
       <link>https://www.michaelmoore.com/p/nuremberg</link>
       <description>
@@ -300,9 +392,9 @@ As usual, you can also use this squid post to talk about the security stories in
       <title>Black Friday 2025</title>
       <link>https://mjtsai.com/blog/2025/11/21/black-friday-2025/</link>
       <description>
-        <![CDATA[My apps are on sale for Black Friday, and here&#8217;s a list of deals that I found and that developers submitted. I&#8217;ll add more deals throughout the week as I see them. Apps: Adobe Creative Cloud Aiko Airfoil (PUMPKINSPICE) Astro Audio Hijack (PUMPKINSPICE) Avalanche BarCuts Bill Boss Blood Pressure BoltAI Browser Actions BucketMate (BLACKFRIDAY11) Camera [&#8230;]]]>
+        <![CDATA[My apps are on sale for Black Friday, and here&#8217;s a list of deals that I found and that developers submitted. I&#8217;ll add more deals throughout the week as I see them. Apps: Adobe Creative Cloud Aiko Airfoil (PUMPKINSPICE) Astro Audio Hijack (PUMPKINSPICE) Avalanche BarCuts Bill Boss Blood Pressure BoltAI Browser Actions BucketMate (BLACKFRIDAY11) BusyCal [&#8230;]]]>
       </description>
-      <source:markdown>My apps are on sale for Black Friday, and here’s a list of deals that I found and that developers submitted. I’ll add more deals throughout the week as I see them. Apps: Adobe Creative Cloud Aiko Airfoil (PUMPKINSPICE) Astro Audio Hijack (PUMPKINSPICE) Avalanche BarCuts Bill Boss Blood Pressure BoltAI Browser Actions BucketMate (BLACKFRIDAY11) Camera \[…\]</source:markdown>
+      <source:markdown>My apps are on sale for Black Friday, and here’s a list of deals that I found and that developers submitted. I’ll add more deals throughout the week as I see them. Apps: Adobe Creative Cloud Aiko Airfoil (PUMPKINSPICE) Astro Audio Hijack (PUMPKINSPICE) Avalanche BarCuts Bill Boss Blood Pressure BoltAI Browser Actions BucketMate (BLACKFRIDAY11) BusyCal \[…\]</source:markdown>
       <guid>cid://https://mjtsai.com/blog/?p=50135</guid>
     </item>    <item>
       <title>Contacts in Tahoe</title>

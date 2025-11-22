@@ -4,14 +4,40 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>22 Nov 25 06:12 -0800</lastBuildDate>
+    <lastBuildDate>22 Nov 25 12:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>From Chaotic Vibes to Real Velocity With AI-First Engineering</title>
+      <link>https://thenewstack.io/from-chaotic-vibes-to-real-velocity-with-ai-first-engineering/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/7f503fed-people123-1024x576.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/7f503fed-people123.jpeg" /><p>In 2025, vibe coding became more than a meme; it became a full-blown movement. Suddenly, non-developers were spinning up apps</p>
+        <p>The post <a href="https://thenewstack.io/from-chaotic-vibes-to-real-velocity-with-ai-first-engineering/">From Chaotic Vibes to Real Velocity With AI-First Engineering</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/7f503fed-people123-1024x576.jpeg)
+
+In 2025, vibe coding became more than a meme; it became a full-blown movement. Suddenly, non-developers were spinning up apps
+
+The post [From Chaotic Vibes to Real Velocity With AI-First Engineering](https://thenewstack.io/from-chaotic-vibes-to-real-velocity-with-ai-first-engineering/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806593</guid>
+    </item>    <item>
+      <title>WebAssembly Still Expanding Frontend Uses 10 Years Later</title>
+      <link>https://thenewstack.io/webassembly-still-expanding-frontend-uses-10-years-later/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/3c23a316-tenyearswasm-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="A web" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/3c23a316-tenyearswasm.jpg" /><p>It&#8217;s been 10 years since Mozilla, Microsoft, Apple and announced&#160;WebAssembly (Wasm) as a collaborative effort. Back then, the goal seemed</p>
+        <p>The post <a href="https://thenewstack.io/webassembly-still-expanding-frontend-uses-10-years-later/">WebAssembly Still Expanding Frontend Uses 10 Years Later</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![A web](https://cdn.thenewstack.io/media/2025/11/3c23a316-tenyearswasm-1024x576.jpg)
+
+It’s been 10 years since Mozilla, Microsoft, Apple and announced WebAssembly (Wasm) as a collaborative effort. Back then, the goal seemed
+
+The post [WebAssembly Still Expanding Frontend Uses 10 Years Later](https://thenewstack.io/webassembly-still-expanding-frontend-uses-10-years-later/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22807345</guid>
+    </item>    <item>
       <title>Angular v21 Adds Signal Forms, New MCP Server</title>
       <link>https://thenewstack.io/angular-v21-adds-signal-forms-new-mcp-server/</link>
       <description>
-        <![CDATA[<img width="1024" height="577" src="https://cdn.thenewstack.io/media/2024/04/d8b458d6-dev_news_img-2-2-1024x577.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Dev News logo" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2024/04/d8b458d6-dev_news_img-2-2.png" /><p>Angular v21 released this week, with a slew of new and experimental offerings, including the launch of Signal Forms and</p>
+        <![CDATA[<img width="1024" height="577" src="https://cdn.thenewstack.io/media/2024/04/d8b458d6-dev_news_img-2-2-1024x577.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Dev News logo" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2024/04/d8b458d6-dev_news_img-2-2.png" /><p>Angular v21 released this week, with a slew of new and experimental offerings, including the launch of Signal Forms and</p>
         <p>The post <a href="https://thenewstack.io/angular-v21-adds-signal-forms-new-mcp-server/">Angular v21 Adds Signal Forms, New MCP Server</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![Dev News logo](https://cdn.thenewstack.io/media/2024/04/d8b458d6-dev_news_img-2-2-1024x577.png)
@@ -24,7 +50,7 @@ The post [Angular v21 Adds Signal Forms, New MCP Server](https://thenewstack.io/
       <title>Hands-On With Antigravity: Google’s Newest AI Coding Experiment</title>
       <link>https://thenewstack.io/hands-on-with-antigravity-googles-newest-ai-coding-experiment/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/ed066202-muha-ajjan-sd8nfde2vy-unsplashb-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="antigravity" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/ed066202-muha-ajjan-sd8nfde2vy-unsplashb.jpg" /><p>When Google launched a new agentic development platform called Antgravity&#160;this week, the first question I had was: &#8220;What about Jules</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/ed066202-muha-ajjan-sd8nfde2vy-unsplashb-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="antigravity" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/ed066202-muha-ajjan-sd8nfde2vy-unsplashb.jpg" /><p>When Google launched a new agentic development platform called Antgravity&#160;this week, the first question I had was: &#8220;What about Jules</p>
         <p>The post <a href="https://thenewstack.io/hands-on-with-antigravity-googles-newest-ai-coding-experiment/">Hands-On With Antigravity: Google’s Newest AI Coding Experiment</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![antigravity](https://cdn.thenewstack.io/media/2025/11/ed066202-muha-ajjan-sd8nfde2vy-unsplashb-1024x576.jpg)

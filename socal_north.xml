@@ -7,25 +7,17 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>22 Nov 25 06:13 -0800</lastBuildDate>
+    <lastBuildDate>22 Nov 25 12:11 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>North Hollywood’s defunct Valley Plaza was once a West Coast legend</title>
-      <link>https://laist.com/news/la-history/valley-plaza-north-hollywood-memories-san-fernando-valley</link>
+      <title>Updates on Port of LA fire — shelter-in-place lifted, fire &#39;substantially contained&#39;</title>
+      <link>https://laist.com/news/updates-on-port-of-la-cargo-fire-zero-percent-containment-shelter-in-place-lifted</link>
       <description>
-        <![CDATA[We look into its pioneering beginnings and why Angelenos were so fond of it.]]>
+        <![CDATA[More than 180 firefighters were battling a fire that started Friday evening on a cargo ship docked at the Port of Los Angeles. A shelter-in-place order for San Pedro and Wilmington has been lifted.]]>
       </description>
-      <source:markdown>We look into its pioneering beginnings and why Angelenos were so fond of it.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-a29a-d0d9-abfe-a6fbd8400000</guid>
-    </item>    <item>
-      <title>These businesses considered closing after the Eaton Fire. They&#39;re celebrating their reopening today</title>
-      <link>https://laist.com/news/los-angeles-activities/these-businesses-considered-closing-after-the-eaton-fire-theyre-celebrating-their-reopening-today</link>
-      <description>
-        <![CDATA[Five Mariposa Junction businesses reopen with a community celebration after damage from the January fires.]]>
-      </description>
-      <source:markdown>Five Mariposa Junction businesses reopen with a community celebration after damage from the January fires.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-a7df-d2ce-a19f-efdf70370000</guid>
+      <source:markdown>More than 180 firefighters were battling a fire that started Friday evening on a cargo ship docked at the Port of Los Angeles. A shelter-in-place order for San Pedro and Wilmington has been lifted.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-abfe-d8f8-a7df-bfff1e890000</guid>
     </item>    <item>
       <title>See a different side of ‘pop art nun’ Corita Kent — as chronicler of LA through her photographs</title>
       <link>https://laist.com/news/arts-and-entertainment/see-a-different-side-of-pop-art-nun-corita-kent-as-chronicler-of-la-through-her-photographs</link>
@@ -34,6 +26,22 @@
       </description>
       <source:markdown>Kent spread messages of love and understanding across L.A. and the world with her colorful pop art silkscreens. But an exhibition in Mid-Wilshire takes a less-known area of her work as its subject.</source:markdown>
       <guid>cid://urn:uuid:0000019a-a2b0-d019-adbb-bef3d8460000</guid>
+    </item>    <item>
+      <title>These businesses considered closing after the Eaton Fire. They celebrate their reopening today</title>
+      <link>https://laist.com/news/los-angeles-activities/these-businesses-considered-closing-after-the-eaton-fire-theyre-celebrating-their-reopening-today</link>
+      <description>
+        <![CDATA[Five Mariposa Junction businesses reopen with a community celebration after damage from the January fires.]]>
+      </description>
+      <source:markdown>Five Mariposa Junction businesses reopen with a community celebration after damage from the January fires.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-a7df-d2ce-a19f-efdf70370000</guid>
+    </item>    <item>
+      <title>North Hollywood’s defunct Valley Plaza was once a West Coast legend</title>
+      <link>https://laist.com/news/la-history/valley-plaza-north-hollywood-memories-san-fernando-valley</link>
+      <description>
+        <![CDATA[We look into its pioneering beginnings and why Angelenos were so fond of it.]]>
+      </description>
+      <source:markdown>We look into its pioneering beginnings and why Angelenos were so fond of it.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-a29a-d0d9-abfe-a6fbd8400000</guid>
     </item>    <item>
       <title>Huntington Beach&#39;s Michael Gates produces letter he says confirms he resigned from DOJ</title>
       <link>https://laist.com/news/huntington-beachs-michael-gates-produces-letter-he-says-confirms-he-resigned-from-doj</link>
@@ -174,6 +182,14 @@ The post [Weekend Eats: Austin’s Favorite Oyster Bar Grows Off PCH](https://la
       </description>
       <source:markdown>Swalwell has been a high-profile critic of President Donald Trump, taking a leading role in his second impeachment trial in 2021 and maintaining a regular presence on cable TV.</source:markdown>
       <guid>cid://urn:uuid:0000019a-a73c-d019-adbb-bf7fbc4f0000</guid>
+    </item>    <item>
+      <title>Ahead of Black Friday, a Santee Alley festival aims to boost sales for businesses hit by ICE raids</title>
+      <link>https://laist.com/news/ahead-of-black-friday-a-santee-alley-festival-aims-to-boost-sales-for-businesses-hit-by-ice-raids</link>
+      <description>
+        <![CDATA[Event organizers aim to bring business back to the callejones, where vendors have noticed a decrease in foot traffic since immigration sweeps began in the summer.]]>
+      </description>
+      <source:markdown>Event organizers aim to bring business back to the callejones, where vendors have noticed a decrease in foot traffic since immigration sweeps began in the summer.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-9e44-d8f8-a7df-9f6555a20000</guid>
     </item>    <item>
       <title>The Guerrilla Girls took on the art world in ape masks. Now they’re in a Getty exhibition</title>
       <link>https://laist.com/news/los-angeles-activities/guerrilla-girls-took-on-the-art-world-inclusion-women-artists-getty-exhibition</link>
@@ -368,6 +384,14 @@ The post [Where ‘Predator’ Hunted In The 1990 L.A. Sequel . . . And What Tho
       <source:markdown>Academy Award-winning costume designer Paul Tazewell breaks down his design choices in ‘Wicked: For Good,’ as well as why he thinks the world of Oz has such staying power in American culture.</source:markdown>
       <guid>cid://urn:uuid:0000019a-9e84-d316-ad9e-ffdf02a70000</guid>
     </item>    <item>
+      <title>Best things to do in LA and SoCal: Nov. 21-23</title>
+      <link>https://laist.com/news/arts-and-entertainment/best-events-weekend-los-angeles-southern-california-november-21-23</link>
+      <description>
+        <![CDATA[Macaulay Culkin himself will share memories of Home Alone. Plus, bike or blade for L.A. on Wheels Day and more this weekend.]]>
+      </description>
+      <source:markdown>Macaulay Culkin himself will share memories of Home Alone. Plus, bike or blade for L.A. on Wheels Day and more this weekend.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-9dbd-dd80-abdb-bfffd0e90000</guid>
+    </item>    <item>
       <title>Divided PUSD school board cuts budget by $25 million after emotional vote</title>
       <link>https://laist.com/news/education/pasadena-unified-school-district-budget-cut-vote-november-2025</link>
       <description>
@@ -383,14 +407,6 @@ The post [Where ‘Predator’ Hunted In The 1990 L.A. Sequel . . . And What Tho
       </description>
       <source:markdown>L.A.&#39;s multicultural dining scene is redefining Thanksgiving with offerings that reflect how the city actually eats.</source:markdown>
       <guid>cid://urn:uuid:0000019a-9e4a-d316-ad9e-ff5f4be10000</guid>
-    </item>    <item>
-      <title>Best things to do in LA and SoCal: Nov. 21-23</title>
-      <link>https://laist.com/news/arts-and-entertainment/best-events-weekend-los-angeles-southern-california-november-21-23</link>
-      <description>
-        <![CDATA[Macaulay Culkin himself will share memories of Home Alone. Plus, bike or blade for L.A. on Wheels Day and more this weekend.]]>
-      </description>
-      <source:markdown>Macaulay Culkin himself will share memories of Home Alone. Plus, bike or blade for L.A. on Wheels Day and more this weekend.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-9dbd-dd80-abdb-bfffd0e90000</guid>
     </item>    <item>
       <title>Nostalgia for the holidays: Macaulay Culkin reflects on &#39;Home Alone&#39; 35 years later</title>
       <link>https://laist.com/news/arts-and-entertainment/macaulay-culkin-on-home-alone-35-years-later</link>
