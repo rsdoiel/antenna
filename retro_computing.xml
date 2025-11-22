@@ -4,10 +4,27 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>21 Nov 25 12:11 -0800</lastBuildDate>
+    <lastBuildDate>22 Nov 25 06:12 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Live Coding with Gerph on Sunday</title>
+      <link>http://www.iconbar.com/comments/rss/news2266.html</link>
+      <description>
+        <![CDATA[If you were intrigued by Gerph's Monday ROUGOL presentation, or just want to improve your coding skills, then you are in luck!]]>
+      </description>
+      <source:markdown>If you were intrigued by Gerph&#39;s Monday ROUGOL presentation, or just want to improve your coding skills, then you are in luck!</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2266.html</guid>
+    </item>    <item>
+      <title>Debian Unleashes Debian Libre Live</title>
+      <link>http://www.linux-magazine.com/Online/News/Debian-Unleashes-Debian-Libre-Live</link>
+      <description>
+        <![CDATA[<p>Debian Libre Live keeps your machine free of proprietary software.</p>]]>
+      </description>
+      <source:markdown>Debian Libre Live keeps your machine free of proprietary software.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://393098dd4d7fb82e095f56e000b5f59d</guid>
+    </item>    <item>
       <title>Mr Roberts Goes to Hollywood, Part 1: A Digital Anvil</title>
       <link>https://www.filfre.net/2025/11/mr-roberts-goes-to-hollywood-part-1-a-digital-anvil/</link>
       <description>
@@ -979,41 +996,6 @@ For the sake of my day job, I should also officially state you should consume Mr
       </description>
       <source:markdown>Yeah just drive over my lawn why don&#39;t you, Abusing a pumpkin, YouTube error 153, Toussaint.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20251101</guid>
-    </item>    <item>
-      <title>Bytes and Likes</title>
-      <link>https://computerhistory.org/stories/bytes-and-likes/</link>
-      <description>
-        <![CDATA[<p>CHM's mission to decode technology for everyone means we reach out to digital audiences around the world. Learn about the strategy behind CHM's social media posts, the channels where we engage with our online community, and some of our most popular posts.</p>
-        <p>The post <a href="https://computerhistory.org/stories/bytes-and-likes/">Bytes and Likes</a> appeared first on <a href="https://computerhistory.org">CHM</a>.</p>]]>
-      </description>
-      <source:markdown>CHM&#39;s mission to decode technology for everyone means we reach out to digital audiences around the world. Learn about the strategy behind CHM&#39;s social media posts, the channels where we engage with our online community, and some of our most popular posts.
-
-The post [Bytes and Likes](https://computerhistory.org/stories/bytes-and-likes/) appeared first on [CHM](https://computerhistory.org).</source:markdown>
-      <guid>cid://https://computerhistory.org/?post_type=stories&#38;p=32743</guid>
-    </item>    <item>
-      <title>WROCC explores Pluto – 5th November</title>
-      <link>https://www.riscository.com/2025/wrocc-pluto-5th-november/</link>
-      <description>
-        <![CDATA[That&#8217;s the email client, not the dwarf planet, of course! Martin Avison will be the guest speaker at the next Wakefield RISC OS Computer Club (WROCC) meeting, at which he will be discussing news and email client Pluto. The application was first developed in the late 1990s by Jonathan Duddington, and Martin will go into detail about its history, leading up to it becoming open source and still maintained even though its creator has moved on to other things. He will also demonstrate a new installation of Pluto, along with&#8230;]]>
-      </description>
-      <source:markdown>That’s the email client, not the dwarf planet, of course! Martin Avison will be the guest speaker at the next Wakefield RISC OS Computer Club (WROCC) meeting, at which he will be discussing news and email client Pluto. The application was first developed in the late 1990s by Jonathan Duddington, and Martin will go into detail about its history, leading up to it becoming open source and still maintained even though its creator has moved on to other things. He will also demonstrate a new installation of Pluto, along with…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10792</guid>
-    </item>    <item>
-      <title>Post-show offers and updates from RISCOSbits</title>
-      <link>https://www.riscository.com/2025/riscosbits-post-london-show/</link>
-      <description>
-        <![CDATA[It&#8217;s now the end of October, and this year&#8217;s London Show has come and gone &#8211; hopefully it was a successful event for exhibitors, and an enjoyable one for visitors. It was certainly successful for RISCOSbits, according to a post-show announcement from Andy Marks. The first thing he mentioned were the slate coasters hinted at almost two weeks before the show, and revealed the day before. Describing them as very popular (I can see why), Andy says they are now a regular product and can be ordered online, individually or&#8230;]]>
-      </description>
-      <source:markdown>It’s now the end of October, and this year’s London Show has come and gone – hopefully it was a successful event for exhibitors, and an enjoyable one for visitors. It was certainly successful for RISCOSbits, according to a post-show announcement from Andy Marks. The first thing he mentioned were the slate coasters hinted at almost two weeks before the show, and revealed the day before. Describing them as very popular (I can see why), Andy says they are now a regular product and can be ordered online, individually or…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10789</guid>
-    </item>    <item>
-      <title>October 2025 News Summary</title>
-      <link>http://www.iconbar.com/comments/rss/news2236.html</link>
-      <description>
-        <![CDATA[Some things we noticed this month. What did you see?]]>
-      </description>
-      <source:markdown>Some things we noticed this month. What did you see?</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2236.html</guid>
     </item>
   </channel>
 </rss>
