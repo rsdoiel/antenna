@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>23 Nov 25 06:09 -0800</lastBuildDate>
+    <lastBuildDate>23 Nov 25 12:12 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,144 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Grid Paper</title>
+      <link>https://daverupert.com/2025/11/grid-paper/</link>
+      <description>
+        <![CDATA[<script src="https://esm.sh/@zachleat/browser-window@1.0.12" type="module"></script>
+        <browser-window flush url="https://grid-paper.daverupert.com">
+        <img src="https://cdn.daverupert.com/posts/2025/grid-paper.jpg" alt="screenshot of my grid paper app with some configurable settings in a header and a grid covering the entire background" height="600" width="1200">
+        </browser-window>
+        <p><a href="https://grid-paper.daverupert.com" class="button">Try Grid Paper</a></p>
+        <p>I’ve been getting into <a href="https://daverupert.com/2025/11/random-mini-dungeons/">drawing dungeons on isomorphic grids</a>. It’s fun but I was a little frustrated with the process of sourcing and printing out graph paper with an isomorphic grid on it. You have two bad options, basically:</p>
+        <ol>
+        <li>Download a low-res JPG you found on Google Image search where the grid sizes are wonky and it has a giant URL on it. <strong>I needed something clean and simple.</strong></li>
+        <li>Buy grid paper on Amazon in bulk. Now I’m thinking about centimeters vs. inches, cost, color, paper size, style, and quantity before I draw a single dungeon. <strong>I needed something ad hoc and with less commitment.</strong></li>
+        </ol>
+        <p>After 15 minutes of getting frustrated I said “I can build this.” And so I did using HTML, CSS, and the tiniest bit of JavaScript. And because it’s a webpage… why limit myself to one kind of grid? I’m able to support ~7 grids types using different kinds of background gradients:</p>
+        <ul>
+        <li>Grids</li>
+        <li>Dot Grids</li>
+        <li>Isomorphic Grids</li>
+        <li>Isomorphic Dot Grids</li>
+        <li>Dual Hex Grids</li>
+        <li>Perspective Grids</li>
+        <li>Two-Point Perspective Grids</li>
+        </ul>
+        <p>Feeling good about this little tool. The quality can be a bit blurry but background gradients and printers are weird. It’d be nice to make it crisper and I might put some effort at the task (use SVG patterns?)… but at less than 5kb and a couple of nights worth of work, I’m happy with the result. It “made the rounds” as they say on the socials and seems to be a common issue other people experience, so I’ll call that a success.</p>]]>
+      </description>
+      <source:markdown>![screenshot of my grid paper app with some configurable settings in a header and a grid covering the entire background](https://cdn.daverupert.com/posts/2025/grid-paper.jpg)
+
+[Try Grid Paper](https://grid-paper.daverupert.com)
+
+I’ve been getting into [drawing dungeons on isomorphic grids](https://daverupert.com/2025/11/random-mini-dungeons/). It’s fun but I was a little frustrated with the process of sourcing and printing out graph paper with an isomorphic grid on it. You have two bad options, basically:
+
+1. Download a low-res JPG you found on Google Image search where the grid sizes are wonky and it has a giant URL on it. **I needed something clean and simple.**
+2. Buy grid paper on Amazon in bulk. Now I’m thinking about centimeters vs. inches, cost, color, paper size, style, and quantity before I draw a single dungeon. **I needed something ad hoc and with less commitment.**
+
+After 15 minutes of getting frustrated I said “I can build this.” And so I did using HTML, CSS, and the tiniest bit of JavaScript. And because it’s a webpage… why limit myself to one kind of grid? I’m able to support ~7 grids types using different kinds of background gradients:
+
+- Grids
+- Dot Grids
+- Isomorphic Grids
+- Isomorphic Dot Grids
+- Dual Hex Grids
+- Perspective Grids
+- Two-Point Perspective Grids
+
+Feeling good about this little tool. The quality can be a bit blurry but background gradients and printers are weird. It’d be nice to make it crisper and I might put some effort at the task (use SVG patterns?)… but at less than 5kb and a couple of nights worth of work, I’m happy with the result. It “made the rounds” as they say on the socials and seems to be a common issue other people experience, so I’ll call that a success.</source:markdown>
+      <guid>cid://https://daverupert.com/2025/11/grid-paper/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/23.html#a175619</link>
+      <description>
+        <![CDATA[I like it when people send me thoughtful responsive notes about things I've written. I think it's possible to set up a social network so that most of what you get follows that pattern. It has to do with incentives.]]>
+      </description>
+      <source:markdown>I like it when people send me thoughtful responsive notes about things I&#39;ve written. I think it&#39;s possible to set up a social network so that most of what you get follows that pattern. It has to do with incentives.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/23.html#a175619</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/23.html#a174031</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2025/11/23/wapuu.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfzstxxYJ18HMnst6ndlRRQX7cH1bs5CJNKYRjUpz4q2UEEaQ/viewform?usp=publish-editor">I'm looking for WordPress sites</a> that are set up to cross-post to ActivityPub. My daveverse site is set up that way which means that you can <a href="https://mastodon.social/@scripting@daveverse.org">follow it</a> in Mastodon, for example, or any other ActivityPub-enabled site. The great thing about this is if you write in WordPress there is no character limit, and you can use links, styling, titles. So much more writing power. I want to see how other people use it.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2025/11/23/wapuu.png)[I&#39;m looking for WordPress sites](https://docs.google.com/forms/d/e/1FAIpQLSfzstxxYJ18HMnst6ndlRRQX7cH1bs5CJNKYRjUpz4q2UEEaQ/viewform?usp=publish-editor) that are set up to cross-post to ActivityPub. My daveverse site is set up that way which means that you can [follow it](https://mastodon.social/@scripting@daveverse.org) in Mastodon, for example, or any other ActivityPub-enabled site. The great thing about this is if you write in WordPress there is no character limit, and you can use links, styling, titles. So much more writing power. I want to see how other people use it.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/23.html#a174031</guid>
+    </item>    <item>
+      <link>https://www.nytimes.com/2025/11/23/opinion/meaning-epstein-emails.html?unlocked_article_code=1.3U8.Huxu.9_Kz7N7AE0LZ&#38;smid=url-share</link>
+      <description>
+        <![CDATA[If it’s a jet set, it’s a carbon-offset-private-jet set. After all, flying commercial won’t get you from your Davos breakfast on empowering African girls with credit cards to your crypto-for-good dinner in Aspen.]]>
+      </description>
+      <source:markdown>If it’s a jet set, it’s a carbon-offset-private-jet set. After all, flying commercial won’t get you from your Davos breakfast on empowering African girls with credit cards to your crypto-for-good dinner in Aspen.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/23/1992/</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115600154465997324</link>
+      <description>
+        <![CDATA[<p>Update: it is not macros that cause this, it is plugins.  If you use a build plugin, it injects the entire build plugin code into your resulting app.</p><p>Still no fix, but at least we know more.</p><p>Thanks to <span class="h-card" translate="no"><a href="https://mastodon.social/@helge" class="u-url mention">@<span>helge</span></a></span> for narrowing down the problem.<br /><a href="https://mastodon.social/@Migueldeicaza/115594351085666431" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@Migueldeicaza</span><span class="invisible">/115594351085666431</span></a></p>]]>
+      </description>
+      <source:markdown>Update: it is not macros that cause this, it is plugins. If you use a build plugin, it injects the entire build plugin code into your resulting app.
+
+Still no fix, but at least we know more.
+
+Thanks to [@helge](https://mastodon.social/@helge) for narrowing down the problem.
+
+[https://mastodon.social/@Migueldeicaza/115594351085666431](https://mastodon.social/@Migueldeicaza/115594351085666431)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115600154465997324</guid>
+    </item>    <item>
+      <link>https://www.aol.com/articles/day-laborer-organizers-protest-home-015254185.html</link>
+      <description>
+        <![CDATA[<p>People in Monrovia, CA are buying and returning inexpensive ice scrapers at Home Depot as an ICE protest. Very civil.</p>]]>
+      </description>
+      <source:markdown>People in Monrovia, CA are buying and returning inexpensive ice scrapers at Home Depot as an ICE protest. Very civil.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/23/1990/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/23.html#a161508</link>
+      <description>
+        <![CDATA[Say someone is working on an open source project, no matter what role they play, they don't own the project. They can't sell it, or profit from ownership. That goes for whatever role a person is playing, if they're the project leader, or just helping out, or even not helping out. Now that's not to say the founder or <a href="https://en.wikipedia.org/wiki/Benevolent_dictator_for_life">show runner</a> couldn't start a business based on the open source software, but so could you. <i>We all own all open source projects and open formats and protocols equally, </i>and that means we <i>don't</i> own it.]]>
+      </description>
+      <source:markdown>Say someone is working on an open source project, no matter what role they play, they don&#39;t own the project. They can&#39;t sell it, or profit from ownership. That goes for whatever role a person is playing, if they&#39;re the project leader, or just helping out, or even not helping out. Now that&#39;s not to say the founder or [show runner](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life) couldn&#39;t start a business based on the open source software, but so could you. _We all own all open source projects and open formats and protocols equally,_ and that means we _don&#39;t_ own it.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/23.html#a161508</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/23.html#a155648</link>
+      <description>
+        <![CDATA[<a href="https://github.com/scripting/feedlandInstall/issues/73">Next FeedLand release</a> has the option of keeping items around for a certain number of days. Running on two servers for burn-in. I don't recommend turning this on now unless you're helping test.]]>
+      </description>
+      <source:markdown>[Next FeedLand release](https://github.com/scripting/feedlandInstall/issues/73) has the option of keeping items around for a certain number of days. Running on two servers for burn-in. I don&#39;t recommend turning this on now unless you&#39;re helping test.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/23.html#a155648</guid>
+    </item>    <item>
+      <title>Post WordCamp note re BloggerCon</title>
+      <link>http://scripting.com/2025/11/23/151604.html?title=postWordcampNoteReBloggercon</link>
+      <description>
+        <![CDATA[<p>This week I had lunch with a developer who had been at <a href="https://daytona.scripting.com/search?q=wordcamp">WordCamp</a> last month. He apologized for not being at my session, but I waved it off. I didn't go to many sessions myself, too many great discussions in the hallway, out on the patio or in the coffee room. </p>
+        <p>I remembered this was the rationale for how and why we did <a href="https://daytona.scripting.com/search?q=bloggercon">BloggerCon</a> in the mid-2000s, to bring the hallway conversations into the meeting rooms. </p>
+        <p>We did this by using a university, its <a href="https://www.google.com/search?q=harvard+%22pound+hall%22+classrooms">classrooms</a>, and we put someone in front of the room called a <i>discussion leader. </i></p>
+        <p>A good DL should know the topic they're leading and be able to start it off with a provocative intro, 5 or so minutes, and then a microphone, held by a student, is moves to a person with their hand up, and they can speak. Not a question. They have something to say. They are the expert of the moment. </p>
+        <p>The leader can cut them off and move the mike to the next person. (Works even better if there are two roving mikes.) When this works, it really holds everyone's attention. </p>
+        <p>This idea came from literally hundreds of hours in boring sessions with a panel of experts and people lined up waiting to speak, in the form of a question of course, and getting nervous and composing a speech in their head, and when its their turn they ramble on and on, so <i>of course</i> the good stuff happens in the hallway. </p>
+        <p>It is harder to do this kind of conference where the "content" takes care of itself. But the BloggerCon type, when it works is far more dynamic. </p>
+        <p>BTW, the best discussion leaders are teachers and reporters. </p>]]>
+      </description>
+      <source:markdown>This week I had lunch with a developer who had been at [WordCamp](https://daytona.scripting.com/search?q=wordcamp) last month. He apologized for not being at my session, but I waved it off. I didn&#39;t go to many sessions myself, too many great discussions in the hallway, out on the patio or in the coffee room.
+
+I remembered this was the rationale for how and why we did [BloggerCon](https://daytona.scripting.com/search?q=bloggercon) in the mid-2000s, to bring the hallway conversations into the meeting rooms.
+
+We did this by using a university, its [classrooms](https://www.google.com/search?q=harvard+%22pound+hall%22+classrooms), and we put someone in front of the room called a _discussion leader._
+
+A good DL should know the topic they&#39;re leading and be able to start it off with a provocative intro, 5 or so minutes, and then a microphone, held by a student, is moves to a person with their hand up, and they can speak. Not a question. They have something to say. They are the expert of the moment.
+
+The leader can cut them off and move the mike to the next person. (Works even better if there are two roving mikes.) When this works, it really holds everyone&#39;s attention.
+
+This idea came from literally hundreds of hours in boring sessions with a panel of experts and people lined up waiting to speak, in the form of a question of course, and getting nervous and composing a speech in their head, and when its their turn they ramble on and on, so _of course_ the good stuff happens in the hallway.
+
+It is harder to do this kind of conference where the &#34;content&#34; takes care of itself. But the BloggerCon type, when it works is far more dynamic.
+
+BTW, the best discussion leaders are teachers and reporters.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/23/151604.html</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/23.html#a142912</link>
+      <description>
+        <![CDATA[ChatGPT makes a pretty <a href="https://github.com/scripting/Scripting-News/issues/338#issuecomment-3568039037">fantastic feed validator</a>.]]>
+      </description>
+      <source:markdown>ChatGPT makes a pretty [fantastic feed validator](https://github.com/scripting/Scripting-News/issues/338#issuecomment-3568039037).</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/23.html#a142912</guid>
     </item>    <item>
       <title>The Supremes</title>
       <link>https://steady.substack.com/p/the-supremes</link>

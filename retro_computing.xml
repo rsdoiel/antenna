@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>23 Nov 25 06:09 -0800</lastBuildDate>
+    <lastBuildDate>23 Nov 25 12:13 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2025/11/23 - Mamie Fletcher&#39;s House for Linux!, Bread maker, Keeping warm.</title>
+      <link>https://heyrick.eu/blog/entry/20251123</link>
+      <description>
+        <![CDATA[Mamie Fletcher's House for Linux!, Bread maker, Keeping warm.]]>
+      </description>
+      <source:markdown>Mamie Fletcher&#39;s House for Linux!, Bread maker, Keeping warm.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20251123</guid>
+    </item>    <item>
       <title>b.log 2025/11/22 - Yikes!, Getting that Lidl pocket printer working with Linux, Befuddlement, The day the United States capitulated, Mental hiccup, Translating Mamie.</title>
       <link>https://heyrick.eu/blog/entry/20251122</link>
       <description>

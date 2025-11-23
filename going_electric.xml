@@ -7,10 +7,19 @@
       Going Electric has feeds involving home and transportation options powered by Electricity
     </description>
     <link>https://rsdoiel.github.io/antenna/going_electric.xml</link>
-    <lastBuildDate>23 Nov 25 06:09 -0800</lastBuildDate>
+    <lastBuildDate>23 Nov 25 12:12 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>How Long Does It Take To Charge An EV? Here’s The Real Breakdown</title>
+      <link>https://insideevs.com/news/779769/ev-charging-basics-explained/</link>
+      <description>
+        <![CDATA[It's one of the central parts of EV ownership. But to newcomers, it's often mystifying. Charging expert Tom Moloughney breaks it down.]]>
+      </description>
+      <source:markdown>It&#39;s one of the central parts of EV ownership. But to newcomers, it&#39;s often mystifying. Charging expert Tom Moloughney breaks it down.</source:markdown>
+      <enclosure url="https://cdn.motor1.com/images/mgl/P3AZj8/s3/2026-hyundai-ioniq-9.jpg" length="28193" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/779769/ev-charging-basics-explained/</guid>
+    </item>    <item>
       <title>Volvo set to ditch LiDAR for 2026 – and Luminar is BIG mad</title>
       <link>https://electrek.co/2025/11/23/volvo-set-to-ditch-lidar-for-2026-and-luminar-is-big-mad/</link>
       <description>

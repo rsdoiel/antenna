@@ -7,10 +7,26 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>23 Nov 25 06:09 -0800</lastBuildDate>
+    <lastBuildDate>23 Nov 25 12:13 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Here&#39;s why concerns about an AI bubble are bigger than ever</title>
+      <link>https://laist.com/news/heres-why-concerns-about-an-ai-bubble-are-bigger-than-ever</link>
+      <description>
+        <![CDATA[Tech companies are pouring billions into AI chips and data centers. Increasingly, they are relying on debt and risky tactics. Financial analysts are worried there's a bubble that will soon pop.]]>
+      </description>
+      <source:markdown>Tech companies are pouring billions into AI chips and data centers. Increasingly, they are relying on debt and risky tactics. Financial analysts are worried there&#39;s a bubble that will soon pop.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-b17c-d8f8-a7df-bd7d83c80000</guid>
+    </item>    <item>
+      <title>Hitting the road for Thanksgiving? Here&#39;s the best time to go</title>
+      <link>https://laist.com/transportation/hitting-the-road-for-thanksgiving-heres-the-best-time-to-go</link>
+      <description>
+        <![CDATA[A record number of people are expected to travel within the U.S. for the holiday, according to AAA. Here are some weather and traffic factors to keep in mind.]]>
+      </description>
+      <source:markdown>A record number of people are expected to travel within the U.S. for the holiday, according to AAA. Here are some weather and traffic factors to keep in mind.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-b157-d019-adbb-bd77d7a60000</guid>
+    </item>    <item>
       <title>Orange County is testing a new electric streetcar service ahead of its 2026 launch</title>
       <link>https://laist.com/transportation/orange-county-testing-electric-streetcar-service-2026-launch</link>
       <description>
@@ -51,7 +67,7 @@
       <source:markdown>The Long Beach City Council says these exhibitions are an outstanding danger to the public and a nuisance to neighborhoods.</source:markdown>
       <guid>cid://urn:uuid:0000019a-ad0f-d8f8-a7df-bd6f221d0000</guid>
     </item>    <item>
-      <title>Updates on Port of LA fire — shelter-in-place lifted, fire &#39;substantially contained&#39;</title>
+      <title>Updates on Port of LA fire — fire &#39;substantially contained,&#39; port fully operational</title>
       <link>https://laist.com/news/updates-on-port-of-la-cargo-fire-zero-percent-containment-shelter-in-place-lifted</link>
       <description>
         <![CDATA[More than 180 firefighters were battling a fire that started Friday evening on a cargo ship docked at the Port of Los Angeles. A shelter-in-place order for San Pedro and Wilmington has been lifted.]]>
