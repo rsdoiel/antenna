@@ -7,10 +7,34 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>22 Nov 25 14:38 -0800</lastBuildDate>
+    <lastBuildDate>23 Nov 25 06:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Orange County is testing a new electric streetcar service ahead of its 2026 launch</title>
+      <link>https://laist.com/transportation/orange-county-testing-electric-streetcar-service-2026-launch</link>
+      <description>
+        <![CDATA[The 4.1-mile service between Garden Grove and Santa Ana has been beset by delays.]]>
+      </description>
+      <source:markdown>The 4.1-mile service between Garden Grove and Santa Ana has been beset by delays.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-a3dd-d8f8-a7df-bffdcf0e0000</guid>
+    </item>    <item>
+      <title>Newsom closed 4 prisons and trimmed payroll. Corrections spending is still over budget</title>
+      <link>https://laist.com/news/newsom-closed-4-prisons-and-trimmed-payroll-corrections-spending-is-still-over-budget</link>
+      <description>
+        <![CDATA[California’s $17.5 billion prison system is over budget, contributing to a projected state deficit. Some groups want him to close more prisons.]]>
+      </description>
+      <source:markdown>California’s $17.5 billion prison system is over budget, contributing to a projected state deficit. Some groups want him to close more prisons.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-ad21-d019-adbb-bd63f6ed0000</guid>
+    </item>    <item>
+      <title>The internet’s biggest Chinese rapper IRL … in Santa Ana</title>
+      <link>https://laist.com/news/arts-and-entertainment/skai-isyourgod-chinese-rapper-irl-santa-ana</link>
+      <description>
+        <![CDATA[You may not know his face, but if you have been on Instagram for any amount of time in the last couple years, you’ve heard the music of SKAI Isyourgod.]]>
+      </description>
+      <source:markdown>You may not know his face, but if you have been on Instagram for any amount of time in the last couple years, you’ve heard the music of SKAI Isyourgod.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-a37f-dc66-a5bb-abff21ed000a</guid>
+    </item>    <item>
       <title>How Marjorie Taylor Greene went from a top Trump ally to choosing to resign</title>
       <link>https://laist.com/news/politics/how-marjorie-taylor-greene-went-from-a-top-trump-ally-to-choosing-to-resign</link>
       <description>
@@ -18,6 +42,14 @@
       </description>
       <source:markdown>Georgia Rep. Marjorie Taylor Greene was one of President Trump&#39;s most outspoken supporters. But she is planning to leave office following a growing rift with the president.</source:markdown>
       <guid>cid://urn:uuid:0000019a-ad83-d6b9-adfb-eddfff6e0000</guid>
+    </item>    <item>
+      <title>Long Beach will penalize people for promoting street races, car sideshows</title>
+      <link>https://laist.com/news/criminal-justice/long-beach-will-penalize-people-for-promoting-street-races-car-sideshows</link>
+      <description>
+        <![CDATA[The Long Beach City Council says these exhibitions are an outstanding danger to the public and a nuisance to neighborhoods.]]>
+      </description>
+      <source:markdown>The Long Beach City Council says these exhibitions are an outstanding danger to the public and a nuisance to neighborhoods.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-ad0f-d8f8-a7df-bd6f221d0000</guid>
     </item>    <item>
       <title>Updates on Port of LA fire — shelter-in-place lifted, fire &#39;substantially contained&#39;</title>
       <link>https://laist.com/news/updates-on-port-of-la-cargo-fire-zero-percent-containment-shelter-in-place-lifted</link>
@@ -823,14 +855,6 @@ The post [’60 Miles East:’ A New Exhibit Celebrates The Era When Local Punk,
       <source:markdown>Thousands of University of California campus and health center employees are on a two-day strike after stalled negotiations.</source:markdown>
       <guid>cid://urn:uuid:0000019a-9304-d17f-abba-dfd6dca10000</guid>
     </item>    <item>
-      <title>These books come with the Larry Mantle stamp of approval</title>
-      <link>https://laist.com/news/los-angeles-activities/gift-guide-larry-mantle-books</link>
-      <description>
-        <![CDATA[The AirTalk host recommends coffee table books about Art Deco and car culture, as well as a book about Shohei Ohtani and a guide to Hollywood careers.]]>
-      </description>
-      <source:markdown>The AirTalk host recommends coffee table books about Art Deco and car culture, as well as a book about Shohei Ohtani and a guide to Hollywood careers.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-7521-d7d8-a19b-f7a527d80000</guid>
-    </item>    <item>
       <title>The IYKYK list for real ones across Southern California</title>
       <link>https://laist.com/news/los-angeles-activities/gift-guide-los-angeles-if-you-know-you-know</link>
       <description>
@@ -838,6 +862,14 @@ The post [’60 Miles East:’ A New Exhibit Celebrates The Era When Local Punk,
       </description>
       <source:markdown>If you know Altadena Hardware, Pomona&#39;s 6 Ps logo, Chef&#39;s Coffee Shop ... then you know.</source:markdown>
       <guid>cid://urn:uuid:0000019a-8493-dbac-afdf-87930c590000</guid>
+    </item>    <item>
+      <title>These books come with the Larry Mantle stamp of approval</title>
+      <link>https://laist.com/news/los-angeles-activities/gift-guide-larry-mantle-books</link>
+      <description>
+        <![CDATA[The AirTalk host recommends coffee table books about Art Deco and car culture, as well as a book about Shohei Ohtani and a guide to Hollywood careers.]]>
+      </description>
+      <source:markdown>The AirTalk host recommends coffee table books about Art Deco and car culture, as well as a book about Shohei Ohtani and a guide to Hollywood careers.</source:markdown>
+      <guid>cid://urn:uuid:0000019a-7521-d7d8-a19b-f7a527d80000</guid>
     </item>    <item>
       <title>Gift Guide: Put these under a tree for the gardeners and plant parents in your life</title>
       <link>https://laist.com/news/los-angeles-activities/gift-guide-2025-gardeners-and-plant-parents</link>
@@ -2484,89 +2516,6 @@ The post [Explore the Circle of Life at the Santa Clarita Public Library Valenci
       </description>
       <source:markdown>UCLA bat biologist Joey Curti hopes his nighttime bat walks will educate people about the diversity of species flapping just above our heads.</source:markdown>
       <guid>cid://urn:uuid:0000019a-35ae-d6de-afbf-b7eee59e0000</guid>
-    </item>    <item>
-      <title>&#39;I Love LA&#39; is a self-aware comedy for the chronically online</title>
-      <link>https://laist.com/news/i-love-la-is-a-self-aware-comedy-for-the-chronically-online</link>
-      <description>
-        <![CDATA[The new HBO show is the culmination of Rachel Sennott's career thus far.]]>
-      </description>
-      <source:markdown>The new HBO show is the culmination of Rachel Sennott&#39;s career thus far.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-40a2-d84d-affa-ceea988c0000</guid>
-    </item>    <item>
-      <title>With the outlook for SNAP benefits uncertain, food banks are warning of a crisis</title>
-      <link>https://laist.com/news/with-the-outlook-for-snap-benefits-uncertain-food-banks-are-warning-of-a-crisis</link>
-      <description>
-        <![CDATA[The impasse over funding the government means that the nearly 1 in 8 U.S. residents who rely on SNAP to buy groceries may be facing at least a temporary lapse in benefits.]]>
-      </description>
-      <source:markdown>The impasse over funding the government means that the nearly 1 in 8 U.S. residents who rely on SNAP to buy groceries may be facing at least a temporary lapse in benefits.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-407c-d79e-adfb-5dfe488e0000</guid>
-    </item>    <item>
-      <title>Kicking Off the Holidays with Light Up Main Street!</title>
-      <link>https://santaclarita.gov/blog/2025/11/01/kicking-off-the-holidays-with-light-up-main-street/</link>
-      <description>
-        <![CDATA[<p>By City Manager Ken Striplin Each year, one of Santa Clarita’s most treasured events transforms Old Town Newhall into a shining display of holiday cheer. On Saturday, November 15, from 4:00 to 8:00 p.m., residents are invited to join the Santa Clarita City Council for Light Up Main Street, presented by DrinkPak. This event marks [&#8230;]</p>
-        <p>The post <a href="https://santaclarita.gov/blog/2025/11/01/kicking-off-the-holidays-with-light-up-main-street/">Kicking Off the Holidays with Light Up Main Street!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
-      </description>
-      <source:markdown>By City Manager Ken Striplin Each year, one of Santa Clarita’s most treasured events transforms Old Town Newhall into a shining display of holiday cheer. On Saturday, November 15, from 4:00 to 8:00 p.m., residents are invited to join the Santa Clarita City Council for Light Up Main Street, presented by DrinkPak. This event marks \[…\]
-
-The post [Kicking Off the Holidays with Light Up Main Street!](https://santaclarita.gov/blog/2025/11/01/kicking-off-the-holidays-with-light-up-main-street/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
-      <guid>cid://https://santaclarita.gov/?p=7003</guid>
-    </item>    <item>
-      <title>Dodgers force World Series to decisive Game 7 by holding off Blue Jays 3-1</title>
-      <link>https://laist.com/news/dodgers-force-world-series-decisive-game-7-vs-blue-jays</link>
-      <description>
-        <![CDATA[Yoshinobu Yamamoto beat Toronto for the second time in a week, as the defending champion Dodgers held off the Blue Jays 3-1 on Friday night.]]>
-      </description>
-      <source:markdown>Yoshinobu Yamamoto beat Toronto for the second time in a week, as the defending champion Dodgers held off the Blue Jays 3-1 on Friday night.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-409c-d6cf-a9ff-69bf79920000</guid>
-    </item>    <item>
-      <title>The Trump administration move to study aluminum in vaccines worries scientists</title>
-      <link>https://laist.com/news/the-trump-administration-move-to-study-aluminum-in-vaccines-worries-scientists</link>
-      <description>
-        <![CDATA[For almost a century, some important vaccines, including shots that protect against diphtheria, tetanus, hepatitis and the flu, have included aluminum salts.]]>
-      </description>
-      <source:markdown>For almost a century, some important vaccines, including shots that protect against diphtheria, tetanus, hepatitis and the flu, have included aluminum salts.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-4050-d3d8-a39a-425b91240000</guid>
-    </item>    <item>
-      <title>Dodgers are World Series champions after defeating Blue Jays in dramatic Game 7</title>
-      <link>https://laist.com/news/world-series-game-7-the-winner-takes-all-as-dodgers-seek-a-repeat-title-tonight</link>
-      <description>
-        <![CDATA[The Dodgers offense awakened late in in the final game of the 2025 World Series to defeat Toronto, 5-4, in the 11th inning.]]>
-      </description>
-      <source:markdown>The Dodgers offense awakened late in in the final game of the 2025 World Series to defeat Toronto, 5-4, in the 11th inning.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-401d-d6cf-a9ff-693fd6650000</guid>
-    </item>    <item>
-      <title>Scenes from a food bank in LA this weekend as SNAP benefits lapse</title>
-      <link>https://laist.com/news/scenes-from-a-local-food-bank-in-la-this-weekend-as-snap-benefits-lapse</link>
-      <description>
-        <![CDATA[Volunteers expect dozens of people to show up this Saturday to get food products as federal food assistance lapses.]]>
-      </description>
-      <source:markdown>Volunteers expect dozens of people to show up this Saturday to get food products as federal food assistance lapses.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-4022-d84d-affa-ceeabff30000</guid>
-    </item>    <item>
-      <title>Angelenos are celebrating Día de los Muertos. Here’s who they’re honoring today</title>
-      <link>https://laist.com/news/los-angeles-activities/angelenos-dia-de-los-muertos-who-theyre-honoring</link>
-      <description>
-        <![CDATA[LAist heard from Angelenos about their loved ones who have passed. Here’s what they shared of their favorite memories.]]>
-      </description>
-      <source:markdown>LAist heard from Angelenos about their loved ones who have passed. Here’s what they shared of their favorite memories.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-3c12-d3bb-a59a-bfd3701d0000</guid>
-    </item>    <item>
-      <title>How the tiny city of San Fernando in the Valley avoided being swallowed up by LA</title>
-      <link>https://laist.com/news/la-history/la-san-fernando-city-founding-sfv</link>
-      <description>
-        <![CDATA[It all came down to one precious asset.]]>
-      </description>
-      <source:markdown>It all came down to one precious asset.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-3b57-d11e-a5de-3bdf01440000</guid>
-    </item>    <item>
-      <title>Angelenos are celebrating Día de los Muertos. Here’s who they’re honoring today</title>
-      <link>https://laist.com/news/angelenos-dia-de-los-muertos-who-theyre-honoring</link>
-      <description>
-        <![CDATA[LAist heard from Angelenos about their loved ones who have passed. Here’s what they shared of their favorite memories.]]>
-      </description>
-      <source:markdown>LAist heard from Angelenos about their loved ones who have passed. Here’s what they shared of their favorite memories.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-3c12-d3bb-a59a-bfd3701d0000</guid>
     </item>
   </channel>
 </rss>

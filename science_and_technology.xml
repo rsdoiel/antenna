@@ -4,14 +4,37 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>22 Nov 25 14:38 -0800</lastBuildDate>
+    <lastBuildDate>23 Nov 25 06:09 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Is AI Creating a New Code Review Bottleneck for Senior Engineers?</title>
+      <link>https://thenewstack.io/is-ai-creating-a-new-code-review-bottleneck-for-senior-engineers/</link>
+      <description>
+        <![CDATA[<img width="1024" height="683" src="https://cdn.thenewstack.io/media/2025/11/a7296cca-andre-ouellet-6qbk7gk2ji0-unsplash-1024x683.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/a7296cca-andre-ouellet-6qbk7gk2ji0-unsplash.jpg" /><p>Irish software engineer Addy Osmani is not opposed to vibe coding. And yet this Google Gemini developer (who is also</p>
+        <p>The post <a href="https://thenewstack.io/is-ai-creating-a-new-code-review-bottleneck-for-senior-engineers/">Is AI Creating a New Code Review Bottleneck for Senior Engineers?</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/a7296cca-andre-ouellet-6qbk7gk2ji0-unsplash-1024x683.jpg)
+
+Irish software engineer Addy Osmani is not opposed to vibe coding. And yet this Google Gemini developer (who is also
+
+The post [Is AI Creating a New Code Review Bottleneck for Senior Engineers?](https://thenewstack.io/is-ai-creating-a-new-code-review-bottleneck-for-senior-engineers/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22806769</guid>
+    </item>    <item>
+      <title>Bossware booms as bots determine whether you&#39;re doing a good job</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/23/bossware_monitor_remote_employees/</link>
+      <description>
+        <![CDATA[<h4>A lot of companies are turning to employee monitoring tools to make sure workers aren&#39;t slacking off</h4> <p>The COVID-19 lockdown meant a surge in remote work, and the trend toward remote and hybrid workplaces has persisted long after the pandemic receded. That has changed the nature of workplace management as well. Bosses can&#39;t check for butts in seats or look over their employees&#39; shoulders in the office to make sure they&#39;re working instead of having a LAN party. So they&#39;ve turned to software tools to fill the gap.…</p>]]>
+      </description>
+      <source:markdown>#### A lot of companies are turning to employee monitoring tools to make sure workers aren&#39;t slacking off
+
+The COVID-19 lockdown meant a surge in remote work, and the trend toward remote and hybrid workplaces has persisted long after the pandemic receded. That has changed the nature of workplace management as well. Bosses can&#39;t check for butts in seats or look over their employees&#39; shoulders in the office to make sure they&#39;re working instead of having a LAN party. So they&#39;ve turned to software tools to fill the gap.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243182</guid>
+    </item>    <item>
       <title>From Chaotic Vibes to Real Velocity With AI-First Engineering</title>
       <link>https://thenewstack.io/from-chaotic-vibes-to-real-velocity-with-ai-first-engineering/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/7f503fed-people123-1024x576.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/7f503fed-people123.jpeg" /><p>In 2025, vibe coding became more than a meme; it became a full-blown movement. Suddenly, non-developers were spinning up apps</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/7f503fed-people123-1024x576.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/7f503fed-people123.jpeg" /><p>In 2025, vibe coding became more than a meme; it became a full-blown movement. Suddenly, non-developers were spinning up apps</p>
         <p>The post <a href="https://thenewstack.io/from-chaotic-vibes-to-real-velocity-with-ai-first-engineering/">From Chaotic Vibes to Real Velocity With AI-First Engineering</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/7f503fed-people123-1024x576.jpeg)
@@ -24,7 +47,7 @@ The post [From Chaotic Vibes to Real Velocity With AI-First Engineering](https:/
       <title>WebAssembly Still Expanding Frontend Uses 10 Years Later</title>
       <link>https://thenewstack.io/webassembly-still-expanding-frontend-uses-10-years-later/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/3c23a316-tenyearswasm-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="A web" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/3c23a316-tenyearswasm.jpg" /><p>It&#8217;s been 10 years since Mozilla, Microsoft, Apple and announced&#160;WebAssembly (Wasm) as a collaborative effort. Back then, the goal seemed</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/11/3c23a316-tenyearswasm-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="A web" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/3c23a316-tenyearswasm.jpg" /><p>It&#8217;s been 10 years since Mozilla, Microsoft, Apple and announced&#160;WebAssembly (Wasm) as a collaborative effort. Back then, the goal seemed</p>
         <p>The post <a href="https://thenewstack.io/webassembly-still-expanding-frontend-uses-10-years-later/">WebAssembly Still Expanding Frontend Uses 10 Years Later</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![A web](https://cdn.thenewstack.io/media/2025/11/3c23a316-tenyearswasm-1024x576.jpg)
@@ -12996,143 +13019,6 @@ Fortytwo, a Silicon Valley startup, was founded last year based on the idea that
       </description>
       <source:markdown>Die DFG hat eine Initiative zum Sichern gefährdeter Datenbestände gestartet. Es geht um Forschungsergebnisse, die auf ausländischen Cloud-Speichern lagern.</source:markdown>
       <guid>cid://http://heise.de/-10966079</guid>
-    </item>    <item>
-      <title>Top 10: Balkonkraftwerk mit Speicher im Test – Top-Modelle zum Bestpreis</title>
-      <link>https://www.heise.de/bestenlisten/testsieger/top-10-balkonkraftwerk-mit-speicher-im-test-top-modelle-zum-bestpreis/9g7b03h?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Akkus fürs Balkonkraftwerk speichern Überschussstrom für die Nacht und schlechtes Wetter. Wir zeigen die besten Speicher, um Stromkosten zu senken.]]>
-      </description>
-      <source:markdown>Akkus fürs Balkonkraftwerk speichern Überschussstrom für die Nacht und schlechtes Wetter. Wir zeigen die besten Speicher, um Stromkosten zu senken.</source:markdown>
-      <guid>cid://http://heise.de/-10965967</guid>
-    </item>    <item>
-      <title>Best Linux Distros for Development</title>
-      <link>https://thenewstack.io/best-linux-distros-for-development/</link>
-      <description>
-        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/10/8dd22a77-gabriel-heinzer-4mw7nkqdbyk-unsplash-1024x768.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/8dd22a77-gabriel-heinzer-4mw7nkqdbyk-unsplash.jpg" /><p>Linux has been slowly gaining popularity over the past few years for both end users and developers. There are many</p>
-        <p>The post <a href="https://thenewstack.io/best-linux-distros-for-development/">Best Linux Distros for Development</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
-      </description>
-      <source:markdown>![](https://cdn.thenewstack.io/media/2025/10/8dd22a77-gabriel-heinzer-4mw7nkqdbyk-unsplash-1024x768.jpg)
-
-Linux has been slowly gaining popularity over the past few years for both end users and developers. There are many
-
-The post [Best Linux Distros for Development](https://thenewstack.io/best-linux-distros-for-development/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
-      <guid>cid://https://thenewstack.io/?p=22804813</guid>
-    </item>    <item>
-      <title>Soundbar KEF Xio im Test: grandioser Klang – auch ohne Subwoofer</title>
-      <link>https://www.heise.de/bestenlisten/testbericht/soundbar-kef-xio-im-test-grandioser-klang-auch-ohne-subwoofer/jfwrvft?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Mit 12 Lautsprechern und einer Musikleistung von 820 Watt will die KEF Xio bei Soundbars neue Maßstäbe setzen. Ob und wie gut ihr das gelingt, zeigt unser Test.]]>
-      </description>
-      <source:markdown>Mit 12 Lautsprechern und einer Musikleistung von 820 Watt will die KEF Xio bei Soundbars neue Maßstäbe setzen. Ob und wie gut ihr das gelingt, zeigt unser Test.</source:markdown>
-      <guid>cid://http://heise.de/-10965922</guid>
-    </item>    <item>
-      <title>Telco-Manager: Europas digitale Wettbewerbsfähigkeit und Sicherheit in Gefahr</title>
-      <link>https://www.heise.de/news/Telco-Manager-Europas-digitale-Wettbewerbsfaehigkeit-und-Sicherheit-in-Gefahr-10966006.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Die Chefs der größten Telekommunikationskonzerne Europas kritisieren in einem Brief an von der Leyen ihre große Sorge über das Zögern beim Digital Networks Act.]]>
-      </description>
-      <source:markdown>Die Chefs der größten Telekommunikationskonzerne Europas kritisieren in einem Brief an von der Leyen ihre große Sorge über das Zögern beim Digital Networks Act.</source:markdown>
-      <guid>cid://http://heise.de/-10966006</guid>
-    </item>    <item>
-      <title>JavaScript Utility Library Lodash Changing Governance Model</title>
-      <link>https://thenewstack.io/javascript-utility-library-lodash-changing-governance-model/</link>
-      <description>
-        <![CDATA[<img width="1024" height="577" src="https://cdn.thenewstack.io/media/2024/04/d8b458d6-dev_news_img-2-2-1024x577.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Dev News logo" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2024/04/d8b458d6-dev_news_img-2-2.png" /><p>Things are changing over at Lodash and the project is starting a new chapter, according to Ulises Gasc&#243;n, who is</p>
-        <p>The post <a href="https://thenewstack.io/javascript-utility-library-lodash-changing-governance-model/">JavaScript Utility Library Lodash Changing Governance Model</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
-      </description>
-      <source:markdown>![Dev News logo](https://cdn.thenewstack.io/media/2024/04/d8b458d6-dev_news_img-2-2-1024x577.png)
-
-Things are changing over at Lodash and the project is starting a new chapter, according to Ulises Gascón, who is
-
-The post [JavaScript Utility Library Lodash Changing Governance Model](https://thenewstack.io/javascript-utility-library-lodash-changing-governance-model/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
-      <guid>cid://https://thenewstack.io/?p=22805043</guid>
-    </item>    <item>
-      <title>Italiens Staatsbahn will in Deutschland einsteigen</title>
-      <link>https://www.heise.de/news/Italiens-Staatsbahn-erwaegt-Einstieg-ins-Fernverkehrsgeschaeft-10965971.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Die italienische Staatsbahn denkt über einen Einstieg ins deutsche Fernverkehrsgeschäft nach – und würde dort der Deutschen Bahn Konkurrenz machen.]]>
-      </description>
-      <source:markdown>Die italienische Staatsbahn denkt über einen Einstieg ins deutsche Fernverkehrsgeschäft nach – und würde dort der Deutschen Bahn Konkurrenz machen.</source:markdown>
-      <guid>cid://http://heise.de/-10965971</guid>
-    </item>    <item>
-      <title>OpenAI’s Apps SDK: A Developer’s Guide to Getting Started</title>
-      <link>https://thenewstack.io/openais-apps-sdk-a-developers-guide-to-getting-started/</link>
-      <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/10/a9c3c598-ethan-currier-23jcwyguv_0-unsplash-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="app in a box" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/a9c3c598-ethan-currier-23jcwyguv_0-unsplash.jpg" /><p>&#8220;The ChatGPT app ecosystem is built on trust,&#8221; OpenAI&#8217;s guidelines for app developers proclaim. As the AI ecosystem expands, OpenAI&#8217;s</p>
-        <p>The post <a href="https://thenewstack.io/openais-apps-sdk-a-developers-guide-to-getting-started/">OpenAI’s Apps SDK: A Developer’s Guide to Getting Started</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
-      </description>
-      <source:markdown>![app in a box](https://cdn.thenewstack.io/media/2025/10/a9c3c598-ethan-currier-23jcwyguv_0-unsplash-1024x576.jpg)
-
-“The ChatGPT app ecosystem is built on trust,” OpenAI’s guidelines for app developers proclaim. As the AI ecosystem expands, OpenAI’s
-
-The post [OpenAI’s Apps SDK: A Developer’s Guide to Getting Started](https://thenewstack.io/openais-apps-sdk-a-developers-guide-to-getting-started/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
-      <guid>cid://https://thenewstack.io/?p=22805024</guid>
-    </item>    <item>
-      <title>heise-Angebot: c’t Sonderheft KI-Wissen 2/2025 – Jetzt erhältlich</title>
-      <link>https://www.heise.de/news/c-t-Sonderheft-KI-Wissen-2-2025-Jetzt-erhaeltlich-10963730.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[KI erobert alles – Medizin, Musik, Umwelt, Wirtschaft und Politik. Doch wem gehören Daten, Kreativität und Verantwortung? Antworten im neuen c’t-Sonderheft.]]>
-      </description>
-      <source:markdown>KI erobert alles – Medizin, Musik, Umwelt, Wirtschaft und Politik. Doch wem gehören Daten, Kreativität und Verantwortung? Antworten im neuen c’t-Sonderheft.</source:markdown>
-      <guid>cid://http://heise.de/-10963730</guid>
-    </item>    <item>
-      <title>AWS treibt Wachstum bei Amazon</title>
-      <link>https://www.heise.de/news/AWS-treibt-Wachstum-bei-Amazon-10965955.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Auf die Cloud-Sparte von Amazon greifen Dutzende große und kleine Unternehmen zu. Sie wuchs zuletzt so schnell wie seit Jahren nicht mehr.]]>
-      </description>
-      <source:markdown>Auf die Cloud-Sparte von Amazon greifen Dutzende große und kleine Unternehmen zu. Sie wuchs zuletzt so schnell wie seit Jahren nicht mehr.</source:markdown>
-      <guid>cid://http://heise.de/-10965955</guid>
-    </item>    <item>
-      <title>China deutet Ausnahmen von Nexperia-Lieferstopp an</title>
-      <link>https://www.heise.de/news/China-deutet-Ausnahmen-von-Nexperia-Lieferstopp-an-10965916.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Die Lieferprobleme bei Nexperia könnten zunehmen –  und damit auch deutsche Autoindustrie treffen. China lenkt etwas ein.]]>
-      </description>
-      <source:markdown>Die Lieferprobleme bei Nexperia könnten zunehmen – und damit auch deutsche Autoindustrie treffen. China lenkt etwas ein.</source:markdown>
-      <guid>cid://http://heise.de/-10965916</guid>
-    </item>    <item>
-      <title>heise-Angebot: iX-Workshop: Exchange Migration – von Exchange OnPrem zu Exchange Online</title>
-      <link>https://www.heise.de/news/iX-Workshop-Exchange-Migration-von-Exchange-OnPrem-zu-Exchange-Online-10963012.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[So migrieren Sie Ihren Exchange Server 2016 oder 2019 zu Exchange Online – eine Schritt-für-Schritt-Anleitung.]]>
-      </description>
-      <source:markdown>So migrieren Sie Ihren Exchange Server 2016 oder 2019 zu Exchange Online – eine Schritt-für-Schritt-Anleitung.</source:markdown>
-      <guid>cid://http://heise.de/-10963012</guid>
-    </item>    <item>
-      <title>Developer Snapshots: Kleinere News der Woche</title>
-      <link>https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-10965399.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Die Übersicht enthält kleine, aber interessante Meldungen zu Qt Creator, Amber, GitHub, Rust, Theia AI, Google, Apache Arrow, Rspack und OpenAPI.]]>
-      </description>
-      <source:markdown>Die Übersicht enthält kleine, aber interessante Meldungen zu Qt Creator, Amber, GitHub, Rust, Theia AI, Google, Apache Arrow, Rspack und OpenAPI.</source:markdown>
-      <guid>cid://http://heise.de/-10965399</guid>
-    </item>    <item>
-      <title>Robotic lawnmower uses AI to dodge cats, toys</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/01/robotic_lawnmower_ai/</link>
-      <description>
-        <![CDATA[<h4>The Sunseeker Elite X5 can mow on its own, but it doesn&#39;t come cheap</h4> <p>The tentacles of AI seem to be reaching everywhere, even to the humble lawnmower. We tested the Sunseeker Elite X5, a robotic mower that uses machine learning to steer around your lawn, to see what happens when artificial intelligence meets whirling blades of doom.…</p>]]>
-      </description>
-      <source:markdown>#### The Sunseeker Elite X5 can mow on its own, but it doesn&#39;t come cheap
-
-The tentacles of AI seem to be reaching everywhere, even to the humble lawnmower. We tested the Sunseeker Elite X5, a robotic mower that uses machine learning to steer around your lawn, to see what happens when artificial intelligence meets whirling blades of doom.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242764</guid>
-    </item>    <item>
-      <title>Docker Image Security – Teil 3: Minimale, sichere Container-Images selbst bauen</title>
-      <link>https://www.heise.de/hintergrund/Docker-Image-Security-Teil-3-Minimale-sichere-Container-Images-selbst-bauen-10964627.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Minimale Container-Images reduzieren Schwachstellen durch weniger Komponenten. Anleitung für eigene Images mit Ubuntu Chiseled, WolfiOS und Azure Linux.]]>
-      </description>
-      <source:markdown>Minimale Container-Images reduzieren Schwachstellen durch weniger Komponenten. Anleitung für eigene Images mit Ubuntu Chiseled, WolfiOS und Azure Linux.</source:markdown>
-      <guid>cid://http://heise.de/-10964627</guid>
-    </item>    <item>
-      <title>Digitaler Euro: Verhandlungsführer des EU-Parlaments ist gegen Online-Nutzung</title>
-      <link>https://www.heise.de/news/Digitaler-Euro-Verhandlungsfuehrer-des-EU-Parlaments-ist-gegen-Online-Nutzung-10965775.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Der Berichterstatter der EU-Abgeordneten, Fernando Navarrete Rojas, will den digitalen Euro nur, wenn die Wirtschaft keine eigene einschlägige Lösung anbietet.]]>
-      </description>
-      <source:markdown>Der Berichterstatter der EU-Abgeordneten, Fernando Navarrete Rojas, will den digitalen Euro nur, wenn die Wirtschaft keine eigene einschlägige Lösung anbietet.</source:markdown>
-      <guid>cid://http://heise.de/-10965775</guid>
     </item>
   </channel>
 </rss>
